@@ -68,8 +68,6 @@ Los requisitos de validez del pasaporte por país cambian sin previo aviso —un
 
 Siempre verifica tus requisitos específicos usando el IATA Travel Centre, el sistema que las aerolíneas usan para verificar documentos de pasajeros en tiempo real.
 
-**Travel Document Vault** comprueba con Pro los pasaportes vinculados usando un margen predeterminado de 180 días después del final del viaje guardado, salvo que configures un margen de validez personalizado. Comprueba por separado la norma real de tu destino. [Descárgalo en App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) y [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog).
-
 ## Cuándo No Se Aplica la Regla de los 6 Meses
 
 Muchos destinos no piden nada más allá de las fechas de tu viaje. El Foreign Office del Reino Unido lo expresa claramente para Japón: tu pasaporte debe ser válido durante la duración de tu estancia, y no se requiere ningún periodo adicional de validez. Australia y Estados Unidos usan el mismo estándar, pidiendo solo que tu pasaporte permanezca válido durante la duración de tu estancia prevista.

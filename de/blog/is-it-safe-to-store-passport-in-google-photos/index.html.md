@@ -85,10 +85,6 @@ Das gleiche Kontorisiko gilt für beide Plattformen. Ein schwaches Apple ID-Pass
 
 Wenn Sie ein iPhone-Benutzer sind, ist das Aktivieren von **Advanced Data Protection in iCloud** einen Versuch wert. Eine speziell entwickelte verschlüsselte App ohne Cloud-Upload bleibt die stärkste Option für die Reisepass-Speicherung, egal auf welcher Plattform Sie sich befinden.
 
-**Travel Document Vault** speichert Ihre Reisepass-Scans lokal auf dem Gerät mit starker Verschlüsselung. Kein Konto erforderlich. Mit Pro können Sie eine verschlüsselte Kopie in Ihrem eigenen iCloud oder Google Drive sichern. Bewahren Sie Ihren Wiederherstellungscode sicher auf: Sie brauchen ihn, um dieses Backup wiederherzustellen. [Herunterladen auf dem App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
-![Diagramm dazu, was ein Passfoto verrät, Name, Geburtsdatum, Reisepassnummer und Foto, neben drei Risiken, Account-Einbruch, Zugriff durch Dritte und Datenindexierung, und drei sichereren Optionen: iCloud mit ADP, eine verschlüsselte App, oder eine Offline-Kopie](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/passport-data-risks-de.jpg) Ein Foto, vier Datenpunkte und drei ruhigere Orte, um sie aufzubewahren.
-
 ## Was sind die sichereren Alternativen?
 
 Wenn Sie eine digitale Reisepasskopie zur Hand haben möchten, wenn Sie reisen – als Backup, wenn Ihr physischer Reisepass verloren geht oder gestohlen wird – gibt es Optionen, die Ihnen echte Sicherheit ohne viel Unannehmlichkeiten geben.

@@ -77,8 +77,6 @@ The same account-compromise risk applies to both platforms. A weak Apple ID pass
 
 If you're an iPhone user, enabling **Advanced Data Protection in iCloud** is worth doing. A purpose-built encrypted app with no cloud upload remains the strongest option for passport storage regardless of which platform you're on.
 
-**Travel Document Vault** stores your passport scans on-device with strong encryption and no account required. With Pro, you can back up an encrypted copy to your own iCloud or Google Drive. Keep your recovery code safe: you'll need it to restore that backup. [Download on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 ![Hand-drawn diagram of what a passport photo gives away - name, date of birth, passport number and photo - flowing into three risks: account breach, third-party access and data indexing, with three safer options below: iCloud with ADP, an encrypted app, or an offline copy](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/passport-data-risks.jpg) One photo, four data points, and three calmer places to keep them.
 
 ## What Are the Safer Alternatives?

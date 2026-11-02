@@ -56,17 +56,15 @@ Die folgende Tabelle deckt die häufigsten Ziele ab. Richtlinien ändern sich, a
 | Kenya | 6 Monate | eVisa erforderlich; Sechsmonats-Regel gilt |
 | Turkey | 6 Monate *(empfohlen)* | Offiziell 60 Tage über Aufenthalt hinaus; Airlines wenden Sechsmonats-Standard an |
 | EU / Schengen | 3 Monate über die Abreise hinaus | Plus ein Ausstellungsdatum unter 10 Jahren |
-| United Kingdom | Nur Aufenthaltsdauer | Britische Bürger im Ausland unterliegen immer noch den Regeln des Ziellandes |
+| Vereinigtes Königreich | Nur Aufenthaltsdauer | Britische Bürger im Ausland unterliegen immer noch den Regeln des Ziellandes |
 | USA | Nur Aufenthaltsdauer | Amerikanische Bürger im Ausland unterliegen den Regeln des Ziellandes |
-| Japan / Australia / NZ | Nur Aufenthaltsdauer | Keine Sechsmonats-Erweiterungsregel für Besucher |
+| Japan / Australien / Neuseeland | Nur Aufenthaltsdauer | Keine Sechsmonats-Erweiterungsregel für Besucher |
 
 Dies ist keine umfassende Liste, und die Anforderungen variieren je nach Ihrer Nationalität – nicht nur je nach Ziel. Überprüfen Sie immer Ihre offizielle Reisewarnung der Regierung, bevor Sie buchen.
 
 Anforderungen zur Reisepass-Gültigkeit nach Land ändern sich ohne Vorankündigung – ein bilaterales Abkommen kann die Regeln für Ihren spezifischen Pass stillschweigend ändern. Deshalb ist es nicht Paranoia, vor jeder internationalen Reise eine aktuelle offizielle Quelle zu überprüfen, es ist einfach gute Praxis.
 
 Überprüfen Sie Ihre spezifischen Anforderungen immer mit dem IATA Travel Centre, dem System, das Airlines verwenden, um Passagierdokumente in Echtzeit zu überprüfen.
-
-**Travel Document Vault** prüft mit Pro verknüpfte Reisepässe standardmäßig mit einem Puffer von 180 Tagen nach dem gespeicherten Reiseende, sofern Sie keinen eigenen Gültigkeitspuffer festlegen. Prüfen Sie die tatsächliche Regel Ihres Ziellandes gesondert. [Im App Store herunterladen](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) und [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog).
 
 ## Wann die Sechsmonats-Regel nicht gilt
 
@@ -136,7 +134,7 @@ Die Sechsmonats-Reisepass-Regel verlangt sechs Monate Reisepass-Gültigkeit für
 
 Länder, die üblicherweise eine Gültigkeit von 6 Monaten für den Reisepass erfordern, sind Thailand, Indonesien, Vietnam, die Philippinen und Indien, sowie viele andere in Asien und Afrika. Die Anforderungen ändern sich, daher sollten Sie immer vor einer Reise offizielle Quellen überprüfen. Die genauesten aktuellen Anforderungen finden Sie im IATA Travel Centre, dem Tool, das Airlines verwenden, um Passagierdokumente in Echtzeit zu überprüfen.
 
-### Setzt die USA die Sechsmonats-Reisepass-Regel durch?
+### Setzen die USA die Sechsmonats-Reisepass-Regel durch?
 
 Die USA erfordern keine Gültigkeit von 6 Monaten für US-Bürger, die in das Land einreisen. Aber US-Bürger, die ins Ausland reisen, unterliegen immer noch den Regeln, die das Zielland setzt – und viele beliebte Ziele setzen die Sechsmonats-Anforderung durch.
 
@@ -163,6 +161,10 @@ Das hängt ganz von Ihrem Reiseziel ab. Japan, Australien und die Vereinigten St
 ### Gilt die Sechsmonats-Regel auch, wenn ich ein Land nur auf der Durchreise passiere?
 
 Oft ja, und das ist der Schritt, den viele vergessen. Das Foreign Office weist sowohl in seinen Reisehinweisen zu Australien als auch zu den Vereinigten Staaten darauf hin, dass Sie bei einer Zwischenlandung in einem anderen Land auch dessen Einreisebestimmungen erfüllen müssen – und viele davon verlangen sechs Monate. Dasselbe Zielland kann bei einem Direktflug und bei einem Flug mit Zwischenstopp unterschiedliche Dokumentanforderungen haben.
+
+### Verlängern manche Länder die Reisepassgültigkeit um sechs Monate nach Ablauf?
+
+Kein Land schlägt Zeit auf Ihren Reisepass auf. Gemeint ist meist eine Liste, die von US Customs and Border Protection veröffentlicht wird: Staatsangehörige der dort aufgeführten Länder sind von der US-Anforderung einer Sechsmonats-Gültigkeit befreit und brauchen einen Reisepass, der nur für die Dauer des geplanten Aufenthalts gültig ist. Das gilt für die Einreise in die Vereinigten Staaten und sonst nirgendwo.
 
 ## Ähnliche Artikel
 

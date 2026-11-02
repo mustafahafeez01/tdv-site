@@ -34,8 +34,6 @@ A urgência com que precisa de agir determina o que fazer:
 
 Todas as autoridades de passaportes principais retêm consultas de emergência que não são visíveis online. Se o seu cronograma é apertado, **nós ligaríamos sempre em vez de confiar apenas no site.**
 
-**Defina o lembrete agora** para que isto nunca mais aconteça — Travel Document Vault começa a notificá-lo a partir de oito meses antes de cada passaporte no seu agregado expirar, e novamente à medida que a data se aproxima. [Descarregue na App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 ## Cenário B: Descobriu no Aeroporto
 
 Este cenário acontece mais vezes do que as pessoas esperam, e os passos não são óbvios quando está sob pressão.
@@ -141,6 +139,10 @@ Sim. Um passaporte que ainda não expirou pode ser recusado se estiver danificad
 ### O que é a regra dos seis meses do passaporte?
 
 Muitos países exigem que o seu passaporte se mantenha válido durante pelo menos seis meses após a data de chegada prevista. Se expirar antes disso — mesmo que ainda seja tecnicamente válido — podem recusar-lhe o embarque ou a entrada. Nem todos os países aplicam esta regra, e o limiar varia. Verifique os requisitos do seu destino concreto antes de viajar.
+
+### É possível renovar um passaporte fora de validade?
+
+Normalmente, sim. No Reino Unido, o GOV.UK indica que tem de renovar antes de viajar se o seu passaporte tiver expirado, e pode fazê-lo online ou num formulário em papel, com o passaporte antigo como documento de apoio. Nos Estados Unidos e no Canadá também depende da data de emissão do passaporte e da idade que tinha nessa altura.
 
 ## Artigos Relacionados
 

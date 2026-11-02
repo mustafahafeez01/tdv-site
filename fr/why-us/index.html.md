@@ -6,94 +6,120 @@ Source: https://traveldocumentvault.com/fr/why-us/
 
 ---
 
-Confidentialité d'abord. Sur l'appareil seulement. Aucun compte requis.
+Confidentialité d’abord. Sur l’appareil par défaut. Aucun compte requis.
 
-# Toujours prêt
+# Toujours prêts
 quand vous en avez besoin
 
-Comptoirs d'immigration. Demandes de visa. Formulaires d'assurance. **Ouvrez une application. Trouvez votre document en une seconde.**
+Guichets d’immigration. Demandes de visa. Formulaires d’assurance. **Chaque recherche dans votre pellicule vous fait perdre des minutes précieuses que vous n’avez pas.**
 
-Pas de recherche. Pas de stress. Juste ce que vous aviez besoin.
+**Et s’ils étaient toujours prêts ?**
 
-Télécharger gratuitement. Aucun compte. Pas d'abonnement.
+Téléchargement gratuit. Aucun compte. Aucun abonnement.
 
-![Télécharger sur l'App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+![Télécharger dans l’App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 
-![Disponible sur Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg) Payer une fois. Toutes les mises à jour v1.x incluses, à jamais.
+![Disponible sur Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg) Payez une fois. Toutes les mises à jour v1.x incluses, pour toujours.
 
-Construit par quelqu'un qui en avait besoin pour sa propre famille. Pas de VCs, pas d'actionnaires, pas de réseaux publicitaires. Je ne réponds qu'à une seule personne : vous.
+Créée par quelqu’un qui en avait besoin pour sa propre famille. Pas d’investisseurs, pas d’actionnaires, pas de régies publicitaires. Je ne rends de comptes qu’à une seule personne : vous.
 
 MH
 
 Mustafa Hafeez
 
-Créé Travel Document Vault pour ma famille
+A créé Travel Document Vault pour sa famille
 
-> "Chaque voyage en famille se transformait en chasse au trésor à travers Photos, email et Drive. J'ai créé ceci pour que le prochain soit différent."
+> « Chaque voyage en famille tournait à la chasse au trésor entre Photos, les e-mails et Drive. J’ai créé cette application pour que le prochain voyage se passe autrement. »
 
-Pas de capital-risque, pas d'actionnaires, pas de réseaux publicitaires — juste un parent qui en avait assez de la même panique, à chaque voyage.
+Pas de capital-risque, pas d’actionnaires, pas de régies publicitaires : juste un parent lassé de revivre la même panique à chaque voyage.
 
-[Lire l'histoire complète →](https://traveldocumentvault.com/fr/blog/why-i-built-travel-document-vault/)
+[Lire toute l’histoire →](https://traveldocumentvault.com/fr/blog/why-i-built-travel-document-vault/)
 
-## Cela vous semble familier ?
+## Cela vous dit quelque chose ?
 
-Vous n'êtes pas le seul à avoir passé par là.
+Vous n’êtes pas le seul à être passé par là.
 
-À la porte d'embarquement
+Au guichet
 
-Comptoir de l'immigration. L'agent vous demande votre visa.
+En tête de file au contrôle des passeports. L’agent vous demande votre visa, et il est quelque part dans un e-mail de mars.
 
-Et si vous pouviez ouvrir une application et l'avoir là — pas de recherche, pas de changement d'application, juste un accès instantané ?
+Vous ouvrez l’application et le document s’affiche à l’écran, même en mode avion. Vous passez avant que la file derrière vous ne s’en aperçoive.
+
+Si c’est vous : voyageur d’affaires, nomade numérique ou grand voyageur.
 
 Le piège de la validité
 
-Votre passeport expire l'année prochaine. Plein de temps, non ?
+Il reste huit mois de validité à votre passeport et le voyage est dans un mois. Ça devrait suffire, non ?
 
-Faux. Les passeports pour Schengen doivent avoir été émis au cours des 10 dernières années, et de nombreux pays appliquent une règle de validité de 6 mois. Les compagnies aériennes utilisent des bases de données officielles comme IATA Timatic à la porte d'embarquement pour appliquer ces règles. Une simple vérification d'expiration ne suffit pas.
+Pas toujours. De nombreux pays exigent six mois de validité à l’arrivée, et les compagnies aériennes vérifient généralement avant l’embarquement. L’application vous prévient largement à l’avance, pour renouveler calmement plutôt que de payer en urgence.
 
-Le chaos du renouvellement
+Si c’est vous : toute personne ayant un voyage prévu dans l’année.
 
-Un avis de renouvellement arrive. Vous n'avez aucune idée de quand vous avez renouvelé pour la dernière fois, quels documents vous avez besoin, ou si les passeports des enfants expirent au même moment.
+Le casse-tête du renouvellement
 
-Tout ensemble
+Vous réservez les vacances d’été quand la question surgit : quand expirent les passeports des enfants ?
 
-Passeport. Visa. Permis de conduire. Assurance. Réservations de voyage. Documents des enfants.
+Les dates d’expiration de chacun apparaissent côte à côte, avec un rappel avant chaque échéance. Vous le découvrez en mars, pas au comptoir d’enregistrement en août.
 
-Tout en un seul endroit à votre portée, prêts quand vous en avez besoin.
+Si c’est vous : parent, tuteur ou organisateur des voyages en famille.
 
-## Où se trouvent probablement vos documents aujourd'hui
+Tout réuni
 
-La plupart d'entre nous gardent déjà des copies quelque part. Voici comment tirer davantage de chacune.
+Passeport. Visa. Permis de conduire. Assurance. Documents des enfants. Éparpillés entre un tiroir, une pellicule photo et trois boîtes mail.
 
-### Galerie photos / Photos
+Un seul endroit verrouillé sur votre téléphone, trié par personne et prêt en quelques secondes. Rien ne quitte votre appareil.
 
-Toujours à portée de main. Rangez les photos de passeport dans un album à part, pour ne pas faire défiler vos photos de vacances au comptoir d'enregistrement.
+Si c’est vous : une personne organisée qui veut simplement une application de confiance.
 
-### Stockage en nuage
+Premier voyage à l’étranger
 
-Pratique d'un appareil à l'autre. Créez un dossier clairement nommé par personne pour les documents de voyage, et activez la protection de connexion la plus forte que propose votre fournisseur.
+Passeport et billets réglés. Puis le doute s’installe : quoi d’autre vérifier ?
+
+Ajoutez vos documents une fois et voyez ce qui expire et quand, bien avant de partir. Vous arrivez à l’aéroport avec une inquiétude de moins.
+
+Si c’est vous : premier vol international ou étudiant partant à l’étranger.
+
+Perdu à l’étranger
+
+Troisième jour de vacances, et le sac contenant votre passeport a disparu.
+
+La photo scannée de la page d’identité est toujours sur votre téléphone, derrière Face ID, une empreinte ou un code. Une copie accélère souvent la visite au consulat.
+
+Si c’est vous : familles en vacances, voyageurs en solo, ou quiconque a déjà perdu un bagage.
+
+## Là où vos documents se trouvent sans doute aujourd’hui
+
+La plupart d’entre nous en gardent déjà des copies quelque part. Voici comment tirer le meilleur de chacune.
+
+### Pellicule / Photos
+
+Toujours sur vous. Rangez les photos de passeport dans un album à part, pour ne pas faire défiler vos photos de vacances au comptoir d’enregistrement.
+
+### Stockage en ligne
+
+Pratique d’un appareil à l’autre. Prévoyez un dossier clairement nommé par personne pour les documents de voyage, et activez la protection de connexion la plus forte que propose votre fournisseur.
 
 ### Gestionnaires de mots de passe
 
-Un endroit sensé pour un numéro de passeport si vous en utilisez déjà un. Gardez la page de la photo tout aussi facile d'accès pour l'aéroport.
+Un bon endroit pour un numéro de passeport si vous en utilisez déjà un. Gardez la page photo tout aussi accessible pour l’aéroport.
 
-### Applications de prise de notes
+### Applications de notes
 
-Souples et familières. Si un numéro de passeport se trouve dans une note, verrouillez cette note là où votre appli le permet.
+Souples et familières. Si un numéro de passeport se trouve dans une note, verrouillez-la si votre appli le permet.
 
-### Feuilles de calcul
+### Tableurs
 
-Idéales pour réunir les dates d'expiration de toute la famille dans un seul tableau. Ajoutez une colonne « renouveler avant » et la prochaine échéance saute aux yeux.
+Pratiques pour réunir les dates d’expiration de toute la famille dans un seul tableau. Ajoutez une colonne « à renouveler avant » et la prochaine échéance saute aux yeux.
 
 ### Copies papier
 
-Toujours utiles. Une copie imprimée de chaque page de photo, rangée à part des passeports, dépanne si l'un d'eux disparaît à l'étranger.
+Toujours utiles. Une copie imprimée de chaque page photo, rangée à part des passeports, vous dépanne si l’un d’eux disparaît à l’étranger.
 
-## Votre coffre en un coup d'œil
+## Votre coffre en un coup d’œil
 
-Travel Document Vault range vos documents et suit leurs dates d'expiration. Pro ajoute des profils familiaux illimités et la planification de voyages.
+Travel Document Vault conserve vos documents et suit leurs dates d’expiration. Pro ajoute des profils familiaux illimités et la planification de voyages.
 
-### Rappels d'expiration
+### Rappels d’expiration
 
 8 mois
 
@@ -114,21 +140,21 @@ AES-256
 
 Les fichiers de vos documents sont chiffrés sur votre téléphone, tout comme la base de données qui contient vos informations.
 
-### Compte de l'app
+### Compte dans l’app
 
 Aucun
 
-Ni inscription ni connexion pour l'app. La sauvegarde cloud facultative utilise votre propre compte iCloud ou Google.
+Ni inscription ni connexion dans l’app. La sauvegarde cloud facultative utilise votre propre compte iCloud ou Google.
 
 ### Hors ligne
 
 Sans réseau
 
-Les documents enregistrés et les rappels fonctionnent sans connexion, même dans la file d'attente du passeport.
+Les documents enregistrés et les rappels fonctionnent sans connexion, même dans la file du contrôle des passeports.
 
 ### Pro
 
-Un seul achat
+Un seul paiement
 
 Un achat unique, sans abonnement.
 
@@ -136,215 +162,211 @@ Un achat unique, sans abonnement.
 
 #### Profils familiaux illimités
 
-Un profil pour chaque membre de la famille, avec ses propres documents.
+Un profil pour chaque membre de la famille, chacun avec ses propres documents.
 
 #### Aucune limite de documents
 
-Ajoutez autant de passeports, de visas et de cartes d'identité que la famille en a besoin.
+Ajoutez autant de passeports, de visas et de cartes d’identité que la famille en a besoin.
 
-#### Checklist de préparation du voyage
+#### Liste de préparation du voyage
 
-Planifiez un voyage et voyez quels documents sont prêts et ce qu'il reste à faire.
+Planifiez un voyage et voyez quels documents sont prêts et ce qu’il reste à faire.
 
 #### Limites de jours par pays
 
-Fixez vous-même une limite de jours : vos voyages comptent les jours passés dans le pays, ou en dehors, par rapport à cette limite.
+Fixez vous-même une limite de jours : vos voyages décomptent les jours passés dans le pays, ou en dehors, par rapport à cette limite.
 
 #### Vos propres délais de rappel
 
-Choisissez, pour chaque document, combien de temps à l'avance les rappels commencent.
+Choisissez, pour chaque document, combien de temps à l’avance les rappels commencent.
 
 #### Sauvegarde cloud chiffrée
 
 Une copie chiffrée sur votre propre iCloud (iOS) ou Google Drive (Android), restaurée avec votre code de récupération.
 
-## Une application. Tout organisé.
+## Une seule application. Tout est organisé.
 
-Construit par un parent qui avait besoin de soulagement, pas d'une autre liste à gérer.
+Créée par un parent lassé de fouiller dans Photos, les e-mails et Drive avant chaque voyage. Vous n’aurez plus à le faire.
 
-### Votre appareil. Vos documents. Personne d'autre.
+### Votre appareil. Vos documents. Personne d’autre.
 
 J’ai choisi de garder les documents sur votre appareil par défaut. La sauvegarde Pro facultative utilise votre propre compte cloud.
 
-Mais voudrais-je faire confiance à un serveur d'un étranger avec des photos des passeports de mes enfants ? **Jamais.**
+Mais confierais-je à un serveur inconnu les photos des passeports de mes enfants ? **Jamais.**
 
 Chiffré sur votre appareil par défaut.
 
-La synchronisation cloud est désactivée par défaut. Si vous l'activez (Pro), votre coffre-fort est chiffré sur votre appareil avant d'être téléchargé, et va à votre propre iCloud ou Google Drive, scellé avec un code de récupération que vous seul détenez. Personne, pas même nous, Apple ou Google, ne peut le lire. La promesse est appliquée par le code, pas par la politique.
+La synchronisation cloud est désactivée par défaut. Si vous l’activez (Pro), votre coffre est chiffré sur votre appareil avant tout envoi, puis rejoint votre propre iCloud ou Google Drive, scellé par un code de récupération que vous seul détenez. Personne, ni nous, ni Apple, ni Google, ne peut le lire. Cette promesse est garantie par le code, pas par une simple politique.
 
-Chiffrement AES-256-GCM au repos. Les sauvegardes chiffrées utilisent la dérivation de clé PBKDF2. [Politique de confidentialité complète](https://traveldocumentvault.com/privacy-policy/)
+Chiffrement AES-256-GCM au repos. Les sauvegardes chiffrées utilisent la dérivation de clé PBKDF2. [Vérifiez l’architecture](https://traveldocumentvault.com/fr/privacy-verification/) ou [lisez la politique complète](https://traveldocumentvault.com/privacy-policy/)
 
-### Rappels d'expiration, des mois à l'avance
+### Des rappels d’expiration des mois à l’avance
 
-Les renouvellements de passeport prennent 6 à 8 semaines. **Les rappels commencent 8 mois à l'avance** et s'enchaînent automatiquement.
+Un renouvellement de passeport prend 6 à 8 semaines. **Les rappels commencent 8 mois avant** et s’enchaînent automatiquement.
 
-Les rappels arrivent à 6 mois, 3 mois, 6 semaines et jour d'expiration — vous aidant à garder une longueur d'avance sur vos dates limites de renouvellement.
+Les rappels arrivent à 6 mois, 3 mois, 6 semaines et le jour de l’expiration, pour garder une longueur d’avance sur les délais de renouvellement.
 
-Fonctionne pour les passeports, visas, permis, assurance, tout ce qui a une date d'expiration.
+Pour les passeports, visas, permis, assurances : tout ce qui a une date d’expiration.
 
-### Organisateur de passeports familiaux, en un clic
+### Les passeports de toute la famille, en un geste
 
-Vous êtes celui qui se souvient de quel passeport d'enfant expire en premier, si l'assurance couvre tout le monde et quand les visas ont besoin d'être renouvelés.
+C’est vous qui savez quel passeport d’enfant expire en premier, si l’assurance couvre tout le monde et quand les visas doivent être renouvelés.
 
-**Avec Pro, un profil par membre de la famille.** En un clic pour voir tout. Construit pour la personne qui porte tout.
+**Avec Pro, un profil par membre de la famille.** Un geste pour tout voir. Pensé pour la personne qui porte tout.
 
 ### Fonctionne hors ligne. Partout.
 
-Wi-Fi instable à l'aéroport ? Ambassade étrangère sans signal ? Mode avion ?
+Wi-Fi capricieux à l’aéroport ? Ambassade sans réseau ? Mode avion ?
 
-Les documents enregistrés localement sont disponibles hors ligne. La consultation locale des documents et les rappels fonctionnent hors ligne ; les achats, vérifications de mises à jour et fonctionnalités cloud nécessitent Internet.
+Les documents enregistrés localement restent disponibles hors ligne. La consultation locale des documents et les rappels fonctionnent hors ligne ; les achats, la recherche de mises à jour et les fonctions cloud nécessitent Internet.
 
-### Payer une fois. Pas d'abonnement.
+### Payez une fois. Sans abonnement.
 
-**Commencez gratuitement.** Stockez jusqu'à 5 documents avec rappels complets et chiffrement. Pro supprime la limite du nombre de documents. L’espace disponible dépend toujours de votre appareil.
+**Commencez gratuitement.** Conservez jusqu’à 5 documents, avec tous les rappels et le chiffrement. Pro lève la limite du nombre de documents. L’espace disponible dépend toujours de votre appareil.
 
-Pro est un **achat unique** de $9.99. Profils et documents illimités, aucune charge récurrente, et aucune date de renouvellement à retenir.
+Pro est un **achat unique**, sans abonnement. Profils et documents illimités, aucun prélèvement récurrent, aucune date de renouvellement à retenir.
 
-Prix en dollars américains. Nous fixons le prix de chaque pays localement plutôt que de le convertir depuis le dollar, et l'App Store ou Google Play affiche le vôtre avant l'achat.
+Le prix est fixé localement pour chaque pays, et l’App Store ou Google Play vous affiche le vôtre avant l’achat.
 
-[À propos de notre politique de version →](https://traveldocumentvault.com/pricing-policy/#version-policy)
+[Notre politique de versions →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
-### Support multi-pages
+### Plusieurs pages par document
 
-Avec Pro, capturez jusqu’à 10 pages pour les billets d’avion, bons et autres documents, y compris les polices d’assurance voyage.
+Avec Pro, capturez jusqu’à 10 pages pour les billets d’avion, les bons et d’autres documents, y compris les polices d’assurance voyage.
 
-### Export professionnel de PDF
+### Export PDF professionnel
 
-Avec Pro, combinez plusieurs documents en un seul fichier PDF pour le partage avec les ambassades, les compagnies aériennes ou pour l'impression physique.
+Avec Pro, réunissez plusieurs documents dans un seul fichier PDF à transmettre aux ambassades et aux compagnies aériennes, ou à imprimer.
 
-Créé par un parent qui avait besoin de ceci. Confidentialité d'abord par conception.
+J’ai créé cette application parce que ma propre famille en avait besoin.
 
-## Planifiez les voyages, suivez les franchises, synchronisez vers votre propre cloud
+## Pensée pour les familles
 
-Conçu pour les familles qui voyagent partout.
+Des fonctionnalités modernes pour voyager aujourd’hui.
 
-### Tous prêts, en un coup d'oeil
-
-Pro
-
-Feu tricolore de disponibilité familiale. Vérifiez les documents associés en fonction des dates de voyage enregistrées (Pro).
-
-### Votre Cloud. Votre Clé.
+### Tout le monde prêt, d’un coup d’œil
 
 Pro
 
-Sauvegarde chiffrée de bout en bout dans votre iCloud ou Google Drive.
+Un feu tricolore de préparation pour la famille. Vérifiez les documents associés au regard des dates de voyage enregistrées (Pro).
 
-### Suivre les jours à l'étranger
-
-Pro
-
-Enregistrez les jours passés dans n'importe quel pays. Définissez des limites de jours personnalisées et restez à jour avec les règles de durée de visa.
-
-### Franchises sans calcul
+### Votre cloud. Votre clé.
 
 Pro
 
-Suivre les franchises par membre et par voyage.
+Sauvegarde chiffrée de bout en bout sur votre iCloud ou Google Drive.
 
-### Récemment supprimé
-
-Fenêtre d'annulation de 30 jours. Récupérez les erreurs.
-
-### Chaque Membre de la Famille
+### Suivez vos jours à l’étranger
 
 Pro
 
-Profils distincts. Les documents de chaque personne organisés de leur propre côté.
+Notez les jours passés dans n’importe quel pays. Fixez vos propres limites de jours et gardez un œil sur les règles de durée des visas.
 
-## Voir en action
+### Limites de jours par pays
 
-Chaque écran, conçu à dessein pour la clarté.
+Pro
 
-Sachez qui est prêt avant de partir
+Définissez des règles de limite de jours par pays et par membre.
 
-Vérifiez le statut de chaque document instantanément
+### Annulation sur 30 jours
 
-![App home screen showing all travel documents ready at a glance](https://traveldocumentvault.com/assets/images/screenshots-appstore/01.webp)
+Supprimé par erreur ? Récupérez-le dans les 30 jours.
+
+### Chaque membre de la famille
+
+Pro
+
+Des profils séparés. Les documents de chacun, rangés à part.
+
+Commencez gratuitement. Passez à Pro quand vous le souhaitez.
+
+![Télécharger dans l’App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Disponible sur Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
+
+Vos documents, toujours prêts
+
+Aucune surprise à l’aéroport
+
+![Écran d’accueil de l’application montrant tous les documents de voyage prêts d’un coup d’œil](https://traveldocumentvault.com/assets/images/why-us-phones/01.webp)
 
 Prêt pour votre voyage
 
-Documents associés vérifiés en fonction des dates de voyage enregistrées (Pro)
+Documents associés vérifiés au regard des dates de voyage enregistrées (Pro)
 
-![Trip readiness view confirming all documents are valid and up to date](https://traveldocumentvault.com/assets/images/screenshots-appstore/02.webp)
+![Vue de préparation du voyage montrant la vérification des documents associés au regard des dates enregistrées](https://traveldocumentvault.com/assets/images/why-us-phones/06.webp)
 
-Le profil voyage de chaque personne (Pro)
+Profils familiaux synchronisés (Pro)
 
-Documents, voyages, rappels réunis
+Tous les documents, toute la famille, une seule application
 
-![Family profiles showing documents for every member in one place](https://traveldocumentvault.com/assets/images/screenshots-appstore/03.webp)
+![Profils familiaux montrant les documents de chaque membre au même endroit](https://traveldocumentvault.com/assets/images/why-us-phones/03.webp)
 
 Jours restants dans chaque pays
 
-Suivez le temps de chaque personne à l’étranger avec Pro
+Suivez le temps passé à l’étranger par chacun avec Pro
 
-![Visa tracker showing days remaining in each country for each traveller](https://traveldocumentvault.com/assets/images/screenshots-appstore/04.webp)
+![Suivi des visas montrant les jours restants dans chaque pays pour chaque voyageur](https://traveldocumentvault.com/assets/images/why-us-phones/02.webp)
 
-Ne ratez plus aucune échéance
+Gardez une longueur d’avance sur les échéances
 
-Rappels avant que vous en ayez besoin
+Des rappels avant d’en avoir besoin
 
-![Expiry reminders showing upcoming renewal dates months in advance](https://traveldocumentvault.com/assets/images/screenshots-appstore/05.webp)
+![Rappels d’expiration montrant les prochaines dates de renouvellement des mois à l’avance](https://traveldocumentvault.com/assets/images/why-us-phones/04.webp)
 
-Votre Coffre-Fort, Votre Contrôle
+## Trois étapes. C’est tout.
 
-Sauvegarde chiffrée que seul vous pouvez restaurer
-
-![Document vault showing passports, visas, and IDs organised by profile](https://traveldocumentvault.com/assets/images/screenshots-appstore/06.webp)
-
-## Trois étapes. C'est tout.
-
-Scannez. Définissez. Oubliez.
+Scannez. Réglez. Oubliez.
 
 1
 
 ### Scannez ou importez
 
-Ouvrez la caméra, utilisez la superposition guidée et capturez votre document. Ou importez-en un existant de votre photothèque.
+Ouvrez l’appareil photo, suivez le cadre de guidage et capturez votre document. Ou importez-en un depuis votre photothèque.
 
-L’application lit la date d’expiration lorsque cela est possible : confirmez-la ou saisissez-la.
+L’application lit la date d’expiration quand c’est possible : vous la confirmez ou la saisissez.
 
 2
 
-### Définissez l'expiration et oubliez
+### Indiquez l’expiration, puis n’y pensez plus
 
-L'application programme automatiquement les rappels en cascade.
+L’application programme automatiquement des rappels en cascade.
 
-Pour les passeports, les rappels commencent huit mois à l’avance. Pour les pièces d’identité, visas, assurances et autres documents, ils commencent trois mois à l’avance, et se poursuivent jusqu’au jour de l’expiration et ensuite.
+Pour les passeports, les rappels commencent huit mois avant. Pour les pièces d’identité, visas, assurances et autres documents, trois mois avant, avec des rappels jusqu’au jour de l’expiration et après.
 
 3
 
-### Toujours prêt quand vous en avez besoin
+### Toujours prêts quand vous en avez besoin
 
-À l'immigration, remplir des formulaires, faire une demande de visa. Vos documents sont organisés, consultables et toujours sur votre téléphone.
+À l’immigration, en remplissant des formulaires, en demandant un visa. Vos documents sont organisés, faciles à retrouver et toujours sur votre téléphone.
 
-## Construit pour les voyageurs
+## Pensée pour les voyageurs
 
-Regroupez les copies de documents et les dates d’expiration, avec les rappels activés par défaut.
+Réunissez copies de documents et dates d’expiration au même endroit, avec des rappels activés par défaut.
 
-- **Familles :** Avec Pro, gérez plusieurs profils pour les enfants et les conjoints au même endroit. Portez la charge mentale de tout le foyer sans basculer entre les dossiers.
-- **Nomades numériques et expatriés :** Suivez les permis de résidence, les pièces d'identité locales et les visas de travail aux côtés des passeports à mesure que vous vous déplacez entre les pays.
-- **La règle des 6 mois :** Les rappels de passeport commencent huit mois avant l’expiration par défaut. Vérifiez séparément les conditions d’entrée de votre destination.
-- **Prêt pour l'avenir :** Restez organisé au milieu des changements administratifs à venir de l'UE comme l'EES et l'ETIAS. Assurez-vous que vos documents sont prêts avant le changement des règles.
-- **Personnes conscientes de la confidentialité :** Stockez des documents sans faire confiance aux serveurs cloud. Tout reste sur votre appareil.
-- **Acheteurs soucieux de leur budget :** Évitez les abonnements. Payez un prix unique plutôt que de louer vos propres données.
+- **Familles :** Avec Pro, gérez plusieurs profils pour les enfants et le conjoint au même endroit. Portez la charge mentale de tout le foyer sans jongler entre les dossiers.
+- **Nomades numériques et expatriés :** Suivez titres de séjour, pièces d’identité locales et visas de travail aux côtés des passeports, au fil de vos déménagements d’un pays à l’autre.
+- **La règle des 6 mois :** Par défaut, les rappels de passeport commencent huit mois avant l’expiration. Vérifiez séparément les conditions d’entrée de votre destination.
+- **Prêt pour la suite :** Restez organisé face aux changements administratifs à venir dans l’UE, comme l’EES et l’ETIAS. Vos documents seront prêts avant que les règles changent.
+- **Personnes soucieuses de leur vie privée :** Aucun serveur tiers ne détient jamais vos données lisibles. La sauvegarde facultative rejoint votre propre iCloud ou Google Drive, scellée par une clé que vous seul détenez.
+- **Acheteurs attentifs à leur budget :** Évitez les abonnements. Payez une seule fois plutôt que de louer l’accès à vos propres données.
 
 ## Réponses rapides
 
-Les questions que nous entendons le plus souvent.
+Les questions que l’on nous pose le plus souvent.
 
-Que se passe-t-il si je perds mon téléphone ? Vos documents sont chiffrés sur votre appareil. La clé locale reste dans le stockage sécurisé et est exclue des sauvegardes ordinaires du téléphone. L’exportation du coffre inclut une copie de cette clé chiffrée par mot de passe. Une sauvegarde ordinaire du téléphone réinstalle l’application mais ne peut pas restaurer vos documents. La sauvegarde cloud Pro se restaure avec votre code de récupération sur un téléphone pris en charge de la même plateforme, utilisant le même compte cloud. Vous pouvez aussi utiliser l’exportation et l’importation gratuites du coffre. La restauration ou l’importation remplace le coffre local. Fonctionne-t-il sans internet ? Complètement. L'application stocke tout sur votre appareil et ne nécessite pas de connexion internet pour l’usage quotidien. Les rappels et la consultation des documents enregistrés localement fonctionnent hors ligne. Le traitement OCR s’exécute sur votre appareil. Mes données sont-elles vraiment sûres ? Vos documents sont chiffrés avec AES-256-GCM sur votre appareil, et la clé est conservée dans le stockage sécurisé des clés du téléphone, sans être incluse dans une sauvegarde du téléphone. Aucun compte à créer et aucun serveur Travel Document Vault qui conserve vos documents. Si vous activez la sauvegarde cloud optionnelle Pro, votre coffre est chiffré de bout en bout sur votre appareil avant le téléchargement vers votre propre iCloud ou Google Drive, scellé avec un code de récupération que vous seul avez. La conception signifie que je ne peux pas lire vos données, et ni Apple ni Google non plus — vous pouvez vérifier le modèle de confidentialité vous-même sur la [page de Vérification de la Confidentialité](https://traveldocumentvault.com/fr/privacy-verification/). Est-ce vraiment un achat unique ? Oui. Pro coûte $9.99 une seule fois, en dollars américains. Chaque pays fixe son propre prix localement plutôt que de le convertir depuis le dollar, et la boutique affiche le vôtre avant l'achat.* Pas d'abonnement récurrent, pas de frais récurrents, pas d'e-mails « votre essai se termine ». L'offre gratuite est vraiment gratuite — 1 profil, 5 documents, toutes les fonctionnalités essentielles y compris l’OCR et les rappels.
+Que se passe-t-il si je perds mon téléphone ? Vos documents sont chiffrés sur votre appareil. La clé locale reste dans le stockage sécurisé et n’est pas incluse dans les sauvegardes ordinaires du téléphone. L’exportation du coffre inclut une copie de cette clé, chiffrée par mot de passe. Une sauvegarde ordinaire du téléphone réinstalle l’application mais ne peut pas restaurer vos documents. La sauvegarde cloud Pro se restaure avec votre code de récupération, sur un téléphone compatible de la même plateforme et avec le même compte cloud. Vous pouvez aussi utiliser l’exportation et l’importation gratuites du coffre. Une restauration ou un import remplace le coffre local. Fonctionne-t-elle sans Internet ? Entièrement. L’application conserve tout sur votre appareil et n’a pas besoin de connexion Internet au quotidien. Les rappels et la consultation des documents enregistrés localement fonctionnent hors ligne. Le traitement OCR s’effectue sur votre appareil. Mes données sont-elles vraiment en sécurité ? Vos documents sont chiffrés avec AES-256-GCM sur votre appareil, et la clé est conservée dans le stockage sécurisé des clés du téléphone, jamais incluse dans une sauvegarde du téléphone. Aucun compte à créer, aucun serveur Travel Document Vault qui détient vos documents. Si vous activez la sauvegarde cloud facultative (Pro), votre coffre est chiffré sur votre téléphone avant l’envoi, puis rejoint votre propre iCloud ou Google Drive, scellé par un code de récupération que vous seul détenez. Par conception, je ne peux pas lire vos données, pas plus qu’Apple ou Google, et vous pouvez vérifier vous-même ce modèle de confidentialité sur la [page de vérification de la confidentialité](https://traveldocumentvault.com/fr/privacy-verification/). Le verrouillage par PIN et le verrouillage biométrique (Face ID/Touch ID) sont tous deux gratuits. S’agit-il vraiment d’un achat unique ? Oui. Pro s’achète une seule fois, sans abonnement. Le prix est fixé localement pour chaque pays, et la boutique vous affiche le vôtre avant l’achat.* Aucun prélèvement récurrent, aucun e-mail « votre essai se termine ». La version gratuite est vraiment gratuite : 1 profil, 5 documents et toutes les fonctionnalités essentielles, OCR et rappels compris.
 
-* Concerne la version v1.x. Voir [Politique de tarification](https://traveldocumentvault.com/pricing-policy/#version-policy).
+* Pour la v1.x. Voir la [politique tarifaire](https://traveldocumentvault.com/pricing-policy/#version-policy).
 
-Puis-je l'utiliser pour plus que des passeports ? Oui. Il prend en charge les passeports, visas, pièces d'identité, permis de conduire, cartes d'assurance, billets d'avion et tout type de document dont vous avez besoin. Chaque forme de document a sa propre superposition de capture guidée. [Voir toutes les FAQ →](https://traveldocumentvault.com/fr/faq/)
+Puis-je l’utiliser pour autre chose que des passeports ? Oui. Elle prend en charge passeports, visas, pièces d’identité, permis de conduire, cartes d’assurance, billets d’avion et tout autre type de document. Chaque format de document dispose de son propre cadre de capture guidée. [Voir toutes les questions fréquentes →](https://traveldocumentvault.com/fr/faq/)
 
-**Important :** Travel Document Vault est un outil d'organisation personnel pour stocker des copies numériques de vos documents. **Les copies numériques stockées dans cette application ne sont PAS valides pour les voyages.** Il ne vérifie pas l'authenticité des documents ni ne fournit de conseils juridiques ou de voyage. Portez toujours les documents originaux et vérifiez toutes les exigences de voyage auprès des sources gouvernementales officielles.
+**Important :** Travel Document Vault est un outil d’organisation personnelle qui conserve des copies numériques de vos documents. **Les copies numériques stockées dans cette application ne sont PAS valables pour voyager.** L’application ne vérifie pas l’authenticité des documents et ne fournit aucun conseil juridique ou de voyage. Emportez toujours vos documents originaux et vérifiez toutes les conditions de voyage auprès des sources gouvernementales officielles.
 
-## Votre Famille. Protégée. Toujours.
+## Votre famille. Protégée. Toujours.
 
-Tout au même endroit. Pas de comptes, pas d'abonnements, pas de surprises.
+Tout au même endroit. Aucun compte, aucun abonnement, aucune surprise.
 
-![Télécharger sur l'App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+![Télécharger dans l’App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 
 ![Disponible sur Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

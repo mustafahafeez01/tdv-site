@@ -100,7 +100,7 @@ Source: https://traveldocumentvault.com/ko/blog/
 
 ##
 
-[여권 규정여행을 위한 패스포트 유효 기간은 얼마나 될까요? 대부분의 성인 여권은 10년간 유효하지만, 실제 여행 가능 기간은 더 짧은 경우가 많습니다. 유효 기간 계산 방법을 알아보세요. 2026년 4월 30일6 min](https://traveldocumentvault.com/ko/blog/how-long-is-passport-valid-for-travel/)
+[여권 규정여행을 위한 패스포트 유효 기간은 얼마나 될까요? 대부분의 성인 여권은 10년간 유효하지만, 실제 여행 가능 기간은 더 짧은 경우가 많습니다. 유효 기간 계산 방법을 알아보세요. 2026년 4월 30일6분 읽기](https://traveldocumentvault.com/ko/blog/how-long-is-passport-valid-for-travel/)
 
 ##
 
@@ -112,11 +112,11 @@ Source: https://traveldocumentvault.com/ko/blog/
 
 ##
 
-[개인정보 및 보안iCloud vs Google Photos vs Encrypted Vault: 안전한 여권 저장 방법 디지털 여권 사본을 저장하는 세 가지 주요 방법의 솔직한 비교와 각 방법이 보안에 미치는 의미. 2026년 4월 15일7 min](https://traveldocumentvault.com/ko/blog/safest-way-to-store-passport-digitally/)
+[개인정보 및 보안iCloud vs Google Photos vs Encrypted Vault: 안전한 여권 저장 방법 디지털 여권 사본을 저장하는 세 가지 주요 방법의 솔직한 비교와 각 방법이 보안에 미치는 의미. 2026년 4월 15일7분 읽기](https://traveldocumentvault.com/ko/blog/safest-way-to-store-passport-digitally/)
 
 ##
 
-[여권 규칙디지털 여권 사본: 여행 중 유효한 신분증으로 인정되는 것은 항공사, 호텔, 대사관, 국경 당국은 디지털 여권 사본을 다르게 취급합니다. 디지털 사본이 도움이 되는 경우와 반드시 실물 문서가 필요한 경우를 정확히 설명합니다. Apr 4, 20267 min read](https://traveldocumentvault.com/ko/blog/digital-passport-copy-valid/)
+[여권 규칙디지털 여권 사본: 여행 중 유효한 신분증으로 인정되는 것은 항공사, 호텔, 대사관, 국경 당국은 디지털 여권 사본을 다르게 취급합니다. 디지털 사본이 도움이 되는 경우와 반드시 실물 문서가 필요한 경우를 정확히 설명합니다. 2026년 4월 4일7분 읽기](https://traveldocumentvault.com/ko/blog/digital-passport-copy-valid/)
 
 ##
 

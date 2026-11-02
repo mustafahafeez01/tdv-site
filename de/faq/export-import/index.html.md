@@ -62,7 +62,7 @@ Navigieren Sie zum Speicherort der exportierten Tresordatei und wählen Sie sie 
 
 ### Überprüfen Sie, ob alle Daten vorhanden sind
 
-Überprüfen Sie nach dem Import die Registerkarte „Familie", um zu bestätigen, dass alle Profile angezeigt werden. Öffnen Sie ein paar Dokumente, um zu überprüfen, dass die Anhänge intakt sind. Der Importprozess ersetzt alle vorhandenen Daten auf diesem Gerät.
+Überprüfen Sie nach dem Import den Bereich „Profile“, um zu bestätigen, dass alle Profile angezeigt werden. Öffnen Sie ein paar Dokumente, um zu überprüfen, dass die Anhänge intakt sind. Der Importprozess ersetzt alle vorhandenen Daten auf diesem Gerät.
 
 ### Wichtige Hinweise
 
@@ -71,11 +71,11 @@ Navigieren Sie zum Speicherort der exportierten Tresordatei und wählen Sie sie 
 - **Durchgehend verschlüsselt:** Die exportierte Datei wird mit dem Passwort verschlüsselt, das Sie beim Exportieren wählen, unter Verwendung von AES-256-GCM mit PBKDF2-Schlüsselableitung. Nur dieses Passwort kann sie entschlüsseln, bewahren Sie es also an einem sicheren Ort auf – ohne dieses Passwort kann die Datei nicht wiederhergestellt werden.
 - **Best Practice für Sicherung:** Bewahren Sie Ihre exportierte Datei an einem sicheren Ort auf. Löschen Sie sie nach einem erfolgreichen Import, wenn Sie möchten, oder bewahren Sie sie als offline-Sicherung auf.
 
-**Haftungsausschluss:** Export-Import ist für die Datenportabilität konzipiert. Halten Sie exportierte Dateien sicher. Geben Sie die exportierte Sicherung nicht an Dritte weiter, da sie alle Ihre verschlüsselten Dokumente und Anhänge enthält.
+**Haftungsausschluss:** Tresor-Export und -Import sind für die Datenportabilität gedacht. Halten Sie exportierte Dateien sicher. Geben Sie die exportierte Sicherung nicht an Dritte weiter, da sie alle Ihre verschlüsselten Dokumente und Anhänge enthält.
 
 ## Bereit, Ihren Tresor zu exportieren?
 
-Tresor-Export und -Import sind kostenlos für alle. Pro fügt Cloud-Sicherung, unbegrenzte Profile, kombinierter PDF-Export und mehr hinzu. Einmaliger Kauf, kein Abonnement.
+Tresor-Export und -Import sind kostenlos für alle. Pro fügt Cloud-Sicherung, unbegrenzte Profile, kombinierten PDF-Export und mehr hinzu. Einmaliger Kauf, kein Abonnement.
 
 ![Im App Store laden](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 

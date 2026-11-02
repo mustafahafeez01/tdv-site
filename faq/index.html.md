@@ -38,7 +38,7 @@ What happens if I lose my phone or switch to a new one?
 
 **Pro users:** Enable encrypted cloud backup in Settings - Cloud Backup. Your vault is encrypted on-device with your recovery code before it reaches iCloud (iOS) or Google Drive (Android). On a supported device on the same platform, use the same cloud account. Open Cloud Backup in Settings, choose your backup and restore it with your recovery code. Restoring replaces the local vault. Document contents are encrypted; the cloud provider can see backup metadata such as counts, timestamps and device information. We see nothing.
 
-**Everyone:** Use the free Vault Export (.tdvault) in Settings and import it on any device. System backups (iCloud or Google) reinstall the app but cannot restore your documents - system backups do not transfer the device-bound encryption key, so export before you switch phones.
+**Everyone:** In Settings, use Export vault to save a free encrypted .tdvault file, then import it on any device with Import backup. System backups (iCloud or Google) reinstall the app but cannot restore your documents - system backups do not transfer the device-bound encryption key, so export before you switch phones.
 
 Does the app work without an internet connection?
 
@@ -62,7 +62,7 @@ Want to verify these claims yourself? See our [Privacy Verification](https://tra
 
 Where is my data stored?
 
-By default, all your data is stored **exclusively on your device**. We have no servers that hold your documents and no Travel Document Vault user accounts. When you save a document, it stays in your phone's secure storage area. Pro users can enable optional **Your Own Cloud** backup, which sends an end-to-end encrypted copy of your vault to your own iCloud or Google Drive account. We still cannot read it.
+By default, all your data is stored **exclusively on your device**. We have no servers that hold your documents and no Travel Document Vault user accounts. When you save a document, it stays in your phone's secure storage area. Pro users can enable optional **Cloud Backup**, which sends an end-to-end encrypted copy of your vault to your own iCloud or Google Drive account. We still cannot read it.
 
 Is my data backed up to the cloud?
 
@@ -70,11 +70,11 @@ Is my data backed up to the cloud?
 
 There is no cloud database on our servers. We never see your documents.
 
-A system-level device backup (iCloud Backup, Google Backup) reinstalls the app but does not restore your documents - system backups do not transfer the device-bound encryption key. To move your vault to a new phone, use cloud backup (Pro) or the free Vault Export.
+A system-level device backup (iCloud Backup, Google Backup) reinstalls the app but does not restore your documents - system backups do not transfer the device-bound encryption key. To move your vault to a new phone, use cloud backup (Pro) or the free vault export.
 
 Can I back up my data for free?
 
-Yes. Vault Export (.tdvault encrypted backup file) is free for everyone. Go to Settings, Export vault, and the app creates a password-protected file you can save to Files, iCloud Drive, or share off-device. The app also keeps **automatic local backups** on your device every few minutes, at no cost. Cloud backup to your own iCloud or Google Drive is the Pro option. No backup feature traps your data.
+Yes. Exporting your vault (.tdvault encrypted backup file) is free for everyone. Go to Settings, Export vault, and the app creates a password-protected file you can save to Files, iCloud Drive, or share off-device. The app also keeps **automatic local backups** on your device every few minutes, at no cost. Cloud backup to your own iCloud or Google Drive is the Pro option. No backup feature traps your data.
 
 What if someone steals my phone? Are my documents protected?
 
@@ -91,7 +91,7 @@ Do you collect any analytics or tracking data?
 
 What happens when I delete the app?
 
-All your data on this phone is **permanently deleted** when you uninstall the app. There's no way to recover it afterward unless you made a Vault Export or turned on cloud backup, since we don't store anything externally. **Before deleting:** Export your documents or create an encrypted backup file (.tdvault) via Settings to save them elsewhere.
+All your data on this phone is **permanently deleted** when you uninstall the app. There's no way to recover it afterward unless you made a vault export or turned on cloud backup, since we don't store anything externally. **Before deleting:** Export your documents or create an encrypted backup file (.tdvault) via Settings to save them elsewhere.
 
 ## Additional Security
 
@@ -141,7 +141,7 @@ Yes. Free users can share individual documents. Pro adds combined PDF export: se
 
 How does the app back up my data?
 
-**Free:** Use Vault Export (.tdvault encrypted backup file) from Settings to manually back up your entire vault as a password-protected file. You control where it's stored.
+**Free:** Use Export vault in Settings (.tdvault encrypted backup file) to manually back up your entire vault as a password-protected file. You control where it's stored.
 
 **Pro:** Enable encrypted cloud backup to your own iCloud (iOS) or Google Drive (Android). Your vault is encrypted on-device with your recovery code before upload. We never see your data. Document contents are encrypted; the cloud provider can see backup metadata such as counts, timestamps and device information. Backup runs automatically while the app is open and connected. Restore with your recovery code on a supported device on the same platform, using the same cloud account. Restoring replaces the local vault.
 
@@ -149,7 +149,7 @@ The app also keeps automatic local backups on your device every few minutes, at 
 
 Can I share documents with family members?
 
-The app uses **profiles** to organise documents by family member. By default, all data stays on your device. Pro users can enable **Your Own Cloud** to sync the same vault between their own devices via their own iCloud or Google Drive, end-to-end encrypted. To share a single document with someone else, export it using the system share sheet and send via AirDrop, email, or messaging.
+The app uses **profiles** to organise documents by family member. By default, all data stays on your device. Pro users can enable **Cloud Backup** to sync the same vault between their own devices via their own iCloud or Google Drive, end-to-end encrypted. To share a single document with someone else, export it using the system share sheet and send via AirDrop, email, or messaging.
 
 Does the app work offline?
 
@@ -176,7 +176,7 @@ Does the app create automatic backups?
 - Backups stay in the app's **private storage** on your device.
 - A valid local backup can restore earlier vault records via **Settings → Restore Local Backup**, but cannot recreate permanently deleted attachment files. Use Recently Deleted for ordinary deletions.
 
-**Vault Export:** Any user can export an encrypted backup file (.tdvault) and save it to Files, iCloud Drive, or share it via AirDrop/email for off-device storage. This is recommended before major updates or device changes.
+**Vault export:** Any user can export an encrypted backup file (.tdvault) and save it to Files, iCloud Drive, or share it via AirDrop/email for off-device storage. This is recommended before major updates or device changes.
 
 What does "Last backup: 2 hours ago, 12 documents" mean in Settings?
 
@@ -240,7 +240,7 @@ Is Travel Document Vault available on Android?
 
 Can I transfer my data from iPhone to Android (or vice versa)?
 
-**Yes, using encrypted Vault Export.** Export an encrypted backup from your current device (Settings, Export vault), transfer it to your new device (via email, cloud storage, or direct transfer), then use Settings, Import backup to restore your documents, which replaces anything already on the new device.
+**Yes, using an encrypted vault export.** Export an encrypted backup from your current device (Settings, Export vault), transfer it to your new device (via email, cloud storage, or direct transfer), then use Settings, Import backup to restore your documents, which replaces anything already on the new device.
 
 This works across platforms because the encryption format is universal. You'll need the same password you used when exporting the vault. Pro purchases restore within the same platform and store account; switching between iOS and Android requires a separate Pro purchase (see "Can I restore my purchase on a new device?" below).
 
@@ -393,3 +393,11 @@ Reminders are a convenience feature and should not be your only reminder system.
 We're here to help. Reach out and we'll get back to you as soon as possible.
 
 [Contact Support](mailto:support@traveldocumentvault.com)
+
+## Download Free. No Subscription.
+
+Set it up tonight. Let the app remember so you don't have to.
+
+![Download on the App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Get it on Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

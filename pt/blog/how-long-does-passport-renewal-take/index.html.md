@@ -28,9 +28,11 @@ Os tempos de processamento mudam com o pessoal, o volume de candidaturas e a ép
 
 O Departamento de Estado dos EUA publica os seus tempos de processamento atuais em travel.state.gov, e mudam ao longo do ano com a procura e o pessoal. Existem três vias:
 
-- **Rotina:** a fila padrão, sem prioridade.
-- **Acelerada:** avança-o na fila mediante uma taxa adicional, sem saltar quaisquer verificações.
-- **Marcação urgente (presencial):** para viagens genuinamente iminentes, com prova da data de viagem — reservável numa agência regional de passaportes.
+| Via | O que está realmente a pagar |
+|---|---|
+| Rotina | Processada aproximadamente por ordem de chegada, sem prioridade. A escolha predefinida para quem não tem uma viagem próxima. |
+| Acelerada, mediante taxa | Uma posição mais avançada na fila ou uma marcação reservável à frente da fila padrão. Aplicam-se as mesmas regras de elegibilidade e as mesmas verificações de documentos. |
+| Marcação urgente presencial | Acesso direto a uma agência de passaportes quando a viagem é genuinamente iminente. Exige prova das datas de viagem e normalmente só é oferecida quando as vias rotina e paga claramente não chegam a tempo. |
 
 As marcações urgentes estão disponíveis para viagens documentadas e iminentes. Marque em travel.state.gov e traga prova de viagem — não o verão sem ela.
 
@@ -65,8 +67,6 @@ As candidaturas de passaporte para menores são uma história diferente. São ma
 Immigration, Refugees and Citizenship Canada (IRCC) oferece renovação online a adultos elegíveis que não viajem nos próximos 20 dias úteis; todos os outros candidatam-se por correio através do Service Canada ou presencialmente num escritório de Passaportes Canadá. Para viagens urgentes existem opções de marcação urgente e serviço expresso presencial mediante uma taxa adicional.
 
 Isto torna o processo mais exigente logisticamente, especialmente se vive algures rural e o escritório de passaportes mais próximo fica longe. Consulte a página do IRCC para tempos de processamento atuais antes de se candidatar, e some o tempo de envio em cada sentido se se candidatar por correio.
-
-**Defina um lembrete de renovação agora** — Travel Document Vault notifica-o 6, 3 e 1 mês antes do seu passaporte expirar, para que esteja sempre a renovar com tempo de sobra. [Transferir na App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Uma Lista Curta e Previsível Causa a Maioria dos Atrasos
 

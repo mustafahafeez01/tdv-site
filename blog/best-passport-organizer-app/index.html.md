@@ -84,8 +84,6 @@ A one-time purchase app, by contrast, remains fully functional indefinitely. You
 
 ## How Travel Document Vault Approaches This
 
-**Travel Document Vault** stores your documents on your device with AES-256 encryption and no app account. Your saved documents are available offline, as are passport and visa expiry reminders. You can share or export copies, or use encrypted cloud backup to your own iCloud or Google Drive with Pro. Pro also lets you add the whole family. The app is free to download; Pro is a [one-time in-app purchase, no subscription](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8).
-
 ## A Practical Checklist Before You Download
 
 When evaluating any passport organizer app, ask yourself these nine questions:

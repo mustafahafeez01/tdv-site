@@ -99,8 +99,6 @@ Aqui está o padrão de falha que apanha famílias: renova o seu próprio passap
 
 Qualquer uma destas três abordagens funcionará, mas por defeito escolheríamos a que envia o lembrete automaticamente, já que uma folha de cálculo só ajuda se se lembrar de a abrir. O que mais importa é escolher uma que se adeque à forma como já opera e realmente cumprir com ela.
 
-**Travel Document Vault** acompanha as datas de validade guardadas, com lembretes para passaportes a partir de oito meses antes do fim da validade. Digitalize cada passaporte e confirme ou introduza a data de validade. Adicione toda a família com Pro para manter as datas de renovação juntas. [Transfira na App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 ## Lista de Verificação de Documentos Pré-Viagem para Famílias
 
 Execute esta lista de verificação quando reserva — não a noite anterior ao embarque. Isto é o que lhe dá tempo suficiente para corrigir qualquer coisa que precise de correção.

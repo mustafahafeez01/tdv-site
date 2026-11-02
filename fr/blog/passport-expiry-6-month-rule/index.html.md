@@ -66,8 +66,6 @@ Les exigences de validité du passeport changent sans préavis — un accord bil
 
 Vérifiez toujours vos exigences spécifiques auprès du IATA Travel Centre, le système que les compagnies aériennes utilisent pour vérifier les documents des passagers en temps réel.
 
-Avec Pro, **Travel Document Vault** vérifie les passeports associés en appliquant par défaut une marge de validité de 180 jours après la fin du voyage enregistré, sauf si vous définissez une marge personnalisée. Vérifiez séparément la règle réelle de votre destination. [Téléchargez sur l'App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) et sur [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog).
-
 ## Quand la règle des 6 mois ne s'applique pas
 
 De nombreuses destinations ne demandent rien de plus que les dates de votre séjour. Le Foreign Office britannique le formule clairement pour le Japon : votre passeport doit rester valide pour la durée de votre séjour, sans période de validité supplémentaire exigée. L'Australie et les États-Unis appliquent la même règle et demandent seulement que votre passeport reste valide pour la durée de votre séjour prévu.
@@ -163,6 +161,10 @@ Cela dépend entièrement de votre destination. Le Japon, l'Australie et les Ét
 ### La règle des 6 mois s'applique-t-elle si je ne fais que transiter par un pays ?
 
 Souvent, oui, et c'est l'étape que l'on oublie. Le Foreign Office précise, dans ses conseils de voyage sur l'Australie comme sur les États-Unis, que si vous transitez par un autre pays en chemin, vous devez également répondre aux exigences d'entrée de ce pays, et beaucoup d'entre eux demandent six mois. Une même destination peut donc avoir des exigences documentaires différentes selon qu'il s'agisse d'un vol direct ou d'un vol avec escale.
+
+### Certains pays prolongent-ils la validité d'un passeport de six mois après son expiration ?
+
+Aucun pays n'ajoute de temps à votre passeport. La liste à laquelle on pense généralement est publiée par le service américain des douanes et de la protection des frontières (US Customs and Border Protection) : les citoyens des pays qui y figurent sont exemptés de l'exigence américaine de six mois de validité et n'ont besoin d'un passeport valide que pour la durée du séjour prévu. Elle ne concerne que l'entrée aux États-Unis, et nulle part ailleurs.
 
 ## Articles connexes
 

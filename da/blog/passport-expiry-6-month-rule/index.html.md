@@ -64,8 +64,6 @@ Tabellen er et øjebliksbillede, ikke det fulde overblik: kravene varierer også
 
 Paskrav efter land ændrer sig uden varsel, og en bilateral aftale kan stille og roligt ændre reglerne for netop dit pas, hvilket er grunden til, at det ikke er paranoia at tjekke en opdateret officiel kilde før hver international rejse – det er bare god praksis: brug IATA Travel Centre, det samme system flyselskaberne bruger til at tjekke passagerdokumenter i realtid.
 
-**Travel Document Vault** tjekker med Pro tilknyttede pas med en standardbuffer på 180 dage efter din gemte rejses afslutning, medmindre du angiver en brugerdefineret gyldighedsbuffer. Tjek destinationens faktiske regel separat. [Hent fra App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) og [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog).
-
 ## Hvornår 6-måneders-reglen ikke gælder
 
 Mange rejsemål kræver intet ud over selve rejsens datoer. Det britiske udenrigsministerium (Foreign Office) siger det ligeud om Japan: dit pas skal være gyldigt i opholdets varighed, og der kræves ingen yderligere gyldighedsperiode. Australien og USA anvender samme standard og kræver kun, at dit pas er gyldigt i den planlagte opholdsperiode.
@@ -161,6 +159,10 @@ Det afhænger helt af, hvor du skal hen. Japan, Australien og USA kræver kun, a
 ### Gælder 6-måneders-reglen, hvis jeg kun er i transit gennem et land?
 
 Ofte, ja, og det er det skridt, folk glemmer. Foreign Office bemærker i både sin Australien- og sin USA-rejsevejledning, at hvis du er i transit gennem et andet land undervejs, skal du også opfylde det lands indrejsekrav, og mange af dem kræver seks måneder. Det samme rejsemål kan have forskellige dokumentkrav på en direkte flyafgang og på en flyafgang med mellemlanding.
+
+### Er der lande, der forlænger passets gyldighed med seks måneder, efter at det er udløbet?
+
+Intet land lægger tid til dit pas. Den liste, folk typisk tænker på, udgives af US Customs and Border Protection: statsborgere fra landene på listen er undtaget fra det amerikanske krav om seks måneders gyldighed og skal kun have et pas, der er gyldigt i hele opholdets varighed. Den gælder indrejse i USA og intet andet sted.
 
 ## Relaterede artikler
 

@@ -91,11 +91,9 @@ Hvis noget mangler nu, har du timer til at ordne det, ikke uger.
 
 ## I lufthavnen: hav disse med dig
 
-Hav disse i håndbagagen hele tiden, læg dem aldrig i den indchekkede bagage: pas, boardingkort, rejseforsikringscertifikat, samtykkebrev hvis relevant, og eventuel visumdokumentation eller godkendelsesbreve.
+Hav disse i håndbagagen hele tiden, læg dem aldrig i den indcheckede bagage: pas, boardingkort, rejseforsikringscertifikat, samtykkebrev hvis relevant, og eventuel visumdokumentation eller godkendelsesbreve.
 
 Før du forlader hjemmet, så tag et billede af hvert dokument, og gem det i en krypteret app, ikke kamerarullen. Hvis din taske bliver væk eller stjålet, vil du gerne have dit pasnummer, forsikringens policenummer, og bookingreferencer et sted, du stadig kan tilgå på en ambassade eller politistation. En sikker digital sikkerhedskopi sparer timer, når du forsøger at få hjælp.
-
-**Travel Document Vault** gemmer krypterede kopier af dine rejsedokumenter. Scan hvert dokument, og bekræft eller indtast udløbsdatoen for at få automatiske påmindelser. Pro lader dig gemme mere end fem dokumenter og organisere dem efter familiemedlem. [Hent fra App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Sådan ændrer din dokumentliste sig efter rejsetype
 
@@ -103,13 +101,13 @@ Forskellige rejser kræver forskellige sæt dokumenter, som tabellen herunder vi
 
 | Dokument | Solo | Familie | Forretning | Noter |
 |---|---|---|---|---|
-| Pas | ✅ | ✅ hvert medlem | ✅ | Tjek gyldighed mod destinationen, ikke kun udløbsdatoen |
-| Visum (hvis relevant) | ✅ | ✅ hvert medlem | ✅ firma | Forretning: bekræft at visummet sidder i det rette pas |
-| Rejseforsikring | ✅ | ✅ alle dækket | ✅ tjek om arbejdsgiveren dækker dig | Bekræft dækning før hver rejse, ikke kun ved køb |
-| Bookingbekræftelser | ✅ | ✅ | ✅ | Offlinekopi (stol ikke på e-mailadgang ved grænser) |
-| Samtykkebrev til børn | N/A | ✅ hvis relevant | N/A | Kræves i mange lande, hvis en forælder mangler |
-| Fødselsattester | N/A | ✅ hvis krævet | N/A | Nogle lande kræver dette for børn under 18 |
-| Arbejdstilladelsesbrev | N/A | N/A | ✅ hvis krævet | Nogle destinationer kræver arbejdsgiverbreve til forretningsrejsende |
+| Pas | | hvert medlem | | Tjek gyldighed mod destinationen, ikke kun udløbsdatoen |
+| Visum (hvis relevant) | | hvert medlem | firma | Forretning: bekræft at visummet sidder i det rette pas |
+| Rejseforsikring | | alle dækket | tjek om arbejdsgiveren dækker dig | Bekræft dækning før hver rejse, ikke kun ved køb |
+| Bookingbekræftelser | | | | Offlinekopi (stol ikke på e-mailadgang ved grænser) |
+| Samtykkebrev til børn | N/A | hvis relevant | N/A | Kræves i mange lande, hvis en forælder mangler |
+| Fødselsattester | N/A | hvis krævet | N/A | Nogle lande kræver dette for børn under 18 |
+| Arbejdstilladelsesbrev | N/A | N/A | hvis krævet | Nogle destinationer kræver arbejdsgiverbreve til forretningsrejsende |
 
 Er en rejse allerede booket, er det ene, der er værd at gøre i dag, at tage hvert pas frem og tjekke udløbsdatoen mod destinationens krav, ikke kun mod dine rejsedatoer.
 
@@ -133,9 +131,9 @@ Ja. Hver persons pasgyldighed, visumkrav, og forsikringsdækning vurderes indivi
 
 Et samtykkebrev til børns rejse er et underskrevet dokument fra den fraværende forælder, der giver tilladelse til, at barnet rejser. Lande som Canada, Sydafrika, Mexico, og mange andre beder rutinemæssigt om det, når et barn rejser med kun den ene forælder. Uden et risikerer du forsinkelser eller nægtet indrejse. Brevet bør indeholde barnets oplysninger, begge forældres kontaktoplysninger, rejsedatoer, destinationer, og den fraværende forælders underskrift.
 
-### Hvilke dokumenter bør jeg holde tilgængelige i lufthavnen og ikke i indchekket bagage?
+### Hvilke dokumenter bør jeg holde tilgængelige i lufthavnen og ikke i indchecket bagage?
 
-Hav disse med dig hele tiden: pas, boardingkort, rejseforsikringscertifikat, samtykkebrev hvis relevant, og eventuel visumdokumentation eller godkendelsesbreve. Læg aldrig identitetsdokumenter i indchekket bagage. En digital sikkerhedskopi af nøgledokumenter i [en dedikeret app til rejsedokumenter](https://traveldocumentvault.com/da/blog/best-passport-organizer-app/), ikke kamerarullen, anbefales kraftigt, hvis noget skulle blive væk eller stjålet.
+Hav disse med dig hele tiden: pas, boardingkort, rejseforsikringscertifikat, samtykkebrev hvis relevant, og eventuel visumdokumentation eller godkendelsesbreve. Læg aldrig identitetsdokumenter i indchecket bagage. En digital sikkerhedskopi af nøgledokumenter i [en dedikeret app til rejsedokumenter](https://traveldocumentvault.com/da/blog/best-passport-organizer-app/), ikke kamerarullen, anbefales kraftigt, hvis noget skulle blive væk eller stjålet.
 
 ## Relaterede artikler
 

@@ -64,8 +64,6 @@ Deze tabel is een momentopname, niet het volledige beeld: vereisten verschillen 
 
 Vereisten voor paspoortgeldigheid per land veranderen zonder aankondiging, en een bilaterale overeenkomst kan stilletjes de regels voor jouw specifieke paspoort wijzigen. Daarom is het controleren van een actuele officiële bron voor elke internationale reis geen overdreven voorzichtigheid, maar gewoon goede gewoonte: gebruik het IATA Travel Centre, hetzelfde systeem dat luchtvaartmaatschappijen gebruiken om reisdocumenten in realtime te controleren.
 
-**Travel Document Vault** controleert met Pro gekoppelde paspoorten op een standaard geldigheidsmarge van 180 dagen na het einde van je opgeslagen reis, tenzij je zelf een andere marge instelt. Controleer de daadwerkelijke regel van je bestemming apart. [Download in de App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) en [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog).
-
 ## Wanneer de 6 maanden-regel niet geldt
 
 Veel bestemmingen vragen niets meer dan de data van je reis. De Britse Foreign Office zegt het voor Japan klip-en-klaar: je paspoort moet geldig zijn voor de duur van je verblijf, en er is geen extra geldigheidsperiode vereist. Australië en de Verenigde Staten hanteren dezelfde norm en vragen alleen dat je paspoort geldig blijft voor de duur van je geplande verblijf.
@@ -161,6 +159,10 @@ Dat hangt volledig af van waar je heen gaat. Japan, Australië en de Verenigde S
 ### Geldt de 6 maanden-regel ook als ik alleen door een land reis (transit)?
 
 Vaak wel, en dit is de stap die mensen vergeten. De Foreign Office merkt zowel bij het reisadvies voor Australië als voor de Verenigde Staten op dat je, als je onderweg via een ander land reist, ook aan de inreisvereisten van dat land moet voldoen, en veel daarvan vragen zes maanden. Dezelfde bestemming kan andere documentvereisten hebben op een directe vlucht dan op een vlucht met een tussenstop.
+
+### Verlengen sommige landen de geldigheid van je paspoort met zes maanden nadat het is verlopen?
+
+Geen enkel land zet extra tijd op je paspoort. De lijst die mensen hiermee bedoelen, wordt gepubliceerd door US Customs and Border Protection: burgers van de landen op die lijst zijn vrijgesteld van de Amerikaanse eis van zes maanden geldigheid en hebben alleen een paspoort nodig dat geldig is voor de duur van hun verblijf. Die lijst geldt voor inreizen in de Verenigde Staten en nergens anders.
 
 ## Gerelateerde artikelen
 

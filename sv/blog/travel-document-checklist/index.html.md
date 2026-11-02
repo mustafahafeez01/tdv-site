@@ -95,21 +95,19 @@ Ha dessa i handbagaget hela tiden, lägg dem aldrig i det incheckade bagaget: pa
 
 Innan du lämnar hemmet, fotografera varje handling och spara den i en krypterad app, inte kamerarullen. Om din väska kommer bort eller blir stulen vill du ha ditt passnummer, försäkringens försäkringsnummer, och bokningsreferenser någonstans du fortfarande kan komma åt på en ambassad eller polisstation. En säker digital säkerhetskopia sparar timmar när du försöker få hjälp.
 
-**Travel Document Vault** lagrar krypterade kopior av dina resehandlingar. Skanna varje handling och bekräfta eller ange utgångsdatumet för automatiska påminnelser. Med Pro kan du lagra fler än fem dokument och organisera dem per familjemedlem. [Ladda ner från App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 ## Så ändras din handlingslista beroende på resetyp
 
 Olika resor kräver olika uppsättningar handlingar, vilket tabellen nedan visar för resor på egen hand, med familj och i tjänsten.
 
 | Handling | Ensam | Familj | Affär | Anteckningar |
 |---|---|---|---|---|
-| Pass | ✅ | ✅ varje medlem | ✅ | Kontrollera giltighet mot destinationen, inte bara utgångsdatumet |
-| Visum (om det krävs) | ✅ | ✅ varje medlem | ✅ företag | Affär: bekräfta att visumet sitter i rätt pass |
-| Reseförsäkring | ✅ | ✅ alla omfattas | ✅ kontrollera att arbetsgivaren täcker dig | Bekräfta täckning inför varje resa, inte bara vid köp |
-| Bokningsbekräftelser | ✅ | ✅ | ✅ | Offlinekopia (lita inte på e-poståtkomst vid gränser) |
-| Samtyckesbrev för barn | N/A | ✅ om tillämpligt | N/A | Krävs i många länder om en förälder saknas |
-| Födelsebevis | N/A | ✅ om det krävs | N/A | Vissa länder kräver detta för barn under 18 år |
-| Arbetstillståndsbrev | N/A | N/A | ✅ om det krävs | Vissa destinationer kräver arbetsgivarbrev för affärsresenärer |
+| Pass | | varje medlem | | Kontrollera giltighet mot destinationen, inte bara utgångsdatumet |
+| Visum (om det krävs) | | varje medlem | företag | Affär: bekräfta att visumet sitter i rätt pass |
+| Reseförsäkring | | alla omfattas | kontrollera att arbetsgivaren täcker dig | Bekräfta täckning inför varje resa, inte bara vid köp |
+| Bokningsbekräftelser | | | | Offlinekopia (lita inte på e-poståtkomst vid gränser) |
+| Samtyckesbrev för barn | N/A | om tillämpligt | N/A | Krävs i många länder om en förälder saknas |
+| Födelsebevis | N/A | om det krävs | N/A | Vissa länder kräver detta för barn under 18 år |
+| Arbetstillståndsbrev | N/A | N/A | om det krävs | Vissa destinationer kräver arbetsgivarbrev för affärsresenärer |
 
 Är en resa redan bokad är det enda som är värt att göra i dag att ta fram alla pass som berörs och kontrollera utgångsdatumet mot resmålets krav, inte bara mot dina resdatum.
 

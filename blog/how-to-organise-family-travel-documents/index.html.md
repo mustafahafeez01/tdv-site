@@ -99,8 +99,6 @@ Here's the failure pattern that catches families out. You renew your own passpor
 
 Any of these three approaches will work, but we'd default to whichever one sends the reminder automatically, since a spreadsheet only helps if you remember to open it. What matters most is picking one that fits how you already operate and actually sticking with it.
 
-**Travel Document Vault** tracks saved expiry dates, with passport reminders starting eight months before expiry. Scan each passport and confirm or enter its expiry date. Add the whole family with Pro to keep renewal dates together. [Download on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 ## Pre-Trip Document Checklist for Families
 
 Run this checklist when you book - not the night before you leave. That's what gives you enough time to fix anything that needs fixing.

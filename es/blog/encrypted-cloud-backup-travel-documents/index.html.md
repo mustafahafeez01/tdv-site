@@ -84,7 +84,7 @@ Instala la app en el teléfono nuevo e inicia sesión con la misma cuenta de iCl
 
 La app también verifica antes de escribir. Si la copia de seguridad en la nube detecta una copia existente en esa cuenta, te pide que elijas entre restaurarla o empezar de cero. Un teléfono nuevo no puede sobrescribir en silencio lo que ya hay ahí.
 
-### Moverte Entre iPhone y Android Significa Usar Exportar Bóveda
+### Moverte Entre iPhone y Android Significa Exportar la Bóveda
 
 La copia de seguridad en la nube se queda en una sola plataforma, porque usa tu propio iCloud en dispositivos Apple y tu propio Google Drive en Android. Pasar de una a otra necesita la otra vía.
 

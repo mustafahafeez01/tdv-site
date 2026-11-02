@@ -34,8 +34,6 @@ Lo urgente que necesites actuar determina qué hacer:
 
 Todas las principales autoridades de pasaportes retienen ranuras de cita de emergencia que no son visibles en línea. Si tu cronograma es ajustado, nosotros siempre llamaríamos en lugar de fiarnos solo del sitio web.
 
-**Establece el recordatorio ahora** para que esto nunca vuelva a suceder —Travel Document Vault empieza a notificarte desde ocho meses antes de que caduque cada pasaporte en tu hogar, y de nuevo a medida que se acerca la fecha. [Descarga en App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 ## Escenario B: Lo Descubriste en el Aeropuerto
 
 Este escenario sucede más a menudo de lo que la gente espera, y los pasos no son obvios cuando estás bajo presión.
@@ -141,6 +139,10 @@ Sí. Un pasaporte que no ha caducado puede ser rechazado si está dañado, si el
 ### ¿Cuál es la regla de los seis meses del pasaporte?
 
 Muchos países exigen que tu pasaporte siga siendo válido al menos seis meses más allá de tu fecha de llegada prevista. Si caduca antes de eso —aunque técnicamente siga siendo válido— se te puede denegar el embarque o la entrada. No todos los países aplican esta regla, y el umbral varía. Comprueba los requisitos de tu destino concreto antes de viajar.
+
+### ¿Se puede renovar un pasaporte caducado?
+
+Normalmente, sí. En el Reino Unido, GOV.UK indica que debes renovarlo antes de viajar si tu pasaporte ha caducado, y puedes hacerlo en línea o en un formulario en papel presentando el pasaporte antiguo como documento justificativo. En Estados Unidos y Canadá también depende de cuándo se expidió el pasaporte y de la edad que tenías entonces.
 
 ## Artículos Relacionados
 

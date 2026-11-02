@@ -6,332 +6,324 @@ Source: https://traveldocumentvault.com/fr/features/
 
 ---
 
-Respectueux de la vie privée. Sur l’appareil par défaut. Aucun compte nécessaire.
+Confidentialité d’abord. Sur l’appareil par défaut. Aucun compte requis.
 
-# Suivez Tout. Oubliez Tout.
+# Suivez tout. Ne retenez rien.
 
-Chaque document familial, suivi et prêt. Une seule application. Une source de préoccupation de moins.
+Tous vos documents de voyage, chiffrés sur votre téléphone et prêts quand vous en avez besoin.
 
-![Télécharger sur l'App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+![Télécharger dans l’App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 
-![Disponible sur Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg) Payez une fois. Toutes les mises à jour v1.x incluses, à jamais.
+![Disponible sur Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg) Payez une fois. Toutes les mises à jour v1.x incluses, pour toujours.
 
-[À propos de notre politique de version →](https://traveldocumentvault.com/pricing-policy/#version-policy)
+[Notre politique de versions →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
-Gestion de Documents
+Vous pouvez y conserver passeports, visas, permis de conduire, cartes d’identité, attestations d’assurance voyage et tout autre document de voyage. Avec Pro, l’application gère plusieurs profils : vous réunissez ainsi les documents de toute la famille au même endroit.
 
-## Capturez Tout
+Pour vos voyages et vos jours de départ
+
+## Planifiez vos voyages et suivez vos limites de jours
+
+Avec Pro, planifiez vos voyages en famille, suivez vos quotas de jours et gardez un œil sur vos limites de visa.
+
+### Tout le monde prêt, d’un coup d’œil
+
+Pro
+
+Regroupez tous les documents de la famille par voyage. Un code couleur façon feu tricolore montre d’un coup d’œil quels documents associés demandent votre attention au regard des dates de voyage enregistrées. Repérez les problèmes des semaines à l’avance, pas à l’aéroport.
+
+### Votre cloud. Votre clé.
+
+Pro
+
+Sauvegarde chiffrée facultative (Pro) sur votre iCloud ou Google Drive personnel. Restaurez-la avec votre code de récupération. Activez la synchronisation pour retrouver le même coffre sur les appareils compatibles d’une même plateforme. Pour les bonnes pratiques de sauvegarde, consultez les [principes de protection des données de l’ICO britannique](https://ico.org.uk/for-organisations/the-soa/accountability/data-protection-impact-assessments/).
+
+### Suivez vos jours à l’étranger
+
+Pro
+
+Avec Pro, suivez les jours passés dans chaque pays, par voyage et par membre de la famille. Comparez les jours de vos voyages enregistrés aux limites par pays que vous saisissez. Pour votre destination, vérifiez les règles auprès de l’[IATA Travel Centre](https://www.iatatravelcentre.com/).
+
+### Règles de quotas personnalisées
+
+Pro
+
+Avec Pro, définissez vos propres seuils de jours par pays et par membre de la famille. Fixez vos objectifs pour suivre le nombre de jours couverts par vos voyages enregistrés, sur une période de calcul fixe ou glissante.
+
+### Export PDF du voyage
+
+Pro
+
+Avec Pro, exportez n’importe quel voyage en un seul PDF soigné : page de garde, passeports des membres, itinéraire, activités et documents, dans l’ordre. Les exports sont nets et sans marque, prêts à être transmis aux compagnies aériennes, aux ambassades ou à vos proches.
+
+### Prêt à embarquer
+
+Pro
+
+Avec Pro, associez numéros de vol, confirmations d’hôtel et références de réservation à n’importe quel voyage. Documents et réservations au même endroit : un seul geste à l’enregistrement. Plus rien à chercher à la porte d’embarquement.
+
+Gestion des documents
+
+## Capturez tout
 
 ### Passeports
 
-Capturez le passeport ouvert en une seule prise. La numérisation MRZ lit la zone lisible par machine pour renseigner la date d’expiration et le pays émetteur lorsque cela est possible. Confirmez les résultats ou saisissez-les manuellement. La reconnaissance de texte s’exécute sur votre appareil.
+Photographiez la double page ouverte du passeport en une seule prise. La lecture MRZ analyse la zone de lecture automatique pour renseigner la date d’expiration et le pays de délivrance quand c’est possible. Confirmez les résultats ou saisissez-les vous-même. La reconnaissance de texte s’effectue sur votre appareil.
 
-### Stockage Chiffré
+### Stockage chiffré
 
-Les documents sont chiffrés sur le disque avec AES-256-GCM. Les fichiers sont illisibles sans vos clés de déchiffrement, même si quelqu'un obtient un accès physique à votre appareil.
+Les documents sont chiffrés sur le disque avec AES-256-GCM. Sans vos clés de déchiffrement, les fichiers restent illisibles, même si quelqu’un accède physiquement à votre appareil.
 
-### Pièces d'Identité et Permis de Conduire
+### Pièces d’identité et permis de conduire
 
-Capture recto-verso en un seul document. Parfait pour les permis de conduire, les cartes nationales et les badges professionnels.
+Recto et verso réunis dans un seul document. Idéal pour les permis de conduire, les cartes d’identité et les badges professionnels.
 
-### Cartes d'Assurance et de Santé
+### Cartes d’assurance et de santé
 
-Stockez les cartes d'assurance maladie, les polices d'assurance voyage et les ordonnances régulières avec des rappels d'expiration. Les rappels commencent trois mois avant l’expiration par défaut.
+Conservez cartes d’assurance maladie, polices d’assurance voyage et ordonnances renouvelables, avec des rappels d’expiration. Par défaut, les rappels commencent trois mois avant l’expiration.
 
-### Visas et Documents
+### Visas et documents
 
-Support spécialisé A5 / demi-page pour les timbres de visa et autocollants. Support complet A4 pour les e-visas, polices d'assurance voyage et grands documents. Support fichiers multi-pages avec Pro.
+Format A5 / demi-page dédié aux tampons et vignettes de visa. Format A4 complet pour les e-visas, les polices d’assurance voyage et les grands documents. Fichiers multipages pris en charge avec Pro.
 
-### Billets d'Avion
+### Billets d’avion
 
-Stockez les cartes d'embarquement et les billets électroniques avec des rappels ultra-fréquents du compte à rebours.
+Conservez cartes d’embarquement et billets électroniques, avec des rappels à intervalles très rapprochés avant le départ.
 
-### Import Flexible
+### Import flexible
 
-Importez les fichiers PDF existants ou les images de votre photothèque. Ouvrez vos scans enregistrés sans les numériser à nouveau.
+Importez des fichiers PDF ou des images depuis votre photothèque. Retrouvez vos scans enregistrés sans les numériser à nouveau.
 
-### Modifier les Documents Enregistrés
+### Modifier les documents enregistrés
 
-Vous avez changé d'avis après l'enregistrement ? Ouvrez n'importe quel document en mode Modification pour ajouter de nouvelles photos, en supprimer, ou recadrer et faire pivoter. Votre coffre-fort reste à jour sans tout recommencer.
+Vous avez changé d’avis après l’enregistrement ? Ouvrez n’importe quel document en mode Modification pour ajouter des photos, en retirer, recadrer ou faire pivoter. Votre coffre reste exact sans tout recommencer.
 
-### Recherche et Filtrage
+### Recherche et filtres
 
-Trouvez instantanément n'importe quel document par nom ou type. Filtrez par personne, type de document ou statut d'expiration.
+Retrouvez instantanément un document par son nom ou son type. Filtrez par personne, type de document ou état d’expiration.
 
-### Notes de Document
+### Notes et pièces jointes
+
+Ajoutez des notes privées et joignez des photos à n’importe quel document. Gardez le contexte, les consignes ou les visuels qui ne trouvent pas leur place dans les champs standard.
+
+### Partage facile
+
+Chaque document dispose d’un bouton de partage intégré. Exportez-le en PDF ou partagez le fichier original par e-mail, messagerie ou toute autre application.
+
+### Bons et billets d’entrée
+
+Conservez cartes-cadeaux, codes de réduction, billets d’événements et pass pour les sites touristiques. Recevez des rappels d’expiration pour ne laisser perdre aucun bon.
+
+### Reporter les rappels
+
+Mettez en pause n’importe quel rappel d’expiration sans modifier le document. Reportez le rappel choisi d’une heure, de trois heures, à demain ou à la semaine prochaine.
+
+### Code couleur des documents
+
+Avec Pro, attribuez une couleur à un type de document ou à un document précis pour le reconnaître d’un coup d’œil. Ajustez les couleurs par profil pour que le coffre de toute la famille se parcoure facilement.
+
+### Export, sauvegarde et restauration
 
 Pro
 
-Ajoutez des notes privées à n'importe quel document. Stockez des détails supplémentaires, des instructions ou des rappels qui ne tiennent pas dans les champs standard.
+L’exportation et l’importation du coffre sont gratuites pour tous. Pro ajoute les PDF combinés et la sauvegarde cloud chiffrée sur votre propre iCloud ou Google Drive. Restaurez une sauvegarde cloud avec votre code de récupération, sur un appareil compatible de la même plateforme et avec le même compte cloud.
 
-### Partage Facile
+Capture intelligente
 
-Pro
+## Numérisation de précision
 
-Chaque document a un bouton de partage intégré. Exportez en PDF ou partagez le fichier original (photo ou document importé) par e-mail, messagerie ou toute autre application.
+### Aide au cadrage
 
-### Bons et Billets d'Entrée
+Des repères à l’écran vous aident à aligner précisément vos documents, avec un gabarit adapté à chaque type :
 
-Pro
+- **Passeport** : ligne de séparation centrale pour la double page ouverte
+- **Carte d’identité** : cadre au format carte bancaire
+- **Visa / titre de séjour** : repère A5 / demi-page pour tampons et vignettes
+- **Page entière** : repère A4 pour e-visas, assurances et billets
 
-Stockez les cartes-cadeaux, codes de réduction, billets d'événement et laissez-passer d'attraction. Recevez des rappels d'expiration pour ne pas perdre les bons. Importez des PDF multi-pages avec Pro.
+### Peaufinez chaque scan
 
-### Rappels en Veille
+Ajustez vos captures avec les outils d’édition intégrés :
 
-Mettez en pause tout rappel d'expiration sans modifier le document. Reprogrammez un rappel sélectionné dans une heure, trois heures, demain ou la semaine prochaine.
+- **Rotation** : par paliers de 90°
+- **Aperçu zoomé** : pincez pour vérifier la netteté
+- **Alertes de résolution** : si l’image est trop petite
+- **Cadre de recadrage réglable** : à aligner sur les repères visuels
 
-### Code Couleur des Documents
+Rappels intelligents
 
-Avec Pro, attribuez une couleur à tout type de document ou à un document individuel pour une reconnaissance visuelle instantanée. Remplacez les couleurs par profil afin que le coffre de toute votre famille soit facile à naviguer en un coup d'oeil.
+## Gardez une longueur d’avance sur les échéances
 
-### Export, Sauvegarde et Restauration
+Les rappels se programment tout seuls, selon le type de document. Pour les passeports, ils commencent **8 mois** avant l’expiration, puis se rapprochent : 6 mois, 3 mois, 6 semaines, 1 mois, 2 semaines et 1 semaine, avec d’autres rappels le jour de l’expiration et après. Pour les visas, cartes d’identité et assurances voyage, ils commencent **3 mois avant**. Pour les billets d’avion, réservations d’hôtel et bons, une semaine avant. Les utilisateurs Pro peuvent choisir un autre point de départ pour chaque document.
 
-PRO
-
-L’exportation et l’importation du coffre sont gratuites pour tous. Pro ajoute les PDF combinés et la sauvegarde cloud chiffrée sur votre propre iCloud ou Google Drive. Restaurez les sauvegardes cloud avec votre code de récupération sur un appareil compatible de la même plateforme, utilisant le même compte cloud.
-
-Capture Intelligente
-
-## Balayage de Précision
-
-### Assistance Précise
-
-Les guides à l'écran vous aident à aligner précisément vos documents. Différents modèles pour différents types de documents :
-
-- **Passeport** : avec ligne de division centrale pour les doubles pages ouvertes
-- **Carte d'identité** : cadre de taille de carte de crédit
-- **Visa / Permis** : guide A5 / demi-page pour les timbres et autocollants
-- **Page Complète** : guide A4 pour les e-visas, assurances et billets
-
-### Affinez Chaque Scan
-
-Affinez vos captures avec des outils d'édition intégrés :
-
-- **Rotation** : incréments de 90°
-- **Zoom aperçu** : pincez pour vérifier la clarté
-- **Avertissements de résolution** : si l'image est trop petite
-- **Cadre de recadrage ajustable** : aligner avec les guides visuels
-
-Rappels Intelligents
-
-## Devancez les Échéances
-
-Les rappels sont **activés automatiquement**, selon le type de document. Pour les passeports, ils commencent **8 mois avant l’expiration**, puis se rapprochent : 6 mois, 3 mois, 6 semaines, 1 mois, 2 semaines et 1 semaine, avec d’autres rappels le jour de l’expiration et ensuite. Pour les visas, cartes d’identité nationales et assurances voyage, ils commencent 3 mois avant. Pour les billets d’avion, réservations d’hôtel et bons, ils commencent une semaine avant. Les utilisateurs Pro peuvent choisir un autre point de départ pour chaque document.
-
-#### Rappels de Passeport
+### Rappels pour les passeports
 
 8 mois 6 mois 3 mois 6 semaines 1 mois 2 semaines 1 semaine Expiration +1 jour +1 semaine
 
-#### Rappels de Visa
+### Rappels pour les visas
 
-3 mois 6 semaines 1 mois 2 semaines 1 semaine Jour d'expiration +1 jour +1 semaine
+3 mois 6 semaines 1 mois 2 semaines 1 semaine Jour de l’expiration +1 jour +1 semaine
 
-#### Rappels de Billet d'Avion
+### Rappels pour les billets d’avion
 
 1 semaine 2 jours 1 jour 24 heures
 
-**Rappels post-expiration** (affichés en orange) vous aident à rester au courant des documents expirés. Même si vous avez manqué la date d'expiration, vous recevrez toujours des rappels pour renouveler, ce qui les rend parfaits pour attraper les documents qui expirent pendant que vous voyagez.
+**Les rappels après expiration** (listés après la date d’expiration) vous aident à ne pas perdre de vue les documents expirés. Même si la date d’expiration est passée, vous continuez à recevoir des rappels pour renouveler : idéal pour ne pas oublier un document qui expire pendant un voyage.
 
-Profils Familiaux
+**Reportez les rappels d’expiration** directement depuis la notification ou dans l’application. Choisissez 1 heure, 3 heures, demain ou la semaine prochaine, et l’application le reprogramme automatiquement.
 
-## Tous au Même Endroit
+Profils familiaux
 
-### Profils Séparés
+## Tout le monde au même endroit
 
-Avec Pro, créez un profil pour chaque membre de la famille. Gardez les documents de chacun organisés et faciles à trouver.
+### Profils séparés
 
-### Vues Basées sur le Profil
+Avec Pro, créez un profil pour chaque membre de la famille. Les documents de chacun restent organisés et faciles à retrouver.
 
-Affichez les documents et rappels filtrés par personne. Voyez uniquement ce qui est pertinent.
+### Vues par profil
 
-### Changement Rapide
+Affichez les documents et les rappels filtrés par personne. Ne voyez que ce qui vous concerne.
 
-Basculez entre les profils avec un seul tapotement. Parfait pour gérer toute la famille.
+### Changement rapide
 
-PRO
+Passez d’un profil à l’autre d’un simple toucher. Idéal pour gérer toute la famille.
 
-### Profils Illimités
-
-L'offre gratuite inclut 1 profil. Pro déverrouille les profils illimités pour toute la famille.
-
-Pour les voyages et les jours de voyage
-
-## Planifiez les voyages et suivez les limites de jours
-
-Avec Pro, planifiez les voyages ensemble, suivez les allocations, connaissez vos limites de visa.
+### Profils illimités
 
 Pro
 
-### Tous Prêts, D'un Coup d'Oeil
+La version gratuite comprend 1 profil. Pro débloque des profils illimités pour toute la famille.
 
-Regroupez tous les documents familiaux par voyage. Les indicateurs d’état de préparation montrent d’un coup d’œil quels documents associés nécessitent votre attention en fonction des dates de voyage enregistrées. Détectez les problèmes des semaines avant, pas à l'aéroport.
+Expérience native
 
-Pro
+## Conçue pour votre appareil
 
-### Votre Cloud. Votre Clé.
+### Mode sombre et mode clair
 
-Sauvegarde chiffrée facultative (Pro) sur votre iCloud ou Google Drive personnel. Restaurez-la avec votre code de récupération. Activez la synchronisation pour utiliser le même coffre sur les appareils pris en charge de la même plateforme. Consultez les [principes de protection des données de l'ICO du Royaume-Uni](https://ico.org.uk/for-organisations/the-soa/accountability/data-protection-impact-assessments/) pour les meilleures pratiques de sauvegarde.
+S’adapte aux réglages de votre système. Élégante dans les deux apparences.
 
-Pro
+### Gestes natifs
 
-### Suivez les Jours Hors du Pays
-
-Avec Pro, suivez les jours passés dans chaque pays, par voyage et par membre de la famille. Comparez les jours de voyage enregistrés aux limites de jours par pays que vous saisissez. Vérifiez les règles avec le [Centre de Voyage IATA](https://www.iatatravelcentre.com/) pour votre destination.
-
-Pro
-
-### Allocations de voyage
-
-Avec Pro, définissez des seuils de limite de jours personnalisés par pays et par membre de la famille. Fixez vos propres objectifs pour suivre le nombre de jours couverts par vos voyages enregistrés, sur une période de calcul fixe ou glissante.
-
-Pro
-
-### Export PDF de Voyage
-
-Avec Pro, exportez n'importe quel voyage sous la forme d'un PDF soigné : page de couverture, passeports des membres, itinéraire, activités et documents dans l'ordre. Les exports sont propres et sans marque, prêts à partager avec les compagnies aériennes, les ambassades ou la famille.
-
-Pro
-
-### Prêt pour l'Embarquement
-
-Avec Pro, joignez les numéros de vol, les confirmations d'hôtel et les références de réservation à n'importe quel voyage. Documents et réservations au même endroit — tapez une fois au moment de l'enregistrement. Rien à chercher à la porte d'embarquement.
-
-### Prêt à maîtriser votre préparation de voyage
-
-Débloquez la planification de voyages, la sauvegarde dans le cloud et les profils illimités. Les utilisateurs Pro obtiennent toutes les fonctionnalités. Premier mois gratuit.
-
-![Télécharger sur l'App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
-
-![Télécharger sur Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg) Expérience Native
-
-## Conçu pour Votre Appareil
-
-### Mode Sombre et Clair
-
-S'adapte à vos paramètres système. Beau dans les deux apparences.
-
-### Gestes Natifs
-
-Glissez entre les côtés des documents. Pincez pour zoomer jusqu'à 5x pour une inspection détaillée.
+Balayez pour passer d’une face du document à l’autre. Pincez pour zoomer jusqu’à 5x et examiner les détails.
 
 ### Lecteur PDF intégré
 
-Intégration native de la visualisation des PDF. Rapide, familier et riche en fonctionnalités.
+Affichage natif des PDF. Rapide, familier et complet.
 
-### Parle Votre Langue
+### Parle votre langue
 
-Disponible en plus de 40 langues, pour que l'application se sente naturelle où que vous soyez.
+Disponible dans plus de 40 langues, pour une application qui vous parle naturellement où que vous soyez.
 
 🇬🇧 🇸🇦 🇮🇳 🇨🇳 🇹🇼 🇪🇸 🇧🇷 🇵🇹 🇫🇷 🇩🇪 🇯🇵 🇰🇷 🇮🇹 🇷🇺 🇳🇱 🇵🇱 🇹🇷 🇮🇩 🇻🇳 🇹🇭 🇺🇦 🇸🇪 🇳🇴 🇩🇰 🇫🇮 🇵🇰 🇮🇷 🇧🇩 🇷🇴 🇨🇿 🇭🇺 🇬🇷 🇸🇰 🇭🇷 🇸🇮 🇲🇾
 
-### Accessible par Conception
+### Accessible dès la conception
 
-Conçu pour VoiceOver et TalkBack. Le texte s’adapte à la taille de police du système, et les styles communs des commandes visent des zones tactiles de 44pt (48dp sur Android).
+Conçue pour VoiceOver et TalkBack. Le texte suit la taille de police de votre système, et les commandes visent des zones tactiles de 44 pt (48 dp sur Android).
 
-### Haptique Réfléchie
+### Retour haptique soigné
 
-Les principales actions utilisent un retour haptique lorsque votre appareil le prend en charge.
+Les actions principales s’accompagnent d’un retour haptique lorsque votre appareil le permet.
 
-Confidentialité et Sécurité
+Personnalisation
 
-## Vos Données, Votre Appareil
+## À votre image
 
-### Vos Données Restent Vôtres
+### Une couleur par type
 
-Nous avons conçu cela pour que vous n'ayez pas à nous faire confiance avec vos données. Nous n’avons pas de serveurs qui stockent vos documents, ni accès à ceux-ci. C'est juste vous et votre appareil.
+Avec Pro, attribuez une couleur à chaque type de document. Passeports, visas, pièces d’identité et billets ont chacun la leur. Chaque carte et chaque icône se mettent à jour instantanément.
 
-### Fonctionne Hors Ligne
+### Couleurs propres à chaque profil
 
-Les données du coffre sont chiffrées sur votre appareil ; les fichiers de documents utilisent AES-256-GCM. Les documents enregistrés, les dates d’expiration et les rappels programmés fonctionnent hors ligne.
+Avec Pro, remplacez la couleur globale d’un type de document au sein d’un profil donné. Les documents de chaque membre de la famille peuvent avoir leur propre palette.
 
-### Pas de Suivi
+### Couleur d’accentuation
 
-Aucune analyse. Aucune publicité. Aucun SDK caché ne récolte vos données.
+Choisissez la couleur d’accentuation de l’application parmi 10 préréglages, ou composez la vôtre avec le sélecteur de couleurs complet. Disponible pour tous, sans Pro.
 
-### Notifications Privées
+Confidentialité et sécurité
 
-Les rappels ne contiennent ni images numérisées ni champ distinct de numéro de document. Le texte du rappel peut inclure le titre enregistré du document : évitez donc d’y inscrire des numéros sensibles.
+## Vos données, votre appareil
 
-### Vous Contrôlez le Partage
+Aucun serveur ne détient vos documents, aucun compte, aucun pistage. L’application a été créée par Mustafa Hafeez, sur une architecture pensée pour la confidentialité. Consultez la [politique de confidentialité](https://traveldocumentvault.com/privacy-policy/) et la [page de vérification](https://traveldocumentvault.com/privacy-policy/).
 
-Les fichiers de documents quittent l’appareil lorsque vous choisissez de les partager via la feuille de partage du système, de les exporter ou d’activer la sauvegarde chiffrée (Pro). Inclut des avertissements de contenu sensible.
+### Vos données restent les vôtres
 
-### Verrou PIN
+Nous l’avons conçue pour que vous n’ayez pas à nous confier vos données : nous n’avons aucun serveur qui détient vos documents et aucun accès à ceux-ci, donc par défaut votre coffre reste sur votre appareil. Si vous choisissez la sauvegarde Pro facultative sur votre propre iCloud ou Google Drive, elle est scellée par un code de récupération que vous seul détenez et que nous ne pouvons toujours pas lire.
 
-Protégez votre coffre-fort avec un PIN. Disponible pour tous les utilisateurs gratuitement.
+### Fonctionne hors ligne
 
-### Verrou Biométrique
+Les données du coffre sont chiffrées sur votre appareil ; les fichiers des documents utilisent AES-256-GCM. Documents enregistrés, dates d’expiration et rappels programmés fonctionnent hors ligne.
 
-Déverrouiller avec Face ID ou Touch ID au lieu du PIN. Gratuit pour tous les utilisateurs. Nécessite que le PIN soit d'abord configuré.
+### Aucun pistage
 
-### Protection contre la Capture d'Écran
+Aucune mesure d’audience. Aucune publicité. Aucun SDK caché qui collecte vos données.
 
-La protection contre les captures d’écran est activée par défaut sur les écrans de documents lorsqu’elle est prise en charge. Elle aide à réduire les copies accidentelles.
+### Notifications discrètes
 
-### Stockage Chiffré
+Les rappels n’incluent ni images numérisées ni champ distinct pour le numéro du document. Le texte du rappel peut reprendre le titre enregistré du document : évitez donc d’y inscrire des numéros sensibles.
 
-Les documents sont chiffrés sur votre appareil en utilisant le chiffrement standard de l'industrie. Les fichiers de documents chiffrés nécessitent leur clé de chiffrement pour être lus ; les originaux partagés sont lisibles.
+### Vous décidez du partage
 
-Opérations par Lots
+Les fichiers des documents ne quittent l’appareil que si vous choisissez de les partager via la feuille de partage du système, de les exporter ou d’activer la sauvegarde chiffrée (Pro). Des avertissements signalent les contenus sensibles.
 
-## Travaillez Plus Intelligemment, Plus Vite
+### Verrouillage par PIN
 
-### Menu Contextuel par Appui Long
+Protégez votre coffre avec un PIN. Gratuit pour tous les utilisateurs.
 
-Appuyez longtemps sur n'importe quelle carte de document pour accéder instantanément aux actions rapides : Exporter PDF, Partager Original ou Supprimer. Pas besoin d'ouvrir le document d'abord.
+### Verrouillage biométrique
 
-### Mode Sélection
+Déverrouillez avec Face ID ou Touch ID plutôt qu’avec le PIN. Gratuit pour tous. Un PIN doit d’abord être configuré.
 
-PRO
+### Protection contre les captures d’écran
 
-Appuyez sur "Sélectionner" pour sélectionner plusieurs documents à la fois. Utilisez le menu Actions unifié pour exporter ou partager (Pro), ou supprimer votre sélection par lot.
+La protection contre les captures d’écran est activée par défaut sur les écrans de documents, lorsque l’appareil le permet. Elle limite les copies accidentelles.
 
-### Partage par Lot
+### Stockage chiffré
 
-PRO
+Les documents sont chiffrés sur votre appareil avec un chiffrement conforme aux standards du secteur. Un fichier chiffré ne peut être lu qu’avec sa clé de chiffrement ; les originaux partagés, eux, sont lisibles.
 
-Avec Pro, partagez plusieurs fichiers de documents originaux via des feuilles de partage successives de votre appareil (e-mail, messagerie, etc.). L’application déchiffre les originaux pour le partage, mais aussi pour la consultation et la modification.
+### Montrer à quelqu’un
 
-#### Suppression Sûre avec Annulation
+Besoin de présenter un document à la frontière ou à la réception d’un hôtel ? Le mode de consultation protégée l’affiche avec la protection contre les captures d’écran activée par défaut, lorsque l’appareil le permet. Si vous avez défini un PIN, l’application se verrouille quand vous la fermez.
 
-Vous avez supprimé accidentellement un document ? Appuyez sur Annuler immédiatement pour le récupérer. Vous avez raté la fenêtre ? Il se déplace vers Récemment supprimé. Lorsque la sauvegarde cloud est désactivée, l’application le supprime automatiquement après 30 jours ; avec la sauvegarde cloud activée, il reste jusqu’à ce que vous le supprimiez définitivement. Vous pouvez aussi le supprimer définitivement plus tôt.
+### Code de récupération
 
-Pour les voyages
+PIN oublié ? Votre code de récupération vous permet de retrouver l’accès sans supprimer vos documents. L’application le crée lorsque vous définissez votre PIN : conservez-le en lieu sûr.
 
-## Rendez-le Vôtre
+### Effacement automatique
 
-Planifiez les voyages ensemble, suivez les franchises, connaissez vos limites de visa.
+L’effacement automatique est activé par défaut dès que vous définissez un PIN. Vous pouvez le désactiver dans Réglages. Il est conçu pour effacer le coffre local après plusieurs saisies erronées du PIN. Les tentatives de PIN sont limitées dans le temps. Gardez une sauvegarde indépendante avant de compter dessus.
 
-Pro
+Actions groupées
 
-### Planificateur de voyage
+## Travaillez plus vite, plus efficacement
 
-Feu tricolore de disponibilité familiale. Voyez qui est prêt pour voyager.
+### Menu contextuel par appui long
 
-Pro
+Maintenez le doigt sur une carte de document pour accéder aux actions rapides : Exporter en PDF, Partager l’original ou Supprimer. Inutile d’ouvrir le document.
 
-### Votre Cloud. Votre Clé.
+### Mode sélection
 
-Sauvegarde chiffrée de bout en bout dans votre iCloud ou Google Drive.
+Touchez « Sélectionner » pour choisir plusieurs documents à la fois. Le menu Actions unifié vous permet d’exporter ou de partager en lot (Pro), ou de supprimer votre sélection.
 
-Pro
+### Partage groupé
 
-### Suivi des jours à l'étranger
+Avec Pro, partagez plusieurs fichiers originaux via des feuilles de partage successives (e-mail, messagerie et plus encore). L’application déchiffre les originaux pour le partage, ainsi que pour la consultation et la modification.
 
-Limites Schengen 90/180. Règles de résidence fiscale.
+#### Suppression sûre avec annulation
 
-Pro
+Document supprimé par erreur ? Touchez Annuler tout de suite pour le récupérer. Trop tard ? Il passe dans Supprimés récemment. Si la sauvegarde cloud est désactivée, l’application l’efface automatiquement au bout de 30 jours ; si elle est activée, il y reste jusqu’à ce que vous le supprimiez définitivement. Vous pouvez aussi le supprimer définitivement plus tôt.
 
-### Franchises sans calcul
+**Important :** Travel Document Vault est un outil d’organisation personnelle qui conserve des copies numériques de vos documents. **Les copies numériques stockées dans cette application ne sont PAS valables pour voyager.** L’application ne vérifie pas l’authenticité des documents et ne fournit aucun conseil juridique ou de voyage. Emportez toujours vos documents originaux et vérifiez toutes les conditions de voyage auprès des sources gouvernementales officielles.
 
-Avec Pro, définissez des seuils de limite de jours personnalisés par pays et par membre de la famille. Fixez vos propres objectifs pour suivre le nombre de jours couverts par vos voyages enregistrés, sur une période de calcul fixe ou glissante.
+## Réponses rapides
 
-**Important :** Travel Document Vault est un outil d'organisation personnelle pour stocker des copies numériques de vos documents. **Les copies numériques stockées dans cette application ne sont PAS valides pour voyager.** Il ne vérifie pas l'authenticité des documents et ne fournit pas de conseils juridiques ou de voyage. Portez toujours les documents originaux et vérifiez toutes les exigences de voyage auprès des sources gouvernementales officielles.
+Travel Document Vault fonctionne-t-il sans connexion Internet ? Les données du coffre sont chiffrées sur votre appareil ; les fichiers des documents utilisent AES-256-GCM. Documents enregistrés, dates d’expiration et rappels programmés fonctionnent hors ligne. Quels documents puis-je conserver dans Travel Document Vault ? Vous pouvez y conserver passeports, visas, permis de conduire, cartes d’identité, attestations d’assurance voyage et tout autre document de voyage. Avec Pro, l’application gère plusieurs profils : vous réunissez ainsi les documents de toute la famille au même endroit. Comment fonctionne la numérisation OCR ? Photographiez la double page ouverte du passeport en une seule prise. La lecture MRZ analyse la zone de lecture automatique pour renseigner la date d’expiration et le pays de délivrance quand c’est possible. Confirmez les résultats ou saisissez-les vous-même. La reconnaissance de texte s’effectue sur votre appareil. Combien de temps à l’avance Travel Document Vault envoie-t-il les rappels d’expiration ? Les rappels se programment tout seuls, selon le type de document. Pour les passeports, ils commencent 8 mois avant l’expiration, puis se rapprochent : 6 mois, 3 mois, 6 semaines, 1 mois, 2 semaines et 1 semaine, avec d’autres rappels le jour de l’expiration et après. Pour les visas, cartes d’identité et assurances voyage, ils commencent 3 mois avant. Pour les billets d’avion, réservations d’hôtel et bons, une semaine avant. Les utilisateurs Pro peuvent choisir un autre point de départ pour chaque document.
 
-## Téléchargez Gratuitement. Aucun Abonnement.
+## Téléchargement gratuit. Sans abonnement.
 
-Configurez-le ce soir. Laissez l'application se souvenir pour que vous n'ayez pas à le faire.
+Installez-la ce soir. L’application s’en souvient, vous n’avez plus à y penser.
 
-![Télécharger sur l'App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+![Télécharger dans l’App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 
 ![Disponible sur Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

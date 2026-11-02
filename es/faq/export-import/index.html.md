@@ -6,21 +6,21 @@ Source: https://traveldocumentvault.com/es/faq/export-import/
 
 ---
 
-La exportación e importación de la bóveda son gratuitas para todos. Exporta los datos compatibles como archivo cifrado y protegido con contraseña (.tdvault), dentro del límite de tamaño. Impórtalo en otro dispositivo iOS o Android compatible siguiendo los pasos de abajo.
+La exportación y la importación de la bóveda son gratis para todos. Exporta los datos compatibles como archivo cifrado y protegido con contraseña (.tdvault), dentro del límite de tamaño. Impórtalo en otro dispositivo iOS o Android compatible siguiendo los pasos de abajo.
 
 ## ¿Por qué exportar e importar?
 
 Usa la exportación e importación al cambiar de teléfono o conservar una copia independiente. El archivo contiene registros compatibles de la bóveda, adjuntos disponibles y algunos ajustes. Comprueba los documentos y recordatorios importados; el bloqueo de la app y otros ajustes del dispositivo se mantienen locales.
 
-El archivo exportado está cifrado con la misma seguridad que tu caja de seguridad del dispositivo. Cualquiera que conozca la contraseña de exportación puede descifrarlo, así que mantén la contraseña privada.
+El archivo exportado está cifrado con la misma seguridad que la bóveda de tu dispositivo. Cualquiera que conozca la contraseña de exportación puede descifrarlo, así que mantén la contraseña privada.
 
 ## Guía paso a paso
 
 1
 
-### Abre Configuración y ve a Exportar
+### Abre Ajustes y ve a Exportar
 
-Abre Travel Document Vault y toca el icono de Configuración (símbolo de engranaje) en la parte inferior de la pantalla. Desplázate hacia abajo hasta que veas la sección Copia de seguridad y datos. Toca Exportar bóveda.
+Abre Travel Document Vault y toca el icono de Ajustes (símbolo de engranaje) en la parte inferior de la pantalla. Desplázate hacia abajo hasta que veas la sección Copia de seguridad y datos. Toca Exportar bóveda.
 
 2
 
@@ -48,9 +48,9 @@ Si estás importando en otro dispositivo, haz que el archivo exportado sea acces
 
 6
 
-### En el dispositivo de destino, abre Configuración y toca Importar copia de seguridad
+### En el dispositivo de destino, abre Ajustes y toca Importar copia de seguridad
 
-Abre Travel Document Vault en el dispositivo donde deseas importar. Ve a Configuración, desplázate a Copia de seguridad y datos y toca Importar copia de seguridad. La aplicación te pide que selecciones el archivo de copia de seguridad exportado (.tdvault).
+Abre Travel Document Vault en el dispositivo donde deseas importar. Ve a Ajustes, desplázate a Copia de seguridad y datos y toca Importar copia de seguridad. La aplicación te pide que selecciones el archivo de copia de seguridad exportado (.tdvault).
 
 7
 
@@ -62,7 +62,7 @@ Ve a donde guardaste el archivo exportado y selecciónalo. La app advierte que l
 
 ### Verifica que todos los datos estén presentes
 
-Después de importar, verifica la pestaña Familia para confirmar que aparecen todos los perfiles. Abre algunos documentos para verificar que los archivos adjuntos estén intactos. El proceso de importación reemplaza cualquier dato existente en este dispositivo.
+Después de importar, revisa la sección Perfiles para confirmar que aparecen todos los perfiles. Abre algunos documentos para verificar que los archivos adjuntos estén intactos. El proceso de importación reemplaza cualquier dato existente en este dispositivo.
 
 ### Notas importantes
 
@@ -75,7 +75,7 @@ Después de importar, verifica la pestaña Familia para confirmar que aparecen t
 
 ## ¿Listo para exportar tu caja de seguridad?
 
-Exportar e importar caja de seguridad son gratis para todos. Pro añade copia de seguridad en la nube, perfiles ilimitados, exportación de PDF combinado y más. Compra única, sin suscripción.
+La exportación y la importación de la bóveda son gratis para todos. Pro añade copia de seguridad en la nube, perfiles ilimitados, exportación de PDF combinado y más. Compra única, sin suscripción.
 
 ![Descarga en App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 

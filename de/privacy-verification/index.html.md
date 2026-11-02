@@ -8,21 +8,21 @@ Source: https://traveldocumentvault.com/de/privacy-verification/
 
 ## Unsere Datenschutzaussagen
 
-### Keine Tracker
+### Keine Werbe-Tracker
 
-Keine Analyse-SDKs, keine Werbebibliotheken, keine Tracking-Pixel in der App.
+Keine Werbenetzwerke, keine Verhaltensanalyse und keine Tracking-Pixel in der App. Die optionale Absturzberichterstattung ist getrennt davon und bleibt deaktiviert, bis Sie sie aktivieren.
 
-### Keine ausgehende Datenerfassung
+### Keine Erfassung von Dokumentdaten
 
-Die App stellt standardmäßig keine ausgehenden Verbindungen her. Sie funktioniert vollständig offline. Die einzige Netzwerknutzung ist die optionale Pro-Cloud-Sicherung, die sich mit Ihrem eigenen iCloud oder Google Drive synchronisiert – niemals mit unseren Servern.
+Ihre Dokumente, Scans, Ablaufdaten und Tresorinhalte werden nicht an Travel Document Vault gesendet. Die App funktioniert für die normale Dokumentenspeicherung und Erinnerungen vollständig offline.
 
 ### Standardmäßig auf dem Gerät
 
-Alle Dokumente, Scans und Daten bleiben auf Ihrem Gerät. Es gibt keine TDV-Cloud, keinen TDV-Server, kein TDV-Backend. Pro-Benutzer können ihre verschlüsselte Vault optional in ihr eigenes iCloud oder Google Drive-Konto sichern – nur sie halten den Wiederherstellungsschlüssel.
+Ihre Dokumente bleiben standardmäßig auf Ihrem Gerät. Es gibt kein Travel Document Vault Cloud-Konto, keinen Dokumentenserver und keine Backend-Datenbank.
 
 ### AES-256-GCM-Verschlüsselung
 
-Jedes Dokument wird verschlüsselt, bevor es den Speicher Ihres Geräts berührt.
+Die App verschlüsselt Ihre Dokumentdaten, bevor sie im lokalen App-Speicher abgelegt werden. Pro-Nutzer können optional eine verschlüsselte Tresordatei in ihrem eigenen iCloud- oder Google Drive-Konto sichern - nur sie besitzen den Wiederherstellungsschlüssel.
 
 ## Überprüfung
 
@@ -165,3 +165,11 @@ Dies sind häufige Berechtigungen, die viele Apps anfordern. Wir fordern keine a
 **Standort** – Kein GPS, kein Geofencing, kein Tracking **Kontakte** – Kein Zugriff auf Ihr Adressbuch **Bluetooth** – Kein lokales Netzwerk oder Gerätescanning **Kalender** – Erinnerungen werden auf dem Gerät verwaltet, nicht über Ihren Kalender
 
 Noch Fragen? Lesen Sie unsere vollständige [Datenschutzrichtlinie](https://traveldocumentvault.com/privacy-policy/) oder konsultieren Sie die [FAQ](https://traveldocumentvault.com/de/faq/).
+
+## Kostenlos herunterladen. Kein Abo.
+
+Heute Abend einrichten. Die App erinnert sich – damit Sie es nicht müssen.
+
+![Im App Store laden](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Bei Google Play erhältlich](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

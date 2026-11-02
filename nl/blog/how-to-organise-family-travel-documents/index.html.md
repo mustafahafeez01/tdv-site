@@ -99,8 +99,6 @@ Dit is het patroon dat gezinnen te pakken krijgt: je vernieuwt je eigen paspoort
 
 Alle drie de methoden werken, maar wij zouden de methode kiezen die de herinnering automatisch stuurt, want een spreadsheet helpt alleen als je eraan denkt hem te openen. Waar het het meest op aankomt, is er een kiezen die past bij hoe je al werkt en er ook echt aan vasthouden.
 
-**Travel Document Vault** houdt opgeslagen vervaldatums bij, met paspoortherinneringen vanaf acht maanden voor de vervaldatum. Scan elk paspoort en bevestig de vervaldatum of voer die zelf in. Voeg het hele gezin toe met Pro om vernieuwingsdatums bij elkaar te houden. [Download in de App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 ## Checklist voor gezinnen voor vertrek
 
 Doorloop deze checklist bij het boeken – niet de avond voor vertrek. Dat geeft je genoeg tijd om te herstellen wat hersteld moet worden.

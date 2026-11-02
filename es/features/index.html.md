@@ -6,304 +6,324 @@ Source: https://traveldocumentvault.com/es/features/
 
 ---
 
-Privado. En el dispositivo por defecto. Sin necesidad de crear una cuenta.
+Privacidad ante todo. En tu dispositivo por defecto. Sin cuentas.
 
-# Rastrea todo. No recuerdes nada.
+# Controla todo. No memorices nada.
 
-Puedes guardar pasaportes, visados, carnés de conducir, documentos de identidad nacionales, seguros de viaje y cualquier otro documento relacionado con los viajes. Con Pro, la app admite varios perfiles para gestionar los documentos de toda tu familia en un solo lugar.
+Todos tus documentos de viaje, cifrados en tu teléfono y listos cuando los necesitas.
 
 ![Descargar en el App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 
-![Descargar en Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg) Paga una vez. Todas las actualizaciones v1.x incluidas, para siempre.
+![Disponible en Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg) Pagas una vez. Todas las actualizaciones v1.x incluidas, para siempre.
 
-[Acerca de nuestra política de versiones →](https://traveldocumentvault.com/pricing-policy/#version-policy)
+[Sobre nuestra política de versiones →](https://traveldocumentvault.com/pricing-policy/#version-policy)
+
+Puedes guardar pasaportes, visados, carnés de conducir, documentos nacionales de identidad, seguros de viaje y cualquier otro documento de viaje. Con Pro, la app admite varios perfiles, así que puedes gestionar los documentos de toda tu familia en un solo lugar.
 
 Para viajes y días de viaje
 
-## Planifica viajes y controla límites de días
+## Planifica viajes y controla los límites de días
 
-Con Pro, planifica viajes juntos, controla límites y conoce tus límites de visa.
+Con Pro, planifica los viajes en familia, controla las estancias permitidas y conoce los límites de tu visado.
 
-Pro
-
-### Todos Listos, De Un Vistazo
-
-Agrupa todos los documentos familiares por viaje. Los indicadores de preparación muestran de un vistazo qué documentos vinculados necesitan atención frente a tus fechas de viaje guardadas. Detecta problemas semanas antes, no en el aeropuerto.
+### Todos listos, de un vistazo
 
 Pro
 
-### Tu Nube. Tu Clave.
+Agrupa por viaje todos los documentos de la familia. Un semáforo de preparación te muestra de un vistazo qué documentos vinculados necesitan atención según las fechas de viaje que has guardado. Detecta los problemas semanas antes, no en el aeropuerto.
 
-Copia de seguridad cifrada opcional (Pro) en tu iCloud o Google Drive personal. Restaura con tu código de recuperación. Activa la sincronización para usar la misma bóveda en dispositivos compatibles de la misma plataforma. Consulta los [principios de protección de datos del ICO del Reino Unido](https://ico.org.uk/for-organisations/the-soa/accountability/data-protection-impact-assessments/) para mejores prácticas de copia de seguridad.
-
-Pro
-
-### Seguimiento de Días Fuera del País
-
-Con Pro, controla los días pasados en cada país, por viaje y por miembro de la familia. Compara los días de viaje guardados con los límites por país que introduzcas. Verifica las reglas con el [Centro de Viajes de IATA](https://www.iatatravelcentre.com/) para tu destino.
+### Tu nube. Tu clave.
 
 Pro
 
-### Asignaciones de Viaje
+Copia de seguridad cifrada opcional (Pro) en tu iCloud o Google Drive personal. Restáurala con tu código de recuperación. Activa la sincronización para usar la misma bóveda en dispositivos compatibles de la misma plataforma. Consulta los [principios de protección de datos de la ICO británica](https://ico.org.uk/for-organisations/the-soa/accountability/data-protection-impact-assessments/) para conocer las buenas prácticas de copia de seguridad.
 
-Con Pro, define límites de días personalizados por país y por miembro de la familia. Configura tus propios objetivos para contar los días que abarcan tus viajes guardados, con una ventana de cálculo fija o móvil.
-
-Pro
-
-### Exportación de PDF de Viajes
-
-Con Pro, exporta cualquier viaje como un PDF pulido: página de portada, pasaportes de miembros, itinerario, actividades y documentos en orden. Las exportaciones son limpias y sin marca, listas para compartir con aerolíneas, embajadas o familia.
+### Días fuera del país
 
 Pro
 
-### Listo para el Embarque
+Con Pro, controla los días pasados en cada país, por viaje y por miembro de la familia. Compara los días de tus viajes guardados con los límites por país que introduzcas. Comprueba las normas de tu destino en el [IATA Travel Centre](https://www.iatatravelcentre.com/).
 
-Con Pro, adjunta números de vuelo, confirmaciones de hotel y referencias de reservas a cualquier viaje. Documentos y reservas en un solo lugar —toca una vez al momento del check-in. Nada que buscar en la puerta de embarque.
+### Reglas de estancia personalizadas
 
-### Listo para Dominar Tu Preparación para Viajes
+Pro
 
-Desbloquea planificación de viajes, copia de seguridad en la nube y perfiles ilimitados. Los usuarios Pro obtienen todas las funciones. Primer mes gratis.
+Con Pro, define límites de días personalizados por país y por miembro de la familia. Fija tus propios objetivos para ver cuántos días cubren tus viajes guardados, con un periodo de cómputo fijo o móvil.
 
-![Descargar en el App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+### Exportación del viaje en PDF
 
-![Descargar en Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg) Gestión de Documentos
+Pro
 
-## Captura Todo
+Con Pro, exporta cualquier viaje como un único PDF bien presentado: portada, pasaportes de cada miembro, itinerario, actividades y documentos en orden. Las exportaciones salen limpias y sin marca, listas para compartir con aerolíneas, embajadas o la familia.
+
+### Listo para embarcar
+
+Pro
+
+Con Pro, añade números de vuelo, confirmaciones de hotel y localizadores de reserva a cualquier viaje. Documentos y reservas en un solo lugar: un toque al facturar. Nada que buscar en la puerta de embarque.
+
+Gestión de documentos
+
+## Captúralo todo
 
 ### Pasaportes
 
-Captura el pasaporte abierto en una sola toma. El escaneo MRZ lee la zona de lectura mecánica para rellenar la fecha de vencimiento y el país emisor cuando puede. Confirma los resultados o introdúcelos manualmente. El reconocimiento de texto se ejecuta en tu dispositivo.
+Captura el pasaporte abierto en una sola foto. El escaneo de la MRZ lee la zona de lectura mecánica para rellenar la fecha de caducidad y el país emisor cuando puede. Confirma los resultados o introdúcelos a mano. El reconocimiento de texto se ejecuta en tu dispositivo.
 
-### Almacenamiento Cifrado
+### Almacenamiento cifrado
 
-Los documentos se encriptan en el disco con AES-256-GCM. Los archivos son ilegibles sin tus claves de descifrado, incluso si alguien obtiene acceso físico a tu dispositivo.
+Los documentos se guardan cifrados en el disco con AES-256-GCM. Los archivos son ilegibles sin tus claves de descifrado, incluso si alguien accede físicamente a tu dispositivo.
 
-### Identificaciones y Licencias de Conducir
+### DNI y carnés de conducir
 
-Captura frontal y trasera en un solo documento. Perfecto para licencias de conducir, identificaciones nacionales y credenciales de trabajo.
+Anverso y reverso en un solo documento. Ideal para carnés de conducir, documentos de identidad y acreditaciones de trabajo.
 
-### Tarjetas de Seguro y Salud
+### Tarjetas sanitarias y de seguro
 
-Almacena tarjetas de seguro médico, pólizas de seguro de viaje y recetas repetidas con recordatorios de vencimiento. Los recordatorios empiezan por defecto tres meses antes del vencimiento.
+Guarda tarjetas del seguro médico, pólizas de seguro de viaje y recetas de medicación habitual con recordatorios de caducidad. Por defecto, los recordatorios empiezan tres meses antes de la caducidad.
 
-### Visas y Documentos
+### Visados y documentos
 
-Soporte especializado A5 / media página para sellos de visa y pegatinas. Soporte completo A4 para e-visas, pólizas de seguro de viaje y documentos grandes. Admite archivos multipágina con Pro.
+Formato A5 / media página para sellos y etiquetas de visado. Formato A4 completo para visados electrónicos, pólizas de seguro de viaje y documentos grandes. Admite archivos de varias páginas con Pro.
 
-### Boletos Aéreos
+### Billetes de avión
 
-Almacena tarjetas de embarque y boletos electrónicos con recordatorios muy frecuentes antes del vuelo.
+Guarda tarjetas de embarque y billetes electrónicos con recordatorios muy seguidos antes del vuelo.
 
-### Importación Flexible
+### Importación flexible
 
-Importa archivos PDF existentes o imágenes de tu biblioteca de fotos. Los escaneos existentes se importan sin problemas.
+Importa archivos PDF o imágenes que ya tengas en tu fototeca. Abre tus escaneos guardados sin volver a escanearlos.
 
-### Editar Documentos Guardados
+### Edita los documentos guardados
 
-¿Cambió de opinión después de guardar? Abra cualquier documento en modo Edición para añadir fotos nuevas, eliminar las anteriores, o recortar y rotar. Su bóveda se mantiene precisa sin empezar de nuevo.
+¿Has cambiado de idea después de guardar? Abre cualquier documento en modo edición para añadir fotos nuevas, quitar las antiguas o recortar y girar. Tu bóveda sigue al día sin empezar de cero.
 
-### Buscar y Filtrar
+### Búsqueda y filtros
 
-Encuentra cualquier documento al instante por nombre o tipo. Filtra por persona, tipo de documento o estado de vencimiento.
+Encuentra cualquier documento al instante por nombre o tipo. Filtra por persona, tipo de documento o estado de caducidad.
 
-### Notas de Documentos
+### Notas y adjuntos en documentos
+
+Añade notas privadas y adjunta fotos a cualquier documento. Guarda contexto, instrucciones o imágenes que no caben en los campos habituales.
+
+### Compartir sin complicaciones
+
+Cada documento tiene su propio botón de compartir. Expórtalo como PDF o comparte el archivo original por correo, mensajería o cualquier app.
+
+### Vales y entradas
+
+Guarda tarjetas regalo, códigos de descuento, entradas para eventos y pases para atracciones. Recibe avisos de caducidad para que ningún vale se desperdicie.
+
+### Posponer recordatorios
+
+Pausa cualquier recordatorio de caducidad sin editar el documento. Reprograma el recordatorio que elijas para dentro de una hora, tres horas, mañana o la semana que viene.
+
+### Documentos por colores
+
+Con Pro, asigna un color a cualquier tipo de documento o a un documento concreto para reconocerlo al instante. Cambia los colores en cada perfil para que la bóveda de toda la familia se lea de un vistazo.
+
+### Exportar, copia de seguridad y restaurar
 
 Pro
 
-Agrega notas privadas a cualquier documento. Almacena detalles adicionales, instrucciones o recordatorios que no caben en campos estándar.
+La exportación y la importación de la bóveda son gratis para todos. Pro añade PDF combinados y copia de seguridad cifrada en tu propio iCloud o Google Drive. Restaura las copias en la nube con tu código de recuperación en un dispositivo compatible de la misma plataforma, con la misma cuenta en la nube.
 
-### Compartir con Facilidad
+Captura inteligente
 
-Pro
+## Escaneo de precisión
 
-Cada documento tiene un botón de compartir integrado. Exporta como PDF o comparte el archivo original (foto o documento importado) por correo electrónico, mensajería o cualquier aplicación.
+### Ayuda para encuadrar
 
-### Comprobantes y Entradas
+Las guías en pantalla te ayudan a alinear tus documentos con precisión. Hay una plantilla para cada tipo de documento:
 
-Pro
+- **Pasaporte**: con línea divisoria central para la doble página abierta
+- **Documento de identidad**: marco del tamaño de una tarjeta de crédito
+- **Visado / permiso**: guía A5 / media página para sellos y etiquetas
+- **Página completa**: guía A4 para visados electrónicos, seguros y billetes
 
-Almacena tarjetas de regalo, códigos de descuento, entradas de eventos y pases de atracciones. Obtén recordatorios de vencimiento para que los comprobantes no se pierdan. Importa PDFs multipágina con Pro.
+### Ajusta cada escaneo
 
-### Posponer Recordatorios
+Afina tus capturas con las herramientas de edición integradas:
 
-Pausa cualquier recordatorio de vencimiento sin editar el documento. Reprograma un recordatorio seleccionado para una hora, tres horas, mañana o la próxima semana.
+- **Girar**: en pasos de 90°
+- **Vista previa con zoom**: pellizca para comprobar la nitidez
+- **Avisos de resolución**: si la imagen es demasiado pequeña
+- **Marco de recorte ajustable**: alinéalo con las guías visuales
 
-### Código de Color en Documentos
+Recordatorios inteligentes
 
-Con Pro, asigna un color a cualquier tipo de documento o documento individual para un reconocimiento visual instantáneo. Anula los colores por perfil para que la bóveda de toda tu familia sea fácil de navegar de un vistazo.
+## Adelántate a los plazos
 
-### Exportar, Respaldar y Restaurar
+Los recordatorios se activan solos, según el tipo de documento. Los pasaportes empiezan **8 meses** antes de la caducidad y luego van bajando a 6 meses, 3 meses, 6 semanas, 1 mes, 2 semanas y 1 semana, con más recordatorios el día de la caducidad y después. Los visados, los documentos de identidad y los seguros de viaje empiezan **3 meses antes**. Los billetes de avión, las reservas de hotel y los vales empiezan una semana antes. Los usuarios Pro pueden elegir otro punto de partida para cualquier documento.
 
-PRO
+### Recordatorios del pasaporte
 
-La exportación e importación de la bóveda son gratuitas para todos. Pro añade PDF combinados y copia de seguridad cifrada en tu propio iCloud o Google Drive. Restaura las copias en la nube con tu código de recuperación en un dispositivo compatible de la misma plataforma y con la misma cuenta en la nube.
+8 meses 6 meses 3 meses 6 semanas 1 mes 2 semanas 1 semana Caducidad +1 día +1 semana
 
-Captura Inteligente
+### Recordatorios del visado
 
-## Escaneo de Precisión
+3 meses 6 semanas 1 mes 2 semanas 1 semana Día de caducidad +1 día +1 semana
 
-### Asistencia de Precisión
-
-Las guías en pantalla te ayudan a alinear tus documentos con precisión. Diferentes plantillas para diferentes tipos de documentos:
-
-- **Pasaporte**: con línea divisoria central para dobles páginas abiertas
-- **Tarjeta de identificación**: marco de tamaño de tarjeta de crédito
-- **Visa / Permiso**: guía A5 / media página para sellos y pegatinas
-- **Página Completa**: guía A4 para e-visas, seguros y boletos
-
-### Ajusta Cada Escaneo
-
-Ajusta tus capturas con herramientas de edición integradas:
-
-- **Rotar**: en incrementos de 90°
-- **Vista previa con zoom**: pellizca para verificar claridad
-- **Advertencias de resolución**: si la imagen es demasiado pequeña
-- **Marco de recorte ajustable**: alinea con guías visuales
-
-Recordatorios Inteligentes
-
-## Adelántate a los Plazos
-
-Los recordatorios se activan automáticamente, según el tipo de documento. Los pasaportes empiezan **8 meses antes del vencimiento**, luego 6 meses, 3 meses, 6 semanas, 1 mes, 2 semanas y 1 semana, con más recordatorios el día del vencimiento y después. Los visados, documentos de identidad nacionales y seguros de viaje empiezan **3 meses antes**. Los billetes de avión, reservas de hotel y cupones empiezan una semana antes. Los usuarios Pro pueden elegir otro punto de inicio para cualquier documento.
-
-#### Recordatorios de Pasaporte
-
-8 meses 6 meses 3 meses 6 semanas 1 mes 2 semanas 1 semana Vencimiento +1 día +1 semana
-
-#### Recordatorios de Visa
-
-3 meses 6 semanas 1 mes 2 semanas 1 semana Día de vencimiento +1 día +1 semana
-
-#### Recordatorios de Boletos Aéreos
+### Recordatorios de billetes de avión
 
 1 semana 2 días 1 día 24 horas
 
-**Recordatorios posteriores al vencimiento** (mostrados en naranja) te ayudan a mantenerte al tanto de documentos vencidos. Incluso si perdiste la fecha de vencimiento, seguirás recibiendo recordatorios para renovar, lo que los hace perfectos para detectar documentos que vencen mientras viajas.
+**Los recordatorios tras la caducidad** (listados después de la fecha de caducidad) te ayudan a no perder de vista los documentos caducados. Aunque se te haya pasado la fecha, seguirás recibiendo avisos para renovarlos, algo muy útil para los documentos que caducan mientras estás de viaje.
 
-Perfiles Familiares
+**Pospón los recordatorios de caducidad** desde la propia notificación o dentro de la app. Elige 1 hora, 3 horas, mañana o la semana que viene, y la app lo reprograma automáticamente.
 
-## Todos en Un Lugar
+Perfiles familiares
 
-### Perfiles Separados
+## Todos en un solo lugar
 
-Con Pro, crea un perfil para cada miembro de la familia. Mantén los documentos de todos organizados y fáciles de encontrar.
+### Perfiles separados
 
-### Vistas Filtradas por Perfil
+Con Pro, crea un perfil para cada miembro de la familia. Los documentos de todos, ordenados y fáciles de encontrar.
 
-Ve documentos y recordatorios filtrados por persona. Solo lo que te importa.
+### Vistas por perfil
 
-### Cambio Rápido
+Consulta documentos y recordatorios filtrados por persona. Solo ves lo que te interesa.
 
-Cambia entre perfiles con un toque. Perfecto para administrar toda la familia.
+### Cambio rápido
 
-PRO
+Cambia de perfil con un toque. Ideal para gestionar a toda la familia.
 
-### Perfiles Ilimitados
+### Perfiles ilimitados
 
-El nivel gratuito incluye 1 perfil. Pro desbloquea perfiles ilimitados para toda la familia.
+Pro
 
-Experiencia Nativa
+La versión gratuita incluye 1 perfil. Pro desbloquea perfiles ilimitados para toda la familia.
 
-## Hecho para tu Dispositivo
+Experiencia nativa
 
-### Modo Oscuro y Claro
+## Hecha para tu dispositivo
 
-Se adapta a la configuración de tu sistema. Hermoso en ambas apariencias.
+### Modo oscuro y claro
 
-### Gestos Nativos
+Se adapta a los ajustes de tu sistema. Se ve bien en los dos modos.
 
-Desliza entre lados de documentos. Pellizca para ampliar hasta 5x para inspección detallada.
+### Gestos nativos
+
+Desliza para pasar de una cara del documento a otra. Pellizca para ampliar hasta 5x y ver los detalles.
 
 ### Visor de PDF integrado
 
-Integración de visualización de PDF nativa. Rápido, familiar y con todas las funciones.
+Visualización de PDF nativa. Rápida, conocida y completa.
 
-### Habla Tu Idioma
+### Habla tu idioma
 
-Disponible en más de 40 idiomas, para que la aplicación se sienta nativa donde quiera que estés.
+Disponible en más de 40 idiomas, para que la app te resulte natural estés donde estés.
 
 🇬🇧 🇸🇦 🇮🇳 🇨🇳 🇹🇼 🇪🇸 🇧🇷 🇵🇹 🇫🇷 🇩🇪 🇯🇵 🇰🇷 🇮🇹 🇷🇺 🇳🇱 🇵🇱 🇹🇷 🇮🇩 🇻🇳 🇹🇭 🇺🇦 🇸🇪 🇳🇴 🇩🇰 🇫🇮 🇵🇰 🇮🇷 🇧🇩 🇷🇴 🇨🇿 🇭🇺 🇬🇷 🇸🇰 🇭🇷 🇸🇮 🇲🇾
 
-### Accesible por Diseño
+### Accesible desde el diseño
 
-Diseñada para VoiceOver y TalkBack. El texto se adapta al tamaño de fuente del sistema, y los estilos de los controles compartidos tienen como objetivo áreas táctiles de 44 pt (48 dp en Android).
+Diseñada para VoiceOver y TalkBack. El texto se adapta al tamaño de letra del sistema, y los controles comunes buscan áreas táctiles de 44 pt (48 dp en Android).
 
-### Respuesta Háptica Precisa
+### Respuesta háptica cuidada
 
-Las acciones principales usan respuesta háptica donde tu dispositivo la admite.
+Las acciones clave usan respuesta háptica cuando tu dispositivo lo admite.
 
-Privacidad y Seguridad
+Personaliza
 
-## Tus Datos, Tu Dispositivo
+## Hazla tuya
 
-Sin servidores que guarden tus documentos, sin cuentas, sin seguimiento. Construido por Mustafa Hafeez con arquitectura privada. [Política de Privacidad](https://traveldocumentvault.com/privacy-policy/) y enlace de [Verificación](https://traveldocumentvault.com/privacy-policy/).
+### Colores por tipo
 
-### Tus Datos Siguen Siendo Tuyos
+Con Pro, asigna un color propio a cada tipo de documento. Pasaportes, visados, documentos de identidad y billetes, cada uno con su color. Todas las tarjetas e iconos se actualizan al instante.
 
-Diseñamos esto para que no tengas que confiar en nosotros con tus datos —no tenemos servidores que guarden tus documentos ni acceso a ellos, así que por defecto tu bóveda se queda en tu dispositivo. Si eliges una copia de seguridad Pro opcional a tu propio iCloud o Google Drive, está sellada con un código de recuperación que solo tú tienes, uno que seguimos sin poder leer.
+### Colores distintos en cada perfil
 
-### Funciona Sin Conexión
+Con Pro, cambia el color general de cualquier tipo de documento dentro de un perfil concreto. Los documentos de cada miembro de la familia pueden tener su propia combinación de colores.
 
-Los datos de la bóveda se cifran en tu dispositivo; los archivos de documentos usan AES-256-GCM. Los documentos guardados, las fechas de vencimiento y los recordatorios programados funcionan sin conexión.
+### Color de acento
 
-### Sin Rastreo
+Elige el color de acento de la app entre 10 opciones predefinidas o crea el tuyo con el selector de color completo. Disponible para todos los usuarios, sin necesidad de Pro.
 
-Sin analítica. Sin anuncios. Sin SDKs ocultos cosechando tus datos.
+Privacidad y seguridad
 
-### Notificaciones Privadas
+## Tus datos, tu dispositivo
 
-Los recordatorios no incluyen imágenes escaneadas ni un campo separado con el número de documento. El texto puede incluir el título guardado del documento, así que evita poner números sensibles en él.
+Ningún servidor guarda tus documentos, sin cuentas, sin seguimiento. Creada por Mustafa Hafeez con una arquitectura que pone la privacidad primero. Consulta la [Política de privacidad](https://traveldocumentvault.com/privacy-policy/) y la [verificación](https://traveldocumentvault.com/privacy-policy/).
 
-### Controlas el Compartir
+### Tus datos siguen siendo tuyos
 
-Los archivos de documentos salen cuando eliges compartirlos mediante la hoja del sistema, exportarlos o activar la copia de seguridad cifrada (Pro). Incluye advertencias de contenido sensible.
+Lo diseñamos para que no tengas que confiarnos tus datos: no tenemos servidores que guarden tus documentos ni acceso a ellos, así que por defecto tu bóveda se queda en tu dispositivo. Si eliges la copia de seguridad opcional de Pro en tu propio iCloud o Google Drive, queda sellada con un código de recuperación que solo tienes tú y que nosotros tampoco podemos leer.
+
+### Funciona sin conexión
+
+Los datos de la bóveda se cifran en tu dispositivo; los archivos de documentos usan AES-256-GCM. Los documentos guardados, las fechas de caducidad y los recordatorios programados funcionan sin conexión.
+
+### Sin rastreo
+
+Sin analítica. Sin anuncios. Sin SDK ocultos recopilando tus datos.
+
+### Notificaciones privadas
+
+Los recordatorios no incluyen imágenes escaneadas ni un campo aparte con el número del documento. El texto del recordatorio puede incluir el título guardado del documento, así que evita poner números sensibles en él.
+
+### Tú decides qué compartes
+
+Los archivos de tus documentos solo salen cuando decides compartirlos con el menú de compartir del sistema, exportarlos o activar la copia de seguridad cifrada (Pro). Incluye avisos de contenido sensible.
 
 ### Bloqueo con PIN
 
-Protege tu bóveda con un PIN. Disponible para todos los usuarios gratis.
+Protege tu bóveda con un PIN. Gratis para todos los usuarios.
 
-### Bloqueo Biométrico
+### Bloqueo biométrico
 
-Desbloquea con Face ID o Touch ID en lugar de PIN. Gratis para todos los usuarios. Requiere que el PIN se configure primero.
+Desbloquea con Face ID o Touch ID en lugar del PIN. Gratis para todos los usuarios. Antes tienes que configurar un PIN.
 
-### Protección de Captura de Pantalla
+### Protección contra capturas de pantalla
 
-La protección contra capturas de pantalla está activada por defecto en las pantallas de documentos donde es compatible. Ayuda a reducir las copias accidentales.
+La protección contra capturas de pantalla viene activada por defecto en las pantallas de documentos, donde el sistema lo permite. Ayuda a evitar copias accidentales.
 
-### Almacenamiento Cifrado
+### Almacenamiento cifrado
 
-Los documentos se encriptan en tu dispositivo usando cifrado estándar de la industria. Los archivos de documentos cifrados necesitan su clave para leerse; los originales compartidos son legibles.
+Los documentos se cifran en tu dispositivo con un cifrado estándar del sector. Los archivos de documentos cifrados necesitan su clave para poder leerse; los originales que compartes sí son legibles.
 
-Operaciones por Lote
+### Enséñalo a otra persona
 
-## Trabaja Más Inteligente, Más Rápido
+¿Tienes que enseñar un documento en la frontera o en la recepción de un hotel? El modo de visualización protegida muestra el documento con la protección contra capturas activada por defecto, donde el sistema lo permite. Si has configurado un PIN, la app se bloquea al cerrarla.
 
-### Menú Contextual de Pulsación Larga
+### Código de recuperación
 
-Presiona y mantén cualquier tarjeta de documento para acceder instantáneamente a acciones rápidas: Exportar PDF, Compartir Original o Eliminar. Sin necesidad de abrir el documento primero.
+¿Has olvidado tu PIN? Tu código de recuperación te ayuda a recuperar el acceso sin borrar tus documentos. La app lo crea cuando configuras el PIN; guárdalo en un lugar seguro.
 
-### Modo Seleccionar
+### Borrado automático
 
-PRO
+El borrado automático se activa por defecto en cuanto configuras un PIN. Puedes desactivarlo en Ajustes. Está pensado para borrar la bóveda local tras varios intentos fallidos de PIN. Los intentos de PIN tienen un límite de frecuencia. Ten una copia de seguridad independiente antes de confiar en él.
 
-Toca "Seleccionar" para elegir múltiples documentos a la vez. Usa el menú de Acciones unificado para exportar o compartir por lotes (Pro), o eliminar los documentos seleccionados.
+Acciones en lote
 
-### Compartir por Lote
+## Trabaja con más agilidad
 
-PRO
+### Menú contextual con pulsación larga
 
-Con Pro, comparte varios archivos de documentos originales mediante hojas para compartir sucesivas (correo electrónico, mensajería y más). La app descifra los originales al compartirlos, y también al consultarlos y editarlos.
+Mantén pulsada cualquier tarjeta de documento para acceder al instante a acciones rápidas: Exportar PDF, Compartir original o Eliminar. Sin necesidad de abrir antes el documento.
 
-#### Eliminación Segura con Deshacer
+### Modo selección
 
-¿Eliminaste accidentalmente un documento? Toca Deshacer inmediatamente para recuperarlo. ¿Se te pasó la ventana? Se mueve a Eliminado Recientemente. Con la copia en la nube desactivada, la app lo elimina automáticamente después de 30 días; con la copia activada, se queda hasta que lo elimines permanentemente. También puedes eliminarlo permanentemente antes.
+Toca «Seleccionar» para elegir varios documentos a la vez. Usa el menú Acciones para exportar o compartir en lote (Pro), o para eliminar tu selección.
 
-**Importante:** Travel Document Vault es una herramienta de organización personal para almacenar copias digitales de tus documentos. **Las copias digitales almacenadas en esta aplicación NO son válidas para viajes.** No verifica la autenticidad de documentos ni proporciona asesoramiento legal o de viaje. Siempre lleva documentos originales y verifica todos los requisitos de viaje con fuentes oficiales del gobierno.
+### Compartir en lote
 
-## Descargar Gratis. Sin Suscripción.
+Con Pro, comparte varios archivos originales mediante hojas de compartir sucesivas (correo, mensajería y más). La app descifra los originales para compartirlos, y también para verlos y editarlos.
 
-Configúralo esta noche. Deja que la aplicación recuerde para que no tengas que hacerlo.
+#### Eliminación segura con deshacer
+
+¿Has borrado un documento sin querer? Toca Deshacer enseguida para recuperarlo. ¿Se te ha pasado el momento? Pasa a Eliminados recientemente. Con la copia en la nube desactivada, la app lo elimina automáticamente a los 30 días; con la copia en la nube activada, se queda ahí hasta que lo elimines definitivamente. También puedes eliminarlo definitivamente antes.
+
+**Importante:** Travel Document Vault es una herramienta de organización personal para guardar copias digitales de tus documentos. **Las copias digitales guardadas en esta app NO son válidas para viajar.** No verifica la autenticidad de los documentos ni ofrece asesoramiento legal ni de viaje. Lleva siempre los documentos originales y comprueba todos los requisitos de viaje en fuentes oficiales del gobierno.
+
+## Respuestas rápidas
+
+¿Travel Document Vault funciona sin conexión a internet? Los datos de la bóveda se cifran en tu dispositivo; los archivos de documentos usan AES-256-GCM. Los documentos guardados, las fechas de caducidad y los recordatorios programados funcionan sin conexión. ¿Qué documentos puedo guardar en Travel Document Vault? Puedes guardar pasaportes, visados, carnés de conducir, documentos nacionales de identidad, seguros de viaje y cualquier otro documento de viaje. Con Pro, la app admite varios perfiles, así que puedes gestionar los documentos de toda tu familia en un solo lugar. ¿Cómo funciona el escaneo OCR? Captura el pasaporte abierto en una sola foto. El escaneo de la MRZ lee la zona de lectura mecánica para rellenar la fecha de caducidad y el país emisor cuando puede. Confirma los resultados o introdúcelos a mano. El reconocimiento de texto se ejecuta en tu dispositivo. ¿Con cuánta antelación envía Travel Document Vault los recordatorios de caducidad? Los recordatorios se activan solos, según el tipo de documento. Los pasaportes empiezan 8 meses antes de la caducidad y luego van bajando a 6 meses, 3 meses, 6 semanas, 1 mes, 2 semanas y 1 semana, con más recordatorios el día de la caducidad y después. Los visados, los documentos de identidad y los seguros de viaje empiezan 3 meses antes. Los billetes de avión, las reservas de hotel y los vales empiezan una semana antes. Los usuarios Pro pueden elegir otro punto de partida para cualquier documento.
+
+## Descarga gratis. Sin suscripción.
+
+Configúrala esta noche. Deja que la app se acuerde por ti.
 
 ![Descargar en el App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 
-![Descargar en Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
+![Disponible en Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

@@ -84,8 +84,6 @@ Source: https://traveldocumentvault.com/ja/blog/best-passport-organizer-app/
 
 ## Travel Document Vaultはこれにどのようにアプローチするか
 
-**Travel Document Vault**は書類を端末上でAES-256暗号化して保存します。アプリ用アカウントは不要です。保存した書類はオフラインで閲覧でき、パスポートやビザの有効期限リマインダーもオフラインで動作します。コピーの共有やエクスポートもでき、Proならご自身のiCloudまたはGoogle Driveに暗号化クラウドバックアップを保存できます。Proでは家族全員も追加できます。Proはサブスクリプションなしの一回限りのアプリ内購入です。[App Storeで無料ダウンロード](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)できます。
-
 ## ダウンロード前の実践的なチェックリスト
 
 パスポート整理アプリを評価する際に、これら9つの質問を自分自身に尋ねてください

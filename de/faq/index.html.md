@@ -14,7 +14,7 @@ Alles, was Sie über Travel Document Vault wissen müssen.
 
 ![Im App Store laden](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 
-![Bei Google Play erhältlich](https://traveldocumentvault.com/assets/images/google-play-badge.svg) Einmalkauf · Kein Abo Springe zu: Datenschutz Funktionen Sicherung Preise Fehlerbehebung Recht
+![Bei Google Play erhältlich](https://traveldocumentvault.com/assets/images/google-play-badge.svg) Einmalkauf · Kein Abo Direkt zu: Datenschutz Funktionen Backup Preise Fehlerbehebung Recht
 
 ## Vertrauen & Transparenz
 
@@ -36,7 +36,7 @@ Ja. Ihr Kauf umfasst alle Updates innerhalb der aktuellen Hauptversion (v1.x), e
 
 Was passiert, wenn ich mein Telefon verliere oder zu einem neuen wechsle?
 
-Da wir Ihre Daten nicht speichern, können wir sie nicht für Sie wiederherstellen. Ein System-Backup (iCloud oder Google Backup) reinstalliert die App, aber es KANN Ihre Dokumente nicht wiederherstellen, da Systemsicherungen den an das Gerät gebundenen Verschlüsselungsschlüssel nicht übertragen. Wir empfehlen dringend, die Export-Funktion zu nutzen, um eine separate verschlüsselte Kopie Ihrer wichtigen Dokumente zu erstellen, bevor Sie Ihre Telefone wechseln.
+Da wir Ihre Daten nicht speichern, können wir sie nicht für Sie wiederherstellen. Ein System-Backup (iCloud oder Google Backup) reinstalliert die App, aber es KANN Ihre Dokumente nicht wiederherstellen, da Systemsicherungen den an das Gerät gebundenen Verschlüsselungsschlüssel nicht übertragen. Wir empfehlen dringend, den Tresor-Export zu nutzen, um eine separate verschlüsselte Kopie Ihrer wichtigen Dokumente zu erstellen, bevor Sie Ihre Telefone wechseln.
 
 Funktioniert die App ohne Internetverbindung?
 
@@ -68,13 +68,13 @@ Die App hat keine Cloud-Datenbank. Wir sehen Ihre Daten nicht. Wenn Sie **iCloud
 
 Kann ich meine Daten kostenlos sichern?
 
-Ja. Der Tresor-Export (**.tdvault**-Datei) ist für alle kostenlos. Gehen Sie zu **Einstellungen, Tresor exportieren** und die App erstellt eine passwortgeschützte Datei, die Sie in der Dateien-App, iCloud Drive speichern oder per AirDrop teilen können. Die App erstellt außerdem automatisch **lokale Sicherungen alle paar Minuten** auf Ihrem Gerät, ohne Kosten. Die Cloud-Sicherung auf Ihrem eigenen iCloud oder Google Drive ist die Pro-Option. Keine Sicherungsfunktion sperrt Ihre Daten ein.
+Ja. Der Tresor-Export (**.tdvault**-Datei) ist für alle kostenlos. Gehen Sie zu **Einstellungen, Tresor exportieren** und die App erstellt eine passwortgeschützte Datei, die Sie in der Dateien-App, iCloud Drive speichern oder per AirDrop teilen können. Die App erstellt außerdem automatisch **lokale Sicherungen alle paar Minuten** auf Ihrem Gerät, ohne Kosten. Die Cloud-Sicherung in Ihrer eigenen iCloud oder Ihrem eigenen Google Drive ist die Pro-Option. Keine Sicherungsfunktion sperrt Ihre Daten ein.
 
 Was passiert, wenn ich mein Telefon verliere?
 
 Da wir Ihre Daten nicht haben, können wir sie nicht für Sie wiederherstellen. Wenn Sie ein neues Telefon von einem System-Backup (iCloud/Google) wiederherstellen, sollten Ihre Daten wieder erscheinen. Wenn Sie keine System-Backups verwenden, gehen Ihre Daten verloren.
 
-**Empfehlung:** Verwenden Sie die Export-Funktion, um eine Kopie Ihrer wichtigen Dokumente an anderer Stelle zu speichern.
+**Empfehlung:** Exportieren Sie den Tresor, um eine Kopie Ihrer wichtigen Dokumente an anderer Stelle zu speichern.
 
 Was, wenn jemand mein Telefon stiehlt? Sind meine Dokumente geschützt?
 
@@ -91,7 +91,7 @@ Sammeln Sie Analytics- oder Tracking-Daten?
 
 Was passiert, wenn ich die App lösche?
 
-Alle Ihre Daten auf diesem Telefon werden **dauerhaft gelöscht**, wenn Sie die App deinstallieren. Eine Wiederherstellung ist nur möglich, wenn Sie einen Tresor-Export erstellt oder die Cloud-Sicherung aktiviert haben, da wir nichts extern speichern. **Vor dem Löschen:** Exportieren Sie Ihre Dokumente oder erstellen Sie eine .tdvault-Sicherungsdatei aus den Einstellungen, um sie anderweitig zu speichern.
+Alle Ihre Daten auf diesem Telefon werden **dauerhaft gelöscht**, wenn Sie die App deinstallieren. Eine Wiederherstellung ist nur möglich, wenn Sie den Tresor exportiert oder die Cloud-Sicherung aktiviert haben, da wir nichts extern speichern. **Vor dem Löschen:** Exportieren Sie Ihre Dokumente oder erstellen Sie eine .tdvault-Sicherungsdatei aus den Einstellungen, um sie anderweitig zu speichern.
 
 ## Zusätzliche Sicherheit
 
@@ -109,9 +109,9 @@ Da Ihre Daten unsere Server nie erreichen, haben wir keine Möglichkeit, auf Ihr
 
 Sind Backups ebenfalls verschlüsselt?
 
-**Ja.** Automatische Backups werden über das integrierte Backup-System Ihres Geräts (iCloud/Google) verschlüsselt. Tresor-Exporte (.tdvault-Dateien) sind **passwortgeschützt** mit starker Verschlüsselung. Sie legen beim Exportieren ein Passwort fest und benötigen es zur Wiederherstellung.
+**Ja.** Automatische Backups werden über das integrierte Backup-System Ihres Geräts (iCloud/Google) verschlüsselt. Mit dem Tresor-Export erstellte Dateien (.tdvault) sind **passwortgeschützt** mit starker Verschlüsselung. Sie legen beim Exportieren ein Passwort fest und benötigen es zur Wiederherstellung.
 
-Ein System-Backup reinstalliert die App, aber Ihre verschlüsselten Dokumente können nicht wiederhergestellt werden, da Systemsicherungen den an das Gerät gebundenen Verschlüsselungsschlüssel nicht übertragen. Pro-Nutzer können ein Backup mit ihrem Wiederherstellungscode exportieren und auf einem neuen Gerät mit diesem Code importieren. Alle anderen sollten die Export-Funktion verwenden, um .tdvault-Dateien mit Passwortschutz zu erstellen.
+Ein System-Backup reinstalliert die App, aber Ihre verschlüsselten Dokumente können nicht wiederhergestellt werden, da Systemsicherungen den an das Gerät gebundenen Verschlüsselungsschlüssel nicht übertragen. Pro-Nutzer können ein Backup mit ihrem Wiederherstellungscode exportieren und auf einem neuen Gerät mit diesem Code importieren. Alle anderen sollten den Tresor-Export verwenden, um .tdvault-Dateien mit Passwortschutz zu erstellen.
 
 Was ist "Anderen zeigen"?
 
@@ -189,7 +189,7 @@ Erstellt die App automatische Backups?
 - Backups bleiben im **privaten Speicherbereich der App** auf Ihrem Gerät.
 - Ein gültiges lokales Backup kann über **Einstellungen → Lokale Sicherung wiederherstellen** frühere Tresordatensätze wiederherstellen, jedoch keine endgültig gelöschten Anhangsdateien neu erzeugen. Verwenden Sie für gewöhnliche Löschungen „Kürzlich gelöscht“.
 
-**Vault Export:** Jeder Nutzer kann auch manuell verschlüsselte .tdvault-Sicherungen erstellen und in Dateien, iCloud Drive speichern oder per AirDrop/E-Mail für externe Aufbewahrung teilen. Dies wird vor wichtigen Updates oder Gerätewechseln empfohlen. Pro fügt die automatische Cloud-Sicherung auf iCloud oder Google Drive hinzu.
+**Tresor-Export:** Jeder Nutzer kann auch manuell verschlüsselte .tdvault-Sicherungen erstellen und in Dateien, iCloud Drive speichern oder per AirDrop/E-Mail für externe Aufbewahrung teilen. Dies wird vor wichtigen Updates oder Gerätewechseln empfohlen. Pro fügt die automatische Cloud-Sicherung auf iCloud oder Google Drive hinzu.
 
 Was bedeutet 'Letzte Sicherung: vor 2 Stunden, 12 Dokumente' in den Einstellungen?
 
@@ -255,7 +255,7 @@ Android unterstützt verschlüsselte Speicherung auf dem Gerät, OCR-Scanning un
 
 Kann ich meine Daten vom iPhone auf Android übertragen (oder umgekehrt)?
 
-**Ja, mit verschlüsseltem Vault Export.** Exportieren Sie ein verschlüsseltes Backup von Ihrem aktuellen Gerät (Einstellungen → Tresor exportieren), übertragen Sie es auf Ihr neues Gerät (per E-Mail, Cloud-Speicher oder direkte Übertragung), dann verwenden Sie Einstellungen → Sicherung importieren, um Ihre Dokumente wiederherzustellen. Dabei werden alle bereits auf dem neuen Gerät vorhandenen Tresordaten ersetzt.
+**Ja, mit dem verschlüsselten Tresor-Export.** Exportieren Sie ein verschlüsseltes Backup von Ihrem aktuellen Gerät (Einstellungen → Tresor exportieren), übertragen Sie es auf Ihr neues Gerät (per E-Mail, Cloud-Speicher oder direkte Übertragung), dann verwenden Sie Einstellungen → Sicherung importieren, um Ihre Dokumente wiederherzustellen. Dabei werden alle bereits auf dem neuen Gerät vorhandenen Tresordaten ersetzt.
 
 Dies funktioniert plattformübergreifend, da das Verschlüsselungsformat universell ist. Sie benötigen dasselbe Passwort, das Sie beim Exportieren des Tresors verwendet haben. Pro-Käufe lassen sich innerhalb derselben Plattform und desselben Store-Kontos wiederherstellen; für einen Wechsel zwischen iOS und Android ist ein separater Pro-Kauf erforderlich (siehe „Kann ich meinen Kauf auf einem neuen Gerät wiederherstellen?" unten).
 
@@ -361,16 +361,6 @@ Was passiert, wenn ich etwas lösche?
 
 Gelöschte Elemente gehen für 30 Tage in den Papierkorb. Sie können sie jederzeit während dieses Zeitfensters wiederherstellen. Nach 30 Tagen sind sie endgültig von Ihrem Gerät und den Cloud-Sicherungen gelöscht. Das Leeren des Papierkorbs oder das Zurücksetzen Ihres Telefons auf Werkseinstellungen entfernt lokale Daten; eine Wiederherstellung erfordert ein nutzbares unabhängiges Backup.
 
-## Rechtliches & Haftungsausschlüsse
-
-Ist diese App ein Ersatz für offizielle Dokumente?
-
-**Nein.** Travel Document Vault ist ausschließlich ein persönliches Organisationstool. Es ersetzt keine offiziellen Dokumente, überprüft keine Authentizität und garantiert keine Einhaltung von Einwanderungsanforderungen. Führen Sie stets Ihre Originaldokumente bei Reisen mit und überprüfen Sie Anforderungen bei offiziellen Regierungsstellen.
-
-Was, wenn ich eine Frist wegen eines Erinnerungsfehlers verpasse?
-
-Erinnerungen sind eine Komfortfunktion und sollten nicht Ihr einziges Erinnerungssystem sein. Wir haften nicht für verpasste Fristen, abgelaufene Dokumente oder Konsequenzen durch Erinnerungsfehler. Vollständige Details finden Sie in unseren [Nutzungsbedingungen](https://traveldocumentvault.com/terms/).
-
 ## Cloud-Backup
 
 Was passiert, wenn ich ein Dokument bei aktivem Cloud-Backup lösche?
@@ -405,6 +395,16 @@ Was passiert, wenn ich meinen Wiederherstellungscode verliere?
 
 Ihr Wiederherstellungscode entsperrt den Verschlüsselungsschlüssel Ihres Cloud-Backups; eingerichtete Geräte behalten ihn für automatische Backups. Wir arbeiten nach dem Zero-Knowledge-Prinzip, das heißt, wir können ihn nicht zurücksetzen, nicht auslesen und nicht für Sie wiederherstellen. Apple und Google können das ebenso wenig. Wenn Sie den Wiederherstellungscode und den Zugang zu allen eingerichteten Geräten verlieren, die ihn behalten, wird Ihr verschlüsseltes Cloud-Backup unwiederherstellbar. Sichern Sie Ihren Wiederherstellungscode an einem sicheren Ort, bevor Sie sich auf das Cloud-Backup verlassen. Ein Passwort-Manager, ein Ausdruck an einem sicheren Ort, oder beides. Prüfen Sie, dass Sie ihn wirklich lesen können, bevor Sie ihn als einzige Kopie aufbewahren.
 
+## Rechtliches & Haftungsausschlüsse
+
+Ist diese App ein Ersatz für offizielle Dokumente?
+
+**Nein.** Travel Document Vault ist ausschließlich ein persönliches Organisationstool. Es ersetzt keine offiziellen Dokumente, überprüft keine Authentizität und garantiert keine Einhaltung von Einwanderungsanforderungen. Führen Sie stets Ihre Originaldokumente bei Reisen mit und überprüfen Sie Anforderungen bei offiziellen Regierungsstellen.
+
+Was, wenn ich eine Frist wegen eines Erinnerungsfehlers verpasse?
+
+Erinnerungen sind eine Komfortfunktion und sollten nicht Ihr einziges Erinnerungssystem sein. Wir haften nicht für verpasste Fristen, abgelaufene Dokumente oder Konsequenzen durch Erinnerungsfehler. Vollständige Details finden Sie in unseren [Nutzungsbedingungen](https://traveldocumentvault.com/terms/).
+
 [Für einen vollständigen Vergleich: Warum Familien Travel Document Vault wählen →](https://traveldocumentvault.com/de/why-us/)
 
 ## Noch Fragen?
@@ -412,3 +412,11 @@ Ihr Wiederherstellungscode entsperrt den Verschlüsselungsschlüssel Ihres Cloud
 Wir helfen gerne weiter. Schreiben Sie uns und wir melden uns so schnell wie möglich.
 
 [Support kontaktieren](mailto:support@traveldocumentvault.com)
+
+## Kostenlos herunterladen. Kein Abo.
+
+Heute Abend einrichten. Die App erinnert sich – damit Sie es nicht müssen.
+
+![Im App Store laden](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Bei Google Play erhältlich](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

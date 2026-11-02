@@ -84,11 +84,11 @@ Pasang aplikasi di ponsel baru dan masuk dengan akun iCloud atau Google yang sam
 
 Aplikasi juga memeriksa sebelum menulis apa pun. Jika cadangan cloud mendeteksi ada cadangan yang sudah ada di akun itu, aplikasi akan meminta Anda memilih antara memulihkan atau memulai dari awal. Ponsel baru tidak bisa diam-diam menimpa apa yang sudah ada di sana.
 
-### Berpindah Antara iPhone dan Android Berarti Memakai Vault Export
+### Berpindah Antara iPhone dan Android Berarti Memakai Ekspor Brankas
 
 Cadangan cloud tetap berada di satu platform, karena menggunakan iCloud Anda sendiri di perangkat Apple dan Google Drive Anda sendiri di Android. Berpindah dari satu ke yang lain memerlukan jalur yang berbeda.
 
-Ekspor vault gratis. Di Pengaturan, Ekspor vault membuat satu file yang dilindungi kata sandi berisi profil, dokumen, perjalanan, pengaturan yang didukung, dan lampiran yang bisa dibaca. Anda memilih tempat menyimpannya: aplikasi Files, sebuah drive, atau email ke diri sendiri. Di ponsel baru, Pengaturan, Impor cadangan membacanya kembali dan menggantikan data yang sudah ada. Fitur ini mendukung kedua platform. Tinjau dokumen, catatan, dan lampiran yang diimpor, periksa kembali pengingat, dan simpan file ekspor asli. Notifikasi dibuat ulang di perangkat penerima.
+Ekspor brankas gratis. Di Pengaturan, Ekspor vault membuat satu file yang dilindungi kata sandi berisi profil, dokumen, perjalanan, pengaturan yang didukung, dan lampiran yang bisa dibaca. Anda memilih tempat menyimpannya: aplikasi Files, sebuah drive, atau email ke diri sendiri. Di ponsel baru, Pengaturan, Impor cadangan membacanya kembali dan menggantikan data yang sudah ada. Fitur ini mendukung kedua platform. Tinjau dokumen, catatan, dan lampiran yang diimpor, periksa kembali pengingat, dan simpan file ekspor asli. Notifikasi dibuat ulang di perangkat penerima.
 
 File ekspor itu juga menjadi jawaban bagi siapa pun yang ingin memiliki salinan yang sama sekali tidak bergantung pada akun cloud. Menyimpannya di sebuah drive di rumah adalah hal yang masuk akal, terlepas dari ponsel apa pun yang Anda bawa.
 
@@ -128,7 +128,7 @@ Bisa, dengan Pro. Pasang aplikasi di ponsel baru dan masuk dengan akun iCloud at
 
 ### Apakah cadangan ini berfungsi antara iPhone dan Android?
 
-Cadangan cloud tetap berada di satu platform: iCloud Anda sendiri di iPhone dan iPad, atau Google Drive Anda sendiri di Android. Untuk berpindah di antara keduanya, gunakan ekspor vault gratis. Di Pengaturan, Ekspor vault membuat file .tdvault yang dilindungi kata sandi, yang bisa Anda kirim ke diri sendiri. Di ponsel baru, Pengaturan, Impor cadangan membacanya kembali dan menggantikan data yang sudah ada. Impor mendukung kedua platform. Tinjau dokumen, catatan, dan lampiran yang diimpor, periksa kembali pengingat, dan simpan file ekspor asli. Notifikasi dibuat ulang di perangkat penerima.
+Cadangan cloud tetap berada di satu platform: iCloud Anda sendiri di iPhone dan iPad, atau Google Drive Anda sendiri di Android. Untuk berpindah di antara keduanya, gunakan ekspor brankas yang gratis. Di Pengaturan, Ekspor vault membuat file .tdvault yang dilindungi kata sandi, yang bisa Anda kirim ke diri sendiri. Di ponsel baru, Pengaturan, Impor cadangan membacanya kembali dan menggantikan data yang sudah ada. Impor mendukung kedua platform. Tinjau dokumen, catatan, dan lampiran yang diimpor, periksa kembali pengingat, dan simpan file ekspor asli. Notifikasi dibuat ulang di perangkat penerima.
 
 ### Apa yang disimpan dalam cadangan dan apa yang tetap ada di perangkat?
 

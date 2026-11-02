@@ -64,8 +64,6 @@ Hvad du normalt skal bruge (bekræft med din ambassade, før du møder op):
 - Bevis for videre rejse – flybooking, hotelbekræftelse
 - Gebyr for nøddokumentet – hav både kontanter og kort klar
 
-**Travel Document Vault** opbevarer en krypteret kopi af dit pas på din telefon – tilgængelig uden internet, uden login. Det krypterede billede af dit pas’ dataside er den digitale kopi på listen. [Hent fra App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 ## Trin 5: Giv besked til dit rejseforsikringsselskab
 
 Anmeld tabet til dit rejseforsikringsselskab så hurtigt som muligt. De fleste fuldt dækkende policer dækker udgifterne til et nyt pas, gebyrer for nødpas og nogle gange ekstra overnatning, hvis du bliver forsinket. Gem alle kvitteringer – du får brug for dem til forsikringssagen sammen med sagsnummeret fra politianmeldelsen.

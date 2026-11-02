@@ -14,13 +14,13 @@ Tutto quello che deve sapere su Travel Document Vault.
 
 ![Scarica su App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 
-![Disponibile su Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg) Acquisto una tantum · Nessun abbonamento Vai a: Privacy Funzionalità Backup Prezzi Risoluzione dei Problemi Legale
+![Disponibile su Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg) Acquisto una tantum · Nessun abbonamento In questa pagina: Privacy Funzionalità Backup Prezzi Risoluzione dei problemi Note legali
 
-## Fiducia e Trasparenza
+## Fiducia e trasparenza
 
 Lo sviluppatore può vedere i miei documenti?
 
-No. Il vault locale non richiede un account o un server Travel Document Vault. I tuoi documenti sono salvati sul tuo dispositivo per impostazione predefinita. Se scegli di attivare il backup cloud Pro, facoltativo, la tua cassaforte viene cifrata end-to-end sul dispositivo prima di essere caricata sul tuo iCloud (iOS) o sul tuo Google Drive (Android), sigillata con un codice di recupero che possiedi solo tu. Non riceviamo il tuo backup cloud e non possiamo leggerne i documenti crittografati. Nemmeno Apple o Google.
+No. Il vault locale non richiede un account o un server Travel Document Vault. I Suoi documenti sono salvati sul Suo dispositivo per impostazione predefinita. Se sceglie di attivare il backup cloud Pro, facoltativo, il Suo vault viene cifrato end-to-end sul dispositivo prima di essere caricato sul Suo iCloud (iOS) o sul Suo Google Drive (Android), sigillato con un codice di recupero che possiede solo Lei. Non riceviamo il Suo backup cloud e non possiamo leggerne i documenti crittografati. Nemmeno Apple o Google.
 
 Cosa raccoglie il report degli arresti anomali di Sentry e posso disattivarlo?
 
@@ -36,11 +36,11 @@ Sì. L'acquisto copre ogni aggiornamento all'interno della versione principale c
 
 Cosa succede se perdo il mio telefono o passo a uno nuovo?
 
-Utenti Pro: attivino il backup cloud crittografato in Impostazioni, Backup su Cloud. Il vault viene crittografato sul dispositivo con il codice di recupero prima di raggiungere iCloud (iOS) o Google Drive (Android). Su un dispositivo supportato della stessa piattaforma, usino lo stesso account cloud. Aprano Backup su Cloud in Impostazioni, scelgano il backup e lo ripristinino con il codice di recupero. Il ripristino sostituisce il vault locale. I contenuti dei documenti sono crittografati; il provider cloud può vedere metadati come conteggi, date e orari e informazioni sul dispositivo. Noi non vediamo nulla. Tutti: usino l’esportazione gratuita del vault (.tdvault) in Impostazioni e lo importino su un altro dispositivo. I backup di sistema (iCloud o Google) reinstallano l’app ma non ripristinano i documenti: non trasferiscono la chiave di crittografia legata al dispositivo. Esportino quindi il vault prima di cambiare telefono.
+Utenti Pro: attivi il backup cloud crittografato in Impostazioni, Backup su Cloud. Il vault viene crittografato sul dispositivo con il codice di recupero prima di raggiungere iCloud (iOS) o Google Drive (Android). Su un dispositivo supportato della stessa piattaforma, usi lo stesso account cloud. Apra Backup su Cloud in Impostazioni, scelga il backup e lo ripristini con il codice di recupero. Il ripristino sostituisce il vault locale. I contenuti dei documenti sono crittografati; il provider cloud può vedere metadati come conteggi, date e orari e informazioni sul dispositivo. Noi non vediamo nulla. Tutti: in Impostazioni usi l’esportazione gratuita del caveau (.tdvault) e importi il file su un altro dispositivo. I backup di sistema (iCloud o Google) reinstallano l’app ma non ripristinano i documenti: non trasferiscono la chiave di crittografia legata al dispositivo. Esporti quindi il vault prima di cambiare telefono.
 
 L'app funziona senza connessione internet?
 
-Sì, del tutto. L'app in sé non ha server e non ha bisogno di internet per funzionare. Scansione, consultazione, esportazione e promemoria funzionano tutti offline. Richiedono una connessione gli acquisti e il loro ripristino tramite gli store, i controlli e i download degli aggiornamenti e il backup cloud facoltativo (Pro) sul tuo account iCloud o Google Drive. Anche cambiare il codice di recupero con il backup cloud attivo richiede una connessione.
+Sì, del tutto. L'app in sé non ha server e non ha bisogno di internet per funzionare. Scansione, consultazione, esportazione e promemoria funzionano tutti offline. Richiedono una connessione gli acquisti e il loro ripristino tramite gli store, i controlli e i download degli aggiornamenti e il backup cloud facoltativo (Pro) sul Suo account iCloud o Google Drive. Anche cambiare il codice di recupero con il backup cloud attivo richiede una connessione.
 
 Quali lingue supporta l'app?
 
@@ -52,11 +52,11 @@ I Suoi documenti vivono sul Suo dispositivo, non sui nostri server, quindi non s
 
 Chi ha costruito questa app e perché è orientata alla privacy?
 
-Travel Document Vault è stato creato da Mustafa Hafeez, sviluppatore software senior con anni di esperienza professionale nella costruzione di applicazioni rispettose della privacy, e genitore che aveva bisogno di questa app per la propria famiglia. La privacy non è una frase di marketing. Il vault locale non richiede un account o un server Travel Document Vault. Attiva il blocco dell’app per limitare l’accesso su un telefono sbloccato. Il backup cloud facoltativo usa il tuo iCloud o il tuo Google Drive, cifrato end-to-end con un codice di recupero che possiedi solo tu. È una scelta ingegneristica deliberata, non una politica modificabile con un interruttore.
+Travel Document Vault è stato creato da Mustafa Hafeez, sviluppatore software senior con anni di esperienza professionale nella costruzione di applicazioni rispettose della privacy, e genitore che aveva bisogno di questa app per la propria famiglia. La privacy non è una frase di marketing. Il vault locale non richiede un account o un server Travel Document Vault. Attivi il blocco dell’app per limitare l’accesso su un telefono sbloccato. Il backup cloud facoltativo usa il Suo iCloud o il Suo Google Drive, cifrato end-to-end con un codice di recupero che possiede solo Lei. È una scelta ingegneristica deliberata, non una politica modificabile con un interruttore.
 
 Vuole verificare queste affermazioni da solo? Consulti la nostra pagina [Verifica della Privacy](https://traveldocumentvault.com/it/privacy-verification/) per prove indipendenti e una panoramica completa di ogni autorizzazione dell'app.
 
-## Privacy e Dati
+## Privacy e dati
 
 Dove sono archiviati i miei dati?
 
@@ -93,7 +93,7 @@ Cosa succede quando elimino l'app?
 
 Tutti i Suoi dati vengono **eliminati definitivamente** quando disinstalla l'app. Non c'è modo di recuperarli in seguito poiché non archiviamo nulla esternamente. **Prima di eliminare:** Esporti i Suoi documenti o crei un file .tdvault di backup dalle Impostazioni per salvarli altrove.
 
-## Sicurezza Aggiuntiva
+## Sicurezza aggiuntiva
 
 Le immagini dei miei documenti sono crittografate?
 
@@ -109,29 +109,29 @@ Poiché i Suoi dati non raggiungono mai i nostri server, non abbiamo modo di acc
 
 Anche i backup sono crittografati?
 
-**Sì.** I backup automatici sono crittografati tramite il sistema di backup integrato del Suo dispositivo (iCloud/Google). Le esportazioni del caveau (file .tdvault) sono **protette da password** con crittografia forte. Dovrà impostare una password durante l'esportazione e ne avrà bisogno per il ripristino.
+**Sì.** I backup automatici sono crittografati tramite il sistema di backup integrato del Suo dispositivo (iCloud/Google). I file dell'esportazione del caveau (.tdvault) sono **protetti da password** con crittografia forte. Dovrà impostare una password durante l'esportazione e ne avrà bisogno per il ripristino.
 
 Se ripristina da un backup, i Suoi documenti funzioneranno automaticamente sul nuovo dispositivo senza dover fare nulla di speciale.
 
 Che cosa significa "Mostra a un'altra persona"?
 
-"Mostra a un'altra persona" è una modalità di visualizzazione protetta per i momenti in cui un funzionario di frontiera, un receptionist d'albergo o un addetto di una compagnia aerea ha bisogno di vedere un documento sullo schermo. Con il Blocco PIN configurato, tocca l’icona per aprire una vista a schermo intero con **protezione da screenshot e registrazioni dello schermo attiva per impostazione predefinita, secondo il supporto del dispositivo e le tue impostazioni.** Chiudi la vista protetta, poi sblocca il vault con il PIN o la biometria attivata.
+"Mostra a un'altra persona" è una modalità di visualizzazione protetta per i momenti in cui un funzionario di frontiera, un receptionist d'albergo o un addetto di una compagnia aerea ha bisogno di vedere un documento sullo schermo. Con il Blocco PIN configurato, tocchi l’icona per aprire una vista a schermo intero con **protezione da screenshot e registrazioni dello schermo attiva per impostazione predefinita, secondo il supporto del dispositivo e le Sue impostazioni.** Chiuda la vista protetta, poi sblocchi il vault con il PIN o la biometria attivata.
 
-Questa modalità non carica i tuoi documenti. Configura prima il Blocco PIN, così chiudere la vista protetta blocca l’accesso al vault. Senza Blocco PIN, il visualizzatore non limita l’accesso al resto del vault.
+Questa modalità non carica i Suoi documenti. Configuri prima il Blocco PIN, così chiudere la vista protetta blocca l’accesso al vault. Senza Blocco PIN, il visualizzatore non limita l’accesso al resto del vault.
 
 Che cosa è un codice di recupero e perché ne ho bisogno?
 
-Quando configuri Blocco app, l'app genera un codice di recupero univoco che è la tua rete di sicurezza se mai dimentichi il tuo PIN. Salvalo in un posto sicuro — il tuo gestore di password, un foglio stampato, ovunque tu confidi.
+Quando configura il Blocco app, l'app genera un codice di recupero univoco, la Sua rete di sicurezza se dovesse dimenticare il PIN. Lo salvi in un posto sicuro: il Suo gestore di password, un foglio stampato, ovunque si senta tranquillo.
 
-Se dimentichi il tuo PIN, inserisci il tuo codice di recupero sulla schermata PIN. Il codice di recupero sblocca l’app e recuperi **l’accesso senza eliminare i documenti.** Il blocco dell’app resta attivo.
+Se dimentica il PIN, inserisca il Suo codice di recupero nella schermata PIN. Il codice di recupero sblocca l’app e Lei recupera **l’accesso senza eliminare i documenti.** Il blocco dell’app resta attivo.
 
-Se né il PIN né la biometria attivata possono sbloccare l’app e non hai un codice di recupero, potresti dover cancellare il vault locale e ripristinare un backup salvato. Salva il codice quando richiesto. Finché conosci il PIN puoi generarne uno nuovo in Impostazioni → Sicurezza.
+Se né il PIN né la biometria attivata possono sbloccare l’app e non ha un codice di recupero, potrebbe dover cancellare il vault locale e ripristinare un backup salvato. Salvi il codice quando richiesto. Finché conosce il PIN può generarne uno nuovo in Impostazioni → Sicurezza.
 
 Che cosa è l'Eliminazione automatica?
 
 Cancellazione automatica è progettata per cancellare il vault di questo telefono dopo ripetuti tentativi di PIN errati. Non considerarla una protezione garantita. È **attiva per impostazione predefinita dopo aver impostato un PIN.** Disattivala in Impostazioni → Sicurezza se preferisci conservare i dati dopo tentativi falliti. Una cancellazione locale completata rimuove il vault di questo telefono; per recuperarlo serve un backup indipendente utilizzabile.
 
-**Importante:** Crea un backup esportato del vault prima di fare affidamento su Cancellazione automatica. In questo modo, se viene attivato accidentalmente, puoi ripristinare dal tuo backup. Conserva un backup indipendente e la relativa password o il codice di recupero prima di fare affidamento su Cancellazione automatica.
+**Importante:** Crei un backup esportato del vault prima di fare affidamento sulla Cancellazione automatica. In questo modo, se si attiva per errore, potrà ripristinare dal Suo backup. Conservi un backup indipendente e la relativa password o il codice di recupero prima di fare affidamento su Cancellazione automatica.
 
 ## Funzionalità
 
@@ -153,7 +153,7 @@ Sì! Gli utenti gratuiti possono condividere documenti singoli. Gli utenti Pro o
 
 E i backup?
 
-L'app archivia tutto sul Suo dispositivo. Se ha iCloud (iOS) o Google Backup (Android) abilitato, i Suoi documenti sono già protetti tramite il backup del dispositivo. Gli utenti Pro possono esportare un **backup crittografato protetto da password** per la conservazione, e tutti gli utenti possono **ripristinare da un backup** in qualsiasi momento tramite Impostazioni → Importa Caveau. Questo sostituisce tutti i dati correnti con il contenuto del backup. Intenzionalmente non sincronizziamo con i nostri server per proteggere la Sua privacy.
+L'app archivia tutto sul Suo dispositivo. Se ha iCloud (iOS) o Google Backup (Android) abilitato, i Suoi documenti sono già protetti tramite il backup del dispositivo. Gli utenti Pro possono esportare un **backup crittografato protetto da password** per la conservazione, e tutti gli utenti possono **ripristinare da un backup** in qualsiasi momento tramite Impostazioni → Importa backup. Questo sostituisce tutti i dati correnti con il contenuto del backup. Intenzionalmente non sincronizziamo con i nostri server per proteggere la Sua privacy.
 
 Posso condividere documenti con i familiari?
 
@@ -170,11 +170,11 @@ Per abilitare il blocco app, vada su **Impostazioni → Blocco App** nell'app:
 - **Blocco PIN (Gratuito):** Imposti un codice PIN a 4 cifre. L'app richiederà questo PIN ogni volta che la apre.
 - **Blocco biometrico:** Abilitare Face ID (iPhone con Face ID), Touch ID (iPhone con impronta digitale) o sblocco con impronta digitale (Android). Gratuito per tutti gli utenti, perché la sicurezza non dovrebbe richiedere un pagamento.
 
-**Best practice:** Abiliti il blocco app e imposti il dispositivo per bloccarsi automaticamente dopo 30 secondi. Questo crea più livelli di protezione: blocco dispositivo, poi blocco app, poi file crittografati.
+**Prassi consigliata:** Abiliti il blocco app e imposti il dispositivo per bloccarsi automaticamente dopo 30 secondi. Questo crea più livelli di protezione: blocco dispositivo, poi blocco app, poi file crittografati.
 
 **Importante, PIN dimenticato:** Se dimentica il PIN, l'unico modo per riottenere l'accesso è eliminare e reinstallare l'app, il che **elimina definitivamente tutti i Suoi dati**. Per proteggersi:
 
-- Esporti un backup crittografato **prima** di abilitare il blocco app (Impostazioni → Esporta Caveau)
+- Esporti un backup crittografato **prima** di abilitare il blocco app (Impostazioni → Esporta vault)
 - Conservi il PIN in un posto sicuro (ad es. il gestore password del dispositivo)
 - Abiliti lo **sblocco biometrico** (gratuito per tutti gli utenti) così da usare Face ID, Touch ID o impronta digitale invece di digitare il PIN
 - Se ha backup del dispositivo (iCloud/Google) abilitati, il ripristino da un backup potrebbe recuperare i Suoi dati dopo la reinstallazione
@@ -187,15 +187,15 @@ L'app crea backup automatici?
 
 - L'app mantiene **10 backup progressivi** sul Suo dispositivo. Quando viene creato un undicesimo backup, quello più vecchio viene eliminato automaticamente.
 - I backup sono **crittografati** usando la stessa protezione dei Suoi documenti.
-- Se l'app si blocca o elimina accidentalmente un documento, può ripristinare dal backup più recente tramite **Impostazioni → Importa Caveau**.
+- Se l'app si blocca o elimina accidentalmente un documento, può ripristinare dal backup più recente tramite **Impostazioni → Importa backup**.
 
-**Vault Export:** Qualsiasi utente può anche creare backup .tdvault crittografati manuali e salvarli in File, iCloud Drive o condividerli tramite AirDrop/email per l'archiviazione fuori dal dispositivo. Questo è consigliato prima di aggiornamenti importanti o cambi di dispositivo. Pro aggiunge il backup cloud automatico su iCloud o Google Drive.
+**Esportazione del caveau:** Qualsiasi utente può anche creare backup .tdvault crittografati manuali e salvarli in File, iCloud Drive o condividerli tramite AirDrop/email per l'archiviazione fuori dal dispositivo. Questo è consigliato prima di aggiornamenti importanti o cambi di dispositivo. Pro aggiunge il backup cloud automatico su iCloud o Google Drive.
 
 Cosa significa 'Ultimo backup: 2 ore fa, 12 documenti' nelle Impostazioni?
 
 Questa riga mostra l’ultimo **backup locale automatico** dell’app, quanto tempo fa è stato salvato e quanti documenti contiene. Mostra l’ultimo snapshot locale. Tocchi **Ripristina backup locale** per ripristinarne i dati salvati. Gli snapshot locali non contengono copie indipendenti dei file allegati.
 
-Come ripristino il mio caveau da un backup locale?
+Come ripristino il mio vault da un backup locale?
 
 Vada in **Impostazioni** e tocchi Ripristina backup locale. L’app mostra un elenco dei backup disponibili con date e orari. Scelga quello desiderato e confermi. Per ripristinare da un file .tdvault esportato, tocchi invece **Importa backup** e selezioni il file. Entrambe le opzioni sono gratuite per tutti. Il ripristino sostituisce i dati attuali con il contenuto del backup.
 
@@ -221,7 +221,7 @@ Gli utenti Pro possono toccare **"Seleziona"** in alto a destra nell'elenco dei 
 
 Posso annullare un'eliminazione in blocco?
 
-**Sì — hai due livelli di protezione.** Dopo aver eliminato i documenti (singoli o in blocco), vedrà una breve finestra di annullamento in fondo allo schermo. Tocchi **"Annulla"** per ripristinarli immediatamente. Se non vede la finestra di annullamento, i documenti eliminati vengono spostati in **Eliminati di recente** in Impostazioni, dove rimangono per 30 giorni prima di essere eliminati definitivamente. Gli utenti Pro con backup cloud abilitato mantengono gli elementi in Eliminati di recente indefinitamente fino a quando non toccano Elimina per sempre.
+**Sì, ha due livelli di protezione.** Dopo aver eliminato i documenti (singoli o in blocco), vedrà una breve finestra di annullamento in fondo allo schermo. Tocchi **"Annulla"** per ripristinarli immediatamente. Se non vede la finestra di annullamento, i documenti eliminati vengono spostati in **Eliminati di recente** in Impostazioni, dove rimangono per 30 giorni prima di essere eliminati definitivamente. Gli utenti Pro con backup cloud abilitato mantengono gli elementi in Eliminati di recente a tempo indeterminato, finché non toccano Elimina definitivamente.
 
 Cos'è il menu contestuale con pressione lunga?
 
@@ -233,19 +233,19 @@ Sì. Può archiviare tessere sanitarie, ricette ripetute, documenti di vaccinazi
 
 Posso posticipare un promemoria?
 
-Sì. Quando un promemoria si attiva, tocca **Posticipa** direttamente dalla notifica. Scegli 1 ora, 3 ore, domani o la prossima settimana. L'app la riprogramma automaticamente. Puoi anche posticipare dall’interno dell’app nella scheda Avvisi. L’app programma il promemoria posticipato per l’orario scelto.
+Sì. Quando arriva un promemoria, tocchi **Posticipa** direttamente dalla notifica. Scelga 1 ora, 3 ore, domani o la settimana prossima. L'app lo riprogramma automaticamente. Può anche posticipare dall’interno dell’app nella scheda Avvisi. L’app programma il promemoria posticipato per l’orario scelto.
 
 Posso codificare a colori i miei documenti?
 
-Ogni scheda di documento è codificata a colori automaticamente. **Verde** significa valido, **ambra** significa che la scadenza si avvicina e **rosso** significa scaduto o imminente. Puoi vedere lo stato dell'intero caveau in un'occhiata senza aprire un singolo documento.
+Ogni scheda di documento è codificata a colori automaticamente. **Verde** significa valido, **ambra** significa che la scadenza si avvicina e **rosso** significa scaduto o imminente. Può vedere lo stato dell'intero vault a colpo d'occhio senza aprire un singolo documento.
 
 Gli **utenti Pro** possono andare oltre: eseguire l'override del colore su una base per tipo di documento dalla scheda impostazioni profilo. Assegna un colore distinto a passaporti, visti o qualsiasi categoria che desideri che risalti. Ciò si combina con i colori di stato, quindi vedi sempre sia la categoria che l'urgenza contemporaneamente.
 
 Posso allegare foto alle mie note?
 
-Sì. Note e Voucher supportano più allegati di immagine. Gli utenti gratuiti possono allegare un'immagine per nota. **Gli utenti Pro possono allegarne fino a 10.** Allega una foto di un'e-mail di conferma, un codice QR, un riferimento di prenotazione o qualsiasi altra cosa che aggiunga contesto. Ogni immagine è crittografata sul dispositivo, esattamente come il resto del tuo caveau.
+Sì. Note e Voucher supportano più allegati di immagine. Gli utenti gratuiti possono allegare un'immagine per nota. **Gli utenti Pro possono allegarne fino a 10.** Alleghi una foto di un'e-mail di conferma, un codice QR, un riferimento di prenotazione o qualsiasi altra cosa che aggiunga contesto. Ogni immagine è crittografata sul dispositivo, esattamente come il resto del Suo vault.
 
-## Piattaforma e Compatibilità
+## Piattaforma e compatibilità
 
 Quando sarà disponibile la versione Android?
 
@@ -255,9 +255,9 @@ La versione Android avrà parità di funzionalità con iOS, inclusa l'archiviazi
 
 Posso trasferire i miei dati da iPhone ad Android (o viceversa)?
 
-**Sì, usando il Vault Export crittografato.** Esporti un backup crittografato dal Suo dispositivo corrente (Impostazioni → Esporta Caveau), trasferiscilo al nuovo dispositivo (tramite email, archiviazione cloud o trasferimento diretto), poi usi Impostazioni → Importa Caveau per ripristinare i Suoi documenti.
+**Sì, con l'esportazione crittografata del caveau.** Esporti un backup crittografato dal Suo dispositivo corrente (Impostazioni → Esporta vault), trasferiscilo al nuovo dispositivo (tramite email, archiviazione cloud o trasferimento diretto), poi usi Impostazioni → Importa backup per ripristinare i Suoi documenti.
 
-Funziona su tutte le piattaforme perché il formato di crittografia è universale. Avrà bisogno della stessa password usata durante l'esportazione del caveau. L'acquisto Pro dovrà anche essere ripristinato sul nuovo dispositivo (vedere "Posso ripristinare il mio acquisto su un nuovo dispositivo?" di seguito).
+Funziona su tutte le piattaforme perché il formato di crittografia è universale. Avrà bisogno della stessa password usata durante l'esportazione. L'acquisto Pro dovrà anche essere ripristinato sul nuovo dispositivo (vedere "Posso ripristinare il mio acquisto su un nuovo dispositivo?" di seguito).
 
 Quanto spazio di archiviazione utilizza l'app?
 
@@ -271,7 +271,7 @@ Perché l'app ha bisogno dell'accesso alla fotocamera e alla libreria foto?
 
 Non **carichiamo mai** le Sue foto da nessuna parte. Tutta l'elaborazione (inclusa la scansione OCR) avviene sul Suo dispositivo. Può negare queste autorizzazioni, ma non sarà in grado di aggiungere documenti (la funzione principale dell'app). Se ha accidentalmente negato le autorizzazioni, può riabilitarle in Impostazioni dispositivo → Privacy → Fotocamera / Foto → Travel Document Vault.
 
-## Prezzi e Acquisti
+## Prezzi e acquisti
 
 Qual è la differenza tra Gratuito e Pro?
 
@@ -307,7 +307,7 @@ Come ottengo un rimborso?
 
 Tutti gli acquisti sono elaborati tramite il rispettivo App Store. Per i rimborsi, dovrà richiederne uno tramite Apple o Google. Controlli l'email della ricevuta di acquisto per le istruzioni su come richiedere un rimborso dal negozio dove ha scaricato l'app.
 
-## Risoluzione dei Problemi
+## Risoluzione dei problemi
 
 Non ricevo le notifiche dei promemoria
 
@@ -333,7 +333,7 @@ Il Suo codice di recupero è una passphrase di 24 caratteri che crittografa il S
 
 Come è crittografato il mio backup cloud?
 
-Il Suo caveau è crittografato end-to-end utilizzando AES-256-GCM sul Suo dispositivo prima che lasci il Suo telefono. Una chiave derivata dal Suo codice di recupero protegge la chiave di crittografia del vault, generata casualmente. Apple e Google possono vedere il file crittografato sui loro server, ma non possono decrittarlo. Neanche noi possiamo. Il codice di recupero sblocca la chiave di crittografia cloud; i dispositivi configurati conservano l’accesso per il backup automatico.
+Il Suo vault è crittografato end-to-end utilizzando AES-256-GCM sul Suo dispositivo prima che lasci il Suo telefono. Una chiave derivata dal Suo codice di recupero protegge la chiave di crittografia del vault, generata casualmente. Apple e Google possono vedere il file crittografato sui loro server, ma non possono decrittarlo. Neanche noi possiamo. Il codice di recupero sblocca la chiave di crittografia cloud; i dispositivi configurati conservano l’accesso per il backup automatico.
 
 [Leggi la guida completa →](https://traveldocumentvault.com/it/faq/backup-explained/)
 
@@ -343,7 +343,7 @@ Il Suo PIN è il blocco quotidiano. Face ID è un collegamento rapido per sblocc
 
 [Leggi la guida completa →](https://traveldocumentvault.com/it/faq/recovery-code/)
 
-Come esporto e importo il mio caveau?
+Come esporto e importo il mio vault?
 
 Può esportare i dati supportati del vault e gli allegati disponibili come file di backup crittografato e protetto da password (.tdvault) da Impostazioni, entro i limiti di dimensioni, poi importarlo in un’installazione compatibile dell’app. Esportazione e importazione trasferiscono i dati supportati del vault e gli allegati disponibili; le impostazioni di sicurezza del dispositivo, le preferenze e alcuni dati interni non vengono copiati esattamente. Per i passaggi dettagliati, consulti la guida a esportazione e importazione. L’esportazione PDF combinata di più documenti è una funzione Pro separata.
 
@@ -351,7 +351,7 @@ Può esportare i dati supportati del vault e gli allegati disponibili come file 
 
 Giorni all'interno o giorni al di fuori di un paese: quale devo scegliere?
 
-Poniti una domanda: sei un ospite in questo paese, o è casa tua? Gli ospiti contano i giorni in cui sono lì, quindi scegli **Giorni all'interno del paese** — è quella per un limite da visitatore come 90 giorni. I residenti contano i giorni in cui sono via, quindi scegli **Giorni al di fuori del paese** — è quella per un permesso di soggiorno che consente un certo tempo all'estero. Alla maggior parte delle persone ne serve solo una delle due, e se hai dubbi, Giorni all'interno del paese è la scelta più comune.
+Si chieda: in questo paese è un ospite o è a casa? Gli ospiti contano i giorni in cui sono lì, quindi scelga **Giorni all'interno del paese** — è quella per un limite da visitatore come 90 giorni. I residenti contano i giorni in cui sono via, quindi scelga **Giorni al di fuori del paese** — è quella per un permesso di soggiorno che consente un certo tempo all'estero. Alla maggior parte delle persone ne serve solo una delle due, e se ha dubbi, Giorni all'interno del paese è la scelta più comune.
 
 Cosa sono i profili familiari?
 
@@ -359,9 +359,43 @@ Con Pro, i profili aiutano a organizzare documenti, foto e promemoria di ogni fa
 
 Che cosa succede quando elimino qualcosa?
 
-Senza backup cloud, gli elementi eliminati vanno nel cestino per 30 giorni e vengono poi rimossi definitivamente dal dispositivo. Li può ripristinare in qualsiasi momento durante quel periodo. Con il backup cloud attivo restano in Eliminato di Recente a tempo indeterminato, finché non tocca Elimina Per Sempre. Per i dettagli, consulti la sezione Backup cloud qui sotto. Svuotare il cestino o ripristinare il telefono alle impostazioni di fabbrica rimuove i dati locali; per recuperarli serve un backup indipendente utilizzabile.
+Senza backup cloud, gli elementi eliminati vanno nel cestino per 30 giorni e vengono poi rimossi definitivamente dal dispositivo. Li può ripristinare in qualsiasi momento durante quel periodo. Con il backup cloud attivo restano in Eliminati di recente a tempo indeterminato, finché non tocca Elimina definitivamente. Per i dettagli, consulti la sezione Backup cloud qui sotto. Svuotare il cestino o ripristinare il telefono alle impostazioni di fabbrica rimuove i dati locali; per recuperarli serve un backup indipendente utilizzabile.
 
-## Legale e Limitazioni
+## Backup cloud
+
+Cosa succede se elimino un documento con il backup cloud attivo?
+
+L'eliminazione lo sposta in Eliminati di recente (cestino). Resta lì a tempo indeterminato: con il backup cloud attivo non viene rimosso nulla automaticamente. Il documento nel cestino è ancora incluso nel backup cloud. Per rimuoverlo del tutto, apra Eliminati di recente e tocchi Elimina definitivamente su ogni elemento. Vedrà un avviso che così viene tolto anche dal backup cloud.
+
+Cosa succede se elimino tutti i miei documenti?
+
+L’app blocca alcuni caricamenti di vault vuoti per proteggere i backup esistenti; i dati dei documenti eliminati e altri dati del vault possono comunque sincronizzarsi. Il recupero dipende da un backup conservato e utilizzabile. Può ripristinarlo da Impostazioni, Backup su Cloud, Ripristina da Backup.
+
+Come configuro il backup cloud su un secondo dispositivo?
+
+Quando attiva il backup cloud su un nuovo dispositivo collegato allo stesso account iCloud o Google, l'app rileva il backup esistente e chiede se ripristinarlo o ricominciare da zero. Scelga il backup, tocchi Ripristina e inserisca il codice di recupero. Da quel momento i due dispositivi condividono lo stesso backup. Avviare un nuovo backup lascia invece intatto quello esistente.
+
+Posso usare il backup cloud su più dispositivi contemporaneamente?
+
+Sì, con Sincronizza tra dispositivi attivato in Impostazioni, Backup su Cloud. I dispositivi sulla stessa piattaforma verificano le modifiche mentre l’app è aperta e connessa. Alcune modifiche si uniscono automaticamente; alcuni conflitti permettono di scegliere una versione, anche se il testo delle note non appare nel confronto. Per passare a un nuovo dispositivo, ripristina lì il backup.
+
+Cosa succede se attivo il backup cloud mentre sono offline?
+
+Per attivare il backup cloud serve una connessione a internet. Durante la configurazione l'app verifica se nel Suo account esistono già backup, e questo richiede connessione. Una volta attivato, l'app funziona completamente offline e sincronizza quando torna online.
+
+Il mio backup è protetto se elimino qualcosa per sbaglio?
+
+Sì, La proteggono più livelli. I documenti eliminati restano in Eliminati di recente a tempo indeterminato (nessuna rimozione automatica con il backup cloud attivo). L'eliminazione definitiva richiede una conferma separata che avvisa dell'effetto sul cloud. Le versioni precedenti del backup possono conservare il documento finché la scadenza della cronologia o la pulizia dei backup non lo rimuove. Le protezioni contro i caricamenti vuoti e le versioni conservate possono aiutare dopo un’eliminazione accidentale; conservi anche un’esportazione indipendente.
+
+Dovrei tenere anche copie di sicurezza mie?
+
+Sì. Il backup cloud è un livello di sicurezza, ma nessun sistema è perfetto. Gli account cloud si possono perdere, i codici di recupero si possono dimenticare e possono capitare problemi imprevisti di sincronizzazione o di spazio. Consigliamo vivamente di tenere una copia indipendente dei documenti essenziali, per esempio una copia stampata in un luogo sicuro o un'esportazione cifrata del caveau salvata su un supporto separato. Consideri il backup cloud una comodità, non la Sua unica difesa. Sta a Lei verificare che i Suoi documenti restino recuperabili.
+
+Cosa succede se perdo il codice di recupero?
+
+Il codice di recupero sblocca la chiave di crittografia del backup cloud; i dispositivi configurati la conservano per il backup automatico. Il nostro design è a conoscenza zero: non possiamo reimpostarlo, recuperarlo né ottenerlo per Lei. Nemmeno Apple o Google. Se perde il codice di recupero e l’accesso a tutti i dispositivi configurati che lo conservano, il backup crittografato diventa irrecuperabile. Metta al sicuro il codice prima di affidarsi al backup cloud: un gestore di password, una copia stampata in un luogo sicuro, o entrambi. Verifichi di riuscire a rileggerlo prima di conservarlo come unica copia.
+
+## Note legali e limitazioni
 
 Questa app sostituisce i documenti ufficiali?
 
@@ -371,40 +405,6 @@ E se manco una scadenza a causa di un mancato promemoria?
 
 I promemoria sono una funzionalità di convenienza e non dovrebbero essere l'unico sistema di promemoria. Non siamo responsabili per scadenze mancate, documenti scaduti o eventuali conseguenze derivanti da mancati promemoria. Si prega di consultare i nostri [Termini di servizio](https://traveldocumentvault.com/terms/) per i dettagli completi.
 
-## Backup cloud
-
-Cosa succede se elimino un documento con il backup cloud attivo?
-
-L'eliminazione lo sposta in Eliminati di recente (cestino). Resta lì a tempo indeterminato: con il backup cloud attivo non viene rimosso nulla automaticamente. Il documento nel cestino è ancora incluso nel backup cloud. Per rimuoverlo del tutto, apri Eliminati di recente e tocca Elimina definitivamente su ogni elemento. Vedrai un avviso che così viene tolto anche dal backup cloud.
-
-Cosa succede se elimino tutti i miei documenti?
-
-L’app blocca alcuni caricamenti di vault vuoti per proteggere i backup esistenti; i dati dei documenti eliminati e altri dati del vault possono comunque sincronizzarsi. Il recupero dipende da un backup conservato e utilizzabile. Puoi ripristinarlo da Impostazioni, Backup su Cloud, Ripristina da Backup.
-
-Come configuro il backup cloud su un secondo dispositivo?
-
-Quando attivi il backup cloud su un nuovo dispositivo collegato allo stesso account iCloud o Google, l'app rileva il backup esistente e chiede se ripristinarlo o ricominciare da zero. Scegli il backup, tocca Ripristina e inserisci il codice di recupero. Da quel momento i due dispositivi condividono lo stesso backup. Avviare un nuovo backup lascia invece intatto quello esistente.
-
-Posso usare il backup cloud su più dispositivi contemporaneamente?
-
-Sì, con Sincronizza tra dispositivi attivato in Impostazioni, Backup su Cloud. I dispositivi sulla stessa piattaforma verificano le modifiche mentre l’app è aperta e connessa. Alcune modifiche si uniscono automaticamente; alcuni conflitti permettono di scegliere una versione, anche se il testo delle note non appare nel confronto. Per passare a un nuovo dispositivo, ripristina lì il backup.
-
-Cosa succede se attivo il backup cloud mentre sono offline?
-
-Per attivare il backup cloud serve una connessione a internet. Durante la configurazione l'app verifica se nel tuo account esistono già backup, e questo richiede connessione. Una volta attivato, l'app funziona completamente offline e sincronizza quando torni online.
-
-Il mio backup è protetto se elimino qualcosa per sbaglio?
-
-Sì, ti proteggono più livelli. I documenti eliminati restano in Eliminati di recente a tempo indeterminato (nessuna rimozione automatica con il backup cloud attivo). L'eliminazione definitiva richiede una conferma separata che avvisa dell'effetto sul cloud. Le versioni precedenti del backup possono conservare il documento finché la scadenza della cronologia o la pulizia dei backup non lo rimuove. Le protezioni contro i caricamenti vuoti e le versioni conservate possono aiutare dopo un’eliminazione accidentale; conserva anche un’esportazione indipendente.
-
-Dovrei tenere anche copie di sicurezza mie?
-
-Sì. Il backup cloud è un livello di sicurezza, ma nessun sistema è perfetto. Gli account cloud si possono perdere, i codici di recupero si possono dimenticare e possono capitare problemi imprevisti di sincronizzazione o di spazio. Consigliamo vivamente di tenere una copia indipendente dei documenti essenziali, per esempio una copia stampata in un luogo sicuro o un export cifrato della cassaforte salvato su un supporto separato. Considera il backup cloud una comodità, non la tua unica difesa. Sta a te verificare che i tuoi documenti restino recuperabili.
-
-Cosa succede se perdo il codice di recupero?
-
-Il codice di recupero sblocca la chiave di crittografia del backup cloud; i dispositivi configurati la conservano per il backup automatico. Il nostro design è a conoscenza zero: non possiamo reimpostarlo, recuperarlo né ottenerlo per te. Nemmeno Apple o Google. Se perdi il codice di recupero e l’accesso a tutti i dispositivi configurati che lo conservano, il backup crittografato diventa irrecuperabile. Metti al sicuro il codice prima di affidarti al backup cloud: un gestore di password, una copia stampata in un luogo sicuro, o entrambi. Verifica di riuscire a rileggerlo prima di conservarlo come unica copia.
-
 [Per un confronto completo, scopra perché le famiglie scelgono Travel Document Vault →](https://traveldocumentvault.com/it/why-us/)
 
 ## Ha ancora domande?
@@ -412,3 +412,11 @@ Il codice di recupero sblocca la chiave di crittografia del backup cloud; i disp
 Siamo qui per aiutarla. Ci contatti e risponderemo il prima possibile.
 
 [Contatta il Supporto](mailto:support@traveldocumentvault.com)
+
+## Scarica gratis. Nessun abbonamento.
+
+Configuralo stasera. Lascia che l'app ricordi al posto Suo.
+
+![Scarica su App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Disponibile su Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

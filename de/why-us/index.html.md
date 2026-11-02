@@ -6,68 +6,86 @@ Source: https://traveldocumentvault.com/de/why-us/
 
 ---
 
-Datenschutz im Fokus. Standardmäßig auf dem Gerät. Keine Konten erforderlich.
+Datenschutz im Fokus. Standardmäßig auf dem Gerät. Kein Konto erforderlich.
 
-# Immer griffbereit.
-Wenn Sie sie brauchen.
+# Immer griffbereit,
+wenn Sie sie brauchen
 
-Alle wichtigen Dokumente Ihrer Familie an einem Ort. Verschlüsselt auf Ihrem Gerät. Sofort verfügbar am Flughafen, bei Visaanträgen oder Formularen – ohne Sucherei, ohne Stress.
+Einreiseschalter. Visaanträge. Versicherungsformulare. **Jede Suche in Ihren Fotos kostet wertvolle Minuten, die Sie nicht haben.**
 
-**Aufgebaut für Familien, die verreisen.**
+**Was wäre, wenn sie immer griffbereit wären?**
 
 Kostenlos herunterladen. Kein Konto. Kein Abo.
 
 ![Im App Store laden](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 
-![Bei Google Play erhältlich](https://traveldocumentvault.com/assets/images/google-play-badge.svg) Einmalkauf. Alle v1.x-Updates für immer enthalten.
+![Bei Google Play erhältlich](https://traveldocumentvault.com/assets/images/google-play-badge.svg) Einmal bezahlen. Alle v1.x-Updates für immer inklusive.
 
-Entwickelt von jemandem, der dies für seine eigene Familie brauchte. Keine VCs, keine Aktionäre, keine Werbenetzwerke. Ich antworte nur einer Person: Ihnen.
+Entwickelt von jemandem, der das für seine eigene Familie brauchte. Keine Investoren, keine Aktionäre, keine Werbenetzwerke. Ich bin nur einer Person verpflichtet: Ihnen.
 
 MH
 
 Mustafa Hafeez
 
-Entwickelte Travel Document Vault für meine Familie
+Hat Travel Document Vault für seine Familie entwickelt
 
-> "Jede Familienreise verwandelte sich in eine Schnitzeljagd durch Fotos, E-Mail und Drive. Ich habe das gebaut, damit die nächste Reise nicht so wäre."
+> „Jede Familienreise wurde zur Schnitzeljagd durch Fotos, E-Mails und Drive. Ich habe die App gebaut, damit es bei der nächsten Reise anders läuft.“
 
-Keine VC-Finanzierung, keine Aktionäre, keine Werbenetzwerke – nur ein Elternteil, das es leid war, jede Reise die gleiche Panik zu haben.
+Kein Risikokapital, keine Aktionäre, keine Werbenetzwerke – nur ein Vater, der vor jeder Reise dieselbe Panik satthatte.
 
-[Die vollständige Geschichte lesen →](https://traveldocumentvault.com/de/blog/why-i-built-travel-document-vault/)
+[Die ganze Geschichte lesen →](https://traveldocumentvault.com/de/blog/why-i-built-travel-document-vault/)
 
 ## Kommt Ihnen das bekannt vor?
 
-Sie sind nicht der Einzige, der das erlebt hat.
+Damit sind Sie nicht allein.
 
-Am Gate
+Am Schalter
 
-Einwanderungsschalter. Der Beamte fragt nach Ihrem Visum.
+Ganz vorn in der Schlange an der Passkontrolle. Der Beamte will Ihr Visum sehen, und das steckt irgendwo in einer E-Mail von März.
 
-Was wäre, wenn Sie eine App öffnen und es sofort griffbereit hätten – kein Suchen, kein App-Wechsel, einfach sofortiger Zugriff?
+Sie öffnen die App, und es ist sofort da – sogar im Flugmodus. Sie sind durch, bevor die Schlange hinter Ihnen etwas merkt.
 
-Wenn das auf Sie zutrifft: Geschäftsreisende, digitale Nomaden oder Vielflieger.
+Das sind Sie, wenn Sie geschäftlich reisen, als digitaler Nomade unterwegs sind oder häufig fliegen.
 
 Die Gültigkeitsfalle
 
-Ihr Pass läuft nächstes Jahr ab. Noch genug Zeit, oder?
+Ihr Reisepass hat noch acht Monate Gültigkeit, und die Reise ist in einem Monat. Das reicht doch locker, oder?
 
-Falsch. Für Schengen-Reisen müssen Pässe innerhalb der letzten 10 Jahre ausgestellt worden sein, und viele Länder erzwingen die 6-Monats-Gültigkeitsregel. Airlines nutzen offizielle Datenbanken wie IATA Timatic am Gate zur Durchsetzung dieser Regeln. Ein einfaches Ablaufdatum-Check reicht nicht aus.
+Nicht immer. Viele Länder erwarten bei der Einreise noch sechs Monate Restgültigkeit, und Fluggesellschaften prüfen das meist schon vor dem Boarding. Die App warnt rechtzeitig, sodass Sie in Ruhe verlängern können, statt für eine Eilbearbeitung zu zahlen.
 
-Wenn das auf Sie zutrifft: Vielreisende, steuerbewusst oder Wohnsitz in mehreren Ländern.
+Das sind Sie, wenn im nächsten Jahr irgendeine Reise für Sie anfällt.
 
-Verlängerungschaos
+Chaos bei der Verlängerung
 
-Eine Verlängerungsbenachrichtigung kommt. Sie haben keine Ahnung, wann Sie zuletzt verlängert haben, welche Dokumente Sie brauchen oder ob die Pässe der Kinder gleichzeitig ablaufen.
+Sie buchen den Sommerurlaub, als Ihnen auffällt: Wann laufen eigentlich die Pässe der Kinder ab?
 
-Wenn das auf Sie zutrifft: Eltern, Erziehungsberechtigte oder Familienreise-Organisator.
+Alle Ablaufdaten stehen nebeneinander, mit einer Erinnerung vor jedem Termin. Sie erfahren es im März, nicht am Check-in-Schalter im August.
 
-Alles zusammen
+Das sind Sie, wenn Sie Eltern oder Erziehungsberechtigte sind oder die Familienreisen organisieren.
 
-Reisepass. Visum. Führerschein. Versicherung. Reisebuchungen. Dokumente der Kinder.
+Alles beisammen
 
-Alles an einem Ort griffbereit, parat, wenn Sie es brauchen.
+Reisepass. Visum. Führerschein. Versicherung. Dokumente der Kinder. Verteilt auf eine Schublade, die Kamerarolle und drei Postfächer.
 
-Wenn das auf Sie zutrifft: Organisierte Person, die einfach eine vertrauenswürdige App braucht.
+Ein einziger gesperrter Ort auf Ihrem Telefon, nach Person sortiert und in Sekunden bereit. Nichts verlässt Ihr Gerät.
+
+Das sind Sie, wenn Sie gern organisiert sind und einfach eine App wollen, der Sie vertrauen können.
+
+Erste Reise ins Ausland
+
+Reisepass und Tickets sind geregelt. Dann kommen die Zweifel: Was sollten Sie noch prüfen?
+
+Fügen Sie Ihre Dokumente einmal hinzu und sehen Sie, was wann abläuft – weit vor dem Abflug. Am Flughafen haben Sie eine Sorge weniger.
+
+Das sind Sie, wenn es Ihr erster internationaler Flug ist oder Sie zum Studium ins Ausland gehen.
+
+Im Ausland verloren
+
+Dritter Urlaubstag, und die Tasche mit dem Reisepass ist weg.
+
+Das gescannte Foto der Passseite liegt noch auf Ihrem Telefon, gesichert mit Face ID, Fingerabdruck oder PIN. Eine Kopie macht den Besuch beim Konsulat meist schneller.
+
+Das sind Sie, wenn Sie als Familie im Urlaub sind, allein reisen oder schon einmal ein Gepäckstück verloren haben.
 
 ## Wo Ihre Dokumente heute wahrscheinlich liegen
 
@@ -101,7 +119,7 @@ Nach wie vor sinnvoll. Ein Ausdruck jeder Fotoseite, getrennt von den Pässen ei
 
 Travel Document Vault speichert Ihre Dokumente und behält Ablaufdaten im Blick. Pro bietet zusätzlich unbegrenzt viele Familienprofile und Reiseplanung.
 
-### Ablauf-Erinnerungen
+### Ablauferinnerungen
 
 8 Monate
 
@@ -164,65 +182,65 @@ Legen Sie für jedes Dokument fest, wie früh die Erinnerungen beginnen.
 
 #### Verschlüsseltes Cloud-Backup
 
-Eine verschlüsselte Kopie in Ihrer eigenen iCloud (iOS) oder Google Drive (Android), wiederhergestellt mit Ihrem Wiederherstellungscode.
+Eine verschlüsselte Kopie in Ihrer eigenen iCloud (iOS) oder Ihrem Google Drive (Android), wiederhergestellt mit Ihrem Wiederherstellungscode.
 
 ## Eine App. Alles organisiert.
 
-Gebaut von einem Elternteil, der Entlastung brauchte – keine weitere Liste zum Verwalten.
+Entwickelt von einem Vater, der es leid war, vor jeder Reise Fotos, E-Mails und Drive zu durchwühlen. Jetzt müssen Sie das nicht mehr.
 
 ### Ihr Gerät. Ihre Dokumente. Sonst niemand.
 
-Ich habe mich entschieden, Dokumente standardmäßig auf Ihrem Gerät zu speichern. Optionale Pro-Backups nutzen Ihr eigenes Cloud-Konto.
+Ich habe mich entschieden, Dokumente standardmäßig auf Ihrem Gerät zu speichern. Das optionale Pro-Backup nutzt Ihr eigenes Cloud-Konto.
 
-Aber würde ich den Fotos der Reisepässe meiner Kinder einem fremden Server anvertrauen? **Niemals.**
+Aber würde ich Fotos der Reisepässe meiner Kinder dem Server eines Fremden anvertrauen? **Niemals.**
 
-Alles bleibt auf Ihrem Gerät. Punkt.
+Standardmäßig auf Ihrem Gerät verschlüsselt.
 
-Cloud-Synchronisierung ist standardmäßig deaktiviert. Wenn Sie sie aktivieren (Pro), wird Ihr Tresor auf Ihrem Gerät verschlüsselt, bevor etwas hochgeladen wird, und geht zu Ihrem eigenen iCloud oder Google Drive, versiegelt mit einem Wiederherstellungscode, den nur Sie haben. Niemand – auch nicht wir, Apple oder Google – kann es lesen. Das Versprechen wird durch Code durchgesetzt, nicht durch Richtlinien.
+Die Cloud-Synchronisierung ist standardmäßig ausgeschaltet. Wenn Sie sie aktivieren (Pro), wird Ihr Tresor auf Ihrem Gerät verschlüsselt, bevor irgendetwas hochgeladen wird, und landet in Ihrer eigenen iCloud oder Ihrem Google Drive – gesichert mit einem Wiederherstellungscode, den nur Sie besitzen. Niemand kann ihn lesen, auch nicht wir, Apple oder Google. Dieses Versprechen sichert der Code, nicht eine Richtlinie.
 
-AES-256-GCM-Verschlüsselung im Ruhezustand. Verschlüsselte Backups verwenden PBKDF2-Schlüsselableitung. [Vollständige Datenschutzerklärung](https://traveldocumentvault.com/privacy-policy/)
+AES-256-GCM-Verschlüsselung im Ruhezustand. Verschlüsselte Backups nutzen PBKDF2 zur Schlüsselableitung. [Architektur überprüfen](https://traveldocumentvault.com/de/privacy-verification/) oder [vollständige Datenschutzerklärung lesen](https://traveldocumentvault.com/privacy-policy/)
 
 ### Ablauferinnerungen, Monate im Voraus
 
-Passverlängerungen dauern 6 bis 8 Wochen. **Erinnerungen beginnen 8 Monate früher** und staffeln sich automatisch.
+Eine Passverlängerung dauert 6 bis 8 Wochen. **Die Erinnerungen beginnen 8 Monate vorher** und folgen automatisch in kürzeren Abständen.
 
-Erinnerungen kommen bei 6 Monaten, 3 Monaten, 6 Wochen und am Ablauftag – damit Sie Verlängerungsfristen stets im Blick behalten.
+Erinnerungen kommen 6 Monate, 3 Monate und 6 Wochen vorher sowie am Ablauftag – so behalten Sie Verlängerungsfristen im Blick.
 
 Funktioniert für Reisepässe, Visa, Führerscheine, Versicherungen – alles mit Ablaufdatum.
 
-### Familien-Passorganisator, einen Tipp entfernt
+### Familien-Passorganisator, nur ein Tippen entfernt
 
-Sie sind derjenige, der sich merkt, welcher Pass des Kindes zuerst abläuft, ob die Versicherung alle abdeckt, und wann die Visa verlängert werden müssen.
+Sie sind diejenige oder derjenige, die sich merkt, welcher Kinderpass zuerst abläuft, ob die Versicherung alle abdeckt und wann die Visa verlängert werden müssen.
 
-**Mit Pro ein Profil pro Familienmitglied.** Ein Tipp, um alles zu sehen. Gebaut für die Person, die alles im Griff behält.
+**Mit Pro ein Profil pro Familienmitglied.** Ein Tippen, und Sie sehen alles. Gemacht für die Person, die an alles denkt.
 
 ### Funktioniert offline. Überall.
 
-Instabiles Flughafen-WLAN? Ausländische Botschaft ohne Signal? Flugzeugmodus?
+Lückenhaftes WLAN am Flughafen? Kein Empfang in der Botschaft? Flugmodus?
 
-Lokal gespeicherte Dokumente sind offline verfügbar. Die lokale Dokumentanzeige und Erinnerungen funktionieren offline; Käufe, Update-Prüfungen und Cloud-Funktionen benötigen Internet.
+Lokal gespeicherte Dokumente sind offline verfügbar. Die Anzeige lokaler Dokumente und Erinnerungen funktionieren offline; Käufe, Update-Prüfungen und Cloud-Funktionen brauchen eine Internetverbindung.
 
-### Einmalkauf. Kein Abo.
+### Einmal zahlen. Kein Abo.
 
-**Kostenlos starten.** Bis zu 5 Dokumente mit vollen Erinnerungen und Verschlüsselung speichern. Pro hebt die Begrenzung der Dokumentanzahl auf. Der verfügbare Speicherplatz hängt weiterhin von Ihrem Gerät ab.
+**Kostenlos starten.** Speichern Sie bis zu 5 Dokumente mit allen Erinnerungen und voller Verschlüsselung. Pro hebt die Begrenzung der Dokumentanzahl auf. Der verfügbare Speicherplatz hängt weiterhin von Ihrem Gerät ab.
 
-Pro ist ein **Einmalkauf** für $9.99. Unbegrenzt viele Profile und Dokumente, keine wiederkehrenden Kosten, und kein Verlängerungsdatum zum Merken.
+Pro ist ein **Einmalkauf ohne Abo**. Unbegrenzt viele Profile und Dokumente, keine wiederkehrenden Kosten und kein Verlängerungsdatum, an das Sie denken müssen.
 
-Preis in US-Dollar. Wir legen den Preis für jedes Land lokal fest, statt ihn vom Dollar umzurechnen, und der App Store oder Google Play zeigt Ihnen Ihren Preis vor dem Kauf an.
+Wir legen den Preis für jedes Land einzeln fest, und der App Store oder Google Play zeigt Ihnen Ihren Preis an, bevor Sie bezahlen.
 
 [Über unsere Versionsrichtlinie →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
-### Mehrseitige Unterstützung
+### Mehrseitige Dokumente
 
-Mit Pro können Sie bis zu 10 Seiten für Flugtickets, Gutscheine und andere Dokumente aufnehmen, einschließlich Reiseversicherungspolicen.
+Mit Pro nehmen Sie bis zu 10 Seiten für Flugtickets, Gutscheine und andere Dokumente auf, auch für Reiseversicherungspolicen.
 
 ### Professioneller PDF-Export
 
-Mit Pro mehrere Dokumente zu einer einzelnen PDF-Datei zusammenfassen – zum Teilen mit Botschaften, Airlines oder für den physischen Ausdruck.
+Fassen Sie mit Pro mehrere Dokumente zu einer einzigen PDF-Datei zusammen – zum Weitergeben an Botschaften oder Fluggesellschaften oder zum Ausdrucken.
 
-Ich habe das gebaut, weil meine eigene Familie es brauchte.
+Ich habe die App gebaut, weil meine eigene Familie sie brauchte.
 
-## Neu in v1.2 – Für Familien gebaut
+## Für Familien gemacht
 
 Moderne Funktionen für modernes Reisen.
 
@@ -230,35 +248,35 @@ Moderne Funktionen für modernes Reisen.
 
 Pro
 
-Ampel der Familienbereitschaft. Prüfen Sie verknüpfte Dokumente anhand gespeicherter Reisedaten (Pro).
+Eine Ampel zeigt die Reisebereitschaft der Familie. Verknüpfte Dokumente werden mit gespeicherten Reisedaten abgeglichen (Pro).
 
 ### Ihre Cloud. Ihr Schlüssel.
 
 Pro
 
-Ende-zu-Ende-verschlüsselte Sicherung in Ihrer iCloud oder Google Drive.
+Ende-zu-Ende-verschlüsseltes Backup in Ihrer iCloud oder Ihrem Google Drive.
 
-### Tage im Ausland verfolgen
-
-Pro
-
-Erfassen Sie verbrachte Tage in jedem Land. Legen Sie benutzerdefinierte Tageslimitzielen fest und bleiben Sie über die Visumsgültigkeitsregeln auf dem Laufenden.
-
-### Zollfrei ohne Mathematik
+### Tage im Ausland erfassen
 
 Pro
 
-Kontingente pro Mitglied pro Reise verfolgen.
+Erfassen Sie die Tage in jedem Land. Legen Sie eigene Tageslimits fest und behalten Sie die Aufenthaltsregeln für Visa im Blick.
 
-### 30-Tage-Rückgängig
+### Eigene Tageslimits pro Land
 
-Versehentlich gelöscht. Innerhalb von 30 Tagen wiederherstellen.
+Pro
+
+Tageslimits pro Land und pro Person festlegen.
+
+### 30 Tage Rückgängig
+
+Versehentlich gelöscht? Innerhalb von 30 Tagen wiederherstellen.
 
 ### Jedes Familienmitglied
 
 Pro
 
-Separate Profile. Dokumente jeder Person ist separat organisiert.
+Getrennte Profile. Die Dokumente jeder Person sind für sich geordnet.
 
 Kostenlos starten. Jederzeit upgraden.
 
@@ -266,43 +284,37 @@ Kostenlos starten. Jederzeit upgraden.
 
 ![Bei Google Play erhältlich](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
 
-Wer ist bereit vor der Abreise
+Ihre Dokumente, immer griffbereit
 
-Dokumentenstatus aller Personen sofort prüfen
+Keine Überraschungen am Flughafen
 
-![App home screen showing all travel documents ready at a glance](https://traveldocumentvault.com/assets/images/screenshots-appstore/01.webp)
+![Startbildschirm der App mit allen Reisedokumenten auf einen Blick](https://traveldocumentvault.com/assets/images/why-us-phones/01.webp)
 
 Bereit für Ihre Reise
 
-Verknüpfte Dokumente anhand gespeicherter Reisedaten geprüft (Pro)
+Verknüpfte Dokumente mit gespeicherten Reisedaten abgeglichen (Pro)
 
-![Trip readiness view confirming all documents are valid and up to date](https://traveldocumentvault.com/assets/images/screenshots-appstore/02.webp)
+![Ansicht zur Reisebereitschaft mit dem Abgleich verknüpfter Dokumente und gespeicherter Reisedaten](https://traveldocumentvault.com/assets/images/why-us-phones/06.webp)
 
-Das Reiseprofil jeder Person
+Familienprofile synchronisiert (Pro)
 
-Dokumente, Reisen, Erinnerungen zusammen
+Alle Dokumente, alle Personen, eine App
 
-![Family profiles showing documents for every member in one place](https://traveldocumentvault.com/assets/images/screenshots-appstore/03.webp)
+![Familienprofile mit den Dokumenten aller Mitglieder an einem Ort](https://traveldocumentvault.com/assets/images/why-us-phones/03.webp)
 
 Verbleibende Tage in jedem Land
 
-Auslandsaufenthalt jeder Person mit Pro verfolgen
+Den Auslandsaufenthalt jeder Person mit Pro erfassen
 
-![Visa tracker showing days remaining in each country for each traveller](https://traveldocumentvault.com/assets/images/screenshots-appstore/04.webp)
+![Visa-Tracker mit den verbleibenden Tagen in jedem Land für jede reisende Person](https://traveldocumentvault.com/assets/images/why-us-phones/02.webp)
 
-Immer einen Schritt voraus
+Fristen immer im Blick
 
 Erinnerungen, bevor Sie sie brauchen
 
-![Expiry reminders showing upcoming renewal dates months in advance](https://traveldocumentvault.com/assets/images/screenshots-appstore/05.webp)
+![Ablauferinnerungen mit anstehenden Verlängerungsterminen Monate im Voraus](https://traveldocumentvault.com/assets/images/why-us-phones/04.webp)
 
-Ihr Tresor, Ihre Kontrolle
-
-Verschlüsselte Sicherung, nur Sie können wiederherstellen
-
-![PIN-Sperrbildschirm für vertrauenswürdige Privatsphäre](https://traveldocumentvault.com/assets/images/screenshots-appstore/06.webp)
-
-## Drei Schritte. Das war's.
+## Drei Schritte. Das war’s.
 
 Scannen. Einstellen. Vergessen.
 
@@ -310,50 +322,50 @@ Scannen. Einstellen. Vergessen.
 
 ### Scannen oder importieren
 
-Kamera öffnen, die geführte Überlagerung verwenden und Ihr Dokument aufnehmen. Oder ein vorhandenes aus Ihrer Fotobibliothek importieren.
+Öffnen Sie die Kamera, nutzen Sie die Hilfslinien und nehmen Sie Ihr Dokument auf. Oder importieren Sie ein vorhandenes aus Ihrer Fotomediathek.
 
-Die App liest das Ablaufdatum aus, wenn es möglich ist – Sie bestätigen es oder geben es ein.
+Die App liest das Ablaufdatum aus, wenn es möglich ist – Sie bestätigen es oder tippen es ein.
 
 2
 
-### Ablaufdatum einstellen und vergessen
+### Ablaufdatum festlegen und vergessen
 
 Die App plant automatisch gestaffelte Erinnerungen.
 
-Für Reisepässe beginnen die Erinnerungen acht Monate vorher. Für Ausweise, Visa, Versicherungen und andere Dokumente beginnen sie drei Monate vorher, mit Erinnerungen bis zum Ablauftag und danach.
+Bei Reisepässen beginnen sie acht Monate vorher. Bei Ausweisen, Visa, Versicherungen und anderen Dokumenten beginnen sie drei Monate vorher, mit Erinnerungen bis zum Ablauftag und danach.
 
 3
 
 ### Immer bereit, wenn Sie es brauchen
 
-Bei der Einwanderung, beim Ausfüllen von Formularen, beim Beantragen von Visa. Ihre Dokumente sind organisiert, durchsuchbar und immer auf Ihrem Telefon.
+An der Passkontrolle, beim Ausfüllen von Formularen, beim Visumantrag. Ihre Dokumente sind geordnet, durchsuchbar und immer auf Ihrem Telefon.
 
-## Für Reisende gebaut
+## Für Reisende gemacht
 
 Speichern Sie Dokumentkopien und Ablaufdaten an einem Ort, mit standardmäßig aktivierten Erinnerungen.
 
-- **Familien:** Mit Pro mehrere Profile für Kinder und Partner an einem Ort verwalten. Die mentale Last des gesamten Haushalts tragen, ohne zwischen Ordnern wechseln zu müssen.
-- **Digitale Nomaden & Expats:** Aufenthaltstitel, lokale Ausweise und Arbeitsvisa neben Reisepässen verfolgen, während Sie zwischen Ländern wechseln.
-- **Die 6-Monats-Regel:** Pass-Erinnerungen beginnen standardmäßig acht Monate vor Ablauf. Prüfen Sie die Einreisevoraussetzungen Ihres Ziellandes gesondert.
-- **Zukunftssicher:** Bleiben Sie organisiert inmitten bevorstehender EU-Verwaltungsänderungen wie EES und ETIAS. Stellen Sie sicher, dass Ihre Dokumente bereit sind, bevor die Regeln sich ändern.
-- **Datenschutzbewusste Personen:** Dokumente speichern, ohne Cloud-Servern zu vertrauen. Alles bleibt auf Ihrem Gerät.
-- **Preisbewusste Käufer:** Abonnements vermeiden. Einmalige Gebühr zahlen, anstatt die eigenen Daten zu mieten.
+- **Familien:** Verwalten Sie mit Pro mehrere Profile für Kinder und Partner an einem Ort. Behalten Sie den Überblick für den ganzen Haushalt, ohne zwischen Ordnern zu wechseln.
+- **Digitale Nomaden & Expats:** Behalten Sie Aufenthaltstitel, lokale Ausweise und Arbeitsvisa neben Ihren Reisepässen im Blick, während Sie von Land zu Land ziehen.
+- **Die 6-Monats-Regel:** Passerinnerungen beginnen standardmäßig acht Monate vor Ablauf. Prüfen Sie die Einreisebestimmungen Ihres Ziellandes gesondert.
+- **Gut vorbereitet:** Bleiben Sie organisiert, wenn in der EU neue Verfahren wie EES und ETIAS kommen. Sorgen Sie dafür, dass Ihre Dokumente bereit sind, bevor sich die Regeln ändern.
+- **Datenschutzbewusste:** Kein Server von Dritten speichert jemals Ihre lesbaren Daten. Das optionale Backup landet in Ihrer eigenen iCloud oder Ihrem Google Drive, gesichert mit einem Schlüssel, den nur Sie besitzen.
+- **Kostenbewusste:** Kein Abo. Sie zahlen einmal, statt Ihre eigenen Daten zu mieten.
 
-## Schnelle Antworten
+## Kurze Antworten
 
 Die Fragen, die wir am häufigsten hören.
 
-Was passiert, wenn ich mein Telefon verliere? Ihre Dokumente befinden sich auf Ihrem Gerät, sodass ein reguläres Telefonbackup (iCloud oder Google Backup) sie enthält. Wenn Sie zu einem neuen Telefon wiederherstellen, kommt Ihr Tresor mit. Pro-Nutzer können auch jederzeit verschlüsselte Backups erstellen. Funktioniert es ohne Internet? Vollständig. Die App speichert alles auf Ihrem Gerät und benötigt für den Alltag keine Internetverbindung. Erinnerungen und die Anzeige lokal gespeicherter Dokumente funktionieren offline. Die OCR-Verarbeitung läuft auf Ihrem Gerät. Sind meine Daten wirklich sicher? Das Design bedeutet, dass ich Ihre Daten nicht lesen kann, und weder kann Apple oder Google. Sie können das Datenschutzmodell selbst auf der [Datenschutzverifizierungsseite](https://traveldocumentvault.com/de/privacy-verification/) überprüfen. Ist es wirklich ein Einmalkauf? Ja. Pro kostet einmalig $9.99, in US-Dollar. Jedes Land legt seinen Preis lokal fest, statt ihn vom Dollar umzurechnen, und der Store zeigt Ihren Preis vor dem Kauf.* Kein Abo, keine wiederkehrenden Kosten, keine „Ihre Testphase endet"-E-Mails. Die kostenlose Version ist wirklich kostenlos – 1 Profil, 5 Dokumente, alle Kernfunktionen inklusive OCR und Erinnerungen.
+Was passiert, wenn ich mein Telefon verliere? Ihre Dokumente sind auf Ihrem Gerät verschlüsselt. Der lokale Schlüssel liegt im sicheren Speicher und ist von normalen Telefon-Backups ausgeschlossen. Der Tresor-Export enthält eine passwortverschlüsselte Kopie dieses Schlüssels. Ein normales Telefon-Backup installiert die App neu, kann Ihre Dokumente aber nicht wiederherstellen. Das Pro-Cloud-Backup stellen Sie mit Ihrem Wiederherstellungscode auf einem unterstützten Telefon derselben Plattform und mit demselben Cloud-Konto wieder her. Oder Sie nutzen den kostenlosen Tresor-Export und -Import. Beim Wiederherstellen oder Importieren wird der lokale Tresor ersetzt. Funktioniert die App ohne Internet? Vollständig. Die App speichert alles auf Ihrem Gerät und braucht im Alltag keine Internetverbindung. Erinnerungen und die Anzeige lokal gespeicherter Dokumente funktionieren offline. Die OCR-Verarbeitung läuft auf Ihrem Gerät. Sind meine Daten wirklich sicher? Ihre Dokumente werden auf Ihrem Gerät mit AES-256-GCM verschlüsselt, und der Schlüssel liegt im sicheren Schlüsselspeicher Ihres Telefons – nie in einem Telefon-Backup. Sie legen kein Konto an, und es gibt keinen Travel-Document-Vault-Server, der Ihre Dokumente speichert. Wenn Sie das optionale Cloud-Backup (Pro) aktivieren, wird Ihr Tresor vor dem Hochladen auf Ihrem Telefon verschlüsselt und landet in Ihrer eigenen iCloud oder Ihrem Google Drive, gesichert mit einem Wiederherstellungscode, den nur Sie besitzen. Durch diese Bauweise kann ich Ihre Daten nicht lesen, Apple und Google ebenso wenig – das Datenschutzmodell können Sie selbst auf der [Seite zur Datenschutzüberprüfung](https://traveldocumentvault.com/de/privacy-verification/) nachvollziehen. PIN-Sperre und biometrische Sperre (Face ID/Touch ID) sind beide kostenlos. Ist es wirklich ein Einmalkauf? Ja. Pro ist ein Einmalkauf ohne Abo. Der Preis wird für jedes Land lokal festgelegt, und der Store zeigt Ihnen Ihren Preis, bevor Sie bezahlen.* Keine wiederkehrenden Kosten, keine E-Mails mit „Ihr Testzeitraum endet“. Die kostenlose Version ist wirklich kostenlos – 1 Profil, 5 Dokumente und alle Kernfunktionen einschließlich OCR und Erinnerungen.
 
-* Gilt für v1.x. Siehe [Versionsrichtlinie](https://traveldocumentvault.com/pricing-policy/#version-policy).
+* Gilt für v1.x. Siehe [Preisrichtlinie](https://traveldocumentvault.com/pricing-policy/#version-policy).
 
-Kann ich es auch für andere Dokumente als Reisepässe nutzen? Ja. Die App unterstützt Reisepässe, Visa, Personalausweise, Führerscheine, Versicherungskarten, Flugtickets und alle weiteren Dokumenttypen, die Sie benötigen. Jede Dokumentform hat ihre eigene geführte Aufnahme-Maske. [Alle FAQs ansehen →](https://traveldocumentvault.com/de/faq/)
+Kann ich die App auch für andere Dokumente als Reisepässe nutzen? Ja. Sie unterstützt Reisepässe, Visa, Ausweise, Führerscheine, Versicherungskarten, Flugtickets und jeden anderen Dokumenttyp, den Sie brauchen. Jedes Dokumentformat hat eigene Hilfslinien für die Aufnahme. [Alle FAQs ansehen →](https://traveldocumentvault.com/de/faq/)
 
-**Wichtig:** Travel Document Vault ist ein persönliches Organisationstool zum Speichern digitaler Kopien Ihrer Dokumente. **Digitale Kopien in dieser App sind NICHT für Reisen gültig.** Die App überprüft weder die Echtheit von Dokumenten noch gibt sie rechtliche oder reisebezogene Ratschläge. Führen Sie stets Originaldokumente mit sich und überprüfen Sie alle Reiseanforderungen bei offiziellen Behördenquellen.
+**Wichtig:** Travel Document Vault ist ein persönliches Organisationswerkzeug zum Speichern digitaler Kopien Ihrer Dokumente. **In dieser App gespeicherte digitale Kopien sind NICHT für Reisen gültig.** Die App prüft nicht die Echtheit von Dokumenten und bietet keine Rechts- oder Reiseberatung. Führen Sie immer die Originaldokumente mit und prüfen Sie alle Reisevoraussetzungen bei offiziellen staatlichen Stellen.
 
 ## Ihre Familie. Geschützt. Immer.
 
-Alles an einem Ort. Kein Konto, kein Abonnement, keine Überraschungen.
+Alles an einem Ort. Kein Konto, kein Abo, keine Überraschungen.
 
 ![Im App Store laden](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 

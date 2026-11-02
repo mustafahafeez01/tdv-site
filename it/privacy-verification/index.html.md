@@ -8,21 +8,21 @@ Source: https://traveldocumentvault.com/it/privacy-verification/
 
 ## Le nostre affermazioni sulla privacy
 
-### Zero tracker
+### Nessun tracker pubblicitario
 
-Nessun SDK di analisi, nessuna libreria pubblicitaria, nessun pixel di tracciamento nell'app.
+Nessuna rete pubblicitaria, nessuna analisi comportamentale e nessun pixel di tracciamento nell'app. La segnalazione degli arresti anomali è facoltativa, separata, e resta disattivata finché non la attivi.
 
-### Nessuna raccolta di dati in uscita
+### Nessuna raccolta dei dati dei documenti
 
-L'app non effettua zero connessioni in uscita per impostazione predefinita. Funziona completamente offline. L'unico utilizzo di rete è il backup cloud Pro opzionale, che si sincronizza con il tuo iCloud o Google Drive personale — mai con i nostri server.
+I tuoi documenti, le scansioni, le date di scadenza e il contenuto del vault non vengono inviati a Travel Document Vault. Per l'archiviazione e i promemoria normali l'app funziona interamente offline.
 
 ### Sul dispositivo per impostazione predefinita
 
-Tutti i documenti, le scansioni e i dati rimangono sul tuo dispositivo. Non c'è nessun cloud TDV, nessun server TDV, nessun backend TDV. Gli utenti Pro possono facoltativamente eseguire il backup del loro vault crittografato nel loro account iCloud o Google Drive personale — solo loro detengono la chiave di recupero.
+I documenti restano sul tuo dispositivo per impostazione predefinita. Non esiste un account cloud Travel Document Vault, né un server per i documenti, né un database sul backend.
 
 ### Crittografia AES-256-GCM
 
-Ogni documento è crittografato prima di toccare l'archiviazione del tuo dispositivo.
+L'app crittografa i dati dei documenti prima di salvarli nell'archivio locale dell'app. Gli utenti Pro possono facoltativamente eseguire il backup di un file del vault crittografato sul proprio account iCloud o Google Drive: solo loro detengono la chiave di recupero.
 
 ## Verifica
 
@@ -165,3 +165,11 @@ Queste sono autorizzazioni comuni che molte app richiedono. Non ne richiediamo n
 **Posizione** — Nessun GPS, nessun geofencing, nessun tracciamento **Contatti** — Nessun accesso alla tua rubrica **Bluetooth** — Nessuna rete locale o scansione dei dispositivi **Calendario** — I promemoria vengono gestiti sul dispositivo, non tramite il tuo calendario
 
 Hai ancora domande? Leggi la nostra [Informativa sulla privacy](https://traveldocumentvault.com/privacy-policy/) completa o consulta le [FAQ](https://traveldocumentvault.com/it/faq/).
+
+## Scarica gratis. Nessun abbonamento.
+
+Configuralo stasera. Lascia che l'app ricordi al posto Suo.
+
+![Scarica su App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Disponibile su Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

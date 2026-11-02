@@ -84,7 +84,7 @@ Installez l'application sur le nouveau téléphone et connectez-vous au même co
 
 L'application vérifie aussi avant d'écrire quoi que ce soit. Si la sauvegarde cloud détecte une sauvegarde existante dans ce compte, elle vous demande de choisir entre restaurer ou repartir de zéro. Un nouveau téléphone ne peut pas écraser discrètement ce qui existe déjà.
 
-### Passer d'iPhone à Android (ou l'inverse) passe par l'export du coffre
+### Passer d'iPhone à Android (ou l'inverse) passe par l’export du coffre
 
 La sauvegarde cloud reste propre à une plateforme, car elle utilise votre propre iCloud sur les appareils Apple et votre propre Google Drive sur Android. Passer de l'un à l'autre nécessite une autre méthode.
 

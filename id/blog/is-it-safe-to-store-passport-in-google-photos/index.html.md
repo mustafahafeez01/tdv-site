@@ -71,7 +71,7 @@ Misalkan kata sandi Google Anda pernah dipakai ulang di situs yang mengalami keb
 |---|---|---|---|---|
 | Google Foto | Server cloud Google | Saat transit + diam (kunci dikelola Google) | Sedang | Dapat diterima dengan 2FA yang kuat |
 | iCloud Photos | Server cloud Apple | Saat transit + diam (kunci dikelola Apple) | Sedang | Dapat diterima dengan 2FA yang kuat |
-| Pengelola kata sandi terenkripsi (1Password, Bitwarden) | Cloud (zero-knowledge) | End-to-end; penyedia tidak bisa membaca konten | Rendah | Pilihan yang baik |
+| Pengelola kata sandi terenkripsi (1Password, Bitwarden) | Server cloud (zero-knowledge) | End-to-end; penyedia tidak bisa membaca konten | Rendah | Pilihan yang baik |
 | Aplikasi terenkripsi di perangkat (cadangan cloud sendiri opsional) | Ponsel Anda; cadangan terenkripsi opsional ke cloud Anda sendiri (Pro) | Terenkripsi di perangkat; salinan terenkripsi opsional di cloud sendiri (Pro) | Terendah | Terbaik untuk dokumen sensitif |
 | Galeri kamera / folder tanpa enkripsi | Perangkat Anda | Hanya enkripsi perangkat | Lebih tinggi | Tidak disarankan |
 

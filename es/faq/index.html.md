@@ -14,9 +14,9 @@ Todo lo que necesitas saber sobre Travel Document Vault.
 
 ![Descarga en App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 
-![Consíguelo en Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg) Compra única · Sin suscripción Ir a: Privacidad Características Copia de Seguridad Precios Solución de Problemas Legal
+![Consíguelo en Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg) Compra única · Sin suscripción Ir a: Privacidad Características Copia de seguridad Precios Solución de problemas Legal
 
-## Confianza y Transparencia
+## Confianza y transparencia
 
 ¿Puede el desarrollador ver mis documentos?
 
@@ -36,7 +36,7 @@ Sí. Tu compra cubre todas las actualizaciones dentro de la versión principal a
 
 ¿Qué pasa si pierdo mi teléfono o cambio a uno nuevo?
 
-Como no almacenamos tus datos en servidores, no podemos restaurarlos para ti. Las copias de seguridad del sistema (iCloud o Google) no restauran tus documentos porque las copias del sistema no transfieren la clave de cifrado vinculada al dispositivo. Usa la función Exportar (gratuita) para crear una copia de seguridad de tu bóveda cifrada antes de cambiar de teléfono, o activa la copia de seguridad cifrada en tu propio iCloud o Google Drive (Pro) para restaurarla con tu código de recuperación en un dispositivo compatible de la misma plataforma y con la misma cuenta en la nube. Abre Copia de Seguridad en la Nube en Ajustes, elige tu copia y confirma la restauración, que reemplaza la bóveda local.
+Como no almacenamos tus datos en servidores, no podemos restaurarlos para ti. Las copias de seguridad del sistema (iCloud o Google) no restauran tus documentos porque las copias del sistema no transfieren la clave de cifrado vinculada al dispositivo. Usa la exportación gratuita de la bóveda para crear una copia de seguridad de tu bóveda cifrada antes de cambiar de teléfono, o activa la copia de seguridad cifrada en tu propio iCloud o Google Drive (Pro) para restaurarla con tu código de recuperación en un dispositivo compatible de la misma plataforma y con la misma cuenta en la nube. Abre Copia de Seguridad en la Nube en Ajustes, elige tu copia y confirma la restauración, que reemplaza la bóveda local.
 
 ¿Funciona la aplicación sin conexión a internet?
 
@@ -44,7 +44,7 @@ Sí, completamente. La app en sí no tiene servidor y no necesita internet para 
 
 ¿Qué idiomas soporta la aplicación?
 
-La aplicación está disponible en más de 40 idiomas, incluida la compatibilidad completa de derecha a izquierda para árabe, urdu y farsi. El idioma de tu teléfono se detecta automáticamente y puedes cambiarlo en cualquier momento en Configuración. Si algo se ve mal en tu idioma, nos encantaría conocerlo. Envíanos un mensaje a [support@traveldocumentvault.com](mailto:support@traveldocumentvault.com) e influirá directamente en la hoja de ruta.
+La aplicación está disponible en más de 40 idiomas, incluida la compatibilidad completa de derecha a izquierda para árabe, urdu y farsi. El idioma de tu teléfono se detecta automáticamente y puedes cambiarlo en cualquier momento en Ajustes. Si algo se ve mal en tu idioma, nos encantaría conocerlo. Envíanos un mensaje a [support@traveldocumentvault.com](mailto:support@traveldocumentvault.com) e influirá directamente en la hoja de ruta.
 
 ¿Qué pasa si dejas de desarrollar la aplicación?
 
@@ -56,7 +56,7 @@ Travel Document Vault lo creó Mustafa Hafeez, un desarrollador de software sén
 
 ¿Quieres verificar estas afirmaciones tú mismo? Consulta nuestra página de [Verificación de Privacidad](https://traveldocumentvault.com/es/privacy-verification/) para prueba independiente y un desglose completo de cada permiso de aplicación.
 
-## Privacidad y Datos
+## Privacidad y datos
 
 ¿Dónde se almacenan mis datos?
 
@@ -68,13 +68,13 @@ La aplicación no tiene base de datos en la nube. No vemos tus datos. Si usas **
 
 ¿Puedo hacer una copia de seguridad de mis datos gratis?
 
-Sí. La Exportación de Bóveda (archivo de copia de seguridad cifrado .tdvault) es gratuita para todos. Ve a Ajustes, Exportar bóveda, y la aplicación crea un archivo protegido con contraseña que puedes guardar en Archivos, iCloud Drive, o compartir fuera del dispositivo. La aplicación también mantiene **copias de seguridad locales automáticas** en tu dispositivo cada pocos minutos, sin coste. La copia de seguridad en la nube en tu propio iCloud o Google Drive es la opción Pro. Ninguna función de copia de seguridad retiene tus datos.
+Sí. La exportación de la bóveda (archivo de copia de seguridad cifrado .tdvault) es gratuita para todos. Ve a Ajustes, Exportar bóveda, y la aplicación crea un archivo protegido con contraseña que puedes guardar en Archivos, iCloud Drive, o compartir fuera del dispositivo. La aplicación también mantiene **copias de seguridad locales automáticas** en tu dispositivo cada pocos minutos, sin coste. La copia de seguridad en la nube en tu propio iCloud o Google Drive es la opción Pro. Ninguna función de copia de seguridad retiene tus datos.
 
 ¿Qué pasa si pierdo mi teléfono?
 
 Como no tenemos tus datos, no podemos restaurarlos para ti. Si restauras un nuevo teléfono desde una copia de seguridad del sistema (iCloud/Google), tus datos deberían reaparecer. Si no usas copias de seguridad del sistema, tus datos se pierden.
 
-**Recomendación:** Usa la función Exportar para guardar una copia de tus documentos importantes en otro lugar.
+**Recomendación:** Exporta la bóveda para guardar una copia de tus documentos importantes en otro lugar.
 
 ¿Y si alguien roba mi teléfono? ¿Están protegidos mis documentos?
 
@@ -93,7 +93,7 @@ Sí. Tus documentos están **cifrados en el disco** dentro del almacenamiento de
 
 Todos los datos de este teléfono se **eliminan permanentemente** cuando desinstalas la app. No hay forma de recuperarlos después salvo que hayas exportado la bóveda o activado la copia en la nube, ya que no guardamos nada externamente. **Antes de eliminar:** Exporta tus documentos o crea un archivo .tdvault de copia de seguridad desde Ajustes para guardarlos en otro lugar.
 
-## Seguridad Adicional
+## Seguridad adicional
 
 ¿Están cifradas mis imágenes de documentos?
 
@@ -109,7 +109,7 @@ Porque tus datos nunca llegan a nuestros servidores, no tenemos forma de acceder
 
 ¿También están cifradas las copias de seguridad?
 
-**Sí.** Las copias de seguridad automáticas están cifradas a través del sistema de copia de seguridad integrado de tu dispositivo (iCloud/Google). Las exportaciones de bóveda (archivos .tdvault) están **protegidas con contraseña** con cifrado fuerte. Establecerás una contraseña cuando exportes y la necesitarás para restaurar.
+**Sí.** Las copias de seguridad automáticas están cifradas a través del sistema de copia de seguridad integrado de tu dispositivo (iCloud/Google). Los archivos de exportación de la bóveda (.tdvault) están **protegidos con contraseña** con cifrado fuerte. Establecerás una contraseña cuando exportes y la necesitarás para restaurar.
 
 Si restauras desde una copia de seguridad, tus documentos funcionarán automáticamente en tu nuevo dispositivo sin que tengas que hacer nada especial.
 
@@ -153,7 +153,7 @@ Sí. Los usuarios gratuitos pueden compartir documentos individuales. Pro añade
 
 ¿Cómo respalda la aplicación mis datos?
 
-La aplicación almacena todo en tu dispositivo. Si tienes iCloud (iOS) o Google Backup (Android) habilitado, tus documentos ya están protegidos a través de tu copia de seguridad del dispositivo. Los usuarios Pro pueden exportar una **copia de seguridad cifrada protegida con contraseña** para guardar, y todos los usuarios pueden **restaurar desde una copia de seguridad** en cualquier momento a través de Configuración → Importar Bóveda. Esto reemplaza todos los datos actuales con el contenido de la copia de seguridad. Intencionalmente no sincronizamos a nuestros servidores para proteger tu privacidad.
+La aplicación almacena todo en tu dispositivo. Si tienes iCloud (iOS) o Google Backup (Android) habilitado, tus documentos ya están protegidos a través de tu copia de seguridad del dispositivo. Los usuarios Pro pueden exportar una **copia de seguridad cifrada protegida con contraseña** para guardar, y todos los usuarios pueden **restaurar desde una copia de seguridad** en cualquier momento a través de Ajustes → Importar copia de seguridad. Esto reemplaza todos los datos actuales con el contenido de la copia de seguridad. Intencionalmente no sincronizamos a nuestros servidores para proteger tu privacidad.
 
 ¿Puedo compartir documentos con miembros de la familia?
 
@@ -174,7 +174,7 @@ Para habilitar Bloqueo de Aplicación, ve a **Ajustes → Seguridad** en la apli
 
 **Importante: PIN Olvidado:** Si olvidas tu PIN, la única forma de recuperar acceso es eliminar e reinstalar la aplicación, lo que **elimina permanentemente todos tus datos**. Para protegerte:
 
-- Exporta una copia de seguridad cifrada **antes de** habilitar Bloqueo de Aplicación (Configuración → Exportar Bóveda)
+- Exporta una copia de seguridad cifrada **antes de** habilitar Bloqueo de Aplicación (Ajustes → Exportar bóveda)
 - Almacena tu PIN en algún lugar seguro (p.ej., el gestor de contraseñas de tu dispositivo)
 - Habilita **desbloqueo biométrico** (gratuito para todos los usuarios) para que puedas usar Face ID, Touch ID, o huella en lugar de escribir el PIN
 - Si tienes copias de seguridad de dispositivo (iCloud/Google) habilitadas, restaurar desde una copia de seguridad puede recuperar tus datos después de reinstalar
@@ -189,7 +189,7 @@ Para habilitar Bloqueo de Aplicación, ve a **Ajustes → Seguridad** en la apli
 - Las copias de seguridad se quedan en **el almacenamiento privado de la app** en tu dispositivo.
 - Una copia local válida puede restaurar registros anteriores de la bóveda desde **Ajustes → Restaurar copia de seguridad local**, pero no puede recrear adjuntos eliminados permanentemente. Usa Eliminado Recientemente para eliminaciones normales.
 
-**Exportación de Bóveda:** Cualquier usuario puede exportar un archivo de copia de seguridad cifrado (.tdvault) y guardarlo en Archivos, iCloud Drive, o compartirlo a través de AirDrop/correo para almacenamiento fuera del dispositivo. Esto se recomienda antes de actualizaciones mayores o cambios de dispositivo.
+**Exportación de la bóveda:** Cualquier usuario puede exportar un archivo de copia de seguridad cifrado (.tdvault) y guardarlo en Archivos, iCloud Drive, o compartirlo a través de AirDrop/correo para almacenamiento fuera del dispositivo. Esto se recomienda antes de actualizaciones mayores o cambios de dispositivo.
 
 ¿Qué significa "Última copia de seguridad: hace 2 horas, 12 documentos" en Ajustes?
 
@@ -221,7 +221,7 @@ Abre el menú de más opciones de la lista y toca **«Seleccionar documentos»**
 
 ¿Puedo deshacer una eliminación masiva?
 
-**Sí —tienes dos capas de protección.** Después de eliminar documentos (individual o masivamente), verás una breve ventana de deshacer en la parte inferior de la pantalla. Toca **"Deshacer"** para restaurarlos inmediatamente. Si pierdes la ventana de deshacer, los documentos eliminados se mueven a **Eliminados recientemente** en Configuración, donde permanecen durante 30 días antes de ser eliminados permanentemente. Los usuarios Pro con copia de seguridad en la nube habilitada mantienen elementos en Eliminados recientemente indefinidamente hasta que tocan Eliminar permanentemente.
+**Sí —tienes dos capas de protección.** Después de eliminar documentos (individual o masivamente), verás una breve ventana de deshacer en la parte inferior de la pantalla. Toca **"Deshacer"** para restaurarlos inmediatamente. Si pierdes la ventana de deshacer, los documentos eliminados se mueven a **Eliminados recientemente** en Ajustes, donde permanecen durante 30 días antes de ser eliminados permanentemente. Los usuarios Pro con copia de seguridad en la nube habilitada mantienen elementos en Eliminados recientemente indefinidamente hasta que tocan Eliminar permanentemente.
 
 ¿Qué es el menú contextual de presión larga?
 
@@ -245,7 +245,7 @@ Los **usuarios Pro** pueden ir más allá: anular el color en una base por tipo 
 
 Sí. Las notas y los comprobantes admiten múltiples adjuntos de imagen. Los usuarios gratuitos pueden adjuntar una imagen por nota. Los **usuarios Pro pueden adjuntar hasta 10.** Adjunta una foto de un correo de confirmación, un código QR, una referencia de reserva, o cualquier cosa que agregue contexto. Cada imagen está cifrada en el dispositivo, exactamente como el resto de tu bóveda.
 
-## Plataforma y Compatibilidad
+## Plataforma y compatibilidad
 
 ¿Cuándo estará disponible la versión de Android?
 
@@ -255,7 +255,7 @@ Android admite almacenamiento cifrado en el dispositivo, escaneo OCR y recordato
 
 ¿Puedo transferir mis datos de iPhone a Android (o viceversa)?
 
-**Sí, usando la Exportación de Bóveda cifrada.** Exporta una copia cifrada desde tu dispositivo actual (Ajustes, Exportar bóveda), transfiérela al dispositivo nuevo (por correo, almacenamiento en la nube o transferencia directa) y usa Ajustes, Importar copia de seguridad para restaurar tus documentos, reemplazando lo que ya haya en el dispositivo nuevo.
+**Sí, con la exportación cifrada de la bóveda.** Exporta una copia cifrada desde tu dispositivo actual (Ajustes, Exportar bóveda), transfiérela al dispositivo nuevo (por correo, almacenamiento en la nube o transferencia directa) y usa Ajustes, Importar copia de seguridad para restaurar tus documentos, reemplazando lo que ya haya en el dispositivo nuevo.
 
 Esto funciona a través de plataformas porque el formato de cifrado es universal. Necesitarás la misma contraseña que usaste cuando exportaste la bóveda. Las compras Pro se restauran en la misma plataforma y con la misma cuenta de la tienda; pasar de iOS a Android o viceversa requiere una compra Pro aparte (ver «¿Puedo restaurar mi compra en un nuevo dispositivo?» abajo).
 
@@ -271,7 +271,7 @@ La app incluye unas pocas copias automáticas de los datos de tu bóveda. Los us
 
 Nunca **cargamos** tus fotos a ningún lado. Todo el procesamiento (incluyendo escaneo OCR) sucede en tu dispositivo. Si deniegas los permisos de cámara y fotos, aún puedes añadir los datos de un documento manualmente o importar un PDF. Si accidentalmente negaste permisos, puedes rehablitarlos en la Configuración de tu dispositivo → Privacidad → Cámara / Fotos → Travel Document Vault.
 
-## Precios y Compras
+## Precios y compras
 
 ¿Cuál es la diferencia entre Gratuito y Pro?
 
@@ -307,7 +307,7 @@ Si una futura versión principal (v2.0) es lanzada alguna vez con un conjunto de
 
 Todas las compras se procesan a través de la respectiva App Store. Para reembolsos, necesitarás solicitar uno a través de Apple o Google. Por favor, verifica tu correo de recepción de compra para instrucciones sobre cómo solicitar un reembolso de la tienda donde descargaste la aplicación.
 
-## Solución de Problemas
+## Solución de problemas
 
 No estoy recibiendo notificaciones de recordatorio
 
@@ -361,16 +361,6 @@ Con Pro, los perfiles ayudan a organizar los documentos, fotos y recordatorios d
 
 Los elementos eliminados van a la papelera durante 30 días. Puedes restaurarlos en cualquier momento durante esa ventana. Después de 30 días, se han ido permanentemente de tu dispositivo y copias de seguridad en la nube. Vaciar la papelera o restablecer de fábrica tu teléfono elimina los datos locales; recuperarlos requiere una copia independiente utilizable.
 
-## Legales y Disclaimers
-
-¿Es esta aplicación un reemplazo para documentos oficiales?
-
-**No.** Travel Document Vault es una herramienta de organización personal solo. No reemplaza documentos oficiales, verifica autenticidad, o garantiza cumplimiento con ningún requisito de inmigración. Siempre lleva tus documentos originales cuando viajes y verifica requisitos con fuentes gubernamentales oficiales.
-
-¿Y si pierdo un plazo por falla de recordatorio?
-
-Los recordatorios son una característica de conveniencia y no deben ser tu único sistema de recordatorio. No somos responsables de plazos perdidos, documentos vencidos, o ninguna consecuencia resultante de fallas de recordatorio. Por favor ver nuestros [Términos de Servicio](https://traveldocumentvault.com/terms/) para detalles completos.
-
 ## Copia de seguridad en la nube
 
 ¿Qué pasa si borro un documento con la copia en la nube activada?
@@ -405,6 +395,16 @@ Sí. La copia en la nube es una capa de seguridad, pero ningún sistema es perfe
 
 Tu código de recuperación desbloquea la clave de cifrado de tu copia en la nube; los dispositivos configurados la conservan para las copias automáticas. Nuestro diseño es de conocimiento cero, lo que significa que no podemos restablecerlo, recuperarlo ni obtenerlo por ti. Apple y Google tampoco. Si pierdes el código de recuperación y el acceso a todos los dispositivos configurados que conservan la clave, tu copia cifrada en la nube queda irrecuperable. Guarda tu código en un lugar seguro antes de depender de la copia en la nube: un gestor de contraseñas, una copia impresa en un sitio seguro, o ambas cosas. Comprueba que puedes leerlo antes de dejarlo como tu única copia.
 
+## Aviso legal y exenciones de responsabilidad
+
+¿Es esta aplicación un reemplazo para documentos oficiales?
+
+**No.** Travel Document Vault es una herramienta de organización personal solo. No reemplaza documentos oficiales, verifica autenticidad, o garantiza cumplimiento con ningún requisito de inmigración. Siempre lleva tus documentos originales cuando viajes y verifica requisitos con fuentes gubernamentales oficiales.
+
+¿Y si pierdo un plazo por falla de recordatorio?
+
+Los recordatorios son una característica de conveniencia y no deben ser tu único sistema de recordatorio. No somos responsables de plazos perdidos, documentos vencidos, o ninguna consecuencia resultante de fallas de recordatorio. Por favor ver nuestros [Términos de Servicio](https://traveldocumentvault.com/terms/) para detalles completos.
+
 [Para una comparación completa, ver por qué familias eligen Travel Document Vault →](https://traveldocumentvault.com/es/why-us/)
 
 ## ¿Aún tienes preguntas?
@@ -412,3 +412,11 @@ Tu código de recuperación desbloquea la clave de cifrado de tu copia en la nub
 Estamos aquí para ayudar. Alcánzanos y te responderemos lo antes posible.
 
 [Contactar Soporte](mailto:support@traveldocumentvault.com)
+
+## Descargar Gratis. Sin Suscripción.
+
+Configúralo esta noche. Deja que la aplicación recuerde para que no tengas que hacerlo.
+
+![Descargar en el App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Descargar en Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

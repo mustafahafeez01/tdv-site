@@ -68,8 +68,6 @@ Compte tenu de la complexité ci-dessus, une bonne application de suivi des visa
 - **Modèle de confidentialité:** Les détails de visa sont des données sensibles liées à l'identité. Comme pour le stockage de passeport, le chiffrement sur l'appareil sans téléchargement cloud est l'architecture la plus sûre.
 - **Suivi du passeport et du visa ensemble:** Une erreur courante mais souvent négligée est d'avoir un visa valide mais un passeport qui expire pendant votre séjour prévu. Avoir les deux suivis au même endroit empêche cette incohérence.
 
-**Travel Document Vault** suit les dates d’expiration des passeports et visas avec des rappels distincts pour chaque document. Ajoutez plusieurs voyageurs avec Pro. Vos documents restent chiffrés sur votre téléphone par défaut, sans compte dans l’application. Vous pouvez partager ou exporter des copies, ou les sauvegarder sur votre propre iCloud ou Google Drive avec Pro. [Le téléchargement est gratuit sur l’App Store et Google Play. Pro est un achat unique, sans abonnement.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 ## Étapes pratiques pour suivre correctement votre visa
 
 1. **Enregistrez votre date d'arrivée le jour où vous arrivez.** Votre compte à rebours de séjour maximal commence immédiatement à l'arrivée, pas à partir de quand le visa a été délivré ou quand la période de validité d'entrée a commencé.

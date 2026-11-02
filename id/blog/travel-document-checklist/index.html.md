@@ -95,21 +95,19 @@ Bawa ini di tas jinjing Anda setiap saat, jangan pernah simpan di bagasi tercata
 
 Sebelum meninggalkan rumah, foto setiap dokumen dan simpan di aplikasi terenkripsi, bukan galeri foto Anda. Jika tas Anda hilang atau dicuri, Anda akan membutuhkan nomor paspor, nomor polis asuransi, dan referensi pemesanan di suatu tempat yang masih bisa Anda akses di kedutaan atau kantor polisi. Cadangan digital yang aman menghemat waktu berjam-jam saat Anda berusaha mendapatkan bantuan.
 
-**Travel Document Vault** menyimpan salinan terenkripsi dokumen perjalanan Anda. Pindai setiap dokumen lalu konfirmasi atau masukkan tanggal kedaluwarsanya untuk mendapatkan pengingat otomatis. Pro memungkinkan Anda menyimpan lebih dari lima dokumen dan mengaturnya per anggota keluarga. [Unduh di App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 ## Bagaimana Daftar Dokumen Anda Berubah Menurut Jenis Perjalanan
 
 Perjalanan yang berbeda memerlukan kumpulan dokumen yang berbeda pula, seperti yang ditunjukkan tabel di bawah untuk perjalanan solo, keluarga, dan bisnis.
 
 | Dokumen | Solo | Keluarga | Bisnis | Catatan |
 |---|---|---|---|---|
-| Paspor | ✅ | ✅ setiap anggota | ✅ | Periksa masa berlaku terhadap destinasi, bukan hanya tanggal kedaluwarsa |
-| Visa (jika diperlukan) | ✅ | ✅ setiap anggota | ✅ perusahaan | Bisnis: konfirmasi visa terpasang di paspor yang benar |
-| Asuransi perjalanan | ✅ | ✅ semua tercakup | ✅ periksa apakah perusahaan menanggung Anda | Konfirmasi cakupan sebelum setiap perjalanan, bukan hanya saat membeli |
-| Konfirmasi pemesanan | ✅ | ✅ | ✅ | Salinan luring (jangan mengandalkan akses email di perbatasan) |
-| Surat izin anak | Tidak berlaku | ✅ jika berlaku | Tidak berlaku | Diperlukan di banyak negara jika satu orang tua tidak ikut |
-| Akta kelahiran | Tidak berlaku | ✅ jika diperlukan | Tidak berlaku | Beberapa negara mensyaratkan ini untuk anak di bawah 18 tahun |
-| Surat izin kerja | Tidak berlaku | Tidak berlaku | ✅ jika diperlukan | Beberapa destinasi mensyaratkan surat dari perusahaan untuk pelancong bisnis |
+| Paspor | | setiap anggota | | Periksa masa berlaku terhadap destinasi, bukan hanya tanggal kedaluwarsa |
+| Visa (jika diperlukan) | | setiap anggota | perusahaan | Bisnis: konfirmasi visa terpasang di paspor yang benar |
+| Asuransi perjalanan | | semua tercakup | periksa apakah perusahaan menanggung Anda | Konfirmasi cakupan sebelum setiap perjalanan, bukan hanya saat membeli |
+| Konfirmasi pemesanan | | | | Salinan luring (jangan mengandalkan akses email di perbatasan) |
+| Surat izin anak | Tidak berlaku | jika berlaku | Tidak berlaku | Diperlukan di banyak negara jika satu orang tua tidak ikut |
+| Akta kelahiran | Tidak berlaku | jika diperlukan | Tidak berlaku | Beberapa negara mensyaratkan ini untuk anak di bawah 18 tahun |
+| Surat izin kerja | Tidak berlaku | Tidak berlaku | jika diperlukan | Beberapa destinasi mensyaratkan surat dari perusahaan untuk pelancong bisnis |
 
 Jika perjalanan sudah dipesan, satu hal yang layak dilakukan hari ini adalah mengeluarkan setiap paspor yang terlibat dan memeriksa tanggal kedaluwarsanya terhadap persyaratan negara tujuan, bukan hanya terhadap tanggal perjalanan Anda.
 
@@ -133,7 +131,7 @@ Ya. Masa berlaku paspor, persyaratan visa, dan cakupan asuransi setiap orang din
 
 Surat izin perjalanan anak adalah dokumen yang ditandatangani oleh orang tua yang tidak ikut bepergian, memberikan izin bagi anak untuk bepergian. Negara-negara termasuk Kanada, Afrika Selatan, Meksiko, dan banyak lainnya secara rutin memintanya ketika seorang anak bepergian hanya dengan satu orang tua. Tanpa surat ini Anda berisiko mengalami penundaan atau penolakan masuk. Surat tersebut sebaiknya mencantumkan detail anak, informasi kontak kedua orang tua, tanggal perjalanan, destinasi, dan tanda tangan orang tua yang tidak ikut.
 
-### Dokumen apa yang harus saya simpan mudah diakses di bandara dan tidak di bagasi tercatat?
+### Dokumen apa yang harus saya simpan agar mudah diakses di bandara dan tidak di bagasi tercatat?
 
 Bawa ini bersama Anda setiap saat: paspor, boarding pass, sertifikat asuransi perjalanan, surat izin orang tua jika berlaku, dan dokumentasi visa atau surat persetujuan apa pun. Jangan pernah menyimpan dokumen identitas di bagasi tercatat. Cadangan digital dokumen penting dalam [aplikasi khusus pengatur dokumen perjalanan](https://traveldocumentvault.com/id/blog/best-passport-organizer-app/), bukan galeri foto Anda, sangat disarankan untuk berjaga-jaga jika ada yang hilang atau dicuri.
 

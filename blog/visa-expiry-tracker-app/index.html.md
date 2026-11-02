@@ -70,10 +70,6 @@ With all that complexity in mind, a good visa expiry tracker app needs to handle
 - **Privacy model:** Visa details are identity-linked sensitive data. As with passport storage, on-device encryption with no cloud upload is the safest architecture.
 - **Passport + visa tracking together:** A common but overlooked mistake is having a valid visa but a passport that expires during your planned stay. Having both tracked in the same place prevents this mismatch.
 
-**Travel Document Vault** tracks passport and visa expiry dates with separate reminders for each document. Add multiple travellers with Pro. Your documents stay encrypted on your phone by default, with no app account required.
-
-You can share or export copies, or back them up to your own iCloud or Google Drive with Pro. [It's free to download on the App Store and Google Play. Pro is a one-time purchase, no subscription.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 ## Practical Steps to Track Your Visa Properly
 
 1. **Record your entry date the day you arrive.** Your maximum stay clock starts immediately on entry, not from when the visa was issued or when the entry validity period began.

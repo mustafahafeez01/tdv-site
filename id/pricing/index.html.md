@@ -10,8 +10,6 @@ $9.99, pembayaran satu kali. Tidak ada langganan. Tidak ada biaya tersembunyi. T
 
 Harga dalam dolar AS. Kami menetapkan harga masing-masing negara secara lokal, bukan dengan mengonversi dari dolar, dan App Store atau Google Play akan menampilkan harga Anda sebelum Anda membayar.
 
-Kami tidak menjalankan server yang pernah menyimpan atau dapat membaca dokumen Anda. File dokumen Anda tetap berada di perangkat kecuali jika Anda membagikan atau mengekspornya, atau mengaktifkan cadangan terenkripsi (Pro). Itulah mengapa kami dapat menawarkan harga satu kali alih-alih langganan yang tidak pernah berakhir.
-
 ## Pilih Paket Anda
 
 ### Gratis
@@ -37,12 +35,14 @@ $9.99 satu kali
 
 Untuk seluruh keluarga Anda. Bayar sekali. Semua pembaruan v1.x disertakan, selamanya.
 
+Harga dalam dolar AS. Kami menetapkan harga masing-masing negara secara lokal, bukan dengan mengonversi dari dolar, dan App Store atau Google Play akan menampilkan harga Anda sebelum Anda membayar.
+
 [Tentang kebijakan versi kami →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
 - Perencana perjalanan dengan lampu lalu lintas kesiapan keluarga
 - Cadangan Cloud Anda Sendiri (iCloud atau Google Drive, terenkripsi ujung-ke-ujung)
 - Pelacak hari-hari di luar negeri untuk batas pajak dan visa
-- Tunjangan batas hari per negara untuk setiap anggota keluarga
+- Batas hari per negara untuk setiap anggota keluarga
 - Setiap anggota keluarga, satu brankas
 - **Dokumen** tak terbatas
 - Dasbor kedaluwarsa keluarga penuh
@@ -55,7 +55,7 @@ Untuk seluruh keluarga Anda. Bayar sekali. Semua pembaruan v1.x disertakan, sela
 
 Semua yang Anda butuhkan untuk perjalanan solo
 
-Gratis
+$0
 
 - Paspor, visa, SIM & lainnya
 - Pindai dokumen dan konfirmasi tanggal kedaluwarsa yang terdeteksi
@@ -87,7 +87,7 @@ Semua yang ada di Gratis, plus:
 - Perencana perjalanan dengan lampu lalu lintas kesiapan keluarga
 - Cadangan Cloud Anda Sendiri (iCloud atau Google Drive, terenkripsi ujung-ke-ujung)
 - Pelacak hari-hari di luar negeri untuk batas pajak dan visa
-- Tunjangan batas hari per negara untuk setiap anggota keluarga
+- Batas hari per negara untuk setiap anggota keluarga
 - Setiap anggota keluarga, satu brankas
 - **Dokumen** tak terbatas
 - Dasbor kedaluwarsa keluarga penuh
@@ -102,13 +102,13 @@ Fitur kesiapan perjalanan, visa, dan penghitung hari pajak hanya bersifat asisti
 
 ## Mengapa Satu Kali dan Bukan Langganan?
 
-Pro tersedia sebagai pembelian sekali bayar. Kami tidak menjalankan server yang menyimpan atau membaca dokumen Anda. File dokumen Anda tetap berada di perangkat kecuali jika Anda membagikan atau mengekspornya, atau mengaktifkan cadangan terenkripsi ke cloud Anda sendiri (Pro). Pro tidak memiliki biaya langganan berulang.
+Pro tersedia sebagai pembelian sekali bayar. Kami tidak menjalankan server yang menyimpan atau membaca dokumen Anda. File dokumen Anda tetap berada di perangkat kecuali jika Anda membagikan atau mengekspornya, atau mengaktifkan cadangan terenkripsi ke cloud Anda sendiri (Pro). Itulah mengapa kami dapat menawarkan harga satu kali alih-alih langganan yang tidak pernah berakhir. Pro tidak memiliki biaya langganan berulang.
 
 Harga satu kali adalah wajar, berkelanjutan, dan jujur. Anda membayar sekali. Kami berhenti bertanya.
 
 ## Apa yang Disertakan Gratis, Selamanya
 
-Tingkat gratis bukan uji coba. Ini adalah tingkat permanen nyata dengan fitur inti yang benar-benar akan Anda gunakan: satu profil, 5 dokumen, pengingat kedaluwarsa, berbagi dokumen, kunci biometrik, enkripsi di perangkat, serta ekspor dan impor vault. Jika Anda solo atau hanya menguji, gratis adalah semua yang Anda butuhkan.
+Tingkat gratis bukan uji coba. Ini adalah tingkat permanen nyata dengan fitur inti yang benar-benar akan Anda gunakan: satu profil, 5 dokumen, pengingat kedaluwarsa, berbagi dokumen, kunci biometrik, enkripsi di perangkat, serta ekspor dan impor brankas. Jika Anda solo atau hanya menguji, gratis adalah semua yang Anda butuhkan.
 
 Tidak ada batas waktu. Tidak ada fitur yang misterius menghilang. Tidak ada pola gelap yang mendorong Anda untuk upgrade.
 

@@ -83,8 +83,6 @@ Reisepasskopien enthalten sensible Identitätsinformationen: Ihren vollständige
 
 Wenn Sie nur eine Gewohnheit ändern, dann diese: Ersetzen Sie das per E-Mail verschickte PDF oder das Foto in der Kamerarolle durch eine verschlüsselte App. Gerade diese beiläufige Kopie landet am ehesten in falschen Händen, wenn Ihr Telefon oder Ihr Postfach einmal kompromittiert wird.
 
-**Travel Document Vault** speichert verschlüsselte Kopien aller Ihrer Reisedokumente auf Ihrem Gerät. AES-256-Verschlüsselung auf Ihrem Telefon, kein Konto erforderlich. Optionales verschlüsseltes Backup auf Ihrem eigenen iCloud oder Google Drive (Pro) versiegelt mit einem Wiederherstellungscode, den nur Sie haben. [Im App Store verfügbar.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 Wenn Sie sich fragen, ob Cloud-Speicher sicher für Reisepasskopien ist, lesen Sie unseren Leitfaden zum [Speichern von Reisepässen in Google Fotos](https://traveldocumentvault.com/de/blog/is-it-safe-to-store-passport-in-google-photos/). Er erläutert, warum eine dedizierte verschlüsselte App einen stärkeren Schutz bietet.
 
 Falls Sie noch keine Kopie angelegt haben, scannen Sie die Fotoseite Ihres Reisepasses am besten noch heute, bevor Sie an einem Check-in-Schalter oder in einer Botschaft stehen und sie brauchen.

@@ -84,7 +84,7 @@ Instale a aplicação no telemóvel novo e inicie sessão na mesma conta iCloud 
 
 A aplicação também verifica antes de escrever. Se a cópia de segurança na cloud detetar uma cópia já existente nessa conta, pede-lhe para escolher entre restaurar ou começar do zero. Um telemóvel novo não consegue substituir silenciosamente o que já lá está.
 
-### Mudar Entre iPhone e Android Significa Usar a Exportação do Cofre
+### Mudar Entre iPhone e Android Significa Exportar o Cofre
 
 A cópia de segurança na cloud fica confinada a uma só plataforma, porque usa o seu próprio iCloud em dispositivos Apple e o seu próprio Google Drive no Android. Passar de um para o outro exige a outra via.
 
@@ -128,7 +128,7 @@ Sim, com Pro. Instale a aplicação no telemóvel novo e inicie sessão na mesma
 
 ### A cópia de segurança funciona entre iPhone e Android?
 
-A cópia de segurança na nuvem fica numa só plataforma: o seu próprio iCloud no iPhone e iPad, ou o seu próprio Google Drive no Android. Para mudar entre plataformas, use a exportação gratuita do cofre. Em Definições, Exportar cofre cria um ficheiro .tdvault protegido por palavra-passe que pode enviar a si próprio. No telemóvel novo, Definições, Importar backup lê o ficheiro e substitui os dados que já lá estão. A importação suporta ambas as plataformas. Reveja os documentos, notas e anexos importados, verifique novamente os lembretes e guarde a exportação original. As notificações são recriadas no dispositivo de destino.
+A cópia de segurança na nuvem fica numa só plataforma: o seu próprio iCloud no iPhone e iPad, ou o seu próprio Google Drive no Android. Para mudar entre plataformas, use a exportação do cofre, que é gratuita. Em Definições, Exportar cofre cria um ficheiro .tdvault protegido por palavra-passe que pode enviar a si próprio. No telemóvel novo, Definições, Importar backup lê o ficheiro e substitui os dados que já lá estão. A importação suporta ambas as plataformas. Reveja os documentos, notas e anexos importados, verifique novamente os lembretes e guarde a exportação original. As notificações são recriadas no dispositivo de destino.
 
 ### O que fica guardado na cópia de segurança e o que permanece no dispositivo?
 

@@ -20,7 +20,7 @@ Alt du behøver at vide om Travel Document Vault.
 
 Kan udvikleren se mine dokumenter?
 
-Nej. Den lokale hvælving kræver hverken en Travel Document Vault-konto eller -server. Dine dokumenter gemmes som standard på din enhed. Hvis du vælger at slå den valgfri Pro-skysikkerhedskopi til, krypteres dit boks-indhold ende-til-ende på enheden, før det sendes til din egen iCloud (iOS) eller dit eget Google Drive (Android), forseglet med en gendannelseskode, som kun du har. Vi modtager ikke din cloud-backup og kan ikke læse det krypterede dokumentindhold. Det kan Apple og Google heller ikke.
+Nej. Den lokale boks kræver hverken en Travel Document Vault-konto eller -server. Dine dokumenter gemmes som standard på din enhed. Hvis du vælger at slå den valgfri Pro-skysikkerhedskopi til, krypteres dit boks-indhold ende-til-ende på enheden, før det sendes til din egen iCloud (iOS) eller dit eget Google Drive (Android), forseglet med en gendannelseskode, som kun du har. Vi modtager ikke din cloud-backup og kan ikke læse det krypterede dokumentindhold. Det kan Apple og Google heller ikke.
 
 Hvad indsamler Sentry-nedbrudsrapportering, og kan jeg slå det fra?
 
@@ -36,7 +36,7 @@ Ja. Dit køb dækker alle opdateringer inden for den aktuelle overordnede versio
 
 Hvad sker der, hvis jeg mister min telefon eller skifter til en ny?
 
-Da vi ikke gemmer dine data, kan vi ikke gendanne dem for dig. Almindelige telefonsikkerhedskopier (iCloud eller Google Backup) omfatter ikke app-data, fordi systembackups ikke overfører den enhedsbundne krypteringsnøgle. I stedet kan du bruge gratis Vault Export til at gemme en krypteret .tdvault-fil, eller aktivere Pro-Cloud Backup til krypteret sikkerhedskopi til dit eget iCloud eller Google Drive.
+Da vi ikke gemmer dine data, kan vi ikke gendanne dem for dig. Almindelige telefonsikkerhedskopier (iCloud eller Google Backup) omfatter ikke app-data, fordi systembackups ikke overfører den enhedsbundne krypteringsnøgle. I stedet kan du bruge den gratis eksport af boksen til at gemme en krypteret .tdvault-fil, eller aktivere cloud-backup (Pro) til krypteret sikkerhedskopi til dit eget iCloud eller Google Drive.
 
 Virker appen uden internetforbindelse?
 
@@ -44,15 +44,15 @@ Ja, fuldstændigt. Selve appen har ingen server og behøver ikke internet for at
 
 Hvilke sprog understøtter appen?
 
-Appen er tilgængelig på over 40 sprog, inklusive fuld understøttelse af højre-til-venstre-skrift for arabisk, urdu og farsi. Dit telefons sprog registreres automatisk, og du kan ændre det når som helst i Indstillinger. Hvis noget virker mærkeligt på dit sprog, vil vi gerne høre det. Skriv til os på [support@traveldocumentvault.com](mailto:support@traveldocumentvault.com), og det vil direkte påvirke køreplanen.
+Appen er tilgængelig på over 40 sprog, inklusive fuld understøttelse af højre-til-venstre-skrift for arabisk, urdu og farsi. Din telefons sprog registreres automatisk, og du kan ændre det når som helst i Indstillinger. Hvis noget virker mærkeligt på dit sprog, vil vi gerne høre det. Skriv til os på [support@traveldocumentvault.com](mailto:support@traveldocumentvault.com), og det vil direkte påvirke køreplanen.
 
 Hvad sker der, hvis I stopper med at udvikle appen?
 
-Dine dokumenter lever på din enhed, ikke på vores servere, så de forsvinder ikke, hvis vi stopper med at udgive opdateringer. Adgang til din gemte hvælving afhænger ikke af en Travel Document Vault-server; kompatibilitet med fremtidige operativsystemer kan ikke garanteres. Du kan også eksportere en krypteret kopi af hvælvingen inden for eksportens størrelsesgrænser og med læsbare vedhæftede filer.
+Dine dokumenter lever på din enhed, ikke på vores servere, så de forsvinder ikke, hvis vi stopper med at udgive opdateringer. Adgang til din gemte boks afhænger ikke af en Travel Document Vault-server; kompatibilitet med fremtidige operativsystemer kan ikke garanteres. Du kan også eksportere en krypteret kopi af boksen inden for eksportens størrelsesgrænser og med læsbare vedhæftede filer.
 
 Hvem byggede denne app, og hvorfor er den privatlivsfokuseret?
 
-Travel Document Vault er bygget af Mustafa Hafeez, en erfaren softwareudvikler med mange års professionel erfaring i at bygge programmer, der respekterer privatlivet, og en forælder, der havde brug for appen til sin egen familie. Privatliv er ikke en marketingsætning. Den lokale hvælving kræver hverken en Travel Document Vault-konto eller -server. Aktivér applås for at begrænse adgang på en ulåst telefon. Den valgfri skysikkerhedskopi bruger din egen iCloud eller dit eget Google Drive, krypteret ende-til-ende med en gendannelseskode, som kun du har. Det er en bevidst teknisk beslutning, ikke en politik, der kunne ændres med en kontakt.
+Travel Document Vault er bygget af Mustafa Hafeez, en erfaren softwareudvikler med mange års professionel erfaring i at bygge programmer, der respekterer privatlivet, og en forælder, der havde brug for appen til sin egen familie. Privatliv er ikke en marketingsætning. Den lokale boks kræver hverken en Travel Document Vault-konto eller -server. Aktivér applås for at begrænse adgang på en ulåst telefon. Den valgfri skysikkerhedskopi bruger din egen iCloud eller dit eget Google Drive, krypteret ende-til-ende med en gendannelseskode, som kun du har. Det er en bevidst teknisk beslutning, ikke en politik, der kunne ændres med en kontakt.
 
 Vil du verificere disse påstande selv? Se vores [Privatlivsverifikation](https://traveldocumentvault.com/da/privacy-verification/) side for uafhængigt bevis og en fuld gennemgang af alle app-tilladelser.
 
@@ -64,21 +64,21 @@ Alle dine data er gemt **udelukkende på din enhed**. Vi har ingen servere, der 
 
 Sikkerhedskopieres mine data til skyen?
 
-Appen har ingen cloud-database. Vi ser ikke dine data. Selvom du bruger **iCloud Backup** (iOS) eller **Google Backup** (Android) til hele din telefon, er denne apps data **ikke** inkluderet i den pakke, fordi systembackups ikke overfører den enhedsbundne krypteringsnøgle. Du kan i stedet bruge Vault Export eller Pro-Cloud Backup til at sikkerhedskopiere dine dokumenter.
+Appen har ingen cloud-database. Vi ser ikke dine data. Selvom du bruger **iCloud Backup** (iOS) eller **Google Backup** (Android) til hele din telefon, er denne apps data **ikke** inkluderet i den pakke, fordi systembackups ikke overfører den enhedsbundne krypteringsnøgle. Du kan i stedet eksportere din boks eller bruge cloud-backup (Pro) til at sikkerhedskopiere dine dokumenter.
 
 Kan jeg tage gratis sikkerhedskopi af mine data?
 
-Ja. Vault Export (krypteret .tdvault-sikkerhedskopifil) er gratis for alle. Appen opretter også automatiske lokale sikkerhedskopier på din enhed med få minutters mellemrum, uden beregning. Sky-sikkerhedskopiering til dit eget iCloud eller Google Drive er Pro-muligheden. Ingen sikkerhedskopierings-funktion låser dine data inde.
+Ja. Eksport af boksen (krypteret .tdvault-sikkerhedskopifil) er gratis for alle. Appen opretter også automatiske lokale sikkerhedskopier på din enhed med få minutters mellemrum, uden beregning. Sky-sikkerhedskopiering til dit eget iCloud eller Google Drive er Pro-muligheden. Ingen sikkerhedskopierings-funktion låser dine data inde.
 
 Hvad sker der, hvis jeg mister min telefon?
 
-Da vi ikke har dine data, kan vi ikke gendanne dem for dig. Systemsikkerhedskopier (iCloud/Google) omfatter ikke app-data, fordi systembackups ikke overfører den enhedsbundne krypteringsnøgle. Du kan bruge gratis Vault Export til at gemme en krypteret .tdvault-fil og importere den på en ny enhed, eller aktivere Pro-Cloud Backup til krypteret sikkerhedskopi til dit eget iCloud eller Google Drive.
+Da vi ikke har dine data, kan vi ikke gendanne dem for dig. Systemsikkerhedskopier (iCloud/Google) omfatter ikke app-data, fordi systembackups ikke overfører den enhedsbundne krypteringsnøgle. Du kan bruge den gratis eksport af boksen til at gemme en krypteret .tdvault-fil og importere den på en ny enhed, eller aktivere cloud-backup (Pro) til krypteret sikkerhedskopi til dit eget iCloud eller Google Drive.
 
 Hvad hvis nogen stjæler min telefon? Er mine dokumenter beskyttet?
 
 Ja. Dine dokumenter er **krypteret på disken** inden for appens lager. Dette beskytter mod direkte filekstrahering (hvis nogen får adgang til enhedens fysiske lager, er råfilerne ulæselige uden dekrypteringsnøglerne).
 
-- **Kryptering på disk:** Originale vedhæftninger, der gemmes i hvælvingen, er krypteret; visning, scanning og deling kan skabe midlertidige læsbare kopier.
+- **Kryptering på disk:** Originale vedhæftninger, der gemmes i boksen, er krypteret; visning, scanning og deling kan skabe midlertidige læsbare kopier.
 - **App-lås:** Tilføj et andet forsvarslag ved at aktivere PIN, Face ID eller Touch ID i appindstillingerne.
 
 **Vigtigt:** Maksimal sikkerhed kræver en stærk enhedsadgangskode. Hvis din enhed er låst op, kan krypteringsnøglerne være tilgængelige for den, der holder telefonen.
@@ -89,13 +89,13 @@ Indsamler I analyse- eller sporingsdata?
 
 Hvad sker der, når jeg sletter appen?
 
-Alle dine data på denne telefon bliver **permanent slettet**, når du afinstallerer appen. De kan ikke gendannes bagefter, medmindre du har lavet en Vault Export eller slået cloud-backup til, da vi ikke gemmer noget eksternt. **Inden sletning:** Eksporter dine dokumenter eller opret en .tdvault-sikkerhedskopifil for at gemme dem et andet sted.
+Alle dine data på denne telefon bliver **permanent slettet**, når du afinstallerer appen. De kan ikke gendannes bagefter, medmindre du har eksporteret din boks eller slået cloud-backup til, da vi ikke gemmer noget eksternt. **Inden sletning:** Eksporter dine dokumenter eller opret en .tdvault-sikkerhedskopifil for at gemme dem et andet sted.
 
 ## Yderligere sikkerhed
 
 Er mine dokumentbilleder krypterede?
 
-**Ja.** De originale billeder og PDF-filer, der gemmes i din hvælving, er krypteret. Visning, scanning og deling kan skabe midlertidige læsbare kopier. Krypterede, gemte originaler kan ikke læses uden deres dekrypteringsnøgler.
+**Ja.** De originale billeder og PDF-filer, der gemmes i din boks, er krypteret. Visning, scanning og deling kan skabe midlertidige læsbare kopier. Krypterede, gemte originaler kan ikke læses uden deres dekrypteringsnøgler.
 
 **For maksimal sikkerhed:** Vi anbefaler at aktivere App-lås og bruge en stærk enhedsadgangskode. Se vores [Privatlivspolitik](https://traveldocumentvault.com/privacy-policy/) for fuldstændige detaljer.
 
@@ -107,13 +107,13 @@ Da dine data aldrig når vores servere, har vi ingen måde at få adgang til, se
 
 Er sikkerhedskopier også krypterede?
 
-**Ja.** Appen opretter lokale automatiske sikkerhedskopier på din enhed (ikke systemsikkerhedskopier). Vault-eksporter (.tdvault-filer) er **adgangskodebeskyttede** med stærk kryptering. Du angiver en adgangskode ved eksport og skal bruge den til gendannelse. For at gendanne på en ny enhed bruges Vault Export eller Pro-Cloud Backup til dit eget iCloud eller Google Drive.
+**Ja.** Appen opretter lokale automatiske sikkerhedskopier på din enhed (ikke systemsikkerhedskopier). Eksportfiler (.tdvault) er **adgangskodebeskyttede** med stærk kryptering. Du angiver en adgangskode ved eksport og skal bruge den til gendannelse. For at gendanne på en ny enhed bruges eksport af boksen eller cloud-backup (Pro) til dit eget iCloud eller Google Drive.
 
 Hvad er "Vis til en anden person"?
 
-"Vis til en anden person" er en beskyttet visningstilstand til de øjeblikke, hvor en grænsekontrollant, hotelreceptionist eller flyansatte har brug for at se et dokument på din skærm. Når PIN-lås er opsat, åbner et tryk på ikonet en fuldskærmvisning med **beskyttelse mod skærmfotos og skærmoptagelser slået til som standard**, afhængigt af enhedens understøttelse og dine indstillinger. Luk den beskyttede visning, og lås derefter hvælvingen op med din PIN eller aktiveret biometri.
+"Vis til en anden person" er en beskyttet visningstilstand til de øjeblikke, hvor en grænsekontrollant, hotelreceptionist eller flyansatte har brug for at se et dokument på din skærm. Når PIN-lås er opsat, åbner et tryk på ikonet en fuldskærmvisning med **beskyttelse mod skærmfotos og skærmoptagelser slået til som standard**, afhængigt af enhedens understøttelse og dine indstillinger. Luk den beskyttede visning, og lås derefter boksen op med din PIN eller aktiveret biometri.
 
-Denne visningstilstand uploader ikke dine dokumenter. Opsæt PIN-lås først, så adgang til hvælvingen låses, når du lukker den beskyttede visning. Uden PIN-lås begrænser visningen ikke adgang til resten af hvælvingen.
+Denne visningstilstand uploader ikke dine dokumenter. Opsæt PIN-lås først, så adgang til boksen låses, når du lukker den beskyttede visning. Uden PIN-lås begrænser visningen ikke adgang til resten af boksen.
 
 Hvad er en gendannelseskode, og hvorfor har jeg brug for en?
 
@@ -121,13 +121,13 @@ Når du opsætter App Lock, genererer appen en unik gendannelseskode, der er dit
 
 Hvis du glemmer din PIN, skal du angive din gendannelseskode på PIN-skærmen. Gendannelseskoden giver dig **adgang uden at slette dine dokumenter**; applås forbliver slået til.
 
-Hvis hverken din PIN eller aktiveret biometri kan låse appen op, og du ikke har en gendannelseskode, kan det være nødvendigt at slette den lokale hvælving og gendanne en gemt backup. Gem din kode, når du bliver bedt om det. Så længe du stadig kender din PIN, kan du generere en ny kode i Indstillinger → Sikkerhed.
+Hvis hverken din PIN eller aktiveret biometri kan låse appen op, og du ikke har en gendannelseskode, kan det være nødvendigt at slette den lokale boks og gendanne en gemt backup. Gem din kode, når du bliver bedt om det. Så længe du stadig kender din PIN, kan du generere en ny kode i Indstillinger → Sikkerhed.
 
-Hvad er Auto-Erase?
+Hvad er automatisk sletning?
 
-Automatisk sletning er beregnet til at slette denne telefons hvælving efter gentagne forkerte PIN-forsøg. Stol ikke på den som en garanteret beskyttelse. Den er **slået til som standard, når du opsætter en PIN.** Slå den fra i Indstillinger → Sikkerhed, hvis du hellere vil beholde dine data efter mislykkede forsøg. En fuldført lokal sletning fjerner telefonens hvælving; gendannelse kræver en uafhængig, brugbar backup.
+Automatisk sletning er beregnet til at slette denne telefons boks efter gentagne forkerte PIN-forsøg. Stol ikke på den som en garanteret beskyttelse. Den er **slået til som standard, når du opsætter en PIN.** Slå den fra i Indstillinger → Sikkerhed, hvis du hellere vil beholde dine data efter mislykkede forsøg. En fuldført lokal sletning fjerner telefonens boks; gendannelse kræver en uafhængig, brugbar backup.
 
-**Vigtigt:** Opret en eksportbackup af hvælvingen, før du stoler på Automatisk sletning. På den måde, hvis den nogensinde aktiveres ved et uheld, kan du gendanne fra din sikkerhedskopi. Behold en uafhængig backup og den nødvendige adgangskode eller gendannelseskode, før du stoler på Automatisk sletning.
+**Vigtigt:** Opret en eksportbackup af boksen, før du stoler på Automatisk sletning. På den måde, hvis den nogensinde aktiveres ved et uheld, kan du gendanne fra din sikkerhedskopi. Behold en uafhængig backup og den nødvendige adgangskode eller gendannelseskode, før du stoler på Automatisk sletning.
 
 ## Funktioner
 
@@ -149,7 +149,7 @@ Ja. Gratis-brugere kan dele individuelle dokumenter. Pro tilføjer kombineret PD
 
 Hvordan sikkerhedskopierer appen mine data?
 
-Appen gemmer alt på din enhed. Hvis du har iCloud (iOS) eller Google Backup (Android) aktiveret, er dine dokumenter allerede beskyttet via din enhedssikkerhedskopi. Pro-brugere kan eksportere en **adgangskodebeskyttet krypteret sikkerhedskopi** til opbevaring, og alle brugere kan **gendanne fra en sikkerhedskopi** til enhver tid via Indstillinger → Importer vault. Dette erstatter alle aktuelle data med sikkerhedskopiindholdet. Vi synkroniserer bevidst ikke til vores servere for at beskytte dit privatliv.
+Appen gemmer alt på din enhed. Hvis du har iCloud (iOS) eller Google Backup (Android) aktiveret, er dine dokumenter allerede beskyttet via din enhedssikkerhedskopi. Pro-brugere kan eksportere en **adgangskodebeskyttet krypteret sikkerhedskopi** til opbevaring, og alle brugere kan **gendanne fra en sikkerhedskopi** til enhver tid via Indstillinger → Importér sikkerhedskopi. Dette erstatter alle aktuelle data med sikkerhedskopiindholdet. Vi synkroniserer bevidst ikke til vores servere for at beskytte dit privatliv.
 
 Kan jeg dele dokumenter med familiemedlemmer?
 
@@ -170,7 +170,7 @@ For at aktivere App-lås, gå til **Indstillinger → Sikkerhed** i appen:
 
 **Vigtigt: Glemt PIN:** Hvis du glemmer din PIN, er den eneste måde at genvinde adgang på at slette og geninstallere appen, hvilket **permanent sletter alle dine data**. For at beskytte dig selv:
 
-- Eksporter en krypteret sikkerhedskopi **inden** aktivering af App-lås (Indstillinger → Eksporter vault)
+- Eksporter en krypteret sikkerhedskopi **inden** aktivering af App-lås (Indstillinger → Eksportér hvælving)
 - Gem din PIN et sikkert sted (f.eks. din enheds adgangskodeadministrator)
 - Aktivér **biometrisk lås** (gratis for alle brugere), så du kan bruge Face ID, Touch ID eller fingeraftryk i stedet for at indtaste PIN
 - Hvis du har enhedssikkerhedskopier (iCloud/Google) aktiveret, kan gendannelse fra en sikkerhedskopi gendanne dine data efter geninstallation
@@ -183,15 +183,15 @@ Opretter appen automatiske sikkerhedskopier?
 
 - Appen beholder **nogle få løbende sikkerhedskopier** på din enhed. Ældre sikkerhedskopier udskiftes, når grænsen for lokal opbevaring nås.
 - Sikkerhedskopier forbliver i **appens private lager** på din enhed.
-- En gyldig lokal backup kan gendanne tidligere hvælvingsposter via **Indstillinger → Gendan lokal sikkerhedskopi**, men kan ikke genskabe permanent slettede vedhæftede filer. Brug Nylig slettet ved almindelige sletninger.
+- En gyldig lokal backup kan gendanne tidligere boksposter via **Indstillinger → Gendan lokal sikkerhedskopi**, men kan ikke genskabe permanent slettede vedhæftede filer. Brug Nylig slettet ved almindelige sletninger.
 
-**Vault Export:** Du kan eksportere en krypteret .tdvault-fil og gemme den i Filer, iCloud Drive, eller dele den via AirDrop/e-mail til opbevaring uden for enheden. Dette anbefales inden større opdateringer eller enhedsskift.
+**Eksport af boksen:** Du kan eksportere en krypteret .tdvault-fil og gemme den i Filer, iCloud Drive, eller dele den via AirDrop/e-mail til opbevaring uden for enheden. Dette anbefales inden større opdateringer eller enhedsskift.
 
 Hvad betyder "Seneste sikkerhedskopi: for 2 timer siden, 12 dokumenter" i Indstillinger?
 
 Den linje viser appens seneste automatiske lokale sikkerhedskopi: hvor lang tid siden den blev gemt, og hvor mange dokumenter den indeholder. Den viser det seneste lokale øjebliksbillede. Tryk på Gendan lokal sikkerhedskopi for at gendanne de gemte poster. Lokale øjebliksbilleder indeholder ikke uafhængige kopier af vedhæftede filer.
 
-Hvordan gendanner jeg mit vault fra en lokal sikkerhedskopi?
+Hvordan gendanner jeg min boks fra en lokal sikkerhedskopi?
 
 Gå til Indstillinger og tryk på Gendan lokal sikkerhedskopi. Appen viser en liste over tilgængelige sikkerhedskopier med tidsstempler. Vælg den du ønsker, og bekræft. For at gendanne fra en .tdvault-fil du har eksporteret, tryk i stedet på Importér sikkerhedskopi og vælg filen. Begge muligheder er gratis for alle. Gendannelse erstatter dine nuværende data med indholdet af sikkerhedskopien.
 
@@ -201,7 +201,7 @@ Hvis appen ikke kan læse det lokale lager, viser den en gendannelsesskærm og b
 
 Hvorfor oprettede appen en sikkerhedskopi inden opdatering?
 
-Inden en større opgradering af dataformatet tager appen automatisk et øjebliksbillede af hvælvingen. Hvis et gyldigt, læsbart øjebliksbillede fra før opgraderingen er tilgængeligt, kan du prøve at gendanne det fra Indstillinger. Processen er automatisk og gratis for alle.
+Inden en større opgradering af dataformatet tager appen automatisk et øjebliksbillede af boksen. Hvis et gyldigt, læsbart øjebliksbillede fra før opgraderingen er tilgængeligt, kan du prøve at gendanne det fra Indstillinger. Processen er automatisk og gratis for alle.
 
 Kan jeg tilpasse påmindelsestidspunkter?
 
@@ -217,7 +217,7 @@ Hvordan vælger jeg flere dokumenter?
 
 Kan jeg fortryde en massesletning?
 
-**Ja – du har to beskyttelsesniveauer.** Efter sletning af dokumenter (enkelt eller masse) vil du se et kort fortrydelsesvindue nederst på skærmen. Tryk på **"Fortryd"** for at gendanne dem øjeblikkeligt. Hvis du misser fortrydelsesvinduet, flyttes slettede dokumenter til **Nylig slettede** i Indstillinger, hvor de bliver i 30 dage, før de bliver slettet permanent. Pro-brugere med cloud backup aktiveret holder elementer i Nylig slettede på ubestemt tid, indtil de trykker på Slet permanent.
+**Ja – du har to beskyttelsesniveauer.** Efter sletning af dokumenter (enkelt eller masse) vil du se et kort fortrydelsesvindue nederst på skærmen. Tryk på **"Fortryd"** for at gendanne dem øjeblikkeligt. Hvis du misser fortrydelsesvinduet, flyttes slettede dokumenter til **Nylig slettede** i Indstillinger, hvor de bliver i 30 dage, før de bliver slettet permanent. Pro-brugere med cloud-backup aktiveret holder elementer i Nylig slettede på ubestemt tid, indtil de trykker på Slet permanent.
 
 Hvad er kontekstmenuen ved langt tryk?
 
@@ -233,13 +233,13 @@ Ja. Når en påmindelse aktiveres, kan du **udsætte** den direkte fra meddelels
 
 Kan jeg farve-kode mine dokumenter?
 
-Alle dokumentkort er automatisk farvekodet. **Grønt** betyder gyldigt, **gult** betyder udløbet nærmer sig, og **rødt** betyder udløbet eller udløber snart. Du kan se status for hele dit vault på et øjeblik uden at åbne et eneste dokument.
+Alle dokumentkort er automatisk farvekodet. **Grønt** betyder gyldigt, **gult** betyder udløbet nærmer sig, og **rødt** betyder udløbet eller udløber snart. Du kan se status for hele din boks på et øjeblik uden at åbne et eneste dokument.
 
 **Pro-brugere** kan gå videre: tilsidesæt farven pr. dokumenttype fra profilindstillingsfanen. Tildel en særegen farve til pas, visa eller en kategori, du ønsker at fremhæve. Dette stables oven på statusfarverne, så du altid ser både kategorien og hastegraden på én gang.
 
 Kan jeg vedhæfte fotos til mine noter?
 
-Ja. Noter og Vouchers understøtter flere billedvedhæftelser. Gratis brugere kan vedhæfte et billede pr. note. **Pro-brugere kan vedhæfte op til 10.** Vedhæft et foto af en bekræftelsesmail, en QR-kode, en bookingbekræftelse eller hvad som helst, der tilføjer kontekst. Hvert billede er krypteret på enheden, lige som resten af dit vault.
+Ja. Noter og Vouchers understøtter flere billedvedhæftelser. Gratis brugere kan vedhæfte et billede pr. note. **Pro-brugere kan vedhæfte op til 10.** Vedhæft et foto af en bekræftelsesmail, en QR-kode, en bookingbekræftelse eller hvad som helst, der tilføjer kontekst. Hvert billede er krypteret på enheden, lige som resten af din boks.
 
 ## Platform og kompatibilitet
 
@@ -251,15 +251,15 @@ Android-versionen vil have funktionsparitet med iOS, herunder krypteret lokal la
 
 Kan jeg overføre mine data fra iPhone til Android (eller omvendt)?
 
-**Ja, ved at bruge krypteret Vault Export.** Eksportér en krypteret .tdvault-fil fra din nuværende enhed (Indstillinger → Eksportér hvælving), overfør den til din nye enhed (via e-mail, cloud-lagring eller direkte overførsel), og brug derefter Indstillinger → Importér sikkerhedskopi til at gendanne dine dokumenter. Det erstatter alt, der allerede ligger på den nye enhed.
+**Ja, med en krypteret eksport af boksen.** Eksportér en krypteret .tdvault-fil fra din nuværende enhed (Indstillinger → Eksportér hvælving), overfør den til din nye enhed (via e-mail, cloud-lagring eller direkte overførsel), og brug derefter Indstillinger → Importér sikkerhedskopi til at gendanne dine dokumenter. Det erstatter alt, der allerede ligger på den nye enhed.
 
-Dette fungerer på tværs af platforme, fordi krypteringsformatet er universelt. Du skal bruge den samme adgangskode, som du brugte, da du eksporterede vault'en. Pro-køb gendannes på samme platform og med samme butikskonto; skift mellem iOS og Android kræver et separat Pro-køb (se "Kan jeg gendanne mit køb på en ny enhed?" nedenfor).
+Dette fungerer på tværs af platforme, fordi krypteringsformatet er universelt. Du skal bruge den samme adgangskode, som du brugte, da du eksporterede boksen. Pro-køb gendannes på samme platform og med samme butikskonto; skift mellem iOS og Android kræver et separat Pro-køb (se "Kan jeg gendanne mit køb på en ny enhed?" nedenfor).
 
 Hvor meget lagerplads bruger appen?
 
-**Lagerforbruget afhænger af antallet af dokumenter og filernes størrelse** samt hvælvingsmetadata, backups og midlertidige filer.
+**Lagerforbruget afhænger af antallet af dokumenter og filernes størrelse** samt boksmetadata, backups og midlertidige filer.
 
-Appen har nogle få automatiske backups af dine hvælvingsdata. Gratisbrugere kan tilføje op til fem dokumenter. Med Pro er der ingen grænse for antallet af dokumenter, men din enheds ledige lagerplads sætter en grænse.
+Appen har nogle få automatiske backups af dine boksdata. Gratisbrugere kan tilføje op til fem dokumenter. Med Pro er der ingen grænse for antallet af dokumenter, men din enheds ledige lagerplads sætter en grænse.
 
 Hvorfor har appen brug for kamera- og fotobiblioteksadgang?
 
@@ -267,7 +267,7 @@ Hvorfor har appen brug for kamera- og fotobiblioteksadgang?
 
 Vi **uploader aldrig** dine fotos nogen steder. Al behandling (inklusive OCR-scanning) sker på din enhed. Du kan stadig tilføje dokumentoplysninger manuelt eller importere en PDF, hvis du afviser kamera- og fototilladelser. Hvis du ved en fejl afviste tilladelser, kan du genaktivere dem i dine enhedsindstillinger → Privatliv → Kamera / Fotos → Travel Document Vault.
 
-## Priser & Køb
+## Priser og køb
 
 Hvad er forskellen mellem Gratis og Pro?
 
@@ -329,7 +329,7 @@ Din gendannelseskode er en 24-tegns adgangskode, der krypterer din skysicherings
 
 Hvordan krypteres min skysicheringskopi?
 
-Dit vault er krypteret fra ende til ende ved hjælp af AES-256-GCM på din enhed.
+Din boks er krypteret fra ende til ende ved hjælp af AES-256-GCM på din enhed.
 
 [Læs hele guiden →](https://traveldocumentvault.com/da/faq/backup-explained/)
 
@@ -339,9 +339,9 @@ Din PIN-kode er et dagligt lås. Face ID er en hurtig genvej til at låse op.
 
 [Læs hele guiden →](https://traveldocumentvault.com/da/faq/recovery-code/)
 
-Hvordan eksporterer og importerer jeg mit vault?
+Hvordan eksporterer og importerer jeg min boks?
 
-Du kan eksportere understøttede hvælvingsposter og tilgængelige vedhæftninger som en krypteret, adgangskodebeskyttet backupfil (.tdvault) fra Indstillinger inden for størrelsesgrænserne. Gem den i Filer, send den til dig selv via e-mail, eller opbevar den på et USB-stik. Importér den i en kompatibel installation af appen via Indstillinger → Importér sikkerhedskopi. Eksport og import overfører understøttede hvælvingsposter og tilgængelige vedhæftninger; enhedens sikkerhedsindstillinger, præferencer og visse interne data kopieres ikke præcist. (Kombineret PDF-eksport af flere dokumenter på én gang er en separat Pro-funktion.) Se guiden til eksport/import for trinvise instruktioner med skærmbilleder.
+Du kan eksportere understøttede boksposter og tilgængelige vedhæftninger som en krypteret, adgangskodebeskyttet backupfil (.tdvault) fra Indstillinger inden for størrelsesgrænserne. Gem den i Filer, send den til dig selv via e-mail, eller opbevar den på et USB-stik. Importér den i en kompatibel installation af appen via Indstillinger → Importér sikkerhedskopi. Eksport og import overfører understøttede boksposter og tilgængelige vedhæftninger; enhedens sikkerhedsindstillinger, præferencer og visse interne data kopieres ikke præcist. (Kombineret PDF-eksport af flere dokumenter på én gang er en separat Pro-funktion.) Se guiden til eksport/import for trinvise instruktioner med skærmbilleder.
 
 [Læs hele guiden →](https://traveldocumentvault.com/da/faq/export-import/)
 
@@ -351,23 +351,13 @@ Stil dig selv ét spørgsmål: er du gæst i dette land, eller er det dit hjem? 
 
 Hvad er familieprofiler?
 
-Med Pro hjælper profiler dig med at organisere hvert familiemedlems dokumenter, fotos og påmindelser i samme hvælving. De har ikke separate adgangslåse. Med cloud-backup slået til synkroniseres profiler til enheder, der er forbundet til samme hvælving i skyen.
+Med Pro hjælper profiler dig med at organisere hvert familiemedlems dokumenter, fotos og påmindelser i samme boks. De har ikke separate adgangslåse. Med cloud-backup slået til synkroniseres profiler til enheder, der er forbundet til samme boks i skyen.
 
 Hvad sker der, når jeg sletter noget?
 
 Slettede elementer går til papirkurven i 30 dage.
 
-## Juridisk & ansvarsfraskrivelser
-
-Er denne app en erstatning for officielle dokumenter?
-
-**Nej.** Travel Document Vault er udelukkende et personligt organiseringsværktøj. Det erstatter ikke officielle dokumenter, verificerer ikke ægthed og garanterer ikke overholdelse af immigrationskrav. Medbring altid dine originale dokumenter, når du rejser, og verificér kravene hos officielle myndighedskilder.
-
-Hvad sker der, hvis jeg overser en deadline på grund af en påmindelsesfejl?
-
-Påmindelser er en bekvemmelighedsfunktion og bør ikke være dit eneste påmindelsessystem. Vi er ikke ansvarlige for oversete deadlines, udløbne dokumenter eller eventuelle konsekvenser som følge af påmindelsesfejl. Se venligst vores [Vilkår for brug](https://traveldocumentvault.com/terms/) for fulde detaljer.
-
-## Skysikkerhedskopiering
+## Cloud-backup
 
 Hvad sker der, hvis jeg sletter et dokument med skysikkerhedskopiering slået til?
 
@@ -375,7 +365,7 @@ Sletning flytter det til Slettet for nylig (papirkurven). Det bliver liggende de
 
 Hvad sker der, hvis jeg sletter alle mine dokumenter?
 
-Appen blokerer nogle uploads af en tom hvælving for at beskytte eksisterende backups; slettede poster og andre hvælvingsdata kan stadig synkroniseres. Gendannelse afhænger af en brugbar, bevaret backup. Du kan gendanne fra den via Indstillinger, Skybakup, Gendann fra sikkerhedskopi.
+Appen blokerer nogle uploads af en tom boks for at beskytte eksisterende backups; slettede poster og andre boksdata kan stadig synkroniseres. Gendannelse afhænger af en brugbar, bevaret backup. Du kan gendanne fra den via Indstillinger, Skybakup, Gendann fra sikkerhedskopi.
 
 Hvordan sætter jeg skysikkerhedskopiering op på en enhed nummer to?
 
@@ -401,6 +391,16 @@ Hvad sker der, hvis jeg mister min gendannelseskode?
 
 Din gendannelseskode låser cloud-backuppens krypteringsnøgle op; konfigurerede enheder beholder den til automatisk backup. Vores design er zero-knowledge, hvilket betyder, at vi hverken kan nulstille, hente eller gendanne den for dig. Det kan Apple og Google heller ikke. Hvis du mister gendannelseskoden og adgang til alle konfigurerede enheder, der beholder den, kan din krypterede cloud-backup ikke gendannes. Læg din gendannelseskode et sikkert sted, før du begynder at stole på skysikkerhedskopiering: en adgangskodemanager, et udskrift et sikkert sted, eller begge dele. Kontrollér, at du faktisk kan læse den, før du gemmer den som eneste kopi.
 
+## Juridisk & ansvarsfraskrivelser
+
+Er denne app en erstatning for officielle dokumenter?
+
+**Nej.** Travel Document Vault er udelukkende et personligt organiseringsværktøj. Det erstatter ikke officielle dokumenter, verificerer ikke ægthed og garanterer ikke overholdelse af immigrationskrav. Medbring altid dine originale dokumenter, når du rejser, og verificér kravene hos officielle myndighedskilder.
+
+Hvad sker der, hvis jeg overser en deadline på grund af en påmindelsesfejl?
+
+Påmindelser er en bekvemmelighedsfunktion og bør ikke være dit eneste påmindelsessystem. Vi er ikke ansvarlige for oversete deadlines, udløbne dokumenter eller eventuelle konsekvenser som følge af påmindelsesfejl. Se venligst vores [Vilkår for brug](https://traveldocumentvault.com/terms/) for fulde detaljer.
+
 [For en fuld sammenligning, se hvorfor familier vælger Travel Document Vault →](https://traveldocumentvault.com/da/why-us/)
 
 ## Har du stadig spørgsmål?
@@ -408,3 +408,11 @@ Din gendannelseskode låser cloud-backuppens krypteringsnøgle op; konfigurerede
 Vi er her for at hjælpe. Kontakt os, og vi vender tilbage hurtigst muligt.
 
 [Kontakt support](mailto:support@traveldocumentvault.com)
+
+## Hent gratis. Intet abonnement.
+
+Opsæt det i aften. Lad appen huske, så du ikke behøver det.
+
+![Hent på App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Hent det på Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

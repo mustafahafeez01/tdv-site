@@ -42,19 +42,19 @@ Définissez une période fixe ou glissante pour chaque pays, avec votre propre l
 
 ## Et bien d'autres choses
 
-#### Drapeau pays + Ville
+### Drapeau pays + Ville
 
 La carte de voyage affiche le drapeau de la destination et la ville. Planifiez d'un seul coup d'œil. Découvrez votre destination.
 
-#### Compte à rebours des jours
+### Compte à rebours des jours
 
 Combien de jours avant votre voyage ? Le compte à rebours s'affiche sur les cartes de voyage. Crée de l'anticipation pour tous.
 
-#### Toujours hors ligne
+### Toujours hors ligne
 
 Fonctionne à 100 % hors ligne. Planifiez à l'aéroport. Aucune connexion Internet requise. Fonctionne en mode avion.
 
-#### Synchronisation cloud optionnelle
+### Synchronisation cloud optionnelle
 
 Pro : synchronisation avec votre propre iCloud ou Google Drive. Accès multi-appareils. Vous détenez la clé.
 

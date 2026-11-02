@@ -64,7 +64,7 @@ Diversi livelli di sicurezza si interpongono tra un tocco accidentale e i dati p
 
 **Reimposta e risincronizza.** Se i dati locali e il backup cloud non sono più sincronizzati, usi Reimposta e risincronizza per caricare una nuova copia del vault.
 
-### ⚠ Il Suo Codice di Ripristino È Critico
+### Il Suo Codice di Ripristino È Critico
 
 Il codice di recupero sblocca le chiavi di crittografia cloud necessarie per ripristinare il backup. Non possiamo reimpostarlo per Lei. Se perde tutte le copie e l’accesso a tutti i dispositivi che possono ancora sbloccare il vault, non possiamo recuperare il backup crittografato.
 
@@ -88,27 +88,27 @@ Lei è responsabile del mantenimento dei Suoi backup di documenti e della sicure
 
 ## Crittografia e recupero
 
-#### AES-256-GCM
+### AES-256-GCM
 
 Crittografia autenticata per i contenuti dei documenti.
 
-#### PBKDF2 600k Iterazioni
+### PBKDF2 600k Iterazioni
 
 Derivazione della chiave computazionalmente intensiva. Questo aumenta il costo dei tentativi di indovinare il codice di recupero.
 
-#### Espansione Chiave HKDF
+### Espansione Chiave HKDF
 
 Chiavi separate per ciascun file di backup; il ripristino crittografa di nuovo i documenti con la chiave del nuovo dispositivo. Un dispositivo autorizzato compromesso o un codice di recupero compromesso possono esporre il vault cloud condiviso.
 
-#### Design Zero-Knowledge
+### Design Zero-Knowledge
 
 Il backup crittografato resta nel Suo account cloud. Non lo riceviamo e non possediamo le chiavi necessarie per leggerne i documenti.
 
-#### Cosa vede Apple
+### Cosa vede Apple
 
 I contenuti dei documenti sono crittografati nel Suo iCloud o Google Drive. I metadati del backup, come nomi dei dispositivi, conteggi e date e orari, non sono crittografati.
 
-#### Perdita del Codice di Ripristino
+### Perdita del Codice di Ripristino
 
 Se perde tutte le copie del codice di recupero e l’accesso a tutti i dispositivi che possono ancora sbloccare il vault, non possiamo decrittografare i backup. Non possediamo le chiavi di crittografia cloud.
 

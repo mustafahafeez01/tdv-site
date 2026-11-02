@@ -8,7 +8,7 @@ Source: https://traveldocumentvault.com/fr/faq/
 
 Axée sur la confidentialité. Sur l’appareil par défaut. Aucun compte requis.
 
-# Questions Fréquemment Posées
+# Questions fréquentes
 
 Tout ce que vous devez savoir sur Travel Document Vault.
 
@@ -16,7 +16,7 @@ Tout ce que vous devez savoir sur Travel Document Vault.
 
 ![L'obtenir sur Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg) Achat unique · Pas d'abonnement Accès rapide : Confidentialité Fonctionnalités Sauvegarde Tarification Dépannage Mentions légales
 
-## Confiance et Transparence
+## Confiance et transparence
 
 Le développeur peut-il voir mes documents ?
 
@@ -36,7 +36,7 @@ Oui. Votre achat couvre chaque mise à jour dans la version majeure actuelle (v1
 
 Que se passe-t-il si je perds mon téléphone ou si je passe à un nouveau ?
 
-Utilisateurs Pro : activez la sauvegarde cloud chiffrée dans Réglages → Sauvegarde cloud. Votre coffre est chiffré sur l’appareil avec votre code de récupération avant d’atteindre iCloud (iOS) ou Google Drive (Android). Sur un appareil pris en charge de la même plateforme, utilisez le même compte cloud. Ouvrez Sauvegarde cloud dans Réglages, choisissez votre sauvegarde et restaurez-la avec votre code de récupération. La restauration remplace le coffre local. Le contenu des documents est chiffré ; le fournisseur cloud peut voir les métadonnées de sauvegarde, comme les nombres d’éléments, les horodatages et les informations sur l’appareil. Nous ne voyons rien. Pour tous : utilisez l’exportation gratuite du coffre (.tdvault) dans Réglages et importez-la sur un autre appareil. Les sauvegardes système (iCloud ou Google) réinstallent l’application mais ne peuvent pas restaurer vos documents : elles ne transfèrent pas la clé de chiffrement liée à l’appareil. Exportez donc avant de changer de téléphone.
+Utilisateurs Pro : activez la sauvegarde cloud chiffrée dans Réglages → Sauvegarde dans le cloud. Votre coffre est chiffré sur l’appareil avec votre code de récupération avant d’atteindre iCloud (iOS) ou Google Drive (Android). Sur un appareil pris en charge de la même plateforme, utilisez le même compte cloud. Ouvrez Sauvegarde dans le cloud dans Réglages, choisissez votre sauvegarde et restaurez-la avec votre code de récupération. La restauration remplace le coffre local. Le contenu des documents est chiffré ; le fournisseur cloud peut voir les métadonnées de sauvegarde, comme les nombres d’éléments, les horodatages et les informations sur l’appareil. Nous ne voyons rien. Pour tous : utilisez l’exportation gratuite du coffre (.tdvault) dans Réglages et importez-la sur un autre appareil. Les sauvegardes système (iCloud ou Google) réinstallent l’application mais ne peuvent pas restaurer vos documents : elles ne transfèrent pas la clé de chiffrement liée à l’appareil. Exportez donc avant de changer de téléphone.
 
 L'application fonctionne-t-elle sans connexion Internet ?
 
@@ -44,7 +44,7 @@ Oui, entièrement. L'application elle-même n'a pas de serveur et n'a pas besoin
 
 Quelles langues l'application supporte-t-elle ?
 
-L'application est disponible en plus de 40 langues, y compris un support complet de droite à gauche pour l'arabe, l'ourdou et le farsi. La langue de votre téléphone est détectée automatiquement et vous pouvez la modifier à tout moment dans Paramètres. Si quelque chose s'affiche mal dans votre langue, nous aimerions vraiment le savoir. Contactez-nous à [support@traveldocumentvault.com](mailto:support@traveldocumentvault.com) et cela influencera directement la feuille de route.
+L'application est disponible en plus de 40 langues, y compris un support complet de droite à gauche pour l'arabe, l'ourdou et le farsi. La langue de votre téléphone est détectée automatiquement et vous pouvez la modifier à tout moment dans Réglages. Si quelque chose s'affiche mal dans votre langue, nous aimerions vraiment le savoir. Contactez-nous à [support@traveldocumentvault.com](mailto:support@traveldocumentvault.com) et cela influencera directement la feuille de route.
 
 Que se passe-t-il si vous cessez de développer l'application ?
 
@@ -56,7 +56,7 @@ Travel Document Vault a été créé par Mustafa Hafeez, développeur logiciel e
 
 Vous souhaitez vérifier ces affirmations par vous-même ? Consultez notre page de [Vérification de la confidentialité](https://traveldocumentvault.com/fr/privacy-verification/) pour des preuves indépendantes et une ventilation complète de chaque permission d'application.
 
-## Confidentialité et Données
+## Confidentialité et données
 
 Où mes données sont-elles stockées ?
 
@@ -68,7 +68,7 @@ L'application n'a pas de base de données cloud. Nous ne voyons pas vos données
 
 Puis-je sauvegarder mes données gratuitement ?
 
-Oui. L'exportation du coffre (fichier **.tdvault**) est gratuite pour tout le monde. Accédez à **Paramètres, Exporter le coffre** et l'application crée un fichier protégé par mot de passe que vous pouvez enregistrer dans Fichiers, iCloud Drive ou partager hors de l'appareil. L'application conserve aussi automatiquement des **sauvegardes locales** sur votre appareil toutes les quelques minutes, sans frais. La sauvegarde cloud sur votre propre iCloud ou Google Drive est l'option Pro. Aucune fonction de sauvegarde ne verrouille vos données.
+Oui. L’exportation du coffre (fichier **.tdvault**) est gratuite pour tout le monde. Accédez à **Réglages, Exporter le coffre** et l'application crée un fichier protégé par mot de passe que vous pouvez enregistrer dans Fichiers, iCloud Drive ou partager hors de l'appareil. L'application conserve aussi automatiquement des **sauvegardes locales** sur votre appareil toutes les quelques minutes, sans frais. La sauvegarde cloud sur votre propre iCloud ou Google Drive est l'option Pro. Aucune fonction de sauvegarde ne verrouille vos données.
 
 Que se passe-t-il si je perds mon téléphone ?
 
@@ -91,9 +91,9 @@ Collectez-vous des données d'analyse ou de suivi ?
 
 Que se passe-t-il quand je supprime l'application ?
 
-Toutes vos données sur ce téléphone sont **supprimées définitivement** lorsque vous désinstallez l'application. Il n’y a aucun moyen de les récupérer par la suite, sauf si vous avez exporté le coffre ou activé la sauvegarde cloud, puisque nous ne stockons rien en externe. **Avant de supprimer :** Exportez vos documents ou créez un fichier .tdvault de sauvegarde depuis les Paramètres pour les enregistrer ailleurs.
+Toutes vos données sur ce téléphone sont **supprimées définitivement** lorsque vous désinstallez l'application. Il n’y a aucun moyen de les récupérer par la suite, sauf si vous avez exporté le coffre ou activé la sauvegarde cloud, puisque nous ne stockons rien en externe. **Avant de supprimer :** Exportez vos documents ou créez un fichier .tdvault de sauvegarde depuis Réglages pour les enregistrer ailleurs.
 
-## Sécurité Supplémentaire
+## Sécurité supplémentaire
 
 Mes images de documents sont-elles chiffrées ?
 
@@ -109,9 +109,9 @@ Puisque vos données n'atteignent jamais nos serveurs, nous n'avons aucun moyen 
 
 Les sauvegardes sont-elles également chiffrées ?
 
-**Oui, les exports sont toujours chiffrés.** L'exportation de coffre (fichier .tdvault) est **chiffrée et protégée par mot de passe** et gratuite pour tous. Les sauvegardes cloud chiffrées de bout en bout vers votre propre iCloud ou Google Drive sont une fonctionnalité Pro, aussi chiffrées.
+**Oui, les exports sont toujours chiffrés.** Le fichier d’exportation du coffre (.tdvault) est **chiffré et protégé par mot de passe** et gratuit pour tous. Les sauvegardes cloud chiffrées de bout en bout vers votre propre iCloud ou Google Drive sont une fonctionnalité Pro, aussi chiffrées.
 
-Une sauvegarde téléphonique système (iCloud Backup / Google Backup) ne restaure pas les données du coffre-fort, car votre clé de chiffrement ne quitte jamais votre appareil original. Pour un changement de téléphone, utilisez l'export gratuit ou Pro Cloud Backup.
+Une sauvegarde téléphonique système (iCloud Backup / Google Backup) ne restaure pas les données du coffre-fort, car votre clé de chiffrement ne quitte jamais votre appareil original. Pour un changement de téléphone, utilisez l’exportation gratuite du coffre ou la sauvegarde cloud de Pro.
 
 Qu'est-ce que « Montrer à une autre personne » ?
 
@@ -130,34 +130,6 @@ Qu'est-ce que l'Effacement automatique ?
 L’Effacement automatique vise à effacer le coffre de ce téléphone après plusieurs tentatives PIN incorrectes. Ne le considérez pas comme une protection garantie. Il est **activé par défaut lorsque vous définissez un PIN.** Désactivez-le dans Réglages → Sécurité si vous préférez conserver vos données après des tentatives échouées. Un effacement local terminé supprime le coffre de ce téléphone ; la récupération nécessite une sauvegarde indépendante utilisable.
 
 **Important :** Créez une sauvegarde d’exportation du coffre avant de vous fier à l’Effacement automatique. De cette façon, si cela se déclenche accidentellement, vous pouvez restaurer à partir de votre sauvegarde. Conservez une sauvegarde indépendante avec le mot de passe ou le code de récupération nécessaire avant de vous fier à l’Effacement automatique.
-
-Comment ma sauvegarde cloud est-elle chiffrée ?
-
-Votre coffre est chiffré de bout en bout en utilisant AES-256-GCM sur votre appareil avant qu'il quitte votre téléphone. Une clé dérivée de votre code de récupération protège la clé de chiffrement du coffre, générée aléatoirement. Apple et Google peuvent voir le fichier chiffré sur leurs serveurs, mais ils ne peuvent pas le déchiffrer. Nous non plus. Votre code de récupération déverrouille la clé de chiffrement cloud ; les appareils configurés conservent l’accès pour la sauvegarde automatique.
-
-[Lire le guide complet →](https://traveldocumentvault.com/fr/faq/backup-explained/)
-
-Comment fonctionnent ensemble le PIN, Face ID et le code de récupération ?
-
-Votre PIN est le verrou quotidien. Face ID est un raccourci rapide pour déverrouiller. Le code de récupération est la clé maître pour quand vous oubliez complètement votre PIN. Si Face ID échoue, essayez votre PIN. Si vous oubliez votre PIN, saisissez votre code de récupération. Si aucune méthode de déverrouillage ne fonctionne, vous devrez peut-être réinitialiser le coffre local, puis restaurer une exportation ou une sauvegarde cloud dont vous avez encore le code de récupération.
-
-Comment exporter et importer mon coffre ?
-
-Vous pouvez exporter les données du coffre prises en charge et les pièces jointes disponibles dans un fichier .tdvault chiffré et protégé par mot de passe depuis Réglages, sous réserve des limites de taille, puis l’importer dans une installation compatible de l’application. L’exportation et l’importation transfèrent les données du coffre prises en charge et les pièces jointes disponibles ; les réglages de sécurité de l’appareil, les préférences et certains états internes ne sont pas copiés à l’identique. Pour obtenir des instructions pas à pas avec des captures d'écran, consultez la procédure d'export-import.
-
-[Lire le guide complet →](https://traveldocumentvault.com/fr/faq/export-import/)
-
-Jours à l'intérieur ou jours à l'extérieur d'un pays : lequel choisir ?
-
-Posez-vous une seule question : êtes-vous un invité dans ce pays, ou est-ce chez vous ? Les invités comptent les jours passés sur place, choisissez donc **Jours à l'intérieur du pays** — c'est le réglage pour une limite de visiteur comme 90 jours. Les résidents comptent les jours passés au loin, choisissez donc **Jours à l'extérieur du pays** — c'est le réglage pour un titre de séjour qui autorise un certain temps à l'étranger. La plupart des gens n'ont besoin que de l'un des deux, et en cas de doute, Jours à l'intérieur du pays est le choix le plus courant.
-
-Qu'est-ce que les profils familiaux ?
-
-Avec Pro, les profils vous aident à organiser les documents, photos et rappels de chaque membre de la famille dans le même coffre. Ils n’ont pas de verrouillage d’accès distinct. Lorsque la sauvegarde cloud est activée, les profils se synchronisent avec les appareils connectés au même coffre cloud.
-
-Que se passe-t-il quand je supprime quelque chose ?
-
-Les éléments supprimés vont à la corbeille pendant 30 jours. Vous pouvez les restaurer à tout moment pendant cette fenêtre. Après 30 jours, ils disparaissent définitivement de votre appareil et des sauvegardes cloud. Vider la corbeille ou réinitialiser votre téléphone aux paramètres d’usine supprime les données locales ; la récupération nécessite une sauvegarde indépendante utilisable.
 
 ## Fonctionnalités
 
@@ -179,7 +151,7 @@ Oui. Les utilisateurs gratuits peuvent partager les documents individuels. Pro a
 
 Comment l'application sauvegarde-t-elle mes données ?
 
-**Gratuit :** Utilisez l'export du coffre (fichier .tdvault chiffré et protégé par mot de passe) depuis les Paramètres pour sauvegarder manuellement votre coffre entier. Vous contrôlez où il est stocké.
+**Gratuit :** Utilisez l’exportation du coffre (fichier .tdvault chiffré et protégé par mot de passe) depuis Réglages pour sauvegarder manuellement votre coffre entier. Vous contrôlez où il est stocké.
 
 **Pro :** Activez la sauvegarde cloud chiffrée vers votre propre iCloud (iOS) ou Google Drive (Android). Votre coffre est chiffré sur appareil avec votre code de récupération avant téléchargement. Nous ne voyons jamais vos données. Le contenu des documents est chiffré ; le fournisseur cloud peut voir les métadonnées de sauvegarde, comme les nombres d’éléments, les horodatages et les informations sur l’appareil. La sauvegarde s’exécute automatiquement lorsque l’application est ouverte et connectée. Restaurez-la avec votre code de récupération sur un appareil pris en charge de la même plateforme, utilisant le même compte cloud. La restauration remplace le coffre local.
 
@@ -204,7 +176,7 @@ Pour activer le verrou d'application, accédez à **Réglages → Sécurité** d
 
 **Important : PIN oublié :** Enregistrez votre code de récupération lorsque vous configurez le verrouillage de l’application. Saisissez-le sur l’écran PIN pour **déverrouiller l’application sans supprimer vos documents**. Pour vous protéger :
 
-- Exportez une sauvegarde chiffrée **avant** d'activer le verrou d'application (Paramètres → Export du Coffre)
+- Exportez une sauvegarde chiffrée **avant** d'activer le verrou d'application (Réglages → Exporter le coffre)
 - Stockez votre code PIN quelque part de sûr (par exemple, le gestionnaire de mots de passe de votre appareil)
 - Activez le **déverrouillage biométrique** (gratuit pour tous les utilisateurs) afin que vous puissiez utiliser Face ID, Touch ID ou l'empreinte digitale au lieu de taper le code PIN
 - Si vous avez des sauvegardes d'appareil (iCloud/Google) activées, la restauration à partir d'une sauvegarde peut récupérer vos données après la réinstallation
@@ -219,15 +191,15 @@ L'application crée-t-elle des sauvegardes automatiques ?
 - Les sauvegardes restent dans le **stockage privé** de l’application sur votre appareil.
 - Une sauvegarde locale valide peut restaurer les données antérieures du coffre depuis **Réglages → Restaurer une sauvegarde locale**, mais ne peut pas recréer les fichiers joints supprimés définitivement. Utilisez Récemment supprimé pour les suppressions ordinaires.
 
-**Vault Export :** Tout utilisateur peut également créer des sauvegardes .tdvault chiffrées manuelles et les enregistrer dans Fichiers, iCloud Drive ou les partager via AirDrop/email pour le stockage hors appareil. Ceci est recommandé avant les mises à jour majeures ou les changements d'appareil. Pro ajoute la sauvegarde cloud automatique vers iCloud ou Google Drive.
+**Exportation du coffre :** Tout utilisateur peut également créer des sauvegardes .tdvault chiffrées manuelles et les enregistrer dans Fichiers, iCloud Drive ou les partager via AirDrop/email pour le stockage hors appareil. Ceci est recommandé avant les mises à jour majeures ou les changements d'appareil. Pro ajoute la sauvegarde cloud automatique vers iCloud ou Google Drive.
 
-Que signifie 'Dernière sauvegarde : il y a 2 heures, 12 documents' dans les Paramètres ?
+Que signifie 'Dernière sauvegarde : il y a 2 heures, 12 documents' dans Réglages ?
 
 Cette ligne indique la date de votre dernière sauvegarde locale automatique et combien de documents elle contient. L'application enregistre automatiquement une sauvegarde locale sur votre appareil **toutes les quelques minutes** pendant que vous l'utilisez. Ces sauvegardes sont conservées sur votre appareil et sont distinctes de la sauvegarde cloud Pro. Cela indique le dernier instantané local. Les instantanés locaux ne contiennent pas de copies indépendantes des fichiers joints. Si vous devez restaurer les données enregistrées, accédez à **Réglages** et choisissez la sauvegarde souhaitée.
 
 Comment restaurer mon coffre depuis une sauvegarde locale ?
 
-Accédez à **Paramètres**, puis faites défiler jusqu'à la section Sauvegarde et restauration. Vous verrez une liste de vos sauvegardes locales disponibles avec la date et le nombre de documents de chacune. Appuyez sur celle que vous souhaitez, confirmez, et l'application remplacera les données actuelles par celles de la sauvegarde. Si vous restaurez depuis un fichier .tdvault exporté manuellement, utilisez plutôt **Réglages puis Importer une sauvegarde** et sélectionnez le fichier.
+Accédez à **Réglages**, puis faites défiler jusqu'à la section Sauvegarde et restauration. Vous verrez une liste de vos sauvegardes locales disponibles avec la date et le nombre de documents de chacune. Appuyez sur celle que vous souhaitez, confirmez, et l'application remplacera les données actuelles par celles de la sauvegarde. Si vous restaurez depuis un fichier .tdvault exporté manuellement, utilisez plutôt **Réglages puis Importer une sauvegarde** et sélectionnez le fichier.
 
 L'application affiche un écran de récupération ou indique que mes données n'ont pas pu être chargées. Que faire ?
 
@@ -251,7 +223,7 @@ Ouvrez le menu à trois points de la liste des documents et appuyez sur **« Sé
 
 Puis-je annuler une suppression en masse ?
 
-**Oui — vous avez deux niveaux de protection.** Après la suppression de documents (simple ou en masse), vous verrez une brève fenêtre d'annulation en bas de l'écran. Appuyez sur **« Annuler »** pour les restaurer immédiatement. Si vous manquez la fenêtre d'annulation, les documents supprimés sont déplacés vers **Récemment supprimés** dans Paramètres, où ils restent pendant 30 jours avant suppression permanente. Les utilisateurs Pro avec sauvegarde cloud activée conservent les éléments dans Récemment supprimés indéfiniment jusqu'à ce qu'ils appuient sur Supprimer définitivement.
+**Oui — vous avez deux niveaux de protection.** Après la suppression de documents (simple ou en masse), vous verrez une brève fenêtre d'annulation en bas de l'écran. Appuyez sur **« Annuler »** pour les restaurer immédiatement. Si vous manquez la fenêtre d'annulation, les documents supprimés sont déplacés vers **Récemment supprimés** dans Réglages, où ils restent pendant 30 jours avant suppression permanente. Les utilisateurs Pro avec sauvegarde cloud activée conservent les éléments dans Récemment supprimés indéfiniment jusqu'à ce qu'ils appuient sur Supprimer définitivement.
 
 Quel est le menu contextuel d'appui long ?
 
@@ -275,7 +247,7 @@ Puis-je joindre des photos à mes notes ?
 
 Oui. Les notes et les bons prennent en charge plusieurs pièces jointes d'image. Les utilisateurs gratuits peuvent joindre une image par note. Les **utilisateurs Pro peuvent en joindre jusqu'à 10.** Joignez une photo d'un e-mail de confirmation, un code QR, une référence de réservation, ou tout ce qui ajoute du contexte. Chaque image est chiffrée sur l'appareil, exactement comme le reste de votre coffre.
 
-## Plateforme et Compatibilité
+## Plateforme et compatibilité
 
 Quand la version Android sera-t-elle disponible ?
 
@@ -285,7 +257,7 @@ Android prend en charge le stockage chiffré sur l’appareil, la numérisation 
 
 Puis-je transférer mes données d'iPhone à Android (ou vice versa) ?
 
-**Oui, en utilisant le Vault Export chiffré.** Exportez une sauvegarde chiffrée de votre appareil actuel (Réglages → Exporter le coffre), transférez-la à votre nouvel appareil (via email, stockage cloud ou transfert direct), puis utilisez Réglages → Importer une sauvegarde pour restaurer vos documents, ce qui remplace les données déjà présentes sur le nouvel appareil.
+**Oui, grâce à l’exportation chiffrée du coffre.** Exportez une sauvegarde chiffrée de votre appareil actuel (Réglages → Exporter le coffre), transférez-la à votre nouvel appareil (via email, stockage cloud ou transfert direct), puis utilisez Réglages → Importer une sauvegarde pour restaurer vos documents, ce qui remplace les données déjà présentes sur le nouvel appareil.
 
 Cela fonctionne entre les plateformes car le format de chiffrement est universel. Vous devrez utiliser le même mot de passe que celui utilisé lors de l'export du coffre. Les achats Pro se restaurent sur la même plateforme avec le même compte de boutique ; passer d’iOS à Android ou inversement nécessite un achat Pro distinct (voir « Puis-je restaurer mon achat sur un nouvel appareil ? » ci-dessous).
 
@@ -301,7 +273,7 @@ Pourquoi l'application a-t-elle besoin d'accès à la caméra et à la photothè
 
 Nous ne téléchargeons **jamais** vos photos nulle part. Tout le traitement (y compris l'analyse OCR) se fait sur votre appareil. Vous pouvez toujours saisir les informations d’un document manuellement ou importer un PDF si vous refusez les autorisations de caméra et de photos. Si vous avez accidentellement refusé les autorisations, vous pouvez les réactiver dans les paramètres de votre appareil → Confidentialité → Caméra / Photos → Travel Document Vault.
 
-## Tarification et Achats
+## Tarification et achats
 
 Quelle est la différence entre Gratuit et Pro ?
 
@@ -355,15 +327,35 @@ L'application a planté. Ai-je perdu mes données ?
 
 Probablement pas. Vos données sont enregistrées automatiquement lorsque vous ajoutez ou modifiez des documents. Une panne ne devrait pas causer de perte de données. Rouvrez l'application et vérifiez vos documents. Si vous voyez des problèmes, veuillez nous contacter à support@traveldocumentvault.com.
 
-## Mentions Légales et Avis de Non-Responsabilité
+## Configuration et récupération
 
-Cette application remplace-t-elle les documents officiels ?
+Comment ma sauvegarde cloud est-elle chiffrée ?
 
-**Non.** Travel Document Vault est un outil d'organisation personnelle uniquement. Il ne remplace pas les documents officiels, ne vérifie pas l'authenticité et ne garantit pas la conformité avec aucune exigence d'immigration. Apportez toujours vos documents originaux lors de voyages et vérifiez les exigences auprès des sources gouvernementales officielles.
+Votre coffre est chiffré de bout en bout en utilisant AES-256-GCM sur votre appareil avant qu'il quitte votre téléphone. Une clé dérivée de votre code de récupération protège la clé de chiffrement du coffre, générée aléatoirement. Apple et Google peuvent voir le fichier chiffré sur leurs serveurs, mais ils ne peuvent pas le déchiffrer. Nous non plus. Votre code de récupération déverrouille la clé de chiffrement cloud ; les appareils configurés conservent l’accès pour la sauvegarde automatique.
 
-Que se passe-t-il si je manque une date limite à cause d'une défaillance du rappel ?
+[Lire le guide complet →](https://traveldocumentvault.com/fr/faq/backup-explained/)
 
-Les rappels sont une fonction de commodité et ne doivent pas être votre seul système de rappel. Nous ne sommes pas responsables des dates limites manquées, des documents expirés ou de toute conséquence résultant des défaillances de rappel. Veuillez consulter nos [Conditions d'utilisation](https://traveldocumentvault.com/terms/) pour les détails complets.
+Comment fonctionnent ensemble le PIN, Face ID et le code de récupération ?
+
+Votre PIN est le verrou quotidien. Face ID est un raccourci rapide pour déverrouiller. Le code de récupération est la clé maître pour quand vous oubliez complètement votre PIN. Si Face ID échoue, essayez votre PIN. Si vous oubliez votre PIN, saisissez votre code de récupération. Si aucune méthode de déverrouillage ne fonctionne, vous devrez peut-être réinitialiser le coffre local, puis restaurer une exportation ou une sauvegarde cloud dont vous avez encore le code de récupération.
+
+Comment exporter et importer mon coffre ?
+
+Vous pouvez exporter les données du coffre prises en charge et les pièces jointes disponibles dans un fichier .tdvault chiffré et protégé par mot de passe depuis Réglages, sous réserve des limites de taille, puis l’importer dans une installation compatible de l’application. L’exportation et l’importation transfèrent les données du coffre prises en charge et les pièces jointes disponibles ; les réglages de sécurité de l’appareil, les préférences et certains états internes ne sont pas copiés à l’identique. Pour obtenir des instructions pas à pas avec des captures d'écran, consultez la procédure d'export-import.
+
+[Lire le guide complet →](https://traveldocumentvault.com/fr/faq/export-import/)
+
+Jours à l'intérieur ou jours à l'extérieur d'un pays : lequel choisir ?
+
+Posez-vous une seule question : êtes-vous un invité dans ce pays, ou est-ce chez vous ? Les invités comptent les jours passés sur place, choisissez donc **Jours à l'intérieur du pays** — c'est le réglage pour une limite de visiteur comme 90 jours. Les résidents comptent les jours passés au loin, choisissez donc **Jours à l'extérieur du pays** — c'est le réglage pour un titre de séjour qui autorise un certain temps à l'étranger. La plupart des gens n'ont besoin que de l'un des deux, et en cas de doute, Jours à l'intérieur du pays est le choix le plus courant.
+
+Qu'est-ce que les profils familiaux ?
+
+Avec Pro, les profils vous aident à organiser les documents, photos et rappels de chaque membre de la famille dans le même coffre. Ils n’ont pas de verrouillage d’accès distinct. Lorsque la sauvegarde cloud est activée, les profils se synchronisent avec les appareils connectés au même coffre cloud.
+
+Que se passe-t-il quand je supprime quelque chose ?
+
+Sans sauvegarde cloud, les éléments supprimés vont à la corbeille pendant 30 jours, puis disparaissent définitivement de votre appareil. Vous pouvez les restaurer à tout moment pendant ces 30 jours. Avec la sauvegarde cloud activée, les éléments restent dans Supprimés récemment **indéfiniment**, jusqu’à ce que vous touchiez Supprimer définitivement. Consultez la section Sauvegarde cloud ci-dessous pour en savoir plus. Vider la corbeille ou réinitialiser votre téléphone aux paramètres d’usine supprime les données locales ; la récupération nécessite une sauvegarde indépendante utilisable.
 
 ## Sauvegarde cloud
 
@@ -381,7 +373,7 @@ Quand vous activez la sauvegarde cloud sur un nouvel appareil connecté au même
 
 Puis-je utiliser la sauvegarde cloud sur plusieurs appareils à la fois ?
 
-Oui, avec Synchroniser entre appareils activé dans Réglages → Sauvegarde cloud. Les appareils de la même plateforme vérifient les changements lorsque l’application est ouverte et connectée. Certains changements fusionnent automatiquement ; certains conflits proposent un choix de versions, mais le texte des notes n’est pas affiché dans la comparaison. Pour passer à un nouvel appareil, restaurez-y votre sauvegarde.
+Oui, avec Synchroniser entre appareils activé dans Réglages → Sauvegarde dans le cloud. Les appareils de la même plateforme vérifient les changements lorsque l’application est ouverte et connectée. Certains changements fusionnent automatiquement ; certains conflits proposent un choix de versions, mais le texte des notes n’est pas affiché dans la comparaison. Pour passer à un nouvel appareil, restaurez-y votre sauvegarde.
 
 Et si j'active la sauvegarde cloud hors ligne ?
 
@@ -399,10 +391,28 @@ Que se passe-t-il si je perds mon code de récupération ?
 
 Votre code de récupération déverrouille la clé de chiffrement de votre sauvegarde cloud ; les appareils configurés la conservent pour la sauvegarde automatique. Notre conception est à connaissance nulle, ce qui signifie que nous ne pouvons ni le réinitialiser, ni le retrouver, ni le récupérer pour vous. Apple et Google non plus. Si vous perdez le code de récupération et l’accès à tous les appareils configurés qui conservent cette clé, votre sauvegarde cloud chiffrée devient irrécupérable. Mettez votre code en lieu sûr avant de dépendre de la sauvegarde cloud : un gestionnaire de mots de passe, une copie imprimée dans un endroit sécurisé, ou les deux. Vérifiez que vous arrivez à le relire avant d'en faire votre seule copie.
 
+## Mentions légales et avertissements
+
+Cette application remplace-t-elle les documents officiels ?
+
+**Non.** Travel Document Vault est un outil d'organisation personnelle uniquement. Il ne remplace pas les documents officiels, ne vérifie pas l'authenticité et ne garantit pas la conformité avec aucune exigence d'immigration. Apportez toujours vos documents originaux lors de voyages et vérifiez les exigences auprès des sources gouvernementales officielles.
+
+Que se passe-t-il si je manque une date limite à cause d'une défaillance du rappel ?
+
+Les rappels sont une fonction de commodité et ne doivent pas être votre seul système de rappel. Nous ne sommes pas responsables des dates limites manquées, des documents expirés ou de toute conséquence résultant des défaillances de rappel. Veuillez consulter nos [Conditions d'utilisation](https://traveldocumentvault.com/terms/) pour les détails complets.
+
 [Pour une comparaison complète, voir pourquoi les familles choisissent Travel Document Vault →](https://traveldocumentvault.com/fr/why-us/)
 
 ## Vous avez encore des questions ?
 
 Nous sommes là pour aider. Contactez-nous et nous vous répondrons dès que possible.
 
-[Contacter le Support](mailto:support@traveldocumentvault.com)
+[Contacter le support](mailto:support@traveldocumentvault.com)
+
+## Téléchargez Gratuitement. Aucun Abonnement.
+
+Configurez-le ce soir. Laissez l'application se souvenir pour que vous n'ayez pas à le faire.
+
+![Télécharger sur l'App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Disponible sur Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

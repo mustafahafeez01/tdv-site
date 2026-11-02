@@ -84,8 +84,6 @@ Source: https://traveldocumentvault.com/ko/blog/best-passport-organizer-app/
 
 ## Travel Document Vault가 이것에 접근하는 방법
 
-**Travel Document Vault**는 앱 계정 없이 문서를 기기에 AES-256으로 암호화하여 저장합니다. 저장된 문서와 여권 및 비자 만료 알림은 오프라인에서도 이용할 수 있습니다. 사본을 공유하거나 내보낼 수 있으며, Pro로 자신의 iCloud 또는 Google Drive에 암호화된 클라우드 백업을 만들 수 있습니다. Pro에서는 온 가족을 추가할 수 있습니다. 앱은 무료로 다운로드할 수 있으며, Pro는 [구독 없는 일회성 인앱 구매](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)입니다.
-
 ## 다운로드하기 전에 실용적인 체크리스트
 
 여권 보관 앱을 평가할 때, 이 9가지 질문을 스스로에게 물어봅니다:

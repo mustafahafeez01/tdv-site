@@ -83,8 +83,6 @@ As cópias de passaporte contêm informações sensíveis de identidade: o seu n
 
 Se só corrigir um hábito, troque o PDF enviado por email ou a foto no rolo da câmara por uma aplicação encriptada, já que essa cópia casual é a que mais facilmente acaba em mãos erradas se o telemóvel ou a caixa de correio forem comprometidos.
 
-**Travel Document Vault** armazena cópias encriptadas de todos os seus documentos de viagem no dispositivo. Encriptado com AES-256 no seu telemóvel, sem conta obrigatória. Cópia de segurança encriptada opcional para o seu próprio iCloud ou Google Drive (Pro) selada com um código de recuperação apenas você possui. [Disponível na App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 Se está a questionar se o armazenamento em nuvem é seguro para cópias de passaporte, consulte o nosso guia sobre [armazenar passaportes no Google Photos](https://traveldocumentvault.com/pt/blog/is-it-safe-to-store-passport-in-google-photos/). Explica por que uma aplicação encriptada dedicada oferece proteção mais forte.
 
 Se ainda não fez uma, digitalize hoje a página da fotografia do seu passaporte, antes de estar diante de um balcão de check-in ou de uma embaixada a precisar dela.

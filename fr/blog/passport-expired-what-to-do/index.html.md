@@ -34,8 +34,6 @@ L'urgence de la situation détermine la marche à suivre :
 
 Toutes les grandes autorités de délivrance de passeports conservent des créneaux de rendez-vous d'urgence qui ne sont pas visibles en ligne. Si votre calendrier est serré, nous appellerions toujours plutôt que de nous fier au seul site Web.
 
-**Réglez le rappel maintenant** pour que cela ne se reproduise plus — Travel Document Vault commence à vous prévenir dès huit mois avant l'expiration de chaque passeport de votre ménage, puis à nouveau à l'approche de la date. [Téléchargez sur l'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 ## Scénario B : Vous l'Avez Découvert à l'Aéroport
 
 Ce scénario se produit plus souvent que les gens ne le pensent, et les étapes ne sont pas évidentes quand vous êtes sous pression.
@@ -141,6 +139,10 @@ Oui. Un passeport qui n'a pas expiré peut toujours être refusé s'il est endom
 ### Quelle est la règle des six mois de validité du passeport ?
 
 De nombreux pays exigent que votre passeport reste valide pendant au moins six mois au-delà de votre date d'arrivée prévue. Si votre passeport expire avant cela — même s'il est techniquement toujours valide — vous pouvez être refusé à l'embarquement ou à l'entrée. Tous les pays n'appliquent pas cette règle et le seuil varie. Vérifiez les exigences d'entrée pour votre destination spécifique avant de voyager.
+
+### Peut-on renouveler un passeport périmé ?
+
+En général, oui. Au Royaume-Uni, GOV.UK indique que vous devez le renouveler avant de voyager si votre passeport est expiré, et vous pouvez le faire en ligne ou sur un formulaire papier, en joignant votre ancien passeport comme pièce justificative. Aux États-Unis et au Canada, cela dépend aussi de la date de délivrance du passeport et de l'âge que vous aviez alors.
 
 ## Articles Connexes
 

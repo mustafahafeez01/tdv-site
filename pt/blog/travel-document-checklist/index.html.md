@@ -95,21 +95,19 @@ Mantenha estes na sua mala de cabine sempre — não coloque em bagagem de porã
 
 Antes de sair de casa, fotografe cada documento e guarde-o numa aplicação encriptada — não no seu rolo de câmara. Se a sua mala for perdida ou roubada, vai querer o seu número de passaporte, número de apólice de seguro e referências de reserva em algum lugar onde ainda possa aceder num consulado ou esquadra de polícia. Uma cópia de segurança digital segura poupa horas quando está a tentar obter ajuda.
 
-**Travel Document Vault** guarda cópias encriptadas dos seus documentos de viagem. Digitalize cada um e confirme ou introduza a data de validade para receber lembretes automáticos. Pro permite guardar mais de cinco documentos e organizá-los por membro da família. [Descarregar na App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 ## Como a Sua Lista de Documentos Muda Consoante o Tipo de Viagem
 
 Diferentes viagens precisam de diferentes conjuntos de documentos, como mostra a tabela abaixo para viagens a solo, em família e de negócios.
 
 | Documento | Solo | Família | Negócios | Notas |
 |---|---|---|---|---|
-| Passaporte | ✅ | ✅ cada membro | ✅ | Verificar validade contra o destino, não apenas a data de expiração |
-| Visto (se necessário) | ✅ | ✅ cada membro | ✅ corporativo | Negócios: confirme que o visto está no passaporte correcto |
-| Seguro de viagem | ✅ | ✅ todos cobertos | ✅ verifique se o empregador cobre | Confirme cobertura antes de cada viagem, não apenas na compra |
-| Confirmações de reserva | ✅ | ✅ | ✅ | Cópia offline (não confie no acesso a email nas fronteiras) |
-| Carta de consentimento de criança | N/A | ✅ se aplicável | N/A | Necessária em muitos países se um progenitor está ausente |
-| Certidões de nascimento | N/A | ✅ se necessário | N/A | Alguns países exigem para crianças menores de 18 |
-| Carta de autorização de trabalho | N/A | N/A | ✅ se necessário | Alguns destinos exigem cartas de empregador para viajantes de negócios |
+| Passaporte | | cada membro | | Verificar validade contra o destino, não apenas a data de expiração |
+| Visto (se necessário) | | cada membro | corporativo | Negócios: confirme que o visto está no passaporte correcto |
+| Seguro de viagem | | todos cobertos | verifique se o empregador cobre | Confirme cobertura antes de cada viagem, não apenas na compra |
+| Confirmações de reserva | | | | Cópia offline (não confie no acesso a email nas fronteiras) |
+| Carta de consentimento de criança | N/A | se aplicável | N/A | Necessária em muitos países se um progenitor está ausente |
+| Certidões de nascimento | N/A | se necessário | N/A | Alguns países exigem para crianças menores de 18 |
+| Carta de autorização de trabalho | N/A | N/A | se necessário | Alguns destinos exigem cartas de empregador para viajantes de negócios |
 
 Se já tem uma viagem reservada, a única coisa que vale a pena fazer hoje é pegar em todos os passaportes envolvidos e confirmar a data de validade face ao requisito do destino, e não apenas face às datas da viagem.
 

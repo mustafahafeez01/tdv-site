@@ -84,13 +84,13 @@ Installa l’app sul nuovo telefono e accedi allo stesso account iCloud o Google
 
 L'app controlla anche prima di scrivere. Se il backup cloud rileva un backup già esistente in quell'account, ti chiede di scegliere tra ripristinarlo e ricominciare da zero. Un telefono nuovo non può sovrascrivere silenziosamente ciò che è già presente.
 
-### Passare da iPhone ad Android (e Viceversa) Significa Usare l'Esportazione Vault
+### Passare da iPhone ad Android (e Viceversa) Significa Usare l’Esportazione del Caveau
 
 Il backup cloud resta su un'unica piattaforma, perché usa il tuo iCloud personale sui dispositivi Apple e il tuo Google Drive personale su Android. Per passare dall'uno all'altro serve l'altra strada.
 
-Usa l'Esportazione Vault. Impostazioni, Esporta Vault produce un unico file protetto da password che contiene tutto, e scegli tu dove farlo finire: l'app File, un drive, un'email a te stesso. Sul nuovo telefono, Impostazioni, Importa Vault lo rilegge. Funziona in entrambe le direzioni e mantiene nomi, date, promemoria, colori, note e allegati come erano.
+Usa l’esportazione del caveau. Impostazioni, Esporta vault produce un unico file protetto da password che contiene tutto, e scegli tu dove farlo finire: l'app File, un drive, un'email a te stesso. Sul nuovo telefono, Impostazioni, Importa backup lo rilegge. Funziona in entrambe le direzioni e mantiene nomi, date, promemoria, colori, note e allegati come erano.
 
-L’esportazione del vault è gratuita. In Impostazioni, Esporta vault crea un file protetto da password con profili, documenti, viaggi, impostazioni supportate e allegati leggibili. Scegli dove salvarlo: l’app File, un drive o un’email a te stesso. Sul nuovo telefono, Impostazioni, Importa backup lo rilegge e sostituisce i dati già presenti. Supporta entrambe le piattaforme. Controlla documenti, note e allegati importati, ricontrolla i promemoria e conserva il file esportato originale. Le notifiche vengono ricreate sul dispositivo di destinazione.
+L’esportazione del caveau è gratuita. In Impostazioni, Esporta vault crea un file protetto da password con profili, documenti, viaggi, impostazioni supportate e allegati leggibili. Scegli dove salvarlo: l’app File, un drive o un’email a te stesso. Sul nuovo telefono, Impostazioni, Importa backup lo rilegge e sostituisce i dati già presenti. Supporta entrambe le piattaforme. Controlla documenti, note e allegati importati, ricontrolla i promemoria e conserva il file esportato originale. Le notifiche vengono ricreate sul dispositivo di destinazione.
 
 ## Una Routine di Backup Che Sopravvive a un Telefono Perso
 
@@ -128,7 +128,7 @@ Sì, con Pro. Installa l’app sul nuovo telefono e accedi allo stesso account i
 
 ### Il backup funziona tra iPhone e Android?
 
-Il backup cloud resta su un’unica piattaforma: il tuo iCloud su iPhone e iPad o il tuo Google Drive su Android. Per passare da una all’altra, usa l’esportazione gratuita del vault. In Impostazioni, Esporta vault crea un file .tdvault protetto da password che puoi inviarti. Sul nuovo telefono, Impostazioni, Importa backup lo rilegge e sostituisce i dati già presenti. L’importazione supporta entrambe le piattaforme. Controlla documenti, note e allegati importati, ricontrolla i promemoria e conserva il file esportato originale. Le notifiche vengono ricreate sul dispositivo di destinazione.
+Il backup cloud resta su un’unica piattaforma: il tuo iCloud su iPhone e iPad o il tuo Google Drive su Android. Per passare da una all’altra, usa l’esportazione gratuita del caveau. In Impostazioni, Esporta vault crea un file .tdvault protetto da password che puoi inviarti. Sul nuovo telefono, Impostazioni, Importa backup lo rilegge e sostituisce i dati già presenti. L’importazione supporta entrambe le piattaforme. Controlla documenti, note e allegati importati, ricontrolla i promemoria e conserva il file esportato originale. Le notifiche vengono ricreate sul dispositivo di destinazione.
 
 ### Cosa viene salvato nel backup e cosa resta sul dispositivo?
 

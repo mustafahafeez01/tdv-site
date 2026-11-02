@@ -64,8 +64,6 @@ Ce dont vous aurez généralement besoin (confirmez avec votre ambassade avant d
 - Preuve de voyage ultérieur — réservation de vol, confirmation d'hôtel
 - Frais de document d'urgence — ayez à la fois du liquide et une carte disponibles
 
-**Travel Document Vault** conserve une copie chiffrée de votre passeport sur votre téléphone — accessible sans Internet, sans connexion. L’image chiffrée de la page d’identité de votre passeport constitue la copie numérique mentionnée dans cette liste. [Télécharger sur l'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 ## Étape 5 — Notifiez votre assureur voyage
 
 Signalez la perte à votre assureur voyage dès que possible. La plupart des polices complètes couvrent les frais de remplacement du passeport, les frais de passeport d'urgence, et parfois les frais de logement supplémentaires si vous êtes retardé. Conservez tous les reçus — vous en aurez besoin pour la réclamation, ainsi que le numéro de référence du rapport de police.

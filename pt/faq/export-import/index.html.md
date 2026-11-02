@@ -6,7 +6,7 @@ Source: https://traveldocumentvault.com/pt/faq/export-import/
 
 ---
 
-A exportação e importação do cofre são gratuitas para todos. Exporte os dados suportados do cofre como ficheiro encriptado e protegido por palavra-passe (.tdvault), dentro do limite de tamanho. Importe-o noutro dispositivo iOS ou Android suportado seguindo os passos abaixo.
+A exportação e a importação do cofre são gratuitas para todos. Exporte os dados suportados do cofre como ficheiro encriptado e protegido por palavra-passe (.tdvault), dentro do limite de tamanho. Importe-o noutro dispositivo iOS ou Android suportado seguindo os passos abaixo.
 
 ## Por que exportar e importar?
 
@@ -75,7 +75,7 @@ Após a importação, verifique o separador Família para confirmar que todos os
 
 ## Pronto para exportar o seu cofre?
 
-A Exportação e Importação do Cofre são gratuitas para todos. Pro adiciona cópia de segurança na nuvem, perfis ilimitados, exportação PDF combinada e muito mais. Compra única, sem subscrição.
+A exportação e a importação do cofre são gratuitas para todos. Pro adiciona cópia de segurança na nuvem, perfis ilimitados, exportação PDF combinada e muito mais. Compra única, sem subscrição.
 
 ![Descarregue na App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 

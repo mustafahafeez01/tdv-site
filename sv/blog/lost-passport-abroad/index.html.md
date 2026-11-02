@@ -64,8 +64,6 @@ Vad du vanligtvis behöver (bekräfta med din ambassad innan du besöker den):
 - Bevis på fortsatt resa – flygbokning, hotellbekräftelse
 - Avgift för nödhandlingen – ha både kontanter och kort tillgängligt
 
-**Travel Document Vault** sparar en krypterad kopia av passet på telefonen – tillgänglig utan internet, utan inloggning. Den krypterade bilden av passets datasida är den digitala kopian på listan ovan. [Ladda ner från App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 ## Steg 5: Meddela ditt reseförsäkringsbolag
 
 Anmäl förlusten till ditt reseförsäkringsbolag så snart som möjligt. De flesta fullständiga försäkringar täcker kostnaden för ett nytt pass, avgifter för nödpass och ibland extra boendekostnader om du blir försenad. Spara alla kvitton – du behöver dem för anspråket, tillsammans med polisanmälans ärendenummer.

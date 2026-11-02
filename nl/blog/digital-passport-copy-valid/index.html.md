@@ -83,8 +83,6 @@ Paspoortkopieën bevatten gevoelige identiteitsinformatie, waaronder je volledig
 
 Als je maar één gewoonte aanpast: vervang de gemailde pdf of de foto in je fotorol door een versleutelde app. Juist die losse kopie komt het eerst in verkeerde handen als je telefoon of inbox ooit wordt gecompromitteerd.
 
-**Travel Document Vault** bewaart versleutelde kopieën van al je reisdocumenten op het toestel. AES-256-versleuteld op je telefoon, geen account vereist. Optioneel een versleutelde back-up naar je eigen iCloud of Google Drive (Pro-functie), verzegeld met een herstelcode die alleen jij hebt. [Beschikbaar in de App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 Vraag je je af of cloudopslag veilig is voor paspoortkopieën, bekijk dan onze gids over [het bewaren van paspoorten in Google Foto's](https://traveldocumentvault.com/nl/blog/is-it-safe-to-store-passport-in-google-photos/). Die legt uit waarom een speciale versleutelde app sterkere bescherming biedt. Voor een vergelijking naast elkaar van iCloud, Google Foto's en versleutelde apps, lees [de veiligste manier om een paspoort digitaal te bewaren](https://traveldocumentvault.com/nl/blog/safest-way-to-store-passport-digitally/).
 
 Heb je er nog geen gemaakt, scan dan vandaag de fotopagina van je paspoort, voordat je aan een incheckbalie of ambassadeloket staat en hem nodig hebt.

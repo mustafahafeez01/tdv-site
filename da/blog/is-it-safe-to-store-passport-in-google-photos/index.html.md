@@ -71,7 +71,7 @@ Sig, at dit Google-kodeord blev genbrugt på en side, der led et databrud for to
 |---|---|---|---|---|
 | Google Fotos | Googles cloud-servere | Under overførsel + i hvile (Google-styrede nøgler) | Moderat | Acceptabelt med stærk 2FA |
 | iCloud-fotos | Apples cloud-servere | Under overførsel + i hvile (Apple-styrede nøgler) | Moderat | Acceptabelt med stærk 2FA |
-| Krypteret kodeordshåndtering (1Password, Bitwarden) | Cloud (zero-knowledge) | End-to-end; udbyderen kan ikke læse indholdet | Lav | Godt valg |
+| Krypteret kodeordshåndtering (1Password, Bitwarden) | Cloud (zero-knowledge-kryptering) | End-to-end; udbyderen kan ikke læse indholdet | Lav | Godt valg |
 | Krypteret app på enheden (valgfri egen cloud-backup) | Din telefon; valgfri krypteret backup til din egen sky (Pro) | Krypteret på enheden; valgfri krypteret kopi i din egen sky (Pro) | Lavest | Bedst til følsomme dokumenter |
 | Kamerarulle / ukrypteret mappe | Din enhed | Kun enhedskryptering | Højere | Anbefales ikke |
 
@@ -84,10 +84,6 @@ Apples Avanceret databeskyttelse (tilgængelig fra iOS 16.2) hæver barren – n
 Den samme risiko for kontokompromittering gælder begge platforme. Et svagt Apple-ID-kodeord er lige så farligt som et svagt Google-kodeord. Ingen af dem er specifikt designet til at opbevare identitetsdokumenter med høj følsomhed.
 
 Er du iPhone-bruger, er det værd at slå **Avanceret databeskyttelse i iCloud** til. En app bygget specifikt til formålet uden cloud-upload forbliver den stærkeste løsning til pasopbevaring, uanset hvilken platform du bruger.
-
-**Travel Document Vault** gemmer dine passcanninger på enheden med stærk kryptering. Ingen konto påkrævet. Med Pro kan du tage backup af en krypteret kopi til din egen iCloud eller Google Drive. Opbevar din gendannelseskode sikkert: du skal bruge den til at gendanne denne backup. [Hent den i App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
-![Diagram over, hvad et pasfoto afslører – navn, fødselsdato, pasnummer og foto – sammen med tre risici, kompromitteret konto, tredjepartsadgang og dataindeksering, og tre sikrere muligheder: iCloud med ADP, en krypteret app eller en offline kopi](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/passport-data-risks-da.jpg) Ét foto, fire datapunkter og tre mere trygge steder at opbevare dem.
 
 ## Hvad er de sikrere alternativer?
 

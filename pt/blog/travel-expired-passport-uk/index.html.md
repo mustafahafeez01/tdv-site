@@ -90,8 +90,6 @@ Isto aplica-se quer o seu passaporte tenha expirado antes de sair do Reino Unido
 
 [Se o seu passaporte já expirou e está à procura do que fazer a seguir, o nosso artigo complementar cobre isso passo a passo](https://traveldocumentvault.com/pt/blog/passport-expired-what-to-do/). Se tem uma viagem em breve e o seu passaporte está a aproximar-se da expiração, este é o momento para renovar em vez de esperar até expirar, o que significa pagar pelo serviço Premium em vez da taxa padrão. Verifique os passaportes da sua família agora antes de marcar qualquer viagem.
 
-**Coloque lembretes de expiração meses em avanço, não semanas.** [Travel Document Vault acompanha a validade do seu passaporte e envia lembretes a partir de oito meses antes por predefinição, e novamente à medida que o fim da validade se aproxima](https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/). Adicione todos os passaportes da família com Pro. Use os lembretes para ajudar a planear as renovações.
-
 ## Se Já Está no Estrangeiro e o Seu Passaporte Expira
 
 Este é o cenário genuinamente difícil. Se está a viajar e o seu passaporte expira antes de regressar, não pode embarcar num voo ou ferry para casa. Precisará contactar a embaixada ou consulado britânico mais próximo para um documento de viagem de emergência — por vezes chamado ETD ou passaporte de emergência — que é válido apenas para ir para casa.
@@ -133,6 +131,10 @@ Não, mas ainda assim não pode viajar com ele. Um passaporte danificado pode se
 ### Posso renovar um passaporte do Reino Unido que já expirou?
 
 Sim. O GOV.UK indica um passaporte expirado como motivo para renovar antes de viajar, por isso a maioria das pessoas usa o serviço de renovação normal para adultos. A exceção é um passaporte emitido antes de 1 de janeiro de 1994, o que significa pedir um primeiro passaporte de adulto em vez disso. O seu novo passaporte terá um número diferente, por isso atualize quaisquer reservas feitas com o antigo.
+
+### Pode reservar férias com um passaporte expirado?
+
+Sim, nada o impede de reservar, porque ninguém verifica o passaporte no momento da compra. No entanto, tem de estar válido no dia em que viaja e o GOV.UK aconselha a não reservar antes de ter o novo passaporte, porque este não terá o mesmo número do antigo.
 
 ## Artigos Relacionados
 

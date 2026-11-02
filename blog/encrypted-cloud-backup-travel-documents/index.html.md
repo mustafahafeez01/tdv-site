@@ -84,11 +84,11 @@ Install the app on the new phone and sign in to the same iCloud or Google accoun
 
 The app also checks before it writes. If cloud backup detects an existing backup in that account, it prompts you to choose between restoring and starting fresh. A new phone cannot quietly overwrite what's already there.
 
-### Moving Between iPhone and Android Means Using Vault Export
+### Moving Between iPhone and Android Means Exporting Your Vault
 
 Cloud backup stays on one platform, because it uses your own iCloud on Apple devices and your own Google Drive on Android. Going from one to the other needs the other route.
 
-Vault Export is free. In Settings, Export vault creates one password-protected file with profiles, documents, trips, supported settings and readable attachments. You choose where to save it: the Files app, a drive or an email to yourself. On the new phone, Settings, Import backup reads it back, replacing whatever is already there. It supports both platforms. Review imported documents, notes and attachments, recheck reminders and keep the original export. Notifications are rebuilt on the receiving device.
+Exporting your vault is free. In Settings, Export vault creates one password-protected file with profiles, documents, trips, supported settings and readable attachments. You choose where to save it: the Files app, a drive or an email to yourself. On the new phone, Settings, Import backup reads it back, replacing whatever is already there. It supports both platforms. Review imported documents, notes and attachments, recheck reminders and keep the original export. Notifications are rebuilt on the receiving device.
 
 That exported file is also the answer for anyone who wants a copy that doesn't depend on a cloud account at all. It's a sensible thing to keep on a drive at home regardless of which phone you carry.
 
@@ -128,7 +128,7 @@ Yes, with Pro. Install the app on the new phone and sign in to the same iCloud o
 
 ### Does the backup work between iPhone and Android?
 
-Cloud backup stays on one platform: your own iCloud on iPhone and iPad, or your own Google Drive on Android. To move between them, use free Vault Export. In Settings, Export vault creates a password-protected .tdvault file that you can send to yourself. On the new phone, Settings, Import backup reads it back and replaces the data already there. Import supports both platforms. Review imported documents, notes and attachments, recheck reminders and keep the original export. Notifications are rebuilt on the receiving device.
+Cloud backup stays on one platform: your own iCloud on iPhone and iPad, or your own Google Drive on Android. To move between them, use the free vault export. In Settings, Export vault creates a password-protected .tdvault file that you can send to yourself. On the new phone, Settings, Import backup reads it back and replaces the data already there. Import supports both platforms. Review imported documents, notes and attachments, recheck reminders and keep the original export. Notifications are rebuilt on the receiving device.
 
 ### What is stored in the backup and what stays on the device?
 

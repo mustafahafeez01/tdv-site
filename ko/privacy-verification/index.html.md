@@ -8,21 +8,21 @@ Source: https://traveldocumentvault.com/ko/privacy-verification/
 
 ## 우리의 개인정보 보호 주장
 
-### 추적기 없음
+### 광고 추적기 없음
 
-앱 내 분석 SDK, 광고 라이브러리, 추적 픽셀이 없습니다.
+앱 안에 광고 네트워크, 행동 분석, 추적 픽셀이 없습니다. 선택적 크래시 보고는 별도 기능이며, 직접 켜지 않는 한 꺼져 있습니다.
 
-### 아웃바운드 데이터 수집 없음
+### 문서 데이터 수집 없음
 
-앱은 기본적으로 아웃바운드 연결을 하지 않습니다. 완전히 오프라인으로 작동합니다. 유일한 네트워크 사용은 선택적 Pro 클라우드 백업이며, 이는 자신의 iCloud 또는 Google Drive로 동기화되며 우리 서버로는 절대 동기화되지 않습니다.
+문서, 스캔, 만료일, 보관함 내용은 Travel Document Vault로 전송되지 않습니다. 일반적인 문서 저장과 알림은 완전히 오프라인으로 작동합니다.
 
 ### 기본적으로 기기 내 저장
 
-모든 문서, 스캔 및 데이터는 기기에 유지됩니다. TDV 클라우드, TDV 서버, TDV 백엔드가 없습니다. Pro 사용자는 선택적으로 암호화된 저장소를 자신의 iCloud 또는 Google Drive 계정으로 백업할 수 있으며, 복구 키는 본인만 보유합니다.
+문서는 기본적으로 사용자의 기기에 저장됩니다. Travel Document Vault 클라우드 계정, 문서 서버, 백엔드 데이터베이스는 존재하지 않습니다.
 
 ### AES-256-GCM 암호화
 
-모든 문서는 기기 저장소에 저장되기 전에 암호화됩니다.
+앱은 문서 데이터를 로컬 앱 저장소에 저장하기 전에 암호화합니다. Pro 사용자는 선택적으로 암호화된 보관함 파일을 자신의 iCloud 또는 Google Drive 계정에 백업할 수 있으며, 복구 키는 본인만 보유합니다.
 
 ## 확인
 
@@ -165,3 +165,11 @@ Google Play 결제 라이브러리(Pro 업그레이드 구매용) 및 Play 설�
 **위치** - GPS 없음, 지오펜싱 없음, 추적 없음 **연락처** - 주소록 액세스 없음 **Bluetooth** - 로컬 네트워크 또는 기기 스캔 없음 **캘린더** - 알림은 기기 내에서 처리되며, 캘린더를 통해서가 아닙니다
 
 아직 질문이 있으신가요? 전체 [개인정보 보호 정책](https://traveldocumentvault.com/privacy-policy/)을 읽거나 [FAQ](https://traveldocumentvault.com/ko/faq/)를 확인하세요.
+
+## 무료 다운로드. 구독 없음.
+
+오늘 밤 설정합니다. 앱이 기억하도록 하여 당신은 할 필요가 없습니다.
+
+![App Store에서 다운로드](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Google Play에서 가져오기](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

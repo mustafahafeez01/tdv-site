@@ -72,7 +72,7 @@ Lokal auf Ihrem Gerät geplant. Ich kenne Ihre Ablaufdaten nicht.
 
 Kein Travel Document Vault-Server speichert Ihre Dokumente. Es gibt nichts zu finden.
 
-[Lesen Sie die Geschichte des Gründers: Warum ich eine App gebaut habe, um eine Sorge weniger im Kopf zu tragen →](https://traveldocumentvault.com/de/blog/)
+[Lesen Sie die Geschichte des Gründers: Warum ich eine App gebaut habe, um eine Sorge weniger im Kopf zu tragen →](https://traveldocumentvault.com/de/blog/why-i-built-travel-document-vault/)
 
 ## Bereit, wenn Sie sie brauchen
 
@@ -80,31 +80,25 @@ Kein Travel Document Vault-Server speichert Ihre Dokumente. Es gibt nichts zu fi
 - **Formulare ausfüllen:** Passnummern, Ausweisdetails, Versicherungsinformationen. Immer bei Ihnen.
 - **Visumanträge:** Exportieren Sie Dokumentbilder als PDFs zum Drucken oder Teilen. Überprüfen und passen Sie Bilder vor dem Export an.
 
+Mit Pro
+
 ## Reisen planen, Kontingente nachverfolgung, mit Ihrer Cloud synchronisieren
 
 Gebaut für Familien, die überall reisen.
 
 ### Alle Bereit, Auf Einen Blick
 
-Pro
-
 Ampel der Familienbereitschaft. Sehen Sie, welche verknüpften Dokumente anhand Ihrer gespeicherten Reisedaten Aufmerksamkeit brauchen.
 
 ### Ihre Cloud. Ihr Schlüssel.
-
-Pro
 
 Verschlüsselte Sicherung in Ihrer iCloud oder Google Drive. Sie halten den Wiederherstellungscode. Wir sehen ihn nie.
 
 ### Tage im Ausland Nachverfolgung
 
-Pro
-
 Erfassen Sie Tage, die Ihre Familie in jedem Land verbringt. Vergleichen Sie Ihre gespeicherten Reisetage mit den Tageslimits, die Sie für die Länder eingeben.
 
 ### Unbegrenzte Familienprofile
-
-Pro
 
 Fügen Sie für jedes Familienmitglied ein Profil hinzu. Die kostenlose Version enthält 1 Profil. Pro ergänzt unbegrenzte Familienprofile.
 
@@ -193,16 +187,18 @@ Bester Wert
 
 ### Pro
 
-Einmalkauf
+$9.99 einmalig
 
 Für Ihre ganze Familie. Bezahlen Sie einmal. Alle v1.x-Updates für immer enthalten.
+
+USD. Der Preis für Ihr Land wird lokal festgelegt, statt aus Dollar umgerechnet, und der App Store oder Google Play zeigt ihn Ihnen, bevor Sie bezahlen.
 
 [Über unsere Versionierungsrichtlinie →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
 - Reiseplaner mit Ampel der Familienbereitschaft
-- Your Own Cloud-Sicherung (iCloud oder Google Drive, Ende-zu-Ende-verschlüsselt)
+- Cloud-Sicherung (iCloud oder Google Drive, Ende-zu-Ende-verschlüsselt)
 - Tracker für Tage im Ausland für Steuertage und Visa-Limits
-- Reisezuschüsse - Zollfrei, Gepäck, Währung
+- Limits für Aufenthaltstage pro Land und Familienmitglied
 - Jedes Familienmitglied, ein Tresor
 - **Unbegrenzt** Dokumente
 - Vollständiges Familien-Ablauf-Dashboard
@@ -215,7 +211,7 @@ Für Ihre ganze Familie. Bezahlen Sie einmal. Alle v1.x-Updates für immer entha
 
 Alles, was Sie für Einzelreisen brauchen
 
-Kostenlos
+$0
 
 - Pässe, Visa, Ausweise & mehr
 - Dokumente scannen und erkannte Ablaufdaten bestätigen
@@ -234,7 +230,11 @@ Für Familien
 
 Entsperren Sie den vollen Tresor für Ihre Familie
 
-Einmalkauf einmalig Für Ihre ganze Familie. Bezahlen Sie einmal. Alle v1.x-Updates für immer enthalten.
+$9.99 einmalig
+
+USD. Der Preis für Ihr Land wird lokal festgelegt, statt aus Dollar umgerechnet, und der App Store oder Google Play zeigt ihn Ihnen, bevor Sie bezahlen.
+
+Für Ihre ganze Familie. Bezahlen Sie einmal. Alle v1.x-Updates für immer enthalten.
 
 [Über unsere Versionierungsrichtlinie →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -243,7 +243,7 @@ Alles in Free, Plus:
 - Reiseplaner mit Ampel der Familienbereitschaft
 - Ihre Cloud-Sicherung (iCloud oder Google Drive, durchgehend verschlüsselt)
 - Tracker für Tage im Ausland für Steuertage und Visalimits
-- Reisezuschüsse - Zollfrei, Gepäck, Währung
+- Limits für Aufenthaltstage pro Land und Familienmitglied
 - Jedes Familienmitglied, ein Tresor
 - **Unbegrenzt** Dokumente
 - Vollständiges Familien-Ablauf-Dashboard
@@ -258,7 +258,7 @@ Stellen Sie Käufe jederzeit mit dem App Store- oder Google Play-Konto wieder he
 
 ## Häufig gestellte Fragen
 
-Ist es wirklich privat? Ja. Alles wird 100% auf Ihrem Gerät gespeichert. Wir haben keinen Zugriff auf Ihre Dokumente und es gibt keine Cloud-Datenbank. Verlassen Sie sich nicht nur auf unser Wort – [überprüfen Sie es selbst](https://traveldocumentvault.com/de/privacy-verification/). Was ist, wenn ich mein Telefon verliere? Ihr Tresor wird auf Ihrem Gerät gespeichert. Wenn Sie Telefone wechseln, stellen Sie mithilfe Ihrer üblichen Telefonsicherung wieder her. Kann ich zwischen Geräten synchronisieren? Ja. Mit Pro aktivieren Sie die Your Own Cloud-Sicherung, um Ihren verschlüsselten Tresor mit Ihrer iCloud oder Google Drive zu synchronisieren. Sie halten den Wiederherstellungscode. Wir greifen nie auf Ihre Daten zu. Was ist der Reiseplaner? Der Reiseplaner (Pro) gruppiert Familiendokumente nach Reise und zeigt eine Bereitschaftsampel – grün, wenn die eingerichteten Dokumentprüfungen bestanden sind, gelb, wenn ein verknüpftes Dokument geprüft werden muss. Planen Sie Reisen gemeinsam mit Zuversicht. [Siehe alle Datenschutz- und Datenantworten](https://traveldocumentvault.com/de/faq/)
+Ist es wirklich privat? Ja. Alles wird 100% auf Ihrem Gerät gespeichert. Wir haben keinen Zugriff auf Ihre Dokumente und es gibt keine Cloud-Datenbank. Verlassen Sie sich nicht nur auf unser Wort – [überprüfen Sie es selbst](https://traveldocumentvault.com/de/privacy-verification/). Was ist, wenn ich mein Telefon verliere? Ihr Tresor wird auf Ihrem Gerät gespeichert. Wenn Sie Telefone wechseln, stellen Sie mithilfe Ihrer üblichen Telefonsicherung wieder her. Kann ich zwischen Geräten synchronisieren? Ja. Mit Pro aktivieren Sie die Cloud-Sicherung, um Ihren verschlüsselten Tresor mit Ihrer iCloud oder Ihrem Google Drive zu synchronisieren. Den Wiederherstellungscode haben nur Sie. Wir greifen nie auf Ihre Daten zu. Was ist der Reiseplaner? Der Reiseplaner (Pro) gruppiert Familiendokumente nach Reise und zeigt eine Bereitschaftsampel – grün, wenn die eingerichteten Dokumentprüfungen bestanden sind, gelb, wenn ein verknüpftes Dokument geprüft werden muss. Planen Sie Reisen gemeinsam mit Zuversicht. [Siehe alle Datenschutz- und Datenantworten](https://traveldocumentvault.com/de/faq/)
 
 **Wichtig:** Travel Document Vault ist ein persönliches Organisationswerkzeug zum Speichern digitaler Kopien Ihrer Dokumente. **Digitale Kopien, die in dieser App gespeichert sind, sind NICHT für Reisen gültig.** Es verifiziert nicht die Authentizität von Dokumenten oder bietet keine rechtliche oder Reiseberatung. Führen Sie immer Originaldokumente mit und überprüfen Sie alle Reiseanforderungen bei offiziellen Regierungsquellen.
 

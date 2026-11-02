@@ -18,9 +18,9 @@ Le fichier exporté est chiffré avec la même sécurité que votre coffre-fort 
 
 1
 
-### Ouvrir les paramètres et accéder à l'exportation
+### Ouvrir Réglages et accéder à l'exportation
 
-Lancez Travel Document Vault et appuyez sur l'icône Paramètres (symbole d'engrenage) en bas de l'écran. Faites défiler jusqu'à la section Sauvegarde et données. Appuyez sur Exporter le coffre.
+Lancez Travel Document Vault et appuyez sur l'icône Réglages (symbole d'engrenage) en bas de l'écran. Faites défiler jusqu'à la section Sauvegarde et données. Appuyez sur Exporter le coffre.
 
 2
 
@@ -48,9 +48,9 @@ Si vous importez sur un appareil différent, rendez le fichier exporté accessib
 
 6
 
-### Sur l'appareil cible, ouvrez les paramètres et appuyez sur Importer une sauvegarde
+### Sur l'appareil cible, ouvrez Réglages et appuyez sur Importer une sauvegarde
 
-Lancez Travel Document Vault sur l'appareil où vous souhaitez importer. Allez dans les paramètres, faites défiler jusqu'à Sauvegarde et données, et appuyez sur Importer une sauvegarde. L'application vous demande de sélectionner le fichier de sauvegarde exporté (.tdvault).
+Lancez Travel Document Vault sur l'appareil où vous souhaitez importer. Allez dans Réglages, faites défiler jusqu'à Sauvegarde et données, et appuyez sur Importer une sauvegarde. L'application vous demande de sélectionner le fichier de sauvegarde exporté (.tdvault).
 
 7
 
@@ -62,7 +62,7 @@ Accédez à l’emplacement où vous avez enregistré le fichier du coffre expor
 
 ### Vérifier que toutes les données sont présentes
 
-Après l'importation, vérifiez l’onglet Famille pour confirmer que tous les profils apparaissent. Ouvrez quelques documents pour vérifier que les pièces jointes sont intactes. Le processus d'importation remplace toutes les données existantes sur cet appareil.
+Après l'importation, vérifiez la section Profils pour confirmer que tous les profils apparaissent. Ouvrez quelques documents pour vérifier que les pièces jointes sont intactes. Le processus d'importation remplace toutes les données existantes sur cet appareil.
 
 ### Remarques importantes
 
@@ -73,9 +73,9 @@ Après l'importation, vérifiez l’onglet Famille pour confirmer que tous les p
 
 **Avertissement :** L'exportation-importation est conçue pour la portabilité des données. Conservez les fichiers exportés en sécurité. Ne partagez pas la sauvegarde exportée avec quiconque, car elle contient tous vos documents et pièces jointes chiffrés.
 
-## Prêt à exporter votre coffre-fort?
+## Prêt à exporter votre coffre-fort ?
 
-L'exportation et l'importation de coffre-fort sont gratuites pour tous. Pro ajoute la sauvegarde cloud, les profils illimités, l'exportation PDF combinée, et plus. Achat unique, pas d'abonnement.
+L’exportation et l’importation du coffre sont gratuites pour tous. Pro ajoute la sauvegarde cloud, les profils illimités, l'exportation PDF combinée, et plus. Achat unique, pas d'abonnement.
 
 ![Télécharger sur l'App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 

@@ -66,8 +66,6 @@ This table is a snapshot, not the full picture: requirements vary by your nation
 
 Passport validity requirements by country change without notice, and a bilateral agreement can quietly shift the rules for your specific passport, which is why checking an up-to-date official source before every international trip isn't paranoia, it's just good practice: use the IATA Travel Centre, the same system airlines use to check passenger documents in real time.
 
-With Pro, **Travel Document Vault** checks linked passports against a default 180-day buffer after your saved trip ends, unless you set a custom validity buffer. Check your destination’s actual rule separately. [Download on the App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) and [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog).
-
 ## When the 6-Month Rule Does Not Apply
 
 Plenty of destinations ask for nothing beyond the dates of your trip. The UK Foreign Office puts it plainly for Japan: your passport must be valid for the length of your stay, and no additional period of validity is required. Australia and the United States use the same standard, asking only that your passport stays valid for the length of your planned stay.

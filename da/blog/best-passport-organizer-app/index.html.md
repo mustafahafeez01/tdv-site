@@ -84,8 +84,6 @@ En app med engangskøb forbliver derimod fuldt funktionsdygtig på ubestemt tid.
 
 ## Sådan griber Travel Document Vault det an
 
-**Travel Document Vault** gemmer dine dokumenter på din enhed med AES-256-kryptering uden en appkonto. Gemte dokumenter og påmindelser om pas- og visumudløb er tilgængelige offline. Du kan dele eller eksportere kopier eller bruge krypteret cloud-backup til din egen iCloud eller Google Drive med Pro. Pro lader dig også tilføje hele familien. Appen kan hentes gratis i [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) og [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog); Pro er et engangskøb i appen uden abonnement.
-
 ## En praktisk tjekliste, før du downloader
 
 Når du vurderer en app til opbevaring af pas, så stil dig selv disse ni spørgsmål:

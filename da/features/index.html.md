@@ -6,81 +6,85 @@ Source: https://traveldocumentvault.com/da/features/
 
 ---
 
-Privatlivsfokuseret. På enheden som standard. Ingen konti.
+Privatliv først. På enheden som standard. Ingen konti.
 
 # Hold styr på det hele. Glem intet.
 
-Du kan gemme pas, visa, kørekort, nationale ID-kort, rejseforsikringsdokumenter og andre rejsedokumenter. Med Pro understøtter appen flere profiler, så du kan administrere hele familiens dokumenter ét sted.
+Alle dine rejsedokumenter er krypteret på din telefon og klar, når du har brug for dem.
 
 ![Hent på App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 
-![Hent det på Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg) Betal én gang. Alle v1.x-opdateringer inkluderet for evigt.
+![Hent det på Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg) Betal én gang. Alle v1.x-opdateringer er inkluderet for altid.
 
 [Om vores versionspolitik →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
+Du kan gemme pas, visa, kørekort, nationale ID-kort, rejseforsikringsdokumenter og alle andre rejsedokumenter. Med Pro understøtter appen flere profiler, så du kan administrere hele familiens dokumenter ét sted.
+
+Til rejser og rejsedage
+
 ## Planlæg rejser og hold styr på dagsgrænser
 
-Med Pro kan du planlægge rejser sammen, holde styr på opholdsgrænser og kende dine visumgrænser.
+Med Pro kan du planlægge rejser sammen med familien, holde styr på opholdsgrænser og kende dine visumgrænser.
+
+### Alle klar med ét blik
 
 Pro
 
-### Alle Klar, Med Ét Blik
+Saml alle familiens dokumenter efter rejse. Trafiklysstatus viser med ét blik, hvilke tilknyttede dokumenter der kræver opmærksomhed i forhold til dine gemte rejsedatoer. Opdag problemerne uger i forvejen - ikke i lufthavnen.
 
-Gruppér dokumenter efter rejse. Se familieberedness med trafiklygt på et øjeblik. Identificer problemer uger før, ikke på lufthavnen.
-
-Pro
-
-### Din Sky. Din Nøgle.
-
-Valgfri krypteret backup (Pro) til din personlige iCloud eller Google Drive. Gendan med din gendannelseskode. Slå synkronisering til for at bruge samme hvælving på understøttede enheder på samme platform.
+### Din sky. Din nøgle.
 
 Pro
 
-### Spor Dage Uden for Landet
+Valgfri krypteret backup (Pro) til din personlige iCloud eller Google Drive. Gendan med din gendannelseskode. Slå synkronisering til for at bruge den samme boks på understøttede enheder på samme platform. Se [det britiske ICO's databeskyttelsesprincipper](https://ico.org.uk/for-organisations/the-soa/accountability/data-protection-impact-assessments/) for god praksis med backup.
 
-Med Pro kan du holde styr på dage tilbragt i hvert land pr. rejse og familiemedlem. Sammenlign dine gemte rejsedage med de dagsgrænser, du angiver for landet. Bekræft regler på [IATA Travel Centre](https://www.iatatravelcentre.com/) for din destination.
-
-Pro
-
-### Rejsegodtgørelser
-
-Med Pro kan du definere egne dagsgrænser pr. land og familiemedlem. Angiv dine egne grænser for at holde styr på, hvor mange dage dine gemte rejser omfatter, med et fast eller rullende optællingsvindue.
+### Hold styr på dage i udlandet
 
 Pro
 
-### Rejse PDF-eksport
+Med Pro kan du holde styr på dage tilbragt i hvert land, pr. rejse og pr. familiemedlem. Sammenlign dine gemte rejsedage med de dagsgrænser, du angiver for landet. Tjek reglerne for din destination hos [IATA Travel Centre](https://www.iatatravelcentre.com/).
 
-Med Pro kan du eksportere enhver rejse som én samlet PDF: cover, deltagers pas, itinerarium, aktiviteter og dokumenter i orden. Eksporter ser professionelle ud og er klar til at dele med flyselskaber, ambassader eller familie.
+### Egne opholdsregler
 
 Pro
 
-### Gate Klar
+Med Pro kan du definere egne dagsgrænser pr. land og pr. familiemedlem. Sæt dine egne mål for at se, hvor mange dage dine gemte rejser dækker, med et fast eller rullende optællingsvindue.
 
-Med Pro kan du vedhæfte flynumre, hotelbekræftelser og bookingreferencer til enhver rejse. Dokumenter og bookinger på ét sted – tryk en gang under indcheckning. Intet at lede efter.
+### PDF-eksport af rejser
+
+Pro
+
+Med Pro kan du eksportere enhver rejse som én samlet PDF: forside, deltagernes pas, rejseplan, aktiviteter og dokumenter i rækkefølge. Eksporterne er rene og uden branding, klar til at dele med flyselskaber, ambassader eller familien.
+
+### Klar ved gaten
+
+Pro
+
+Med Pro kan du tilføje flynumre, hotelbekræftelser og bookingreferencer til enhver rejse. Dokumenter og bookinger ét sted - ét tryk ved check-in. Intet at lede efter ved gaten.
 
 Dokumenthåndtering
 
-## Optag alt
+## Gem det hele
 
 ### Pas
 
-Tag ét billede af det åbne pas. MRZ-scanning aflæser den maskinlæsbare zone for at udfylde udløbsdato og udstedelsesland, når det er muligt. Bekræft resultaterne, eller indtast dem manuelt. Tekstgenkendelse foregår på din enhed.
+Tag ét billede af det åbne pasopslag. MRZ-scanning aflæser den maskinlæsbare zone og udfylder udløbsdato og udstedelsesland, når det er muligt. Bekræft resultaterne, eller indtast dem manuelt. Tekstgenkendelsen kører på din enhed.
 
 ### Krypteret opbevaring
 
-Dokumenter krypteres på disken med AES-256-GCM. Filer er ulæselige uden dine dekrypteringsnøgler – selv hvis nogen får fysisk adgang til din enhed.
+Dokumenter krypteres på disken med AES-256-GCM. Filerne kan ikke læses uden dine dekrypteringsnøgler - heller ikke hvis nogen får fysisk adgang til din enhed.
 
 ### ID-kort og kørekort
 
-For- og bagside i ét dokument. Perfekt til kørekort, nationale id-kort og arbejdskort.
+For- og bagside i ét dokument. Perfekt til kørekort, nationale ID-kort og adgangskort til arbejdet.
 
 ### Forsikrings- og sundhedskort
 
-Gem sundhedsforsikringskort, rejseforsikringspolicer og gentagne recepter med udløbspåmindelser. Påmindelser starter som standard tre måneder før udløb.
+Gem sundhedskort, rejseforsikringspolicer og faste recepter med udløbspåmindelser. Påmindelserne starter som standard tre måneder før udløb.
 
 ### Visa og dokumenter
 
-Specialiseret A5/halvsidesunderstøttelse til visumstempel og klistermærker. Fuld A4-understøttelse til e-visa, rejseforsikringer og store dokumenter. Understøtter flersidede filer med Pro.
+Særlig A5/halvsidestøtte til visumstempler og -mærkater. Fuld A4-støtte til e-visa, rejseforsikringspolicer og store dokumenter. Flersidede filer understøttes med Pro.
 
 ### Flybilletter
 
@@ -88,111 +92,107 @@ Gem boardingkort og e-billetter med hyppige nedtællingspåmindelser.
 
 ### Fleksibel import
 
-Importer eksisterende PDF-filer eller billeder fra dit fotobibliotek. Eksisterende scanninger importeres problemfrit.
+Importer eksisterende PDF-filer eller billeder fra dit fotobibliotek. Åbn dine gemte scanninger uden at scanne igen.
 
-### Rediger Gemte Dokumenter
+### Rediger gemte dokumenter
 
-Fortrød du efter at have gemt? Åbn ethvert dokument i redigeringstilstand for at tilføje nye fotos, fjerne gamle, eller beskære og rotere. Din boks forbliver præcis uden at starte forfra.
+Fortrudt efter du har gemt? Åbn et dokument i redigeringstilstand for at tilføje nye billeder, fjerne gamle eller beskære og rotere. Din boks forbliver præcis, uden at du skal starte forfra.
 
 ### Søg og filtrer
 
-Find ethvert dokument øjeblikkeligt efter navn eller type. Filtrer efter person, dokumenttype eller udløbsstatus.
+Find ethvert dokument med det samme efter navn eller type. Filtrer efter person, dokumenttype eller udløbsstatus.
 
-### Dokumentnoter
+### Dokumentnoter og vedhæftninger
 
-Pro
-
-Tilføj private noter til ethvert dokument. Gem ekstra oplysninger, instruktioner eller påmindelser, der ikke passer i standardfelterne.
+Tilføj private noter, og vedhæft billeder til ethvert dokument. Gem ekstra oplysninger, instruktioner eller billeder, der ikke passer ind i standardfelterne.
 
 ### Del nemt
 
-Pro
-
-Hvert dokument har en indbygget del-knap. Eksporter som PDF, eller del den originale fil (foto eller importeret dokument) via e-mail, besked eller en hvilken som helst app.
+Hvert dokument har en indbygget del-knap. Eksporter som PDF, eller del den originale fil via e-mail, beskeder eller en hvilken som helst app.
 
 ### Gavekort og entrébilletter
 
-Pro
+Gem gavekort, rabatkoder, eventbilletter og adgangskort til seværdigheder. Få udløbspåmindelser, så gavekortene ikke går til spilde.
 
-Gem gavekort, rabatkoder, eventbilletter og attraktionspas. Få udløbspåmindelser, så gavekort ikke spildes. Importer flersidet PDF-filer med Pro.
-
-### Udsæt Påmindelser
+### Udsæt påmindelser
 
 Sæt enhver udløbspåmindelse på pause uden at redigere dokumentet. Flyt en valgt påmindelse til om en time, om tre timer, i morgen eller næste uge.
 
-### Farvekod Dokumenter
+### Farvekod dokumenter
 
-Med Pro kan du tildele en farve til enhver dokumenttype eller individuelt dokument for øjeblikkelig visuel genkendelse. Tilsidesæt farver pr. profil, så hele familiens vault er let at navigere på et øjekast.
+Med Pro kan du give enhver dokumenttype eller ethvert enkelt dokument en farve, så du genkender det med det samme. Tilsidesæt farver pr. profil, så hele familiens boks er nem at overskue med ét blik.
 
-### Eksport, sikkerhedskopi og gendannelse
+### Eksport, backup og gendannelse
 
-PRO
+Pro
 
-Vault Export og Import er gratis for alle. Pro tilføjer kombinerede PDF-filer og krypteret cloud-backup til din egen iCloud eller Google Drive. Gendan cloud-backups med din gendannelseskode på en kompatibel enhed på samme platform med samme skykonto.
+Eksport og import af boksen er gratis for alle. Pro tilføjer samlede PDF-filer og krypteret cloud-backup til din egen iCloud eller Google Drive. Gendan cloud-backups med din gendannelseskode på en kompatibel enhed på samme platform med den samme cloud-konto.
 
 Smart scanning
 
-## Præcisionsskanning
+## Præcis scanning
 
 ### Præcisionshjælp
 
-Skærmvejledninger hjælper dig med at justere dine dokumenter præcist. Forskellige skabeloner til forskellige dokumenttyper:
+Guides på skærmen hjælper dig med at placere dine dokumenter præcist. Forskellige skabeloner til forskellige dokumenttyper:
 
-- **Pas**: med midterlinjedeler til åbne opslag
-- **ID-kort**: kreditkortstørrelses ramme
-- **Visa/tilladelse**: A5/halvsidesguide til stempel og klistermærker
+- **Pas**: med midterlinje til åbne opslag
+- **ID-kort**: ramme i kreditkortstørrelse
+- **Visum/tilladelse**: A5/halvsideguide til stempler og mærkater
 - **Hel side**: A4-guide til e-visa, forsikring og billetter
 
 ### Finjuster hver scanning
 
-Finjuster dine optagelser med indbyggede redigeringsværktøjer:
+Finjuster dine billeder med de indbyggede redigeringsværktøjer:
 
-- **Roter**: 90° trin
-- **Zoomeksempel**: knib for at kontrollere klarheden
-- **Opløsningsadvarsler**: hvis billedet er for lille
-- **Justerbar beskæringsramme**: juster med visuelle vejledninger
+- **Roter**: i trin på 90°
+- **Zoomvisning**: knib for at tjekke skarpheden
+- **Advarsler om opløsning**: hvis billedet er for lille
+- **Justerbar beskæringsramme**: ret ind efter de visuelle guides
 
 Smarte påmindelser
 
-## Hold dig foran tidsfrister
+## Kom tidsfristerne i forkøbet
 
-Påmindelser starter automatisk efter dokumenttypen. Pas starter **8 måneder før udløb** og fortsætter med 6 måneder, 3 måneder, 6 uger, 1 måned, 2 uger og 1 uge med flere påmindelser på udløbsdagen og bagefter. Visa, nationale ID-kort og rejseforsikring starter **3 måneder før**. Flybilletter, hotelbookinger og gavekort starter en uge før. Pro-brugere kan vælge et andet starttidspunkt for hvert dokument.
+Påmindelserne starter af sig selv, tilpasset dokumenttypen. For pas begynder de **8 måneder** før udløb og trapper derefter ned over 6 måneder, 3 måneder, 6 uger, 1 måned, 2 uger og 1 uge, med flere påmindelser på udløbsdagen og bagefter. Visa, nationale ID-kort og rejseforsikring starter **3 måneder før**. Flybilletter, hotelbookinger og gavekort starter en uge før. Pro-brugere kan vælge et andet starttidspunkt for ethvert dokument.
 
-#### Paspåmindelser
+### Paspåmindelser
 
 8 måneder 6 måneder 3 måneder 6 uger 1 måned 2 uger 1 uge Udløb +1 dag +1 uge
 
-#### Visumpåmindelser
+### Visumpåmindelser
 
 3 måneder 6 uger 1 måned 2 uger 1 uge Udløbsdag +1 dag +1 uge
 
-#### Flybilletpåmindelser
+### Flybilletpåmindelser
 
 1 uge 2 dage 1 dag 24 timer
 
-**Påmindelser efter udløb** (vist i orange) hjælper dig med at holde styr på udløbne dokumenter. Selv hvis du gik glip af udløbsdatoen, vil du stadig modtage påmindelser om fornyelse, så de er perfekte til at opdage dokumenter, der udløber, mens du rejser.
+**Påmindelser efter udløb** (vist efter udløbsdatoen) hjælper dig med at holde styr på udløbne dokumenter. Selv hvis du har overset udløbsdatoen, får du stadig påmindelser om at forny, så de er særligt nyttige til at opfange dokumenter, der udløber, mens du er ude at rejse.
+
+**Udsæt udløbspåmindelser** direkte fra notifikationen eller inde i appen. Vælg 1 time, 3 timer, i morgen eller næste uge, så planlægger appen den igen automatisk.
 
 Familieprofiler
 
-## Alle på ét sted
+## Alle ét sted
 
 ### Separate profiler
 
-Med Pro kan du oprette en profil for hvert familiemedlem. Hold alles dokumenter organiseret og nemme at finde.
+Med Pro kan du oprette en profil til hvert familiemedlem. Hold alles dokumenter organiseret og nemme at finde.
 
-### Profilfiltrerede visninger
+### Visninger pr. profil
 
-Vis dokumenter og påmindelser filtreret efter person. Se kun det, der er relevant.
+Se dokumenter og påmindelser filtreret efter person. Se kun det, der er relevant.
 
-### Hurtig skift
+### Hurtigt skift
 
-Skift mellem profiler med et enkelt tryk. Perfekt til at styre hele familien.
-
-PRO
+Skift mellem profiler med ét tryk. Perfekt til at holde styr på hele familien.
 
 ### Ubegrænsede profiler
 
-Gratis-niveau inkluderer 1 profil. Pro låser op for ubegrænsede profiler til hele familien.
+Pro
+
+Gratisversionen omfatter 1 profil. Pro giver ubegrænsede profiler til hele familien.
 
 Naturlig oplevelse
 
@@ -200,41 +200,59 @@ Naturlig oplevelse
 
 ### Mørk og lys tilstand
 
-Tilpasser sig dine systemindstillinger. Smuk i begge udseender.
+Tilpasser sig dine systemindstillinger. Flot i begge tilstande.
 
-### Native bevægelser
+### Naturlige bevægelser
 
-Stryg mellem dokumentsider. Knib for at zoome op til 5x til detaljeret inspektion.
+Stryg mellem dokumentets sider. Knib for at zoome op til 5x og se detaljerne.
 
-### Indbygget PDF-visning
+### Indbygget PDF-fremviser
 
-Native PDF-visningsintegration. Hurtig, velkendt og funktionsrig.
+Indbygget PDF-visning. Hurtig, velkendt og med mange funktioner.
 
 ### Taler dit sprog
 
-Tilgængelig på over 40 sprog, så appen føles naturlig, uanset hvor du er.
+Fås på over 40 sprog, så appen føles hjemlig, uanset hvor du er.
 
 🇬🇧 🇸🇦 🇮🇳 🇨🇳 🇹🇼 🇪🇸 🇧🇷 🇵🇹 🇫🇷 🇩🇪 🇯🇵 🇰🇷 🇮🇹 🇷🇺 🇳🇱 🇵🇱 🇹🇷 🇮🇩 🇻🇳 🇹🇭 🇺🇦 🇸🇪 🇳🇴 🇩🇰 🇫🇮 🇵🇰 🇮🇷 🇧🇩 🇷🇴 🇨🇿 🇭🇺 🇬🇷 🇸🇰 🇭🇷 🇸🇮 🇲🇾
 
-### Tilgængeligt af design
+### Tilgængelig fra starten
 
-Designet til VoiceOver og TalkBack. Tekst skaleres efter systemets skriftstørrelse, og fælles kontroltypografier sigter mod berøringsområder på 44pt (48dp på Android).
+Designet til VoiceOver og TalkBack. Teksten skalerer med systemets skriftstørrelse, og de fælles kontroltyper sigter mod berøringsflader på 44pt (48dp på Android).
 
-### Gennemtænkt haptisk feedback
+### Gennemtænkt haptik
 
-Vigtige handlinger bruger haptisk feedback, hvor din enhed understøtter det.
+Vigtige handlinger giver haptisk feedback, hvor din enhed understøtter det.
+
+Personliggør
+
+## Gør den til din
+
+### Farvekod efter type
+
+Med Pro kan du give hver dokumenttype sin egen farve. Pas, visa, ID-kort og billetter får hver deres farve. Alle kort og ikoner opdateres med det samme.
+
+### Farver pr. profil
+
+Med Pro kan du tilsidesætte den globale farve for en dokumenttype i en bestemt profil. Hvert familiemedlems dokumenter kan have deres eget farveskema.
+
+### Accentfarve
+
+Vælg appens accentfarve blandt 10 forvalg, eller find præcis den farve, du vil have, med farvevælgeren. Gælder alle brugere, ingen Pro nødvendig.
 
 Privatliv og sikkerhed
 
 ## Dine data, din enhed
 
+Ingen servere, der opbevarer dine dokumenter, ingen konti, ingen sporing. Bygget af Mustafa Hafeez med privatliv som fundament. Link til [privatlivspolitik](https://traveldocumentvault.com/privacy-policy/) og [verifikation](https://traveldocumentvault.com/privacy-policy/).
+
 ### Dine data forbliver dine
 
-Vi designede dette, så du ikke behøver at stole os dine data. Vi har ingen servere, der opbevarer dine dokumenter, og ingen adgang til dem. Det er kun dig og din enhed.
+Vi har bygget det, så du ikke behøver at betro os dine data - vi har ingen servere, der opbevarer dine dokumenter, og ingen adgang til dem, så som standard bliver din boks på din enhed. Vælger du den valgfri Pro-backup til din egen iCloud eller Google Drive, er den forseglet med en gendannelseskode, som kun du har, og som vi heller ikke kan læse.
 
 ### Virker offline
 
-Hvælvingsdata krypteres på din enhed; dokumentfiler bruger AES-256-GCM. Gemte dokumenter, udløbsdatoer og planlagte påmindelser virker offline.
+Boksdata krypteres på din enhed; dokumentfiler bruger AES-256-GCM. Gemte dokumenter, udløbsdatoer og planlagte påmindelser virker offline.
 
 ### Ingen sporing
 
@@ -244,55 +262,67 @@ Ingen analyser. Ingen annoncer. Ingen skjulte SDK'er, der høster dine data.
 
 Påmindelser indeholder ikke scanningsbilleder eller et separat felt med dokumentnummer. Påmindelsesteksten kan indeholde dokumentets gemte titel, så undgå følsomme numre i titlen.
 
-### Du styrer deling
+### Du styrer delingen
 
-Dokumentfiler forlader enheden, når du vælger at dele dem via systemets delingsmenu, eksportere dem eller slå krypteret backup til (Pro). Inkluderer advarsler om følsomt indhold.
+Dokumentfiler forlader enheden, når du vælger at dele dem via systemets delingsmenu, eksportere dem eller slå krypteret backup til (Pro). Med advarsler om følsomt indhold.
 
 ### PIN-lås
 
-Beskyt din vault med en PIN. Tilgængeligt for alle brugere gratis.
+Beskyt din boks med en PIN. Gratis for alle brugere.
 
 ### Biometrisk lås
 
-Lås op med Face ID eller Touch ID i stedet for PIN. Gratis for alle brugere. Kræver, at PIN er oprettet først.
+Lås op med Face ID eller Touch ID i stedet for PIN. Gratis for alle brugere. Kræver, at der først er oprettet en PIN.
 
 ### Beskyttelse mod skærmoptagelse
 
-Beskyttelse mod skærmoptagelse er slået til som standard på dokumentskærme, hvor det understøttes. Det hjælper med at begrænse utilsigtede kopier.
+Beskyttelse mod skærmoptagelse er slået til som standard på dokumentskærme, hvor det understøttes. Det hjælper med at undgå utilsigtede kopier.
 
 ### Krypteret opbevaring
 
-Dokumenter krypteres på din enhed med branchestandardkryptering. Krypterede dokumentfiler kræver deres krypteringsnøgle for at kunne læses; delte originaler er læsbare.
+Dokumenter krypteres på din enhed med kryptering efter branchestandard. Krypterede dokumentfiler kræver deres krypteringsnøgle for at kunne læses; delte originaler kan læses.
 
-Batchoperationer
+### Vis til en anden
 
-## Arbejd smartere, hurtigere
+Skal du vise et dokument ved grænsen eller i hotellets reception? Beskyttet visning viser dokumentet med beskyttelse mod skærmoptagelse slået til som standard, hvor det understøttes. Har du oprettet en PIN, låser appen, når du lukker den.
 
-### Hold nede-kontekstmenu
+### Gendannelseskode
 
-Hold nede på et dokumentkort for øjeblikkelig adgang til hurtige handlinger: Eksporter PDF, Del original eller Slet. Ingen grund til at åbne dokumentet først.
+Glemt din PIN? Din gendannelseskode hjælper dig med at få adgang igen uden at slette dine dokumenter. Appen opretter en, når du vælger din PIN; opbevar den et sikkert sted.
 
-### Vælg tilstand
+### Automatisk sletning
 
-PRO
+Automatisk sletning er slået til som standard, når du har oprettet en PIN. Du kan slå det fra under Indstillinger. Funktionen er beregnet til at slette den lokale boks efter gentagne forkerte PIN-forsøg. PIN-forsøg er begrænsede. Hav en uafhængig backup, før du stoler på den.
 
-Tryk på "Vælg" for at vælge flere dokumenter på én gang. Brug den samlede handlingsmenu til batcheksport eller deling (Pro) eller til at slette dit valg.
+Batchhandlinger
+
+## Arbejd smartere og hurtigere
+
+### Kontekstmenu ved langt tryk
+
+Hold fingeren på et dokumentkort for straks at få hurtige handlinger: Eksporter PDF, Del original eller Slet. Du behøver ikke åbne dokumentet først.
+
+### Vælg-tilstand
+
+Tryk på "Vælg" for at vælge flere dokumenter på én gang. Brug den samlede handlingsmenu til at eksportere eller dele dem samlet (Pro) eller til at slette dit valg.
 
 ### Batchdeling
 
-PRO
-
-Med Pro kan du dele flere originale dokumentfiler via efterfølgende delingsmenuer (e-mail, beskeder og mere). Appen dekrypterer originaler til deling og også til visning og redigering.
+Med Pro kan du dele flere originale dokumentfiler via efterfølgende delingsmenuer (e-mail, beskeder og mere). Appen dekrypterer originalerne til deling og også til visning og redigering.
 
 #### Sikker sletning med fortryd
 
-Slettede du ved en fejl et dokument? Tryk på Fortryd øjeblikkeligt for at gendanne det. Missede du vinduet? Det flyttes til Nylig slettet. Når cloud-backup er slået fra, fjerner appen det automatisk efter 30 dage; med cloud-backup slået til bliver det, indtil du sletter det permanent. Du kan også slette det permanent tidligere.
+Kom du til at slette et dokument? Tryk på Fortryd med det samme for at gendanne det. Nåede du det ikke? Så flyttes det til Nyligt slettet. Når cloud-backup er slået fra, fjerner appen det automatisk efter 30 dage; med cloud-backup slået til bliver det liggende, indtil du sletter det permanent. Du kan også slette det permanent før.
 
-**Vigtigt:** Travel Document Vault er et personligt organisationsværktøj til opbevaring af digitale kopier af dine dokumenter. **Digitale kopier gemt i denne app er IKKE gyldige til rejser.** Den verificerer ikke dokumenters ægthed eller yder juridisk eller rejserådgivning. Medbring altid originale dokumenter og verificer alle rejsekrav med officielle offentlige kilder.
+**Vigtigt:** Travel Document Vault er et personligt organiseringsværktøj til opbevaring af digitale kopier af dine dokumenter. **Digitale kopier gemt i denne app er IKKE gyldige til rejser.** Appen verificerer ikke dokumenters ægthed og giver ikke juridisk rådgivning eller rejserådgivning. Medbring altid de originale dokumenter, og tjek alle rejsekrav hos officielle myndighedskilder.
+
+## Hurtige svar
+
+Virker Travel Document Vault uden internetforbindelse? Boksdata krypteres på din enhed; dokumentfiler bruger AES-256-GCM. Gemte dokumenter, udløbsdatoer og planlagte påmindelser virker offline. Hvilke dokumenter kan jeg gemme i Travel Document Vault? Du kan gemme pas, visa, kørekort, nationale ID-kort, rejseforsikringsdokumenter og alle andre rejsedokumenter. Med Pro understøtter appen flere profiler, så du kan administrere hele familiens dokumenter ét sted. Hvordan virker OCR-scanningen? Tag ét billede af det åbne pasopslag. MRZ-scanning aflæser den maskinlæsbare zone og udfylder udløbsdato og udstedelsesland, når det er muligt. Bekræft resultaterne, eller indtast dem manuelt. Tekstgenkendelsen kører på din enhed. Hvor længe i forvejen sender Travel Document Vault udløbspåmindelser? Påmindelserne starter af sig selv, tilpasset dokumenttypen. For pas begynder de 8 måneder før udløb og trapper derefter ned over 6 måneder, 3 måneder, 6 uger, 1 måned, 2 uger og 1 uge, med flere påmindelser på udløbsdagen og bagefter. Visa, nationale ID-kort og rejseforsikring starter 3 måneder før. Flybilletter, hotelbookinger og gavekort starter en uge før. Pro-brugere kan vælge et andet starttidspunkt for ethvert dokument.
 
 ## Hent gratis. Intet abonnement.
 
-Opsæt det i aften. Lad appen huske, så du ikke behøver det.
+Sæt det op i aften. Lad appen huske det, så du ikke behøver.
 
 ![Hent på App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 

@@ -10,13 +10,15 @@ Privacy-first. On-device by default. No accounts needed.
 
 # Track Everything. Remember Nothing.
 
-You can store passports, visas, driving licences, national ID cards, travel insurance documents, and any other travel-related document. With Pro, the app supports multiple profiles, so you can manage documents for your whole family in one place.
+Every travel document you carry, encrypted on your phone and ready when you need it.
 
 ![Download on the App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 
 ![Get it on Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg) Pay once. All v1.x updates included, forever.
 
 [About our version policy →](https://traveldocumentvault.com/pricing-policy/#version-policy)
+
+You can store passports, visas, driving licences, national ID cards, travel insurance documents, and any other travel-related document. With Pro, the app supports multiple profiles, so you can manage documents for your whole family in one place.
 
 For trips and travel days
 
@@ -124,7 +126,7 @@ With Pro, assign a colour to any document type or individual document for instan
 
 Pro
 
-Vault Export and Import are free for everyone. Pro adds combined PDFs and encrypted cloud backup to your own iCloud or Google Drive. Restore cloud backups with your recovery code on a compatible device on the same platform, using the same cloud account.
+Vault export and import are free for everyone. Pro adds combined PDFs and encrypted cloud backup to your own iCloud or Google Drive. Restore cloud backups with your recovery code on a compatible device on the same platform, using the same cloud account.
 
 Smart Capture
 
@@ -154,19 +156,19 @@ Smart Reminders
 
 Reminders start on their own, timed to the document type. Passports begin **8 months** before expiry, then step down through 6 months, 3 months, 6 weeks, 1 month, 2 weeks and 1 week, with further reminders on the expiry day and afterwards. Visas, national IDs and travel insurance start **3 months out**. Airline tickets, hotel bookings and vouchers start a week out. Pro users can choose a different starting point for any document.
 
-#### Passport Reminders
+### Passport Reminders
 
 8 months 6 months 3 months 6 weeks 1 month 2 weeks 1 week Expiry +1 day +1 week
 
-#### Visa Reminders
+### Visa Reminders
 
 3 months 6 weeks 1 month 2 weeks 1 week Expiry day +1 day +1 week
 
-#### Airline Ticket Reminders
+### Airline Ticket Reminders
 
 1 week 2 days 1 day 24 hours
 
-**Post-expiry reminders** (shown in orange) help you stay on top of expired documents. Even if you missed the expiry date, you'll still get reminders to renew, making them perfect for catching documents that expire while you're travelling.
+**Post-expiry reminders** (listed after the expiry date) help you stay on top of expired documents. Even if you missed the expiry date, you'll still get reminders to renew, making them perfect for catching documents that expire while you're travelling.
 
 **Snooze document expiry reminders** right from the notification or inside the app. Choose 1 hour, 3 hours, tomorrow, or next week, and the app reschedules it automatically.
 

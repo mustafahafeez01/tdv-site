@@ -90,8 +90,6 @@ Ini berlaku baik paspor Anda kedaluwarsa sebelum Anda meninggalkan Inggris maupu
 
 Jika paspor Anda sudah kedaluwarsa dan Anda mencari tahu langkah selanjutnya, [artikel pendamping kami membahasnya langkah demi langkah](https://traveldocumentvault.com/id/blog/passport-expired-what-to-do/). Jika Anda punya perjalanan yang akan datang dan paspor Anda mendekati masa kedaluwarsa, inilah saatnya untuk memperpanjang alih-alih menunggu sampai kedaluwarsa, yang berarti Anda harus membayar layanan Premium alih-alih biaya standar. Periksa paspor keluarga Anda sekarang sebelum memesan perjalanan apa pun.
 
-**Atur pengingat kedaluwarsa berbulan-bulan sebelumnya, bukan hanya berminggu-minggu.** [Travel Document Vault melacak tanggal kedaluwarsa paspor Anda dan mengirimkan pengingat mulai dari delapan bulan sebelumnya secara default, lalu kembali mengingatkan saat tanggalnya semakin dekat. Tambahkan setiap paspor di keluarga Anda dengan Pro](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/). Gunakan pengingat untuk membantu merencanakan perpanjangan.
-
 ## Jika Anda Sudah Berada di Luar Negeri dan Paspor Anda Kedaluwarsa
 
 Paspor Anda kedaluwarsa saat Anda masih di luar negeri adalah skenario paling sulit untuk direncanakan. Jika paspor kedaluwarsa sebelum Anda kembali, Anda tidak bisa naik penerbangan atau feri pulang, dan Anda perlu menghubungi kedutaan besar atau konsulat Inggris terdekat untuk mendapatkan dokumen perjalanan darurat, kadang disebut ETD atau paspor darurat, yang hanya berlaku untuk memulangkan Anda.
@@ -133,6 +131,10 @@ Tidak, tetapi Anda tetap tidak dapat bepergian dengannya. Paspor yang rusak dapa
 ### Bisakah saya memperpanjang paspor Inggris yang sudah kedaluwarsa?
 
 Ya. GOV.UK mencantumkan paspor yang sudah kedaluwarsa sebagai alasan untuk memperpanjang sebelum Anda bepergian, sehingga sebagian besar orang menggunakan layanan perpanjangan dewasa standar. Pengecualiannya adalah paspor yang diterbitkan sebelum 1 Januari 1994, yang berarti Anda harus mengajukan paspor dewasa pertama sebagai gantinya. Paspor baru Anda akan memiliki nomor yang berbeda, jadi perbarui setiap pemesanan yang dibuat dengan nomor lama.
+
+### Bisakah saya memesan liburan dengan paspor yang sudah kedaluwarsa?
+
+Ya, tidak ada yang menghalangi Anda memesan, karena tidak ada yang memeriksa paspor saat pemesanan. Namun paspor harus berlaku pada hari Anda bepergian, dan GOV.UK menyarankan untuk tidak memesan sebelum paspor baru Anda terbit, karena nomornya tidak akan sama dengan paspor lama.
 
 ## Artikel Terkait
 

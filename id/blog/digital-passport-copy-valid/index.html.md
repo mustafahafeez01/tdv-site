@@ -83,8 +83,6 @@ Salinan paspor berisi informasi identitas yang sensitif, termasuk nama lengkap, 
 
 Kalau Anda hanya mau memperbaiki satu kebiasaan, ganti PDF yang dikirim lewat email atau foto di galeri ponsel dengan aplikasi terenkripsi. Salinan yang disimpan sembarangan itulah yang paling mungkin jatuh ke tangan yang salah jika ponsel atau kotak masuk email Anda diretas.
 
-**Travel Document Vault** menyimpan salinan terenkripsi dari semua dokumen perjalanan Anda langsung di perangkat. Terenkripsi AES-256 di ponsel Anda, tanpa perlu akun. Cadangan terenkripsi opsional ke iCloud atau Google Drive Anda sendiri (fitur Pro), disegel dengan kode pemulihan yang hanya Anda miliki. [Tersedia di App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 Jika Anda bertanya-tanya apakah penyimpanan cloud aman untuk salinan paspor, lihat panduan kami tentang [menyimpan paspor di Google Foto](https://traveldocumentvault.com/id/blog/is-it-safe-to-store-passport-in-google-photos/). Panduan ini menjelaskan mengapa aplikasi terenkripsi khusus memberikan perlindungan yang lebih kuat. Untuk perbandingan berdampingan antara iCloud, Google Foto, dan aplikasi terenkripsi, baca [cara teraman menyimpan paspor secara digital](https://traveldocumentvault.com/id/blog/safest-way-to-store-passport-digitally/).
 
 Kalau Anda belum membuatnya, pindai halaman foto paspor Anda hari ini, sebelum Anda berdiri di meja check-in atau loket kedutaan dan membutuhkannya.

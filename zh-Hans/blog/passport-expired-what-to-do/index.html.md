@@ -34,8 +34,6 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/passport-expired-what-to-do
 
 所有主要护照部门都保留了在线上看不到的紧急预约位置。如果你的时间很紧，**我们一定会打电话，而不是只相信网站。**
 
-**立即设置提醒**，这样就不会再发生——Travel Document Vault会为你家中每本护照从提前八个月开始通知你，并在临近到期时再次提醒。[在App Store上下载。](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 ## 情景B：你在机场发现护照已过期
 
 这种情况的发生频率比人们预期的要高，在压力下这些步骤并不明显。
@@ -141,6 +139,10 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/passport-expired-what-to-do
 ### 什么是六个月护照规则？
 
 许多国家要求你的护照在你计划的到达日期后保持有效至少六个月。如果你的护照更早过期——即使在技术上仍然有效——你可能会被拒绝登机或入境。并非每个国家都执行这个规则，而阈值有所不同。在旅行前检查你特定目的地的要求。
+
+### 过期的护照还能续办吗？
+
+通常可以。在英国，GOV.UK 表示护照一旦过期，你必须在出行前完成续办，可以在线办理，也可以填写纸质表格并附上旧护照作为辅助材料。在美国和加拿大，这还取决于护照的签发时间以及你当时的年龄。
 
 ## 相关文章
 

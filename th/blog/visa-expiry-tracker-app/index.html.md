@@ -68,8 +68,6 @@ Source: https://traveldocumentvault.com/th/blog/visa-expiry-tracker-app/
 - **รูปแบบความเป็นส่วนตัว:** รายละเอียดวีซ่าคือข้อมูลอ่อนไหวที่เชื่อมโยงกับตัวตน เช่นเดียวกับการเก็บพาสปอร์ต การเข้ารหัสในเครื่องโดยไม่อัปโหลดขึ้นคลาวด์คือสถาปัตยกรรมที่ปลอดภัยที่สุด
 - **การติดตามพาสปอร์ตและวีซ่าพร้อมกัน:** ความผิดพลาดที่พบบ่อยแต่มักถูกมองข้ามคือการมีวีซ่าที่ยังไม่หมดอายุ แต่พาสปอร์ตกลับหมดอายุระหว่างการพำนักตามแผน การติดตามทั้งสองอย่างในที่เดียวช่วยป้องกันความไม่สอดคล้องกันแบบนี้ได้
 
-**Travel Document Vault** ติดตามวันหมดอายุของพาสปอร์ตและวีซ่า พร้อมการแจ้งเตือนแยกตามเอกสาร เพิ่มผู้เดินทางหลายคนได้ด้วย Pro เอกสารของคุณอยู่บนโทรศัพท์แบบเข้ารหัสเป็นค่าเริ่มต้น โดยไม่ต้องมีบัญชีแอป คุณแชร์หรือส่งออกสำเนาได้ หรือใช้ Pro เพื่อสำรองข้อมูลไปยัง iCloud หรือ Google Drive ของคุณเอง [ดาวน์โหลดฟรีได้ที่ App Store และ Google Play ส่วน Pro ซื้อครั้งเดียว ไม่มีค่าสมาชิกรายเดือน](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 ## ขั้นตอนปฏิบัติสำหรับติดตามวีซ่าของคุณอย่างถูกต้อง
 
 1. **จดวันที่เข้าประเทศไว้ในวันที่คุณเดินทางถึง** นาฬิกานับระยะเวลาพำนักสูงสุดเริ่มทันทีตั้งแต่วันเข้าประเทศ ไม่ใช่จากวันที่ออกวีซ่าหรือวันที่เริ่มต้นช่วงเวลาที่ใช้เข้าประเทศได้
@@ -108,9 +106,9 @@ Source: https://traveldocumentvault.com/th/blog/visa-expiry-tracker-app/
 
 [กฎเรื่องพาสปอร์ตอ่าน 8 นาทีกฎ 6 เดือนของพาสปอร์ต: เหลืออายุน้อยก็เดินทางได้ไหม](https://traveldocumentvault.com/th/blog/passport-expiry-6-month-rule/)
 
-[การต่ออายุอ่าน 8 นาทีHow Long Does Passport Renewal Take? Current Times for US, UK, Australia, Canada & More](https://traveldocumentvault.com/th/blog/how-long-does-passport-renewal-take/)
+[การต่ออายุอ่าน 8 นาทีการต่ออายุพาสปอร์ตใช้เวลานานแค่ไหน (สหรัฐฯ สหราชอาณาจักร ออสเตรเลีย แคนาดา)](https://traveldocumentvault.com/th/blog/how-long-does-passport-renewal-take/)
 
-[วีซ่าและการเข้าเมืองอ่าน 8 นาทีETIAS: What Documents You Need and How to Apply](https://traveldocumentvault.com/th/blog/etias-documents-2026/)
+[วีซ่าและการเข้าเมืองอ่าน 8 นาทีETIAS: เอกสารที่ต้องใช้และวิธีสมัคร](https://traveldocumentvault.com/th/blog/etias-documents-2026/)
 
 [เครื่องมือการเดินทางอ่าน 7 นาทีทางเลือกแทน TripCase: ทำไมเอกสารการเดินทางของคุณต้องออฟไลน์ได้](https://traveldocumentvault.com/th/blog/tripcase-alternative/)
 

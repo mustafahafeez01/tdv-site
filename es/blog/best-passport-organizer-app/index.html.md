@@ -84,8 +84,6 @@ Una aplicación de compra única, por el contrario, sigue siendo completamente f
 
 ## Cómo Travel Document Vault aborda esto
 
-**Travel Document Vault** guarda tus documentos en tu dispositivo con cifrado AES-256 y sin cuenta en la app. Los documentos guardados y los recordatorios de vencimiento de pasaportes y visados están disponibles sin conexión. Puedes compartir o exportar copias, o usar la copia de seguridad cifrada en tu propio iCloud o Google Drive con Pro. Pro también permite añadir a toda la familia. La descarga es gratuita; Pro es una [compra única dentro de la app, sin suscripción](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8).
-
 ## Una lista de verificación práctica antes de descargar
 
 Cuando evalúes cualquier aplicación organizadora de pasaportes, hazte estas nueve preguntas:

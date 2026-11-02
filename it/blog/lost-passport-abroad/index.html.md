@@ -64,8 +64,6 @@ Quello che probabilmente avrà bisogno (confermi con l'ambasciata prima di visit
 - Prova di viaggio in avanti — prenotazione di volo, conferma alberghiera
 - Tassa per il documento d'emergenza — abbia a disposizione sia denaro contante che carta
 
-**Travel Document Vault** conserva una copia crittografata del passaporto sul telefono — accessibile senza internet, senza accesso. L’immagine crittografata della pagina dati del passaporto è la copia digitale indicata in quell’elenco. [Scarica da App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 ## Passo 5: Notifichi l'assicuratore di viaggio
 
 Segnali la perdita al suo assicuratore di viaggio il prima possibile. La maggior parte delle polizze complete copre i costi di sostituzione del passaporto, le tasse del passaporto d'emergenza, e talvolta alloggio aggiuntivo in caso di ritardo. Conservi ogni ricevuta — ne avrà bisogno per il reclamo, insieme al numero di riferimento della denuncia alla polizia.

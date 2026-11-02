@@ -42,8 +42,6 @@ Le Royaume-Uni propose deux voies de renouvellement avec des implications compl�
 
 **Le renouvellement numérique** est actuellement disponible pour les adultes admissibles postulant du Royaume-Uni. Vous conservez votre passeport actuel tout au long du processus, et le gouvernement émet votre nouveau passeport séparément et l'envoie par la poste. Comme votre passeport existant ne quitte jamais votre possession, vous pouvez généralement continuer à l'utiliser pour les voyages en attendant le nouveau. L'admissibilité varie selon la situation individuelle, donc vérifiez le site Web du Bureau des passeports de Sa Majesté pour connaître les critères complets et les délais actuels avant de postuler.
 
-**Planifiez à l'avance avant de postuler.** Suivez l'expiration de votre passeport avec [Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) pour savoir exactement combien de temps vous avez avant de renouveler, et choisir la bonne méthode sans pression.
-
 ## Australie : Remettre et attendre
 
 Le renouvellement du passeport australien vous oblige à remettre votre passeport actuel au moment de la demande. À partir de ce moment, vous n'avez aucun document de voyage valide jusqu'à ce que le nouveau passeport soit émis et livré.

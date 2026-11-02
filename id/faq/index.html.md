@@ -36,7 +36,7 @@ Ya. Pembelian Anda mencakup setiap pembaruan dalam versi mayor saat ini (v1.x), 
 
 Apa yang terjadi jika saya kehilangan ponsel atau beralih ke ponsel baru?
 
-Pengguna Pro: Aktifkan cadangan cloud terenkripsi di Pengaturan - Cadangan Awan. Vault Anda dienkripsi di perangkat dengan kode pemulihan sebelum mencapai iCloud (iOS) atau Google Drive (Android). Pada perangkat yang didukung di platform yang sama, gunakan akun cloud yang sama. Buka Cadangan Awan di Pengaturan, pilih cadangan, dan pulihkan dengan kode pemulihan Anda. Pemulihan menggantikan vault lokal. Isi dokumen dienkripsi; penyedia cloud bisa melihat metadata cadangan seperti jumlah, cap waktu, dan informasi perangkat. Kami tidak melihatnya. Semua pengguna: Gunakan ekspor vault gratis (.tdvault) di Pengaturan dan impor di perangkat lain. Cadangan sistem (iCloud atau Google) menginstal ulang aplikasi tetapi tidak bisa memulihkan dokumen Anda - cadangan sistem tidak memindahkan kunci enkripsi yang terikat pada perangkat, jadi ekspor sebelum berpindah ponsel.
+Pengguna Pro: Aktifkan cadangan cloud terenkripsi di Pengaturan - Cadangan Awan. Brankas Anda dienkripsi di perangkat dengan kode pemulihan sebelum mencapai iCloud (iOS) atau Google Drive (Android). Pada perangkat yang didukung di platform yang sama, gunakan akun cloud yang sama. Buka Cadangan Awan di Pengaturan, pilih cadangan, dan pulihkan dengan kode pemulihan Anda. Pemulihan menggantikan brankas lokal. Isi dokumen dienkripsi; penyedia cloud bisa melihat metadata cadangan seperti jumlah, cap waktu, dan informasi perangkat. Kami tidak melihatnya. Semua pengguna: Gunakan ekspor brankas gratis (.tdvault) di Pengaturan dan impor di perangkat lain. Cadangan sistem (iCloud atau Google) menginstal ulang aplikasi tetapi tidak bisa memulihkan dokumen Anda - cadangan sistem tidak memindahkan kunci enkripsi yang terikat pada perangkat, jadi ekspor sebelum berpindah ponsel.
 
 Apakah aplikasi bekerja tanpa koneksi internet?
 
@@ -68,7 +68,7 @@ Pengguna Pro bisa mengaktifkan cadangan cloud terenkripsi ke iCloud atau Google 
 
 Apa yang terjadi jika saya kehilangan ponsel?
 
-Karena kami tidak memiliki data Anda, kami tidak dapat memulihkannya untuk Anda. Jika Anda memulihkan ponsel baru dari cadangan sistem (iCloud/Google), aplikasi akan diinstal ulang tetapi dokumen Anda tidak akan dimulihkan karena cadangan sistem tidak memindahkan kunci enkripsi yang terikat pada perangkat. Untuk memindahkan vault ke ponsel baru, gunakan cadangan cloud (Pro) atau ekspor vault gratis.
+Karena kami tidak memiliki data Anda, kami tidak dapat memulihkannya untuk Anda. Jika Anda memulihkan ponsel baru dari cadangan sistem (iCloud/Google), aplikasi akan diinstal ulang tetapi dokumen Anda tidak akan dimulihkan karena cadangan sistem tidak memindahkan kunci enkripsi yang terikat pada perangkat. Untuk memindahkan brankas ke ponsel baru, gunakan cadangan cloud (Pro) atau ekspor brankas yang gratis.
 
 **Rekomendasi:** Gunakan fitur Ekspor untuk menyimpan salinan vault Anda sebagai file .tdvault terenkripsi. Pengguna Pro juga dapat membuat cadangan cloud terenkripsi ke iCloud atau Google Drive pribadi mereka.
 
@@ -87,7 +87,7 @@ Apakah Anda mengumpulkan data analitik atau pelacakan?
 
 Apa yang terjadi ketika saya menghapus aplikasi?
 
-Semua data Anda di ponsel ini **dihapus secara permanen** ketika Anda menghapus instalan aplikasi. Tidak ada cara untuk memulihkannya setelahnya kecuali jika Anda membuat ekspor vault atau mengaktifkan cadangan cloud, karena kami tidak menyimpan apa pun secara eksternal. **Sebelum menghapus:** Ekspor vault Anda sebagai file .tdvault dari Pengaturan, atau pulihkan cadangan lokal terlebih dahulu lalu ekspor.
+Semua data Anda di ponsel ini **dihapus secara permanen** ketika Anda menghapus instalan aplikasi. Tidak ada cara untuk memulihkannya setelahnya kecuali jika Anda sudah mengekspor brankas atau mengaktifkan cadangan cloud, karena kami tidak menyimpan apa pun secara eksternal. **Sebelum menghapus:** Ekspor brankas Anda sebagai file .tdvault dari Pengaturan, atau pulihkan cadangan lokal terlebih dahulu lalu ekspor.
 
 ## Keamanan Tambahan
 
@@ -105,7 +105,7 @@ Karena data Anda tidak pernah mencapai server kami, kami tidak memiliki cara unt
 
 Apakah cadangan juga dienkripsi?
 
-**Ya.** Cadangan otomatis dienkripsi melalui sistem cadangan bawaan perangkat Anda (iCloud/Google). Ekspor Vault (.tdvault) **dilindungi kata sandi** dengan enkripsi yang kuat. Anda akan menetapkan kata sandi saat mengekspor dan membutuhkannya untuk memulihkan.
+**Ya.** Cadangan otomatis dienkripsi melalui sistem cadangan bawaan perangkat Anda (iCloud/Google). File ekspor brankas (.tdvault) **dilindungi kata sandi** dengan enkripsi yang kuat. Anda akan menetapkan kata sandi saat mengekspor dan membutuhkannya untuk memulihkan.
 
 Jika Anda memulihkan dari cadangan, dokumen Anda akan otomatis bekerja di perangkat baru Anda tanpa perlu melakukan apa pun yang istimewa.
 
@@ -149,7 +149,7 @@ Pengguna gratis dapat berbagi dokumen individual. Pro menambahkan ekspor PDF gab
 
 Bagaimana dengan cadangan?
 
-Aktifkan cadangan cloud terenkripsi ke iCloud (iOS) atau Google Drive (Android) Anda sendiri. Vault dienkripsi di perangkat dengan kode pemulihan sebelum diunggah. Kami tidak melihat data Anda. Isi dokumen dienkripsi; penyedia cloud bisa melihat metadata cadangan seperti jumlah, cap waktu, dan informasi perangkat. Cadangan berjalan otomatis saat aplikasi terbuka dan terhubung. Pulihkan dengan kode pemulihan di perangkat yang didukung pada platform yang sama, menggunakan akun cloud yang sama. Pemulihan menggantikan vault lokal. Semua pengguna bisa mengekspor **cadangan terenkripsi yang dilindungi kata sandi** untuk disimpan, dan semua pengguna dapat **mengimpor cadangan** melalui Pengaturan → Impor cadangan. Kami sengaja tidak menyinkronkan ke server kami untuk melindungi privasi Anda.
+Aktifkan cadangan cloud terenkripsi ke iCloud (iOS) atau Google Drive (Android) Anda sendiri. Vault dienkripsi di perangkat dengan kode pemulihan sebelum diunggah. Kami tidak melihat data Anda. Isi dokumen dienkripsi; penyedia cloud bisa melihat metadata cadangan seperti jumlah, cap waktu, dan informasi perangkat. Cadangan berjalan otomatis saat aplikasi terbuka dan terhubung. Pulihkan dengan kode pemulihan di perangkat yang didukung pada platform yang sama, menggunakan akun cloud yang sama. Pemulihan menggantikan brankas lokal. Semua pengguna bisa mengekspor **cadangan terenkripsi yang dilindungi kata sandi** untuk disimpan, dan semua pengguna dapat **mengimpor cadangan** melalui Pengaturan → Impor cadangan. Kami sengaja tidak menyinkronkan ke server kami untuk melindungi privasi Anda.
 
 Bisakah saya berbagi dokumen dengan anggota keluarga?
 
@@ -178,7 +178,7 @@ Apakah aplikasi membuat cadangan otomatis?
 - Cadangan berada dalam **penyimpanan pribadi** aplikasi di perangkat Anda.
 - Cadangan lokal yang valid bisa memulihkan data vault sebelumnya melalui **Pengaturan → Pulihkan Cadangan Lokal**, tetapi tidak bisa membuat ulang file lampiran yang sudah dihapus secara permanen. Gunakan Dihapus Baru-baru Ini untuk penghapusan biasa.
 
-**Vault Export:** Buka Pengaturan untuk mengekspor file .tdvault terenkripsi kapan saja. Simpan ke Files, iCloud Drive, atau bagikan melalui AirDrop/email untuk penyimpanan di luar perangkat. Gratis untuk semua pengguna.
+**Ekspor brankas:** Buka Pengaturan untuk mengekspor file .tdvault terenkripsi kapan saja. Simpan ke Files, iCloud Drive, atau bagikan melalui AirDrop/email untuk penyimpanan di luar perangkat. Gratis untuk semua pengguna.
 
 Bisakah saya menyesuaikan waktu pengingat?
 
@@ -228,7 +228,7 @@ Android mendukung penyimpanan terenkripsi di perangkat, pemindaian OCR, dan peng
 
 Bisakah saya mentransfer data dari iPhone ke Android (atau sebaliknya)?
 
-**Ya, menggunakan Vault Export terenkripsi.** Ekspor cadangan terenkripsi dari perangkat Anda saat ini (Pengaturan, Ekspor vault), transfer ke perangkat baru (melalui email, penyimpanan cloud, atau transfer langsung), lalu gunakan Pengaturan, Impor cadangan untuk memulihkan dokumen Anda, yang menggantikan data yang sudah ada di perangkat baru.
+**Ya, dengan ekspor brankas terenkripsi.** Ekspor cadangan terenkripsi dari perangkat Anda saat ini (Pengaturan, Ekspor vault), transfer ke perangkat baru (melalui email, penyimpanan cloud, atau transfer langsung), lalu gunakan Pengaturan, Impor cadangan untuk memulihkan dokumen Anda, yang menggantikan data yang sudah ada di perangkat baru.
 
 Ini bekerja lintas platform karena format enkripsi bersifat universal. Anda memerlukan kata sandi yang sama yang Anda gunakan saat mengekspor vault. Pembelian Pro dipulihkan pada platform dan akun toko yang sama; berpindah antara iOS dan Android memerlukan pembelian Pro terpisah (lihat "Bisakah saya memulihkan pembelian di perangkat baru?" di bawah).
 
@@ -324,7 +324,7 @@ Anda bisa mengekspor data vault yang didukung dan lampiran yang tersedia sebagai
 
 Bisakah saya mencadangkan data secara gratis?
 
-Ya. Ekspor vault (file cadangan terenkripsi .tdvault) gratis untuk semua orang. Buka Pengaturan, Ekspor vault, dan aplikasi membuat file yang dilindungi kata sandi untuk disimpan ke Files, iCloud Drive, atau dibagikan ke luar perangkat. Aplikasi juga menyimpan cadangan lokal otomatis di perangkat Anda setiap beberapa menit, tanpa biaya. Pencadangan cloud ke iCloud atau Google Drive Anda sendiri adalah opsi Pro. Tidak ada fitur cadangan yang mengunci data Anda.
+Ya. Ekspor brankas (file cadangan terenkripsi .tdvault) gratis untuk semua orang. Buka Pengaturan, Ekspor vault, dan aplikasi membuat file yang dilindungi kata sandi untuk disimpan ke Files, iCloud Drive, atau dibagikan ke luar perangkat. Aplikasi juga menyimpan cadangan lokal otomatis di perangkat Anda setiap beberapa menit, tanpa biaya. Pencadangan cloud ke iCloud atau Google Drive Anda sendiri adalah opsi Pro. Tidak ada fitur cadangan yang mengunci data Anda.
 
 Apa arti "Cadangan terakhir: 2 jam lalu, 12 dokumen" di Pengaturan?
 
@@ -354,17 +354,7 @@ Apa yang terjadi ketika saya menghapus sesuatu?
 
 Item yang dihapus masuk ke tempat sampah selama 30 hari.
 
-## Hukum & Penafian
-
-Apakah aplikasi ini menggantikan dokumen resmi?
-
-**Tidak.** Travel Document Vault hanyalah alat organisasi pribadi untuk menyimpan salinan digital dokumen Anda. **Salinan digital yang disimpan dalam aplikasi ini TIDAK berlaku untuk perjalanan.** Ini tidak menggantikan dokumen resmi, memverifikasi keaslian, atau menjamin kepatuhan dengan persyaratan imigrasi apa pun. Selalu bawa dokumen asli Anda saat bepergian dan verifikasi persyaratan dengan sumber pemerintah resmi.
-
-Bagaimana jika saya melewatkan tenggat waktu karena kegagalan pengingat?
-
-Pengingat adalah fitur kemudahan dan tidak boleh menjadi satu-satunya sistem pengingat Anda. Kami tidak bertanggung jawab atas tenggat waktu yang terlewat, dokumen yang kedaluwarsa, atau konsekuensi apa pun akibat kegagalan pengingat. Silakan lihat [Ketentuan Layanan](https://traveldocumentvault.com/terms/) kami untuk detail lengkap.
-
-## Cadangan cloud
+## Cadangan Cloud
 
 Apa yang terjadi jika saya menghapus dokumen saat cadangan cloud aktif?
 
@@ -398,6 +388,16 @@ Apa yang terjadi jika saya kehilangan kode pemulihan?
 
 Kode pemulihan Anda membuka kunci enkripsi cadangan cloud; perangkat yang sudah dikonfigurasi menyimpannya untuk pencadangan otomatis. Rancangan kami bersifat tanpa pengetahuan, artinya kami tidak bisa menyetel ulang, mengambil, atau memulihkannya untuk Anda. Apple dan Google juga tidak bisa. Jika Anda kehilangan kode pemulihan dan akses ke semua perangkat yang sudah dikonfigurasi yang masih menyimpannya, cadangan cloud terenkripsi Anda menjadi tidak dapat dipulihkan. Simpan kode pemulihan Anda di tempat aman sebelum Anda bergantung pada cadangan cloud: pengelola kata sandi, salinan cetak di tempat terlindungi, atau keduanya. Pastikan Anda benar-benar bisa membacanya sebelum menyimpannya sebagai satu-satunya salinan.
 
+## Hukum & Penafian
+
+Apakah aplikasi ini menggantikan dokumen resmi?
+
+**Tidak.** Travel Document Vault hanyalah alat organisasi pribadi untuk menyimpan salinan digital dokumen Anda. **Salinan digital yang disimpan dalam aplikasi ini TIDAK berlaku untuk perjalanan.** Ini tidak menggantikan dokumen resmi, memverifikasi keaslian, atau menjamin kepatuhan dengan persyaratan imigrasi apa pun. Selalu bawa dokumen asli Anda saat bepergian dan verifikasi persyaratan dengan sumber pemerintah resmi.
+
+Bagaimana jika saya melewatkan tenggat waktu karena kegagalan pengingat?
+
+Pengingat adalah fitur kemudahan dan tidak boleh menjadi satu-satunya sistem pengingat Anda. Kami tidak bertanggung jawab atas tenggat waktu yang terlewat, dokumen yang kedaluwarsa, atau konsekuensi apa pun akibat kegagalan pengingat. Silakan lihat [Ketentuan Layanan](https://traveldocumentvault.com/terms/) kami untuk detail lengkap.
+
 [Untuk perbandingan lengkap, lihat mengapa keluarga memilih Travel Document Vault →](https://traveldocumentvault.com/id/why-us/)
 
 ## Masih punya pertanyaan?
@@ -405,3 +405,11 @@ Kode pemulihan Anda membuka kunci enkripsi cadangan cloud; perangkat yang sudah 
 Kami siap membantu. Hubungi kami dan kami akan segera merespons.
 
 [Hubungi Dukungan](mailto:support@traveldocumentvault.com)
+
+## Unduh Gratis. Tanpa Langganan.
+
+Atur malam ini. Biarkan aplikasi mengingat sehingga Anda tidak perlu.
+
+![Unduh di App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Dapatkan di Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

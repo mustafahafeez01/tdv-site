@@ -68,8 +68,6 @@ Data la complessità di cui sopra, una buona app di tracciamento della scadenza 
 - **Modello di privacy:** I dettagli del visto sono dati sensibili collegati all'identità. Come con l'archiviazione del passaporto, la crittografia on-device senza caricamento cloud è l'architettura più sicura.
 - **Tracciamento di passaporto + visto insieme:** Un errore comune ma trascurato è avere un visto valido ma un passaporto che scade durante il Suo soggiorno pianificato. Avere entrambi tracciati nello stesso luogo previene questa mancata corrispondenza.
 
-**Travel Document Vault** tiene traccia delle scadenze di passaporti e visti con promemoria separati per ciascun documento. Aggiunga più viaggiatori con Pro. I documenti restano crittografati sul Suo telefono per impostazione predefinita, senza un account per l’app. Può condividere o esportare copie, oppure eseguirne il backup sul Suo iCloud o Google Drive con Pro. [Si scarica gratuitamente su App Store e Google Play. Pro è un acquisto una tantum, senza abbonamento.](https://apps.apple.com/it/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 ## Passi Pratici per Tracciare Correttamente il Suo Visto
 
 1. **Registri la Sua data di ingresso il giorno dell'arrivo.** Il Suo orologio di durata massima di soggiorno inizia immediatamente all'ingresso, non da quando il visto è stato rilasciato o da quando il periodo di validità dell'ingresso ha avuto inizio.

@@ -42,19 +42,19 @@ Set a fixed or rolling window for each country, with your own visa or residency 
 
 ## Plus So Much More
 
-#### Country Flag + City
+### Country Flag + City
 
 Trip card shows destination flag and city. Plan at a glance. Know where you're headed.
 
-#### Countdown Days
+### Countdown Days
 
 How many days until your trip? Countdown appears on trip cards. Gets everyone excited.
 
-#### Offline Always
+### Offline Always
 
 Works 100% offline. Plan at the airport. No internet needed. Works in airplane mode.
 
-#### Optional Cloud Sync
+### Optional Cloud Sync
 
 Pro: sync to your own iCloud or Google Drive. Multi-device access. You hold the key.
 

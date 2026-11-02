@@ -28,9 +28,11 @@ Les délais de traitement évoluent avec les effectifs, le volume de demandes et
 
 Le Département d'État américain publie ses délais de traitement actuels sur travel.state.gov, et ils changent toute l'année avec la demande et les effectifs. Il existe trois voies :
 
-- **Standard :** la file d'attente par défaut, sans priorité.
-- **Accéléré :** vous fait avancer dans la file moyennant des frais supplémentaires, sans sauter aucune vérification.
-- **Rendez-vous d'urgence (en personne) :** pour les voyages réellement imminents, avec preuve de la date de voyage — réservable auprès d'une agence régionale de passeport.
+| Voie | Ce que vous payez réellement |
+|---|---|
+| Standard | Traité à peu près dans l'ordre d'arrivée, sans priorité. Le choix par défaut pour qui n'a pas de voyage imminent. |
+| Traitement accéléré, fast track ou prioritaire payant | Une position antérieure dans la file, ou un créneau réservable devant l'arriéré standard. Les mêmes conditions d'admissibilité et les mêmes vérifications de documents s'appliquent. |
+| Rendez-vous d'urgence en personne | Un accès direct à un bureau ou une agence des passeports quand le voyage est réellement imminent. Exige une preuve des dates de voyage, et n'est généralement proposé que lorsque les voies standard et payante ne peuvent manifestement pas tenir le délai. |
 
 Les rendez-vous urgents sont disponibles pour les voyages documentés et imminents. Réservez sur travel.state.gov et apportez une preuve de voyage — ils ne vous verront pas sans.
 
@@ -65,8 +67,6 @@ Les demandes de passeport pour enfants sont une autre histoire. Elles sont plus 
 Immigration, Réfugiés et Citoyenneté Canada (IRCC) traite les renouvellements de passeport. Le Canada propose désormais le renouvellement en ligne aux adultes admissibles qui ne voyagent pas dans les 20 jours ouvrables suivants ; les autres doivent présenter leur demande par courrier via Service Canada ou en personne à un bureau de Passeport Canada. Pour les voyages urgents, des options de rendez-vous d'urgence et de service express en personne existent moyennant des frais supplémentaires.
 
 Cela rend le processus plus exigeant logistiquement, surtout si vous vivez quelque part de rural et que le bureau de passeport le plus proche est éloigné. Consultez la page d'IRCC pour les délais de traitement actuels avant de présenter votre demande, et ajoutez le temps d'acheminement dans chaque sens si vous demandez par courrier.
-
-**Configurez un rappel de renouvellement dès maintenant** — Travel Document Vault vous avertit 6, 3 et 1 mois avant l'expiration de votre passeport, pour que vous renouveliez toujours avec beaucoup de temps d'avance, pas à la dernière minute. [Téléchargez sur l'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Une courte liste prévisible explique l'essentiel des retards
 

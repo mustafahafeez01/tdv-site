@@ -100,7 +100,7 @@ Source: https://traveldocumentvault.com/fr/blog/
 
 ##
 
-[Règles de passeportDurée de validité d'un passeport pour voyager La plupart des passeports adultes sont valables 10 ans, mais la fenêtre de voyage effective est souvent plus courte. Voici comment se calculent les mois de validité. 30 avr. 20266 min](https://traveldocumentvault.com/fr/blog/how-long-is-passport-valid-for-travel/)
+[Règles de passeportDurée de validité d'un passeport pour voyager La plupart des passeports adultes sont valables 10 ans, mais la fenêtre de voyage effective est souvent plus courte. Voici comment se calculent les mois de validité. 30 avr. 20266 min de lecture](https://traveldocumentvault.com/fr/blog/how-long-is-passport-valid-for-travel/)
 
 ##
 
@@ -112,11 +112,11 @@ Source: https://traveldocumentvault.com/fr/blog/
 
 ##
 
-[Confidentialité & SécuritéiCloud vs Google Photos vs Coffre-fort chiffré — Comment stocker votre passeport en toute sécurité Une comparaison honnête des trois principales méthodes de stockage de copies numériques de passeport et ce que cela implique pour votre sécurité. 15 avril 20267 min](https://traveldocumentvault.com/fr/blog/safest-way-to-store-passport-digitally/)
+[Confidentialité & SécuritéiCloud vs Google Photos vs Coffre-fort chiffré — Comment stocker votre passeport en toute sécurité Une comparaison honnête des trois principales méthodes de stockage de copies numériques de passeport et ce que cela implique pour votre sécurité. 15 avril 20267 min de lecture](https://traveldocumentvault.com/fr/blog/safest-way-to-store-passport-digitally/)
 
 ##
 
-[Règles de passeportCopie numérique du passeport : Qu'est-ce qui compte comme pièce d'identité valide en voyage ? Les compagnies aériennes, hôtels, ambassades et douaniers traitent les copies numériques de passeport de manière très différente. Voici exactement où une copie numérique est utile et où vous avez absolument besoin du document original. Apr 4, 20267 min read](https://traveldocumentvault.com/fr/blog/digital-passport-copy-valid/)
+[Règles de passeportCopie numérique du passeport : Qu'est-ce qui compte comme pièce d'identité valide en voyage ? Les compagnies aériennes, hôtels, ambassades et douaniers traitent les copies numériques de passeport de manière très différente. Voici exactement où une copie numérique est utile et où vous avez absolument besoin du document original. 4 avr. 20267 min de lecture](https://traveldocumentvault.com/fr/blog/digital-passport-copy-valid/)
 
 ##
 

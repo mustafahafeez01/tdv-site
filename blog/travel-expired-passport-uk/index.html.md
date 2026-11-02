@@ -82,8 +82,6 @@ Most travel insurance policies include a void clause for expired or invalid trav
 
 [If your passport has already expired and you are searching for what to do next, our companion article covers that step-by-step](https://traveldocumentvault.com/blog/passport-expired-what-to-do/). If you have a trip coming up and your passport is approaching expiry, this is the moment to renew rather than wait until it expires, which means paying for the Premium service instead of the standard fee. Check your family's passports now before booking any trip.
 
-**Set expiry reminders months in advance, not weeks.** [Travel Document Vault tracks your passport expiry and sends reminders from eight months out by default, then again as expiry approaches. Add every passport in your household with Pro](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/). Use the reminders to help you plan renewals.
-
 ## If You're Already Abroad and Your Passport Expires
 
 Your passport expiring while you're still abroad is the hardest scenario to plan for. If it expires before you return, you cannot board a flight or ferry home, and you'll need to contact the nearest British embassy or consulate for an emergency travel document, sometimes called an ETD or emergency passport, which is valid only for getting home.

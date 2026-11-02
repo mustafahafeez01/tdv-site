@@ -95,21 +95,19 @@ Mantén esto en tu equipaje de mano en todo momento —no lo pongas en equipaje 
 
 Antes de salir de casa, toma una foto de cada documento y guárdala en una aplicación cifrada —no en tu carrete de cámara. Si tu bolsa se pierde o te la roban, querrás tu número de pasaporte, número de póliza de seguros y referencias de reserva en algún lugar que aún puedas acceder en una embajada o estación de policía. Una copia de seguridad digital segura te ahorra horas cuando intentas obtener ayuda.
 
-**Travel Document Vault** guarda copias cifradas de tus documentos de viaje. Escanea cada uno y confirma o introduce su fecha de caducidad para recibir recordatorios automáticos. Pro te permite guardar más de cinco documentos y organizarlos por miembro de la familia. [Descargar en App Store.](https://apps.apple.com/es/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 ## Cómo cambia tu lista de documentos según el tipo de viaje
 
 Los diferentes viajes necesitan diferentes conjuntos de documentos, como muestra la tabla de abajo para viajes en solitario, en familia y de negocios.
 
 | Documento | Solo | Familia | Negocio | Notas |
 |---|---|---|---|---|
-| Pasaporte | ✅ | ✅ cada miembro | ✅ | Verifica validez contra el destino, no solo la fecha de caducidad |
-| Visado (si se requiere) | ✅ | ✅ cada miembro | ✅ corporativo | Negocio: confirma que el visado está en el pasaporte correcto |
-| Seguro de viaje | ✅ | ✅ todos cubiertos | ✅ verifica que tu empleador te cubre | Confirma cobertura antes de cada viaje, no solo en la compra |
-| Confirmaciones de reserva | ✅ | ✅ | ✅ | Copia sin conexión (no confíes en acceso a correo en fronteras) |
-| Carta de consentimiento de menores | N/A | ✅ si corresponde | N/A | Requerida en muchos países si uno de los progenitores está ausente |
-| Certificados de nacimiento | N/A | ✅ si se requiere | N/A | Algunos países requieren para menores menores de 18 años |
-| Carta de autorización de trabajo | N/A | N/A | ✅ si se requiere | Algunos destinos requieren cartas del empleador para viajeros de negocio |
+| Pasaporte | | cada miembro | | Verifica validez contra el destino, no solo la fecha de caducidad |
+| Visado (si se requiere) | | cada miembro | corporativo | Negocio: confirma que el visado está en el pasaporte correcto |
+| Seguro de viaje | | todos cubiertos | verifica que tu empleador te cubre | Confirma cobertura antes de cada viaje, no solo en la compra |
+| Confirmaciones de reserva | | | | Copia sin conexión (no confíes en acceso a correo en fronteras) |
+| Carta de consentimiento de menores | N/A | si corresponde | N/A | Requerida en muchos países si uno de los progenitores está ausente |
+| Certificados de nacimiento | N/A | si se requiere | N/A | Algunos países requieren para menores menores de 18 años |
+| Carta de autorización de trabajo | N/A | N/A | si se requiere | Algunos destinos requieren cartas del empleador para viajeros de negocio |
 
 Si ya tienes un viaje reservado, lo más útil que puedes hacer hoy es sacar cada pasaporte implicado y comprobar su fecha de caducidad frente al requisito del destino, no solo frente a las fechas de tu viaje.
 

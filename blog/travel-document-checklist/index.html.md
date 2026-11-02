@@ -95,21 +95,19 @@ Keep these in your carry-on at all times, not in checked luggage. That means pas
 
 Before you leave home, take a photo of every document and store it in an encrypted app - not your camera roll. If your bag is lost or stolen, you'll want your passport number, insurance policy number, and booking references somewhere you can still access them at an embassy or police station. A secure digital backup saves hours when you're trying to get help.
 
-**Travel Document Vault** stores encrypted copies of your travel documents. Scan each one and confirm or enter its expiry date for automatic reminders. Pro lets you store more than five documents and organise them by family member. [Download on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 ## How Your Document List Changes by Trip Type
 
 Different trips need different document sets, as the table below shows for solo, family and business travel.
 
 | Document | Solo | Family | Business | Notes |
 |---|---|---|---|---|
-| Passport | ✅ | ✅ each member | ✅ | Check validity against destination, not just expiry date |
-| Visa (if required) | ✅ | ✅ each member | ✅ corporate | Business: confirm visa is in the correct passport |
-| Travel insurance | ✅ | ✅ all covered | ✅ check employer covers you | Confirm coverage before each trip, not just at purchase |
-| Booking confirmations | ✅ | ✅ | ✅ | Offline copy (don't rely on email access at borders) |
-| Child consent letter | N/A | ✅ if applicable | N/A | Required in many countries if one parent absent |
-| Birth certificates | N/A | ✅ if required | N/A | Some countries require for children under 18 |
-| Work authorisation letter | N/A | N/A | ✅ if required | Some destinations require employer letters for business travellers |
+| Passport | | each member | | Check validity against destination, not just expiry date |
+| Visa (if required) | | each member | corporate | Business: confirm visa is in the correct passport |
+| Travel insurance | | all covered | check employer covers you | Confirm coverage before each trip, not just at purchase |
+| Booking confirmations | | | | Offline copy (don't rely on email access at borders) |
+| Child consent letter | N/A | if applicable | N/A | Required in many countries if one parent absent |
+| Birth certificates | N/A | if required | N/A | Some countries require for children under 18 |
+| Work authorisation letter | N/A | N/A | if required | Some destinations require employer letters for business travellers |
 
 If a trip is already booked, the one thing worth doing today is pulling out every passport involved and checking its expiry against the destination's requirement, not just against your travel dates.
 

@@ -64,7 +64,7 @@ Beberapa lapisan keamanan berdiri di antara ketukan yang tidak disengaja dan dat
 
 **Setel ulang dan sinkronkan ulang.** Jika data lokal dan cadangan cloud Anda tidak sinkron, gunakan Atur ulang dan sinkronkan ulang untuk mengunggah salinan baru vault Anda.
 
-### ⚠ Kode Pemulihan Anda Sangat Penting
+### Kode Pemulihan Anda Sangat Penting
 
 Kode pemulihan Anda membuka kunci enkripsi cloud yang diperlukan untuk memulihkan cadangan. Kami tidak bisa meresetnya untuk Anda. Jika Anda kehilangan semua salinan dan akses ke semua perangkat yang masih bisa membuka vault, kami tidak bisa memulihkan cadangan terenkripsi.
 
@@ -82,33 +82,33 @@ Perangkat tanpa Google Play Services (seperti perangkat Huawei yang dirilis sete
 
 Cadangan cloud adalah satu lapisan keamanan, tetapi tidak ada sistem yang sempurna. Akun cloud dapat hilang, kode pemulihan dapat dilupakan, layanan penyimpanan pihak ketiga dapat mengalami pemadaman, dan masalah sinkronisasi atau data yang tidak terduga dapat terjadi. Kami menyediakan cadangan cloud sebagai kenyamanan, bukan jaminan.
 
-Untuk dokumen penting, selalu simpan salinan independen, seperti salinan kertas cetak di tempat aman, ekspor lemari terenkripsi terpisah yang disimpan di penyimpanan berbeda, atau asli yang disimpan secara fisik, dan verifikasi dokumen Anda dapat dipulihkan sebelum Anda membutuhkannya.
+Untuk dokumen penting, selalu simpan salinan independen, seperti salinan kertas cetak di tempat aman, ekspor brankas terenkripsi terpisah yang disimpan di penyimpanan berbeda, atau asli yang disimpan secara fisik, dan verifikasi dokumen Anda dapat dipulihkan sebelum Anda membutuhkannya.
 
 Anda bertanggung jawab untuk memelihara cadangan dokumen Anda sendiri dan menjaga kode pemulihan Anda tetap aman. Aplikasi, Apple, Google, dan pengembang tidak bertanggung jawab atas kehilangan data yang timbul dari kode pemulihan yang hilang, masalah akun cloud, atau ketergantungan pada cadangan cloud sebagai satu-satunya salinan.
 
 ## Enkripsi dan Pemulihan
 
-#### AES-256-GCM
+### AES-256-GCM
 
 Enkripsi terautentikasi untuk isi dokumen.
 
-#### PBKDF2 600k Iterasi
+### PBKDF2 600k Iterasi
 
 Derivasi kunci yang intensif secara komputasi. Ini meningkatkan biaya untuk menebak kode pemulihan.
 
-#### Perluasan Kunci HKDF
+### Perluasan Kunci HKDF
 
 Kunci terpisah untuk setiap file cadangan, dan pemulihan mengenkripsi ulang dokumen menggunakan kunci perangkat baru. Perangkat yang berwenang atau kode pemulihan yang disusupi dapat mengekspos vault cloud bersama.
 
-#### Desain Zero-Knowledge
+### Desain Zero-Knowledge
 
 Cadangan terenkripsi tetap di akun cloud Anda sendiri. Kami tidak menerimanya atau memegang kunci yang diperlukan untuk membaca isi dokumennya.
 
-#### Yang Apple Lihat
+### Yang Apple Lihat
 
 Isi dokumen dienkripsi di iCloud atau Google Drive Anda. Metadata cadangan, seperti nama perangkat, jumlah, dan cap waktu, tidak dienkripsi.
 
-#### Kehilangan Kode Pemulihan
+### Kehilangan Kode Pemulihan
 
 Jika Anda kehilangan semua salinan kode pemulihan dan akses ke semua perangkat yang masih bisa membuka vault, kami tidak bisa mendekripsi cadangan Anda. Kami tidak memegang kunci enkripsi cloud Anda.
 

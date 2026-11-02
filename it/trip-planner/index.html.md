@@ -42,19 +42,19 @@ Imposti una finestra fissa o mobile per ogni paese, con il Suo limite di giorni 
 
 ## E molto altro ancora
 
-#### Bandiera del Paese + Città
+### Bandiera del Paese + Città
 
 La mappa di viaggio mostra la bandiera della destinazione e la città. Pianificate a colpo d'occhio. Sappia dove state andando.
 
-#### Conto alla Rovescia dei Giorni
+### Conto alla Rovescia dei Giorni
 
 Quanti giorni mancano al viaggio? Il conto alla rovescia appare sulle carte di viaggio. Mette tutti in trepidazione.
 
-#### Sempre Offline
+### Sempre Offline
 
 Funziona 100% offline. Pianificate in aeroporto. Non è richiesto internet. Funziona in modalità aereo.
 
-#### Sincronizzazione Cloud Opzionale
+### Sincronizzazione Cloud Opzionale
 
 Pro: Sincronizzazione con il Suo iCloud o Google Drive personale. Accesso multi-dispositivo. Lei detiene la chiave.
 

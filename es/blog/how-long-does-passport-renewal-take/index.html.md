@@ -38,6 +38,12 @@ EE.UU. ofrece un programa de renovación en línea para adultos elegibles. Para 
 
 **Una salvedad importante: los tiempos publicados son promedios, no garantías.** Consulta travel.state.gov para la cifra actual antes de aplicar, porque durante la temporada alta el procesamiento rutinario regularmente se extiende bien más allá de las estimaciones publicadas. Si tu viaje está cerca, la tarifa adicional por procesamiento acelerado suele compensarse de sobra con la certeza y la tranquilidad de planificación que ofrece.
 
+| Vía | Qué estás pagando en realidad |
+|---|---|
+| Estándar | Se tramita más o menos por orden de llegada, sin prioridad. La opción por defecto para quien no tenga un viaje cerca. |
+| Acelerada, vía rápida o prioritaria de pago | Una posición anterior en la cola o una cita reservable por delante del atraso estándar. Se aplican los mismos requisitos de elegibilidad y las mismas verificaciones de documentos. |
+| Cita urgente en persona | Acceso directo a una oficina o agencia de pasaportes cuando el viaje es genuinamente inminente. Requiere prueba de las fechas de viaje y, por norma general, solo se ofrece cuando está claro que las vías estándar y de pago no llegan a tiempo. |
+
 Qué significa esto en la práctica
 
 Si viajas durante la temporada alta de un país y tu pasaporte se queda justo, pagar por la vía más rápida te compra certeza: una posición anterior en la cola, sin importar cuánto haya crecido el atraso estándar ese mes. Si en cambio te quedas con el procesamiento estándar durante un periodo de mucha demanda, estás apostando a que la estimación publicada todavía refleje la realidad —justo la suposición que sorprende a la gente.
@@ -65,8 +71,6 @@ Las solicitudes de pasaporte infantil son una historia diferente. Son más compl
 Immigration, Refugees and Citizenship Canada (IRCC) tramita las renovaciones de pasaporte. Canadá ofrece renovación en línea a adultos elegibles que no vayan a viajar en los próximos 20 días laborables; el resto solicita por correo a través de Service Canada o en persona en una oficina de Passport Canada. Para viajes urgentes existen opciones de cita urgente y express en persona por una tarifa adicional.
 
 Eso hace el proceso más exigente logísticamente, especialmente si vives en algún lugar rural y la oficina de pasaportes más cercana está lejos. Consulta la página de IRCC para los tiempos de procesamiento actuales antes de solicitar, y suma el tiempo de envío en ambas direcciones si aplicas por correo.
-
-**Establece un recordatorio de renovación ahora** —Travel Document Vault te notifica 6, 3 y 1 mes antes de que tu pasaporte venza, así que siempre estás renovando con tiempo de sobra. [Descarga desde App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Una lista corta y previsible causa la mayoría de los retrasos
 

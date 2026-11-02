@@ -90,8 +90,6 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/travel-expired-passport-uk/
 
 [如果您的护照已经过期且您正在寻找接下来该做什么，我们的相关文章逐步说明](https://traveldocumentvault.com/zh-Hans/blog/passport-expired-what-to-do/)。如果您有即将到来的旅行且护照即将过期，现在是更新而不是等待它过期的时候，这意味着支付高级服务费而不是标准费。现在检查您家人的护照，然后再预订任何旅行。
 
-**提前数月设置过期提醒，而不是数周。** [Travel Document Vault 追踪您的护照到期日，默认从到期前八个月开始发送提醒，并在临近到期时再次提醒](https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rule/)。通过 Pro 添加家中的每本护照。利用提醒帮助您规划换发。
-
 ## 如果您已在国外且护照过期
 
 这是真正困难的情况。如果您在旅行中且护照在您返回前过期，您无法登机或搭乘轮渡回家。您需要与最近的英国大使馆或领事馆联系获取应急旅行证件——有时称为 ETD 或应急护照——仅对返回有效。
@@ -133,6 +131,10 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/travel-expired-passport-uk/
 ### 已经过期的英国护照还能更新吗？
 
 可以。GOV.UK 将护照过期列为出行前必须更新的理由之一，因此大多数人可以使用标准成人更新服务。例外情况是护照签发日期早于1994年1月1日，这种情况需要改为申请首次成人护照。新护照的号码会发生变化，因此请更新所有使用旧号码办理的预订。
+
+### 护照过期了还能预订假期吗？
+
+可以，没有什么会阻止您预订，因为付款时没有人会查验护照。但护照必须在您出行当天有效，而 GOV.UK 建议在拿到新护照之前先不要预订，因为新护照的号码和旧护照不一样。
 
 ## 相关文章
 

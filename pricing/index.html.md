@@ -10,8 +10,6 @@ $9.99, once. No subscription, no hidden fees, no data harvesting.
 
 Priced in US dollars. We set each country’s price locally rather than converting from dollars, and the App Store or Google Play shows yours before you pay.
 
-We run no servers that ever hold or can read your documents. Your document files stay on your device unless you share or export them, or turn on encrypted backup (Pro). That's why we can offer a one-time price instead of endless subscriptions.
-
 ## Choose Your Plan
 
 ### Free
@@ -42,7 +40,7 @@ USD. Your country’s price is set locally rather than converted from dollars, a
 [About our version policy →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
 - Trip planner with family readiness traffic light
-- Your Own Cloud backup (iCloud or Google Drive, end-to-end encrypted)
+- Cloud Backup (iCloud or Google Drive, end-to-end encrypted)
 - Days-abroad tracker for tax days and visa limits
 - Country day-limit allowances per family member
 - Every family member, one vault
@@ -57,7 +55,7 @@ USD. Your country’s price is set locally rather than converted from dollars, a
 
 Everything you need for solo travel
 
-Free
+$0
 
 - Passports, visas, IDs & more
 - Scan documents and confirm detected expiry dates
@@ -87,7 +85,7 @@ For your whole family. Pay once. All v1.x updates included, forever.
 Everything in Free, plus:
 
 - Trip planner with family readiness traffic light
-- Your Own Cloud backup (iCloud or Google Drive, end-to-end encrypted)
+- Cloud Backup (iCloud or Google Drive, end-to-end encrypted)
 - Days-abroad tracker for tax days and visa limits
 - Country day-limit allowances per family member
 - Every family member, one vault
@@ -104,13 +102,13 @@ Trip readiness, visa and tax day-count features are assistive only - always veri
 
 ## Why One-Time and Not a Subscription?
 
-Pro is a one-time purchase. We run no servers that hold or read your documents. Your document files stay on your device unless you share or export them, or turn on encrypted backup to your own cloud (Pro). Pro has no recurring subscription charges.
+Pro is a one-time purchase. We run no servers that hold or read your documents. Your document files stay on your device unless you share or export them, or turn on encrypted backup to your own cloud (Pro). That's why we can offer a one-time price instead of endless subscriptions. Pro has no recurring subscription charges.
 
 A one-time price is fair, sustainable, and honest. You pay once. We stop asking.
 
 ## What's Included Free, Forever
 
-The free tier isn't a trial. It's a real, permanent tier with core features you'll actually use: one profile, 5 documents, expiry reminders, document sharing, biometric lock, on-device encryption, and Vault Export and Import. If you're solo or just testing, free is all you need.
+The free tier isn't a trial. It's a real, permanent tier with core features you'll actually use: one profile, 5 documents, expiry reminders, document sharing, biometric lock, on-device encryption, and vault export and import. If you're solo or just testing, free is all you need.
 
 No time limits. No features that mysteriously disappear. No dark patterns pushing you to upgrade.
 

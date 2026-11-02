@@ -6,7 +6,7 @@ Source: https://traveldocumentvault.com/nl/faq/export-import/
 
 ---
 
-Vault Export en Import zijn gratis voor iedereen. Exporteer ondersteunde kluisgegevens als een versleuteld, met een wachtwoord beveiligd bestand (.tdvault), binnen de maximale bestandsgrootte. Importeer het op een ander ondersteund iOS- of Android-apparaat met de onderstaande stappen.
+Kluisexport en back-upimport zijn gratis voor iedereen. Exporteer ondersteunde kluisgegevens als een versleuteld, met een wachtwoord beveiligd bestand (.tdvault), binnen de maximale bestandsgrootte. Importeer het op een ander ondersteund iOS- of Android-apparaat met de onderstaande stappen.
 
 ## Waarom exporteren en importeren?
 
@@ -75,7 +75,7 @@ Controleer na het importeren het tabblad Familie om te bevestigen dat alle profi
 
 ## Klaar om uw kluis te exporteren?
 
-Vault Export en Import zijn gratis voor iedereen. Pro voegt Cloudback-up, onbeperkte profielen, gecombineerde PDF-export en meer toe. Eenmalige aankoop, geen abonnement.
+Kluisexport en back-upimport zijn gratis voor iedereen. Pro voegt Cloudback-up, onbeperkte profielen, gecombineerde PDF-export en meer toe. Eenmalige aankoop, geen abonnement.
 
 ![Download van de App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 

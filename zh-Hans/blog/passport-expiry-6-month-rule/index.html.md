@@ -66,8 +66,6 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rul
 
 在任何国际旅行前，请始终使用IATA Travel Centre验证您的具体要求，这是航空公司实时检查乘客文件所使用的系统。
 
-**Travel Document Vault** 通过 Pro 按已保存的行程结束后默认180天的缓冲期检查关联护照，除非您设置了自定义有效期缓冲。请另行核实目的地的实际规定。在 [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)、[Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog) 均可下载。
-
 ## 6个月规则不适用的情况
 
 许多目的地除了您的行程日期之外别无其他要求。英国外交部对日本的说法很直白：您的护照只需在您逗留期间保持有效，不需要额外的有效期。澳大利亚和美国采用相同的标准，只要求护照在您计划逗留期间保持有效。
@@ -163,6 +161,10 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rul
 ### 如果我只是过境转机，6个月规则也适用吗？
 
 通常适用，而这正是人们容易忽略的一步。英国外交部在其澳大利亚和美国旅行建议中都指出，如果您途中要在另一个国家转机，也需要满足该国的入境要求，而许多国家要求六个月有效期。同一个目的地，直飞航班和经停航班可能有不同的证件要求。
+
+### 有国家会在护照过期后再延长六个月有效期吗？
+
+没有任何国家会为您的护照增加有效期。人们通常说的那份名单由美国海关与边境保护局发布：名单上国家的公民无需满足美国的六个月有效期要求，护照只要在计划停留期间有效即可。它只适用于入境美国，其他地方一概不适用。
 
 ## 相关文章
 

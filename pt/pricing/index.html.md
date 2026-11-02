@@ -10,8 +10,6 @@ $9.99, uma única vez. Sem subscrição, sem taxas ocultas, sem recolha de dados
 
 Preço em dólares americanos. Definimos o preço de cada país localmente em vez de o converter a partir do dólar, e a App Store ou a Google Play mostra o seu antes de pagar.
 
-Não executamos servidores que alguma vez detêm ou podem ler os seus documentos. Os ficheiros de documentos ficam no dispositivo, salvo se os partilhar ou exportar, ou ativar a cópia de segurança encriptada (Pro). É por isso que podemos oferecer um preço único em vez de subscrições sem fim.
-
 ## Escolha o Seu Plano
 
 ### Gratuito
@@ -37,6 +35,8 @@ $9.99, compra única
 
 Para toda a sua família. Pague uma vez. Todas as atualizações v1.x incluídas, para sempre.
 
+USD. O preço do seu país é definido localmente em vez de convertido a partir do dólar, e a App Store ou a Google Play mostra-o antes de pagar.
+
 [Sobre a nossa política de versão →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
 - Planeador de viagens com semáforo de preparação familiar
@@ -55,7 +55,7 @@ Para toda a sua família. Pague uma vez. Todas as atualizações v1.x incluídas
 
 Tudo o que precisa para viajar sozinho
 
-Gratuito
+$0
 
 - Passaportes, vistos, cartões de identidade e muito mais
 - Digitalize documentos e confirme as datas de validade detetadas
@@ -102,7 +102,7 @@ A preparação de viagens, vistos e recursos de contagem de dias de impostos sã
 
 ## Porquê Uma Compra Única e Não uma Subscrição?
 
-Pro é uma compra única. Não temos servidores que guardem ou leiam os seus documentos. Os ficheiros de documentos ficam no dispositivo, salvo se os partilhar ou exportar, ou ativar a cópia de segurança encriptada para a sua própria nuvem (Pro). Pro não tem cobranças de subscrição recorrentes.
+O Pro é uma compra única. Não temos servidores que guardem ou leiam os seus documentos. Os ficheiros dos seus documentos ficam no dispositivo, a não ser que os partilhe ou exporte, ou que ative a cópia de segurança encriptada para a sua própria nuvem (Pro). É por isso que podemos oferecer um preço único em vez de subscrições sem fim. O Pro não tem cobranças de subscrição recorrentes.
 
 Um preço único é justo, sustentável e honesto. Paga uma vez. Paramos de pedir.
 

@@ -6,7 +6,7 @@ Source: https://traveldocumentvault.com/faq/export-import/
 
 ---
 
-Vault Export and Import are free for everyone. Export supported vault data as an encrypted, password-protected file (.tdvault), within the size limit. Import it on another supported iOS or Android device using the steps below.
+Vault export and import are free for everyone. Export supported vault data as an encrypted, password-protected file (.tdvault), within the size limit. Import it on another supported iOS or Android device using the steps below.
 
 ## Why export and import?
 
@@ -62,7 +62,7 @@ Navigate to where you saved the exported vault file and select it. The app warns
 
 ### Verify all data is present
 
-After import, check the Family tab to confirm all profiles appear. Open a few documents to verify attachments are intact. The import process replaces any existing data on this device.
+After import, check Profiles to confirm all profiles appear. Open a few documents to verify attachments are intact. The import process replaces any existing data on this device.
 
 ### Important notes
 
@@ -75,7 +75,7 @@ After import, check the Family tab to confirm all profiles appear. Open a few do
 
 ## Ready to export your vault?
 
-Vault Export and Import are free for everyone. Pro adds cloud backup, unlimited profiles, combined PDF export, and more. One-time purchase, no subscription.
+Vault export and import are free for everyone. Pro adds cloud backup, unlimited profiles, combined PDF export, and more. One-time purchase, no subscription.
 
 ![Download on the App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 

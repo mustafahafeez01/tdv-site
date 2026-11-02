@@ -10,8 +10,6 @@ $9.99, una sola vez. Sin suscripción, sin cargos ocultos, sin recopilación de 
 
 Precio en dólares estadounidenses. Fijamos el precio de cada país de forma local en lugar de convertirlo desde el dólar, y la App Store o Google Play muestra el tuyo antes de que pagues.
 
-No ejecutamos servidores que jamás almacenen ni puedan leer tus documentos. Tus archivos de documentos se quedan en tu dispositivo salvo que los compartas, exportes o actives la copia de seguridad cifrada (Pro). Por eso podemos ofrecer un precio único en lugar de suscripciones interminables.
-
 ## Elige Tu Plan
 
 ### Gratuito
@@ -37,12 +35,14 @@ $9.99, compra única
 
 Para toda tu familia. Paga una sola vez. Todas las actualizaciones v1.x incluidas, para siempre.
 
+USD. El precio de tu país se fija de forma local en lugar de convertirlo desde el dólar, y la App Store o Google Play lo muestra antes de que pagues.
+
 [Sobre nuestra política de versiones →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
 - Planificador de viajes con semáforo de preparación familiar
 - Tu Propia Copia de Seguridad en la Nube (iCloud o Google Drive, cifrada de extremo a extremo)
 - Rastreador de días en el extranjero para impuestos y límites de visas
-- Asignaciones de límite de días por país para cada miembro de la familia
+- Límites de días por país para cada miembro de la familia
 - Cada miembro de la familia, una bóveda
 - **Documentos** ilimitados
 - Panel de vencimiento familiar completo
@@ -55,7 +55,7 @@ Para toda tu familia. Paga una sola vez. Todas las actualizaciones v1.x incluida
 
 Todo lo que necesitas para viajes en solitario
 
-Gratuito
+$0
 
 - Pasaportes, visas, IDs y más
 - Escanea y confirma las fechas de caducidad detectadas
@@ -87,7 +87,7 @@ Todo en Gratuito, más:
 - Planificador de viajes con semáforo de preparación familiar
 - Tu Propia Copia de Seguridad en la Nube (iCloud o Google Drive, cifrada de extremo a extremo)
 - Rastreador de días en el extranjero para impuestos y límites de visas
-- Asignaciones de límite de días por país para cada miembro de la familia
+- Límites de días por país para cada miembro de la familia
 - Cada miembro de la familia, una bóveda
 - **Documentos** ilimitados
 - Panel de vencimiento familiar completo
@@ -102,7 +102,7 @@ Las características de preparación de viaje, visa y conteo de días de impuest
 
 ## ¿Por Qué Compra Única en Lugar de Suscripción?
 
-Pro es una compra única. No tenemos servidores que guarden o lean tus documentos. Tus archivos de documentos se quedan en tu dispositivo salvo que los compartas, exportes o actives la copia de seguridad cifrada en tu propia nube (Pro). Pro no tiene cargos recurrentes de suscripción.
+Pro es una compra única. No tenemos servidores que guarden o lean tus documentos. Tus archivos de documentos se quedan en tu dispositivo salvo que los compartas, exportes o actives la copia de seguridad cifrada en tu propia nube (Pro). Por eso podemos ofrecer un precio único en lugar de suscripciones interminables. Pro no tiene cargos recurrentes de suscripción.
 
 Un precio único es justo, sostenible y honesto. Pagas una vez. Dejamos de preguntar.
 

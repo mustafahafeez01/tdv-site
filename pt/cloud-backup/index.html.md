@@ -64,7 +64,7 @@ Várias camadas de segurança estão entre um toque acidental e dados perdidos.
 
 **Repor e ressincronizar.** Se os dados locais e a cópia de segurança na nuvem ficarem dessincronizados, use Repor e ressincronizar para enviar uma nova cópia do cofre.
 
-### ⚠ O Seu Código de Recuperação É Crítico
+### O Seu Código de Recuperação É Crítico
 
 O código de recuperação desbloqueia as chaves de encriptação da nuvem necessárias para restaurar a cópia de segurança. Não podemos repô-lo. Se perder todas as cópias do código e o acesso a todos os dispositivos que ainda conseguem desbloquear o cofre, não podemos recuperar a cópia de segurança encriptada.
 
@@ -88,27 +88,27 @@ Para documentos críticos, mantenha sempre uma cópia independente, tal como uma
 
 ## Encriptação e recuperação
 
-#### AES-256-GCM
+### AES-256-GCM
 
 Encriptação autenticada do conteúdo dos documentos.
 
-#### PBKDF2 600k Iterações
+### PBKDF2 600k Iterações
 
 Derivação de chave computacionalmente cara. Isto aumenta o custo das tentativas de adivinhar o código de recuperação.
 
-#### Expansão de Chave HKDF
+### Expansão de Chave HKDF
 
 Cada ficheiro de cópia de segurança usa uma chave separada, e a restauração volta a encriptar os documentos com a chave própria do novo dispositivo. Um dispositivo autorizado ou código de recuperação comprometido pode expor o cofre partilhado na nuvem.
 
-#### Design de Conhecimento Zero
+### Design de Conhecimento Zero
 
 A cópia de segurança encriptada fica na sua própria conta na nuvem. Não a recebemos nem guardamos as chaves necessárias para ler o conteúdo dos documentos.
 
-#### O Que Apple Vê
+### O Que Apple Vê
 
 O conteúdo dos documentos fica encriptado no seu iCloud ou Google Drive. Os metadados da cópia de segurança, como nomes de dispositivos, contagens e datas e horas, não são encriptados.
 
-#### Perda de Código de Recuperação
+### Perda de Código de Recuperação
 
 Se perder todas as cópias do código de recuperação e o acesso a todos os dispositivos que ainda conseguem desbloquear o cofre, não podemos desencriptar as cópias de segurança. Não guardamos as chaves de encriptação da nuvem.
 

@@ -90,8 +90,6 @@ Det gælder, uanset om dit pas udløb, før du forlod Storbritannien, eller mens
 
 Er dit pas allerede udløbet, og du søger efter, hvad du skal gøre nu, gennemgår [vores tilhørende artikel det trin for trin](https://traveldocumentvault.com/da/blog/passport-expired-what-to-do/). Har du en rejse på vej, og dit pas nærmer sig udløb, er dette øjeblikket til at forny det i stedet for at vente, til det udløber, hvilket betyder, at du betaler for Premiumtjenesten i stedet for standardgebyret. Tjek familiens pas nu, før I booker nogen rejse.
 
-**Indstil påmindelser om udløb måneder i forvejen, ikke uger.** [Travel Document Vault holder styr på dit pasudløb og sender som standard påmindelser fra otte måneder før og igen, efterhånden som udløb nærmer sig](https://traveldocumentvault.com/da/blog/passport-expiry-6-month-rule/). Tilføj hvert pas i husstanden med Pro. Brug påmindelserne til at planlægge fornyelser.
-
 ## Hvis du allerede er i udlandet, og dit pas udløber
 
 Det er det sværeste scenarie at planlægge for, når dit pas udløber, mens du stadig er i udlandet. Udløber det, før du rejser hjem, kan du ikke gå om bord på et fly eller en færge hjem, og du skal kontakte nærmeste britiske ambassade eller konsulat for at få et nødrejsedokument, nogle gange kaldet et ETD eller nødpas, som kun er gyldigt til at komme hjem.
@@ -133,6 +131,10 @@ Nej, men du kan stadig ikke rejse med det. Et beskadiget pas kan blive afvist af
 ### Kan jeg forny et britisk pas, der allerede er udløbet?
 
 Ja. GOV.UK nævner et udløbet pas som en grund til at forny, før du rejser, så de fleste bruger den almindelige fornyelsesservice for voksne. Undtagelsen er et pas udstedt før den 1. januar 1994, hvor du i stedet skal søge om et første voksenpas. Dit nye pas får et andet nummer, så opdater eventuelle bookinger foretaget med det gamle.
+
+### Kan man booke en ferie med et udløbet pas?
+
+Ja, der er intet, der hindrer dig i at booke, for ingen tjekker passet på købstidspunktet. Det skal dog være gyldigt den dag, du rejser, og GOV.UK anbefaler, at du venter med at booke, indtil du har det nye pas, fordi det ikke får samme nummer som det gamle.
 
 ## Relaterede artikler
 

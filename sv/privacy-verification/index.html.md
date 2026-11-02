@@ -8,21 +8,21 @@ Source: https://traveldocumentvault.com/sv/privacy-verification/
 
 ## Våra integritetsgarantier
 
-### Noll spårare
+### Inga annonsspårare
 
-Ingen analys-SDK, ingen annonsbibliotek, ingen spårningspixlar i appen.
+Inga annonsnätverk, ingen beteendeanalys och inga spårningspixlar i appen. Valfri kraschrapportering är separat och förblir avstängd om du inte själv slår på den.
 
-### Ingen utgående datainsamling
+### Ingen insamling av dokumentdata
 
-Appen gör inga utgående anslutningar som standard. Den fungerar helt offline. Det enda nätverksanvändandet är valfri Pro-molnsäkerhetskopiering, som synkroniserar med ditt eget iCloud eller Google Drive – aldrig till våra servrar.
+Dina dokument, skanningar, utgångsdatum och valvets innehåll skickas inte till Travel Document Vault. Appen fungerar helt offline för vanlig dokumentlagring och påminnelser.
 
 ### Som standard på enheten
 
-Alla dokument, skanningar och data stannar på din enhet. Det finns inget Travel Document Vault-moln, ingen Travel Document Vault-server, ingen Travel Document Vault-backend. Pro-användare kan valfritt säkerhetskopiera sitt krypterade valv till sitt eget iCloud- eller Google Drive-konto – bara de håller återställningsnyckeln.
+Dokumenten stannar på din enhet som standard. Det finns inget molnkonto, ingen dokumentserver och ingen backend-databas hos Travel Document Vault.
 
 ### AES-256-GCM-kryptering
 
-Varje dokument krypteras innan det vidrör din enhets lagring.
+Appen krypterar dokumentdata innan den sparas i appens lokala lagring. Pro-användare kan valfritt säkerhetskopiera en krypterad valvfil till sitt eget iCloud- eller Google Drive-konto - bara de håller återställningsnyckeln.
 
 ## Verifiering
 
@@ -34,7 +34,7 @@ Installera en nätverksövervakare som **mitmproxy** (gratis, öppen källkod), 
 
 Inställningar har en knapp för **Sök efter uppdateringar**. Kontrollen är avstängd som standard: den körs när du trycker på knappen, eller en gång per appstart om du aktiverar Sök efter uppdateringar vid öppning. En pågående nedladdning kan fortsätta när appen går till bakgrunden. Kontrollen kontaktar **updates.traveldocumentvault.com** – vår egen uppdateringsserver, som drivs av oss på Google Cloud och som tillhandahåller kryptografiskt signerade uppdateringsfiler från en lagringsbucket. Uppdateringshanteraren skriver inga förfrågningsloggar för applikationen. Varje uppdatering är signerad med en nyckel som bara vi har, och appen avvisar allt vars signatur inte motsvarar det certifikat som är inbyggt i den. Samma tryck kontrollerar också om en nyare version av appen finns på **App Store** eller **Google Play**. Funktionen finns så att vissa felkorrigeringar kan nå dig snabbare än att vänta på en helt ny release i App Store eller Google Play, användbart för brådskande korrigeringar, beroende på typ av korrigering. Dokumentlagring kräver inget nätverk; köpverifieringar och aktiverade valfria funktioner kan göra automatiska nätverksanrop.
 
-### 2. iOS App Privacy Report
+### 2. Integritetsrapport för appar i iOS
 
 På iPhone går du till **Inställningar > Integritet och säkerhet > Integritetsrapport för appar**. Den här inbyggda Apple-funktionen visar vilka appar som har kontaktat nätdomäner. Travel Document Vault skickar inte dina dokument, skanningar, utgångsdatum eller valvinnehåll till oss. Om du har aktiverat Pro-molnsäkerhetskopiering kommer du att se anslutningar till Apples iCloud-domäner – det är din egen säkerhetskopia som synkroniseras till ditt eget iCloud-konto.
 
@@ -165,3 +165,11 @@ Dessa är vanliga behörigheter som många appar frågar om. Vi frågar inte om 
 **Plats** – ingen GPS, ingen geolokalisering, ingen spårning **Kontakter** – ingen tillgång till din adressbok **Bluetooth** – ingen lokalt nätverk eller enhetssökning **Kalender** – påminnelser hanteras på enheten, inte via din kalender
 
 Har du fler frågor? Läs vår fullständiga [Integritetspolicy](https://traveldocumentvault.com/privacy-policy/) eller kontrollera [Frågor](https://traveldocumentvault.com/sv/faq/).
+
+## Ladda ned gratis. Ingen prenumeration.
+
+Konfigurera det ikväll. Låt appen komma ihåg så att du slipper.
+
+![Ladda ned på App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Hämta på Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

@@ -64,7 +64,7 @@ Flere sikkerhedslag står mellem et utilsigtet tryk og tabt data.
 
 **Nulstil og gensynk.** Hvis dine lokale data og cloud-backup ikke længere er synkroniserede, kan du bruge Nulstil og gensynkroniser til at uploade en ny kopi af din hvælving.
 
-### ⚠ Din gendannelseskode er kritisk
+### Din gendannelseskode er kritisk
 
 Din gendannelseskode låser de krypteringsnøgler til skyen op, som du skal bruge til at gendanne din backup. Vi kan ikke nulstille den for dig. Hvis du mister alle kopier og adgang til alle enheder, der stadig kan låse hvælvingen op, kan vi ikke gendanne den krypterede backup.
 
@@ -88,27 +88,27 @@ Du er ansvarlig for at vedligeholde dine egne dokumentbackups og for at holde di
 
 ## Kryptering og gendannelse
 
-#### AES-256-GCM
+### AES-256-GCM
 
 Autentificeret kryptering af dokumentindhold.
 
-#### PBKDF2 600k iterationer
+### PBKDF2 600k iterationer
 
 Nøgleafledning, der kræver meget beregningsarbejde. Det øger omkostningerne ved at gætte gendannelseskoden.
 
-#### HKDF nøgleudvidelse
+### HKDF nøgleudvidelse
 
 Separate nøgler til hver backupfil; en gendannelse krypterer dine dokumenter igen med den nye enheds egen nøgle. En kompromitteret autoriseret enhed eller gendannelseskode kan blotlægge den fælles hvælving i skyen.
 
-#### Zero-knowledge-design
+### Zero-knowledge-design
 
 Din krypterede backup bliver i din egen skykonto. Vi modtager den ikke og har ikke de nøgler, der skal til for at læse dokumentindholdet.
 
-#### Hvad Apple ser
+### Hvad Apple ser
 
 Dokumentindhold er krypteret i din iCloud eller Google Drive. Backupmetadata, såsom enhedsnavne, antal og tidsstempler, er ikke krypteret.
 
-#### Tab af gendannelseskode
+### Tab af gendannelseskode
 
 Hvis du mister alle kopier af din gendannelseskode og adgang til alle enheder, der stadig kan låse hvælvingen op, kan vi ikke dekryptere dine backups. Vi opbevarer ikke dine krypteringsnøgler til skyen.
 

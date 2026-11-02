@@ -42,19 +42,19 @@ Ställ in ett fast eller rullande fönster för varje land med din egen dagsgrä
 
 ## Och mycket mer
 
-#### Landflagga + stad
+### Landflagga + stad
 
 Resekarta visar flagga för destination och stad. Planera på en blick. Veta vart det går.
 
-#### Nedräkning av dagar
+### Nedräkning av dagar
 
 Hur många dagar tills resan? Nedräkning visas på resekort. Får alla att se fram emot det.
 
-#### Alltid offline
+### Alltid offline
 
 Fungerar 100 % offline. Planera på flygplatsen. Inget internet krävs. Fungerar i flygplansläge.
 
-#### Valfri molnsynk
+### Valfri molnsynk
 
 Pro: Synk med ditt eget iCloud eller Google Drive. Åtkomst från flera enheter. Du håller nyckeln.
 

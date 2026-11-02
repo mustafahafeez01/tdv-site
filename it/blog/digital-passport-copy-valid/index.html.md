@@ -83,8 +83,6 @@ Le copie del passaporto contengono informazioni di identità sensibili: nome com
 
 Se dovesse correggere una sola abitudine, sostituisca il PDF inviato per email o la foto nel rullino con un'app crittografata: è proprio quella copia casuale la più esposta a finire in mani sbagliate se il Suo telefono o la Sua posta vengono compromessi.
 
-**Travel Document Vault** conserva copie crittografate di tutti i Suoi documenti di viaggio sul dispositivo. AES-256 crittografato sul Suo telefono, nessun account richiesto. Backup crittografato facoltativo sul Suo iCloud o Google Drive personale (Pro) sigillato con un codice di recupero solo Lei possiede. [Disponibile sull'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 Se si sta chiedendo se l'archiviazione cloud è sicura per le copie del passaporto, consulti la Nostra guida su [l'archiviazione dei passaporti in Google Foto](https://traveldocumentvault.com/it/blog/is-it-safe-to-store-passport-in-google-photos/). Spiega perché un'app crittografata dedicata offre una protezione più forte.
 
 Se non ne ha ancora una, scansioni oggi la pagina con la foto del Suo passaporto, prima di ritrovarsi davanti a un banco del check-in o di un'ambasciata a doverne avere bisogno.

@@ -28,9 +28,11 @@ I tempi di elaborazione si muovono con il personale, il volume di domande e la s
 
 Il Dipartimento di Stato USA pubblica i suoi tempi di elaborazione attuali su travel.state.gov, e cambiano durante tutto l'anno con la domanda e il personale. Esistono tre vie:
 
-- **Ordinaria:** la coda predefinita, senza priorità.
-- **Accelerata:** vi fa avanzare nella coda dietro pagamento di una commissione aggiuntiva, senza saltare alcun controllo.
-- **Appuntamento urgente (di persona):** per viaggi genuinamente imminenti, con prova della data di viaggio — prenotabile presso un'agenzia passaporti regionale.
+| Via | Cosa state effettivamente pagando |
+|---|---|
+| Ordinaria | Elaborata più o meno in ordine di arrivo, senza priorità. La scelta predefinita per chi non ha un viaggio alle porte. |
+| Accelerata a pagamento | Una posizione più avanzata nella coda o un appuntamento prenotabile davanti all'arretrato ordinario. Valgono le stesse regole di idoneità e gli stessi controlli sui documenti. |
+| Appuntamento urgente di persona | Accesso diretto a un ufficio o a un'agenzia passaporti quando il viaggio è davvero imminente. Richiede la prova delle date di viaggio e di norma viene concesso solo quando è chiaro che la via ordinaria e quella a pagamento non arriverebbero in tempo. |
 
 Gli appuntamenti urgenti sono disponibili per viaggi documentati e imminenti. Prenotate su travel.state.gov e portate prova di viaggio — non vi vedranno senza di essa.
 
@@ -65,8 +67,6 @@ Le domande di passaporto dei bambini sono una storia diversa. Sono più compless
 Immigration, Refugees and Citizenship Canada (IRCC) offre il rinnovo online agli adulti idonei che non viaggiano nei prossimi 20 giorni lavorativi; tutti gli altri presentano domanda per posta tramite Service Canada o di persona presso un ufficio Passaporti Canada, quindi conviene considerare i tempi di spedizione. Per i viaggi urgenti esistono opzioni di appuntamento urgente ed express di persona dietro pagamento di una commissione aggiuntiva.
 
 Questo rende il processo più impegnativo dal punto di vista logistico, specialmente se vivete da qualche parte in zona rurale e l'ufficio passaporti più vicino è lontano. Controllate la pagina dell'IRCC per i tempi di elaborazione attuali prima di fare domanda, e aggiungete il tempo di spedizione in entrambe le direzioni se fate domanda per posta.
-
-**Impostate un promemoria di rinnovo ora** — Travel Document Vault vi notifica 6, 3 e 1 mese prima che il vostro passaporto scada, così state rinnovando con abbondanza di tempo, non disperatamente all'ultimo minuto. [Scaricate su App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Poche cause prevedibili provocano la maggior parte dei ritardi
 

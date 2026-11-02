@@ -99,8 +99,6 @@ Her er mønstret, der fanger familier: I fornyer jeres eget pas, opdaterer kalen
 
 Alle tre metoder virker, men vi ville som udgangspunkt vælge den, der sender påmindelsen automatisk, for et regneark hjælper kun, hvis I husker at åbne det. Det vigtigste er at vælge den, der passer til, hvordan I allerede gør tingene, og rent faktisk holde fast i den.
 
-**Travel Document Vault** holder styr på gemte udløbsdatoer med paspåmindelser fra otte måneder før udløb. Scan hvert pas, og bekræft eller indtast udløbsdatoen. Tilføj hele familien med Pro for at samle fornyelsesdatoerne. [Hent fra App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 ## Tjekliste før afrejse for familier
 
 Kør denne tjekliste igennem, når I booker – ikke aftenen før afrejse. Det er det, der giver jer tid nok til at rette op på det, der skal rettes.

@@ -8,21 +8,21 @@ Source: https://traveldocumentvault.com/zh-Hans/privacy-verification/
 
 ## 我们的隐私声明
 
-### 零追踪器
+### 无广告跟踪
 
-应用中无分析 SDK、无广告库、无跟踪像素。
+应用内没有广告网络、没有行为分析，也没有跟踪像素。可选的崩溃报告是独立功能，除非您主动开启，否则始终关闭。
 
-### 零出站数据收集
+### 不收集文档数据
 
-应用默认不建立出站连接。完全离线工作。唯一的网络使用是可选的 Pro 云备份，它同步到您自己的 iCloud 或 Google Drive——永远不会同步到我们的服务器。
+您的文档、扫描件、到期日期和保险库内容都不会发送给 Travel Document Vault。日常的文档存储和提醒功能完全离线运行。
 
 ### 默认情况下在设备上存储
 
-所有文档、扫描和数据都保存在您的设备上。无 TDV 云、无 TDV 服务器、无 TDV 后端。Pro 用户可以选择将其加密保险库备份到他们自己的 iCloud 或 Google Drive 账户——只有他们持有恢复密钥。
+默认情况下，文档保存在您自己的设备上。不存在 Travel Document Vault 云账户、文档服务器或后端数据库。
 
 ### AES-256-GCM 加密
 
-每个文档在接触设备存储之前都会被加密。
+应用会在将文档数据保存到本地应用存储之前对其加密。Pro 用户可以选择将加密的保险库文件备份到自己的 iCloud 或 Google Drive 账户，恢复密钥只有本人持有。
 
 ## 验证
 
@@ -165,3 +165,11 @@ Google Play
 **位置**：无 GPS、无地理围栏、无跟踪 **联系人**：不访问您的通讯录 **蓝牙**：无本地网络或设备扫描 **日历**：提醒在设备上处理，不通过您的日历
 
 还有疑问吗？阅读我们的完整 [隐私政策](https://traveldocumentvault.com/privacy-policy/) 或查看 [常见问题](https://traveldocumentvault.com/zh-Hans/faq/)。
+
+## 免费下载。无订阅。
+
+今晚设置好，以后就交给应用来记。
+
+![在 App Store 上下载](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![在 Google Play 上获取](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

@@ -8,21 +8,21 @@ Source: https://traveldocumentvault.com/id/privacy-verification/
 
 ## Klaim privasi kami
 
-### Tanpa pelacak
+### Tanpa pelacak iklan
 
-Tidak ada SDK analitik, tidak ada perpustakaan iklan, tidak ada piksel pelacak di dalam aplikasi.
+Tidak ada jaringan iklan, tidak ada analitik perilaku, dan tidak ada piksel pelacak di dalam aplikasi. Pelaporan error bersifat opsional, terpisah, dan tetap nonaktif sampai Anda mengaktifkannya sendiri.
 
-### Tanpa pengumpulan data keluar
+### Tanpa pengumpulan data dokumen
 
-Aplikasi tidak membuat koneksi keluar secara bawaan. Bekerja sepenuhnya offline. Satu-satunya penggunaan jaringan adalah pencadangan cloud Pro opsional, yang disinkronkan ke iCloud atau Google Drive Anda sendiri, tidak pernah ke server kami.
+Dokumen, pemindaian, tanggal kedaluwarsa, dan isi brankas Anda tidak dikirim ke Travel Document Vault. Untuk penyimpanan dan pengingat biasa, aplikasi berfungsi sepenuhnya offline.
 
 ### Disimpan di perangkat secara bawaan
 
-Semua dokumen, pemindaian, dan data tetap berada di perangkat Anda. Tidak ada cloud TDV, tidak ada server TDV, tidak ada backend TDV. Pengguna Pro dapat secara opsional mencadangkan brankas terenkripsi mereka ke akun iCloud atau Google Drive mereka sendiri, hanya mereka yang memegang kunci pemulihan.
+Dokumen tetap tersimpan di perangkat Anda secara bawaan. Tidak ada akun cloud Travel Document Vault, server dokumen, atau database backend.
 
 ### Enkripsi AES-256-GCM
 
-Setiap dokumen dienkripsi sebelum menyentuh penyimpanan perangkat Anda.
+Aplikasi mengenkripsi data dokumen sebelum menyimpannya ke penyimpanan lokal aplikasi. Pengguna Pro dapat secara opsional mencadangkan file brankas terenkripsi ke akun iCloud atau Google Drive mereka sendiri, hanya mereka yang memegang kunci pemulihan.
 
 ## Verifikasi
 
@@ -165,3 +165,11 @@ Ini adalah izin umum yang diminta banyak aplikasi. Kami tidak meminta satu pun d
 **Lokasi** - tidak ada GPS, tidak ada geofencing, tidak ada pelacakan **Kontak** - tidak ada akses ke buku alamat Anda **Bluetooth** - tidak ada jaringan lokal atau pemindaian perangkat **Kalender** - pengingat ditangani on-device, bukan melalui kalender Anda
 
 Masih memiliki pertanyaan? Baca [Kebijakan Privasi](https://traveldocumentvault.com/privacy-policy/) lengkap kami atau periksa [FAQ](https://traveldocumentvault.com/id/faq/).
+
+## Unduh Gratis. Tanpa Langganan.
+
+Atur malam ini. Biarkan aplikasi mengingat sehingga Anda tidak perlu.
+
+![Unduh di App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Dapatkan di Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

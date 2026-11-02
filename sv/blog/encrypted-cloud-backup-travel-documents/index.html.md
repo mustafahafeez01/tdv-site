@@ -84,11 +84,11 @@ Installera appen på den nya telefonen och logga in på samma iCloud- eller Goog
 
 Appen kontrollerar också innan den skriver. Om molnsäkerhetskopieringen upptäcker en befintlig säkerhetskopia i det kontot ber den dig välja mellan att återställa och börja om från början. En ny telefon kan inte tyst skriva över det som redan finns där.
 
-### Att byta mellan iPhone och Android innebär att använda Exportera valv
+### Att byta mellan iPhone och Android innebär att exportera valvet
 
 Molnsäkerhetskopiering stannar på en plattform, eftersom den använder din egen iCloud på Apple-enheter och din egen Google Drive på Android. Att gå från den ena till den andra kräver den andra vägen.
 
-Valvexport är kostnadsfri. Under Inställningar skapar Exportera valv en lösenordsskyddad fil med profiler, dokument, resor, inställningar som stöds och läsbara bilagor. Du väljer var den ska sparas: Filer-appen, en lagringsenhet eller ett mejl till dig själv. På den nya telefonen läser Inställningar, Importera säkerhetskopia in filen och ersätter det som redan finns där. Det stöder båda plattformarna. Granska importerade dokument, anteckningar och bilagor, kontrollera påminnelserna igen och behåll originalexporten. Aviseringar skapas på nytt på den mottagande enheten.
+Att exportera valvet är kostnadsfritt. Under Inställningar skapar Exportera valv en lösenordsskyddad fil med profiler, dokument, resor, inställningar som stöds och läsbara bilagor. Du väljer var den ska sparas: Filer-appen, en lagringsenhet eller ett mejl till dig själv. På den nya telefonen läser Inställningar, Importera säkerhetskopia in filen och ersätter det som redan finns där. Det stöder båda plattformarna. Granska importerade dokument, anteckningar och bilagor, kontrollera påminnelserna igen och behåll originalexporten. Aviseringar skapas på nytt på den mottagande enheten.
 
 Den exporterade filen är också svaret för alla som vill ha en kopia som inte alls beror på ett molnkonto. Det är förnuftigt att förvara den på en hårddisk hemma oavsett vilken telefon du bär på.
 

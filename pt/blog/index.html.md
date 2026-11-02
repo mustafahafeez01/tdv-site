@@ -100,7 +100,7 @@ Source: https://traveldocumentvault.com/pt/blog/
 
 ##
 
-[Regras de passaporteQuanto Tempo um Passaporte é Válido para Viajar A maioria dos passaportes de adultos é válida por 10 anos, mas a janela de viagem efetiva costuma ser menor. Veja como os meses de validade são calculados. 30 de abr. de 20266 min](https://traveldocumentvault.com/pt/blog/how-long-is-passport-valid-for-travel/)
+[Regras de passaporteQuanto Tempo um Passaporte é Válido para Viajar A maioria dos passaportes de adultos é válida por 10 anos, mas a janela de viagem efetiva costuma ser menor. Veja como os meses de validade são calculados. 30 de abr. de 20266 min de leitura](https://traveldocumentvault.com/pt/blog/how-long-is-passport-valid-for-travel/)
 
 ##
 
@@ -112,11 +112,11 @@ Source: https://traveldocumentvault.com/pt/blog/
 
 ##
 
-[Privacidade e SegurançaiCloud vs Google Photos vs Cofre Encriptado: A Forma Mais Segura de Guardar o Seu Passaporte Uma comparação honesta das três principais formas de armazenar cópias digitais do passaporte e o que cada uma significa para sua segurança. 15 de abril de 20267 min](https://traveldocumentvault.com/pt/blog/safest-way-to-store-passport-digitally/)
+[Privacidade e SegurançaiCloud vs Google Photos vs Cofre Encriptado: A Forma Mais Segura de Guardar o Seu Passaporte Uma comparação honesta das três principais formas de armazenar cópias digitais do passaporte e o que cada uma significa para sua segurança. 15 de abril de 20267 min de leitura](https://traveldocumentvault.com/pt/blog/safest-way-to-store-passport-digitally/)
 
 ##
 
-[Regras de PassaporteCópia de Passaporte Digital: O Que Conta Como ID Válido Ao Viajar? Companhias aéreas, hotéis, embaixadas e agentes fronteiriços tratam cópias digitais de passaportes de maneira muito diferente. Aqui explicamos exatamente onde uma cópia digital ajuda e onde você realmente precisa do documento físico. Apr 4, 20267 min read](https://traveldocumentvault.com/pt/blog/digital-passport-copy-valid/)
+[Regras de PassaporteCópia de Passaporte Digital: O Que Conta Como ID Válido Ao Viajar? Companhias aéreas, hotéis, embaixadas e agentes fronteiriços tratam cópias digitais de passaportes de maneira muito diferente. Aqui explicamos exatamente onde uma cópia digital ajuda e onde você realmente precisa do documento físico. 4 abr 20267 min de leitura](https://traveldocumentvault.com/pt/blog/digital-passport-copy-valid/)
 
 ##
 

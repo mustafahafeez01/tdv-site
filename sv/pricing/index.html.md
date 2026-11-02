@@ -10,8 +10,6 @@ $9.99, engångsköp. Inga prenumerationer, inga dolda avgifter, ingen datainsaml
 
 Priset anges i amerikanska dollar. Vi fastställer priset för varje land lokalt istället för att räkna om det från dollar, och App Store eller Google Play visar ditt pris innan du betalar.
 
-Vi driver inga servrar som någonsin kan innehålla eller läsa dina dokument. Dina dokumentfiler stannar på din enhet om du inte delar eller exporterar dem, eller aktiverar krypterad säkerhetskopiering (Pro). Det är därför vi kan erbjuda ett engångspris istället för oändliga prenumerationer.
-
 ## Välj ditt abonnemang
 
 ### Gratis
@@ -37,6 +35,8 @@ $9.99 engångsköp
 
 För hela familjen. Betala en gång. Alla v1.x-uppdateringar ingår för alltid.
 
+USD. Priset för ditt land fastställs lokalt istället för att räknas om från dollar, och App Store eller Google Play visar det innan du betalar.
+
 [Om vår versionspolicy →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
 - Reseplanerare med familjens beredskapstrafikljus
@@ -55,7 +55,7 @@ För hela familjen. Betala en gång. Alla v1.x-uppdateringar ingår för alltid.
 
 Allt för soloresan
 
-Gratis
+$0
 
 - Pass, visum, ID och mer
 - Skanna dokument, bekräfta avlästa utgångsdatum
@@ -104,13 +104,13 @@ Reseberedskaps-, visum- och skattedagsfunktioner är endast vägledande – veri
 
 ## Varför engångsprissättning och inte en prenumeration?
 
-Pro är ett engångsköp. Vi driver inga servrar som lagrar eller läser dina dokument. Dina dokumentfiler stannar på din enhet om du inte delar eller exporterar dem, eller aktiverar krypterad säkerhetskopiering till ditt eget moln (Pro). Pro har inga återkommande prenumerationsavgifter.
+Pro är ett engångsköp. Vi driver inga servrar som lagrar eller läser dina dokument. Dina dokumentfiler stannar på din enhet om du inte delar eller exporterar dem, eller aktiverar krypterad säkerhetskopiering till ditt eget moln (Pro). Det är därför vi kan erbjuda ett engångspris istället för oändliga prenumerationer. Pro har inga återkommande prenumerationsavgifter.
 
 Ett engångspris är rättvist, hållbart och ärligt. Du betalar en gång. Vi slutar fråga.
 
 ## Vad ingår gratis, för alltid
 
-Den gratis nivån är inte en provperiod. Det är en riktiga, permanent nivå med kärnfunktioner du kommer faktiskt att använda: en profil, 5 dokument, utgångspåminnelser, dokumentdelning, biometrisk lås, kryptering på enheten samt valvexport och import. Om du är solo eller bara testar är gratis allt du behöver.
+Den gratis nivån är inte en provperiod. Det är en riktiga, permanent nivå med kärnfunktioner du kommer faktiskt att använda: en profil, 5 dokument, utgångspåminnelser, dokumentdelning, biometrisk lås, kryptering på enheten samt export och import av valvet. Om du är solo eller bara testar är gratis allt du behöver.
 
 Inga tidsbegränsningar. Inga funktioner som på ett misteröst sätt försvinner. Inga mörka mönster som pressar dig att uppgradera.
 

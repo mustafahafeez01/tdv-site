@@ -64,7 +64,7 @@ Mehrere Schutzebenen stehen zwischen einem versehentlichen Antippen und Datenver
 
 **Zurücksetzen und erneut synchronisieren.** Wenn Ihre lokalen Daten und die Cloud-Sicherung nicht mehr synchron sind, verwenden Sie „Zurücksetzen und erneut synchronisieren“, um eine neue Kopie Ihres Tresors hochzuladen.
 
-### ⚠ Ihr Wiederherstellungscode ist kritisch
+### Ihr Wiederherstellungscode ist kritisch
 
 Ihr Wiederherstellungscode entsperrt die Cloud-Verschlüsselungsschlüssel, die zur Wiederherstellung Ihres Backups nötig sind. Wir können ihn nicht für Sie zurücksetzen. Wenn Sie jede Kopie und den Zugang zu allen Geräten verlieren, die den Tresor noch entsperren können, können wir das verschlüsselte Backup nicht wiederherstellen.
 
@@ -88,27 +88,27 @@ Sie sind verantwortlich für die Aufrechterhaltung Ihrer eigenen Dokument-Sicher
 
 ## Verschlüsselung und Wiederherstellung
 
-#### AES-256-GCM
+### AES-256-GCM
 
 Authentifizierte Verschlüsselung für Dokumentinhalte.
 
-#### PBKDF2 600k Iterationen
+### PBKDF2 600k Iterationen
 
 Schlüsselableitung, die rechenintensiv ist. Das erhöht den Aufwand, den Wiederherstellungscode zu erraten.
 
-#### HKDF-Schlüsselerweiterung
+### HKDF-Schlüsselerweiterung
 
 Separate Schlüssel für jede Sicherungsdatei; bei einer Wiederherstellung werden Ihre Dokumente mit dem eigenen Schlüssel des neuen Geräts erneut verschlüsselt. Ein kompromittiertes autorisiertes Gerät oder ein kompromittierter Wiederherstellungscode kann den gemeinsamen Cloud-Tresor offenlegen.
 
-#### Zero-Knowledge-Design
+### Zero-Knowledge-Design
 
 Ihr verschlüsseltes Backup bleibt in Ihrem eigenen Cloud-Konto. Wir erhalten es nicht und besitzen nicht die Schlüssel, die zum Lesen seiner Dokumentinhalte nötig sind.
 
-#### Was Apple sieht
+### Was Apple sieht
 
 Dokumentinhalte sind in Ihrem iCloud oder Google Drive verschlüsselt. Backup-Metadaten wie Gerätenamen, Anzahlen und Zeitstempel sind nicht verschlüsselt.
 
-#### Verlust des Wiederherstellungscodes
+### Verlust des Wiederherstellungscodes
 
 Wenn Sie jede Kopie Ihres Wiederherstellungscodes und den Zugang zu allen Geräten verlieren, die den Tresor noch entsperren können, können wir Ihre Backups nicht entschlüsseln. Wir besitzen Ihre Cloud-Verschlüsselungsschlüssel nicht.
 

@@ -71,7 +71,7 @@ Supponiamo che la password dell'account Google sia stata riutilizzata su un sito
 |---|---|---|---|---|
 | Google Photos | Server cloud di Google | In transito + a riposo (chiavi gestite da Google) | Moderato | Accettabile con autenticazione a due fattori forte |
 | iCloud Photos | Server cloud di Apple | In transito + a riposo (chiavi gestite da Apple) | Moderato | Accettabile con autenticazione a due fattori forte |
-| Gestore di password crittografato (1Password, Bitwarden) | Cloud (zero-knowledge) | End-to-end; il provider non può leggere i contenuti | Basso | Buona scelta |
+| Gestore di password crittografato (1Password, Bitwarden) | Nel cloud (zero-knowledge) | End-to-end; il provider non può leggere i contenuti | Basso | Buona scelta |
 | App crittografata sul dispositivo (backup opzionale nel cloud personale) | Il tuo telefono; backup crittografato facoltativo sul tuo cloud (Pro) | Crittografata sul dispositivo; copia crittografata facoltativa sul tuo cloud (Pro) | Minimo | Migliore per documenti sensibili |
 | Rullino fotografico / cartella non crittografata | Dispositivo personale | Solo crittografia del dispositivo | Più alto | Non consigliato |
 
@@ -84,10 +84,6 @@ Advanced Data Protection di Apple (disponibile in iOS 16.2+) eleva il livello �
 Lo stesso rischio di compromissione dell'account si applica a entrambe le piattaforme. Una password debole dell'Apple ID è altrettanto pericolosa di una password debole dell'account Google. Nessuno dei due è progettato specificamente per l'archiviazione di documenti di identità ad alta sensibilità.
 
 Se sei un utente iPhone, abilitare **Advanced Data Protection in iCloud** vale la pena. Un'app crittografata costruita a tale scopo, senza caricamento nel cloud, rimane l'opzione più forte per l'archiviazione di passaporti indipendentemente dalla piattaforma.
-
-**Travel Document Vault** archivia le scansioni del passaporto sul dispositivo con crittografia forte. Nessun account richiesto. Con Pro puoi eseguire il backup di una copia crittografata sul tuo iCloud o Google Drive. Conserva il codice di recupero al sicuro: ti servirà per ripristinare il backup. [Scarica da App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
-![Diagramma di cosa rivela una foto del passaporto - nome, data di nascita, numero di passaporto e foto - insieme a tre rischi, violazione dell'account, accesso di terze parti e indicizzazione dei dati, e tre opzioni più sicure: iCloud con ADP, un'app crittografata, o una copia offline](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/passport-data-risks-it.jpg) Una foto, quattro dati personali, e tre posti più tranquilli dove conservarli.
 
 ## Quali sono le alternative più sicure?
 

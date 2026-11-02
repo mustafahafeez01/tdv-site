@@ -6,7 +6,7 @@ Source: https://traveldocumentvault.com/sv/faq/export-import/
 
 ---
 
-Valvexport och import är gratis för alla. Exportera valvdata som stöds som en krypterad, lösenordsskyddad fil (.tdvault), inom storleksgränsen. Importera den på en annan iOS- eller Android-enhet som stöds med stegen nedan.
+Export och import av valvet är gratis för alla. Exportera valvdata som stöds som en krypterad, lösenordsskyddad fil (.tdvault), inom storleksgränsen. Importera den på en annan iOS- eller Android-enhet som stöds med stegen nedan.
 
 ## Varför exportera och importera?
 
@@ -75,7 +75,7 @@ Efter importen, kontrollera fliken Familj för att bekräfta att alla profiler v
 
 ## Redo att exportera ditt valv?
 
-Vault Export och Import är gratis för alla. Pro lägger till molnsäkerhetskopia, obegränsat antal profiler, kombinerad PDF-export och mer. Engångsköp, ingen prenumeration.
+Export och import av valvet är gratis för alla. Pro lägger till molnsäkerhetskopia, obegränsat antal profiler, kombinerad PDF-export och mer. Engångsköp, ingen prenumeration.
 
 ![Ladda ned på App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 

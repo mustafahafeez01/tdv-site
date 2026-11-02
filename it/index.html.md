@@ -40,7 +40,7 @@ I documenti vengono crittografati sul Suo dispositivo con AES-256-GCM, utilizzan
 
 ### Il Vostro Cloud. La Vostra Chiave.
 
-L’esportazione e l’importazione del vault sono gratuite. Pro aggiunge il backup cloud crittografato sul Suo iCloud o Google Drive. Ripristini con il codice di recupero su un telefono compatibile della stessa piattaforma, usando lo stesso account cloud. Non conserviamo il Suo codice.
+L’esportazione del caveau e l’importazione del backup sono gratuite. Pro aggiunge il backup cloud crittografato sul Suo iCloud o Google Drive. Ripristini con il codice di recupero su un telefono compatibile della stessa piattaforma, usando lo stesso account cloud. Non conserviamo il Suo codice.
 
 ### Promemoria Intelligenti
 
@@ -72,7 +72,7 @@ Pianificate localmente sul Suo dispositivo. Non conosco le Sue date di scadenza.
 
 Nessun server Travel Document Vault conserva i Suoi documenti. Non c’è niente da trovare.
 
-[Leggi la storia del fondatore: perché ho costruito un'app per portare una cosa in meno nella mia testa →](https://traveldocumentvault.com/it/blog/)
+[Leggi la storia del fondatore: perché ho costruito un'app per portare una cosa in meno nella mia testa →](https://traveldocumentvault.com/it/blog/why-i-built-travel-document-vault/)
 
 ## Pronti Quando Ne Ha Bisogno
 
@@ -80,31 +80,25 @@ Nessun server Travel Document Vault conserva i Suoi documenti. Non c’è niente
 - **Compilare Moduli:** Numeri di passaporto, dettagli ID, informazioni assicurative. Sempre a portata di mano.
 - **Domande di Visto:** Esporta immagini di documenti come PDF per la stampa o la condivisione. Rivedi e regola le immagini prima dell'esportazione.
 
+Con Pro
+
 ## Pianificate i viaggi, monitorate le franchigie, sincronizzate sul vostro cloud
 
 Realizzato per le famiglie che viaggiano ovunque.
 
 ### Tutti Pronti, A Colpo d'Occhio
 
-Pro
-
 Semaforo della prontezza familiare. Veda quali documenti collegati richiedono attenzione rispetto alle date di viaggio salvate.
 
 ### Tuo Cloud. Tua Chiave.
-
-Pro
 
 Backup crittografato nel Suo iCloud o Google Drive. Lei detiene il codice di ripristino. Non lo vediamo mai.
 
 ### Traccia Giorni all'Estero
 
-Pro
-
 Registri i giorni trascorsi in ogni paese per familiare. Confronti i giorni dei viaggi salvati con i limiti per paese che inserisce.
 
 ### Profili familiari illimitati
-
-Pro
 
 Aggiungete un profilo per ogni membro della famiglia. Piano gratuito: 1 profilo; Pro sblocca profili illimitati.
 
@@ -193,9 +187,11 @@ Miglior Valore
 
 ### Pro
 
-Acquisto unico
+$9.99, pagamento unico
 
 Per tutta la Sua famiglia. Pagamento unico. Tutti gli aggiornamenti v1.x inclusi, per sempre.
+
+USD. Il prezzo del Suo paese è fissato a livello locale anziché convertito dal dollaro, e l'App Store o Google Play lo mostra prima dell'acquisto.
 
 [Informazioni sulla nostra politica di versione →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -215,7 +211,7 @@ Per tutta la Sua famiglia. Pagamento unico. Tutti gli aggiornamenti v1.x inclusi
 
 Tutto ciò di cui ha bisogno per i viaggi in solitario
 
-Gratuito
+$0
 
 - Passaporti, visti, ID e altro
 - Scansiona documenti e conferma le date di scadenza rilevate
@@ -234,7 +230,11 @@ Per le famiglie
 
 Sblocca il caveau completo per la Sua famiglia
 
-Acquisto unico una volta Per tutta la Sua famiglia. Pagamento unico. Tutti gli aggiornamenti v1.x inclusi, per sempre.
+$9.99 una volta
+
+USD. Il prezzo del Suo paese è fissato a livello locale anziché convertito dal dollaro, e l'App Store o Google Play lo mostra prima dell'acquisto.
+
+Per tutta la Sua famiglia. Pagamento unico. Tutti gli aggiornamenti v1.x inclusi, per sempre.
 
 [Informazioni sulla nostra politica di versione →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -258,7 +258,7 @@ Ripristina gli acquisti in qualsiasi momento con l'account App Store o Google Pl
 
 ## Domande Comuni
 
-È davvero privato? Sì. Per impostazione predefinita, tutto è archiviato sul Suo dispositivo. Non abbiamo server che conservano i documenti né accesso ai documenti. Se attiva il backup facoltativo (Pro), il vault crittografato viene salvato sul Suo iCloud o Google Drive, protetto da un codice di recupero che solo Lei possiede. Non possiamo leggerlo. Nemmeno Apple o Google. Non si fidi solo della nostra parola — [verifichi Lei stesso](https://traveldocumentvault.com/it/privacy-verification/). E se perdo il mio telefono? I Suoi documenti sono crittografati sul dispositivo. La chiave locale resta nell’archiviazione sicura ed è esclusa dai normali backup del telefono. L’esportazione del vault include una copia di quella chiave crittografata con una password. Un normale backup del telefono reinstalla l’app ma non ripristina i documenti. Il backup cloud Pro si ripristina con il codice di recupero su un telefono supportato della stessa piattaforma, usando lo stesso account cloud. Oppure usi l’esportazione e l’importazione gratuite del vault. Il ripristino o l’importazione sostituiscono il vault locale. [Vedi tutte le risposte su privacy e dati](https://traveldocumentvault.com/it/faq/)
+È davvero privato? Sì. Per impostazione predefinita, tutto è archiviato sul Suo dispositivo. Non abbiamo server che conservano i documenti né accesso ai documenti. Se attiva il backup facoltativo (Pro), il vault crittografato viene salvato sul Suo iCloud o Google Drive, protetto da un codice di recupero che solo Lei possiede. Non possiamo leggerlo. Nemmeno Apple o Google. Non si fidi solo della nostra parola — [verifichi Lei stesso](https://traveldocumentvault.com/it/privacy-verification/). E se perdo il mio telefono? I Suoi documenti sono crittografati sul dispositivo. La chiave locale resta nell’archiviazione sicura ed è esclusa dai normali backup del telefono. L’esportazione del caveau include una copia di quella chiave crittografata con una password. Un normale backup del telefono reinstalla l’app ma non ripristina i documenti. Il backup cloud Pro si ripristina con il codice di recupero su un telefono supportato della stessa piattaforma, usando lo stesso account cloud. Oppure usi l’esportazione del caveau e l’importazione del backup, che sono gratuite. Il ripristino o l’importazione sostituiscono il caveau locale. Posso sincronizzare tra dispositivi? Sì. Con Pro attivi il backup sul Suo cloud per sincronizzare il vault crittografato con il Suo iCloud o Google Drive. Il codice di recupero lo tiene Lei. Non accediamo mai ai Suoi dati. Che cos'è il pianificatore di viaggio? Il pianificatore di viaggio (Pro) raggruppa i documenti della famiglia per viaggio e mostra un semaforo di preparazione: verde quando i controlli configurati sui documenti sono superati, ambra quando un documento collegato va ricontrollato. Pianifichi i viaggi insieme, con tranquillità. [Vedi tutte le risposte su privacy e dati](https://traveldocumentvault.com/it/faq/)
 
 **Importante:** Travel Document Vault è uno strumento di organizzazione personale per archiviare copie digitali dei Suoi documenti. **Le copie digitali archiviate in questa app NON sono valide per i viaggi.** Non verifica l'autenticità dei documenti né fornisce consulenza legale o di viaggio. Porti sempre documenti originali e verifichi tutti i requisiti di viaggio con le fonti governative ufficiali.
 

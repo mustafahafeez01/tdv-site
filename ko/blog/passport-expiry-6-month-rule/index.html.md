@@ -66,8 +66,6 @@ Source: https://traveldocumentvault.com/ko/blog/passport-expiry-6-month-rule/
 
 항상 IATA Travel Centre를 사용하여 특정 요구사항을 확인하십시오. 이것은 항공사가 실시간으로 승객 서류를 확인하는 데 사용하는 시스템입니다.
 
-**Travel Document Vault**는 Pro에서 연결된 여권을 저장된 여행 종료일 이후 기본 180일의 여유 기간과 대조합니다. 별도의 유효기간 여유를 설정하면 그 값을 적용합니다. 목적지의 실제 유효기간 규정은 따로 확인하십시오. [App Store에서 다운로드하세요.](https://apps.apple.com/kr/app/travel-document-vault/id6757014877?ct=blog&mt=8) [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog)에서도 받을 수 있습니다.
-
 ## 6개월 규칙이 적용되지 않는 경우
 
 많은 목적지는 여행 기간 외에 아무것도 요구하지 않습니다. 영국 외무부는 일본에 대해 명확히 밝히고 있습니다. 여권은 체류 기간 동안만 유효하면 되고, 추가 유효기간은 필요하지 않습니다. 호주와 미국도 같은 기준을 적용해 여권이 계획된 체류 기간 동안만 유효하면 됩니다.
@@ -163,6 +161,10 @@ Source: https://traveldocumentvault.com/ko/blog/passport-expiry-6-month-rule/
 ### 경유만 하는 경우에도 6개월 규칙이 적용됩니까?
 
 대개 그렇습니다. 사람들이 자주 놓치는 부분입니다. 외무부는 호주와 미국 여행 안내 모두에서, 도중에 다른 나라를 경유하는 경우 그 나라의 입국 요구사항도 충족해야 하며 많은 경유국이 6개월을 요구한다고 명시합니다. 같은 목적지라도 직항편과 경유편에서 서류 요구사항이 다를 수 있습니다.
+
+### 여권이 만료된 뒤 유효기간을 6개월 연장해 주는 국가가 있습니까?
+
+여권에 기간을 더해 주는 국가는 없습니다. 사람들이 흔히 떠올리는 목록은 미국 관세국경보호청이 공개한 것으로, 그 목록에 포함된 국가의 국민은 미국의 6개월 유효기간 요건에서 면제되어 체류 예정 기간 동안만 유효한 여권이 있으면 됩니다. 이는 미국 입국에만 적용되며 다른 곳에는 해당되지 않습니다.
 
 ## 관련 기사
 

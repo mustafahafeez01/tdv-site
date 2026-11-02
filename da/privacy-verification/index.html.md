@@ -8,21 +8,21 @@ Source: https://traveldocumentvault.com/da/privacy-verification/
 
 ## Vores privatlivsgarantier
 
-### Nul sporere
+### Ingen annoncesporing
 
-Ingen analyse-SDK'er, ingen annoncebiblioteker, ingen sporingspixler i appen.
+Ingen annoncenetværk, ingen adfærdsanalyse og ingen sporingspixler i appen. Valgfri fejlrapportering er separat og forbliver slået fra, indtil du selv aktiverer den.
 
-### Ingen udgående dataindsamling
+### Ingen indsamling af dokumentdata
 
-Appen foretager som standard ingen udgående forbindelser. Den fungerer helt offline. Den eneste netværksbrug er valgfri Pro-cloudsikkerhedskopi, som synkroniserer med din egen iCloud eller Google Drive – aldrig til vores servere.
+Dine dokumenter, scanninger, udløbsdatoer og boksens indhold sendes ikke til Travel Document Vault. Appen fungerer helt offline til almindelig dokumentopbevaring og påmindelser.
 
 ### Som standard på enheden
 
-Alle dokumenter, scanninger og data forbliver på din enhed. Der er ingen Travel Document Vault-sky, ingen Travel Document Vault-server, ingen Travel Document Vault-backend. Pro-brugere kan valgfrit sikkerhedskopiere deres krypterede boks til deres egen iCloud- eller Google Drive-konto – kun de har gendannelsesnøglen.
+Dokumenterne forbliver på din enhed som standard. Der findes ingen Travel Document Vault-skykonto, dokumentserver eller backend-database.
 
 ### AES-256-GCM-kryptering
 
-Hvert dokument krypteres, før det rører din enheds opbygning.
+Appen krypterer dokumentdata, før de gemmes i appens lokale lager. Pro-brugere kan valgfrit sikkerhedskopiere en krypteret boksfil til deres egen iCloud- eller Google Drive-konto - kun de har gendannelsesnøglen.
 
 ## Verifikation
 
@@ -34,9 +34,9 @@ Installér en netværksovervågning som **mitmproxy** (gratis, open source), **W
 
 Indstillinger har en knap kaldet **Søg efter opdateringer**. Tjekket er slået fra som standard: det kører, når du trykker på knappen, eller én gang pr. appstart, hvis du slår Søg efter opdateringer ved åbning til. En igangværende download kan fortsætte, efter appen går i baggrunden. Tjekket kontakter **updates.traveldocumentvault.com** – vores egen opdateringsserver, drevet af os på Google Cloud, som tilbyder kryptografisk signerede opdateringsfiler fra en lagerbeholder. Opdateringshåndteringen skriver ikke applikationslogfiler for anmodninger. Hver opdatering er signeret med en nøgle, som kun vi har, og appen afviser alt, hvis signatur ikke matcher det certifikat, der er indbygget i den. Det samme tryk tjekker også **App Store** eller **Google Play** for en nyere version af appen. Den findes, så visse fejlrettelser kan nå dig hurtigere end at vente på en helt ny udgivelse i App Store eller Google Play, nyttigt for hastende rettelser, afhængigt af rettelsens art. Dokumentlagring kræver ikke netværk; købskontrol og aktiverede valgfrie funktioner kan foretage automatiske netværksopkald.
 
-### 2. iOS App Privacy Report
+### 2. Privatlivsrapport for apps i iOS
 
-På iPhone skal du gå til **Indstillinger > Privatliv og sikkerhed > App Privacy Report**. Denne indbyggede Apple-funktion viser, hvilke apps der har kontaktet netværksdomæner. Travel Document Vault sender ikke dine dokumenter, scanninger, udløbsdatoer eller indholdet af din boks til os. Hvis du har aktiveret Pro-cloudsikkerhedskopi, vil du se forbindelser til Apples iCloud-domæner – det er din egen sikkerhedskopi, der synkroniseres med din egen iCloud-konto.
+På iPhone skal du gå til **Indstillinger > Privatliv og sikkerhed > Privatlivsrapport for apps**. Denne indbyggede Apple-funktion viser, hvilke apps der har kontaktet netværksdomæner. Travel Document Vault sender ikke dine dokumenter, scanninger, udløbsdatoer eller indholdet af din boks til os. Hvis du har aktiveret Pro-skybakup, vil du se forbindelser til Apples iCloud-domæner – det er din egen sikkerhedskopi, der synkroniseres med din egen iCloud-konto.
 
 ### 3. Android – sådan tjekker du dit privatliv
 
@@ -112,7 +112,7 @@ Android
 
 Android
 
-**Hvorfor disse vises:** De er nødvendige for netværksafhængige funktioner: **Sentry-crashrapportering** (opt-in, deaktiveret som standard), **fakturering via App Store eller Google Play** til køb af Pro-opgraderingen, **Pro cloud backup** (valgfrit), som synkroniserer din krypterede boks til din egen iCloud eller Google Drive, og knappen **Søg efter opdateringer** i Indstillinger (kører, når du trykker på den, eller ved åbning, hvis du slår det til). ACCESS_NETWORK_STATE og ACCESS_WIFI_STATE lader disse funktioner kontrollere, om en forbindelse er tilgængelig, før de forsøger at sende.
+**Hvorfor disse vises:** De er nødvendige for netværksafhængige funktioner: **Sentry-crashrapportering** (opt-in, deaktiveret som standard), **fakturering via App Store eller Google Play** til køb af Pro-opgraderingen, **Pro-skybakup** (valgfri), som synkroniserer din krypterede boks til din egen iCloud eller Google Drive, og knappen **Søg efter opdateringer** i Indstillinger (kører, når du trykker på den, eller ved åbning, hvis du slår det til). ACCESS_NETWORK_STATE og ACCESS_WIFI_STATE lader disse funktioner kontrollere, om en forbindelse er tilgængelig, før de forsøger at sende.
 
 **Hvad vi ikke gør:** Appen uploader ikke dine dokumenter, scanninger, udløbsdatoer, fotos eller indholdet af din boks til Travel Document Vault. Den fungerer helt offline til normal dokumentopbevaring og påmindelser.
 
@@ -165,3 +165,11 @@ Disse er almindelige tilladelser, som mange apps anmoder om. Vi anmoder ikke om 
 **Placering** – ingen GPS, ingen geolokalisering, ingen sporing **Kontakter** – ingen adgang til din adressebog **Bluetooth** – intet lokalt netværk eller enhedsscanining **Kalender** – påmindelser håndteres på enheden, ikke via din kalender
 
 Har du flere spørgsmål? Læs vores fulde [Privatlivspolitik](https://traveldocumentvault.com/privacy-policy/) eller kontroller [Spørgsmål](https://traveldocumentvault.com/da/faq/).
+
+## Hent gratis. Intet abonnement.
+
+Opsæt det i aften. Lad appen huske, så du ikke behøver det.
+
+![Hent på App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Hent det på Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

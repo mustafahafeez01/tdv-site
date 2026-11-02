@@ -42,19 +42,19 @@ Stel een vaste of voortschrijdende periode per land in met uw eigen daglimiet vo
 
 ## En nog veel meer
 
-#### Vlag + stad
+### Vlag + stad
 
 Reiskaart toont bestemmingsvlag en stad. Plan in één oogopslag. Weet waarheen u gaat.
 
-#### Afteldagen
+### Afteldagen
 
 Hoeveel dagen tot uw reis? Aftelling verschijnt op reiskaarten. Brengt iedereen in spanning.
 
-#### Altijd offline
+### Altijd offline
 
 Werkt 100% offline. Plan op het vliegveld. Geen internet nodig. Werkt in vliegtuigmodus.
 
-#### Optionele cloud-sync
+### Optionele cloud-sync
 
 Pro: synchronisatie naar uw eigen iCloud of Google Drive. Multi-apparaat-toegang. U houdt de sleutel.
 

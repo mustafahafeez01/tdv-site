@@ -83,8 +83,6 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/digital-passport-copy-valid
 
 如果只能改掉一个习惯，我们建议用加密应用取代通过电子邮件发送的 PDF 或相册里的照片，因为一旦手机或邮箱被攻破，这类随手存放的副本最容易落入他人之手。
 
-**Travel Document Vault** 在设备上存储所有旅行证件的加密副本。在您的手机上进行 AES-256 加密，不需要帐户。可选的加密备份到您自己的 iCloud 或 Google Drive（专业版），使用仅您持有的恢复代码密封。[在 App Store 上可用。](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 如果您想知道云存储对护照副本是否安全，请查看我们关于[在 Google Photos 中存储护照](https://traveldocumentvault.com/zh-Hans/blog/is-it-safe-to-store-passport-in-google-photos/)的指南。它解释了为什么专用加密应用程序提供更强的保护。
 
 如果您还没有做过副本，今天就扫描一下护照的照片页，免得到了值机柜台或大使馆窗口才需要用到。

@@ -72,7 +72,7 @@ Programadas localmente en tu dispositivo. No conozco tus fechas de vencimiento.
 
 Ningún servidor de Travel Document Vault guarda tus documentos. No hay nada que encontrar.
 
-[Lee la historia del fundador: Por qué construí una app para tener una preocupación menos →](https://traveldocumentvault.com/es/blog/)
+[Lee la historia del fundador: Por qué construí una app para tener una preocupación menos →](https://traveldocumentvault.com/es/blog/why-i-built-travel-document-vault/) Con Pro
 
 ## Planifica viajes, controla días permitidos y sincroniza a tu propia nube
 
@@ -80,25 +80,17 @@ Construido para familias que viajan por todo el mundo.
 
 ### Todos Listos, De Un Vistazo
 
-Pro
-
 Semáforo de preparación familiar. Mira qué documentos vinculados necesitan atención frente a tus fechas de viaje guardadas.
 
 ### Tu Nube. Tu Clave.
-
-Pro
 
 Copia de seguridad cifrada en tu iCloud o Google Drive. Tú tienes el código de recuperación. Nunca lo vemos.
 
 ### Seguimiento de Días Fuera del País
 
-Pro
-
 Registra los días que tu familia pasa en cada país. Compara los días de viaje guardados con los límites por país que introduzcas.
 
 ### Perfiles Ilimitados de la Familia
-
-Pro
 
 Añade un perfil para cada miembro de la familia. La versión gratuita incluye 1 perfil. Pro añade perfiles familiares ilimitados.
 
@@ -193,16 +185,18 @@ Mejor Valor
 
 ### Pro
 
-Pago único
+$9.99, compra única
 
 Para toda tu familia. Paga una sola vez. Todas las actualizaciones v1.x incluidas, para siempre.
+
+USD. El precio de tu país se fija de forma local en lugar de convertirlo desde el dólar, y la App Store o Google Play lo muestra antes de que pagues.
 
 [Sobre nuestra política de versiones →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
 - Planificador de viajes con semáforo de preparación familiar
-- Copia de seguridad Your Own Cloud (iCloud o Google Drive, cifrada de extremo a extremo)
+- Copia de Seguridad en la Nube (iCloud o Google Drive, cifrada de extremo a extremo)
 - Seguimiento de días en el extranjero para impuestos y límites de visa
-- Franquicias de viaje —aduanas, equipaje, moneda
+- Límites de días por país para cada miembro de la familia
 - Cada miembro de la familia, una bóveda
 - **Documentos ilimitados**
 - Panel de vencimiento de la familia completo
@@ -215,7 +209,7 @@ Para toda tu familia. Paga una sola vez. Todas las actualizaciones v1.x incluida
 
 Todo lo que necesitas para viajes en solitario
 
-Gratuito
+$0
 
 - Pasaportes, visas, IDs y más
 - Escanea documentos y confirma las fechas de vencimiento detectadas
@@ -233,16 +227,20 @@ Para familias
 
 Desbloquea la bóveda completa para tu familia
 
-Pago único pago único Para toda tu familia. Paga una sola vez. Todas las actualizaciones v1.x incluidas, para siempre.
+$9.99 una sola vez
+
+USD. El precio de tu país se fija de forma local en lugar de convertirlo desde el dólar, y la App Store o Google Play lo muestra antes de que pagues.
+
+Para toda tu familia. Paga una sola vez. Todas las actualizaciones v1.x incluidas, para siempre.
 
 [Sobre nuestra política de versiones →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
 Todo en Gratuito, más:
 
 - Planificador de viajes con semáforo de preparación familiar
-- Copia de seguridad Your Own Cloud (iCloud o Google Drive, cifrada de extremo a extremo)
+- Copia de Seguridad en la Nube (iCloud o Google Drive, cifrada de extremo a extremo)
 - Seguimiento de días en el extranjero para impuestos y límites de visa
-- Franquicias de viaje —aduanas, equipaje, moneda
+- Límites de días por país para cada miembro de la familia
 - Cada miembro de la familia, una bóveda
 - **Documentos ilimitados**
 - Panel de vencimiento de la familia completo
@@ -257,7 +255,7 @@ Restaura las compras en cualquier momento con la cuenta de App Store o Google Pl
 
 ## Preguntas Frecuentes
 
-¿Es realmente privado? Sí. Todo se almacena 100% en tu dispositivo. No tenemos acceso a tus documentos y no hay una base de datos en la nube. No te fíes solo de nuestra palabra —[compruébalo tú mismo](https://traveldocumentvault.com/es/privacy-verification/). ¿Qué pasa si pierdo mi teléfono? Tu bóveda se cifra en tu dispositivo. La clave local permanece en el almacenamiento seguro y se excluye de las copias normales del teléfono. La exportación de la bóveda incluye una copia de esa clave cifrada con contraseña. Una copia normal del teléfono reinstala la app pero no restaura tus documentos. La copia en la nube de Pro se restaura con tu código de recuperación en un teléfono compatible de la misma plataforma y con la misma cuenta en la nube. También puedes usar la exportación e importación gratuitas de la bóveda. Restaurar o importar reemplaza la bóveda local. ¿Puedo sincronizar entre dispositivos? Sí. Con Pro, activa la copia de seguridad Your Own Cloud para sincronizar tu bóveda cifrada en tu iCloud o Google Drive. Tú tienes el código de recuperación. Nunca accedemos a tus datos. ¿Qué es el planificador de viajes? El planificador de viajes (Pro) agrupa documentos familiares por viaje y muestra un semáforo de preparación —verde cuando se cumplen las comprobaciones de documentos configuradas, ámbar cuando un documento vinculado necesita revisión. Planifica viajes en familia con confianza. [Ver todas las respuestas sobre privacidad y datos](https://traveldocumentvault.com/es/faq/)
+¿Es realmente privado? Sí. Todo se almacena 100% en tu dispositivo. No tenemos acceso a tus documentos y no hay una base de datos en la nube. No te fíes solo de nuestra palabra —[compruébalo tú mismo](https://traveldocumentvault.com/es/privacy-verification/). ¿Qué pasa si pierdo mi teléfono? Tu bóveda se cifra en tu dispositivo. La clave local permanece en el almacenamiento seguro y se excluye de las copias normales del teléfono. La exportación de la bóveda incluye una copia de esa clave cifrada con contraseña. Una copia normal del teléfono reinstala la app pero no restaura tus documentos. La copia en la nube de Pro se restaura con tu código de recuperación en un teléfono compatible de la misma plataforma y con la misma cuenta en la nube. También puedes exportar e importar la bóveda gratis. Restaurar o importar reemplaza la bóveda local. ¿Puedo sincronizar entre dispositivos? Sí. Con Pro, activa la Copia de Seguridad en la Nube para sincronizar tu bóveda cifrada en tu iCloud o Google Drive. Tú tienes el código de recuperación. Nunca accedemos a tus datos. ¿Qué es el planificador de viajes? El planificador de viajes (Pro) agrupa documentos familiares por viaje y muestra un semáforo de preparación —verde cuando se cumplen las comprobaciones de documentos configuradas, ámbar cuando un documento vinculado necesita revisión. Planifica viajes en familia con confianza. [Ver todas las respuestas sobre privacidad y datos](https://traveldocumentvault.com/es/faq/)
 
 **Importante:** Travel Document Vault es una herramienta de organización personal para almacenar copias digitales de tus documentos. **Las copias digitales almacenadas en esta aplicación NO son válidas para viajar.** No verifica la autenticidad de documentos ni proporciona asesoramiento legal o de viaje. Siempre lleva documentos originales y verifica todos los requisitos de viaje con fuentes oficiales del gobierno.
 

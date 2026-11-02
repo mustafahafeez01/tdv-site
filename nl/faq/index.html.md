@@ -36,7 +36,7 @@ Ja. Uw aankoop dekt elke update binnen de huidige hoofdversie (v1.x), inclusief 
 
 Wat gebeurt er als ik mijn telefoon verlies of naar een nieuwe overstap?
 
-Pro-gebruikers: Schakel versleutelde cloudback-up in via Instellingen - Cloud Backup. Uw kluis wordt op uw apparaat versleuteld met uw herstelcode voordat deze iCloud (iOS) of Google Drive (Android) bereikt. Gebruik een ondersteund apparaat op hetzelfde platform en hetzelfde cloudaccount. Open Cloud Backup in Instellingen, kies uw back-up en herstel deze met uw herstelcode. Herstellen vervangt de lokale kluis. Documentinhoud is versleuteld; de cloudprovider kan back-upmetadata zien, zoals aantallen, tijdstempels en apparaatgegevens. Wij zien niets. Iedereen: Gebruik de gratis Vault Export (.tdvault) in Instellingen en importeer deze op een apparaat. Systeemback-ups (iCloud of Google) installeren de app opnieuw, maar kunnen uw documenten niet herstellen: ze zetten de apparaatgebonden versleutelingssleutel niet over, dus exporteer voordat u van telefoon wisselt.
+Pro-gebruikers: Schakel versleutelde cloudback-up in via Instellingen - Cloudback-up. Uw kluis wordt op uw apparaat versleuteld met uw herstelcode voordat deze iCloud (iOS) of Google Drive (Android) bereikt. Gebruik een ondersteund apparaat op hetzelfde platform en hetzelfde cloudaccount. Open Cloudback-up in Instellingen, kies uw back-up en herstel deze met uw herstelcode. Herstellen vervangt de lokale kluis. Documentinhoud is versleuteld; de cloudprovider kan back-upmetadata zien, zoals aantallen, tijdstempels en apparaatgegevens. Wij zien niets. Iedereen: Gebruik de gratis kluisexport (.tdvault) in Instellingen en importeer deze op elk apparaat. Systeemback-ups (iCloud of Google) installeren de app opnieuw, maar kunnen uw documenten niet herstellen: ze zetten de apparaatgebonden versleutelingssleutel niet over, dus exporteer voordat u van telefoon wisselt.
 
 Werkt de app zonder internetverbinding?
 
@@ -64,15 +64,15 @@ Standaard worden al uw gegevens **uitsluitend op uw apparaat** opgeslagen. Wij h
 
 Worden mijn gegevens in de cloud opgeslagen?
 
-**Pro-gebruikers** kunnen versleutelde cloudback-up inschakelen in de app (Instellingen - Cloud Backup). Uw kluis wordt op uw apparaat versleuteld met uw herstelcode voordat deze naar **uw eigen iCloud** (iOS) of **uw eigen Google Drive AppFolder** (Android) wordt geüpload. Wij hebben geen toegang tot uw gegevens. De documentinhoud wordt versleuteld opgeslagen; sommige back-upmetadata blijven leesbaar.
+**Pro-gebruikers** kunnen versleutelde cloudback-up inschakelen in de app (Instellingen - Cloudback-up). Uw kluis wordt op uw apparaat versleuteld met uw herstelcode voordat deze naar **uw eigen iCloud** (iOS) of **uw eigen Google Drive AppFolder** (Android) wordt geüpload. Wij hebben geen toegang tot uw gegevens. De documentinhoud wordt versleuteld opgeslagen; sommige back-upmetadata blijven leesbaar.
 
 Kan ik gratis een back-up maken van mijn gegevens?
 
-Ja. Vault Export (versleuteld .tdvault-back-upbestand) is gratis voor iedereen. De app maakt ook elke paar minuten automatisch lokale back-ups op uw apparaat, zonder kosten. Cloudback-up naar uw eigen iCloud of Google Drive is de Pro-optie. Geen enkele back-upfunctie vergrendelt uw gegevens.
+Ja. De kluisexport (versleuteld .tdvault-back-upbestand) is gratis voor iedereen. De app maakt ook elke paar minuten automatisch lokale back-ups op uw apparaat, zonder kosten. Cloudback-up naar uw eigen iCloud of Google Drive is de Pro-optie. Geen enkele back-upfunctie vergrendelt uw gegevens.
 
 Wat gebeurt er als ik mijn telefoon verlies?
 
-Een systeemback-up (iCloud-back-up, Google-back-up) installeert de app opnieuw, maar herstelt uw documenten niet: systeemback-ups zetten de apparaatgebonden versleutelingssleutel niet over. Gebruik cloudback-up (Pro) of de gratis Vault Export om uw kluis naar een nieuwe telefoon over te zetten.
+Een systeemback-up (iCloud-back-up, Google-back-up) installeert de app opnieuw, maar herstelt uw documenten niet: systeemback-ups zetten de apparaatgebonden versleutelingssleutel niet over. Gebruik cloudback-up (Pro) of de gratis kluisexport om uw kluis naar een nieuwe telefoon over te zetten.
 
 **Aanbeveling:** Gebruik de Exportfunctie om een kopie van uw belangrijke documenten elders op te slaan.
 
@@ -91,9 +91,9 @@ Verzamelt u analytics- of trackinggegevens?
 
 Wat gebeurt er als ik de app verwijder?
 
-Al uw gegevens op deze telefoon worden **definitief verwijderd** wanneer u de app verwijdert. Daarna kunnen ze niet worden hersteld, tenzij u een Vault Export hebt gemaakt of cloudback-up hebt ingeschakeld, omdat wij niets extern opslaan. **Voordat u verwijdert:** Exporteer uw documenten of maak een .tdvault-back-upbestand om ze elders op te slaan.
+Al uw gegevens op deze telefoon worden **definitief verwijderd** wanneer u de app verwijdert. Daarna kunnen ze niet worden hersteld, tenzij u een kluisexport hebt gemaakt of cloudback-up hebt ingeschakeld, omdat wij niets extern opslaan. **Voordat u verwijdert:** Exporteer uw documenten of maak een .tdvault-back-upbestand om ze elders op te slaan.
 
-## Aanvullende Beveiliging
+## Aanvullende beveiliging
 
 Zijn mijn documentafbeeldingen versleuteld?
 
@@ -109,7 +109,7 @@ Omdat uw gegevens onze servers nooit bereiken, hebben we geen manier om uw docum
 
 Zijn back-ups ook versleuteld?
 
-**Ja.** Automatische back-ups worden versleuteld via het ingebouwde back-upsysteem van uw apparaat (iCloud/Google). Vault exports (.tdvault-bestanden) zijn **met een wachtwoord beveiligd** met sterke versleuteling. U stelt een wachtwoord in bij het exporteren en hebt het nodig om te herstellen.
+**Ja.** Automatische back-ups worden versleuteld via het ingebouwde back-upsysteem van uw apparaat (iCloud/Google). Exportbestanden (.tdvault) zijn **met een wachtwoord beveiligd** met sterke versleuteling. U stelt een wachtwoord in bij het exporteren en hebt het nodig om te herstellen.
 
 Als u van een back-up herstelt, zullen uw documenten automatisch werken op uw nieuwe apparaat zonder dat u iets speciaals hoeft te doen.
 
@@ -127,7 +127,7 @@ Als u uw PIN vergeet, voert u uw herstelcode in op het PIN-scherm. De herstelcod
 
 Als uw PIN en ingeschakelde biometrie de app niet kunnen ontgrendelen en u geen herstelcode hebt, moet u mogelijk de lokale kluis wissen en een opgeslagen back-up herstellen. Sla uw code op wanneer u hierom wordt gevraagd. Zolang u uw PIN nog weet, kunt u via Instellingen → Beveiliging een nieuwe code genereren.
 
-Wat is Auto-Erase?
+Wat is Automatisch wissen?
 
 Automatisch wissen is bedoeld om de kluis op deze telefoon te wissen na herhaaldelijk invoeren van een onjuiste PIN. Vertrouw er niet op als gegarandeerde beveiliging. Het is **standaard ingeschakeld** zodra u een PIN instelt. Schakel het uit via Instellingen → Beveiliging als u uw gegevens liever behoudt na mislukte pogingen. Als het lokale wissen is voltooid, is de kluis op deze telefoon verwijderd; herstel vereist een bruikbare, onafhankelijke back-up.
 
@@ -188,7 +188,7 @@ Maakt de app automatische back-ups?
 - Back-ups blijven in de **privéopslag** van de app op uw apparaat.
 - Een geldige lokale back-up kan eerdere kluisgegevens herstellen via **Instellingen → Lokale back-up herstellen**, maar kan definitief verwijderde bijlagebestanden niet terughalen. Gebruik Recent verwijderd voor gewone verwijderingen.
 
-**Vault Export:** U kunt een versleuteld .tdvault-bestand exporteren en opslaan in Bestanden, iCloud Drive, of delen via AirDrop/e-mail voor opslag buiten het apparaat. Dit wordt aanbevolen vóór grote updates of apparaatwijzigingen.
+**Kluisexport:** U kunt een versleuteld .tdvault-bestand exporteren en opslaan in Bestanden, iCloud Drive, of delen via AirDrop/e-mail voor opslag buiten het apparaat. Dit wordt aanbevolen vóór grote updates of apparaatwijzigingen.
 
 Wat betekent "Laatste back-up: 2 uur geleden, 12 documenten" in Instellingen?
 
@@ -254,7 +254,7 @@ Android ondersteunt versleutelde opslag op het apparaat, OCR-scanning en vervalh
 
 Kan ik mijn gegevens overdragen van iPhone naar Android (of omgekeerd)?
 
-**Ja, via versleutelde Vault Export.** Exporteer een versleuteld .tdvault-bestand van uw huidige apparaat (Instellingen → Kluis exporteren), breng het over naar uw nieuwe apparaat (via e-mail, cloudopslag of directe overdracht), en gebruik vervolgens Instellingen → Back-up importeren om uw documenten te herstellen. Dit vervangt alle gegevens die al op het nieuwe apparaat staan.
+**Ja, via een versleutelde kluisexport.** Exporteer een versleuteld .tdvault-bestand van uw huidige apparaat (Instellingen → Kluis exporteren), breng het over naar uw nieuwe apparaat (via e-mail, cloudopslag of directe overdracht), en gebruik vervolgens Instellingen → Back-up importeren om uw documenten te herstellen. Dit vervangt alle gegevens die al op het nieuwe apparaat staan.
 
 Dit werkt platformonafhankelijk omdat het versleutelingsformaat universeel is. U hebt het wachtwoord nodig dat u gebruikte bij het exporteren van de kluis. Pro-aankopen kunnen binnen hetzelfde platform en winkelaccount worden hersteld; overstappen tussen iOS en Android vereist een afzonderlijke Pro-aankoop.
 
@@ -328,11 +328,11 @@ Waarschijnlijk niet. Uw gegevens worden automatisch opgeslagen wanneer u documen
 
 Wat is mijn herstelcode en wat gebeurt er als ik deze verlies?
 
-Uw herstelcode is een 24-karakters wachtwoordzin die uw cloudbacking versleutelt. Als u deze verliest, worden die back-ups onherstelbaar. We bewaren of resetten deze niet. Voor volledige details over wat dit betekent, waarom we het op deze manier ontwerpen en wat u moet doen als u het bent vergeten, raadpleegt u de handleiding voor herstelcode.
+Uw herstelcode is een wachtwoordzin van 24 tekens die uw cloudback-up versleutelt. Als u deze verliest, worden die back-ups onherstelbaar. We bewaren of resetten deze niet. Voor volledige details over wat dit betekent, waarom we het op deze manier ontwerpen en wat u moet doen als u het bent vergeten, raadpleegt u de handleiding voor herstelcode.
 
 [Lees volledige gids →](https://traveldocumentvault.com/nl/faq/recovery-code/)
 
-Hoe is mijn cloudbacking versleuteld?
+Hoe is mijn cloudback-up versleuteld?
 
 Uw kluis wordt end-to-end versleuteld met AES-256-GCM op uw apparaat voordat het uw telefoon verlaat. Een sleutel die van uw herstelcode is afgeleid, beschermt de willekeurig gegenereerde kluisversleutelingssleutel. Apple en Google kunnen het versleutelde bestand op hun servers zien, maar kunnen het niet ontsleutelen. Dat kunnen wij ook niet. Uw herstelcode ontgrendelt de cloudversleutelingssleutel; ingestelde apparaten behouden toegang voor automatische back-ups.
 
@@ -359,16 +359,6 @@ Met Pro helpen profielen u de documenten, foto's en herinneringen van elk gezins
 Wat gebeurt er wanneer ik iets verwijder?
 
 Zonder cloudback-up gaan verwijderde items 30 dagen naar de prullenmand en worden daarna definitief van uw apparaat verwijderd. U kunt ze op elk moment tijdens die 30 dagen herstellen. Met cloudback-up blijven items onbeperkt in Recent verwijderd totdat u op Voor altijd verwijderen tikt. Zie de sectie over cloudback-up hieronder voor meer informatie. De prullenmand legen of uw telefoon terugzetten naar de fabrieksinstellingen verwijdert lokale gegevens; herstel vereist een bruikbare, onafhankelijke back-up.
-
-## Juridisch & Disclaimers
-
-Is deze app een vervanging voor officiële documenten?
-
-**Nee.** Travel Document Vault is uitsluitend een persoonlijk organisatiehulpmiddel. Het vervangt geen officiële documenten, verifieert geen authenticiteit en garandeert geen naleving van immigratievereisten. Neem altijd uw originele documenten mee bij het reizen en controleer de vereisten bij officiële overheidsinstanties.
-
-Wat als ik een deadline mis vanwege een herinnering die niet werkte?
-
-Herinneringen zijn een gemaksfunctie en mogen niet uw enige herinneringssysteem zijn. Wij zijn niet aansprakelijk voor gemiste deadlines, verlopen documenten of gevolgen als gevolg van mislukte herinneringen. Zie onze [Gebruiksvoorwaarden](https://traveldocumentvault.com/terms/) voor volledige details.
 
 ## Cloudback-up
 
@@ -404,6 +394,16 @@ Wat gebeurt er als ik mijn herstelcode kwijtraak?
 
 Uw herstelcode ontgrendelt de versleutelingssleutel van uw cloudback-up; ingestelde apparaten bewaren die voor automatische back-ups. Ons ontwerp is zero-knowledge, wat betekent dat wij hem niet kunnen resetten, opvragen of voor u herstellen. Apple en Google evenmin. Als u uw herstelcode kwijtraakt en geen toegang meer hebt tot enig ingesteld apparaat dat de sleutel bewaart, wordt uw versleutelde cloudback-up onherstelbaar. Bewaar uw herstelcode op een veilige plek voordat u op cloudback-up gaat vertrouwen: een wachtwoordmanager, een afdruk op een beveiligde plaats, of allebei. Controleer of u hem echt kunt teruglezen voordat u hem als enige kopie bewaart.
 
+## Juridisch & Disclaimers
+
+Is deze app een vervanging voor officiële documenten?
+
+**Nee.** Travel Document Vault is uitsluitend een persoonlijk organisatiehulpmiddel. Het vervangt geen officiële documenten, verifieert geen authenticiteit en garandeert geen naleving van immigratievereisten. Neem altijd uw originele documenten mee bij het reizen en controleer de vereisten bij officiële overheidsinstanties.
+
+Wat als ik een deadline mis vanwege een herinnering die niet werkte?
+
+Herinneringen zijn een gemaksfunctie en mogen niet uw enige herinneringssysteem zijn. Wij zijn niet aansprakelijk voor gemiste deadlines, verlopen documenten of gevolgen als gevolg van mislukte herinneringen. Zie onze [Gebruiksvoorwaarden](https://traveldocumentvault.com/terms/) voor volledige details.
+
 [Voor een volledige vergelijking, zie waarom gezinnen kiezen voor Travel Document Vault →](https://traveldocumentvault.com/nl/why-us/)
 
 ## Heeft u nog vragen?
@@ -411,3 +411,11 @@ Uw herstelcode ontgrendelt de versleutelingssleutel van uw cloudback-up; ingeste
 We zijn er om te helpen. Neem contact op en we reageren zo snel mogelijk.
 
 [Contact opnemen](mailto:support@traveldocumentvault.com)
+
+## Gratis Downloaden. Geen Abonnement.
+
+Stel het vanavond in. Laat de app onthouden zodat u dat niet hoeft.
+
+![Download van de App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Download van Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

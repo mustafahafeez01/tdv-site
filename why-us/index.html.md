@@ -41,33 +41,51 @@ You're not the only one who's been here.
 
 At the gate
 
-Immigration counter. The officer asks for your visa.
+Front of the queue at passport control. The officer asks for your visa, and it's somewhere in an email from March.
 
-What if you could open one app and have it right there - no searching, no switching apps, just instant access?
+Open the app and it's on screen, even in flight mode. You're through before the queue behind you notices.
 
 If this is you: business traveller, digital nomad, or frequent flyer.
 
 The validity trap
 
-Your passport expires next year. Plenty of time, right?
+Your passport has eight months left and the trip is next month. Fine, surely?
 
-Wrong. Passports for Schengen travel must be issued within the last 10 years, and many countries enforce a 6-month validity rule. Airlines use official databases like [IATA Timatic](https://www.iata.org/en/publications/directories/code-search/timatic/) and [U.S. State Department travel rules](https://www.travel.state.gov/) at the gate to enforce these rules. With Pro, count saved trip days against the country limits you enter. Check visa and tax residency rules separately. A simple expiry check isn't enough.
+Not always. Many countries expect six months left on arrival, and airlines typically check before you board. The app flags it well ahead, so you renew calmly instead of paying for a rush.
 
-If this is you: frequent traveller, tax-conscious, or multi-country resident.
+If this is you: anyone with a trip booked in the next year.
 
 Renewal chaos
 
-A renewal notice arrives. You have no idea when you last renewed, what documents you need, or whether the kids' passports expire at the same time.
+You're booking the summer holiday when it hits you: when do the kids' passports run out?
+
+Everyone's expiry dates sit side by side, with a reminder before each one comes due. You find out in March, not at the check-in desk in August.
 
 If this is you: parent, guardian, or family trip organiser.
 
 Everything together
 
-Passport. Visa. Driving licence. Insurance. Travel bookings. Kids' documents.
+Passport. Visa. Driving licence. Insurance. Kids' documents. Spread across a drawer, a camera roll and three inboxes.
 
-All in one place at your fingertips, ready when you need them.
+One locked place on your phone, sorted by person and ready in seconds. Nothing leaves your device.
 
 If this is you: organised person who just needs one app to trust.
+
+First trip abroad
+
+Passport and tickets sorted. Then the doubt creeps in: what else should you check?
+
+Add your documents once and see what expires when, well before you fly. You get to the airport with one less thing to worry about.
+
+If this is you: first-time international flyer or student heading overseas.
+
+Lost abroad
+
+Day three of the holiday, and the bag with your passport inside has gone.
+
+Your scanned photo page is still on your phone, behind Face ID, fingerprint or PIN. A copy usually makes the consulate visit quicker.
+
+If this is you: families on holiday, solo travellers, or anyone who's lost a bag before.
 
 ## Where Your Documents Probably Live Now
 
@@ -206,7 +224,7 @@ Documents saved locally are available offline. Local document viewing and remind
 
 **Start free.** Store up to 5 documents with full reminders and encryption. Pro removes the document-count limit. Available space still depends on your device.
 
-Pro is a **one-time purchase** of $9.99. Unlimited profiles and documents, no recurring charges, and no renewal date to forget.
+Pro is a **one-time purchase**, no subscription. Unlimited profiles and documents, no recurring charges, and no renewal date to forget.
 
 Priced in US dollars. We set each country’s price locally rather than converting from dollars, and the App Store or Google Play shows yours before you pay.
 
@@ -270,37 +288,31 @@ Your Documents, Always Ready
 
 Zero surprises at the airport
 
-![App home screen showing all travel documents ready at a glance](https://traveldocumentvault.com/assets/images/screenshots-appstore/01.webp)
+![App home screen showing all travel documents ready at a glance](https://traveldocumentvault.com/assets/images/why-us-phones/01.webp)
 
 Ready For Your Trip
 
 Linked documents checked against saved trip dates (Pro)
 
-![Trip readiness view showing linked-document checks against saved trip dates](https://traveldocumentvault.com/assets/images/screenshots-appstore/02.webp)
+![Trip readiness view showing linked-document checks against saved trip dates](https://traveldocumentvault.com/assets/images/why-us-phones/06.webp)
 
 Family Profiles Synced (Pro)
 
 All documents, all people, one app
 
-![Family profiles showing documents for every member in one place](https://traveldocumentvault.com/assets/images/screenshots-appstore/03.webp)
+![Family profiles showing documents for every member in one place](https://traveldocumentvault.com/assets/images/why-us-phones/03.webp)
 
 Days Left in Each Country
 
 Track every person's time abroad with Pro
 
-![Visa tracker showing days remaining in each country for each traveller](https://traveldocumentvault.com/assets/images/screenshots-appstore/04.webp)
+![Visa tracker showing days remaining in each country for each traveller](https://traveldocumentvault.com/assets/images/why-us-phones/02.webp)
 
 Stay Ahead of Deadlines
 
 Reminders before you need them
 
-![Expiry reminders showing upcoming renewal dates months in advance](https://traveldocumentvault.com/assets/images/screenshots-appstore/05.webp)
-
-Your Vault, Your Control
-
-Encrypted backup only you can restore
-
-![Document vault showing passports, visas, and IDs organised by profile](https://traveldocumentvault.com/assets/images/screenshots-appstore/06.webp)
+![Expiry reminders showing upcoming renewal dates months in advance](https://traveldocumentvault.com/assets/images/why-us-phones/04.webp)
 
 ## Three Steps. That's It.
 
@@ -343,7 +355,7 @@ Store document copies and expiry dates in one place, with reminders on by defaul
 
 The questions we hear most often.
 
-What happens if I lose my phone? Your documents are encrypted on your device. The local key stays in secure storage and is excluded from ordinary phone backups. Vault Export includes a password-encrypted copy of that key. A regular phone backup reinstalls the app but cannot restore your documents. Pro cloud backup restores with your recovery code on a supported phone on the same platform, using the same cloud account. Or use free Vault Export and Import. Restoring or importing replaces the local vault. Does it work without internet? Completely. The app stores everything on your device and needs no internet connection for everyday use. Reminders and locally saved document viewing work offline. OCR processing runs on your device. Is my data really safe? Your documents are encrypted with AES-256-GCM on your device, and the key is held in your phone's secure key storage, never included in a phone backup. There is no account to create and no Travel Document Vault server that holds your documents. If you turn on optional cloud backup (Pro), your vault is encrypted on your phone before upload and goes to your own iCloud or Google Drive, sealed with a recovery code only you hold. The design means I cannot read your data, and neither can Apple or Google - you can check the privacy model yourself on the [Privacy Verification page](https://traveldocumentvault.com/privacy-verification/). PIN lock and biometric lock (Face ID/Touch ID) are both free. Is it really a one-time purchase? Yes. Pro is $9.99 once, in US dollars. Each country's price is set locally rather than converted from dollars, and the store shows yours before you pay.* No subscription, no recurring charges, no "your trial is ending" emails. The free tier is genuinely free - 1 profile, 5 documents, all core features including OCR and reminders.
+What happens if I lose my phone? Your documents are encrypted on your device. The local key stays in secure storage and is excluded from ordinary phone backups. A vault export includes a password-encrypted copy of that key. A regular phone backup reinstalls the app but cannot restore your documents. Pro cloud backup restores with your recovery code on a supported phone on the same platform, using the same cloud account. Or use the free vault export and import. Restoring or importing replaces the local vault. Does it work without internet? Completely. The app stores everything on your device and needs no internet connection for everyday use. Reminders and locally saved document viewing work offline. OCR processing runs on your device. Is my data really safe? Your documents are encrypted with AES-256-GCM on your device, and the key is held in your phone's secure key storage, never included in a phone backup. There is no account to create and no Travel Document Vault server that holds your documents. If you turn on optional cloud backup (Pro), your vault is encrypted on your phone before upload and goes to your own iCloud or Google Drive, sealed with a recovery code only you hold. The design means I cannot read your data, and neither can Apple or Google - you can check the privacy model yourself on the [Privacy Verification page](https://traveldocumentvault.com/privacy-verification/). PIN lock and biometric lock (Face ID/Touch ID) are both free. Is it really a one-time purchase? Yes. Pro is a one-time purchase, no subscription. Each country's price is set locally, and the store shows yours before you pay.* No recurring charges and no "your trial is ending" emails. The free tier is genuinely free - 1 profile, 5 documents, all core features including OCR and reminders.
 
 * For v1.x. See [Pricing Policy](https://traveldocumentvault.com/pricing-policy/#version-policy).
 

@@ -170,6 +170,6 @@ L'assurance voyage vous protège dans la plupart des pays du monde pendant votre
 
 ## Articles connexes
 
-[Préparation de voyage8 min de lectureWhat Documents to Carry When Travelling Internationally](https://traveldocumentvault.com/fr/blog/what-documents-to-carry-when-travelling-internationally/)
+[Préparation de voyage8 min de lectureLes Documents de Voyage que Vous Oubliez (et Où les Conserver)](https://traveldocumentvault.com/fr/blog/what-documents-to-carry-when-travelling-internationally/)
 
-[Préparation de voyage7 min de lectureLost Your Passport Abroad: Emergency Steps to Take Right Now](https://traveldocumentvault.com/fr/blog/lost-passport-abroad/)
+[Préparation de voyage7 min de lectureVous avez perdu votre passeport à l'étranger. Voici 7 étapes immédiates](https://traveldocumentvault.com/fr/blog/lost-passport-abroad/)

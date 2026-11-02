@@ -34,8 +34,6 @@ Wie dringend Sie handeln müssen, bestimmt, was zu tun ist:
 
 Alle großen Reisepassbehörden halten Notfalltermine zurück, die online nicht sichtbar sind. Wenn Ihre Frist knapp ist, **würden wir immer anrufen, statt allein der Website zu vertrauen.**
 
-**Stellen Sie die Erinnerung jetzt ein**, damit das nie wieder passiert – Travel Document Vault beginnt Sie ab acht Monaten vor dem Ablauf jedes Reisepasses in Ihrem Haushalt zu erinnern, dann erneut, je näher der Termin rückt. [Im App Store herunterladen.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 ## Szenario B: Sie haben es am Flughafen entdeckt
 
 Dieses Szenario passiert häufiger als erwartet, und die Schritte sind nicht klar, wenn Sie unter Druck stehen.
@@ -141,6 +139,10 @@ Ja. Ein Reisepass, der nicht abgelaufen ist, kann trotzdem abgelehnt werden, wen
 ### Was ist die Sechs-Monats-Reisepass-Regel?
 
 Viele Länder verlangen, dass Ihr Reisepass mindestens sechs Monate über Ihrem geplanten Ankunftsdatum hinaus gültig bleibt. Läuft er früher ab – auch wenn er formal noch gültig ist – kann Ihnen die Beförderung oder die Einreise verweigert werden. Nicht jedes Land wendet diese Regel an, und der Schwellenwert variiert. Prüfen Sie vor der Reise die Anforderungen Ihres konkreten Reiseziels.
+
+### Kann man einen abgelaufenen Reisepass verlängern?
+
+In der Regel ja. In Großbritannien schreibt GOV.UK vor, dass Sie vor der Reise verlängern müssen, wenn Ihr Reisepass abgelaufen ist, und das geht online oder per Papierantrag mit dem alten Reisepass als Nachweis. In den USA und in Kanada hängt es zusätzlich davon ab, wann der Reisepass ausgestellt wurde und wie alt Sie damals waren.
 
 ## Verwandte Artikel
 

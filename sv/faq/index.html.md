@@ -64,17 +64,17 @@ All din data lagras **uteslutande på din enhet**. Vi har inga servrar som lagra
 
 Säkerhetskopieras min data till molnet?
 
-Appen har ingen molndatabas. Vi ser inte din data. Om du använder **iCloud Backup** (iOS) eller **Google Backup** (Android) för hela din telefon installeras appen om på en ny enhet, men dina dokument hämtas INTE automatiskt. Din krypteringsnyckel lämnade aldrig din ursprungliga enhet, så vi kan inte dekryptera dem på din nya telefon. **Gratis Vault Export är ditt verktyg för att spara en separat kopia.** Pro-användare kan också skapa krypterad säkerhetskopia till sitt eget iCloud eller Google Drive med en återställningskod endast de har.
+Appen har ingen molndatabas. Vi ser inte din data. Om du använder **iCloud Backup** (iOS) eller **Google Backup** (Android) för hela din telefon installeras appen om på en ny enhet, men dina dokument hämtas INTE automatiskt. Din krypteringsnyckel lämnade aldrig din ursprungliga enhet, så vi kan inte dekryptera dem på din nya telefon. **Den kostnadsfria valvexporten är ditt verktyg för att spara en separat kopia.** Pro-användare kan också skapa krypterad säkerhetskopia till sitt eget iCloud eller Google Drive med en återställningskod endast de har.
 
 Kan jag säkerhetskopiera min data gratis?
 
-Ja. Vault Export (krypterad .tdvault-säkerhetskopieringsfil) är gratis för alla. Appen skapar också automatiska lokala säkerhetskopior på din enhet med några minuters mellanrum, utan kostnad. Molnsäkerhetskopiering till ditt eget iCloud eller Google Drive är Pro-alternativet. Ingen säkerhetskopieringsfunktion låser in din data.
+Ja. Valvexporten (krypterad .tdvault-säkerhetskopieringsfil) är gratis för alla. Appen skapar också automatiska lokala säkerhetskopior på din enhet med några minuters mellanrum, utan kostnad. Molnsäkerhetskopiering till ditt eget iCloud eller Google Drive är Pro-alternativet. Ingen säkerhetskopieringsfunktion låser in din data.
 
 Vad händer om jag tappar bort min telefon?
 
 Eftersom vi inte har din data kan vi inte återställa den åt dig. En systemsäkerhetskopia (iCloud/Google) installerar om appen men hämtar inte dina dokument – krypteringsnycklarna lämnade aldrig din ursprungliga enhet. **Din data försvinner om du inte exporterar den innan du byter telefon.**
 
-**Innan du byter telefon:** Exportera ditt valv med Vault Export (gratis) eller aktivera Pro-molnsäkerhetskopia för automatisk kryptering till ditt eget iCloud eller Google Drive. Båda tillåter enkel återställning på en ny enhet.
+**Innan du byter telefon:** Exportera ditt valv (gratis) eller aktivera Pro-molnsäkerhetskopia för automatisk kryptering till ditt eget iCloud eller Google Drive. Båda tillåter enkel återställning på en ny enhet.
 
 Vad händer om någon stjäl min telefon? Är mina dokument skyddade?
 
@@ -91,7 +91,7 @@ Samlar ni in analytik- eller spårningsdata?
 
 Vad händer när jag raderar appen?
 
-All din data **raderas permanent** när du avinstallerar appen. Det går inte att återställa den efteråt om du inte har gjort en valvexport eller aktiverat molnsäkerhetskopiering, eftersom vi inte lagrar något externt. **Innan du raderar:** Exportera dina dokument eller skapa en .tdvault-säkerhetskopia för att spara dem någon annanstans.
+All din data **raderas permanent** när du avinstallerar appen. Det går inte att återställa den efteråt om du inte har exporterat valvet eller aktiverat molnsäkerhetskopiering, eftersom vi inte lagrar något externt. **Innan du raderar:** Exportera dina dokument eller skapa en .tdvault-säkerhetskopia för att spara dem någon annanstans.
 
 ## Ytterligare säkerhet
 
@@ -127,7 +127,7 @@ Om du glömmer din PIN, ange din återställningskod på PIN-skärmen. Återstä
 
 Om varken din PIN eller aktiverad biometri kan låsa upp appen och du saknar återställningskod kan du behöva radera det lokala valvet och återställa en sparad säkerhetskopia. Spara koden när du uppmanas. Medan du fortfarande kan din PIN kan du generera en ny kod i Inställningar → Säkerhet.
 
-Vad är Auto-Erase?
+Vad är automatisk radering?
 
 Automatisk radering är avsedd att radera telefonens valv efter upprepade felaktiga PIN-försök. Förlita dig inte på den som ett garanterat skydd. Den är **aktiverad som standard när du har ställt in en PIN.** Stäng av den i Inställningar → Säkerhet om du hellre vill behålla dina data efter misslyckade försök. En slutförd lokal radering tar bort telefonens valv; återställning kräver en oberoende användbar säkerhetskopia.
 
@@ -153,7 +153,7 @@ Ja. Gratisanvändare kan dela enskilda dokument. Pro ger kombinerad PDF-export: 
 
 Hur säkerhetskopieras min data?
 
-Appen lagrar allt på din enhet. Om du har iCloud (iOS) eller Google Backup (Android) aktiverat är dina dokument redan skyddade via enhetens säkerhetskopia. Pro-användare kan exportera en **lösenordsskyddad krypterad säkerhetskopia** för förvaring, och alla användare kan **återställa från en säkerhetskopia** när som helst via Inställningar → Importera valv. Detta ersätter all aktuell data med säkerhetskopians innehåll. Vi synkroniserar avsiktligt inte till våra servrar för att skydda din integritet.
+Appen lagrar allt på din enhet. Om du har iCloud (iOS) eller Google Backup (Android) aktiverat är dina dokument redan skyddade via enhetens säkerhetskopia. Pro-användare kan exportera en **lösenordsskyddad krypterad säkerhetskopia** för förvaring, och alla användare kan **återställa från en säkerhetskopia** när som helst via Inställningar → Importera säkerhetskopia. Detta ersätter all aktuell data med säkerhetskopians innehåll. Vi synkroniserar avsiktligt inte till våra servrar för att skydda din integritet.
 
 Kan jag dela dokument med familjemedlemmar?
 
@@ -189,7 +189,7 @@ Skapar appen automatiska säkerhetskopior?
 - Säkerhetskopior stannar i **appens privata lagringsutrymme** på din enhet.
 - En giltig lokal säkerhetskopia kan återställa tidigare valvposter via **Inställningar → Återställ lokal säkerhetskopia**, men kan inte återskapa permanent raderade bilagefiler. Använd Nyligen raderad för vanliga raderingar.
 
-**Vault Export:** Du kan exportera en krypterad .tdvault-fil och spara den i Filer, iCloud Drive eller dela den via AirDrop/e-post för lagring utanför enheten. Detta rekommenderas innan stora uppdateringar eller enhetsbyten.
+**Valvexport:** Du kan exportera en krypterad .tdvault-fil och spara den i Filer, iCloud Drive eller dela den via AirDrop/e-post för lagring utanför enheten. Detta rekommenderas innan stora uppdateringar eller enhetsbyten.
 
 Vad betyder "Senaste säkerhetskopia: för 2 timmar sedan, 12 dokument" i Inställningar?
 
@@ -255,7 +255,7 @@ Android stöder krypterad lagring på enheten, OCR-skanning och påminnelser om 
 
 Kan jag överföra min data från iPhone till Android (eller tvärtom)?
 
-**Ja, med krypterad Vault Export.** Exportera en krypterad .tdvault-fil från din nuvarande enhet (Inställningar → Exportera valv), överför den till din nya enhet (via e-post, molnlagring eller direkt överföring), använd sedan Inställningar → Importera säkerhetskopia för att återställa dina dokument, vilket ersätter allt som redan finns på den nya enheten.
+**Ja, med en krypterad valvexport.** Exportera en krypterad .tdvault-fil från din nuvarande enhet (Inställningar → Exportera valv), överför den till din nya enhet (via e-post, molnlagring eller direkt överföring), använd sedan Inställningar → Importera säkerhetskopia för att återställa dina dokument, vilket ersätter allt som redan finns på den nya enheten.
 
 Detta fungerar plattformsoberoende eftersom krypteringsformatet är universellt. Du behöver samma lösenord som du använde när du exporterade valvet. Pro-köp återställs inom samma plattform och butikskonto; byte mellan iOS och Android kräver ett separat Pro-köp (se "Kan jag återställa mitt köp på en ny enhet?" nedan).
 
@@ -361,16 +361,6 @@ Vad händer när jag tar bort något?
 
 Borttagna objekt går till papperskorgen i 30 dagar.
 
-## Juridik och ansvarsfriskrivningar
-
-Ersätter den här appen officiella dokument?
-
-**Nej.** Travel Document Vault är enbart ett personligt organiseringsverktyg. Det ersätter inte officiella handlingar, verifierar äkthet eller garanterar efterlevnad av immigrationskrav. Bär alltid originalhandlingar när du reser och verifiera krav hos officiella statliga källor.
-
-Vad händer om jag missar en deadline på grund av en påminnelsefel?
-
-Påminnelser är en bekvämlighetsfunktion och bör inte vara ditt enda påminnelsesystem. Vi är inte ansvariga för missade deadlines, utgångna dokument eller konsekvenser som uppstår till följd av påminnelsefel. Se våra [Användarvillkor](https://traveldocumentvault.com/terms/) för fullständiga uppgifter.
-
 ## Molnsäkerhetskopiering
 
 Vad händer om jag raderar ett dokument med molnsäkerhetskopiering på?
@@ -405,6 +395,16 @@ Vad händer om jag förlorar min återställningskod?
 
 Din återställningskod låser upp molnsäkerhetskopians krypteringsnyckel; konfigurerade enheter behåller den för automatisk säkerhetskopiering. Vi har en nollkunskapsdesign, vilket innebär att vi inte kan återställa, hämta eller återskapa den åt dig. Det kan inte Apple eller Google heller. Om du förlorar återställningskoden och tillgången till alla konfigurerade enheter som behåller den blir din krypterade molnsäkerhetskopia omöjlig att återställa. Lägg undan din återställningskod på ett säkert ställe innan du börjar förlita dig på molnsäkerhetskopiering: en lösenordshanterare, en utskrift på en säker plats, eller båda. Kontrollera att du verkligen kan läsa den innan du sparar den som enda kopia.
 
+## Juridik och ansvarsfriskrivningar
+
+Ersätter den här appen officiella dokument?
+
+**Nej.** Travel Document Vault är enbart ett personligt organiseringsverktyg. Det ersätter inte officiella handlingar, verifierar inte äkthet och garanterar inte efterlevnad av immigrationskrav. Bär alltid originalhandlingar när du reser och verifiera krav hos officiella statliga källor.
+
+Vad händer om jag missar en deadline på grund av ett påminnelsefel?
+
+Påminnelser är en bekvämlighetsfunktion och bör inte vara ditt enda påminnelsesystem. Vi är inte ansvariga för missade deadlines, utgångna dokument eller konsekvenser som uppstår till följd av påminnelsefel. Se våra [Användarvillkor](https://traveldocumentvault.com/terms/) för fullständiga uppgifter.
+
 [För en fullständig jämförelse, se varför familjer väljer Travel Document Vault →](https://traveldocumentvault.com/sv/why-us/)
 
 ## Har du fortfarande frågor?
@@ -412,3 +412,11 @@ Din återställningskod låser upp molnsäkerhetskopians krypteringsnyckel; konf
 Vi hjälper gärna till. Hör av dig så återkommer vi så snart som möjligt.
 
 [Kontakta support](mailto:support@traveldocumentvault.com)
+
+## Ladda ned gratis. Ingen prenumeration.
+
+Konfigurera det ikväll. Låt appen komma ihåg så att du slipper.
+
+![Ladda ned på App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Hämta på Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

@@ -42,19 +42,19 @@ Defina uma janela fixa ou móvel para cada país, com o seu próprio limite de d
 
 ## Muito Mais
 
-#### Bandeira + Cidade do País
+### Bandeira + Cidade do País
 
 O cartão de viagem mostra bandeira de destino e cidade. Planeie num relance. Saiba para onde está indo.
 
-#### Contagem de Dias
+### Contagem de Dias
 
 Quantos dias até à sua viagem? A contagem regressiva aparece nos cartões de viagem. Deixa todos entusiasmados.
 
-#### Sempre Offline
+### Sempre Offline
 
 Funciona 100% offline. Planeie no aeroporto. Sem internet necessária. Funciona em modo avião.
 
-#### Sincronização Nuvem Opcional
+### Sincronização Nuvem Opcional
 
 Pro: sincronize com o seu próprio iCloud ou Google Drive. Acesso multi-dispositivo. Você detém a chave.
 

@@ -90,8 +90,6 @@ Dit geldt of je paspoort nu verliep voordat je het VK verliet of terwijl je in h
 
 Is je paspoort al verlopen en zoek je uit wat je nu moet doen, dan behandelt [ons vervolgartikel dat stap voor stap](https://traveldocumentvault.com/nl/blog/passport-expired-what-to-do/). Heb je een reis gepland en nadert de vervaldatum van je paspoort, dan is dit het moment om te verlengen in plaats van te wachten tot het verloopt, wat betekent dat je voor de Premium-service betaalt in plaats van het standaardtarief. Controleer nu de paspoorten van je gezin voordat je een reis boekt.
 
-**Stel vervalherinneringen maanden van tevoren in, niet weken.** [Travel Document Vault houdt de vervaldatum van je paspoort bij en stuurt standaard herinneringen vanaf acht maanden van tevoren, en opnieuw naarmate de vervaldatum dichterbij komt](https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/). Voeg elk paspoort in je huishouden toe met Pro. Gebruik de herinneringen om verlengingen te plannen.
-
 ## Als je al in het buitenland bent en je paspoort verloopt
 
 Het lastigste scenario om je op voor te bereiden is dat je paspoort verloopt terwijl je nog in het buitenland bent. Verloopt het voordat je terugkeert, dan kun je niet aan boord gaan van een vlucht of veerboot naar huis, en moet je contact opnemen met de dichtstbijzijnde Britse ambassade of het consulaat voor een noodreisdocument, ook wel een ETD of noodpaspoort genoemd, dat alleen geldig is om thuis te komen.
@@ -133,6 +131,10 @@ Nee, maar je kunt er nog steeds niet mee reizen. Een beschadigd paspoort kan doo
 ### Kan ik een Brits paspoort verlengen dat al verlopen is?
 
 Ja. GOV.UK noemt een verlopen paspoort als reden om te verlengen voordat je reist, dus de meeste mensen gebruiken de standaard verlengingsservice voor volwassenen. De uitzondering is een paspoort dat is afgegeven vóór 1 januari 1994; dan vraag je in plaats daarvan een eerste paspoort voor volwassenen aan. Je nieuwe paspoort krijgt een ander nummer, dus werk eventuele boekingen met het oude nummer bij.
+
+### Kun je een vakantie boeken met een verlopen paspoort?
+
+Ja, niets houdt je tegen om te boeken, want bij het boeken controleert niemand je paspoort. Het moet wel geldig zijn op de dag dat je reist, en GOV.UK raadt aan om te wachten met boeken totdat je het nieuwe paspoort hebt, omdat dat niet hetzelfde nummer heeft als het oude.
 
 ## Gerelateerde artikelen
 

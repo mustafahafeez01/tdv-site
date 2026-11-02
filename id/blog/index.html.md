@@ -8,7 +8,7 @@ Source: https://traveldocumentvault.com/id/blog/
 
 ##
 
-[Cerita PendiriUnggulan Mengapa Saya Membangun Travel Document Vault: Untuk Orang Tua yang Mengingat Segalanya Saya berdiri di imigrasi ketika petugas melihat paspor putri saya dan berhenti. Itu hampir terjadi, menyadari saya hampir menghancurkan liburan keluarga tanpa mengetahuinya, itulah mengapa aplikasi ini ada. Jan 3, 20267 mnt baca](https://traveldocumentvault.com/id/blog/why-i-built-travel-document-vault/)
+[Cerita PendiriUnggulan Mengapa Saya Membangun Travel Document Vault: Untuk Orang Tua yang Mengingat Segalanya Saya berdiri di imigrasi ketika petugas melihat paspor putri saya dan berhenti. Itu hampir terjadi, menyadari saya hampir menghancurkan liburan keluarga tanpa mengetahuinya, itulah mengapa aplikasi ini ada. 3 Januari 20267 mnt baca](https://traveldocumentvault.com/id/blog/why-i-built-travel-document-vault/)
 
 ##
 
@@ -88,7 +88,7 @@ Source: https://traveldocumentvault.com/id/blog/
 
 ##
 
-[Perpanjangan Paspor Bisakah Anda bepergian dengan paspor kedaluwarsa? Aturan Inggris Anda tidak dapat terbang secara internasional dengan paspor yang sudah kedaluwarsa. Pengecualian domestik yang terbatas, jalur perpanjangan tercepat di Inggris, dan yang harus dilakukan jika Anda sudah berada di luar negeri. 2 Juli 20267 min](https://traveldocumentvault.com/id/blog/travel-expired-passport-uk/)
+[Perpanjangan Paspor Bisakah Anda bepergian dengan paspor kedaluwarsa? Aturan Inggris Anda tidak dapat terbang secara internasional dengan paspor yang sudah kedaluwarsa. Pengecualian domestik yang terbatas, jalur perpanjangan tercepat di Inggris, dan yang harus dilakukan jika Anda sudah berada di luar negeri. 2 Juli 20267 mnt baca](https://traveldocumentvault.com/id/blog/travel-expired-passport-uk/)
 
 ##
 
@@ -100,63 +100,63 @@ Source: https://traveldocumentvault.com/id/blog/
 
 ##
 
-[Aturan Paspor Berapa Lama Paspor Berlaku untuk Perjalanan? Sebagian besar paspor dewasa berlaku 10 tahun, tetapi jendela waktu perjalanan Anda seringkali lebih pendek. Pelajari cara menghitung masa berlaku paspor dan kapan harus memperpanjang. 30 Apr 20266 min](https://traveldocumentvault.com/id/blog/how-long-is-passport-valid-for-travel/)
+[Aturan Paspor Berapa Lama Paspor Berlaku untuk Perjalanan? Sebagian besar paspor dewasa berlaku 10 tahun, tetapi jendela waktu perjalanan Anda seringkali lebih pendek. Pelajari cara menghitung masa berlaku paspor dan kapan harus memperpanjang. 30 April 20266 mnt baca](https://traveldocumentvault.com/id/blog/how-long-is-passport-valid-for-travel/)
 
 ##
 
-[Aturan Paspor Cara Membuat Foto Paspor di Rumah yang Pasti Diterima Cara membuat foto paspor diterima sejak percobaan pertama: latar belakang, pencahayaan, ekspresi, dan alasan penolakan yang paling sering menjebak orang. 29 Apr 20267 min](https://traveldocumentvault.com/id/blog/passport-photo-at-home/)
+[Aturan Paspor Cara Membuat Foto Paspor di Rumah yang Pasti Diterima Cara membuat foto paspor diterima sejak percobaan pertama: latar belakang, pencahayaan, ekspresi, dan alasan penolakan yang paling sering menjebak orang. 29 April 20267 mnt baca](https://traveldocumentvault.com/id/blog/passport-photo-at-home/)
 
 ##
 
-[Visa & Masuk Apa Perbedaan Antara Visa dan Paspor? Paspor membuktikan siapa Anda. Visa adalah izin masuk dari suatu negara. Berikut perbedaan keduanya, mengapa sebagian besar perjalanan membutuhkan keduanya, dan kepada siapa Anda harus memastikannya. 22 Apr 20266 min](https://traveldocumentvault.com/id/blog/visa-vs-passport/)
+[Visa & Masuk Apa Perbedaan Antara Visa dan Paspor? Paspor membuktikan siapa Anda. Visa adalah izin masuk dari suatu negara. Berikut perbedaan keduanya, mengapa sebagian besar perjalanan membutuhkan keduanya, dan kepada siapa Anda harus memastikannya. 22 April 20266 mnt baca](https://traveldocumentvault.com/id/blog/visa-vs-passport/)
 
 ##
 
-[Privasi & Keamanan iCloud vs Google Photos vs aplikasi terenkripsi: cara paling aman menyimpan paspor Anda Perbandingan iCloud, Google Photos, dan aplikasi terenkripsi. Mengapa salinan offline di perangkat umumnya paling aman, dan kompromi yang dibawa setiap opsi cloud. 15 April 20267 min](https://traveldocumentvault.com/id/blog/safest-way-to-store-passport-digitally/)
+[Privasi & Keamanan iCloud vs Google Photos vs aplikasi terenkripsi: cara paling aman menyimpan paspor Anda Perbandingan iCloud, Google Photos, dan aplikasi terenkripsi. Mengapa salinan offline di perangkat umumnya paling aman, dan kompromi yang dibawa setiap opsi cloud. 15 April 20267 mnt baca](https://traveldocumentvault.com/id/blog/safest-way-to-store-passport-digitally/)
 
 ##
 
-[Aturan Paspor Salinan Digital Paspor: Apa yang Dianggap sebagai Identitas Sah Saat Bepergian? Maskapai, hotel, kedutaan, dan petugas imigrasi memperlakukan salinan digital paspor secara berbeda. Berikut penjelasan pasti soal kapan salinan digital membantu, dan kapan Anda memerlukan dokumen fisik. Apr 4, 20267 min read](https://traveldocumentvault.com/id/blog/digital-passport-copy-valid/)
+[Aturan Paspor Salinan Digital Paspor: Apa yang Dianggap sebagai Identitas Sah Saat Bepergian? Maskapai, hotel, kedutaan, dan petugas imigrasi memperlakukan salinan digital paspor secara berbeda. Berikut penjelasan pasti soal kapan salinan digital membantu, dan kapan Anda memerlukan dokumen fisik. 4 April 20267 mnt baca](https://traveldocumentvault.com/id/blog/digital-passport-copy-valid/)
 
 ##
 
-[Visa & Masuk Aplikasi Pelacak Kedaluwarsa Visa: Yang Perlu Diperhatikan dan Mengapa Penting Aplikasi pelacak kedaluwarsa visa dapat mencegah denda overstay. Fitur apa yang penting, bagaimana pelacakan visa berbeda dari pelacakan paspor, dan apa yang perlu diperiksa terlebih dahulu. Mar 21, 20268 mnt baca](https://traveldocumentvault.com/id/blog/visa-expiry-tracker-app/)
+[Visa & Masuk Aplikasi Pelacak Kedaluwarsa Visa: Yang Perlu Diperhatikan dan Mengapa Penting Aplikasi pelacak kedaluwarsa visa dapat mencegah denda overstay. Fitur apa yang penting, bagaimana pelacakan visa berbeda dari pelacakan paspor, dan apa yang perlu diperiksa terlebih dahulu. 21 Maret 20268 mnt baca](https://traveldocumentvault.com/id/blog/visa-expiry-tracker-app/)
 
 ##
 
-[Pembaruan Bisakah Anda Bepergian Saat Paspor Sedang Diperpanjang? Cari tahu apakah Anda bisa bepergian saat perpanjangan paspor Anda masih diproses. Aturannya berbeda tiap negara dan tergantung cara Anda mengajukan. Ini yang perlu Anda ketahui. Mar 14, 20267 mnt baca](https://traveldocumentvault.com/id/blog/travel-while-passport-renewal-pending/)
+[Pembaruan Bisakah Anda Bepergian Saat Paspor Sedang Diperpanjang? Cari tahu apakah Anda bisa bepergian saat perpanjangan paspor Anda masih diproses. Aturannya berbeda tiap negara dan tergantung cara Anda mengajukan. Ini yang perlu Anda ketahui. 14 Maret 20267 mnt baca](https://traveldocumentvault.com/id/blog/travel-while-passport-renewal-pending/)
 
 ##
 
-[Persiapan Perjalanan Paspor Hilang di Luar Negeri? Lakukan Tujuh Hal Ini Segera Paspor hilang di luar negeri? Berikut tujuh langkah yang harus segera dilakukan — lapor polisi, hubungi kedutaan, dokumen perjalanan darurat, dan cara pulang ke rumah. Mar 11, 20267 mnt baca](https://traveldocumentvault.com/id/blog/lost-passport-abroad/)
+[Persiapan Perjalanan Paspor Hilang di Luar Negeri? Lakukan Tujuh Hal Ini Segera Paspor hilang di luar negeri? Berikut tujuh langkah yang harus segera dilakukan — lapor polisi, hubungi kedutaan, dokumen perjalanan darurat, dan cara pulang ke rumah. 11 Maret 20267 mnt baca](https://traveldocumentvault.com/id/blog/lost-passport-abroad/)
 
 ##
 
-[Pembaruan Paspor Kedaluwarsa? Ini yang Harus Anda Lakukan, Langkah demi Langkah Baru sadar paspor Anda sudah kedaluwarsa? Berikut yang harus Anda lakukan agar semuanya kembali lancar dengan cepat, sekaligus menghindari kesalahan umum saat memperpanjang. Mar 9, 20269 mnt baca](https://traveldocumentvault.com/id/blog/passport-expired-what-to-do/)
+[Pembaruan Paspor Kedaluwarsa? Ini yang Harus Anda Lakukan, Langkah demi Langkah Baru sadar paspor Anda sudah kedaluwarsa? Berikut yang harus Anda lakukan agar semuanya kembali lancar dengan cepat, sekaligus menghindari kesalahan umum saat memperpanjang. 9 Maret 20269 mnt baca](https://traveldocumentvault.com/id/blog/passport-expired-what-to-do/)
 
 ##
 
-[Alat Perjalanan Aplikasi pengatur paspor: di perangkat, bukan di cloud Kebanyakan aplikasi paspor mengunggah hasil pindaian Anda ke server perusahaan. Yang perlu diperiksa: penyimpanan di perangkat, enkripsi sungguhan, dan pengingat kedaluwarsa per pelancong. Mar 4, 20268 mnt baca](https://traveldocumentvault.com/id/blog/best-passport-organizer-app/)
+[Alat Perjalanan Aplikasi pengatur paspor: di perangkat, bukan di cloud Kebanyakan aplikasi paspor mengunggah hasil pindaian Anda ke server perusahaan. Yang perlu diperiksa: penyimpanan di perangkat, enkripsi sungguhan, dan pengingat kedaluwarsa per pelancong. 4 Maret 20268 mnt baca](https://traveldocumentvault.com/id/blog/best-passport-organizer-app/)
 
 ##
 
-[Aturan PasportOrganisasi Daftar Periksa Dokumen Perjalanan Internasional: Semua yang Anda Butuhkan Sebelum Terbang Semua yang perlu Anda bawa, periksa, dan siapkan sebelum bepergian ke luar negeri. Daftar periksa praktis yang mencakup paspor, visa, SIM, dan asuransi perjalanan, cocok untuk keluarga maupun pelancong solo. Mar 4, 20269 mnt baca](https://traveldocumentvault.com/id/blog/travel-document-checklist/)
+[Aturan PasportOrganisasi Daftar Periksa Dokumen Perjalanan Internasional: Semua yang Anda Butuhkan Sebelum Terbang Semua yang perlu Anda bawa, periksa, dan siapkan sebelum bepergian ke luar negeri. Daftar periksa praktis yang mencakup paspor, visa, SIM, dan asuransi perjalanan, cocok untuk keluarga maupun pelancong solo. 4 Maret 20269 mnt baca](https://traveldocumentvault.com/id/blog/travel-document-checklist/)
 
 ##
 
-[Privasi Apakah Aman Menyimpan Paspor di Google Foto? Ini yang Perlu Anda Ketahui Satu akun Google yang terkena phishing membuka semua foto di dalamnya, termasuk paspor, dan ketentuan Google mengizinkan pemindaian otomatis. Risikonya, dan tempat yang lebih aman untuk menyimpan pindaian. Feb 15, 20267 mnt baca](https://traveldocumentvault.com/id/blog/is-it-safe-to-store-passport-in-google-photos/)
+[Privasi Apakah Aman Menyimpan Paspor di Google Foto? Ini yang Perlu Anda Ketahui Satu akun Google yang terkena phishing membuka semua foto di dalamnya, termasuk paspor, dan ketentuan Google mengizinkan pemindaian otomatis. Risikonya, dan tempat yang lebih aman untuk menyimpan pindaian. 15 Februari 20267 mnt baca](https://traveldocumentvault.com/id/blog/is-it-safe-to-store-passport-in-google-photos/)
 
 ##
 
-[Pembaruan Berapa Lama Perpanjangan Paspor? (AS, Inggris, Australia, Kanada) Berapa lama perpanjangan paspor berlangsung? Ini lebih bergantung pada situasi Anda daripada negara Anda. Berikut yang sebenarnya memperlambat prosesnya, dan di mana mengecek waktu terkini. Feb 10, 20267 mnt baca](https://traveldocumentvault.com/id/blog/how-long-does-passport-renewal-take/)
+[Pembaruan Berapa Lama Perpanjangan Paspor? (AS, Inggris, Australia, Kanada) Berapa lama perpanjangan paspor berlangsung? Ini lebih bergantung pada situasi Anda daripada negara Anda. Berikut yang sebenarnya memperlambat prosesnya, dan di mana mengecek waktu terkini. 10 Februari 20267 mnt baca](https://traveldocumentvault.com/id/blog/how-long-does-passport-renewal-take/)
 
 ##
 
-[Organisasi Cara Mengatur Dokumen Perjalanan Keluarga (Sebelum Perjalanan Berikutnya) Pelajari cara mengatur dokumen perjalanan untuk seluruh keluarga — apa yang perlu disimpan, cara menyimpannya, dan cara memastikan tidak ada yang kedaluwarsa tanpa peringatan. Feb 5, 20267 mnt baca](https://traveldocumentvault.com/id/blog/how-to-organise-family-travel-documents/)
+[Organisasi Cara Mengatur Dokumen Perjalanan Keluarga (Sebelum Perjalanan Berikutnya) Pelajari cara mengatur dokumen perjalanan untuk seluruh keluarga — apa yang perlu disimpan, cara menyimpannya, dan cara memastikan tidak ada yang kedaluwarsa tanpa peringatan. 5 Februari 20267 mnt baca](https://traveldocumentvault.com/id/blog/how-to-organise-family-travel-documents/)
 
 ##
 
-[Aturan Paspor Aturan Paspor 6 Bulan: Bisakah Bepergian dengan Sisa Kurang? Paspor tersisa kurang dari enam bulan? Negara yang menerapkan aturan 6 bulan, yang cukup berlaku selama kunjungan, dan cara memeriksanya sebelum memesan. Feb 1, 20267 mnt baca](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/)
+[Aturan Paspor Aturan Paspor 6 Bulan: Bisakah Bepergian dengan Sisa Kurang? Paspor tersisa kurang dari enam bulan? Negara yang menerapkan aturan 6 bulan, yang cukup berlaku selama kunjungan, dan cara memeriksanya sebelum memesan. 1 Februari 20267 mnt baca](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/)
 
 ## Simpan Detail Paspor Anda Bersama
 

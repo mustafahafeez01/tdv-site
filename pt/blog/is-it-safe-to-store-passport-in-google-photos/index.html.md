@@ -85,10 +85,6 @@ O mesmo risco de compromisso de conta aplica-se a ambas as plataformas. Uma pala
 
 Se for um utilizador de iPhone, ativar **Advanced Data Protection no iCloud** vale a pena fazer. Uma aplicação encriptada construída propositadamente sem upload de nuvem permanece a opção mais forte para armazenamento de passaportes independentemente da plataforma em que está.
 
-**Travel Document Vault** armazena as suas fotografias de passaporte no dispositivo com encriptação forte. Nenhuma conta necessária. Com Pro, pode fazer uma cópia de segurança encriptada para o seu próprio iCloud ou Google Drive. Guarde o código de recuperação em segurança: vai precisar dele para restaurar essa cópia de segurança. [Transferir da App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
-![Diagrama do que uma foto de passaporte revela - nome, data de nascimento, número do passaporte e foto - ao lado de três riscos, violação de conta, acesso de terceiros e indexação de dados, e três opções mais seguras: iCloud com ADP, uma aplicação encriptada, ou uma cópia offline](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/passport-data-risks-pt.jpg) Uma foto, quatro dados pessoais, e três lugares mais tranquilos para os guardar.
-
 ## Quais São as Alternativas Mais Seguras?
 
 Se deseja uma cópia de passaporte digital à mão quando está a viajar — como cópia de segurança se o seu passaporte físico se perder ou for roubado — existem opções que lhe dão segurança real sem muita inconveniência.

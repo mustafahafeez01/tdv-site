@@ -37,7 +37,7 @@ Uw herstelcode is net zo gevoelig als uw hoofdwachtwoord. Bewaar hem op een van 
 
 - **Wachtwoordmanager:** Gebruik een wachtwoordmanager die u vertrouwt.
 - **Fysieke back-up:** Schrijf hem op papier en bewaar deze in een kluis, kluisje, of veilige plek thuis.
-- **Offline document:** Sla op op een versleutelde externe schijf of USB-stick (nooit gesynchroniseerd met de cloud).
+- **Offlinebestand:** Sla op op een versleutelde externe schijf of USB-stick (nooit gesynchroniseerd met de cloud).
 - **Vermijd:** E-mail, de Notities-app, onversleutelde clouddiensten, of schermafbeeldingen.
 
 ### Uw code opnieuw genereren

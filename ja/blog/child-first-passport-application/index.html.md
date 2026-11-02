@@ -6,7 +6,7 @@ Source: https://traveldocumentvault.com/ja/blog/child-first-passport-application
 
 ---
 
-![A parent seen from behind at a bright window, baby on one shoulder, holding up a single gold passport booklet](https://traveldocumentvault.com/blog/child-first-passport-application/cover.jpg)
+![明るい窓辺で赤ちゃんを肩に抱いた親の後ろ姿。金色のパスポートを1冊かかげている](https://traveldocumentvault.com/blog/child-first-passport-application/cover.jpg)
 
 ## 重要ポイント
 

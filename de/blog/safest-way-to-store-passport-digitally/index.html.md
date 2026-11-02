@@ -10,8 +10,8 @@ Source: https://traveldocumentvault.com/de/blog/safest-way-to-store-passport-dig
 
 ## Wichtigste Erkenntnisse
 
-- **iCloud Fotos (mit Advanced Data Protection)** bietet End-zu-End-Verschlüsselung, verbindet Ihre Reisepasskopien jedoch weiterhin mit Ihrem Apple ID-Konto.
-- **Google Fotos** ist standardmäßig nicht End-zu-End-verschlüsselt und indexiert Ihre Inhalte, was es weniger geeignet für sensible Identitätsdokumente macht.
+- **iCloud Fotos (mit Advanced Data Protection)** bietet Ende-zu-Ende-Verschlüsselung, verbindet Ihre Reisepasskopien jedoch weiterhin mit Ihrem Apple ID-Konto.
+- **Google Fotos** ist standardmäßig nicht Ende-zu-Ende-verschlüsselt und indexiert Ihre Inhalte, was es weniger geeignet für sensible Identitätsdokumente macht.
 - **Dedizierte verschlüsselte Apps** speichern Reisepassdaten auf dem Gerät mit AES-256-Verschlüsselung, benötigen kein Konto oder Cloud-Upload und funktionieren offline. Dies ist die sicherste Option.
 - Jeder Ansatz beinhaltet Kompromisse zwischen Bequemlichkeit und Sicherheit, die Sie verstehen sollten, bevor Sie sich entscheiden.
 - Die sicherste Methode hängt von Ihrer persönlichen Risikotoleranz ab, aber eine digitale Kopie Ihres Reisepasses verdient dieselbe Sorgfalt wie das Original.
@@ -26,18 +26,18 @@ iCloud Fotos synchronisiert Ihre Fotos automatisch auf Ihrem iPhone, iPad und Ma
 
 ### Es synchronisiert automatisch, aber die Ende-zu-Ende-Verschlüsselung ist optional
 
-Fotos, die Sie aufnehmen, werden auf iCloud hochgeladen und mit einem Schlüssel verschlüsselt, der von Ihrer Apple ID abgeleitet ist. Wenn Sie Advanced Data Protection aktivieren (Apples optionale End-zu-End-Verschlüsselungsebene), werden Ihre Fotos auf Apples Servern mit Schlüsseln verschlüsselt, die nur Sie halten. Sogar Apple kann sie nicht entschlüsseln.
+Fotos, die Sie aufnehmen, werden auf iCloud hochgeladen und mit einem Schlüssel verschlüsselt, der von Ihrer Apple ID abgeleitet ist. Wenn Sie Advanced Data Protection aktivieren (Apples optionale Ende-zu-Ende-Verschlüsselungsebene), werden Ihre Fotos auf Apples Servern mit Schlüsseln verschlüsselt, die nur Sie halten. Sogar Apple kann sie nicht entschlüsseln.
 
 ### Was geschützt ist und was weiterhin von Apple abhängt
 
-- **End-zu-End-verschlüsselt mit Advanced Data Protection:** Ja, wenn Sie dies aktivieren. Ohne Advanced Data Protection verwendet iCloud Verschlüsselung während des Transports, aber Apple behält die Entschlüsselungsschlüssel.
+- **Ende-zu-Ende-verschlüsselt mit Advanced Data Protection:** Ja, wenn Sie dies aktivieren. Ohne Advanced Data Protection verwendet iCloud Verschlüsselung während des Transports, aber Apple behält die Entschlüsselungsschlüssel.
 - **Konto erforderlich:** Ja, Ihre Apple ID.
 - **Cloud-Upload:** Ja, automatisch.
 - **Für Identitätsdokumente konzipiert:** Nein. iCloud Fotos ist für persönliche Fotografie konzipiert, nicht für sensible Dokumente.
 
 ### Überall bequem, ein Single Point of Failure: Ihre Apple ID
 
-Bei Bequemlichkeit glänzt iCloud Fotos: Ihre Reisepasskopie wird automatisch auf allen Ihren Apple-Geräten synchronisiert und bleibt erhalten, wenn Sie Ihr Telefon verlieren. Die Aktivierung von Advanced Data Protection fügt eine End-zu-End-Verschlüsselung hinzu, die selbst Apple nicht umgehen kann, was die Sicherheit im Vergleich zum Standard-iCloud-Speicher erheblich verbessert.
+Bei Bequemlichkeit glänzt iCloud Fotos: Ihre Reisepasskopie wird automatisch auf allen Ihren Apple-Geräten synchronisiert und bleibt erhalten, wenn Sie Ihr Telefon verlieren. Die Aktivierung von Advanced Data Protection fügt eine Ende-zu-Ende-Verschlüsselung hinzu, die selbst Apple nicht umgehen kann, was die Sicherheit im Vergleich zum Standard-iCloud-Speicher erheblich verbessert.
 
 Ihre Reisepasskopie wird jedoch mit Ihrem Apple ID-Konto verknüpft, was einen potenziellen Single Point of Failure erzeugt, der sich auf alle Ihre iCloud-Daten erstreckt. Wenn jemand Ihre Apple ID durch ein schwaches Passwort, Wiederverwendung von Anmeldedaten oder Social Engineering kompromittiert, hat er Zugriff auf alles in Ihrem iCloud-Konto, einschließlich Ihrer Reisepass-Scans. Sie vertrauen auch auf Apples operative Sicherheit, was bedeutet, dass jeder Bruch ihrer Systeme Ihre Daten auf ihren Servern offenlegen würde, obwohl Apple allgemein als starker Sicherheitsverwalter angesehen wird.
 
@@ -51,7 +51,7 @@ Fotos werden auf Googles Server hochgeladen und während des Transports verschl�
 
 ### Standardmäßig keine Ende-zu-Ende-Verschlüsselung
 
-- **Standardmäßig End-zu-End-verschlüsselt:** Nein. Google Fotos verwendet Verschlüsselung während des Transports, aber nicht Ende zu Ende. Google kann Ihre Fotos entschlüsseln und anzeigen.
+- **Standardmäßig Ende-zu-Ende-verschlüsselt:** Nein. Google Fotos verwendet Verschlüsselung während des Transports, aber nicht Ende zu Ende. Google kann Ihre Fotos entschlüsseln und anzeigen.
 - **Inhaltsanalyse:** Google indexiert und analysiert Fotoinhalte für Features und Empfehlungen.
 - **Konto erforderlich:** Ja, Ihr Google-Konto.
 - **Cloud-Upload:** Ja, automatisch.
@@ -59,7 +59,7 @@ Fotos werden auf Googles Server hochgeladen und während des Transports verschl�
 
 ### Starke Integration, schwächerer Schutz für sensible Dokumente
 
-Google Fotos bietet tiefe Integration mit Android, kostenlose Speicheroptionen und leistungsstarke Suchfunktionen, was für Bequemlichkeit attraktiv ist. Die Sicherheitsnachteile für sensible Dokumente sind jedoch erheblicher: Google Fotos verwendet standardmäßig keine End-zu-End-Verschlüsselung, was bedeutet, dass Google technisch auf Ihre Fotos zugreifen kann, und Ihre Reisepass-Scans werden von Googles Inhaltsanalysesystemen verarbeitet. Da Google in der Vergangenheit Sicherheitsvorfälle erlebt hat und bedenkt, dass Identitätsdokumente einen besonders sorgfältigen Schutz erfordern, wird Google Fotos zu einer weniger sicheren Wahl als Alternativen, wenn Sie sensible Daten schützen.
+Google Fotos bietet tiefe Integration mit Android, kostenlose Speicheroptionen und leistungsstarke Suchfunktionen, was für Bequemlichkeit attraktiv ist. Die Sicherheitsnachteile für sensible Dokumente sind jedoch erheblicher: Google Fotos verwendet standardmäßig keine Ende-zu-Ende-Verschlüsselung, was bedeutet, dass Google technisch auf Ihre Fotos zugreifen kann, und Ihre Reisepass-Scans werden von Googles Inhaltsanalysesystemen verarbeitet. Da Google in der Vergangenheit Sicherheitsvorfälle erlebt hat und bedenkt, dass Identitätsdokumente einen besonders sorgfältigen Schutz erfordern, wird Google Fotos zu einer weniger sicheren Wahl als Alternativen, wenn Sie sensible Daten schützen.
 
 Was dies praktisch bedeutet
 
@@ -94,7 +94,7 @@ Mit Pro können Sie Dokumente zwischen eingerichteten Geräten derselben Plattfo
 | Funktionalität | iCloud Fotos | Google Fotos | Verschlüsselte App |
 |---|---|---|---|
 | Verschlüsselung im Ruhezustand | Ja (AES-128) | Ja (AES-128) | Ja (AES-256) |
-| End-zu-End-verschlüsselt | Optional (Advanced Data Protection) | Nein | Ja (immer) |
+| Ende-zu-Ende-verschlüsselt | Optional (Advanced Data Protection) | Nein | Ja (immer) |
 | Konto erforderlich | Ja (Apple ID) | Ja (Google-Konto) | Nein |
 | Funktioniert vollständig offline | Nein (benötigt Synchronisierung) | Nein (benötigt Synchronisierung) | Ja |
 | Risiko einer Remote-Datenpanne | Mittel (Apples Server) | Mittel bis hoch (Googles Server und Inhaltsanalyse) | Optionales verschlüsseltes Backup in Ihrem eigenen iCloud oder Google Drive (Pro) |
@@ -106,9 +106,9 @@ Mit Pro können Sie Dokumente zwischen eingerichteten Geräten derselben Plattfo
 
 Die Antwort hängt von Ihrer persönlichen Risikotoleranz und Ihrem Anwendungsfall ab.
 
-**Wählen Sie iCloud Fotos, wenn:** Sie tief in Apples Ökosystem verankert sind, automatischen Geräteübergreifenden Zugriff wünschen und akzeptieren, dass Ihre Apple ID ein Single Point of Failure ist. Die Aktivierung von Advanced Data Protection fügt eine End-zu-End-Verschlüsselung hinzu, die die Sicherheit erheblich verbessert, und für die meisten iPhone-Benutzer bleibt es die praktischste Option. Falls Sie es noch nicht aktiviert haben, tun Sie das heute Abend: Es ist die eine Einstellung, die die größte Lücke hier schließt.
+**Wählen Sie iCloud Fotos, wenn:** Sie tief in Apples Ökosystem verankert sind, automatischen Geräteübergreifenden Zugriff wünschen und akzeptieren, dass Ihre Apple ID ein Single Point of Failure ist. Die Aktivierung von Advanced Data Protection fügt eine Ende-zu-Ende-Verschlüsselung hinzu, die die Sicherheit erheblich verbessert, und für die meisten iPhone-Benutzer bleibt es die praktischste Option. Falls Sie es noch nicht aktiviert haben, tun Sie das heute Abend: Es ist die eine Einstellung, die die größte Lücke hier schließt.
 
-**Vermeiden Sie Google Fotos für die Reisepass-Speicherung.** Das Fehlen der Standard-End-zu-End-Verschlüsselung in Verbindung mit der Inhaltsanalyse macht es weniger geeignet für sensible Identitätsdokumente als Alternativen. Wenn Sie Google Fotos verwenden, sollten Sie eine Sicherung an anderer Stelle führen.
+**Vermeiden Sie Google Fotos für die Reisepass-Speicherung.** Das Fehlen der Standard-Ende-zu-Ende-Verschlüsselung in Verbindung mit der Inhaltsanalyse macht es weniger geeignet für sensible Identitätsdokumente als Alternativen. Wenn Sie Google Fotos verwenden, sollten Sie eine Sicherung an anderer Stelle führen.
 
 **Wählen Sie eine dedizierte verschlüsselte App, wenn:** Sicherheit Ihre Hauptanliegen ist, Sie die Anzahl der Drittparteien, die Ihre Daten halten, reduzieren möchten und Sie mit manueller Sicherung und weniger bequemem Geräteübergreifenden Zugriff zufrieden sind. Dieser Ansatz bietet stärkere Isolation und ist speziell für Reisedokumente konzipiert. Für Familien bieten Apps, die mehrere Familienmitglieder unter einer App unterstützen (ohne Cloud-Upload), einen guten Ausgleich. Wenn wir nur für einen Reisepass wählen müssten, würden wir zu diesem Ansatz tendieren, selbst wenn Ihre Alltagsfotos weiterhin in der Cloud bleiben.
 
@@ -124,11 +124,11 @@ Unabhängig davon, welche Methode Sie wählen, denken Sie daran, dass eine digit
 
 ### Ist iCloud Fotos sicher zum Speichern von Reisepasskopien?
 
-iCloud Fotos mit Advanced Data Protection bietet End-zu-End-Verschlüsselung, die sicherer ist als Standard-iCloud-Speicher. Ihre Reisepasskopien sind jedoch immer noch verschlüsselt und auf Apples Servern gespeichert, was eine gemeinsame Angriffsfläche mit Ihrer Apple ID erzeugt. Wenn Ihre Apple ID kompromittiert wird, hat ein Angreifer Zugriff auf alles in Ihrem iCloud-Konto. Bei Identitätsdokumenten stellt dies ein zusätzliches Risiko dar, das dem Speichern nur auf Ihrem Gerät entspricht.
+iCloud Fotos mit Advanced Data Protection bietet Ende-zu-Ende-Verschlüsselung, die sicherer ist als Standard-iCloud-Speicher. Ihre Reisepasskopien sind jedoch immer noch verschlüsselt und auf Apples Servern gespeichert, was eine gemeinsame Angriffsfläche mit Ihrer Apple ID erzeugt. Wenn Ihre Apple ID kompromittiert wird, hat ein Angreifer Zugriff auf alles in Ihrem iCloud-Konto. Bei Identitätsdokumenten stellt dies ein zusätzliches Risiko dar, das dem Speichern nur auf Ihrem Gerät entspricht.
 
 ### Warum wird Google Fotos nicht zum Speichern von Reisepässen empfohlen?
 
-Google Fotos ist standardmäßig nicht End-zu-End-verschlüsselt. Google indexiert und scannt Fotoinhalte für Features wie Suche und Organisation, was bedeutet, dass Ihre Reisepassbilder von Googles Systemen verarbeitet und analysiert werden. Google hat historisch auch Sicherheitsvorfälle erlebt. Bei sensiblen Identitätsdokumenten wie Reisepässen macht diese Kombination aus fehlender Standard-E2E-Verschlüsselung und Inhaltsanalyse Google Fotos zu einer weniger sicheren Wahl als Alternativen.
+Google Fotos ist standardmäßig nicht Ende-zu-Ende-verschlüsselt. Google indexiert und scannt Fotoinhalte für Features wie Suche und Organisation, was bedeutet, dass Ihre Reisepassbilder von Googles Systemen verarbeitet und analysiert werden. Google hat historisch auch Sicherheitsvorfälle erlebt. Bei sensiblen Identitätsdokumenten wie Reisepässen macht diese Kombination aus fehlender Standard-E2E-Verschlüsselung und Inhaltsanalyse Google Fotos zu einer weniger sicheren Wahl als Alternativen.
 
 ### Welche Vorteile hat eine dedizierte verschlüsselte App zum Speichern von Reisepässen?
 

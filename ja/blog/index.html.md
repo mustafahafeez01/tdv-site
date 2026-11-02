@@ -100,7 +100,7 @@ Source: https://traveldocumentvault.com/ja/blog/
 
 ##
 
-[パスポートのルールパスポートの有効期限は旅行でどのくらい必要？ ほとんどの大人のパスポートは10年間有効ですが、実際の旅行可能な期間はそれより短いことが多いです。有効月数の計算方法を解説します。 2026年4月30日6 min](https://traveldocumentvault.com/ja/blog/how-long-is-passport-valid-for-travel/)
+[パスポートのルールパスポートの有効期限は旅行でどのくらい必要？ ほとんどの大人のパスポートは10年間有効ですが、実際の旅行可能な期間はそれより短いことが多いです。有効月数の計算方法を解説します。 2026年4月30日6 分読み](https://traveldocumentvault.com/ja/blog/how-long-is-passport-valid-for-travel/)
 
 ##
 
@@ -112,11 +112,11 @@ Source: https://traveldocumentvault.com/ja/blog/
 
 ##
 
-[プライバシーとセキュリティiCloudとGoogle PhotosとEncrypted Vault：パスポートを安全に保管する最適な方法 デジタルパスポートコピーを保管する3つの主な方法と、それぞれがセキュリティにどんな意味を持つかを正直に比較します。 2026年4月15日7 min](https://traveldocumentvault.com/ja/blog/safest-way-to-store-passport-digitally/)
+[プライバシーとセキュリティiCloudとGoogle PhotosとEncrypted Vault：パスポートを安全に保管する最適な方法 デジタルパスポートコピーを保管する3つの主な方法と、それぞれがセキュリティにどんな意味を持つかを正直に比較します。 2026年4月15日7 分読み](https://traveldocumentvault.com/ja/blog/safest-way-to-store-passport-digitally/)
 
 ##
 
-[パスポート規則デジタルパスポートコピー：旅行時に有効なIDとは 航空会社、ホテル、大使館、国境職員は、デジタルパスポートのコピーを異なる方法で扱います。デジタルコピーが役立つ場所と、物理的なドキュメントが絶対に必要な場所を正確に説明します。 Apr 4, 20267 min read](https://traveldocumentvault.com/ja/blog/digital-passport-copy-valid/)
+[パスポート規則デジタルパスポートコピー：旅行時に有効なIDとは 航空会社、ホテル、大使館、国境職員は、デジタルパスポートのコピーを異なる方法で扱います。デジタルコピーが役立つ場所と、物理的なドキュメントが絶対に必要な場所を正確に説明します。 2026年4月4日7 分読み](https://traveldocumentvault.com/ja/blog/digital-passport-copy-valid/)
 
 ##
 

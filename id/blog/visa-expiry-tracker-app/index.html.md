@@ -68,8 +68,6 @@ Dengan semua kompleksitas ini, aplikasi pelacak kedaluwarsa visa yang baik perlu
 - **Model privasi:** Detail visa adalah data sensitif yang terkait dengan identitas. Seperti halnya penyimpanan paspor, enkripsi di perangkat tanpa unggahan ke cloud adalah arsitektur yang paling aman.
 - **Pelacakan paspor dan visa bersamaan:** Kesalahan umum namun sering terlewat adalah memiliki visa yang masih berlaku tetapi paspor yang kedaluwarsa selama masa tinggal yang direncanakan. Melacak keduanya di tempat yang sama mencegah ketidaksesuaian ini.
 
-**Travel Document Vault** melacak tanggal kedaluwarsa paspor dan visa dengan pengingat terpisah untuk setiap dokumen. Tambahkan beberapa pelancong dengan Pro. Dokumen Anda tetap terenkripsi di ponsel secara default, tanpa perlu akun aplikasi. Anda bisa membagikan atau mengekspor salinan, atau mencadangkannya ke iCloud atau Google Drive Anda sendiri dengan Pro. [Dapat diunduh gratis di App Store dan Google Play. Pro tersedia sebagai pembelian sekali bayar, tanpa langganan.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 ## Langkah Praktis untuk Melacak Visa Anda dengan Benar
 
 1. **Catat tanggal masuk Anda pada hari kedatangan.** Hitungan batas maksimal lama tinggal Anda langsung dimulai sejak masuk, bukan sejak visa diterbitkan atau sejak masa berlaku izin masuk dimulai.
@@ -108,9 +106,9 @@ Tergantung jenis visanya. Untuk visa jangka panjang yang memerlukan perpanjangan
 
 [Aturan Paspor8 menit bacaAturan Paspor 6 Bulan: Bisakah Bepergian dengan Sisa Kurang?](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/)
 
-[Perpanjangan8 menit bacaHow Long Does Passport Renewal Take? Current Times for US, UK, Australia, Canada & More](https://traveldocumentvault.com/id/blog/how-long-does-passport-renewal-take/)
+[Perpanjangan8 menit bacaBerapa Lama Perpanjangan Paspor? (AS, Inggris, Australia, Kanada)](https://traveldocumentvault.com/id/blog/how-long-does-passport-renewal-take/)
 
-[Visa & Imigrasi8 menit bacaETIAS: What Documents You Need and How to Apply](https://traveldocumentvault.com/id/blog/etias-documents-2026/)
+[Visa & Imigrasi8 menit bacaETIAS: Dokumen yang Anda Butuhkan dan Cara Mengajukan Permohonan](https://traveldocumentvault.com/id/blog/etias-documents-2026/)
 
 [Alat Perjalanan7 menit bacaAlternatif TripCase: Mengapa Dokumen Perjalanan Anda Perlu Bisa Diakses Luring](https://traveldocumentvault.com/id/blog/tripcase-alternative/)
 

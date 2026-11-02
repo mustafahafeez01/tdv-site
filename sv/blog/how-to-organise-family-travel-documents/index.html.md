@@ -99,8 +99,6 @@ Här är mönstret som fångar familjer på sängen: ni förnyar ert eget pass, 
 
 Alla tre metoderna fungerar, men vi skulle välja den som skickar påminnelsen automatiskt, eftersom ett kalkylblad bara hjälper om ni kommer ihåg att öppna det. Viktigast är att välja en som passar hur ni redan gör saker och faktiskt hålla fast vid den.
 
-**Travel Document Vault** håller koll på sparade utgångsdatum, med passpåminnelser från åtta månader före utgångsdatumet. Skanna varje pass och bekräfta eller ange utgångsdatumet. Lägg till hela familjen med Pro för att samla förnyelsedatumen. [Ladda ner från App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 ## Checklista inför resan för familjer
 
 Kör igenom den här checklistan när ni bokar – inte kvällen innan avresa. Det är det som ger er tid att åtgärda det som behöver åtgärdas.

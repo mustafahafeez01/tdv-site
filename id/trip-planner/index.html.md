@@ -42,19 +42,19 @@ Tetapkan jendela tetap atau bergulir untuk setiap negara, dengan batas hari visa
 
 ## Dan banyak lagi
 
-#### Bendera Negara + Kota
+### Bendera Negara + Kota
 
 Kartu perjalanan menampilkan bendera tujuan dan kota. Rencanakan sekilas. Ketahui ke mana tujuannya.
 
-#### Hari Hitung Mundur
+### Hari Hitung Mundur
 
 Berapa hari hingga perjalanan? Hitungan mundur muncul di kartu perjalanan. Membuat semua merasa antusias.
 
-#### Selalu Offline
+### Selalu Offline
 
 100% bekerja offline. Rencanakan di bandara. Tidak perlu internet. Bekerja di mode pesawat.
 
-#### Sinkronisasi Cloud Opsional
+### Sinkronisasi Cloud Opsional
 
 Pro: Sinkronkan dengan iCloud atau Google Drive pribadi Anda. Akses multi-perangkat. Anda memegang kuncinya.
 

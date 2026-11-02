@@ -62,7 +62,7 @@ Multiple safety layers stand between an accidental tap and lost data.
 
 **Reset and resync.** If your local data and cloud backup drift out of sync, use Reset and Resync to upload a fresh copy of your vault.
 
-### ⚠ Your Recovery Code Is Critical
+### Your Recovery Code Is Critical
 
 Your recovery code unlocks the cloud encryption keys needed to restore your backup. We cannot reset it for you. If you lose every copy and access to every device that can still unlock the vault, we cannot recover the encrypted backup.
 
@@ -86,27 +86,27 @@ You are responsible for maintaining your own document backups and for keeping yo
 
 ## Encryption and Recovery
 
-#### AES-256-GCM
+### AES-256-GCM
 
 Authenticated encryption for document contents.
 
-#### PBKDF2 600k Iterations
+### PBKDF2 600k Iterations
 
 Key derivation that takes computationally expensive effort. This increases the cost of guessing the recovery code.
 
-#### HKDF Key Expansion
+### HKDF Key Expansion
 
 Separate keys for each backup file, and a restore re-encrypts your documents with the new device's own key. A compromised authorised device or recovery code can expose the shared cloud vault.
 
-#### Zero-Knowledge Design
+### Zero-Knowledge Design
 
 Your encrypted backup stays in your own cloud account. We do not receive it or hold the keys needed to read its document contents.
 
-#### What Apple Sees
+### What Apple Sees
 
 Document contents are encrypted in your iCloud or Google Drive. Backup metadata, such as device names, counts and timestamps, is not encrypted.
 
-#### Loss of Recovery Code
+### Loss of Recovery Code
 
 If you lose every copy of your recovery code and access to every device that can still unlock the vault, we cannot decrypt your backups. We do not hold your cloud encryption keys.
 

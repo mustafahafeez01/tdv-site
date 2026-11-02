@@ -1,13 +1,13 @@
 # Travel Document Vault
 
-> Travel Document Vault is a privacy-first iOS and Android app for storing family travel documents - passports, visas, IDs - on-device with AES-256 encryption, no account required. We run no servers that ever hold or can read your documents (optional crash reports, purchase verification, and the cloud backup you control use third-party services). Optional end-to-end encrypted cloud backup (a Pro feature) goes to your own iCloud or Google Drive, sealed with a recovery code only you hold; a free Vault Export is available to everyone.
+> Travel Document Vault is a privacy-first iOS and Android app for storing family travel documents - passports, visas, IDs - on-device with AES-256 encryption, no account required. We run no servers that ever hold or can read your documents (optional crash reports, purchase verification, and the cloud backup you control use third-party services). Optional end-to-end encrypted cloud backup (a Pro feature) goes to your own iCloud or Google Drive, sealed with a recovery code only you hold; a free vault export (Settings, Export vault) is available to everyone.
 
 Every page listed below is also available as clean markdown: append `index.html.md` to any URL. The whole blog is in one file at https://traveldocumentvault.com/llms-full.txt.
 
 - Pro: one-time purchase ($9.99 or local store equivalent), no subscription; includes all v1.x updates. Free tier: 1 profile, up to 5 documents, expiry reminders, biometric lock
 - AES-256-GCM on-device encryption
 - Your Own Cloud backup (Pro feature): encrypted in iCloud (iOS) or Google Drive (Android), sealed with PBKDF2 600,000 iterations + AES-256-GCM, with one-tap restore on a new device using your recovery code, which never leaves your original device. No Travel Document Vault servers involved
-- Free Vault Export (.tdvault) for everyone: export an encrypted backup file and import it on any device. A regular phone or system backup (iCloud Backup, Google Backup) reinstalls the app but cannot restore your documents, because the encryption key never leaves your original device
+- Free vault export (.tdvault) for everyone, via Settings, Export vault and Import backup: export an encrypted backup file and import it on any device. A regular phone or system backup (iCloud Backup, Google Backup) reinstalls the app but cannot restore your documents, because the encryption key never leaves your original device
 - Works fully offline (cloud backup is opt-in, off by default)
 - Supports multiple family members under one app (unlimited profiles is a Pro feature; the free tier includes 1 profile)
 - Passport and visa expiry reminders with customisable lead time
@@ -23,6 +23,8 @@ Every page listed below is also available as clean markdown: append `index.html.
 - [Trip Planner](https://traveldocumentvault.com/trip-planner/index.html.md)
 - [Cloud Backup](https://traveldocumentvault.com/cloud-backup/index.html.md)
 - [Privacy Policy](https://traveldocumentvault.com/privacy-policy/index.html.md)
+- [Terms of Service](https://traveldocumentvault.com/terms/index.html.md)
+- [Pricing Policy](https://traveldocumentvault.com/pricing-policy/index.html.md)
 - [Privacy Verification](https://traveldocumentvault.com/privacy-verification/index.html.md): independent, checkable proof: no trackers, network-traffic tests, every permission explained, and how we test the app's security against OWASP MASVS
 
 ## Blog posts
@@ -70,7 +72,7 @@ Every page listed below is also available as clean markdown: append `index.html.
 
 - [What is My Recovery Code?](https://traveldocumentvault.com/faq/recovery-code/index.html.md)
 - [How to Export and Import Your Vault](https://traveldocumentvault.com/faq/export-import/index.html.md)
-- [Backup Explained: Local Backups, Vault Export, and Cloud Backup](https://traveldocumentvault.com/faq/backup-explained/index.html.md)
+- [Backup explained: local backups, vault export, and cloud backup](https://traveldocumentvault.com/faq/backup-explained/index.html.md)
 
 ## Optional
 
@@ -78,6 +80,6 @@ Every page listed below is also available as clean markdown: append `index.html.
 - [Available on Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault)
 - [Full blog corpus in one file](https://traveldocumentvault.com/llms-full.txt)
 
-Blog posts and FAQ articles are also published in Spanish, French, German, Portuguese, Italian, Japanese, Korean and Simplified Chinese under https://traveldocumentvault.com/{lang}/ (es, fr, de, pt, it, ja, ko, zh-Hans). Core pages are additionally available in ru, uk, nl, sv, da, th and id. Each has its own markdown twin.
+Core pages, blog posts and FAQ articles are also published in 15 more languages under https://traveldocumentvault.com/{lang}/ (fr, es, de, pt, sv, da, it, ja, zh-Hans, id, ru, uk, nl, ko, th). Each has its own markdown twin.
 
 Contact: support@traveldocumentvault.com

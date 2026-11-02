@@ -14,9 +14,9 @@ Tudo o que precisa saber sobre o Travel Document Vault.
 
 ![Descarregue na App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 
-![Obtenha no Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg) Compra única · Sem subscrição Ir para: Privacidade Funcionalidades Cópia de Segurança Preços Resolução de Problemas Aspetos Legais
+![Obtenha no Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg) Compra única · Sem subscrição Ir para: Privacidade Funcionalidades Cópia de segurança Preços Resolução de problemas Aspetos legais
 
-## Confiança e Transparência
+## Confiança e transparência
 
 O programador pode ver os meus documentos?
 
@@ -36,7 +36,7 @@ Sim. A sua compra cobre todas as atualizações dentro da versão principal atua
 
 O que acontece se perder o telemóvel ou mudar para um novo?
 
-Como não armazenamos os seus dados, não podemos restaurá-los. As cópias de segurança do sistema (iCloud Backup ou Google Backup) reinstalam a aplicação mas NÃO restauram os seus documentos — as cópias de segurança do sistema não transferem a chave de encriptação vinculada ao dispositivo. Para transferir documentos para um novo telefone, exporte o seu cofre através da funcionalidade Exportação do Cofre (gratuita para todos). Com Pro, use a mesma conta na nuvem num dispositivo suportado na mesma plataforma. Abra Cópia de Segurança na Nuvem em Definições, escolha a cópia de segurança e restaure-a com o código de recuperação. A restauração substitui o cofre local. O conteúdo dos documentos é encriptado; o fornecedor da nuvem pode ver metadados da cópia de segurança, como contagens, datas e horas e informação do dispositivo.
+Como não armazenamos os seus dados, não podemos restaurá-los. As cópias de segurança do sistema (iCloud Backup ou Google Backup) reinstalam a aplicação mas NÃO restauram os seus documentos — as cópias de segurança do sistema não transferem a chave de encriptação vinculada ao dispositivo. Para transferir documentos para um novo telefone, exporte o seu cofre (a exportação é gratuita para todos). Com Pro, use a mesma conta na nuvem num dispositivo suportado na mesma plataforma. Abra Cópia de Segurança na Nuvem em Definições, escolha a cópia de segurança e restaure-a com o código de recuperação. A restauração substitui o cofre local. O conteúdo dos documentos é encriptado; o fornecedor da nuvem pode ver metadados da cópia de segurança, como contagens, datas e horas e informação do dispositivo.
 
 A aplicação funciona sem ligação à internet?
 
@@ -56,7 +56,7 @@ O Travel Document Vault foi criado por Mustafa Hafeez, um programador de softwar
 
 Quer verificar estas afirmações por si mesmo? Consulte a nossa página de [Verificação de Privacidade](https://traveldocumentvault.com/pt/privacy-verification/) para provas independentes e uma análise completa de cada permissão da aplicação.
 
-## Privacidade e Dados
+## Privacidade e dados
 
 Onde são armazenados os meus dados?
 
@@ -68,13 +68,13 @@ A aplicação não tem base de dados na nuvem. Não vemos os seus dados. Se usar
 
 Posso fazer cópias de segurança dos meus dados gratuitamente?
 
-Sim. A Exportação do Cofre (ficheiro **.tdvault**) é gratuita para todos. Vá a **Definições, Exportar cofre** e a aplicação cria um ficheiro protegido por palavra-passe que pode guardar em Ficheiros, iCloud Drive ou partilhar fora do dispositivo. A aplicação mantém também **cópias de segurança locais automáticas a cada poucos minutos** no seu dispositivo, sem custos. A cópia de segurança na nuvem para o seu próprio iCloud ou Google Drive é a opção Pro. Nenhuma função de cópia de segurança prende os seus dados.
+Sim. A exportação do cofre (ficheiro **.tdvault**) é gratuita para todos. Vá a **Definições, Exportar cofre** e a aplicação cria um ficheiro protegido por palavra-passe que pode guardar em Ficheiros, iCloud Drive ou partilhar fora do dispositivo. A aplicação mantém também **cópias de segurança locais automáticas a cada poucos minutos** no seu dispositivo, sem custos. A cópia de segurança na nuvem para o seu próprio iCloud ou Google Drive é a opção Pro. Nenhuma função de cópia de segurança prende os seus dados.
 
 O que acontece se perder o meu telemóvel?
 
 Como não temos os seus dados, não podemos restaurá-los. As cópias de segurança do sistema (iCloud Backup ou Google Backup) reinstalam a aplicação mas NÃO restauram os seus documentos — as cópias de segurança do sistema não transferem a chave de encriptação vinculada ao dispositivo.
 
-**Para transferir documentos:** Exporte o seu cofre através de **Definições > Exportar Cofre** (gratuito para todos). Com Pro, use a mesma conta na nuvem num dispositivo suportado na mesma plataforma. Abra Cópia de Segurança na Nuvem em Definições, escolha a cópia de segurança e restaure-a com o código de recuperação. A restauração substitui o cofre local. O conteúdo dos documentos é encriptado; o fornecedor da nuvem pode ver metadados da cópia de segurança, como contagens, datas e horas e informação do dispositivo.
+**Para transferir documentos:** Exporte o seu cofre através de **Definições > Exportar cofre** (gratuito para todos). Com Pro, use a mesma conta na nuvem num dispositivo suportado na mesma plataforma. Abra Cópia de Segurança na Nuvem em Definições, escolha a cópia de segurança e restaure-a com o código de recuperação. A restauração substitui o cofre local. O conteúdo dos documentos é encriptado; o fornecedor da nuvem pode ver metadados da cópia de segurança, como contagens, datas e horas e informação do dispositivo.
 
 E se alguém roubar o meu telemóvel? Os meus documentos estão protegidos?
 
@@ -91,9 +91,9 @@ Recolhem dados de análise ou rastreamento?
 
 O que acontece quando apago a aplicação?
 
-Todos os dados neste telemóvel são **eliminados permanentemente** quando desinstalar a aplicação. Não há forma de os recuperar depois, salvo se tiver feito uma exportação do cofre ou ativado a cópia de segurança na nuvem, pois não armazenamos nada externamente. **Antes de apagar:** Exporte os seus documentos ou crie um ficheiro .tdvault de cópia de segurança a partir das Definições para os guardar noutro local.
+Todos os dados neste telemóvel são **eliminados permanentemente** quando desinstalar a aplicação. Não há forma de os recuperar depois, salvo se tiver exportado o cofre ou ativado a cópia de segurança na nuvem, pois não armazenamos nada externamente. **Antes de apagar:** Exporte os seus documentos ou crie um ficheiro .tdvault de cópia de segurança a partir das Definições para os guardar noutro local.
 
-## Segurança Adicional
+## Segurança adicional
 
 As imagens dos meus documentos estão encriptadas?
 
@@ -153,7 +153,7 @@ Sim. Os utilizadores gratuitos podem partilhar documentos individuais. Pro acres
 
 Como é que a aplicação faz cópias de segurança dos meus dados?
 
-A aplicação armazena tudo no seu dispositivo. Se tiver o iCloud (iOS) ou Google Backup (Android) ativado, os seus documentos já estão protegidos através da cópia de segurança do dispositivo. Os utilizadores Pro podem exportar uma **cópia de segurança encriptada protegida por palavra-passe** para guardar em segurança, e todos os utilizadores podem **restaurar a partir de uma cópia de segurança** a qualquer momento em Definições → Importar Cofre. Isso substitui todos os dados atuais pelo conteúdo da cópia de segurança. Intencionalmente não sincronizamos com os nossos servidores para proteger a sua privacidade.
+A aplicação armazena tudo no seu dispositivo. Se tiver o iCloud (iOS) ou Google Backup (Android) ativado, os seus documentos já estão protegidos através da cópia de segurança do dispositivo. Os utilizadores Pro podem exportar uma **cópia de segurança encriptada protegida por palavra-passe** para guardar em segurança, e todos os utilizadores podem **restaurar a partir de uma cópia de segurança** a qualquer momento em Definições → Importar backup. Isso substitui todos os dados atuais pelo conteúdo da cópia de segurança. Intencionalmente não sincronizamos com os nossos servidores para proteger a sua privacidade.
 
 Posso partilhar documentos com membros da família?
 
@@ -174,7 +174,7 @@ Para ativar o Bloqueio da Aplicação, vá a **Definições → Segurança** na 
 
 **Importante: PIN esquecido:** Se não conseguir desbloquear a aplicação com o PIN ou a biometria ativada e não tiver o código de recuperação, poderá ter de **apagar o cofre local e restaurar uma cópia de segurança guardada**. Para se proteger:
 
-- Exporte uma cópia de segurança encriptada **antes** de ativar o Bloqueio da Aplicação (Definições → Exportar Cofre)
+- Exporte uma cópia de segurança encriptada **antes** de ativar o Bloqueio da Aplicação (Definições → Exportar cofre)
 - Guarde o seu PIN num local seguro (ex.: o gestor de palavras-passe do seu dispositivo)
 - Ative o **desbloqueio biométrico** (gratuito para todos os utilizadores) para poder usar Face ID, Touch ID ou impressão digital em vez de digitar o PIN
 - Se tiver cópias de segurança do dispositivo (iCloud/Google) ativadas, restaurar a partir de uma cópia de segurança poderá recuperar os seus dados após reinstalar
@@ -189,7 +189,7 @@ A aplicação cria cópias de segurança automáticas?
 - As cópias de segurança ficam no **armazenamento privado da aplicação** no dispositivo.
 - Uma cópia de segurança local válida pode restaurar registos anteriores do cofre através de **Definições → Restaurar cópia de segurança local**, mas não consegue recriar ficheiros anexos eliminados permanentemente. Use Eliminado Recentemente para eliminações normais.
 
-**Vault Export:** Qualquer utilizador pode também criar cópias de segurança .tdvault encriptadas manualmente e guardá-las em Ficheiros, iCloud Drive, ou partilhá-las por AirDrop/e-mail para armazenamento externo. Recomendado antes de atualizações importantes ou mudanças de dispositivo. O Pro adiciona a cópia de segurança automática na nuvem para o iCloud ou Google Drive.
+**Exportação do cofre:** Qualquer utilizador pode também criar cópias de segurança .tdvault encriptadas manualmente e guardá-las em Ficheiros, iCloud Drive, ou partilhá-las por AirDrop/e-mail para armazenamento externo. Recomendado antes de atualizações importantes ou mudanças de dispositivo. O Pro adiciona a cópia de segurança automática na nuvem para o iCloud ou Google Drive.
 
 O que significa 'Última cópia de segurança: há 2 horas, 12 documentos' nas Definições?
 
@@ -205,7 +205,7 @@ A aplicação mostra um ecrã de recuperação ou indica que os meus dados não 
 
 Por que razão a aplicação criou uma cópia de segurança antes da atualização?
 
-Antes de aplicar qualquer atualização que possa alterar a estrutura dos dados, a aplicação cria automaticamente uma cópia de segurança local de segurança. Se a atualização correr bem, nem dará conta. Se estiver disponível um instantâneo anterior à atualização válido e legível, pode tentar restaurá-lo em **Definições**. Trata-se de uma medida de segurança silenciosa concebida para proteger os seus dados.
+Antes de aplicar qualquer atualização que possa alterar a estrutura dos dados, a aplicação cria automaticamente uma cópia de segurança local de precaução. Se a atualização correr bem, nem dará conta. Se estiver disponível um instantâneo anterior à atualização válido e legível, pode tentar restaurá-lo em **Definições**. Trata-se de uma medida de segurança silenciosa concebida para proteger os seus dados.
 
 Posso personalizar os tempos dos lembretes?
 
@@ -245,7 +245,7 @@ Posso anexar fotos aos meus apontamentos?
 
 Sim. Apontamentos e Comprovantes suportam múltiplos anexos de imagem. Utilizadores gratuitos podem anexar uma imagem por apontamento. **Os utilizadores Pro podem anexar até 10.** Anexe uma foto de um e-mail de confirmação, um código QR, uma referência de reserva ou qualquer outra coisa que adicione contexto. Cada imagem é encriptada no dispositivo, exactamente como o resto do seu cofre.
 
-## Plataforma e Compatibilidade
+## Plataforma e compatibilidade
 
 Quando estará disponível a versão Android?
 
@@ -255,23 +255,23 @@ A versão Android terá paridade de funcionalidades com iOS, incluindo armazenam
 
 Posso transferir os meus dados do iPhone para Android (ou vice-versa)?
 
-**Sim, usando o Vault Export encriptado.** Exporte uma cópia de segurança encriptada do dispositivo atual (Definições → Exportar cofre), transfira-a para o novo dispositivo (por e-mail, armazenamento na nuvem ou transferência direta) e depois use Definições → Importar backup para restaurar os documentos, substituindo o que já estiver no novo dispositivo.
+**Sim, com uma exportação encriptada do cofre.** Exporte uma cópia de segurança encriptada do dispositivo atual (Definições → Exportar cofre), transfira-a para o novo dispositivo (por e-mail, armazenamento na nuvem ou transferência direta) e depois use Definições → Importar backup para restaurar os documentos, substituindo o que já estiver no novo dispositivo.
 
 Funciona entre plataformas porque o formato de encriptação é universal. Precisará da mesma palavra-passe que usou ao exportar o cofre. As compras Pro são restauradas na mesma plataforma e conta da loja; mudar entre iOS e Android exige uma compra Pro separada.
 
-How much storage space does the app use?
+Quanto espaço de armazenamento ocupa a aplicação?
 
 **O espaço utilizado depende do número de documentos e do tamanho dos ficheiros, além dos metadados do cofre, cópias de segurança e ficheiros temporários.**
 
 A aplicação inclui algumas cópias de segurança automáticas dos dados do cofre. Os utilizadores gratuitos podem adicionar até cinco documentos. Com Pro, não há limite de quantidade de documentos, sujeito ao espaço disponível no dispositivo.
 
-Why does the app need camera and photo library access?
+Porque é que a aplicação precisa de acesso à câmara e à galeria de fotografias?
 
-**Camera:** To capture photos of your documents directly in the app. **Photo Library:** To import existing document photos you've already taken.
+**Câmara:** para fotografar os seus documentos diretamente na aplicação. **Galeria de fotografias:** para importar fotografias de documentos que já tenha tirado.
 
-We **never upload** your photos anywhere. All processing (including OCR scanning) happens on your device. Pode ainda adicionar dados de documentos manualmente ou importar um PDF se recusar as permissões de câmara e fotografias. If you accidentally denied permissions, you can re-enable them in your device Settings → Privacy → Camera / Photos → Travel Document Vault.
+**Nunca enviamos** as suas fotografias para os nossos servidores. Não temos servidores que guardem os seus documentos. Todo o processamento (incluindo a digitalização OCR) é feito no seu dispositivo. Se ativar a cópia de segurança na nuvem opcional do Pro, o cofre encriptado vai para o seu próprio iCloud ou Google Drive, protegido por um código de recuperação que só está na sua posse. Se recusar as permissões de câmara e fotografias, pode na mesma introduzir os dados dos documentos manualmente ou importar um PDF. Se recusou as permissões por engano, pode voltar a ativá-las nas Definições do dispositivo → Privacidade → Câmara / Fotografias → Travel Document Vault.
 
-## Preços e Compras
+## Preços e compras
 
 Qual é a diferença entre o plano Gratuito e o Pro?
 
@@ -307,7 +307,7 @@ Como obtenho um reembolso?
 
 Todas as compras são processadas através da respetiva App Store. Para reembolsos, terá de solicitar um através da Apple ou Google. Por favor, verifique o e-mail do recibo de compra para obter instruções sobre como solicitar um reembolso na loja onde descarregou a aplicação.
 
-## Resolução de Problemas
+## Resolução de problemas
 
 Não estou a receber notificações de lembrete
 
@@ -361,16 +361,6 @@ O que acontece quando apago algo?
 
 Os itens eliminados vão para o lixo durante 30 dias. Pode restaurá-los a qualquer momento durante esse período. Após 30 dias, desaparecem permanentemente do seu dispositivo e cópias de segurança na nuvem. Limpar o lixo ou repor a configuração de fábrica do telemóvel remove os dados locais; a recuperação exige uma cópia de segurança independente utilizável.
 
-## Avisos Legais
-
-Esta aplicação substitui os documentos oficiais?
-
-**Não.** O Travel Document Vault é apenas uma ferramenta de organização pessoal. Não substitui documentos oficiais, não verifica a autenticidade nem garante a conformidade com quaisquer requisitos de imigração. Transporte sempre os seus documentos originais quando viajar e verifique os requisitos junto de fontes governamentais oficiais.
-
-E se perder um prazo devido a uma falha de lembrete?
-
-Os lembretes são uma funcionalidade de conveniência e não devem ser o seu único sistema de alertas. Não somos responsáveis por prazos perdidos, documentos expirados ou quaisquer consequências resultantes de falhas nos lembretes. Consulte os nossos [Termos de Serviço](https://traveldocumentvault.com/terms/) para mais detalhes.
-
 ## Cópia de segurança na nuvem
 
 O que acontece se eliminar um documento com a cópia na nuvem ativada?
@@ -405,6 +395,16 @@ O que acontece se perder o meu código de recuperação?
 
 O código de recuperação desbloqueia a chave de encriptação da cópia de segurança na nuvem; os dispositivos configurados conservam-na para cópias de segurança automáticas. O nosso desenho é de conhecimento zero, o que significa que não o podemos repor, obter nem recuperar por si. A Apple e a Google também não. Se perder o código de recuperação e o acesso a todos os dispositivos configurados que conservam a chave, a cópia de segurança encriptada na nuvem torna-se irrecuperável. Guarde o código em lugar seguro antes de depender da cópia na nuvem: um gestor de palavras-passe, uma cópia impressa num local seguro, ou ambos. Confirme que consegue lê-lo antes de o guardar como cópia única.
 
+## Avisos legais
+
+Esta aplicação substitui os documentos oficiais?
+
+**Não.** O Travel Document Vault é apenas uma ferramenta de organização pessoal. Não substitui documentos oficiais, não verifica a autenticidade nem garante a conformidade com quaisquer requisitos de imigração. Transporte sempre os seus documentos originais quando viajar e verifique os requisitos junto de fontes governamentais oficiais.
+
+E se perder um prazo devido a uma falha de lembrete?
+
+Os lembretes são uma funcionalidade de conveniência e não devem ser o seu único sistema de alertas. Não somos responsáveis por prazos perdidos, documentos expirados ou quaisquer consequências resultantes de falhas nos lembretes. Consulte os nossos [Termos de Serviço](https://traveldocumentvault.com/terms/) para mais detalhes.
+
 [Para uma comparação completa, veja por que as famílias escolhem o Travel Document Vault →](https://traveldocumentvault.com/pt/why-us/)
 
 ## Ainda tem dúvidas?
@@ -412,3 +412,11 @@ O código de recuperação desbloqueia a chave de encriptação da cópia de seg
 Estamos aqui para ajudar. Contacte-nos e responderemos o mais brevemente possível.
 
 [Contactar Suporte](mailto:support@traveldocumentvault.com)
+
+## Descarregue Gratuitamente. Sem Subscrição.
+
+Configure esta noite. Deixe a aplicação lembrar-se por si.
+
+![Descarregue na App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Obtenha no Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

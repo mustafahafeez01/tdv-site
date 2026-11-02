@@ -64,7 +64,7 @@ Flera säkerhetslager står mellan en oavsiktlig tryckning och förlorad data.
 
 **Återställ och synkronisera om.** Om dina lokala data och molnsäkerhetskopian hamnar ur synk använder du Återställ och synkronisera om för att ladda upp en ny kopia av valvet.
 
-### ⚠ Din återställningskod är kritisk
+### Din återställningskod är kritisk
 
 Din återställningskod låser upp de krypteringsnycklar för molnet som behövs för att återställa säkerhetskopian. Vi kan inte återställa koden åt dig. Om du förlorar alla kopior och tillgången till alla enheter som fortfarande kan låsa upp valvet kan vi inte återställa den krypterade säkerhetskopian.
 
@@ -88,27 +88,27 @@ Du är ansvarig för att upprätthålla dina egna dokumentsäkerhetskopior och f
 
 ## Kryptering och återställning
 
-#### AES-256-GCM
+### AES-256-GCM
 
 Autentiserad kryptering av dokumentinnehåll.
 
-#### PBKDF2 600k iterationer
+### PBKDF2 600k iterationer
 
 Nyckelhärledning som kräver mycket beräkningsarbete. Det ökar kostnaden för att gissa återställningskoden.
 
-#### HKDF-nyckelexpansion
+### HKDF-nyckelexpansion
 
 Separata nycklar för varje säkerhetskopieringsfil, och en återställning krypterar om dina dokument med den nya enhetens egen nyckel. En komprometterad behörig enhet eller återställningskod kan exponera det delade molnvalvet.
 
-#### Noll-kunskap-design
+### Noll-kunskap-design
 
 Din krypterade säkerhetskopia stannar i ditt eget molnkonto. Vi tar inte emot den och har inte de nycklar som behövs för att läsa dokumentinnehållet.
 
-#### Vad Apple ser
+### Vad Apple ser
 
 Dokumentinnehållet är krypterat i ditt iCloud eller Google Drive. Säkerhetskopians metadata, som enhetsnamn, antal och tidsstämplar, är inte krypterade.
 
-#### Förlorad återställningskod
+### Förlorad återställningskod
 
 Om du förlorar alla kopior av din återställningskod och tillgången till alla enheter som fortfarande kan låsa upp valvet kan vi inte dekryptera dina säkerhetskopior. Vi har inte dina krypteringsnycklar för molnet.
 

@@ -72,7 +72,7 @@ Schemalagd lokalt på din enhet. Jag känner inte till dina utgångsdatum.
 
 Ingen Travel Document Vault-server lagrar dina dokument. Det finns ingenting att hitta.
 
-[Läs grundarens berättelse: Varför jag byggde en app för att bära en mindre sak i mitt huvud →](https://traveldocumentvault.com/sv/blog/)
+[Läs grundarens berättelse: Varför jag byggde en app för att bära en mindre sak i mitt huvud →](https://traveldocumentvault.com/sv/blog/why-i-built-travel-document-vault/)
 
 ## Redo när du behöver dem
 
@@ -80,33 +80,27 @@ Ingen Travel Document Vault-server lagrar dina dokument. Det finns ingenting att
 - **Fylla formulär:** Passnummer, ID-detaljer, försäkringsinformation. Alltid till hands.
 - **Visumansökningar:** Exportera dokumentbilder som PDF för utskrift eller delning. Granska och justera bilder innan export.
 
+Med Pro
+
 ## Planera resor, spåra kvoter, synkronisera till ditt eget moln
 
 Byggd för familjer som reser överallt.
 
 ### Alla Klara, En Blick Bort
 
-Pro
-
 Beredskapstrafikljus för familjen. Se vilka länkade dokument som behöver ses över mot dina sparade resdatum.
 
 ### Din molnlagring. Din nyckel.
-
-Pro
 
 Krypterad säkerhetskopia i ditt iCloud eller Google Drive. Du håller återställningskoden. Vi ser den aldrig.
 
 ### Spåra Dagar Utomlands
 
-Pro
-
 Logga dagar som tillbringats i vilket land som helst per familjemedlem. Jämför dina sparade resdagar med de dagsgränser du anger för landet.
 
-### Resekvoter utan matematik
+### Obegränsat antal familjeprofiler
 
-Pro
-
-Spåra tullfria kvoter per familjemedlem per resa. Behöver aldrig gissa kring bagage- eller valutagränser igen.
+Lägg till en profil för varje familjemedlem. Gratisversionen har 1 profil. Med Pro får du obegränsat antal familjeprofiler.
 
 ## För resa. För livet. För allt som är viktigt.
 
@@ -193,9 +187,11 @@ Bäst värde
 
 ### Pro
 
-Engångsköp
+$9.99 engångsköp
 
 För hela din familj. Betala en gång. Alla v1.x-uppdateringar ingår för alltid.
+
+USD. Priset för ditt land fastställs lokalt istället för att räknas om från dollar, och App Store eller Google Play visar det innan du betalar.
 
 [Om vår versionspolicy →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -211,7 +207,7 @@ För hela din familj. Betala en gång. Alla v1.x-uppdateringar ingår för allti
 
 Allt du behöver för ensamresor
 
-Gratis
+$0
 
 - Pass, visum, ID och mer
 - Skanna dokument och bekräfta avlästa utgångsdatum
@@ -230,7 +226,11 @@ För familjer
 
 Lås upp hela valvet för din familj
 
-Engångsköp engångs För hela din familj. Betala en gång. Alla v1.x-uppdateringar ingår för alltid.
+$9.99 engångsköp
+
+USD. Priset för ditt land fastställs lokalt istället för att räknas om från dollar, och App Store eller Google Play visar det innan du betalar.
+
+För hela din familj. Betala en gång. Alla v1.x-uppdateringar ingår för alltid.
 
 [Om vår versionspolicy →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 

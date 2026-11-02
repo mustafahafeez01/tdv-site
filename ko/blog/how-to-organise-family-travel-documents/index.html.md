@@ -99,8 +99,6 @@ Source: https://traveldocumentvault.com/ko/blog/how-to-organise-family-travel-do
 
 이 세 가지 접근법 중 어느 것이든 작동하지만, 저희라면 알림을 자동으로 보내주는 방식을 기본으로 삼겠습니다. 스프레드시트는 직접 열어봐야만 도움이 되기 때문입니다. 가장 중요한 것은 이미 사용하는 방식에 맞는 것을 선택하고 실제로 고수하는 것입니다.
 
-**Travel Document Vault**는 저장된 만료일을 추적하며 여권 알림은 만료 8개월 전부터 시작됩니다. 각 여권을 스캔한 뒤 만료일을 확인하거나 입력하십시오. Pro로 온 가족을 추가하여 갱신 날짜를 한곳에서 관리할 수 있습니다. [App Store에서 다운로드하세요.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 ## 가족 출발 전 서류 체크리스트
 
 출발 전날이 아니라 예약할 때 이 체크리스트를 진행하세요. 이것이 무언가를 수정하기에 충분한 시간을 제공합니다.

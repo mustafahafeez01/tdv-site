@@ -40,7 +40,7 @@ Documents are encrypted on your device with AES-256-GCM, using keys held in your
 
 ### Your Cloud. Your Key.
 
-Vault Export and Import are free. Pro adds encrypted cloud backup to your own iCloud or Google Drive. Restore with your recovery code on a compatible phone on the same platform, using the same cloud account. We do not hold your code.
+Vault export and import are free. Pro adds encrypted cloud backup to your own iCloud or Google Drive. Restore with your recovery code on a compatible phone on the same platform, using the same cloud account. We do not hold your code.
 
 ### Smart Reminders
 
@@ -72,31 +72,23 @@ Scheduled locally on your device. I don't know your expiry dates.
 
 No Travel Document Vault server stores your documents. There's nothing to find.
 
-[Read the founder's story: Why I built an app to carry one less thing in my head →](https://traveldocumentvault.com/blog/)
+[Read the founder's story: Why I built an app to carry one less thing in my head →](https://traveldocumentvault.com/blog/why-i-built-travel-document-vault/) With Pro
 
 ## Plan trips, track allowances, sync to your own cloud
 
 Built for families who travel everywhere.
 
-Pro
-
 ### Everyone Ready, At a Glance
 
 Family readiness traffic light. See which linked documents need attention against your saved trip dates.
-
-Pro
 
 ### Your Cloud. Your Key.
 
 Encrypted backup to your iCloud or Google Drive. You hold the recovery code. We never see it.
 
-Pro
-
 ### Track Days Out of Country
 
 Log days spent in any country per family member. Compare your saved trip days with the country day limits you enter.
-
-Pro
 
 ### Unlimited Family Profiles
 
@@ -202,7 +194,7 @@ USD. Your country’s price is set locally rather than converted from dollars, a
 [About our version policy →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
 - Trip planner with family readiness traffic light
-- Your Own Cloud backup (iCloud or Google Drive, end-to-end encrypted)
+- Cloud Backup (iCloud or Google Drive, end-to-end encrypted)
 - Days-abroad tracker for tax days and visa limits
 - Country day-limit allowances per family member
 - Every family member, one vault
@@ -217,7 +209,7 @@ USD. Your country’s price is set locally rather than converted from dollars, a
 
 Everything you need for solo travel
 
-Free
+$0
 
 - Passports, visas, IDs & more
 - Scan documents and confirm detected expiry dates
@@ -247,7 +239,7 @@ For your whole family. Pay once. All v1.x updates included, forever.
 Everything in Free, plus:
 
 - Trip planner with family readiness traffic light
-- Your Own Cloud backup (iCloud or Google Drive, end-to-end encrypted)
+- Cloud Backup (iCloud or Google Drive, end-to-end encrypted)
 - Days-abroad tracker for tax days and visa limits
 - Country day-limit allowances per family member
 - Every family member, one vault
@@ -264,7 +256,7 @@ Restore purchases anytime with the App Store or Google Play account you bought w
 
 ## Common Questions
 
-Is it really private? Yes. By default, everything is stored on your device only. We have no servers that store your documents and no access to them. If you turn on optional backup (Pro), your encrypted vault is stored in your own iCloud or Google Drive, sealed with a recovery code only you hold. We still cannot read it. Neither can Apple or Google. Don't take our word for it - [verify it yourself](https://traveldocumentvault.com/privacy-verification/). What if I lose my phone? Your vault is encrypted on your device. The local key stays in secure storage and is excluded from ordinary phone backups. Vault Export includes a password-encrypted copy of that key. A regular phone backup reinstalls the app but cannot restore your documents. Pro cloud backup restores with your recovery code on a supported phone on the same platform, using the same cloud account. Or use free Vault Export and Import. Restoring or importing replaces the local vault. Can I sync between devices? Yes. With Pro, turn on Your Own Cloud backup to sync your encrypted vault to your iCloud or Google Drive. You hold the recovery code. We never access your data. What is the trip planner? The trip planner (Pro) groups family documents by trip and shows a readiness traffic light - green when configured document checks pass, amber when a linked document needs review. Plan trips together with confidence. [See all privacy and data answers](https://traveldocumentvault.com/faq/)
+Is it really private? Yes. By default, everything is stored on your device only. We have no servers that store your documents and no access to them. If you turn on optional backup (Pro), your encrypted vault is stored in your own iCloud or Google Drive, sealed with a recovery code only you hold. We still cannot read it. Neither can Apple or Google. Don't take our word for it - [verify it yourself](https://traveldocumentvault.com/privacy-verification/). What if I lose my phone? Your vault is encrypted on your device. The local key stays in secure storage and is excluded from ordinary phone backups. A vault export includes a password-encrypted copy of that key. A regular phone backup reinstalls the app but cannot restore your documents. Pro cloud backup restores with your recovery code on a supported phone on the same platform, using the same cloud account. Or use the free vault export and import. Restoring or importing replaces the local vault. Can I sync between devices? Yes. With Pro, turn on Cloud Backup to sync your encrypted vault to your iCloud or Google Drive. You hold the recovery code. We never access your data. What is the trip planner? The trip planner (Pro) groups family documents by trip and shows a readiness traffic light - green when configured document checks pass, amber when a linked document needs review. Plan trips together with confidence. [See all privacy and data answers](https://traveldocumentvault.com/faq/)
 
 **Important:** Travel Document Vault is a personal organization tool for storing digital copies of your documents. **Digital copies stored in this app are NOT valid for travel.** It does not verify document authenticity or provide legal or travel advice. Always carry original documents and verify all travel requirements with official government sources.
 

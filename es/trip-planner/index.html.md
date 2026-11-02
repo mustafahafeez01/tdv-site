@@ -42,19 +42,19 @@ Configura una ventana fija o móvil para cada país, con tu propio límite de d�
 
 ## Más Características
 
-#### Bandera de País y Ciudad
+### Bandera de País y Ciudad
 
 La tarjeta de viaje muestra la bandera del destino y ciudad. Planifica de un vistazo. Sabe dónde vas.
 
-#### Cuenta Atrás de Días
+### Cuenta Atrás de Días
 
 ¿Cuántos días hasta tu viaje? La cuenta atrás aparece en tarjetas de viaje. Entusiasma a todos.
 
-#### Sin Conexión Siempre
+### Sin Conexión Siempre
 
 Funciona 100% sin conexión. Planifica en el aeropuerto. Sin conexión necesaria. Funciona en modo avión.
 
-#### Sincronización en la Nube Opcional
+### Sincronización en la Nube Opcional
 
 Pro: sincroniza con tu iCloud o Google Drive. Acceso entre dispositivos. Tú tienes la clave.
 

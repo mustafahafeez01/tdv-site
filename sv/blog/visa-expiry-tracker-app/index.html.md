@@ -68,8 +68,6 @@ Med all denna komplexitet i åtanke behöver en bra app för visumbevakning hant
 - **Integritetsmodell:** Visumuppgifter är känslig, identitetskopplad data. Precis som med passförvaring är kryptering på enheten utan molnuppladdning den säkraste arkitekturen.
 - **Bevakning av pass och visum tillsammans:** Ett vanligt men lätt förbisett misstag är att ha ett giltigt visum men ett pass som går ut under den planerade vistelsen. Att bevaka båda på samma ställe förhindrar den här krocken.
 
-**Travel Document Vault** håller koll på utgångsdatum för pass och visum med separata påminnelser för varje dokument. Lägg till flera resenärer med Pro. Dina dokument stannar krypterade på telefonen som standard, utan appkonto. Du kan dela eller exportera kopior, eller säkerhetskopiera dem till ditt eget iCloud eller Google Drive med Pro. [Appen är gratis att ladda ner på App Store och Google Play. Pro är ett engångsköp utan prenumeration.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 ## Praktiska steg för att bevaka ditt visum ordentligt
 
 1. **Notera ditt inresedatum samma dag du anländer.** Klockan för din maximala vistelsetid börjar räkna direkt vid inresan, inte när visumet utfärdades eller när giltighetsperioden för inresa började.
@@ -108,9 +106,9 @@ Det beror på visumtypen. För långtidsvisum som kräver förnyelse skulle vi s
 
 [Passregler8 min läsning · 1 feb 20266-månadersregeln för pass: vilka länder tillämpar den och hur du aldrig blir tagen på sängen](https://traveldocumentvault.com/sv/blog/passport-expiry-6-month-rule/)
 
-[Förnyelse8 min läsning · 22 feb 2026How Long Does Passport Renewal Take? Current Times for US, UK, Australia, Canada & More](https://traveldocumentvault.com/sv/blog/how-long-does-passport-renewal-take/)
+[Förnyelse8 min läsning · 22 feb 2026Hur lång tid tar en passförnyelse? (USA, Storbritannien, Australien, Kanada)](https://traveldocumentvault.com/sv/blog/how-long-does-passport-renewal-take/)
 
-[Visum och inresa8 min läsning · 8 maj 2026ETIAS: What Documents You Need and How to Apply](https://traveldocumentvault.com/sv/blog/etias-documents-2026/)
+[Visum och inresa8 min läsning · 8 maj 2026ETIAS: vilka handlingar du behöver och hur du ansöker](https://traveldocumentvault.com/sv/blog/etias-documents-2026/)
 
 [Reseverktyg7 min läsning · 4 jul 2026TripCase-alternativ: varför dina resehandlingar behöver fungera offline](https://traveldocumentvault.com/sv/blog/tripcase-alternative/)
 

@@ -66,8 +66,6 @@ Immigration, Refugees and Citizenship Canada (IRCC) bietet berechtigten Erwachse
 
 Das macht den Prozess logistisch anspruchsvoller – besonders wenn Sie irgendwo ländlich leben und die nächste Behörde weit entfernt ist. Überprüfen Sie die IRCC-Seite auf die aktuellen Bearbeitungszeiten, bevor Sie einen Antrag stellen, und rechnen Sie bei postalischen Anträgen die Versandzeit in beide Richtungen mit ein.
 
-**Legen Sie jetzt eine Erinnerung fest** – Travel Document Vault benachrichtigt Sie 6, 3 und 1 Monat vor Ablauf Ihres Reisepasss, damit Sie mit viel Zeit zur Verfügung erneuern können, nicht in letzter Minute. [Laden Sie es im App Store herunter.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 ## Eine kurze, vorhersehbare Liste verursacht die meisten Verzögerungen
 
 Unabhängig davon, welches Land Sie erneuer durchlaufen, die gleichen Fehler verursachen konsistent Verzögerungen. Achten Sie auf diese häufigen Probleme:

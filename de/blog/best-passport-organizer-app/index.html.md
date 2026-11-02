@@ -84,8 +84,6 @@ Eine App mit einmaligem Kauf bleibt dagegen auf unbestimmte Zeit vollständig fu
 
 ## Wie Travel Document Vault sich diesem Ansatz nähert
 
-**Travel Document Vault** speichert Ihre Dokumente mit AES-256-Verschlüsselung auf Ihrem Gerät, ohne App-Konto. Ihre gespeicherten Dokumente sowie Erinnerungen an Pass- und Visa-Ablaufdaten sind offline verfügbar. Sie können Kopien teilen oder exportieren oder mit Pro verschlüsselte Cloud-Backups in Ihrem eigenen iCloud oder Google Drive erstellen. Mit Pro können Sie auch die ganze Familie hinzufügen. Die App lässt sich kostenlos herunterladen; Pro ist ein [einmaliger In-App-Kauf ohne Abonnement](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8).
-
 ## Eine praktische Checkliste vor dem Herunterladen
 
 Bei der Bewertung einer Reisepass-Organizer-App stellen Sie sich selbst diese neun Fragen:

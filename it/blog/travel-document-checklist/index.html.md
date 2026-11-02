@@ -95,21 +95,19 @@ Tenere questi nel bagaglio a mano in ogni momento — non metterli nel bagaglio 
 
 Prima di partire da casa, scatti una foto di ogni documento e la conservi in un'app crittografata — non nel suo rullino fotografico. Se la sua borsa si perde o viene rubata, avrà voglia il numero del passaporto, il numero della polizza assicurativa e i riferimenti di prenotazione in un luogo dove può ancora accedervi presso un'ambasciata o una stazione di polizia. Una copia di backup digitale sicura fa risparmiare ore quando sta cercando di ottenere aiuto.
 
-**Travel Document Vault** conserva copie crittografate dei tuoi documenti di viaggio. Scansiona ciascun documento e conferma o inserisci la data di scadenza per ricevere promemoria automatici. Pro ti permette di conservare più di cinque documenti e organizzarli per familiare. [Scarica su App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 ## Come Cambia l'Elenco dei Documenti a Seconda del Tipo di Viaggio
 
 Diversi viaggi hanno bisogno di diversi set di documenti, come mostra la tabella qui sotto per viaggi da soli, in famiglia e di lavoro.
 
 | Documento | Solo | Famiglia | Affari | Note |
 |---|---|---|---|---|
-| Passaporto | ✅ | ✅ ogni membro | ✅ | Controllare la validità rispetto alla destinazione, non solo la data di scadenza |
-| Visto (se richiesto) | ✅ | ✅ ogni membro | ✅ aziendale | Affari: confermare che il visto è nel passaporto corretto |
-| Assicurazione di viaggio | ✅ | ✅ tutti coperti | ✅ controllare che il datore di lavoro la copra | Confermare la copertura prima di ogni viaggio, non solo all'acquisto |
-| Conferme di prenotazione | ✅ | ✅ | ✅ | Copia offline (non fare affidamento sull'accesso alla posta elettronica alle frontiere) |
-| Lettera di consenso del minore | N/D | ✅ se applicabile | N/D | Richiesto in molti paesi se un genitore è assente |
-| Certificati di nascita | N/D | ✅ se richiesto | N/D | Alcuni paesi lo richiedono per i minori sotto i 18 anni |
-| Lettera di autorizzazione al lavoro | N/D | N/D | ✅ se richiesto | Alcune destinazioni richiedono lettere del datore di lavoro per i viaggiatori d'affari |
+| Passaporto | | ogni membro | | Controllare la validità rispetto alla destinazione, non solo la data di scadenza |
+| Visto (se richiesto) | | ogni membro | aziendale | Affari: confermare che il visto è nel passaporto corretto |
+| Assicurazione di viaggio | | tutti coperti | controllare che il datore di lavoro la copra | Confermare la copertura prima di ogni viaggio, non solo all'acquisto |
+| Conferme di prenotazione | | | | Copia offline (non fare affidamento sull'accesso alla posta elettronica alle frontiere) |
+| Lettera di consenso del minore | N/D | se applicabile | N/D | Richiesto in molti paesi se un genitore è assente |
+| Certificati di nascita | N/D | se richiesto | N/D | Alcuni paesi lo richiedono per i minori sotto i 18 anni |
+| Lettera di autorizzazione al lavoro | N/D | N/D | se richiesto | Alcune destinazioni richiedono lettere del datore di lavoro per i viaggiatori d'affari |
 
 Se un viaggio è già prenotato, l'unica cosa che vale la pena fare oggi è prendere ogni passaporto coinvolto e controllarne la scadenza rispetto al requisito della destinazione, non solo rispetto alle date del viaggio.
 

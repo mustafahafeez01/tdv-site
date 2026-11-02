@@ -99,8 +99,6 @@ Aquí está el patrón de fallo que atrapa a las familias: renuevas tu propio pa
 
 Cualquiera de estos tres enfoques funcionará, pero nosotros elegiríamos por defecto el que envía el recordatorio automáticamente, porque una hoja de cálculo solo sirve si te acuerdas de abrirla. Lo más importante es elegir uno que se ajuste a cómo ya operas y realmente adherirse a él.
 
-**Travel Document Vault** controla las fechas de vencimiento guardadas, con recordatorios de pasaporte desde ocho meses antes del vencimiento. Escanea cada pasaporte y confirma o introduce su fecha de vencimiento. Añade a toda la familia con Pro para reunir las fechas de renovación. [Descargar en App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 ## Lista de verificación de documentos previo al viaje para familias
 
 Ejecuta esta lista cuando reserves —no la noche anterior a que te vayas. Eso es lo que te da suficiente tiempo para solucionar cualquier cosa que lo necesite.

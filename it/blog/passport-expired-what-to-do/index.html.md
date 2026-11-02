@@ -34,8 +34,6 @@ L'urgenza con cui deve agire determina cosa fare:
 
 Tutte le autorità maggiori tengono i posti per appuntamenti di emergenza che non sono visibili online. Se il Suo arco temporale è stretto, **noi chiameremmo sempre, invece di fidarci del solo sito web.**
 
-**Imposti l'avviso adesso** così questo non accade più — Travel Document Vault la avvisa a partire da otto mesi prima della scadenza di ogni passaporto in Suo possesso, e di nuovo mentre la data si avvicina. [Scarica dall'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 ## Scenario B: Ha scoperto all'aeroporto
 
 Questo scenario accade più spesso di quanto la gente si aspetti, e i passaggi non sono ovvi quando è sotto pressione.
@@ -141,6 +139,10 @@ Sì. Un passaporto che non è scaduto può comunque essere rifiutato se è danne
 ### Qual è la regola dei sei mesi del passaporto?
 
 Molti Paesi richiedono che il Suo passaporto rimanga valido per almeno sei mesi oltre la data di arrivo prevista. Se scade prima, anche se tecnicamente è ancora valido, potrebbero negarLe l'imbarco o l'ingresso. Non tutti i Paesi applicano questa regola e la soglia varia. Verifichi i requisiti della Sua destinazione specifica prima di viaggiare.
+
+### Si può rinnovare un passaporto scaduto?
+
+Di solito sì. Nel Regno Unito, GOV.UK indica che deve rinnovarlo prima di viaggiare se il passaporto è scaduto, e può farlo online o con un modulo cartaceo, allegando il vecchio passaporto come documento di supporto. Negli Stati Uniti e in Canada dipende anche da quando il passaporto è stato rilasciato e dall'età che aveva in quel momento.
 
 ## Articoli correlati
 

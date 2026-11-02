@@ -83,8 +83,6 @@ Passkopior innehåller känslig identitetsinformation, inklusive fullständigt n
 
 Om du bara ändrar en vana: byt ut den e-postade PDF:en eller kamerarullens foto mot en krypterad app, eftersom just den vardagliga kopian är den som oftast hamnar i orätta händer om telefonen eller inkorgen skulle komprometteras.
 
-**Travel Document Vault** lagrar krypterade kopior av alla dina resehandlingar på enheten. AES-256-krypterat på din telefon, inget konto krävs. Valfri krypterad säkerhetskopiering till ditt eget iCloud eller Google Drive (Pro-funktion), skyddad med en återställningskod som bara du har. [Finns på App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 Undrar du om molnlagring är säkert för passkopior, se vår guide om [att spara pass i Google Foto](https://traveldocumentvault.com/sv/blog/is-it-safe-to-store-passport-in-google-photos/). Den förklarar varför en dedikerad krypterad app ger starkare skydd. För en jämförelse sida vid sida av iCloud, Google Foto och krypterade appar, läs [det säkraste sättet att spara ett pass digitalt](https://traveldocumentvault.com/sv/blog/safest-way-to-store-passport-digitally/).
 
 Har du inte gjort någon kopia ännu, skanna passets fotosida redan i dag, innan du står vid en incheckningsdisk eller en ambassaddisk och behöver den.

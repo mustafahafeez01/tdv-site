@@ -99,8 +99,6 @@ Hier ist das Fehlermuster, das Familien überrascht: Sie erneuern Ihren eigenen 
 
 Jeder dieser drei Ansätze funktioniert, aber wir würden uns standardmäßig für den entscheiden, der die Erinnerung automatisch schickt, denn eine Tabellenkalkulation hilft nur, wenn Sie daran denken, sie zu öffnen. Am wichtigsten ist, einen auszuwählen, der zu Ihrer bereits bestehenden Arbeitsweise passt, und ihn tatsächlich durchzuhalten.
 
-**Travel Document Vault** verfolgt gespeicherte Ablaufdaten, mit Pass-Erinnerungen ab acht Monaten vor Ablauf. Scannen Sie jeden Reisepass und bestätigen Sie sein Ablaufdatum oder geben Sie es ein. Fügen Sie die ganze Familie mit Pro hinzu, um die Erneuerungstermine zusammenzuhalten. [Im App Store herunterladen.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 ## Checkliste vor der Reise für Familien
 
 Führen Sie diese Checkliste durch, wenn Sie buchen – nicht die Nacht, bevor Sie fahren. Das gibt Ihnen genug Zeit, um alles zu reparieren, was behoben werden muss.

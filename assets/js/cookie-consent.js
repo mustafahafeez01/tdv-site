@@ -101,17 +101,17 @@
                 right: 20px;
                 max-width: 600px;
                 margin: 0 auto;
-                background: rgba(17, 25, 40, 0.85); /* Glass dark */
-                backdrop-filter: blur(16px);
-                -webkit-backdrop-filter: blur(16px);
-                border: 1px solid rgba(255, 255, 255, 0.1);
-                border-radius: 16px;
+                background: rgba(255, 255, 255, 0.92); /* light panel (--f-paper .92) */
+                backdrop-filter: saturate(180%) blur(20px);
+                -webkit-backdrop-filter: saturate(180%) blur(20px);
+                border: 1px solid rgba(0, 58, 135, 0.09); /* --f-line */
+                border-radius: 22px;
                 padding: 20px;
                 display: flex;
                 flex-direction: column;
                 gap: 16px;
                 z-index: 9999;
-                box-shadow: 0 20px 50px rgba(0,0,0,0.5);
+                box-shadow: 0 2px 6px rgba(10,25,47,.05), 0 18px 44px rgba(10,25,47,.10); /* --f-shadow-2 */
                 transform: translateY(150%);
                 transition: transform 0.5s cubic-bezier(0.19, 1, 0.22, 1);
                 font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
@@ -122,14 +122,14 @@
             }
 
             .cb-content {
-                color: #e2e8f0; /* slate-200 */
+                color: #33425A; /* --f-ink-2 */
                 font-size: 0.9rem;
                 line-height: 1.5;
             }
 
             .cb-title {
                 font-weight: 600;
-                color: white;
+                color: #0A192F; /* --f-ink */
                 margin-bottom: 4px;
                 font-size: 1rem;
             }
@@ -142,7 +142,8 @@
 
             .cb-btn {
                 padding: 8px 20px;
-                border-radius: 99px;
+                min-height: 44px;
+                border-radius: 980px;
                 font-size: 0.875rem;
                 font-weight: 600;
                 cursor: pointer;
@@ -162,13 +163,13 @@
 
             .cb-btn-decline {
                 background-color: transparent;
-                color: #94a3b8; /* slate-400 */
-                border: 1px solid rgba(255,255,255,0.1);
+                color: #33425A; /* --f-ink-2 */
+                border: 1px solid rgba(0,58,135,0.16); /* --f-line-2 */
             }
 
             .cb-btn-decline:hover {
-                background-color: rgba(255,255,255,0.05);
-                color: white;
+                background-color: #EEF3FB; /* --f-cloud */
+                color: #0A192F;
             }
 
             @media (min-width: 640px) {

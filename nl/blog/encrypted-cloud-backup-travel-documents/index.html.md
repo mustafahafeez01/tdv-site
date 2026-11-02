@@ -84,11 +84,11 @@ Installeer de app op de nieuwe telefoon en log in met hetzelfde iCloud- of Googl
 
 De app controleert ook voordat er iets wordt weggeschreven. Detecteert Cloudback-up een bestaande back-up in dat account, dan vraagt de app je te kiezen tussen terugzetten of opnieuw beginnen. Een nieuwe telefoon kan niet stiekem overschrijven wat er al staat.
 
-### Overstappen tussen iPhone en Android gaat via Kluis exporteren
+### Overstappen tussen iPhone en Android gaat via een kluisexport
 
 Cloudback-up blijft op één platform, omdat het je eigen iCloud gebruikt op Apple-toestellen en je eigen Google Drive op Android. Om van het ene naar het andere over te stappen, heb je de andere route nodig.
 
-Vault Export is gratis. Via Instellingen, Kluis exporteren maak je één met een wachtwoord beveiligd bestand met profielen, documenten, reizen, ondersteunde instellingen en leesbare bijlagen. Je kiest waar je het opslaat: de Bestanden-app, een drive of een e-mail aan jezelf. Op de nieuwe telefoon leest Instellingen, Back-up importeren het weer in en vervangt wat er al staat. Het ondersteunt beide platforms. Controleer geïmporteerde documenten, notities en bijlagen, controleer herinneringen opnieuw en bewaar de oorspronkelijke export. Meldingen worden opnieuw opgebouwd op het ontvangende apparaat.
+Je kluis exporteren is gratis. Via Instellingen, Kluis exporteren maak je één met een wachtwoord beveiligd bestand met profielen, documenten, reizen, ondersteunde instellingen en leesbare bijlagen. Je kiest waar je het opslaat: de Bestanden-app, een drive of een e-mail aan jezelf. Op de nieuwe telefoon leest Instellingen, Back-up importeren het weer in en vervangt wat er al staat. Het ondersteunt beide platforms. Controleer geïmporteerde documenten, notities en bijlagen, controleer herinneringen opnieuw en bewaar de oorspronkelijke export. Meldingen worden opnieuw opgebouwd op het ontvangende apparaat.
 
 Dat geëxporteerde bestand is ook het antwoord voor wie een kopie wil die helemaal niet van een cloud-account afhangt. Het is verstandig om er eentje op een drive thuis te bewaren, ongeacht welke telefoon je bij je draagt.
 
@@ -128,7 +128,7 @@ Ja, met Pro. Installeer de app op de nieuwe telefoon en log in met hetzelfde iCl
 
 ### Werkt de back-up tussen iPhone en Android?
 
-Cloudback-up blijft op één platform: je eigen iCloud op iPhone en iPad, of je eigen Google Drive op Android. Gebruik de gratis Vault Export om over te stappen. Via Instellingen, Kluis exporteren maak je een met een wachtwoord beveiligd .tdvault-bestand dat je naar jezelf kunt sturen. Op de nieuwe telefoon leest Instellingen, Back-up importeren het weer in en vervangt de gegevens die er al staan. Importeren ondersteunt beide platforms. Controleer geïmporteerde documenten, notities en bijlagen, controleer herinneringen opnieuw en bewaar de oorspronkelijke export. Meldingen worden opnieuw opgebouwd op het ontvangende apparaat.
+Cloudback-up blijft op één platform: je eigen iCloud op iPhone en iPad, of je eigen Google Drive op Android. Gebruik de gratis kluisexport om over te stappen. Via Instellingen, Kluis exporteren maak je een met een wachtwoord beveiligd .tdvault-bestand dat je naar jezelf kunt sturen. Op de nieuwe telefoon leest Instellingen, Back-up importeren het weer in en vervangt de gegevens die er al staan. Importeren ondersteunt beide platforms. Controleer geïmporteerde documenten, notities en bijlagen, controleer herinneringen opnieuw en bewaar de oorspronkelijke export. Meldingen worden opnieuw opgebouwd op het ontvangende apparaat.
 
 ### Wat wordt er in de back-up opgeslagen en wat blijft op het toestel?
 

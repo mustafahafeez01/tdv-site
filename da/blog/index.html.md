@@ -72,23 +72,23 @@ Source: https://traveldocumentvault.com/da/blog/
 
 ##
 
-[Familierejser Schengens pasregler for familierejser: det, forældre tager fejl af Schengen kræver 3 måneders gyldighed efter afrejse, ikke 6 – og børns pas udløber efter 5 år. Det bør familier tjekke, den dag de booker. 10. juli 20266 min](https://traveldocumentvault.com/da/blog/schengen-passport-rules-family-trips/)
+[Familierejser Schengens pasregler for familierejser: det, forældre tager fejl af Schengen kræver 3 måneders gyldighed efter afrejse, ikke 6 – og børns pas udløber efter 5 år. Det bør familier tjekke, den dag de booker. 10. juli 20266 min. læsning](https://traveldocumentvault.com/da/blog/schengen-passport-rules-family-trips/)
 
 ##
 
-[Visa og indrejse Dit 90-dages Schengen-vindue: at tælle dage i EES-æraen EES registrerer hver Schengen-ind- og udrejse og markerer automatisk overskridelser, men ingen portal viser dine resterende dage. Sådan tæller du selv dit 90/180-vindue. 7. juli 20266 min](https://traveldocumentvault.com/da/blog/schengen-90-days-auto-tracked-ees/)
+[Visa og indrejse Dit 90-dages Schengen-vindue: at tælle dage i EES-æraen EES registrerer hver Schengen-ind- og udrejse og markerer automatisk overskridelser, men ingen portal viser dine resterende dage. Sådan tæller du selv dit 90/180-vindue. 7. juli 20266 min. læsning](https://traveldocumentvault.com/da/blog/schengen-90-days-auto-tracked-ees/)
 
 ##
 
-[Rejseværktøjer TripCase-alternativ: hvorfor dine rejsedokumenter skal kunne bruges offline TripCase lukkede i 2025. Hvad du kan bruge i stedet til rejseplaner og rejsedokumenter, og hvorfor offline-opbevaring er sikrere. 4. juli 20267 min](https://traveldocumentvault.com/da/blog/tripcase-alternative/)
+[Rejseværktøjer TripCase-alternativ: hvorfor dine rejsedokumenter skal kunne bruges offline TripCase lukkede i 2025. Hvad du kan bruge i stedet til rejseplaner og rejsedokumenter, og hvorfor offline-opbevaring er sikrere. 4. juli 20267 min. læsning](https://traveldocumentvault.com/da/blog/tripcase-alternative/)
 
 ##
 
-[Rejseforberedelse Rejsedokumenterne folk glemmer (og hvor I skal opbevare hvert et) Rejsedokumenterne de fleste glemmer, og hvad I bør have på jer kontra opbevare. Glemte samtykkebreve, vaccinationsbeviser og backup-strategier. 4. juli 20267 min](https://traveldocumentvault.com/da/blog/what-documents-to-carry-when-travelling-internationally/)
+[Rejseforberedelse Rejsedokumenterne folk glemmer (og hvor I skal opbevare hvert et) Rejsedokumenterne de fleste glemmer, og hvad I bør have på jer kontra opbevare. Glemte samtykkebreve, vaccinationsbeviser og backup-strategier. 4. juli 20267 min. læsning](https://traveldocumentvault.com/da/blog/what-documents-to-carry-when-travelling-internationally/)
 
 ##
 
-[Pasfornyelse Kan du rejse med et udløbet pas? Britiske regler Du kan ikke flyve internationalt med et udløbet pas. De snævre indenrigske undtagelser, den hurtigste britiske fornyelsesvej, og hvad du skal gøre, hvis du allerede er i udlandet. 2. juli 20267 min](https://traveldocumentvault.com/da/blog/travel-expired-passport-uk/)
+[Pasfornyelse Kan du rejse med et udløbet pas? Britiske regler Du kan ikke flyve internationalt med et udløbet pas. De snævre indenrigske undtagelser, den hurtigste britiske fornyelsesvej, og hvad du skal gøre, hvis du allerede er i udlandet. 2. juli 20267 min. læsning](https://traveldocumentvault.com/da/blog/travel-expired-passport-uk/)
 
 ##
 
@@ -100,23 +100,23 @@ Source: https://traveldocumentvault.com/da/blog/
 
 ##
 
-[Pasregler Hvor længe er et pas gyldigt til rejser? De fleste voksenpas er gyldige i 10 år, men dit rejsevindue er ofte kortere. Lær hvordan pasgyldighed i måneder beregnes, og hvornår du bør forny. 30. apr. 20266 min](https://traveldocumentvault.com/da/blog/how-long-is-passport-valid-for-travel/)
+[Pasregler Hvor længe er et pas gyldigt til rejser? De fleste voksenpas er gyldige i 10 år, men dit rejsevindue er ofte kortere. Lær hvordan pasgyldighed i måneder beregnes, og hvornår du bør forny. 30. apr. 20266 min. læsning](https://traveldocumentvault.com/da/blog/how-long-is-passport-valid-for-travel/)
 
 ##
 
-[Pasregler Sådan tager du et pasfoto derhjemme, der bliver godkendt Sådan får du dit pasfoto godkendt første gang: baggrund, lys, udtryk og de afvisningsgrunde, der rammer flest. 29. apr. 20267 min](https://traveldocumentvault.com/da/blog/passport-photo-at-home/)
+[Pasregler Sådan tager du et pasfoto derhjemme, der bliver godkendt Sådan får du dit pasfoto godkendt første gang: baggrund, lys, udtryk og de afvisningsgrunde, der rammer flest. 29. apr. 20267 min. læsning](https://traveldocumentvault.com/da/blog/passport-photo-at-home/)
 
 ##
 
-[Visa og indrejseEr et visum det samme som et pas? Forskellen forklaret Et pas beviser, hvem du er. Et visum er et lands tilladelse til at rejse ind. Her er forskellen på de to, hvorfor de fleste rejser kræver begge dele, og hvem du skal spørge. 22. apr. 20266 min](https://traveldocumentvault.com/da/blog/visa-vs-passport/)
+[Visa og indrejseEr et visum det samme som et pas? Forskellen forklaret Et pas beviser, hvem du er. Et visum er et lands tilladelse til at rejse ind. Her er forskellen på de to, hvorfor de fleste rejser kræver begge dele, og hvem du skal spørge. 22. apr. 20266 min. læsning](https://traveldocumentvault.com/da/blog/visa-vs-passport/)
 
 ##
 
-[Privatliv & Sikkerhed iCloud vs Google Photos vs krypteret app: sikreste måde at gemme dit pas iCloud, Google Photos og krypterede apps sammenlignet. Hvorfor en offline kopi på enheden generelt er sikrest, og hvilken afvejning hver cloud-løsning indebærer. 15. april 20267 min](https://traveldocumentvault.com/da/blog/safest-way-to-store-passport-digitally/)
+[Privatliv & Sikkerhed iCloud vs Google Photos vs krypteret app: sikreste måde at gemme dit pas iCloud, Google Photos og krypterede apps sammenlignet. Hvorfor en offline kopi på enheden generelt er sikrest, og hvilken afvejning hver cloud-løsning indebærer. 15. april 20267 min. læsning](https://traveldocumentvault.com/da/blog/safest-way-to-store-passport-digitally/)
 
 ##
 
-[Pasregler Digital paskopi: hvad gælder som gyldig legitimation på rejsen? Flyselskaber, hoteller, ambassader og grænsevagter behandler digitale paskopier forskelligt. Her er præcis, hvor en digital kopi hjælper – og hvor du skal have originaldokumentet. Apr 4, 20267 min read](https://traveldocumentvault.com/da/blog/digital-passport-copy-valid/)
+[Pasregler Digital paskopi: hvad gælder som gyldig legitimation på rejsen? Flyselskaber, hoteller, ambassader og grænsevagter behandler digitale paskopier forskelligt. Her er præcis, hvor en digital kopi hjælper – og hvor du skal have originaldokumentet. 4. apr. 20267 min. læsning](https://traveldocumentvault.com/da/blog/digital-passport-copy-valid/)
 
 ##
 

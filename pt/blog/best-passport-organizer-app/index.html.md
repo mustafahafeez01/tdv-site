@@ -84,8 +84,6 @@ Uma aplicação de compra única, em contraste, permanece totalmente funcional i
 
 ## Como Travel Document Vault Aborda Isto
 
-**Travel Document Vault** guarda os seus documentos no dispositivo com encriptação AES-256, sem conta na aplicação. Os documentos guardados e os lembretes de validade de passaportes e vistos estão disponíveis offline. Pode partilhar ou exportar cópias, ou usar a cópia de segurança encriptada para o seu próprio iCloud ou Google Drive com Pro. Pro também permite adicionar toda a família. A aplicação é gratuita para descarregar; Pro é uma [compra única](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) dentro da aplicação, sem subscrição.
-
 ## Uma Lista de Verificação Prática Antes de Fazer o Download
 
 Ao avaliar qualquer aplicação para organizar passaportes, coloque-se estas nove perguntas:

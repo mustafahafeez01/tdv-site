@@ -84,8 +84,6 @@ Sebaliknya, aplikasi dengan pembelian sekali bayar tetap berfungsi penuh tanpa b
 
 ## Bagaimana Travel Document Vault Menerapkan Pendekatan Ini
 
-**Travel Document Vault** menyimpan dokumen Anda di perangkat dengan enkripsi AES-256 tanpa akun aplikasi. Dokumen yang tersimpan serta pengingat kedaluwarsa paspor dan visa tersedia secara luring. Anda bisa membagikan atau mengekspor salinan, atau menggunakan cadangan cloud terenkripsi ke iCloud atau Google Drive Anda sendiri dengan Pro. Pro juga memungkinkan Anda menambahkan seluruh keluarga. Aplikasi ini tersedia di [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) dan [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog) dan dapat diunduh gratis. Pro tersedia sebagai pembelian sekali bayar dalam aplikasi, tanpa langganan.
-
 ## Daftar Periksa Praktis Sebelum Anda Mengunduh
 
 Saat mengevaluasi aplikasi pengatur paspor mana pun, tanyakan pada diri Anda sembilan pertanyaan berikut:

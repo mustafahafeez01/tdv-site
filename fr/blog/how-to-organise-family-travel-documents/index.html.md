@@ -99,8 +99,6 @@ Voici le modèle d'échec qui attrape les familles: vous renouvelez votre propre
 
 N'importe laquelle de ces trois approches fonctionne, mais nous choisirions par défaut celle qui envoie le rappel automatiquement, car une feuille de calcul n'aide que si vous pensez à l'ouvrir. Ce qui compte avant tout est de choisir celle qui correspond à votre fonctionnement et de vous y tenir réellement.
 
-**Travel Document Vault** suit les dates d’expiration enregistrées, avec des rappels de passeport dès huit mois avant l’expiration. Scannez chaque passeport et confirmez ou saisissez sa date d’expiration. Ajoutez toute la famille avec Pro pour regrouper les dates de renouvellement. [Télécharger sur l'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 ## Liste de contrôle pré-voyage pour les familles
 
 Exécutez cette liste lorsque vous réservez — pas la nuit avant de partir. C'est ce qui vous donne suffisamment de temps pour corriger tout ce qui doit être corrigé.

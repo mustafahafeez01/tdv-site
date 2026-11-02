@@ -10,8 +10,6 @@ $9.99, eenmalig. Geen abonnementen, geen verborgen kosten, geen gegevensverzamel
 
 De prijs is in Amerikaanse dollar. We stellen de prijs per land lokaal vast in plaats van deze om te rekenen vanuit dollars, en de App Store of Google Play toont u uw prijs voordat u betaalt.
 
-We voeren geen servers die ooit uw documenten kunnen bevatten of lezen. Uw documentbestanden blijven op uw apparaat, tenzij u ze deelt of exporteert, of een versleutelde back-up inschakelt (Pro). Daarom kunnen we een eenmalige prijs bieden in plaats van eindeloze abonnementen.
-
 ## Kies uw plan
 
 ### Gratis
@@ -37,12 +35,14 @@ $9.99 eenmalig
 
 Voor uw hele gezin. Eenmalig betalen. Alle v1.x-updates inbegrepen, voor altijd.
 
+USD. De prijs voor uw land wordt lokaal vastgesteld in plaats van omgerekend vanuit dollars, en de App Store of Google Play toont deze voordat u betaalt.
+
 [Over ons versiebeleid →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
 - Reisplanner met verkeerslicht voor gezinsgereedheid
 - Uw eigen cloudback-up (iCloud of Google Drive, end-to-end versleuteld)
 - Aantal-dagen-buiten-tracker voor belastingdagen en visumlimieten
-- Landdaglimieten per gezinslid
+- Daglimieten per land voor elk gezinslid
 - Elk gezinslid, één kluis
 - **Onbeperkte** documenten
 - Volledig gezinsoverzicht vervaldatums
@@ -55,7 +55,7 @@ Voor uw hele gezin. Eenmalig betalen. Alle v1.x-updates inbegrepen, voor altijd.
 
 Alles wat u nodig heeft voor solo reizen
 
-Gratis
+$0
 
 - Paspoorten, visa, ID's en meer
 - Scan documenten en bevestig herkende vervaldatums
@@ -87,7 +87,7 @@ Alles in Gratis, plus:
 - Reisplanner met verkeerslicht voor gezinsgereedheid
 - Uw eigen cloudback-up (iCloud of Google Drive, end-to-end versleuteld)
 - Aantal-dagen-buiten-tracker voor belastingdagen en visumlimieten
-- Landdaglimieten per gezinslid
+- Daglimieten per land voor elk gezinslid
 - Elk gezinslid, één kluis
 - **Onbeperkte** documenten
 - Volledig gezinsoverzicht vervaldatums
@@ -102,13 +102,13 @@ Reisgereedheid, visum- en belastingdagtellers zijn slechts hulpmiddelen – raad
 
 ## Waarom eenmalig en geen abonnement?
 
-Pro is een eenmalige aankoop. Wij hebben geen servers die uw documenten bewaren of lezen. Uw documentbestanden blijven op uw apparaat, tenzij u ze deelt of exporteert, of een versleutelde back-up naar uw eigen cloud inschakelt (Pro). Pro heeft geen terugkerende abonnementskosten.
+Pro is een eenmalige aankoop. Wij hebben geen servers die uw documenten bewaren of lezen. Uw documentbestanden blijven op uw apparaat, tenzij u ze deelt of exporteert, of een versleutelde back-up naar uw eigen cloud inschakelt (Pro). Daarom kunnen we een eenmalige prijs bieden in plaats van eindeloze abonnementen. Pro heeft geen terugkerende abonnementskosten.
 
 Een eenmalige prijs is eerlijk, duurzaam en eerlijk. U betaalt eenmaal. Wij stoppen met vragen.
 
 ## Wat is gratis inbegrepen, voor altijd
 
-De gratis laag is geen proefversie. Het is een echte, permanente laag met kernfuncties die u echt zult gebruiken: één profiel, 5 documenten, verloopherinneringen, documentdeling, biometrische vergrendeling, codering op het apparaat en Vault Export en Import. Als u solo bent of gewoon aan het testen, gratis is alles wat u nodig hebt.
+De gratis laag is geen proefversie. Het is een echte, permanente laag met kernfuncties die u echt zult gebruiken: één profiel, 5 documenten, verloopherinneringen, documentdeling, biometrische vergrendeling, codering op het apparaat, kluisexport en back-upimport. Als u solo bent of gewoon aan het testen, gratis is alles wat u nodig hebt.
 
 Geen tijdslimieten. Geen functies die mysterieus verdwijnen. Geen donkere patronen die u aanzetten tot upgraden.
 

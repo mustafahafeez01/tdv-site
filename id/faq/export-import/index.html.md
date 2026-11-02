@@ -6,7 +6,7 @@ Source: https://traveldocumentvault.com/id/faq/export-import/
 
 ---
 
-Ekspor dan impor vault gratis untuk semua orang. Ekspor data vault yang didukung sebagai file terenkripsi yang dilindungi kata sandi (.tdvault), sesuai batas ukuran. Impor di perangkat iOS atau Android lain yang didukung dengan langkah-langkah berikut.
+Ekspor dan impor brankas gratis untuk semua orang. Ekspor data vault yang didukung sebagai file terenkripsi yang dilindungi kata sandi (.tdvault), sesuai batas ukuran. Impor di perangkat iOS atau Android lain yang didukung dengan langkah-langkah berikut.
 
 ## Mengapa mengekspor dan mengimpor?
 
@@ -75,7 +75,7 @@ Setelah impor, periksa tab Keluarga untuk memastikan semua profil muncul. Buka b
 
 ## Siap mengekspor vault Anda?
 
-Ekspor dan Impor Vault gratis untuk semua orang. Pro menambahkan cadangan cloud, profil tak terbatas, ekspor PDF gabungan, dan lainnya. Pembelian satu kali, tanpa langganan.
+Ekspor dan impor brankas gratis untuk semua orang. Pro menambahkan cadangan cloud, profil tak terbatas, ekspor PDF gabungan, dan lainnya. Pembelian satu kali, tanpa langganan.
 
 ![Unduh di App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 

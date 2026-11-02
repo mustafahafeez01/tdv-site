@@ -6,7 +6,7 @@ Source: https://traveldocumentvault.com/ru/blog/child-first-passport-application
 
 ---
 
-![A parent seen from behind at a bright window, baby on one shoulder, holding up a single gold passport booklet](https://traveldocumentvault.com/blog/child-first-passport-application/cover.jpg)
+![Родитель стоит у светлого окна спиной к нам, малыш на одном плече, в поднятой руке — золотистая книжка паспорта](https://traveldocumentvault.com/blog/child-first-passport-application/cover.jpg)
 
 ## Ключевые моменты
 

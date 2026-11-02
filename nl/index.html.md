@@ -40,7 +40,7 @@ Documenten zijn versleuteld op uw apparaat met AES-256-GCM, met sleutels opgesla
 
 ### Uw cloud. Uw sleutel.
 
-Vault Export en Import zijn gratis. Pro voegt een versleutelde cloudback-up naar uw eigen iCloud of Google Drive toe. Herstel met uw herstelcode op een compatibele telefoon op hetzelfde platform, met hetzelfde cloudaccount. Wij bewaren uw code niet.
+Kluisexport en back-upimport zijn gratis. Pro voegt een versleutelde cloudback-up naar uw eigen iCloud of Google Drive toe. Herstel met uw herstelcode op een compatibele telefoon op hetzelfde platform, met hetzelfde cloudaccount. Wij bewaren uw code niet.
 
 ### Slimme herinneringen
 
@@ -72,13 +72,15 @@ Lokaal gepland op uw apparaat. Ik ken uw vervaldatums niet.
 
 Geen Travel Document Vault-server slaat uw documenten op. Er is niets om te vinden.
 
-[Lees het verhaal van de oprichter: Waarom ik een app heb gemaakt om één zorg minder in mijn hoofd te hebben →](https://traveldocumentvault.com/nl/blog/)
+[Lees het verhaal van de oprichter: Waarom ik een app heb gemaakt om één zorg minder in mijn hoofd te hebben →](https://traveldocumentvault.com/nl/blog/why-i-built-travel-document-vault/)
 
 ## Klaar Wanneer U Ze Nodig Hebt
 
 - **Op het vliegveld:** Roep in seconden paspoorten, identiteitsbewijzen en boordingdetails voor het hele gezin (Pro) op.
 - **Formulieren Invullen:** Paspoortnummers, identiteitsgegevens, verzekeringsinformatie. Altijd bij de hand.
 - **Visumaanvragen:** Exporteer documentafbeeldingen als PDF's voor afdrukken of delen. Controleer en pas afbeeldingen aan voordat u ze exporteert.
+
+Met Pro
 
 ## Plan reizen, volg toleranties, synchroniseer naar uw eigen cloud
 
@@ -104,9 +106,9 @@ Registreer de dagen die uw gezin in elk land doorbrengt. Vergelijk uw opgeslagen
 
 Pro
 
-### Reistoelages Zonder Rekenen
+### Onbeperkte Gezinsprofielen
 
-Volg zollvrije tegoederen per gezinslid per reis. Nooit meer giswerk bij bagage- of valutalimieten.
+Voeg een profiel toe voor elk gezinslid. De gratis versie bevat 1 profiel. Pro voegt onbeperkte gezinsprofielen toe.
 
 ## Voor Reizen. Voor Het Leven. Voor Alles Wat Belangrijk Is.
 
@@ -193,16 +195,18 @@ Beste Waarde
 
 ### Pro
 
-Eenmalig
+$9.99 eenmalig
 
 Voor uw hele gezin. Eenmalig betalen. Alle v1.x-updates inbegrepen, voor altijd.
+
+USD. De prijs voor uw land wordt lokaal vastgesteld in plaats van omgerekend vanuit dollars, en de App Store of Google Play toont deze voordat u betaalt.
 
 [Over ons versiebeleid →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
 - Reisplanner met bereidschapsampel voor gezinnen
-- Your Own Cloud back-up (iCloud of Google Drive, end-to-end versleuteld)
+- Cloud Backup (iCloud of Google Drive, end-to-end versleuteld)
 - Tracker voor dagen in het buitenland voor belastingdagen en visumlimieten
-- Reistoelages - Douanevoordelen, bagage, valuta
+- Daglimieten per land voor elk gezinslid
 - Elk gezinslid, één kluis
 - **Onbeperkt** documenten
 - Volledig vervalsdashboard voor het gezin
@@ -215,7 +219,7 @@ Voor uw hele gezin. Eenmalig betalen. Alle v1.x-updates inbegrepen, voor altijd.
 
 Alles wat u nodig hebt voor solo reizen
 
-Gratis
+$0
 
 - Paspoorten, visa, id's en meer
 - Scan documenten en bevestig herkende vervaldatums
@@ -234,16 +238,20 @@ Voor gezinnen
 
 Ontgrendel de volledige kluis voor uw gezin
 
-Eenmalig eenmalig Voor uw hele gezin. Eenmalig betalen. Alle v1.x-updates inbegrepen, voor altijd.
+$9.99 eenmalig
+
+USD. De prijs voor uw land wordt lokaal vastgesteld in plaats van omgerekend vanuit dollars, en de App Store of Google Play toont deze voordat u betaalt.
+
+Voor uw hele gezin. Eenmalig betalen. Alle v1.x-updates inbegrepen, voor altijd.
 
 [Over ons versiebeleid →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
 Alles in Gratis, plus:
 
 - Reisplanner met familiebereidschapsampel
-- Your Own Cloud back-up (iCloud of Google Drive, end-to-end versleuteld)
+- Cloud Backup (iCloud of Google Drive, end-to-end versleuteld)
 - Tracker voor dagen in het buitenland voor belastingdagen en visumlimieten
-- Reistoelages - Douanevoordelen, bagage, valuta
+- Daglimieten per land voor elk gezinslid
 - Elk gezinslid, één kluis
 - **Onbeperkt** documenten
 - Volledig vervalsdashboard voor het gezin
@@ -258,7 +266,7 @@ Aankopen altijd herstellen met het App Store- of Google Play-account waarmee u h
 
 ## Veelgestelde Vragen
 
-Is het echt privé? Ja. Standaard wordt alles op uw apparaat opgeslagen. Wij hebben geen servers die uw documenten opslaan en geen toegang tot uw documenten. Als u optionele back-up (Pro) inschakelt, staat uw versleutelde kluis in uw eigen iCloud of Google Drive, beveiligd met een herstelcode die alleen u hebt. Wij kunnen deze nog steeds niet lezen. Apple en Google ook niet. Neem het niet zomaar van ons aan – [controleer het zelf](https://traveldocumentvault.com/nl/privacy-verification/). Wat als ik mijn telefoon verlies? Uw kluis staat versleuteld op uw apparaat. De lokale sleutel blijft in beveiligde opslag en wordt niet meegenomen in gewone telefoonback-ups. Vault Export bevat een met een wachtwoord versleutelde kopie van die sleutel. Een gewone telefoonback-up installeert de app opnieuw, maar kan uw documenten niet herstellen. Pro-cloudback-up herstelt met uw herstelcode op een ondersteunde telefoon op hetzelfde platform, met hetzelfde cloudaccount. Of gebruik de gratis Vault Export en Import. Herstellen of importeren vervangt de lokale kluis. Kan ik tussen apparaten synchroniseren? Ja. Met Pro kunt u Your Own Cloud back-up inschakelen om uw versleutelde kluis te synchroniseren met uw iCloud of Google Drive. U houdt de herstelcode. We hebben nooit toegang tot uw gegevens. Wat is de reisplanner? De reisplanner (Pro) groepeert familiëdocumenten per reis en toont een bereidschapsampel – groen wanneer ingestelde documentcontroles slagen, geel wanneer een gekoppeld document aandacht nodig heeft. Plan reizen samen met vertrouwen. [Zie alle privacy- en gegevensantwoorden](https://traveldocumentvault.com/nl/faq/)
+Is het echt privé? Ja. Standaard wordt alles op uw apparaat opgeslagen. Wij hebben geen servers die uw documenten opslaan en geen toegang tot uw documenten. Als u optionele back-up (Pro) inschakelt, staat uw versleutelde kluis in uw eigen iCloud of Google Drive, beveiligd met een herstelcode die alleen u hebt. Wij kunnen deze nog steeds niet lezen. Apple en Google ook niet. Neem het niet zomaar van ons aan – [controleer het zelf](https://traveldocumentvault.com/nl/privacy-verification/). Wat als ik mijn telefoon verlies? Uw kluis staat versleuteld op uw apparaat. De lokale sleutel blijft in beveiligde opslag en wordt niet meegenomen in gewone telefoonback-ups. Een kluisexport bevat een met een wachtwoord versleutelde kopie van die sleutel. Een gewone telefoonback-up installeert de app opnieuw, maar kan uw documenten niet herstellen. Pro-cloudback-up herstelt met uw herstelcode op een ondersteunde telefoon op hetzelfde platform, met hetzelfde cloudaccount. Of gebruik de gratis kluisexport en back-upimport. Herstellen of importeren vervangt de lokale kluis. Kan ik tussen apparaten synchroniseren? Ja. Met Pro kunt u Cloud Backup inschakelen om uw versleutelde kluis te synchroniseren met uw iCloud of Google Drive. U houdt de herstelcode. We hebben nooit toegang tot uw gegevens. Wat is de reisplanner? De reisplanner (Pro) groepeert familiëdocumenten per reis en toont een bereidschapsampel – groen wanneer ingestelde documentcontroles slagen, geel wanneer een gekoppeld document aandacht nodig heeft. Plan reizen samen met vertrouwen. [Zie alle privacy- en gegevensantwoorden](https://traveldocumentvault.com/nl/faq/)
 
 **Belangrijk:** Travel Document Vault is een persoonlijk organisatietool voor het opslaan van digitale kopieën van uw documenten. **Digitale kopieën die in deze app zijn opgeslagen, zijn NIET geldig voor reizen.** Het verifieert niet de authenticiteit van documenten en biedt geen juridisch of reisadvies. Zorg altijd dat u originele documenten bij u hebt en controleer alle reisvereisten bij officiële overheidsbronnen.
 

@@ -83,8 +83,6 @@ Passport copies contain sensitive identity information, including your full name
 
 If you only fix one habit, swap the emailed PDF or camera-roll photo for an encrypted app, since that casual copy is the one most likely to end up in the wrong hands if your phone or inbox is ever compromised.
 
-**Travel Document Vault** stores encrypted copies of all your travel documents on-device. AES-256 encrypted on your phone, no account required. Optional encrypted backup to your own iCloud or Google Drive (Pro) sealed with a recovery code only you hold. [Available on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 If you're wondering whether cloud storage is safe for passport copies, see our guide to [storing passports in Google Photos](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/). It explains why a dedicated encrypted app offers stronger protection. For a side-by-side comparison of iCloud, Google Photos and encrypted apps, read [the safest way to store a passport digitally](https://traveldocumentvault.com/blog/safest-way-to-store-passport-digitally/).
 
 If you haven't made one yet, scan your passport's photo page today, before you're standing at a check-in desk or an embassy counter needing it.

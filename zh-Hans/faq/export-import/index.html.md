@@ -6,7 +6,7 @@ Source: https://traveldocumentvault.com/zh-Hans/faq/export-import/
 
 ---
 
-保险库导出和导入对所有人免费。将受支持的保险库数据导出为加密、受密码保护的文件（.tdvault），大小须在限制范围内。按照以下步骤，在另一台受支持的 iOS 或 Android 设备上导入。
+保险库导出和备份导入 对所有人免费。将受支持的保险库数据导出为加密、受密码保护的文件（.tdvault），大小须在限制范围内。按照以下步骤，在另一台受支持的 iOS 或 Android 设备上导入。
 
 ## 为什么导出和导入？
 
@@ -75,7 +75,7 @@ Source: https://traveldocumentvault.com/zh-Hans/faq/export-import/
 
 ## 准备好导出您的保险库？
 
-保险库导出和导入对所有人都是免费的。Pro 版本添加了云备份、无限配置文件、合并 PDF 导出等功能。一次性购买，无订阅。
+保险库导出和备份导入 对所有人免费。Pro 另外提供云备份、不限数量的档案、合并 PDF 导出等功能。一次性购买，无订阅。
 
 ![在 App Store 上下载](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 

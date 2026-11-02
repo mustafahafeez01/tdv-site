@@ -83,8 +83,6 @@ Les copies de passeport contiennent des informations d'identité sensibles : vot
 
 Si vous ne deviez changer qu'une seule habitude, remplacez le PDF envoyé par email ou la photo dans la pellicule par une application chiffrée : cette copie improvisée est celle qui a le plus de chances de tomber entre de mauvaises mains si votre téléphone ou votre messagerie est un jour compromis.
 
-**Travel Document Vault** stocke les copies chiffrées de tous vos documents de voyage sur l'appareil. Chiffrées en AES-256 sur votre téléphone, aucun compte requis. Sauvegarde chiffrée optionnelle sur votre propre iCloud ou Google Drive (Pro) scellée avec un code de récupération que seul vous détenez. [Disponible sur l'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 Si vous vous demandez si le stockage en nuage est sûr pour les copies de passeport, consultez notre guide pour [stocker les passeports dans Google Photos](https://traveldocumentvault.com/fr/blog/is-it-safe-to-store-passport-in-google-photos/). Il explique pourquoi une application chiffrée dédiée offre une protection plus forte.
 
 Si vous n'en avez pas encore fait, scannez dès aujourd'hui la page photo de votre passeport, avant de vous retrouver devant un comptoir d'enregistrement ou d'ambassade où vous en auriez besoin.

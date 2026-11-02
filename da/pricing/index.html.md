@@ -10,8 +10,6 @@ $9.99, engangskøb. Ingen abonnementer, ingen skjulte gebyrer, ingen dataindsaml
 
 Prisen er angivet i amerikanske dollar. Vi fastsætter prisen for hvert land lokalt i stedet for at omregne den fra dollar, og App Store eller Google Play viser din pris, før du betaler.
 
-Vi driver ingen servere, der nogensinde kan holde eller læse dine dokumenter. Dine dokumentfiler bliver på din enhed, medmindre du deler eller eksporterer dem eller slår krypteret backup til (Pro). Det er derfor vi kan tilbyde en engangspris i stedet for endeløse abonnementer.
-
 ## Vælg din plan
 
 ### Gratis
@@ -37,6 +35,8 @@ $9.99 engangskøb
 
 Til hele din familie. Betale én gang. Alle v1.x-opdateringer inkluderet, for altid.
 
+USD. Prisen for dit land fastsættes lokalt i stedet for at blive omregnet fra dollar, og App Store eller Google Play viser den, før du betaler.
+
 [Om vores versionspolitik →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
 - Rejseplanlægger med trafiklys for familiens parathed
@@ -55,7 +55,7 @@ Til hele din familie. Betale én gang. Alle v1.x-opdateringer inkluderet, for al
 
 Alt hvad du behøver til solo-rejse
 
-Gratis
+$0
 
 - Pas, visa, id-kort og mere
 - Scan dokumenter, og bekræft registrerede udløbsdatoer
@@ -102,13 +102,13 @@ Rejseparathed, visum- og skattedagsfunktioner er kun vejledende – verificer al
 
 ## Hvorfor engangskøb og ikke et abonnement?
 
-Pro er et engangskøb. Vi driver ingen servere, der opbevarer eller læser dine dokumenter. Dine dokumentfiler bliver på din enhed, medmindre du deler eller eksporterer dem eller slår krypteret backup til din egen sky til (Pro). Pro har ingen løbende abonnementsbetalinger.
+Pro er et engangskøb. Vi driver ingen servere, der opbevarer eller læser dine dokumenter. Dine dokumentfiler bliver på din enhed, medmindre du deler eller eksporterer dem eller aktiverer krypteret backup til din egen sky (Pro). Det er derfor, vi kan tilbyde en engangspris i stedet for endeløse abonnementer. Pro har ingen løbende abonnementsbetalinger.
 
 En engangspris er fair, bæredygtig og ærlig. Du betaler én gang. Vi holder op med at spørge.
 
 ## Hvad der er inkluderet gratis, for altid
 
-Det gratis niveau er ikke en prøveperiode. Det er et virkeligt, permanent niveau med kernefunktioner, du faktisk vil bruge: en profil, 5 dokumenter, udløbspåmindelser, dokumentdeling, biometrisk lås, kryptering på enheden samt Vault Export og Import. Hvis du er solo eller blot tester, er gratis alt hvad du behøver.
+Det gratis niveau er ikke en prøveperiode. Det er et virkeligt, permanent niveau med kernefunktioner, du faktisk vil bruge: en profil, 5 dokumenter, udløbspåmindelser, dokumentdeling, biometrisk lås, kryptering på enheden samt eksport og import af boksen. Hvis du er solo eller blot tester, er gratis alt hvad du behøver.
 
 Ingen tidsgrænser. Ingen funktioner, der på mystisk vis forsvinder. Ingen mørke mønstre, der presser dig til at opgradere.
 

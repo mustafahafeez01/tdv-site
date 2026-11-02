@@ -95,21 +95,19 @@ Houd deze altijd in je handbagage, stop ze nooit in de ruimbagage: paspoorten, i
 
 Maak voordat je thuis vertrekt een foto van elk document en bewaar die in een versleutelde app, niet in je camerarol. Als je tas kwijtraakt of gestolen wordt, wil je je paspoortnummer, polisnummer van je verzekering, en boekingsreferenties ergens hebben waar je nog bij kunt op een ambassade of politiebureau. Een veilige digitale back-up scheelt uren als je probeert hulp te krijgen.
 
-**Travel Document Vault** bewaart versleutelde kopieën van je reisdocumenten. Scan elk document en bevestig de vervaldatum of voer die zelf in voor automatische herinneringen. Met Pro kun je meer dan vijf documenten opslaan en ze per gezinslid ordenen. [Download in de App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 ## Hoe je documentenlijst verandert per reistype
 
 Verschillende reizen vragen om verschillende sets documenten, zoals de tabel hieronder laat zien voor solo-, gezins- en zakenreizen.
 
 | Document | Solo | Gezin | Zakelijk | Opmerkingen |
 |---|---|---|---|---|
-| Paspoort | ✅ | ✅ elk lid | ✅ | Controleer geldigheid ten opzichte van de bestemming, niet alleen de vervaldatum |
-| Visum (indien vereist) | ✅ | ✅ elk lid | ✅ zakelijk | Zakelijk: bevestig dat het visum in het juiste paspoort zit |
-| Reisverzekering | ✅ | ✅ allen gedekt | ✅ controleer of je werkgever je dekt | Bevestig dekking voor elke reis, niet alleen bij aankoop |
-| Boekingsbevestigingen | ✅ | ✅ | ✅ | Offline kopie (vertrouw niet op e-mailtoegang bij grenzen) |
-| Toestemmingsverklaring kind | N.v.t. | ✅ indien van toepassing | N.v.t. | Vereist in veel landen als een ouder ontbreekt |
-| Geboorteakten | N.v.t. | ✅ indien vereist | N.v.t. | Sommige landen eisen dit voor kinderen onder 18 jaar |
-| Werkvergunningsbrief | N.v.t. | N.v.t. | ✅ indien vereist | Sommige bestemmingen eisen werkgeversbrieven voor zakenreizigers |
+| Paspoort | | elk lid | | Controleer geldigheid ten opzichte van de bestemming, niet alleen de vervaldatum |
+| Visum (indien vereist) | | elk lid | zakelijk | Zakelijk: bevestig dat het visum in het juiste paspoort zit |
+| Reisverzekering | | allen gedekt | controleer of je werkgever je dekt | Bevestig dekking voor elke reis, niet alleen bij aankoop |
+| Boekingsbevestigingen | | | | Offline kopie (vertrouw niet op e-mailtoegang bij grenzen) |
+| Toestemmingsverklaring kind | N.v.t. | indien van toepassing | N.v.t. | Vereist in veel landen als een ouder ontbreekt |
+| Geboorteakten | N.v.t. | indien vereist | N.v.t. | Sommige landen eisen dit voor kinderen onder 18 jaar |
+| Werkvergunningsbrief | N.v.t. | N.v.t. | indien vereist | Sommige bestemmingen eisen werkgeversbrieven voor zakenreizigers |
 
 Staat een reis al geboekt, dan is het enige dat je vandaag echt moet doen: pak elk betrokken paspoort erbij en controleer de vervaldatum tegen de eis van de bestemming, niet alleen tegen je reisdata.
 

@@ -34,8 +34,6 @@ Seberapa mendesak Anda harus bertindak menentukan apa yang harus dilakukan:
 
 Semua kantor imigrasi besar menyimpan slot janji temu darurat yang tidak terlihat secara daring. Jika waktu Anda mepet, **kami akan selalu menelepon, bukan hanya mengandalkan situs web.**
 
-**Atur pengingatnya sekarang** agar hal ini tidak pernah terjadi lagi — Travel Document Vault mulai memberi tahu Anda delapan bulan sebelum setiap paspor di rumah tangga Anda kedaluwarsa, lalu mengingatkan lagi saat tanggalnya semakin dekat. [Unduh di App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 ## Skenario B: Anda Menemukannya di Bandara
 
 Skenario ini lebih sering terjadi daripada yang orang kira, dan langkah-langkahnya tidak selalu jelas ketika Anda sedang dalam tekanan.
@@ -141,6 +139,10 @@ Bisa. Paspor yang belum kedaluwarsa tetap bisa ditolak jika rusak, jika nama tid
 ### Apa itu aturan paspor enam bulan?
 
 Banyak negara mensyaratkan paspor Anda tetap berlaku setidaknya enam bulan setelah tanggal kedatangan yang direncanakan. Jika paspor Anda kedaluwarsa lebih cepat dari itu, meskipun secara teknis masih berlaku, Anda bisa ditolak naik pesawat atau ditolak masuk. Tidak semua negara menerapkan aturan ini, dan batasannya bervariasi. Periksa persyaratan untuk negara tujuan spesifik Anda sebelum bepergian.
+
+### Bisakah paspor yang sudah kedaluwarsa diperpanjang?
+
+Biasanya bisa. Di Inggris, GOV.UK menyatakan bahwa Anda harus memperpanjang paspor sebelum bepergian jika paspor Anda sudah kedaluwarsa, dan Anda bisa melakukannya secara online atau melalui formulir kertas dengan paspor lama sebagai dokumen pendukung. Di AS dan Kanada, hal ini juga bergantung pada kapan paspor diterbitkan dan berapa usia Anda saat itu.
 
 ## Artikel Terkait
 

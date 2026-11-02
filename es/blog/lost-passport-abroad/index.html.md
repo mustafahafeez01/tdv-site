@@ -64,8 +64,6 @@ Qué típicamente necesitarás (confirma con tu embajada antes de visitar):
 - Prueba de viaje de continuación —reserva de vuelo, confirmación de hotel
 - Tarifa de documento de emergencia —ten disponibles tanto efectivo como tarjeta
 
-**Travel Document Vault** almacena una copia cifrada de tu pasaporte en tu teléfono —accesible sin internet, sin inicio de sesión. La imagen cifrada de la página de datos de tu pasaporte es la copia digital de esa lista. [Descargar en App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 ## Paso 5: Notifica a tu Asegurador de Viaje
 
 Reporta la pérdida a tu asegurador de viaje lo antes posible. La mayoría de las pólizas integrales cubren costos de reemplazo de pasaporte, tarifas de pasaporte de emergencia, y a veces alojamiento extra si experimentas retrasos. Guarda cada recibo —los necesitarás para la reclamación, junto con el número de referencia de la denuncia policial.

@@ -34,8 +34,6 @@ Hur brådskande du behöver agera avgör vad du ska göra:
 
 Alla större passmyndigheter håller tillbaka akuttider som inte syns online. Om din tidsram är snäv **skulle vi alltid ringa i stället för att bara lita på webbplatsen.**
 
-**Ställ in påminnelsen nu** så att det aldrig händer igen – Travel Document Vault meddelar dig redan från åtta månader innan varje pass i ditt hushåll går ut, och sedan igen allteftersom datumet närmar sig. [Ladda ner från App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 ## Scenario B: Du upptäckte det på flygplatsen
 
 Det här scenariot händer oftare än man tror, och stegen är inte självklara när du är under press.
@@ -141,6 +139,10 @@ Ja. Ett pass som inte har gått ut kan ändå nekas om det är skadat, om namnet
 ### Vad är sexmånadersregeln för pass?
 
 Många länder kräver att passet förblir giltigt minst sex månader efter det planerade ankomstdatumet. Om passet går ut tidigare än så – även om det tekniskt sett fortfarande är giltigt – kan du nekas ombordstigning eller inresa. Inte alla länder tillämpar regeln, och tröskeln varierar. Kontrollera kraven för ditt specifika resmål innan du reser.
+
+### Kan man förnya ett pass som har gått ut?
+
+Oftast ja. I Storbritannien säger GOV.UK att du måste förnya innan du reser om passet har gått ut, och du kan göra det online eller på en pappersblankett med ditt gamla pass som underlag. I USA och Kanada beror det också på när passet utfärdades och hur gammal du var då.
 
 ## Relaterade artiklar
 

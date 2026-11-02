@@ -64,8 +64,6 @@ Tabel ini hanyalah gambaran sekilas, bukan gambaran lengkap: persyaratan juga be
 
 Persyaratan masa berlaku paspor per negara bisa berubah tanpa pemberitahuan, dan perjanjian bilateral bisa diam-diam mengubah aturan untuk paspor Anda secara spesifik. Itulah sebabnya memeriksa sumber resmi terbaru sebelum setiap perjalanan internasional bukanlah sikap berlebihan, melainkan sekadar kebiasaan baik: gunakan IATA Travel Centre, sistem yang sama yang digunakan maskapai untuk memeriksa dokumen penumpang secara real-time.
 
-**Travel Document Vault** memeriksa paspor yang ditautkan menggunakan batas tambahan default 180 hari setelah perjalanan yang Anda simpan berakhir, kecuali jika Anda menetapkan batas masa berlaku khusus. Periksa aturan sebenarnya dari negara tujuan secara terpisah. Fitur ini memerlukan Pro. [Unduh di App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) dan [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog).
-
 ## Kapan Aturan 6 Bulan Tidak Berlaku
 
 Banyak destinasi tidak mensyaratkan apa pun di luar tanggal perjalanan Anda. Kantor Luar Negeri Inggris menyampaikannya dengan jelas untuk Jepang: paspor Anda harus berlaku selama masa kunjungan Anda, dan tidak diperlukan masa berlaku tambahan. Australia dan Amerika Serikat menerapkan standar yang sama, hanya mensyaratkan paspor Anda tetap berlaku selama masa kunjungan yang Anda rencanakan.
@@ -161,6 +159,10 @@ Ini sepenuhnya bergantung ke mana Anda pergi. Jepang, Australia, dan Amerika Ser
 ### Apakah aturan 6 bulan berlaku jika saya hanya transit melalui suatu negara?
 
 Seringkali, ya, dan inilah langkah yang sering dilupakan orang. Kantor Luar Negeri Inggris mencatat dalam nasihat perjalanannya untuk Australia maupun Amerika Serikat bahwa jika Anda transit melalui negara lain di tengah perjalanan, Anda juga perlu memenuhi persyaratan masuk negara tersebut, dan banyak di antaranya mensyaratkan enam bulan. Destinasi yang sama bisa memiliki persyaratan dokumen berbeda antara penerbangan langsung dan penerbangan dengan satu kali transit.
+
+### Apakah ada negara yang menambah masa berlaku paspor enam bulan setelah paspor kedaluwarsa?
+
+Tidak ada negara yang menambah masa berlaku paspor Anda. Daftar yang biasanya dimaksud orang diterbitkan oleh Badan Bea dan Perlindungan Perbatasan Amerika Serikat (US Customs and Border Protection): warga dari negara-negara yang tercantum di dalamnya dikecualikan dari persyaratan masa berlaku enam bulan AS dan hanya memerlukan paspor yang berlaku selama masa tinggal yang direncanakan. Daftar itu hanya mencakup izin masuk ke Amerika Serikat, bukan ke negara lain.
 
 ## Artikel Terkait
 

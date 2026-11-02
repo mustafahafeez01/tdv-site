@@ -72,7 +72,7 @@ Programmées localement sur votre appareil. Je ne connais pas vos dates d'expira
 
 Aucun serveur Travel Document Vault ne stocke vos documents. Il n'y a rien à trouver.
 
-[Lisez l'histoire du fondateur : Pourquoi j'ai créé une application pour porter une chose de moins dans ma tête →](https://traveldocumentvault.com/fr/blog/)
+[Lisez l'histoire du fondateur : Pourquoi j'ai créé une application pour porter une chose de moins dans ma tête →](https://traveldocumentvault.com/fr/blog/why-i-built-travel-document-vault/)
 
 ## Prêts Quand Vous en Avez Besoin
 
@@ -80,31 +80,25 @@ Aucun serveur Travel Document Vault ne stocke vos documents. Il n'y a rien à tr
 - **Remplir des Formulaires :** Numéros de passeport, détails d'identité, informations d'assurance. Toujours à portée de main.
 - **Demandes de Visa :** Exportez les images de document au format PDF pour l'impression ou le partage. Examinez et ajustez les images avant l'exportation.
 
+Avec Pro
+
 ## Planifiez les voyages, suivez les franchises, synchronisez vers votre propre cloud
 
 Conçu pour les familles qui voyagent partout.
 
 ### Tous Prêts, D'un Coup d'Oeil
 
-Pro
-
 Feu tricolore de disponibilité familiale. Voyez quels documents associés nécessitent votre attention en fonction des dates de voyage enregistrées.
 
 ### Votre Cloud. Votre Clé.
-
-Pro
 
 Sauvegarde chiffrée dans votre iCloud ou Google Drive. Vous détenez le code de récupération. Nous ne le voyons jamais.
 
 ### Suivez les Jours Hors du Pays
 
-Pro
-
 Enregistrez les jours que votre famille passe dans chaque pays. Comparez les jours de voyage enregistrés aux limites de jours par pays que vous saisissez.
 
 ### Profils Illimités pour la Famille
-
-Pro
 
 Ajoutez un profil pour chaque membre de la famille. La version gratuite inclut 1 profil. Pro ajoute des profils familiaux illimités.
 
@@ -193,16 +187,18 @@ Meilleure Valeur
 
 ### Pro
 
-Achat unique
+$9.99, achat unique
 
 Pour toute la famille. Un paiement. Mises à jour v1.x incluses à jamais.
+
+USD. Le prix de votre pays est fixé localement plutôt que converti depuis le dollar, et l'App Store ou Google Play l'affiche avant que vous ne payiez.
 
 [Notre politique de version →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
 - Planificateur de voyage avec feu tricolore de disponibilité familiale
 - Sauvegarde Votre Cloud (iCloud ou Google Drive, chiffrement de bout en bout)
 - Suivi des jours à l'étranger pour jours fiscaux et limites de visa
-- Franchises de voyage — Détaxe, bagages, devises
+- Limites de jours par pays pour chaque membre de la famille
 - Chaque membre de la famille, un coffre-fort
 - Documents **Illimités**
 - Tableau de bord d'expiration familial complet
@@ -215,7 +211,7 @@ Pour toute la famille. Un paiement. Mises à jour v1.x incluses à jamais.
 
 Tout le nécessaire pour voyager en solo
 
-Gratuit
+$0
 
 - Passeports, visas, pièces d'identité et plus
 - Scannez les documents et confirmez les dates d’expiration lues
@@ -234,7 +230,11 @@ Pour les familles
 
 Déverrouillez le coffre-fort complet pour votre famille
 
-Achat unique paiement unique Pour toute la famille. Un paiement. Mises à jour v1.x incluses à jamais.
+$9.99 une seule fois
+
+USD. Le prix de votre pays est fixé localement plutôt que converti depuis le dollar, et l'App Store ou Google Play l'affiche avant que vous ne payiez.
+
+Pour toute la famille. Un paiement. Mises à jour v1.x incluses à jamais.
 
 [Notre politique de version →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -243,7 +243,7 @@ Tout en Gratuit, plus :
 - Planificateur de voyage avec feu tricolore de disponibilité familiale
 - Sauvegarde Votre Cloud (iCloud ou Google Drive, chiffrement de bout en bout)
 - Suivi des jours à l'étranger pour les limites fiscales et de visa
-- Franchises de voyage — détaxe, bagages, devises
+- Limites de jours par pays pour chaque membre de la famille
 - Chaque membre de la famille, un coffre-fort
 - Documents **Illimités**
 - Tableau de bord d'expiration familial complet

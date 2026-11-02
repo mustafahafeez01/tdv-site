@@ -90,8 +90,6 @@ Questo si applica indipendentemente dal fatto che il suo passaporto sia scaduto 
 
 [Se il suo passaporto è già scaduto e sta cercando cosa fare dopo, il nostro articolo correlato copre questo passo dopo passo](https://traveldocumentvault.com/it/blog/passport-expired-what-to-do/). Se ha un viaggio in arrivo e il suo passaporto si avvicina alla scadenza, questo è il momento di rinnovare piuttosto che attendere fino a quando non scade, il che significa pagare il servizio Premium invece della tariffa standard. Controlli i passaporti della sua famiglia ora prima di prenotare qualsiasi viaggio.
 
-**Imposti promemoria di scadenza mesi in anticipo, non settimane.** [Travel Document Vault tiene traccia della scadenza del suo passaporto e invia promemoria a partire da otto mesi prima per impostazione predefinita, e di nuovo man mano che si avvicina](https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/). Aggiunga ogni passaporto della famiglia con Pro. Usi i promemoria per pianificare i rinnovi.
-
 ## Se è già all'estero e il suo passaporto scade
 
 Questo è lo scenario genuinamente difficile. Se sta viaggiando e il suo passaporto scade prima del suo ritorno, non può imbarcarsi su un volo o un traghetto per tornare a casa. Avrà bisogno di contattare l'ambasciata o il consolato britannico più vicino per un documento di viaggio d'emergenza — a volte chiamato ETD o passaporto d'emergenza — che è valido solo per tornare a casa.
@@ -130,9 +128,13 @@ Non attraverso il percorso standard dell'Ufficio passaporti del Regno Unito. Se 
 
 No, ma comunque non può viaggiare con esso. Un passaporto danneggiato può essere rifiutato dalle compagnie aeree o dal controllo alle frontiere anche se non è ancora scaduto. Se il suo passaporto è strappato, danneggiato dall'acqua, o ha segni significativi sulla pagina dati, è più sicuro rinnovarlo piuttosto che rischiare di essere rifiutato per l'imbarco o l'ingresso.
 
-### Può rinnovare un passaporto del Regno Unito già scaduto?
+### Posso rinnovare un passaporto del Regno Unito già scaduto?
 
 Sì. GOV.UK elenca il passaporto scaduto come motivo per rinnovare prima di viaggiare, quindi la maggior parte delle persone utilizza il normale servizio di rinnovo per adulti. L'eccezione è un passaporto rilasciato prima del 1° gennaio 1994, nel qual caso deve fare domanda per un primo passaporto da adulto. Il nuovo passaporto avrà un numero diverso, quindi aggiorni eventuali prenotazioni fatte con quello vecchio.
+
+### Si può prenotare una vacanza con un passaporto scaduto?
+
+Sì, nulla le impedisce di prenotare, perché nessuno controlla il passaporto al momento dell'acquisto. Deve però essere valido il giorno della partenza e GOV.UK consiglia di non prenotare prima di avere il nuovo passaporto, perché non avrà lo stesso numero di quello vecchio.
 
 ## Articoli correlati
 

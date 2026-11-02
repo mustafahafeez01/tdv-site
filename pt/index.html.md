@@ -40,7 +40,7 @@ Os documentos são encriptados no seu dispositivo com AES-256-GCM, utilizando ch
 
 ### A Sua Nuvem. A Sua Chave.
 
-A exportação e importação do cofre são gratuitas. Pro acrescenta cópia de segurança encriptada na nuvem para o seu próprio iCloud ou Google Drive. Restaure com o código de recuperação num telemóvel compatível na mesma plataforma, usando a mesma conta na nuvem. Não guardamos o código.
+A exportação e a importação do cofre são gratuitas. Pro acrescenta cópia de segurança encriptada na nuvem para o seu próprio iCloud ou Google Drive. Restaure com o código de recuperação num telemóvel compatível na mesma plataforma, usando a mesma conta na nuvem. Não guardamos o código.
 
 ### Lembretes Inteligentes
 
@@ -72,7 +72,7 @@ Agendados localmente no seu dispositivo. Não conheço as suas datas de expiraç
 
 Nenhum servidor Travel Document Vault guarda os seus documentos. Não há nada para encontrar.
 
-[Leia a história do fundador: Porque criei uma aplicação para ter uma preocupação a menos →](https://traveldocumentvault.com/pt/blog/)
+[Leia a história do fundador: Porque criei uma aplicação para ter uma preocupação a menos →](https://traveldocumentvault.com/pt/blog/why-i-built-travel-document-vault/)
 
 ## Prontos Quando Os Precisa
 
@@ -80,31 +80,25 @@ Nenhum servidor Travel Document Vault guarda os seus documentos. Não há nada p
 - **A Preencher Formulários:** Números de passaporte, detalhes de ID, informações de seguro. Sempre à mão.
 - **Pedidos de Visto:** Exporte imagens de documentos como PDFs para imprimir ou partilhar. Reveja e ajuste as imagens antes de exportar.
 
+Com Pro
+
 ## Planeie viagens, controle limites, sincronize para a sua própria nuvem
 
-Construída para famílias que viajam em qualquer lugar.
+Construída para famílias que viajam para todo o lado.
 
 ### Todos Prontos, Num Relance
-
-Pro
 
 Semáforo de preparação familiar. Veja quais os documentos associados que precisam de atenção face às datas de viagem guardadas.
 
 ### A Sua Nuvem. A Sua Chave.
 
-Pro
-
 Cópia de segurança criptografada no seu iCloud ou Google Drive. Você guarda o código de recuperação. Nunca o vemos.
 
 ### Rastreamento de Dias no Estrangeiro
 
-Pro
-
 Registe os dias passados em cada país por membro da família. Compare os dias das viagens guardadas com os limites por país que introduzir.
 
 ### Perfis Ilimitados da Família
-
-Pro
 
 Adicione um perfil para cada membro da família. A versão gratuita inclui 1 perfil. Pro acrescenta perfis familiares ilimitados.
 
@@ -192,9 +186,11 @@ Melhor Valor
 
 ### Pro
 
-Compra única
+$9.99, compra única
 
 Para toda a sua família. Pague uma vez. Todas as atualizações v1.x incluídas, para sempre.
+
+USD. O preço do seu país é definido localmente em vez de convertido a partir do dólar, e a App Store ou a Google Play mostra-o antes de pagar.
 
 [Sobre a nossa política de versão →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -210,7 +206,7 @@ Para toda a sua família. Pague uma vez. Todas as atualizações v1.x incluídas
 
 Tudo o que precisa para viajar a solo
 
-Gratuito
+$0
 
 - Passaportes, vistos, IDs e mais
 - Digitalize documentos e confirme as datas de validade detetadas
@@ -228,7 +224,11 @@ Para famílias
 
 Desbloqueie o cofre completo para a sua família
 
-Compra única uma vez Para toda a sua família. Pague uma vez. Todas as atualizações v1.x incluídas, para sempre.
+$9.99 compra única
+
+USD. O preço do seu país é definido localmente em vez de convertido a partir do dólar, e a App Store ou a Google Play mostra-o antes de pagar.
+
+Para toda a sua família. Pague uma vez. Todas as atualizações v1.x incluídas, para sempre.
 
 [Sobre a nossa política de versão →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -248,7 +248,7 @@ Restaure as compras a qualquer momento com a conta App Store ou Google Play que 
 
 ## Perguntas Frequentes
 
-É realmente privado? Sim. Tudo é armazenado 100% no seu dispositivo. Não temos acesso aos seus documentos e não existe nenhuma base de dados na nuvem. Não confie apenas na nossa palavra — [verifique você mesmo](https://traveldocumentvault.com/pt/privacy-verification/). E se perder o meu telemóvel? O seu cofre está armazenado no seu dispositivo. Se mudar de telemóvel, restaure usando a sua cópia de segurança habitual do telemóvel. [Ver todas as respostas sobre privacidade e dados](https://traveldocumentvault.com/pt/faq/)
+É realmente privado? Sim. Tudo é armazenado 100% no seu dispositivo. Não temos acesso aos seus documentos e não existe nenhuma base de dados na nuvem. Não confie apenas na nossa palavra — [verifique você mesmo](https://traveldocumentvault.com/pt/privacy-verification/). E se perder o meu telemóvel? O seu cofre está armazenado no seu dispositivo. Se mudar de telemóvel, restaure usando a sua cópia de segurança habitual do telemóvel. Posso sincronizar entre dispositivos? Sim. Com o Pro, ative a cópia de segurança na sua própria nuvem para sincronizar o cofre encriptado com o seu iCloud ou Google Drive. O código de recuperação fica consigo. Nunca acedemos aos seus dados. O que é o planeador de viagens? O planeador de viagens (Pro) agrupa os documentos da família por viagem e mostra um semáforo de preparação: verde quando as verificações configuradas passam, âmbar quando um documento associado precisa de revisão. Planeie viagens em conjunto, com confiança. [Ver todas as respostas sobre privacidade e dados](https://traveldocumentvault.com/pt/faq/)
 
 **Importante:** Travel Document Vault é uma ferramenta de organização pessoal para armazenar cópias digitais dos seus documentos. **As cópias digitais armazenadas nesta aplicação NÃO são válidas para viagens.** Não verifica a autenticidade de documentos nem fornece aconselhamento jurídico ou de viagem. Transporte sempre documentos originais e verifique todos os requisitos de viagem junto das fontes governamentais oficiais.
 

@@ -83,8 +83,6 @@ Source: https://traveldocumentvault.com/ja/blog/digital-passport-copy-valid/
 
 習慣を一つだけ見直すなら、メールで送ったPDFやカメラロールの写真を、暗号化アプリに置き換えてください。スマートフォンやメールアカウントが万が一侵害されたとき、手軽に残したコピーこそ、いちばん悪用されやすいからです。
 
-**Travel Document Vault**はすべてのデバイス上の旅行書類のすべての暗号化されたコピーを保存します。お使いのスマートフォンでAES-256で暗号化され、アカウントは不要です。オプションで、あなただけが保有する回復コードで保護された自分のiCloudまたはGoogle Drive（Pro）に暗号化されたバックアップがあります。[App Storeで利用可能です。](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 クラウドストレージがパスポートコピーに対して安全であるかどうか疑問に思っている場合は、[Google Photosにパスポートを保存する方法](https://traveldocumentvault.com/ja/blog/is-it-safe-to-store-passport-in-google-photos/)に関するガイドを参照してください。専用の暗号化アプリがより強力な保護を提供する理由について説明しています。
 
 まだコピーを作っていない場合は、チェックインカウンターや大使館の窓口で必要になる前に、今日のうちにパスポートの写真ページをスキャンしておきましょう。

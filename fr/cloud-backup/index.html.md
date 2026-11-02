@@ -64,7 +64,7 @@ Plusieurs couches de sécurité se dressent entre un appui accidentel et la pert
 
 **Réinitialiser et resynchroniser.** Si vos données locales et votre sauvegarde cloud se désynchronisent, utilisez Réinitialiser et resynchroniser pour envoyer une nouvelle copie de votre coffre.
 
-### ⚠ Votre code de récupération est critique
+### Votre code de récupération est critique
 
 Votre code de récupération déverrouille les clés de chiffrement cloud nécessaires pour restaurer votre sauvegarde. Nous ne pouvons pas le réinitialiser pour vous. Si vous perdez toutes les copies et l’accès à tous les appareils capables de déverrouiller encore le coffre, nous ne pouvons pas récupérer la sauvegarde chiffrée.
 
@@ -88,27 +88,27 @@ Vous êtes responsable du maintien de vos propres sauvegardes de documents et de
 
 ## Chiffrement et récupération
 
-#### AES-256-GCM
+### AES-256-GCM
 
 Chiffrement authentifié du contenu des documents.
 
-#### PBKDF2 600k itérations
+### PBKDF2 600k itérations
 
 Dérivation de clé coûteuse en calcul. Cela augmente le coût des tentatives pour deviner le code de récupération.
 
-#### Expansion de clé HKDF
+### Expansion de clé HKDF
 
 Des clés distinctes pour chaque fichier de sauvegarde ; la restauration rechiffre vos documents avec la clé propre au nouvel appareil. Un appareil autorisé ou un code de récupération compromis peut exposer le coffre cloud partagé.
 
-#### Conception sans connaissance
+### Conception sans connaissance
 
 Votre sauvegarde chiffrée reste dans votre propre compte cloud. Nous ne la recevons pas et ne détenons pas les clés nécessaires pour lire le contenu de ses documents.
 
-#### Ce qu'Apple voit
+### Ce qu'Apple voit
 
 Le contenu des documents est chiffré dans votre iCloud ou Google Drive. Les métadonnées de sauvegarde, comme les noms des appareils, les nombres d’éléments et les horodatages, ne sont pas chiffrées.
 
-#### Perte du code de récupération
+### Perte du code de récupération
 
 Si vous perdez toutes les copies de votre code de récupération et l’accès à tous les appareils capables de déverrouiller encore le coffre, nous ne pouvons pas déchiffrer vos sauvegardes. Nous ne détenons pas vos clés de chiffrement cloud.
 

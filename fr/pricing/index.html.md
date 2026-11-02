@@ -10,8 +10,6 @@ $9.99, une seule fois. Pas d'abonnement, pas de frais cachés, pas d'extraction 
 
 Prix en dollars américains. Nous fixons le prix de chaque pays localement plutôt que de le convertir depuis le dollar, et l'App Store ou Google Play affiche votre prix avant que vous ne payiez.
 
-Nous n'avons pas de serveurs qui conservent ou peuvent lire vos documents. Vos fichiers de documents restent sur votre appareil, sauf si vous les partagez ou les exportez, ou activez la sauvegarde chiffrée (Pro). C'est pourquoi nous pouvons offrir un prix unique au lieu d'abonnements sans fin.
-
 ## Choisissez Votre Plan
 
 ### Gratuit
@@ -37,12 +35,14 @@ $9.99, achat unique
 
 Pour toute la famille. Un paiement. Mises à jour v1.x incluses à jamais.
 
+USD. Le prix de votre pays est fixé localement plutôt que converti depuis le dollar, et l'App Store ou Google Play l'affiche avant que vous ne payiez.
+
 [Notre politique de version →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
 - Planificateur de voyage : feu tricolore de disponibilité familiale
 - Sauvegarde sur votre cloud (iCloud ou Google Drive, chiffrée de bout en bout)
 - Jours à l'étranger : suivi des limites de visa et fiscales
-- Allocations de limites par pays par membre de la famille
+- Limites de jours par pays pour chaque membre de la famille
 - Chaque membre de la famille, un coffre-fort
 - **Documents** illimités
 - Tableau de bord complet d'expiration familiale
@@ -55,7 +55,7 @@ Pour toute la famille. Un paiement. Mises à jour v1.x incluses à jamais.
 
 Tout le nécessaire pour voyager seul
 
-Gratuit
+$0
 
 - Passeports, visas, pièces d'identité et plus
 - Scannez les documents et confirmez les dates d’expiration lues
@@ -87,7 +87,7 @@ Tout en Gratuit, plus :
 - Planificateur de voyage : feu tricolore de disponibilité familiale
 - Sauvegarde sur votre cloud (iCloud ou Google Drive, chiffrée de bout en bout)
 - Jours à l'étranger : suivi des limites de visa et fiscales
-- Allocations de limites par pays par membre de la famille
+- Limites de jours par pays pour chaque membre de la famille
 - Chaque membre de la famille, un coffre-fort
 - **Documents** illimités
 - Tableau de bord complet d'expiration familiale
@@ -102,7 +102,7 @@ Disponibilité des voyages, visas et calcul des jours fiscaux : à titre informa
 
 ## Pourquoi Achat Unique et Pas Abonnement ?
 
-Pro est un achat unique. Nous n’avons pas de serveurs qui conservent ou lisent vos documents. Vos fichiers de documents restent sur votre appareil, sauf si vous les partagez ou les exportez, ou activez la sauvegarde chiffrée sur votre propre cloud (Pro). Pro n’entraîne aucun abonnement récurrent.
+Pro est un achat unique. Nous n’avons pas de serveurs qui conservent ou lisent vos documents. Vos fichiers de documents restent sur votre appareil, sauf si vous les partagez, les exportez ou activez la sauvegarde chiffrée sur votre propre cloud (Pro). C’est pourquoi nous pouvons proposer un prix unique plutôt que des abonnements sans fin. Pro n’entraîne aucun abonnement récurrent.
 
 Un prix unique est juste, durable et honnête. Vous payez une fois. Nous arrêtons de demander.
 

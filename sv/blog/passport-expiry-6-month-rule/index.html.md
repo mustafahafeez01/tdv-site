@@ -64,8 +64,6 @@ Tabellen är en ögonblicksbild, inte den fullständiga bilden: kraven varierar 
 
 Passkrav per land ändras utan förvarning, och ett bilateralt avtal kan i tysthet ändra reglerna för just ditt pass, vilket är varför det inte är överdrivet försiktigt att kontrollera en aktuell officiell källa inför varje internationell resa – det är bara god vana: använd IATA Travel Centre, samma system flygbolagen använder för att kontrollera resenärers handlingar i realtid.
 
-**Travel Document Vault** kontrollerar med Pro länkade pass mot en standardmarginal på 180 dagar efter den sparade resans slut, om du inte anger en egen giltighetsmarginal. Kontrollera destinationens faktiska regel separat. [Ladda ner på App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) och [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog).
-
 ## När 6-månadersregeln inte gäller
 
 Många resmål kräver inget utöver resans datum. Brittiska utrikesdepartementet är tydligt när det gäller Japan: passet måste vara giltigt under hela vistelsen, och ingen ytterligare giltighetstid krävs. Australien och USA tillämpar samma standard och kräver bara att passet är giltigt under den planerade vistelsen.
@@ -161,6 +159,10 @@ Det beror helt på vart du ska. Japan, Australien och USA kräver bara att passe
 ### Gäller 6-månadersregeln även om jag bara reser i transit genom ett land?
 
 Ofta ja, och det är steget folk glömmer. Utrikesdepartementet påpekar i både sina råd om Australien och USA att om du reser via ett annat land på vägen måste du också uppfylla det landets inresekrav, och många av dem kräver sex månader. Samma resmål kan ha olika dokumentkrav på en direktflight jämfört med en flight med mellanlandning.
+
+### Finns det länder som förlänger passets giltighet med sex månader efter att det gått ut?
+
+Inget land lägger till tid på ditt pass. Listan folk oftast menar publiceras av US Customs and Border Protection: medborgare i länderna på listan är undantagna från USA:s krav på sex månaders giltighet och behöver bara ett pass som är giltigt under den planerade vistelsen. Den gäller inresa till USA och ingenting annat.
 
 ## Relaterade artiklar
 

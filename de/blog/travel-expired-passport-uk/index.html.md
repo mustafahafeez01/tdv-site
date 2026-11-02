@@ -90,8 +90,6 @@ Dies gilt, unabhängig davon, ob Ihr Pass vor Ihrer Abreise aus der UK oder wäh
 
 [Wenn Ihr Pass bereits abgelaufen ist und Sie suchen, was Sie als Nächstes tun können, behandelt unser Begleitartikel das Schritt für Schritt](https://traveldocumentvault.com/de/blog/passport-expired-what-to-do/). Wenn Sie eine Reise planen und Ihr Pass dem Ablaufdatum näher kommt, ist jetzt der Moment zu erneuern, anstatt zu warten, bis es abläuft, was bedeutet, für den Premium-Service zu bezahlen, anstatt für die Standardgebühr. Überprüfen Sie die Pässe Ihrer Familie jetzt, bevor Sie eine Reise buchen.
 
-**Stellen Sie Ablauferinnerungen Monate im Voraus ein, nicht Wochen.** [Travel Document Vault verfolgt Ihr Pass-Ablaufdatum und sendet standardmäßig Erinnerungen ab acht Monaten vorher, dann erneut, je näher der Ablauf rückt](https://traveldocumentvault.com/de/blog/passport-expiry-6-month-rule/). Fügen Sie mit Pro jeden Reisepass Ihres Haushalts hinzu. Nutzen Sie die Erinnerungen, um Erneuerungen zu planen.
-
 ## Wenn Sie bereits im Ausland sind und Ihr Pass abläuft
 
 Dies ist das wirklich schwierige Szenario. Wenn Sie reisen und Ihr Pass vor Ihrer Rückkehr abläuft, können Sie keinen Flug oder eine Fähre nach Hause besteigen. Sie müssen die nächste britische Botschaft oder Konsulat für ein Notfalltravelsdokument kontaktieren – manchmal ein ETD oder Notfallpass genannt – das nur zum Heimkommen gültig ist.
@@ -112,11 +110,11 @@ Am einfachsten vermeiden Sie das alles so: Holen Sie heute Ihren Pass hervor und
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 
-## Häufig Gestellte Fragen
+## Häufig gestellte Fragen
 
-### Kann ich mit einem abgelaufenem Pass reisen, wenn ich ein Visum habe?
+### Kann ich mit einem abgelaufenen Pass reisen, wenn ich ein Visum habe?
 
-Nein. Ihr Visum ist an Ihren Pass angebracht und nur gültig, wenn der Pass selbst gültig ist. Wenn Ihr Pass abgelaufen ist, wird das Visum ungültig, unabhängig von seinem eigenen Ablaufdatum. Sie können einen abgelaufenen Pass auch nicht mit einem gültigen Visum nutzen.
+Nein. Ihr Visum ist mit Ihrem Pass verknüpft und nur gültig, wenn der Pass selbst gültig ist. Wenn Ihr Pass abgelaufen ist, wird das Visum ungültig, unabhängig von seinem eigenen Ablaufdatum. Sie können einen abgelaufenen Pass auch nicht mit einem gültigen Visum nutzen.
 
 ### Was ist mit EU-Reisen, sobald ETIAS startet?
 
@@ -124,7 +122,7 @@ Nein. Ihr Visum ist an Ihren Pass angebracht und nur gültig, wenn der Pass selb
 
 ### Kann ich die Noterneuerung beantragen, während ich im Ausland bin?
 
-Nicht über die standardmäßige UK Passport Office Route. Wenn Sie im Ausland sind und Ihr Pass abläuft, müssen Sie die nächste britische Botschaft oder Konsulat kontaktieren. Sie handhaben Notfalltravelsdokumente, nicht das Hauptpassamt.
+Nicht über den regulären Weg des UK Passport Office. Wenn Sie im Ausland sind und Ihr Pass abläuft, wenden Sie sich an die nächste britische Botschaft oder das nächste Konsulat. Dort werden Notreisedokumente ausgestellt, nicht im Passamt selbst.
 
 ### Zählt ein beschädigter Pass als abgelaufen?
 
@@ -133,6 +131,10 @@ Nein, aber Sie können trotzdem nicht damit reisen. Ein beschädigter Pass kann 
 ### Kann ich einen bereits abgelaufenen britischen Pass erneuern?
 
 Ja. GOV.UK führt einen abgelaufenen Pass als Grund auf, vor der Reise zu erneuern, weshalb die meisten Menschen den regulären Erneuerungsservice für Erwachsene nutzen. Die Ausnahme ist ein Pass, der vor dem 1. Januar 1994 ausgestellt wurde – dafür ist stattdessen ein Antrag auf einen ersten Erwachsenenpass nötig. Ihr neuer Pass hat eine andere Nummer, aktualisieren Sie also alle Buchungen, die mit der alten Nummer gemacht wurden.
+
+### Kann man mit einem abgelaufenen Pass einen Urlaub buchen?
+
+Ja, der Buchung steht nichts entgegen, denn beim Kauf prüft niemand den Pass. Er muss allerdings am Reisetag gültig sein, und GOV.UK rät davon ab, zu buchen, bevor Sie den neuen Pass in der Hand haben, weil er nicht dieselbe Nummer wie der alte hat.
 
 ## Verwandte Artikel
 

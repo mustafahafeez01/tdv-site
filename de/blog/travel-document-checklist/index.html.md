@@ -95,21 +95,19 @@ Halten Sie diese in Ihrem Handgepäck jederzeit bei sich – legen Sie sie nicht
 
 Bevor Sie das Haus verlassen, machen Sie ein Foto von jedem Dokument und speichern Sie es in einer verschlüsselten App – nicht Ihrer Kamerarolle. Falls Ihre Tasche verloren geht oder gestohlen wird, Sie möchten Ihre Passnummer, Versicherungspolice-Nummer und Buchungsreferenzen irgendwo, wo Sie sie noch auf einer Botschaft oder Polizeistation erreichen können. Ein sicherer digitaler Sicherung spart Stunden, wenn Sie versuchen, Hilfe zu bekommen.
 
-**Travel Document Vault** speichert verschlüsselte Kopien Ihrer Reisedokumente. Scannen Sie jedes Dokument und bestätigen Sie sein Ablaufdatum oder geben Sie es ein, um automatische Erinnerungen zu erhalten. Mit Pro können Sie mehr als fünf Dokumente speichern und nach Familienmitglied organisieren. [Im App Store herunterladen.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 ## Wie sich Ihre Dokumentenliste je nach Reisetyp ändert
 
 Verschiedene Reisen benötigen verschiedene Dokumentensätze, wie die Tabelle unten für Alleinreisende, Familien und Geschäftsreisende zeigt.
 
 | Dokument | Solo | Familie | Geschäftlich | Notizen |
 |---|---|---|---|---|
-| Reisepass | ✅ | ✅ jedes Mitglied | ✅ | Überprüfen Sie die Gültigkeit gegen Zielort, nicht nur Ablaufdatum |
-| Visum (falls erforderlich) | ✅ | ✅ jedes Mitglied | ✅ Firma | Geschäftlich: bestätigen Sie, dass Visum im korrekten Pass ist |
-| Reiseversicherung | ✅ | ✅ alle versichert | ✅ überprüfen Sie Arbeitgebervollmacht | Überprüfen Sie Versicherungsabdeckung vor jeder Reise, nicht nur beim Kauf |
-| Buchungsbestätigungen | ✅ | ✅ | ✅ | Offline-Kopie (verlassen Sie sich nicht auf E-Mail-Zugang an Grenzen) |
-| Kindereinverständniserklärung | N/A | ✅ falls zutreffend | N/A | In vielen Ländern erforderlich, wenn ein Elternteil abwesend |
-| Geburtsurkunden | N/A | ✅ falls erforderlich | N/A | Einige Länder verlangen für Kinder unter 18 Jahren |
-| Arbeitserlaubnisschreiben | N/A | N/A | ✅ falls erforderlich | Einige Länder benötigen Arbeitgeberschreiben für Geschäftsreisende |
+| Reisepass | | jedes Mitglied | | Überprüfen Sie die Gültigkeit gegen Zielort, nicht nur Ablaufdatum |
+| Visum (falls erforderlich) | | jedes Mitglied | Firma | Geschäftlich: bestätigen Sie, dass Visum im korrekten Pass ist |
+| Reiseversicherung | | alle versichert | überprüfen Sie Arbeitgebervollmacht | Überprüfen Sie Versicherungsabdeckung vor jeder Reise, nicht nur beim Kauf |
+| Buchungsbestätigungen | | | | Offline-Kopie (verlassen Sie sich nicht auf E-Mail-Zugang an Grenzen) |
+| Kindereinverständniserklärung | N/A | falls zutreffend | N/A | In vielen Ländern erforderlich, wenn ein Elternteil abwesend |
+| Geburtsurkunden | N/A | falls erforderlich | N/A | Einige Länder verlangen für Kinder unter 18 Jahren |
+| Arbeitserlaubnisschreiben | N/A | N/A | falls erforderlich | Einige Länder benötigen Arbeitgeberschreiben für Geschäftsreisende |
 
 Ist eine Reise bereits gebucht, lohnt sich heute vor allem eines: Holen Sie jeden beteiligten Reisepass hervor und prüfen Sie sein Ablaufdatum gegen die Anforderung des Reiseziels, nicht nur gegen Ihre Reisedaten.
 

@@ -40,7 +40,7 @@ Dokumen dienkripsi di perangkat Anda dengan AES-256-GCM, menggunakan kunci yang 
 
 ### Cloud Anda. Kunci Anda.
 
-Ekspor dan impor vault gratis. Pro menambahkan cadangan cloud terenkripsi ke iCloud atau Google Drive Anda sendiri. Pulihkan dengan kode pemulihan di ponsel yang kompatibel pada platform yang sama, menggunakan akun cloud yang sama. Kami tidak memegang kode Anda.
+Ekspor dan impor brankas gratis. Pro menambahkan cadangan cloud terenkripsi ke iCloud atau Google Drive Anda sendiri. Pulihkan dengan kode pemulihan di ponsel yang kompatibel pada platform yang sama, menggunakan akun cloud yang sama. Kami tidak memegang kode Anda.
 
 ### Pengingat Pintar
 
@@ -72,7 +72,7 @@ Dijadwalkan secara lokal di perangkat Anda. Saya tidak tahu tanggal kedaluwarsa 
 
 Tidak ada server Travel Document Vault yang menyimpan dokumen Anda. Tidak ada yang perlu ditemukan.
 
-[Baca cerita pendiri: Mengapa saya membuat aplikasi untuk membawa satu hal lebih sedikit di kepala saya →](https://traveldocumentvault.com/id/blog/)
+[Baca cerita pendiri: Mengapa saya membuat aplikasi untuk membawa satu hal lebih sedikit di kepala saya →](https://traveldocumentvault.com/id/blog/why-i-built-travel-document-vault/)
 
 ## Siap Saat Anda Membutuhkannya
 
@@ -80,13 +80,13 @@ Tidak ada server Travel Document Vault yang menyimpan dokumen Anda. Tidak ada ya
 - **Mengisi Formulir:** Nomor paspor, detail KTP, informasi asuransi. Selalu di ujung jari Anda.
 - **Aplikasi Visa:** Ekspor gambar dokumen sebagai PDF untuk dicetak atau dibagikan. Tinjau dan sesuaikan gambar sebelum diekspor.
 
+Dengan Pro
+
 ## Rencanakan perjalanan, lacak kuota, sinkronkan ke cloud Anda sendiri
 
 Dibangun untuk keluarga yang bepergian di mana saja.
 
 ### Semua Siap, Sekilas Pandang
-
-Pro
 
 Lampu lalu lintas kesiapan keluarga. Lihat dokumen tertaut yang perlu diperhatikan berdasarkan tanggal perjalanan yang tersimpan.
 
@@ -98,9 +98,9 @@ Cadangan terenkripsi di iCloud atau Google Drive Anda. Anda memegang kode pemuli
 
 Catat hari yang dihabiskan di negara mana pun per anggota keluarga. Bandingkan hari perjalanan yang tersimpan dengan batas hari per negara yang Anda masukkan.
 
-### Bea Bebas Tanpa Matematika
+### Profil Keluarga Tanpa Batas
 
-Melacak kuota bea bebas per anggota keluarga per perjalanan. Tidak pernah lagi ragu tentang batas barang atau mata uang.
+Tambahkan profil untuk setiap anggota keluarga. Versi gratis mencakup 1 profil. Pro menambahkan profil keluarga tanpa batas.
 
 ## Untuk Perjalanan. Untuk Kehidupan. Untuk Segala Hal Penting.
 
@@ -187,13 +187,15 @@ Nilai Terbaik
 
 ### Pro
 
-Sekali bayar
+$9.99 satu kali
 
 Untuk seluruh keluarga Anda. Bayar sekali. Semua pembaruan v1.x disertakan, selamanya.
 
+Harga dalam dolar AS. Kami menetapkan harga masing-masing negara secara lokal, bukan dengan mengonversi dari dolar, dan App Store atau Google Play akan menampilkan harga Anda sebelum Anda membayar.
+
 [Tentang kebijakan versi kami →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
-- Setiap anggota keluarga, satu lemari
+- Setiap anggota keluarga, satu brankas
 - **Dokumen** tak terbatas
 - Dasbor kedaluwarsa keluarga lengkap
 - Dokumen multi-halaman (hingga 10 halaman)
@@ -205,7 +207,7 @@ Untuk seluruh keluarga Anda. Bayar sekali. Semua pembaruan v1.x disertakan, sela
 
 Semua yang Anda butuhkan untuk perjalanan solo
 
-Gratis
+$0
 
 - Paspor, visa, KTP & lainnya
 - Pindai dokumen dan konfirmasi tanggal kedaluwarsa yang terdeteksi
@@ -222,9 +224,13 @@ Untuk keluarga
 
 ### Pro
 
-Buka lemari penuh untuk keluarga Anda
+Buka brankas lengkap untuk keluarga Anda
 
-Sekali bayar sekali Untuk seluruh keluarga Anda. Bayar sekali. Semua pembaruan v1.x disertakan, selamanya.
+$9.99 satu kali
+
+Harga dalam dolar AS. Kami menetapkan harga masing-masing negara secara lokal, bukan dengan mengonversi dari dolar, dan App Store atau Google Play akan menampilkan harga Anda sebelum Anda membayar.
+
+Untuk seluruh keluarga Anda. Bayar sekali. Semua pembaruan v1.x disertakan, selamanya.
 
 [Tentang kebijakan versi kami →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -233,8 +239,8 @@ Semua yang gratis, plus:
 - Perencana perjalanan dengan lampu lalu lintas kesiapan keluarga
 - Cloud Anda - Cadangan terenkripsi (iCloud atau Google Drive, enkripsi ujung ke ujung)
 - Pelacak hari di luar negeri untuk hari pajak dan batas visa
-- Tunjangan perjalanan - Bea bebas, bagasi, mata uang
-- Setiap anggota keluarga, satu lemari
+- Batas hari per negara untuk setiap anggota keluarga
+- Setiap anggota keluarga, satu brankas
 - **Dokumen** tak terbatas
 - Dasbor kedaluwarsa keluarga lengkap
 - Dokumen multi-halaman (hingga 10 halaman)
@@ -248,7 +254,7 @@ Pulihkan pembelian kapan saja dengan akun App Store atau Google Play tempat Anda
 
 ## Pertanyaan Umum
 
-Apakah benar-benar pribadi? Ya. Secara default, semuanya disimpan hanya di perangkat Anda. Kami tidak memiliki server yang menyimpan dokumen Anda dan tidak memiliki akses ke dokumen tersebut. Jika Anda mengaktifkan cadangan opsional (Pro), vault terenkripsi disimpan di iCloud atau Google Drive Anda sendiri, disegel dengan kode pemulihan yang hanya Anda pegang. Kami tetap tidak bisa membacanya. Apple dan Google juga tidak bisa. Jangan hanya percaya pada kata-kata kami, [verifikasi sendiri](https://traveldocumentvault.com/id/privacy-verification/). Bagaimana jika saya kehilangan ponsel saya? Vault Anda dienkripsi di perangkat. Kunci lokal tetap di penyimpanan aman dan tidak disertakan dalam cadangan ponsel biasa. Ekspor vault menyertakan salinan kunci itu yang dienkripsi dengan kata sandi. Cadangan ponsel biasa menginstal ulang aplikasi tetapi tidak bisa memulihkan dokumen Anda. Cadangan cloud Pro dipulihkan dengan kode pemulihan Anda pada ponsel yang didukung di platform yang sama, menggunakan akun cloud yang sama. Atau gunakan ekspor dan impor vault gratis. Pemulihan atau impor menggantikan vault lokal. Bisakah saya menyinkronkan antar perangkat? Ya. Dengan Pro, Anda mengaktifkan Cloud Anda sendiri untuk menyinkronkan lemari Anda yang terenkripsi dengan iCloud atau Google Drive Anda. Anda memegang kode pemulihan. Kami tidak pernah mengakses data Anda. Apa itu Perencana Perjalanan? Perencana perjalanan (Pro) mengelompokkan dokumen keluarga berdasarkan perjalanan dan menampilkan lampu lalu lintas kesiapan - hijau saat pemeriksaan dokumen yang dikonfigurasi lolos, kuning saat dokumen tertaut perlu ditinjau. Rencanakan perjalanan bersama dengan percaya diri. [Lihat semua jawaban privasi dan data](https://traveldocumentvault.com/id/faq/)
+Apakah benar-benar pribadi? Ya. Secara default, semuanya disimpan hanya di perangkat Anda. Kami tidak memiliki server yang menyimpan dokumen Anda dan tidak memiliki akses ke dokumen tersebut. Jika Anda mengaktifkan cadangan opsional (Pro), vault terenkripsi disimpan di iCloud atau Google Drive Anda sendiri, disegel dengan kode pemulihan yang hanya Anda pegang. Kami tetap tidak bisa membacanya. Apple dan Google juga tidak bisa. Jangan hanya percaya pada kata-kata kami, [verifikasi sendiri](https://traveldocumentvault.com/id/privacy-verification/). Bagaimana jika saya kehilangan ponsel saya? Brankas Anda dienkripsi di perangkat. Kunci lokal tetap di penyimpanan aman dan tidak disertakan dalam cadangan ponsel biasa. File ekspor brankas menyertakan salinan kunci itu yang dienkripsi dengan kata sandi. Cadangan ponsel biasa menginstal ulang aplikasi tetapi tidak bisa memulihkan dokumen Anda. Cadangan cloud Pro dipulihkan dengan kode pemulihan Anda pada ponsel yang didukung di platform yang sama, menggunakan akun cloud yang sama. Atau gunakan ekspor dan impor brankas yang gratis. Pemulihan atau impor menggantikan brankas lokal. Bisakah saya menyinkronkan antar perangkat? Ya. Dengan Pro, Anda mengaktifkan Cloud Anda sendiri untuk menyinkronkan brankas Anda yang terenkripsi dengan iCloud atau Google Drive Anda. Anda memegang kode pemulihan. Kami tidak pernah mengakses data Anda. Apa itu Perencana Perjalanan? Perencana perjalanan (Pro) mengelompokkan dokumen keluarga berdasarkan perjalanan dan menampilkan lampu lalu lintas kesiapan - hijau saat pemeriksaan dokumen yang dikonfigurasi lolos, kuning saat dokumen tertaut perlu ditinjau. Rencanakan perjalanan bersama dengan percaya diri. [Lihat semua jawaban privasi dan data](https://traveldocumentvault.com/id/faq/)
 
 **Penting:** Travel Document Vault adalah alat organisasi pribadi untuk menyimpan salinan digital dokumen Anda. **Salinan digital yang disimpan dalam aplikasi ini TIDAK sah untuk perjalanan.** Ini tidak memverifikasi keaslian dokumen atau memberikan saran hukum atau perjalanan. Selalu bawa dokumen asli dan verifikasi semua persyaratan perjalanan dengan sumber pemerintah resmi.
 

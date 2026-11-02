@@ -34,8 +34,6 @@ Hvor akut du skal handle, afgør, hvad du skal gøre:
 
 Alle større pasmyndigheder holder nødtider tilbage, som ikke er synlige online. Hvis din tidsramme er stram, ville vi altid ringe frem for kun at stole på hjemmesiden.
 
-**Sæt påmindelsen nu**, så det aldrig sker igen – Travel Document Vault giver dig besked allerede fra otte måneder, før hvert pas i din husstand udløber, og igen efterhånden som datoen nærmer sig. [Hent fra App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 ## Scenarie B: Du opdagede det i lufthavnen
 
 Dette scenarie sker oftere, end folk forventer, og trinnene er ikke indlysende, når du er under pres.
@@ -141,6 +139,10 @@ Ja. Et pas, der ikke er udløbet, kan stadig blive afvist, hvis det er beskadige
 ### Hvad er 6-måneders-reglen for pas?
 
 Mange lande kræver, at dit pas forbliver gyldigt i mindst seks måneder efter din planlagte ankomstdato. Hvis dit pas udløber tidligere end det – selvom det teknisk set stadig er gyldigt – kan du blive nægtet boarding eller indrejse. Ikke alle lande håndhæver reglen, og grænsen varierer. Tjek kravene for din specifikke destination, før du rejser.
+
+### Kan man fornye et udløbet pas?
+
+Som regel ja. I Storbritannien oplyser GOV.UK, at du skal fornye passet, før du rejser, hvis det er udløbet, og du kan gøre det online eller på en papirblanket med dit gamle pas som dokumentation. I USA og Canada afhænger det også af, hvornår passet blev udstedt, og hvor gammel du var på det tidspunkt.
 
 ## Relaterede artikler
 

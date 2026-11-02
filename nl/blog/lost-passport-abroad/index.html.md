@@ -64,8 +64,6 @@ Wat je meestal nodig hebt (bevestig dit met je ambassade voordat je langsgaat):
 - Bewijs van doorreis - vluchtboeking, hotelbevestiging
 - Vergoeding voor het nooddocument - houd zowel contant geld als een kaart bij de hand
 
-**Travel Document Vault** bewaart een versleutelde kopie van je paspoort op je telefoon – toegankelijk zonder internet, zonder inloggen. De versleutelde afbeelding van de gegevenspagina van je paspoort is de digitale kopie op die lijst. [Download van de App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 ## Stap 5: Meld het bij je reisverzekeraar
 
 Meld het verlies zo snel mogelijk bij je reisverzekeraar. De meeste uitgebreide polissen dekken de kosten voor een nieuw paspoort, noodpaspoortkosten en soms extra verblijfskosten als je vertraging oploopt. Bewaar alle bonnetjes – je hebt ze nodig voor de claim, samen met het zaaknummer van het proces-verbaal.

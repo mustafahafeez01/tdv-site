@@ -68,8 +68,6 @@ Met al deze complexiteit in gedachten moet een goede app voor visumvervaldatums 
 - **Privacymodel:** Visumgegevens zijn gevoelige, aan identiteit gekoppelde data. Net als bij paspoortopslag is versleuteling op het toestel zonder cloud-upload de veiligste architectuur.
 - **Paspoort- en visumbeheer samen:** Een veelvoorkomende maar over het hoofd geziene fout is een geldig visum hebben maar een paspoort dat verloopt tijdens het geplande verblijf. Beide op dezelfde plek bijhouden voorkomt deze mismatch.
 
-**Travel Document Vault** houdt paspoort- en visumvervaldatums bij met aparte herinneringen voor elk document. Voeg meerdere reizigers toe met Pro. Je documenten blijven standaard versleuteld op je telefoon, zonder app-account. Je kunt kopieën delen of exporteren, of met Pro een back-up naar je eigen iCloud of Google Drive maken. [Gratis te downloaden in de App Store en op Google Play. Pro is een eenmalige aankoop zonder abonnement.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 ## Praktische stappen om je visum goed bij te houden
 
 1. **Noteer je inreisdatum op de dag dat je aankomt.** De klok voor je maximale verblijfsduur begint direct te lopen bij inreis, niet vanaf de afgifte van het visum of het begin van de geldigheidsperiode voor inreis.
@@ -108,9 +106,9 @@ Dat hangt af van het type visum. Voor langetermijnvisa die verlenging vereisen, 
 
 [Paspoortregels8 min leestijd · feb 2026De 6 maanden-paspoortregel: welke landen die hanteren en hoe je nooit voor verrassingen komt te staan](https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/)
 
-[Verlenging8 min leestijd · feb 2026How Long Does Passport Renewal Take? Current Times for US, UK, Australia, Canada & More](https://traveldocumentvault.com/nl/blog/how-long-does-passport-renewal-take/)
+[Verlenging8 min leestijd · feb 2026Hoe lang duurt een paspoortverlenging? (VS, VK, Australië, Canada)](https://traveldocumentvault.com/nl/blog/how-long-does-passport-renewal-take/)
 
-[Visa en inreizen8 min leestijd · mei 2026ETIAS: What Documents You Need and How to Apply](https://traveldocumentvault.com/nl/blog/etias-documents-2026/)
+[Visa en inreizen8 min leestijd · mei 2026ETIAS: welke documenten je nodig hebt en hoe je aanvraagt](https://traveldocumentvault.com/nl/blog/etias-documents-2026/)
 
 [Reistools7 min leestijd · jul 2026TripCase-alternatief: waarom je reisdocumenten offline moeten werken](https://traveldocumentvault.com/nl/blog/tripcase-alternative/)
 

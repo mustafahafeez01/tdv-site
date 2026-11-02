@@ -64,7 +64,7 @@ Meerdere beveiligingslagen staan tussen een onopzettelijke tap en verloren gegev
 
 **Opnieuw instellen en synchroniseren.** Als uw lokale gegevens en cloudback-up niet meer gelijklopen, gebruikt u Opnieuw instellen en synchroniseren om een nieuwe kopie van uw kluis te uploaden.
 
-### ⚠ Uw herstelcode is kritiek
+### Uw herstelcode is kritiek
 
 Uw herstelcode ontgrendelt de cloudversleutelingssleutels die nodig zijn om uw back-up te herstellen. Wij kunnen deze niet voor u resetten. Als u elke kopie en toegang tot elk apparaat dat de kluis nog kan ontgrendelen verliest, kunnen wij de versleutelde back-up niet herstellen.
 
@@ -88,27 +88,27 @@ U bent verantwoordelijk voor het onderhouden van uw eigen documentback-ups en vo
 
 ## Versleuteling en herstel
 
-#### AES-256-GCM
+### AES-256-GCM
 
 Geauthenticeerde versleuteling voor documentinhoud.
 
-#### PBKDF2 600k iteraties
+### PBKDF2 600k iteraties
 
 Sleutelafleiding die computationeel duur is. Dit verhoogt de kosten van het raden van de herstelcode.
 
-#### HKDF sleutelexpansie
+### HKDF sleutelexpansie
 
 Elk back-upbestand heeft afzonderlijke sleutels en bij herstel worden uw documenten opnieuw versleuteld met de eigen sleutel van het nieuwe apparaat. Een gecompromitteerd geautoriseerd apparaat of een gecompromitteerde herstelcode kan de gedeelde cloudkluis blootstellen.
 
-#### Zero-Knowledge-ontwerp
+### Zero-Knowledge-ontwerp
 
 Uw versleutelde back-up blijft in uw eigen cloudaccount. Wij ontvangen deze niet en bewaren niet de sleutels die nodig zijn om de documentinhoud te lezen.
 
-#### Wat Apple ziet
+### Wat Apple ziet
 
 De documentinhoud is versleuteld in uw iCloud of Google Drive. Back-upmetadata, zoals apparaatnamen, aantallen en tijdstempels, zijn niet versleuteld.
 
-#### Verlies van herstelcode
+### Verlies van herstelcode
 
 Als u elke kopie van uw herstelcode en toegang tot elk apparaat dat de kluis nog kan ontgrendelen verliest, kunnen wij uw back-ups niet ontsleutelen. Wij bewaren uw cloudversleutelingssleutels niet.
 

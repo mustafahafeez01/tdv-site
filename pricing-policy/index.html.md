@@ -1,6 +1,6 @@
 # Pricing Policy
 
-> Simple, honest pricing: $9.99 one-time in US dollars, with each country's price set locally. A free tier, no subscription, and no hidden fees.
+> One-time purchase, no subscription. Prices are set locally; the store shows your price before you pay.
 
 Source: https://traveldocumentvault.com/pricing-policy/
 
@@ -48,7 +48,7 @@ Everything in Free, plus:
 - **Unlimited profiles** - Add your whole family
 - **Unlimited documents** - Store everything
 - Trip planner with family readiness traffic light
-- Your Own Cloud backup (iCloud or Google Drive, end-to-end encrypted)
+- Cloud Backup (iCloud or Google Drive, end-to-end encrypted)
 - Days-abroad tracker for visa and tax day limits
 - Combined PDF export
 - Batch backup & restore
@@ -96,7 +96,7 @@ If we release a major new version (e.g., Travel Document Vault 2.0) with signifi
 - No pressure, no "your version is outdated" nags-just an optional upgrade when you're ready
 - Major version announcements will be posted on our website and in App Store release notes
 
-**Industry Standard:** Many premium apps use similar versioning models. This approach allows us to keep the initial price affordable while ensuring long-term sustainability to continue improving the app.
+**Industry Standard:** Many premium apps use similar versioning models. This approach lets us keep the initial purchase to a single, modest payment while still funding the work of improving the app for the long term.
 
 ## What Will Always Be Free
 
@@ -149,7 +149,7 @@ We reserve the right to adjust pricing for **new purchases** at any time. Price 
 - Features already purchased - no retroactive price increases
 - Free tier users - free features remain free
 
-If you purchase Pro at $9.99, that's your price forever (for v1.x). Even if we increase the price to $14.99 for new users tomorrow, your purchase is honored.
+If you purchase Pro at $9.99, that's your price forever (for v1.x). Even if we raise the price for new users tomorrow, your purchase is honored.
 
 ## Regional Pricing
 
@@ -169,7 +169,7 @@ We will **never** charge you for:
 - Bug fixes or security updates
 - Using features you already purchased
 - Accessing your own documents
-- Restoring your purchase on your own devices (same App Store or Google Play account); document syncing via Your Own Cloud backup
+- Restoring your purchase on your own devices (same App Store or Google Play account); document syncing via Cloud Backup
 - Customer support
 
 There are **no recurring or consumable in-app purchases**. The only purchase available today is the single Pro unlock. No coins, no premium currencies, no surprise charges. If a future major version (v2.0) is ever offered as a separate optional purchase, it will follow the Version Policy above.
@@ -179,7 +179,7 @@ There are **no recurring or consumable in-app purchases**. The only purchase ava
 We chose a one-time purchase model because:
 
 - **Simplicity** - No recurring billing to track or worry about
-- **Accessibility** - Affordable one-time cost, not ongoing expense
+- **Accessibility** - A single one-time purchase, not an ongoing expense
 - **Trust** - Your documents stay on your device, accessible regardless of payment status
 - **Alignment** - A document vault is something you set up once and use for years
 

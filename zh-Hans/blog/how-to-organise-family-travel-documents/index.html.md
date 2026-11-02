@@ -99,8 +99,6 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/how-to-organise-family-trav
 
 这三种方法中的任何一种都行得通，不过我们会默认选能自动发出提醒的那一种，因为电子表格只有在你记得打开它的时候才有用。最重要的是选择一种符合你已经如何操作的方式，并实际坚持它。
 
-**Travel Document Vault** 追踪已保存的到期日，护照提醒从到期前八个月开始。扫描每本护照并确认或输入到期日。通过 Pro 添加全家成员，将换发日期集中管理。[从 App Store 下载。](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 ## 行前文件检查表
 
 在预订时运行此检查表——不是在你离开前的晚上。这是给你足够的时间来解决任何需要修复的东西。

@@ -8,21 +8,21 @@ Source: https://traveldocumentvault.com/nl/privacy-verification/
 
 ## Onze privacygaranties
 
-### Nul trackers
+### Geen advertentietrackers
 
-Geen analytische SDK's, geen advertentiebiblioteken, geen trackingpixels in de app.
+Geen advertentienetwerken, geen gedragsanalyse en geen trackingpixels in de app. Optionele crashrapportage is gescheiden en staat uit totdat je die zelf inschakelt.
 
-### Geen uitgaande gegevensverzameling
+### Geen verzameling van documentgegevens
 
-De app doet geen uitgaande verbindingen standaard. Het werkt volledig offline. Het enige netwerkgebruik is optionele Pro cloud backup, die synchroniseert met je eigen iCloud of Google Drive – nooit naar onze servers.
+Je documenten, scans, vervaldatums en kluisinhoud worden niet naar Travel Document Vault gestuurd. Voor gewone opslag en herinneringen werkt de app volledig offline.
 
 ### Standaard op het apparaat
 
-Alle documenten, scans en gegevens blijven op je apparaat. Er is geen Travel Document Vault-cloud, geen Travel Document Vault-server, geen Travel Document Vault-backend. Pro-gebruikers kunnen hun versleutelde kluis optioneel back-uppen naar hun eigen iCloud- of Google Drive-account – alleen zij houden de herstelsleutel.
+Documenten blijven standaard op je apparaat. Er is geen Travel Document Vault-cloudaccount, geen documentserver en geen backend-database.
 
-### AES-256-GCM versleuteling
+### AES-256-GCM-versleuteling
 
-Elk document wordt versleuteld voordat het de opslag van je apparaat bereikt.
+De app versleutelt documentgegevens voordat ze in de lokale app-opslag worden opgeslagen. Pro-gebruikers kunnen optioneel een versleuteld kluisbestand backuppen naar hun eigen iCloud- of Google Drive-account: alleen zij hebben de herstelsleutel.
 
 ## Verificatie
 
@@ -34,15 +34,15 @@ Installeer een netwerkmonitor zoals **mitmproxy** (gratis, open source), **Wires
 
 Instellingen heeft een knop **Controleren op updates**. Deze controle staat standaard uit: ze wordt uitgevoerd wanneer je erop tikt, of eenmaal per appstart als je Controleer updates bij openen inschakelt. Een lopende download kan doorgaan nadat de app naar de achtergrond gaat. De controle neemt contact op met **updates.traveldocumentvault.com** – onze eigen updateserver, beheerd door ons op Google Cloud, die cryptografisch ondertekende updatebestanden van een opslagbucket levert. De updatehandler schrijft geen aanvraaglogboeken van de applicatie. Elke update is ondertekend met een sleutel die alleen wij hebben, en de app weigert alles waarvan de handtekening niet overeenkomt met het certificaat dat erin is ingebouwd. Dezelfde tik controleert ook of er een nieuwere versie van de app beschikbaar is in de **App Store** of op **Google Play**. Deze functie bestaat zodat bepaalde bugfixes je sneller kunnen bereiken dan wanneer je moet wachten op een volledig nieuwe release in de App Store of Google Play, handig bij dringende fixes, afhankelijk van de aard van de fix. Documentopslag heeft geen netwerk nodig; aankoopcontroles via de winkels en ingeschakelde optionele functies kunnen automatische netwerkverzoeken doen.
 
-### 2. iOS App Privacy Report
+### 2. iOS App-privacyrapport
 
-Ga op iPhone naar **Instellingen > Privacy en beveiliging > App Privacy Report**. Deze ingebouwde Apple-functie laat zien welke apps netwerkdomeinen hebben benaderd. Travel Document Vault stuurt je documenten, scans, vervaldata of kluisinhoud niet naar ons. Als je Pro cloud backup hebt ingeschakeld, zie je verbindingen met Apple's iCloud-domeinen – dat is je eigen backup die synchroniseert naar je eigen iCloud-account.
+Ga op iPhone naar **Instellingen > Privacy en beveiliging > App-privacyrapport**. Deze ingebouwde Apple-functie laat zien welke apps netwerkdomeinen hebben benaderd. Travel Document Vault stuurt je documenten, scans, vervaldata of kluisinhoud niet naar ons. Als je Cloud Backup (Pro) hebt ingeschakeld, zie je verbindingen met de iCloud-domeinen van Apple – dat is je eigen back-up die synchroniseert met je eigen iCloud-account.
 
 ### 3. Android – je privacy controleren
 
 Android heeft geen enkel ingebouwd privacyrapport zoals de iPhone. Twee simpele manieren om het zelf te controleren: bekijk de eigen **Data Safety**-sectie van deze app op de Google Play-pagina (deze geeft duidelijk aan wat er wordt verzameld, wat er wordt gedeeld, dat je gegevens versleuteld worden verzonden en dat ze niet kunnen worden verwijderd) – of gebruik een netwerkmonitor zoals beschreven bij stap 1 hierboven.
 
-Als je cloud backup hebt ingeschakeld, merk je mogelijk wat activiteit richting de servers van Google (webadressen die eindigen op **googleapis.com**). Deze verbindingen sturen je versleutelde kluisbestanden, inlogcontroles en onversleutelde back-upmetadata, zoals apparaatnaam, aantallen en tijdstempels, rechtstreeks naar **je eigen** Google Drive-account – hetzelfde account dat je al gebruikt voor foto's of Gmail. Wij zien het nooit, ontvangen het nooit en bewaren er nergens een kopie van. Alleen jij hebt de herstelsleutel die het kan ontgrendelen.
+Als je Cloud Backup hebt ingeschakeld, merk je mogelijk wat activiteit richting de servers van Google (webadressen die eindigen op **googleapis.com**). Deze verbindingen sturen je versleutelde kluisbestanden, inlogcontroles en onversleutelde back-upmetadata, zoals apparaatnaam, aantallen en tijdstempels, rechtstreeks naar **je eigen** Google Drive-account – hetzelfde account dat je al gebruikt voor foto's of Gmail. Wij zien het nooit, ontvangen het nooit en bewaren er nergens een kopie van. Alleen jij hebt de herstelsleutel die het kan ontgrendelen.
 
 ### 4. App Store en Play Store privacylabels
 
@@ -112,7 +112,7 @@ Android
 
 Android
 
-**Waarom deze verschijnen:** Ze zijn nodig voor netwerkafhankelijke functies: **Sentry-crashrapportage** (opt-in, standaard uitgeschakeld), **facturatie via App Store of Google Play** voor de aankoop van de Pro-upgrade, **Pro cloud backup** (optioneel), die je versleutelde kluis synchroniseert met je eigen iCloud of Google Drive, en de knop **Controleren op updates** in Instellingen (wordt uitgevoerd wanneer je erop tikt, of bij het openen als je dat inschakelt). ACCESS_NETWORK_STATE en ACCESS_WIFI_STATE laten deze functies controleren of er een verbinding beschikbaar is voordat ze proberen te verzenden.
+**Waarom deze verschijnen:** Ze zijn nodig voor netwerkafhankelijke functies: **Sentry-crashrapportage** (opt-in, standaard uitgeschakeld), **facturatie via App Store of Google Play** voor de aankoop van de Pro-upgrade, **Cloud Backup** (Pro, optioneel), die je versleutelde kluis synchroniseert met je eigen iCloud of Google Drive, en de knop **Controleren op updates** in Instellingen (wordt uitgevoerd wanneer je erop tikt, of bij het openen als je dat inschakelt). ACCESS_NETWORK_STATE en ACCESS_WIFI_STATE laten deze functies controleren of er een verbinding beschikbaar is voordat ze proberen te verzenden.
 
 **Wat we niet doen:** De app uploadt je documenten, scans, vervaldata, foto's of kluisinhoud niet naar Travel Document Vault. Voor normale documentopslag en herinneringen werkt de app volledig offline.
 
@@ -165,3 +165,11 @@ Dit zijn veelvoorkomende toestemmingen die veel apps vragen. We vragen ze niet, 
 **Locatie** - geen GPS, geen geolokatie, geen tracking **Contacten** - geen toegang tot je adresboek **Bluetooth** - geen lokaal netwerk of apparaatscanning **Agenda** - herinneringen worden op het apparaat verwerkt, niet via je agenda
 
 Nog vragen? Lees ons volledige [Privacyverklaring](https://traveldocumentvault.com/privacy-policy/) of controleer de [Vragen](https://traveldocumentvault.com/nl/faq/).
+
+## Gratis Downloaden. Geen Abonnement.
+
+Stel het vanavond in. Laat de app onthouden zodat u dat niet hoeft.
+
+![Download van de App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Download van Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

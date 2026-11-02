@@ -34,8 +34,6 @@ Hoe dringend je moet handelen, bepaalt wat je moet doen:
 
 Alle grote paspoortinstanties houden spoedafspraken achter de hand die niet online zichtbaar zijn. Als je tijdlijn krap is, **zouden wij altijd bellen in plaats van alleen op de website te vertrouwen.**
 
-**Stel de herinnering nu in** zodat dit nooit meer gebeurt – Travel Document Vault waarschuwt je al vanaf acht maanden voordat elk paspoort in je huishouden verloopt, en opnieuw naarmate de datum dichterbij komt. [Download in de App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 ## Scenario B: je ontdekte het op het vliegveld
 
 Dit scenario komt vaker voor dan je zou denken, en de stappen zijn niet vanzelfsprekend als je onder druk staat.
@@ -141,6 +139,10 @@ Ja. Een paspoort dat nog niet is verlopen, kan alsnog geweigerd worden als het b
 ### Wat is de 6 maanden-paspoortregel?
 
 Veel landen eisen dat je paspoort nog minstens zes maanden geldig is na je geplande aankomstdatum. Als je paspoort eerder verloopt dan dat – zelfs als het technisch nog geldig is – kan je de toegang of instap geweigerd worden. Niet elk land handhaaft deze regel, en de drempel verschilt. Controleer de vereisten voor jouw specifieke bestemming voordat je vertrekt.
+
+### Kun je een verlopen paspoort verlengen?
+
+Meestal wel. In het VK zegt GOV.UK dat je moet verlengen voordat je reist als je paspoort verlopen is, en dat kan online of met een papieren formulier, met je oude paspoort als bewijsstuk. In de VS en Canada hangt het er ook van af wanneer het paspoort is afgegeven en hoe oud je toen was.
 
 ## Gerelateerde artikelen
 

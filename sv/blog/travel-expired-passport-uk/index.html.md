@@ -90,8 +90,6 @@ Det gäller oavsett om passet gick ut innan du lämnade Storbritannien eller med
 
 [Om ditt pass redan har gått ut och du letar efter vad du ska göra härnäst går vår kompletterande artikel igenom det steg för steg](https://traveldocumentvault.com/sv/blog/passport-expired-what-to-do/). Har du en resa på gång och ditt pass närmar sig utgångsdatumet är det här läget att förnya i stället för att vänta tills det går ut, vilket innebär att du betalar för Premiumtjänsten i stället för standardavgiften. Kontrollera familjens pass nu innan ni bokar någon resa.
 
-**Ställ in påminnelser om utgångsdatum flera månader i förväg, inte veckor.** [Travel Document Vault håller koll på passets utgångsdatum och skickar påminnelser från åtta månader före utgångsdatumet som standard, och sedan igen när datumet närmar sig](https://traveldocumentvault.com/sv/blog/passport-expiry-6-month-rule/). Lägg till varje pass i hushållet med Pro. Använd påminnelserna för att planera förnyelser.
-
 ## Om du redan är utomlands och passet går ut
 
 Det här är det genuint svåra scenariot. Om du är på resa och passet går ut innan du reser hem kan du inte gå ombord på ett flyg eller en färja hem. Du måste kontakta närmaste brittiska ambassad eller konsulat för ett nödresedokument – ibland kallat ETD eller nödpass – som bara är giltigt för att ta dig hem.
@@ -133,6 +131,10 @@ Nej, men du kan ändå inte resa med det. Ett skadat pass kan nekas av flygbolag
 ### Kan jag förnya ett brittiskt pass som redan har gått ut?
 
 Ja. GOV.UK listar ett utgånget pass som ett skäl att förnya innan du reser, så de flesta använder standardförnyelsen för vuxna. Undantaget är ett pass utfärdat före den 1 januari 1994, vilket innebär att du i stället ansöker om ett första vuxenpass. Ditt nya pass får ett annat nummer, så uppdatera eventuella bokningar som gjorts med det gamla.
+
+### Kan man boka en resa med ett utgånget pass?
+
+Ja, inget hindrar dig från att boka, eftersom ingen kontrollerar passet vid köpet. Det måste däremot vara giltigt den dag du reser, och GOV.UK avråder från att boka innan du har det nya passet, eftersom det inte får samma nummer som det gamla.
 
 ## Relaterade artiklar
 

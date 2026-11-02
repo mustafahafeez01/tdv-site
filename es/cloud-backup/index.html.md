@@ -64,7 +64,7 @@ Múltiples capas de seguridad se interponen entre un toque accidental y la pérd
 
 **Reinicia y resincroniza.** Si tus datos locales y tu copia de seguridad en la nube se desincronizan, usa Restablecer y resincronizar para subir una copia nueva de tu bóveda.
 
-### ⚠ Tu Código de Recuperación es Crítico
+### Tu Código de Recuperación es Crítico
 
 Tu código de recuperación desbloquea las claves de cifrado de la nube necesarias para restaurar tu copia de seguridad. No podemos restablecerlo por ti. Si pierdes todas las copias y el acceso a todos los dispositivos que aún pueden desbloquear la bóveda, no podemos recuperar la copia cifrada.
 
@@ -88,27 +88,27 @@ Eres responsable de mantener tus propias copias de seguridad de documentos y de 
 
 ## Cifrado y recuperación
 
-#### AES-256-GCM
+### AES-256-GCM
 
 Cifrado autenticado para el contenido de los documentos.
 
-#### PBKDF2 600k Iteraciones
+### PBKDF2 600k Iteraciones
 
 Derivación de clave computacionalmente costosa. Esto aumenta el coste de adivinar el código de recuperación.
 
-#### Expansión de Clave HKDF
+### Expansión de Clave HKDF
 
 Claves separadas para cada archivo de copia de seguridad; al restaurar, los documentos se vuelven a cifrar con la clave propia del dispositivo nuevo. Un dispositivo autorizado o un código de recuperación comprometido puede exponer la bóveda compartida en la nube.
 
-#### Diseño de Conocimiento Cero
+### Diseño de Conocimiento Cero
 
 Tu copia de seguridad cifrada se queda en tu propia cuenta en la nube. No la recibimos ni guardamos las claves necesarias para leer el contenido de sus documentos.
 
-#### Lo Que Apple Ve
+### Lo Que Apple Ve
 
 El contenido de los documentos se cifra en tu iCloud o Google Drive. Los metadatos de la copia, como los nombres de dispositivos, las cantidades y las marcas de tiempo, no están cifrados.
 
-#### Pérdida del Código de Recuperación
+### Pérdida del Código de Recuperación
 
 Si pierdes todas las copias de tu código de recuperación y el acceso a todos los dispositivos que aún pueden desbloquear la bóveda, no podemos descifrar tus copias de seguridad. No guardamos tus claves de cifrado de la nube.
 

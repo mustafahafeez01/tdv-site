@@ -10,8 +10,6 @@ $9.99, pagamento unico. Nessun abbonamento, nessun costo nascosto, nessuna racco
 
 Prezzo in dollari statunitensi. Fissiamo il prezzo di ogni paese a livello locale anziché convertirlo dal dollaro, e l'App Store o Google Play mostra il Suo prezzo prima dell'acquisto.
 
-Non gestiamo server che abbiano mai tenuto o potessero leggere i Suoi documenti. I file dei documenti restano sul Suo dispositivo, salvo quando li condivide, li esporta o attiva il backup crittografato (Pro). È per questo che possiamo offrire un prezzo una tantum al posto di abbonamenti infiniti.
-
 ## Scegli Il Tuo Piano
 
 ### Gratuito
@@ -37,6 +35,8 @@ $9.99, pagamento unico
 
 Per tutta la Sua famiglia. Pagamento unico. Tutti gli aggiornamenti v1.x inclusi, per sempre.
 
+USD. Il prezzo del Suo paese è fissato a livello locale anziché convertito dal dollaro, e l'App Store o Google Play lo mostra prima dell'acquisto.
+
 [Informazioni sulla nostra politica di versione →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
 - Pianificatore di viaggio con semaforo di disponibilità familiare
@@ -55,7 +55,7 @@ Per tutta la Sua famiglia. Pagamento unico. Tutti gli aggiornamenti v1.x inclusi
 
 Tutto ciò di cui ha bisogno per i viaggi da solo
 
-Gratuito
+$0
 
 - Passaporti, visti, ID e altro
 - Scansiona documenti e conferma le date di scadenza rilevate
@@ -102,13 +102,13 @@ La preparazione del viaggio e il conteggio dei giorni per visti e tasse sono fun
 
 ## Perché una Tantum e Non un Abbonamento?
 
-Pro è un acquisto una tantum. Non gestiamo server che conservano o leggono i Suoi documenti. I file dei documenti restano sul Suo dispositivo, salvo quando li condivide, li esporta o attiva il backup crittografato sul Suo cloud (Pro). Pro non prevede addebiti ricorrenti per abbonamenti.
+Pro è un acquisto una tantum. Non gestiamo server che conservano o leggono i Suoi documenti. I file dei documenti restano sul Suo dispositivo, salvo quando li condivide, li esporta o attiva il backup crittografato sul Suo cloud (Pro). È per questo che possiamo offrire un prezzo una tantum al posto di abbonamenti infiniti. Pro non prevede addebiti ricorrenti per abbonamenti.
 
 Un prezzo una tantum è equo, sostenibile e onesto. Paga una volta. Smettiamo di chiedere.
 
 ## Cosa È Incluso Gratuitamente, Per Sempre
 
-Il livello gratuito non è una prova. È un livello vero e permanente con funzioni principali che userà veramente: un profilo, 5 documenti, promemoria di scadenza, condivisione di documenti, blocco biometrico, crittografia on-device ed esportazione e importazione del vault. Se sta viaggiando da solo o sta solo testando, il gratuito è tutto ciò di cui ha bisogno.
+Il livello gratuito non è una prova. È un livello vero e permanente con funzioni principali che userà veramente: un profilo, 5 documenti, promemoria di scadenza, condivisione di documenti, blocco biometrico, crittografia on-device, esportazione del caveau e importazione del backup. Se sta viaggiando da solo o sta solo testando, il gratuito è tutto ciò di cui ha bisogno.
 
 Nessun limite di tempo. Nessuna funzione che scompare misteriosamente. Nessun modello scuro per spingerti ad aggiornare.
 

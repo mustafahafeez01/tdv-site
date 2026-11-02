@@ -18,11 +18,11 @@ Your documents, scans, expiry dates, and vault contents are not sent to Travel D
 
 ### On-device by default
 
-Documents stay on your device by default. There is no Travel Document Vault cloud account, document server, or backend database. Pro users can optionally back up an encrypted vault file to their own iCloud or Google Drive account - only they hold the recovery key.
+Documents stay on your device by default. There is no Travel Document Vault cloud account, document server, or backend database.
 
 ### AES-256-GCM encryption
 
-The app encrypts document data before saving it to local app storage.
+The app encrypts document data before saving it to local app storage. Pro users can optionally back up an encrypted vault file to their own iCloud or Google Drive account - only they hold the recovery key.
 
 ## Verification
 
@@ -165,3 +165,11 @@ These are common permissions that many apps ask for. We do not request any of th
 **Location:** no GPS, no geofencing, no tracking **Contacts:** no access to your address book **Bluetooth:** no local network or device scanning **Calendar:** reminders are handled on-device, not via your calendar
 
 Still have questions? Read our full [Privacy Policy](https://traveldocumentvault.com/privacy-policy/) or check the [FAQ](https://traveldocumentvault.com/faq/).
+
+## Download Free. No Subscription.
+
+Set it up tonight. Let the app remember so you don't have to.
+
+![Download on the App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Get it on Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

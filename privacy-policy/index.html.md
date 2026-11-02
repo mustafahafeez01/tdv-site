@@ -16,7 +16,7 @@ This Privacy Policy does not apply to the third-party online/mobile store from w
 
 ## Introduction
 
-Travel Document Vault is designed to provide a secure, local environment for managing your personal travel documents. Our philosophy is strict data isolation: your sensitive documents belong solely to you, on your device. The Application operates without user accounts and without any backend servers run by us. We have never operated a server that holds user data, and we never will. We do not see, hold, or have access to your documents. If you choose to enable our optional Your Own Cloud backup feature, an encrypted copy of your vault is stored in your own iCloud or Google Drive account using end-to-end encryption with a recovery code only you hold. That encrypted copy is unreadable to us, to Apple, and to Google.
+Travel Document Vault is designed to provide a secure, local environment for managing your personal travel documents. Our philosophy is strict data isolation: your sensitive documents belong solely to you, on your device. The Application operates without user accounts and without any backend servers run by us. We have never operated a server that holds user data, and we never will. We do not see, hold, or have access to your documents. If you choose to enable our optional Cloud Backup feature, an encrypted copy of your vault is stored in your own iCloud or Google Drive account using end-to-end encryption with a recovery code only you hold. That encrypted copy is unreadable to us, to Apple, and to Google.
 
 ## No Accounts & No Tracking
 
@@ -42,7 +42,7 @@ The only technical data flows are described under Third-Party Services below: op
 
 ## Information Handling
 
-All information entered into the Application - including document images, passport details, notes, and expiry dates - stays on your local device by default and is never sent to us. The only exception is the optional Your Own Cloud backup feature (see below): if you choose to enable it, an encrypted copy of your vault is stored in your own iCloud or Google Drive account, which we never operate or access. The Application uses on-device Optical Character Recognition (OCR) technology solely to assist in data entry.
+All information entered into the Application - including document images, passport details, notes, and expiry dates - stays on your local device by default and is never sent to us. The only exception is the optional Cloud Backup feature (see below): if you choose to enable it, an encrypted copy of your vault is stored in your own iCloud or Google Drive account, which we never operate or access. The Application uses on-device Optical Character Recognition (OCR) technology solely to assist in data entry.
 
 **Assistive features:** Optical character recognition and reminder features are assistive only. Detected dates and reminders should always be reviewed and verified by the user. The app does not verify documents or provide legal or travel advice. For the full limitation of liability that applies to your use of the Application, please see our [Terms of Service](https://traveldocumentvault.com/terms/).
 
@@ -50,15 +50,15 @@ All information entered into the Application - including document images, passpo
 
 All documents and related data are **encrypted on disk** locally on your device using AES-256-GCM encryption. The app scrambles your files before saving them to your device's storage.
 
-By default, the app does not upload, sync, or back up your documents anywhere. We do not run servers. If you choose to enable Your Own Cloud (see next section), an encrypted copy of your vault is stored in your own iCloud or Google Drive account, sealed with a key only you hold. We never receive your data and never operate infrastructure that stores it.
+By default, the app does not upload, sync, or back up your documents anywhere. We do not run servers. If you choose to enable Cloud Backup (see next section), an encrypted copy of your vault is stored in your own iCloud or Google Drive account, sealed with a key only you hold. We never receive your data and never operate infrastructure that stores it.
 
-If you have **iCloud Backup** (iOS) or **Google Backup** (Android) enabled at the operating-system level, your encrypted local app data is included in your operating system's device backup. This is handled by your operating system, not by us. Note that such a backup can reinstall the Application but cannot restore your documents on a new or reset device, because the encryption key never leaves your original device - use Your Own Cloud backup or a Vault Export for a restorable copy. When you manually export your vault, the export file is **password-protected** with AES-256-GCM encryption and PBKDF2 key derivation, so your data remains encrypted even outside your device.
+If you have **iCloud Backup** (iOS) or **Google Backup** (Android) enabled at the operating-system level, your encrypted local app data is included in your operating system's device backup. This is handled by your operating system, not by us. Note that such a backup can reinstall the Application but cannot restore your documents on a new or reset device, because the encryption key never leaves your original device - use Cloud Backup or a backup created with “Export vault” for a restorable copy. When you manually export your vault, the export file is **password-protected** with AES-256-GCM encryption and PBKDF2 key derivation, so your data remains encrypted even outside your device.
 
 These technical descriptions are provided for transparency. They are not a security certification or a guarantee - no method of electronic storage is completely secure. See our [Terms of Service](https://traveldocumentvault.com/terms/) for the limitations that apply.
 
-## Your Own Cloud (Optional Backup)
+## Cloud Backup (Optional)
 
-The Application offers an **optional** backup feature called **Your Own Cloud**. It is **off by default**. You enable it from inside the app and you can turn it off at any time.
+The Application offers an **optional** backup feature called **Cloud Backup**. It is **off by default**. You enable it from inside the app and you can turn it off at any time.
 
 When enabled, an encrypted copy of your vault is stored in **your own iCloud account** (iOS) or **your own Google Drive account** (Android). It is never stored on any server we operate. We do not run servers that hold user data and we never have.
 
@@ -75,7 +75,7 @@ When enabled, an encrypted copy of your vault is stored in **your own iCloud acc
 
 **Multi-device sync:** Once enabled, you can install the Application on another device, sign in with the same iCloud or Google account, enter your recovery code, and restore your vault. Subsequent changes sync between your devices through your own cloud account, end-to-end encrypted at every step.
 
-**Turning it off:** You can disable Your Own Cloud at any time inside the app. When you disable it, the Application removes the encrypted blob from your iCloud or Google Drive folder. Your local vault on your device is unaffected.
+**Turning it off:** You can disable Cloud Backup at any time inside the app. When you disable it, the Application removes the encrypted blob from your iCloud or Google Drive folder. Your local vault on your device is unaffected.
 
 **Provider relationship:** Apple Inc. (iCloud) and Google LLC (Google Drive) act as blind storage for the encrypted blob. Their handling of the file is governed by your own iCloud or Google account terms. Because we never operate servers and never receive your data, no data processing agreement between you and us is needed for the backup contents.
 
@@ -86,13 +86,13 @@ When enabled, an encrypted copy of your vault is stored in **your own iCloud acc
 Your data persists on your device for as long as you choose to keep the Application installed. Since all data is stored locally:
 
 - Data remains on your device until you manually delete it within the app or uninstall the Application
-- Uninstalling the Application permanently deletes all data stored on that device. If you enabled Your Own Cloud backup, the encrypted backup remains in your own iCloud or Google Drive until you disable the backup in the app or delete the file from your own cloud storage
+- Uninstalling the Application permanently deletes all data stored on that device. If you enabled Cloud Backup, the encrypted backup remains in your own iCloud or Google Drive until you disable the backup in the app or delete the file from your own cloud storage
 - We cannot access, recover, or delete your data remotely
 - You have full control over your data at all times
 
 ## Data Sharing
 
-Data export or sharing is strictly user-initiated. Information leaves the Application only when you explicitly interact with the system share sheet, or through optional features you have enabled: Your Own Cloud backup (which syncs your encrypted vault to your own cloud account) and opt-in crash reporting. Beyond those, the Application performs no background transmission of data.
+Data export or sharing is strictly user-initiated. Information leaves the Application only when you explicitly interact with the system share sheet, or through optional features you have enabled: Cloud Backup (which syncs your encrypted vault to your own cloud account) and opt-in crash reporting. Beyond those, the Application performs no background transmission of data.
 
 ## Third-Party Services
 
@@ -155,7 +155,7 @@ The Application is not directed at children under the age of 13. We do not knowi
 
 If you are a parent or guardian and believe your child has provided information to us, please contact us at the email address below. However, please note that since we do not operate servers or collect data, we have no data to delete.
 
-If you use the Application to store a family member's documents, including a child's passport or ID, that information receives exactly the same protection as your own: it is encrypted and stored locally on your device by default, and it is never transmitted to us. If you choose to enable the optional Your Own Cloud backup feature (see above), it is end-to-end encrypted before it ever leaves your device and stored only in your own iCloud or Google Drive account, never on any server we operate. It remains under your control at all times.
+If you use the Application to store a family member's documents, including a child's passport or ID, that information receives exactly the same protection as your own: it is encrypted and stored locally on your device by default, and it is never transmitted to us. If you choose to enable the optional Cloud Backup feature (see above), it is end-to-end encrypted before it ever leaves your device and stored only in your own iCloud or Google Drive account, never on any server we operate. It remains under your control at all times.
 
 ## California Privacy Rights
 
@@ -195,7 +195,7 @@ The Application sets no cookies. It has no browser, no web view for your documen
 
 We update this policy when the Application changes in a way that affects your privacy, or when the law requires it. The date at the top of this page always reflects the current version.
 
-If a change materially affects how your information is handled, we will say so in the app's release notes rather than relying on you to re-read this page. Optional features that involve a third party - crash reports, Your Own Cloud backup, website analytics - stay off until you turn them on, and a change to this policy never turns one on for you.
+If a change materially affects how your information is handled, we will say so in the app's release notes rather than relying on you to re-read this page. Optional features that involve a third party - crash reports, Cloud Backup, website analytics - stay off until you turn them on, and a change to this policy never turns one on for you.
 
 ## Contact Information
 

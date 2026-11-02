@@ -90,8 +90,6 @@ Cela s'applique, que votre passeport ait expiré avant que vous quittiez le Roya
 
 [Si votre passeport a déjà expiré et vous recherchez quoi faire ensuite, notre article complémentaire le couvre étape par étape](https://traveldocumentvault.com/fr/blog/passport-expired-what-to-do/). Si vous avez un voyage à venir et votre passeport approche l'expiration, c'est le moment de renouveler plutôt que d'attendre jusqu'à ce qu'il expire, ce qui signifie payer le service Premium au lieu de la taxe standard. Vérifiez les passeports de votre famille maintenant avant de réserver un voyage.
 
-**Définissez des rappels d'expiration des mois à l'avance, pas des semaines.** [Travel Document Vault suit l’expiration de votre passeport et envoie des rappels dès huit mois avant l’échéance par défaut, puis à nouveau à l’approche de l’expiration](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/). Ajoutez tous les passeports de votre foyer avec Pro. Utilisez les rappels pour vous aider à prévoir les renouvellements.
-
 ## Si vous êtes déjà à l'étranger et votre passeport expire
 
 C'est le scénario véritablement difficile. Si vous voyagez et votre passeport expire avant de revenir, vous ne pouvez pas monter à bord d'un vol ou ferry pour rentrer. Vous devrez contacter l'ambassade ou le consulat britannique le plus proche pour un document de voyage d'urgence — parfois appelé ETD ou passeport d'urgence — qui est valide uniquement pour rentrer.
@@ -133,6 +131,10 @@ Non, mais vous ne pouvez toujours pas voyager avec. Un passeport endommagé peut
 ### Puis-je renouveler un passeport britannique déjà expiré ?
 
 Oui. GOV.UK recense un passeport expiré comme une raison de le renouveler avant de voyager, donc la plupart des gens utilisent le service standard de renouvellement pour adulte. L'exception concerne un passeport délivré avant le 1er janvier 1994, ce qui implique de faire une demande de premier passeport adulte à la place. Votre nouveau passeport portera un numéro différent, pensez donc à mettre à jour toute réservation effectuée avec l'ancien.
+
+### Peut-on réserver des vacances avec un passeport expiré ?
+
+Oui, rien ne vous empêche de réserver, car personne ne vérifie le passeport au moment de l'achat. Il doit en revanche être valide le jour du départ, et GOV.UK conseille d'attendre d'avoir le nouveau passeport avant de réserver, car il ne portera pas le même numéro que l'ancien.
 
 ## Articles connexes
 

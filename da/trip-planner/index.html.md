@@ -42,19 +42,19 @@ Angiv et fast eller rullende vindue for hvert land med din egen dagsgrænse for 
 
 ## Plus meget mere
 
-#### Landflag + by
+### Landflag + by
 
 Rejsekort viser flag for destination og by. Planlæg på et blik. Ved hvor du skal hen.
 
-#### Nedtælling af dage
+### Nedtælling af dage
 
 Hvor mange dage til rejsen. Nedtælling vises på rejsekort. Får alle til at glæde sig.
 
-#### Altid offline
+### Altid offline
 
 Virker 100 pct offline. Planlæg på lufthavnen. Intet internet påkrævet. Virker i flytilstand.
 
-#### Valgfri skysynkronisering
+### Valgfri skysynkronisering
 
 Pro: Synkroniser til dine egne iCloud eller Google Drive. Adgang fra flere enheder. Du kontrollerer nøglen.
 

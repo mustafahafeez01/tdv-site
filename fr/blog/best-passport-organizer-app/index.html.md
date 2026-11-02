@@ -84,8 +84,6 @@ Une application à achat unique, en revanche, reste entièrement fonctionnelle i
 
 ## Comment Travel Document Vault aborde cela
 
-**Travel Document Vault** stocke vos documents sur votre appareil avec un chiffrement AES-256, sans compte dans l’application. Vos documents enregistrés et les rappels d’expiration des passeports et visas sont disponibles hors ligne. Vous pouvez partager ou exporter des copies, ou utiliser la sauvegarde cloud chiffrée sur votre propre iCloud ou Google Drive avec Pro. Pro vous permet aussi d’ajouter toute la famille. L’application est gratuite au téléchargement ; Pro est un [achat unique dans l’application, sans abonnement](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8).
-
 ## Une liste de contrôle pratique avant de télécharger
 
 Lors de l'évaluation de toute application d'organisation des passeports, posez-vous ces neuf questions :

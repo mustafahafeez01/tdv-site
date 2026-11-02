@@ -99,8 +99,6 @@ Ecco il modello di fallimento che cattura le famiglie: rinnovi il tuo passaporto
 
 Uno qualsiasi di questi tre approcci funziona, ma noi useremmo di default quello che manda il promemoria in automatico, perché un foglio di calcolo serve solo se ti ricordi di aprirlo. Ciò che conta di più è sceglierne uno che si adatti al tuo modo di operare e rispettarlo davvero.
 
-**Travel Document Vault** tiene traccia delle date di scadenza salvate, con promemoria per i passaporti a partire da otto mesi prima. Scansiona ogni passaporto e conferma o inserisci la data di scadenza. Aggiungi tutta la famiglia con Pro per raccogliere le date di rinnovo in un unico posto. [Scarica dall'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
-
 ## Elenco di controllo dei documenti pre-viaggio per le famiglie
 
 Esegui questo elenco quando prenoti, non la notte prima di partire. È quello che ti dà abbastanza tempo per risolvere qualsiasi cosa che ha bisogno di risolvimento.

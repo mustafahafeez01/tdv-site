@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/da/blog/encrypted-cloud-backup-travel-do
 
 - **"Krypteret backup" betyder kun noget, når du ved, hvem der har nøglen.** Hvis virksomheden kan læse dine dokumenter, beskytter krypteringen dem mod fremmede – ikke mod virksomheden.
 - En backup, der er krypteret på din telefon før upload, når skyen som ulæselige data. Lagringsudbyderen opbevarer krypteret tekst, ikke dit pas.
-- **Ingen konto betyder ingen nulstilling af adgangskode.** Hvis du mister gendannelseskoden og adgang til alle enheder, der stadig kan åbne hvælvingen, kan vi ikke gendanne den krypterede backup. Det er den bevidste afvejning.
+- **Ingen konto betyder ingen nulstilling af adgangskode.** Hvis du mister gendannelseskoden og adgang til alle enheder, der stadig kan åbne boksen, kan vi ikke gendanne den krypterede backup. Det er den bevidste afvejning.
 - Skriv koden ned, før du er afhængig af backuppen, opbevar den væk fra telefonen, og læs den igennem én gang for at tjekke, at den er læselig.
 - En systembackup af enheden geninstallerer appen, men kan ikke bringe dine dokumenter tilbage, fordi systembackups ikke overfører den enhedsbundne krypteringsnøgle.
 
@@ -38,7 +38,7 @@ Så spørgsmålet, det er værd at stille til enhver app, er kort: **hvem har n�
 
 Travel Document Vault kræver ingen appkonto for at gemme dokumenter på din enhed. Valgfri [cloud-backup](https://traveldocumentvault.com/da/cloud-backup/) kræver Pro og din gendannelseskode for at låse krypteringsnøglen til skyen op. Appen opretter denne kode på 24 tegn, når du opsætter din PIN. Det krypterede arkiv sendes derefter til **din egen iCloud på iPhone og iPad, eller din egen Google Drive på Android** – ikke til os.
 
-Konsekvensen er uundgåelig. **Hvis du mister gendannelseskoden og adgang til alle enheder, der stadig kan åbne hvælvingen, kan vi ikke gendanne den krypterede backup.** Der findes intet nulstillingslink, fordi der ikke er nogen konto at knytte det til. Der findes ingen supportsag, der kan gendanne den, fordi vi aldrig har haft den og ikke engang kan gætte den.
+Konsekvensen er uundgåelig. **Hvis du mister gendannelseskoden og adgang til alle enheder, der stadig kan åbne boksen, kan vi ikke gendanne den krypterede backup.** Der findes intet nulstillingslink, fordi der ikke er nogen konto at knytte det til. Der findes ingen supportsag, der kan gendanne den, fordi vi aldrig har haft den og ikke engang kan gætte den.
 
 Det lyder hårdt, når det skrives ned, og det er værd at være ærlig om det frem for at gemme det væk i en indstillingsskærm. Det er den samme afvejning, du laver med en husnøgle: låsen er kun noget værd, fordi ingen låsesmed på jorden opbevarer en ekstra, og det er præcis derfor, det er dit eget problem, hvis du mister din.
 
@@ -70,25 +70,25 @@ Det er derfor, det ærlige svar på "er skyen sikker" er: skyen er en leveringsa
 
 ## Hvad indgår i backuppen, og hvad bliver tilbage
 
-Backuppen indeholder profiler, scanninger, vedhæftninger, udløbsdatoer, noter og påmindelseshistorik, der kan flyttes til en ny enhed. Appen krypterer dem før upload. Gendannelse bringer dette hvælvingsindhold tilbage; enhedsindstillinger holdes adskilt, og appen genopretter notifikationer.
+Backuppen indeholder profiler, scanninger, vedhæftninger, udløbsdatoer, noter og påmindelseshistorik, der kan flyttes til en ny enhed. Appen krypterer dem før upload. Gendannelse bringer dette boksindhold tilbage; enhedsindstillinger holdes adskilt, og appen genopretter notifikationer.
 
 Tre ting bliver bevidst på telefonen, og gendannelseskoden kommer først: den uploades ikke med backuppen. Din applås forbliver også lokal, så Face ID, Touch ID eller din PIN holder andre ude af appen, mens krypteringen holder dem ude af filen. Og de automatiske lokale øjebliksbilleder, appen tager, mens du arbejder, bliver kun på enheden.
 
-Det sidste punkt overrasker folk, så her er den ligefremme version. **En systembackup af enheden geninstallerer appen, men kan ikke gendanne dine dokumenter.** Systembackups overfører ikke den enhedsbundne krypteringsnøgle, så den nye telefon skal bruge gendannelse fra skyen (Pro) eller en eksporteret hvælvingsfil. Hvis du vil have, at dit arkiv overlever telefonen, skal du enten have cloud-backup slået til eller en eksporteret fil gemt et sted.
+Det sidste punkt overrasker folk, så her er den ligefremme version. **En systembackup af enheden geninstallerer appen, men kan ikke gendanne dine dokumenter.** Systembackups overfører ikke den enhedsbundne krypteringsnøgle, så den nye telefon skal bruge gendannelse fra skyen (Pro) eller en eksporteret boksfil. Hvis du vil have, at dit arkiv overlever telefonen, skal du enten have cloud-backup slået til eller en eksporteret fil gemt et sted.
 
-## Gendan din hvælving; at starte forfra ændrer aldrig den gamle backup
+## Gendan din boks; at starte forfra ændrer aldrig den gamle backup
 
-Gendannelsestiden afhænger af hvælvingens størrelse og din forbindelse.
+Gendannelsestiden afhænger af boksens størrelse og din forbindelse.
 
-Installer appen på den nye telefon, og log ind med den samme iCloud- eller Google-konto, du brugte før. Med Pro og cloud-backup slået fra på modtagerenheden skal du åbne Indstillinger, Skybakup og derefter Gendann fra sikkerhedskopi. Vælg den eksisterende hvælving, indtast gendannelseskoden, og bekræft gendannelsen, som erstatter lokalt hvælvingsindhold. Profiler, dokumenter og udløbsdatoer gendannes; notifikationer genoprettes på modtagerenheden.
+Installer appen på den nye telefon, og log ind med den samme iCloud- eller Google-konto, du brugte før. Med Pro og cloud-backup slået fra på modtagerenheden skal du åbne Indstillinger, Skybakup og derefter Gendann fra sikkerhedskopi. Vælg den eksisterende boks, indtast gendannelseskoden, og bekræft gendannelsen, som erstatter lokalt boksindhold. Profiler, dokumenter og udløbsdatoer gendannes; notifikationer genoprettes på modtagerenheden.
 
 Appen tjekker også, før den skriver. Hvis cloud-backup finder en eksisterende backup i den konto, bliver du bedt om at vælge mellem at gendanne og starte forfra. En ny telefon kan ikke stille og roligt overskrive det, der allerede er der.
 
-### Skift mellem iPhone og Android betyder, at du skal bruge Eksporter arkiv
+### Skift mellem iPhone og Android betyder, at du skal eksportere din boks
 
 Cloud-backup bliver på én platform, fordi den bruger din egen iCloud på Apple-enheder og din egen Google Drive på Android. Skifter du fra den ene til den anden, skal du bruge den anden metode.
 
-Vault Export er gratis. I Indstillinger opretter Eksportér hvælving én adgangskodebeskyttet fil med profiler, dokumenter, rejser, understøttede indstillinger og læsbare vedhæftninger. Du vælger, hvor den skal gemmes: Filer-appen, et drev eller en e-mail til dig selv. På den nye telefon læser Indstillinger, Importér sikkerhedskopi den tilbage og erstatter alt, der allerede ligger der. Det understøtter begge platforme. Gennemgå importerede dokumenter, noter og vedhæftninger, tjek påmindelser igen, og behold den oprindelige eksport. Notifikationer genoprettes på modtagerenheden.
+Det er gratis at eksportere din boks. I Indstillinger opretter Eksportér hvælving én adgangskodebeskyttet fil med profiler, dokumenter, rejser, understøttede indstillinger og læsbare vedhæftninger. Du vælger, hvor den skal gemmes: Filer-appen, et drev eller en e-mail til dig selv. På den nye telefon læser Indstillinger, Importér sikkerhedskopi den tilbage og erstatter alt, der allerede ligger der. Det understøtter begge platforme. Gennemgå importerede dokumenter, noter og vedhæftninger, tjek påmindelser igen, og behold den oprindelige eksport. Notifikationer genoprettes på modtagerenheden.
 
 Den eksporterede fil er også svaret for alle, der vil have en kopi, som slet ikke afhænger af en cloud-konto. Det er fornuftigt at have liggende på et drev derhjemme, uanset hvilken telefon du går rundt med.
 
@@ -116,19 +116,19 @@ Det betyder, at kopien bliver blandet på din telefon, før den sendes nogen ste
 
 ### Hvad sker der, hvis jeg mister min backup-nøgle?
 
-Hvis du mister gendannelseskoden og adgang til alle enheder, der stadig kan åbne hvælvingen, kan vi ikke gendanne den krypterede backup. Der er ingen konto, ingen nulstilling af adgangskode, og ingen supportvej, der kan gendanne den, fordi gendannelseskoden aldrig når frem til os i første omgang. Det er den bevidste afvejning for, at ingen andre heller kan læse dine dokumenter. Skriv koden ned, før du er afhængig af backuppen, opbevar den et sted adskilt fra telefonen, og læs den igennem én gang for at tjekke, du kan.
+Hvis du mister gendannelseskoden og adgang til alle enheder, der stadig kan åbne boksen, kan vi ikke gendanne den krypterede backup. Der er ingen konto, ingen nulstilling af adgangskode, og ingen supportvej, der kan gendanne den, fordi gendannelseskoden aldrig når frem til os i første omgang. Det er den bevidste afvejning for, at ingen andre heller kan læse dine dokumenter. Skriv koden ned, før du er afhængig af backuppen, opbevar den et sted adskilt fra telefonen, og læs den igennem én gang for at tjekke, du kan.
 
 ### Er cloud-backup sikkert for passcanninger?
 
-Det afhænger fuldstændigt af, hvad der når frem til skyen. Et foto af dit pas i et almindeligt fotobibliotek eller en synkroniseret mappe ankommer læseligt, og alle, der kommer ind i den konto, kan læse det. En backup, der er krypteret på enheden før upload, ankommer som krypteret tekst, så lagringsudbyderen sidder med noget, den ikke kan åbne. Med Pro krypterer Travel Document Vault hvælvingen på din telefon med AES-256-GCM og sender den krypterede fil til din egen iCloud eller Google Drive frem for en TDV-server.
+Det afhænger fuldstændigt af, hvad der når frem til skyen. Et foto af dit pas i et almindeligt fotobibliotek eller en synkroniseret mappe ankommer læseligt, og alle, der kommer ind i den konto, kan læse det. En backup, der er krypteret på enheden før upload, ankommer som krypteret tekst, så lagringsudbyderen sidder med noget, den ikke kan åbne. Med Pro krypterer Travel Document Vault boksen på din telefon med AES-256-GCM og sender den krypterede fil til din egen iCloud eller Google Drive frem for en TDV-server.
 
 ### Kan jeg gendanne mine dokumenter på en anden telefon?
 
-Ja, med Pro. Installer appen på den nye telefon, og log ind med samme iCloud- eller Google-konto. Med cloud-backup slået fra på modtagerenheden skal du åbne Indstillinger, Skybakup og derefter Gendann fra sikkerhedskopi. Vælg den eksisterende hvælving, indtast gendannelseskoden, og bekræft gendannelsen, som erstatter lokalt hvælvingsindhold. Profiler, dokumenter og udløbsdatoer gendannes; notifikationer genoprettes på modtagerenheden. Bemærk, at en systembackup af enheden ikke gør dette af sig selv: den geninstallerer appen, men kan ikke dekryptere dine dokumenter, fordi systembackups ikke overfører den enhedsbundne krypteringsnøgle.
+Ja, med Pro. Installer appen på den nye telefon, og log ind med samme iCloud- eller Google-konto. Med cloud-backup slået fra på modtagerenheden skal du åbne Indstillinger, Skybakup og derefter Gendann fra sikkerhedskopi. Vælg den eksisterende boks, indtast gendannelseskoden, og bekræft gendannelsen, som erstatter lokalt boksindhold. Profiler, dokumenter og udløbsdatoer gendannes; notifikationer genoprettes på modtagerenheden. Bemærk, at en systembackup af enheden ikke gør dette af sig selv: den geninstallerer appen, men kan ikke dekryptere dine dokumenter, fordi systembackups ikke overfører den enhedsbundne krypteringsnøgle.
 
 ### Virker backuppen mellem iPhone og Android?
 
-Cloud-backup bliver på én platform: din egen iCloud på iPhone og iPad eller din egen Google Drive på Android. Brug gratis Vault Export til at flytte mellem dem. I Indstillinger opretter Eksportér hvælving en adgangskodebeskyttet .tdvault-fil, som du kan sende til dig selv. På den nye telefon læser Indstillinger, Importér sikkerhedskopi den tilbage og erstatter de data, der allerede ligger der. Import understøtter begge platforme. Gennemgå importerede dokumenter, noter og vedhæftninger, tjek påmindelser igen, og behold den oprindelige eksport. Notifikationer genoprettes på modtagerenheden.
+Cloud-backup bliver på én platform: din egen iCloud på iPhone og iPad eller din egen Google Drive på Android. Eksportér din boks gratis for at flytte mellem dem. I Indstillinger opretter Eksportér hvælving en adgangskodebeskyttet .tdvault-fil, som du kan sende til dig selv. På den nye telefon læser Indstillinger, Importér sikkerhedskopi den tilbage og erstatter de data, der allerede ligger der. Import understøtter begge platforme. Gennemgå importerede dokumenter, noter og vedhæftninger, tjek påmindelser igen, og behold den oprindelige eksport. Notifikationer genoprettes på modtagerenheden.
 
 ### Hvad opbevares i backuppen, og hvad bliver på enheden?
 

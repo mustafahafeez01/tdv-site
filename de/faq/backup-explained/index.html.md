@@ -10,10 +10,10 @@ Travel Document Vault bietet Ihnen drei Schutzebenen. Hier erfahren Sie genau, w
 
 ## Drei Mechanismen, ein Ziel
 
-Travel Document Vault bietet drei Schutzebenen: (1) automatische lokale Sicherungen, die alle paar Minuten kostenlos auf Ihrem Gerät erstellt werden, (2) den Tresor-Export, eine kostenlose manuelle verschlüsselte Sicherungsdatei (.tdvault), die Sie an einem beliebigen Ort speichern, und (3) die Cloud-Sicherung, eine Pro-Option für eine Ende-zu-Ende-verschlüsselte Kopie in Ihrem eigenen iCloud oder Google Drive.
+Travel Document Vault bietet drei Schutzebenen: (1) automatische lokale Sicherungen, die alle paar Minuten kostenlos auf Ihrem Gerät erstellt werden, (2) Tresor-Export, eine kostenlose manuelle verschlüsselte Sicherungsdatei (.tdvault), die Sie an einem beliebigen Ort speichern, und (3) die Cloud-Sicherung, eine Pro-Option für eine Ende-zu-Ende-verschlüsselte Kopie in Ihrem eigenen iCloud oder Google Drive.
 
 - **Automatische lokale Sicherungen** – laufen im Hintergrund ab, keine Aktion erforderlich.
-- **Vault-Export (.tdvault)** – eine tragbare verschlüsselte Datei, die Sie überall speichern können.
+- **Tresor-Export (.tdvault)** – eine tragbare verschlüsselte Datei, die Sie überall speichern können.
 - **Cloud-Sicherung (Pro)** – eine automatische verschlüsselte Kopie in Ihrem eigenen iCloud oder Google Drive.
 
 ## Auf einen Blick
@@ -21,7 +21,7 @@ Travel Document Vault bietet drei Schutzebenen: (1) automatische lokale Sicherun
 | Mechanismus | Stufe | Automatisch? | Wo befindet sie sich? | So stellen Sie sie wieder her |
 |---|---|---|---|---|
 | **Automatische lokale Sicherungen** | Kostenlos | Ja, alle paar Minuten | Auf Ihrem Gerät | Einstellungen, Lokale Sicherung wiederherstellen |
-| **Vault-Export (.tdvault)** | Kostenlos | Nein, manuell | Überall, wo Sie es speichern: Dateien, iCloud Drive, Google Drive, E-Mail | Einstellungen, Sicherung importieren |
+| **Tresor-Export (.tdvault)** | Kostenlos | Nein, manuell | Überall, wo Sie es speichern: Dateien, iCloud Drive, Google Drive, E-Mail | Einstellungen, Sicherung importieren |
 | **Cloud-Sicherung** | Pro | Ja, automatisch | Ihr eigenes iCloud (iOS) oder Google Drive (Android) | Einstellungen, Cloud-Sicherung, Aus Sicherung wiederherstellen |
 
 ## Automatische lokale Sicherungen
@@ -32,11 +32,11 @@ In den Einstellungen sehen Sie eine Zeile wie *Letzte Sicherung: vor 2 Stunden, 
 
 **So stellen Sie wieder her:** Einstellungen, dann Lokale Sicherung wiederherstellen. Wählen Sie einen Snapshot aus der Liste und bestätigen Sie. Die Wiederherstellung ersetzt Ihre aktuellen Daten durch den Inhalt des Snapshots.
 
-Diese lokalen Snapshots bleiben auf Ihrem Gerät. Eine Systemsicherung (iCloud Backup, Google Backup) installiert die App neu, kann sie aber nicht auf einem neuen Telefon wiederherstellen, da gewöhnliche Telefonsicherungen den an das Gerät gebundenen Verschlüsselungsschlüssel nicht übertragen. Der Tresor-Export enthält eine mit einem Passwort verschlüsselte Kopie dieses Schlüssels. Um Ihren Tresor zu verschieben, verwenden Sie Cloud-Sicherung (Pro) oder den kostenlosen Vault-Export.
+Diese lokalen Snapshots bleiben auf Ihrem Gerät. Eine Systemsicherung (iCloud Backup, Google Backup) installiert die App neu, kann sie aber nicht auf einem neuen Telefon wiederherstellen, da gewöhnliche Telefonsicherungen den an das Gerät gebundenen Verschlüsselungsschlüssel nicht übertragen. Der Tresor-Export enthält eine mit einem Passwort verschlüsselte Kopie dieses Schlüssels. Um Ihren Tresor zu verschieben, verwenden Sie Cloud-Sicherung (Pro) oder den kostenlosen Tresor-Export.
 
-## Vault-Export (.tdvault) – kostenlos für alle
+## Tresor-Export (.tdvault) – kostenlos für alle
 
-Der Tresor-Export bündelt unterstützte Tresordatensätze und verfügbare Anhänge in einer verschlüsselten, passwortgeschützten Datei. Für jeden Export gilt eine Größenbegrenzung. Sie wählen, wo Sie sie speichern: Dateien-App, iCloud Drive, Google Drive oder teilen sie per AirDrop oder E-Mail.
+Der Tresor-Export bündelt unterstützte Tresordatensätze und verfügbare Anhänge in einer verschlüsselten, passwortgeschützten Datei. Für jeden Export gilt eine Größenbegrenzung. Sie wählen, wo Sie sie speichern: Dateien-App, iCloud Drive, Google Drive, oder Sie teilen sie per AirDrop oder E-Mail.
 
 Die Datei wird auf Ihrem Gerät verschlüsselt, bevor sie die App verlässt. Nur das Passwort, das Sie beim Export festgelegt haben, kann es entsperren.
 
@@ -62,7 +62,7 @@ Die kurze Antwort: Verwenden Sie alle drei.
 
 Automatische lokale Sicherungen können helfen, aktuelle Tresordatensätze wiederherzustellen, wenn Snapshots verfügbar sind. Sie laufen bei geöffneter App und ersetzen kein unabhängiges Dokumenten-Backup.
 
-Vault-Export ist der richtige Schritt vor einem Gerätewechsel, einem großen App-Update oder wenn Sie möchten, dass eine tragbare Kopie irgendwo unabhängig von Ihrem Telefon gespeichert wird. Tun Sie es mindestens einmal und speichern Sie die Datei an einem sicheren Ort.
+Der Tresor-Export ist der richtige Schritt vor einem Gerätewechsel, einem großen App-Update oder wenn Sie möchten, dass eine tragbare Kopie irgendwo unabhängig von Ihrem Telefon gespeichert wird. Tun Sie es mindestens einmal und speichern Sie die Datei an einem sicheren Ort.
 
 Cloud-Sicherung (Pro) ist die richtige Wahl, wenn Sie automatischen Schutz ohne manuelle Dateiverwaltung wünschen. Wenn Sie zu einem unterstützten Telefon derselben Plattform wechseln, nutzen Sie dasselbe Cloud-Konto, wählen Sie Ihr Backup im Wiederherstellungsablauf, geben Sie Ihren Wiederherstellungscode ein und bestätigen Sie. Die Wiederherstellung ersetzt den lokalen Tresorinhalt.
 
@@ -76,11 +76,11 @@ Keine einzelne Ebene ist ein Grund, die anderen zu überspringen. Cloud-Konten k
 
 ## Schnelle Antworten
 
-Welche Sicherungsoptionen bietet Travel Document Vault? Travel Document Vault bietet drei Schutzebenen: (1) Automatische lokale Sicherungen, die alle paar Minuten kostenlos auf Ihrem Gerät erstellt werden. (2) Vault-Export, eine kostenlose manuelle verschlüsselte Sicherungsdatei (.tdvault), die Sie überall speichern können. (3) Cloud-Sicherung, eine Pro-Option, die eine Ende-zu-Ende verschlüsselte Kopie in Ihrem eigenen iCloud oder Google Drive führt. Ist Vault-Export kostenlos? Dies ist kostenlos für alle Benutzer. Kein Pro-Kauf erforderlich. Was ist der Unterschied zwischen lokalen Sicherungen und Vault-Export? Während die App geöffnet ist und Sie Änderungen vornehmen, erstellt sie alle paar Minuten automatisch Snapshots Ihres Tresors. Sie brauchen nichts zu tun. Die App behält einige der neuesten Snapshots und entfernt ältere, um Platz zu sparen. Der Tresor-Export erstellt eine portable verschlüsselte Datei, die Sie außerhalb des Geräts speichern können. Was ist Cloud-Sicherung und wer braucht sie? Cloud-Sicherung ist eine Pro-Funktion. Aktivieren Sie sie, um eine automatische Kopie in Ihrem eigenen iCloud (iOS) oder Google Drive (Android) aufzubewahren. Die App aktualisiert sie, während sie geöffnet und mit dem Internet verbunden ist. Wir erhalten sie nicht. Dokumentinhalte sind verschlüsselt. Backup-Metadaten wie Gerätenamen, Anzahlen und Zeitstempel sind es nicht.
+Welche Sicherungsoptionen bietet Travel Document Vault? Travel Document Vault bietet drei Schutzebenen: (1) Automatische lokale Sicherungen, die alle paar Minuten kostenlos auf Ihrem Gerät erstellt werden. (2) Tresor-Export, eine kostenlose manuelle verschlüsselte Sicherungsdatei (.tdvault), die Sie überall speichern können. (3) Cloud-Sicherung, eine Pro-Option, die eine Ende-zu-Ende-verschlüsselte Kopie in Ihrem eigenen iCloud oder Google Drive führt. Ist der Tresor-Export kostenlos? Dies ist kostenlos für alle Benutzer. Kein Pro-Kauf erforderlich. Was ist der Unterschied zwischen lokalen Sicherungen und dem Tresor-Export? Während die App geöffnet ist und Sie Änderungen vornehmen, erstellt sie alle paar Minuten automatisch Snapshots Ihres Tresors. Sie brauchen nichts zu tun. Die App behält einige der neuesten Snapshots und entfernt ältere, um Platz zu sparen. Der Tresor-Export erstellt eine portable verschlüsselte Datei, die Sie außerhalb des Geräts speichern können. Was ist Cloud-Sicherung und wer braucht sie? Cloud-Sicherung ist eine Pro-Funktion. Aktivieren Sie sie, um eine automatische Kopie in Ihrem eigenen iCloud (iOS) oder Google Drive (Android) aufzubewahren. Die App aktualisiert sie, während sie geöffnet und mit dem Internet verbunden ist. Wir erhalten sie nicht. Dokumentinhalte sind verschlüsselt. Backup-Metadaten wie Gerätenamen, Anzahlen und Zeitstempel sind es nicht.
 
 ## Travel Document Vault herunterladen
 
-Kostenloser Download. Vault-Export und lokale Sicherungen sind für alle enthalten. Pro fügt Cloud-Sicherung, unbegrenzte Profile, kombinierter PDF-Export und mehr hinzu. Einmaliger Kauf, kein Abonnement.
+Kostenloser Download. Tresor-Export und lokale Sicherungen sind für alle enthalten. Pro fügt Cloud-Sicherung, unbegrenzte Profile, kombinierten PDF-Export und mehr hinzu. Einmaliger Kauf, kein Abonnement.
 
 [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=faq&mt=8)
 

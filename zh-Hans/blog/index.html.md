@@ -100,7 +100,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/
 
 ##
 
-[护照规定护照有效期多久才能旅行？ 大多数成人护照有效期为10年，但实际可旅行的时间窗口往往更短。下面介绍有效期月数的计算方式。 2026年4月30日6 min](https://traveldocumentvault.com/zh-Hans/blog/how-long-is-passport-valid-for-travel/)
+[护照规定护照有效期多久才能旅行？ 大多数成人护照有效期为10年，但实际可旅行的时间窗口往往更短。下面介绍有效期月数的计算方式。 2026年4月30日6 分钟读完](https://traveldocumentvault.com/zh-Hans/blog/how-long-is-passport-valid-for-travel/)
 
 ##
 
@@ -112,11 +112,11 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/
 
 ##
 
-[隐私与安全iCloud vs Google Photos vs 加密保险库：安全存储护照的最佳方法 对存储护照数字副本的三种主要方式进行诚实比较，了解每种方式对您的安全意味着什么。 2026年4月15日7 min](https://traveldocumentvault.com/zh-Hans/blog/safest-way-to-store-passport-digitally/)
+[隐私与安全iCloud vs Google Photos vs 加密保险库：安全存储护照的最佳方法 对存储护照数字副本的三种主要方式进行诚实比较，了解每种方式对您的安全意味着什么。 2026年4月15日7 分钟读完](https://traveldocumentvault.com/zh-Hans/blog/safest-way-to-store-passport-digitally/)
 
 ##
 
-[护照规则数字护照副本：旅行时什么算作有效身份证明？ 航空公司、酒店、使馆和边境官员对数字护照副本的处理方式各不相同。以下是数字副本如何帮助以及您绝对需要纸质文件的地方。 Apr 4, 20267 min read](https://traveldocumentvault.com/zh-Hans/blog/digital-passport-copy-valid/)
+[护照规则数字护照副本：旅行时什么算作有效身份证明？ 航空公司、酒店、使馆和边境官员对数字护照副本的处理方式各不相同。以下是数字副本如何帮助以及您绝对需要纸质文件的地方。 2026 年 4 月 4 日7 分钟读完](https://traveldocumentvault.com/zh-Hans/blog/digital-passport-copy-valid/)
 
 ##
 

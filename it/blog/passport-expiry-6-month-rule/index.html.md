@@ -66,8 +66,6 @@ I requisiti di validità del passaporto per paese cambiano senza preavviso — u
 
 Verificate sempre i vostri requisiti specifici utilizzando il Centro Viaggi IATA, il sistema che le compagnie aeree utilizzano per controllare i documenti dei passeggeri in tempo reale.
 
-**Travel Document Vault** con Pro controlla i passaporti collegati applicando un margine predefinito di 180 giorni dopo la fine del viaggio salvato, salvo che impostiate un margine di validità personalizzato. Verificate separatamente la regola effettiva della destinazione. [Scaricate su App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) e [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog).
-
 ## Quando la Regola dei 6 Mesi Non si Applica
 
 Molte destinazioni non chiedono nulla oltre le date del vostro viaggio. Il Ministero degli Esteri britannico lo dice chiaramente per il Giappone: il vostro passaporto deve essere valido per la durata del soggiorno, e non è richiesto alcun periodo di validità aggiuntivo. Australia e Stati Uniti usano lo stesso standard, chiedendo solo che il vostro passaporto resti valido per la durata del soggiorno previsto.
@@ -140,7 +138,7 @@ I paesi che comunemente richiedono 6 mesi di validità del passaporto includono 
 
 Gli Stati Uniti non richiedono 6 mesi di validità del passaporto per i cittadini statunitensi che entrano nel paese. Ma i cittadini statunitensi che viaggiano all'estero rimangono soggetti a tutte le regole che il paese di destinazione stabilisce — e molte destinazioni popolari applicano il requisito di 6 mesi.
 
-### Posso essere negato l'imbarco per la regola dei 6 mesi?
+### Mi può essere negato l'imbarco per la regola dei 6 mesi?
 
 Sì. Le compagnie aeree controllano la validità del passaporto utilizzando un database a livello di industria dei requisiti di ingresso. Se il vostro passaporto non soddisfa i requisiti della destinazione sulla carta, la compagnia aerea può negarvi l'imbarco — anche se il paese stesso potrebbe avervi fatto passare nella pratica.
 
@@ -163,6 +161,10 @@ Dipende interamente da dove state andando. Giappone, Australia e Stati Uniti chi
 ### La regola dei 6 mesi si applica se sto solo transitando attraverso un paese?
 
 Spesso sì, ed è il passaggio che le persone dimenticano. Il Ministero degli Esteri segnala sia nelle sue indicazioni di viaggio per l'Australia sia in quelle per gli Stati Uniti che, se transitate attraverso un altro paese lungo il tragitto, dovete soddisfare anche i requisiti di ingresso di quel paese, e molti di essi chiedono sei mesi. La stessa destinazione può avere requisiti documentali diversi per un volo diretto e per un volo con uno scalo.
+
+### Esistono paesi che estendono la validità del passaporto di sei mesi dopo la scadenza?
+
+Nessun paese aggiunge tempo al passaporto. L'elenco a cui di solito si fa riferimento è pubblicato dall'agenzia statunitense Customs and Border Protection: i cittadini dei paesi che vi figurano sono esenti dal requisito statunitense dei sei mesi di validità e hanno bisogno di un passaporto valido soltanto per la durata del soggiorno previsto. Riguarda l'ingresso negli Stati Uniti e nient'altro.
 
 ## Articoli Correlati
 

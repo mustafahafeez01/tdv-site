@@ -42,19 +42,19 @@ Legen Sie für jedes Land ein festes oder rollierendes Zeitfenster mit Ihrem eig
 
 ## Und vieles mehr
 
-#### Länderflagge + Stadt
+### Länderflagge + Stadt
 
 Reisekarte zeigt Reiseziel-Flagge und Stadt. Auf einen Blick planen. Wissen, wohin es geht.
 
-#### Countdown-Tage
+### Countdown-Tage
 
 Wie viele Tage bis zur Reise? Countdown erscheint auf Reisekarten. Bringt alle in Vorfreude.
 
-#### Immer offline
+### Immer offline
 
 Funktioniert zu 100 % offline. Planen Sie am Flughafen. Kein Internet erforderlich. Funktioniert im Flugmodus.
 
-#### Optionale Cloud-Sync
+### Optionale Cloud-Sync
 
 Pro: Sync mit Ihrer eigenen iCloud oder Google Drive. Multi-Device-Zugriff. Sie halten den Schlüssel.
 
