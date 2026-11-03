@@ -24,7 +24,7 @@ Un souci de moins.
 
 ## Vos Documents Restent Avec Vous
 
-Je l'ai créé parce que ma propre famille en avait besoin. Vos documents enregistrés sont chiffrés sur votre appareil. Une sauvegarde optionnelle va vers votre propre iCloud ou Google Drive, scellée par un code de récupération que vous seul avez.
+Vos documents enregistrés sont chiffrés sur votre appareil. Une sauvegarde optionnelle va vers votre propre iCloud ou Google Drive, scellée par un code de récupération que vous seul avez.
 
 ### Créé par un Parent
 
@@ -38,7 +38,7 @@ Le serveur le plus sûr pour les scans de passeport n'existe pas du tout. C'est 
 
 Les documents sont chiffrés sur votre appareil avec AES-256-GCM, en utilisant des clés conservées dans le stockage sécurisé des clés de votre appareil. C'est un chiffrement solide et moderne — et vous devriez toujours protéger votre téléphone avec un code d'accès fort et App Lock.
 
-### Votre Cloud. Votre Clé.
+### Votre Cloud, Votre Clé
 
 L’exportation et l’importation du coffre sont gratuites. Pro ajoute la sauvegarde cloud chiffrée sur votre propre iCloud ou Google Drive. Restaurez-la avec votre code de récupération sur un téléphone compatible de la même plateforme, utilisant le même compte cloud. Nous ne détenons pas votre code.
 
@@ -90,7 +90,7 @@ Conçu pour les familles qui voyagent partout.
 
 Feu tricolore de disponibilité familiale. Voyez quels documents associés nécessitent votre attention en fonction des dates de voyage enregistrées.
 
-### Votre Cloud. Votre Clé.
+### Votre Cloud, Votre Clé
 
 Sauvegarde chiffrée dans votre iCloud ou Google Drive. Vous détenez le code de récupération. Nous ne le voyons jamais.
 

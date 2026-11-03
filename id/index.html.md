@@ -24,7 +24,7 @@ Satu hal lagi yang tidak perlu dikhawatirkan.
 
 ## Dokumen Anda Tetap Bersama Anda
 
-Dibangun oleh orang tua yang membutuhkannya. Dokumen yang tersimpan terenkripsi di perangkat Anda. Cadangan terenkripsi opsional ke iCloud atau Google Drive Anda sendiri, disegel dengan kode pemulihan yang hanya Anda pegang.
+Dokumen yang tersimpan terenkripsi di perangkat Anda. Cadangan terenkripsi opsional ke iCloud atau Google Drive Anda sendiri, disegel dengan kode pemulihan yang hanya Anda pegang.
 
 ### Dibangun oleh Orang Tua
 
@@ -38,7 +38,7 @@ Server teraman untuk pemindaian paspor adalah tanpa server sama sekali, itulah m
 
 Dokumen dienkripsi di perangkat Anda dengan AES-256-GCM, menggunakan kunci yang disimpan di penyimpanan kunci aman perangkat Anda. Itu enkripsi yang kuat dan modern, dan Anda tetap harus melindungi ponsel Anda dengan sandi yang kuat dan App Lock.
 
-### Cloud Anda. Kunci Anda.
+### Cloud Anda, Kunci Anda
 
 Ekspor dan impor brankas gratis. Pro menambahkan cadangan cloud terenkripsi ke iCloud atau Google Drive Anda sendiri. Pulihkan dengan kode pemulihan di ponsel yang kompatibel pada platform yang sama, menggunakan akun cloud yang sama. Kami tidak memegang kode Anda.
 
@@ -90,7 +90,7 @@ Dibangun untuk keluarga yang bepergian di mana saja.
 
 Lampu lalu lintas kesiapan keluarga. Lihat dokumen tertaut yang perlu diperhatikan berdasarkan tanggal perjalanan yang tersimpan.
 
-### Cloud Anda. Kunci Anda.
+### Cloud Anda, Kunci Anda
 
 Cadangan terenkripsi di iCloud atau Google Drive Anda. Anda memegang kode pemulihan. Kami tidak pernah melihatnya.
 

@@ -24,7 +24,7 @@ Een zorg minder.
 
 ## Uw Documenten Blijven Bij U
 
-Gebouwd door een ouder die het nodig had. Uw opgeslagen documenten staan versleuteld op uw apparaat. Een optionele back-up gaat naar uw eigen iCloud of Google Drive, beveiligd met een herstelcode die alleen u hebt.
+Uw opgeslagen documenten staan versleuteld op uw apparaat. Een optionele back-up gaat naar uw eigen iCloud of Google Drive, beveiligd met een herstelcode die alleen u hebt.
 
 ### Gebouwd door een Ouder
 
@@ -38,7 +38,7 @@ De veiligste server voor paspoortscannen is geen server. Daarom bewaart de app d
 
 Documenten zijn versleuteld op uw apparaat met AES-256-GCM, met sleutels opgeslagen in de beveiligde sleutelopslag van uw apparaat. Dat is sterke, moderne versleuteling, en u moet uw telefoon nog steeds beschermen met een sterk wachtwoord en App Lock.
 
-### Uw cloud. Uw sleutel.
+### Uw cloud, uw sleutel
 
 Kluisexport en back-upimport zijn gratis. Pro voegt een versleutelde cloudback-up naar uw eigen iCloud of Google Drive toe. Herstel met uw herstelcode op een compatibele telefoon op hetzelfde platform, met hetzelfde cloudaccount. Wij bewaren uw code niet.
 
@@ -94,7 +94,7 @@ Familiebereidschapsampel. Zie welke gekoppelde documenten aandacht nodig hebben 
 
 Pro
 
-### Uw cloud. Uw sleutel.
+### Uw cloud, uw sleutel
 
 Versleutelde back-up naar uw iCloud of Google Drive. U houdt de herstelcode. We zien het nooit.
 

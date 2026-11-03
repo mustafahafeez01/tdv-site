@@ -24,7 +24,7 @@ Uma preocupação a menos.
 
 ## Os Seus Documentos Ficam Consigo
 
-Construída por um pai que precisava. Os documentos guardados ficam encriptados no dispositivo. Cópia de segurança encriptada opcional vai para o seu iCloud ou Google Drive, selada com um código de recuperação que apenas o utilizador tem.
+Os documentos guardados ficam encriptados no dispositivo. Cópia de segurança encriptada opcional vai para o seu iCloud ou Google Drive, selada com um código de recuperação que apenas o utilizador tem.
 
 ### Construída por um Pai
 
@@ -38,7 +38,7 @@ O servidor mais seguro para cópias de passaporte é não ter servidor nenhum, e
 
 Os documentos são encriptados no seu dispositivo com AES-256-GCM, utilizando chaves mantidas no armazenamento seguro de chaves do dispositivo. Trata-se de encriptação moderna e forte, e deve ainda assim proteger o seu telemóvel com uma senha forte e Bloqueio da App.
 
-### A Sua Nuvem. A Sua Chave.
+### A Sua Nuvem, A Sua Chave
 
 A exportação e a importação do cofre são gratuitas. Pro acrescenta cópia de segurança encriptada na nuvem para o seu próprio iCloud ou Google Drive. Restaure com o código de recuperação num telemóvel compatível na mesma plataforma, usando a mesma conta na nuvem. Não guardamos o código.
 
@@ -90,7 +90,7 @@ Construída para famílias que viajam para todo o lado.
 
 Semáforo de preparação familiar. Veja quais os documentos associados que precisam de atenção face às datas de viagem guardadas.
 
-### A Sua Nuvem. A Sua Chave.
+### A Sua Nuvem, A Sua Chave
 
 Cópia de segurança criptografada no seu iCloud ou Google Drive. Você guarda o código de recuperação. Nunca o vemos.
 

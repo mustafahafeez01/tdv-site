@@ -158,7 +158,7 @@ I promemoria partono da soli, con tempi calibrati sul tipo di documento. Per i p
 
 ### Promemoria per il passaporto
 
-8 mesi 6 mesi 3 mesi 6 settimane 1 mese 2 settimane 1 settimana Scadenza +1 giorno +1 settimana
+8 mesi 6 mesi 3 mesi 6 settimane 1 mese 2 settimane 1 settimana Giorno di scadenza +1 giorno +1 settimana
 
 ### Promemoria per il visto
 
@@ -166,7 +166,7 @@ I promemoria partono da soli, con tempi calibrati sul tipo di documento. Per i p
 
 ### Promemoria per i biglietti aerei
 
-1 settimana 2 giorni 1 giorno 24 ore
+1 settimana 2 giorni 1 giorno Check-in 24 ore
 
 I **promemoria dopo la scadenza** (elencati dopo la data di scadenza) La aiutano a non perdere di vista i documenti scaduti. Anche se la data di scadenza è passata, continuerà a ricevere promemoria per il rinnovo: ideali per i documenti che scadono mentre è in viaggio.
 

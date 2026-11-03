@@ -158,7 +158,7 @@ Los recordatorios se activan solos, según el tipo de documento. Los pasaportes 
 
 ### Recordatorios del pasaporte
 
-8 meses 6 meses 3 meses 6 semanas 1 mes 2 semanas 1 semana Caducidad +1 día +1 semana
+8 meses 6 meses 3 meses 6 semanas 1 mes 2 semanas 1 semana Día de caducidad +1 día +1 semana
 
 ### Recordatorios del visado
 
@@ -166,7 +166,7 @@ Los recordatorios se activan solos, según el tipo de documento. Los pasaportes 
 
 ### Recordatorios de billetes de avión
 
-1 semana 2 días 1 día 24 horas
+1 semana 2 días 1 día Check-in 24 h
 
 **Los recordatorios tras la caducidad** (listados después de la fecha de caducidad) te ayudan a no perder de vista los documentos caducados. Aunque se te haya pasado la fecha, seguirás recibiendo avisos para renovarlos, algo muy útil para los documentos que caducan mientras estás de viaje.
 

@@ -158,7 +158,7 @@ Pengingat aktif dengan sendirinya, sesuai jenis dokumen. Untuk paspor, pengingat
 
 ### Pengingat Paspor
 
-8 bulan 6 bulan 3 bulan 6 minggu 1 bulan 2 minggu 1 minggu Kedaluwarsa +1 hari +1 minggu
+8 bulan 6 bulan 3 bulan 6 minggu 1 bulan 2 minggu 1 minggu Hari kedaluwarsa +1 hari +1 minggu
 
 ### Pengingat Visa
 
@@ -166,7 +166,7 @@ Pengingat aktif dengan sendirinya, sesuai jenis dokumen. Untuk paspor, pengingat
 
 ### Pengingat Tiket Pesawat
 
-1 minggu 2 hari 1 hari 24 jam
+1 minggu 2 hari 1 hari Check-in 24 jam
 
 **Pengingat setelah kedaluwarsa** (dicantumkan setelah tanggal kedaluwarsa) membantu Anda tetap memantau dokumen yang sudah kedaluwarsa. Meski Anda melewatkan tanggal kedaluwarsanya, pengingat untuk memperpanjang tetap dikirim, sehingga dokumen yang kedaluwarsa saat Anda sedang bepergian tidak luput dari perhatian.
 

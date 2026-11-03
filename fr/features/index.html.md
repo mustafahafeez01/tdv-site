@@ -158,7 +158,7 @@ Les rappels se programment tout seuls, selon le type de document. Pour les passe
 
 ### Rappels pour les passeports
 
-8 mois 6 mois 3 mois 6 semaines 1 mois 2 semaines 1 semaine Expiration +1 jour +1 semaine
+8 mois 6 mois 3 mois 6 semaines 1 mois 2 semaines 1 semaine Jour de l’expiration +1 jour +1 semaine
 
 ### Rappels pour les visas
 
@@ -166,7 +166,7 @@ Les rappels se programment tout seuls, selon le type de document. Pour les passe
 
 ### Rappels pour les billets d’avion
 
-1 semaine 2 jours 1 jour 24 heures
+1 semaine 2 jours 1 jour Enregistrement (24 h)
 
 **Les rappels après expiration** (listés après la date d’expiration) vous aident à ne pas perdre de vue les documents expirés. Même si la date d’expiration est passée, vous continuez à recevoir des rappels pour renouveler : idéal pour ne pas oublier un document qui expire pendant un voyage.
 

@@ -158,7 +158,7 @@ Herinneringen starten vanzelf, afgestemd op het documenttype. Voor paspoorten be
 
 ### Paspoortherinneringen
 
-8 maanden 6 maanden 3 maanden 6 weken 1 maand 2 weken 1 week Vervaldatum +1 dag +1 week
+8 maanden 6 maanden 3 maanden 6 weken 1 maand 2 weken 1 week Vervaldag +1 dag +1 week
 
 ### Visumherinneringen
 
@@ -166,7 +166,7 @@ Herinneringen starten vanzelf, afgestemd op het documenttype. Voor paspoorten be
 
 ### Vliegticketherinneringen
 
-1 week 2 dagen 1 dag 24 uur
+1 week 2 dagen 1 dag Inchecken 24 uur
 
 **Herinneringen na de vervaldatum** (die in de lijst ná de vervaldag staan) helpen u verlopen documenten in het oog te houden. Ook als u de vervaldatum hebt gemist, krijgt u nog herinneringen om te verlengen. Handig voor documenten die verlopen terwijl u op reis bent.
 

@@ -24,7 +24,7 @@ En sak mindre att oroa sig för.
 
 ## Dina dokument stannar hos dig
 
-Byggd av en förälder som behövde det. Dina sparade dokument är krypterade på din enhet. Valfri krypterad säkerhetskopia går till ditt eget iCloud eller Google Drive, förseglat med en återställningskod endast du har.
+Dina sparade dokument är krypterade på din enhet. Valfri krypterad säkerhetskopia går till ditt eget iCloud eller Google Drive, förseglat med en återställningskod endast du har.
 
 ### Byggd av en förälder
 
@@ -38,7 +38,7 @@ Den säkeraste servern för passkanningar finns inte alls – vilket är varför
 
 Dokument är krypterade på din enhet med AES-256-GCM, med nycklar som förvaras i din enhets säkra nyckellagring. Det är stark, modern kryptering, och du bör fortfarande skydda din telefon med ett starkt lösenord och App Lock.
 
-### Din molnlagring. Din nyckel.
+### Din molnlagring, din nyckel
 
 Valfri krypterad säkerhetskopia i ditt eget iCloud eller Google Drive. Du håller återställningskoden. Vi ser den aldrig. Synkronisera mellan dina enheter, men du förblir i kontroll.
 
@@ -90,7 +90,7 @@ Byggd för familjer som reser överallt.
 
 Beredskapstrafikljus för familjen. Se vilka länkade dokument som behöver ses över mot dina sparade resdatum.
 
-### Din molnlagring. Din nyckel.
+### Din molnlagring, din nyckel
 
 Krypterad säkerhetskopia i ditt iCloud eller Google Drive. Du håller återställningskoden. Vi ser den aldrig.
 

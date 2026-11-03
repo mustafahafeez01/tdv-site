@@ -158,7 +158,7 @@ Erinnerungen starten von selbst, abgestimmt auf den Dokumenttyp. Bei Reisepässe
 
 ### Reisepass-Erinnerungen
 
-8 Monate 6 Monate 3 Monate 6 Wochen 1 Monat 2 Wochen 1 Woche Ablauf +1 Tag +1 Woche
+8 Monate 6 Monate 3 Monate 6 Wochen 1 Monat 2 Wochen 1 Woche Ablauftag +1 Tag +1 Woche
 
 ### Visum-Erinnerungen
 
@@ -166,7 +166,7 @@ Erinnerungen starten von selbst, abgestimmt auf den Dokumenttyp. Bei Reisepässe
 
 ### Flugticket-Erinnerungen
 
-1 Woche 2 Tage 1 Tag 24 Stunden
+1 Woche 2 Tage 1 Tag Check-in (24 Std.)
 
 **Erinnerungen nach Ablauf** (nach dem Ablaufdatum aufgeführt) helfen Ihnen, abgelaufene Dokumente im Blick zu behalten. Auch wenn Sie das Ablaufdatum verpasst haben, werden Sie weiterhin an die Verlängerung erinnert – ideal für Dokumente, die ablaufen, während Sie unterwegs sind.
 

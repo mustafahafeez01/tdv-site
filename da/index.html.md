@@ -24,7 +24,7 @@ Ingen ser dette arbejde. Nu har det et sted at høre til, denne rejse og alle de
 
 ## Dine Dokumenter Forbliver Hos Dig
 
-Bygget af en forælder der havde brug for det. Dine gemte dokumenter er krypteret på din enhed. Valgfri krypteret sikkerhedskopi til din iCloud eller Google Drive er forseglede med en gendannelseskode som kun du har.
+Dine gemte dokumenter er krypteret på din enhed. Valgfri krypteret sikkerhedskopi til din iCloud eller Google Drive er forseglede med en gendannelseskode som kun du har.
 
 ### Bygget af en forælder
 
@@ -38,7 +38,7 @@ Den sikreste server til paskopiering er slet ingen server, og det er grunden til
 
 Dokumenter er krypteret på din enhed med AES-256-GCM ved hjælp af nøgler, der opbevares i din enheds sikre nøglelager. Det er stærk, moderne kryptering, og du bør stadig beskytte din telefon med en stærk adgangskode og App Lock.
 
-### Din Sky. Din Nøgle.
+### Din Sky, Din Nøgle
 
 Eksport og import af boksen er gratis. Pro tilføjer krypteret cloud-backup til din egen iCloud eller Google Drive. Gendan med din gendannelseskode på en kompatibel telefon på samme platform med samme skykonto. Vi opbevarer ikke din kode.
 
@@ -82,7 +82,7 @@ Bygget til familier der rejser overalt.
 
 Trafiklys for familiens rejseberedskab. Se, hvilke tilknyttede dokumenter der kræver opmærksomhed i forhold til dine gemte rejsedatoer.
 
-### Din Sky. Din Nøgle.
+### Din Sky, Din Nøgle
 
 Krypteret sikkerhedskopi til din iCloud eller Google Drive. Du holder gendannelseskoden. Vi ser den aldrig.
 

@@ -158,7 +158,7 @@ Påminnelserna startar av sig själva, anpassade efter dokumenttypen. För pass 
 
 ### Passpåminnelser
 
-8 månader 6 månader 3 månader 6 veckor 1 månad 2 veckor 1 vecka Utgångsdatum +1 dag +1 vecka
+8 månader 6 månader 3 månader 6 veckor 1 månad 2 veckor 1 vecka Utgångsdagen +1 dag +1 vecka
 
 ### Visumpåminnelser
 
@@ -166,7 +166,7 @@ Påminnelserna startar av sig själva, anpassade efter dokumenttypen. För pass 
 
 ### Påminnelser för flygbiljetter
 
-1 vecka 2 dagar 1 dag 24 timmar
+1 vecka 2 dagar 1 dag Incheckning 24 h
 
 **Påminnelser efter utgångsdatum** (listas efter utgångsdatumet) hjälper dig att hålla koll på dokument som har gått ut. Även om du missade utgångsdatumet får du påminnelser om att förnya, vilket är perfekt för dokument som går ut medan du är ute och reser.
 

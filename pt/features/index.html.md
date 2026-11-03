@@ -158,7 +158,7 @@ Os lembretes começam sozinhos, conforme o tipo de documento. Nos passaportes, c
 
 ### Lembretes de passaporte
 
-8 meses 6 meses 3 meses 6 semanas 1 mês 2 semanas 1 semana Expiração +1 dia +1 semana
+8 meses 6 meses 3 meses 6 semanas 1 mês 2 semanas 1 semana Dia da expiração +1 dia +1 semana
 
 ### Lembretes de visto
 
@@ -166,7 +166,7 @@ Os lembretes começam sozinhos, conforme o tipo de documento. Nos passaportes, c
 
 ### Lembretes de bilhete de avião
 
-1 semana 2 dias 1 dia 24 horas
+1 semana 2 dias 1 dia Check-in 24 h
 
 **Lembretes após a expiração** (listados após a data de validade) ajudam-no a não perder de vista documentos caducados. Mesmo que lhe tenha escapado a data de validade, continua a receber lembretes para renovar, o que é ideal para documentos que caducam enquanto está em viagem.
 

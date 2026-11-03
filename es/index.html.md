@@ -24,7 +24,7 @@ Una cosa menos de la que preocuparse.
 
 ## Tus Documentos Se Quedan Contigo
 
-Lo construí porque mi propia familia lo necesitaba. Tus documentos guardados se cifran en tu dispositivo. La copia de seguridad opcional va a tu propio iCloud o Google Drive, sellada con un código de recuperación que solo tú tienes.
+Tus documentos guardados se cifran en tu dispositivo. La copia de seguridad opcional va a tu propio iCloud o Google Drive, sellada con un código de recuperación que solo tú tienes.
 
 ### Construido por un Padre
 
@@ -38,7 +38,7 @@ El servidor más seguro para escaneos de pasaporte es ningún servidor. Por eso 
 
 Los documentos se cifran en tu dispositivo con AES-256-GCM, usando claves guardadas en el almacenamiento seguro de claves de tu dispositivo. Es cifrado sólido y moderno —y aún deberías proteger tu teléfono con una contraseña fuerte y App Lock.
 
-### Tu Nube. Tu Clave.
+### Tu Nube, Tu Clave
 
 Copia de seguridad cifrada opcional en tu iCloud o Google Drive. Tú tienes el código de recuperación. Nunca lo vemos. Apple y Google no pueden leerlo. Sincroniza entre dispositivos, pero tú tienes el control.
 
@@ -82,7 +82,7 @@ Construido para familias que viajan por todo el mundo.
 
 Semáforo de preparación familiar. Mira qué documentos vinculados necesitan atención frente a tus fechas de viaje guardadas.
 
-### Tu Nube. Tu Clave.
+### Tu Nube, Tu Clave
 
 Copia de seguridad cifrada en tu iCloud o Google Drive. Tú tienes el código de recuperación. Nunca lo vemos.
 

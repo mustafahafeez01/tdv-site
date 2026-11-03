@@ -24,7 +24,7 @@ Una cosa in meno di cui preoccuparsi.
 
 ## I Suoi Documenti Rimangono Con Lei
 
-Costruito da un genitore che ne aveva bisogno. I documenti salvati sono crittografati sul Suo dispositivo. Il backup facoltativo va sul Suo iCloud o Google Drive, protetto da un codice di recupero che solo Lei possiede.
+I documenti salvati sono crittografati sul Suo dispositivo. Il backup facoltativo va sul Suo iCloud o Google Drive, protetto da un codice di recupero che solo Lei possiede.
 
 ### Costruito da un Genitore
 
@@ -38,7 +38,7 @@ Il server più sicuro per le scansioni dei passaporti è nessun server, ecco per
 
 I documenti vengono crittografati sul Suo dispositivo con AES-256-GCM, utilizzando chiavi custodite nell’archiviazione sicura delle chiavi del dispositivo. È una crittografia forte e moderna, e dovrebbe comunque proteggere il Suo telefono con una passcode robusta e il Blocco App.
 
-### Il Vostro Cloud. La Vostra Chiave.
+### Il Vostro Cloud, La Vostra Chiave
 
 L’esportazione del caveau e l’importazione del backup sono gratuite. Pro aggiunge il backup cloud crittografato sul Suo iCloud o Google Drive. Ripristini con il codice di recupero su un telefono compatibile della stessa piattaforma, usando lo stesso account cloud. Non conserviamo il Suo codice.
 
@@ -90,7 +90,7 @@ Realizzato per le famiglie che viaggiano ovunque.
 
 Semaforo della prontezza familiare. Veda quali documenti collegati richiedono attenzione rispetto alle date di viaggio salvate.
 
-### Tuo Cloud. Tua Chiave.
+### Tuo Cloud, Tua Chiave
 
 Backup crittografato nel Suo iCloud o Google Drive. Lei detiene il codice di ripristino. Non lo vediamo mai.
 

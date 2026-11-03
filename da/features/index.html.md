@@ -158,7 +158,7 @@ Påmindelserne starter af sig selv, tilpasset dokumenttypen. For pas begynder de
 
 ### Paspåmindelser
 
-8 måneder 6 måneder 3 måneder 6 uger 1 måned 2 uger 1 uge Udløb +1 dag +1 uge
+8 måneder 6 måneder 3 måneder 6 uger 1 måned 2 uger 1 uge Udløbsdag +1 dag +1 uge
 
 ### Visumpåmindelser
 
@@ -166,7 +166,7 @@ Påmindelserne starter af sig selv, tilpasset dokumenttypen. For pas begynder de
 
 ### Flybilletpåmindelser
 
-1 uge 2 dage 1 dag 24 timer
+1 uge 2 dage 1 dag Check-in 24 t
 
 **Påmindelser efter udløb** (vist efter udløbsdatoen) hjælper dig med at holde styr på udløbne dokumenter. Selv hvis du har overset udløbsdatoen, får du stadig påmindelser om at forny, så de er særligt nyttige til at opfange dokumenter, der udløber, mens du er ude at rejse.
 

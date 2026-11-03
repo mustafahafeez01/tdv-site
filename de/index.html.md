@@ -24,7 +24,7 @@ Eine Sorge weniger.
 
 ## Ihre Dokumente bleiben bei Ihnen
 
-Gebaut von einem Elternteil, das es brauchte. Ihre gespeicherten Dokumente werden auf Ihrem Gerät verschlüsselt. Ein optionales verschlüsseltes Backup geht in Ihre eigene iCloud oder Google Drive, versiegelt mit einem Wiederherstellungscode, den nur Sie kennen.
+Ihre gespeicherten Dokumente werden auf Ihrem Gerät verschlüsselt. Ein optionales verschlüsseltes Backup geht in Ihre eigene iCloud oder Google Drive, versiegelt mit einem Wiederherstellungscode, den nur Sie kennen.
 
 ### Gebaut von einem Elternteil
 
@@ -38,7 +38,7 @@ Der sicherste Server für Passscans ist kein Server – deshalb speichert die Ap
 
 Dokumente werden auf Ihrem Gerät mit AES-256-GCM verschlüsselt, wobei Schlüssel im sicheren Schlüsselspeicher Ihres Geräts gespeichert sind. Das ist starke, moderne Verschlüsselung, und Sie sollten Ihr Telefon dennoch mit einem starken Passcode und App Lock schützen.
 
-### Ihre Cloud. Ihr Schlüssel.
+### Ihre Cloud, Ihr Schlüssel
 
 Tresor-Export und -Import sind kostenlos. Pro ergänzt verschlüsselte Cloud-Backups in Ihrem eigenen iCloud oder Google Drive. Stellen Sie mit Ihrem Wiederherstellungscode auf einem kompatiblen Telefon derselben Plattform mit demselben Cloud-Konto wieder her. Wir besitzen Ihren Code nicht.
 
@@ -90,7 +90,7 @@ Gebaut für Familien, die überall reisen.
 
 Ampel der Familienbereitschaft. Sehen Sie, welche verknüpften Dokumente anhand Ihrer gespeicherten Reisedaten Aufmerksamkeit brauchen.
 
-### Ihre Cloud. Ihr Schlüssel.
+### Ihre Cloud, Ihr Schlüssel
 
 Verschlüsselte Sicherung in Ihrer iCloud oder Google Drive. Sie halten den Wiederherstellungscode. Wir sehen ihn nie.
 

@@ -24,7 +24,7 @@ One less thing to worry about.
 
 ## Your Documents Stay With You
 
-Built by a parent who needed it. Your saved documents are encrypted on your device. Optional backup goes to your own iCloud or Google Drive, sealed with a recovery code only you hold.
+Your saved documents are encrypted on your device. Optional backup goes to your own iCloud or Google Drive, sealed with a recovery code only you hold.
 
 ### Built by a Parent
 
@@ -38,7 +38,7 @@ The safest server for passport scans is no server at all, which is why the app k
 
 Documents are encrypted on your device with AES-256-GCM, using keys held in your device's secure key storage. That's strong, modern encryption - and you should still protect your phone with a strong passcode and App Lock.
 
-### Your Cloud. Your Key.
+### Your Cloud, Your Key
 
 Vault export and import are free. Pro adds encrypted cloud backup to your own iCloud or Google Drive. Restore with your recovery code on a compatible phone on the same platform, using the same cloud account. We do not hold your code.
 
@@ -82,7 +82,7 @@ Built for families who travel everywhere.
 
 Family readiness traffic light. See which linked documents need attention against your saved trip dates.
 
-### Your Cloud. Your Key.
+### Your Cloud, Your Key
 
 Encrypted backup to your iCloud or Google Drive. You hold the recovery code. We never see it.
 

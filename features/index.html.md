@@ -158,7 +158,7 @@ Reminders start on their own, timed to the document type. Passports begin **8 mo
 
 ### Passport Reminders
 
-8 months 6 months 3 months 6 weeks 1 month 2 weeks 1 week Expiry +1 day +1 week
+8 months 6 months 3 months 6 weeks 1 month 2 weeks 1 week Expiry day +1 day +1 week
 
 ### Visa Reminders
 
@@ -166,7 +166,7 @@ Reminders start on their own, timed to the document type. Passports begin **8 mo
 
 ### Airline Ticket Reminders
 
-1 week 2 days 1 day 24 hours
+1 week 2 days 1 day 24h check-in
 
 **Post-expiry reminders** (listed after the expiry date) help you stay on top of expired documents. Even if you missed the expiry date, you'll still get reminders to renew, making them perfect for catching documents that expire while you're travelling.
 
