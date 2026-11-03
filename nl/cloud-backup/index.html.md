@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/nl/cloud-backup/
 
 De inhoud van uw documenten wordt versleuteld voordat deze naar de cloud wordt geüpload.
 
-1
+![Diagram van Cloud Backup, een Pro-functie: documentinhoud wordt op uw telefoon versleuteld, het versleutelde bestand gaat naar uw eigen iCloud of Google Drive, alleen u heeft de herstelcode, en op een nieuw apparaat kiest u Herstellen uit Back-up, voert u de code in en tikt u op Herstellen](https://traveldocumentvault.com/assets/figures/cloud-backup-flow-nl.jpg) 1
 
 ### Versleutel op het apparaat
 

@@ -8,6 +8,8 @@ Source: https://traveldocumentvault.com/it/privacy-verification/
 
 ## Le nostre affermazioni sulla privacy
 
+![Diagramma di dove vivono i tuoi dati: documenti, scansioni, date di scadenza e promemoria restano sul tuo dispositivo e funzionano offline; i dati lasciano il dispositivo solo se attivi il Backup Cloud (Pro), che invia un file crittografato al tuo iCloud o Google Drive, oppure se scegli di attivare i rapporti sugli arresti. Non esiste un account, nessun server per i documenti e nessun database dei tuoi dati](https://traveldocumentvault.com/assets/figures/privacy-boundary-it.jpg)
+
 ### Nessun tracker pubblicitario
 
 Nessuna rete pubblicitaria, nessuna analisi comportamentale e nessun pixel di tracciamento nell'app. La segnalazione degli arresti anomali è facoltativa, separata, e resta disattivata finché non la attivi.

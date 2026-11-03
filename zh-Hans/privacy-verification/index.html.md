@@ -8,6 +8,8 @@ Source: https://traveldocumentvault.com/zh-Hans/privacy-verification/
 
 ## 我们的隐私声明
 
+![您的数据存放位置示意图：文档、扫描件、到期日期和提醒保存在您的手机上，并可离线使用；只有在您开启云备份（Pro）后，数据才会离开手机，将加密文件发送到您自己的 iCloud 或 Google Drive，或者您选择加入崩溃报告时。没有账户，没有文档服务器，也没有保存您数据的数据库](https://traveldocumentvault.com/assets/figures/privacy-boundary-zh-Hans.jpg)
+
 ### 无广告跟踪
 
 应用内没有广告网络、没有行为分析，也没有跟踪像素。可选的崩溃报告是独立功能，除非您主动开启，否则始终关闭。

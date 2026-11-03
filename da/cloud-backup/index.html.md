@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/da/cloud-backup/
 
 Dit dokumentindhold krypteres før upload til skyen.
 
-1
+![Diagram af Skybakup, en Pro-funktion: dokumentindhold krypteres på din telefon, den krypterede fil sendes til din egen iCloud eller Google Drive, kun du har gendannelseskoden, og på en ny enhed vælger du Gendann fra sikkerhedskopi, indtaster koden og trykker Gendan](https://traveldocumentvault.com/assets/figures/cloud-backup-flow-da.jpg) 1
 
 ### Kryptering på enheden
 

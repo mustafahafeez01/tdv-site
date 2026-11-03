@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/it/cloud-backup/
 
 I contenuti dei Suoi documenti vengono crittografati prima del caricamento nel cloud.
 
-1
+![Diagramma del Backup Cloud, una funzione Pro: i contenuti dei documenti vengono crittografati sul dispositivo, il file crittografato va al Suo iCloud o Google Drive personale, solo Lei detiene il codice di recupero, e su un nuovo dispositivo si seleziona Ripristina da Backup, si inserisce il codice e si tocca Ripristina](https://traveldocumentvault.com/assets/figures/cloud-backup-flow-it.jpg) 1
 
 ### Crittografia sul Dispositivo
 

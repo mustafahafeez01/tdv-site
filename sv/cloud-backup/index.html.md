@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/sv/cloud-backup/
 
 Dina dokument krypteras före uppladdning till molnet.
 
-1
+![Diagram över Molnsäkerhetskopia, en Pro-funktion: dokumentinnehållet krypteras på din telefon, den krypterade filen går till ditt eget iCloud eller Google Drive, bara du håller återställningskoden, och på en ny enhet väljer du Återställ från säkerhetskopia, anger koden och trycker på Återställ](https://traveldocumentvault.com/assets/figures/cloud-backup-flow-sv.jpg) 1
 
 ### Kryptering på enheten
 

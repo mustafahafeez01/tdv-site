@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/cloud-backup/
 
 Your document contents are encrypted before cloud upload.
 
-1
+![Diagram of Cloud Backup, a Pro feature: document contents are encrypted on your phone, the encrypted file goes to your own iCloud or Google Drive, only you hold the recovery code, and on a new device you choose Restore from Backup, enter the code and tap Restore](https://traveldocumentvault.com/assets/figures/cloud-backup-flow-en.jpg) 1
 
 ### Encrypt On-Device
 

@@ -8,6 +8,8 @@ Source: https://traveldocumentvault.com/de/privacy-verification/
 
 ## Unsere Datenschutzaussagen
 
+![Diagramm dazu, wo Ihre Daten liegen: Dokumente, Scans, Ablaufdaten und Erinnerungen bleiben auf Ihrem Gerät und funktionieren offline; Daten verlassen das Gerät nur, wenn Sie die Cloud-Sicherung (Pro) aktivieren, die eine verschlüsselte Datei an Ihr eigenes iCloud- oder Google Drive-Konto sendet, oder wenn Sie Absturzberichten zustimmen. Es gibt kein Konto, keinen Dokumentenserver und keine Datenbank Ihrer Daten](https://traveldocumentvault.com/assets/figures/privacy-boundary-de.jpg)
+
 ### Keine Werbe-Tracker
 
 Keine Werbenetzwerke, keine Verhaltensanalyse und keine Tracking-Pixel in der App. Die optionale Absturzberichterstattung ist getrennt davon und bleibt deaktiviert, bis Sie sie aktivieren.

@@ -8,6 +8,8 @@ Source: https://traveldocumentvault.com/da/privacy-verification/
 
 ## Vores privatlivsgarantier
 
+![Diagram over hvor dine data opbevares: dokumenter, scanninger, udløbsdatoer og påmindelser forbliver på din telefon og virker offline. Data forlader kun telefonen, hvis du aktiverer Skybakup (Pro), som sender en krypteret fil til din egen iCloud eller Google Drive, eller hvis du vælger at sende fejlrapporter. Der er ingen konto, ingen dokumentserver og ingen database med dine data](https://traveldocumentvault.com/assets/figures/privacy-boundary-da.jpg)
+
 ### Ingen annoncesporing
 
 Ingen annoncenetværk, ingen adfærdsanalyse og ingen sporingspixler i appen. Valgfri fejlrapportering er separat og forbliver slået fra, indtil du selv aktiverer den.

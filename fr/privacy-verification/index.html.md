@@ -8,6 +8,8 @@ Source: https://traveldocumentvault.com/fr/privacy-verification/
 
 ## Nos déclarations de confidentialité
 
+![Schéma de l'emplacement de vos données : documents, scans, dates d'expiration et rappels restent sur votre appareil et fonctionnent hors ligne ; les données ne sortent que si vous activez la Sauvegarde cloud (Pro), qui envoie un fichier chiffré vers votre propre iCloud ou Google Drive, ou si vous acceptez les rapports de crash. Il n'y a pas de compte, pas de serveur de documents et pas de base de données de vos données](https://traveldocumentvault.com/assets/figures/privacy-boundary-fr.jpg)
+
 ### Aucun traceur publicitaire
 
 Aucun réseau publicitaire, aucune analyse comportementale et aucun pixel de suivi dans l'application. Le signalement optionnel des pannes est séparé et reste désactivé sauf si vous l'activez.

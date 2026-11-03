@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/ko/cloud-backup/
 
 문서 내용은 클라우드에 업로드하기 전에 암호화됩니다.
 
-1
+![클라우드 백업(Pro 기능) 다이어그램: 문서 내용은 휴대폰에서 암호화되고, 암호화된 파일은 본인의 iCloud 또는 Google Drive로 전송되며, 복구 코드는 본인만 보관합니다. 새 기기에서는 백업에서 복원을 선택하고 코드를 입력한 후 복원을 탭합니다.](https://traveldocumentvault.com/assets/figures/cloud-backup-flow-ko.jpg) 1
 
 ### 기기 암호화
 

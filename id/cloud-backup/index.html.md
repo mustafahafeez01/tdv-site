@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/id/cloud-backup/
 
 Isi dokumen Anda dienkripsi sebelum diunggah ke cloud.
 
-1
+![Diagram Cadangan Awan, fitur Pro: isi dokumen dienkripsi di ponsel Anda, file terenkripsi dikirim ke akun iCloud atau Google Drive Anda sendiri, hanya Anda yang memegang kode pemulihan, dan di perangkat baru Anda memilih Pulihkan dari Cadangan, masukkan kode, lalu ketuk Pulihkan](https://traveldocumentvault.com/assets/figures/cloud-backup-flow-id.jpg) 1
 
 ### Enkripsi di Perangkat
 

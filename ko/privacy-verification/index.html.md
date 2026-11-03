@@ -8,6 +8,8 @@ Source: https://traveldocumentvault.com/ko/privacy-verification/
 
 ## 우리의 개인정보 보호 주장
 
+![데이터가 어디에 있는지 보여주는 다이어그램: 문서, 스캔, 만료일과 알림은 휴대폰에 저장되며 오프라인에서도 작동합니다. 클라우드 백업(Pro)을 켜서 암호화된 파일을 본인의 iCloud 또는 Google Drive로 보내거나 오류 보고에 동의하는 경우에만 데이터가 기기 밖으로 나갑니다. 계정도, 문서 서버도, 내 데이터를 모아 두는 데이터베이스도 없습니다.](https://traveldocumentvault.com/assets/figures/privacy-boundary-ko.jpg)
+
 ### 광고 추적기 없음
 
 앱 안에 광고 네트워크, 행동 분석, 추적 픽셀이 없습니다. 선택적 크래시 보고는 별도 기능이며, 직접 켜지 않는 한 꺼져 있습니다.

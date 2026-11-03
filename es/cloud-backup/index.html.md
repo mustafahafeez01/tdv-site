@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/es/cloud-backup/
 
 El contenido de tus documentos se cifra antes de subirlo a la nube.
 
-1
+![Diagrama de Copia de Seguridad en la Nube, una función Pro: el contenido de los documentos se cifra en tu teléfono, el archivo cifrado va a tu propia cuenta de iCloud o Google Drive, solo tú tienes el código de recuperación, y en un dispositivo nuevo eliges Restaurar desde Copia de Seguridad, introduces el código y tocas Restaurar](https://traveldocumentvault.com/assets/figures/cloud-backup-flow-es.jpg) 1
 
 ### Cifrado en el Dispositivo
 

@@ -8,6 +8,8 @@ Source: https://traveldocumentvault.com/nl/privacy-verification/
 
 ## Onze privacygaranties
 
+![Diagram van waar uw gegevens zich bevinden: documenten, scans, vervaldata en herinneringen blijven op uw telefoon en werken offline; gegevens verlaten uw telefoon alleen als u Cloud Backup (Pro) inschakelt, dat een versleuteld bestand naar uw eigen iCloud of Google Drive stuurt, of als u zich aanmeldt voor crashrapporten. Er is geen account, geen documentserver en geen database van uw gegevens](https://traveldocumentvault.com/assets/figures/privacy-boundary-nl.jpg)
+
 ### Geen advertentietrackers
 
 Geen advertentienetwerken, geen gedragsanalyse en geen trackingpixels in de app. Optionele crashrapportage is gescheiden en staat uit totdat je die zelf inschakelt.

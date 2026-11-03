@@ -8,6 +8,8 @@ Source: https://traveldocumentvault.com/id/privacy-verification/
 
 ## Klaim privasi kami
 
+![Diagram tempat data Anda tersimpan: dokumen, pemindaian, tanggal kedaluwarsa, dan pengingat tetap di ponsel Anda dan berfungsi offline; data keluar hanya jika Anda mengaktifkan Cadangan Awan (Pro), yang mengirim file terenkripsi ke akun iCloud atau Google Drive Anda sendiri, atau memilih ikut serta dalam laporan error. Tidak ada akun, tidak ada server dokumen, dan tidak ada database data Anda](https://traveldocumentvault.com/assets/figures/privacy-boundary-id.jpg)
+
 ### Tanpa pelacak iklan
 
 Tidak ada jaringan iklan, tidak ada analitik perilaku, dan tidak ada piksel pelacak di dalam aplikasi. Pelaporan error bersifat opsional, terpisah, dan tetap nonaktif sampai Anda mengaktifkannya sendiri.

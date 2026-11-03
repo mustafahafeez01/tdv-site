@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/ja/cloud-backup/
 
 書類の内容は、クラウドへのアップロード前に暗号化されます。
 
-1
+![クラウドバックアップ（Proの機能）の図。書類の内容はスマホ内で暗号化され、暗号化されたファイルは本人のiCloudまたはGoogle Driveに送られます。リカバリーコードは本人だけが持ち、新しい端末では「バックアップから復元」を選び、コードを入力して「復元」をタップします。](https://traveldocumentvault.com/assets/figures/cloud-backup-flow-ja.jpg) 1
 
 ### デバイス上で暗号化
 

@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/zh-Hans/cloud-backup/
 
 您的文档内容会在上传到云端之前加密。
 
-1
+![云备份（Pro 功能）流程图：文档内容在您的手机上加密，加密文件发送到您自己的 iCloud 或 Google Drive，只有您持有恢复码；在新设备上选择从备份恢复，输入恢复码并点击恢复](https://traveldocumentvault.com/assets/figures/cloud-backup-flow-zh-Hans.jpg) 1
 
 ### 设备上的加密
 

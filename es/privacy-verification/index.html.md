@@ -8,6 +8,8 @@ Source: https://traveldocumentvault.com/es/privacy-verification/
 
 ## Nuestras afirmaciones de privacidad
 
+![Diagrama de dónde viven tus datos: los documentos, escaneos, fechas de caducidad y recordatorios se quedan en tu teléfono y funcionan sin conexión; los datos solo salen si activas la Copia de Seguridad en la Nube (Pro), que envía un archivo cifrado a tu propio iCloud o Google Drive, o si activas los informes de fallos. No hay cuenta, ni servidor de documentos, ni base de datos de tus datos.](https://traveldocumentvault.com/assets/figures/privacy-boundary-es.jpg)
+
 ### Sin rastreadores publicitarios
 
 Sin redes publicitarias, sin análisis de comportamiento y sin píxeles de seguimiento dentro de la aplicación. El informe de fallos opcional es independiente y permanece desactivado a menos que lo actives.

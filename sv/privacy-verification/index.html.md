@@ -8,6 +8,8 @@ Source: https://traveldocumentvault.com/sv/privacy-verification/
 
 ## Våra integritetsgarantier
 
+![Diagram över var dina data finns: dokument, skanningar, utgångsdatum och påminnelser stannar på din telefon och fungerar offline. Data lämnar bara om du aktiverar Molnsäkerhetskopia (Pro), som skickar en krypterad fil till ditt eget iCloud eller Google Drive, eller om du väljer att aktivera kraschrapporter. Det finns inget konto, ingen dokumentserver och ingen databas med dina data.](https://traveldocumentvault.com/assets/figures/privacy-boundary-sv.jpg)
+
 ### Inga annonsspårare
 
 Inga annonsnätverk, ingen beteendeanalys och inga spårningspixlar i appen. Valfri kraschrapportering är separat och förblir avstängd om du inte själv slår på den.

@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/pt/cloud-backup/
 
 O conteúdo dos documentos é encriptado antes do envio para a nuvem.
 
-1
+![Diagrama da Cópia de Segurança na Nuvem, uma funcionalidade Pro: o conteúdo dos documentos é encriptado no seu telemóvel, o ficheiro encriptado vai para a sua própria conta iCloud ou Google Drive, só você tem o código de recuperação, e num novo dispositivo escolhe Restaurar da Cópia de Segurança, introduz o código e toca em Restaurar](https://traveldocumentvault.com/assets/figures/cloud-backup-flow-pt.jpg) 1
 
 ### Encripte no Dispositivo
 

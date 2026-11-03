@@ -8,6 +8,8 @@ Source: https://traveldocumentvault.com/ja/privacy-verification/
 
 ## 私たちのプライバシー声明
 
+![データの保管場所を示す図。書類、スキャン画像、有効期限、リマインダーはスマホ内に残り、オフラインで利用できます。データが外部に送られるのは、クラウドバックアップ（Pro）をオンにして暗号化ファイルを本人のiCloudまたはGoogle Driveに送る場合、またはクラッシュレポートにオプトインした場合だけです。アカウントも、書類サーバーも、データのデータベースもありません。](https://traveldocumentvault.com/assets/figures/privacy-boundary-ja.jpg)
+
 ### 広告トラッカーなし
 
 アプリ内に広告ネットワーク、行動分析、トラッキングピクセルはありません。オプションのクラッシュレポートは別の機能で、オンにしない限りオフのままです。

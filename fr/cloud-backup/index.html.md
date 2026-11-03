@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/fr/cloud-backup/
 
 Le contenu de vos documents est chiffré avant l’envoi dans le cloud.
 
-1
+![Schéma de la Sauvegarde cloud, une fonctionnalité Pro : le contenu des documents est chiffré sur votre appareil, le fichier chiffré est envoyé dans votre propre compte iCloud ou Google Drive, vous seul détenez le code de récupération, et sur un nouvel appareil, vous choisissez Restaurer à partir de la sauvegarde, saisissez le code et appuyez sur Restaurer](https://traveldocumentvault.com/assets/figures/cloud-backup-flow-fr.jpg) 1
 
 ### Chiffrement sur l'appareil
 

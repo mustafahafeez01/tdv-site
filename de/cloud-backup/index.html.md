@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/de/cloud-backup/
 
 Ihre Dokumentinhalte werden vor dem Hochladen in die Cloud verschlüsselt.
 
-1
+![Diagramm zur Cloud-Sicherung, einer Pro-Funktion: Dokumentinhalte werden auf dem Telefon verschlüsselt, die verschlüsselte Datei geht in Ihr eigenes iCloud- oder Google Drive-Konto, nur Sie besitzen den Wiederherstellungscode, und auf einem neuen Gerät wählen Sie Aus Sicherung wiederherstellen, geben den Code ein und tippen auf Wiederherstellen](https://traveldocumentvault.com/assets/figures/cloud-backup-flow-de.jpg) 1
 
 ### Verschlüsselung auf dem Gerät
 

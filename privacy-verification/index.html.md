@@ -8,6 +8,8 @@ Source: https://traveldocumentvault.com/privacy-verification/
 
 ## The short version
 
+![Diagram of where your data lives: documents, scans, expiry dates and reminders stay on your phone and work offline; data leaves only if you turn on Cloud Backup (Pro), which sends an encrypted file to your own iCloud or Google Drive, or opt in to crash reports. There is no account, no document server and no database of your data](https://traveldocumentvault.com/assets/figures/privacy-boundary-en.jpg)
+
 ### No advertising trackers
 
 No ad networks, no behavioural analytics, and no tracking pixels inside the app. Optional crash reporting is separate and stays off unless you turn it on.

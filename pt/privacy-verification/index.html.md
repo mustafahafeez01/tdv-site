@@ -8,6 +8,8 @@ Source: https://traveldocumentvault.com/pt/privacy-verification/
 
 ## Nossas declarações de privacidade
 
+![Diagrama de onde ficam os seus dados: documentos, digitalizações, datas de validade e lembretes ficam no seu telemóvel e funcionam offline; os dados só saem se ativar a Cópia de Segurança na Nuvem (Pro), que envia um ficheiro encriptado para o seu próprio iCloud ou Google Drive, ou se optar por enviar relatórios de falha. Não existe conta, servidor de documentos nem base de dados dos seus dados](https://traveldocumentvault.com/assets/figures/privacy-boundary-pt.jpg)
+
 ### Sem rastreadores de publicidade
 
 Sem redes de publicidade, sem análise comportamental e sem pixels de rastreamento dentro do aplicativo. O relatório de falhas opcional é separado e permanece desativado até você ativá-lo.
