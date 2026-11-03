@@ -1,22 +1,42 @@
 {
  "sv": {
+  "template": "cards",
   "eyebrow": "BEVIS PÅ VIDARE RESA",
   "title": "Två kontroller, två frågor",
-  "l_step": "STEG 1 · VID INCHECKNING",
-  "l_name": "Flygbolaget",
-  "l_q": "Nekas du inresa?",
-  "l_rows": [
-   "Tillämpar resmålets regler",
-   "Avgör om du får gå ombord"
+  "cards": [
+   {
+    "label": "STEG 1 · VID INCHECKNING",
+    "heading": "Flygbolaget",
+    "sub": "Nekas du inresa?",
+    "items": [
+     {
+      "text": "Tillämpar resmålets regler",
+      "mark": "dot"
+     },
+     {
+      "text": "Avgör om du får gå ombord",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "label": "STEG 2 · VID ANKOMST",
+    "heading": "Gränsen",
+    "sub": "Uppfyller du inresevillkoren?",
+    "items": [
+     {
+      "text": "Kan fråga hur du ska lämna landet",
+      "mark": "dot"
+     },
+     {
+      "text": "Avgör om du får resa in",
+      "mark": "dot"
+     }
+    ]
+   }
   ],
-  "r_step": "STEG 2 · VID ANKOMST",
-  "r_name": "Gränsen",
-  "r_q": "Uppfyller du inresevillkoren?",
-  "r_rows": [
-   "Kan fråga hur du ska lämna landet",
-   "Avgör om du får resa in"
-  ],
-  "arrow": "SEDAN",
+  "link": "arrow",
+  "link_label": "SEDAN",
   "focal": "Räknas oftast: en bokad biljett ut",
   "alt": "Ett diagram som jämför flygbolagets kontroll vid incheckning, som tillämpar resmålets regler och avgör om du får gå ombord, med gränskontrollen vid ankomst, som avgör om du får resa in i landet",
   "caption": "Flygbolaget kontrollerar innan du går ombord, gränskontrollen avgör vid ankomst."

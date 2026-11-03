@@ -1,22 +1,42 @@
 {
  "nl": {
+  "template": "cards",
   "eyebrow": "BEWIJS VAN VERDER REIZEN",
   "title": "Twee controles, twee vragen",
-  "l_step": "STAP 1 · BIJ INCHECKEN",
-  "l_name": "Luchtvaartmaatschappij",
-  "l_q": "Word je bij aankomst geweigerd?",
-  "l_rows": [
-   "Past de regels van de bestemming toe",
-   "Beslist of je aan boord mag"
+  "cards": [
+   {
+    "label": "STAP 1 · BIJ INCHECKEN",
+    "heading": "Luchtvaartmaatschappij",
+    "sub": "Word je bij aankomst geweigerd?",
+    "items": [
+     {
+      "text": "Past de regels van de bestemming toe",
+      "mark": "dot"
+     },
+     {
+      "text": "Beslist of je aan boord mag",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "label": "STAP 2 · BIJ AANKOMST",
+    "heading": "Grens",
+    "sub": "Voldoe je aan de toelatingsvoorwaarden?",
+    "items": [
+     {
+      "text": "Kan vragen hoe je vertrekt",
+      "mark": "dot"
+     },
+     {
+      "text": "Beslist of je wordt toegelaten",
+      "mark": "dot"
+     }
+    ]
+   }
   ],
-  "r_step": "STAP 2 · BIJ AANKOMST",
-  "r_name": "Grens",
-  "r_q": "Voldoe je aan de toelatingsvoorwaarden?",
-  "r_rows": [
-   "Kan vragen hoe je vertrekt",
-   "Beslist of je wordt toegelaten"
-  ],
-  "arrow": "DAN",
+  "link": "arrow",
+  "link_label": "DAN",
   "focal": "Telt meestal: een geboekt vertrekticket",
   "alt": "Diagram dat de controle door de luchtvaartmaatschappij bij het inchecken, die de regels van de bestemming toepast en beslist of je aan boord mag, vergelijkt met de grenscontrole bij aankomst, die beslist of je wordt toegelaten",
   "caption": "De luchtvaartmaatschappij controleert voor je instapt; de grensbeambte beslist bij aankomst."

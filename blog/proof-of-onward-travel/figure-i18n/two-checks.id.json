@@ -1,22 +1,42 @@
 {
  "id": {
+  "template": "cards",
   "eyebrow": "BUKTI PERJALANAN LANJUTAN",
   "title": "Dua pemeriksaan, dua pertanyaan",
-  "l_step": "LANGKAH 1 · SAAT CHECK-IN",
-  "l_name": "Maskapai",
-  "l_q": "Apakah Anda akan ditolak saat tiba?",
-  "l_rows": [
-   "Menerapkan aturan negara tujuan",
-   "Memutuskan apakah Anda naik pesawat"
+  "cards": [
+   {
+    "label": "LANGKAH 1 · SAAT CHECK-IN",
+    "heading": "Maskapai",
+    "sub": "Apakah Anda akan ditolak saat tiba?",
+    "items": [
+     {
+      "text": "Menerapkan aturan negara tujuan",
+      "mark": "dot"
+     },
+     {
+      "text": "Memutuskan apakah Anda naik pesawat",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "label": "LANGKAH 2 · SAAT TIBA",
+    "heading": "Perbatasan",
+    "sub": "Apakah Anda memenuhi syarat masuk?",
+    "items": [
+     {
+      "text": "Bisa menanyakan cara Anda pergi",
+      "mark": "dot"
+     },
+     {
+      "text": "Memutuskan apakah Anda masuk",
+      "mark": "dot"
+     }
+    ]
+   }
   ],
-  "r_step": "LANGKAH 2 · SAAT TIBA",
-  "r_name": "Perbatasan",
-  "r_q": "Apakah Anda memenuhi syarat masuk?",
-  "r_rows": [
-   "Bisa menanyakan cara Anda pergi",
-   "Memutuskan apakah Anda masuk"
-  ],
-  "arrow": "LALU",
+  "link": "arrow",
+  "link_label": "LALU",
   "focal": "Biasanya dihitung: tiket keluar yang sudah dipesan",
   "alt": "Diagram yang membandingkan pemeriksaan maskapai saat check-in, yang menerapkan aturan negara tujuan dan memutuskan apakah Anda naik pesawat, dengan pemeriksaan perbatasan saat tiba, yang memutuskan apakah Anda masuk",
   "caption": "Maskapai memeriksa sebelum Anda naik pesawat; petugas perbatasan memutuskan saat tiba."

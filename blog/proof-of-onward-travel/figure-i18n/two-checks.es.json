@@ -1,22 +1,42 @@
 {
  "es": {
+  "template": "cards",
   "eyebrow": "PRUEBA DE VIAJE DE CONTINUACIÓN",
   "title": "Dos controles, dos preguntas",
-  "l_step": "PASO 1 · EN EL CHECK-IN",
-  "l_name": "La aerolínea",
-  "l_q": "¿Te van a denegar la entrada?",
-  "l_rows": [
-   "Aplica las normas del destino",
-   "Decide si embarcas"
+  "cards": [
+   {
+    "label": "PASO 1 · EN EL CHECK-IN",
+    "heading": "La aerolínea",
+    "sub": "¿Te van a denegar la entrada?",
+    "items": [
+     {
+      "text": "Aplica las normas del destino",
+      "mark": "dot"
+     },
+     {
+      "text": "Decide si embarcas",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "label": "PASO 2 · A LA LLEGADA",
+    "heading": "La frontera",
+    "sub": "¿Cumples las condiciones de entrada?",
+    "items": [
+     {
+      "text": "Puede preguntar cómo vas a salir",
+      "mark": "dot"
+     },
+     {
+      "text": "Decide si te deja entrar",
+      "mark": "dot"
+     }
+    ]
+   }
   ],
-  "r_step": "PASO 2 · A LA LLEGADA",
-  "r_name": "La frontera",
-  "r_q": "¿Cumples las condiciones de entrada?",
-  "r_rows": [
-   "Puede preguntar cómo vas a salir",
-   "Decide si te deja entrar"
-  ],
-  "arrow": "LUEGO",
+  "link": "arrow",
+  "link_label": "LUEGO",
   "focal": "Suele contar: un billete de salida reservado",
   "alt": "Diagrama que compara el control de la aerolínea en el check-in, que aplica las normas del destino y decide si embarcas, con el control de frontera a la llegada, que decide si te deja entrar",
   "caption": "La aerolínea comprueba antes de que embarques; el funcionario de fronteras decide a la llegada."
