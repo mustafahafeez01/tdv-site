@@ -36,13 +36,13 @@ Gruppieren Sie alle Familiendokumente nach Reise. Eine Ampelanzeige zeigt auf ei
 
 Pro
 
-Optionales verschlüsseltes Backup (Pro) in Ihrer persönlichen iCloud oder Ihrem Google Drive. Wiederherstellen können Sie es mit Ihrem Wiederherstellungscode. Aktivieren Sie die Synchronisierung, um denselben Tresor auf unterstützten Geräten derselben Plattform zu nutzen. Empfehlungen für Backups finden Sie in den [Datenschutzgrundsätzen der britischen Datenschutzbehörde ICO](https://ico.org.uk/for-organisations/the-soa/accountability/data-protection-impact-assessments/).
+Optionales verschlüsseltes Backup (Pro) in Ihrer persönlichen iCloud oder Ihrem Google Drive. Wiederherstellen können Sie es mit Ihrem Wiederherstellungscode. Aktivieren Sie die Synchronisierung, um denselben Tresor auf unterstützten Geräten derselben Plattform zu nutzen. Empfehlungen für Backups finden Sie in den Datenschutzgrundsätzen der britischen Datenschutzbehörde ICO.
 
 ### Tage im Ausland erfassen
 
 Pro
 
-Erfassen Sie mit Pro die Tage, die Sie in jedem Land verbringen – pro Reise und pro Familienmitglied. Vergleichen Sie Ihre gespeicherten Reisetage mit den Tageslimits, die Sie für die Länder eingeben. Prüfen Sie die Regeln für Ihr Reiseziel beim [IATA Travel Centre](https://www.iatatravelcentre.com/).
+Erfassen Sie mit Pro die Tage, die Sie in jedem Land verbringen – pro Reise und pro Familienmitglied. Vergleichen Sie Ihre gespeicherten Reisetage mit den Tageslimits, die Sie für die Länder eingeben. Prüfen Sie die Regeln für Ihr Reiseziel beim IATA Travel Centre.
 
 ### Eigene Tageslimits
 

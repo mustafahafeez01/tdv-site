@@ -36,13 +36,13 @@ Raggruppi per viaggio i documenti di tutta la famiglia. Il semaforo di preparazi
 
 Pro
 
-Backup crittografato facoltativo (Pro) sul Suo iCloud o Google Drive personale. Ripristini con il Suo codice di recupero. Attivi la sincronizzazione per usare lo stesso vault sui dispositivi supportati della stessa piattaforma. Per le buone pratiche di backup, consulti i [principi di protezione dei dati dell’ICO britannico](https://ico.org.uk/for-organisations/the-soa/accountability/data-protection-impact-assessments/).
+Backup crittografato facoltativo (Pro) sul Suo iCloud o Google Drive personale. Ripristini con il Suo codice di recupero. Attivi la sincronizzazione per usare lo stesso vault sui dispositivi supportati della stessa piattaforma. Per le buone pratiche di backup, consulti i principi di protezione dei dati dell’ICO britannico.
 
 ### Giorni trascorsi all’estero
 
 Pro
 
-Con Pro, tiene traccia dei giorni trascorsi in ogni paese, per viaggio e per familiare. Confronti i giorni dei viaggi salvati con i limiti per paese che inserisce. Verifichi le regole della Sua destinazione sull’[IATA Travel Centre](https://www.iatatravelcentre.com/).
+Con Pro, tiene traccia dei giorni trascorsi in ogni paese, per viaggio e per familiare. Confronti i giorni dei viaggi salvati con i limiti per paese che inserisce. Verifichi le regole della Sua destinazione sull’IATA Travel Centre.
 
 ### Regole personalizzate sulle franchigie
 

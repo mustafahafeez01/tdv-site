@@ -36,13 +36,13 @@ Groepeer alle gezinsdocumenten per reis. Een stoplicht laat in één oogopslag z
 
 Pro
 
-Optionele versleutelde back-up (Pro) naar uw eigen iCloud of Google Drive. Herstel met uw herstelcode. Zet synchronisatie aan om dezelfde kluis te gebruiken op ondersteunde apparaten met hetzelfde platform. Zie de [principes voor gegevensbescherming van de Britse ICO](https://ico.org.uk/for-organisations/the-soa/accountability/data-protection-impact-assessments/) voor goede back-uppraktijken.
+Optionele versleutelde back-up (Pro) naar uw eigen iCloud of Google Drive. Herstel met uw herstelcode. Zet synchronisatie aan om dezelfde kluis te gebruiken op ondersteunde apparaten met hetzelfde platform. Zie de principes voor gegevensbescherming van de Britse ICO voor goede back-uppraktijken.
 
 ### Houd dagen in het buitenland bij
 
 Pro
 
-Houd met Pro bij hoeveel dagen u in elk land doorbrengt, per reis en per gezinslid. Vergelijk uw opgeslagen reisdagen met de daglimieten die u per land invoert. Controleer de regels voor uw bestemming bij het [IATA Travel Centre](https://www.iatatravelcentre.com/).
+Houd met Pro bij hoeveel dagen u in elk land doorbrengt, per reis en per gezinslid. Vergelijk uw opgeslagen reisdagen met de daglimieten die u per land invoert. Controleer de regels voor uw bestemming bij het IATA Travel Centre.
 
 ### Eigen regels voor toegestane dagen
 

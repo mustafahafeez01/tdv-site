@@ -36,13 +36,13 @@ Agrupa por viaje todos los documentos de la familia. Un semáforo de preparació
 
 Pro
 
-Copia de seguridad cifrada opcional (Pro) en tu iCloud o Google Drive personal. Restáurala con tu código de recuperación. Activa la sincronización para usar la misma bóveda en dispositivos compatibles de la misma plataforma. Consulta los [principios de protección de datos de la ICO británica](https://ico.org.uk/for-organisations/the-soa/accountability/data-protection-impact-assessments/) para conocer las buenas prácticas de copia de seguridad.
+Copia de seguridad cifrada opcional (Pro) en tu iCloud o Google Drive personal. Restáurala con tu código de recuperación. Activa la sincronización para usar la misma bóveda en dispositivos compatibles de la misma plataforma. Consulta los principios de protección de datos de la ICO británica para conocer las buenas prácticas de copia de seguridad.
 
 ### Días fuera del país
 
 Pro
 
-Con Pro, controla los días pasados en cada país, por viaje y por miembro de la familia. Compara los días de tus viajes guardados con los límites por país que introduzcas. Comprueba las normas de tu destino en el [IATA Travel Centre](https://www.iatatravelcentre.com/).
+Con Pro, controla los días pasados en cada país, por viaje y por miembro de la familia. Compara los días de tus viajes guardados con los límites por país que introduzcas. Comprueba las normas de tu destino en el IATA Travel Centre.
 
 ### Reglas de estancia personalizadas
 

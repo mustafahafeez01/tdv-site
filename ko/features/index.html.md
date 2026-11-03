@@ -36,13 +36,13 @@ Pro
 
 Pro
 
-개인 iCloud 또는 Google Drive에 암호화된 백업을 선택적으로 저장할 수 있습니다(Pro). 복원할 때는 복구 코드를 사용합니다. 동기화를 켜면 같은 플랫폼의 지원 기기에서 같은 보관함을 쓸 수 있습니다. 백업 모범 사례는 [영국 ICO 데이터 보호 원칙](https://ico.org.uk/for-organisations/the-soa/accountability/data-protection-impact-assessments/)을 참고하세요.
+개인 iCloud 또는 Google Drive에 암호화된 백업을 선택적으로 저장할 수 있습니다(Pro). 복원할 때는 복구 코드를 사용합니다. 동기화를 켜면 같은 플랫폼의 지원 기기에서 같은 보관함을 쓸 수 있습니다. 백업 모범 사례는 영국 ICO 데이터 보호 원칙을 참고하세요.
 
 ### 해외 체류 일수 추적
 
 Pro
 
-Pro에서는 국가별 체류 일수를 여행별, 가족 구성원별로 추적합니다. 저장된 여행 일수를 직접 입력한 국가별 일수 한도와 비교해 보세요. 목적지 규정은 [IATA Travel Centre](https://www.iatatravelcentre.com/)에서 확인하세요.
+Pro에서는 국가별 체류 일수를 여행별, 가족 구성원별로 추적합니다. 저장된 여행 일수를 직접 입력한 국가별 일수 한도와 비교해 보세요. 목적지 규정은 IATA Travel Centre에서 확인하세요.
 
 ### 체류 한도 직접 설정
 

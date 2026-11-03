@@ -36,13 +36,13 @@ Agrupe os documentos da família por viagem. Um semáforo de preparação mostra
 
 Pro
 
-Cópia de segurança encriptada opcional (Pro) para o seu iCloud ou Google Drive pessoal. Restaure com o seu código de recuperação. Ative a sincronização para usar o mesmo cofre em dispositivos suportados da mesma plataforma. Consulte os [princípios de proteção de dados do ICO do Reino Unido](https://ico.org.uk/for-organisations/the-soa/accountability/data-protection-impact-assessments/) para boas práticas de cópia de segurança.
+Cópia de segurança encriptada opcional (Pro) para o seu iCloud ou Google Drive pessoal. Restaure com o seu código de recuperação. Ative a sincronização para usar o mesmo cofre em dispositivos suportados da mesma plataforma. Consulte os princípios de proteção de dados do ICO do Reino Unido para boas práticas de cópia de segurança.
 
 ### Dias passados fora do país
 
 Pro
 
-Com o Pro, acompanhe os dias passados em cada país, por viagem e por membro da família. Compare os dias das viagens guardadas com os limites por país que introduzir. Confirme as regras do seu destino no [IATA Travel Centre](https://www.iatatravelcentre.com/).
+Com o Pro, acompanhe os dias passados em cada país, por viagem e por membro da família. Compare os dias das viagens guardadas com os limites por país que introduzir. Confirme as regras do seu destino no IATA Travel Centre.
 
 ### Regras de limite personalizadas
 

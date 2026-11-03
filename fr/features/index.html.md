@@ -36,13 +36,13 @@ Regroupez tous les documents de la famille par voyage. Un code couleur façon fe
 
 Pro
 
-Sauvegarde chiffrée facultative (Pro) sur votre iCloud ou Google Drive personnel. Restaurez-la avec votre code de récupération. Activez la synchronisation pour retrouver le même coffre sur les appareils compatibles d’une même plateforme. Pour les bonnes pratiques de sauvegarde, consultez les [principes de protection des données de l’ICO britannique](https://ico.org.uk/for-organisations/the-soa/accountability/data-protection-impact-assessments/).
+Sauvegarde chiffrée facultative (Pro) sur votre iCloud ou Google Drive personnel. Restaurez-la avec votre code de récupération. Activez la synchronisation pour retrouver le même coffre sur les appareils compatibles d’une même plateforme. Pour les bonnes pratiques de sauvegarde, consultez les principes de protection des données de l’ICO britannique.
 
 ### Suivez vos jours à l’étranger
 
 Pro
 
-Avec Pro, suivez les jours passés dans chaque pays, par voyage et par membre de la famille. Comparez les jours de vos voyages enregistrés aux limites par pays que vous saisissez. Pour votre destination, vérifiez les règles auprès de l’[IATA Travel Centre](https://www.iatatravelcentre.com/).
+Avec Pro, suivez les jours passés dans chaque pays, par voyage et par membre de la famille. Comparez les jours de vos voyages enregistrés aux limites par pays que vous saisissez. Pour votre destination, vérifiez les règles auprès de l’IATA Travel Centre.
 
 ### Règles de quotas personnalisées
 

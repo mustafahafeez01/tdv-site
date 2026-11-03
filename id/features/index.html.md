@@ -36,13 +36,13 @@ Kelompokkan semua dokumen keluarga per perjalanan. Indikator kesiapan bergaya la
 
 Pro
 
-Cadangan terenkripsi opsional (Pro) ke iCloud atau Google Drive pribadi Anda. Pulihkan dengan kode pemulihan Anda. Aktifkan sinkronisasi untuk memakai vault yang sama di perangkat yang didukung pada platform yang sama. Lihat [prinsip perlindungan data UK ICO](https://ico.org.uk/for-organisations/the-soa/accountability/data-protection-impact-assessments/) untuk praktik terbaik pencadangan.
+Cadangan terenkripsi opsional (Pro) ke iCloud atau Google Drive pribadi Anda. Pulihkan dengan kode pemulihan Anda. Aktifkan sinkronisasi untuk memakai vault yang sama di perangkat yang didukung pada platform yang sama. Lihat prinsip perlindungan data UK ICO untuk praktik terbaik pencadangan.
 
 ### Pantau Hari di Luar Negeri
 
 Pro
 
-Dengan Pro, pantau jumlah hari di setiap negara, per perjalanan dan per anggota keluarga. Bandingkan hari perjalanan yang tersimpan dengan batas hari negara yang Anda masukkan. Periksa aturan untuk tujuan Anda di [IATA Travel Centre](https://www.iatatravelcentre.com/).
+Dengan Pro, pantau jumlah hari di setiap negara, per perjalanan dan per anggota keluarga. Bandingkan hari perjalanan yang tersimpan dengan batas hari negara yang Anda masukkan. Periksa aturan untuk tujuan Anda di IATA Travel Centre.
 
 ### Aturan Jatah Hari Khusus
 

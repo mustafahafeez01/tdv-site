@@ -36,13 +36,13 @@ Pro
 
 Pro
 
-可选的加密备份（Pro），保存到您自己的 iCloud 或 Google Drive，用恢复码即可还原。开启同步后，可在同一平台的受支持设备之间使用同一个保险库。备份的最佳做法可参考[英国 ICO 数据保护原则](https://ico.org.uk/for-organisations/the-soa/accountability/data-protection-impact-assessments/)。
+可选的加密备份（Pro），保存到您自己的 iCloud 或 Google Drive，用恢复码即可还原。开启同步后，可在同一平台的受支持设备之间使用同一个保险库。备份的最佳做法可参考英国 ICO 数据保护原则。
 
 ### 追踪境外停留天数
 
 Pro
 
-升级 Pro，可按行程、按家庭成员统计在各国停留的天数，并将已保存行程的天数与您设定的各国天数上限对比。目的地规则请通过 [IATA Travel Centre](https://www.iatatravelcentre.com/) 核实。
+升级 Pro，可按行程、按家庭成员统计在各国停留的天数，并将已保存行程的天数与您设定的各国天数上限对比。目的地规则请通过 IATA Travel Centre 核实。
 
 ### 自定义停留规则
 

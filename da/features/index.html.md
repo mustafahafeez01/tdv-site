@@ -36,13 +36,13 @@ Saml alle familiens dokumenter efter rejse. Trafiklysstatus viser med ét blik, 
 
 Pro
 
-Valgfri krypteret backup (Pro) til din personlige iCloud eller Google Drive. Gendan med din gendannelseskode. Slå synkronisering til for at bruge den samme boks på understøttede enheder på samme platform. Se [det britiske ICO's databeskyttelsesprincipper](https://ico.org.uk/for-organisations/the-soa/accountability/data-protection-impact-assessments/) for god praksis med backup.
+Valgfri krypteret backup (Pro) til din personlige iCloud eller Google Drive. Gendan med din gendannelseskode. Slå synkronisering til for at bruge den samme boks på understøttede enheder på samme platform. Se det britiske ICO's databeskyttelsesprincipper for god praksis med backup.
 
 ### Hold styr på dage i udlandet
 
 Pro
 
-Med Pro kan du holde styr på dage tilbragt i hvert land, pr. rejse og pr. familiemedlem. Sammenlign dine gemte rejsedage med de dagsgrænser, du angiver for landet. Tjek reglerne for din destination hos [IATA Travel Centre](https://www.iatatravelcentre.com/).
+Med Pro kan du holde styr på dage tilbragt i hvert land, pr. rejse og pr. familiemedlem. Sammenlign dine gemte rejsedage med de dagsgrænser, du angiver for landet. Tjek reglerne for din destination hos IATA Travel Centre.
 
 ### Egne opholdsregler
 

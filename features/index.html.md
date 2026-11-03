@@ -36,13 +36,13 @@ Group all family documents by trip. Traffic light readiness shows at a glance wh
 
 Pro
 
-Optional encrypted backup (Pro) to your personal iCloud or Google Drive. Restore with your recovery code. Turn on sync to use the same vault across supported devices on the same platform. See [UK ICO data protection principles](https://ico.org.uk/for-organisations/the-soa/accountability/data-protection-impact-assessments/) for backup best practices.
+Optional encrypted backup (Pro) to your personal iCloud or Google Drive. Restore with your recovery code. Turn on sync to use the same vault across supported devices on the same platform. See UK ICO data protection principles for backup best practices.
 
 ### Track Days Out of Country
 
 Pro
 
-With Pro, track days spent in each country, per trip and per family member. Compare your saved trip days with the country day limits you enter. Verify rules with [IATA Travel Centre](https://www.iatatravelcentre.com/) for your destination.
+With Pro, track days spent in each country, per trip and per family member. Compare your saved trip days with the country day limits you enter. Verify rules with IATA Travel Centre for your destination.
 
 ### Custom Allowance Rules
 

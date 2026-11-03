@@ -36,13 +36,13 @@ Samla hela familjens dokument per resa. Trafikljusvyn visar direkt vilka länkad
 
 Pro
 
-Valfri krypterad säkerhetskopia (Pro) till ditt personliga iCloud eller Google Drive. Återställ med din återställningskod. Slå på synkronisering för att använda samma valv på enheter som stöds på samma plattform. Se [brittiska ICO:s dataskyddsprinciper](https://ico.org.uk/for-organisations/the-soa/accountability/data-protection-impact-assessments/) för goda rutiner kring säkerhetskopiering.
+Valfri krypterad säkerhetskopia (Pro) till ditt personliga iCloud eller Google Drive. Återställ med din återställningskod. Slå på synkronisering för att använda samma valv på enheter som stöds på samma plattform. Se brittiska ICO:s dataskyddsprinciper för goda rutiner kring säkerhetskopiering.
 
 ### Håll koll på dagar utomlands
 
 Pro
 
-Med Pro håller du koll på dagar i varje land, per resa och per familjemedlem. Jämför dina sparade resdagar med de dagsgränser du anger för landet. Kontrollera reglerna för ditt resmål hos [IATA Travel Centre](https://www.iatatravelcentre.com/).
+Med Pro håller du koll på dagar i varje land, per resa och per familjemedlem. Jämför dina sparade resdagar med de dagsgränser du anger för landet. Kontrollera reglerna för ditt resmål hos IATA Travel Centre.
 
 ### Egna kvotregler
 
