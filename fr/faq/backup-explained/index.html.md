@@ -1,6 +1,6 @@
 # Sauvegardes expliquées : sauvegardes locales, exportation du coffre et sauvegarde cloud | Travel Document Vault
 
-> Les trois façons dont Travel Document Vault protège vos données : sauvegardes locales, exportation du coffre (.tdvault) et sauvegarde cloud chiffrée en option.
+> Les trois façons dont Travel Document Vault protège vos données : sauvegardes locales, export du coffre (.tdvault) et sauvegarde cloud chiffrée en option.
 
 Source: https://traveldocumentvault.com/fr/faq/backup-explained/
 
