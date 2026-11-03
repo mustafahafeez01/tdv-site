@@ -1,0 +1,37 @@
+{
+ "en": {
+  "template": "cards",
+  "title": "US child passport: renew or apply again?",
+  "cards": [
+   {
+    "heading": "Under 16",
+    "tone": "warn",
+    "items": [
+     {"text": "Valid for 5 years", "mark": "dot"},
+     {"text": "Cannot be renewed", "mark": "cross"},
+     {"text": "Apply again in person, both parents", "mark": "dot"}
+    ]
+   },
+   {
+    "heading": "16 or 17",
+    "items": [
+     {"text": "Valid for 10 years", "mark": "tick"},
+     {"text": "Issued before 16? Apply again", "mark": "cross"},
+     {"text": "A parent signs a statement or attends", "mark": "dot"}
+    ]
+   },
+   {
+    "heading": "Last passport issued at 16 or over",
+    "tone": "good",
+    "items": [
+     {"text": "Renewal may be possible", "mark": "tick"}
+    ]
+   }
+  ],
+  "link": "arrow",
+  "focal": "Sixteen is the line",
+  "alt": "Diagram comparing US passports by age. Under 16: valid for five years, cannot be renewed, apply again in person with both parents. At 16 or 17: valid for ten years; a passport issued before 16 means applying again, and a parent signs a statement or attends. If the last passport was issued at 16 or over, renewal may be possible",
+  "caption": "Sixteen is the line: before it, every new passport starts from scratch.",
+  "placement": {"h2": 2, "para": 1}
+ }
+}

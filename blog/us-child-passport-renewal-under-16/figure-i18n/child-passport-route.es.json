@@ -1,0 +1,37 @@
+{
+ "es": {
+  "template": "cards",
+  "title": "Pasaporte de un menor en EE. UU.: ¿renovar o volver a solicitar?",
+  "cards": [
+   {
+    "heading": "Menos de 16 años",
+    "tone": "warn",
+    "items": [
+     {"text": "Válido 5 años", "mark": "dot"},
+     {"text": "No se puede renovar", "mark": "cross"},
+     {"text": "Nueva solicitud en persona, ambos progenitores", "mark": "dot"}
+    ]
+   },
+   {
+    "heading": "16 o 17 años",
+    "items": [
+     {"text": "Válido 10 años", "mark": "tick"},
+     {"text": "¿Emitido antes de los 16? Nueva solicitud", "mark": "cross"},
+     {"text": "Un progenitor firma una declaración o asiste", "mark": "dot"}
+    ]
+   },
+   {
+    "heading": "Último pasaporte emitido a los 16 años o más",
+    "tone": "good",
+    "items": [
+     {"text": "Puede ser posible renovar", "mark": "tick"}
+    ]
+   }
+  ],
+  "link": "arrow",
+  "focal": "Los 16 años son el límite",
+  "alt": "Diagrama que compara los pasaportes de EE. UU. según la edad. Menos de 16 años: válido cinco años, no se puede renovar, nueva solicitud en persona con ambos progenitores. A los 16 o 17 años: válido diez años; un pasaporte emitido antes de los 16 significa volver a solicitarlo, y un progenitor firma una declaración o asiste. Si el último pasaporte se emitió a los 16 años o más, puede ser posible renovar",
+  "caption": "Los 16 años son el límite: antes de esa edad, cada pasaporte nuevo empieza de cero.",
+  "placement": {"h2": 2, "para": 1}
+ }
+}

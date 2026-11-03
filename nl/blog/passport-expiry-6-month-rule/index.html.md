@@ -164,6 +164,10 @@ Vaak wel, en dit is de stap die mensen vergeten. De Foreign Office merkt zowel b
 
 Geen enkel land zet extra tijd op je paspoort. De lijst die mensen hiermee bedoelen, wordt gepubliceerd door US Customs and Border Protection: burgers van de landen op die lijst zijn vrijgesteld van de Amerikaanse eis van zes maanden geldigheid en hebben alleen een paspoort nodig dat geldig is voor de duur van hun verblijf. Die lijst geldt voor inreizen in de Verenigde Staten en nergens anders.
 
+### Welke landen vereisen alleen dat mijn paspoort geldig is voor de duur van mijn verblijf?
+
+Verschillende populaire bestemmingen voegen helemaal geen marge toe. De Britse Foreign Office zegt dat Britse bezoekers van Japan, Australië en de Verenigde Staten een paspoort nodig hebben dat geldig blijft voor de duur van hun verblijf, en voor Japan voegt het toe dat geen extra periode vereist is. Deze regels hangen af van je nationaliteit en kunnen veranderen, dus controleer de inreisvereisten voor je eigen paspoort voordat je boekt. Wij zouden nog steeds vernieuwen met ongeveer negen maanden over, omdat de volgende reis naar een strenger land kan gaan.
+
 ## Gerelateerde artikelen
 
 [Gezinsreizen6 min leestijd · jul 2026Schengen-paspoortregels voor gezinsreizen: wat ouders vaak fout doen](https://traveldocumentvault.com/nl/blog/schengen-passport-rules-family-trips/)

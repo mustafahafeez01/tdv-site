@@ -77,6 +77,10 @@ Før du booker, så kør hele din rute, ikke kun destinationen, gennem IATA Trav
 
 ## Ofte stillede spørgsmål
 
+### Hvad er et transitvisum?
+
+Et transitvisum lader dig rejse igennem et land på vej til et andet, uden at besøge det. Nogle gælder kun ved flyskift: Storbritanniens Direct Airside Transit Visa (DATV) er til flyskift uden at skulle igennem paskontrol, og EU's lufthavnstransitvisum kræves af visse nationaliteter, selv for blot at opholde sig i den internationale del af en EU-lufthavn. Andre lader dig passere paskontrollen i kort tid, som Storbritanniens Visitor in Transit visum, som normalt betyder, at du skal rejse videre inden for 48 timer. Om du skal bruge et, afhænger af dit pas og din rute.
+
 ### Skal jeg bruge visum til en 2-timers mellemlanding?
 
 Det afhænger af, om du forlader lufthavnen under mellemlandingen. Bliver du i lufthavnens internationale transitområde, kræver mange lande ikke visum. Går du uden for den sikrede zone, eller planlægger du at forlade lufthavnen, kan du få brug for et transitvisum, selv til et kort ophold.

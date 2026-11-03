@@ -77,6 +77,10 @@ Bevor Sie buchen, lassen Sie Ihre gesamte Route, nicht nur das Reiseziel, durch 
 
 ## Häufig gestellte Fragen
 
+### Was ist ein Transitvisum?
+
+Ein Transitvisum ermöglicht es Ihnen, auf dem Weg zu einem anderen Ziel durch ein Land zu reisen, ohne es zu besuchen. Manche gelten nur für den Flugwechsel: Das britische Direct Airside Transit Visa dient dem Umsteigen ohne Grenzkontrolle, und das Flughafentransitvisum der EU wird von bestimmten Staatsangehörigkeiten sogar für den Aufenthalt im internationalen Bereich eines EU-Flughafens verlangt. Andere lassen Sie für kurze Zeit durch die Passkontrolle, etwa das britische Visitor in Transit Visa, das in der Regel bedeutet, das Land innerhalb von 48 Stunden wieder zu verlassen. Ob Sie eines benötigen, hängt von Ihrem Reisepass und Ihrer Reiseroute ab.
+
 ### Brauche ich für einen 2-stündigen Zwischenstopp ein Visum?
 
 Das hängt davon ab, ob Sie den Flughafen während des Zwischenstopps verlassen. Wenn Sie im internationalen Transitbereich des Flughafens bleiben, verlangen viele Länder kein Visum. Wenn Sie den Sicherheitsbereich verlassen oder den Flughafen ganz verlassen möchten, benötigen Sie möglicherweise selbst für einen kurzen Aufenthalt ein Transitvisum.

@@ -1,0 +1,61 @@
+{
+ "fr": {
+  "template": "cards",
+  "title": "Passeport d'un enfant américain : renouveler ou refaire la demande ?",
+  "cards": [
+   {
+    "heading": "Moins de 16 ans",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Valable 5 ans",
+      "mark": "dot"
+     },
+     {
+      "text": "Ne peut pas être renouvelé",
+      "mark": "cross"
+     },
+     {
+      "text": "Nouvelle demande en personne, les deux parents",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "16 ou 17 ans",
+    "items": [
+     {
+      "text": "Valable 10 ans",
+      "mark": "tick"
+     },
+     {
+      "text": "Si délivré avant 16 ans, nouvelle demande",
+      "mark": "cross"
+     },
+     {
+      "text": "Un parent signe une déclaration ou assiste au rendez-vous",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "Dernier passeport délivré à 16 ans ou plus",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Renouvellement possible",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "link": "arrow",
+  "focal": "Seize ans, la limite",
+  "alt": "Schéma comparant les passeports américains selon l'âge. Moins de 16 ans : valable cinq ans, ne peut pas être renouvelé, nouvelle demande en personne avec les deux parents. À 16 ou 17 ans : valable dix ans ; un passeport délivré avant 16 ans signifie refaire une demande, et un parent signe une déclaration ou assiste au rendez-vous. Si le dernier passeport a été délivré à 16 ans ou plus, le renouvellement peut être possible",
+  "caption": "Seize ans, la limite : avant, chaque nouveau passeport repart de zéro.",
+  "placement": {
+   "h2": 2,
+   "para": 1
+  }
+ }
+}

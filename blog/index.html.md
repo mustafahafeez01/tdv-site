@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/blog/
 
 ##
 
+[Passport Rules Can You Renew a US Child's Passport? No, You Apply Again A US passport issued before 16 can't be renewed. You apply again in person, with both parents. Five-year validity, consent rules and what changes at 16. November 3, 20265 min read](https://traveldocumentvault.com/blog/us-child-passport-renewal-under-16/)
+
+##
+
 [Passport Rules Expired BRP? Set Up Your UKVI Account Before the Deadline GOV.UK says an expired BRP might work for 24 months after its printed date or until 31 December 2026, whichever is first. How to set up your UKVI account. October 30, 20265 min read](https://traveldocumentvault.com/blog/uk-brp-expired-evisa-deadline/)
 
 ##

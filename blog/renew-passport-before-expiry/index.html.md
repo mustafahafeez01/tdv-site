@@ -95,6 +95,8 @@ We'd start planning at 12 months of validity left and apply by nine, in a stretc
 
 ## Related Articles
 
+[Passport Rules5 min read · November 2026Can You Renew a US Child's Passport? No, You Apply Again](https://traveldocumentvault.com/blog/us-child-passport-renewal-under-16/)
+
 [Passport Rules5 min read · October 2026Expired BRP? Set Up Your UKVI Account Before the Deadline](https://traveldocumentvault.com/blog/uk-brp-expired-evisa-deadline/)
 
 [Passport Rules6 min read · October 2026How Long Is an ESTA Valid? What Ends It Early](https://traveldocumentvault.com/blog/how-long-is-esta-valid/)

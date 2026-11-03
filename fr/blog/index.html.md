@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/fr/blog/
 
 ##
 
+[Règles de passeportRenouveler le passeport d'un enfant américain ? Non, on refait la demandeUn passeport américain délivré avant 16 ans ne peut pas être renouvelé. On refait la demande en personne, avec les deux parents. Valable cinq ans.3 novembre 20265 min de lecture](https://traveldocumentvault.com/fr/blog/us-child-passport-renewal-under-16/)
+
+##
+
 [Règles de passeportBRP expiré ? Créez votre compte UKVI avant la date limiteSelon GOV.UK, un BRP expiré peut fonctionner 24 mois après sa date imprimée ou jusqu'au 31 décembre 2026, selon ce qui arrive en premier.30 octobre 20265 min de lecture](https://traveldocumentvault.com/fr/blog/uk-brp-expired-evisa-deadline/)
 
 ##

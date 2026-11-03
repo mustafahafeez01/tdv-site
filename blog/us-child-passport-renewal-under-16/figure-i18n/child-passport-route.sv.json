@@ -1,0 +1,37 @@
+{
+ "sv": {
+  "template": "cards",
+  "title": "USA-pass för barn: förnya eller ansöka igen?",
+  "cards": [
+   {
+    "heading": "Under 16",
+    "tone": "warn",
+    "items": [
+     {"text": "Giltigt i 5 år", "mark": "dot"},
+     {"text": "Kan inte förnyas", "mark": "cross"},
+     {"text": "Ansök igen personligen, båda föräldrarna", "mark": "dot"}
+    ]
+   },
+   {
+    "heading": "16 eller 17",
+    "items": [
+     {"text": "Giltigt i 10 år", "mark": "tick"},
+     {"text": "Utfärdat före 16? Ansök igen", "mark": "cross"},
+     {"text": "En förälder skriver under eller närvarar", "mark": "dot"}
+    ]
+   },
+   {
+    "heading": "Senaste passet utfärdat vid 16 eller äldre",
+    "tone": "good",
+    "items": [
+     {"text": "Förnyelse kan vara möjlig", "mark": "tick"}
+    ]
+   }
+  ],
+  "link": "arrow",
+  "focal": "Sexton år är gränsen",
+  "alt": "Diagram som jämför amerikanska pass efter ålder. Under 16: giltigt i fem år, kan inte förnyas, ansök igen personligen med båda föräldrarna. Vid 16 eller 17: giltigt i tio år; ett pass utfärdat före 16 år innebär att ansöka igen, och en förälder skriver under en förklaring eller närvarar. Om det senaste passet utfärdades vid 16 år eller äldre kan förnyelse vara möjlig",
+  "caption": "Sexton år är gränsen: innan det börjar varje nytt pass om från början.",
+  "placement": {"h2": 2, "para": 1}
+ }
+}

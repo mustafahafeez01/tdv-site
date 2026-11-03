@@ -75,6 +75,10 @@ Before you book, put your whole route, not just the destination, through the IAT
 
 ## Frequently Asked Questions
 
+### What is a transit visa?
+
+A transit visa lets you pass through a country on your way somewhere else, without visiting it. Some cover only changing planes: the UK's Direct Airside Transit visa is for changing flights without going through border control, and the EU's airport transit visa is needed by certain nationalities even to stay in the international part of an EU airport. Others let you through passport control for a short time, like the UK's Visitor in Transit visa, which generally means leaving within 48 hours. Whether you need one depends on your passport and your route.
+
 ### Do I need a visa for a 2-hour layover?
 
 It depends on whether you leave the airport during the layover. If you stay in the airport's international transit area, many countries do not require a visa. If you step outside the secure zone or plan to leave the airport, you may need a transit visa even for a brief stop.

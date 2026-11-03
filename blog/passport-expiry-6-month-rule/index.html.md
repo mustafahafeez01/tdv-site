@@ -168,6 +168,10 @@ Often, yes, and it's the step people forget. The Foreign Office notes on both it
 
 No country adds time to your passport. The list people usually mean is published by US Customs and Border Protection: citizens of the countries on it are exempt from the US six-month validity requirement and need a passport valid only for their intended stay. It covers entry to the United States and nowhere else.
 
+### Which countries only need my passport to be valid for my stay?
+
+Several popular destinations add no buffer at all. The UK Foreign Office says British visitors to Japan, Australia and the United States need a passport that stays valid for the length of their stay, and for Japan it adds that no extra period is required. These rules depend on your nationality and can change, so check the entry requirements for your own passport before you book. We'd still renew with about nine months left, because the next trip may be somewhere stricter.
+
 ## Related Articles
 
 [Passport Rules6 min read · Aug 24, 2026Passport Dates Explained: Issue, Expiry and Date of Expedition](https://traveldocumentvault.com/blog/how-to-read-your-passport-dates/)

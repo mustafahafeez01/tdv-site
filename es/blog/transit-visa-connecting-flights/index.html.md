@@ -77,6 +77,10 @@ Antes de reservar, pasa por el IATA Travel Centre toda tu ruta, no solo el desti
 
 ## Preguntas Frecuentes
 
+### ¿Qué es un visado de tránsito?
+
+Un visado de tránsito te permite pasar por un país en camino hacia otro destino, sin visitarlo. Algunos cubren solo el cambio de avión: el Direct Airside Transit Visa del Reino Unido sirve para cambiar de vuelo sin pasar por el control de fronteras, y el visado de tránsito aeroportuario de la UE lo necesitan ciertas nacionalidades incluso para permanecer en la parte internacional de un aeropuerto de la UE. Otros te permiten pasar el control de pasaportes durante un tiempo breve, como el Visitor in Transit Visa del Reino Unido, que por lo general implica salir del país dentro de las 48 horas. Que lo necesites o no depende de tu pasaporte y de tu ruta.
+
 ### ¿Necesito visado para una escala de 2 horas?
 
 Depende de si sales del aeropuerto durante la escala. Si permaneces en la zona de tránsito internacional del aeropuerto, muchos países no exigen visado. Si sales de la zona segura o piensas abandonar el aeropuerto, puede que necesites un visado de tránsito incluso para una parada breve.

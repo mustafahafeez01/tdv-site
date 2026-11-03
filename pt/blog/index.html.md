@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/pt/blog/
 
 ##
 
+[Regras de PassaportePode renovar o passaporte do seu filho nos EUA? Não, peça de novoUm passaporte dos EUA emitido antes dos 16 anos não se renova. Pede-se um novo em pessoa, com ambos os pais. Validade de cinco anos e o que muda aos 16.3 de novembro de 20265 min de leitura](https://traveldocumentvault.com/pt/blog/us-child-passport-renewal-under-16/)
+
+##
+
 [Regras de PassaporteBRP expirado? Configure a sua conta UKVI antes do prazoO GOV.UK diz que um BRP expirado pode funcionar 24 meses após a data impressa ou até 31 de dezembro de 2026, o que ocorrer primeiro.30 de outubro de 20265 min de leitura](https://traveldocumentvault.com/pt/blog/uk-brp-expired-evisa-deadline/)
 
 ##

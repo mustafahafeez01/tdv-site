@@ -79,6 +79,10 @@ Innan du bokar, kör hela din resväg, inte bara destinationen, genom IATA Trave
 
 ## Vanliga frågor
 
+### Vad är ett transitvisum?
+
+Ett transitvisum låter dig resa genom ett land på väg till en annan destination, utan att besöka det. Vissa gäller bara vid flygbyte: Storbritanniens Direct Airside Transit Visa är till för att byta flyg utan att passera gränskontroll, och EU:s transitvisum för flygplatser krävs av vissa nationaliteter även för att stanna i den internationella delen av en EU-flygplats. Andra släpper dig genom passkontrollen för en kort tid, som Storbritanniens Visitor in Transit Visa, som i regel innebär att du måste lämna landet inom 48 timmar. Om du behöver ett beror på ditt pass och din resväg.
+
 ### Behöver jag visum för en 2-timmars mellanlandning?
 
 Det beror på om du lämnar flygplatsen under mellanlandningen. Stannar du inom flygplatsens internationella transitzon kräver många länder inget visum. Går du ut ur den säkra zonen eller planerar att lämna flygplatsen kan du behöva transitvisum även för ett kort stopp.

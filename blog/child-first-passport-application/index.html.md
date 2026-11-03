@@ -118,6 +118,8 @@ Check the spelling of your child's name and the names of the parents where they 
 
 ## Related Articles
 
+[Passport Rules5 min read · November 2026Can You Renew a US Child's Passport? No, You Apply Again](https://traveldocumentvault.com/blog/us-child-passport-renewal-under-16/)
+
 [Passport Rules5 min read · May 2026How to Take a Passport Photo at Home](https://traveldocumentvault.com/blog/passport-photo-at-home/)
 
 [Family Travel6 min read · July 2026Family Passport Management: Track Every Expiry Date](https://traveldocumentvault.com/blog/family-passport-management/)

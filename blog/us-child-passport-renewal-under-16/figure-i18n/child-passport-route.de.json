@@ -1,0 +1,37 @@
+{
+ "de": {
+  "template": "cards",
+  "title": "US-Kinderreisepass: verlängern oder neu beantragen?",
+  "cards": [
+   {
+    "heading": "Unter 16",
+    "tone": "warn",
+    "items": [
+     {"text": "5 Jahre gültig", "mark": "dot"},
+     {"text": "Kann nicht verlängert werden", "mark": "cross"},
+     {"text": "Neuantrag persönlich, beide Eltern", "mark": "dot"}
+    ]
+   },
+   {
+    "heading": "16 oder 17",
+    "items": [
+     {"text": "10 Jahre gültig", "mark": "tick"},
+     {"text": "Vor 16 ausgestellt? Neu beantragen", "mark": "cross"},
+     {"text": "Ein Elternteil unterschreibt oder begleitet", "mark": "dot"}
+    ]
+   },
+   {
+    "heading": "Letzter Pass ab 16 ausgestellt",
+    "tone": "good",
+    "items": [
+     {"text": "Verlängerung eventuell möglich", "mark": "tick"}
+    ]
+   }
+  ],
+  "link": "arrow",
+  "focal": "16 ist die Grenze",
+  "alt": "Diagramm, das US-Reisepässe nach Alter vergleicht. Unter 16: fünf Jahre gültig, kann nicht verlängert werden, Neuantrag persönlich mit beiden Eltern. Mit 16 oder 17: zehn Jahre gültig; ein vor 16 ausgestellter Pass bedeutet Neuantrag, und ein Elternteil unterschreibt eine Erklärung oder begleitet den Termin. Wurde der letzte Pass ab 16 ausgestellt, ist eine Verlängerung eventuell möglich",
+  "caption": "16 ist die Grenze: davor beginnt jeder neue Pass von vorn.",
+  "placement": {"h2": 2, "para": 1}
+ }
+}

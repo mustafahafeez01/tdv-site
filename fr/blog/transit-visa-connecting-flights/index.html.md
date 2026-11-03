@@ -77,6 +77,10 @@ Avant de réserver, passez l'ensemble de votre itinéraire, et pas seulement la 
 
 ## Questions fréquemment posées
 
+### Qu'est-ce qu'un visa de transit ?
+
+Un visa de transit vous permet de traverser un pays en chemin vers une autre destination, sans le visiter. Certains couvrent uniquement un changement d'avion : le Direct Airside Transit Visa britannique sert à changer de vol sans passer par le contrôle aux frontières, et le visa de transit aéroportuaire de l'UE est exigé de certaines nationalités même pour rester dans la partie internationale d'un aéroport européen. D'autres vous laissent passer le contrôle des passeports pour une courte durée, comme le Visitor in Transit Visa britannique, qui implique généralement de quitter le pays dans les 48 heures. Que vous en ayez besoin ou non dépend de votre passeport et de votre itinéraire.
+
 ### Ai-je besoin d'un visa pour une escale de 2 heures ?
 
 Cela dépend du fait que vous quittiez ou non l'aéroport pendant l'escale. Si vous restez dans la zone de transit international de l'aéroport, de nombreux pays n'exigent aucun visa. Si vous sortez de la zone sécurisée ou prévoyez de quitter l'aéroport, un visa de transit peut être nécessaire même pour un court arrêt.

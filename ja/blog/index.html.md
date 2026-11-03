@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/ja/blog/
 
 ##
 
+[旅行書類子どもの米国パスポートは更新できる？いいえ、申請し直します16歳未満で発行された米国パスポートは更新できません。本人が窓口で両親とともに再度申請します。5年間の有効期間、同意のルール、16歳での変化を解説します。2026年11月3日読了時間 5分](https://traveldocumentvault.com/ja/blog/us-child-passport-renewal-under-16/)
+
+##
+
 [旅行書類BRPが期限切れ？期限までにUKVIアカウントを作成しましょうGOV.UKによると、期限切れのBRPは印字された期限日から24か月間、または2026年12月31日までのいずれか早い方まで使える場合があります。UKVIアカウントの作成方法を解説します。2026年10月30日読了時間 5分](https://traveldocumentvault.com/ja/blog/uk-brp-expired-evisa-deadline/)
 
 ##

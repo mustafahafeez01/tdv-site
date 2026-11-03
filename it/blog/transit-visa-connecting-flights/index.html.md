@@ -77,6 +77,10 @@ Prima di prenotare, passa l'intero percorso, non solo la destinazione, nell'IATA
 
 ## Domande frequenti
 
+### Cos'è un visto di transito?
+
+Un visto di transito permette di attraversare un paese per raggiungere un'altra destinazione, senza visitarlo. Alcuni riguardano solo il cambio di volo: il Direct Airside Transit Visa britannico serve per cambiare aereo senza passare per il controllo di frontiera, e il visto di transito aeroportuale dell'UE è richiesto a determinate nazionalità anche solo per sostare nella zona internazionale di un aeroporto dell'UE. Altri permettono di passare il controllo passaporti per un breve periodo, come il Visitor in Transit Visa britannico, che in genere significa partire entro 48 ore. Se ne hai bisogno dipende dal tuo passaporto e dal tuo percorso.
+
 ### Serve un visto per uno scalo di 2 ore?
 
 Dipende dal fatto che tu lasci o meno l'aeroporto durante lo scalo. Se rimani nell'area di transito internazionale dell'aeroporto, molti paesi non richiedono un visto. Se esci dalla zona sicura o hai intenzione di lasciare l'aeroporto, potresti aver bisogno di un visto di transito anche per una sosta breve.

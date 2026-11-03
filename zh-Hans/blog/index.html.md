@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/
 
 ##
 
+[护照规则美国儿童护照可以更新吗？不行，要重新申请16岁前签发的美国护照不能更新，只能由本人到现场重新申请，并由父母双方共同办理。本文说明五年有效期、同意规则，以及16岁时的变化。2026年11月3日5 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/us-child-passport-renewal-under-16/)
+
+##
+
 [护照规则BRP已过期？请在截止日期前设置你的UKVI账户GOV.UK表示，过期的BRP在印制到期日后的24个月内，或至2026年12月31日（以较早者为准）仍可能可用。本文说明如何设置你的UKVI账户。2026年10月30日5 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/uk-brp-expired-evisa-deadline/)
 
 ##

@@ -166,6 +166,10 @@ Oft ja, und das ist der Schritt, den viele vergessen. Das Foreign Office weist s
 
 Kein Land schlägt Zeit auf Ihren Reisepass auf. Gemeint ist meist eine Liste, die von US Customs and Border Protection veröffentlicht wird: Staatsangehörige der dort aufgeführten Länder sind von der US-Anforderung einer Sechsmonats-Gültigkeit befreit und brauchen einen Reisepass, der nur für die Dauer des geplanten Aufenthalts gültig ist. Das gilt für die Einreise in die Vereinigten Staaten und sonst nirgendwo.
 
+### Welche Länder verlangen nur, dass mein Reisepass für die Dauer meines Aufenthalts gültig ist?
+
+Mehrere beliebte Reiseziele verlangen überhaupt keinen Puffer. Das britische Foreign Office erklärt, dass britische Besucher in Japan, Australien und den Vereinigten Staaten einen Reisepass benötigen, der für die Dauer ihres Aufenthalts gültig bleibt, und fügt für Japan hinzu, dass keine zusätzliche Gültigkeitsdauer erforderlich ist. Diese Regeln hängen von Ihrer Staatsangehörigkeit ab und können sich ändern, prüfen Sie daher die Einreisebestimmungen für Ihren eigenen Reisepass, bevor Sie buchen. Wir würden trotzdem mit noch etwa neun Monaten Gültigkeit verlängern, denn die nächste Reise führt vielleicht in ein strengeres Land.
+
 ## Ähnliche Artikel
 
 [Familienreisen6 Min Lesezeit · Juli 2026Schengen-Reisepass-Bestimmungen für Familienreisen: Was Eltern falsch verstehen](https://traveldocumentvault.com/de/blog/schengen-passport-rules-family-trips/)

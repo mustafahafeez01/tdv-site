@@ -166,6 +166,10 @@ Frequentemente, sim, e é o passo que as pessoas esquecem. O Ministério dos Neg
 
 Nenhum país acrescenta tempo ao seu passaporte. A lista a que as pessoas normalmente se referem é publicada pelo serviço norte-americano de alfândegas e proteção de fronteiras (US Customs and Border Protection): os cidadãos dos países que constam dela estão isentos do requisito de seis meses de validade dos Estados Unidos e precisam de um passaporte válido apenas para a duração prevista da estadia. Abrange a entrada nos Estados Unidos e em mais nenhum país.
 
+### Que países exigem apenas que o meu passaporte seja válido durante a minha estadia?
+
+Vários destinos populares não exigem qualquer margem adicional. O Ministério dos Negócios Estrangeiros do Reino Unido diz que os visitantes britânicos ao Japão, à Austrália e aos Estados Unidos precisam de um passaporte que se mantenha válido durante o período da sua estadia, e acrescenta que, no caso do Japão, não é exigido qualquer período adicional. Estas regras dependem da sua nacionalidade e podem mudar, por isso verifique os requisitos de entrada para o seu próprio passaporte antes de reservar. Ainda assim, renovaríamos com cerca de nove meses de validade restantes, porque a próxima viagem pode ser para um destino mais exigente.
+
 ## Artigos Relacionados
 
 [Viagens em Família6 min de leitura · julho de 2026Regras de Passaporte Schengen para Viagens em Família: O Que Os Pais Interpretam Mal](https://traveldocumentvault.com/pt/blog/schengen-passport-rules-family-trips/)

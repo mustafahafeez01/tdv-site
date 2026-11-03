@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/es/blog/
 
 ##
 
+[Normas de pasaporte¿Se renueva el pasaporte de un menor en EE. UU.? No, se solicita de nuevoUn pasaporte de EE. UU. emitido antes de los 16 no se puede renovar. Se solicita en persona, con ambos progenitores. Válido cinco años.3 de noviembre de 20265 min de lectura](https://traveldocumentvault.com/es/blog/us-child-passport-renewal-under-16/)
+
+##
+
 [Normas de pasaporte¿BRP caducado? Crea tu cuenta UKVI antes de la fecha límiteSegún GOV.UK, un BRP caducado puede seguir funcionando 24 meses tras su fecha impresa o hasta el 31 de diciembre de 2026, lo que ocurra antes.30 de octubre de 20265 min de lectura](https://traveldocumentvault.com/es/blog/uk-brp-expired-evisa-deadline/)
 
 ##

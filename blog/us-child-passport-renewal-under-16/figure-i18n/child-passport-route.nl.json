@@ -1,0 +1,37 @@
+{
+ "nl": {
+  "template": "cards",
+  "title": "Amerikaans kinderpaspoort: verlengen of opnieuw aanvragen?",
+  "cards": [
+   {
+    "heading": "Onder 16",
+    "tone": "warn",
+    "items": [
+     {"text": "5 jaar geldig", "mark": "dot"},
+     {"text": "Kan niet worden verlengd", "mark": "cross"},
+     {"text": "Persoonlijk opnieuw aanvragen, beide ouders", "mark": "dot"}
+    ]
+   },
+   {
+    "heading": "16 of 17",
+    "items": [
+     {"text": "10 jaar geldig", "mark": "tick"},
+     {"text": "Afgegeven vóór de 16e? Opnieuw aanvragen", "mark": "cross"},
+     {"text": "Een ouder tekent een verklaring of is aanwezig", "mark": "dot"}
+    ]
+   },
+   {
+    "heading": "Laatste paspoort afgegeven op 16 of ouder",
+    "tone": "good",
+    "items": [
+     {"text": "Verlenging kan mogelijk zijn", "mark": "tick"}
+    ]
+   }
+  ],
+  "link": "arrow",
+  "focal": "Zestien is de grens",
+  "alt": "Diagram dat Amerikaanse paspoorten per leeftijd vergelijkt. Onder 16: vijf jaar geldig, kan niet worden verlengd, persoonlijk opnieuw aanvragen met beide ouders. Op 16 of 17: tien jaar geldig; een paspoort dat vóór de 16e is afgegeven betekent opnieuw aanvragen, en een ouder tekent een verklaring of is aanwezig. Als het laatste paspoort op 16 of ouder is afgegeven, kan verlenging mogelijk zijn",
+  "caption": "Zestien is de grens: daarvoor begint elk nieuw paspoort weer helemaal van nul.",
+  "placement": {"h2": 2, "para": 1}
+ }
+}

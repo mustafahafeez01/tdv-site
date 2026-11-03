@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/sv/blog/
 
 ##
 
+[PassreglerKan ett barns pass i USA förnyas? Nej, du ansöker igenEtt amerikanskt pass utfärdat före 16 år kan inte förnyas. Du ansöker igen personligen, med båda föräldrarna. Fem års giltighet och vad som ändras vid 16.3 november 20265 min läsning](https://traveldocumentvault.com/sv/blog/us-child-passport-renewal-under-16/)
+
+##
+
 [PassreglerUtgånget BRP? Skapa ditt UKVI-konto innan tidsfristenEnligt GOV.UK kan ett utgånget BRP fungera i 24 månader efter det tryckta datumet eller till 31 december 2026, det som inträffar först.30 oktober 20265 min läsning](https://traveldocumentvault.com/sv/blog/uk-brp-expired-evisa-deadline/)
 
 ##

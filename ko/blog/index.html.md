@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/ko/blog/
 
 ##
 
+[여권 규정미국 어린이 여권, 갱신할 수 있나요? 아니요, 다시 신청해야 합니다16세 전에 발급된 미국 여권은 갱신할 수 없습니다. 본인이 직접 방문해 부모 모두와 함께 다시 신청해야 합니다. 5년 유효기간, 동의 규정, 16세가 되면 바뀌는 점을 정리했습니다.2026년 11월 3일5분 읽기](https://traveldocumentvault.com/ko/blog/us-child-passport-renewal-under-16/)
+
+##
+
 [여권 규정BRP가 만료됐나요? 마감일 전에 UKVI 계정을 만드세요GOV.UK에 따르면 만료된 BRP는 인쇄된 만료일로부터 24개월, 또는 2026년 12월 31일 중 더 이른 시점까지 사용할 수 있을지도 모릅니다. UKVI 계정을 만드는 방법을 알아보세요.2026년 10월 30일5분 읽기](https://traveldocumentvault.com/ko/blog/uk-brp-expired-evisa-deadline/)
 
 ##

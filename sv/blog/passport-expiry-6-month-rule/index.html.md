@@ -164,6 +164,10 @@ Ofta ja, och det är steget folk glömmer. Utrikesdepartementet påpekar i både
 
 Inget land lägger till tid på ditt pass. Listan folk oftast menar publiceras av US Customs and Border Protection: medborgare i länderna på listan är undantagna från USA:s krav på sex månaders giltighet och behöver bara ett pass som är giltigt under den planerade vistelsen. Den gäller inresa till USA och ingenting annat.
 
+### Vilka länder kräver bara att mitt pass är giltigt under vistelsen?
+
+Flera populära resmål kräver ingen extra marginal alls. Brittiska utrikesdepartementet säger att brittiska besökare till Japan, Australien och USA behöver ett pass som är giltigt under hela vistelsen, och tillägger att det för Japan inte krävs någon extra giltighetstid. Dessa regler beror på din nationalitet och kan ändras, så kontrollera inresekraven för ditt eget pass innan du bokar. Vi skulle ändå förnya med cirka nio månader kvar, eftersom nästa resa kan gå till ett strängare land.
+
 ## Relaterade artiklar
 
 [Familjeresor6 min läsning · juli 2026Schengens passregler för familjeresor: det här missar föräldrar](https://traveldocumentvault.com/sv/blog/schengen-passport-rules-family-trips/)

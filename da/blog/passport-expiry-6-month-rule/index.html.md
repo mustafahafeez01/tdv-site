@@ -164,6 +164,10 @@ Ofte, ja, og det er det skridt, folk glemmer. Foreign Office bemærker i både s
 
 Intet land lægger tid til dit pas. Den liste, folk typisk tænker på, udgives af US Customs and Border Protection: statsborgere fra landene på listen er undtaget fra det amerikanske krav om seks måneders gyldighed og skal kun have et pas, der er gyldigt i hele opholdets varighed. Den gælder indrejse i USA og intet andet sted.
 
+### Hvilke lande kræver kun, at mit pas er gyldigt i opholdets varighed?
+
+Flere populære rejsemål kræver overhovedet ingen buffer. Foreign Office oplyser, at britiske besøgende i Japan, Australien og USA skal have et pas, der er gyldigt i hele opholdets varighed, og for Japan tilføjer de, at der ikke kræves yderligere gyldighedsperiode. Disse regler afhænger af din nationalitet og kan ændre sig, så tjek indrejsekravene for dit eget pas, før du booker. Vi vil stadig anbefale at forny passet, når der er omkring ni måneder tilbage, fordi den næste rejse måske går til et sted med strengere krav.
+
 ## Relaterede artikler
 
 [Familierejser6 min læsning · jul. 2026Schengens pasregler for familierejser: det, forældre ofte misforstår](https://traveldocumentvault.com/da/blog/schengen-passport-rules-family-trips/)

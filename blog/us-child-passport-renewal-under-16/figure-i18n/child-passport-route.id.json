@@ -1,0 +1,37 @@
+{
+ "id": {
+  "template": "cards",
+  "title": "Paspor anak AS: diperpanjang atau ajukan lagi?",
+  "cards": [
+   {
+    "heading": "Di bawah 16 tahun",
+    "tone": "warn",
+    "items": [
+     {"text": "Berlaku 5 tahun", "mark": "dot"},
+     {"text": "Tidak bisa diperpanjang", "mark": "cross"},
+     {"text": "Ajukan lagi secara langsung, kedua orang tua", "mark": "dot"}
+    ]
+   },
+   {
+    "heading": "16 atau 17 tahun",
+    "items": [
+     {"text": "Berlaku 10 tahun", "mark": "tick"},
+     {"text": "Diterbitkan sebelum 16? Ajukan lagi", "mark": "cross"},
+     {"text": "Orang tua tanda tangan surat atau hadir", "mark": "dot"}
+    ]
+   },
+   {
+    "heading": "Paspor terakhir diterbitkan usia 16 atau lebih",
+    "tone": "good",
+    "items": [
+     {"text": "Perpanjangan mungkin bisa dilakukan", "mark": "tick"}
+    ]
+   }
+  ],
+  "link": "arrow",
+  "focal": "Enam belas adalah batasnya",
+  "alt": "Diagram perbandingan paspor AS berdasarkan usia. Di bawah 16 tahun: berlaku lima tahun, tidak bisa diperpanjang, ajukan lagi secara langsung dengan kedua orang tua. Usia 16 atau 17: berlaku sepuluh tahun; paspor yang diterbitkan sebelum usia 16 berarti harus mengajukan lagi, dan orang tua menandatangani surat atau hadir. Jika paspor terakhir diterbitkan pada usia 16 atau lebih, perpanjangan mungkin bisa dilakukan",
+  "caption": "Enam belas adalah batasnya: sebelum itu, setiap paspor baru dimulai dari awal lagi.",
+  "placement": {"h2": 2, "para": 1}
+ }
+}

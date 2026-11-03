@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/de/blog/
 
 ##
 
+[Reisepass-RegelnKann man den US-Kinderreisepass verlängern? Nein, neu beantragenEin vor dem 16. Geburtstag ausgestellter US-Pass kann nicht verlängert werden. Neuantrag persönlich, mit beiden Eltern. Gültig fünf Jahre.3. November 20265 Min. Lesezeit](https://traveldocumentvault.com/de/blog/us-child-passport-renewal-under-16/)
+
+##
+
 [Reisepass-RegelnAbgelaufener BRP? Richten Sie Ihr UKVI-Konto vor der Frist einLaut GOV.UK funktioniert ein abgelaufener BRP womöglich noch 24 Monate nach dem Ablaufdatum oder bis 31. Dezember 2026, je nachdem, was früher eintritt.30. Oktober 20265 Min. Lesezeit](https://traveldocumentvault.com/de/blog/uk-brp-expired-evisa-deadline/)
 
 ##

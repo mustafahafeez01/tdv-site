@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/it/blog/
 
 ##
 
+[Regole sul passaportoSi rinnova il passaporto USA di un minore? No, si fa una nuova domandaUn passaporto USA rilasciato prima dei 16 anni non si rinnova: si richiede di nuovo, con entrambi i genitori. Valido 5 anni; cosa cambia a 16 anni.3 novembre 20265 min di lettura](https://traveldocumentvault.com/it/blog/us-child-passport-renewal-under-16/)
+
+##
+
 [Regole sul passaportoBRP scaduto? Configura il tuo account UKVI prima della data limiteSecondo GOV.UK un BRP scaduto può funzionare 24 mesi dopo la data stampata o fino al 31 dicembre 2026, a seconda di cosa avviene prima.30 ottobre 20265 min di lettura](https://traveldocumentvault.com/it/blog/uk-brp-expired-evisa-deadline/)
 
 ##

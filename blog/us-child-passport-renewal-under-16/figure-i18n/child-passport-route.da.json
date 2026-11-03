@@ -1,0 +1,37 @@
+{
+ "da": {
+  "template": "cards",
+  "title": "USA-pas til børn: forny eller søg igen?",
+  "cards": [
+   {
+    "heading": "Under 16",
+    "tone": "warn",
+    "items": [
+     {"text": "Gyldigt i 5 år", "mark": "dot"},
+     {"text": "Kan ikke fornys", "mark": "cross"},
+     {"text": "Søg igen personligt, begge forældre", "mark": "dot"}
+    ]
+   },
+   {
+    "heading": "16 eller 17",
+    "items": [
+     {"text": "Gyldigt i 10 år", "mark": "tick"},
+     {"text": "Udstedt før 16? Søg igen", "mark": "cross"},
+     {"text": "En forælder underskriver en erklæring eller deltager", "mark": "dot"}
+    ]
+   },
+   {
+    "heading": "Seneste pas udstedt ved 16 eller ældre",
+    "tone": "good",
+    "items": [
+     {"text": "Fornyelse kan være mulig", "mark": "tick"}
+    ]
+   }
+  ],
+  "link": "arrow",
+  "focal": "Seksten år er grænsen",
+  "alt": "Diagram der sammenligner amerikanske pas efter alder. Under 16: gyldigt i fem år, kan ikke fornys, søg igen personligt med begge forældre. Ved 16 eller 17: gyldigt i ti år; et pas udstedt før 16 år betyder at søge igen, og en forælder underskriver en erklæring eller deltager. Hvis det seneste pas blev udstedt ved 16 år eller ældre, kan fornyelse være mulig",
+  "caption": "Seksten år er grænsen: før det starter hvert nyt pas fra bunden.",
+  "placement": {"h2": 2, "para": 1}
+ }
+}

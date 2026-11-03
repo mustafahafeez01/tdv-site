@@ -77,6 +77,10 @@ Antes de reservar, passe o seu trajeto completo, e não apenas o destino, pelo I
 
 ## Perguntas Frequentes
 
+### O que é um visto de trânsito?
+
+Um visto de trânsito permite-lhe atravessar um país a caminho de outro destino, sem o visitar. Alguns cobrem apenas a mudança de avião: o Direct Airside Transit Visa do Reino Unido serve para mudar de voo sem passar pelo controlo fronteiriço, e o visto de trânsito aeroportuário da UE é exigido a certas nacionalidades mesmo para permanecer na área internacional de um aeroporto da UE. Outros permitem-lhe passar pelo controlo de passaportes durante um curto período, como o Visitor in Transit Visa do Reino Unido, que geralmente significa sair do país no prazo de 48 horas. Se precisa ou não de um depende do seu passaporte e do seu itinerário.
+
 ### Preciso de visto para uma escala de 2 horas?
 
 Depende de sair ou não do aeroporto durante a escala. Se ficar na área internacional de trânsito do aeroporto, muitos países não exigem visto. Se sair da zona segura ou pretender sair do aeroporto, pode precisar de visto de trânsito mesmo para uma paragem breve.

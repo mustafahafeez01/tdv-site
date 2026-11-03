@@ -170,6 +170,10 @@ A menudo sí, y es el paso que la gente olvida. El Foreign Office señala tanto 
 
 Ningún país añade tiempo a tu pasaporte. La lista a la que suele referirse la gente la publica la Oficina de Aduanas y Protección Fronteriza de EE. UU.: los ciudadanos de los países que figuran en ella están exentos del requisito estadounidense de validez de seis meses y solo necesitan un pasaporte válido para la duración de su estancia prevista. Cubre la entrada a Estados Unidos y ningún otro caso.
 
+### ¿Qué países solo exigen que mi pasaporte sea válido durante mi estancia?
+
+Varios destinos populares no exigen ningún margen adicional. El Foreign Office del Reino Unido indica que los visitantes británicos a Japón, Australia y Estados Unidos necesitan un pasaporte que siga siendo válido durante la duración de su estancia, y añade que, en el caso de Japón, no se requiere ningún periodo adicional. Estas normas dependen de tu nacionalidad y pueden cambiar, así que comprueba los requisitos de entrada para tu propio pasaporte antes de reservar. Nosotros renovaríamos igualmente con unos nueve meses restantes, porque el próximo viaje podría llevarte a un destino más estricto.
+
 ## Artículos Relacionados
 
 [Viajes Familiares6 min de lectura · Julio 2026Reglas de Pasaporte Schengen para Viajes Familiares: Qué Se Equivocan los Padres](https://traveldocumentvault.com/es/blog/schengen-passport-rules-family-trips/)

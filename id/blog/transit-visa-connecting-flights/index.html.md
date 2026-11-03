@@ -77,6 +77,10 @@ Sebelum memesan, periksa seluruh rute Anda, bukan hanya tujuan akhir, lewat IATA
 
 ## Pertanyaan yang Sering Diajukan
 
+### Apa itu visa transit?
+
+Visa transit memungkinkan Anda melewati suatu negara dalam perjalanan ke tempat lain, tanpa benar-benar mengunjunginya. Sebagian hanya berlaku untuk pergantian pesawat: Direct Airside Transit Visa Inggris digunakan untuk berganti penerbangan tanpa melewati pemeriksaan imigrasi, dan visa transit bandara Uni Eropa diwajibkan bagi kewarganegaraan tertentu bahkan hanya untuk berada di area internasional bandara Uni Eropa. Visa lain memungkinkan Anda melewati pemeriksaan imigrasi untuk waktu singkat, seperti Visitor in Transit Visa Inggris, yang umumnya berarti Anda harus berangkat lagi dalam waktu 48 jam. Apakah Anda memerlukannya tergantung pada paspor dan rute perjalanan Anda.
+
 ### Apakah saya memerlukan visa untuk layover 2 jam?
 
 Ini tergantung pada apakah Anda meninggalkan bandara selama layover. Jika Anda tetap berada di area transit internasional bandara, banyak negara tidak mewajibkan visa. Jika Anda keluar dari zona aman atau berencana meninggalkan bandara, Anda mungkin memerlukan visa transit bahkan untuk pemberhentian singkat sekalipun.

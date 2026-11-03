@@ -77,6 +77,10 @@ Controleer voordat je boekt je hele route, niet alleen de bestemming, in het IAT
 
 ## Veelgestelde vragen
 
+### Wat is een transitvisum?
+
+Een transitvisum laat je door een land reizen op weg naar een andere bestemming, zonder dat land te bezoeken. Sommige gelden alleen voor het overstappen op een ander vliegtuig: het Britse Direct Airside Transit visum is voor het overstappen zonder door de grenscontrole te gaan, en het transitvisum voor EU-luchthavens is voor bepaalde nationaliteiten zelfs vereist om in het internationale deel van een EU-luchthaven te blijven. Andere visa laten je voor een korte tijd door de grenscontrole, zoals het Britse Visitor in Transit visum, wat over het algemeen betekent dat je binnen 48 uur vertrekt. Of je er een nodig hebt, hangt af van je paspoort en je route.
+
 ### Heb ik een visum nodig voor een tussenlanding van 2 uur?
 
 Dat hangt ervan af of je tijdens de tussenlanding de luchthaven verlaat. Blijf je in de internationale transitzone van de luchthaven, dan eisen veel landen geen visum. Stap je buiten de beveiligde zone of ben je van plan de luchthaven te verlaten, dan heb je mogelijk ook voor een korte stop een transitvisum nodig.

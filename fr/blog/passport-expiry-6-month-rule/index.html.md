@@ -166,6 +166,10 @@ Souvent, oui, et c'est l'étape que l'on oublie. Le Foreign Office précise, dan
 
 Aucun pays n'ajoute de temps à votre passeport. La liste à laquelle on pense généralement est publiée par le service américain des douanes et de la protection des frontières (US Customs and Border Protection) : les citoyens des pays qui y figurent sont exemptés de l'exigence américaine de six mois de validité et n'ont besoin d'un passeport valide que pour la durée du séjour prévu. Elle ne concerne que l'entrée aux États-Unis, et nulle part ailleurs.
 
+### Quels pays exigent seulement que mon passeport reste valide pour la durée de mon séjour ?
+
+Plusieurs destinations prisées ne demandent aucune marge supplémentaire. Le Foreign Office britannique indique que les visiteurs britanniques au Japon, en Australie et aux États-Unis doivent avoir un passeport qui reste valide pour la durée de leur séjour, et précise, pour le Japon, qu'aucune période supplémentaire n'est exigée. Ces règles dépendent de votre nationalité et peuvent changer, donc vérifiez les conditions d'entrée pour votre propre passeport avant de réserver. Nous renouvellerions tout de même avec environ neuf mois restants, car le prochain voyage pourrait vous mener vers une destination plus stricte.
+
 ## Articles connexes
 
 [Voyages en famille6 min de lecture · juillet 2026Les règles de passeport Schengen pour les voyages en famille : ce que les parents ne comprennent pas](https://traveldocumentvault.com/fr/blog/schengen-passport-rules-family-trips/)

@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/id/blog/
 
 ##
 
+[Aturan PasporPaspor Anak AS Diperpanjang? Tidak, Harus Mengajukan LagiPaspor AS sebelum usia 16 tidak bisa diperpanjang: Anda mengajukan lagi, bersama kedua orang tua. Berlaku lima tahun; apa yang berubah di usia 16.3 November 20265 menit baca](https://traveldocumentvault.com/id/blog/us-child-passport-renewal-under-16/)
+
+##
+
 [Aturan PasporBRP Kedaluwarsa? Siapkan Akun UKVI Anda Sebelum Tenggat WaktuMenurut GOV.UK, BRP kedaluwarsa mungkin masih bisa dipakai 24 bulan setelah tanggal tercetak atau sampai 31 Desember 2026, mana yang lebih dulu.30 Oktober 20265 menit baca](https://traveldocumentvault.com/id/blog/uk-brp-expired-evisa-deadline/)
 
 ##

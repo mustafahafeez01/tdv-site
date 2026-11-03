@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/nl/blog/
 
 ##
 
+[PaspoortregelsEen Amerikaans kinderpaspoort verlengen? Nee, je vraagt opnieuw aanEen Amerikaans paspoort van vóór de 16e kun je niet verlengen. Je vraagt persoonlijk opnieuw aan, met beide ouders. Vijf jaar geldig, wat op 16 verandert.3 november 20265 min leestijd](https://traveldocumentvault.com/nl/blog/us-child-passport-renewal-under-16/)
+
+##
+
 [PaspoortregelsVerlopen BRP? Zet je UKVI-account op voor de deadlineGOV.UK zegt dat een verlopen BRP nog 24 maanden na de afgedrukte datum kan werken, of tot 31 december 2026, wat het eerst komt. Zet je UKVI-account op.30 oktober 20265 min leestijd](https://traveldocumentvault.com/nl/blog/uk-brp-expired-evisa-deadline/)
 
 ##

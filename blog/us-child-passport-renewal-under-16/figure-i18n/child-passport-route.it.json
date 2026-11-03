@@ -1,0 +1,37 @@
+{
+ "it": {
+  "template": "cards",
+  "title": "Passaporto USA per minori: rinnovo o nuova domanda?",
+  "cards": [
+   {
+    "heading": "Sotto i 16 anni",
+    "tone": "warn",
+    "items": [
+     {"text": "Valido 5 anni", "mark": "dot"},
+     {"text": "Non può essere rinnovato", "mark": "cross"},
+     {"text": "Nuova domanda di persona, entrambi i genitori", "mark": "dot"}
+    ]
+   },
+   {
+    "heading": "16 o 17 anni",
+    "items": [
+     {"text": "Valido 10 anni", "mark": "tick"},
+     {"text": "Rilasciato prima dei 16? Nuova domanda", "mark": "cross"},
+     {"text": "Un genitore firma una dichiarazione o è presente", "mark": "dot"}
+    ]
+   },
+   {
+    "heading": "Ultimo passaporto rilasciato a 16 anni o più",
+    "tone": "good",
+    "items": [
+     {"text": "Il rinnovo può essere possibile", "mark": "tick"}
+    ]
+   }
+  ],
+  "link": "arrow",
+  "focal": "Sedici è il limite",
+  "alt": "Diagramma che confronta i passaporti USA per età. Sotto i 16 anni: valido cinque anni, non può essere rinnovato, nuova domanda di persona con entrambi i genitori. A 16 o 17 anni: valido dieci anni; un passaporto rilasciato prima dei 16 significa fare nuova domanda, e un genitore firma una dichiarazione o è presente. Se l'ultimo passaporto è stato rilasciato a 16 anni o più, il rinnovo può essere possibile",
+  "caption": "Sedici è il limite: prima di allora, ogni nuovo passaporto riparte da zero.",
+  "placement": {"h2": 2, "para": 1}
+ }
+}

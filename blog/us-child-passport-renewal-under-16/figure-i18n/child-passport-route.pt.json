@@ -1,0 +1,37 @@
+{
+ "pt": {
+  "template": "cards",
+  "title": "Passaporte de filho nos EUA: renovar ou pedir de novo?",
+  "cards": [
+   {
+    "heading": "Menor de 16",
+    "tone": "warn",
+    "items": [
+     {"text": "Válido por 5 anos", "mark": "dot"},
+     {"text": "Não pode ser renovado", "mark": "cross"},
+     {"text": "Pede-se de novo em pessoa, ambos os pais", "mark": "dot"}
+    ]
+   },
+   {
+    "heading": "16 ou 17",
+    "items": [
+     {"text": "Válido por 10 anos", "mark": "tick"},
+     {"text": "Emitido antes dos 16? Peça de novo", "mark": "cross"},
+     {"text": "Um progenitor assina uma declaração ou comparece", "mark": "dot"}
+    ]
+   },
+   {
+    "heading": "Último passaporte emitido aos 16 ou mais",
+    "tone": "good",
+    "items": [
+     {"text": "Renovação pode ser possível", "mark": "tick"}
+    ]
+   }
+  ],
+  "link": "arrow",
+  "focal": "Os dezasseis anos são a linha",
+  "alt": "Diagrama que compara passaportes dos EUA por idade. Menor de 16: válido por cinco anos, não pode ser renovado, pede-se de novo em pessoa com ambos os pais. Aos 16 ou 17: válido por dez anos; um passaporte emitido antes dos 16 significa pedir de novo, e um progenitor assina uma declaração ou comparece. Se o último passaporte foi emitido aos 16 anos ou mais, a renovação pode ser possível",
+  "caption": "Os dezasseis anos são a linha: antes disso, cada passaporte novo começa do zero.",
+  "placement": {"h2": 2, "para": 1}
+ }
+}

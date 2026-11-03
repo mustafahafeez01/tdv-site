@@ -164,6 +164,10 @@ Seringkali, ya, dan inilah langkah yang sering dilupakan orang. Kantor Luar Nege
 
 Tidak ada negara yang menambah masa berlaku paspor Anda. Daftar yang biasanya dimaksud orang diterbitkan oleh Badan Bea dan Perlindungan Perbatasan Amerika Serikat (US Customs and Border Protection): warga dari negara-negara yang tercantum di dalamnya dikecualikan dari persyaratan masa berlaku enam bulan AS dan hanya memerlukan paspor yang berlaku selama masa tinggal yang direncanakan. Daftar itu hanya mencakup izin masuk ke Amerika Serikat, bukan ke negara lain.
 
+### Negara mana saja yang hanya memerlukan paspor saya tetap berlaku selama masa tinggal?
+
+Beberapa destinasi populer sama sekali tidak menambahkan masa tenggang. Kantor Luar Negeri Inggris menyatakan bahwa pengunjung asal Inggris ke Jepang, Australia, dan Amerika Serikat hanya perlu memiliki paspor yang tetap berlaku selama masa tinggal mereka, dan untuk Jepang secara khusus disebutkan tidak diperlukan masa berlaku tambahan. Aturan ini tergantung pada kewarganegaraan Anda dan dapat berubah, jadi periksa persyaratan masuk untuk paspor Anda sendiri sebelum memesan. Kami tetap akan memperpanjang paspor saat sisa masa berlakunya sekitar sembilan bulan, karena perjalanan berikutnya mungkin menuju negara yang lebih ketat.
+
 ## Artikel Terkait
 
 [Perjalanan Keluarga6 menit baca · Jul 2026Aturan Paspor Schengen untuk Perjalanan Keluarga: Kesalahan yang Sering Dilakukan Orang Tua](https://traveldocumentvault.com/id/blog/schengen-passport-rules-family-trips/)

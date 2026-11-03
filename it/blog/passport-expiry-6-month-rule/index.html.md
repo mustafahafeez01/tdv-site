@@ -166,6 +166,10 @@ Spesso sì, ed è il passaggio che le persone dimenticano. Il Ministero degli Es
 
 Nessun paese aggiunge tempo al passaporto. L'elenco a cui di solito si fa riferimento è pubblicato dall'agenzia statunitense Customs and Border Protection: i cittadini dei paesi che vi figurano sono esenti dal requisito statunitense dei sei mesi di validità e hanno bisogno di un passaporto valido soltanto per la durata del soggiorno previsto. Riguarda l'ingresso negli Stati Uniti e nient'altro.
 
+### Quali paesi richiedono solo che il mio passaporto sia valido per la durata del soggiorno?
+
+Molte destinazioni popolari non richiedono alcun margine aggiuntivo. Il Ministero degli Esteri britannico afferma che i visitatori britannici in Giappone, Australia e Stati Uniti devono avere un passaporto valido per la durata del soggiorno, e per il Giappone precisa che non è richiesto alcun periodo aggiuntivo. Questi requisiti dipendono dalla vostra nazionalità e possono cambiare, quindi verificate i requisiti di ingresso per il vostro passaporto prima di prenotare. Noi rinnoveremmo comunque con circa nove mesi residui, perché il prossimo viaggio potrebbe essere verso una destinazione più severa.
+
 ## Articoli Correlati
 
 [Viaggi in Famiglia6 minuti di lettura · luglio 2026Regole del Passaporto Schengen per i Viaggi in Famiglia: Cosa i Genitori Non Comprendono](https://traveldocumentvault.com/it/blog/schengen-passport-rules-family-trips/)
