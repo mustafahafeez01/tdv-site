@@ -46,7 +46,7 @@ O ponto onde se sobrepõem são as próprias regras do destino. O Código das Fr
 
 As verificações também cobrem terrenos diferentes. Uma companhia aérea que aceita o seu bilhete de continuação não garante o resto da sua entrada, como a validade do passaporte ou um [visto que possa precisar](https://traveldocumentvault.com/pt/blog/visa-vs-passport/). Um agente de fronteira pode nem perguntar pela continuação de viagem. Para o conjunto completo de documentos que vale a pena ter consigo, veja o nosso guia sobre [que documentos levar em viagens internacionais](https://traveldocumentvault.com/pt/blog/what-documents-to-carry-when-travelling-internationally/).
 
-**Travel Document Vault** guarda os seus bilhetes de avião e reservas de hotel no seu dispositivo, encriptados e acessíveis sem rede — para mostrar a prova na porta de embarque sempre que lhe for pedida. [Descarregar na App Store](https://apps.apple.com/app/travel-document-vault/id6757014877) e [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault).
+**Travel Document Vault** guarda os seus bilhetes de avião e reservas de hotel no seu dispositivo, encriptados e acessíveis sem rede — para mostrar a prova na porta de embarque sempre que lhe for pedida. [Descarregar na App Store](https://apps.apple.com/app/apple-store/id6757014877?pt=128401792&ct=blog&mt=8) e [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_campaign%3Dblog).
 
 ## Se viaja de propósito com bilhete só de ida
 

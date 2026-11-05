@@ -82,6 +82,6 @@ Travel Document Vault에서 제공하는 백업 옵션은 어떤 것들입니까
 
 무료 다운로드. 금고 내보내기와 로컬 백업은 모두에게 포함됩니다. Pro는 클라우드 백업, 무제한 프로필, 결합 PDF 내보내기 등을 추가합니다. 일회성 구매, 구독 없음.
 
-[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=faq&mt=8)
+[App Store](https://apps.apple.com/app/apple-store/id6757014877?pt=128401792&ct=website&mt=8)
 
 ![Google Play에서 받기](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

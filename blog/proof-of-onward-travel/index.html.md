@@ -46,7 +46,7 @@ Where they overlap is the destination's own rules. The Schengen Borders Code, fo
 
 The checks also cover different ground. An airline that accepts your onward ticket hasn't vouched for the rest of your entry, such as passport validity or a [visa you might need](https://traveldocumentvault.com/blog/visa-vs-passport/). A border officer may not ask about onward travel at all. For the full set of documents worth having with you, see our guide to [what documents to carry when travelling internationally](https://traveldocumentvault.com/blog/what-documents-to-carry-when-travelling-internationally/).
 
-**Travel Document Vault** stores your airline tickets and hotel reservations on your device, encrypted and accessible without signal - so you can show proof at the gate whenever asked. [Download on the App Store](https://apps.apple.com/app/travel-document-vault/id6757014877) and [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault).
+**Travel Document Vault** stores your airline tickets and hotel reservations on your device, encrypted and accessible without signal - so you can show proof at the gate whenever asked. [Download on the App Store](https://apps.apple.com/app/apple-store/id6757014877?pt=128401792&ct=blog&mt=8) and [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_campaign%3Dblog).
 
 ## If You Are Travelling on a One-Way Ticket on Purpose
 

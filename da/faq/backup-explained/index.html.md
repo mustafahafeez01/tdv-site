@@ -82,6 +82,6 @@ Hvilke sikkerhedskopieringsmuligheder tilbyder Travel Document Vault? Travel Doc
 
 Gratis download. Eksport af boksen og lokale sikkerhedskopier er inkluderet for alle. Pro tilføjer cloud-sikkerhedskopiering, ubegrænsede profiler, kombineret PDF-eksport og mere. Engangskøb, intet abonnement.
 
-[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=faq&mt=8)
+[App Store](https://apps.apple.com/app/apple-store/id6757014877?pt=128401792&ct=website&mt=8)
 
 ![Hent det på Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

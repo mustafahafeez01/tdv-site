@@ -46,7 +46,7 @@ Source: https://traveldocumentvault.com/ja/blog/proof-of-onward-travel/
 
 確認する範囲も異なります。航空会社が出国用チケットを受け入れたとしても、パスポートの有効性や必要な[ビザ](https://traveldocumentvault.com/ja/blog/visa-vs-passport/)など、入国に関わる他の事項を保証したわけではありません。国境職員は出国手段についてまったく確認しないこともあります。持っておくべき書類の全体像については、[海外旅行で持ち歩くべき書類](https://traveldocumentvault.com/ja/blog/what-documents-to-carry-when-travelling-internationally/)のガイドをご覧ください。
 
-**Travel Document Vault**は、航空券とホテルの予約情報を端末上に暗号化して保存し、電波がなくてもアクセスできます。求められたときにいつでもゲートで証明を提示できます。[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)または[Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog)からダウンロードできます。
+**Travel Document Vault**は、航空券とホテルの予約情報を端末上に暗号化して保存し、電波がなくてもアクセスできます。求められたときにいつでもゲートで証明を提示できます。[App Store](https://apps.apple.com/app/apple-store/id6757014877?pt=128401792&ct=blog&mt=8)または[Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_campaign%3Dblog%26utm_content%3Dblog)からダウンロードできます。
 
 ## 意図的に片道チケットで渡航する場合
 

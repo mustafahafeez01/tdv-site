@@ -50,6 +50,6 @@ XXXX-XXXX-XXXX-XXXX-XXXX-XXXX
 
 ดาวน์โหลด Travel Document Vault ฟรี Pro เพิ่มการสำรองข้อมูลแบบเข้ารหัสไปยัง iCloud หรือ Google Drive ของคุณเอง บันทึกรหัสการกู้คืนก่อนเปิดใช้งาน
 
-[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=faq&mt=8)
+[App Store](https://apps.apple.com/app/apple-store/id6757014877?pt=128401792&ct=website&mt=8)
 
 ![ดาวน์โหลดจาก Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

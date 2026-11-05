@@ -46,7 +46,7 @@ Il punto in cui si sovrappongono sono le regole della destinazione stessa. Il Co
 
 I controlli riguardano anche aspetti diversi. Una compagnia aerea che accetta il tuo biglietto di prosecuzione non garantisce per il resto del tuo ingresso, come la validità del passaporto o un [visto di cui potresti avere bisogno](https://traveldocumentvault.com/it/blog/visa-vs-passport/). Un agente di frontiera potrebbe non chiedere affatto la prova di prosecuzione. Per l'elenco completo dei documenti utili da portare con te, consulta la nostra guida su [quali documenti portare quando si viaggia a livello internazionale](https://traveldocumentvault.com/it/blog/what-documents-to-carry-when-travelling-internationally/).
 
-**Travel Document Vault** conserva i tuoi biglietti aerei e le prenotazioni d'albergo sul tuo dispositivo, cifrati e accessibili anche senza segnale — così puoi mostrare la prova al gate ogni volta che te la chiedono. [Scarica dall'App Store](https://apps.apple.com/app/travel-document-vault/id6757014877) e [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault).
+**Travel Document Vault** conserva i tuoi biglietti aerei e le prenotazioni d'albergo sul tuo dispositivo, cifrati e accessibili anche senza segnale — così puoi mostrare la prova al gate ogni volta che te la chiedono. [Scarica dall'App Store](https://apps.apple.com/app/apple-store/id6757014877?pt=128401792&ct=blog&mt=8) e [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_campaign%3Dblog).
 
 ## Se stai viaggiando di proposito con un biglietto di sola andata
 

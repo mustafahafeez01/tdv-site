@@ -46,7 +46,7 @@ Titik temunya adalah aturan negara tujuan itu sendiri. Kode Perbatasan Schengen 
 
 Kedua pemeriksaan itu juga mencakup hal yang berbeda. Maskapai yang menerima tiket lanjutan Anda tidak otomatis menjamin sisa persyaratan masuk Anda, seperti masa berlaku paspor atau [visa yang mungkin Anda perlukan](https://traveldocumentvault.com/id/blog/visa-vs-passport/). Petugas perbatasan mungkin sama sekali tidak menanyakan perjalanan lanjutan. Untuk daftar lengkap dokumen yang sebaiknya Anda bawa, lihat panduan kami tentang [dokumen yang harus dibawa saat bepergian internasional](https://traveldocumentvault.com/id/blog/what-documents-to-carry-when-travelling-internationally/).
 
-**Travel Document Vault** menyimpan tiket penerbangan dan reservasi hotel Anda di perangkat, terenkripsi dan dapat diakses tanpa sinyal - sehingga Anda dapat menunjukkan bukti di gerbang kapan pun diminta. [Unduh di App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) dan [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog).
+**Travel Document Vault** menyimpan tiket penerbangan dan reservasi hotel Anda di perangkat, terenkripsi dan dapat diakses tanpa sinyal - sehingga Anda dapat menunjukkan bukti di gerbang kapan pun diminta. [Unduh di App Store](https://apps.apple.com/app/apple-store/id6757014877?pt=128401792&ct=blog&mt=8) dan [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_campaign%3Dblog%26utm_content%3Dblog).
 
 ## Jika Anda Sengaja Bepergian dengan Tiket Sekali Jalan
 

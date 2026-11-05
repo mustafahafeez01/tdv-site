@@ -46,7 +46,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/proof-of-onward-travel/
 
 两种核查覆盖的范围也不一样。航空公司接受了你的后续机票，并不代表它为你入境所需的其他条件做了担保，比如护照的有效期，或者你可能需要的[签证](https://traveldocumentvault.com/zh-Hans/blog/visa-vs-passport/)。边境官员也可能根本不会问到后续行程。关于出行时值得携带的完整证件清单，请参阅我们的[国际旅行应携带哪些文件指南](https://traveldocumentvault.com/zh-Hans/blog/what-documents-to-carry-when-travelling-internationally/)。
 
-**Travel Document Vault** 将你的机票和酒店预订加密存储在设备上，无需信号即可访问——无论何时被要求，都能在登机口出示证明。[在 App Store 下载](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)，也可以在 [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog) 获取。
+**Travel Document Vault** 将你的机票和酒店预订加密存储在设备上，无需信号即可访问——无论何时被要求，都能在登机口出示证明。[在 App Store 下载](https://apps.apple.com/app/apple-store/id6757014877?pt=128401792&ct=blog&mt=8)，也可以在 [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_campaign%3Dblog%26utm_content%3Dblog) 获取。
 
 ## 如果你是刻意选择单程机票出行
 

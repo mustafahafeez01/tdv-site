@@ -46,7 +46,7 @@ Source: https://traveldocumentvault.com/uk/blog/proof-of-onward-travel/
 
 Ці перевірки також стосуються різних речей. Авіакомпанія, яка прийняла ваш квиток на подальшу подорож, не підтвердила решту умов в'їзду, наприклад дійсність паспорта чи [візу, яка вам може знадобитися](https://traveldocumentvault.com/uk/blog/visa-vs-passport/). Прикордонник може взагалі не питати про подальшу подорож. Повний перелік документів, які варто мати при собі, дивіться в нашому матеріалі про те, [які документи брати в міжнародну подорож](https://traveldocumentvault.com/uk/blog/what-documents-to-carry-when-travelling-internationally/).
 
-**Travel Document Vault** зберігає ваші авіаквитки та бронювання готелів на вашому пристрої, у зашифрованому вигляді й доступними навіть без сигналу мережі – тож ви зможете показати підтвердження на виході до посадки, коли про нього попросять. [Завантажте в App Store](https://apps.apple.com/app/travel-document-vault/id6757014877) і [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault).
+**Travel Document Vault** зберігає ваші авіаквитки та бронювання готелів на вашому пристрої, у зашифрованому вигляді й доступними навіть без сигналу мережі – тож ви зможете показати підтвердження на виході до посадки, коли про нього попросять. [Завантажте в App Store](https://apps.apple.com/app/apple-store/id6757014877?pt=128401792&ct=blog&mt=8) і [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_campaign%3Dblog).
 
 ## Якщо ви навмисно подорожуєте з квитком в один бік
 

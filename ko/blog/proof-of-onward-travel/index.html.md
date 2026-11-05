@@ -46,7 +46,7 @@ Source: https://traveldocumentvault.com/ko/blog/proof-of-onward-travel/
 
 확인 범위도 서로 다릅니다. 출국 항공권을 받아준 항공사가 나머지 입국 요건, 예를 들어 여권 유효기간이나 필요할 수 있는 [비자](https://traveldocumentvault.com/ko/blog/visa-vs-passport/)까지 보증해 준 것은 아닙니다. 국경 직원은 출국 예정 증빙을 전혀 묻지 않을 수도 있습니다. 챙겨 둘 만한 서류 전체 목록은 [국제 여행 시 챙겨야 할 서류 가이드](https://traveldocumentvault.com/ko/blog/what-documents-to-carry-when-travelling-internationally/)를 참고하세요.
 
-**Travel Document Vault**는 항공권과 호텔 예약 내역을 기기에 암호화하여 저장하며, 신호 없이도 열어볼 수 있습니다. 탑승구에서 요구받을 때 언제든 증빙을 보여줄 수 있습니다. [App Store에서 다운로드](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)하고 [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog)에서도 받으세요.
+**Travel Document Vault**는 항공권과 호텔 예약 내역을 기기에 암호화하여 저장하며, 신호 없이도 열어볼 수 있습니다. 탑승구에서 요구받을 때 언제든 증빙을 보여줄 수 있습니다. [App Store에서 다운로드](https://apps.apple.com/app/apple-store/id6757014877?pt=128401792&ct=blog&mt=8)하고 [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_campaign%3Dblog%26utm_content%3Dblog)에서도 받으세요.
 
 ## 의도적으로 편도 티켓으로 여행하는 경우
 

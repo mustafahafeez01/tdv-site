@@ -46,7 +46,7 @@ Där de överlappar är resmålets egna regler. Schengens gränskodex listar til
 
 Kontrollerna täcker också olika saker. Ett flygbolag som godtar din vidarebiljett har inte intygat resten av din inresa, som passets giltighet eller ett [visum du kan behöva](https://traveldocumentvault.com/sv/blog/visa-vs-passport/). En gränstjänsteman kanske inte frågar om vidare resa alls. Se vår guide om [vilka handlingar du bör ha med dig vid internationella resor](https://traveldocumentvault.com/sv/blog/what-documents-to-carry-when-travelling-internationally/) för hela listan över vad som är värt att ha med sig.
 
-**Travel Document Vault** lagrar dina flygbiljetter och hotellbokningar på din enhet, krypterat och tillgängligt utan signal, så att du kan visa bevis vid gaten när du blir tillfrågad. [Ladda ner i App Store](https://apps.apple.com/app/travel-document-vault/id6757014877) och [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault).
+**Travel Document Vault** lagrar dina flygbiljetter och hotellbokningar på din enhet, krypterat och tillgängligt utan signal, så att du kan visa bevis vid gaten när du blir tillfrågad. [Ladda ner i App Store](https://apps.apple.com/app/apple-store/id6757014877?pt=128401792&ct=blog&mt=8) och [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_campaign%3Dblog).
 
 ## Om du avsiktligt reser med en enkel biljett
 

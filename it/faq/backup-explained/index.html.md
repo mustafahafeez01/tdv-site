@@ -82,6 +82,6 @@ Quali opzioni di backup offre Travel Document Vault? Travel Document Vault offre
 
 Download gratuito. L’esportazione del caveau e i backup locali sono inclusi per tutti. Pro aggiunge il backup cloud, profili illimitati, esportazione PDF combinata, e altro ancora. Acquisto una tantum, nessun abbonamento.
 
-[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=faq&mt=8)
+[App Store](https://apps.apple.com/app/apple-store/id6757014877?pt=128401792&ct=website&mt=8)
 
 ![Disponibile su Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

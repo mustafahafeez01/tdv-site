@@ -46,7 +46,7 @@ Source: https://traveldocumentvault.com/th/blog/proof-of-onward-travel/
 
 การตรวจสอบทั้งสองยังครอบคลุมเรื่องที่แตกต่างกัน สายการบินที่ยอมรับตั๋วเดินทางต่อของคุณไม่ได้รับรองส่วนอื่นของการเข้าประเทศ เช่น อายุการใช้งานของพาสปอร์ตหรือ[วีซ่าที่คุณอาจต้องมี](https://traveldocumentvault.com/th/blog/visa-vs-passport/) ส่วนเจ้าหน้าที่ตรวจคนเข้าเมืองอาจไม่ถามเรื่องการเดินทางต่อเลยก็ได้ สำหรับรายการเอกสารทั้งหมดที่ควรพกติดตัว ดูคู่มือของเราเรื่อง[เอกสารที่ควรพกเมื่อเดินทางระหว่างประเทศ](https://traveldocumentvault.com/th/blog/what-documents-to-carry-when-travelling-internationally/)
 
-**Travel Document Vault** จัดเก็บตั๋วเครื่องบินและใบจองโรงแรมของคุณไว้บนอุปกรณ์ เข้ารหัสไว้และเข้าถึงได้โดยไม่ต้องมีสัญญาณ จึงแสดงหลักฐานที่เคาน์เตอร์ได้ทุกเมื่อที่ถูกขอ [ดาวน์โหลดบน App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) และ [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog)
+**Travel Document Vault** จัดเก็บตั๋วเครื่องบินและใบจองโรงแรมของคุณไว้บนอุปกรณ์ เข้ารหัสไว้และเข้าถึงได้โดยไม่ต้องมีสัญญาณ จึงแสดงหลักฐานที่เคาน์เตอร์ได้ทุกเมื่อที่ถูกขอ [ดาวน์โหลดบน App Store](https://apps.apple.com/app/apple-store/id6757014877?pt=128401792&ct=blog&mt=8) และ [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_campaign%3Dblog%26utm_content%3Dblog)
 
 ## หากคุณตั้งใจเดินทางด้วยตั๋วเที่ยวเดียว
 

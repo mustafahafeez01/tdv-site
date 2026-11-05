@@ -46,7 +46,7 @@ Ze overlappen waar de regels van de bestemming zelf dat doen. De Schengengrensco
 
 De controles gaan ook over andere zaken. Een luchtvaartmaatschappij die je vervolgticket accepteert, heeft zich niet uitgesproken over de rest van je inreis, zoals de geldigheid van je paspoort of een [visum dat je misschien nodig hebt](https://traveldocumentvault.com/nl/blog/visa-vs-passport/). Een grensbeambte vraagt misschien helemaal niet naar verder reizen. Voor het volledige overzicht van documenten die het waard zijn om bij je te hebben, zie onze gids over [welke documenten je mee moet nemen op internationale reizen](https://traveldocumentvault.com/nl/blog/what-documents-to-carry-when-travelling-internationally/).
 
-**Travel Document Vault** bewaart je vliegtickets en hotelreserveringen op je toestel, versleuteld en toegankelijk zonder bereik - zodat je bij de gate bewijs kunt tonen wanneer daarom wordt gevraagd. [Download in de App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) en op [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog).
+**Travel Document Vault** bewaart je vliegtickets en hotelreserveringen op je toestel, versleuteld en toegankelijk zonder bereik - zodat je bij de gate bewijs kunt tonen wanneer daarom wordt gevraagd. [Download in de App Store](https://apps.apple.com/app/apple-store/id6757014877?pt=128401792&ct=blog&mt=8) en op [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_campaign%3Dblog%26utm_content%3Dblog).
 
 ## Als je bewust met een enkele reis reist
 

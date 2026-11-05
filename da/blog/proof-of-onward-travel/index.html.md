@@ -46,7 +46,7 @@ Overlappet ligger i rejsemålets egne regler. Schengengrænsekodeksen nævner fo
 
 Kontrollerne dækker også forskellige ting. Et flyselskab, der accepterer din videre billet, har ikke stået inde for resten af din indrejse, f.eks. passets gyldighed eller et [visum, du måske skal bruge](https://traveldocumentvault.com/da/blog/visa-vs-passport/). En grænsebetjent spørger måske slet ikke om videre rejse. Se vores guide til [hvilke dokumenter du skal have med på internationale rejser](https://traveldocumentvault.com/da/blog/what-documents-to-carry-when-travelling-internationally/) for det fulde sæt dokumenter, det er værd at have med.
 
-**Travel Document Vault** gemmer dine flybilletter og hotelreservationer på din enhed, krypteret og tilgængelige uden mobilsignal – så du kan vise bevis ved gaten, uanset hvornår du bliver spurgt. [Hent på App Store](https://apps.apple.com/app/travel-document-vault/id6757014877) og [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault).
+**Travel Document Vault** gemmer dine flybilletter og hotelreservationer på din enhed, krypteret og tilgængelige uden mobilsignal – så du kan vise bevis ved gaten, uanset hvornår du bliver spurgt. [Hent på App Store](https://apps.apple.com/app/apple-store/id6757014877?pt=128401792&ct=blog&mt=8) og [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_campaign%3Dblog).
 
 ## Hvis du bevidst rejser med en enkeltbillet
 

@@ -46,7 +46,7 @@ Sie überschneiden sich bei den eigenen Regeln des Ziellands. Der Schengener Gre
 
 Die Prüfungen decken außerdem unterschiedliches Terrain ab. Eine Fluggesellschaft, die Ihr Weiterreise-Ticket akzeptiert, hat nicht für den Rest Ihrer Einreise gebürgt, etwa die Gültigkeit Ihres Reisepasses oder ein [Visum](https://traveldocumentvault.com/de/blog/visa-vs-passport/), das Sie brauchen könnten. Ein Grenzbeamter fragt möglicherweise überhaupt nicht nach der Weiterreise. Die vollständige Liste der Dokumente, die sich zu haben lohnt, finden Sie in unserem Leitfaden dazu, [welche Dokumente Sie bei internationalen Reisen mitführen sollten](https://traveldocumentvault.com/de/blog/what-documents-to-carry-when-travelling-internationally/).
 
-**Travel Document Vault** speichert Ihre Flugtickets und Hotelreservierungen verschlüsselt auf Ihrem Gerät, zugänglich auch ohne Empfang – damit Sie den Nachweis am Gate jederzeit zeigen können, wenn danach gefragt wird. [Laden Sie die App im App Store](https://apps.apple.com/app/travel-document-vault/id6757014877) und bei [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault) herunter.
+**Travel Document Vault** speichert Ihre Flugtickets und Hotelreservierungen verschlüsselt auf Ihrem Gerät, zugänglich auch ohne Empfang – damit Sie den Nachweis am Gate jederzeit zeigen können, wenn danach gefragt wird. [Laden Sie die App im App Store](https://apps.apple.com/app/apple-store/id6757014877?pt=128401792&ct=blog&mt=8) und bei [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_campaign%3Dblog) herunter.
 
 ## Wenn Sie absichtlich mit einem One-Way-Ticket reisen
 

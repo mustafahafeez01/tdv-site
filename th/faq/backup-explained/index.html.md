@@ -82,6 +82,6 @@ Travel Document Vault มีตัวเลือกการสำรองข�
 
 ดาวน์โหลดฟรี การส่งออกคลังและการสำรองข้อมูลในเครื่องรวมอยู่แล้วสำหรับทุกคน Pro เพิ่มสำรองข้อมูลคลาวด์ โปรไฟล์ไม่จำกัด การส่งออก PDF รวม และอื่นๆ ซื้อครั้งเดียว ไม่มีการสมัครสมาชิก
 
-[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=faq&mt=8)
+[App Store](https://apps.apple.com/app/apple-store/id6757014877?pt=128401792&ct=website&mt=8)
 
 ![ดาวน์โหลดจาก Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

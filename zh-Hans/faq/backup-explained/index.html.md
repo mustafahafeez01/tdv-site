@@ -82,6 +82,6 @@ Travel Document Vault 提供哪些备份选项？ Travel Document Vault 提供�
 
 免费下载。保险库导出和本地备份人人可用。Pro 添加了云备份、不限数量的档案、组合 PDF 导出等。一次性购买，无订阅。
 
-[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=faq&mt=8)
+[App Store](https://apps.apple.com/app/apple-store/id6757014877?pt=128401792&ct=website&mt=8)
 
 ![在 Google Play 上获取](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
