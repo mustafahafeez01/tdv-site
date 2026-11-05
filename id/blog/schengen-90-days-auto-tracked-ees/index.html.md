@@ -78,9 +78,9 @@ Untuk perjalanan yang masih Anda susun, sebaiknya gunakan alat ini bersama kalku
 
 ## Pesan "Tidak Dapat Dihitung Saat Ini"
 
-Beberapa pelancong melaporkan pesan kesalahan di perbatasan yang berbunyi seperti: "Sisa masa tinggal yang diizinkan bagi Anda saat ini tidak dapat dihitung karena data di sistem masuk/keluar sementara belum lengkap." Kalimat yang sama ini adalah salah satu jawaban yang bisa diberikan alat "Check how long you can stay" (periksa berapa lama Anda masih boleh tinggal) milik Uni Eropa, dan UE mengaitkannya dengan data di Entry/Exit System yang sementara belum lengkap. Artinya: EES sedang berjalan, tetapi sistem belum dapat menemukan catatan Anda sebelumnya, atau data dari pelintasan terakhir Anda belum tersinkronisasi di semua perbatasan Schengen.
+Alat "Check how long you can stay" (periksa berapa lama Anda masih boleh tinggal) milik Uni Eropa bisa memberikan jawaban ini: "Sisa masa tinggal yang diizinkan bagi Anda saat ini tidak dapat dihitung karena data di sistem masuk/keluar sementara belum lengkap." Secara sederhana, alat itu tidak bisa menyebutkan angka sisa hari Anda karena sebagian data yang dibutuhkannya belum tersedia. UE tidak menjelaskan penyebabnya lebih jauh dari itu.
 
-Ini adalah pesan masa transisi, paling sering muncul ketika Anda baru saja memasuki wilayah Schengen dan sistem perbatasan masih menyinkronkan data antarnegara anggota. Pesan ini melaporkan masalah pada data dalam sistem, bukan masalah pada masa tinggal Anda, dan menandakan bahwa pemeriksaan otomatis belum selesai. Apa yang terjadi selanjutnya adalah keputusan petugas perbatasan, bukan sesuatu yang bisa kami janjikan. Jika Anda melihatnya, tanyakan langsung kepada petugas apakah hitungan hari Anda menjadi masalah, dan catat sendiri secara rinci setiap hari yang Anda lalui di wilayah Schengen.
+Kami membacanya sebagai celah pada data, bukan vonis atas masa tinggal Anda, karena begitulah UE merumuskannya. Seperti jawaban OK dan not OK pada alat tersebut, pesan ini bukan keputusan izin masuk. Selama alat belum bisa memberi angka, hitung sendiri hari Anda dan catat setiap hari yang Anda lalui di wilayah Schengen.
 
 ## Cara Melacak Jendela Anda dalam Praktik
 

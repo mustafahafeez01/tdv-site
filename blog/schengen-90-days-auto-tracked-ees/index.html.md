@@ -80,9 +80,9 @@ For a trip you're still shaping, we'd pair the tool with the European Commission
 
 ## The "Cannot Currently Be Calculated" Message
 
-Some travellers have reported an error at the border reading something like: "Your remaining authorised stay cannot currently be calculated due to temporary incomplete data in the entry/exit system." The same wording is one of the answers the EU's "Check how long you can stay" tool can give, and the EU puts it down to temporary incomplete data in the Entry/Exit System. What it means: EES is running, but the system cannot yet find your previous record, or data from your last crossing hasn't synced across all Schengen borders.
+The EU's "Check how long you can stay" tool can give this answer: "Your remaining authorised stay cannot currently be calculated due to temporary incomplete data in the Entry/Exit System." In plain terms, the tool can't put a number on your remaining days because some of the data it needs isn't there yet. The EU doesn't say more about the cause than that.
 
-This is a transition-era message, most common when you've entered Schengen very recently and border systems are still synchronising data across member states. The message reports a problem with the data in the system rather than a problem with your stay, and it signals that the automatic check did not complete. What happens next is the border officer's decision, not something we can promise. If you see it, ask the officer directly whether your day count is a concern, and keep detailed records of every day you spend in the Schengen area yourself.
+We'd read it as a gap in the data rather than a verdict on your stay, since that's how the EU words it. Like the tool's OK and not OK answers, it isn't an entry decision. While the tool can't give you a number, count your days yourself and keep a record of every day you spend in the Schengen area.
 
 If the message keeps coming back when you check online, or the number you get looks wrong, the EU's advice is to contact the authorities of the country where you last entered or left the Schengen area. If you haven't visited since EES replaced passport stamps, contact the country you plan to visit instead. The Travel to Europe website lists who to contact in each country.
 
