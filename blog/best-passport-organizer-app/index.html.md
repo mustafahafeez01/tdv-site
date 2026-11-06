@@ -39,7 +39,7 @@ A breach of an on-device app leaks nothing from their servers - there is nothing
 
 ### Reminder lead time is the setting worth customising
 
-A reminder at 6 months is the minimum, since many countries require passport validity for at least 6 months beyond your travel dates, as explained in our article on the [6-month passport rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/). For families with children, whose passports expire after 5 years rather than 10, an earlier reminder (say 9 months out) gives more comfortable planning time.
+A reminder at 6 months is the minimum, since many countries require passport validity for at least 6 months beyond your travel dates, as explained in our article on the [6-month passport rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/). Children's passports often last 5 years rather than 10 (a UK child passport, for example, is valid for 5 years), so an earlier reminder (say 9 months out) gives more comfortable planning time.
 
 ### A single app can hold the whole family, safely
 
@@ -70,7 +70,7 @@ Before downloading, ask whether the app requires an account, uploads scans to a 
 | Requires internet to view documents | Fails when you need it most - at a border or in transit |
 | No privacy policy or vague policy | You don't know what happens to your scans |
 | Cloud-only storage with no on-device option | One server breach exposes all users' passport data |
-| Subscription pricing for basic features | Monthly fees create pressure to cancel - and lose access to your documents |
+| Subscription pricing for basic features | Monthly fees create pressure to cancel, and in some apps cancelling locks you out of your documents |
 
 What this means in practice
 
@@ -78,9 +78,9 @@ You're at a border crossing, phone offline, and the immigration officer asks to 
 
 ## Check What Happens to Your Documents If a Subscription Lapses
 
-There is a practical argument for one-time purchase apps over subscriptions when it comes to document storage. If you forget to renew a subscription (or simply decide to cancel), you lose access to your stored documents. That's a risky arrangement for something you may need years from now.
+There is a practical argument for one-time purchase apps over subscriptions when it comes to document storage. With some subscription apps, forgetting to renew (or deciding to cancel) can mean losing access to your stored documents. That's a risky arrangement for something you may need years from now.
 
-A one-time purchase app, by contrast, remains fully functional indefinitely. You pay once and the app continues to work regardless of whether the developer is still actively monetising it.
+A one-time purchase app, by contrast, has no renewal date that can lock you out. You pay once, and your documents stay on your device and open as before.
 
 ## How Travel Document Vault Approaches This
 
@@ -124,7 +124,7 @@ The best passport organizer apps are designed to work fully offline. This matter
 
 ### How far in advance should a passport app remind me to renew?
 
-At minimum, 6 months before expiry, since many countries require your passport to be valid for at least 6 months beyond your departure date. A good app lets you set reminder timings yourself. For families with children, whose passports expire after 5 years, setting reminders at 9 months out gives more comfortable planning time.
+At minimum, 6 months before expiry, since many countries require your passport to be valid for at least 6 months beyond your departure date. A good app lets you set reminder timings yourself. For families with children, whose passports often expire after 5 years, setting reminders at 9 months out gives more comfortable planning time.
 
 ### What documents should a good passport organizer app support?
 

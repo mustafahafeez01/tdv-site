@@ -24,7 +24,7 @@ Although specific rules vary by passport authority, most countries share core re
 
 ### Background and Composition
 
-You need a plain, light background, and the exact shade depends on your authority: GOV.UK asks for plain cream or light grey, while the Government of Canada asks for plain white or light-coloured. No patterns, shadows, blurred backgrounds, or strong colours. The reasoning is straightforward: officials need a clean, uncluttered view of your face to compare against future documents. Most people use a white bedsheet, poster board, or even paint a small section of wall. The key is keeping it bright and uniform throughout.
+You need a plain, light background, and the exact shade depends on your authority: GOV.UK asks for plain cream or light grey, while the Government of Canada asks for plain white or light-coloured. No patterns, shadows, blurred backgrounds, or strong colours. The reasoning is straightforward: officials need a clean, uncluttered view of your face to compare against future documents. Use a plain sheet or poster board in the shade your authority asks for (cream or light grey for the UK), or even paint a small section of wall. The key is keeping it bright and uniform throughout.
 
 ### Expression and Pose
 
@@ -38,7 +38,7 @@ Sunglasses and tinted lenses are generally refused. If you do qualify to keep yo
 
 ## Passport Photo Size: the Two Standards Most Countries Use
 
-Most passport authorities use one of two printed sizes. The 35mm x 45mm format covers the UK, EU countries including the Netherlands, and much of the rest of the world. The US asks for a 2 x 2 inch square, and a handful of countries follow that standard instead. A few authorities set their own size: the Government of Canada, for example, asks for printed photos 50mm wide by 70mm high.
+Printed photo sizes vary by authority. The UK uses 35mm x 45mm and the Government of Canada asks for printed photos 50mm wide by 70mm high. Other countries set their own sizes, so take yours from your own passport authority.
 
 Digital submissions swap millimetres for pixels, and every authority publishes its own minimums. Those two sizes are what most authorities currently ask for in print, but specifications get revised, so confirm yours before you print or upload.
 
@@ -63,11 +63,11 @@ You have several options for getting your passport photo into the hands of the p
 
 | Method | Cost | Acceptance Risk | Convenience | Official Guidance |
 |---|---|---|---|---|
-| At-home DIY (smartphone + crop app) | Free or close to it | Higher if you miss lighting or size specs | Very high - immediate | Permitted in most countries - check your authority's site |
+| At-home DIY (smartphone + crop app) | Free or close to it | Higher if you miss lighting or size specs | Very high - immediate | Check your authority's site |
 | Local chemist or pharmacy | A modest fee | Low - trained professionals verify | Medium - same-day service typical | Widely used and generally reliable - check your own authority's photo requirements either way |
 | Post Office (UK and others) | A modest fee | Low - taken in-house, checked | Medium - requires visit and appointment | Post Office official service |
 | Online services (e.g. Passport Photo Online) | A modest fee | Medium - digital submission, feedback provided | High - from home, digital delivery | Not official but widely used - check if your country accepts pre-cropped uploads |
-| Professional photography studio | The most expensive option | Low - expert lighting and composition | Low - requires appointment | Accepted everywhere - always a safe choice |
+| Professional photography studio | The most expensive option | Low - expert lighting and composition | Low - requires appointment | Lowest risk, though the photo still has to meet your authority's rules |
 
 ## Lighting and Image Quality
 
@@ -83,7 +83,7 @@ Use a tripod or prop your phone against a stable object so you have both hands f
 
 ### Resolution and Focus
 
-Modern smartphones shoot at 12 megapixels or higher, which is plenty for passport photos. Before you shoot, make sure your phone is in focus mode: tap on your face on the screen, and most phones will lock focus there. Your final image should be sharp and clear.
+Most modern smartphone cameras have plenty of resolution for a passport photo. Before you shoot, make sure your phone is in focus mode: tap on your face on the screen, and most phones will lock focus there. Your final image should be sharp and clear.
 
 ## Common Rejection Reasons and How to Avoid Them
 
@@ -133,7 +133,7 @@ Yes, you can take a passport photo using a smartphone. Position yourself in fron
 
 ### What size should a passport photo be
 
-Most countries use one of two printed sizes: 35mm x 45mm, which covers the UK, the EU and much of the world, or the 2 x 2 inch square the US uses. A few authorities set their own, such as the Government of Canada's 50mm x 70mm. Digital submissions have separate pixel minimums. Requirements are enforced strictly and get revised, so confirm the exact spec with your own passport authority before you print or upload.
+Printed sizes vary by authority. The UK uses 35mm x 45mm and the Government of Canada uses 50mm x 70mm. Other countries set their own sizes, so take yours from your own passport authority. Digital submissions have separate pixel minimums. Requirements are enforced strictly and get revised, so confirm the exact spec with your own passport authority before you print or upload.
 
 ### Why was my passport photo rejected
 

@@ -57,7 +57,7 @@ The regulations allow a passport to be issued when only one parent executes the 
 
 A passport issued before the child turned 16 still can't be renewed at 16 or 17. The teenager applies for a new passport in person, and the difference now is that they can execute, or sign, their own application.
 
-A parent still has a part to play. They can either give a **signed statement saying they are aware** the teenager is applying for a passport, or attend the appointment with them. The regulations also let the passport officer ask for a parent's notarised consent at any time, so it's worth having a parent reachable on the day.
+A parent still has a part to play. The State Department generally asks a parent to either sign a **statement saying they are aware** the teenager is applying, or attend the appointment, so check its teen page for the current requirement before you go. The regulations also let the passport officer ask for a parent's notarised consent at any time, so it's worth having a parent reachable on the day.
 
 The passport issued at 16 or 17 is valid for ten years. When it runs out, the young person, now an adult, can generally renew it by mail or online, provided they meet the usual adult conditions. The in-person reapplications end there.
 
@@ -85,7 +85,7 @@ Federal passport regulations require both parents or guardians to execute the ap
 
 ### What happens when a child turns 16?
 
-A passport issued before age 16 still cannot be renewed when the child turns 16 or 17. The young person applies in person for a new passport and can sign their own application. A parent can provide a signed statement saying they are aware of the application, or they can attend the appointment. The officer may still require a notarised statement of parental consent. A passport issued at 16 or 17 is valid for ten years and can generally be renewed like an adult's once it runs out.
+A passport issued before age 16 still cannot be renewed when the child turns 16 or 17. The young person applies in person for a new passport and can sign their own application. A parent may be asked to provide a signed statement saying they are aware of the application, or to attend the appointment. The officer may still require a notarised statement of parental consent. A passport issued at 16 or 17 is valid for ten years and can generally be renewed like an adult's once it runs out.
 
 ### What if one parent has sole legal custody?
 

@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/blog/uk-eta-passport-rules/
 
 - **A UK ETA is tied to your passport number.** When you renew your passport and get a new number, your old ETA becomes invalid.
 - You must travel on **the exact passport you applied with.** A new passport means you need a new ETA before travelling.
-- **Every person needs their own ETA** - including children and babies. There is no family ETA or dependent entry.
+- **Every person needs their own ETA** - including children and babies. There is no family ETA. Each person needs their own, though you can apply on behalf of family members.
 - The Home Office recommends applying **at least 3 working days ahead.** This is a recommendation, not a processing guarantee.
 - An ETA is **permission to travel, not entry.** Border officers can refuse entry even with a valid ETA.
 
@@ -30,7 +30,7 @@ Some people are exempt: Irish citizens do not need one, and people with UK immig
 
 Your UK ETA is attached to your passport number, not to you as a person. When you apply, the Home Office links your approval to a specific passport number. Travelling on a different passport (a newly renewed one, a second passport, an emergency replacement) means travelling on an ETA that is not tied to that document.
 
-This is different from visas in many countries, which are often tied to a person and printed in a new passport when you renew, because a UK ETA is digital and passport-specific: a new passport number means a new ETA is needed.
+A UK ETA is digital and passport-specific: a new passport number means a new ETA is needed.
 
 In practice, if your passport expires or you renew it for any reason before your trip, you cannot use your old ETA on your new passport. You must apply again and get approval before you travel, since there is no automatic transfer.
 
@@ -53,13 +53,13 @@ The risk is in step 5. If your trip is in 10 days and your new passport arrives 
 
 ## Every Child Needs Their Own ETA, Babies Included
 
-Every person, including infants, needs their own UK ETA. There is no family ETA and no way to add dependents to someone else's application.
+Every person, including infants, needs their own UK ETA. There is no family ETA. Each person needs their own, though you can apply on behalf of family members.
 
 This means for a family of four, you are submitting four separate applications and paying four separate fees. More importantly, you are tracking four approval statuses, four expiry dates and four passport numbers, all of them separately.
 
-Children's passports also expire faster than adult passports, typically every 5 years instead of 10. A baby issued a passport in 2023 will have a new passport number by 2028, which means a new ETA application before then. If a family trip is planned when that child is 5, the passport and ETA may both be within a year or two of expiry.
+In many countries a child's passport is valid for less time than an adult's, often 5 years, so check yours. A child's passport issued for 5 years in 2023 would need replacing by 2028, which means a new ETA application before then. If a family trip is planned when that child is 5, the passport and ETA may both be within a year or two of expiry.
 
-Before booking any family trip to the UK, check every family member's passport expiry date and ETA status. One person short on validity can prevent the whole family from boarding.
+Before booking any family trip to the UK, check every family member's passport expiry date and ETA status. One person short on validity or without an ETA may not be allowed to board, which can disrupt the whole family's trip.
 
 ## Apply Two to Three Weeks Before You Travel
 
@@ -75,7 +75,7 @@ The safer approach: apply as soon as you have your final passport, ideally 2-3 w
 
 ## An ETA Is Permission to Travel, Not a Promise of Entry
 
-A border officer, not the ETA, decides who actually crosses the border. They can ask about your purpose, your financial situation, your ties to your home country, or previous travel patterns, and refuse entry if they aren't satisfied, even with a valid ETA. This is rare for tourists, but it happens.
+A border officer, not the ETA, decides who actually crosses the border. Officers can ask about the purpose of your trip and may refuse entry if they are not satisfied, even with a valid ETA.
 
 It isn't a visa either, so it doesn't set how long you can stay. ETA holders from most non-visa countries can stay for up to 6 months as a visitor, but the border officer decides the actual length of stay when you arrive, not the ETA itself.
 
@@ -83,7 +83,7 @@ It isn't a visa either, so it doesn't set how long you can stay. ETA holders fro
 
 A UK ETA is one of several digital travel permissions now in use. If you are planning travel across multiple countries, understand the difference between an ETA and a [visa](https://traveldocumentvault.com/blog/visa-vs-passport/). They look similar in process but serve different purposes.
 
-The EU is rolling out its own digital travel permission system called [ETIAS](https://traveldocumentvault.com/blog/etias-documents-2026/) for non-EU visitors, similar in concept to the UK ETA but with different rules and requirements. If your trip includes both the UK and Europe, you could need both.
+The EU plans its own digital travel permission, [ETIAS](https://traveldocumentvault.com/blog/etias-documents-2026/), which is not yet in operation. It is similar in concept to the UK ETA but with different rules and requirements. When it starts, a trip covering both the UK and the Schengen area could need both.
 
 If you already have a trip booked, do this today: check your passport's expiry date against your travel dates, and confirm your current ETA is tied to the passport you'll actually be travelling on. If either one falls short, start the renewal or the reapplication now, not the week before you fly.
 
@@ -91,7 +91,7 @@ If you already have a trip booked, do this today: check your passport's expiry d
 
 ### What is a UK ETA?
 
-A UK ETA (Electronic Travel Authorisation) is a digital travel permission the UK introduced in 2025. The scheme was enforced from 25 February 2026 for most non-visa nationals. It is not a visa - it is permission to travel. Border officers can still refuse entry even if you have a valid ETA.
+A UK ETA (Electronic Travel Authorisation) is a digital travel permission the UK launched in October 2023. The scheme was enforced from 25 February 2026 for most non-visa nationals. It is not a visa - it is permission to travel. Border officers can still refuse entry even if you have a valid ETA.
 
 ### Who needs to apply for a UK ETA?
 

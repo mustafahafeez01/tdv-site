@@ -22,7 +22,7 @@ Passport and visa sound almost interchangeable, but they do different jobs: one 
 
 Your passport contains your name, date of birth, photo, and a unique passport number, issued by your government and recognised worldwide as proof of your citizenship.
 
-It works as your official identification for international travel. Without it, you cannot legally leave your country or enter most foreign destinations. Immigration officers examine it at borders, airlines require it for international flights, and customs officials check it when you arrive.
+It works as your official identification for international travel. For most international trips you need it to leave your country and to be admitted abroad, although some regions accept other documents, such as national ID cards within Europe or a US passport card at land and sea crossings. Immigration officers examine it at borders, airlines require it for international flights, and customs officials check it when you arrive.
 
 Passports are typically valid for several years (often 10 years for adults, 5 years for children), though validity periods vary by country. When your passport expires, you cannot travel internationally and must apply for a renewal. Keeping track of that date matters more than most people expect, because many countries require at least 6 months of validity remaining before they'll let you in, so a passport that hasn't expired can still turn you away at the border. Your destination's embassy will confirm the exact rule it applies.
 
@@ -38,7 +38,7 @@ Visa requirements depend on your nationality. A citizen of one country might nee
 
 Your passport answers one question: "Who are you, and which country issued this document?" Your visa answers another: "Does the destination country allow you to visit?" Together, they work like a two-part key: your passport lets you leave home, and your visa grants entry at your destination.
 
-Most international trips require both a valid passport and an appropriate visa (or confirmation that a visa isn't needed for your destination). Without a passport, you can't legally leave your country. Without a required visa, you can't enter your destination, regardless of how valid your passport is. Many travel disruptions happen because travellers have valid passports but forget to check visa requirements before they book.
+Most international trips require both a valid passport and an appropriate visa (or confirmation that a visa isn't needed for your destination). For most international trips, you can't leave without a passport. Without a required visa, you can't enter your destination, regardless of how valid your passport is. Many travel disruptions happen because travellers have valid passports but forget to check visa requirements before they book.
 
 ## Is a Passport the Same as a Visa?
 
@@ -60,7 +60,7 @@ Most countries issue visas in these categories:
 - **Work visa:** Required for employment abroad. Employers typically sponsor these, with specific restrictions on what work you're allowed to do.
 - **Student visa:** For studying at a recognised educational institution, often with restrictions on outside work and specific duration limits.
 - **Transit visa:** Required by some countries for passing through on your way to another destination - even if you're only changing planes.
-- **E-visa:** An electronic visa applied for online and stored in the destination country's system, linked to your passport number. Common in Southeast Asia and increasingly elsewhere.
+- **E-visa:** An electronic visa applied for online and typically stored in the destination country's system, linked to your passport number. Common in Southeast Asia and increasingly elsewhere.
 - **Visa on arrival:** Issued at your destination airport or border when you land. Processing is usually quick, though queues can be long, and not all countries offer this option.
 
 Visa requirements within each category vary dramatically. A tourist visa to one country might be valid for 30 days while another allows 90, and some are single-entry (just the one visit) where others allow multiple entries.
@@ -69,7 +69,7 @@ Visa requirements within each category vary dramatically. A tourist visa to one 
 |---|---|---|
 | **Issued by** | Your home country | Destination country |
 | **Purpose** | Proves citizenship and identity | Grants permission to enter a specific country |
-| **Required for** | All international travel | Travel to many (not all) countries |
+| **Required for** | Most international travel | Travel to many (not all) countries |
 | **Validity period** | Usually 5-10 years | Varies: days to years depending on type |
 | **Application location** | Government office in your country | Embassy or consulate of destination country |
 | **Processing time** | Weeks to months depending on country | Days to months depending on destination and type |
@@ -79,7 +79,7 @@ Visa requirements within each category vary dramatically. A tourist visa to one 
 
 One source of confusion involves the difference between a traditional visa stamp and a modern e-visa. Historically, officials would stamp or write approval directly in your passport: you'd see official marks, dates, and approval notes printed on the pages. E-visas work differently: you apply online, pay a fee, and receive approval via email rather than a physical stamp.
 
-Instead of being printed in your passport, an e-visa is stored in the destination country's electronic system and linked to your passport number. When you arrive, border officials look it up in their system to confirm your visa. Both types are equally valid and legally binding.
+Instead of being printed in your passport, an e-visa is typically stored in the destination country's electronic system and linked to your passport number. When you arrive, border officials look it up in their system to confirm your visa. Both types are equally valid and legally binding.
 
 That link to your passport number matters if you replace the passport. An e-visa tied to a number you no longer carry can fail the lookup at the border, so tell the issuing authority before you travel rather than finding out at the desk.
 
@@ -89,7 +89,7 @@ The key is your nationality and your destination. One traveller might need a vis
 
 Three places will tell you what you actually need, and all three are worth checking rather than picking one:
 
-- **The IATA Travel Centre.** It draws on the same document database airlines consult at check-in, so its answer usually matches what you'll actually be held to. You search by passport country and destination, and it returns the requirements, processing times, and validity periods for that exact pairing.
+- **The IATA Travel Centre.** It draws on the same document database airlines consult at check-in, so its answer usually matches what you'll actually be held to. You search by passport country and destination, and it returns the passport, visa and health requirements for that pairing.
 - **The destination country's embassy or consulate for where you live.** This is the authority that actually issues the visa, so its wording beats every summary of it. Look for the one accredited to your country of residence, not the country you're flying from.
 - **Your own government's travel advice service.** The UK Foreign, Commonwealth and Development Office, the US State Department, Smartraveller in Australia, and Global Affairs Canada each publish entry requirements for their own citizens, and each flags recent changes.
 
@@ -111,7 +111,7 @@ The confusion is that your old passport has expired as a travel document, whilst
 
 ## Visa-Free Travel Still Has Limits
 
-Many nations have visa waiver or visa-free agreements with each other, allowing their citizens to cross borders without obtaining a visa in advance. The Schengen Area in Europe is the most well-known example: passport holders from member countries can move freely across its 29 member states without visa checks. Membership does change, so the European Commission's own Schengen pages are the place to confirm who is currently in. Southeast Asia, the Caribbean, and parts of Africa have similar schemes.
+Many nations have visa waiver or visa-free agreements with each other, allowing their citizens to cross borders without obtaining a visa in advance. The Schengen Area in Europe is the most well-known example: travellers can generally cross between its 29 member states without routine border checks, although some countries reintroduce temporary controls. Membership does change, so the European Commission's own Schengen pages are the place to confirm who is currently in. Southeast Asia, the Caribbean, and parts of Africa have similar schemes.
 
 However, visa-free travel has limits. It typically applies only to tourism or short-term visits, not work or study. Visa-free periods are also limited, often 30 to 90 days depending on the country. If you exceed the permitted time, you become an illegal resident and face penalties including fines, deportation, or future entry bans.
 
@@ -143,7 +143,7 @@ Traditionally a visa is a sticker or stamp placed on one of your passport pages,
 
 ### What is the full form of passport and visa
 
-Neither word is an abbreviation, so there is no full form to expand. Both are ordinary words with old origins: passport comes from the French passeport, and visa from the Latin for a paper that has been seen.
+Neither word is an abbreviation, so there is no full form to expand.
 
 ### Is a Visa card the same as a travel visa
 
@@ -151,7 +151,7 @@ No, and the shared name is a coincidence rather than a connection. Visa the paym
 
 ### Can you use a visa from an expired passport
 
-In most countries, yes. Your visa validity is separate from your passport validity, so a still-valid visa in an expired passport generally remains usable if you carry both books together. Some countries do require the visa to be transferred to the new passport first, so confirm your destination's rule with its embassy before you travel.
+Often, yes. Your visa validity is separate from your passport validity, so a still-valid visa in an expired passport generally remains usable if you carry both books together. Some countries do require the visa to be transferred to the new passport first, so confirm your destination's rule with its embassy before you travel.
 
 ## Related Articles
 

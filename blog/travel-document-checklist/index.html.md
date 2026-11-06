@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/blog/travel-document-checklist/
 ## Key Takeaways
 
 - The most useful travel document checklist is organised by **when you need to act** - not by document type. Sorting by stage means you catch problems while there's still time to fix them.
-- Passports need checking at booking time, not the night before. A passport expiring in seven months can get you turned away at the gate for popular destinations.
+- Passports need checking at booking time, not the night before. A passport with under six months left can get you turned away for some destinations, so check the exact figure for yours at booking.
 - Family travel adds a separate layer: every child needs their documents checked individually, and a parental consent letter may be needed if one parent isn't travelling.
 - Business travellers often carry multiple passports and work visas - these need their own tracking, separate from personal documents.
 - A digital backup of every document (encrypted, not in your photo library) could get you home faster if something goes wrong abroad.
@@ -26,7 +26,7 @@ The biggest mistake travellers make is treating the booking moment as administra
 
 **Check your passports before you pay**
 
-Before you confirm any booking, check every traveller's passport against three criteria: validity, name match, and blank pages. Validity means meeting the destination's requirement: many countries require six months beyond your departure date, not just your arrival date, as explained in our [guide to the 6-month passport rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/). The name on the passport must exactly match the booking name, and some countries require at least two blank visa pages for entry stamps.
+Before you confirm any booking, check every traveller's passport against three criteria: validity, name match, and blank pages. Validity means meeting the destination's requirement: many countries want six months of validity left on the day you arrive, and a few count from departure, so check your destination, as explained in our [guide to the 6-month passport rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/). The name on the passport must exactly match the booking name, and some countries require at least two blank visa pages for entry stamps.
 
 **Check your visa requirements**
 
@@ -40,13 +40,13 @@ Book travel insurance when you book flights, not a week before departure. Insura
 
 ## Three Months Before: If Renewal or a Visa Is Close, Start Now
 
-At this point you still have time to fix things. Renewal times change, and each authority publishes its own current figure: the US State Department, HM Passport Office, and the Australian Passport Office. Always check the official site for current times before you apply.
+At this point you still have time to fix things. Renewal times change, and your country's passport authority publishes its own current figure. Always check the official site for current times before you apply.
 
-Any passport expiring within 12 months needs renewing now, because children's passports expire faster (5 years in most countries versus 10 for adults) and parents frequently miss the window. For New Zealand applicants, check the New Zealand Passport Office for current timelines; demand spikes in the lead-up to summer.
+We'd renew any passport expiring within 12 months now, because children's passports expire faster (UK child passports last 5 years, against 10 for adults, and several other countries work the same way) and parents frequently miss the window. For New Zealand applicants, check the New Zealand Passport Office for current timelines.
 
 Submit any visa applications that need lead time, and check the issuing authority for how long it currently takes. Prepare supporting documents: bank statements, accommodation confirmations, onward travel proof. Book a biometrics appointment in advance if the visa requires it.
 
-For families: if a child is travelling with only one parent or another adult, prepare a child travel consent letter now. Include the child's full name and date of birth, both parents' contact details, travel dates, destinations, and the absent parent's signature. A notarised copy is more convincing at immigration and worth the extra step.
+For families: if a child is travelling with only one parent or another adult, prepare a child travel consent letter now. Include the child's full name and date of birth, both parents' contact details, travel dates, destinations, and the absent parent's signature. Some destinations also ask for the letter to be notarised, so check the entry rules.
 
 ## One Month Before: Confirm and Consolidate
 
@@ -105,8 +105,8 @@ Different trips need different document sets, as the table below shows for solo,
 | Visa (if required) | | each member | corporate | Business: confirm visa is in the correct passport |
 | Travel insurance | | all covered | check employer covers you | Confirm coverage before each trip, not just at purchase |
 | Booking confirmations | | | | Offline copy (don't rely on email access at borders) |
-| Child consent letter | N/A | if applicable | N/A | Required in many countries if one parent absent |
-| Birth certificates | N/A | if required | N/A | Some countries require for children under 18 |
+| Child consent letter | N/A | if applicable | N/A | Asked for in some countries if one parent is absent |
+| Birth certificates | N/A | if required | N/A | Some countries ask for this for children under 18 |
 | Work authorisation letter | N/A | N/A | if required | Some destinations require employer letters for business travellers |
 
 If a trip is already booked, the one thing worth doing today is pulling out every passport involved and checking its expiry against the destination's requirement, not just against your travel dates.
@@ -129,7 +129,7 @@ Yes. Each person's passport expiry, visa requirements, and insurance coverage is
 
 ### What is a child travel consent letter and do I need one?
 
-A child travel consent letter is a signed document from the absent parent giving permission for the child to travel. Countries including Canada, South Africa, Mexico, and many others routinely request it when a child travels with only one parent. Without one you risk delays or denied entry. The letter should include the child's details, both parents' contact information, travel dates, destinations, and the absent parent's signature.
+A child travel consent letter is a signed document from the absent parent giving permission for the child to travel. Some countries, including South Africa, set extra requirements for children travelling with one parent, and Canadian authorities recommend a signed consent letter. Without one you may face extra questions or delays. The letter should include the child's details, both parents' contact information, travel dates, destinations, and the absent parent's signature.
 
 ### What documents should I keep accessible at the airport and not in checked luggage?
 

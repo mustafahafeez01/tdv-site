@@ -10,11 +10,11 @@ Source: https://traveldocumentvault.com/blog/child-first-passport-application/
 
 ## Key Takeaways
 
-- **Consent to apply is different from consent to travel.** Your child needs written permission from all parents or guardians before the application can go in.
+- **Consent to apply is different from consent to travel.** Rules differ by country: in the UK, for example, someone with parental responsibility signs the form and you give both parents' details, while other countries ask for both parents to consent. Check your own passport office.
 - **Most applications ask for three types of evidence:** proof of identity (birth certificate), proof of parents' identity, and proof of parental relationship.
 - **Baby passport photos have specific rules.** Most authorities want eyes open and looking at the camera (GOV.UK relaxes this for under-1s and under-6s), with no dummies, toys, or other hands visible - and the background behind the child's head must be plain and clear.
-- **Check everything the moment it arrives.** Spelling, parent names where they appear, expiry date - especially since child passports expire faster than adult ones.
-- **One parent cannot sign alone unless there is a court order, sole legal guardianship, or the other parent is deceased.** If this is your situation, your passport office has a specific process to follow.
+- **Check everything the moment it arrives.** Spelling, parent names where they appear, expiry date - especially since child passports often expire sooner than adult ones (a UK child passport is valid for 5 years).
+- **In countries that ask for both parents' consent, one parent generally cannot sign alone unless there is a court order, sole legal guardianship, or the other parent is deceased.** If this is your situation, your passport office has a specific process to follow.
 
 Your child's first passport is something you only do once, which means you get to learn the rules before it happens rather than discovering them at the counter. The application itself is straightforward, but consent rules and photo requirements vary by country, and a small mistake at the start means a rejected application and a delayed trip.
 
@@ -28,7 +28,7 @@ This article covers the application consent. The distinction matters because you
 
 ## By Default, Everyone With Parental Responsibility Must Agree
 
-The default rule is that all adults with parental responsibility for the child must consent to the passport application. For most families this means both married parents; for unmarried couples, it means both partners if both are listed on the birth certificate as parents. Anyone with a court order or sole legal guardianship falls under different rules, and your passport office will explain the specific process when you ask.
+Who must consent depends on the country. In the UK, one person with parental responsibility signs the application and you give both parents' details; some other countries generally expect both parents to sign. Whether an unmarried parent has parental responsibility also differs by country, so your passport office is the place to confirm. Anyone with a court order or sole legal guardianship falls under different rules, and your passport office will explain the specific process when you ask.
 
 These exceptions are real and worth knowing. A deceased parent cannot sign, and a parent who has lost parental responsibility through a court order may not have the right to consent either. Restraining orders and custody restrictions can also exclude a parent by law. Each of these situations has its own application process and its own evidence requirements, so there is no single answer that covers all of them.
 
@@ -54,9 +54,9 @@ This is where many first-time applications fail. A baby or small child cannot fo
 
 **The core rules are the same:** the child's eyes should generally be open and looking at the camera, with a plain background behind their head and nothing else in frame. Some authorities relax the eye rules for the youngest children: GOV.UK doesn't require open eyes under one, or a direct look at the camera under 6. What changes is how you make that happen.
 
-**For a newborn or baby under 6 months:** photograph them lying down on a plain white or pale sheet or blanket. The sheet becomes the background. The child's head fills the upper third of the frame. Position yourself directly above so the baby is looking straight up at the camera, eyes open, but if the baby is sleepy, wait for a moment when they are alert. No toys, no dummies, no hands, no other person visible in the frame except the baby's own head and shoulders.
+**For a newborn or baby under one:** photograph them lying down on a plain white or pale sheet or blanket. The sheet becomes the background. Position yourself directly above so the baby is looking straight up at the camera, eyes open, but if the baby is sleepy, wait for a moment when they are alert. No toys, no dummies, no hands, no other person visible in the frame except the baby's own head and shoulders.
 
-**For a baby 6 months to 2 years:** you can seat them on an adult's lap, but the adult's body and hands must not appear in the photo at all. The baby's head fills the frame, with the plain background behind the baby only and nothing else visible. A white wall works, and so does a plain sheet hung behind them. Angle the shot so the baby's eyes are looking toward the camera, but because babies this age move constantly, you will probably take 20 photos to get one where the eyes are open and looking in the right direction.
+**For a child aged one to two:** you can seat them on an adult's lap, but the adult's body and hands must not appear in the photo at all. The baby is on their own in the picture, with the plain background behind them and nothing else visible. A white wall works, and so does a plain sheet hung behind them. Angle the shot so the baby's eyes are looking toward the camera, but because babies this age move constantly, you will probably take 20 photos to get one where the eyes are open and looking in the right direction.
 
 **For toddlers 2 years and older:** seat them in front of the plain background on a chair or standing if they can stand. The eyes should be looking straight at the camera, which is harder than it sounds because toddlers do not take instructions. Sing a song, make a funny noise, or ask them to look at a point just above the camera lens. You want them to be looking up slightly, which reads better in photos anyway. Again, take many shots - you only need one where they are looking at the camera with both eyes clearly open.
 
@@ -78,7 +78,7 @@ This is a legal requirement that exists to protect the child, not a negotiation.
 
 **If the other parent is missing or refuses:** you need a court order. This might be an existing custody order, a guardianship order, or a specific court ruling that you have sole parental responsibility. Some countries allow you to apply to the court for permission to issue the passport without the other parent's consent if you can show that the child would be harmed by delay or that the other parent is unfit to be consulted. This varies by country and by local court practice - ask your passport office or a family lawyer what the process is where you are.
 
-**Where the other parent has died:** you need the death certificate, and your passport office should not need anything else beyond that to process the application.
+**Where the other parent has died:** expect to show the death certificate. Your passport office will confirm whether it needs anything else.
 
 **Where there's a restraining order or a custody restriction:** bring the court order with you. It shows the office exactly what permissions and restrictions are in place.
 
@@ -86,19 +86,19 @@ This is a legal requirement that exists to protect the child, not a negotiation.
 
 Once the passport is issued and delivered to you, spend five minutes checking it before you file it away. You are looking for three things that are easy to fix now and a nightmare to fix at the airport.
 
-**Check that your child's name is spelled exactly as it appears** on the birth certificate or the identity document you used to apply. If it is wrong, the passport office can usually issue a replacement at no cost. If you do not notice until you are at the airport, the airline may refuse to board because the name on the ticket will not match the passport.
+**Check that your child's name is spelled exactly as it appears** on the birth certificate or the identity document you used to apply. If it is wrong, the passport office will generally replace it free if the mistake was theirs, and you may pay a fee if it came from the application you submitted. If you do not notice until you are at the airport, the airline may refuse to board because the name on the ticket will not match the passport.
 
 **Look at the parent names where they appear.** Some countries print the names of the parents or guardians on the inside of a child's passport. If these names are misspelled or wrong, contact the office to have it corrected.
 
-**Then check the expiry date.** This is critical for children because [child passports expire much sooner than adult passports](https://traveldocumentvault.com/blog/family-passport-management/). When you book travel, you need to know exactly when this document stops being valid. Write it down and set a reminder the day the passport arrives, not whenever a trip happens to come up; that's the one habit we'd always recommend to parents. Child passports expiring unexpectedly is one of the most common reasons families have to cancel or reschedule trips.
+**Then check the expiry date.** This is critical for children because [child passports often expire sooner than adult passports](https://traveldocumentvault.com/blog/family-passport-management/). When you book travel, you need to know exactly when this document stops being valid. Write it down and set a reminder the day the passport arrives, not whenever a trip happens to come up; that's the one habit we'd always recommend to parents. A child's passport expiring unnoticed is an easy way to lose a trip.
 
-If anything is wrong, contact your passport office within days. Corrections are usually free when reported quickly, and the longer you leave it, the more complicated the process becomes. Once everything checks out, put the passport straight into your documents folder with a note of the expiry date, so renewal doesn't catch you by surprise.
+If anything is wrong, contact your passport office as soon as you spot it. Whether a correction is free depends on who made the error, and it gets harder to sort out the longer you leave it. Once everything checks out, put the passport straight into your documents folder with a note of the expiry date, so renewal doesn't catch you by surprise.
 
 ## Frequently Asked Questions
 
 ### Who must consent to a child's passport application?
 
-Generally, all adults with parental responsibility for the child must consent. This includes married couples, unmarried couples listed on the birth certificate, and anyone with legal guardianship. Sole parental responsibility, a deceased parent, and court orders create exceptions - the issuing authority decides whether to proceed without both parents' signatures.
+This depends on the country: someone with parental responsibility generally has to sign, and some offices also ask for every parent's consent. This includes married couples, unmarried couples listed on the birth certificate, and anyone with legal guardianship. Sole parental responsibility, a deceased parent, and court orders create exceptions - the issuing authority decides whether to proceed without both parents' signatures.
 
 ### What documents do I need for a child's first passport application?
 
@@ -106,7 +106,7 @@ At minimum: proof of the child's identity (birth certificate), proof of the pare
 
 ### What makes a passport photo of a baby different?
 
-Many authorities want a baby's eyes open and looking at the camera, with no dummies, toys, or other people's hands visible. Some relax the eye rules for young children: GOV.UK, for example, says a child under one doesn't need their eyes open and a child under 6 doesn't need to look directly at the camera. The plain background should be clearly visible behind the child's head. Because babies cannot sit up or sit still, you can photograph them lying down on a plain background - the rule is that the head must fill the frame, only the child appears in shot, and the background behind it must be clear and unobstructed.
+Many authorities want a baby's eyes open and looking at the camera, with no dummies, toys, or other people's hands visible. Some relax the eye rules for young children: GOV.UK, for example, says a child under one doesn't need their eyes open and a child under 6 doesn't need to look directly at the camera. The plain background should be clearly visible behind the child's head. Because babies cannot sit up or sit still, you can photograph them lying down on a plain background - the child must be on their own in the picture, and the background behind them must be plain and light-coloured.
 
 ### How long is a child's passport valid?
 

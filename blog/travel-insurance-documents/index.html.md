@@ -12,8 +12,8 @@ Source: https://traveldocumentvault.com/blog/travel-insurance-documents/
 
 - **Save your full policy document, policy number, and the 24-hour emergency contact line** (not the sales number).
 - Store copies offline and accessibly - email alone won't help when you're stranded or at a hospital.
-- **Pre-authorisation for medical treatment is required by most policies**; skipping it may reduce or void your claim.
-- Claims rejected most often due to missing documentation: police report for theft, original receipts, signed claim forms.
+- **Many policies ask you to contact the insurer before medical treatment**; skipping it may reduce or void your claim.
+- A common reason claims fail is missing documentation: police report for theft, original receipts, signed claim forms.
 - Read your policy's key sections quickly by focusing on coverage limits, exclusions, and conditions.
 
 Travel insurance matters most at the moment it is hardest to reach: a hospital desk abroad, a police station, an airline counter after a cancellation. What counts then is not the policy itself but whether the number, the insurer's 24-hour line and the proof of cover are within reach. This article covers what to save before departure, where to keep it so it opens without internet, and the claims errors that most often sink a payout.
@@ -34,7 +34,7 @@ Your policy documents sit with whoever sold you the cover, so start there. Searc
 - **The schedule or certificate:** your name, policy number, travel dates and level of cover
 - **The 24-hour emergency assistance number**, the one to ring from a hospital or police station abroad
 
-If you don't remember buying a policy at all, check your bank account. The Financial Ombudsman Service describes a packaged bank account as a current account that charges a monthly fee in exchange for extra benefits, travel insurance among them. In that case the bank, not a travel insurer, holds your documents, so its app, website or helpline is where to look.
+If you don't remember buying a policy at all, check your bank account. The Financial Ombudsman Service describes a packaged bank account as a current account that charges a monthly fee in exchange for extra benefits, travel insurance among them. In that case the bank is usually the first place to ask, so try its app, website or helpline.
 
 Once you have them, the UK Foreign, Commonwealth and Development Office advises taking your policy details with you, including the policy number and your insurer's emergency assistance number. It also suggests sharing them with the people you're travelling with and family at home. If you still can't find anything, call the insurer, or the bank for packaged cover, and ask them to send the documents again before you fly rather than after something goes wrong.
 
@@ -48,7 +48,7 @@ Your travel insurance policy is typically a PDF. That one file contains everythi
 - What is covered section (coverage limits for medical, baggage, cancellation, etc.)
 - Key exclusions and conditions (including pre-authorisation requirements)
 
-The policy number is critical. Many insurers' phone systems require it before routing you to a live person. If you cannot provide it, you will waste time hunting through documents while the clock ticks.
+The policy number is critical. Have your policy number ready, as the insurer will usually ask for it first. If you cannot provide it, you will waste time hunting through documents while the clock ticks.
 
 The emergency line is different from the customer service line, which typically only answers during business hours, while the emergency line runs 24/7. Save both, but know which one to call in the middle of the night when you're injured.
 
@@ -92,7 +92,7 @@ Even if you have your documents accessible, you can still lose your claim if you
 
 ### Medical Claims: You Did Not Get Pre-Authorisation
 
-Most travel insurance policies require pre-authorisation before treatment. This means calling your insurer and getting approval before you visit a hospital or clinic. Requirements vary by insurer and policy type - check your specific policy's medical treatment section. If you skip this step and pay out-of-pocket, you will often get rejected with "treatment was not pre-authorised." Many insurers will not reimburse without pre-authorisation, even if the treatment was necessary and covered.
+Many travel insurance policies ask you to contact the insurer before treatment, so check your policy wording. This usually means calling your insurer and getting approval before you visit a hospital or clinic. Requirements vary by insurer and policy type - check your specific policy's medical treatment section. If you skip this step and pay out-of-pocket, some insurers may reduce or decline the claim, even if the treatment was necessary and covered.
 
 Say you're hospitalised with appendicitis in Mumbai. The hospital needs payment upfront or a guarantee from your insurer, and you've got a two-hour window before surgery. Without your insurer's pre-authorisation number, the hospital demands cash. That leaves two bad options: pay now and risk a rejected claim months later, or delay surgery while you chase your insurer. One call avoids all of it. With a confirmation number in hand, the hospital bills your insurer directly.
 
@@ -100,7 +100,7 @@ Action: Before any treatment, call the emergency line on your policy and give th
 
 ### Baggage Claims: You Have No Police Report
 
-If your bag is stolen, lost, or damaged, most policies require a police report from the airport or local station. Insurers use this as proof. Check your policy's "How to Make a Claim" section for exact requirements, as these vary by insurer. If you skip reporting to police and only file with the airport, many insurers reject claims because there is no official crime report. For theft or loss (not simple damage), a police report is typically mandatory.
+If your bag is stolen, lost, or damaged, many policies ask for a police report from the airport or local station. Insurers use this as proof. Check your policy's "How to Make a Claim" section for exact requirements, as these vary by insurer. If you skip reporting to police and only file with the airport, some insurers may decline claims because there is no official crime report. For theft or loss (not simple damage), many policies ask for a police report, so check yours.
 
 Action: If your bag goes missing, report it to the airport lost and found desk. If it's theft, file a police report the same day, and get a copy to send with your claim.
 
@@ -112,7 +112,7 @@ Keep every receipt, physical originals and digital copies both. Photograph the p
 
 ### Cancellation Claims: You Did Not Read the Fine Print
 
-Travel insurance covers trip cancellation only if you cancel for a specific covered reason, which varies by insurer. That typically means illness, injury, or the death of a family member. It rarely means cold feet, a change of mind, or bad weather, unless the weather grounds your transport. If you cancel because the flight price dropped, most policies will not cover you. How generous your insurer is about this varies a lot, so it's worth reading the "trip cancellation" section closely before you assume you're covered.
+Travel insurance covers trip cancellation only if you cancel for a specific covered reason, which varies by insurer. That typically means illness, injury, or the death of a family member, but check your policy for the list. It rarely means cold feet, a change of mind, or bad weather, unless the weather grounds your transport. If you cancel because the flight price dropped, most policies will not cover you. How generous your insurer is about this varies a lot, so it's worth reading the "trip cancellation" section closely before you assume you're covered.
 
 Action: Before cancelling, check your policy's coverage details. If you think your reason qualifies, call your insurer before cancelling your flight. Get written confirmation of coverage from them before proceeding.
 
@@ -150,15 +150,15 @@ Twenty minutes now, and you won't be searching for any of it in a crisis.
 
 ### Do I need to carry my physical insurance policy when I travel?
 
-No, you don't need the physical document in paper form. A digital copy on your phone or a photo is sufficient. Most insurers and hospitals accept a digital copy or just your policy number. However, a physical backup (photocopy or printout) is wise in case your phone dies. Even simpler: write your policy number and emergency line on a card with your passport.
+No, you don't need the physical document in paper form. A digital copy on your phone or a photo is sufficient. Insurers and hospitals generally ask for your policy number, and a digital copy usually helps. However, a physical backup (photocopy or printout) is wise in case your phone dies. Even simpler: write your policy number and emergency line on a card with your passport.
 
 ### What should I do if I cannot reach my insurance company's emergency line abroad?
 
-Travel insurance emergency lines typically accept international calls globally. Check your policy for an alternative number for calls from outside the insurer's home country. If you can't reach them, proceed with treatment and save every receipt and piece of paperwork. Call them as soon as you can, and check your policy for its claim deadline. Be aware that proceeding without pre-authorisation may reduce your claim or cause denial, so always try to reach them first.
+Check your policy for a number that works from abroad, as freephone numbers often don't. Many policies list an alternative number for calls from outside the insurer's home country. If you can't reach them, proceed with treatment and save every receipt and piece of paperwork. Call them as soon as you can, and check your policy for its claim deadline. Be aware that proceeding without pre-authorisation may reduce your claim or cause denial, so always try to reach them first.
 
 ### What should I do if I lose my insurance policy while travelling?
 
-If you have your policy number and can call your insurer's emergency line, that's all you need. Provide your policy number and personal details by phone and they'll confirm your coverage. If you've stored backups (digital photos, cloud copies, or written notes), use those. Most insurers keep records and can resend your policy immediately.
+If you have your policy number and can call your insurer's emergency line, that's all you need. Provide your policy number and personal details by phone and they'll confirm your coverage. If you've stored backups (digital photos, cloud copies, or written notes), use those. Insurers can generally confirm your cover from your policy number and resend the documents.
 
 ### What sections of a travel insurance policy do I actually need to read?
 
@@ -166,7 +166,7 @@ Focus on: coverage summary or schedule (your payout limits), exclusions (what's 
 
 ### Does travel insurance work in every country I travel to?
 
-Travel insurance protects you in most countries worldwide during your trip, but some policies exclude certain destinations, regions, or activities. Check your policy's geographic coverage section for any exclusions. As long as your destination isn't explicitly listed as excluded, your policy covers you there regardless of which country issued the policy. High-risk activities (mountaineering, professional sports) may have separate exclusions.
+Travel insurance protects you in most countries worldwide during your trip, but some policies exclude certain destinations, regions, or activities. Check your policy's geographic coverage section for any exclusions. Cover varies by policy, so check the geographic cover section for destinations it excludes. High-risk activities (mountaineering, professional sports) may have separate exclusions.
 
 ## Related Articles
 

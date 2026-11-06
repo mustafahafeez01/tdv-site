@@ -10,9 +10,9 @@ Source: https://traveldocumentvault.com/blog/how-long-is-passport-valid-for-trav
 
 ## Key Takeaways
 
-- **Most adult passports are valid for 10 years** from the date of issue. Child passports typically expire after 5 years.
-- Your passport doesn't have to be expired to get you turned away. **Airlines can and do refuse boarding** when your remaining validity falls short of a destination's 6-month requirement.
-- Popular destinations including Thailand, Turkey, Vietnam, and Indonesia generally require **at least 6 months of validity on the day you arrive** - and some countries count from your departure date, so check each destination.
+- **Many adult passports are valid for up to 10 years** from the date of issue. Child passports typically expire after 5 years.
+- Your passport doesn't have to be expired to get you turned away. **You can be refused boarding or entry** when your remaining validity falls short of a destination's requirement.
+- Popular destinations including Thailand, Vietnam, and Indonesia generally require **at least 6 months of validity on the day you arrive** for British passport holders - and Schengen countries count from the day you plan to leave, so check each destination.
 - Children's passports expire faster than parents', so **check every passport in your group individually** before booking, not just your own.
 - The practical renewal threshold is **12 months of validity remaining**, not the expiry date itself.
 
@@ -22,7 +22,7 @@ It is one of the most commonly misunderstood rules in travel, because a passport
 
 ## Adult Passports Last Far Longer Than Children's
 
-The standard validity period for an adult passport is 10 years from the date of issue in most countries. Child passports expire sooner, typically 5 years, because a child's appearance changes significantly during that time. We'd check a child's passport before anyone else's, since it is the one everyone assumes is fine.
+The standard validity period for an adult passport is 10 years from the date of issue in most countries. Child passports expire sooner, typically 5 years. We'd check a child's passport before anyone else's, since it is the one everyone assumes is fine.
 
 | Country | Adult validity | Child validity |
 |---|---|---|
@@ -41,11 +41,11 @@ Your exact expiry date is printed on the data page next to your photo. That date
 
 A passport can be technically valid, not expired, and still get you denied boarding. There are two main reasons this happens.
 
-**The 6-month rule** is the one that catches most people out: many popular destinations require your passport to be valid for at least 6 months on the day you enter the country, and a few count from your planned departure instead. So if your passport expires in October and you land in Istanbul in April, you are fine. If you arrive in June, you may not be, and the airline will refuse to board you before you even reach immigration.
+**The 6-month rule** is the one that catches most people out: many popular destinations require your passport to be valid for at least 6 months on the day you enter the country, and some, such as Schengen countries, count from your planned departure instead. So if your passport expires in October and you land in Thailand in April, you are fine. If you arrive in June, you may not be, and you could be refused boarding before you even reach immigration.
 
-Enforcement of the 6-month rule also varies by nationality. A single country might apply it to some passport holders and waive it for others under bilateral agreements. The only reliable way to check is to look up the specific requirement for your passport and destination using the IATA Travel Centre, the same database airlines use at the desk.
+Requirements can differ by nationality. A single country might apply a rule to some passport holders and not others. Your airline and the destination's official entry page will confirm the requirement for your passport.
 
-We cover [which countries enforce the 6-month rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/) in detail, including a country-by-country table. The short version: assume it applies to any destination outside Europe, North America, or Australia unless you have checked.
+We cover [which countries enforce the 6-month rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/) in detail, including a country-by-country table. The short version: rules vary by country, so check your destination's own requirement.
 
 **Blank pages** are a quieter trap. Some countries require several, and if you travel frequently with a passport that is several years old, it may run out of usable pages before the expiry date. Check page count as well as validity when travelling to destinations that issue visa stamps.
 
@@ -53,15 +53,15 @@ We cover [which countries enforce the 6-month rule](https://traveldocumentvault.
 
 It depends entirely on where you are going.
 
-For destinations that do not enforce the 6-month rule, such as most of Europe for EU and UK citizens and the US for American citizens returning home, your passport just needs to be valid on the day you travel. One day of validity remaining is technically sufficient.
+Destinations that do not use the 6-month rule have their own requirements. Schengen countries ask for a passport issued within the last 10 years and valid for at least 3 months after you plan to leave. A US citizen returning home generally just needs a valid passport.
 
-For destinations with a 6-month requirement, count 6 months from the day you arrive. If you land in Thailand on 20 July, your passport must be valid until at least 20 January the following year, and counting from your return date instead gives you an extra safety margin for countries that measure differently. Everything else just needs checking before you book, since IATA keeps that detail current for every nationality and destination.
+For destinations with a 6-month requirement, count 6 months from the day you arrive. If you land in Thailand on 20 July, your passport must be valid until at least 20 January the following year, and counting from your return date instead gives you an extra safety margin for countries that measure differently. Everything else needs checking before you book, and your airline or the destination's official entry page will confirm it.
 
 ## Child Passports Expire Faster, and Families Forget to Check
 
 This is where families get caught out every summer: adult passports run for 10 years, child passports for only 5, and that gap creates a specific problem.
 
-A 3-year-old who got their first passport in 2023 has a document that expires in 2028. By the time they are 7 and the family books a trip to Turkey, that passport may have only a few months of validity left, well short of the 6-month requirement. Both parents could be sitting on 4 years of validity each and never think to check the child's document.
+A 3-year-old who got their first passport in 2023 has a document that expires in 2028. By the time they are 7 and the family books a trip to Thailand, that passport may have only a few months of validity left, well short of the 6-month requirement. Both parents could be sitting on 4 years of validity each and never think to check the child's document.
 
 **Before booking any international trip, check every passport in the group individually**, since one short passport can block a whole family from boarding.
 
@@ -89,7 +89,7 @@ UK adult passports are valid for 10 years from the date of issue. Child passport
 
 ### Can I travel with 6 months left on my passport?
 
-To most European destinations, yes - your passport just needs to be valid for the duration of your stay. For destinations that enforce the 6-month rule, including Thailand, Turkey, Vietnam, and Indonesia, those 6 months are generally counted from the day you arrive - though some countries count from departure. Check the specific requirement for your destination and nationality before booking.
+For Schengen countries, a UK passport generally needs at least 3 months left after you plan to leave, so 6 months left is fine there. Destinations such as Thailand, Vietnam, and Indonesia generally require 6 months, usually counted from the day you arrive - though Schengen countries count from departure. Check the specific requirement for your destination and nationality before booking.
 
 ### When should I renew my passport?
 
@@ -97,7 +97,7 @@ Renew when you drop below 12 months of validity remaining. This gives you a buff
 
 ### Do child passports expire faster than adult passports?
 
-Yes. Child passports are valid for 5 years rather than 10, because a child's appearance changes significantly as they grow. Check each family member's passport individually before booking travel - do not assume all passports expire at the same time.
+Yes. A UK child passport is valid for 5 years rather than 10. Check each family member's passport individually before booking travel - do not assume all passports expire at the same time.
 
 ### What happens if my passport expires while I am abroad?
 

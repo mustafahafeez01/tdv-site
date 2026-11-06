@@ -26,9 +26,9 @@ Encryption scrambles a file so that only a matching key can turn it back into so
 
 Two setups both get sold as encrypted backup, and they behave very differently.
 
-One sends the file to the company's server over an encrypted connection, then stores it encrypted at rest. Both of those statements are true, and both sound reassuring. But the company still holds the key, so it can decrypt your documents whenever it needs to: to run a feature, to answer a legal request, or because someone inside it made a mistake. Your passport scan is readable at the other end.
+One sends the file to the company's server over an encrypted connection, then stores it encrypted at rest. Both of those statements are true, and both sound reassuring. But the company still holds the key, so it is technically able to decrypt your documents, whether for a feature, a legal request or an internal mistake. Your passport scan is readable at the other end.
 
-The other setup scrambles the file on your phone before it goes anywhere, using a key derived from something only you have. What arrives in storage is a block of noise, and nobody at the far end can read it, because nobody at the far end has the key. This is usually called end-to-end encrypted, or zero-knowledge.
+The other setup scrambles the file on your phone before it goes anywhere, using a key derived from something only you have. What arrives in storage is a block of noise, and nobody at the far end can read it, because nobody at the far end has the key. This is often described as end-to-end encrypted, or zero-knowledge.
 
 So the question worth asking of any app is short: **who holds the key?** Everything else about the marketing follows from the answer.
 
@@ -55,7 +55,7 @@ So treat the code as the one thing to get right:
 
 It depends completely on what reaches the cloud. That's a question about the app you're using, not about the cloud itself.
 
-A photo of your passport in an ordinary photo library or a synced folder arrives readable. It sits in an account protected by a password you may have reused. It gets indexed and thumbnailed, and anyone who gets into that account sees a clean copy of the identity page. We went through what that exposure actually looks like in [storing a passport in Google Photos](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/). That is a genuine risk, and it is the setup most families are running without ever having chosen it.
+A photo of your passport in an ordinary photo library or a synced folder arrives readable. It sits in an account protected by a password you may have reused. Depending on the service, it may be indexed or shown as a thumbnail, and anyone who gets into that account sees a clean copy of the identity page. We went through what that exposure actually looks like in [storing a passport in Google Photos](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/). That is a genuine risk, and it is the setup most families are running without ever having chosen it.
 
 A vault encrypted on the device before upload arrives as ciphertext. Someone who breaks into the cloud account finds a file they cannot open. The protection travels with the file rather than depending on the account it lands in.
 
@@ -82,7 +82,7 @@ Restore time depends on your vault size and connection.
 
 Install the app on the new phone and sign in to the same iCloud or Google account you used before. With Pro and cloud backup off on the receiving device, open Settings, Cloud Backup, then Restore from Backup. Choose the existing vault, enter your recovery code and confirm restoration, which replaces local vault content. Profiles, documents and expiry dates are restored; notifications are rebuilt on the receiving device.
 
-The app also checks before it writes. If cloud backup detects an existing backup in that account, it prompts you to choose between restoring and starting fresh. A new phone cannot quietly overwrite what's already there.
+The app also checks before it writes. If cloud backup finds an existing backup made with the same recovery code, the app asks whether to combine with it or start fresh, so a new phone cannot quietly overwrite what's already there. Starting fresh leaves the other backup in place.
 
 ### Moving Between iPhone and Android Means Exporting Your Vault
 

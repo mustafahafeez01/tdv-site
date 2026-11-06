@@ -10,18 +10,18 @@ Source: https://traveldocumentvault.com/blog/how-long-is-esta-valid/
 
 ## Key Takeaways
 
-- **An ESTA is valid for two years from approval, or until your passport expires**, whichever comes first.
+- **An ESTA is typically valid for two years from approval, or until your passport expires**, whichever comes first.
 - It only needs to be valid on the day you arrive in the US, and each visit is limited to 90 days or less.
 - It can't be extended, but you can reapply at any time. A new application replaces the old one.
 - A new passport, a new name, a new citizenship or a changed eligibility answer means applying again.
 - **Every traveller needs their own ESTA**, including children of any age and infants without a ticket.
 - The fee rose from US $40.27 to US $40.62 on 16 October 2026. An existing approved ESTA doesn't need reapplying.
 
-An ESTA lasts two years from the day it's approved, or until the passport it's linked to expires, whichever comes first. If you already hold one, the fee change on 16 October 2026 doesn't touch it, and you only pay the new amount when you next apply. The one thing we'd do today is look up the expiry date on every ESTA in the family, because each person's clock runs on its own.
+An ESTA typically lasts two years from the day it's approved, or until the passport it's linked to expires, whichever comes first. If you already hold one, the fee change on 16 October 2026 doesn't touch it, and you only pay the new amount when you next apply. The one thing we'd do today is look up the expiry date on every ESTA in the family, because each person's clock runs on its own.
 
 ## Your ESTA ends at two years or when your passport does
 
-US Customs and Border Protection (CBP) sets the rule: an approved ESTA is valid for two years from the date of authorisation, or until your passport expires, whichever is sooner. So a passport with 14 months left gives you an ESTA with 14 months left. The approval screen shows the exact expiry date, which saves you working it out.
+US Customs and Border Protection (CBP) sets the rule: an approved ESTA is typically valid for two years from the date of authorisation, or until your passport expires, whichever is sooner. So a passport with 14 months left gives you an ESTA with 14 months left. The approval screen shows the exact expiry date, which saves you working it out.
 
 ![Diagram of when an ESTA stops working: it ends after 2 years or when your passport expires, whichever comes first. Everyone needs their own, babies and children too, each on their own passport. A new passport, new name or new citizenship means applying again](https://traveldocumentvault.com/blog/how-long-is-esta-valid/esta-clock.jpg) One clock per traveller, and it never outlives the passport.
 

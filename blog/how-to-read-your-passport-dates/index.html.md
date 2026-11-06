@@ -36,7 +36,7 @@ If you take one thing from the page, take that asymmetry: the issue date describ
 
 Plenty of people search for what "date of expedition" means on a passport, and the answer is reassuringly dull: it means date of issue.
 
-The phrase comes out of Spanish and Portuguese. *Fecha de expedición* and *data de expedição* both translate literally into English as expedition date, and translated forms carry that wording across without anyone catching it. The same field appears as *date de délivrance* in French, *data di rilascio* in Italian, *Ausstellungsdatum* in German, *datum van afgifte* in Dutch and *utfärdandedatum* in Swedish.
+The phrase comes out of Spanish and Portuguese. *Fecha de expedición* and *data de expedição* both translate literally into English as expedition date, and translated forms carry that wording across without anyone catching it.
 
 All of them mean the same thing, and none of them mean expiry. If a form asks for an expedition date, it wants the earlier of your two dates.
 
@@ -60,7 +60,7 @@ The issue date stops being trivia the moment a country checks it directly. Passp
 
 British passports issued more recently no longer carry those extra months, but older booklets holding them are still in circulation and still in use.
 
-Schengen countries apply two separate tests to a non-EU passport at the border: it must have been issued less than ten years before the date you arrive, and it must stay valid for at least three months after you intend to leave. A booklet carrying nine extra months can satisfy the second test comfortably and fail the first, which is a difficult conversation to have at a desk in Madrid with a document that has not expired.
+Schengen countries generally apply two separate tests to a non-EU passport at the border: it must have been issued less than ten years before the date you arrive, and it must stay valid for at least three months after you intend to leave. A booklet carrying nine extra months can satisfy the second test comfortably and fail the first, which is a difficult conversation to have at a desk in Madrid with a document that has not expired.
 
 We’d check both dates before a European trip, not just the one at the bottom.
 
@@ -68,11 +68,11 @@ We’d check both dates before a European trip, not just the one at the bottom.
 
 Near the top of the data page sits a three-letter code for the issuing country. Further down, usually in its own field, sits the issuing authority: the office or department that actually produced the booklet.
 
-The country matters more than people expect. It decides whose consular network you turn to when a passport is lost or stolen.
+The country matters more than people expect. It generally decides whose consular network you turn to when a passport is lost or stolen.
 
 That is rarely the country you happen to be standing in.
 
-It also decides which entry rules apply to you, which is the whole reason dual nationals think carefully about which passport they present. If you want the practical version of that, we walk through it in [what to do when a passport goes missing abroad](https://traveldocumentvault.com/blog/lost-passport-abroad/).
+It also generally decides which entry rules apply to you, which is the whole reason dual nationals think carefully about which passport they present. If you want the practical version of that, we walk through it in [what to do when a passport goes missing abroad](https://traveldocumentvault.com/blog/lost-passport-abroad/).
 
 The authority field is mostly useful for forms. Some applications want it verbatim, some accept the country, and copying it exactly is faster than guessing.
 
@@ -88,7 +88,7 @@ None of that is dramatic on its own. It becomes dramatic when a boarding pass an
 
 The data page is the stiff laminated one carrying your photograph, and its layout is standardised internationally rather than invented by each country. That is why a passport from anywhere is legible to a border officer anywhere, and why once you can read one you can read all of them.
 
-The two lines of characters and chevrons across the bottom are the machine-readable zone. It restates some of the page above it in a form a scanner can take in one pass, though not all of it: the expiry date is in there, the issue date is not. Damage down there is treated far more seriously than a scuff on the cover. We cover where that line falls in [travelling with a damaged passport](https://traveldocumentvault.com/blog/damaged-passport-travel/).
+The two lines of characters and chevrons across the bottom are the machine-readable zone. It restates some of the page above it in a form a scanner can take in one pass, though not all of it: the expiry date is in there. Check your own passport for exactly what the zone repeats. Damage down there is treated far more seriously than a scuff on the cover. We cover where that line falls in [travelling with a damaged passport](https://traveldocumentvault.com/blog/damaged-passport-travel/).
 
 If the labels on your own data page are not in English, the geometry still helps: the two dates are printed together, in the same format, and the expiry date is the later of the two.
 
@@ -108,11 +108,11 @@ No. The date of issue is when the booklet was produced, and the date of expiry i
 
 ### What does issuing country mean on a passport?
 
-The issuing country is the state that granted the passport, shown as a three-letter code near the top of the data page. It decides whose embassy or consulate can help you if the passport is lost abroad, and which entry rules apply when you present it.
+The issuing country is the state that granted the passport, shown as a three-letter code near the top of the data page. It generally decides whose embassy or consulate can help you if the passport is lost abroad, and which entry rules typically apply when you present it.
 
 ### Does my passport number change when I renew?
 
-Yes. Each new booklet carries a new number. Anything recorded against the old number stays with the old number, including visas already issued, airline profiles and bookings made before the renewal, so those generally need updating separately.
+Generally, yes. A new booklet usually carries a new number. Anything recorded against the old number stays with the old number, including visas already issued, airline profiles and bookings made before the renewal, so those generally need updating separately.
 
 ### How do I know when my passport expires?
 

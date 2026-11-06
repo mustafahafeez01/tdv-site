@@ -50,19 +50,19 @@ The checks also cover different ground. An airline that accepts your onward tick
 
 ## If You Are Travelling on a One-Way Ticket on Purpose
 
-A one-way ticket isn't a problem in itself. Onward travel rules are generally written for visitors. If you're moving abroad on a visa that lets you live or work there, that visa in most cases does the job an onward ticket would. Have it to hand at check-in, along with any letter that came with it.
+A one-way ticket isn't a problem in itself. Onward travel rules are generally written for visitors. If you're moving abroad on a visa that lets you live or work there, that visa may cover the question, so check your destination's rules. Have it to hand at check-in, along with any letter that came with it.
 
 If you're visiting with an open-ended plan, the honest options are the simplest ones. Book the onward journey you actually expect to take. If your dates aren't fixed, a fare that lets you change the date keeps a real plan flexible without turning it into fiction.
 
-What we'd steer clear of is a ticket you never intend to use, bought only to show at the desk. Presenting that to a border officer as your plan can amount to misrepresenting your intentions, which is a far bigger problem than a missing booking.
+What we'd steer clear of is a ticket you never intend to use, bought only to show at the desk. Presenting that to a border officer as your plan could be read as misrepresenting your intentions, which would be a far bigger problem than a missing booking.
 
 ## If You Are Asked and Cannot Produce It
 
 If an agent asks and you have nothing to show, remember they're working from the destination's entry rules. The most useful response is usually to give them something those rules recognise.
 
-In practice that often means booking the onward journey there and then, on your phone or at the airline's desk. It can cost more at short notice, which is the main reason to sort it out the night before. If a travel agent booked your onward trip, their written confirmation may help where the destination accepts it.
+In practice that often means booking the onward journey there and then, on your phone or at the airline's desk. It can cost more at short notice, which is the main reason to sort it out the night before. If a travel agent booked your onward trip, check your destination's official guidance on whether their confirmation is accepted.
 
-The decision at the desk sits with the airline. If you can't resolve it there, you'd need to rebook once you have what the destination asks for.
+At the desk, the airline usually makes the call. If you can't resolve it there, you'd need to rebook once you have what the destination asks for.
 
 ## Keeping the Booking Reachable When You Need It
 
@@ -74,7 +74,7 @@ Keep an offline copy of the confirmation: a PDF, a screenshot showing the bookin
 
 ### What proof of onward travel does an airline actually accept?
 
-Most commonly, a confirmed ticket out of your destination, either home or to a third country you can enter. Some destinations also accept other evidence, such as written confirmation from a travel agency that onward travel is booked and paid for. The airline applies the destination's rules, so check those for your trip.
+Most commonly, a confirmed ticket out of your destination, either home or to a third country you can enter. Some destinations also accept other evidence, so check your destination's official guidance. The airline applies the destination's rules, so check those for your trip.
 
 ### Can I use a hotel reservation as proof of onward travel?
 
@@ -82,11 +82,11 @@ A hotel booking usually doesn't work on its own. It shows where you'll stay, whi
 
 ### What if I do not have proof of onward travel?
 
-If you're asked at check-in and have nothing to show, the usual fix is to book the onward journey there and then. That can cost more at short notice. The decision to board you sits with the airline, so it's worth sorting out before you reach the airport.
+If you're asked at check-in and have nothing to show, the usual fix is to book the onward journey there and then. That can cost more at short notice. The airline usually makes the call on boarding you, so it's worth sorting out before you reach the airport.
 
 ### Is a one-way ticket a problem?
 
-A one-way ticket isn't a problem by itself, because onward travel rules are generally aimed at visitors. If you're moving on a visa that lets you live or work in the country, that visa usually covers the question. If you're visiting, a booked onward journey you intend to take is the simplest answer.
+A one-way ticket isn't a problem by itself, because onward travel rules are generally aimed at visitors. If you're moving on a visa that lets you live or work in the country, that visa may cover the question, so check your destination's rules. If you're visiting, a booked onward journey you intend to take is the simplest answer.
 
 ### Do I need proof of onward travel for the border?
 

@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/blog/safest-way-to-store-passport-digita
 ## Key Takeaways
 
 - **iCloud Photos (with Advanced Data Protection)** offers end-to-end encryption but still links your passport copies to your Apple ID account.
-- **Google Photos** is not end-to-end encrypted by default and indexes your content, making it less suitable for sensitive identity documents.
+- **Google Photos** isn't described by Google as end-to-end encrypted and indexes your content, making it less suitable for sensitive identity documents.
 - **Dedicated encrypted apps** store passport data on-device with AES-256 encryption, require no account or cloud upload, and work offline. This is the most secure option.
 - Each approach involves trade-offs between convenience and security that you should understand before choosing.
 - The safest method depends on your personal risk tolerance, but a digital copy of your passport deserves the same care as the original.
@@ -26,7 +26,7 @@ iCloud Photos automatically syncs your photos across your iPhone, iPad, and Mac,
 
 ### It Syncs Automatically, but End-to-End Encryption Is Opt-In
 
-Photos you take upload to iCloud and encrypt with a key derived from your Apple ID. If you enable Advanced Data Protection (Apple's optional end-to-end encryption layer), your photos are encrypted on Apple's servers using keys only you hold. Even Apple cannot decrypt them.
+Photos you take upload to iCloud and are encrypted in transit and on Apple's servers, with Apple holding the keys. If you enable Advanced Data Protection (Apple's optional end-to-end encryption layer), your photos are encrypted on Apple's servers using keys only you hold. Even Apple cannot decrypt them.
 
 ### What's Protected, and What Still Depends on Apple
 
@@ -39,7 +39,7 @@ Photos you take upload to iCloud and encrypt with a key derived from your Apple 
 
 For convenience, iCloud Photos shines: your passport copy automatically syncs across all your Apple devices and persists if you lose your phone. Enabling Advanced Data Protection adds end-to-end encryption that even Apple cannot bypass, which significantly improves security compared to standard iCloud storage.
 
-However, your passport copy becomes linked to your Apple ID account, creating a potential single point of failure that extends across all your iCloud data. If someone compromises your Apple ID through a weak password, credential reuse, or social engineering, they gain access to everything in your iCloud account, including your passport scans. You're also trusting Apple's operational security, which means any breach of their systems would expose your data on their servers, though Apple generally has a strong security record.
+However, your passport copy becomes linked to your Apple ID account, creating a potential single point of failure that extends across all your iCloud data. If someone compromises your Apple ID through a weak password, credential reuse, or social engineering, they may gain access to much of your iCloud account, and without Advanced Data Protection that includes your passport scans. You're also trusting Apple's operational security: without Advanced Data Protection, Apple holds the keys to your photos on its servers, so a breach of those systems could in principle expose them. With it on, the keys stay on your devices.
 
 ## Option 2: Google Photos
 
@@ -49,9 +49,9 @@ Google Photos is Google's equivalent service, offering automatic backup and orga
 
 Photos upload to Google's servers and are encrypted in transit. Google processes the photos for features like Search, Lens, and recommendations, which requires analysing image content.
 
-### No End-to-End Encryption by Default
+### Not Described as End-to-End Encrypted
 
-- **End-to-end encrypted by default:** No. Google Photos uses encryption in transit but not end-to-end. Google can decrypt and view your photos.
+- **End-to-end encrypted:** Not described by Google. Google describes encryption in transit and at rest, and doesn't describe Photos as end-to-end encrypted. Google's systems can process your photos.
 - **Content scanning:** Google indexes and analyses photo content for features and recommendations.
 - **Requires account:** Yes, your Google account.
 - **Cloud upload:** Yes, automatic.
@@ -59,11 +59,11 @@ Photos upload to Google's servers and are encrypted in transit. Google processes
 
 ### Strong Integration, Weaker Protection for Sensitive Documents
 
-Google Photos offers deep integration with Android, free storage options, and powerful search capabilities, which is appealing for convenience. But the security disadvantages for sensitive documents are more significant: Google Photos does not use end-to-end encryption by default, meaning Google can technically access your photos, and your passport scans are processed by Google's content analysis systems. Google has also experienced security incidents in the past, and identity documents need especially careful protection, so Google Photos ends up a lower-security choice than alternatives when safeguarding sensitive data is your priority.
+Google Photos offers deep integration with Android, a free allowance shared across your Google account, and powerful search capabilities, which is appealing for convenience. But the security disadvantages for sensitive documents are more significant: Google doesn't describe Photos as end-to-end encrypted, so its systems can process your photos, and your passport scans are processed by Google's content analysis systems. Identity documents need especially careful protection, so Google Photos ends up a lower-security choice than alternatives when safeguarding sensitive data is your priority.
 
 What this means in practice
 
-If your Google account is compromised, someone with access can retrieve your passport scans from your photo library. Because Google indexes these photos for search, the images are processed by automated systems and stored in multiple locations across Google's infrastructure, increasing the surface area for exposure.
+If your Google account is compromised, someone with access can retrieve your passport scans from your photo library. Because Google indexes these photos for search, the images are processed by automated systems and so are only as safe as the account that holds them.
 
 ## Option 3: Dedicated Encrypted Apps
 
@@ -124,11 +124,11 @@ Whatever method you choose, remember that a digital copy of your passport is as 
 
 ### Is iCloud Photos secure for storing passport copies?
 
-iCloud Photos with Advanced Data Protection enables end-to-end encryption, which is more secure than standard iCloud storage. However, your passport scans are still encrypted and stored on Apple's servers, creating a shared breach surface with your Apple ID. If your Apple ID is compromised, an attacker gains access to everything in your iCloud account. For identity documents, this represents additional risk compared to keeping them only on your device.
+iCloud Photos with Advanced Data Protection enables end-to-end encryption, which is more secure than standard iCloud storage. However, your passport scans are still encrypted and stored on Apple's servers, creating a shared breach surface with your Apple ID. If your Apple ID is compromised, an attacker may gain access to much of your iCloud account, and without Advanced Data Protection that includes your passport scans. For identity documents, this represents additional risk compared to keeping them only on your device.
 
 ### Why is Google Photos not recommended for passport storage?
 
-Google Photos is not end-to-end encrypted by default. Google indexes and scans the content of photos for features like search and organisation, meaning your passport images are processed by Google's systems. Historically, Google has also experienced security incidents. For sensitive identity documents, this combination of default lack of E2E encryption and content scanning makes Google Photos a lower-security choice than alternatives.
+Google doesn't describe Photos as end-to-end encrypted. Google indexes and scans the content of photos for features like search and organisation, meaning your passport images are processed by Google's systems. For sensitive identity documents, this combination of no described E2E encryption and content scanning makes Google Photos a lower-security choice than alternatives.
 
 ### What are the advantages of a dedicated encrypted app for passport storage?
 
@@ -140,7 +140,7 @@ Yes. Many people keep a scanned copy in iCloud or Google Photos for everyday acc
 
 ### Which storage method is best for a family with multiple travellers?
 
-For families, a dedicated encrypted app that stores documents for multiple people under one account, without uploading to the cloud, typically offers the best balance of security and convenience. This lets one parent or guardian manage all family members' passport documents without requiring each person to have a separate app or cloud account, while keeping sensitive documents off external servers.
+For families, a dedicated encrypted app that stores documents for multiple people in one app with no account, without uploading to the cloud, typically offers the best balance of security and convenience. This lets one parent or guardian manage all family members' passport documents without requiring each person to have a separate app or cloud account, while keeping sensitive documents off external servers.
 
 ## Related Articles
 

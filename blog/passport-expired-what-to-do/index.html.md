@@ -11,9 +11,9 @@ Source: https://traveldocumentvault.com/blog/passport-expired-what-to-do/
 ## Key Takeaways
 
 - There are two distinct scenarios: discovering your passport is expired **at home before a trip**, and discovering it **at the airport**. The steps are different for each.
-- You cannot fly internationally on an expired passport. No exceptions.
-- In the UK, an expedited Premium passport service exists for genuine emergencies - bookable at gov.uk. In the US, emergency appointments are available through the State Department for urgent travel.
-- At the airport, contact your airline first - some will reschedule without fees for genuine document emergencies.
+- You generally cannot fly internationally on an expired passport.
+- In the UK, an expedited Premium passport service exists for genuine emergencies - bookable at gov.uk. In the US, check travel.state.gov for urgent travel options.
+- At the airport, contact your airline first - ask whether they can rebook you without a change fee.
 - The fix going forward is a 12-month expiry reminder, not a 6-month one. That gives you enough time to renew on standard processing.
 - Expiry is not the only passport problem that gets travellers turned away. Damage, name mismatches, missing signatures, and insufficient remaining validity at your destination all cause the same result.
 
@@ -30,9 +30,9 @@ How urgently you need to act determines what to do:
 - **Plenty of time before travel:** apply for standard renewal online through your passport authority's website - GOV.UK for the UK, travel.state.gov for the US.
 - **Trip coming up sooner:** apply immediately and pay for expedited processing. Both the UK and the US offer a faster paid service online, and each publishes its current turnaround.
 - **Trip getting close:** call your passport authority directly rather than relying on the website alone - the HM Passport Office adviceline in the UK, or the US National Passport Information Center in the US.
-- **Trip is imminent:** ask about an emergency appointment and bring proof of your travel dates. The UK's 1 Day Premium service (adult renewals only) books appointments from 2 days after you apply, with the passport ready to collect 4 hours after your appointment, and the US offers appointments at regional passport agencies.
+- **Trip is imminent:** ask about an emergency appointment and bring proof of your travel dates. The UK's 1 Day Premium service (adult renewals only) books appointments from 2 days after you apply, with the passport ready to collect 4 hours after your appointment, and the US publishes its urgent travel options at travel.state.gov.
 
-All major passport authorities hold back emergency appointment slots that are not visible online. If your timeline is tight, we'd always call rather than trust the website alone.
+If your timeline is tight, we'd always call rather than trust the website alone.
 
 ## Scenario B: You Discovered It at the Airport
 
@@ -40,9 +40,9 @@ This scenario happens more often than people expect, and the steps are not obvio
 
 **Step 1: Stay calm and move away from the queue.** You are not boarding this flight, and the sooner you accept that reality, the sooner you can start working on the solution.
 
-**Step 2: Go to the airline desk immediately.** Do not leave the airport: speak to the airline directly and explain the situation. Some airlines will reschedule without a change fee for genuine document emergencies, though not all, so it is worth asking anyway. Get the answer in writing if they agree.
+**Step 2: Go to the airline desk immediately.** Do not leave the airport: speak to the airline directly and explain the situation. Airline policies differ, so ask whether they can rebook you without a change fee. Get the answer in writing if they agree.
 
-**Step 3: Check whether domestic travel is possible.** An expired passport may still be accepted as ID for domestic flights in some countries, though this is not guaranteed. If your final destination is reachable domestically from a closer city, this might be an option while you sort the passport. British travellers should read [what an expired passport means for UK travel](https://traveldocumentvault.com/blog/travel-expired-passport-uk/), since the rules differ by route.
+**Step 3: Check whether domestic travel is possible.** Some airlines may accept other photo ID for domestic flights, so ask your airline. If your final destination is reachable domestically from a closer city, this might be an option while you sort the passport. British travellers should read [what an expired passport means for UK travel](https://traveldocumentvault.com/blog/travel-expired-passport-uk/), since the rules differ by route.
 
 **Step 4: Contact your passport authority by phone.** Explain your situation. In the UK, call the HM Passport Office adviceline and ask for the earliest available appointment at the nearest passport office. In the US, call the US National Passport Information Center and ask about emergency appointments at the nearest regional passport agency. Ask specifically about emergency options, since faster appointments are often not listed on the website.
 
@@ -60,11 +60,11 @@ GOV.UK says you must renew before you can travel if your passport has expired or
 
 ### US: Renewal Works Within 15 Years of Issue
 
-According to USA.gov, you can renew an expired passport only if it was **issued within the last 15 years**. You also can't renew one issued before your 16th birthday, one that's damaged, lost or stolen, or one in a previous name unless you have a legal document proving the change. If any of those apply, you apply for a new passport in person with Form DS-11.
+The US has its own eligibility rules for renewing an expired passport, including a limit on how long ago it was issued. Check the renewal page at travel.state.gov, which also says when you apply in person instead.
 
 ### Canada: An Expired Passport Can Be Renewed Online
 
-The Government of Canada lets you renew if your last passport was an adult passport issued when you were at least 16. It also has to have been issued within 15 years of the date you apply and valid for 5 or 10 years. The name, date and place of birth on it must match what you want on the new one. You can renew online if your passport expires in the next six months or has already expired, provided your home and mailing address are in Canada. Child passports can't be renewed, so a child needs a new application.
+The Government of Canada lets you renew if your last passport was an adult passport issued when you were at least 16. It also has to have been issued within 15 years of the date you apply and valid for 5 or 10 years. You can renew online if your passport expires in the next six months or has already expired, provided your home and mailing address are in Canada. Child passports can't be renewed, so a child needs a new application.
 
 If your passport lapsed years ago, look at the issue date before anything else, because the 15-year limit in the US and Canada counts from when it was issued, not from when it expired. Then check current turnaround times before you book, which our guide to [how long passport renewal takes](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/) covers country by country.
 
@@ -88,7 +88,7 @@ Even small variations like a missing middle initial or a transposed letter can s
 
 ### 3. An unsigned passport
 
-Most passports have a signature panel. Some countries, including the United States, require the passport to be signed before it is considered valid for travel. An unsigned passport can be refused at the border. This is most commonly a problem with passports issued to children who were too young to sign, or with brand-new passports that the holder forgot to sign before travelling. A quick look at the signature panel before you leave home catches this one early.
+Most passports have a signature panel. Many passports have a signature panel, and an unsigned one can cause problems at the border. This is most commonly a problem with passports issued to children who were too young to sign, or with brand-new passports that the holder forgot to sign before travelling. A quick look at the signature panel before you leave home catches this one early.
 
 ### 4. Insufficient validity for your destination
 
@@ -104,9 +104,9 @@ Before every trip, check the official entry requirements for your destination us
 
 ## Set the Reminder a Year Out, Not Six Months
 
-The root cause is usually the same: no reminder in place. Set an expiry reminder at least **12 months before the expiry date**, not 6 months. This gives you time to renew on standard processing without paying for expedited service, and without the stress of a tight timeline. The UK and US set no waiting period to [renew a passport before it expires](https://traveldocumentvault.com/blog/renew-passport-before-expiry/), so the reminder leaves you free to apply in whichever quiet weeks suit you.
+The root cause is usually the same: no reminder in place. Set an expiry reminder at least **12 months before the expiry date**, not 6 months. This gives you time to renew on standard processing without paying for expedited service, and without the stress of a tight timeline. You can generally [renew a passport before it expires](https://traveldocumentvault.com/blog/renew-passport-before-expiry/), so the reminder leaves you free to apply in whichever quiet weeks suit you.
 
-Do this for every passport in your household separately. Children's passports expire faster (5 years in most countries versus 10 for adults) and are the ones most often missed. Pull every passport out today and check the expiry date, not just the photo page.
+Do this for every passport in your household separately. Children's passports expire faster (often 5 years versus 10 for adults) and are the ones most often missed. Pull every passport out today and check the expiry date, not just the photo page.
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
@@ -122,11 +122,11 @@ Apply for renewal immediately and pay for expedited processing if your trip is c
 
 ### What should I do if I discover my passport is expired at the airport?
 
-You will not be able to board. Go to the airline desk immediately to discuss rescheduling - some waive change fees for genuine document emergencies. Then call your passport authority and ask specifically about emergency appointment options, since faster appointments are often not listed on the website.
+You will not be able to board. Go to the airline desk immediately to discuss rescheduling - ask whether they can rebook you without a change fee. Then call your passport authority and ask specifically about emergency appointment options, since faster appointments are often not listed on the website.
 
 ### How fast can I get an emergency passport if mine has expired?
 
-In the UK, an expedited premium service is available at designated passport offices for genuine emergencies - appointment required, check current turnaround and booking at gov.uk. In the US, emergency in-person appointments are available at regional passport agencies for urgent travel; check travel.state.gov for current fees and availability. In Australia, check passports.gov.au for urgent processing options.
+In the UK, an expedited premium service is available at designated passport offices for genuine emergencies - appointment required, check current turnaround and booking at gov.uk. In the US, check travel.state.gov for urgent travel options, current fees and availability. In Australia, check passports.gov.au for urgent processing options.
 
 ### How do I avoid my passport expiring unexpectedly?
 

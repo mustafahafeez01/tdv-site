@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/blog/international-driving-permit-validi
 - Countries ratified different conventions, so **a permit accepted in one country can be refused in the next**.
 - Passport, licence and permit run on **three separate clocks** that almost never line up.
 
-An International Driving Permit is a translation of a licence, not a licence in its own right, and it runs on its own clock. Most are valid for twelve months from the date of issue, so the one bought for a trip three summers ago has almost certainly run out. Hire desks in several countries ask for it before releasing a car.
+An International Driving Permit is a translation of a licence, not a licence in its own right, and it runs on its own clock. Many are valid for twelve months from the date of issue, and none run longer than three years, so the one bought for a trip three summers ago has almost certainly run out. Hire desks in several countries ask for it before releasing a car.
 
 An IDP carries its own expiry date, and that date behaves differently depending on which international treaty your permit was issued under. Most drivers never discover there is more than one kind until theirs is turned down.
 
@@ -30,7 +30,7 @@ This catches people out more often than the expiry dates do. The permit looks li
 
 ## Two Treaties Decide How Long It Lasts and Where It Works
 
-Three international agreements sit behind IDPs, and countries signed up to one of them or to several. Two do nearly all the work: the 1949 Geneva Convention and the 1968 Vienna Convention. An older 1926 Paris Convention permit is still issued for a small number of destinations, and like the Geneva permit it runs for a year.
+Three international agreements sit behind IDPs, and countries signed up to one of them or to several. Two do nearly all the work: the 1949 Geneva Convention and the 1968 Vienna Convention. An older 1926 Paris Convention permit also exists, and a few destinations still list it. Check the permit's printed expiry date.
 
 A permit issued under the 1949 Geneva Convention is valid for one year. A permit issued under the 1968 Vienna Convention can run for up to three.
 
@@ -38,7 +38,7 @@ The split matters twice over. It sets how long your permit lasts, and it decides
 
 | Permit type | How long it lasts | What limits it |
 |---|---|---|
-| **1926 Paris Convention** | One year | The issue date. Rarely needed now |
+| **1926 Paris Convention** | See the printed expiry date | The issue date. Rarely needed now |
 | **1949 Geneva Convention** | One year | The issue date |
 | **1968 Vienna Convention** | Up to three years | Your domestic licence, if it expires sooner |
 
@@ -52,7 +52,7 @@ Say your licence has 14 months left and you're issued a three-year permit. The p
 
 The date printed on the front doesn't outrank the licence sitting behind it.
 
-Renewing the licence afterwards doesn't rescue the permit either. It stays tied to the licence it was issued against, so a fresh licence generally means a fresh permit. If your licence is due for renewal before the trip, we'd renew it first and apply for the permit after, so the permit is tied to the new licence.
+Renewing the licence afterwards doesn't rescue the permit either. The permit's validity is linked to the licence it was issued against, so a fresh licence generally means a fresh permit. If your licence is due for renewal before the trip, we'd renew it first and apply for the permit after, so the permit is tied to the new licence.
 
 ## Your Permit Is the Date Nobody Watches
 
@@ -92,9 +92,9 @@ Where this bites hardest is a trip booked at short notice. The permit itself is 
 
 ## There's No Such Thing as an International Driving Licence
 
-Search for an International Driving Permit and you'll find sites selling something called an international driving licence, often for considerably more than the official permit costs, sometimes promising instant delivery or a decade of validity.
+Search for an International Driving Permit and you'll find sites selling something called an international driving licence, sometimes for more than the official permit costs, and sometimes promising instant delivery or a decade of validity.
 
-No such licence exists. The only documents with standing are the permits issued under the 1926, 1949 and 1968 conventions, through the channel your own country designates. Three years on a Vienna permit is the longest any of them runs, so anything advertising 10 or 20 years is describing a document no border official is obliged to accept.
+No such licence exists. Permits issued under the 1926, 1949 and 1968 conventions, through the channel your own country designates, are the documents the conventions describe. The Vienna permit's three years is the longest the 1968 convention allows, so anything advertising 10 or 20 years is describing something outside it.
 
 If you're building a wider pre-trip list rather than sorting the driving side alone, our [international travel document checklist](https://traveldocumentvault.com/blog/travel-document-checklist/) runs through what to gather before you fly, and [the documents people forget](https://traveldocumentvault.com/blog/what-documents-to-carry-when-travelling-internationally/) covers where each one is best kept once you're moving.
 
@@ -124,7 +124,7 @@ Yes, if it's a 1968 Vienna permit. That type is capped by your domestic licence,
 
 ### Why is there more than one type of International Driving Permit?
 
-They come from separate international treaties. Most travel is covered by the 1949 Geneva Convention and the 1968 Vienna Convention, and an older 1926 Paris Convention permit is still issued for a small number of destinations. Countries ratified different ones, which is why a permit accepted in one country can be refused in another.
+They come from separate international treaties. Most travel is covered by the 1949 Geneva Convention and the 1968 Vienna Convention, and an older 1926 Paris Convention permit also exists, and a few destinations still list it. Countries ratified different ones, which is why a permit accepted in one country can be refused in another.
 
 ## Related Articles
 

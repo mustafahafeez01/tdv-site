@@ -13,7 +13,7 @@ Source: https://traveldocumentvault.com/blog/schengen-passport-rules-family-trip
 - The real Schengen rule is **3 months of validity beyond the date you leave**, plus a passport issued within the last 10 years - it is not the "6-month rule".
 - **Children's passports expire in 5 years**, so a family's passports fall out of sync and the earliest expiry decides the trip.
 - Pre-October-2018 **UK passports with bonus months** can fail the 10-year issuance test even while the booklet still looks valid.
-- Airlines check every passport against **IATA's Timatic database** at check-in - no rounding, no override, and one failed passport grounds the family.
+- Airlines generally check passports against **IATA's Timatic database** at check-in, and one failed passport can ground the family.
 - **Audit every passport the day you book**, not the week you fly. Five minutes at booking time is the whole fix.
 
 Booking a family trip to Europe usually starts the same way: you check your own passport, see years of validity left, and hit confirm. The catch arrives weeks later, when someone finally opens the drawer and finds that a child's passport, issued on a shorter clock than yours, runs out sooner than anyone thought. Nobody sends parents a warning letter about this. The check-in desk delivers the news instead.
@@ -38,24 +38,21 @@ Our guide to [the 6-month rule](https://traveldocumentvault.com/blog/passport-ex
 
 ## Kids' Passports Run on a Faster Clock
 
-Adult passports typically last 10 years; children's last only five. That asymmetry is where many otherwise careful plans come unstuck.
+UK adult passports last 10 years, while the UK issues children's passports for only five. That asymmetry is where many otherwise careful plans come unstuck.
 
 | Country | Child passports | Validity |
 |---|---|---|
-| United States | Under 16 | 5 years |
-| United Kingdom | All children | 5 years |
-| Canada | Under 16 | 5 years |
-| Australia | All children | 5 years |
+| United Kingdom | Under 16 | 5 years |
 
-Sources: US Department of State, GOV.UK, Canada.ca, Australian Passport Office.
+Source: GOV.UK.
 
 A family of four therefore operates on four different expiry schedules. The earliest date decides whether the trip happens at all. Two adults renewed together will drift apart from their children's documents within a couple of years, which is exactly why checking your own passport tells you almost nothing about the family's readiness.
 
-For American families there's an extra wrinkle: a child's passport cannot be renewed by post. Each renewal requires a fresh in-person application and routine processing currently takes several weeks, plus mailing time both ways, which is manageable in March but becomes a real problem two weeks before departure. UK families have it slightly easier: just check current processing times before booking and allow extra time if information is needed.
+For American families there's an extra wrinkle: a child's renewal can need an in-person application and take several weeks, so check your passport authority's current rules and processing times before you book. That is manageable in March but becomes a real problem two weeks before departure. UK families have it slightly easier: just check current processing times before booking and allow extra time if information is needed.
 
 ## Check-in Reality: Timatic Doesn't Round Up
 
-Whatever the border might tolerate, you'll meet the rules earlier than that, at check-in. Airlines validate every passport against IATA's Timatic database, which applies each destination's entry requirements exactly. If your return date needs validity to 20 November and a passport expires on 15 November, the system says no. There's no "close enough" and no override: airlines that board an inadmissible passenger must fly them home at their own cost.
+Whatever the border might tolerate, you'll meet the rules earlier than that, at check-in. Airlines generally check passports against IATA's Timatic database, which lists each destination's entry requirements. If your return date needs validity to 20 November and a passport expires on 15 November, the system says no. Expect to be turned away at check-in.
 
 One failed passport rarely strands one person; it grounds the family. Few parents will send three members onward and leave one at the desk, so in practice the whole booking gets rebooked or lost.
 
@@ -77,11 +74,11 @@ They are separate rules for different destinations. Countries such as Thailand a
 
 ### Do children follow different Schengen passport rules?
 
-No. Children need the same 3 months of validity beyond departure and the same issued-within-10-years condition as adults. What differs is the passport itself: most countries issue children's passports for 5 years rather than 10, so a child's document reaches those limits much sooner than a parent's.
+No. Children need the same 3 months of validity beyond departure and the same issued-within-10-years condition as adults. What differs is the passport itself: many countries, including the UK, issue children's passports for 5 years rather than 10, so a child's document reaches those limits much sooner than a parent's.
 
 ### When should we renew a child's passport before a trip?
 
-As soon as you book, check whether the passport will still have 3 months of validity beyond your return date. If it won't, start straight away. Check current UK processing times and allow extra time if the application needs more information. US routine processing takes several weeks plus mailing time. A US child's passport also needs a fresh in-person application rather than a renewal.
+As soon as you book, check whether the passport will still have 3 months of validity beyond your return date. If it won't, start straight away. Check current UK processing times and allow extra time if the application needs more information. Check your passport authority's current processing times.
 
 ### Can we fly while a child's passport renewal is in progress?
 
@@ -89,7 +86,7 @@ No. You need the physical passport in hand to board an international flight. An 
 
 ### What happens at check-in if one passport falls short?
 
-Airlines check every passport against IATA's Timatic database, which applies the destination's rules exactly, with no rounding and no override. If one family member fails the check, that person cannot board - which in practice usually means rebooking or cancelling the whole trip.
+Airlines generally check passports against IATA's Timatic database, which lists each destination's entry requirements. If one family member fails the check, that person cannot board - which in practice families usually handle by rebooking rather than splitting up.
 
 ## Related Articles
 

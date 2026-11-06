@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/blog/travel-while-passport-renewal-pendi
 ## Key Takeaways
 
 - Everything below comes down to one fact: whether you still have your passport in hand, or already surrendered it for renewal.
-- **United States:** Mail-in renewal lets you keep your old passport. Domestic travel is fine. International travel requires your renewed passport to arrive first.
+- **United States:** Mail-in renewal means sending your current passport in with the application. Domestic travel is fine. International travel requires your renewed passport to arrive first.
 - **United Kingdom (postal renewal):** Your passport is held by HM Passport Office. You cannot travel internationally until it is returned. **United Kingdom (digital renewal):** You keep your passport throughout and can travel on it while the new one is processed.
 - **Australia and Canada:** Both require you to surrender your passport on application. International travel is not possible until the new passport is issued.
 - Expedited and urgent renewal options exist in every country covered here, but the basic rule holds: you cannot travel internationally without a valid passport in your hand.
@@ -28,7 +28,7 @@ Whether you still have that passport depends entirely on your country and your r
 
 ## United States: Mail-In Renewal
 
-Standard US passport renewal by mail does not require you to surrender your current passport before your new one arrives. You complete the DS-82 form, enclose your existing passport, and post everything to the National Passport Processing Center. Your old passport is returned to you alongside the new one, typically cancelled with a hole punch.
+Standard US passport renewal by mail means sending your current passport in with the application, so it isn't in your hands while you wait. You complete the DS-82 form, enclose your existing passport, and post everything to the National Passport Processing Center. USAGov says your old passport is mailed back separately, usually about four weeks after you receive the new one.
 
 This means domestic travel within the United States is unaffected throughout the renewal process - you don't need a passport for domestic flights. International travel is a different story: you can't travel internationally until your new passport arrives, and you can't use the old cancelled passport even if you have it in hand.
 
@@ -112,7 +112,7 @@ Contact your passport service immediately and ask about expedited or urgent proc
 
 ### Do I keep my passport during the renewal process?
 
-It depends. US mail-in renewal returns your old passport to you (cancelled) alongside the new one. UK digital renewal lets you keep it throughout. UK postal renewal, Australia, and Canada all require you to surrender your passport on application.
+It depends. US mail-in renewal means sending your old passport in, and USAGov says it's mailed back separately, usually about four weeks after the new one. UK digital renewal lets you keep it throughout. UK postal renewal, Australia, and Canada all require you to surrender your passport on application.
 
 ### What is an emergency travel document?
 

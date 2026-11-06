@@ -36,13 +36,13 @@ Two things sit outside that letter and are worth carrying alongside it. Pack you
 
 Sole custody changes which document matters rather than removing the need for one. When a court has given you sole custody or sole parental responsibility, the more useful paper at the border is often the custody order itself, or a certified copy of it, rather than a letter from the other parent. Many border authorities accept the order in place of a consent letter, and some ask to see it alongside one regardless. If the order leaves the other parent with contact or access rights, a letter from them is still worth carrying.
 
-Travel with the order, or a certified copy of it, since it does no good in a filing cabinet at home. Officers who ask are usually looking for a plain answer to one question: does this adult have the legal standing to make this decision for this child. A certified copy answers that in seconds, and if your custody arrangement changed recently, it is worth checking whether your destination expects a more current copy than the one you have been carrying for years.
+Travel with the order, or a certified copy of it, since it does no good in a filing cabinet at home. Officers who ask are usually looking for a plain answer to one question: does this adult have the legal standing to make this decision for this child. A certified copy is usually quick to check, and if your custody arrangement changed recently, it is worth checking whether your destination expects a more current copy than the one you have been carrying for years.
 
 ## When the Other Parent Has Died: The Death Certificate Replaces the Letter
 
-There is no consent letter to write when the other parent has died, and no border officer expects one. What you carry instead is a copy of the death certificate, which answers the question a consent letter would otherwise answer: why only one parent is here.
+There is no consent letter to write when the other parent has died, and most border officers will not expect one. What you carry instead is a certified copy of the death certificate, which answers the question a consent letter would otherwise answer: why only one parent is here.
 
-Keep the certified copy with your passports rather than in a separate file at home, since it is the one document here you cannot quickly replace if it goes missing partway through the trip. A printed copy plus an encrypted digital backup covers both a lost bag and a phone that will not turn on. If your child's surname differs from yours, the birth certificate does the same job here that it does everywhere else in this article, showing the child is yours to travel with, whatever name appears on the passport.
+Keep the certified copy with your passports rather than in a separate file at home, since it is a document that can take time to replace if it goes missing partway through the trip. A printed copy plus an encrypted digital backup covers both a lost bag and a phone that will not turn on. If your child's surname differs from yours, the birth certificate does the same job here that it does everywhere else in this article, showing the child is yours to travel with, whatever name appears on the passport.
 
 The practical answer stays short: one document, kept close, and a process that generally moves on quickly once it has been shown.
 
@@ -56,15 +56,15 @@ Your child's full birth certificate, the one that names you as the parent, close
 
 ## Grandparents, Relatives and Guardians: Both Parents Usually Need to Consent
 
-When a grandparent, aunt, uncle, or family friend travels with a child and neither parent is on the trip, the paperwork gets heavier, because most countries expect evidence that both parents, or both legal guardians, have agreed to the trip, not just one. The format is the same [consent letter](https://traveldocumentvault.com/blog/child-travel-consent-letter/) we cover in full elsewhere, but here it typically needs both parents' signatures rather than one, along with contact details for each.
+When a grandparent, aunt, uncle, or family friend travels with a child and neither parent is on the trip, the paperwork gets heavier, because many countries expect evidence that both parents, or both legal guardians, have agreed to the trip, not just one. The format is the same [consent letter](https://traveldocumentvault.com/blog/child-travel-consent-letter/) we cover in full elsewhere, but here it typically needs both parents' signatures rather than one, along with contact details for each.
 
 The accompanying adult should also carry the child's birth certificate and be ready to explain the relationship in plain terms if asked, since "family friend" tends to invite more questions than "grandparent" even when both are carrying identical paperwork. Airlines can refuse to board a child if the adult cannot produce this at check-in, for the same carrier-liability reason covered earlier: the airline is protecting itself from a refused entry at the other end, before the flight has even left the ground.
 
 ## If Questions Come Anyway
 
-Even with every document in order, a border officer or check-in agent may still ask a few questions, and it helps to know what that conversation actually is: a short verification, not an accusation. The questions tend to be simple: where the family lives, how the trip came about, and how the child is related to the adult beside them. A child who can answer briefly in their own words tends to move things along faster than a nervous adult answering for them.
+Even with every document in order, a border officer or check-in agent may still ask a few questions, and it helps to know what that conversation actually is: a short verification, not an accusation. The questions may be simple: where the family lives, how the trip came about, and how the child is related to the adult beside them. A child who can answer briefly in their own words tends to move things along faster than a nervous adult answering for them.
 
-If a phone number appears on a consent letter or custody order, be ready for it to be called. That call is routine. Carrying everything covered here does not promise zero questions, but it means that when questions do come, you have an answer ready for each one, which is generally what settles these conversations at the desk.
+If a phone number appears on a consent letter or custody order, an officer may use it to check the document. Carrying everything covered here does not promise zero questions, but it means that when questions do come, you have an answer ready for each one, which is generally what settles these conversations at the desk.
 
 ## One Bundle Per Situation
 
@@ -90,11 +90,11 @@ Often the more useful document is the custody order or court order itself. Many 
 
 ### What do I need to travel with my child if the other parent has died?
 
-A consent letter is not possible, so carry a copy of the death certificate instead. Border officers who would normally ask about the absent parent generally accept it as the answer. Keep a printed copy with your passports and an encrypted digital backup, and check your destination's guidance before departure.
+A consent letter is not possible, so carry a copy of the death certificate instead. A certified copy of the death certificate is the document most likely to answer the question, but check your destination's guidance. Keep a printed copy with your passports and an encrypted digital backup, and check your destination's guidance before departure.
 
 ### Can my child travel abroad with grandparents or another relative?
 
-Yes, but most countries expect written consent from both parents or legal guardians, not just one. The accompanying adult should also carry contact details for both parents and a copy of the child's birth certificate. Airlines can refuse to board a child if the adult cannot show this when asked.
+Yes, but many countries expect written consent from both parents or legal guardians, not just one. The accompanying adult should also carry contact details for both parents and a copy of the child's birth certificate. Airlines can refuse to board a child if the adult cannot show this when asked.
 
 ### Will a different surname from my child cause problems at the airport?
 

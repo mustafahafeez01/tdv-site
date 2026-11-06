@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/blog/uk-brp-expired-evisa-deadline/
 - Each child needs **their own account**, which a parent can run with their own phone and email.
 - To travel, the passport you fly on has to be on your UKVI account, with details that match your booking.
 
-Most people holding an expired Biometric Residence Permit only need to do one thing: create a UK Visas and Immigration (UKVI) account, using the card to prove who they are. It's a single sitting, and the expired card still works for that, at least for a while. Your immigration status hasn't changed. What has changed is where it lives.
+If you hold an expired Biometric Residence Permit and still have permission to stay, GOV.UK asks you to create a UK Visas and Immigration (UKVI) account, using the card to prove who you are. It's a single sitting, and the expired card still works for that, at least for a while. Your immigration status hasn't changed. What has changed is where it lives.
 
 GOV.UK says all BRPs have now expired and have been replaced by eVisas. An eVisa is a digital record of your identity and immigration status, and you reach it through a UKVI account rather than carrying it in your wallet. That's why the account is the step that matters, for you and for everyone in your family who held a card.
 
@@ -58,7 +58,7 @@ When your child turns 18, the account details should move over to their own phon
 
 ## To Travel, the Passport You Fly On Must Be on Your UKVI Account
 
-GOV.UK is direct about this: you must travel with a valid passport or travel document that you've added to your UKVI account. Your eVisa is checked when you leave the UK, when you come back (including at eGates) and by the airline or other carrier at check-in. Those checks look at your eVisa through the passport on your account. If the details on your account don't exactly match the passenger information you gave the carrier, the carrier may not let you travel, and you may also be held up at the UK border.
+GOV.UK is direct about this: you must travel with a valid passport or travel document that you've added to your UKVI account. Your eVisa is checked when you leave and enter the UK, by a border officer or at the eGates, and when you check in with your carrier to return to the UK. Those checks look at your eVisa through the passport on your account. If the details on your account don't exactly match the passenger information you gave the carrier, the carrier may not let you travel, and you may also be held up at the UK border.
 
 Before a trip, sign in, confirm the passport on the account is the one you'll travel with, and get a share code. A code lasts 90 days and can be used more than once, and an airline or border officer may ask to see it. We'd get it before booking, not in the queue at the airport.
 
@@ -88,7 +88,7 @@ Each child needs their own UKVI account to reach their eVisa, according to GOV.U
 
 ### What do I need to travel with an eVisa?
 
-A valid passport that you've added to your UKVI account, with details that exactly match what you give the airline. Your eVisa is checked when you leave the UK, when you return including at eGates, and at carrier check-in. A share code lasts 90 days and can be used more than once.
+A valid passport that you've added to your UKVI account, with details that exactly match what you give the airline. Your eVisa is checked when you leave and enter the UK, by a border officer or at the eGates, and when you check in with your carrier to return to the UK. A share code lasts 90 days and can be used more than once.
 
 ## Related Articles
 

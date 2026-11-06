@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/blog/visa-expiry-tracker-app/
 - Schengen Area visitors must track a rolling 90/180-day window, not just a single expiry date, because the count rolls with your actual travel history, not the calendar.
 - Tracking visas and passports together in one place reduces the risk of a mismatch: entering on a valid visa but with a passport that expires before your planned stay ends.
 
-A visa overstay is one of the most consequential travel mistakes a person can make. Unlike a missed flight, which is stressful but ultimately fixable, an overstay creates a formal immigration record that can follow you for years. In the United States, an overstay of just 180 days triggers an automatic 3-year bar on re-entry under INA section 212(a)(9)(B)(i), and an overstay of a year triggers a 10-year bar. These consequences are not widely known, but they are documented by the US Citizenship and Immigration Services.
+A visa overstay is one of the most consequential travel mistakes a person can make. Unlike a missed flight, which is stressful but ultimately fixable, an overstay creates a formal immigration record that can follow you for years. In the United States, under section 212(a)(9)(B) of the US Immigration and Nationality Act, someone who is unlawfully present for more than 180 days but less than a year and then leaves is generally barred from returning for three years, and one year or more of unlawful presence generally means a ten-year bar. These consequences are not widely known.
 
 A visa expiry tracker app is built to prevent this: it needs to monitor multiple dates at once, entry validity, maximum stay, and entry count, each a separate deadline.
 
@@ -26,13 +26,13 @@ A passport has one meaningful date: its expiry. A visa typically has several, an
 
 What this means in practice
 
-A traveller enters Vietnam on a visa stamped "valid until 30 June" with "30-day stay" printed below, and arrives in the country on 20 June. The visa is valid for entry, but they must leave by 20 July, not 30 June. Confusing the two dates is one of the most common causes of accidental overstays.
+A traveller enters a country on a visa stamped "valid until 30 June" with "30-day stay" printed below, and arrives on 20 June. The visa is valid for entry, but where the stay is counted from arrival they must leave by 20 July, not 30 June. Some countries instead require you to leave by the visa end date, so read the wording on yours. Confusing the two dates is one of the most common causes of accidental overstays.
 
 | Field | What it means | Example |
 |---|---|---|
 | **Entry validity date** | The last date you can use this visa to enter the country | "Valid until 31 Dec 2026" - you must enter before this date |
 | **Maximum stay duration** | How long you can remain once you enter, regardless of the visa validity date | "Duration of stay: 90 days" - clock starts on entry, not on visa issue |
-| **Number of entries** | Single, double, or multiple entries allowed | A single-entry visa is voided the moment you exit, even if the entry validity date hasn't passed |
+| **Number of entries** | Single, double, or multiple entries allowed | A single-entry visa is generally used up the moment you exit, even if the entry validity date hasn't passed |
 | **Rolling window rules** | Some visa regimes (notably Schengen) calculate permitted days within a rolling window | Schengen: maximum 90 days in any 180-day rolling window, not per calendar year |
 
 A tracker that only monitors the entry validity date misses this exact trap: exceeding the maximum stay duration after a perfectly legal entry.
@@ -53,8 +53,8 @@ The consequences of a visa overstay vary by country but are consistently serious
 
 - **UK:** Overstays are recorded and will affect future visa applications. The UK Home Office considers overstays when assessing credibility and may refuse subsequent applications.
 - **Australia:** Overstaying your visa may result in restrictions on future visa applications and removal from the country. Under the Migration Act 1958, overstay records are tracked and will affect future visa applications and re-entry eligibility.
-- **Schengen Area:** Overstays are tracked in the Schengen Information System (SIS). A ban issued by one Schengen country applies across the Schengen area, which the European Commission currently lists as 29 countries.
-- **Thailand:** Overstays incur a daily fine set by Thai immigration, up to a capped maximum, and may result in arrest and deportation for extended overstays.
+- **Schengen Area:** Stays are recorded at the border, and an entry ban issued by one Schengen country is generally shared with the others through the Schengen Information System, so it applies across the Schengen area, which the European Commission currently lists as 29 countries.
+- **Thailand:** Overstays incur a daily fine set by Thai immigration, up to a capped maximum, and an overstay of more than 90 days can lead to deportation and a ban on returning.
 
 In all cases, the overstay record typically follows you: it appears in immigration databases checked at future border crossings and visa applications.
 
@@ -74,7 +74,7 @@ With all that complexity in mind, a good visa expiry tracker app needs to handle
 
 1. **Record your entry date the day you arrive.** Your maximum stay clock starts immediately on entry, not from when the visa was issued or when the entry validity period began.
 2. **Calculate and note your latest permitted exit date.** Add your maximum stay duration to your entry date. This is the date you must leave by - earlier if you need time to reach a departure point.
-3. **Track single vs. multiple entry status.** If your visa is single-entry, a day trip to a neighbouring country voids it - plan accordingly.
+3. **Track single vs. multiple entry status.** If your visa is single-entry, leaving the country will generally use it up, so check whether a day trip is allowed before you cross a border.
 4. **For Schengen travel, keep a log of entry and exit dates.** Use the European Commission's official calculator to verify your remaining days before any trip that follows recent Schengen travel.
 5. **Set a reminder well before your maximum stay deadline.** This gives you time to arrange a departure without rushing, especially if transport options in your destination are limited.
 
@@ -94,7 +94,7 @@ The visa expiry date is the last date you can use the visa to enter a country. T
 
 ### What happens if you overstay a visa?
 
-Consequences vary by country but commonly include fines, re-entry bans, and deportation. In the US, an overstay of 180 days triggers a 3-year re-entry bar; an overstay of 1 year triggers a 10-year bar - as documented by USCIS. Overstays are recorded in immigration databases and affect future visa applications.
+Consequences vary by country but commonly include fines, re-entry bans, and deportation. In the US, more than 180 days of unlawful presence generally leads to a 3-year re-entry bar after you leave, and a year or more to a 10-year bar, under the Immigration and Nationality Act. Overstays are recorded in immigration databases and affect future visa applications.
 
 ### Can a visa expiry tracker app work offline?
 

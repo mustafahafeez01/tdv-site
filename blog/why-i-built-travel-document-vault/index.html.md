@@ -12,7 +12,7 @@ I was at immigration when the officer looked at my daughter's passport, paused, 
 
 "You know this expires in seven months, right?" he said. "Just so you're aware - some countries won't let you in with less than six months validity."
 
-I thanked him. We were fine - barely. But the whole trip I kept thinking: if he hadn't said something, I never would have noticed. Seven months felt like plenty. I'd checked the passport before booking. I'd just completely blanked on the six-month rule that most countries enforce.
+I thanked him. We were fine - barely. But the whole trip I kept thinking: if he hadn't said something, I never would have noticed. Seven months felt like plenty. I'd checked the passport before booking. I'd just completely blanked on the six-month rule that many countries enforce.
 
 That close call stayed with me. I'd already set up calendar reminders for everyone's passport expiry dates. I thought that was enough. But I wasn't actually checking the dates - I was just trusting the reminders. And when someone's passport got renewed, I had to update the reminder, update the scan in Google Drive, and hope I hadn't missed anything.
 
@@ -68,11 +68,11 @@ Work permits if you're living abroad, visas and residency cards needing annual r
 
 Each has an expiry date. Each matters at exactly the wrong moment. Nobody reminds you until you're standing at the embassy realising your visa expired last month.
 
-The app handles all of them. Anything with an expiry date - passports, visas, work permits, insurance, licences, whatever your family needs - one place, tracked, sorted.
+The app handles all of them. Passports, visas, IDs and insurance have their own document types, and anything else with an expiry date, such as a work permit or a licence, goes under Other - one place, tracked, sorted.
 
 ## When things go wrong abroad
 
-Passports get lost and stolen abroad every day, and replacing one from another country is slow work. If it happens to you overseas, you're not starting from nothing.
+Passports do get lost and stolen abroad, and replacing one from another country is slow work. If it happens to you overseas, you're not starting from nothing.
 
 Document numbers, expiry dates, clear scans - all ready when you need to file a report or reach an embassy. It doesn't replace your originals, but it gives you what you need to move forward fast. No Wi-Fi, no panic.
 

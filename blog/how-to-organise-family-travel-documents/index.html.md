@@ -26,7 +26,7 @@ This guide covers the whole system; for more on one specific piece, like passpor
 
 It depends on where you're going, but for most international family travel the list is longer than people expect. Here's the core travel document checklist, starting with the identity documents everyone needs:
 
-- Passports for every family member (check validity at least 3 months before travel)
+- Passports for every family member (check validity against the destination's entry rules well before you book; we'd start three months out)
 - Visas, if required by the destination country
 - National ID cards if they are accepted in place of passports (Schengen travel for EU citizens)
 
@@ -45,9 +45,9 @@ It depends on where you're going, but for most international family travel the l
 
 ### Child Travel Consent Letter: When You Need One
 
-A child travel consent letter is a signed document from the absent parent (or legal guardian) giving permission for the child to travel. It's not universally required by law, but immigration officers in many countries, including the US, Canada, Mexico, and several others, routinely ask for it when a child is travelling with only one parent or with another adult. Without one, you may face delays, additional questioning, or in some cases, denied entry.
+A child travel consent letter is a signed document from the absent parent (or legal guardian) giving permission for the child to travel. It's generally not a legal requirement, but border officials in some countries, Canada among them, may ask for proof that both parents agree to the trip when a child is travelling with only one parent or with another adult. It is easy to carry, and it can save you questions at the border.
 
-Canada and South Africa are especially known for enforcing it strictly.
+South Africa has its own rules for travelling with children, including an unabridged birth certificate, so check its Home Affairs guidance before you go.
 
 A valid consent letter should include: the child's full name and date of birth, both parents' names and contact details, the travelling parent's details, destination(s) and travel dates, and the signature of the absent parent (notarised copies are more convincing, though not always required). Keep a copy digital as well as physical.
 
@@ -55,7 +55,7 @@ A valid consent letter should include: the child's full name and date of birth, 
 
 - International driver's licence (if you're hiring a car abroad)
 - Medical records or prescription details for ongoing conditions
-- European Health Insurance Card (EHIC) for EU travellers
+- European Health Insurance Card (EHIC), if you are covered by an EU health system
 
 ![Hand-drawn family travel checklist with ten items - passports, visas, ID cards, travel insurance, bookings, vaccinations, return ticket, birth cert, consent letter, custody orders - and an arrow pointing to a note that says 3+ months before travel](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/travel-docs-checklist.jpg) The full family list - start ticking it three months out, not the week before.
 
@@ -95,7 +95,7 @@ Here's the failure pattern that catches families out. You renew your own passpor
 
 - **Calendar reminders:** Set one 12 months before each document expires and another at 6 months. You'll need to remember to update these when documents get renewed, and you need the expiry dates accessible in the first place.
 - **Spreadsheet:** Works well if you'll actually maintain it. One row per document per person, the expiry date, and a formula that highlights anything expiring within 12 months.
-- **Dedicated app:** Travel Document Vault schedules passport reminders from eight months before expiry, with alerts at closer intervals. Scan a passport and confirm or enter its expiry date; reminders are on by default.
+- **Dedicated app:** Travel Document Vault schedules passport reminders from eight months before expiry, with alerts at closer intervals. Scan a passport and confirm or enter its expiry date; you choose whether to switch reminders on.
 
 Any of these three approaches will work, but we'd default to whichever one sends the reminder automatically, since a spreadsheet only helps if you remember to open it. What matters most is picking one that fits how you already operate and actually sticking with it.
 
@@ -148,7 +148,7 @@ Check before you book flights - and at minimum three months before you travel. P
 
 ### Do I need a consent letter when travelling alone with my child?
 
-You may not be legally required to have one, but it's strongly recommended. Immigration officers in countries like Canada, South Africa, Mexico, and many others routinely ask for a child travel consent letter when a child is travelling with only one parent. Without one, you risk delays, questioning, or denied entry. The letter should include the child's details, both parents' contact information, travel dates, destinations, and the absent parent's signature - notarised if possible.
+You may not be legally required to have one, but it's strongly recommended. Border officials in some countries, such as Canada, may ask for a child travel consent letter when a child is travelling with only one parent. Without one, you may face extra questions. The letter should include the child's details, both parents' contact information, travel dates, destinations, and the absent parent's signature - notarised if possible.
 
 ## Related Articles
 
