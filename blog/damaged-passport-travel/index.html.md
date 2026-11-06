@@ -13,7 +13,7 @@ Source: https://traveldocumentvault.com/blog/damaged-passport-travel/
 - **Not all wear is damage.** A creased cover is fine. Water damage, torn pages, or smudged security features are not.
 - Airlines refuse boarding if **they think a passport is damaged** - they are liable for boarding an invalid document and will err on the side of caution.
 - Spot damage **days or weeks before** your trip gives you time for emergency renewal. The day before is a crisis.
-- If you are turned away at the gate, **ask your embassy about an emergency travel document** - same-day issuance is possible.
+- If you are turned away at the gate, **ask your embassy about an emergency travel document**.
 - A digital copy is **worth most when you are abroad** - a consular officer can establish who you are from a scan far faster than from your account of it. Scan your passport before you travel.
 
 Most passport damage is cosmetic. A scuffed cover, a softened corner, a frayed edge along the spine; none of that stops anyone boarding. What border staff and airline agents actually check is narrower than most travellers expect: the photo page, the two printed lines beneath it, and whether the booklet still holds together as one document.
@@ -30,7 +30,7 @@ Most critically, the machine-readable zone (the black-and-white stripe at the bo
 
 ![Two open passports side by side: one worn but flat and usable, one water-stained with rippled pages and lifting lamination](https://traveldocumentvault.com/blog/damaged-passport-travel/damage-vs-wear-figure.jpg) Minor creases on the cover: acceptable. Water damage to the data page: a problem.
 
-The reason this matters is that **airlines bear the liability if they board someone with an unacceptable document.** Board with a damaged passport, get refused entry at the far end, and the authorities can fine the airline for carrying you. The airline also has to cover the cost of flying you home.
+The reason this matters is that **airlines bear the liability if they board someone with an unacceptable document.** Board with a damaged passport, get refused entry at the far end, and the authorities can fine the airline for carrying you.
 
 No gate agent wants that paperwork, so they err decisively on the side of caution.
 
@@ -60,8 +60,8 @@ If the damage really is minor, a small crease that doesn't affect any text or se
 
 Once boarding is refused, you have limited options:
 
-- **Rebook on a later flight.** Contact your airline or booking agent and explain what happened; in many cases they'll rebook you at no extra cost once the reason is a damaged document, not a no-show or voluntary cancellation. Use this time to get your passport sorted.
-- **Apply for an emergency travel document.** Contact your nearest embassy or consulate immediately. Explain that you have a confirmed flight and need to travel urgently. If you are still at the airport, many embassies can issue an emergency travel document the same day, but you must act quickly and show proof of your booking.
+- **Rebook on a later flight.** Contact your airline or booking agent and explain what happened; ask whether they can move you to a later flight, and check what the change costs under your fare rules. Use this time to get your passport sorted.
+- **Apply for an emergency travel document.** Contact your nearest embassy or consulate immediately. Explain that you have a confirmed flight and need to travel urgently. Act quickly and have proof of your booking ready. For British nationals, GOV.UK says an emergency travel document is usually ready 2 working days after you apply, and it can take longer in some cases.
 - **Accept the cancellation.** If neither option works and the trip cannot be salvaged, ask your airline what it can do; some will rebook you or offer a credit as goodwill once you explain, though most airline terms treat a document problem as the passenger's own responsibility, so there's no automatic refund to claim.
 
 If the gate agent says no, don't argue and don't try to board anyway. That only creates bigger problems. The airline can bar you from future flights, immigration authorities can fine you, and in some countries they can prosecute you for trying to travel on a document they have already judged invalid.

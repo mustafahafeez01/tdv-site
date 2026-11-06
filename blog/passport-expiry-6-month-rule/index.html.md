@@ -56,11 +56,12 @@ The following table covers the most common destinations. Policies change, so alw
 | Philippines | 6 months | Plus onward/return ticket required |
 | India | 6 months | Visa also required for most nationalities |
 | Kenya | 6 months | eVisa required; 6-month rule applies |
-| Turkey | 6 months *(recommended)* | Officially 60 days beyond stay; airlines apply 6-month standard |
+| Turkey | 150 days from arrival | UK Foreign Office: expiry date at least 150 days after the date you arrive |
 | EU / Schengen | 3 months beyond departure | Plus a date of issue under 10 years old |
 | United Kingdom | Duration of stay only | UK citizens abroad still subject to destination rules |
 | USA | Duration of stay only | US citizens abroad subject to destination country rules |
-| Japan / Australia / NZ | Duration of stay only | No 6-month extension rule for visitors |
+| Japan / Australia | Duration of stay only | No 6-month extension rule for visitors |
+| New Zealand | 3 months beyond departure | UK Foreign Office: expiry date at least 3 months after the day you plan to leave |
 
 This table is a snapshot, not the full picture: requirements vary by your nationality too, not just the destination, so always check your government's official travel advisory before booking.
 

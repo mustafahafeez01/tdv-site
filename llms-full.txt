@@ -451,7 +451,7 @@ Source: https://traveldocumentvault.com/blog/damaged-passport-travel/
 - **Not all wear is damage.** A creased cover is fine. Water damage, torn pages, or smudged security features are not.
 - Airlines refuse boarding if **they think a passport is damaged** - they are liable for boarding an invalid document and will err on the side of caution.
 - Spot damage **days or weeks before** your trip gives you time for emergency renewal. The day before is a crisis.
-- If you are turned away at the gate, **ask your embassy about an emergency travel document** - same-day issuance is possible.
+- If you are turned away at the gate, **ask your embassy about an emergency travel document**.
 - A digital copy is **worth most when you are abroad** - a consular officer can establish who you are from a scan far faster than from your account of it. Scan your passport before you travel.
 
 Most passport damage is cosmetic. A scuffed cover, a softened corner, a frayed edge along the spine; none of that stops anyone boarding. What border staff and airline agents actually check is narrower than most travellers expect: the photo page, the two printed lines beneath it, and whether the booklet still holds together as one document.
@@ -468,7 +468,7 @@ Most critically, the machine-readable zone (the black-and-white stripe at the bo
 
 ![Two open passports side by side: one worn but flat and usable, one water-stained with rippled pages and lifting lamination](https://traveldocumentvault.com/blog/damaged-passport-travel/damage-vs-wear-figure.jpg) Minor creases on the cover: acceptable. Water damage to the data page: a problem.
 
-The reason this matters is that **airlines bear the liability if they board someone with an unacceptable document.** Board with a damaged passport, get refused entry at the far end, and the authorities can fine the airline for carrying you. The airline also has to cover the cost of flying you home.
+The reason this matters is that **airlines bear the liability if they board someone with an unacceptable document.** Board with a damaged passport, get refused entry at the far end, and the authorities can fine the airline for carrying you.
 
 No gate agent wants that paperwork, so they err decisively on the side of caution.
 
@@ -498,8 +498,8 @@ If the damage really is minor, a small crease that doesn't affect any text or se
 
 Once boarding is refused, you have limited options:
 
-- **Rebook on a later flight.** Contact your airline or booking agent and explain what happened; in many cases they'll rebook you at no extra cost once the reason is a damaged document, not a no-show or voluntary cancellation. Use this time to get your passport sorted.
-- **Apply for an emergency travel document.** Contact your nearest embassy or consulate immediately. Explain that you have a confirmed flight and need to travel urgently. If you are still at the airport, many embassies can issue an emergency travel document the same day, but you must act quickly and show proof of your booking.
+- **Rebook on a later flight.** Contact your airline or booking agent and explain what happened; ask whether they can move you to a later flight, and check what the change costs under your fare rules. Use this time to get your passport sorted.
+- **Apply for an emergency travel document.** Contact your nearest embassy or consulate immediately. Explain that you have a confirmed flight and need to travel urgently. Act quickly and have proof of your booking ready. For British nationals, GOV.UK says an emergency travel document is usually ready 2 working days after you apply, and it can take longer in some cases.
 - **Accept the cancellation.** If neither option works and the trip cannot be salvaged, ask your airline what it can do; some will rebook you or offer a credit as goodwill once you explain, though most airline terms treat a document problem as the passenger's own responsibility, so there's no automatic refund to claim.
 
 If the gate agent says no, don't argue and don't try to board anyway. That only creates bigger problems. The airline can bar you from future flights, immigration authorities can fine you, and in some countries they can prosecute you for trying to travel on a document they have already judged invalid.
@@ -2506,11 +2506,12 @@ The following table covers the most common destinations. Policies change, so alw
 | Philippines | 6 months | Plus onward/return ticket required |
 | India | 6 months | Visa also required for most nationalities |
 | Kenya | 6 months | eVisa required; 6-month rule applies |
-| Turkey | 6 months *(recommended)* | Officially 60 days beyond stay; airlines apply 6-month standard |
+| Turkey | 150 days from arrival | UK Foreign Office: expiry date at least 150 days after the date you arrive |
 | EU / Schengen | 3 months beyond departure | Plus a date of issue under 10 years old |
 | United Kingdom | Duration of stay only | UK citizens abroad still subject to destination rules |
 | USA | Duration of stay only | US citizens abroad subject to destination country rules |
-| Japan / Australia / NZ | Duration of stay only | No 6-month extension rule for visitors |
+| Japan / Australia | Duration of stay only | No 6-month extension rule for visitors |
+| New Zealand | 3 months beyond departure | UK Foreign Office: expiry date at least 3 months after the day you plan to leave |
 
 This table is a snapshot, not the full picture: requirements vary by your nationality too, not just the destination, so always check your government's official travel advisory before booking.
 
@@ -3182,8 +3183,8 @@ Source: https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/
 
 ## Key Takeaways
 
-- **Passport stamps are gone.** Since 10 April 2026 the EU's Entry/Exit System records every non-EU traveller's Schengen entries and exits digitally, with fingerprints and a facial image.
-- EES now **detects overstays automatically**. Expect refusal at your next entry, and possibly an entry ban of one to five years.
+- **Passport stamps are gone.** Since 10 April 2026 the EU's Entry/Exit System records every non-EU traveller's Schengen entries and exits digitally, with a facial image and, for most travellers, fingerprints.
+- EES now **detects overstays automatically**. Expect refusal at your next entry, and possibly an entry ban, generally of up to five years.
 - **EES enforces, it doesn't plan.** The EU's EES online tool shows the days you have left, but working out whether a future trip fits your rolling 90/180 window is still your job.
 - The EU's **official short-stay calculator** works, but it's manual - one person, one window, one calculation at a time.
 - Families juggle **a separate window per person**. That's where day-limit tracking in an app earns its place.
@@ -3198,7 +3199,7 @@ Seen "Your remaining authorised stay cannot currently be calculated" in the EU's
 
 ## What Changed at Europe's Borders
 
-EES registers each non-EU traveller's fingerprints, facial image, travel document and exact entry and exit dates. The system had recorded over 52 million border crossings between its phased launch in October 2025 and full operation this spring, and more than 27,000 people were refused entry in that time. First-time registration takes a few minutes at the kiosk, and airports have reported multi-hour queues at peak times this summer while everyone gets used to it.
+EES registers each non-EU traveller's fingerprints, facial image, travel document and exact entry and exit dates. When EES became fully operational on 10 April 2026, the European Commission said it had registered more than 52 million entries and exits since the phased launch in October 2025, with over 27,000 refusals of entry. First-time registration takes a few minutes at the kiosk, and airports have reported multi-hour queues at peak times this summer while everyone gets used to it.
 
 Not everyone is registered. EU citizens, residents of Schengen countries and long-stay visa holders are exempt. If you're visiting on the visa-free short-stay allowance - most British, American, Canadian and Australian travellers, for instance - EES applies to you.
 
@@ -3208,7 +3209,7 @@ The rule itself hasn't changed: you may spend at most 90 days inside the Schenge
 
 ![Hand-drawn diagram of the Schengen 90/180 rolling window: a timeline from 180 days ago to today holding two trips of 30 and 45 days, totalling 75 of 90 days used, with a note that the window slides every day and that arrival and departure days both count](https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/90-180-window.jpg) The window never resets: for every single day, the previous 180 days may hold at most 90 days of stay.
 
-What has changed is enforcement. Under passport stamps, proving an overstay meant deciphering faded ink, and border officers had discretion. Now the dates are exact, and the system flags an overstay the moment it happens. Expect refusal at your next entry, and in many cases an entry ban of one to five years, which officials record in the Schengen Information System. The margin for error has gone from fuzzy to zero.
+What has changed is enforcement. Under passport stamps, proving an overstay meant deciphering faded ink, and border officers had discretion. Now the dates are exact, and the system flags an overstay the moment it happens. Expect refusal at your next entry, and in some cases an entry ban, generally of up to five years, which officials record in the Schengen Information System. The margin for error has gone from fuzzy to zero.
 
 ## The Catch: EES Enforces, It Doesn't Plan
 
@@ -3226,7 +3227,7 @@ Being exempt from EES isn't the same as being exempt from the 90/180 rule, thoug
 
 ## What Happens at Your First EES Crossing
 
-The system creates your record at your first crossing into the Schengen area. You'll queue at a biometric kiosk at the border - airport, port, or land crossing. An officer scans your passport or travel document to check your identity. The system captures your facial image and takes your fingerprints from both hands. It takes longer than the passport stamp it replaces, and you only do it once.
+The system creates your record at your first crossing into the Schengen area. You'll queue at a biometric kiosk at the border - airport, port, or land crossing. An officer scans your passport or travel document to check your identity. The system captures your facial image. If you don't need a visa, it also takes four fingerprints; if you travel on a short-stay visa, it stores only your facial image, since your fingerprints were taken when you applied. It takes longer than the passport stamp it replaces, and you only do it once.
 
 Once registered, the system records your exact entry date and time. If you later exceed your 90 days in 180, this timestamp becomes the reference point EES uses to calculate your rolling window.
 
@@ -3290,7 +3291,7 @@ The digital border is thorough, automatic and unsentimental, but staying inside 
 
 ### What happens if I overstay the Schengen 90/180 rule by one day?
 
-EES records every entry and exit digitally, so even a short overstay is flagged automatically. You can expect refusal the next time you try to enter the Schengen area, and depending on the circumstances an entry ban of one to five years is possible. Accurate day counting matters more than it ever did.
+EES records every entry and exit digitally, so even a short overstay is flagged automatically. You can expect refusal the next time you try to enter the Schengen area. Depending on the circumstances, an entry ban is also possible, and under EU rules it generally doesn't exceed five years. Accurate day counting matters more than it ever did.
 
 ### Can I check how many Schengen days I have left after entering?
 
