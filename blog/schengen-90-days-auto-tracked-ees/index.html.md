@@ -20,6 +20,10 @@ On your last trip to Europe you probably collected a stamp at the border. That s
 
 For anyone who counts Schengen days - and every non-EU visitor should - this changes the stakes considerably. Here's what the new system actually does, what it deliberately doesn't do, and how to keep your own count so a border never surprises you.
 
+Seen "Your remaining authorised stay cannot currently be calculated" in the EU's online checker? Our short video explains it in under a minute, and the full answer is further down.
+
+![Preview of our short video: the EU tool message saying your remaining authorised stay cannot currently be calculated](https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/short-poster.jpg) The short version, in under a minute. Voices are AI-generated. The video plays from YouTube and loads only when you press play, at which point YouTube may set cookies.
+
 ## What Changed at Europe's Borders
 
 EES registers each non-EU traveller's fingerprints, facial image, travel document and exact entry and exit dates. The system had recorded over 52 million border crossings between its phased launch in October 2025 and full operation this spring, and more than 27,000 people were refused entry in that time. First-time registration takes a few minutes at the kiosk, and airports have reported multi-hour queues at peak times this summer while everyone gets used to it.
