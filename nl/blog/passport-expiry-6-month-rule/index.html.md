@@ -54,11 +54,12 @@ Onderstaande tabel bevat de meest voorkomende bestemmingen. Beleid verandert, du
 | Filipijnen | 6 maanden | Plus een aansluitend of retourticket vereist |
 | India | 6 maanden | Ook een visum vereist voor de meeste nationaliteiten |
 | Kenia | 6 maanden | eVisum vereist; 6 maanden-regel is van toepassing |
-| Turkije | 6 maanden *(aanbevolen)* | Officieel 60 dagen na verblijf; luchtvaartmaatschappijen hanteren de 6 maanden-norm |
+| Turkije | 150 dagen vanaf aankomst | Britse Foreign Office: vervaldatum minstens 150 dagen na de dag van aankomst |
 | EU / Schengen | 3 maanden na vertrek | Plus een afgiftedatum van minder dan 10 jaar oud |
 | Verenigd Koninkrijk | Alleen verblijfsduur | Britse burgers in het buitenland vallen nog steeds onder de regels van het bestemmingsland |
 | VS | Alleen verblijfsduur | Amerikaanse burgers in het buitenland vallen onder de regels van het bestemmingsland |
-| Japan / Australië / Nieuw-Zeeland | Alleen verblijfsduur | Geen 6 maanden-verlengingsregel voor bezoekers |
+| Japan / Australië | Alleen verblijfsduur | Geen 6 maanden-verlengingsregel voor bezoekers |
+| Nieuw-Zeeland | 3 maanden na vertrek | Britse Foreign Office: vervaldatum minstens 3 maanden na de dag waarop je van plan bent te vertrekken |
 
 Deze tabel is een momentopname, niet het volledige beeld: vereisten verschillen ook per nationaliteit, niet alleen per bestemming, dus controleer altijd het officiële reisadvies van je overheid voordat je boekt.
 

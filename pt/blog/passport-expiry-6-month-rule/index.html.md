@@ -54,11 +54,12 @@ A tabela seguinte cobre os destinos mais comuns. As políticas mudam, portanto s
 | Filipinas | 6 meses | Mais bilhete de regresso/viagem necessário |
 | Índia | 6 meses | Visto também exigido para a maioria das nacionalidades |
 | Quénia | 6 meses | eVisto exigido; regra dos 6 meses aplica-se |
-| Turquia | 6 meses *(recomendado)* | Oficialmente 60 dias para além da estadia; as companhias aéreas aplicam o padrão de 6 meses |
+| Turquia | 150 dias a partir da chegada | Foreign Office do Reino Unido: data de validade pelo menos 150 dias após a data de chegada |
 | UE / Schengen | 3 meses além da partida | Mais uma data de emissão com menos de 10 anos |
 | Reino Unido | Duração da estadia apenas | Cidadãos britânicos no estrangeiro ainda sujeitos às regras do país de destino |
 | EUA | Duração da estadia apenas | Cidadãos norte-americanos no estrangeiro sujeitos às regras do país de destino |
-| Japão / Austrália / Nova Zelândia | Duração da estadia apenas | Nenhuma regra de extensão de 6 meses para visitantes |
+| Japão / Austrália | Duração da estadia apenas | Nenhuma regra de extensão de 6 meses para visitantes |
+| Nova Zelândia | 3 meses além da partida | Foreign Office do Reino Unido: data de validade pelo menos 3 meses após o dia em que planeia partir |
 
 Isto não é uma lista exaustiva, e os requisitos variam conforme a sua nacionalidade — não apenas o destino. Sempre verifique o aviso de viagem oficial do seu governo antes de fazer uma reserva.
 

@@ -13,7 +13,7 @@ Source: https://traveldocumentvault.com/da/blog/damaged-passport-travel/
 - **Ikke al slitage er skade.** En krøllet forside er fint. Vandskade, iturevne sider eller udviskede sikkerhedselementer er det ikke.
 - Luftfartsselskaber afviser boarding, hvis de mener et pas er beskadiget – **de hæfter for at lade en person boarde med et ugyldigt dokument** og vælger derfor forsigtighed frem for risiko.
 - Opdager du skaden **dage eller uger før** din rejse, har du tid til en hasteudstedelse. Opdager du den dagen før, er det en krise.
-- Bliver du afvist ved gaten, **så spørg din ambassade om et nødrejsedokument** – det kan i mange tilfælde udstedes samme dag.
+- Bliver du afvist ved gaten, **så spørg din ambassade om et nødrejsedokument**.
 - En digital kopi er **mest værd, når du er i udlandet** – en konsulær medarbejder kan bekræfte din identitet ud fra en scanning langt hurtigere end ud fra din egen forklaring. Scan dit pas, før du rejser.
 
 De fleste pasbeskadigelser er kosmetiske. Et slidt omslag, et blødt hjørne, en flosset kant langs ryggen – intet af det forhindrer nogen i at boarde. Det, grænsepersonale og luftfartsselskabernes medarbejdere reelt tjekker, er mere snævert, end de fleste rejsende regner med: datasiden, de to trykte linjer nedenunder, og om hæftet stadig hænger sammen som ét dokument.
@@ -30,7 +30,7 @@ Allervigtigst er det, at den maskinlæsbare zone – den sort-hvide stribe neder
 
 ![To åbne pas side om side: ét slidt, men fladt og brugbart, og ét vandskadet med bølgede sider og løsnet laminering](https://traveldocumentvault.com/blog/damaged-passport-travel/damage-vs-wear-figure.jpg) Små folder i omslaget: accepteret. Vandskade på datasiden: et problem.
 
-Grunden til, at dette betyder noget, er, at **luftfartsselskaberne hæfter, hvis de lader nogen boarde med et uacceptabelt dokument.** Boarder du med et beskadiget pas og bliver nægtet indrejse i den anden ende, kan myndighederne bøde luftfartsselskabet for at have fragtet dig. Luftfartsselskabet skal også betale for at flyve dig hjem igen.
+Grunden til, at dette betyder noget, er, at **luftfartsselskaberne hæfter, hvis de lader nogen boarde med et uacceptabelt dokument.** Boarder du med et beskadiget pas og bliver nægtet indrejse i den anden ende, kan myndighederne bøde luftfartsselskabet for at have fragtet dig.
 
 Ingen gateopvartere ønsker det papirarbejde, så de vælger klart forsigtighed.
 
@@ -58,8 +58,8 @@ Er skaden virkelig minimal, en lille rynke, der ikke påvirker tekst eller sikke
 
 Bliver boarding afvist, har du få muligheder:
 
-- **Ombook til et senere fly.** Kontakt dit luftfartsselskab eller rejsebureau, og forklar hvad der er sket. I mange tilfælde ombooker de dig uden ekstra omkostning, når årsagen er et beskadiget dokument (og ikke udeblivelse eller frivillig afbestilling). Brug tiden til at få styr på dit pas.
-- **Ansøg om et nødrejsedokument.** Kontakt straks din nærmeste ambassade eller konsulat. Forklar, at du har en bekræftet flybillet og har brug for at rejse hurtigt. Er du stadig i lufthavnen, kan mange ambassader udstede et nødrejsedokument samme dag – men du skal handle hurtigt og fremvise dokumentation for din booking.
+- **Ombook til et senere fly.** Kontakt dit luftfartsselskab eller rejsebureau, og forklar hvad der er sket. Spørg, om de kan flytte dig til et senere fly, og tjek, hvad ændringen koster under dine billetvilkår. Brug tiden til at få styr på dit pas.
+- **Ansøg om et nødrejsedokument.** Kontakt straks din nærmeste ambassade eller konsulat. Forklar, at du har en bekræftet flybillet og har brug for at rejse hurtigt. Handl hurtigt, og hav dokumentation for din booking klar. For britiske statsborgere oplyser GOV.UK, at et nødrejsedokument som regel er klart 2 arbejdsdage efter ansøgningen, og det kan i nogle tilfælde tage længere tid.
 - **Acceptér aflysningen.** Virker ingen af de andre muligheder, og kan rejsen ikke reddes, så spørg dit luftfartsselskab, hvad de kan gøre. Nogle ombooker dig eller tilbyder en kredit som god vilje, når du forklarer situationen. De fleste luftfartsselskabers vilkår betragter dog et dokumentproblem som passagerens eget ansvar, så der er ikke automatisk krav på refusion.
 
 Siger gateopvarteren nej, så undlad at diskutere, og forsøg ikke at boarde alligevel. Det skaber kun større problemer. Luftfartsselskabet kan udelukke dig fra fremtidige flyvninger, immigrationsmyndighederne kan bøde dig, og i nogle lande kan du blive retsforfulgt for at forsøge at rejse på et dokument, de allerede har vurderet ugyldigt.

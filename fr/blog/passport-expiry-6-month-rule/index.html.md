@@ -54,11 +54,12 @@ Le tableau suivant couvre les destinations les plus courantes. Les politiques ch
 | Philippines | 6 mois | Plus billet de continuation/retour requis |
 | Inde | 6 mois | Visa également requis pour la plupart des nationalités |
 | Kenya | 6 mois | Visa électronique requis ; règle des 6 mois s'applique |
-| Turquie | 6 mois *(recommandé)* | Officiellement 60 jours après le séjour ; les compagnies aériennes appliquent la norme des 6 mois |
+| Turquie | 150 jours à compter de l'arrivée | Foreign Office britannique : date d'expiration au moins 150 jours après la date de votre arrivée |
 | UE / Schengen | 3 mois au-delà du départ | Plus une date de délivrance de moins de 10 ans |
 | Royaume-Uni | Durée du séjour uniquement | Les citoyens britanniques à l'étranger restent soumis aux règles du pays de destination |
 | États-Unis | Durée du séjour uniquement | Les citoyens américains à l'étranger restent soumis aux règles du pays de destination |
-| Japon / Australie / NZ | Durée du séjour uniquement | Aucune règle d'extension de 6 mois pour les visiteurs |
+| Japon / Australie | Durée du séjour uniquement | Aucune règle d'extension de 6 mois pour les visiteurs |
+| Nouvelle-Zélande | 3 mois après le départ | Foreign Office britannique : date d'expiration au moins 3 mois après le jour de votre départ prévu |
 
 Ce n'est pas une liste exhaustive, et les exigences varient selon votre nationalité — pas seulement selon la destination. Vérifiez toujours l'avis de voyage officiel de votre gouvernement avant de réserver.
 

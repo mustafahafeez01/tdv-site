@@ -10,8 +10,8 @@ Source: https://traveldocumentvault.com/id/blog/schengen-90-days-auto-tracked-ee
 
 ## Poin Penting
 
-- **Stempel paspor sudah tidak ada lagi.** Sejak 10 April 2026, Sistem Masuk/Keluar (EES) Uni Eropa mencatat setiap masuk dan keluar Schengen pelancong non-UE secara digital, lengkap dengan sidik jari dan gambar wajah.
-- EES kini **mendeteksi kelebihan tinggal secara otomatis**. Bersiaplah menghadapi penolakan pada kunjungan berikutnya, dan kemungkinan larangan masuk selama satu hingga lima tahun.
+- **Stempel paspor sudah tidak ada lagi.** Sejak 10 April 2026, Sistem Masuk/Keluar (EES) Uni Eropa mencatat setiap masuk dan keluar Schengen pelancong non-UE secara digital, lengkap dengan gambar wajah dan, untuk sebagian besar pelancong, sidik jari.
+- EES kini **mendeteksi kelebihan tinggal secara otomatis**. Bersiaplah menghadapi penolakan pada kunjungan berikutnya, dan kemungkinan larangan masuk, umumnya hingga lima tahun.
 - **EES menegakkan aturan, bukan merencanakan.** Alat daring EES dari UE menampilkan sisa hari Anda, tapi memastikan apakah perjalanan mendatang muat dalam jendela 90/180 bergulir Anda tetap menjadi tugas Anda sendiri.
 - **Kalkulator resmi tinggal singkat** dari UE berfungsi, tapi manual — satu orang, satu jendela, satu perhitungan setiap kali.
 - Keluarga harus mengelola **jendela terpisah untuk setiap anggota**. Di sinilah pelacakan batas hari dalam sebuah aplikasi benar-benar berguna.
@@ -22,7 +22,7 @@ Bagi siapa pun yang menghitung hari Schengen, dan setiap pengunjung non-UE sehar
 
 ## Apa yang Berubah di Perbatasan Eropa
 
-EES mencatat sidik jari, gambar wajah, dokumen perjalanan, serta tanggal masuk dan keluar yang tepat dari setiap pelancong non-UE. Sistem ini telah mencatat lebih dari 52 juta lintas batas antara peluncuran bertahap pada Oktober 2025 dan operasi penuh musim semi ini, dan lebih dari 27.000 orang ditolak masuk selama periode tersebut. Registrasi pertama kali memakan waktu beberapa menit di kios, dan bandara melaporkan antrean berjam-jam pada jam sibuk musim panas ini sementara semua orang masih menyesuaikan diri.
+EES mencatat sidik jari, gambar wajah, dokumen perjalanan, serta tanggal masuk dan keluar yang tepat dari setiap pelancong non-UE. Saat EES beroperasi penuh pada 10 April 2026, Komisi Eropa menyatakan bahwa sistem ini telah mencatat lebih dari 52 juta masuk dan keluar sejak peluncuran bertahap pada Oktober 2025, dengan lebih dari 27.000 penolakan masuk. Registrasi pertama kali memakan waktu beberapa menit di kios, dan bandara melaporkan antrean berjam-jam pada jam sibuk musim panas ini sementara semua orang masih menyesuaikan diri.
 
 Tidak semua orang didaftarkan. Warga negara UE, penduduk negara Schengen, dan pemegang visa tinggal lama dikecualikan. Jika Anda berkunjung dengan fasilitas tinggal singkat bebas visa — misalnya sebagian besar pelancong Inggris, Amerika, Kanada, dan Australia — EES berlaku bagi Anda.
 
@@ -32,7 +32,7 @@ Aturannya sendiri tidak berubah: Anda boleh berada di kawasan Schengen paling la
 
 ![Diagram garis waktu jendela bergulir 90/180 Schengen: dari 180 hari lalu sampai hari ini, dua perjalanan 30 dan 45 hari memakai 75 dari 90 hari, menyisakan 15; jendelanya bergeser setiap hari dan hari kedatangan serta keberangkatan sama-sama dihitung](https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/90-180-window-id.jpg) Jendelanya tidak pernah direset: untuk setiap hari, 180 hari sebelumnya paling banyak boleh berisi 90 hari masa tinggal.
 
-Yang berubah adalah penegakannya. Dengan stempel paspor, membuktikan kelebihan tinggal berarti menerjemahkan tinta yang memudar, dan petugas perbatasan punya keleluasaan. Sekarang tanggalnya tepat, dan sistem menandai kelebihan tinggal pada saat itu juga terjadi. Bersiaplah menghadapi penolakan pada kunjungan berikutnya, dan dalam banyak kasus larangan masuk selama satu hingga lima tahun, yang dicatat pihak berwenang dalam Sistem Informasi Schengen. Margin kesalahan telah berubah dari kabur menjadi nol.
+Yang berubah adalah penegakannya. Dengan stempel paspor, membuktikan kelebihan tinggal berarti menerjemahkan tinta yang memudar, dan petugas perbatasan punya keleluasaan. Sekarang tanggalnya tepat, dan sistem menandai kelebihan tinggal pada saat itu juga terjadi. Bersiaplah menghadapi penolakan pada kunjungan berikutnya, dan dalam beberapa kasus larangan masuk, umumnya hingga lima tahun, yang dicatat pihak berwenang dalam Sistem Informasi Schengen. Margin kesalahan telah berubah dari kabur menjadi nol.
 
 ## Masalahnya: EES Menegakkan Aturan, Bukan Merencanakan
 
@@ -48,7 +48,7 @@ Jika Anda warga negara UE, EEA, atau Swiss, Anda dikecualikan. Paspor Anda tidak
 
 ## Yang Terjadi pada Pelintasan EES Pertama Anda
 
-Sistem membuat catatan Anda pada pelintasan pertama ke wilayah Schengen. Anda akan mengantre di kios biometrik di perbatasan, baik itu bandara, pelabuhan, maupun perlintasan darat. Petugas memindai paspor atau dokumen perjalanan Anda untuk memeriksa identitas. Sistem merekam gambar wajah Anda dan mengambil sidik jari dari kedua tangan Anda. Prosesnya memakan waktu lebih lama daripada cap paspor yang digantikannya, tetapi Anda hanya melakukannya sekali.
+Sistem membuat catatan Anda pada pelintasan pertama ke wilayah Schengen. Anda akan mengantre di kios biometrik di perbatasan, baik itu bandara, pelabuhan, maupun perlintasan darat. Petugas memindai paspor atau dokumen perjalanan Anda untuk memeriksa identitas. Sistem merekam gambar wajah Anda. Jika Anda tidak memerlukan visa, sistem juga mengambil empat sidik jari; jika Anda bepergian dengan visa tinggal singkat, sistem hanya menyimpan gambar wajah Anda, karena sidik jari Anda sudah diambil saat Anda mengajukan visa. Prosesnya memakan waktu lebih lama daripada cap paspor yang digantikannya, tetapi Anda hanya melakukannya sekali.
 
 Setelah terdaftar, sistem mencatat tanggal dan waktu masuk Anda secara tepat. Jika kemudian Anda melebihi 90 hari dari 180 hari, catatan waktu ini menjadi titik acuan yang digunakan EES untuk menghitung jendela bergulir Anda.
 
@@ -108,7 +108,7 @@ Perbatasan digital ini menyeluruh, otomatis, dan tanpa kompromi, tapi tetap bera
 
 ### Apa yang terjadi jika saya melebihi aturan 90/180 Schengen satu hari saja?
 
-EES mencatat setiap masuk dan keluar secara digital, sehingga bahkan kelebihan tinggal singkat pun ditandai secara otomatis. Anda bisa mengharapkan penolakan pada saat berikutnya mencoba masuk ke kawasan Schengen, dan tergantung pada situasinya, larangan masuk selama satu hingga lima tahun mungkin terjadi. Penghitungan hari yang akurat kini lebih penting dari sebelumnya.
+EES mencatat setiap masuk dan keluar secara digital, sehingga bahkan kelebihan tinggal singkat pun ditandai secara otomatis. Anda bisa mengharapkan penolakan pada saat berikutnya mencoba masuk ke kawasan Schengen, dan tergantung pada situasinya, larangan masuk juga mungkin terjadi, yang menurut aturan UE umumnya tidak melebihi lima tahun. Penghitungan hari yang akurat kini lebih penting dari sebelumnya.
 
 ### Bisakah saya memeriksa berapa hari Schengen tersisa setelah saya masuk?
 

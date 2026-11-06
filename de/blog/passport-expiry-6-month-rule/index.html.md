@@ -54,11 +54,12 @@ Die folgende Tabelle deckt die häufigsten Ziele ab. Richtlinien ändern sich, a
 | Philippines | 6 Monate | Zusätzlich Weiter-/Rückflugticket erforderlich |
 | India | 6 Monate | Visum auch für die meisten Nationalitäten erforderlich |
 | Kenya | 6 Monate | eVisa erforderlich; Sechsmonats-Regel gilt |
-| Turkey | 6 Monate *(empfohlen)* | Offiziell 60 Tage über Aufenthalt hinaus; Airlines wenden Sechsmonats-Standard an |
+| Turkey | 150 Tage ab Ankunft | Britisches Foreign Office: Ablaufdatum mindestens 150 Tage nach dem Ankunftsdatum |
 | EU / Schengen | 3 Monate über die Abreise hinaus | Plus ein Ausstellungsdatum unter 10 Jahren |
 | Vereinigtes Königreich | Nur Aufenthaltsdauer | Britische Bürger im Ausland unterliegen immer noch den Regeln des Ziellandes |
 | USA | Nur Aufenthaltsdauer | Amerikanische Bürger im Ausland unterliegen den Regeln des Ziellandes |
-| Japan / Australien / Neuseeland | Nur Aufenthaltsdauer | Keine Sechsmonats-Erweiterungsregel für Besucher |
+| Japan / Australien | Nur Aufenthaltsdauer | Keine Sechsmonats-Erweiterungsregel für Besucher |
+| Neuseeland | 3 Monate über die Abreise hinaus | Britisches Foreign Office: Ablaufdatum mindestens 3 Monate nach dem geplanten Abreisetag |
 
 Dies ist keine umfassende Liste, und die Anforderungen variieren je nach Ihrer Nationalität – nicht nur je nach Ziel. Überprüfen Sie immer Ihre offizielle Reisewarnung der Regierung, bevor Sie buchen.
 

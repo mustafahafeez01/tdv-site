@@ -10,8 +10,8 @@ Source: https://traveldocumentvault.com/de/blog/schengen-90-days-auto-tracked-ee
 
 ## Wichtigste Erkenntnisse
 
-- **Reisepassstempel gehören der Vergangenheit an.** Seit 10. April 2026 erfasst das Einreise-/Ausreisesystem (EES) der EU jeden Schengen-Ein- und Ausreisedatensatz von Nicht-EU-Reisenden digital, einschließlich Fingerabdrücken und Gesichtsbild.
-- Das EES **erkennt Überschreitungen automatisch.** Erwarten Sie bei Ihrer nächsten Einreise eine Verweigerung, möglicherweise sogar ein Einreiseverbot von ein bis fünf Jahren.
+- **Reisepassstempel gehören der Vergangenheit an.** Seit 10. April 2026 erfasst das Einreise-/Ausreisesystem (EES) der EU jeden Schengen-Ein- und Ausreisedatensatz von Nicht-EU-Reisenden digital, mit Gesichtsbild und, bei den meisten Reisenden, Fingerabdrücken.
+- Das EES **erkennt Überschreitungen automatisch.** Erwarten Sie bei Ihrer nächsten Einreise eine Verweigerung, möglicherweise sogar ein Einreiseverbot, in der Regel von bis zu fünf Jahren.
 - **Das EES erzwingt, es plant nicht.** Das EES-Online-Tool der EU zeigt Ihre verbleibenden Tage an, aber ob eine zukünftige Reise in Ihr rollierendes 90/180-Fenster passt, müssen Sie weiterhin selbst herausfinden.
 - Der offizielle **Kurzaufenthaltsrechner der EU** funktioniert, aber er ist manuell – eine Person, ein Fenster, eine Berechnung nach der anderen.
 - Familien verwalten **ein separates Fenster pro Person.** Hier kommt eine Tracking-App zur Hilfe.
@@ -22,7 +22,7 @@ Für alle, die Schengen-Tage zählen – und jeder Nicht-EU-Besucher sollte das 
 
 ## Was sich an Europas Grenzen geändert hat
 
-Das EES erfasst Fingerabdrücke, Gesichtsbild, Reisedokument sowie genaue Ein- und Ausreisedaten jedes Nicht-EU-Reisenden. Das System verzeichnete zwischen seinem gestaffelten Start im Oktober 2025 und dem vollständigen Betrieb im Frühjahr dieses Jahres über 52 Millionen Grenzübertritte, und mehr als 27.000 Personen wurde in dieser Zeit die Einreise verweigert. Die Erstregistrierung dauert an den Schaltern einige Minuten, und an Flughäfen wurden mehrstündige Warteschlangen während der Spitzenzeiten dieses Sommers berichtet, während sich alle ans System gewöhnen.
+Das EES erfasst Fingerabdrücke, Gesichtsbild, Reisedokument sowie genaue Ein- und Ausreisedaten jedes Nicht-EU-Reisenden. Als das EES am 10. April 2026 den vollständigen Betrieb aufnahm, gab die Europäische Kommission an, seit dem gestaffelten Start im Oktober 2025 mehr als 52 Millionen Ein- und Ausreisen registriert zu haben, dazu über 27.000 Einreiseverweigerungen. Die Erstregistrierung dauert an den Schaltern einige Minuten, und an Flughäfen wurden mehrstündige Warteschlangen während der Spitzenzeiten dieses Sommers berichtet, während sich alle ans System gewöhnen.
 
 Nicht alle sind registriert. EU-Bürger, Bewohner von Schengen-Ländern und Inhaber von Langaufenthaltsvisas sind befreit. Wenn Sie im Rahmen der visumfreien Kurzaufenthaltsberechtigung reisen – dies trifft beispielsweise auf die meisten britischen, amerikanischen, kanadischen und australischen Reisenden zu – gilt das EES für Sie.
 
@@ -32,7 +32,7 @@ Die Regel selbst hat sich nicht geändert: Sie dürfen sich maximal 90 Tage inne
 
 ![Zeitstrahl-Diagramm zum rollierenden 90/180-Schengen-Fenster: von vor 180 Tagen bis heute verbrauchen zwei Reisen von 30 und 45 Tagen 75 der 90 Tage, es bleiben 15; das Fenster verschiebt sich jeden Tag, und An- und Abreisetag zählen beide](https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/90-180-window-de.jpg) Das Fenster setzt sich nie zurück: für jeden einzelnen Tag dürfen die vorherigen 180 Tage höchstens 90 Aufenthaltstage enthalten.
 
-Was sich geändert hat, ist die Kontrolle. Unter Reisepassstempeln bedeutete der Nachweis einer Überschreitung, verwischte Tinte zu entziffern, und Grenzbeamte hatten einen gewissen Spielraum. Jetzt sind die Daten exakt, und das System flaggt eine Überschreitung in dem Moment, in dem sie passiert. Erwarten Sie Verweigerung bei Ihrer nächsten Einreise, und in vielen Fällen ein Einreiseverbot von ein bis fünf Jahren, das Beamte ins Schengen-Informationssystem eintragen. Der Spielraum für Fehler ist von unklar zu null gesunken.
+Was sich geändert hat, ist die Kontrolle. Unter Reisepassstempeln bedeutete der Nachweis einer Überschreitung, verwischte Tinte zu entziffern, und Grenzbeamte hatten einen gewissen Spielraum. Jetzt sind die Daten exakt, und das System flaggt eine Überschreitung in dem Moment, in dem sie passiert. Erwarten Sie Verweigerung bei Ihrer nächsten Einreise, und in manchen Fällen ein Einreiseverbot, in der Regel von bis zu fünf Jahren, das Beamte ins Schengen-Informationssystem eintragen. Der Spielraum für Fehler ist von unklar zu null gesunken.
 
 ## Der Haken: Das EES erzwingt, es plant nicht
 
@@ -48,7 +48,7 @@ Wenn Sie EU-, EWR- oder Schweizer Bürger sind, sind Sie ausgenommen - Ihr Reise
 
 ## Was bei Ihrer ersten EES-Grenzkontrolle passiert
 
-Das System legt Ihre Akte bei Ihrer ersten Einreise in den Schengen-Raum an. Sie stellen sich an einem biometrischen Kiosk an der Grenze an - Flughafen, Hafen oder Landgrenzübergang. Ein Beamter scannt Ihren Reisepass oder Ihr Reisedokument, um Ihre Identität zu prüfen. Das System erfasst Ihr Gesichtsbild und nimmt Fingerabdrücke beider Hände. Das dauert länger als der Stempel, den es ersetzt, und Sie tun es nur einmal.
+Das System legt Ihre Akte bei Ihrer ersten Einreise in den Schengen-Raum an. Sie stellen sich an einem biometrischen Kiosk an der Grenze an - Flughafen, Hafen oder Landgrenzübergang. Ein Beamter scannt Ihren Reisepass oder Ihr Reisedokument, um Ihre Identität zu prüfen. Das System erfasst Ihr Gesichtsbild. Brauchen Sie kein Visum, nimmt es zusätzlich vier Fingerabdrücke; reisen Sie mit einem Kurzaufenthaltsvisum, speichert es nur Ihr Gesichtsbild, da Ihre Fingerabdrücke bereits bei der Antragstellung genommen wurden. Das dauert länger als der Stempel, den es ersetzt, und Sie tun es nur einmal.
 
 Nach der Registrierung erfasst das System das genaue Datum und die Uhrzeit Ihrer Einreise. Überschreiten Sie später Ihre 90 von 180 Tagen, wird dieser Zeitstempel zum Referenzpunkt, den das EES zur Berechnung Ihres rollierenden Fensters verwendet.
 
@@ -110,7 +110,7 @@ Die digitale Grenze ist gründlich, automatisch und gefühllos, aber die Einhalt
 
 ### Was passiert, wenn ich die Schengen-90/180-Regel um einen Tag überschreite?
 
-Das EES erfasst jeden Ein- und Ausreisedatensatz digital, sodass selbst eine kurze Überschreitung automatisch registriert wird. Sie müssen bei Ihrer nächsten Einreise in den Schengen-Raum mit einer Verweigerung rechnen, und je nach den Umständen ist ein Einreiseverbot von ein bis fünf Jahren möglich. Genaues Tageszählen ist wichtiger denn je.
+Das EES erfasst jeden Ein- und Ausreisedatensatz digital, sodass selbst eine kurze Überschreitung automatisch registriert wird. Sie müssen bei Ihrer nächsten Einreise in den Schengen-Raum mit einer Verweigerung rechnen, und je nach den Umständen ist auch ein Einreiseverbot möglich, das nach EU-Recht in der Regel fünf Jahre nicht überschreitet. Genaues Tageszählen ist wichtiger denn je.
 
 ### Kann ich nach der Einreise überprüfen, wie viele Schengen-Tage mir noch bleiben?
 

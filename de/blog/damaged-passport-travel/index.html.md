@@ -13,7 +13,7 @@ Source: https://traveldocumentvault.com/de/blog/damaged-passport-travel/
 - **Nicht jede Abnutzung ist ein Schaden.** Ein geknickter Einband ist unproblematisch. Wasserschäden, eingerissene Seiten oder verschmierte Sicherheitsmerkmale sind es nicht.
 - Fluggesellschaften verweigern die Beförderung, wenn **sie einen Pass für beschädigt halten** – sie haften, wenn sie ein ungültiges Dokument befördern, und gehen daher lieber auf Nummer sicher.
 - Wer den Schaden **Tage oder Wochen vorher** entdeckt, hat Zeit für eine Eilerneuerung. Am Tag davor wird es zur Krise.
-- Werden Sie am Gate abgewiesen, **fragen Sie Ihre Botschaft nach einem Notreisedokument** – eine Ausstellung noch am selben Tag ist möglich.
+- Werden Sie am Gate abgewiesen, **fragen Sie Ihre Botschaft nach einem Notreisedokument**.
 - Eine digitale Kopie ist **im Ausland am wertvollsten** – ein Konsularbeamter kann Ihre Identität anhand eines Scans weit schneller feststellen als anhand Ihrer Schilderung. Scannen Sie Ihren Pass, bevor Sie reisen.
 
 Die meisten Passschäden sind rein kosmetisch. Ein zerkratzter Einband, eine weich gewordene Ecke, eine ausgefranste Kante am Buchrücken – nichts davon hindert Sie am Einsteigen. Was Grenzbeamte und Fluggesellschaften tatsächlich prüfen, ist enger gefasst, als die meisten Reisenden erwarten: die Datenseite, die beiden gedruckten Zeilen darunter, und ob das Heft noch als ein zusammenhängendes Dokument zusammenhält.
@@ -30,7 +30,7 @@ Am wichtigsten: Die maschinenlesbare Zone – der schwarz-weiße Streifen am unt
 
 ![Diagramm zweier aufgeschlagener Reisepässe nebeneinander: einer abgenutzt, aber flach und nutzbar, der andere wasserfleckig mit gewellten Seiten und sich lösender Lamination](https://traveldocumentvault.com/blog/damaged-passport-travel/damage-vs-wear-figure.jpg) Leichte Knicke am Einband: unproblematisch. Wasserschaden an der Datenseite: ein Problem.
 
-Der Grund, warum das zählt: **Fluggesellschaften haften, wenn sie jemanden mit einem nicht akzeptablen Dokument befördern.** Wer mit einem beschädigten Pass einsteigt und am Zielort die Einreise verweigert bekommt, sorgt dafür, dass die Behörden die Fluggesellschaft dafür belangen können. Die Airline muss dann auch die Kosten für den Rückflug übernehmen.
+Der Grund, warum das zählt: **Fluggesellschaften haften, wenn sie jemanden mit einem nicht akzeptablen Dokument befördern.** Wer mit einem beschädigten Pass einsteigt und am Zielort die Einreise verweigert bekommt, sorgt dafür, dass die Behörden die Fluggesellschaft dafür belangen können.
 
 Kein Gate-Mitarbeiter will diesen Papierkram, also wird lieber vorsichtshalber abgewiesen.
 
@@ -60,8 +60,8 @@ Ist der Schaden wirklich geringfügig, etwa eine kleine Knickfalte ohne Auswirku
 
 Sobald die Beförderung verweigert wurde, bleiben Ihnen begrenzte Optionen:
 
-- **Auf einen späteren Flug umbuchen.** Wenden Sie sich an Ihre Fluggesellschaft oder Ihr Reisebüro und schildern Sie die Situation. Häufig wird bei einem beschädigten Dokument (kein No-Show, keine freiwillige Stornierung) ohne Aufpreis umgebucht. Nutzen Sie die Zeit, um Ihren Pass zu klären.
-- **Ein Notreisedokument beantragen.** Kontaktieren Sie sofort die nächstgelegene Botschaft oder das Konsulat. Erklären Sie, dass Sie einen bestätigten Flug haben und dringend reisen müssen. Sind Sie noch am Flughafen, stellen viele Botschaften noch am selben Tag ein Notreisedokument aus – aber Sie müssen schnell handeln und Ihre Buchung nachweisen.
+- **Auf einen späteren Flug umbuchen.** Wenden Sie sich an Ihre Fluggesellschaft oder Ihr Reisebüro und schildern Sie die Situation. Fragen Sie, ob man Sie auf einen späteren Flug umbuchen kann, und prüfen Sie, was die Umbuchung nach Ihren Tarifbedingungen kostet. Nutzen Sie die Zeit, um Ihren Pass zu klären.
+- **Ein Notreisedokument beantragen.** Kontaktieren Sie sofort die nächstgelegene Botschaft oder das Konsulat. Erklären Sie, dass Sie einen bestätigten Flug haben und dringend reisen müssen. Handeln Sie schnell und halten Sie Ihren Buchungsnachweis bereit. Für britische Staatsangehörige gilt laut GOV.UK: Ein Notreisedokument ist in der Regel 2 Werktage nach der Antragstellung fertig, in manchen Fällen kann es länger dauern.
 - **Die Stornierung akzeptieren.** Funktioniert keine der beiden Optionen und lässt sich die Reise nicht retten, fragen Sie Ihre Fluggesellschaft, was sie tun kann. Manche buchen aus Kulanz um oder bieten ein Guthaben an, wenn Sie die Umstände erklären. Die meisten Beförderungsbedingungen behandeln ein Dokumentenproblem allerdings als Sache des Fluggasts, eine automatische Erstattung gibt es also nicht.
 
 Sagt der Gate-Mitarbeiter Nein, streiten Sie nicht und versuchen Sie nicht trotzdem einzusteigen. Das schafft nur größere Probleme. Die Fluggesellschaft kann Sie von künftigen Flügen ausschließen, die Einwanderungsbehörden können Sie mit einem Bußgeld belegen, und in manchen Ländern drohen sogar strafrechtliche Konsequenzen, wenn Sie versuchen, mit einem bereits für ungültig erklärten Dokument zu reisen.

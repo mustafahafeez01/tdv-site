@@ -54,11 +54,12 @@ La seguente tabella copre le destinazioni più comuni. Le politiche cambiano, qu
 | Filippine | 6 mesi | Più biglietto di ritorno o prosecuzione richiesto |
 | India | 6 mesi | Visto anche richiesto per la maggior parte delle nazionalità |
 | Kenya | 6 mesi | eVisa richiesto; regola dei 6 mesi si applica |
-| Turchia | 6 mesi *(consigliato)* | Ufficialmente 60 giorni oltre il soggiorno; le compagnie aeree applicano lo standard di 6 mesi |
+| Turchia | 150 giorni dall'arrivo | Ministero degli Esteri britannico: scadenza almeno 150 giorni dopo la data di arrivo |
 | UE / Schengen | 3 mesi oltre la partenza | Più una data di rilascio inferiore a 10 anni |
 | Regno Unito | Durata del soggiorno soltanto | I cittadini del Regno Unito all'estero rimangono soggetti alle regole del paese di destinazione |
 | Stati Uniti | Durata del soggiorno soltanto | I cittadini statunitensi all'estero rimangono soggetti alle regole del paese di destinazione |
-| Giappone / Australia / Nuova Zelanda | Durata del soggiorno soltanto | Nessuna regola di estensione di 6 mesi per i visitatori |
+| Giappone / Australia | Durata del soggiorno soltanto | Nessuna regola di estensione di 6 mesi per i visitatori |
+| Nuova Zelanda | 3 mesi oltre la partenza | Ministero degli Esteri britannico: scadenza almeno 3 mesi dopo il giorno in cui prevedi di partire |
 
 Questo non è un elenco esaustivo, e i requisiti variano in base alla vostra nazionalità — non solo alla destinazione. Controllate sempre l'avviso di viaggio ufficiale del vostro governo prima di prenotare.
 

@@ -54,11 +54,12 @@ Tabel berikut mencakup tujuan paling umum. Kebijakan bisa berubah, jadi selalu p
 | Filipina | 6 bulan | Ditambah tiket lanjutan/pulang wajib disertakan |
 | India | 6 bulan | Visa juga diperlukan untuk sebagian besar kewarganegaraan |
 | Kenya | 6 bulan | eVisa diperlukan; aturan 6 bulan berlaku |
-| Turki | 6 bulan *(disarankan)* | Secara resmi 60 hari setelah masa tinggal; maskapai menerapkan standar 6 bulan |
+| Turki | 150 hari sejak kedatangan | Kantor Luar Negeri Inggris: tanggal kedaluwarsa paling sedikit 150 hari setelah tanggal Anda tiba |
 | UE / Schengen | 3 bulan setelah keberangkatan | Ditambah tanggal penerbitan di bawah 10 tahun |
 | Inggris Raya | Hanya durasi kunjungan | Warga negara Inggris di luar negeri tetap tunduk pada aturan negara tujuan |
 | AS | Hanya durasi kunjungan | Warga negara AS di luar negeri tunduk pada aturan negara tujuan |
-| Jepang / Australia / Selandia Baru | Hanya durasi kunjungan | Tidak ada aturan perpanjangan 6 bulan untuk pengunjung |
+| Jepang / Australia | Hanya durasi kunjungan | Tidak ada aturan perpanjangan 6 bulan untuk pengunjung |
+| Selandia Baru | 3 bulan setelah keberangkatan | Kantor Luar Negeri Inggris: tanggal kedaluwarsa paling sedikit 3 bulan setelah hari Anda berencana pergi |
 
 Tabel ini hanyalah gambaran sekilas, bukan gambaran lengkap: persyaratan juga bervariasi menurut kewarganegaraan Anda, tidak hanya negara tujuan, jadi selalu periksa nasihat perjalanan resmi dari pemerintah Anda sebelum memesan.
 

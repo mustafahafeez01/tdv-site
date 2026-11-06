@@ -10,8 +10,8 @@ Source: https://traveldocumentvault.com/da/blog/schengen-90-days-auto-tracked-ee
 
 ## Vigtigste punkter
 
-- **Passtempler er fortid.** Siden den 10. april 2026 registrerer EU's ind- og udrejsesystem (EES) alle ikke-EU-rejsendes Schengen ind- og udrejser digitalt, med fingeraftryk og ansigtsbillede.
-- EES **opdager nu overskridelser automatisk**. Forvent afvisning ved din næste indrejse, og muligvis et indrejseforbud på et til fem år.
+- **Passtempler er fortid.** Siden den 10. april 2026 registrerer EU's ind- og udrejsesystem (EES) alle ikke-EU-rejsendes Schengen ind- og udrejser digitalt, med et ansigtsbillede og for de fleste rejsende fingeraftryk.
+- EES **opdager nu overskridelser automatisk**. Forvent afvisning ved din næste indrejse, og muligvis et indrejseforbud, som regel på op til fem år.
 - **EES håndhæver, det planlægger ikke.** EU's EES-onlineværktøj viser, hvor mange dage du har tilbage, men at regne ud, om en fremtidig rejse passer ind i dit rullende 90/180-vindue, er stadig dit eget ansvar.
 - EU's **officielle beregner til korte ophold** virker, men den er manuel – én person, ét vindue, én beregning ad gangen.
 - Familier skal håndtere **et separat vindue pr. person**. Det er der, dagstælling i en app for alvor gør en forskel.
@@ -22,7 +22,7 @@ For alle, der tæller Schengen-dage – og det bør enhver ikke-EU-besøgende g�
 
 ## Hvad der har ændret sig ved Europas grænser
 
-EES registrerer hver ikke-EU-rejsendes fingeraftryk, ansigtsbillede, rejsedokument og præcise ind- og udrejsedatoer. Systemet havde registreret over 52 millioner grænsepasseringer mellem den trinvise lancering i oktober 2025 og fuld drift i foråret, og over 27.000 personer blev nægtet indrejse i den periode. Førstegangsregistrering tager et par minutter ved kiosken, og lufthavne har rapporteret flertimers køer i myldretiden i sommer, mens alle vænner sig til det.
+EES registrerer hver ikke-EU-rejsendes fingeraftryk, ansigtsbillede, rejsedokument og præcise ind- og udrejsedatoer. Da EES blev fuldt operativt den 10. april 2026, oplyste Europa-Kommissionen, at systemet siden den trinvise lancering i oktober 2025 havde registreret over 52 millioner indrejser og udrejser, med over 27.000 afvisninger ved grænsen. Førstegangsregistrering tager et par minutter ved kiosken, og lufthavne har rapporteret flertimers køer i myldretiden i sommer, mens alle vænner sig til det.
 
 Ikke alle registreres. EU-borgere, beboere i Schengenlande og indehavere af langtidsvisa er undtaget. Hvis du rejser på den visumfrie korttidstilladelse – de fleste britiske, amerikanske, canadiske og australske rejsende, for eksempel – gælder EES for dig.
 
@@ -32,7 +32,7 @@ Selve reglen er ikke ændret: du må opholde dig højst 90 dage i Schengenområd
 
 ![Tidslinjediagram over Schengens glidende 90/180-vindue: fra 180 dage siden til i dag bruger to rejser på 30 og 45 dage 75 af de 90 dage, hvilket efterlader 15; vinduet forskyder sig hver dag, og både ankomst- og afrejsedag tæller](https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/90-180-window-da.jpg) Vinduet nulstilles aldrig: for hver enkelt dag kan de foregående 180 dage højst indeholde 90 dages ophold.
 
-Det, der har ændret sig, er håndhævelsen. Med passtempler betød det at bevise en overskridelse, at man skulle tyde falmet blæk, og grænsebetjente havde skøn. Nu er datoerne præcise, og systemet markerer en overskridelse i samme øjeblik, den sker. Forvent afvisning ved din næste indrejse, og i mange tilfælde et indrejseforbud på et til fem år, som myndighederne registrerer i Schengeninformationssystemet. Fejlmarginen er gået fra uklar til nul.
+Det, der har ændret sig, er håndhævelsen. Med passtempler betød det at bevise en overskridelse, at man skulle tyde falmet blæk, og grænsebetjente havde skøn. Nu er datoerne præcise, og systemet markerer en overskridelse i samme øjeblik, den sker. Forvent afvisning ved din næste indrejse, og i nogle tilfælde et indrejseforbud, som regel på op til fem år, som myndighederne registrerer i Schengeninformationssystemet. Fejlmarginen er gået fra uklar til nul.
 
 ## Faldgruben: EES håndhæver, det planlægger ikke
 
@@ -48,7 +48,7 @@ Er du EU-, EØS- eller schweizisk statsborger, er du undtaget - dit pas gennemg�
 
 ## Hvad der sker ved din første EES-grænsepassage
 
-Systemet opretter din registrering ved din første grænsepassage ind i Schengenområdet. Du stiller dig i kø ved en biometrisk kiosk ved grænsen - lufthavn, havn eller landegrænse. En betjent scanner dit pas eller rejsedokument for at kontrollere din identitet. Systemet fanger dit ansigtsbillede og tager fingeraftryk fra begge hænder. Det tager længere tid end det stempel, det erstatter, og du gør det kun én gang.
+Systemet opretter din registrering ved din første grænsepassage ind i Schengenområdet. Du stiller dig i kø ved en biometrisk kiosk ved grænsen - lufthavn, havn eller landegrænse. En betjent scanner dit pas eller rejsedokument for at kontrollere din identitet. Systemet fanger dit ansigtsbillede. Behøver du ikke visum, tager det også fire fingeraftryk; rejser du på et kortvarigt visum, gemmer det kun dit ansigtsbillede, da dine fingeraftryk blev taget, da du ansøgte. Det tager længere tid end det stempel, det erstatter, og du gør det kun én gang.
 
 Når du er registreret, gemmer systemet den præcise dato og det præcise klokkeslæt for din indrejse. Overskrider du senere dine 90 af 180 dage, bliver netop det tidsstempel det referencepunkt, EES bruger til at beregne dit rullende vindue.
 
@@ -110,7 +110,7 @@ Den digitale grænse er grundig, automatisk og usentimental, men at holde sig in
 
 ### Hvad sker der, hvis jeg overskrider Schengens 90/180-regel med én dag?
 
-EES registrerer hver ind- og udrejse digitalt, så selv en kort overskridelse markeres automatisk. Du kan forvente afvisning næste gang, du forsøger at rejse ind i Schengenområdet, og afhængigt af omstændighederne er et indrejseforbud på et til fem år muligt. Præcis dagstælling betyder mere end nogensinde.
+EES registrerer hver ind- og udrejse digitalt, så selv en kort overskridelse markeres automatisk. Du kan forvente afvisning næste gang, du forsøger at rejse ind i Schengenområdet. Afhængigt af omstændighederne er et indrejseforbud også muligt, og efter EU-reglerne overstiger det som regel ikke fem år. Præcis dagstælling betyder mere end nogensinde.
 
 ### Kan jeg se, hvor mange Schengen-dage jeg har tilbage, efter jeg er rejst ind?
 

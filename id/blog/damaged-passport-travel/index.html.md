@@ -13,7 +13,7 @@ Source: https://traveldocumentvault.com/id/blog/damaged-passport-travel/
 - **Tidak semua keausan berarti kerusakan.** Sampul yang sedikit lecek masih wajar. Kerusakan akibat air, halaman robek, atau fitur keamanan yang pudar tidak wajar.
 - Maskapai bisa menolak keberangkatan Anda jika **mereka menganggap paspor rusak** — mereka bertanggung jawab jika memberangkatkan penumpang dengan dokumen tidak sah, sehingga mereka cenderung lebih berhati-hati.
 - Menemukan kerusakan **beberapa hari atau minggu sebelum** perjalanan memberi Anda waktu untuk mengurus penggantian darurat. Menemukannya sehari sebelum keberangkatan adalah krisis.
-- Jika Anda ditolak di gerbang keberangkatan, **tanyakan kepada kedutaan Anda tentang dokumen perjalanan darurat**, penerbitan di hari yang sama kadang dimungkinkan.
+- Jika Anda ditolak di gerbang keberangkatan, **tanyakan kepada kedutaan Anda tentang dokumen perjalanan darurat**.
 - Salinan digital **paling berharga saat Anda berada di luar negeri**, petugas konsuler bisa memastikan identitas Anda dari hasil scan jauh lebih cepat daripada dari penjelasan lisan Anda. Scan paspor Anda sebelum bepergian.
 
 Sebagian besar kerusakan paspor hanya bersifat kosmetik. Sampul yang tergores, sudut yang melembek, atau tepi yang sedikit terkelupas di bagian punggung buku — semua itu tidak akan menghalangi siapa pun untuk naik pesawat. Yang benar-benar diperiksa oleh petugas imigrasi dan maskapai jauh lebih sempit dari yang dibayangkan kebanyakan wisatawan: halaman foto, dua baris cetak di bawahnya, dan apakah buku paspor masih utuh sebagai satu dokumen.
@@ -30,7 +30,7 @@ Yang paling penting, zona yang bisa dibaca mesin, garis hitam putih di bagian ba
 
 ![Dua paspor terbuka berdampingan: satu using tapi rata dan masih bisa dipakai, satu lagi bernoda air dengan halaman bergelombang dan laminasi terkelupas](https://traveldocumentvault.com/blog/damaged-passport-travel/damage-vs-wear-figure.jpg) Lipatan kecil pada sampul: masih bisa diterima. Kerusakan air pada halaman data: masalah.
 
-Alasan ini penting adalah karena **maskapai menanggung tanggung jawab jika memberangkatkan penumpang dengan dokumen yang tidak layak.** Jika Anda berangkat dengan paspor rusak lalu ditolak masuk di negara tujuan, otoritas setempat bisa mengenakan denda kepada maskapai karena membawa Anda. Maskapai juga harus menanggung biaya memulangkan Anda.
+Alasan ini penting adalah karena **maskapai menanggung tanggung jawab jika memberangkatkan penumpang dengan dokumen yang tidak layak.** Jika Anda berangkat dengan paspor rusak lalu ditolak masuk di negara tujuan, otoritas setempat bisa mengenakan denda kepada maskapai karena membawa Anda.
 
 Tidak ada petugas gerbang yang ingin mengurus semua itu, jadi mereka memilih untuk berhati-hati secara tegas.
 
@@ -58,8 +58,8 @@ Jika kerusakannya benar-benar ringan, misalnya lipatan kecil yang tidak memengar
 
 Setelah keberangkatan Anda ditolak, pilihan Anda terbatas:
 
-- **Pesan ulang ke penerbangan berikutnya.** Hubungi maskapai atau agen pemesanan Anda dan jelaskan apa yang terjadi. Dalam banyak kasus mereka akan memesankan ulang tanpa biaya tambahan begitu alasannya adalah dokumen rusak (bukan tidak hadir atau pembatalan sukarela). Manfaatkan waktu ini untuk mengurus paspor Anda.
-- **Ajukan dokumen perjalanan darurat.** Segera hubungi kedutaan atau konsulat terdekat. Jelaskan bahwa Anda memiliki penerbangan yang sudah dikonfirmasi dan perlu bepergian segera. Jika Anda masih berada di bandara, banyak kedutaan bisa menerbitkan dokumen perjalanan darurat pada hari yang sama, tetapi Anda harus bertindak cepat dan menunjukkan bukti pemesanan Anda.
+- **Pesan ulang ke penerbangan berikutnya.** Hubungi maskapai atau agen pemesanan Anda dan jelaskan apa yang terjadi. Tanyakan apakah mereka bisa memindahkan Anda ke penerbangan yang lebih lambat, dan periksa biaya perubahannya berdasarkan ketentuan tarif Anda. Manfaatkan waktu ini untuk mengurus paspor Anda.
+- **Ajukan dokumen perjalanan darurat.** Segera hubungi kedutaan atau konsulat terdekat. Jelaskan bahwa Anda memiliki penerbangan yang sudah dikonfirmasi dan perlu bepergian segera. Bertindaklah dengan cepat dan siapkan bukti pemesanan Anda. Untuk warga negara Inggris, GOV.UK menyebutkan dokumen perjalanan darurat biasanya siap 2 hari kerja setelah Anda mengajukan permohonan, dan bisa lebih lama dalam beberapa kasus.
 - **Terima pembatalannya.** Jika kedua opsi tersebut tidak berhasil dan perjalanan tidak bisa diselamatkan, tanyakan kepada maskapai apa yang bisa mereka lakukan. Sebagian maskapai akan memesankan ulang atau menawarkan kredit sebagai bentuk kebijakan setelah Anda menjelaskan situasinya. Namun, sebagian besar ketentuan maskapai menganggap masalah dokumen sebagai tanggung jawab penumpang sendiri, jadi tidak ada pengembalian dana otomatis yang bisa diklaim.
 
 Jika petugas gerbang menolak, jangan berdebat dan jangan mencoba tetap naik pesawat. Itu hanya akan menciptakan masalah yang lebih besar. Maskapai bisa melarang Anda terbang di masa depan, otoritas imigrasi bisa mengenakan denda, dan di beberapa negara Anda bahkan bisa dituntut karena mencoba bepergian dengan dokumen yang sudah dinyatakan tidak sah.

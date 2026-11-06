@@ -10,8 +10,8 @@ Source: https://traveldocumentvault.com/nl/blog/schengen-90-days-auto-tracked-ee
 
 ## Belangrijkste punten
 
-- **Paspoortstempels zijn verleden tijd.** Sinds 10 april 2026 registreert het EU-inreis-uitreissysteem (EES) alle Schengen-in- en uitreizen van niet-EU-reizigers digitaal, met vingerafdrukken en een gezichtsopname.
-- EES **detecteert nu automatisch overschrijdingen**. Reken op weigering bij je volgende inreis, en mogelijk een inreisverbod van één tot vijf jaar.
+- **Paspoortstempels zijn verleden tijd.** Sinds 10 april 2026 registreert het EU-inreis-uitreissysteem (EES) alle Schengen-in- en uitreizen van niet-EU-reizigers digitaal, met een gezichtsopname en, voor de meeste reizigers, vingerafdrukken.
+- EES **detecteert nu automatisch overschrijdingen**. Reken op weigering bij je volgende inreis, en mogelijk een inreisverbod, in het algemeen van maximaal vijf jaar.
 - **EES handhaaft, het plant niet.** De online EES-tool van de EU toont de dagen die je nog over hebt, maar of een toekomstige reis past binnen je voortschrijdende 90/180-venster, moet je nog altijd zelf uitrekenen.
 - De **officiële rekentool van de EU** voor kort verblijf werkt, maar is handmatig – één persoon, één venster, één berekening tegelijk.
 - Gezinnen hebben te maken met **een apart venster per persoon**. Precies daar bewijst dagteller-tracking in een app zijn waarde.
@@ -22,7 +22,7 @@ Voor iedereen die Schengendagen telt – en dat zou elke niet-EU-bezoeker moeten
 
 ## Wat er is veranderd aan Europa's grenzen
 
-EES registreert van elke niet-EU-reiziger de vingerafdrukken, gezichtsopname, reisdocument en exacte in- en uitreisdatums. Het systeem had tussen de gefaseerde start in oktober 2025 en volledige werking dit voorjaar al meer dan 52 miljoen grensoverschrijdingen geregistreerd, en in die periode werd meer dan 27.000 mensen de toegang geweigerd. Eerste registratie duurt een paar minuten bij de kiosk, en luchthavens meldden deze zomer urenlange wachtrijen op piekmomenten terwijl iedereen eraan went.
+EES registreert van elke niet-EU-reiziger de vingerafdrukken, gezichtsopname, reisdocument en exacte in- en uitreisdatums. Toen EES op 10 april 2026 volledig operationeel werd, meldde de Europese Commissie dat het sinds de gefaseerde start in oktober 2025 al meer dan 52 miljoen in- en uitreizen had geregistreerd, met meer dan 27.000 weigeringen van toegang. Eerste registratie duurt een paar minuten bij de kiosk, en luchthavens meldden deze zomer urenlange wachtrijen op piekmomenten terwijl iedereen eraan went.
 
 Niet iedereen wordt geregistreerd. EU-burgers, inwoners van Schengenlanden en houders van langdurige visa zijn vrijgesteld. Als je op basis van de visumvrije kortverblijfregeling reist – de meeste Britse, Amerikaanse, Canadese en Australische reizigers, bijvoorbeeld – geldt EES voor jou.
 
@@ -32,7 +32,7 @@ De regel zelf is niet veranderd: je mag maximaal 90 dagen in het Schengengebied 
 
 ![Tijdlijndiagram van het Schengen 90/180-rollend venster: van 180 dagen geleden tot vandaag gebruiken twee reizen van 30 en 45 dagen 75 van de 90 dagen, waardoor er 15 overblijven; het venster schuift elke dag en aankomst- en vertrekdag tellen allebei mee](https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/90-180-window-nl.jpg) Het venster wordt nooit gereset: voor elke dag mogen de voorgaande 180 dagen niet meer dan 90 dagen verblijf bevatten.
 
-Wat wel is veranderd, is de handhaving. Bij paspoortstempels betekende het bewijzen van een overschrijding het ontcijferen van vervaagde inkt, en grenswachters hadden speelruimte. Nu zijn de datums exact, en het systeem signaleert een overschrijding op het moment dat die zich voordoet. Reken op weigering bij je volgende inreis, en in veel gevallen een inreisverbod van één tot vijf jaar, dat autoriteiten vastleggen in het Schengeninformatiesysteem. De foutmarge is van vaag naar nul gegaan.
+Wat wel is veranderd, is de handhaving. Bij paspoortstempels betekende het bewijzen van een overschrijding het ontcijferen van vervaagde inkt, en grenswachters hadden speelruimte. Nu zijn de datums exact, en het systeem signaleert een overschrijding op het moment dat die zich voordoet. Reken op weigering bij je volgende inreis, en in sommige gevallen een inreisverbod, in het algemeen van maximaal vijf jaar, dat autoriteiten vastleggen in het Schengeninformatiesysteem. De foutmarge is van vaag naar nul gegaan.
 
 ## De valkuil: EES handhaaft, het plant niet
 
@@ -48,7 +48,7 @@ Ben je EU-, EER- of Zwitsers staatsburger, dan ben je vrijgesteld - je paspoort 
 
 ## Wat er gebeurt bij je eerste EES-grensovergang
 
-Het systeem maakt je registratie aan bij je eerste grensovergang naar het Schengengebied. Je sluit aan bij een biometrische kiosk aan de grens - luchthaven, haven of landgrens. Een ambtenaar scant je paspoort of reisdocument om je identiteit te controleren. Het systeem legt je gezichtsopname vast en neemt vingerafdrukken van beide handen. Dat duurt langer dan de stempel die het vervangt, en je doet het maar één keer.
+Het systeem maakt je registratie aan bij je eerste grensovergang naar het Schengengebied. Je sluit aan bij een biometrische kiosk aan de grens - luchthaven, haven of landgrens. Een ambtenaar scant je paspoort of reisdocument om je identiteit te controleren. Het systeem legt je gezichtsopname vast. Heb je geen visum nodig, dan neemt het ook vier vingerafdrukken af; reis je met een visum voor kort verblijf, dan slaat het alleen je gezichtsopname op, omdat je vingerafdrukken al bij de visumaanvraag zijn afgenomen. Dat duurt langer dan de stempel die het vervangt, en je doet het maar één keer.
 
 Na registratie legt het systeem de exacte datum en tijd van je inreis vast. Overschrijd je later je 90 van de 180 dagen, dan wordt dat tijdstip het referentiepunt dat EES gebruikt om je voortschrijdende venster te berekenen.
 
@@ -110,7 +110,7 @@ De digitale grens is grondig, automatisch en onsentimenteel, maar binnen de 90/1
 
 ### Wat gebeurt er als ik de Schengen 90/180-regel met één dag overschrijd?
 
-EES registreert elke in- en uitreis digitaal, dus zelfs een korte overschrijding wordt automatisch gesignaleerd. Je kunt weigering verwachten bij je volgende poging om het Schengengebied binnen te reizen, en afhankelijk van de omstandigheden is een inreisverbod van één tot vijf jaar mogelijk. Nauwkeurig dagen tellen is belangrijker dan ooit.
+EES registreert elke in- en uitreis digitaal, dus zelfs een korte overschrijding wordt automatisch gesignaleerd. Je kunt weigering verwachten bij je volgende poging om het Schengengebied binnen te reizen, en afhankelijk van de omstandigheden is ook een inreisverbod mogelijk, dat volgens de EU-regels in het algemeen niet langer dan vijf jaar duurt. Nauwkeurig dagen tellen is belangrijker dan ooit.
 
 ### Kan ik zien hoeveel Schengendagen ik nog over heb na inreis?
 

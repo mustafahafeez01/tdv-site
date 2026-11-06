@@ -10,8 +10,8 @@ Source: https://traveldocumentvault.com/es/blog/schengen-90-days-auto-tracked-ee
 
 ## Puntos Clave
 
-- **Los sellos de pasaporte han desaparecido.** Desde el 10 de abril de 2026, el Sistema de Entrada/Salida de la UE registra digitalmente las entradas y salidas de Schengen de cada viajero no comunitario, con huellas dactilares e imagen facial.
-- EES ahora **detecta excesos automáticamente**. Espera un rechazo en tu próxima entrada, y posiblemente una prohibición de entrada de uno a cinco años.
+- **Los sellos de pasaporte han desaparecido.** Desde el 10 de abril de 2026, el Sistema de Entrada/Salida de la UE registra digitalmente las entradas y salidas de Schengen de cada viajero no comunitario, con una imagen facial y, para la mayoría de los viajeros, huellas dactilares.
+- EES ahora **detecta excesos automáticamente**. Espera un rechazo en tu próxima entrada, y posiblemente una prohibición de entrada, por lo general de hasta cinco años.
 - **EES hace cumplir, no planifica.** La herramienta en línea de EES de la UE muestra los días que te quedan, pero calcular si un viaje futuro encaja en tu ventana móvil 90/180 sigue siendo cosa tuya.
 - La **calculadora oficial de estancia breve** de la UE funciona, pero es manual —una persona, una ventana, un cálculo a la vez.
 - Las familias manejan **una ventana separada por persona**. Ahí es donde el rastreo de límite de días en una aplicación gana su lugar.
@@ -22,7 +22,7 @@ Para cualquiera que cuente días de Schengen —y cada visitante no comunitario 
 
 ## Qué Cambió en las Fronteras de Europa
 
-EES registra las huellas dactilares, imagen facial, documento de viaje y fechas exactas de entrada y salida de cada viajero no comunitario. El sistema había registrado más de 52 millones de cruces fronterizos entre su lanzamiento por fases en octubre de 2025 y operación completa esta primavera, y más de 27.000 personas fueron rechazadas en ese tiempo. El primer registro toma algunos minutos en el quiosco, y los aeropuertos han reportado colas de varias horas en horas punta este verano mientras todos se acostumbran.
+EES registra las huellas dactilares, imagen facial, documento de viaje y fechas exactas de entrada y salida de cada viajero no comunitario. Cuando EES entró en pleno funcionamiento el 10 de abril de 2026, la Comisión Europea indicó que había registrado más de 52 millones de entradas y salidas desde el lanzamiento por fases en octubre de 2025, con más de 27.000 denegaciones de entrada. El primer registro toma algunos minutos en el quiosco, y los aeropuertos han reportado colas de varias horas en horas punta este verano mientras todos se acostumbran.
 
 No todos están registrados. Los ciudadanos de la UE, residentes de países de Schengen y titulares de visas de larga duración están exentos. Si estás visitando con la asignación de estancia breve sin visa —la mayoría de viajeros británicos, estadounidenses, canadienses y australianos, por ejemplo— EES se aplica a ti.
 
@@ -32,7 +32,7 @@ La regla en sí no ha cambiado: puedes pasar como máximo 90 días dentro del á
 
 ![Diagrama de la ventana móvil 90/180 de Schengen: desde hace 180 días hasta hoy, dos viajes de 30 y 45 días usan 75 de 90 días, dejando 15; la ventana se desplaza cada día y el día de llegada y el de salida cuentan](https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/90-180-window-es.jpg) La ventana nunca se reinicia: cada día, los 180 anteriores no pueden contener más de 90 días de estancia.
 
-Lo que ha cambiado es la aplicación. Con sellos de pasaporte, probar un exceso significaba descifrar tinta desvanecida, y los oficiales fronterizos tenían discreción. Ahora las fechas son exactas, y el sistema marca un exceso en el momento que sucede. Espera un rechazo en tu próxima entrada, y en muchos casos una prohibición de entrada de uno a cinco años, que los funcionarios registran en el Sistema de Información de Schengen. El margen de error ha pasado de borroso a cero.
+Lo que ha cambiado es la aplicación. Con sellos de pasaporte, probar un exceso significaba descifrar tinta desvanecida, y los oficiales fronterizos tenían discreción. Ahora las fechas son exactas, y el sistema marca un exceso en el momento que sucede. Espera un rechazo en tu próxima entrada, y en algunos casos una prohibición de entrada, por lo general de hasta cinco años, que los funcionarios registran en el Sistema de Información de Schengen. El margen de error ha pasado de borroso a cero.
 
 ## El Problema: EES Hace Cumplir, No Planifica
 
@@ -48,7 +48,7 @@ Si eres ciudadano de la UE, del EEE o de Suiza, estás exento - tu pasaporte no 
 
 ## Qué ocurre en tu primer cruce con EES
 
-El sistema crea tu registro en tu primer cruce al área de Schengen. Harás cola en un quiosco biométrico en la frontera - aeropuerto, puerto o paso fronterizo terrestre. Un agente escanea tu pasaporte o documento de viaje para verificar tu identidad. El sistema capta tu imagen facial y toma las huellas de ambas manos. Lleva más tiempo que el sello que sustituye, y solo lo haces una vez.
+El sistema crea tu registro en tu primer cruce al área de Schengen. Harás cola en un quiosco biométrico en la frontera - aeropuerto, puerto o paso fronterizo terrestre. Un agente escanea tu pasaporte o documento de viaje para verificar tu identidad. El sistema capta tu imagen facial. Si no necesitas visado, también toma cuatro huellas dactilares; si viajas con un visado de corta duración, solo guarda tu imagen facial, porque tus huellas se tomaron cuando lo solicitaste. Lleva más tiempo que el sello que sustituye, y solo lo haces una vez.
 
 Una vez registrado, el sistema guarda la fecha y hora exactas de tu entrada. Si más adelante superas los 90 días de 180, esa marca de tiempo se convierte en el punto de referencia que EES usa para calcular tu ventana móvil.
 
@@ -110,7 +110,7 @@ La frontera digital es exhaustiva, automática e insentimental, pero mantenerse 
 
 ### ¿Qué sucede si excedo la regla 90/180 de Schengen por un día?
 
-EES registra cada entrada y salida digitalmente, por lo que incluso un exceso breve se marca automáticamente. Puedes esperar un rechazo la próxima vez que intentes entrar al área de Schengen, y dependiendo de las circunstancias es posible una prohibición de entrada de uno a cinco años. El conteo preciso de días es más importante que nunca.
+EES registra cada entrada y salida digitalmente, por lo que incluso un exceso breve se marca automáticamente. Puedes esperar un rechazo la próxima vez que intentes entrar al área de Schengen. Dependiendo de las circunstancias, también es posible una prohibición de entrada, que según las normas de la UE por lo general no supera los cinco años. El conteo preciso de días es más importante que nunca.
 
 ### ¿Puedo verificar cuántos días de Schengen me quedan después de entrar?
 

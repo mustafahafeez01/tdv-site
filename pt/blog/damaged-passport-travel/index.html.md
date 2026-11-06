@@ -13,7 +13,7 @@ Source: https://traveldocumentvault.com/pt/blog/damaged-passport-travel/
 - **Nem todo o desgaste é dano.** Uma capa vincada não é problema. Danos causados pela água, páginas rasgadas ou elementos de segurança esborratados, sim.
 - As companhias aéreas recusam o embarque se **considerarem que um passaporte está danificado** — são responsabilizadas por embarcar um documento inválido e preferem pecar por excesso de cautela.
 - Detetar danos **dias ou semanas antes** da viagem dá-lhe tempo para uma renovação de emergência. No dia anterior, já é uma crise.
-- Se for impedido de embarcar no portão, **pergunte à sua embaixada sobre um documento de viagem de emergência** — a emissão no mesmo dia é possível.
+- Se for impedido de embarcar no portão, **pergunte à sua embaixada sobre um documento de viagem de emergência**.
 - Uma cópia digital **vale mais quando está no estrangeiro** — um funcionário consular consegue confirmar a sua identidade a partir de uma digitalização muito mais depressa do que a partir do seu relato. Digitalize o seu passaporte antes de viajar.
 
 A maioria dos danos num passaporte é apenas estética. Uma capa riscada, um canto amolecido, uma aresta puída ao longo da lombada — nada disto impede alguém de embarcar. O que o pessoal de fronteira e os agentes das companhias aéreas verificam de facto é mais restrito do que a maioria dos viajantes imagina: a página de identificação, as duas linhas impressas por baixo dela, e se o livrete ainda se mantém como um único documento.
@@ -30,7 +30,7 @@ O mais crítico é que a zona de leitura ótica — a faixa a preto e branco na 
 
 ![Dois passaportes abertos lado a lado: um desgastado mas liso e utilizável, outro manchado de água com páginas onduladas e laminação a descolar](https://traveldocumentvault.com/blog/damaged-passport-travel/damage-vs-wear-figure.jpg) Vincos ligeiros na capa: aceitável. Danos de água na página de dados: um problema.
 
-A razão pela qual isto importa é que **as companhias aéreas assumem a responsabilidade se embarcarem alguém com um documento inaceitável.** Embarque com um passaporte danificado, seja recusado à chegada, e as autoridades podem multar a companhia aérea por o ter transportado. A companhia aérea também tem de custear o seu voo de regresso.
+A razão pela qual isto importa é que **as companhias aéreas assumem a responsabilidade se embarcarem alguém com um documento inaceitável.** Embarque com um passaporte danificado, seja recusado à chegada, e as autoridades podem multar a companhia aérea por o ter transportado.
 
 Nenhum agente de portão quer essa burocracia, por isso preferem, sem hesitar, pecar por excesso de cautela.
 
@@ -58,8 +58,8 @@ Se o dano for mesmo ligeiro, um pequeno vinco que não afeta nenhum texto ou ele
 
 Assim que o embarque é recusado, tem opções limitadas:
 
-- **Remarcar para um voo posterior.** Contacte a companhia aérea ou o agente de reservas e explique o que aconteceu. Em muitos casos, remarcam-no sem custo adicional quando o motivo é um documento danificado (e não uma não comparência ou cancelamento voluntário). Aproveite esse tempo para tratar do seu passaporte.
-- **Candidatar-se a um documento de viagem de emergência.** Contacte de imediato a embaixada ou consulado mais próximo. Explique que tem um voo confirmado e precisa de viajar com urgência. Se ainda estiver no aeroporto, muitas embaixadas conseguem emitir um documento de viagem de emergência no mesmo dia — mas tem de agir depressa e mostrar prova da reserva.
+- **Remarcar para um voo posterior.** Contacte a companhia aérea ou o agente de reservas e explique o que aconteceu. Pergunte se o podem passar para um voo posterior e verifique quanto custa a alteração, de acordo com as regras da sua tarifa. Aproveite esse tempo para tratar do seu passaporte.
+- **Candidatar-se a um documento de viagem de emergência.** Contacte de imediato a embaixada ou consulado mais próximo. Explique que tem um voo confirmado e precisa de viajar com urgência. Aja depressa e tenha à mão a prova da reserva. Para cidadãos britânicos, o GOV.UK indica que um documento de viagem de emergência fica normalmente pronto 2 dias úteis após o pedido, e pode demorar mais em alguns casos.
 - **Aceitar o cancelamento.** Se nenhuma das opções funcionar e a viagem não puder ser salva, pergunte à companhia aérea o que pode fazer. Algumas remarcam-no ou oferecem um crédito por cortesia depois de ouvirem a explicação. No entanto, a maioria dos termos das companhias aéreas trata um problema de documento como responsabilidade do próprio passageiro, por isso não há reembolso automático a reclamar.
 
 Se o agente de portão disser que não, não discuta nem tente embarcar de qualquer forma. Isso só cria problemas maiores. A companhia aérea pode proibi-lo de voos futuros, as autoridades de imigração podem multá-lo, e em alguns países podem mesmo processá-lo por tentar viajar com um documento que já consideraram inválido.

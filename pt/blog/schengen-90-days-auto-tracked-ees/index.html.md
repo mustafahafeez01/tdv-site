@@ -10,8 +10,8 @@ Source: https://traveldocumentvault.com/pt/blog/schengen-90-days-auto-tracked-ee
 
 ## Pontos Principais
 
-- **Os carimbos do passaporte desapareceram.** Desde 10 de abril de 2026 o Sistema de Entrada/Saída (EES) da UE regista digitalmente cada entrada e saída de viajantes não-UE no Espaço Schengen, com impressões digitais e imagem facial.
-- O EES agora **detecta ultrapassagens automaticamente**. Espere uma recusa na sua próxima entrada, e possivelmente uma proibição de entrada de um a cinco anos.
+- **Os carimbos do passaporte desapareceram.** Desde 10 de abril de 2026 o Sistema de Entrada/Saída (EES) da UE regista digitalmente cada entrada e saída de viajantes não-UE no Espaço Schengen, com imagem facial e, para a maioria dos viajantes, impressões digitais.
+- O EES agora **detecta ultrapassagens automaticamente**. Espere uma recusa na sua próxima entrada, e possivelmente uma proibição de entrada, geralmente até cinco anos.
 - **O EES faz cumprir, não planeia.** A ferramenta online do EES da UE mostra os dias que lhe restam, mas calcular se uma futura viagem se encaixa na sua janela móvel de 90/180 continua a ser da sua responsabilidade.
 - A UE publica uma **calculadora oficial de estadas curtas** que funciona bem, mas é manual — uma pessoa, uma janela, um cálculo de cada vez.
 - As famílias têm de lidar com **uma janela separada por pessoa**. É aí que o acompanhamento de limites de dias numa aplicação se torna importante.
@@ -22,7 +22,7 @@ Para qualquer um que conte dias do Schengen — e cada visitante não-UE deveria
 
 ## O Que Mudou nas Fronteiras Europeias
 
-O EES regista as impressões digitais de cada viajante não-UE, imagem facial, documento de viagem e datas exatas de entrada e saída. O sistema tinha registado mais de 52 milhões de passagens de fronteira entre o seu lançamento faseado em outubro de 2025 e funcionamento completo esta primavera, e mais de 27 000 pessoas foram recusadas durante esse período. O registo pela primeira vez demora alguns minutos no quiosque, e os aeroportos tiveram filas de várias horas em horários de ponta este verão enquanto toda a gente se habitua.
+O EES regista as impressões digitais de cada viajante não-UE, imagem facial, documento de viagem e datas exatas de entrada e saída. Quando o EES entrou em pleno funcionamento, a 10 de abril de 2026, a Comissão Europeia indicou que tinha registado mais de 52 milhões de entradas e saídas desde o lançamento faseado em outubro de 2025, com mais de 27 000 recusas de entrada. O registo pela primeira vez demora alguns minutos no quiosque, e os aeroportos tiveram filas de várias horas em horários de ponta este verão enquanto toda a gente se habitua.
 
 Nem toda a gente está registada. Cidadãos da UE, residentes de países Schengen e titulares de vistos de longa duração estão isentos. Se está em visita com a autorização de estada curta isenta de visto — por exemplo, a maioria dos viajantes britânicos, americanos, canadianos e australianos — o EES aplica-se a si.
 
@@ -32,7 +32,7 @@ A regra em si não mudou: pode passar no máximo 90 dias dentro do Espaço Schen
 
 ![Diagrama cronológico da janela móvel Schengen 90/180: de há 180 dias até hoje, duas viagens de 30 e 45 dias usam 75 dos 90 dias disponíveis, restando 15; a janela desliza todos os dias e os dias de chegada e de partida contam ambos](https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/90-180-window-pt.jpg) A janela nunca reinicia: para cada dia, os 180 dias anteriores não podem conter mais de 90 dias de estadia.
 
-O que mudou é a aplicação. Com carimbos no passaporte, provar uma ultrapassagem significava descodificar tinta desbotada, e os oficiais de fronteira tinham discrição. Agora as datas são exatas, e o sistema sinaliza uma ultrapassagem no momento em que acontece. Espere recusa na sua próxima entrada, e em muitos casos uma proibição de entrada de um a cinco anos, que os oficiais registam no Sistema de Informações Schengen. A margem para erro passou de confusa para zero.
+O que mudou é a aplicação. Com carimbos no passaporte, provar uma ultrapassagem significava descodificar tinta desbotada, e os oficiais de fronteira tinham discrição. Agora as datas são exatas, e o sistema sinaliza uma ultrapassagem no momento em que acontece. Espere recusa na sua próxima entrada, e em alguns casos uma proibição de entrada, geralmente até cinco anos, que os oficiais registam no Sistema de Informações Schengen. A margem para erro passou de confusa para zero.
 
 ## A Pegadinha: O EES Faz Cumprir, Não Planeia
 
@@ -48,7 +48,7 @@ Se é cidadão da UE, do EEE ou da Suíça, está isento - o seu passaporte não
 
 ## O que acontece na sua primeira passagem pelo EES
 
-O sistema cria o seu registo na sua primeira entrada no Espaço Schengen. Vai fazer fila num quiosque biométrico na fronteira - aeroporto, porto ou fronteira terrestre. Um agente digitaliza o seu passaporte ou documento de viagem para verificar a sua identidade. O sistema capta a sua imagem facial e recolhe as impressões digitais de ambas as mãos. Demora mais tempo do que o carimbo que substitui, e só o faz uma vez.
+O sistema cria o seu registo na sua primeira entrada no Espaço Schengen. Vai fazer fila num quiosque biométrico na fronteira - aeroporto, porto ou fronteira terrestre. Um agente digitaliza o seu passaporte ou documento de viagem para verificar a sua identidade. O sistema capta a sua imagem facial. Se não precisar de visto, recolhe também quatro impressões digitais; se viajar com um visto de curta duração, guarda apenas a imagem facial, uma vez que as impressões digitais foram recolhidas quando pediu o visto. Demora mais tempo do que o carimbo que substitui, e só o faz uma vez.
 
 Depois de registado, o sistema guarda a data e hora exatas da sua entrada. Se mais tarde ultrapassar os 90 dias em 180, esse registo de hora torna-se o ponto de referência que o EES usa para calcular a sua janela móvel.
 
@@ -110,7 +110,7 @@ A fronteira digital é completa, automática e sem sentimentalismos, mas manter-
 
 ### O que acontece se ultrapassar a regra Schengen 90/180 por um dia?
 
-O EES regista cada entrada e saída digitalmente, portanto até uma pequena ultrapassagem é sinalizada automaticamente. Pode esperar uma recusa na próxima vez que tentar entrar no Espaço Schengen, e dependendo das circunstâncias uma proibição de entrada de um a cinco anos é possível. A contagem precisa de dias importa mais do que nunca.
+O EES regista cada entrada e saída digitalmente, portanto até uma pequena ultrapassagem é sinalizada automaticamente. Pode esperar uma recusa na próxima vez que tentar entrar no Espaço Schengen. Dependendo das circunstâncias, é também possível uma proibição de entrada, que segundo as regras da UE geralmente não excede cinco anos. A contagem precisa de dias importa mais do que nunca.
 
 ### Posso verificar quantos dias Schengen me restam após entrar?
 

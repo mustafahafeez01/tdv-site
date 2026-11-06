@@ -10,8 +10,8 @@ Source: https://traveldocumentvault.com/it/blog/schengen-90-days-auto-tracked-ee
 
 ## Punti Salienti
 
-- **I timbri del passaporto sono scomparsi.** Dal 10 aprile 2026 il sistema Entry/Exit dell'UE registra digitalmente gli ingressi e le uscite di ogni viaggiatore non-UE Schengen, con impronte digitali e un'immagine facciale.
-- EES ora **rileva gli sfori automaticamente**. Può aspettarsi un rifiuto al suo prossimo ingresso, e possibilmente un divieto di ingresso da uno a cinque anni.
+- **I timbri del passaporto sono scomparsi.** Dal 10 aprile 2026 il sistema Entry/Exit dell'UE registra digitalmente gli ingressi e le uscite di ogni viaggiatore non-UE Schengen, con un'immagine facciale e, per la maggior parte dei viaggiatori, le impronte digitali.
+- EES ora **rileva gli sfori automaticamente**. Può aspettarsi un rifiuto al suo prossimo ingresso, e possibilmente un divieto di ingresso, in genere fino a cinque anni.
 - **EES fa rispettare, non pianifica.** Lo strumento online EES dell'UE mostra i giorni che Le restano, ma stabilire se un viaggio futuro rientra nella Sua finestra mobile di 90/180 resta comunque compito Suo.
 - L'UE pubblica un **calcolatore ufficiale per soggiorni brevi** che funziona bene, ma è manuale — una persona, una finestra, un calcolo per volta.
 - Le famiglie gestiscono **una finestra separata per persona**. È qui che il tracciamento dei limiti di giorni in un'app merita il suo posto.
@@ -22,7 +22,7 @@ Per chiunque conti i giorni Schengen — e ogni visitatore non-UE dovrebbe farlo
 
 ## Ciò che è Cambiato alle Frontiere Europee
 
-EES registra le impronte digitali, l'immagine facciale, il documento di viaggio e le date esatte di ingresso e uscita di ogni viaggiatore non-UE. Il sistema aveva registrato oltre 52 milioni di attraversamenti di frontiera tra il lancio graduale dell'ottobre 2025 e il pieno funzionamento questa primavera, e più di 27.000 persone hanno ricevuto rifiuto in quel periodo. La registrazione per la prima volta richiede pochi minuti al chiosco, e gli aeroporti hanno segnalato code di più ore agli orari di punta questa estate mentre tutti si abituano.
+EES registra le impronte digitali, l'immagine facciale, il documento di viaggio e le date esatte di ingresso e uscita di ogni viaggiatore non-UE. Quando EES è diventato pienamente operativo il 10 aprile 2026, la Commissione europea ha dichiarato di aver registrato oltre 52 milioni di ingressi e uscite dal lancio graduale dell'ottobre 2025, con più di 27.000 rifiuti di ingresso. La registrazione per la prima volta richiede pochi minuti al chiosco, e gli aeroporti hanno segnalato code di più ore agli orari di punta questa estate mentre tutti si abituano.
 
 Non tutti sono registrati. I cittadini UE, i residenti dei paesi Schengen e i titolari di visti di lungo soggiorno sono esenti. Se sta visitando con l'indulto di soggiorno breve senza visto — ad esempio la maggior parte dei viaggiatori britannici, americani, canadesi e australiani — EES si applica a Lei.
 
@@ -32,7 +32,7 @@ La regola stessa non è cambiata: può stare al massimo 90 giorni all'interno de
 
 ![Diagramma a linea temporale della finestra mobile Schengen 90/180: da 180 giorni fa a oggi, due viaggi di 30 e 45 giorni usano 75 dei 90 giorni disponibili, ne restano 15; la finestra si sposta ogni giorno e i giorni di arrivo e di partenza contano entrambi](https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/90-180-window-it.jpg) La finestra non si azzera mai: per ogni singolo giorno, i 180 giorni precedenti possono contenere al massimo 90 giorni di soggiorno.
 
-Quello che è cambiato è l'applicazione. Sotto i timbri del passaporto, provare uno sforo significava decifrare inchiostro sbiadito, e i funzionari di frontiera avevano discrezionalità. Adesso le date sono esatte, e il sistema segnala uno sforo nel momento in cui accade. Può aspettarsi rifiuto al prossimo ingresso, e in molti casi un divieto di ingresso da uno a cinque anni, che i funzionari registrano nel Sistema di Informazione Schengen. Il margine di errore è passato da sfumato a zero.
+Quello che è cambiato è l'applicazione. Sotto i timbri del passaporto, provare uno sforo significava decifrare inchiostro sbiadito, e i funzionari di frontiera avevano discrezionalità. Adesso le date sono esatte, e il sistema segnala uno sforo nel momento in cui accade. Può aspettarsi rifiuto al prossimo ingresso, e in alcuni casi un divieto di ingresso, in genere fino a cinque anni, che i funzionari registrano nel Sistema di Informazione Schengen. Il margine di errore è passato da sfumato a zero.
 
 ## Il Problema: EES Fa Rispettare, Non Pianifica
 
@@ -48,7 +48,7 @@ Se è cittadino UE, SEE o svizzero, ne è esente - il Suo passaporto non passa p
 
 ## Cosa succede al Suo primo attraversamento EES
 
-Il sistema crea il Suo profilo al primo ingresso nell'area Schengen. Farà la fila a un chiosco biometrico alla frontiera - aeroporto, porto o valico terrestre. Un funzionario scansiona il Suo passaporto o documento di viaggio per verificare la Sua identità. Il sistema acquisisce la Sua immagine facciale e rileva le impronte di entrambe le mani. Richiede più tempo del timbro che sostituisce, e lo fa una sola volta.
+Il sistema crea il Suo profilo al primo ingresso nell'area Schengen. Farà la fila a un chiosco biometrico alla frontiera - aeroporto, porto o valico terrestre. Un funzionario scansiona il Suo passaporto o documento di viaggio per verificare la Sua identità. Il sistema acquisisce la Sua immagine facciale. Se non Le serve un visto, rileva anche quattro impronte digitali; se viaggia con un visto per soggiorno di breve durata, conserva solo l'immagine facciale, perché le impronte sono state prese al momento della richiesta. Richiede più tempo del timbro che sostituisce, e lo fa una sola volta.
 
 Una volta registrato, il sistema salva la data e l'ora esatte del Suo ingresso. Se in seguito supera i 90 giorni su 180, questa marca temporale diventa il punto di riferimento che EES usa per calcolare la Sua finestra mobile.
 
@@ -110,7 +110,7 @@ La frontiera digitale è accurata, automatica e priva di sentimento, ma stare de
 
 ### Che cosa succede se supero la regola Schengen 90/180 di un solo giorno?
 
-EES registra ogni ingresso e uscita digitalmente, così anche un breve sforo viene segnalato automaticamente. Può aspettarsi un rifiuto la prossima volta che cerca di entrare nell'area Schengen, e a seconda delle circostanze è possibile un divieto di ingresso da uno a cinque anni. La conta accurata dei giorni è più importante che mai.
+EES registra ogni ingresso e uscita digitalmente, così anche un breve sforo viene segnalato automaticamente. Può aspettarsi un rifiuto la prossima volta che cerca di entrare nell'area Schengen. A seconda delle circostanze è possibile anche un divieto di ingresso, che secondo le norme UE in genere non supera i cinque anni. La conta accurata dei giorni è più importante che mai.
 
 ### Posso verificare quanti giorni Schengen mi rimangono dopo l'ingresso?
 

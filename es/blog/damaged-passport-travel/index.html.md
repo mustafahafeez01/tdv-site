@@ -13,7 +13,7 @@ Source: https://traveldocumentvault.com/es/blog/damaged-passport-travel/
 - **No todo el desgaste es daño.** Una portada arrugada no es problema. El daño por agua, las páginas rotas o las medidas de seguridad borrosas sí lo son.
 - Las aerolíneas deniegan el embarque si **consideran que un pasaporte está dañado** —son responsables si embarcan un documento inválido, así que optan por la prudencia.
 - Detectar el daño **días o semanas antes** de tu viaje te da tiempo para una renovación de emergencia. El día antes es una crisis.
-- Si te rechazan en la puerta, **pregunta a tu embajada por un documento de viaje de emergencia** —la emisión el mismo día es posible.
+- Si te rechazan en la puerta, **pregunta a tu embajada por un documento de viaje de emergencia**.
 - Una copia digital **vale más cuando estás en el extranjero** —un funcionario consular puede confirmar tu identidad a partir de un escaneo mucho más rápido que a partir de tu relato. Escanea tu pasaporte antes de viajar.
 
 La mayoría de los daños en un pasaporte son puramente estéticos. Una portada rayada, una esquina reblandecida, un borde deshilachado a lo largo del lomo —nada de eso te impide embarcar. Lo que el personal de fronteras y los agentes de la aerolínea comprueban en realidad es más concreto de lo que la mayoría de los viajeros cree: la página de identidad, las dos líneas impresas debajo de ella, y si el cuadernillo se mantiene entero como un solo documento.
@@ -30,7 +30,7 @@ Lo más crítico es que la zona de lectura mecánica —la franja en blanco y ne
 
 ![Dos pasaportes abiertos uno junto al otro: uno desgastado pero plano y utilizable, el otro con manchas de agua, páginas onduladas y laminación levantada](https://traveldocumentvault.com/blog/damaged-passport-travel/damage-vs-wear-figure.jpg) Arrugas leves en la portada: aceptable. Daño por agua en la página de datos: un problema.
 
-El motivo por el que esto importa es que **las aerolíneas asumen la responsabilidad si embarcan a alguien con un documento inaceptable.** Si embarcas con un pasaporte dañado y te deniegan la entrada al llegar, las autoridades pueden multar a la aerolínea por haberte transportado. La aerolínea también tiene que cubrir el coste de tu vuelo de vuelta.
+El motivo por el que esto importa es que **las aerolíneas asumen la responsabilidad si embarcan a alguien con un documento inaceptable.** Si embarcas con un pasaporte dañado y te deniegan la entrada al llegar, las autoridades pueden multar a la aerolínea por haberte transportado.
 
 Ningún agente de puerta quiere ese papeleo, así que optan decididamente por la prudencia.
 
@@ -60,8 +60,8 @@ Si el daño es realmente leve, una pequeña arruga que no afecta a ningún texto
 
 Una vez denegado el embarque, tienes opciones limitadas:
 
-- **Cambia a un vuelo posterior.** Contacta con tu aerolínea o agencia de viajes y explica lo ocurrido. En muchos casos te cambiarán el vuelo sin coste adicional una vez que el motivo es un documento dañado (y no una ausencia o cancelación voluntaria). Aprovecha este tiempo para solucionar el tema de tu pasaporte.
-- **Solicita un documento de viaje de emergencia.** Contacta de inmediato con la embajada o el consulado más cercano. Explica que tienes un vuelo confirmado y necesitas viajar con urgencia. Si todavía estás en el aeropuerto, muchas embajadas pueden emitir un documento de viaje de emergencia el mismo día —pero tienes que actuar rápido y mostrar el justificante de tu reserva.
+- **Cambia a un vuelo posterior.** Contacta con tu aerolínea o agencia de viajes y explica lo ocurrido. Pregunta si pueden pasarte a un vuelo posterior y comprueba cuánto cuesta el cambio según las condiciones de tu tarifa. Aprovecha este tiempo para solucionar el tema de tu pasaporte.
+- **Solicita un documento de viaje de emergencia.** Contacta de inmediato con la embajada o el consulado más cercano. Explica que tienes un vuelo confirmado y necesitas viajar con urgencia. Actúa rápido y ten a mano el justificante de tu reserva. Para los ciudadanos británicos, GOV.UK indica que un documento de viaje de emergencia suele estar listo 2 días laborables después de la solicitud, y en algunos casos puede tardar más.
 - **Acepta la cancelación.** Si ninguna de las opciones anteriores funciona y el viaje no se puede salvar, pregunta a tu aerolínea qué puede hacer. Algunas te cambian el vuelo o te ofrecen un crédito como gesto de buena voluntad una vez que lo explicas. Sin embargo, la mayoría de las condiciones de las aerolíneas tratan un problema de documentación como responsabilidad propia del pasajero, así que no hay un reembolso automático que reclamar.
 
 Si el agente de la puerta dice que no, no discutas ni intentes embarcar de todos modos. Eso solo crea problemas mayores. La aerolínea puede prohibirte futuros vuelos, las autoridades de inmigración pueden multarte, y en algunos países pueden procesarte por intentar viajar con un documento que ya han considerado inválido.

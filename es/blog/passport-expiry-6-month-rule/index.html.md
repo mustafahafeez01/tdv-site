@@ -56,11 +56,12 @@ La siguiente tabla cubre los destinos más comunes. Las políticas cambian, así
 | Filipinas | 6 meses | Más billete de salida/regreso requerido |
 | India | 6 meses | Visado también requerido para la mayoría de nacionalidades |
 | Kenia | 6 meses | eVisa requerido; la regla de 6 meses aplica |
-| Turquía | 6 meses *(recomendado)* | Oficialmente 60 días después de la estancia; las aerolíneas aplican el estándar de 6 meses |
+| Turquía | 150 días desde la llegada | Foreign Office del Reino Unido: caducidad al menos 150 días después de la fecha de llegada |
 | UE / Schengen | 3 meses después de la salida | Más una fecha de expedición de menos de 10 años |
 | Reino Unido | Solo duración de la estancia | Los ciudadanos británicos al extranjero aún están sujetos a las reglas del país de destino |
 | EE.UU. | Solo duración de la estancia | Los ciudadanos estadounidenses al extranjero están sujetos a las reglas del país de destino |
-| Japón / Australia / Nueva Zelanda | Solo duración de la estancia | Sin regla de extensión de 6 meses para visitantes |
+| Japón / Australia | Solo duración de la estancia | Sin regla de extensión de 6 meses para visitantes |
+| Nueva Zelanda | 3 meses después de la salida | Foreign Office del Reino Unido: caducidad al menos 3 meses después del día en que planeas salir |
 
 Esta no es una lista exhaustiva, y los requisitos varían según tu nacionalidad —no solo el destino. Siempre verifica tu asesoramiento oficial de viaje del gobierno antes de reservar.
 

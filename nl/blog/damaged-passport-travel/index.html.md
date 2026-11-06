@@ -13,7 +13,7 @@ Source: https://traveldocumentvault.com/nl/blog/damaged-passport-travel/
 - **Niet elke slijtageplek is schade.** Een gekreukte kaft is prima. Waterschade, gescheurde pagina's of vervaagde beveiligingskenmerken zijn dat niet.
 - Luchtvaartmaatschappijen weigeren instappen als **ze denken dat een paspoort beschadigd is** – ze zijn aansprakelijk voor het vervoeren van een ongeldig document en kiezen daarom liever voor zekerheid.
 - Schade ontdekken **dagen of weken van tevoren** geeft je tijd voor een spoedvernieuwing. De dag ervoor is een crisis.
-- Word je bij de gate geweigerd, **vraag je ambassade dan naar een nooddocument** – afgifte dezelfde dag is vaak mogelijk.
+- Word je bij de gate geweigerd, **vraag je ambassade dan naar een nooddocument**.
 - Een digitale kopie is **het meest waard als je in het buitenland bent** – een consulaire medewerker kan sneller vaststellen wie je bent aan de hand van een scan dan aan de hand van jouw verhaal. Scan je paspoort dus voordat je vertrekt.
 
 De meeste paspoortschade is cosmetisch. Een versleten kaft, een verzachte hoek, een rafelige rand langs de rug – niets daarvan houdt iemand tegen bij het instappen. Wat grenspersoneel en gate agents daadwerkelijk controleren is beperkter dan de meeste reizigers denken: de gegevenspagina, de twee gedrukte regels daaronder, en of het boekje nog als één geheel document aan elkaar hangt.
@@ -30,7 +30,7 @@ Het belangrijkste is dat de machineleesbare zone – de zwart-witte strook onder
 
 ![Twee open paspoorten naast elkaar: één versleten maar vlak en bruikbaar, één waterbeschadigd met gegolfde pagina's en loslatende lamineerlaag](https://traveldocumentvault.com/blog/damaged-passport-travel/damage-vs-wear-figure.jpg) Kleine vouwen op de kaft: geen probleem. Waterschade op de gegevenspagina: wel een probleem.
 
-De reden dat dit ertoe doet, is dat **luchtvaartmaatschappijen aansprakelijk zijn als ze iemand met een ongeldig document laten instappen.** Stap je in met een beschadigd paspoort en word je aan de andere kant de toegang geweigerd, dan kunnen de autoriteiten de luchtvaartmaatschappij beboeten voor het vervoeren van jou. De maatschappij moet dan ook de kosten dragen om je terug naar huis te vliegen.
+De reden dat dit ertoe doet, is dat **luchtvaartmaatschappijen aansprakelijk zijn als ze iemand met een ongeldig document laten instappen.** Stap je in met een beschadigd paspoort en word je aan de andere kant de toegang geweigerd, dan kunnen de autoriteiten de luchtvaartmaatschappij beboeten voor het vervoeren van jou.
 
 Geen enkele gate agent zit te wachten op die rompslomp, dus ze kiezen resoluut voor de veilige kant.
 
@@ -58,8 +58,8 @@ Is de schade echt minimaal, zoals een kleine vouw die geen tekst of beveiligings
 
 Zodra instappen is geweigerd, heb je beperkte opties:
 
-- **Omboeken naar een latere vlucht.** Neem contact op met je luchtvaartmaatschappij of boekingskantoor en leg uit wat er is gebeurd. In veel gevallen boeken ze je gratis om zodra de reden een beschadigd document is (en geen no-show of vrijwillige annulering). Gebruik deze tijd om je paspoort te regelen.
-- **Een nooddocument aanvragen.** Neem meteen contact op met de dichtstbijzijnde ambassade of het consulaat. Leg uit dat je een bevestigde vlucht hebt en dringend moet reizen. Ben je nog op het vliegveld, dan kunnen veel ambassades nog dezelfde dag een nooddocument afgeven – maar je moet snel handelen en je boeking kunnen aantonen.
+- **Omboeken naar een latere vlucht.** Neem contact op met je luchtvaartmaatschappij of boekingskantoor en leg uit wat er is gebeurd. Vraag of ze je naar een latere vlucht kunnen overzetten en controleer wat de wijziging kost volgens je tariefvoorwaarden. Gebruik deze tijd om je paspoort te regelen.
+- **Een nooddocument aanvragen.** Neem meteen contact op met de dichtstbijzijnde ambassade of het consulaat. Leg uit dat je een bevestigde vlucht hebt en dringend moet reizen. Handel snel en houd bewijs van je boeking bij de hand. Voor Britse onderdanen geldt volgens GOV.UK dat een noodreisdocument meestal 2 werkdagen na je aanvraag klaar is, en soms kan het langer duren.
 - **De annulering accepteren.** Werkt geen van beide opties en is de reis niet meer te redden, vraag dan je luchtvaartmaatschappij wat er mogelijk is. Sommige boeken je uit coulance om of bieden een tegoed aan zodra je het uitlegt. De meeste luchtvaartvoorwaarden zien een documentprobleem echter als de eigen verantwoordelijkheid van de passagier, dus een automatische terugbetaling zit er meestal niet in.
 
 Zegt de gate agent nee, ga dan niet in discussie en probeer niet alsnog in te stappen. Dat zorgt alleen voor grotere problemen. De luchtvaartmaatschappij kan je uitsluiten van toekomstige vluchten, immigratieautoriteiten kunnen je een boete geven, en in sommige landen kun je zelfs vervolgd worden omdat je probeerde te reizen op een document dat al als ongeldig is beoordeeld.

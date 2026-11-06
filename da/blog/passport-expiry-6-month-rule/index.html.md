@@ -54,11 +54,12 @@ Tabellen nedenfor dækker de mest almindelige rejsemål. Regler ændrer sig, så
 | Filippinerne | 6 måneder | Desuden kræves videre- eller returbillet |
 | Indien | 6 måneder | Visum kræves også for de fleste nationaliteter |
 | Kenya | 6 måneder | eVisum kræves; 6-måneders-reglen gælder |
-| Tyrkiet | 6 måneder *(anbefalet)* | Officielt 60 dage ud over opholdet; flyselskaber anvender 6-måneders-standarden |
+| Tyrkiet | 150 dage fra ankomst | Det britiske udenrigsministerium: udløbsdato mindst 150 dage efter ankomstdatoen |
 | EU / Schengen | 3 måneder efter afrejsen | Plus en udstedelsesdato under 10 år gammel |
 | Storbritannien | Kun opholdets varighed | Britiske statsborgere i udlandet er stadig underlagt destinationens regler |
 | USA | Kun opholdets varighed | Amerikanske statsborgere i udlandet er underlagt destinationslandets regler |
-| Japan / Australien / New Zealand | Kun opholdets varighed | Ingen 6-måneders-regel for besøgende |
+| Japan / Australien | Kun opholdets varighed | Ingen 6-måneders-regel for besøgende |
+| New Zealand | 3 måneder efter afrejse | Det britiske udenrigsministerium: udløbsdato mindst 3 måneder efter den dag, du planlægger at rejse |
 
 Tabellen er et øjebliksbillede, ikke det fulde overblik: kravene varierer også efter din nationalitet, ikke kun destinationen, så tjek altid dit lands officielle rejsevejledning, før du booker.
 

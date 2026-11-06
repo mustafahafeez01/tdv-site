@@ -13,7 +13,7 @@ Source: https://traveldocumentvault.com/sv/blog/damaged-passport-travel/
 - **Allt slitage är inte skada.** Ett skrynkligt omslag är inget problem. Vattenskador, rivna sidor eller suddiga säkerhetsdetaljer är det.
 - Flygbolag nekar ombordstigning om de tror att **ett pass är skadat** – de ansvarar för att ha släppt ombord en ogiltig handling och väljer därför att vara försiktiga.
 - Upptäcker du skadan **dagar eller veckor före** resan hinner du med en akut förnyelse. Dagen innan är det en kris.
-- Blir du nekad vid gaten, **fråga din ambassad om ett nödresedokument** – det kan ibland utfärdas samma dag.
+- Blir du nekad vid gaten, **fråga din ambassad om ett nödresedokument**.
 - En digital kopia är **som mest värdefull när du är utomlands** – en konsulär tjänsteman kan fastställa vem du är utifrån en skanning mycket snabbare än utifrån din egen berättelse. Skanna passet innan du reser.
 
 De flesta passskador är kosmetiska. Ett nött omslag, ett mjuknat hörn, en fransig kant längs ryggen – inget av det hindrar någon från att gå ombord. Det gränspersonal och flygbolagens personal faktiskt kontrollerar är snävare än de flesta resenärer tror: datasidan, de två tryckta raderna under den, och om häftet fortfarande håller ihop som en sammanhängande handling.
@@ -30,7 +30,7 @@ Viktigast av allt är att den maskinläsbara zonen – det svartvita fältet lä
 
 ![Diagram med två öppna pass sida vid sida: ett slitet men plant och användbart, ett vattenskadat med buckliga sidor och lossnande laminering](https://traveldocumentvault.com/blog/damaged-passport-travel/damage-vs-wear-figure.jpg) Mindre skrynklor på omslaget: acceptabelt. Vattenskada på datasidan: ett problem.
 
-Anledningen till att detta spelar roll är att **flygbolagen bär ansvaret om de släpper ombord någon med en oacceptabel handling.** Går du ombord med ett skadat pass och nekas inresa vid ankomsten kan myndigheterna bötfälla flygbolaget för att ha transporterat dig. Flygbolaget måste även stå för kostnaden att flyga hem dig.
+Anledningen till att detta spelar roll är att **flygbolagen bär ansvaret om de släpper ombord någon med en oacceptabel handling.** Går du ombord med ett skadat pass och nekas inresa vid ankomsten kan myndigheterna bötfälla flygbolaget för att ha transporterat dig.
 
 Ingen personal vid gaten vill ha det pappersarbetet, så de väljer hellre att vara försiktiga.
 
@@ -58,8 +58,8 @@ Håll dig lugn och var ärlig. Berätta för personalen att skadan just har bliv
 
 När ombordstigningen väl är nekad har du begränsade alternativ:
 
-- **Boka om till ett senare flyg.** Kontakta flygbolaget eller din resebyrå och förklara vad som hänt. I många fall bokar de om dig utan extra kostnad när orsaken är en skadad handling (inte uteblivande eller en frivillig avbokning). Använd tiden till att ordna ditt pass.
-- **Ansök om ett nödresedokument.** Kontakta närmaste ambassad eller konsulat omedelbart. Förklara att du har en bekräftad resa och behöver resa brådskande. Är du fortfarande på flygplatsen kan många ambassader utfärda ett nödresedokument samma dag – men du måste agera snabbt och visa bokningsbekräftelse.
+- **Boka om till ett senare flyg.** Kontakta flygbolaget eller din resebyrå och förklara vad som hänt. Fråga om de kan flytta dig till ett senare flyg, och kontrollera vad ändringen kostar enligt dina biljettvillkor. Använd tiden till att ordna ditt pass.
+- **Ansök om ett nödresedokument.** Kontakta närmaste ambassad eller konsulat omedelbart. Förklara att du har en bekräftad resa och behöver resa brådskande. Agera snabbt och ha bokningsbekräftelsen redo. För brittiska medborgare uppger GOV.UK att ett nödresedokument vanligtvis är klart 2 arbetsdagar efter ansökan, och att det i vissa fall kan ta längre tid.
 - **Acceptera avbokningen.** Fungerar inget av alternativen och resan inte kan räddas, fråga flygbolaget vad de kan göra. Vissa bokar om dig eller erbjuder ett tillgodohavande som god vilja när du förklarar situationen. De flesta flygbolags villkor betraktar dock ett dokumentproblem som passagerarens eget ansvar, så det finns ingen automatisk återbetalning att kräva.
 
 Säger personalen vid gaten nej, argumentera inte och försök inte gå ombord ändå. Det skapar bara större problem. Flygbolaget kan neka dig framtida resor, gränsmyndigheter kan bötfälla dig, och i vissa länder kan du åtalas för att ha försökt resa på en handling de redan bedömt som ogiltig.

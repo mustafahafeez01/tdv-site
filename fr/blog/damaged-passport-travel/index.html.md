@@ -13,7 +13,7 @@ Source: https://traveldocumentvault.com/fr/blog/damaged-passport-travel/
 - **Toute usure n'est pas un dommage.** Une couverture pliée ne pose pas de problème. Des dégâts des eaux, des pages déchirées ou des dispositifs de sécurité maculés, si.
 - Les compagnies aériennes refusent l'embarquement dès qu'**elles pensent qu'un passeport est endommagé** — elles sont responsables si elles font embarquer un document invalide et préfèrent rester prudentes.
 - Repérer un dommage **plusieurs jours ou semaines avant** votre voyage vous laisse le temps d'un renouvellement d'urgence. La veille, c'est la crise.
-- Si l'on vous refuse l'embarquement, **renseignez-vous auprès de votre ambassade sur un document de voyage d'urgence** — une délivrance le jour même est possible.
+- Si l'on vous refuse l'embarquement, **renseignez-vous auprès de votre ambassade sur un document de voyage d'urgence**.
 - Une copie numérique **vaut le plus quand vous êtes à l'étranger** — un agent consulaire peut établir votre identité à partir d'un scan bien plus vite qu'à partir de votre récit. Scannez votre passeport avant de voyager.
 
 La plupart des dommages sur un passeport sont purement esthétiques. Une couverture éraflée, un coin ramolli, une tranche élimée le long de la reliure — rien de tout cela n'empêche d'embarquer. Ce que le personnel frontalier et les agents des compagnies aériennes vérifient réellement est plus restreint qu'on ne l'imagine : la page d'identité, les deux lignes imprimées en bas de cette page, et si le livret tient encore en un seul document.
@@ -30,7 +30,7 @@ Plus important encore, la zone de lecture optique — la bande noire et blanche 
 
 ![Deux passeports ouverts côte à côte : l'un usé mais plat et utilisable, l'autre taché par l'eau avec des pages gondolées et le laminage qui se décolle](https://traveldocumentvault.com/blog/damaged-passport-travel/damage-vs-wear-figure.jpg) Pliures légères sur la couverture : acceptable. Dégât des eaux sur la page d'identité : un problème.
 
-Cela compte parce que **les compagnies aériennes portent la responsabilité si elles font embarquer une personne munie d'un document inacceptable.** Embarquez avec un passeport endommagé, voyez-vous refuser l'entrée à destination, et les autorités peuvent infliger une amende à la compagnie pour vous avoir transporté. La compagnie doit également couvrir le coût de votre rapatriement.
+Cela compte parce que **les compagnies aériennes portent la responsabilité si elles font embarquer une personne munie d'un document inacceptable.** Embarquez avec un passeport endommagé, voyez-vous refuser l'entrée à destination, et les autorités peuvent infliger une amende à la compagnie pour vous avoir transporté.
 
 Aucun agent d'embarquement ne souhaite cette paperasse, il préfère donc nettement la prudence.
 
@@ -58,8 +58,8 @@ Si le dommage est vraiment mineur, un léger pli qui n'affecte ni le texte ni un
 
 Une fois l'embarquement refusé, vos options sont limitées :
 
-- **Vous faire réinscrire sur un vol ultérieur.** Contactez votre compagnie aérienne ou votre agence de réservation et expliquez ce qui s'est passé. Dans de nombreux cas, elles vous réinscriront sans frais supplémentaires une fois que la raison est un document endommagé (et non une absence ou une annulation volontaire). Profitez de ce délai pour régler la situation de votre passeport.
-- **Demander un document de voyage d'urgence.** Contactez immédiatement l'ambassade ou le consulat le plus proche. Expliquez que vous avez un vol confirmé et devez voyager de toute urgence. Si vous êtes encore à l'aéroport, de nombreuses ambassades peuvent délivrer un document de voyage d'urgence le jour même — mais vous devez agir vite et présenter une preuve de votre réservation.
+- **Vous faire réinscrire sur un vol ultérieur.** Contactez votre compagnie aérienne ou votre agence de réservation et expliquez ce qui s'est passé ; demandez si elles peuvent vous placer sur un vol ultérieur et vérifiez le coût du changement selon les conditions de votre tarif. Profitez de ce délai pour régler la situation de votre passeport.
+- **Demander un document de voyage d'urgence.** Contactez immédiatement l'ambassade ou le consulat le plus proche. Expliquez que vous avez un vol confirmé et devez voyager de toute urgence. Agissez vite et ayez votre preuve de réservation à portée de main. Pour les ressortissants britanniques, GOV.UK indique qu'un document de voyage d'urgence est généralement prêt 2 jours ouvrables après la demande, et que cela peut prendre plus de temps dans certains cas.
 - **Accepter l'annulation.** Si aucune de ces options ne fonctionne et que le voyage ne peut pas être sauvé, demandez à votre compagnie aérienne ce qu'elle peut faire. Certaines vous réinscriront ou offriront un avoir en geste commercial une fois la situation expliquée. La plupart des conditions des compagnies aériennes considèrent toutefois un problème de document comme relevant de la responsabilité du passager, donc aucun remboursement automatique n'est à réclamer.
 
 Si l'agent d'embarquement refuse, ne discutez pas et n'essayez pas d'embarquer quand même. Cela ne fait que créer des problèmes plus graves. La compagnie aérienne peut vous interdire de vols futurs, les autorités de l'immigration peuvent vous infliger une amende, et dans certains pays, elles peuvent vous poursuivre pour avoir tenté de voyager avec un document déjà jugé invalide.
