@@ -24,7 +24,7 @@ O funcionário de imigração olhou para o passaporte da minha filha, fez uma pa
 
 A regra exige seis meses de validade do passaporte para a sua viagem. A maioria dos países conta isto a partir do dia em que chega, e alguns a partir do dia em que parte, por isso contar a partir da sua data de partida cobre ambos os casos. Na prática, isto significa:
 
-- Se está a visitar a Tailândia e planeia partir a 1 de agosto, o seu passaporte deve manter-se válido até pelo menos 1 de fevereiro do ano seguinte.
+- Se está a visitar a Tailândia e chega a 1 de agosto, o seu passaporte deve manter-se válido até pelo menos 1 de fevereiro do ano seguinte.
 - Um passaporte que expira em 30 de novembro é tecnicamente "válido" para a sua viagem em agosto — mas falha este requisito por dois meses.
 
 A lógica é simples: os países querem garantia de que não se ficará além do seu visto e depois se encontrará a segurando um documento morto sem forma de regressar a casa. Seis meses é uma margem administrativa conveniente.
@@ -47,17 +47,17 @@ A tabela seguinte cobre os destinos mais comuns. As políticas mudam, portanto s
 
 | País / Região | Validade Exigida | Notas |
 |---|---|---|
-| Tailândia | 6 meses | Rigorosamente aplicada no check-in |
-| Indonésia | 6 meses | Aplica-se a todas as nacionalidades |
-| Vietname | 6 meses | Varia conforme a nacionalidade; verifique antes de viajar |
-| Malásia | 6 meses | Aplicada no check-in e na fronteira |
-| Filipinas | 6 meses | Mais bilhete de regresso/viagem necessário |
-| Índia | 6 meses | Visto também exigido para a maioria das nacionalidades |
-| Quénia | 6 meses | eVisto exigido; regra dos 6 meses aplica-se |
+| Tailândia | 6 meses a partir da chegada | Exige também pelo menos 1 página em branco |
+| Indonésia | 6 meses | Aplica-se tanto à entrada sem visto como ao visto à chegada e ao e-visto |
+| Vietname | 6 meses | Exige também 2 páginas em branco e um passaporte sem danos |
+| Malásia | 6 meses | O passaporte deve estar sem danos e sem páginas em falta |
+| Filipinas | 6 meses | Geralmente é esperada prova de viagem de continuação ou de regresso |
+| Índia | 6 meses | Visto exigido para visitantes britânicos; também 2 páginas em branco |
+| Quénia | 6 meses | Solicite online uma autorização eletrónica de viagem (ETA) antes de viajar |
 | Turquia | 150 dias a partir da chegada | [Foreign Office do Reino Unido](https://www.gov.uk/foreign-travel-advice/turkey/entry-requirements): data de validade pelo menos 150 dias após a data de chegada |
 | UE / Schengen | 3 meses além da partida | Mais uma data de emissão com menos de 10 anos |
 | Reino Unido | Duração da estadia apenas | Cidadãos britânicos no estrangeiro ainda sujeitos às regras do país de destino |
-| EUA | Duração da estadia apenas | Cidadãos norte-americanos no estrangeiro sujeitos às regras do país de destino |
+| EUA | Duração da estadia para muitas nacionalidades | Caso contrário, 6 meses além da estadia; o CBP mantém a lista de isenção (o Reino Unido consta dela) |
 | Japão / Austrália | Duração da estadia apenas | Nenhuma regra de extensão de 6 meses para visitantes |
 | Nova Zelândia | 3 meses além da partida | [Foreign Office do Reino Unido](https://www.gov.uk/foreign-travel-advice/new-zealand/entry-requirements): data de validade pelo menos 3 meses após o dia em que planeia partir |
 
@@ -69,7 +69,7 @@ Sempre verifique os seus requisitos específicos utilizando o Centro de Viagens 
 
 ## Quando a Regra dos 6 Meses Não se Aplica
 
-Muitos destinos não pedem nada além das datas da sua viagem. O [Ministério dos Negócios Estrangeiros do Reino Unido](https://www.gov.uk/foreign-travel-advice/japan/entry-requirements) explica claramente para o Japão: o seu passaporte deve ser válido durante o período da sua estadia, sem período adicional de validade exigido. A [Austrália](https://www.gov.uk/foreign-travel-advice/australia/entry-requirements) e os [Estados Unidos](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements) usam o mesmo padrão, pedindo apenas que o seu passaporte se mantenha válido durante o período da sua estadia planeada.
+Muitos destinos não pedem nada além das datas da sua viagem. O [Ministério dos Negócios Estrangeiros do Reino Unido](https://www.gov.uk/foreign-travel-advice/japan/entry-requirements) explica claramente para o Japão: o seu passaporte deve ser válido durante o período da sua estadia, sem período adicional de validade exigido. A [Austrália](https://www.gov.uk/foreign-travel-advice/australia/entry-requirements) usa o mesmo padrão, assim como os [Estados Unidos](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements) para cidadãos dos países incluídos na sua lista de isenção, da qual o Reino Unido faz parte.
 
 A Europa fica algures no meio, e é o nível que as pessoas interpretam mal com mais frequência. Para visitar o espaço Schengen, o [Ministério](https://www.gov.uk/foreign-travel-advice/france/entry-requirements) diz que o seu passaporte precisa de uma data de expiração pelo menos três meses após o dia em que planeia partir. Três meses, não seis.
 
@@ -168,7 +168,7 @@ O passaporte de cada membro da família é avaliado individualmente — não exi
 
 ### Posso viajar se o meu passaporte expira dentro de 3 meses?
 
-Depende inteiramente do seu destino. O Japão, a Austrália e os Estados Unidos apenas pedem que o seu passaporte se mantenha válido durante o período da sua estadia, por isso três meses são suficientes para uma viagem de duas semanas. O espaço Schengen exige três meses além do dia em que parte, por isso ter apenas três meses de validade é demasiado arriscado. A Tailândia exige seis meses a partir do dia em que chega, por isso três meses de validade significam uma recusa no check-in.
+Depende inteiramente do seu destino. O Japão e a Austrália apenas pedem que o seu passaporte se mantenha válido durante o período da sua estadia, por isso três meses são suficientes para uma viagem de duas semanas. Os Estados Unidos aplicam o mesmo aos cidadãos dos países na sua lista de isenção, da qual o Reino Unido faz parte. O espaço Schengen exige três meses além do dia em que parte, por isso ter apenas três meses de validade é demasiado arriscado. A Tailândia exige seis meses a partir do dia em que chega, por isso três meses de validade significam uma recusa no check-in.
 
 ### A regra dos 6 meses aplica-se se estiver apenas em trânsito por um país?
 

@@ -24,7 +24,7 @@ C'est l'une des exigences les plus mal comprises des voyages internationaux, et 
 
 Cette règle exige six mois de validité du passeport pour votre voyage. La plupart des pays comptent cela à partir du jour de votre arrivée, et certains à partir du jour de votre départ, donc compter à partir de votre date de départ couvre les deux cas. En pratique, cela signifie :
 
-- Si vous visitez la Thaïlande et prévoyez de partir le 1er août, votre passeport doit rester valide jusqu'au 1er février de l'année suivante.
+- Si vous visitez la Thaïlande et arrivez le 1er août, votre passeport doit rester valide jusqu'au 1er février de l'année suivante.
 - Un passeport expirant le 30 novembre est techniquement « valide » pour votre voyage en août — mais il ne répond pas à cette exigence de deux mois.
 
 La logique est simple : les pays veulent l'assurance que vous ne resterez pas au-delà de votre visa et que vous ne vous retrouverez pas avec un document invalide sans moyen de rentrer chez vous. Six mois est un tampon administratif pratique.
@@ -47,17 +47,17 @@ Le tableau suivant couvre les destinations les plus courantes. Les politiques ch
 
 | Pays / Région | Validité requise | Notes |
 |---|---|---|
-| Thaïlande | 6 mois | Strictement appliquée à l'enregistrement |
-| Indonésie | 6 mois | S'applique à toutes les nationalités |
-| Vietnam | 6 mois | Varie selon la nationalité ; vérifier avant le voyage |
-| Malaisie | 6 mois | Appliquée à l'enregistrement et à la frontière |
-| Philippines | 6 mois | Plus billet de continuation/retour requis |
-| Inde | 6 mois | Visa également requis pour la plupart des nationalités |
-| Kenya | 6 mois | Visa électronique requis ; règle des 6 mois s'applique |
+| Thaïlande | 6 mois à compter de l'arrivée | Nécessite aussi au moins 1 page vierge |
+| Indonésie | 6 mois | S'applique aussi bien à l'entrée sans visa, au visa à l'arrivée et à l'e-visa |
+| Vietnam | 6 mois | Nécessite aussi 2 pages vierges et un passeport non endommagé |
+| Malaisie | 6 mois | Le passeport doit être non endommagé, sans page manquante |
+| Philippines | 6 mois | Une preuve de voyage de continuation ou de retour est généralement attendue |
+| Inde | 6 mois | Visa nécessaire pour les visiteurs britanniques ; aussi 2 pages vierges |
+| Kenya | 6 mois | Demandez en ligne une autorisation de voyage électronique (ETA) avant de partir |
 | Turquie | 150 jours à compter de l'arrivée | [Foreign Office britannique](https://www.gov.uk/foreign-travel-advice/turkey/entry-requirements) : date d'expiration au moins 150 jours après la date de votre arrivée |
 | UE / Schengen | 3 mois au-delà du départ | Plus une date de délivrance de moins de 10 ans |
 | Royaume-Uni | Durée du séjour uniquement | Les citoyens britanniques à l'étranger restent soumis aux règles du pays de destination |
-| États-Unis | Durée du séjour uniquement | Les citoyens américains à l'étranger restent soumis aux règles du pays de destination |
+| États-Unis | Durée du séjour pour de nombreuses nationalités | Sinon, 6 mois après la fin du séjour ; le CBP tient la liste d'exemption (le Royaume-Uni y figure) |
 | Japon / Australie | Durée du séjour uniquement | Aucune règle d'extension de 6 mois pour les visiteurs |
 | Nouvelle-Zélande | 3 mois après le départ | [Foreign Office britannique](https://www.gov.uk/foreign-travel-advice/new-zealand/entry-requirements) : date d'expiration au moins 3 mois après le jour de votre départ prévu |
 
@@ -69,7 +69,7 @@ Vérifiez toujours vos exigences spécifiques auprès du IATA Travel Centre, le 
 
 ## Quand la règle des 6 mois ne s'applique pas
 
-De nombreuses destinations ne demandent rien de plus que les dates de votre séjour. Le [Foreign Office britannique](https://www.gov.uk/foreign-travel-advice/japan/entry-requirements) le formule clairement pour le Japon : votre passeport doit rester valide pour la durée de votre séjour, sans période de validité supplémentaire exigée. [L'Australie](https://www.gov.uk/foreign-travel-advice/australia/entry-requirements) et les [États-Unis](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements) appliquent la même règle et demandent seulement que votre passeport reste valide pour la durée de votre séjour prévu.
+De nombreuses destinations ne demandent rien de plus que les dates de votre séjour. Le [Foreign Office britannique](https://www.gov.uk/foreign-travel-advice/japan/entry-requirements) le formule clairement pour le Japon : votre passeport doit rester valide pour la durée de votre séjour, sans période de validité supplémentaire exigée. [L'Australie](https://www.gov.uk/foreign-travel-advice/australia/entry-requirements) applique la même règle, et les [États-Unis](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements) aussi, pour les citoyens des pays figurant sur leur liste d'exemption, qui inclut le Royaume-Uni.
 
 L'Europe se situe entre les deux, et c'est la catégorie la plus souvent mal comprise. Pour visiter l'espace Schengen, le [Foreign Office](https://www.gov.uk/foreign-travel-advice/france/entry-requirements) indique que votre passeport doit avoir une date d'expiration d'au moins trois mois après la date prévue de votre départ. Trois mois, pas six.
 
@@ -168,7 +168,7 @@ Le passeport de chaque membre de la famille est évalué individuellement — il
 
 ### Puis-je voyager si mon passeport expire dans 3 mois ?
 
-Cela dépend entièrement de votre destination. Le Japon, l'Australie et les États-Unis demandent seulement que votre passeport reste valide pour la durée de votre séjour, donc trois mois suffisent pour un voyage de deux semaines. L'espace Schengen exige trois mois au-delà de votre date de départ, donc trois mois restants sont bien trop justes. La Thaïlande demande six mois à compter de votre date d'arrivée, donc trois mois restants signifient un refus à l'enregistrement.
+Cela dépend entièrement de votre destination. Le Japon et l'Australie demandent seulement que votre passeport reste valide pour la durée de votre séjour, donc trois mois suffisent pour un voyage de deux semaines. Les États-Unis appliquent la même règle pour les citoyens des pays figurant sur leur liste d'exemption, qui inclut le Royaume-Uni. L'espace Schengen exige trois mois au-delà de votre date de départ, donc trois mois restants sont bien trop justes. La Thaïlande demande six mois à compter de votre date d'arrivée, donc trois mois restants signifient un refus à l'enregistrement.
 
 ### La règle des 6 mois s'applique-t-elle si je ne fais que transiter par un pays ?
 

@@ -24,7 +24,7 @@ Het is een van de meest verkeerd begrepen vereisten in internationaal reizen: he
 
 De regel vereist zes maanden paspoortgeldigheid voor je reis. De meeste landen rekenen dit vanaf je aankomstdag, en sommige vanaf je vertrekdag, dus rekenen vanaf je vertrekdatum dekt beide gevallen. In de praktijk betekent dit:
 
-- Ga je naar Thailand en vertrek je van plan op 1 augustus, dan moet je paspoort geldig blijven tot minstens 1 februari van het jaar erna.
+- Ga je naar Thailand en kom je aan op 1 augustus, dan moet je paspoort geldig blijven tot minstens 1 februari van het jaar erna.
 - Een paspoort dat op 30 november verloopt, is technisch "geldig" voor je reis in augustus – maar voldoet niet aan deze eis, met twee maanden verschil.
 
 De logica is simpel: landen willen zekerheid dat je je visum niet overschrijdt en vervolgens vastzit met een verlopen document zonder manier om terug te keren. Zes maanden is een handige administratieve marge.
@@ -47,17 +47,17 @@ Onderstaande tabel bevat de meest voorkomende bestemmingen. Beleid verandert, du
 
 | Land / regio | Vereiste geldigheid | Opmerkingen |
 |---|---|---|
-| Thailand | 6 maanden | Wordt streng gecontroleerd bij het inchecken |
-| Indonesië | 6 maanden | Geldt voor alle nationaliteiten |
-| Vietnam | 6 maanden | Verschilt per nationaliteit; controleer voor vertrek |
-| Maleisië | 6 maanden | Wordt gecontroleerd bij inchecken en aan de grens |
-| Filipijnen | 6 maanden | Plus een aansluitend of retourticket vereist |
-| India | 6 maanden | Ook een visum vereist voor de meeste nationaliteiten |
-| Kenia | 6 maanden | eVisum vereist; 6 maanden-regel is van toepassing |
+| Thailand | 6 maanden vanaf aankomst | Ook minstens 1 blanco pagina vereist |
+| Indonesië | 6 maanden | Geldt evenzeer voor visumvrije inreis, visum bij aankomst en e-visum |
+| Vietnam | 6 maanden | Ook 2 blanco pagina's en een onbeschadigd paspoort vereist |
+| Maleisië | 6 maanden | Paspoort moet onbeschadigd zijn en zonder ontbrekende pagina's |
+| Filipijnen | 6 maanden | Bewijs van een aansluitend of retourticket wordt doorgaans verwacht |
+| India | 6 maanden | Visum vereist voor Britse bezoekers; ook 2 blanco pagina's |
+| Kenia | 6 maanden | Vraag online een elektronische reisautorisatie (ETA) aan voor vertrek |
 | Turkije | 150 dagen vanaf aankomst | [Britse Foreign Office](https://www.gov.uk/foreign-travel-advice/turkey/entry-requirements): vervaldatum minstens 150 dagen na de dag van aankomst |
 | EU / Schengen | 3 maanden na vertrek | Plus een afgiftedatum van minder dan 10 jaar oud |
 | Verenigd Koninkrijk | Alleen verblijfsduur | Britse burgers in het buitenland vallen nog steeds onder de regels van het bestemmingsland |
-| VS | Alleen verblijfsduur | Amerikaanse burgers in het buitenland vallen onder de regels van het bestemmingsland |
+| VS | Alleen verblijfsduur voor veel nationaliteiten | Anders 6 maanden na je verblijf; de CBP beheert de vrijstellingslijst (het VK staat erop) |
 | Japan / Australië | Alleen verblijfsduur | Geen 6 maanden-verlengingsregel voor bezoekers |
 | Nieuw-Zeeland | 3 maanden na vertrek | [Britse Foreign Office](https://www.gov.uk/foreign-travel-advice/new-zealand/entry-requirements): vervaldatum minstens 3 maanden na de dag waarop je van plan bent te vertrekken |
 
@@ -67,7 +67,7 @@ Vereisten voor paspoortgeldigheid per land veranderen zonder aankondiging, en ee
 
 ## Wanneer de 6 maanden-regel niet geldt
 
-Veel bestemmingen vragen niets meer dan de data van je reis. De [Britse Foreign Office](https://www.gov.uk/foreign-travel-advice/japan/entry-requirements) zegt het voor Japan klip-en-klaar: je paspoort moet geldig zijn voor de duur van je verblijf, en er is geen extra geldigheidsperiode vereist. [Australië](https://www.gov.uk/foreign-travel-advice/australia/entry-requirements) en de [Verenigde Staten](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements) hanteren dezelfde norm en vragen alleen dat je paspoort geldig blijft voor de duur van je geplande verblijf.
+Veel bestemmingen vragen niets meer dan de data van je reis. De [Britse Foreign Office](https://www.gov.uk/foreign-travel-advice/japan/entry-requirements) zegt het voor Japan klip-en-klaar: je paspoort moet geldig zijn voor de duur van je verblijf, en er is geen extra geldigheidsperiode vereist. [Australië](https://www.gov.uk/foreign-travel-advice/australia/entry-requirements) hanteert dezelfde norm, en dat geldt ook voor de [Verenigde Staten](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements) voor burgers van de landen op hun vrijstellingslijst, waar het VK op staat.
 
 Europa zit ertussenin, en dit is de categorie die mensen het vaakst verkeerd inschatten. Voor een bezoek aan het Schengengebied zegt de [Foreign Office](https://www.gov.uk/foreign-travel-advice/france/entry-requirements) dat je paspoort een vervaldatum nodig heeft van minstens drie maanden na de dag waarop je van plan bent te vertrekken. Drie maanden, geen zes.
 
@@ -166,7 +166,7 @@ Het paspoort van elk gezinslid wordt afzonderlijk beoordeeld – er is geen groe
 
 ### Kan ik reizen als mijn paspoort over 3 maanden verloopt?
 
-Dat hangt volledig af van waar je heen gaat. Japan, Australië en de Verenigde Staten vragen alleen dat je paspoort geldig blijft voor de duur van je verblijf, dus drie maanden is prima voor een reis van twee weken. Het Schengengebied vereist drie maanden na je vertrekdag, dus met nog drie maanden geldigheid zit je veel te krap. Thailand wil zes maanden vanaf je aankomstdag, dus met nog drie maanden geldigheid word je bij het inchecken geweigerd.
+Dat hangt volledig af van waar je heen gaat. Japan en Australië vragen alleen dat je paspoort geldig blijft voor de duur van je verblijf, dus drie maanden is prima voor een reis van twee weken. De Verenigde Staten hanteren dezelfde regel voor burgers van de landen op hun vrijstellingslijst, waar het VK op staat. Het Schengengebied vereist drie maanden na je vertrekdag, dus met nog drie maanden geldigheid zit je veel te krap. Thailand wil zes maanden vanaf je aankomstdag, dus met nog drie maanden geldigheid word je bij het inchecken geweigerd.
 
 ### Geldt de 6 maanden-regel ook als ik alleen door een land reis (transit)?
 

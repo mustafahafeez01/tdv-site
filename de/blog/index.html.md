@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/de/blog/
 
 ##
 
+[VerlängerungNamensänderung im Reisepass nach der Heirat: Wann beantragen (UK)Heiraten bedeutet keinen neuen Reisepass, ein geänderter Name schon. Was HMPO verlangt, der vordatierte Reisepass und das Timing rund um die Flitterwochen.7. November 20266 Min. Lesezeit](https://traveldocumentvault.com/de/blog/passport-name-change-after-marriage/)
+
+##
+
 [Reisepass-RegelnKann man den US-Kinderreisepass verlängern? Nein, neu beantragenEin vor dem 16. Geburtstag ausgestellter US-Pass kann nicht verlängert werden. Neuantrag persönlich, mit beiden Eltern. Gültig fünf Jahre.3. November 20265 Min. Lesezeit](https://traveldocumentvault.com/de/blog/us-child-passport-renewal-under-16/)
 
 ##

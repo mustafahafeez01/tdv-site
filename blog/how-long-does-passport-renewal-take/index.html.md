@@ -117,6 +117,8 @@ Sometimes - provided your current passport is still valid and you haven't physic
 
 ## Related Articles
 
+[Renewal6 min read · November 2026Passport Name Change After Marriage: When to Apply in the UK](https://traveldocumentvault.com/blog/passport-name-change-after-marriage/)
+
 [Renewal7 min read · October 2026Can You Renew a Passport Before It Expires?](https://traveldocumentvault.com/blog/renew-passport-before-expiry/)
 
 [Travel Rules6 min read · Sep 8UK ETA: Which Passport Is Yours Tied To?](https://traveldocumentvault.com/blog/uk-eta-passport-rules/)

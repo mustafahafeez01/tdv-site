@@ -1,0 +1,57 @@
+{
+ "nl": {
+  "template": "cards",
+  "title": "Nieuwe naam, nieuw paspoort: twee routes",
+  "cards": [
+   {
+    "heading": "Aanvragen vóór de bruiloft",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Tot 3 maanden vooraf",
+      "mark": "dot"
+     },
+     {
+      "text": "Formulier door bedienaar of ambtenaar getekend",
+      "mark": "dot"
+     },
+     {
+      "text": "Oud paspoort wordt geannuleerd",
+      "mark": "cross"
+     },
+     {
+      "text": "Pas geldig vanaf de trouwdag",
+      "mark": "cross"
+     }
+    ]
+   },
+   {
+    "heading": "Aanvragen na de bruiloft",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Stuur je huwelijksakte mee",
+      "mark": "dot"
+     },
+     {
+      "text": "Meestal binnen 3 weken",
+      "mark": "tick"
+     },
+     {
+      "text": "Nieuw paspoortnummer",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "link": "arrow",
+  "link_label": "Trouwdag",
+  "focal": "Boek tickets op de naam in je paspoort",
+  "alt": "Schema van twee routes naar een Brits paspoort op een getrouwde naam. Aanvragen vóór de bruiloft: tot 3 maanden vooraf, formulier getekend door de bedienaar of ambtenaar, oud paspoort geannuleerd, nieuw paspoort pas geldig vanaf de trouwdag. Aanvragen na de bruiloft: stuur je huwelijksakte mee, meestal binnen 3 weken, nieuw paspoortnummer. Boek tickets op de naam in je paspoort",
+  "caption": "Beide routes werken. Welke bij je past, hangt af van wanneer je als eerste weer reist.",
+  "placement": {
+   "h2": 4,
+   "para": 2
+  }
+ }
+}

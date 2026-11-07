@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/sv/blog/
 
 ##
 
+[FörnyelseNamnbyte i passet efter giftermål: när du ansöker i StorbritannienAtt gifta sig ger inget nytt pass, men att byta namn gör det. Vad HMPO vill ha, efterdaterat pass och hur du planerar kring smekmånaden.7 november 20266 min läsning](https://traveldocumentvault.com/sv/blog/passport-name-change-after-marriage/)
+
+##
+
 [PassreglerKan ett barns pass i USA förnyas? Nej, du ansöker igenEtt amerikanskt pass utfärdat före 16 år kan inte förnyas. Du ansöker igen personligen, med båda föräldrarna. Fem års giltighet och vad som ändras vid 16.3 november 20265 min läsning](https://traveldocumentvault.com/sv/blog/us-child-passport-renewal-under-16/)
 
 ##

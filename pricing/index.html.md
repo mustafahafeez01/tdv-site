@@ -116,7 +116,7 @@ No time limits. No features that mysteriously disappear. No dark patterns pushin
 
 Pro is for families. Unlimited profiles for your whole family, unlimited documents, trip planner with a visual readiness checklist, encrypted cloud backup to your own iCloud or Google Drive, and a days-abroad tracker for per-country day limits and tax residency tracking.
 
-One purchase on your account. One family. Works on all your devices that use the same App Store or Google Play account.
+One purchase on your account. One family. Works on all your devices that use the same App Store or Google Play account. The App Store and Google Play each sell Pro separately, so moving between iPhone and Android means buying it once more.
 
 ## One Purchase, Whole Family
 

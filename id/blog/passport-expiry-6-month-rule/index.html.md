@@ -24,7 +24,7 @@ Ini salah satu persyaratan yang paling sering disalahpahami dalam perjalanan int
 
 Aturan ini mewajibkan sisa masa berlaku paspor enam bulan untuk perjalanan Anda. Sebagian besar negara menghitungnya dari hari Anda tiba, dan sebagian dari hari Anda berangkat, sehingga menghitung dari tanggal keberangkatan Anda mencakup keduanya. Dalam praktiknya, ini berarti:
 
-- Jika Anda mengunjungi Thailand dan berencana pulang pada 1 Agustus, paspor Anda harus tetap berlaku hingga setidaknya 1 Februari tahun berikutnya.
+- Jika Anda mengunjungi Thailand dan tiba pada 1 Agustus, paspor Anda harus tetap berlaku hingga setidaknya 1 Februari tahun berikutnya.
 - Paspor yang kedaluwarsa pada 30 November secara teknis masih "berlaku" untuk perjalanan Agustus Anda — tapi tidak memenuhi persyaratan ini, kurang dua bulan.
 
 Logikanya sederhana: negara ingin memastikan Anda tidak melebihi masa izin tinggal lalu terjebak dengan dokumen yang sudah tidak berguna dan tanpa cara untuk pulang. Enam bulan adalah jarak aman administratif yang praktis.
@@ -47,17 +47,17 @@ Tabel berikut mencakup tujuan paling umum. Kebijakan bisa berubah, jadi selalu p
 
 | Negara / Wilayah | Masa Berlaku yang Diperlukan | Catatan |
 |---|---|---|
-| Thailand | 6 bulan | Diberlakukan ketat saat check-in |
-| Indonesia | 6 bulan | Berlaku untuk semua kewarganegaraan |
-| Vietnam | 6 bulan | Bervariasi menurut kewarganegaraan; periksa sebelum bepergian |
-| Malaysia | 6 bulan | Diberlakukan saat check-in dan di perbatasan |
-| Filipina | 6 bulan | Ditambah tiket lanjutan/pulang wajib disertakan |
-| India | 6 bulan | Visa juga diperlukan untuk sebagian besar kewarganegaraan |
-| Kenya | 6 bulan | eVisa diperlukan; aturan 6 bulan berlaku |
+| Thailand | 6 bulan sejak kedatangan | Juga memerlukan setidaknya 1 halaman kosong |
+| Indonesia | 6 bulan | Berlaku sama untuk bebas visa, visa saat kedatangan, dan e-visa |
+| Vietnam | 6 bulan | Juga memerlukan 2 halaman kosong dan paspor tanpa kerusakan |
+| Malaysia | 6 bulan | Paspor harus tanpa kerusakan dan tidak ada halaman yang hilang |
+| Filipina | 6 bulan | Biasanya bukti tiket lanjutan atau pulang diperlukan |
+| India | 6 bulan | Visa diperlukan untuk pengunjung asal Inggris; juga 2 halaman kosong |
+| Kenya | 6 bulan | Ajukan izin perjalanan elektronik (ETA) secara online sebelum bepergian |
 | Turki | 150 hari sejak kedatangan | [Kantor Luar Negeri Inggris](https://www.gov.uk/foreign-travel-advice/turkey/entry-requirements): tanggal kedaluwarsa paling sedikit 150 hari setelah tanggal Anda tiba |
 | UE / Schengen | 3 bulan setelah keberangkatan | Ditambah tanggal penerbitan di bawah 10 tahun |
 | Inggris Raya | Hanya durasi kunjungan | Warga negara Inggris di luar negeri tetap tunduk pada aturan negara tujuan |
-| AS | Hanya durasi kunjungan | Warga negara AS di luar negeri tunduk pada aturan negara tujuan |
+| AS | Hanya durasi kunjungan untuk banyak kewarganegaraan | Jika tidak, 6 bulan setelah masa kunjungan berakhir; CBP mengelola daftar pengecualian (Inggris Raya termasuk di dalamnya) |
 | Jepang / Australia | Hanya durasi kunjungan | Tidak ada aturan perpanjangan 6 bulan untuk pengunjung |
 | Selandia Baru | 3 bulan setelah keberangkatan | [Kantor Luar Negeri Inggris](https://www.gov.uk/foreign-travel-advice/new-zealand/entry-requirements): tanggal kedaluwarsa paling sedikit 3 bulan setelah hari Anda berencana pergi |
 
@@ -67,7 +67,7 @@ Persyaratan masa berlaku paspor per negara bisa berubah tanpa pemberitahuan, dan
 
 ## Kapan Aturan 6 Bulan Tidak Berlaku
 
-Banyak destinasi tidak mensyaratkan apa pun di luar tanggal perjalanan Anda. [Kantor Luar Negeri Inggris](https://www.gov.uk/foreign-travel-advice/japan/entry-requirements) menyampaikannya dengan jelas untuk Jepang: paspor Anda harus berlaku selama masa kunjungan Anda, dan tidak diperlukan masa berlaku tambahan. [Australia](https://www.gov.uk/foreign-travel-advice/australia/entry-requirements) dan [Amerika Serikat](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements) menerapkan standar yang sama, hanya mensyaratkan paspor Anda tetap berlaku selama masa kunjungan yang Anda rencanakan.
+Banyak destinasi tidak mensyaratkan apa pun di luar tanggal perjalanan Anda. [Kantor Luar Negeri Inggris](https://www.gov.uk/foreign-travel-advice/japan/entry-requirements) menyampaikannya dengan jelas untuk Jepang: paspor Anda harus berlaku selama masa kunjungan Anda, dan tidak diperlukan masa berlaku tambahan. [Australia](https://www.gov.uk/foreign-travel-advice/australia/entry-requirements) menerapkan standar yang sama, begitu pula [Amerika Serikat](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements) untuk warga negara dari negara-negara dalam daftar pengecualiannya, yang mencakup Inggris Raya.
 
 Eropa berada di posisi tengah, dan inilah kategori yang paling sering disalahpahami orang. Untuk mengunjungi wilayah Schengen, [Kantor Luar Negeri Inggris](https://www.gov.uk/foreign-travel-advice/france/entry-requirements) menyatakan paspor Anda harus memiliki tanggal kedaluwarsa setidaknya tiga bulan setelah hari Anda berencana berangkat. Tiga bulan, bukan enam.
 
@@ -166,7 +166,7 @@ Paspor setiap anggota keluarga dinilai secara individual, tidak ada aturan kelom
 
 ### Bisakah saya bepergian jika masa berlaku paspor saya tersisa 3 bulan?
 
-Ini sepenuhnya bergantung ke mana Anda pergi. Jepang, Australia, dan Amerika Serikat hanya mensyaratkan paspor Anda tetap berlaku selama masa kunjungan Anda, sehingga sisa tiga bulan sudah cukup untuk perjalanan dua minggu. Wilayah Schengen mensyaratkan tiga bulan setelah hari Anda berangkat, jadi sisa tiga bulan sudah terlalu mepet. Thailand mensyaratkan enam bulan dari hari Anda tiba, sehingga sisa tiga bulan berarti penolakan saat check-in.
+Ini sepenuhnya bergantung ke mana Anda pergi. Jepang dan Australia hanya mensyaratkan paspor Anda tetap berlaku selama masa kunjungan Anda, sehingga sisa tiga bulan sudah cukup untuk perjalanan dua minggu. Amerika Serikat menerapkan aturan yang sama untuk warga negara dari negara-negara dalam daftar pengecualiannya, yang mencakup Inggris Raya. Wilayah Schengen mensyaratkan tiga bulan setelah hari Anda berangkat, jadi sisa tiga bulan sudah terlalu mepet. Thailand mensyaratkan enam bulan dari hari Anda tiba, sehingga sisa tiga bulan berarti penolakan saat check-in.
 
 ### Apakah aturan 6 bulan berlaku jika saya hanya transit melalui suatu negara?
 

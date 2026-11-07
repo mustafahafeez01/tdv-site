@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/nl/blog/
 
 ##
 
+[VerlengingNaam in je paspoort wijzigen na het huwelijk: wanneer aanvragen in het VKTrouwen betekent geen nieuw paspoort; een andere naam gebruiken wel. Wat HMPO vraagt, het vooruitgedateerde paspoort en de timing rond de huwelijksreis.7 november 20266 min leestijd](https://traveldocumentvault.com/nl/blog/passport-name-change-after-marriage/)
+
+##
+
 [PaspoortregelsEen Amerikaans kinderpaspoort verlengen? Nee, je vraagt opnieuw aanEen Amerikaans paspoort van vóór de 16e kun je niet verlengen. Je vraagt persoonlijk opnieuw aan, met beide ouders. Vijf jaar geldig, wat op 16 verandert.3 november 20265 min leestijd](https://traveldocumentvault.com/nl/blog/us-child-passport-renewal-under-16/)
 
 ##

@@ -54,7 +54,7 @@ Vem byggde den här appen och varför är den integritetsfokuserad?
 
 Travel Document Vault byggdes av Mustafa Hafeez, en senior mjukvaruutvecklare med många års yrkeserfarenhet av att bygga integritetsrespekterande applikationer, och en förälder som behövde appen till sin egen familj. Integritet är ingen marknadsföringsfras. Det lokala valvet kräver inget Travel Document Vault-konto eller någon server. Aktivera applås för att begränsa åtkomsten på en upplåst telefon. Den valfria molnsäkerhetskopian använder ditt eget iCloud eller Google Drive, krypterad från början till slut med en återställningskod som bara du har. Det är ett medvetet tekniskt beslut, inte en policy som kan ändras med ett reglage.
 
-Vill du verifiera dessa påståenden själv? Se vår [sida för integritetsverifiering](https://traveldocumentvault.com/sv/privacy-verification/) för oberoende bevis och en fullständig genomgång av alla appbehörigheter.
+Vill du verifiera dessa påståenden själv? Se vår [sida för integritetsverifiering](https://traveldocumentvault.com/sv/privacy-verification/) för tester du kan köra själv och en fullständig genomgång av alla appbehörigheter.
 
 ## Integritet och data
 

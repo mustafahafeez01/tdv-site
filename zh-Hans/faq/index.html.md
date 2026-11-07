@@ -54,7 +54,7 @@ Pro 用户：在“设置”中的“云备份”开启加密云备份。保险�
 
 Travel Document Vault 由 Mustafa Hafeez 开发。他是一位资深软件开发者，多年来专注于构建尊重隐私的应用，也是一位因为自己家庭需要而做了这个应用的家长。隐私不是一句营销话术。本地保险库无需 Travel Document Vault 账户或服务器。在已解锁的手机上，请启用应用锁以限制访问。可选的云备份使用您自己的 iCloud 或 Google Drive，并以只有您持有的恢复码保护的密钥进行端到端加密。这是刻意的工程决定，而不是一项可以用开关改掉的政策。
 
-想自己验证这些声明吗？查看我们的[隐私验证](https://traveldocumentvault.com/zh-Hans/privacy-verification/)页面，以获取独立证明和每个应用权限的完整分解。
+想自己验证这些声明吗？查看我们的[隐私验证](https://traveldocumentvault.com/zh-Hans/privacy-verification/)页面，以获取可自行运行的测试和每个应用权限的完整分解。
 
 ## 隐私和数据
 

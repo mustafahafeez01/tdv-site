@@ -54,7 +54,7 @@ Chi ha costruito questa app e perché è orientata alla privacy?
 
 Travel Document Vault è stato creato da Mustafa Hafeez, sviluppatore software senior con anni di esperienza professionale nella costruzione di applicazioni rispettose della privacy, e genitore che aveva bisogno di questa app per la propria famiglia. La privacy non è uno slogan. Il vault locale non richiede un account né un server di Travel Document Vault. Attiva il blocco dell’app per limitare l’accesso su un telefono sbloccato. Il backup cloud facoltativo usa il tuo iCloud o il tuo Google Drive, cifrato end-to-end con un codice di recupero che hai solo tu. È una scelta ingegneristica voluta, non una politica che si cambia con un interruttore.
 
-Vuoi verificare queste affermazioni da solo? Consulta la nostra pagina [Verifica della Privacy](https://traveldocumentvault.com/it/privacy-verification/) per prove indipendenti e una panoramica completa di ogni autorizzazione dell'app.
+Vuoi verificare queste affermazioni da solo? Consulta la nostra pagina [Verifica della Privacy](https://traveldocumentvault.com/it/privacy-verification/) per test che puoi eseguire tu stesso e una panoramica completa di ogni autorizzazione dell'app.
 
 ## Privacy e dati
 

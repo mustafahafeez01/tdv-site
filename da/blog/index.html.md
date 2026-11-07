@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/da/blog/
 
 ##
 
+[FornyelseNavneændring i pas efter brylluppet: Hvornår du skal søge i StorbritannienEt bryllup giver ikke et nyt pas, men et nyt navn gør. Hvad HMPO kræver, passet med senere startdato og timing omkring bryllupsrejsen.7. november 20266 min læsning](https://traveldocumentvault.com/da/blog/passport-name-change-after-marriage/)
+
+##
+
 [PasreglerKan et barns pas i USA fornys? Nej, du søger igenEt amerikansk pas udstedt før 16 år kan ikke fornys. Du søger igen personligt, med begge forældre. Fem års gyldighed, og hvad der ændrer sig ved 16.3. november 20265 min læsning](https://traveldocumentvault.com/da/blog/us-child-passport-renewal-under-16/)
 
 ##

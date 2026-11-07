@@ -1,0 +1,57 @@
+{
+ "sv": {
+  "template": "cards",
+  "title": "Nytt namn, nytt pass: två vägar",
+  "cards": [
+   {
+    "heading": "Ansök före bröllopet",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Upp till 3 månader innan",
+      "mark": "dot"
+     },
+     {
+      "text": "Formulär undertecknat av förrättaren",
+      "mark": "dot"
+     },
+     {
+      "text": "Gamla passet annulleras",
+      "mark": "cross"
+     },
+     {
+      "text": "Gäller först på bröllopsdagen",
+      "mark": "cross"
+     }
+    ]
+   },
+   {
+    "heading": "Ansök efter bröllopet",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Skicka med vigselbeviset",
+      "mark": "dot"
+     },
+     {
+      "text": "Vanligtvis inom 3 veckor",
+      "mark": "tick"
+     },
+     {
+      "text": "Nytt passnummer",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "link": "arrow",
+  "link_label": "Bröllop",
+  "focal": "Boka biljetter i namnet som står i passet",
+  "alt": "Diagram över två vägar till ett brittiskt pass i ditt nya namn. Ansök före bröllopet: upp till 3 månader innan, formulär undertecknat av den religiösa företrädare eller registrator som förrättar ceremonin, gamla passet annulleras, nya passet är efterdaterat och gäller först på bröllopsdagen. Ansök efter bröllopet: skicka med ditt vigselbevis, vanligtvis inom 3 veckor, nytt passnummer. Boka biljetter i namnet som står i passet",
+  "caption": "Båda vägarna fungerar. Vilken som passar dig beror på när du ska resa nästa gång.",
+  "placement": {
+   "h2": 4,
+   "para": 2
+  }
+ }
+}

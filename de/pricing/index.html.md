@@ -116,7 +116,7 @@ Keine Zeitlimits. Keine Funktionen, die mysteriös verschwinden. Keine dunkel ge
 
 Pro ist für Familien. Unbegrenzte Profile für Ihre ganze Familie, unbegrenzte Dokumente, Reiseplaner mit visueller Bereitschafts-Checkliste, verschlüsselte Cloud-Sicherung auf Ihrer eigenen iCloud oder Google Drive und ein Tage-im-Ausland-Tracker für Tageslimits pro Land und Steuersitzverfolg.
 
-Ein Kauf auf Ihrem Konto. Eine Familie. Funktioniert auf allen Ihren Geräten.
+Ein Kauf auf Ihrem Konto. Eine Familie. Funktioniert auf allen Ihren Geräten, die dasselbe App Store- oder Google Play-Konto nutzen. Der App Store und Google Play verkaufen Pro jeweils separat, daher müssen Sie es bei einem Wechsel zwischen iPhone und Android noch einmal kaufen.
 
 ## Ein Kauf, ganze Familie
 

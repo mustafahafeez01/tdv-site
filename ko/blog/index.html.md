@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/ko/blog/
 
 ##
 
+[갱신결혼 후 여권 이름 변경: 영국에서는 언제 신청할까결혼했다고 새 여권이 필요한 것은 아니고, 쓰는 이름이 바뀔 때 필요합니다. HMPO가 요구하는 서류, 결혼식 날짜부터 유효한 여권, 신혼여행에 맞춘 신청 시기를 정리했습니다.2026년 11월 7일6분 읽기](https://traveldocumentvault.com/ko/blog/passport-name-change-after-marriage/)
+
+##
+
 [여권 규정미국 어린이 여권, 갱신할 수 있나요? 아니요, 다시 신청해야 합니다16세 전에 발급된 미국 여권은 갱신할 수 없습니다. 본인이 직접 방문해 부모 모두와 함께 다시 신청해야 합니다. 5년 유효기간, 동의 규정, 16세가 되면 바뀌는 점을 정리했습니다.2026년 11월 3일5분 읽기](https://traveldocumentvault.com/ko/blog/us-child-passport-renewal-under-16/)
 
 ##

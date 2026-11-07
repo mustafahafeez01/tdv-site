@@ -24,7 +24,7 @@ Det är ett av de mest missförstådda kraven inom internationellt resande: den 
 
 Regeln kräver sex månaders passgiltighet för resan. De flesta länder räknar det från ankomstdagen, och en del från avresedagen, så att räkna från avresedatumet täcker båda fallen. I praktiken innebär det:
 
-- Ska du besöka Thailand och planerar att lämna landet den 1 augusti måste passet vara giltigt till minst den 1 februari året därpå.
+- Ska du besöka Thailand och reser in i landet den 1 augusti måste passet vara giltigt till minst den 1 februari året därpå.
 - Ett pass som går ut den 30 november är tekniskt "giltigt" för din augustiresa – men det uppfyller inte kravet, med två månaders marginal.
 
 Logiken är enkel: länder vill vara säkra på att du inte stannar kvar efter visumets giltighet och sedan står med ett odugligt dokument utan möjlighet att ta dig hem. Sex månader är en bekväm administrativ marginal.
@@ -47,17 +47,17 @@ Tabellen nedan täcker de vanligaste resmålen. Regler ändras, så kontrollera 
 
 | Land / region | Giltighet som krävs | Anmärkningar |
 |---|---|---|
-| Thailand | 6 månader | Kontrolleras strikt vid incheckning |
-| Indonesien | 6 månader | Gäller alla nationaliteter |
-| Vietnam | 6 månader | Varierar beroende på nationalitet - kontrollera före resan |
-| Malaysia | 6 månader | Kontrolleras vid incheckning och gränsen |
-| Filippinerna | 6 månader | Dessutom krävs biljett för vidareresa/hemresa |
-| Indien | 6 månader | Visum krävs också för de flesta nationaliteter |
-| Kenya | 6 månader | eVisum krävs; 6-månadersregeln gäller |
+| Thailand | 6 månader från ankomst | Kräver dessutom minst 1 tom sida |
+| Indonesien | 6 månader | Gäller lika för visumfri inresa, visum vid ankomst och e-visum |
+| Vietnam | 6 månader | Kräver dessutom 2 tomma sidor och ett oskadat pass |
+| Malaysia | 6 månader | Passet måste vara oskadat och utan saknade sidor |
+| Filippinerna | 6 månader | Bevis på vidareresa eller hemresa förväntas vanligtvis |
+| Indien | 6 månader | Visum krävs för brittiska besökare; dessutom 2 tomma sidor |
+| Kenya | 6 månader | Ansök online om elektroniskt resetillstånd (ETA) innan du reser |
 | Turkiet | 150 dagar från ankomst | [Brittiska utrikesdepartementet](https://www.gov.uk/foreign-travel-advice/turkey/entry-requirements): utgångsdatum minst 150 dagar efter ankomstdagen |
 | EU / Schengen | 3 månader utöver avresan | Plus ett utfärdandedatum under 10 år gammalt |
 | Storbritannien | Endast vistelsetiden | Brittiska medborgare utomlands omfattas ändå av destinationslandets regler |
-| USA | Endast vistelsetiden | Amerikanska medborgare utomlands omfattas av destinationslandets regler |
+| USA | Endast vistelsetiden för många nationaliteter | Annars 6 månader utöver vistelsen; CBP för undantagslistan (Storbritannien finns med) |
 | Japan / Australien | Endast vistelsetiden | Ingen 6-månadersregel för besökare |
 | Nya Zeeland | 3 månader utöver avresan | [Brittiska utrikesdepartementet](https://www.gov.uk/foreign-travel-advice/new-zealand/entry-requirements): utgångsdatum minst 3 månader efter den dag du planerar att resa |
 
@@ -67,7 +67,7 @@ Passkrav per land ändras utan förvarning, och ett bilateralt avtal kan i tysth
 
 ## När 6-månadersregeln inte gäller
 
-Många resmål kräver inget utöver resans datum. [Brittiska utrikesdepartementet](https://www.gov.uk/foreign-travel-advice/japan/entry-requirements) är tydligt när det gäller Japan: passet måste vara giltigt under hela vistelsen, och ingen ytterligare giltighetstid krävs. [Australien](https://www.gov.uk/foreign-travel-advice/australia/entry-requirements) och [USA](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements) tillämpar samma standard och kräver bara att passet är giltigt under den planerade vistelsen.
+Många resmål kräver inget utöver resans datum. [Brittiska utrikesdepartementet](https://www.gov.uk/foreign-travel-advice/japan/entry-requirements) är tydligt när det gäller Japan: passet måste vara giltigt under hela vistelsen, och ingen ytterligare giltighetstid krävs. [Australien](https://www.gov.uk/foreign-travel-advice/australia/entry-requirements) tillämpar samma standard, och det gör även [USA](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements) för medborgare i länderna på sin undantagslista, dit Storbritannien hör.
 
 Europa hamnar mitt emellan, och det är den nivå som folk missförstår oftast. För att besöka Schengenområdet säger [utrikesdepartementet](https://www.gov.uk/foreign-travel-advice/france/entry-requirements) att passet behöver ett utgångsdatum minst tre månader efter den dag du planerar att lämna landet. Tre månader, inte sex.
 
@@ -166,7 +166,7 @@ Varje familjemedlems pass bedöms individuellt – det finns ingen gruppregel. D
 
 ### Kan jag resa om passet går ut om 3 månader?
 
-Det beror helt på vart du ska. Japan, Australien och USA kräver bara att passet är giltigt under vistelsens längd, så tre månader räcker gott för en tvåveckorsresa. Schengenområdet kräver tre månader utöver den dag du lämnar landet, så tre månaders giltighet kvar är alldeles för snålt tilltaget. Thailand kräver sex månader från ankomstdagen, så tre månader kvar innebär nekad ombordstigning vid incheckningen.
+Det beror helt på vart du ska. Japan och Australien kräver bara att passet är giltigt under vistelsens längd, så tre månader räcker gott för en tvåveckorsresa. USA tillämpar samma regel för medborgare i länderna på sin undantagslista, dit Storbritannien hör. Schengenområdet kräver tre månader utöver den dag du lämnar landet, så tre månaders giltighet kvar är alldeles för snålt tilltaget. Thailand kräver sex månader från ankomstdagen, så tre månader kvar innebär nekad ombordstigning vid incheckningen.
 
 ### Gäller 6-månadersregeln även om jag bara reser i transit genom ett land?
 

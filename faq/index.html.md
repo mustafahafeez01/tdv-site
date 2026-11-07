@@ -56,7 +56,7 @@ Who built this app, and why is it privacy-first?
 
 Travel Document Vault was built by [Mustafa Hafeez](https://traveldocumentvault.com/blog/why-i-built-travel-document-vault/), a senior software developer with years of professional experience building privacy-respecting applications, and a parent who needed this app for his own family. Privacy is not a marketing line. The local vault needs no Travel Document Vault account or server. Enable App Lock to restrict access on an unlocked phone. Optional cloud backup uses your own iCloud or Google Drive, end-to-end encrypted with a recovery code only you hold. That is a deliberate engineering decision, not a policy that could be changed with a settings toggle.
 
-Want to verify these claims yourself? See our [Privacy Verification](https://traveldocumentvault.com/privacy-verification/) page for independent proof and a full breakdown of every app permission.
+Want to verify these claims yourself? See our [Privacy Verification](https://traveldocumentvault.com/privacy-verification/) page for tests you can run yourself and a full breakdown of every app permission.
 
 ## Privacy & Data
 

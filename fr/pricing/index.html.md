@@ -116,7 +116,7 @@ Pas de limites de temps. Pas de fonctionnalités qui disparaissent mystérieusem
 
 Pro est pour les familles. Profils illimités pour toute votre famille, documents illimités, planificateur de voyage avec liste de contrôle de disponibilité visuelle, sauvegarde cloud chiffrée vers votre propre iCloud ou Google Drive, et un suivi des jours à l'étranger pour les limites de jours par pays et le suivi de résidence fiscale.
 
-Un achat sur votre compte. Une famille. Fonctionne sur tous vos appareils utilisant le même compte App Store ou Google Play.
+Un achat sur votre compte. Une famille. Fonctionne sur tous vos appareils utilisant le même compte App Store ou Google Play. L'App Store et Google Play vendent chacun Pro séparément, donc passer d'un iPhone à un Android implique de l'acheter une nouvelle fois.
 
 ## Un Achat, Toute la Famille
 

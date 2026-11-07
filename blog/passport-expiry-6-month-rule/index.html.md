@@ -26,7 +26,7 @@ It's one of the most misunderstood requirements in international travel: it catc
 
 The rule requires six months of passport validity for your trip. Most countries count that from the day you arrive, and some from the day you leave, so counting from your departure date covers both. In practice, this means:
 
-- If you're visiting Thailand and plan to leave on 1 August, your passport must stay valid until at least 1 February the following year.
+- If you're visiting Thailand and arrive on 1 August, your passport must stay valid until at least 1 February the following year.
 - A passport expiring on 30 November is technically "valid" for your August trip - but it fails this requirement by two months.
 
 The logic is straightforward: countries want assurance you won't overstay your visa and then find yourself holding a dead document with no way home. Six months is a convenient administrative buffer.
@@ -49,17 +49,17 @@ The following table covers the most common destinations. Policies change, so alw
 
 | Country / Region | Validity Required | Notes |
 |---|---|---|
-| Thailand | 6 months | Strictly enforced at check-in |
-| Indonesia | 6 months | Applies to all nationalities |
-| Vietnam | 6 months | Varies by nationality; verify before travel |
-| Malaysia | 6 months | Enforced at check-in and border |
-| Philippines | 6 months | Plus onward/return ticket required |
-| India | 6 months | Visa also required for most nationalities |
-| Kenya | 6 months | eVisa required; 6-month rule applies |
+| Thailand | 6 months from arrival | Also needs at least 1 blank page |
+| Indonesia | 6 months | Applies to visa-free, visa on arrival and e-visa entry alike |
+| Vietnam | 6 months | Also needs 2 blank pages and an undamaged passport |
+| Malaysia | 6 months | Passport must be undamaged, with no missing pages |
+| Philippines | 6 months | Proof of onward or return travel is generally expected |
+| India | 6 months | Visa needed for British visitors; also 2 blank pages |
+| Kenya | 6 months | Apply online for an electronic travel authorisation (ETA) before you travel |
 | Turkey | 150 days from arrival | [UK Foreign Office](https://www.gov.uk/foreign-travel-advice/turkey/entry-requirements): expiry date at least 150 days after the date you arrive |
 | EU / Schengen | 3 months beyond departure | Plus a date of issue under 10 years old |
 | United Kingdom | Duration of stay only | UK citizens abroad still subject to destination rules |
-| USA | Duration of stay only | US citizens abroad subject to destination country rules |
+| USA | Duration of stay for many nationalities | Otherwise 6 months beyond your stay; CBP keeps the exemption list (the UK is on it) |
 | Japan / Australia | Duration of stay only | No 6-month extension rule for visitors |
 | New Zealand | 3 months beyond departure | [UK Foreign Office](https://www.gov.uk/foreign-travel-advice/new-zealand/entry-requirements): expiry date at least 3 months after the day you plan to leave |
 
@@ -69,7 +69,7 @@ Passport validity requirements by country change without notice, and a bilateral
 
 ## When the 6-Month Rule Does Not Apply
 
-Plenty of destinations ask for nothing beyond the dates of your trip. The [UK Foreign Office](https://www.gov.uk/foreign-travel-advice/japan/entry-requirements) puts it plainly for Japan: your passport must be valid for the length of your stay, and no additional period of validity is required. [Australia](https://www.gov.uk/foreign-travel-advice/australia/entry-requirements) and the [United States](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements) use the same standard, asking only that your passport stays valid for the length of your planned stay.
+Plenty of destinations ask for nothing beyond the dates of your trip. The [UK Foreign Office](https://www.gov.uk/foreign-travel-advice/japan/entry-requirements) puts it plainly for Japan: your passport must be valid for the length of your stay, and no additional period of validity is required. [Australia](https://www.gov.uk/foreign-travel-advice/australia/entry-requirements) uses the same standard, and so does the [United States](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements) for citizens of the countries on its exemption list, which includes the UK.
 
 You may also come across lists of countries whose passports are treated as valid for six months past their expiry date. That's a United States arrangement, not an extension of your passport. US Customs and Border Protection publishes a list of countries whose citizens are exempt from the US six-month validity requirement and need a passport valid only for their intended stay. It applies to entering the US and nowhere else, and an expired passport stays expired everywhere.
 
@@ -170,7 +170,7 @@ Each family member's passport is assessed individually - there's no group rule. 
 
 ### Can I travel if my passport expires in 3 months?
 
-It depends entirely on where you're going. Japan, Australia and the United States ask only that your passport stays valid for the length of your stay, so three months is fine for a two-week trip. The Schengen area needs three months beyond the day you leave, so three months left is cutting it far too fine. Thailand wants six months from the day you arrive, so three months left means a refusal at check-in.
+It depends entirely on where you're going. Japan and Australia ask only that your passport stays valid for the length of your stay, so three months is fine for a two-week trip. The United States does the same for citizens of countries on its exemption list, which includes the UK. The Schengen area needs three months beyond the day you leave, so three months left is cutting it far too fine. Thailand wants six months from the day you arrive, so three months left means a refusal at check-in.
 
 ### Does the 6-month rule apply if I'm only transiting through a country?
 

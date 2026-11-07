@@ -54,7 +54,7 @@ Quem criou esta aplicação e por que a privacidade é a prioridade?
 
 O Travel Document Vault foi criado por Mustafa Hafeez, um programador de software sénior com anos de experiência profissional a construir aplicações que respeitam a privacidade, e pai que precisava desta aplicação para a sua própria família. A privacidade não é uma frase de marketing. O cofre local não exige conta ou servidor Travel Document Vault. Ative o bloqueio da aplicação para restringir o acesso num telemóvel desbloqueado. A cópia de segurança opcional na nuvem usa a sua própria iCloud ou o seu Google Drive, cifrada ponta a ponta com um código de recuperação que só você tem. É uma decisão de engenharia deliberada, não uma política que se pudesse mudar com um interruptor.
 
-Quer verificar estas afirmações por si mesmo? Consulte a nossa página de [Verificação de Privacidade](https://traveldocumentvault.com/pt/privacy-verification/) para provas independentes e uma análise completa de cada permissão da aplicação.
+Quer verificar estas afirmações por si mesmo? Consulte a nossa página de [Verificação de Privacidade](https://traveldocumentvault.com/pt/privacy-verification/) para testes que pode realizar por si mesmo e uma análise completa de cada permissão da aplicação.
 
 ## Privacidade e dados
 

@@ -54,7 +54,7 @@ Siapa yang membangun aplikasi ini, dan mengapa mengutamakan privasi?
 
 Travel Document Vault dibuat oleh Mustafa Hafeez, seorang pengembang perangkat lunak senior dengan pengalaman bertahun-tahun membangun aplikasi yang menghormati privasi, sekaligus orang tua yang membutuhkan aplikasi ini untuk keluarganya sendiri. Privasi bukan kalimat pemasaran. Vault lokal tidak memerlukan akun atau server Travel Document Vault. Aktifkan kunci aplikasi untuk membatasi akses pada ponsel yang tidak terkunci. Cadangan cloud opsional memakai iCloud atau Google Drive milik Anda sendiri, dienkripsi ujung ke ujung dengan kode pemulihan yang hanya Anda miliki. Itu keputusan teknik yang disengaja, bukan kebijakan yang bisa diubah lewat sebuah sakelar.
 
-Ingin memverifikasi klaim ini sendiri? Lihat halaman [Kebijakan Privasi](https://traveldocumentvault.com/privacy-policy/) kami untuk detail lengkap.
+Ingin memverifikasi klaim ini sendiri? Lihat halaman [Verifikasi Privasi](https://traveldocumentvault.com/id/privacy-verification/) kami untuk tes yang bisa Anda jalankan sendiri dan rincian lengkap setiap izin aplikasi.
 
 ## Privasi & Data
 

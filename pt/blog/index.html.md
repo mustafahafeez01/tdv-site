@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/pt/blog/
 
 ##
 
+[RenovaçãoMudar o nome no passaporte após o casamento: quando pedir no Reino UnidoCasar não obriga a um passaporte novo; mudar o nome que usa, sim. O que o HMPO pede, a opção com data posterior e como acertar os prazos com a lua de mel.7 de novembro de 20266 min de leitura](https://traveldocumentvault.com/pt/blog/passport-name-change-after-marriage/)
+
+##
+
 [Regras de PassaportePode renovar o passaporte do seu filho nos EUA? Não, peça de novoUm passaporte dos EUA emitido antes dos 16 anos não se renova. Pede-se um novo em pessoa, com ambos os pais. Validade de cinco anos e o que muda aos 16.3 de novembro de 20265 min de leitura](https://traveldocumentvault.com/pt/blog/us-child-passport-renewal-under-16/)
 
 ##

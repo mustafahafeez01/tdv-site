@@ -116,7 +116,7 @@ Geen tijdslimieten. Geen functies die mysterieus verdwijnen. Geen donkere patron
 
 Pro is voor gezinnen. Onbeperkte profielen voor uw hele gezin, onbeperkte documenten, reisplanner met een visuele gereedheidschecklist, versleutelde cloudback-up naar uw eigen iCloud of Google Drive en een aantal-dagen-buiten-tracker voor daglimieten per land en belastingresidentie-tracking.
 
-Eénmalige aankoop op uw account. Eén gezin. Werkt op al uw apparaten die hetzelfde App Store- of Google Play-account gebruiken.
+Eénmalige aankoop op uw account. Eén gezin. Werkt op al uw apparaten die hetzelfde App Store- of Google Play-account gebruiken. De App Store en Google Play verkopen Pro elk afzonderlijk, dus overstappen van iPhone naar Android betekent dat u het nog een keer moet aanschaffen.
 
 ## Eénmalige aankoop, heel gezin
 

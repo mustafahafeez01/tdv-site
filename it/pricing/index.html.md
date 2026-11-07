@@ -116,7 +116,7 @@ Nessun limite di tempo. Nessuna funzione che scompare misteriosamente. Nessun tr
 
 Pro è per le famiglie. Profili illimitati per tutta la tua famiglia, documenti illimitati, pianificatore di viaggio con una checklist di disponibilità visiva, backup cloud crittografato nel tuo iCloud o Google Drive, e un tracker giorni all'estero per i limiti di giorni per paese e il monitoraggio della residenza fiscale.
 
-Un acquisto sul tuo account. Una famiglia. Funziona su tutti i tuoi dispositivi che usano lo stesso account App Store o Google Play.
+Un acquisto sul tuo account. Una famiglia. Funziona su tutti i tuoi dispositivi che usano lo stesso account App Store o Google Play. L'App Store e Google Play vendono Pro separatamente, quindi passare da iPhone ad Android significa acquistarlo di nuovo.
 
 ## Un Acquisto, Tutta la Famiglia
 

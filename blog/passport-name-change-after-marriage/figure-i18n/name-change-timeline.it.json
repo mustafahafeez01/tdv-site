@@ -1,0 +1,57 @@
+{
+ "it": {
+  "template": "cards",
+  "title": "Nuovo nome, nuovo passaporto: due strade",
+  "cards": [
+   {
+    "heading": "Domanda prima delle nozze",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Fino a 3 mesi prima",
+      "mark": "dot"
+     },
+     {
+      "text": "Modulo firmato da ministro o ufficiale",
+      "mark": "dot"
+     },
+     {
+      "text": "Il vecchio passaporto è annullato",
+      "mark": "cross"
+     },
+     {
+      "text": "Valido solo dal giorno delle nozze",
+      "mark": "cross"
+     }
+    ]
+   },
+   {
+    "heading": "Domanda dopo le nozze",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Invia il certificato di matrimonio",
+      "mark": "dot"
+     },
+     {
+      "text": "Di solito entro 3 settimane",
+      "mark": "tick"
+     },
+     {
+      "text": "Nuovo numero di passaporto",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "link": "arrow",
+  "link_label": "Nozze",
+  "focal": "Prenota i biglietti con il nome sul passaporto",
+  "alt": "Diagramma delle due strade per ottenere un passaporto britannico con il cognome da sposato. Domanda prima delle nozze: fino a 3 mesi prima, modulo firmato dal ministro di culto o dall'ufficiale di stato civile, vecchio passaporto annullato, nuovo passaporto valido solo dal giorno delle nozze. Domanda dopo le nozze: invia il certificato di matrimonio, di solito entro 3 settimane, nuovo numero di passaporto. Prenota i biglietti con il nome sul passaporto",
+  "caption": "Vanno bene entrambe le strade. Quale ti conviene dipende da quando viaggi la prossima volta.",
+  "placement": {
+   "h2": 4,
+   "para": 2
+  }
+ }
+}

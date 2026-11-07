@@ -1,0 +1,57 @@
+{
+ "da": {
+  "template": "cards",
+  "title": "Nyt navn, nyt pas: to veje",
+  "cards": [
+   {
+    "heading": "Søg før brylluppet",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Op til 3 måneder før",
+      "mark": "dot"
+     },
+     {
+      "text": "Blanket underskrevet af forretter",
+      "mark": "dot"
+     },
+     {
+      "text": "Gammelt pas annulleres",
+      "mark": "cross"
+     },
+     {
+      "text": "Gælder først fra bryllupsdagen",
+      "mark": "cross"
+     }
+    ]
+   },
+   {
+    "heading": "Søg efter brylluppet",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Send din vielsesattest",
+      "mark": "dot"
+     },
+     {
+      "text": "Normalt inden for 3 uger",
+      "mark": "tick"
+     },
+     {
+      "text": "Nyt pasnummer",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "link": "arrow",
+  "link_label": "Bryllup",
+  "focal": "Book billetter i det navn, der står i passet",
+  "alt": "Diagram over to veje til et britisk pas i det nye navn. Søg før brylluppet: op til 3 måneder før, blanket underskrevet af den, der forretter ceremonien, gammelt pas annulleres, nyt pas gælder først fra bryllupsdagen. Søg efter brylluppet: send din vielsesattest, normalt inden for 3 uger, nyt pasnummer. Book billetter i det navn, der står i passet",
+  "caption": "Begge veje fungerer. Hvilken der passer dig, afhænger af, hvornår du rejser næste gang.",
+  "placement": {
+   "h2": 4,
+   "para": 2
+  }
+ }
+}

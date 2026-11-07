@@ -116,7 +116,7 @@ Ingen tidsgrænser. Ingen funktioner, der på mystisk vis forsvinder. Ingen mør
 
 Pro er til familier. Ubegrænsede profiler til hele din familie, ubegrænsede dokumenter, rejseplanlægger med en visuelt parathed-tjeckliste, krypteret cloud-backup til dit eget iCloud eller Google Drive, og en dage-i-udlandet-tracker til dagsgrænser pr. land og skatte-residens-sporing.
 
-Ét køb på din konto. En familie. Fungerer på alle dine enheder, der bruger samme App Store- eller Google Play-konto.
+Ét køb på din konto. En familie. Fungerer på alle dine enheder, der bruger samme App Store- eller Google Play-konto. App Store og Google Play sælger hver Pro separat, så hvis du skifter fra iPhone til Android, skal du købe det igen.
 
 ## Ét køb, hele familien
 

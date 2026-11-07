@@ -1,0 +1,57 @@
+{
+ "fr": {
+  "template": "cards",
+  "title": "Nouveau nom, nouveau passeport : deux voies",
+  "cards": [
+   {
+    "heading": "Demande avant le mariage",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Jusqu'à 3 mois avant",
+      "mark": "dot"
+     },
+     {
+      "text": "Formulaire signé par le ministre du culte ou l'officier d'état civil",
+      "mark": "dot"
+     },
+     {
+      "text": "Ancien passeport annulé",
+      "mark": "cross"
+     },
+     {
+      "text": "Non valable avant le jour du mariage",
+      "mark": "cross"
+     }
+    ]
+   },
+   {
+    "heading": "Demande après le mariage",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Envoyez votre certificat de mariage",
+      "mark": "dot"
+     },
+     {
+      "text": "En général sous 3 semaines",
+      "mark": "tick"
+     },
+     {
+      "text": "Nouveau numéro de passeport",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "link": "arrow",
+  "link_label": "Mariage",
+  "focal": "Réservez au nom figurant sur votre passeport",
+  "alt": "Schéma de deux voies pour obtenir un passeport britannique à son nom de mariage. Demande avant le mariage : jusqu'à 3 mois avant, formulaire signé par le ministre du culte ou l'officier d'état civil, ancien passeport annulé, nouveau passeport non valable avant le jour du mariage. Demande après le mariage : envoi du certificat de mariage, en général sous 3 semaines, nouveau numéro de passeport. Réservez vos billets au nom figurant sur votre passeport",
+  "caption": "Les deux voies fonctionnent. Celle qui vous convient dépend de la date de votre prochain voyage.",
+  "placement": {
+   "h2": 4,
+   "para": 2
+  }
+ }
+}

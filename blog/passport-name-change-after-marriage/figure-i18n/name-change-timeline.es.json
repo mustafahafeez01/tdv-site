@@ -1,0 +1,57 @@
+{
+ "es": {
+  "template": "cards",
+  "title": "Nombre nuevo, pasaporte nuevo: dos vías",
+  "cards": [
+   {
+    "heading": "Solicitar antes de la boda",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Hasta 3 meses antes",
+      "mark": "dot"
+     },
+     {
+      "text": "Formulario firmado por ministro o registrador",
+      "mark": "dot"
+     },
+     {
+      "text": "El pasaporte anterior se cancela",
+      "mark": "cross"
+     },
+     {
+      "text": "No vale hasta el día de la boda",
+      "mark": "cross"
+     }
+    ]
+   },
+   {
+    "heading": "Solicitar después de la boda",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Envía tu certificado de matrimonio",
+      "mark": "dot"
+     },
+     {
+      "text": "Normalmente en 3 semanas",
+      "mark": "tick"
+     },
+     {
+      "text": "Número de pasaporte nuevo",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "link": "arrow",
+  "link_label": "Boda",
+  "focal": "Reserva los billetes con el nombre de tu pasaporte",
+  "alt": "Diagrama de dos vías para obtener un pasaporte británico con nombre de casado o casada. Solicitar antes de la boda: hasta 3 meses antes, formulario firmado por el ministro o el registrador, pasaporte anterior cancelado, pasaporte nuevo sin validez hasta el día de la boda. Solicitar después de la boda: envía tu certificado de matrimonio, normalmente en 3 semanas, número de pasaporte nuevo. Reserva los billetes con el nombre de tu pasaporte",
+  "caption": "Las dos vías sirven. La que te convenga depende de cuándo viajes la próxima vez.",
+  "placement": {
+   "h2": 4,
+   "para": 2
+  }
+ }
+}

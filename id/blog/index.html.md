@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/id/blog/
 
 ##
 
+[PembaruanGanti Nama di Paspor Setelah Menikah: Kapan Mengajukan di InggrisMenikah tidak berarti paspor baru, tetapi mengganti nama berarti perlu. Apa yang diminta HMPO, paspor post-dated, dan mengatur waktunya dengan bulan madu.7 November 20266 menit baca](https://traveldocumentvault.com/id/blog/passport-name-change-after-marriage/)
+
+##
+
 [Aturan PasporPaspor Anak AS Diperpanjang? Tidak, Harus Mengajukan LagiPaspor AS sebelum usia 16 tidak bisa diperpanjang: Anda mengajukan lagi, bersama kedua orang tua. Berlaku lima tahun; apa yang berubah di usia 16.3 November 20265 menit baca](https://traveldocumentvault.com/id/blog/us-child-passport-renewal-under-16/)
 
 ##

@@ -116,7 +116,7 @@ Tidak ada batas waktu. Tidak ada fitur yang misterius menghilang. Tidak ada pola
 
 Pro adalah untuk keluarga. Profil tak terbatas untuk seluruh keluarga Anda, dokumen tak terbatas, perencana perjalanan dengan daftar periksa kesiapan visual, cadangan cloud terenkripsi ke iCloud atau Google Drive Anda sendiri, dan pelacak hari-hari di luar negeri untuk batas hari per negara dan pelacakan keadaan pajak.
 
-Satu pembelian di akun Anda. Satu keluarga. Bekerja di semua perangkat yang menggunakan akun App Store atau Google Play yang sama.
+Satu pembelian di akun Anda. Satu keluarga. Bekerja di semua perangkat yang menggunakan akun App Store atau Google Play yang sama. App Store dan Google Play masing-masing menjual Pro secara terpisah, sehingga berpindah dari iPhone ke Android berarti Anda harus membelinya sekali lagi.
 
 ## Satu Pembelian, Seluruh Keluarga
 

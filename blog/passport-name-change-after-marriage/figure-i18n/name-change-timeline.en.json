@@ -1,0 +1,33 @@
+{
+ "en": {
+  "template": "cards",
+  "title": "New name, new passport: two routes",
+  "cards": [
+   {
+    "heading": "Apply before the wedding",
+    "tone": "warn",
+    "items": [
+     {"text": "Up to 3 months ahead", "mark": "dot"},
+     {"text": "Form signed by minister or registrar", "mark": "dot"},
+     {"text": "Old passport is cancelled", "mark": "cross"},
+     {"text": "Not valid until the wedding day", "mark": "cross"}
+    ]
+   },
+   {
+    "heading": "Apply after the wedding",
+    "tone": "good",
+    "items": [
+     {"text": "Send your marriage certificate", "mark": "dot"},
+     {"text": "Usually within 3 weeks", "mark": "tick"},
+     {"text": "New passport number", "mark": "dot"}
+    ]
+   }
+  ],
+  "link": "arrow",
+  "link_label": "Wedding day",
+  "focal": "Book tickets in the name on your passport",
+  "alt": "Diagram of two routes to a UK passport in a married name. Apply before the wedding: up to 3 months ahead, form signed by the minister or registrar, old passport cancelled, new passport not valid until the wedding day. Apply after the wedding: send your marriage certificate, usually within 3 weeks, new passport number. Book tickets in the name on your passport",
+  "caption": "Either route works. The one that suits you depends on when you travel next.",
+  "placement": {"h2": 4, "para": 2}
+ }
+}

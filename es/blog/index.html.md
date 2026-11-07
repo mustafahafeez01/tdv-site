@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/es/blog/
 
 ##
 
+[RenovaciónCambio de nombre en el pasaporte tras el matrimonio: cuándo solicitarlo en el Reino UnidoCasarse no implica un pasaporte nuevo; cambiar el nombre que usas, sí. Qué pide HMPO, la opción de fecha posterior y cómo ajustarlo a la luna de miel.7 de noviembre de 20266 min de lectura](https://traveldocumentvault.com/es/blog/passport-name-change-after-marriage/)
+
+##
+
 [Normas de pasaporte¿Se renueva el pasaporte de un menor en EE. UU.? No, se solicita de nuevoUn pasaporte de EE. UU. emitido antes de los 16 no se puede renovar. Se solicita en persona, con ambos progenitores. Válido cinco años.3 de noviembre de 20265 min de lectura](https://traveldocumentvault.com/es/blog/us-child-passport-renewal-under-16/)
 
 ##

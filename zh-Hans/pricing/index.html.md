@@ -118,7 +118,7 @@ Pro 是一次性购买。我们不运行任何保存或读取您文档的服务�
 
 Pro 适合家庭。您整个家庭的无限档案、无限文件、带视觉准备检查清单的旅行规划器、加密云备份到您自己的 iCloud 或 Google Drive，以及用于各国天数限制和税务居住地跟踪的境外天数追踪器。
 
-您账户上的一次购买。一个家庭。适用于使用同一 App Store 或 Google Play 账户的所有设备。
+您账户上的一次购买。一个家庭。适用于使用同一 App Store 或 Google Play 账户的所有设备。App Store 和 Google Play 分别单独销售 Pro，因此从 iPhone 转到 Android 需要再购买一次。
 
 ## 一次购买，整个家庭
 

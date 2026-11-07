@@ -24,7 +24,7 @@ Es ist eine der am meisten missverstandenen Anforderungen im internationalen Rei
 
 Die Regel verlangt sechs Monate Reisepass-Gültigkeit für Ihre Reise. Die meisten Länder rechnen das ab dem Tag Ihrer Ankunft, einige ab dem Tag Ihrer Abreise, weshalb das Rechnen ab Ihrem Abreisedatum beide Fälle abdeckt. In der Praxis bedeutet dies:
 
-- Wenn Sie Thailand besuchen und am 1. August abreisen möchten, muss Ihr Reisepass mindestens bis zum 1. Februar des folgenden Jahres gültig sein.
+- Wenn Sie Thailand besuchen und am 1. August einreisen, muss Ihr Reisepass mindestens bis zum 1. Februar des folgenden Jahres gültig sein.
 - Ein Reisepass, der am 30. November abläuft, ist technisch "gültig" für Ihre Reise im August – aber er verfehlt diese Anforderung um zwei Monate.
 
 Die Logik ist einfach: Länder möchten Sicherheit haben, dass Sie Ihren Aufenthalt nicht überschreiten und dann mit einem toten Dokument dastehen und keinen Weg nach Hause haben. Sechs Monate ist ein bequemer administrativer Puffer.
@@ -47,17 +47,17 @@ Die folgende Tabelle deckt die häufigsten Ziele ab. Richtlinien ändern sich, a
 
 | Land / Region | Erforderliche Gültigkeit | Anmerkungen |
 |---|---|---|
-| Thailand | 6 Monate | Streng bei der Abfertigung durchgesetzt |
-| Indonesia | 6 Monate | Gilt für alle Nationalitäten |
-| Vietnam | 6 Monate | Variiert nach Nationalität; vor der Reise überprüfen |
-| Malaysia | 6 Monate | Bei der Abfertigung und Grenze durchgesetzt |
-| Philippines | 6 Monate | Zusätzlich Weiter-/Rückflugticket erforderlich |
-| India | 6 Monate | Visum auch für die meisten Nationalitäten erforderlich |
-| Kenya | 6 Monate | eVisa erforderlich; Sechsmonats-Regel gilt |
+| Thailand | 6 Monate ab Ankunft | Zusätzlich mindestens 1 freie Seite erforderlich |
+| Indonesia | 6 Monate | Gilt gleichermaßen für visumfreie Einreise, Visum bei Ankunft und E-Visa |
+| Vietnam | 6 Monate | Zusätzlich 2 freie Seiten und ein unbeschädigter Reisepass erforderlich |
+| Malaysia | 6 Monate | Reisepass muss unbeschädigt sein und darf keine fehlenden Seiten haben |
+| Philippines | 6 Monate | Nachweis der Weiter- oder Rückreise wird in der Regel erwartet |
+| India | 6 Monate | Visum für britische Besucher erforderlich; außerdem 2 freie Seiten |
+| Kenya | 6 Monate | Online eine elektronische Einreisegenehmigung (ETA) vor der Reise beantragen |
 | Turkey | 150 Tage ab Ankunft | [Britisches Foreign Office](https://www.gov.uk/foreign-travel-advice/turkey/entry-requirements): Ablaufdatum mindestens 150 Tage nach dem Ankunftsdatum |
 | EU / Schengen | 3 Monate über die Abreise hinaus | Plus ein Ausstellungsdatum unter 10 Jahren |
 | Vereinigtes Königreich | Nur Aufenthaltsdauer | Britische Bürger im Ausland unterliegen immer noch den Regeln des Ziellandes |
-| USA | Nur Aufenthaltsdauer | Amerikanische Bürger im Ausland unterliegen den Regeln des Ziellandes |
+| USA | Nur Aufenthaltsdauer für viele Nationalitäten | Andernfalls 6 Monate über den Aufenthalt hinaus; das CBP führt die Ausnahmeliste (das Vereinigte Königreich steht darauf) |
 | Japan / Australien | Nur Aufenthaltsdauer | Keine Sechsmonats-Erweiterungsregel für Besucher |
 | Neuseeland | 3 Monate über die Abreise hinaus | [Britisches Foreign Office](https://www.gov.uk/foreign-travel-advice/new-zealand/entry-requirements): Ablaufdatum mindestens 3 Monate nach dem geplanten Abreisetag |
 
@@ -69,7 +69,7 @@ Anforderungen zur Reisepass-Gültigkeit nach Land ändern sich ohne Vorankündig
 
 ## Wann die Sechsmonats-Regel nicht gilt
 
-Viele Reiseziele verlangen nichts über die Daten Ihrer Reise hinaus. Das [britische Foreign Office](https://www.gov.uk/foreign-travel-advice/japan/entry-requirements) formuliert es für Japan ganz klar: Ihr Reisepass muss für die Dauer Ihres Aufenthalts gültig sein, eine zusätzliche Gültigkeitsdauer wird nicht verlangt. [Australien](https://www.gov.uk/foreign-travel-advice/australia/entry-requirements) und die [Vereinigten Staaten](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements) wenden denselben Standard an und verlangen nur, dass Ihr Reisepass für die Dauer Ihres geplanten Aufenthalts gültig bleibt.
+Viele Reiseziele verlangen nichts über die Daten Ihrer Reise hinaus. Das [britische Foreign Office](https://www.gov.uk/foreign-travel-advice/japan/entry-requirements) formuliert es für Japan ganz klar: Ihr Reisepass muss für die Dauer Ihres Aufenthalts gültig sein, eine zusätzliche Gültigkeitsdauer wird nicht verlangt. [Australien](https://www.gov.uk/foreign-travel-advice/australia/entry-requirements) wendet denselben Standard an, und ebenso die [Vereinigten Staaten](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements) für Staatsangehörige der Länder auf ihrer Ausnahmeliste, zu denen auch das Vereinigte Königreich zählt.
 
 Europa liegt dazwischen, und das ist die Stufe, die am häufigsten falsch verstanden wird. Für die Einreise in den Schengen-Raum braucht Ihr Reisepass laut [Foreign Office](https://www.gov.uk/foreign-travel-advice/france/entry-requirements) ein Ablaufdatum von mindestens drei Monaten nach dem geplanten Ausreisetag. Drei Monate, nicht sechs.
 
@@ -168,7 +168,7 @@ Der Reisepass jedes Familienmitglieds wird einzeln bewertet – es gibt keine Gr
 
 ### Kann ich reisen, wenn mein Reisepass in 3 Monaten abläuft?
 
-Das hängt ganz von Ihrem Reiseziel ab. Japan, Australien und die Vereinigten Staaten verlangen nur, dass Ihr Reisepass für die Dauer Ihres Aufenthalts gültig bleibt, sodass drei Monate für eine zweiwöchige Reise ausreichen. Der Schengen-Raum verlangt drei Monate über den Ausreisetag hinaus, weshalb drei Monate Restgültigkeit viel zu knapp sind. Thailand verlangt sechs Monate ab dem Ankunftstag, sodass drei Monate Restgültigkeit eine Abweisung bei der Abfertigung bedeuten.
+Das hängt ganz von Ihrem Reiseziel ab. Japan und Australien verlangen nur, dass Ihr Reisepass für die Dauer Ihres Aufenthalts gültig bleibt, sodass drei Monate für eine zweiwöchige Reise ausreichen. Die Vereinigten Staaten wenden dasselbe bei Staatsangehörigen der Länder auf ihrer Ausnahmeliste an, zu denen auch das Vereinigte Königreich zählt. Der Schengen-Raum verlangt drei Monate über den Ausreisetag hinaus, weshalb drei Monate Restgültigkeit viel zu knapp sind. Thailand verlangt sechs Monate ab dem Ankunftstag, sodass drei Monate Restgültigkeit eine Abweisung bei der Abfertigung bedeuten.
 
 ### Gilt die Sechsmonats-Regel auch, wenn ich ein Land nur auf der Durchreise passiere?
 

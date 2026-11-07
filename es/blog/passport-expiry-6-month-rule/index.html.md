@@ -26,7 +26,7 @@ Es uno de los requisitos más malentendidos en viajes internacionales, y atrapa 
 
 La regla requiere seis meses de validez del pasaporte para tu viaje. La mayoría de los países lo cuentan desde el día que llegas, y algunos desde el día que sales, así que contar desde tu fecha de salida cubre ambos casos. En la práctica, esto significa:
 
-- Si visitas Tailandia y planeas irte el 1 de agosto, tu pasaporte debe permanecer válido hasta por lo menos el 1 de febrero del año siguiente.
+- Si visitas Tailandia y llegas el 1 de agosto, tu pasaporte debe permanecer válido hasta por lo menos el 1 de febrero del año siguiente.
 - Un pasaporte que vence el 30 de noviembre es técnicamente "válido" para tu viaje de agosto —pero falla este requisito por dos meses.
 
 La lógica es directa: los países quieren seguridad de que no te quedarás más tiempo de lo permitido y luego te encontrarás con un documento muerto sin forma de regresar a casa. Seis meses es un margen administrativo conveniente.
@@ -49,17 +49,17 @@ La siguiente tabla cubre los destinos más comunes. Las políticas cambian, así
 
 | País / Región | Validez Requerida | Notas |
 |---|---|---|
-| Tailandia | 6 meses | Estrictamente aplicado en el check-in |
-| Indonesia | 6 meses | Se aplica a todas las nacionalidades |
-| Vietnam | 6 meses | Varía según nacionalidad; verifica antes de viajar |
-| Malasia | 6 meses | Aplicado en el check-in y en la frontera |
-| Filipinas | 6 meses | Más billete de salida/regreso requerido |
-| India | 6 meses | Visado también requerido para la mayoría de nacionalidades |
-| Kenia | 6 meses | eVisa requerido; la regla de 6 meses aplica |
+| Tailandia | 6 meses desde la llegada | También exige al menos 1 página en blanco |
+| Indonesia | 6 meses | Se aplica por igual a entrada sin visado, visado a la llegada y e-visa |
+| Vietnam | 6 meses | También exige 2 páginas en blanco y un pasaporte sin daños |
+| Malasia | 6 meses | El pasaporte debe estar sin daños y sin páginas faltantes |
+| Filipinas | 6 meses | Generalmente se espera un billete de salida o regreso |
+| India | 6 meses | Visado requerido para visitantes británicos; también 2 páginas en blanco |
+| Kenia | 6 meses | Solicita online una autorización electrónica de viaje (ETA) antes de viajar |
 | Turquía | 150 días desde la llegada | [Foreign Office del Reino Unido](https://www.gov.uk/foreign-travel-advice/turkey/entry-requirements): caducidad al menos 150 días después de la fecha de llegada |
 | UE / Schengen | 3 meses después de la salida | Más una fecha de expedición de menos de 10 años |
 | Reino Unido | Solo duración de la estancia | Los ciudadanos británicos al extranjero aún están sujetos a las reglas del país de destino |
-| EE.UU. | Solo duración de la estancia | Los ciudadanos estadounidenses al extranjero están sujetos a las reglas del país de destino |
+| EE.UU. | Solo duración de la estancia para muchas nacionalidades | De lo contrario, 6 meses más allá de la estancia; el CBP mantiene la lista de exención (el Reino Unido figura en ella) |
 | Japón / Australia | Solo duración de la estancia | Sin regla de extensión de 6 meses para visitantes |
 | Nueva Zelanda | 3 meses después de la salida | [Foreign Office del Reino Unido](https://www.gov.uk/foreign-travel-advice/new-zealand/entry-requirements): caducidad al menos 3 meses después del día en que planeas salir |
 
@@ -71,7 +71,7 @@ Siempre verifica tus requisitos específicos usando el IATA Travel Centre, el si
 
 ## Cuándo No Se Aplica la Regla de los 6 Meses
 
-Muchos destinos no piden nada más allá de las fechas de tu viaje. El [Foreign Office del Reino Unido](https://www.gov.uk/foreign-travel-advice/japan/entry-requirements) lo expresa claramente para Japón: tu pasaporte debe ser válido durante la duración de tu estancia, y no se requiere ningún periodo adicional de validez. [Australia](https://www.gov.uk/foreign-travel-advice/australia/entry-requirements) y [Estados Unidos](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements) usan el mismo estándar, pidiendo solo que tu pasaporte permanezca válido durante la duración de tu estancia prevista.
+Muchos destinos no piden nada más allá de las fechas de tu viaje. El [Foreign Office del Reino Unido](https://www.gov.uk/foreign-travel-advice/japan/entry-requirements) lo expresa claramente para Japón: tu pasaporte debe ser válido durante la duración de tu estancia, y no se requiere ningún periodo adicional de validez. [Australia](https://www.gov.uk/foreign-travel-advice/australia/entry-requirements) usa el mismo estándar, y lo mismo hace [Estados Unidos](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements) con los ciudadanos de los países incluidos en su lista de exención, en la que figura el Reino Unido.
 
 También puede que encuentres listas de países cuyos pasaportes se consideran válidos durante seis meses después de su fecha de caducidad. Eso es un acuerdo propio de Estados Unidos, no una prórroga de tu pasaporte. La Oficina de Aduanas y Protección Fronteriza de EE. UU. publica una lista de países cuyos ciudadanos están exentos del requisito estadounidense de validez de seis meses y solo necesitan un pasaporte válido para la duración de su estancia prevista. Se aplica únicamente a la entrada en Estados Unidos y a ningún otro caso, y un pasaporte caducado sigue caducado en todas partes.
 
@@ -172,7 +172,7 @@ El pasaporte de cada miembro de la familia se evalúa individualmente —no hay 
 
 ### ¿Puedo viajar si mi pasaporte vence en 3 meses?
 
-Depende totalmente de a dónde vayas. Japón, Australia y Estados Unidos solo piden que tu pasaporte permanezca válido durante la duración de tu estancia, así que tres meses son suficientes para un viaje de dos semanas. El área Schengen necesita tres meses más allá del día que sales, así que tener tres meses restantes es ir demasiado al límite. Tailandia pide seis meses desde el día que llegas, así que tres meses restantes significa que te rechazarán en el check-in.
+Depende totalmente de a dónde vayas. Japón y Australia solo piden que tu pasaporte permanezca válido durante la duración de tu estancia, así que tres meses son suficientes para un viaje de dos semanas. Estados Unidos aplica lo mismo a los ciudadanos de los países de su lista de exención, en la que figura el Reino Unido. El área Schengen necesita tres meses más allá del día que sales, así que tener tres meses restantes es ir demasiado al límite. Tailandia pide seis meses desde el día que llegas, así que tres meses restantes significa que te rechazarán en el check-in.
 
 ### ¿Se aplica la regla de los 6 meses si solo estoy en tránsito por un país?
 

@@ -24,7 +24,7 @@ L'ufficiale dell'immigrazione ha guardato il passaporto di mia figlia, ha fatto 
 
 La regola richiede che il passaporto abbia ancora sei mesi di validità per il tuo viaggio. La maggior parte dei paesi li conta dal giorno dell'arrivo, e alcuni dal giorno della partenza, quindi contarli dalla partenza copre entrambi i casi. In pratica significa questo:
 
-- Se visiti la Thailandia e pensi di partire il 1 agosto, il passaporto deve restare valido almeno fino al 1 febbraio dell'anno successivo.
+- Se visiti la Thailandia e arrivi il 1 agosto, il passaporto deve restare valido almeno fino al 1 febbraio dell'anno successivo.
 - Un passaporto che scade il 30 novembre è tecnicamente "valido" per il tuo viaggio di agosto, ma non rispetta il requisito dei sei mesi: ne mancano due.
 
 La logica è semplice: i paesi vogliono la certezza che non ti fermerai oltre la durata del visto e non ti ritroverai con un documento scaduto e nessun modo di tornare a casa. Sei mesi sono un comodo margine amministrativo.
@@ -47,17 +47,17 @@ La tabella qui sotto copre le destinazioni più comuni. Le politiche cambiano, q
 
 | Paese / Regione | Validità Richiesta | Note |
 |---|---|---|
-| Thailandia | 6 mesi | Rigorosamente applicata al check-in |
-| Indonesia | 6 mesi | Si applica a tutte le nazionalità |
-| Vietnam | 6 mesi | Varia in base alla nazionalità; verifica prima di partire |
-| Malesia | 6 mesi | Applicata al check-in e al confine |
-| Filippine | 6 mesi | Più biglietto di ritorno o prosecuzione richiesto |
-| India | 6 mesi | Visto anche richiesto per la maggior parte delle nazionalità |
-| Kenya | 6 mesi | eVisa richiesto; regola dei 6 mesi si applica |
+| Thailandia | 6 mesi dall'arrivo | Richiede anche almeno 1 pagina vuota |
+| Indonesia | 6 mesi | Si applica a ingresso senza visto, visto all'arrivo ed e-visa allo stesso modo |
+| Vietnam | 6 mesi | Richiede anche 2 pagine vuote e un passaporto non danneggiato |
+| Malesia | 6 mesi | Il passaporto deve essere non danneggiato e senza pagine mancanti |
+| Filippine | 6 mesi | In genere è richiesta la prova del volo di ritorno o di prosecuzione |
+| India | 6 mesi | Visto necessario per i visitatori britannici; anche 2 pagine vuote |
+| Kenya | 6 mesi | Richiedi online un'autorizzazione di viaggio elettronica (ETA) prima di partire |
 | Turchia | 150 giorni dall'arrivo | [Ministero degli Esteri britannico](https://www.gov.uk/foreign-travel-advice/turkey/entry-requirements): scadenza almeno 150 giorni dopo la data di arrivo |
 | UE / Schengen | 3 mesi oltre la partenza | Più una data di rilascio inferiore a 10 anni |
 | Regno Unito | Durata del soggiorno soltanto | I cittadini del Regno Unito all'estero rimangono soggetti alle regole del paese di destinazione |
-| Stati Uniti | Durata del soggiorno soltanto | I cittadini statunitensi all'estero rimangono soggetti alle regole del paese di destinazione |
+| Stati Uniti | Durata del soggiorno per molte nazionalità | Altrimenti 6 mesi oltre il soggiorno; il CBP gestisce l'elenco di esenzione (il Regno Unito è incluso) |
 | Giappone / Australia | Durata del soggiorno soltanto | Nessuna regola di estensione di 6 mesi per i visitatori |
 | Nuova Zelanda | 3 mesi oltre la partenza | [Ministero degli Esteri britannico](https://www.gov.uk/foreign-travel-advice/new-zealand/entry-requirements): scadenza almeno 3 mesi dopo il giorno in cui prevedi di partire |
 
@@ -69,7 +69,7 @@ Verifica sempre i tuoi requisiti specifici con il Centro Viaggi IATA, il sistema
 
 ## Quando la Regola dei 6 Mesi Non si Applica
 
-Molte destinazioni non chiedono nulla oltre alle date del tuo viaggio. Il [Ministero degli Esteri britannico](https://www.gov.uk/foreign-travel-advice/japan/entry-requirements) lo dice chiaramente per il Giappone: il passaporto deve essere valido per la durata del soggiorno, e non è richiesto alcun periodo di validità aggiuntivo. [Australia](https://www.gov.uk/foreign-travel-advice/australia/entry-requirements) e [Stati Uniti](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements) usano lo stesso criterio e chiedono solo che il passaporto resti valido per la durata del soggiorno previsto.
+Molte destinazioni non chiedono nulla oltre alle date del tuo viaggio. Il [Ministero degli Esteri britannico](https://www.gov.uk/foreign-travel-advice/japan/entry-requirements) lo dice chiaramente per il Giappone: il passaporto deve essere valido per la durata del soggiorno, e non è richiesto alcun periodo di validità aggiuntivo. [Australia](https://www.gov.uk/foreign-travel-advice/australia/entry-requirements) usa lo stesso criterio, e lo stesso vale per gli [Stati Uniti](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements) per i cittadini dei paesi presenti nel loro elenco di esenzione, di cui fa parte il Regno Unito.
 
 L'Europa sta nel mezzo, ed è il caso che le persone fraintendono più spesso. Per visitare l'area Schengen, il [Ministero degli Esteri](https://www.gov.uk/foreign-travel-advice/france/entry-requirements) afferma che il passaporto deve scadere almeno tre mesi dopo il giorno in cui prevedi di partire. Tre mesi, non sei.
 
@@ -168,7 +168,7 @@ Il passaporto di ogni familiare viene valutato singolarmente: non esiste una reg
 
 ### Posso viaggiare se il mio passaporto scade tra 3 mesi?
 
-Dipende interamente da dove vai. Giappone, Australia e Stati Uniti chiedono solo che il passaporto resti valido per la durata del soggiorno, quindi tre mesi vanno bene per un viaggio di due settimane. L'area Schengen richiede tre mesi oltre il giorno della partenza, quindi tre mesi residui sono troppo pochi. La Thailandia vuole sei mesi dal giorno dell'arrivo, quindi tre mesi residui significano un rifiuto al check-in.
+Dipende interamente da dove vai. Giappone e Australia chiedono solo che il passaporto resti valido per la durata del soggiorno, quindi tre mesi vanno bene per un viaggio di due settimane. Gli Stati Uniti applicano lo stesso criterio ai cittadini dei paesi nel loro elenco di esenzione, di cui fa parte il Regno Unito. L'area Schengen richiede tre mesi oltre il giorno della partenza, quindi tre mesi residui sono troppo pochi. La Thailandia vuole sei mesi dal giorno dell'arrivo, quindi tre mesi residui significano un rifiuto al check-in.
 
 ### La regola dei 6 mesi si applica se sto solo transitando attraverso un paese?
 

@@ -1268,6 +1268,8 @@ Sometimes - provided your current passport is still valid and you haven't physic
 
 ## Related Articles
 
+[Renewal6 min read · November 2026Passport Name Change After Marriage: When to Apply in the UK](https://traveldocumentvault.com/blog/passport-name-change-after-marriage/)
+
 [Renewal7 min read · October 2026Can You Renew a Passport Before It Expires?](https://traveldocumentvault.com/blog/renew-passport-before-expiry/)
 
 [Travel Rules6 min read · Sep 8UK ETA: Which Passport Is Yours Tied To?](https://traveldocumentvault.com/blog/uk-eta-passport-rules/)
@@ -2581,7 +2583,7 @@ It's one of the most misunderstood requirements in international travel: it catc
 
 The rule requires six months of passport validity for your trip. Most countries count that from the day you arrive, and some from the day you leave, so counting from your departure date covers both. In practice, this means:
 
-- If you're visiting Thailand and plan to leave on 1 August, your passport must stay valid until at least 1 February the following year.
+- If you're visiting Thailand and arrive on 1 August, your passport must stay valid until at least 1 February the following year.
 - A passport expiring on 30 November is technically "valid" for your August trip - but it fails this requirement by two months.
 
 The logic is straightforward: countries want assurance you won't overstay your visa and then find yourself holding a dead document with no way home. Six months is a convenient administrative buffer.
@@ -2604,17 +2606,17 @@ The following table covers the most common destinations. Policies change, so alw
 
 | Country / Region | Validity Required | Notes |
 |---|---|---|
-| Thailand | 6 months | Strictly enforced at check-in |
-| Indonesia | 6 months | Applies to all nationalities |
-| Vietnam | 6 months | Varies by nationality; verify before travel |
-| Malaysia | 6 months | Enforced at check-in and border |
-| Philippines | 6 months | Plus onward/return ticket required |
-| India | 6 months | Visa also required for most nationalities |
-| Kenya | 6 months | eVisa required; 6-month rule applies |
+| Thailand | 6 months from arrival | Also needs at least 1 blank page |
+| Indonesia | 6 months | Applies to visa-free, visa on arrival and e-visa entry alike |
+| Vietnam | 6 months | Also needs 2 blank pages and an undamaged passport |
+| Malaysia | 6 months | Passport must be undamaged, with no missing pages |
+| Philippines | 6 months | Proof of onward or return travel is generally expected |
+| India | 6 months | Visa needed for British visitors; also 2 blank pages |
+| Kenya | 6 months | Apply online for an electronic travel authorisation (ETA) before you travel |
 | Turkey | 150 days from arrival | [UK Foreign Office](https://www.gov.uk/foreign-travel-advice/turkey/entry-requirements): expiry date at least 150 days after the date you arrive |
 | EU / Schengen | 3 months beyond departure | Plus a date of issue under 10 years old |
 | United Kingdom | Duration of stay only | UK citizens abroad still subject to destination rules |
-| USA | Duration of stay only | US citizens abroad subject to destination country rules |
+| USA | Duration of stay for many nationalities | Otherwise 6 months beyond your stay; CBP keeps the exemption list (the UK is on it) |
 | Japan / Australia | Duration of stay only | No 6-month extension rule for visitors |
 | New Zealand | 3 months beyond departure | [UK Foreign Office](https://www.gov.uk/foreign-travel-advice/new-zealand/entry-requirements): expiry date at least 3 months after the day you plan to leave |
 
@@ -2624,7 +2626,7 @@ Passport validity requirements by country change without notice, and a bilateral
 
 ## When the 6-Month Rule Does Not Apply
 
-Plenty of destinations ask for nothing beyond the dates of your trip. The [UK Foreign Office](https://www.gov.uk/foreign-travel-advice/japan/entry-requirements) puts it plainly for Japan: your passport must be valid for the length of your stay, and no additional period of validity is required. [Australia](https://www.gov.uk/foreign-travel-advice/australia/entry-requirements) and the [United States](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements) use the same standard, asking only that your passport stays valid for the length of your planned stay.
+Plenty of destinations ask for nothing beyond the dates of your trip. The [UK Foreign Office](https://www.gov.uk/foreign-travel-advice/japan/entry-requirements) puts it plainly for Japan: your passport must be valid for the length of your stay, and no additional period of validity is required. [Australia](https://www.gov.uk/foreign-travel-advice/australia/entry-requirements) uses the same standard, and so does the [United States](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements) for citizens of the countries on its exemption list, which includes the UK.
 
 You may also come across lists of countries whose passports are treated as valid for six months past their expiry date. That's a United States arrangement, not an extension of your passport. US Customs and Border Protection publishes a list of countries whose citizens are exempt from the US six-month validity requirement and need a passport valid only for their intended stay. It applies to entering the US and nowhere else, and an expired passport stays expired everywhere.
 
@@ -2725,7 +2727,7 @@ Each family member's passport is assessed individually - there's no group rule. 
 
 ### Can I travel if my passport expires in 3 months?
 
-It depends entirely on where you're going. Japan, Australia and the United States ask only that your passport stays valid for the length of your stay, so three months is fine for a two-week trip. The Schengen area needs three months beyond the day you leave, so three months left is cutting it far too fine. Thailand wants six months from the day you arrive, so three months left means a refusal at check-in.
+It depends entirely on where you're going. Japan and Australia ask only that your passport stays valid for the length of your stay, so three months is fine for a two-week trip. The United States does the same for citizens of countries on its exemption list, which includes the UK. The Schengen area needs three months beyond the day you leave, so three months left is cutting it far too fine. Thailand wants six months from the day you arrive, so three months left means a refusal at check-in.
 
 ### Does the 6-month rule apply if I'm only transiting through a country?
 
@@ -2750,6 +2752,106 @@ Several popular destinations add no buffer at all. The UK Foreign Office says Br
 [Organisation7 min read · Feb 5, 2026How to Organise Family Travel Documents (Before Your Next Trip)](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/)
 
 [Visas & Entry8 min read · May 8, 2026ETIAS: What Documents You Need and How to Apply](https://traveldocumentvault.com/blog/etias-documents-2026/)
+
+---
+
+# Passport Name Change After Marriage: When to Apply in the UK
+
+> Marrying doesn't mean a new passport; changing the name you use does. What HMPO asks for, the post-dated option, and timing it around the honeymoon.
+
+Source: https://traveldocumentvault.com/blog/passport-name-change-after-marriage/
+
+---
+
+![Watercolour sketch of a family of three seen from behind at an airport window in morning light, one adult holding a gold passport](https://traveldocumentvault.com/blog/passport-name-change-after-marriage/cover.jpg)
+
+## Key Takeaways
+
+- **Marrying alone changes nothing.** You need a new passport only if you start using a different name.
+- The name on your passport must match the name on your bookings, so the passport follows whichever name you travel in.
+- After the ceremony, send your **marriage or civil partnership certificate** with the application.
+- Applying before the ceremony gets you a **post-dated passport**, cancels your old one, and can complicate visas.
+- With a honeymoon close to the wedding, we'd travel in your current name and apply once you're home.
+
+Getting married changes nothing on a British passport by itself. HM Passport Office's own [caseworker guidance on name changes](https://www.gov.uk/government/publications/change-of-name-passport-applications-caseworker-guidance/names-change-of-name-passport-applications-accessible) says there is no legal basis for anyone to change their name because they've married, so the passport only needs to change when the name you use does. That leaves you a choice about when, and the timing turns out to matter more than the paperwork.
+
+This guide covers British passports only. Other countries' passport offices set their own rules, and the principle that the passport follows the name you travel in is the part most likely to carry over.
+
+## Marrying Alone Doesn't Mean a New Passport
+
+[GOV.UK's page on changing passport details](https://www.gov.uk/changing-passport-information) lists marrying or forming a civil partnership while keeping your name among the changes that need no new passport at all. HMPO's guidance sets out the usual choices: keep your own surname, take your partner's, create a double-barrelled name, or take part of your partner's surname. Only the last three touch your passport.
+
+The same GOV.UK page says you'll need a new passport to travel abroad or prove your identity once you change your name. The reason is one plain rule: the name on your passport must match the one you use when you book your travel. Plenty of people keep travelling in their old name for months after the wedding, and that's fine as long as the tickets say the same thing as the passport.
+
+When the two don't line up, the trouble shows up at check-in rather than at the border. We've covered [what happens when a ticket name and passport name don't match](https://traveldocumentvault.com/blog/passport-expired-what-to-do/) in a separate guide.
+
+## After the Ceremony, Your Certificate Does the Work
+
+Applying once you're married is the simpler route. [GOV.UK's marriage and civil partnership page](https://www.gov.uk/changing-passport-information/name-marriage-and-civil-partnership) asks you to send your marriage or civil partnership certificate when you apply for a passport in your new name, and says this includes double-barrelled names. Fill in and sign the application in the name you want printed on the passport, not the one you're replacing.
+
+HMPO defines a double-barrelled surname as two existing surnames joined with a space or a hyphen. Two surnames run together into a single word falls outside that definition, so if that's your plan, read the caseworker guidance before you send anything.
+
+The new passport is a different document in more ways than the name. It won't have the same number as your old one, and GOV.UK says time left on your old passport is not added to the new one. If your current passport has years left on it, that's the cost of switching now rather than at your next renewal.
+
+Visas need a closer look. GOV.UK warns that unexpired visas in your old passport may become invalid if you change your name, and tells you to check with the embassy or consulate that issued them. For a standard renewal, [the renewal page](https://www.gov.uk/renew-adult-passport/renew) says you can send the old passport with the visa attached, get it back, and use the visa by carrying both passports. Whether that still works after a name change is the issuing country's call, so ask them first.
+
+HMPO's [service standards](https://www.gov.uk/government/organisations/hm-passport-office/about-our-services) say you'll usually get your passport within 3 weeks, and longer if it needs more information or an interview. We cover what else can slow an application down in [how long passport renewal takes](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/). GOV.UK's advice is not to book travel until you have the new passport in your hand.
+
+## Before the Ceremony, You Get a Post-Dated Passport
+
+You can apply for a passport in your new name up to 3 months before the ceremony. Instead of a certificate, you send a 'passports for newly weds and civil partners' form, signed by the religious minister or registrar who will conduct the ceremony.
+
+What comes back is post-dated. GOV.UK is direct about it: you cannot use the new passport before the ceremony, and your old passport will be cancelled. Read those two lines together and the practical effect is clear. Between sending the application and the wedding day, expect no passport you can travel on.
+
+![Sketchnote of two routes to a passport in a married name: apply before the wedding (up to 3 months ahead, form signed by minister or registrar, old passport cancelled, not valid until the wedding day) or apply after (send your marriage certificate, usually within 3 weeks, new passport number), with a reminder to book tickets in the name on your passport](https://traveldocumentvault.com/blog/passport-name-change-after-marriage/name-change-timeline.jpg)
+
+There's a second catch with visas. GOV.UK says some countries will not issue visas for post-dated passports, and tells you to check with that country's embassy or consulate. If your honeymoon needs a visa arranged in advance, ask that question before you apply, not after the passport arrives.
+
+## For a Honeymoon Soon After the Wedding, We'd Keep Your Current Name
+
+Our view: if the honeymoon follows the wedding within a few weeks, book it in the name on your current passport, travel on that passport, and apply for the new name once you're home. Marrying doesn't make your current passport invalid, and a booking in your current name matches it.
+
+That order means you're never left without a usable passport in the run-up to the wedding, and you skip the post-dated document along with the visa question it raises. It also avoids the trap GOV.UK warns about, a booking made in a new name for a passport that doesn't exist yet and won't share the old one's number.
+
+Applying early still makes sense for some couples. If the trip is months away, needs no advance visa, and you want the new name on it, the post-dated route gets you there. Just book once the passport is in your hand.
+
+If your surname will differ from your children's after the wedding, that's common at borders and usually easy to explain. Our guide to [travelling with a child without both parents](https://traveldocumentvault.com/blog/travelling-child-without-both-parents/) covers what to carry.
+
+Official sources
+
+- [GOV.UK: Change your name on your passport after marriage or civil partnership](https://www.gov.uk/changing-passport-information/name-marriage-and-civil-partnership)
+- [GOV.UK: Change your name or personal details on your passport](https://www.gov.uk/changing-passport-information)
+- [HM Passport Office: Change of name passport applications (caseworker guidance)](https://www.gov.uk/government/publications/change-of-name-passport-applications-caseworker-guidance/names-change-of-name-passport-applications-accessible)
+- [GOV.UK: Renew your adult passport](https://www.gov.uk/renew-adult-passport/renew)
+- [HM Passport Office: About our services](https://www.gov.uk/government/organisations/hm-passport-office/about-our-services)
+
+## Frequently Asked Questions
+
+### Do I have to change my passport after getting married?
+
+No. GOV.UK says you do not need a new passport if you marry or form a civil partnership and keep your name. You need one only if you change the name you use, because the name on your passport must match the name on your travel bookings.
+
+### What do I send HMPO after the wedding?
+
+Fill in and sign the passport application in the name you want printed, and send your marriage or civil partnership certificate with it. GOV.UK says this includes double-barrelled names.
+
+### Can I get a passport in my married name before the wedding?
+
+Yes, up to 3 months before the ceremony, with a 'passports for newly weds and civil partners' form signed by the religious minister or registrar conducting it. The new passport is post-dated, so you cannot use it before the ceremony, your old passport is cancelled, and some countries will not issue visas for a post-dated passport.
+
+### How long does a passport in a new name take?
+
+HM Passport Office says you'll usually get your passport within 3 weeks, and longer if it needs more information or an interview. GOV.UK also says not to book travel until you have a valid passport, because the new one has a different number.
+
+### What happens to visas in my old passport?
+
+GOV.UK says unexpired visas in your old passport may become invalid if you change your name, so check with the embassy or consulate that issued the visa before you apply. Time left on the old passport is not added to the new one either.
+
+## Related Articles
+
+[Renewal7 min read · February 2026How Long Does Passport Renewal Take? UK, US and Australia Timelines](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/)
+
+[Family Travel8 min read · August 2026Travelling With a Child Without Both Parents: What to Carry](https://traveldocumentvault.com/blog/travelling-child-without-both-parents/)
 
 ---
 
@@ -4459,6 +4561,8 @@ It can prompt extra questions, particularly with younger children. A copy of the
 Both can, at different moments. Check-in staff confirm you meet the destination's entry rules before boarding, because airlines can be fined for carrying passengers who are then refused entry. Border officers make their own decision on arrival, and sometimes on exit. Satisfying one does not bind the other.
 
 ## Related Articles
+
+[Renewal6 min read · November 2026Passport Name Change After Marriage: When to Apply in the UK](https://traveldocumentvault.com/blog/passport-name-change-after-marriage/)
 
 [Family Travel8 min read · May 2026Child Travel Consent Letter: When You Need One and What It Must Say](https://traveldocumentvault.com/blog/child-travel-consent-letter/)
 

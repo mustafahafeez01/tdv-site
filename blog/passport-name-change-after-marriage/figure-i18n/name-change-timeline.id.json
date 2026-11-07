@@ -1,0 +1,57 @@
+{
+ "id": {
+  "template": "cards",
+  "title": "Nama baru, paspor baru: dua jalur",
+  "cards": [
+   {
+    "heading": "Ajukan sebelum pernikahan",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Hingga 3 bulan sebelumnya",
+      "mark": "dot"
+     },
+     {
+      "text": "Formulir ditandatangani pemuka agama atau registrar",
+      "mark": "dot"
+     },
+     {
+      "text": "Paspor lama dibatalkan",
+      "mark": "cross"
+     },
+     {
+      "text": "Tidak berlaku sampai hari pernikahan",
+      "mark": "cross"
+     }
+    ]
+   },
+   {
+    "heading": "Ajukan setelah pernikahan",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Kirim akta nikah Anda",
+      "mark": "dot"
+     },
+     {
+      "text": "Biasanya dalam 3 minggu",
+      "mark": "tick"
+     },
+     {
+      "text": "Nomor paspor baru",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "link": "arrow",
+  "link_label": "Pernikahan",
+  "focal": "Pesan tiket atas nama di paspor Anda",
+  "alt": "Diagram dua jalur menuju paspor Inggris dengan nama setelah menikah. Ajukan sebelum pernikahan: hingga 3 bulan sebelumnya, formulir ditandatangani pemuka agama atau registrar, paspor lama dibatalkan, paspor baru tidak berlaku sampai hari pernikahan. Ajukan setelah pernikahan: kirim akta nikah Anda, biasanya dalam 3 minggu, nomor paspor baru. Pesan tiket atas nama di paspor Anda",
+  "caption": "Kedua jalur bisa dipakai. Mana yang cocok bergantung pada kapan Anda bepergian berikutnya.",
+  "placement": {
+   "h2": 4,
+   "para": 2
+  }
+ }
+}

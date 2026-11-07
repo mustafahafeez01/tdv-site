@@ -118,7 +118,7 @@ Inga tidsbegränsningar. Inga funktioner som på ett misteröst sätt försvinne
 
 Pro är för familjer. Obegränsade profiler för din hela familj, obegränsade dokument, reseplaneringsprogram med en visuell beredskapschecklista, krypterad molnsäkerhetskopia till ditt eget iCloud eller Google Drive och en dagar-utomlands-spårare för dagsgränser per land och skattemässig bosättningsspårning.
 
-Ett köp på ditt konto. En familj. Fungerar på alla dina enheter som använder samma App Store- eller Google Play-konto.
+Ett köp på ditt konto. En familj. Fungerar på alla dina enheter som använder samma App Store- eller Google Play-konto. App Store och Google Play säljer Pro separat var för sig, så att byta från iPhone till Android innebär att du måste köpa det igen.
 
 ## Ett köp, en hel familj
 

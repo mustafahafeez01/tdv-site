@@ -54,7 +54,7 @@ Hvem byggede denne app, og hvorfor er den privatlivsfokuseret?
 
 Travel Document Vault er bygget af Mustafa Hafeez, en erfaren softwareudvikler med mange års professionel erfaring i at bygge programmer, der respekterer privatlivet, og en forælder, der havde brug for appen til sin egen familie. Privatliv er ikke en marketingsætning. Den lokale boks kræver hverken en Travel Document Vault-konto eller -server. Aktivér applås for at begrænse adgang på en ulåst telefon. Den valgfri skysikkerhedskopi bruger din egen iCloud eller dit eget Google Drive, krypteret ende-til-ende med en gendannelseskode, som kun du har. Det er en bevidst teknisk beslutning, ikke en politik, der kunne ændres med en kontakt.
 
-Vil du verificere disse påstande selv? Se vores [Privatlivsverifikation](https://traveldocumentvault.com/da/privacy-verification/) side for uafhængigt bevis og en fuld gennemgang af alle app-tilladelser.
+Vil du verificere disse påstande selv? Se vores [Privatlivsverifikation](https://traveldocumentvault.com/da/privacy-verification/) side for test du selv kan køre og en fuld gennemgang af alle app-tilladelser.
 
 ## Privatliv og data
 

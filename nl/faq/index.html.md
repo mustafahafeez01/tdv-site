@@ -54,7 +54,7 @@ Wie heeft deze app gebouwd en waarom is het privacy-first?
 
 Travel Document Vault is gemaakt door Mustafa Hafeez, een senior softwareontwikkelaar met jarenlange professionele ervaring in het bouwen van privacyvriendelijke applicaties, en een ouder die deze app voor zijn eigen gezin nodig had. Privacy is geen marketingzin. De lokale kluis heeft geen Travel Document Vault-account of -server nodig. Schakel appvergrendeling in om de toegang op een ontgrendelde telefoon te beperken. De optionele cloudback-up gebruikt uw eigen iCloud of Google Drive, end-to-end versleuteld met een herstelcode die alleen u heeft. Dat is een bewuste technische keuze, geen beleid dat met een schakelaar te veranderen is.
 
-Wilt u deze beweringen zelf verifiëren? Zie onze [Privacyverklaring](https://traveldocumentvault.com/privacy-policy/) voor volledige details over elk app-recht.
+Wilt u deze beweringen zelf verifiëren? Zie onze pagina [Privacyverificatie](https://traveldocumentvault.com/nl/privacy-verification/) voor tests die u zelf kunt uitvoeren en een volledig overzicht van elke app-machtiging.
 
 ## Privacy & Gegevens
 

@@ -54,7 +54,7 @@ Tus documentos viven en tu dispositivo, no en nuestros servidores, por lo que no
 
 Travel Document Vault lo creó Mustafa Hafeez, un desarrollador de software sénior con años de experiencia profesional construyendo aplicaciones que respetan la privacidad, y padre que necesitaba esta app para su propia familia. La privacidad no es una frase de marketing. La bóveda local no necesita una cuenta ni un servidor de Travel Document Vault. Activa el bloqueo de la app para restringir el acceso en un teléfono desbloqueado. La copia de seguridad opcional en la nube usa tu propio iCloud o Google Drive, cifrada de extremo a extremo con un código de recuperación que solo tú tienes. Es una decisión de ingeniería deliberada, no una política que pudiera cambiarse con un interruptor.
 
-¿Quieres verificar estas afirmaciones tú mismo? Consulta nuestra página de [Verificación de Privacidad](https://traveldocumentvault.com/es/privacy-verification/) para prueba independiente y un desglose completo de cada permiso de aplicación.
+¿Quieres verificar estas afirmaciones tú mismo? Consulta nuestra página de [Verificación de Privacidad](https://traveldocumentvault.com/es/privacy-verification/) para pruebas que puedes ejecutar tú mismo y un desglose completo de cada permiso de aplicación.
 
 ## Privacidad y datos
 

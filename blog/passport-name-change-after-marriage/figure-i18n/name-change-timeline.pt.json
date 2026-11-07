@@ -1,0 +1,57 @@
+{
+ "pt": {
+  "template": "cards",
+  "title": "Nome novo, passaporte novo: dois caminhos",
+  "cards": [
+   {
+    "heading": "Pedir antes do casamento",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Até 3 meses antes",
+      "mark": "dot"
+     },
+     {
+      "text": "Formulário assinado por ministro ou oficial de registo",
+      "mark": "dot"
+     },
+     {
+      "text": "Passaporte antigo cancelado",
+      "mark": "cross"
+     },
+     {
+      "text": "Data posterior: só vale a partir do dia do casamento",
+      "mark": "cross"
+     }
+    ]
+   },
+   {
+    "heading": "Pedir depois do casamento",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Envie a certidão de casamento",
+      "mark": "dot"
+     },
+     {
+      "text": "Normalmente em 3 semanas",
+      "mark": "tick"
+     },
+     {
+      "text": "Novo número de passaporte",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "link": "arrow",
+  "link_label": "Casamento",
+  "focal": "Reserve os bilhetes com o nome do passaporte",
+  "alt": "Diagrama de dois caminhos para um passaporte do Reino Unido com o nome de casado(a). Pedir antes do casamento: até 3 meses antes, formulário assinado pelo ministro ou pelo oficial de registo, passaporte antigo cancelado, passaporte novo só válido a partir do dia do casamento. Pedir depois do casamento: envie a certidão de casamento, normalmente em 3 semanas, novo número de passaporte. Reserve os bilhetes com o nome do passaporte",
+  "caption": "Qualquer dos caminhos serve. O melhor depende de quando vai viajar a seguir.",
+  "placement": {
+   "h2": 4,
+   "para": 2
+  }
+ }
+}

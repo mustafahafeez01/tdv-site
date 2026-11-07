@@ -1,0 +1,57 @@
+{
+ "de": {
+  "template": "cards",
+  "title": "Neuer Name, neuer Reisepass: zwei Wege",
+  "cards": [
+   {
+    "heading": "Vor der Hochzeit beantragen",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Bis zu 3 Monate vorher",
+      "mark": "dot"
+     },
+     {
+      "text": "Formular von Amtsträger oder Standesamt unterschrieben",
+      "mark": "dot"
+     },
+     {
+      "text": "Alter Reisepass wird entwertet",
+      "mark": "cross"
+     },
+     {
+      "text": "Erst ab dem Hochzeitstag gültig",
+      "mark": "cross"
+     }
+    ]
+   },
+   {
+    "heading": "Nach der Hochzeit beantragen",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Heiratsurkunde mitsenden",
+      "mark": "dot"
+     },
+     {
+      "text": "In der Regel innerhalb von 3 Wochen",
+      "mark": "tick"
+     },
+     {
+      "text": "Neue Reisepassnummer",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "link": "arrow",
+  "link_label": "Hochzeit",
+  "focal": "Tickets unter dem Namen im Reisepass buchen",
+  "alt": "Diagramm zu zwei Wegen zu einem britischen Reisepass mit Ehenamen. Vor der Hochzeit beantragen: bis zu 3 Monate vorher, Formular vom Amtsträger oder Standesamt unterschrieben, alter Reisepass wird entwertet, neuer Reisepass erst ab dem Hochzeitstag gültig. Nach der Hochzeit beantragen: Heiratsurkunde mitsenden, in der Regel innerhalb von 3 Wochen, neue Reisepassnummer. Tickets unter dem Namen im Reisepass buchen",
+  "caption": "Beide Wege funktionieren. Welcher zu Ihnen passt, hängt davon ab, wann Sie als Nächstes verreisen.",
+  "placement": {
+   "h2": 4,
+   "para": 2
+  }
+ }
+}

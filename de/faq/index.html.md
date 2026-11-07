@@ -54,7 +54,7 @@ Wer hat diese App entwickelt, und warum steht Datenschutz an erster Stelle?
 
 Travel Document Vault wurde von Mustafa Hafeez entwickelt, einem erfahrenen Softwareentwickler mit langjähriger Berufserfahrung im Bau datenschutzfreundlicher Anwendungen, und einem Vater, der diese App für seine eigene Familie brauchte. Datenschutz ist keine Marketingzeile. Der lokale Tresor benötigt kein Travel Document Vault-Konto und keinen Server. Aktivieren Sie die App-Sperre, um den Zugriff auf einem entsperrten Telefon zu beschränken. Das optionale Cloud-Backup nutzt Ihre eigene iCloud oder Ihren eigenen Google Drive, Ende-zu-Ende verschlüsselt mit einem Wiederherstellungscode, den nur Sie besitzen. Das ist eine bewusste technische Entscheidung, keine Richtlinie, die sich per Schalter ändern ließe.
 
-Möchten Sie diese Angaben selbst überprüfen? Sehen Sie sich unsere [Datenschutz-Verifizierung](https://traveldocumentvault.com/de/privacy-verification/) Seite für unabhängige Nachweise und eine vollständige Aufschlüsselung aller App-Berechtigungen an.
+Möchten Sie diese Angaben selbst überprüfen? Sehen Sie sich unsere [Datenschutz-Verifizierung](https://traveldocumentvault.com/de/privacy-verification/) Seite für Tests, die Sie selbst durchführen können, und eine vollständige Aufschlüsselung aller App-Berechtigungen an.
 
 ## Datenschutz & Daten
 
