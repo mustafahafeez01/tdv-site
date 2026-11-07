@@ -125,6 +125,11 @@ Source: https://traveldocumentvault.com/ja/blog/passport-photo-at-home/
 
 **この記事に頼る前に:** これはブログであり、公式な情報源ではありません。ルールや細かい条件は変わりますし、あなたの状況は違うかもしれません。掲載内容は確認していますが、それでも誤りや古い情報が含まれる可能性があります。ここに書かれていることがご自身の予定に関わるなら、行動に移す前に担当する機関に確認してください。
 
+確認した情報源（2026年11月6日）
+
+- [UK Government: Get a passport photo, Digital photos](https://www.gov.uk/photos-for-passports)
+- [Government of Canada: Passport photo requirements](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/photos.html)
+
 ## よくある質問
 
 ### スマートフォンでパスポート写真を撮影できますか

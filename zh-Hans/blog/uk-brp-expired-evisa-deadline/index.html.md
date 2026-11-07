@@ -68,6 +68,14 @@ GOV.UK表示，受抚养人需要自己的UKVI账户才能访问自己的eVisa�
 
 如果你已经更新了护照，就要先把新护照添加到账户里，才能用它出行。GOV.UK表示，你可以自己在账户上更新护照号码和到期日。如果是生物特征护照，你还可以自己更新姓名和国籍；其他变更则需要由UK Visas and Immigration为你处理。如果更新还在计划之中，我们关于[在护照到期前更新护照](https://traveldocumentvault.com/zh-Hans/blog/renew-passport-before-expiry/)的指南介绍了应该什么时候开始办理，而新护照一到手，就可以直接添加到账户里。
 
+我们核对过的资料来源（2026年11月6日）
+
+- [UK Government: eVisa, setting up a UKVI account](https://www.gov.uk/evisa/set-up-ukvi-account)
+- [UK Government: travelling with an eVisa](https://www.gov.uk/evisa/travel-with-evisa)
+- [UK Government: eVisa, what an eVisa is](https://www.gov.uk/evisa)
+- [UK Government: Biometric residence permits (BRPs)](https://www.gov.uk/biometric-residence-permits)
+- [UK Government: viewing your eVisa and getting a share code](https://www.gov.uk/evisa/view-evisa-get-share-code-prove-immigration-status)
+
 ## 常见问题
 
 ### 如果我的BRP已过期，还需要UKVI账户吗？

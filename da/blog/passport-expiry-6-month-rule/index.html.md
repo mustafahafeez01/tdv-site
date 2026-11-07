@@ -119,6 +119,17 @@ Disse kilder fortæller dig det officielle krav, og om det gælder for indehaver
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 
+Kilder vi har tjekket (6. november 2026)
+
+- [UK Foreign Office: USA entry requirements](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements)
+- [UK Foreign Office: France entry requirements](https://www.gov.uk/foreign-travel-advice/france/entry-requirements)
+- [UK Foreign Office: Australia entry requirements](https://www.gov.uk/foreign-travel-advice/australia/entry-requirements)
+- [UK Foreign Office: Japan entry requirements](https://www.gov.uk/foreign-travel-advice/japan/entry-requirements)
+- [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
+- [UK Foreign Office: Indonesia entry requirements](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements)
+- [UK Foreign Office: Turkey entry requirements](https://www.gov.uk/foreign-travel-advice/turkey/entry-requirements)
+- [UK Foreign Office: New Zealand entry requirements](https://www.gov.uk/foreign-travel-advice/new-zealand/entry-requirements)
+
 ## Ofte stillede spørgsmål
 
 ### Kan jeg rejse, hvis mit pas udløber om mindre end 6 måneder?

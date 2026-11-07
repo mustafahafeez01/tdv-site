@@ -93,6 +93,17 @@ Godkännande innebär att du är berättigad att resa under Visa Waiver Program,
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 
+Källor vi har kontrollerat (6 november 2026)
+
+- [US CBP: Visa Waiver Program and ESTA frequently asked questions](https://www.cbp.gov/travel/international-visitors/esta/frequently-asked-questions-about-visa-waiver-program-vwp-and-electronic-system-travel)
+- [US CBP: Electronic System for Travel Authorization (ESTA)](https://www.cbp.gov/travel/international-visitors/esta)
+- [US Federal Register: Notice of 1 October 2026](https://www.govinfo.gov/content/pkg/FR-2026-10-01/html/2026-20185.htm)
+- [US CBP: Visa Waiver Program](https://www.cbp.gov/travel/international-visitors/visa-waiver-program)
+- [US DHS: Visa Waiver Program](https://www.dhs.gov/visa-waiver-program)
+- [US CBP: CBP Reminds Travelers to Allow 72 Hours for ESTA](https://www.cbp.gov/newsroom/national-media-release/cbp-reminds-travelers-allow-72-hours-esta)
+- [US CBP: CBP Warns Against Third-Party Site Use for ESTA Applications](https://www.cbp.gov/newsroom/national-media-release/cbp-warns-against-third-party-site-use-esta-applications)
+- [US CBP: ESTA frequently asked questions](https://esta.cbp.dhs.gov/faq)
+
 ## Vanliga frågor
 
 ### Hur länge gäller ett ESTA?

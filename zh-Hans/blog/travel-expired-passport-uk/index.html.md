@@ -110,6 +110,17 @@ GOV.UK 对此很明确：您的护照必须在您旅行的那天有效——不�
 
 **在依据本文行动之前：**这是一个博客，不是官方来源。规则和细节会变化，你的情况也可能不同。我们会核对所发布的内容，但仍可能出错或过时。如果这里的内容对你的安排很重要，请在行动前向主管机构核实。
 
+我们核对过的资料来源（2026年11月6日）
+
+- [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)
+- [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
+- [UK Government: Travel urgently from abroad without your UK passport, Who can apply](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport)
+- [UK Government: Getting your first adult passport, Who can apply](https://www.gov.uk/apply-first-adult-passport)
+- [UK Government: Renew or replace your adult passport](https://www.gov.uk/renew-adult-passport)
+- [UK Foreign Office: Ireland entry requirements](https://www.gov.uk/foreign-travel-advice/ireland/entry-requirements)
+- [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
+- [EU travel: Entry/Exit System (EES)](https://travel-europe.europa.eu/en/ees)
+
 ## 常见问题
 
 ### 如果我有签证，可以用过期护照旅行吗？

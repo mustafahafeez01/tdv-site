@@ -109,6 +109,13 @@ Välj den enda handling på den här listan som ni ännu inte har säkerhetskopi
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 
+Källor vi har kontrollerat (6 november 2026)
+
+- [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
+- [UK Foreign Office: South Africa entry requirements](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements)
+- [European Commission: Applying for a Schengen visa](https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en)
+- [World Health Organization: Travel and health](https://www.who.int/health-topics/travel-and-health)
+
 ## Vanliga frågor
 
 ### Vilka resehandlingar glömmer folk oftast?

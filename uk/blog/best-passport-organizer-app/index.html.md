@@ -104,6 +104,11 @@ Source: https://traveldocumentvault.com/uk/blog/best-passport-organizer-app/
 
 **Перш ніж покладатися на це:** це блог, а не офіційне джерело. Правила та деталі змінюються, і ваша ситуація може бути іншою. Ми перевіряємо те, що публікуємо, і все одно можемо помилятися або застаріти. Якщо щось тут важливе для ваших планів, уточніть це у відповідальному органі, перш ніж діяти.
 
+Джерела, які ми перевірили (6 листопада 2026 р.)
+
+- [UK Foreign Office: Indonesia entry requirements](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements)
+- [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
+
 ## Часто задавані запитання
 
 ### Чи може один застосунок безпечно зберігати паспорти кількох членів родини?

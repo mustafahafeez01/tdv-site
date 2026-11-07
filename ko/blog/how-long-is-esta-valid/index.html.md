@@ -93,6 +93,17 @@ CBP에 따르면 나이와 관계없이 모든 아이가 각자 ESTA 승인을 �
 
 **이 내용에 의존하기 전에:** 이 글은 블로그이며 공식 출처가 아닙니다. 규정과 세부 사항은 바뀌며, 여러분의 상황은 다를 수 있습니다. 저희는 게시하는 내용을 확인하지만, 그래도 틀리거나 오래된 정보일 수 있습니다. 여기 담긴 내용이 여러분의 계획에 중요하다면, 행동하기 전에 해당 업무를 담당하는 기관에 직접 확인하세요.
 
+확인한 출처 (2026년 11월 6일)
+
+- [US CBP: Visa Waiver Program and ESTA frequently asked questions](https://www.cbp.gov/travel/international-visitors/esta/frequently-asked-questions-about-visa-waiver-program-vwp-and-electronic-system-travel)
+- [US CBP: Electronic System for Travel Authorization (ESTA)](https://www.cbp.gov/travel/international-visitors/esta)
+- [US Federal Register: Notice of 1 October 2026](https://www.govinfo.gov/content/pkg/FR-2026-10-01/html/2026-20185.htm)
+- [US CBP: Visa Waiver Program](https://www.cbp.gov/travel/international-visitors/visa-waiver-program)
+- [US DHS: Visa Waiver Program](https://www.dhs.gov/visa-waiver-program)
+- [US CBP: CBP Reminds Travelers to Allow 72 Hours for ESTA](https://www.cbp.gov/newsroom/national-media-release/cbp-reminds-travelers-allow-72-hours-esta)
+- [US CBP: CBP Warns Against Third-Party Site Use for ESTA Applications](https://www.cbp.gov/newsroom/national-media-release/cbp-warns-against-third-party-site-use-esta-applications)
+- [US CBP: ESTA frequently asked questions](https://esta.cbp.dhs.gov/faq)
+
 ## 자주 묻는 질문
 
 ### ESTA 유효기간은 얼마나 되나요?

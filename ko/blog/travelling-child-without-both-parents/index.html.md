@@ -84,6 +84,11 @@ Source: https://traveldocumentvault.com/ko/blog/travelling-child-without-both-pa
 
 **이 글에 의존하기 전에:** 이 글은 블로그이며 공식 자료가 아닙니다. 규정과 세부 사항은 바뀌고, 여러분의 상황은 다를 수 있습니다. 저희는 게시하는 내용을 확인하지만 그래도 틀리거나 오래된 정보일 수 있습니다. 여기 적힌 내용이 계획에 중요하다면, 움직이기 전에 담당 기관에 확인하시기 바랍니다.
 
+확인한 출처 (2026년 11월 6일)
+
+- [UK Government: Get permission to take a child abroad](https://www.gov.uk/permission-take-child-abroad)
+- [EU law: Directive 2001/51 on carrier responsibilities](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001L0051)
+
 ## 자주 묻는 질문
 
 ### 아이에 대한 단독 양육권이 있다면 동의서가 필요한가요?

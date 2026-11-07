@@ -110,6 +110,12 @@ Lo práctico para hoy es sacar tu pasaporte y comprobarlo con la regla de valide
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 
+Fuentes que hemos comprobado (6 de noviembre de 2026)
+
+- [EU travel: ETIAS](https://travel-europe.europa.eu/en/etias)
+- [EU travel: Entry/Exit System (EES)](https://travel-europe.europa.eu/en/ees)
+- [European Commission: The European travel authorisation ETIAS will cost EUR 20](https://home-affairs.ec.europa.eu/news/european-travel-authorisation-etias-will-cost-eur-20-2025-07-17_en)
+
 ## Preguntas Frecuentes
 
 ### ¿Cuándo se vuelve obligatorio ETIAS para viajar a Europa?

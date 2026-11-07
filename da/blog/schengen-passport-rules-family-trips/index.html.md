@@ -66,6 +66,16 @@ Intet af det her kræver en app. Et regneark hjælper de fleste familier fint, o
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 
+Kilder vi har tjekket (6. november 2026)
+
+- [UK Foreign Office: France entry requirements](https://www.gov.uk/foreign-travel-advice/france/entry-requirements)
+- [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
+- [EU travel: ETIAS](https://travel-europe.europa.eu/en/etias)
+- [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
+- [UK Foreign Office: Indonesia entry requirements](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements)
+- [UK Government: Getting your first adult passport, Who can apply](https://www.gov.uk/apply-first-adult-passport)
+- [UK Foreign Office: Ireland entry requirements](https://www.gov.uk/foreign-travel-advice/ireland/entry-requirements)
+
 ## Ofte stillede spørgsmål
 
 ### Hvad er forskellen på 6-månedersreglen og Schengens 3-månedersregel?

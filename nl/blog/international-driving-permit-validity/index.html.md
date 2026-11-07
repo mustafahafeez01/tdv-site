@@ -102,6 +102,13 @@ Pak vandaag je rijbewijs en, als je die hebt, je internationale rijbewijs, en le
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 
+Bronnen die we hebben gecontroleerd (6 november 2026)
+
+- [United Nations Treaty Collection: Convention on Road Traffic (1968)](https://treaties.un.org/doc/Treaties/1977/05/19770524%2000-13%20AM/Ch_XI_B_19.pdf)
+- [UK Government: driving abroad, international driving permits](https://www.gov.uk/driving-abroad/international-driving-permit)
+- [Government of Canada: International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
+- [UK Government: Driving abroad](https://www.gov.uk/driving-abroad)
+
 ## Veelgestelde vragen
 
 ### Heb ik een internationaal rijbewijs nodig?

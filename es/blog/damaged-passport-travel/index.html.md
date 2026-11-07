@@ -91,6 +91,11 @@ Escanea tu pasaporte hoy, antes de necesitarlo.
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 
+Fuentes que hemos comprobado (6 de noviembre de 2026)
+
+- [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
+- [UK legislation: Immigration and Asylum Act 1999, section 40](https://www.legislation.gov.uk/ukpga/1999/33/section/40)
+
 ## Preguntas Frecuentes
 
 ### ¿Qué se considera un pasaporte dañado?

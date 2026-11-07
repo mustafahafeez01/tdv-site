@@ -85,6 +85,13 @@ Yang membantu adalah satu tempat untuk kedua dokumen, yang menyimpan masing-masi
 
 Mulailah hari ini: ambil kartu ID Anda, periksa tanggal kedaluwarsanya, dan amati apakah ada retak, pudar, atau plastik yang melengkung. Kalau kondisinya mendekati batas, ajukan perpanjangan sebelum Anda memesan perjalanan.
 
+Sumber yang kami periksa (6 November 2026)
+
+- [Your Europe (EU): Travel documents for EU nationals](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm)
+- [EU law: Regulation 2019/1157 on identity cards](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1157)
+- [UK Government: Visiting the UK as an EU, EEA or Swiss citizen](https://www.gov.uk/guidance/visiting-the-uk-as-an-eu-eea-or-swiss-citizen)
+- [UK Foreign Office: Spain entry requirements](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements)
+
 ## Pertanyaan yang Sering Diajukan
 
 ### Apa itu kartu identitas nasional EEA?

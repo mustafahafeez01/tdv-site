@@ -86,6 +86,10 @@ Se ainda não montou isto, comece hoje: digitalize a página da fotografia de ca
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 
+Fontes que verificámos (6 de novembro de 2026)
+
+- [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
+
 ## Perguntas Frequentes
 
 ### Qual é a melhor forma de guardar múltiplos passaportes familiares?

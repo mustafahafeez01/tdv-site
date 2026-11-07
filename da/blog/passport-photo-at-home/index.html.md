@@ -128,6 +128,11 @@ Har du ordentligt vinduslys og et par minutter til overs, så tag billedet selv 
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 
+Kilder vi har tjekket (6. november 2026)
+
+- [UK Government: Get a passport photo, Digital photos](https://www.gov.uk/photos-for-passports)
+- [Government of Canada: Passport photo requirements](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/photos.html)
+
 ## Ofte stillede spørgsmål
 
 ### Kan jeg tage et pasfoto med min mobil?

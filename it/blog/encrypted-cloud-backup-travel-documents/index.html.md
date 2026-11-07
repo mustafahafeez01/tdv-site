@@ -108,6 +108,10 @@ Niente di tutto questo è drammatico, ed è proprio questo il punto. Le famiglie
 
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 
+Fonti che abbiamo verificato (6 novembre 2026)
+
+- [NIST: end-to-end encryption glossary entry](https://csrc.nist.gov/glossary/term/end_to_end_encryption)
+
 ## Domande Frequenti
 
 ### Cosa significa davvero un backup crittografato?

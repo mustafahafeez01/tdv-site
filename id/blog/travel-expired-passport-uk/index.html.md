@@ -110,6 +110,17 @@ Cara paling sederhana untuk menghindari semua ini: keluarkan paspor Anda hari in
 
 **Sebelum Anda mengandalkan ini:** ini adalah blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 
+Sumber yang kami periksa (6 November 2026)
+
+- [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)
+- [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
+- [UK Government: Travel urgently from abroad without your UK passport, Who can apply](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport)
+- [UK Government: Getting your first adult passport, Who can apply](https://www.gov.uk/apply-first-adult-passport)
+- [UK Government: Renew or replace your adult passport](https://www.gov.uk/renew-adult-passport)
+- [UK Foreign Office: Ireland entry requirements](https://www.gov.uk/foreign-travel-advice/ireland/entry-requirements)
+- [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
+- [EU travel: Entry/Exit System (EES)](https://travel-europe.europa.eu/en/ees)
+
 ## Pertanyaan yang Sering Diajukan
 
 ### Bisakah saya bepergian dengan paspor yang kedaluwarsa jika saya memiliki visa?

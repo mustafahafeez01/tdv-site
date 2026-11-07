@@ -83,6 +83,12 @@ Jika Anda juga membaca panduan kami tentang [berapa lama perpanjangan paspor ber
 
 **Sebelum Anda mengandalkan ini:** ini adalah blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 
+Sumber yang kami periksa (6 November 2026)
+
+- [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
+- [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
+- [UK Government: Renew or replace your adult passport](https://www.gov.uk/renew-adult-passport)
+
 ## Pertanyaan yang Sering Diajukan
 
 ### Berapa lama paspor Inggris (UK) berlaku?

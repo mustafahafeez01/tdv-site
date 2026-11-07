@@ -110,6 +110,13 @@ Gör det här för varje pass i ditt hushåll separat. Barns pass går ut snabba
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 
+Källor vi har kontrollerat (6 november 2026)
+
+- [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
+- [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)
+- [Government of Canada: Renew a passport online](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport/submit-form-fees/renew-online.html)
+- [Government of Canada: Renew an adult passport](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html)
+
 ## Vanliga frågor
 
 ### Kan jag resa med ett utgånget pass?

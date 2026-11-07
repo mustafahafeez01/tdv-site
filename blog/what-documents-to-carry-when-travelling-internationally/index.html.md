@@ -109,6 +109,13 @@ Pick the one document from this list you haven't backed up yet, whether that's y
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
+Sources we checked (6 November 2026)
+
+- [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
+- [UK Foreign Office: South Africa entry requirements](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements)
+- [European Commission: Applying for a Schengen visa](https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en)
+- [World Health Organization: Travel and health](https://www.who.int/health-topics/travel-and-health)
+
 ## Frequently Asked Questions
 
 ### What travel documents do most people forget?

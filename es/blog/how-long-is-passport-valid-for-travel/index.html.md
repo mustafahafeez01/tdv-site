@@ -83,6 +83,12 @@ Si también lees nuestra guía sobre [cuánto tiempo toma la renovación del pas
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 
+Fuentes que hemos comprobado (6 de noviembre de 2026)
+
+- [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
+- [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
+- [UK Government: Renew or replace your adult passport](https://www.gov.uk/renew-adult-passport)
+
 ## Preguntas Frecuentes
 
 ### ¿Cuánto tiempo es válido un pasaporte del Reino Unido?

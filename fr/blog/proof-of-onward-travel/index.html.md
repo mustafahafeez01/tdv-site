@@ -70,6 +70,13 @@ Une réservation que vous ne pouvez pas ouvrir ne vaut pas mieux que pas de rés
 
 Gardez une copie hors ligne de la confirmation : un PDF, une capture d'écran montrant la référence et les dates, ou une copie dans une application qui fonctionne sans connexion. Travel Document Vault conserve les billets d'avion et réservations d'hôtel sur votre appareil, chiffrés et disponibles hors ligne. La confirmation est là au comptoir, avec ou sans réseau. Notre [liste de contrôle des documents de voyage](https://traveldocumentvault.com/fr/blog/travel-document-checklist/) couvre le reste de ce qu'il vaut la peine d'avoir prêt.
 
+Sources vérifiées (6 novembre 2026)
+
+- [EU law: Schengen Borders Code (Regulation 2016/399)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0399)
+- [Immigration New Zealand: Visa Waiver Visitor Visa](https://www.immigration.govt.nz/visas/visa-waiver-visitor-visa/)
+- [Immigration New Zealand: Visitor Visa](https://www.immigration.govt.nz/visas/visitor-visa/)
+- [Immigration New Zealand: Onward travel requirements](https://www.immigration.govt.nz/opsmanual/50548.htm)
+
 ## Questions fréquemment posées
 
 ### Quelle preuve de continuation de voyage une compagnie aérienne accepte-t-elle réellement ?

@@ -119,6 +119,14 @@ Source: https://traveldocumentvault.com/uk/blog/visa-vs-passport/
 
 **Перш ніж покладатися на це:** це блог, а не офіційне джерело. Правила та деталі змінюються, і ваша ситуація може бути іншою. Ми перевіряємо те, що публікуємо, і все одно можемо помилятися або застаріти. Якщо щось тут важливе для ваших планів, уточніть це у відповідальному органі, перш ніж діяти.
 
+Джерела, які ми перевірили (6 листопада 2026 р.)
+
+- [European Commission: Schengen area](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en)
+- [European Commission: Short-stay calculator](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en)
+- [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
+- [UK Government: Visa to pass through the UK in transit](https://www.gov.uk/transit-visa)
+- [US CBP: Western Hemisphere Travel Initiative](https://www.cbp.gov/travel/us-citizens/western-hemisphere-travel-initiative)
+
 ## Часто задавані запитання
 
 ### У чому різниця між візою та паспортом

@@ -104,6 +104,11 @@ Source: https://traveldocumentvault.com/ko/blog/best-passport-organizer-app/
 
 **이 글에 의존하기 전에:** 이 글은 블로그이며 공식 자료가 아닙니다. 규정과 세부 사항은 바뀌고, 여러분의 상황은 다를 수 있습니다. 저희는 게시하는 내용을 확인하지만 그래도 틀리거나 오래된 정보일 수 있습니다. 여기 적힌 내용이 계획에 중요하다면, 움직이기 전에 담당 기관에 확인하시기 바랍니다.
 
+확인한 출처 (2026년 11월 6일)
+
+- [UK Foreign Office: Indonesia entry requirements](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements)
+- [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
+
 ## 자주 묻는 질문
 
 ### 한 앱이 여러 가족 구성원의 여권을 안전하게 보관할 수 있습니까?

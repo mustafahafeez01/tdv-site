@@ -93,6 +93,17 @@ Goedkeuring betekent dat je in aanmerking komt om te reizen onder het Visa Waive
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 
+Bronnen die we hebben gecontroleerd (6 november 2026)
+
+- [US CBP: Visa Waiver Program and ESTA frequently asked questions](https://www.cbp.gov/travel/international-visitors/esta/frequently-asked-questions-about-visa-waiver-program-vwp-and-electronic-system-travel)
+- [US CBP: Electronic System for Travel Authorization (ESTA)](https://www.cbp.gov/travel/international-visitors/esta)
+- [US Federal Register: Notice of 1 October 2026](https://www.govinfo.gov/content/pkg/FR-2026-10-01/html/2026-20185.htm)
+- [US CBP: Visa Waiver Program](https://www.cbp.gov/travel/international-visitors/visa-waiver-program)
+- [US DHS: Visa Waiver Program](https://www.dhs.gov/visa-waiver-program)
+- [US CBP: CBP Reminds Travelers to Allow 72 Hours for ESTA](https://www.cbp.gov/newsroom/national-media-release/cbp-reminds-travelers-allow-72-hours-esta)
+- [US CBP: CBP Warns Against Third-Party Site Use for ESTA Applications](https://www.cbp.gov/newsroom/national-media-release/cbp-warns-against-third-party-site-use-esta-applications)
+- [US CBP: ESTA frequently asked questions](https://esta.cbp.dhs.gov/faq)
+
 ## Veelgestelde vragen
 
 ### Hoe lang is een ESTA geldig?

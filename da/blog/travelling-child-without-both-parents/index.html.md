@@ -84,6 +84,11 @@ Vores bredere [tjekliste til rejsedokumenter](https://traveldocumentvault.com/da
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du handler.
 
+Kilder vi har tjekket (6. november 2026)
+
+- [UK Government: Get permission to take a child abroad](https://www.gov.uk/permission-take-child-abroad)
+- [EU law: Directive 2001/51 on carrier responsibilities](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001L0051)
+
 ## Ofte stillede spørgsmål
 
 ### Har jeg brug for et samtykkebrev, hvis jeg har eneforældremyndighed over mit barn?

@@ -89,6 +89,11 @@ Source: https://traveldocumentvault.com/ru/blog/damaged-passport-travel/
 
 **Прежде чем полагаться на это:** это блог, а не официальный источник. Правила и детали меняются, и ваша ситуация может отличаться. Мы проверяем то, что публикуем, и всё равно можем ошибиться или устареть. Если что-то здесь важно для ваших планов, уточните это в ответственном ведомстве, прежде чем действовать.
 
+Источники, которые мы проверили (6 ноября 2026 г.)
+
+- [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
+- [UK legislation: Immigration and Asylum Act 1999, section 40](https://www.legislation.gov.uk/ukpga/1999/33/section/40)
+
 ## Часто задаваемые вопросы
 
 ### Что считается повреждённым паспортом?

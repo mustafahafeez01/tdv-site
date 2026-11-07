@@ -69,6 +69,10 @@ Met meer dan één kind lopen de data uit elkaar. Paspoorten die een paar jaar n
 
 Vroeg beginnen maakt het verschil. Wij zouden ongeveer negen maanden voor de vervaldatum van het paspoort van een kind beginnen: genoeg tijd om een afspraak te vinden die voor beide ouders werkt, een notariële verklaring te laten ondertekenen, en nog tijd te hebben als iets opnieuw moet. Onze gids over [wanneer je een paspoort verlengt voordat het verloopt](https://traveldocumentvault.com/nl/blog/renew-passport-before-expiry/) gaat dieper in op de timing.
 
+Bronnen die we hebben gecontroleerd (6 november 2026)
+
+- [US eCFR: 22 CFR Part 51 (passports)](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-F/part-51)
+
 ## Veelgestelde vragen
 
 ### Kun je het paspoort van een kind verlengen als het vóór zijn 16e is afgegeven?

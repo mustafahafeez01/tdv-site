@@ -85,6 +85,13 @@ Source: https://traveldocumentvault.com/th/blog/national-id-card-travel-europe/
 
 เริ่มวันนี้เลย หยิบบัตรประชาชนออกมา ดูวันหมดอายุ และตรวจดูว่ามีรอยแตก สีซีดจาง หรือพลาสติกบิดเบี้ยวหรือไม่ ถ้าอยู่ในเกณฑ์กึ่งเสี่ยง ให้ยื่นต่ออายุก่อนจะจองทริป
 
+แหล่งข้อมูลที่เราตรวจสอบ (6 พฤศจิกายน 2026)
+
+- [Your Europe (EU): Travel documents for EU nationals](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm)
+- [EU law: Regulation 2019/1157 on identity cards](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1157)
+- [UK Government: Visiting the UK as an EU, EEA or Swiss citizen](https://www.gov.uk/guidance/visiting-the-uk-as-an-eu-eea-or-swiss-citizen)
+- [UK Foreign Office: Spain entry requirements](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements)
+
 ## คำถามที่พบบ่อย
 
 ### บัตรประชาชน EEA คืออะไร

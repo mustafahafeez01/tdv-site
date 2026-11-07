@@ -102,6 +102,13 @@ Oggi stesso prendi la patente e il permesso, se ne hai uno, e metti una accanto 
 
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 
+Fonti che abbiamo verificato (6 novembre 2026)
+
+- [United Nations Treaty Collection: Convention on Road Traffic (1968)](https://treaties.un.org/doc/Treaties/1977/05/19770524%2000-13%20AM/Ch_XI_B_19.pdf)
+- [UK Government: driving abroad, international driving permits](https://www.gov.uk/driving-abroad/international-driving-permit)
+- [Government of Canada: International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
+- [UK Government: Driving abroad](https://www.gov.uk/driving-abroad)
+
 ## Domande Frequenti
 
 ### Mi serve una patente di guida internazionale?

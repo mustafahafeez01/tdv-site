@@ -93,6 +93,13 @@ ETA ของสหราชอาณาจักรเป็นหนึ่ง�
 
 หากคุณจองทริปไว้แล้ว ให้ทำเรื่องนี้วันนี้เลย คือตรวจวันหมดอายุของพาสปอร์ตเทียบกับวันเดินทางของคุณ และยืนยันว่า ETA ปัจจุบันผูกกับพาสปอร์ตเล่มที่คุณจะใช้เดินทางจริง หากอย่างใดอย่างหนึ่งไม่ผ่าน ให้เริ่มต่ออายุหรือสมัครใหม่ตั้งแต่ตอนนี้ ไม่ใช่รอจนสัปดาห์ก่อนบิน
 
+แหล่งข้อมูลที่เราตรวจสอบ (6 พฤศจิกายน 2026)
+
+- [UK Government: Get an electronic travel authorisation (ETA) to visit the UK](https://www.gov.uk/eta)
+- [UK Government: Check your electronic travel authorisation (ETA)](https://www.gov.uk/check-eta)
+- [UK Government: No permission, no travel, UK set to enforce ETA scheme](https://www.gov.uk/government/news/no-permission-no-travel-uk-set-to-enforce-eta-scheme)
+- [EU travel: ETIAS](https://travel-europe.europa.eu/en/etias)
+
 ## คำถามที่พบบ่อย
 
 ### ETA ของสหราชอาณาจักรคืออะไร

@@ -82,6 +82,11 @@ Our broader [travel document checklist](https://traveldocumentvault.com/blog/tra
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
+Sources we checked (6 November 2026)
+
+- [UK Government: Get permission to take a child abroad](https://www.gov.uk/permission-take-child-abroad)
+- [EU law: Directive 2001/51 on carrier responsibilities](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001L0051)
+
 ## Frequently Asked Questions
 
 ### Do I need a consent letter if I have sole custody of my child?

@@ -110,6 +110,12 @@ ETIAS承認は、パスポート、旅行保険、または[パスポート有�
 
 **この記事に頼る前に:** これはブログであり、公式な情報源ではありません。ルールや細かい条件は変わりますし、あなたの状況は違うかもしれません。掲載内容は確認していますが、それでも誤りや古い情報が含まれる可能性があります。ここに書かれていることがご自身の予定に関わるなら、行動に移す前に担当する機関に確認してください。
 
+確認した情報源（2026年11月6日）
+
+- [EU travel: ETIAS](https://travel-europe.europa.eu/en/etias)
+- [EU travel: Entry/Exit System (EES)](https://travel-europe.europa.eu/en/ees)
+- [European Commission: The European travel authorisation ETIAS will cost EUR 20](https://home-affairs.ec.europa.eu/news/european-travel-authorisation-etias-will-cost-eur-20-2025-07-17_en)
+
 ## よくある質問
 
 ### ETIASがヨーロッパ旅行で必須になるのはいつですか

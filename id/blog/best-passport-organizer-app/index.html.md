@@ -104,6 +104,11 @@ Buka aplikasi yang benar-benar sedang Anda pertimbangkan dan cocokkan dengan daf
 
 **Sebelum Anda mengandalkan ini:** ini adalah blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 
+Sumber yang kami periksa (6 November 2026)
+
+- [UK Foreign Office: Indonesia entry requirements](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements)
+- [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
+
 ## Pertanyaan yang Sering Diajukan
 
 ### Bisakah satu aplikasi menyimpan paspor beberapa anggota keluarga dengan aman?

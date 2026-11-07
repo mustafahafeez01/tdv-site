@@ -125,6 +125,11 @@ HM Passport Officeが英国のパスポート更新を処理しており、現�
 
 **この記事に頼る前に:** これはブログであり、公式な情報源ではありません。ルールや細かい条件は変わりますし、あなたの状況は違うかもしれません。掲載内容は確認していますが、それでも誤りや古い情報が含まれる可能性があります。ここに書かれていることがご自身の予定に関わるなら、行動に移す前に担当する機関に確認してください。
 
+確認した情報源（2026年11月6日）
+
+- [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
+- [Government of Canada: Renew an adult passport](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html)
+
 ## よくある質問
 
 ### 米国でのパスポート更新にかかる期間は。

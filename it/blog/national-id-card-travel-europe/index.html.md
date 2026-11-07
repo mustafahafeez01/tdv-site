@@ -83,6 +83,13 @@ Ciò che aiuta davvero è avere un unico posto per entrambi i documenti, che con
 
 Comincia oggi: prendi la tua carta d'identità, controlla la data di scadenza ed esaminala per vedere se ci sono crepe, sbiadimenti o plastica deformata. Se è al limite, prenota il rinnovo prima di prenotare il viaggio.
 
+Fonti che abbiamo verificato (6 novembre 2026)
+
+- [Your Europe (EU): Travel documents for EU nationals](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm)
+- [EU law: Regulation 2019/1157 on identity cards](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1157)
+- [UK Government: Visiting the UK as an EU, EEA or Swiss citizen](https://www.gov.uk/guidance/visiting-the-uk-as-an-eu-eea-or-swiss-citizen)
+- [UK Foreign Office: Spain entry requirements](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements)
+
 ## Domande frequenti
 
 ### Cos'è una carta d'identità nazionale SEE?

@@ -128,6 +128,12 @@ Se ainda não o fez, escolha o único local onde os passaportes vão ficar e def
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 
+Fontes que verificámos (6 de novembro de 2026)
+
+- [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
+- [UK Foreign Office: Mexico entry requirements](https://www.gov.uk/foreign-travel-advice/mexico/entry-requirements)
+- [Your Europe (EU): Health cover for temporary stays in another EU country](https://europa.eu/youreurope/citizens/health/unplanned-healthcare/temporary-stays/index_en.htm)
+
 ## Perguntas Frequentemente Colocadas
 
 ### Que documentos preciso organizar para viagem em família?

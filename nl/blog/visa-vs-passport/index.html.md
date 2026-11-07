@@ -119,6 +119,14 @@ Visumvrije toegang hangt ook volledig af van je nationaliteit. Twee mensen die s
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 
+Bronnen die we hebben gecontroleerd (6 november 2026)
+
+- [European Commission: Schengen area](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en)
+- [European Commission: Short-stay calculator](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en)
+- [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
+- [UK Government: Visa to pass through the UK in transit](https://www.gov.uk/transit-visa)
+- [US CBP: Western Hemisphere Travel Initiative](https://www.cbp.gov/travel/us-citizens/western-hemisphere-travel-initiative)
+
 ## Veelgestelde vragen
 
 ### Wat is het verschil tussen een visum en een paspoort?

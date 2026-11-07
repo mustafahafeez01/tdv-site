@@ -110,6 +110,13 @@ GOV.UK зазначає, що поновити паспорт потрібно �
 
 **Перш ніж покладатися на це:** це блог, а не офіційне джерело. Правила та деталі змінюються, і ваша ситуація може бути іншою. Ми перевіряємо те, що публікуємо, і все одно можемо помилятися або застаріти. Якщо щось тут важливе для ваших планів, уточніть це у відповідальному органі, перш ніж діяти.
 
+Джерела, які ми перевірили (6 листопада 2026 р.)
+
+- [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
+- [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)
+- [Government of Canada: Renew a passport online](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport/submit-form-fees/renew-online.html)
+- [Government of Canada: Renew an adult passport](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html)
+
 ## Часто задавані запитання
 
 ### Чи можна подорожувати з простроченим паспортом?

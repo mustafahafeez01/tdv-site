@@ -66,6 +66,16 @@ Nulla di questo ha bisogno di un'app. Un foglio di calcolo aiuta molte famiglie,
 
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 
+Fonti che abbiamo verificato (6 novembre 2026)
+
+- [UK Foreign Office: France entry requirements](https://www.gov.uk/foreign-travel-advice/france/entry-requirements)
+- [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
+- [EU travel: ETIAS](https://travel-europe.europa.eu/en/etias)
+- [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
+- [UK Foreign Office: Indonesia entry requirements](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements)
+- [UK Government: Getting your first adult passport, Who can apply](https://www.gov.uk/apply-first-adult-passport)
+- [UK Foreign Office: Ireland entry requirements](https://www.gov.uk/foreign-travel-advice/ireland/entry-requirements)
+
 ## Domande frequenti
 
 ### Qual è la differenza tra la regola dei 6 mesi e la regola Schengen dei 3 mesi?

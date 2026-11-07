@@ -86,6 +86,10 @@ Se non l'hai ancora impostato, comincia oggi: scansiona la pagina con la foto di
 
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 
+Fonti che abbiamo verificato (6 novembre 2026)
+
+- [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
+
 ## Domande Frequenti
 
 ### Qual è il modo migliore per conservare i passaporti di una famiglia?

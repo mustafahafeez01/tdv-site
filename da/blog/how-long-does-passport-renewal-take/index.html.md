@@ -82,6 +82,11 @@ Tag dit eget pas frem i dag, og tjek, hvor mange måneder det reelt har tilbage 
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 
+Kilder vi har tjekket (6. november 2026)
+
+- [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
+- [Government of Canada: Renew an adult passport](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html)
+
 ## Ofte stillede spørgsmål
 
 ### Hvor lang tid tager en pasfornyelse i USA?

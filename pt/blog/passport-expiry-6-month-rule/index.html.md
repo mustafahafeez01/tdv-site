@@ -121,6 +121,17 @@ Estas fontes dizem-lhe o requisito oficial e se se aplica aos titulares do seu p
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 
+Fontes que verificámos (6 de novembro de 2026)
+
+- [UK Foreign Office: USA entry requirements](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements)
+- [UK Foreign Office: France entry requirements](https://www.gov.uk/foreign-travel-advice/france/entry-requirements)
+- [UK Foreign Office: Australia entry requirements](https://www.gov.uk/foreign-travel-advice/australia/entry-requirements)
+- [UK Foreign Office: Japan entry requirements](https://www.gov.uk/foreign-travel-advice/japan/entry-requirements)
+- [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
+- [UK Foreign Office: Indonesia entry requirements](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements)
+- [UK Foreign Office: Turkey entry requirements](https://www.gov.uk/foreign-travel-advice/turkey/entry-requirements)
+- [UK Foreign Office: New Zealand entry requirements](https://www.gov.uk/foreign-travel-advice/new-zealand/entry-requirements)
+
 ## Perguntas Frequentes
 
 ### Posso viajar se o meu passaporte expira em menos de 6 meses?

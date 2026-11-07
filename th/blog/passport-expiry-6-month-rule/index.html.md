@@ -119,6 +119,17 @@ Source: https://traveldocumentvault.com/th/blog/passport-expiry-6-month-rule/
 
 **ก่อนจะเชื่อตามบทความนี้:** นี่คือบล็อก ไม่ใช่แหล่งข้อมูลทางการ กฎและรายละเอียดเปลี่ยนแปลงได้ และสถานการณ์ของคุณอาจต่างออกไป เราตรวจสอบสิ่งที่เผยแพร่ แต่ก็ยังอาจผิดพลาดหรือล้าสมัยได้ หากเรื่องใดในนี้สำคัญต่อแผนของคุณ โปรดยืนยันกับหน่วยงานที่รับผิดชอบก่อนลงมือ
 
+แหล่งข้อมูลที่เราตรวจสอบ (6 พฤศจิกายน 2026)
+
+- [UK Foreign Office: USA entry requirements](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements)
+- [UK Foreign Office: France entry requirements](https://www.gov.uk/foreign-travel-advice/france/entry-requirements)
+- [UK Foreign Office: Australia entry requirements](https://www.gov.uk/foreign-travel-advice/australia/entry-requirements)
+- [UK Foreign Office: Japan entry requirements](https://www.gov.uk/foreign-travel-advice/japan/entry-requirements)
+- [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
+- [UK Foreign Office: Indonesia entry requirements](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements)
+- [UK Foreign Office: Turkey entry requirements](https://www.gov.uk/foreign-travel-advice/turkey/entry-requirements)
+- [UK Foreign Office: New Zealand entry requirements](https://www.gov.uk/foreign-travel-advice/new-zealand/entry-requirements)
+
 ## คำถามที่พบบ่อย
 
 ### เดินทางได้ไหมถ้าพาสปอร์ตของฉันเหลืออายุน้อยกว่า 6 เดือน

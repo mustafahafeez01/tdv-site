@@ -94,6 +94,14 @@ Service Canadaは現在の処理基準を公表しており、対面申請、郵
 
 **この記事に頼る前に:** これはブログであり、公式な情報源ではありません。ルールや細かい条件は変わりますし、あなたの状況は違うかもしれません。掲載内容は確認していますが、それでも誤りや古い情報が含まれる可能性があります。ここに書かれていることがご自身の予定に関わるなら、行動に移す前に担当する機関に確認してください。
 
+確認した情報源（2026年11月6日）
+
+- [USAGov: Renew an adult passport](https://www.usa.gov/renew-adult-passport)
+- [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)
+- [UK Government: Renew or replace your adult passport](https://www.gov.uk/renew-adult-passport)
+- [US TSA: Acceptable identification at the checkpoint](https://www.tsa.gov/travel/security-screening/identification)
+- [Government of Canada: Renew an adult passport](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html)
+
 ## よくある質問
 
 ### パスポート更新中に国内旅行できますか

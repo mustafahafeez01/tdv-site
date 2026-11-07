@@ -125,6 +125,11 @@ Heb je goed daglicht bij een raam en een paar minuten over, maak de foto dan van
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 
+Bronnen die we hebben gecontroleerd (6 november 2026)
+
+- [UK Government: Get a passport photo, Digital photos](https://www.gov.uk/photos-for-passports)
+- [Government of Canada: Passport photo requirements](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/photos.html)
+
 ## Veelgestelde vragen
 
 ### Kan ik een paspoortfoto met mijn smartphone maken?

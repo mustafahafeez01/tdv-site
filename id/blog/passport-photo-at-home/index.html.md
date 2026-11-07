@@ -125,6 +125,11 @@ Kalau Anda punya cahaya jendela yang cukup baik dan beberapa menit luang, ambil 
 
 **Sebelum Anda mengandalkan ini:** ini adalah blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 
+Sumber yang kami periksa (6 November 2026)
+
+- [UK Government: Get a passport photo, Digital photos](https://www.gov.uk/photos-for-passports)
+- [Government of Canada: Passport photo requirements](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/photos.html)
+
 ## Pertanyaan yang Sering Diajukan
 
 ### Bisakah saya mengambil foto paspor dengan ponsel pintar?

@@ -118,6 +118,10 @@ Mustafa
 
 창립자, Travel Document Vault
 
+확인한 출처 (2026년 11월 6일)
+
+- [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
+
 ## 관련 글
 
 [여권 규정7분 읽기 · 2026년 2월 1일여권 6개월 규정: 어떤 나라가 시행하는가](https://traveldocumentvault.com/ko/blog/passport-expiry-6-month-rule/)

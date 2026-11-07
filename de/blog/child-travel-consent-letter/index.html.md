@@ -126,6 +126,13 @@ Gehen Sie diese Liste zu Hause durch und nicht erst am Check-in-Schalter, denn e
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 
+Quellen, die wir geprüft haben (6. November 2026)
+
+- [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
+- [NZ SafeTravel: Travelling with children](https://www.safetravel.govt.nz/before-you-go/who-is-travelling/travelling-with-children)
+- [South African Government: Media briefing on travelling with children](https://www.gov.za/news/speeches/director-general-mkuseli-apleni-media-briefing-new-requirements-travelling-children)
+- [Government of Canada: Travel documents for children](https://travel.gc.ca/travelling/children/documents)
+
 ## Häufig gestellte Fragen
 
 ### Benötige ich einen Reisezustimmungsbrief für mein Kind?

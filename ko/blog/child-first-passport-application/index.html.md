@@ -94,6 +94,14 @@ Source: https://traveldocumentvault.com/ko/blog/child-first-passport-application
 
 오류를 발견하면 즉시 여권 발급 기관에 연락하세요. 무료 정정 여부는 누구의 실수인지에 따라 달라지며, 미룰수록 해결하기 어려워집니다. 모든 것이 이상 없다면 여권을 바로 서류 보관함에 넣고 만료일을 메모해 두세요. 그러면 갱신 시기가 갑자기 닥치지 않습니다.
 
+확인한 출처 (2026년 11월 6일)
+
+- [UK Government: Get a passport photo, Digital photos](https://www.gov.uk/photos-for-passports)
+- [UK Government: applying for a first child passport](https://www.gov.uk/get-a-child-passport/first-child-passport)
+- [UK Government: countersigning passport applications and photos](https://www.gov.uk/countersigning-passport-applications)
+- [UK Government: How to correct errors on passports](https://www.gov.uk/government/publications/preventing-and-resolving-errors-on-passports/how-to-correct-errors-on-passports-accessible)
+- [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
+
 ## 자주 묻는 질문
 
 ### 자녀의 여권 신청에는 누구의 동의가 필요합니까?

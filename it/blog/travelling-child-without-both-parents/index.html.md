@@ -84,6 +84,11 @@ La nostra [checklist dei documenti di viaggio](https://traveldocumentvault.com/i
 
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 
+Fonti che abbiamo verificato (6 novembre 2026)
+
+- [UK Government: Get permission to take a child abroad](https://www.gov.uk/permission-take-child-abroad)
+- [EU law: Directive 2001/51 on carrier responsibilities](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001L0051)
+
 ## Domande Frequenti
 
 ### Ho bisogno di una lettera di consenso se ho la custodia esclusiva di mio figlio?

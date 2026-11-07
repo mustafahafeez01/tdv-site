@@ -68,6 +68,14 @@ GOV.UK พูดตรงๆ ในเรื่องนี้ คุณต้�
 
 ถ้าคุณต่ออายุพาสปอร์ตแล้ว เล่มใหม่ต้องถูกเพิ่มเข้าบัญชีก่อนที่คุณจะใช้เดินทาง และ GOV.UK ระบุว่าคุณสามารถอัปเดตหมายเลขพาสปอร์ตและวันหมดอายุในบัญชีได้ด้วยตัวเอง หากเป็นพาสปอร์ตแบบไบโอเมตริก คุณยังอัปเดตชื่อและสัญชาติได้เองด้วย ส่วนการเปลี่ยนแปลงอื่นต้องให้ UK Visas and Immigration ทำให้ ถ้าคุณยังไม่ได้ต่ออายุ บทความของเราเรื่อง[ต่ออายุพาสปอร์ตก่อนหมดอายุ](https://traveldocumentvault.com/th/blog/renew-passport-before-expiry/)พูดถึงช่วงเวลาที่ควรเริ่มดำเนินการ และพาสปอร์ตเล่มใหม่สามารถเพิ่มเข้าบัญชีได้ทันทีที่ได้รับ
 
+แหล่งข้อมูลที่เราตรวจสอบ (6 พฤศจิกายน 2026)
+
+- [UK Government: eVisa, setting up a UKVI account](https://www.gov.uk/evisa/set-up-ukvi-account)
+- [UK Government: travelling with an eVisa](https://www.gov.uk/evisa/travel-with-evisa)
+- [UK Government: eVisa, what an eVisa is](https://www.gov.uk/evisa)
+- [UK Government: Biometric residence permits (BRPs)](https://www.gov.uk/biometric-residence-permits)
+- [UK Government: viewing your eVisa and getting a share code](https://www.gov.uk/evisa/view-evisa-get-share-code-prove-immigration-status)
+
 ## คำถามที่พบบ่อย
 
 ### ถ้า BRP หมดอายุ ต้องมีบัญชี UKVI หรือไม่

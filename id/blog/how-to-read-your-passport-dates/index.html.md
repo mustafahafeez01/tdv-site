@@ -96,6 +96,10 @@ Luangkan lima menit hari ini untuk menemukan kedua tanggal itu di paspor Anda se
 
 **Sebelum Anda mengandalkan ini:** ini blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 
+Sumber yang kami periksa (6 November 2026)
+
+- [UK Foreign Office: Spain entry requirements](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements)
+
 ## Pertanyaan yang Sering Diajukan
 
 ### Apa Arti 'Date of Expedition' pada Paspor?

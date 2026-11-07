@@ -125,6 +125,13 @@ Source: https://traveldocumentvault.com/ru/blog/child-travel-consent-letter/
 
 **Прежде чем полагаться на это:** это блог, а не официальный источник. Правила и детали меняются, и ваша ситуация может отличаться. Мы проверяем то, что публикуем, и всё равно можем ошибиться или устареть. Если что-то здесь важно для ваших планов, уточните это в ответственном ведомстве, прежде чем действовать.
 
+Источники, которые мы проверили (6 ноября 2026 г.)
+
+- [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
+- [NZ SafeTravel: Travelling with children](https://www.safetravel.govt.nz/before-you-go/who-is-travelling/travelling-with-children)
+- [South African Government: Media briefing on travelling with children](https://www.gov.za/news/speeches/director-general-mkuseli-apleni-media-briefing-new-requirements-travelling-children)
+- [Government of Canada: Travel documents for children](https://travel.gc.ca/travelling/children/documents)
+
 ## Часто задаваемые вопросы
 
 ### Нужно ли согласие на выезд ребёнка?

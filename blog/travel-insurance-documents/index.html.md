@@ -146,6 +146,10 @@ Twenty minutes now, and you won't be searching for any of it in a crisis.
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
+Sources we checked (6 November 2026)
+
+- [UK Government: Foreign travel insurance](https://www.gov.uk/guidance/foreign-travel-insurance)
+
 ## Frequently Asked Questions
 
 ### Do I need to carry my physical insurance policy when I travel?

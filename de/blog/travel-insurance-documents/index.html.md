@@ -146,6 +146,10 @@ Zwanzig Minuten jetzt, und Sie suchen bei einer Krise nichts davon.
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 
+Quellen, die wir geprüft haben (6. November 2026)
+
+- [UK Government: Foreign travel insurance](https://www.gov.uk/guidance/foreign-travel-insurance)
+
 ## Häufig gestellte Fragen
 
 ### Muss ich meine physische Versicherungspolice auf Reisen mitführen?

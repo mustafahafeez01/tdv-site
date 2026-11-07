@@ -104,6 +104,11 @@ Ouvrez l'application que vous envisagez réellement et passez-la en revue avec c
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
+Sources vérifiées (6 novembre 2026)
+
+- [UK Foreign Office: Indonesia entry requirements](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements)
+- [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
+
 ## Questions fréquemment posées
 
 ### Une seule application peut-elle stocker en toute sécurité les passeports de plusieurs membres d'une famille ?

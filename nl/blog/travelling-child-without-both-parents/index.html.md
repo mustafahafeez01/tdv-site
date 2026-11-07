@@ -84,6 +84,11 @@ Onze bredere [checklist reisdocumenten](https://traveldocumentvault.com/nl/blog/
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 
+Bronnen die we hebben gecontroleerd (6 november 2026)
+
+- [UK Government: Get permission to take a child abroad](https://www.gov.uk/permission-take-child-abroad)
+- [EU law: Directive 2001/51 on carrier responsibilities](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001L0051)
+
 ## Veelgestelde vragen
 
 ### Heb ik een toestemmingsbrief nodig als ik eenhoofdig gezag over mijn kind heb?

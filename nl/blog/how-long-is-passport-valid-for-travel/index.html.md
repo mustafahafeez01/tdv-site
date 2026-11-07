@@ -83,6 +83,12 @@ Lees je ook onze gids over [hoe lang een paspoortverlenging duurt](https://trave
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 
+Bronnen die we hebben gecontroleerd (6 november 2026)
+
+- [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
+- [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
+- [UK Government: Renew or replace your adult passport](https://www.gov.uk/renew-adult-passport)
+
 ## Veelgestelde vragen
 
 ### Hoe lang is een Brits paspoort geldig?

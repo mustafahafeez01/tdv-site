@@ -109,6 +109,13 @@ Choisissez le document de cette liste que vous n'avez pas encore sauvegardé, qu
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
+Sources vérifiées (6 novembre 2026)
+
+- [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
+- [UK Foreign Office: South Africa entry requirements](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements)
+- [European Commission: Applying for a Schengen visa](https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en)
+- [World Health Organization: Travel and health](https://www.who.int/health-topics/travel-and-health)
+
 ## Questions Fréquemment Posées
 
 ### Quels documents de voyage oubliez-vous généralement ?

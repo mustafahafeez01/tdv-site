@@ -69,6 +69,10 @@ Avec plusieurs enfants, les dates se décalent. Des passeports délivrés à que
 
 Ce qui fait la différence, c'est de commencer tôt. Nous commencerions environ neuf mois avant l'expiration du passeport d'un enfant : assez de temps pour trouver un rendez-vous que les deux parents peuvent honorer, faire signer une éventuelle déclaration notariée, et avoir encore le temps si quelque chose doit être refait. Notre article sur [le moment où renouveler un passeport avant son expiration](https://traveldocumentvault.com/fr/blog/renew-passport-before-expiry/) détaille ce calendrier.
 
+Sources vérifiées (6 novembre 2026)
+
+- [US eCFR: 22 CFR Part 51 (passports)](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-F/part-51)
+
 ## Questions fréquemment posées
 
 ### Peut-on renouveler le passeport d'un enfant délivré avant 16 ans ?

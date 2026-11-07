@@ -75,6 +75,12 @@ Reis je met het gezin, controleer dan het paspoort van elk gezinslid afzonderlij
 
 Controleer voordat je boekt je hele route, niet alleen de bestemming, in het IATA Travel Centre. Die controle vangt een ontbrekende vereiste het vaakst op zolang je de boeking nog kunt wijzigen.
 
+Bronnen die we hebben gecontroleerd (6 november 2026)
+
+- [UK Government: Visa to pass through the UK in transit](https://www.gov.uk/transit-visa)
+- [EU law: Visa Code (Regulation 810/2009)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0810)
+- [UK Government: Visa to pass through the UK in transit, If you're going through border control (Visitor in Transit visa)](https://www.gov.uk/transit-visa/visitor-in-transit-visa)
+
 ## Veelgestelde vragen
 
 ### Wat is een transitvisum?

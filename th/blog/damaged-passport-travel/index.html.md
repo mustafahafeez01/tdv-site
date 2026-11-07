@@ -89,6 +89,11 @@ Source: https://traveldocumentvault.com/th/blog/damaged-passport-travel/
 
 **ก่อนจะเชื่อตามบทความนี้:** นี่คือบล็อก ไม่ใช่แหล่งข้อมูลทางการ กฎและรายละเอียดเปลี่ยนแปลงได้ และสถานการณ์ของคุณอาจต่างออกไป เราตรวจสอบสิ่งที่เผยแพร่ แต่ก็ยังอาจผิดพลาดหรือล้าสมัยได้ หากเรื่องใดในนี้สำคัญต่อแผนของคุณ โปรดยืนยันกับหน่วยงานที่รับผิดชอบก่อนลงมือ
 
+แหล่งข้อมูลที่เราตรวจสอบ (6 พฤศจิกายน 2026)
+
+- [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
+- [UK legislation: Immigration and Asylum Act 1999, section 40](https://www.legislation.gov.uk/ukpga/1999/33/section/40)
+
 ## คำถามที่พบบ่อย
 
 ### อะไรบ้างที่ถือว่าพาสปอร์ตชำรุด

@@ -119,6 +119,14 @@ Visa-free access also depends entirely on your nationality. Two people travellin
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
+Sources we checked (6 November 2026)
+
+- [European Commission: Schengen area](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en)
+- [European Commission: Short-stay calculator](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en)
+- [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
+- [UK Government: Visa to pass through the UK in transit](https://www.gov.uk/transit-visa)
+- [US CBP: Western Hemisphere Travel Initiative](https://www.cbp.gov/travel/us-citizens/western-hemisphere-travel-initiative)
+
 ## Frequently Asked Questions
 
 ### What is the difference between a visa and a passport

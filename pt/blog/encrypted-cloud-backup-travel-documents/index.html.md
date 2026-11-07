@@ -108,6 +108,10 @@ Nada disto é dramático, e essa é precisamente a ideia. As famílias que lidam
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 
+Fontes que verificámos (6 de novembro de 2026)
+
+- [NIST: end-to-end encryption glossary entry](https://csrc.nist.gov/glossary/term/end_to_end_encryption)
+
 ## Perguntas Frequentes
 
 ### O que significa realmente uma cópia de segurança encriptada?

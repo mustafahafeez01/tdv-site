@@ -70,6 +70,13 @@ Uma reserva que não consegue abrir é tão inútil como não ter reserva nenhum
 
 Guarde uma cópia offline da confirmação: um PDF, uma captura de ecrã com a referência da reserva e as datas, ou uma cópia numa aplicação que funcione sem ligação. O Travel Document Vault guarda bilhetes de avião e reservas de hotel no seu dispositivo, encriptados e disponíveis offline. A confirmação está ali ao balcão, tenha ou não sinal. A nossa [lista de verificação de documentos de viagem](https://traveldocumentvault.com/pt/blog/travel-document-checklist/) cobre o resto do que vale a pena ter pronto.
 
+Fontes que verificámos (6 de novembro de 2026)
+
+- [EU law: Schengen Borders Code (Regulation 2016/399)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0399)
+- [Immigration New Zealand: Visa Waiver Visitor Visa](https://www.immigration.govt.nz/visas/visa-waiver-visitor-visa/)
+- [Immigration New Zealand: Visitor Visa](https://www.immigration.govt.nz/visas/visitor-visa/)
+- [Immigration New Zealand: Onward travel requirements](https://www.immigration.govt.nz/opsmanual/50548.htm)
+
 ## Perguntas Frequentes
 
 ### Que prova de continuação de viagem é que uma companhia aérea aceita, na prática?

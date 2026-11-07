@@ -69,6 +69,10 @@ Dengan lebih dari satu anak, tanggalnya akan berjauhan. Paspor yang diterbitkan 
 
 Yang membuat perbedaan adalah memulai lebih awal. Kami akan mulai sekitar sembilan bulan sebelum paspor anak habis masa berlakunya: cukup waktu untuk menemukan jadwal yang cocok untuk kedua orang tua, mendapatkan surat pernyataan yang dinotariskan, dan masih punya waktu jika ada yang perlu diulang. Panduan kami tentang [kapan memperpanjang paspor sebelum kedaluwarsa](https://traveldocumentvault.com/id/blog/renew-passport-before-expiry/) membahas waktunya lebih detail.
 
+Sumber yang kami periksa (6 November 2026)
+
+- [US eCFR: 22 CFR Part 51 (passports)](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-F/part-51)
+
 ## Pertanyaan yang Sering Diajukan
 
 ### Bisakah paspor anak diperpanjang jika diterbitkan sebelum usia 16 tahun?

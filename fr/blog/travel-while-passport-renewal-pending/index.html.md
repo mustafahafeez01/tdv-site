@@ -94,6 +94,14 @@ La raison pour laquelle les gens se retrouvent dans cette situation n'est pas l'
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
+Sources vérifiées (6 novembre 2026)
+
+- [USAGov: Renew an adult passport](https://www.usa.gov/renew-adult-passport)
+- [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)
+- [UK Government: Renew or replace your adult passport](https://www.gov.uk/renew-adult-passport)
+- [US TSA: Acceptable identification at the checkpoint](https://www.tsa.gov/travel/security-screening/identification)
+- [Government of Canada: Renew an adult passport](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html)
+
 ## Foire aux questions
 
 ### Puis-je voyager au pays pendant que le renouvellement de mon passeport est en cours ?

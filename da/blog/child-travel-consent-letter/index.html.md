@@ -125,6 +125,13 @@ Gå listen igennem, før du forlader huset, ikke ved check-in-skranken, for et �
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 
+Kilder vi har tjekket (6. november 2026)
+
+- [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
+- [NZ SafeTravel: Travelling with children](https://www.safetravel.govt.nz/before-you-go/who-is-travelling/travelling-with-children)
+- [South African Government: Media briefing on travelling with children](https://www.gov.za/news/speeches/director-general-mkuseli-apleni-media-briefing-new-requirements-travelling-children)
+- [Government of Canada: Travel documents for children](https://travel.gc.ca/travelling/children/documents)
+
 ## Ofte stillede spørgsmål
 
 ### Skal jeg bruge et samtykkebrev til mit barns rejse?

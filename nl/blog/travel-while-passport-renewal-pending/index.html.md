@@ -94,6 +94,14 @@ De reden waarom mensen in deze situatie terechtkomen, is geen onwetendheid over 
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 
+Bronnen die we hebben gecontroleerd (6 november 2026)
+
+- [USAGov: Renew an adult passport](https://www.usa.gov/renew-adult-passport)
+- [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)
+- [UK Government: Renew or replace your adult passport](https://www.gov.uk/renew-adult-passport)
+- [US TSA: Acceptable identification at the checkpoint](https://www.tsa.gov/travel/security-screening/identification)
+- [Government of Canada: Renew an adult passport](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html)
+
 ## Veelgestelde vragen
 
 ### Kan ik binnenlands reizen terwijl mijn paspoortverlenging loopt?

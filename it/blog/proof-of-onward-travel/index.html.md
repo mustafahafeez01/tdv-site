@@ -70,6 +70,13 @@ Una prenotazione che non riesci ad aprire è tanto inutile quanto nessuna prenot
 
 Conserva una copia offline della conferma: un PDF, uno screenshot con il codice di prenotazione e le date, o una copia in un'app che funziona senza connessione. Travel Document Vault conserva biglietti aerei e prenotazioni d'albergo sul tuo dispositivo, cifrati e disponibili offline. La conferma è lì al banco, con o senza segnale. La nostra [lista di controllo dei documenti di viaggio](https://traveldocumentvault.com/it/blog/travel-document-checklist/) copre il resto di ciò che conviene avere pronto.
 
+Fonti che abbiamo verificato (6 novembre 2026)
+
+- [EU law: Schengen Borders Code (Regulation 2016/399)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0399)
+- [Immigration New Zealand: Visa Waiver Visitor Visa](https://www.immigration.govt.nz/visas/visa-waiver-visitor-visa/)
+- [Immigration New Zealand: Visitor Visa](https://www.immigration.govt.nz/visas/visitor-visa/)
+- [Immigration New Zealand: Onward travel requirements](https://www.immigration.govt.nz/opsmanual/50548.htm)
+
 ## Domande frequenti
 
 ### Quale prova di prosecuzione del viaggio accetta davvero una compagnia aerea?

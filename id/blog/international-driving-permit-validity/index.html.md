@@ -102,6 +102,13 @@ Hari ini, ambil SIM dan izin Anda, kalau sudah punya, lalu letakkan kedua tangga
 
 **Sebelum Anda mengandalkan ini:** ini blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 
+Sumber yang kami periksa (6 November 2026)
+
+- [United Nations Treaty Collection: Convention on Road Traffic (1968)](https://treaties.un.org/doc/Treaties/1977/05/19770524%2000-13%20AM/Ch_XI_B_19.pdf)
+- [UK Government: driving abroad, international driving permits](https://www.gov.uk/driving-abroad/international-driving-permit)
+- [Government of Canada: International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
+- [UK Government: Driving abroad](https://www.gov.uk/driving-abroad)
+
 ## Pertanyaan yang Sering Diajukan
 
 ### Apakah Saya Memerlukan Izin Mengemudi Internasional?

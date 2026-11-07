@@ -93,6 +93,13 @@ EU도 비EU 방문객을 위한 자체 디지털 여행 허가 제도인 [ETIAS]
 
 이미 예약한 여행이 있다면 오늘 이것부터 하세요. 여권 만료일을 여행 날짜와 대조하고, 지금 가진 ETA가 실제로 여행에 쓸 여권에 연결되어 있는지 확인합니다. 둘 중 하나라도 부족하다면 여행 직전 주가 아니라 지금 바로 갱신이나 재신청을 시작하세요.
 
+확인한 출처 (2026년 11월 6일)
+
+- [UK Government: Get an electronic travel authorisation (ETA) to visit the UK](https://www.gov.uk/eta)
+- [UK Government: Check your electronic travel authorisation (ETA)](https://www.gov.uk/check-eta)
+- [UK Government: No permission, no travel, UK set to enforce ETA scheme](https://www.gov.uk/government/news/no-permission-no-travel-uk-set-to-enforce-eta-scheme)
+- [EU travel: ETIAS](https://travel-europe.europa.eu/en/etias)
+
 ## 자주 묻는 질문
 
 ### UK ETA란 무엇입니까?

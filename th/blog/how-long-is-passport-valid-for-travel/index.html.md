@@ -84,6 +84,12 @@ Source: https://traveldocumentvault.com/th/blog/how-long-is-passport-valid-for-t
 
 **ก่อนจะเชื่อตามบทความนี้:** นี่คือบล็อก ไม่ใช่แหล่งข้อมูลทางการ กฎและรายละเอียดเปลี่ยนแปลงได้ และสถานการณ์ของคุณอาจต่างออกไป เราตรวจสอบสิ่งที่เผยแพร่ แต่ก็ยังอาจผิดพลาดหรือล้าสมัยได้ หากเรื่องใดในนี้สำคัญต่อแผนของคุณ โปรดยืนยันกับหน่วยงานที่รับผิดชอบก่อนลงมือ
 
+แหล่งข้อมูลที่เราตรวจสอบ (6 พฤศจิกายน 2026)
+
+- [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
+- [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
+- [UK Government: Renew or replace your adult passport](https://www.gov.uk/renew-adult-passport)
+
 ## คำถามที่พบบ่อย
 
 ### พาสปอร์ตไทยมีอายุกี่ปี

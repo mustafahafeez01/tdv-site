@@ -104,6 +104,11 @@ Rufen Sie die App auf, die Sie tatsächlich in Betracht ziehen, und gehen Sie si
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 
+Quellen, die wir geprüft haben (6. November 2026)
+
+- [UK Foreign Office: Indonesia entry requirements](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements)
+- [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
+
 ## Häufig gestellte Fragen
 
 ### Kann eine App die Pässe mehrerer Familienmitglieder sicher aufbewahren?

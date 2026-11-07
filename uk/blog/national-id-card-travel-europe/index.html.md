@@ -85,6 +85,13 @@ Source: https://traveldocumentvault.com/uk/blog/national-id-card-travel-europe/
 
 Почніть сьогодні: дістаньте ID-картку, перевірте дату закінчення терміну дії й огляньте її на тріщини, вицвілі місця чи деформований пластик. Якщо вона на межі, замовте поновлення раніше, ніж бронюватимете поїздку.
 
+Джерела, які ми перевірили (6 листопада 2026 р.)
+
+- [Your Europe (EU): Travel documents for EU nationals](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm)
+- [EU law: Regulation 2019/1157 on identity cards](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1157)
+- [UK Government: Visiting the UK as an EU, EEA or Swiss citizen](https://www.gov.uk/guidance/visiting-the-uk-as-an-eu-eea-or-swiss-citizen)
+- [UK Foreign Office: Spain entry requirements](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements)
+
 ## Часто задавані запитання
 
 ### Що таке національна ID-картка ЄЕЗ?

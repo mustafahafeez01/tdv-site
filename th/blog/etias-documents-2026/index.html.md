@@ -110,6 +110,12 @@ ETIAS จะขอ**ข้อมูลด้านความปลอดภั
 
 **ก่อนจะเชื่อตามบทความนี้:** นี่คือบล็อก ไม่ใช่แหล่งข้อมูลทางการ กฎและรายละเอียดเปลี่ยนแปลงได้ และสถานการณ์ของคุณอาจต่างออกไป เราตรวจสอบสิ่งที่เผยแพร่ แต่ก็ยังอาจผิดพลาดหรือล้าสมัยได้ หากเรื่องใดในนี้สำคัญต่อแผนของคุณ โปรดยืนยันกับหน่วยงานที่รับผิดชอบก่อนลงมือ
 
+แหล่งข้อมูลที่เราตรวจสอบ (6 พฤศจิกายน 2026)
+
+- [EU travel: ETIAS](https://travel-europe.europa.eu/en/etias)
+- [EU travel: Entry/Exit System (EES)](https://travel-europe.europa.eu/en/ees)
+- [European Commission: The European travel authorisation ETIAS will cost EUR 20](https://home-affairs.ec.europa.eu/news/european-travel-authorisation-etias-will-cost-eur-20-2025-07-17_en)
+
 ## คำถามที่พบบ่อย
 
 ### ETIAS จะกลายเป็นข้อบังคับสำหรับการเดินทางในยุโรปเมื่อใด

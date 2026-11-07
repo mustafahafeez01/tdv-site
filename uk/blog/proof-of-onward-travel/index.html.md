@@ -70,6 +70,13 @@ Source: https://traveldocumentvault.com/uk/blog/proof-of-onward-travel/
 
 Зберігайте офлайн-копію підтвердження: PDF, скриншот із номером бронювання й датами, або копію в застосунку, який працює без підключення до мережі. Travel Document Vault зберігає авіаквитки та бронювання готелів на вашому пристрої, у зашифрованому вигляді й доступними офлайн. Підтвердження буде під рукою на стійці незалежно від того, є сигнал чи немає. Решту того, що варто мати готовим, дивіться в нашому [переліку документів для подорожі](https://traveldocumentvault.com/uk/blog/travel-document-checklist/).
 
+Джерела, які ми перевірили (6 листопада 2026 р.)
+
+- [EU law: Schengen Borders Code (Regulation 2016/399)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0399)
+- [Immigration New Zealand: Visa Waiver Visitor Visa](https://www.immigration.govt.nz/visas/visa-waiver-visitor-visa/)
+- [Immigration New Zealand: Visitor Visa](https://www.immigration.govt.nz/visas/visitor-visa/)
+- [Immigration New Zealand: Onward travel requirements](https://www.immigration.govt.nz/opsmanual/50548.htm)
+
 ## Часті запитання
 
 ### Яке підтвердження подальшої подорожі насправді приймає авіакомпанія?

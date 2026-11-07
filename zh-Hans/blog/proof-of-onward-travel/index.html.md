@@ -70,6 +70,13 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/proof-of-onward-travel/
 
 保留一份离线版确认信息：一份 PDF 文件，一张显示预订编号和日期的截图，或者保存在一款无需联网也能打开的应用里的副本。Travel Document Vault 将机票和酒店预订加密存储在你的设备上，支持离线访问。无论有没有信号，柜台上这份确认信息都在。关于出发前还值得准备好哪些其他证件，请参阅我们的[旅行文件检查清单](https://traveldocumentvault.com/zh-Hans/blog/travel-document-checklist/)。
 
+我们核对过的资料来源（2026年11月6日）
+
+- [EU law: Schengen Borders Code (Regulation 2016/399)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0399)
+- [Immigration New Zealand: Visa Waiver Visitor Visa](https://www.immigration.govt.nz/visas/visa-waiver-visitor-visa/)
+- [Immigration New Zealand: Visitor Visa](https://www.immigration.govt.nz/visas/visitor-visa/)
+- [Immigration New Zealand: Onward travel requirements](https://www.immigration.govt.nz/opsmanual/50548.htm)
+
 ## 常见问题
 
 ### 航空公司实际认可哪些后续行程证明？

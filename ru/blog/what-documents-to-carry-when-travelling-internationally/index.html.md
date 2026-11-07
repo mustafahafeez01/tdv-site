@@ -109,6 +109,13 @@ Source: https://traveldocumentvault.com/ru/blog/what-documents-to-carry-when-tra
 
 **Прежде чем полагаться на это:** это блог, а не официальный источник. Правила и детали меняются, и ваша ситуация может отличаться. Мы проверяем то, что публикуем, и всё равно можем ошибиться или устареть. Если что-то здесь важно для ваших планов, уточните это в ответственном ведомстве, прежде чем действовать.
 
+Источники, которые мы проверили (6 ноября 2026 г.)
+
+- [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
+- [UK Foreign Office: South Africa entry requirements](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements)
+- [European Commission: Applying for a Schengen visa](https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en)
+- [World Health Organization: Travel and health](https://www.who.int/health-topics/travel-and-health)
+
 ## Часто задаваемые вопросы
 
 ### Какие документы для путешествий люди забывают чаще всего?

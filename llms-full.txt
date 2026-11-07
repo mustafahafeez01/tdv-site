@@ -108,6 +108,11 @@ Pull up the app you're actually considering and run it against this list before 
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
+Sources we checked (6 November 2026)
+
+- [UK Foreign Office: Indonesia entry requirements](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements)
+- [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
+
 ## Frequently Asked Questions
 
 ### Can one app safely hold passports for several family members?
@@ -239,6 +244,14 @@ Once the passport is issued and delivered to you, spend five minutes checking it
 **Then check the expiry date.** This is critical for children because [child passports often expire sooner than adult passports](https://traveldocumentvault.com/blog/family-passport-management/). When you book travel, you need to know exactly when this document stops being valid. Write it down and set a reminder the day the passport arrives, not whenever a trip happens to come up; that's the one habit we'd always recommend to parents. A child's passport expiring unnoticed is an easy way to lose a trip.
 
 If anything is wrong, contact your passport office as soon as you spot it. Whether a correction is free depends on who made the error, and it gets harder to sort out the longer you leave it. Once everything checks out, put the passport straight into your documents folder with a note of the expiry date, so renewal doesn't catch you by surprise.
+
+Sources we checked (6 November 2026)
+
+- [UK Government: Get a passport photo, Digital photos](https://www.gov.uk/photos-for-passports)
+- [UK Government: applying for a first child passport](https://www.gov.uk/get-a-child-passport/first-child-passport)
+- [UK Government: countersigning passport applications and photos](https://www.gov.uk/countersigning-passport-applications)
+- [UK Government: How to correct errors on passports](https://www.gov.uk/government/publications/preventing-and-resolving-errors-on-passports/how-to-correct-errors-on-passports-accessible)
+- [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
 
 ## Frequently Asked Questions
 
@@ -401,6 +414,13 @@ Go through this list before you leave the house, not at the check-in desk, becau
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
+Sources we checked (6 November 2026)
+
+- [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
+- [NZ SafeTravel: Travelling with children](https://www.safetravel.govt.nz/before-you-go/who-is-travelling/travelling-with-children)
+- [South African Government: Media briefing on travelling with children](https://www.gov.za/news/speeches/director-general-mkuseli-apleni-media-briefing-new-requirements-travelling-children)
+- [Government of Canada: Travel documents for children](https://travel.gc.ca/travelling/children/documents)
+
 ## Frequently Asked Questions
 
 ### Do I need a child travel consent letter?
@@ -524,6 +544,11 @@ Store your digital copies somewhere encrypted and offline, not Google Photos or 
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
+Sources we checked (6 November 2026)
+
+- [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
+- [UK legislation: Immigration and Asylum Act 1999, section 40](https://www.legislation.gov.uk/ukpga/1999/33/section/40)
+
 ## Frequently Asked Questions
 
 ### What counts as a damaged passport?
@@ -646,6 +671,15 @@ If you're wondering whether cloud storage is safe for passport copies, see our g
 If you haven't made one yet, scan your passport's photo page today, before you're standing at a check-in desk or an embassy counter needing it.
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
+
+Sources we checked (6 November 2026)
+
+- [Government of Canada: Lost or stolen belongings abroad](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings)
+- [UK Government: Foreign travel checklist](https://www.gov.uk/guidance/foreign-travel-checklist)
+- [US TSA: Digital ID and facial comparison](https://www.tsa.gov/digital-id)
+- [Your Europe (EU): Travel documents for EU nationals](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm)
+- [UK Government: Travel urgently from abroad without your UK passport, Who can apply](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport)
+- [Government of India: e-Visa](https://indianvisaonline.gov.in/evisa/tvoa.html)
 
 ## Frequently Asked Questions
 
@@ -790,6 +824,10 @@ One last note on expectations. Backup is a safety layer, and it doesn't guarante
 None of this is dramatic, and that's rather the idea. The families who cope well with a stolen phone abroad are almost never the ones who reacted brilliantly. They're the ones who spent twenty unremarkable minutes at the kitchen table a fortnight earlier. If you haven't done that yet, set up your backup today and write down where the recovery code lives.
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
+
+Sources we checked (6 November 2026)
+
+- [NIST: end-to-end encryption glossary entry](https://csrc.nist.gov/glossary/term/end_to_end_encryption)
 
 ## Frequently Asked Questions
 
@@ -937,6 +975,12 @@ The practical task to do today is pull out your passport and check it against th
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
+Sources we checked (6 November 2026)
+
+- [EU travel: ETIAS](https://travel-europe.europa.eu/en/etias)
+- [EU travel: Entry/Exit System (EES)](https://travel-europe.europa.eu/en/ees)
+- [European Commission: The European travel authorisation ETIAS will cost EUR 20](https://home-affairs.ec.europa.eu/news/european-travel-authorisation-etias-will-cost-eur-20-2025-07-17_en)
+
 ## Frequently Asked Questions
 
 ### When does ETIAS become mandatory for European travel?
@@ -1067,6 +1111,10 @@ If you haven't set this up yet, start today: scan the photo page of every passpo
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
+Sources we checked (6 November 2026)
+
+- [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
+
 ## Frequently Asked Questions
 
 ### What is the best way to store multiple family passports?
@@ -1186,6 +1234,11 @@ You've got travel booked soon and your passport is about to expire. Don't panic,
 Pull out your own passport today and check how many months it's actually got left against your next trip. If that gap looks tight, treat it as your sign to start the renewal now rather than closer to departure.
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
+
+Sources we checked (6 November 2026)
+
+- [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
+- [Government of Canada: Renew an adult passport](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html)
 
 ## Frequently Asked Questions
 
@@ -1322,6 +1375,17 @@ Approval means you're eligible to travel under the Visa Waiver Program, not that
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
+Sources we checked (6 November 2026)
+
+- [US CBP: Visa Waiver Program and ESTA frequently asked questions](https://www.cbp.gov/travel/international-visitors/esta/frequently-asked-questions-about-visa-waiver-program-vwp-and-electronic-system-travel)
+- [US CBP: Electronic System for Travel Authorization (ESTA)](https://www.cbp.gov/travel/international-visitors/esta)
+- [US Federal Register: Notice of 1 October 2026](https://www.govinfo.gov/content/pkg/FR-2026-10-01/html/2026-20185.htm)
+- [US CBP: Visa Waiver Program](https://www.cbp.gov/travel/international-visitors/visa-waiver-program)
+- [US DHS: Visa Waiver Program](https://www.dhs.gov/visa-waiver-program)
+- [US CBP: CBP Reminds Travelers to Allow 72 Hours for ESTA](https://www.cbp.gov/newsroom/national-media-release/cbp-reminds-travelers-allow-72-hours-esta)
+- [US CBP: CBP Warns Against Third-Party Site Use for ESTA Applications](https://www.cbp.gov/newsroom/national-media-release/cbp-warns-against-third-party-site-use-esta-applications)
+- [US CBP: ESTA frequently asked questions](https://esta.cbp.dhs.gov/faq)
+
 ## Frequently Asked Questions
 
 ### How long is an ESTA valid for?
@@ -1440,6 +1504,12 @@ The most common mistake is setting a reminder on the expiry date itself. By that
 If you also read our guide on [how long passport renewal takes](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/), you will see exactly how tight the timelines can get during busy periods, which is another reason to start early. If your own passport already has less than twelve months of validity, renew it before you book anything else.
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
+
+Sources we checked (6 November 2026)
+
+- [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
+- [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
+- [UK Government: Renew or replace your adult passport](https://www.gov.uk/renew-adult-passport)
 
 ## Frequently Asked Questions
 
@@ -1607,6 +1677,12 @@ If you haven't already, pick the one place the passports will live, and set an e
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
+Sources we checked (6 November 2026)
+
+- [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
+- [UK Foreign Office: Mexico entry requirements](https://www.gov.uk/foreign-travel-advice/mexico/entry-requirements)
+- [Your Europe (EU): Health cover for temporary stays in another EU country](https://europa.eu/youreurope/citizens/health/unplanned-healthcare/temporary-stays/index_en.htm)
+
 ## Frequently Asked Questions
 
 ### What documents do I need to organise for family travel?
@@ -1738,6 +1814,10 @@ If the labels on your own data page are not in English, the geometry still helps
 Take five minutes today to find both dates on your own passport, and on each child’s if you’re travelling as a family, so you already know which is which before a form or a border asks.
 
 **Before you rely on this:** it’s a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
+
+Sources we checked (6 November 2026)
+
+- [UK Foreign Office: Spain entry requirements](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements)
 
 ## Frequently Asked Questions
 
@@ -1876,6 +1956,13 @@ Find out which body issues permits in the country that issued your licence, and 
 Today, take out your licence and your permit, if you have one, and put the two expiry dates side by side. On a Vienna permit, whichever comes first is the date it really ends.
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
+
+Sources we checked (6 November 2026)
+
+- [United Nations Treaty Collection: Convention on Road Traffic (1968)](https://treaties.un.org/doc/Treaties/1977/05/19770524%2000-13%20AM/Ch_XI_B_19.pdf)
+- [UK Government: driving abroad, international driving permits](https://www.gov.uk/driving-abroad/international-driving-permit)
+- [Government of Canada: International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
+- [UK Government: Driving abroad](https://www.gov.uk/driving-abroad)
 
 ## Frequently Asked Questions
 
@@ -2136,6 +2223,13 @@ Once you have your emergency travel document, confirm exit requirements with loc
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
+Sources we checked (6 November 2026)
+
+- [Government of Canada: Lost or stolen belongings abroad](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings)
+- [UK Government: Travel urgently from abroad without your UK passport, How to apply](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport/how-to-apply)
+- [UK Government: Travel urgently from abroad without your UK passport, Who can apply](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport)
+- [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
+
 ## Frequently Asked Questions
 
 ### What should I do if I lose my passport abroad?
@@ -2254,6 +2348,13 @@ The harder part is that **most issuing authorities don't remind you.** You're su
 What helps is a single place for both documents, one that keeps each expiry date and reminds you separately for each, on the schedule that suits that type of document. See our guide on [building a complete pre-trip document check](https://traveldocumentvault.com/blog/travel-document-checklist/) for the full picture of what to verify before you travel.
 
 Start today: pull out your ID card, check the expiry date, and look it over for cracks, fading, or warped plastic. If it's borderline, book the renewal before you book the trip.
+
+Sources we checked (6 November 2026)
+
+- [Your Europe (EU): Travel documents for EU nationals](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm)
+- [EU law: Regulation 2019/1157 on identity cards](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1157)
+- [UK Government: Visiting the UK as an EU, EEA or Swiss citizen](https://www.gov.uk/guidance/visiting-the-uk-as-an-eu-eea-or-swiss-citizen)
+- [UK Foreign Office: Spain entry requirements](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements)
 
 ## Frequently Asked Questions
 
@@ -2400,6 +2501,13 @@ The root cause is usually the same: no reminder in place. Set an expiry reminder
 Do this for every passport in your household separately. Children's passports expire faster (often 5 years versus 10 for adults) and are the ones most often missed. Pull every passport out today and check the expiry date, not just the photo page.
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
+
+Sources we checked (6 November 2026)
+
+- [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
+- [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)
+- [Government of Canada: Renew a passport online](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport/submit-form-fees/renew-online.html)
+- [Government of Canada: Renew an adult passport](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html)
 
 ## Frequently Asked Questions
 
@@ -2571,6 +2679,17 @@ Reliable sources to check before any international trip:
 These sources tell you the official requirement and whether it applies to holders of your specific passport. Don't rely on travel forums or last year's blog post - go to the source.
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
+
+Sources we checked (6 November 2026)
+
+- [UK Foreign Office: USA entry requirements](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements)
+- [UK Foreign Office: France entry requirements](https://www.gov.uk/foreign-travel-advice/france/entry-requirements)
+- [UK Foreign Office: Australia entry requirements](https://www.gov.uk/foreign-travel-advice/australia/entry-requirements)
+- [UK Foreign Office: Japan entry requirements](https://www.gov.uk/foreign-travel-advice/japan/entry-requirements)
+- [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
+- [UK Foreign Office: Indonesia entry requirements](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements)
+- [UK Foreign Office: Turkey entry requirements](https://www.gov.uk/foreign-travel-advice/turkey/entry-requirements)
+- [UK Foreign Office: New Zealand entry requirements](https://www.gov.uk/foreign-travel-advice/new-zealand/entry-requirements)
 
 ## Frequently Asked Questions
 
@@ -2763,6 +2882,11 @@ If you've got decent window light and a few minutes to spare, take the photo you
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
+Sources we checked (6 November 2026)
+
+- [UK Government: Get a passport photo, Digital photos](https://www.gov.uk/photos-for-passports)
+- [Government of Canada: Passport photo requirements](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/photos.html)
+
 ## Frequently Asked Questions
 
 ### Can I take a passport photo on my smartphone
@@ -2868,6 +2992,13 @@ At the desk, the airline usually makes the call. If you can't resolve it there, 
 A booking you can't open is as unhelpful as no booking at all. The request tends to come at check-in or the gate, which is often where signal is patchy and an app wants you to sign in again.
 
 Keep an offline copy of the confirmation: a PDF, a screenshot showing the booking reference and dates, or a copy in an app that works without a connection. Travel Document Vault stores airline tickets and hotel bookings on your device, encrypted and available offline. The confirmation is there at the desk whether or not you have signal. Our [travel document checklist](https://traveldocumentvault.com/blog/travel-document-checklist/) covers the rest of what's worth having ready.
+
+Sources we checked (6 November 2026)
+
+- [EU law: Schengen Borders Code (Regulation 2016/399)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0399)
+- [Immigration New Zealand: Visa Waiver Visitor Visa](https://www.immigration.govt.nz/visas/visa-waiver-visitor-visa/)
+- [Immigration New Zealand: Visitor Visa](https://www.immigration.govt.nz/visas/visitor-visa/)
+- [Immigration New Zealand: Onward travel requirements](https://www.immigration.govt.nz/opsmanual/50548.htm)
 
 ## Frequently Asked Questions
 
@@ -2975,6 +3106,17 @@ HM Passport Office says you'll usually get a passport within three weeks, longer
 If a family trip is on the horizon, line up every passport in the household at the same time. In the UK, HM Passport Office issues child passports for five years rather than ten, so the one that needs renewing first often isn't the one you'd expect. If anyone is heading somewhere that asks for extra validity on arrival, check our guide to [the 6-month passport rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/) for how that shifts your date.
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
+
+Sources we checked (6 November 2026)
+
+- [USAGov: Renew an adult passport](https://www.usa.gov/renew-adult-passport)
+- [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)
+- [UK Foreign Office: Spain entry requirements](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements)
+- [UK Government: Historic passport information (accessible)](https://www.gov.uk/government/publications/historic-passport-information-caseworker-guidance/historic-passport-information-accessible)
+- [UK Government: HM Passport Office services](https://www.gov.uk/government/organisations/hm-passport-office/about/about-our-services)
+- [UK Government: Get an electronic travel authorisation (ETA) to visit the UK, Apply for an ETA](https://www.gov.uk/eta/apply)
+- [US CBP: Visa Waiver Program and ESTA frequently asked questions](https://www.cbp.gov/travel/international-visitors/esta/frequently-asked-questions-about-visa-waiver-program-vwp-and-electronic-system-travel)
+- [Your Europe (EU): Travel documents for non-EU nationals](https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm)
 
 ## Frequently Asked Questions
 
@@ -3286,6 +3428,16 @@ The digital border is thorough, automatic and unsentimental, but staying inside 
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
+Sources we checked (6 November 2026)
+
+- [EU travel: Entry/Exit System (EES)](https://travel-europe.europa.eu/en/ees)
+- [EU travel: EES frequently asked questions](https://travel-europe.europa.eu/en/ees/faq)
+- [European Commission: The Entry/Exit System will become fully operational on 10 April 2026](https://home-affairs.ec.europa.eu/news/entryexit-system-will-become-fully-operational-10-april-2026-2026-03-30_en)
+- [European Commission: Entry/Exit System (EES) is fully operational](https://home-affairs.ec.europa.eu/news/entryexit-system-ees-fully-operational-2026-04-10_en)
+- [European Commission: Commission report shows Schengen area continues to be resilient and ready for future challenges](https://home-affairs.ec.europa.eu/news/commission-report-shows-schengen-area-continues-be-resilient-and-ready-future-challenges-2026-05-18_en)
+- [European Commission: The Entry Exit System is fully operational since 10 April 2026. Who is exempt?](https://home-affairs.ec.europa.eu/news/entry-exit-system-fully-operational-10-april-2026-who-exempt-2026-07-27_en)
+- [EU law: Return Directive (2008/115/EC)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32008L0115)
+
 ## Frequently Asked Questions
 
 ### What happens if I overstay the Schengen 90/180 rule by one day?
@@ -3391,6 +3543,16 @@ Children need the same buffer as adults. There's no child exception to the valid
 None of this needs an app. A spreadsheet helps plenty of families, and a twice-yearly calendar reminder handles most of the work. The only non-negotiable: do the audit at booking time, when a short passport is still an errand, not an emergency.
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
+
+Sources we checked (6 November 2026)
+
+- [UK Foreign Office: France entry requirements](https://www.gov.uk/foreign-travel-advice/france/entry-requirements)
+- [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
+- [EU travel: ETIAS](https://travel-europe.europa.eu/en/etias)
+- [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
+- [UK Foreign Office: Indonesia entry requirements](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements)
+- [UK Government: Getting your first adult passport, Who can apply](https://www.gov.uk/apply-first-adult-passport)
+- [UK Foreign Office: Ireland entry requirements](https://www.gov.uk/foreign-travel-advice/ireland/entry-requirements)
 
 ## Frequently Asked Questions
 
@@ -3500,6 +3662,12 @@ If you are travelling as a family, check every family member's passport individu
 A single person without an exemption can derail the entire trip.
 
 Before you book, put your whole route, not just the destination, through the IATA Travel Centre. That's the check most likely to catch a missing requirement while you can still change the booking.
+
+Sources we checked (6 November 2026)
+
+- [UK Government: Visa to pass through the UK in transit](https://www.gov.uk/transit-visa)
+- [EU law: Visa Code (Regulation 810/2009)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0810)
+- [UK Government: Visa to pass through the UK in transit, If you're going through border control (Visitor in Transit visa)](https://www.gov.uk/transit-visa/visitor-in-transit-visa)
 
 ## Frequently Asked Questions
 
@@ -3656,6 +3824,15 @@ If a trip is already booked, the one thing worth doing today is pulling out ever
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
+Sources we checked (6 November 2026)
+
+- [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
+- [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
+- [UK Foreign Office: Indonesia entry requirements](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements)
+- [UK Foreign Office: South Africa entry requirements](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements)
+- [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
+- [UK Foreign Office: Mexico entry requirements](https://www.gov.uk/foreign-travel-advice/mexico/entry-requirements)
+
 ## Frequently Asked Questions
 
 ### What documents do I need for international travel?
@@ -3799,6 +3976,17 @@ Do not assume you can travel "because you're coming back before it expires": you
 The simplest way to avoid all of this: pull out your passport today and check the date against your next trip, not the other way round. If it's cutting things close, start the renewal now rather than waiting.
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
+
+Sources we checked (6 November 2026)
+
+- [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)
+- [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
+- [UK Government: Travel urgently from abroad without your UK passport, Who can apply](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport)
+- [UK Government: Getting your first adult passport, Who can apply](https://www.gov.uk/apply-first-adult-passport)
+- [UK Government: Renew or replace your adult passport](https://www.gov.uk/renew-adult-passport)
+- [UK Foreign Office: Ireland entry requirements](https://www.gov.uk/foreign-travel-advice/ireland/entry-requirements)
+- [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
+- [EU travel: Entry/Exit System (EES)](https://travel-europe.europa.eu/en/ees)
 
 ## Frequently Asked Questions
 
@@ -3986,6 +4174,10 @@ Twenty minutes now, and you won't be searching for any of it in a crisis.
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
+Sources we checked (6 November 2026)
+
+- [UK Government: Foreign travel insurance](https://www.gov.uk/guidance/foreign-travel-insurance)
+
 ## Frequently Asked Questions
 
 ### Do I need to carry my physical insurance policy when I travel?
@@ -4110,6 +4302,14 @@ The reason people end up in this situation is not ignorance of the rules. Passpo
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
+Sources we checked (6 November 2026)
+
+- [USAGov: Renew an adult passport](https://www.usa.gov/renew-adult-passport)
+- [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)
+- [UK Government: Renew or replace your adult passport](https://www.gov.uk/renew-adult-passport)
+- [US TSA: Acceptable identification at the checkpoint](https://www.tsa.gov/travel/security-screening/identification)
+- [Government of Canada: Renew an adult passport](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html)
+
 ## Frequently Asked Questions
 
 ### Can I travel domestically while my passport renewal is in progress?
@@ -4233,6 +4433,11 @@ Every situation above needs its own small bundle of paper, and it is easy to los
 Our broader [travel document checklist](https://traveldocumentvault.com/blog/travel-document-checklist/) covers what to pack beyond this specific situation, and our guide to [organising family travel documents](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/) walks through keeping every family member's paperwork sorted between trips, not only the one you are packing for now. Whichever bundle applies to your family, pull it together today: match each document in the table above with your child's birth certificate, and put the full set in one place before your next trip gets booked.
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
+
+Sources we checked (6 November 2026)
+
+- [UK Government: Get permission to take a child abroad](https://www.gov.uk/permission-take-child-abroad)
+- [EU law: Directive 2001/51 on carrier responsibilities](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001L0051)
 
 ## Frequently Asked Questions
 
@@ -4448,6 +4653,14 @@ If you hold two nationalities, think about which passport you'll actually book w
 
 If you've renewed your passport, the new one needs to go on your account before you fly with it, and GOV.UK says you can update the passport number and expiry date on your account yourself. With a biometric passport you can also update your name and nationality yourself; anything else needs UK Visas and Immigration to make the change for you. If renewal is still ahead of you, our guide to [renewing your passport before it expires](https://traveldocumentvault.com/blog/renew-passport-before-expiry/) covers when to start, and the new passport goes straight onto your account once it arrives.
 
+Sources we checked (6 November 2026)
+
+- [UK Government: eVisa, setting up a UKVI account](https://www.gov.uk/evisa/set-up-ukvi-account)
+- [UK Government: travelling with an eVisa](https://www.gov.uk/evisa/travel-with-evisa)
+- [UK Government: eVisa, what an eVisa is](https://www.gov.uk/evisa)
+- [UK Government: Biometric residence permits (BRPs)](https://www.gov.uk/biometric-residence-permits)
+- [UK Government: viewing your eVisa and getting a share code](https://www.gov.uk/evisa/view-evisa-get-share-code-prove-immigration-status)
+
 ## Frequently Asked Questions
 
 ### Do I need a UKVI account if my BRP has expired?
@@ -4567,6 +4780,13 @@ The EU plans its own digital travel permission, [ETIAS](https://traveldocumentva
 
 If you already have a trip booked, do this today: check your passport's expiry date against your travel dates, and confirm your current ETA is tied to the passport you'll actually be travelling on. If either one falls short, start the renewal or the reapplication now, not the week before you fly.
 
+Sources we checked (6 November 2026)
+
+- [UK Government: Get an electronic travel authorisation (ETA) to visit the UK](https://www.gov.uk/eta)
+- [UK Government: Check your electronic travel authorisation (ETA)](https://www.gov.uk/check-eta)
+- [UK Government: No permission, no travel, UK set to enforce ETA scheme](https://www.gov.uk/government/news/no-permission-no-travel-uk-set-to-enforce-eta-scheme)
+- [EU travel: ETIAS](https://travel-europe.europa.eu/en/etias)
+
 ## Frequently Asked Questions
 
 ### What is a UK ETA?
@@ -4673,6 +4893,10 @@ The supporting documents follow the same process as a first child passport, so o
 With more than one child, the dates drift apart. Passports issued a couple of years apart each need both parents involved, at separate times, unless you plan for it. When one child's passport comes due, we'd check the others too, so a second joint appointment never arrives as a surprise.
 
 What makes the difference is starting early. We'd begin about nine months before a child's passport expires: long enough to find an appointment both parents can make, get any notarised statement signed, and still have time if something needs redoing. Our guide on [when to renew a passport before it expires](https://traveldocumentvault.com/blog/renew-passport-before-expiry/) walks through the timing in more detail.
+
+Sources we checked (6 November 2026)
+
+- [US eCFR: 22 CFR Part 51 (passports)](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-F/part-51)
 
 ## Frequently Asked Questions
 
@@ -4787,6 +5011,13 @@ With all that complexity in mind, a good visa expiry tracker app needs to handle
 Check your passport's expiry against your visa dates today: even a valid visa will not get you through if your passport expires too soon after your planned departure, which is exactly the mismatch our guide to the [6-month passport rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/) walks through.
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
+
+Sources we checked (6 November 2026)
+
+- [US Code: Title 8, section 1182](https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chap12-subchapII-partII-sec1182.htm)
+- [European Commission: Schengen area](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en)
+- [European Commission: Short-stay calculator](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en)
+- [European Commission: What is SIS and how does it work?](https://home-affairs.ec.europa.eu/policies/schengen/schengen-information-system/what-sis-and-how-does-it-work_en)
 
 ## Frequently Asked Questions
 
@@ -4945,6 +5176,14 @@ Visa-free access also depends entirely on your nationality. Two people travellin
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
+Sources we checked (6 November 2026)
+
+- [European Commission: Schengen area](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en)
+- [European Commission: Short-stay calculator](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en)
+- [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
+- [UK Government: Visa to pass through the UK in transit](https://www.gov.uk/transit-visa)
+- [US CBP: Western Hemisphere Travel Initiative](https://www.cbp.gov/travel/us-citizens/western-hemisphere-travel-initiative)
+
 ## Frequently Asked Questions
 
 ### What is the difference between a visa and a passport
@@ -5102,6 +5341,13 @@ Pick the one document from this list you haven't backed up yet, whether that's y
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
+Sources we checked (6 November 2026)
+
+- [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
+- [UK Foreign Office: South Africa entry requirements](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements)
+- [European Commission: Applying for a Schengen visa](https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en)
+- [World Health Organization: Travel and health](https://www.who.int/health-topics/travel-and-health)
+
 ## Frequently Asked Questions
 
 ### What travel documents do most people forget?
@@ -5257,6 +5503,10 @@ Built for personal use first. No accounts. Optional encrypted cloud backup (Pro)
 Mustafa
 
 Founder, Travel Document Vault
+
+Sources we checked (6 November 2026)
+
+- [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
 
 ## Related Articles
 

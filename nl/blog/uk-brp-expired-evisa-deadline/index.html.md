@@ -68,6 +68,14 @@ Heb je twee nationaliteiten, denk dan na over met welk paspoort je daadwerkelijk
 
 Heb je je paspoort verlengd, dan moet het nieuwe op je account staan voordat je ermee vliegt, en GOV.UK zegt dat je het paspoortnummer en de vervaldatum zelf op je account kunt bijwerken. Met een biometrisch paspoort kun je ook je naam en nationaliteit zelf bijwerken; voor al het andere moet UK Visas and Immigration de wijziging voor je doorvoeren. Moet je nog verlengen, dan behandelt onze gids over [een paspoort verlengen voordat het verloopt](https://traveldocumentvault.com/nl/blog/renew-passport-before-expiry/) wanneer je moet beginnen, en gaat het nieuwe paspoort direct op je account zodra het binnenkomt.
 
+Bronnen die we hebben gecontroleerd (6 november 2026)
+
+- [UK Government: eVisa, setting up a UKVI account](https://www.gov.uk/evisa/set-up-ukvi-account)
+- [UK Government: travelling with an eVisa](https://www.gov.uk/evisa/travel-with-evisa)
+- [UK Government: eVisa, what an eVisa is](https://www.gov.uk/evisa)
+- [UK Government: Biometric residence permits (BRPs)](https://www.gov.uk/biometric-residence-permits)
+- [UK Government: viewing your eVisa and getting a share code](https://www.gov.uk/evisa/view-evisa-get-share-code-prove-immigration-status)
+
 ## Veelgestelde vragen
 
 ### Heb ik een UKVI-account nodig als mijn BRP is verlopen?

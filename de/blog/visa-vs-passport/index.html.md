@@ -115,6 +115,14 @@ Visafreier Zugang hängt auch völlig von Ihrer Nationalität ab. Zwei zusammen 
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 
+Quellen, die wir geprüft haben (6. November 2026)
+
+- [European Commission: Schengen area](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en)
+- [European Commission: Short-stay calculator](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en)
+- [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
+- [UK Government: Visa to pass through the UK in transit](https://www.gov.uk/transit-visa)
+- [US CBP: Western Hemisphere Travel Initiative](https://www.cbp.gov/travel/us-citizens/western-hemisphere-travel-initiative)
+
 ## Häufig gestellte Fragen
 
 ### Was ist der Unterschied zwischen Visum und Reisepass

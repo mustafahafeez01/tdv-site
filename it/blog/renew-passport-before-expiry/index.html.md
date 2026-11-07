@@ -71,6 +71,17 @@ Se un viaggio in famiglia è all'orizzonte, allinea tutti i passaporti del nucle
 
 **Prima di fare affidamento su questo:** è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione potrebbe essere diversa. Controlliamo quello che pubblichiamo, ma possiamo comunque sbagliare o non essere aggiornati. Se qualcosa qui è importante per i tuoi piani, confermalo con l'autorità competente prima di agire.
 
+Fonti che abbiamo verificato (6 novembre 2026)
+
+- [USAGov: Renew an adult passport](https://www.usa.gov/renew-adult-passport)
+- [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)
+- [UK Foreign Office: Spain entry requirements](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements)
+- [UK Government: Historic passport information (accessible)](https://www.gov.uk/government/publications/historic-passport-information-caseworker-guidance/historic-passport-information-accessible)
+- [UK Government: HM Passport Office services](https://www.gov.uk/government/organisations/hm-passport-office/about/about-our-services)
+- [UK Government: Get an electronic travel authorisation (ETA) to visit the UK, Apply for an ETA](https://www.gov.uk/eta/apply)
+- [US CBP: Visa Waiver Program and ESTA frequently asked questions](https://www.cbp.gov/travel/international-visitors/esta/frequently-asked-questions-about-visa-waiver-program-vwp-and-electronic-system-travel)
+- [Your Europe (EU): Travel documents for non-EU nationals](https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm)
+
 ## Domande frequenti
 
 ### Puoi rinnovare un passaporto prima che scada?

@@ -70,6 +70,13 @@ Source: https://traveldocumentvault.com/ko/blog/proof-of-onward-travel/
 
 확인서는 오프라인 사본으로 보관하세요. PDF 파일, 예약 번호와 날짜가 보이는 스크린샷, 또는 연결 없이도 작동하는 앱 속의 사본이면 됩니다. Travel Document Vault는 항공권과 호텔 예약 내역을 기기에 암호화하여 오프라인으로 저장합니다. 신호가 있든 없든 카운터에서 바로 꺼내 보여줄 수 있습니다. 그 외에 준비해 둘 만한 것들은 [여행 서류 체크리스트](https://traveldocumentvault.com/ko/blog/travel-document-checklist/)에서 확인하세요.
 
+확인한 출처 (2026년 11월 6일)
+
+- [EU law: Schengen Borders Code (Regulation 2016/399)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0399)
+- [Immigration New Zealand: Visa Waiver Visitor Visa](https://www.immigration.govt.nz/visas/visa-waiver-visitor-visa/)
+- [Immigration New Zealand: Visitor Visa](https://www.immigration.govt.nz/visas/visitor-visa/)
+- [Immigration New Zealand: Onward travel requirements](https://www.immigration.govt.nz/opsmanual/50548.htm)
+
 ## 자주 묻는 질문
 
 ### 항공사가 실제로 인정하는 출국 예정 증빙은 무엇인가요?

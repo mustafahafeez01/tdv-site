@@ -85,6 +85,13 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/national-id-card-travel-eur
 
 今天就开始：把身份证拿出来，查看到期日期，再仔细看看有没有裂纹、褪色或塑料变形。如果已经处于临界状态，请先办理续换，再订行程。
 
+我们核对过的资料来源（2026年11月6日）
+
+- [Your Europe (EU): Travel documents for EU nationals](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm)
+- [EU law: Regulation 2019/1157 on identity cards](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1157)
+- [UK Government: Visiting the UK as an EU, EEA or Swiss citizen](https://www.gov.uk/guidance/visiting-the-uk-as-an-eu-eea-or-swiss-citizen)
+- [UK Foreign Office: Spain entry requirements](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements)
+
 ## 常见问题
 
 ### 什么是欧洲经济区国民身份证？

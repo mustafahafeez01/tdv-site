@@ -119,6 +119,17 @@ Deze bronnen geven de officiële vereiste aan, en of die geldt voor houders van 
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 
+Bronnen die we hebben gecontroleerd (6 november 2026)
+
+- [UK Foreign Office: USA entry requirements](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements)
+- [UK Foreign Office: France entry requirements](https://www.gov.uk/foreign-travel-advice/france/entry-requirements)
+- [UK Foreign Office: Australia entry requirements](https://www.gov.uk/foreign-travel-advice/australia/entry-requirements)
+- [UK Foreign Office: Japan entry requirements](https://www.gov.uk/foreign-travel-advice/japan/entry-requirements)
+- [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
+- [UK Foreign Office: Indonesia entry requirements](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements)
+- [UK Foreign Office: Turkey entry requirements](https://www.gov.uk/foreign-travel-advice/turkey/entry-requirements)
+- [UK Foreign Office: New Zealand entry requirements](https://www.gov.uk/foreign-travel-advice/new-zealand/entry-requirements)
+
 ## Veelgestelde vragen
 
 ### Kan ik reizen als mijn paspoort over minder dan 6 maanden verloopt?

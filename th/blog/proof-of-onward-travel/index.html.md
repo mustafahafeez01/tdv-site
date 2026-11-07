@@ -70,6 +70,13 @@ Source: https://traveldocumentvault.com/th/blog/proof-of-onward-travel/
 
 เก็บสำเนาใบยืนยันแบบออฟไลน์ไว้ ไม่ว่าจะเป็นไฟล์ PDF ภาพหน้าจอที่แสดงหมายเลขการจองและวันที่ หรือสำเนาในแอปที่ใช้งานได้โดยไม่ต้องเชื่อมต่ออินเทอร์เน็ต Travel Document Vault จัดเก็บตั๋วเครื่องบินและใบจองโรงแรมไว้บนอุปกรณ์ของคุณ เข้ารหัสไว้และเข้าถึงได้แบบออฟไลน์ ใบยืนยันจะอยู่ที่นั่นพร้อมใช้งานไม่ว่าคุณจะมีสัญญาณหรือไม่ก็ตาม ดูสิ่งอื่นๆ ที่ควรเตรียมให้พร้อมได้ในคู่มือ[รายการตรวจสอบเอกสารการเดินทาง](https://traveldocumentvault.com/th/blog/travel-document-checklist/)ของเรา
 
+แหล่งข้อมูลที่เราตรวจสอบ (6 พฤศจิกายน 2026)
+
+- [EU law: Schengen Borders Code (Regulation 2016/399)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0399)
+- [Immigration New Zealand: Visa Waiver Visitor Visa](https://www.immigration.govt.nz/visas/visa-waiver-visitor-visa/)
+- [Immigration New Zealand: Visitor Visa](https://www.immigration.govt.nz/visas/visitor-visa/)
+- [Immigration New Zealand: Onward travel requirements](https://www.immigration.govt.nz/opsmanual/50548.htm)
+
 ## คำถามที่พบบ่อย
 
 ### สายการบินยอมรับหลักฐานการเดินทางต่อแบบใดบ้าง

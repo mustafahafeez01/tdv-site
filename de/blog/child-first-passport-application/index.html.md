@@ -94,6 +94,14 @@ Sobald der Reisepass ausgestellt und bei Ihnen angekommen ist, nehmen Sie sich f
 
 Entdecken Sie einen Fehler, wenden Sie sich gleich an Ihre Passbehörde. Ob die Korrektur kostenlos ist, hängt davon ab, wer den Fehler gemacht hat; je länger Sie warten, desto schwieriger wird die Klärung. Sobald alles stimmt, legen Sie den Reisepass gleich in Ihre Dokumentenmappe, mit einer Notiz zum Ablaufdatum, damit die Erneuerung Sie nicht überrascht.
 
+Quellen, die wir geprüft haben (6. November 2026)
+
+- [UK Government: Get a passport photo, Digital photos](https://www.gov.uk/photos-for-passports)
+- [UK Government: applying for a first child passport](https://www.gov.uk/get-a-child-passport/first-child-passport)
+- [UK Government: countersigning passport applications and photos](https://www.gov.uk/countersigning-passport-applications)
+- [UK Government: How to correct errors on passports](https://www.gov.uk/government/publications/preventing-and-resolving-errors-on-passports/how-to-correct-errors-on-passports-accessible)
+- [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
+
 ## Häufig gestellte Fragen
 
 ### Wer muss der Passbeantragung für ein Kind zustimmen?

@@ -69,6 +69,10 @@ Med mere end et barn glider datoerne fra hinanden. Pas udstedt et par år fra hi
 
 Det, der gør forskellen, er at starte tidligt. Vi ville begynde omkring ni måneder, før et barns pas udløber: nok tid til at finde en tid begge forældre kan nå, få en eventuel notarpåtegnet erklæring underskrevet, og stadig have tid, hvis noget skal gøres om. Vores guide om [hvornår man skal forny et pas, før det udløber](https://traveldocumentvault.com/da/blog/renew-passport-before-expiry/) gennemgår tidsplanen mere detaljeret.
 
+Kilder vi har tjekket (6. november 2026)
+
+- [US eCFR: 22 CFR Part 51 (passports)](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-F/part-51)
+
 ## Ofte stillede spørgsmål
 
 ### Kan man forny et barns pas, hvis det blev udstedt før 16 år?

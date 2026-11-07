@@ -108,6 +108,10 @@ Tidak ada yang dramatis dari semua ini, dan justru itulah intinya. Keluarga yang
 
 **Sebelum Anda mengandalkan ini:** ini blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 
+Sumber yang kami periksa (6 November 2026)
+
+- [NIST: end-to-end encryption glossary entry](https://csrc.nist.gov/glossary/term/end_to_end_encryption)
+
 ## Pertanyaan yang Sering Diajukan
 
 ### Apa sebenarnya arti cadangan terenkripsi?

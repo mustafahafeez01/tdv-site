@@ -85,6 +85,13 @@ IDカードが拒否された場合、その後の選択肢は他に何を持っ
 
 今日のうちに、IDカードを取り出して有効期限を確認し、ひび割れや色あせ、プラスチックの反りがないか見ておきましょう。ぎりぎりの状態なら、旅行を予約する前に更新の手続きを済ませてください。
 
+確認した情報源（2026年11月6日）
+
+- [Your Europe (EU): Travel documents for EU nationals](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm)
+- [EU law: Regulation 2019/1157 on identity cards](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1157)
+- [UK Government: Visiting the UK as an EU, EEA or Swiss citizen](https://www.gov.uk/guidance/visiting-the-uk-as-an-eu-eea-or-swiss-citizen)
+- [UK Foreign Office: Spain entry requirements](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements)
+
 ## よくある質問
 
 ### EEA国民IDカードとは何ですか。

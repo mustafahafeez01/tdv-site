@@ -70,6 +70,13 @@ En booking, du ikke kan åbne, er lige så ubrugelig som ingen booking. Forespø
 
 Opbevar en offline kopi af bekræftelsen: en PDF, et skærmbillede med bookingreference og datoer, eller en kopi i en app, der virker uden forbindelse. Travel Document Vault gemmer flybilletter og hotelbookinger på din enhed, krypteret og tilgængelige offline. Bekræftelsen er der ved skranken, uanset om du har signal eller ej. Vores [tjekliste til rejsedokumenter](https://traveldocumentvault.com/da/blog/travel-document-checklist/) dækker resten af, hvad det er værd at have klar.
 
+Kilder vi har tjekket (6. november 2026)
+
+- [EU law: Schengen Borders Code (Regulation 2016/399)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0399)
+- [Immigration New Zealand: Visa Waiver Visitor Visa](https://www.immigration.govt.nz/visas/visa-waiver-visitor-visa/)
+- [Immigration New Zealand: Visitor Visa](https://www.immigration.govt.nz/visas/visitor-visa/)
+- [Immigration New Zealand: Onward travel requirements](https://www.immigration.govt.nz/opsmanual/50548.htm)
+
 ## Ofte stillede spørgsmål
 
 ### Hvilket bevis for videre rejse accepterer et flyselskab egentlig?

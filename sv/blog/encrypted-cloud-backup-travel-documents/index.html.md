@@ -108,6 +108,10 @@ Inget av det här är dramatiskt, och det är lite grann poängen. De familjer s
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 
+Källor vi har kontrollerat (6 november 2026)
+
+- [NIST: end-to-end encryption glossary entry](https://csrc.nist.gov/glossary/term/end_to_end_encryption)
+
 ## Vanliga frågor
 
 ### Vad betyder krypterad säkerhetskopiering egentligen?

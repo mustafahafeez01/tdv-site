@@ -75,6 +75,12 @@ Reisen Sie als Familie, prüfen Sie den Reisepass jedes Familienmitglieds einzel
 
 Bevor Sie buchen, lassen Sie Ihre gesamte Route, nicht nur das Reiseziel, durch das IATA Travel Centre laufen. Diese Prüfung deckt am ehesten eine fehlende Anforderung auf, solange Sie die Buchung noch ändern können.
 
+Quellen, die wir geprüft haben (6. November 2026)
+
+- [UK Government: Visa to pass through the UK in transit](https://www.gov.uk/transit-visa)
+- [EU law: Visa Code (Regulation 810/2009)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0810)
+- [UK Government: Visa to pass through the UK in transit, If you're going through border control (Visitor in Transit visa)](https://www.gov.uk/transit-visa/visitor-in-transit-visa)
+
 ## Häufig gestellte Fragen
 
 ### Was ist ein Transitvisum?

@@ -68,6 +68,14 @@ Jika Anda memiliki dua kewarganegaraan, pikirkan paspor mana yang akan Anda guna
 
 Jika Anda sudah memperpanjang paspor, paspor baru itu harus ditambahkan ke akun Anda sebelum Anda terbang dengannya, dan GOV.UK menyatakan Anda bisa memperbarui nomor paspor dan tanggal kedaluwarsa di akun Anda sendiri. Dengan paspor biometrik, Anda juga bisa memperbarui nama dan kewarganegaraan sendiri; perubahan lainnya harus dilakukan oleh UK Visas and Immigration. Jika Anda belum memperpanjang paspor, panduan kami tentang [memperpanjang paspor sebelum kedaluwarsa](https://traveldocumentvault.com/id/blog/renew-passport-before-expiry/) membahas kapan harus memulainya, dan paspor baru langsung ditambahkan ke akun Anda begitu sudah di tangan.
 
+Sumber yang kami periksa (6 November 2026)
+
+- [UK Government: eVisa, setting up a UKVI account](https://www.gov.uk/evisa/set-up-ukvi-account)
+- [UK Government: travelling with an eVisa](https://www.gov.uk/evisa/travel-with-evisa)
+- [UK Government: eVisa, what an eVisa is](https://www.gov.uk/evisa)
+- [UK Government: Biometric residence permits (BRPs)](https://www.gov.uk/biometric-residence-permits)
+- [UK Government: viewing your eVisa and getting a share code](https://www.gov.uk/evisa/view-evisa-get-share-code-prove-immigration-status)
+
 ## Pertanyaan yang Sering Diajukan
 
 ### Apakah saya perlu akun UKVI jika BRP saya sudah kedaluwarsa?

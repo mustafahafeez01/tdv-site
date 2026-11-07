@@ -93,6 +93,13 @@ UK ETA是目前多种数字旅行许可中的一种。如果您计划前往多�
 
 如果您已经订好了行程，今天就做这件事：对照出行日期检查护照的到期日，并确认您现有的ETA绑定的正是您实际要使用的那本护照。只要其中一项不够，就现在开始办理换发或重新申请，不要拖到出发前一周。
 
+我们核对过的资料来源（2026年11月6日）
+
+- [UK Government: Get an electronic travel authorisation (ETA) to visit the UK](https://www.gov.uk/eta)
+- [UK Government: Check your electronic travel authorisation (ETA)](https://www.gov.uk/check-eta)
+- [UK Government: No permission, no travel, UK set to enforce ETA scheme](https://www.gov.uk/government/news/no-permission-no-travel-uk-set-to-enforce-eta-scheme)
+- [EU travel: ETIAS](https://travel-europe.europa.eu/en/etias)
+
 ## 常见问题
 
 ### 什么是UK ETA？

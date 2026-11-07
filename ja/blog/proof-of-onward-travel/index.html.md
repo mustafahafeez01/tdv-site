@@ -70,6 +70,13 @@ Source: https://traveldocumentvault.com/ja/blog/proof-of-onward-travel/
 
 確認書のオフラインコピーを用意しておきましょう。PDF、予約番号と日付が分かるスクリーンショット、あるいは接続なしで使えるアプリ内のコピーなどです。Travel Document Vaultは航空券とホテル予約を端末上に暗号化して保存し、オフラインでアクセスできます。電波があるかどうかにかかわらず、カウンターで確認書を提示できます。用意しておく価値があるその他の書類については、[渡航書類チェックリスト](https://traveldocumentvault.com/ja/blog/travel-document-checklist/)のガイドをご覧ください。
 
+確認した情報源（2026年11月6日）
+
+- [EU law: Schengen Borders Code (Regulation 2016/399)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0399)
+- [Immigration New Zealand: Visa Waiver Visitor Visa](https://www.immigration.govt.nz/visas/visa-waiver-visitor-visa/)
+- [Immigration New Zealand: Visitor Visa](https://www.immigration.govt.nz/visas/visitor-visa/)
+- [Immigration New Zealand: Onward travel requirements](https://www.immigration.govt.nz/opsmanual/50548.htm)
+
 ## よくある質問
 
 ### 航空会社が実際に受け入れる出国手段の証明とは何ですか。

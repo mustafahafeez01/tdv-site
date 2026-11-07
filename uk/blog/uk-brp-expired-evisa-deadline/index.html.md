@@ -68,6 +68,14 @@ GOV.UK прямо каже про це: подорожувати потрібн�
 
 Якщо ви поновили паспорт, новий потрібно додати до облікового запису, перш ніж летіти з ним, і GOV.UK повідомляє, що номер паспорта та дату закінчення строку дії в обліковому записі можна оновити самостійно. З біометричним паспортом ви також можете самостійно оновити ім'я та громадянство; усе інше має змінити UK Visas and Immigration замість вас. Якщо поновлення ще попереду, наш матеріал про [поновлення паспорта до завершення строку дії](https://traveldocumentvault.com/uk/blog/renew-passport-before-expiry/) розповідає, коли починати, а новий паспорт одразу можна додати до облікового запису, щойно він прибуде.
 
+Джерела, які ми перевірили (6 листопада 2026 р.)
+
+- [UK Government: eVisa, setting up a UKVI account](https://www.gov.uk/evisa/set-up-ukvi-account)
+- [UK Government: travelling with an eVisa](https://www.gov.uk/evisa/travel-with-evisa)
+- [UK Government: eVisa, what an eVisa is](https://www.gov.uk/evisa)
+- [UK Government: Biometric residence permits (BRPs)](https://www.gov.uk/biometric-residence-permits)
+- [UK Government: viewing your eVisa and getting a share code](https://www.gov.uk/evisa/view-evisa-get-share-code-prove-immigration-status)
+
 ## Часті запитання
 
 ### Чи потрібен мені обліковий запис UKVI, якщо мій BRP прострочено?

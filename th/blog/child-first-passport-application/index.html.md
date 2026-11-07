@@ -94,6 +94,14 @@ Source: https://traveldocumentvault.com/th/blog/child-first-passport-application
 
 หากพบข้อผิดพลาดใดๆ ให้ติดต่อหน่วยงานออกพาสปอร์ตทันทีที่พบ การแก้ไขจะไม่มีค่าใช้จ่ายหรือไม่นั้นขึ้นอยู่กับว่าใครเป็นฝ่ายทำผิด และยิ่งปล่อยไว้นาน ขั้นตอนการแก้ไขก็จะยิ่งซับซ้อนขึ้น เมื่อทุกอย่างถูกต้องแล้ว ให้เก็บพาสปอร์ตเข้าแฟ้มเอกสารทันที พร้อมจดวันหมดอายุไว้ เพื่อที่การต่ออายุจะไม่มาถึงโดยที่คุณไม่ทันตั้งตัว
 
+แหล่งข้อมูลที่เราตรวจสอบ (6 พฤศจิกายน 2026)
+
+- [UK Government: Get a passport photo, Digital photos](https://www.gov.uk/photos-for-passports)
+- [UK Government: applying for a first child passport](https://www.gov.uk/get-a-child-passport/first-child-passport)
+- [UK Government: countersigning passport applications and photos](https://www.gov.uk/countersigning-passport-applications)
+- [UK Government: How to correct errors on passports](https://www.gov.uk/government/publications/preventing-and-resolving-errors-on-passports/how-to-correct-errors-on-passports-accessible)
+- [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
+
 ## คำถามที่พบบ่อย
 
 ### ใครต้องยินยอมในการสมัครพาสปอร์ตของเด็ก

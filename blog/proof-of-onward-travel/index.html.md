@@ -70,6 +70,13 @@ A booking you can't open is as unhelpful as no booking at all. The request tends
 
 Keep an offline copy of the confirmation: a PDF, a screenshot showing the booking reference and dates, or a copy in an app that works without a connection. Travel Document Vault stores airline tickets and hotel bookings on your device, encrypted and available offline. The confirmation is there at the desk whether or not you have signal. Our [travel document checklist](https://traveldocumentvault.com/blog/travel-document-checklist/) covers the rest of what's worth having ready.
 
+Sources we checked (6 November 2026)
+
+- [EU law: Schengen Borders Code (Regulation 2016/399)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0399)
+- [Immigration New Zealand: Visa Waiver Visitor Visa](https://www.immigration.govt.nz/visas/visa-waiver-visitor-visa/)
+- [Immigration New Zealand: Visitor Visa](https://www.immigration.govt.nz/visas/visitor-visa/)
+- [Immigration New Zealand: Onward travel requirements](https://www.immigration.govt.nz/opsmanual/50548.htm)
+
 ## Frequently Asked Questions
 
 ### What proof of onward travel does an airline actually accept?

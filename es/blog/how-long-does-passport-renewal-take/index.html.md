@@ -111,6 +111,11 @@ Saca hoy tu propio pasaporte y comprueba cuántos meses le quedan realmente fren
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 
+Fuentes que hemos comprobado (6 de noviembre de 2026)
+
+- [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
+- [Government of Canada: Renew an adult passport](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html)
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto tiempo tarda la renovación de pasaporte en EE.UU.?

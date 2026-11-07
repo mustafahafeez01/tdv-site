@@ -125,6 +125,11 @@ Source: https://traveldocumentvault.com/ru/blog/passport-photo-at-home/
 
 **Прежде чем полагаться на это:** это блог, а не официальный источник. Правила и детали меняются, и ваша ситуация может отличаться. Мы проверяем то, что публикуем, и всё равно можем ошибиться или устареть. Если что-то здесь важно для ваших планов, уточните это в ответственном ведомстве, прежде чем действовать.
 
+Источники, которые мы проверили (6 ноября 2026 г.)
+
+- [UK Government: Get a passport photo, Digital photos](https://www.gov.uk/photos-for-passports)
+- [Government of Canada: Passport photo requirements](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/photos.html)
+
 ## Часто задаваемые вопросы
 
 ### Можно ли сделать фото на паспорт на смартфон?

@@ -70,6 +70,13 @@ Pemesanan yang tidak bisa Anda buka sama tidak bergunanya dengan tidak memiliki 
 
 Simpan salinan offline dari konfirmasinya: PDF, tangkapan layar yang menunjukkan nomor referensi dan tanggal, atau salinan di aplikasi yang bekerja tanpa koneksi. Travel Document Vault menyimpan tiket penerbangan dan reservasi hotel Anda di perangkat, terenkripsi dan tersedia secara offline. Konfirmasinya tetap ada di meja check-in, ada sinyal atau tidak. Lihat [daftar periksa dokumen perjalanan](https://traveldocumentvault.com/id/blog/travel-document-checklist/) kami untuk hal lain yang perlu Anda siapkan.
 
+Sumber yang kami periksa (6 November 2026)
+
+- [EU law: Schengen Borders Code (Regulation 2016/399)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0399)
+- [Immigration New Zealand: Visa Waiver Visitor Visa](https://www.immigration.govt.nz/visas/visa-waiver-visitor-visa/)
+- [Immigration New Zealand: Visitor Visa](https://www.immigration.govt.nz/visas/visitor-visa/)
+- [Immigration New Zealand: Onward travel requirements](https://www.immigration.govt.nz/opsmanual/50548.htm)
+
 ## Pertanyaan yang Sering Diajukan
 
 ### Bukti perjalanan lanjutan seperti apa yang sebenarnya diterima maskapai?

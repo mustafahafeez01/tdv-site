@@ -84,6 +84,11 @@ Notre [liste de contrôle des documents de voyage](https://traveldocumentvault.c
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
+Sources vérifiées (6 novembre 2026)
+
+- [UK Government: Get permission to take a child abroad](https://www.gov.uk/permission-take-child-abroad)
+- [EU law: Directive 2001/51 on carrier responsibilities](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001L0051)
+
 ## Questions fréquemment posées
 
 ### Ai-je besoin d'une lettre de consentement si j'ai la garde exclusive de mon enfant ?

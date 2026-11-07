@@ -102,6 +102,13 @@ Source: https://traveldocumentvault.com/uk/blog/international-driving-permit-val
 
 **Перш ніж покладатися на це:** це блог, а не офіційне джерело. Правила та деталі змінюються, а ваша ситуація може бути іншою. Ми перевіряємо те, що публікуємо, і все одно можемо помилятися або застаріти. Якщо щось тут важливе для ваших планів, уточніть це у відповідальному органі, перш ніж діяти.
 
+Джерела, які ми перевірили (6 листопада 2026 р.)
+
+- [United Nations Treaty Collection: Convention on Road Traffic (1968)](https://treaties.un.org/doc/Treaties/1977/05/19770524%2000-13%20AM/Ch_XI_B_19.pdf)
+- [UK Government: driving abroad, international driving permits](https://www.gov.uk/driving-abroad/international-driving-permit)
+- [Government of Canada: International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
+- [UK Government: Driving abroad](https://www.gov.uk/driving-abroad)
+
 ## Часто задавані запитання
 
 ### Чи потрібне мені міжнародне водійське посвідчення?

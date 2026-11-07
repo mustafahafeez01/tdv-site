@@ -93,6 +93,17 @@ Persetujuan berarti Anda memenuhi syarat untuk bepergian di bawah program bebas 
 
 **Sebelum Anda mengandalkan ini:** ini adalah blog, bukan sumber resmi. Aturan dan detailnya bisa berubah, dan situasi Anda mungkin berbeda. Kami memeriksa apa yang kami terbitkan, tetapi kami tetap bisa salah atau informasinya sudah usang. Jika ada hal di sini yang penting bagi rencana Anda, konfirmasikan dengan otoritas yang menanganinya sebelum Anda bertindak.
 
+Sumber yang kami periksa (6 November 2026)
+
+- [US CBP: Visa Waiver Program and ESTA frequently asked questions](https://www.cbp.gov/travel/international-visitors/esta/frequently-asked-questions-about-visa-waiver-program-vwp-and-electronic-system-travel)
+- [US CBP: Electronic System for Travel Authorization (ESTA)](https://www.cbp.gov/travel/international-visitors/esta)
+- [US Federal Register: Notice of 1 October 2026](https://www.govinfo.gov/content/pkg/FR-2026-10-01/html/2026-20185.htm)
+- [US CBP: Visa Waiver Program](https://www.cbp.gov/travel/international-visitors/visa-waiver-program)
+- [US DHS: Visa Waiver Program](https://www.dhs.gov/visa-waiver-program)
+- [US CBP: CBP Reminds Travelers to Allow 72 Hours for ESTA](https://www.cbp.gov/newsroom/national-media-release/cbp-reminds-travelers-allow-72-hours-esta)
+- [US CBP: CBP Warns Against Third-Party Site Use for ESTA Applications](https://www.cbp.gov/newsroom/national-media-release/cbp-warns-against-third-party-site-use-esta-applications)
+- [US CBP: ESTA frequently asked questions](https://esta.cbp.dhs.gov/faq)
+
 ## Pertanyaan yang Sering Diajukan
 
 ### Berapa lama ESTA berlaku?

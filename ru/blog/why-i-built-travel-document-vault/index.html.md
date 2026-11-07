@@ -118,6 +118,10 @@ Mustafa
 
 Основатель, Travel Document Vault
 
+Источники, которые мы проверили (6 ноября 2026 г.)
+
+- [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
+
 ## Связанные статьи
 
 [Правила паспорта7 мин чтения · 1 февр. 2026Правило 6 месяцев действия паспорта: в каких странах оно применяется](https://traveldocumentvault.com/ru/blog/passport-expiry-6-month-rule/)

@@ -94,6 +94,14 @@ Assim que o passaporte for emitido e entregue, dedique cinco minutos a verificá
 
 Se algo estiver errado, contacte o serviço de passaportes o mais rápido possível. A gratuitidade da correção depende de quem cometeu o erro, e quanto mais tempo deixar passar, mais complicado se torna o processo. Quando estiver tudo certo, guarde logo o passaporte na pasta dos seus documentos, com uma nota da data de validade, para que a renovação não o apanhe de surpresa.
 
+Fontes que verificámos (6 de novembro de 2026)
+
+- [UK Government: Get a passport photo, Digital photos](https://www.gov.uk/photos-for-passports)
+- [UK Government: applying for a first child passport](https://www.gov.uk/get-a-child-passport/first-child-passport)
+- [UK Government: countersigning passport applications and photos](https://www.gov.uk/countersigning-passport-applications)
+- [UK Government: How to correct errors on passports](https://www.gov.uk/government/publications/preventing-and-resolving-errors-on-passports/how-to-correct-errors-on-passports-accessible)
+- [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
+
 ## Perguntas Frequentes
 
 ### Quem tem de consentir o pedido de passaporte de uma criança?

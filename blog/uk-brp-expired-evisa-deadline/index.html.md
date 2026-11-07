@@ -68,6 +68,14 @@ If you hold two nationalities, think about which passport you'll actually book w
 
 If you've renewed your passport, the new one needs to go on your account before you fly with it, and GOV.UK says you can update the passport number and expiry date on your account yourself. With a biometric passport you can also update your name and nationality yourself; anything else needs UK Visas and Immigration to make the change for you. If renewal is still ahead of you, our guide to [renewing your passport before it expires](https://traveldocumentvault.com/blog/renew-passport-before-expiry/) covers when to start, and the new passport goes straight onto your account once it arrives.
 
+Sources we checked (6 November 2026)
+
+- [UK Government: eVisa, setting up a UKVI account](https://www.gov.uk/evisa/set-up-ukvi-account)
+- [UK Government: travelling with an eVisa](https://www.gov.uk/evisa/travel-with-evisa)
+- [UK Government: eVisa, what an eVisa is](https://www.gov.uk/evisa)
+- [UK Government: Biometric residence permits (BRPs)](https://www.gov.uk/biometric-residence-permits)
+- [UK Government: viewing your eVisa and getting a share code](https://www.gov.uk/evisa/view-evisa-get-share-code-prove-immigration-status)
+
 ## Frequently Asked Questions
 
 ### Do I need a UKVI account if my BRP has expired?

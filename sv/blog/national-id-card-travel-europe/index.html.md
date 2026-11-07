@@ -85,6 +85,13 @@ Det som hjälper är en enda plats för båda handlingarna, som sparar varje utg
 
 Börja i dag: ta fram ditt ID-kort, kontrollera utgångsdatumet och titta efter sprickor, blekt tryck eller skev plast. Är det på gränsen, boka förnyelsen innan du bokar resan.
 
+Källor vi har kontrollerat (6 november 2026)
+
+- [Your Europe (EU): Travel documents for EU nationals](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm)
+- [EU law: Regulation 2019/1157 on identity cards](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1157)
+- [UK Government: Visiting the UK as an EU, EEA or Swiss citizen](https://www.gov.uk/guidance/visiting-the-uk-as-an-eu-eea-or-swiss-citizen)
+- [UK Foreign Office: Spain entry requirements](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements)
+
 ## Vanliga frågor
 
 ### Vad är ett nationellt EES-ID-kort?

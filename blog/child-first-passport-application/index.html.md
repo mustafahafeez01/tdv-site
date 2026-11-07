@@ -94,6 +94,14 @@ Once the passport is issued and delivered to you, spend five minutes checking it
 
 If anything is wrong, contact your passport office as soon as you spot it. Whether a correction is free depends on who made the error, and it gets harder to sort out the longer you leave it. Once everything checks out, put the passport straight into your documents folder with a note of the expiry date, so renewal doesn't catch you by surprise.
 
+Sources we checked (6 November 2026)
+
+- [UK Government: Get a passport photo, Digital photos](https://www.gov.uk/photos-for-passports)
+- [UK Government: applying for a first child passport](https://www.gov.uk/get-a-child-passport/first-child-passport)
+- [UK Government: countersigning passport applications and photos](https://www.gov.uk/countersigning-passport-applications)
+- [UK Government: How to correct errors on passports](https://www.gov.uk/government/publications/preventing-and-resolving-errors-on-passports/how-to-correct-errors-on-passports-accessible)
+- [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
+
 ## Frequently Asked Questions
 
 ### Who must consent to a child's passport application?

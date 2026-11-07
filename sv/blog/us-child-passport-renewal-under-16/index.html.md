@@ -69,6 +69,10 @@ Med fler än ett barn glider datumen isär. Pass som utfärdas med några års m
 
 Det som gör skillnaden är att börja tidigt. Vi skulle börja omkring nio månader innan ett barns pass går ut: tillräckligt med tid för att hitta en tid båda föräldrarna kan komma till, få en eventuell bevittnad förklaring undertecknad, och fortfarande ha tid om något behöver göras om. Vårt inlägg om [när man ska förnya ett pass innan det går ut](https://traveldocumentvault.com/sv/blog/renew-passport-before-expiry/) går igenom tidsplaneringen mer i detalj.
 
+Källor vi har kontrollerat (6 november 2026)
+
+- [US eCFR: 22 CFR Part 51 (passports)](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-F/part-51)
+
 ## Vanliga frågor
 
 ### Kan man förnya ett barns pass om det utfärdades före 16 år?

@@ -69,6 +69,10 @@ Mit mehreren Kindern laufen die Termine auseinander. Pässe, die einige Jahre au
 
 Entscheidend ist der frühe Start. Wir würden etwa neun Monate vor Ablauf des Kinderreisepasses beginnen: genug Zeit, um einen Termin zu finden, den beide Eltern wahrnehmen können, eine mögliche notariell beglaubigte Erklärung unterschreiben zu lassen, und noch Zeit zu haben, falls etwas wiederholt werden muss. Unser Beitrag dazu, [wann man einen Reisepass vor Ablauf erneuert](https://traveldocumentvault.com/de/blog/renew-passport-before-expiry/), geht genauer auf diesen Zeitplan ein.
 
+Quellen, die wir geprüft haben (6. November 2026)
+
+- [US eCFR: 22 CFR Part 51 (passports)](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-F/part-51)
+
 ## Häufig gestellte Fragen
 
 ### Kann man den Reisepass eines Kindes verlängern, wenn er vor dem 16. Geburtstag ausgestellt wurde?

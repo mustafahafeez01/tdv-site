@@ -89,6 +89,15 @@ Source: https://traveldocumentvault.com/th/blog/digital-passport-copy-valid/
 
 **ก่อนจะเชื่อตามบทความนี้:** นี่คือบล็อก ไม่ใช่แหล่งข้อมูลทางการ กฎและรายละเอียดเปลี่ยนแปลงได้ และสถานการณ์ของคุณอาจต่างออกไป เราตรวจสอบสิ่งที่เผยแพร่ แต่ก็ยังอาจผิดพลาดหรือล้าสมัยได้ หากเรื่องใดในนี้สำคัญต่อแผนของคุณ โปรดยืนยันกับหน่วยงานที่รับผิดชอบก่อนลงมือ
 
+แหล่งข้อมูลที่เราตรวจสอบ (6 พฤศจิกายน 2026)
+
+- [Government of Canada: Lost or stolen belongings abroad](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings)
+- [UK Government: Foreign travel checklist](https://www.gov.uk/guidance/foreign-travel-checklist)
+- [US TSA: Digital ID and facial comparison](https://www.tsa.gov/digital-id)
+- [Your Europe (EU): Travel documents for EU nationals](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm)
+- [UK Government: Travel urgently from abroad without your UK passport, Who can apply](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport)
+- [Government of India: e-Visa](https://indianvisaonline.gov.in/evisa/tvoa.html)
+
 ## คำถามที่พบบ่อย
 
 ### สำเนาพาสปอร์ตดิจิทัลคืออะไร

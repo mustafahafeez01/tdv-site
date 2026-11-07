@@ -69,6 +69,10 @@ Source: https://traveldocumentvault.com/ja/blog/us-child-passport-renewal-under-
 
 差がつくのは早く始めることです。子どものパスポートの期限の約9か月前から準備を始めれば、両親が参加できる予約日を見つけ、必要な公証された声明書に署名してもらい、やり直しが必要になった場合の余裕も確保できます。タイミングについては[パスポートを期限切れ前に更新する](https://traveldocumentvault.com/ja/blog/renew-passport-before-expiry/)についての記事で詳しく解説しています。
 
+確認した情報源（2026年11月6日）
+
+- [US eCFR: 22 CFR Part 51 (passports)](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-F/part-51)
+
 ## よくある質問
 
 ### 16歳になる前に発行されたパスポートは更新できますか。

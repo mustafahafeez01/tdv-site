@@ -118,6 +118,10 @@ Mustafa
 
 Pendiri, Travel Document Vault
 
+Sumber yang kami periksa (6 November 2026)
+
+- [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
+
 ## Artikel Terkait
 
 [Aturan Paspor7 mnt baca · 1 Feb 2026Aturan Paspor 6 Bulan: Negara Mana Saja yang Menerapkannya](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/)

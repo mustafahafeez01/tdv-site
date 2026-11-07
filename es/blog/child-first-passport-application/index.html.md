@@ -94,6 +94,14 @@ Una vez que te llegue el pasaporte ya expedido, dedica cinco minutos a revisarlo
 
 Si algo está mal, ponte en contacto con tu oficina de pasaportes en cuanto lo detectes. Que la corrección sea gratuita depende de quién haya cometido el error, y cuanto más tiempo pase, más complicado se vuelve el proceso. Cuando todo esté en orden, guarda el pasaporte enseguida en tu carpeta de documentos con una nota de la fecha de caducidad, para que la renovación no te pille por sorpresa.
 
+Fuentes que hemos comprobado (6 de noviembre de 2026)
+
+- [UK Government: Get a passport photo, Digital photos](https://www.gov.uk/photos-for-passports)
+- [UK Government: applying for a first child passport](https://www.gov.uk/get-a-child-passport/first-child-passport)
+- [UK Government: countersigning passport applications and photos](https://www.gov.uk/countersigning-passport-applications)
+- [UK Government: How to correct errors on passports](https://www.gov.uk/government/publications/preventing-and-resolving-errors-on-passports/how-to-correct-errors-on-passports-accessible)
+- [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
+
 ## Preguntas Frecuentes
 
 ### ¿Quién debe dar su consentimiento a la solicitud de pasaporte de un menor?

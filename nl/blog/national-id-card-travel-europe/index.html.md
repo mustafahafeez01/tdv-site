@@ -83,6 +83,13 @@ Wat helpt, is één plek voor beide documenten, die elke vervaldatum bewaart en 
 
 Begin vandaag: pak je identiteitskaart erbij, controleer de vervaldatum en kijk of er barsten, vervaging of een kromgetrokken kaart te zien zijn. Zit hij op het randje, boek dan de verlenging voordat je de reis boekt.
 
+Bronnen die we hebben gecontroleerd (6 november 2026)
+
+- [Your Europe (EU): Travel documents for EU nationals](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm)
+- [EU law: Regulation 2019/1157 on identity cards](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1157)
+- [UK Government: Visiting the UK as an EU, EEA or Swiss citizen](https://www.gov.uk/guidance/visiting-the-uk-as-an-eu-eea-or-swiss-citizen)
+- [UK Foreign Office: Spain entry requirements](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements)
+
 ## Veelgestelde vragen
 
 ### Wat is een nationale EER-identiteitskaart?

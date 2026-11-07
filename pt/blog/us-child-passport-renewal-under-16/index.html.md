@@ -69,6 +69,10 @@ Com mais do que um filho, as datas vão-se afastando. Passaportes emitidos com a
 
 O que faz a diferença é começar com antecedência. Começaríamos cerca de nove meses antes de o passaporte de uma criança expirar: tempo suficiente para encontrar uma marcação a que ambos os pais consigam ir, obter qualquer declaração com reconhecimento notarial assinada, e ainda ter tempo se algo precisar de ser refeito. O nosso guia sobre [quando renovar um passaporte antes de expirar](https://traveldocumentvault.com/pt/blog/renew-passport-before-expiry/) detalha melhor os prazos.
 
+Fontes que verificámos (6 de novembro de 2026)
+
+- [US eCFR: 22 CFR Part 51 (passports)](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-F/part-51)
+
 ## Perguntas frequentes
 
 ### Pode renovar o passaporte de uma criança se foi emitido antes dos 16 anos?

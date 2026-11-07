@@ -89,6 +89,15 @@ Si vous n'en avez pas encore fait, scannez dès aujourd'hui la page photo de vot
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
+Sources vérifiées (6 novembre 2026)
+
+- [Government of Canada: Lost or stolen belongings abroad](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings)
+- [UK Government: Foreign travel checklist](https://www.gov.uk/guidance/foreign-travel-checklist)
+- [US TSA: Digital ID and facial comparison](https://www.tsa.gov/digital-id)
+- [Your Europe (EU): Travel documents for EU nationals](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm)
+- [UK Government: Travel urgently from abroad without your UK passport, Who can apply](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport)
+- [Government of India: e-Visa](https://indianvisaonline.gov.in/evisa/tvoa.html)
+
 ## Questions fréquemment posées
 
 ### Qu'est-ce qu'une copie numérique de passeport ?

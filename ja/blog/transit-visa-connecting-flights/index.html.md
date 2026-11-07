@@ -75,6 +75,12 @@ Source: https://traveldocumentvault.com/ja/blog/transit-visa-connecting-flights/
 
 予約する前に、目的地だけでなく全ルートをIATA Travel Centreで確認してください。予約を変更できるうちに、足りない要件を見つけられる可能性がいちばん高いのがこの確認です。
 
+確認した情報源（2026年11月6日）
+
+- [UK Government: Visa to pass through the UK in transit](https://www.gov.uk/transit-visa)
+- [EU law: Visa Code (Regulation 810/2009)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0810)
+- [UK Government: Visa to pass through the UK in transit, If you're going through border control (Visitor in Transit visa)](https://www.gov.uk/transit-visa/visitor-in-transit-visa)
+
 ## よくある質問
 
 ### トランジットビザとは何ですか。

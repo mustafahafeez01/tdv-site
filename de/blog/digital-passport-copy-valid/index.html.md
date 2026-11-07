@@ -89,6 +89,15 @@ Falls Sie noch keine Kopie angelegt haben, scannen Sie die Fotoseite Ihres Reise
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 
+Quellen, die wir geprüft haben (6. November 2026)
+
+- [Government of Canada: Lost or stolen belongings abroad](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings)
+- [UK Government: Foreign travel checklist](https://www.gov.uk/guidance/foreign-travel-checklist)
+- [US TSA: Digital ID and facial comparison](https://www.tsa.gov/digital-id)
+- [Your Europe (EU): Travel documents for EU nationals](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm)
+- [UK Government: Travel urgently from abroad without your UK passport, Who can apply](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport)
+- [Government of India: e-Visa](https://indianvisaonline.gov.in/evisa/tvoa.html)
+
 ## Häufig gestellte Fragen
 
 ### Was ist eine digitale Kopie eines Reisepasses?

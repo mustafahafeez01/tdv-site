@@ -86,6 +86,10 @@ Si vous ne l'avez pas encore fait, commencez dès aujourd'hui : scannez la page 
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
+Sources vérifiées (6 novembre 2026)
+
+- [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
+
 ## Questions fréquemment posées
 
 ### Quel est le meilleur moyen de stocker plusieurs passeports familiaux

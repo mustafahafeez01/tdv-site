@@ -85,6 +85,13 @@ Source: https://traveldocumentvault.com/ru/blog/national-id-card-travel-europe/
 
 Начните сегодня: достаньте удостоверение личности, проверьте срок действия и осмотрите карту на предмет трещин, выцветания или покоробленного пластика. Если ситуация пограничная, оформите продление раньше, чем забронируете поездку.
 
+Источники, которые мы проверили (6 ноября 2026 г.)
+
+- [Your Europe (EU): Travel documents for EU nationals](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm)
+- [EU law: Regulation 2019/1157 on identity cards](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1157)
+- [UK Government: Visiting the UK as an EU, EEA or Swiss citizen](https://www.gov.uk/guidance/visiting-the-uk-as-an-eu-eea-or-swiss-citizen)
+- [UK Foreign Office: Spain entry requirements](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements)
+
 ## Часто задаваемые вопросы
 
 ### Что такое национальное удостоверение личности ЕЭЗ?

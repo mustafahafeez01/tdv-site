@@ -94,6 +94,14 @@ Setelah paspor diterbitkan dan sampai ke tangan Anda, luangkan lima menit untuk 
 
 Jika ada yang salah, hubungi kantor paspor Anda begitu menyadarinya. Biaya perbaikan bergantung pada pihak yang membuat kesalahan, dan semakin lama dibiarkan, semakin sulit mengurusnya. Setelah semuanya beres, simpan paspor langsung di folder dokumen Anda beserta catatan tanggal kedaluwarsanya, agar perpanjangan tidak datang sebagai kejutan.
 
+Sumber yang kami periksa (6 November 2026)
+
+- [UK Government: Get a passport photo, Digital photos](https://www.gov.uk/photos-for-passports)
+- [UK Government: applying for a first child passport](https://www.gov.uk/get-a-child-passport/first-child-passport)
+- [UK Government: countersigning passport applications and photos](https://www.gov.uk/countersigning-passport-applications)
+- [UK Government: How to correct errors on passports](https://www.gov.uk/government/publications/preventing-and-resolving-errors-on-passports/how-to-correct-errors-on-passports-accessible)
+- [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
+
 ## Pertanyaan yang Sering Diajukan
 
 ### Siapa yang harus menyetujui permohonan paspor anak?

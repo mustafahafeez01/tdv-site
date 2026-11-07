@@ -85,6 +85,13 @@ ID 카드가 거부되면 다른 무엇을 소지하고 있는지에 따라 선�
 
 오늘 바로 ID 카드를 꺼내 만료일을 확인하고, 갈라짐이나 색 바램, 휜 플라스틱이 없는지 살펴보세요. 아슬아슬하다면 여행을 예약하기 전에 갱신부터 신청하세요.
 
+확인한 출처 (2026년 11월 6일)
+
+- [Your Europe (EU): Travel documents for EU nationals](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm)
+- [EU law: Regulation 2019/1157 on identity cards](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1157)
+- [UK Government: Visiting the UK as an EU, EEA or Swiss citizen](https://www.gov.uk/guidance/visiting-the-uk-as-an-eu-eea-or-swiss-citizen)
+- [UK Foreign Office: Spain entry requirements](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements)
+
 ## 자주 묻는 질문
 
 ### EEA 국민 ID 카드란 무엇인가요?

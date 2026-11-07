@@ -69,6 +69,10 @@ Source: https://traveldocumentvault.com/ko/blog/us-child-passport-renewal-under-
 
 차이를 만드는 것은 일찍 시작하는 것입니다. 아이의 여권이 만료되기 약 9개월 전에 시작하면, 부모 모두 참석할 수 있는 예약을 찾고 필요한 공증 진술서에 서명을 받을 시간이 충분하며, 다시 해야 할 일이 생겨도 여유가 있습니다. 시기에 관해서는 [여권, 만료 전에 갱신해도 될까요?](https://traveldocumentvault.com/ko/blog/renew-passport-before-expiry/) 글에서 더 자세히 다룹니다.
 
+확인한 출처 (2026년 11월 6일)
+
+- [US eCFR: 22 CFR Part 51 (passports)](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-F/part-51)
+
 ## 자주 묻는 질문
 
 ### 16세가 되기 전에 발급된 여권을 갱신할 수 있나요?

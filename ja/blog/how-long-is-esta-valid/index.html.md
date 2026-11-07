@@ -93,6 +93,17 @@ CBPによると、何歳の子どもでも自分自身のESTA承認が必要で�
 
 **この記事に頼る前に:** これはブログであり、公式な情報源ではありません。ルールや詳細は変わりますし、あなたの状況は異なるかもしれません。私たちは公開する内容を確認していますが、それでも誤りがあったり情報が古くなっている可能性があります。ここに書かれていることが自分の計画に関わる場合は、行動する前に担当する当局に確認してください。
 
+確認した情報源（2026年11月6日）
+
+- [US CBP: Visa Waiver Program and ESTA frequently asked questions](https://www.cbp.gov/travel/international-visitors/esta/frequently-asked-questions-about-visa-waiver-program-vwp-and-electronic-system-travel)
+- [US CBP: Electronic System for Travel Authorization (ESTA)](https://www.cbp.gov/travel/international-visitors/esta)
+- [US Federal Register: Notice of 1 October 2026](https://www.govinfo.gov/content/pkg/FR-2026-10-01/html/2026-20185.htm)
+- [US CBP: Visa Waiver Program](https://www.cbp.gov/travel/international-visitors/visa-waiver-program)
+- [US DHS: Visa Waiver Program](https://www.dhs.gov/visa-waiver-program)
+- [US CBP: CBP Reminds Travelers to Allow 72 Hours for ESTA](https://www.cbp.gov/newsroom/national-media-release/cbp-reminds-travelers-allow-72-hours-esta)
+- [US CBP: CBP Warns Against Third-Party Site Use for ESTA Applications](https://www.cbp.gov/newsroom/national-media-release/cbp-warns-against-third-party-site-use-esta-applications)
+- [US CBP: ESTA frequently asked questions](https://esta.cbp.dhs.gov/faq)
+
 ## よくある質問
 
 ### ESTAの有効期限はどのくらいですか。

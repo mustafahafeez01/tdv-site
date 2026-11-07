@@ -85,6 +85,13 @@ Hilfreich ist ein einziger Ort für beide Dokumente: einer, der jedes Ablaufdatu
 
 Fangen Sie heute an: Holen Sie Ihren Personalausweis hervor, prüfen Sie das Ablaufdatum und sehen Sie ihn auf Risse, Verblassen oder verzogenen Kunststoff durch. Wenn es knapp ist, beantragen Sie die Erneuerung, bevor Sie die Reise buchen.
 
+Quellen, die wir geprüft haben (6. November 2026)
+
+- [Your Europe (EU): Travel documents for EU nationals](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm)
+- [EU law: Regulation 2019/1157 on identity cards](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1157)
+- [UK Government: Visiting the UK as an EU, EEA or Swiss citizen](https://www.gov.uk/guidance/visiting-the-uk-as-an-eu-eea-or-swiss-citizen)
+- [UK Foreign Office: Spain entry requirements](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements)
+
 ## Häufig gestellte Fragen
 
 ### Was ist ein EWR-Personalausweis?

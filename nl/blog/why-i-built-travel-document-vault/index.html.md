@@ -118,6 +118,10 @@ Mustafa
 
 Oprichter, Travel Document Vault
 
+Bronnen die we hebben gecontroleerd (6 november 2026)
+
+- [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
+
 ## Gerelateerde artikelen
 
 [Paspoortregels7 min lezen · 1 feb. 2026De 6-maandenregel voor paspoorten: welke landen hanteren hem](https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/)

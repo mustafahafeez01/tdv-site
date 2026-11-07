@@ -73,6 +73,12 @@ A single person without an exemption can derail the entire trip.
 
 Before you book, put your whole route, not just the destination, through the IATA Travel Centre. That's the check most likely to catch a missing requirement while you can still change the booking.
 
+Sources we checked (6 November 2026)
+
+- [UK Government: Visa to pass through the UK in transit](https://www.gov.uk/transit-visa)
+- [EU law: Visa Code (Regulation 810/2009)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0810)
+- [UK Government: Visa to pass through the UK in transit, If you're going through border control (Visitor in Transit visa)](https://www.gov.uk/transit-visa/visitor-in-transit-visa)
+
 ## Frequently Asked Questions
 
 ### What is a transit visa?

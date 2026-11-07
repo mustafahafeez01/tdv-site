@@ -75,6 +75,12 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/transit-visa-connecting-fli
 
 订票之前，请把您的整条路线，而不只是目的地，都放进 IATA Travel Centre 查一遍。趁着还能修改订单，这是最有可能发现缺失要求的一步。
 
+我们核对过的资料来源（2026年11月6日）
+
+- [UK Government: Visa to pass through the UK in transit](https://www.gov.uk/transit-visa)
+- [EU law: Visa Code (Regulation 810/2009)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0810)
+- [UK Government: Visa to pass through the UK in transit, If you're going through border control (Visitor in Transit visa)](https://www.gov.uk/transit-visa/visitor-in-transit-visa)
+
 ## 常见问题
 
 ### 过境签证是什么？

@@ -89,6 +89,15 @@ Si todavía no tienes una, escanea hoy la página de la foto de tu pasaporte, an
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 
+Fuentes que hemos comprobado (6 de noviembre de 2026)
+
+- [Government of Canada: Lost or stolen belongings abroad](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings)
+- [UK Government: Foreign travel checklist](https://www.gov.uk/guidance/foreign-travel-checklist)
+- [US TSA: Digital ID and facial comparison](https://www.tsa.gov/digital-id)
+- [Your Europe (EU): Travel documents for EU nationals](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm)
+- [UK Government: Travel urgently from abroad without your UK passport, Who can apply](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport)
+- [Government of India: e-Visa](https://indianvisaonline.gov.in/evisa/tvoa.html)
+
 ## Preguntas Frecuentes
 
 ### ¿Qué es una copia digital de un pasaporte?

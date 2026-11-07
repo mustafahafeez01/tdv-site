@@ -71,6 +71,17 @@ HM Passport Office는 보통 3주 안에 여권를 받을 수 있다고 안내�
 
 **이 내용에 의존하기 전에:** 이 글은 블로그이며 공식 출처가 아닙니다. 규정과 세부 사항은 바뀌며, 여러분의 상황은 다를 수 있습니다. 저희는 게시하는 내용을 확인하지만, 그래도 틀리거나 오래된 정보일 수 있습니다. 여기 담긴 내용이 여러분의 계획에 중요하다면, 행동하기 전에 해당 업무를 담당하는 기관에 직접 확인하세요.
 
+확인한 출처 (2026년 11월 6일)
+
+- [USAGov: Renew an adult passport](https://www.usa.gov/renew-adult-passport)
+- [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)
+- [UK Foreign Office: Spain entry requirements](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements)
+- [UK Government: Historic passport information (accessible)](https://www.gov.uk/government/publications/historic-passport-information-caseworker-guidance/historic-passport-information-accessible)
+- [UK Government: HM Passport Office services](https://www.gov.uk/government/organisations/hm-passport-office/about/about-our-services)
+- [UK Government: Get an electronic travel authorisation (ETA) to visit the UK, Apply for an ETA](https://www.gov.uk/eta/apply)
+- [US CBP: Visa Waiver Program and ESTA frequently asked questions](https://www.cbp.gov/travel/international-visitors/esta/frequently-asked-questions-about-visa-waiver-program-vwp-and-electronic-system-travel)
+- [Your Europe (EU): Travel documents for non-EU nationals](https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm)
+
 ## 자주 묻는 질문
 
 ### 여권는 만료되기 전에 갱신할 수 있나요?

@@ -128,6 +128,12 @@ Source: https://traveldocumentvault.com/ru/blog/how-to-organise-family-travel-do
 
 **Прежде чем полагаться на это:** это блог, а не официальный источник. Правила и детали меняются, и ваша ситуация может отличаться. Мы проверяем то, что публикуем, и всё равно можем ошибиться или устареть. Если что-то здесь важно для ваших планов, уточните это в ответственном ведомстве, прежде чем действовать.
 
+Источники, которые мы проверили (6 ноября 2026 г.)
+
+- [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
+- [UK Foreign Office: Mexico entry requirements](https://www.gov.uk/foreign-travel-advice/mexico/entry-requirements)
+- [Your Europe (EU): Health cover for temporary stays in another EU country](https://europa.eu/youreurope/citizens/health/unplanned-healthcare/temporary-stays/index_en.htm)
+
 ## Часто задаваемые вопросы
 
 ### Какие документы нужно подготовить для семейной поездки?

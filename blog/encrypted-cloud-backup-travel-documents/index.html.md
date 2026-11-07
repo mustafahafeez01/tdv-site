@@ -108,6 +108,10 @@ None of this is dramatic, and that's rather the idea. The families who cope well
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
+Sources we checked (6 November 2026)
+
+- [NIST: end-to-end encryption glossary entry](https://csrc.nist.gov/glossary/term/end_to_end_encryption)
+
 ## Frequently Asked Questions
 
 ### What does encrypted backup actually mean?

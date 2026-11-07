@@ -68,6 +68,14 @@ Hvis du har to nationaliteter, så tænk over, hvilket pas du rent faktisk booke
 
 Har du fornyet dit pas, skal det nye tilføjes til din konto, før du flyver med det, og GOV.UK siger, at du selv kan opdatere pasnummer og udløbsdato på din konto. Med et biometrisk pas kan du også selv opdatere navn og nationalitet; alt andet kræver, at UK Visas and Immigration foretager ændringen for dig. Hvis fornyelsen stadig ligger forude, går vores guide til at [forny passet, før det udløber](https://traveldocumentvault.com/da/blog/renew-passport-before-expiry/) igennem, hvornår du bør starte, og det nye pas lægges direkte på din konto, når det ankommer.
 
+Kilder vi har tjekket (6. november 2026)
+
+- [UK Government: eVisa, setting up a UKVI account](https://www.gov.uk/evisa/set-up-ukvi-account)
+- [UK Government: travelling with an eVisa](https://www.gov.uk/evisa/travel-with-evisa)
+- [UK Government: eVisa, what an eVisa is](https://www.gov.uk/evisa)
+- [UK Government: Biometric residence permits (BRPs)](https://www.gov.uk/biometric-residence-permits)
+- [UK Government: viewing your eVisa and getting a share code](https://www.gov.uk/evisa/view-evisa-get-share-code-prove-immigration-status)
+
 ## Ofte stillede spørgsmål
 
 ### Skal jeg have en UKVI-konto, hvis mit BRP er udløbet?

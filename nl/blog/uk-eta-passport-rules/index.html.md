@@ -93,6 +93,13 @@ De EU plant een eigen digitale reistoestemming, [ETIAS](https://traveldocumentva
 
 Heb je al een reis geboekt, doe dan vandaag dit: vergelijk de vervaldatum van je paspoort met je reisdata, en controleer of je huidige ETA gekoppeld is aan het paspoort waarmee je daadwerkelijk gaat reizen. Schiet een van beide tekort, begin dan nu met de vernieuwing of de nieuwe aanvraag, niet pas in de week voor je vertrek.
 
+Bronnen die we hebben gecontroleerd (6 november 2026)
+
+- [UK Government: Get an electronic travel authorisation (ETA) to visit the UK](https://www.gov.uk/eta)
+- [UK Government: Check your electronic travel authorisation (ETA)](https://www.gov.uk/check-eta)
+- [UK Government: No permission, no travel, UK set to enforce ETA scheme](https://www.gov.uk/government/news/no-permission-no-travel-uk-set-to-enforce-eta-scheme)
+- [EU travel: ETIAS](https://travel-europe.europa.eu/en/etias)
+
 ## Veelgestelde vragen
 
 ### Wat is een UK ETA?

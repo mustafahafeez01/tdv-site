@@ -71,6 +71,17 @@ Jika ada perjalanan keluarga di depan, periksa semua paspor di rumah tangga Anda
 
 **Sebelum Anda mengandalkan ini:** ini adalah blog, bukan sumber resmi. Aturan dan detailnya bisa berubah, dan situasi Anda mungkin berbeda. Kami memeriksa apa yang kami terbitkan, tetapi kami tetap bisa salah atau informasinya sudah usang. Jika ada hal di sini yang penting bagi rencana Anda, konfirmasikan dengan otoritas yang menanganinya sebelum Anda bertindak.
 
+Sumber yang kami periksa (6 November 2026)
+
+- [USAGov: Renew an adult passport](https://www.usa.gov/renew-adult-passport)
+- [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)
+- [UK Foreign Office: Spain entry requirements](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements)
+- [UK Government: Historic passport information (accessible)](https://www.gov.uk/government/publications/historic-passport-information-caseworker-guidance/historic-passport-information-accessible)
+- [UK Government: HM Passport Office services](https://www.gov.uk/government/organisations/hm-passport-office/about/about-our-services)
+- [UK Government: Get an electronic travel authorisation (ETA) to visit the UK, Apply for an ETA](https://www.gov.uk/eta/apply)
+- [US CBP: Visa Waiver Program and ESTA frequently asked questions](https://www.cbp.gov/travel/international-visitors/esta/frequently-asked-questions-about-visa-waiver-program-vwp-and-electronic-system-travel)
+- [Your Europe (EU): Travel documents for non-EU nationals](https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm)
+
 ## Pertanyaan yang Sering Diajukan
 
 ### Bisakah paspor diperpanjang sebelum kedaluwarsa?

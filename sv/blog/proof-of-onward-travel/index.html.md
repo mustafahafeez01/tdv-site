@@ -70,6 +70,13 @@ En bokning du inte kan öppna är lika oanvändbar som ingen bokning alls. Fråg
 
 Spara en offlinekopia av bekräftelsen: en PDF, en skärmdump som visar bokningsreferens och datum, eller en kopia i en app som fungerar utan uppkoppling. Travel Document Vault lagrar flygbiljetter och hotellbokningar på din enhet, krypterat och tillgängligt offline. Bekräftelsen finns där vid disken oavsett om du har signal eller inte. Vår [checklista för resehandlingar](https://traveldocumentvault.com/sv/blog/travel-document-checklist/) går igenom resten av vad som är värt att ha redo.
 
+Källor vi har kontrollerat (6 november 2026)
+
+- [EU law: Schengen Borders Code (Regulation 2016/399)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0399)
+- [Immigration New Zealand: Visa Waiver Visitor Visa](https://www.immigration.govt.nz/visas/visa-waiver-visitor-visa/)
+- [Immigration New Zealand: Visitor Visa](https://www.immigration.govt.nz/visas/visitor-visa/)
+- [Immigration New Zealand: Onward travel requirements](https://www.immigration.govt.nz/opsmanual/50548.htm)
+
 ## Vanliga frågor
 
 ### Vad godtar ett flygbolag egentligen som bevis på vidare resa?

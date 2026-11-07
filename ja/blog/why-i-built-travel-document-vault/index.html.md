@@ -118,6 +118,10 @@ Mustafa
 
 創業者、Travel Document Vault
 
+確認した情報源（2026年11月6日）
+
+- [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
+
 ## 関連記事
 
 [パスポートルール7分で読める · 2026年2月1日パスポート6か月ルール：どの国が適用しているか](https://traveldocumentvault.com/ja/blog/passport-expiry-6-month-rule/)

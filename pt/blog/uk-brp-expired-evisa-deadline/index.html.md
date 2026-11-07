@@ -68,6 +68,14 @@ Se tiver duas nacionalidades, pense em qual passaporte vai realmente usar para r
 
 Se renovou o seu passaporte, o novo tem de ser adicionado à sua conta antes de voar com ele, e o GOV.UK diz que pode atualizar o número do passaporte e a data de validade na sua conta por si mesmo. Com um passaporte biométrico também pode atualizar o seu nome e nacionalidade por si mesmo; qualquer outra alteração precisa de ser feita pelo UK Visas and Immigration. Se a renovação ainda estiver para vir, o nosso guia sobre [renovar o passaporte antes de expirar](https://traveldocumentvault.com/pt/blog/renew-passport-before-expiry/) explica quando começar, e o passaporte novo vai diretamente para a sua conta assim que chegar.
 
+Fontes que verificámos (6 de novembro de 2026)
+
+- [UK Government: eVisa, setting up a UKVI account](https://www.gov.uk/evisa/set-up-ukvi-account)
+- [UK Government: travelling with an eVisa](https://www.gov.uk/evisa/travel-with-evisa)
+- [UK Government: eVisa, what an eVisa is](https://www.gov.uk/evisa)
+- [UK Government: Biometric residence permits (BRPs)](https://www.gov.uk/biometric-residence-permits)
+- [UK Government: viewing your eVisa and getting a share code](https://www.gov.uk/evisa/view-evisa-get-share-code-prove-immigration-status)
+
 ## Perguntas Frequentes
 
 ### Preciso de uma conta UKVI se o meu BRP expirou?

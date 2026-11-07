@@ -68,6 +68,14 @@ Om du har dubbelt medborgarskap, tänk igenom vilket pass du faktiskt bokar med.
 
 Om du har förnyat ditt pass måste det nya läggas till på ditt konto innan du flyger med det, och GOV.UK säger att du själv kan uppdatera passnummer och utgångsdatum på ditt konto. Med ett biometriskt pass kan du även själv uppdatera namn och medborgarskap; allt annat kräver att UK Visas and Immigration gör ändringen för dig. Om förnyelsen fortfarande ligger framför dig går vår guide om att [förnya passet innan det går ut](https://traveldocumentvault.com/sv/blog/renew-passport-before-expiry/) igenom när du bör börja, och det nya passet läggs direkt till på ditt konto när det kommer.
 
+Källor vi har kontrollerat (6 november 2026)
+
+- [UK Government: eVisa, setting up a UKVI account](https://www.gov.uk/evisa/set-up-ukvi-account)
+- [UK Government: travelling with an eVisa](https://www.gov.uk/evisa/travel-with-evisa)
+- [UK Government: eVisa, what an eVisa is](https://www.gov.uk/evisa)
+- [UK Government: Biometric residence permits (BRPs)](https://www.gov.uk/biometric-residence-permits)
+- [UK Government: viewing your eVisa and getting a share code](https://www.gov.uk/evisa/view-evisa-get-share-code-prove-immigration-status)
+
 ## Vanliga frågor
 
 ### Behöver jag ett UKVI-konto om mitt BRP har gått ut?

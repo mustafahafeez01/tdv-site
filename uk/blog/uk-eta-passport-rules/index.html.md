@@ -93,6 +93,13 @@ ETA також не є візою — вона не визначає, скіль
 
 Якщо поїздка вже заброньована, зробіть сьогодні таке: звірте дату закінчення терміну дії паспорта з датами поїздки й переконайтеся, що чинна ETA прив'язана саме до того паспорта, з яким ви літатимете. Якщо щось із цього не виходить, починайте оновлення чи нову заявку вже зараз, а не за тиждень до вильоту.
 
+Джерела, які ми перевірили (6 листопада 2026 р.)
+
+- [UK Government: Get an electronic travel authorisation (ETA) to visit the UK](https://www.gov.uk/eta)
+- [UK Government: Check your electronic travel authorisation (ETA)](https://www.gov.uk/check-eta)
+- [UK Government: No permission, no travel, UK set to enforce ETA scheme](https://www.gov.uk/government/news/no-permission-no-travel-uk-set-to-enforce-eta-scheme)
+- [EU travel: ETIAS](https://travel-europe.europa.eu/en/etias)
+
 ## Часто задавані запитання
 
 ### Що таке британська ETA?

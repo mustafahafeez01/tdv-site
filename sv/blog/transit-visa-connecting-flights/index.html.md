@@ -77,6 +77,12 @@ En enda person utan undantag kan sätta stopp för hela resan.
 
 Innan du bokar, kör hela din resväg, inte bara destinationen, genom IATA Travel Centre. Det är kontrollen som oftast fångar upp ett saknat krav medan du fortfarande kan ändra bokningen.
 
+Källor vi har kontrollerat (6 november 2026)
+
+- [UK Government: Visa to pass through the UK in transit](https://www.gov.uk/transit-visa)
+- [EU law: Visa Code (Regulation 810/2009)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0810)
+- [UK Government: Visa to pass through the UK in transit, If you're going through border control (Visitor in Transit visa)](https://www.gov.uk/transit-visa/visitor-in-transit-visa)
+
 ## Vanliga frågor
 
 ### Vad är ett transitvisum?

@@ -85,6 +85,13 @@ Det hjælper at have ét sted for begge dokumenter – et sted, der gemmer hver 
 
 Start i dag: tag dit ID-kort frem, tjek udløbsdatoen, og se det efter for revner, falmning eller skæv plast. Er det på grænsen, så bestil fornyelsen, før du booker rejsen.
 
+Kilder vi har tjekket (6. november 2026)
+
+- [Your Europe (EU): Travel documents for EU nationals](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm)
+- [EU law: Regulation 2019/1157 on identity cards](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1157)
+- [UK Government: Visiting the UK as an EU, EEA or Swiss citizen](https://www.gov.uk/guidance/visiting-the-uk-as-an-eu-eea-or-swiss-citizen)
+- [UK Foreign Office: Spain entry requirements](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements)
+
 ## Ofte stillede spørgsmål
 
 ### Hvad er et nationalt EØS-ID-kort?

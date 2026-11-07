@@ -70,6 +70,13 @@ Eine Buchung, die Sie nicht öffnen können, hilft genauso wenig wie gar keine B
 
 Bewahren Sie eine offline verfügbare Kopie der Bestätigung auf: ein PDF, einen Screenshot mit Buchungsnummer und Daten, oder eine Kopie in einer App, die ohne Verbindung funktioniert. Travel Document Vault speichert Flugtickets und Hotelbuchungen verschlüsselt auf Ihrem Gerät und macht sie offline verfügbar. Die Bestätigung ist am Schalter da, egal ob Sie Empfang haben oder nicht. Unsere [internationale Reisedokument-Checkliste](https://traveldocumentvault.com/de/blog/travel-document-checklist/) deckt den Rest ab, was sich bereitzuhalten lohnt.
 
+Quellen, die wir geprüft haben (6. November 2026)
+
+- [EU law: Schengen Borders Code (Regulation 2016/399)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0399)
+- [Immigration New Zealand: Visa Waiver Visitor Visa](https://www.immigration.govt.nz/visas/visa-waiver-visitor-visa/)
+- [Immigration New Zealand: Visitor Visa](https://www.immigration.govt.nz/visas/visitor-visa/)
+- [Immigration New Zealand: Onward travel requirements](https://www.immigration.govt.nz/opsmanual/50548.htm)
+
 ## Häufig gestellte Fragen
 
 ### Welchen Nachweis der Weiterreise akzeptiert eine Fluggesellschaft tatsächlich?

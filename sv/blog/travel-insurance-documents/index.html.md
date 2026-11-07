@@ -146,6 +146,10 @@ Tjugo minuter nu, och du kommer inte letar efter något av det i en kris.
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 
+Källor vi har kontrollerat (6 november 2026)
+
+- [UK Government: Foreign travel insurance](https://www.gov.uk/guidance/foreign-travel-insurance)
+
 ## Vanliga frågor
 
 ### Behöver jag bära med mig mitt fysiska försäkringsdokument när jag reser?

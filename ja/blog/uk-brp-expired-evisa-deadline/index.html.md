@@ -68,6 +68,14 @@ GOV.UKによると、扶養家族もそれぞれ自分のUKVIアカウントでe
 
 パスポートを更新した場合、それを使って渡航する前に、新しいパスポートをアカウントに登録する必要があります。GOV.UKによると、パスポート番号と期限日はアカウント上で自分で更新できます。生体認証パスポートであれば、氏名や国籍も自分で更新できますが、それ以外の変更はUK Visas and Immigrationに依頼する必要があります。更新がまだ先の場合は、[パスポートを期限切れ前に更新する](https://traveldocumentvault.com/ja/blog/renew-passport-before-expiry/)のガイドで、いつ始めるべきかを解説しています。新しいパスポートが届いたら、そのままアカウントに登録しましょう。
 
+確認した情報源（2026年11月6日）
+
+- [UK Government: eVisa, setting up a UKVI account](https://www.gov.uk/evisa/set-up-ukvi-account)
+- [UK Government: travelling with an eVisa](https://www.gov.uk/evisa/travel-with-evisa)
+- [UK Government: eVisa, what an eVisa is](https://www.gov.uk/evisa)
+- [UK Government: Biometric residence permits (BRPs)](https://www.gov.uk/biometric-residence-permits)
+- [UK Government: viewing your eVisa and getting a share code](https://www.gov.uk/evisa/view-evisa-get-share-code-prove-immigration-status)
+
 ## よくある質問
 
 ### BRPが期限切れの場合、UKVIアカウントは必要ですか。

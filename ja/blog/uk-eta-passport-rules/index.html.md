@@ -95,6 +95,13 @@ EUも独自のデジタル渡航許可として[ETIAS](https://traveldocumentvau
 
 すでに旅行を予約している場合は、今日のうちに次のことをしてください。パスポートの有効期限を渡航日と照らし合わせ、現在のETAが実際に渡航で使うパスポートに紐づいているかを確認します。どちらか一方でも足りなければ、渡航の直前ではなく今すぐ、パスポートの更新かETAの再申請を始めましょう。
 
+確認した情報源（2026年11月6日）
+
+- [UK Government: Get an electronic travel authorisation (ETA) to visit the UK](https://www.gov.uk/eta)
+- [UK Government: Check your electronic travel authorisation (ETA)](https://www.gov.uk/check-eta)
+- [UK Government: No permission, no travel, UK set to enforce ETA scheme](https://www.gov.uk/government/news/no-permission-no-travel-uk-set-to-enforce-eta-scheme)
+- [EU travel: ETIAS](https://travel-europe.europa.eu/en/etias)
+
 ## よくある質問
 
 ### UK ETAとは何ですか。

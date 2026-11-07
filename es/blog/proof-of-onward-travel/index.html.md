@@ -70,6 +70,13 @@ Una reserva que no puedes abrir es tan inútil como no tener reserva. La petici�
 
 Guarda una copia sin conexión de la confirmación: un PDF, una captura de pantalla con la referencia de la reserva y las fechas, o una copia en una aplicación que funcione sin conexión. Travel Document Vault guarda los billetes de avión y las reservas de hotel en tu dispositivo, cifrados y disponibles sin conexión. La confirmación está ahí en el mostrador, tengas o no cobertura. Nuestra [lista de verificación de documentos de viaje](https://traveldocumentvault.com/es/blog/travel-document-checklist/) cubre el resto de lo que conviene tener listo.
 
+Fuentes que hemos comprobado (6 de noviembre de 2026)
+
+- [EU law: Schengen Borders Code (Regulation 2016/399)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0399)
+- [Immigration New Zealand: Visa Waiver Visitor Visa](https://www.immigration.govt.nz/visas/visa-waiver-visitor-visa/)
+- [Immigration New Zealand: Visitor Visa](https://www.immigration.govt.nz/visas/visitor-visa/)
+- [Immigration New Zealand: Onward travel requirements](https://www.immigration.govt.nz/opsmanual/50548.htm)
+
 ## Preguntas frecuentes
 
 ### ¿Qué prueba de viaje de continuación acepta realmente una aerolínea?

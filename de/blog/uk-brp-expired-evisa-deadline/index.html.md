@@ -68,6 +68,14 @@ Wenn Sie zwei Staatsangehörigkeiten haben, überlegen Sie, mit welchem Pass Sie
 
 Wenn Sie Ihren Pass erneuert haben, muss der neue in Ihr Konto eingetragen werden, bevor Sie damit fliegen, und GOV.UK sagt, Sie können Passnummer und Ablaufdatum in Ihrem Konto selbst aktualisieren. Mit einem biometrischen Pass können Sie auch Namen und Staatsangehörigkeit selbst aktualisieren; alles andere muss UK Visas and Immigration für Sie ändern. Steht die Erneuerung noch vor Ihnen, erklärt unser Leitfaden zum [Erneuern des Passes vor Ablauf](https://traveldocumentvault.com/de/blog/renew-passport-before-expiry/), wann Sie starten sollten, und der neue Pass wird direkt nach Erhalt in Ihr Konto eingetragen.
 
+Quellen, die wir geprüft haben (6. November 2026)
+
+- [UK Government: eVisa, setting up a UKVI account](https://www.gov.uk/evisa/set-up-ukvi-account)
+- [UK Government: travelling with an eVisa](https://www.gov.uk/evisa/travel-with-evisa)
+- [UK Government: eVisa, what an eVisa is](https://www.gov.uk/evisa)
+- [UK Government: Biometric residence permits (BRPs)](https://www.gov.uk/biometric-residence-permits)
+- [UK Government: viewing your eVisa and getting a share code](https://www.gov.uk/evisa/view-evisa-get-share-code-prove-immigration-status)
+
 ## Häufig gestellte Fragen
 
 ### Brauche ich ein UKVI-Konto, wenn mein BRP abgelaufen ist?

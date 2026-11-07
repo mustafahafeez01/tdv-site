@@ -75,6 +75,12 @@ Source: https://traveldocumentvault.com/ru/blog/transit-visa-connecting-flights/
 
 Прежде чем бронировать, проверьте в IATA Travel Centre весь маршрут целиком, а не только пункт назначения. Именно эта проверка с наибольшей вероятностью выявит недостающее требование, пока бронирование ещё можно изменить.
 
+Источники, которые мы проверили (6 ноября 2026 г.)
+
+- [UK Government: Visa to pass through the UK in transit](https://www.gov.uk/transit-visa)
+- [EU law: Visa Code (Regulation 810/2009)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0810)
+- [UK Government: Visa to pass through the UK in transit, If you're going through border control (Visitor in Transit visa)](https://www.gov.uk/transit-visa/visitor-in-transit-visa)
+
 ## Часто задаваемые вопросы
 
 ### Что такое транзитная виза?

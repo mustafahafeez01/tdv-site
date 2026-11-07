@@ -70,6 +70,13 @@ Een boeking die je niet kunt openen, is net zo onhandig als geen boeking. De vra
 
 Bewaar een offline kopie van de bevestiging: een PDF, een schermafbeelding met het boekingsnummer en de data, of een kopie in een app die zonder verbinding werkt. Travel Document Vault bewaart vliegtickets en hotelboekingen op je toestel, versleuteld en offline beschikbaar. De bevestiging is er aan de balie, met of zonder bereik. Onze [checklist reisdocumenten](https://traveldocumentvault.com/nl/blog/travel-document-checklist/) behandelt de rest van wat het waard is om klaar te hebben.
 
+Bronnen die we hebben gecontroleerd (6 november 2026)
+
+- [EU law: Schengen Borders Code (Regulation 2016/399)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0399)
+- [Immigration New Zealand: Visa Waiver Visitor Visa](https://www.immigration.govt.nz/visas/visa-waiver-visitor-visa/)
+- [Immigration New Zealand: Visitor Visa](https://www.immigration.govt.nz/visas/visitor-visa/)
+- [Immigration New Zealand: Onward travel requirements](https://www.immigration.govt.nz/opsmanual/50548.htm)
+
 ## Veelgestelde vragen
 
 ### Welk bewijs van verder reizen accepteert een luchtvaartmaatschappij eigenlijk?

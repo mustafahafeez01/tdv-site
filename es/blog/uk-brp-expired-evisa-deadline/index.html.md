@@ -68,6 +68,14 @@ Si tienes dos nacionalidades, piensa con cuál vas a reservar realmente. Si una 
 
 Si has renovado tu pasaporte, el nuevo tiene que añadirse a tu cuenta antes de volar con él, y GOV.UK dice que puedes actualizar tú mismo el número de pasaporte y la fecha de caducidad en tu cuenta. Con un pasaporte biométrico también puedes actualizar tú mismo tu nombre y nacionalidad; cualquier otro cambio requiere que UK Visas and Immigration lo haga por ti. Si la renovación todavía está por llegar, nuestra guía sobre [cómo renovar el pasaporte antes de que caduque](https://traveldocumentvault.com/es/blog/renew-passport-before-expiry/) explica cuándo empezar, y el nuevo pasaporte se añade directamente a tu cuenta en cuanto llega.
 
+Fuentes que hemos comprobado (6 de noviembre de 2026)
+
+- [UK Government: eVisa, setting up a UKVI account](https://www.gov.uk/evisa/set-up-ukvi-account)
+- [UK Government: travelling with an eVisa](https://www.gov.uk/evisa/travel-with-evisa)
+- [UK Government: eVisa, what an eVisa is](https://www.gov.uk/evisa)
+- [UK Government: Biometric residence permits (BRPs)](https://www.gov.uk/biometric-residence-permits)
+- [UK Government: viewing your eVisa and getting a share code](https://www.gov.uk/evisa/view-evisa-get-share-code-prove-immigration-status)
+
 ## Preguntas frecuentes
 
 ### ¿Necesito una cuenta UKVI si mi BRP ha caducado?

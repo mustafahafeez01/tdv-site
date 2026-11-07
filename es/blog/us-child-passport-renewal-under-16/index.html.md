@@ -69,6 +69,10 @@ Con más de un hijo, las fechas se van separando. Pasaportes emitidos con unos a
 
 Lo que marca la diferencia es empezar con tiempo. Empezaríamos unos nueve meses antes de que caduque el pasaporte de un hijo: suficiente para encontrar una cita a la que puedan ir ambos progenitores, conseguir firmar cualquier declaración notariada, y todavía tener margen si hay que repetir algo. Nuestra guía sobre [cuándo renovar un pasaporte antes de que caduque](https://traveldocumentvault.com/es/blog/renew-passport-before-expiry/) explica ese calendario con más detalle.
 
+Fuentes que hemos comprobado (6 de noviembre de 2026)
+
+- [US eCFR: 22 CFR Part 51 (passports)](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-F/part-51)
+
 ## Preguntas frecuentes
 
 ### ¿Se puede renovar el pasaporte de un menor si se emitió antes de los 16 años?

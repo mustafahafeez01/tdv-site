@@ -118,6 +118,10 @@ Mustafa
 
 Grundlægger, Travel Document Vault
 
+Kilder vi har tjekket (6. november 2026)
+
+- [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
+
 ## Relaterede artikler
 
 [Pasregler7 min læsning · 1. feb 20266-måneders pasreglen: Hvilke lande håndhæver den](https://traveldocumentvault.com/da/blog/passport-expiry-6-month-rule/)

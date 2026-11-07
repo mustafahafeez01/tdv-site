@@ -68,6 +68,14 @@ GOV.UK прямо говорит об этом: нужно путешество�
 
 Если вы продлили паспорт, новый нужно добавить в учётную запись до того, как вы полетите по нему, и GOV.UK сообщает, что номер паспорта и дату окончания в учётной записи можно обновить самостоятельно. С биометрическим паспортом можно также самостоятельно обновить имя и гражданство; всё остальное требует, чтобы изменение внесла UK Visas and Immigration. Если продление ещё впереди, наш материал о [продлении паспорта до истечения срока](https://traveldocumentvault.com/ru/blog/renew-passport-before-expiry/) рассказывает, когда начинать, а новый паспорт сразу добавляется в учётную запись по прибытии.
 
+Источники, которые мы проверили (6 ноября 2026 г.)
+
+- [UK Government: eVisa, setting up a UKVI account](https://www.gov.uk/evisa/set-up-ukvi-account)
+- [UK Government: travelling with an eVisa](https://www.gov.uk/evisa/travel-with-evisa)
+- [UK Government: eVisa, what an eVisa is](https://www.gov.uk/evisa)
+- [UK Government: Biometric residence permits (BRPs)](https://www.gov.uk/biometric-residence-permits)
+- [UK Government: viewing your eVisa and getting a share code](https://www.gov.uk/evisa/view-evisa-get-share-code-prove-immigration-status)
+
 ## Часто задаваемые вопросы
 
 ### Нужна ли мне учётная запись UKVI, если мой BRP истёк?

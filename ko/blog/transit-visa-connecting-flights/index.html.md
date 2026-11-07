@@ -75,6 +75,12 @@ Source: https://traveldocumentvault.com/ko/blog/transit-visa-connecting-flights/
 
 예약하기 전에, 목적지만이 아니라 전체 경로를 IATA 여행 센터에서 확인해 보세요. 일정을 아직 바꿀 수 있을 때 빠진 요건을 가장 잘 잡아내는 방법입니다.
 
+확인한 출처 (2026년 11월 6일)
+
+- [UK Government: Visa to pass through the UK in transit](https://www.gov.uk/transit-visa)
+- [EU law: Visa Code (Regulation 810/2009)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0810)
+- [UK Government: Visa to pass through the UK in transit, If you're going through border control (Visitor in Transit visa)](https://www.gov.uk/transit-visa/visitor-in-transit-visa)
+
 ## 자주 묻는 질문
 
 ### 환승 비자란 무엇인가요?

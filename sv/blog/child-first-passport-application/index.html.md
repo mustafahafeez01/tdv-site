@@ -94,6 +94,14 @@ När passet är utfärdat och levererat till dig, ta fem minuter och kontrollera
 
 Är något fel, kontakta din passmyndighet så snart du upptäcker det. Om rättelsen är gratis beror på vem som gjorde felet, och ju längre du väntar desto krångligare blir processen. När allt stämmer, lägg passet direkt i din dokumentmapp med en anteckning om utgångsdatumet, så att förnyelsen inte tar dig på sängen.
 
+Källor vi har kontrollerat (6 november 2026)
+
+- [UK Government: Get a passport photo, Digital photos](https://www.gov.uk/photos-for-passports)
+- [UK Government: applying for a first child passport](https://www.gov.uk/get-a-child-passport/first-child-passport)
+- [UK Government: countersigning passport applications and photos](https://www.gov.uk/countersigning-passport-applications)
+- [UK Government: How to correct errors on passports](https://www.gov.uk/government/publications/preventing-and-resolving-errors-on-passports/how-to-correct-errors-on-passports-accessible)
+- [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
+
 ## Vanliga frågor
 
 ### Vem måste samtycka till ett barns passansökan?

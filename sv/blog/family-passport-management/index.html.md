@@ -86,6 +86,10 @@ Har du inte ställt in det här ännu, börja i dag: skanna fotosidan på varje 
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 
+Källor vi har kontrollerat (6 november 2026)
+
+- [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
+
 ## Vanliga frågor
 
 ### Vad är det bästa sättet att förvara flera familjepass?

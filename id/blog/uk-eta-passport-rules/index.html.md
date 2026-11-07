@@ -95,6 +95,13 @@ Uni Eropa berencana memiliki izin perjalanan digitalnya sendiri, [ETIAS](https:/
 
 Jika perjalanan Anda sudah dipesan, lakukan ini hari ini: cocokkan tanggal kedaluwarsa paspor dengan tanggal perjalanan, lalu pastikan ETA Anda saat ini terikat pada paspor yang benar-benar akan Anda pakai. Jika salah satunya tidak memenuhi, mulailah perpanjangan atau pengajuan ulang sekarang, jangan seminggu sebelum terbang.
 
+Sumber yang kami periksa (6 November 2026)
+
+- [UK Government: Get an electronic travel authorisation (ETA) to visit the UK](https://www.gov.uk/eta)
+- [UK Government: Check your electronic travel authorisation (ETA)](https://www.gov.uk/check-eta)
+- [UK Government: No permission, no travel, UK set to enforce ETA scheme](https://www.gov.uk/government/news/no-permission-no-travel-uk-set-to-enforce-eta-scheme)
+- [EU travel: ETIAS](https://travel-europe.europa.eu/en/etias)
+
 ## Pertanyaan yang Sering Diajukan
 
 ### Apa itu ETA Inggris?

@@ -94,6 +94,14 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/child-first-passport-applic
 
 如果发现任何问题，请尽快联系护照办公室。是否免费更正取决于错误出在哪一方，而且拖得越久，处理起来就越复杂。一切核对无误后，请直接把护照放进您的证件文件夹，并附上到期日的备注，这样续办时就不会措手不及。
 
+我们核对过的资料来源（2026年11月6日）
+
+- [UK Government: Get a passport photo, Digital photos](https://www.gov.uk/photos-for-passports)
+- [UK Government: applying for a first child passport](https://www.gov.uk/get-a-child-passport/first-child-passport)
+- [UK Government: countersigning passport applications and photos](https://www.gov.uk/countersigning-passport-applications)
+- [UK Government: How to correct errors on passports](https://www.gov.uk/government/publications/preventing-and-resolving-errors-on-passports/how-to-correct-errors-on-passports-accessible)
+- [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
+
 ## 常见问题
 
 ### 孩子的护照申请需要谁的同意？

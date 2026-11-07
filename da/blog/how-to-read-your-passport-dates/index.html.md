@@ -96,6 +96,10 @@ Brug fem minutter i dag på at finde begge datoer i dit eget pas, og i hvert bar
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du handler.
 
+Kilder vi har tjekket (6. november 2026)
+
+- [UK Foreign Office: Spain entry requirements](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements)
+
 ## Ofte stillede spørgsmål
 
 ### Hvad betyder date of expedition på et pas?

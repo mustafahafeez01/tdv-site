@@ -69,6 +69,10 @@ Con più di un figlio, le date si distanziano. Passaporti rilasciati a distanza 
 
 La differenza la fa iniziare presto. Inizieremmo circa nove mesi prima della scadenza del passaporto di un figlio: abbastanza tempo per trovare un appuntamento che vada bene a entrambi i genitori, far firmare qualsiasi dichiarazione autenticata, e avere ancora tempo se qualcosa va rifatto. La nostra guida su [quando rinnovare un passaporto prima della scadenza](https://traveldocumentvault.com/it/blog/renew-passport-before-expiry/) approfondisce i tempi.
 
+Fonti che abbiamo verificato (6 novembre 2026)
+
+- [US eCFR: 22 CFR Part 51 (passports)](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-F/part-51)
+
 ## Domande frequenti
 
 ### Si può rinnovare il passaporto di un figlio se è stato rilasciato prima dei 16 anni?

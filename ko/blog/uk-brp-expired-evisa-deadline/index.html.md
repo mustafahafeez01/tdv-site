@@ -68,6 +68,14 @@ GOV.UK에 따르면 부양가족도 eVisa에 접근하려면 각자의 UKVI 계�
 
 여권을 갱신했다면 새 여권으로 비행기를 타기 전에 계정에 등록해야 합니다. GOV.UK에 따르면 여권 번호와 만료일은 직접 계정에서 수정할 수 있습니다. 생체인식 여권이라면 이름과 국적도 직접 수정할 수 있지만, 그 외의 변경은 UK Visas and Immigration이 처리해야 합니다. 아직 갱신 전이라면 [여권을 만료 전에 갱신하는 방법](https://traveldocumentvault.com/ko/blog/renew-passport-before-expiry/)에서 언제 시작해야 할지 다루고 있으며, 새 여권이 도착하는 즉시 계정에 등록하면 됩니다.
 
+확인한 출처 (2026년 11월 6일)
+
+- [UK Government: eVisa, setting up a UKVI account](https://www.gov.uk/evisa/set-up-ukvi-account)
+- [UK Government: travelling with an eVisa](https://www.gov.uk/evisa/travel-with-evisa)
+- [UK Government: eVisa, what an eVisa is](https://www.gov.uk/evisa)
+- [UK Government: Biometric residence permits (BRPs)](https://www.gov.uk/biometric-residence-permits)
+- [UK Government: viewing your eVisa and getting a share code](https://www.gov.uk/evisa/view-evisa-get-share-code-prove-immigration-status)
+
 ## 자주 묻는 질문
 
 ### BRP가 만료됐다면 UKVI 계정이 필요한가요?

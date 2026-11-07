@@ -118,6 +118,10 @@ Mustafa
 
 Founder, Travel Document Vault
 
+Sources we checked (6 November 2026)
+
+- [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
+
 ## Related Articles
 
 [Passport Rules7 min read · Feb 1, 2026The 6-Month Passport Rule: Which Countries Enforce It](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)

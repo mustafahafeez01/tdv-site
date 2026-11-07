@@ -96,6 +96,10 @@ Take five minutes today to find both dates on your own passport, and on each chi
 
 **Before you rely on this:** it’s a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
+Sources we checked (6 November 2026)
+
+- [UK Foreign Office: Spain entry requirements](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements)
+
 ## Frequently Asked Questions
 
 ### What does date of expedition mean on a passport?

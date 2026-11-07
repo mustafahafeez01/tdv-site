@@ -94,6 +94,14 @@ Zodra het paspoort is afgegeven en bij je bezorgd, neem dan vijf minuten de tijd
 
 Klopt er iets niet, neem dan contact op met je paspoortinstantie zodra je het merkt. Of een correctie gratis is, hangt af van wie de fout heeft gemaakt. Hoe langer je wacht, hoe lastiger het wordt om het te regelen. Klopt alles, leg het paspoort dan meteen in je documentenmap, met een notitie van de vervaldatum, zodat de vernieuwing je niet overvalt.
 
+Bronnen die we hebben gecontroleerd (6 november 2026)
+
+- [UK Government: Get a passport photo, Digital photos](https://www.gov.uk/photos-for-passports)
+- [UK Government: applying for a first child passport](https://www.gov.uk/get-a-child-passport/first-child-passport)
+- [UK Government: countersigning passport applications and photos](https://www.gov.uk/countersigning-passport-applications)
+- [UK Government: How to correct errors on passports](https://www.gov.uk/government/publications/preventing-and-resolving-errors-on-passports/how-to-correct-errors-on-passports-accessible)
+- [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
+
 ## Veelgestelde vragen
 
 ### Wie moet toestemming geven voor de paspoortaanvraag van een kind?

@@ -68,6 +68,14 @@ Se hai due cittadinanze, pensa a quale passaporto userai davvero per prenotare. 
 
 Se hai rinnovato il passaporto, quello nuovo deve essere inserito nel tuo account prima di volare con esso, e GOV.UK dice che puoi aggiornare tu stesso il numero del passaporto e la data di scadenza nel tuo account. Con un passaporto biometrico puoi anche aggiornare tu stesso nome e cittadinanza; qualsiasi altra modifica deve essere effettuata da UK Visas and Immigration. Se il rinnovo è ancora da fare, la nostra guida su [rinnovare il passaporto prima della scadenza](https://traveldocumentvault.com/it/blog/renew-passport-before-expiry/) spiega quando iniziare, e il nuovo passaporto va direttamente nel tuo account non appena arriva.
 
+Fonti che abbiamo verificato (6 novembre 2026)
+
+- [UK Government: eVisa, setting up a UKVI account](https://www.gov.uk/evisa/set-up-ukvi-account)
+- [UK Government: travelling with an eVisa](https://www.gov.uk/evisa/travel-with-evisa)
+- [UK Government: eVisa, what an eVisa is](https://www.gov.uk/evisa)
+- [UK Government: Biometric residence permits (BRPs)](https://www.gov.uk/biometric-residence-permits)
+- [UK Government: viewing your eVisa and getting a share code](https://www.gov.uk/evisa/view-evisa-get-share-code-prove-immigration-status)
+
 ## Domande frequenti
 
 ### Ho bisogno di un account UKVI se il mio BRP è scaduto?

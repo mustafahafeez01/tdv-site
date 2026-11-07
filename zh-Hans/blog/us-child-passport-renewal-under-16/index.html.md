@@ -69,6 +69,10 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/us-child-passport-renewal-u
 
 真正起作用的是提前开始。我们建议在孩子护照到期前大约九个月就着手准备：这样有足够时间找到父母都能出席的预约时间，办好任何需要的公证声明，万一有什么需要重做也还有余地。关于具体时间安排，可以参考我们的文章《[护照可以在到期前更新吗？](https://traveldocumentvault.com/zh-Hans/blog/renew-passport-before-expiry/)》。
 
+我们核对过的资料来源（2026年11月6日）
+
+- [US eCFR: 22 CFR Part 51 (passports)](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-F/part-51)
+
 ## 常见问题
 
 ### 16岁前签发的儿童护照可以更新吗？

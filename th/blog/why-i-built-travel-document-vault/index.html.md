@@ -118,6 +118,10 @@ Mustafa
 
 ผู้ก่อตั้ง, Travel Document Vault
 
+แหล่งข้อมูลที่เราตรวจสอบ (6 พฤศจิกายน 2026)
+
+- [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
+
 ## บทความที่เกี่ยวข้อง
 
 [กฎพาสปอร์ตอ่าน 7 นาที · 1 ก.พ. 2026กฎพาสปอร์ต 6 เดือน: ประเทศไหนบังคับใช้บ้าง](https://traveldocumentvault.com/th/blog/passport-expiry-6-month-rule/)

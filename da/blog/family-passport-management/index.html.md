@@ -86,6 +86,10 @@ Har du ikke sat det op endnu, så start i dag: scan fotosiden i hvert eneste pas
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 
+Kilder vi har tjekket (6. november 2026)
+
+- [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
+
 ## Ofte stillede spørgsmål
 
 ### Hvad er den bedste måde at opbevare flere familiemedlemmers pas?

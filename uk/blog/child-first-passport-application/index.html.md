@@ -94,6 +94,14 @@ Source: https://traveldocumentvault.com/uk/blog/child-first-passport-application
 
 Якщо щось не так, зверніться до паспортного органу, щойно помітите помилку. Чи буде виправлення безкоштовним, залежить від того, хто припустився помилки, а що довше ви чекаєте, то складніше її виправити. Коли все збігається, одразу покладіть паспорт у папку з документами й запишіть поруч дату закінчення терміну дії, щоб поновлення не застало вас зненацька.
 
+Джерела, які ми перевірили (6 листопада 2026 р.)
+
+- [UK Government: Get a passport photo, Digital photos](https://www.gov.uk/photos-for-passports)
+- [UK Government: applying for a first child passport](https://www.gov.uk/get-a-child-passport/first-child-passport)
+- [UK Government: countersigning passport applications and photos](https://www.gov.uk/countersigning-passport-applications)
+- [UK Government: How to correct errors on passports](https://www.gov.uk/government/publications/preventing-and-resolving-errors-on-passports/how-to-correct-errors-on-passports-accessible)
+- [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
+
 ## Часто задавані запитання
 
 ### Хто повинен дати згоду на оформлення паспорта дитині?

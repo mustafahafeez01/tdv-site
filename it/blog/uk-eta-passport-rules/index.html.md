@@ -93,6 +93,13 @@ L'UE prevede una propria autorizzazione di viaggio digitale, [ETIAS](https://tra
 
 Se hai già un viaggio prenotato, fai questo oggi: confronta la data di scadenza del passaporto con le date del viaggio e verifica che la tua ETA attuale sia legata al passaporto con cui viaggerai davvero. Se una delle due cose non torna, avvia subito il rinnovo o una nuova domanda, non la settimana prima di partire.
 
+Fonti che abbiamo verificato (6 novembre 2026)
+
+- [UK Government: Get an electronic travel authorisation (ETA) to visit the UK](https://www.gov.uk/eta)
+- [UK Government: Check your electronic travel authorisation (ETA)](https://www.gov.uk/check-eta)
+- [UK Government: No permission, no travel, UK set to enforce ETA scheme](https://www.gov.uk/government/news/no-permission-no-travel-uk-set-to-enforce-eta-scheme)
+- [EU travel: ETIAS](https://travel-europe.europa.eu/en/etias)
+
 ## Domande Frequenti
 
 ### Cos'è un'ETA del Regno Unito?

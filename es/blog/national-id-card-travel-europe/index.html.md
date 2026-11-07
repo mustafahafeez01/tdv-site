@@ -85,6 +85,13 @@ Lo que ayuda es tener un único lugar para ambos documentos, que guarde cada fec
 
 Empieza hoy: saca tu documento de identidad, comprueba la fecha de caducidad y revisa que no tenga grietas, desteñidos ni el plástico deformado. Si está en el límite, solicita la renovación antes de reservar el viaje.
 
+Fuentes que hemos comprobado (6 de noviembre de 2026)
+
+- [Your Europe (EU): Travel documents for EU nationals](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm)
+- [EU law: Regulation 2019/1157 on identity cards](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1157)
+- [UK Government: Visiting the UK as an EU, EEA or Swiss citizen](https://www.gov.uk/guidance/visiting-the-uk-as-an-eu-eea-or-swiss-citizen)
+- [UK Foreign Office: Spain entry requirements](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements)
+
 ## Preguntas frecuentes
 
 ### ¿Qué es un documento de identidad nacional del EEE?

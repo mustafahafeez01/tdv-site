@@ -118,6 +118,10 @@ Mustafa
 
 创始人，Travel Document Vault
 
+我们核对过的资料来源（2026年11月6日）
+
+- [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
+
 ## 相关文章
 
 [护照规定7 分钟阅读 · 2026年2月1日护照六个月有效期规定：哪些国家执行此规则](https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rule/)

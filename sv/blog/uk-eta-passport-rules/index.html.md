@@ -93,6 +93,13 @@ EU planerar ett eget digitalt resetillstånd, [ETIAS](https://traveldocumentvaul
 
 Har du redan en resa bokad, gör så här i dag: kontrollera passets utgångsdatum mot dina resdatum och bekräfta att ditt nuvarande ETA är kopplat till det pass du faktiskt kommer att resa på. Räcker något av dem inte till, påbörja förnyelsen eller den nya ansökan nu, inte veckan innan du flyger.
 
+Källor vi har kontrollerat (6 november 2026)
+
+- [UK Government: Get an electronic travel authorisation (ETA) to visit the UK](https://www.gov.uk/eta)
+- [UK Government: Check your electronic travel authorisation (ETA)](https://www.gov.uk/check-eta)
+- [UK Government: No permission, no travel, UK set to enforce ETA scheme](https://www.gov.uk/government/news/no-permission-no-travel-uk-set-to-enforce-eta-scheme)
+- [EU travel: ETIAS](https://travel-europe.europa.eu/en/etias)
+
 ## Vanliga frågor
 
 ### Vad är ett brittiskt ETA?

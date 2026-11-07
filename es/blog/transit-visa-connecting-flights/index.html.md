@@ -75,6 +75,12 @@ Si viajas en familia, comprueba el pasaporte de cada miembro por separado. Una s
 
 Antes de reservar, pasa por el IATA Travel Centre toda tu ruta, no solo el destino. Es la comprobación con más probabilidades de detectar un requisito que falta cuando todavía puedes cambiar la reserva.
 
+Fuentes que hemos comprobado (6 de noviembre de 2026)
+
+- [UK Government: Visa to pass through the UK in transit](https://www.gov.uk/transit-visa)
+- [EU law: Visa Code (Regulation 810/2009)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0810)
+- [UK Government: Visa to pass through the UK in transit, If you're going through border control (Visitor in Transit visa)](https://www.gov.uk/transit-visa/visitor-in-transit-visa)
+
 ## Preguntas Frecuentes
 
 ### ¿Qué es un visado de tránsito?

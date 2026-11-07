@@ -93,6 +93,13 @@ Die EU plant mit [ETIAS](https://traveldocumentvault.com/de/blog/etias-documents
 
 Haben Sie bereits eine Reise gebucht, erledigen Sie heute Folgendes: Vergleichen Sie das Ablaufdatum Ihres Reisepasses mit Ihren Reisedaten und prüfen Sie, ob Ihre aktuelle ETA an den Reisepass gebunden ist, mit dem Sie tatsächlich reisen. Reicht eines von beidem nicht aus, starten Sie die Erneuerung oder die erneute Beantragung jetzt und nicht erst in der Woche vor dem Flug.
 
+Quellen, die wir geprüft haben (6. November 2026)
+
+- [UK Government: Get an electronic travel authorisation (ETA) to visit the UK](https://www.gov.uk/eta)
+- [UK Government: Check your electronic travel authorisation (ETA)](https://www.gov.uk/check-eta)
+- [UK Government: No permission, no travel, UK set to enforce ETA scheme](https://www.gov.uk/government/news/no-permission-no-travel-uk-set-to-enforce-eta-scheme)
+- [EU travel: ETIAS](https://travel-europe.europa.eu/en/etias)
+
 ## Häufig gestellte Fragen
 
 ### Was ist eine britische ETA?
