@@ -60,7 +60,7 @@ De afgiftedatum houdt op een bijzaak te zijn zodra een land hem rechtstreeks con
 
 Recent afgegeven Britse paspoorten hebben die extra maanden niet meer, maar oudere paspoorten die ze wel hebben, zijn nog steeds in omloop en worden nog gebruikt.
 
-Schengenlanden passen aan de grens doorgaans twee aparte toetsen toe op een niet-EU-paspoort: het moet minder dan tien jaar voor je aankomstdatum zijn afgegeven, en het moet nog minstens drie maanden geldig blijven na je geplande vertrekdatum. Een paspoort met negen maanden extra kan ruim aan de tweede toets voldoen en zakken voor de eerste, en dat is een lastig gesprek aan een balie in Madrid met een document dat nog niet is verlopen.
+Schengenlanden passen aan de grens doorgaans twee aparte toetsen toe op een niet-EU-paspoort: het moet [minder dan tien jaar voor je aankomstdatum zijn afgegeven](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements), en het moet nog minstens drie maanden geldig blijven na je geplande vertrekdatum. Een paspoort met negen maanden extra kan ruim aan de tweede toets voldoen en zakken voor de eerste, en dat is een lastig gesprek aan een balie in Madrid met een document dat nog niet is verlopen.
 
 Wij zouden beide data controleren voor een reis naar Europa, niet alleen de datum onderaan de pagina.
 
@@ -96,7 +96,7 @@ Neem vandaag vijf minuten om beide data op je eigen paspoort te vinden, en op da
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 
-Bronnen die we hebben gecontroleerd (6 november 2026)
+Officiële bronnen
 
 - [UK Foreign Office: Spain entry requirements](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements)
 

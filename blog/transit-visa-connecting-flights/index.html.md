@@ -39,9 +39,9 @@ The trap sits in the middle. A layover that looks airside on paper can quietly b
 
 Transit visas are mandatory in several circumstances, and the requirements vary significantly by your nationality and the transit country.
 
-The **Schengen Airport Transit Visa (ATV)** applies to certain non-EU passport holders making airside-only connections through Schengen airports (member states can add nationalities in some cases), though many nationalities are exempt, and some visa or residence permit holders are too. Because the exemption list is complex and changes periodically, you cannot assume you are exempt. The IATA Travel Centre database holds the current rules for your specific nationality and destination, so check there rather than guessing based on what you know about other countries.
+The **Schengen Airport Transit Visa (ATV)** applies to [certain non-EU passport holders](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0810) making airside-only connections through Schengen airports (member states can add nationalities in some cases), though many nationalities are exempt, and some visa or residence permit holders are too. Because the exemption list is complex and changes periodically, you cannot assume you are exempt. The IATA Travel Centre database holds the current rules for your specific nationality and destination, so check there rather than guessing based on what you know about other countries.
 
-The **United Kingdom** offers visa-free airside transit for many, but others require what is now called a Direct Airside Transit Visa (DATV). Like Schengen, exemption depends mainly on your nationality, not just your destination, and GOV.UK says you don't need a transit visa if you hold a UK electronic travel authorisation (ETA).
+The **United Kingdom** offers visa-free airside transit for many, but others require what is now called a Direct Airside Transit Visa (DATV). Like Schengen, exemption depends mainly on your nationality, not just your destination, and [GOV.UK](https://www.gov.uk/transit-visa) says you don't need a transit visa if you hold a UK electronic travel authorisation (ETA).
 
 In most cases, connecting passengers arriving in the **United States** pass through US immigration and customs before their next flight. In practice, this comes down to US entry rules rather than transit visa rules, so check them for your passport early and build them into your travel plan from the start.
 
@@ -73,7 +73,7 @@ A single person without an exemption can derail the entire trip.
 
 Before you book, put your whole route, not just the destination, through the IATA Travel Centre. That's the check most likely to catch a missing requirement while you can still change the booking.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [UK Government: Visa to pass through the UK in transit](https://www.gov.uk/transit-visa)
 - [EU law: Visa Code (Regulation 810/2009)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0810)
@@ -107,7 +107,7 @@ Contact your airline immediately and check the processing time for a transit vis
 
 ### How long is a transit visa valid for?
 
-Transit visa validity varies by country. The UK's Visitor in Transit visa, for example, covers a stay of up to 48 hours. Store and track your transit visa expiry date alongside your passport and main entry visa.
+Transit visa validity varies by country. The UK's [Visitor in Transit visa](https://www.gov.uk/transit-visa/visitor-in-transit-visa), for example, covers a stay of up to 48 hours. Store and track your transit visa expiry date alongside your passport and main entry visa.
 
 ## Related Articles
 

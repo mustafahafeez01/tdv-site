@@ -22,7 +22,7 @@ None of that is a reason to hold off. It's a reason to choose a quiet few weeks 
 
 ## There's no official waiting period before you can renew
 
-HM Passport Office ties renewal to two triggers: your passport has expired, or it doesn't have enough time left for where you're going. Its renewal guidance sets no earliest date, and it says that how much time you need depends on the country you're visiting. USAGov tells Americans to renew early, because processing times vary and some countries and airlines refuse entry when a passport has less than six months left.
+HM Passport Office ties renewal to two triggers: your passport has expired, or it doesn't have enough time left for where you're going. Its [renewal guidance](https://www.gov.uk/renew-adult-passport/renew) sets no earliest date, and it says that how much time you need depends on the country you're visiting. [USAGov](https://www.usa.gov/renew-adult-passport) tells Americans to renew early, because processing times vary and some countries and airlines refuse entry when a passport has less than six months left.
 
 Canada draws a line, and even that one is soft. The Government of Canada says that if you apply more than a year before your passport expires, it will ask why, and a postal application needs a written explanation. Its online renewal service is narrower still, open only when your passport expires within the next six months or has already expired.
 
@@ -30,13 +30,13 @@ If you're American, there's a limit worth knowing at the other end: USAGov says 
 
 ## Renewing early in the UK means giving back the months you have left
 
-This is the real cost of renewing early, and it's smaller than it sounds. HM Passport Office's historic guidance explains that between November 2004 and October 2018, anyone renewing before expiry could have up to nine unused months added to the new passport. Since October 2018 that no longer happens, so the old passport's remaining time simply goes.
+This is the real cost of renewing early, and it's smaller than it sounds. HM Passport Office's [historic guidance](https://www.gov.uk/government/publications/historic-passport-information-caseworker-guidance/historic-passport-information-accessible) explains that between November 2004 and October 2018, anyone renewing before expiry could have up to nine unused months added to the new passport. Since October 2018 that no longer happens, so the old passport's remaining time simply goes.
 
 Apply nine months early, then, and you trade those nine months for a passport you won't need to think about for a decade. We'd take that trade every time, because the alternative is renewing against the clock with a trip already on the calendar.
 
-The old extra-months rule left one catch behind. GOV.UK's travel advice for Spain warns that a passport renewed before October 2018 might have a date of issue more than ten years ago.
+The old extra-months rule left one catch behind. GOV.UK's [travel advice for Spain](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements) warns that a passport renewed before October 2018 might have a date of issue more than ten years ago.
 
-That matters because the EU's Your Europe guidance says a passport used to enter the Schengen area must have been issued within the last ten years. It also has to stay valid for at least three months after you leave. A passport that looks fine by its expiry date can still fall short in Europe. If yours was issued under the old rule, check the issue date as well as the expiry date, and our guide to [how long a passport is valid for travel](https://traveldocumentvault.com/blog/how-long-is-passport-valid-for-travel/) walks through both.
+That matters because the EU's [Your Europe guidance](https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm) says a passport used to enter the Schengen area must have been issued within the last ten years. It also has to stay valid for at least three months after you leave. A passport that looks fine by its expiry date can still fall short in Europe. If yours was issued under the old rule, check the issue date as well as the expiry date, and our guide to [how long a passport is valid for travel](https://traveldocumentvault.com/blog/how-long-is-passport-valid-for-travel/) walks through both.
 
 ## Your old passport stops working once the new one is authorised
 
@@ -52,8 +52,8 @@ Every renewal comes with a new number. HM Passport Office pairs that fact with i
 
 Anything already linked to the old number deserves a look before your next trip:
 
-- **A US ESTA** has to be applied for again. US Customs and Border Protection says a new ESTA is required when the traveller is issued a new passport.
-- GOV.UK says **a UK ETA** is linked to the passport you applied with and lasts two years or until that passport expires, whichever is sooner. Check where yours stands before flying on the new one, and our guide to [which passport a UK ETA is tied to](https://traveldocumentvault.com/blog/uk-eta-passport-rules/) covers the details.
+- **A US ESTA** has to be applied for again. [US Customs and Border Protection](https://www.cbp.gov/travel/international-visitors/esta/frequently-asked-questions-about-visa-waiver-program-vwp-and-electronic-system-travel) says a new ESTA is required when the traveller is issued a new passport.
+- [GOV.UK](https://www.gov.uk/eta/apply) says **a UK ETA** is linked to the passport you applied with and lasts two years or until that passport expires, whichever is sooner. Check where yours stands before flying on the new one, and our guide to [which passport a UK ETA is tied to](https://traveldocumentvault.com/blog/uk-eta-passport-rules/) covers the details.
 - For **a visa in the old passport**, the usual answer is to carry both. A visa in your old passport generally stays valid, so carry both passports and check the issuing country's official guidance.
 - **Flights and hotels** booked with your old passport details may need the new number added, an easy job at home and an awkward one at a check-in desk.
 
@@ -65,13 +65,13 @@ Our view is simple: start thinking about renewal when a passport drops to 12 mon
 
 The other half is choosing when inside that window. Look for a few weeks with nothing booked, since the old passport goes in with the application and the new one comes back with a different number.
 
-HM Passport Office says you'll usually get a passport within three weeks, longer if it needs more information or an interview, with the clock starting when it receives your documents. In Canada, online renewal can take up to 20 business days plus mailing time. For what tends to slow an application down, our guide to [how long passport renewal takes](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/) has the detail.
+[HM Passport Office](https://www.gov.uk/government/organisations/hm-passport-office/about/about-our-services) says you'll usually get a passport within three weeks, longer if it needs more information or an interview, with the clock starting when it receives your documents. In Canada, online renewal can take up to 20 business days plus mailing time. For what tends to slow an application down, our guide to [how long passport renewal takes](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/) has the detail.
 
 If a family trip is on the horizon, line up every passport in the household at the same time. In the UK, HM Passport Office issues child passports for five years rather than ten, so the one that needs renewing first often isn't the one you'd expect. If anyone is heading somewhere that asks for extra validity on arrival, check our guide to [the 6-month passport rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/) for how that shifts your date.
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [USAGov: Renew an adult passport](https://www.usa.gov/renew-adult-passport)
 - [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)

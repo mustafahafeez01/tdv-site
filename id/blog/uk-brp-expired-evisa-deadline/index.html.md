@@ -20,7 +20,7 @@ Jika Anda memegang Biometric Residence Permit (BRP, Izin Tinggal Biometrik Inggr
 
 ![Diagram tentang berapa lama BRP yang kedaluwarsa masih bisa dipakai: selama 24 bulan setelah tanggal kedaluwarsa tercetak atau sampai 31 Desember 2026, mana yang lebih dulu. Selama waktu itu masih bisa dipakai untuk masuk dan mendapatkan share code, membuat akun UKVI, atau mengajukan perpanjangan izin tinggal](https://traveldocumentvault.com/blog/uk-brp-expired-evisa-deadline/brp-window-id.jpg) Dua tanggal, dan yang lebih dulu adalah milik Anda.
 
-GOV.UK menyatakan semua BRP kini telah kedaluwarsa dan digantikan oleh eVisa (visa elektronik). eVisa adalah catatan digital identitas dan status imigrasi Anda, dan Anda mengaksesnya melalui akun UKVI, bukan membawanya di dompet. Itulah sebabnya akun ini adalah langkah yang penting, untuk Anda dan untuk setiap anggota keluarga Anda yang memegang kartu.
+[GOV.UK](https://www.gov.uk/biometric-residence-permits) menyatakan semua BRP kini telah kedaluwarsa dan digantikan oleh eVisa (visa elektronik). eVisa adalah [catatan digital identitas dan status imigrasi Anda](https://www.gov.uk/evisa), dan Anda mengaksesnya melalui akun UKVI, bukan membawanya di dompet. Itulah sebabnya akun ini adalah langkah yang penting, untuk Anda dan untuk setiap anggota keluarga Anda yang memegang kartu.
 
 Kartu yang kedaluwarsa tidak berarti izin tinggal Anda telah berakhir. Instruksi GOV.UK memang ditulis untuk kasus ini: orang yang BRP-nya sudah kedaluwarsa tetapi masih memiliki izin tinggal di Inggris.
 
@@ -38,11 +38,11 @@ GOV.UK mencantumkan dengan jelas apa yang masih bisa dilakukan kartu ini. Anda b
 
 Penggunaan ketiga ini mudah terlewat. Jika izin tinggal Anda akan segera memasuki masa perpanjangan, kartu yang kedaluwarsa masih bisa berperan dalam permohonan itu selama kartunya masih dalam masa yang bisa dipakai, yang menjadi alasan lain untuk mengetahui tanggal Anda. Untuk bepergian, GOV.UK mengarahkan Anda ke eVisa dan paspor yang terhubung dengannya, yang akan kita bahas di bawah.
 
-Setelah berhasil masuk, akun inilah cara Anda membuktikan status sehari-hari. GOV.UK menyatakan Anda bisa melihat eVisa dan mendapatkan share code untuk membuktikan status imigrasi Anda, misalnya saat mendapat pekerjaan baru atau menyewa rumah. eVisa juga menunjukkan kondisi status Anda, seperti apakah Anda boleh bekerja atau belajar. Ini layak diperiksa meski Anda tidak punya rencana perjalanan.
+Setelah berhasil masuk, akun inilah cara Anda membuktikan status sehari-hari. [GOV.UK](https://www.gov.uk/evisa/view-evisa-get-share-code-prove-immigration-status) menyatakan Anda bisa melihat eVisa dan mendapatkan share code untuk membuktikan status imigrasi Anda, misalnya saat mendapat pekerjaan baru atau menyewa rumah. eVisa juga menunjukkan kondisi status Anda, seperti apakah Anda boleh bekerja atau belajar. Ini layak diperiksa meski Anda tidak punya rencana perjalanan.
 
 ## Paspor dan Nomor Referensi Juga Bisa Membuka Akun UKVI
 
-Jika kartu Anda hilang, atau 24 bulannya sudah habis, masih ada jalan lain. GOV.UK menerima dua kombinasi lain saat Anda membuat akun: paspor yang masih berlaku ditambah nomor permohonan visa Anda, atau paspor yang masih berlaku ditambah nomor BRP Anda. Nomor BRP tercetak di kartu itu sendiri, jadi sebaiknya catat di tempat yang aman selagi kartunya masih di tangan Anda.
+Jika kartu Anda hilang, atau 24 bulannya sudah habis, masih ada jalan lain. [GOV.UK](https://www.gov.uk/evisa/set-up-ukvi-account) menerima dua kombinasi lain saat Anda membuat akun: paspor yang masih berlaku ditambah nomor permohonan visa Anda, atau paspor yang masih berlaku ditambah nomor BRP Anda. Nomor BRP tercetak di kartu itu sendiri, jadi sebaiknya catat di tempat yang aman selagi kartunya masih di tangan Anda.
 
 Jika Anda tidak memiliki paspor yang masih berlaku maupun BRP yang kedaluwarsa, GOV.UK menyatakan Anda bisa mengonfirmasi identitas dengan cara lain. Halaman tersebut tidak menjelaskan langkah-langkahnya dan mengarahkan Anda ke webchat UK Visas and Immigration, jadi itulah tempat untuk memulai.
 
@@ -58,7 +58,7 @@ Saat anak Anda genap 18 tahun, detail akun sebaiknya dipindahkan ke nomor telepo
 
 ## Untuk Bepergian, Paspor yang Anda Gunakan Harus Tercantum di Akun UKVI Anda
 
-GOV.UK tegas soal ini: Anda harus bepergian dengan paspor atau dokumen perjalanan yang masih berlaku dan sudah Anda tambahkan ke akun UKVI Anda. eVisa Anda diperiksa saat Anda meninggalkan dan memasuki Inggris, oleh petugas perbatasan atau di eGates, dan saat Anda check-in dengan operator pengangkut untuk kembali ke Inggris. Pemeriksaan itu melihat eVisa Anda melalui paspor yang ada di akun Anda. Jika detail di akun Anda tidak cocok persis dengan informasi penumpang yang Anda berikan ke operator, operator tersebut mungkin tidak mengizinkan Anda bepergian, dan Anda juga bisa tertahan di perbatasan Inggris.
+[GOV.UK](https://www.gov.uk/evisa/travel-with-evisa) tegas soal ini: Anda harus bepergian dengan paspor atau dokumen perjalanan yang masih berlaku dan sudah Anda tambahkan ke akun UKVI Anda. eVisa Anda diperiksa saat Anda meninggalkan dan memasuki Inggris, oleh petugas perbatasan atau di eGates, dan saat Anda check-in dengan operator pengangkut untuk kembali ke Inggris. Pemeriksaan itu melihat eVisa Anda melalui paspor yang ada di akun Anda. Jika detail di akun Anda tidak cocok persis dengan informasi penumpang yang Anda berikan ke operator, operator tersebut mungkin tidak mengizinkan Anda bepergian, dan Anda juga bisa tertahan di perbatasan Inggris.
 
 Sebelum bepergian, masuk ke akun Anda, pastikan paspor di akun adalah yang akan Anda gunakan, dan dapatkan share code. Kode ini berlaku 90 hari dan bisa dipakai lebih dari sekali, dan petugas maskapai atau perbatasan mungkin akan memintanya. Sebaiknya dapatkan kode itu sebelum memesan tiket, bukan saat mengantre di bandara.
 
@@ -68,7 +68,7 @@ Jika Anda memiliki dua kewarganegaraan, pikirkan paspor mana yang akan Anda guna
 
 Jika Anda sudah memperpanjang paspor, paspor baru itu harus ditambahkan ke akun Anda sebelum Anda terbang dengannya, dan GOV.UK menyatakan Anda bisa memperbarui nomor paspor dan tanggal kedaluwarsa di akun Anda sendiri. Dengan paspor biometrik, Anda juga bisa memperbarui nama dan kewarganegaraan sendiri; perubahan lainnya harus dilakukan oleh UK Visas and Immigration. Jika Anda belum memperpanjang paspor, panduan kami tentang [memperpanjang paspor sebelum kedaluwarsa](https://traveldocumentvault.com/id/blog/renew-passport-before-expiry/) membahas kapan harus memulainya, dan paspor baru langsung ditambahkan ke akun Anda begitu sudah di tangan.
 
-Sumber yang kami periksa (6 November 2026)
+Sumber resmi
 
 - [UK Government: eVisa, setting up a UKVI account](https://www.gov.uk/evisa/set-up-ukvi-account)
 - [UK Government: travelling with an eVisa](https://www.gov.uk/evisa/travel-with-evisa)

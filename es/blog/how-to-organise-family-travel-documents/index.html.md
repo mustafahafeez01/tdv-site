@@ -39,13 +39,13 @@ Depende de dónde vayas, pero para la mayoría de viajes familiares internaciona
 
 **Lo que añade viajar con niños**
 
-- Certificados de nacimiento —a veces se requieren en inmigración, especialmente cuando el apellido del niño difiere del del padre que viaja
+- Certificados de nacimiento —[a veces se requieren en inmigración](https://www.gov.uk/foreign-travel-advice/mexico/entry-requirements), especialmente cuando el apellido del niño difiere del del padre que viaja
 - Una carta de consentimiento parental firmada si uno de los padres no está presente —fuertemente recomendada para viajes con un solo padre o con abuelos
 - Órdenes judiciales de custodia, si corresponde
 
 ### Carta de consentimiento para viajes con niños. Cuándo la necesitas
 
-Una carta de consentimiento para viajes con niños es un documento firmado por el progenitor ausente —o tutor legal— que autoriza el viaje del menor. Por lo general no es un requisito legal, pero los agentes fronterizos de algunos países, como Canadá, pueden pedir pruebas de que ambos progenitores están de acuerdo cuando el menor viaja con uno solo o con otro adulto. Es fácil llevarla y puede ahorrarte preguntas en la frontera.
+Una carta de consentimiento para viajes con niños es un documento firmado por el progenitor ausente —o tutor legal— que autoriza el viaje del menor. Por lo general no es un requisito legal, pero los agentes fronterizos de algunos países, como [Canadá](https://travel.gc.ca/travelling/children/consent-letter), pueden pedir pruebas de que ambos progenitores están de acuerdo cuando el menor viaja con uno solo o con otro adulto. Es fácil llevarla y puede ahorrarte preguntas en la frontera.
 
 Sudáfrica tiene sus propias normas para viajar con menores, incluido un certificado de nacimiento íntegro, así que consulta la orientación de su Department of Home Affairs antes de viajar.
 
@@ -57,7 +57,7 @@ Una carta de consentimiento válida debe incluir: el nombre completo del niño y
 
 - Licencia de conducir internacional (si vas a alquilar un coche en el extranjero)
 - Registros médicos o detalles de prescripción para condiciones crónicas
-- Tarjeta Sanitaria Europea (EHIC), si tienes cobertura de un sistema sanitario de la UE
+- Tarjeta Sanitaria Europea (EHIC), si tienes [cobertura de un sistema sanitario de la UE](https://europa.eu/youreurope/citizens/health/unplanned-healthcare/temporary-stays/index_en.htm)
 
 ## Organización física. Dónde guardar los originales
 
@@ -128,7 +128,7 @@ Si todavía no lo has hecho, elige el único lugar donde vivirán los pasaportes
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 
-Fuentes que hemos comprobado (6 de noviembre de 2026)
+Fuentes oficiales
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [UK Foreign Office: Mexico entry requirements](https://www.gov.uk/foreign-travel-advice/mexico/entry-requirements)

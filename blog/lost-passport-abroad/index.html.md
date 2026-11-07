@@ -36,7 +36,7 @@ Check everywhere before assuming the worst - jacket pockets, every bag compartme
 
 ## Step 2: File a Police Report Immediately
 
-Go to the nearest police station and report the passport lost or stolen. Your insurer will usually want it for a claim, and some embassies ask for it, though not all do: the Government of Canada, for example, says it isn't required for passport replacement. We'd do it within the hour if possible, while the details are still fresh in your mind.
+Go to the nearest police station and report the passport lost or stolen. Your insurer will usually want it for a claim, and some embassies ask for it, though not all do: [the Government of Canada](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings), for example, says it isn't required for passport replacement. We'd do it within the hour if possible, while the details are still fresh in your mind.
 
 Ask for a written copy with a case number, and request an English translation if one's available. Take a photo of it and keep multiple copies safe.
 
@@ -53,7 +53,7 @@ Call before you visit. Some embassies require an appointment for emergency passp
 
 ## Step 4: Apply for an Emergency Travel Document
 
-Your embassy issues an emergency travel document (ETD) or emergency passport, typically valid for a single journey home. Turnaround depends on the post and on how urgent your case is, so ask when you call.
+Your embassy issues an [emergency travel document](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport) (ETD) or emergency passport, typically valid for a single journey home. Turnaround depends on the post and on how urgent your case is, so ask when you call.
 
 What you will typically need (confirm with your embassy before visiting):
 
@@ -84,12 +84,11 @@ Once you have your emergency travel document, confirm exit requirements with loc
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [Government of Canada: Lost or stolen belongings abroad](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings)
 - [UK Government: Travel urgently from abroad without your UK passport, How to apply](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport/how-to-apply)
 - [UK Government: Travel urgently from abroad without your UK passport, Who can apply](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport)
-- [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
 
 ## Frequently Asked Questions
 
@@ -103,7 +102,7 @@ Yes. Many countries issue emergency travel documents through their embassies and
 
 ### Do I need a police report if my passport is stolen abroad?
 
-Usually worth getting, though not every passport authority requires it. The Government of Canada says a police report isn't required for passport replacement but may help with insurance claims, and GOV.UK doesn't list one for a UK emergency travel document application. Some embassies do ask for one, and most travel insurers want it for a claim. Get it from the local police station immediately, ask for an English copy if possible, and keep multiple copies.
+Usually worth getting, though not every passport authority requires it. The Government of Canada says a police report isn't required for passport replacement but may help with insurance claims, and [GOV.UK](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport/how-to-apply) doesn't list one for a UK emergency travel document application. Some embassies do ask for one, and most travel insurers want it for a claim. Get it from the local police station immediately, ask for an English copy if possible, and keep multiple copies.
 
 ### Will travel insurance cover a lost or stolen passport?
 

@@ -34,15 +34,15 @@ Sommige luchtvaartmaatschappijen en grensbeambten kunnen vragen om bewijs van je
 
 ### Vaccinatiebewijzen
 
-Bepaalde bestemmingen vereisen bewijs van vaccinatie tegen gele koorts of andere ziekten, en de vereisten veranderen regelmatig per bestemming. Controleer de reisadviespagina's van de WHO 4 tot 8 weken voor vertrek – niet de avond ervoor – en neem het originele certificaat mee in plaats van een kopie, want sommige landen vragen er om.
+Bepaalde bestemmingen vereisen bewijs van vaccinatie tegen gele koorts of andere ziekten, en de vereisten veranderen regelmatig per bestemming. Controleer de [reisadviespagina's van de WHO](https://www.who.int/health-topics/travel-and-health) 4 tot 8 weken voor vertrek – niet de avond ervoor – en neem het originele certificaat mee in plaats van een kopie, want sommige landen vragen er om.
 
 ### Gegevens van je reisverzekering
 
-Je hebt directe toegang nodig tot je polisnummer, de contactgegevens van de verzekeraar en je 24-uurs alarmnummer. Sommige visumtypen vereisen expliciet bewijs van een reisverzekering – Schengenvisumaanvragen vereisen bijvoorbeeld een medische verzekering die spoedeisende zorg en ziekenhuisopname dekt. Belangrijker nog: als er in het buitenland iets misgaat, heb je deze gegevens nodig zonder afhankelijk te zijn van e-mail of internettoegang.
+Je hebt directe toegang nodig tot je polisnummer, de contactgegevens van de verzekeraar en je 24-uurs alarmnummer. Sommige visumtypen vereisen expliciet bewijs van een reisverzekering – [Schengenvisumaanvragen](https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en) vereisen bijvoorbeeld een medische verzekering die spoedeisende zorg en ziekenhuisopname dekt. Belangrijker nog: als er in het buitenland iets misgaat, heb je deze gegevens nodig zonder afhankelijk te zijn van e-mail of internettoegang.
 
 ### Toestemmingsverklaringen voor reizende kinderen
 
-Als een kind internationaal met slechts één ouder reist (of met geen van beide ouders), verwachten veel landen schriftelijke toestemming van de afwezige ouder, en notariële bekrachtiging wordt sterk aangeraden. Grensbeambten en luchtvaartpersoneel in veel landen, Canada onder andere, kunnen hier om vragen, en Zuid-Afrika heeft eigen regels voor kinderen die het land binnenkomen, dus check de officiële pagina van je bestemming. Zonder verklaring kun je vertraging oplopen of niet mogen instappen.
+Als een kind internationaal met slechts één ouder reist (of met geen van beide ouders), verwachten veel landen schriftelijke toestemming van de afwezige ouder, en notariële bekrachtiging wordt sterk aangeraden. Grensbeambten en luchtvaartpersoneel in veel landen, [Canada](https://travel.gc.ca/travelling/children/consent-letter) onder andere, kunnen hier om vragen, en [Zuid-Afrika](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements) heeft eigen regels voor kinderen die het land binnenkomen, dus check de officiële pagina van je bestemming. Zonder verklaring kun je vertraging oplopen of niet mogen instappen.
 
 Het is het meest over het hoofd geziene document bij gezinsreizen, dus controleer het dubbel voordat je bij de gate staat.
 
@@ -109,7 +109,7 @@ Kies het ene document uit deze lijst waarvan je nog geen back-up hebt, of dat nu
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 
-Bronnen die we hebben gecontroleerd (6 november 2026)
+Officiële bronnen
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [UK Foreign Office: South Africa entry requirements](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements)

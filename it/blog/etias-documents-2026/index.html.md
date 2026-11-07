@@ -13,12 +13,12 @@ Source: https://traveldocumentvault.com/it/blog/etias-documents-2026/
 - **ETIAS è un'autorizzazione di viaggio digitale** per i viaggiatori del Regno Unito, USA e Canada — necessaria per l'ingresso senza visto nell'area Schengen una volta diventata obbligatoria
 - **Ti serve un passaporto valido per più di 3 mesi** oltre la data di partenza e un indirizzo email per richiedere
 - Il tempo di elaborazione varia, specialmente subito dopo il lancio; **richiedi con largo anticipo rispetto al tuo viaggio** e consulta il sito ufficiale dell'UE per le indicazioni attuali
-- Consulta la tariffa attuale sul sito ufficiale dell'UE; **i minori di 18 anni e i maggiori di 70 non pagano** ma hanno comunque bisogno di un'autorizzazione
+- Consulta la tariffa attuale sul [sito ufficiale dell'UE](https://home-affairs.ec.europa.eu/news/european-travel-authorisation-etias-will-cost-eur-20-2025-07-17_en); **i minori di 18 anni e i maggiori di 70 non pagano** ma hanno comunque bisogno di un'autorizzazione
 - **I dubbi sull’affidabilità delle risposte possono portare al rifiuto, quindi dichiara tutto, anche se è datato**
 
 Hai prenotato un viaggio in famiglia in Italia e hai sentito dire che ETIAS sta per arrivare — un nuovo requisito di autorizzazione digitale per i visitatori esenti da visto diretti in Europa. Questa guida spiega cos'è ETIAS, quali documenti ti servono e come funziona la domanda, così sei preparato prima di arrivare al modulo.
 
-Il Sistema europeo di informazione e autorizzazione ai viaggi (ETIAS) non è un visto — è un'autorizzazione preliminare ai viaggi digitale per i visitatori da paesi esenti da visto. I cittadini del Regno Unito, USA e Canada generalmente si registrano alla frontiera nel Sistema di ingresso e uscita (EES), con foto e impronte digitali al primo ingresso, e superano un controllo di frontiera. Una volta che ETIAS diventerà obbligatorio, il processo si sposterà online — farai domanda prima di volare.
+Il Sistema europeo di informazione e autorizzazione ai viaggi (ETIAS) non è un visto — è un'[autorizzazione preliminare ai viaggi digitale](https://travel-europe.europa.eu/en/etias) per i visitatori da paesi esenti da visto. I cittadini del Regno Unito, USA e Canada generalmente si registrano alla frontiera nel [Sistema di ingresso e uscita (EES)](https://travel-europe.europa.eu/en/ees), con foto e impronte digitali al primo ingresso, e superano un controllo di frontiera. Una volta che ETIAS diventerà obbligatorio, il processo si sposterà online — farai domanda prima di volare.
 
 ## Che cos'è ETIAS e chi ne ha bisogno
 
@@ -110,7 +110,7 @@ Il compito pratico di oggi è prendere il passaporto e controllarlo rispetto all
 
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 
-Fonti che abbiamo verificato (6 novembre 2026)
+Fonti ufficiali
 
 - [EU travel: ETIAS](https://travel-europe.europa.eu/en/etias)
 - [EU travel: Entry/Exit System (EES)](https://travel-europe.europa.eu/en/ees)

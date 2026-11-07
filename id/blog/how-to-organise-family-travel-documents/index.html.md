@@ -39,13 +39,13 @@ Tergantung ke mana Anda pergi, tapi untuk kebanyakan perjalanan keluarga interna
 
 **Tambahan saat bepergian dengan anak**
 
-- Akta kelahiran — kadang disyaratkan saat imigrasi, terutama jika nama belakang anak berbeda dari orang tua yang bepergian
+- Akta kelahiran — [kadang disyaratkan saat imigrasi](https://www.gov.uk/foreign-travel-advice/mexico/entry-requirements), terutama jika nama belakang anak berbeda dari orang tua yang bepergian
 - Surat izin bertanda tangan dari orang tua jika salah satu tidak ikut, sangat direkomendasikan untuk perjalanan dengan orang tua tunggal atau kakek-nenek
 - Putusan hak asuh, jika berlaku
 
 ### Surat Izin Perjalanan Anak: Kapan Anda Membutuhkannya
 
-Surat izin perjalanan anak adalah dokumen bertanda tangan dari orang tua (atau wali sah) yang tidak ikut, memberikan izin bagi anak untuk bepergian. Ini umumnya bukan persyaratan hukum, tetapi petugas perbatasan di sebagian negara, termasuk Kanada, mungkin meminta bukti bahwa kedua orang tua menyetujui perjalanan saat anak bepergian dengan satu orang tua atau orang dewasa lain. Surat ini mudah dibawa dan bisa mengurangi pertanyaan di perbatasan.
+Surat izin perjalanan anak adalah dokumen bertanda tangan dari orang tua (atau wali sah) yang tidak ikut, memberikan izin bagi anak untuk bepergian. Ini umumnya bukan persyaratan hukum, tetapi petugas perbatasan di sebagian negara, termasuk [Kanada](https://travel.gc.ca/travelling/children/consent-letter), mungkin meminta bukti bahwa kedua orang tua menyetujui perjalanan saat anak bepergian dengan satu orang tua atau orang dewasa lain. Surat ini mudah dibawa dan bisa mengurangi pertanyaan di perbatasan.
 
 Afrika Selatan memiliki aturan sendiri untuk bepergian dengan anak, termasuk akta kelahiran lengkap, jadi periksa panduan Home Affairs sebelum berangkat.
 
@@ -57,7 +57,7 @@ Surat izin yang sah sebaiknya mencakup: nama lengkap dan tanggal lahir anak, nam
 
 - SIM internasional (jika menyewa mobil di luar negeri)
 - Catatan medis atau resep untuk kondisi yang sedang berlangsung
-- Kartu Asuransi Kesehatan Eropa (EHIC), jika Anda tercakup dalam sistem kesehatan UE
+- Kartu Asuransi Kesehatan Eropa (EHIC), jika Anda [tercakup dalam sistem kesehatan UE](https://europa.eu/youreurope/citizens/health/unplanned-healthcare/temporary-stays/index_en.htm)
 
 ## Pengorganisasian Fisik: Di Mana Menyimpan Dokumen Asli
 
@@ -128,7 +128,7 @@ Jika Anda belum melakukannya, tentukan satu tempat untuk menyimpan semua paspor,
 
 **Sebelum Anda mengandalkan ini:** ini adalah blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 
-Sumber yang kami periksa (6 November 2026)
+Sumber resmi
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [UK Foreign Office: Mexico entry requirements](https://www.gov.uk/foreign-travel-advice/mexico/entry-requirements)

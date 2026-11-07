@@ -37,7 +37,7 @@ La logica è semplice: i paesi vogliono assicurazioni che non vi tratterrete olt
 
 A volte sì. Se la vostra destinazione richiede solo che il passaporto resti valido per la durata del soggiorno, cinque mesi di validità residua di solito bastano per entrare. Il Regno Unito funziona così per la maggior parte dei visitatori, e i paesi Schengen generalmente chiedono tre mesi oltre la partenza prevista, non sei.
 
-Se la vostra destinazione applica la regola dei 6 mesi, no. Thailandia, Indonesia, Vietnam e molti altri paesi generalmente rifiutano l'ingresso, e la compagnia aerea di solito nega l'imbarco molto prima che raggiungiate la frontiera.
+Se la vostra destinazione applica la regola dei 6 mesi, no. Thailandia, [Indonesia](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements), Vietnam e molti altri paesi generalmente rifiutano l'ingresso, e la compagnia aerea di solito nega l'imbarco molto prima che raggiungiate la frontiera.
 
 Quindi la risposta dipende da dove state andando, non dal passaporto in sé. Controllate il requisito della destinazione il giorno in cui prenotate, e di nuovo nella settimana in cui partite.
 
@@ -54,12 +54,12 @@ La seguente tabella copre le destinazioni più comuni. Le politiche cambiano, qu
 | Filippine | 6 mesi | Più biglietto di ritorno o prosecuzione richiesto |
 | India | 6 mesi | Visto anche richiesto per la maggior parte delle nazionalità |
 | Kenya | 6 mesi | eVisa richiesto; regola dei 6 mesi si applica |
-| Turchia | 150 giorni dall'arrivo | Ministero degli Esteri britannico: scadenza almeno 150 giorni dopo la data di arrivo |
+| Turchia | 150 giorni dall'arrivo | [Ministero degli Esteri britannico](https://www.gov.uk/foreign-travel-advice/turkey/entry-requirements): scadenza almeno 150 giorni dopo la data di arrivo |
 | UE / Schengen | 3 mesi oltre la partenza | Più una data di rilascio inferiore a 10 anni |
 | Regno Unito | Durata del soggiorno soltanto | I cittadini del Regno Unito all'estero rimangono soggetti alle regole del paese di destinazione |
 | Stati Uniti | Durata del soggiorno soltanto | I cittadini statunitensi all'estero rimangono soggetti alle regole del paese di destinazione |
 | Giappone / Australia | Durata del soggiorno soltanto | Nessuna regola di estensione di 6 mesi per i visitatori |
-| Nuova Zelanda | 3 mesi oltre la partenza | Ministero degli Esteri britannico: scadenza almeno 3 mesi dopo il giorno in cui prevedi di partire |
+| Nuova Zelanda | 3 mesi oltre la partenza | [Ministero degli Esteri britannico](https://www.gov.uk/foreign-travel-advice/new-zealand/entry-requirements): scadenza almeno 3 mesi dopo il giorno in cui prevedi di partire |
 
 Questo non è un elenco esaustivo, e i requisiti variano in base alla vostra nazionalità — non solo alla destinazione. Controllate sempre l'avviso di viaggio ufficiale del vostro governo prima di prenotare.
 
@@ -69,9 +69,9 @@ Verificate sempre i vostri requisiti specifici utilizzando il Centro Viaggi IATA
 
 ## Quando la Regola dei 6 Mesi Non si Applica
 
-Molte destinazioni non chiedono nulla oltre le date del vostro viaggio. Il Ministero degli Esteri britannico lo dice chiaramente per il Giappone: il vostro passaporto deve essere valido per la durata del soggiorno, e non è richiesto alcun periodo di validità aggiuntivo. Australia e Stati Uniti usano lo stesso standard, chiedendo solo che il vostro passaporto resti valido per la durata del soggiorno previsto.
+Molte destinazioni non chiedono nulla oltre le date del vostro viaggio. Il [Ministero degli Esteri britannico](https://www.gov.uk/foreign-travel-advice/japan/entry-requirements) lo dice chiaramente per il Giappone: il vostro passaporto deve essere valido per la durata del soggiorno, e non è richiesto alcun periodo di validità aggiuntivo. [Australia](https://www.gov.uk/foreign-travel-advice/australia/entry-requirements) e [Stati Uniti](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements) usano lo stesso standard, chiedendo solo che il vostro passaporto resti valido per la durata del soggiorno previsto.
 
-L'Europa si colloca nel mezzo, ed è la fascia che le persone fraintendono più spesso. Per visitare l'area Schengen, il Ministero degli Esteri afferma che il vostro passaporto deve avere una data di scadenza di almeno tre mesi dopo il giorno in cui prevedete di partire. Tre mesi, non sei.
+L'Europa si colloca nel mezzo, ed è la fascia che le persone fraintendono più spesso. Per visitare l'area Schengen, il [Ministero degli Esteri](https://www.gov.uk/foreign-travel-advice/france/entry-requirements) afferma che il vostro passaporto deve avere una data di scadenza di almeno tre mesi dopo il giorno in cui prevedete di partire. Tre mesi, non sei.
 
 C'è una seconda condizione Schengen che coglie le persone di sorpresa molto più spesso della prima: la vostra data di rilascio deve essere inferiore a dieci anni prima del giorno del vostro arrivo. Entrambe le condizioni devono essere soddisfatte, e un passaporto può superarne una mentre non supera l'altra.
 
@@ -121,7 +121,7 @@ Queste fonti vi dicono il requisito ufficiale e se si applica ai possessori del 
 
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 
-Fonti che abbiamo verificato (6 novembre 2026)
+Fonti ufficiali
 
 - [UK Foreign Office: USA entry requirements](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements)
 - [UK Foreign Office: France entry requirements](https://www.gov.uk/foreign-travel-advice/france/entry-requirements)

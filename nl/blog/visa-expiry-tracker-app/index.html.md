@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/nl/blog/visa-expiry-tracker-app/
 - Bezoekers van het Schengengebied moeten een voortschrijdend venster van 90/180 dagen bijhouden, niet slechts één enkele vervaldatum, omdat de telling meeloopt met je werkelijke reisgeschiedenis, niet met de kalender.
 - Visa en paspoorten samen op één plek bijhouden verkleint het risico op een mismatch: inreizen op een geldig visum maar met een paspoort dat verloopt voordat het geplande verblijf eindigt.
 
-Een visumoverstay is een van de meest verstrekkende reisfouten die iemand kan maken. In tegenstelling tot een gemiste vlucht – stressvol maar uiteindelijk oplosbaar – laat een overstay een formeel immigratiedossier achter dat je jarenlang kan achtervolgen. In de Verenigde Staten geldt volgens sectie 212(a)(9)(B) van de Amerikaanse Immigration and Nationality Act: wie meer dan 180 dagen, maar minder dan een jaar, onrechtmatig verblijft en dan vertrekt, krijgt doorgaans een inreisverbod van drie jaar, en een jaar of langer onrechtmatig verblijf betekent doorgaans een verbod van tien jaar. Deze gevolgen zijn niet algemeen bekend.
+Een visumoverstay is een van de meest verstrekkende reisfouten die iemand kan maken. In tegenstelling tot een gemiste vlucht – stressvol maar uiteindelijk oplosbaar – laat een overstay een formeel immigratiedossier achter dat je jarenlang kan achtervolgen. In de Verenigde Staten geldt volgens sectie 212(a)(9)(B) van de [Amerikaanse Immigration and Nationality Act](https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chap12-subchapII-partII-sec1182.htm): wie meer dan 180 dagen, maar minder dan een jaar, onrechtmatig verblijft en dan vertrekt, krijgt doorgaans een inreisverbod van drie jaar, en een jaar of langer onrechtmatig verblijf betekent doorgaans een verbod van tien jaar. Deze gevolgen zijn niet algemeen bekend.
 
 Een app voor visumvervaldatums is gebouwd om precies dit te voorkomen: hij moet meerdere datums tegelijk bijhouden, geldigheid voor inreis, maximale verblijfsduur en aantal inreizen, elk een aparte deadline.
 
@@ -43,7 +43,7 @@ Een app die alleen de geldigheidsdatum voor inreis bijhoudt, mist precies deze v
 
 Voor reizigers die meerdere Europese landen bezoeken, is de 90/180-dagenregel van het Schengengebied een van de meest verkeerd begrepen inreisvoorwaarden in het internationale reizen. Burgers van landen met visumvrije toegang tot Schengen (waaronder het VK, de VS, Canada en Australië, naast vele andere) mogen maximaal 90 dagen in het Schengengebied verblijven binnen elke voortschrijdende periode van 180 dagen.
 
-De Europese Commissie biedt een officiële Schengen-verblijfscalculator om reizigers te helpen hun toegestane dagen te berekenen, wat belangrijk is omdat het om een *voortschrijdend venster* gaat, niet om een reset per kalenderjaar. Dagen die zes maanden geleden in Schengen zijn doorgebracht, tellen nog steeds mee voor je huidige limiet, dus één enkele vervaldatum controleren vangt een overstay niet op. Wat telt is je werkelijke in- en uitreisgeschiedenis, niet de datum die op het visum staat.
+De Europese Commissie biedt een [officiële Schengen-verblijfscalculator](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en) om reizigers te helpen hun toegestane dagen te berekenen, wat belangrijk is omdat het om een *voortschrijdend venster* gaat, niet om een reset per kalenderjaar. Dagen die zes maanden geleden in Schengen zijn doorgebracht, tellen nog steeds mee voor je huidige limiet, dus één enkele vervaldatum controleren vangt een overstay niet op. Wat telt is je werkelijke in- en uitreisgeschiedenis, niet de datum die op het visum staat.
 
 ## Wat er gebeurt als je een visum overschrijdt
 
@@ -51,7 +51,7 @@ De gevolgen van een visumoverstay verschillen per land, maar zijn doorgaans erns
 
 - **VK:** Overstays worden geregistreerd en beïnvloeden toekomstige visumaanvragen. Het Britse Home Office weegt overstays mee bij het beoordelen van geloofwaardigheid en kan latere aanvragen afwijzen.
 - **Australië:** Een overstay kan leiden tot beperkingen bij toekomstige visumaanvragen en uitzetting uit het land. Onder de Migration Act 1958 worden overstays geregistreerd en beïnvloeden ze toekomstige visumaanvragen en de mogelijkheid om weer in te reizen.
-- **Schengengebied:** Verblijven worden bij de grens geregistreerd, en een inreisverbod van één Schengenland wordt doorgaans via het Schengen Informatiesysteem met de andere gedeeld, zodat het in het hele Schengengebied geldt, dat de Europese Commissie momenteel op 29 landen stelt.
+- **Schengengebied:** Verblijven worden bij de grens geregistreerd, en een inreisverbod van één Schengenland wordt doorgaans via het [Schengen Informatiesysteem](https://home-affairs.ec.europa.eu/policies/schengen/schengen-information-system/what-sis-and-how-does-it-work_en) met de andere gedeeld, zodat het in het hele Schengengebied geldt, [dat de Europese Commissie momenteel op 29 landen stelt](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en).
 - **Thailand:** Overstays leiden tot een dagelijkse boete die door de Thaise immigratiedienst wordt vastgesteld, tot een maximum, en een overstay van meer dan 90 dagen kan leiden tot uitzetting en een verbod om terug te keren.
 
 In alle gevallen blijft het overstay-dossier je meestal volgen: het verschijnt in immigratiedatabases die worden gecontroleerd bij toekomstige grensovergangen en visumaanvragen.
@@ -80,7 +80,7 @@ Vergelijk vandaag nog de vervaldatum van je paspoort met je visumdata: zelfs een
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 
-Bronnen die we hebben gecontroleerd (6 november 2026)
+Officiële bronnen
 
 - [US Code: Title 8, section 1182](https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chap12-subchapII-partII-sec1182.htm)
 - [European Commission: Schengen area](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en)

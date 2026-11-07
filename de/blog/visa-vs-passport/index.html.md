@@ -22,9 +22,9 @@ Reisepass und Visum klingen fast austauschbar, erfüllen aber unterschiedliche A
 
 Ihr Reisepass enthält Ihren Namen, Ihr Geburtsdatum, ein Foto und eine eindeutige Passnummer – ausgestellt von Ihrer Regierung und weltweit anerkannt als Beweis Ihrer Staatsangehörigkeit.
 
-Er dient als Ihr offizielles Ausweisdokument für internationale Reisen. Für die meisten internationalen Reisen brauchen Sie ihn, um Ihr Land zu verlassen und im Ausland eingelassen zu werden, auch wenn manche Regionen andere Dokumente akzeptieren, etwa nationale Ausweiskarten innerhalb Europas oder eine US-Passkarte bei Land- und Seegrenzübergängen. Beamte an der Grenze überprüfen ihn, Fluggesellschaften verlangen ihn für internationale Flüge, und Zollbeamte kontrollieren ihn bei der Ankunft.
+Er dient als Ihr offizielles Ausweisdokument für internationale Reisen. Für die meisten internationalen Reisen brauchen Sie ihn, um Ihr Land zu verlassen und im Ausland eingelassen zu werden, auch wenn manche Regionen andere Dokumente akzeptieren, etwa nationale Ausweiskarten innerhalb Europas oder eine [US-Passkarte](https://www.cbp.gov/travel/us-citizens/western-hemisphere-travel-initiative) bei Land- und Seegrenzübergängen. Beamte an der Grenze überprüfen ihn, Fluggesellschaften verlangen ihn für internationale Flüge, und Zollbeamte kontrollieren ihn bei der Ankunft.
 
-Reisepässe sind normalerweise mehrere Jahre gültig (oft 10 Jahre für Erwachsene, 5 Jahre für Kinder), obwohl die Gültigkeitszeiträume je nach Land unterschiedlich sind. Wenn Ihr Reisepass abläuft, können Sie nicht international reisen und müssen eine Verlängerung beantragen. Das Verfallsdatum Ihres Reisepasses zu verfolgen ist kritisch, da viele Länder mindestens 6 Monate Gültigkeit verlangen, bevor sie Ihnen einreisen erlauben.
+Reisepässe sind normalerweise mehrere Jahre gültig (oft 10 Jahre für Erwachsene, 5 Jahre für Kinder), obwohl die Gültigkeitszeiträume je nach Land unterschiedlich sind. Wenn Ihr Reisepass abläuft, können Sie nicht international reisen und müssen eine Verlängerung beantragen. Das Verfallsdatum Ihres Reisepasses zu verfolgen ist kritisch, da viele Länder [mindestens 6 Monate Gültigkeit](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements) verlangen, bevor sie Ihnen einreisen erlauben.
 
 ## Was ist ein Visum
 
@@ -59,7 +59,7 @@ Die meisten Länder stellen Visa in diesen Kategorien aus:
 - **Touristenvisum:** Der häufigste Typ, ausgestellt für Freizeitreisen, Sightseeing und den Besuch von Freunden oder Familie.
 - **Arbeitsvisum:** Erforderlich für die Beschäftigung im Ausland. Arbeitgeber sponsern normalerweise diese, mit spezifischen Einschränkungen, welche Arbeit Sie durchführen dürfen.
 - **Studentenvisum:** Zum Studieren an einer anerkannten Bildungseinrichtung, oft mit Einschränkungen für externe Arbeit und spezifischen Dauer begrenzt.
-- **Transitvisum:** Erforderlich von einigen Ländern zum Durchreisen auf dem Weg zu einem anderen Bestimmungsort – auch wenn Sie nur Flugzeuge wechseln.
+- **Transitvisum:** Erforderlich von einigen Ländern zum Durchreisen auf dem Weg zu einem anderen Bestimmungsort – [auch wenn Sie nur Flugzeuge wechseln](https://www.gov.uk/transit-visa).
 - **E-Visum:** Ein elektronisches Visum, das online beantragt und in der Regel im System des Bestimmungslandes gespeichert wird, verbunden mit Ihrer Passnummer. Verbreitet in Südostasien und zunehmend anderswo.
 - **Visum bei Ankunft:** Ausgestellt an Ihrem Bestimmungsflughafen oder an der Grenze, wenn Sie landen. Die Bearbeitung ist normalerweise schnell, obwohl Warteschlangen lang sein können, und nicht alle Länder bieten diese Option an.
 
@@ -115,7 +115,7 @@ Visafreier Zugang hängt auch völlig von Ihrer Nationalität ab. Zwei zusammen 
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 
-Quellen, die wir geprüft haben (6. November 2026)
+Offizielle Quellen
 
 - [European Commission: Schengen area](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en)
 - [European Commission: Short-stay calculator](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en)

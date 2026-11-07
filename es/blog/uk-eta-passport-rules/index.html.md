@@ -22,7 +22,7 @@ Esto es un problema de seguimiento de documentos. Tienes dos fechas que vigilar:
 
 ## La mayoría de los visitantes exentos de visado ya necesitan una ETA
 
-Si eres nacional de Estados Unidos, Canadá, Australia, Nueva Zelanda, o de un país de la UE o del Espacio Económico Europeo, es probable que necesites una ETA del Reino Unido. El sistema entró en vigor el 25 de febrero de 2026 para la mayoría de nacionales exentos de visado.
+Si eres nacional de Estados Unidos, Canadá, Australia, Nueva Zelanda, o de un país de la UE o del Espacio Económico Europeo, [es probable que necesites una ETA del Reino Unido](https://www.gov.uk/eta). El sistema [entró en vigor el 25 de febrero de 2026](https://www.gov.uk/government/news/no-permission-no-travel-uk-set-to-enforce-eta-scheme) para la mayoría de nacionales exentos de visado.
 
 Algunas personas están exentas: los ciudadanos irlandeses no la necesitan, y las personas con estatus migratorio en el Reino Unido —un visado, el settled status o una autorización de residencia permanente— tampoco tienen que solicitarla. Las personas con doble nacionalidad, quienes tienen derechos derivados del Área de Viaje Común (Common Travel Area), y algunos otros grupos siguen normas distintas según cómo viajen.
 
@@ -30,7 +30,7 @@ Algunas personas están exentas: los ciudadanos irlandeses no la necesitan, y la
 
 ## La ETA está vinculada a tu número de pasaporte, no a ti
 
-Tu ETA del Reino Unido está vinculada a tu número de pasaporte, no a ti como persona. Cuando solicitas la ETA, el Home Office asocia la aprobación a un número de pasaporte concreto. Viajar con un pasaporte distinto —uno recién renovado, un segundo pasaporte, un reemplazo de emergencia— significa viajar con una ETA que no está vinculada a ese documento.
+Tu ETA del Reino Unido está [vinculada a tu número de pasaporte](https://www.gov.uk/check-eta), no a ti como persona. Cuando solicitas la ETA, el Home Office asocia la aprobación a un número de pasaporte concreto. Viajar con un pasaporte distinto —uno recién renovado, un segundo pasaporte, un reemplazo de emergencia— significa viajar con una ETA que no está vinculada a ese documento.
 
 Una ETA del Reino Unido es digital y específica del pasaporte, así que un número de pasaporte nuevo implica que necesitas una ETA nueva.
 
@@ -89,11 +89,11 @@ Una ETA tampoco es un visado —no determina cuánto tiempo puedes quedarte. Los
 
 La ETA del Reino Unido es solo una de varias autorizaciones de viaje digitales ya en uso. Si estás planeando un viaje por varios países, conviene entender la diferencia entre una ETA y un [visado](https://traveldocumentvault.com/es/blog/visa-vs-passport/). Se parecen en el trámite, pero cumplen funciones distintas.
 
-La UE prevé su propia autorización de viaje digital, [ETIAS](https://traveldocumentvault.com/es/blog/etias-documents-2026/), que todavía no está en funcionamiento. Es un concepto parecido al de la ETA del Reino Unido, pero con normas y requisitos distintos. Cuando arranque, un viaje que incluya tanto el Reino Unido como el espacio Schengen podría requerir las dos.
+La UE prevé su propia autorización de viaje digital, [ETIAS](https://traveldocumentvault.com/es/blog/etias-documents-2026/), que [todavía no está en funcionamiento](https://travel-europe.europa.eu/en/etias). Es un concepto parecido al de la ETA del Reino Unido, pero con normas y requisitos distintos. Cuando arranque, un viaje que incluya tanto el Reino Unido como el espacio Schengen podría requerir las dos.
 
 Si ya tienes un viaje reservado, haz esto hoy mismo: compara la fecha de caducidad de tu pasaporte con las fechas del viaje y confirma que tu ETA actual está vinculada al pasaporte con el que vas a viajar de verdad. Si alguna de las dos cosas no cuadra, empieza ya la renovación o la nueva solicitud, no la semana antes de volar.
 
-Fuentes que hemos comprobado (6 de noviembre de 2026)
+Fuentes oficiales
 
 - [UK Government: Get an electronic travel authorisation (ETA) to visit the UK](https://www.gov.uk/eta)
 - [UK Government: Check your electronic travel authorisation (ETA)](https://www.gov.uk/check-eta)

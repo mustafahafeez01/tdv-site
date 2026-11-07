@@ -30,7 +30,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/damaged-passport-travel/
 
 ![两本打开的护照并排对比：一本虽有磨损但平整可用，另一本因水渍导致内页起皱、层压翘起](https://traveldocumentvault.com/blog/damaged-passport-travel/damage-vs-wear-figure.jpg) 封面的小褶皱：可以接受。资料页的水渍损坏：有问题。
 
-这一点之所以重要，是因为**如果航空公司让持有不合格证件的乘客登机，需要自行承担责任。** 拿着受损护照登机，到了目的地被拒绝入境，当地当局可以因为承运了您而处罚航空公司。
+这一点之所以重要，是因为**如果航空公司让持有不合格证件的乘客登机，需要自行承担责任。** 拿着受损护照登机，到了目的地被拒绝入境，当地当局可以因为承运了您而[处罚航空公司](https://www.legislation.gov.uk/ukpga/1999/33/section/40)。
 
 没有哪个登机口工作人员愿意惹上这种麻烦，所以他们会果断从严处理。
 
@@ -42,7 +42,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/damaged-passport-travel/
 
 您首先应该查看本国官方护照办公室的网站，因为只有那里能保证规则和办理时限是最新准确的，而这两者变化的频率往往超出大家的预期。如果您不确定自己这本护照是否还会被接受，只有护照办公室的答复才算数。航空公司论坛上的说法在柜台前救不了您。
 
-出发前有几件事需要确认清楚。加急和快速通道服务通常都有，但并非所有服务都受理护照损坏的情况，最快的那一档往往只针对普通续期。预约之前，先确认自己的情况符合哪种服务。
+出发前有几件事需要确认清楚。[加急和快速通道服务](https://www.gov.uk/get-a-passport-urgently)通常都有，但并非所有服务都受理护照损坏的情况，最快的那一档往往只针对普通续期。预约之前，先确认自己的情况符合哪种服务。
 
 护照损坏通常也意味着需要本人到场申请，而不能邮寄办理。在有些国家，受理紧急情况的办公室和普通受理申请的窗口完全是两个地方，跑错柜台会白白浪费一整天，而您很可能根本耗不起。
 
@@ -89,7 +89,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/damaged-passport-travel/
 
 **在依据本文行动之前：**这是一个博客，不是官方来源。规则和细节会变化，你的情况也可能不同。我们会核对所发布的内容，但仍可能出错或过时。如果这里的内容对你的安排很重要，请在行动前向主管机构核实。
 
-我们核对过的资料来源（2026年11月6日）
+官方资料来源
 
 - [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
 - [UK legislation: Immigration and Asylum Act 1999, section 40](https://www.legislation.gov.uk/ukpga/1999/33/section/40)

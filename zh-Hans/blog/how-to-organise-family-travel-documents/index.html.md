@@ -39,7 +39,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/how-to-organise-family-trav
 
 **带孩子出行还要多备什么**
 
-- 出生证明——有时在移民处需要，特别是当孩子的姓氏与旅行父母不同时
+- 出生证明——[有时在移民处需要](https://www.gov.uk/foreign-travel-advice/mexico/entry-requirements)，特别是当孩子的姓氏与旅行父母不同时
 - 来自缺席父母的签署的父母同意信——强烈建议单亲或祖父母旅行
 - 监护权法院命令，如适用
 
@@ -57,7 +57,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/how-to-organise-family-trav
 
 - 国际驾驶执照（如果你在国外租车）
 - 持续病症的医疗记录或处方详情
-- 欧洲健康保险卡（EHIC），适用于受欧盟医疗体系保障的人
+- 欧洲健康保险卡（EHIC），适用于[受欧盟医疗体系保障的人](https://europa.eu/youreurope/citizens/health/unplanned-healthcare/temporary-stays/index_en.htm)
 
 ## 物理组织：原件存放在哪里
 
@@ -128,7 +128,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/how-to-organise-family-trav
 
 **在依据本文行动之前：**这是一个博客，不是官方来源。规则和细节会变化，你的情况也可能不同。我们会核对所发布的内容，但仍可能出错或过时。如果这里的内容对你的安排很重要，请在行动前向主管机构核实。
 
-我们核对过的资料来源（2026年11月6日）
+官方资料来源
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [UK Foreign Office: Mexico entry requirements](https://www.gov.uk/foreign-travel-advice/mexico/entry-requirements)
@@ -154,7 +154,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/how-to-organise-family-trav
 
 ### 当我独自与孩子旅行时，我需要同意信吗？
 
-法律上可能不要求同意信，但我们强烈建议携带。儿童仅与一位家长同行时，加拿大等一些国家的边检官员可能要求出示儿童旅行同意信。没有同意信，可能需要回答更多问题。该信应包括儿童的详细信息、两位父母的联系信息、旅行日期、目的地和缺席父母的签名——如果可能的话已公证。
+法律上可能不要求同意信，但我们强烈建议携带。儿童仅与一位家长同行时，[加拿大](https://travel.gc.ca/travelling/children/consent-letter)等一些国家的边检官员可能要求出示儿童旅行同意信。没有同意信，可能需要回答更多问题。该信应包括儿童的详细信息、两位父母的联系信息、旅行日期、目的地和缺席父母的签名——如果可能的话已公证。
 
 ## 相关文章
 

@@ -26,7 +26,7 @@ The biggest mistake travellers make is treating the booking moment as administra
 
 **Check your passports before you pay**
 
-Before you confirm any booking, check every traveller's passport against three criteria: validity, name match, and blank pages. Validity means meeting the destination's requirement: many countries want six months of validity left on the day you arrive, and a few count from departure, so check your destination, as explained in our [guide to the 6-month passport rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/). The name on the passport must exactly match the booking name, and some countries require at least two blank visa pages for entry stamps.
+Before you confirm any booking, check every traveller's passport against three criteria: validity, name match, and blank pages. Validity means meeting the destination's requirement: many countries want [six months of validity left on the day you arrive](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), and a few count from departure, so check your destination, as explained in our [guide to the 6-month passport rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/). The name on the passport must exactly match the booking name, and some countries require [at least two blank visa pages](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements) for entry stamps.
 
 **Check your visa requirements**
 
@@ -42,7 +42,7 @@ Book travel insurance when you book flights, not a week before departure. Insura
 
 At this point you still have time to fix things. Renewal times change, and your country's passport authority publishes its own current figure. Always check the official site for current times before you apply.
 
-We'd renew any passport expiring within 12 months now, because children's passports expire faster (UK child passports last 5 years, against 10 for adults, and several other countries work the same way) and parents frequently miss the window. For New Zealand applicants, check the New Zealand Passport Office for current timelines.
+We'd renew any passport expiring within 12 months now, because children's passports expire faster ([UK child passports last 5 years](https://www.gov.uk/get-a-child-passport), against 10 for adults, and several other countries work the same way) and parents frequently miss the window. For New Zealand applicants, check the New Zealand Passport Office for current timelines.
 
 Submit any visa applications that need lead time, and check the issuing authority for how long it currently takes. Prepare supporting documents: bank statements, accommodation confirmations, onward travel proof. Book a biometrics appointment in advance if the visa requires it.
 
@@ -106,14 +106,14 @@ Different trips need different document sets, as the table below shows for solo,
 | Travel insurance | | all covered | check employer covers you | Confirm coverage before each trip, not just at purchase |
 | Booking confirmations | | | | Offline copy (don't rely on email access at borders) |
 | Child consent letter | N/A | if applicable | N/A | Asked for in some countries if one parent is absent |
-| Birth certificates | N/A | if required | N/A | Some countries ask for this for children under 18 |
+| Birth certificates | N/A | if required | N/A | Some countries ask for this for children under 18 (for example, [Mexico](https://www.gov.uk/foreign-travel-advice/mexico/entry-requirements) can ask for evidence of your relationship) |
 | Work authorisation letter | N/A | N/A | if required | Some destinations require employer letters for business travellers |
 
 If a trip is already booked, the one thing worth doing today is pulling out every passport involved and checking its expiry against the destination's requirement, not just against your travel dates.
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
@@ -138,7 +138,7 @@ Yes. Each person's passport expiry, visa requirements, and insurance coverage is
 
 ### What is a child travel consent letter and do I need one?
 
-A child travel consent letter is a signed document from the absent parent giving permission for the child to travel. Some countries, including South Africa, set extra requirements for children travelling with one parent, and Canadian authorities recommend a signed consent letter. Without one you may face extra questions or delays. The letter should include the child's details, both parents' contact information, travel dates, destinations, and the absent parent's signature.
+A child travel consent letter is a signed document from the absent parent giving permission for the child to travel. Some countries, including [South Africa](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements), set extra requirements for children travelling with one parent, and [Canadian authorities](https://travel.gc.ca/travelling/children/consent-letter) recommend a signed consent letter. Without one you may face extra questions or delays. The letter should include the child's details, both parents' contact information, travel dates, destinations, and the absent parent's signature.
 
 ### What documents should I keep accessible at the airport and not in checked luggage?
 

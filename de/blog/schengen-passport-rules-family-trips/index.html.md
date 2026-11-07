@@ -22,7 +22,7 @@ Zwei Regeln und eine Besonderheit von Kinderreisepässen erklären fast jedes Sc
 
 ## Die echte Schengen-Regel: 3 Monate über das Abflugsdatum hinaus
 
-Die EU-Anforderung ist präzise: Ihr Reisepass muss mindestens 3 Monate gültig sein über das Datum hinaus, an dem Sie den Schengen-Raum verlassen möchten, und er muss in den letzten 10 Jahren ausgestellt worden sein.
+Die EU-Anforderung ist präzise: [Ihr Reisepass muss mindestens 3 Monate gültig sein über das Datum hinaus, an dem Sie den Schengen-Raum verlassen möchten](https://www.gov.uk/foreign-travel-advice/france/entry-requirements), und er muss in den letzten 10 Jahren ausgestellt worden sein.
 
 Stellen Sie sich vor, Ihre Familie kehrt am 20. August aus Italien zurück. Jeder Reisepass benötigt Gültigkeit bis etwa 20. November – das sind drei Monate über Ihr Abflugsdatum, nicht Ihre Rückkehr und nicht Ihr Buchungsdatum. Ein Reisepass, der am 10. November abläuft, besteht diesen Test nicht, obwohl der Urlaub selbst Wochen früher endet.
 
@@ -30,7 +30,7 @@ Die Bedingung der letzten 10 Jahre betrifft britische Familien auf spezifische W
 
 ## Warum dies nicht die 6-Monats-Regel ist
 
-Die meisten Reisenden nehmen die Idee auf, dass Reisepässe überall 6 Monate Gültigkeit benötigen. Diese Regel ist real – Thailand verlangt 6 Monate Gültigkeit, und viele andere Länder wenden eine Version davon an. Schengen jedoch nicht. Europa verlangt drei Monate über die Abreise hinaus, was milder ist, und doch werden die beiden in ein vages "sechs Monate von irgendwo" vermischt, das sowohl falsche Alarme als auch falsches Vertrauen erzeugt.
+Die meisten Reisenden nehmen die Idee auf, dass Reisepässe überall 6 Monate Gültigkeit benötigen. Diese Regel ist real – [Thailand verlangt 6 Monate Gültigkeit](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), und viele andere Länder wenden eine Version davon an. Schengen jedoch nicht. Europa verlangt drei Monate über die Abreise hinaus, was milder ist, und doch werden die beiden in ein vages "sechs Monate von irgendwo" vermischt, das sowohl falsche Alarme als auch falsches Vertrauen erzeugt.
 
 Unser Leitfaden zu [der 6-Monats-Regel](https://traveldocumentvault.com/de/blog/passport-expiry-6-month-rule/) behandelt, welche Länder sie tatsächlich durchsetzen. Unser [Erklärung zur Reisepassgültigkeit](https://traveldocumentvault.com/de/blog/how-long-is-passport-valid-for-travel/) behandelt den allgemeinen Fall. Wir bleiben hier bei Schengen, weil das dort ist, wo Familien die Mathematik am häufigsten subtil falsch machen.
 
@@ -38,7 +38,7 @@ Unser Leitfaden zu [der 6-Monats-Regel](https://traveldocumentvault.com/de/blog/
 
 ## Kinderreisepässe laufen auf einer schnelleren Uhr
 
-Britische Erwachsenenreisepässe sind 10 Jahre gültig, Kinderreisepässe stellt das Vereinigte Königreich dagegen nur für 5 Jahre aus. Diese Asymmetrie ist es, wo viele sonst sorgfältige Pläne Schiffbruch erleiden.
+[Britische Erwachsenenreisepässe sind 10 Jahre gültig](https://www.gov.uk/apply-first-adult-passport), [Kinderreisepässe stellt das Vereinigte Königreich dagegen nur für 5 Jahre aus](https://www.gov.uk/get-a-child-passport). Diese Asymmetrie ist es, wo viele sonst sorgfältige Pläne Schiffbruch erleiden.
 
 | Land | Kinderreisepässe | Gültigkeit |
 |---|---|---|
@@ -63,13 +63,13 @@ Ein fehlgeschlagener Reisepass strandet selten eine Person; er sperrt die Famili
 
 Die Lösung ist einfach und dauert nur Minuten. Sammeln Sie am Tag der Buchung jeden Reisepass im Haushalt und notieren Sie jeweils das Verfallsdatum und das Ausstellungsdatum. Beantworten Sie dann zwei Fragen für jeden: Wird er noch drei Monate nach Ihrer Rückkehr gültig sein und wurde er vor weniger als zehn Jahren ausgestellt? Alles, das einen dieser Tests nicht besteht, geht in dieser Woche in die Erneuerungswarteschlange – an dem Punkt können Sie noch erneuern, die Reise umleiten oder Ihre Daten ohne Strafe verschieben, und wir würden immer das Erneuern wählen, statt abzuwarten, ob sich die Daten verschieben.
 
-Kinder benötigen denselben Puffer wie Erwachsene. Es gibt keine Kindervergünstigung für die Gültigkeitsregeln – ein fünfjähriger Reisepass erhält die gleiche Timatic-Behandlung wie Ihrer. Ein Nebenaspekt für britische und irische Reisen: Irland ist überhaupt nicht im Schengen-Raum. UK-Irland-Reisen laufen unter dem separaten Common Travel Area, also verallgemeinern Sie nicht von einer Dublin-Reise zu einer Paris-Reise.
+Kinder benötigen denselben Puffer wie Erwachsene. Es gibt keine Kindervergünstigung für die Gültigkeitsregeln – ein fünfjähriger Reisepass erhält die gleiche Timatic-Behandlung wie Ihrer. Ein Nebenaspekt für britische und irische Reisen: Irland ist überhaupt nicht im Schengen-Raum. UK-Irland-Reisen laufen unter dem [separaten Common Travel Area](https://www.gov.uk/foreign-travel-advice/ireland/entry-requirements), also verallgemeinern Sie nicht von einer Dublin-Reise zu einer Paris-Reise.
 
 Dies alles benötigt keine App. Ein Tabellenkalkulationsprogramm hilft vielen Familien, und eine zweimal jährliche Kalendererinnerung erledigt den meisten Aufwand. Das einzig Unverhandelbares: Führen Sie die Prüfung zum Buchungszeitpunkt durch, wenn ein kurzfristiger Reisepass noch ein Besorgnis ist, nicht ein Notfall.
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 
-Quellen, die wir geprüft haben (6. November 2026)
+Offizielle Quellen
 
 - [UK Foreign Office: France entry requirements](https://www.gov.uk/foreign-travel-advice/france/entry-requirements)
 - [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
@@ -83,7 +83,7 @@ Quellen, die wir geprüft haben (6. November 2026)
 
 ### Worin unterscheiden sich die 6-Monats-Regel und Schengens 3-Monats-Regel?
 
-Sie sind unterschiedliche Regeln für verschiedene Ziele. Länder wie Thailand und Indonesien verlangen im Allgemeinen eine Gültigkeit von 6 Monaten. Schengen verlangt 3 Monate Gültigkeit über das Abflugsdatum hinaus, plus einen Reisepass, der in den letzten 10 Jahren ausgestellt wurde. Familien, die nach Südostasien gereist sind, nehmen oft an, dass die 6-Monats-Regel überall gilt – das stimmt aber nicht.
+Sie sind unterschiedliche Regeln für verschiedene Ziele. Länder wie Thailand und [Indonesien](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements) verlangen im Allgemeinen eine Gültigkeit von 6 Monaten. Schengen verlangt 3 Monate Gültigkeit über das Abflugsdatum hinaus, plus einen Reisepass, der in den letzten 10 Jahren ausgestellt wurde. Familien, die nach Südostasien gereist sind, nehmen oft an, dass die 6-Monats-Regel überall gilt – das stimmt aber nicht.
 
 ### Gelten für Kinder andere Schengen-Reisepassregeln?
 

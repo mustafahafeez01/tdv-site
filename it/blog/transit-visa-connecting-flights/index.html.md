@@ -39,9 +39,9 @@ La trappola sta nel mezzo. Uno scalo che sulla carta sembra airside può silenzi
 
 I visti di transito sono obbligatori in diverse circostanze, e i requisiti variano molto in base alla tua nazionalità e al paese di transito.
 
-Il **visto di transito aeroportuale Schengen (ATV)** si applica ai titolari di alcuni passaporti non UE che effettuano coincidenze solo airside attraverso gli aeroporti Schengen (in alcuni casi gli stati membri possono aggiungere altre nazionalità), anche se molte nazionalità sono esenti, così come i titolari di alcuni visti o permessi di soggiorno. Poiché l'elenco delle esenzioni è complesso e cambia periodicamente, non puoi dare per scontato di essere esente. Il database dell'IATA Travel Centre contiene le regole aggiornate per la tua specifica nazionalità e destinazione, quindi verifica lì invece di basarti su quello che sai di altri paesi.
+Il **visto di transito aeroportuale Schengen (ATV)** si applica ai titolari di [alcuni passaporti non UE](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0810) che effettuano coincidenze solo airside attraverso gli aeroporti Schengen (in alcuni casi gli stati membri possono aggiungere altre nazionalità), anche se molte nazionalità sono esenti, così come i titolari di alcuni visti o permessi di soggiorno. Poiché l'elenco delle esenzioni è complesso e cambia periodicamente, non puoi dare per scontato di essere esente. Il database dell'IATA Travel Centre contiene le regole aggiornate per la tua specifica nazionalità e destinazione, quindi verifica lì invece di basarti su quello che sai di altri paesi.
 
-Il **Regno Unito** offre il transito airside senza visto a molte nazionalità, ma altre necessitano di quello che oggi si chiama Direct Airside Transit Visa (DATV). Come per lo spazio Schengen, l'esenzione dipende soprattutto dalla tua nazionalità, non solo dalla tua destinazione, e GOV.UK indica che non serve un visto di transito se possiedi un'autorizzazione di viaggio elettronica (ETA) britannica.
+Il **Regno Unito** offre il transito airside senza visto a molte nazionalità, ma altre necessitano di quello che oggi si chiama Direct Airside Transit Visa (DATV). Come per lo spazio Schengen, l'esenzione dipende soprattutto dalla tua nazionalità, non solo dalla tua destinazione, e [GOV.UK](https://www.gov.uk/transit-visa) indica che non serve un visto di transito se possiedi un'autorizzazione di viaggio elettronica (ETA) britannica.
 
 Nella maggior parte dei casi, i passeggeri in coincidenza che arrivano negli **Stati Uniti** passano per l'immigrazione e la dogana statunitensi prima del volo successivo. In pratica, questo dipende dalle regole di ingresso statunitensi più che dalle regole sui visti di transito, quindi verificale per il tuo passaporto con anticipo e includile nel piano di viaggio fin dall'inizio.
 
@@ -75,7 +75,7 @@ Se viaggi in famiglia, controlla il passaporto di ogni componente della famiglia
 
 Prima di prenotare, passa l'intero percorso, non solo la destinazione, nell'IATA Travel Centre. È il controllo che ha più probabilità di far emergere un requisito mancante quando puoi ancora modificare la prenotazione.
 
-Fonti che abbiamo verificato (6 novembre 2026)
+Fonti ufficiali
 
 - [UK Government: Visa to pass through the UK in transit](https://www.gov.uk/transit-visa)
 - [EU law: Visa Code (Regulation 810/2009)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0810)
@@ -109,7 +109,7 @@ Contatta immediatamente la tua compagnia aerea e verifica i tempi di elaborazion
 
 ### Quanto dura la validità di un visto di transito?
 
-La validità di un visto di transito varia da paese a paese. Il Visitor in Transit visa britannico, ad esempio, consente un soggiorno fino a 48 ore. Conserva e tieni traccia della data di scadenza del visto di transito insieme al passaporto e al visto di ingresso principale.
+La validità di un visto di transito varia da paese a paese. Il [Visitor in Transit visa](https://www.gov.uk/transit-visa/visitor-in-transit-visa) britannico, ad esempio, consente un soggiorno fino a 48 ore. Conserva e tieni traccia della data di scadenza del visto di transito insieme al passaporto e al visto di ingresso principale.
 
 ## Articoli correlati
 

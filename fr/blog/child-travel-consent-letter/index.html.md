@@ -33,7 +33,7 @@ Une lettre est généralement requise dans ces situations :
 - **Un enfant voyage avec un parent dont le nom de famille diffère de celui de l'enfant.** Cela lève des drapeaux rouges à certaines frontières, particulièrement pour les enfants plus jeunes.
 - **Un enfant est adopté ou en placement familial.** Des documents de garde légale et un consentement peuvent être requis aux côtés de la lettre.
 
-**Mise en garde critique :** les règles varient considérablement. Le Canada n'exige pas légalement une lettre de consentement, mais le gouvernement du Canada la recommande fortement et note que « l'incapacité à produire une lettre sur demande peut entraîner des retards ou un refus d'entrée ou de sortie d'un pays ». L'Afrique du Sud demande une attestation de consentement parental lorsqu'un parent ne voyage pas avec l'enfant. Certains pays ne s'appliquent que pour les enfants au-dessous d'un certain âge. Il n'existe pas de norme mondiale.
+**Mise en garde critique :** les règles varient considérablement. Le Canada n'exige pas légalement une lettre de consentement, mais [le gouvernement du Canada](https://travel.gc.ca/travelling/children/consent-letter) la recommande fortement et note que « l'incapacité à produire une lettre sur demande peut entraîner des retards ou un refus d'entrée ou de sortie d'un pays ». L'Afrique du Sud demande une attestation de consentement parental lorsqu'un parent ne voyage pas avec l'enfant. Certains pays ne s'appliquent que pour les enfants au-dessous d'un certain âge. Il n'existe pas de norme mondiale.
 
 Vérifiez toujours les exigences directement auprès de l'autorité d'immigration de votre pays de destination spécifique avant de voyager. Utilisez le Centre de voyage IATA pour vérifier les exigences d'entrée ou contactez l'ambassade de votre pays de destination. Si vous avez des doutes, avoir la lettre est mieux que l'alternative : être arrêté à l'enregistrement ou à la frontière.
 
@@ -61,8 +61,8 @@ Lorsqu'une signature devant témoin est demandée ou recommandée, un notaire ou
 
 Les indications de quelques pays sur la notarisation :
 
-- **Canada.** Une lettre de consentement n'est pas légalement requise, mais le gouvernement du Canada la recommande fortement et recommande qu'un notaire public témoigne de la signature. Le personnel des frontières et des compagnies aériennes peut la demander à l'entrée ou à la sortie.
-- **Afrique du Sud.** Lorsqu'un parent ne voyage pas avec l'enfant, le ministère de l'Intérieur demande une attestation de consentement parental datant de moins de 4 mois au moment de sa présentation. Consultez ses indications actuelles.
+- **Canada.** Une lettre de consentement n'est pas légalement requise, mais [le gouvernement du Canada](https://travel.gc.ca/travelling/children/documents) la recommande fortement et recommande qu'un notaire public témoigne de la signature. Le personnel des frontières et des compagnies aériennes peut la demander à l'entrée ou à la sortie.
+- **Afrique du Sud.** Lorsqu'un parent ne voyage pas avec l'enfant, [le ministère de l'Intérieur](https://www.gov.za/news/speeches/director-general-mkuseli-apleni-media-briefing-new-requirements-travelling-children) demande une attestation de consentement parental datant de moins de 4 mois au moment de sa présentation. Consultez ses indications actuelles.
 - **Australie.** Smartraveller publie des conseils sur les voyages avec des enfants, et les compagnies aériennes peuvent demander une lettre. Consultez les indications pour les pays de départ et d'arrivée.
 - **Royaume-Uni.** N'est pas légalement requise pour les voyages sortants, mais les compagnies aériennes et les agents des frontières de destination peuvent la demander quand un enfant voyage avec un seul parent ou avec un adulte autre que le parent. Consultez les indications de GOV.UK pour votre itinéraire.
 - **États-Unis.** Non mandatée au niveau fédéral mais recommandée. Certains États reconnaissent explicitement la notarisation.
@@ -92,7 +92,7 @@ Même les familles bien préparées commettent des erreurs qui conduisent au rej
 | **Royaume-Uni** | Non légalement requise ; les compagnies aériennes et les frontières de destination peuvent demander | Consultez les indications actuelles | GOV.UK |
 | **États-Unis** | Non requise au niveau fédéral ; varie selon l'État | Consultez les indications actuelles | travel.state.gov |
 | **Union européenne** | Varie selon le pays | Varie selon le pays | Centre de voyage IATA |
-| **Nouvelle-Zélande** | Recommandée | Généralement signée par les parents devant un agent public | SafeTravel (gouvernement néo-zélandais) |
+| **Nouvelle-Zélande** | Recommandée | Généralement signée par les parents devant un agent public | [SafeTravel](https://www.safetravel.govt.nz/before-you-go/who-is-travelling/travelling-with-children) (gouvernement néo-zélandais) |
 
 Considérez ce tableau comme un point de départ, pas comme le dernier mot. Les règles changent fréquemment et l'autorité d'immigration de la destination reste votre source la plus fiable. Les blogs de voyage et les pages des compagnies aériennes sont utiles pour le contexte, mais ils peuvent avoir du retard par rapport aux dernières exigences.
 
@@ -125,7 +125,7 @@ Passez cette liste en revue avant de quitter la maison, pas au comptoir d'enregi
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
-Sources vérifiées (6 novembre 2026)
+Sources officielles
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [NZ SafeTravel: Travelling with children](https://www.safetravel.govt.nz/before-you-go/who-is-travelling/travelling-with-children)

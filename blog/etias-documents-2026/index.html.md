@@ -13,12 +13,12 @@ Source: https://traveldocumentvault.com/blog/etias-documents-2026/
 - **ETIAS is a digital travel authorisation** for UK, US, and Canadian travellers, required for visa-exempt entry to the Schengen area once it becomes mandatory
 - **You need a passport valid for more than 3 months** beyond your departure date and an email address to apply
 - Processing time varies, especially soon after launch; **apply well ahead of your trip** and check the official EU site for current guidance
-- Check the official EU site for the current fee; **under-18s and over-70s don't pay** but still need authorisation
+- Check [the official EU site](https://home-affairs.ec.europa.eu/news/european-travel-authorisation-etias-will-cost-eur-20-2025-07-17_en) for the current fee; **under-18s and over-70s don't pay** but still need authorisation
 - **Doubts about the reliability of your answers can lead to refusal**, so disclose everything, even if it's old
 
 You've booked a family trip to Italy and you've heard that ETIAS is on its way, a new digital authorisation requirement for visa-exempt visitors to Europe. This guide covers what ETIAS is, what documents you need, and how the application works, so you're prepared before you reach the form.
 
-The European Travel Information and Authorisation System (ETIAS) is not a [visa](https://traveldocumentvault.com/blog/visa-vs-passport/). It's a digital pre-travel clearance for visitors from visa-exempt countries. If you're a UK, US, or Canadian citizen, you generally register at the border under the Entry/Exit System (photo and fingerprints at first entry) and pass a border check. Once ETIAS becomes mandatory, that process moves online, and you apply before you fly.
+The European Travel Information and Authorisation System (ETIAS) is not a [visa](https://traveldocumentvault.com/blog/visa-vs-passport/). It's a [digital pre-travel clearance](https://travel-europe.europa.eu/en/etias) for visitors from visa-exempt countries. If you're a UK, US, or Canadian citizen, you generally register at the border under [the Entry/Exit System](https://travel-europe.europa.eu/en/ees) (photo and fingerprints at first entry) and pass a border check. Once ETIAS becomes mandatory, that process moves online, and you apply before you fly.
 
 ## What Is ETIAS and Who Needs It?
 
@@ -110,7 +110,7 @@ The practical task to do today is pull out your passport and check it against th
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [EU travel: ETIAS](https://travel-europe.europa.eu/en/etias)
 - [EU travel: Entry/Exit System (EES)](https://travel-europe.europa.eu/en/ees)

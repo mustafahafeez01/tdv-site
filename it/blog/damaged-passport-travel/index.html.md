@@ -30,7 +30,7 @@ Soprattutto, la zona a lettura ottica — la striscia bianca e nera in fondo all
 
 ![Diagramma di due passaporti aperti affiancati: uno usurato ma piatto e utilizzabile, l'altro macchiato d'acqua con pagine ondulate e laminazione che si stacca](https://traveldocumentvault.com/blog/damaged-passport-travel/damage-vs-wear-figure.jpg) Piccole pieghe sulla copertina: accettabili. Danni da acqua sulla pagina dati: un problema.
 
-Il motivo per cui questo conta è che **le compagnie aeree si assumono la responsabilità se fanno imbarcare qualcuno con un documento non accettabile.** Se sali a bordo con un passaporto danneggiato e all'arrivo ti viene negato l'ingresso, le autorità possono multare la compagnia aerea per averti trasportato.
+Il motivo per cui questo conta è che **le compagnie aeree si assumono la responsabilità se fanno imbarcare qualcuno con un documento non accettabile.** Se sali a bordo con un passaporto danneggiato e all'arrivo ti viene negato l'ingresso, le autorità possono [multare la compagnia aerea](https://www.legislation.gov.uk/ukpga/1999/33/section/40) per averti trasportato.
 
 Nessun agente del gate vuole occuparsi di quella burocrazia, quindi preferisce agire con decisa cautela.
 
@@ -42,7 +42,7 @@ Notare un danno con anticipo è lo scenario migliore, perché hai ancora margine
 
 La prima tappa dovrebbe essere il sito ufficiale dell'ufficio passaporti del tuo paese, perché è l'unico posto dove regole e tempi di elaborazione aggiornati sono garantiti, ed entrambi cambiano più spesso di quanto si pensi. Se non sei sicuro che il tuo passaporto verrà ancora accettato, l'ufficio passaporti è l'unico ente la cui risposta conta davvero. Un forum di appassionati di viaggi non ti salverà al banco del check-in.
 
-Alcune cose da verificare prima di muoverti. I servizi urgenti o prioritari di solito esistono, ma non tutti coprono i passaporti danneggiati, e il livello più rapido in assoluto è spesso riservato ai rinnovi semplici. Verifica a quale servizio la tua situazione dà diritto prima di prenotare un appuntamento.
+Alcune cose da verificare prima di muoverti. I [servizi urgenti o prioritari](https://www.gov.uk/get-a-passport-urgently) di solito esistono, ma non tutti coprono i passaporti danneggiati, e il livello più rapido in assoluto è spesso riservato ai rinnovi semplici. Verifica a quale servizio la tua situazione dà diritto prima di prenotare un appuntamento.
 
 Un passaporto danneggiato in genere significa anche dover fare domanda di persona anziché per posta. In alcuni paesi l'ufficio che gestisce i casi urgenti è completamente diverso da quello che si limita a ricevere le domande, e presentarsi allo sportello sbagliato ti costa un giorno che probabilmente non puoi permetterti.
 
@@ -91,7 +91,7 @@ Scansiona il passaporto oggi, prima di averne bisogno.
 
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 
-Fonti che abbiamo verificato (6 novembre 2026)
+Fonti ufficiali
 
 - [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
 - [UK legislation: Immigration and Asylum Act 1999, section 40](https://www.legislation.gov.uk/ukpga/1999/33/section/40)

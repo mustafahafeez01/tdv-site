@@ -30,7 +30,7 @@ Most critically, the machine-readable zone (the black-and-white stripe at the bo
 
 ![Two open passports side by side: one worn but flat and usable, one water-stained with rippled pages and lifting lamination](https://traveldocumentvault.com/blog/damaged-passport-travel/damage-vs-wear-figure.jpg) Minor creases on the cover: acceptable. Water damage to the data page: a problem.
 
-The reason this matters is that **airlines bear the liability if they board someone with an unacceptable document.** Board with a damaged passport, get refused entry at the far end, and the authorities can fine the airline for carrying you.
+The reason this matters is that **airlines bear the liability if they board someone with an unacceptable document.** Board with a damaged passport, get refused entry at the far end, and the authorities can [fine the airline](https://www.legislation.gov.uk/ukpga/1999/33/section/40) for carrying you.
 
 No gate agent wants that paperwork, so they err decisively on the side of caution.
 
@@ -42,7 +42,7 @@ Spotting damage with time to spare is the best-case scenario, because you still 
 
 Your first stop should be your own country's official passport office website, because that's the one place where the current rules and processing times are guaranteed to be right, and both shift more often than people expect. If you're unsure whether your particular passport will still be accepted, the passport office is the only body whose answer actually counts. An airline forum will not save you at the desk.
 
-A few things to confirm before you go. Urgent and fast-track services usually exist, but they don't all cover damaged passports, and the very fastest tier is often restricted to straightforward renewals. Check which service your situation qualifies for before you book an appointment.
+A few things to confirm before you go. [Urgent and fast-track services](https://www.gov.uk/get-a-passport-urgently) usually exist, but they don't all cover damaged passports, and the very fastest tier is often restricted to straightforward renewals. Check which service your situation qualifies for before you book an appointment.
 
 A damaged passport also tends to mean applying in person rather than by post. In some countries the office that handles urgent cases is a different place entirely from the one that simply accepts applications, and turning up at the wrong counter costs you a day you probably don't have.
 
@@ -87,7 +87,7 @@ Store your digital copies somewhere encrypted and offline, not Google Photos or 
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
 - [UK legislation: Immigration and Asylum Act 1999, section 40](https://www.legislation.gov.uk/ukpga/1999/33/section/40)

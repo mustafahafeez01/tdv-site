@@ -28,9 +28,9 @@ Se ainda tem esse passaporte depende inteiramente do seu país e do seu método 
 
 ## Estados Unidos: Renovação por Correio
 
-A renovação normal de passaporte dos EUA por correio exige que envie o passaporte atual com o pedido, por isso não o tem consigo enquanto espera. Completa o formulário DS-82, anexa o seu passaporte existente e envia tudo por correio para o Centro Nacional de Processamento de Passaportes. A USAGov diz que o passaporte antigo é devolvido pelo correio em separado, geralmente cerca de quatro semanas depois de receber o novo.
+A renovação normal de passaporte dos EUA por correio exige que envie o passaporte atual com o pedido, por isso não o tem consigo enquanto espera. [Completa o formulário DS-82](https://www.usa.gov/renew-adult-passport), anexa o seu passaporte existente e envia tudo por correio para o Centro Nacional de Processamento de Passaportes. A USAGov diz que o passaporte antigo é devolvido pelo correio em separado, geralmente cerca de quatro semanas depois de receber o novo.
 
-Isto significa que as viagens domésticas nos Estados Unidos não são afectadas durante todo o processo de renovação — não precisa de um passaporte para voos domésticos. As viagens internacionais são uma história diferente: não pode viajar internacionalmente até que o seu novo passaporte chegue, e não pode usar o antigo passaporte cancelado mesmo que o tenha na mão.
+Isto significa que as viagens domésticas nos Estados Unidos não são afectadas durante todo o processo de renovação — [não precisa de um passaporte para voos domésticos](https://www.tsa.gov/travel/security-screening/identification). As viagens internacionais são uma história diferente: não pode viajar internacionalmente até que o seu novo passaporte chegue, e não pode usar o antigo passaporte cancelado mesmo que o tenha na mão.
 
 O tempo de processamento padrão muda, e o Departamento de Estado publica a cifra atual em travel.state.gov, por isso verifique-a antes de planear. Se a sua viagem estiver marcada antes da data em que espera receber o novo passaporte, o processamento expedido está disponível por uma taxa adicional e reduz a espera de forma notável. Para viagens genuinamente urgentes, estão disponíveis consultas presenciais nas agências regionais de passaportes — verifique a elegibilidade atual em travel.state.gov.
 
@@ -38,7 +38,7 @@ O tempo de processamento padrão muda, e o Departamento de Estado publica a cifr
 
 O Reino Unido tem dois caminhos de renovação, e têm implicações completamente diferentes para as viagens. O processo que utilizou determina o que é possível.
 
-**Renovação postal:** Envia o seu passaporte atual para o Serviço de Passaportes do Reino Unido juntamente com a sua candidatura. O seu passaporte está em poder do Serviço durante todo esse período, portanto não pode viajar internacionalmente. O Serviço de Passaportes do Reino Unido publica o seu tempo de processamento atual no seu site e aconselha a não marcar viagens até o novo passaporte chegar. Um serviço de via rápida premium está disponível por uma taxa adicional se a sua viagem estiver próxima.
+**Renovação postal:** Envia o seu passaporte atual para o [Serviço de Passaportes do Reino Unido](https://www.gov.uk/renew-adult-passport/renew) juntamente com a sua candidatura. O seu passaporte está em poder do Serviço durante todo esse período, portanto não pode viajar internacionalmente. O Serviço de Passaportes do Reino Unido publica o seu tempo de processamento atual no seu site e [aconselha a não marcar viagens](https://www.gov.uk/renew-adult-passport) até o novo passaporte chegar. Um serviço de via rápida premium está disponível por uma taxa adicional se a sua viagem estiver próxima.
 
 **Renovação digital** está atualmente disponível para adultos elegíveis que se candidatam de dentro do Reino Unido. Mantém o seu passaporte atual durante todo o processo, e o governo emite o seu novo passaporte separadamente e o envia para si por correio. Como o seu passaporte existente nunca sai da sua posse, pode geralmente continuar a usá-lo para viagens enquanto o novo está a ser processado. A elegibilidade varia de acordo com as circunstâncias individuais, portanto verifique o site do Serviço de Passaportes do Reino Unido para os critérios completos e tempos actuais antes de se candidatar.
 
@@ -52,7 +52,7 @@ O Serviço de Passaportes Australiano publica os seus tempos de processamento at
 
 ## Canadá: Entregue Aquando da Candidatura
 
-O Canadá requer que entregue o seu passaporte existente quando se candidata à renovação. O seu antigo passaporte é mantido até que o novo esteja pronto, portanto não pode viajar internacionalmente durante este período — embora as viagens domésticas dentro do Canadá não requeiram passaporte.
+O Canadá requer que [entregue o seu passaporte existente quando se candidata à renovação](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html). O seu antigo passaporte é mantido até que o novo esteja pronto, portanto não pode viajar internacionalmente durante este período — embora as viagens domésticas dentro do Canadá não requeiram passaporte.
 
 O Service Canada publica os seus padrões de processamento atuais, que variam consoante se candidata presencialmente, por correio ou num Centro de Serviços Canada, mais o tempo de correio. Para viagens urgentes existem opções de serviço expresso e levantamento urgente por taxas adicionais. Verifique os tempos de processamento actuais e candidature-se em canada.ca.
 
@@ -94,7 +94,7 @@ A razão pela qual as pessoas acabam nesta situação não é ignorância das re
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 
-Fontes que verificámos (6 de novembro de 2026)
+Fontes oficiais
 
 - [USAGov: Renew an adult passport](https://www.usa.gov/renew-adult-passport)
 - [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)

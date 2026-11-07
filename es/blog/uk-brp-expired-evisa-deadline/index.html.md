@@ -20,7 +20,7 @@ Si tienes un Biometric Residence Permit (BRP, permiso de residencia biométrico)
 
 ![Diagrama de cuánto tiempo sigue funcionando un BRP caducado: durante 24 meses tras la fecha de caducidad impresa o hasta el 31 de diciembre de 2026, lo que ocurra antes. Durante ese tiempo todavía se puede usar para iniciar sesión y obtener un código para compartir, crear una cuenta UKVI, o solicitar una prórroga de tu estancia](https://traveldocumentvault.com/blog/uk-brp-expired-evisa-deadline/brp-window-es.jpg) Dos fechas, y la que llega antes es la tuya.
 
-GOV.UK dice que todos los BRP han caducado ya y han sido sustituidos por eVisas. Un eVisa es un registro digital de tu identidad y tu estatus migratorio, al que accedes a través de una cuenta UKVI en lugar de llevarlo en la cartera. Por eso la cuenta es el paso que importa, para ti y para cada miembro de tu familia que tuviera una tarjeta.
+[GOV.UK](https://www.gov.uk/biometric-residence-permits) dice que todos los BRP han caducado ya y han sido sustituidos por eVisas. Un eVisa es un [registro digital de tu identidad y tu estatus migratorio](https://www.gov.uk/evisa), al que accedes a través de una cuenta UKVI en lugar de llevarlo en la cartera. Por eso la cuenta es el paso que importa, para ti y para cada miembro de tu familia que tuviera una tarjeta.
 
 Una tarjeta caducada no significa que tu permiso de estancia haya terminado. Las instrucciones de GOV.UK están escritas precisamente para este caso: personas cuyo BRP ha caducado pero que todavía tienen permiso para permanecer en el Reino Unido.
 
@@ -38,11 +38,11 @@ GOV.UK indica exactamente para qué sirve todavía la tarjeta. Puedes usarla par
 
 El tercer uso es fácil de pasar por alto. Si tu permiso de estancia está próximo a prorrogarse, la tarjeta caducada todavía puede jugar un papel en esa solicitud mientras su plazo esté abierto, lo que es una razón más para conocer tu fecha. Para viajar, GOV.UK remite a tu eVisa y al pasaporte vinculado a él, un punto al que llegamos más abajo.
 
-Una vez dentro, la cuenta es la forma de demostrar tu estatus día a día. GOV.UK dice que puedes consultar tu eVisa y obtener un código para compartir para demostrar tu estatus migratorio, por ejemplo al empezar un nuevo trabajo o alquilar una vivienda. El eVisa también muestra las condiciones de tu estatus, como si puedes trabajar o estudiar. Merece la pena echarle un vistazo aunque no tengas ningún viaje previsto.
+Una vez dentro, la cuenta es la forma de demostrar tu estatus día a día. [GOV.UK](https://www.gov.uk/evisa/view-evisa-get-share-code-prove-immigration-status) dice que puedes consultar tu eVisa y obtener un código para compartir para demostrar tu estatus migratorio, por ejemplo al empezar un nuevo trabajo o alquilar una vivienda. El eVisa también muestra las condiciones de tu estatus, como si puedes trabajar o estudiar. Merece la pena echarle un vistazo aunque no tengas ningún viaje previsto.
 
 ## Un pasaporte y un número de referencia también abren una cuenta UKVI
 
-Si tu tarjeta se ha perdido, o si sus 24 meses ya se han agotado, no te quedas sin opciones. GOV.UK acepta otras dos combinaciones al crear una cuenta: un pasaporte válido junto con tu número de solicitud de visado, o un pasaporte válido junto con tu número de BRP. El número de BRP está impreso en la propia tarjeta, así que lo anotaríamos en un lugar seguro mientras todavía tienes la tarjeta en la mano.
+Si tu tarjeta se ha perdido, o si sus 24 meses ya se han agotado, no te quedas sin opciones. [GOV.UK](https://www.gov.uk/evisa/set-up-ukvi-account) acepta otras dos combinaciones al crear una cuenta: un pasaporte válido junto con tu número de solicitud de visado, o un pasaporte válido junto con tu número de BRP. El número de BRP está impreso en la propia tarjeta, así que lo anotaríamos en un lugar seguro mientras todavía tienes la tarjeta en la mano.
 
 Si no tienes ni un pasaporte válido ni un BRP caducado, GOV.UK dice que puedes confirmar tu identidad de otra manera. La página no detalla los pasos y remite al webchat de UK Visas and Immigration, así que ese es el punto de partida.
 
@@ -58,7 +58,7 @@ Cuando tu hijo cumpla 18 años, los datos de la cuenta deberían pasar a su prop
 
 ## Para viajar, el pasaporte con el que vuelas tiene que estar en tu cuenta UKVI
 
-GOV.UK es directo sobre esto: tienes que viajar con un pasaporte o documento de viaje válido que hayas añadido a tu cuenta UKVI. Tu eVisa se comprueba cuando sales del Reino Unido y cuando entras, por un agente fronterizo o en los eGates, y cuando haces el check-in con tu transportista para volver al Reino Unido. Esas comprobaciones consultan tu eVisa a través del pasaporte de tu cuenta. Si los datos de tu cuenta no coinciden exactamente con la información de pasajero que le diste al transportista, es posible que no te permita viajar, y también podrías quedarte retenido en la frontera del Reino Unido.
+[GOV.UK](https://www.gov.uk/evisa/travel-with-evisa) es directo sobre esto: tienes que viajar con un pasaporte o documento de viaje válido que hayas añadido a tu cuenta UKVI. Tu eVisa se comprueba cuando sales del Reino Unido y cuando entras, por un agente fronterizo o en los eGates, y cuando haces el check-in con tu transportista para volver al Reino Unido. Esas comprobaciones consultan tu eVisa a través del pasaporte de tu cuenta. Si los datos de tu cuenta no coinciden exactamente con la información de pasajero que le diste al transportista, es posible que no te permita viajar, y también podrías quedarte retenido en la frontera del Reino Unido.
 
 Antes de un viaje, inicia sesión, confirma que el pasaporte de la cuenta es el que usarás para viajar, y obtén un código para compartir. Un código dura 90 días y se puede usar más de una vez, y una aerolínea o un agente de fronteras puede pedirte que lo muestres. Nosotros lo obtendríamos antes de reservar, no en la cola del aeropuerto.
 
@@ -68,7 +68,7 @@ Si tienes dos nacionalidades, piensa con cuál vas a reservar realmente. Si una 
 
 Si has renovado tu pasaporte, el nuevo tiene que añadirse a tu cuenta antes de volar con él, y GOV.UK dice que puedes actualizar tú mismo el número de pasaporte y la fecha de caducidad en tu cuenta. Con un pasaporte biométrico también puedes actualizar tú mismo tu nombre y nacionalidad; cualquier otro cambio requiere que UK Visas and Immigration lo haga por ti. Si la renovación todavía está por llegar, nuestra guía sobre [cómo renovar el pasaporte antes de que caduque](https://traveldocumentvault.com/es/blog/renew-passport-before-expiry/) explica cuándo empezar, y el nuevo pasaporte se añade directamente a tu cuenta en cuanto llega.
 
-Fuentes que hemos comprobado (6 de noviembre de 2026)
+Fuentes oficiales
 
 - [UK Government: eVisa, setting up a UKVI account](https://www.gov.uk/evisa/set-up-ukvi-account)
 - [UK Government: travelling with an eVisa](https://www.gov.uk/evisa/travel-with-evisa)

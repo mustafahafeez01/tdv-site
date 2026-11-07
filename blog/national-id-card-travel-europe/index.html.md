@@ -30,15 +30,15 @@ The Schengen zone is where this flexibility matters most. As an EU citizen with 
 
 ## What Counts as an EEA National ID Card
 
-When a booking form or a check-in agent asks for an "EEA national ID card", they mean the identity card your own country issues to its citizens, the one that states your nationality. The EEA is the 27 EU countries plus Iceland, Liechtenstein and Norway; Switzerland sits outside it, but the European Commission's Your Europe guidance confirms EU citizens can travel there on a national ID card too.
+When a booking form or a check-in agent asks for an "EEA national ID card", they mean the identity card your own country issues to its citizens, the one that states your nationality. The EEA is the 27 EU countries plus Iceland, Liechtenstein and Norway; Switzerland sits outside it, but the European Commission's [Your Europe guidance](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm) confirms EU citizens can travel there on a national ID card too.
 
-A residence card shows where you live, not your nationality, so it travels with a passport rather than replacing it. The UK government tells British residents in Spain to show proof of residence, such as their TIE residence card, when presenting the passport at Spanish border control. Driving licences, bank cards and tax cards don't count either, and Your Europe warns they may be refused as proof of identity.
+A residence card shows where you live, not your nationality, so it travels with a passport rather than replacing it. The [UK government](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements) tells British residents in Spain to show proof of residence, such as their TIE residence card, when presenting the passport at Spanish border control. Driving licences, bank cards and tax cards don't count either, and Your Europe warns they may be refused as proof of identity.
 
 The current EU card is easy to recognise. It's credit-card sized, has a machine-readable zone (the lines of code a scanner reads), and shows the issuing country's two-letter code in a blue rectangle ringed by 12 yellow stars on the front. A chip inside holds your photo and two fingerprints.
 
-Older cards are the ones that catch people out. Under the EU's identity card regulation, a card without a working machine-readable zone, or one below the international minimum security standard, stopped being valid by 3 August 2026, even if the printed date runs later. Most other older-format cards last until their printed expiry or 3 August 2031, whichever comes first. If your card predates the star-ringed code and has no machine-readable zone, we'd renew now rather than test it at the gate.
+Older cards are the ones that catch people out. Under the EU's [identity card regulation](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1157), a card without a working machine-readable zone, or one below the international minimum security standard, stopped being valid by 3 August 2026, even if the printed date runs later. Most other older-format cards last until their printed expiry or 3 August 2031, whichever comes first. If your card predates the star-ringed code and has no machine-readable zone, we'd renew now rather than test it at the gate.
 
-For the UK, the card usually won't work. The UK generally accepts an EU, EEA or Swiss ID card only for limited groups, such as people with settled or pre-settled status, so check GOV.UK before a UK trip.
+For the UK, the card usually won't work. The UK generally accepts an EU, EEA or Swiss ID card only for limited groups, such as people with settled or pre-settled status, so check [GOV.UK](https://www.gov.uk/guidance/visiting-the-uk-as-an-eu-eea-or-swiss-citizen) before a UK trip.
 
 ## When You Need the Passport Instead
 
@@ -85,7 +85,7 @@ What helps is a single place for both documents, one that keeps each expiry date
 
 Start today: pull out your ID card, check the expiry date, and look it over for cracks, fading, or warped plastic. If it's borderline, book the renewal before you book the trip.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [Your Europe (EU): Travel documents for EU nationals](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm)
 - [EU law: Regulation 2019/1157 on identity cards](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1157)

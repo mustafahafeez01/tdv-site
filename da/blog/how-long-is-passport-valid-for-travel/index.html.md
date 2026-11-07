@@ -16,13 +16,13 @@ Source: https://traveldocumentvault.com/da/blog/how-long-is-passport-valid-for-t
 - Børns pas udløber hurtigere end forældrenes – **tjek hvert pas i selskabet individuelt**, før du booker, ikke kun dit eget.
 - Den praktiske grænse for fornyelse er **12 måneders resterende gyldighed**, ikke selve udløbsdatoen.
 
-Syv måneders gyldighed tilbage på passet lyder som rigeligt. Du booker flyene, tjekker bagagegrænsen, begynder at kigge på hoteller. Så kommer du til check-in til flyet til Bangkok, og medarbejderen tøver: Thailand kræver, at dit pas er gyldigt i mindst 6 måneder den dag, du ankommer, og du mangler to uger. Du kommer ikke med.
+Syv måneders gyldighed tilbage på passet lyder som rigeligt. Du booker flyene, tjekker bagagegrænsen, begynder at kigge på hoteller. Så kommer du til check-in til flyet til Bangkok, og medarbejderen tøver: [Thailand kræver](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), at dit pas er gyldigt i mindst 6 måneder den dag, du ankommer, og du mangler to uger. Du kommer ikke med.
 
 Det er en af de mest misforståede regler inden for rejser, fordi et pas, der ikke er udløbet, alligevel kan mislykkes i forhold til indrejsekravene for snesevis af populære destinationer. At forstå, hvordan pasgyldighed i måneder faktisk tælles, kan spare dig for en meget dyr fejl.
 
 ## Voksenpas holder langt længere end børnepas
 
-Standardgyldigheden for et voksenpas er 10 år fra udstedelsesdatoen i de fleste lande. Børnepas udløber tidligere, typisk efter 5 år. Vi ville tjekke et barns pas før alle andres, for det er det, alle går ud fra er i orden.
+Standardgyldigheden for et voksenpas er 10 år fra udstedelsesdatoen i de fleste lande. Børnepas udløber tidligere, [typisk efter 5 år](https://www.gov.uk/get-a-child-passport). Vi ville tjekke et barns pas før alle andres, for det er det, alle går ud fra er i orden.
 
 | Land | Voksengyldighed | Børnegyldighed |
 |---|---|---|
@@ -72,7 +72,7 @@ Et 3-årigt barn, der fik sit første pas i 2023, har et dokument, der udløber 
 Det praktiske svar: når du kommer under 12 måneders resterende gyldighed, ikke først når det er ved at udløbe. Her er hvorfor 12 måneder er den rette grænse frem for selve udløbsdatoen:
 
 - Det giver dig en fuld 6-måneders margin til enhver destination, der håndhæver reglen.
-- Fornyelse af pas tager tid, og sagsbehandlingstiderne ændrer sig – HM Passport Office fraråder at booke rejser, før det nye pas er ankommet, og både HM Passport Office og det amerikanske udenrigsministerium offentliggør deres aktuelle sagsbehandlingstider. Starter du med 6 måneder tilbage, giver det kun lidt margin.
+- Fornyelse af pas tager tid, og sagsbehandlingstiderne ændrer sig – HM Passport Office [fraråder at booke rejser](https://www.gov.uk/renew-adult-passport), før det nye pas er ankommet, og både HM Passport Office og det amerikanske udenrigsministerium offentliggør deres aktuelle sagsbehandlingstider. Starter du med 6 måneder tilbage, giver det kun lidt margin.
 - Sidste øjebliks-planer sker. Et pas med 14 måneder tilbage holder alle destinationer åbne. Et pas med 5 måneder tilbage lukker en stor del af verden.
 
 Den mest almindelige fejl er at sætte en påmindelse til selve udløbsdatoen. På det tidspunkt kan du ikke længere rejse til de fleste destinationer, der håndhæver 6-månedersreglen.
@@ -83,7 +83,7 @@ Læser du også vores guide om [hvor lang tid pasfornyelse tager](https://travel
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 
-Kilder vi har tjekket (6. november 2026)
+Officielle kilder
 
 - [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
 - [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)

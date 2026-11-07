@@ -36,7 +36,7 @@ Je verzekeringsdocumenten liggen bij wie je de verzekering heeft verkocht, dus b
 
 Weet je helemaal niet meer of je een polis hebt afgesloten, controleer dan je bankrekening. De Britse Financial Ombudsman Service beschrijft een pakketbankrekening als een gewone rekening waarvoor je een maandelijkse vergoeding betaalt in ruil voor extra voordelen, waaronder reisverzekering. In dat geval is de bank meestal de eerste plek om het te vragen, dus probeer de app, website of klantenservice van de bank.
 
-Zodra je ze hebt, adviseert het Britse ministerie van Buitenlandse Zaken (Foreign, Commonwealth and Development Office) om je polisgegevens mee te nemen, inclusief het polisnummer en het noodnummer van je verzekeraar. Het stelt ook voor die te delen met je medereizigers en familie thuis. Vind je nog steeds niets, bel dan de verzekeraar, of de bank bij een pakketverzekering, en vraag hen de documenten opnieuw te sturen voordat je vliegt, in plaats van nadat er iets fout is gegaan.
+Zodra je ze hebt, adviseert het [Britse ministerie van Buitenlandse Zaken (Foreign, Commonwealth and Development Office)](https://www.gov.uk/guidance/foreign-travel-insurance) om je polisgegevens mee te nemen, inclusief het polisnummer en het noodnummer van je verzekeraar. Het stelt ook voor die te delen met je medereizigers en familie thuis. Vind je nog steeds niets, bel dan de verzekeraar, of de bank bij een pakketverzekering, en vraag hen de documenten opnieuw te sturen voordat je vliegt, in plaats van nadat er iets fout is gegaan.
 
 ## De vijf documenten die je moet bewaren voordat je vliegt
 
@@ -146,7 +146,7 @@ Twintig minuten nu, en je bent nergens naar op zoek in een noodsituatie.
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 
-Bronnen die we hebben gecontroleerd (6 november 2026)
+Officiële bronnen
 
 - [UK Government: Foreign travel insurance](https://www.gov.uk/guidance/foreign-travel-insurance)
 

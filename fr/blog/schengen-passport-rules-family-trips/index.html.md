@@ -22,7 +22,7 @@ Deux règles et une particularité des passeports des enfants expliquent presque
 
 ## La véritable règle de Schengen : 3 mois au-delà du départ
 
-L'exigence de l'UE est précise : votre passeport doit être valide pendant au moins 3 mois après la date à laquelle vous envisagez de quitter la zone Schengen, et il doit avoir été délivré au cours des 10 dernières années.
+L'exigence de l'UE est précise : [votre passeport doit être valide pendant au moins 3 mois après la date à laquelle vous envisagez de quitter la zone Schengen](https://www.gov.uk/foreign-travel-advice/france/entry-requirements), et il doit avoir été délivré au cours des 10 dernières années.
 
 Imaginez que votre famille revient d'Italie le 20 août. Chaque passeport doit avoir une validité jusqu'à environ le 20 novembre — c'est trois mois au-delà de votre date de départ, pas votre arrivée, et pas votre date de réservation. Un passeport expirant le 10 novembre échoue ce test, même si les vacances elles-mêmes se terminent des semaines plus tôt.
 
@@ -30,7 +30,7 @@ La condition de délivrance dans les 10 dernières années touche les familles b
 
 ## Pourquoi ce n'est pas la règle des 6 mois
 
-La plupart des voyageurs absorbent l'idée que les passeports ont besoin de six mois de validité pour aller n'importe où. Cette règle est réelle — la Thaïlande exige six mois de validité, et de nombreux autres pays appliquent une version de celle-ci. Mais Schengen ne le fait pas. L'Europe demande trois mois au-delà du départ, ce qui est plus doux, et pourtant les deux s'entrelacent dans un vague « six mois à partir de quelque part » qui produit à la fois une fausse alarme et une fausse confiance.
+La plupart des voyageurs absorbent l'idée que les passeports ont besoin de six mois de validité pour aller n'importe où. Cette règle est réelle — [la Thaïlande exige six mois de validité](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), et de nombreux autres pays appliquent une version de celle-ci. Mais Schengen ne le fait pas. L'Europe demande trois mois au-delà du départ, ce qui est plus doux, et pourtant les deux s'entrelacent dans un vague « six mois à partir de quelque part » qui produit à la fois une fausse alarme et une fausse confiance.
 
 Notre guide sur [la règle des 6 mois](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/) couvre les pays qui l'appliquent réellement. Notre [expliquant sur la validité du passeport](https://traveldocumentvault.com/fr/blog/how-long-is-passport-valid-for-travel/) traite du cas général. Nous restons sur Schengen ici parce que c'est là que les familles se trompent le plus souvent sur les calculs.
 
@@ -38,7 +38,7 @@ Notre guide sur [la règle des 6 mois](https://traveldocumentvault.com/fr/blog/p
 
 ## Les passeports des enfants fonctionnent sur une horloge plus rapide
 
-Au Royaume-Uni, les passeports pour adultes sont valables 10 ans, contre cinq ans seulement pour ceux des enfants. Cette asymétrie est l'endroit où de nombreux plans par ailleurs soigneux s'effondrent.
+Au Royaume-Uni, les [passeports pour adultes sont valables 10 ans](https://www.gov.uk/apply-first-adult-passport), contre [cinq ans seulement pour ceux des enfants](https://www.gov.uk/get-a-child-passport). Cette asymétrie est l'endroit où de nombreux plans par ailleurs soigneux s'effondrent.
 
 | Pays | Passeports des enfants | Validité |
 |---|---|---|
@@ -60,13 +60,13 @@ Un passeport défaillant isole rarement une personne ; il immobilise la famille.
 
 Le correctif est simple et ne prend que quelques minutes. Le jour de la réservation, rassemblez tous les passeports du foyer et notez chaque date d'expiration et date d'émission. Posez ensuite deux questions pour chacun : sera-t-il toujours valide trois mois après votre retour, et a-t-il été émis il y a moins de dix ans ? Tout ce qui échoue à l'un ou l'autre test entre dans la file d'attente de renouvellement cette semaine — à ce stade, vous pouvez toujours renouveler, réacheminer le voyage ou décaler vos dates sans pénalité, et nous choisirions toujours de renouveler plutôt que d'attendre pour voir si les dates bougent.
 
-Les enfants ont besoin du même délai que les adultes. Il n'y a pas d'exception pour enfants aux règles de validité — le passeport d'un enfant de cinq ans reçoit le même traitement Timatic que le vôtre. Une remarque à part pour les voyages en Grande-Bretagne et en Irlande : l'Irlande n'est pas du tout à Schengen. Les voyages GB-Irlande se font selon la Zone de voyage commune distincte, alors ne généralisez pas d'un voyage à Dublin à un voyage à Paris.
+Les enfants ont besoin du même délai que les adultes. Il n'y a pas d'exception pour enfants aux règles de validité — le passeport d'un enfant de cinq ans reçoit le même traitement Timatic que le vôtre. Une remarque à part pour les voyages en Grande-Bretagne et en Irlande : l'Irlande n'est pas du tout à Schengen. Les voyages GB-Irlande se font selon la [Zone de voyage commune distincte](https://www.gov.uk/foreign-travel-advice/ireland/entry-requirements), alors ne généralisez pas d'un voyage à Dublin à un voyage à Paris.
 
 Rien de tout cela n'a besoin d'une application. Un tableur aide de nombreuses familles, et un rappel calendrier deux fois par an gère la plupart du travail. La seule condition non négociable : faire l'audit au moment de la réservation, quand un passeport court est toujours une course, pas une urgence.
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
-Sources vérifiées (6 novembre 2026)
+Sources officielles
 
 - [UK Foreign Office: France entry requirements](https://www.gov.uk/foreign-travel-advice/france/entry-requirements)
 - [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
@@ -80,7 +80,7 @@ Sources vérifiées (6 novembre 2026)
 
 ### Quelle est la différence entre la règle des 6 mois et la règle des 3 mois de Schengen?
 
-Ce sont deux règles distinctes pour des destinations différentes. Des pays comme la Thaïlande et l'Indonésie exigent généralement 6 mois de validité restante. Schengen exige 3 mois de validité au-delà de la date de départ, plus un passeport délivré au cours des 10 dernières années. Les familles qui ont voyagé en Asie du Sud-Est supposent souvent que la règle des 6 mois s'applique partout — ce n'est pas le cas.
+Ce sont deux règles distinctes pour des destinations différentes. Des pays comme la Thaïlande et [l'Indonésie](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements) exigent généralement 6 mois de validité restante. Schengen exige 3 mois de validité au-delà de la date de départ, plus un passeport délivré au cours des 10 dernières années. Les familles qui ont voyagé en Asie du Sud-Est supposent souvent que la règle des 6 mois s'applique partout — ce n'est pas le cas.
 
 ### Les enfants doivent-ils suivre des règles différentes pour le passeport Schengen?
 

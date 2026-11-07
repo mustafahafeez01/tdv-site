@@ -19,7 +19,7 @@ Source: https://traveldocumentvault.com/da/blog/us-child-passport-renewal-under-
 
 Et amerikansk pas, der udstedes til et barn under 16 år, kan ikke fornys. Når det udløber, søger du om et nyt personligt, på samme måde som første gang, og begge forældre deltager igen. Det er mere papirarbejde end en voksenfornyelse, men intet af det er nyt, hvis du har gjort det én gang før.
 
-Føderale pasregler sætter grænsen ved 16 år: fornyelse via post eller online er kun muligt, når det seneste pas blev udstedt ved 16 år eller ældre, så hvert pas, et barn får inden da, ender med en ny ansøgning. Et barn, der får sit første pas som baby, kan komme igennem fire ansøgninger, før det fylder 16, hver gang med begge forældre involveret.
+[Føderale pasregler](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-F/part-51) sætter grænsen ved 16 år: fornyelse via post eller online er kun muligt, når det seneste pas blev udstedt ved 16 år eller ældre, så hvert pas, et barn får inden da, ender med en ny ansøgning. Et barn, der får sit første pas som baby, kan komme igennem fire ansøgninger, før det fylder 16, hver gang med begge forældre involveret.
 
 ## Pas udstedt før 16 år er gyldige i fem år
 
@@ -69,7 +69,7 @@ Med mere end et barn glider datoerne fra hinanden. Pas udstedt et par år fra hi
 
 Det, der gør forskellen, er at starte tidligt. Vi ville begynde omkring ni måneder, før et barns pas udløber: nok tid til at finde en tid begge forældre kan nå, få en eventuel notarpåtegnet erklæring underskrevet, og stadig have tid, hvis noget skal gøres om. Vores guide om [hvornår man skal forny et pas, før det udløber](https://traveldocumentvault.com/da/blog/renew-passport-before-expiry/) gennemgår tidsplanen mere detaljeret.
 
-Kilder vi har tjekket (6. november 2026)
+Officielle kilder
 
 - [US eCFR: 22 CFR Part 51 (passports)](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-F/part-51)
 

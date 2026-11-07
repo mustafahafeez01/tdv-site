@@ -48,25 +48,25 @@ Er en fornyelse allerede sat i gang, er det et andet spørgsmål – og det afh�
 
 ## Et udløbet pas fornyes, det startes ikke forfra
 
-Et udløbet pas fornyes – det startes ikke forfra. GOV.UK nævner et udløbet pas som en af de to grunde til, at du skal forny, før du rejser, sammen med for lidt gyldighed tilbage, så for de fleste er den almindelige fornyelsesservice for voksne vejen frem.
+Et udløbet pas fornyes – det startes ikke forfra. [GOV.UK](https://www.gov.uk/renew-adult-passport/renew) nævner et udløbet pas som en af de to grunde til, at du skal forny, før du rejser, sammen med for lidt gyldighed tilbage, så for de fleste er den almindelige fornyelsesservice for voksne vejen frem.
 
-Undtagelsen er en gammel regel. Blev dit seneste britiske pas udstedt før den 1. januar 1994, beder HM Passport Office dig i stedet søge om et første voksenpas, så det er værd at tjekke udstedelsesdatoen, før du går i gang.
+Undtagelsen er en gammel regel. Blev dit seneste britiske pas udstedt før den 1. januar 1994, beder HM Passport Office dig i stedet [søge om et første voksenpas](https://www.gov.uk/apply-first-adult-passport), så det er værd at tjekke udstedelsesdatoen, før du går i gang.
 
 Du kan søge online, hvilket kræver et digitalt foto, eller på en papirblanket, som kræver to identiske, printede fotos. Uanset hvad sender du dit gamle pas med ansøgningen. Indeholder det et visum, der stadig er gyldigt, anbefaler GOV.UK at sende passet med visummet siddende i, og det gamle pas bliver returneret til dig.
 
-Én detalje overrasker folk, når det nye pas ankommer: **det har et andet nummer**. Derfor fraråder GOV.UK at booke rejser, før du har det nye pas i hånden, og alt, der er bestilt med det gamle nummer – som en flybooking eller en rejsetilladelse til et andet land – kan skulle opdateres. Vores guide om [at læse dine pasdatoer](https://traveldocumentvault.com/da/blog/how-to-read-your-passport-dates/) forklarer, hvad der ændrer sig ved fornyelse, og hvad der forbliver det samme.
+Én detalje overrasker folk, når det nye pas ankommer: **det har et andet nummer**. Derfor fraråder [GOV.UK](https://www.gov.uk/renew-adult-passport) at booke rejser, før du har det nye pas i hånden, og alt, der er bestilt med det gamle nummer – som en flybooking eller en rejsetilladelse til et andet land – kan skulle opdateres. Vores guide om [at læse dine pasdatoer](https://traveldocumentvault.com/da/blog/how-to-read-your-passport-dates/) forklarer, hvad der ændrer sig ved fornyelse, og hvad der forbliver det samme.
 
 ## Indenrigsrejser: begrænset fleksibilitet med alternativ legitimation
 
 Indenrigsrejser i Storbritannien og Irland fungerer lidt anderledes: flyselskaber kan acceptere alternativ foto-legitimation som et britisk kørekort eller nationalt ID-kort i stedet for et pas. Hvad der accepteres, varierer dog betydeligt mellem flyselskaber og destinationer, så du kan ikke gå ud fra, at en bestemt legitimation vil virke.
 
-**Det betyder ikke, at du kan undlade at forny dit pas.** Flyselskaber har forskellige politikker for indenrigsruter: nogle kræver pas til al rejse til Irland, selvom Common Travel Area teknisk set tillader rejse med ID-kort, mens andre accepterer et kørekort. Flyselskaber opdaterer også deres regler, og dit flyselskab kan have ændret sine, siden du sidst fløj, så du kan ikke gå ud fra, at det, der virkede før, virker igen.
+**Det betyder ikke, at du kan undlade at forny dit pas.** Flyselskaber har forskellige politikker for indenrigsruter: nogle kræver pas til al rejse til Irland, selvom [Common Travel Area](https://www.gov.uk/foreign-travel-advice/ireland/entry-requirements) teknisk set tillader rejse med ID-kort, mens andre accepterer et kørekort. Flyselskaber opdaterer også deres regler, og dit flyselskab kan have ændret sine, siden du sidst fløj, så du kan ikke gå ud fra, at det, der virkede før, virker igen.
 
 Overvejer du en indenrigsrejse med et udløbet pas, skal du kontakte dit flyselskab mindst 48 timer før afgang og spørge direkte: "Mit britiske pas er udløbet. Accepterer I mit britiske kørekort i stedet?" Få bekræftelsen skriftligt, hvis du kan, for det er sådan, folk går glip af deres fly – ved at møde op til indcheckning med alternativ legitimation og ingen forudgående bekræftelse.
 
 ## Nødfornyelse: Premiumtjenesten, hvis du kan få en tid
 
-Er din rejse nært forestående, og dit pas er udløbet, tilbyder His Majesty's Passport Office en 1 Day Premium-tjeneste, der er designet netop til dette scenarie. Ifølge GOV.UK er den tidligste tid 2 dage efter din ansøgning, og dit fornyede pas er klar til afhentning 4 timer efter din tid. HM Passport Office offentliggør det aktuelle gebyr på gov.uk, og det dækker tiden og fornyelsen samlet i stedet for at blive lagt oveni standardgebyret. Det giver dig et pas langt hurtigere end standardvejen, selvom hvor meget hurtigere afhænger af den tid, du får. Bemærk, at 1 Day Premium-tjenesten kun gælder voksenfornyelser, ikke første pas til voksne.
+Er din rejse nært forestående, og dit pas er udløbet, tilbyder His Majesty's Passport Office en 1 Day Premium-tjeneste, der er designet netop til dette scenarie. Ifølge [GOV.UK](https://www.gov.uk/get-a-passport-urgently) er den tidligste tid 2 dage efter din ansøgning, og dit fornyede pas er klar til afhentning 4 timer efter din tid. HM Passport Office offentliggør det aktuelle gebyr på gov.uk, og det dækker tiden og fornyelsen samlet i stedet for at blive lagt oveni standardgebyret. Det giver dig et pas langt hurtigere end standardvejen, selvom hvor meget hurtigere afhænger af den tid, du får. Bemærk, at 1 Day Premium-tjenesten kun gælder voksenfornyelser, ikke første pas til voksne.
 
 Dette er den officielle nødvej for reelle rejsebegrænsninger. HM Passport Office offentliggør den aktuelle sagsbehandlingstid for en standardfornyelse, og næsten alle ansøgninger behandles inden for det tidsrum, men når en rejse virkelig ikke kan vente, fjerner Premiummuligheden usikkerheden.
 
@@ -92,7 +92,7 @@ Er dit pas allerede udløbet, og du søger efter, hvad du skal gøre nu, gennemg
 
 ## Hvis du allerede er i udlandet, og dit pas udløber
 
-Det er det sværeste scenarie at planlægge for, når dit pas udløber, mens du stadig er i udlandet. Udløber det, før du rejser hjem, kan du ikke gå om bord på et fly eller en færge hjem, og du skal kontakte nærmeste britiske ambassade eller konsulat for at få et nødrejsedokument, nogle gange kaldet et ETD eller nødpas, som regel er gyldigt til én enkelt rejse eller returrejse gennem højst fem lande.
+Det er det sværeste scenarie at planlægge for, når dit pas udløber, mens du stadig er i udlandet. Udløber det, før du rejser hjem, kan du ikke gå om bord på et fly eller en færge hjem, og du skal kontakte nærmeste britiske ambassade eller konsulat for at få et [nødrejsedokument](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport), nogle gange kaldet et ETD eller nødpas, som regel er gyldigt til én enkelt rejse eller returrejse gennem højst fem lande.
 
 Processen er langsom og bureaukratisk. Du skal fremvise identifikation og betale gebyret, som fastsættes af Foreign, Commonwealth and Development Office. Behandlingstiden varierer fra ambassade til ambassade og afhænger af, hvor akut din situation er, så spørg konsulatet, hvad du kan forvente, så snart du kontakter dem.
 
@@ -110,7 +110,7 @@ Den enkleste måde at undgå alt dette på: tag dit pas frem i dag, og tjek dato
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 
-Kilder vi har tjekket (6. november 2026)
+Officielle kilder
 
 - [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)
 - [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)

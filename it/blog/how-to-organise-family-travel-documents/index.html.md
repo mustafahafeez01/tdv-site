@@ -39,13 +39,13 @@ Dipende da dove stai andando, ma per la maggior parte dei viaggi internazionali 
 
 **Cosa aggiunge il viaggiare con i bambini**
 
-- Certificati di nascita — talvolta richiesti all'immigrazione, soprattutto quando il cognome del bambino differisce dal genitore che viaggia
+- Certificati di nascita — [talvolta richiesti all'immigrazione](https://www.gov.uk/foreign-travel-advice/mexico/entry-requirements), soprattutto quando il cognome del bambino differisce dal genitore che viaggia
 - Una lettera di consenso parentale firmata se uno dei genitori non è presente — fortemente consigliata per i viaggi da un solo genitore o con nonni
 - Ordinanze della corte sulla custodia, se applicabili
 
 ### Lettera di consenso al viaggio del minore: quando è necessaria
 
-Una lettera di consenso al viaggio del minore è un documento firmato dal genitore assente (o tutore legale) che autorizza il bambino a viaggiare. Generalmente non è un obbligo di legge, ma gli agenti di frontiera di alcuni paesi, tra cui il Canada, possono chiedere la prova che entrambi i genitori acconsentano al viaggio quando un bambino viaggia con un solo genitore o con un altro adulto. È facile da portare e può risparmiarti domande alla frontiera.
+Una lettera di consenso al viaggio del minore è un documento firmato dal genitore assente (o tutore legale) che autorizza il bambino a viaggiare. Generalmente non è un obbligo di legge, ma gli agenti di frontiera di alcuni paesi, tra cui il [Canada](https://travel.gc.ca/travelling/children/consent-letter), possono chiedere la prova che entrambi i genitori acconsentano al viaggio quando un bambino viaggia con un solo genitore o con un altro adulto. È facile da portare e può risparmiarti domande alla frontiera.
 
 Il Sudafrica ha regole proprie sui viaggi con bambini, tra cui il certificato di nascita integrale: controlla le indicazioni del suo Ministero dell’Interno prima di partire.
 
@@ -57,7 +57,7 @@ Una lettera di consenso valida dovrebbe includere: il nome completo e la data di
 
 - Patente internazionale (se stai noleggiando un'auto all'estero)
 - Cartelle cliniche o dettagli dei farmaci per condizioni continuative
-- Tessera sanitaria europea (EHIC), se sei coperto da un sistema sanitario dell’UE
+- Tessera sanitaria europea (EHIC), se sei [coperto da un sistema sanitario dell’UE](https://europa.eu/youreurope/citizens/health/unplanned-healthcare/temporary-stays/index_en.htm)
 
 ## Organizzazione fisica: dove conservare i documenti originali
 
@@ -128,7 +128,7 @@ Se non l'hai ancora fatto, scegli il posto in cui vivranno i passaporti e impost
 
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 
-Fonti che abbiamo verificato (6 novembre 2026)
+Fonti ufficiali
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [UK Foreign Office: Mexico entry requirements](https://www.gov.uk/foreign-travel-advice/mexico/entry-requirements)

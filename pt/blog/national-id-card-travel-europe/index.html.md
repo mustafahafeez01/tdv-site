@@ -30,15 +30,15 @@ Um cartão que expira amanhã continua, tecnicamente, a ser um documento de viag
 
 ## O que conta como cartão de identidade nacional do EEE
 
-Quando um formulário de reserva ou um agente de check-in pede um «cartão de identidade nacional do EEE», refere-se ao cartão de identidade que o seu próprio país emite aos seus cidadãos, o que indica a sua nacionalidade. O EEE é composto pelos 27 países da UE mais a Islândia, o Listenstaine e a Noruega; a Suíça fica fora, mas as orientações Your Europe da Comissão Europeia confirmam que os cidadãos da UE também podem viajar para lá com um cartão de identidade nacional.
+Quando um formulário de reserva ou um agente de check-in pede um «cartão de identidade nacional do EEE», refere-se ao cartão de identidade que o seu próprio país emite aos seus cidadãos, o que indica a sua nacionalidade. O EEE é composto pelos 27 países da UE mais a Islândia, o Listenstaine e a Noruega; a Suíça fica fora, mas as orientações [Your Europe](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm) da Comissão Europeia confirmam que os cidadãos da UE também podem viajar para lá com um cartão de identidade nacional.
 
-Um cartão de residência mostra onde vive, não a sua nacionalidade, por isso viaja junto com o passaporte em vez de o substituir. O governo britânico indica aos residentes britânicos em Espanha que apresentem prova de residência, como o cartão TIE, ao mostrar o passaporte no controlo fronteiriço espanhol. As cartas de condução, cartões bancários e cartões fiscais também não contam, e a Your Europe avisa que podem ser recusados como prova de identidade.
+Um cartão de residência mostra onde vive, não a sua nacionalidade, por isso viaja junto com o passaporte em vez de o substituir. O [governo britânico](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements) indica aos residentes britânicos em Espanha que apresentem prova de residência, como o cartão TIE, ao mostrar o passaporte no controlo fronteiriço espanhol. As cartas de condução, cartões bancários e cartões fiscais também não contam, e a Your Europe avisa que podem ser recusados como prova de identidade.
 
 O atual cartão da UE é fácil de reconhecer. Tem o tamanho de um cartão bancário, tem uma zona de leitura ótica (as linhas de código que um leitor lê), e mostra o código de duas letras do país emissor dentro de um retângulo azul rodeado por 12 estrelas amarelas na frente. Um chip no interior guarda a sua fotografia e duas impressões digitais.
 
-Os cartões mais antigos são os que costumam criar problemas. Segundo o regulamento da UE sobre cartões de identidade, um cartão sem zona de leitura ótica funcional, ou abaixo do padrão mínimo internacional de segurança, deixou de ser válido até 3 de agosto de 2026, mesmo que a data impressa seja posterior. A maioria dos outros cartões de formato antigo mantém-se válida até à data de validade impressa ou até 3 de agosto de 2031, o que ocorrer primeiro. Se o seu cartão for anterior ao código rodeado de estrelas e não tiver zona de leitura ótica, nós renovaríamos já, em vez de arriscar no embarque.
+Os cartões mais antigos são os que costumam criar problemas. Segundo o [regulamento da UE sobre cartões de identidade](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1157), um cartão sem zona de leitura ótica funcional, ou abaixo do padrão mínimo internacional de segurança, deixou de ser válido até 3 de agosto de 2026, mesmo que a data impressa seja posterior. A maioria dos outros cartões de formato antigo mantém-se válida até à data de validade impressa ou até 3 de agosto de 2031, o que ocorrer primeiro. Se o seu cartão for anterior ao código rodeado de estrelas e não tiver zona de leitura ótica, nós renovaríamos já, em vez de arriscar no embarque.
 
-Para o Reino Unido, o cartão geralmente não funciona. O Reino Unido geralmente só aceita um cartão de identidade da UE, do EEE ou suíço para grupos limitados, como pessoas com estatuto settled ou pre-settled, por isso confirme no GOV.UK antes de uma viagem ao Reino Unido.
+Para o Reino Unido, o cartão geralmente não funciona. O Reino Unido geralmente só aceita um cartão de identidade da UE, do EEE ou suíço para grupos limitados, como pessoas com estatuto settled ou pre-settled, por isso confirme no [GOV.UK](https://www.gov.uk/guidance/visiting-the-uk-as-an-eu-eea-or-swiss-citizen) antes de uma viagem ao Reino Unido.
 
 ## Quando precisa do passaporte em vez disso
 
@@ -85,7 +85,7 @@ O que ajuda é ter um único lugar para os dois documentos, um que guarda a data
 
 Comece hoje: pegue no seu cartão de identidade, verifique a data de validade e examine-o à procura de fissuras, desbotamento ou plástico deformado. Se estiver no limite, marque a renovação antes de reservar a viagem.
 
-Fontes que verificámos (6 de novembro de 2026)
+Fontes oficiais
 
 - [Your Europe (EU): Travel documents for EU nationals](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm)
 - [EU law: Regulation 2019/1157 on identity cards](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1157)

@@ -40,7 +40,7 @@ Source: https://traveldocumentvault.com/ko/blog/proof-of-onward-travel/
 
 항공사는 승객이 입국을 거부당할 가능성이 있는지, 그래서 자신이 돌려보내는 비용을 떠안게 될지를 알고 싶어합니다. 국경 직원은 이와 관련이 있지만 다른 질문을 합니다. 그 나라의 입국 조건을 충족하는가 하는 질문입니다. 두 질문은 겹치지만 완전히 같지는 않습니다.
 
-두 질문이 겹치는 지점은 목적지 자체의 규정입니다. 예를 들어 셍겐 국경 규정(Schengen Borders Code)은 국경 직원이 방문객에게 요구할 수 있는 서류 중 하나로 귀국 또는 왕복 항공권을 명시하고 있습니다. 뉴질랜드는 방문객에게 출국할 수단을 갖추도록 요구합니다. 목적지가 이런 방식으로 운영될 때, 체크인에서 항공사가 묻는 것은 대개 자체 규정을 만든 것이 아니라 목적지의 규정을 몇 시간 앞서 적용하는 것뿐입니다.
+두 질문이 겹치는 지점은 목적지 자체의 규정입니다. 예를 들어 셍겐 국경 규정([Schengen Borders Code](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0399))은 국경 직원이 방문객에게 요구할 수 있는 서류 중 하나로 귀국 또는 왕복 항공권을 명시하고 있습니다. 뉴질랜드는 [방문객에게 출국할 수단을 갖추도록 요구합니다](https://www.immigration.govt.nz/visas/visa-waiver-visitor-visa/). 목적지가 이런 방식으로 운영될 때, 체크인에서 항공사가 묻는 것은 대개 자체 규정을 만든 것이 아니라 목적지의 규정을 몇 시간 앞서 적용하는 것뿐입니다.
 
 ![체크인에서 항공사가 목적지의 규정을 적용해 탑승 여부를 결정하는 확인과, 도착 시 입국을 허용할지 결정하는 국경 확인을 비교한 다이어그램](https://traveldocumentvault.com/blog/proof-of-onward-travel/two-checks-ko.jpg) 항공사는 탑승 전에 확인하고, 국경 직원은 도착 시 입국을 결정합니다
 
@@ -70,12 +70,11 @@ Source: https://traveldocumentvault.com/ko/blog/proof-of-onward-travel/
 
 확인서는 오프라인 사본으로 보관하세요. PDF 파일, 예약 번호와 날짜가 보이는 스크린샷, 또는 연결 없이도 작동하는 앱 속의 사본이면 됩니다. Travel Document Vault는 항공권과 호텔 예약 내역을 기기에 암호화하여 오프라인으로 저장합니다. 신호가 있든 없든 카운터에서 바로 꺼내 보여줄 수 있습니다. 그 외에 준비해 둘 만한 것들은 [여행 서류 체크리스트](https://traveldocumentvault.com/ko/blog/travel-document-checklist/)에서 확인하세요.
 
-확인한 출처 (2026년 11월 6일)
+공식 출처
 
 - [EU law: Schengen Borders Code (Regulation 2016/399)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0399)
 - [Immigration New Zealand: Visa Waiver Visitor Visa](https://www.immigration.govt.nz/visas/visa-waiver-visitor-visa/)
 - [Immigration New Zealand: Visitor Visa](https://www.immigration.govt.nz/visas/visitor-visa/)
-- [Immigration New Zealand: Onward travel requirements](https://www.immigration.govt.nz/opsmanual/50548.htm)
 
 ## 자주 묻는 질문
 
@@ -97,7 +96,7 @@ Source: https://traveldocumentvault.com/ko/blog/proof-of-onward-travel/
 
 ### 국경에서 출국 예정 증빙이 필요한가요?
 
-일부 목적지가 방문객 입국 조건에 이를 포함하기 때문에, 경우에 따라 필요합니다. 셍겐 국경 규정(Schengen Borders Code)은 국경 직원이 요구할 수 있는 서류 중 하나로 왕복 또는 귀국 티켓을 명시하고 있으며, 뉴질랜드는 방문객에게 출국할 수단을 갖추도록 요구합니다. 여행 전에 목적지의 규정을 확인하세요.
+일부 목적지가 방문객 입국 조건에 이를 포함하기 때문에, 경우에 따라 필요합니다. 셍겐 국경 규정(Schengen Borders Code)은 국경 직원이 요구할 수 있는 서류 중 하나로 왕복 또는 귀국 티켓을 명시하고 있으며, 뉴질랜드는 [방문객에게 출국할 수단을 갖추도록 요구합니다](https://www.immigration.govt.nz/visas/visitor-visa/). 여행 전에 목적지의 규정을 확인하세요.
 
 ## 관련 기사
 

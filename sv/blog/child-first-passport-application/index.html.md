@@ -13,7 +13,7 @@ Source: https://traveldocumentvault.com/sv/blog/child-first-passport-application
 - **Samtycke att ansöka skiljer sig från samtycke att resa.** Reglerna skiljer sig mellan länder: i Storbritannien skriver till exempel någon med föräldraansvar under och båda föräldrarnas uppgifter anges, medan andra länder kräver båda föräldrarnas samtycke. Kontrollera med din passmyndighet.
 - **De flesta ansökningar kräver tre typer av bevis:** bevis på identitet (födelsebevis), bevis på föräldrarnas identitet, och bevis på föräldraskap.
 - **Babyfoton för pass har specifika regler.** De flesta myndigheter vill att ögonen ska vara öppna och rikta sig mot kameran (GOV.UK lättar på detta för barn under 1 år och under 6 år), utan napp, leksaker eller andra händer synliga – och bakgrunden bakom barnets huvud måste vara enfärgad och tydlig.
-- **Kontrollera allt så snart det kommer.** Stavning, föräldrarnas namn där de förekommer, utgångsdatum – särskilt eftersom barnpass ofta går ut tidigare än vuxenpass (ett brittiskt barnpass gäller i 5 år).
+- **Kontrollera allt så snart det kommer.** Stavning, föräldrarnas namn där de förekommer, utgångsdatum – särskilt eftersom barnpass ofta går ut tidigare än vuxenpass ([ett brittiskt barnpass gäller i 5 år](https://www.gov.uk/get-a-child-passport)).
 - **I länder som kräver båda föräldrarnas samtycke kan en förälder i regel inte skriva under ensam om det inte finns ett domstolsbeslut, ensam vårdnad eller om den andra föräldern har avlidit.** Gäller detta dig har din passmyndighet en specifik process att följa.
 
 Ditt barns första pass är något du bara gör en gång – vilket betyder att du kan lära dig reglerna innan det händer, i stället för att upptäcka dem vid disken. Själva ansökan är okomplicerad, men samtyckesregler och fotokrav varierar mellan länder, och ett litet misstag i början innebär en avvisad ansökan och en försenad resa.
@@ -28,7 +28,7 @@ Den här artikeln handlar om samtycket till ansökan. Skillnaden spelar roll eft
 
 ## Som standard måste alla med föräldraansvar samtycka
 
-Vem som måste samtycka beror på landet. I Storbritannien skriver en person med föräldraansvar under ansökan och båda föräldrarnas uppgifter anges; vissa andra länder kräver i regel båda föräldrarnas underskrifter. Även reglerna för om en ogift förälder har föräldraansvar skiljer sig mellan länder, så kontrollera med din passmyndighet. Alla med ett domstolsbeslut eller ensam juridisk vårdnad omfattas av andra regler, och din passmyndighet förklarar den specifika processen när du frågar.
+Vem som måste samtycka beror på landet. I Storbritannien skriver [en person med föräldraansvar under ansökan](https://www.gov.uk/get-a-child-passport/first-child-passport) och båda föräldrarnas uppgifter anges; vissa andra länder kräver i regel båda föräldrarnas underskrifter. Även reglerna för om en ogift förälder har föräldraansvar skiljer sig mellan länder, så kontrollera med din passmyndighet. Alla med ett domstolsbeslut eller ensam juridisk vårdnad omfattas av andra regler, och din passmyndighet förklarar den specifika processen när du frågar.
 
 De här undantagen är verkliga och värda att känna till. En avliden förälder kan inte skriva under, och en förälder som förlorat sitt föräldraansvar genom ett domstolsbeslut kanske inte heller har rätt att samtycka. Kontaktförbud och vårdnadsbegränsningar kan också utesluta en förälder enligt lag. Var och en av de här situationerna har sin egen ansökningsprocess och sina egna beviskrav, så det finns inget enda svar som täcker alla.
 
@@ -44,7 +44,7 @@ Passmyndigheter vill ha tre saker när du ansöker om ett barns första pass: be
 
 **Bevis på relation till barnet** kommer oftast från själva födelsebeviset om båda föräldrarna står namngivna. Står bara en förälder med kan du behöva lämna ett domstolsbeslut, ett vårdnadsavtal, eller ett förmyndarskapsintyg för att visa att den andra föräldern också har rätt att fatta beslut om barnet.
 
-**Vissa länder använder ett system med intygsgivare.** Det betyder att en betrodd yrkesperson – en lärare, läkare, jurist eller liknande – skriver under ett formulär för att gå i god för att ansökan är äkta och att fotot liknar barnet. Använder ditt land det här systemet behöver du hitta någon som är villig att göra det innan du ansöker. Fråga din passmyndighet vilka yrken de accepterar.
+**Vissa länder använder ett [system med intygsgivare](https://www.gov.uk/countersigning-passport-applications).** Det betyder att en betrodd yrkesperson – en lärare, läkare, jurist eller liknande – skriver under ett formulär för att gå i god för att ansökan är äkta och att fotot liknar barnet. Använder ditt land det här systemet behöver du hitta någon som är villig att göra det innan du ansöker. Fråga din passmyndighet vilka yrken de accepterar.
 
 ## Bebisar kan inte följa vuxnas fotoregler, så du anpassar dem
 
@@ -52,7 +52,7 @@ Passmyndigheter vill ha tre saker när du ansöker om ett barns första pass: be
 
 Det är här många förstagångsansökningar misslyckas. En baby eller ett litet barn kan inte följa fotoreglerna som en vuxen kan: bebisar kan inte sitta upp, småbarn kan inte sitta stilla eller förstå instruktioner, och nyfödda kan inte titta in i kameran på kommando. Passfotostandarder är skrivna för vuxna, och du behöver förstå hur du anpassar dem när motivet är ett barn som väger 5 kilo och rör sig hela tiden.
 
-**Grundreglerna är desamma:** barnets ögon ska generellt vara öppna och rikta sig mot kameran, med en enfärgad bakgrund bakom huvudet och inget annat i bild. Vissa myndigheter lättar på ögonreglerna för de yngsta barnen: GOV.UK kräver inte öppna ögon under ett år, eller en direkt blick mot kameran under 6 år. Det som ändras är hur du får det att hända.
+**Grundreglerna är desamma:** barnets ögon ska generellt vara öppna och rikta sig mot kameran, med en enfärgad bakgrund bakom huvudet och inget annat i bild. Vissa myndigheter lättar på ögonreglerna för de yngsta barnen: [GOV.UK](https://www.gov.uk/photos-for-passports) kräver inte öppna ögon under ett år, eller en direkt blick mot kameran under 6 år. Det som ändras är hur du får det att hända.
 
 **För en nyfödd eller baby under ett år:** fotografera barnet liggande på ett enfärgat vitt eller ljust lakan eller filt. Lakanet blir bakgrunden. Ställ dig direkt ovanför så att babyn tittar rakt upp mot kameran, med öppna ögon – är babyn sömnig, vänta på ett ögonblick när hen är pigg. Inga leksaker, inga nappar, inga händer, ingen annan person synlig i bilden förutom babyns eget huvud och axlar.
 
@@ -86,7 +86,7 @@ Det här är ett juridiskt krav som finns för att skydda barnet, inte en förha
 
 När passet är utfärdat och levererat till dig, ta fem minuter och kontrollera det innan du lägger undan det. Du letar efter tre saker som är lätta att fixa nu och en mardröm att fixa på flygplatsen.
 
-**Kontrollera stavningen.** Ditt barns namn måste stavas exakt som det står på födelsebeviset eller den identitetshandling du använde för att ansöka. Är det fel ersätter passmyndigheten vanligtvis passet utan kostnad om felet var deras, men du kan få betala en avgift om felet fanns i din ansökan. Märker du det inte förrän ni är på flygplatsen kan flygbolaget neka ombordstigning eftersom namnet på biljetten inte matchar passet.
+**Kontrollera stavningen.** Ditt barns namn måste stavas exakt som det står på födelsebeviset eller den identitetshandling du använde för att ansöka. Är det fel [ersätter passmyndigheten vanligtvis passet utan kostnad om felet var deras](https://www.gov.uk/government/publications/preventing-and-resolving-errors-on-passports/how-to-correct-errors-on-passports-accessible), men du kan få betala en avgift om felet fanns i din ansökan. Märker du det inte förrän ni är på flygplatsen kan flygbolaget neka ombordstigning eftersom namnet på biljetten inte matchar passet.
 
 **Kontrollera föräldrarnas namn där de förekommer.** Vissa länder trycker föräldrarnas eller vårdnadshavarnas namn på insidan av ett barns pass. Är namnen felstavade eller fel, kontakta myndigheten för att få det rättat.
 
@@ -94,7 +94,7 @@ När passet är utfärdat och levererat till dig, ta fem minuter och kontrollera
 
 Är något fel, kontakta din passmyndighet så snart du upptäcker det. Om rättelsen är gratis beror på vem som gjorde felet, och ju längre du väntar desto krångligare blir processen. När allt stämmer, lägg passet direkt i din dokumentmapp med en anteckning om utgångsdatumet, så att förnyelsen inte tar dig på sängen.
 
-Källor vi har kontrollerat (6 november 2026)
+Officiella källor
 
 - [UK Government: Get a passport photo, Digital photos](https://www.gov.uk/photos-for-passports)
 - [UK Government: applying for a first child passport](https://www.gov.uk/get-a-child-passport/first-child-passport)

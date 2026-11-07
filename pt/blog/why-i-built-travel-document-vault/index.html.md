@@ -12,7 +12,7 @@ Estava na imigração quando o funcionário olhou para o passaporte da minha fil
 
 "Sabe que este expira em sete meses, pois não?" disse ele. "Só para ter em conta, alguns países não o deixam entrar com menos de seis meses de validade."
 
-Agradeci-lhe. Estávamos bem, por pouco. Mas durante toda a viagem não parei de pensar: se ele não tivesse dito nada, eu nunca teria reparado. Sete meses pareciam tempo mais do que suficiente. Tinha verificado o passaporte antes de reservar. Simplesmente esqueci por completo a regra dos seis meses que muitos países aplicam.
+Agradeci-lhe. Estávamos bem, por pouco. Mas durante toda a viagem não parei de pensar: se ele não tivesse dito nada, eu nunca teria reparado. Sete meses pareciam tempo mais do que suficiente. Tinha verificado o passaporte antes de reservar. Simplesmente esqueci por completo a [regra dos seis meses](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements) que muitos países aplicam.
 
 Esse susto ficou comigo. Já tinha configurado lembretes no calendário para as datas de validade dos passaportes de toda a família. Pensei que era suficiente. Mas não estava a verificar realmente as datas, estava apenas a confiar nos lembretes. E quando alguém renovava o passaporte, tinha de atualizar o lembrete, atualizar o digitalizador no Google Drive, e esperar não me ter esquecido de nada.
 
@@ -118,7 +118,7 @@ Mustafa
 
 Fundador, Travel Document Vault
 
-Fontes que verificámos (6 de novembro de 2026)
+Fontes oficiais
 
 - [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
 

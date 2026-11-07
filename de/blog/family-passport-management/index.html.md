@@ -24,7 +24,7 @@ Das Problem fängt klein an. Sie haben Ihren Pass, Ihr Ehepartner hat seinen/ihr
 
 Meist bleibt es an einer Person hängen, oft an derjenigen, die ohnehin die übrigen Reisevorbereitungen verwaltet, und dieser einzelne Ausfallpunkt wird zum Risiko.
 
-Kinderreisepässe laufen oft früher ab als Erwachsenenpässe. Im Vereinigten Königreich ist ein Kinderreisepass 5 Jahre gültig, und viele andere Länder stellen Kinderreisepässe mit kürzerer Gültigkeit als Erwachsenenpässe aus. Dies bedeutet, dass der Pass Ihres jüngsten Kindes oft zum limitierenden Faktor für Familienreisen wird. Sie könnten einen Elternteil mit noch 8 Jahren Gültigkeit haben, aber wenn der Pass Ihres Jüngsten in 18 Monaten abläuft, das ist Ihr Planungshorizont.
+Kinderreisepässe laufen oft früher ab als Erwachsenenpässe. Im Vereinigten Königreich ist [ein Kinderreisepass 5 Jahre gültig](https://www.gov.uk/get-a-child-passport), und viele andere Länder stellen Kinderreisepässe mit kürzerer Gültigkeit als Erwachsenenpässe aus. Dies bedeutet, dass der Pass Ihres jüngsten Kindes oft zum limitierenden Faktor für Familienreisen wird. Sie könnten einen Elternteil mit noch 8 Jahren Gültigkeit haben, aber wenn der Pass Ihres Jüngsten in 18 Monaten abläuft, das ist Ihr Planungshorizont.
 
 Die meisten Familien bemerken dies erst, wenn sie bereits eine Reise gebucht haben. Ein Elternteil findet die Pässe eine Woche vor der Abreise, scannt sie hastig beim Packen ein, und entdeckt, dass der Ausweis eines Kindes die Gültigkeitsregel seines Ziellands nicht erfüllt – oft sind sechs Monate vorgeschrieben. Die Reise ist nun gefährdet, oder benötigt eine eilige und teure Passerneuerung.
 
@@ -86,7 +86,7 @@ Falls Sie das noch nicht eingerichtet haben, fangen Sie heute an: Scannen Sie di
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 
-Quellen, die wir geprüft haben (6. November 2026)
+Offizielle Quellen
 
 - [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
 

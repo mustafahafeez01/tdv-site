@@ -28,7 +28,7 @@ Due configurazioni vengono entrambe vendute come backup crittografato, ma si com
 
 La prima invia il file al server dell'azienda tramite una connessione cifrata, poi lo conserva cifrato a riposo. Entrambe le affermazioni sono vere, ed entrambe suonano rassicuranti. Ma l'azienda continua ad avere la chiave, quindi è tecnicamente in grado di decifrare i tuoi documenti, per una funzionalità, una richiesta legale o un errore interno. La scansione del tuo passaporto è leggibile dall'altra parte.
 
-L'altra configurazione cifra il file sul tuo telefono prima ancora che venga inviato, usando una chiave derivata da qualcosa che solo tu possiedi. Ciò che arriva nello storage è un blocco di rumore, e nessuno dall'altra parte può leggerlo, perché nessuno dall'altra parte ha la chiave. Questo viene spesso descritto come cifratura end-to-end, o zero-knowledge.
+L'altra configurazione cifra il file sul tuo telefono prima ancora che venga inviato, usando una chiave derivata da qualcosa che solo tu possiedi. Ciò che arriva nello storage è un blocco di rumore, e nessuno dall'altra parte può leggerlo, perché nessuno dall'altra parte ha la chiave. Questo viene spesso descritto come cifratura [end-to-end](https://csrc.nist.gov/glossary/term/end_to_end_encryption), o zero-knowledge.
 
 Quindi la domanda da porsi a qualsiasi app è breve: **chi ha la chiave?** Tutto il resto del marketing discende da questa risposta.
 
@@ -108,7 +108,7 @@ Niente di tutto questo è drammatico, ed è proprio questo il punto. Le famiglie
 
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 
-Fonti che abbiamo verificato (6 novembre 2026)
+Fonti ufficiali
 
 - [NIST: end-to-end encryption glossary entry](https://csrc.nist.gov/glossary/term/end_to_end_encryption)
 

@@ -33,7 +33,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/child-travel-consent-letter
 - **儿童与一位姓氏与儿童不同的家长一起旅行。**这在某些边境会引发警报，特别是对于较小的儿童。
 - **儿童被收养或处于寄养照顾。**法律监护权文件和同意信可能需要与信件一起提交。
 
-**重要警告：**规则差异很大。加拿大在法律上不要求同意信，但加拿大政府强烈建议提交，并指出"未能应要求提供信件可能导致延误或被拒绝入境或出境"。南非要求在一方家长未同行时提供家长同意宣誓书。某些国家仅对特定年龄以下的儿童适用要求。没有全球标准。
+**重要警告：**规则差异很大。加拿大在法律上不要求同意信，但[加拿大政府](https://travel.gc.ca/travelling/children/consent-letter)强烈建议提交，并指出"未能应要求提供信件可能导致延误或被拒绝入境或出境"。南非要求在一方家长未同行时提供家长同意宣誓书。某些国家仅对特定年龄以下的儿童适用要求。没有全球标准。
 
 在旅行前一定要直接向目的地国家的移民部门核实要求。使用国际航空运输协会旅游中心查询入境要求，或与目的地国家的大使馆联系。如果你不确定，拥有这封信比其他选择更好：在值机或边境被阻止。
 
@@ -61,8 +61,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/child-travel-consent-letter
 
 以下是几个国家关于公证的说明：
 
-- **加拿大。**同意信在法律上不是必需的，但加拿大政府强烈建议提交，并建议公证员见证签名。边境和航空公司工作人员可能在入境或出境时要求。
-- **南非。**一方家长未同行时，内务部要求提供家长同意宣誓书，并规定出示时的签署日期不得早于4个月前。请查阅内务部当前的官方说明。
+- **加拿大。**同意信在法律上不是必需的，但[加拿大政府](https://travel.gc.ca/travelling/children/documents)强烈建议提交，并建议公证员见证签名。边境和航空公司工作人员可能在入境或出境时要求。
+- **南非。**一方家长未同行时，[内务部](https://www.gov.za/news/speeches/director-general-mkuseli-apleni-media-briefing-new-requirements-travelling-children)要求提供家长同意宣誓书，并规定出示时的签署日期不得早于4个月前。请查阅内务部当前的官方说明。
 - **澳大利亚。**Smartraveller提供携儿童出行的指引，航空公司可能要求提供同意信。请核对出发国和入境国的要求。
 - **英国。**对于出境旅行在法律上不是必需的，但当儿童与一位家长或与非家长成人一起旅行时，航空公司和目的地边境官员可能要求。请查看GOV.UK关于您行程的指引。
 - **美国。**联邦不强制要求，但建议提交。某些州明确认可公证。
@@ -92,7 +92,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/child-travel-consent-letter
 | **英国** | 法律上不必需；航空公司和目的地边境可能要求 | 查看当前指引 | GOV.UK |
 | **美国** | 联邦不必需；因州而异 | 查看当前指引 | travel.state.gov |
 | **欧盟** | 因国家而异 | 因国家而异 | 国际航空运输协会旅游中心 |
-| **新西兰** | 建议 | 通常由父母签署并由公职人员见证 | SafeTravel（新西兰政府） |
+| **新西兰** | 建议 | 通常由父母签署并由公职人员见证 | [SafeTravel](https://www.safetravel.govt.nz/before-you-go/who-is-travelling/travelling-with-children)（新西兰政府） |
 
 请把这张表当作起点，而不是最终定论。规则经常变化，目的地国家自己的移民部门才是你最可靠的来源。旅行博客和航空公司页面对于背景很有用，但它们可能滞后于最新的要求。
 
@@ -125,7 +125,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/child-travel-consent-letter
 
 **在依据本文行动之前：**这是一个博客，不是官方来源。规则和细节会变化，你的情况也可能不同。我们会核对所发布的内容，但仍可能出错或过时。如果这里的内容对你的安排很重要，请在行动前向主管机构核实。
 
-我们核对过的资料来源（2026年11月6日）
+官方资料来源
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [NZ SafeTravel: Travelling with children](https://www.safetravel.govt.nz/before-you-go/who-is-travelling/travelling-with-children)

@@ -36,7 +36,7 @@ Source: https://traveldocumentvault.com/ko/blog/lost-passport-abroad/
 
 ## 2단계: 즉시 경찰에 신고하세요
 
-가장 가까운 경찰서에 가서 여권 분실 또는 도난을 신고하세요. 보험사는 대부분 청구를 위해 이를 요구하며, 일부 대사관도 요구합니다. 다만 모든 곳이 그런 것은 아닙니다. 예를 들어 캐나다 정부는 여권 재발급에는 경찰 신고가 필요하지 않다고 밝히고 있습니다. 가능하다면 기억이 아직 생생할 때, 한 시간 안에 신고하시길 권합니다.
+가장 가까운 경찰서에 가서 여권 분실 또는 도난을 신고하세요. 보험사는 대부분 청구를 위해 이를 요구하며, 일부 대사관도 요구합니다. 다만 모든 곳이 그런 것은 아닙니다. 예를 들어 [캐나다 정부](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings)는 여권 재발급에는 경찰 신고가 필요하지 않다고 밝히고 있습니다. 가능하다면 기억이 아직 생생할 때, 한 시간 안에 신고하시길 권합니다.
 
 사건 번호가 있는 서면 사본을 요청하세요. 가능하면 영문 버전 또는 번역본을 요청하세요. 사진을 찍어서 여러 장의 사본을 안전하게 보관하세요.
 
@@ -53,7 +53,7 @@ Source: https://traveldocumentvault.com/ko/blog/lost-passport-abroad/
 
 ## 4단계: 긴급 여행 증명서 신청하기
 
-대사관은 긴급 여행 증명서(ETD) 또는 긴급 여권을 발급하며, 보통 귀국을 위한 일회용으로 유효합니다. 소요 시간은 공관과 사안의 긴급성에 따라 다르므로 전화할 때 확인하세요.
+대사관은 [긴급 여행 증명서(ETD)](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport) 또는 긴급 여권을 발급하며, 보통 귀국을 위한 일회용으로 유효합니다. 소요 시간은 공관과 사안의 긴급성에 따라 다르므로 전화할 때 확인하세요.
 
 일반적으로 필요한 것입니다 (방문하기 전에 대사관에 확인하세요):
 
@@ -84,12 +84,11 @@ Source: https://traveldocumentvault.com/ko/blog/lost-passport-abroad/
 
 **이 글에 의존하기 전에:** 이 글은 블로그이며 공식 자료가 아닙니다. 규정과 세부 사항은 바뀌고, 여러분의 상황은 다를 수 있습니다. 저희는 게시하는 내용을 확인하지만 그래도 틀리거나 오래된 정보일 수 있습니다. 여기 적힌 내용이 계획에 중요하다면, 움직이기 전에 담당 기관에 확인하시기 바랍니다.
 
-확인한 출처 (2026년 11월 6일)
+공식 출처
 
 - [Government of Canada: Lost or stolen belongings abroad](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings)
 - [UK Government: Travel urgently from abroad without your UK passport, How to apply](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport/how-to-apply)
 - [UK Government: Travel urgently from abroad without your UK passport, Who can apply](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport)
-- [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
 
 ## 자주 묻는 질문
 
@@ -103,7 +102,7 @@ Source: https://traveldocumentvault.com/ko/blog/lost-passport-abroad/
 
 ### 해외에서 여권을 도난당했을 때 경찰 신고가 필수입니까?
 
-대체로 받아두는 것이 좋지만, 모든 여권 당국이 요구하는 것은 아닙니다. 캐나다 정부는 여권 재발급에는 경찰 신고가 필요하지 않지만 보험 청구에는 도움이 될 수 있다고 안내하며, GOV.UK 역시 영국 긴급 여행 증명서 신청 요건에 경찰 신고를 포함하지 않습니다. 일부 대사관은 경찰 신고를 요구하며, 대부분의 여행 보험사는 청구 시 이를 요구합니다. 현지 경찰서에서 즉시 받고, 가능하면 영문 사본을 요청하고, 여러 장의 사본을 보관하세요.
+대체로 받아두는 것이 좋지만, 모든 여권 당국이 요구하는 것은 아닙니다. 캐나다 정부는 여권 재발급에는 경찰 신고가 필요하지 않지만 보험 청구에는 도움이 될 수 있다고 안내하며, [GOV.UK](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport/how-to-apply) 역시 영국 긴급 여행 증명서 신청 요건에 경찰 신고를 포함하지 않습니다. 일부 대사관은 경찰 신고를 요구하며, 대부분의 여행 보험사는 청구 시 이를 요구합니다. 현지 경찰서에서 즉시 받고, 가능하면 영문 사본을 요청하고, 여러 장의 사본을 보관하세요.
 
 ### 여행 보험이 분실한 여권이나 도난당한 여권을 보장합니까?
 

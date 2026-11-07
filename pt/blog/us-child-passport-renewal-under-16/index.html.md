@@ -19,7 +19,7 @@ Source: https://traveldocumentvault.com/pt/blog/us-child-passport-renewal-under-
 
 Um passaporte dos EUA emitido a uma criança com menos de 16 anos não pode ser renovado. Quando expira, pede-se um novo em pessoa, da mesma forma que da primeira vez, e ambos os pais participam de novo. É mais burocracia do que uma renovação de adulto, mas nada disso é novidade se já o fez uma vez.
 
-A regulamentação federal de passaportes traça a linha nos 16 anos: a renovação por correio ou online só está disponível quando o passaporte mais recente foi emitido aos 16 anos ou mais, por isso todo o passaporte que uma criança obtém antes disso termina num novo pedido. Uma criança que obtém o primeiro passaporte ainda bebé pode passar por quatro pedidos antes dos 16 anos, cada um com ambos os pais envolvidos.
+[A regulamentação federal de passaportes](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-F/part-51) traça a linha nos 16 anos: a renovação por correio ou online só está disponível quando o passaporte mais recente foi emitido aos 16 anos ou mais, por isso todo o passaporte que uma criança obtém antes disso termina num novo pedido. Uma criança que obtém o primeiro passaporte ainda bebé pode passar por quatro pedidos antes dos 16 anos, cada um com ambos os pais envolvidos.
 
 ## Passaportes emitidos antes dos 16 anos são válidos por cinco anos
 
@@ -69,7 +69,7 @@ Com mais do que um filho, as datas vão-se afastando. Passaportes emitidos com a
 
 O que faz a diferença é começar com antecedência. Começaríamos cerca de nove meses antes de o passaporte de uma criança expirar: tempo suficiente para encontrar uma marcação a que ambos os pais consigam ir, obter qualquer declaração com reconhecimento notarial assinada, e ainda ter tempo se algo precisar de ser refeito. O nosso guia sobre [quando renovar um passaporte antes de expirar](https://traveldocumentvault.com/pt/blog/renew-passport-before-expiry/) detalha melhor os prazos.
 
-Fontes que verificámos (6 de novembro de 2026)
+Fontes oficiais
 
 - [US eCFR: 22 CFR Part 51 (passports)](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-F/part-51)
 

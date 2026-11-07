@@ -19,7 +19,7 @@ Source: https://traveldocumentvault.com/blog/us-child-passport-renewal-under-16/
 
 A US passport issued to a child under 16 can't be renewed. When it runs out, you apply for a new one in person, the same way you did the first time, and both parents take part again. It's more paperwork than an adult renewal, but none of it is new if you've done it once.
 
-Federal passport regulations draw the line at 16: renewal by mail or online is only open when the most recent passport was issued at 16 or older, so every passport a child gets before then ends in a fresh application. A child who gets a first passport as a baby can go through four applications before turning 16, each with both parents involved.
+[Federal passport regulations](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-F/part-51) draw the line at 16: renewal by mail or online is only open when the most recent passport was issued at 16 or older, so every passport a child gets before then ends in a fresh application. A child who gets a first passport as a baby can go through four applications before turning 16, each with both parents involved.
 
 ## Passports Issued Before 16 Are Valid for Five Years
 
@@ -69,7 +69,7 @@ With more than one child, the dates drift apart. Passports issued a couple of ye
 
 What makes the difference is starting early. We'd begin about nine months before a child's passport expires: long enough to find an appointment both parents can make, get any notarised statement signed, and still have time if something needs redoing. Our guide on [when to renew a passport before it expires](https://traveldocumentvault.com/blog/renew-passport-before-expiry/) walks through the timing in more detail.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [US eCFR: 22 CFR Part 51 (passports)](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-F/part-51)
 

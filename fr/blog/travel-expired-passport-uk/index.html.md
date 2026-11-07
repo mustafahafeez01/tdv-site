@@ -48,25 +48,25 @@ Un renouvellement déjà en cours est une autre question, qui dépend de si vous
 
 ## Un passeport expiré se renouvelle, il ne repart pas de zéro
 
-Un passeport périmé se renouvelle, il ne repart pas de zéro. GOV.UK recense un passeport expiré parmi les deux raisons justifiant un renouvellement avant de voyager, aux côtés d'une validité restante insuffisante, donc pour la plupart des gens, le service standard de renouvellement pour adulte est la voie à suivre.
+Un passeport périmé se renouvelle, il ne repart pas de zéro. [GOV.UK](https://www.gov.uk/renew-adult-passport/renew) recense un passeport expiré parmi les deux raisons justifiant un renouvellement avant de voyager, aux côtés d'une validité restante insuffisante, donc pour la plupart des gens, le service standard de renouvellement pour adulte est la voie à suivre.
 
-L'exception est ancienne. Si votre dernier passeport britannique a été délivré avant le 1er janvier 1994, HM Passport Office vous demande de faire une demande de premier passeport adulte à la place. Il vaut donc la peine de vérifier la date de délivrance avant de commencer.
+L'exception est ancienne. Si votre dernier passeport britannique a été délivré avant le 1er janvier 1994, HM Passport Office vous demande de faire une [demande de premier passeport adulte](https://www.gov.uk/apply-first-adult-passport) à la place. Il vaut donc la peine de vérifier la date de délivrance avant de commencer.
 
 Vous pouvez faire la demande en ligne, ce qui nécessite une photo numérique, ou sur un formulaire papier, qui demande deux photos imprimées identiques. Dans les deux cas, vous enverrez votre ancien passeport avec la demande. S'il contient un visa encore valide, GOV.UK indique d'envoyer le passeport avec le visa qu'il contient, et l'ancien passeport vous est retourné.
 
-Un détail surprend souvent les gens à l'arrivée du nouveau passeport : **il porte un numéro différent**. GOV.UK déconseille pour cette raison de réserver un voyage avant d'avoir le nouveau passeport en main, et tout ce qui a été fait avec l'ancien numéro, comme une réservation de vol ou une autorisation de voyage pour un autre pays, peut nécessiter une mise à jour. Notre guide sur [la lecture des dates de votre passeport](https://traveldocumentvault.com/fr/blog/how-to-read-your-passport-dates/) explique ce qui change lors d'un renouvellement et ce qui reste identique.
+Un détail surprend souvent les gens à l'arrivée du nouveau passeport : **il porte un numéro différent**. [GOV.UK](https://www.gov.uk/renew-adult-passport) déconseille pour cette raison de réserver un voyage avant d'avoir le nouveau passeport en main, et tout ce qui a été fait avec l'ancien numéro, comme une réservation de vol ou une autorisation de voyage pour un autre pays, peut nécessiter une mise à jour. Notre guide sur [la lecture des dates de votre passeport](https://traveldocumentvault.com/fr/blog/how-to-read-your-passport-dates/) explique ce qui change lors d'un renouvellement et ce qui reste identique.
 
 ## Voyages domestiques : flexibilité limitée avec pièce d'identité alternative
 
 Les voyages domestiques au sein du Royaume-Uni et en Irlande diffèrent des voyages internationaux sur ce point clé : les compagnies aériennes peuvent accepter une pièce d'identité avec photo alternative comme un permis de conduire britannique ou une carte d'identité nationale à la place d'un passeport. Cependant, ce qui est acceptable varie considérablement selon la compagnie aérienne et la destination, donc vous ne pouvez pas supposer qu'une pièce d'identité particulière fonctionnera.
 
-**Ce n'est pas une permission de sauter le renouvellement de passeport.** Différentes compagnies aériennes ont différentes politiques sur les trajets domestiques : certaines exigent un passeport pour tous les voyages vers l'Irlande même si la Zone de voyage commun autorise techniquement les voyages avec carte d'identité, tandis que d'autres acceptent un permis de conduire. Les compagnies aériennes mettent à jour leurs règles, et votre transporteur a peut-être changé les siennes depuis que vous avez volé pour la dernière fois, donc vous ne pouvez pas supposer ce qui a fonctionné avant.
+**Ce n'est pas une permission de sauter le renouvellement de passeport.** Différentes compagnies aériennes ont différentes politiques sur les trajets domestiques : certaines exigent un passeport pour tous les voyages vers l'Irlande même si la [Zone de voyage commun](https://www.gov.uk/foreign-travel-advice/ireland/entry-requirements) autorise techniquement les voyages avec carte d'identité, tandis que d'autres acceptent un permis de conduire. Les compagnies aériennes mettent à jour leurs règles, et votre transporteur a peut-être changé les siennes depuis que vous avez volé pour la dernière fois, donc vous ne pouvez pas supposer ce qui a fonctionné avant.
 
 Si vous envisagez un voyage domestique avec un passeport expiré, contactez votre compagnie aérienne suffisamment à l'avance et demandez explicitement : « Mon passeport britannique est expiré. Allez-vous accepter mon permis de conduire britannique à la place ? » Obtenez une confirmation écrite si vous pouvez, car arriver à l'enregistrement avec une pièce d'identité alternative et sans confirmation préalable est comme rater des vols.
 
 ## Renouvellement d'urgence : le service Premium, si vous décrochez un créneau
 
-Si votre voyage est imminent et votre passeport expiré, le Bureau des passeports de Sa Majesté propose un service 1 Day Premium conçu pour exactement cette situation. GOV.UK indique que le premier rendez-vous disponible est 2 jours après la demande, et que le passeport est prêt à récupérer 4 heures après le rendez-vous. HM Passport Office publie les frais actuels sur gov.uk, qui couvrent le rendez-vous et le renouvellement ensemble plutôt que de s'ajouter aux frais standard. Vous obtenez votre passeport bien plus vite que par la voie standard, la rapidité exacte dépendant du rendez-vous disponible. Notez que le service 1 Day Premium est réservé aux renouvellements pour adultes, et non aux premiers passeports d'adulte.
+Si votre voyage est imminent et votre passeport expiré, le Bureau des passeports de Sa Majesté propose un service 1 Day Premium conçu pour exactement cette situation. [GOV.UK](https://www.gov.uk/get-a-passport-urgently) indique que le premier rendez-vous disponible est 2 jours après la demande, et que le passeport est prêt à récupérer 4 heures après le rendez-vous. HM Passport Office publie les frais actuels sur gov.uk, qui couvrent le rendez-vous et le renouvellement ensemble plutôt que de s'ajouter aux frais standard. Vous obtenez votre passeport bien plus vite que par la voie standard, la rapidité exacte dépendant du rendez-vous disponible. Notez que le service 1 Day Premium est réservé aux renouvellements pour adultes, et non aux premiers passeports d'adulte.
 
 C'est la voie officielle d'urgence pour les contraintes de voyage véritables. HM Passport Office publie son délai de traitement standard actuel sur gov.uk, et cela vaut la peine de le vérifier avant de supposer que vous avez le temps d'attendre. Quand un voyage ne peut vraiment pas attendre, l'option Premium élimine l'incertitude.
 
@@ -92,7 +92,7 @@ Cela s'applique, que votre passeport ait expiré avant que vous quittiez le Roya
 
 ## Si vous êtes déjà à l'étranger et votre passeport expire
 
-C'est le scénario véritablement difficile. Si vous voyagez et votre passeport expire avant de revenir, vous ne pouvez pas monter à bord d'un vol ou ferry pour rentrer. Vous devrez contacter l'ambassade ou le consulat britannique le plus proche pour un document de voyage d'urgence — parfois appelé ETD ou passeport d'urgence — qui est généralement valable pour un seul voyage aller simple ou aller-retour, via cinq pays au maximum.
+C'est le scénario véritablement difficile. Si vous voyagez et votre passeport expire avant de revenir, vous ne pouvez pas monter à bord d'un vol ou ferry pour rentrer. Vous devrez contacter l'ambassade ou le consulat britannique le plus proche pour un [document de voyage d'urgence](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport) — parfois appelé ETD ou passeport d'urgence — qui est généralement valable pour un seul voyage aller simple ou aller-retour, via cinq pays au maximum.
 
 Le processus est lent et bureaucratique. Vous devrez fournir une preuve d'identité et payer les frais, dont le montant actuel est publié par le Foreign, Commonwealth and Development Office. Le délai de traitement varie selon l'ambassade et l'urgence de votre situation, alors demandez à quoi vous attendre dès que vous les contactez.
 
@@ -110,7 +110,7 @@ Le plus simple pour éviter tout cela : sortez votre passeport dès aujourd'hui 
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
-Sources vérifiées (6 novembre 2026)
+Sources officielles
 
 - [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)
 - [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)

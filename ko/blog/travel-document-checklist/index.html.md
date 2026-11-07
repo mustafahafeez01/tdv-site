@@ -26,7 +26,7 @@ Source: https://traveldocumentvault.com/ko/blog/travel-document-checklist/
 
 **비용을 지불하기 전에 여권을 확인합니다**
 
-예약을 확정하기 전에 모든 여행자의 여권을 세 가지 기준과 비교하십시오. 유효성(여권이 목적지 요건을 충족하는가, 많은 국가는 도착일 기준으로 6개월의 유효기간을 요구하며 일부는 출발일부터 계산하므로 목적지를 확인해야 함, 우리의 [6개월 여권 규칙 가이드](https://traveldocumentvault.com/ko/blog/passport-expiry-6-month-rule/)에 설명됨), 이름 일치(여권의 이름이 예약 이름과 정확히 일치해야 함), 빈 페이지(일부 국가에서는 입국 스탬프를 위해 최소 2개의 빈 비자 페이지가 필요함).
+예약을 확정하기 전에 모든 여행자의 여권을 세 가지 기준과 비교하십시오. 유효성(여권이 목적지 요건을 충족하는가, 많은 국가는 [도착일 기준으로 6개월의 유효기간](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)을 요구하며 일부는 출발일부터 계산하므로 목적지를 확인해야 함, 우리의 [6개월 여권 규칙 가이드](https://traveldocumentvault.com/ko/blog/passport-expiry-6-month-rule/)에 설명됨), 이름 일치(여권의 이름이 예약 이름과 정확히 일치해야 함), 빈 페이지(일부 국가에서는 입국 스탬프를 위해 [최소 2개의 빈 비자 페이지](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements)가 필요함).
 
 **비자 요건 확인**
 
@@ -42,7 +42,7 @@ Source: https://traveldocumentvault.com/ko/blog/travel-document-checklist/
 
 이 시점에서 문제를 수정할 시간이 여전히 있습니다. 갱신에 걸리는 시간은 계속 변동하므로, 각 나라의 여권 발급 기관이 최신 수치를 공개합니다. 신청하기 전에 항상 공식 사이트에서 현재 시간을 확인합니다.
 
-저희라면 12개월 내에 만료되는 모든 여권을 지금 갱신하겠습니다. 어린이 여권은 더 빨리 만료되기 때문입니다(영국 어린이 여권은 성인의 10년과 달리 5년이며, 다른 여러 국가도 마찬가지입니다). 부모는 그 시기를 자주 놓칩니다. 뉴질랜드 신청자의 경우 뉴질랜드 여권청에서 현재 일정을 확인하세요.
+저희라면 12개월 내에 만료되는 모든 여권을 지금 갱신하겠습니다. 어린이 여권은 더 빨리 만료되기 때문입니다([영국 어린이 여권은 성인의 10년과 달리 5년](https://www.gov.uk/get-a-child-passport)이며, 다른 여러 국가도 마찬가지입니다). 부모는 그 시기를 자주 놓칩니다. 뉴질랜드 신청자의 경우 뉴질랜드 여권청에서 현재 일정을 확인하세요.
 
 시간이 걸리는 비자 신청은 먼저 제출하세요. 현재 얼마나 걸리는지는 발급 기관에서 확인하시기 바랍니다. 지원 문서를 준비합니다. 은행 명세서, 숙박 확인, 선제 여행 증명. 비자에 필요한 경우 미리 생체인식 약속을 예약합니다.
 
@@ -113,7 +113,7 @@ Source: https://traveldocumentvault.com/ko/blog/travel-document-checklist/
 
 **이 글에 의존하기 전에:** 이 글은 블로그이며 공식 자료가 아닙니다. 규정과 세부 사항은 바뀌고, 여러분의 상황은 다를 수 있습니다. 저희는 게시하는 내용을 확인하지만 그래도 틀리거나 오래된 정보일 수 있습니다. 여기 적힌 내용이 계획에 중요하다면, 움직이기 전에 담당 기관에 확인하시기 바랍니다.
 
-확인한 출처 (2026년 11월 6일)
+공식 출처
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
@@ -138,7 +138,7 @@ Source: https://traveldocumentvault.com/ko/blog/travel-document-checklist/
 
 ### 자녀 여행 동의서란 무엇이며 필요합니까?
 
-자녀 여행 동의서는 부재중인 부모가 자녀의 여행을 허락한다는 서명된 문서입니다. 남아공을 비롯한 일부 국가는 한 부모와 여행하는 자녀에게 추가 요건을 두고 있으며, 캐나다 당국은 서명된 동의서를 권장합니다. 이것이 없으면 추가 질문을 받거나 지연될 수 있습니다. 서신에는 자녀의 세부 정보, 양쪽 부모의 연락처, 여행 날짜, 목적지, 부재중인 부모의 서명이 포함되어야 합니다.
+자녀 여행 동의서는 부재중인 부모가 자녀의 여행을 허락한다는 서명된 문서입니다. [남아공](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements)을 비롯한 일부 국가는 한 부모와 여행하는 자녀에게 추가 요건을 두고 있으며, [캐나다 당국](https://travel.gc.ca/travelling/children/consent-letter)은 서명된 동의서를 권장합니다. 이것이 없으면 추가 질문을 받거나 지연될 수 있습니다. 서신에는 자녀의 세부 정보, 양쪽 부모의 연락처, 여행 날짜, 목적지, 부재중인 부모의 서명이 포함되어야 합니다.
 
 ### 공항에서 접근 가능하게 유지할 문서는 무엇이며 수하물에 두면 안 됩니까?
 

@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/id/blog/visa-expiry-tracker-app/
 - Pengunjung Wilayah Schengen harus melacak jendela bergulir 90/180 hari, bukan sekadar satu tanggal kedaluwarsa saja, karena hitungannya bergulir mengikuti riwayat perjalanan Anda yang sebenarnya, bukan kalender.
 - Melacak visa dan paspor bersamaan di satu tempat mengurangi risiko ketidaksesuaian: masuk dengan visa yang masih berlaku namun paspor yang kedaluwarsa sebelum masa tinggal yang direncanakan berakhir.
 
-Overstay pada visa adalah salah satu kesalahan perjalanan paling berdampak yang bisa dilakukan seseorang. Berbeda dengan ketinggalan pesawat yang membuat stres tetapi pada akhirnya masih bisa diselesaikan, overstay meninggalkan catatan imigrasi resmi yang bisa terus membayangi Anda selama bertahun-tahun. Di Amerika Serikat, berdasarkan bagian 212(a)(9)(B) dari Immigration and Nationality Act AS, orang yang berada secara tidak sah lebih dari 180 hari tetapi kurang dari satu tahun lalu pergi umumnya dilarang kembali selama tiga tahun, dan berada secara tidak sah satu tahun atau lebih umumnya berarti larangan sepuluh tahun. Konsekuensi ini tidak banyak diketahui.
+Overstay pada visa adalah salah satu kesalahan perjalanan paling berdampak yang bisa dilakukan seseorang. Berbeda dengan ketinggalan pesawat yang membuat stres tetapi pada akhirnya masih bisa diselesaikan, overstay meninggalkan catatan imigrasi resmi yang bisa terus membayangi Anda selama bertahun-tahun. Di Amerika Serikat, berdasarkan bagian 212(a)(9)(B) dari [Immigration and Nationality Act AS](https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chap12-subchapII-partII-sec1182.htm), orang yang berada secara tidak sah lebih dari 180 hari tetapi kurang dari satu tahun lalu pergi umumnya dilarang kembali selama tiga tahun, dan berada secara tidak sah satu tahun atau lebih umumnya berarti larangan sepuluh tahun. Konsekuensi ini tidak banyak diketahui.
 
 Aplikasi pelacak kedaluwarsa visa dirancang untuk mencegah hal ini: aplikasi ini perlu memantau beberapa tanggal sekaligus, yaitu masa berlaku izin masuk, batas maksimal lama tinggal, dan jumlah kunjungan, yang masing-masing merupakan tenggat tersendiri.
 
@@ -43,7 +43,7 @@ Pelacak yang hanya memantau tanggal masa berlaku izin masuk akan melewatkan jeba
 
 Bagi pelancong yang mengunjungi beberapa negara Eropa, aturan 90/180 hari Wilayah Schengen adalah salah satu ketentuan masuk yang paling sering disalahpahami dalam perjalanan internasional. Warga negara dengan akses bebas visa ke Schengen (termasuk Inggris, AS, Kanada, dan Australia, di antara banyak negara lain) boleh tinggal maksimal 90 hari di Wilayah Schengen dalam periode bergulir 180 hari mana pun.
 
-Komisi Eropa menyediakan kalkulator lama tinggal Schengen resmi untuk membantu pelancong menghitung hari yang diizinkan, yang penting karena ini adalah *jendela bergulir*, bukan pengaturan ulang per tahun kalender. Hari-hari yang dihabiskan di Schengen enam bulan lalu tetap terhitung dalam jatah Anda saat ini, sehingga memeriksa satu tanggal kedaluwarsa saja tidak akan mencegah overstay. Yang penting adalah riwayat masuk dan keluar Anda yang sebenarnya, bukan tanggal yang tercetak di visa.
+Komisi Eropa menyediakan [kalkulator lama tinggal Schengen resmi](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en) untuk membantu pelancong menghitung hari yang diizinkan, yang penting karena ini adalah *jendela bergulir*, bukan pengaturan ulang per tahun kalender. Hari-hari yang dihabiskan di Schengen enam bulan lalu tetap terhitung dalam jatah Anda saat ini, sehingga memeriksa satu tanggal kedaluwarsa saja tidak akan mencegah overstay. Yang penting adalah riwayat masuk dan keluar Anda yang sebenarnya, bukan tanggal yang tercetak di visa.
 
 ## Yang Terjadi Ketika Anda Overstay
 
@@ -51,7 +51,7 @@ Konsekuensi overstay visa berbeda-beda tergantung negara tetapi secara konsisten
 
 - **Inggris:** Overstay tercatat dan akan memengaruhi permohonan visa di masa depan. Kementerian Dalam Negeri Inggris (Home Office) mempertimbangkan riwayat overstay saat menilai kredibilitas dan dapat menolak permohonan berikutnya.
 - **Australia:** Overstay visa dapat mengakibatkan pembatasan permohonan visa di masa depan dan pemulangan paksa dari negara tersebut. Berdasarkan Migration Act 1958, catatan overstay dilacak dan akan memengaruhi permohonan visa dan kelayakan masuk kembali di masa depan.
-- **Wilayah Schengen:** Masa tinggal dicatat di perbatasan, dan larangan masuk yang dikeluarkan oleh satu negara Schengen umumnya dibagikan ke negara lain melalui Sistem Informasi Schengen (SIS), sehingga berlaku di seluruh Wilayah Schengen, yang saat ini tercatat oleh Komisi Eropa sebagai 29 negara.
+- **Wilayah Schengen:** Masa tinggal dicatat di perbatasan, dan larangan masuk yang dikeluarkan oleh satu negara Schengen umumnya dibagikan ke negara lain melalui [Sistem Informasi Schengen](https://home-affairs.ec.europa.eu/policies/schengen/schengen-information-system/what-sis-and-how-does-it-work_en) (SIS), sehingga berlaku di seluruh Wilayah Schengen, [yang saat ini tercatat oleh Komisi Eropa sebagai 29 negara](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en).
 - **Thailand:** Overstay dikenai denda harian yang ditetapkan oleh imigrasi Thailand, hingga batas maksimum tertentu, dan overstay lebih dari 90 hari dapat berujung pada deportasi serta larangan kembali.
 
 Dalam semua kasus, catatan overstay biasanya terus mengikuti Anda: catatan ini muncul dalam basis data imigrasi yang diperiksa pada persilangan perbatasan dan permohonan visa di masa depan.
@@ -80,7 +80,7 @@ Periksa tanggal kedaluwarsa paspor Anda terhadap tanggal visa hari ini: visa yan
 
 **Sebelum Anda mengandalkan ini:** ini adalah blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 
-Sumber yang kami periksa (6 November 2026)
+Sumber resmi
 
 - [US Code: Title 8, section 1182](https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chap12-subchapII-partII-sec1182.htm)
 - [European Commission: Schengen area](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en)

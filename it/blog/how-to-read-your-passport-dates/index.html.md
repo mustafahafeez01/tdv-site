@@ -60,7 +60,7 @@ La data di rilascio smette di essere un dettaglio trascurabile nel momento in cu
 
 I passaporti britannici rilasciati più di recente non hanno più quei mesi extra, ma i passaporti più vecchi che li contengono sono ancora in circolazione e ancora in uso.
 
-I paesi Schengen generalmente applicano due controlli distinti a un passaporto non UE alla frontiera: deve essere stato rilasciato meno di dieci anni prima della data del tuo arrivo, e deve restare valido per almeno tre mesi dopo la data prevista di partenza. Un passaporto con nove mesi extra può superare comodamente il secondo controllo e fallire il primo, il che è una conversazione difficile da avere a uno sportello di Madrid con un documento che non è ancora scaduto.
+I paesi Schengen generalmente applicano due controlli distinti a un passaporto non UE alla frontiera: [deve essere stato rilasciato meno di dieci anni prima della data del tuo arrivo](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements), e deve restare valido per almeno tre mesi dopo la data prevista di partenza. Un passaporto con nove mesi extra può superare comodamente il secondo controllo e fallire il primo, il che è una conversazione difficile da avere a uno sportello di Madrid con un documento che non è ancora scaduto.
 
 Noi controlleremmo entrambe le date prima di un viaggio in Europa, non solo quella in fondo alla pagina.
 
@@ -96,7 +96,7 @@ Dedica cinque minuti, oggi, a trovare entrambe le date sul tuo passaporto, e su 
 
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 
-Fonti che abbiamo verificato (6 novembre 2026)
+Fonti ufficiali
 
 - [UK Foreign Office: Spain entry requirements](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements)
 

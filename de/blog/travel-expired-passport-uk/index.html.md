@@ -48,25 +48,25 @@ Eine Erneuerung, die bereits läuft, ist eine andere Frage – sie hängt davon 
 
 ## Ein abgelaufener Pass wird erneuert, nicht von Grund auf neu beantragt
 
-Ein abgelaufener Pass wird erneuert, nicht von Grund auf neu beantragt. GOV.UK führt einen abgelaufenen Pass als einen von zwei Gründen auf, aus denen Sie vor der Reise erneuern müssen, neben zu wenig Restgültigkeit, sodass für die meisten Menschen der reguläre Erneuerungsservice für Erwachsene der richtige Weg ist.
+Ein abgelaufener Pass wird erneuert, nicht von Grund auf neu beantragt. [GOV.UK](https://www.gov.uk/renew-adult-passport/renew) führt einen abgelaufenen Pass als einen von zwei Gründen auf, aus denen Sie vor der Reise erneuern müssen, neben zu wenig Restgültigkeit, sodass für die meisten Menschen der reguläre Erneuerungsservice für Erwachsene der richtige Weg ist.
 
-Die Ausnahme betrifft ältere Pässe. Wurde Ihr letzter britischer Pass vor dem 1. Januar 1994 ausgestellt, verlangt das HM Passport Office stattdessen einen Antrag auf einen ersten Erwachsenenpass, weshalb es sich lohnt, das Ausstellungsdatum vorab zu prüfen.
+Die Ausnahme betrifft ältere Pässe. Wurde Ihr letzter britischer Pass vor dem 1. Januar 1994 ausgestellt, verlangt das HM Passport Office stattdessen [einen Antrag auf einen ersten Erwachsenenpass](https://www.gov.uk/apply-first-adult-passport), weshalb es sich lohnt, das Ausstellungsdatum vorab zu prüfen.
 
 Sie können online beantragen, wofür ein digitales Foto nötig ist, oder per Papierformular, wofür zwei identische ausgedruckte Fotos nötig sind. In beiden Fällen senden Sie Ihren alten Pass mit dem Antrag ein. Enthält er ein noch gültiges Visum, rät GOV.UK, den Pass mit dem angehefteten Visum einzusenden – der alte Pass wird Ihnen danach zurückgeschickt.
 
-Ein Detail überrascht viele, sobald der neue Pass ankommt: **er hat eine andere Nummer.** GOV.UK rät deshalb davon ab, Reisen zu buchen, bevor Sie den neuen Pass in Händen halten, und alles, was mit der alten Nummer erstellt wurde – etwa eine Flugbuchung oder eine Reisegenehmigung für ein anderes Land – muss möglicherweise aktualisiert werden. Unser Leitfaden zum [Lesen Ihrer Passdaten](https://traveldocumentvault.com/de/blog/how-to-read-your-passport-dates/) erklärt, was sich bei einer Erneuerung ändert und was gleich bleibt.
+Ein Detail überrascht viele, sobald der neue Pass ankommt: **er hat eine andere Nummer.** [GOV.UK](https://www.gov.uk/renew-adult-passport) rät deshalb davon ab, Reisen zu buchen, bevor Sie den neuen Pass in Händen halten, und alles, was mit der alten Nummer erstellt wurde – etwa eine Flugbuchung oder eine Reisegenehmigung für ein anderes Land – muss möglicherweise aktualisiert werden. Unser Leitfaden zum [Lesen Ihrer Passdaten](https://traveldocumentvault.com/de/blog/how-to-read-your-passport-dates/) erklärt, was sich bei einer Erneuerung ändert und was gleich bleibt.
 
 ## Inlandverkehr: Begrenzte Flexibilität mit Alternativausweisen
 
 Inlandverkehr im UK und Irland unterscheidet sich von internationalem Verkehr in dieser wichtigen Hinsicht: Fluggesellschaften können alternative Ausweisdokumente wie einen UK-Führerschein oder Personalausweis statt eines Passes akzeptieren. Allerdings ist das, was akzeptabel ist, sehr unterschiedlich je nach Fluggesellschaft und Ziel, daher können Sie nicht davon ausgehen, dass ein bestimmter Ausweis funktioniert.
 
-**Dies ist keine Genehmigung, die Passerneuerung zu überspringen.** Verschiedene Fluggesellschaften haben unterschiedliche Richtlinien für Inlandsflüge – einige verlangen einen Pass für alle Reisen nach Irland, obwohl das Common Travel Area technisch ID-Karten-Reisen erlaubt, während andere einen Führerschein akzeptieren. Fluggesellschaften aktualisieren ihre Regeln, und Ihre Fluggesellschaft kann ihre Regeln seit Ihrem letzten Flug geändert haben, daher können Sie nicht davon ausgehen, was zuvor funktioniert hat.
+**Dies ist keine Genehmigung, die Passerneuerung zu überspringen.** Verschiedene Fluggesellschaften haben unterschiedliche Richtlinien für Inlandsflüge – einige verlangen einen Pass für alle Reisen nach Irland, obwohl das [Common Travel Area](https://www.gov.uk/foreign-travel-advice/ireland/entry-requirements) technisch ID-Karten-Reisen erlaubt, während andere einen Führerschein akzeptieren. Fluggesellschaften aktualisieren ihre Regeln, und Ihre Fluggesellschaft kann ihre Regeln seit Ihrem letzten Flug geändert haben, daher können Sie nicht davon ausgehen, was zuvor funktioniert hat.
 
 Wenn Sie eine Inlandsreise mit abgelaufenem Pass in Betracht ziehen, kontaktieren Sie Ihre Fluggesellschaft rechtzeitig vor Ihrem Flug und fragen Sie explizit: "Mein britischer Pass ist abgelaufen. Akzeptieren Sie meinen britischen Führerschein stattdessen?" Erhalten Sie wenn möglich eine schriftliche Bestätigung, da das Ankommen bei der Anmeldung mit einem Alternativausweis und ohne vorherige Bestätigung dazu führt, dass Personen Flüge verpassen.
 
 ## Noterneuerung: Premium-Service, wenn Sie einen Termin bekommen
 
-Wenn Ihre Reise unmittelbar bevorsteht und Ihr Pass abgelaufen ist, bietet His Majesty's Passport Office einen 1 Day Premium Service an, der genau für dieses Szenario konzipiert ist. GOV.UK zufolge ist der früheste Termin 2 Tage nach Antragstellung möglich, und der neue Pass ist 4 Stunden nach dem Termin abholbereit. Das HM Passport Office veröffentlicht die aktuelle Gebühr auf gov.uk, die den Termin und die Erneuerung zusammen abdeckt, statt zusätzlich zur Standardgebühr berechnet zu werden. Sie bekommen Ihren Pass weit schneller als über den Standardweg, wobei das genaue Tempo vom verfügbaren Termin abhängt. Beachten Sie, dass der 1 Day Premium Service nur für Erneuerungen von Erwachsenen gilt, nicht für erste erwachsene Pässe.
+Wenn Ihre Reise unmittelbar bevorsteht und Ihr Pass abgelaufen ist, bietet His Majesty's Passport Office einen 1 Day Premium Service an, der genau für dieses Szenario konzipiert ist. [GOV.UK](https://www.gov.uk/get-a-passport-urgently) zufolge ist der früheste Termin 2 Tage nach Antragstellung möglich, und der neue Pass ist 4 Stunden nach dem Termin abholbereit. Das HM Passport Office veröffentlicht die aktuelle Gebühr auf gov.uk, die den Termin und die Erneuerung zusammen abdeckt, statt zusätzlich zur Standardgebühr berechnet zu werden. Sie bekommen Ihren Pass weit schneller als über den Standardweg, wobei das genaue Tempo vom verfügbaren Termin abhängt. Beachten Sie, dass der 1 Day Premium Service nur für Erneuerungen von Erwachsenen gilt, nicht für erste erwachsene Pässe.
 
 Dies ist die offizielle Notfalllösung für echte Reisebedingungen. Das HM Passport Office veröffentlicht seine aktuelle Standardbearbeitungszeit auf gov.uk, und es lohnt sich, diese zu prüfen, bevor Sie annehmen, noch Zeit zum Warten zu haben. Wenn eine Reise wirklich nicht warten kann, beseitigt die Premium-Option die Unsicherheit.
 
@@ -92,7 +92,7 @@ Dies gilt, unabhängig davon, ob Ihr Pass vor Ihrer Abreise aus der UK oder wäh
 
 ## Wenn Sie bereits im Ausland sind und Ihr Pass abläuft
 
-Dies ist das wirklich schwierige Szenario. Wenn Sie reisen und Ihr Pass vor Ihrer Rückkehr abläuft, können Sie keinen Flug oder eine Fähre nach Hause besteigen. Sie müssen die nächste britische Botschaft oder Konsulat für ein Notfalltravelsdokument kontaktieren – manchmal ein ETD oder Notfallpass genannt – das in der Regel für eine einzelne Reise oder eine Hin- und Rückreise durch höchstens fünf Länder gilt.
+Dies ist das wirklich schwierige Szenario. Wenn Sie reisen und Ihr Pass vor Ihrer Rückkehr abläuft, können Sie keinen Flug oder eine Fähre nach Hause besteigen. Sie müssen die nächste britische Botschaft oder Konsulat für ein [Notfalltravelsdokument](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport) kontaktieren – manchmal ein ETD oder Notfallpass genannt – das in der Regel für eine einzelne Reise oder eine Hin- und Rückreise durch höchstens fünf Länder gilt.
 
 Der Prozess ist langsam und bürokratisch. Sie müssen einen Identitätsnachweis vorlegen und die Gebühr bezahlen, deren aktuelle Höhe vom Foreign, Commonwealth and Development Office veröffentlicht wird. Die Bearbeitungszeit variiert je nach Botschaft und danach, wie dringend Ihre Situation ist, also fragen Sie, was Sie erwarten können, sobald Sie Kontakt aufnehmen.
 
@@ -110,7 +110,7 @@ Am einfachsten vermeiden Sie das alles so: Holen Sie heute Ihren Pass hervor und
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 
-Quellen, die wir geprüft haben (6. November 2026)
+Offizielle Quellen
 
 - [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)
 - [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)

@@ -13,7 +13,7 @@ Source: https://traveldocumentvault.com/nl/blog/child-first-passport-application
 - **Toestemming om aan te vragen is iets anders dan toestemming om te reizen.** De regels verschillen per land: in het VK tekent bijvoorbeeld iemand met ouderlijk gezag het formulier en geef je de gegevens van beide ouders op, terwijl andere landen toestemming van beide ouders vragen. Controleer dit bij je eigen paspoortinstantie.
 - **De meeste aanvragen vragen om drie soorten bewijs:** bewijs van identiteit van het kind (geboorteakte), bewijs van identiteit van de ouders, en bewijs van de ouderlijke relatie.
 - **Voor babyfoto's op een paspoort gelden specifieke regels.** De meeste instanties willen open ogen die naar de camera kijken (GOV.UK verzacht dit voor kinderen onder één jaar en onder zes jaar), zonder speen, speelgoed of handen van anderen in beeld – en de achtergrond achter het hoofd van het kind moet effen en onbelemmerd zijn.
-- **Controleer alles zodra het paspoort binnenkomt.** Spelling, namen van de ouders waar die vermeld staan, vervaldatum – vooral omdat paspoorten van kinderen vaak eerder verlopen dan die van volwassenen (een Brits kinderpaspoort is 5 jaar geldig).
+- **Controleer alles zodra het paspoort binnenkomt.** Spelling, namen van de ouders waar die vermeld staan, vervaldatum – vooral omdat paspoorten van kinderen vaak eerder verlopen dan die van volwassenen ([een Brits kinderpaspoort is 5 jaar geldig](https://www.gov.uk/get-a-child-passport)).
 - **In landen die toestemming van beide ouders vragen, kan één ouder doorgaans niet alleen tekenen, tenzij er een gerechtelijk bevel is, sprake is van exclusief ouderlijk gezag, of de andere ouder is overleden.** Is dit jouw situatie, dan heeft je paspoortinstantie hiervoor een specifieke procedure.
 
 Je regelt het eerste paspoort van je kind maar één keer – dat betekent dat je de regels kunt leren kennen voordat het zover is, in plaats van ze pas aan de balie te ontdekken. De aanvraag zelf is eenvoudig, maar de toestemmingsregels en de fotovereisten verschillen per land, en een kleine fout aan het begin betekent een afgewezen aanvraag en een uitgestelde reis.
@@ -28,7 +28,7 @@ Dit artikel gaat over de toestemming voor de aanvraag. Het onderscheid is belang
 
 ## Standaard moet iedereen met ouderlijk gezag toestemming geven
 
-Wie toestemming moet geven, hangt af van het land. In het VK tekent één persoon met ouderlijk gezag de aanvraag en geef je de gegevens van beide ouders op; sommige andere landen verwachten doorgaans dat beide ouders tekenen. Ook of een ongehuwde ouder ouderlijk gezag heeft, verschilt per land. Vraag dit daarom na bij je paspoortinstantie. Iemand met een gerechtelijk bevel of exclusief ouderlijk gezag valt onder andere regels, en je paspoortinstantie legt de specifieke procedure uit zodra je ernaar vraagt.
+Wie toestemming moet geven, hangt af van het land. In het VK [tekent één persoon met ouderlijk gezag de aanvraag](https://www.gov.uk/get-a-child-passport/first-child-passport) en geef je de gegevens van beide ouders op; sommige andere landen verwachten doorgaans dat beide ouders tekenen. Ook of een ongehuwde ouder ouderlijk gezag heeft, verschilt per land. Vraag dit daarom na bij je paspoortinstantie. Iemand met een gerechtelijk bevel of exclusief ouderlijk gezag valt onder andere regels, en je paspoortinstantie legt de specifieke procedure uit zodra je ernaar vraagt.
 
 Deze uitzonderingen zijn reëel en het is goed om ze te kennen. Een overleden ouder kan niet tekenen, en een ouder die het ouderlijk gezag door een gerechtelijk bevel is kwijtgeraakt, heeft mogelijk ook niet het recht om toestemming te geven. Ook straat- of contactverboden en beperkingen in de voogdij kunnen een ouder wettelijk uitsluiten. Elke situatie heeft zijn eigen aanvraagprocedure en eigen bewijsvereisten, dus er is geen enkel antwoord dat voor alle gevallen geldt.
 
@@ -44,7 +44,7 @@ Paspoortinstanties willen drie dingen zien als je het eerste paspoort van een ki
 
 **Bewijs van de relatie met het kind** komt meestal uit de geboorteakte zelf, als beide ouders daarop vermeld staan. Staat er maar één ouder op, dan moet je mogelijk een gerechtelijk bevel, een voogdijovereenkomst, of een voogdijcertificaat overleggen om aan te tonen dat de tweede ouder ook het recht heeft om beslissingen over het kind te nemen.
 
-**Sommige landen werken met een medeondertekenaarssysteem.** Dit betekent dat een vertrouwde professional – een leraar, arts, advocaat, of iemand vergelijkbaar – een formulier ondertekent om te bevestigen dat de aanvraag echt is en dat de foto het kind goed weergeeft. Gebruikt jouw land dit systeem, dan moet je vóór de aanvraag iemand vinden die dit wil doen. Vraag je paspoortinstantie welke beroepen ze accepteren.
+**Sommige landen werken met een [medeondertekenaarssysteem](https://www.gov.uk/countersigning-passport-applications).** Dit betekent dat een vertrouwde professional – een leraar, arts, advocaat, of iemand vergelijkbaar – een formulier ondertekent om te bevestigen dat de aanvraag echt is en dat de foto het kind goed weergeeft. Gebruikt jouw land dit systeem, dan moet je vóór de aanvraag iemand vinden die dit wil doen. Vraag je paspoortinstantie welke beroepen ze accepteren.
 
 ## Baby's kunnen de fotoregels voor volwassenen niet volgen, dus pas je ze aan
 
@@ -52,7 +52,7 @@ Paspoortinstanties willen drie dingen zien als je het eerste paspoort van een ki
 
 Dit is waar veel eerste aanvragen misgaan. Een baby of klein kind kan de fotoregels niet volgen zoals een volwassene: baby's kunnen niet zelf rechtop zitten, peuters kunnen niet stilzitten of instructies begrijpen, en pasgeborenen kunnen niet op commando naar de camera kijken. De paspoortfotostandaarden zijn geschreven voor volwassenen, en je moet begrijpen hoe je ze aanpast als het onderwerp een kind is dat 5 kilo weegt en voortdurend beweegt.
 
-**De basisregels blijven hetzelfde:** de ogen van het kind moeten over het algemeen open zijn en naar de camera kijken, met een effen achtergrond achter het hoofd en verder niets in beeld. Sommige instanties verzachten de regels rond de ogen voor de allerjongste kinderen: GOV.UK vereist geen open ogen onder de één jaar, en geen directe blik in de camera onder de zes jaar. Wat verandert, is hoe je dat voor elkaar krijgt.
+**De basisregels blijven hetzelfde:** de ogen van het kind moeten over het algemeen open zijn en naar de camera kijken, met een effen achtergrond achter het hoofd en verder niets in beeld. Sommige instanties verzachten de regels rond de ogen voor de allerjongste kinderen: [GOV.UK](https://www.gov.uk/photos-for-passports) vereist geen open ogen onder de één jaar, en geen directe blik in de camera onder de zes jaar. Wat verandert, is hoe je dat voor elkaar krijgt.
 
 **Voor een pasgeborene of baby onder één jaar:** fotografeer het kind liggend op een effen wit of licht laken of dekentje. Het laken wordt de achtergrond. Ga er recht boven staan, zodat de baby recht omhoog naar de camera kijkt, met open ogen – is de baby slaperig, wacht dan op een moment waarop hij of zij alert is. Geen speelgoed, geen speen, geen handen, geen andere persoon zichtbaar in beeld behalve het hoofd en de schouders van de baby zelf.
 
@@ -86,7 +86,7 @@ Dit is een wettelijke eis die bestaat om het kind te beschermen, geen onderhande
 
 Zodra het paspoort is afgegeven en bij je bezorgd, neem dan vijf minuten de tijd om het te controleren voordat je het opbergt. Er zijn drie dingen om op te letten die nu makkelijk te herstellen zijn, maar op het vliegveld een nachtmerrie worden.
 
-**Controleer de spelling.** De naam van je kind moet precies zo gespeld zijn als op de geboorteakte of het identiteitsdocument dat je bij de aanvraag hebt gebruikt. Is het fout, dan vervangt de paspoortinstantie het doorgaans gratis als zij de fout heeft gemaakt. Kwam de fout uit jouw aanvraag, dan moet je mogelijk betalen. Merk je het pas op het vliegveld op, dan kan de luchtvaartmaatschappij je de instap weigeren omdat de naam op het ticket niet overeenkomt met het paspoort.
+**Controleer de spelling.** De naam van je kind moet precies zo gespeld zijn als op de geboorteakte of het identiteitsdocument dat je bij de aanvraag hebt gebruikt. Is het fout, dan [vervangt de paspoortinstantie het doorgaans gratis als zij de fout heeft gemaakt](https://www.gov.uk/government/publications/preventing-and-resolving-errors-on-passports/how-to-correct-errors-on-passports-accessible). Kwam de fout uit jouw aanvraag, dan moet je mogelijk betalen. Merk je het pas op het vliegveld op, dan kan de luchtvaartmaatschappij je de instap weigeren omdat de naam op het ticket niet overeenkomt met het paspoort.
 
 **Controleer de namen van de ouders waar die vermeld staan.** Sommige landen drukken de namen van de ouders of voogden af in het paspoort van een kind. Zijn deze namen verkeerd gespeld of onjuist, neem dan contact op met de instantie om ze te laten corrigeren.
 
@@ -94,7 +94,7 @@ Zodra het paspoort is afgegeven en bij je bezorgd, neem dan vijf minuten de tijd
 
 Klopt er iets niet, neem dan contact op met je paspoortinstantie zodra je het merkt. Of een correctie gratis is, hangt af van wie de fout heeft gemaakt. Hoe langer je wacht, hoe lastiger het wordt om het te regelen. Klopt alles, leg het paspoort dan meteen in je documentenmap, met een notitie van de vervaldatum, zodat de vernieuwing je niet overvalt.
 
-Bronnen die we hebben gecontroleerd (6 november 2026)
+Officiële bronnen
 
 - [UK Government: Get a passport photo, Digital photos](https://www.gov.uk/photos-for-passports)
 - [UK Government: applying for a first child passport](https://www.gov.uk/get-a-child-passport/first-child-passport)

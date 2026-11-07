@@ -22,7 +22,7 @@ Source: https://traveldocumentvault.com/ko/blog/renew-passport-before-expiry/
 
 ## 갱신 전에 지켜야 할 공식 대기 기간은 없습니다
 
-HM Passport Office는 갱신을 두 가지 조건에 연결 지어 설명합니다. 여권가 이미 만료되었거나, 가려는 곳에 비해 남은 유효기간이 충분하지 않은 경우입니다. 갱신 안내에는 가장 빠른 신청 시점이 정해져 있지 않으며, 필요한 유효기간은 방문하는 국가에 따라 다르다고 설명합니다. USAGov는 미국인들에게 미리 갱신하라고 권합니다. 처리 기간이 그때마다 달라지고, 일부 국가와 항공사는 여권 유효기간이 6개월 미만이면 입국을 거부하기 때문입니다.
+HM Passport Office는 갱신을 두 가지 조건에 연결 지어 설명합니다. 여권가 이미 만료되었거나, 가려는 곳에 비해 남은 유효기간이 충분하지 않은 경우입니다. [갱신 안내](https://www.gov.uk/renew-adult-passport/renew)에는 가장 빠른 신청 시점이 정해져 있지 않으며, 필요한 유효기간은 방문하는 국가에 따라 다르다고 설명합니다. [USAGov](https://www.usa.gov/renew-adult-passport)는 미국인들에게 미리 갱신하라고 권합니다. 처리 기간이 그때마다 달라지고, 일부 국가와 항공사는 여권 유효기간이 6개월 미만이면 입국을 거부하기 때문입니다.
 
 캐나다는 기준선을 하나 두고 있지만, 그 기준도 느슨합니다. 캐나다 정부는 여권 만료 1년 이상 전에 신청하면 이유를 물으며, 우편 신청의 경우 서면으로 설명해야 한다고 안내합니다. 온라인 갱신 서비스는 더 좁게 열려 있어서, 여권가 앞으로 6개월 안에 만료되거나 이미 만료된 경우에만 이용할 수 있습니다.
 
@@ -30,13 +30,13 @@ HM Passport Office는 갱신을 두 가지 조건에 연결 지어 설명합니�
 
 ## 영국에서 조기에 갱신하면 남아 있던 유효기간을 돌려주게 됩니다
 
-이것이 조기 갱신의 실질적인 대가이며, 듣기보다는 작습니다. HM Passport Office의 과거 안내에 따르면 2004년 11월부터 2018년 10월 사이에는 만료 전에 갱신하는 경우 남은 유효기간 중 최대 9개월을 새 여권에 더해 받을 수 있었습니다. 2018년 10월 이후로는 더 이상 그렇게 되지 않으므로, 기존 여권에 남아 있던 기간은 그대로 사라집니다.
+이것이 조기 갱신의 실질적인 대가이며, 듣기보다는 작습니다. HM Passport Office의 [과거 안내](https://www.gov.uk/government/publications/historic-passport-information-caseworker-guidance/historic-passport-information-accessible)에 따르면 2004년 11월부터 2018년 10월 사이에는 만료 전에 갱신하는 경우 남은 유효기간 중 최대 9개월을 새 여권에 더해 받을 수 있었습니다. 2018년 10월 이후로는 더 이상 그렇게 되지 않으므로, 기존 여권에 남아 있던 기간은 그대로 사라집니다.
 
 그러니 9개월 일찍 신청하면, 그 9개월을 10년 동안 신경 쓰지 않아도 될 여권와 맞바꾸는 셈입니다. 저희라면 언제든 이 거래를 택하겠습니다. 그렇지 않으면 여행 일정이 이미 잡혀 있는 상태에서 시간에 쫓기며 갱신해야 하기 때문입니다.
 
-과거의 추가 개월 수 규정은 한 가지 함정을 남겼습니다. 스페인에 대한 GOV.UK의 여행 안내는 2018년 10월 이전에 갱신한 여권라면 발급일이 10년을 넘었을 수 있다고 경고합니다.
+과거의 추가 개월 수 규정은 한 가지 함정을 남겼습니다. [스페인에 대한 GOV.UK의 여행 안내](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements)는 2018년 10월 이전에 갱신한 여권라면 발급일이 10년을 넘었을 수 있다고 경고합니다.
 
-이는 중요한 문제입니다. EU의 Your Europe 안내에 따르면 솅겐 지역에 입국할 때 사용하는 여권는 발급일이 10년을 넘지 않아야 하기 때문입니다. 또한 떠나는 날로부터 최소 3개월은 유효기간이 남아 있어야 합니다. 만료일만 보면 괜찮아 보이는 여권도 유럽에서는 기준을 충족하지 못할 수 있습니다. 옛 규정으로 발급받은 여권라면 만료일뿐 아니라 발급일도 확인하세요. 두 가지 모두 저희의 [여권 유효기간 가이드](https://traveldocumentvault.com/ko/blog/how-long-is-passport-valid-for-travel/)에서 다룹니다.
+이는 중요한 문제입니다. EU의 [Your Europe 안내](https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm)에 따르면 솅겐 지역에 입국할 때 사용하는 여권는 발급일이 10년을 넘지 않아야 하기 때문입니다. 또한 떠나는 날로부터 최소 3개월은 유효기간이 남아 있어야 합니다. 만료일만 보면 괜찮아 보이는 여권도 유럽에서는 기준을 충족하지 못할 수 있습니다. 옛 규정으로 발급받은 여권라면 만료일뿐 아니라 발급일도 확인하세요. 두 가지 모두 저희의 [여권 유효기간 가이드](https://traveldocumentvault.com/ko/blog/how-long-is-passport-valid-for-travel/)에서 다룹니다.
 
 ## 새 여권가 승인되는 순간 기존 여권는 효력을 잃습니다
 
@@ -52,8 +52,8 @@ HM Passport Office는 갱신을 두 가지 조건에 연결 지어 설명합니�
 
 기존 번호에 이미 연결된 것들은 다음 여행 전에 한 번씩 확인해 볼 만합니다.
 
-- **미국 ESTA**는 다시 신청해야 합니다. 미국 세관국경보호국(CBP)은 여행자가 새 여권를 발급받으면 새 ESTA가 필요하다고 안내합니다.
-- GOV.UK는 **영국 ETA**가 신청할 때 사용한 여권에 연결되어 있으며, 2년 또는 그 여권가 만료될 때까지 중 더 빠른 시점까지 유효하다고 안내합니다. 새 여권로 비행하기 전에 현재 상태를 확인하세요. 자세한 내용은 저희의 [영국 ETA와 여권의 관계 가이드](https://traveldocumentvault.com/ko/blog/uk-eta-passport-rules/)에서 다룹니다.
+- **미국 ESTA**는 다시 신청해야 합니다. [미국 세관국경보호국(CBP)](https://www.cbp.gov/travel/international-visitors/esta/frequently-asked-questions-about-visa-waiver-program-vwp-and-electronic-system-travel)은 여행자가 새 여권를 발급받으면 새 ESTA가 필요하다고 안내합니다.
+- [GOV.UK](https://www.gov.uk/eta/apply)는 **영국 ETA**가 신청할 때 사용한 여권에 연결되어 있으며, 2년 또는 그 여권가 만료될 때까지 중 더 빠른 시점까지 유효하다고 안내합니다. 새 여권로 비행하기 전에 현재 상태를 확인하세요. 자세한 내용은 저희의 [영국 ETA와 여권의 관계 가이드](https://traveldocumentvault.com/ko/blog/uk-eta-passport-rules/)에서 다룹니다.
 - **기존 여권에 있는 비자**라면, 보통은 두 권을 함께 지니고 다니는 것이 답입니다. 기존 여권에 있는 비자는 대체로 계속 유효하므로 두 여권를 모두 지니고, 발급 국가의 공식 안내를 확인하세요.
 - **항공편과 호텔**을 기존 여권 정보로 예약했다면 새 번호를 추가해야 할 수 있습니다. 집에서 하면 쉬운 일이지만, 체크인 카운터에서 하기엔 번거로운 일입니다.
 
@@ -65,13 +65,13 @@ HM Passport Office는 갱신을 두 가지 조건에 연결 지어 설명합니�
 
 나머지 절반은 그 기간 안에서 정확히 언제 신청할지를 고르는 일입니다. 기존 여권는 신청과 함께 제출되고 새 여권는 다른 번호로 돌아오므로, 아무 일정도 잡혀 있지 않은 몇 주를 찾아보세요.
 
-HM Passport Office는 보통 3주 안에 여권를 받을 수 있다고 안내하며, 추가 정보나 인터뷰가 필요하면 더 길어질 수 있다고 설명합니다. 이 기간은 서류를 접수한 시점부터 계산됩니다. 캐나다의 온라인 갱신은 최대 20영업일에 우편 기간이 더해질 수 있습니다. 신청을 지연시키는 요인에 대해서는 저희의 [여권 갱신 기간 가이드](https://traveldocumentvault.com/ko/blog/how-long-does-passport-renewal-take/)에서 자세히 다룹니다.
+[HM Passport Office](https://www.gov.uk/government/organisations/hm-passport-office/about/about-our-services)는 보통 3주 안에 여권를 받을 수 있다고 안내하며, 추가 정보나 인터뷰가 필요하면 더 길어질 수 있다고 설명합니다. 이 기간은 서류를 접수한 시점부터 계산됩니다. 캐나다의 온라인 갱신은 최대 20영업일에 우편 기간이 더해질 수 있습니다. 신청을 지연시키는 요인에 대해서는 저희의 [여권 갱신 기간 가이드](https://traveldocumentvault.com/ko/blog/how-long-does-passport-renewal-take/)에서 자세히 다룹니다.
 
 가족 여행이 다가온다면, 집 안의 여권를 한꺼번에 점검해 두세요. 영국에서는 HM Passport Office가 아동 여권를 10년이 아니라 5년짜리로 발급하기 때문에, 가장 먼저 갱신이 필요한 여권가 예상과 다른 경우가 많습니다. 입국 시 더 긴 유효기간을 요구하는 곳으로 가는 사람이 있다면, 저희의 [6개월 여권 규정 가이드](https://traveldocumentvault.com/ko/blog/passport-expiry-6-month-rule/)에서 날짜가 어떻게 바뀌는지 확인하세요.
 
 **이 내용에 의존하기 전에:** 이 글은 블로그이며 공식 출처가 아닙니다. 규정과 세부 사항은 바뀌며, 여러분의 상황은 다를 수 있습니다. 저희는 게시하는 내용을 확인하지만, 그래도 틀리거나 오래된 정보일 수 있습니다. 여기 담긴 내용이 여러분의 계획에 중요하다면, 행동하기 전에 해당 업무를 담당하는 기관에 직접 확인하세요.
 
-확인한 출처 (2026년 11월 6일)
+공식 출처
 
 - [USAGov: Renew an adult passport](https://www.usa.gov/renew-adult-passport)
 - [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)

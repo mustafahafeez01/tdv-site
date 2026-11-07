@@ -19,7 +19,7 @@ Source: https://traveldocumentvault.com/fr/blog/us-child-passport-renewal-under-
 
 Un passeport américain délivré à un enfant de moins de 16 ans ne peut pas être renouvelé. Une fois expiré, il faut demander un nouveau passeport en personne, de la même façon que la première fois, avec les deux parents présents à nouveau. C'est un peu plus de démarches qu'un renouvellement d'adulte, mais rien de nouveau si on l'a déjà fait une fois.
 
-La réglementation fédérale sur les passeports fixe la limite à 16 ans : le renouvellement par courrier ou en ligne n'est possible que si le dernier passeport a été délivré à 16 ans ou plus, de sorte que chaque passeport obtenu par un enfant avant cet âge se termine par une nouvelle demande. Un enfant qui obtient son premier passeport alors qu'il est bébé peut passer par quatre demandes avant ses 16 ans, chacune avec la participation des deux parents.
+[La réglementation fédérale sur les passeports](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-F/part-51) fixe la limite à 16 ans : le renouvellement par courrier ou en ligne n'est possible que si le dernier passeport a été délivré à 16 ans ou plus, de sorte que chaque passeport obtenu par un enfant avant cet âge se termine par une nouvelle demande. Un enfant qui obtient son premier passeport alors qu'il est bébé peut passer par quatre demandes avant ses 16 ans, chacune avec la participation des deux parents.
 
 ## Les passeports délivrés avant 16 ans sont valables cinq ans
 
@@ -69,7 +69,7 @@ Avec plusieurs enfants, les dates se décalent. Des passeports délivrés à que
 
 Ce qui fait la différence, c'est de commencer tôt. Nous commencerions environ neuf mois avant l'expiration du passeport d'un enfant : assez de temps pour trouver un rendez-vous que les deux parents peuvent honorer, faire signer une éventuelle déclaration notariée, et avoir encore le temps si quelque chose doit être refait. Notre article sur [le moment où renouveler un passeport avant son expiration](https://traveldocumentvault.com/fr/blog/renew-passport-before-expiry/) détaille ce calendrier.
 
-Sources vérifiées (6 novembre 2026)
+Sources officielles
 
 - [US eCFR: 22 CFR Part 51 (passports)](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-F/part-51)
 

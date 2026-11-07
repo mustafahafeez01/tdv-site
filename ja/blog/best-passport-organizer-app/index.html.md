@@ -39,7 +39,7 @@ Source: https://traveldocumentvault.com/ja/blog/best-passport-organizer-app/
 
 ### カスタマイズする価値があるのは、リマインダーのリード時間です
 
-これは最も価値のある単一の機能です。有効期限の6ヶ月前のリマインダーは最小限です。多くの国では、当社の記事「[6ヶ月のパスポートルール](https://traveldocumentvault.com/ja/blog/passport-expiry-6-month-rule/)」で説明されているように、旅行日付から少なくとも6ヶ月間、パスポートが有効であることが必要です。子どものパスポートは10年ではなく5年で失効することが多く、例えばイギリスの子ども用パスポートは5年間有効です。9ヶ月前など、早めにリマインダーを設定すると、余裕を持って準備できます。
+これは最も価値のある単一の機能です。有効期限の6ヶ月前のリマインダーは最小限です。多くの国では、当社の記事「[6ヶ月のパスポートルール](https://traveldocumentvault.com/ja/blog/passport-expiry-6-month-rule/)」で説明されているように、旅行日付から少なくとも6ヶ月間、パスポートが有効であることが必要です。子どものパスポートは10年ではなく5年で失効することが多く、例えば[イギリスの子ども用パスポートは5年間有効](https://www.gov.uk/get-a-child-passport)です。9ヶ月前など、早めにリマインダーを設定すると、余裕を持って準備できます。
 
 ### 1つのアプリで家族全員を安全に保管できます
 
@@ -104,7 +104,7 @@ Source: https://traveldocumentvault.com/ja/blog/best-passport-organizer-app/
 
 **この記事に頼る前に:** これはブログであり、公式な情報源ではありません。ルールや細かい条件は変わりますし、あなたの状況は違うかもしれません。掲載内容は確認していますが、それでも誤りや古い情報が含まれる可能性があります。ここに書かれていることがご自身の予定に関わるなら、行動に移す前に担当する機関に確認してください。
 
-確認した情報源（2026年11月6日）
+公式情報源
 
 - [UK Foreign Office: Indonesia entry requirements](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements)
 - [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)

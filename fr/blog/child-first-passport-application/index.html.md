@@ -13,7 +13,7 @@ Source: https://traveldocumentvault.com/fr/blog/child-first-passport-application
 - **Le consentement à la demande est différent du consentement à voyager.** Les règles varient selon le pays : au Royaume-Uni, une personne ayant l'autorité parentale signe le formulaire et vous indiquez les coordonnées des deux parents ; d'autres pays demandent le consentement des deux parents. Vérifiez auprès de votre bureau des passeports.
 - **La plupart des demandes exigent trois types de justificatifs :** une preuve d'identité (acte de naissance), une preuve d'identité des parents, et une preuve du lien de filiation.
 - **Les photos de passeport pour bébé obéissent à des règles précises.** La plupart des autorités demandent les yeux ouverts et tournés vers l'objectif (GOV.UK assouplit cette règle pour les moins d'un an et les moins de 6 ans), sans tétine, jouet ni main visible — et l'arrière-plan derrière la tête de l'enfant doit être uni et dégagé.
-- **Vérifiez tout dès la réception.** L'orthographe, les noms des parents lorsqu'ils figurent sur le document, la date d'expiration — d'autant plus que les passeports d'enfants expirent souvent plus vite que ceux des adultes (un passeport britannique pour enfant est valable 5 ans).
+- **Vérifiez tout dès la réception.** L'orthographe, les noms des parents lorsqu'ils figurent sur le document, la date d'expiration — d'autant plus que les passeports d'enfants expirent souvent plus vite que ceux des adultes ([un passeport britannique pour enfant est valable 5 ans](https://www.gov.uk/get-a-child-passport)).
 - **Dans les pays qui demandent le consentement des deux parents, un parent ne peut généralement pas signer seul, sauf en cas de décision de justice, de garde légale exclusive ou de décès de l'autre parent.** Si c'est votre situation, votre bureau des passeports applique une procédure spécifique.
 
 Le premier passeport de votre enfant, on ne le demande qu'une fois — ce qui veut dire que vous pouvez apprendre les règles avant, plutôt que de les découvrir au guichet. La demande elle-même est simple, mais les règles de consentement et les exigences photo varient selon les pays, et une petite erreur au départ peut entraîner un refus de dossier et un voyage retardé.
@@ -28,7 +28,7 @@ Cet article traite du consentement à la demande. Cette distinction compte, car 
 
 ## Par défaut, tous les titulaires de l'autorité parentale doivent donner leur accord
 
-Les personnes dont le consentement est nécessaire varient selon le pays. Au Royaume-Uni, une personne ayant l'autorité parentale signe la demande et vous indiquez les coordonnées des deux parents ; certains autres pays attendent généralement la signature des deux parents. L'autorité parentale d'un parent non marié dépend aussi du pays : vérifiez auprès de votre bureau des passeports. Toute personne disposant d'une décision de justice ou d'une garde légale exclusive relève de règles différentes, et votre bureau des passeports vous expliquera la procédure spécifique si vous le demandez.
+Les personnes dont le consentement est nécessaire varient selon le pays. Au Royaume-Uni, [une personne ayant l'autorité parentale signe la demande](https://www.gov.uk/get-a-child-passport/first-child-passport) et vous indiquez les coordonnées des deux parents ; certains autres pays attendent généralement la signature des deux parents. L'autorité parentale d'un parent non marié dépend aussi du pays : vérifiez auprès de votre bureau des passeports. Toute personne disposant d'une décision de justice ou d'une garde légale exclusive relève de règles différentes, et votre bureau des passeports vous expliquera la procédure spécifique si vous le demandez.
 
 Ces exceptions sont bien réelles et méritent d'être connues. Un parent décédé ne peut pas signer, et un parent qui a perdu l'autorité parentale par décision de justice peut lui aussi ne plus avoir le droit de consentir. Des ordonnances restrictives et des restrictions de garde peuvent également exclure un parent par la loi. Chacune de ces situations a sa propre procédure de demande et ses propres exigences en matière de justificatifs, donc il n'existe pas de réponse unique qui les couvre toutes.
 
@@ -44,7 +44,7 @@ Les bureaux des passeports demandent trois choses lorsque vous faites la demande
 
 **La preuve du lien avec l'enfant** découle en général de l'acte de naissance lui-même si les deux parents y sont mentionnés. Si un seul parent y figure, vous devrez peut-être fournir une décision de justice, un accord de garde, ou une attestation de tutelle pour montrer que le second parent a lui aussi le droit de prendre des décisions concernant l'enfant.
 
-**Certains pays utilisent un système de contresignataire.** Cela signifie qu'un professionnel de confiance — enseignant, médecin, avocat ou profession similaire — signe un formulaire pour attester que la demande est authentique et que la photo ressemble bien à l'enfant. Si votre pays utilise ce système, vous devez trouver une personne disposée à le faire avant de déposer votre demande. Demandez à votre bureau des passeports quelles professions il accepte.
+**Certains pays utilisent un [système de contresignataire](https://www.gov.uk/countersigning-passport-applications).** Cela signifie qu'un professionnel de confiance — enseignant, médecin, avocat ou profession similaire — signe un formulaire pour attester que la demande est authentique et que la photo ressemble bien à l'enfant. Si votre pays utilise ce système, vous devez trouver une personne disposée à le faire avant de déposer votre demande. Demandez à votre bureau des passeports quelles professions il accepte.
 
 ## Un bébé ne peut pas suivre les règles photo des adultes, alors on les adapte
 
@@ -52,7 +52,7 @@ Les bureaux des passeports demandent trois choses lorsque vous faites la demande
 
 C'est souvent là que les premières demandes échouent. Un bébé ou un jeune enfant ne peut pas suivre les règles photo comme le ferait un adulte : les bébés ne tiennent pas assis, les tout-petits ne restent pas immobiles ni ne comprennent les consignes, et les nouveau-nés ne regardent pas l'objectif sur commande. Les normes des photos de passeport ont été écrites pour des adultes, et il faut comprendre comment les adapter quand le sujet est un enfant de 5 kilos qui bouge sans arrêt.
 
-**Les règles de base restent globalement les mêmes :** les yeux de l'enfant doivent généralement être ouverts et tournés vers l'objectif, avec un fond uni derrière la tête et rien d'autre dans le cadre. Certaines autorités assouplissent cette règle pour les plus jeunes enfants : GOV.UK n'exige pas que les yeux soient ouverts avant un an, ni que l'enfant regarde directement l'objectif avant 6 ans. Ce qui change, c'est la façon d'y parvenir.
+**Les règles de base restent globalement les mêmes :** les yeux de l'enfant doivent généralement être ouverts et tournés vers l'objectif, avec un fond uni derrière la tête et rien d'autre dans le cadre. Certaines autorités assouplissent cette règle pour les plus jeunes enfants : [GOV.UK](https://www.gov.uk/photos-for-passports) n'exige pas que les yeux soient ouverts avant un an, ni que l'enfant regarde directement l'objectif avant 6 ans. Ce qui change, c'est la façon d'y parvenir.
 
 **Pour un nouveau-né ou un bébé de moins d’un an :** photographiez-le allongé sur un drap ou une couverture unie, blanche ou de couleur claire. Le tissu devient l'arrière-plan. Placez-vous directement au-dessus pour que le bébé regarde droit vers l'objectif, les yeux ouverts — s'il est somnolent, attendez un moment où il est bien éveillé. Aucun jouet, aucune tétine, aucune main, aucune autre personne visible dans le cadre, à l'exception de la tête et des épaules du bébé.
 
@@ -86,7 +86,7 @@ Il s'agit d'une exigence légale destinée à protéger l'enfant, pas d'un sujet
 
 Une fois le passeport délivré et reçu, prenez cinq minutes pour le vérifier avant de le ranger. Vous recherchez trois éléments faciles à corriger maintenant, mais qui deviennent un cauchemar à corriger à l'aéroport.
 
-**Vérifiez l'orthographe.** Le nom de votre enfant doit être orthographié exactement comme sur l'acte de naissance ou le document d'identité utilisé pour la demande. En cas d'erreur de sa part, le bureau des passeports remplace généralement le document gratuitement ; si l'erreur vient de votre demande, des frais peuvent s'appliquer. Si vous ne le remarquez qu'à l'aéroport, la compagnie aérienne peut refuser l'embarquement, car le nom sur le billet ne correspondra pas au passeport.
+**Vérifiez l'orthographe.** Le nom de votre enfant doit être orthographié exactement comme sur l'acte de naissance ou le document d'identité utilisé pour la demande. En cas d'erreur de sa part, le bureau des passeports [remplace généralement le document gratuitement](https://www.gov.uk/government/publications/preventing-and-resolving-errors-on-passports/how-to-correct-errors-on-passports-accessible) ; si l'erreur vient de votre demande, des frais peuvent s'appliquer. Si vous ne le remarquez qu'à l'aéroport, la compagnie aérienne peut refuser l'embarquement, car le nom sur le billet ne correspondra pas au passeport.
 
 **Vérifiez les noms des parents lorsqu'ils figurent sur le document.** Certains pays impriment les noms des parents ou tuteurs à l'intérieur du passeport d'un enfant. Si ces noms comportent une faute ou une erreur, contactez le bureau pour faire corriger le document.
 
@@ -94,7 +94,7 @@ Une fois le passeport délivré et reçu, prenez cinq minutes pour le vérifier 
 
 Si quelque chose est incorrect, contactez votre bureau des passeports dès que vous le remarquez. La gratuité d'une correction dépend de l'origine de l'erreur, et plus vous tardez, plus la démarche se complique. Une fois que tout est en ordre, rangez le passeport directement dans votre dossier de documents avec une note de la date d'expiration, pour que le renouvellement ne vous prenne pas au dépourvu.
 
-Sources vérifiées (6 novembre 2026)
+Sources officielles
 
 - [UK Government: Get a passport photo, Digital photos](https://www.gov.uk/photos-for-passports)
 - [UK Government: applying for a first child passport](https://www.gov.uk/get-a-child-passport/first-child-passport)

@@ -39,7 +39,7 @@ Uma violação de uma aplicação no dispositivo não revela nada dos seus servi
 
 ### O tempo de antecedência dos avisos é a definição que vale a pena personalizar
 
-Esta é a funcionalidade mais valiosa. Um aviso com 6 meses é o mínimo — muitos países exigem validade do passaporte de pelo menos 6 meses além das suas datas de viagem, como explicado no nosso artigo sobre a [regra dos 6 meses do passaporte](https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/). Os passaportes de crianças têm muitas vezes uma validade de 5 anos em vez de 10 (no Reino Unido, por exemplo, são válidos por 5 anos), pelo que um aviso mais cedo — digamos 9 meses — dá mais tempo para planear.
+Esta é a funcionalidade mais valiosa. Um aviso com 6 meses é o mínimo — muitos países exigem validade do passaporte de pelo menos 6 meses além das suas datas de viagem, como explicado no nosso artigo sobre a [regra dos 6 meses do passaporte](https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/). Os passaportes de crianças têm muitas vezes uma validade de 5 anos em vez de 10 (no Reino Unido, por exemplo, [são válidos por 5 anos](https://www.gov.uk/get-a-child-passport)), pelo que um aviso mais cedo — digamos 9 meses — dá mais tempo para planear.
 
 ### Uma única aplicação pode guardar a família inteira, em segurança
 
@@ -104,7 +104,7 @@ Abra a aplicação que está realmente a considerar e passe-a por esta lista ant
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 
-Fontes que verificámos (6 de novembro de 2026)
+Fontes oficiais
 
 - [UK Foreign Office: Indonesia entry requirements](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements)
 - [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)

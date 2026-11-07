@@ -30,9 +30,9 @@ Det er den fælde, folk går i oftere end selve udløbsdatoerne. Kortet ligner d
 
 ## To traktater afgør, hvor længe kortet gælder, og hvor det virker
 
-Tre internationale aftaler ligger bag internationale kørekort, og landene har tilsluttet sig én af dem eller flere. To af dem klarer næsten det hele: Genèvekonventionen af 1949 og Wienerkonventionen af 1968. Der findes også et ældre kort under Pariserkonventionen af 1926, som enkelte destinationer stadig angiver. Tjek den trykte udløbsdato på kortet.
+[Tre internationale aftaler](https://www.gov.uk/driving-abroad/international-driving-permit) ligger bag internationale kørekort, og landene har tilsluttet sig én af dem eller flere. To af dem klarer næsten det hele: Genèvekonventionen af 1949 og Wienerkonventionen af 1968. Der findes også et ældre kort under Pariserkonventionen af 1926, som enkelte destinationer stadig angiver. Tjek den trykte udløbsdato på kortet.
 
-Et kort udstedt under Genèvekonventionen af 1949 gælder i ét år. Et kort udstedt under Wienerkonventionen af 1968 kan gælde i op til tre.
+Et kort udstedt under Genèvekonventionen af 1949 [gælder i ét år](https://travel.gc.ca/travelling/documents/international-driving-permit). Et kort udstedt under Wienerkonventionen af 1968 kan gælde i op til tre.
 
 Opdelingen har betydning to gange. Den afgør, hvor længe dit kort gælder, og den afgør, hvor kortet bliver anerkendt. Et land, der kun har ratificeret én konvention, er ikke forpligtet til at anerkende et kort udstedt under den anden, og det er grunden til, at et kort, der virkede på sidste års rejse, bliver afvist på denne.
 
@@ -46,7 +46,7 @@ Opdelingen har betydning to gange. Den afgør, hvor længe dit kort gælder, og 
 
 ## Treårskortet, der ofte ikke er tre år
 
-De tre år har en betingelse, det er let at springe over. Et Wien-kort udløber, når dit nationale kørekort udløber, hvis den dato kommer først.
+De tre år har en betingelse, det er let at springe over. Et Wien-kort [udløber, når dit nationale kørekort udløber](https://treaties.un.org/doc/Treaties/1977/05/19770524%2000-13%20AM/Ch_XI_B_19.pdf), hvis den dato kommer først.
 
 Sig, at dit kørekort har 14 måneder tilbage, og du får udstedt et treårigt kort. Kortet er brugbart i 14 måneder. Datoen trykt på forsiden går ikke forud for kørekortet bag det.
 
@@ -68,7 +68,7 @@ Det er det praktiske argument for at holde alle tre datoer samlet ét sted. Trav
 
 Vi ville tjekke dem i denne rækkefølge, og kørekortets dato før alt det, der står trykt på kortet.
 
-**Om du overhovedet skal bruge et internationalt kørekort.** Nogle lande accepterer et nationalt kørekort alene, og det er landet, du kører i, der fastsætter kravet – ikke landet, der udstedte dit kørekort.
+**Om du overhovedet skal bruge et internationalt kørekort.** [Nogle lande accepterer et nationalt kørekort alene](https://www.gov.uk/driving-abroad), og det er landet, du kører i, der fastsætter kravet – ikke landet, der udstedte dit kørekort.
 
 **Hvilken konvention din destination anerkender**, og tjek så dit kort op imod den (konventionen står trykt på dokumentet).
 
@@ -102,7 +102,7 @@ Tag i dag dit kørekort og dit internationale kørekort frem, hvis du har et, og
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du handler.
 
-Kilder vi har tjekket (6. november 2026)
+Officielle kilder
 
 - [United Nations Treaty Collection: Convention on Road Traffic (1968)](https://treaties.un.org/doc/Treaties/1977/05/19770524%2000-13%20AM/Ch_XI_B_19.pdf)
 - [UK Government: driving abroad, international driving permits](https://www.gov.uk/driving-abroad/international-driving-permit)

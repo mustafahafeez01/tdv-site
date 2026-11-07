@@ -30,7 +30,7 @@ Hvor akut du skal handle, afgør, hvad du skal gøre:
 - **God tid før rejsen:** ansøg om standardfornyelse online via pasmyndighedens hjemmeside – GOV.UK i Storbritannien, travel.state.gov i USA.
 - **Rejsen nærmer sig:** ansøg med det samme, og betal for ekspresbehandling. Både Storbritannien og USA tilbyder en hurtigere betalt service online, og begge oplyser deres aktuelle behandlingstid.
 - **Rejsen begynder at nærme sig:** ring direkte til pasmyndigheden i stedet for kun at stole på hjemmesiden – HM Passport Office's rådgivningslinje i Storbritannien, eller US National Passport Information Center i USA.
-- **Rejsen er umiddelbart forestående:** spørg om en nødtid, og medbring bevis for dine rejsedatoer. Storbritanniens 1 Day Premium-service (kun voksenfornyelser) giver tider fra 2 dage efter din ansøgning, med pas klar til afhentning 4 timer efter din tid, og USA offentliggør sine muligheder ved hastende rejser på travel.state.gov.
+- **Rejsen er umiddelbart forestående:** spørg om en nødtid, og medbring bevis for dine rejsedatoer. Storbritanniens [1 Day Premium-service](https://www.gov.uk/get-a-passport-urgently) (kun voksenfornyelser) giver tider fra 2 dage efter din ansøgning, med pas klar til afhentning 4 timer efter din tid, og USA offentliggør sine muligheder ved hastende rejser på travel.state.gov.
 
 Hvis din tidsramme er stram, ville vi altid ringe frem for kun at stole på hjemmesiden.
 
@@ -56,7 +56,7 @@ Udløb betyder sjældent, at du skal starte forfra, fordi du i Storbritannien, U
 
 ### Storbritannien: Et udløbet pas går gennem normal fornyelse
 
-GOV.UK siger, at du skal forny, før du kan rejse, hvis dit pas er udløbet eller ikke har gyldighed nok til din destination. Et udløbet pas går gennem den almindelige fornyelse, online eller på en papirblanket, og du skal bruge dit gamle pas til det. Voksenpas er til personer på 16 år og derover, og børnepas har deres egen proces.
+[GOV.UK](https://www.gov.uk/renew-adult-passport/renew) siger, at du skal forny, før du kan rejse, hvis dit pas er udløbet eller ikke har gyldighed nok til din destination. Et udløbet pas går gennem den almindelige fornyelse, online eller på en papirblanket, og du skal bruge dit gamle pas til det. Voksenpas er til personer på 16 år og derover, og børnepas har deres egen proces.
 
 ### USA: Fornyelse virker inden for 15 år fra udstedelsen
 
@@ -64,7 +64,7 @@ USA har sine egne betingelser for fornyelse af et udløbet pas, herunder en græ
 
 ### Canada: Et udløbet pas kan fornyes online
 
-Canadas regering lader dig forny, hvis dit sidste pas var et voksenpas, udstedt da du var mindst 16 år. Det skal også have været udstedt inden for 15 år fra din ansøgningsdato og have en gyldighed på 5 eller 10 år. Du kan forny online, hvis dit pas udløber inden for de næste seks måneder eller allerede er udløbet, forudsat at din hjemme- og postadresse er i Canada. Børnepas kan ikke fornyes, så et barn har brug for en ny ansøgning.
+[Canadas regering](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html) lader dig forny, hvis dit sidste pas var et voksenpas, udstedt da du var mindst 16 år. Det skal også have været udstedt inden for 15 år fra din ansøgningsdato og have en gyldighed på 5 eller 10 år. Du kan [forny online](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport/submit-form-fees/renew-online.html), hvis dit pas udløber inden for de næste seks måneder eller allerede er udløbet, forudsat at din hjemme- og postadresse er i Canada. Børnepas kan ikke fornyes, så et barn har brug for en ny ansøgning.
 
 Er dit pas udløbet for år tilbage, så tjek udstedelsesdatoen først, fordi 15-års-grænsen i USA og Canada tælles fra udstedelsen, ikke fra udløbet. Tjek derefter de aktuelle sagsbehandlingstider, før du booker, hvilket vores guide til [hvor lang tid en pasfornyelse tager](https://traveldocumentvault.com/da/blog/how-long-does-passport-renewal-take/) dækker land for land.
 
@@ -110,7 +110,7 @@ Gør dette for hvert pas i din husstand hver for sig. Børns pas udløber hurtig
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 
-Kilder vi har tjekket (6. november 2026)
+Officielle kilder
 
 - [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
 - [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)

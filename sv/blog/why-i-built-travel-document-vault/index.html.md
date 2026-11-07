@@ -12,7 +12,7 @@ Jag stod vid gränskontrollen när tjänstemannen tittade på min dotters pass, 
 
 "Vet du att det löper ut om sju månader?" sa han. "Bara så du vet – en del länder släpper inte in dig med mindre än sex månaders giltighetstid kvar."
 
-Jag tackade honom. Vi klarade oss – precis. Men hela resan gick mina tankar tillbaka till det: om han inte hade sagt något hade jag aldrig märkt det. Sju månader verkade som gott om tid. Jag hade kollat passet innan jag bokade. Jag hade bara fullständigt glömt bort sexmånadersregeln som många länder tillämpar.
+Jag tackade honom. Vi klarade oss – precis. Men hela resan gick mina tankar tillbaka till det: om han inte hade sagt något hade jag aldrig märkt det. Sju månader verkade som gott om tid. Jag hade kollat passet innan jag bokade. Jag hade bara fullständigt glömt bort [sexmånadersregeln](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements) som många länder tillämpar.
 
 Den nära miss-situationen satt kvar i minnet. Jag hade redan ställt in kalenderpåminnelser för allas passets utgångsdatum. Jag trodde det räckte. Men jag kontrollerade egentligen inte datumen – jag litade bara på påminnelserna. Och när någons pass förnyades var jag tvungen att uppdatera påminnelsen, uppdatera skanningen i Google Drive och hoppas att jag inte missat något.
 
@@ -118,7 +118,7 @@ Mustafa
 
 Grundare, Travel Document Vault
 
-Källor vi har kontrollerat (6 november 2026)
+Officiella källor
 
 - [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
 

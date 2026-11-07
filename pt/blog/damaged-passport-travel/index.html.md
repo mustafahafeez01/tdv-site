@@ -30,7 +30,7 @@ O mais crítico é que a zona de leitura ótica — a faixa a preto e branco na 
 
 ![Dois passaportes abertos lado a lado: um desgastado mas liso e utilizável, outro manchado de água com páginas onduladas e laminação a descolar](https://traveldocumentvault.com/blog/damaged-passport-travel/damage-vs-wear-figure.jpg) Vincos ligeiros na capa: aceitável. Danos de água na página de dados: um problema.
 
-A razão pela qual isto importa é que **as companhias aéreas assumem a responsabilidade se embarcarem alguém com um documento inaceitável.** Embarque com um passaporte danificado, seja recusado à chegada, e as autoridades podem multar a companhia aérea por o ter transportado.
+A razão pela qual isto importa é que **as companhias aéreas assumem a responsabilidade se embarcarem alguém com um documento inaceitável.** Embarque com um passaporte danificado, seja recusado à chegada, e as autoridades podem [multar a companhia aérea](https://www.legislation.gov.uk/ukpga/1999/33/section/40) por o ter transportado.
 
 Nenhum agente de portão quer essa burocracia, por isso preferem, sem hesitar, pecar por excesso de cautela.
 
@@ -42,7 +42,7 @@ Detetar danos com tempo de sobra é o melhor cenário possível, porque ainda te
 
 O primeiro sítio a consultar deve ser o site oficial do serviço de passaportes do seu país, porque é o único local onde as regras atuais e os prazos de processamento estão garantidamente corretos, e ambos mudam com mais frequência do que se imagina. Se não tiver a certeza se o seu passaporte em particular ainda será aceite, o serviço de passaportes é o único organismo cuja resposta realmente conta. Um fórum sobre companhias aéreas não o vai salvar ao balcão.
 
-Há algumas coisas a confirmar antes de avançar. Normalmente existem serviços urgentes e prioritários, mas nem todos cobrem passaportes danificados, e o nível mais rápido costuma estar reservado a renovações simples. Confirme a que serviço a sua situação tem direito antes de marcar uma consulta.
+Há algumas coisas a confirmar antes de avançar. Normalmente existem [serviços urgentes e prioritários](https://www.gov.uk/get-a-passport-urgently), mas nem todos cobrem passaportes danificados, e o nível mais rápido costuma estar reservado a renovações simples. Confirme a que serviço a sua situação tem direito antes de marcar uma consulta.
 
 Um passaporte danificado também costuma implicar candidatar-se presencialmente em vez de por correio. Em alguns países, o local que trata dos casos urgentes é completamente diferente do que apenas recebe candidaturas, e aparecer no balcão errado custa-lhe um dia que provavelmente não tem para perder.
 
@@ -89,7 +89,7 @@ Digitalize o seu passaporte hoje, antes de precisar dele.
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 
-Fontes que verificámos (6 de novembro de 2026)
+Fontes oficiais
 
 - [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
 - [UK legislation: Immigration and Asylum Act 1999, section 40](https://www.legislation.gov.uk/ukpga/1999/33/section/40)

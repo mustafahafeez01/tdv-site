@@ -12,7 +12,7 @@ I was at immigration when the officer looked at my daughter's passport, paused, 
 
 "You know this expires in seven months, right?" he said. "Just so you're aware - some countries won't let you in with less than six months validity."
 
-I thanked him. We were fine - barely. But the whole trip I kept thinking: if he hadn't said something, I never would have noticed. Seven months felt like plenty. I'd checked the passport before booking. I'd just completely blanked on the six-month rule that many countries enforce.
+I thanked him. We were fine - barely. But the whole trip I kept thinking: if he hadn't said something, I never would have noticed. Seven months felt like plenty. I'd checked the passport before booking. I'd just completely blanked on the [six-month rule](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements) that many countries enforce.
 
 That close call stayed with me. I'd already set up calendar reminders for everyone's passport expiry dates. I thought that was enough. But I wasn't actually checking the dates - I was just trusting the reminders. And when someone's passport got renewed, I had to update the reminder, update the scan in Google Drive, and hope I hadn't missed anything.
 
@@ -118,7 +118,7 @@ Mustafa
 
 Founder, Travel Document Vault
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
 

@@ -19,7 +19,7 @@ Source: https://traveldocumentvault.com/de/blog/us-child-passport-renewal-under-
 
 Ein US-Reisepass, der einem Kind unter 16 Jahren ausgestellt wird, kann nicht verlängert werden. Läuft er ab, beantragen Sie persönlich einen neuen, genauso wie beim ersten Mal, und beide Eltern nehmen wieder teil. Es ist etwas mehr Papierkram als eine Erwachsenenverlängerung, aber nichts Neues, wenn Sie es schon einmal gemacht haben.
 
-Die Bundesvorschriften für Reisepässe ziehen die Grenze bei 16 Jahren: Eine Verlängerung per Post oder online ist nur möglich, wenn der letzte Pass ab 16 Jahren ausgestellt wurde, sodass jeder Pass, den ein Kind davor erhält, in einem Neuantrag endet. Ein Kind, das als Baby den ersten Pass erhält, kann bis zum 16. Geburtstag durch vier Antragsverfahren gehen, jedes mit beiden Eltern.
+Die [Bundesvorschriften für Reisepässe](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-F/part-51) ziehen die Grenze bei 16 Jahren: Eine Verlängerung per Post oder online ist nur möglich, wenn der letzte Pass ab 16 Jahren ausgestellt wurde, sodass jeder Pass, den ein Kind davor erhält, in einem Neuantrag endet. Ein Kind, das als Baby den ersten Pass erhält, kann bis zum 16. Geburtstag durch vier Antragsverfahren gehen, jedes mit beiden Eltern.
 
 ## Vor dem 16. Geburtstag ausgestellte Pässe sind fünf Jahre gültig
 
@@ -69,7 +69,7 @@ Mit mehreren Kindern laufen die Termine auseinander. Pässe, die einige Jahre au
 
 Entscheidend ist der frühe Start. Wir würden etwa neun Monate vor Ablauf des Kinderreisepasses beginnen: genug Zeit, um einen Termin zu finden, den beide Eltern wahrnehmen können, eine mögliche notariell beglaubigte Erklärung unterschreiben zu lassen, und noch Zeit zu haben, falls etwas wiederholt werden muss. Unser Beitrag dazu, [wann man einen Reisepass vor Ablauf erneuert](https://traveldocumentvault.com/de/blog/renew-passport-before-expiry/), geht genauer auf diesen Zeitplan ein.
 
-Quellen, die wir geprüft haben (6. November 2026)
+Offizielle Quellen
 
 - [US eCFR: 22 CFR Part 51 (passports)](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-F/part-51)
 

@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/ko/blog/why-i-built-travel-document-vaul
 
 "7개월 후에 만료된다는 거 알고 계시죠?" 그가 말했습니다. "참고로 말씀드리면, 유효기간이 6개월 미만이면 입국을 거부하는 나라들이 있습니다."
 
-감사 인사를 드렸습니다. 가까스로 괜찮았습니다. 하지만 여행 내내 이런 생각이 떠나지 않았습니다. 그가 말해주지 않았다면 저는 절대 알아채지 못했을 거라고요. 7개월이면 충분하다고 생각했습니다. 예약 전에 여권을 확인했으나, 많은 나라가 시행하는 '6개월 규정'을 완전히 잊고 있었던 것입니다.
+감사 인사를 드렸습니다. 가까스로 괜찮았습니다. 하지만 여행 내내 이런 생각이 떠나지 않았습니다. 그가 말해주지 않았다면 저는 절대 알아채지 못했을 거라고요. 7개월이면 충분하다고 생각했습니다. 예약 전에 여권을 확인했으나, 많은 나라가 시행하는 '[6개월 규정](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)'을 완전히 잊고 있었던 것입니다.
 
 그 아찔한 순간이 계속 머릿속에 남았습니다. 이미 가족 모두의 여권 만료일을 캘린더 알림으로 설정해 두었고, 그것으로 충분하다고 생각했습니다. 하지만 실제로 날짜를 확인하는 것이 아니라 알림만 믿고 있었던 셈입니다. 그리고 누군가의 여권이 갱신되면 알림을 업데이트하고, Google Drive의 스캔 파일도 업데이트하고, 혹시 빠뜨린 것이 없는지 걱정해야 했습니다.
 
@@ -118,7 +118,7 @@ Mustafa
 
 창립자, Travel Document Vault
 
-확인한 출처 (2026년 11월 6일)
+공식 출처
 
 - [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
 

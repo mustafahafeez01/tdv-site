@@ -39,9 +39,9 @@ De valkuil zit ertussenin. Een tussenlanding die op papier airside lijkt, kan in
 
 In verschillende gevallen is een transitvisum verplicht, en de vereisten verschillen sterk per nationaliteit en transitland.
 
-Het **Schengen-luchthaventransitvisum (ATV)** geldt voor bepaalde houders van een niet-EU-paspoort die een airside-overstap maken via Schengen-luchthavens (lidstaten kunnen in sommige gevallen nationaliteiten toevoegen), al zijn veel nationaliteiten vrijgesteld, en ook sommige houders van een visum of verblijfsvergunning. Omdat de vrijstellingslijst complex is en regelmatig verandert, kun je niet zomaar aannemen dat je bent vrijgesteld. De database van het IATA Travel Centre bevat de actuele regels voor jouw specifieke nationaliteit en bestemming, dus controleer dat daar in plaats van te gokken op basis van wat je weet over andere landen.
+Het **Schengen-luchthaventransitvisum (ATV)** geldt voor [bepaalde houders van een niet-EU-paspoort](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0810) die een airside-overstap maken via Schengen-luchthavens (lidstaten kunnen in sommige gevallen nationaliteiten toevoegen), al zijn veel nationaliteiten vrijgesteld, en ook sommige houders van een visum of verblijfsvergunning. Omdat de vrijstellingslijst complex is en regelmatig verandert, kun je niet zomaar aannemen dat je bent vrijgesteld. De database van het IATA Travel Centre bevat de actuele regels voor jouw specifieke nationaliteit en bestemming, dus controleer dat daar in plaats van te gokken op basis van wat je weet over andere landen.
 
-Het **Verenigd Koninkrijk** biedt voor velen visumvrije airside-transit, maar anderen hebben een zogeheten Direct Airside Transit Visa (DATV) nodig. Net als bij Schengen hangt vrijstelling vooral af van je nationaliteit, niet alleen van je bestemming, en GOV.UK zegt dat je geen transitvisum nodig hebt als je een Britse elektronische reisautorisatie (ETA) hebt.
+Het **Verenigd Koninkrijk** biedt voor velen visumvrije airside-transit, maar anderen hebben een zogeheten Direct Airside Transit Visa (DATV) nodig. Net als bij Schengen hangt vrijstelling vooral af van je nationaliteit, niet alleen van je bestemming, en [GOV.UK](https://www.gov.uk/transit-visa) zegt dat je geen transitvisum nodig hebt als je een Britse elektronische reisautorisatie (ETA) hebt.
 
 Passagiers met een aansluitende vlucht die in de **Verenigde Staten** aankomen, gaan in de meeste gevallen door de Amerikaanse grens- en douanecontrole voordat ze verder vliegen. In de praktijk draait dit om de Amerikaanse inreisregels, niet om transitvisumregels, dus check ze vroeg voor jouw paspoort en neem ze vanaf het begin mee in je reisplan.
 
@@ -75,7 +75,7 @@ Reis je met het gezin, controleer dan het paspoort van elk gezinslid afzonderlij
 
 Controleer voordat je boekt je hele route, niet alleen de bestemming, in het IATA Travel Centre. Die controle vangt een ontbrekende vereiste het vaakst op zolang je de boeking nog kunt wijzigen.
 
-Bronnen die we hebben gecontroleerd (6 november 2026)
+Officiële bronnen
 
 - [UK Government: Visa to pass through the UK in transit](https://www.gov.uk/transit-visa)
 - [EU law: Visa Code (Regulation 810/2009)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0810)
@@ -109,7 +109,7 @@ Neem direct contact op met je luchtvaartmaatschappij en controleer de verwerking
 
 ### Hoe lang is een transitvisum geldig?
 
-De geldigheid van een transitvisum verschilt per land. Het Britse Visitor in Transit visum dekt bijvoorbeeld een verblijf van maximaal 48 uur. Bewaar en volg de vervaldatum van je transitvisum samen met je paspoort en hoofdinreisvisum.
+De geldigheid van een transitvisum verschilt per land. Het Britse [Visitor in Transit visum](https://www.gov.uk/transit-visa/visitor-in-transit-visa) dekt bijvoorbeeld een verblijf van maximaal 48 uur. Bewaar en volg de vervaldatum van je transitvisum samen met je paspoort en hoofdinreisvisum.
 
 ## Gerelateerde artikelen
 

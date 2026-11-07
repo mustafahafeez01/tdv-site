@@ -28,9 +28,9 @@ Ob Sie diesen Pass noch haben, hängt ganz von Ihrem Land und Ihrer Erneuerungsm
 
 ## Vereinigte Staaten: Erneuerung per Post
 
-Bei der normalen Passerneuerung per Post in den USA schicken Sie Ihren aktuellen Pass mit dem Antrag ein und haben ihn deshalb während der Bearbeitung nicht bei sich. Sie füllen das Formular DS-82 aus, legen Ihren bestehenden Pass bei und schicken alles an das National Passport Processing Center. Laut USAGov wird Ihr alter Pass separat zurückgeschickt, in der Regel etwa vier Wochen nach Erhalt des neuen.
+Bei der normalen Passerneuerung per Post in den USA schicken Sie Ihren aktuellen Pass mit dem Antrag ein und haben ihn deshalb während der Bearbeitung nicht bei sich. Sie [füllen das Formular DS-82 aus](https://www.usa.gov/renew-adult-passport), legen Ihren bestehenden Pass bei und schicken alles an das National Passport Processing Center. Laut USAGov wird Ihr alter Pass separat zurückgeschickt, in der Regel etwa vier Wochen nach Erhalt des neuen.
 
-Das bedeutet, dass Reisen im Inland innerhalb der Vereinigten Staaten während des gesamten Erneuerungsprozesses nicht beeinträchtigt werden – Sie benötigen keinen Pass für Inlandsflüge. Internationale Reisen sind eine andere Sache: Sie können nicht ins Ausland reisen, bis Ihr neuer Pass ankommt, und Sie können auch den alten ungültig gemachten Pass nicht verwenden, selbst wenn Sie ihn in Händen halten.
+Das bedeutet, dass Reisen im Inland innerhalb der Vereinigten Staaten während des gesamten Erneuerungsprozesses nicht beeinträchtigt werden – [Sie benötigen keinen Pass für Inlandsflüge](https://www.tsa.gov/travel/security-screening/identification). Internationale Reisen sind eine andere Sache: Sie können nicht ins Ausland reisen, bis Ihr neuer Pass ankommt, und Sie können auch den alten ungültig gemachten Pass nicht verwenden, selbst wenn Sie ihn in Händen halten.
 
 Die Standardbearbeitungszeit ändert sich, und das State Department veröffentlicht die aktuelle Angabe auf travel.state.gov, prüfen Sie diese also, bevor Sie danach planen. Wenn Ihre Reise gebucht ist, bevor Sie mit der Ankunft des neuen Passes rechnen, ist beschleunigte Bearbeitung gegen eine zusätzliche Gebühr verfügbar und verkürzt die Wartezeit spürbar. Für wirklich dringende Reisen sind persönliche Termine bei regionalen Passämtern verfügbar – aktuelle Berechtigung auf travel.state.gov prüfen.
 
@@ -38,7 +38,7 @@ Die Standardbearbeitungszeit ändert sich, und das State Department veröffentli
 
 Das Vereinigte Königreich hat zwei Erneuerungswege, und sie haben völlig unterschiedliche Auswirkungen auf Reisen. Der verwendete Prozess bestimmt, was möglich ist.
 
-**Postalische Erneuerung:** Sie schicken Ihren aktuellen Pass zusammen mit Ihrem Antrag an das HM Passport Office. Ihr Pass ist während der gesamten Dauer in deren Händen, daher können Sie nicht ins Ausland reisen. Das HM Passport Office veröffentlicht seine aktuelle Bearbeitungszeit auf seiner Website und rät davon ab, Reisen zu buchen, bevor der neue Pass ankommt. Ein Premium-Schnellservice ist gegen eine zusätzliche Gebühr verfügbar, wenn Ihre Reise nah bevorsteht.
+**Postalische Erneuerung:** Sie schicken Ihren aktuellen Pass zusammen mit Ihrem Antrag an das [HM Passport Office](https://www.gov.uk/renew-adult-passport/renew). Ihr Pass ist während der gesamten Dauer in deren Händen, daher können Sie nicht ins Ausland reisen. Das HM Passport Office veröffentlicht seine aktuelle Bearbeitungszeit auf seiner Website und [rät davon ab, Reisen zu buchen](https://www.gov.uk/renew-adult-passport), bevor der neue Pass ankommt. Ein Premium-Schnellservice ist gegen eine zusätzliche Gebühr verfügbar, wenn Ihre Reise nah bevorsteht.
 
 **Digitale Erneuerung** ist derzeit für berechtigte Erwachsene verfügbar, die vom Vereinigten Königreich aus beantragen. Sie behalten Ihren aktuellen Pass während des gesamten Prozesses, und die Regierung stellt Ihren neuen Pass separat aus und schickt ihn per Post zu Ihnen. Da Ihr bestehender Pass niemals Ihren Besitz verlässt, können Sie ihn normalerweise während der Verarbeitung des neuen weiterhin für Reisen verwenden. Die Berechtigung variiert je nach individuellen Umständen. Überprüfen Sie daher die Website des HM Passport Office auf die vollständigen Kriterien und aktuelle Wartezeiten, bevor Sie einen Antrag einreichen.
 
@@ -52,7 +52,7 @@ Das Australian Passport Office veröffentlicht seine aktuellen Bearbeitungszeite
 
 ## Kanada: Bei Antragstellung Abgabe erforderlich
 
-Kanada verlangt, dass Sie Ihren bestehenden Pass abgeben, wenn Sie eine Erneuerung beantragen. Ihr alter Pass wird behalten, bis Ihr neuer fertig ist, daher können Sie in diesem Zeitraum nicht ins Ausland reisen – obwohl Inlandsreisen innerhalb Kanadas keinen Pass erfordern.
+Kanada verlangt, dass Sie [Ihren bestehenden Pass abgeben, wenn Sie eine Erneuerung beantragen](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html). Ihr alter Pass wird behalten, bis Ihr neuer fertig ist, daher können Sie in diesem Zeitraum nicht ins Ausland reisen – obwohl Inlandsreisen innerhalb Kanadas keinen Pass erfordern.
 
 Service Canada veröffentlicht seine aktuellen Bearbeitungsstandards, die je nachdem variieren, ob Sie persönlich, per Post oder in einem Service Canada Centre beantragen, zuzüglich Versandzeit. Für dringende Reisen gibt es Express-Service und dringende Abholoptionen gegen zusätzliche Gebühren. Überprüfen Sie die aktuellen Bearbeitungszeiten und beantragen Sie auf canada.ca.
 
@@ -94,7 +94,7 @@ Der Grund, warum Menschen in diese Situation geraten, ist nicht Unkenntnis der R
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 
-Quellen, die wir geprüft haben (6. November 2026)
+Offizielle Quellen
 
 - [USAGov: Renew an adult passport](https://www.usa.gov/renew-adult-passport)
 - [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)

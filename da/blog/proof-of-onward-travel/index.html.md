@@ -40,7 +40,7 @@ En **hotelbooking** og et **kontoudtog** kommer også ofte på tale, men de besv
 
 Flyselskabet vil vide, om du sandsynligvis bliver nægtet indrejse ved ankomsten, hvilket efterlader dem med omkostningen ved at flyve dig tilbage. En grænsebetjent spørger om noget relateret, men separat: om du opfylder landets indrejsebetingelser. De to spørgsmål overlapper, men er ikke det samme.
 
-Overlappet ligger i rejsemålets egne regler. Schengengrænsekodeksen nævner for eksempel en retur- eller rundrejsebillet blandt de dokumenter, en grænsevagt kan bede en besøgende om at vise. New Zealand kræver, at besøgende har midlerne til at rejse ud igen. Når et rejsemål fungerer sådan, anvender flyselskabet ved check-in som regel bare rejsemålets regel nogle timer tidligere – det opfinder ikke sin egen.
+Overlappet ligger i rejsemålets egne regler. [Schengengrænsekodeksen](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0399) nævner for eksempel en retur- eller rundrejsebillet blandt de dokumenter, en grænsevagt kan bede en besøgende om at vise. New Zealand [kræver, at besøgende har midlerne til at rejse ud igen](https://www.immigration.govt.nz/visas/visa-waiver-visitor-visa/). Når et rejsemål fungerer sådan, anvender flyselskabet ved check-in som regel bare rejsemålets regel nogle timer tidligere – det opfinder ikke sin egen.
 
 ![Diagram, der sammenligner flyselskabets tjek ved check-in, som anvender rejsemålets regler og afgør, om du boarder, med grænsetjekket ved ankomst, som afgør, om du kommer ind](https://traveldocumentvault.com/blog/proof-of-onward-travel/two-checks-da.jpg) Flyselskabet tjekker, før du boarder; grænsevagten afgør det ved ankomst.
 
@@ -70,12 +70,11 @@ En booking, du ikke kan åbne, er lige så ubrugelig som ingen booking. Forespø
 
 Opbevar en offline kopi af bekræftelsen: en PDF, et skærmbillede med bookingreference og datoer, eller en kopi i en app, der virker uden forbindelse. Travel Document Vault gemmer flybilletter og hotelbookinger på din enhed, krypteret og tilgængelige offline. Bekræftelsen er der ved skranken, uanset om du har signal eller ej. Vores [tjekliste til rejsedokumenter](https://traveldocumentvault.com/da/blog/travel-document-checklist/) dækker resten af, hvad det er værd at have klar.
 
-Kilder vi har tjekket (6. november 2026)
+Officielle kilder
 
 - [EU law: Schengen Borders Code (Regulation 2016/399)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0399)
 - [Immigration New Zealand: Visa Waiver Visitor Visa](https://www.immigration.govt.nz/visas/visa-waiver-visitor-visa/)
 - [Immigration New Zealand: Visitor Visa](https://www.immigration.govt.nz/visas/visitor-visa/)
-- [Immigration New Zealand: Onward travel requirements](https://www.immigration.govt.nz/opsmanual/50548.htm)
 
 ## Ofte stillede spørgsmål
 
@@ -97,7 +96,7 @@ En enkeltbillet er ikke i sig selv et problem, for reglerne om videre rejse er g
 
 ### Skal jeg have bevis for videre rejse til grænsen?
 
-Nogle gange, for visse rejsemål har det med i deres indrejsekrav for besøgende. Schengengrænsekodeksen nævner en retur- eller rundrejsebillet blandt de dokumenter, en grænsevagt kan bede om, og New Zealand kræver, at besøgende har midlerne til at kunne rejse ud igen. Tjek dit rejsemåls regler, før du rejser.
+Nogle gange, for visse rejsemål har det med i deres indrejsekrav for besøgende. Schengengrænsekodeksen nævner en retur- eller rundrejsebillet blandt de dokumenter, en grænsevagt kan bede om, og New Zealand [kræver, at besøgende har midlerne til at kunne rejse ud igen](https://www.immigration.govt.nz/visas/visitor-visa/). Tjek dit rejsemåls regler, før du rejser.
 
 ## Relaterede artikler
 

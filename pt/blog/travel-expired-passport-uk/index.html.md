@@ -48,25 +48,25 @@ Uma renovação já em curso é uma questão diferente, e depende de ter entregu
 
 ## Um Passaporte Expirado Renova-se, Não Se Recomeça do Zero
 
-Um passaporte fora do prazo é renovado, não recomeçado do zero. O GOV.UK indica um passaporte expirado como um dos dois motivos que obrigam a renovar antes de viajar, a par de não ter tempo de validade suficiente, por isso, para a maioria das pessoas, o caminho é o serviço de renovação normal para adultos.
+Um passaporte fora do prazo é renovado, não recomeçado do zero. O [GOV.UK](https://www.gov.uk/renew-adult-passport/renew) indica um passaporte expirado como um dos dois motivos que obrigam a renovar antes de viajar, a par de não ter tempo de validade suficiente, por isso, para a maioria das pessoas, o caminho é o serviço de renovação normal para adultos.
 
-A exceção é antiga. Se o seu último passaporte do Reino Unido foi emitido antes de 1 de janeiro de 1994, o HM Passport Office pede-lhe que solicite um primeiro passaporte de adulto em vez de uma renovação, por isso vale a pena verificar a data de emissão antes de começar.
+A exceção é antiga. Se o seu último passaporte do Reino Unido foi emitido antes de 1 de janeiro de 1994, o HM Passport Office pede-lhe que [solicite um primeiro passaporte de adulto](https://www.gov.uk/apply-first-adult-passport) em vez de uma renovação, por isso vale a pena verificar a data de emissão antes de começar.
 
 Pode fazer o pedido online, o que exige uma fotografia digital, ou em formulário de papel, o que exige duas fotografias impressas idênticas. De qualquer forma, enviará o seu passaporte antigo junto com o pedido. Se este tiver um visto ainda válido, o GOV.UK recomenda enviar o passaporte com o visto anexado, e o passaporte antigo é-lhe devolvido.
 
-Um pormenor apanha as pessoas de surpresa quando o novo passaporte chega: **tem um número diferente**. Por esse motivo, o GOV.UK desaconselha reservar viagens antes de ter o novo passaporte em mãos, e tudo o que tenha sido feito com o número antigo, como uma reserva de voo ou uma autorização de viagem para outro país, pode precisar de ser atualizado. O nosso guia sobre [como ler as datas do seu passaporte](https://traveldocumentvault.com/pt/blog/how-to-read-your-passport-dates/) explica o que muda na renovação e o que se mantém.
+Um pormenor apanha as pessoas de surpresa quando o novo passaporte chega: **tem um número diferente**. Por esse motivo, o [GOV.UK](https://www.gov.uk/renew-adult-passport) desaconselha reservar viagens antes de ter o novo passaporte em mãos, e tudo o que tenha sido feito com o número antigo, como uma reserva de voo ou uma autorização de viagem para outro país, pode precisar de ser atualizado. O nosso guia sobre [como ler as datas do seu passaporte](https://traveldocumentvault.com/pt/blog/how-to-read-your-passport-dates/) explica o que muda na renovação e o que se mantém.
 
 ## Viagem Doméstica: Flexibilidade Limitada com Documentos de Identidade Alternativos
 
 As viagens domésticas dentro do Reino Unido e Irlanda diferem das viagens internacionais neste aspecto chave: as companhias aéreas podem aceitar documentos de identidade alternativos com fotografia como uma carteira de condutor do Reino Unido ou cartão de identidade nacional em vez de um passaporte. No entanto, o que é aceitável varia significativamente por companhia aérea e destino, portanto não pode assumir que qualquer documento de identidade funcionará.
 
-**Isto não é permissão para ignorar a renovação do passaporte.** Diferentes companhias aéreas têm políticas diferentes em rotas domésticas — algumas exigem um passaporte para todas as viagens para a Irlanda apesar da Área de Viagem Comum tecnicamente permitir viagens com cartão de identidade, enquanto outras aceitam uma carteira de condutor. As companhias aéreas atualizam as suas regras, e a sua transportadora pode ter alterado as suas desde a última vez que voou, portanto não pode assumir o que funcionou antes.
+**Isto não é permissão para ignorar a renovação do passaporte.** Diferentes companhias aéreas têm políticas diferentes em rotas domésticas — algumas exigem um passaporte para todas as viagens para a Irlanda apesar da [Área de Viagem Comum](https://www.gov.uk/foreign-travel-advice/ireland/entry-requirements) tecnicamente permitir viagens com cartão de identidade, enquanto outras aceitam uma carteira de condutor. As companhias aéreas atualizam as suas regras, e a sua transportadora pode ter alterado as suas desde a última vez que voou, portanto não pode assumir o que funcionou antes.
 
 Se está a considerar viagem doméstica com um passaporte expirado, contacte a sua companhia aérea com antecedência suficiente antes do seu voo e pergunte explicitamente: "O meu passaporte do Reino Unido está expirado. Aceitará a minha carteira de condutor do Reino Unido em vez disso?" Obtenha confirmação por escrito se conseguir, pois chegar ao check-in com um documento de identidade alternativo e sem confirmação prévia é como as pessoas perdem voos.
 
 ## Renovação de Emergência: Serviço Premium, Se Conseguir uma Marcação
 
-Se a sua viagem é iminente e o seu passaporte está expirado, o Escritório de Passaportes de Sua Majestade oferece um serviço 1 Day Premium concebido exatamente para este cenário. O GOV.UK indica que a marcação mais próxima é 2 dias depois do pedido, e que o novo passaporte fica pronto para recolha 4 horas depois da marcação. O HM Passport Office publica a taxa atual em gov.uk, que cobre a marcação e a renovação em conjunto, em vez de se somar à taxa padrão. Obtém o seu passaporte muito mais rápido do que pela via padrão, embora a rapidez exata dependa da marcação disponível. Note que o serviço 1 Day Premium é apenas para renovações de adultos, não para primeiros passaportes de adulto.
+Se a sua viagem é iminente e o seu passaporte está expirado, o Escritório de Passaportes de Sua Majestade oferece um serviço 1 Day Premium concebido exatamente para este cenário. O [GOV.UK](https://www.gov.uk/get-a-passport-urgently) indica que a marcação mais próxima é 2 dias depois do pedido, e que o novo passaporte fica pronto para recolha 4 horas depois da marcação. O HM Passport Office publica a taxa atual em gov.uk, que cobre a marcação e a renovação em conjunto, em vez de se somar à taxa padrão. Obtém o seu passaporte muito mais rápido do que pela via padrão, embora a rapidez exata dependa da marcação disponível. Note que o serviço 1 Day Premium é apenas para renovações de adultos, não para primeiros passaportes de adulto.
 
 Esta é a via de emergência oficial para constrangimentos de viagem genuína. O HM Passport Office publica o seu tempo de processamento padrão atual em gov.uk, e vale a pena consultá-lo antes de assumir que tem tempo para esperar. Quando uma viagem genuinamente não pode esperar, a opção Premium remove a incerteza.
 
@@ -92,7 +92,7 @@ Isto aplica-se quer o seu passaporte tenha expirado antes de sair do Reino Unido
 
 ## Se Já Está no Estrangeiro e o Seu Passaporte Expira
 
-Este é o cenário genuinamente difícil. Se está a viajar e o seu passaporte expira antes de regressar, não pode embarcar num voo ou ferry para casa. Precisará contactar a embaixada ou consulado britânico mais próximo para um documento de viagem de emergência — por vezes chamado ETD ou passaporte de emergência — que é geralmente válido para uma única viagem de ida ou de ida e volta, passando por um máximo de cinco países.
+Este é o cenário genuinamente difícil. Se está a viajar e o seu passaporte expira antes de regressar, não pode embarcar num voo ou ferry para casa. Precisará contactar a embaixada ou consulado britânico mais próximo para um [documento de viagem de emergência](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport) — por vezes chamado ETD ou passaporte de emergência — que é geralmente válido para uma única viagem de ida ou de ida e volta, passando por um máximo de cinco países.
 
 O processo é lento e burocrático. Precisará fornecer prova de identidade e pagar a taxa, cujo valor atual é publicado pelo Foreign, Commonwealth and Development Office. O tempo de processamento varia consoante a embaixada e a urgência da sua situação, portanto pergunte o que esperar assim que os contactar.
 
@@ -110,7 +110,7 @@ A forma mais simples de evitar tudo isto: tire hoje o passaporte da gaveta e con
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 
-Fontes que verificámos (6 de novembro de 2026)
+Fontes oficiais
 
 - [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)
 - [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)

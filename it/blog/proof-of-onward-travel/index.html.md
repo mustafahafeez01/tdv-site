@@ -40,7 +40,7 @@ Anche una **prenotazione d'albergo** e un **estratto conto bancario** compaiono 
 
 La compagnia aerea vuole sapere se è probabile che ti venga negato l'ingresso all'arrivo, lasciandola con il costo di farti rientrare. L'agente di frontiera chiede qualcosa di collegato ma distinto: se soddisfi le condizioni d'ingresso del paese. Le due domande si sovrappongono, ma non sono la stessa domanda.
 
-Il punto in cui si sovrappongono sono le regole della destinazione stessa. Il Codice frontiere Schengen, ad esempio, elenca un biglietto di ritorno o andata e ritorno tra i documenti che un agente di frontiera può chiedere a un visitatore di mostrare. La Nuova Zelanda richiede ai visitatori di disporre dei mezzi per lasciare il paese. Quando una destinazione funziona così, la compagnia aerea che lo chiede al check-in sta di solito applicando con qualche ora di anticipo la regola della destinazione, non inventandone una propria.
+Il punto in cui si sovrappongono sono le regole della destinazione stessa. Il [Codice frontiere Schengen](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0399), ad esempio, elenca un biglietto di ritorno o andata e ritorno tra i documenti che un agente di frontiera può chiedere a un visitatore di mostrare. La Nuova Zelanda [richiede ai visitatori di disporre dei mezzi per lasciare il paese](https://www.immigration.govt.nz/visas/visa-waiver-visitor-visa/). Quando una destinazione funziona così, la compagnia aerea che lo chiede al check-in sta di solito applicando con qualche ora di anticipo la regola della destinazione, non inventandone una propria.
 
 ![Diagramma che confronta il controllo della compagnia aerea al check-in, che applica le regole della destinazione e decide se sali a bordo, con il controllo di frontiera all'arrivo, che decide se entri nel paese](https://traveldocumentvault.com/blog/proof-of-onward-travel/two-checks-it.jpg) La compagnia aerea controlla prima dell'imbarco; l'agente di frontiera decide all'arrivo.
 
@@ -70,12 +70,11 @@ Una prenotazione che non riesci ad aprire è tanto inutile quanto nessuna prenot
 
 Conserva una copia offline della conferma: un PDF, uno screenshot con il codice di prenotazione e le date, o una copia in un'app che funziona senza connessione. Travel Document Vault conserva biglietti aerei e prenotazioni d'albergo sul tuo dispositivo, cifrati e disponibili offline. La conferma è lì al banco, con o senza segnale. La nostra [lista di controllo dei documenti di viaggio](https://traveldocumentvault.com/it/blog/travel-document-checklist/) copre il resto di ciò che conviene avere pronto.
 
-Fonti che abbiamo verificato (6 novembre 2026)
+Fonti ufficiali
 
 - [EU law: Schengen Borders Code (Regulation 2016/399)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0399)
 - [Immigration New Zealand: Visa Waiver Visitor Visa](https://www.immigration.govt.nz/visas/visa-waiver-visitor-visa/)
 - [Immigration New Zealand: Visitor Visa](https://www.immigration.govt.nz/visas/visitor-visa/)
-- [Immigration New Zealand: Onward travel requirements](https://www.immigration.govt.nz/opsmanual/50548.htm)
 
 ## Domande frequenti
 
@@ -97,7 +96,7 @@ Un biglietto di sola andata non è un problema di per sé, perché le regole sul
 
 ### Mi serve la prova di prosecuzione del viaggio per la frontiera?
 
-A volte, perché alcune destinazioni la includono nelle condizioni d'ingresso per i visitatori. Il Codice frontiere Schengen elenca un biglietto di ritorno o andata e ritorno tra i documenti che un agente di frontiera può chiedere, e la Nuova Zelanda richiede ai visitatori di disporre dei mezzi per lasciare il paese. Verifica le regole della tua destinazione prima di partire.
+A volte, perché alcune destinazioni la includono nelle condizioni d'ingresso per i visitatori. Il Codice frontiere Schengen elenca un biglietto di ritorno o andata e ritorno tra i documenti che un agente di frontiera può chiedere, e la Nuova Zelanda [richiede ai visitatori di disporre dei mezzi per lasciare il paese](https://www.immigration.govt.nz/visas/visitor-visa/). Verifica le regole della tua destinazione prima di partire.
 
 ## Articoli correlati
 

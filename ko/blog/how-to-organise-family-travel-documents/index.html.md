@@ -39,7 +39,7 @@ Source: https://traveldocumentvault.com/ko/blog/how-to-organise-family-travel-do
 
 **아이와 함께 여행하면 추가되는 서류**
 
-- 출생증명서, 특히 자녀의 성이 함께 여행하는 부모의 성과 다른 경우 입국심사에서 필요할 수 있습니다
+- 출생증명서, 특히 자녀의 성이 함께 여행하는 부모의 성과 다른 경우 [입국심사에서 필요할 수 있습니다](https://www.gov.uk/foreign-travel-advice/mexico/entry-requirements)
 - 한 부모가 없는 경우 서명된 부모 동의서, 한 부모 또는 조부모 여행에 강력히 권장됩니다
 - 해당하는 경우 친권 판결 사본
 
@@ -57,7 +57,7 @@ Source: https://traveldocumentvault.com/ko/blog/how-to-organise-family-travel-do
 
 - 국제 운전면허증 (해외에서 렌터카를 빌리는 경우)
 - 지속적인 상태의 의료 기록 또는 처방약 세부 정보
-- 유럽 건강 보험 카드 (EHIC) (EU 의료보험 체계의 보장을 받는 경우)
+- 유럽 건강 보험 카드 (EHIC) ([EU 의료보험 체계의 보장을 받는 경우](https://europa.eu/youreurope/citizens/health/unplanned-healthcare/temporary-stays/index_en.htm))
 
 ## 물리적 정리: 원본 서류 보관 위치
 
@@ -128,7 +128,7 @@ Source: https://traveldocumentvault.com/ko/blog/how-to-organise-family-travel-do
 
 **이 글에 의존하기 전에:** 이 글은 블로그이며 공식 자료가 아닙니다. 규정과 세부 사항은 바뀌고, 여러분의 상황은 다를 수 있습니다. 저희는 게시하는 내용을 확인하지만 그래도 틀리거나 오래된 정보일 수 있습니다. 여기 적힌 내용이 계획에 중요하다면, 움직이기 전에 담당 기관에 확인하시기 바랍니다.
 
-확인한 출처 (2026년 11월 6일)
+공식 출처
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [UK Foreign Office: Mexico entry requirements](https://www.gov.uk/foreign-travel-advice/mexico/entry-requirements)
@@ -154,7 +154,7 @@ Source: https://traveldocumentvault.com/ko/blog/how-to-organise-family-travel-do
 
 ### 한 부모만 자녀와 함께 여행할 때 동의서가 필요합니까?
 
-법적으로 필수는 아닐 수 있지만 강력히 권장됩니다. 캐나다 등 일부 국가의 국경 공무원은 아이가 부모 한 명과 여행할 때 아동 여행 동의서를 요청할 수 있습니다. 없으면 추가 질문을 받을 수 있습니다. 동의서에는 자녀의 세부 정보, 양쪽 부모의 연락처, 여행 날짜, 목적지, 부재중 부모의 서명이 포함되어야 하며, 가능하면 공증된 것이 좋습니다.
+법적으로 필수는 아닐 수 있지만 강력히 권장됩니다. [캐나다](https://travel.gc.ca/travelling/children/consent-letter) 등 일부 국가의 국경 공무원은 아이가 부모 한 명과 여행할 때 아동 여행 동의서를 요청할 수 있습니다. 없으면 추가 질문을 받을 수 있습니다. 동의서에는 자녀의 세부 정보, 양쪽 부모의 연락처, 여행 날짜, 목적지, 부재중 부모의 서명이 포함되어야 하며, 가능하면 공증된 것이 좋습니다.
 
 ## 관련 문서
 

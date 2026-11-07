@@ -40,7 +40,7 @@ Artinya dalam praktik
 
 Misalnya Anda bepergian saat musim puncak suatu negara dan paspor Anda mulai mendekati batas waktu. Membayar untuk jalur yang lebih cepat membeli Anda kepastian: posisi antrean lebih awal, tidak peduli seberapa panjang antrean standar telah bertambah bulan itu. Jika Anda tetap memilih pemrosesan standar selama periode sibuk, Anda bertaruh bahwa perkiraan waktu yang dipublikasikan masih mencerminkan kenyataan, dan itu persis asumsi yang sering menjebak orang.
 
-Satu catatan penting: kelayakan untuk jalur yang lebih cepat biasanya bergantung pada situasi Anda, bukan sekadar kesediaan Anda membayar. Layanan 1 Day Premium di Inggris hanya mencakup perpanjangan dewasa, dengan janji temu paling cepat tersedia 2 hari setelah Anda mengajukan. Periksa aturan kelayakan sebelum Anda menganggap suatu jalur terbuka untuk Anda, jangan sampai baru tahu di loket.
+Satu catatan penting: kelayakan untuk jalur yang lebih cepat biasanya bergantung pada situasi Anda, bukan sekadar kesediaan Anda membayar. [Layanan 1 Day Premium](https://www.gov.uk/get-a-passport-urgently) di Inggris hanya mencakup perpanjangan dewasa, dengan janji temu paling cepat tersedia 2 hari setelah Anda mengajukan. Periksa aturan kelayakan sebelum Anda menganggap suatu jalur terbuka untuk Anda, jangan sampai baru tahu di loket.
 
 ## Daftar Pendek yang Mudah Ditebak Menjadi Penyebab Sebagian Besar Keterlambatan
 
@@ -66,7 +66,7 @@ Berhati-hatilah meminjam garis waktu orang lain. Teman yang memperpanjang dengan
 
 Ini bagian yang sengaja kami serahkan kepada mereka yang benar-benar menjalankan sistemnya. Di Inggris, itu HM Passport Office. Di AS, itu Departemen Luar Negeri. Di Australia, itu Kantor Paspor Australia. Di Kanada, itu Immigration, Refugees and Citizenship Canada, bersama Service Canada untuk permohonan tatap muka. Sebagian besar negara lain mempublikasikan angka setara melalui otoritas paspor atau luar negeri nasional mereka sendiri.
 
-Sedikit konteks membantu Anda menggunakan angka itu dengan benar. HM Passport Office menjalankan layanan digital untuk orang dewasa yang memenuhi syarat yang mengajukan dari dalam Inggris; siapa pun yang mengajukan dari luar negeri menggunakan layanan luar negeri terpisah. Kanada menawarkan perpanjangan daring jika Anda membutuhkan paspor dalam 20 hari kerja atau lebih; pemohon lain mengikuti jalur permohonan kertas. Untuk AS dan Australia, periksa situs resmi tentang kelayakan terkini dan cara mengajukan. Di mana pun Anda mengajukan, perhitungkan waktu pengiriman di luar waktu yang dipublikasikan IRCC. Otoritas-otoritas ini layak dipercaya karena angkanya bergerak seiring volume permohonan yang nyata dan terkini, bukan rata-rata yang sudah usang — periksa segera sebelum Anda mengajukan, bukan berminggu-minggu sebelumnya.
+Sedikit konteks membantu Anda menggunakan angka itu dengan benar. HM Passport Office menjalankan layanan digital untuk orang dewasa yang memenuhi syarat yang mengajukan dari dalam Inggris; siapa pun yang mengajukan dari luar negeri menggunakan layanan luar negeri terpisah. [Kanada menawarkan perpanjangan daring](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html) jika Anda membutuhkan paspor dalam 20 hari kerja atau lebih; pemohon lain mengikuti jalur permohonan kertas. Untuk AS dan Australia, periksa situs resmi tentang kelayakan terkini dan cara mengajukan. Di mana pun Anda mengajukan, perhitungkan waktu pengiriman di luar waktu yang dipublikasikan IRCC. Otoritas-otoritas ini layak dipercaya karena angkanya bergerak seiring volume permohonan yang nyata dan terkini, bukan rata-rata yang sudah usang — periksa segera sebelum Anda mengajukan, bukan berminggu-minggu sebelumnya.
 
 ## Bisakah Anda Bepergian Saat Paspor Sedang Diperpanjang?
 
@@ -82,7 +82,7 @@ Ambil paspor Anda hari ini dan periksa berapa bulan masa berlakunya yang tersisa
 
 **Sebelum Anda mengandalkan ini:** ini adalah blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 
-Sumber yang kami periksa (6 November 2026)
+Sumber resmi
 
 - [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
 - [Government of Canada: Renew an adult passport](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html)

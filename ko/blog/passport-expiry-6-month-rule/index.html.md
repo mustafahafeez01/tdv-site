@@ -37,7 +37,7 @@ Source: https://traveldocumentvault.com/ko/blog/passport-expiry-6-month-rule/
 
 경우에 따라 가능합니다. 목적지가 체류 기간 동안만 유효한 여권을 요구한다면, 남은 기간이 5개월이어도 대체로 입국할 수 있습니다. 영국은 대부분의 방문객에게 이런 방식을 적용하며, 솅겐 국가는 보통 6개월이 아니라 출국 예정일로부터 3개월의 유효기간을 요구합니다.
 
-목적지가 6개월 규칙을 적용한다면 불가능합니다. 태국, 인도네시아, 베트남을 비롯한 많은 국가는 일반적으로 입국을 거부하며, 국경에 도달하기 훨씬 전에 항공사가 먼저 탑승을 거부합니다.
+목적지가 6개월 규칙을 적용한다면 불가능합니다. 태국, [인도네시아](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements), 베트남을 비롯한 많은 국가는 일반적으로 입국을 거부하며, 국경에 도달하기 훨씬 전에 항공사가 먼저 탑승을 거부합니다.
 
 결국 답은 여권 자체가 아니라 목적지에 달려 있습니다. 예약하는 날 목적지의 요구사항을 확인하고, 출발하는 주에 다시 한번 확인하세요.
 
@@ -54,12 +54,12 @@ Source: https://traveldocumentvault.com/ko/blog/passport-expiry-6-month-rule/
 | 필리핀 | 6개월 | 귀국/왕복 항공권도 필요 |
 | 인도 | 6개월 | 대부분의 국적에 비자 필요 |
 | 케냐 | 6개월 | 전자여행허가 필요. 6개월 규칙 적용 |
-| 터키 | 도착일로부터 150일 | 영국 외무부: 여권 만료일이 도착일로부터 최소 150일 이후여야 함 |
+| 터키 | 도착일로부터 150일 | [영국 외무부](https://www.gov.uk/foreign-travel-advice/turkey/entry-requirements): 여권 만료일이 도착일로부터 최소 150일 이후여야 함 |
 | EU/솅겐 | 출국 후 3개월 | 추가로 발급일이 10년 미만이어야 함 |
 | 영국 | 체류 기간만 | 영국 시민도 해외 목적지 규칙의 영향을 받음 |
 | 미국 | 체류 기간만 | 미국 시민도 목적지 국가의 규칙의 영향을 받음 |
 | 일본/호주 | 체류 기간만 | 방문자에 대한 6개월 연장 규칙 없음 |
-| 뉴질랜드 | 출국 후 3개월 | 영국 외무부: 여권 만료일이 출국 예정일로부터 최소 3개월 이후여야 함 |
+| 뉴질랜드 | 출국 후 3개월 | [영국 외무부](https://www.gov.uk/foreign-travel-advice/new-zealand/entry-requirements): 여권 만료일이 출국 예정일로부터 최소 3개월 이후여야 함 |
 
 이것은 완전한 목록이 아니며, 요구사항은 목적지뿐만 아니라 국적에 따라 다릅니다. 예약하기 전에 항상 정부의 공식 여행 자문을 확인하십시오.
 
@@ -69,9 +69,9 @@ Source: https://traveldocumentvault.com/ko/blog/passport-expiry-6-month-rule/
 
 ## 6개월 규칙이 적용되지 않는 경우
 
-많은 목적지는 여행 기간 외에 아무것도 요구하지 않습니다. 영국 외무부는 일본에 대해 명확히 밝히고 있습니다. 여권은 체류 기간 동안만 유효하면 되고, 추가 유효기간은 필요하지 않습니다. 호주와 미국도 같은 기준을 적용해 여권이 계획된 체류 기간 동안만 유효하면 됩니다.
+많은 목적지는 여행 기간 외에 아무것도 요구하지 않습니다. [영국 외무부](https://www.gov.uk/foreign-travel-advice/japan/entry-requirements)는 일본에 대해 명확히 밝히고 있습니다. 여권은 체류 기간 동안만 유효하면 되고, 추가 유효기간은 필요하지 않습니다. [호주](https://www.gov.uk/foreign-travel-advice/australia/entry-requirements)와 [미국](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements)도 같은 기준을 적용해 여권이 계획된 체류 기간 동안만 유효하면 됩니다.
 
-유럽은 그 중간에 위치하며, 사람들이 가장 자주 잘못 이해하는 등급입니다. 외무부에 따르면 솅겐 지역을 방문하려면 여권의 만료일이 출국 예정일로부터 최소 3개월 이상 남아 있어야 합니다. 6개월이 아니라 3개월입니다.
+유럽은 그 중간에 위치하며, 사람들이 가장 자주 잘못 이해하는 등급입니다. [외무부](https://www.gov.uk/foreign-travel-advice/france/entry-requirements)에 따르면 솅겐 지역을 방문하려면 여권의 만료일이 출국 예정일로부터 최소 3개월 이상 남아 있어야 합니다. 6개월이 아니라 3개월입니다.
 
 솅겐에는 첫 번째보다 훨씬 더 많은 사람을 걸려 넘어지게 하는 두 번째 조건이 있습니다. 발급일이 입국일로부터 10년이 채 되지 않아야 한다는 것입니다. 두 조건을 모두 충족해야 하며, 여권이 하나는 통과하고 다른 하나는 통과하지 못할 수 있습니다.
 
@@ -121,7 +121,7 @@ Source: https://traveldocumentvault.com/ko/blog/passport-expiry-6-month-rule/
 
 **이 글에 의존하기 전에:** 이 글은 블로그이며 공식 자료가 아닙니다. 규정과 세부 사항은 바뀌고, 여러분의 상황은 다를 수 있습니다. 저희는 게시하는 내용을 확인하지만 그래도 틀리거나 오래된 정보일 수 있습니다. 여기 적힌 내용이 계획에 중요하다면, 움직이기 전에 담당 기관에 확인하시기 바랍니다.
 
-확인한 출처 (2026년 11월 6일)
+공식 출처
 
 - [UK Foreign Office: USA entry requirements](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements)
 - [UK Foreign Office: France entry requirements](https://www.gov.uk/foreign-travel-advice/france/entry-requirements)

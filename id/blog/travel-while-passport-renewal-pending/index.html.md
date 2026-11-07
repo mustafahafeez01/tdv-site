@@ -28,9 +28,9 @@ Apakah Anda masih memegang paspor itu sepenuhnya bergantung pada negara dan meto
 
 ## Amerika Serikat: Perpanjangan Lewat Pos
 
-Perpanjangan paspor AS standar lewat pos berarti mengirimkan paspor Anda saat ini bersama permohonan, sehingga paspor itu tidak ada di tangan Anda selama menunggu. Anda mengisi formulir DS-82, menyertakan paspor Anda yang masih berlaku, dan mengirim semuanya ke National Passport Processing Center. Menurut USAGov, paspor lama Anda dikirim kembali secara terpisah, biasanya sekitar empat minggu setelah paspor baru Anda terima.
+Perpanjangan paspor AS standar lewat pos berarti mengirimkan paspor Anda saat ini bersama permohonan, sehingga paspor itu tidak ada di tangan Anda selama menunggu. Anda [mengisi formulir DS-82](https://www.usa.gov/renew-adult-passport), menyertakan paspor Anda yang masih berlaku, dan mengirim semuanya ke National Passport Processing Center. Menurut USAGov, paspor lama Anda dikirim kembali secara terpisah, biasanya sekitar empat minggu setelah paspor baru Anda terima.
 
-Artinya perjalanan domestik di dalam Amerika Serikat tidak terpengaruh selama proses perpanjangan berlangsung, Anda tidak memerlukan paspor untuk penerbangan domestik. Perjalanan internasional adalah cerita lain: Anda tidak bisa bepergian internasional sampai paspor baru tiba, dan Anda tidak bisa memakai paspor lama yang sudah dibatalkan meskipun masih ada di tangan Anda.
+Artinya perjalanan domestik di dalam Amerika Serikat tidak terpengaruh selama proses perpanjangan berlangsung, Anda [tidak memerlukan paspor untuk penerbangan domestik](https://www.tsa.gov/travel/security-screening/identification). Perjalanan internasional adalah cerita lain: Anda tidak bisa bepergian internasional sampai paspor baru tiba, dan Anda tidak bisa memakai paspor lama yang sudah dibatalkan meskipun masih ada di tangan Anda.
 
 Waktu pemrosesan standar bisa berubah, dan Departemen Luar Negeri AS menerbitkan angka terkininya di travel.state.gov, jadi periksa di sana sebelum merencanakan berdasarkan itu. Jika perjalanan Anda sudah dipesan sebelum paspor baru diperkirakan tiba, pemrosesan cepat tersedia dengan biaya tambahan dan bisa memangkas waktu tunggu secara signifikan. Untuk perjalanan yang benar-benar mendesak, janji temu langsung tersedia di kantor paspor regional, periksa kelayakan terkini di travel.state.gov.
 
@@ -38,7 +38,7 @@ Waktu pemrosesan standar bisa berubah, dan Departemen Luar Negeri AS menerbitkan
 
 Inggris punya dua jalur perpanjangan, dan keduanya berimplikasi sangat berbeda terhadap perjalanan. Metode yang Anda pakai menentukan apa yang mungkin dilakukan.
 
-**Perpanjangan pos:** Anda mengirim paspor Anda saat ini ke HM Passport Office bersama permohonan Anda. Paspor Anda berada di tangan mereka sepanjang proses, jadi Anda tidak bisa bepergian internasional. HM Passport Office menerbitkan waktu pemrosesan terkininya di situs webnya dan menyarankan untuk tidak memesan perjalanan sampai paspor baru Anda tiba. Layanan premium yang lebih cepat tersedia dengan biaya tambahan jika perjalanan Anda sudah dekat.
+**Perpanjangan pos:** Anda mengirim paspor Anda saat ini ke [HM Passport Office](https://www.gov.uk/renew-adult-passport/renew) bersama permohonan Anda. Paspor Anda berada di tangan mereka sepanjang proses, jadi Anda tidak bisa bepergian internasional. HM Passport Office menerbitkan waktu pemrosesan terkininya di situs webnya dan [menyarankan untuk tidak memesan perjalanan](https://www.gov.uk/renew-adult-passport) sampai paspor baru Anda tiba. Layanan premium yang lebih cepat tersedia dengan biaya tambahan jika perjalanan Anda sudah dekat.
 
 **Perpanjangan digital** saat ini tersedia untuk orang dewasa yang memenuhi syarat dan mengajukan dari dalam Inggris. Anda tetap memegang paspor Anda saat ini sepanjang proses, dan pemerintah menerbitkan paspor baru Anda secara terpisah lalu mengirimkannya kepada Anda. Karena paspor Anda yang ada tidak pernah lepas dari tangan Anda, Anda umumnya bisa tetap memakainya untuk bepergian selama paspor baru diproses. Kelayakan berbeda-beda tergantung kondisi masing-masing, jadi periksa situs web HM Passport Office untuk kriteria lengkap dan waktu terkini sebelum mengajukan.
 
@@ -52,7 +52,7 @@ Kantor Paspor Australia menerbitkan waktu pemrosesan terkininya dan menyarankan 
 
 ## Kanada: Diserahkan Saat Mengajukan
 
-Kanada mengharuskan Anda menyerahkan paspor Anda yang berlaku saat mengajukan perpanjangan. Paspor lama Anda ditahan sampai paspor baru siap, jadi Anda tidak bisa bepergian internasional selama periode ini, meskipun perjalanan domestik di dalam Kanada tidak memerlukan paspor.
+Kanada mengharuskan Anda [menyerahkan paspor Anda yang berlaku saat mengajukan perpanjangan](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html). Paspor lama Anda ditahan sampai paspor baru siap, jadi Anda tidak bisa bepergian internasional selama periode ini, meskipun perjalanan domestik di dalam Kanada tidak memerlukan paspor.
 
 Service Canada menerbitkan standar pemrosesan terkininya, yang berbeda-beda tergantung apakah Anda mengajukan langsung, lewat pos, atau di Service Canada Centre, ditambah waktu pengiriman pos di kedua cara tersebut. Untuk perjalanan mendesak, layanan ekspres dan pengambilan mendesak tersedia dengan biaya tambahan. Periksa waktu pemrosesan terkini dan ajukan di canada.ca.
 
@@ -94,7 +94,7 @@ Alasan orang berakhir dalam situasi ini bukan karena tidak tahu aturannya. Paspo
 
 **Sebelum Anda mengandalkan ini:** ini adalah blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 
-Sumber yang kami periksa (6 November 2026)
+Sumber resmi
 
 - [USAGov: Renew an adult passport](https://www.usa.gov/renew-adult-passport)
 - [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)

@@ -11,9 +11,9 @@ Source: https://traveldocumentvault.com/blog/digital-passport-copy-valid/
 ## Key Takeaways
 
 - Digital passport copies are accepted for **hotel check-in, flight bookings, and car rental reservations**, but not at borders or for airline boarding.
-- For international travel you will **generally need the original passport** at borders and for airline boarding. Some routes accept a national ID card instead (EU citizens travelling within the EU, for example), but never a copy.
+- For international travel you will **generally need the original passport** at borders and for airline boarding. Some routes accept a national ID card instead ([EU citizens travelling within the EU](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm), for example), but never a copy.
 - Digital copies have **no legal standing as travel documents**. They are supporting documentation only.
-- Visa applications ask for **specific formats**. Some want certified or notarised copies, others (many e-visas) take a clear scan of the photo page, and a casual phone photo is often rejected. Check the embassy website first.
+- Visa applications ask for **specific formats**. Some want certified or notarised copies, others ([many e-visas](https://indianvisaonline.gov.in/evisa/tvoa.html)) take a clear scan of the photo page, and a casual phone photo is often rejected. Check the embassy website first.
 - If your passport is lost abroad, a **copy of your photo page can help** your embassy confirm your details when you apply for a replacement.
 
 When planning a trip, many travellers wonder whether they can store a digital copy of their passport on their phone instead of carrying the original. You need to know exactly where it works and where it doesn't, so you don't end up caught out at check-in.
@@ -22,11 +22,11 @@ The short answer: a digital copy is genuinely useful, but only in specific situa
 
 ## A Digital Copy Is a Photo of Your Passport, Not a Digital Passport
 
-A digital copy of a passport is **a scan or phone photo of its identification page**, the page with your photo, name, date of birth, passport number and expiry date. It records your details without standing in for the document. Canada's government puts it plainly in its travel advice: copies can help if your documents are lost or stolen, but they can't be used as identification, and you still need to apply for a new passport if you lose yours.
+A digital copy of a passport is **a scan or phone photo of its identification page**, the page with your photo, name, date of birth, passport number and expiry date. It records your details without standing in for the document. [Canada's government](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings) puts it plainly in its travel advice: copies can help if your documents are lost or stolen, but they can't be used as identification, and you still need to apply for a new passport if you lose yours.
 
-Making one takes a couple of minutes. Open the passport flat in good light, photograph or scan the identification page so the whole page is sharp, then zoom in and check you can read every detail. Do the same for any visa you'll travel on. The UK's foreign travel checklist recommends a backup of your passport details that you share with family or keep on a secure data storage platform.
+Making one takes a couple of minutes. Open the passport flat in good light, photograph or scan the identification page so the whole page is sharp, then zoom in and check you can read every detail. Do the same for any visa you'll travel on. [The UK's foreign travel checklist](https://www.gov.uk/guidance/foreign-travel-checklist) recommends a backup of your passport details that you share with family or keep on a secure data storage platform.
 
-A copy also isn't the same as the digital IDs some governments now accept. In the US, the Transportation Security Administration lets US passport holders set up an ID pass in Google Wallet for its airport checkpoints, yet it still says all passengers must carry an acceptable physical ID. A photo in your camera roll is a backup of your details, which is exactly how to treat it.
+A copy also isn't the same as the digital IDs some governments now accept. In the US, the [Transportation Security Administration](https://www.tsa.gov/digital-id) lets US passport holders set up an ID pass in Google Wallet for its airport checkpoints, yet it still says all passengers must carry an acceptable physical ID. A photo in your camera roll is a backup of your details, which is exactly how to treat it.
 
 ## Where Digital Passport Copies Are Accepted
 
@@ -44,7 +44,7 @@ Car rental companies often accept digital passport copies for booking and deposi
 
 ### If Your Passport Is Lost, the Copy Speeds Things Up
 
-If your passport is lost or stolen while travelling, a copy of your photo page can help your embassy or consulate confirm your details when you apply for a replacement. You still need to apply for a new passport or an emergency travel document. This is one of the strongest reasons to always carry a digital backup.
+If your passport is lost or stolen while travelling, a copy of your photo page can help your embassy or consulate confirm your details when you apply for a replacement. You still need to apply for a new passport or [an emergency travel document](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport). This is one of the strongest reasons to always carry a digital backup.
 
 ![Hand-drawn chart of where a digital passport copy works: usually fine for hotel check-in, flight booking and car rental; original required at border control and airline boarding - the copy supports, the passport travels](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-where.jpg) The short version - a copy opens doors, only the original crosses borders.
 
@@ -89,7 +89,7 @@ If you haven't made one yet, scan your passport's photo page today, before you'r
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [Government of Canada: Lost or stolen belongings abroad](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings)
 - [UK Government: Foreign travel checklist](https://www.gov.uk/guidance/foreign-travel-checklist)

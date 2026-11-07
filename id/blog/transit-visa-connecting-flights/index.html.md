@@ -41,7 +41,7 @@ Visa transit wajib dimiliki dalam beberapa keadaan, dan persyaratannya sangat be
 
 **Schengen Airport Transit Visa (ATV)** berlaku bagi pemegang paspor non-UE tertentu yang melakukan koneksi yang sepenuhnya airside melalui bandara Schengen (negara anggota dalam beberapa kasus dapat menambahkan kewarganegaraan), meskipun banyak kewarganegaraan yang dibebaskan, begitu pula sebagian pemegang visa atau izin tinggal. Karena daftar pengecualian ini rumit dan berubah secara berkala, Anda tidak bisa berasumsi bahwa Anda termasuk yang dibebaskan. Basis data IATA Travel Centre memuat aturan terkini untuk kewarganegaraan dan tujuan spesifik Anda, jadi periksa di sana daripada menebak berdasarkan apa yang Anda ketahui tentang negara lain.
 
-**Inggris Raya** menawarkan transit airside bebas visa bagi banyak kewarganegaraan, tetapi yang lain memerlukan apa yang sekarang disebut Direct Airside Transit Visa (DATV). Seperti halnya Schengen, pembebasan ini terutama tergantung pada kewarganegaraan Anda, bukan hanya tujuan Anda, dan menurut GOV.UK Anda tidak memerlukan visa transit jika memiliki electronic travel authorisation (ETA) Inggris.
+**Inggris Raya** menawarkan transit airside bebas visa bagi banyak kewarganegaraan, tetapi yang lain memerlukan apa yang sekarang disebut Direct Airside Transit Visa (DATV). Seperti halnya Schengen, pembebasan ini terutama tergantung pada kewarganegaraan Anda, bukan hanya tujuan Anda, dan menurut [GOV.UK](https://www.gov.uk/transit-visa) Anda tidak memerlukan visa transit jika memiliki electronic travel authorisation (ETA) Inggris.
 
 Dalam kebanyakan kasus, penumpang yang transit dan tiba di **Amerika Serikat** melewati imigrasi dan bea cukai AS sebelum penerbangan berikutnya. Dalam praktiknya, ini lebih berkaitan dengan aturan masuk AS daripada aturan visa transit, jadi periksa aturan itu untuk paspor Anda sejak awal dan masukkan ke dalam rencana perjalanan Anda.
 
@@ -75,7 +75,7 @@ Jika Anda bepergian bersama keluarga, periksa paspor setiap anggota keluarga sat
 
 Sebelum memesan, periksa seluruh rute Anda, bukan hanya tujuan akhir, lewat IATA Travel Centre. Itulah pemeriksaan yang paling mungkin menangkap persyaratan yang terlewat selagi pemesanan masih bisa diubah.
 
-Sumber yang kami periksa (6 November 2026)
+Sumber resmi
 
 - [UK Government: Visa to pass through the UK in transit](https://www.gov.uk/transit-visa)
 - [EU law: Visa Code (Regulation 810/2009)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0810)

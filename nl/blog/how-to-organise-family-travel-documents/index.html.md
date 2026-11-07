@@ -39,13 +39,13 @@ Het hangt af van waar je heen gaat, maar voor de meeste internationale gezinsrei
 
 **Wat reizen met kinderen erbij brengt**
 
-- Geboorteaktes – soms vereist bij grenscontrole, vooral als de achternaam van het kind afwijkt van die van de reizende ouder
+- Geboorteaktes – [soms vereist bij grenscontrole](https://www.gov.uk/foreign-travel-advice/mexico/entry-requirements), vooral als de achternaam van het kind afwijkt van die van de reizende ouder
 - Een ondertekende toestemmingsverklaring als één ouder niet meereist – sterk aanbevolen bij reizen met een alleenreizende ouder of grootouders
 - Voogdijbeschikkingen, indien van toepassing
 
 ### Toestemmingsverklaring voor kinderen op reis: wanneer heb je die nodig
 
-Een toestemmingsverklaring voor een reizend kind is een ondertekend document van de afwezige ouder (of voogd) waarin toestemming wordt gegeven voor de reis van het kind. Het is doorgaans geen wettelijke verplichting, maar grensbeambten in sommige landen, waaronder Canada, kunnen om bewijs vragen dat beide ouders instemmen wanneer een kind met slechts één ouder of met een andere volwassene reist. Een brief is makkelijk mee te nemen en kan vragen aan de grens schelen.
+Een toestemmingsverklaring voor een reizend kind is een ondertekend document van de afwezige ouder (of voogd) waarin toestemming wordt gegeven voor de reis van het kind. Het is doorgaans geen wettelijke verplichting, maar grensbeambten in sommige landen, waaronder [Canada](https://travel.gc.ca/travelling/children/consent-letter), kunnen om bewijs vragen dat beide ouders instemmen wanneer een kind met slechts één ouder of met een andere volwassene reist. Een brief is makkelijk mee te nemen en kan vragen aan de grens schelen.
 
 Zuid-Afrika heeft eigen regels voor reizen met kinderen, waaronder een volledige geboorteakte. Controleer daarom voor vertrek de richtlijnen van Home Affairs.
 
@@ -57,7 +57,7 @@ Een geldige toestemmingsverklaring bevat: de volledige naam en geboortedatum van
 
 - Internationaal rijbewijs (als je in het buitenland een auto huurt)
 - Medische dossiers of receptgegevens voor doorlopende behandelingen
-- Europese zorgpas (EHIC), als je onder een zorgstelsel van een EU-land valt
+- Europese zorgpas (EHIC), als je [onder een zorgstelsel van een EU-land valt](https://europa.eu/youreurope/citizens/health/unplanned-healthcare/temporary-stays/index_en.htm)
 
 ## Fysieke organisatie: waar je de originelen bewaart
 
@@ -128,7 +128,7 @@ Als je dat nog niet hebt gedaan, kies dan de ene plek waar de paspoorten komen t
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 
-Bronnen die we hebben gecontroleerd (6 november 2026)
+Officiële bronnen
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [UK Foreign Office: Mexico entry requirements](https://www.gov.uk/foreign-travel-advice/mexico/entry-requirements)

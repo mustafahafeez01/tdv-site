@@ -36,7 +36,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/lost-passport-abroad/
 
 ## 步骤2：立即提交警方报告
 
-前往最近的警察局并报告护照丢失或被盗。您的保险公司通常会需要这份报告才能受理索赔，一些使领馆也会要求，但并非全部如此：例如加拿大政府表示更换护照并不需要警方报告。如果可以，我们会在一小时内办好，趁细节还记得清楚。
+前往最近的警察局并报告护照丢失或被盗。您的保险公司通常会需要这份报告才能受理索赔，一些使领馆也会要求，但并非全部如此：例如[加拿大政府](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings)表示更换护照并不需要警方报告。如果可以，我们会在一小时内办好，趁细节还记得清楚。
 
 要求一份带有案例号的书面副本。要求英文版本或翻译（如果可能）。拍张照片并安全地保留多份副本。
 
@@ -53,7 +53,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/lost-passport-abroad/
 
 ## 步骤4：申请紧急旅行证件
 
-您的大使馆签发紧急旅行证件（ETD）或紧急护照，通常仅对单程回家有效。所需时间因使馆和您的情况的紧急程度而异——致电时请询问。
+您的大使馆签发[紧急旅行证件](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport)（ETD）或紧急护照，通常仅对单程回家有效。所需时间因使馆和您的情况的紧急程度而异——致电时请询问。
 
 通常需要的内容（在访问前向大使馆确认）：
 
@@ -84,12 +84,11 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/lost-passport-abroad/
 
 **在依据本文行动之前：**这是一个博客，不是官方来源。规则和细节会变化，你的情况也可能不同。我们会核对所发布的内容，但仍可能出错或过时。如果这里的内容对你的安排很重要，请在行动前向主管机构核实。
 
-我们核对过的资料来源（2026年11月6日）
+官方资料来源
 
 - [Government of Canada: Lost or stolen belongings abroad](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings)
 - [UK Government: Travel urgently from abroad without your UK passport, How to apply](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport/how-to-apply)
 - [UK Government: Travel urgently from abroad without your UK passport, Who can apply](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport)
-- [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
 
 ## 常见问题
 
@@ -103,7 +102,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/lost-passport-abroad/
 
 ### 护照在国外被盗时是否需要警方报告？
 
-通常值得办理，但并非每个护照机构都要求。加拿大政府表示更换护照不需要警方报告，但有助于保险索赔；GOV.UK在办理英国紧急旅行证件时也没有将警方报告列为要求。一些使领馆确实会要求提供，大多数旅行保险公司在受理索赔时也需要。尽快从当地警察局获取，要求英文副本（如果可能），并保留多份副本。
+通常值得办理，但并非每个护照机构都要求。加拿大政府表示更换护照不需要警方报告，但有助于保险索赔；[GOV.UK](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport/how-to-apply)在办理英国紧急旅行证件时也没有将警方报告列为要求。一些使领馆确实会要求提供，大多数旅行保险公司在受理索赔时也需要。尽快从当地警察局获取，要求英文副本（如果可能），并保留多份副本。
 
 ### 旅行保险是否涵盖丢失或被盗的护照？
 

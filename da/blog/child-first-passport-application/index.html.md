@@ -10,10 +10,10 @@ Source: https://traveldocumentvault.com/da/blog/child-first-passport-application
 
 ## Vigtigste punkter
 
-- **Samtykke til at ansøge er ikke det samme som samtykke til at rejse.** Reglerne varierer fra land til land: I Storbritannien underskriver en person med forældreansvar for eksempel formularen, og du oplyser begge forældres oplysninger, mens andre lande kræver begge forældres samtykke. Tjek hos dit pasudstedende kontor.
+- **Samtykke til at ansøge er ikke det samme som samtykke til at rejse.** Reglerne varierer fra land til land: I Storbritannien underskriver [en person med forældreansvar](https://www.gov.uk/get-a-child-passport/first-child-passport) for eksempel formularen, og du oplyser begge forældres oplysninger, mens andre lande kræver begge forældres samtykke. Tjek hos dit pasudstedende kontor.
 - **De fleste ansøgninger kræver tre typer bevis:** bevis for identitet (fødselsattest), bevis for forældrenes identitet, og bevis for forældreskab.
 - **Babyfotos til pas har specifikke regler.** De fleste myndigheder vil have øjnene åbne og vendt mod kameraet (GOV.UK lemper dette for børn under 1 år og under 6 år), uden sut, legetøj eller andre hænder synlige – og baggrunden bag barnets hoved skal være ensfarvet og tydelig.
-- **Tjek alt, i det øjeblik det ankommer.** Stavning, forældrenavne hvor de forekommer, udløbsdato – især fordi børnepas ofte udløber tidligere end voksenpas (et britisk børnepas gælder i 5 år).
+- **Tjek alt, i det øjeblik det ankommer.** Stavning, forældrenavne hvor de forekommer, udløbsdato – især fordi børnepas ofte udløber tidligere end voksenpas ([et britisk børnepas gælder i 5 år](https://www.gov.uk/get-a-child-passport)).
 - **I lande, der kræver begge forældres samtykke, kan én forælder som regel ikke underskrive alene, medmindre der er en retsafgørelse, eneforældremyndighed, eller den anden forælder er død.** Er det din situation, har dit pasudstedende kontor en specifik proces at følge.
 
 Dit barns første pas er noget, du kun gør én gang – hvilket betyder, at du kan lære reglerne, før det sker, i stedet for at opdage dem ved skranken. Selve ansøgningen er ligetil, men samtykkeregler og fotokrav varierer fra land til land, og en lille fejl i starten betyder en afvist ansøgning og en forsinket rejse.
@@ -52,7 +52,7 @@ Pasudstedende myndigheder vil have tre ting, når du ansøger om et barns først
 
 Det er her, mange førstegangsansøgninger går galt. En baby eller et lille barn kan ikke følge fotoreglerne, som en voksen kan: babyer kan ikke sidde op, tumlinger kan ikke sidde stille eller forstå instruktioner, og nyfødte kan ikke se ind i kameraet på kommando. Pasfotostandarder er skrevet til voksne, og du skal forstå, hvordan du tilpasser dem, når motivet er et barn, der vejer 5 kilo og bevæger sig konstant.
 
-**Grundreglerne er stort set de samme:** barnets øjne bør generelt være åbne og vende mod kameraet, med en ensfarvet baggrund bag hovedet og intet andet i billedet. Nogle myndigheder lemper øjenreglerne for de yngste børn: GOV.UK kræver ikke åbne øjne under 1 år, eller et direkte kig mod kameraet under 6 år. Det, der ændrer sig, er, hvordan du får det til at ske.
+**Grundreglerne er stort set de samme:** barnets øjne bør generelt være åbne og vende mod kameraet, med en ensfarvet baggrund bag hovedet og intet andet i billedet. Nogle myndigheder lemper øjenreglerne for de yngste børn: [GOV.UK](https://www.gov.uk/photos-for-passports) kræver ikke åbne øjne under 1 år, eller et direkte kig mod kameraet under 6 år. Det, der ændrer sig, er, hvordan du får det til at ske.
 
 **For en nyfødt eller baby under 1 år:** fotografer barnet liggende på et ensfarvet hvidt eller lyst lagen eller tæppe. Lagenet bliver baggrunden. Stil dig direkte ovenover, så babyen kigger lige op mod kameraet med åbne øjne – er babyen sløv, så vent på et øjeblik, hvor den er vågen. Ingen legetøj, ingen sutter, ingen hænder, ingen anden person synlig i billedet ud over babyens eget hoved og skuldre.
 
@@ -86,7 +86,7 @@ Dette er et juridisk krav, der findes for at beskytte barnet, ikke en forhandlin
 
 Når passet er udstedt og leveret til dig, så brug fem minutter på at tjekke det, før du lægger det væk. Du kigger efter tre ting, der er nemme at rette nu og et mareridt at rette i lufthavnen.
 
-**Tjek stavningen.** Dit barns navn skal staves præcis, som det står på fødselsattesten eller det identitetsdokument, du brugte til at ansøge. Er det forkert, erstatter det pasudstedende kontor normalt passet gratis, hvis fejlen var deres, mens du kan skulle betale et gebyr, hvis fejlen stammer fra din ansøgning. Opdager du det ikke, før I er i lufthavnen, kan flyselskabet nægte ombordstigning, fordi navnet på billetten ikke matcher passet.
+**Tjek stavningen.** Dit barns navn skal staves præcis, som det står på fødselsattesten eller det identitetsdokument, du brugte til at ansøge. Er det forkert, [erstatter det pasudstedende kontor normalt passet gratis](https://www.gov.uk/government/publications/preventing-and-resolving-errors-on-passports/how-to-correct-errors-on-passports-accessible), hvis fejlen var deres, mens du kan skulle betale et gebyr, hvis fejlen stammer fra din ansøgning. Opdager du det ikke, før I er i lufthavnen, kan flyselskabet nægte ombordstigning, fordi navnet på billetten ikke matcher passet.
 
 **Tjek forældrenavne, hvor de forekommer.** Nogle lande trykker forældrenes eller værgernes navne på indersiden af et barns pas. Er navnene stavet forkert eller forkerte, så kontakt kontoret for at få det rettet.
 
@@ -94,7 +94,7 @@ Når passet er udstedt og leveret til dig, så brug fem minutter på at tjekke d
 
 Er noget forkert, så kontakt dit pasudstedende kontor, så snart du opdager det. Om rettelsen er gratis, afhænger af, hvem der begik fejlen, og jo længere du venter, desto sværere bliver det at få den rettet. Når alt stemmer, så læg passet direkte i din dokumentmappe med en notits om udløbsdatoen, så en fornyelse ikke overrasker dig.
 
-Kilder vi har tjekket (6. november 2026)
+Officielle kilder
 
 - [UK Government: Get a passport photo, Digital photos](https://www.gov.uk/photos-for-passports)
 - [UK Government: applying for a first child passport](https://www.gov.uk/get-a-child-passport/first-child-passport)

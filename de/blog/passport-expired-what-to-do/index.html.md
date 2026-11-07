@@ -30,7 +30,7 @@ Wie dringend Sie handeln müssen, bestimmt, was zu tun ist:
 - **Reichlich Zeit vor der Reise:** Stellen Sie online über die Website Ihrer Reisepassbehörde einen Antrag auf Standarderneuerung – GOV.UK für das Vereinigte Königreich, travel.state.gov für die USA.
 - **Reise rückt näher:** Beantragen Sie sofort und zahlen Sie für beschleunigte Bearbeitung. Sowohl das Vereinigte Königreich als auch die USA bieten online einen schnelleren kostenpflichtigen Service an, und beide veröffentlichen ihre aktuelle Bearbeitungszeit.
 - **Reise steht kurz bevor:** Rufen Sie Ihre Reisepassbehörde direkt an, statt sich nur auf die Website zu verlassen – die Beratungsstelle des HM Passport Office im Vereinigten Königreich oder das US National Passport Information Center in den USA.
-- **Reise ist unmittelbar bevorstehend:** Fragen Sie nach einem Notfalltermin und bringen Sie einen Nachweis Ihrer Reisedaten mit. Der 1 Day Premium Service im Vereinigten Königreich (nur für Erneuerungen von Erwachsenen) vergibt Termine ab 2 Tagen nach Antragstellung, und der Pass ist 4 Stunden nach dem Termin abholbereit; die USA veröffentlichen ihre Möglichkeiten für dringende Reisen auf travel.state.gov.
+- **Reise ist unmittelbar bevorstehend:** Fragen Sie nach einem Notfalltermin und bringen Sie einen Nachweis Ihrer Reisedaten mit. Der [1 Day Premium Service](https://www.gov.uk/get-a-passport-urgently) im Vereinigten Königreich (nur für Erneuerungen von Erwachsenen) vergibt Termine ab 2 Tagen nach Antragstellung, und der Pass ist 4 Stunden nach dem Termin abholbereit; die USA veröffentlichen ihre Möglichkeiten für dringende Reisen auf travel.state.gov.
 
 Wenn Ihre Frist knapp ist, **würden wir immer anrufen, statt allein der Website zu vertrauen.**
 
@@ -56,7 +56,7 @@ Ablauf bedeutet selten, noch einmal ganz von vorn anzufangen, denn in Großbrita
 
 ### Großbritannien: Ein abgelaufener Reisepass durchläuft die normale Verlängerung
 
-GOV.UK schreibt, Sie müssen Ihren Reisepass verlängern, bevor Sie reisen können, wenn er abgelaufen ist oder nicht genügend Restgültigkeit für Ihr Reiseziel hat. Ein abgelaufener Reisepass durchläuft die Standardverlängerung, online oder per Papierformular, und Sie benötigen dafür Ihren alten Reisepass. Erwachsenenreisepässe sind für Personen ab 16 Jahren, Kinderreisepässe haben ein eigenes Verfahren.
+[GOV.UK](https://www.gov.uk/renew-adult-passport/renew) schreibt, Sie müssen Ihren Reisepass verlängern, bevor Sie reisen können, wenn er abgelaufen ist oder nicht genügend Restgültigkeit für Ihr Reiseziel hat. Ein abgelaufener Reisepass durchläuft die Standardverlängerung, online oder per Papierformular, und Sie benötigen dafür Ihren alten Reisepass. Erwachsenenreisepässe sind für Personen ab 16 Jahren, Kinderreisepässe haben ein eigenes Verfahren.
 
 ### USA: Verlängerung funktioniert innerhalb von 15 Jahren nach Ausstellung
 
@@ -64,7 +64,7 @@ Für die Verlängerung eines abgelaufenen US-Reisepasses gelten eigene Vorausset
 
 ### Kanada: Ein abgelaufener Reisepass kann online verlängert werden
 
-Die kanadische Regierung erlaubt eine Verlängerung, wenn Ihr letzter Reisepass ein Erwachsenenreisepass war, der ausgestellt wurde, als Sie mindestens 16 Jahre alt waren. Er muss außerdem innerhalb von 15 Jahren vor Ihrem Antrag ausgestellt worden sein und eine Gültigkeit von 5 oder 10 Jahren haben. Sie können online verlängern, wenn Ihr Reisepass in den nächsten sechs Monaten abläuft oder bereits abgelaufen ist, sofern Ihre Wohn- und Postadresse in Kanada liegt. Kinderreisepässe können nicht verlängert werden, ein Kind braucht einen neuen Antrag.
+[Die kanadische Regierung](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html) erlaubt eine Verlängerung, wenn Ihr letzter Reisepass ein Erwachsenenreisepass war, der ausgestellt wurde, als Sie mindestens 16 Jahre alt waren. Er muss außerdem innerhalb von 15 Jahren vor Ihrem Antrag ausgestellt worden sein und eine Gültigkeit von 5 oder 10 Jahren haben. Sie können [online verlängern](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport/submit-form-fees/renew-online.html), wenn Ihr Reisepass in den nächsten sechs Monaten abläuft oder bereits abgelaufen ist, sofern Ihre Wohn- und Postadresse in Kanada liegt. Kinderreisepässe können nicht verlängert werden, ein Kind braucht einen neuen Antrag.
 
 Ist Ihr Reisepass schon vor Jahren abgelaufen, schauen Sie zuerst auf das Ausstellungsdatum, denn die 15-Jahres-Grenze in den USA und Kanada zählt vom Ausstellungsdatum, nicht vom Ablaufdatum. Prüfen Sie dann die aktuellen Bearbeitungszeiten, bevor Sie buchen - unser Leitfaden zu [wie lange eine Reisepassverlängerung dauert](https://traveldocumentvault.com/de/blog/how-long-does-passport-renewal-take/) behandelt das Land für Land.
 
@@ -110,7 +110,7 @@ Tun Sie das für jeden Reisepass in Ihrem Haushalt separat. Kinderreisepässe ve
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 
-Quellen, die wir geprüft haben (6. November 2026)
+Offizielle Quellen
 
 - [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
 - [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)

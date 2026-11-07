@@ -37,7 +37,7 @@ La logique est simple : les pays veulent l'assurance que vous ne resterez pas au
 
 Parfois, oui. Si votre destination exige seulement que le passeport reste valide pendant votre séjour, cinq mois restants suffisent généralement pour entrer. C'est le cas du Royaume-Uni pour la plupart des visiteurs, et les pays de l'espace Schengen demandent généralement trois mois au-delà de votre départ prévu plutôt que six.
 
-Si votre destination applique la règle des 6 mois, non. La Thaïlande, l'Indonésie, le Vietnam et bien d'autres refusent généralement l'entrée, et la compagnie aérienne refuse en général l'embarquement bien avant que vous n'atteigniez la frontière.
+Si votre destination applique la règle des 6 mois, non. La Thaïlande, l'[Indonésie](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements), le Vietnam et bien d'autres refusent généralement l'entrée, et la compagnie aérienne refuse en général l'embarquement bien avant que vous n'atteigniez la frontière.
 
 La réponse dépend donc de votre destination plutôt que du passeport en lui-même. Vérifiez l'exigence de la destination le jour où vous réservez, puis à nouveau la semaine de votre départ.
 
@@ -54,12 +54,12 @@ Le tableau suivant couvre les destinations les plus courantes. Les politiques ch
 | Philippines | 6 mois | Plus billet de continuation/retour requis |
 | Inde | 6 mois | Visa également requis pour la plupart des nationalités |
 | Kenya | 6 mois | Visa électronique requis ; règle des 6 mois s'applique |
-| Turquie | 150 jours à compter de l'arrivée | Foreign Office britannique : date d'expiration au moins 150 jours après la date de votre arrivée |
+| Turquie | 150 jours à compter de l'arrivée | [Foreign Office britannique](https://www.gov.uk/foreign-travel-advice/turkey/entry-requirements) : date d'expiration au moins 150 jours après la date de votre arrivée |
 | UE / Schengen | 3 mois au-delà du départ | Plus une date de délivrance de moins de 10 ans |
 | Royaume-Uni | Durée du séjour uniquement | Les citoyens britanniques à l'étranger restent soumis aux règles du pays de destination |
 | États-Unis | Durée du séjour uniquement | Les citoyens américains à l'étranger restent soumis aux règles du pays de destination |
 | Japon / Australie | Durée du séjour uniquement | Aucune règle d'extension de 6 mois pour les visiteurs |
-| Nouvelle-Zélande | 3 mois après le départ | Foreign Office britannique : date d'expiration au moins 3 mois après le jour de votre départ prévu |
+| Nouvelle-Zélande | 3 mois après le départ | [Foreign Office britannique](https://www.gov.uk/foreign-travel-advice/new-zealand/entry-requirements) : date d'expiration au moins 3 mois après le jour de votre départ prévu |
 
 Ce n'est pas une liste exhaustive, et les exigences varient selon votre nationalité — pas seulement selon la destination. Vérifiez toujours l'avis de voyage officiel de votre gouvernement avant de réserver.
 
@@ -69,9 +69,9 @@ Vérifiez toujours vos exigences spécifiques auprès du IATA Travel Centre, le 
 
 ## Quand la règle des 6 mois ne s'applique pas
 
-De nombreuses destinations ne demandent rien de plus que les dates de votre séjour. Le Foreign Office britannique le formule clairement pour le Japon : votre passeport doit rester valide pour la durée de votre séjour, sans période de validité supplémentaire exigée. L'Australie et les États-Unis appliquent la même règle et demandent seulement que votre passeport reste valide pour la durée de votre séjour prévu.
+De nombreuses destinations ne demandent rien de plus que les dates de votre séjour. Le [Foreign Office britannique](https://www.gov.uk/foreign-travel-advice/japan/entry-requirements) le formule clairement pour le Japon : votre passeport doit rester valide pour la durée de votre séjour, sans période de validité supplémentaire exigée. [L'Australie](https://www.gov.uk/foreign-travel-advice/australia/entry-requirements) et les [États-Unis](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements) appliquent la même règle et demandent seulement que votre passeport reste valide pour la durée de votre séjour prévu.
 
-L'Europe se situe entre les deux, et c'est la catégorie la plus souvent mal comprise. Pour visiter l'espace Schengen, le Foreign Office indique que votre passeport doit avoir une date d'expiration d'au moins trois mois après la date prévue de votre départ. Trois mois, pas six.
+L'Europe se situe entre les deux, et c'est la catégorie la plus souvent mal comprise. Pour visiter l'espace Schengen, le [Foreign Office](https://www.gov.uk/foreign-travel-advice/france/entry-requirements) indique que votre passeport doit avoir une date d'expiration d'au moins trois mois après la date prévue de votre départ. Trois mois, pas six.
 
 Il existe une seconde condition Schengen qui surprend bien plus souvent que la première : votre date de délivrance doit dater de moins de dix ans avant votre arrivée. Les deux conditions doivent être remplies, et un passeport peut satisfaire l'une tout en échouant sur l'autre.
 
@@ -121,7 +121,7 @@ Ces sources vous indiquent l'exigence officielle et si elle s'applique aux titul
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
-Sources vérifiées (6 novembre 2026)
+Sources officielles
 
 - [UK Foreign Office: USA entry requirements](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements)
 - [UK Foreign Office: France entry requirements](https://www.gov.uk/foreign-travel-advice/france/entry-requirements)

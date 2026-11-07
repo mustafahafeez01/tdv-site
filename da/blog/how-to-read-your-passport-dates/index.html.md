@@ -60,7 +60,7 @@ Udstedelsesdatoen holder op med at være en ligegyldig detalje, i det øjeblik e
 
 Britiske pas udstedt for nylig har ikke længere de ekstra måneder, men ældre pas, der har dem, er stadig i omløb og stadig i brug.
 
-Schengenlande anvender som regel to separate tests på et pas uden for EU ved grænsen: det skal være udstedt mindre end ti år før den dato, du ankommer, og det skal forblive gyldigt i mindst tre måneder efter, du planlægger at rejse hjem igen. Et pas med ni ekstra måneder kan sagtens bestå den anden test og alligevel fejle den første, hvilket er en svær samtale at have ved en skranke i Madrid med et dokument, der ikke er udløbet.
+Schengenlande anvender som regel to separate tests på et pas uden for EU ved grænsen: det skal være [udstedt mindre end ti år før den dato, du ankommer](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements), og det skal forblive gyldigt i mindst tre måneder efter, du planlægger at rejse hjem igen. Et pas med ni ekstra måneder kan sagtens bestå den anden test og alligevel fejle den første, hvilket er en svær samtale at have ved en skranke i Madrid med et dokument, der ikke er udløbet.
 
 Vi ville tjekke begge datoer før en europæisk rejse, ikke kun den nederste.
 
@@ -96,7 +96,7 @@ Brug fem minutter i dag på at finde begge datoer i dit eget pas, og i hvert bar
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du handler.
 
-Kilder vi har tjekket (6. november 2026)
+Officielle kilder
 
 - [UK Foreign Office: Spain entry requirements](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements)
 

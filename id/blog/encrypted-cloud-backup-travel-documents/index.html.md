@@ -28,7 +28,7 @@ Ada dua model yang sama-sama dijual sebagai cadangan terenkripsi, dan keduanya b
 
 Model pertama mengirim file ke server perusahaan melalui koneksi terenkripsi, lalu menyimpannya dalam keadaan terenkripsi saat disimpan. Kedua pernyataan itu benar, dan keduanya terdengar meyakinkan. Tetapi perusahaan tetap memegang kuncinya, sehingga secara teknis bisa mendekripsi dokumen Anda, baik untuk menjalankan fitur, memenuhi permintaan hukum, maupun akibat kesalahan internal. Pindaian paspor Anda tetap bisa dibaca di ujung sana.
 
-Model kedua mengacak file di ponsel Anda sebelum dikirim ke mana pun, menggunakan kunci yang diturunkan dari sesuatu yang hanya Anda miliki. Yang sampai ke penyimpanan hanyalah blok data acak, dan tidak ada yang di ujung sana bisa membacanya, karena tidak ada yang memegang kuncinya di sana. Model ini sering disebut terenkripsi end-to-end, atau zero-knowledge.
+Model kedua mengacak file di ponsel Anda sebelum dikirim ke mana pun, menggunakan kunci yang diturunkan dari sesuatu yang hanya Anda miliki. Yang sampai ke penyimpanan hanyalah blok data acak, dan tidak ada yang di ujung sana bisa membacanya, karena tidak ada yang memegang kuncinya di sana. Model ini sering disebut [terenkripsi end-to-end](https://csrc.nist.gov/glossary/term/end_to_end_encryption), atau zero-knowledge.
 
 Jadi pertanyaan yang layak diajukan pada aplikasi mana pun cukup singkat: **siapa yang memegang kuncinya?** Semua hal lain dalam materi pemasarannya mengikuti jawaban itu.
 
@@ -108,7 +108,7 @@ Tidak ada yang dramatis dari semua ini, dan justru itulah intinya. Keluarga yang
 
 **Sebelum Anda mengandalkan ini:** ini blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 
-Sumber yang kami periksa (6 November 2026)
+Sumber resmi
 
 - [NIST: end-to-end encryption glossary entry](https://csrc.nist.gov/glossary/term/end_to_end_encryption)
 

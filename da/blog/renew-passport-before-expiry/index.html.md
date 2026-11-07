@@ -22,7 +22,7 @@ Intet af det er en grund til at vente. Det er en grund til at vælge nogle still
 
 ## Der er ingen officiel venteperiode, før du kan forny
 
-HM Passport Office knytter fornyelse til to udløsere: dit pas er udløbet, eller det har ikke tid nok tilbage til det sted, du skal rejse til. Dets fornyelsesvejledning sætter ingen tidligste dato, og den siger, at hvor meget tid du har brug for, afhænger af det land, du besøger. USAGov opfordrer amerikanere til at forny i god tid, fordi sagsbehandlingstiderne varierer, og nogle lande og flyselskaber afviser indrejse, når et pas har mindre end seks måneder tilbage.
+HM Passport Office knytter fornyelse til to udløsere: dit pas er udløbet, eller det har ikke tid nok tilbage til det sted, du skal rejse til. Dets [fornyelsesvejledning](https://www.gov.uk/renew-adult-passport/renew) sætter ingen tidligste dato, og den siger, at hvor meget tid du har brug for, afhænger af det land, du besøger. [USAGov](https://www.usa.gov/renew-adult-passport) opfordrer amerikanere til at forny i god tid, fordi sagsbehandlingstiderne varierer, og nogle lande og flyselskaber afviser indrejse, når et pas har mindre end seks måneder tilbage.
 
 Canada sætter en grænse, og selv den er blød. Den canadiske regering siger, at hvis du ansøger mere end et år før dit pas udløber, vil den spørge hvorfor, og en postansøgning kræver en skriftlig forklaring. Dens online-fornyelsestjeneste er endnu mere snæver og er kun åben, når dit pas udløber inden for de næste seks måneder, eller allerede er udløbet.
 
@@ -30,13 +30,13 @@ Er du amerikaner, er der en grænse i den anden ende, der er værd at kende: USA
 
 ## Tidlig fornyelse i Storbritannien betyder, at du giver de resterende måneder tilbage
 
-Det er den reelle pris ved at forny tidligt, og den er mindre, end den lyder. HM Passport Offices historiske vejledning forklarer, at mellem november 2004 og oktober 2018 kunne alle, der fornyede før udløb, få op til ni ubrugte måneder tilføjet det nye pas. Siden oktober 2018 sker det ikke længere, så det gamle pas' resterende tid simpelthen bortfalder.
+Det er den reelle pris ved at forny tidligt, og den er mindre, end den lyder. HM Passport Offices [historiske vejledning](https://www.gov.uk/government/publications/historic-passport-information-caseworker-guidance/historic-passport-information-accessible) forklarer, at mellem november 2004 og oktober 2018 kunne alle, der fornyede før udløb, få op til ni ubrugte måneder tilføjet det nye pas. Siden oktober 2018 sker det ikke længere, så det gamle pas' resterende tid simpelthen bortfalder.
 
 Ansøger du ni måneder i forvejen, bytter du altså de ni måneder for et pas, du ikke behøver tænke på i et helt årti. Vi ville tage den handel hver gang, fordi alternativet er at forny mod klokken med en rejse allerede i kalenderen.
 
-Den gamle ekstra-måneders-regel efterlod én hage. GOV.UK's rejsevejledning for Spanien advarer om, at et pas, der er fornyet før oktober 2018, kan have en udstedelsesdato, der er mere end ti år gammel.
+Den gamle ekstra-måneders-regel efterlod én hage. GOV.UK's [rejsevejledning for Spanien](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements) advarer om, at et pas, der er fornyet før oktober 2018, kan have en udstedelsesdato, der er mere end ti år gammel.
 
-Det har betydning, fordi EU's Your Europe-vejledning siger, at et pas, der bruges til at indrejse i Schengen-området, skal være udstedt inden for de seneste ti år. Det skal også forblive gyldigt i mindst tre måneder efter din afrejse. Et pas, der ser fint ud, hvis man kun ser på udløbsdatoen, kan stadig komme til kort i Europa. Hvis dit er udstedt under den gamle regel, så tjek udstedelsesdatoen såvel som udløbsdatoen, og vores guide om [hvor længe et pas er gyldigt til rejser](https://traveldocumentvault.com/da/blog/how-long-is-passport-valid-for-travel/) gennemgår begge.
+Det har betydning, fordi EU's [Your Europe-vejledning](https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm) siger, at et pas, der bruges til at indrejse i Schengen-området, skal være udstedt inden for de seneste ti år. Det skal også forblive gyldigt i mindst tre måneder efter din afrejse. Et pas, der ser fint ud, hvis man kun ser på udløbsdatoen, kan stadig komme til kort i Europa. Hvis dit er udstedt under den gamle regel, så tjek udstedelsesdatoen såvel som udløbsdatoen, og vores guide om [hvor længe et pas er gyldigt til rejser](https://traveldocumentvault.com/da/blog/how-long-is-passport-valid-for-travel/) gennemgår begge.
 
 ## Dit gamle pas stopper med at virke, så snart det nye er godkendt
 
@@ -52,8 +52,8 @@ Hver fornyelse kommer med et nyt nummer. HM Passport Office kobler det med sit m
 
 Alt, der allerede er knyttet til det gamle nummer, er værd at kigge på, før din næste rejse:
 
-- **Et amerikansk ESTA** skal der ansøges om igen. US Customs and Border Protection siger, at et nyt ESTA er påkrævet, når den rejsende får udstedt et nyt pas.
-- GOV.UK siger, at **et britisk ETA** er knyttet til det pas, du ansøgte med, og gælder i to år eller til det pas udløber, alt efter hvad der kommer først. Tjek, hvor dit står, før du flyver på det nye, og vores guide om [hvilket pas et britisk ETA er bundet til](https://traveldocumentvault.com/da/blog/uk-eta-passport-rules/) dækker detaljerne.
+- **Et amerikansk ESTA** skal der ansøges om igen. [US Customs and Border Protection](https://www.cbp.gov/travel/international-visitors/esta/frequently-asked-questions-about-visa-waiver-program-vwp-and-electronic-system-travel) siger, at et nyt ESTA er påkrævet, når den rejsende får udstedt et nyt pas.
+- [GOV.UK](https://www.gov.uk/eta/apply) siger, at **et britisk ETA** er knyttet til det pas, du ansøgte med, og gælder i to år eller til det pas udløber, alt efter hvad der kommer først. Tjek, hvor dit står, før du flyver på det nye, og vores guide om [hvilket pas et britisk ETA er bundet til](https://traveldocumentvault.com/da/blog/uk-eta-passport-rules/) dækker detaljerne.
 - For **et visum i det gamle pas** er det almindelige svar at medbringe begge. Et visum i dit gamle pas forbliver som regel gyldigt, så medbring begge pas, og tjek det udstedende lands officielle vejledning.
 - **Flyrejser og hoteller** booket med dine gamle pasoplysninger kan have brug for, at det nye nummer tilføjes, en let opgave hjemmefra og en akavet opgave ved en indtjekningsskranke.
 
@@ -65,13 +65,13 @@ Vores holdning er enkel: begynd at tænke på fornyelse, når et pas når ned ti
 
 Den anden halvdel er at vælge hvornår inden for det vindue. Find nogle uger uden noget booket, da det gamle pas sendes ind med ansøgningen, og det nye kommer tilbage med et andet nummer.
 
-HM Passport Office siger, at du normalt får et pas inden for tre uger, længere hvis det kræver flere oplysninger eller en samtale, og klokken starter, når den modtager dine dokumenter. I Canada kan onlinefornyelse tage op til 20 hverdage plus posttid. For hvad der typisk bremser en ansøgning, har vores guide om [hvor lang tid pasfornyelse tager](https://traveldocumentvault.com/da/blog/how-long-does-passport-renewal-take/) detaljerne.
+[HM Passport Office](https://www.gov.uk/government/organisations/hm-passport-office/about/about-our-services) siger, at du normalt får et pas inden for tre uger, længere hvis det kræver flere oplysninger eller en samtale, og klokken starter, når den modtager dine dokumenter. I Canada kan onlinefornyelse tage op til 20 hverdage plus posttid. For hvad der typisk bremser en ansøgning, har vores guide om [hvor lang tid pasfornyelse tager](https://traveldocumentvault.com/da/blog/how-long-does-passport-renewal-take/) detaljerne.
 
 Er en familierejse i sigte, så tjek alle pas i husstanden på samme tid. I Storbritannien udsteder HM Passport Office børnepas i fem år i stedet for ti, så det pas, der først skal fornyes, ofte ikke er det, du ville forvente. Skal nogen hen, hvor der kræves ekstra gyldighed ved ankomst, så tjek vores guide om [6-måneders-reglen for pas](https://traveldocumentvault.com/da/blog/passport-expiry-6-month-rule/) for, hvordan det flytter din dato.
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 
-Kilder vi har tjekket (6. november 2026)
+Officielle kilder
 
 - [USAGov: Renew an adult passport](https://www.usa.gov/renew-adult-passport)
 - [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)

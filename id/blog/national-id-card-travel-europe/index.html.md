@@ -30,15 +30,15 @@ Fleksibilitas ini paling terasa di wilayah Schengen. Sebagai warga negara UE den
 
 ## Apa yang Dianggap sebagai Kartu Identitas Nasional EEA
 
-Ketika formulir pemesanan atau petugas check-in menanyakan "kartu identitas nasional EEA", yang mereka maksud adalah kartu identitas yang diterbitkan negara Anda sendiri untuk warganya, yang mencantumkan kewarganegaraan Anda. EEA terdiri dari 27 negara anggota UE ditambah Islandia, Liechtenstein, dan Norwegia; Swiss berada di luar EEA, tetapi panduan Your Europe dari Komisi Eropa menegaskan warga negara UE tetap dapat bepergian ke sana dengan kartu identitas nasional.
+Ketika formulir pemesanan atau petugas check-in menanyakan "kartu identitas nasional EEA", yang mereka maksud adalah kartu identitas yang diterbitkan negara Anda sendiri untuk warganya, yang mencantumkan kewarganegaraan Anda. EEA terdiri dari 27 negara anggota UE ditambah Islandia, Liechtenstein, dan Norwegia; Swiss berada di luar EEA, tetapi [panduan Your Europe](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm) dari Komisi Eropa menegaskan warga negara UE tetap dapat bepergian ke sana dengan kartu identitas nasional.
 
-Kartu izin tinggal menunjukkan tempat Anda tinggal, bukan kewarganegaraan Anda, sehingga kartu ini menyertai paspor, bukan menggantikannya. Pemerintah Inggris mengarahkan warga Inggris yang tinggal di Spanyol untuk menunjukkan bukti tempat tinggal, seperti kartu izin tinggal TIE, saat menunjukkan paspor di pos perbatasan Spanyol. SIM, kartu bank, dan kartu pajak juga tidak termasuk, dan Your Europe memperingatkan bahwa dokumen-dokumen ini bisa ditolak sebagai bukti identitas.
+Kartu izin tinggal menunjukkan tempat Anda tinggal, bukan kewarganegaraan Anda, sehingga kartu ini menyertai paspor, bukan menggantikannya. [Pemerintah Inggris](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements) mengarahkan warga Inggris yang tinggal di Spanyol untuk menunjukkan bukti tempat tinggal, seperti kartu izin tinggal TIE, saat menunjukkan paspor di pos perbatasan Spanyol. SIM, kartu bank, dan kartu pajak juga tidak termasuk, dan Your Europe memperingatkan bahwa dokumen-dokumen ini bisa ditolak sebagai bukti identitas.
 
 Kartu UE saat ini mudah dikenali. Ukurannya sebesar kartu kredit, memiliki zona baca mesin (deretan kode yang dibaca pemindai), dan menampilkan kode dua huruf negara penerbit dalam kotak biru yang dikelilingi 12 bintang kuning di bagian depan. Di dalamnya terdapat chip yang menyimpan foto dan dua sidik jari Anda.
 
-Kartu lama adalah yang paling sering membuat orang terjebak. Berdasarkan regulasi UE tentang kartu identitas, kartu tanpa zona baca mesin yang berfungsi, atau yang berada di bawah standar keamanan minimum internasional, berhenti berlaku sejak 3 Agustus 2026, meskipun tanggal yang tercetak lebih lambat dari itu. Kebanyakan kartu format lama lainnya tetap berlaku hingga tanggal kedaluwarsa yang tercetak atau 3 Agustus 2031, mana yang lebih dulu. Jika kartu Anda lebih tua dari versi dengan kode berbintang dan tidak memiliki zona baca mesin, kami sarankan memperpanjangnya sekarang daripada mengujinya di gerbang perbatasan.
+Kartu lama adalah yang paling sering membuat orang terjebak. Berdasarkan [regulasi UE tentang kartu identitas](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1157), kartu tanpa zona baca mesin yang berfungsi, atau yang berada di bawah standar keamanan minimum internasional, berhenti berlaku sejak 3 Agustus 2026, meskipun tanggal yang tercetak lebih lambat dari itu. Kebanyakan kartu format lama lainnya tetap berlaku hingga tanggal kedaluwarsa yang tercetak atau 3 Agustus 2031, mana yang lebih dulu. Jika kartu Anda lebih tua dari versi dengan kode berbintang dan tidak memiliki zona baca mesin, kami sarankan memperpanjangnya sekarang daripada mengujinya di gerbang perbatasan.
 
-Untuk Inggris, kartu ini biasanya tidak berlaku. Inggris umumnya hanya menerima kartu ID UE, EEA, atau Swiss untuk kelompok terbatas, seperti pemegang settled status atau pre-settled status, jadi periksa GOV.UK sebelum bepergian ke Inggris.
+Untuk Inggris, kartu ini biasanya tidak berlaku. Inggris umumnya hanya menerima kartu ID UE, EEA, atau Swiss untuk kelompok terbatas, seperti pemegang settled status atau pre-settled status, jadi periksa [GOV.UK](https://www.gov.uk/guidance/visiting-the-uk-as-an-eu-eea-or-swiss-citizen) sebelum bepergian ke Inggris.
 
 ## Kapan Anda Membutuhkan Paspor
 
@@ -85,7 +85,7 @@ Yang membantu adalah satu tempat untuk kedua dokumen, yang menyimpan masing-masi
 
 Mulailah hari ini: ambil kartu ID Anda, periksa tanggal kedaluwarsanya, dan amati apakah ada retak, pudar, atau plastik yang melengkung. Kalau kondisinya mendekati batas, ajukan perpanjangan sebelum Anda memesan perjalanan.
 
-Sumber yang kami periksa (6 November 2026)
+Sumber resmi
 
 - [Your Europe (EU): Travel documents for EU nationals](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm)
 - [EU law: Regulation 2019/1157 on identity cards](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1157)

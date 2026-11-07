@@ -22,7 +22,7 @@ Dos reglas y un detalle peculiar de los pasaportes infantiles explican casi todo
 
 ## La Verdadera Regla de Schengen: 3 Meses Después de la Salida
 
-El requisito de la UE es preciso: tu pasaporte debe ser válido durante al menos 3 meses después de la fecha en que tienes la intención de dejar el área de Schengen, y debe haber sido emitido en los últimos 10 años.
+El requisito de la UE es preciso: [tu pasaporte debe ser válido durante al menos 3 meses después de la fecha en que tienes la intención de dejar el área de Schengen](https://www.gov.uk/foreign-travel-advice/france/entry-requirements), y debe haber sido emitido en los últimos 10 años.
 
 Imagina que tu familia regresa de Italia el 20 de agosto. Cada pasaporte necesita validez hasta aproximadamente el 20 de noviembre —eso son tres meses después de tu fecha de salida, no tu llegada, y no tu fecha de reserva. Un pasaporte que caduca el 10 de noviembre no pasa esa prueba, incluso aunque las vacaciones terminen semanas antes.
 
@@ -30,7 +30,7 @@ La condición de emisión dentro de 10 años afecta a las familias británicas d
 
 ## Por Qué Esto No Es la Regla de 6 Meses
 
-La mayoría de los viajeros absorben la idea de que los pasaportes necesitan seis meses de validez para ir a cualquier lugar. Esa regla es real —Tailandia pide seis meses de validez, y muchos otros países aplican una versión de ella. Pero Schengen no. Europa pide tres meses después de la salida, que es más amable, y sin embargo los dos se mezclan en un vago "seis meses desde algún lugar" que produce tanto alarmas falsas como confianza falsa.
+La mayoría de los viajeros absorben la idea de que los pasaportes necesitan seis meses de validez para ir a cualquier lugar. Esa regla es real —[Tailandia pide seis meses de validez](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), y muchos otros países aplican una versión de ella. Pero Schengen no. Europa pide tres meses después de la salida, que es más amable, y sin embargo los dos se mezclan en un vago "seis meses desde algún lugar" que produce tanto alarmas falsas como confianza falsa.
 
 Nuestra guía sobre [la regla de 6 meses](https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/) cubre qué países la aplican realmente. Nuestro [explicador de validez de pasaporte](https://traveldocumentvault.com/es/blog/how-long-is-passport-valid-for-travel/) maneja el caso general. Nos estamos quedando con Schengen aquí porque es donde las familias más a menudo se equivocan con las matemáticas de manera sutil.
 
@@ -38,7 +38,7 @@ Nuestra guía sobre [la regla de 6 meses](https://traveldocumentvault.com/es/blo
 
 ## Los Pasaportes de Niños Funcionan en un Reloj Más Rápido
 
-Los pasaportes británicos de adultos duran 10 años, mientras que el Reino Unido expide los de niños solo por cinco. Esa asimetría es donde muchos planes cuidadosos fracasan.
+[Los pasaportes británicos de adultos duran 10 años](https://www.gov.uk/apply-first-adult-passport), mientras que [el Reino Unido expide los de niños solo por cinco](https://www.gov.uk/get-a-child-passport). Esa asimetría es donde muchos planes cuidadosos fracasan.
 
 | País | Pasaportes infantiles | Validez |
 |---|---|---|
@@ -60,13 +60,13 @@ Un pasaporte fallido rara vez deja varado a una persona; deja en tierra a toda l
 
 La solución es simple y solo toma minutos. El día que reservas, reúne cada pasaporte en el hogar y anota cada fecha de caducidad y fecha de emisión. Luego haz dos preguntas para cada uno: ¿seguirá siendo válido tres meses después de tu regreso, y fue emitido hace menos de diez años. Cualquier cosa que no pase ninguna de las dos pruebas entra en la cola de renovación esa semana —en ese punto, aún puedes renovar, redirigir el viaje, o cambiar tus fechas sin penalización, y nosotros siempre elegiríamos renovar antes que esperar a ver si las fechas se mueven.
 
-Los niños necesitan el mismo amortiguador que los adultos. No hay excepción infantil para las normas de validez —el pasaporte de un niño de cinco años obtiene el mismo tratamiento de Timatic que el tuyo. Una observación para los viajes británicos e irlandeses: Irlanda no está en Schengen en absoluto. Los viajes UK-Irlanda se rigen por el Área de Viaje Común separada, así que no generalices desde un viaje a Dublín a uno a París.
+Los niños necesitan el mismo amortiguador que los adultos. No hay excepción infantil para las normas de validez —el pasaporte de un niño de cinco años obtiene el mismo tratamiento de Timatic que el tuyo. Una observación para los viajes británicos e irlandeses: Irlanda no está en Schengen en absoluto. Los viajes UK-Irlanda se rigen por el [Área de Viaje Común separada](https://www.gov.uk/foreign-travel-advice/ireland/entry-requirements), así que no generalices desde un viaje a Dublín a uno a París.
 
 Nada de esto necesita una aplicación. Una hoja de cálculo ayuda a muchas familias, y un recordatorio de calendario dos veces al año maneja la mayor parte del trabajo. Lo único innegociable: haz la auditoría en el momento de la reserva, cuando un pasaporte corto es un recado, no una emergencia.
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 
-Fuentes que hemos comprobado (6 de noviembre de 2026)
+Fuentes oficiales
 
 - [UK Foreign Office: France entry requirements](https://www.gov.uk/foreign-travel-advice/france/entry-requirements)
 - [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
@@ -80,7 +80,7 @@ Fuentes que hemos comprobado (6 de noviembre de 2026)
 
 ### ¿Cuál es la diferencia entre la regla de 6 meses y la regla de 3 meses de Schengen?
 
-Son reglas separadas para destinos diferentes. Países como Tailandia e Indonesia generalmente requieren 6 meses de validez restante. Schengen requiere 3 meses de validez después de la fecha en que te vas, más un pasaporte emitido en los últimos 10 años. Las familias que han viajado al sudeste asiático a menudo asumen que la cifra de 6 meses se aplica en todas partes, pero no es así.
+Son reglas separadas para destinos diferentes. Países como Tailandia e [Indonesia](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements) generalmente requieren 6 meses de validez restante. Schengen requiere 3 meses de validez después de la fecha en que te vas, más un pasaporte emitido en los últimos 10 años. Las familias que han viajado al sudeste asiático a menudo asumen que la cifra de 6 meses se aplica en todas partes, pero no es así.
 
 ### ¿Los niños siguen diferentes normas de pasaporte Schengen?
 

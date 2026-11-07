@@ -36,7 +36,7 @@ Dina försäkringshandlingar finns hos den som sålde dig försäkringen, så b�
 
 Om du inte alls minns att du köpt en försäkring, kontrollera ditt bankkonto. Den brittiska finansombudsmannen (Financial Ombudsman Service) beskriver ett paketkonto som ett vanligt konto som tar ut en månadsavgift i utbyte mot extra förmåner, reseförsäkring bland dem. I så fall är banken oftast det första stället att fråga, så prova dess app, webbplats eller kundtjänst.
 
-När du har dem rekommenderar brittiska utrikesdepartementet (Foreign, Commonwealth and Development Office) att du tar med dig försäkringsuppgifterna, inklusive försäkringsnumret och försäkringsbolagets akutnummer. De föreslår också att du delar dem med dina medresenärer och familjen hemma. Hittar du fortfarande ingenting, ring försäkringsbolaget, eller banken för paketförsäkring, och be dem skicka handlingarna igen innan du flyger i stället för efter att något har gått fel.
+När du har dem rekommenderar brittiska utrikesdepartementet ([Foreign, Commonwealth and Development Office](https://www.gov.uk/guidance/foreign-travel-insurance)) att du tar med dig försäkringsuppgifterna, inklusive försäkringsnumret och försäkringsbolagets akutnummer. De föreslår också att du delar dem med dina medresenärer och familjen hemma. Hittar du fortfarande ingenting, ring försäkringsbolaget, eller banken för paketförsäkring, och be dem skicka handlingarna igen innan du flyger i stället för efter att något har gått fel.
 
 ## De fem dokument du måste spara före du flyger
 
@@ -146,7 +146,7 @@ Tjugo minuter nu, och du kommer inte letar efter något av det i en kris.
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 
-Källor vi har kontrollerat (6 november 2026)
+Officiella källor
 
 - [UK Government: Foreign travel insurance](https://www.gov.uk/guidance/foreign-travel-insurance)
 

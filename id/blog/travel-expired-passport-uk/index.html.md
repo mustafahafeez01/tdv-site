@@ -50,23 +50,23 @@ Jika perpanjangan sudah dalam proses, itu pertanyaan yang berbeda, dan jawabanny
 
 Paspor yang sudah kedaluwarsa diperpanjang, bukan diajukan lagi dari awal. GOV.UK mencantumkan paspor yang sudah kedaluwarsa sebagai salah satu dari dua alasan Anda harus memperpanjang sebelum bepergian, selain sisa masa berlaku yang tidak mencukupi, sehingga bagi sebagian besar orang jalurnya adalah layanan perpanjangan dewasa standar.
 
-Pengecualiannya menyangkut paspor lama. Jika paspor Inggris terakhir Anda diterbitkan sebelum 1 Januari 1994, HM Passport Office meminta Anda mengajukan paspor dewasa pertama sebagai gantinya, jadi ada baiknya memeriksa tanggal penerbitan sebelum Anda memulai.
+Pengecualiannya menyangkut paspor lama. Jika paspor Inggris terakhir Anda diterbitkan sebelum 1 Januari 1994, HM Passport Office meminta Anda [mengajukan paspor dewasa pertama](https://www.gov.uk/apply-first-adult-passport) sebagai gantinya, jadi ada baiknya memeriksa tanggal penerbitan sebelum Anda memulai.
 
 Anda bisa mengajukan secara daring, yang memerlukan foto digital, atau melalui formulir kertas, yang memerlukan dua foto cetak identik. Apa pun caranya, Anda akan mengirimkan paspor lama Anda bersama permohonan. Jika paspor itu memuat visa yang masih berlaku, GOV.UK menyarankan untuk mengirimkan paspor beserta visanya, dan paspor lama akan dikembalikan kepada Anda.
 
-Satu detail yang sering mengejutkan orang begitu paspor baru tiba: **nomornya berbeda**. Karena alasan itu, GOV.UK menyarankan untuk tidak memesan perjalanan sampai Anda memegang paspor baru, dan apa pun yang sudah dibuat dengan nomor lama - seperti pemesanan maskapai atau otorisasi perjalanan untuk negara lain - mungkin perlu diperbarui. Panduan kami tentang [membaca tanggal pada paspor Anda](https://traveldocumentvault.com/id/blog/how-to-read-your-passport-dates/) menjelaskan apa yang berubah saat perpanjangan dan apa yang tetap sama.
+Satu detail yang sering mengejutkan orang begitu paspor baru tiba: **nomornya berbeda**. Karena alasan itu, [GOV.UK](https://www.gov.uk/renew-adult-passport) menyarankan untuk tidak memesan perjalanan sampai Anda memegang paspor baru, dan apa pun yang sudah dibuat dengan nomor lama - seperti pemesanan maskapai atau otorisasi perjalanan untuk negara lain - mungkin perlu diperbarui. Panduan kami tentang [membaca tanggal pada paspor Anda](https://traveldocumentvault.com/id/blog/how-to-read-your-passport-dates/) menjelaskan apa yang berubah saat perpanjangan dan apa yang tetap sama.
 
 ## Perjalanan Domestik: Fleksibilitas Terbatas dengan Identitas Alternatif
 
 Perjalanan domestik di dalam Inggris dan Irlandia berlaku sedikit berbeda: maskapai mungkin menerima identitas berfoto alternatif seperti SIM Inggris atau kartu identitas nasional sebagai pengganti paspor. Namun, apa yang diterima sangat bervariasi tergantung maskapai dan tujuan, jadi Anda tidak bisa berasumsi identitas tertentu pasti akan diterima.
 
-**Itu bukan berarti Anda bisa melewatkan perpanjangan paspor.** Kebijakan maskapai untuk rute domestik berbeda-beda: sebagian mewajibkan paspor untuk semua perjalanan ke Irlandia meskipun Common Travel Area secara teknis mengizinkan perjalanan dengan kartu identitas, sementara yang lain menerima SIM. Maskapai juga memperbarui aturannya, dan maskapai Anda mungkin telah mengubah kebijakannya sejak terakhir kali Anda terbang, jadi Anda tidak bisa berasumsi bahwa yang berlaku sebelumnya akan berlaku lagi.
+**Itu bukan berarti Anda bisa melewatkan perpanjangan paspor.** Kebijakan maskapai untuk rute domestik berbeda-beda: sebagian mewajibkan paspor untuk semua perjalanan ke Irlandia meskipun [Common Travel Area](https://www.gov.uk/foreign-travel-advice/ireland/entry-requirements) secara teknis mengizinkan perjalanan dengan kartu identitas, sementara yang lain menerima SIM. Maskapai juga memperbarui aturannya, dan maskapai Anda mungkin telah mengubah kebijakannya sejak terakhir kali Anda terbang, jadi Anda tidak bisa berasumsi bahwa yang berlaku sebelumnya akan berlaku lagi.
 
 Jika Anda mempertimbangkan perjalanan domestik dengan paspor yang sudah kedaluwarsa, hubungi maskapai Anda setidaknya 48 jam sebelum penerbangan dan tanyakan secara eksplisit: "Paspor Inggris saya sudah kedaluwarsa. Apakah Anda akan menerima SIM Inggris saya sebagai gantinya?" Dapatkan konfirmasi tertulis jika memungkinkan, karena datang ke konter check-in dengan identitas alternatif tanpa konfirmasi sebelumnya adalah cara orang ketinggalan pesawat.
 
 ## Perpanjangan Darurat: Layanan Premium, Jika Anda Mendapat Slot
 
-Jika perjalanan Anda sudah dekat dan paspor Anda kedaluwarsa, His Majesty's Passport Office menawarkan layanan 1 Day Premium yang dirancang khusus untuk situasi seperti ini. GOV.UK menyatakan janji temu paling cepat tersedia 2 hari setelah Anda mengajukan, dan paspor baru siap diambil 4 jam setelah janji temu tersebut. His Majesty's Passport Office mempublikasikan biaya terkini di gov.uk, dan biaya itu mencakup janji temu serta perpanjangan sekaligus, bukan tambahan di atas biaya standar. Paspor Anda yang diperbarui akan tiba jauh lebih cepat dibanding jalur standar, meski seberapa cepat tergantung janji temu yang bisa Anda dapatkan. Perlu diketahui, layanan 1 Day Premium ini hanya untuk perpanjangan dewasa, bukan untuk paspor pertama bagi orang dewasa.
+Jika perjalanan Anda sudah dekat dan paspor Anda kedaluwarsa, His Majesty's Passport Office menawarkan layanan 1 Day Premium yang dirancang khusus untuk situasi seperti ini. [GOV.UK](https://www.gov.uk/get-a-passport-urgently) menyatakan janji temu paling cepat tersedia 2 hari setelah Anda mengajukan, dan paspor baru siap diambil 4 jam setelah janji temu tersebut. His Majesty's Passport Office mempublikasikan biaya terkini di gov.uk, dan biaya itu mencakup janji temu serta perpanjangan sekaligus, bukan tambahan di atas biaya standar. Paspor Anda yang diperbarui akan tiba jauh lebih cepat dibanding jalur standar, meski seberapa cepat tergantung janji temu yang bisa Anda dapatkan. Perlu diketahui, layanan 1 Day Premium ini hanya untuk perpanjangan dewasa, bukan untuk paspor pertama bagi orang dewasa.
 
 Ini adalah jalur darurat resmi untuk kendala perjalanan yang sesungguhnya. Panduan resmi saat ini menyarankan sekitar 3 minggu untuk perpanjangan standar, dan hampir semua permohonan diproses dalam jangka waktu tersebut, tetapi ketika sebuah perjalanan benar-benar tidak bisa ditunda, opsi Premium menghilangkan ketidakpastian tersebut.
 
@@ -92,7 +92,7 @@ Jika paspor Anda sudah kedaluwarsa dan Anda mencari tahu langkah selanjutnya, [a
 
 ## Jika Anda Sudah Berada di Luar Negeri dan Paspor Anda Kedaluwarsa
 
-Paspor Anda kedaluwarsa saat Anda masih di luar negeri adalah skenario paling sulit untuk direncanakan. Jika paspor kedaluwarsa sebelum Anda kembali, Anda tidak bisa naik penerbangan atau feri pulang, dan Anda perlu menghubungi kedutaan besar atau konsulat Inggris terdekat untuk mendapatkan dokumen perjalanan darurat, kadang disebut ETD atau paspor darurat, yang biasanya berlaku untuk satu perjalanan sekali jalan atau pulang-pergi, melalui maksimal lima negara.
+Paspor Anda kedaluwarsa saat Anda masih di luar negeri adalah skenario paling sulit untuk direncanakan. Jika paspor kedaluwarsa sebelum Anda kembali, Anda tidak bisa naik penerbangan atau feri pulang, dan Anda perlu menghubungi kedutaan besar atau konsulat Inggris terdekat untuk mendapatkan [dokumen perjalanan darurat](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport), kadang disebut ETD atau paspor darurat, yang biasanya berlaku untuk satu perjalanan sekali jalan atau pulang-pergi, melalui maksimal lima negara.
 
 Prosesnya lambat dan birokratis. Anda perlu memberikan bukti identitas dan membayar biaya yang ditetapkan oleh Foreign, Commonwealth and Development Office. Waktu pemrosesan bervariasi tergantung kedutaan dan seberapa mendesak situasi Anda, jadi tanyakan kepada konsulat apa yang bisa diharapkan segera setelah Anda menghubungi mereka.
 
@@ -110,7 +110,7 @@ Cara paling sederhana untuk menghindari semua ini: keluarkan paspor Anda hari in
 
 **Sebelum Anda mengandalkan ini:** ini adalah blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 
-Sumber yang kami periksa (6 November 2026)
+Sumber resmi
 
 - [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)
 - [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)

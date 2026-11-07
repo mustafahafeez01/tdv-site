@@ -30,7 +30,7 @@ Plus important encore, la zone de lecture optique — la bande noire et blanche 
 
 ![Deux passeports ouverts côte à côte : l'un usé mais plat et utilisable, l'autre taché par l'eau avec des pages gondolées et le laminage qui se décolle](https://traveldocumentvault.com/blog/damaged-passport-travel/damage-vs-wear-figure.jpg) Pliures légères sur la couverture : acceptable. Dégât des eaux sur la page d'identité : un problème.
 
-Cela compte parce que **les compagnies aériennes portent la responsabilité si elles font embarquer une personne munie d'un document inacceptable.** Embarquez avec un passeport endommagé, voyez-vous refuser l'entrée à destination, et les autorités peuvent infliger une amende à la compagnie pour vous avoir transporté.
+Cela compte parce que **les compagnies aériennes portent la responsabilité si elles font embarquer une personne munie d'un document inacceptable.** Embarquez avec un passeport endommagé, voyez-vous refuser l'entrée à destination, et les autorités peuvent [infliger une amende à la compagnie](https://www.legislation.gov.uk/ukpga/1999/33/section/40) pour vous avoir transporté.
 
 Aucun agent d'embarquement ne souhaite cette paperasse, il préfère donc nettement la prudence.
 
@@ -42,7 +42,7 @@ Repérer un dommage avec de l'avance est le meilleur scénario possible, car vou
 
 Votre première étape devrait être le site officiel du bureau des passeports de votre pays, car c'est le seul endroit où les règles en vigueur et les délais de traitement sont garantis exacts, et les deux changent plus souvent qu'on ne le pense. Si vous n'êtes pas sûr que votre passeport en particulier sera encore accepté, le bureau des passeports est la seule autorité dont la réponse compte réellement. Un forum de voyageurs ne vous sauvera pas au comptoir d'enregistrement.
 
-Quelques points à vérifier avant de vous déplacer. Des services d'urgence et accélérés existent généralement, mais ils ne couvrent pas tous les passeports endommagés, et l'option la plus rapide est souvent réservée aux renouvellements simples. Vérifiez à quel service votre situation donne droit avant de prendre rendez-vous.
+Quelques points à vérifier avant de vous déplacer. [Des services d'urgence et accélérés](https://www.gov.uk/get-a-passport-urgently) existent généralement, mais ils ne couvrent pas tous les passeports endommagés, et l'option la plus rapide est souvent réservée aux renouvellements simples. Vérifiez à quel service votre situation donne droit avant de prendre rendez-vous.
 
 Un passeport endommagé implique aussi souvent de déposer une demande en personne plutôt que par courrier. Dans certains pays, le bureau qui traite les cas urgents est un endroit complètement différent de celui qui reçoit simplement les demandes, et se présenter au mauvais guichet vous coûte une journée que vous n'avez probablement pas.
 
@@ -89,7 +89,7 @@ Numérisez votre passeport dès aujourd'hui, avant d'en avoir besoin.
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
-Sources vérifiées (6 novembre 2026)
+Sources officielles
 
 - [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
 - [UK legislation: Immigration and Asylum Act 1999, section 40](https://www.legislation.gov.uk/ukpga/1999/33/section/40)

@@ -20,7 +20,7 @@ Airline check-in staff and border officers look twice at a child travelling with
 
 ## The Airline Desk and the Border Check Different Things
 
-Two different people look at the same paperwork for two different reasons, and knowing that saves confusion at the desk. Check-in staff are not deciding whether your child may enter the destination country. They are checking whether the airline is confident you will be let in, because under long-standing arrangements between carriers and governments, an airline can be held responsible for flying home a passenger the destination later refuses. That is why check-in agents sometimes ask more than the border officer eventually does: they are protecting the airline against its own liability.
+Two different people look at the same paperwork for two different reasons, and knowing that saves confusion at the desk. Check-in staff are not deciding whether your child may enter the destination country. They are checking whether the airline is confident you will be let in, because [under long-standing arrangements between carriers and governments](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001L0051), an airline can be held responsible for flying home a passenger the destination later refuses. That is why check-in agents sometimes ask more than the border officer eventually does: they are protecting the airline against its own liability.
 
 The border officer you meet after landing makes an entirely separate decision, unconnected to whatever the airline decided earlier. Some countries repeat the check on the way out too, not only coming in, so a smooth arrival says nothing about how the exit check will go a fortnight later.
 
@@ -30,7 +30,7 @@ Satisfying one does not bind the other.
 
 If you are the only parent travelling and the other parent is alive, well, and simply not on this trip, the document most borders expect is a consent letter, and we cover exactly what one must say, when it needs notarising, and the mistakes that get letters rejected in our full guide to the [child travel consent letter](https://traveldocumentvault.com/blog/child-travel-consent-letter/).
 
-Two things sit outside that letter and are worth carrying alongside it. Pack your child's birth certificate, since a consent letter names a child and a parent, and the birth certificate is what ties the two of you together in the first place. Some countries also expect the letter to reflect everyone who holds parental responsibility, not only the parent named on the passport, which can include a step-parent or a guardian depending on your family's legal situation. Whether that applies to you is worth checking with your destination's immigration authority rather than assuming, since it varies by country and by circumstance.
+Two things sit outside that letter and are worth carrying alongside it. Pack your child's birth certificate, since a consent letter names a child and a parent, and the birth certificate is what ties the two of you together in the first place. Some countries also expect the letter to reflect [everyone who holds parental responsibility](https://www.gov.uk/permission-take-child-abroad), not only the parent named on the passport, which can include a step-parent or a guardian depending on your family's legal situation. Whether that applies to you is worth checking with your destination's immigration authority rather than assuming, since it varies by country and by circumstance.
 
 ## Sole Custody: When the Court Order Is the Document
 
@@ -82,7 +82,7 @@ Our broader [travel document checklist](https://traveldocumentvault.com/blog/tra
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [UK Government: Get permission to take a child abroad](https://www.gov.uk/permission-take-child-abroad)
 - [EU law: Directive 2001/51 on carrier responsibilities](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001L0051)

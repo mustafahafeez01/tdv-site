@@ -28,7 +28,7 @@ Two setups both get sold as encrypted backup, and they behave very differently.
 
 One sends the file to the company's server over an encrypted connection, then stores it encrypted at rest. Both of those statements are true, and both sound reassuring. But the company still holds the key, so it is technically able to decrypt your documents, whether for a feature, a legal request or an internal mistake. Your passport scan is readable at the other end.
 
-The other setup scrambles the file on your phone before it goes anywhere, using a key derived from something only you have. What arrives in storage is a block of noise, and nobody at the far end can read it, because nobody at the far end has the key. This is often described as end-to-end encrypted, or zero-knowledge.
+The other setup scrambles the file on your phone before it goes anywhere, using a key derived from something only you have. What arrives in storage is a block of noise, and nobody at the far end can read it, because nobody at the far end has the key. This is often described as [end-to-end encrypted](https://csrc.nist.gov/glossary/term/end_to_end_encryption), or zero-knowledge.
 
 So the question worth asking of any app is short: **who holds the key?** Everything else about the marketing follows from the answer.
 
@@ -108,7 +108,7 @@ None of this is dramatic, and that's rather the idea. The families who cope well
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [NIST: end-to-end encryption glossary entry](https://csrc.nist.gov/glossary/term/end_to_end_encryption)
 

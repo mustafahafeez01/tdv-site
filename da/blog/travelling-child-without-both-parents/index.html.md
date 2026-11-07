@@ -20,7 +20,7 @@ Indtjekningspersonale i lufthavne og grænsevagter kigger to gange på et barn, 
 
 ## Indtjekningsskranken og Grænsen Tjekker Forskellige Ting
 
-To forskellige personer kigger på de samme papirer af to forskellige grunde, og at vide det forebygger forvirring ved skranken. Indtjekningspersonalet afgør ikke, om dit barn må rejse ind i destinationslandet. De tjekker, om flyselskabet er sikre på, at I bliver lukket ind, for under langvarige aftaler mellem luftfartsselskaber og regeringer kan et flyselskab holdes ansvarligt for at flyve en passager hjem, som destinationen senere afviser. Det er derfor, indtjekningspersonalet nogle gange spørger om mere, end grænsevagten i sidste ende gør: de beskytter flyselskabet mod dets eget ansvar.
+To forskellige personer kigger på de samme papirer af to forskellige grunde, og at vide det forebygger forvirring ved skranken. Indtjekningspersonalet afgør ikke, om dit barn må rejse ind i destinationslandet. De tjekker, om flyselskabet er sikre på, at I bliver lukket ind, for under [langvarige aftaler mellem luftfartsselskaber og regeringer](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001L0051) kan et flyselskab holdes ansvarligt for at flyve en passager hjem, som destinationen senere afviser. Det er derfor, indtjekningspersonalet nogle gange spørger om mere, end grænsevagten i sidste ende gør: de beskytter flyselskabet mod dets eget ansvar.
 
 Grænsevagten, du møder efter landing, træffer en helt separat beslutning, uafhængig af, hvad flyselskabet besluttede tidligere. Nogle lande gentager kontrollen ved udrejse også, ikke kun ved ankomst, så en smidig ankomst siger intet om, hvordan udrejsekontrollen vil forløbe to uger senere.
 
@@ -30,7 +30,7 @@ At opfylde det ene krav binder ikke det andet.
 
 Hvis du er den eneste forælder, der rejser, og den anden forælder er i live, har det godt og bare ikke er med på denne tur, er det dokument, de fleste grænser forventer, et samtykkebrev, og vi gennemgår præcis, hvad det skal sige, hvornår det skal notarbekræftes, og de fejl, der får breve afvist, i vores fulde guide til [samtykkebrev til børns rejser](https://traveldocumentvault.com/da/blog/child-travel-consent-letter/).
 
-To ting ligger uden for det brev og er værd at medbringe alligevel. Pak barnets fødselsattest, for et samtykkebrev navngiver et barn og en forælder, og fødselsattesten er det, der knytter jer sammen i første omgang. Nogle lande forventer også, at brevet afspejler alle, der har forældremyndighed, ikke kun forælderen, der står på passet, hvilket kan omfatte en stedforælder eller værge afhængigt af din families juridiske situation. Om det gælder for dig, er bedst at tjekke med destinationens indvandringsmyndighed frem for at antage det, for det varierer fra land til land og fra sag til sag.
+To ting ligger uden for det brev og er værd at medbringe alligevel. Pak barnets fødselsattest, for et samtykkebrev navngiver et barn og en forælder, og fødselsattesten er det, der knytter jer sammen i første omgang. Nogle lande forventer også, at brevet afspejler [alle, der har forældremyndighed](https://www.gov.uk/permission-take-child-abroad), ikke kun forælderen, der står på passet, hvilket kan omfatte en stedforælder eller værge afhængigt af din families juridiske situation. Om det gælder for dig, er bedst at tjekke med destinationens indvandringsmyndighed frem for at antage det, for det varierer fra land til land og fra sag til sag.
 
 ## Eneforældremyndighed: Når Retsafgørelsen Er Dokumentet
 
@@ -84,7 +84,7 @@ Vores bredere [tjekliste til rejsedokumenter](https://traveldocumentvault.com/da
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du handler.
 
-Kilder vi har tjekket (6. november 2026)
+Officielle kilder
 
 - [UK Government: Get permission to take a child abroad](https://www.gov.uk/permission-take-child-abroad)
 - [EU law: Directive 2001/51 on carrier responsibilities](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001L0051)

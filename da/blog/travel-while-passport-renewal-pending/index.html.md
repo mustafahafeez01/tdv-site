@@ -28,9 +28,9 @@ Om du stadig har det pas, afhænger helt af dit land og din fornyelsesmetode.
 
 ## USA: Fornyelse med post
 
-Standard amerikansk pasfornyelse med post betyder, at du sender dit nuværende pas ind sammen med ansøgningen, så du ikke har det i hånden, mens du venter. Du udfylder formular DS-82, vedlægger dit eksisterende pas og sender det hele til National Passport Processing Center. Ifølge USAGov sendes dit gamle pas tilbage separat, som regel omkring fire uger efter, at du har modtaget det nye.
+Standard amerikansk pasfornyelse med post betyder, at du sender dit nuværende pas ind sammen med ansøgningen, så du ikke har det i hånden, mens du venter. Du [udfylder formular DS-82](https://www.usa.gov/renew-adult-passport), vedlægger dit eksisterende pas og sender det hele til National Passport Processing Center. Ifølge USAGov sendes dit gamle pas tilbage separat, som regel omkring fire uger efter, at du har modtaget det nye.
 
-Det betyder, at indenrigsrejser i USA ikke påvirkes gennem hele fornyelsesprocessen – du behøver ikke et pas til indenrigsflyvninger. Udenrigsrejser er en anden sag: du kan ikke rejse internationalt, før dit nye pas ankommer, og du kan ikke bruge det gamle annullerede pas, selv hvis du har det i hånden.
+Det betyder, at indenrigsrejser i USA ikke påvirkes gennem hele fornyelsesprocessen – [du behøver ikke et pas til indenrigsflyvninger](https://www.tsa.gov/travel/security-screening/identification). Udenrigsrejser er en anden sag: du kan ikke rejse internationalt, før dit nye pas ankommer, og du kan ikke bruge det gamle annullerede pas, selv hvis du har det i hånden.
 
 Standardbehandlingstiderne ændrer sig, og udenrigsministeriet offentliggør det aktuelle tal på travel.state.gov, så tjek der, før du planlægger ud fra det. Hvis din rejse er booket, før du forventer det nye pas ankommer, er ekspederet behandling tilgængelig mod et ekstra gebyr og forkorter ventetiden mærkbart. For reelt hastende rejser er personligt fremmøde muligt hos regionale paskontorer – tjek den aktuelle berettigelse på travel.state.gov.
 
@@ -38,7 +38,7 @@ Standardbehandlingstiderne ændrer sig, og udenrigsministeriet offentliggør det
 
 Storbritannien har to fornyelsesveje, og de har helt forskellige konsekvenser for rejser. Den metode, du brugte, afgør, hvad der er muligt.
 
-**Postal fornyelse:** Du sender dit nuværende pas til HM Passport Office sammen med din ansøgning. Dit pas er i deres varetægt i hele perioden, så du kan ikke rejse internationalt. HM Passport Office offentliggør sin aktuelle behandlingstid på sin hjemmeside og fraråder at booke rejser, før dit nye pas ankommer. En fast-track-service mod et ekstra gebyr er tilgængelig, hvis din rejse ligger tæt på.
+**Postal fornyelse:** Du sender dit nuværende pas til [HM Passport Office](https://www.gov.uk/renew-adult-passport/renew) sammen med din ansøgning. Dit pas er i deres varetægt i hele perioden, så du kan ikke rejse internationalt. HM Passport Office offentliggør sin aktuelle behandlingstid på sin hjemmeside og [fraråder at booke rejser](https://www.gov.uk/renew-adult-passport), før dit nye pas ankommer. En fast-track-service mod et ekstra gebyr er tilgængelig, hvis din rejse ligger tæt på.
 
 **Digital fornyelse** er i øjeblikket tilgængelig for berettigede voksne, der ansøger fra Storbritannien. Du beholder dit nuværende pas gennem hele processen, og myndigheden udsteder dit nye pas separat og sender det til dig. Fordi dit eksisterende pas aldrig forlader din besiddelse, kan du som regel fortsætte med at bruge det til rejser, mens det nye behandles. Berettigelsen varierer efter individuelle forhold, så tjek HM Passport Offices hjemmeside for de fulde kriterier og aktuelle tider, før du ansøger.
 
@@ -52,7 +52,7 @@ Det australske paskontor offentliggør sine aktuelle behandlingstider og anbefal
 
 ## Canada: Afleveret ved ansøgning
 
-Canada kræver, at du afleverer dit eksisterende pas, når du ansøger om fornyelse. Dit gamle pas opbevares, indtil det nye er klar, så du kan ikke rejse internationalt i denne periode – selvom indenrigsrejser i Canada ikke kræver et pas.
+Canada kræver, at du [afleverer dit eksisterende pas, når du ansøger om fornyelse](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html). Dit gamle pas opbevares, indtil det nye er klar, så du kan ikke rejse internationalt i denne periode – selvom indenrigsrejser i Canada ikke kræver et pas.
 
 Service Canada offentliggør sine aktuelle behandlingsstandarder, som varierer afhængigt af, om du ansøger personligt, med post eller på et Service Canada Centre, plus posttid uanset metode. For hastende rejser findes ekspresservice og hastehentning mod ekstra gebyrer. Tjek aktuelle behandlingstider og ansøg på canada.ca.
 
@@ -94,7 +94,7 @@ Grunden til, at folk havner i denne situation, er ikke uvidenhed om reglerne. Pa
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 
-Kilder vi har tjekket (6. november 2026)
+Officielle kilder
 
 - [USAGov: Renew an adult passport](https://www.usa.gov/renew-adult-passport)
 - [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)

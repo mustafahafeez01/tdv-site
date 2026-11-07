@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/es/blog/visa-expiry-tracker-app/
 - Los visitantes del Área de Schengen deben rastrear una ventana móvil de 90/180 días, no solo una única fecha de vencimiento, porque el cómputo avanza con tu historial real de viajes, no con el calendario.
 - Rastrear visados y pasaportes juntos en un mismo lugar reduce el riesgo de un desajuste: entrar con un visado válido pero con un pasaporte que vence antes de que termine tu estancia planeada.
 
-Excederse en el tiempo permitido de un visado es uno de los errores de viaje más significativos que una persona puede cometer. A diferencia de un vuelo perdido —estresante pero en última instancia soluciona— un exceso crea un registro formal de inmigración que puede seguirte durante años. En Estados Unidos, según la sección 212(a)(9)(B) de la Immigration and Nationality Act, quien permanece de forma ilegal más de 180 días pero menos de un año y luego sale del país suele tener prohibido volver durante tres años, y un año o más de presencia ilegal suele implicar una prohibición de diez años. Estas consecuencias no son ampliamente conocidas.
+Excederse en el tiempo permitido de un visado es uno de los errores de viaje más significativos que una persona puede cometer. A diferencia de un vuelo perdido —estresante pero en última instancia soluciona— un exceso crea un registro formal de inmigración que puede seguirte durante años. En Estados Unidos, según la sección 212(a)(9)(B) de la [Immigration and Nationality Act](https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chap12-subchapII-partII-sec1182.htm), quien permanece de forma ilegal más de 180 días pero menos de un año y luego sale del país suele tener prohibido volver durante tres años, y un año o más de presencia ilegal suele implicar una prohibición de diez años. Estas consecuencias no son ampliamente conocidas.
 
 Una aplicación rastreadora de visados está pensada para prevenir esto: tiene que supervisar múltiples fechas a la vez, validez de entrada, estancia máxima y número de entradas, cada una con su propio plazo.
 
@@ -43,7 +43,7 @@ Un rastreador que solo supervisa la fecha de validez de entrada se pierde la cau
 
 Para viajeros que visitan múltiples países europeos, la regla de 90/180 días del Área de Schengen es la condición de entrada más ampliamente incomprendida en viajes internacionales. Ciudadanos de países con acceso libre de visado a Schengen (incluyendo el Reino Unido, Estados Unidos, Canadá, y Australia, entre muchos otros) pueden pasar un máximo de 90 días en el Área de Schengen dentro de cualquier ventana móvil de 180 días.
 
-La Comisión Europea proporciona una calculadora oficial de estancia en Schengen para ayudar a viajeros a calcular sus días permitidos. El punto crítico es que esta es una *ventana móvil*, no un reinicio de año calendario. Los días pasados en Schengen hace seis meses aún cuentan contra tu asignación actual, así que mirar una sola fecha de vencimiento no te avisará de un exceso de estancia. Lo que importa es tu historial real de entradas y salidas, no la fecha impresa en el visado.
+La Comisión Europea proporciona una [calculadora oficial de estancia en Schengen](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en) para ayudar a viajeros a calcular sus días permitidos. El punto crítico es que esta es una *ventana móvil*, no un reinicio de año calendario. Los días pasados en Schengen hace seis meses aún cuentan contra tu asignación actual, así que mirar una sola fecha de vencimiento no te avisará de un exceso de estancia. Lo que importa es tu historial real de entradas y salidas, no la fecha impresa en el visado.
 
 ## Qué Sucede Cuando Te Excedes
 
@@ -51,7 +51,7 @@ Las consecuencias de un exceso de visado varían según el país pero son consis
 
 - **Reino Unido:** Los excesos se registran y afectarán futuras solicitudes de visado. La Oficina de Interior del Reino Unido considera los excesos al evaluar credibilidad y puede rechazar futuras solicitudes.
 - **Australia:** Excederse en tu visado puede resultar en restricciones en futuras solicitudes de visado y expulsión del país. Bajo la Ley de Migración de 1958, los registros de exceso se rastrean y afectarán futuras solicitudes de visado y elegibilidad de reentrada.
-- **Área de Schengen:** Las estancias se registran en la frontera, y una prohibición de entrada emitida por un país de Schengen suele compartirse con los demás a través del Sistema de Información de Schengen (SIS), por lo que se aplica en toda el Área de Schengen, que la Comisión Europea sitúa actualmente en 29 países.
+- **Área de Schengen:** Las estancias se registran en la frontera, y una prohibición de entrada emitida por un país de Schengen suele compartirse con los demás a través del [Sistema de Información de Schengen (SIS)](https://home-affairs.ec.europa.eu/policies/schengen/schengen-information-system/what-sis-and-how-does-it-work_en), por lo que se aplica en toda el Área de Schengen, [que la Comisión Europea sitúa actualmente en 29 países](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en).
 - **Tailandia:** Los excesos incurren una multa diaria fijada por inmigración tailandesa, hasta un máximo establecido, y un exceso de más de 90 días puede acarrear la deportación y la prohibición de volver.
 
 En todos los casos, el registro de exceso típicamente te sigue: aparece en bases de datos de inmigración revisadas en futuras cruces fronterizos y solicitudes de visado.
@@ -80,7 +80,7 @@ Comprueba hoy la fecha de vencimiento de tu pasaporte frente a las fechas de tu 
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 
-Fuentes que hemos comprobado (6 de noviembre de 2026)
+Fuentes oficiales
 
 - [US Code: Title 8, section 1182](https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chap12-subchapII-partII-sec1182.htm)
 - [European Commission: Schengen area](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en)

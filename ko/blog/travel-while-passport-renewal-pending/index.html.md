@@ -28,9 +28,9 @@ Source: https://traveldocumentvault.com/ko/blog/travel-while-passport-renewal-pe
 
 ## 미국: 우편 갱신
 
-미국 여권 표준 우편 갱신은 현재 여권을 신청서와 함께 보내는 방식이라, 기다리는 동안 여권이 손에 없습니다. DS-82 양식을 작성하고, 기존 여권을 동봉하고, 모든 것을 국립 여권 처리 센터로 보냅니다. USAGov에 따르면 기존 여권은 새 여권을 받고 보통 약 4주 뒤에 별도로 우편 반송됩니다.
+미국 여권 표준 우편 갱신은 현재 여권을 신청서와 함께 보내는 방식이라, 기다리는 동안 여권이 손에 없습니다. [DS-82 양식을 작성하고](https://www.usa.gov/renew-adult-passport), 기존 여권을 동봉하고, 모든 것을 국립 여권 처리 센터로 보냅니다. USAGov에 따르면 기존 여권은 새 여권을 받고 보통 약 4주 뒤에 별도로 우편 반송됩니다.
 
-이는 갱신 과정 중 미국 내의 국내 여행이 영향을 받지 않음을 의미합니다. 국내선 항공편에는 여권이 필요하지 않습니다. 국제 여행은 다릅니다. 새 여권이 도착할 때까지 국제 여행을 할 수 없으며, 손에 있더라도 취소된 기존 여권을 사용할 수 없습니다.
+이는 갱신 과정 중 미국 내의 국내 여행이 영향을 받지 않음을 의미합니다. [국내선 항공편에는 여권이 필요하지 않습니다](https://www.tsa.gov/travel/security-screening/identification). 국제 여행은 다릅니다. 새 여권이 도착할 때까지 국제 여행을 할 수 없으며, 손에 있더라도 취소된 기존 여권을 사용할 수 없습니다.
 
 표준 처리에 걸리는 시간은 계속 변동하므로, 국무부가 travel.state.gov에 공개하는 최신 수치를 확인한 뒤 계획을 세우세요. 새 여권 도착 전에 국제 여행이 예정되어 있다면, 국무부는 추가 비용으로 특급 처리를 제공하여 대기 시간을 크게 줄여줍니다. 진정으로 긴급한 여행의 경우, 지역 여권 기관에서의 대면 약속이 가능합니다. 현재 자격 요건은 travel.state.gov에서 확인하세요.
 
@@ -38,7 +38,7 @@ Source: https://traveldocumentvault.com/ko/blog/travel-while-passport-renewal-pe
 
 영국에는 두 가지 갱신 경로가 있으며, 각각 여행에 대해 완전히 다른 영향을 미칩니다. 사용한 프로세스가 가능한 것을 결정합니다.
 
-**우편 갱신:** 신청서와 함께 현재 여권을 HM Passport Office로 보냅니다. 여권이 그들 손에 있으므로 국제 여행을 할 수 없습니다. HM Passport Office는 웹사이트에 현재 처리 시간을 공개하며, 새 여권이 도착할 때까지 여행을 예약하지 않도록 권장합니다. 여행이 임박한 경우 추가 비용으로 프리미엄 고속 서비스를 이용할 수 있습니다.
+**우편 갱신:** 신청서와 함께 현재 여권을 [HM Passport Office](https://www.gov.uk/renew-adult-passport/renew)로 보냅니다. 여권이 그들 손에 있으므로 국제 여행을 할 수 없습니다. HM Passport Office는 웹사이트에 현재 처리 시간을 공개하며, [새 여권이 도착할 때까지 여행을 예약하지 않도록 권장합니다](https://www.gov.uk/renew-adult-passport). 여행이 임박한 경우 추가 비용으로 프리미엄 고속 서비스를 이용할 수 있습니다.
 
 **디지털 갱신**은 현재 영국 내에서 신청하는 적격 성인이 이용할 수 있습니다. 프로세스 전체에서 기존 여권을 보유하며, 정부는 새 여권을 별도로 발급하고 우편으로 보냅니다. 기존 여권이 절대 당신의 소유에서 벗어나지 않으므로, 새 여권이 처리되는 동안 일반적으로 여행을 계속할 수 있습니다. 적격 여부는 개별 상황에 따라 달라지므로, 신청하기 전에 완전한 기준과 현재 처리 시간에 대해 HM Passport Office 웹사이트를 확인하세요.
 
@@ -52,7 +52,7 @@ Source: https://traveldocumentvault.com/ko/blog/travel-while-passport-renewal-pe
 
 ## 캐나다: 신청 시 제출됨
 
-캐나다는 갱신을 신청할 때 기존 여권을 제출하도록 요구합니다. 기존 여권은 새 여권이 준비될 때까지 보유되므로, 이 기간 동안 국제 여행을 할 수 없습니다. 물론 캐나다 내의 국내 여행은 여권이 필요하지 않습니다.
+캐나다는 갱신을 [신청할 때 기존 여권을 제출하도록 요구합니다](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html). 기존 여권은 새 여권이 준비될 때까지 보유되므로, 이 기간 동안 국제 여행을 할 수 없습니다. 물론 캐나다 내의 국내 여행은 여권이 필요하지 않습니다.
 
 Service Canada는 현재 처리 기준을 공개하며, 직접 신청, 우편 신청, Service Canada Centre 신청 여부에 따라 다르고, 어느 경우든 우편 시간이 추가됩니다. 긴급 여행의 경우 추가 비용으로 특급 서비스 또는 긴급 픽업 옵션을 선택할 수 있습니다. canada.ca에서 현재 처리 시간을 확인하고 신청하세요.
 
@@ -94,7 +94,7 @@ Service Canada는 현재 처리 기준을 공개하며, 직접 신청, 우편 �
 
 **이 글에 의존하기 전에:** 이 글은 블로그이며 공식 자료가 아닙니다. 규정과 세부 사항은 바뀌고, 여러분의 상황은 다를 수 있습니다. 저희는 게시하는 내용을 확인하지만 그래도 틀리거나 오래된 정보일 수 있습니다. 여기 적힌 내용이 계획에 중요하다면, 움직이기 전에 담당 기관에 확인하시기 바랍니다.
 
-확인한 출처 (2026년 11월 6일)
+공식 출처
 
 - [USAGov: Renew an adult passport](https://www.usa.gov/renew-adult-passport)
 - [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)

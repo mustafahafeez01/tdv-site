@@ -39,7 +39,7 @@ Ett dataintrång hos en app med lagring på enheten läcker ingenting från dera
 
 ### Förvarningstiden är den inställning som är värd att anpassa
 
-Det här är den enskilt mest värdefulla funktionen. En påminnelse vid 6 månader är minimum – många länder kräver att passet är giltigt minst 6 månader efter dina resdatum, vilket vi förklarar i vår artikel om [6-månadersregeln för pass](https://traveldocumentvault.com/sv/blog/passport-expiry-6-month-rule/). Barnpass gäller ofta i 5 år i stället för 10 (ett brittiskt barnpass är till exempel giltigt i 5 år), så en tidigare påminnelse – säg 9 månader i förväg – ger mer bekväm tid för planering.
+Det här är den enskilt mest värdefulla funktionen. En påminnelse vid 6 månader är minimum – många länder kräver att passet är giltigt minst 6 månader efter dina resdatum, vilket vi förklarar i vår artikel om [6-månadersregeln för pass](https://traveldocumentvault.com/sv/blog/passport-expiry-6-month-rule/). Barnpass gäller ofta i 5 år i stället för 10 (ett [brittiskt barnpass](https://www.gov.uk/get-a-child-passport) är till exempel giltigt i 5 år), så en tidigare påminnelse – säg 9 månader i förväg – ger mer bekväm tid för planering.
 
 ### En enda app kan rymma hela familjen, på ett säkert sätt
 
@@ -104,7 +104,7 @@ Ta fram appen du faktiskt överväger och gå igenom den här listan innan du sk
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 
-Källor vi har kontrollerat (6 november 2026)
+Officiella källor
 
 - [UK Foreign Office: Indonesia entry requirements](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements)
 - [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)

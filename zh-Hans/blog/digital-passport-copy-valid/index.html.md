@@ -11,9 +11,9 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/digital-passport-copy-valid
 ## 主要要点
 
 - 数字护照副本被接受用于**酒店入住、机票预订和汽车租赁预订**，但不能用于边境或航空公司登机。
-- **通常需要护照原件**在国际旅行过境和登机时。有些路线接受国民身份证（例如欧盟公民在欧盟境内旅行），但不接受副本。
+- **通常需要护照原件**在国际旅行过境和登机时。有些路线接受国民身份证（例如[欧盟公民在欧盟境内旅行](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm)），但不接受副本。
 - 数字副本**没有作为旅行文件的法律效力**。它们仅是辅助文件。
-- 签证申请需要**特定格式**。有些需要认证或公证副本，另一些（包括许多电子签证）接受清晰的照片页扫描件，而随手拍的手机照片往往不被接受。请先检查大使馆网站。
+- 签证申请需要**特定格式**。有些需要认证或公证副本，另一些（包括[许多电子签证](https://indianvisaonline.gov.in/evisa/tvoa.html)）接受清晰的照片页扫描件，而随手拍的手机照片往往不被接受。请先检查大使馆网站。
 - 如果您的护照在国外丢失，**照片页副本可以帮助大使馆在您申请补发时核实资料**。
 
 在规划旅行时，许多旅客想知道他们是否可以将护照的数字副本存储在手机上，而不是携带原始证件。您需要确切了解它在哪些地方有效，在哪些地方无效，这样您才不会在办理登机手续时措手不及。
@@ -22,11 +22,11 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/digital-passport-copy-valid
 
 ## 数字副本是护照的照片，不是数字护照
 
-护照的数字副本是指身份资料页的**扫描件或手机拍摄的照片**，上面有您的照片、姓名、出生日期、护照号码和到期日。它记录您的信息，但不能替代证件本身。加拿大政府在其旅行提示中明确说明：副本在证件遗失或被盗时有帮助，但不能用作身份证明，遗失护照后您仍需要申请新护照。
+护照的数字副本是指身份资料页的**扫描件或手机拍摄的照片**，上面有您的照片、姓名、出生日期、护照号码和到期日。它记录您的信息，但不能替代证件本身。[加拿大政府](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings)在其旅行提示中明确说明：副本在证件遗失或被盗时有帮助，但不能用作身份证明，遗失护照后您仍需要申请新护照。
 
-制作一份副本只需几分钟。在光线良好的地方把护照平放，拍摄或扫描身份资料页，确保整页清晰，然后放大检查每个细节是否可读。您出行要用到的任何签证也应同样处理。英国的出境旅行清单建议备份护照信息，与家人共享或保存在安全的数据存储平台上。
+制作一份副本只需几分钟。在光线良好的地方把护照平放，拍摄或扫描身份资料页，确保整页清晰，然后放大检查每个细节是否可读。您出行要用到的任何签证也应同样处理。[英国的出境旅行清单](https://www.gov.uk/guidance/foreign-travel-checklist)建议备份护照信息，与家人共享或保存在安全的数据存储平台上。
 
-副本也与一些政府现在认可的数字身份证不同。在美国，运输安全管理局（TSA）允许持美国护照的人在Google Wallet中设置用于机场安检的身份通行证，但仍规定所有乘客必须随身携带合规的实体身份证件。相册里的照片只是您信息的一个备份，这也正是应该对待它的方式。
+副本也与一些政府现在认可的数字身份证不同。在美国，[运输安全管理局（TSA）](https://www.tsa.gov/digital-id)允许持美国护照的人在Google Wallet中设置用于机场安检的身份通行证，但仍规定所有乘客必须随身携带合规的实体身份证件。相册里的照片只是您信息的一个备份，这也正是应该对待它的方式。
 
 ## 接受数字护照副本的地方
 
@@ -44,7 +44,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/digital-passport-copy-valid
 
 ### 护照丢失时，副本能让办理更快
 
-如果您的护照在旅行时丢失或被盗，照片页副本可以帮助大使馆或领事馆在您申请补发时核实资料。您仍需要申请新护照或紧急旅行证件。这是始终携带数字备份的最强理由之一。
+如果您的护照在旅行时丢失或被盗，照片页副本可以帮助大使馆或领事馆在您申请补发时核实资料。您仍需要申请新护照或[紧急旅行证件](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport)。这是始终携带数字备份的最强理由之一。
 
 ![数字护照副本适用范围示意图：酒店入住、机票预订和租车通常可以使用，边境过境和航空公司登机则需要原件](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-where-zh-Hans.jpg) 简单说：副本能开门，只有原件能过境。
 
@@ -89,7 +89,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/digital-passport-copy-valid
 
 **在依据本文行动之前：**这是一个博客，不是官方来源。规则和细节会变化，你的情况也可能不同。我们会核对所发布的内容，但仍可能出错或过时。如果这里的内容对你的安排很重要，请在行动前向主管机构核实。
 
-我们核对过的资料来源（2026年11月6日）
+官方资料来源
 
 - [Government of Canada: Lost or stolen belongings abroad](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings)
 - [UK Government: Foreign travel checklist](https://www.gov.uk/guidance/foreign-travel-checklist)

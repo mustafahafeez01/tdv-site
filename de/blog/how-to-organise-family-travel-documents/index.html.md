@@ -39,13 +39,13 @@ Es hängt davon ab, wohin Sie reisen, aber für die meisten internationalen Fami
 
 **Was das Reisen mit Kindern hinzufügt**
 
-- Geburtsurkunden – manchmal von der Einwanderung verlangt, besonders wenn der Nachname des Kindes von dem des reisenden Elternteils abweicht
+- Geburtsurkunden – [manchmal von der Einwanderung verlangt](https://www.gov.uk/foreign-travel-advice/mexico/entry-requirements), besonders wenn der Nachname des Kindes von dem des reisenden Elternteils abweicht
 - Ein unterzeichnetes Zustimmungsschreiben der Eltern, wenn ein Elternteil nicht anwesend ist – dringend empfohlen für Reisen ohne einen Elternteil oder mit Großeltern
 - Sorgerechtsgerichtsbeschlüsse, falls zutreffend
 
 ### Zustimmungsschreiben für Kinderreisen: Wann benötigen Sie eines
 
-Ein Zustimmungsschreiben für Kinderreisen ist ein unterzeichnetes Dokument des abwesenden Elternteils (oder des Erziehungsberechtigten), das dem Kind die Reise gestattet. Es ist in der Regel keine gesetzliche Pflicht, aber Grenzbeamte in manchen Ländern, darunter Kanada, können einen Nachweis verlangen, dass beide Eltern mit der Reise einverstanden sind, wenn ein Kind nur mit einem Elternteil oder mit einem anderen Erwachsenen reist. Das Schreiben lässt sich leicht mitnehmen und kann Rückfragen an der Grenze ersparen.
+Ein Zustimmungsschreiben für Kinderreisen ist ein unterzeichnetes Dokument des abwesenden Elternteils (oder des Erziehungsberechtigten), das dem Kind die Reise gestattet. Es ist in der Regel keine gesetzliche Pflicht, aber Grenzbeamte in manchen Ländern, darunter [Kanada](https://travel.gc.ca/travelling/children/consent-letter), können einen Nachweis verlangen, dass beide Eltern mit der Reise einverstanden sind, wenn ein Kind nur mit einem Elternteil oder mit einem anderen Erwachsenen reist. Das Schreiben lässt sich leicht mitnehmen und kann Rückfragen an der Grenze ersparen.
 
 Südafrika hat eigene Regeln für Reisen mit Kindern, unter anderem zur vollständigen Geburtsurkunde. Prüfen Sie vor der Reise die Hinweise des Department of Home Affairs.
 
@@ -57,7 +57,7 @@ Ein gültiges Zustimmungsschreiben sollte folgende Angaben enthalten: den vollst
 
 - Internationaler Führerschein (wenn Sie einen Wagen im Ausland mieten)
 - Medizinische Unterlagen oder Rezeptdetails für laufende Erkrankungen
-- Europäische Krankenversicherungskarte (EHIC), wenn Sie über ein Gesundheitssystem der EU versichert sind
+- Europäische Krankenversicherungskarte (EHIC), wenn Sie [über ein Gesundheitssystem der EU versichert sind](https://europa.eu/youreurope/citizens/health/unplanned-healthcare/temporary-stays/index_en.htm)
 
 ## Physische Organisation: Wo Sie die Originale aufbewahren
 
@@ -128,7 +128,7 @@ Falls noch nicht geschehen: Bestimmen Sie den einen Ort, an dem die Reisepässe 
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 
-Quellen, die wir geprüft haben (6. November 2026)
+Offizielle Quellen
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [UK Foreign Office: Mexico entry requirements](https://www.gov.uk/foreign-travel-advice/mexico/entry-requirements)

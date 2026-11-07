@@ -24,7 +24,7 @@ Problemet börjar litet. Du har ditt eget pass, din make eller maka har sitt. Se
 
 Oftast hamnar det på en person, ofta den som redan sköter resten av reselogistiken, och den enda felkällan blir en risk.
 
-Barnpass upphör ofta att gälla tidigare än vuxenpass. I Storbritannien gäller ett barnpass i 5 år, och många andra länder utfärdar barnpass med kortare giltighetstid än vuxenpass. Det betyder att ditt yngsta barns pass ofta blir begränsande faktorn för familjeresorna. Du kan ha en förälder med 8 år giltighet kvar, men om ditt yngstas pass upphör att gälla om 18 månader, är det din planeringshorizon.
+Barnpass upphör ofta att gälla tidigare än vuxenpass. I Storbritannien gäller [ett barnpass i 5 år](https://www.gov.uk/get-a-child-passport), och många andra länder utfärdar barnpass med kortare giltighetstid än vuxenpass. Det betyder att ditt yngsta barns pass ofta blir begränsande faktorn för familjeresorna. Du kan ha en förälder med 8 år giltighet kvar, men om ditt yngstas pass upphör att gälla om 18 månader, är det din planeringshorizon.
 
 De flesta familjer inser det här inte förrän de redan har bokat en resa. En förälder hittar passen en vecka före avresa, skannar dem hastigt medan packar, och upptäcker att ett barns handlingar inte uppfyller den giltighetsregel som vissa resmål tillämpar, ofta sex månader. Resan är nu i fara, eller behöver en brådskande och dyr passförnyelse.
 
@@ -86,7 +86,7 @@ Har du inte ställt in det här ännu, börja i dag: skanna fotosidan på varje 
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 
-Källor vi har kontrollerat (6 november 2026)
+Officiella källor
 
 - [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
 

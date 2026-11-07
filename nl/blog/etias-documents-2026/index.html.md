@@ -13,12 +13,12 @@ Source: https://traveldocumentvault.com/nl/blog/etias-documents-2026/
 - **ETIAS is een digitale reistoestemming** voor reizigers uit het VK, de VS en Canada – nodig voor visumvrije toegang tot het Schengengebied zodra het verplicht wordt
 - **Je hebt een paspoort nodig dat nog meer dan 3 maanden geldig is** na je vertrekdatum, plus een e-mailadres om aan te vragen
 - De verwerkingstijd varieert, zeker vlak na de lancering; **vraag ruim op tijd aan** en raadpleeg de officiële EU-website voor actuele informatie
-- Check de officiële EU-website voor de actuele kosten; **onder de 18 en boven de 70 betaal je niets**, maar je hebt nog steeds een goedkeuring nodig
+- Check de [officiële EU-website](https://home-affairs.ec.europa.eu/news/european-travel-authorisation-etias-will-cost-eur-20-2025-07-17_en) voor de actuele kosten; **onder de 18 en boven de 70 betaal je niets**, maar je hebt nog steeds een goedkeuring nodig
 - **Twijfels over de betrouwbaarheid van je antwoorden kunnen tot weigering leiden, dus vermeld alles, ook als het al lang geleden is**
 
 Je hebt een gezinsreis naar Italië geboekt en hoort dat ETIAS eraan komt – een nieuwe digitale toestemmingsplicht voor visumvrije bezoekers die naar Europa reizen. Deze gids legt uit wat ETIAS is, welke documenten je nodig hebt en hoe de aanvraag werkt, zodat je voorbereid bent voordat je bij het formulier komt.
 
-Het European Travel Information and Authorisation System (ETIAS) is geen [visum](https://traveldocumentvault.com/nl/blog/visa-vs-passport/) – het is een digitale voorafgaande toestemming voor bezoekers uit visumvrije landen. Ben je burger van het VK, de VS of Canada, dan registreer je je doorgaans aan de grens via het inreis-uitreissysteem (EES), met een foto en vingerafdrukken bij de eerste binnenkomst, en ga je door de grenscontrole. Zodra ETIAS verplicht wordt, gaat dat proces online – je vraagt vooraf toestemming aan.
+Het European Travel Information and Authorisation System (ETIAS) is geen [visum](https://traveldocumentvault.com/nl/blog/visa-vs-passport/) – het is een [digitale voorafgaande toestemming](https://travel-europe.europa.eu/en/etias) voor bezoekers uit visumvrije landen. Ben je burger van het VK, de VS of Canada, dan registreer je je doorgaans aan de grens via [het inreis-uitreissysteem (EES)](https://travel-europe.europa.eu/en/ees), met een foto en vingerafdrukken bij de eerste binnenkomst, en ga je door de grenscontrole. Zodra ETIAS verplicht wordt, gaat dat proces online – je vraagt vooraf toestemming aan.
 
 ## Wat is ETIAS en wie heeft het nodig?
 
@@ -110,7 +110,7 @@ De praktische taak voor vandaag: pak je paspoort erbij en controleer het aan de 
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 
-Bronnen die we hebben gecontroleerd (6 november 2026)
+Officiële bronnen
 
 - [EU travel: ETIAS](https://travel-europe.europa.eu/en/etias)
 - [EU travel: Entry/Exit System (EES)](https://travel-europe.europa.eu/en/ees)

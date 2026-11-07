@@ -39,13 +39,13 @@ It depends on where you're going, but for most international family travel the l
 
 **What travelling with children adds**
 
-- Birth certificates - sometimes required at immigration, especially when a child's surname differs from the travelling parent
+- Birth certificates - [sometimes required at immigration](https://www.gov.uk/foreign-travel-advice/mexico/entry-requirements), especially when a child's surname differs from the travelling parent
 - A signed parental consent letter if one parent isn't present - strongly recommended for solo-parent or grandparent travel
 - Custody court orders, if applicable
 
 ### Child Travel Consent Letter: When You Need One
 
-A child travel consent letter is a signed document from the absent parent (or legal guardian) giving permission for the child to travel. It's generally not a legal requirement, but border officials in some countries, Canada among them, may ask for proof that both parents agree to the trip when a child is travelling with only one parent or with another adult. It is easy to carry, and it can save you questions at the border.
+A child travel consent letter is a signed document from the absent parent (or legal guardian) giving permission for the child to travel. It's generally not a legal requirement, but border officials in some countries, [Canada](https://travel.gc.ca/travelling/children/consent-letter) among them, may ask for proof that both parents agree to the trip when a child is travelling with only one parent or with another adult. It is easy to carry, and it can save you questions at the border.
 
 South Africa has its own rules for travelling with children, including an unabridged birth certificate, so check its Home Affairs guidance before you go.
 
@@ -55,7 +55,7 @@ A valid consent letter should include: the child's full name and date of birth, 
 
 - International driver's licence (if you're hiring a car abroad)
 - Medical records or prescription details for ongoing conditions
-- European Health Insurance Card (EHIC), if you are covered by an EU health system
+- European Health Insurance Card (EHIC), if you are [covered by an EU health system](https://europa.eu/youreurope/citizens/health/unplanned-healthcare/temporary-stays/index_en.htm)
 
 ![Hand-drawn family travel checklist with ten items - passports, visas, ID cards, travel insurance, bookings, vaccinations, return ticket, birth cert, consent letter, custody orders - and an arrow pointing to a note that says 3+ months before travel](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/travel-docs-checklist.jpg) The full family list - start ticking it three months out, not the week before.
 
@@ -128,7 +128,7 @@ If you haven't already, pick the one place the passports will live, and set an e
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [UK Foreign Office: Mexico entry requirements](https://www.gov.uk/foreign-travel-advice/mexico/entry-requirements)

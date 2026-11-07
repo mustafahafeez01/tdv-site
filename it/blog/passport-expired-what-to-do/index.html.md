@@ -30,7 +30,7 @@ L'urgenza con cui deve agire determina cosa fare:
 - **Molto tempo prima del viaggio:** chieda il rinnovo standard online tramite il sito web della Sua autorità preposta ai passaporti — GOV.UK nel Regno Unito, travel.state.gov negli USA.
 - **Il viaggio si avvicina:** chieda immediatamente e paghi per l'elaborazione accelerata. Sia il Regno Unito che gli USA offrono online un servizio a pagamento più rapido, ed entrambi pubblicano il loro tempo di elaborazione attuale.
 - **Il viaggio è vicino:** chiami direttamente l'autorità preposta ai passaporti invece di affidarsi solo al sito web — la linea di assistenza di HM Passport Office nel Regno Unito, o il National Passport Information Center negli USA.
-- **Il viaggio è imminente:** chieda un appuntamento di emergenza e porti una prova delle Sue date di viaggio. Il servizio 1 Day Premium del Regno Unito (riservato ai rinnovi per adulti) prevede appuntamenti a partire da 2 giorni dopo la richiesta, con il passaporto pronto per il ritiro 4 ore dopo l'appuntamento, e gli USA pubblicano le opzioni per i viaggi urgenti su travel.state.gov.
+- **Il viaggio è imminente:** chieda un appuntamento di emergenza e porti una prova delle Sue date di viaggio. Il [servizio 1 Day Premium](https://www.gov.uk/get-a-passport-urgently) del Regno Unito (riservato ai rinnovi per adulti) prevede appuntamenti a partire da 2 giorni dopo la richiesta, con il passaporto pronto per il ritiro 4 ore dopo l'appuntamento, e gli USA pubblicano le opzioni per i viaggi urgenti su travel.state.gov.
 
 Se il Suo arco temporale è stretto, **noi chiameremmo sempre, invece di fidarci del solo sito web.**
 
@@ -56,7 +56,7 @@ La scadenza raramente significa ripartire da zero, perché nel Regno Unito, negl
 
 ### Regno Unito: Un Passaporto Scaduto Segue il Rinnovo Normale
 
-GOV.UK afferma che deve rinnovare il Suo passaporto prima di poter viaggiare se è scaduto o non ha validità sufficiente per la Sua destinazione. Un passaporto scaduto segue il rinnovo standard, online o su modulo cartaceo, e Le servirà il vecchio passaporto per farlo. I passaporti per adulti sono per le persone dai 16 anni in su, e i passaporti per bambini hanno una procedura propria.
+[GOV.UK](https://www.gov.uk/renew-adult-passport/renew) afferma che deve rinnovare il Suo passaporto prima di poter viaggiare se è scaduto o non ha validità sufficiente per la Sua destinazione. Un passaporto scaduto segue il rinnovo standard, online o su modulo cartaceo, e Le servirà il vecchio passaporto per farlo. I passaporti per adulti sono per le persone dai 16 anni in su, e i passaporti per bambini hanno una procedura propria.
 
 ### Stati Uniti: Il Rinnovo Funziona Entro 15 Anni dal Rilascio
 
@@ -64,7 +64,7 @@ Gli Stati Uniti hanno requisiti propri per rinnovare un passaporto scaduto, comp
 
 ### Canada: Un Passaporto Scaduto Può Essere Rinnovato Online
 
-Il governo del Canada consente il rinnovo se il Suo ultimo passaporto era un passaporto per adulti rilasciato quando aveva almeno 16 anni. Deve inoltre essere stato rilasciato entro 15 anni dalla data della Sua richiesta e avere una validità di 5 o 10 anni. Può rinnovare online se il Suo passaporto scade nei prossimi sei mesi o è già scaduto, a condizione che il Suo indirizzo di residenza e postale siano in Canada. I passaporti per bambini non possono essere rinnovati, quindi un bambino necessita di una nuova richiesta.
+[Il governo del Canada](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html) consente il rinnovo se il Suo ultimo passaporto era un passaporto per adulti rilasciato quando aveva almeno 16 anni. Deve inoltre essere stato rilasciato entro 15 anni dalla data della Sua richiesta e avere una validità di 5 o 10 anni. Può [rinnovare online](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport/submit-form-fees/renew-online.html) se il Suo passaporto scade nei prossimi sei mesi o è già scaduto, a condizione che il Suo indirizzo di residenza e postale siano in Canada. I passaporti per bambini non possono essere rinnovati, quindi un bambino necessita di una nuova richiesta.
 
 Se il Suo passaporto è scaduto anni fa, guardi prima la data di rilascio, perché il limite di 15 anni negli Stati Uniti e in Canada si conta dal rilascio, non dalla scadenza. Verifichi poi i tempi di attesa attuali prima di prenotare, cosa che la nostra guida su [quanto tempo richiede il rinnovo del passaporto](https://traveldocumentvault.com/it/blog/how-long-does-passport-renewal-take/) illustra paese per paese.
 
@@ -110,7 +110,7 @@ Lo faccia per ogni passaporto in Suo possesso separatamente. I passaporti dei ba
 
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 
-Fonti che abbiamo verificato (6 novembre 2026)
+Fonti ufficiali
 
 - [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
 - [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)

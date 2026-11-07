@@ -22,7 +22,7 @@ To regler og en enkelt finurlighed ved børnepas forklarer stort set alle famili
 
 ## Den rigtige Schengen-regel: 3 måneder efter afrejse
 
-EU's krav er præcist: dit pas skal være gyldigt i mindst 3 måneder efter den dato, du agter at forlade Schengenområdet, og det skal være udstedt inden for de foregående 10 år.
+EU's krav er præcist: [dit pas skal være gyldigt i mindst 3 måneder efter den dato, du agter at forlade Schengenområdet](https://www.gov.uk/foreign-travel-advice/france/entry-requirements), og det skal være udstedt inden for de foregående 10 år.
 
 Forestil dig, at din familie vender hjem fra Italien den 20. august. Hvert pas skal have gyldighed til cirka den 20. november – det er tre måneder efter din afrejsedato, ikke din ankomstdato, og ikke din bookingdato. Et pas, der udløber den 10. november, dumper den test, selvom selve ferien slutter uger tidligere.
 
@@ -30,7 +30,7 @@ Betingelsen om udstedelse inden for 10 år rammer britiske familier på en særl
 
 ## Hvorfor det ikke er 6-månedersreglen
 
-De fleste rejsende har fået den opfattelse, at pas skal have seks måneders gyldighed for at kunne rejse nogen steder. Den regel er reel – Thailand kræver seks måneders gyldighed, og mange andre lande anvender en variant af den. Men det gør Schengen ikke. Europa kræver tre måneder efter afrejse, hvilket er mildere, og alligevel blandes de to sammen til et vagt "seks måneder et eller andet sted fra", som skaber både falsk alarm og falsk tryghed.
+De fleste rejsende har fået den opfattelse, at pas skal have seks måneders gyldighed for at kunne rejse nogen steder. Den regel er reel – [Thailand kræver seks måneders gyldighed](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), og mange andre lande anvender en variant af den. Men det gør Schengen ikke. Europa kræver tre måneder efter afrejse, hvilket er mildere, og alligevel blandes de to sammen til et vagt "seks måneder et eller andet sted fra", som skaber både falsk alarm og falsk tryghed.
 
 Vores guide til [6-månedersreglen](https://traveldocumentvault.com/da/blog/passport-expiry-6-month-rule/) gennemgår, hvilke lande der faktisk håndhæver den. Vores [forklaring om pasgyldighed](https://traveldocumentvault.com/da/blog/how-long-is-passport-valid-for-travel/) dækker det generelle tilfælde. Her holder vi os til Schengen, fordi det er der, familier oftest regner subtilt forkert.
 
@@ -38,7 +38,7 @@ Vores guide til [6-månedersreglen](https://traveldocumentvault.com/da/blog/pass
 
 ## Børnepas kører på et hurtigere ur
 
-Britiske voksenpas gælder i 10 år, mens Storbritannien kun udsteder børnepas for fem. Den asymmetri er, hvor ellers omhyggelige planer går skævt.
+[Britiske voksenpas gælder i 10 år](https://www.gov.uk/apply-first-adult-passport), mens [Storbritannien kun udsteder børnepas for fem](https://www.gov.uk/get-a-child-passport). Den asymmetri er, hvor ellers omhyggelige planer går skævt.
 
 | Land | Børnepas | Gyldighed |
 |---|---|---|
@@ -60,13 +60,13 @@ Uanset hvad grænsen måtte tolerere, møder du reglerne tidligere end det – v
 
 Løsningen er enkel og tager kun få minutter. Den dag du booker, samler du alle husstandens pas og noterer hver udløbsdato og udstedelsesdato. Stil derefter to spørgsmål for hvert pas: er det stadig gyldigt tre måneder efter din hjemrejse, og blev det udstedt for mindre end ti år siden? Alt, der dumper en af de to test, går i fornyelseskøen samme uge – på det tidspunkt kan du stadig forny, omlægge turen eller flytte datoerne uden straf, og vi ville altid vælge at forny frem for at vente og se, om datoerne rykker sig.
 
-Børn har brug for samme margen som voksne. Der er ingen børneundtagelse fra gyldighedsreglerne – et femårigt barns pas får samme Timatic-behandling som dit eget. En sidebemærkning til britiske og irske rejser: Irland er slet ikke med i Schengen. Rejser mellem Storbritannien og Irland foregår under det separate Common Travel Area, så generalisér ikke fra en Dublin-tur til en Paris-tur.
+Børn har brug for samme margen som voksne. Der er ingen børneundtagelse fra gyldighedsreglerne – et femårigt barns pas får samme Timatic-behandling som dit eget. En sidebemærkning til britiske og irske rejser: Irland er slet ikke med i Schengen. Rejser mellem Storbritannien og Irland foregår under [det separate Common Travel Area](https://www.gov.uk/foreign-travel-advice/ireland/entry-requirements), så generalisér ikke fra en Dublin-tur til en Paris-tur.
 
 Intet af det her kræver en app. Et regneark hjælper de fleste familier fint, og en kalenderpåmindelse to gange om året klarer det meste af arbejdet. Det eneste, der ikke kan gå på kompromis: lav tjekket ved bookingtidspunktet, hvor et kort pas stadig er et ærinde, ikke en nødsituation.
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 
-Kilder vi har tjekket (6. november 2026)
+Officielle kilder
 
 - [UK Foreign Office: France entry requirements](https://www.gov.uk/foreign-travel-advice/france/entry-requirements)
 - [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
@@ -80,7 +80,7 @@ Kilder vi har tjekket (6. november 2026)
 
 ### Hvad er forskellen på 6-månedersreglen og Schengens 3-månedersregel?
 
-Det er separate regler for forskellige destinationer. Lande som Thailand og Indonesien vil generelt have 6 måneders resterende gyldighed. Schengen kræver 3 måneders gyldighed efter den dato, du rejser ud, plus et pas udstedt inden for de seneste 10 år. Familier, der har rejst til Sydøstasien, går ofte ud fra, at 6-månederstallet gælder overalt – det gør det ikke.
+Det er separate regler for forskellige destinationer. Lande som Thailand og [Indonesien](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements) vil generelt have 6 måneders resterende gyldighed. Schengen kræver 3 måneders gyldighed efter den dato, du rejser ud, plus et pas udstedt inden for de seneste 10 år. Familier, der har rejst til Sydøstasien, går ofte ud fra, at 6-månederstallet gælder overalt – det gør det ikke.
 
 ### Følger børn andre Schengen-pasregler?
 

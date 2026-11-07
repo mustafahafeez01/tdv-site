@@ -21,13 +21,13 @@ Et ESTA er typisk gyldigt i to år fra den dag, det godkendes, eller indtil det 
 
 ## Dit ESTA ophører efter to år, eller når passet udløber
 
-US Customs and Border Protection (CBP) fastsætter reglen: et godkendt ESTA er typisk gyldigt i to år fra godkendelsesdatoen, eller indtil dit pas udløber, alt efter hvad der sker først. Et pas med 14 måneder tilbage giver altså et ESTA med 14 måneder tilbage. Godkendelsesskærmen viser den præcise udløbsdato, hvilket sparer dig for at regne den ud.
+[US Customs and Border Protection (CBP)](https://www.cbp.gov/travel/international-visitors/esta/frequently-asked-questions-about-visa-waiver-program-vwp-and-electronic-system-travel) fastsætter reglen: et godkendt ESTA er typisk gyldigt i to år fra godkendelsesdatoen, eller indtil dit pas udløber, alt efter hvad der sker først. Et pas med 14 måneder tilbage giver altså et ESTA med 14 måneder tilbage. Godkendelsesskærmen viser den præcise udløbsdato, hvilket sparer dig for at regne den ud.
 
 ![Diagram over hvornår et ESTA ophører: det udløber efter 2 år eller når passet udløber, det der sker først. Alle skal have sit eget, også babyer og børn, hver på sit eget pas. Nyt pas, nyt navn eller nyt statsborgerskab betyder, at man skal ansøge igen](https://traveldocumentvault.com/blog/how-long-is-esta-valid/esta-clock-da.jpg) Et ur per rejsende, og det overlever aldrig passet.
 
 CBP sender også en mail til den adresse, der står i din ansøgning, når dit ESTA er ved at udløbe inden for de næste 30 dage. Vi ville ikke stole på den mail alene: den kan lande i spam eller en gammel indbakke, så notér datoen et sted, du ser det, når du booker.
 
-Inden for de to år dækker et ESTA lige så mange rejser, du vil. Hvert besøg under Visa Waiver Program er stadig begrænset til højst 90 dage, og CBP er tydelige: en toårig godkendelse betyder ikke et toårigt ophold.
+Inden for de to år dækker et ESTA lige så mange rejser, du vil. Hvert besøg under [Visa Waiver Program](https://www.cbp.gov/travel/international-visitors/visa-waiver-program) er stadig begrænset til højst 90 dage, og CBP er tydelige: en toårig godkendelse betyder ikke et toårigt ophold.
 
 Den ene undtagelse er Brunei, hvor CBP har skåret gyldighedsperioden for landets statsborgere ned til et år.
 
@@ -62,7 +62,7 @@ Ingen forventer, at et lille barn udfylder en formular. En forælder eller enhve
 
 ## Gebyret steg den 16. oktober, og eksisterende godkendelser er upåvirkede
 
-Ifølge meddelelsen i Federal Register, offentliggjort den 1. oktober 2026, steg ESTA-gebyret fra US $40.27 til US $40.62, opkrævet fra den 16. oktober 2026. Har du allerede et gyldigt, godkendt ESTA, siger CBP, at du ikke skal ansøge igen. Du betaler det nye beløb næste gang du ansøger.
+Ifølge [meddelelsen i Federal Register](https://www.govinfo.gov/content/pkg/FR-2026-10-01/html/2026-20185.htm), offentliggjort den 1. oktober 2026, steg ESTA-gebyret fra US $40.27 til US $40.62, opkrævet fra den 16. oktober 2026. Har du allerede et gyldigt, godkendt ESTA, siger CBP, at du ikke skal ansøge igen. Du betaler det nye beløb næste gang du ansøger.
 
 Samme meddelelse fastsætter et lavere gebyr på US $10.62, hvis en ansøgning afvises, hvilket dækker omkostningen ved at behandle den.
 
@@ -70,7 +70,7 @@ Forvent, at beløbet ændrer sig igen. Loven bag det kræver, at gebyret justere
 
 ## Ansøg på den officielle ESTA-hjemmeside, ikke en kopi
 
-Nogle tredjepartswebsteder opkræver mere end det officielle gebyr. CBP siger, at de ikke gør godkendelsen hurtigere, at de ikke er godkendt af eller forbundet med Department of Homeland Security, og at CBP ikke kan refundere, hvad du betalte dem. Ansøg på den officielle ESTA-hjemmeside, som drives af CBP.
+Nogle [tredjepartswebsteder](https://www.cbp.gov/newsroom/national-media-release/cbp-warns-against-third-party-site-use-esta-applications) opkræver mere end det officielle gebyr. CBP siger, at de ikke gør godkendelsen hurtigere, at de ikke er godkendt af eller forbundet med [Department of Homeland Security](https://www.dhs.gov/visa-waiver-program), og at CBP ikke kan refundere, hvad du betalte dem. Ansøg på den officielle ESTA-hjemmeside, som drives af CBP.
 
 Det er også der, du tjekker en status. Vælg "Check ESTA Status" (tjek ESTA-status), så "Check Individual Status" (tjek individuel status), eller "Check Group Status" (tjek gruppestatus) for en familieansøgning. Har du mistet ansøgningsnummeret, kan du finde ansøgningen med dit pasnummer, statsborgerskabsland, passets udstedelses- og udløbsdato samt fødselsdato. Oplysningerne skal matche nøjagtigt det, du indtastede.
 
@@ -89,11 +89,11 @@ Fire tjek tager et par minutter:
 
 ## Et godkendt ESTA er ingen garanti for indrejse
 
-Godkendelse betyder, at du er berettiget til at rejse under Visa Waiver Program, ikke at du får tilladelse til at rejse ind, da CBP's officerer træffer den beslutning, når du ankommer.
+[Godkendelse betyder, at du er berettiget til at rejse](https://www.cbp.gov/travel/international-visitors/esta) under Visa Waiver Program, ikke at du får tilladelse til at rejse ind, da CBP's officerer træffer den beslutning, når du ankommer.
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 
-Kilder vi har tjekket (6. november 2026)
+Officielle kilder
 
 - [US CBP: Visa Waiver Program and ESTA frequently asked questions](https://www.cbp.gov/travel/international-visitors/esta/frequently-asked-questions-about-visa-waiver-program-vwp-and-electronic-system-travel)
 - [US CBP: Electronic System for Travel Authorization (ESTA)](https://www.cbp.gov/travel/international-visitors/esta)
@@ -102,7 +102,6 @@ Kilder vi har tjekket (6. november 2026)
 - [US DHS: Visa Waiver Program](https://www.dhs.gov/visa-waiver-program)
 - [US CBP: CBP Reminds Travelers to Allow 72 Hours for ESTA](https://www.cbp.gov/newsroom/national-media-release/cbp-reminds-travelers-allow-72-hours-esta)
 - [US CBP: CBP Warns Against Third-Party Site Use for ESTA Applications](https://www.cbp.gov/newsroom/national-media-release/cbp-warns-against-third-party-site-use-esta-applications)
-- [US CBP: ESTA frequently asked questions](https://esta.cbp.dhs.gov/faq)
 
 ## Ofte stillede spørgsmål
 

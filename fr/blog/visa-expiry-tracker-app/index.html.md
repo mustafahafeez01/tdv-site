@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/fr/blog/visa-expiry-tracker-app/
 - Les visiteurs de l'espace Schengen doivent suivre une fenêtre glissante de 90/180 jours, pas seulement une seule date d'expiration, car le compte avance avec votre historique de voyage réel, pas avec le calendrier.
 - Suivre les visas et les passeports ensemble au même endroit réduit le risque d'une incohérence: entrer avec un visa valide mais avec un passeport qui expire avant la fin de votre séjour prévu.
 
-Un dépassement de visa est l'une des erreurs de voyage les plus graves qu'une personne puisse commettre. Contrairement à un vol manqué — stressant mais finalement réparable — un dépassement crée un dossier formel d'immigration qui peut vous suivre pendant des années. Aux États-Unis, en vertu de la section 212(a)(9)(B) de l'Immigration and Nationality Act, une personne en situation irrégulière pendant plus de 180 jours mais moins d'un an, puis qui quitte le pays, se voit généralement interdire le retour pendant trois ans, et un an ou plus de présence irrégulière entraîne généralement une interdiction de dix ans. Ces conséquences ne sont pas largement connues.
+Un dépassement de visa est l'une des erreurs de voyage les plus graves qu'une personne puisse commettre. Contrairement à un vol manqué — stressant mais finalement réparable — un dépassement crée un dossier formel d'immigration qui peut vous suivre pendant des années. Aux États-Unis, en vertu de la section 212(a)(9)(B) de l'[Immigration and Nationality Act](https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chap12-subchapII-partII-sec1182.htm), une personne en situation irrégulière pendant plus de 180 jours mais moins d'un an, puis qui quitte le pays, se voit généralement interdire le retour pendant trois ans, et un an ou plus de présence irrégulière entraîne généralement une interdiction de dix ans. Ces conséquences ne sont pas largement connues.
 
 Une application de suivi des visas empêche cela : elle doit surveiller plusieurs dates à la fois, validité d'entrée, séjour maximal et nombre d'entrées, chacune étant une échéance distincte.
 
@@ -43,7 +43,7 @@ Un suivi qui ne surveille que la date de validité d'entrée manque la cause la 
 
 Pour les voyageurs qui visitent plusieurs pays européens, la règle Schengen 90/180 jours est la condition d'entrée la plus largement incomprise dans les voyages internationaux. Les citoyens de pays ayant un accès sans visa à Schengen (y compris le Royaume-Uni, les États-Unis, le Canada et l'Australie, entre autres) peuvent passer un maximum de 90 jours dans l'espace Schengen au cours de toute fenêtre glissante de 180 jours.
 
-La Commission européenne fournit un calculateur officiel de séjour Schengen pour aider les voyageurs à déterminer leurs jours autorisés. Le point essentiel est que c'est une *fenêtre glissante*, pas une réinitialisation d'année civile. Les jours passés à Schengen il y a six mois comptent toujours contre votre allocation actuelle, donc vérifier une seule date d'expiration ne vous évitera pas un dépassement. Ce qui compte, c'est votre historique réel d'entrées et de sorties, pas la date imprimée sur le visa.
+La Commission européenne fournit un [calculateur officiel de séjour Schengen](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en) pour aider les voyageurs à déterminer leurs jours autorisés. Le point essentiel est que c'est une *fenêtre glissante*, pas une réinitialisation d'année civile. Les jours passés à Schengen il y a six mois comptent toujours contre votre allocation actuelle, donc vérifier une seule date d'expiration ne vous évitera pas un dépassement. Ce qui compte, c'est votre historique réel d'entrées et de sorties, pas la date imprimée sur le visa.
 
 ## Ce qui se passe quand vous dépassez
 
@@ -51,7 +51,7 @@ Les conséquences d'un dépassement de visa varient selon le pays mais sont cons
 
 - **Royaume-Uni:** Les dépassements sont enregistrés et affecteront les futures demandes de visa. Le Bureau de l'immigration du Royaume-Uni considère les dépassements lors de l'évaluation de la crédibilité et peut refuser les demandes ultérieures.
 - **Australie:** Le dépassement de votre visa peut entraîner des restrictions sur les futures demandes de visa et votre expulsion du pays. En vertu de la loi sur la migration de 1958, les dossiers de dépassement sont suivis et affecteront les futures demandes de visa et l'admissibilité à la réentrée.
-- **Espace Schengen:** Les séjours sont enregistrés à la frontière, et une interdiction d'entrée émise par un pays Schengen est généralement partagée avec les autres via le Système d'information Schengen (SIS), si bien qu'elle s'applique à l'ensemble de l'espace Schengen, que la Commission européenne recense actuellement à 29 pays.
+- **Espace Schengen:** Les séjours sont enregistrés à la frontière, et une interdiction d'entrée émise par un pays Schengen est généralement partagée avec les autres via le [Système d'information Schengen (SIS)](https://home-affairs.ec.europa.eu/policies/schengen/schengen-information-system/what-sis-and-how-does-it-work_en), si bien qu'elle s'applique à l'ensemble de l'espace Schengen, que [la Commission européenne recense actuellement à 29 pays](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en).
 - **Thaïlande:** Les dépassements entraînent une amende journalière fixée par les autorités d'immigration thaïlandaises, jusqu'à un plafond, et un dépassement de plus de 90 jours peut entraîner une expulsion et une interdiction de retour.
 
 Dans tous les cas, l'enregistrement du dépassement vous suit généralement: il apparaît dans les bases de données d'immigration consultées aux futurs passages frontaliers et demandes de visa.
@@ -80,7 +80,7 @@ Comparez dès aujourd'hui la date d'expiration de votre passeport à celles de v
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
-Sources vérifiées (6 novembre 2026)
+Sources officielles
 
 - [US Code: Title 8, section 1182](https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chap12-subchapII-partII-sec1182.htm)
 - [European Commission: Schengen area](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en)

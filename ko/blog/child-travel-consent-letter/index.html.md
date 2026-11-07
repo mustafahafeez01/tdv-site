@@ -33,7 +33,7 @@ Source: https://traveldocumentvault.com/ko/blog/child-travel-consent-letter/
 - **아이가 성씨가 다른 한 명의 부모와 여행합니다.** 이는 일부 국경, 특히 더 어린 아이들에게 의심을 일으킵니다.
 - **아이가 입양되었거나 위탁 양육 중입니다.** 법적 후견권 서류와 동의서가 필요할 수 있습니다.
 
-**중요한 주의사항:** 규칙은 국가에 따라 크게 다릅니다. 캐나다는 법적으로 동의서를 요구하지 않지만, 캐나다 정부는 동의서를 강력히 권장하며 "요청 시 동의서를 제출하지 않으면 지연이나 국가 진입 또는 출국 거부가 발생할 수 있습니다"라고 명시합니다. 남아프리카공화국은 부모가 동행하지 않는 경우 부모 동의 진술서를 요구합니다. 일부 국가는 특정 나이 이하의 아이들에게만 요구 사항을 적용합니다. 전 세계적인 표준은 없습니다.
+**중요한 주의사항:** 규칙은 국가에 따라 크게 다릅니다. 캐나다는 법적으로 동의서를 요구하지 않지만, [캐나다 정부](https://travel.gc.ca/travelling/children/consent-letter)는 동의서를 강력히 권장하며 "요청 시 동의서를 제출하지 않으면 지연이나 국가 진입 또는 출국 거부가 발생할 수 있습니다"라고 명시합니다. 남아프리카공화국은 부모가 동행하지 않는 경우 부모 동의 진술서를 요구합니다. 일부 국가는 특정 나이 이하의 아이들에게만 요구 사항을 적용합니다. 전 세계적인 표준은 없습니다.
 
 여행 전에 항상 특정 목적지 국가의 출입국 관리 당국에 직접 요구 사항을 확인하세요. IATA 여행 센터를 사용하여 입국 요구 사항을 확인하거나 목적지 국가의 대사관에 문의하세요. 확실하지 않다면 동의서를 가지고 있는 것이 그 대안보다 낫습니다. 체크인 또는 국경에서 멈추는 것입니다.
 
@@ -61,8 +61,8 @@ Source: https://traveldocumentvault.com/ko/blog/child-travel-consent-letter/
 
 국가별 공증 관련 안내:
 
-- **캐나다.** 동의서는 법적으로 필수가 아니지만, 캐나다 정부는 강력히 권장하며 공증인이 서명을 증명하도록 권장합니다. 국경 및 항공사 직원들이 입국 또는 출국 시 요청할 수 있습니다.
-- **남아프리카공화국.** 부모가 동행하지 않는 경우 내무부는 부모 동의 진술서를 요구하며, 제시일 기준 작성 후 4개월이 지나지 않아야 한다고 안내합니다. 내무부의 최신 안내를 확인하세요.
+- **캐나다.** 동의서는 법적으로 필수가 아니지만, [캐나다 정부](https://travel.gc.ca/travelling/children/documents)는 강력히 권장하며 공증인이 서명을 증명하도록 권장합니다. 국경 및 항공사 직원들이 입국 또는 출국 시 요청할 수 있습니다.
+- **남아프리카공화국.** 부모가 동행하지 않는 경우 [내무부](https://www.gov.za/news/speeches/director-general-mkuseli-apleni-media-briefing-new-requirements-travelling-children)는 부모 동의 진술서를 요구하며, 제시일 기준 작성 후 4개월이 지나지 않아야 한다고 안내합니다. 내무부의 최신 안내를 확인하세요.
 - **호주.** Smartraveller에서 아동 동반 여행 안내를 제공하며, 항공사가 동의서를 요청할 수 있습니다. 출발국과 도착국에 적용되는 안내를 확인하세요.
 - **영국.** 출국에 대해서는 법적으로 필수는 아니지만, 항공사와 목적지 국경 공무원들은 아이가 한 명의 부모 또는 부모가 아닌 성인과 함께 여행할 때 요청할 수 있습니다. 해당 경로에 대한 GOV.UK 안내를 확인하세요.
 - **미국.** 연방 차원에서 의무화되지 않지만 권장됩니다. 일부 주에서는 공증을 명시적으로 인식합니다.
@@ -92,7 +92,7 @@ Source: https://traveldocumentvault.com/ko/blog/child-travel-consent-letter/
 | **영국** | 법적으로 필수 아님; 항공사와 목적지 국경에서 요청할 수 있음 | 최신 안내 확인 | GOV.UK |
 | **미국** | 연방 차원에서 필수 아님; 주에 따라 다름 | 최신 안내 확인 | travel.state.gov |
 | **유럽 연합** | 국가에 따라 다름 | 국가에 따라 다름 | IATA 여행 센터 |
-| **뉴질랜드** | 권장 | 보통 부모가 서명하고 공무원이 입회 확인 | SafeTravel (뉴질랜드 정부) |
+| **뉴질랜드** | 권장 | 보통 부모가 서명하고 공무원이 입회 확인 | [SafeTravel](https://www.safetravel.govt.nz/before-you-go/who-is-travelling/travelling-with-children) (뉴질랜드 정부) |
 
 이 표는 출발점일 뿐 최종 답은 아닙니다. 규칙은 자주 변경되며, 목적지 국가의 출입국 관리 당국이 가장 믿을 만한 출처입니다. 여행 블로그와 항공사 페이지는 맥락에 유용하지만, 최신 요구 사항에 뒤떨어질 수 있습니다.
 
@@ -125,7 +125,7 @@ Source: https://traveldocumentvault.com/ko/blog/child-travel-consent-letter/
 
 **이 글에 의존하기 전에:** 이 글은 블로그이며 공식 자료가 아닙니다. 규정과 세부 사항은 바뀌고, 여러분의 상황은 다를 수 있습니다. 저희는 게시하는 내용을 확인하지만 그래도 틀리거나 오래된 정보일 수 있습니다. 여기 적힌 내용이 계획에 중요하다면, 움직이기 전에 담당 기관에 확인하시기 바랍니다.
 
-확인한 출처 (2026년 11월 6일)
+공식 출처
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [NZ SafeTravel: Travelling with children](https://www.safetravel.govt.nz/before-you-go/who-is-travelling/travelling-with-children)

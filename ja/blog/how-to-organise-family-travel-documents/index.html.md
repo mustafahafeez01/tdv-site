@@ -39,13 +39,13 @@ Source: https://traveldocumentvault.com/ja/blog/how-to-organise-family-travel-do
 
 **子どもと旅行するときに加わる書類**
 
-- 出生証明書、時々出入国管理で必要とされ、特に子どもの姓が旅行親と異なる場合
+- 出生証明書、[時々出入国管理で必要とされ](https://www.gov.uk/foreign-travel-advice/mexico/entry-requirements)、特に子どもの姓が旅行親と異なる場合
 - 一方の親が同行していない場合は、署名された親権同意書を強く推奨します、一親での旅行または祖父母の旅行
 - 該当する場合は親権裁判所命令
 
 ### 児童旅行同意書。いつ必要か
 
-児童旅行同意書は、不在の親（または法的保護者）が子どもの旅行許可を与える署名文書です。一般的には法的な要件ではありませんが、カナダなど一部の国の国境職員は、子どもが一方の親のみ、または他の成人と旅行する場合、両親が旅行に同意している証明を求めることがあります。同意書は携帯しやすく、国境での質問を減らす助けになります。
+児童旅行同意書は、不在の親（または法的保護者）が子どもの旅行許可を与える署名文書です。一般的には法的な要件ではありませんが、[カナダ](https://travel.gc.ca/travelling/children/consent-letter)など一部の国の国境職員は、子どもが一方の親のみ、または他の成人と旅行する場合、両親が旅行に同意している証明を求めることがあります。同意書は携帯しやすく、国境での質問を減らす助けになります。
 
 南アフリカには、完全版出生証明書など、子どもとの旅行に関する独自のルールがあります。出発前に内務省の案内を確認してください。
 
@@ -57,7 +57,7 @@ Source: https://traveldocumentvault.com/ja/blog/how-to-organise-family-travel-do
 
 - 国際運転免許証（海外でレンタカーする場合）
 - 継続的な状態の医療記録または処方箋詳細
-- EUの医療制度で保障されている場合は、ヨーロッパ健康保険証（EHIC）
+- [EUの医療制度で保障されている場合](https://europa.eu/youreurope/citizens/health/unplanned-healthcare/temporary-stays/index_en.htm)は、ヨーロッパ健康保険証（EHIC）
 
 ## 物理的整理。元の書類をどこに保管するか
 
@@ -128,7 +128,7 @@ Source: https://traveldocumentvault.com/ja/blog/how-to-organise-family-travel-do
 
 **この記事に頼る前に:** これはブログであり、公式な情報源ではありません。ルールや細かい条件は変わりますし、あなたの状況は違うかもしれません。掲載内容は確認していますが、それでも誤りや古い情報が含まれる可能性があります。ここに書かれていることがご自身の予定に関わるなら、行動に移す前に担当する機関に確認してください。
 
-確認した情報源（2026年11月6日）
+公式情報源
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [UK Foreign Office: Mexico entry requirements](https://www.gov.uk/foreign-travel-advice/mexico/entry-requirements)

@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/blog/visa-expiry-tracker-app/
 - Schengen Area visitors must track a rolling 90/180-day window, not just a single expiry date, because the count rolls with your actual travel history, not the calendar.
 - Tracking visas and passports together in one place reduces the risk of a mismatch: entering on a valid visa but with a passport that expires before your planned stay ends.
 
-A visa overstay is one of the most consequential travel mistakes a person can make. Unlike a missed flight, which is stressful but ultimately fixable, an overstay creates a formal immigration record that can follow you for years. In the United States, under section 212(a)(9)(B) of the US Immigration and Nationality Act, someone who is unlawfully present for more than 180 days but less than a year and then leaves is generally barred from returning for three years, and one year or more of unlawful presence generally means a ten-year bar. These consequences are not widely known.
+A visa overstay is one of the most consequential travel mistakes a person can make. Unlike a missed flight, which is stressful but ultimately fixable, an overstay creates a formal immigration record that can follow you for years. In the United States, under section 212(a)(9)(B) of the [US Immigration and Nationality Act](https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chap12-subchapII-partII-sec1182.htm), someone who is unlawfully present for more than 180 days but less than a year and then leaves is generally barred from returning for three years, and one year or more of unlawful presence generally means a ten-year bar. These consequences are not widely known.
 
 A visa expiry tracker app is built to prevent this: it needs to monitor multiple dates at once, entry validity, maximum stay, and entry count, each a separate deadline.
 
@@ -45,7 +45,7 @@ It's the field most travellers fail to track, because the date is not stamped an
 
 For travellers who visit multiple European countries, the Schengen Area's 90/180-day rule is one of the most widely misunderstood entry conditions in international travel. Citizens of countries with visa-free access to Schengen (including the UK, US, Canada, and Australia, among many others) may spend a maximum of 90 days in the Schengen Area within any 180-day rolling window.
 
-The European Commission provides an official Schengen stay calculator to help travellers work out their allowed days, which matters because this is a *rolling window*, not a calendar-year reset. Days spent in Schengen six months ago still count against your current allowance, so checking a single expiry date will not catch an overstay. What matters is your actual entry and exit history, not the date printed on the visa.
+The European Commission provides an official [Schengen stay calculator](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en) to help travellers work out their allowed days, which matters because this is a *rolling window*, not a calendar-year reset. Days spent in Schengen six months ago still count against your current allowance, so checking a single expiry date will not catch an overstay. What matters is your actual entry and exit history, not the date printed on the visa.
 
 ## What Happens When You Overstay
 
@@ -53,7 +53,7 @@ The consequences of a visa overstay vary by country but are consistently serious
 
 - **UK:** Overstays are recorded and will affect future visa applications. The UK Home Office considers overstays when assessing credibility and may refuse subsequent applications.
 - **Australia:** Overstaying your visa may result in restrictions on future visa applications and removal from the country. Under the Migration Act 1958, overstay records are tracked and will affect future visa applications and re-entry eligibility.
-- **Schengen Area:** Stays are recorded at the border, and an entry ban issued by one Schengen country is generally shared with the others through the Schengen Information System, so it applies across the Schengen area, which the European Commission currently lists as 29 countries.
+- **Schengen Area:** Stays are recorded at the border, and an entry ban issued by one Schengen country is generally shared with the others through the [Schengen Information System](https://home-affairs.ec.europa.eu/policies/schengen/schengen-information-system/what-sis-and-how-does-it-work_en), so it applies across the Schengen area, [which the European Commission currently lists as 29 countries](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en).
 - **Thailand:** Overstays incur a daily fine set by Thai immigration, up to a capped maximum, and an overstay of more than 90 days can lead to deportation and a ban on returning.
 
 In all cases, the overstay record typically follows you: it appears in immigration databases checked at future border crossings and visa applications.
@@ -82,7 +82,7 @@ Check your passport's expiry against your visa dates today: even a valid visa wi
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [US Code: Title 8, section 1182](https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chap12-subchapII-partII-sec1182.htm)
 - [European Commission: Schengen area](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en)

@@ -24,7 +24,7 @@ Problemet starter småt. Du har dit pas, din partner har sit. Så får du børn,
 
 Som regel ender én person med at håndtere det hele, ofte den, der allerede styrer den øvrige rejselogistik, og det enkelte fejlpunkt bliver en risiko.
 
-Børnepas udløber ofte tidligere end voksenpas. I Storbritannien gælder et børnepas i 5 år, og mange andre lande udsteder børnepas med kortere gyldighed end voksenpas. Det betyder, at dit yngste barns pas ofte bliver den begrænsende faktor for familierejser. Du kunne have en forælder med 8 år gyldighed tilbage, men hvis dit yngste barns pas udløber om 18 måneder, det er din planhorisonts længde.
+Børnepas udløber ofte tidligere end voksenpas. I Storbritannien gælder [et børnepas i 5 år](https://www.gov.uk/get-a-child-passport), og mange andre lande udsteder børnepas med kortere gyldighed end voksenpas. Det betyder, at dit yngste barns pas ofte bliver den begrænsende faktor for familierejser. Du kunne have en forælder med 8 år gyldighed tilbage, men hvis dit yngste barns pas udløber om 18 måneder, det er din planhorisonts længde.
 
 De fleste familier indser ikke dette, før de allerede har booket en rejse. En forælder finder passene en uge før afgang, scanner dem hastigt mens pakker, og opdager, at ét barns dokument ikke opfylder det gyldighedskrav, nogle destinationer stiller, ofte seks måneder. Rejsen er nu i fare, eller kræver en overilende og dyr pasfornyelse.
 
@@ -86,7 +86,7 @@ Har du ikke sat det op endnu, så start i dag: scan fotosiden i hvert eneste pas
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 
-Kilder vi har tjekket (6. november 2026)
+Officielle kilder
 
 - [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
 

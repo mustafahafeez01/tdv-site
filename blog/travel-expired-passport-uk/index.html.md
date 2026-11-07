@@ -46,23 +46,23 @@ A renewal that is already in progress is a different question, and it turns on w
 
 ## An Expired Passport Is Renewed, Not Started From Scratch
 
-An out-of-date passport is renewed, not started again from scratch. GOV.UK lists an expired passport as one of the two reasons you must renew before you travel, alongside not having enough time left on it, so for most people the standard adult renewal service is the route. The exception covers older passports. If your last UK passport was issued before 1 January 1994, HM Passport Office asks you to apply for a first adult passport instead, so it's worth checking the issue date before you start.
+An out-of-date passport is renewed, not started again from scratch. [GOV.UK](https://www.gov.uk/renew-adult-passport/renew) lists an expired passport as one of the two reasons you must renew before you travel, alongside not having enough time left on it, so for most people the standard adult renewal service is the route. The exception covers older passports. If your last UK passport was issued before 1 January 1994, HM Passport Office asks you to [apply for a first adult passport](https://www.gov.uk/apply-first-adult-passport) instead, so it's worth checking the issue date before you start.
 
 You can apply online, which needs a digital photo, or on a paper form, which needs two identical printed photos. Either way you'll send your old passport with the application. If it holds a visa that's still valid, GOV.UK says to send the passport with the visa attached, and the old passport is returned to you.
 
-One detail catches people once the new passport arrives: **it has a different number**. GOV.UK advises against booking travel until you hold the new passport for that reason, and anything made with the old number, such as an airline booking or a travel authorisation for another country, may need updating. Our guide to [reading your passport dates](https://traveldocumentvault.com/blog/how-to-read-your-passport-dates/) explains what changes on renewal and what stays the same.
+One detail catches people once the new passport arrives: **it has a different number**. [GOV.UK](https://www.gov.uk/renew-adult-passport) advises against booking travel until you hold the new passport for that reason, and anything made with the old number, such as an airline booking or a travel authorisation for another country, may need updating. Our guide to [reading your passport dates](https://traveldocumentvault.com/blog/how-to-read-your-passport-dates/) explains what changes on renewal and what stays the same.
 
 ## Domestic Travel: Limited Flexibility with Alternative ID
 
 Domestic travel within the UK and Ireland works a little differently: airlines may accept alternative photo identification like a UK driving licence or national ID card in place of a passport. What's acceptable varies significantly by airline and destination, though, so you can't assume any particular ID will work.
 
-That doesn't mean you can skip renewing your passport. Airlines vary in their policies on domestic routes: some require a passport for all travel to Ireland even though the Common Travel Area technically permits ID-card travel, whilst others accept a driving licence. Airlines update their rules too, and your carrier may have changed theirs since you last flew, so you cannot assume what worked before will work again.
+That doesn't mean you can skip renewing your passport. Airlines vary in their policies on domestic routes: some require a passport for all travel to Ireland even though the [Common Travel Area](https://www.gov.uk/foreign-travel-advice/ireland/entry-requirements) technically permits ID-card travel, whilst others accept a driving licence. Airlines update their rules too, and your carrier may have changed theirs since you last flew, so you cannot assume what worked before will work again.
 
 If you are considering domestic travel with an expired passport, contact your airline well before your flight and ask explicitly: "My UK passport is expired. Will you accept my UK driving licence instead?" Get confirmation in writing if you can, as arriving at check-in with an alternative ID and no prior confirmation is how people miss flights.
 
 ## Emergency Renewal: Premium Service, If You Can Get a Slot
 
-If your trip is imminent and your passport is expired, His Majesty's Passport Office offers a 1 Day Premium service designed for exactly this scenario. GOV.UK says the earliest appointment is 2 days after you apply, and the new passport is ready to collect 4 hours after your appointment. HM Passport Office publishes the current fee on gov.uk, and it covers the appointment and renewal together rather than being charged on top of the standard fee. It gets you a passport far faster than the standard route, though how much faster depends on the appointment you can get. Note the 1 Day Premium service is for adult renewals only, not first adult passports.
+If your trip is imminent and your passport is expired, His Majesty's Passport Office offers a 1 Day Premium service designed for exactly this scenario. [GOV.UK](https://www.gov.uk/get-a-passport-urgently) says the earliest appointment is 2 days after you apply, and the new passport is ready to collect 4 hours after your appointment. HM Passport Office publishes the current fee on gov.uk, and it covers the appointment and renewal together rather than being charged on top of the standard fee. It gets you a passport far faster than the standard route, though how much faster depends on the appointment you can get. Note the 1 Day Premium service is for adult renewals only, not first adult passports.
 
 This is the official emergency route for genuine travel constraints. HM Passport Office publishes its current standard processing guidance on gov.uk, and it's worth checking that before you assume you have time to wait. When a trip genuinely can't wait, the Premium option removes the uncertainty.
 
@@ -84,7 +84,7 @@ Insurers often decline claims where you travelled without valid documents, so ch
 
 ## If You're Already Abroad and Your Passport Expires
 
-Your passport expiring while you're still abroad is the hardest scenario to plan for. If it expires before you return, you cannot board a flight or ferry home, and you'll need to contact the nearest British embassy or consulate for an emergency travel document, sometimes called an ETD or emergency passport, which is usually valid for one single or return journey, through a maximum of five countries.
+Your passport expiring while you're still abroad is the hardest scenario to plan for. If it expires before you return, you cannot board a flight or ferry home, and you'll need to contact the nearest British embassy or consulate for an [emergency travel document](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport), sometimes called an ETD or emergency passport, which is usually valid for one single or return journey, through a maximum of five countries.
 
 The process is slow and bureaucratic. You'll need to provide proof of identity and pay a fee, the current amount published by the Foreign, Commonwealth and Development Office. Processing time varies by embassy and by how urgent your situation is, so ask the consulate what to expect as soon as you contact them.
 
@@ -102,7 +102,7 @@ The simplest way to avoid all of this: pull out your passport today and check th
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)
 - [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)

@@ -39,7 +39,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/best-passport-organizer-app
 
 ### 提醒的提前期，才是值得自定义的设置
 
-这是最有价值的功能。提前6个月的提醒是最低限度的——许多国家要求护照的有效期至少为您的旅行日期后6个月，如我们关于[6个月护照规则](https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rule/)的文章所述。儿童护照的有效期通常为5年，而非10年（例如，英国儿童护照有效期为5年），因此更早的提醒——比如说9个月——可以提供更舒适的计划时间。
+这是最有价值的功能。提前6个月的提醒是最低限度的——许多国家要求护照的有效期至少为您的旅行日期后6个月，如我们关于[6个月护照规则](https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rule/)的文章所述。儿童护照的有效期通常为5年，而非10年（例如，[英国儿童护照](https://www.gov.uk/get-a-child-passport)有效期为5年），因此更早的提醒——比如说9个月——可以提供更舒适的计划时间。
 
 ### 一个应用就能安全地容纳全家人的证件
 
@@ -104,7 +104,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/best-passport-organizer-app
 
 **在依据本文行动之前：**这是一个博客，不是官方来源。规则和细节会变化，你的情况也可能不同。我们会核对所发布的内容，但仍可能出错或过时。如果这里的内容对你的安排很重要，请在行动前向主管机构核实。
 
-我们核对过的资料来源（2026年11月6日）
+官方资料来源
 
 - [UK Foreign Office: Indonesia entry requirements](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements)
 - [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)

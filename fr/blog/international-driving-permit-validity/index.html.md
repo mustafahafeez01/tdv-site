@@ -30,9 +30,9 @@ Cela piège les gens plus souvent que les dates d'expiration elles-mêmes. Le PC
 
 ## Deux conventions décident de la durée de validité et des pays où le permis fonctionne
 
-Trois accords internationaux sont à l'origine des PCI, et les pays ont ratifié l'un d'eux, ou plusieurs. Deux d'entre eux couvrent presque tous les cas : la convention de Genève de 1949 et la convention de Vienne de 1968. Un permis plus ancien relevant de la convention de Paris de 1926 existe aussi, et quelques destinations le mentionnent encore. Vérifiez la date d'expiration imprimée sur le document.
+[Trois accords internationaux](https://www.gov.uk/driving-abroad/international-driving-permit) sont à l'origine des PCI, et les pays ont ratifié l'un d'eux, ou plusieurs. Deux d'entre eux couvrent presque tous les cas : la convention de Genève de 1949 et la convention de Vienne de 1968. Un permis plus ancien relevant de la convention de Paris de 1926 existe aussi, et quelques destinations le mentionnent encore. Vérifiez la date d'expiration imprimée sur le document.
 
-Un permis délivré au titre de la convention de Genève de 1949 est valable un an. Un permis délivré au titre de la convention de Vienne de 1968 peut être valable jusqu'à trois ans.
+Un permis délivré au titre de la convention de Genève de 1949 est [valable un an](https://travel.gc.ca/travelling/documents/international-driving-permit). Un permis délivré au titre de la convention de Vienne de 1968 peut être valable jusqu'à trois ans.
 
 Cette distinction compte à double titre. Elle détermine la durée de validité de votre permis, et elle décide où ce permis est reconnu. Un pays n'ayant ratifié qu'une seule convention n'est pas tenu de reconnaître un permis délivré au titre de l'autre, ce qui explique qu'un permis accepté lors d'un voyage l'année dernière puisse être refusé cette année.
 
@@ -46,7 +46,7 @@ Cette distinction compte à double titre. Elle détermine la durée de validité
 
 ## Le permis de trois ans qui n'en est souvent pas un
 
-Ces trois ans s'accompagnent d'une condition qu'il est facile de survoler. Un permis de Vienne expire en même temps que votre permis de conduire national, si cette date arrive avant.
+Ces trois ans s'accompagnent d'une condition qu'il est facile de survoler. Un permis de Vienne [expire en même temps que votre permis de conduire national](https://treaties.un.org/doc/Treaties/1977/05/19770524%2000-13%20AM/Ch_XI_B_19.pdf), si cette date arrive avant.
 
 Supposons qu'il reste 14 mois de validité à votre permis national et qu'on vous délivre un PCI de trois ans. Ce permis international ne sera utile que pendant 14 mois. La date imprimée au recto ne prime pas sur le permis qui se trouve derrière lui.
 
@@ -68,7 +68,7 @@ C'est l'argument pratique pour garder ces trois dates au même endroit. Travel D
 
 Nous vérifierions ces points dans cet ordre, et la date du permis de conduire avant tout ce qui est imprimé sur le permis international.
 
-**Si vous avez besoin d'un permis, tout simplement.** Certains pays acceptent un permis national seul, et c'est le pays où vous conduisez qui fixe l'exigence, pas celui qui a délivré votre permis.
+**Si vous avez besoin d'un permis, tout simplement.** [Certains pays acceptent un permis national seul](https://www.gov.uk/driving-abroad), et c'est le pays où vous conduisez qui fixe l'exigence, pas celui qui a délivré votre permis.
 
 **Quelle convention votre destination reconnaît**, puis vérifiez votre permis par rapport à celle-ci (la convention est indiquée sur le document).
 
@@ -102,7 +102,7 @@ Aujourd'hui, sortez votre permis de conduire et votre permis international, si v
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
-Sources vérifiées (6 novembre 2026)
+Sources officielles
 
 - [United Nations Treaty Collection: Convention on Road Traffic (1968)](https://treaties.un.org/doc/Treaties/1977/05/19770524%2000-13%20AM/Ch_XI_B_19.pdf)
 - [UK Government: driving abroad, international driving permits](https://www.gov.uk/driving-abroad/international-driving-permit)

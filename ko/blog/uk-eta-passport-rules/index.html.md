@@ -22,7 +22,7 @@ UK ETA 제도는 표면적으로는 단순합니다. 신청하고, 비용을 내
 
 ## 무비자 방문객 대부분이 이제 ETA가 필요합니다
 
-미국, 캐나다, 호주, 뉴질랜드, 또는 EU나 유럽경제지역 국적이라면 UK ETA가 필요할 가능성이 높습니다. 이 제도는 2026년 2월 25일부터 대부분의 무비자 국적자에게 시행되었습니다.
+미국, 캐나다, 호주, 뉴질랜드, 또는 EU나 유럽경제지역 국적이라면 [UK ETA가 필요할 가능성이 높습니다](https://www.gov.uk/eta). 이 제도는 [2026년 2월 25일부터](https://www.gov.uk/government/news/no-permission-no-travel-uk-set-to-enforce-eta-scheme) 대부분의 무비자 국적자에게 시행되었습니다.
 
 일부는 예외입니다. 아일랜드 국민은 신청할 필요가 없고, 비자, 정착 지위, 무기한 체류 허가 등 영국 이민 지위가 있는 사람도 신청할 필요가 없습니다. 이중국적자, 공동여행지역(CTA) 권리를 가진 사람, 그 밖의 몇몇 그룹은 이동 방식에 따라 다른 규정이 적용됩니다.
 
@@ -30,7 +30,7 @@ UK ETA 제도는 표면적으로는 단순합니다. 신청하고, 비용을 내
 
 ## ETA는 사람이 아니라 여권 번호에 연결됩니다
 
-UK ETA는 사람이 아니라 여권 번호에 연결됩니다. 신청하면 내무부는 승인을 특정 여권 번호와 연결합니다. 다른 여권(새로 갱신한 여권, 두 번째 여권, 긴급 발급된 대체 여권 등)으로 여행한다는 것은 그 서류에 연결되지 않은 ETA로 여행한다는 뜻입니다.
+UK ETA는 사람이 아니라 [여권 번호에 연결됩니다](https://www.gov.uk/check-eta). 신청하면 내무부는 승인을 특정 여권 번호와 연결합니다. 다른 여권(새로 갱신한 여권, 두 번째 여권, 긴급 발급된 대체 여권 등)으로 여행한다는 것은 그 서류에 연결되지 않은 ETA로 여행한다는 뜻입니다.
 
 UK ETA는 디지털이며 여권 고유의 것이므로 새 여권 번호를 받으면 새 ETA가 필요합니다.
 
@@ -89,11 +89,11 @@ ETA는 비자도 아닙니다. 체류 가능 기간을 알려주지 않습니다
 
 UK ETA는 현재 사용되는 여러 디지털 여행 허가 중 하나입니다. 여러 나라를 넘나드는 여행을 계획한다면 ETA와 [비자](https://traveldocumentvault.com/ko/blog/visa-vs-passport/)의 차이를 이해해 두세요. 절차는 비슷해 보이지만 목적은 다릅니다.
 
-EU도 비EU 방문객을 위한 자체 디지털 여행 허가 제도인 [ETIAS](https://traveldocumentvault.com/ko/blog/etias-documents-2026/)를 계획하고 있으나 아직 시행되지 않았습니다. UK ETA와 개념은 비슷하지만 규정과 요건은 다릅니다. 시행되면 영국과 솅겐 지역이 모두 포함된 여행에는 둘 다 필요할 수 있습니다.
+EU도 비EU 방문객을 위한 자체 디지털 여행 허가 제도인 [ETIAS](https://traveldocumentvault.com/ko/blog/etias-documents-2026/)를 계획하고 있으나 [아직 시행되지 않았습니다](https://travel-europe.europa.eu/en/etias). UK ETA와 개념은 비슷하지만 규정과 요건은 다릅니다. 시행되면 영국과 솅겐 지역이 모두 포함된 여행에는 둘 다 필요할 수 있습니다.
 
 이미 예약한 여행이 있다면 오늘 이것부터 하세요. 여권 만료일을 여행 날짜와 대조하고, 지금 가진 ETA가 실제로 여행에 쓸 여권에 연결되어 있는지 확인합니다. 둘 중 하나라도 부족하다면 여행 직전 주가 아니라 지금 바로 갱신이나 재신청을 시작하세요.
 
-확인한 출처 (2026년 11월 6일)
+공식 출처
 
 - [UK Government: Get an electronic travel authorisation (ETA) to visit the UK](https://www.gov.uk/eta)
 - [UK Government: Check your electronic travel authorisation (ETA)](https://www.gov.uk/check-eta)

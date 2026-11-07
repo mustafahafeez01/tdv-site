@@ -11,9 +11,9 @@ Source: https://traveldocumentvault.com/it/blog/digital-passport-copy-valid/
 ## Punti Chiave
 
 - Le copie digitali del passaporto sono accettate per **il check-in dell'hotel, le prenotazioni di voli e le prenotazioni di auto a noleggio**, ma non ai confini o per l'imbarco aereo.
-- Per i viaggi internazionali **generalmente serve il passaporto originale** alla frontiera e all’imbarco aereo. Alcune tratte ammettono una carta d’identità nazionale (ad esempio per i cittadini UE che viaggiano nell’UE), ma mai una copia.
+- Per i viaggi internazionali **generalmente serve il passaporto originale** alla frontiera e all’imbarco aereo. Alcune tratte ammettono una carta d’identità nazionale (ad esempio [per i cittadini UE che viaggiano nell’UE](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm)), ma mai una copia.
 - Le copie digitali **non hanno valore legale come documenti di viaggio**. Sono solo documentazione di supporto.
-- Le domande di visto richiedono **formati specifici**. Alcune richiedono copie certificate o autenticate; altre, tra cui molti visti elettronici, accettano una scansione nitida della pagina con la foto. Una semplice foto da telefono viene spesso rifiutata. Verifichi per primo il sito web dell'ambasciata.
+- Le domande di visto richiedono **formati specifici**. Alcune richiedono copie certificate o autenticate; altre, tra cui [molti visti elettronici](https://indianvisaonline.gov.in/evisa/tvoa.html), accettano una scansione nitida della pagina con la foto. Una semplice foto da telefono viene spesso rifiutata. Verifichi per primo il sito web dell'ambasciata.
 - Se il Suo passaporto viene perso all'estero, una **copia della pagina con la foto può aiutare** la Sua ambasciata a confermare i Suoi dati quando richiede un documento sostitutivo.
 
 Quando pianifica un viaggio, molti viaggiatori si chiedono se possono conservare una copia digitale del loro passaporto sul telefono invece di portare l'originale. Ha bisogno di sapere esattamente dove funziona e dove no, così non si ritrova nei guai al check-in.
@@ -22,11 +22,11 @@ La risposta breve: una copia digitale è davvero utile, ma solo in situazioni sp
 
 ## Una Copia Digitale È Una Fotografia del Suo Passaporto, Non Un Passaporto Digitale
 
-Una copia digitale di un passaporto è **una scansione o una foto da telefono della sua pagina di identificazione**, la pagina con la Sua foto, nome, data di nascita, numero di passaporto e data di scadenza. Registra i Suoi dati senza sostituire il documento. Il governo canadese lo dice chiaramente nei suoi consigli di viaggio: le copie possono aiutare se i documenti vengono persi o rubati, ma non possono essere usate come documento d'identità, e deve comunque richiedere un nuovo passaporto se perde il Suo.
+Una copia digitale di un passaporto è **una scansione o una foto da telefono della sua pagina di identificazione**, la pagina con la Sua foto, nome, data di nascita, numero di passaporto e data di scadenza. Registra i Suoi dati senza sostituire il documento. Il [governo canadese](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings) lo dice chiaramente nei suoi consigli di viaggio: le copie possono aiutare se i documenti vengono persi o rubati, ma non possono essere usate come documento d'identità, e deve comunque richiedere un nuovo passaporto se perde il Suo.
 
-Farne una richiede un paio di minuti. Appoggi il passaporto in piano con buona luce, fotografi o scansioni la pagina di identificazione in modo che tutta la pagina sia nitida, poi usi lo zoom per verificare che ogni dettaglio sia leggibile. Faccia lo stesso per qualsiasi visto con cui viaggerà. La checklist per i viaggi all'estero del Regno Unito raccomanda una copia di backup dei dati del Suo passaporto da condividere con la famiglia o conservare su una piattaforma di archiviazione dati sicura.
+Farne una richiede un paio di minuti. Appoggi il passaporto in piano con buona luce, fotografi o scansioni la pagina di identificazione in modo che tutta la pagina sia nitida, poi usi lo zoom per verificare che ogni dettaglio sia leggibile. Faccia lo stesso per qualsiasi visto con cui viaggerà. La [checklist per i viaggi all'estero del Regno Unito](https://www.gov.uk/guidance/foreign-travel-checklist) raccomanda una copia di backup dei dati del Suo passaporto da condividere con la famiglia o conservare su una piattaforma di archiviazione dati sicura.
 
-Una copia non è nemmeno la stessa cosa delle identità digitali che alcuni governi oggi accettano. Negli Stati Uniti, la Transportation Security Administration consente ai titolari di passaporto statunitense di configurare un pass di identità in Google Wallet per i controlli aeroportuali, ma continua a precisare che tutti i passeggeri devono portare un documento d'identità fisico valido. Una foto nel Suo rullino è una copia di backup dei Suoi dati, ed è esattamente così che va trattata.
+Una copia non è nemmeno la stessa cosa delle identità digitali che alcuni governi oggi accettano. Negli Stati Uniti, la [Transportation Security Administration](https://www.tsa.gov/digital-id) consente ai titolari di passaporto statunitense di configurare un pass di identità in Google Wallet per i controlli aeroportuali, ma continua a precisare che tutti i passeggeri devono portare un documento d'identità fisico valido. Una foto nel Suo rullino è una copia di backup dei Suoi dati, ed è esattamente così che va trattata.
 
 ## Dove le Copie Digitali del Passaporto Sono Accettate
 
@@ -44,7 +44,7 @@ Le agenzie di auto a noleggio spesso accettano copie digitali del passaporto per
 
 ### Se il passaporto va perso, la copia velocizza le cose
 
-Se il Suo passaporto viene perso o rubato durante i Suoi viaggi, una copia della pagina con la foto può aiutare la Sua ambasciata o il consolato a confermare i Suoi dati quando richiede un documento sostitutivo. Deve comunque richiedere un nuovo passaporto o un documento di viaggio di emergenza. Questo è uno dei motivi più forti per portare sempre con sé un backup digitale.
+Se il Suo passaporto viene perso o rubato durante i Suoi viaggi, una copia della pagina con la foto può aiutare la Sua ambasciata o il consolato a confermare i Suoi dati quando richiede un documento sostitutivo. Deve comunque richiedere un nuovo passaporto o un [documento di viaggio di emergenza](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport). Questo è uno dei motivi più forti per portare sempre con sé un backup digitale.
 
 ![Diagramma di dove funziona una copia digitale del passaporto: di solito va bene per il check-in in hotel, la prenotazione del volo e l'autonoleggio; serve l'originale al controllo di frontiera e per l'imbarco aereo](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-where-it.jpg) In breve: la copia apre le porte, solo l'originale attraversa le frontiere.
 
@@ -89,7 +89,7 @@ Se non ne ha ancora una, scansioni oggi la pagina con la foto del Suo passaporto
 
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 
-Fonti che abbiamo verificato (6 novembre 2026)
+Fonti ufficiali
 
 - [Government of Canada: Lost or stolen belongings abroad](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings)
 - [UK Government: Foreign travel checklist](https://www.gov.uk/guidance/foreign-travel-checklist)

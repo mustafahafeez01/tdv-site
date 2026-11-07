@@ -30,7 +30,7 @@ Het belangrijkste is dat de machineleesbare zone – de zwart-witte strook onder
 
 ![Twee open paspoorten naast elkaar: één versleten maar vlak en bruikbaar, één waterbeschadigd met gegolfde pagina's en loslatende lamineerlaag](https://traveldocumentvault.com/blog/damaged-passport-travel/damage-vs-wear-figure.jpg) Kleine vouwen op de kaft: geen probleem. Waterschade op de gegevenspagina: wel een probleem.
 
-De reden dat dit ertoe doet, is dat **luchtvaartmaatschappijen aansprakelijk zijn als ze iemand met een ongeldig document laten instappen.** Stap je in met een beschadigd paspoort en word je aan de andere kant de toegang geweigerd, dan kunnen de autoriteiten de luchtvaartmaatschappij beboeten voor het vervoeren van jou.
+De reden dat dit ertoe doet, is dat **luchtvaartmaatschappijen aansprakelijk zijn als ze iemand met een ongeldig document laten instappen.** Stap je in met een beschadigd paspoort en word je aan de andere kant de toegang geweigerd, dan kunnen de autoriteiten [de luchtvaartmaatschappij beboeten](https://www.legislation.gov.uk/ukpga/1999/33/section/40) voor het vervoeren van jou.
 
 Geen enkele gate agent zit te wachten op die rompslomp, dus ze kiezen resoluut voor de veilige kant.
 
@@ -42,7 +42,7 @@ Schade op tijd ontdekken is het beste scenario, want dan heb je nog ruimte om te
 
 Ga eerst naar de officiële website van de paspoortinstantie van je eigen land, want dat is de enige plek waar de actuele regels en verwerkingstijden gegarandeerd kloppen, en beide veranderen vaker dan mensen denken. Twijfel je of jouw specifieke paspoort nog geaccepteerd wordt, dan is de paspoortinstantie de enige instantie wiens antwoord er echt toe doet. Een forum over luchtvaartmaatschappijen redt je niet aan de balie.
 
-Een paar dingen om vooraf te controleren. Spoed- en snelserviceopties bestaan meestal wel, maar niet allemaal dekken ze beschadigde paspoorten, en de allersnelste optie is vaak beperkt tot eenvoudige vernieuwingen. Ga na voor welke service jouw situatie in aanmerking komt voordat je een afspraak boekt.
+Een paar dingen om vooraf te controleren. [Spoed- en snelserviceopties](https://www.gov.uk/get-a-passport-urgently) bestaan meestal wel, maar niet allemaal dekken ze beschadigde paspoorten, en de allersnelste optie is vaak beperkt tot eenvoudige vernieuwingen. Ga na voor welke service jouw situatie in aanmerking komt voordat je een afspraak boekt.
 
 Een beschadigd paspoort betekent meestal ook dat je persoonlijk moet aanvragen in plaats van per post. In sommige landen zit het loket voor spoedgevallen op een heel andere locatie dan waar je gewoon een aanvraag indient, en aan het verkeerde loket verschijnen kost je een dag die je waarschijnlijk niet hebt.
 
@@ -89,7 +89,7 @@ Scan je paspoort vandaag, voordat je het nodig hebt.
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 
-Bronnen die we hebben gecontroleerd (6 november 2026)
+Officiële bronnen
 
 - [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
 - [UK legislation: Immigration and Asylum Act 1999, section 40](https://www.legislation.gov.uk/ukpga/1999/33/section/40)

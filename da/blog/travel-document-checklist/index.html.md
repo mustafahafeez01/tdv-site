@@ -26,7 +26,7 @@ Den største fejl, rejsende laver, er at behandle bookingøjeblikket som adminis
 
 **Tjek jeres pas, før I betaler**
 
-Før du bekræfter en booking, så tjek hver rejsendes pas mod tre kriterier: gyldighed (opfylder det destinationens krav, mange lande vil have 6 måneders gyldighed tilbage på ankomstdagen, og nogle få tæller fra afrejsen, så tjek din destination, som forklaret i vores [guide til 6-måneders-reglen for pas](https://traveldocumentvault.com/da/blog/passport-expiry-6-month-rule/)), navnematch (navnet på passet skal matche bookingnavnet præcist), og blanke sider (nogle lande kræver mindst to blanke visumsider til indrejsestempler).
+Før du bekræfter en booking, så tjek hver rejsendes pas mod tre kriterier: gyldighed (opfylder det destinationens krav, mange lande vil have [6 måneders gyldighed tilbage på ankomstdagen](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), og nogle få tæller fra afrejsen, så tjek din destination, som forklaret i vores [guide til 6-måneders-reglen for pas](https://traveldocumentvault.com/da/blog/passport-expiry-6-month-rule/)), navnematch (navnet på passet skal matche bookingnavnet præcist), og blanke sider (nogle lande kræver [mindst to blanke visumsider](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements) til indrejsestempler).
 
 **Tjek jeres visumkrav**
 
@@ -42,7 +42,7 @@ Book rejseforsikring, når du booker flyrejser, ikke en uge før afrejse. Forsik
 
 På dette tidspunkt har du stadig tid til at ordne tingene. Sagsbehandlingstider ændrer sig, og dit lands pasmyndighed offentliggør sit eget aktuelle tal. Tjek altid den officielle hjemmeside for aktuelle tider, før du ansøger.
 
-Vi ville forny ethvert pas, der udløber inden for 12 måneder, nu. Børns pas udløber hurtigere (britiske børnepas gælder i 5 år mod 10 for voksne, og flere andre lande fungerer på samme måde), og forældre overser ofte dette vindue. For ansøgere i New Zealand, tjek New Zealand Passport Office for aktuelle sagsbehandlingstider.
+Vi ville forny ethvert pas, der udløber inden for 12 måneder, nu. Børns pas udløber hurtigere ([britiske børnepas gælder i 5 år](https://www.gov.uk/get-a-child-passport) mod 10 for voksne, og flere andre lande fungerer på samme måde), og forældre overser ofte dette vindue. For ansøgere i New Zealand, tjek New Zealand Passport Office for aktuelle sagsbehandlingstider.
 
 Indsend eventuelle visumansøgninger, der kræver forberedelsestid, og tjek hos den udstedende myndighed, hvor lang tid det aktuelt tager. Forbered understøttende dokumenter: kontoudtog, bekræftelser på indkvartering, bevis for videre rejse. Book en biometritid i forvejen, hvis visummet kræver det.
 
@@ -113,7 +113,7 @@ Er en rejse allerede booket, er det ene, der er værd at gøre i dag, at tage hv
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 
-Kilder vi har tjekket (6. november 2026)
+Officielle kilder
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
@@ -138,7 +138,7 @@ Ja. Hver persons pasgyldighed, visumkrav, og forsikringsdækning vurderes indivi
 
 ### Hvad er et samtykkebrev til børns rejse, og skal jeg bruge et?
 
-Et samtykkebrev til børns rejse er et underskrevet dokument fra den fraværende forælder, der giver tilladelse til, at barnet rejser. Nogle lande, blandt andre Sydafrika, stiller ekstra krav til børn, der rejser med kun den ene forælder, og de canadiske myndigheder anbefaler et underskrevet samtykkebrev. Uden et kan du møde ekstra spørgsmål eller forsinkelser. Brevet bør indeholde barnets oplysninger, begge forældres kontaktoplysninger, rejsedatoer, destinationer, og den fraværende forælders underskrift.
+Et samtykkebrev til børns rejse er et underskrevet dokument fra den fraværende forælder, der giver tilladelse til, at barnet rejser. Nogle lande, blandt andre [Sydafrika](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements), stiller ekstra krav til børn, der rejser med kun den ene forælder, og [de canadiske myndigheder](https://travel.gc.ca/travelling/children/consent-letter) anbefaler et underskrevet samtykkebrev. Uden et kan du møde ekstra spørgsmål eller forsinkelser. Brevet bør indeholde barnets oplysninger, begge forældres kontaktoplysninger, rejsedatoer, destinationer, og den fraværende forælders underskrift.
 
 ### Hvilke dokumenter bør jeg holde tilgængelige i lufthavnen og ikke i indchecket bagage?
 

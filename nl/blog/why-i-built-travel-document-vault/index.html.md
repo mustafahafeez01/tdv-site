@@ -12,7 +12,7 @@ Ik stond bij de immigratiecontrole toen de ambtenaar naar het paspoort van mijn 
 
 "Wist u dat dit over zeven maanden verloopt?" zei hij. "Alleen ter informatie, sommige landen laten u niet binnen met minder dan zes maanden geldigheid."
 
-Ik bedankte hem. We waren in orde, maar ternauwernood. Maar tijdens de hele reis bleef ik denken: als hij niets had gezegd, had ik het nooit opgemerkt. Zeven maanden leek meer dan genoeg. Ik had het paspoort gecontroleerd voor het boeken. Ik was de zesmaandenregel die veel landen hanteren gewoon volledig vergeten.
+Ik bedankte hem. We waren in orde, maar ternauwernood. Maar tijdens de hele reis bleef ik denken: als hij niets had gezegd, had ik het nooit opgemerkt. Zeven maanden leek meer dan genoeg. Ik had het paspoort gecontroleerd voor het boeken. Ik was de [zesmaandenregel](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements) die veel landen hanteren gewoon volledig vergeten.
 
 Die bijna-mislukking bleef me bij. Ik had al agendaherinneringen ingesteld voor ieders verloopdatum van het paspoort. Ik dacht dat dat genoeg was. Maar ik controleerde de datums niet echt, ik vertrouwde gewoon op de herinneringen. En als iemands paspoort werd verlengd, moest ik de herinnering bijwerken, de scan in Google Drive bijwerken en hopen dat ik niets gemist had.
 
@@ -118,7 +118,7 @@ Mustafa
 
 Oprichter, Travel Document Vault
 
-Bronnen die we hebben gecontroleerd (6 november 2026)
+Officiële bronnen
 
 - [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
 

@@ -30,7 +30,7 @@ Seberapa mendesak Anda harus bertindak menentukan apa yang harus dilakukan:
 - **Masih banyak waktu sebelum keberangkatan:** ajukan perpanjangan standar secara daring lewat situs web kantor imigrasi Anda — GOV.UK untuk Inggris, travel.state.gov untuk Amerika Serikat.
 - **Keberangkatan semakin dekat:** ajukan segera dan bayar untuk proses yang dipercepat. Baik Inggris maupun Amerika Serikat menawarkan layanan berbayar yang lebih cepat secara daring, dan keduanya mempublikasikan estimasi waktu proses terkini.
 - **Keberangkatan semakin mepet:** telepon langsung kantor imigrasi Anda alih-alih hanya mengandalkan situs web — saluran bantuan HM Passport Office di Inggris, atau US National Passport Information Center di Amerika Serikat.
-- **Keberangkatan sudah sangat dekat:** tanyakan soal janji temu darurat dan bawa bukti tanggal perjalanan Anda. Layanan 1 Day Premium Inggris (khusus perpanjangan dewasa) membuka janji temu paling cepat 2 hari setelah Anda mengajukan, dengan paspor baru siap diambil 4 jam setelah janji temu itu, dan Amerika Serikat menerbitkan opsi perjalanan mendesaknya di travel.state.gov.
+- **Keberangkatan sudah sangat dekat:** tanyakan soal janji temu darurat dan bawa bukti tanggal perjalanan Anda. Layanan [1 Day Premium](https://www.gov.uk/get-a-passport-urgently) Inggris (khusus perpanjangan dewasa) membuka janji temu paling cepat 2 hari setelah Anda mengajukan, dengan paspor baru siap diambil 4 jam setelah janji temu itu, dan Amerika Serikat menerbitkan opsi perjalanan mendesaknya di travel.state.gov.
 
 Jika waktu Anda mepet, **kami akan selalu menelepon, bukan hanya mengandalkan situs web.**
 
@@ -56,7 +56,7 @@ Paspor kedaluwarsa jarang berarti Anda harus mulai dari nol, karena di Inggris, 
 
 ### Inggris: Paspor Kedaluwarsa Melalui Perpanjangan Normal
 
-GOV.UK menyatakan Anda harus memperpanjang sebelum bisa bepergian jika paspor Anda sudah kedaluwarsa atau sisa masa berlakunya tidak cukup untuk tujuan Anda. Paspor kedaluwarsa melalui proses perpanjangan standar, baik secara daring maupun dengan formulir kertas, dan Anda membutuhkan paspor lama Anda untuk melakukannya. Paspor dewasa berlaku untuk usia 16 tahun ke atas, sementara paspor anak memiliki prosesnya sendiri.
+[GOV.UK](https://www.gov.uk/renew-adult-passport/renew) menyatakan Anda harus memperpanjang sebelum bisa bepergian jika paspor Anda sudah kedaluwarsa atau sisa masa berlakunya tidak cukup untuk tujuan Anda. Paspor kedaluwarsa melalui proses perpanjangan standar, baik secara daring maupun dengan formulir kertas, dan Anda membutuhkan paspor lama Anda untuk melakukannya. Paspor dewasa berlaku untuk usia 16 tahun ke atas, sementara paspor anak memiliki prosesnya sendiri.
 
 ### AS: Perpanjangan Berlaku Jika Diterbitkan dalam 15 Tahun Terakhir
 
@@ -64,7 +64,7 @@ AS memiliki aturan kelayakan sendiri untuk memperpanjang paspor yang sudah kedal
 
 ### Kanada: Paspor Kedaluwarsa Bisa Diperpanjang Secara Daring
 
-Pemerintah Kanada memperbolehkan perpanjangan jika paspor terakhir Anda adalah paspor dewasa yang diterbitkan saat Anda berusia minimal 16 tahun. Paspor itu juga harus diterbitkan dalam 15 tahun sejak tanggal Anda mengajukan, dan berlaku selama 5 atau 10 tahun. Anda bisa memperpanjang secara daring jika paspor Anda akan kedaluwarsa dalam enam bulan ke depan atau sudah kedaluwarsa, dengan syarat alamat rumah dan alamat surat Anda berada di Kanada. Paspor anak tidak bisa diperpanjang, sehingga anak memerlukan pengajuan baru.
+[Pemerintah Kanada](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html) memperbolehkan perpanjangan jika paspor terakhir Anda adalah paspor dewasa yang diterbitkan saat Anda berusia minimal 16 tahun. Paspor itu juga harus diterbitkan dalam 15 tahun sejak tanggal Anda mengajukan, dan berlaku selama 5 atau 10 tahun. Anda bisa [memperpanjang secara daring](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport/submit-form-fees/renew-online.html) jika paspor Anda akan kedaluwarsa dalam enam bulan ke depan atau sudah kedaluwarsa, dengan syarat alamat rumah dan alamat surat Anda berada di Kanada. Paspor anak tidak bisa diperpanjang, sehingga anak memerlukan pengajuan baru.
 
 Jika paspor Anda sudah kedaluwarsa sejak bertahun-tahun lalu, periksa dulu tanggal penerbitannya, karena batas 15 tahun di AS dan Kanada dihitung dari tanggal diterbitkan, bukan dari tanggal kedaluwarsa. Setelah itu, periksa waktu pemrosesan saat ini sebelum memesan, yang dibahas negara per negara dalam panduan kami tentang [berapa lama perpanjangan paspor](https://traveldocumentvault.com/id/blog/how-long-does-passport-renewal-take/).
 
@@ -110,7 +110,7 @@ Lakukan ini untuk setiap paspor di rumah tangga Anda secara terpisah. Paspor ana
 
 **Sebelum Anda mengandalkan ini:** ini adalah blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 
-Sumber yang kami periksa (6 November 2026)
+Sumber resmi
 
 - [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
 - [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)

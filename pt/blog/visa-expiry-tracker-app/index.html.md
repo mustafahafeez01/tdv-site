@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/pt/blog/visa-expiry-tracker-app/
 - Os visitantes da Área de Schengen devem rastrear uma janela móvel de 90/180 dias, não apenas uma única data de validade, porque a contagem acompanha o seu histórico real de viagens, não o calendário.
 - O rastreamento de vistos e passaportes juntos num só local reduz o risco de uma discrepância: entrar com um visto válido mas com um passaporte que expira antes do final da sua permanência planeada.
 
-Uma ultrapassagem de visto é um dos erros de viagem mais consequentes que uma pessoa pode cometer. Ao contrário de um voo perdido — stressante mas fundamentalmente reparável — uma ultrapassagem cria um registo formal de imigração que pode segui-lo durante anos. Nos Estados Unidos, ao abrigo da secção 212(a)(9)(B) da Immigration and Nationality Act, quem esteja em situação ilegal durante mais de 180 dias mas menos de um ano e depois saia fica geralmente impedido de regressar durante três anos, e um ano ou mais de presença ilegal significa geralmente uma proibição de dez anos. Estas consequências não são amplamente conhecidas.
+Uma ultrapassagem de visto é um dos erros de viagem mais consequentes que uma pessoa pode cometer. Ao contrário de um voo perdido — stressante mas fundamentalmente reparável — uma ultrapassagem cria um registo formal de imigração que pode segui-lo durante anos. Nos Estados Unidos, ao abrigo da secção 212(a)(9)(B) da [Immigration and Nationality Act](https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chap12-subchapII-partII-sec1182.htm), quem esteja em situação ilegal durante mais de 180 dias mas menos de um ano e depois saia fica geralmente impedido de regressar durante três anos, e um ano ou mais de presença ilegal significa geralmente uma proibição de dez anos. Estas consequências não são amplamente conhecidas.
 
 Uma aplicação de rastreamento de visto previne isto: tem de monitorizar múltiplas datas em simultâneo, validade de entrada, permanência máxima e contagem de entradas, cada uma com o seu próprio prazo.
 
@@ -43,7 +43,7 @@ Um rastreador que apenas monitoriza a data de validade de entrada perde a causa 
 
 Para viajantes que visitam múltiplos países europeus, a regra de 90/180 dias da Área de Schengen é a condição de entrada mais amplamente mal compreendida em viagens internacionais. Os cidadãos de países com acesso isento de visto a Schengen (incluindo o Reino Unido, EUA, Canadá e Austrália, entre muitos outros) podem passar um máximo de 90 dias na Área de Schengen dentro de qualquer janela móvel de 180 dias.
 
-A Comissão Europeia fornece uma calculadora oficial de permanência em Schengen para ajudar os viajantes a calcular os seus dias permitidos. O ponto crítico é que isto é uma *janela móvel*, não um reset de ano de calendário. Os dias passados em Schengen há seis meses ainda contam contra a sua autorização atual, pelo que verificar uma única data de validade não detetará um excesso de permanência. O que importa é o seu histórico real de entradas e saídas, não a data impressa no visto.
+A Comissão Europeia fornece uma [calculadora oficial de permanência em Schengen](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en) para ajudar os viajantes a calcular os seus dias permitidos. O ponto crítico é que isto é uma *janela móvel*, não um reset de ano de calendário. Os dias passados em Schengen há seis meses ainda contam contra a sua autorização atual, pelo que verificar uma única data de validade não detetará um excesso de permanência. O que importa é o seu histórico real de entradas e saídas, não a data impressa no visto.
 
 ## O Que Acontece Quando Ultrapassa a Duração
 
@@ -51,7 +51,7 @@ As consequências de uma ultrapassagem de visto variam consoante o país mas sã
 
 - **Reino Unido:** As ultrapassagens são registadas e afetarão futuras candidaturas de visto. O Gabinete do Ministério do Interior do Reino Unido considera as ultrapassagens ao avaliar credibilidade e pode recusar candidaturas subsequentes.
 - **Austrália:** Ultrapassar o seu visto pode resultar em restrições às futuras candidaturas de visto e remoção do país. Sob a Migration Act 1958, os registos de ultrapassagem são rastreados e afetarão futuras candidaturas de visto e elegibilidade de reentrada.
-- **Área de Schengen:** As estadias são registadas na fronteira, e uma proibição de entrada emitida por um país Schengen é geralmente partilhada com os outros através do Sistema de Informações Schengen (SIS), pelo que se aplica a toda a Área Schengen, que a Comissão Europeia lista atualmente como 29 países.
+- **Área de Schengen:** As estadias são registadas na fronteira, e uma proibição de entrada emitida por um país Schengen é geralmente partilhada com os outros através do [Sistema de Informações Schengen (SIS)](https://home-affairs.ec.europa.eu/policies/schengen/schengen-information-system/what-sis-and-how-does-it-work_en), pelo que se aplica a toda a Área Schengen, [que a Comissão Europeia lista atualmente como 29 países](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en).
 - **Tailândia:** As ultrapassagens incorrem numa multa diária fixada pela imigração tailandesa, até um limite máximo, e uma ultrapassagem de mais de 90 dias pode levar a deportação e a uma proibição de regresso.
 
 Em todos os casos, o registo de ultrapassagem tipicamente segue-o: aparece nas bases de dados de imigração verificadas nas futuras travessias de fronteira e candidaturas de visto.
@@ -80,7 +80,7 @@ Verifique hoje a validade do seu passaporte face às datas do seu visto: mesmo u
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 
-Fontes que verificámos (6 de novembro de 2026)
+Fontes oficiais
 
 - [US Code: Title 8, section 1182](https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chap12-subchapII-partII-sec1182.htm)
 - [European Commission: Schengen area](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en)

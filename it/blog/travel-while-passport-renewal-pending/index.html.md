@@ -28,9 +28,9 @@ Se avete ancora quel passaporto dipende interamente dal vostro paese e dal vostr
 
 ## Stati Uniti: Rinnovo per posta
 
-Il rinnovo standard del passaporto statunitense per posta richiede di inviare il passaporto attuale con la domanda, quindi non lo avrete con voi durante l’attesa. Compilate il modulo DS-82, allegate il passaporto esistente e spedite tutto al National Passport Processing Center. USAGov indica che il vecchio passaporto viene restituito separatamente, di solito circa quattro settimane dopo l’arrivo di quello nuovo.
+Il rinnovo standard del passaporto statunitense per posta richiede di inviare il passaporto attuale con la domanda, quindi non lo avrete con voi durante l’attesa. [Compilate il modulo DS-82](https://www.usa.gov/renew-adult-passport), allegate il passaporto esistente e spedite tutto al National Passport Processing Center. USAGov indica che il vecchio passaporto viene restituito separatamente, di solito circa quattro settimane dopo l’arrivo di quello nuovo.
 
-Ciò significa che i viaggi nazionali all'interno degli Stati Uniti non sono influenzati durante il processo di rinnovo — non avete bisogno di un passaporto per i voli nazionali. I viaggi internazionali sono una storia diversa: non potete viaggiare internazionalmente fino a quando il vostro nuovo passaporto non arriva, e non potete usare il vecchio passaporto annullato anche se lo avete in mano.
+Ciò significa che i viaggi nazionali all'interno degli Stati Uniti non sono influenzati durante il processo di rinnovo — [non avete bisogno di un passaporto per i voli nazionali](https://www.tsa.gov/travel/security-screening/identification). I viaggi internazionali sono una storia diversa: non potete viaggiare internazionalmente fino a quando il vostro nuovo passaporto non arriva, e non potete usare il vecchio passaporto annullato anche se lo avete in mano.
 
 Il tempo di elaborazione standard cambia, e il Dipartimento di Stato pubblica la cifra attuale su travel.state.gov, quindi controllatela prima di pianificare. Se il vostro viaggio è prenotato prima della data in cui vi aspettate il nuovo passaporto, l'elaborazione accelerata è disponibile dietro compenso aggiuntivo e riduce sensibilmente l'attesa. Per i viaggi veramente urgenti, gli appuntamenti in persona sono disponibili presso agenzie passaporti regionali — controllate l'idoneità attuale su travel.state.gov.
 
@@ -38,7 +38,7 @@ Il tempo di elaborazione standard cambia, e il Dipartimento di Stato pubblica la
 
 Il Regno Unito ha due percorsi di rinnovo con implicazioni completamente diverse per i viaggi. Il processo che avete utilizzato determina cosa è possibile.
 
-**Rinnovo postale:** Spedite il vostro passaporto attuale a HM Passport Office insieme alla vostra domanda. Il vostro passaporto è nelle loro mani per tutta la durata, quindi non potete viaggiare internazionalmente. HM Passport Office pubblica il proprio tempo di elaborazione attuale sul proprio sito Web e sconsiglia di prenotare il viaggio fino all'arrivo del nuovo passaporto. È disponibile un servizio di fast-track premium dietro compenso aggiuntivo se il vostro viaggio è vicino.
+**Rinnovo postale:** Spedite il vostro passaporto attuale a [HM Passport Office](https://www.gov.uk/renew-adult-passport/renew) insieme alla vostra domanda. Il vostro passaporto è nelle loro mani per tutta la durata, quindi non potete viaggiare internazionalmente. HM Passport Office pubblica il proprio tempo di elaborazione attuale sul proprio sito Web e [sconsiglia di prenotare il viaggio](https://www.gov.uk/renew-adult-passport) fino all'arrivo del nuovo passaporto. È disponibile un servizio di fast-track premium dietro compenso aggiuntivo se il vostro viaggio è vicino.
 
 **Rinnovo digitale** è attualmente disponibile per gli adulti idonei che chiedono dal Regno Unito. Conservate il vostro passaporto attuale durante tutto il processo, e il governo rilascia il vostro nuovo passaporto separatamente e ve lo spedisce. Poiché il vostro passaporto esistente non lascia mai il vostro possesso, potete generalmente continuare a utilizzarlo per i viaggi mentre il nuovo viene elaborato. L'idoneità varia in base alle circostanze individuali, quindi controllate il sito Web di HM Passport Office per i criteri completi e gli orari attuali prima di fare domanda.
 
@@ -52,7 +52,7 @@ L'Australian Passport Office pubblica i propri tempi di elaborazione attuali e r
 
 ## Canada: Consegnato al momento della domanda
 
-Il Canada richiede di consegnare il vostro passaporto esistente quando fate domanda per il rinnovo. Il vostro vecchio passaporto viene conservato fino a quando il nuovo non è pronto, quindi non potete viaggiare internazionalmente durante questo periodo — anche se i viaggi nazionali all'interno del Canada non richiedono un passaporto.
+Il Canada richiede di [consegnare il vostro passaporto esistente quando fate domanda per il rinnovo](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html). Il vostro vecchio passaporto viene conservato fino a quando il nuovo non è pronto, quindi non potete viaggiare internazionalmente durante questo periodo — anche se i viaggi nazionali all'interno del Canada non richiedono un passaporto.
 
 Service Canada pubblica i propri standard di elaborazione attuali, che variano a seconda che facciate domanda di persona, per posta o presso un Service Canada Centre, più il tempo di spedizione. Per i viaggi urgenti esistono opzioni di servizio espresso e ritiro urgente dietro compenso aggiuntivo. Controllate gli orari di elaborazione attuali e fate domanda su canada.ca.
 
@@ -94,7 +94,7 @@ Il motivo per cui le persone finiscono in questa situazione non è l'ignoranza d
 
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 
-Fonti che abbiamo verificato (6 novembre 2026)
+Fonti ufficiali
 
 - [USAGov: Renew an adult passport](https://www.usa.gov/renew-adult-passport)
 - [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)

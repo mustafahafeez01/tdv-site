@@ -20,7 +20,7 @@ Se tem um Biometric Residence Permit (BRP, título de residência biométrico) e
 
 ![Diagrama de durante quanto tempo um BRP expirado ainda funciona: durante 24 meses após a data de validade impressa ou até 31 de dezembro de 2026, o que ocorrer primeiro. Nesse período ainda pode ser usado para iniciar sessão e obter um código de partilha, criar uma conta UKVI, ou candidatar-se a uma prorrogação da sua autorização para permanecer](https://traveldocumentvault.com/blog/uk-brp-expired-evisa-deadline/brp-window-pt.jpg) Duas datas, e a que chega primeiro é a sua.
 
-O GOV.UK diz que todos os BRPs já expiraram e foram substituídos por eVisas. Um eVisa é um registo digital da sua identidade e do seu estatuto de imigração, e acede-se a ele através de uma conta UKVI, em vez de o transportar na carteira. É por isso que a conta é o passo que importa, para si e para todos na sua família que tinham um cartão.
+O [GOV.UK](https://www.gov.uk/biometric-residence-permits) diz que todos os BRPs já expiraram e foram substituídos por eVisas. Um eVisa é um [registo digital da sua identidade e do seu estatuto de imigração](https://www.gov.uk/evisa), e acede-se a ele através de uma conta UKVI, em vez de o transportar na carteira. É por isso que a conta é o passo que importa, para si e para todos na sua família que tinham um cartão.
 
 Um cartão expirado não significa que a sua autorização para permanecer terminou. As instruções do GOV.UK são escritas exatamente para este caso: pessoas cujo BRP expirou mas que ainda têm autorização para permanecer no Reino Unido.
 
@@ -38,11 +38,11 @@ O GOV.UK enumera exatamente o que o cartão ainda pode fazer. Pode usá-lo para 
 
 O terceiro uso é fácil de esquecer. Se a sua autorização para permanecer estiver a aproximar-se do momento de prorrogação, o cartão expirado ainda pode ter um papel nesse pedido enquanto a sua janela estiver aberta, o que é mais uma razão para saber a sua data. Para viajar, o GOV.UK remete para o seu eVisa e para o passaporte ligado a ele, de que falamos a seguir.
 
-Depois de entrar, a conta é a forma de provar o seu estatuto no dia a dia. O GOV.UK diz que pode ver o seu eVisa e obter um código de partilha para provar o seu estatuto de imigração, por exemplo quando começa um novo emprego ou arrenda uma casa. O eVisa também mostra as condições do seu estatuto, como se pode trabalhar ou estudar. Vale a pena dar uma vista de olhos, mesmo sem nenhuma viagem planeada.
+Depois de entrar, a conta é a forma de provar o seu estatuto no dia a dia. O [GOV.UK](https://www.gov.uk/evisa/view-evisa-get-share-code-prove-immigration-status) diz que pode ver o seu eVisa e obter um código de partilha para provar o seu estatuto de imigração, por exemplo quando começa um novo emprego ou arrenda uma casa. O eVisa também mostra as condições do seu estatuto, como se pode trabalhar ou estudar. Vale a pena dar uma vista de olhos, mesmo sem nenhuma viagem planeada.
 
 ## Um passaporte e um número de referência também abrem uma conta UKVI
 
-Se o seu cartão desapareceu, ou os seus 24 meses já terminaram, não está sem saída. O GOV.UK aceita duas outras combinações ao criar uma conta: um passaporte válido mais o número do seu pedido de visto, ou um passaporte válido mais o número do BRP. O número do BRP está impresso no próprio cartão, por isso anotaríamos esse número num sítio seguro enquanto ainda tem o cartão em mãos.
+Se o seu cartão desapareceu, ou os seus 24 meses já terminaram, não está sem saída. O [GOV.UK](https://www.gov.uk/evisa/set-up-ukvi-account) aceita duas outras combinações ao criar uma conta: um passaporte válido mais o número do seu pedido de visto, ou um passaporte válido mais o número do BRP. O número do BRP está impresso no próprio cartão, por isso anotaríamos esse número num sítio seguro enquanto ainda tem o cartão em mãos.
 
 Se não tiver nem um passaporte válido nem um BRP expirado, o GOV.UK diz que pode confirmar a sua identidade de outra forma. A página não detalha os passos e remete para o webchat do UK Visas and Immigration, por isso é esse o ponto de partida.
 
@@ -58,7 +58,7 @@ Quando o seu filho atingir os 18 anos, os dados da conta devem passar para o seu
 
 ## Para viajar, o passaporte com que voa tem de estar na sua conta UKVI
 
-O GOV.UK é direto quanto a isto: tem de viajar com um passaporte ou documento de viagem válido que tenha adicionado à sua conta UKVI. O seu eVisa é verificado à saída e à entrada no Reino Unido, por um agente de fronteira ou nos eGates, e no check-in da transportadora para regressar ao Reino Unido. Essas verificações consultam o seu eVisa através do passaporte na sua conta. Se os dados na sua conta não corresponderem exatamente à informação de passageiro que deu à transportadora, esta pode não o deixar viajar, e também pode ser retido na fronteira do Reino Unido.
+O [GOV.UK](https://www.gov.uk/evisa/travel-with-evisa) é direto quanto a isto: tem de viajar com um passaporte ou documento de viagem válido que tenha adicionado à sua conta UKVI. O seu eVisa é verificado à saída e à entrada no Reino Unido, por um agente de fronteira ou nos eGates, e no check-in da transportadora para regressar ao Reino Unido. Essas verificações consultam o seu eVisa através do passaporte na sua conta. Se os dados na sua conta não corresponderem exatamente à informação de passageiro que deu à transportadora, esta pode não o deixar viajar, e também pode ser retido na fronteira do Reino Unido.
 
 Antes de uma viagem, inicie sessão, confirme que o passaporte na conta é aquele com que vai viajar, e obtenha um código de partilha. Um código dura 90 dias e pode ser usado mais do que uma vez, e uma companhia aérea ou um agente de fronteira pode pedir para o ver. Nós obteríamos o código antes de reservar, não na fila do aeroporto.
 
@@ -68,7 +68,7 @@ Se tiver duas nacionalidades, pense em qual passaporte vai realmente usar para r
 
 Se renovou o seu passaporte, o novo tem de ser adicionado à sua conta antes de voar com ele, e o GOV.UK diz que pode atualizar o número do passaporte e a data de validade na sua conta por si mesmo. Com um passaporte biométrico também pode atualizar o seu nome e nacionalidade por si mesmo; qualquer outra alteração precisa de ser feita pelo UK Visas and Immigration. Se a renovação ainda estiver para vir, o nosso guia sobre [renovar o passaporte antes de expirar](https://traveldocumentvault.com/pt/blog/renew-passport-before-expiry/) explica quando começar, e o passaporte novo vai diretamente para a sua conta assim que chegar.
 
-Fontes que verificámos (6 de novembro de 2026)
+Fontes oficiais
 
 - [UK Government: eVisa, setting up a UKVI account](https://www.gov.uk/evisa/set-up-ukvi-account)
 - [UK Government: travelling with an eVisa](https://www.gov.uk/evisa/travel-with-evisa)

@@ -21,13 +21,13 @@ ESTA biasanya berlaku selama dua tahun dari hari disetujui, atau sampai paspor y
 
 ## ESTA Anda Berakhir Setelah Dua Tahun atau Saat Paspor Anda Kedaluwarsa
 
-US Customs and Border Protection (CBP) menetapkan aturan ini: ESTA yang disetujui biasanya berlaku selama dua tahun dari tanggal otorisasi, atau sampai paspor Anda kedaluwarsa, mana yang lebih dulu. Jadi paspor yang tersisa 14 bulan memberi Anda ESTA yang juga tersisa 14 bulan. Layar persetujuan menunjukkan tanggal kedaluwarsa yang tepat, sehingga Anda tidak perlu menghitungnya sendiri.
+[US Customs and Border Protection (CBP)](https://www.cbp.gov/travel/international-visitors/esta/frequently-asked-questions-about-visa-waiver-program-vwp-and-electronic-system-travel) menetapkan aturan ini: ESTA yang disetujui biasanya berlaku selama dua tahun dari tanggal otorisasi, atau sampai paspor Anda kedaluwarsa, mana yang lebih dulu. Jadi paspor yang tersisa 14 bulan memberi Anda ESTA yang juga tersisa 14 bulan. Layar persetujuan menunjukkan tanggal kedaluwarsa yang tepat, sehingga Anda tidak perlu menghitungnya sendiri.
 
 ![Diagram kapan ESTA berhenti berlaku: berakhir setelah 2 tahun atau saat paspor kedaluwarsa, mana yang lebih dulu. Semua orang perlu ESTA sendiri, termasuk bayi dan anak-anak, masing-masing dengan paspor sendiri. Paspor baru, nama baru, atau kewarganegaraan baru berarti harus mengajukan lagi](https://traveldocumentvault.com/blog/how-long-is-esta-valid/esta-clock-id.jpg) Satu masa berlaku per pelancong, dan tidak pernah melebihi paspornya.
 
 CBP juga mengirim email ke alamat email yang Anda cantumkan di permohonan ketika ESTA Anda akan kedaluwarsa dalam 30 hari ke depan. Kami tidak akan mengandalkan email itu saja, karena bisa masuk ke folder spam atau kotak masuk lama yang tidak Anda pantau, jadi catat tanggalnya di tempat yang akan Anda lihat saat memesan perjalanan.
 
-Dalam dua tahun itu, satu ESTA bisa dipakai untuk berapa kali pun perjalanan. Setiap kunjungan di bawah program bebas visa (Visa Waiver Program) tetap dibatasi 90 hari atau kurang, dan CBP menegaskan bahwa persetujuan dua tahun tidak berarti Anda bisa tinggal selama dua tahun.
+Dalam dua tahun itu, satu ESTA bisa dipakai untuk berapa kali pun perjalanan. Setiap kunjungan di bawah program bebas visa ([Visa Waiver Program](https://www.cbp.gov/travel/international-visitors/visa-waiver-program)) tetap dibatasi 90 hari atau kurang, dan CBP menegaskan bahwa persetujuan dua tahun tidak berarti Anda bisa tinggal selama dua tahun.
 
 Satu-satunya pengecualian adalah Brunei: CBP memangkas masa berlaku ESTA bagi warga negara dan warga nasional Brunei menjadi satu tahun.
 
@@ -41,7 +41,7 @@ Begini cara kerjanya. Katakanlah ESTA Anda kedaluwarsa tanggal 10 suatu bulan, d
 
 Tidak ada perpanjangan. CBP menyatakan otorisasi yang ada tidak dapat diperpanjang, dan Anda tidak perlu menunggu sampai kedaluwarsa untuk mengajukan lagi. Permohonan baru Anda membatalkan dan menggantikan yang lama.
 
-CBP menyarankan untuk mengajukan permohonan saat Anda memesan perjalanan, dan ini kebiasaan yang layak dipertahankan. Jika ESTA Anda akan kedaluwarsa beberapa minggu sebelum perjalanan, ajukan pada hari perjalanan dipesan, bukan pada minggu Anda terbang.
+[CBP menyarankan untuk mengajukan permohonan saat Anda memesan perjalanan](https://www.cbp.gov/newsroom/national-media-release/cbp-reminds-travelers-allow-72-hours-esta), dan ini kebiasaan yang layak dipertahankan. Jika ESTA Anda akan kedaluwarsa beberapa minggu sebelum perjalanan, ajukan pada hari perjalanan dipesan, bukan pada minggu Anda terbang.
 
 ## Empat Perubahan yang Membuat Anda Perlu ESTA Baru
 
@@ -62,7 +62,7 @@ Tidak ada yang mengharapkan anak kecil mengisi formulir sendiri. Orang tua atau 
 
 ## Biaya Naik pada 16 Oktober, Persetujuan yang Sudah Ada Tidak Terpengaruh
 
-Menurut pemberitahuan Federal Register yang diterbitkan pada 1 Oktober 2026, biaya ESTA naik dari US $40.27 menjadi US $40.62, berlaku mulai 16 Oktober 2026. Jika Anda sudah memiliki ESTA yang valid dan disetujui, CBP menyatakan Anda tidak perlu mengajukan lagi. Anda akan membayar jumlah baru saat mengajukan permohonan berikutnya.
+Menurut [pemberitahuan Federal Register](https://www.govinfo.gov/content/pkg/FR-2026-10-01/html/2026-20185.htm) yang diterbitkan pada 1 Oktober 2026, biaya ESTA naik dari US $40.27 menjadi US $40.62, berlaku mulai 16 Oktober 2026. Jika Anda sudah memiliki ESTA yang valid dan disetujui, CBP menyatakan Anda tidak perlu mengajukan lagi. Anda akan membayar jumlah baru saat mengajukan permohonan berikutnya.
 
 Pemberitahuan yang sama menetapkan biaya yang lebih rendah, US $10.62, jika permohonan ditolak, yang menutupi biaya pemrosesannya.
 
@@ -70,7 +70,7 @@ Perkirakan angka ini akan berubah lagi. Undang-undang di baliknya mewajibkan bia
 
 ## Ajukan di Situs Web Resmi ESTA, Bukan Situs Tiruan
 
-Beberapa situs web pihak ketiga mengenakan biaya lebih tinggi dari biaya resmi. CBP menyatakan situs-situs itu tidak akan mempercepat persetujuan, tidak didukung atau berafiliasi dengan Department of Homeland Security, dan CBP tidak dapat mengembalikan uang yang Anda bayarkan kepada mereka. Ajukan permohonan di situs web resmi ESTA yang dikelola oleh CBP.
+Beberapa [situs web pihak ketiga](https://www.cbp.gov/newsroom/national-media-release/cbp-warns-against-third-party-site-use-esta-applications) mengenakan biaya lebih tinggi dari biaya resmi. CBP menyatakan situs-situs itu tidak akan mempercepat persetujuan, tidak didukung atau berafiliasi dengan [Department of Homeland Security](https://www.dhs.gov/visa-waiver-program), dan CBP tidak dapat mengembalikan uang yang Anda bayarkan kepada mereka. Ajukan permohonan di situs web resmi ESTA yang dikelola oleh CBP.
 
 Di situs itu pula Anda memeriksa status. Pilih "Check ESTA Status" (Periksa Status ESTA), lalu "Check Individual Status" (Periksa Status Perorangan), atau "Check Group Status" (Periksa Status Kelompok) untuk permohonan keluarga. Jika Anda kehilangan nomor permohonan, Anda bisa menemukan permohonan dengan nomor paspor, negara kewarganegaraan, tanggal penerbitan dan kedaluwarsa paspor, serta tanggal lahir. Detailnya harus sama persis dengan yang Anda masukkan.
 
@@ -89,11 +89,11 @@ Empat pemeriksaan ini hanya butuh beberapa menit:
 
 ## ESTA yang Disetujui Bukan Jaminan Masuk
 
-Persetujuan berarti Anda memenuhi syarat untuk bepergian di bawah program bebas visa, bukan berarti Anda pasti diizinkan masuk, karena petugas CBP yang membuat keputusan itu saat Anda tiba.
+[Persetujuan berarti Anda memenuhi syarat untuk bepergian di bawah program bebas visa](https://www.cbp.gov/travel/international-visitors/esta), bukan berarti Anda pasti diizinkan masuk, karena petugas CBP yang membuat keputusan itu saat Anda tiba.
 
 **Sebelum Anda mengandalkan ini:** ini adalah blog, bukan sumber resmi. Aturan dan detailnya bisa berubah, dan situasi Anda mungkin berbeda. Kami memeriksa apa yang kami terbitkan, tetapi kami tetap bisa salah atau informasinya sudah usang. Jika ada hal di sini yang penting bagi rencana Anda, konfirmasikan dengan otoritas yang menanganinya sebelum Anda bertindak.
 
-Sumber yang kami periksa (6 November 2026)
+Sumber resmi
 
 - [US CBP: Visa Waiver Program and ESTA frequently asked questions](https://www.cbp.gov/travel/international-visitors/esta/frequently-asked-questions-about-visa-waiver-program-vwp-and-electronic-system-travel)
 - [US CBP: Electronic System for Travel Authorization (ESTA)](https://www.cbp.gov/travel/international-visitors/esta)
@@ -102,7 +102,6 @@ Sumber yang kami periksa (6 November 2026)
 - [US DHS: Visa Waiver Program](https://www.dhs.gov/visa-waiver-program)
 - [US CBP: CBP Reminds Travelers to Allow 72 Hours for ESTA](https://www.cbp.gov/newsroom/national-media-release/cbp-reminds-travelers-allow-72-hours-esta)
 - [US CBP: CBP Warns Against Third-Party Site Use for ESTA Applications](https://www.cbp.gov/newsroom/national-media-release/cbp-warns-against-third-party-site-use-esta-applications)
-- [US CBP: ESTA frequently asked questions](https://esta.cbp.dhs.gov/faq)
 
 ## Pertanyaan yang Sering Diajukan
 

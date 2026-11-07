@@ -34,15 +34,15 @@ Source: https://traveldocumentvault.com/ko/blog/what-documents-to-carry-when-tra
 
 ### 백신 접종 증명서
 
-특정 목적지에서는 황열병 또는 다른 질병에 대한 백신 접종 증명이 필요하며, 요건은 목적지에 따라 정기적으로 변경됩니다. 여행하기 4-8주 전에 WHO 여행 조언 페이지를 확인하세요. 전날 밤이 아니라 미리 확인하세요. 사본이 아닌 원본 증명서를 지참하세요. 일부 국가는 원본 제시를 요구하기 때문입니다.
+특정 목적지에서는 황열병 또는 다른 질병에 대한 백신 접종 증명이 필요하며, 요건은 목적지에 따라 정기적으로 변경됩니다. 여행하기 4-8주 전에 [WHO 여행 조언 페이지](https://www.who.int/health-topics/travel-and-health)를 확인하세요. 전날 밤이 아니라 미리 확인하세요. 사본이 아닌 원본 증명서를 지참하세요. 일부 국가는 원본 제시를 요구하기 때문입니다.
 
 ### 여행 보험 세부사항
 
-증권 번호, 발급사 연락처, 24시간 긴급 핫라인에 즉시 접근해야 합니다. 특정 비자 유형은 명시적으로 여행 보험 증명을 요구합니다. 예를 들어 Schengen 비자 신청은 응급 처치와 입원을 담당하는 의료 보험을 요구합니다. 더 중요하게는, 해외에서 문제가 발생하면 이메일이나 인터넷 접근에 의존하지 않고 이 정보에 접근해야 합니다.
+증권 번호, 발급사 연락처, 24시간 긴급 핫라인에 즉시 접근해야 합니다. 특정 비자 유형은 명시적으로 여행 보험 증명을 요구합니다. 예를 들어 [Schengen 비자 신청](https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en)은 응급 처치와 입원을 담당하는 의료 보험을 요구합니다. 더 중요하게는, 해외에서 문제가 발생하면 이메일이나 인터넷 접근에 의존하지 않고 이 정보에 접근해야 합니다.
 
 ### 미성년자 여행 동의서
 
-미성년자가 국제 여행을 할 때 한 부모와만 여행하거나, 부모 모두 없이 여행할 때, 많은 국가에서 부재중인 부모로부터의 서면 동의를 기대하며, 공증이 강력히 권장됩니다. 많은 국가의 국경 담당자와 항공사 직원이 이를 요구할 수 있으며(캐나다가 한 예), 남아프리카공화국은 입국하는 아동에 대해 별도의 규정이 있으므로 목적지의 공식 안내 페이지를 확인하세요. 동의서가 없으면 지연되거나 탑승이 거부될 수 있습니다.
+미성년자가 국제 여행을 할 때 한 부모와만 여행하거나, 부모 모두 없이 여행할 때, 많은 국가에서 부재중인 부모로부터의 서면 동의를 기대하며, 공증이 강력히 권장됩니다. 많은 국가의 국경 담당자와 항공사 직원이 이를 요구할 수 있으며([캐나다](https://travel.gc.ca/travelling/children/consent-letter)가 한 예), [남아프리카공화국](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements)은 입국하는 아동에 대해 별도의 규정이 있으므로 목적지의 공식 안내 페이지를 확인하세요. 동의서가 없으면 지연되거나 탑승이 거부될 수 있습니다.
 
 이것이 가족 여행에서 가장 흔히 간과되는 서류이므로 출국심사 전에 다시 한 번 확인하세요.
 
@@ -109,7 +109,7 @@ Source: https://traveldocumentvault.com/ko/blog/what-documents-to-carry-when-tra
 
 **이 글에 의존하기 전에:** 이 글은 블로그이며 공식 자료가 아닙니다. 규정과 세부 사항은 바뀌고, 여러분의 상황은 다를 수 있습니다. 저희는 게시하는 내용을 확인하지만 그래도 틀리거나 오래된 정보일 수 있습니다. 여기 적힌 내용이 계획에 중요하다면, 움직이기 전에 담당 기관에 확인하시기 바랍니다.
 
-확인한 출처 (2026년 11월 6일)
+공식 출처
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [UK Foreign Office: South Africa entry requirements](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements)

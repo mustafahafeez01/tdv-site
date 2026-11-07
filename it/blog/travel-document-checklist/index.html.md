@@ -26,7 +26,7 @@ L'errore più grande che i viaggiatori commettono è trattare il momento della p
 
 **Controllare i passaporti prima di pagare**
 
-Prima di confermare una prenotazione, controllare il passaporto di ogni viaggiatore rispetto a tre criteri: validità (soddisfa i requisiti della destinazione — molti paesi richiedono sei mesi di validità il giorno dell’arrivo, mentre alcuni contano dalla partenza: controlli la Sua destinazione, come spiegato nella nostra [guida alla regola del passaporto di 6 mesi](https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/)), corrispondenza del nome (il nome sul passaporto deve corrispondere esattamente al nome della prenotazione) e pagine vuote (alcuni paesi richiedono almeno due pagine di visto vuote per i timbri di ingresso).
+Prima di confermare una prenotazione, controllare il passaporto di ogni viaggiatore rispetto a tre criteri: validità (soddisfa i requisiti della destinazione — molti paesi richiedono [sei mesi di validità il giorno dell’arrivo](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), mentre alcuni contano dalla partenza: controlli la Sua destinazione, come spiegato nella nostra [guida alla regola del passaporto di 6 mesi](https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/)), corrispondenza del nome (il nome sul passaporto deve corrispondere esattamente al nome della prenotazione) e pagine vuote (alcuni paesi richiedono [almeno due pagine di visto vuote](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements) per i timbri di ingresso).
 
 **Controllare i requisiti di visto**
 
@@ -42,7 +42,7 @@ Prenota l'assicurazione di viaggio quando prenota i voli, non una settimana prim
 
 A questo punto ha ancora tempo per risolvere le cose. I tempi di rinnovo cambiano, e l’autorità passaporti del Suo paese pubblica i tempi attuali. Controlli sempre il sito ufficiale per i tempi attuali prima di presentare la domanda.
 
-Qualsiasi passaporto che scada entro 12 mesi: avvii il processo di rinnovo adesso. I passaporti dei bambini scadono più velocemente — nel Regno Unito durano 5 anni rispetto ai 10 per gli adulti, e diversi altri paesi seguono lo stesso criterio — e i genitori frequentemente perdono la finestra. Per i richiedenti della Nuova Zelanda, controllare l'Ufficio Passaporti della Nuova Zelanda per i tempi attuali.
+Qualsiasi passaporto che scada entro 12 mesi: avvii il processo di rinnovo adesso. I passaporti dei bambini scadono più velocemente — [nel Regno Unito durano 5 anni](https://www.gov.uk/get-a-child-passport) rispetto ai 10 per gli adulti, e diversi altri paesi seguono lo stesso criterio — e i genitori frequentemente perdono la finestra. Per i richiedenti della Nuova Zelanda, controllare l'Ufficio Passaporti della Nuova Zelanda per i tempi attuali.
 
 Invia qualsiasi domanda di visto con una finestra di elaborazione di quattro o più settimane. Prepara i documenti di supporto: estratti conto, conferme di alloggio, prova di viaggio successivo. Prenota un appuntamento per i dati biometrici in anticipo se il visto lo richiede.
 
@@ -113,7 +113,7 @@ Se un viaggio è già prenotato, l'unica cosa che vale la pena fare oggi è pren
 
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 
-Fonti che abbiamo verificato (6 novembre 2026)
+Fonti ufficiali
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
@@ -138,7 +138,7 @@ Sì. La scadenza del passaporto di ogni persona, i requisiti di visto e la coper
 
 ### Che cos'è una lettera di consenso per il viaggio dei minori e ne ho bisogno?
 
-Una lettera di consenso per il viaggio dei minori è un documento firmato dal genitore assente che concede il permesso al minore di viaggiare. Alcuni paesi, tra cui il Sudafrica, prevedono requisiti aggiuntivi per i minori che viaggiano con un solo genitore, mentre le autorità canadesi consigliano una lettera di consenso firmata. Senza una lettera potrebbe dover rispondere a domande aggiuntive o subire ritardi. La lettera dovrebbe includere i dettagli del minore, le informazioni di contatto di entrambi i genitori, le date di viaggio, le destinazioni e la firma del genitore assente.
+Una lettera di consenso per il viaggio dei minori è un documento firmato dal genitore assente che concede il permesso al minore di viaggiare. Alcuni paesi, tra cui il [Sudafrica](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements), prevedono requisiti aggiuntivi per i minori che viaggiano con un solo genitore, mentre le [autorità canadesi](https://travel.gc.ca/travelling/children/consent-letter) consigliano una lettera di consenso firmata. Senza una lettera potrebbe dover rispondere a domande aggiuntive o subire ritardi. La lettera dovrebbe includere i dettagli del minore, le informazioni di contatto di entrambi i genitori, le date di viaggio, le destinazioni e la firma del genitore assente.
 
 ### Quali documenti devo tenere accessibili in aeroporto e non nel bagaglio da stiva?
 

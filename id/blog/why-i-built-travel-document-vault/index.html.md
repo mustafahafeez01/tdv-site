@@ -12,7 +12,7 @@ Saya sedang berada di antrian imigrasi ketika petugas melihat paspor putri saya,
 
 "Anda tahu ini kedaluwarsa dalam tujuh bulan, kan?" katanya. "Sekadar memberi tahu, beberapa negara tidak akan mengizinkan Anda masuk dengan masa berlaku kurang dari enam bulan."
 
-Saya berterima kasih kepadanya. Kami baik-baik saja, hanya dengan sedikit kelonggaran. Namun sepanjang perjalanan saya terus berpikir: jika dia tidak mengatakannya, saya tidak akan pernah memperhatikan. Tujuh bulan terasa cukup lama. Saya sudah memeriksa paspor sebelum memesan tiket. Saya hanya benar-benar lupa tentang aturan enam bulan yang diterapkan oleh banyak negara.
+Saya berterima kasih kepadanya. Kami baik-baik saja, hanya dengan sedikit kelonggaran. Namun sepanjang perjalanan saya terus berpikir: jika dia tidak mengatakannya, saya tidak akan pernah memperhatikan. Tujuh bulan terasa cukup lama. Saya sudah memeriksa paspor sebelum memesan tiket. Saya hanya benar-benar lupa tentang [aturan enam bulan](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements) yang diterapkan oleh banyak negara.
 
 Kejadian hampir celaka itu terus terngiang di benak saya. Saya sudah mengatur pengingat kalender untuk tanggal kedaluwarsa paspor semua orang. Saya pikir itu sudah cukup. Namun sebenarnya saya tidak benar-benar memeriksa tanggalnya, saya hanya mengandalkan pengingat tersebut. Dan ketika seseorang memperbarui paspornya, saya harus memperbarui pengingat, memperbarui scan di Google Drive, dan berharap tidak ada yang terlewat.
 
@@ -118,7 +118,7 @@ Mustafa
 
 Pendiri, Travel Document Vault
 
-Sumber yang kami periksa (6 November 2026)
+Sumber resmi
 
 - [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
 

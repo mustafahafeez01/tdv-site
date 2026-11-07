@@ -26,7 +26,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/travel-document-checklist/
 
 **在支付前检查护照**
 
-在确认任何预订前，根据三个标准检查每个旅客的护照：有效期（它是否满足目的地的要求——许多国家要求护照在您抵达当天仍有六个月有效期，少数国家则从出发日期起算，请查清您的目的地的规定，如我们的[六个月护照规则指南](https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rule/)中解释的那样）、名称匹配（护照上的名称必须与预订名称完全匹配）以及空白页（一些国家要求至少两个空白签证页来放置入境章）。
+在确认任何预订前，根据三个标准检查每个旅客的护照：有效期（它是否满足目的地的要求——[许多国家要求护照在您抵达当天仍有六个月有效期](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)，少数国家则从出发日期起算，请查清您的目的地的规定，如我们的[六个月护照规则指南](https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rule/)中解释的那样）、名称匹配（护照上的名称必须与预订名称完全匹配）以及空白页（一些国家要求[至少两个空白签证页](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements)来放置入境章）。
 
 **检查您的签证要求**
 
@@ -42,7 +42,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/travel-document-checklist/
 
 此时您仍然有时间解决问题。续期所需时间会不断变动，您所属国家的护照签发机构都会各自公布最新数字。在申请前始终检查官方网站以了解当前时间。
 
-任何在12个月内过期的护照，我们建议立即续期。儿童护照过期速度更快（英国儿童护照有效期为5年，成人为10年，其他一些国家也是如此），家长经常错过时间窗口。对于新西兰申请人，检查新西兰护照办公室以了解当前时间表。
+任何在12个月内过期的护照，我们建议立即续期。儿童护照过期速度更快（[英国儿童护照有效期为5年](https://www.gov.uk/get-a-child-passport)，成人为10年，其他一些国家也是如此），家长经常错过时间窗口。对于新西兰申请人，检查新西兰护照办公室以了解当前时间表。
 
 提交任何处理窗口为四周或更长的签证申请。准备支持文件：银行对账单、住宿确认、前往旅行证明。如果签证需要，请提前预订生物识别预约。
 
@@ -113,7 +113,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/travel-document-checklist/
 
 **在依据本文行动之前：**这是一个博客，不是官方来源。规则和细节会变化，你的情况也可能不同。我们会核对所发布的内容，但仍可能出错或过时。如果这里的内容对你的安排很重要，请在行动前向主管机构核实。
 
-我们核对过的资料来源（2026年11月6日）
+官方资料来源
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
@@ -138,7 +138,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/travel-document-checklist/
 
 ### 什么是儿童旅行同意信，我需要一份吗？
 
-儿童旅行同意信是来自缺席家长的签署文件，允许儿童出国旅行。一些国家（包括南非）对仅与一位家长同行的儿童设有额外要求，加拿大当局则建议携带签署的同意信。没有这份信件，您可能会被追加询问或面临延误。这份信件应包括儿童的完整姓名和出生日期、两位家长的联系详情、旅行日期、目的地和缺席家长的签名。
+儿童旅行同意信是来自缺席家长的签署文件，允许儿童出国旅行。一些国家（包括[南非](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements)）对仅与一位家长同行的儿童设有额外要求，[加拿大当局](https://travel.gc.ca/travelling/children/consent-letter)则建议携带签署的同意信。没有这份信件，您可能会被追加询问或面临延误。这份信件应包括儿童的完整姓名和出生日期、两位家长的联系详情、旅行日期、目的地和缺席家长的签名。
 
 ### 哪些文件我应该在机场随身携带而不是放在托运行李中？
 

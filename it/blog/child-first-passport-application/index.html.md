@@ -13,7 +13,7 @@ Source: https://traveldocumentvault.com/it/blog/child-first-passport-application
 - **Il consenso per fare domanda è diverso dal consenso per viaggiare.** Le regole variano da paese a paese: nel Regno Unito, ad esempio, firma una persona con responsabilità genitoriale e si indicano i dati di entrambi i genitori; altri paesi chiedono il consenso di entrambi. Verifica con il tuo ufficio passaporti.
 - **La maggior parte delle domande richiede tre tipi di prove:** prova di identità del bambino (certificato di nascita), prova di identità dei genitori, e prova del legame di parentela.
 - **Le foto passaporto dei neonati hanno regole specifiche.** La maggior parte delle autorità chiede occhi aperti e rivolti verso la fotocamera (GOV.UK fa eccezione per i bambini sotto un anno e sotto i 6 anni), senza ciucci, giocattoli o mani di altre persone visibili — e lo sfondo dietro la testa del bambino deve essere semplice e senza ostacoli.
-- **Controlla tutto appena arriva.** Ortografia, nomi dei genitori dove compaiono, data di scadenza — soprattutto perché i passaporti dei bambini scadono spesso prima di quelli degli adulti (quello britannico è valido per 5 anni).
+- **Controlla tutto appena arriva.** Ortografia, nomi dei genitori dove compaiono, data di scadenza — soprattutto perché i passaporti dei bambini scadono spesso prima di quelli degli adulti ([quello britannico è valido per 5 anni](https://www.gov.uk/get-a-child-passport)).
 - **Nei paesi che chiedono il consenso di entrambi i genitori, un genitore generalmente non può firmare da solo, a meno che non ci sia un provvedimento del tribunale, l'affido esclusivo, o il decesso dell'altro genitore.** Se questa è la tua situazione, il tuo ufficio passaporti ha una procedura specifica da seguire.
 
 Il primo passaporto di tuo figlio è qualcosa che si fa una sola volta — il che significa che puoi imparare le regole prima di farlo, invece di scoprirle allo sportello. La domanda in sé è semplice, ma le regole sul consenso e i requisiti della foto variano da paese a paese, e un piccolo errore all'inizio significa una domanda respinta e un viaggio rimandato.
@@ -28,7 +28,7 @@ Questo articolo tratta il consenso per la domanda. La distinzione conta perché 
 
 ## Di norma devono essere d'accordo tutti i titolari di responsabilità genitoriale
 
-Chi deve dare il consenso dipende dal paese. Nel Regno Unito firma una persona con responsabilità genitoriale e si indicano i dati di entrambi i genitori; altri paesi generalmente richiedono la firma di entrambi. Anche la responsabilità genitoriale di un genitore non sposato dipende dal paese: per confermarla, rivolgiti al tuo ufficio passaporti. Chi ha un provvedimento del tribunale o l'affido legale esclusivo segue regole diverse, e il tuo ufficio passaporti ti spiegherà la procedura specifica quando lo chiederai.
+Chi deve dare il consenso dipende dal paese. Nel Regno Unito [firma una persona con responsabilità genitoriale](https://www.gov.uk/get-a-child-passport/first-child-passport) e si indicano i dati di entrambi i genitori; altri paesi generalmente richiedono la firma di entrambi. Anche la responsabilità genitoriale di un genitore non sposato dipende dal paese: per confermarla, rivolgiti al tuo ufficio passaporti. Chi ha un provvedimento del tribunale o l'affido legale esclusivo segue regole diverse, e il tuo ufficio passaporti ti spiegherà la procedura specifica quando lo chiederai.
 
 Queste eccezioni sono reali e vale la pena conoscerle. Un genitore deceduto non può firmare, e un genitore che ha perso la responsabilità genitoriale per un provvedimento del tribunale potrebbe non avere nemmeno il diritto di dare il consenso. Anche gli ordini restrittivi e le limitazioni di affido possono escludere per legge un genitore. Ognuna di queste situazioni ha una propria procedura di domanda e propri requisiti di prova, quindi non esiste un'unica risposta valida per tutte.
 
@@ -44,7 +44,7 @@ Gli uffici passaporti vogliono tre cose quando fai domanda per il primo passapor
 
 **La prova del legame con il bambino** di solito deriva dal certificato di nascita stesso, se entrambi i genitori sono indicati. Se è indicato un solo genitore, potresti dover fornire un provvedimento del tribunale, un accordo di affido, o un certificato di tutela per dimostrare che anche il secondo genitore ha il diritto di prendere decisioni sul bambino.
 
-**Alcuni paesi usano un sistema di controfirma.** Questo significa che un professionista di fiducia — un insegnante, un medico, un avvocato, o simili — firma un modulo per garantire che la domanda sia genuina e che la foto sia una rappresentazione fedele del bambino. Se il tuo paese usa questo sistema, devi individuare qualcuno disposto a farlo prima di presentare domanda. Chiedi al tuo ufficio passaporti quali professioni accetta.
+**Alcuni paesi usano un [sistema di controfirma](https://www.gov.uk/countersigning-passport-applications).** Questo significa che un professionista di fiducia — un insegnante, un medico, un avvocato, o simili — firma un modulo per garantire che la domanda sia genuina e che la foto sia una rappresentazione fedele del bambino. Se il tuo paese usa questo sistema, devi individuare qualcuno disposto a farlo prima di presentare domanda. Chiedi al tuo ufficio passaporti quali professioni accetta.
 
 ## I neonati non possono seguire le regole delle foto per adulti, quindi le si adatta
 
@@ -52,7 +52,7 @@ Gli uffici passaporti vogliono tre cose quando fai domanda per il primo passapor
 
 È qui che molte domande per la prima volta falliscono. Un neonato o un bambino piccolo non può seguire le regole della foto come un adulto: i neonati non sanno stare seduti, i bambini piccoli non riescono a stare fermi o a capire le istruzioni, e i neonati appena nati non possono guardare la fotocamera a comando. Gli standard delle foto passaporto sono stati scritti per gli adulti, e devi capire come adattarli quando il soggetto è un bambino che pesa 5 chili e si muove di continuo.
 
-**Le regole di base sono le stesse:** gli occhi del bambino dovrebbero in genere essere aperti e rivolti verso la fotocamera, con uno sfondo semplice dietro la testa e nient'altro nell'inquadratura. Alcune autorità ammorbidiscono le regole sugli occhi per i più piccoli: GOV.UK non richiede occhi aperti sotto un anno, né lo sguardo diretto in camera sotto i 6 anni. Ciò che cambia è come riuscirci.
+**Le regole di base sono le stesse:** gli occhi del bambino dovrebbero in genere essere aperti e rivolti verso la fotocamera, con uno sfondo semplice dietro la testa e nient'altro nell'inquadratura. Alcune autorità ammorbidiscono le regole sugli occhi per i più piccoli: [GOV.UK](https://www.gov.uk/photos-for-passports) non richiede occhi aperti sotto un anno, né lo sguardo diretto in camera sotto i 6 anni. Ciò che cambia è come riuscirci.
 
 **Per un neonato o un bambino sotto un anno:** fotografalo sdraiato su un lenzuolo o una coperta semplice, bianca o chiara. Il lenzuolo diventa lo sfondo. Mettiti direttamente sopra di lui in modo che guardi dritto verso la fotocamera, con gli occhi aperti — se il bambino è assonnato, aspetta un momento in cui è sveglio. Niente giocattoli, niente ciucci, niente mani, nessun'altra persona visibile nell'inquadratura tranne la testa e le spalle del bambino.
 
@@ -86,7 +86,7 @@ Questo è un requisito legale che esiste per proteggere il bambino, non una trat
 
 Una volta che il passaporto è stato emesso e consegnato, dedica cinque minuti a controllarlo prima di archiviarlo. Ci sono tre cose da verificare, facili da correggere ora e un incubo da correggere in aeroporto.
 
-**Controlla l'ortografia.** Il nome di tuo figlio deve essere scritto esattamente come appare sul certificato di nascita o sul documento d'identità usato per la domanda. Se è sbagliato, l’ufficio passaporti generalmente lo sostituisce gratuitamente se l’errore è suo; se invece era nella domanda presentata, potrebbe essere previsto un costo. Se non te ne accorgi finché non sei in aeroporto, la compagnia aerea potrebbe rifiutare l'imbarco perché il nome sul biglietto non corrisponderà al passaporto.
+**Controlla l'ortografia.** Il nome di tuo figlio deve essere scritto esattamente come appare sul certificato di nascita o sul documento d'identità usato per la domanda. Se è sbagliato, l’ufficio passaporti generalmente [lo sostituisce gratuitamente se l’errore è suo](https://www.gov.uk/government/publications/preventing-and-resolving-errors-on-passports/how-to-correct-errors-on-passports-accessible); se invece era nella domanda presentata, potrebbe essere previsto un costo. Se non te ne accorgi finché non sei in aeroporto, la compagnia aerea potrebbe rifiutare l'imbarco perché il nome sul biglietto non corrisponderà al passaporto.
 
 **Controlla i nomi dei genitori dove compaiono.** Alcuni paesi stampano i nomi dei genitori o dei tutori all'interno del passaporto di un bambino. Se questi nomi sono scritti male o sbagliati, contatta l'ufficio per farli correggere.
 
@@ -94,7 +94,7 @@ Una volta che il passaporto è stato emesso e consegnato, dedica cinque minuti a
 
 Se qualcosa non va, contatta il tuo ufficio passaporti appena noti l’errore. La gratuità della correzione dipende da chi ha commesso l’errore, e più tempo lasci passare più il processo diventa complicato. Quando è tutto a posto, metti subito il passaporto nella cartella dei documenti con una nota sulla data di scadenza, così il rinnovo non ti coglie di sorpresa.
 
-Fonti che abbiamo verificato (6 novembre 2026)
+Fonti ufficiali
 
 - [UK Government: Get a passport photo, Digital photos](https://www.gov.uk/photos-for-passports)
 - [UK Government: applying for a first child passport](https://www.gov.uk/get-a-child-passport/first-child-passport)

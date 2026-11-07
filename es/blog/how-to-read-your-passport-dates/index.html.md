@@ -60,7 +60,7 @@ La fecha de expedición deja de ser un detalle sin importancia en cuanto un paí
 
 Los pasaportes británicos expedidos más recientemente ya no llevan esos meses adicionales, pero los pasaportes más antiguos que sí los tienen siguen en circulación y en uso.
 
-Los países Schengen suelen aplicar dos pruebas independientes a un pasaporte no comunitario en la frontera: debe haberse expedido menos de diez años antes de la fecha de tu llegada, y debe seguir siendo válido al menos tres meses después de la fecha prevista de salida. Un pasaporte con nueve meses adicionales puede superar la segunda prueba sin problema y fallar la primera, lo que da lugar a una conversación incómoda en un mostrador de Madrid con un documento que, técnicamente, no ha caducado.
+Los países Schengen suelen aplicar dos pruebas independientes a un pasaporte no comunitario en la frontera: debe haberse [expedido menos de diez años antes de la fecha de tu llegada](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements), y debe seguir siendo válido al menos tres meses después de la fecha prevista de salida. Un pasaporte con nueve meses adicionales puede superar la segunda prueba sin problema y fallar la primera, lo que da lugar a una conversación incómoda en un mostrador de Madrid con un documento que, técnicamente, no ha caducado.
 
 Nosotros comprobaríamos las dos fechas antes de un viaje a Europa, no solo la de abajo.
 
@@ -96,7 +96,7 @@ Dedica cinco minutos hoy a localizar las dos fechas en tu propio pasaporte, y en
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 
-Fuentes que hemos comprobado (6 de noviembre de 2026)
+Fuentes oficiales
 
 - [UK Foreign Office: Spain entry requirements](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements)
 

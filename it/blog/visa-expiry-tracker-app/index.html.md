@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/it/blog/visa-expiry-tracker-app/
 - I visitatori dell'Area Schengen devono tracciare una finestra mobile di 90/180 giorni, non solo una singola data di scadenza, perché il conteggio scorre con la Sua reale cronologia di viaggio, non con il calendario.
 - Tracciare i visti e i passaporti insieme in un unico luogo riduce il rischio di una mancata corrispondenza: entrare con un visto valido ma con un passaporto che scade prima della fine del Suo soggiorno pianificato.
 
-Un superamento della durata di soggiorno di un visto è uno degli errori di viaggio più consequenziali che una persona possa commettere. A differenza di un volo perso — stressante ma in ultima analisi risolvibile — un superamento crea un record immigrazione formale che può seguirLa per anni. Negli Stati Uniti, ai sensi della sezione 212(a)(9)(B) dell'Immigration and Nationality Act, chi è presente illegalmente per più di 180 giorni ma meno di un anno e poi parte non può in genere rientrare per tre anni, mentre un anno o più di presenza illegale comporta in genere un divieto di dieci anni. Queste conseguenze non sono ampiamente conosciute.
+Un superamento della durata di soggiorno di un visto è uno degli errori di viaggio più consequenziali che una persona possa commettere. A differenza di un volo perso — stressante ma in ultima analisi risolvibile — un superamento crea un record immigrazione formale che può seguirLa per anni. Negli Stati Uniti, ai sensi della sezione 212(a)(9)(B) dell'[Immigration and Nationality Act](https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chap12-subchapII-partII-sec1182.htm), chi è presente illegalmente per più di 180 giorni ma meno di un anno e poi parte non può in genere rientrare per tre anni, mentre un anno o più di presenza illegale comporta in genere un divieto di dieci anni. Queste conseguenze non sono ampiamente conosciute.
 
 Un'app di tracciamento della scadenza dei visti serve a prevenire questo: deve monitorare molteplici date contemporaneamente, validità dell'ingresso, durata massima di soggiorno e conteggio dell'ingresso, ciascuna una scadenza a sé.
 
@@ -43,7 +43,7 @@ Un tracciatore che monitora solo la data di validità dell'ingresso perde la cau
 
 Per i viaggiatori che visitano molteplici paesi europei, la regola dei 90/180 giorni dell'Area Schengen è la condizione di ingresso più fraintesa nei viaggi internazionali. I cittadini di paesi con accesso senza visto a Schengen (inclusi il Regno Unito, gli Stati Uniti, il Canada e l'Australia, tra molti altri) possono trascorrere un massimo di 90 giorni nell'Area Schengen entro qualsiasi finestra mobile di 180 giorni.
 
-La Commissione Europea fornisce un calcolatore ufficiale di soggiorno Schengen per aiutare i viaggiatori a determinare i giorni consentiti. Il punto critico è che si tratta di una *finestra mobile*, non di un reset dell'anno civile. I giorni trascorsi a Schengen sei mesi fa contano ancora contro il Suo margine attuale, quindi controllare una singola data di scadenza non basta a evitare un superamento. Ciò che conta è la Sua cronologia effettiva di ingressi e uscite, non la data stampata sul visto.
+La Commissione Europea fornisce un [calcolatore ufficiale di soggiorno Schengen](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en) per aiutare i viaggiatori a determinare i giorni consentiti. Il punto critico è che si tratta di una *finestra mobile*, non di un reset dell'anno civile. I giorni trascorsi a Schengen sei mesi fa contano ancora contro il Suo margine attuale, quindi controllare una singola data di scadenza non basta a evitare un superamento. Ciò che conta è la Sua cronologia effettiva di ingressi e uscite, non la data stampata sul visto.
 
 ## Cosa Succede Quando Lei Supera la Durata di Soggiorno
 
@@ -51,7 +51,7 @@ Le conseguenze di un superamento della durata di soggiorno variano da paese a pa
 
 - **Regno Unito:** I superamenti sono registrati e influenzeranno le domande di visto future. L'Ufficio per l'Immigrazione del Regno Unito considera i superamenti nella valutazione della credibilità e può rifiutare le applicazioni successive.
 - **Australia:** Il superamento della durata di soggiorno del Suo visto può risultare in restrizioni sulle domande di visto future e nell'allontanamento dal paese. Secondo il Migration Act 1958, i record di superamento sono tracciati e influenzeranno le domande di visto future e l'idoneità al rientro.
-- **Area Schengen:** I soggiorni vengono registrati alla frontiera, e un divieto d'ingresso emesso da un paese Schengen è in genere condiviso con gli altri tramite il Sistema d'Informazione Schengen, quindi si applica a tutta l'Area Schengen, che la Commissione Europea elenca attualmente come composta da 29 paesi.
+- **Area Schengen:** I soggiorni vengono registrati alla frontiera, e un divieto d'ingresso emesso da un paese Schengen è in genere condiviso con gli altri tramite il [Sistema d'Informazione Schengen](https://home-affairs.ec.europa.eu/policies/schengen/schengen-information-system/what-sis-and-how-does-it-work_en), quindi si applica a tutta l'Area Schengen, [che la Commissione Europea elenca attualmente come composta da 29 paesi](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en).
 - **Tailandia:** I superamenti comportano una multa giornaliera stabilita dall'immigrazione thailandese, fino a un tetto massimo, e un superamento di oltre 90 giorni può portare all'espulsione e al divieto di rientro.
 
 In tutti i casi, il record di superamento típicamente La segue: appare nei database immigrazione controllati ai futuri valichi di confine e nelle domande di visto.
@@ -80,7 +80,7 @@ Controlli oggi la scadenza del Suo passaporto rispetto alle date del Suo visto: 
 
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 
-Fonti che abbiamo verificato (6 novembre 2026)
+Fonti ufficiali
 
 - [US Code: Title 8, section 1182](https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chap12-subchapII-partII-sec1182.htm)
 - [European Commission: Schengen area](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en)

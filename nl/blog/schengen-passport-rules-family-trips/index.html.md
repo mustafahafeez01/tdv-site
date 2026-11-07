@@ -22,7 +22,7 @@ Twee regels en één eigenaardigheid van kinderpaspoorten verklaren bijna elk Sc
 
 ## De echte Schengenregel: 3 maanden na vertrek
 
-De eis van de EU is precies: je paspoort moet minstens 3 maanden geldig zijn na de datum waarop je van plan bent het Schengengebied te verlaten, en het moet binnen de afgelopen 10 jaar zijn afgegeven.
+De eis van de EU is precies: [je paspoort moet minstens 3 maanden geldig zijn na de datum waarop je van plan bent het Schengengebied te verlaten](https://www.gov.uk/foreign-travel-advice/france/entry-requirements), en het moet binnen de afgelopen 10 jaar zijn afgegeven.
 
 Stel je voor dat je gezin op 20 augustus terugkeert uit Italië. Elk paspoort moet geldigheid hebben tot ongeveer 20 november – dat is drie maanden na je vertrekdatum, niet je aankomstdatum, en niet je boekingsdatum. Een paspoort dat op 10 november verloopt, faalt die test, ook al eindigt de vakantie zelf weken eerder.
 
@@ -30,7 +30,7 @@ De voorwaarde van afgifte binnen 10 jaar treft Britse gezinnen op een specifieke
 
 ## Waarom dit niet de 6 maanden-regel is
 
-De meeste reizigers hebben het idee overgenomen dat paspoorten zes maanden geldigheid nodig hebben om ergens naartoe te kunnen. Die regel bestaat echt – Thailand vraagt zes maanden geldigheid, en veel andere landen passen een variant daarvan toe. Maar Schengen doet dat niet. Europa vraagt drie maanden na vertrek, wat milder is, en toch worden de twee vermengd tot een vaag "zes maanden vanaf ergens", wat zowel valse paniek als vals vertrouwen oplevert.
+De meeste reizigers hebben het idee overgenomen dat paspoorten zes maanden geldigheid nodig hebben om ergens naartoe te kunnen. Die regel bestaat echt – [Thailand vraagt zes maanden geldigheid](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), en veel andere landen passen een variant daarvan toe. Maar Schengen doet dat niet. Europa vraagt drie maanden na vertrek, wat milder is, en toch worden de twee vermengd tot een vaag "zes maanden vanaf ergens", wat zowel valse paniek als vals vertrouwen oplevert.
 
 Onze gids over [de 6 maanden-regel](https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/) behandelt welke landen die daadwerkelijk hanteren. Onze [uitleg over paspoortgeldigheid](https://traveldocumentvault.com/nl/blog/how-long-is-passport-valid-for-travel/) behandelt het algemene geval. Hier houden we het bij Schengen, omdat gezinnen daar het vaakst subtiel de mist ingaan met de berekening.
 
@@ -38,7 +38,7 @@ Onze gids over [de 6 maanden-regel](https://traveldocumentvault.com/nl/blog/pass
 
 ## Paspoorten van kinderen lopen op een snellere klok
 
-Britse paspoorten van volwassenen gelden 10 jaar, terwijl het VK kinderpaspoorten maar voor vijf jaar afgeeft. Die asymmetrie is waar anders zorgvuldige plannen misgaan.
+[Britse paspoorten van volwassenen gelden 10 jaar](https://www.gov.uk/apply-first-adult-passport), terwijl [het VK kinderpaspoorten maar voor vijf jaar afgeeft](https://www.gov.uk/get-a-child-passport). Die asymmetrie is waar anders zorgvuldige plannen misgaan.
 
 | Land | Kinderpaspoorten | Geldigheid |
 |---|---|---|
@@ -60,13 +60,13 @@ Eén afgekeurd paspoort strandt zelden slechts één persoon; het zet het hele g
 
 De oplossing is simpel en kost maar een paar minuten. Verzamel op de dag dat je boekt alle paspoorten van het huishouden en noteer elke vervaldatum en afgiftedatum. Stel dan twee vragen per paspoort: is het nog geldig drie maanden na je terugreisdatum, en is het minder dan tien jaar geleden afgegeven? Alles wat een van beide tests niet doorstaat, gaat diezelfde week de verlengingswachtrij in – op dat moment kun je nog verlengen, de reis omleggen of de data verschuiven zonder gevolgen, en wij kiezen altijd voor verlengen in plaats van afwachten of de data nog opschuiven.
 
-Kinderen hebben dezelfde marge nodig als volwassenen. Er is geen kinderuitzondering op de geldigheidsregels – het paspoort van een vijfjarige krijgt dezelfde Timatic-behandeling als dat van jou. Nog een kanttekening voor Britse en Ierse reizen: Ierland maakt helemaal geen deel uit van Schengen. Reizen tussen het VK en Ierland vallen onder de aparte Common Travel Area, dus generaliseer niet van een reis naar Dublin naar een reis naar Parijs.
+Kinderen hebben dezelfde marge nodig als volwassenen. Er is geen kinderuitzondering op de geldigheidsregels – het paspoort van een vijfjarige krijgt dezelfde Timatic-behandeling als dat van jou. Nog een kanttekening voor Britse en Ierse reizen: Ierland maakt helemaal geen deel uit van Schengen. Reizen tussen het VK en Ierland vallen onder de [aparte Common Travel Area](https://www.gov.uk/foreign-travel-advice/ireland/entry-requirements), dus generaliseer niet van een reis naar Dublin naar een reis naar Parijs.
 
 Niets hiervan vereist een app. Een spreadsheet helpt de meeste gezinnen prima, en een tweejaarlijkse kalenderherinnering doet het meeste werk. Het enige dat niet onderhandelbaar is: doe de check op het moment van boeken, wanneer een kort paspoort nog een klusje is, geen noodgeval.
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 
-Bronnen die we hebben gecontroleerd (6 november 2026)
+Officiële bronnen
 
 - [UK Foreign Office: France entry requirements](https://www.gov.uk/foreign-travel-advice/france/entry-requirements)
 - [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
@@ -80,7 +80,7 @@ Bronnen die we hebben gecontroleerd (6 november 2026)
 
 ### Wat is het verschil tussen de 6 maanden-regel en Schengens 3 maanden-regel?
 
-Het zijn aparte regels voor verschillende bestemmingen. Landen als Thailand en Indonesië willen over het algemeen 6 maanden resterende geldigheid. Schengen vereist 3 maanden geldigheid na de datum waarop je vertrekt, plus een paspoort dat binnen de afgelopen 10 jaar is afgegeven. Gezinnen die naar Zuidoost-Azië hebben gereisd, nemen vaak aan dat het getal van 6 maanden overal geldt – dat is niet zo.
+Het zijn aparte regels voor verschillende bestemmingen. Landen als Thailand en [Indonesië](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements) willen over het algemeen 6 maanden resterende geldigheid. Schengen vereist 3 maanden geldigheid na de datum waarop je vertrekt, plus een paspoort dat binnen de afgelopen 10 jaar is afgegeven. Gezinnen die naar Zuidoost-Azië hebben gereisd, nemen vaak aan dat het getal van 6 maanden overal geldt – dat is niet zo.
 
 ### Gelden voor kinderen andere Schengen-paspoortregels?
 

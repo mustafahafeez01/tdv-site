@@ -33,7 +33,7 @@ Et brev kræves typisk i disse situationer:
 - **Et barn rejser med en forælder, hvis efternavn er anderledes end barnets.** Det vækker opmærksomhed ved nogle grænser, især for yngre børn.
 - **Et barn er adopteret eller i familiepleje.** Dokumenter om værgemål og samtykke kan kræves ud over brevet.
 
-**Vigtigt forbehold:** reglerne varierer meget. Canada kræver ikke lovligt et samtykkebrev, men den canadiske regering anbefaler kraftigt et og bemærker, at "manglende fremvisning af et brev på anmodning kan medføre forsinkelser eller afvisning af ind- eller udrejse". Sydafrika beder om en samtykkeerklæring afgivet under ed, når en forælder ikke rejser med. Nogle lande anvender kun krav på børn under en vis alder. Der findes ingen global standard.
+**Vigtigt forbehold:** reglerne varierer meget. Canada kræver ikke lovligt et samtykkebrev, men [den canadiske regering](https://travel.gc.ca/travelling/children/consent-letter) anbefaler kraftigt et og bemærker, at "manglende fremvisning af et brev på anmodning kan medføre forsinkelser eller afvisning af ind- eller udrejse". Sydafrika beder om en samtykkeerklæring afgivet under ed, når en forælder ikke rejser med. Nogle lande anvender kun krav på børn under en vis alder. Der findes ingen global standard.
 
 Bekræft altid kravene direkte med indvandringsmyndigheden for din specifikke destination, før du rejser. Brug IATA Travel Centre til at tjekke indrejsekrav, eller kontakt destinationslandets ambassade. Er du i tvivl, er det bedre at have brevet end alternativet: at blive stoppet ved check-in eller grænsen.
 
@@ -61,8 +61,8 @@ Når der kræves eller anbefales et bevidnet brev, betyder det som regel, at en 
 
 Hvad nogle lande siger om notarbekræftelse:
 
-- **Canada.** Et samtykkebrev er ikke lovpligtigt, men den canadiske regering anbefaler kraftigt et og anbefaler, at en notar er vidne til underskriften. Grænse- og flyselskabspersonale kan bede om det ved ind- eller udrejse.
-- **Sydafrika.** Når en forælder ikke rejser med, beder Department of Home Affairs om en samtykkeerklæring afgivet under ed, som højst må være 4 måneder gammel, når den fremvises. Tjek den aktuelle vejledning fra Home Affairs.
+- **Canada.** Et samtykkebrev er ikke lovpligtigt, men [den canadiske regering](https://travel.gc.ca/travelling/children/documents) anbefaler kraftigt et og anbefaler, at en notar er vidne til underskriften. Grænse- og flyselskabspersonale kan bede om det ved ind- eller udrejse.
+- **Sydafrika.** Når en forælder ikke rejser med, beder [Department of Home Affairs](https://www.gov.za/news/speeches/director-general-mkuseli-apleni-media-briefing-new-requirements-travelling-children) om en samtykkeerklæring afgivet under ed, som højst må være 4 måneder gammel, når den fremvises. Tjek den aktuelle vejledning fra Home Affairs.
 - **Australien.** Smartraveller udgiver vejledning om rejser med børn, og flyselskaber kan bede om et brev. Tjek vejledningen for både afrejse- og indrejselandet.
 - **Storbritannien.** Ikke lovpligtigt ved udrejse, men flyselskaber og grænsemyndigheder på destinationen kan bede om det, når et barn rejser med kun én forælder eller med en voksen, der ikke er forælder. Tjek GOV.UK-vejledningen for din rute.
 - **USA.** Ikke føderalt påkrævet, men anbefalet. Nogle delstater anerkender notarbekræftelse eksplicit.
@@ -92,7 +92,7 @@ Selv velforberedte familier laver fejl, der fører til afvisning ved grænsen. D
 | **Storbritannien** | Ikke lovpligtigt; flyselskaber og destinationens grænse kan bede om det | Tjek aktuel vejledning | GOV.UK |
 | **USA** | Ikke føderalt påkrævet; varierer efter delstat | Tjek aktuel vejledning | travel.state.gov |
 | **EU** | Varierer efter land | Varierer efter land | IATA Travel Centre |
-| **New Zealand** | Anbefales | Normalt underskrevet af forældrene og bevidnet af en offentlig embedsmand | SafeTravel (New Zealands regering) |
+| **New Zealand** | Anbefales | Normalt underskrevet af forældrene og bevidnet af en offentlig embedsmand | [SafeTravel](https://www.safetravel.govt.nz/before-you-go/who-is-travelling/travelling-with-children) (New Zealands regering) |
 
 Se denne tabel som et udgangspunkt, ikke som det sidste ord. Reglerne ændrer sig ofte, og destinationens egen indvandringsmyndighed er din mest pålidelige kilde. Rejseblogs og flyselskabers sider er nyttige for kontekst, men de kan halte bagefter de nyeste krav.
 
@@ -125,7 +125,7 @@ Gå listen igennem, før du forlader huset, ikke ved check-in-skranken, for et �
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 
-Kilder vi har tjekket (6. november 2026)
+Officielle kilder
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [NZ SafeTravel: Travelling with children](https://www.safetravel.govt.nz/before-you-go/who-is-travelling/travelling-with-children)

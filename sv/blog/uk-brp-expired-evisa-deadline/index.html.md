@@ -20,7 +20,7 @@ Om du har ett utgånget Biometric Residence Permit (BRP, biometriskt uppehållst
 
 ![Diagram över hur länge ett utgånget BRP fortfarande fungerar: i 24 månader efter det tryckta utgångsdatumet eller fram till 31 december 2026, det som inträffar först. Under den tiden kan det fortfarande användas för att logga in och få en share code, skapa ett UKVI-konto, eller ansöka om att förlänga din rätt att stanna](https://traveldocumentvault.com/blog/uk-brp-expired-evisa-deadline/brp-window-sv.jpg) Två datum, och det tidigaste är ditt.
 
-GOV.UK säger att alla BRP-kort nu har gått ut och har ersatts av eVisa. Ett eVisa är ett digitalt register över din identitet och uppehållsstatus, och du når det via ett UKVI-konto istället för att bära det i plånboken. Det är därför kontot är det steg som spelar roll, för dig och för alla i din familj som hade ett kort.
+[GOV.UK](https://www.gov.uk/biometric-residence-permits) säger att alla BRP-kort nu har gått ut och har ersatts av eVisa. Ett eVisa är ett [digitalt register över din identitet och uppehållsstatus](https://www.gov.uk/evisa), och du når det via ett UKVI-konto istället för att bära det i plånboken. Det är därför kontot är det steg som spelar roll, för dig och för alla i din familj som hade ett kort.
 
 Ett utgånget kort innebär inte att din rätt att stanna har upphört. GOV.UK:s instruktioner är skrivna just för detta fall: personer vars BRP har gått ut men som fortfarande har rätt att stanna i Storbritannien.
 
@@ -38,11 +38,11 @@ GOV.UK listar exakt vad kortet fortfarande kan göra. Du kan använda det för a
 
 Den tredje användningen är lätt att missa. Om din rätt att stanna snart ska förlängas kan det utgångna kortet fortfarande spela en roll i den ansökan medan dess tidsfönster är öppet, vilket är ännu ett skäl att känna till ditt datum. För resor hänvisar GOV.UK till ditt eVisa och det pass det är kopplat till, vilket vi kommer till nedan.
 
-När du är inne är kontot det sätt du visar din status i vardagen. GOV.UK säger att du kan se ditt eVisa och få en share code för att styrka din uppehållsstatus, till exempel när du får ett nytt jobb eller hyr en bostad. eVisat visar även villkoren för din status, som om du får arbeta eller studera. Det är värt en titt även om du inte har någon resa planerad.
+När du är inne är kontot det sätt du visar din status i vardagen. [GOV.UK](https://www.gov.uk/evisa/view-evisa-get-share-code-prove-immigration-status) säger att du kan se ditt eVisa och få en share code för att styrka din uppehållsstatus, till exempel när du får ett nytt jobb eller hyr en bostad. eVisat visar även villkoren för din status, som om du får arbeta eller studera. Det är värt en titt även om du inte har någon resa planerad.
 
 ## Ett pass och ett referensnummer öppnar också ett UKVI-konto
 
-Om ditt kort har kommit bort, eller om dess 24 månader redan har löpt ut, är du inte fast. GOV.UK godtar två andra kombinationer när du skapar ett konto: ett giltigt pass plus ditt ansökningsnummer för visum, eller ett giltigt pass plus ditt BRP-nummer. BRP-numret står tryckt på själva kortet, så vi skulle skriva ner det någonstans säkert medan du fortfarande har kortet i handen.
+Om ditt kort har kommit bort, eller om dess 24 månader redan har löpt ut, är du inte fast. [GOV.UK](https://www.gov.uk/evisa/set-up-ukvi-account) godtar två andra kombinationer när du skapar ett konto: ett giltigt pass plus ditt ansökningsnummer för visum, eller ett giltigt pass plus ditt BRP-nummer. BRP-numret står tryckt på själva kortet, så vi skulle skriva ner det någonstans säkert medan du fortfarande har kortet i handen.
 
 Om du varken har ett giltigt pass eller ett utgånget BRP säger GOV.UK att du kan bekräfta din identitet på ett annat sätt. Sidan beskriver inte stegen i detalj utan hänvisar till UK Visas and Immigrations webbchatt, så det är där du bör börja.
 
@@ -58,7 +58,7 @@ När ditt barn fyller 18 bör kontouppgifterna föras över till deras egen tele
 
 ## För att resa måste passet du flyger på finnas på ditt UKVI-konto
 
-GOV.UK är tydliga på denna punkt: du måste resa med ett giltigt pass eller resedokument som du har lagt till på ditt UKVI-konto. Ditt eVisa kontrolleras när du lämnar och reser in i Storbritannien, av en gränskontrollant eller vid eGates, och när du checkar in hos transportören för att återvända till Storbritannien. Dessa kontroller läser ditt eVisa via passet på ditt konto. Om uppgifterna på ditt konto inte exakt matchar passagerarinformationen du gav transportören kan transportören neka dig att resa, och du kan även bli stoppad vid den brittiska gränsen.
+[GOV.UK](https://www.gov.uk/evisa/travel-with-evisa) är tydliga på denna punkt: du måste resa med ett giltigt pass eller resedokument som du har lagt till på ditt UKVI-konto. Ditt eVisa kontrolleras när du lämnar och reser in i Storbritannien, av en gränskontrollant eller vid eGates, och när du checkar in hos transportören för att återvända till Storbritannien. Dessa kontroller läser ditt eVisa via passet på ditt konto. Om uppgifterna på ditt konto inte exakt matchar passagerarinformationen du gav transportören kan transportören neka dig att resa, och du kan även bli stoppad vid den brittiska gränsen.
 
 Innan en resa, logga in, bekräfta att passet på kontot är det du ska resa med, och hämta en share code. En kod gäller i 90 dagar och kan användas mer än en gång, och ett flygbolag eller en gränstjänsteman kan be att få se den. Vi skulle hämta den innan bokningen, inte i kön på flygplatsen.
 
@@ -68,7 +68,7 @@ Om du har dubbelt medborgarskap, tänk igenom vilket pass du faktiskt bokar med.
 
 Om du har förnyat ditt pass måste det nya läggas till på ditt konto innan du flyger med det, och GOV.UK säger att du själv kan uppdatera passnummer och utgångsdatum på ditt konto. Med ett biometriskt pass kan du även själv uppdatera namn och medborgarskap; allt annat kräver att UK Visas and Immigration gör ändringen för dig. Om förnyelsen fortfarande ligger framför dig går vår guide om att [förnya passet innan det går ut](https://traveldocumentvault.com/sv/blog/renew-passport-before-expiry/) igenom när du bör börja, och det nya passet läggs direkt till på ditt konto när det kommer.
 
-Källor vi har kontrollerat (6 november 2026)
+Officiella källor
 
 - [UK Government: eVisa, setting up a UKVI account](https://www.gov.uk/evisa/set-up-ukvi-account)
 - [UK Government: travelling with an eVisa](https://www.gov.uk/evisa/travel-with-evisa)

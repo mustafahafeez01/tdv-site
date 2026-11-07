@@ -16,13 +16,13 @@ Source: https://traveldocumentvault.com/da/blog/schengen-90-days-auto-tracked-ee
 - EU's **officielle beregner til korte ophold** virker, men den er manuel – én person, ét vindue, én beregning ad gangen.
 - Familier skal håndtere **et separat vindue pr. person**. Det er der, dagstælling i en app for alvor gør en forskel.
 
-På din seneste rejse til Europa fik du sikkert et stempel ved grænsen. Det stempel er fortid. Siden den 10. april 2026 har EU's ind- og udrejsesystem (EES) været fuldt operativt i hele Schengenområdet, og det udviskede blæk, der engang registrerede dine rejser, er blevet erstattet af en digital registrering, der starter i samme øjeblik, du krydser grænsen.
+På din seneste rejse til Europa fik du sikkert et stempel ved grænsen. Det stempel er fortid. Siden den 10. april 2026 har EU's ind- og udrejsesystem (EES) været [fuldt operativt](https://home-affairs.ec.europa.eu/news/entryexit-system-will-become-fully-operational-10-april-2026-2026-03-30_en) i hele Schengenområdet, og det udviskede blæk, der engang registrerede dine rejser, er blevet erstattet af en digital registrering, der starter i samme øjeblik, du krydser grænsen.
 
 For alle, der tæller Schengen-dage – og det bør enhver ikke-EU-besøgende gøre – hæver det indsatsen betydeligt. Her er, hvad det nye system faktisk gør, hvad det bevidst ikke gør, og hvordan du holder din egen optælling, så en grænse aldrig overrasker dig.
 
 ## Hvad der har ændret sig ved Europas grænser
 
-EES registrerer hver ikke-EU-rejsendes fingeraftryk, ansigtsbillede, rejsedokument og præcise ind- og udrejsedatoer. Da EES blev fuldt operativt den 10. april 2026, oplyste Europa-Kommissionen, at systemet siden den trinvise lancering i oktober 2025 havde registreret over 52 millioner indrejser og udrejser, med over 27.000 afvisninger ved grænsen. Førstegangsregistrering tager et par minutter ved kiosken, og lufthavne har rapporteret flertimers køer i myldretiden i sommer, mens alle vænner sig til det.
+EES registrerer hver ikke-EU-rejsendes fingeraftryk, ansigtsbillede, rejsedokument og præcise ind- og udrejsedatoer. Da EES blev fuldt operativt den 10. april 2026, oplyste [Europa-Kommissionen](https://home-affairs.ec.europa.eu/news/entryexit-system-ees-fully-operational-2026-04-10_en), at systemet siden den trinvise lancering i oktober 2025 havde registreret over 52 millioner indrejser og udrejser, med over 27.000 afvisninger ved grænsen. Førstegangsregistrering tager et par minutter ved kiosken, og lufthavne har rapporteret flertimers køer i myldretiden i sommer, mens alle vænner sig til det.
 
 Ikke alle registreres. EU-borgere, beboere i Schengenlande og indehavere af langtidsvisa er undtaget. Hvis du rejser på den visumfrie korttidstilladelse – de fleste britiske, amerikanske, canadiske og australske rejsende, for eksempel – gælder EES for dig.
 
@@ -32,11 +32,11 @@ Selve reglen er ikke ændret: du må opholde dig højst 90 dage i Schengenområd
 
 ![Tidslinjediagram over Schengens glidende 90/180-vindue: fra 180 dage siden til i dag bruger to rejser på 30 og 45 dage 75 af de 90 dage, hvilket efterlader 15; vinduet forskyder sig hver dag, og både ankomst- og afrejsedag tæller](https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/90-180-window-da.jpg) Vinduet nulstilles aldrig: for hver enkelt dag kan de foregående 180 dage højst indeholde 90 dages ophold.
 
-Det, der har ændret sig, er håndhævelsen. Med passtempler betød det at bevise en overskridelse, at man skulle tyde falmet blæk, og grænsebetjente havde skøn. Nu er datoerne præcise, og systemet markerer en overskridelse i samme øjeblik, den sker. Forvent afvisning ved din næste indrejse, og i nogle tilfælde et indrejseforbud, som regel på op til fem år, som myndighederne registrerer i Schengeninformationssystemet. Fejlmarginen er gået fra uklar til nul.
+Det, der har ændret sig, er håndhævelsen. Med passtempler betød det at bevise en overskridelse, at man skulle tyde falmet blæk, og grænsebetjente havde skøn. Nu er datoerne præcise, og systemet markerer en overskridelse i samme øjeblik, den sker. Forvent afvisning ved din næste indrejse, og i nogle tilfælde et [indrejseforbud](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32008L0115), som regel på op til fem år, som myndighederne registrerer i Schengeninformationssystemet. Fejlmarginen er gået fra uklar til nul.
 
 ## Faldgruben: EES håndhæver, det planlægger ikke
 
-EES registrerer dine dage af hensyn til håndhævelse, og nu kan EU lade dig se, hvor du står. Systemets EES-onlineværktøj, på den officielle hjemmeside Travel to Europe, viser, hvor mange dage du stadig må blive, og nogle ydre grænseovergange tilbyder samme tjek. Hvad det viser, er din historik indtil nu. At regne ud, om en rejse, du endnu ikke har taget, kan passe ind, er stadig dit eget ansvar.
+EES registrerer dine dage af hensyn til håndhævelse, og nu kan EU lade dig se, hvor du står. Systemets EES-onlineværktøj, på den officielle hjemmeside [Travel to Europe](https://travel-europe.europa.eu/en/ees), viser, hvor mange dage du stadig må blive, og nogle ydre grænseovergange tilbyder samme tjek. Hvad det viser, er din historik indtil nu. At regne ud, om en rejse, du endnu ikke har taget, kan passe ind, er stadig dit eget ansvar.
 
 EU udgiver en officiel beregner til korte ophold, som virkelig er værd at gemme som bogmærke. Du indtaster dine tidligere ind- og udrejsedatoer, og den fortæller dig, om et planlagt ophold passer inden for dit vindue. Den fungerer fint for én rejsende, der fører gode optegnelser. Friktionen opstår, når optegnelserne kun findes i hukommelsen, eller når du gør det samme for fire personer på én gang.
 
@@ -44,11 +44,11 @@ EU udgiver en officiel beregner til korte ophold, som virkelig er værd at gemme
 
 EES gælder ikke for alle. Systemet registrerer ikke-EU-besøgende, der ankommer på den visumfrie korttidstilladelse, samt personer med korttidsvisum. Har du statsborgerskab i USA, Storbritannien, Canada, Australien, eller et af snesevis af andre lande, gælder EES for dig, i det øjeblik du krydser ind i Schengenområdet.
 
-Er du EU-, EØS- eller schweizisk statsborger, er du undtaget - dit pas gennemgår ingen særlig indrejseprocedure, og EES registrerer ikke dine ind- og udrejser. Den officielle liste over undtagelser er længere og omfatter blandt andet ikke-EU-familiemedlemmer til EU-borgere, der har et opholdskort. At være undtaget fra EES er dog ikke det samme som at være undtaget fra 90/180-reglen. Er du ikke-EU-besøgende på et kort ophold, gælder reglen, uanset om en grænse allerede har registreret dig. Tid tilbragt i et Schengenland på en opholdstilladelse eller et langtidsvisum (type D) fra det land tæller ikke med, men korte besøg i andre Schengenlande gør det som regel stadig, så tjek med den myndighed, der har udstedt din tilladelse.
+Er du EU-, EØS- eller schweizisk statsborger, er du undtaget - dit pas gennemgår ingen særlig indrejseprocedure, og EES registrerer ikke dine ind- og udrejser. [Den officielle liste over undtagelser](https://home-affairs.ec.europa.eu/news/entry-exit-system-fully-operational-10-april-2026-who-exempt-2026-07-27_en) er længere og omfatter blandt andet ikke-EU-familiemedlemmer til EU-borgere, der har et opholdskort. At være undtaget fra EES er dog ikke det samme som at være undtaget fra 90/180-reglen. Er du ikke-EU-besøgende på et kort ophold, gælder reglen, uanset om en grænse allerede har registreret dig. Tid tilbragt i et Schengenland på en opholdstilladelse eller et langtidsvisum (type D) fra det land tæller ikke med, men korte besøg i andre Schengenlande gør det som regel stadig, så tjek med den myndighed, der har udstedt din tilladelse.
 
 ## Hvad der sker ved din første EES-grænsepassage
 
-Systemet opretter din registrering ved din første grænsepassage ind i Schengenområdet. Du stiller dig i kø ved en biometrisk kiosk ved grænsen - lufthavn, havn eller landegrænse. En betjent scanner dit pas eller rejsedokument for at kontrollere din identitet. Systemet fanger dit ansigtsbillede. Behøver du ikke visum, tager det også fire fingeraftryk; rejser du på et kortvarigt visum, gemmer det kun dit ansigtsbillede, da dine fingeraftryk blev taget, da du ansøgte. Det tager længere tid end det stempel, det erstatter, og du gør det kun én gang.
+Systemet opretter din registrering ved din første grænsepassage ind i Schengenområdet. Du stiller dig i kø ved en biometrisk kiosk ved grænsen - lufthavn, havn eller landegrænse. En betjent scanner dit pas eller rejsedokument for at kontrollere din identitet. Systemet fanger dit ansigtsbillede. Behøver du ikke visum, tager det også [fire fingeraftryk](https://travel-europe.europa.eu/en/ees/faq); rejser du på et kortvarigt visum, gemmer det kun dit ansigtsbillede, da dine fingeraftryk blev taget, da du ansøgte. Det tager længere tid end det stempel, det erstatter, og du gør det kun én gang.
 
 Når du er registreret, gemmer systemet den præcise dato og det præcise klokkeslæt for din indrejse. Overskrider du senere dine 90 af 180 dage, bliver netop det tidsstempel det referencepunkt, EES bruger til at beregne dit rullende vindue.
 
@@ -106,7 +106,7 @@ Den digitale grænse er grundig, automatisk og usentimental, men at holde sig in
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 
-Kilder vi har tjekket (6. november 2026)
+Officielle kilder
 
 - [EU travel: Entry/Exit System (EES)](https://travel-europe.europa.eu/en/ees)
 - [EU travel: EES frequently asked questions](https://travel-europe.europa.eu/en/ees/faq)

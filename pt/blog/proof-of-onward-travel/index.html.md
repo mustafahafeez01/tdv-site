@@ -40,7 +40,7 @@ Uma **reserva de hotel** e um **extrato bancário** também surgem com frequênc
 
 A companhia aérea quer saber se é provável que lhe seja recusada a entrada à chegada, o que a deixaria com o custo de o trazer de volta. O agente de fronteira pergunta algo relacionado mas distinto: se cumpre as condições de entrada do país. As duas perguntas sobrepõem-se, mas não são a mesma.
 
-O ponto onde se sobrepõem são as próprias regras do destino. O Código das Fronteiras Schengen, por exemplo, inclui um bilhete de ida e volta entre os documentos que um agente de fronteira pode pedir a um visitante. A Nova Zelândia exige que os visitantes tenham meios para sair. Quando um destino funciona assim, a companhia aérea, ao perguntar no check-in, está geralmente a aplicar a regra do destino algumas horas mais cedo, e não a inventar uma regra sua.
+O ponto onde se sobrepõem são as próprias regras do destino. O [Código das Fronteiras Schengen](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0399), por exemplo, inclui um bilhete de ida e volta entre os documentos que um agente de fronteira pode pedir a um visitante. A Nova Zelândia [exige que os visitantes tenham meios para sair](https://www.immigration.govt.nz/visas/visa-waiver-visitor-visa/). Quando um destino funciona assim, a companhia aérea, ao perguntar no check-in, está geralmente a aplicar a regra do destino algumas horas mais cedo, e não a inventar uma regra sua.
 
 ![Diagrama que compara a verificação da companhia aérea no check-in, que aplica as regras do destino e decide se pode embarcar, com a verificação na fronteira à chegada, que decide se pode entrar](https://traveldocumentvault.com/blog/proof-of-onward-travel/two-checks-pt.jpg) A companhia aérea verifica antes do embarque; o agente de fronteira decide à chegada.
 
@@ -70,12 +70,11 @@ Uma reserva que não consegue abrir é tão inútil como não ter reserva nenhum
 
 Guarde uma cópia offline da confirmação: um PDF, uma captura de ecrã com a referência da reserva e as datas, ou uma cópia numa aplicação que funcione sem ligação. O Travel Document Vault guarda bilhetes de avião e reservas de hotel no seu dispositivo, encriptados e disponíveis offline. A confirmação está ali ao balcão, tenha ou não sinal. A nossa [lista de verificação de documentos de viagem](https://traveldocumentvault.com/pt/blog/travel-document-checklist/) cobre o resto do que vale a pena ter pronto.
 
-Fontes que verificámos (6 de novembro de 2026)
+Fontes oficiais
 
 - [EU law: Schengen Borders Code (Regulation 2016/399)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0399)
 - [Immigration New Zealand: Visa Waiver Visitor Visa](https://www.immigration.govt.nz/visas/visa-waiver-visitor-visa/)
 - [Immigration New Zealand: Visitor Visa](https://www.immigration.govt.nz/visas/visitor-visa/)
-- [Immigration New Zealand: Onward travel requirements](https://www.immigration.govt.nz/opsmanual/50548.htm)
 
 ## Perguntas Frequentes
 
@@ -97,7 +96,7 @@ Um bilhete só de ida não é um problema em si, porque as regras de continuaç�
 
 ### Preciso de prova de continuação de viagem para a fronteira?
 
-Por vezes, porque alguns destinos a incluem nas suas condições de entrada para visitantes. O Código das Fronteiras Schengen inclui um bilhete de ida e volta entre os documentos que um agente de fronteira pode pedir, e a Nova Zelândia exige que os visitantes tenham meios para sair. Confirme as regras do seu destino antes de viajar.
+Por vezes, porque alguns destinos a incluem nas suas condições de entrada para visitantes. O Código das Fronteiras Schengen inclui um bilhete de ida e volta entre os documentos que um agente de fronteira pode pedir, e a Nova Zelândia [exige que os visitantes tenham meios para sair](https://www.immigration.govt.nz/visas/visitor-visa/). Confirme as regras do seu destino antes de viajar.
 
 ## Artigos Relacionados
 

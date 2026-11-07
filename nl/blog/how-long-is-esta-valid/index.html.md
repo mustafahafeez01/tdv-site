@@ -21,13 +21,13 @@ Een ESTA is doorgaans twee jaar geldig vanaf de dag van goedkeuring, of tot het 
 
 ## Je ESTA stopt na twee jaar, of wanneer je paspoort verloopt
 
-De regel komt van US Customs and Border Protection (CBP): een goedgekeurde ESTA is doorgaans twee jaar geldig vanaf de goedkeuringsdatum, of tot je paspoort verloopt, wat eerder komt. Een paspoort met nog 14 maanden geldigheid geeft dus een ESTA met 14 maanden geldigheid. Het goedkeuringsscherm toont de exacte vervaldatum, wat je het rekenwerk bespaart.
+De regel komt van [US Customs and Border Protection (CBP)](https://www.cbp.gov/travel/international-visitors/esta/frequently-asked-questions-about-visa-waiver-program-vwp-and-electronic-system-travel): een goedgekeurde ESTA is doorgaans twee jaar geldig vanaf de goedkeuringsdatum, of tot je paspoort verloopt, wat eerder komt. Een paspoort met nog 14 maanden geldigheid geeft dus een ESTA met 14 maanden geldigheid. Het goedkeuringsscherm toont de exacte vervaldatum, wat je het rekenwerk bespaart.
 
 ![Diagram van wanneer een ESTA stopt met werken: het verloopt na 2 jaar of wanneer je paspoort verloopt, wat het eerst gebeurt. Iedereen heeft zijn eigen ESTA nodig, ook baby's en kinderen, elk op zijn eigen paspoort. Een nieuw paspoort, nieuwe naam of nieuwe nationaliteit betekent opnieuw aanvragen](https://traveldocumentvault.com/blog/how-long-is-esta-valid/esta-clock-nl.jpg) Eén klok per reiziger, en die overleeft het paspoort nooit.
 
 CBP stuurt ook een e-mail naar het adres in je aanvraag wanneer je ESTA binnen de komende 30 dagen verloopt. Wij zouden niet alleen op die mail vertrouwen: hij kan in spam of een oude inbox belanden, dus noteer de datum ergens waar je hem ziet wanneer je boekt.
 
-Binnen die twee jaar dekt één ESTA zoveel reizen als je wilt. Elk bezoek onder het Visa Waiver Program is nog steeds beperkt tot maximaal 90 dagen, en CBP is duidelijk dat een goedkeuring van twee jaar geen verblijf van twee jaar betekent.
+Binnen die twee jaar dekt één ESTA zoveel reizen als je wilt. Elk bezoek onder het [Visa Waiver Program](https://www.cbp.gov/travel/international-visitors/visa-waiver-program) is nog steeds beperkt tot maximaal 90 dagen, en CBP is duidelijk dat een goedkeuring van twee jaar geen verblijf van twee jaar betekent.
 
 De enige uitzondering is Brunei, waar CBP de geldigheidsduur voor burgers van Brunei heeft teruggebracht tot één jaar.
 
@@ -41,7 +41,7 @@ Zo werkt dat in de praktijk. Stel dat je ESTA op de 10e van een maand verloopt e
 
 Er is geen verlenging. CBP zegt dat bestaande goedkeuringen niet verlengd kunnen worden, en je hoeft niet te wachten tot er een verloopt voordat je opnieuw aanvraagt. Je nieuwe aanvraag annuleert en vervangt de oude.
 
-CBP adviseert om aan te vragen wanneer je je reis boekt, en dat is een goede gewoonte om aan te houden. Verloopt je ESTA een paar weken voor een reis, vraag dan aan op de dag dat de reis geboekt wordt, niet de week dat je vliegt.
+[CBP adviseert om aan te vragen wanneer je je reis boekt](https://www.cbp.gov/newsroom/national-media-release/cbp-reminds-travelers-allow-72-hours-esta), en dat is een goede gewoonte om aan te houden. Verloopt je ESTA een paar weken voor een reis, vraag dan aan op de dag dat de reis geboekt wordt, niet de week dat je vliegt.
 
 ## Vier veranderingen betekenen een nieuwe ESTA
 
@@ -62,7 +62,7 @@ Niemand verwacht dat een peuter een formulier invult. Een ouder of iemand anders
 
 ## Het tarief steeg op 16 oktober, en bestaande goedkeuringen blijven ongewijzigd
 
-Volgens de kennisgeving in het Federal Register, gepubliceerd op 1 oktober 2026, steeg het ESTA-tarief van US $40.27 naar US $40.62, in rekening gebracht vanaf 16 oktober 2026. Heb je al een geldige, goedgekeurde ESTA, dan zegt CBP dat je niet opnieuw moet aanvragen. Je betaalt het nieuwe bedrag bij je volgende aanvraag.
+Volgens de [kennisgeving in het Federal Register](https://www.govinfo.gov/content/pkg/FR-2026-10-01/html/2026-20185.htm), gepubliceerd op 1 oktober 2026, steeg het ESTA-tarief van US $40.27 naar US $40.62, in rekening gebracht vanaf 16 oktober 2026. Heb je al een geldige, goedgekeurde ESTA, dan zegt CBP dat je niet opnieuw moet aanvragen. Je betaalt het nieuwe bedrag bij je volgende aanvraag.
 
 Dezelfde kennisgeving stelt een lager tarief van US $10.62 vast als een aanvraag wordt afgewezen, wat de kosten van de verwerking dekt.
 
@@ -70,7 +70,7 @@ Verwacht dat het bedrag opnieuw verandert. De wet die erachter staat, vereist da
 
 ## Vraag aan op de officiële ESTA-website, niet op een kopie
 
-Sommige websites van derden rekenen meer dan het officiële tarief. CBP zegt dat ze de goedkeuring niet versnellen, dat ze niet worden erkend door of verbonden zijn met het Department of Homeland Security, en dat CBP niet kan terugbetalen wat je hen betaald hebt. Vraag aan op de officiële ESTA-website die door CBP wordt beheerd.
+Sommige [websites van derden](https://www.cbp.gov/newsroom/national-media-release/cbp-warns-against-third-party-site-use-esta-applications) rekenen meer dan het officiële tarief. CBP zegt dat ze de goedkeuring niet versnellen, dat ze niet worden erkend door of verbonden zijn met het [Department of Homeland Security](https://www.dhs.gov/visa-waiver-program), en dat CBP niet kan terugbetalen wat je hen betaald hebt. Vraag aan op de officiële ESTA-website die door CBP wordt beheerd.
 
 Dat is ook waar je een status checkt. Kies "Check ESTA Status" (ESTA-status controleren), dan "Check Individual Status" (individuele status controleren), of "Check Group Status" (groepsstatus controleren) voor een gezinsaanvraag. Ben je het aanvraagnummer kwijt, dan kun je de aanvraag vinden met je paspoortnummer, nationaliteit, afgifte- en vervaldatum van het paspoort, en geboortedatum. De gegevens moeten precies overeenkomen met wat je hebt ingevoerd.
 
@@ -89,11 +89,11 @@ Vier controles duren een paar minuten:
 
 ## Een goedgekeurde ESTA is geen garantie voor toegang
 
-Goedkeuring betekent dat je in aanmerking komt om te reizen onder het Visa Waiver Program, niet dat je wordt toegelaten, want CBP-functionarissen nemen die beslissing bij aankomst.
+[Goedkeuring betekent dat je in aanmerking komt om te reizen](https://www.cbp.gov/travel/international-visitors/esta) onder het Visa Waiver Program, niet dat je wordt toegelaten, want CBP-functionarissen nemen die beslissing bij aankomst.
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 
-Bronnen die we hebben gecontroleerd (6 november 2026)
+Officiële bronnen
 
 - [US CBP: Visa Waiver Program and ESTA frequently asked questions](https://www.cbp.gov/travel/international-visitors/esta/frequently-asked-questions-about-visa-waiver-program-vwp-and-electronic-system-travel)
 - [US CBP: Electronic System for Travel Authorization (ESTA)](https://www.cbp.gov/travel/international-visitors/esta)
@@ -102,7 +102,6 @@ Bronnen die we hebben gecontroleerd (6 november 2026)
 - [US DHS: Visa Waiver Program](https://www.dhs.gov/visa-waiver-program)
 - [US CBP: CBP Reminds Travelers to Allow 72 Hours for ESTA](https://www.cbp.gov/newsroom/national-media-release/cbp-reminds-travelers-allow-72-hours-esta)
 - [US CBP: CBP Warns Against Third-Party Site Use for ESTA Applications](https://www.cbp.gov/newsroom/national-media-release/cbp-warns-against-third-party-site-use-esta-applications)
-- [US CBP: ESTA frequently asked questions](https://esta.cbp.dhs.gov/faq)
 
 ## Veelgestelde vragen
 

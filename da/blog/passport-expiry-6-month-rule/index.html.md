@@ -37,7 +37,7 @@ Logikken er enkel: lande vil have sikkerhed for, at du ikke overskrider dit visu
 
 Nogle gange, ja. Hvis dit rejsemål kun kræver, at passet er gyldigt i opholdets varighed, er fem måneders gyldighed som regel nok til at komme ind. Storbritannien fungerer sådan for de fleste besøgende, og Schengenlande kræver generelt tre måneder ud over din planlagte afrejse i stedet for seks.
 
-Håndhæver dit rejsemål 6-måneders-reglen, nej. Thailand, Indonesien, Vietnam og mange andre nægter som regel indrejse, og flyselskabet nægter som regel ombordstigning længe før du når grænsen.
+Håndhæver dit rejsemål 6-måneders-reglen, nej. Thailand, [Indonesien](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements), Vietnam og mange andre nægter som regel indrejse, og flyselskabet nægter som regel ombordstigning længe før du når grænsen.
 
 Så svaret afhænger af, hvor du skal hen, ikke af passet i sig selv. Tjek rejsemålets krav samme dag, du booker, og igen ugen inden du flyver.
 
@@ -54,12 +54,12 @@ Tabellen nedenfor dækker de mest almindelige rejsemål. Regler ændrer sig, så
 | Filippinerne | 6 måneder | Desuden kræves videre- eller returbillet |
 | Indien | 6 måneder | Visum kræves også for de fleste nationaliteter |
 | Kenya | 6 måneder | eVisum kræves; 6-måneders-reglen gælder |
-| Tyrkiet | 150 dage fra ankomst | Det britiske udenrigsministerium: udløbsdato mindst 150 dage efter ankomstdatoen |
+| Tyrkiet | 150 dage fra ankomst | [Det britiske udenrigsministerium](https://www.gov.uk/foreign-travel-advice/turkey/entry-requirements): udløbsdato mindst 150 dage efter ankomstdatoen |
 | EU / Schengen | 3 måneder efter afrejsen | Plus en udstedelsesdato under 10 år gammel |
 | Storbritannien | Kun opholdets varighed | Britiske statsborgere i udlandet er stadig underlagt destinationens regler |
 | USA | Kun opholdets varighed | Amerikanske statsborgere i udlandet er underlagt destinationslandets regler |
 | Japan / Australien | Kun opholdets varighed | Ingen 6-måneders-regel for besøgende |
-| New Zealand | 3 måneder efter afrejse | Det britiske udenrigsministerium: udløbsdato mindst 3 måneder efter den dag, du planlægger at rejse |
+| New Zealand | 3 måneder efter afrejse | [Det britiske udenrigsministerium](https://www.gov.uk/foreign-travel-advice/new-zealand/entry-requirements): udløbsdato mindst 3 måneder efter den dag, du planlægger at rejse |
 
 Tabellen er et øjebliksbillede, ikke det fulde overblik: kravene varierer også efter din nationalitet, ikke kun destinationen, så tjek altid dit lands officielle rejsevejledning, før du booker.
 
@@ -67,9 +67,9 @@ Paskrav efter land ændrer sig uden varsel, og en bilateral aftale kan stille og
 
 ## Hvornår 6-måneders-reglen ikke gælder
 
-Mange rejsemål kræver intet ud over selve rejsens datoer. Det britiske udenrigsministerium (Foreign Office) siger det ligeud om Japan: dit pas skal være gyldigt i opholdets varighed, og der kræves ingen yderligere gyldighedsperiode. Australien og USA anvender samme standard og kræver kun, at dit pas er gyldigt i den planlagte opholdsperiode.
+Mange rejsemål kræver intet ud over selve rejsens datoer. [Det britiske udenrigsministerium](https://www.gov.uk/foreign-travel-advice/japan/entry-requirements) (Foreign Office) siger det ligeud om Japan: dit pas skal være gyldigt i opholdets varighed, og der kræves ingen yderligere gyldighedsperiode. [Australien](https://www.gov.uk/foreign-travel-advice/australia/entry-requirements) og [USA](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements) anvender samme standard og kræver kun, at dit pas er gyldigt i den planlagte opholdsperiode.
 
-Europa ligger midt imellem, og det er det niveau, folk oftest misforstår. For at besøge Schengenområdet siger Foreign Office, at dit pas skal have en udløbsdato mindst tre måneder efter den dag, du planlægger at rejse hjem. Tre måneder, ikke seks.
+Europa ligger midt imellem, og det er det niveau, folk oftest misforstår. For at besøge Schengenområdet siger [Foreign Office](https://www.gov.uk/foreign-travel-advice/france/entry-requirements), at dit pas skal have en udløbsdato mindst tre måneder efter den dag, du planlægger at rejse hjem. Tre måneder, ikke seks.
 
 Der findes en anden Schengen-betingelse, som overrasker folk langt oftere end den første: udstedelsesdatoen skal være mindre end ti år før den dag, du ankommer. Begge betingelser skal være opfyldt, og et pas kan opfylde den ene, mens det fejler den anden.
 
@@ -119,7 +119,7 @@ Disse kilder fortæller dig det officielle krav, og om det gælder for indehaver
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 
-Kilder vi har tjekket (6. november 2026)
+Officielle kilder
 
 - [UK Foreign Office: USA entry requirements](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements)
 - [UK Foreign Office: France entry requirements](https://www.gov.uk/foreign-travel-advice/france/entry-requirements)

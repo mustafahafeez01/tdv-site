@@ -40,7 +40,7 @@ A **hotel booking** and a **bank statement** come up often too, but they answer 
 
 The airline wants to know whether you're likely to be refused on arrival, leaving it with the cost of flying you back. A border officer is asking something related but separate: whether you meet the country's conditions for entry. The two questions overlap, but they aren't the same one.
 
-Where they overlap is the destination's own rules. The Schengen Borders Code, for example, lists a return or round-trip ticket among the documents a border guard may ask a visitor to show. New Zealand requires visitors to have the means to leave. When a destination works like that, the airline asking at check-in is usually applying the destination's rule a few hours early, not making up one of its own.
+Where they overlap is the destination's own rules. The [Schengen Borders Code](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0399), for example, lists a return or round-trip ticket among the documents a border guard may ask a visitor to show. New Zealand [requires visitors to have the means to leave](https://www.immigration.govt.nz/visas/visa-waiver-visitor-visa/). When a destination works like that, the airline asking at check-in is usually applying the destination's rule a few hours early, not making up one of its own.
 
 ![Sketchnote comparing the airline check at check-in, which applies the destination's rules and decides whether you board, with the border check on arrival, which decides whether you enter](https://traveldocumentvault.com/blog/proof-of-onward-travel/two-checks.jpg) The airline checks before you board; the border officer decides on arrival.
 
@@ -70,12 +70,11 @@ A booking you can't open is as unhelpful as no booking at all. The request tends
 
 Keep an offline copy of the confirmation: a PDF, a screenshot showing the booking reference and dates, or a copy in an app that works without a connection. Travel Document Vault stores airline tickets and hotel bookings on your device, encrypted and available offline. The confirmation is there at the desk whether or not you have signal. Our [travel document checklist](https://traveldocumentvault.com/blog/travel-document-checklist/) covers the rest of what's worth having ready.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [EU law: Schengen Borders Code (Regulation 2016/399)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0399)
 - [Immigration New Zealand: Visa Waiver Visitor Visa](https://www.immigration.govt.nz/visas/visa-waiver-visitor-visa/)
 - [Immigration New Zealand: Visitor Visa](https://www.immigration.govt.nz/visas/visitor-visa/)
-- [Immigration New Zealand: Onward travel requirements](https://www.immigration.govt.nz/opsmanual/50548.htm)
 
 ## Frequently Asked Questions
 
@@ -97,7 +96,7 @@ A one-way ticket isn't a problem by itself, because onward travel rules are gene
 
 ### Do I need proof of onward travel for the border?
 
-Sometimes, because some destinations include it in their entry conditions for visitors. The Schengen Borders Code lists a return or round-trip ticket among the documents a border guard may ask for, and New Zealand requires visitors to have the means to leave. Check your destination's rules before you travel.
+Sometimes, because some destinations include it in their entry conditions for visitors. The Schengen Borders Code lists a return or round-trip ticket among the documents a border guard may ask for, and New Zealand [requires visitors to have the means to leave](https://www.immigration.govt.nz/visas/visitor-visa/). Check your destination's rules before you travel.
 
 ## Related Articles
 

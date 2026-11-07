@@ -39,9 +39,9 @@ Fælden ligger midt imellem. En mellemlanding, der på papiret ligner airside-tr
 
 Transitvisum er obligatorisk i en række situationer, og kravene varierer betydeligt afhængigt af din nationalitet og transitlandet.
 
-**Schengens lufthavnstransitvisum (Airport Transit Visa, ATV)** gælder for indehavere af visse ikke-EU-pas, der har en ren airside-forbindelse gennem en Schengen-lufthavn, (medlemslandene kan i visse tilfælde tilføje nationaliteter), men mange nationaliteter er undtaget, og det gælder også indehavere af visse visa eller opholdstilladelser. Fordi listen over undtagelser er kompleks og ændrer sig løbende, kan du ikke gå ud fra, at du er undtaget. IATA Travel Centre har de aktuelle regler for netop din nationalitet og destination, så tjek der i stedet for at gætte ud fra, hvad du ved om andre lande.
+**Schengens lufthavnstransitvisum (Airport Transit Visa, ATV)** gælder for indehavere af [visse ikke-EU-pas](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0810), der har en ren airside-forbindelse gennem en Schengen-lufthavn, (medlemslandene kan i visse tilfælde tilføje nationaliteter), men mange nationaliteter er undtaget, og det gælder også indehavere af visse visa eller opholdstilladelser. Fordi listen over undtagelser er kompleks og ændrer sig løbende, kan du ikke gå ud fra, at du er undtaget. IATA Travel Centre har de aktuelle regler for netop din nationalitet og destination, så tjek der i stedet for at gætte ud fra, hvad du ved om andre lande.
 
-**Storbritannien** tilbyder visumfri airside-transit for mange, mens andre skal bruge det, der nu hedder et Direct Airside Transit Visa (DATV). Som med Schengen afhænger undtagelsen primært af din nationalitet, ikke kun din destination, og GOV.UK oplyser, at du ikke skal bruge transitvisum, hvis du har en britisk elektronisk rejsetilladelse (ETA).
+**Storbritannien** tilbyder visumfri airside-transit for mange, mens andre skal bruge det, der nu hedder et Direct Airside Transit Visa (DATV). Som med Schengen afhænger undtagelsen primært af din nationalitet, ikke kun din destination, og [GOV.UK](https://www.gov.uk/transit-visa) oplyser, at du ikke skal bruge transitvisum, hvis du har en britisk elektronisk rejsetilladelse (ETA).
 
 I de fleste tilfælde passerer transitpassagerer, der ankommer til **USA**, amerikansk paskontrol og told før deres næste fly. I praksis handler det altså om USA's indrejseregler snarere end transitvisumregler, så det er værd at indregne fra starten af din rejseplanlægning.
 
@@ -75,7 +75,7 @@ Rejser du som familie, skal du tjekke hvert familiemedlems pas for sig. Én pers
 
 Før du booker, så kør hele din rute, ikke kun destinationen, gennem IATA Travel Centre. Det er det tjek, der oftest fanger et manglende krav, mens du stadig kan ændre bookingen.
 
-Kilder vi har tjekket (6. november 2026)
+Officielle kilder
 
 - [UK Government: Visa to pass through the UK in transit](https://www.gov.uk/transit-visa)
 - [EU law: Visa Code (Regulation 810/2009)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0810)
@@ -109,7 +109,7 @@ Kontakt dit flyselskab med det samme, og tjek behandlingstiden for et transitvis
 
 ### Hvor længe er et transitvisum gyldigt?
 
-Gyldigheden af et transitvisum varierer fra land til land. Storbritanniens Visitor in Transit-visum dækker for eksempel et ophold på op til 48 timer. Opbevar og hold styr på transitvisummets udløbsdato sammen med dit pas og dit primære indrejsevisum.
+Gyldigheden af et transitvisum varierer fra land til land. Storbritanniens [Visitor in Transit-visum](https://www.gov.uk/transit-visa/visitor-in-transit-visa) dækker for eksempel et ophold på op til 48 timer. Opbevar og hold styr på transitvisummets udløbsdato sammen med dit pas og dit primære indrejsevisum.
 
 ## Relaterede artikler
 

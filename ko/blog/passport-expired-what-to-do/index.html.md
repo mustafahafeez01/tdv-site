@@ -30,7 +30,7 @@ Source: https://traveldocumentvault.com/ko/blog/passport-expired-what-to-do/
 - **여행까지 시간이 충분한 경우:** 여권 관청 웹사이트에서 온라인으로 표준 갱신을 신청하세요. 영국은 GOV.UK, 미국은 travel.state.gov입니다.
 - **여행이 다가오고 있는 경우:** 즉시 신청하고 신속 처리 비용을 지불하세요. 영국과 미국 모두 더 빠른 유료 서비스를 온라인으로 제공하며, 각각 현재 소요 시간을 공개합니다.
 - **여행이 임박한 경우:** 웹사이트에만 의존하지 말고 여권 관청에 직접 전화하세요. 영국은 HM Passport Office 안내 창구, 미국은 National Passport Information Center입니다.
-- **여행이 코앞인 경우:** 긴급 약속에 대해 문의하고 여행 일정 증명을 지참하세요. 영국의 1일 프리미엄(1 Day Premium) 서비스(성인 갱신 전용)는 신청 후 2일 뒤부터 예약이 가능하며, 예약 당일 4시간 뒤 여권을 수령할 수 있습니다. 미국은 긴급 여행 옵션을 travel.state.gov에 안내하고 있습니다.
+- **여행이 코앞인 경우:** 긴급 약속에 대해 문의하고 여행 일정 증명을 지참하세요. 영국의 [1일 프리미엄(1 Day Premium) 서비스](https://www.gov.uk/get-a-passport-urgently)(성인 갱신 전용)는 신청 후 2일 뒤부터 예약이 가능하며, 예약 당일 4시간 뒤 여권을 수령할 수 있습니다. 미국은 긴급 여행 옵션을 travel.state.gov에 안내하고 있습니다.
 
 시간이 촉박하다면 **저희라면 웹사이트만 믿지 않고 반드시 전화합니다.**
 
@@ -56,7 +56,7 @@ Source: https://traveldocumentvault.com/ko/blog/passport-expired-what-to-do/
 
 ### 영국: 만료된 여권도 일반 갱신 절차를 따릅니다
 
-GOV.UK에 따르면 여권이 만료되었거나 목적지 기준으로 남은 기간이 부족하면 여행 전에 갱신해야 합니다. 만료된 여권은 온라인이나 종이 신청서를 통한 표준 갱신 절차를 따르며, 이때 기존 여권이 필요합니다. 성인 여권은 16세 이상을 대상으로 하며, 어린이 여권은 별도의 절차가 있습니다.
+[GOV.UK](https://www.gov.uk/renew-adult-passport/renew)에 따르면 여권이 만료되었거나 목적지 기준으로 남은 기간이 부족하면 여행 전에 갱신해야 합니다. 만료된 여권은 온라인이나 종이 신청서를 통한 표준 갱신 절차를 따르며, 이때 기존 여권이 필요합니다. 성인 여권은 16세 이상을 대상으로 하며, 어린이 여권은 별도의 절차가 있습니다.
 
 ### 미국: 발급 후 15년 이내면 갱신이 가능합니다
 
@@ -64,7 +64,7 @@ GOV.UK에 따르면 여권이 만료되었거나 목적지 기준으로 남은 �
 
 ### 캐나다: 만료된 여권은 온라인으로 갱신할 수 있습니다
 
-캐나다 정부는 마지막 여권이 적어도 16세일 때 발급된 성인 여권이었다면 갱신을 허용합니다. 또한 신청일로부터 15년 이내에 발급되었고, 유효기간이 5년 또는 10년이어야 합니다. 집 주소와 우편 주소가 캐나다 내에 있다면, 여권이 앞으로 6개월 이내에 만료되거나 이미 만료된 경우 온라인으로 갱신할 수 있습니다. 어린이 여권은 갱신할 수 없으므로 어린이는 새로 신청해야 합니다.
+[캐나다 정부](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html)는 마지막 여권이 적어도 16세일 때 발급된 성인 여권이었다면 갱신을 허용합니다. 또한 신청일로부터 15년 이내에 발급되었고, 유효기간이 5년 또는 10년이어야 합니다. 집 주소와 우편 주소가 캐나다 내에 있다면, 여권이 앞으로 6개월 이내에 만료되거나 이미 만료된 경우 [온라인으로 갱신할 수 있습니다](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport/submit-form-fees/renew-online.html). 어린이 여권은 갱신할 수 없으므로 어린이는 새로 신청해야 합니다.
 
 여권이 몇 년 전에 만료되었다면, 무엇보다 먼저 발급일을 확인하세요. 미국과 캐나다의 15년 제한은 만료일이 아니라 발급일부터 계산되기 때문입니다. 그다음 예약 전에 현재 처리 기간을 확인하세요. 이에 대해서는 저희의 [여권 갱신에 걸리는 시간](https://traveldocumentvault.com/ko/blog/how-long-does-passport-renewal-take/) 가이드에서 국가별로 다루고 있습니다.
 
@@ -110,7 +110,7 @@ GOV.UK에 따르면 여권이 만료되었거나 목적지 기준으로 남은 �
 
 **이 글에 의존하기 전에:** 이 글은 블로그이며 공식 자료가 아닙니다. 규정과 세부 사항은 바뀌고, 여러분의 상황은 다를 수 있습니다. 저희는 게시하는 내용을 확인하지만 그래도 틀리거나 오래된 정보일 수 있습니다. 여기 적힌 내용이 계획에 중요하다면, 움직이기 전에 담당 기관에 확인하시기 바랍니다.
 
-확인한 출처 (2026년 11월 6일)
+공식 출처
 
 - [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
 - [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)

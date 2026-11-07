@@ -22,13 +22,13 @@ This is a document-tracking problem. You have two expiry dates to watch: your pa
 
 ## Most Visa-Free Visitors Now Need an ETA
 
-If you are a national of the US, Canada, Australia, New Zealand, or a country in the EU or European Economic Area, you are likely to need a UK ETA. The scheme was enforced from 25 February 2026 for most non-visa nationals.
+If you are a national of the US, Canada, Australia, New Zealand, or a country in the EU or European Economic Area, you are [likely to need a UK ETA](https://www.gov.uk/eta). The scheme was [enforced from 25 February 2026](https://www.gov.uk/government/news/no-permission-no-travel-uk-set-to-enforce-eta-scheme) for most non-visa nationals.
 
 Some people are exempt: Irish citizens do not need one, and people with UK immigration status (a visa, settled status, or indefinite leave to remain) do not need to apply either. People with dual nationality, those with Common Travel Area rights, and a few other groups have different rules depending on how they travel, so check your own situation with the Home Office before booking. An ETA requirement is not hard to meet, but it only takes one exemption category you were unaware of to either waste money on an unnecessary application or get stopped at check-in.
 
 ## The ETA Is Tied to Your Passport Number, Not to You
 
-Your UK ETA is attached to your passport number, not to you as a person. When you apply, the Home Office links your approval to a specific passport number. Travelling on a different passport (a newly renewed one, a second passport, an emergency replacement) means travelling on an ETA that is not tied to that document.
+Your UK ETA is [attached to your passport number](https://www.gov.uk/check-eta), not to you as a person. When you apply, the Home Office links your approval to a specific passport number. Travelling on a different passport (a newly renewed one, a second passport, an emergency replacement) means travelling on an ETA that is not tied to that document.
 
 A UK ETA is digital and passport-specific: a new passport number means a new ETA is needed.
 
@@ -83,11 +83,11 @@ It isn't a visa either, so it doesn't set how long you can stay. ETA holders fro
 
 A UK ETA is one of several digital travel permissions now in use. If you are planning travel across multiple countries, understand the difference between an ETA and a [visa](https://traveldocumentvault.com/blog/visa-vs-passport/). They look similar in process but serve different purposes.
 
-The EU plans its own digital travel permission, [ETIAS](https://traveldocumentvault.com/blog/etias-documents-2026/), which is not yet in operation. It is similar in concept to the UK ETA but with different rules and requirements. When it starts, a trip covering both the UK and the Schengen area could need both.
+The EU plans its own digital travel permission, [ETIAS](https://traveldocumentvault.com/blog/etias-documents-2026/), which is [not yet in operation](https://travel-europe.europa.eu/en/etias). It is similar in concept to the UK ETA but with different rules and requirements. When it starts, a trip covering both the UK and the Schengen area could need both.
 
 If you already have a trip booked, do this today: check your passport's expiry date against your travel dates, and confirm your current ETA is tied to the passport you'll actually be travelling on. If either one falls short, start the renewal or the reapplication now, not the week before you fly.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [UK Government: Get an electronic travel authorisation (ETA) to visit the UK](https://www.gov.uk/eta)
 - [UK Government: Check your electronic travel authorisation (ETA)](https://www.gov.uk/check-eta)

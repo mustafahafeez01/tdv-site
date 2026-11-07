@@ -24,7 +24,7 @@ Aunque las reglas específicas varían según la autoridad de pasaportes, la may
 
 ### Fondo y Composición
 
-Necesitas un fondo claro y uniforme, y el tono exacto depende de tu autoridad: GOV.UK pide crema claro o gris claro, mientras que el Gobierno de Canadá pide blanco o de color claro. Sin patrones, sombras, fondos borrosos o colores intensos. La razón es directa: los funcionarios necesitan una vista limpia y sin desorden de tu cara para compararla con documentos futuros. Usa una sábana o un cartón liso del tono que pida tu autoridad —crema o gris claro para el Reino Unido—, o incluso pinta una pequeña sección de pared. La clave es mantenerlo brillante y uniforme en toda la extensión.
+Necesitas un fondo claro y uniforme, y el tono exacto depende de tu autoridad: [GOV.UK](https://www.gov.uk/photos-for-passports) pide crema claro o gris claro, mientras que el [Gobierno de Canadá](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/photos.html) pide blanco o de color claro. Sin patrones, sombras, fondos borrosos o colores intensos. La razón es directa: los funcionarios necesitan una vista limpia y sin desorden de tu cara para compararla con documentos futuros. Usa una sábana o un cartón liso del tono que pida tu autoridad —crema o gris claro para el Reino Unido—, o incluso pinta una pequeña sección de pared. La clave es mantenerlo brillante y uniforme en toda la extensión.
 
 ### Expresión y Postura
 
@@ -125,7 +125,7 @@ Si tienes buena luz de ventana y unos minutos libres, hazte la foto tú mismo ho
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 
-Fuentes que hemos comprobado (6 de noviembre de 2026)
+Fuentes oficiales
 
 - [UK Government: Get a passport photo, Digital photos](https://www.gov.uk/photos-for-passports)
 - [Government of Canada: Passport photo requirements](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/photos.html)

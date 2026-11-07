@@ -22,7 +22,7 @@ Das ist kein Grund zu warten. Es ist ein Grund, ein paar ruhige Wochen ohne gebu
 
 ## Es gibt keine offizielle Wartezeit, bevor Sie erneuern können
 
-Das HM Passport Office knüpft die Erneuerung an zwei Auslöser: Ihr Pass ist abgelaufen, oder er hat nicht mehr genug Gültigkeit für Ihr Reiseziel übrig. Seine Erneuerungsrichtlinie legt kein frühestes Datum fest und sagt, dass die benötigte Zeit vom besuchten Land abhängt. USAGov rät Amerikanern, früh zu erneuern, weil sich die Bearbeitungszeiten unterscheiden und manche Länder und Fluggesellschaften die Einreise verweigern, wenn einem Pass weniger als sechs Monate Gültigkeit bleiben.
+Das HM Passport Office knüpft die Erneuerung an zwei Auslöser: Ihr Pass ist abgelaufen, oder er hat nicht mehr genug Gültigkeit für Ihr Reiseziel übrig. Seine [Erneuerungsrichtlinie](https://www.gov.uk/renew-adult-passport/renew) legt kein frühestes Datum fest und sagt, dass die benötigte Zeit vom besuchten Land abhängt. [USAGov](https://www.usa.gov/renew-adult-passport) rät Amerikanern, früh zu erneuern, weil sich die Bearbeitungszeiten unterscheiden und manche Länder und Fluggesellschaften die Einreise verweigern, wenn einem Pass weniger als sechs Monate Gültigkeit bleiben.
 
 Kanada zieht eine Grenze, und selbst die ist weich. Die Regierung von Kanada sagt, dass sie nach dem Grund fragt, wenn Sie mehr als ein Jahr vor Ablauf Ihres Passes beantragen, und ein postalischer Antrag eine schriftliche Erklärung benötigt. Ihr Online-Erneuerungsdienst ist noch enger gefasst und nur geöffnet, wenn Ihr Pass innerhalb der nächsten sechs Monate abläuft oder bereits abgelaufen ist.
 
@@ -30,13 +30,13 @@ Wenn Sie Amerikaner sind, gibt es am anderen Ende eine Grenze, die sich zu kenne
 
 ## Eine vorzeitige Erneuerung im Vereinigten Königreich bedeutet, die verbleibenden Monate abzugeben
 
-Das sind die tatsächlichen Kosten einer vorzeitigen Erneuerung, und sie sind kleiner, als es klingt. Die historische Richtlinie des HM Passport Office erklärt, dass zwischen November 2004 und Oktober 2018 jedem, der vor Ablauf erneuerte, bis zu neun ungenutzte Monate zum neuen Pass hinzugefügt werden konnten. Seit Oktober 2018 geschieht das nicht mehr, daher geht die verbleibende Zeit des alten Passes einfach verloren.
+Das sind die tatsächlichen Kosten einer vorzeitigen Erneuerung, und sie sind kleiner, als es klingt. Die [historische Richtlinie](https://www.gov.uk/government/publications/historic-passport-information-caseworker-guidance/historic-passport-information-accessible) des HM Passport Office erklärt, dass zwischen November 2004 und Oktober 2018 jedem, der vor Ablauf erneuerte, bis zu neun ungenutzte Monate zum neuen Pass hinzugefügt werden konnten. Seit Oktober 2018 geschieht das nicht mehr, daher geht die verbleibende Zeit des alten Passes einfach verloren.
 
 Beantragen Sie also neun Monate früher, tauschen Sie diese neun Monate gegen einen Pass, über den Sie sich ein Jahrzehnt lang keine Gedanken machen müssen. Diesen Tausch würden wir jedes Mal eingehen, denn die Alternative ist, gegen die Uhr zu erneuern, während bereits eine Reise im Kalender steht.
 
-Die alte Zusatzmonate-Regel hat einen Haken zurückgelassen. Die Reisehinweise von GOV.UK für Spanien warnen, dass ein Pass, der vor Oktober 2018 erneuert wurde, ein Ausstellungsdatum haben kann, das mehr als zehn Jahre zurückliegt.
+Die alte Zusatzmonate-Regel hat einen Haken zurückgelassen. Die [Reisehinweise von GOV.UK für Spanien](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements) warnen, dass ein Pass, der vor Oktober 2018 erneuert wurde, ein Ausstellungsdatum haben kann, das mehr als zehn Jahre zurückliegt.
 
-Das ist wichtig, weil die Your-Europe-Richtlinie der EU besagt, dass ein Pass, mit dem man in den Schengen-Raum einreist, innerhalb der letzten zehn Jahre ausgestellt worden sein muss. Außerdem muss er noch mindestens drei Monate nach der Abreise gültig sein. Ein Pass, der anhand seines Ablaufdatums in Ordnung wirkt, kann in Europa trotzdem nicht ausreichen. Wurde Ihrer unter der alten Regel erneuert, prüfen Sie sowohl das Ausstellungsdatum als auch das Ablaufdatum, und unser Leitfaden dazu, [wie lange ein Reisepass für das Reisen gültig ist](https://traveldocumentvault.com/de/blog/how-long-is-passport-valid-for-travel/), geht auf beides ein.
+Das ist wichtig, weil die [Your-Europe-Richtlinie](https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm) der EU besagt, dass ein Pass, mit dem man in den Schengen-Raum einreist, innerhalb der letzten zehn Jahre ausgestellt worden sein muss. Außerdem muss er noch mindestens drei Monate nach der Abreise gültig sein. Ein Pass, der anhand seines Ablaufdatums in Ordnung wirkt, kann in Europa trotzdem nicht ausreichen. Wurde Ihrer unter der alten Regel erneuert, prüfen Sie sowohl das Ausstellungsdatum als auch das Ablaufdatum, und unser Leitfaden dazu, [wie lange ein Reisepass für das Reisen gültig ist](https://traveldocumentvault.com/de/blog/how-long-is-passport-valid-for-travel/), geht auf beides ein.
 
 ## Ihr alter Pass verliert seine Gültigkeit, sobald der neue genehmigt ist
 
@@ -52,8 +52,8 @@ Jede Erneuerung bringt eine neue Nummer mit sich. Das HM Passport Office verknü
 
 Alles, was bereits mit der alten Nummer verknüpft ist, lohnt einen Blick vor Ihrer nächsten Reise:
 
-- **Ein US-ESTA** muss erneut beantragt werden. US Customs and Border Protection sagt, dass ein neues ESTA erforderlich ist, wenn dem Reisenden ein neuer Pass ausgestellt wird.
-- GOV.UK sagt, dass eine **UK-ETA** an den Pass gebunden ist, mit dem Sie sie beantragt haben, und zwei Jahre gilt oder bis dieser Pass abläuft, je nachdem, was früher eintritt. Prüfen Sie, wo Ihre steht, bevor Sie mit dem neuen Pass fliegen, und unser Leitfaden dazu, [an welchen Pass eine UK-ETA gebunden ist](https://traveldocumentvault.com/de/blog/uk-eta-passport-rules/), geht auf die Details ein.
+- **Ein US-ESTA** muss erneut beantragt werden. [US Customs and Border Protection](https://www.cbp.gov/travel/international-visitors/esta/frequently-asked-questions-about-visa-waiver-program-vwp-and-electronic-system-travel) sagt, dass ein neues ESTA erforderlich ist, wenn dem Reisenden ein neuer Pass ausgestellt wird.
+- [GOV.UK](https://www.gov.uk/eta/apply) sagt, dass eine **UK-ETA** an den Pass gebunden ist, mit dem Sie sie beantragt haben, und zwei Jahre gilt oder bis dieser Pass abläuft, je nachdem, was früher eintritt. Prüfen Sie, wo Ihre steht, bevor Sie mit dem neuen Pass fliegen, und unser Leitfaden dazu, [an welchen Pass eine UK-ETA gebunden ist](https://traveldocumentvault.com/de/blog/uk-eta-passport-rules/), geht auf die Details ein.
 - Für **ein Visum im alten Pass** lautet die übliche Antwort, beide mitzuführen. Ein Visum im alten Pass bleibt in der Regel gültig. Führen Sie deshalb beide Pässe mit und prüfen Sie die offiziellen Hinweise des ausstellenden Landes.
 - **Flüge und Hotels**, die mit den Daten Ihres alten Passes gebucht wurden, benötigen möglicherweise die neue Nummer, eine leichte Aufgabe von zu Hause aus und eine unangenehme am Check-in-Schalter.
 
@@ -65,13 +65,13 @@ Unsere Einschätzung ist einfach: Denken Sie an die Erneuerung, sobald der Pass 
 
 Die andere Hälfte besteht darin, den richtigen Zeitpunkt innerhalb dieses Fensters zu wählen. Suchen Sie sich ein paar Wochen ohne gebuchte Pläne, denn der alte Pass wird mit dem Antrag eingeschickt und der neue kommt mit einer anderen Nummer zurück.
 
-Das HM Passport Office sagt, dass Sie Ihren Pass meist innerhalb von drei Wochen erhalten, länger, wenn weitere Informationen oder ein Gespräch nötig sind, wobei die Uhr zu laufen beginnt, sobald Ihre Unterlagen eingegangen sind. In Kanada kann die Online-Erneuerung bis zu 20 Werktage dauern, zuzüglich Postlaufzeit. Was einen Antrag typischerweise verzögert, erfahren Sie im Detail in unserem Leitfaden dazu, [wie lange die Reisepasserneuerung dauert](https://traveldocumentvault.com/de/blog/how-long-does-passport-renewal-take/).
+Das [HM Passport Office](https://www.gov.uk/government/organisations/hm-passport-office/about/about-our-services) sagt, dass Sie Ihren Pass meist innerhalb von drei Wochen erhalten, länger, wenn weitere Informationen oder ein Gespräch nötig sind, wobei die Uhr zu laufen beginnt, sobald Ihre Unterlagen eingegangen sind. In Kanada kann die Online-Erneuerung bis zu 20 Werktage dauern, zuzüglich Postlaufzeit. Was einen Antrag typischerweise verzögert, erfahren Sie im Detail in unserem Leitfaden dazu, [wie lange die Reisepasserneuerung dauert](https://traveldocumentvault.com/de/blog/how-long-does-passport-renewal-take/).
 
 Steht eine Familienreise bevor, prüfen Sie alle Pässe im Haushalt gleichzeitig. Im Vereinigten Königreich stellt das HM Passport Office Kinderpässe für fünf statt zehn Jahre aus, daher muss oft nicht der Pass zuerst erneuert werden, den Sie erwarten würden. Reist jemand an einen Ort, der bei der Einreise zusätzliche Gültigkeit verlangt, schauen Sie in unserem Leitfaden zur [6-Monats-Passregel](https://traveldocumentvault.com/de/blog/passport-expiry-6-month-rule/) nach, wie sich das auf Ihr Datum auswirkt.
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 
-Quellen, die wir geprüft haben (6. November 2026)
+Offizielle Quellen
 
 - [USAGov: Renew an adult passport](https://www.usa.gov/renew-adult-passport)
 - [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)

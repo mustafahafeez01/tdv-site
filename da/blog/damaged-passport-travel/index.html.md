@@ -30,7 +30,7 @@ Allervigtigst er det, at den maskinlæsbare zone – den sort-hvide stribe neder
 
 ![To åbne pas side om side: ét slidt, men fladt og brugbart, og ét vandskadet med bølgede sider og løsnet laminering](https://traveldocumentvault.com/blog/damaged-passport-travel/damage-vs-wear-figure.jpg) Små folder i omslaget: accepteret. Vandskade på datasiden: et problem.
 
-Grunden til, at dette betyder noget, er, at **luftfartsselskaberne hæfter, hvis de lader nogen boarde med et uacceptabelt dokument.** Boarder du med et beskadiget pas og bliver nægtet indrejse i den anden ende, kan myndighederne bøde luftfartsselskabet for at have fragtet dig.
+Grunden til, at dette betyder noget, er, at **luftfartsselskaberne hæfter, hvis de lader nogen boarde med et uacceptabelt dokument.** Boarder du med et beskadiget pas og bliver nægtet indrejse i den anden ende, kan myndighederne [bøde luftfartsselskabet](https://www.legislation.gov.uk/ukpga/1999/33/section/40) for at have fragtet dig.
 
 Ingen gateopvartere ønsker det papirarbejde, så de vælger klart forsigtighed.
 
@@ -42,7 +42,7 @@ At opdage skaden i god tid er det bedste scenarie, for så har du stadig plads t
 
 Dit første skridt bør være dit eget lands officielle pasmyndigheds hjemmeside, for det er det eneste sted, hvor de gældende regler og sagsbehandlingstider garanteret er korrekte – og begge dele ændrer sig oftere, end folk tror. Er du i tvivl om, hvorvidt netop dit pas stadig bliver accepteret, er pasmyndigheden den eneste instans, hvis svar reelt tæller. Et rejseforum redder dig ikke ved skranken.
 
-Der er nogle ting, du bør bekræfte, før du går derhen. Hastetjenester og ekspresordninger findes normalt, men de dækker ikke altid beskadigede pas, og den allerhurtigste ordning er ofte forbeholdt enkle fornyelser. Kontroller, hvilken ordning din situation kvalificerer til, før du booker en tid.
+Der er nogle ting, du bør bekræfte, før du går derhen. [Hastetjenester og ekspresordninger](https://www.gov.uk/get-a-passport-urgently) findes normalt, men de dækker ikke altid beskadigede pas, og den allerhurtigste ordning er ofte forbeholdt enkle fornyelser. Kontroller, hvilken ordning din situation kvalificerer til, før du booker en tid.
 
 Et beskadiget pas betyder som regel også, at du skal ansøge personligt fremfor med posten. I nogle lande er det kontor, der håndterer hastesager, et helt andet sted end det, der bare modtager ansøgninger, og dukker du op det forkerte sted, koster det dig en dag, du sandsynligvis ikke har.
 
@@ -89,7 +89,7 @@ Scan dit pas i dag, før du får brug for det.
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 
-Kilder vi har tjekket (6. november 2026)
+Officielle kilder
 
 - [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
 - [UK legislation: Immigration and Asylum Act 1999, section 40](https://www.legislation.gov.uk/ukpga/1999/33/section/40)

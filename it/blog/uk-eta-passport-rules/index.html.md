@@ -22,7 +22,7 @@ Questo è, in sostanza, un problema di gestione dei documenti. Ci sono due scade
 
 ## Quasi tutti i visitatori senza visto ora hanno bisogno di un'ETA
 
-Se sei cittadino di Stati Uniti, Canada, Australia, Nuova Zelanda, o di un paese dell'UE o dello Spazio Economico Europeo, probabilmente hai bisogno di un'ETA del Regno Unito. Il sistema è entrato in vigore dal 25 febbraio 2026 per la maggior parte dei cittadini non soggetti a visto.
+Se sei cittadino di Stati Uniti, Canada, Australia, Nuova Zelanda, o di un paese dell'UE o dello Spazio Economico Europeo, [probabilmente hai bisogno di un'ETA del Regno Unito](https://www.gov.uk/eta). Il sistema è [entrato in vigore dal 25 febbraio 2026](https://www.gov.uk/government/news/no-permission-no-travel-uk-set-to-enforce-eta-scheme) per la maggior parte dei cittadini non soggetti a visto.
 
 Alcune persone sono esenti: i cittadini irlandesi non ne hanno bisogno, e chi ha già uno status di immigrazione nel Regno Unito — un visto, il settled status, o l'indefinite leave to remain — non deve fare domanda. Chi ha doppia cittadinanza, chi ha diritti nell'ambito della Common Travel Area, e alcuni altri gruppi seguono regole diverse a seconda di come viaggiano.
 
@@ -30,7 +30,7 @@ Alcune persone sono esenti: i cittadini irlandesi non ne hanno bisogno, e chi ha
 
 ## L'ETA è legata al numero del tuo passaporto, non a te
 
-La tua ETA del Regno Unito è collegata al numero del tuo passaporto, non a te come persona. Quando fai domanda, l'Home Office collega l'approvazione a un numero di passaporto specifico. Viaggiare con un passaporto diverso — uno appena rinnovato, un secondo passaporto, un documento sostitutivo d'emergenza — significa viaggiare con un'ETA non collegata a quel documento.
+La tua ETA del Regno Unito è [collegata al numero del tuo passaporto](https://www.gov.uk/check-eta), non a te come persona. Quando fai domanda, l'Home Office collega l'approvazione a un numero di passaporto specifico. Viaggiare con un passaporto diverso — uno appena rinnovato, un secondo passaporto, un documento sostitutivo d'emergenza — significa viaggiare con un'ETA non collegata a quel documento.
 
 L'ETA del Regno Unito è digitale ed è specifica per il passaporto, quindi un nuovo numero di passaporto significa che serve una nuova ETA.
 
@@ -89,11 +89,11 @@ Un'ETA inoltre non è un visto — non stabilisce per quanto tempo puoi restare.
 
 L'ETA del Regno Unito è una delle diverse autorizzazioni di viaggio digitali oggi in uso. Se stai pianificando un viaggio in più paesi, è utile capire la differenza tra un'ETA e un [visto](https://traveldocumentvault.com/it/blog/visa-vs-passport/). Il processo sembra simile, ma servono a scopi diversi.
 
-L'UE prevede una propria autorizzazione di viaggio digitale, [ETIAS](https://traveldocumentvault.com/it/blog/etias-documents-2026/), che non è ancora in funzione. È simile nel concetto all'ETA del Regno Unito, ma con regole e requisiti diversi. Quando partirà, un viaggio che comprenda sia il Regno Unito sia l'area Schengen potrebbe richiederle entrambe.
+L'UE prevede una propria autorizzazione di viaggio digitale, [ETIAS](https://traveldocumentvault.com/it/blog/etias-documents-2026/), [che non è ancora in funzione](https://travel-europe.europa.eu/en/etias). È simile nel concetto all'ETA del Regno Unito, ma con regole e requisiti diversi. Quando partirà, un viaggio che comprenda sia il Regno Unito sia l'area Schengen potrebbe richiederle entrambe.
 
 Se hai già un viaggio prenotato, fai questo oggi: confronta la data di scadenza del passaporto con le date del viaggio e verifica che la tua ETA attuale sia legata al passaporto con cui viaggerai davvero. Se una delle due cose non torna, avvia subito il rinnovo o una nuova domanda, non la settimana prima di partire.
 
-Fonti che abbiamo verificato (6 novembre 2026)
+Fonti ufficiali
 
 - [UK Government: Get an electronic travel authorisation (ETA) to visit the UK](https://www.gov.uk/eta)
 - [UK Government: Check your electronic travel authorisation (ETA)](https://www.gov.uk/check-eta)

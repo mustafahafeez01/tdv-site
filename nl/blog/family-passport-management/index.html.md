@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/nl/blog/family-passport-management/
 
 ## Belangrijkste punten
 
-- **Kinderpaspoorten verlopen vaak eerder dan paspoorten van volwassenen.** In het VK is een kinderpaspoort 5 jaar geldig, dus de vervaldatum van het jongste gezinslid bepaalt vaak de deadline voor je volgende reis.
+- **Kinderpaspoorten verlopen vaak eerder dan paspoorten van volwassenen.** In het VK is [een kinderpaspoort 5 jaar geldig](https://www.gov.uk/get-a-child-passport), dus de vervaldatum van het jongste gezinslid bepaalt vaak de deadline voor je volgende reis.
 - Draag nooit alle familiepaspoorten samen mee als je reist. **Elk gezinslid draagt zijn eigen paspoort** en laat kopieën achter bij een vertrouwde persoon thuis.
 - **Bewaar digitale kopieën op één versleutelde plaats,** met één fysieke back-up op een veilige locatie die je snel kunt bereiken als dat nodig is.
 - Maak een gedeeld systeem om vervaldatums van alle gezinsleden bij te houden. **Als één persoon dit doet, voorkomt dat gemiste vernieuwingen.**
@@ -86,7 +86,7 @@ Heb je dit nog niet ingesteld, begin dan vandaag: scan de fotopagina van elk pas
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 
-Bronnen die we hebben gecontroleerd (6 november 2026)
+Officiële bronnen
 
 - [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
 

@@ -39,13 +39,13 @@ Det beror på vart ni ska, men för de flesta internationella familjeresor är l
 
 **Vad resor med barn lägger till**
 
-- Födelsebevis – krävs ibland vid gränskontroll, särskilt om barnets efternamn skiljer sig från den resande förälderns
+- Födelsebevis – [krävs ibland vid gränskontroll](https://www.gov.uk/foreign-travel-advice/mexico/entry-requirements), särskilt om barnets efternamn skiljer sig från den resande förälderns
 - Ett undertecknat samtyckesbrev från föräldern om en förälder inte är med – starkt rekommenderat vid resor med en ensam förälder eller far- och morföräldrar
 - Vårdnadsbeslut, om tillämpligt
 
 ### Samtyckesbrev för barns resa: när behövs det
 
-Ett samtyckesbrev för barns resa är ett undertecknat dokument från den frånvarande föräldern (eller vårdnadshavaren) som ger tillstånd för barnet att resa. Det är i regel inget lagkrav, men gränspoliser i vissa länder, däribland Kanada, kan be om bevis på att båda föräldrarna samtycker när ett barn reser med bara en förälder eller med en annan vuxen. Brevet är enkelt att ta med och kan bespara dig frågor vid gränsen.
+Ett samtyckesbrev för barns resa är ett undertecknat dokument från den frånvarande föräldern (eller vårdnadshavaren) som ger tillstånd för barnet att resa. Det är i regel inget lagkrav, men gränspoliser i vissa länder, däribland [Kanada](https://travel.gc.ca/travelling/children/consent-letter), kan be om bevis på att båda föräldrarna samtycker när ett barn reser med bara en förälder eller med en annan vuxen. Brevet är enkelt att ta med och kan bespara dig frågor vid gränsen.
 
 Sydafrika har egna regler för resor med barn, bland annat om ett fullständigt födelsebevis, så kontrollera riktlinjerna från Department of Home Affairs före resan.
 
@@ -57,7 +57,7 @@ Ett giltigt samtyckesbrev bör innehålla: barnets fullständiga namn och födel
 
 - Internationellt körkort (om ni hyr bil utomlands)
 - Journaler eller receptuppgifter för pågående behandlingar
-- Europeiskt sjukförsäkringskort (EHIC), om du omfattas av ett EU-lands sjukförsäkringssystem
+- Europeiskt sjukförsäkringskort (EHIC), om du [omfattas av ett EU-lands sjukförsäkringssystem](https://europa.eu/youreurope/citizens/health/unplanned-healthcare/temporary-stays/index_en.htm)
 
 ## Fysisk organisation: var ni ska förvara originalen
 
@@ -128,7 +128,7 @@ Om ni inte redan har gjort det, välj den enda plats där passen ska bo och stä
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 
-Källor vi har kontrollerat (6 november 2026)
+Officiella källor
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [UK Foreign Office: Mexico entry requirements](https://www.gov.uk/foreign-travel-advice/mexico/entry-requirements)

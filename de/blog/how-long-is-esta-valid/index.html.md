@@ -21,13 +21,13 @@ Ein ESTA gilt in der Regel zwei Jahre ab dem Tag der Genehmigung, oder bis der P
 
 ## Ihr ESTA endet nach zwei Jahren oder wenn Ihr Pass abläuft
 
-US Customs and Border Protection (CBP) legt die Regel fest: Ein genehmigtes ESTA ist in der Regel zwei Jahre ab dem Datum der Genehmigung gültig, oder bis Ihr Pass abläuft, je nachdem, was früher eintritt. Ein Pass mit noch 14 Monaten Gültigkeit ergibt also ein ESTA mit 14 Monaten Gültigkeit. Der Genehmigungsbildschirm zeigt das genaue Ablaufdatum, sodass Sie es nicht selbst berechnen müssen.
+[US Customs and Border Protection (CBP)](https://www.cbp.gov/travel/international-visitors/esta/frequently-asked-questions-about-visa-waiver-program-vwp-and-electronic-system-travel) legt die Regel fest: Ein genehmigtes ESTA ist in der Regel zwei Jahre ab dem Datum der Genehmigung gültig, oder bis Ihr Pass abläuft, je nachdem, was früher eintritt. Ein Pass mit noch 14 Monaten Gültigkeit ergibt also ein ESTA mit 14 Monaten Gültigkeit. Der Genehmigungsbildschirm zeigt das genaue Ablaufdatum, sodass Sie es nicht selbst berechnen müssen.
 
 ![Diagramm, wann ein ESTA ungültig wird: es endet nach 2 Jahren oder wenn der Pass abläuft, je nachdem, was früher eintritt. Jeder braucht sein eigenes, auch Babys und Kinder, jeder mit eigenem Pass. Ein neuer Pass, ein neuer Name oder eine neue Staatsangehörigkeit bedeutet, neu zu beantragen](https://traveldocumentvault.com/blog/how-long-is-esta-valid/esta-clock-de.jpg) Eine Uhr pro Reisendem, die den Pass nie überlebt.
 
 Die CBP schickt außerdem eine E-Mail an die in Ihrem Antrag angegebene Adresse, wenn Ihr ESTA innerhalb der nächsten 30 Tage abläuft. Wir würden uns nicht allein auf diese E-Mail verlassen: Sie kann im Spam oder in einem alten Postfach landen, also notieren Sie sich das Datum irgendwo, wo Sie es bei der Buchung sehen.
 
-Innerhalb dieser zwei Jahre deckt ein ESTA so viele Reisen ab, wie Sie möchten. Jeder Aufenthalt im Rahmen des Programms für visafreies Reisen (Visa Waiver Program) bleibt weiterhin auf 90 Tage oder weniger begrenzt, und die CBP stellt klar, dass eine zweijährige Genehmigung keinen zweijährigen Aufenthalt bedeutet.
+Innerhalb dieser zwei Jahre deckt ein ESTA so viele Reisen ab, wie Sie möchten. Jeder Aufenthalt im Rahmen des Programms für visafreies Reisen ([Visa Waiver Program](https://www.cbp.gov/travel/international-visitors/visa-waiver-program)) bleibt weiterhin auf 90 Tage oder weniger begrenzt, und die CBP stellt klar, dass eine zweijährige Genehmigung keinen zweijährigen Aufenthalt bedeutet.
 
 Die einzige Ausnahme ist Brunei, für dessen Bürger und Staatsangehörige die CBP die Gültigkeitsdauer auf ein Jahr verkürzt hat.
 
@@ -41,7 +41,7 @@ So sieht das in der Praxis aus. Angenommen, Ihr ESTA läuft am 10. eines Monats 
 
 Es gibt keine Verlängerung. Die CBP sagt, dass bestehende Genehmigungen nicht verlängert werden können, und Sie müssen nicht warten, bis eines abläuft, bevor Sie ein neues beantragen. Ihr neuer Antrag hebt den alten auf und ersetzt ihn.
 
-Die CBP empfiehlt, das ESTA schon bei der Buchung Ihrer Reise zu beantragen, und das ist eine Gewohnheit, die sich zu halten lohnt. Läuft Ihr ESTA wenige Wochen vor einer Reise ab, beantragen Sie es am Tag der Buchung und nicht erst in der Woche des Fluges.
+[Die CBP empfiehlt, das ESTA schon bei der Buchung Ihrer Reise zu beantragen](https://www.cbp.gov/newsroom/national-media-release/cbp-reminds-travelers-allow-72-hours-esta), und das ist eine Gewohnheit, die sich zu halten lohnt. Läuft Ihr ESTA wenige Wochen vor einer Reise ab, beantragen Sie es am Tag der Buchung und nicht erst in der Woche des Fluges.
 
 ## Vier Änderungen bedeuten ein neues ESTA
 
@@ -62,7 +62,7 @@ Niemand erwartet, dass ein Kleinkind ein Formular ausfüllt. Ein Elternteil oder
 
 ## Die Gebühr stieg am 16. Oktober, bestehende Genehmigungen sind nicht betroffen
 
-Laut der im Federal Register veröffentlichten Bekanntmachung vom 1. Oktober 2026 stieg die ESTA-Gebühr von US $40.27 auf US $40.62, erhoben ab dem 16. Oktober 2026. Wenn Sie bereits ein gültiges, genehmigtes ESTA haben, sagt die CBP, dass Sie kein neues beantragen müssen. Sie zahlen den neuen Betrag bei Ihrem nächsten Antrag.
+Laut der [im Federal Register veröffentlichten Bekanntmachung](https://www.govinfo.gov/content/pkg/FR-2026-10-01/html/2026-20185.htm) vom 1. Oktober 2026 stieg die ESTA-Gebühr von US $40.27 auf US $40.62, erhoben ab dem 16. Oktober 2026. Wenn Sie bereits ein gültiges, genehmigtes ESTA haben, sagt die CBP, dass Sie kein neues beantragen müssen. Sie zahlen den neuen Betrag bei Ihrem nächsten Antrag.
 
 Dieselbe Bekanntmachung legt eine niedrigere Gebühr von US $10.62 fest, wenn ein Antrag abgelehnt wird, die die Bearbeitungskosten abdeckt.
 
@@ -70,7 +70,7 @@ Rechnen Sie damit, dass sich der Betrag erneut ändert. Das zugrunde liegende Ge
 
 ## Stellen Sie den Antrag auf der offiziellen ESTA-Website, nicht auf einer Nachahmerseite
 
-Manche Websites Dritter verlangen mehr als die offizielle Gebühr. Die CBP sagt, dass sie die Genehmigung nicht beschleunigen, nicht vom Department of Homeland Security unterstützt oder mit ihm verbunden sind, und die CBP kann nicht erstatten, was Sie dort gezahlt haben. Stellen Sie den Antrag auf der offiziellen, von der CBP betriebenen ESTA-Website.
+Manche [Websites Dritter](https://www.cbp.gov/newsroom/national-media-release/cbp-warns-against-third-party-site-use-esta-applications) verlangen mehr als die offizielle Gebühr. Die CBP sagt, dass sie die Genehmigung nicht beschleunigen, nicht vom [Department of Homeland Security](https://www.dhs.gov/visa-waiver-program) unterstützt oder mit ihm verbunden sind, und die CBP kann nicht erstatten, was Sie dort gezahlt haben. Stellen Sie den Antrag auf der offiziellen, von der CBP betriebenen ESTA-Website.
 
 Dort prüfen Sie auch einen Status. Wählen Sie „Check ESTA Status“ (ESTA-Status prüfen), dann „Check Individual Status“ (individuellen Status prüfen), oder „Check Group Status“ (Gruppenstatus prüfen) für einen Familienantrag. Wenn Sie die Antragsnummer verloren haben, finden Sie den Antrag über Ihre Passnummer, Ihr Staatsangehörigkeitsland, Ausstellungs- und Ablaufdatum des Passes sowie Ihr Geburtsdatum. Die Angaben müssen genau mit dem übereinstimmen, was Sie eingegeben haben.
 
@@ -89,11 +89,11 @@ Vier Prüfungen dauern ein paar Minuten:
 
 ## Ein genehmigtes ESTA ist keine Einreisegarantie
 
-Die Genehmigung bedeutet, dass Sie zum Reisen im Rahmen des Programms für visafreies Reisen berechtigt sind, nicht, dass Sie einreisen dürfen, denn diese Entscheidung treffen CBP-Beamte bei Ihrer Ankunft.
+[Die Genehmigung bedeutet, dass Sie zum Reisen](https://www.cbp.gov/travel/international-visitors/esta) im Rahmen des Programms für visafreies Reisen berechtigt sind, nicht, dass Sie einreisen dürfen, denn diese Entscheidung treffen CBP-Beamte bei Ihrer Ankunft.
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 
-Quellen, die wir geprüft haben (6. November 2026)
+Offizielle Quellen
 
 - [US CBP: Visa Waiver Program and ESTA frequently asked questions](https://www.cbp.gov/travel/international-visitors/esta/frequently-asked-questions-about-visa-waiver-program-vwp-and-electronic-system-travel)
 - [US CBP: Electronic System for Travel Authorization (ESTA)](https://www.cbp.gov/travel/international-visitors/esta)
@@ -102,7 +102,6 @@ Quellen, die wir geprüft haben (6. November 2026)
 - [US DHS: Visa Waiver Program](https://www.dhs.gov/visa-waiver-program)
 - [US CBP: CBP Reminds Travelers to Allow 72 Hours for ESTA](https://www.cbp.gov/newsroom/national-media-release/cbp-reminds-travelers-allow-72-hours-esta)
 - [US CBP: CBP Warns Against Third-Party Site Use for ESTA Applications](https://www.cbp.gov/newsroom/national-media-release/cbp-warns-against-third-party-site-use-esta-applications)
-- [US CBP: ESTA frequently asked questions](https://esta.cbp.dhs.gov/faq)
 
 ## Häufig gestellte Fragen
 

@@ -36,7 +36,7 @@ Dokumen polis Anda ada di pihak yang menjual asuransi tersebut kepada Anda, jadi
 
 Jika Anda sama sekali tidak ingat pernah membeli polis, periksa rekening bank Anda. Financial Ombudsman Service Inggris menjelaskan rekening bank paket sebagai rekening giro yang mengenakan biaya bulanan, dengan imbalan manfaat tambahan, salah satunya asuransi perjalanan. Dalam kasus ini, bank biasanya menjadi tempat pertama untuk bertanya, jadi coba cek aplikasi, situs web, atau layanan bantuannya.
 
-Setelah Anda mendapatkannya, Foreign, Commonwealth and Development Office Inggris menyarankan untuk membawa rincian polis Anda, termasuk nomor polis dan nomor bantuan darurat perusahaan asuransi. Mereka juga menyarankan untuk membagikannya kepada orang yang bepergian bersama Anda dan keluarga di rumah. Jika Anda masih tidak menemukan apa pun, hubungi perusahaan asuransi, atau bank untuk asuransi paket, dan minta mereka mengirim ulang dokumennya sebelum Anda terbang, bukan setelah terjadi masalah.
+Setelah Anda mendapatkannya, [Foreign, Commonwealth and Development Office Inggris](https://www.gov.uk/guidance/foreign-travel-insurance) menyarankan untuk membawa rincian polis Anda, termasuk nomor polis dan nomor bantuan darurat perusahaan asuransi. Mereka juga menyarankan untuk membagikannya kepada orang yang bepergian bersama Anda dan keluarga di rumah. Jika Anda masih tidak menemukan apa pun, hubungi perusahaan asuransi, atau bank untuk asuransi paket, dan minta mereka mengirim ulang dokumennya sebelum Anda terbang, bukan setelah terjadi masalah.
 
 ## Lima Dokumen yang Harus Disimpan Sebelum Anda Terbang
 
@@ -146,7 +146,7 @@ Dua puluh menit sekarang, dan Anda tidak akan mencari apa pun saat krisis terjad
 
 **Sebelum Anda mengandalkan ini:** ini blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 
-Sumber yang kami periksa (6 November 2026)
+Sumber resmi
 
 - [UK Government: Foreign travel insurance](https://www.gov.uk/guidance/foreign-travel-insurance)
 

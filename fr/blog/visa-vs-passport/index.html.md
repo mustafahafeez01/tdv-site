@@ -22,9 +22,9 @@ Passeport et visa semblent presque interchangeables, mais ils ne jouent pas le m
 
 Votre passeport contient votre nom, votre date de naissance, votre photo et un numéro de passeport unique — délivré par votre gouvernement et reconnu mondialement comme preuve de votre citoyenneté.
 
-Il fait office de pièce d'identité officielle pour les voyages internationaux. Pour la plupart des voyages internationaux, il est nécessaire pour quitter votre pays et être admis à l'étranger, bien que certaines régions acceptent d'autres documents, comme les cartes nationales d'identité en Europe ou la carte-passeport américaine aux passages terrestres et maritimes. Les agents d'immigration l'examinent aux frontières, les compagnies aériennes l'exigent pour les vols internationaux, et les douaniers le vérifient à votre arrivée.
+Il fait office de pièce d'identité officielle pour les voyages internationaux. Pour la plupart des voyages internationaux, il est nécessaire pour quitter votre pays et être admis à l'étranger, bien que certaines régions acceptent d'autres documents, comme les cartes nationales d'identité en Europe ou [la carte-passeport américaine](https://www.cbp.gov/travel/us-citizens/western-hemisphere-travel-initiative) aux passages terrestres et maritimes. Les agents d'immigration l'examinent aux frontières, les compagnies aériennes l'exigent pour les vols internationaux, et les douaniers le vérifient à votre arrivée.
 
-Les passeports sont généralement valides pendant plusieurs années (souvent 10 ans pour les adultes, 5 ans pour les enfants), bien que les périodes de validité varient selon le pays. Lorsque votre passeport expire, vous ne pouvez pas voyager à l'international et devez demander un renouvellement. Garder une trace de la date d'expiration de votre passeport est essentiel car de nombreux pays exigent au moins 6 mois de validité restante avant de vous permettre d'entrer.
+Les passeports sont généralement valides pendant plusieurs années (souvent 10 ans pour les adultes, 5 ans pour les enfants), bien que les périodes de validité varient selon le pays. Lorsque votre passeport expire, vous ne pouvez pas voyager à l'international et devez demander un renouvellement. Garder une trace de la date d'expiration de votre passeport est essentiel car de nombreux pays exigent [au moins 6 mois de validité restante](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements) avant de vous permettre d'entrer.
 
 ## Qu'est-ce qu'un visa
 
@@ -59,7 +59,7 @@ La plupart des pays délivrent des visas dans ces catégories :
 - **Visa touristique :** Le type le plus courant, délivré pour les loisirs, le tourisme, et les visites à la famille ou aux amis.
 - **Visa de travail :** Requis pour l'emploi à l'étranger. Les employeurs parrainent généralement ces visas, avec des restrictions spécifiques sur le type de travail autorisé.
 - **Visa d'études :** Pour étudier dans un établissement éducatif reconnu, souvent avec des restrictions sur le travail extrascolaire et des limites de durée spécifiques.
-- **Visa de transit :** Requis par certains pays pour passer en transit vers une autre destination — même si vous ne faites que changer d'avion.
+- **Visa de transit :** Requis par certains pays pour passer en transit vers une autre destination — [même si vous ne faites que changer d'avion](https://www.gov.uk/transit-visa).
 - **Visa électronique :** Un visa électronique demandé en ligne et généralement stocké dans le système du pays de destination, lié à votre numéro de passeport. Courant en Asie du Sud-Est et de plus en plus courant ailleurs.
 - **Visa à l'arrivée :** Délivré à l'aéroport de destination ou à la frontière quand vous atterrissez. Le traitement est généralement rapide, bien que les files d'attente puissent être longues, et tous les pays ne proposent pas cette option.
 
@@ -109,13 +109,13 @@ La confusion vient de ce que votre ancien passeport a expiré en tant que docume
 
 De nombreuses nations ont des accords d'exemption de visa ou des accords sans visa les unes avec les autres, permettant à leurs citoyens de franchir les frontières sans obtenir un visa au préalable. L'espace Schengen en Europe est l'exemple le plus connu — les voyageurs peuvent généralement circuler entre ses 29 états membres sans contrôles routiniers aux frontières, bien que certains pays rétablissent des contrôles temporaires. L'Asie du Sud-Est, les Caraïbes et certaines parties de l'Afrique ont des schémas similaires.
 
-Cependant, les voyages sans visa ont des limites. Ils s'appliquent généralement uniquement au tourisme ou aux visites de courte durée, pas au travail ou aux études. Les périodes sans visa ont également des limites, souvent 30 à 90 jours selon le pays. Si vous dépassez le temps autorisé, vous devenez un résident illégal et risquez des pénalités incluant des amendes, l'expulsion ou les interdictions d'entrée futures.
+Cependant, les voyages sans visa ont des limites. Ils s'appliquent généralement uniquement au tourisme ou aux visites de courte durée, pas au travail ou aux études. Les périodes sans visa ont également des limites, [souvent 30 à 90 jours](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en) selon le pays. Si vous dépassez le temps autorisé, vous devenez un résident illégal et risquez des pénalités incluant des amendes, l'expulsion ou les interdictions d'entrée futures.
 
 L'accès sans visa dépend également entièrement de votre nationalité. Deux personnes voyageant ensemble peuvent avoir des exigences complètement différentes selon leurs passeports, l'une entrant sans visa pendant que l'autre doit en demander un : c'est donc votre propre nationalité qui compte ici, pas l'expérience d'un compagnon de voyage.
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
-Sources vérifiées (6 novembre 2026)
+Sources officielles
 
 - [European Commission: Schengen area](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en)
 - [European Commission: Short-stay calculator](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en)

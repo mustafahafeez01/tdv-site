@@ -11,9 +11,9 @@ Source: https://traveldocumentvault.com/es/blog/digital-passport-copy-valid/
 ## Puntos Clave
 
 - Las copias digitales del pasaporte se aceptan para **check-in en hotel, reservas de vuelo y reservas de alquiler de coches**, pero no en fronteras ni para embarcar en el avión.
-- Para viajar al extranjero, **por lo general necesitas el pasaporte original** en las fronteras y al embarcar. Algunas rutas aceptan un documento nacional de identidad —por ejemplo, para ciudadanos de la UE que viajan dentro de la UE—, pero nunca una copia.
+- Para viajar al extranjero, **por lo general necesitas el pasaporte original** en las fronteras y al embarcar. Algunas rutas aceptan un documento nacional de identidad —por ejemplo, para [ciudadanos de la UE que viajan dentro de la UE](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm)—, pero nunca una copia.
 - Las copias digitales **no tienen validez legal como documentos de viaje**. Son solo documentación complementaria.
-- Las solicitudes de visa piden **formatos específicos**. Algunas requieren copias certificadas o legitimadas ante notario; otras —como muchos visados electrónicos— aceptan un escaneo nítido de la página de datos, y a menudo rechazan una foto informal hecha con el móvil. Consulta primero el sitio web de la embajada.
+- Las solicitudes de visa piden **formatos específicos**. Algunas requieren copias certificadas o legitimadas ante notario; otras —como [muchos visados electrónicos](https://indianvisaonline.gov.in/evisa/tvoa.html)— aceptan un escaneo nítido de la página de datos, y a menudo rechazan una foto informal hecha con el móvil. Consulta primero el sitio web de la embajada.
 - Si tu pasaporte se pierde en el extranjero, una **copia de la página de datos puede ayudar** a tu embajada a confirmar tus datos cuando solicites un reemplazo.
 
 Cuando planificas un viaje, muchos viajeros se preguntan si pueden guardar una copia digital de su pasaporte en el teléfono en lugar de llevar el original. Necesitas saber exactamente dónde funciona y dónde no, para no quedar atrapado en el check-in.
@@ -22,11 +22,11 @@ La respuesta corta: una copia digital es genuinamente útil, pero solo en situac
 
 ## Una copia digital es una foto de tu pasaporte, no un pasaporte digital
 
-Una copia digital de un pasaporte es **un escaneo o foto de móvil de su página de identificación**, la página con tu foto, nombre, fecha de nacimiento, número de pasaporte y fecha de caducidad. Registra tus datos sin sustituir al documento. El gobierno de Canadá lo deja claro en sus consejos de viaje: las copias pueden ayudar si pierdes o te roban los documentos, pero no sirven como identificación, y aun así necesitas solicitar un pasaporte nuevo si pierdes el tuyo.
+Una copia digital de un pasaporte es **un escaneo o foto de móvil de su página de identificación**, la página con tu foto, nombre, fecha de nacimiento, número de pasaporte y fecha de caducidad. Registra tus datos sin sustituir al documento. [El gobierno de Canadá](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings) lo deja claro en sus consejos de viaje: las copias pueden ayudar si pierdes o te roban los documentos, pero no sirven como identificación, y aun así necesitas solicitar un pasaporte nuevo si pierdes el tuyo.
 
-Hacer una lleva un par de minutos. Abre el pasaporte en una superficie plana con buena luz, fotografía o escanea la página de identificación para que toda la página quede nítida, y luego haz zoom para comprobar que se lee cada detalle. Haz lo mismo con cualquier visado con el que vayas a viajar. La lista de comprobación de viajes al extranjero del Reino Unido recomienda una copia de seguridad de los datos de tu pasaporte que compartas con tu familia o guardes en una plataforma segura de almacenamiento de datos.
+Hacer una lleva un par de minutos. Abre el pasaporte en una superficie plana con buena luz, fotografía o escanea la página de identificación para que toda la página quede nítida, y luego haz zoom para comprobar que se lee cada detalle. Haz lo mismo con cualquier visado con el que vayas a viajar. [La lista de comprobación de viajes al extranjero del Reino Unido](https://www.gov.uk/guidance/foreign-travel-checklist) recomienda una copia de seguridad de los datos de tu pasaporte que compartas con tu familia o guardes en una plataforma segura de almacenamiento de datos.
 
-Una copia tampoco es lo mismo que las identidades digitales que ya aceptan algunos gobiernos. En Estados Unidos, la Transportation Security Administration permite a los titulares de pasaporte estadounidense configurar un pase de identidad en Google Wallet para sus controles aeroportuarios, pero aun así indica que todos los pasajeros deben llevar una identificación física válida. Una foto en tu carrete es una copia de seguridad de tus datos, y así es exactamente como hay que tratarla.
+Una copia tampoco es lo mismo que las identidades digitales que ya aceptan algunos gobiernos. En Estados Unidos, la [Transportation Security Administration](https://www.tsa.gov/digital-id) permite a los titulares de pasaporte estadounidense configurar un pase de identidad en Google Wallet para sus controles aeroportuarios, pero aun así indica que todos los pasajeros deben llevar una identificación física válida. Una foto en tu carrete es una copia de seguridad de tus datos, y así es exactamente como hay que tratarla.
 
 ## Dónde Se Aceptan las Copias Digitales del Pasaporte
 
@@ -44,7 +44,7 @@ Las empresas de alquiler de coches a menudo aceptan copias digitales del pasapor
 
 ### Si pierdes el pasaporte, la copia acelera los trámites
 
-Si tu pasaporte se pierde o es robado mientras viajas, una copia de la página de datos puede ayudar a tu embajada o consulado a confirmar tus datos al solicitar un reemplazo. Aun así, tienes que solicitar un pasaporte nuevo o un documento de viaje de emergencia. Esta es una de las razones más sólidas para llevar siempre una copia de seguridad digital.
+Si tu pasaporte se pierde o es robado mientras viajas, una copia de la página de datos puede ayudar a tu embajada o consulado a confirmar tus datos al solicitar un reemplazo. Aun así, tienes que solicitar un pasaporte nuevo o [un documento de viaje de emergencia](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport). Esta es una de las razones más sólidas para llevar siempre una copia de seguridad digital.
 
 ![Diagrama de dónde funciona una copia digital del pasaporte: normalmente vale para el check-in de hotel, la reserva de vuelo y el alquiler de coches; se exige el original en el control de fronteras y para el embarque en el avión](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-where-es.jpg) La versión corta: una copia abre puertas, solo el original cruza fronteras.
 
@@ -89,7 +89,7 @@ Si todavía no tienes una, escanea hoy la página de la foto de tu pasaporte, an
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 
-Fuentes que hemos comprobado (6 de noviembre de 2026)
+Fuentes oficiales
 
 - [Government of Canada: Lost or stolen belongings abroad](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings)
 - [UK Government: Foreign travel checklist](https://www.gov.uk/guidance/foreign-travel-checklist)

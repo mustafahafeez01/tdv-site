@@ -22,7 +22,7 @@ Nada de eso es motivo para esperar. Es motivo para elegir unas semanas tranquila
 
 ## No hay un plazo de espera oficial antes de poder renovar
 
-HM Passport Office vincula la renovación a dos motivos: que el pasaporte haya caducado o que no le quede suficiente validez para el destino al que viajas. Su guía de renovación no fija ninguna fecha mínima, y explica que la validez que necesitas depende del país que visitas. USAGov recomienda a los estadounidenses renovar con antelación, porque los plazos de tramitación varían y algunos países y aerolíneas deniegan la entrada cuando al pasaporte le quedan menos de seis meses de validez.
+HM Passport Office vincula la renovación a dos motivos: que el pasaporte haya caducado o que no le quede suficiente validez para el destino al que viajas. Su [guía de renovación](https://www.gov.uk/renew-adult-passport/renew) no fija ninguna fecha mínima, y explica que la validez que necesitas depende del país que visitas. [USAGov](https://www.usa.gov/renew-adult-passport) recomienda a los estadounidenses renovar con antelación, porque los plazos de tramitación varían y algunos países y aerolíneas deniegan la entrada cuando al pasaporte le quedan menos de seis meses de validez.
 
 Canadá marca un límite, y hasta ese límite es flexible. El Gobierno de Canadá indica que, si solicitas la renovación con más de un año de antelación a la caducidad, te pedirá un motivo, y una solicitud por correo postal necesita una explicación por escrito. Su servicio de renovación en línea es todavía más restringido: solo está disponible cuando al pasaporte le quedan seis meses de validez o menos, o ya ha caducado.
 
@@ -30,13 +30,13 @@ Si eres estadounidense, hay un límite que conviene conocer en el otro extremo: 
 
 ## Renovar con antelación en el Reino Unido significa devolver los meses que te quedaban
 
-Este es el coste real de renovar con antelación, y es menor de lo que parece. La guía histórica de HM Passport Office explica que, entre noviembre de 2004 y octubre de 2018, quien renovaba antes de la caducidad podía recibir hasta nueve meses sin usar añadidos al pasaporte nuevo. Desde octubre de 2018 eso ya no ocurre, así que el tiempo que le quedaba al pasaporte antiguo simplemente se pierde.
+Este es el coste real de renovar con antelación, y es menor de lo que parece. La [guía histórica](https://www.gov.uk/government/publications/historic-passport-information-caseworker-guidance/historic-passport-information-accessible) de HM Passport Office explica que, entre noviembre de 2004 y octubre de 2018, quien renovaba antes de la caducidad podía recibir hasta nueve meses sin usar añadidos al pasaporte nuevo. Desde octubre de 2018 eso ya no ocurre, así que el tiempo que le quedaba al pasaporte antiguo simplemente se pierde.
 
 Si solicitas la renovación nueve meses antes, cambias esos nueve meses por un pasaporte del que no tendrás que preocuparte durante una década. Nosotros haríamos ese cambio siempre, porque la alternativa es renovar contrarreloj con un viaje ya marcado en el calendario.
 
-La antigua norma de los meses extra dejó una trampa pendiente. El consejo de viaje de GOV.UK para España advierte de que un pasaporte renovado antes de octubre de 2018 puede tener una fecha de expedición de hace más de diez años.
+La antigua norma de los meses extra dejó una trampa pendiente. El [consejo de viaje de GOV.UK para España](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements) advierte de que un pasaporte renovado antes de octubre de 2018 puede tener una fecha de expedición de hace más de diez años.
 
-Eso importa porque la guía Your Europe de la UE indica que un pasaporte usado para entrar en el espacio Schengen debe haberse expedido en los últimos diez años. También tiene que seguir siendo válido al menos tres meses después de la fecha en que sales. Un pasaporte que parece correcto por su fecha de caducidad puede, aun así, quedarse corto en Europa. Si el tuyo se expidió bajo la norma antigua, comprueba la fecha de expedición además de la de caducidad, y nuestra guía sobre [cuánto tiempo es válido un pasaporte para viajar](https://traveldocumentvault.com/es/blog/how-long-is-passport-valid-for-travel/) repasa ambas.
+Eso importa porque la [guía Your Europe](https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm) de la UE indica que un pasaporte usado para entrar en el espacio Schengen debe haberse expedido en los últimos diez años. También tiene que seguir siendo válido al menos tres meses después de la fecha en que sales. Un pasaporte que parece correcto por su fecha de caducidad puede, aun así, quedarse corto en Europa. Si el tuyo se expidió bajo la norma antigua, comprueba la fecha de expedición además de la de caducidad, y nuestra guía sobre [cuánto tiempo es válido un pasaporte para viajar](https://traveldocumentvault.com/es/blog/how-long-is-passport-valid-for-travel/) repasa ambas.
 
 ## Tu pasaporte antiguo deja de ser válido en cuanto se autoriza el nuevo
 
@@ -52,8 +52,8 @@ Toda renovación trae un número nuevo. HM Passport Office añade a ese dato su 
 
 Todo lo que ya esté vinculado al número antiguo merece una revisión antes de tu próximo viaje:
 
-- **El ESTA estadounidense** hay que solicitarlo de nuevo. US Customs and Border Protection indica que se exige un ESTA nuevo cuando al viajero se le expide un pasaporte nuevo.
-- GOV.UK indica que **la ETA del Reino Unido** queda vinculada al pasaporte con el que la solicitaste y dura dos años o hasta que ese pasaporte caduque, lo que ocurra antes. Comprueba en qué situación está la tuya antes de volar con el pasaporte nuevo, y nuestra guía sobre [a qué pasaporte está vinculada una ETA del Reino Unido](https://traveldocumentvault.com/es/blog/uk-eta-passport-rules/) cubre los detalles.
+- **El ESTA estadounidense** hay que solicitarlo de nuevo. [US Customs and Border Protection](https://www.cbp.gov/travel/international-visitors/esta/frequently-asked-questions-about-visa-waiver-program-vwp-and-electronic-system-travel) indica que se exige un ESTA nuevo cuando al viajero se le expide un pasaporte nuevo.
+- [GOV.UK](https://www.gov.uk/eta/apply) indica que **la ETA del Reino Unido** queda vinculada al pasaporte con el que la solicitaste y dura dos años o hasta que ese pasaporte caduque, lo que ocurra antes. Comprueba en qué situación está la tuya antes de volar con el pasaporte nuevo, y nuestra guía sobre [a qué pasaporte está vinculada una ETA del Reino Unido](https://traveldocumentvault.com/es/blog/uk-eta-passport-rules/) cubre los detalles.
 - Para **un visado en el pasaporte antiguo**, la respuesta habitual es llevar los dos. Un visado en tu pasaporte antiguo por lo general sigue siendo válido, así que lleva ambos pasaportes y consulta la guía oficial del país que lo expidió.
 - **Los vuelos y hoteles** reservados con los datos del pasaporte antiguo pueden necesitar que añadas el número nuevo, algo sencillo desde casa e incómodo en el mostrador de facturación.
 
@@ -65,13 +65,13 @@ Nuestra opinión es sencilla: empieza a pensar en la renovación cuando al pasap
 
 La otra mitad consiste en elegir el momento dentro de esa ventana. Busca unas semanas sin nada reservado, ya que el pasaporte antiguo se envía junto con la solicitud y el nuevo vuelve con un número distinto.
 
-HM Passport Office dice que normalmente recibirás el pasaporte en tres semanas, más tiempo si se necesita más información o una entrevista, y el plazo empieza a contar cuando recibe tus documentos. En Canadá, la renovación en línea puede tardar hasta 20 días hábiles, más el envío postal. Sobre qué suele retrasar una solicitud, nuestra guía sobre [cuánto tarda la renovación del pasaporte](https://traveldocumentvault.com/es/blog/how-long-does-passport-renewal-take/) tiene el detalle.
+[HM Passport Office](https://www.gov.uk/government/organisations/hm-passport-office/about/about-our-services) dice que normalmente recibirás el pasaporte en tres semanas, más tiempo si se necesita más información o una entrevista, y el plazo empieza a contar cuando recibe tus documentos. En Canadá, la renovación en línea puede tardar hasta 20 días hábiles, más el envío postal. Sobre qué suele retrasar una solicitud, nuestra guía sobre [cuánto tarda la renovación del pasaporte](https://traveldocumentvault.com/es/blog/how-long-does-passport-renewal-take/) tiene el detalle.
 
 Si tenéis un viaje familiar a la vista, revisad a la vez todos los pasaportes de la casa. En el Reino Unido, HM Passport Office expide los pasaportes infantiles por cinco años en lugar de diez, así que el que antes necesita renovarse no siempre es el que esperarías. Si alguien viaja a un destino que pide validez adicional a la llegada, consulta nuestra guía sobre [la regla de los 6 meses del pasaporte](https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/) para ver cómo cambia tu fecha.
 
 **Antes de confiar en esto:** es un blog, no una fuente oficial. Las normas y los detalles cambian, y tu situación puede ser distinta. Comprobamos lo que publicamos, pero aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad que se encarga del asunto antes de actuar.
 
-Fuentes que hemos comprobado (6 de noviembre de 2026)
+Fuentes oficiales
 
 - [USAGov: Renew an adult passport](https://www.usa.gov/renew-adult-passport)
 - [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)

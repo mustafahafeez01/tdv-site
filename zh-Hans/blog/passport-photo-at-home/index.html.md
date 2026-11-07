@@ -24,7 +24,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/passport-photo-at-home/
 
 ### 背景和构图
 
-您需要一个纯色浅色背景，具体色调取决于您所在的机构：GOV.UK要求纯色奶油色或浅灰色，而加拿大政府则要求纯白色或浅色。不能有图案、阴影、模糊的背景或鲜艳的颜色。理由很简单：官员需要清晰、整洁的脸部视图，以便与未来的文件进行比较。请使用符合您机构要求色调的纯色床单或海报板（英国为奶油色或浅灰色），或者甚至将墙的一部分涂成该色调。关键是保持全程明亮和均匀。
+您需要一个纯色浅色背景，具体色调取决于您所在的机构：[GOV.UK](https://www.gov.uk/photos-for-passports)要求纯色奶油色或浅灰色，而[加拿大政府](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/photos.html)则要求纯白色或浅色。不能有图案、阴影、模糊的背景或鲜艳的颜色。理由很简单：官员需要清晰、整洁的脸部视图，以便与未来的文件进行比较。请使用符合您机构要求色调的纯色床单或海报板（英国为奶油色或浅灰色），或者甚至将墙的一部分涂成该色调。关键是保持全程明亮和均匀。
 
 ### 表情和姿态
 
@@ -125,7 +125,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/passport-photo-at-home/
 
 **在依据本文行动之前：**这是一个博客，不是官方来源。规则和细节会变化，你的情况也可能不同。我们会核对所发布的内容，但仍可能出错或过时。如果这里的内容对你的安排很重要，请在行动前向主管机构核实。
 
-我们核对过的资料来源（2026年11月6日）
+官方资料来源
 
 - [UK Government: Get a passport photo, Digital photos](https://www.gov.uk/photos-for-passports)
 - [Government of Canada: Passport photo requirements](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/photos.html)

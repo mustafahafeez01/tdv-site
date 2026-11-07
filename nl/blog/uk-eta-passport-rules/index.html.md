@@ -22,7 +22,7 @@ Dit is in de kern een probleem van documenten bijhouden. Je hebt twee vervaldata
 
 ## De meeste visumvrije bezoekers hebben nu een ETA nodig
 
-Ben je onderdaan van de VS, Canada, Australië, Nieuw-Zeeland, of een land in de EU of de Europese Economische Ruimte, dan heb je waarschijnlijk een UK ETA nodig. De regeling werd vanaf 25 februari 2026 gehandhaafd voor de meeste visumvrije nationaliteiten.
+Ben je onderdaan van de VS, Canada, Australië, Nieuw-Zeeland, of een land in de EU of de Europese Economische Ruimte, dan heb je [waarschijnlijk een UK ETA nodig](https://www.gov.uk/eta). De regeling werd [vanaf 25 februari 2026 gehandhaafd](https://www.gov.uk/government/news/no-permission-no-travel-uk-set-to-enforce-eta-scheme) voor de meeste visumvrije nationaliteiten.
 
 Sommige mensen zijn vrijgesteld: Ierse burgers hebben er geen nodig, en wie al een immigratiestatus in het VK heeft – een visum, settled status, of indefinite leave to remain – hoeft ook niet aan te vragen. Mensen met een dubbele nationaliteit, mensen met rechten onder de Common Travel Area, en een paar andere groepen kennen andere regels afhankelijk van hoe ze reizen.
 
@@ -30,7 +30,7 @@ Sommige mensen zijn vrijgesteld: Ierse burgers hebben er geen nodig, en wie al e
 
 ## De ETA is gekoppeld aan je paspoortnummer, niet aan jou
 
-Je UK ETA is gekoppeld aan je paspoortnummer, niet aan jou als persoon. Bij je aanvraag koppelt de Home Office de goedkeuring aan een specifiek paspoortnummer. Reizen met een ander paspoort – een net vernieuwd exemplaar, een tweede paspoort, een nooddocument – betekent reizen met een ETA die niet aan dat document gekoppeld is.
+Je UK ETA is [gekoppeld aan je paspoortnummer](https://www.gov.uk/check-eta), niet aan jou als persoon. Bij je aanvraag koppelt de Home Office de goedkeuring aan een specifiek paspoortnummer. Reizen met een ander paspoort – een net vernieuwd exemplaar, een tweede paspoort, een nooddocument – betekent reizen met een ETA die niet aan dat document gekoppeld is.
 
 Een UK ETA is digitaal en paspoortspecifiek, dus een nieuw paspoortnummer betekent dat er een nieuwe ETA nodig is.
 
@@ -89,11 +89,11 @@ Een ETA is ook geen visum – die bepaalt niet hoe lang je mag blijven. ETA-houd
 
 Een UK ETA is een van de verschillende digitale reistoestemmingen die nu in gebruik zijn. Reis je door meerdere landen, dan is het goed om het verschil te kennen tussen een ETA en een [visum](https://traveldocumentvault.com/nl/blog/visa-vs-passport/). Het proces lijkt op elkaar, maar ze dienen een ander doel.
 
-De EU plant een eigen digitale reistoestemming, [ETIAS](https://traveldocumentvault.com/nl/blog/etias-documents-2026/), die nog niet in werking is. Qua opzet is die vergelijkbaar met de UK ETA, maar met andere regels en vereisten. Zodra ETIAS start, kan een reis langs zowel het VK als het Schengengebied beide nodig maken.
+De EU plant een eigen digitale reistoestemming, [ETIAS](https://traveldocumentvault.com/nl/blog/etias-documents-2026/), die [nog niet in werking is](https://travel-europe.europa.eu/en/etias). Qua opzet is die vergelijkbaar met de UK ETA, maar met andere regels en vereisten. Zodra ETIAS start, kan een reis langs zowel het VK als het Schengengebied beide nodig maken.
 
 Heb je al een reis geboekt, doe dan vandaag dit: vergelijk de vervaldatum van je paspoort met je reisdata, en controleer of je huidige ETA gekoppeld is aan het paspoort waarmee je daadwerkelijk gaat reizen. Schiet een van beide tekort, begin dan nu met de vernieuwing of de nieuwe aanvraag, niet pas in de week voor je vertrek.
 
-Bronnen die we hebben gecontroleerd (6 november 2026)
+Officiële bronnen
 
 - [UK Government: Get an electronic travel authorisation (ETA) to visit the UK](https://www.gov.uk/eta)
 - [UK Government: Check your electronic travel authorisation (ETA)](https://www.gov.uk/check-eta)

@@ -33,7 +33,7 @@ Surat biasanya diperlukan dalam situasi berikut:
 - **Anak bepergian dengan orang tua yang nama belakangnya berbeda dari anak.** Ini menimbulkan kecurigaan di sebagian perbatasan, terutama untuk anak yang lebih muda.
 - **Anak diadopsi atau dalam pengasuhan.** Dokumen perwalian dan persetujuan hukum mungkin diperlukan selain surat izin.
 
-**Catatan penting:** aturan sangat berbeda-beda. Kanada secara hukum tidak mewajibkan surat izin, tetapi Pemerintah Kanada sangat menganjurkannya dan mencatat bahwa "kegagalan menunjukkan surat saat diminta dapat mengakibatkan penundaan atau penolakan masuk atau keluar dari suatu negara". Afrika Selatan meminta surat pernyataan persetujuan orang tua jika salah satu orang tua tidak ikut bepergian. Sebagian negara hanya menerapkan persyaratan pada anak di bawah usia tertentu. Tidak ada standar global.
+**Catatan penting:** aturan sangat berbeda-beda. Kanada secara hukum tidak mewajibkan surat izin, tetapi [Pemerintah Kanada](https://travel.gc.ca/travelling/children/consent-letter) sangat menganjurkannya dan mencatat bahwa "kegagalan menunjukkan surat saat diminta dapat mengakibatkan penundaan atau penolakan masuk atau keluar dari suatu negara". Afrika Selatan meminta surat pernyataan persetujuan orang tua jika salah satu orang tua tidak ikut bepergian. Sebagian negara hanya menerapkan persyaratan pada anak di bawah usia tertentu. Tidak ada standar global.
 
 Selalu verifikasi persyaratan langsung dengan otoritas imigrasi untuk negara tujuan spesifik Anda sebelum bepergian. Gunakan IATA Travel Centre untuk memeriksa persyaratan masuk, atau hubungi kedutaan negara tujuan Anda. Jika ragu, memiliki surat izin lebih baik daripada alternatifnya: tertahan di check-in atau perbatasan.
 
@@ -61,8 +61,8 @@ Jika surat dengan tanda tangan yang disaksikan diminta atau dianjurkan, biasanya
 
 Panduan beberapa negara tentang notarisasi:
 
-- **Kanada.** Surat izin secara hukum tidak diwajibkan, tetapi Pemerintah Kanada sangat menganjurkannya dan merekomendasikan notaris menyaksikan tanda tangan. Petugas perbatasan dan maskapai dapat memintanya saat masuk atau keluar.
-- **Afrika Selatan.** Jika salah satu orang tua tidak ikut bepergian, Department of Home Affairs meminta surat pernyataan persetujuan orang tua yang usianya tidak lebih dari 4 bulan saat ditunjukkan. Periksa halaman Home Affairs terbaru.
+- **Kanada.** Surat izin secara hukum tidak diwajibkan, tetapi [Pemerintah Kanada](https://travel.gc.ca/travelling/children/documents) sangat menganjurkannya dan merekomendasikan notaris menyaksikan tanda tangan. Petugas perbatasan dan maskapai dapat memintanya saat masuk atau keluar.
+- **Afrika Selatan.** Jika salah satu orang tua tidak ikut bepergian, [Department of Home Affairs](https://www.gov.za/news/speeches/director-general-mkuseli-apleni-media-briefing-new-requirements-travelling-children) meminta surat pernyataan persetujuan orang tua yang usianya tidak lebih dari 4 bulan saat ditunjukkan. Periksa halaman Home Affairs terbaru.
 - **Australia.** Smartraveller menerbitkan panduan bepergian dengan anak, dan maskapai mungkin meminta surat izin. Periksa panduan untuk negara keberangkatan dan tujuan Anda.
 - **Inggris Raya.** Secara hukum tidak diwajibkan untuk keberangkatan, tetapi maskapai dan petugas perbatasan tujuan dapat memintanya ketika anak bepergian dengan satu orang tua atau dengan orang dewasa yang bukan orang tua. Periksa panduan GOV.UK untuk rute Anda.
 - **Amerika Serikat.** Tidak diwajibkan secara federal tetapi direkomendasikan. Sebagian negara bagian secara eksplisit mengakui notarisasi.
@@ -92,7 +92,7 @@ Bahkan keluarga yang sudah siap dengan baik pun membuat kesalahan yang menyebabk
 | **Inggris Raya** | Tidak wajib secara hukum; maskapai dan perbatasan tujuan dapat memintanya | Periksa panduan terbaru | GOV.UK |
 | **Amerika Serikat** | Tidak diwajibkan secara federal; berbeda tiap negara bagian | Periksa panduan terbaru | travel.state.gov |
 | **Uni Eropa** | Berbeda tiap negara | Berbeda tiap negara | IATA Travel Centre |
-| **Selandia Baru** | Dianjurkan | Biasanya ditandatangani orang tua dan disaksikan pejabat publik | SafeTravel (Pemerintah Selandia Baru) |
+| **Selandia Baru** | Dianjurkan | Biasanya ditandatangani orang tua dan disaksikan pejabat publik | [SafeTravel](https://www.safetravel.govt.nz/before-you-go/who-is-travelling/travelling-with-children) (Pemerintah Selandia Baru) |
 
 Anggap tabel ini sebagai titik awal, bukan keputusan akhir. Aturan sering berubah, dan otoritas imigrasi negara tujuan itu sendiri adalah sumber Anda yang paling dapat diandalkan. Blog perjalanan dan halaman maskapai berguna untuk konteks, tetapi bisa saja tertinggal dari persyaratan terbaru.
 
@@ -125,7 +125,7 @@ Periksa daftar ini sebelum Anda meninggalkan rumah, bukan di meja check-in, kare
 
 **Sebelum Anda mengandalkan ini:** ini adalah blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 
-Sumber yang kami periksa (6 November 2026)
+Sumber resmi
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [NZ SafeTravel: Travelling with children](https://www.safetravel.govt.nz/before-you-go/who-is-travelling/travelling-with-children)

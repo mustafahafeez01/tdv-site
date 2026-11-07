@@ -28,7 +28,7 @@ Deux systèmes se vendent tous deux comme « sauvegarde chiffrée », et pourtan
 
 Le premier envoie le fichier vers le serveur de l'entreprise via une connexion chiffrée, puis le stocke chiffré au repos. Ces deux affirmations sont vraies, et toutes deux paraissent rassurantes. Mais l'entreprise détient toujours la clé, elle a donc techniquement la possibilité de déchiffrer vos documents, que ce soit pour une fonctionnalité, une demande légale ou à la suite d'une erreur interne. Votre scan de passeport est lisible à l'autre bout.
 
-Le second système brouille le fichier sur votre téléphone avant qu'il n'aille où que ce soit, à l'aide d'une clé dérivée de quelque chose que vous seul possédez. Ce qui arrive dans le stockage est un bloc de bruit, et personne à l'autre bout ne peut le lire, parce que personne à l'autre bout ne détient la clé. On décrit souvent cela comme le chiffrement de bout en bout, ou « zero-knowledge ».
+Le second système brouille le fichier sur votre téléphone avant qu'il n'aille où que ce soit, à l'aide d'une clé dérivée de quelque chose que vous seul possédez. Ce qui arrive dans le stockage est un bloc de bruit, et personne à l'autre bout ne peut le lire, parce que personne à l'autre bout ne détient la clé. On décrit souvent cela comme le [chiffrement de bout en bout](https://csrc.nist.gov/glossary/term/end_to_end_encryption), ou « zero-knowledge ».
 
 La question à poser à n'importe quelle application tient donc en peu de mots : **qui détient la clé ?** Tout le reste du discours marketing en découle.
 
@@ -108,7 +108,7 @@ Rien de tout cela n'est spectaculaire, et c'est bien l'idée. Les familles qui s
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
-Sources vérifiées (6 novembre 2026)
+Sources officielles
 
 - [NIST: end-to-end encryption glossary entry](https://csrc.nist.gov/glossary/term/end_to_end_encryption)
 

@@ -33,7 +33,7 @@ Una carta se requiere comúnmente en estas situaciones:
 - **Un menor viaja con un progenitor cuyo apellido difiere del del menor.** Esto levanta sospechas en algunas fronteras, particularmente en menores más jóvenes.
 - **Un menor es adoptado o en acogimiento temporal.** Necesitarás documentos de tutela legal junto con la carta de consentimiento.
 
-**Atención:** Las normas varían mucho según el país. Canadá no la exige por ley, pero el Gobierno canadiense la recomienda firmemente y advierte que "no presentar una carta cuando te la soliciten puede causar retrasos o que no te permitan entrar o salir de un país". Sudáfrica pide una declaración jurada de consentimiento parental cuando uno de los progenitores no viaja. Algunos países aplican requisitos solo a menores de cierta edad. No hay un estándar global.
+**Atención:** Las normas varían mucho según el país. Canadá no la exige por ley, pero el [Gobierno canadiense](https://travel.gc.ca/travelling/children/consent-letter) la recomienda firmemente y advierte que "no presentar una carta cuando te la soliciten puede causar retrasos o que no te permitan entrar o salir de un país". Sudáfrica pide una declaración jurada de consentimiento parental cuando uno de los progenitores no viaja. Algunos países aplican requisitos solo a menores de cierta edad. No hay un estándar global.
 
 Siempre verifica los requisitos directamente con la autoridad de inmigración de tu país de destino específico antes de viajar. Usa el IATA Travel Centre para verificar requisitos de entrada, o contacta a la embajada de tu país de destino. Si tienes dudas, tener la carta es mejor que la alternativa: ser detenido en el mostrador o la frontera.
 
@@ -61,8 +61,8 @@ Cuando se pide o recomienda una carta con firma ante testigo, suele significar q
 
 Esto es lo que dicen algunos países sobre la autenticación notarial:
 
-- **Canadá.** No es obligatoria por ley, pero el Gobierno canadiense la recomienda firmemente y sugiere que un notario público vea cómo firmas. Las aerolíneas y frontera pueden pedirla.
-- **Sudáfrica.** El Department of Home Affairs pide una declaración jurada de consentimiento parental cuando uno de los progenitores no viaja y señala que no debe tener más de 4 meses al presentarla. Consulta su página actualizada.
+- **Canadá.** No es obligatoria por ley, pero el [Gobierno canadiense](https://travel.gc.ca/travelling/children/documents) la recomienda firmemente y sugiere que un notario público vea cómo firmas. Las aerolíneas y frontera pueden pedirla.
+- **Sudáfrica.** El [Department of Home Affairs](https://www.gov.za/news/speeches/director-general-mkuseli-apleni-media-briefing-new-requirements-travelling-children) pide una declaración jurada de consentimiento parental cuando uno de los progenitores no viaja y señala que no debe tener más de 4 meses al presentarla. Consulta su página actualizada.
 - **Australia.** Smartraveller publica orientación sobre viajes con menores, y las aerolíneas pueden pedir una carta. Consulta las indicaciones para el país del que sales y aquel al que entras.
 - **Reino Unido.** No es obligatoria para viajes de salida, pero las aerolíneas y destinos pueden pedirla cuando un menor viaja con un solo progenitor o con un adulto que no es padre/madre. Consulta la orientación de GOV.UK para tu ruta.
 - **Estados Unidos.** No es obligatorio federalmente pero recomendado. Algunos estados aceptan legalización notarial.
@@ -92,7 +92,7 @@ Incluso familias bien preparadas cometen errores que llevan al rechazo en la fro
 | **Reino Unido** | No legalmente requerida; las aerolíneas y fronteras de destino pueden solicitar | Consulta la orientación actualizada | GOV.UK |
 | **Estados Unidos** | No requerida federalmente; varía por estado | Consulta la orientación actualizada | travel.state.gov |
 | **Unión Europea** | Varía por país | Varía por país | IATA Travel Centre |
-| **Nueva Zelanda** | Recomendada | Suele ir firmada por los progenitores y ante un funcionario público | SafeTravel (Gobierno de Nueva Zelanda) |
+| **Nueva Zelanda** | Recomendada | Suele ir firmada por los progenitores y ante un funcionario público | [SafeTravel](https://www.safetravel.govt.nz/before-you-go/who-is-travelling/travelling-with-children) (Gobierno de Nueva Zelanda) |
 
 Toma esta tabla como punto de partida, no como la última palabra. Las normas cambian frecuentemente, y la propia autoridad de inmigración del destino es tu fuente más confiable. Los blogs de viaje y páginas de aerolíneas son útiles para contexto, pero pueden quedar atrás de los requisitos más recientes.
 
@@ -125,7 +125,7 @@ Repasa esta lista antes de salir de casa, no en el mostrador de facturación, po
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 
-Fuentes que hemos comprobado (6 de noviembre de 2026)
+Fuentes oficiales
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [NZ SafeTravel: Travelling with children](https://www.safetravel.govt.nz/before-you-go/who-is-travelling/travelling-with-children)

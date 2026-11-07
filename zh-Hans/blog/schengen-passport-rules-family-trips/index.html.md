@@ -22,7 +22,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/schengen-passport-rules-fam
 
 ## 真正的申根规则：离开时需要3个月有效期
 
-欧盟的要求非常明确：你的护照必须在你打算离开申根区的日期之后至少还有3个月的有效期，而且必须在过去10年内签发。
+欧盟的要求非常明确：[你的护照必须在你打算离开申根区的日期之后至少还有3个月的有效期](https://www.gov.uk/foreign-travel-advice/france/entry-requirements)，而且必须在过去10年内签发。
 
 假设你的家庭于8月20日从意大利返回。每本护照需要至少到11月20日都有效，也就是说，离开日期之后的三个月，而不是到达日期，也不是预订日期。一本在11月10日失效的护照无法通过这个测试，即使假期本身在数周前就结束了。
 
@@ -30,7 +30,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/schengen-passport-rules-fam
 
 ## 为什么这不是6个月规则
 
-大多数旅行者会认为护照需要六个月的有效期才能去任何地方。这个规则是真实的，泰国要求6个月的有效期，许多其他国家也使用类似的规则。但申根不要求。欧洲要求离开后的三个月，这更宽松，但这两个规则却被混在了一起，变成了一个模糊的"从某处开始的6个月"，既产生了错误的警报，也产生了错误的信心。
+大多数旅行者会认为护照需要六个月的有效期才能去任何地方。这个规则是真实的，[泰国要求6个月的有效期](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)，许多其他国家也使用类似的规则。但申根不要求。欧洲要求离开后的三个月，这更宽松，但这两个规则却被混在了一起，变成了一个模糊的"从某处开始的6个月"，既产生了错误的警报，也产生了错误的信心。
 
 我们的[6个月规则指南](https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rule/)涵盖了哪些国家实际执行它。我们的[护照有效期解释器](https://traveldocumentvault.com/zh-Hans/blog/how-long-is-passport-valid-for-travel/)处理一般情况。我们在这里坚持申根，因为这是家庭最容易在数学上出错的地方。
 
@@ -38,7 +38,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/schengen-passport-rules-fam
 
 ## 儿童护照的有效期更短
 
-英国成人护照有效期为10年，而英国为儿童颁发的护照只有5年。这种不对称的设置是许多其他精心计划的事情出问题的地方。
+[英国成人护照有效期为10年](https://www.gov.uk/apply-first-adult-passport)，而[英国为儿童颁发的护照只有5年](https://www.gov.uk/get-a-child-passport)。这种不对称的设置是许多其他精心计划的事情出问题的地方。
 
 | 国家 | 儿童护照 | 有效期 |
 |---|---|---|
@@ -60,13 +60,13 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/schengen-passport-rules-fam
 
 解决方法很简单，只需几分钟。在预订当天，收集家庭中的每本护照，记下每本护照的失效日期和签发日期。然后为每一本护照提出两个问题：它在你返回后三个月还能有效吗，它是在不超过10年前签发的吗？任何不符合任一条件的护照都应该在那一周进入续签队列。此时，你仍然可以续签、改变行程或在不受处罚的情况下改变日期，而我们总是会选择续签，而不是观望日期会不会变。
 
-儿童需要与成人相同的缓冲。儿童对有效期规则没有例外，五岁儿童的护照会得到与你相同的Timatic处理。英国和爱尔兰之旅有一个特殊情况：爱尔兰根本不在申根区。英国-爱尔兰旅行在单独的共同旅行区下运作，所以不要从都柏林旅行推断到巴黎旅行。
+儿童需要与成人相同的缓冲。儿童对有效期规则没有例外，五岁儿童的护照会得到与你相同的Timatic处理。英国和爱尔兰之旅有一个特殊情况：爱尔兰根本不在申根区。英国-爱尔兰旅行在[单独的共同旅行区](https://www.gov.uk/foreign-travel-advice/ireland/entry-requirements)下运作，所以不要从都柏林旅行推断到巴黎旅行。
 
 这一切都不需要应用程序。电子表格对很多家庭很有帮助，每半年的日历提醒处理大部分工作。唯一不可协商的：在预订时进行审计，当短护照仍然是一个小差事时，而不是紧急情况。
 
 **在依据本文行动之前：**这是一个博客，不是官方来源。规则和细节会变化，你的情况也可能不同。我们会核对所发布的内容，但仍可能出错或过时。如果这里的内容对你的安排很重要，请在行动前向主管机构核实。
 
-我们核对过的资料来源（2026年11月6日）
+官方资料来源
 
 - [UK Foreign Office: France entry requirements](https://www.gov.uk/foreign-travel-advice/france/entry-requirements)
 - [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
@@ -80,7 +80,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/schengen-passport-rules-fam
 
 ### 6个月规则和申根的3个月规则有什么区别？
 
-这两个是针对不同目的地的不同规则。泰国和印度尼西亚等国家通常要求护照还有6个月的有效期。申根要求护照在你离开后还有3个月的有效期，同时护照必须在过去10年内签发。曾去过东南亚的家庭往往会假设6个月的要求适用于所有地方，但实际上并不是这样。
+这两个是针对不同目的地的不同规则。泰国和[印度尼西亚](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements)等国家通常要求护照还有6个月的有效期。申根要求护照在你离开后还有3个月的有效期，同时护照必须在过去10年内签发。曾去过东南亚的家庭往往会假设6个月的要求适用于所有地方，但实际上并不是这样。
 
 ### 儿童需要遵守不同的申根护照规则吗？
 

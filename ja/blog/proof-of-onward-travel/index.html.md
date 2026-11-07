@@ -40,7 +40,7 @@ Source: https://traveldocumentvault.com/ja/blog/proof-of-onward-travel/
 
 航空会社が知りたいのは、到着時に入国を拒否される可能性があるかどうかです。拒否されれば、送り返す費用を航空会社が負うことになるためです。国境職員が確認しているのは、関連はしているものの別の事柄、つまりその国の入国条件を満たしているかどうかです。二つの問いは重なる部分もありますが、同じものではありません。
 
-両者が重なるのは、渡航先自体のルールにおいてです。例えばシェンゲン国境規則は、国境警備官が訪問者に提示を求めてよい書類の一つとして、帰国または往復チケットを挙げています。ニュージーランドは、訪問者に出国手段を持つことを義務付けています。渡航先がこのような仕組みになっている場合、チェックインで航空会社が確認しているのは、独自のルールを作っているわけではなく、渡航先のルールを数時間早く適用しているにすぎません。
+両者が重なるのは、渡航先自体のルールにおいてです。例えば[シェンゲン国境規則](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0399)は、国境警備官が訪問者に提示を求めてよい書類の一つとして、帰国または往復チケットを挙げています。ニュージーランドは、[訪問者に出国手段を持つことを義務付けています](https://www.immigration.govt.nz/visas/visa-waiver-visitor-visa/)。渡航先がこのような仕組みになっている場合、チェックインで航空会社が確認しているのは、独自のルールを作っているわけではなく、渡航先のルールを数時間早く適用しているにすぎません。
 
 ![航空会社がチェックイン時に渡航先のルールを適用して搭乗を判断する確認と、到着時に入国を許可するか判断する国境での確認を比較した図](https://traveldocumentvault.com/blog/proof-of-onward-travel/two-checks-ja.jpg) 航空会社は搭乗前に確認し、国境職員は到着時に入国を判断する
 
@@ -70,12 +70,11 @@ Source: https://traveldocumentvault.com/ja/blog/proof-of-onward-travel/
 
 確認書のオフラインコピーを用意しておきましょう。PDF、予約番号と日付が分かるスクリーンショット、あるいは接続なしで使えるアプリ内のコピーなどです。Travel Document Vaultは航空券とホテル予約を端末上に暗号化して保存し、オフラインでアクセスできます。電波があるかどうかにかかわらず、カウンターで確認書を提示できます。用意しておく価値があるその他の書類については、[渡航書類チェックリスト](https://traveldocumentvault.com/ja/blog/travel-document-checklist/)のガイドをご覧ください。
 
-確認した情報源（2026年11月6日）
+公式情報源
 
 - [EU law: Schengen Borders Code (Regulation 2016/399)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0399)
 - [Immigration New Zealand: Visa Waiver Visitor Visa](https://www.immigration.govt.nz/visas/visa-waiver-visitor-visa/)
 - [Immigration New Zealand: Visitor Visa](https://www.immigration.govt.nz/visas/visitor-visa/)
-- [Immigration New Zealand: Onward travel requirements](https://www.immigration.govt.nz/opsmanual/50548.htm)
 
 ## よくある質問
 
@@ -97,7 +96,7 @@ Source: https://traveldocumentvault.com/ja/blog/proof-of-onward-travel/
 
 ### 国境でも出国手段の証明は必要ですか。
 
-一部の渡航先が訪問者向けの入国条件にこれを含めているため、場合によっては必要になります。シェンゲン国境規則では、国境警備官が提示を求めてよい書類の一つとして帰国または往復チケットを挙げており、ニュージーランドは訪問者に出国手段を持つことを義務付けています。渡航前に渡航先のルールを確認してください。
+一部の渡航先が訪問者向けの入国条件にこれを含めているため、場合によっては必要になります。シェンゲン国境規則では、国境警備官が提示を求めてよい書類の一つとして帰国または往復チケットを挙げており、ニュージーランドは[訪問者に出国手段を持つことを義務付けています](https://www.immigration.govt.nz/visas/visitor-visa/)。渡航前に渡航先のルールを確認してください。
 
 ## 関連記事
 

@@ -30,7 +30,7 @@ L'urgence de la situation détermine la marche à suivre :
 - **Beaucoup de temps avant le voyage :** demandez un renouvellement standard en ligne via le site de votre autorité de délivrance de passeports — GOV.UK au Royaume-Uni, travel.state.gov aux États-Unis.
 - **Le voyage approche :** demandez immédiatement et payez pour un traitement accéléré. Le Royaume-Uni comme les États-Unis proposent en ligne un service payant plus rapide, et chacun publie son délai de traitement actuel.
 - **Le voyage se rapproche :** appelez directement votre autorité de délivrance de passeports plutôt que de vous fier au seul site Web — le service d'assistance de HM Passport Office au Royaume-Uni, ou le National Passport Information Center aux États-Unis.
-- **Le voyage est imminent :** demandez un rendez-vous d'urgence et apportez la preuve de vos dates de voyage. Le service 1 Day Premium du Royaume-Uni (réservé aux renouvellements pour adultes) permet de réserver un rendez-vous à partir de 2 jours après la demande, le passeport étant prêt à récupérer 4 heures après le rendez-vous, et les États-Unis publient les possibilités de voyage urgent sur travel.state.gov.
+- **Le voyage est imminent :** demandez un rendez-vous d'urgence et apportez la preuve de vos dates de voyage. Le service [1 Day Premium](https://www.gov.uk/get-a-passport-urgently) du Royaume-Uni (réservé aux renouvellements pour adultes) permet de réserver un rendez-vous à partir de 2 jours après la demande, le passeport étant prêt à récupérer 4 heures après le rendez-vous, et les États-Unis publient les possibilités de voyage urgent sur travel.state.gov.
 
 Si votre calendrier est serré, nous appellerions toujours plutôt que de nous fier au seul site Web.
 
@@ -56,7 +56,7 @@ L'expiration ne signifie presque jamais tout reprendre à zéro, car au Royaume-
 
 ### Royaume-Uni : un passeport expiré suit le renouvellement normal
 
-GOV.UK indique que vous devez renouveler votre passeport avant de voyager s'il est expiré ou s'il ne dispose pas d'une validité suffisante pour votre destination. Un passeport expiré suit le renouvellement standard, en ligne ou sur formulaire papier, et vous aurez besoin de votre ancien passeport pour le faire. Les passeports adultes concernent les personnes de 16 ans et plus, et les passeports pour enfants suivent leur propre procédure.
+[GOV.UK](https://www.gov.uk/renew-adult-passport/renew) indique que vous devez renouveler votre passeport avant de voyager s'il est expiré ou s'il ne dispose pas d'une validité suffisante pour votre destination. Un passeport expiré suit le renouvellement standard, en ligne ou sur formulaire papier, et vous aurez besoin de votre ancien passeport pour le faire. Les passeports adultes concernent les personnes de 16 ans et plus, et les passeports pour enfants suivent leur propre procédure.
 
 ### États-Unis : le renouvellement fonctionne dans les 15 ans suivant la délivrance
 
@@ -64,7 +64,7 @@ Les États-Unis ont leurs propres conditions pour renouveler un passeport expir�
 
 ### Canada : un passeport expiré peut être renouvelé en ligne
 
-Le gouvernement du Canada vous permet de renouveler si votre dernier passeport était un passeport adulte délivré alors que vous aviez au moins 16 ans. Il doit aussi avoir été délivré dans les 15 ans précédant votre demande et avoir une validité de 5 ou 10 ans. Vous pouvez renouveler en ligne si votre passeport expire dans les six prochains mois ou est déjà expiré, à condition que votre adresse de résidence et de correspondance soit au Canada. Les passeports d'enfants ne peuvent pas être renouvelés ; un enfant a besoin d'une nouvelle demande.
+[Le gouvernement du Canada](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html) vous permet de renouveler si votre dernier passeport était un passeport adulte délivré alors que vous aviez au moins 16 ans. Il doit aussi avoir été délivré dans les 15 ans précédant votre demande et avoir une validité de 5 ou 10 ans. Vous pouvez [renouveler en ligne](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport/submit-form-fees/renew-online.html) si votre passeport expire dans les six prochains mois ou est déjà expiré, à condition que votre adresse de résidence et de correspondance soit au Canada. Les passeports d'enfants ne peuvent pas être renouvelés ; un enfant a besoin d'une nouvelle demande.
 
 Si votre passeport a expiré il y a des années, regardez d'abord la date de délivrance, car la limite de 15 ans aux États-Unis et au Canada se compte à partir de la délivrance, pas de l'expiration. Vérifiez ensuite les délais actuels avant de réserver, ce que notre guide sur [la durée du renouvellement de passeport](https://traveldocumentvault.com/fr/blog/how-long-does-passport-renewal-take/) détaille pays par pays.
 
@@ -110,7 +110,7 @@ Faites cela pour chaque passeport de votre ménage séparément. Les passeports 
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
-Sources vérifiées (6 novembre 2026)
+Sources officielles
 
 - [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
 - [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)

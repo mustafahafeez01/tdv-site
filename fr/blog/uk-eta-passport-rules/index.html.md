@@ -22,7 +22,7 @@ C'est un problème de suivi de documents. Vous avez deux échéances à surveill
 
 ## La plupart des visiteurs dispensés de visa ont désormais besoin d'une ETA
 
-Si vous êtes ressortissant des États-Unis, du Canada, de l'Australie, de la Nouvelle-Zélande, ou d'un pays de l'UE ou de l'Espace économique européen, vous avez probablement besoin d'une ETA britannique. Le dispositif est entré en vigueur le 25 février 2026 pour la plupart des ressortissants dispensés de visa.
+Si vous êtes ressortissant des États-Unis, du Canada, de l'Australie, de la Nouvelle-Zélande, ou d'un pays de l'UE ou de l'Espace économique européen, vous avez [probablement besoin d'une ETA britannique](https://www.gov.uk/eta). Le dispositif est [entré en vigueur le 25 février 2026](https://www.gov.uk/government/news/no-permission-no-travel-uk-set-to-enforce-eta-scheme) pour la plupart des ressortissants dispensés de visa.
 
 Certaines personnes en sont dispensées : les citoyens irlandais n'en ont pas besoin, et les personnes ayant un statut d'immigration britannique — un visa, le statut de résident permanent (settled status) ou une autorisation de séjour illimitée — n'ont pas non plus besoin d'en faire la demande. Les personnes ayant une double nationalité, celles bénéficiant des droits de la zone de voyage commune (Common Travel Area), et quelques autres groupes suivent des règles différentes selon leur mode de voyage.
 
@@ -30,7 +30,7 @@ Certaines personnes en sont dispensées : les citoyens irlandais n'en ont pas be
 
 ## L'ETA est liée à votre numéro de passeport, pas à vous
 
-Votre ETA britannique est rattachée à votre numéro de passeport, pas à vous en tant que personne. Lors de votre demande, le Home Office lie son approbation à un numéro de passeport précis. Voyager avec un passeport différent — un passeport récemment renouvelé, un second passeport, un remplacement d'urgence — signifie voyager avec une ETA qui n'est pas liée à ce document.
+Votre ETA britannique est [rattachée à votre numéro de passeport](https://www.gov.uk/check-eta), pas à vous en tant que personne. Lors de votre demande, le Home Office lie son approbation à un numéro de passeport précis. Voyager avec un passeport différent — un passeport récemment renouvelé, un second passeport, un remplacement d'urgence — signifie voyager avec une ETA qui n'est pas liée à ce document.
 
 Une ETA britannique est numérique et spécifique au passeport : un nouveau numéro de passeport signifie qu'une nouvelle ETA est nécessaire.
 
@@ -89,11 +89,11 @@ Une ETA n'est pas non plus un visa — elle n'indique pas la durée de séjour a
 
 L'ETA britannique n'est qu'une des nombreuses autorisations de voyage numériques désormais en vigueur. Si vous prévoyez de voyager dans plusieurs pays, il est utile de comprendre la différence entre une ETA et un [visa](https://traveldocumentvault.com/fr/blog/visa-vs-passport/). Leurs démarches se ressemblent, mais elles servent des objectifs différents.
 
-L'UE prévoit sa propre autorisation de voyage numérique, [ETIAS](https://traveldocumentvault.com/fr/blog/etias-documents-2026/), qui n'est pas encore en service. Le concept est similaire à l'ETA britannique, mais avec des règles et des conditions différentes. Quand elle démarrera, un voyage couvrant à la fois le Royaume-Uni et l'espace Schengen pourrait nécessiter les deux.
+L'UE prévoit sa propre autorisation de voyage numérique, [ETIAS](https://traveldocumentvault.com/fr/blog/etias-documents-2026/), qui [n'est pas encore en service](https://travel-europe.europa.eu/en/etias). Le concept est similaire à l'ETA britannique, mais avec des règles et des conditions différentes. Quand elle démarrera, un voyage couvrant à la fois le Royaume-Uni et l'espace Schengen pourrait nécessiter les deux.
 
 Si vous avez déjà un voyage de réservé, faites ceci aujourd'hui : comparez la date d'expiration de votre passeport à vos dates de voyage, et vérifiez que votre ETA actuelle est bien liée au passeport avec lequel vous voyagerez réellement. Si l'un des deux points pose problème, lancez dès maintenant le renouvellement ou la nouvelle demande, pas la semaine précédant votre vol.
 
-Sources vérifiées (6 novembre 2026)
+Sources officielles
 
 - [UK Government: Get an electronic travel authorisation (ETA) to visit the UK](https://www.gov.uk/eta)
 - [UK Government: Check your electronic travel authorisation (ETA)](https://www.gov.uk/check-eta)

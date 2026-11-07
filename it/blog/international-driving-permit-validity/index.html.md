@@ -30,9 +30,9 @@ Questo trae in inganno più spesso delle date di scadenza. Il permesso sembra il
 
 ## Due convenzioni decidono quanto dura e dove vale
 
-Dietro gli IDP ci sono tre accordi internazionali, e ogni paese ha aderito a uno di essi o a più di uno. Due fanno quasi tutto il lavoro: la Convenzione di Ginevra del 1949 e la Convenzione di Vienna del 1968. Un permesso più datato, della Convenzione di Parigi del 1926, esiste ancora e alcune destinazioni lo elencano tra i documenti accettati. Controlla la data di scadenza stampata sul permesso.
+Dietro gli IDP ci sono [tre accordi internazionali](https://www.gov.uk/driving-abroad/international-driving-permit), e ogni paese ha aderito a uno di essi o a più di uno. Due fanno quasi tutto il lavoro: la Convenzione di Ginevra del 1949 e la Convenzione di Vienna del 1968. Un permesso più datato, della Convenzione di Parigi del 1926, esiste ancora e alcune destinazioni lo elencano tra i documenti accettati. Controlla la data di scadenza stampata sul permesso.
 
-Un permesso rilasciato secondo la Convenzione di Ginevra del 1949 è valido un anno. Un permesso rilasciato secondo la Convenzione di Vienna del 1968 può arrivare fino a tre.
+Un permesso rilasciato secondo la Convenzione di Ginevra del 1949 è [valido un anno](https://travel.gc.ca/travelling/documents/international-driving-permit). Un permesso rilasciato secondo la Convenzione di Vienna del 1968 può arrivare fino a tre.
 
 Questa distinzione conta due volte. Stabilisce quanto dura il tuo permesso, e decide dove viene riconosciuto. Un paese che ha ratificato solo una convenzione non è obbligato a riconoscere un permesso rilasciato secondo l'altra, ed è così che un permesso che ha funzionato nel viaggio dell'anno scorso viene respinto in quello di quest'anno.
 
@@ -46,7 +46,7 @@ Questa distinzione conta due volte. Stabilisce quanto dura il tuo permesso, e de
 
 ## Il permesso di tre anni che spesso non lo è
 
-Quei tre anni portano con sé una condizione facile da trascurare. Un permesso di Vienna scade quando scade la tua patente di guida nazionale, se quella data arriva prima.
+Quei tre anni portano con sé una condizione facile da trascurare. Un permesso di Vienna [scade quando scade la tua patente di guida nazionale](https://treaties.un.org/doc/Treaties/1977/05/19770524%2000-13%20AM/Ch_XI_B_19.pdf), se quella data arriva prima.
 
 Supponiamo che alla tua patente restino 14 mesi e ti venga rilasciato un permesso di tre anni. Il permesso è utile per 14 mesi. La data stampata sulla copertina non prevale sulla patente che sta dietro di esso.
 
@@ -68,7 +68,7 @@ Questo è l'argomento pratico per tenere tutte e tre le date in un unico posto. 
 
 Noi controlleremmo queste cose in quest'ordine, e la data della patente prima di qualsiasi cosa stampata sul permesso.
 
-**Se ti serve davvero un permesso.** Alcuni paesi accettano la patente nazionale da sola, ed è il paese in cui guidi a stabilire il requisito, non quello che ha rilasciato la tua patente.
+**Se ti serve davvero un permesso.** [Alcuni paesi accettano la patente nazionale da sola](https://www.gov.uk/driving-abroad), ed è il paese in cui guidi a stabilire il requisito, non quello che ha rilasciato la tua patente.
 
 **Quale convenzione riconosce la tua destinazione**, poi verifica il tuo permesso rispetto ad essa (la convenzione è stampata sul documento).
 
@@ -102,7 +102,7 @@ Oggi stesso prendi la patente e il permesso, se ne hai uno, e metti una accanto 
 
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 
-Fonti che abbiamo verificato (6 novembre 2026)
+Fonti ufficiali
 
 - [United Nations Treaty Collection: Convention on Road Traffic (1968)](https://treaties.un.org/doc/Treaties/1977/05/19770524%2000-13%20AM/Ch_XI_B_19.pdf)
 - [UK Government: driving abroad, international driving permits](https://www.gov.uk/driving-abroad/international-driving-permit)

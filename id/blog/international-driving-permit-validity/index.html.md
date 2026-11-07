@@ -30,9 +30,9 @@ Kesalahpahaman ini lebih sering menjebak orang daripada urusan tanggal kedaluwar
 
 ## Dua Perjanjian Menentukan Berapa Lama Izin Berlaku dan di Mana Izin Itu Diakui
 
-Tiga perjanjian internasional menjadi dasar IDP, dan setiap negara meratifikasi satu atau beberapa di antaranya. Dua di antaranya menangani hampir semua kebutuhan: Konvensi Jenewa 1949 dan Konvensi Wina 1968. Izin Konvensi Paris 1926 yang lebih tua juga ada dan masih dicantumkan oleh beberapa negara tujuan. Periksa tanggal kedaluwarsa yang tercetak pada izin.
+[Tiga perjanjian internasional](https://www.gov.uk/driving-abroad/international-driving-permit) menjadi dasar IDP, dan setiap negara meratifikasi satu atau beberapa di antaranya. Dua di antaranya menangani hampir semua kebutuhan: Konvensi Jenewa 1949 dan Konvensi Wina 1968. Izin Konvensi Paris 1926 yang lebih tua juga ada dan masih dicantumkan oleh beberapa negara tujuan. Periksa tanggal kedaluwarsa yang tercetak pada izin.
 
-Izin yang diterbitkan berdasarkan Konvensi Jenewa 1949 berlaku selama satu tahun. Izin yang diterbitkan berdasarkan Konvensi Wina 1968 bisa berlaku hingga tiga tahun.
+Izin yang diterbitkan berdasarkan Konvensi Jenewa 1949 [berlaku selama satu tahun](https://travel.gc.ca/travelling/documents/international-driving-permit). Izin yang diterbitkan berdasarkan Konvensi Wina 1968 bisa berlaku hingga tiga tahun.
 
 Perbedaan ini penting dalam dua hal sekaligus. Perbedaan itu menentukan berapa lama izin Anda berlaku, sekaligus menentukan di negara mana izin itu diakui. Negara yang hanya meratifikasi satu konvensi tidak berkewajiban mengakui izin yang diterbitkan berdasarkan konvensi yang lain, dan itulah sebabnya izin yang berhasil digunakan pada perjalanan tahun lalu bisa ditolak pada perjalanan tahun ini.
 
@@ -46,7 +46,7 @@ Perbedaan ini penting dalam dua hal sekaligus. Perbedaan itu menentukan berapa l
 
 ## Izin Tiga Tahun yang Sering Kali Tidak Benar-Benar Tiga Tahun
 
-Masa berlaku tiga tahun itu memiliki syarat yang mudah terlewat. Izin Wina kedaluwarsa saat SIM nasional Anda kedaluwarsa, jika tanggal itu datang lebih dulu.
+Masa berlaku tiga tahun itu memiliki syarat yang mudah terlewat. [Izin Wina kedaluwarsa saat SIM nasional Anda kedaluwarsa](https://treaties.un.org/doc/Treaties/1977/05/19770524%2000-13%20AM/Ch_XI_B_19.pdf), jika tanggal itu datang lebih dulu.
 
 Misalnya SIM Anda masih berlaku 14 bulan lagi dan Anda diterbitkan izin tiga tahun. Izin itu hanya berguna selama 14 bulan. Tanggal yang tercetak di bagian depan tidak mengalahkan SIM yang menjadi dasarnya.
 
@@ -68,7 +68,7 @@ Itulah alasan praktis untuk menyimpan ketiga tanggal ini di satu tempat. Travel 
 
 Kami akan memeriksa hal-hal ini dengan urutan berikut, dan tanggal SIM lebih dulu sebelum apa pun yang tercetak di izin.
 
-**Apakah Anda benar-benar memerlukan izin ini.** Beberapa negara menerima SIM nasional saja, dan negara tempat Anda mengemudilah yang menentukan persyaratannya, bukan negara yang menerbitkan SIM Anda.
+**Apakah Anda benar-benar memerlukan izin ini.** [Beberapa negara menerima SIM nasional saja](https://www.gov.uk/driving-abroad), dan negara tempat Anda mengemudilah yang menentukan persyaratannya, bukan negara yang menerbitkan SIM Anda.
 
 **Konvensi mana yang diakui oleh negara tujuan Anda**, lalu cocokkan izin Anda dengannya (konvensinya tercetak di dokumen).
 
@@ -102,7 +102,7 @@ Hari ini, ambil SIM dan izin Anda, kalau sudah punya, lalu letakkan kedua tangga
 
 **Sebelum Anda mengandalkan ini:** ini blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 
-Sumber yang kami periksa (6 November 2026)
+Sumber resmi
 
 - [United Nations Treaty Collection: Convention on Road Traffic (1968)](https://treaties.un.org/doc/Treaties/1977/05/19770524%2000-13%20AM/Ch_XI_B_19.pdf)
 - [UK Government: driving abroad, international driving permits](https://www.gov.uk/driving-abroad/international-driving-permit)

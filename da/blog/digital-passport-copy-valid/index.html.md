@@ -11,9 +11,9 @@ Source: https://traveldocumentvault.com/da/blog/digital-passport-copy-valid/
 ## Vigtigste punkter
 
 - Digitale paskopier accepteres til **indtjekning på hotel, flybookinger og lejebilsreservationer**, men ikke ved grænsen eller til boarding.
-- Til internationale rejser skal du **som regel bruge det originale pas** ved grænsen og til boarding. Nogle ruter accepterer i stedet et nationalt ID-kort (for eksempel for EU-borgere, der rejser inden for EU), men aldrig en kopi.
+- Til internationale rejser skal du **som regel bruge det originale pas** ved grænsen og til boarding. Nogle ruter accepterer i stedet et nationalt ID-kort (for eksempel for [EU-borgere, der rejser inden for EU](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm)), men aldrig en kopi.
 - Digitale kopier har **ingen juridisk status som rejsedokument**. De er kun understøttende dokumentation.
-- Visumansøgninger kræver **specifikke formater**. Nogle kræver bekræftede eller notarbekræftede kopier, mens andre (blandt andet mange e-visa) accepterer en tydelig scanning af fotosiden, og et almindeligt mobilfoto afvises ofte. Tjek ambassadens hjemmeside først.
+- Visumansøgninger kræver **specifikke formater**. Nogle kræver bekræftede eller notarbekræftede kopier, mens andre (blandt andet [mange e-visa](https://indianvisaonline.gov.in/evisa/tvoa.html)) accepterer en tydelig scanning af fotosiden, og et almindeligt mobilfoto afvises ofte. Tjek ambassadens hjemmeside først.
 - Mister du dit pas i udlandet, kan en **kopi af fotosiden hjælpe** ambassaden med at bekræfte dine oplysninger, når du søger om et nyt.
 
 Når man planlægger en rejse, spekulerer mange rejsende på, om de kan gemme en digital kopi af deres pas på telefonen i stedet for at bære originalen. Du skal vide præcis, hvor den virker, og hvor den ikke gør, så du ikke ender med at stå uden ved indtjekningen.
@@ -22,11 +22,11 @@ Det korte svar: en digital kopi er reelt nyttig, men kun i bestemte situationer.
 
 ## En digital kopi er et foto af dit pas, ikke et digitalt pas
 
-En digital kopi af et pas er **en scanning eller et mobilfoto af dets identifikationsside**, siden med dit foto, navn, fødselsdato, pasnummer og udløbsdato. Den registrerer dine oplysninger uden at træde i stedet for dokumentet. Canadas regering siger det ligeud i sine rejseråd: kopier kan hjælpe, hvis dine dokumenter bliver væk eller stjålet, men de kan ikke bruges som legitimation, og du skal stadig ansøge om et nyt pas, hvis du mister dit.
+En digital kopi af et pas er **en scanning eller et mobilfoto af dets identifikationsside**, siden med dit foto, navn, fødselsdato, pasnummer og udløbsdato. Den registrerer dine oplysninger uden at træde i stedet for dokumentet. [Canadas regering](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings) siger det ligeud i sine rejseråd: kopier kan hjælpe, hvis dine dokumenter bliver væk eller stjålet, men de kan ikke bruges som legitimation, og du skal stadig ansøge om et nyt pas, hvis du mister dit.
 
-Det tager et par minutter at lave en. Læg passet fladt i godt lys, fotografer eller scan identifikationssiden, så hele siden er skarp, zoom så ind og tjek, at du kan læse hver detalje. Gør det samme for ethvert visum, du rejser på. Storbritanniens tjekliste for udlandsrejser anbefaler en backup af dine pasoplysninger, som du deler med familien eller opbevarer på en sikker datalagringsplatform.
+Det tager et par minutter at lave en. Læg passet fladt i godt lys, fotografer eller scan identifikationssiden, så hele siden er skarp, zoom så ind og tjek, at du kan læse hver detalje. Gør det samme for ethvert visum, du rejser på. [Storbritanniens tjekliste for udlandsrejser](https://www.gov.uk/guidance/foreign-travel-checklist) anbefaler en backup af dine pasoplysninger, som du deler med familien eller opbevarer på en sikker datalagringsplatform.
 
-En kopi er heller ikke det samme som de digitale ID'er, nogle myndigheder nu accepterer. I USA lader transportsikkerhedsmyndigheden TSA amerikanske pasindehavere oprette et ID-kort i Google Wallet til brug ved sikkerhedskontrollen i lufthavne, men den siger stadig, at alle passagerer skal medbringe et gyldigt fysisk ID. Et foto i din kamerarulle er en backup af dine oplysninger, og det er netop sådan, du skal behandle det.
+En kopi er heller ikke det samme som de digitale ID'er, nogle myndigheder nu accepterer. I USA lader [transportsikkerhedsmyndigheden TSA](https://www.tsa.gov/digital-id) amerikanske pasindehavere oprette et ID-kort i Google Wallet til brug ved sikkerhedskontrollen i lufthavne, men den siger stadig, at alle passagerer skal medbringe et gyldigt fysisk ID. Et foto i din kamerarulle er en backup af dine oplysninger, og det er netop sådan, du skal behandle det.
 
 ## Hvor digitale paskopier accepteres
 
@@ -44,7 +44,7 @@ Biludlejningsselskaber accepterer ofte digitale paskopier til booking og deposit
 
 ### Hvis dit pas bliver væk, gør kopien tingene hurtigere
 
-Bliver dit pas væk eller stjålet under rejsen, kan en kopi af fotosiden hjælpe ambassaden eller konsulatet med at bekræfte dine oplysninger, når du søger om et nyt. Du skal stadig ansøge om et nyt pas eller et nødrejsedokument. Det er en af de stærkeste grunde til altid at have en digital backup med.
+Bliver dit pas væk eller stjålet under rejsen, kan en kopi af fotosiden hjælpe ambassaden eller konsulatet med at bekræfte dine oplysninger, når du søger om et nyt. Du skal stadig ansøge om et nyt pas eller [et nødrejsedokument](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport). Det er en af de stærkeste grunde til altid at have en digital backup med.
 
 ![Diagram over, hvor en digital paskopi virker: normalt fint til indtjekning på hotel, flybooking og biludlejning, men original er påkrævet ved grænsekontrol og boarding hos flyselskabet](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-where-da.jpg) Kort fortalt – en kopi åbner døre, kun originalen passerer grænser.
 
@@ -89,7 +89,7 @@ Har du ikke lavet en endnu, så scan dit pas' fotoside i dag, før du står ved 
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 
-Kilder vi har tjekket (6. november 2026)
+Officielle kilder
 
 - [Government of Canada: Lost or stolen belongings abroad](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings)
 - [UK Government: Foreign travel checklist](https://www.gov.uk/guidance/foreign-travel-checklist)

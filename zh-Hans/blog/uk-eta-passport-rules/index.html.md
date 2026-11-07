@@ -22,7 +22,7 @@ UK ETA制度表面上很简单：申请、付费、出行。但背后有一条�
 
 ## 大多数免签证访客现在都需要办理ETA
 
-如果您是美国、加拿大、澳大利亚、新西兰，或欧盟、欧洲经济区国家的公民，您很可能需要办理UK ETA。该制度自2026年2月25日起对大多数免签证国籍人员生效。
+如果您是美国、加拿大、澳大利亚、新西兰，或欧盟、欧洲经济区国家的公民，您[很可能需要办理UK ETA](https://www.gov.uk/eta)。该制度自2026年2月25日起对大多数免签证国籍人员生效。
 
 部分人可以豁免：爱尔兰公民无需申请，持有签证、定居身份或无限期居留许可等英国移民身份的人也无需申请。拥有双重国籍的人、享有共同旅行区（CTA）权利的人，以及其他少数群体，会根据其出行方式适用不同规定。
 
@@ -30,7 +30,7 @@ UK ETA制度表面上很简单：申请、付费、出行。但背后有一条�
 
 ## ETA绑定的是护照号码，而不是您本人
 
-UK ETA绑定的是护照号码，而不是您这个人。申请时，内政部会将您的批准结果与特定护照号码关联。使用另一本护照出行——无论是新换发的护照、第二本护照，还是紧急补发的替代护照——就意味着您所持有的ETA并未与该证件绑定。
+[UK ETA绑定的是护照号码](https://www.gov.uk/check-eta)，而不是您这个人。申请时，内政部会将您的批准结果与特定护照号码关联。使用另一本护照出行——无论是新换发的护照、第二本护照，还是紧急补发的替代护照——就意味着您所持有的ETA并未与该证件绑定。
 
 UK ETA是数字化的，且专属于特定护照，因此拿到新的护照号码就需要新的ETA。
 
@@ -89,11 +89,11 @@ ETA也不是签证——它不会告诉您可以停留多久。来自大多数�
 
 UK ETA是目前多种数字旅行许可中的一种。如果您计划前往多个国家，请了解ETA与[签证](https://traveldocumentvault.com/zh-Hans/blog/visa-vs-passport/)的区别，两者流程相似，但用途不同。
 
-欧盟计划推出自己的数字旅行许可[ETIAS](https://traveldocumentvault.com/zh-Hans/blog/etias-documents-2026/)，目前尚未启用。它在概念上与UK ETA相似，但规定和要求各不相同。启用后，如果您的行程同时包含英国和申根区，可能两者都需要。
+欧盟计划推出自己的数字旅行许可[ETIAS](https://traveldocumentvault.com/zh-Hans/blog/etias-documents-2026/)，[目前尚未启用](https://travel-europe.europa.eu/en/etias)。它在概念上与UK ETA相似，但规定和要求各不相同。启用后，如果您的行程同时包含英国和申根区，可能两者都需要。
 
 如果您已经订好了行程，今天就做这件事：对照出行日期检查护照的到期日，并确认您现有的ETA绑定的正是您实际要使用的那本护照。只要其中一项不够，就现在开始办理换发或重新申请，不要拖到出发前一周。
 
-我们核对过的资料来源（2026年11月6日）
+官方资料来源
 
 - [UK Government: Get an electronic travel authorisation (ETA) to visit the UK](https://www.gov.uk/eta)
 - [UK Government: Check your electronic travel authorisation (ETA)](https://www.gov.uk/check-eta)

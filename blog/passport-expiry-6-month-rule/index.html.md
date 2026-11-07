@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/
 - The rule gets applied inconsistently: the same country may waive it for some passport holders and enforce it for others based on bilateral agreements.
 - The safest move is to renew when you drop below 12 months of validity, so you always carry a comfortable buffer.
 
-Six months left on your passport is usually not enough for a country that applies the 6-month rule, because the six months are counted from the day you arrive, or for some countries the day you leave, not from today. Thailand, for one, wants an expiry date at least six months after you arrive. For destinations that only ask for a passport valid for your stay, or for the Schengen area, which asks for three months after the day you leave, six months left will generally get you in.
+Six months left on your passport is usually not enough for a country that applies the 6-month rule, because the six months are counted from the day you arrive, or for some countries the day you leave, not from today. [Thailand](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), for one, wants an expiry date at least six months after you arrive. For destinations that only ask for a passport valid for your stay, or for the Schengen area, which asks for three months after the day you leave, six months left will generally get you in.
 
 The immigration officer looked at my daughter's passport, paused, and then looked up. "You know this expires in seven months, right? Some countries won't let you in with less than six months validity." We were fine - barely. But that moment stuck with me, because I'd checked the passport before booking and seven months had felt like plenty. I'd forgotten entirely about the passport expiry 6 month rule.
 
@@ -39,7 +39,7 @@ The logic is straightforward: countries want assurance you won't overstay your v
 
 Sometimes, yes. If your destination only asks for a passport that stays valid for your stay, five months left will typically get you in. The UK works that way for most visitors, and Schengen countries generally ask for three months beyond your planned departure rather than six.
 
-If your destination applies the 6-month rule, no. Thailand, Indonesia, Vietnam and many others generally refuse entry, and the airline usually refuses boarding long before you reach the border.
+If your destination applies the 6-month rule, no. Thailand, [Indonesia](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements), Vietnam and many others generally refuse entry, and the airline usually refuses boarding long before you reach the border.
 
 So the answer turns on where you are going rather than on the passport itself. Check the destination requirement the day you book, and again the week you fly.
 
@@ -56,12 +56,12 @@ The following table covers the most common destinations. Policies change, so alw
 | Philippines | 6 months | Plus onward/return ticket required |
 | India | 6 months | Visa also required for most nationalities |
 | Kenya | 6 months | eVisa required; 6-month rule applies |
-| Turkey | 150 days from arrival | UK Foreign Office: expiry date at least 150 days after the date you arrive |
+| Turkey | 150 days from arrival | [UK Foreign Office](https://www.gov.uk/foreign-travel-advice/turkey/entry-requirements): expiry date at least 150 days after the date you arrive |
 | EU / Schengen | 3 months beyond departure | Plus a date of issue under 10 years old |
 | United Kingdom | Duration of stay only | UK citizens abroad still subject to destination rules |
 | USA | Duration of stay only | US citizens abroad subject to destination country rules |
 | Japan / Australia | Duration of stay only | No 6-month extension rule for visitors |
-| New Zealand | 3 months beyond departure | UK Foreign Office: expiry date at least 3 months after the day you plan to leave |
+| New Zealand | 3 months beyond departure | [UK Foreign Office](https://www.gov.uk/foreign-travel-advice/new-zealand/entry-requirements): expiry date at least 3 months after the day you plan to leave |
 
 This table is a snapshot, not the full picture: requirements vary by your nationality too, not just the destination, so always check your government's official travel advisory before booking.
 
@@ -69,11 +69,11 @@ Passport validity requirements by country change without notice, and a bilateral
 
 ## When the 6-Month Rule Does Not Apply
 
-Plenty of destinations ask for nothing beyond the dates of your trip. The UK Foreign Office puts it plainly for Japan: your passport must be valid for the length of your stay, and no additional period of validity is required. Australia and the United States use the same standard, asking only that your passport stays valid for the length of your planned stay.
+Plenty of destinations ask for nothing beyond the dates of your trip. The [UK Foreign Office](https://www.gov.uk/foreign-travel-advice/japan/entry-requirements) puts it plainly for Japan: your passport must be valid for the length of your stay, and no additional period of validity is required. [Australia](https://www.gov.uk/foreign-travel-advice/australia/entry-requirements) and the [United States](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements) use the same standard, asking only that your passport stays valid for the length of your planned stay.
 
 You may also come across lists of countries whose passports are treated as valid for six months past their expiry date. That's a United States arrangement, not an extension of your passport. US Customs and Border Protection publishes a list of countries whose citizens are exempt from the US six-month validity requirement and need a passport valid only for their intended stay. It applies to entering the US and nowhere else, and an expired passport stays expired everywhere.
 
-Europe sits in the middle, and it's the tier people misread most often. To visit the Schengen area, the Foreign Office says your passport needs an expiry date at least three months after the day you plan to leave. Three months, not six.
+Europe sits in the middle, and it's the tier people misread most often. To visit the Schengen area, the [Foreign Office](https://www.gov.uk/foreign-travel-advice/france/entry-requirements) says your passport needs an expiry date at least three months after the day you plan to leave. Three months, not six.
 
 There's a second Schengen condition that catches people out far more often than the first: your date of issue has to be less than ten years before the day you arrive. Both conditions have to be met, and a passport can pass one while failing the other.
 
@@ -123,7 +123,7 @@ These sources tell you the official requirement and whether it applies to holder
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [UK Foreign Office: USA entry requirements](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements)
 - [UK Foreign Office: France entry requirements](https://www.gov.uk/foreign-travel-advice/france/entry-requirements)

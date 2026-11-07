@@ -34,15 +34,15 @@ Some airlines and border officers may ask to see proof of your first night's boo
 
 ### Vaccination certificates
 
-Certain destinations require proof of vaccination for yellow fever or other diseases, and requirements change periodically by destination. Check the WHO travel advice pages 4-8 weeks before travel, not the night before, and carry the original certificate rather than a copy, since some countries ask to see it.
+Certain destinations require proof of vaccination for yellow fever or other diseases, and requirements change periodically by destination. Check the [WHO travel advice pages](https://www.who.int/health-topics/travel-and-health) 4-8 weeks before travel, not the night before, and carry the original certificate rather than a copy, since some countries ask to see it.
 
 ### Travel insurance details
 
-You'll need immediate access to your policy number, issuer contact details, and your 24-hour emergency hotline. Some visa types explicitly require proof of travel insurance: Schengen visa applications, for example, require medical insurance covering emergency care and hospitalisation. But more importantly, if something goes wrong abroad, you need these details without relying on email or internet access.
+You'll need immediate access to your policy number, issuer contact details, and your 24-hour emergency hotline. Some visa types explicitly require proof of travel insurance: [Schengen visa applications](https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en), for example, require medical insurance covering emergency care and hospitalisation. But more importantly, if something goes wrong abroad, you need these details without relying on email or internet access.
 
 ### Child travel consent letters
 
-When a child travels internationally with only one parent (or with neither parent), many countries expect written consent from the absent parent, and notarisation is strongly recommended. Border officers and airline staff in many countries, Canada among them, may ask for one, and South Africa has its own rules for children entering the country, so check the destination's official page. Without a letter you can face delays or a refusal to board.
+When a child travels internationally with only one parent (or with neither parent), many countries expect written consent from the absent parent, and notarisation is strongly recommended. Border officers and airline staff in many countries, [Canada](https://travel.gc.ca/travelling/children/consent-letter) among them, may ask for one, and [South Africa](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements) has its own rules for children entering the country, so check the destination's official page. Without a letter you can face delays or a refusal to board.
 
 It's the most commonly overlooked document in family travel, so double-check before you reach the gate.
 
@@ -109,7 +109,7 @@ Pick the one document from this list you haven't backed up yet, whether that's y
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [UK Foreign Office: South Africa entry requirements](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements)

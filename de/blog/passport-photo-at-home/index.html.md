@@ -24,7 +24,7 @@ Obwohl spezifische Regeln je nach Passbehörde unterschiedlich sind, teilen die 
 
 ### Hintergrund und Komposition
 
-Sie benötigen einen einfarbigen, hellen Hintergrund, dessen genauer Farbton von Ihrer Behörde abhängt: GOV.UK verlangt ein einfarbiges Creme oder Hellgrau, während die kanadische Regierung ein einfarbiges Weiß oder Hellfarbiges verlangt. Keine Muster, Schatten, unscharfe Hintergründe oder kräftigen Farben. Der Grund ist einfach: Beamte benötigen einen sauberen, unverbauten Blick auf Ihr Gesicht, um es gegen zukünftige Dokumente zu vergleichen. Verwenden Sie ein einfarbiges Laken oder einen Fotokarton in dem von Ihrer Behörde verlangten Farbton – für das Vereinigte Königreich Creme oder Hellgrau – oder streichen Sie einen kleinen Wandbereich passend. Der Schlüssel ist, es hell und durchgehend zu halten.
+Sie benötigen einen einfarbigen, hellen Hintergrund, dessen genauer Farbton von Ihrer Behörde abhängt: [GOV.UK](https://www.gov.uk/photos-for-passports) verlangt ein einfarbiges Creme oder Hellgrau, während die [kanadische Regierung](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/photos.html) ein einfarbiges Weiß oder Hellfarbiges verlangt. Keine Muster, Schatten, unscharfe Hintergründe oder kräftigen Farben. Der Grund ist einfach: Beamte benötigen einen sauberen, unverbauten Blick auf Ihr Gesicht, um es gegen zukünftige Dokumente zu vergleichen. Verwenden Sie ein einfarbiges Laken oder einen Fotokarton in dem von Ihrer Behörde verlangten Farbton – für das Vereinigte Königreich Creme oder Hellgrau – oder streichen Sie einen kleinen Wandbereich passend. Der Schlüssel ist, es hell und durchgehend zu halten.
 
 ### Ausdruck und Pose
 
@@ -125,7 +125,7 @@ Wenn Sie gutes Fensterlicht haben und ein paar Minuten Zeit, machen Sie das Foto
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 
-Quellen, die wir geprüft haben (6. November 2026)
+Offizielle Quellen
 
 - [UK Government: Get a passport photo, Digital photos](https://www.gov.uk/photos-for-passports)
 - [Government of Canada: Passport photo requirements](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/photos.html)

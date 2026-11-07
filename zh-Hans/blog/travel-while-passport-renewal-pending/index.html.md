@@ -28,9 +28,9 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/travel-while-passport-renew
 
 ## 美国：邮件更新
 
-通过邮件进行的标准美国护照更新需要把现有护照随申请一起寄出，所以等待期间护照不在你手中。你填写 DS-82 表格，附上你现有的护照，并将所有内容寄到国家护照处理中心。据USAGov说明，旧护照会另行寄回，通常在你收到新护照约四周后。
+通过邮件进行的标准美国护照更新需要把现有护照随申请一起寄出，所以等待期间护照不在你手中。你[填写 DS-82 表格](https://www.usa.gov/renew-adult-passport)，附上你现有的护照，并将所有内容寄到国家护照处理中心。据USAGov说明，旧护照会另行寄回，通常在你收到新护照约四周后。
 
-这意味着在整个更新过程中，美国国内旅行不会受到影响——你不需要护照进行国内航班。国际旅行是另一回事：在新护照到达之前，你无法进行国际旅行，即使你手中拥有旧护照，也无法使用已作废的旧护照。
+这意味着在整个更新过程中，美国国内旅行不会受到影响——[你不需要护照进行国内航班](https://www.tsa.gov/travel/security-screening/identification)。国际旅行是另一回事：在新护照到达之前，你无法进行国际旅行，即使你手中拥有旧护照，也无法使用已作废的旧护照。
 
 标准处理所需时间会不断变动，请先在travel.state.gov上查看国务院公布的最新数字再做计划。如果你的国际旅行安排在新护照预计到达之前，国务院提供加急处理选项（额外收费），能显著缩短等待时间。对于真正紧急的旅行，可在地区护照机构获得当面预约——在travel.state.gov上查看当前资格条件。
 
@@ -38,7 +38,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/travel-while-passport-renew
 
 英国有两个更新路径，它们对旅行的影响完全不同。你使用的过程决定了什么是可能的。
 
-**邮件更新：**你将现有护照与申请一起邮寄到英国护照办公室。在整个过程中，你的护照都在他们手中，所以你无法进行国际旅行。英国护照办公室在其网站上公布当前的处理时间，并建议在新护照到达前不要预订旅行；如果行程紧迫，可以额外付费使用高级快速服务。
+**邮件更新：**你将现有护照与申请一起邮寄到[英国护照办公室](https://www.gov.uk/renew-adult-passport/renew)。在整个过程中，你的护照都在他们手中，所以你无法进行国际旅行。英国护照办公室在其网站上公布当前的处理时间，并[建议在新护照到达前不要预订旅行](https://www.gov.uk/renew-adult-passport)；如果行程紧迫，可以额外付费使用高级快速服务。
 
 **数字更新**目前可供符合条件的在英国境内申请的成年人使用。你在整个过程中保留你现有的护照，政府单独颁发新护照并寄给你。因为你现有的护照从不离开你的手中，你通常可以在处理新护照期间继续用它旅行。资格因个人情况而异，所以在申请前检查英国护照办公室网站以了解完整标准和当前时间。
 
@@ -52,7 +52,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/travel-while-passport-renew
 
 ## 加拿大：申请时上交
 
-加拿大要求你在申请更新时上交现有护照。你的旧护照被持有直到新护照准备好，所以你无法在这个期间进行国际旅行——尽管加拿大国内旅行不需要护照。
+加拿大要求你[在申请更新时上交现有护照](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html)。你的旧护照被持有直到新护照准备好，所以你无法在这个期间进行国际旅行——尽管加拿大国内旅行不需要护照。
 
 加拿大服务局公布当前的处理标准，具体因你是当面申请、邮寄申请还是在普通加拿大服务中心申请而异，且都需另加邮寄时间。对于紧急旅行，你可以额外付费选择快速服务或紧急取件。在 canada.ca 上查看当前处理时间并申请。
 
@@ -94,7 +94,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/travel-while-passport-renew
 
 **在依据本文行动之前：**这是一个博客，不是官方来源。规则和细节会变化，你的情况也可能不同。我们会核对所发布的内容，但仍可能出错或过时。如果这里的内容对你的安排很重要，请在行动前向主管机构核实。
 
-我们核对过的资料来源（2026年11月6日）
+官方资料来源
 
 - [USAGov: Renew an adult passport](https://www.usa.gov/renew-adult-passport)
 - [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)

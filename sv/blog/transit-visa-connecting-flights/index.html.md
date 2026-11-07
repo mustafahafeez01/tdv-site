@@ -39,9 +39,9 @@ Fällan ligger mittemellan. En mellanlandning som ser ut som airside på pappere
 
 Transitvisum är obligatoriskt i flera situationer, och kraven varierar kraftigt beroende på din nationalitet och transitlandet.
 
-**Schengens flygplatstransitvisum (ATV)** gäller vissa icke-EU-passinnehavare som gör en ren airside-anslutning genom en Schengen-flygplats (medlemsländer kan i vissa fall lägga till nationaliteter), men många nationaliteter är undantagna, liksom vissa innehavare av visum eller uppehållstillstånd. Eftersom undantagslistan är komplex och ändras med jämna mellanrum kan du inte utgå från att du är undantagen. IATA Travel Centre-databasen har de aktuella reglerna för just din nationalitet och destination, så kontrollera där i stället för att gissa utifrån vad du vet om andra länder.
+**Schengens flygplatstransitvisum (ATV)** gäller [vissa icke-EU-passinnehavare](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0810) som gör en ren airside-anslutning genom en Schengen-flygplats (medlemsländer kan i vissa fall lägga till nationaliteter), men många nationaliteter är undantagna, liksom vissa innehavare av visum eller uppehållstillstånd. Eftersom undantagslistan är komplex och ändras med jämna mellanrum kan du inte utgå från att du är undantagen. IATA Travel Centre-databasen har de aktuella reglerna för just din nationalitet och destination, så kontrollera där i stället för att gissa utifrån vad du vet om andra länder.
 
-**Storbritannien** erbjuder visumfri airside-transit för många, men andra behöver det som numera kallas Direct Airside Transit Visa (DATV). Precis som i Schengen beror undantaget huvudsakligen på din nationalitet, inte bara din destination, och GOV.UK uppger att du inte behöver transitvisum om du har ett brittiskt electronic travel authorisation (ETA).
+**Storbritannien** erbjuder visumfri airside-transit för många, men andra behöver det som numera kallas Direct Airside Transit Visa (DATV). Precis som i Schengen beror undantaget huvudsakligen på din nationalitet, inte bara din destination, och [GOV.UK](https://www.gov.uk/transit-visa) uppger att du inte behöver transitvisum om du har ett brittiskt electronic travel authorisation (ETA).
 
 **USA** kräver i de flesta fall att anslutande passagerare passerar amerikansk gräns- och tullkontroll före nästa flyg. I praktiken handlar det om USA:s inresebestämmelser snarare än transitvisumregler, så kontrollera vad som gäller för ditt pass i god tid och räkna in det i reseplaneringen från början.
 
@@ -77,7 +77,7 @@ En enda person utan undantag kan sätta stopp för hela resan.
 
 Innan du bokar, kör hela din resväg, inte bara destinationen, genom IATA Travel Centre. Det är kontrollen som oftast fångar upp ett saknat krav medan du fortfarande kan ändra bokningen.
 
-Källor vi har kontrollerat (6 november 2026)
+Officiella källor
 
 - [UK Government: Visa to pass through the UK in transit](https://www.gov.uk/transit-visa)
 - [EU law: Visa Code (Regulation 810/2009)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0810)
@@ -87,7 +87,7 @@ Källor vi har kontrollerat (6 november 2026)
 
 ### Vad är ett transitvisum?
 
-Ett transitvisum låter dig resa genom ett land på väg till en annan destination, utan att besöka det. Vissa gäller bara vid flygbyte: Storbritanniens Direct Airside Transit Visa är till för att byta flyg utan att passera gränskontroll, och EU:s transitvisum för flygplatser krävs av vissa nationaliteter även för att stanna i den internationella delen av en EU-flygplats. Andra släpper dig genom passkontrollen för en kort tid, som Storbritanniens Visitor in Transit Visa, som i regel innebär att du måste lämna landet inom 48 timmar. Om du behöver ett beror på ditt pass och din resväg.
+Ett transitvisum låter dig resa genom ett land på väg till en annan destination, utan att besöka det. Vissa gäller bara vid flygbyte: Storbritanniens Direct Airside Transit Visa är till för att byta flyg utan att passera gränskontroll, och EU:s transitvisum för flygplatser krävs av vissa nationaliteter även för att stanna i den internationella delen av en EU-flygplats. Andra släpper dig genom passkontrollen för en kort tid, som Storbritanniens [Visitor in Transit Visa](https://www.gov.uk/transit-visa/visitor-in-transit-visa), som i regel innebär att du måste lämna landet inom 48 timmar. Om du behöver ett beror på ditt pass och din resväg.
 
 ### Behöver jag visum för en 2-timmars mellanlandning?
 

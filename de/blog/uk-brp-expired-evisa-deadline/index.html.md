@@ -20,7 +20,7 @@ Wenn Sie ein abgelaufenes Biometric Residence Permit (BRP, biometrischer Aufenth
 
 ![Diagramm dazu, wie lange ein abgelaufener BRP noch funktioniert: 24 Monate nach dem aufgedruckten Ablaufdatum oder bis zum 31. Dezember 2026, je nachdem, was früher eintritt. In dieser Zeit kann er noch genutzt werden, um sich anzumelden und einen Freigabecode zu erhalten, ein UKVI-Konto einzurichten oder eine Verlängerung der Aufenthaltserlaubnis zu beantragen](https://traveldocumentvault.com/blog/uk-brp-expired-evisa-deadline/brp-window-de.jpg) Zwei Termine, und der frühere zählt für Sie.
 
-GOV.UK erklärt, alle BRPs seien inzwischen abgelaufen und durch eVisas ersetzt worden. Ein eVisa ist ein digitaler Nachweis Ihrer Identität und Ihres Aufenthaltsstatus, auf den Sie über ein UKVI-Konto zugreifen, statt ihn im Portemonnaie mit sich zu tragen. Deshalb ist das Konto der entscheidende Schritt, für Sie und für jedes Familienmitglied, das eine Karte besaß.
+[GOV.UK](https://www.gov.uk/biometric-residence-permits) erklärt, alle BRPs seien inzwischen abgelaufen und durch eVisas ersetzt worden. Ein eVisa ist ein [digitaler Nachweis Ihrer Identität und Ihres Aufenthaltsstatus](https://www.gov.uk/evisa), auf den Sie über ein UKVI-Konto zugreifen, statt ihn im Portemonnaie mit sich zu tragen. Deshalb ist das Konto der entscheidende Schritt, für Sie und für jedes Familienmitglied, das eine Karte besaß.
 
 Eine abgelaufene Karte bedeutet nicht, dass Ihre Aufenthaltserlaubnis beendet ist. Die Anweisungen von GOV.UK sind genau für diesen Fall gedacht: Menschen, deren BRP abgelaufen ist, die aber weiterhin die Erlaubnis haben, im Vereinigten Königreich zu bleiben.
 
@@ -38,11 +38,11 @@ GOV.UK listet genau auf, wofür die Karte noch gut ist. Sie können sich damit a
 
 Der dritte Zweck wird leicht übersehen. Steht Ihre Aufenthaltserlaubnis zur Verlängerung an, kann die abgelaufene Karte bei diesem Antrag noch eine Rolle spielen, solange ihr Zeitfenster offen ist, ein weiterer Grund, Ihr Datum zu kennen. Für das Reisen verweist GOV.UK auf Ihr eVisa und den damit verknüpften Pass, worauf wir weiter unten noch zu sprechen kommen.
 
-Sobald Sie angemeldet sind, ist das Konto Ihr Mittel, um Ihren Status im Alltag nachzuweisen. GOV.UK sagt, Sie können Ihr eVisa einsehen und einen Freigabecode erhalten, um Ihren Aufenthaltsstatus nachzuweisen, etwa bei einem neuen Job oder beim Anmieten einer Wohnung. Das eVisa zeigt außerdem die Bedingungen Ihres Status, etwa ob Sie arbeiten oder studieren dürfen. Ein Blick darauf lohnt sich auch ohne geplante Reise.
+Sobald Sie angemeldet sind, ist das Konto Ihr Mittel, um Ihren Status im Alltag nachzuweisen. [GOV.UK](https://www.gov.uk/evisa/view-evisa-get-share-code-prove-immigration-status) sagt, Sie können Ihr eVisa einsehen und einen Freigabecode erhalten, um Ihren Aufenthaltsstatus nachzuweisen, etwa bei einem neuen Job oder beim Anmieten einer Wohnung. Das eVisa zeigt außerdem die Bedingungen Ihres Status, etwa ob Sie arbeiten oder studieren dürfen. Ein Blick darauf lohnt sich auch ohne geplante Reise.
 
 ## Ein Reisepass und eine Referenznummer öffnen ebenfalls ein UKVI-Konto
 
-Wenn Ihre Karte verloren gegangen ist oder ihre 24 Monate bereits abgelaufen sind, sitzen Sie nicht fest. GOV.UK akzeptiert zwei weitere Kombinationen beim Einrichten eines Kontos: einen gültigen Reisepass plus Ihre Visumantragsnummer, oder einen gültigen Reisepass plus Ihre BRP-Nummer. Die BRP-Nummer steht auf der Karte selbst aufgedruckt, also würden wir sie irgendwo sicher notieren, solange Sie die Karte noch in der Hand haben.
+Wenn Ihre Karte verloren gegangen ist oder ihre 24 Monate bereits abgelaufen sind, sitzen Sie nicht fest. [GOV.UK](https://www.gov.uk/evisa/set-up-ukvi-account) akzeptiert zwei weitere Kombinationen beim Einrichten eines Kontos: einen gültigen Reisepass plus Ihre Visumantragsnummer, oder einen gültigen Reisepass plus Ihre BRP-Nummer. Die BRP-Nummer steht auf der Karte selbst aufgedruckt, also würden wir sie irgendwo sicher notieren, solange Sie die Karte noch in der Hand haben.
 
 Wenn Sie weder einen gültigen Reisepass noch einen abgelaufenen BRP haben, sagt GOV.UK, dass Sie Ihre Identität auf andere Weise bestätigen können. Die Seite nennt keine konkreten Schritte und verweist auf den Webchat von UK Visas and Immigration, das ist also der richtige Ausgangspunkt.
 
@@ -58,7 +58,7 @@ Wenn Ihr Kind 18 wird, sollten die Kontodaten auf sein eigenes Telefon und seine
 
 ## Zum Reisen muss der Pass, mit dem Sie fliegen, in Ihrem UKVI-Konto stehen
 
-GOV.UK ist hier unmissverständlich: Sie müssen mit einem gültigen Reisepass oder Reisedokument reisen, das Sie zu Ihrem UKVI-Konto hinzugefügt haben. Ihr eVisa wird geprüft, wenn Sie das Vereinigte Königreich verlassen und einreisen, durch einen Grenzbeamten oder an den eGates, und beim Check-in bei Ihrem Beförderer für die Rückkehr ins Vereinigte Königreich. Diese Prüfungen rufen Ihr eVisa über den Pass in Ihrem Konto ab. Stimmen die Angaben in Ihrem Konto nicht exakt mit den Passagierdaten überein, die Sie dem Beförderer gegeben haben, lässt dieser Sie möglicherweise nicht reisen, und Sie könnten auch an der Grenze des Vereinigten Königreichs aufgehalten werden.
+[GOV.UK](https://www.gov.uk/evisa/travel-with-evisa) ist hier unmissverständlich: Sie müssen mit einem gültigen Reisepass oder Reisedokument reisen, das Sie zu Ihrem UKVI-Konto hinzugefügt haben. Ihr eVisa wird geprüft, wenn Sie das Vereinigte Königreich verlassen und einreisen, durch einen Grenzbeamten oder an den eGates, und beim Check-in bei Ihrem Beförderer für die Rückkehr ins Vereinigte Königreich. Diese Prüfungen rufen Ihr eVisa über den Pass in Ihrem Konto ab. Stimmen die Angaben in Ihrem Konto nicht exakt mit den Passagierdaten überein, die Sie dem Beförderer gegeben haben, lässt dieser Sie möglicherweise nicht reisen, und Sie könnten auch an der Grenze des Vereinigten Königreichs aufgehalten werden.
 
 Melden Sie sich vor einer Reise an, bestätigen Sie, dass der Pass im Konto der ist, mit dem Sie reisen werden, und holen Sie sich einen Freigabecode. Ein Code gilt 90 Tage und kann mehrfach genutzt werden, und eine Fluggesellschaft oder ein Grenzbeamter kann danach fragen. Wir würden ihn vor der Buchung holen, nicht in der Schlange am Flughafen.
 
@@ -68,7 +68,7 @@ Wenn Sie zwei Staatsangehörigkeiten haben, überlegen Sie, mit welchem Pass Sie
 
 Wenn Sie Ihren Pass erneuert haben, muss der neue in Ihr Konto eingetragen werden, bevor Sie damit fliegen, und GOV.UK sagt, Sie können Passnummer und Ablaufdatum in Ihrem Konto selbst aktualisieren. Mit einem biometrischen Pass können Sie auch Namen und Staatsangehörigkeit selbst aktualisieren; alles andere muss UK Visas and Immigration für Sie ändern. Steht die Erneuerung noch vor Ihnen, erklärt unser Leitfaden zum [Erneuern des Passes vor Ablauf](https://traveldocumentvault.com/de/blog/renew-passport-before-expiry/), wann Sie starten sollten, und der neue Pass wird direkt nach Erhalt in Ihr Konto eingetragen.
 
-Quellen, die wir geprüft haben (6. November 2026)
+Offizielle Quellen
 
 - [UK Government: eVisa, setting up a UKVI account](https://www.gov.uk/evisa/set-up-ukvi-account)
 - [UK Government: travelling with an eVisa](https://www.gov.uk/evisa/travel-with-evisa)

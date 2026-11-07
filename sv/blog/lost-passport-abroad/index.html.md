@@ -36,7 +36,7 @@ Leta överallt innan du drar den värsta slutsatsen – jackfickor, alla fack i 
 
 ## Steg 2: Gör en polisanmälan omedelbart
 
-Gå till närmaste polisstation och anmäl passet som förlorat eller stulet. Ditt försäkringsbolag vill vanligtvis ha den här anmälan för ett anspråk, och en del ambassader begär den, men inte alla: den kanadensiska regeringen uppger exempelvis att den inte krävs för att ersätta passet. Vi skulle göra det inom en timme om det går, medan detaljerna fortfarande är färska i minnet.
+Gå till närmaste polisstation och anmäl passet som förlorat eller stulet. Ditt försäkringsbolag vill vanligtvis ha den här anmälan för ett anspråk, och en del ambassader begär den, men inte alla: [den kanadensiska regeringen](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings) uppger exempelvis att den inte krävs för att ersätta passet. Vi skulle göra det inom en timme om det går, medan detaljerna fortfarande är färska i minnet.
 
 Be om en skriftlig kopia med ärendenummer, och fråga om en engelsk översättning finns att få. Fotografera anmälan och spara flera kopior på säkert ställe.
 
@@ -53,7 +53,7 @@ Ring innan du besöker dem. Vissa ambassader kräver tidsbokning för nödpasstj
 
 ## Steg 4: Ansök om ett nödpass
 
-Din ambassad utfärdar ett nödpass (emergency travel document, ETD), vanligtvis giltigt för en enda resa hem. Handläggningstiden beror på ambassaden och hur brådskande ditt ärende är, så fråga när du ringer.
+Din ambassad utfärdar ett [nödpass (emergency travel document, ETD)](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport), vanligtvis giltigt för en enda resa hem. Handläggningstiden beror på ambassaden och hur brådskande ditt ärende är, så fråga när du ringer.
 
 Vad du vanligtvis behöver (bekräfta med din ambassad innan du besöker den):
 
@@ -84,12 +84,11 @@ När du har ditt nödpass, bekräfta utresekraven med lokala myndigheter om det 
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 
-Källor vi har kontrollerat (6 november 2026)
+Officiella källor
 
 - [Government of Canada: Lost or stolen belongings abroad](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings)
 - [UK Government: Travel urgently from abroad without your UK passport, How to apply](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport/how-to-apply)
 - [UK Government: Travel urgently from abroad without your UK passport, Who can apply](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport)
-- [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
 
 ## Vanliga frågor
 
@@ -103,7 +102,7 @@ Ja. Många länder utfärdar nödpass via sina ambassader och konsulat, vanligtv
 
 ### Behöver jag en polisanmälan om passet blir stulet utomlands?
 
-Vanligtvis värt att skaffa, även om inte alla passmyndigheter kräver den. Den kanadensiska regeringen uppger att en polisanmälan inte krävs för att ersätta passet men kan vara till hjälp vid försäkringsanspråk, och GOV.UK listar ingen sådan för en brittisk nödresehandling. Vissa ambassader begär en, och de flesta reseförsäkringsbolag vill ha den för ett anspråk. Skaffa den hos den lokala polisstationen omedelbart, be om en engelsk kopia om möjligt, och spara flera kopior.
+Vanligtvis värt att skaffa, även om inte alla passmyndigheter kräver den. Den kanadensiska regeringen uppger att en polisanmälan inte krävs för att ersätta passet men kan vara till hjälp vid försäkringsanspråk, och [GOV.UK](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport/how-to-apply) listar ingen sådan för en brittisk nödresehandling. Vissa ambassader begär en, och de flesta reseförsäkringsbolag vill ha den för ett anspråk. Skaffa den hos den lokala polisstationen omedelbart, be om en engelsk kopia om möjligt, och spara flera kopior.
 
 ### Täcker reseförsäkringen ett förlorat eller stulet pass?
 

@@ -30,7 +30,7 @@ Lo más crítico es que la zona de lectura mecánica —la franja en blanco y ne
 
 ![Dos pasaportes abiertos uno junto al otro: uno desgastado pero plano y utilizable, el otro con manchas de agua, páginas onduladas y laminación levantada](https://traveldocumentvault.com/blog/damaged-passport-travel/damage-vs-wear-figure.jpg) Arrugas leves en la portada: aceptable. Daño por agua en la página de datos: un problema.
 
-El motivo por el que esto importa es que **las aerolíneas asumen la responsabilidad si embarcan a alguien con un documento inaceptable.** Si embarcas con un pasaporte dañado y te deniegan la entrada al llegar, las autoridades pueden multar a la aerolínea por haberte transportado.
+El motivo por el que esto importa es que **las aerolíneas asumen la responsabilidad si embarcan a alguien con un documento inaceptable.** Si embarcas con un pasaporte dañado y te deniegan la entrada al llegar, las autoridades pueden [multar a la aerolínea](https://www.legislation.gov.uk/ukpga/1999/33/section/40) por haberte transportado.
 
 Ningún agente de puerta quiere ese papeleo, así que optan decididamente por la prudencia.
 
@@ -42,7 +42,7 @@ Detectar el daño con tiempo de sobra es el mejor escenario posible, porque toda
 
 Tu primera parada debería ser el sitio web oficial de la oficina de pasaportes de tu país, porque es el único lugar donde tienes la garantía de que las normas actuales y los plazos de tramitación son correctos, y ambos cambian con más frecuencia de lo que la gente espera. Si no estás seguro de si tu pasaporte en concreto seguirá siendo aceptado, la oficina de pasaportes es el único organismo cuya respuesta realmente cuenta. Un foro de aerolíneas no te va a salvar en el mostrador.
 
-Algunas cosas que conviene confirmar antes de ir. Suelen existir servicios urgentes y de vía rápida, pero no todos cubren pasaportes dañados, y el nivel más rápido de todos suele reservarse para renovaciones sencillas. Comprueba a qué servicio tiene derecho tu situación antes de reservar una cita.
+Algunas cosas que conviene confirmar antes de ir. Suelen existir [servicios urgentes y de vía rápida](https://www.gov.uk/get-a-passport-urgently), pero no todos cubren pasaportes dañados, y el nivel más rápido de todos suele reservarse para renovaciones sencillas. Comprueba a qué servicio tiene derecho tu situación antes de reservar una cita.
 
 Un pasaporte dañado también suele significar solicitarlo en persona en lugar de por correo. En algunos países, la oficina que gestiona los casos urgentes es un lugar completamente distinto al que simplemente recibe solicitudes, y presentarte en el mostrador equivocado te cuesta un día que probablemente no tienes.
 
@@ -91,7 +91,7 @@ Escanea tu pasaporte hoy, antes de necesitarlo.
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 
-Fuentes que hemos comprobado (6 de noviembre de 2026)
+Fuentes oficiales
 
 - [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
 - [UK legislation: Immigration and Asylum Act 1999, section 40](https://www.legislation.gov.uk/ukpga/1999/33/section/40)

@@ -33,7 +33,7 @@ Een brief is meestal vereist in de volgende situaties:
 - **Een kind reist met een ouder met een andere achternaam dan het kind.** Dit trekt bij sommige grenzen de aandacht, vooral bij jongere kinderen.
 - **Een kind is geadopteerd of in pleegzorg.** Voogdij- en toestemmingsdocumenten kunnen naast de brief vereist zijn.
 
-**Belangrijke kanttekening:** de regels verschillen sterk. Canada vereist wettelijk geen toestemmingsbrief, maar de Canadese overheid raadt er sterk een aan en merkt op dat "het niet kunnen tonen van een brief op verzoek kan leiden tot vertragingen of een weigering van in- of uitreis". Zuid-Afrika vraagt een toestemmingsverklaring onder ede als een ouder niet meereist. Sommige landen passen de eis alleen toe op kinderen onder een bepaalde leeftijd. Er is geen wereldwijde standaard.
+**Belangrijke kanttekening:** de regels verschillen sterk. Canada vereist wettelijk geen toestemmingsbrief, maar de [Canadese overheid](https://travel.gc.ca/travelling/children/consent-letter) raadt er sterk een aan en merkt op dat "het niet kunnen tonen van een brief op verzoek kan leiden tot vertragingen of een weigering van in- of uitreis". Zuid-Afrika vraagt een toestemmingsverklaring onder ede als een ouder niet meereist. Sommige landen passen de eis alleen toe op kinderen onder een bepaalde leeftijd. Er is geen wereldwijde standaard.
 
 Controleer de eisen altijd rechtstreeks bij de immigratiedienst van je specifieke bestemming voordat je reist. Gebruik het IATA Travel Centre om inreisvereisten te controleren, of neem contact op met de ambassade van je bestemmingsland. Twijfel je, dan is de brief hebben beter dan het alternatief: tegengehouden worden bij de incheckbalie of de grens.
 
@@ -61,8 +61,8 @@ Als een brief met een getuige bij de ondertekening wordt gevraagd of aanbevolen,
 
 Wat enkele landen over notarisatie zeggen:
 
-- **Canada.** Een toestemmingsbrief is wettelijk niet verplicht, maar de Canadese overheid raadt er sterk een aan en beveelt aan dat een notaris getuige is van de ondertekening. Grens- en luchtvaartpersoneel kan er bij in- of uitreis om vragen.
-- **Zuid-Afrika.** Als een ouder niet meereist, vraagt het Department of Home Affairs een toestemmingsverklaring onder ede. Volgens het ministerie mag die bij het tonen niet ouder zijn dan 4 maanden. Controleer de actuele pagina van Home Affairs.
+- **Canada.** Een toestemmingsbrief is wettelijk niet verplicht, maar de [Canadese overheid](https://travel.gc.ca/travelling/children/documents) raadt er sterk een aan en beveelt aan dat een notaris getuige is van de ondertekening. Grens- en luchtvaartpersoneel kan er bij in- of uitreis om vragen.
+- **Zuid-Afrika.** Als een ouder niet meereist, vraagt het [Department of Home Affairs](https://www.gov.za/news/speeches/director-general-mkuseli-apleni-media-briefing-new-requirements-travelling-children) een toestemmingsverklaring onder ede. Volgens het ministerie mag die bij het tonen niet ouder zijn dan 4 maanden. Controleer de actuele pagina van Home Affairs.
 - **Australië.** Smartraveller publiceert richtlijnen over reizen met kinderen, en luchtvaartmaatschappijen kunnen om een brief vragen. Controleer de richtlijnen voor zowel het land van vertrek als het land van aankomst.
 - **Verenigd Koninkrijk.** Wettelijk niet verplicht voor uitreis, maar luchtvaartmaatschappijen en grensfunctionarissen op de bestemming kunnen erom vragen wanneer een kind met slechts één ouder of met een volwassene die geen ouder is, reist. Controleer de richtlijnen op GOV.UK voor jouw route.
 - **Verenigde Staten.** Niet federaal verplicht, maar wel aanbevolen. Sommige staten erkennen notarisatie expliciet.
@@ -92,7 +92,7 @@ Zelfs goed voorbereide gezinnen maken fouten die tot afwijzing aan de grens leid
 | **Verenigd Koninkrijk** | Wettelijk niet verplicht; luchtvaartmaatschappijen en grens op bestemming kunnen erom vragen | Controleer de actuele richtlijnen | GOV.UK |
 | **Verenigde Staten** | Niet federaal verplicht; verschilt per staat | Controleer de actuele richtlijnen | travel.state.gov |
 | **Europese Unie** | Verschilt per land | Verschilt per land | IATA Travel Centre |
-| **Nieuw-Zeeland** | Aanbevolen | Doorgaans door de ouders ondertekend, met een overheidsfunctionaris als getuige | SafeTravel (Nieuw-Zeelandse overheid) |
+| **Nieuw-Zeeland** | Aanbevolen | Doorgaans door de ouders ondertekend, met een overheidsfunctionaris als getuige | [SafeTravel](https://www.safetravel.govt.nz/before-you-go/who-is-travelling/travelling-with-children) (Nieuw-Zeelandse overheid) |
 
 Zie deze tabel als een startpunt, niet als het laatste woord. Regels veranderen vaak, en de immigratiedienst van de bestemming zelf is je meest betrouwbare bron. Reisblogs en pagina's van luchtvaartmaatschappijen zijn nuttig voor context, maar kunnen achterlopen op de laatste eisen.
 
@@ -126,7 +126,7 @@ Loop deze lijst door voordat je de deur uit gaat, niet bij de incheckbalie, want
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 
-Bronnen die we hebben gecontroleerd (6 november 2026)
+Officiële bronnen
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [NZ SafeTravel: Travelling with children](https://www.safetravel.govt.nz/before-you-go/who-is-travelling/travelling-with-children)

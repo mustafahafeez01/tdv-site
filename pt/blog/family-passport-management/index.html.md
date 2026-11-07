@@ -24,7 +24,7 @@ O problema começa pequeno. Você tem o seu próprio passaporte, o seu cônjuge 
 
 Normalmente acaba por ser uma só pessoa a tratar de tudo, muitas vezes quem já gere o resto da logística da viagem, e esse único ponto de falha torna-se um risco.
 
-Os passaportes de crianças muitas vezes expiram mais cedo do que os de adultos. No Reino Unido, um passaporte de criança é válido por 5 anos, e muitos outros países emitem passaportes infantis com validade mais curta do que os de adultos. Isto significa que o passaporte do seu filho mais jovem geralmente torna-se o fator limitante para viagens familiares. Pode ter um progenitor com 8 anos de validade restante, mas se o passaporte do seu filho mais jovem expira em 18 meses, esse é o seu horizonte de planeamento.
+Os passaportes de crianças muitas vezes expiram mais cedo do que os de adultos. No Reino Unido, um [passaporte de criança é válido por 5 anos](https://www.gov.uk/get-a-child-passport), e muitos outros países emitem passaportes infantis com validade mais curta do que os de adultos. Isto significa que o passaporte do seu filho mais jovem geralmente torna-se o fator limitante para viagens familiares. Pode ter um progenitor com 8 anos de validade restante, mas se o passaporte do seu filho mais jovem expira em 18 meses, esse é o seu horizonte de planeamento.
 
 A maioria das famílias não se apercebe disto até já ter uma viagem reservada. Um progenitor encontra os passaportes uma semana antes da partida, digitalizando-os apressadamente enquanto arruma, e descobre que um documento infantil não cumpre a regra de validade que alguns destinos aplicam, muitas vezes de seis meses. A viagem está agora em risco, ou precisa de uma renovação de passaporte apressada e dispendiosa.
 
@@ -86,7 +86,7 @@ Se ainda não montou isto, comece hoje: digitalize a página da fotografia de ca
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 
-Fontes que verificámos (6 de novembro de 2026)
+Fontes oficiais
 
 - [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
 

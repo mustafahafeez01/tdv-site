@@ -36,7 +36,7 @@ Kijk overal na voordat je het ergste aanneemt – jaszakken, elk vak van je tas,
 
 ## Stap 2: Doe meteen aangifte bij de politie
 
-Ga naar het dichtstbijzijnde politiebureau en meld het paspoort als verloren of gestolen. Je verzekeraar zal er meestal om vragen voor een claim, en sommige ambassades vragen er ook om, al doet niet elke dat: de Canadese overheid zegt bijvoorbeeld dat het niet nodig is om een paspoort te vervangen. Wij zouden het binnen het uur doen als het kan, zolang de details je nog vers in het geheugen liggen.
+Ga naar het dichtstbijzijnde politiebureau en meld het paspoort als verloren of gestolen. Je verzekeraar zal er meestal om vragen voor een claim, en sommige ambassades vragen er ook om, al doet niet elke dat: [de Canadese overheid](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings) zegt bijvoorbeeld dat het niet nodig is om een paspoort te vervangen. Wij zouden het binnen het uur doen als het kan, zolang de details je nog vers in het geheugen liggen.
 
 Vraag om een schriftelijke kopie met een zaaknummer, en vraag om een Engelse vertaling als die beschikbaar is. Maak er een foto van en bewaar meerdere kopieën op een veilige plek.
 
@@ -53,7 +53,7 @@ Bel voordat je langsgaat. Sommige ambassades vereisen een afspraak voor noodpasp
 
 ## Stap 4: Vraag een noodpaspoort aan
 
-Je ambassade geeft een noodpaspoort (emergency travel document, ETD) uit, meestal geldig voor één enkele reis naar huis. De doorlooptijd hangt af van de post en van hoe dringend je zaak is, dus vraag ernaar als je belt.
+Je ambassade geeft een [noodpaspoort](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport) (emergency travel document, ETD) uit, meestal geldig voor één enkele reis naar huis. De doorlooptijd hangt af van de post en van hoe dringend je zaak is, dus vraag ernaar als je belt.
 
 Wat je meestal nodig hebt (bevestig dit met je ambassade voordat je langsgaat):
 
@@ -84,12 +84,11 @@ Zodra je je noodpaspoort hebt, bevestig indien nodig de uitreisvereisten bij de 
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 
-Bronnen die we hebben gecontroleerd (6 november 2026)
+Officiële bronnen
 
 - [Government of Canada: Lost or stolen belongings abroad](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings)
 - [UK Government: Travel urgently from abroad without your UK passport, How to apply](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport/how-to-apply)
 - [UK Government: Travel urgently from abroad without your UK passport, Who can apply](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport)
-- [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
 
 ## Veelgestelde vragen
 
@@ -103,7 +102,7 @@ Ja. Veel landen geven noodreisdocumenten uit via hun ambassades en consulaten, m
 
 ### Heb ik een proces-verbaal nodig als mijn paspoort in het buitenland wordt gestolen?
 
-Meestal de moeite waard, al vereist niet elke paspoortinstantie het. De Canadese overheid zegt dat een proces-verbaal niet nodig is om een paspoort te vervangen, maar wel kan helpen bij een verzekeringsclaim, en GOV.UK vermeldt er geen voor de aanvraag van een Brits noodreisdocument. Sommige ambassades vragen er wel om, en de meeste reisverzekeraars willen het voor een claim. Haal het meteen bij het plaatselijke politiebureau, vraag indien mogelijk om een Engelse kopie, en bewaar meerdere kopieën.
+Meestal de moeite waard, al vereist niet elke paspoortinstantie het. De Canadese overheid zegt dat een proces-verbaal niet nodig is om een paspoort te vervangen, maar wel kan helpen bij een verzekeringsclaim, en [GOV.UK](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport/how-to-apply) vermeldt er geen voor de aanvraag van een Brits noodreisdocument. Sommige ambassades vragen er wel om, en de meeste reisverzekeraars willen het voor een claim. Haal het meteen bij het plaatselijke politiebureau, vraag indien mogelijk om een Engelse kopie, en bewaar meerdere kopieën.
 
 ### Dekt mijn reisverzekering een verloren of gestolen paspoort?
 

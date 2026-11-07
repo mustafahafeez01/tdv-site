@@ -20,7 +20,7 @@ Le personnel d'enregistrement des compagnies aériennes et les agents frontalier
 
 ## L'enregistrement et le contrôle frontalier ne vérifient pas la même chose
 
-Deux personnes différentes examinent les mêmes documents pour deux raisons différentes, et le savoir évite bien des confusions au comptoir. Le personnel d'enregistrement ne décide pas si votre enfant pourra entrer dans le pays de destination. Il vérifie si la compagnie aérienne a de bonnes raisons de croire que vous serez admis, car en vertu d'accords de longue date entre transporteurs et gouvernements, une compagnie aérienne peut être tenue responsable de rapatrier un passager que la destination refuse ensuite. C'est pourquoi les agents d'enregistrement posent parfois plus de questions que l'agent frontalier ne le fera finalement : ils protègent la compagnie contre sa propre responsabilité.
+Deux personnes différentes examinent les mêmes documents pour deux raisons différentes, et le savoir évite bien des confusions au comptoir. Le personnel d'enregistrement ne décide pas si votre enfant pourra entrer dans le pays de destination. Il vérifie si la compagnie aérienne a de bonnes raisons de croire que vous serez admis, car [en vertu d'accords de longue date entre transporteurs et gouvernements](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001L0051), une compagnie aérienne peut être tenue responsable de rapatrier un passager que la destination refuse ensuite. C'est pourquoi les agents d'enregistrement posent parfois plus de questions que l'agent frontalier ne le fera finalement : ils protègent la compagnie contre sa propre responsabilité.
 
 L'agent frontalier que vous rencontrez après l'atterrissage prend une décision entièrement distincte, sans lien avec ce que la compagnie aérienne a décidé plus tôt. Certains pays répètent ce contrôle également à la sortie, pas seulement à l'entrée, si bien qu'une arrivée sans encombre ne préjuge en rien du contrôle de sortie deux semaines plus tard.
 
@@ -30,7 +30,7 @@ Satisfaire l'un ne lie pas l'autre.
 
 Si vous êtes le seul parent à voyager et que l'autre parent est vivant, en bonne santé et simplement absent de ce voyage, le document que la plupart des frontières attendent est une lettre de consentement. Nous détaillons exactement ce qu'elle doit contenir, quand elle doit être notariée, et les erreurs qui font rejeter ces lettres dans notre guide complet sur la [lettre de consentement pour voyage d'enfant](https://traveldocumentvault.com/fr/blog/child-travel-consent-letter/).
 
-Deux éléments s'ajoutent à cette lettre et méritent d'être emportés avec elle. Munissez-vous de l'acte de naissance de votre enfant, car une lettre de consentement nomme un enfant et un parent, et l'acte de naissance est ce qui vous relie l'un à l'autre en premier lieu. Certains pays attendent aussi que la lettre reflète toutes les personnes détenant l'autorité parentale, pas seulement le parent nommé sur le passeport, ce qui peut inclure un beau-parent ou un tuteur selon la situation légale de votre famille. Il vaut mieux vérifier si cela s'applique à vous auprès de l'autorité d'immigration de votre destination plutôt que de le supposer, car cela varie selon le pays et les circonstances.
+Deux éléments s'ajoutent à cette lettre et méritent d'être emportés avec elle. Munissez-vous de l'acte de naissance de votre enfant, car une lettre de consentement nomme un enfant et un parent, et l'acte de naissance est ce qui vous relie l'un à l'autre en premier lieu. Certains pays attendent aussi que la lettre reflète [toutes les personnes détenant l'autorité parentale](https://www.gov.uk/permission-take-child-abroad), pas seulement le parent nommé sur le passeport, ce qui peut inclure un beau-parent ou un tuteur selon la situation légale de votre famille. Il vaut mieux vérifier si cela s'applique à vous auprès de l'autorité d'immigration de votre destination plutôt que de le supposer, car cela varie selon le pays et les circonstances.
 
 ## Garde exclusive : quand l'ordonnance de justice fait office de document
 
@@ -84,7 +84,7 @@ Notre [liste de contrôle des documents de voyage](https://traveldocumentvault.c
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
-Sources vérifiées (6 novembre 2026)
+Sources officielles
 
 - [UK Government: Get permission to take a child abroad](https://www.gov.uk/permission-take-child-abroad)
 - [EU law: Directive 2001/51 on carrier responsibilities](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001L0051)

@@ -30,9 +30,9 @@ Hier gaan mensen vaker de mist in dan bij de vervaldatums. Het internationale ri
 
 ## Twee verdragen bepalen hoe lang het geldig is en waar het werkt
 
-Achter internationale rijbewijzen zitten drie internationale verdragen, en landen hebben zich bij één ervan aangesloten of bij meerdere. Twee ervan doen vrijwel al het werk: het Verdrag van Genève (1949) en het Verdrag van Wenen (1968). Er bestaat ook een ouder internationaal rijbewijs onder het Verdrag van Parijs (1926), dat enkele bestemmingen nog vermelden. Controleer de vervaldatum op het document.
+Achter internationale rijbewijzen zitten [drie internationale verdragen](https://www.gov.uk/driving-abroad/international-driving-permit), en landen hebben zich bij één ervan aangesloten of bij meerdere. Twee ervan doen vrijwel al het werk: het Verdrag van Genève (1949) en het Verdrag van Wenen (1968). Er bestaat ook een ouder internationaal rijbewijs onder het Verdrag van Parijs (1926), dat enkele bestemmingen nog vermelden. Controleer de vervaldatum op het document.
 
-Een internationaal rijbewijs onder het Verdrag van Genève (1949) is een jaar geldig. Een internationaal rijbewijs onder het Verdrag van Wenen (1968) kan tot drie jaar meegaan.
+Een internationaal rijbewijs onder het Verdrag van Genève (1949) [is een jaar geldig](https://travel.gc.ca/travelling/documents/international-driving-permit). Een internationaal rijbewijs onder het Verdrag van Wenen (1968) kan tot drie jaar meegaan.
 
 Dat onderscheid is op twee manieren belangrijk. Het bepaalt hoe lang je rijbewijs geldig is, en het bepaalt waar het wordt erkend. Een land dat maar één verdrag heeft geratificeerd, is niet verplicht een rijbewijs onder het andere verdrag te erkennen, en zo kan een rijbewijs dat vorig jaar prima werkte dit jaar zonder pardon worden geweigerd.
 
@@ -46,7 +46,7 @@ Dat onderscheid is op twee manieren belangrijk. Het bepaalt hoe lang je rijbewij
 
 ## Drie jaar op papier, vaak korter in de praktijk
 
-Aan die drie jaar zit een voorwaarde die je makkelijk over het hoofd ziet. Een internationaal rijbewijs onder het Verdrag van Wenen verloopt zodra je eigen rijbewijs verloopt, als die datum eerder valt.
+Aan die drie jaar zit een voorwaarde die je makkelijk over het hoofd ziet. Een internationaal rijbewijs onder het Verdrag van Wenen [verloopt zodra je eigen rijbewijs verloopt](https://treaties.un.org/doc/Treaties/1977/05/19770524%2000-13%20AM/Ch_XI_B_19.pdf), als die datum eerder valt.
 
 Stel dat je rijbewijs nog 14 maanden geldig is en je krijgt een internationaal rijbewijs voor drie jaar. Dan is dat internationale rijbewijs 14 maanden bruikbaar. De datum die erop gedrukt staat, gaat niet boven het rijbewijs dat erachter zit.
 
@@ -68,7 +68,7 @@ Dat is het praktische argument om alle drie de data op één plek bij te houden.
 
 Wij zouden dit in deze volgorde checken, en de datum van je rijbewijs vóór alles wat op het internationale rijbewijs staat gedrukt.
 
-**Of je überhaupt een internationaal rijbewijs nodig hebt.** Sommige landen accepteren je eigen rijbewijs zonder meer, en het land waar je rijdt bepaalt de eis, niet het land dat je rijbewijs heeft afgegeven.
+**Of je überhaupt een internationaal rijbewijs nodig hebt.** [Sommige landen accepteren je eigen rijbewijs zonder meer](https://www.gov.uk/driving-abroad), en het land waar je rijdt bepaalt de eis, niet het land dat je rijbewijs heeft afgegeven.
 
 **Welk verdrag je bestemming erkent**, en vergelijk daar vervolgens je internationale rijbewijs mee (het verdrag staat op het document zelf).
 
@@ -102,7 +102,7 @@ Pak vandaag je rijbewijs en, als je die hebt, je internationale rijbewijs, en le
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 
-Bronnen die we hebben gecontroleerd (6 november 2026)
+Officiële bronnen
 
 - [United Nations Treaty Collection: Convention on Road Traffic (1968)](https://treaties.un.org/doc/Treaties/1977/05/19770524%2000-13%20AM/Ch_XI_B_19.pdf)
 - [UK Government: driving abroad, international driving permits](https://www.gov.uk/driving-abroad/international-driving-permit)

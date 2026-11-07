@@ -11,9 +11,9 @@ Source: https://traveldocumentvault.com/de/blog/digital-passport-copy-valid/
 ## Wichtige Erkenntnisse
 
 - Digitale Reisepasskopien werden akzeptiert für **Hotel-Check-in, Flugbuchungen und Mietwagenbuchungen**, aber nicht an Grenzen oder zum Einchecken bei Fluggesellschaften.
-- Für internationale Reisen benötigen Sie an Grenzen und beim Boarding in der Regel den **Originalreisepass**. Auf manchen Strecken genügt stattdessen ein Personalausweis, etwa für EU-Bürger innerhalb der EU – eine Kopie genügt nie.
+- Für internationale Reisen benötigen Sie an Grenzen und beim Boarding in der Regel den **Originalreisepass**. Auf manchen Strecken genügt stattdessen ein Personalausweis, etwa [für EU-Bürger innerhalb der EU](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm) – eine Kopie genügt nie.
 - Digitale Kopien haben **keine rechtliche Geltung als Reisedokumente**. Sie dienen nur als Begleitdokumentation.
-- Visaanträge verlangen **bestimmte Formate**: Manche verlangen beglaubigte Kopien, andere – darunter viele E-Visa – einen klaren Scan der Fotoseite. Ein beiläufiges Handyfoto wird oft abgelehnt. Überprüfen Sie zuerst die Botschaftswebseite.
+- Visaanträge verlangen **bestimmte Formate**: Manche verlangen beglaubigte Kopien, andere – darunter [viele E-Visa](https://indianvisaonline.gov.in/evisa/tvoa.html) – einen klaren Scan der Fotoseite. Ein beiläufiges Handyfoto wird oft abgelehnt. Überprüfen Sie zuerst die Botschaftswebseite.
 - Wenn Ihr Reisepass im Ausland verloren geht, kann eine **Kopie der Fotoseite** Ihrer Botschaft helfen, Ihre Angaben beim Antrag auf Ersatz zu bestätigen.
 
 Bei der Planung einer Reise fragen sich viele Reisende, ob sie eine digitale Kopie ihres Reisepasses auf ihrem Telefon speichern können, anstatt das Original mitzunehmen. Sie müssen genau wissen, wo sie funktioniert und wo nicht, damit Sie nicht überraschend beim Check-in festsitzen.
@@ -22,11 +22,11 @@ Die kurze Antwort: Eine digitale Kopie ist wirklich nützlich, aber nur in besti
 
 ## Eine digitale Kopie ist ein Foto Ihres Reisepasses, kein digitaler Reisepass
 
-Eine digitale Kopie eines Reisepasses ist **ein Scan oder ein Handyfoto seiner Identifikationsseite**, der Seite mit Ihrem Foto, Namen, Geburtsdatum, Reisepassnummer und Ablaufdatum. Sie hält Ihre Angaben fest, ohne das Dokument zu ersetzen. Die kanadische Regierung sagt es in ihren Reisehinweisen klar: Kopien können helfen, wenn Ihre Dokumente verloren gehen oder gestohlen werden, aber sie können nicht als Ausweis dienen, und Sie müssen trotzdem einen neuen Reisepass beantragen, wenn Sie Ihren verlieren.
+Eine digitale Kopie eines Reisepasses ist **ein Scan oder ein Handyfoto seiner Identifikationsseite**, der Seite mit Ihrem Foto, Namen, Geburtsdatum, Reisepassnummer und Ablaufdatum. Sie hält Ihre Angaben fest, ohne das Dokument zu ersetzen. [Die kanadische Regierung](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings) sagt es in ihren Reisehinweisen klar: Kopien können helfen, wenn Ihre Dokumente verloren gehen oder gestohlen werden, aber sie können nicht als Ausweis dienen, und Sie müssen trotzdem einen neuen Reisepass beantragen, wenn Sie Ihren verlieren.
 
-Eine Kopie anzufertigen dauert nur ein paar Minuten. Legen Sie den Reisepass flach bei gutem Licht aus, fotografieren oder scannen Sie die Identifikationsseite so, dass die ganze Seite scharf ist, und zoomen Sie dann, um zu prüfen, dass jedes Detail lesbar ist. Machen Sie dasselbe für jedes Visum, mit dem Sie reisen. Die britische Checkliste für Auslandsreisen empfiehlt eine Sicherung Ihrer Reisepassangaben, die Sie mit der Familie teilen oder auf einer sicheren Datenspeicherplattform aufbewahren.
+Eine Kopie anzufertigen dauert nur ein paar Minuten. Legen Sie den Reisepass flach bei gutem Licht aus, fotografieren oder scannen Sie die Identifikationsseite so, dass die ganze Seite scharf ist, und zoomen Sie dann, um zu prüfen, dass jedes Detail lesbar ist. Machen Sie dasselbe für jedes Visum, mit dem Sie reisen. [Die britische Checkliste für Auslandsreisen](https://www.gov.uk/guidance/foreign-travel-checklist) empfiehlt eine Sicherung Ihrer Reisepassangaben, die Sie mit der Familie teilen oder auf einer sicheren Datenspeicherplattform aufbewahren.
 
-Eine Kopie ist auch nicht dasselbe wie die digitalen Ausweise, die manche Regierungen inzwischen akzeptieren. In den USA erlaubt die Transportation Security Administration Inhabern eines US-Reisepasses, einen Identitätspass in Google Wallet für ihre Flughafenkontrollen einzurichten, betont aber weiterhin, dass alle Passagiere einen gültigen physischen Ausweis mitführen müssen. Ein Foto in Ihrer Kamerarolle ist eine Sicherung Ihrer Angaben, und genau so sollten Sie es auch behandeln.
+Eine Kopie ist auch nicht dasselbe wie die digitalen Ausweise, die manche Regierungen inzwischen akzeptieren. In den USA erlaubt die [Transportation Security Administration](https://www.tsa.gov/digital-id) Inhabern eines US-Reisepasses, einen Identitätspass in Google Wallet für ihre Flughafenkontrollen einzurichten, betont aber weiterhin, dass alle Passagiere einen gültigen physischen Ausweis mitführen müssen. Ein Foto in Ihrer Kamerarolle ist eine Sicherung Ihrer Angaben, und genau so sollten Sie es auch behandeln.
 
 ## Wo digitale Reisepasskopien akzeptiert werden
 
@@ -44,7 +44,7 @@ Mietwagenvermietungen akzeptieren häufig digitale Reisepasskopien für Buchunge
 
 ### Geht Ihr Reisepass verloren, beschleunigt die Kopie das Verfahren
 
-Wenn Ihr Reisepass während einer Reise verloren geht oder gestohlen wird, kann eine Kopie der Fotoseite Ihrer Botschaft oder Ihrem Konsulat helfen, Ihre Angaben beim Antrag auf Ersatz zu bestätigen. Einen neuen Reisepass oder ein Notfall-Reisedokument müssen Sie trotzdem beantragen. Dies ist einer der stärksten Gründe, immer eine digitale Sicherung mitzuführen.
+Wenn Ihr Reisepass während einer Reise verloren geht oder gestohlen wird, kann eine Kopie der Fotoseite Ihrer Botschaft oder Ihrem Konsulat helfen, Ihre Angaben beim Antrag auf Ersatz zu bestätigen. Einen neuen Reisepass oder ein [Notfall-Reisedokument](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport) müssen Sie trotzdem beantragen. Dies ist einer der stärksten Gründe, immer eine digitale Sicherung mitzuführen.
 
 ![Diagramm dazu, wo eine digitale Reisepasskopie funktioniert: in der Regel kein Problem bei Hotel-Check-in, Flugbuchung und Mietwagen, Original erforderlich bei Grenzkontrolle und Boarding](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-where-de.jpg) Kurz gesagt – eine Kopie öffnet Türen, nur das Original überquert Grenzen.
 
@@ -89,7 +89,7 @@ Falls Sie noch keine Kopie angelegt haben, scannen Sie die Fotoseite Ihres Reise
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 
-Quellen, die wir geprüft haben (6. November 2026)
+Offizielle Quellen
 
 - [Government of Canada: Lost or stolen belongings abroad](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings)
 - [UK Government: Foreign travel checklist](https://www.gov.uk/guidance/foreign-travel-checklist)

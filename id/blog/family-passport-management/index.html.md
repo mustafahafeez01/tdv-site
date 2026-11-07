@@ -24,7 +24,7 @@ Masalahnya dimulai dari hal kecil. Anda punya paspor sendiri, pasangan Anda puny
 
 Biasanya satu orang akhirnya menangani semuanya, sering kali yang juga sudah mengurus logistik perjalanan lainnya, dan titik kegagalan tunggal ini pun menjadi risiko tersendiri.
 
-Paspor anak sering kali kedaluwarsa lebih cepat daripada paspor dewasa. Di Inggris, paspor anak berlaku 5 tahun, dan banyak negara lain juga menerbitkan paspor anak dengan masa berlaku yang lebih singkat daripada paspor dewasa. Artinya, paspor anak bungsu Anda sering kali menjadi faktor pembatas untuk perjalanan keluarga. Anda mungkin punya orang tua dengan sisa masa berlaku 8 tahun, tapi jika paspor si bungsu kedaluwarsa dalam 18 bulan, itulah batas waktu perencanaan Anda sebenarnya.
+Paspor anak sering kali kedaluwarsa lebih cepat daripada paspor dewasa. Di Inggris, [paspor anak berlaku 5 tahun](https://www.gov.uk/get-a-child-passport), dan banyak negara lain juga menerbitkan paspor anak dengan masa berlaku yang lebih singkat daripada paspor dewasa. Artinya, paspor anak bungsu Anda sering kali menjadi faktor pembatas untuk perjalanan keluarga. Anda mungkin punya orang tua dengan sisa masa berlaku 8 tahun, tapi jika paspor si bungsu kedaluwarsa dalam 18 bulan, itulah batas waktu perencanaan Anda sebenarnya.
 
 Kebanyakan keluarga baru menyadari hal ini setelah tiket perjalanan sudah dipesan. Seorang orang tua menemukan paspor-paspor itu seminggu sebelum keberangkatan, memeriksanya sambil terburu-buru berkemas, lalu mendapati bahwa paspor salah satu anak tidak memenuhi aturan masa berlaku yang diterapkan sebagian negara tujuan, sering kali enam bulan. Perjalanan pun jadi terancam, atau harus melalui perpanjangan paspor yang tergesa-gesa dan mahal.
 
@@ -86,7 +86,7 @@ Kalau Anda belum menyiapkannya, mulailah hari ini: pindai halaman foto setiap pa
 
 **Sebelum Anda mengandalkan ini:** ini adalah blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 
-Sumber yang kami periksa (6 November 2026)
+Sumber resmi
 
 - [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
 

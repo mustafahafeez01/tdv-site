@@ -16,13 +16,13 @@ Source: https://traveldocumentvault.com/de/blog/how-long-is-passport-valid-for-t
 - Kinderreisepässe verfallen schneller als die der Eltern – **überprüfen Sie jeden Reisepass in Ihrer Gruppe einzeln** vor der Buchung, nicht nur Ihren.
 - Die praktische Verlängerungsschwelle ist **12 Monate verbleibende Gültigkeit**, nicht das Verfallsdatum selbst.
 
-Sieben Monate Gültigkeit auf Ihrem Reisepass klingen reichlich. Sie buchen die Flüge, überprüfen die Gepäckbestimmungen, suchen nach Hotels. Dann kommen Sie zum Check-in-Schalter für Ihren Flug nach Bangkok an und der Agent zögert. Thailand verlangt, dass Ihr Reisepass am Tag Ihrer Ankunft mindestens 6 Monate gültig ist. Ihnen fehlen zwei Wochen. Sie steigen nicht ein.
+Sieben Monate Gültigkeit auf Ihrem Reisepass klingen reichlich. Sie buchen die Flüge, überprüfen die Gepäckbestimmungen, suchen nach Hotels. Dann kommen Sie zum Check-in-Schalter für Ihren Flug nach Bangkok an und der Agent zögert. [Thailand verlangt](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), dass Ihr Reisepass am Tag Ihrer Ankunft mindestens 6 Monate gültig ist. Ihnen fehlen zwei Wochen. Sie steigen nicht ein.
 
 Dies ist eine der am häufigsten missverstandenen Reiseregeln. Ein Reisepass, der nicht abgelaufen ist, kann immer noch die Einreiseanforderungen für Dutzende beliebter Ziele nicht erfüllen. Das Verständnis, wie Reisepass-Gültigkeitsmonate tatsächlich gezählt werden, kann Ihnen einen sehr teuren Fehler ersparen.
 
 ## Reisepässe für Erwachsene gelten weit länger als die für Kinder
 
-Die standardmäßige Gültigkeitsdauer für einen Reisepass für Erwachsene beträgt ab dem Ausstellungsdatum in den meisten Ländern 10 Jahre. Kinderreisepässe verfallen schneller – normalerweise nach 5 Jahren. Wir würden den Reisepass eines Kindes vor allen anderen prüfen, denn bei ihm gehen alle davon aus, dass schon alles in Ordnung ist.
+Die standardmäßige Gültigkeitsdauer für einen Reisepass für Erwachsene beträgt ab dem Ausstellungsdatum in den meisten Ländern 10 Jahre. Kinderreisepässe verfallen schneller – [normalerweise nach 5 Jahren](https://www.gov.uk/get-a-child-passport). Wir würden den Reisepass eines Kindes vor allen anderen prüfen, denn bei ihm gehen alle davon aus, dass schon alles in Ordnung ist.
 
 | Land | Gültigkeit Erwachsene | Gültigkeit Kinder |
 |---|---|---|
@@ -72,7 +72,7 @@ Ein 3-Jähriger, der 2023 seinen ersten Reisepass bekam, hat ein Dokument, das 2
 Die praktische Antwort: wenn Sie unter 12 Monaten verbleibender Gültigkeit fallen, nicht erst, wenn der Reisepass kurz vor dem Ablauf steht. Hier ist, warum 12 Monate die richtige Schwelle ist und nicht das Verfallsdatum selbst:
 
 - Es gibt Ihnen einen vollständigen 6-Monatspuffer für jedes Ziel, das die Regel durchsetzt.
-- Reisepassverlängerung braucht Zeit, und Bearbeitungszeiten ändern sich – das HM Passport Office rät davon ab, Reisen zu buchen, bis der neue Reisepass eintrifft, und sowohl das HM Passport Office als auch das US State Department veröffentlichen ihre aktuellen Bearbeitungszeiten. Bei 6 Monaten verbleibender Zeit bleibt daher wenig Spielraum.
+- Reisepassverlängerung braucht Zeit, und Bearbeitungszeiten ändern sich – das HM Passport Office [rät davon ab, Reisen zu buchen](https://www.gov.uk/renew-adult-passport), bis der neue Reisepass eintrifft, und sowohl das HM Passport Office als auch das US State Department veröffentlichen ihre aktuellen Bearbeitungszeiten. Bei 6 Monaten verbleibender Zeit bleibt daher wenig Spielraum.
 - Spontane Pläne passieren. Ein Reisepass mit 14 Monaten verbleibend hält alle Ziele offen. Ein Reisepass mit 5 Monaten verbleibend schließt einen großen Teil der Welt aus.
 
 Der häufigste Fehler ist, eine Erinnerung auf das Verfallsdatum selbst zu setzen. Zu diesem Zeitpunkt können Sie zu den meisten Zielen mit der 6-Monats-Regel nicht reisen.
@@ -83,7 +83,7 @@ Wenn Sie auch unseren Leitfaden zu [wie lange Reisepassverlängerung dauert,](ht
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 
-Quellen, die wir geprüft haben (6. November 2026)
+Offizielle Quellen
 
 - [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
 - [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)

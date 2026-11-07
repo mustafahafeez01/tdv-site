@@ -28,7 +28,7 @@ Dos configuraciones se venden como copia de seguridad cifrada, y se comportan de
 
 Una envía el archivo al servidor de la empresa por una conexión cifrada, y luego lo almacena cifrado en reposo. Ambas afirmaciones son ciertas, y ambas suenan tranquilizadoras. Pero la empresa sigue teniendo la clave, así que técnicamente puede descifrar tus documentos, ya sea para ofrecer una función, responder a una solicitud legal o por un error interno. Tu escaneo de pasaporte es legible al otro lado.
 
-La otra configuración revuelve el archivo en tu teléfono antes de que vaya a ninguna parte, usando una clave derivada de algo que solo tú tienes. Lo que llega al almacenamiento es un bloque de ruido, y nadie al otro lado puede leerlo, porque nadie al otro lado tiene la clave. Esto suele llamarse cifrado de extremo a extremo, o de conocimiento cero.
+La otra configuración revuelve el archivo en tu teléfono antes de que vaya a ninguna parte, usando una clave derivada de algo que solo tú tienes. Lo que llega al almacenamiento es un bloque de ruido, y nadie al otro lado puede leerlo, porque nadie al otro lado tiene la clave. Esto suele llamarse [cifrado de extremo a extremo](https://csrc.nist.gov/glossary/term/end_to_end_encryption), o de conocimiento cero.
 
 Así que la pregunta que vale la pena hacerle a cualquier app es corta: **¿quién tiene la clave?** Todo lo demás en el marketing se deriva de la respuesta.
 
@@ -108,7 +108,7 @@ Nada de esto es dramático, y esa es precisamente la idea. Las familias que sale
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 
-Fuentes que hemos comprobado (6 de noviembre de 2026)
+Fuentes oficiales
 
 - [NIST: end-to-end encryption glossary entry](https://csrc.nist.gov/glossary/term/end_to_end_encryption)
 

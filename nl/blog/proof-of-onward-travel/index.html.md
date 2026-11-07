@@ -40,7 +40,7 @@ Een **hotelboeking** en een **bankafschrift** komen ook vaak voor, maar ze beant
 
 De luchtvaartmaatschappij wil weten of je waarschijnlijk bij aankomst wordt geweigerd, waardoor zij met de kosten van je terugvlucht blijft zitten. Een grensbeambte stelt een verwante maar andere vraag: of je aan de toelatingsvoorwaarden van het land voldoet. De twee vragen overlappen, maar het is niet dezelfde vraag.
 
-Ze overlappen waar de regels van de bestemming zelf dat doen. De Schengengrenscode noemt bijvoorbeeld een retour- of heen-en-terugticket als een van de documenten die een grenswacht een bezoeker kan vragen te tonen. Nieuw-Zeeland vereist dat bezoekers over de middelen beschikken om het land te verlaten. Werkt een bestemming zo, dan past de luchtvaartmaatschappij bij het inchecken meestal gewoon de regel van de bestemming een paar uur eerder toe, en verzint ze niet zelf iets.
+Ze overlappen waar de regels van de bestemming zelf dat doen. [De Schengengrenscode](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0399) noemt bijvoorbeeld een retour- of heen-en-terugticket als een van de documenten die een grenswacht een bezoeker kan vragen te tonen. Nieuw-Zeeland [vereist dat bezoekers over de middelen beschikken om het land te verlaten](https://www.immigration.govt.nz/visas/visa-waiver-visitor-visa/). Werkt een bestemming zo, dan past de luchtvaartmaatschappij bij het inchecken meestal gewoon de regel van de bestemming een paar uur eerder toe, en verzint ze niet zelf iets.
 
 ![Diagram dat de controle door de luchtvaartmaatschappij bij het inchecken, die de regels van de bestemming toepast en beslist of je aan boord mag, vergelijkt met de grenscontrole bij aankomst, die beslist of je wordt toegelaten](https://traveldocumentvault.com/blog/proof-of-onward-travel/two-checks-nl.jpg) De luchtvaartmaatschappij controleert voor je instapt; de grensbeambte beslist bij aankomst.
 
@@ -70,12 +70,11 @@ Een boeking die je niet kunt openen, is net zo onhandig als geen boeking. De vra
 
 Bewaar een offline kopie van de bevestiging: een PDF, een schermafbeelding met het boekingsnummer en de data, of een kopie in een app die zonder verbinding werkt. Travel Document Vault bewaart vliegtickets en hotelboekingen op je toestel, versleuteld en offline beschikbaar. De bevestiging is er aan de balie, met of zonder bereik. Onze [checklist reisdocumenten](https://traveldocumentvault.com/nl/blog/travel-document-checklist/) behandelt de rest van wat het waard is om klaar te hebben.
 
-Bronnen die we hebben gecontroleerd (6 november 2026)
+Officiële bronnen
 
 - [EU law: Schengen Borders Code (Regulation 2016/399)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0399)
 - [Immigration New Zealand: Visa Waiver Visitor Visa](https://www.immigration.govt.nz/visas/visa-waiver-visitor-visa/)
 - [Immigration New Zealand: Visitor Visa](https://www.immigration.govt.nz/visas/visitor-visa/)
-- [Immigration New Zealand: Onward travel requirements](https://www.immigration.govt.nz/opsmanual/50548.htm)
 
 ## Veelgestelde vragen
 
@@ -97,7 +96,7 @@ Een enkele reis is op zichzelf geen probleem, omdat regels over verder reizen ov
 
 ### Heb ik bewijs van verder reizen nodig voor de grens?
 
-Soms, omdat sommige bestemmingen dit opnemen in hun toelatingsvoorwaarden voor bezoekers. De Schengengrenscode noemt een retour- of heen-en-terugticket als een van de documenten die een grenswacht kan vragen, en Nieuw-Zeeland vereist dat bezoekers over de middelen beschikken om het land te verlaten. Controleer de regels van je bestemming voordat je reist.
+Soms, omdat sommige bestemmingen dit opnemen in hun toelatingsvoorwaarden voor bezoekers. De Schengengrenscode noemt een retour- of heen-en-terugticket als een van de documenten die een grenswacht kan vragen, en Nieuw-Zeeland [vereist dat bezoekers over de middelen beschikken om het land te verlaten](https://www.immigration.govt.nz/visas/visitor-visa/). Controleer de regels van je bestemming voordat je reist.
 
 ## Gerelateerde artikelen
 

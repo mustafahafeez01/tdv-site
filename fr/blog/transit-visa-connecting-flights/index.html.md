@@ -39,9 +39,9 @@ Le piège se situe entre les deux. Une escale qui semble se dérouler en zone in
 
 Le visa de transit est obligatoire dans plusieurs cas de figure, et les règles varient fortement selon votre nationalité et le pays de transit.
 
-Le **visa de transit aéroportuaire Schengen (ATV)** s'applique à certains détenteurs de passeports hors UE effectuant une correspondance limitée à la zone internationale dans un aéroport Schengen (les États membres peuvent ajouter des nationalités dans certains cas). De nombreuses nationalités sont exemptées, ainsi que certains titulaires de visas ou de titres de séjour. Comme la liste des exemptions est complexe et évolue régulièrement, vous ne pouvez pas présumer en faire partie. La base de données de l'IATA Travel Centre contient les règles à jour pour votre nationalité et votre destination précises, donc consultez-la plutôt que de vous fier à ce que vous savez d'autres pays.
+Le **visa de transit aéroportuaire Schengen (ATV)** s'applique à [certains détenteurs de passeports hors UE](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0810) effectuant une correspondance limitée à la zone internationale dans un aéroport Schengen (les États membres peuvent ajouter des nationalités dans certains cas). De nombreuses nationalités sont exemptées, ainsi que certains titulaires de visas ou de titres de séjour. Comme la liste des exemptions est complexe et évolue régulièrement, vous ne pouvez pas présumer en faire partie. La base de données de l'IATA Travel Centre contient les règles à jour pour votre nationalité et votre destination précises, donc consultez-la plutôt que de vous fier à ce que vous savez d'autres pays.
 
-Le **Royaume-Uni** offre un transit en zone internationale sans visa pour de nombreux voyageurs, mais d'autres doivent obtenir ce qu'on appelle désormais le Direct Airside Transit Visa (DATV). Comme pour l'espace Schengen, l'exemption dépend surtout de votre nationalité, pas seulement de votre destination, et GOV.UK précise qu'aucun visa de transit n'est nécessaire si vous détenez une autorisation de voyage électronique (ETA) britannique.
+Le **Royaume-Uni** offre un transit en zone internationale sans visa pour de nombreux voyageurs, mais d'autres doivent obtenir ce qu'on appelle désormais le Direct Airside Transit Visa (DATV). Comme pour l'espace Schengen, l'exemption dépend surtout de votre nationalité, pas seulement de votre destination, et [GOV.UK](https://www.gov.uk/transit-visa) précise qu'aucun visa de transit n'est nécessaire si vous détenez une autorisation de voyage électronique (ETA) britannique.
 
 Dans la plupart des cas, les passagers en correspondance aux **États-Unis** passent par l'immigration et la douane américaines avant leur vol suivant. En pratique, il s'agit des règles d'entrée américaines plutôt que de celles d'un visa de transit : vérifiez-les tôt pour votre passeport et intégrez-les à votre préparation.
 
@@ -75,7 +75,7 @@ Si vous voyagez en famille, vérifiez individuellement le passeport de chaque me
 
 Avant de réserver, passez l'ensemble de votre itinéraire, et pas seulement la destination, dans l'IATA Travel Centre. C'est la vérification la plus susceptible de repérer une exigence manquante pendant que vous pouvez encore modifier la réservation.
 
-Sources vérifiées (6 novembre 2026)
+Sources officielles
 
 - [UK Government: Visa to pass through the UK in transit](https://www.gov.uk/transit-visa)
 - [EU law: Visa Code (Regulation 810/2009)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0810)
@@ -109,7 +109,7 @@ Contactez immédiatement votre compagnie aérienne et vérifiez le délai de tra
 
 ### Quelle est la durée de validité d'un visa de transit ?
 
-La durée de validité d'un visa de transit varie selon les pays. Le Visitor in Transit Visa du Royaume-Uni, par exemple, couvre un séjour de 48 heures maximum. Enregistrez et suivez la date d'expiration de votre visa de transit en même temps que celle de votre passeport et de votre visa d'entrée principal.
+La durée de validité d'un visa de transit varie selon les pays. Le [Visitor in Transit Visa](https://www.gov.uk/transit-visa/visitor-in-transit-visa) du Royaume-Uni, par exemple, couvre un séjour de 48 heures maximum. Enregistrez et suivez la date d'expiration de votre visa de transit en même temps que celle de votre passeport et de votre visa d'entrée principal.
 
 ## Articles connexes
 

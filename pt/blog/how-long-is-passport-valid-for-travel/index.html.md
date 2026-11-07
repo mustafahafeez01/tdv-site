@@ -16,13 +16,13 @@ Source: https://traveldocumentvault.com/pt/blog/how-long-is-passport-valid-for-t
 - Os passaportes de crianças expiram mais rápido do que os dos pais — **verifique o passaporte de cada membro do grupo individualmente** antes de marcar, não apenas o seu.
 - O limiar prático de renovação é **12 meses de validade restante**, não a data de expiração em si.
 
-Sete meses no seu passaporte parece bastante tempo. Marca os voos, verifica a bagagem permitida, começa a procurar hotéis. Depois chega ao balcão de check-in para o seu voo para Bangkok e o agente pausa. A Tailândia requer que o seu passaporte seja válido durante pelo menos 6 meses no dia em que chega. Está duas semanas aquém. Não vai embarcar.
+Sete meses no seu passaporte parece bastante tempo. Marca os voos, verifica a bagagem permitida, começa a procurar hotéis. Depois chega ao balcão de check-in para o seu voo para Bangkok e o agente pausa. [A Tailândia requer](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements) que o seu passaporte seja válido durante pelo menos 6 meses no dia em que chega. Está duas semanas aquém. Não vai embarcar.
 
 É uma das regras de viagem mais incompreendidas. Um passaporte que não expirou pode ainda assim falhar os requisitos de entrada para dezenas de destinos populares. Compreender como os meses de validade do passaporte são contados pode poupar-lhe um erro muito caro.
 
 ## Os Passaportes de Adultos Duram Muito Mais do Que os das Crianças
 
-O período de validade padrão para um passaporte de adulto é 10 anos a partir da data de emissão na maioria dos países. Os passaportes de crianças expiram mais cedo — normalmente 5 anos. Verificaríamos o passaporte da criança antes do de qualquer outra pessoa, por ser aquele que todos assumem estar em ordem.
+O período de validade padrão para um passaporte de adulto é 10 anos a partir da data de emissão na maioria dos países. Os passaportes de crianças expiram mais cedo — [normalmente 5 anos](https://www.gov.uk/get-a-child-passport). Verificaríamos o passaporte da criança antes do de qualquer outra pessoa, por ser aquele que todos assumem estar em ordem.
 
 | País | Validade de adulto | Validade de criança |
 |---|---|---|
@@ -72,7 +72,7 @@ Uma criança de 3 anos que obteve o seu primeiro passaporte em 2023 tem um docum
 A resposta prática: quando ficar com menos de 12 meses de validade restante, e não quando estiver prestes a expirar. Eis por que 12 meses é o limiar certo e não a data de expiração em si:
 
 - Dá-lhe uma margem de segurança completa de 6 meses para qualquer destino que aplique a regra.
-- A renovação de passaporte demora tempo, e os tempos de processamento mudam — o HM Passport Office aconselha a não marcar viagens até o novo passaporte chegar, e tanto este como o Departamento de Estado dos EUA publicam os seus tempos de processamento atuais. Por isso começar com 6 meses de validade deixa pouca margem.
+- A renovação de passaporte demora tempo, e os tempos de processamento mudam — o HM Passport Office [aconselha a não marcar viagens](https://www.gov.uk/renew-adult-passport) até o novo passaporte chegar, e tanto este como o Departamento de Estado dos EUA publicam os seus tempos de processamento atuais. Por isso começar com 6 meses de validade deixa pouca margem.
 - Planos de última hora acontecem. Um passaporte com 14 meses de validade mantém todos os destinos abertos. Um passaporte com 5 meses de validade fecha uma grande parte do mundo.
 
 O erro mais comum é definir um lembrete na data de expiração em si. Nesse momento, não pode viajar para a maioria dos destinos que aplicam a regra dos 6 meses.
@@ -83,7 +83,7 @@ Se também ler o nosso guia sobre [quanto tempo demora a renovação de passapor
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 
-Fontes que verificámos (6 de novembro de 2026)
+Fontes oficiais
 
 - [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
 - [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)

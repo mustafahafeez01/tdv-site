@@ -22,9 +22,9 @@ Paspor dan visa terdengar nyaris sama, tetapi fungsinya berbeda: yang satu mengi
 
 Paspor Anda memuat nama, tanggal lahir, foto, dan nomor paspor unik, diterbitkan oleh pemerintah Anda dan diakui di seluruh dunia sebagai bukti kewarganegaraan Anda.
 
-Paspor berfungsi sebagai identitas resmi Anda untuk perjalanan internasional. Untuk sebagian besar perjalanan internasional, Anda memerlukannya untuk meninggalkan negara Anda dan diizinkan masuk di negara tujuan, meskipun beberapa wilayah menerima dokumen lain, seperti kartu identitas nasional di Eropa atau kartu paspor AS di perlintasan darat dan laut. Petugas imigrasi memeriksanya di perbatasan, maskapai mensyaratkannya untuk penerbangan internasional, dan petugas bea cukai memeriksanya saat Anda tiba.
+Paspor berfungsi sebagai identitas resmi Anda untuk perjalanan internasional. Untuk sebagian besar perjalanan internasional, Anda memerlukannya untuk meninggalkan negara Anda dan diizinkan masuk di negara tujuan, meskipun beberapa wilayah menerima dokumen lain, seperti kartu identitas nasional di Eropa atau [kartu paspor AS](https://www.cbp.gov/travel/us-citizens/western-hemisphere-travel-initiative) di perlintasan darat dan laut. Petugas imigrasi memeriksanya di perbatasan, maskapai mensyaratkannya untuk penerbangan internasional, dan petugas bea cukai memeriksanya saat Anda tiba.
 
-Paspor umumnya berlaku selama beberapa tahun (sering kali 10 tahun untuk dewasa, 5 tahun untuk anak-anak), meskipun masa berlakunya berbeda-beda menurut negara. Ketika paspor Anda kedaluwarsa, Anda tidak bisa bepergian ke luar negeri dan harus mengajukan perpanjangan. Memantau tanggal ini lebih penting daripada yang disadari kebanyakan orang, karena banyak negara mensyaratkan sisa masa berlaku minimal 6 bulan sebelum mengizinkan Anda masuk, jadi paspor yang belum kedaluwarsa pun masih bisa ditolak di perbatasan. Kedutaan negara tujuan Anda akan mengonfirmasi aturan pasti yang berlaku.
+Paspor umumnya berlaku selama beberapa tahun (sering kali 10 tahun untuk dewasa, 5 tahun untuk anak-anak), meskipun masa berlakunya berbeda-beda menurut negara. Ketika paspor Anda kedaluwarsa, Anda tidak bisa bepergian ke luar negeri dan harus mengajukan perpanjangan. Memantau tanggal ini lebih penting daripada yang disadari kebanyakan orang, karena banyak negara mensyaratkan [sisa masa berlaku minimal 6 bulan](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements) sebelum mengizinkan Anda masuk, jadi paspor yang belum kedaluwarsa pun masih bisa ditolak di perbatasan. Kedutaan negara tujuan Anda akan mengonfirmasi aturan pasti yang berlaku.
 
 ## Apa Itu Visa
 
@@ -59,7 +59,7 @@ Sebagian besar negara menerbitkan visa dalam kategori berikut:
 - **Visa turis:** Jenis yang paling umum, diterbitkan untuk perjalanan wisata, jalan-jalan, dan mengunjungi teman atau keluarga.
 - **Visa kerja:** Diperlukan untuk bekerja di luar negeri. Biasanya disponsori oleh pemberi kerja, dengan pembatasan khusus mengenai jenis pekerjaan yang diizinkan.
 - **Visa pelajar:** Untuk belajar di lembaga pendidikan resmi, sering kali dengan pembatasan bekerja di luar kampus dan batas waktu tertentu.
-- **Visa transit:** Disyaratkan oleh sejumlah negara saat Anda melintasi wilayahnya dalam perjalanan menuju tujuan lain, bahkan jika Anda hanya berganti pesawat.
+- **Visa transit:** Disyaratkan oleh sejumlah negara saat Anda melintasi wilayahnya dalam perjalanan menuju tujuan lain, [bahkan jika Anda hanya berganti pesawat](https://www.gov.uk/transit-visa).
 - **E-visa:** Visa elektronik yang diajukan secara daring dan biasanya disimpan dalam sistem negara tujuan, terkait dengan nomor paspor Anda. Umum digunakan di Asia Tenggara dan semakin banyak diterapkan di wilayah lain.
 - **Visa saat kedatangan (visa on arrival):** Diterbitkan di bandara atau perbatasan negara tujuan saat Anda tiba. Prosesnya biasanya cepat, meskipun antreannya bisa panjang, dan tidak semua negara menawarkan opsi ini.
 
@@ -111,15 +111,15 @@ Kebingungannya, paspor lama Anda sudah kedaluwarsa sebagai dokumen perjalanan, s
 
 ## Perjalanan Bebas Visa Tetap Ada Batasnya
 
-Banyak negara memiliki perjanjian bebas visa satu sama lain, yang memungkinkan warganya melintasi perbatasan tanpa perlu mengurus visa terlebih dahulu. Area Schengen di Eropa adalah contoh paling terkenal, pelancong umumnya bisa melintas di antara 29 negara anggotanya tanpa pemeriksaan perbatasan rutin, meskipun beberapa negara memberlakukan kembali kontrol sementara. Keanggotaannya bisa berubah, jadi halaman resmi Komisi Eropa tentang Schengen adalah tempat terbaik untuk memastikan negara mana saja yang saat ini menjadi anggota. Asia Tenggara, Karibia, dan sebagian Afrika memiliki skema serupa.
+Banyak negara memiliki perjanjian bebas visa satu sama lain, yang memungkinkan warganya melintasi perbatasan tanpa perlu mengurus visa terlebih dahulu. Area Schengen di Eropa adalah contoh paling terkenal, pelancong umumnya bisa melintas di antara 29 negara anggotanya tanpa pemeriksaan perbatasan rutin, meskipun beberapa negara memberlakukan kembali kontrol sementara. Keanggotaannya bisa berubah, jadi [halaman resmi Komisi Eropa tentang Schengen](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en) adalah tempat terbaik untuk memastikan negara mana saja yang saat ini menjadi anggota. Asia Tenggara, Karibia, dan sebagian Afrika memiliki skema serupa.
 
-Namun, perjalanan bebas visa memiliki batasan. Biasanya hanya berlaku untuk wisata atau kunjungan jangka pendek, bukan untuk bekerja atau belajar. Masa bebas visa juga terbatas, sering kali 30 hingga 90 hari tergantung negaranya. Jika Anda melampaui batas waktu yang diizinkan, Anda menjadi penduduk ilegal dan menghadapi sanksi termasuk denda, deportasi, atau larangan masuk di masa depan.
+Namun, perjalanan bebas visa memiliki batasan. Biasanya hanya berlaku untuk wisata atau kunjungan jangka pendek, bukan untuk bekerja atau belajar. Masa bebas visa juga terbatas, [sering kali 30 hingga 90 hari](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en) tergantung negaranya. Jika Anda melampaui batas waktu yang diizinkan, Anda menjadi penduduk ilegal dan menghadapi sanksi termasuk denda, deportasi, atau larangan masuk di masa depan.
 
 Akses bebas visa juga sepenuhnya bergantung pada kewarganegaraan Anda. Dua orang yang bepergian bersama bisa memiliki persyaratan yang sama sekali berbeda berdasarkan paspor masing-masing, dengan satu orang masuk tanpa visa sementara yang lain harus mengajukan, jadi yang menentukan adalah kewarganegaraan Anda sendiri, bukan pengalaman teman seperjalanan.
 
 **Sebelum Anda mengandalkan ini:** ini blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 
-Sumber yang kami periksa (6 November 2026)
+Sumber resmi
 
 - [European Commission: Schengen area](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en)
 - [European Commission: Short-stay calculator](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en)

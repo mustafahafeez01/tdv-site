@@ -48,25 +48,25 @@ Una renovación que ya está en marcha es una cuestión distinta, y depende de s
 
 ## Un pasaporte expirado se renueva, no se tramita desde cero
 
-Un pasaporte caducado se renueva, no se vuelve a tramitar desde cero. GOV.UK recoge el pasaporte expirado como uno de los dos motivos para renovar antes de viajar, junto con no tener validez suficiente, así que para la mayoría de las personas la vía es el servicio estándar de renovación para adultos.
+Un pasaporte caducado se renueva, no se vuelve a tramitar desde cero. [GOV.UK](https://www.gov.uk/renew-adult-passport/renew) recoge el pasaporte expirado como uno de los dos motivos para renovar antes de viajar, junto con no tener validez suficiente, así que para la mayoría de las personas la vía es el servicio estándar de renovación para adultos.
 
-La excepción es un caso antiguo. Si tu último pasaporte del Reino Unido se expidió antes del 1 de enero de 1994, HM Passport Office te pide que solicites un primer pasaporte de adulto en su lugar, así que merece la pena comprobar la fecha de expedición antes de empezar.
+La excepción es un caso antiguo. Si tu último pasaporte del Reino Unido se expidió antes del 1 de enero de 1994, HM Passport Office te pide que [solicites un primer pasaporte de adulto](https://www.gov.uk/apply-first-adult-passport) en su lugar, así que merece la pena comprobar la fecha de expedición antes de empezar.
 
 Puedes solicitarlo en línea, lo que requiere una foto digital, o en un formulario en papel, que necesita dos fotos impresas idénticas. En ambos casos, enviarás tu pasaporte antiguo junto con la solicitud. Si contiene una visa aún válida, GOV.UK indica que envíes el pasaporte con la visa adjunta, y el pasaporte antiguo te será devuelto.
 
-Un detalle sorprende a muchos cuando llega el pasaporte nuevo: **tiene un número distinto**. Por eso GOV.UK recomienda no reservar viajes hasta tener el pasaporte nuevo en mano, y cualquier cosa hecha con el número antiguo, como una reserva de vuelo o una autorización de viaje para otro país, puede necesitar actualizarse. Nuestra guía sobre [cómo leer las fechas de tu pasaporte](https://traveldocumentvault.com/es/blog/how-to-read-your-passport-dates/) explica qué cambia al renovar y qué se mantiene igual.
+Un detalle sorprende a muchos cuando llega el pasaporte nuevo: **tiene un número distinto**. Por eso [GOV.UK](https://www.gov.uk/renew-adult-passport) recomienda no reservar viajes hasta tener el pasaporte nuevo en mano, y cualquier cosa hecha con el número antiguo, como una reserva de vuelo o una autorización de viaje para otro país, puede necesitar actualizarse. Nuestra guía sobre [cómo leer las fechas de tu pasaporte](https://traveldocumentvault.com/es/blog/how-to-read-your-passport-dates/) explica qué cambia al renovar y qué se mantiene igual.
 
 ## Viajes nacionales: Flexibilidad limitada con identidad alternativa
 
 Los viajes nacionales dentro del Reino Unido e Irlanda difieren de los viajes internacionales en este aspecto clave: las aerolíneas pueden aceptar identificación fotográfica alternativa como una licencia de conducir del Reino Unido o tarjeta de identidad nacional en lugar de un pasaporte. Sin embargo, lo que es aceptable varía significativamente según la aerolínea y el destino, así que no puedes asumir que cualquier identificación funcionará.
 
-**Esto no es permiso para omitir la renovación del pasaporte.** Diferentes aerolíneas tienen diferentes políticas en rutas nacionales —algunas requieren un pasaporte para todos los viajes a Irlanda aunque el Área de Viajes Común técnicamente permite viajes con tarjeta de identidad, mientras que otras aceptan una licencia de conducir. Las aerolíneas actualizan sus normas y tu compañía puede haber cambiado las suyas desde que volaste por última vez, así que no puedes asumir lo que funcionó antes.
+**Esto no es permiso para omitir la renovación del pasaporte.** Diferentes aerolíneas tienen diferentes políticas en rutas nacionales —algunas requieren un pasaporte para todos los viajes a Irlanda aunque el [Área de Viajes Común](https://www.gov.uk/foreign-travel-advice/ireland/entry-requirements) técnicamente permite viajes con tarjeta de identidad, mientras que otras aceptan una licencia de conducir. Las aerolíneas actualizan sus normas y tu compañía puede haber cambiado las suyas desde que volaste por última vez, así que no puedes asumir lo que funcionó antes.
 
 Si estás considerando viajar dentro del país con un pasaporte expirado, contacta a tu aerolínea con suficiente antelación a tu vuelo y pregunta explícitamente: "Mi pasaporte del Reino Unido está expirado. ¿Aceptarás mi licencia de conducir del Reino Unido en su lugar?" Obtén confirmación por escrito si puedes, ya que llegar al mostrador de facturación con una identificación alternativa sin confirmación previa es cómo la gente pierde vuelos.
 
 ## Renovación de emergencia: servicio Premium, si consigues una cita
 
-Si tu viaje es inminente y tu pasaporte está expirado, la Oficina de Pasaportes de Su Majestad ofrece un servicio 1 Day Premium diseñado exactamente para este escenario. GOV.UK indica que la cita más próxima es 2 días después de solicitarlo, y que el nuevo pasaporte está listo para recoger 4 horas después de tu cita. HM Passport Office publica la tarifa actual en gov.uk, que cubre la cita y la renovación juntas en lugar de sumarse a la tarifa estándar. Obtienes tu pasaporte mucho más rápido que por la vía estándar, aunque la rapidez exacta depende de la cita disponible. Ten en cuenta que el servicio 1 Day Premium es solo para renovaciones de adultos, no para primeros pasaportes de adultos.
+Si tu viaje es inminente y tu pasaporte está expirado, la Oficina de Pasaportes de Su Majestad ofrece un servicio 1 Day Premium diseñado exactamente para este escenario. [GOV.UK](https://www.gov.uk/get-a-passport-urgently) indica que la cita más próxima es 2 días después de solicitarlo, y que el nuevo pasaporte está listo para recoger 4 horas después de tu cita. HM Passport Office publica la tarifa actual en gov.uk, que cubre la cita y la renovación juntas en lugar de sumarse a la tarifa estándar. Obtienes tu pasaporte mucho más rápido que por la vía estándar, aunque la rapidez exacta depende de la cita disponible. Ten en cuenta que el servicio 1 Day Premium es solo para renovaciones de adultos, no para primeros pasaportes de adultos.
 
 Esta es la ruta de emergencia oficial para limitaciones de viajes genuinas. HM Passport Office publica su tiempo de procesamiento estándar actual en gov.uk, y merece la pena consultarlo antes de asumir que tienes tiempo de esperar. Cuando un viaje realmente no puede esperar, la opción Premium elimina la incertidumbre.
 
@@ -92,7 +92,7 @@ Esto se aplica sin importar si tu pasaporte expiró antes de que salieras del Re
 
 ## Si ya estás en el extranjero y tu pasaporte expira
 
-Este es el escenario genuinamente difícil. Si estás viajando y tu pasaporte expira antes de que regreses, no puedes subir a un vuelo o ferry a casa. Necesitarás contactar a la embajada o consulado británico más cercano para un documento de viaje de emergencia —a veces llamado ETD o pasaporte de emergencia— que por lo general es válido para un único viaje de ida o de ida y vuelta, a través de un máximo de cinco países.
+Este es el escenario genuinamente difícil. Si estás viajando y tu pasaporte expira antes de que regreses, no puedes subir a un vuelo o ferry a casa. Necesitarás contactar a la embajada o consulado británico más cercano para un [documento de viaje de emergencia](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport) —a veces llamado ETD o pasaporte de emergencia— que por lo general es válido para un único viaje de ida o de ida y vuelta, a través de un máximo de cinco países.
 
 El proceso es lento y burocrático. Necesitarás proporcionar prueba de identidad y pagar la tarifa, cuyo importe actual publica el Foreign, Commonwealth and Development Office. El tiempo de tramitación varía según la embajada y la urgencia de tu situación, así que pregunta qué esperar en cuanto contactes con ellos.
 
@@ -110,7 +110,7 @@ La forma más sencilla de evitar todo esto: saca hoy tu pasaporte y comprueba la
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 
-Fuentes que hemos comprobado (6 de noviembre de 2026)
+Fuentes oficiales
 
 - [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)
 - [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)

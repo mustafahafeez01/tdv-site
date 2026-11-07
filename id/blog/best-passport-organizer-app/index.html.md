@@ -39,7 +39,7 @@ Kebocoran pada aplikasi berbasis perangkat tidak membocorkan apa pun dari server
 
 ### Waktu tenggang pengingat adalah pengaturan yang layak Anda sesuaikan
 
-Ini adalah fitur paling berharga. Pengingat 6 bulan sebelumnya adalah standar minimum — banyak negara mensyaratkan paspor tetap berlaku setidaknya 6 bulan setelah tanggal perjalanan Anda, seperti dijelaskan dalam artikel kami tentang [aturan paspor 6 bulan](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/). Paspor anak sering kali berlaku 5 tahun alih-alih 10 tahun (paspor anak Inggris, misalnya, berlaku selama 5 tahun), sehingga pengingat lebih awal, misalnya 9 bulan sebelumnya, memberi waktu perencanaan yang lebih nyaman.
+Ini adalah fitur paling berharga. Pengingat 6 bulan sebelumnya adalah standar minimum — banyak negara mensyaratkan paspor tetap berlaku setidaknya 6 bulan setelah tanggal perjalanan Anda, seperti dijelaskan dalam artikel kami tentang [aturan paspor 6 bulan](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/). Paspor anak sering kali berlaku 5 tahun alih-alih 10 tahun ([paspor anak Inggris](https://www.gov.uk/get-a-child-passport), misalnya, berlaku selama 5 tahun), sehingga pengingat lebih awal, misalnya 9 bulan sebelumnya, memberi waktu perencanaan yang lebih nyaman.
 
 ### Satu aplikasi bisa menampung seluruh keluarga, dengan aman
 
@@ -104,7 +104,7 @@ Buka aplikasi yang benar-benar sedang Anda pertimbangkan dan cocokkan dengan daf
 
 **Sebelum Anda mengandalkan ini:** ini adalah blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 
-Sumber yang kami periksa (6 November 2026)
+Sumber resmi
 
 - [UK Foreign Office: Indonesia entry requirements](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements)
 - [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)

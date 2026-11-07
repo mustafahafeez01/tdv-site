@@ -30,15 +30,15 @@ Schengenområdet är där den här flexibiliteten spelar störst roll. Som EU-me
 
 ## Vad som räknas som ett nationellt EES-ID-kort
 
-När ett bokningsformulär eller personalen vid incheckningen frågar efter ett "nationellt EES-ID-kort" menar de identitetskortet som ditt eget land utfärdar till sina medborgare, det som anger din nationalitet. EES omfattar EU:s 27 länder plus Island, Liechtenstein och Norge. Schweiz står utanför, men EU-kommissionens Your Europe-vägledning bekräftar att EU-medborgare kan resa dit på ett nationellt ID-kort också.
+När ett bokningsformulär eller personalen vid incheckningen frågar efter ett "nationellt EES-ID-kort" menar de identitetskortet som ditt eget land utfärdar till sina medborgare, det som anger din nationalitet. EES omfattar EU:s 27 länder plus Island, Liechtenstein och Norge. Schweiz står utanför, men EU-kommissionens [Your Europe-vägledning](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm) bekräftar att EU-medborgare kan resa dit på ett nationellt ID-kort också.
 
-Ett uppehållskort visar var du bor, inte din nationalitet, så det följer med passet i stället för att ersätta det. Den brittiska regeringen uppmanar brittiska medborgare bosatta i Spanien att visa bevis på bosättning, till exempel sitt TIE-uppehållskort, tillsammans med passet vid den spanska gränskontrollen. Körkort, bankkort och skattekort räknas inte heller, och Your Europe varnar att de kan nekas som identitetsbevis.
+Ett uppehållskort visar var du bor, inte din nationalitet, så det följer med passet i stället för att ersätta det. [Den brittiska regeringen](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements) uppmanar brittiska medborgare bosatta i Spanien att visa bevis på bosättning, till exempel sitt TIE-uppehållskort, tillsammans med passet vid den spanska gränskontrollen. Körkort, bankkort och skattekort räknas inte heller, och Your Europe varnar att de kan nekas som identitetsbevis.
 
 Dagens EU-kort är lätt att känna igen. Det har kreditkortsstorlek, en maskinläsbar zon (raderna med kod som en skanner läser), och visar utfärdarlandets tvåbokstavskod i en blå rektangel omringad av 12 gula stjärnor på framsidan. Ett chip inuti lagrar ditt foto och två fingeravtryck.
 
-Det är de äldre korten som ställer till problem. Enligt EU:s förordning om identitetskort upphörde ett kort utan fungerande maskinläsbar zon, eller ett som ligger under den internationella miniminivån för säkerhet, att vara giltigt senast 3 augusti 2026, även om det tryckta datumet ligger senare. De flesta andra äldre kortformat gäller till sitt tryckta utgångsdatum eller 3 augusti 2031, beroende på vilket som inträffar först. Om ditt kort är äldre än den stjärnomringade koden och saknar maskinläsbar zon skulle vi förnya det nu i stället för att testa det vid gränsen.
+Det är de äldre korten som ställer till problem. Enligt [EU:s förordning om identitetskort](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1157) upphörde ett kort utan fungerande maskinläsbar zon, eller ett som ligger under den internationella miniminivån för säkerhet, att vara giltigt senast 3 augusti 2026, även om det tryckta datumet ligger senare. De flesta andra äldre kortformat gäller till sitt tryckta utgångsdatum eller 3 augusti 2031, beroende på vilket som inträffar först. Om ditt kort är äldre än den stjärnomringade koden och saknar maskinläsbar zon skulle vi förnya det nu i stället för att testa det vid gränsen.
 
-För Storbritannien fungerar kortet vanligtvis inte. Storbritannien godtar i regel EU-, EES- eller schweiziska ID-kort endast för begränsade grupper, som personer med settled eller pre-settled status, så kontrollera GOV.UK innan en resa till Storbritannien.
+För Storbritannien fungerar kortet vanligtvis inte. Storbritannien godtar i regel EU-, EES- eller schweiziska ID-kort endast för begränsade grupper, som personer med settled eller pre-settled status, så kontrollera [GOV.UK](https://www.gov.uk/guidance/visiting-the-uk-as-an-eu-eea-or-swiss-citizen) innan en resa till Storbritannien.
 
 ## När du behöver passet i stället
 
@@ -85,7 +85,7 @@ Det som hjälper är en enda plats för båda handlingarna, som sparar varje utg
 
 Börja i dag: ta fram ditt ID-kort, kontrollera utgångsdatumet och titta efter sprickor, blekt tryck eller skev plast. Är det på gränsen, boka förnyelsen innan du bokar resan.
 
-Källor vi har kontrollerat (6 november 2026)
+Officiella källor
 
 - [Your Europe (EU): Travel documents for EU nationals](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm)
 - [EU law: Regulation 2019/1157 on identity cards](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1157)

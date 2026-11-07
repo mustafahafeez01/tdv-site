@@ -19,7 +19,7 @@ Source: https://traveldocumentvault.com/nl/blog/us-child-passport-renewal-under-
 
 Een Amerikaans paspoort dat aan een kind onder de 16 is afgegeven, kun je niet verlengen. Loopt het af, dan vraag je persoonlijk een nieuw paspoort aan, op dezelfde manier als de eerste keer, en nemen beide ouders weer deel. Er komt meer papierwerk bij kijken dan bij een volwassen verlenging, maar niets is nieuw als je het al eens hebt gedaan.
 
-Federale paspoortregels trekken de grens bij 16: verlenging per post of online is alleen mogelijk wanneer het meest recente paspoort op 16-jarige leeftijd of ouder is afgegeven, dus elk paspoort dat een kind daarvoor krijgt, eindigt in een nieuwe aanvraag. Een kind dat als baby een eerste paspoort krijgt, kan vier aanvragen doorlopen voordat het 16 wordt, telkens met beide ouders erbij.
+[Federale paspoortregels](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-F/part-51) trekken de grens bij 16: verlenging per post of online is alleen mogelijk wanneer het meest recente paspoort op 16-jarige leeftijd of ouder is afgegeven, dus elk paspoort dat een kind daarvoor krijgt, eindigt in een nieuwe aanvraag. Een kind dat als baby een eerste paspoort krijgt, kan vier aanvragen doorlopen voordat het 16 wordt, telkens met beide ouders erbij.
 
 ## Paspoorten afgegeven vóór de 16e zijn vijf jaar geldig
 
@@ -69,7 +69,7 @@ Met meer dan één kind lopen de data uit elkaar. Paspoorten die een paar jaar n
 
 Vroeg beginnen maakt het verschil. Wij zouden ongeveer negen maanden voor de vervaldatum van het paspoort van een kind beginnen: genoeg tijd om een afspraak te vinden die voor beide ouders werkt, een notariële verklaring te laten ondertekenen, en nog tijd te hebben als iets opnieuw moet. Onze gids over [wanneer je een paspoort verlengt voordat het verloopt](https://traveldocumentvault.com/nl/blog/renew-passport-before-expiry/) gaat dieper in op de timing.
 
-Bronnen die we hebben gecontroleerd (6 november 2026)
+Officiële bronnen
 
 - [US eCFR: 22 CFR Part 51 (passports)](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-F/part-51)
 

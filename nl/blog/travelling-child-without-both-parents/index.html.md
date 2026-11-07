@@ -20,7 +20,7 @@ Incheckpersoneel en grensbeambten kijken twee keer naar een kind dat zonder beid
 
 ## De Incheckbalie en de Grens Controleren Verschillende Dingen
 
-Twee verschillende mensen kijken naar dezelfde papieren om twee verschillende redenen, en dat weten voorkomt verwarring aan de balie. Incheckpersoneel beslist niet of je kind het land van bestemming mag binnenkomen. Ze controleren of de luchtvaartmaatschappij er vertrouwen in heeft dat jullie binnengelaten worden, want onder langlopende afspraken tussen maatschappijen en overheden kan een luchtvaartmaatschappij aansprakelijk worden gesteld voor het terugvliegen van een passagier die de bestemming later weigert. Daarom vraagt de incheckbalie soms meer dan de grensbeambte uiteindelijk doet: ze beschermen de luchtvaartmaatschappij tegen haar eigen aansprakelijkheid.
+Twee verschillende mensen kijken naar dezelfde papieren om twee verschillende redenen, en dat weten voorkomt verwarring aan de balie. Incheckpersoneel beslist niet of je kind het land van bestemming mag binnenkomen. Ze controleren of de luchtvaartmaatschappij er vertrouwen in heeft dat jullie binnengelaten worden, want [onder langlopende afspraken tussen maatschappijen en overheden](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001L0051) kan een luchtvaartmaatschappij aansprakelijk worden gesteld voor het terugvliegen van een passagier die de bestemming later weigert. Daarom vraagt de incheckbalie soms meer dan de grensbeambte uiteindelijk doet: ze beschermen de luchtvaartmaatschappij tegen haar eigen aansprakelijkheid.
 
 De grensbeambte die je na de landing tegenkomt, neemt een volledig aparte beslissing, los van wat de luchtvaartmaatschappij eerder besliste. Sommige landen herhalen de controle ook bij vertrek, niet alleen bij aankomst, dus een soepele aankomst zegt niets over hoe de uitreiscontrole twee weken later zal verlopen.
 
@@ -30,7 +30,7 @@ Aan de ene eis voldoen bindt de andere niet.
 
 Als jij de enige ouder bent die reist en de andere ouder in leven en gezond is en gewoon niet mee is op deze reis, is het document dat de meeste grenzen verwachten een toestemmingsbrief, en we behandelen precies wat erin moet staan, wanneer het notarieel bekrachtigd moet worden en welke fouten brieven laten afwijzen in onze volledige gids over de [toestemmingsbrief voor kinderreizen](https://traveldocumentvault.com/nl/blog/child-travel-consent-letter/).
 
-Twee dingen vallen buiten die brief en zijn het waard om ernaast mee te nemen. Pak de geboorteakte van je kind in, want een toestemmingsbrief noemt een kind en een ouder, en de geboorteakte is wat jullie in de eerste plaats aan elkaar koppelt. Sommige landen verwachten ook dat de brief iedereen weergeeft die ouderlijk gezag heeft, niet alleen de ouder die op het paspoort staat, wat een stiefouder of voogd kan omvatten afhankelijk van de juridische situatie van je gezin. Of dit op jou van toepassing is, kun je beter navragen bij de immigratiedienst van je bestemming dan aannemen, want het verschilt per land en per situatie.
+Twee dingen vallen buiten die brief en zijn het waard om ernaast mee te nemen. Pak de geboorteakte van je kind in, want een toestemmingsbrief noemt een kind en een ouder, en de geboorteakte is wat jullie in de eerste plaats aan elkaar koppelt. Sommige landen verwachten ook dat de brief [iedereen weergeeft die ouderlijk gezag heeft](https://www.gov.uk/permission-take-child-abroad), niet alleen de ouder die op het paspoort staat, wat een stiefouder of voogd kan omvatten afhankelijk van de juridische situatie van je gezin. Of dit op jou van toepassing is, kun je beter navragen bij de immigratiedienst van je bestemming dan aannemen, want het verschilt per land en per situatie.
 
 ## Eenhoofdig Gezag: Wanneer de Gerechtelijke Beschikking het Document Is
 
@@ -84,7 +84,7 @@ Onze bredere [checklist reisdocumenten](https://traveldocumentvault.com/nl/blog/
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 
-Bronnen die we hebben gecontroleerd (6 november 2026)
+Officiële bronnen
 
 - [UK Government: Get permission to take a child abroad](https://www.gov.uk/permission-take-child-abroad)
 - [EU law: Directive 2001/51 on carrier responsibilities](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001L0051)

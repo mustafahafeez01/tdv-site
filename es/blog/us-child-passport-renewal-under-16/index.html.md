@@ -19,7 +19,7 @@ Source: https://traveldocumentvault.com/es/blog/us-child-passport-renewal-under-
 
 El pasaporte estadounidense emitido a un menor de 16 años no se puede renovar. Cuando caduca, se solicita uno nuevo en persona, igual que la primera vez, y ambos progenitores vuelven a participar. Supone algo más de papeleo que la renovación de un adulto, pero nada nuevo si ya se ha hecho antes.
 
-La normativa federal de pasaportes marca el límite en los 16 años: la renovación por correo o en línea solo está disponible cuando el último pasaporte se emitió a los 16 años o más, así que todo pasaporte que recibe un menor antes de esa edad termina en una nueva solicitud. Un menor que recibe su primer pasaporte siendo un bebé puede pasar por cuatro solicitudes antes de cumplir 16 años, cada una con la participación de ambos progenitores.
+[La normativa federal de pasaportes](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-F/part-51) marca el límite en los 16 años: la renovación por correo o en línea solo está disponible cuando el último pasaporte se emitió a los 16 años o más, así que todo pasaporte que recibe un menor antes de esa edad termina en una nueva solicitud. Un menor que recibe su primer pasaporte siendo un bebé puede pasar por cuatro solicitudes antes de cumplir 16 años, cada una con la participación de ambos progenitores.
 
 ## Los pasaportes emitidos antes de los 16 años son válidos durante cinco años
 
@@ -69,7 +69,7 @@ Con más de un hijo, las fechas se van separando. Pasaportes emitidos con unos a
 
 Lo que marca la diferencia es empezar con tiempo. Empezaríamos unos nueve meses antes de que caduque el pasaporte de un hijo: suficiente para encontrar una cita a la que puedan ir ambos progenitores, conseguir firmar cualquier declaración notariada, y todavía tener margen si hay que repetir algo. Nuestra guía sobre [cuándo renovar un pasaporte antes de que caduque](https://traveldocumentvault.com/es/blog/renew-passport-before-expiry/) explica ese calendario con más detalle.
 
-Fuentes que hemos comprobado (6 de noviembre de 2026)
+Fuentes oficiales
 
 - [US eCFR: 22 CFR Part 51 (passports)](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-F/part-51)
 

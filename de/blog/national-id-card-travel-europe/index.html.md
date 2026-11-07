@@ -30,15 +30,15 @@ Im Schengen-Raum zählt diese Flexibilität am meisten. Als EU-Bürger mit gült
 
 ## Was als EWR-Personalausweis zählt
 
-Wenn ein Buchungsformular oder ein Check-in-Mitarbeiter nach einem „EWR-Personalausweis“ fragt, meint er den Ausweis, den Ihr eigenes Land seinen Bürgern ausstellt, den, der Ihre Staatsangehörigkeit angibt. Der EWR besteht aus den 27 EU-Ländern plus Island, Liechtenstein und Norwegen; die Schweiz gehört nicht dazu, aber die Your-Europe-Hinweise der Europäischen Kommission bestätigen, dass EU-Bürger auch dorthin mit einem Personalausweis reisen können.
+Wenn ein Buchungsformular oder ein Check-in-Mitarbeiter nach einem „EWR-Personalausweis“ fragt, meint er den Ausweis, den Ihr eigenes Land seinen Bürgern ausstellt, den, der Ihre Staatsangehörigkeit angibt. Der EWR besteht aus den 27 EU-Ländern plus Island, Liechtenstein und Norwegen; die Schweiz gehört nicht dazu, aber die [Your-Europe-Hinweise](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm) der Europäischen Kommission bestätigen, dass EU-Bürger auch dorthin mit einem Personalausweis reisen können.
 
-Eine Aufenthaltskarte zeigt, wo Sie wohnen, nicht Ihre Staatsangehörigkeit, deshalb reist sie zusammen mit einem Reisepass, statt ihn zu ersetzen. Die britische Regierung weist britische Einwohner in Spanien an, bei der spanischen Grenzkontrolle zusammen mit dem Reisepass einen Aufenthaltsnachweis vorzulegen, etwa ihre TIE-Aufenthaltskarte. Führerscheine, Bankkarten und Steuerkarten zählen ebenfalls nicht, und Your Europe weist darauf hin, dass sie als Identitätsnachweis abgelehnt werden können.
+Eine Aufenthaltskarte zeigt, wo Sie wohnen, nicht Ihre Staatsangehörigkeit, deshalb reist sie zusammen mit einem Reisepass, statt ihn zu ersetzen. Die [britische Regierung](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements) weist britische Einwohner in Spanien an, bei der spanischen Grenzkontrolle zusammen mit dem Reisepass einen Aufenthaltsnachweis vorzulegen, etwa ihre TIE-Aufenthaltskarte. Führerscheine, Bankkarten und Steuerkarten zählen ebenfalls nicht, und Your Europe weist darauf hin, dass sie als Identitätsnachweis abgelehnt werden können.
 
 Der aktuelle EU-Ausweis ist leicht zu erkennen. Er hat Kreditkartenformat, besitzt eine maschinenlesbare Zone (die Codezeilen, die ein Scanner liest), und zeigt den aus zwei Buchstaben bestehenden Code des ausstellenden Landes in einem blauen Rechteck, umringt von 12 gelben Sternen, auf der Vorderseite. Ein Chip im Inneren speichert Ihr Foto und zwei Fingerabdrücke.
 
-Es sind die älteren Ausweise, die Probleme bereiten. Nach der EU-Verordnung über Personalausweise verlor ein Ausweis ohne funktionierende maschinenlesbare Zone, oder unterhalb des internationalen Mindestsicherheitsstandards, spätestens am 3. August 2026 seine Gültigkeit, selbst wenn das aufgedruckte Datum später liegt. Die meisten anderen Ausweise im alten Format bleiben bis zum aufgedruckten Ablaufdatum oder bis zum 3. August 2031 gültig, je nachdem, was früher eintritt. Wenn Ihr Ausweis älter ist als der sternumringte Code und keine maschinenlesbare Zone hat, würden wir ihn jetzt erneuern, statt es am Gate zu riskieren.
+Es sind die älteren Ausweise, die Probleme bereiten. Nach der [EU-Verordnung über Personalausweise](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1157) verlor ein Ausweis ohne funktionierende maschinenlesbare Zone, oder unterhalb des internationalen Mindestsicherheitsstandards, spätestens am 3. August 2026 seine Gültigkeit, selbst wenn das aufgedruckte Datum später liegt. Die meisten anderen Ausweise im alten Format bleiben bis zum aufgedruckten Ablaufdatum oder bis zum 3. August 2031 gültig, je nachdem, was früher eintritt. Wenn Ihr Ausweis älter ist als der sternumringte Code und keine maschinenlesbare Zone hat, würden wir ihn jetzt erneuern, statt es am Gate zu riskieren.
 
-Für das Vereinigte Königreich funktioniert der Ausweis in der Regel nicht. Das Vereinigte Königreich akzeptiert EU-, EWR- oder Schweizer Personalausweise in der Regel nur für bestimmte Gruppen, etwa Personen mit Settled oder Pre-Settled Status. Prüfen Sie deshalb GOV.UK vor Ihrer Reise.
+Für das Vereinigte Königreich funktioniert der Ausweis in der Regel nicht. Das Vereinigte Königreich akzeptiert EU-, EWR- oder Schweizer Personalausweise in der Regel nur für bestimmte Gruppen, etwa Personen mit Settled oder Pre-Settled Status. Prüfen Sie deshalb [GOV.UK](https://www.gov.uk/guidance/visiting-the-uk-as-an-eu-eea-or-swiss-citizen) vor Ihrer Reise.
 
 ## Wann Sie stattdessen den Reisepass brauchen
 
@@ -85,7 +85,7 @@ Hilfreich ist ein einziger Ort für beide Dokumente: einer, der jedes Ablaufdatu
 
 Fangen Sie heute an: Holen Sie Ihren Personalausweis hervor, prüfen Sie das Ablaufdatum und sehen Sie ihn auf Risse, Verblassen oder verzogenen Kunststoff durch. Wenn es knapp ist, beantragen Sie die Erneuerung, bevor Sie die Reise buchen.
 
-Quellen, die wir geprüft haben (6. November 2026)
+Offizielle Quellen
 
 - [Your Europe (EU): Travel documents for EU nationals](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm)
 - [EU law: Regulation 2019/1157 on identity cards](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1157)

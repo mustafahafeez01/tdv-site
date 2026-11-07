@@ -36,7 +36,7 @@ Les documents de votre police d'assurance sont chez celui qui vous l'a vendue, a
 
 Si vous ne vous souvenez même pas avoir acheté une police, vérifiez votre compte bancaire. Le Financial Ombudsman Service décrit un compte bancaire avec forfait comme un compte courant facturant des frais mensuels en échange d'avantages supplémentaires, dont l'assurance voyage. Dans ce cas, la banque est généralement le premier endroit où demander, alors essayez son application, son site ou sa ligne d'assistance.
 
-Une fois que vous les avez, le Foreign, Commonwealth and Development Office britannique conseille d'emporter les détails de votre police avec vous, y compris le numéro de police et le numéro d'assistance d'urgence de votre assureur. Il suggère aussi de les partager avec les personnes avec qui vous voyagez et votre famille restée chez vous. Si vous ne trouvez toujours rien, appelez l'assureur, ou la banque pour une couverture groupée, et demandez-leur de renvoyer les documents avant votre départ plutôt qu'après qu'un problème survienne.
+Une fois que vous les avez, le [Foreign, Commonwealth and Development Office](https://www.gov.uk/guidance/foreign-travel-insurance) britannique conseille d'emporter les détails de votre police avec vous, y compris le numéro de police et le numéro d'assistance d'urgence de votre assureur. Il suggère aussi de les partager avec les personnes avec qui vous voyagez et votre famille restée chez vous. Si vous ne trouvez toujours rien, appelez l'assureur, ou la banque pour une couverture groupée, et demandez-leur de renvoyer les documents avant votre départ plutôt qu'après qu'un problème survienne.
 
 ## Les cinq documents que vous devez conserver avant de partir
 
@@ -146,7 +146,7 @@ Vingt minutes maintenant, et vous ne chercherez rien en cas de crise.
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
-Sources vérifiées (6 novembre 2026)
+Sources officielles
 
 - [UK Government: Foreign travel insurance](https://www.gov.uk/guidance/foreign-travel-insurance)
 

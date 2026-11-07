@@ -13,12 +13,12 @@ Source: https://traveldocumentvault.com/da/blog/etias-documents-2026/
 - **ETIAS er en digital rejsetilladelse** for rejsende fra Storbritannien, USA og Canada – nødvendig for visumfri indrejse i Schengenområdet, når den bliver obligatorisk
 - **Du skal have et pas, der er gyldigt i mere end 3 måneder** efter din afrejsedato, samt en e-mailadresse for at ansøge
 - Sagsbehandlingstiden varierer, især kort efter lanceringen; **ansøg i god tid før din rejse**, og tjek EU's officielle hjemmeside for aktuel vejledning
-- Tjek EU's officielle hjemmeside for det aktuelle gebyr; **personer under 18 og over 70 år betaler ikke**, men skal stadig have tilladelse
+- Tjek [EU's officielle hjemmeside](https://home-affairs.ec.europa.eu/news/european-travel-authorisation-etias-will-cost-eur-20-2025-07-17_en) for det aktuelle gebyr; **personer under 18 og over 70 år betaler ikke**, men skal stadig have tilladelse
 - **Tvivl om dine svars pålidelighed kan føre til afvisning, så oplys alt, også hvis det er gammelt**
 
 Du har booket en familierejse til Italien og har hørt, at ETIAS er på vej – et nyt krav om digital tilladelse for visumfrie besøgende, der rejser til Europa. Denne guide forklarer, hvad ETIAS er, hvilke dokumenter du skal bruge, og hvordan ansøgningen fungerer, så du er forberedt, før du når formularen.
 
-European Travel Information and Authorisation System (ETIAS) er ikke et [visum](https://traveldocumentvault.com/da/blog/visa-vs-passport/) – det er en digital forhåndsgodkendelse til besøgende fra visumfrie lande. Er du statsborger i Storbritannien, USA eller Canada, bliver du som regel registreret ved grænsen i ind- og udrejsesystemet EES (foto og fingeraftryk ved første indrejse) og gennemgår en grænsekontrol. Når ETIAS bliver obligatorisk, flytter den proces online – du ansøger, før du flyver.
+European Travel Information and Authorisation System (ETIAS) er ikke et [visum](https://traveldocumentvault.com/da/blog/visa-vs-passport/) – det er en [digital forhåndsgodkendelse](https://travel-europe.europa.eu/en/etias) til besøgende fra visumfrie lande. Er du statsborger i Storbritannien, USA eller Canada, bliver du som regel registreret ved grænsen i [ind- og udrejsesystemet EES](https://travel-europe.europa.eu/en/ees) (foto og fingeraftryk ved første indrejse) og gennemgår en grænsekontrol. Når ETIAS bliver obligatorisk, flytter den proces online – du ansøger, før du flyver.
 
 ## Hvad er ETIAS, og hvem skal bruge det?
 
@@ -110,7 +110,7 @@ Den praktiske opgave i dag er at finde dit pas frem og tjekke det mod gyldigheds
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 
-Kilder vi har tjekket (6. november 2026)
+Officielle kilder
 
 - [EU travel: ETIAS](https://travel-europe.europa.eu/en/etias)
 - [EU travel: Entry/Exit System (EES)](https://travel-europe.europa.eu/en/ees)

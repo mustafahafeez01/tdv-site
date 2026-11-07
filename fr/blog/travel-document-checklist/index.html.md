@@ -26,7 +26,7 @@ L'erreur la plus courante des voyageurs est de traiter le moment de la réservat
 
 **Vérifiez vos passeports avant de payer**
 
-Avant de confirmer une réservation, vérifiez le passeport de chaque voyageur selon trois critères : la validité (répond-il aux exigences de la destination — de nombreux pays veulent encore six mois de validité le jour de votre arrivée, et quelques-uns comptent à partir du départ : vérifiez donc votre destination, comme expliqué dans notre [guide de la règle des 6 mois de passeport](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/)), la correspondance du nom (le nom sur le passeport doit correspondre exactement au nom de la réservation) et les pages vierges (certains pays exigent au moins deux pages de visa vierges pour les timbres d'entrée).
+Avant de confirmer une réservation, vérifiez le passeport de chaque voyageur selon trois critères : la validité (répond-il aux exigences de la destination — de nombreux pays veulent encore [six mois de validité le jour de votre arrivée](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), et quelques-uns comptent à partir du départ : vérifiez donc votre destination, comme expliqué dans notre [guide de la règle des 6 mois de passeport](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/)), la correspondance du nom (le nom sur le passeport doit correspondre exactement au nom de la réservation) et les pages vierges (certains pays exigent [au moins deux pages de visa vierges](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements) pour les timbres d'entrée).
 
 **Vérifiez vos exigences de visa**
 
@@ -42,7 +42,7 @@ Réservez une assurance voyage quand vous réservez les vols, pas une semaine av
 
 À ce stade, vous avez toujours le temps de corriger les choses. Les délais de renouvellement changent, et l'autorité des passeports de votre pays publie son propre chiffre actuel. Consultez toujours le site officiel pour les délais actuels avant de demander.
 
-Nous renouvellerions dès maintenant tout passeport expirant dans 12 mois. Les passeports des enfants expirent plus vite (au Royaume-Uni, ils sont valables 5 ans contre 10 pour les adultes, et plusieurs autres pays fonctionnent de la même façon) et les parents manquent fréquemment la fenêtre. Pour les demandeurs de Nouvelle-Zélande, vérifiez l'Office des passeports de Nouvelle-Zélande pour les délais actuels.
+Nous renouvellerions dès maintenant tout passeport expirant dans 12 mois. Les passeports des enfants expirent plus vite ([au Royaume-Uni, ils sont valables 5 ans](https://www.gov.uk/get-a-child-passport) contre 10 pour les adultes, et plusieurs autres pays fonctionnent de la même façon) et les parents manquent fréquemment la fenêtre. Pour les demandeurs de Nouvelle-Zélande, vérifiez l'Office des passeports de Nouvelle-Zélande pour les délais actuels.
 
 Soumettez toute demande de visa qui demande du délai, et vérifiez auprès de l'autorité qui la délivre le temps actuellement nécessaire. Préparez les documents justificatifs : relevés bancaires, confirmations d'hébergement, preuve de voyage ultérieur. Réservez une rendez-vous de biométrie à l'avance si le visa l'exige.
 
@@ -113,7 +113,7 @@ Si un voyage est déjà réservé, la seule chose qui vaut la peine d'être fait
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
-Sources vérifiées (6 novembre 2026)
+Sources officielles
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
@@ -138,7 +138,7 @@ Oui. L'expiration du passeport, les exigences de visa et la couverture d'assuran
 
 ### Qu'est-ce qu'une lettre de consentement de voyage pour enfant et en ai-je besoin ?
 
-Une lettre de consentement de voyage pour enfant est un document signé par le parent absent donnant la permission à l'enfant de voyager. Certains pays, dont l'Afrique du Sud, imposent des exigences supplémentaires aux enfants qui voyagent avec un seul parent, et les autorités canadiennes recommandent une lettre de consentement signée. Sans elle, vous pouvez vous exposer à des questions supplémentaires ou à des retards. La lettre doit inclure les détails complets de l'enfant, les coordonnées des deux parents, les dates et destinations du voyage, et la signature du parent absent.
+Une lettre de consentement de voyage pour enfant est un document signé par le parent absent donnant la permission à l'enfant de voyager. Certains pays, dont [l'Afrique du Sud](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements), imposent des exigences supplémentaires aux enfants qui voyagent avec un seul parent, et les [autorités canadiennes](https://travel.gc.ca/travelling/children/consent-letter) recommandent une lettre de consentement signée. Sans elle, vous pouvez vous exposer à des questions supplémentaires ou à des retards. La lettre doit inclure les détails complets de l'enfant, les coordonnées des deux parents, les dates et destinations du voyage, et la signature du parent absent.
 
 ### Quels documents dois-je garder avec moi à l'aéroport et ne pas mettre dans les bagages enregistrés ?
 

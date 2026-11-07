@@ -39,7 +39,7 @@ Et sikkerhedsbrud i en app med lokal lagring lækker intet fra deres servere –
 
 ### Varslingstiden er den indstilling, det er værd at tilpasse
 
-Dette er den enkeltstående mest værdifulde funktion. En påmindelse ved 6 måneder er minimum – mange lande kræver, at dit pas er gyldigt i mindst 6 måneder efter dine rejsedatoer, som forklaret i vores artikel om [6-måneders-reglen for pas](https://traveldocumentvault.com/da/blog/passport-expiry-6-month-rule/). Børnepas gælder ofte i 5 år i stedet for 10 (et britisk børnepas gælder for eksempel i 5 år), så en tidligere påmindelse giver – for eksempel 9 måneder i forvejen – mere behagelig tid til planlægning.
+Dette er den enkeltstående mest værdifulde funktion. En påmindelse ved 6 måneder er minimum – mange lande kræver, at dit pas er gyldigt i mindst 6 måneder efter dine rejsedatoer, som forklaret i vores artikel om [6-måneders-reglen for pas](https://traveldocumentvault.com/da/blog/passport-expiry-6-month-rule/). Børnepas gælder ofte i 5 år i stedet for 10 (et [britisk børnepas](https://www.gov.uk/get-a-child-passport) gælder for eksempel i 5 år), så en tidligere påmindelse giver – for eksempel 9 måneder i forvejen – mere behagelig tid til planlægning.
 
 ### Én app kan rumme hele familien, og det sikkert
 
@@ -104,7 +104,7 @@ Find den app, du faktisk overvejer, frem, og gå den igennem efter denne liste, 
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 
-Kilder vi har tjekket (6. november 2026)
+Officielle kilder
 
 - [UK Foreign Office: Indonesia entry requirements](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements)
 - [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)

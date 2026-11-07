@@ -22,9 +22,9 @@ Passport and visa sound almost interchangeable, but they do different jobs: one 
 
 Your passport contains your name, date of birth, photo, and a unique passport number, issued by your government and recognised worldwide as proof of your citizenship.
 
-It works as your official identification for international travel. For most international trips you need it to leave your country and to be admitted abroad, although some regions accept other documents, such as national ID cards within Europe or a US passport card at land and sea crossings. Immigration officers examine it at borders, airlines require it for international flights, and customs officials check it when you arrive.
+It works as your official identification for international travel. For most international trips you need it to leave your country and to be admitted abroad, although some regions accept other documents, such as national ID cards within Europe or a [US passport card](https://www.cbp.gov/travel/us-citizens/western-hemisphere-travel-initiative) at land and sea crossings. Immigration officers examine it at borders, airlines require it for international flights, and customs officials check it when you arrive.
 
-Passports are typically valid for several years (often 10 years for adults, 5 years for children), though validity periods vary by country. When your passport expires, you cannot travel internationally and must apply for a renewal. Keeping track of that date matters more than most people expect, because many countries require at least 6 months of validity remaining before they'll let you in, so a passport that hasn't expired can still turn you away at the border. Your destination's embassy will confirm the exact rule it applies.
+Passports are typically valid for several years (often 10 years for adults, 5 years for children), though validity periods vary by country. When your passport expires, you cannot travel internationally and must apply for a renewal. Keeping track of that date matters more than most people expect, because many countries require [at least 6 months of validity remaining](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements) before they'll let you in, so a passport that hasn't expired can still turn you away at the border. Your destination's embassy will confirm the exact rule it applies.
 
 ## What Is a Visa
 
@@ -59,7 +59,7 @@ Most countries issue visas in these categories:
 - **Tourist visa:** The most common type, issued for leisure travel, sightseeing, and visiting friends or family.
 - **Work visa:** Required for employment abroad. Employers typically sponsor these, with specific restrictions on what work you're allowed to do.
 - **Student visa:** For studying at a recognised educational institution, often with restrictions on outside work and specific duration limits.
-- **Transit visa:** Required by some countries for passing through on your way to another destination - even if you're only changing planes.
+- **Transit visa:** Required by some countries for passing through on your way to another destination - [even if you're only changing planes](https://www.gov.uk/transit-visa).
 - **E-visa:** An electronic visa applied for online and typically stored in the destination country's system, linked to your passport number. Common in Southeast Asia and increasingly elsewhere.
 - **Visa on arrival:** Issued at your destination airport or border when you land. Processing is usually quick, though queues can be long, and not all countries offer this option.
 
@@ -111,15 +111,15 @@ The confusion is that your old passport has expired as a travel document, whilst
 
 ## Visa-Free Travel Still Has Limits
 
-Many nations have visa waiver or visa-free agreements with each other, allowing their citizens to cross borders without obtaining a visa in advance. The Schengen Area in Europe is the most well-known example: travellers can generally cross between its 29 member states without routine border checks, although some countries reintroduce temporary controls. Membership does change, so the European Commission's own Schengen pages are the place to confirm who is currently in. Southeast Asia, the Caribbean, and parts of Africa have similar schemes.
+Many nations have visa waiver or visa-free agreements with each other, allowing their citizens to cross borders without obtaining a visa in advance. The Schengen Area in Europe is the most well-known example: travellers can generally cross between its 29 member states without routine border checks, although some countries reintroduce temporary controls. Membership does change, so [the European Commission's own Schengen pages](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en) are the place to confirm who is currently in. Southeast Asia, the Caribbean, and parts of Africa have similar schemes.
 
-However, visa-free travel has limits. It typically applies only to tourism or short-term visits, not work or study. Visa-free periods are also limited, often 30 to 90 days depending on the country. If you exceed the permitted time, you become an illegal resident and face penalties including fines, deportation, or future entry bans.
+However, visa-free travel has limits. It typically applies only to tourism or short-term visits, not work or study. Visa-free periods are also limited, [often 30 to 90 days](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en) depending on the country. If you exceed the permitted time, you become an illegal resident and face penalties including fines, deportation, or future entry bans.
 
 Visa-free access also depends entirely on your nationality. Two people travelling together might have completely different requirements based on their passports, with one crossing visa-free while the other has to apply, so it's your own nationality that matters here, not a travel companion's experience.
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [European Commission: Schengen area](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en)
 - [European Commission: Short-stay calculator](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en)

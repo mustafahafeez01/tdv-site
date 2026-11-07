@@ -19,7 +19,7 @@ Source: https://traveldocumentvault.com/it/blog/us-child-passport-renewal-under-
 
 Un passaporto USA rilasciato a un minore di 16 anni non può essere rinnovato. Quando scade, si richiede un nuovo passaporto di persona, nello stesso modo della prima volta, ed entrambi i genitori prendono parte di nuovo. C'è più documentazione rispetto al rinnovo di un adulto, ma non c'è nulla di nuovo se lo si è già fatto una volta.
 
-Le normative federali sui passaporti fissano il limite a 16 anni: il rinnovo per posta o online è possibile solo quando l'ultimo passaporto è stato rilasciato a 16 anni o più, quindi ogni passaporto ottenuto da un figlio prima di quell'età si conclude con una nuova domanda. Un figlio che ottiene il primo passaporto da neonato può passare attraverso quattro domande prima dei 16 anni, ognuna con entrambi i genitori coinvolti.
+[Le normative federali sui passaporti](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-F/part-51) fissano il limite a 16 anni: il rinnovo per posta o online è possibile solo quando l'ultimo passaporto è stato rilasciato a 16 anni o più, quindi ogni passaporto ottenuto da un figlio prima di quell'età si conclude con una nuova domanda. Un figlio che ottiene il primo passaporto da neonato può passare attraverso quattro domande prima dei 16 anni, ognuna con entrambi i genitori coinvolti.
 
 ## Il passaporto rilasciato prima dei 16 anni è valido cinque anni
 
@@ -69,7 +69,7 @@ Con più di un figlio, le date si distanziano. Passaporti rilasciati a distanza 
 
 La differenza la fa iniziare presto. Inizieremmo circa nove mesi prima della scadenza del passaporto di un figlio: abbastanza tempo per trovare un appuntamento che vada bene a entrambi i genitori, far firmare qualsiasi dichiarazione autenticata, e avere ancora tempo se qualcosa va rifatto. La nostra guida su [quando rinnovare un passaporto prima della scadenza](https://traveldocumentvault.com/it/blog/renew-passport-before-expiry/) approfondisce i tempi.
 
-Fonti che abbiamo verificato (6 novembre 2026)
+Fonti ufficiali
 
 - [US eCFR: 22 CFR Part 51 (passports)](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-F/part-51)
 

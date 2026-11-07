@@ -30,7 +30,7 @@ Lo urgente que necesites actuar determina qué hacer:
 - **Mucho tiempo antes del viaje:** solicita la renovación estándar en línea a través del sitio web de tu autoridad de pasaportes —GOV.UK en el Reino Unido, travel.state.gov en EE.UU.
 - **El viaje se acerca:** solicita inmediatamente y paga por procesamiento expedito. Tanto el Reino Unido como EE.UU. ofrecen en línea un servicio de pago más rápido, y ambos publican su tiempo de procesamiento actual.
 - **El viaje está cerca:** llama directamente a tu autoridad de pasaportes en lugar de confiar solo en el sitio web —la línea de atención de HM Passport Office en el Reino Unido, o el National Passport Information Center en EE.UU.
-- **El viaje es inminente:** pregunta por una cita de emergencia y lleva prueba de tus fechas de viaje. El servicio 1 Day Premium del Reino Unido (solo renovaciones de adultos) reserva citas desde 2 días después de solicitarlo, con el pasaporte listo para recoger 4 horas después de la cita, y EE.UU. publica sus opciones para viajes urgentes en travel.state.gov.
+- **El viaje es inminente:** pregunta por una cita de emergencia y lleva prueba de tus fechas de viaje. El [servicio 1 Day Premium](https://www.gov.uk/get-a-passport-urgently) del Reino Unido (solo renovaciones de adultos) reserva citas desde 2 días después de solicitarlo, con el pasaporte listo para recoger 4 horas después de la cita, y EE.UU. publica sus opciones para viajes urgentes en travel.state.gov.
 
 Si tu cronograma es ajustado, nosotros siempre llamaríamos en lugar de fiarnos solo del sitio web.
 
@@ -56,7 +56,7 @@ La caducidad rara vez significa empezar de nuevo, porque en el Reino Unido, Esta
 
 ### Reino Unido: un pasaporte caducado sigue la renovación normal
 
-GOV.UK indica que debes renovar tu pasaporte antes de poder viajar si ha caducado o si no le queda suficiente validez para tu destino. Un pasaporte caducado sigue la renovación estándar, en línea o en formulario de papel, y necesitarás tu antiguo pasaporte para hacerlo. Los pasaportes de adulto son para personas de 16 años en adelante, y los pasaportes infantiles tienen su propio proceso.
+[GOV.UK](https://www.gov.uk/renew-adult-passport/renew) indica que debes renovar tu pasaporte antes de poder viajar si ha caducado o si no le queda suficiente validez para tu destino. Un pasaporte caducado sigue la renovación estándar, en línea o en formulario de papel, y necesitarás tu antiguo pasaporte para hacerlo. Los pasaportes de adulto son para personas de 16 años en adelante, y los pasaportes infantiles tienen su propio proceso.
 
 ### Estados Unidos: la renovación funciona dentro de los 15 años desde la emisión
 
@@ -64,7 +64,7 @@ Estados Unidos tiene sus propios requisitos para renovar un pasaporte caducado, 
 
 ### Canadá: un pasaporte caducado se puede renovar en línea
 
-El gobierno de Canadá te permite renovar si tu último pasaporte era un pasaporte de adulto emitido cuando tenías al menos 16 años. Además, debe haberse emitido dentro de los 15 años anteriores a tu solicitud y tener una validez de 5 o 10 años. Puedes renovar en línea si tu pasaporte caduca en los próximos seis meses o ya ha caducado, siempre que tu domicilio y dirección postal estén en Canadá. Los pasaportes infantiles no se pueden renovar, así que un niño necesita una solicitud nueva.
+El [gobierno de Canadá](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html) te permite renovar si tu último pasaporte era un pasaporte de adulto emitido cuando tenías al menos 16 años. Además, debe haberse emitido dentro de los 15 años anteriores a tu solicitud y tener una validez de 5 o 10 años. Puedes [renovar en línea](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport/submit-form-fees/renew-online.html) si tu pasaporte caduca en los próximos seis meses o ya ha caducado, siempre que tu domicilio y dirección postal estén en Canadá. Los pasaportes infantiles no se pueden renovar, así que un niño necesita una solicitud nueva.
 
 Si tu pasaporte caducó hace años, mira primero la fecha de emisión, porque el límite de 15 años en Estados Unidos y Canadá se cuenta desde la emisión, no desde la caducidad. Después comprueba los plazos actuales antes de reservar, algo que nuestra guía sobre [cuánto tarda la renovación del pasaporte](https://traveldocumentvault.com/es/blog/how-long-does-passport-renewal-take/) detalla país por país.
 
@@ -110,7 +110,7 @@ Haz esto para cada pasaporte en tu hogar por separado. Los pasaportes de niños 
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 
-Fuentes que hemos comprobado (6 de noviembre de 2026)
+Fuentes oficiales
 
 - [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
 - [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)

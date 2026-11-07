@@ -22,9 +22,9 @@ Pass och visum låter nästan som samma sak, men de gör olika jobb: det ena ide
 
 Ditt pass innehåller ditt namn, födelsedatum, foto och ett unikt passnummer – utfärdat av ditt hemland och erkänt över hela världen som bevis på ditt medborgarskap.
 
-Det fungerar som din officiella legitimation för internationella resor. För de flesta internationella resor behöver du det för att lämna ditt land och för att släppas in utomlands, även om vissa regioner godtar andra dokument, som nationella ID-kort inom Europa eller ett amerikanskt passkort vid land- och sjöövergångar. Gränspoliser granskar det vid gränsen, flygbolag kräver det för internationella flygningar, och tullpersonal kontrollerar det när du anländer.
+Det fungerar som din officiella legitimation för internationella resor. För de flesta internationella resor behöver du det för att lämna ditt land och för att släppas in utomlands, även om vissa regioner godtar andra dokument, som nationella ID-kort inom Europa eller ett [amerikanskt passkort](https://www.cbp.gov/travel/us-citizens/western-hemisphere-travel-initiative) vid land- och sjöövergångar. Gränspoliser granskar det vid gränsen, flygbolag kräver det för internationella flygningar, och tullpersonal kontrollerar det när du anländer.
 
-Pass gäller vanligtvis i flera år (ofta 10 år för vuxna, 5 år för barn), men giltighetstiden varierar mellan länder. När passet går ut kan du inte resa internationellt och måste ansöka om förnyelse. Att hålla koll på det datumet spelar större roll än de flesta tror, eftersom många länder kräver minst 6 månaders återstående giltighet för att släppa in dig – så ett pass som inte har gått ut kan ändå nekas vid gränsen. Resmålslandets ambassad bekräftar den exakta regeln som gäller där.
+Pass gäller vanligtvis i flera år (ofta 10 år för vuxna, 5 år för barn), men giltighetstiden varierar mellan länder. När passet går ut kan du inte resa internationellt och måste ansöka om förnyelse. Att hålla koll på det datumet spelar större roll än de flesta tror, eftersom många länder kräver [minst 6 månaders återstående giltighet](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements) för att släppa in dig – så ett pass som inte har gått ut kan ändå nekas vid gränsen. Resmålslandets ambassad bekräftar den exakta regeln som gäller där.
 
 ## Vad är ett visum
 
@@ -59,7 +59,7 @@ De flesta länder utfärdar visum i följande kategorier:
 - **Turistvisum:** Den vanligaste typen, utfärdas för nöjesresor, sightseeing och besök hos vänner eller familj.
 - **Arbetsvisum:** Krävs för anställning utomlands. Arbetsgivare sponsrar vanligtvis dessa, med specifika begränsningar för vilket arbete du får utföra.
 - **Studentvisum:** För studier vid en erkänd utbildningsinstitution, ofta med begränsningar på extraarbete och specifika tidsgränser.
-- **Transitvisum:** Krävs av vissa länder för genomresa på väg till ett annat resmål – även om du bara byter plan.
+- **Transitvisum:** Krävs av vissa länder för genomresa på väg till ett annat resmål – [även om du bara byter plan](https://www.gov.uk/transit-visa).
 - **E-visum:** Ett elektroniskt visum som du ansöker om online och som vanligtvis lagras i resmålslandets system, kopplat till ditt passnummer. Vanligt i Sydostasien och allt vanligare på andra håll.
 - **Visum vid ankomst:** Utfärdas vid resmålets flygplats eller gräns när du landar. Handläggningen går oftast snabbt, men köerna kan vara långa, och alla länder erbjuder inte det här alternativet.
 
@@ -111,15 +111,15 @@ Förvirringen beror på att ditt gamla pass har gått ut som resehandling, medan
 
 ## Visumfria resor har fortfarande begränsningar
 
-Många länder har visumundantag eller visumfria avtal med varandra, vilket gör att deras medborgare kan passera gränser utan att skaffa visum i förväg. Schengenområdet i Europa är det mest kända exemplet – resenärer kan i regel passera mellan dess 29 medlemsstater utan rutinmässiga gränskontroller, även om vissa länder inför tillfälliga kontroller igen. Medlemskapet ändras dock, så EU-kommissionens egna Schengensidor är rätt plats för att bekräfta vilka länder som ingår just nu. Sydostasien, Karibien och delar av Afrika har liknande system.
+Många länder har visumundantag eller visumfria avtal med varandra, vilket gör att deras medborgare kan passera gränser utan att skaffa visum i förväg. Schengenområdet i Europa är det mest kända exemplet – resenärer kan i regel passera mellan dess 29 medlemsstater utan rutinmässiga gränskontroller, även om vissa länder inför tillfälliga kontroller igen. Medlemskapet ändras dock, så [EU-kommissionens egna Schengensidor](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en) är rätt plats för att bekräfta vilka länder som ingår just nu. Sydostasien, Karibien och delar av Afrika har liknande system.
 
-Visumfria resor har dock sina begränsningar. De gäller vanligtvis bara turism eller korta besök, inte arbete eller studier. Visumfria perioder är också begränsade, ofta 30 till 90 dagar beroende på land. Om du överskrider den tillåtna tiden blir din vistelse olaglig, och du riskerar påföljder som böter, utvisning eller framtida inreseförbud.
+Visumfria resor har dock sina begränsningar. De gäller vanligtvis bara turism eller korta besök, inte arbete eller studier. Visumfria perioder är också begränsade, ofta [30 till 90 dagar](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en) beroende på land. Om du överskrider den tillåtna tiden blir din vistelse olaglig, och du riskerar påföljder som böter, utvisning eller framtida inreseförbud.
 
 Visumfritt tillträde beror också helt på ditt medborgarskap. Två personer som reser tillsammans kan ha helt olika krav beroende på sina pass, där den ena reser visumfritt medan den andra måste ansöka, så det är ditt eget medborgarskap som gäller här, inte en reskamrats erfarenhet.
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 
-Källor vi har kontrollerat (6 november 2026)
+Officiella källor
 
 - [European Commission: Schengen area](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en)
 - [European Commission: Short-stay calculator](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en)

@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/
 - The EU's **official short-stay calculator** works, but it's manual - one person, one window, one calculation at a time.
 - Families juggle **a separate window per person**. That's where day-limit tracking in an app earns its place.
 
-On your last trip to Europe you probably collected a stamp at the border. That stamp is gone. Since 10 April 2026, the EU's Entry/Exit System (EES) has been fully operational across the Schengen area, and the smudged ink that once recorded your travels has been replaced by a digital record that starts the moment you cross.
+On your last trip to Europe you probably collected a stamp at the border. That stamp is gone. Since 10 April 2026, the EU's Entry/Exit System (EES) has been [fully operational](https://home-affairs.ec.europa.eu/news/entryexit-system-will-become-fully-operational-10-april-2026-2026-03-30_en) across the Schengen area, and the smudged ink that once recorded your travels has been replaced by a digital record that starts the moment you cross.
 
 For anyone who counts Schengen days - and every non-EU visitor should - this changes the stakes considerably. Here's what the new system actually does, what it deliberately doesn't do, and how to keep your own count so a border never surprises you.
 
@@ -26,7 +26,7 @@ Seen "Your remaining authorised stay cannot currently be calculated" in the EU's
 
 ## What Changed at Europe's Borders
 
-EES registers each non-EU traveller's fingerprints, facial image, travel document and exact entry and exit dates. When EES became fully operational on 10 April 2026, the European Commission said it had registered more than 52 million entries and exits since the phased launch in October 2025, with over 27,000 refusals of entry. First-time registration takes a few minutes at the kiosk, and airports have reported multi-hour queues at peak times this summer while everyone gets used to it.
+EES registers each non-EU traveller's fingerprints, facial image, travel document and exact entry and exit dates. When EES became fully operational on 10 April 2026, the [European Commission](https://home-affairs.ec.europa.eu/news/entryexit-system-ees-fully-operational-2026-04-10_en) said it had registered more than 52 million entries and exits since the phased launch in October 2025, with over 27,000 refusals of entry. First-time registration takes a few minutes at the kiosk, and airports have reported multi-hour queues at peak times this summer while everyone gets used to it.
 
 Not everyone is registered. EU citizens, residents of Schengen countries and long-stay visa holders are exempt. If you're visiting on the visa-free short-stay allowance - most British, American, Canadian and Australian travellers, for instance - EES applies to you.
 
@@ -36,11 +36,11 @@ The rule itself hasn't changed: you may spend at most 90 days inside the Schenge
 
 ![Hand-drawn diagram of the Schengen 90/180 rolling window: a timeline from 180 days ago to today holding two trips of 30 and 45 days, totalling 75 of 90 days used, with a note that the window slides every day and that arrival and departure days both count](https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/90-180-window.jpg) The window never resets: for every single day, the previous 180 days may hold at most 90 days of stay.
 
-What has changed is enforcement. Under passport stamps, proving an overstay meant deciphering faded ink, and border officers had discretion. Now the dates are exact, and the system flags an overstay the moment it happens. Expect refusal at your next entry, and in some cases an entry ban, generally of up to five years, which officials record in the Schengen Information System. The margin for error has gone from fuzzy to zero.
+What has changed is enforcement. Under passport stamps, proving an overstay meant deciphering faded ink, and border officers had discretion. Now the dates are exact, and the system flags an overstay the moment it happens. Expect refusal at your next entry, and in some cases an [entry ban](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32008L0115), generally of up to five years, which officials record in the Schengen Information System. The margin for error has gone from fuzzy to zero.
 
 ## The Catch: EES Enforces, It Doesn't Plan
 
-EES records your days for enforcement, and the EU now lets you see where you stand. Its EES online tool, on the official Travel to Europe website, shows the number of days you're still allowed to stay, and some external border crossings offer the same check. What it shows is your record so far. Working out whether a trip you haven't taken yet will fit is still up to you.
+EES records your days for enforcement, and the EU now lets you see where you stand. Its EES online tool, on the official [Travel to Europe website](https://travel-europe.europa.eu/en/ees), shows the number of days you're still allowed to stay, and some external border crossings offer the same check. What it shows is your record so far. Working out whether a trip you haven't taken yet will fit is still up to you.
 
 The EU publishes an official short-stay calculator that's well worth bookmarking. You enter your past entry and exit dates, and it tells you whether a planned stay fits inside your window. It works well for one traveller who keeps good records. The friction appears when the records live in your memory, or when you're doing the exercise for four people at once.
 
@@ -48,13 +48,13 @@ The EU publishes an official short-stay calculator that's well worth bookmarking
 
 Not everyone meets EES. The system registers non-EU visitors who arrive on visa-free short-stay allowances, and those on short-stay visas. If you hold citizenship from the US, UK, Canada, Australia, or dozens of other countries, EES applies to you the moment you cross into Schengen. It doesn't change how long your passport has to last, though: for Schengen that's three months after the day you leave, so [6 months left on your passport](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/) is plenty here, even if it isn't everywhere.
 
-If you're an EU, EEA or Swiss citizen, you're exempt - your passport receives no special entry process, and EES does not log your entries and exits. Inside the EU you can usually cross on your [EEA national ID card](https://traveldocumentvault.com/blog/national-id-card-travel-europe/) rather than a passport. The official list of exemptions is longer, and it includes non-EU family members of EU citizens who hold a residence card.
+If you're an EU, EEA or Swiss citizen, you're exempt - your passport receives no special entry process, and EES does not log your entries and exits. Inside the EU you can usually cross on your [EEA national ID card](https://traveldocumentvault.com/blog/national-id-card-travel-europe/) rather than a passport. The [official list of exemptions](https://home-affairs.ec.europa.eu/news/entry-exit-system-fully-operational-10-april-2026-who-exempt-2026-07-27_en) is longer, and it includes non-EU family members of EU citizens who hold a residence card.
 
 Being exempt from EES isn't the same as being exempt from the 90/180 rule, though. If you're a non-EU visitor on a short stay, the rule applies whether or not a border has registered you yet. Time spent in a Schengen country on a residence permit or long-stay (type D) visa from that country doesn't count towards it. Short visits to other Schengen countries generally still do, so check with the authority that issued your permit.
 
 ## What Happens at Your First EES Crossing
 
-The system creates your record at your first crossing into the Schengen area. You'll queue at a biometric kiosk at the border - airport, port, or land crossing. An officer scans your passport or travel document to check your identity. The system captures your facial image. If you don't need a visa, it also takes four fingerprints; if you travel on a short-stay visa, it stores only your facial image, since your fingerprints were taken when you applied. It takes longer than the passport stamp it replaces, and you only do it once.
+The system creates your record at your first crossing into the Schengen area. You'll queue at a biometric kiosk at the border - airport, port, or land crossing. An officer scans your passport or travel document to check your identity. The system captures your facial image. If you don't need a visa, it also takes [four fingerprints](https://travel-europe.europa.eu/en/ees/faq); if you travel on a short-stay visa, it stores only your facial image, since your fingerprints were taken when you applied. It takes longer than the passport stamp it replaces, and you only do it once.
 
 Once registered, the system records your exact entry date and time. If you later exceed your 90 days in 180, this timestamp becomes the reference point EES uses to calculate your rolling window.
 
@@ -114,7 +114,7 @@ The digital border is thorough, automatic and unsentimental, but staying inside 
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [EU travel: Entry/Exit System (EES)](https://travel-europe.europa.eu/en/ees)
 - [EU travel: EES frequently asked questions](https://travel-europe.europa.eu/en/ees/faq)

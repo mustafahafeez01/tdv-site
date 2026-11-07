@@ -60,7 +60,7 @@ La date de délivrance cesse d'être un détail insignifiant dès qu'un pays la 
 
 Les passeports britanniques délivrés plus récemment ne comportent plus ces mois supplémentaires, mais les anciens carnets qui les portent encore circulent et sont toujours utilisés.
 
-Les pays Schengen appliquent généralement deux tests distincts à un passeport hors UE à la frontière : il doit avoir été délivré moins de dix ans avant la date de votre arrivée, et il doit rester valable au moins trois mois après la date prévue de votre départ. Un carnet portant neuf mois supplémentaires peut satisfaire le second test sans difficulté et échouer au premier, ce qui donne lieu à une conversation délicate au guichet à Madrid avec un document qui n'a pourtant pas expiré.
+Les pays Schengen appliquent généralement deux tests distincts à un passeport hors UE à la frontière : il doit avoir été [délivré moins de dix ans avant la date de votre arrivée](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements), et il doit rester valable au moins trois mois après la date prévue de votre départ. Un carnet portant neuf mois supplémentaires peut satisfaire le second test sans difficulté et échouer au premier, ce qui donne lieu à une conversation délicate au guichet à Madrid avec un document qui n'a pourtant pas expiré.
 
 Nous vérifierions les deux dates avant un voyage en Europe, pas seulement celle du bas.
 
@@ -96,7 +96,7 @@ Prenez cinq minutes aujourd'hui pour repérer les deux dates sur votre propre pa
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
-Sources vérifiées (6 novembre 2026)
+Sources officielles
 
 - [UK Foreign Office: Spain entry requirements](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements)
 

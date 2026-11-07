@@ -48,25 +48,25 @@ Een verlenging die al loopt, is een andere kwestie, en die hangt ervan af of je 
 
 ## Een verlopen paspoort wordt verlengd, niet helemaal opnieuw aangevraagd
 
-Een verlopen paspoort wordt verlengd, niet helemaal opnieuw aangevraagd. GOV.UK noemt een verlopen paspoort een van de twee redenen waarom je moet verlengen voordat je reist, naast onvoldoende resterende geldigheid, dus voor de meeste mensen is de standaard verlengingsservice voor volwassenen de juiste route.
+Een verlopen paspoort wordt verlengd, niet helemaal opnieuw aangevraagd. [GOV.UK](https://www.gov.uk/renew-adult-passport/renew) noemt een verlopen paspoort een van de twee redenen waarom je moet verlengen voordat je reist, naast onvoldoende resterende geldigheid, dus voor de meeste mensen is de standaard verlengingsservice voor volwassenen de juiste route.
 
-De uitzondering betreft oude paspoorten. Is je laatste Britse paspoort afgegeven vóór 1 januari 1994, dan vraagt HM Passport Office je in plaats daarvan een eerste paspoort voor volwassenen aan te vragen, dus het loont om de afgiftedatum te controleren voordat je begint.
+De uitzondering betreft oude paspoorten. Is je laatste Britse paspoort afgegeven vóór 1 januari 1994, dan vraagt HM Passport Office je in plaats daarvan een [eerste paspoort voor volwassenen aan](https://www.gov.uk/apply-first-adult-passport) te vragen, dus het loont om de afgiftedatum te controleren voordat je begint.
 
 Je kunt online aanvragen, wat een digitale foto vereist, of met een papieren formulier, wat twee identieke afgedrukte foto's vereist. In beide gevallen stuur je je oude paspoort mee met de aanvraag. Bevat het nog een geldig visum, dan adviseert GOV.UK om het paspoort met het visum erin mee te sturen, waarna het oude paspoort aan je wordt teruggestuurd.
 
-Eén detail verrast mensen zodra het nieuwe paspoort arriveert: het heeft een ander nummer. GOV.UK raadt daarom af om reizen te boeken voordat je het nieuwe paspoort in handen hebt, en alles wat met het oude nummer is geregeld, zoals een vliegticket of een inreisautorisatie voor een ander land, moet mogelijk worden bijgewerkt. Onze gids over [het lezen van je paspoortdata](https://traveldocumentvault.com/nl/blog/how-to-read-your-passport-dates/) legt uit wat er verandert bij verlenging en wat hetzelfde blijft.
+Eén detail verrast mensen zodra het nieuwe paspoort arriveert: het heeft een ander nummer. [GOV.UK](https://www.gov.uk/renew-adult-passport) raadt daarom af om reizen te boeken voordat je het nieuwe paspoort in handen hebt, en alles wat met het oude nummer is geregeld, zoals een vliegticket of een inreisautorisatie voor een ander land, moet mogelijk worden bijgewerkt. Onze gids over [het lezen van je paspoortdata](https://traveldocumentvault.com/nl/blog/how-to-read-your-passport-dates/) legt uit wat er verandert bij verlenging en wat hetzelfde blijft.
 
 ## Binnenlandse reizen: beperkte flexibiliteit met alternatieve ID
 
 Binnenlandse reizen binnen het VK en Ierland werken iets anders: luchtvaartmaatschappijen accepteren mogelijk alternatieve foto-identificatie, zoals een Brits rijbewijs of nationale identiteitskaart, in plaats van een paspoort. Wat wordt geaccepteerd, verschilt echter aanzienlijk per luchtvaartmaatschappij en bestemming, dus je kunt er niet zomaar van uitgaan dat een bepaald identiteitsbewijs zal werken.
 
-**Dat betekent niet dat je de verlenging van je paspoort kunt overslaan.** Luchtvaartmaatschappijen hanteren verschillend beleid voor binnenlandse routes: sommige eisen een paspoort voor alle reizen naar Ierland, ook al staat de Common Travel Area technisch gezien reizen met een identiteitskaart toe, terwijl andere een rijbewijs accepteren. Luchtvaartmaatschappijen werken hun regels ook bij, en jouw maatschappij kan de regels sinds je laatste vlucht hebben gewijzigd, dus je kunt er niet van uitgaan dat wat eerder werkte, opnieuw werkt.
+**Dat betekent niet dat je de verlenging van je paspoort kunt overslaan.** Luchtvaartmaatschappijen hanteren verschillend beleid voor binnenlandse routes: sommige eisen een paspoort voor alle reizen naar Ierland, ook al staat de [Common Travel Area](https://www.gov.uk/foreign-travel-advice/ireland/entry-requirements) technisch gezien reizen met een identiteitskaart toe, terwijl andere een rijbewijs accepteren. Luchtvaartmaatschappijen werken hun regels ook bij, en jouw maatschappij kan de regels sinds je laatste vlucht hebben gewijzigd, dus je kunt er niet van uitgaan dat wat eerder werkte, opnieuw werkt.
 
 Overweeg je een binnenlandse reis met een verlopen paspoort, neem dan minstens 48 uur voor je vlucht contact op met je luchtvaartmaatschappij en vraag expliciet: "Mijn Britse paspoort is verlopen. Accepteren jullie in plaats daarvan mijn Britse rijbewijs?" Zorg indien mogelijk voor een schriftelijke bevestiging, want mensen missen hun vlucht juist doordat ze met een alternatief identiteitsbewijs en zonder voorafgaande bevestiging bij het inchecken verschijnen.
 
 ## Noodverlenging: Premium-service, als je een plek kunt krijgen
 
-Als je reis op korte termijn is en je paspoort is verlopen, biedt His Majesty's Passport Office een 1 Day Premium-service die precies voor dit scenario is ontworpen. Volgens gov.uk is de vroegst mogelijke afspraak 2 dagen na je aanvraag, en is je nieuwe paspoort 4 uur na de afspraak klaar om af te halen. His Majesty's Passport Office publiceert de actuele kosten op gov.uk, en die dekken de afspraak en de verlenging samen, in plaats van een toeslag bovenop het standaardtarief. Je verlengde paspoort komt aanzienlijk sneller aan dan via de standaardroute, al hangt hoeveel sneller af van de afspraak die je kunt krijgen. Let op: de 1 Day Premium-service is alleen voor verlengingen van volwassenen, niet voor eerste paspoorten voor volwassenen.
+Als je reis op korte termijn is en je paspoort is verlopen, biedt His Majesty's Passport Office een 1 Day Premium-service die precies voor dit scenario is ontworpen. Volgens [gov.uk](https://www.gov.uk/get-a-passport-urgently) is de vroegst mogelijke afspraak 2 dagen na je aanvraag, en is je nieuwe paspoort 4 uur na de afspraak klaar om af te halen. His Majesty's Passport Office publiceert de actuele kosten op gov.uk, en die dekken de afspraak en de verlenging samen, in plaats van een toeslag bovenop het standaardtarief. Je verlengde paspoort komt aanzienlijk sneller aan dan via de standaardroute, al hangt hoeveel sneller af van de afspraak die je kunt krijgen. Let op: de 1 Day Premium-service is alleen voor verlengingen van volwassenen, niet voor eerste paspoorten voor volwassenen.
 
 Dit is de officiële noodroute voor echte reisbeperkingen. De officiële richtlijn is momenteel om rekening te houden met ongeveer 3 weken voor een standaardverlenging, en bijna alle aanvragen worden binnen die termijn verwerkt, maar wanneer een reis echt niet kan wachten, neemt de Premium-optie de onzekerheid weg.
 
@@ -92,7 +92,7 @@ Is je paspoort al verlopen en zoek je uit wat je nu moet doen, dan behandelt [on
 
 ## Als je al in het buitenland bent en je paspoort verloopt
 
-Het lastigste scenario om je op voor te bereiden is dat je paspoort verloopt terwijl je nog in het buitenland bent. Verloopt het voordat je terugkeert, dan kun je niet aan boord gaan van een vlucht of veerboot naar huis, en moet je contact opnemen met de dichtstbijzijnde Britse ambassade of het consulaat voor een noodreisdocument, ook wel een ETD of noodpaspoort genoemd, dat meestal geldig is voor één enkele reis of retour, door maximaal vijf landen.
+Het lastigste scenario om je op voor te bereiden is dat je paspoort verloopt terwijl je nog in het buitenland bent. Verloopt het voordat je terugkeert, dan kun je niet aan boord gaan van een vlucht of veerboot naar huis, en moet je contact opnemen met de dichtstbijzijnde Britse ambassade of het consulaat voor een [noodreisdocument](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport), ook wel een ETD of noodpaspoort genoemd, dat meestal geldig is voor één enkele reis of retour, door maximaal vijf landen.
 
 Het proces is traag en bureaucratisch. Je moet identiteitsbewijs overleggen en de kosten betalen die worden vastgesteld door de Foreign, Commonwealth and Development Office. De verwerkingstijd verschilt per ambassade en hangt af van hoe urgent je situatie is, dus vraag bij het consulaat na wat je kunt verwachten zodra je contact opneemt.
 
@@ -110,7 +110,7 @@ De eenvoudigste manier om dit allemaal te voorkomen: haal vandaag je paspoort te
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 
-Bronnen die we hebben gecontroleerd (6 november 2026)
+Officiële bronnen
 
 - [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)
 - [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)

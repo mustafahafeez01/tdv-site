@@ -30,7 +30,7 @@ Yang paling penting, zona yang bisa dibaca mesin, garis hitam putih di bagian ba
 
 ![Dua paspor terbuka berdampingan: satu using tapi rata dan masih bisa dipakai, satu lagi bernoda air dengan halaman bergelombang dan laminasi terkelupas](https://traveldocumentvault.com/blog/damaged-passport-travel/damage-vs-wear-figure.jpg) Lipatan kecil pada sampul: masih bisa diterima. Kerusakan air pada halaman data: masalah.
 
-Alasan ini penting adalah karena **maskapai menanggung tanggung jawab jika memberangkatkan penumpang dengan dokumen yang tidak layak.** Jika Anda berangkat dengan paspor rusak lalu ditolak masuk di negara tujuan, otoritas setempat bisa mengenakan denda kepada maskapai karena membawa Anda.
+Alasan ini penting adalah karena **maskapai menanggung tanggung jawab jika memberangkatkan penumpang dengan dokumen yang tidak layak.** Jika Anda berangkat dengan paspor rusak lalu ditolak masuk di negara tujuan, otoritas setempat bisa mengenakan [denda kepada maskapai](https://www.legislation.gov.uk/ukpga/1999/33/section/40) karena membawa Anda.
 
 Tidak ada petugas gerbang yang ingin mengurus semua itu, jadi mereka memilih untuk berhati-hati secara tegas.
 
@@ -42,7 +42,7 @@ Menemukan kerusakan saat masih ada waktu adalah skenario terbaik, karena Anda ma
 
 Langkah pertama Anda seharusnya adalah situs resmi kantor paspor negara Anda sendiri, karena hanya di sanalah aturan dan waktu pemrosesan terkini dijamin akurat, dan keduanya berubah lebih sering daripada yang orang kira. Jika Anda tidak yakin apakah paspor Anda masih akan diterima, kantor paspor adalah satu-satunya pihak yang jawabannya benar-benar berlaku. Forum diskusi maskapai tidak akan menyelamatkan Anda di meja check-in.
 
-Ada beberapa hal yang perlu dipastikan sebelum Anda pergi. Layanan cepat atau prioritas biasanya tersedia, tetapi tidak semuanya mencakup kasus paspor rusak, dan tingkat tercepat sering kali dibatasi hanya untuk perpanjangan biasa. Periksa layanan mana yang sesuai dengan situasi Anda sebelum membuat janji temu.
+Ada beberapa hal yang perlu dipastikan sebelum Anda pergi. [Layanan cepat atau prioritas](https://www.gov.uk/get-a-passport-urgently) biasanya tersedia, tetapi tidak semuanya mencakup kasus paspor rusak, dan tingkat tercepat sering kali dibatasi hanya untuk perpanjangan biasa. Periksa layanan mana yang sesuai dengan situasi Anda sebelum membuat janji temu.
 
 Paspor yang rusak juga biasanya berarti Anda harus mengajukan permohonan langsung, bukan lewat pos. Di beberapa negara, kantor yang menangani kasus mendesak sama sekali berbeda dari kantor yang hanya menerima permohonan biasa, dan datang ke loket yang salah akan menghabiskan satu hari yang mungkin tidak Anda miliki.
 
@@ -89,7 +89,7 @@ Pindai paspor Anda hari ini, sebelum Anda membutuhkannya.
 
 **Sebelum Anda mengandalkan ini:** ini blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 
-Sumber yang kami periksa (6 November 2026)
+Sumber resmi
 
 - [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
 - [UK legislation: Immigration and Asylum Act 1999, section 40](https://www.legislation.gov.uk/ukpga/1999/33/section/40)

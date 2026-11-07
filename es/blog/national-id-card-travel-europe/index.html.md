@@ -30,15 +30,15 @@ El espacio Schengen es donde más importa esta flexibilidad. Como ciudadano de l
 
 ## Qué cuenta como documento de identidad nacional del EEE
 
-Cuando un formulario de reserva o un agente de facturación pide un «documento de identidad nacional del EEE», se refiere al documento de identidad que tu propio país emite a sus ciudadanos, el que indica tu nacionalidad. El EEE son los 27 países de la UE más Islandia, Liechtenstein y Noruega; Suiza queda fuera, pero la guía Your Europe de la Comisión Europea confirma que los ciudadanos de la UE también pueden viajar allí con un documento de identidad nacional.
+Cuando un formulario de reserva o un agente de facturación pide un «documento de identidad nacional del EEE», se refiere al documento de identidad que tu propio país emite a sus ciudadanos, el que indica tu nacionalidad. El EEE son los 27 países de la UE más Islandia, Liechtenstein y Noruega; Suiza queda fuera, pero la [guía Your Europe](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm) de la Comisión Europea confirma que los ciudadanos de la UE también pueden viajar allí con un documento de identidad nacional.
 
-Una tarjeta de residencia indica dónde vives, no tu nacionalidad, así que viaja junto al pasaporte en vez de sustituirlo. El gobierno británico indica a los residentes británicos en España que muestren una prueba de residencia, como su tarjeta TIE, junto con el pasaporte en el control fronterizo español. El carné de conducir, las tarjetas bancarias y las tarjetas fiscales tampoco cuentan, y Your Europe advierte que pueden ser rechazados como prueba de identidad.
+Una tarjeta de residencia indica dónde vives, no tu nacionalidad, así que viaja junto al pasaporte en vez de sustituirlo. El [gobierno británico](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements) indica a los residentes británicos en España que muestren una prueba de residencia, como su tarjeta TIE, junto con el pasaporte en el control fronterizo español. El carné de conducir, las tarjetas bancarias y las tarjetas fiscales tampoco cuentan, y Your Europe advierte que pueden ser rechazados como prueba de identidad.
 
 El documento de identidad actual de la UE se reconoce fácilmente. Tiene el tamaño de una tarjeta bancaria, incluye una zona de lectura mecánica (las líneas de código que lee un escáner), y muestra el código de dos letras del país emisor dentro de un rectángulo azul rodeado de 12 estrellas amarillas en la cara frontal. Un chip interno guarda tu foto y dos huellas dactilares.
 
-Los documentos antiguos son los que suelen dar problemas. Según el reglamento de la UE sobre documentos de identidad, un documento sin zona de lectura mecánica funcional, o por debajo del estándar mínimo internacional de seguridad, dejó de ser válido a más tardar el 3 de agosto de 2026, aunque la fecha impresa sea posterior. La mayoría de los demás documentos de formato antiguo son válidos hasta su fecha de caducidad impresa o el 3 de agosto de 2031, lo que ocurra antes. Si tu documento es anterior al código rodeado de estrellas y no tiene zona de lectura mecánica, nosotros lo renovaríamos ya, en vez de arriesgarnos en el embarque.
+Los documentos antiguos son los que suelen dar problemas. Según el [reglamento de la UE sobre documentos de identidad](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1157), un documento sin zona de lectura mecánica funcional, o por debajo del estándar mínimo internacional de seguridad, dejó de ser válido a más tardar el 3 de agosto de 2026, aunque la fecha impresa sea posterior. La mayoría de los demás documentos de formato antiguo son válidos hasta su fecha de caducidad impresa o el 3 de agosto de 2031, lo que ocurra antes. Si tu documento es anterior al código rodeado de estrellas y no tiene zona de lectura mecánica, nosotros lo renovaríamos ya, en vez de arriesgarnos en el embarque.
 
-Para el Reino Unido, el documento normalmente no sirve. El Reino Unido generalmente solo acepta documentos de identidad de la UE, el EEE o Suiza para grupos limitados, como las personas con estatus de asentado o de preasentado, así que consulta GOV.UK antes de un viaje al Reino Unido.
+Para el Reino Unido, el documento normalmente no sirve. El Reino Unido generalmente solo acepta documentos de identidad de la UE, el EEE o Suiza para grupos limitados, como las personas con estatus de asentado o de preasentado, así que consulta [GOV.UK](https://www.gov.uk/guidance/visiting-the-uk-as-an-eu-eea-or-swiss-citizen) antes de un viaje al Reino Unido.
 
 ## Cuándo necesitas el pasaporte en su lugar
 
@@ -85,7 +85,7 @@ Lo que ayuda es tener un único lugar para ambos documentos, que guarde cada fec
 
 Empieza hoy: saca tu documento de identidad, comprueba la fecha de caducidad y revisa que no tenga grietas, desteñidos ni el plástico deformado. Si está en el límite, solicita la renovación antes de reservar el viaje.
 
-Fuentes que hemos comprobado (6 de noviembre de 2026)
+Fuentes oficiales
 
 - [Your Europe (EU): Travel documents for EU nationals](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm)
 - [EU law: Regulation 2019/1157 on identity cards](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1157)

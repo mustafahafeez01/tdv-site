@@ -30,9 +30,9 @@ Isto engana as pessoas com mais frequência do que as datas de validade. A carta
 
 ## Duas Convenções Decidem a Duração e Onde Vale a Carta
 
-Existem três acordos internacionais por trás das Cartas de Condução Internacionais, e os países aderiram a um deles ou a vários. Dois fazem praticamente todo o trabalho: a Convenção de Genebra de 1949 e a Convenção de Viena de 1968. Também existe uma carta mais antiga, ao abrigo da Convenção de Paris de 1926, que alguns destinos ainda indicam. Confirme a data de validade impressa na carta.
+Existem [três acordos internacionais](https://www.gov.uk/driving-abroad/international-driving-permit) por trás das Cartas de Condução Internacionais, e os países aderiram a um deles ou a vários. Dois fazem praticamente todo o trabalho: a Convenção de Genebra de 1949 e a Convenção de Viena de 1968. Também existe uma carta mais antiga, ao abrigo da Convenção de Paris de 1926, que alguns destinos ainda indicam. Confirme a data de validade impressa na carta.
 
-Uma carta emitida ao abrigo da Convenção de Genebra de 1949 é válida durante um ano. Uma carta emitida ao abrigo da Convenção de Viena de 1968 pode durar até três anos.
+Uma carta emitida ao abrigo da Convenção de Genebra de 1949 é [válida durante um ano](https://travel.gc.ca/travelling/documents/international-driving-permit). Uma carta emitida ao abrigo da Convenção de Viena de 1968 pode durar até três anos.
 
 Esta divisão importa por duas razões. Determina a duração da sua carta e decide onde é reconhecida. Um país que só ratificou uma das convenções não é obrigado a reconhecer uma carta emitida ao abrigo da outra, e é assim que uma carta aceite na viagem do ano passado é recusada nesta.
 
@@ -46,7 +46,7 @@ Esta divisão importa por duas razões. Determina a duração da sua carta e dec
 
 ## A Carta de Três Anos Que Muitas Vezes Não É
 
-Esses três anos têm uma condição fácil de ignorar. Uma carta de Viena caduca quando a sua carta de condução nacional caduca, se essa data chegar primeiro.
+Esses três anos têm uma condição fácil de ignorar. Uma carta de Viena [caduca quando a sua carta de condução nacional caduca](https://treaties.un.org/doc/Treaties/1977/05/19770524%2000-13%20AM/Ch_XI_B_19.pdf), se essa data chegar primeiro.
 
 Suponha que a sua carta tem 14 meses de validade e lhe é emitida uma carta internacional de três anos. Essa carta só é útil durante 14 meses. A data impressa na capa não se sobrepõe à carta que está por trás dela.
 
@@ -68,7 +68,7 @@ Esse é o argumento prático para manter as três datas num único sítio. O Tra
 
 Verificávamos por esta ordem, e a data da carta de condução antes de qualquer data impressa na carta internacional.
 
-**Se precisa mesmo de uma carta internacional.** Alguns países aceitam apenas a carta de condução nacional, e é o país onde vai conduzir que define o requisito, não aquele que emitiu a sua carta.
+**Se precisa mesmo de uma carta internacional.** [Alguns países aceitam apenas a carta de condução nacional](https://www.gov.uk/driving-abroad), e é o país onde vai conduzir que define o requisito, não aquele que emitiu a sua carta.
 
 **Que convenção o seu destino reconhece**, e depois confirme a sua carta internacional face a essa convenção (a convenção está impressa no documento).
 
@@ -102,7 +102,7 @@ Hoje mesmo, pegue na sua carta de condução e na carta internacional, se tiver 
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 
-Fontes que verificámos (6 de novembro de 2026)
+Fontes oficiais
 
 - [United Nations Treaty Collection: Convention on Road Traffic (1968)](https://treaties.un.org/doc/Treaties/1977/05/19770524%2000-13%20AM/Ch_XI_B_19.pdf)
 - [UK Government: driving abroad, international driving permits](https://www.gov.uk/driving-abroad/international-driving-permit)

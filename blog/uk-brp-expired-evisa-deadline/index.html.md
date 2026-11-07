@@ -18,7 +18,7 @@ Source: https://traveldocumentvault.com/blog/uk-brp-expired-evisa-deadline/
 
 If you hold an expired Biometric Residence Permit and still have permission to stay, GOV.UK asks you to create a UK Visas and Immigration (UKVI) account, using the card to prove who you are. It's a single sitting, and the expired card still works for that, at least for a while. Your immigration status hasn't changed. What has changed is where it lives.
 
-GOV.UK says all BRPs have now expired and have been replaced by eVisas. An eVisa is a digital record of your identity and immigration status, and you reach it through a UKVI account rather than carrying it in your wallet. That's why the account is the step that matters, for you and for everyone in your family who held a card.
+[GOV.UK](https://www.gov.uk/biometric-residence-permits) says all BRPs have now expired and have been replaced by eVisas. An eVisa is a [digital record of your identity and immigration status](https://www.gov.uk/evisa), and you reach it through a UKVI account rather than carrying it in your wallet. That's why the account is the step that matters, for you and for everyone in your family who held a card.
 
 An expired card doesn't mean your permission to stay has ended. GOV.UK's instructions are written for exactly this case: people whose BRP has expired but who still have permission to stay in the UK.
 
@@ -38,11 +38,11 @@ GOV.UK lists exactly what the card can still do. You can use it to sign in to vi
 
 The third use is easy to overlook. If your permission to stay is coming up for extension, the expired card can still play a part in that application while its window is open, which is one more reason to know your date. For travel, GOV.UK points to your eVisa and the passport linked to it, which we come to below.
 
-Once you're in, the account is how you prove your status day to day. GOV.UK says you can view your eVisa and get a share code to prove your immigration status, for example when you get a new job or rent a home. The eVisa also shows the conditions of your status, such as whether you can work or study. It's worth a look even if you have no trip planned.
+Once you're in, the account is how you prove your status day to day. [GOV.UK](https://www.gov.uk/evisa/view-evisa-get-share-code-prove-immigration-status) says you can view your eVisa and get a share code to prove your immigration status, for example when you get a new job or rent a home. The eVisa also shows the conditions of your status, such as whether you can work or study. It's worth a look even if you have no trip planned.
 
 ## A Passport and a Reference Number Also Open a UKVI Account
 
-If your card has gone missing, or its 24 months have already run out, you aren't stuck. GOV.UK accepts two other combinations when you create an account: a valid passport plus your visa application number, or a valid passport plus your BRP number. The BRP number is printed on the card itself, so we'd note it down somewhere safe while you still have the card in hand.
+If your card has gone missing, or its 24 months have already run out, you aren't stuck. [GOV.UK](https://www.gov.uk/evisa/set-up-ukvi-account) accepts two other combinations when you create an account: a valid passport plus your visa application number, or a valid passport plus your BRP number. The BRP number is printed on the card itself, so we'd note it down somewhere safe while you still have the card in hand.
 
 If you have neither a valid passport nor an expired BRP, GOV.UK says you can confirm your identity another way. The page doesn't set out the steps and points you to UK Visas and Immigration's webchat, so that's the place to start.
 
@@ -58,7 +58,7 @@ When your child turns 18, the account details should move over to their own phon
 
 ## To Travel, the Passport You Fly On Must Be on Your UKVI Account
 
-GOV.UK is direct about this: you must travel with a valid passport or travel document that you've added to your UKVI account. Your eVisa is checked when you leave and enter the UK, by a border officer or at the eGates, and when you check in with your carrier to return to the UK. Those checks look at your eVisa through the passport on your account. If the details on your account don't exactly match the passenger information you gave the carrier, the carrier may not let you travel, and you may also be held up at the UK border.
+[GOV.UK](https://www.gov.uk/evisa/travel-with-evisa) is direct about this: you must travel with a valid passport or travel document that you've added to your UKVI account. Your eVisa is checked when you leave and enter the UK, by a border officer or at the eGates, and when you check in with your carrier to return to the UK. Those checks look at your eVisa through the passport on your account. If the details on your account don't exactly match the passenger information you gave the carrier, the carrier may not let you travel, and you may also be held up at the UK border.
 
 Before a trip, sign in, confirm the passport on the account is the one you'll travel with, and get a share code. A code lasts 90 days and can be used more than once, and an airline or border officer may ask to see it. We'd get it before booking, not in the queue at the airport.
 
@@ -68,7 +68,7 @@ If you hold two nationalities, think about which passport you'll actually book w
 
 If you've renewed your passport, the new one needs to go on your account before you fly with it, and GOV.UK says you can update the passport number and expiry date on your account yourself. With a biometric passport you can also update your name and nationality yourself; anything else needs UK Visas and Immigration to make the change for you. If renewal is still ahead of you, our guide to [renewing your passport before it expires](https://traveldocumentvault.com/blog/renew-passport-before-expiry/) covers when to start, and the new passport goes straight onto your account once it arrives.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [UK Government: eVisa, setting up a UKVI account](https://www.gov.uk/evisa/set-up-ukvi-account)
 - [UK Government: travelling with an eVisa](https://www.gov.uk/evisa/travel-with-evisa)

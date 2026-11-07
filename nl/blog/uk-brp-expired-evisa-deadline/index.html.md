@@ -20,7 +20,7 @@ Heb je een verlopen Biometric Residence Permit (BRP) en nog toestemming om te bl
 
 ![Diagram van hoe lang een verlopen BRP nog werkt: gedurende 24 maanden na de afgedrukte vervaldatum of tot 31 december 2026, wat het eerst komt. In die tijd kan hij nog gebruikt worden om in te loggen en een deelcode te krijgen, een UKVI-account aan te maken, of een verlenging van je verblijfsvergunning aan te vragen](https://traveldocumentvault.com/blog/uk-brp-expired-evisa-deadline/brp-window-nl.jpg) Twee datums, en de eerste is de jouwe.
 
-GOV.UK zegt dat alle BRP's nu zijn verlopen en vervangen zijn door eVisa's. Een eVisa is een digitale vastlegging van je identiteit en immigratiestatus, en je bereikt hem via een UKVI-account in plaats van hem in je portemonnee mee te dragen. Daarom is het account de stap die telt, voor jou en voor iedereen in je gezin die een kaart had.
+[GOV.UK](https://www.gov.uk/biometric-residence-permits) zegt dat alle BRP's nu zijn verlopen en vervangen zijn door eVisa's. Een eVisa is een [digitale vastlegging van je identiteit en immigratiestatus](https://www.gov.uk/evisa), en je bereikt hem via een UKVI-account in plaats van hem in je portemonnee mee te dragen. Daarom is het account de stap die telt, voor jou en voor iedereen in je gezin die een kaart had.
 
 Een verlopen kaart betekent niet dat je verblijfsvergunning is afgelopen. De instructies van GOV.UK zijn precies voor dit geval geschreven: mensen van wie de BRP is verlopen maar die nog toestemming hebben om in het Verenigd Koninkrijk te blijven.
 
@@ -38,11 +38,11 @@ GOV.UK geeft precies aan wat de kaart nog kan. Je kunt hem gebruiken om in te lo
 
 De derde toepassing wordt makkelijk over het hoofd gezien. Moet je verblijfsvergunning binnenkort worden verlengd, dan kan de verlopen kaart daarbij nog een rol spelen zolang dat venster open is, wat nog een reden is om je datum te kennen. Voor reizen verwijst GOV.UK naar je eVisa en het paspoort dat eraan is gekoppeld, waar we straks op terugkomen.
 
-Zodra je binnen bent, is het account de manier waarop je dagelijks je status bewijst. GOV.UK zegt dat je je eVisa kunt bekijken en een deelcode kunt krijgen om je immigratiestatus te bewijzen, bijvoorbeeld bij een nieuwe baan of het huren van een woning. De eVisa toont ook de voorwaarden van je status, zoals of je mag werken of studeren. Het is de moeite waard om er even naar te kijken, ook zonder geplande reis.
+Zodra je binnen bent, is het account de manier waarop je dagelijks je status bewijst. [GOV.UK](https://www.gov.uk/evisa/view-evisa-get-share-code-prove-immigration-status) zegt dat je je eVisa kunt bekijken en een deelcode kunt krijgen om je immigratiestatus te bewijzen, bijvoorbeeld bij een nieuwe baan of het huren van een woning. De eVisa toont ook de voorwaarden van je status, zoals of je mag werken of studeren. Het is de moeite waard om er even naar te kijken, ook zonder geplande reis.
 
 ## Ook een paspoort en een referentienummer openen een UKVI-account
 
-Is je kaart kwijt, of zijn de 24 maanden al voorbij, dan zit je niet vast. GOV.UK accepteert bij het aanmaken van een account nog twee andere combinaties: een geldig paspoort plus je visumaanvraagnummer, of een geldig paspoort plus je BRP-nummer. Het BRP-nummer staat op de kaart zelf afgedrukt, dus wij zouden het ergens veilig opschrijven terwijl je de kaart nog in handen hebt.
+Is je kaart kwijt, of zijn de 24 maanden al voorbij, dan zit je niet vast. [GOV.UK](https://www.gov.uk/evisa/set-up-ukvi-account) accepteert bij het aanmaken van een account nog twee andere combinaties: een geldig paspoort plus je visumaanvraagnummer, of een geldig paspoort plus je BRP-nummer. Het BRP-nummer staat op de kaart zelf afgedrukt, dus wij zouden het ergens veilig opschrijven terwijl je de kaart nog in handen hebt.
 
 Heb je geen geldig paspoort en geen verlopen BRP, dan zegt GOV.UK dat je je identiteit op een andere manier kunt bevestigen. De pagina geeft de stappen niet en verwijst naar de webchat van UK Visas and Immigration, dus dat is de plek om te beginnen.
 
@@ -58,7 +58,7 @@ Zodra je kind 18 wordt, moeten de accountgegevens overgaan naar zijn eigen telef
 
 ## Om te reizen moet het paspoort waarmee je vliegt op je UKVI-account staan
 
-GOV.UK is hier direct over: je moet reizen met een geldig paspoort of reisdocument dat je aan je UKVI-account hebt toegevoegd. Je eVisa wordt gecontroleerd wanneer je het Verenigd Koninkrijk verlaat en binnenkomt, door een grensambtenaar of bij de eGates, en wanneer je bij je vervoerder incheckt om naar het Verenigd Koninkrijk terug te keren. Die controles raadplegen je eVisa via het paspoort op je account. Komen de gegevens op je account niet precies overeen met de passagiersinformatie die je aan de vervoerder hebt gegeven, dan kan het zijn dat de vervoerder je niet laat reizen, en kun je ook worden tegengehouden aan de grens van het Verenigd Koninkrijk.
+[GOV.UK](https://www.gov.uk/evisa/travel-with-evisa) is hier direct over: je moet reizen met een geldig paspoort of reisdocument dat je aan je UKVI-account hebt toegevoegd. Je eVisa wordt gecontroleerd wanneer je het Verenigd Koninkrijk verlaat en binnenkomt, door een grensambtenaar of bij de eGates, en wanneer je bij je vervoerder incheckt om naar het Verenigd Koninkrijk terug te keren. Die controles raadplegen je eVisa via het paspoort op je account. Komen de gegevens op je account niet precies overeen met de passagiersinformatie die je aan de vervoerder hebt gegeven, dan kan het zijn dat de vervoerder je niet laat reizen, en kun je ook worden tegengehouden aan de grens van het Verenigd Koninkrijk.
 
 Log voor een reis in, bevestig dat het paspoort op het account dat is waarmee je reist, en vraag een deelcode aan. Een code is 90 dagen geldig en kan meer dan één keer worden gebruikt, en een luchtvaartmaatschappij of grensbeambte kan ernaar vragen. Wij zouden hem vóór het boeken aanvragen, niet in de rij op het vliegveld.
 
@@ -68,7 +68,7 @@ Heb je twee nationaliteiten, denk dan na over met welk paspoort je daadwerkelijk
 
 Heb je je paspoort verlengd, dan moet het nieuwe op je account staan voordat je ermee vliegt, en GOV.UK zegt dat je het paspoortnummer en de vervaldatum zelf op je account kunt bijwerken. Met een biometrisch paspoort kun je ook je naam en nationaliteit zelf bijwerken; voor al het andere moet UK Visas and Immigration de wijziging voor je doorvoeren. Moet je nog verlengen, dan behandelt onze gids over [een paspoort verlengen voordat het verloopt](https://traveldocumentvault.com/nl/blog/renew-passport-before-expiry/) wanneer je moet beginnen, en gaat het nieuwe paspoort direct op je account zodra het binnenkomt.
 
-Bronnen die we hebben gecontroleerd (6 november 2026)
+Officiële bronnen
 
 - [UK Government: eVisa, setting up a UKVI account](https://www.gov.uk/evisa/set-up-ukvi-account)
 - [UK Government: travelling with an eVisa](https://www.gov.uk/evisa/travel-with-evisa)

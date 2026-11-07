@@ -16,13 +16,13 @@ Source: https://traveldocumentvault.com/sv/blog/how-long-is-passport-valid-for-t
 - Barns pass går ut snabbare än föräldrarnas – **kontrollera varje pass i sällskapet individuellt** innan du bokar, inte bara ditt eget.
 - Den praktiska förnyelsegränsen är **12 månaders återstående giltighet**, inte själva utgångsdatumet.
 
-Sju månader kvar på passet låter som gott om tid. Du bokar flygen, kollar bagagevikten, börjar titta på hotell. Sedan kommer du till incheckningsdisken för flyget till Bangkok och personalen tvekar: Thailand kräver att ditt pass är giltigt i minst 6 månader den dag du anländer, och du saknar två veckor. Du får inte gå ombord.
+Sju månader kvar på passet låter som gott om tid. Du bokar flygen, kollar bagagevikten, börjar titta på hotell. Sedan kommer du till incheckningsdisken för flyget till Bangkok och personalen tvekar: [Thailand kräver](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements) att ditt pass är giltigt i minst 6 månader den dag du anländer, och du saknar två veckor. Du får inte gå ombord.
 
 Det är en av de mest missförstådda reglerna inom resande, eftersom ett pass som inte har gått ut ändå kan underkännas av inresekraven för dussintals populära destinationer. Att förstå hur passets giltighetsmånader faktiskt räknas kan rädda dig från ett mycket dyrt misstag.
 
 ## Vuxenpass gäller betydligt längre än barnpass
 
-Standardgiltigheten för ett vuxenpass är 10 år från utfärdandedatumet i de flesta länder. Barnpass går ut tidigare – vanligtvis efter 5 år. Vi skulle kontrollera barnets pass före någon annans, eftersom det är det som alla antar är i ordning.
+Standardgiltigheten för ett vuxenpass är 10 år från utfärdandedatumet i de flesta länder. Barnpass går ut tidigare – [vanligtvis efter 5 år](https://www.gov.uk/get-a-child-passport). Vi skulle kontrollera barnets pass före någon annans, eftersom det är det som alla antar är i ordning.
 
 | Land | Vuxengiltighet | Barngiltighet |
 |---|---|---|
@@ -72,7 +72,7 @@ En 3-åring som fick sitt första pass 2023 har en handling som går ut 2028. N�
 Det praktiska svaret: när du har mindre än 12 månaders giltighet kvar, inte när det håller på att gå ut. Här är varför 12 månader är rätt gräns och inte själva utgångsdatumet:
 
 - Det ger dig en hel 6-månadersmarginal för alla destinationer som tillämpar regeln.
-- Passförnyelse tar tid, och handläggningstiderna förändras – brittiska passmyndigheten HM Passport Office avråder från att boka resor innan det nya passet har kommit, och både HM Passport Office och det amerikanska utrikesdepartementet publicerar sina aktuella handläggningstider. Börjar du med 6 månader kvar lämnar det liten marginal.
+- Passförnyelse tar tid, och handläggningstiderna förändras – brittiska passmyndigheten HM Passport Office [avråder från att boka resor](https://www.gov.uk/renew-adult-passport) innan det nya passet har kommit, och både HM Passport Office och det amerikanska utrikesdepartementet publicerar sina aktuella handläggningstider. Börjar du med 6 månader kvar lämnar det liten marginal.
 - Sista-minuten-planer händer. Ett pass med 14 månader kvar håller alla destinationer öppna. Ett pass med 5 månader kvar stänger ute en stor del av världen.
 
 Det vanligaste misstaget är att sätta en påminnelse på själva utgångsdatumet. Vid den tidpunkten kan du inte längre resa till de flesta destinationer som tillämpar 6-månadersregeln.
@@ -83,7 +83,7 @@ Läser du också vår guide om [hur lång tid en passförnyelse tar](https://tra
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 
-Källor vi har kontrollerat (6 november 2026)
+Officiella källor
 
 - [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
 - [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)

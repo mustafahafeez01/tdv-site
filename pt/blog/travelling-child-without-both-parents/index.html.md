@@ -20,7 +20,7 @@ O pessoal de check-in das companhias aéreas e os agentes de fronteira reparam d
 
 ## O Balcão de Check-in e o Controlo de Fronteira Verificam Coisas Diferentes
 
-Duas pessoas diferentes examinam os mesmos documentos por dois motivos diferentes, e sabê-lo evita confusões ao balcão. O pessoal do check-in não decide se o seu filho poderá entrar no país de destino. Verifica se a companhia aérea tem confiança de que será admitido, porque, segundo acordos de longa data entre companhias aéreas e governos, uma companhia aérea pode ser responsabilizada por trazer de volta um passageiro a quem o destino depois recusa a entrada. É por isso que o pessoal de check-in por vezes pergunta mais do que o agente de fronteira acaba por perguntar: está a proteger a companhia aérea da sua própria responsabilidade.
+Duas pessoas diferentes examinam os mesmos documentos por dois motivos diferentes, e sabê-lo evita confusões ao balcão. O pessoal do check-in não decide se o seu filho poderá entrar no país de destino. Verifica se a companhia aérea tem confiança de que será admitido, porque, [segundo acordos de longa data entre companhias aéreas e governos](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001L0051), uma companhia aérea pode ser responsabilizada por trazer de volta um passageiro a quem o destino depois recusa a entrada. É por isso que o pessoal de check-in por vezes pergunta mais do que o agente de fronteira acaba por perguntar: está a proteger a companhia aérea da sua própria responsabilidade.
 
 O agente de fronteira que encontra depois de aterrar toma uma decisão totalmente independente, sem ligação com o que a companhia aérea decidiu antes. Alguns países repetem o controlo também na saída, não só na entrada, por isso uma chegada sem incidentes nada garante sobre como correrá o controlo de saída duas semanas depois.
 
@@ -30,7 +30,7 @@ Satisfazer um não vincula o outro.
 
 Se é o único progenitor a viajar e o outro está vivo, de boa saúde e simplesmente não vai nesta viagem, o documento que a maioria das fronteiras espera é uma carta de consentimento, e explicamos exatamente o que deve dizer, quando precisa de ser reconhecida notarialmente e os erros que levam à rejeição destas cartas no nosso guia completo sobre a [carta de consentimento de viagem para crianças](https://traveldocumentvault.com/pt/blog/child-travel-consent-letter/).
 
-Há mais duas coisas, para além dessa carta, que vale a pena levar junto com ela. Leve a certidão de nascimento do seu filho, já que uma carta de consentimento nomeia uma criança e um progenitor, e a certidão de nascimento é o que vos liga desde logo. Alguns países também esperam que a carta reflita todas as pessoas que têm responsabilidade parental, não só o progenitor indicado no passaporte, o que pode incluir um padrasto, madrasta ou tutor, consoante a situação legal da sua família. Vale a pena confirmar se isto se aplica a si junto da autoridade de imigração do seu destino em vez de presumir, já que varia consoante o país e as circunstâncias.
+Há mais duas coisas, para além dessa carta, que vale a pena levar junto com ela. Leve a certidão de nascimento do seu filho, já que uma carta de consentimento nomeia uma criança e um progenitor, e a certidão de nascimento é o que vos liga desde logo. Alguns países também esperam que a carta reflita [todas as pessoas que têm responsabilidade parental](https://www.gov.uk/permission-take-child-abroad), não só o progenitor indicado no passaporte, o que pode incluir um padrasto, madrasta ou tutor, consoante a situação legal da sua família. Vale a pena confirmar se isto se aplica a si junto da autoridade de imigração do seu destino em vez de presumir, já que varia consoante o país e as circunstâncias.
 
 ## Guarda Exclusiva: Quando a Decisão Judicial É o Documento
 
@@ -84,7 +84,7 @@ A nossa[lista de verificação de documentos de viagem](https://traveldocumentva
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 
-Fontes que verificámos (6 de novembro de 2026)
+Fontes oficiais
 
 - [UK Government: Get permission to take a child abroad](https://www.gov.uk/permission-take-child-abroad)
 - [EU law: Directive 2001/51 on carrier responsibilities](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001L0051)

@@ -28,7 +28,7 @@ Zwei Ansätze werden beide als verschlüsseltes Backup verkauft, und sie verhalt
 
 Der eine sendet die Datei über eine verschlüsselte Verbindung an den Server des Unternehmens und speichert sie dort verschlüsselt ab. Beide Aussagen stimmen, und beide klingen beruhigend. Aber das Unternehmen hält weiterhin den Schlüssel und ist technisch in der Lage, Ihre Dokumente zu entschlüsseln – etwa für eine Funktion, eine rechtliche Anfrage oder durch einen internen Fehler. Ihr Passscan ist am anderen Ende lesbar.
 
-Beim anderen Ansatz wird die Datei auf Ihrem Telefon verschlüsselt, bevor sie irgendwohin geht, mit einem Schlüssel, der aus etwas abgeleitet wird, das nur Sie besitzen. Im Speicher kommt ein Block aus Rauschen an, und niemand am anderen Ende kann ihn lesen, weil niemand am anderen Ende den Schlüssel hat. Das wird oft als Ende-zu-Ende-verschlüsselt oder Zero-Knowledge bezeichnet.
+Beim anderen Ansatz wird die Datei auf Ihrem Telefon verschlüsselt, bevor sie irgendwohin geht, mit einem Schlüssel, der aus etwas abgeleitet wird, das nur Sie besitzen. Im Speicher kommt ein Block aus Rauschen an, und niemand am anderen Ende kann ihn lesen, weil niemand am anderen Ende den Schlüssel hat. Das wird oft als [Ende-zu-Ende-verschlüsselt](https://csrc.nist.gov/glossary/term/end_to_end_encryption) oder Zero-Knowledge bezeichnet.
 
 Die Frage, die sich bei jeder App lohnt, ist kurz: **Wer hält den Schlüssel?** Alles andere im Marketing ergibt sich aus der Antwort.
 
@@ -108,7 +108,7 @@ Nichts davon ist dramatisch, und genau das ist der Sinn. Familien, die mit einem
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 
-Quellen, die wir geprüft haben (6. November 2026)
+Offizielle Quellen
 
 - [NIST: end-to-end encryption glossary entry](https://csrc.nist.gov/glossary/term/end_to_end_encryption)
 

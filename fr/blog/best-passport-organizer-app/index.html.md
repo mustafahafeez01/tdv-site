@@ -39,7 +39,7 @@ Une violation d'une application sur l'appareil ne divulgue rien de leurs serveur
 
 ### Le délai de rappel est le réglage à personnaliser
 
-C'est la seule fonctionnalité la plus précieuse. Un rappel à 6 mois est le minimum — de nombreux pays exigent la validité du passeport pendant au moins 6 mois au-delà de vos dates de voyage, comme expliqué dans notre article sur la [règle des 6 mois du passeport](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/). Les passeports des enfants sont souvent valables 5 ans plutôt que 10 — c’est le cas des passeports britanniques pour enfants —, donc un rappel plus précoce — disons 9 mois — offre un temps de planification plus confortable.
+C'est la seule fonctionnalité la plus précieuse. Un rappel à 6 mois est le minimum — de nombreux pays exigent la validité du passeport pendant au moins 6 mois au-delà de vos dates de voyage, comme expliqué dans notre article sur la [règle des 6 mois du passeport](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/). Les passeports des enfants sont souvent valables 5 ans plutôt que 10 — c’est le cas des [passeports britanniques pour enfants](https://www.gov.uk/get-a-child-passport) —, donc un rappel plus précoce — disons 9 mois — offre un temps de planification plus confortable.
 
 ### Une seule application peut réunir toute la famille, en toute sécurité
 
@@ -104,7 +104,7 @@ Ouvrez l'application que vous envisagez réellement et passez-la en revue avec c
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
-Sources vérifiées (6 novembre 2026)
+Sources officielles
 
 - [UK Foreign Office: Indonesia entry requirements](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements)
 - [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)

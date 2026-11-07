@@ -40,7 +40,7 @@ Une **réservation d'hôtel** et un **relevé bancaire** reviennent souvent auss
 
 La compagnie aérienne veut savoir si vous risquez d'être refusé à l'arrivée, ce qui la laisserait avec le coût de votre retour. L'agent frontalier pose une question liée mais distincte : remplissez-vous les conditions d'entrée du pays ? Les deux questions se recoupent, mais ce n'est pas la même question.
 
-Elles se recoupent au niveau des règles propres à la destination. Le code frontières Schengen, par exemple, cite un billet retour ou aller-retour parmi les documents qu'un garde-frontière peut demander à un visiteur. La Nouvelle-Zélande exige que les visiteurs disposent des moyens de repartir. Quand une destination fonctionne ainsi, la compagnie aérienne qui pose la question à l'enregistrement applique généralement la règle de la destination quelques heures plus tôt, sans en inventer une de son côté.
+Elles se recoupent au niveau des règles propres à la destination. Le [code frontières Schengen](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0399), par exemple, cite un billet retour ou aller-retour parmi les documents qu'un garde-frontière peut demander à un visiteur. La Nouvelle-Zélande [exige que les visiteurs disposent des moyens de repartir](https://www.immigration.govt.nz/visas/visa-waiver-visitor-visa/). Quand une destination fonctionne ainsi, la compagnie aérienne qui pose la question à l'enregistrement applique généralement la règle de la destination quelques heures plus tôt, sans en inventer une de son côté.
 
 ![Diagramme comparant le contrôle de la compagnie aérienne à l'enregistrement, qui applique les règles de la destination et décide si vous embarquez, au contrôle frontalier à l'arrivée, qui décide si vous êtes admis](https://traveldocumentvault.com/blog/proof-of-onward-travel/two-checks-fr.jpg) La compagnie aérienne vérifie avant l'embarquement ; l'agent frontalier décide à l'arrivée.
 
@@ -70,12 +70,11 @@ Une réservation que vous ne pouvez pas ouvrir ne vaut pas mieux que pas de rés
 
 Gardez une copie hors ligne de la confirmation : un PDF, une capture d'écran montrant la référence et les dates, ou une copie dans une application qui fonctionne sans connexion. Travel Document Vault conserve les billets d'avion et réservations d'hôtel sur votre appareil, chiffrés et disponibles hors ligne. La confirmation est là au comptoir, avec ou sans réseau. Notre [liste de contrôle des documents de voyage](https://traveldocumentvault.com/fr/blog/travel-document-checklist/) couvre le reste de ce qu'il vaut la peine d'avoir prêt.
 
-Sources vérifiées (6 novembre 2026)
+Sources officielles
 
 - [EU law: Schengen Borders Code (Regulation 2016/399)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0399)
 - [Immigration New Zealand: Visa Waiver Visitor Visa](https://www.immigration.govt.nz/visas/visa-waiver-visitor-visa/)
 - [Immigration New Zealand: Visitor Visa](https://www.immigration.govt.nz/visas/visitor-visa/)
-- [Immigration New Zealand: Onward travel requirements](https://www.immigration.govt.nz/opsmanual/50548.htm)
 
 ## Questions fréquemment posées
 
@@ -97,7 +96,7 @@ Un billet aller simple n'est pas un problème en soi, car les règles de continu
 
 ### Ai-je besoin d'une preuve de continuation de voyage pour la frontière ?
 
-Parfois, car certaines destinations l'incluent dans leurs conditions d'entrée pour les visiteurs. Le code frontières Schengen cite un billet retour ou aller-retour parmi les documents qu'un garde-frontière peut demander, et la Nouvelle-Zélande exige que les visiteurs disposent des moyens de repartir. Vérifiez les règles de votre destination avant de partir.
+Parfois, car certaines destinations l'incluent dans leurs conditions d'entrée pour les visiteurs. Le code frontières Schengen cite un billet retour ou aller-retour parmi les documents qu'un garde-frontière peut demander, et la Nouvelle-Zélande [exige que les visiteurs disposent des moyens de repartir](https://www.immigration.govt.nz/visas/visitor-visa/). Vérifiez les règles de votre destination avant de partir.
 
 ## Articles connexes
 

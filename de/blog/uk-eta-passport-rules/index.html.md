@@ -16,13 +16,13 @@ Source: https://traveldocumentvault.com/de/blog/uk-eta-passport-rules/
 - Das Home Office empfiehlt, **mindestens 3 Werktage im Voraus zu beantragen.** Das ist eine Empfehlung, keine Bearbeitungsgarantie.
 - Eine ETA ist eine **Reiseerlaubnis, keine Einreisegarantie.** Grenzbeamte können die Einreise auch mit gültiger ETA verweigern.
 
-Das britische ETA-System wirkt auf den ersten Blick einfach: Sie beantragen, Sie zahlen, Sie reisen. Es gibt jedoch eine Regel im Hintergrund, die erst auffällt, wenn sie zum Problem wird: Ihre ETA ist an die konkrete Reisepassnummer aus Ihrem Antrag gebunden. Erneuern Sie diesen Reisepass und erhalten eine neue Reisepassnummer, verliert Ihre ETA ihre Gültigkeit. Sie müssen vor Ihrer Reise mit dem neuen Reisepass erneut einen Antrag stellen.
+Das britische ETA-System wirkt auf den ersten Blick einfach: Sie beantragen, Sie zahlen, Sie reisen. Es gibt jedoch eine Regel im Hintergrund, die erst auffällt, wenn sie zum Problem wird: Ihre ETA ist [an die konkrete Reisepassnummer aus Ihrem Antrag gebunden](https://www.gov.uk/check-eta). Erneuern Sie diesen Reisepass und erhalten eine neue Reisepassnummer, verliert Ihre ETA ihre Gültigkeit. Sie müssen vor Ihrer Reise mit dem neuen Reisepass erneut einen Antrag stellen.
 
 Das ist ein Problem der Dokumentenverfolgung. Sie müssen zwei Fristen im Blick behalten: die Erneuerung Ihres Reisepasses und die Gültigkeit Ihrer ETA. Übersehen Sie den Zusammenhang zwischen beiden, könnten Sie Tage vor der Abreise am Flughafen aufgehalten werden.
 
 ## Die meisten visumfreien Besucher brauchen jetzt eine ETA
 
-Wenn Sie Staatsangehörige/r der USA, Kanadas, Australiens, Neuseelands oder eines Landes der EU oder des Europäischen Wirtschaftsraums sind, benötigen Sie wahrscheinlich eine britische ETA. Die Regelung gilt seit dem 25. Februar 2026 verbindlich für die meisten visumfreien Staatsangehörigen.
+Wenn Sie Staatsangehörige/r der USA, Kanadas, Australiens, Neuseelands oder eines Landes der EU oder des Europäischen Wirtschaftsraums sind, benötigen Sie [wahrscheinlich eine britische ETA](https://www.gov.uk/eta). Die Regelung gilt [seit dem 25. Februar 2026 verbindlich](https://www.gov.uk/government/news/no-permission-no-travel-uk-set-to-enforce-eta-scheme) für die meisten visumfreien Staatsangehörigen.
 
 Manche Personen sind ausgenommen: Irische Staatsangehörige benötigen keine ETA, und Personen mit britischem Aufenthaltsstatus – einem Visum, dem Settled Status oder einer unbefristeten Aufenthaltserlaubnis – müssen ebenfalls keinen Antrag stellen. Für Personen mit doppelter Staatsangehörigkeit, mit Rechten aus der Common Travel Area und einige weitere Gruppen gelten je nach Reiseweise andere Regeln.
 
@@ -89,11 +89,11 @@ Eine ETA ist außerdem kein Visum – sie legt nicht fest, wie lange Sie bleiben
 
 Die britische ETA ist eine von mehreren digitalen Reisegenehmigungen, die inzwischen im Einsatz sind. Wenn Sie eine Reise durch mehrere Länder planen, sollten Sie den Unterschied zwischen einer ETA und einem [Visum](https://traveldocumentvault.com/de/blog/visa-vs-passport/) kennen. Der Ablauf wirkt ähnlich, die beiden erfüllen aber unterschiedliche Zwecke.
 
-Die EU plant mit [ETIAS](https://traveldocumentvault.com/de/blog/etias-documents-2026/) ihre eigene digitale Reisegenehmigung, die noch nicht in Betrieb ist. Sie ist konzeptionell ähnlich der britischen ETA, hat aber andere Regeln und Anforderungen. Sobald sie startet, könnte eine Reise durch das Vereinigte Königreich und den Schengen-Raum beides erfordern.
+Die EU plant mit [ETIAS](https://traveldocumentvault.com/de/blog/etias-documents-2026/) ihre eigene digitale Reisegenehmigung, die [noch nicht in Betrieb](https://travel-europe.europa.eu/en/etias) ist. Sie ist konzeptionell ähnlich der britischen ETA, hat aber andere Regeln und Anforderungen. Sobald sie startet, könnte eine Reise durch das Vereinigte Königreich und den Schengen-Raum beides erfordern.
 
 Haben Sie bereits eine Reise gebucht, erledigen Sie heute Folgendes: Vergleichen Sie das Ablaufdatum Ihres Reisepasses mit Ihren Reisedaten und prüfen Sie, ob Ihre aktuelle ETA an den Reisepass gebunden ist, mit dem Sie tatsächlich reisen. Reicht eines von beidem nicht aus, starten Sie die Erneuerung oder die erneute Beantragung jetzt und nicht erst in der Woche vor dem Flug.
 
-Quellen, die wir geprüft haben (6. November 2026)
+Offizielle Quellen
 
 - [UK Government: Get an electronic travel authorisation (ETA) to visit the UK](https://www.gov.uk/eta)
 - [UK Government: Check your electronic travel authorisation (ETA)](https://www.gov.uk/check-eta)

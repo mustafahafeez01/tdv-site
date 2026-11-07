@@ -22,9 +22,9 @@ Paspoort en visum klinken bijna inwisselbaar, maar ze doen een ander werk: het e
 
 Je paspoort bevat je naam, geboortedatum, foto en een uniek paspoortnummer – uitgegeven door je overheid en wereldwijd erkend als bewijs van je nationaliteit.
 
-Het werkt als je officiële identiteitsbewijs voor internationale reizen. Voor de meeste internationale reizen heb je het nodig om je land te verlaten en in het buitenland te worden toegelaten, al accepteren sommige regio's andere documenten, zoals nationale identiteitskaarten binnen Europa of een Amerikaanse paspoortkaart bij land- en zeegrenzen. Grensbeambten controleren het aan de grens, luchtvaartmaatschappijen vragen het voor internationale vluchten, en douanebeambten controleren het bij aankomst.
+Het werkt als je officiële identiteitsbewijs voor internationale reizen. Voor de meeste internationale reizen heb je het nodig om je land te verlaten en in het buitenland te worden toegelaten, al accepteren sommige regio's andere documenten, zoals nationale identiteitskaarten binnen Europa of een [Amerikaanse paspoortkaart](https://www.cbp.gov/travel/us-citizens/western-hemisphere-travel-initiative) bij land- en zeegrenzen. Grensbeambten controleren het aan de grens, luchtvaartmaatschappijen vragen het voor internationale vluchten, en douanebeambten controleren het bij aankomst.
 
-Paspoorten zijn doorgaans meerdere jaren geldig (vaak 10 jaar voor volwassenen, 5 jaar voor kinderen), al verschilt de geldigheidsduur per land. Zodra je paspoort is verlopen, kun je niet internationaal reizen en moet je een vernieuwing aanvragen. Die datum in de gaten houden is belangrijker dan de meeste mensen denken: veel landen eisen bij binnenkomst nog minstens 6 maanden geldigheid, dus een paspoort dat nog niet is verlopen, kan je alsnog aan de grens worden geweigerd. De ambassade van je bestemming bevestigt de exacte regel die daar geldt.
+Paspoorten zijn doorgaans meerdere jaren geldig (vaak 10 jaar voor volwassenen, 5 jaar voor kinderen), al verschilt de geldigheidsduur per land. Zodra je paspoort is verlopen, kun je niet internationaal reizen en moet je een vernieuwing aanvragen. Die datum in de gaten houden is belangrijker dan de meeste mensen denken: veel landen eisen bij binnenkomst [nog minstens 6 maanden geldigheid](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), dus een paspoort dat nog niet is verlopen, kan je alsnog aan de grens worden geweigerd. De ambassade van je bestemming bevestigt de exacte regel die daar geldt.
 
 ## Wat is een visum
 
@@ -59,7 +59,7 @@ De meeste landen geven visa uit in deze categorieën:
 - **Toeristenvisum:** Het meest voorkomende type, uitgegeven voor vrijetijdsreizen, sightseeing en bezoek aan vrienden of familie.
 - **Werkvisum:** Vereist voor werk in het buitenland. Werkgevers sponsoren dit doorgaans, met specifieke beperkingen op het soort werk dat je mag doen.
 - **Studentenvisum:** Voor studie aan een erkende onderwijsinstelling, vaak met beperkingen op werk ernaast en een vaste geldigheidsduur.
-- **Transitvisum:** Door sommige landen vereist als je er doorheen reist naar een andere bestemming – zelfs als je alleen overstapt.
+- **Transitvisum:** Door sommige landen vereist als je er doorheen reist naar een andere bestemming – [zelfs als je alleen overstapt](https://www.gov.uk/transit-visa).
 - **E-visum:** Een elektronisch visum dat je online aanvraagt en dat doorgaans wordt opgeslagen in het systeem van het bestemmingsland, gekoppeld aan je paspoortnummer. Gebruikelijk in Zuidoost-Azië en steeds vaker elders.
 - **Visum bij aankomst:** Uitgegeven op het vliegveld of aan de grens van je bestemming zodra je aankomt. De verwerking gaat meestal snel, al kunnen de rijen lang zijn, en niet elk land biedt deze optie.
 
@@ -111,15 +111,15 @@ De verwarring is dat je oude paspoort als reisdocument is verlopen, terwijl het 
 
 ## Visumvrij reizen kent nog steeds grenzen
 
-Veel landen hebben onderling visumvrijstellings- of visumvrije afspraken, waardoor hun burgers de grens kunnen oversteken zonder vooraf een visum aan te vragen. Het Schengengebied in Europa is het bekendste voorbeeld – reizigers kunnen over het algemeen tussen de 29 lidstaten reizen zonder reguliere grenscontroles, al voeren sommige landen tijdelijk weer controles in. Het lidmaatschap verandert weleens, dus de eigen Schengenpagina's van de Europese Commissie zijn de plek om te bevestigen wie er op dit moment bij hoort. Zuidoost-Azië, het Caribisch gebied en delen van Afrika kennen vergelijkbare regelingen.
+Veel landen hebben onderling visumvrijstellings- of visumvrije afspraken, waardoor hun burgers de grens kunnen oversteken zonder vooraf een visum aan te vragen. Het Schengengebied in Europa is het bekendste voorbeeld – reizigers kunnen over het algemeen tussen de 29 lidstaten reizen zonder reguliere grenscontroles, al voeren sommige landen tijdelijk weer controles in. Het lidmaatschap verandert weleens, dus de [eigen Schengenpagina's van de Europese Commissie](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en) zijn de plek om te bevestigen wie er op dit moment bij hoort. Zuidoost-Azië, het Caribisch gebied en delen van Afrika kennen vergelijkbare regelingen.
 
-Visumvrij reizen kent echter grenzen. Het geldt doorgaans alleen voor toerisme of kort verblijf, niet voor werk of studie. Ook de visumvrije periode is beperkt, vaak 30 tot 90 dagen, afhankelijk van het land. Overschrijd je de toegestane termijn, dan word je een illegale verblijver en riskeer je sancties zoals boetes, uitzetting of een toekomstig inreisverbod.
+Visumvrij reizen kent echter grenzen. Het geldt doorgaans alleen voor toerisme of kort verblijf, niet voor werk of studie. Ook de visumvrije periode is beperkt, [vaak 30 tot 90 dagen](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en), afhankelijk van het land. Overschrijd je de toegestane termijn, dan word je een illegale verblijver en riskeer je sancties zoals boetes, uitzetting of een toekomstig inreisverbod.
 
 Visumvrije toegang hangt ook volledig af van je nationaliteit. Twee mensen die samen reizen, kunnen op basis van hun paspoort totaal verschillende vereisten hebben: de een reist visumvrij binnen terwijl de ander een visum moet aanvragen, dus het gaat om jouw eigen nationaliteit, niet om de ervaring van een reisgenoot.
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 
-Bronnen die we hebben gecontroleerd (6 november 2026)
+Officiële bronnen
 
 - [European Commission: Schengen area](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en)
 - [European Commission: Short-stay calculator](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en)

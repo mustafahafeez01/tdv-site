@@ -22,7 +22,7 @@ Rien de tout cela n'est une raison d'attendre. C'est une raison de choisir quelq
 
 ## Il n'existe aucun délai d'attente officiel avant de pouvoir renouveler
 
-HM Passport Office relie le renouvellement à deux déclencheurs : votre passeport a expiré, ou il ne lui reste pas assez de validité pour votre destination. Ses directives de renouvellement ne fixent aucune date minimale, et précisent que la durée de validité nécessaire dépend du pays visité. USAGov conseille aux Américains de renouveler à l'avance, car les délais de traitement varient et certains pays et compagnies aériennes refusent l'entrée lorsqu'il reste moins de six mois de validité au passeport.
+HM Passport Office relie le renouvellement à deux déclencheurs : votre passeport a expiré, ou il ne lui reste pas assez de validité pour votre destination. Ses [directives de renouvellement](https://www.gov.uk/renew-adult-passport/renew) ne fixent aucune date minimale, et précisent que la durée de validité nécessaire dépend du pays visité. [USAGov](https://www.usa.gov/renew-adult-passport) conseille aux Américains de renouveler à l'avance, car les délais de traitement varient et certains pays et compagnies aériennes refusent l'entrée lorsqu'il reste moins de six mois de validité au passeport.
 
 Le Canada fixe une limite, et même celle-ci reste souple. Le gouvernement du Canada indique que si vous déposez une demande plus d'un an avant l'expiration de votre passeport, il vous en demandera la raison, et une demande par courrier doit inclure une explication écrite. Son service de renouvellement en ligne est plus restrictif encore, ouvert seulement lorsque votre passeport expire dans les six prochains mois ou a déjà expiré.
 
@@ -30,13 +30,13 @@ Si vous êtes américain, il existe aussi une limite à l'autre bout de l'échel
 
 ## Renouveler à l'avance au Royaume-Uni signifie renoncer aux mois restants
 
-C'est le véritable coût d'un renouvellement anticipé, et il est plus faible qu'il ne le paraît. Les anciennes directives de HM Passport Office expliquent qu'entre novembre 2004 et octobre 2018, toute personne renouvelant avant l'expiration pouvait voir jusqu'à neuf mois non utilisés ajoutés au nouveau passeport. Depuis octobre 2018, ce n'est plus le cas, et le temps restant de l'ancien passeport est donc simplement perdu.
+C'est le véritable coût d'un renouvellement anticipé, et il est plus faible qu'il ne le paraît. Les [anciennes directives](https://www.gov.uk/government/publications/historic-passport-information-caseworker-guidance/historic-passport-information-accessible) de HM Passport Office expliquent qu'entre novembre 2004 et octobre 2018, toute personne renouvelant avant l'expiration pouvait voir jusqu'à neuf mois non utilisés ajoutés au nouveau passeport. Depuis octobre 2018, ce n'est plus le cas, et le temps restant de l'ancien passeport est donc simplement perdu.
 
 Déposez votre demande neuf mois à l'avance, et vous échangez ces neuf mois contre un passeport dont vous n'aurez plus à vous soucier pendant une décennie. Nous ferions cet échange à chaque fois, car l'alternative consiste à renouveler dans l'urgence, avec un voyage déjà prévu.
 
-L'ancienne règle des mois supplémentaires a laissé un piège derrière elle. Les conseils aux voyageurs de GOV.UK pour l'Espagne préviennent qu'un passeport renouvelé avant octobre 2018 peut porter une date de délivrance remontant à plus de dix ans.
+L'ancienne règle des mois supplémentaires a laissé un piège derrière elle. Les [conseils aux voyageurs de GOV.UK pour l'Espagne](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements) préviennent qu'un passeport renouvelé avant octobre 2018 peut porter une date de délivrance remontant à plus de dix ans.
 
-Cela a son importance, car les indications Your Europe de l'UE précisent qu'un passeport utilisé pour entrer dans l'espace Schengen doit avoir été délivré au cours des dix dernières années. Il doit aussi rester valide au moins trois mois après votre départ. Un passeport qui semble correct au regard de sa date d'expiration peut donc tout de même ne pas convenir en Europe. Si le vôtre a été délivré sous l'ancienne règle, vérifiez la date de délivrance autant que la date d'expiration, et notre guide sur [la durée de validité d'un passeport pour voyager](https://traveldocumentvault.com/fr/blog/how-long-is-passport-valid-for-travel/) détaille les deux.
+Cela a son importance, car les [indications Your Europe](https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm) de l'UE précisent qu'un passeport utilisé pour entrer dans l'espace Schengen doit avoir été délivré au cours des dix dernières années. Il doit aussi rester valide au moins trois mois après votre départ. Un passeport qui semble correct au regard de sa date d'expiration peut donc tout de même ne pas convenir en Europe. Si le vôtre a été délivré sous l'ancienne règle, vérifiez la date de délivrance autant que la date d'expiration, et notre guide sur [la durée de validité d'un passeport pour voyager](https://traveldocumentvault.com/fr/blog/how-long-is-passport-valid-for-travel/) détaille les deux.
 
 ## Votre ancien passeport cesse de fonctionner une fois le nouveau autorisé
 
@@ -52,8 +52,8 @@ Chaque renouvellement s'accompagne d'un nouveau numéro. HM Passport Office asso
 
 Tout ce qui est déjà lié à l'ancien numéro mérite d'être vérifié avant votre prochain voyage :
 
-- **Un ESTA américain** doit être redemandé. US Customs and Border Protection indique qu'un nouvel ESTA est requis lorsque le voyageur reçoit un nouveau passeport.
-- GOV.UK indique qu'**un ETA britannique** est lié au passeport utilisé pour la demande et dure deux ans, ou jusqu'à l'expiration de ce passeport si elle survient plus tôt. Vérifiez où en est le vôtre avant de voyager avec le nouveau, et notre guide sur [le passeport auquel un ETA britannique est lié](https://traveldocumentvault.com/fr/blog/uk-eta-passport-rules/) détaille la question.
+- **Un ESTA américain** doit être redemandé. [US Customs and Border Protection](https://www.cbp.gov/travel/international-visitors/esta/frequently-asked-questions-about-visa-waiver-program-vwp-and-electronic-system-travel) indique qu'un nouvel ESTA est requis lorsque le voyageur reçoit un nouveau passeport.
+- [GOV.UK](https://www.gov.uk/eta/apply) indique qu'**un ETA britannique** est lié au passeport utilisé pour la demande et dure deux ans, ou jusqu'à l'expiration de ce passeport si elle survient plus tôt. Vérifiez où en est le vôtre avant de voyager avec le nouveau, et notre guide sur [le passeport auquel un ETA britannique est lié](https://traveldocumentvault.com/fr/blog/uk-eta-passport-rules/) détaille la question.
 - Pour **un visa présent dans l'ancien passeport**, la réponse habituelle est d'emporter les deux. Un visa dans l'ancien passeport reste généralement valide : emportez les deux passeports et vérifiez les indications officielles du pays qui a délivré le visa.
 - **Les vols et hôtels** réservés avec les informations de l'ancien passeport peuvent nécessiter l'ajout du nouveau numéro, une tâche simple à la maison et bien plus délicate au comptoir d'enregistrement.
 
@@ -65,13 +65,13 @@ Notre avis est simple : commencez à penser au renouvellement lorsqu'il reste 12
 
 L'autre moitié consiste à choisir le bon moment dans cette fenêtre. Cherchez quelques semaines sans rien de prévu, puisque l'ancien passeport est joint à la demande et que le nouveau revient avec un numéro différent.
 
-HM Passport Office indique que vous recevrez généralement votre passeport dans un délai de trois semaines, plus long si des informations supplémentaires ou un entretien sont nécessaires, le délai démarrant à la réception de vos documents. Au Canada, le renouvellement en ligne peut prendre jusqu'à 20 jours ouvrables, auxquels s'ajoutent les délais postaux. Pour savoir ce qui tend à ralentir une demande, notre guide sur [la durée du renouvellement de passeport](https://traveldocumentvault.com/fr/blog/how-long-does-passport-renewal-take/) détaille la question.
+[HM Passport Office](https://www.gov.uk/government/organisations/hm-passport-office/about/about-our-services) indique que vous recevrez généralement votre passeport dans un délai de trois semaines, plus long si des informations supplémentaires ou un entretien sont nécessaires, le délai démarrant à la réception de vos documents. Au Canada, le renouvellement en ligne peut prendre jusqu'à 20 jours ouvrables, auxquels s'ajoutent les délais postaux. Pour savoir ce qui tend à ralentir une demande, notre guide sur [la durée du renouvellement de passeport](https://traveldocumentvault.com/fr/blog/how-long-does-passport-renewal-take/) détaille la question.
 
 Si un voyage en famille se profile, alignez tous les passeports du foyer en même temps. Au Royaume-Uni, HM Passport Office délivre les passeports d'enfants pour cinq ans plutôt que dix, donc celui qui doit être renouvelé en premier n'est souvent pas celui que vous attendiez. Si quelqu'un se rend dans un endroit qui exige une validité supplémentaire à l'arrivée, consultez notre guide sur [la règle des 6 mois du passeport](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/) pour voir comment cela modifie votre date.
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
-Sources vérifiées (6 novembre 2026)
+Sources officielles
 
 - [USAGov: Renew an adult passport](https://www.usa.gov/renew-adult-passport)
 - [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)

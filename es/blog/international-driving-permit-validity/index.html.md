@@ -30,9 +30,9 @@ Esto pilla a la gente por sorpresa más a menudo que las propias fechas de caduc
 
 ## Dos Tratados Deciden Cuánto Dura y Dónde Sirve
 
-Detrás de los permisos internacionales de conducir hay tres acuerdos internacionales, y cada país se adhirió a uno de ellos o a varios. Dos hacen casi todo el trabajo: el Convenio de Ginebra de 1949 y el Convenio de Viena de 1968. También existe un permiso más antiguo, del Convenio de París de 1926, que algunos destinos siguen incluyendo en sus requisitos. Comprueba la fecha de caducidad impresa en el permiso.
+Detrás de los permisos internacionales de conducir hay [tres acuerdos internacionales](https://www.gov.uk/driving-abroad/international-driving-permit), y cada país se adhirió a uno de ellos o a varios. Dos hacen casi todo el trabajo: el Convenio de Ginebra de 1949 y el Convenio de Viena de 1968. También existe un permiso más antiguo, del Convenio de París de 1926, que algunos destinos siguen incluyendo en sus requisitos. Comprueba la fecha de caducidad impresa en el permiso.
 
-Un permiso emitido bajo el Convenio de Ginebra de 1949 es válido durante un año. Un permiso emitido bajo el Convenio de Viena de 1968 puede durar hasta tres años.
+Un permiso emitido bajo el Convenio de Ginebra de 1949 [es válido durante un año](https://travel.gc.ca/travelling/documents/international-driving-permit). Un permiso emitido bajo el Convenio de Viena de 1968 puede durar hasta tres años.
 
 Esa división importa por partida doble. Determina cuánto dura tu permiso, y también decide dónde se reconoce. Un país que solo ratificó uno de los convenios no está obligado a reconocer un permiso emitido bajo el otro, y así es como un permiso que sirvió en el viaje del año pasado puede ser rechazado en este.
 
@@ -46,7 +46,7 @@ Esa división importa por partida doble. Determina cuánto dura tu permiso, y ta
 
 ## El Permiso de Tres Años Que a Menudo No Lo Es
 
-Esos tres años llevan una condición que es fácil pasar por alto. Un permiso de Viena caduca cuando caduca tu carné de conducir nacional, si esa fecha llega antes.
+Esos tres años llevan una condición que es fácil pasar por alto. Un permiso de Viena [caduca cuando caduca tu carné de conducir nacional](https://treaties.un.org/doc/Treaties/1977/05/19770524%2000-13%20AM/Ch_XI_B_19.pdf), si esa fecha llega antes.
 
 Supongamos que a tu carné le quedan 14 meses y te emiten un permiso de tres años. El permiso sirve durante 14 meses. La fecha impresa en la portada no tiene más peso que el carné que hay detrás.
 
@@ -68,7 +68,7 @@ Ese es el argumento práctico para llevar las tres fechas en un solo sitio. Trav
 
 Nosotros comprobaríamos esto en este orden, y la fecha del carné antes que cualquier cosa impresa en el permiso.
 
-**Si de verdad necesitas un permiso.** Algunos países aceptan el carné nacional por sí solo, y es el país en el que conduces el que fija el requisito, no el que emitió tu carné.
+**Si de verdad necesitas un permiso.** [Algunos países aceptan el carné nacional por sí solo](https://www.gov.uk/driving-abroad), y es el país en el que conduces el que fija el requisito, no el que emitió tu carné.
 
 **Qué convenio reconoce tu destino**, y después comprueba tu permiso con respecto a él (el convenio viene impreso en el documento).
 
@@ -102,7 +102,7 @@ Hoy mismo, saca tu carné y tu permiso, si tienes uno, y pon las dos fechas de c
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 
-Fuentes que hemos comprobado (6 de noviembre de 2026)
+Fuentes oficiales
 
 - [United Nations Treaty Collection: Convention on Road Traffic (1968)](https://treaties.un.org/doc/Treaties/1977/05/19770524%2000-13%20AM/Ch_XI_B_19.pdf)
 - [UK Government: driving abroad, international driving permits](https://www.gov.uk/driving-abroad/international-driving-permit)

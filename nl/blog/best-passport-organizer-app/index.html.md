@@ -39,7 +39,7 @@ Bij een datalek bij een app die alles op het toestel bewaart, lekt er niets van 
 
 ### De voorlooptijd van herinneringen is de instelling die je zelf wilt kunnen aanpassen
 
-Een herinnering op 6 maanden is het minimum – veel landen eisen dat je paspoort nog minstens 6 maanden geldig is na je reisdata, zoals we uitleggen in ons artikel over de [6 maanden-paspoortregel](https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/). Kinderpaspoorten zijn vaak 5 jaar geldig in plaats van 10 (een Brits kinderpaspoort is bijvoorbeeld 5 jaar geldig). Een eerdere herinnering – bijvoorbeeld 9 maanden van tevoren – geeft dan meer comfortabele planningstijd.
+Een herinnering op 6 maanden is het minimum – veel landen eisen dat je paspoort nog minstens 6 maanden geldig is na je reisdata, zoals we uitleggen in ons artikel over de [6 maanden-paspoortregel](https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/). Kinderpaspoorten zijn vaak 5 jaar geldig in plaats van 10 (een [Brits kinderpaspoort](https://www.gov.uk/get-a-child-passport) is bijvoorbeeld 5 jaar geldig). Een eerdere herinnering – bijvoorbeeld 9 maanden van tevoren – geeft dan meer comfortabele planningstijd.
 
 ### Eén app kan het hele gezin veilig bevatten
 
@@ -104,7 +104,7 @@ Pak de app die je daadwerkelijk overweegt en loop hem langs deze lijst voordat j
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 
-Bronnen die we hebben gecontroleerd (6 november 2026)
+Officiële bronnen
 
 - [UK Foreign Office: Indonesia entry requirements](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements)
 - [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)

@@ -36,7 +36,7 @@ Tjek overalt, før du antager det værste – jakkelommer, alle rum i tasken, ho
 
 ## Trin 2: Indgiv en politianmeldelse med det samme
 
-Gå til den nærmeste politistation, og anmeld passet som tabt eller stjålet. Dit forsikringsselskab vil som regel bede om den til en erstatningssag, og nogle ambassader spørger om den, men ikke alle: den canadiske regering oplyser for eksempel, at den ikke kræves til pasudskiftning. Vi ville gøre det inden for en time, hvis det er muligt, mens detaljerne stadig står klart for dig.
+Gå til den nærmeste politistation, og anmeld passet som tabt eller stjålet. Dit forsikringsselskab vil som regel bede om den til en erstatningssag, og nogle ambassader spørger om den, men ikke alle: [den canadiske regering](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings) oplyser for eksempel, at den ikke kræves til pasudskiftning. Vi ville gøre det inden for en time, hvis det er muligt, mens detaljerne stadig står klart for dig.
 
 Bed om en skriftlig kopi med et sagsnummer, og spørg om en engelsk oversættelse, hvis der er en tilgængelig. Tag et billede af den, og opbevar flere kopier et sikkert sted.
 
@@ -53,7 +53,7 @@ Ring, før du besøger dem. Nogle ambassader kræver en aftale for nødpastjenes
 
 ## Trin 4: Ansøg om et nødpas
 
-Din ambassade udsteder et nødpas (emergency travel document, ETD), som regel kun gyldigt til én rejse hjem. Sagsbehandlingstiden afhænger af ambassaden og af, hvor akut din sag er, så spørg, når du ringer.
+Din ambassade udsteder et [nødpas](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport) (emergency travel document, ETD), som regel kun gyldigt til én rejse hjem. Sagsbehandlingstiden afhænger af ambassaden og af, hvor akut din sag er, så spørg, når du ringer.
 
 Hvad du normalt skal bruge (bekræft med din ambassade, før du møder op):
 
@@ -84,12 +84,11 @@ Når du har dit nødpas, skal du bekræfte udrejsekravene hos de lokale myndighe
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 
-Kilder vi har tjekket (6. november 2026)
+Officielle kilder
 
 - [Government of Canada: Lost or stolen belongings abroad](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings)
 - [UK Government: Travel urgently from abroad without your UK passport, How to apply](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport/how-to-apply)
 - [UK Government: Travel urgently from abroad without your UK passport, Who can apply](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport)
-- [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
 
 ## Ofte stillede spørgsmål
 
@@ -103,7 +102,7 @@ Ja. Mange lande udsteder nødpas gennem deres ambassader og konsulater, som rege
 
 ### Skal jeg have en politianmeldelse, hvis mit pas bliver stjålet i udlandet?
 
-Det er som regel værd at få en, selvom ikke alle pasmyndigheder kræver det. Den canadiske regering oplyser, at en politianmeldelse ikke er nødvendig for pasudskiftning, men kan hjælpe med en forsikringssag, og GOV.UK nævner ikke en politianmeldelse som krav til et britisk nødpas. Nogle ambassader spørger om den alligevel, og de fleste rejseforsikringsselskaber vil have den til en erstatningssag. Få den fra den lokale politistation med det samme, spørg om en engelsk kopi, hvis muligt, og gem flere kopier.
+Det er som regel værd at få en, selvom ikke alle pasmyndigheder kræver det. Den canadiske regering oplyser, at en politianmeldelse ikke er nødvendig for pasudskiftning, men kan hjælpe med en forsikringssag, og [GOV.UK](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport/how-to-apply) nævner ikke en politianmeldelse som krav til et britisk nødpas. Nogle ambassader spørger om den alligevel, og de fleste rejseforsikringsselskaber vil have den til en erstatningssag. Få den fra den lokale politistation med det samme, spørg om en engelsk kopi, hvis muligt, og gem flere kopier.
 
 ### Dækker rejseforsikringen et mistet eller stjålet pas?
 

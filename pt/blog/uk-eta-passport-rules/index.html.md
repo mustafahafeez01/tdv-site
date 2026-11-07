@@ -22,7 +22,7 @@ Este é, no fundo, um problema de acompanhamento de documentos. Há duas datas d
 
 ## A maioria dos visitantes isentos de visto precisa agora de uma ETA
 
-Se for cidadão dos EUA, do Canadá, da Austrália, da Nova Zelândia, ou de um país da UE ou do Espaço Económico Europeu, é provável que precise de uma ETA do Reino Unido. O regime entrou em vigor a 25 de fevereiro de 2026 para a maioria dos cidadãos isentos de visto.
+Se for cidadão dos EUA, do Canadá, da Austrália, da Nova Zelândia, ou de um país da UE ou do Espaço Económico Europeu, [é provável que precise de uma ETA do Reino Unido](https://www.gov.uk/eta). O regime entrou em vigor a 25 de fevereiro de 2026 para a maioria dos cidadãos isentos de visto.
 
 Algumas pessoas estão isentas: os cidadãos irlandeses não precisam de ETA, e quem já tem um estatuto de imigração no Reino Unido — visto, settled status, ou indefinite leave to remain — também não precisa de se candidatar. Pessoas com dupla nacionalidade, quem tem direitos ao abrigo da Common Travel Area, e alguns outros grupos têm regras diferentes consoante a forma como viajam.
 
@@ -30,7 +30,7 @@ Algumas pessoas estão isentas: os cidadãos irlandeses não precisam de ETA, e 
 
 ## A ETA está associada ao número do seu passaporte, não a si
 
-A sua ETA do Reino Unido está associada ao número do passaporte, não à sua pessoa. Quando se candidata, o Home Office associa a aprovação a um número de passaporte específico. Viajar com um passaporte diferente — um recém-renovado, um segundo passaporte, um documento de substituição de emergência — significa viajar com uma ETA que não está associada a esse documento.
+A sua ETA do Reino Unido [está associada ao número do passaporte](https://www.gov.uk/check-eta), não à sua pessoa. Quando se candidata, o Home Office associa a aprovação a um número de passaporte específico. Viajar com um passaporte diferente — um recém-renovado, um segundo passaporte, um documento de substituição de emergência — significa viajar com uma ETA que não está associada a esse documento.
 
 A ETA do Reino Unido é digital e específica do passaporte, por isso um novo número de passaporte significa que é preciso uma nova ETA.
 
@@ -87,11 +87,11 @@ Uma ETA também não é um visto — não determina quanto tempo pode ficar. Os 
 
 A ETA do Reino Unido é uma das várias autorizações de viagem digitais atualmente em uso. Se está a planear viajar por vários países, vale a pena perceber a diferença entre uma ETA e um [visto](https://traveldocumentvault.com/pt/blog/visa-vs-passport/). O processo parece semelhante, mas servem propósitos diferentes.
 
-A UE prevê a sua própria autorização de viagem digital, o [ETIAS](https://traveldocumentvault.com/pt/blog/etias-documents-2026/), que ainda não está em funcionamento — semelhante em conceito à ETA do Reino Unido, mas com regras e requisitos diferentes. Quando arrancar, uma viagem que inclua o Reino Unido e o espaço Schengen pode exigir ambas.
+A UE prevê a sua própria autorização de viagem digital, o [ETIAS](https://traveldocumentvault.com/pt/blog/etias-documents-2026/), que [ainda não está em funcionamento](https://travel-europe.europa.eu/en/etias) — semelhante em conceito à ETA do Reino Unido, mas com regras e requisitos diferentes. Quando arrancar, uma viagem que inclua o Reino Unido e o espaço Schengen pode exigir ambas.
 
 Se já tem uma viagem reservada, faça isto hoje: confronte a data de validade do seu passaporte com as datas da viagem e confirme que a ETA atual está associada ao passaporte com que vai realmente viajar. Se uma das duas condições falhar, comece já a renovação ou a nova candidatura, e não na semana em que voa.
 
-Fontes que verificámos (6 de novembro de 2026)
+Fontes oficiais
 
 - [UK Government: Get an electronic travel authorisation (ETA) to visit the UK](https://www.gov.uk/eta)
 - [UK Government: Check your electronic travel authorisation (ETA)](https://www.gov.uk/check-eta)

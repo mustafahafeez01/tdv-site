@@ -34,15 +34,15 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/what-documents-to-carry-whe
 
 ### 疫苗接种证书
 
-某些目的地要求提供黄热病或其他疾病的疫苗接种证明，要求会根据目的地定期变更。在旅行前4-8周检查世界卫生组织旅行建议页面——而不是前一晚——并携带证书原件而不是副本，因为某些国家会要求查看原件。
+某些目的地要求提供黄热病或其他疾病的疫苗接种证明，要求会根据目的地定期变更。在旅行前4-8周检查[世界卫生组织旅行建议页面](https://www.who.int/health-topics/travel-and-health)——而不是前一晚——并携带证书原件而不是副本，因为某些国家会要求查看原件。
 
 ### 旅行保险详情
 
-您需要立即访问您的保单号码、签发公司联系方式和24小时紧急热线。某些签证类型明确要求提供旅行保险证明——例如申根签证申请需要医疗保险覆盖紧急护理和住院。但更重要的是，如果您在国外发生问题，您需要在没有电子邮件或互联网访问权限的情况下获得这些详情。
+您需要立即访问您的保单号码、签发公司联系方式和24小时紧急热线。某些签证类型明确要求提供旅行保险证明——例如[申根签证申请](https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en)需要医疗保险覆盖紧急护理和住院。但更重要的是，如果您在国外发生问题，您需要在没有电子邮件或互联网访问权限的情况下获得这些详情。
 
 ### 儿童旅行同意信
 
-当儿童国际旅行时仅与一位家长同行（或两位家长都没有同行），许多国家期望缺席家长的书面同意，强烈建议公证。许多国家的边境官员和航空公司工作人员可能会要求提供此类同意信，加拿大即是其中之一；南非对入境儿童另有自己的规定，请查看目的地的官方页面。没有同意信，您可能会遇到延误或被拒绝登机。
+当儿童国际旅行时仅与一位家长同行（或两位家长都没有同行），许多国家期望缺席家长的书面同意，强烈建议公证。许多国家的边境官员和航空公司工作人员可能会要求提供此类同意信，[加拿大](https://travel.gc.ca/travelling/children/consent-letter)即是其中之一；[南非](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements)对入境儿童另有自己的规定，请查看目的地的官方页面。没有同意信，您可能会遇到延误或被拒绝登机。
 
 这是家庭旅行中最常被忽视的文件，所以在到达登机口前务必再次核实。
 
@@ -109,7 +109,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/what-documents-to-carry-whe
 
 **在依据本文行动之前：**这是一个博客，不是官方来源。规则和细节会变化，你的情况也可能不同。我们会核对所发布的内容，但仍可能出错或过时。如果这里的内容对你的安排很重要，请在行动前向主管机构核实。
 
-我们核对过的资料来源（2026年11月6日）
+官方资料来源
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [UK Foreign Office: South Africa entry requirements](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements)

@@ -28,7 +28,7 @@ Två olika upplägg säljs båda som krypterad säkerhetskopiering, och de funge
 
 Det ena skickar filen till företagets server över en krypterad anslutning och lagrar den sedan krypterad i vila. Båda dessa påståenden är sanna, och båda låter betryggande. Men företaget har fortfarande nyckeln, så det har teknisk möjlighet att dekryptera dina handlingar, oavsett om det gäller en funktion, en juridisk begäran eller ett internt misstag. Din passkopia går att läsa i andra änden.
 
-Det andra upplägget blandar ihop filen på din telefon innan den skickas någonstans, med en nyckel som härleds från något bara du har. Det som når lagringen är ett block av brus, och ingen i andra änden kan läsa det, eftersom ingen i andra änden har nyckeln. Det här beskrivs ofta som end-to-end-krypterat, eller "zero-knowledge".
+Det andra upplägget blandar ihop filen på din telefon innan den skickas någonstans, med en nyckel som härleds från något bara du har. Det som når lagringen är ett block av brus, och ingen i andra änden kan läsa det, eftersom ingen i andra änden har nyckeln. Det här beskrivs ofta som [end-to-end-krypterat](https://csrc.nist.gov/glossary/term/end_to_end_encryption), eller "zero-knowledge".
 
 Så frågan värd att ställa till vilken app som helst är kort: **vem har nyckeln?** Allt annat i marknadsföringen följer av svaret.
 
@@ -108,7 +108,7 @@ Inget av det här är dramatiskt, och det är lite grann poängen. De familjer s
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 
-Källor vi har kontrollerat (6 november 2026)
+Officiella källor
 
 - [NIST: end-to-end encryption glossary entry](https://csrc.nist.gov/glossary/term/end_to_end_encryption)
 

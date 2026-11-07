@@ -24,7 +24,7 @@ The problem starts small. You have your own passport, your spouse has theirs. Th
 
 One person usually ends up handling it all, often whoever's already managing the other trip logistics, and that single point of failure becomes a risk.
 
-Child passports often expire sooner than adult ones. In the UK, a child passport is valid for 5 years, and many other countries issue children's passports with a shorter validity than adult ones. This means your youngest child's passport often becomes the limiting factor for family trips. You could have a parent with 8 years of validity remaining, but if your youngest's passport expires in 18 months, that's your planning horizon.
+Child passports often expire sooner than adult ones. In the UK, a [child passport is valid for 5 years](https://www.gov.uk/get-a-child-passport), and many other countries issue children's passports with a shorter validity than adult ones. This means your youngest child's passport often becomes the limiting factor for family trips. You could have a parent with 8 years of validity remaining, but if your youngest's passport expires in 18 months, that's your planning horizon.
 
 Most families don't realise this until they're already booked a trip. A parent finds the passports a week before departure, scanning them hastily while packing, and discovers that one child's document won't meet the validity rule some destinations apply, often six months. The trip is now at risk, or needs a rushed and expensive passport renewal.
 
@@ -86,7 +86,7 @@ If you haven't set this up yet, start today: scan the photo page of every passpo
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
 

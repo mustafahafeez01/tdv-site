@@ -21,13 +21,13 @@ Ett ESTA gäller vanligtvis i två år från den dag det godkänns, eller tills 
 
 ## Ditt ESTA upphör efter två år eller när passet gör det
 
-Regeln kommer från US Customs and Border Protection (CBP): ett godkänt ESTA gäller vanligtvis i två år från godkännandedatumet, eller tills passet går ut, beroende på vad som sker först. Ett pass med 14 månader kvar ger alltså ett ESTA med 14 månader kvar. Godkännandeskärmen visar det exakta utgångsdatumet, vilket besparar dig besväret att räkna ut det.
+Regeln kommer från [US Customs and Border Protection (CBP)](https://www.cbp.gov/travel/international-visitors/esta/frequently-asked-questions-about-visa-waiver-program-vwp-and-electronic-system-travel): ett godkänt ESTA gäller vanligtvis i två år från godkännandedatumet, eller tills passet går ut, beroende på vad som sker först. Ett pass med 14 månader kvar ger alltså ett ESTA med 14 månader kvar. Godkännandeskärmen visar det exakta utgångsdatumet, vilket besparar dig besväret att räkna ut det.
 
 ![Diagram över när ett ESTA slutar gälla: det upphör efter 2 år eller när passet går ut, det som inträffar först. Alla behöver sitt eget, även bebisar och barn, var och en på sitt eget pass. Nytt pass, nytt namn eller nytt medborgarskap innebär att man måste ansöka igen](https://traveldocumentvault.com/blog/how-long-is-esta-valid/esta-clock-sv.jpg) En klocka per resenär, och den överlever aldrig passet.
 
 CBP skickar också ett mejl till adressen i din ansökan när ditt ESTA är på väg att gå ut inom de kommande 30 dagarna. Vi skulle inte lita på det mejlet ensamt: det kan hamna i skräpposten eller en gammal inkorg, så notera datumet någonstans du ser det när du bokar.
 
-Inom de två åren täcker ett ESTA så många resor du vill. Varje besök under Visa Waiver Program är fortfarande begränsat till högst 90 dagar, och CBP är tydliga med att ett tvåårigt godkännande inte innebär en tvåårig vistelse.
+Inom de två åren täcker ett ESTA så många resor du vill. Varje besök under [Visa Waiver Program](https://www.cbp.gov/travel/international-visitors/visa-waiver-program) är fortfarande begränsat till högst 90 dagar, och CBP är tydliga med att ett tvåårigt godkännande inte innebär en tvåårig vistelse.
 
 Det enda undantaget är Brunei, där CBP har kortat giltighetstiden för landets medborgare till ett år.
 
@@ -41,7 +41,7 @@ Så här fungerar det i praktiken. Säg att ditt ESTA går ut den 10:e i en mån
 
 Det finns ingen förlängning. CBP säger att befintliga godkännanden inte kan förlängas, och du behöver inte vänta tills ett går ut innan du ansöker igen. Din nya ansökan upphäver och ersätter den gamla.
 
-CBP rekommenderar att ansöka när du bokar din resa, och det är en vana värd att hålla fast vid. Om ditt ESTA går ut några veckor före en resa, ansök samma dag resan bokas snarare än veckan du flyger.
+[CBP rekommenderar att ansöka när du bokar din resa](https://www.cbp.gov/newsroom/national-media-release/cbp-reminds-travelers-allow-72-hours-esta), och det är en vana värd att hålla fast vid. Om ditt ESTA går ut några veckor före en resa, ansök samma dag resan bokas snarare än veckan du flyger.
 
 ## Fyra förändringar innebär ett nytt ESTA
 
@@ -62,7 +62,7 @@ Ingen förväntar sig att ett litet barn fyller i ett formulär. En förälder e
 
 ## Avgiften steg den 16 oktober, och befintliga godkännanden påverkas inte
 
-Enligt meddelandet i Federal Register som publicerades den 1 oktober 2026 steg ESTA-avgiften från US $40.27 till US $40.62, som tas ut från den 16 oktober 2026. Om du redan har ett giltigt, godkänt ESTA säger CBP att du inte behöver ansöka igen. Du betalar det nya beloppet nästa gång du ansöker.
+Enligt [meddelandet i Federal Register](https://www.govinfo.gov/content/pkg/FR-2026-10-01/html/2026-20185.htm) som publicerades den 1 oktober 2026 steg ESTA-avgiften från US $40.27 till US $40.62, som tas ut från den 16 oktober 2026. Om du redan har ett giltigt, godkänt ESTA säger CBP att du inte behöver ansöka igen. Du betalar det nya beloppet nästa gång du ansöker.
 
 Samma meddelande fastställer en lägre avgift på US $10.62 om en ansökan avslås, vilket täcker kostnaden för att hantera den.
 
@@ -70,7 +70,7 @@ Räkna med att siffran ändras igen. Lagen bakom den kräver att avgiften juster
 
 ## Ansök på den officiella ESTA-webbplatsen, inte en kopia
 
-Vissa tredjepartswebbplatser tar ut mer än den officiella avgiften. CBP säger att de inte skyndar på godkännandet, att de inte stöds av eller är anslutna till Department of Homeland Security, och att CBP inte kan återbetala det du betalat dem. Ansök på den officiella ESTA-webbplatsen som drivs av CBP.
+Vissa [tredjepartswebbplatser](https://www.cbp.gov/newsroom/national-media-release/cbp-warns-against-third-party-site-use-esta-applications) tar ut mer än den officiella avgiften. CBP säger att de inte skyndar på godkännandet, att de inte stöds av eller är anslutna till [Department of Homeland Security](https://www.dhs.gov/visa-waiver-program), och att CBP inte kan återbetala det du betalat dem. Ansök på den officiella ESTA-webbplatsen som drivs av CBP.
 
 Det är också där du kontrollerar en status. Välj "Check ESTA Status" (kontrollera ESTA-status), sedan "Check Individual Status" (kontrollera individuell status), eller "Check Group Status" (kontrollera gruppstatus) för en familjeansökan. Om du har tappat bort ansökningsnumret kan du hitta ansökan med ditt passnummer, medborgarskapsland, passets utfärdande- och utgångsdatum, och födelsedatum. Uppgifterna måste matcha exakt det du angav.
 
@@ -89,11 +89,11 @@ Fyra kontroller tar några minuter:
 
 ## Ett godkänt ESTA är ingen garanti för inresa
 
-Godkännande innebär att du är berättigad att resa under Visa Waiver Program, inte att du kommer att tillåtas resa in, eftersom CBP-tjänstemän fattar det beslutet när du anländer.
+[Godkännande innebär att du är berättigad att resa](https://www.cbp.gov/travel/international-visitors/esta) under Visa Waiver Program, inte att du kommer att tillåtas resa in, eftersom CBP-tjänstemän fattar det beslutet när du anländer.
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 
-Källor vi har kontrollerat (6 november 2026)
+Officiella källor
 
 - [US CBP: Visa Waiver Program and ESTA frequently asked questions](https://www.cbp.gov/travel/international-visitors/esta/frequently-asked-questions-about-visa-waiver-program-vwp-and-electronic-system-travel)
 - [US CBP: Electronic System for Travel Authorization (ESTA)](https://www.cbp.gov/travel/international-visitors/esta)
@@ -102,7 +102,6 @@ Källor vi har kontrollerat (6 november 2026)
 - [US DHS: Visa Waiver Program](https://www.dhs.gov/visa-waiver-program)
 - [US CBP: CBP Reminds Travelers to Allow 72 Hours for ESTA](https://www.cbp.gov/newsroom/national-media-release/cbp-reminds-travelers-allow-72-hours-esta)
 - [US CBP: CBP Warns Against Third-Party Site Use for ESTA Applications](https://www.cbp.gov/newsroom/national-media-release/cbp-warns-against-third-party-site-use-esta-applications)
-- [US CBP: ESTA frequently asked questions](https://esta.cbp.dhs.gov/faq)
 
 ## Vanliga frågor
 

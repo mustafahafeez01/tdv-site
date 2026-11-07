@@ -60,7 +60,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/how-to-read-your-passport-d
 
 近期签发的英国护照已经不再附带这些多出来的月份，但持有这类月份的老护照仍在流通，也仍在使用。
 
-申根国家通常在边境对非欧盟护照执行两项独立检查：护照必须在入境日之前十年以内签发，并且必须在您计划离开之日起至少还有三个月有效期。带着多出九个月的护照，很容易轻松满足第二项检查，却过不了第一项，而拿着一本尚未到期的证件，在马德里的柜台前解释这一点绝非易事。
+申根国家通常在边境对非欧盟护照执行两项独立检查：[护照必须在入境日之前十年以内签发](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements)，并且必须在您计划离开之日起至少还有三个月有效期。带着多出九个月的护照，很容易轻松满足第二项检查，却过不了第一项，而拿着一本尚未到期的证件，在马德里的柜台前解释这一点绝非易事。
 
 我们会在前往欧洲旅行之前把两个日期都核对一遍，而不是只看底部那一个。
 
@@ -96,7 +96,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/how-to-read-your-passport-d
 
 **在依据本文行动之前：**这是一个博客，不是官方来源。规则和细节会变化，你的情况也可能不同。我们会核对所发布的内容，但仍可能出错或过时。如果这里的内容对你的安排很重要，请在行动前向主管机构核实。
 
-我们核对过的资料来源（2026年11月6日）
+官方资料来源
 
 - [UK Foreign Office: Spain entry requirements](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements)
 

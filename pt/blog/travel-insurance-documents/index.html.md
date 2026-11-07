@@ -36,7 +36,7 @@ Os documentos da sua apólice estão nas mãos de quem lhe vendeu a cobertura, p
 
 Se nem se lembra de ter comprado uma apólice, verifique a sua conta bancária. O Financial Ombudsman Service descreve uma conta bancária com pacote como uma conta à ordem que cobra uma taxa mensal em troca de benefícios extra, incluindo seguro de viagem. Nesse caso, o banco é geralmente o primeiro sítio onde deve perguntar, por isso experimente a app, o site ou a linha de apoio.
 
-Depois de os ter, o Foreign, Commonwealth and Development Office do Reino Unido recomenda levar consigo os dados da sua apólice, incluindo o número de apólice e o número de assistência de emergência da sua seguradora. Sugere também partilhá-los com quem viaja consigo e com a família em casa. Se ainda assim não encontrar nada, ligue para a seguradora, ou para o banco no caso de uma conta com pacote, e peça que lhe enviem novamente os documentos antes de voar, não depois de algo correr mal.
+Depois de os ter, o [Foreign, Commonwealth and Development Office do Reino Unido](https://www.gov.uk/guidance/foreign-travel-insurance) recomenda levar consigo os dados da sua apólice, incluindo o número de apólice e o número de assistência de emergência da sua seguradora. Sugere também partilhá-los com quem viaja consigo e com a família em casa. Se ainda assim não encontrar nada, ligue para a seguradora, ou para o banco no caso de uma conta com pacote, e peça que lhe enviem novamente os documentos antes de voar, não depois de algo correr mal.
 
 ## Os Cinco Documentos Que Deve Guardar Antes de Partir
 
@@ -146,7 +146,7 @@ Vinte minutos agora e não estará à procura de nada numa crise.
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 
-Fontes que verificámos (6 de novembro de 2026)
+Fontes oficiais
 
 - [UK Government: Foreign travel insurance](https://www.gov.uk/guidance/foreign-travel-insurance)
 

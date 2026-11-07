@@ -13,7 +13,7 @@ Source: https://traveldocumentvault.com/es/blog/child-first-passport-application
 - **El consentimiento para solicitar el pasaporte es distinto del consentimiento para viajar.** Las normas varían según el país: en el Reino Unido, por ejemplo, firma alguien con responsabilidad parental y se facilitan los datos de ambos progenitores, mientras que otros países piden el consentimiento de los dos. Consulta tu oficina de pasaportes.
 - **La mayoría de las solicitudes piden tres tipos de pruebas:** prueba de identidad (certificado de nacimiento), prueba de identidad de los padres y prueba del vínculo parental.
 - **Las fotos de pasaporte de bebés tienen normas específicas.** La mayoría de las autoridades quieren los ojos abiertos y mirando a la cámara (GOV.UK relaja esto para menores de 1 y de 6 años), sin chupetes, juguetes ni manos visibles —y el fondo detrás de la cabeza del niño debe ser liso y despejado.
-- **Revísalo todo en cuanto llegue.** La ortografía, los nombres de los padres donde aparezcan, la fecha de caducidad —sobre todo porque los pasaportes infantiles suelen caducar antes que los de los adultos (los británicos tienen una validez de 5 años).
+- **Revísalo todo en cuanto llegue.** La ortografía, los nombres de los padres donde aparezcan, la fecha de caducidad —sobre todo porque los pasaportes infantiles suelen caducar antes que los de los adultos ([los británicos tienen una validez de 5 años](https://www.gov.uk/get-a-child-passport)).
 - **En los países que piden el consentimiento de ambos progenitores, por lo general uno no puede firmar solo, salvo que exista una orden judicial, la guarda y custodia legal exclusiva, o que el otro progenitor haya fallecido.** Si es tu caso, tu oficina de pasaportes sigue un procedimiento específico.
 
 El primer pasaporte de tu hijo es algo que solo tramitas una vez —lo que significa que puedes aprender las reglas antes de necesitarlas, en lugar de descubrirlas en la ventanilla. La solicitud en sí es sencilla, pero las normas de consentimiento y los requisitos de la foto varían según el país, y un pequeño error al principio puede significar una solicitud rechazada y un viaje retrasado.
@@ -28,7 +28,7 @@ Este artículo trata el consentimiento para la solicitud. Esta distinción impor
 
 ## Por Defecto, Deben Estar de Acuerdo Todos los Que Tienen Responsabilidad Parental
 
-Quién debe dar su consentimiento depende del país. En el Reino Unido, firma una persona con responsabilidad parental y se facilitan los datos de ambos progenitores; otros países suelen exigir la firma de los dos. La responsabilidad parental de los progenitores no casados también depende del país, así que confírmalo con tu oficina de pasaportes. Cualquier persona con una orden judicial o guarda y custodia legal exclusiva sigue normas distintas, y tu oficina de pasaportes te explicará el procedimiento concreto si lo consultas.
+Quién debe dar su consentimiento depende del país. En el Reino Unido, [firma una persona con responsabilidad parental](https://www.gov.uk/get-a-child-passport/first-child-passport) y se facilitan los datos de ambos progenitores; otros países suelen exigir la firma de los dos. La responsabilidad parental de los progenitores no casados también depende del país, así que confírmalo con tu oficina de pasaportes. Cualquier persona con una orden judicial o guarda y custodia legal exclusiva sigue normas distintas, y tu oficina de pasaportes te explicará el procedimiento concreto si lo consultas.
 
 Estas excepciones son reales y conviene conocerlas. Un progenitor fallecido no puede firmar, y un progenitor que haya perdido la responsabilidad parental por resolución judicial puede que tampoco tenga derecho a dar su consentimiento. Las órdenes de alejamiento y las restricciones de custodia también pueden excluir por ley a un progenitor. Cada una de estas situaciones tiene su propio procedimiento de solicitud y sus propios requisitos de prueba, así que no existe una única respuesta que las cubra todas.
 
@@ -44,7 +44,7 @@ Las oficinas de pasaportes piden tres cosas cuando solicitas el primer pasaporte
 
 **La prueba del vínculo con el niño** suele derivarse del propio certificado de nacimiento si figuran ambos progenitores. Si solo aparece uno, es posible que tengas que aportar una orden judicial, un acuerdo de custodia o un certificado de tutela para demostrar que el segundo progenitor también tiene derecho a tomar decisiones sobre el niño.
 
-**Algunos países utilizan un sistema de contrafirmante.** Esto significa que un profesional de confianza —un profesor, médico, abogado o similar— firma un formulario para dar fe de que la solicitud es genuina y de que la foto se parece de verdad al niño. Si tu país utiliza este sistema, necesitas identificar a alguien dispuesto a hacerlo antes de solicitar el pasaporte. Pregunta a tu oficina de pasaportes qué profesiones acepta.
+**Algunos países utilizan un [sistema de contrafirmante](https://www.gov.uk/countersigning-passport-applications).** Esto significa que un profesional de confianza —un profesor, médico, abogado o similar— firma un formulario para dar fe de que la solicitud es genuina y de que la foto se parece de verdad al niño. Si tu país utiliza este sistema, necesitas identificar a alguien dispuesto a hacerlo antes de solicitar el pasaporte. Pregunta a tu oficina de pasaportes qué profesiones acepta.
 
 ## Los Bebés No Pueden Seguir las Normas de Adultos, Así Que las Adaptas
 
@@ -52,7 +52,7 @@ Las oficinas de pasaportes piden tres cosas cuando solicitas el primer pasaporte
 
 Aquí es donde muchas primeras solicitudes fracasan. Un bebé o un niño pequeño no puede seguir las normas de la foto como lo haría un adulto: los bebés no se sientan solos, los pequeños no se quedan quietos ni entienden instrucciones, y los recién nacidos no miran a la cámara a la orden. Las normas de las fotos de pasaporte se redactaron pensando en adultos, y hay que entender cómo adaptarlas cuando el sujeto es un niño que pesa 5 kilos y no para de moverse.
 
-**Las normas básicas son las mismas:** los ojos del niño deben estar generalmente abiertos y mirando a la cámara, con un fondo liso detrás de la cabeza y nada más en el encuadre. Algunas autoridades relajan la norma de los ojos para los niños más pequeños: GOV.UK no exige los ojos abiertos en menores de un año, ni mirar directamente a la cámara en menores de 6. Lo que cambia es cómo lo consigues.
+**Las normas básicas son las mismas:** los ojos del niño deben estar generalmente abiertos y mirando a la cámara, con un fondo liso detrás de la cabeza y nada más en el encuadre. Algunas autoridades relajan la norma de los ojos para los niños más pequeños: [GOV.UK](https://www.gov.uk/photos-for-passports) no exige los ojos abiertos en menores de un año, ni mirar directamente a la cámara en menores de 6. Lo que cambia es cómo lo consigues.
 
 **Para un recién nacido o un bebé de menos de un año:** fotografíalo tumbado sobre una sábana o manta lisa, blanca o de color claro. La tela se convierte en el fondo. Colócate justo encima para que el bebé mire hacia arriba, directo a la cámara, con los ojos abiertos —si está somnoliento, espera a un momento en que esté despierto. Nada de juguetes, chupetes, manos, ni ninguna otra persona visible en el encuadre salvo la cabeza y los hombros del bebé.
 
@@ -86,7 +86,7 @@ Se trata de un requisito legal que existe para proteger al niño, no de algo neg
 
 Una vez que te llegue el pasaporte ya expedido, dedica cinco minutos a revisarlo antes de guardarlo. Buscas tres cosas que ahora son fáciles de corregir y que serían una pesadilla corregir en el aeropuerto.
 
-**Revisa la ortografía.** El nombre de tu hijo debe estar escrito exactamente igual que en el certificado de nacimiento o el documento de identidad que usaste para la solicitud. Si está mal, la oficina de pasaportes suele reemplazarlo sin coste si el error fue suyo; si estaba en la solicitud que presentaste, puede que tengas que pagar una tasa. Si no te das cuenta hasta llegar al aeropuerto, la aerolínea puede negarte el embarque porque el nombre del billete no coincidirá con el del pasaporte.
+**Revisa la ortografía.** El nombre de tu hijo debe estar escrito exactamente igual que en el certificado de nacimiento o el documento de identidad que usaste para la solicitud. Si está mal, la oficina de pasaportes suele [reemplazarlo sin coste si el error fue suyo](https://www.gov.uk/government/publications/preventing-and-resolving-errors-on-passports/how-to-correct-errors-on-passports-accessible); si estaba en la solicitud que presentaste, puede que tengas que pagar una tasa. Si no te das cuenta hasta llegar al aeropuerto, la aerolínea puede negarte el embarque porque el nombre del billete no coincidirá con el del pasaporte.
 
 **Revisa los nombres de los progenitores donde aparezcan.** Algunos países imprimen los nombres de los progenitores o tutores en el interior del pasaporte del niño. Si estos nombres están mal escritos o son incorrectos, ponte en contacto con la oficina para que lo corrijan.
 
@@ -94,7 +94,7 @@ Una vez que te llegue el pasaporte ya expedido, dedica cinco minutos a revisarlo
 
 Si algo está mal, ponte en contacto con tu oficina de pasaportes en cuanto lo detectes. Que la corrección sea gratuita depende de quién haya cometido el error, y cuanto más tiempo pase, más complicado se vuelve el proceso. Cuando todo esté en orden, guarda el pasaporte enseguida en tu carpeta de documentos con una nota de la fecha de caducidad, para que la renovación no te pille por sorpresa.
 
-Fuentes que hemos comprobado (6 de noviembre de 2026)
+Fuentes oficiales
 
 - [UK Government: Get a passport photo, Digital photos](https://www.gov.uk/photos-for-passports)
 - [UK Government: applying for a first child passport](https://www.gov.uk/get-a-child-passport/first-child-passport)

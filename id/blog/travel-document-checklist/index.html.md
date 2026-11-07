@@ -26,7 +26,7 @@ Kesalahan terbesar yang dilakukan pelancong adalah memperlakukan momen pemesanan
 
 **Periksa paspor Anda sebelum membayar**
 
-Sebelum mengonfirmasi pemesanan apa pun, periksa paspor setiap pelancong berdasarkan tiga kriteria: masa berlaku (apakah memenuhi persyaratan destinasi, banyak negara menginginkan sisa masa berlaku enam bulan pada hari kedatangan Anda, dan sebagian menghitung dari tanggal keberangkatan, jadi periksa destinasi Anda, seperti dijelaskan dalam [panduan kami tentang aturan paspor 6 bulan](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/)), kecocokan nama (nama di paspor harus persis sama dengan nama pemesanan), dan halaman kosong (beberapa negara mensyaratkan minimal dua halaman visa kosong untuk stempel kedatangan).
+Sebelum mengonfirmasi pemesanan apa pun, periksa paspor setiap pelancong berdasarkan tiga kriteria: masa berlaku (apakah memenuhi persyaratan destinasi, [banyak negara menginginkan sisa masa berlaku enam bulan pada hari kedatangan Anda](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), dan sebagian menghitung dari tanggal keberangkatan, jadi periksa destinasi Anda, seperti dijelaskan dalam [panduan kami tentang aturan paspor 6 bulan](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/)), kecocokan nama (nama di paspor harus persis sama dengan nama pemesanan), dan halaman kosong (beberapa negara mensyaratkan [minimal dua halaman visa kosong](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements) untuk stempel kedatangan).
 
 **Periksa persyaratan visa Anda**
 
@@ -42,7 +42,7 @@ Pesan asuransi perjalanan saat Anda memesan penerbangan, bukan seminggu sebelum 
 
 Pada titik ini Anda masih punya waktu untuk memperbaiki keadaan. Waktu pemrosesan berubah-ubah, dan otoritas paspor negara Anda mempublikasikan angka terkininya sendiri. Selalu periksa situs resmi untuk waktu terkini sebelum mengajukan permohonan.
 
-Kami akan memperpanjang paspor mana pun yang kedaluwarsa dalam 12 bulan sekarang. Paspor anak kedaluwarsa lebih cepat (paspor anak Inggris berlaku 5 tahun, dibandingkan 10 tahun untuk dewasa, dan beberapa negara lain sama), dan orang tua sering melewatkan jendela waktu ini. Bagi pemohon di Selandia Baru, periksa New Zealand Passport Office untuk waktu pemrosesan terkini.
+Kami akan memperpanjang paspor mana pun yang kedaluwarsa dalam 12 bulan sekarang. Paspor anak kedaluwarsa lebih cepat ([paspor anak Inggris berlaku 5 tahun](https://www.gov.uk/get-a-child-passport), dibandingkan 10 tahun untuk dewasa, dan beberapa negara lain sama), dan orang tua sering melewatkan jendela waktu ini. Bagi pemohon di Selandia Baru, periksa New Zealand Passport Office untuk waktu pemrosesan terkini.
 
 Ajukan permohonan visa apa pun yang memerlukan waktu tunggu, dan periksa ke otoritas penerbit berapa lama waktu yang dibutuhkan saat ini. Siapkan dokumen pendukung: rekening koran, konfirmasi akomodasi, bukti perjalanan lanjutan. Pesan janji temu biometrik lebih awal jika visa mensyaratkannya.
 
@@ -113,7 +113,7 @@ Jika perjalanan sudah dipesan, satu hal yang layak dilakukan hari ini adalah men
 
 **Sebelum Anda mengandalkan ini:** ini adalah blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 
-Sumber yang kami periksa (6 November 2026)
+Sumber resmi
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
@@ -138,7 +138,7 @@ Ya. Masa berlaku paspor, persyaratan visa, dan cakupan asuransi setiap orang din
 
 ### Apa itu surat izin perjalanan anak dan apakah saya memerlukannya?
 
-Surat izin perjalanan anak adalah dokumen yang ditandatangani oleh orang tua yang tidak ikut bepergian, memberikan izin bagi anak untuk bepergian. Beberapa negara, termasuk Afrika Selatan, menetapkan persyaratan tambahan untuk anak yang bepergian dengan satu orang tua, dan otoritas Kanada menganjurkan surat izin yang ditandatangani. Tanpa surat ini Anda mungkin menghadapi pertanyaan tambahan atau penundaan. Surat tersebut sebaiknya mencantumkan detail anak, informasi kontak kedua orang tua, tanggal perjalanan, destinasi, dan tanda tangan orang tua yang tidak ikut.
+Surat izin perjalanan anak adalah dokumen yang ditandatangani oleh orang tua yang tidak ikut bepergian, memberikan izin bagi anak untuk bepergian. Beberapa negara, termasuk [Afrika Selatan](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements), menetapkan persyaratan tambahan untuk anak yang bepergian dengan satu orang tua, dan otoritas Kanada menganjurkan surat izin yang ditandatangani. Tanpa surat ini Anda mungkin menghadapi pertanyaan tambahan atau penundaan. Surat tersebut sebaiknya mencantumkan detail anak, informasi kontak kedua orang tua, tanggal perjalanan, destinasi, dan tanda tangan orang tua yang tidak ikut.
 
 ### Dokumen apa yang harus saya simpan agar mudah diakses di bandara dan tidak di bagasi tercatat?
 

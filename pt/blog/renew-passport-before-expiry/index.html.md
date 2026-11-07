@@ -22,7 +22,7 @@ Nada disto é motivo para esperar. É motivo para escolher algumas semanas tranq
 
 ## Não há período de espera oficial antes de poder renovar
 
-O HM Passport Office liga a renovação a dois gatilhos: o seu passaporte expirou, ou não tem tempo suficiente para onde vai. As suas orientações de renovação não definem uma data mínima, e dizem que o tempo de que precisa depende do país que vai visitar. A USAGov diz aos americanos para renovarem antecipadamente, porque os tempos de processamento variam e alguns países e companhias aéreas recusam a entrada quando um passaporte tem menos de seis meses restantes.
+O HM Passport Office liga a renovação a dois gatilhos: o seu passaporte expirou, ou não tem tempo suficiente para onde vai. As suas [orientações de renovação](https://www.gov.uk/renew-adult-passport/renew) não definem uma data mínima, e dizem que o tempo de que precisa depende do país que vai visitar. A [USAGov](https://www.usa.gov/renew-adult-passport) diz aos americanos para renovarem antecipadamente, porque os tempos de processamento variam e alguns países e companhias aéreas recusam a entrada quando um passaporte tem menos de seis meses restantes.
 
 O Canadá traça uma linha, e mesmo essa é flexível. O Governo do Canadá diz que, se pedir mais de um ano antes de o passaporte expirar, vai perguntar o motivo, e um pedido por correio exige uma explicação escrita. O seu serviço de renovação online é ainda mais restrito, só disponível quando o passaporte expira nos seis meses seguintes ou já expirou.
 
@@ -30,13 +30,13 @@ Se é americano, há um limite que vale a pena conhecer no outro extremo: a USAG
 
 ## Renovar antecipadamente no Reino Unido significa devolver os meses que lhe restam
 
-Este é o custo real de renovar antecipadamente, e é menor do que parece. As orientações históricas do HM Passport Office explicam que, entre novembro de 2004 e outubro de 2018, quem renovasse antes de expirar podia ter até nove meses não usados adicionados ao novo passaporte. Desde outubro de 2018 isso já não acontece, por isso o tempo restante do passaporte antigo simplesmente desaparece.
+Este é o custo real de renovar antecipadamente, e é menor do que parece. As [orientações históricas](https://www.gov.uk/government/publications/historic-passport-information-caseworker-guidance/historic-passport-information-accessible) do HM Passport Office explicam que, entre novembro de 2004 e outubro de 2018, quem renovasse antes de expirar podia ter até nove meses não usados adicionados ao novo passaporte. Desde outubro de 2018 isso já não acontece, por isso o tempo restante do passaporte antigo simplesmente desaparece.
 
 Peça então nove meses antes e troca esses nove meses por um passaporte com que não vai precisar de se preocupar durante uma década. Faríamos essa troca sempre, porque a alternativa é renovar contra o relógio com uma viagem já marcada no calendário.
 
-A antiga regra dos meses extra deixou uma armadilha. As orientações de viagem do GOV.UK para a Espanha avisam que um passaporte renovado antes de outubro de 2018 pode ter uma data de emissão de há mais de dez anos.
+A antiga regra dos meses extra deixou uma armadilha. As [orientações de viagem do GOV.UK para a Espanha](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements) avisam que um passaporte renovado antes de outubro de 2018 pode ter uma data de emissão de há mais de dez anos.
 
-Isso importa porque as orientações Your Europe da UE dizem que um passaporte usado para entrar no espaço Schengen tem de ter sido emitido nos últimos dez anos. Também tem de permanecer válido durante pelo menos três meses depois de partir. Um passaporte que pareça bem pela data de validade ainda pode ficar abaixo do exigido na Europa. Se o seu foi emitido ao abrigo da regra antiga, verifique a data de emissão além da data de validade, e o nosso guia sobre [quanto tempo um passaporte é válido para viajar](https://traveldocumentvault.com/pt/blog/how-long-is-passport-valid-for-travel/) aborda as duas.
+Isso importa porque as [orientações Your Europe](https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm) da UE dizem que um passaporte usado para entrar no espaço Schengen tem de ter sido emitido nos últimos dez anos. Também tem de permanecer válido durante pelo menos três meses depois de partir. Um passaporte que pareça bem pela data de validade ainda pode ficar abaixo do exigido na Europa. Se o seu foi emitido ao abrigo da regra antiga, verifique a data de emissão além da data de validade, e o nosso guia sobre [quanto tempo um passaporte é válido para viajar](https://traveldocumentvault.com/pt/blog/how-long-is-passport-valid-for-travel/) aborda as duas.
 
 ## O seu passaporte antigo deixa de funcionar quando o novo é autorizado
 
@@ -52,8 +52,8 @@ Toda a renovação vem com um novo número. O HM Passport Office junta esse fact
 
 Tudo o que já esteja ligado ao número antigo merece uma verificação antes da sua próxima viagem:
 
-- **Uma ESTA dos EUA** tem de ser pedida novamente. A US Customs and Border Protection diz que é necessária uma nova ESTA quando o viajante recebe um novo passaporte.
-- O GOV.UK diz que **uma ETA do Reino Unido** está ligada ao passaporte com que se candidatou e dura dois anos ou até esse passaporte expirar, o que ocorrer primeiro. Verifique a situação da sua antes de voar com o novo, e o nosso guia sobre [a que passaporte está ligada a sua ETA do Reino Unido](https://traveldocumentvault.com/pt/blog/uk-eta-passport-rules/) cobre os detalhes.
+- **Uma ESTA dos EUA** tem de ser pedida novamente. A [US Customs and Border Protection](https://www.cbp.gov/travel/international-visitors/esta/frequently-asked-questions-about-visa-waiver-program-vwp-and-electronic-system-travel) diz que é necessária uma nova ESTA quando o viajante recebe um novo passaporte.
+- O [GOV.UK](https://www.gov.uk/eta/apply) diz que **uma ETA do Reino Unido** está ligada ao passaporte com que se candidatou e dura dois anos ou até esse passaporte expirar, o que ocorrer primeiro. Verifique a situação da sua antes de voar com o novo, e o nosso guia sobre [a que passaporte está ligada a sua ETA do Reino Unido](https://traveldocumentvault.com/pt/blog/uk-eta-passport-rules/) cobre os detalhes.
 - Para **um visto no passaporte antigo**, a resposta habitual é levar os dois. Um visto no passaporte antigo geralmente continua válido, por isso leve ambos os passaportes e consulte as orientações oficiais do país que emitiu o visto.
 - **Voos e hotéis** reservados com os dados do passaporte antigo podem precisar de ter o novo número adicionado, uma tarefa fácil em casa e incómoda ao balcão de check-in.
 
@@ -65,13 +65,13 @@ A nossa opinião é simples: comece a pensar na renovação quando o passaporte 
 
 A outra metade é escolher quando dentro dessa janela. Procure algumas semanas sem nada marcado, já que o passaporte antigo é enviado com o pedido e o novo volta com um número diferente.
 
-O HM Passport Office diz que normalmente recebe o passaporte dentro de três semanas, mais tempo se precisar de informação adicional ou de uma entrevista, com o relógio a começar quando recebe os seus documentos. No Canadá, a renovação online pode demorar até 20 dias úteis, além do tempo de envio pelo correio. Para saber o que costuma atrasar um pedido, o nosso guia sobre [quanto tempo demora a renovação de passaporte](https://traveldocumentvault.com/pt/blog/how-long-does-passport-renewal-take/) tem os detalhes.
+O [HM Passport Office](https://www.gov.uk/government/organisations/hm-passport-office/about/about-our-services) diz que normalmente recebe o passaporte dentro de três semanas, mais tempo se precisar de informação adicional ou de uma entrevista, com o relógio a começar quando recebe os seus documentos. No Canadá, a renovação online pode demorar até 20 dias úteis, além do tempo de envio pelo correio. Para saber o que costuma atrasar um pedido, o nosso guia sobre [quanto tempo demora a renovação de passaporte](https://traveldocumentvault.com/pt/blog/how-long-does-passport-renewal-take/) tem os detalhes.
 
 Se há uma viagem em família no horizonte, alinhe todos os passaportes do agregado ao mesmo tempo. No Reino Unido, o HM Passport Office emite passaportes de crianças por cinco anos em vez de dez, por isso o que precisa de renovação primeiro muitas vezes não é o que esperaria. Se alguém vai para um sítio que pede validade extra à chegada, consulte o nosso guia sobre [a regra dos 6 meses de passaporte](https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/) para saber como isso altera a sua data.
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 
-Fontes que verificámos (6 de novembro de 2026)
+Fontes oficiais
 
 - [USAGov: Renew an adult passport](https://www.usa.gov/renew-adult-passport)
 - [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)

@@ -24,7 +24,7 @@ Source: https://traveldocumentvault.com/ja/blog/passport-photo-at-home/
 
 ### 背景と構図
 
-必要なのは無地の明るい背景で、具体的な色合いは当局によって異なります。GOV.UKはクリーム色または薄いグレーの無地を求めており、Government of Canadaは白または明るい色の無地を求めています。パターン、影、ぼやけた背景、濃い色は使用できません。理由は単純です。当局者は顔を明確で整理された形で見て、将来の書類と比較する必要があります。無地のシーツやポスター用紙を、発行機関が求める色合い（英国ならクリーム色または薄いグレー）で用意するか、壁の一部を塗って使います。重要なのは明るく均一に保つことです。
+必要なのは無地の明るい背景で、具体的な色合いは当局によって異なります。[GOV.UK](https://www.gov.uk/photos-for-passports)はクリーム色または薄いグレーの無地を求めており、[Government of Canada](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/photos.html)は白または明るい色の無地を求めています。パターン、影、ぼやけた背景、濃い色は使用できません。理由は単純です。当局者は顔を明確で整理された形で見て、将来の書類と比較する必要があります。無地のシーツやポスター用紙を、発行機関が求める色合い（英国ならクリーム色または薄いグレー）で用意するか、壁の一部を塗って使います。重要なのは明るく均一に保つことです。
 
 ### 表情とポーズ
 
@@ -125,7 +125,7 @@ Source: https://traveldocumentvault.com/ja/blog/passport-photo-at-home/
 
 **この記事に頼る前に:** これはブログであり、公式な情報源ではありません。ルールや細かい条件は変わりますし、あなたの状況は違うかもしれません。掲載内容は確認していますが、それでも誤りや古い情報が含まれる可能性があります。ここに書かれていることがご自身の予定に関わるなら、行動に移す前に担当する機関に確認してください。
 
-確認した情報源（2026年11月6日）
+公式情報源
 
 - [UK Government: Get a passport photo, Digital photos](https://www.gov.uk/photos-for-passports)
 - [Government of Canada: Passport photo requirements](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/photos.html)

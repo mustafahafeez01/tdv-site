@@ -36,7 +36,7 @@ Prüfen Sie überall, bevor Sie das Schlimmste annehmen – Jackentaschen, jedes
 
 ## Schritt 2: Erstatten Sie sofort eine Polizeianzeige
 
-Gehen Sie zur nächsten Polizeiwache und melden Sie den Pass als verloren oder gestohlen. Ihr Versicherer wird den Bericht meist für einen Anspruch verlangen, und manche Botschaften fragen danach, aber nicht alle: Die kanadische Regierung etwa sagt, er sei für den Passersatz nicht erforderlich. Wir würden die Anzeige möglichst innerhalb einer Stunde erstatten, solange die Einzelheiten noch frisch in Erinnerung sind.
+Gehen Sie zur nächsten Polizeiwache und melden Sie den Pass als verloren oder gestohlen. Ihr Versicherer wird den Bericht meist für einen Anspruch verlangen, und manche Botschaften fragen danach, aber nicht alle: [Die kanadische Regierung](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings) etwa sagt, er sei für den Passersatz nicht erforderlich. Wir würden die Anzeige möglichst innerhalb einer Stunde erstatten, solange die Einzelheiten noch frisch in Erinnerung sind.
 
 Fragen Sie nach einer schriftlichen Kopie mit einem Aktenzeichen. Fragen Sie nach einer englischen Fassung oder Übersetzung, falls möglich. Machen Sie ein Foto davon und bewahren Sie mehrere Kopien sicher auf.
 
@@ -53,7 +53,7 @@ Rufen Sie an, bevor Sie besuchen. Manche Botschaften verlangen einen Termin für
 
 ## Schritt 4: Beantragen Sie ein Notfallreisedokument
 
-Ihre Botschaft stellt ein Notfallreisedokument (ETD) oder einen Notfallpass aus, normalerweise gültig für eine einfache Heimreise. Die Bearbeitungszeit hängt von der Vertretung und der Dringlichkeit Ihres Falls ab, fragen Sie danach, wenn Sie anrufen.
+Ihre Botschaft stellt ein [Notfallreisedokument (ETD)](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport) oder einen Notfallpass aus, normalerweise gültig für eine einfache Heimreise. Die Bearbeitungszeit hängt von der Vertretung und der Dringlichkeit Ihres Falls ab, fragen Sie danach, wenn Sie anrufen.
 
 Was Sie normalerweise brauchen (bestätigen Sie dies mit Ihrer Botschaft, bevor Sie besuchen):
 
@@ -84,12 +84,11 @@ Sobald Sie Ihr Notfallreisedokument haben, bestätigen Sie die Ausreiseanforderu
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 
-Quellen, die wir geprüft haben (6. November 2026)
+Offizielle Quellen
 
 - [Government of Canada: Lost or stolen belongings abroad](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings)
 - [UK Government: Travel urgently from abroad without your UK passport, How to apply](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport/how-to-apply)
 - [UK Government: Travel urgently from abroad without your UK passport, Who can apply](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport)
-- [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
 
 ## Häufig gestellte Fragen
 
@@ -103,7 +102,7 @@ Ja. Viele Länder stellen Notfallreisedokumente über ihre Botschaften und Konsu
 
 ### Brauche ich einen Polizeibericht, wenn mein Pass im Ausland gestohlen wird?
 
-Es lohnt sich meist, einen zu holen, aber nicht jede Passbehörde verlangt ihn. Die kanadische Regierung sagt, ein Polizeibericht sei für den Passersatz nicht erforderlich, könne aber bei Versicherungsansprüchen helfen, und GOV.UK führt keinen für den Antrag auf ein britisches Notfallreisedokument auf. Manche Botschaften fragen danach, und die meisten Reiseversicherer wollen ihn für einen Anspruch. Holen Sie ihn sofort von der örtlichen Polizeiwache, fragen Sie nach einer englischen Kopie, falls möglich, und bewahren Sie mehrere Kopien auf.
+Es lohnt sich meist, einen zu holen, aber nicht jede Passbehörde verlangt ihn. Die kanadische Regierung sagt, ein Polizeibericht sei für den Passersatz nicht erforderlich, könne aber bei Versicherungsansprüchen helfen, und [GOV.UK](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport/how-to-apply) führt keinen für den Antrag auf ein britisches Notfallreisedokument auf. Manche Botschaften fragen danach, und die meisten Reiseversicherer wollen ihn für einen Anspruch. Holen Sie ihn sofort von der örtlichen Polizeiwache, fragen Sie nach einer englischen Kopie, falls möglich, und bewahren Sie mehrere Kopien auf.
 
 ### Deckt die Reiseversicherung einen verlorenen oder gestohlenen Pass ab?
 

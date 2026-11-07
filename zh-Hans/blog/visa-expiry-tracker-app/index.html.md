@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/visa-expiry-tracker-app/
 - 申根区访客必须跟踪 90/180 天滚动窗口，而不仅仅是单个过期日期，因为计数是随你的实际出行记录滚动的，而不是按日历。
 - 在同一个地方同时追踪签证和护照可减少不匹配的风险：用有效签证进入但护照在计划停留结束前过期。
 
-签证逾期居留是一个人可能犯的最严重的旅游错误之一。不像错过航班——令人紧张但最终可以解决——逾期居留会创建一条正式的移民记录，可能会在数年内跟随你。在美国，根据《移民国籍法》第 212(a)(9)(B) 条，非法停留超过 180 天但不满一年并离境的人，通常会被禁止返回 3 年；非法停留一年或以上，通常意味着 10 年禁令。这些后果并不广为人知。
+签证逾期居留是一个人可能犯的最严重的旅游错误之一。不像错过航班——令人紧张但最终可以解决——逾期居留会创建一条正式的移民记录，可能会在数年内跟随你。在美国，根据[《移民国籍法》](https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chap12-subchapII-partII-sec1182.htm)第 212(a)(9)(B) 条，非法停留超过 180 天但不满一年并离境的人，通常会被禁止返回 3 年；非法停留一年或以上，通常意味着 10 年禁令。这些后果并不广为人知。
 
 签证过期追踪应用正是为防止这种情况而设计的：它需要同时监控多个日期，即入境有效期、最长逗留时间和入境次数，每一个都是独立的期限。
 
@@ -43,7 +43,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/visa-expiry-tracker-app/
 
 对于访问多个欧洲国家的旅行者，申根区的 90/180 天规则是国际旅游中最容易被误解的入境条件。获得申根区无签证入境权限的国家公民（包括英国、美国、加拿大和澳大利亚等许多国家）在任何 180 天滚动窗口内最多可以在申根区停留 90 天。
 
-欧盟委员会提供了官方申根停留计算器来帮助旅行者计算允许天数。重要的是这是一个*滚动窗口*，而不是日历年重置。六个月前在申根区花费的天数仍然计入你当前的津贴，所以只查看单个过期日期，并不能避免逾期居留。真正起作用的是你实际的入境和离境记录，而不是签证上印的那个日期。
+欧盟委员会提供了[官方申根停留计算器](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en)来帮助旅行者计算允许天数。重要的是这是一个*滚动窗口*，而不是日历年重置。六个月前在申根区花费的天数仍然计入你当前的津贴，所以只查看单个过期日期，并不能避免逾期居留。真正起作用的是你实际的入境和离境记录，而不是签证上印的那个日期。
 
 ## 逾期居留时会发生什么
 
@@ -51,7 +51,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/visa-expiry-tracker-app/
 
 - **英国：**逾期居留会被记录，影响未来的签证申请。英国内政部在评估可信度时会考虑逾期，可能会拒绝后续申请。
 - **澳大利亚：**逾期居留可能导致对未来签证申请的限制和被驱逐出境。根据《1958 年移民法》，逾期记录会被跟踪，影响未来的签证申请和重新入境资格。
-- **申根区：**停留会在边境被记录，由一个申根国家发出的入境禁令通常会通过申根信息系统（SIS）与其他国家共享，因此适用于整个申根区，欧盟委员会目前将其列为 29 个国家。
+- **申根区：**停留会在边境被记录，由一个申根国家发出的入境禁令通常会通过[申根信息系统（SIS）](https://home-affairs.ec.europa.eu/policies/schengen/schengen-information-system/what-sis-and-how-does-it-work_en)与其他国家共享，因此适用于整个申根区，[欧盟委员会目前将其列为 29 个国家](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en)。
 - **泰国：**逾期居留按泰国移民局设定的每日标准罚款，设有上限，逾期超过 90 天可能被驱逐出境并被禁止返回。
 
 在所有情况下，逾期记录通常会跟随你：它会出现在未来边界检查和签证申请时查看的移民数据库中。
@@ -80,7 +80,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/visa-expiry-tracker-app/
 
 **在依据本文行动之前：**这是一个博客，不是官方来源。规则和细节会变化，你的情况也可能不同。我们会核对所发布的内容，但仍可能出错或过时。如果这里的内容对你的安排很重要，请在行动前向主管机构核实。
 
-我们核对过的资料来源（2026年11月6日）
+官方资料来源
 
 - [US Code: Title 8, section 1182](https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chap12-subchapII-partII-sec1182.htm)
 - [European Commission: Schengen area](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en)

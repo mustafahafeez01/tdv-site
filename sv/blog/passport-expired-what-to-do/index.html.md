@@ -30,7 +30,7 @@ Hur brådskande du behöver agera avgör vad du ska göra:
 - **Gott om tid innan resan:** ansök om standardförnyelse online via passmyndighetens webbplats – GOV.UK i Storbritannien, travel.state.gov i USA.
 - **Resan närmar sig:** ansök omedelbart och betala för påskyndad handläggning. Både Storbritannien och USA erbjuder en snabbare betaltjänst online, och båda publicerar sin aktuella handläggningstid.
 - **Resan börjar bli nära:** ring passmyndigheten direkt i stället för att bara förlita dig på webbplatsen – HM Passport Office:s rådgivningslinje i Storbritannien, eller US National Passport Information Center i USA.
-- **Resan är omedelbart förestående:** fråga om en akuttid och ta med bevis på dina resdatum. Storbritanniens 1 Day Premium-tjänst (endast förnyelser av vuxnas pass) bokar tider tidigast två dagar efter ansökan, med passet klart för avhämtning fyra timmar senare, och USA publicerar sina alternativ för brådskande resor på travel.state.gov.
+- **Resan är omedelbart förestående:** fråga om en akuttid och ta med bevis på dina resdatum. Storbritanniens [1 Day Premium-tjänst](https://www.gov.uk/get-a-passport-urgently) (endast förnyelser av vuxnas pass) bokar tider tidigast två dagar efter ansökan, med passet klart för avhämtning fyra timmar senare, och USA publicerar sina alternativ för brådskande resor på travel.state.gov.
 
 Om din tidsram är snäv **skulle vi alltid ringa i stället för att bara lita på webbplatsen.**
 
@@ -56,7 +56,7 @@ Att passet gått ut betyder sällan att du måste börja om, eftersom du i Storb
 
 ### Storbritannien: Ett utgånget pass går genom vanlig förnyelse
 
-GOV.UK säger att du måste förnya innan du kan resa om ditt pass har gått ut eller inte har tillräcklig giltighetstid kvar för ditt resmål. Ett utgånget pass går genom den vanliga förnyelsen, online eller på en pappersblankett, och du behöver ditt gamla pass för att göra det. Vuxenpass är för personer från 16 år, och barnpass har sin egen process.
+[GOV.UK](https://www.gov.uk/renew-adult-passport/renew) säger att du måste förnya innan du kan resa om ditt pass har gått ut eller inte har tillräcklig giltighetstid kvar för ditt resmål. Ett utgånget pass går genom den vanliga förnyelsen, online eller på en pappersblankett, och du behöver ditt gamla pass för att göra det. Vuxenpass är för personer från 16 år, och barnpass har sin egen process.
 
 ### USA: Förnyelse fungerar inom 15 år från utfärdandet
 
@@ -64,7 +64,7 @@ USA har egna regler för vem som kan förnya ett utgånget pass, bland annat en 
 
 ### Kanada: Ett utgånget pass kan förnyas online
 
-Kanadas regering låter dig förnya om ditt senaste pass var ett vuxenpass som utfärdades när du var minst 16 år. Det måste också ha utfärdats inom 15 år från ansökningsdatumet och vara giltigt i 5 eller 10 år. Du kan förnya online om ditt pass går ut inom de kommande sex månaderna eller redan har gått ut, förutsatt att din hem- och postadress är i Kanada. Barnpass kan inte förnyas, så ett barn behöver en ny ansökan.
+[Kanadas regering](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html) låter dig förnya om ditt senaste pass var ett vuxenpass som utfärdades när du var minst 16 år. Det måste också ha utfärdats inom 15 år från ansökningsdatumet och vara giltigt i 5 eller 10 år. Du kan [förnya online](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport/submit-form-fees/renew-online.html) om ditt pass går ut inom de kommande sex månaderna eller redan har gått ut, förutsatt att din hem- och postadress är i Kanada. Barnpass kan inte förnyas, så ett barn behöver en ny ansökan.
 
 Har ditt pass gått ut för flera år sedan, kolla utfärdandedatumet först, eftersom 15-årsgränsen i USA och Kanada räknas från utfärdandet, inte från utgångsdatumet. Kontrollera sedan aktuella handläggningstider innan du bokar, vilket vår guide till [hur lång tid en passförnyelse tar](https://traveldocumentvault.com/sv/blog/how-long-does-passport-renewal-take/) går igenom land för land.
 
@@ -110,7 +110,7 @@ Gör det här för varje pass i ditt hushåll separat. Barns pass går ut snabba
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 
-Källor vi har kontrollerat (6 november 2026)
+Officiella källor
 
 - [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
 - [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)

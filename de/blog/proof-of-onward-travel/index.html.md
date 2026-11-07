@@ -40,7 +40,7 @@ Eine **Hotelbuchung** und ein **Kontoauszug** tauchen ebenfalls oft auf, beantwo
 
 Die Fluggesellschaft will wissen, ob Ihnen die Einreise bei der Ankunft wahrscheinlich verweigert wird, wodurch sie die Kosten für den Rückflug tragen müsste. Ein Grenzbeamter stellt eine verwandte, aber andere Frage: ob Sie die Einreisebedingungen des Landes erfüllen. Die beiden Fragen überschneiden sich, sind aber nicht dieselbe Frage.
 
-Sie überschneiden sich bei den eigenen Regeln des Ziellands. Der Schengener Grenzkodex etwa listet ein Rückflug- oder Rundreiseticket unter den Dokumenten, die ein Grenzbeamter von einem Besucher verlangen kann. Neuseeland verlangt von Besuchern, die Mittel zur Ausreise zu haben. Funktioniert ein Zielland so, wendet die Fluggesellschaft beim Check-in meist nur die Regel des Ziellands ein paar Stunden früher an, statt sich eine eigene auszudenken.
+Sie überschneiden sich bei den eigenen Regeln des Ziellands. Der [Schengener Grenzkodex](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0399) etwa listet ein Rückflug- oder Rundreiseticket unter den Dokumenten, die ein Grenzbeamter von einem Besucher verlangen kann. Neuseeland [verlangt von Besuchern, die Mittel zur Ausreise zu haben](https://www.immigration.govt.nz/visas/visa-waiver-visitor-visa/). Funktioniert ein Zielland so, wendet die Fluggesellschaft beim Check-in meist nur die Regel des Ziellands ein paar Stunden früher an, statt sich eine eigene auszudenken.
 
 ![Diagramm, das die Prüfung der Fluggesellschaft beim Check-in, die die Regeln des Ziellands anwendet und über das Boarding entscheidet, mit der Grenzkontrolle bei der Ankunft vergleicht, die über die Einreise entscheidet](https://traveldocumentvault.com/blog/proof-of-onward-travel/two-checks-de.jpg) Die Fluggesellschaft prüft vor dem Boarding; der Grenzbeamte entscheidet bei der Ankunft.
 
@@ -70,12 +70,11 @@ Eine Buchung, die Sie nicht öffnen können, hilft genauso wenig wie gar keine B
 
 Bewahren Sie eine offline verfügbare Kopie der Bestätigung auf: ein PDF, einen Screenshot mit Buchungsnummer und Daten, oder eine Kopie in einer App, die ohne Verbindung funktioniert. Travel Document Vault speichert Flugtickets und Hotelbuchungen verschlüsselt auf Ihrem Gerät und macht sie offline verfügbar. Die Bestätigung ist am Schalter da, egal ob Sie Empfang haben oder nicht. Unsere [internationale Reisedokument-Checkliste](https://traveldocumentvault.com/de/blog/travel-document-checklist/) deckt den Rest ab, was sich bereitzuhalten lohnt.
 
-Quellen, die wir geprüft haben (6. November 2026)
+Offizielle Quellen
 
 - [EU law: Schengen Borders Code (Regulation 2016/399)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0399)
 - [Immigration New Zealand: Visa Waiver Visitor Visa](https://www.immigration.govt.nz/visas/visa-waiver-visitor-visa/)
 - [Immigration New Zealand: Visitor Visa](https://www.immigration.govt.nz/visas/visitor-visa/)
-- [Immigration New Zealand: Onward travel requirements](https://www.immigration.govt.nz/opsmanual/50548.htm)
 
 ## Häufig gestellte Fragen
 
@@ -97,7 +96,7 @@ Ein One-Way-Ticket ist an sich kein Problem, denn Regeln zur Weiterreise richten
 
 ### Brauche ich für die Grenze einen Nachweis der Weiterreise?
 
-Manchmal, denn manche Ziele nehmen ihn in die Einreisebedingungen für Besucher auf. Der Schengener Grenzkodex listet ein Rückflug- oder Rundreiseticket unter den Dokumenten, die ein Grenzbeamter verlangen kann, und Neuseeland verlangt von Besuchern, die Mittel zur Ausreise zu haben. Prüfen Sie die Regeln Ihres Ziellands vor der Reise.
+Manchmal, denn manche Ziele nehmen ihn in die Einreisebedingungen für Besucher auf. Der Schengener Grenzkodex listet ein Rückflug- oder Rundreiseticket unter den Dokumenten, die ein Grenzbeamter verlangen kann, und Neuseeland [verlangt von Besuchern, die Mittel zur Ausreise zu haben](https://www.immigration.govt.nz/visas/visitor-visa/). Prüfen Sie die Regeln Ihres Ziellands vor der Reise.
 
 ## Verwandte Artikel
 

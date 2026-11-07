@@ -22,7 +22,7 @@ Two rules and one quirk of children's passports explain nearly every family Sche
 
 ## The Real Schengen Rule: 3 Months Beyond Departure
 
-The EU's requirement is precise: your passport must be valid for at least 3 months after the date you intend to leave the Schengen area, and it must have been issued within the previous 10 years.
+The EU's requirement is precise: [your passport must be valid for at least 3 months after the date you intend to leave the Schengen area](https://www.gov.uk/foreign-travel-advice/france/entry-requirements), and it must have been issued within the previous 10 years.
 
 Imagine your family returns from Italy on 20 August. Every passport needs validity to roughly 20 November, because that's three months beyond your departure date, not your arrival, and not your booking date. A passport expiring on 10 November fails that test, even though the holiday itself ends weeks earlier.
 
@@ -30,7 +30,7 @@ The issued-within-10-years condition catches UK families in a specific way. Olde
 
 ## Why This Is Not the 6-Month Rule
 
-Most travellers absorb the idea that passports need six months of validity to go anywhere. That rule is real: Thailand asks for six months of validity, and many other countries apply a version of it. But Schengen doesn't. Europe asks for three months beyond departure, which is gentler, and yet the two get blended into a vague "six months from somewhere" that produces both false alarm and false confidence.
+Most travellers absorb the idea that passports need six months of validity to go anywhere. That rule is real: [Thailand asks for six months of validity](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), and many other countries apply a version of it. But Schengen doesn't. Europe asks for three months beyond departure, which is gentler, and yet the two get blended into a vague "six months from somewhere" that produces both false alarm and false confidence.
 
 Our guide to [the 6-month rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/) covers which countries actually enforce it. Our [passport validity explainer](https://traveldocumentvault.com/blog/how-long-is-passport-valid-for-travel/) handles the general case. We're staying with Schengen here because that's where families most often get the maths subtly wrong.
 
@@ -38,7 +38,7 @@ Our guide to [the 6-month rule](https://traveldocumentvault.com/blog/passport-ex
 
 ## Kids' Passports Run on a Faster Clock
 
-UK adult passports last 10 years, while the UK issues children's passports for only five. That asymmetry is where many otherwise careful plans come unstuck.
+[UK adult passports last 10 years](https://www.gov.uk/apply-first-adult-passport), while [the UK issues children's passports for only five](https://www.gov.uk/get-a-child-passport). That asymmetry is where many otherwise careful plans come unstuck.
 
 | Country | Child passports | Validity |
 |---|---|---|
@@ -60,13 +60,13 @@ One failed passport rarely strands one person; it grounds the family. Few parent
 
 The fix is simple and takes just minutes. On the day you book, gather every passport in the household and note each expiry date and issue date. Then ask two questions for each one: will it still be valid three months after your return, and was it issued less than ten years ago? Anything that fails either test goes into the renewal queue that week. At that point, you can still renew, reroute the trip, or shift your dates without penalty, and we'd always choose renewing over waiting to see if the dates move.
 
-Children need the same buffer as adults. There's no child exception to the validity rules: a five-year-old's passport gets the same Timatic treatment as yours. One aside for British and Irish trips: Ireland isn't in Schengen at all. UK-Ireland travel runs under the separate Common Travel Area, so don't generalise from a Dublin trip to a Paris one.
+Children need the same buffer as adults. There's no child exception to the validity rules: a five-year-old's passport gets the same Timatic treatment as yours. One aside for British and Irish trips: Ireland isn't in Schengen at all. UK-Ireland travel runs under the [separate Common Travel Area](https://www.gov.uk/foreign-travel-advice/ireland/entry-requirements), so don't generalise from a Dublin trip to a Paris one.
 
 None of this needs an app. A spreadsheet helps plenty of families, and a twice-yearly calendar reminder handles most of the work. The only non-negotiable: do the audit at booking time, when a short passport is still an errand, not an emergency.
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [UK Foreign Office: France entry requirements](https://www.gov.uk/foreign-travel-advice/france/entry-requirements)
 - [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
@@ -80,7 +80,7 @@ Sources we checked (6 November 2026)
 
 ### What is the difference between the 6-month rule and Schengen's 3-month rule?
 
-They are separate rules for different destinations. Countries such as Thailand and Indonesia generally want 6 months of validity remaining. Schengen requires 3 months of validity beyond the date you leave, plus a passport issued within the last 10 years. Families who've travelled to Southeast Asia often assume the 6-month figure applies everywhere - it doesn't.
+They are separate rules for different destinations. Countries such as Thailand and [Indonesia](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements) generally want 6 months of validity remaining. Schengen requires 3 months of validity beyond the date you leave, plus a passport issued within the last 10 years. Families who've travelled to Southeast Asia often assume the 6-month figure applies everywhere - it doesn't.
 
 ### Do children follow different Schengen passport rules?
 

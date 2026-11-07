@@ -26,7 +26,7 @@ Source: https://traveldocumentvault.com/ja/blog/travel-document-checklist/
 
 **支払う前にパスポートを確認してください**
 
-予約を確認する前に、各旅行者のパスポートを3つの基準に照らし合わせて確認してください: 有効性(目的地の要件を満たしていますか。多くの国では到着日に6ヶ月の有効期間が残っていることを求め、出発日から数える国も一部にあるため、目的地を確認してください。[6ヶ月パスポートルールのガイド](https://traveldocumentvault.com/ja/blog/passport-expiry-6-month-rule/)を参照)、名前の一致(パスポートの名前は予約名と完全に一致する必要があります)、白紙ページ(一部の国では入国スタンプのために最低2ページの白紙ビザページを要求します)。
+予約を確認する前に、各旅行者のパスポートを3つの基準に照らし合わせて確認してください: 有効性(目的地の要件を満たしていますか。多くの国では[到着日に6ヶ月の有効期間が残っていること](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)を求め、出発日から数える国も一部にあるため、目的地を確認してください。[6ヶ月パスポートルールのガイド](https://traveldocumentvault.com/ja/blog/passport-expiry-6-month-rule/)を参照)、名前の一致(パスポートの名前は予約名と完全に一致する必要があります)、白紙ページ(一部の国では入国スタンプのために[最低2ページの白紙ビザページ](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements)を要求します)。
 
 **ビザ要件を確認してください**
 
@@ -42,7 +42,7 @@ Source: https://traveldocumentvault.com/ja/blog/travel-document-checklist/
 
 この時点ではまだ物事を修正する時間があります。更新にかかる時間は変動するため、お住まいの国のパスポート発行機関が最新の数値を公表しています。申請する前に必ず公式サイトで現在の期間を確認してください。
 
-12ヶ月以内に期限切れになるパスポートは、今すぐ更新することをお勧めします。子どものパスポートはより速く期限切れになります(英国の子どものパスポートは5年、成人は10年で、他にも同様の国がいくつかあります)。保護者は頻繁にウィンドウを逃しています。ニュージーランドの申請者の場合、ニュージーランドパスポートオフィスで現在のスケジュールを確認してください。
+12ヶ月以内に期限切れになるパスポートは、今すぐ更新することをお勧めします。子どものパスポートはより速く期限切れになります([英国の子どものパスポートは5年](https://www.gov.uk/get-a-child-passport)、成人は10年で、他にも同様の国がいくつかあります)。保護者は頻繁にウィンドウを逃しています。ニュージーランドの申請者の場合、ニュージーランドパスポートオフィスで現在のスケジュールを確認してください。
 
 時間のかかるビザ申請は先に提出してください。現在どのくらいかかるかは、申請先の機関でご確認ください。支援書類を準備します: 銀行取引明細書、宿泊施設の確認、出発地への旅行の証明。ビザに必要な場合は、生体認証の予約を事前に予約してください。
 
@@ -113,7 +113,7 @@ Source: https://traveldocumentvault.com/ja/blog/travel-document-checklist/
 
 **この記事に頼る前に:** これはブログであり、公式な情報源ではありません。ルールや細かい条件は変わりますし、あなたの状況は違うかもしれません。掲載内容は確認していますが、それでも誤りや古い情報が含まれる可能性があります。ここに書かれていることがご自身の予定に関わるなら、行動に移す前に担当する機関に確認してください。
 
-確認した情報源（2026年11月6日）
+公式情報源
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
@@ -138,7 +138,7 @@ Source: https://traveldocumentvault.com/ja/blog/travel-document-checklist/
 
 ### 子どもの旅行同意書とは何ですか、必要ですか
 
-子どもの旅行同意書は、不在の親から子どもの旅行許可を与える署名入り文書です。南アフリカなど一部の国では、片親のみと旅行する子どもに追加の要件を定めており、カナダ当局は署名入りの同意書を推奨しています。これがないと、追加の質問や遅延が生じる可能性があります。この手紙には、子どもの詳細、両親の連絡先、旅行日、目的地、および不在の親の署名を含める必要があります。
+子どもの旅行同意書は、不在の親から子どもの旅行許可を与える署名入り文書です。[南アフリカ](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements)など一部の国では、片親のみと旅行する子どもに追加の要件を定めており、[カナダ当局](https://travel.gc.ca/travelling/children/consent-letter)は署名入りの同意書を推奨しています。これがないと、追加の質問や遅延が生じる可能性があります。この手紙には、子どもの詳細、両親の連絡先、旅行日、目的地、および不在の親の署名を含める必要があります。
 
 ### 空港で手元に置いておくべき書類は何ですか
 

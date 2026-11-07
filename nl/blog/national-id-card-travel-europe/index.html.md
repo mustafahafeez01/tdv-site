@@ -30,15 +30,15 @@ In het Schengengebied is deze flexibiliteit het belangrijkst. Als EU-burger met 
 
 ## Wat telt als een nationale EER-identiteitskaart
 
-Als een boekingsformulier of een incheckmedewerker vraagt naar een "nationale EER-identiteitskaart", bedoelen ze de identiteitskaart die je eigen land aan zijn burgers uitgeeft, de kaart die je nationaliteit vermeldt. De EER omvat de 27 EU-landen plus IJsland, Liechtenstein en Noorwegen; Zwitserland valt daarbuiten, maar de Your Europe-richtlijnen van de Europese Commissie bevestigen dat EU-burgers ook daarheen kunnen reizen met een nationale identiteitskaart.
+Als een boekingsformulier of een incheckmedewerker vraagt naar een "nationale EER-identiteitskaart", bedoelen ze de identiteitskaart die je eigen land aan zijn burgers uitgeeft, de kaart die je nationaliteit vermeldt. De EER omvat de 27 EU-landen plus IJsland, Liechtenstein en Noorwegen; Zwitserland valt daarbuiten, maar de [Your Europe-richtlijnen van de Europese Commissie](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm) bevestigen dat EU-burgers ook daarheen kunnen reizen met een nationale identiteitskaart.
 
-Een verblijfskaart toont waar je woont, niet je nationaliteit, dus die reist samen met een paspoort in plaats van het te vervangen. De Britse overheid vraagt Britse inwoners van Spanje om bewijs van verblijf, zoals hun TIE-verblijfskaart, te tonen naast het paspoort bij de Spaanse grenscontrole. Rijbewijzen, bankkaarten en belastingkaarten tellen ook niet, en Your Europe waarschuwt dat ze als identiteitsbewijs kunnen worden geweigerd.
+Een verblijfskaart toont waar je woont, niet je nationaliteit, dus die reist samen met een paspoort in plaats van het te vervangen. De [Britse overheid](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements) vraagt Britse inwoners van Spanje om bewijs van verblijf, zoals hun TIE-verblijfskaart, te tonen naast het paspoort bij de Spaanse grenscontrole. Rijbewijzen, bankkaarten en belastingkaarten tellen ook niet, en Your Europe waarschuwt dat ze als identiteitsbewijs kunnen worden geweigerd.
 
 De huidige EU-kaart is makkelijk te herkennen. Ze heeft het formaat van een creditcard, een machineleesbare zone (de coderegels die een scanner leest), en toont de tweeletterige landcode van het uitgevende land in een blauwe rechthoek omringd door 12 gele sterren op de voorkant. Een chip erin bevat je foto en twee vingerafdrukken.
 
-Het zijn de oudere kaarten die mensen in de problemen brengen. Volgens de EU-verordening voor identiteitskaarten verloor een kaart zonder werkende machineleesbare zone, of een die onder de internationale minimumveiligheidsnorm valt, uiterlijk op 3 augustus 2026 haar geldigheid, ook als de gedrukte datum later ligt. De meeste andere oudere kaartformaten blijven geldig tot hun gedrukte vervaldatum of 3 augustus 2031, wat zich het eerst voordoet. Als je kaart van vóór de met sterren omringde code is en geen machineleesbare zone heeft, zouden wij hem nu laten vernieuwen in plaats van hem aan de grens te testen.
+Het zijn de oudere kaarten die mensen in de problemen brengen. Volgens de [EU-verordening voor identiteitskaarten](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1157) verloor een kaart zonder werkende machineleesbare zone, of een die onder de internationale minimumveiligheidsnorm valt, uiterlijk op 3 augustus 2026 haar geldigheid, ook als de gedrukte datum later ligt. De meeste andere oudere kaartformaten blijven geldig tot hun gedrukte vervaldatum of 3 augustus 2031, wat zich het eerst voordoet. Als je kaart van vóór de met sterren omringde code is en geen machineleesbare zone heeft, zouden wij hem nu laten vernieuwen in plaats van hem aan de grens te testen.
 
-Voor het Verenigd Koninkrijk werkt de kaart meestal niet. Het VK accepteert een EU-, EER- of Zwitserse identiteitskaart doorgaans alleen voor beperkte groepen, zoals mensen met settled of pre-settled status. Controleer daarom GOV.UK voordat je naar het VK reist.
+Voor het Verenigd Koninkrijk werkt de kaart meestal niet. Het VK accepteert een EU-, EER- of Zwitserse identiteitskaart doorgaans alleen voor beperkte groepen, zoals mensen met settled of pre-settled status. Controleer daarom [GOV.UK](https://www.gov.uk/guidance/visiting-the-uk-as-an-eu-eea-or-swiss-citizen) voordat je naar het VK reist.
 
 ## Wanneer je toch je paspoort nodig hebt
 
@@ -83,7 +83,7 @@ Wat helpt, is één plek voor beide documenten, die elke vervaldatum bewaart en 
 
 Begin vandaag: pak je identiteitskaart erbij, controleer de vervaldatum en kijk of er barsten, vervaging of een kromgetrokken kaart te zien zijn. Zit hij op het randje, boek dan de verlenging voordat je de reis boekt.
 
-Bronnen die we hebben gecontroleerd (6 november 2026)
+Officiële bronnen
 
 - [Your Europe (EU): Travel documents for EU nationals](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm)
 - [EU law: Regulation 2019/1157 on identity cards](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1157)

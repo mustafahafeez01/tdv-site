@@ -60,7 +60,7 @@ Utfärdandedatumet slutar vara en detalj i samma stund som ett land kontrollerar
 
 Brittiska pass utfärdade nyligen har inte längre de här extra månaderna, men äldre pass som har dem är fortfarande i omlopp och används fortfarande.
 
-Schengenländer tillämpar i regel två separata tester på ett pass utanför EU vid gränsen: det måste ha utfärdats mindre än tio år innan datumet du anländer, och det måste vara giltigt i minst tre månader efter att du tänker lämna landet. Ett pass med nio extra månader kan klara det andra testet utan problem och ändå misslyckas med det första, vilket är ett svårt samtal att ha vid en disk i Madrid med en handling som inte har gått ut.
+Schengenländer tillämpar i regel två separata tester på ett pass utanför EU vid gränsen: det måste ha [utfärdats mindre än tio år innan datumet du anländer](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements), och det måste vara giltigt i minst tre månader efter att du tänker lämna landet. Ett pass med nio extra månader kan klara det andra testet utan problem och ändå misslyckas med det första, vilket är ett svårt samtal att ha vid en disk i Madrid med en handling som inte har gått ut.
 
 Vi skulle kontrollera båda datumen inför en Europaresa, inte bara det längst ner.
 
@@ -96,7 +96,7 @@ Ta fem minuter i dag och hitta båda datumen på ditt eget pass, och på varje b
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du agerar.
 
-Källor vi har kontrollerat (6 november 2026)
+Officiella källor
 
 - [UK Foreign Office: Spain entry requirements](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements)
 

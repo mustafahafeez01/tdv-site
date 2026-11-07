@@ -21,13 +21,13 @@ ESTA的有效期通常为两年，从获批当天算起，或在与之关联的�
 
 ## ESTA在两年后失效，或在护照到期时失效
 
-美国海关与边境保护局（CBP）制定了这项规则：已获批的ESTA通常从授权之日起两年内有效，或在护照到期时失效，以较早者为准。也就是说，如果护照还剩14个月，你的ESTA也剩14个月。批准页面会显示确切的到期日，省去你自己计算的麻烦。
+[美国海关与边境保护局（CBP）](https://www.cbp.gov/travel/international-visitors/esta/frequently-asked-questions-about-visa-waiver-program-vwp-and-electronic-system-travel)制定了这项规则：已获批的ESTA通常从授权之日起两年内有效，或在护照到期时失效，以较早者为准。也就是说，如果护照还剩14个月，你的ESTA也剩14个月。批准页面会显示确切的到期日，省去你自己计算的麻烦。
 
 ![ESTA失效时刻示意图：满2年后失效，或护照到期时失效，以较早者为准。每个人都需要自己的ESTA，包括婴儿和儿童，各自持有自己的护照。换新护照、改名或变更国籍都需要重新申请](https://traveldocumentvault.com/blog/how-long-is-esta-valid/esta-clock-zh-Hans.jpg) 每位旅客各有一个时钟，且绝不会比护照更长久。
 
 如果你的ESTA将在30天内到期，CBP还会向申请时填写的邮箱发送提醒邮件。我们不建议只依赖这封邮件：它可能被归入垃圾邮件，或发到一个你很少查看的旧邮箱，所以最好把到期日记在预订行程时能看到的地方。
 
-在这两年有效期内，一个ESTA可以用于任意次数的行程。每次在签证豁免计划下的停留仍限制在90天或以内，CBP明确表示两年的批准并不意味着可以停留两年。
+在这两年有效期内，一个ESTA可以用于任意次数的行程。每次在[签证豁免计划](https://www.cbp.gov/travel/international-visitors/visa-waiver-program)下的停留仍限制在90天或以内，CBP明确表示两年的批准并不意味着可以停留两年。
 
 唯一的例外是文莱，CBP已将文莱公民和国民的ESTA有效期缩短为一年。
 
@@ -41,7 +41,7 @@ CBP表示，ESTA只需要在你抵达美国当天有效，不需要在整个停�
 
 ESTA没有延期这一说。CBP表示现有的批准无法延长，你也不必等它到期才重新申请。新的申请会取消并取代旧的申请。
 
-CBP建议在预订行程的同时就申请ESTA，这是一个值得养成的习惯。如果你的ESTA会在行程前几周到期，不妨在预订行程当天就申请，而不是等到出发那一周。
+[CBP建议在预订行程的同时就申请ESTA](https://www.cbp.gov/newsroom/national-media-release/cbp-reminds-travelers-allow-72-hours-esta)，这是一个值得养成的习惯。如果你的ESTA会在行程前几周到期，不妨在预订行程当天就申请，而不是等到出发那一周。
 
 ## 四种变化意味着需要一份新的ESTA
 
@@ -62,7 +62,7 @@ CBP表示，任何年龄的儿童都需要自己单独的ESTA批准，包括没�
 
 ## 费用于10月16日上调，已获批的ESTA不受影响
 
-根据《联邦公报》（Federal Register）2026年10月1日发布的公告，ESTA费用从2026年10月16日起由US $40.27上调至US $40.62。如果你已经持有有效且已获批的ESTA，CBP表示你不需要重新申请，只有在下次申请时才需要支付新的金额。
+根据[《联邦公报》（Federal Register）](https://www.govinfo.gov/content/pkg/FR-2026-10-01/html/2026-20185.htm)2026年10月1日发布的公告，ESTA费用从2026年10月16日起由US $40.27上调至US $40.62。如果你已经持有有效且已获批的ESTA，CBP表示你不需要重新申请，只有在下次申请时才需要支付新的金额。
 
 同一份公告还规定，如果申请被拒绝，将收取较低的US $10.62费用，用于支付处理成本。
 
@@ -70,7 +70,7 @@ CBP表示，任何年龄的儿童都需要自己单独的ESTA批准，包括没�
 
 ## 请在ESTA官方网站申请，不要使用仿冒网站
 
-一些第三方网站收取的费用高于官方费用。CBP表示，这些网站不会加快审批速度，既没有得到美国国土安全部（Department of Homeland Security）的认可，与其也没有任何隶属关系，而且CBP无法退还你向它们支付的费用。请在CBP运营的ESTA官方网站上申请。
+一些[第三方网站](https://www.cbp.gov/newsroom/national-media-release/cbp-warns-against-third-party-site-use-esta-applications)收取的费用高于官方费用。CBP表示，这些网站不会加快审批速度，既没有得到[美国国土安全部（Department of Homeland Security）](https://www.dhs.gov/visa-waiver-program)的认可，与其也没有任何隶属关系，而且CBP无法退还你向它们支付的费用。请在CBP运营的ESTA官方网站上申请。
 
 查询状态同样要通过这个网站。选择“Check ESTA Status”（查询ESTA状态），然后选择“Check Individual Status”（查询个人状态），或者针对家庭申请选择“Check Group Status”（查询团体状态）。如果你丢失了申请编号，可以通过护照号码、国籍、护照签发和到期日期以及出生日期找到申请记录，这些信息必须与你当初填写的完全一致。
 
@@ -89,11 +89,11 @@ CBP表示，任何年龄的儿童都需要自己单独的ESTA批准，包括没�
 
 ## 获批的ESTA并不保证能够入境
 
-获批只是意味着你有资格在签证豁免计划下出行，并不代表你一定会被允许入境，因为是否准许入境由CBP官员在你抵达时现场决定。
+[获批只是意味着你有资格在签证豁免计划下出行](https://www.cbp.gov/travel/international-visitors/esta)，并不代表你一定会被允许入境，因为是否准许入境由CBP官员在你抵达时现场决定。
 
 **在依据本文行动之前：**这是一个博客，不是官方来源。规则和细节会变化，你的情况也可能不同。我们会核对所发布的内容，但仍可能出错或过时。如果这里的内容对你的安排很重要，请在行动前向主管机构核实。
 
-我们核对过的资料来源（2026年11月6日）
+官方资料来源
 
 - [US CBP: Visa Waiver Program and ESTA frequently asked questions](https://www.cbp.gov/travel/international-visitors/esta/frequently-asked-questions-about-visa-waiver-program-vwp-and-electronic-system-travel)
 - [US CBP: Electronic System for Travel Authorization (ESTA)](https://www.cbp.gov/travel/international-visitors/esta)
@@ -102,7 +102,6 @@ CBP表示，任何年龄的儿童都需要自己单独的ESTA批准，包括没�
 - [US DHS: Visa Waiver Program](https://www.dhs.gov/visa-waiver-program)
 - [US CBP: CBP Reminds Travelers to Allow 72 Hours for ESTA](https://www.cbp.gov/newsroom/national-media-release/cbp-reminds-travelers-allow-72-hours-esta)
 - [US CBP: CBP Warns Against Third-Party Site Use for ESTA Applications](https://www.cbp.gov/newsroom/national-media-release/cbp-warns-against-third-party-site-use-esta-applications)
-- [US CBP: ESTA frequently asked questions](https://esta.cbp.dhs.gov/faq)
 
 ## 常见问题
 

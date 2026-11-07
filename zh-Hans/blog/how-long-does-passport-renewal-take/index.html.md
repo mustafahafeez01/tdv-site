@@ -84,7 +84,7 @@ HM Passport Office负责处理英国的护照更新，并在其网站上公布�
 | 紧急（临近出行） | 需要旅行证明；仅限亲自办理 |
 | 特快（出行日期较近） | 需在护照办公室亲自办理 |
 
-加拿大为在20个工作日或更久之后需要护照的申请人提供在线换发，其他人则走纸质申请流程。这使该过程在后勤上更加要求——尤其是如果您住在某个偏远地区，最近的护照办公室距离很远。查看IRCC的页面了解最新处理时间。
+[加拿大为在20个工作日或更久之后需要护照的申请人提供在线换发](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html)，其他人则走纸质申请流程。这使该过程在后勤上更加要求——尤其是如果您住在某个偏远地区，最近的护照办公室距离很远。查看IRCC的页面了解最新处理时间。
 
 ## 造成大多数延误的，就是一份简短而固定的清单
 
@@ -125,7 +125,7 @@ HM Passport Office负责处理英国的护照更新，并在其网站上公布�
 
 **在依据本文行动之前：**这是一个博客，不是官方来源。规则和细节会变化，你的情况也可能不同。我们会核对所发布的内容，但仍可能出错或过时。如果这里的内容对你的安排很重要，请在行动前向主管机构核实。
 
-我们核对过的资料来源（2026年11月6日）
+官方资料来源
 
 - [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
 - [Government of Canada: Renew an adult passport](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html)

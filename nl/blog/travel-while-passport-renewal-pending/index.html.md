@@ -28,9 +28,9 @@ Of je dat paspoort nog hebt, hangt volledig af van je land en je verlengingsmeth
 
 ## Verenigde Staten: verlenging per post
 
-Bij een standaard Amerikaanse paspoortverlenging per post stuur je je huidige paspoort mee met de aanvraag, dus tijdens de behandeling heb je het niet. Je vult formulier DS-82 in, voegt je bestaande paspoort toe en stuurt alles naar het National Passport Processing Center. Volgens USAGov wordt je oude paspoort apart teruggestuurd, meestal ongeveer vier weken nadat je het nieuwe hebt gekregen.
+Bij een standaard Amerikaanse paspoortverlenging per post stuur je je huidige paspoort mee met de aanvraag, dus tijdens de behandeling heb je het niet. Je [vult formulier DS-82 in](https://www.usa.gov/renew-adult-passport), voegt je bestaande paspoort toe en stuurt alles naar het National Passport Processing Center. Volgens USAGov wordt je oude paspoort apart teruggestuurd, meestal ongeveer vier weken nadat je het nieuwe hebt gekregen.
 
-Dat betekent dat binnenlandse reizen binnen de Verenigde Staten gedurende het hele verlengingsproces geen probleem zijn – je hebt geen paspoort nodig voor binnenlandse vluchten. Internationale reizen zijn een ander verhaal: je kunt niet internationaal reizen totdat je nieuwe paspoort is aangekomen, en je kunt het oude ongeldig gemaakte paspoort niet gebruiken, ook al heb je het in handen.
+Dat betekent dat binnenlandse reizen binnen de Verenigde Staten gedurende het hele verlengingsproces geen probleem zijn – [je hebt geen paspoort nodig voor binnenlandse vluchten](https://www.tsa.gov/travel/security-screening/identification). Internationale reizen zijn een ander verhaal: je kunt niet internationaal reizen totdat je nieuwe paspoort is aangekomen, en je kunt het oude ongeldig gemaakte paspoort niet gebruiken, ook al heb je het in handen.
 
 Standaard verwerkingstijden veranderen, en het State Department publiceert het actuele cijfer op travel.state.gov, dus controleer dat voordat je erop plant. Als je reis al geboekt is voordat je het nieuwe paspoort verwacht, is versnelde verwerking beschikbaar tegen een extra vergoeding en verkort dit de wachttijd aanzienlijk. Voor werkelijk urgente reizen zijn persoonlijke afspraken mogelijk bij regionale paspoortkantoren – controleer de actuele voorwaarden op travel.state.gov.
 
@@ -38,7 +38,7 @@ Standaard verwerkingstijden veranderen, en het State Department publiceert het a
 
 Het Verenigd Koninkrijk kent twee verlengingsroutes, en die hebben totaal verschillende gevolgen voor reizen. De methode die je gebruikte, bepaalt wat mogelijk is.
 
-**Postale verlenging:** je stuurt je huidige paspoort samen met je aanvraag naar HM Passport Office. Je paspoort is voor de hele duur in hun bezit, dus je kunt niet internationaal reizen. HM Passport Office publiceert de actuele verwerkingstijd op de eigen website en raadt af om te reizen te boeken voordat je nieuwe paspoort is aangekomen. Een premium spoedservice is beschikbaar tegen een extra vergoeding als je reis dichtbij is.
+**Postale verlenging:** je stuurt je huidige paspoort samen met je aanvraag naar [HM Passport Office](https://www.gov.uk/renew-adult-passport/renew). Je paspoort is voor de hele duur in hun bezit, dus je kunt niet internationaal reizen. HM Passport Office publiceert de actuele verwerkingstijd op de eigen website en [raadt af om te reizen te boeken](https://www.gov.uk/renew-adult-passport) voordat je nieuwe paspoort is aangekomen. Een premium spoedservice is beschikbaar tegen een extra vergoeding als je reis dichtbij is.
 
 **Digitale verlenging** is momenteel beschikbaar voor in aanmerking komende volwassenen die vanuit het Verenigd Koninkrijk aanvragen. Je houdt je huidige paspoort gedurende het hele proces bij je, en de overheid geeft je nieuwe paspoort apart uit en stuurt het naar je op. Omdat je bestaande paspoort nooit uit je bezit gaat, kun je het in de regel gewoon blijven gebruiken om te reizen terwijl het nieuwe wordt verwerkt. De voorwaarden verschillen per individuele situatie, dus controleer de website van HM Passport Office voor de volledige criteria en actuele tijden voordat je een aanvraag indient.
 
@@ -52,7 +52,7 @@ Het Australian Passport Office publiceert de actuele verwerkingstijden en raadt 
 
 ## Canada: ingeleverd bij aanvraag
 
-Canada vereist dat je je bestaande paspoort inlevert wanneer je een verlenging aanvraagt. Je oude paspoort wordt bewaard totdat het nieuwe klaar is, dus je kunt in die periode niet internationaal reizen – al is voor binnenlandse reizen binnen Canada geen paspoort nodig.
+Canada vereist dat je [je bestaande paspoort inlevert wanneer je een verlenging aanvraagt](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html). Je oude paspoort wordt bewaard totdat het nieuwe klaar is, dus je kunt in die periode niet internationaal reizen – al is voor binnenlandse reizen binnen Canada geen paspoort nodig.
 
 Service Canada publiceert de actuele verwerkingsnormen, die verschillen afhankelijk van of je persoonlijk, per post of bij een Service Canada Centre aanvraagt, plus verzendtijd in elk geval. Voor dringende reizen bestaan express-service en spoedafhaalopties tegen extra kosten. Controleer de actuele verwerkingstijden en vraag aan via canada.ca.
 
@@ -94,7 +94,7 @@ De reden waarom mensen in deze situatie terechtkomen, is geen onwetendheid over 
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 
-Bronnen die we hebben gecontroleerd (6 november 2026)
+Officiële bronnen
 
 - [USAGov: Renew an adult passport](https://www.usa.gov/renew-adult-passport)
 - [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)

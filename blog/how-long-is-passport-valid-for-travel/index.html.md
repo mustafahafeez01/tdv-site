@@ -16,13 +16,13 @@ Source: https://traveldocumentvault.com/blog/how-long-is-passport-valid-for-trav
 - Children's passports expire faster than parents', so **check every passport in your group individually** before booking, not just your own.
 - The practical renewal threshold is **12 months of validity remaining**, not the expiry date itself.
 
-Seven months left on your passport sounds like plenty. You book the flights, check the baggage allowance, start looking at hotels. Then you get to the check-in desk for your flight to Bangkok and the agent pauses: Thailand requires your passport to be valid for at least 6 months on the day you arrive, and you are two weeks short. You are not boarding.
+Seven months left on your passport sounds like plenty. You book the flights, check the baggage allowance, start looking at hotels. Then you get to the check-in desk for your flight to Bangkok and the agent pauses: [Thailand requires](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements) your passport to be valid for at least 6 months on the day you arrive, and you are two weeks short. You are not boarding.
 
 It is one of the most commonly misunderstood rules in travel, because a passport that has not expired can still fail the entry requirements for dozens of popular destinations. Understanding how passport validity months are actually counted can save you a very expensive mistake.
 
 ## Adult Passports Last Far Longer Than Children's
 
-The standard validity period for an adult passport is 10 years from the date of issue in most countries. Child passports expire sooner, typically 5 years. We'd check a child's passport before anyone else's, since it is the one everyone assumes is fine.
+The standard validity period for an adult passport is 10 years from the date of issue in most countries. Child passports expire sooner, [typically 5 years](https://www.gov.uk/get-a-child-passport). We'd check a child's passport before anyone else's, since it is the one everyone assumes is fine.
 
 | Country | Adult validity | Child validity |
 |---|---|---|
@@ -70,7 +70,7 @@ A 3-year-old who got their first passport in 2023 has a document that expires in
 The practical answer: when you drop below 12 months of validity remaining, not when it is about to expire. Here's why 12 months is the right threshold rather than the expiry date itself:
 
 - It gives you a full 6-month buffer for any destination that enforces the rule.
-- Passport renewal takes time, and processing times change; HM Passport Office advises against booking travel until your new passport arrives, and both HM Passport Office and the US State Department publish their current processing times. Starting at 6 months remaining leaves little margin.
+- Passport renewal takes time, and processing times change; HM Passport Office [advises against booking travel](https://www.gov.uk/renew-adult-passport) until your new passport arrives, and both HM Passport Office and the US State Department publish their current processing times. Starting at 6 months remaining leaves little margin.
 - Last-minute plans happen. A passport with 14 months remaining keeps all destinations open. A passport with 5 months remaining closes off a large part of the world.
 
 The most common mistake is setting a reminder on the expiry date itself. By that point you cannot travel to most of the destinations that enforce the 6-month rule.
@@ -81,7 +81,7 @@ If you also read our guide on [how long passport renewal takes](https://traveldo
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
 - [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)

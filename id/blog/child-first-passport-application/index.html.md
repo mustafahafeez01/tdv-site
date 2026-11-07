@@ -13,7 +13,7 @@ Source: https://traveldocumentvault.com/id/blog/child-first-passport-application
 - **Persetujuan untuk mengajukan berbeda dari persetujuan untuk bepergian.** Aturannya berbeda menurut negara: di Inggris, misalnya, seseorang yang memiliki tanggung jawab orang tua menandatangani formulir dan Anda memberikan detail kedua orang tua, sedangkan negara lain meminta persetujuan keduanya. Periksa ketentuan kantor paspor Anda.
 - **Sebagian besar permohonan memerlukan tiga jenis bukti:** bukti identitas anak (akta kelahiran), bukti identitas orang tua, dan bukti hubungan orang tua dengan anak.
 - **Foto paspor bayi memiliki aturan khusus.** Sebagian besar otoritas menginginkan mata terbuka dan menghadap kamera (GOV.UK melonggarkan ini untuk anak di bawah 1 dan di bawah 6 tahun), tanpa empeng, mainan, atau tangan orang lain yang terlihat, dan latar belakang di belakang kepala anak harus polos dan jelas.
-- **Periksa semuanya begitu paspor tiba.** Ejaan nama, nama orang tua di bagian yang mencantumkannya, dan tanggal kedaluwarsa, terutama karena paspor anak sering kali kedaluwarsa lebih cepat daripada paspor dewasa (paspor anak Inggris berlaku selama 5 tahun).
+- **Periksa semuanya begitu paspor tiba.** Ejaan nama, nama orang tua di bagian yang mencantumkannya, dan tanggal kedaluwarsa, terutama karena paspor anak sering kali kedaluwarsa lebih cepat daripada paspor dewasa ([paspor anak Inggris berlaku selama 5 tahun](https://www.gov.uk/get-a-child-passport)).
 - **Di negara yang meminta persetujuan kedua orang tua, satu orang tua umumnya tidak bisa menandatangani sendirian,** kecuali ada putusan pengadilan, hak asuh tunggal secara hukum, atau orang tua lainnya sudah meninggal. Jika ini situasi Anda, kantor paspor Anda memiliki prosedur khusus yang harus diikuti.
 
 Paspor pertama anak Anda adalah sesuatu yang hanya Anda urus sekali, artinya Anda punya kesempatan mempelajari aturannya lebih dulu, bukan mengetahuinya saat sudah berada di loket. Proses pengajuannya sendiri sederhana, tetapi aturan persetujuan dan persyaratan foto berbeda-beda menurut negara, dan kesalahan kecil di awal bisa membuat permohonan ditolak dan perjalanan tertunda.
@@ -28,7 +28,7 @@ Artikel ini membahas persetujuan untuk pengajuan. Perbedaan ini penting karena A
 
 ## Secara Umum, Semua Orang yang Memiliki Tanggung Jawab Orang Tua Harus Setuju
 
-Siapa yang harus memberikan persetujuan bergantung pada negaranya. Di Inggris, satu orang yang memiliki tanggung jawab orang tua menandatangani permohonan dan Anda memberikan detail kedua orang tua; beberapa negara lain umumnya meminta tanda tangan keduanya. Tanggung jawab orang tua bagi pasangan yang tidak menikah juga berbeda menurut negara, jadi pastikan ketentuannya ke kantor paspor Anda. Siapa pun dengan putusan pengadilan atau hak asuh tunggal secara hukum mengikuti aturan yang berbeda, dan kantor paspor Anda akan menjelaskan prosedur khususnya saat Anda bertanya.
+Siapa yang harus memberikan persetujuan bergantung pada negaranya. Di Inggris, [satu orang yang memiliki tanggung jawab orang tua menandatangani permohonan](https://www.gov.uk/get-a-child-passport/first-child-passport) dan Anda memberikan detail kedua orang tua; beberapa negara lain umumnya meminta tanda tangan keduanya. Tanggung jawab orang tua bagi pasangan yang tidak menikah juga berbeda menurut negara, jadi pastikan ketentuannya ke kantor paspor Anda. Siapa pun dengan putusan pengadilan atau hak asuh tunggal secara hukum mengikuti aturan yang berbeda, dan kantor paspor Anda akan menjelaskan prosedur khususnya saat Anda bertanya.
 
 Pengecualian ini nyata dan perlu diketahui. Orang tua yang sudah meninggal tidak bisa menandatangani, dan orang tua yang kehilangan hak asuhnya melalui putusan pengadilan mungkin juga tidak memiliki hak untuk memberi persetujuan. Perintah larangan mendekati dan pembatasan hak asuh juga bisa mengecualikan seorang orang tua secara hukum. Setiap situasi ini memiliki proses pengajuan dan persyaratan bukti sendiri, sehingga tidak ada satu jawaban yang berlaku untuk semuanya.
 
@@ -44,7 +44,7 @@ Kantor paspor memerlukan tiga hal saat Anda mengajukan paspor pertama untuk anak
 
 **Bukti hubungan dengan anak** biasanya berasal dari akta kelahiran itu sendiri jika kedua orang tua tercantum. Jika hanya satu orang tua yang tercantum, Anda mungkin perlu menyertakan putusan pengadilan, perjanjian hak asuh, atau sertifikat perwalian untuk menunjukkan bahwa orang tua kedua juga memiliki hak mengambil keputusan tentang anak tersebut.
 
-**Beberapa negara menggunakan sistem penjamin tanda tangan.** Artinya, seorang profesional yang tepercaya, seperti guru, dokter, atau pengacara, menandatangani formulir untuk menjamin bahwa permohonan tersebut asli dan foto benar-benar menyerupai anak. Jika negara Anda menggunakan sistem ini, Anda perlu menemukan orang yang bersedia melakukannya sebelum mengajukan permohonan. Tanyakan kepada kantor paspor Anda profesi apa saja yang mereka terima.
+**Beberapa negara menggunakan [sistem penjamin tanda tangan](https://www.gov.uk/countersigning-passport-applications).** Artinya, seorang profesional yang tepercaya, seperti guru, dokter, atau pengacara, menandatangani formulir untuk menjamin bahwa permohonan tersebut asli dan foto benar-benar menyerupai anak. Jika negara Anda menggunakan sistem ini, Anda perlu menemukan orang yang bersedia melakukannya sebelum mengajukan permohonan. Tanyakan kepada kantor paspor Anda profesi apa saja yang mereka terima.
 
 ## Bayi Tidak Bisa Mengikuti Aturan Foto Orang Dewasa, Jadi Anda Menyesuaikannya
 
@@ -52,7 +52,7 @@ Kantor paspor memerlukan tiga hal saat Anda mengajukan paspor pertama untuk anak
 
 Di sinilah banyak permohonan pertama kali gagal. Bayi atau anak kecil tidak bisa mengikuti aturan foto seperti orang dewasa, bayi belum bisa duduk tegak, balita belum bisa diam atau memahami instruksi, dan bayi baru lahir tidak bisa melihat kamera atas perintah. Standar foto paspor dibuat untuk orang dewasa, sehingga Anda perlu memahami cara menyesuaikannya saat subjeknya adalah anak yang beratnya 5 kilogram dan terus bergerak.
 
-**Aturan intinya tetap sama.** Mata anak umumnya harus terbuka dan menghadap kamera, dengan latar belakang polos di belakang kepalanya dan tidak ada hal lain dalam bingkai. Sebagian otoritas melonggarkan aturan mata untuk anak paling kecil: GOV.UK tidak mewajibkan mata terbuka untuk anak di bawah satu tahun, atau menatap langsung ke kamera untuk anak di bawah 6 tahun. Yang berbeda adalah cara Anda mewujudkannya.
+**Aturan intinya tetap sama.** Mata anak umumnya harus terbuka dan menghadap kamera, dengan latar belakang polos di belakang kepalanya dan tidak ada hal lain dalam bingkai. Sebagian otoritas melonggarkan aturan mata untuk anak paling kecil: [GOV.UK](https://www.gov.uk/photos-for-passports) tidak mewajibkan mata terbuka untuk anak di bawah satu tahun, atau menatap langsung ke kamera untuk anak di bawah 6 tahun. Yang berbeda adalah cara Anda mewujudkannya.
 
 **Untuk bayi baru lahir atau di bawah satu tahun,** potret mereka sambil berbaring di atas seprai atau selimut polos berwarna putih atau pucat. Seprai itu menjadi latar belakang. Berdirilah tepat di atasnya agar bayi menatap lurus ke kamera dengan mata terbuka, jika bayi mengantuk, tunggu saat mereka waspada. Tidak boleh ada mainan, empeng, tangan, atau orang lain yang terlihat dalam bingkai selain kepala dan bahu bayi itu sendiri.
 
@@ -86,7 +86,7 @@ Ini adalah persyaratan hukum yang ada untuk melindungi anak, bukan sesuatu yang 
 
 Setelah paspor diterbitkan dan sampai ke tangan Anda, luangkan lima menit untuk memeriksanya sebelum menyimpannya. Ada tiga hal yang perlu Anda periksa, yang mudah diperbaiki sekarang tetapi menjadi mimpi buruk jika baru diperbaiki di bandara.
 
-**Periksa ejaan nama.** Nama anak Anda harus dieja persis seperti yang tercantum di akta kelahiran atau dokumen identitas yang Anda gunakan saat mengajukan. Jika salah, kantor paspor umumnya menggantinya tanpa biaya jika kesalahan berasal dari pihak mereka, sedangkan kesalahan pada permohonan yang Anda ajukan mungkin dikenai biaya. Jika Anda baru menyadarinya saat sudah di bandara, maskapai bisa menolak keberangkatan Anda karena nama di tiket tidak cocok dengan paspor.
+**Periksa ejaan nama.** Nama anak Anda harus dieja persis seperti yang tercantum di akta kelahiran atau dokumen identitas yang Anda gunakan saat mengajukan. Jika salah, kantor paspor umumnya [menggantinya tanpa biaya jika kesalahan berasal dari pihak mereka](https://www.gov.uk/government/publications/preventing-and-resolving-errors-on-passports/how-to-correct-errors-on-passports-accessible), sedangkan kesalahan pada permohonan yang Anda ajukan mungkin dikenai biaya. Jika Anda baru menyadarinya saat sudah di bandara, maskapai bisa menolak keberangkatan Anda karena nama di tiket tidak cocok dengan paspor.
 
 **Periksa nama orang tua di bagian yang mencantumkannya.** Beberapa negara mencetak nama orang tua atau wali di bagian dalam paspor anak. Jika nama-nama ini salah eja atau tidak tepat, hubungi kantor paspor untuk memperbaikinya.
 
@@ -94,7 +94,7 @@ Setelah paspor diterbitkan dan sampai ke tangan Anda, luangkan lima menit untuk 
 
 Jika ada yang salah, hubungi kantor paspor Anda begitu menyadarinya. Biaya perbaikan bergantung pada pihak yang membuat kesalahan, dan semakin lama dibiarkan, semakin sulit mengurusnya. Setelah semuanya beres, simpan paspor langsung di folder dokumen Anda beserta catatan tanggal kedaluwarsanya, agar perpanjangan tidak datang sebagai kejutan.
 
-Sumber yang kami periksa (6 November 2026)
+Sumber resmi
 
 - [UK Government: Get a passport photo, Digital photos](https://www.gov.uk/photos-for-passports)
 - [UK Government: applying for a first child passport](https://www.gov.uk/get-a-child-passport/first-child-passport)

@@ -22,7 +22,7 @@ Ini adalah masalah pelacakan dokumen. Anda memiliki dua tanggal kedaluwarsa yang
 
 ## Sebagian Besar Pengunjung Bebas Visa Kini Memerlukan ETA
 
-Jika Anda warga negara AS, Kanada, Australia, Selandia Baru, atau negara di Uni Eropa maupun Kawasan Ekonomi Eropa, kemungkinan besar Anda memerlukan ETA Inggris. Ketentuan ini mulai diberlakukan sejak 25 Februari 2026 bagi sebagian besar warga negara bebas visa.
+Jika Anda warga negara AS, Kanada, Australia, Selandia Baru, atau negara di Uni Eropa maupun Kawasan Ekonomi Eropa, [kemungkinan besar Anda memerlukan ETA Inggris](https://www.gov.uk/eta). Ketentuan ini [mulai diberlakukan sejak 25 Februari 2026](https://www.gov.uk/government/news/no-permission-no-travel-uk-set-to-enforce-eta-scheme) bagi sebagian besar warga negara bebas visa.
 
 Beberapa orang dikecualikan, warga negara Irlandia tidak memerlukannya, begitu pula orang yang sudah memiliki status imigrasi Inggris, baik visa, status menetap, maupun izin tinggal tanpa batas waktu. Orang dengan kewarganegaraan ganda, pemegang hak Common Travel Area, dan beberapa kelompok lain memiliki aturan berbeda tergantung cara mereka bepergian.
 
@@ -30,7 +30,7 @@ Beberapa orang dikecualikan, warga negara Irlandia tidak memerlukannya, begitu p
 
 ## ETA Terikat pada Nomor Paspor Anda, Bukan pada Diri Anda
 
-ETA Inggris Anda terikat dengan nomor paspor, bukan dengan diri Anda sebagai individu. Saat Anda mengajukan permohonan, Home Office menghubungkan persetujuan tersebut dengan nomor paspor tertentu. Bepergian dengan paspor lain, entah paspor yang baru diperpanjang, paspor kedua, atau dokumen pengganti darurat, berarti Anda bepergian dengan ETA yang tidak terikat pada dokumen itu.
+ETA Inggris Anda [terikat dengan nomor paspor](https://www.gov.uk/check-eta), bukan dengan diri Anda sebagai individu. Saat Anda mengajukan permohonan, Home Office menghubungkan persetujuan tersebut dengan nomor paspor tertentu. Bepergian dengan paspor lain, entah paspor yang baru diperpanjang, paspor kedua, atau dokumen pengganti darurat, berarti Anda bepergian dengan ETA yang tidak terikat pada dokumen itu.
 
 ETA Inggris bersifat digital dan spesifik untuk setiap paspor, jadi nomor paspor baru berarti diperlukan ETA baru.
 
@@ -91,11 +91,11 @@ ETA juga bukan visa, sehingga tidak menentukan berapa lama Anda boleh tinggal. P
 
 ETA Inggris adalah salah satu dari beberapa izin perjalanan digital yang kini digunakan. Jika Anda berencana bepergian ke beberapa negara, pahami perbedaan antara ETA dan [visa](https://traveldocumentvault.com/id/blog/visa-vs-passport/). Keduanya terlihat mirip dalam prosesnya tetapi memiliki tujuan yang berbeda.
 
-Uni Eropa berencana memiliki izin perjalanan digitalnya sendiri, [ETIAS](https://traveldocumentvault.com/id/blog/etias-documents-2026/), yang belum beroperasi. Konsepnya mirip dengan ETA Inggris tetapi dengan aturan dan persyaratan yang berbeda. Setelah mulai berlaku, perjalanan yang mencakup Inggris dan kawasan Schengen mungkin memerlukan keduanya.
+Uni Eropa berencana memiliki izin perjalanan digitalnya sendiri, [ETIAS](https://traveldocumentvault.com/id/blog/etias-documents-2026/), yang [belum beroperasi](https://travel-europe.europa.eu/en/etias). Konsepnya mirip dengan ETA Inggris tetapi dengan aturan dan persyaratan yang berbeda. Setelah mulai berlaku, perjalanan yang mencakup Inggris dan kawasan Schengen mungkin memerlukan keduanya.
 
 Jika perjalanan Anda sudah dipesan, lakukan ini hari ini: cocokkan tanggal kedaluwarsa paspor dengan tanggal perjalanan, lalu pastikan ETA Anda saat ini terikat pada paspor yang benar-benar akan Anda pakai. Jika salah satunya tidak memenuhi, mulailah perpanjangan atau pengajuan ulang sekarang, jangan seminggu sebelum terbang.
 
-Sumber yang kami periksa (6 November 2026)
+Sumber resmi
 
 - [UK Government: Get an electronic travel authorisation (ETA) to visit the UK](https://www.gov.uk/eta)
 - [UK Government: Check your electronic travel authorisation (ETA)](https://www.gov.uk/check-eta)

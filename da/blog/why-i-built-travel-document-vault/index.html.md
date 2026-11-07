@@ -12,7 +12,7 @@ Jeg stod ved paskontrollen, da betjenten kiggede på min datters pas, holdt en p
 
 "Du ved, at det udløber om syv måneder, ikke?" sagde han. "Bare så du er klar over det – nogle lande lukker dig ikke ind, hvis der er mindre end seks måneders gyldighed tilbage."
 
-Jeg takkede ham. Vi slap igennem – med nød og næppe. Men hele turen gik jeg og tænkte: hvis han ikke havde sagt noget, ville jeg aldrig have lagt mærke til det. Syv måneder føltes som rigeligt. Jeg havde tjekket passet inden booking. Jeg havde simpelthen glemt alt om den seks-måneders-regel, som mange lande håndhæver.
+Jeg takkede ham. Vi slap igennem – med nød og næppe. Men hele turen gik jeg og tænkte: hvis han ikke havde sagt noget, ville jeg aldrig have lagt mærke til det. Syv måneder føltes som rigeligt. Jeg havde tjekket passet inden booking. Jeg havde simpelthen glemt alt om den [seks-måneders-regel](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), som mange lande håndhæver.
 
 Den næroplevelse blev hængende. Jeg havde allerede sat kalendernotifikationer op for alles pasudløbsdatoer. Jeg troede, det var nok. Men jeg tjekkede faktisk ikke datoerne – jeg stolede bare på påmindelserne. Og når et pas blev fornyet, skulle jeg opdatere påmindelsen, opdatere scanningen i Google Drev og håbe på, at jeg ikke havde glemt noget.
 
@@ -118,7 +118,7 @@ Mustafa
 
 Grundlægger, Travel Document Vault
 
-Kilder vi har tjekket (6. november 2026)
+Officielle kilder
 
 - [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
 

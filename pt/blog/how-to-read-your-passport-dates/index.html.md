@@ -60,7 +60,7 @@ A data de emissão deixa de ser um pormenor sem importância no momento em que u
 
 Os passaportes britânicos emitidos mais recentemente já não têm esses meses extra, mas os passaportes mais antigos que os têm continuam em circulação e continuam a ser usados.
 
-Os países do Espaço Schengen geralmente aplicam dois testes distintos a um passaporte não pertencente à UE, na fronteira: tem de ter sido emitido há menos de dez anos a contar da data de chegada, e tem de continuar válido durante pelo menos três meses depois da data prevista de partida. Um passaporte com nove meses extra pode passar facilmente no segundo teste e falhar no primeiro, o que é uma conversa difícil de ter junto a um balcão em Madrid com um documento que ainda não expirou.
+Os países do Espaço Schengen geralmente aplicam dois testes distintos a um passaporte não pertencente à UE, na fronteira: tem de ter sido [emitido há menos de dez anos a contar da data de chegada](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements), e tem de continuar válido durante pelo menos três meses depois da data prevista de partida. Um passaporte com nove meses extra pode passar facilmente no segundo teste e falhar no primeiro, o que é uma conversa difícil de ter junto a um balcão em Madrid com um documento que ainda não expirou.
 
 Nós verificaríamos as duas datas antes de uma viagem à Europa, não apenas a que está no fundo da página.
 
@@ -96,7 +96,7 @@ Dedique cinco minutos hoje a encontrar as duas datas no seu passaporte, e no de 
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 
-Fontes que verificámos (6 de novembro de 2026)
+Fontes oficiais
 
 - [UK Foreign Office: Spain entry requirements](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements)
 

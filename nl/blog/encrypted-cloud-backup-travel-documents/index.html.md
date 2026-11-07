@@ -28,7 +28,7 @@ Twee heel verschillende opzetten worden allebei verkocht als versleutelde back-u
 
 De ene stuurt het bestand via een versleutelde verbinding naar de server van het bedrijf, en slaat het daar vervolgens versleuteld op. Beide beweringen kloppen, en allebei klinken ze geruststellend. Maar het bedrijf houdt zelf de sleutel, dus het is technisch in staat om je documenten te ontsleutelen, voor een functie, een juridisch verzoek of door een interne fout. Aan de andere kant is je paspoortscan gewoon leesbaar.
 
-De andere opzet versleutelt het bestand al op je telefoon, voordat het ergens naartoe gaat, met een sleutel die is afgeleid van iets dat alleen jij hebt. Wat er in de opslag terechtkomt is een blok ruis, en niemand aan de andere kant kan het lezen, omdat niemand aan de andere kant de sleutel heeft. Dit wordt vaak omschreven als end-to-end versleuteld, of zero-knowledge.
+De andere opzet versleutelt het bestand al op je telefoon, voordat het ergens naartoe gaat, met een sleutel die is afgeleid van iets dat alleen jij hebt. Wat er in de opslag terechtkomt is een blok ruis, en niemand aan de andere kant kan het lezen, omdat niemand aan de andere kant de sleutel heeft. Dit wordt vaak omschreven als [end-to-end versleuteld](https://csrc.nist.gov/glossary/term/end_to_end_encryption), of zero-knowledge.
 
 De vraag die je bij elke app zou moeten stellen is kort: **wie heeft de sleutel?** Al het andere in de marketing volgt uit het antwoord daarop.
 
@@ -108,7 +108,7 @@ Niets hiervan is spannend, en dat is eigenlijk het hele idee. Gezinnen die goed 
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 
-Bronnen die we hebben gecontroleerd (6 november 2026)
+Officiële bronnen
 
 - [NIST: end-to-end encryption glossary entry](https://csrc.nist.gov/glossary/term/end_to_end_encryption)
 

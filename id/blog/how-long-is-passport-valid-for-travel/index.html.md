@@ -16,13 +16,13 @@ Source: https://traveldocumentvault.com/id/blog/how-long-is-passport-valid-for-t
 - Paspor anak kedaluwarsa lebih cepat daripada paspor orang tua, **periksa setiap paspor dalam rombongan Anda satu per satu** sebelum memesan, bukan hanya paspor Anda sendiri.
 - Ambang batas praktis untuk perpanjangan adalah **sisa masa berlaku 12 bulan**, bukan tanggal kedaluwarsa itu sendiri.
 
-Sisa masa berlaku paspor tujuh bulan terdengar cukup lama. Anda memesan tiket pesawat, memeriksa bagasi, mulai mencari hotel. Lalu Anda tiba di meja check-in untuk penerbangan ke Bangkok, dan petugas terdiam sejenak: Thailand mensyaratkan paspor Anda berlaku minimal 6 bulan pada hari kedatangan, dan masa berlaku Anda kurang dua minggu. Anda tidak bisa naik pesawat.
+Sisa masa berlaku paspor tujuh bulan terdengar cukup lama. Anda memesan tiket pesawat, memeriksa bagasi, mulai mencari hotel. Lalu Anda tiba di meja check-in untuk penerbangan ke Bangkok, dan petugas terdiam sejenak: [Thailand mensyaratkan](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements) paspor Anda berlaku minimal 6 bulan pada hari kedatangan, dan masa berlaku Anda kurang dua minggu. Anda tidak bisa naik pesawat.
 
 Ini salah satu aturan yang paling sering disalahpahami dalam perjalanan, karena paspor yang belum kedaluwarsa tetap bisa gagal memenuhi persyaratan masuk untuk puluhan destinasi populer. Memahami cara menghitung masa berlaku paspor yang sebenarnya bisa menyelamatkan Anda dari kesalahan yang sangat mahal.
 
 ## Paspor Dewasa Berlaku Jauh Lebih Lama daripada Paspor Anak
 
-Masa berlaku standar untuk paspor dewasa adalah 10 tahun sejak tanggal penerbitan di sebagian besar negara. Paspor anak kedaluwarsa lebih cepat, biasanya 5 tahun. Kami akan memeriksa paspor anak lebih dulu daripada paspor siapa pun, karena paspor itulah yang paling sering dianggap pasti aman.
+Masa berlaku standar untuk paspor dewasa adalah 10 tahun sejak tanggal penerbitan di sebagian besar negara. Paspor anak kedaluwarsa lebih cepat, [biasanya 5 tahun](https://www.gov.uk/get-a-child-passport). Kami akan memeriksa paspor anak lebih dulu daripada paspor siapa pun, karena paspor itulah yang paling sering dianggap pasti aman.
 
 | Negara | Masa berlaku dewasa | Masa berlaku anak |
 |---|---|---|
@@ -72,7 +72,7 @@ Anak berusia 3 tahun yang mendapatkan paspor pertamanya pada 2023 memiliki dokum
 Jawaban praktisnya: ketika sisa masa berlaku Anda turun di bawah 12 bulan, bukan ketika paspor hampir kedaluwarsa. Berikut alasan mengapa 12 bulan adalah ambang batas yang tepat, bukan tanggal kedaluwarsa itu sendiri:
 
 - Ini memberi Anda margin penuh 6 bulan untuk destinasi mana pun yang menerapkan aturan tersebut.
-- Perpanjangan paspor membutuhkan waktu, dan waktu pemrosesannya berubah-ubah — HM Passport Office menyarankan untuk tidak memesan perjalanan sebelum paspor baru Anda tiba, dan baik HM Passport Office maupun Departemen Luar Negeri AS mempublikasikan waktu pemrosesan mereka yang berlaku saat ini. Memulai dengan sisa 6 bulan hanya menyisakan sedikit margin.
+- Perpanjangan paspor membutuhkan waktu, dan waktu pemrosesannya berubah-ubah — HM Passport Office [menyarankan untuk tidak memesan perjalanan](https://www.gov.uk/renew-adult-passport) sebelum paspor baru Anda tiba, dan baik HM Passport Office maupun Departemen Luar Negeri AS mempublikasikan waktu pemrosesan mereka yang berlaku saat ini. Memulai dengan sisa 6 bulan hanya menyisakan sedikit margin.
 - Rencana mendadak bisa saja terjadi. Paspor dengan sisa 14 bulan membuka semua destinasi. Paspor dengan sisa 5 bulan menutup sebagian besar dunia.
 
 Kesalahan paling umum adalah mengatur pengingat pada tanggal kedaluwarsa itu sendiri. Pada titik itu, Anda sudah tidak bisa bepergian ke sebagian besar destinasi yang menerapkan aturan 6 bulan.
@@ -83,7 +83,7 @@ Jika Anda juga membaca panduan kami tentang [berapa lama perpanjangan paspor ber
 
 **Sebelum Anda mengandalkan ini:** ini adalah blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 
-Sumber yang kami periksa (6 November 2026)
+Sumber resmi
 
 - [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
 - [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)

@@ -37,7 +37,7 @@ A lógica é simples: os países querem garantia de que não se ficará além do
 
 Às vezes, sim. Se o seu destino apenas exigir que o passaporte se mantenha válido durante a sua estadia, cinco meses de validade normalmente são suficientes para entrar. O Reino Unido funciona assim para a maioria dos visitantes, e os países Schengen geralmente pedem três meses além da partida planeada, em vez de seis.
 
-Se o seu destino aplica a regra dos 6 meses, não. Tailândia, Indonésia, Vietname e muitos outros geralmente recusam a entrada, e a companhia aérea normalmente recusa o embarque muito antes de chegar à fronteira.
+Se o seu destino aplica a regra dos 6 meses, não. Tailândia, [Indonésia](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements), Vietname e muitos outros geralmente recusam a entrada, e a companhia aérea normalmente recusa o embarque muito antes de chegar à fronteira.
 
 Portanto, a resposta depende de para onde vai, não do passaporte em si. Verifique o requisito do destino no dia em que reserva, e de novo na semana em que voa.
 
@@ -54,12 +54,12 @@ A tabela seguinte cobre os destinos mais comuns. As políticas mudam, portanto s
 | Filipinas | 6 meses | Mais bilhete de regresso/viagem necessário |
 | Índia | 6 meses | Visto também exigido para a maioria das nacionalidades |
 | Quénia | 6 meses | eVisto exigido; regra dos 6 meses aplica-se |
-| Turquia | 150 dias a partir da chegada | Foreign Office do Reino Unido: data de validade pelo menos 150 dias após a data de chegada |
+| Turquia | 150 dias a partir da chegada | [Foreign Office do Reino Unido](https://www.gov.uk/foreign-travel-advice/turkey/entry-requirements): data de validade pelo menos 150 dias após a data de chegada |
 | UE / Schengen | 3 meses além da partida | Mais uma data de emissão com menos de 10 anos |
 | Reino Unido | Duração da estadia apenas | Cidadãos britânicos no estrangeiro ainda sujeitos às regras do país de destino |
 | EUA | Duração da estadia apenas | Cidadãos norte-americanos no estrangeiro sujeitos às regras do país de destino |
 | Japão / Austrália | Duração da estadia apenas | Nenhuma regra de extensão de 6 meses para visitantes |
-| Nova Zelândia | 3 meses além da partida | Foreign Office do Reino Unido: data de validade pelo menos 3 meses após o dia em que planeia partir |
+| Nova Zelândia | 3 meses além da partida | [Foreign Office do Reino Unido](https://www.gov.uk/foreign-travel-advice/new-zealand/entry-requirements): data de validade pelo menos 3 meses após o dia em que planeia partir |
 
 Isto não é uma lista exaustiva, e os requisitos variam conforme a sua nacionalidade — não apenas o destino. Sempre verifique o aviso de viagem oficial do seu governo antes de fazer uma reserva.
 
@@ -69,9 +69,9 @@ Sempre verifique os seus requisitos específicos utilizando o Centro de Viagens 
 
 ## Quando a Regra dos 6 Meses Não se Aplica
 
-Muitos destinos não pedem nada além das datas da sua viagem. O Ministério dos Negócios Estrangeiros do Reino Unido explica claramente para o Japão: o seu passaporte deve ser válido durante o período da sua estadia, sem período adicional de validade exigido. A Austrália e os Estados Unidos usam o mesmo padrão, pedindo apenas que o seu passaporte se mantenha válido durante o período da sua estadia planeada.
+Muitos destinos não pedem nada além das datas da sua viagem. O [Ministério dos Negócios Estrangeiros do Reino Unido](https://www.gov.uk/foreign-travel-advice/japan/entry-requirements) explica claramente para o Japão: o seu passaporte deve ser válido durante o período da sua estadia, sem período adicional de validade exigido. A [Austrália](https://www.gov.uk/foreign-travel-advice/australia/entry-requirements) e os [Estados Unidos](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements) usam o mesmo padrão, pedindo apenas que o seu passaporte se mantenha válido durante o período da sua estadia planeada.
 
-A Europa fica algures no meio, e é o nível que as pessoas interpretam mal com mais frequência. Para visitar o espaço Schengen, o Ministério diz que o seu passaporte precisa de uma data de expiração pelo menos três meses após o dia em que planeia partir. Três meses, não seis.
+A Europa fica algures no meio, e é o nível que as pessoas interpretam mal com mais frequência. Para visitar o espaço Schengen, o [Ministério](https://www.gov.uk/foreign-travel-advice/france/entry-requirements) diz que o seu passaporte precisa de uma data de expiração pelo menos três meses após o dia em que planeia partir. Três meses, não seis.
 
 Existe uma segunda condição Schengen que apanha as pessoas desprevenidas com muito mais frequência do que a primeira: a sua data de emissão tem de ser há menos de dez anos antes do dia em que chega. Ambas as condições têm de ser cumpridas, e um passaporte pode cumprir uma enquanto falha a outra.
 
@@ -121,7 +121,7 @@ Estas fontes dizem-lhe o requisito oficial e se se aplica aos titulares do seu p
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 
-Fontes que verificámos (6 de novembro de 2026)
+Fontes oficiais
 
 - [UK Foreign Office: USA entry requirements](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements)
 - [UK Foreign Office: France entry requirements](https://www.gov.uk/foreign-travel-advice/france/entry-requirements)

@@ -22,9 +22,9 @@ Pasaporte y visa suenan casi intercambiables, pero cumplen funciones distintas: 
 
 Tu pasaporte contiene tu nombre, fecha de nacimiento, foto, y un número de pasaporte único —emitido por tu gobierno y reconocido mundialmente como prueba de tu ciudadanía.
 
-Funciona como tu identificación oficial para viajar internacionalmente. Para la mayoría de los viajes internacionales lo necesitas para salir de tu país y para que te admitan en el extranjero, aunque algunas regiones aceptan otros documentos, como los documentos nacionales de identidad dentro de Europa o la tarjeta de pasaporte estadounidense en cruces terrestres y marítimos. Los oficiales de inmigración lo examinan en las fronteras, las aerolíneas lo requieren para vuelos internacionales, y los aduaneros lo comprueban cuando llegas.
+Funciona como tu identificación oficial para viajar internacionalmente. Para la mayoría de los viajes internacionales lo necesitas para salir de tu país y para que te admitan en el extranjero, aunque algunas regiones aceptan otros documentos, como los documentos nacionales de identidad dentro de Europa o la [tarjeta de pasaporte estadounidense](https://www.cbp.gov/travel/us-citizens/western-hemisphere-travel-initiative) en cruces terrestres y marítimos. Los oficiales de inmigración lo examinan en las fronteras, las aerolíneas lo requieren para vuelos internacionales, y los aduaneros lo comprueban cuando llegas.
 
-Los pasaportes suelen ser válidos durante varios años (a menudo 10 años para adultos, 5 años para niños), aunque los períodos de validez varían según el país. Cuando tu pasaporte caduca, no puedes viajar internacionalmente y debes solicitar una renovación. Es crucial mantener un registro de tu fecha de vencimiento de pasaporte ya que muchos países requieren al menos 6 meses de validez restante antes de permitirte entrar.
+Los pasaportes suelen ser válidos durante varios años (a menudo 10 años para adultos, 5 años para niños), aunque los períodos de validez varían según el país. Cuando tu pasaporte caduca, no puedes viajar internacionalmente y debes solicitar una renovación. Es crucial mantener un registro de tu fecha de vencimiento de pasaporte ya que muchos países requieren [al menos 6 meses de validez restante](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements) antes de permitirte entrar.
 
 ## Qué es una Visa
 
@@ -59,7 +59,7 @@ La mayoría de los países emiten visas en estas categorías:
 - **Visa de turista:** El tipo más común, emitida para viajes de ocio, turismo, y visitar amigos o familia.
 - **Visa de trabajo:** Requerida para empleo en el extranjero. Los empleadores típicamente patrocinan estas, con restricciones específicas sobre qué trabajo se te permite hacer.
 - **Visa de estudiante:** Para estudiar en una institución educativa reconocida, a menudo con restricciones sobre trabajo externo y límites de duración específicos.
-- **Visa de tránsito:** Requerida por algunos países para pasar por el camino a otro destino —incluso si solo cambias de avión.
+- **Visa de tránsito:** Requerida por algunos países para pasar por el camino a otro destino —[incluso si solo cambias de avión](https://www.gov.uk/transit-visa).
 - **Visa electrónica:** Una visa electrónica solicitada en línea y normalmente almacenada en el sistema del país de destino, vinculada a tu número de pasaporte. Común en el Sudeste Asiático y cada vez más en otros lugares.
 - **Visa de llegada:** Emitida en tu aeropuerto de destino o frontera cuando llegas. El procesamiento es generalmente rápido, aunque las colas pueden ser largas, y no todos los países ofrecen esta opción.
 
@@ -109,13 +109,13 @@ La confusión está en que tu pasaporte antiguo ha caducado como documento de vi
 
 Muchas naciones tienen acuerdos de exención de visa o sin visa entre sí, permitiendo que sus ciudadanos crucen fronteras sin obtener una visa por adelantado. El Área Schengen en Europa es el ejemplo más conocido —por lo general se puede cruzar entre sus 29 estados miembros sin controles fronterizos rutinarios, aunque algunos países restablecen controles temporales. El Sudeste Asiático, el Caribe, y partes de África tienen esquemas similares.
 
-Sin embargo, el viaje sin visa tiene límites. Típicamente se aplica solo a turismo o visitas a corto plazo, no trabajo o estudio. Los períodos sin visa también son limitados, a menudo 30 a 90 días según el país. Si excedes el tiempo permitido, te conviertes en un residente ilegal y enfrentas sanciones incluyendo multas, deportación, o prohibiciones de entrada futuras.
+Sin embargo, el viaje sin visa tiene límites. Típicamente se aplica solo a turismo o visitas a corto plazo, no trabajo o estudio. Los períodos sin visa también son limitados, [a menudo 30 a 90 días](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en) según el país. Si excedes el tiempo permitido, te conviertes en un residente ilegal y enfrentas sanciones incluyendo multas, deportación, o prohibiciones de entrada futuras.
 
 El acceso sin visa también depende completamente de tu nacionalidad. Dos personas viajando juntas podrían tener requisitos completamente distintos según sus pasaportes: una cruza sin visa mientras la otra tiene que solicitarla, así que lo que cuenta es tu propia nacionalidad, no la experiencia de quien te acompaña.
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 
-Fuentes que hemos comprobado (6 de noviembre de 2026)
+Fuentes oficiales
 
 - [European Commission: Schengen area](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en)
 - [European Commission: Short-stay calculator](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en)

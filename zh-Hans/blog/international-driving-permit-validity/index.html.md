@@ -30,9 +30,9 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/international-driving-permi
 
 ## 两份公约，决定了许可证能用多久、在哪里能用
 
-国际驾驶许可证背后一共有三份国际协定，各国可能只批准了其中一份，也可能批准了不止一份。真正起作用的主要是两份：1949年《日内瓦公约》和1968年《维也纳公约》。更早的1926年《巴黎公约》许可证也仍存在，少数目的地仍将其列为可用证件。请以许可证上印的到期日为准。
+国际驾驶许可证背后一共有[三份国际协定](https://www.gov.uk/driving-abroad/international-driving-permit)，各国可能只批准了其中一份，也可能批准了不止一份。真正起作用的主要是两份：1949年《日内瓦公约》和1968年《维也纳公约》。更早的1926年《巴黎公约》许可证也仍存在，少数目的地仍将其列为可用证件。请以许可证上印的到期日为准。
 
-根据1949年《日内瓦公约》签发的许可证，有效期为一年。根据1968年《维也纳公约》签发的许可证，最长可达三年。
+根据1949年《日内瓦公约》签发的许可证，[有效期为一年](https://travel.gc.ca/travelling/documents/international-driving-permit)。根据1968年《维也纳公约》签发的许可证，最长可达三年。
 
 这个区分很关键，而且关键在两个层面：既决定了许可证能用多久，也决定了它在哪些地方会被承认。如果一个国家只批准了其中一份公约，就没有义务承认根据另一份公约签发的许可证——这也是为什么去年那趟旅行还能用的许可证，这次却被挡在了门外。
 
@@ -46,7 +46,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/international-driving-permi
 
 ## 「三年」许可证，未必真的能用三年
 
-这三年附带一个很容易被忽略的条件。维也纳许可证会在您的本国驾照到期时同步失效——前提是驾照的到期日更早。
+这三年附带一个很容易被忽略的条件。[维也纳许可证会在您的本国驾照到期时同步失效](https://treaties.un.org/doc/Treaties/1977/05/19770524%2000-13%20AM/Ch_XI_B_19.pdf)——前提是驾照的到期日更早。
 
 举例来说，如果您的驾照还剩14个月有效期，而您办了一张三年期的许可证，那么这张许可证实际能用的时间也只有14个月。证件正面印的日期，压不过背后那张驾照的到期日。
 
@@ -68,7 +68,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/international-driving-permi
 
 我们会按下面的顺序来查，而且先看驾照日期，再看许可证上印的任何内容。
 
-**是否真的需要许可证。** 有些国家单凭本国驾照就能开车，具体要求由您所在的驾驶目的地国家决定，不是由签发您驾照的国家决定。
+**是否真的需要许可证。** [有些国家单凭本国驾照就能开车](https://www.gov.uk/driving-abroad)，具体要求由您所在的驾驶目的地国家决定，不是由签发您驾照的国家决定。
 
 **目的地承认哪一份公约**，再拿它来核对您的许可证（公约信息就印在证件上）。
 
@@ -102,7 +102,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/international-driving-permi
 
 **在依据本文行动之前：**这是一个博客，不是官方来源。规则和细节会变化，你的情况也可能不同。我们会核对所发布的内容，但仍可能出错或过时。如果这里的内容对你的安排很重要，请在行动前向主管机构核实。
 
-我们核对过的资料来源（2026年11月6日）
+官方资料来源
 
 - [United Nations Treaty Collection: Convention on Road Traffic (1968)](https://treaties.un.org/doc/Treaties/1977/05/19770524%2000-13%20AM/Ch_XI_B_19.pdf)
 - [UK Government: driving abroad, international driving permits](https://www.gov.uk/driving-abroad/international-driving-permit)

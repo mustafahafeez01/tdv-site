@@ -20,7 +20,7 @@ Petugas check-in maskapai dan petugas imigrasi biasanya melihat lebih cermat saa
 
 ## Loket Maskapai dan Imigrasi Memeriksa Hal yang Berbeda
 
-Dua orang yang berbeda melihat dokumen yang sama untuk dua alasan yang berbeda, dan memahami hal ini bisa menghindarkan kebingungan di loket. Petugas check-in tidak sedang memutuskan apakah anak Anda boleh masuk ke negara tujuan. Mereka memeriksa apakah maskapai cukup yakin Anda akan diizinkan masuk, karena berdasarkan kesepakatan lama antara maskapai dan pemerintah, sebuah maskapai bisa dianggap bertanggung jawab untuk menerbangkan pulang penumpang yang kemudian ditolak oleh negara tujuan. Itulah sebabnya petugas check-in kadang bertanya lebih banyak daripada yang akhirnya ditanyakan petugas imigrasi: mereka sedang melindungi maskapai dari tanggung jawabnya sendiri.
+Dua orang yang berbeda melihat dokumen yang sama untuk dua alasan yang berbeda, dan memahami hal ini bisa menghindarkan kebingungan di loket. Petugas check-in tidak sedang memutuskan apakah anak Anda boleh masuk ke negara tujuan. Mereka memeriksa apakah maskapai cukup yakin Anda akan diizinkan masuk, karena [berdasarkan kesepakatan lama antara maskapai dan pemerintah](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001L0051), sebuah maskapai bisa dianggap bertanggung jawab untuk menerbangkan pulang penumpang yang kemudian ditolak oleh negara tujuan. Itulah sebabnya petugas check-in kadang bertanya lebih banyak daripada yang akhirnya ditanyakan petugas imigrasi: mereka sedang melindungi maskapai dari tanggung jawabnya sendiri.
 
 Petugas imigrasi yang Anda temui setelah mendarat membuat keputusan yang sepenuhnya terpisah, tidak terkait dengan apa pun yang sudah diputuskan maskapai sebelumnya. Beberapa negara mengulangi pemeriksaan ini saat Anda keluar juga, bukan hanya saat masuk, sehingga kedatangan yang lancar tidak menjamin bagaimana pemeriksaan keberangkatan akan berjalan dua minggu kemudian.
 
@@ -30,7 +30,7 @@ Memenuhi syarat yang satu tidak mengikat yang lain.
 
 Jika Anda satu-satunya orang tua yang bepergian dan orang tua lainnya hidup, sehat, dan hanya kebetulan tidak ikut dalam perjalanan ini, dokumen yang biasanya diharapkan sebagian besar negara adalah surat izin, dan kami membahas secara lengkap apa saja yang harus tertulis di dalamnya, kapan surat itu perlu dinotariskan, serta kesalahan-kesalahan yang membuat surat izin ditolak, dalam panduan lengkap kami tentang [surat izin perjalanan anak](https://traveldocumentvault.com/id/blog/child-travel-consent-letter/).
 
-Ada dua hal lagi di luar surat itu yang layak dibawa bersamanya. Bawa akta kelahiran anak Anda, karena surat izin mencantumkan nama anak dan orang tua, dan akta kelahiranlah yang sejak awal menjadi bukti hubungan antara keduanya. Beberapa negara juga mengharapkan surat izin mencerminkan semua orang yang memegang tanggung jawab orang tua, bukan hanya orang tua yang tercantum di paspor, yang bisa mencakup orang tua tiri atau wali tergantung situasi hukum keluarga Anda. Apakah ini berlaku untuk Anda sebaiknya dipastikan langsung ke otoritas imigrasi negara tujuan, bukan diasumsikan sendiri, karena ini berbeda-beda menurut negara dan keadaan.
+Ada dua hal lagi di luar surat itu yang layak dibawa bersamanya. Bawa akta kelahiran anak Anda, karena surat izin mencantumkan nama anak dan orang tua, dan akta kelahiranlah yang sejak awal menjadi bukti hubungan antara keduanya. Beberapa negara juga mengharapkan surat izin mencerminkan [semua orang yang memegang tanggung jawab orang tua](https://www.gov.uk/permission-take-child-abroad), bukan hanya orang tua yang tercantum di paspor, yang bisa mencakup orang tua tiri atau wali tergantung situasi hukum keluarga Anda. Apakah ini berlaku untuk Anda sebaiknya dipastikan langsung ke otoritas imigrasi negara tujuan, bukan diasumsikan sendiri, karena ini berbeda-beda menurut negara dan keadaan.
 
 ## Hak Asuh Tunggal: Saat Putusan Pengadilan Menjadi Dokumen Utama
 
@@ -84,7 +84,7 @@ Setiap situasi di atas membutuhkan bundel dokumennya sendiri yang kecil, dan mud
 
 **Sebelum Anda mengandalkan ini:** ini blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 
-Sumber yang kami periksa (6 November 2026)
+Sumber resmi
 
 - [UK Government: Get permission to take a child abroad](https://www.gov.uk/permission-take-child-abroad)
 - [EU law: Directive 2001/51 on carrier responsibilities](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001L0051)

@@ -28,9 +28,9 @@ Whether you still have that passport depends entirely on your country and your r
 
 ## United States: Mail-In Renewal
 
-Standard US passport renewal by mail means sending your current passport in with the application, so it isn't in your hands while you wait. You complete the DS-82 form, enclose your existing passport, and post everything to the National Passport Processing Center. USAGov says your old passport is mailed back separately, usually about four weeks after you receive the new one.
+Standard US passport renewal by mail means sending your current passport in with the application, so it isn't in your hands while you wait. You [complete the DS-82 form](https://www.usa.gov/renew-adult-passport), enclose your existing passport, and post everything to the National Passport Processing Center. USAGov says your old passport is mailed back separately, usually about four weeks after you receive the new one.
 
-This means domestic travel within the United States is unaffected throughout the renewal process - you don't need a passport for domestic flights. International travel is a different story: you can't travel internationally until your new passport arrives, and you can't use the old cancelled passport even if you have it in hand.
+This means domestic travel within the United States is unaffected throughout the renewal process - [you don't need a passport for domestic flights](https://www.tsa.gov/travel/security-screening/identification). International travel is a different story: you can't travel internationally until your new passport arrives, and you can't use the old cancelled passport even if you have it in hand.
 
 Standard processing times change, and the State Department publishes the current figure at travel.state.gov, so check there before you plan around it. If your travel is booked before you expect the new passport to arrive, expedited processing is available for an additional fee and cuts the wait meaningfully. For genuinely urgent travel, in-person appointments are available at regional passport agencies - check current eligibility at travel.state.gov.
 
@@ -38,7 +38,7 @@ Standard processing times change, and the State Department publishes the current
 
 The UK has two renewal paths, and they have completely different implications for travel. The process you used determines what is possible.
 
-**Postal renewal:** You post your current passport to HM Passport Office along with your application. Your passport is in their hands for the duration, so you can't travel internationally. HM Passport Office publishes its current processing time on its website and advises against booking travel until your new passport arrives. A premium fast-track service is available for an additional fee if your trip is close.
+**Postal renewal:** You post your current passport to [HM Passport Office](https://www.gov.uk/renew-adult-passport/renew) along with your application. Your passport is in their hands for the duration, so you can't travel internationally. HM Passport Office publishes its current processing time on its website and [advises against booking travel](https://www.gov.uk/renew-adult-passport) until your new passport arrives. A premium fast-track service is available for an additional fee if your trip is close.
 
 **Digital renewal** is currently available to eligible adults applying from within the UK. You keep your current passport throughout the process, and the government issues your new passport separately and posts it to you. Because your existing passport never leaves your possession, you can generally continue to use it for travel while the new one is processed. Eligibility varies by individual circumstance, so check the HM Passport Office website for the full criteria and current times before applying.
 
@@ -50,7 +50,7 @@ The Australian Passport Office publishes its current processing times and recomm
 
 ## Canada: Surrendered on Application
 
-Canada works much the same way: you surrender your existing passport when you apply for renewal, and it's held until your new one is ready, so you can't travel internationally during that period, though domestic travel within Canada doesn't need a passport.
+Canada works much the same way: you [surrender your existing passport when you apply for renewal](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html), and it's held until your new one is ready, so you can't travel internationally during that period, though domestic travel within Canada doesn't need a passport.
 
 Service Canada publishes its current processing standards, which differ depending on whether you apply in person, by mail, or at a Service Canada Centre, plus mailing time either way. For urgent travel, express service and urgent pickup options exist for additional fees. Check current processing times and apply at canada.ca.
 
@@ -92,7 +92,7 @@ The reason people end up in this situation is not ignorance of the rules. Passpo
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [USAGov: Renew an adult passport](https://www.usa.gov/renew-adult-passport)
 - [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)

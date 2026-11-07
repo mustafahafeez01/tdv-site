@@ -33,7 +33,7 @@ Uma carta é comummente necessária nessas situações:
 - **Uma criança viaja com um progenitor cujo apelido é diferente do da criança.** Isto levanta bandeiras em algumas fronteiras, particularmente para crianças mais pequenas.
 - **Uma criança é adoptada ou está em acolhimento familiar.** Documentos de tutela legal e consentimento podem ser necessários juntamente com a carta.
 
-**Aviso crítico:** as regras variam muito. O Canadá não exige legalmente uma carta de consentimento, mas o Governo do Canadá recomenda vivamente uma e nota que "a falha em produzir uma carta mediante solicitação pode resultar em atrasos ou recusa de entrada ou saída de um país." A África do Sul pede uma declaração juramentada de consentimento parental quando um dos progenitores não viaja. Alguns países aplicam requisitos apenas para crianças abaixo de uma certa idade. Não há padrão global.
+**Aviso crítico:** as regras variam muito. O Canadá não exige legalmente uma carta de consentimento, mas o [Governo do Canadá](https://travel.gc.ca/travelling/children/consent-letter) recomenda vivamente uma e nota que "a falha em produzir uma carta mediante solicitação pode resultar em atrasos ou recusa de entrada ou saída de um país." A África do Sul pede uma declaração juramentada de consentimento parental quando um dos progenitores não viaja. Alguns países aplicam requisitos apenas para crianças abaixo de uma certa idade. Não há padrão global.
 
 Verifique sempre os requisitos directamente com a autoridade de imigração do seu país de destino específico antes de viajar. Use o IATA Travel Centre para verificar requisitos de entrada, ou contacte a embaixada do seu país de destino. Se estiver incerto, ter a carta é melhor do que a alternativa: ser parado no check-in ou na fronteira.
 
@@ -61,8 +61,8 @@ Quando se pede ou recomenda uma carta com assinatura reconhecida, isso geralment
 
 O que alguns países dizem sobre a autenticação:
 
-- **Canadá.** Uma carta de consentimento não é legalmente necessária, mas o Governo do Canadá recomenda vivamente uma e recomenda que um notário público testemunhe a assinatura. O pessoal fronteiriço e de companhias aéreas pode solicitá-la na entrada ou saída.
-- **África do Sul.** Quando um dos progenitores não viaja, o Departamento de Assuntos Domésticos pede uma declaração juramentada de consentimento parental, que não pode ter mais de 4 meses quando é apresentada. Consulte a página atual do departamento.
+- **Canadá.** Uma carta de consentimento não é legalmente necessária, mas o [Governo do Canadá](https://travel.gc.ca/travelling/children/documents) recomenda vivamente uma e recomenda que um notário público testemunhe a assinatura. O pessoal fronteiriço e de companhias aéreas pode solicitá-la na entrada ou saída.
+- **África do Sul.** Quando um dos progenitores não viaja, o [Departamento de Assuntos Domésticos](https://www.gov.za/news/speeches/director-general-mkuseli-apleni-media-briefing-new-requirements-travelling-children) pede uma declaração juramentada de consentimento parental, que não pode ter mais de 4 meses quando é apresentada. Consulte a página atual do departamento.
 - **Austrália.** O Smartraveller publica orientações sobre viagens com crianças, e as companhias aéreas podem pedir uma carta. Consulte as orientações para o país de saída e para o país de entrada.
 - **Reino Unido.** Não legalmente necessária para viagens de saída, mas agentes de companhias aéreas e agentes fronteiriços de destino podem solicitar uma quando uma criança viaja com um progenitor ou com um adulto não-progenitor. Consulte as orientações do GOV.UK para o seu percurso.
 - **Estados Unidos.** Não mandatório a nível federal mas recomendado. Alguns estados reconhecem a autenticação explicitamente.
@@ -92,7 +92,7 @@ Mesmo as famílias bem preparadas cometem erros que levam à rejeição na front
 | **Reino Unido** | Não legalmente necessária; companhias aéreas e fronteiras de destino podem solicitar | Consulte as orientações atuais | GOV.UK |
 | **Estados Unidos** | Não necessária a nível federal; varia por estado | Consulte as orientações atuais | travel.state.gov |
 | **União Europeia** | Varia por país | Varia por país | IATA Travel Centre |
-| **Nova Zelândia** | Recomendada | Geralmente assinada pelos pais e com assinatura reconhecida por um funcionário público | SafeTravel (Governo da Nova Zelândia) |
+| **Nova Zelândia** | Recomendada | Geralmente assinada pelos pais e com assinatura reconhecida por um funcionário público | [SafeTravel](https://www.safetravel.govt.nz/before-you-go/who-is-travelling/travelling-with-children) (Governo da Nova Zelândia) |
 
 Encare esta tabela como um ponto de partida, não como a palavra final. As regras mudam frequentemente, e a própria autoridade de imigração do destino é a sua fonte mais fiável. Blogues de viagem e páginas de companhias aéreas são úteis para contexto, mas podem ficar atrás dos requisitos mais recentes.
 
@@ -126,7 +126,7 @@ Passe por esta lista antes de sair de casa e não ao balcão do check-in, porque
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 
-Fontes que verificámos (6 de novembro de 2026)
+Fontes oficiais
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [NZ SafeTravel: Travelling with children](https://www.safetravel.govt.nz/before-you-go/who-is-travelling/travelling-with-children)

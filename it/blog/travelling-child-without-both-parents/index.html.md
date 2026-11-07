@@ -20,7 +20,7 @@ Il personale del check-in aeroportuale e gli ufficiali di frontiera guardano due
 
 ## Il Banco del Check-in e la Frontiera Controllano Cose Diverse
 
-Due persone diverse guardano gli stessi documenti per due motivi diversi, e saperlo evita confusione al banco. Il personale del check-in non decide se tuo figlio potrà entrare nel paese di destinazione. Sta verificando se la compagnia aerea è sicura che vi lasceranno entrare, perché secondo accordi consolidati tra vettori e governi, una compagnia aerea può essere ritenuta responsabile di riportare a casa un passeggero che la destinazione poi rifiuta. Ecco perché gli addetti al check-in a volte chiedono più di quanto farà in seguito l'ufficiale di frontiera: stanno proteggendo la compagnia aerea dalla propria responsabilità.
+Due persone diverse guardano gli stessi documenti per due motivi diversi, e saperlo evita confusione al banco. Il personale del check-in non decide se tuo figlio potrà entrare nel paese di destinazione. Sta verificando se la compagnia aerea è sicura che vi lasceranno entrare, perché [secondo accordi consolidati tra vettori e governi](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001L0051), una compagnia aerea può essere ritenuta responsabile di riportare a casa un passeggero che la destinazione poi rifiuta. Ecco perché gli addetti al check-in a volte chiedono più di quanto farà in seguito l'ufficiale di frontiera: stanno proteggendo la compagnia aerea dalla propria responsabilità.
 
 L'ufficiale di frontiera che incontri dopo l'atterraggio prende una decisione completamente separata, indipendente da quanto deciso in precedenza dalla compagnia aerea. Alcuni paesi ripetono il controllo anche in uscita, non solo all'ingresso, quindi un arrivo senza intoppi non dice nulla su come andrà il controllo d'uscita due settimane dopo.
 
@@ -30,7 +30,7 @@ Soddisfare uno non vincola l'altro.
 
 Se sei l'unico genitore che viaggia e l'altro genitore è vivo, in salute e semplicemente non è del viaggio, il documento che la maggior parte delle frontiere si aspetta è una lettera di consenso, e trattiamo esattamente cosa deve dire, quando serve l'autentica notarile e gli errori che fanno rifiutare le lettere nella nostra guida completa alla [lettera di consenso per il viaggio dei minori](https://traveldocumentvault.com/it/blog/child-travel-consent-letter/).
 
-Due cose restano fuori da quella lettera e vale la pena portarle insieme ad essa. Metti in valigia il certificato di nascita di tuo figlio, dato che una lettera di consenso nomina un bambino e un genitore, e il certificato di nascita è ciò che vi collega in primo luogo. Alcuni paesi si aspettano anche che la lettera rifletta chiunque abbia la responsabilità genitoriale, non solo il genitore indicato sul passaporto, il che può includere un patrigno o un tutore a seconda della situazione legale della tua famiglia. Se questo si applica a te è meglio verificarlo con l'autorità per l'immigrazione della tua destinazione piuttosto che darlo per scontato, perché varia da paese a paese e da caso a caso.
+Due cose restano fuori da quella lettera e vale la pena portarle insieme ad essa. Metti in valigia il certificato di nascita di tuo figlio, dato che una lettera di consenso nomina un bambino e un genitore, e il certificato di nascita è ciò che vi collega in primo luogo. Alcuni paesi si aspettano anche che la lettera rifletta [chiunque abbia la responsabilità genitoriale](https://www.gov.uk/permission-take-child-abroad), non solo il genitore indicato sul passaporto, il che può includere un patrigno o un tutore a seconda della situazione legale della tua famiglia. Se questo si applica a te è meglio verificarlo con l'autorità per l'immigrazione della tua destinazione piuttosto che darlo per scontato, perché varia da paese a paese e da caso a caso.
 
 ## Custodia Esclusiva: Quando il Provvedimento del Tribunale È il Documento
 
@@ -84,7 +84,7 @@ La nostra [checklist dei documenti di viaggio](https://traveldocumentvault.com/i
 
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 
-Fonti che abbiamo verificato (6 novembre 2026)
+Fonti ufficiali
 
 - [UK Government: Get permission to take a child abroad](https://www.gov.uk/permission-take-child-abroad)
 - [EU law: Directive 2001/51 on carrier responsibilities](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001L0051)

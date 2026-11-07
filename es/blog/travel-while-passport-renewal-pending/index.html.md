@@ -28,9 +28,9 @@ Si aún tienes ese pasaporte depende enteramente de tu país y tu método de ren
 
 ## Estados Unidos: Renovación por correo
 
-La renovación estándar de pasaporte estadounidense por correo implica enviar tu pasaporte actual con la solicitud, así que no lo tienes en la mano mientras esperas. Completas el formulario DS-82, incluyes tu pasaporte existente y envías todo por correo al National Passport Processing Center. Según USAGov, tu pasaporte antiguo se envía de vuelta por separado, normalmente unas cuatro semanas después de recibir el nuevo.
+La renovación estándar de pasaporte estadounidense por correo implica enviar tu pasaporte actual con la solicitud, así que no lo tienes en la mano mientras esperas. [Completas el formulario DS-82](https://www.usa.gov/renew-adult-passport), incluyes tu pasaporte existente y envías todo por correo al National Passport Processing Center. Según USAGov, tu pasaporte antiguo se envía de vuelta por separado, normalmente unas cuatro semanas después de recibir el nuevo.
 
-Esto significa que los viajes nacionales dentro de Estados Unidos no se ven afectados durante todo el proceso de renovación —no necesitas un pasaporte para vuelos nacionales. Los viajes internacionales son otra historia: no puedes viajar internacionalmente hasta que llegue tu nuevo pasaporte, y no puedes usar el pasaporte antiguo cancelado aunque lo tengas en la mano.
+Esto significa que los viajes nacionales dentro de Estados Unidos no se ven afectados durante todo el proceso de renovación —[no necesitas un pasaporte para vuelos nacionales](https://www.tsa.gov/travel/security-screening/identification). Los viajes internacionales son otra historia: no puedes viajar internacionalmente hasta que llegue tu nuevo pasaporte, y no puedes usar el pasaporte antiguo cancelado aunque lo tengas en la mano.
 
 El tiempo de procesamiento estándar cambia, y el Departamento de Estado publica la cifra actual en travel.state.gov, así que consúltala antes de hacer planes. Si tu viaje está reservado antes de la fecha en que esperas recibir el nuevo pasaporte, el procesamiento acelerado está disponible por una tarifa adicional y reduce la espera de forma notable. Para viajes genuinamente urgentes, hay citas presenciales disponibles en agencias de pasaportes regionales —consulta la elegibilidad actual en travel.state.gov.
 
@@ -38,7 +38,7 @@ El tiempo de procesamiento estándar cambia, y el Departamento de Estado publica
 
 Reino Unido tiene dos caminos de renovación, y tienen implicaciones completamente diferentes para viajar. El proceso que hayas utilizado determina qué es posible.
 
-**Renovación postal:** Envías tu pasaporte actual a HM Passport Office junto con tu solicitud. Tu pasaporte está en sus manos durante todo el proceso, así que no puedes viajar internacionalmente. HM Passport Office publica su tiempo de procesamiento actual en su sitio web y desaconseja reservar viajes hasta que llegue el nuevo pasaporte. Hay un servicio premium de vía rápida disponible por una tarifa adicional si tu viaje está cerca.
+**Renovación postal:** Envías tu pasaporte actual a [HM Passport Office](https://www.gov.uk/renew-adult-passport/renew) junto con tu solicitud. Tu pasaporte está en sus manos durante todo el proceso, así que no puedes viajar internacionalmente. HM Passport Office publica su tiempo de procesamiento actual en su sitio web y [desaconseja reservar viajes](https://www.gov.uk/renew-adult-passport) hasta que llegue el nuevo pasaporte. Hay un servicio premium de vía rápida disponible por una tarifa adicional si tu viaje está cerca.
 
 **Renovación digital** está actualmente disponible para adultos elegibles que solicitan desde dentro de Reino Unido. Conservas tu pasaporte actual durante todo el proceso, y el gobierno emite tu nuevo pasaporte por separado y te lo envía por correo. Debido a que tu pasaporte existente nunca deja tu posesión, generalmente puedes seguir usándolo para viajar mientras se procesa el nuevo. La elegibilidad varía según las circunstancias individuales, así que consulta el sitio web de HM Passport Office para los criterios completos y los tiempos actuales antes de solicitar.
 
@@ -52,7 +52,7 @@ La Oficina de Pasaportes Australiana publica sus tiempos de procesamiento actual
 
 ## Canadá: Entregado en la solicitud
 
-Canadá requiere que entregues tu pasaporte existente cuando solicites la renovación. Tu pasaporte antiguo se mantiene hasta que esté listo el nuevo, así que no puedes viajar internacionalmente durante este período —aunque los viajes nacionales dentro de Canadá no requieren pasaporte.
+Canadá requiere que [entregues tu pasaporte existente cuando solicites la renovación](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html). Tu pasaporte antiguo se mantiene hasta que esté listo el nuevo, así que no puedes viajar internacionalmente durante este período —aunque los viajes nacionales dentro de Canadá no requieren pasaporte.
 
 Service Canada publica sus estándares de procesamiento actuales, que varían según si solicitas en persona, por correo o en un Service Canada Centre, más el tiempo de envío. Para viajes urgentes existen opciones de servicio express y retiro urgente por tarifas adicionales. Consulta los tiempos de procesamiento actuales y solicita en canada.ca.
 
@@ -94,7 +94,7 @@ La razón por la que las personas terminan en esta situación no es ignorancia d
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 
-Fuentes que hemos comprobado (6 de noviembre de 2026)
+Fuentes oficiales
 
 - [USAGov: Renew an adult passport](https://www.usa.gov/renew-adult-passport)
 - [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)

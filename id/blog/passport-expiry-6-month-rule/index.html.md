@@ -37,7 +37,7 @@ Logikanya sederhana: negara ingin memastikan Anda tidak melebihi masa izin tingg
 
 Terkadang, bisa. Jika negara tujuan hanya mensyaratkan paspor tetap berlaku selama masa kunjungan Anda, sisa lima bulan biasanya sudah cukup untuk masuk. Inggris menerapkan aturan seperti ini untuk sebagian besar pengunjung, dan negara-negara Schengen umumnya mensyaratkan masa berlaku tiga bulan setelah tanggal keberangkatan yang direncanakan, bukan enam bulan.
 
-Jika negara tujuan menerapkan aturan 6 bulan, jawabannya tidak. Thailand, Indonesia, Vietnam, dan banyak negara lain umumnya menolak masuk, dan maskapai biasanya sudah menolak Anda naik pesawat jauh sebelum Anda tiba di perbatasan.
+Jika negara tujuan menerapkan aturan 6 bulan, jawabannya tidak. Thailand, [Indonesia](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements), Vietnam, dan banyak negara lain umumnya menolak masuk, dan maskapai biasanya sudah menolak Anda naik pesawat jauh sebelum Anda tiba di perbatasan.
 
 Jadi jawabannya bergantung pada ke mana Anda pergi, bukan pada paspornya sendiri. Periksa persyaratan negara tujuan pada hari Anda memesan, dan periksa lagi pada minggu Anda berangkat.
 
@@ -54,12 +54,12 @@ Tabel berikut mencakup tujuan paling umum. Kebijakan bisa berubah, jadi selalu p
 | Filipina | 6 bulan | Ditambah tiket lanjutan/pulang wajib disertakan |
 | India | 6 bulan | Visa juga diperlukan untuk sebagian besar kewarganegaraan |
 | Kenya | 6 bulan | eVisa diperlukan; aturan 6 bulan berlaku |
-| Turki | 150 hari sejak kedatangan | Kantor Luar Negeri Inggris: tanggal kedaluwarsa paling sedikit 150 hari setelah tanggal Anda tiba |
+| Turki | 150 hari sejak kedatangan | [Kantor Luar Negeri Inggris](https://www.gov.uk/foreign-travel-advice/turkey/entry-requirements): tanggal kedaluwarsa paling sedikit 150 hari setelah tanggal Anda tiba |
 | UE / Schengen | 3 bulan setelah keberangkatan | Ditambah tanggal penerbitan di bawah 10 tahun |
 | Inggris Raya | Hanya durasi kunjungan | Warga negara Inggris di luar negeri tetap tunduk pada aturan negara tujuan |
 | AS | Hanya durasi kunjungan | Warga negara AS di luar negeri tunduk pada aturan negara tujuan |
 | Jepang / Australia | Hanya durasi kunjungan | Tidak ada aturan perpanjangan 6 bulan untuk pengunjung |
-| Selandia Baru | 3 bulan setelah keberangkatan | Kantor Luar Negeri Inggris: tanggal kedaluwarsa paling sedikit 3 bulan setelah hari Anda berencana pergi |
+| Selandia Baru | 3 bulan setelah keberangkatan | [Kantor Luar Negeri Inggris](https://www.gov.uk/foreign-travel-advice/new-zealand/entry-requirements): tanggal kedaluwarsa paling sedikit 3 bulan setelah hari Anda berencana pergi |
 
 Tabel ini hanyalah gambaran sekilas, bukan gambaran lengkap: persyaratan juga bervariasi menurut kewarganegaraan Anda, tidak hanya negara tujuan, jadi selalu periksa nasihat perjalanan resmi dari pemerintah Anda sebelum memesan.
 
@@ -67,9 +67,9 @@ Persyaratan masa berlaku paspor per negara bisa berubah tanpa pemberitahuan, dan
 
 ## Kapan Aturan 6 Bulan Tidak Berlaku
 
-Banyak destinasi tidak mensyaratkan apa pun di luar tanggal perjalanan Anda. Kantor Luar Negeri Inggris menyampaikannya dengan jelas untuk Jepang: paspor Anda harus berlaku selama masa kunjungan Anda, dan tidak diperlukan masa berlaku tambahan. Australia dan Amerika Serikat menerapkan standar yang sama, hanya mensyaratkan paspor Anda tetap berlaku selama masa kunjungan yang Anda rencanakan.
+Banyak destinasi tidak mensyaratkan apa pun di luar tanggal perjalanan Anda. [Kantor Luar Negeri Inggris](https://www.gov.uk/foreign-travel-advice/japan/entry-requirements) menyampaikannya dengan jelas untuk Jepang: paspor Anda harus berlaku selama masa kunjungan Anda, dan tidak diperlukan masa berlaku tambahan. [Australia](https://www.gov.uk/foreign-travel-advice/australia/entry-requirements) dan [Amerika Serikat](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements) menerapkan standar yang sama, hanya mensyaratkan paspor Anda tetap berlaku selama masa kunjungan yang Anda rencanakan.
 
-Eropa berada di posisi tengah, dan inilah kategori yang paling sering disalahpahami orang. Untuk mengunjungi wilayah Schengen, Kantor Luar Negeri Inggris menyatakan paspor Anda harus memiliki tanggal kedaluwarsa setidaknya tiga bulan setelah hari Anda berencana berangkat. Tiga bulan, bukan enam.
+Eropa berada di posisi tengah, dan inilah kategori yang paling sering disalahpahami orang. Untuk mengunjungi wilayah Schengen, [Kantor Luar Negeri Inggris](https://www.gov.uk/foreign-travel-advice/france/entry-requirements) menyatakan paspor Anda harus memiliki tanggal kedaluwarsa setidaknya tiga bulan setelah hari Anda berencana berangkat. Tiga bulan, bukan enam.
 
 Ada syarat kedua untuk Schengen yang jauh lebih sering menjebak orang daripada syarat pertama: tanggal penerbitan paspor Anda harus kurang dari sepuluh tahun sebelum hari Anda tiba. Kedua syarat ini harus terpenuhi, dan sebuah paspor bisa memenuhi satu syarat namun gagal pada syarat lainnya.
 
@@ -119,7 +119,7 @@ Sumber-sumber ini memberi tahu Anda persyaratan resminya dan apakah itu berlaku 
 
 **Sebelum Anda mengandalkan ini:** ini adalah blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 
-Sumber yang kami periksa (6 November 2026)
+Sumber resmi
 
 - [UK Foreign Office: USA entry requirements](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements)
 - [UK Foreign Office: France entry requirements](https://www.gov.uk/foreign-travel-advice/france/entry-requirements)

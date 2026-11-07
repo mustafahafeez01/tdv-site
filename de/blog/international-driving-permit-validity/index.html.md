@@ -30,9 +30,9 @@ Das bringt Menschen häufiger in Schwierigkeiten als die Ablaufdaten selbst. Der
 
 ## Zwei Abkommen entscheiden, wie lange er gilt und wo er funktioniert
 
-Hinter Internationalen Führerscheinen stehen drei internationale Abkommen, und Länder sind einem davon oder mehreren beigetreten. Zwei davon leisten fast die gesamte Arbeit: das Genfer Abkommen von 1949 und das Wiener Übereinkommen von 1968. Ein älterer Führerschein nach dem Pariser Abkommen von 1926 existiert ebenfalls, und einige Reiseziele führen ihn noch auf. Prüfen Sie das aufgedruckte Ablaufdatum.
+Hinter Internationalen Führerscheinen stehen [drei internationale Abkommen](https://www.gov.uk/driving-abroad/international-driving-permit), und Länder sind einem davon oder mehreren beigetreten. Zwei davon leisten fast die gesamte Arbeit: das Genfer Abkommen von 1949 und das Wiener Übereinkommen von 1968. Ein älterer Führerschein nach dem Pariser Abkommen von 1926 existiert ebenfalls, und einige Reiseziele führen ihn noch auf. Prüfen Sie das aufgedruckte Ablaufdatum.
 
-Ein nach dem Genfer Abkommen von 1949 ausgestellter Führerschein ist ein Jahr gültig. Ein nach dem Wiener Übereinkommen von 1968 ausgestellter Führerschein kann bis zu drei Jahre laufen.
+Ein nach dem Genfer Abkommen von 1949 ausgestellter Führerschein ist [ein Jahr gültig](https://travel.gc.ca/travelling/documents/international-driving-permit). Ein nach dem Wiener Übereinkommen von 1968 ausgestellter Führerschein kann bis zu drei Jahre laufen.
 
 Dieser Unterschied zählt doppelt. Er legt fest, wie lange Ihr Führerschein gilt, und er bestimmt, wo der Führerschein anerkannt wird. Ein Land, das nur ein Abkommen ratifiziert hat, ist nicht verpflichtet, einen nach dem anderen ausgestellten Führerschein anzuerkennen – so kommt es, dass ein Führerschein, der letztes Jahr funktioniert hat, dieses Jahr abgelehnt wird.
 
@@ -46,7 +46,7 @@ Dieser Unterschied zählt doppelt. Er legt fest, wie lange Ihr Führerschein gil
 
 ## Der Dreijahresführerschein, der oft keiner ist
 
-Diese drei Jahre stehen unter einer Bedingung, die man leicht überliest. Ein Wiener Führerschein läuft ab, sobald Ihr nationaler Führerschein abläuft, falls dieses Datum früher liegt.
+Diese drei Jahre stehen unter einer Bedingung, die man leicht überliest. Ein Wiener Führerschein [läuft ab, sobald Ihr nationaler Führerschein abläuft](https://treaties.un.org/doc/Treaties/1977/05/19770524%2000-13%20AM/Ch_XI_B_19.pdf), falls dieses Datum früher liegt.
 
 Angenommen, Ihr Führerschein hat noch 14 Monate Gültigkeit, und Sie erhalten einen Dreijahres-Führerschein. Nützlich ist der Führerschein dann für 14 Monate. Das aufgedruckte Datum sticht den dahinterstehenden Führerschein nicht aus.
 
@@ -68,7 +68,7 @@ Das ist das praktische Argument dafür, alle drei Termine an einem Ort zu verwal
 
 Wir würden diese Punkte in dieser Reihenfolge prüfen, und das Datum des Führerscheins vor allem, was auf dem Internationalen Führerschein aufgedruckt ist.
 
-**Ob Sie überhaupt einen Führerschein brauchen.** Manche Länder akzeptieren einen nationalen Führerschein allein, und das Land, in dem Sie fahren, legt die Anforderung fest, nicht das Land, das Ihren Führerschein ausgestellt hat.
+**Ob Sie überhaupt einen Führerschein brauchen.** [Manche Länder akzeptieren einen nationalen Führerschein allein](https://www.gov.uk/driving-abroad), und das Land, in dem Sie fahren, legt die Anforderung fest, nicht das Land, das Ihren Führerschein ausgestellt hat.
 
 **Welches Abkommen Ihr Reiseziel anerkennt**, und prüfen Sie dann Ihren Führerschein dagegen (das Abkommen steht auf dem Dokument aufgedruckt).
 
@@ -102,7 +102,7 @@ Nehmen Sie heute Ihren Führerschein und, falls vorhanden, Ihren Internationalen
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 
-Quellen, die wir geprüft haben (6. November 2026)
+Offizielle Quellen
 
 - [United Nations Treaty Collection: Convention on Road Traffic (1968)](https://treaties.un.org/doc/Treaties/1977/05/19770524%2000-13%20AM/Ch_XI_B_19.pdf)
 - [UK Government: driving abroad, international driving permits](https://www.gov.uk/driving-abroad/international-driving-permit)

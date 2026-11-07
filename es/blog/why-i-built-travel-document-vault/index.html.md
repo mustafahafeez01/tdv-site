@@ -12,7 +12,7 @@ Estaba en inmigración cuando el oficial miró el pasaporte de mi hija, hizo una
 
 "¿Sabes que vence en siete meses, verdad?" dijo. "Solo para que lo sepas, algunos países no te dejarán entrar con menos de seis meses de validez."
 
-Le agradecí. Estábamos bien, apenas. Pero durante todo el viaje no dejé de pensar: si él no hubiera dicho algo, nunca lo habría notado. Siete meses me parecía mucho tiempo. Había revisado el pasaporte antes de reservar. Simplemente olvidé por completo la regla de seis meses que muchos países aplican.
+Le agradecí. Estábamos bien, apenas. Pero durante todo el viaje no dejé de pensar: si él no hubiera dicho algo, nunca lo habría notado. Siete meses me parecía mucho tiempo. Había revisado el pasaporte antes de reservar. Simplemente olvidé por completo la [regla de seis meses](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements) que muchos países aplican.
 
 Ese susto se quedó conmigo. Ya había configurado recordatorios en el calendario para las fechas de vencimiento de los pasaportes de todos. Pensé que era suficiente. Pero no estaba revisando realmente las fechas, solo confiaba en los recordatorios. Y cuando alguien renovaba el pasaporte, tenía que actualizar el recordatorio, actualizar el escaneo en Google Drive, y esperar no haber olvidado nada.
 
@@ -118,7 +118,7 @@ Mustafa
 
 Fundador, Travel Document Vault
 
-Fuentes que hemos comprobado (6 de noviembre de 2026)
+Fuentes oficiales
 
 - [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
 

@@ -20,7 +20,7 @@ Incheckningspersonal och gränskontrollanter tittar två gånger på ett barn so
 
 ## Incheckningsdisken och Gränsen Kontrollerar Olika Saker
 
-Två olika personer tittar på samma papper av två olika skäl, och att veta det förhindrar förvirring vid disken. Incheckningspersonalen avgör inte om ditt barn får resa in i destinationslandet. De kontrollerar om flygbolaget är säkert på att ni släpps in, för enligt långvariga överenskommelser mellan flygbolag och regeringar kan ett flygbolag hållas ansvarigt för att flyga hem en passagerare som destinationen senare nekar. Det är därför incheckningspersonal ibland frågar mer än vad gränskontrollanten till slut gör: de skyddar flygbolaget mot sitt eget ansvar.
+Två olika personer tittar på samma papper av två olika skäl, och att veta det förhindrar förvirring vid disken. Incheckningspersonalen avgör inte om ditt barn får resa in i destinationslandet. De kontrollerar om flygbolaget är säkert på att ni släpps in, för [enligt långvariga överenskommelser mellan flygbolag och regeringar](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001L0051) kan ett flygbolag hållas ansvarigt för att flyga hem en passagerare som destinationen senare nekar. Det är därför incheckningspersonal ibland frågar mer än vad gränskontrollanten till slut gör: de skyddar flygbolaget mot sitt eget ansvar.
 
 Gränskontrollanten du möter efter landningen fattar ett helt separat beslut, oberoende av vad flygbolaget beslutade tidigare. Vissa länder upprepar kontrollen även vid utresa, inte bara vid ankomst, så en smidig ankomst säger ingenting om hur utresekontrollen kommer att gå två veckor senare.
 
@@ -30,7 +30,7 @@ Att uppfylla ett krav binder inte det andra.
 
 Om du är den enda föräldern som reser och den andra föräldern lever, mår bra och helt enkelt inte är med på just den här resan, är dokumentet de flesta gränser förväntar sig ett samtyckesbrev, och vi går igenom exakt vad det måste innehålla, när det behöver bestyrkas av notarius publicus och vilka misstag som gör att brev avvisas i vår fullständiga guide till [samtyckesbrev för barns resor](https://traveldocumentvault.com/sv/blog/child-travel-consent-letter/).
 
-Två saker ligger utanför det brevet och är värda att ta med sig ändå. Packa barnets födelsebevis, eftersom ett samtyckesbrev namnger ett barn och en förälder, och födelsebeviset är det som knyter er samman i första hand. Vissa länder förväntar sig också att brevet ska återspegla alla som har vårdnaden, inte bara föräldern som står på passet, vilket kan inkludera en styvförälder eller vårdnadshavare beroende på din familjs juridiska situation. Om det gäller dig är det bättre att kontrollera med destinationens immigrationsmyndighet än att anta det, eftersom det varierar mellan länder och situationer.
+Två saker ligger utanför det brevet och är värda att ta med sig ändå. Packa barnets födelsebevis, eftersom ett samtyckesbrev namnger ett barn och en förälder, och födelsebeviset är det som knyter er samman i första hand. Vissa länder förväntar sig också att brevet ska återspegla [alla som har vårdnaden](https://www.gov.uk/permission-take-child-abroad), inte bara föräldern som står på passet, vilket kan inkludera en styvförälder eller vårdnadshavare beroende på din familjs juridiska situation. Om det gäller dig är det bättre att kontrollera med destinationens immigrationsmyndighet än att anta det, eftersom det varierar mellan länder och situationer.
 
 ## Ensam Vårdnad: När Domstolsbeslutet Är Dokumentet
 
@@ -84,7 +84,7 @@ Vår bredare [checklista för resehandlingar](https://traveldocumentvault.com/sv
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du agerar.
 
-Källor vi har kontrollerat (6 november 2026)
+Officiella källor
 
 - [UK Government: Get permission to take a child abroad](https://www.gov.uk/permission-take-child-abroad)
 - [EU law: Directive 2001/51 on carrier responsibilities](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001L0051)

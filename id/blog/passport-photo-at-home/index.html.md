@@ -24,7 +24,7 @@ Meski aturan spesifik berbeda tiap otoritas paspor, sebagian besar negara memili
 
 ### Latar Belakang dan Komposisi
 
-Anda membutuhkan latar belakang polos berwarna terang, dan warna pastinya tergantung otoritas Anda: GOV.UK meminta krem polos atau abu-abu terang, sementara Pemerintah Kanada meminta putih polos atau berwarna terang. Tidak boleh ada motif, bayangan, latar belakang buram, atau warna mencolok. Alasannya sederhana: petugas membutuhkan tampilan wajah Anda yang bersih dan jelas untuk dibandingkan dengan dokumen di masa depan. Gunakan kain polos atau papan poster dengan warna yang diminta otoritas Anda (krem atau abu-abu terang untuk Inggris), atau bahkan cat sebagian kecil dinding. Kuncinya adalah menjaganya tetap terang dan seragam secara keseluruhan.
+Anda membutuhkan latar belakang polos berwarna terang, dan warna pastinya tergantung otoritas Anda: [GOV.UK](https://www.gov.uk/photos-for-passports) meminta krem polos atau abu-abu terang, sementara Pemerintah Kanada meminta putih polos atau berwarna terang. Tidak boleh ada motif, bayangan, latar belakang buram, atau warna mencolok. Alasannya sederhana: petugas membutuhkan tampilan wajah Anda yang bersih dan jelas untuk dibandingkan dengan dokumen di masa depan. Gunakan kain polos atau papan poster dengan warna yang diminta otoritas Anda (krem atau abu-abu terang untuk Inggris), atau bahkan cat sebagian kecil dinding. Kuncinya adalah menjaganya tetap terang dan seragam secara keseluruhan.
 
 ### Ekspresi dan Pose
 
@@ -125,7 +125,7 @@ Kalau Anda punya cahaya jendela yang cukup baik dan beberapa menit luang, ambil 
 
 **Sebelum Anda mengandalkan ini:** ini adalah blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 
-Sumber yang kami periksa (6 November 2026)
+Sumber resmi
 
 - [UK Government: Get a passport photo, Digital photos](https://www.gov.uk/photos-for-passports)
 - [Government of Canada: Passport photo requirements](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/photos.html)

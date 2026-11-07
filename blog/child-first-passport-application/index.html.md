@@ -13,7 +13,7 @@ Source: https://traveldocumentvault.com/blog/child-first-passport-application/
 - **Consent to apply is different from consent to travel.** Rules differ by country: in the UK, for example, someone with parental responsibility signs the form and you give both parents' details, while other countries ask for both parents to consent. Check your own passport office.
 - **Most applications ask for three types of evidence:** proof of identity (birth certificate), proof of parents' identity, and proof of parental relationship.
 - **Baby passport photos have specific rules.** Most authorities want eyes open and looking at the camera (GOV.UK relaxes this for under-1s and under-6s), with no dummies, toys, or other hands visible - and the background behind the child's head must be plain and clear.
-- **Check everything the moment it arrives.** Spelling, parent names where they appear, expiry date - especially since child passports often expire sooner than adult ones (a UK child passport is valid for 5 years).
+- **Check everything the moment it arrives.** Spelling, parent names where they appear, expiry date - especially since child passports often expire sooner than adult ones ([a UK child passport is valid for 5 years](https://www.gov.uk/get-a-child-passport)).
 - **In countries that ask for both parents' consent, one parent generally cannot sign alone unless there is a court order, sole legal guardianship, or the other parent is deceased.** If this is your situation, your passport office has a specific process to follow.
 
 Your child's first passport is something you only do once, which means you get to learn the rules before it happens rather than discovering them at the counter. The application itself is straightforward, but consent rules and photo requirements vary by country, and a small mistake at the start means a rejected application and a delayed trip.
@@ -28,7 +28,7 @@ This article covers the application consent. The distinction matters because you
 
 ## By Default, Everyone With Parental Responsibility Must Agree
 
-Who must consent depends on the country. In the UK, one person with parental responsibility signs the application and you give both parents' details; some other countries generally expect both parents to sign. Whether an unmarried parent has parental responsibility also differs by country, so your passport office is the place to confirm. Anyone with a court order or sole legal guardianship falls under different rules, and your passport office will explain the specific process when you ask.
+Who must consent depends on the country. In the UK, [one person with parental responsibility signs the application](https://www.gov.uk/get-a-child-passport/first-child-passport) and you give both parents' details; some other countries generally expect both parents to sign. Whether an unmarried parent has parental responsibility also differs by country, so your passport office is the place to confirm. Anyone with a court order or sole legal guardianship falls under different rules, and your passport office will explain the specific process when you ask.
 
 These exceptions are real and worth knowing. A deceased parent cannot sign, and a parent who has lost parental responsibility through a court order may not have the right to consent either. Restraining orders and custody restrictions can also exclude a parent by law. Each of these situations has its own application process and its own evidence requirements, so there is no single answer that covers all of them.
 
@@ -44,7 +44,7 @@ Passport offices want three things when you apply for a child's first passport: 
 
 **Proof of relationship to the child** usually comes from the birth certificate itself if both parents are named. If only one parent is listed, you may need to provide a court order, a custody agreement, or a guardianship certificate to show that the second parent also has the right to make decisions about the child.
 
-Some countries use a **countersignatory system**: a trusted professional (a teacher, doctor, lawyer, or similar) signs a form to vouch that the application is genuine and the photo is a true likeness of the child. If your country uses this system, you need to identify someone who is willing to do it before you apply. Ask your passport office which professions they accept.
+Some countries use a **[countersignatory system](https://www.gov.uk/countersigning-passport-applications)**: a trusted professional (a teacher, doctor, lawyer, or similar) signs a form to vouch that the application is genuine and the photo is a true likeness of the child. If your country uses this system, you need to identify someone who is willing to do it before you apply. Ask your passport office which professions they accept.
 
 ## Babies Can't Follow Adult Photo Rules, So You Adapt Them
 
@@ -52,7 +52,7 @@ Some countries use a **countersignatory system**: a trusted professional (a teac
 
 This is where many first-time applications fail. A baby or small child cannot follow photo rules the way an adult can: babies cannot sit up, toddlers cannot sit still or understand instructions, and newborns cannot look at the camera on command. Passport photo standards were written for adults, and you need to understand how to adapt them when the subject is a child who weighs 5 kilos and moves constantly.
 
-**The core rules are the same:** the child's eyes should generally be open and looking at the camera, with a plain background behind their head and nothing else in frame. Some authorities relax the eye rules for the youngest children: GOV.UK doesn't require open eyes under one, or a direct look at the camera under 6. What changes is how you make that happen.
+**The core rules are the same:** the child's eyes should generally be open and looking at the camera, with a plain background behind their head and nothing else in frame. Some authorities relax the eye rules for the youngest children: [GOV.UK](https://www.gov.uk/photos-for-passports) doesn't require open eyes under one, or a direct look at the camera under 6. What changes is how you make that happen.
 
 **For a newborn or baby under one:** photograph them lying down on a plain white or pale sheet or blanket. The sheet becomes the background. Position yourself directly above so the baby is looking straight up at the camera, eyes open, but if the baby is sleepy, wait for a moment when they are alert. No toys, no dummies, no hands, no other person visible in the frame except the baby's own head and shoulders.
 
@@ -86,7 +86,7 @@ This is a legal requirement that exists to protect the child, not a negotiation.
 
 Once the passport is issued and delivered to you, spend five minutes checking it before you file it away. You are looking for three things that are easy to fix now and a nightmare to fix at the airport.
 
-**Check that your child's name is spelled exactly as it appears** on the birth certificate or the identity document you used to apply. If it is wrong, the passport office will generally replace it free if the mistake was theirs, and you may pay a fee if it came from the application you submitted. If you do not notice until you are at the airport, the airline may refuse to board because the name on the ticket will not match the passport.
+**Check that your child's name is spelled exactly as it appears** on the birth certificate or the identity document you used to apply. If it is wrong, the passport office will generally [replace it free if the mistake was theirs](https://www.gov.uk/government/publications/preventing-and-resolving-errors-on-passports/how-to-correct-errors-on-passports-accessible), and you may pay a fee if it came from the application you submitted. If you do not notice until you are at the airport, the airline may refuse to board because the name on the ticket will not match the passport.
 
 **Look at the parent names where they appear.** Some countries print the names of the parents or guardians on the inside of a child's passport. If these names are misspelled or wrong, contact the office to have it corrected.
 
@@ -94,7 +94,7 @@ Once the passport is issued and delivered to you, spend five minutes checking it
 
 If anything is wrong, contact your passport office as soon as you spot it. Whether a correction is free depends on who made the error, and it gets harder to sort out the longer you leave it. Once everything checks out, put the passport straight into your documents folder with a note of the expiry date, so renewal doesn't catch you by surprise.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [UK Government: Get a passport photo, Digital photos](https://www.gov.uk/photos-for-passports)
 - [UK Government: applying for a first child passport](https://www.gov.uk/get-a-child-passport/first-child-passport)

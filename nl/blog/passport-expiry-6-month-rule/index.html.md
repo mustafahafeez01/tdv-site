@@ -37,7 +37,7 @@ De logica is simpel: landen willen zekerheid dat je je visum niet overschrijdt e
 
 Soms wel. Als je bestemming alleen vereist dat je paspoort geldig is voor de duur van je verblijf, is vijf maanden geldigheid meestal genoeg om binnen te komen. Het Verenigd Koninkrijk werkt zo voor de meeste bezoekers, en Schengenlanden vragen doorgaans drie maanden na je geplande vertrek in plaats van zes.
 
-Hanteert je bestemming de 6 maanden-regel, dan niet. Thailand, Indonesië, Vietnam en veel andere landen weigeren doorgaans toegang, en de luchtvaartmaatschappij weigert meestal al instappen ruim voordat je de grens bereikt.
+Hanteert je bestemming de 6 maanden-regel, dan niet. Thailand, [Indonesië](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements), Vietnam en veel andere landen weigeren doorgaans toegang, en de luchtvaartmaatschappij weigert meestal al instappen ruim voordat je de grens bereikt.
 
 Het antwoord hangt dus af van waar je heen gaat, niet van het paspoort zelf. Controleer de vereiste van je bestemming op de dag dat je boekt, en nogmaals de week voordat je vliegt.
 
@@ -54,12 +54,12 @@ Onderstaande tabel bevat de meest voorkomende bestemmingen. Beleid verandert, du
 | Filipijnen | 6 maanden | Plus een aansluitend of retourticket vereist |
 | India | 6 maanden | Ook een visum vereist voor de meeste nationaliteiten |
 | Kenia | 6 maanden | eVisum vereist; 6 maanden-regel is van toepassing |
-| Turkije | 150 dagen vanaf aankomst | Britse Foreign Office: vervaldatum minstens 150 dagen na de dag van aankomst |
+| Turkije | 150 dagen vanaf aankomst | [Britse Foreign Office](https://www.gov.uk/foreign-travel-advice/turkey/entry-requirements): vervaldatum minstens 150 dagen na de dag van aankomst |
 | EU / Schengen | 3 maanden na vertrek | Plus een afgiftedatum van minder dan 10 jaar oud |
 | Verenigd Koninkrijk | Alleen verblijfsduur | Britse burgers in het buitenland vallen nog steeds onder de regels van het bestemmingsland |
 | VS | Alleen verblijfsduur | Amerikaanse burgers in het buitenland vallen onder de regels van het bestemmingsland |
 | Japan / Australië | Alleen verblijfsduur | Geen 6 maanden-verlengingsregel voor bezoekers |
-| Nieuw-Zeeland | 3 maanden na vertrek | Britse Foreign Office: vervaldatum minstens 3 maanden na de dag waarop je van plan bent te vertrekken |
+| Nieuw-Zeeland | 3 maanden na vertrek | [Britse Foreign Office](https://www.gov.uk/foreign-travel-advice/new-zealand/entry-requirements): vervaldatum minstens 3 maanden na de dag waarop je van plan bent te vertrekken |
 
 Deze tabel is een momentopname, niet het volledige beeld: vereisten verschillen ook per nationaliteit, niet alleen per bestemming, dus controleer altijd het officiële reisadvies van je overheid voordat je boekt.
 
@@ -67,9 +67,9 @@ Vereisten voor paspoortgeldigheid per land veranderen zonder aankondiging, en ee
 
 ## Wanneer de 6 maanden-regel niet geldt
 
-Veel bestemmingen vragen niets meer dan de data van je reis. De Britse Foreign Office zegt het voor Japan klip-en-klaar: je paspoort moet geldig zijn voor de duur van je verblijf, en er is geen extra geldigheidsperiode vereist. Australië en de Verenigde Staten hanteren dezelfde norm en vragen alleen dat je paspoort geldig blijft voor de duur van je geplande verblijf.
+Veel bestemmingen vragen niets meer dan de data van je reis. De [Britse Foreign Office](https://www.gov.uk/foreign-travel-advice/japan/entry-requirements) zegt het voor Japan klip-en-klaar: je paspoort moet geldig zijn voor de duur van je verblijf, en er is geen extra geldigheidsperiode vereist. [Australië](https://www.gov.uk/foreign-travel-advice/australia/entry-requirements) en de [Verenigde Staten](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements) hanteren dezelfde norm en vragen alleen dat je paspoort geldig blijft voor de duur van je geplande verblijf.
 
-Europa zit ertussenin, en dit is de categorie die mensen het vaakst verkeerd inschatten. Voor een bezoek aan het Schengengebied zegt de Foreign Office dat je paspoort een vervaldatum nodig heeft van minstens drie maanden na de dag waarop je van plan bent te vertrekken. Drie maanden, geen zes.
+Europa zit ertussenin, en dit is de categorie die mensen het vaakst verkeerd inschatten. Voor een bezoek aan het Schengengebied zegt de [Foreign Office](https://www.gov.uk/foreign-travel-advice/france/entry-requirements) dat je paspoort een vervaldatum nodig heeft van minstens drie maanden na de dag waarop je van plan bent te vertrekken. Drie maanden, geen zes.
 
 Er is een tweede Schengenvoorwaarde die mensen veel vaker parten speelt dan de eerste: je afgiftedatum moet minder dan tien jaar voor de dag van aankomst liggen. Aan beide voorwaarden moet worden voldaan, en een paspoort kan aan de ene voldoen terwijl het niet aan de andere voldoet.
 
@@ -119,7 +119,7 @@ Deze bronnen geven de officiële vereiste aan, en of die geldt voor houders van 
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 
-Bronnen die we hebben gecontroleerd (6 november 2026)
+Officiële bronnen
 
 - [UK Foreign Office: USA entry requirements](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements)
 - [UK Foreign Office: France entry requirements](https://www.gov.uk/foreign-travel-advice/france/entry-requirements)

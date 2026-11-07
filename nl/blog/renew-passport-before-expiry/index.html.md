@@ -22,7 +22,7 @@ Niets daarvan is een reden om te wachten. Het is een reden om een paar rustige w
 
 ## Er is geen officiële wachttijd voordat je kunt verlengen
 
-HM Passport Office koppelt verlenging aan twee aanleidingen: je paspoort is verlopen, of het heeft niet genoeg tijd meer over voor waar je naartoe gaat. De verlengingsrichtlijnen van HM Passport Office stellen geen vroegste datum, en ze zeggen dat hoeveel tijd je nodig hebt, afhangt van het land dat je bezoekt. USAGov adviseert Amerikanen om vroeg te verlengen, omdat verwerkingstijden variëren en sommige landen en luchtvaartmaatschappijen de toegang weigeren wanneer een paspoort nog minder dan zes maanden geldig is.
+HM Passport Office koppelt verlenging aan twee aanleidingen: je paspoort is verlopen, of het heeft niet genoeg tijd meer over voor waar je naartoe gaat. De [verlengingsrichtlijnen van HM Passport Office](https://www.gov.uk/renew-adult-passport/renew) stellen geen vroegste datum, en ze zeggen dat hoeveel tijd je nodig hebt, afhangt van het land dat je bezoekt. [USAGov](https://www.usa.gov/renew-adult-passport) adviseert Amerikanen om vroeg te verlengen, omdat verwerkingstijden variëren en sommige landen en luchtvaartmaatschappijen de toegang weigeren wanneer een paspoort nog minder dan zes maanden geldig is.
 
 Canada trekt een grens, en zelfs die is soepel. De Government of Canada zegt dat als je meer dan een jaar voor de vervaldatum van je paspoort aanvraagt, ze zullen vragen waarom, en een aanvraag per post heeft een schriftelijke toelichting nodig. De online verlengingsdienst is nog beperkter en staat alleen open wanneer je paspoort binnen zes maanden verloopt of al verlopen is.
 
@@ -30,13 +30,13 @@ Ben je Amerikaan, dan is er ook een grens aan de andere kant die je moet kennen:
 
 ## Vroeg verlengen in het VK betekent dat je de maanden die je nog had, teruggeeft
 
-Dit is de echte prijs van vroeg verlengen, en die is kleiner dan het klinkt. De historische richtlijnen van HM Passport Office leggen uit dat tussen november 2004 en oktober 2018 iedereen die voor de vervaldatum verlengde, tot negen onbenutte maanden aan het nieuwe paspoort kon laten toevoegen. Sinds oktober 2018 gebeurt dat niet meer, waardoor de resterende tijd van het oude paspoort simpelweg vervalt.
+Dit is de echte prijs van vroeg verlengen, en die is kleiner dan het klinkt. De [historische richtlijnen](https://www.gov.uk/government/publications/historic-passport-information-caseworker-guidance/historic-passport-information-accessible) van HM Passport Office leggen uit dat tussen november 2004 en oktober 2018 iedereen die voor de vervaldatum verlengde, tot negen onbenutte maanden aan het nieuwe paspoort kon laten toevoegen. Sinds oktober 2018 gebeurt dat niet meer, waardoor de resterende tijd van het oude paspoort simpelweg vervalt.
 
 Vraag dan negen maanden vroeg aan, en je ruilt die negen maanden in voor een paspoort waar je een decennium niet meer aan hoeft te denken. Wij zouden die ruil altijd maken, want het alternatief is verlengen tegen de klok met een reis die al op de kalender staat.
 
-De oude regel voor extra maanden liet één addertje achter. Het reisadvies van GOV.UK voor Spanje waarschuwt dat een paspoort dat voor oktober 2018 werd verlengd, een afgiftedatum kan hebben van meer dan tien jaar geleden.
+De oude regel voor extra maanden liet één addertje achter. Het [reisadvies van GOV.UK voor Spanje](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements) waarschuwt dat een paspoort dat voor oktober 2018 werd verlengd, een afgiftedatum kan hebben van meer dan tien jaar geleden.
 
-Dat is belangrijk, want de Your Europe-richtlijnen van de EU zeggen dat een paspoort waarmee je het Schengengebied binnenkomt, binnen de afgelopen tien jaar moet zijn afgegeven. Het moet ook nog minstens drie maanden geldig blijven na je vertrek. Een paspoort dat op basis van de vervaldatum in orde lijkt, kan in Europa toch tekortschieten. Is jouw paspoort afgegeven onder de oude regel, controleer dan zowel de afgiftedatum als de vervaldatum, en onze gids over [hoe lang een paspoort geldig is voor reizen](https://traveldocumentvault.com/nl/blog/how-long-is-passport-valid-for-travel/) behandelt beide.
+Dat is belangrijk, want de [Your Europe-richtlijnen](https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm) van de EU zeggen dat een paspoort waarmee je het Schengengebied binnenkomt, binnen de afgelopen tien jaar moet zijn afgegeven. Het moet ook nog minstens drie maanden geldig blijven na je vertrek. Een paspoort dat op basis van de vervaldatum in orde lijkt, kan in Europa toch tekortschieten. Is jouw paspoort afgegeven onder de oude regel, controleer dan zowel de afgiftedatum als de vervaldatum, en onze gids over [hoe lang een paspoort geldig is voor reizen](https://traveldocumentvault.com/nl/blog/how-long-is-passport-valid-for-travel/) behandelt beide.
 
 ## Je oude paspoort stopt met werken zodra het nieuwe is goedgekeurd
 
@@ -52,8 +52,8 @@ Elke verlenging komt met een nieuw nummer. HM Passport Office koppelt dat feit a
 
 Alles dat al aan het oude nummer gekoppeld is, verdient een blik voor je volgende reis:
 
-- **Een Amerikaanse ESTA** moet opnieuw worden aangevraagd. US Customs and Border Protection zegt dat een nieuwe ESTA vereist is wanneer de reiziger een nieuw paspoort krijgt.
-- GOV.UK zegt dat **een Britse ETA** gekoppeld is aan het paspoort waarmee je hebt aangevraagd en twee jaar geldig is of tot dat paspoort verloopt, wat zich het eerst voordoet. Check waar jouw ETA staat voordat je met het nieuwe paspoort vliegt, en onze gids over [aan welk paspoort een Britse ETA gekoppeld is](https://traveldocumentvault.com/nl/blog/uk-eta-passport-rules/) behandelt de details.
+- **Een Amerikaanse ESTA** moet opnieuw worden aangevraagd. [US Customs and Border Protection](https://www.cbp.gov/travel/international-visitors/esta/frequently-asked-questions-about-visa-waiver-program-vwp-and-electronic-system-travel) zegt dat een nieuwe ESTA vereist is wanneer de reiziger een nieuw paspoort krijgt.
+- [GOV.UK](https://www.gov.uk/eta/apply) zegt dat **een Britse ETA** gekoppeld is aan het paspoort waarmee je hebt aangevraagd en twee jaar geldig is of tot dat paspoort verloopt, wat zich het eerst voordoet. Check waar jouw ETA staat voordat je met het nieuwe paspoort vliegt, en onze gids over [aan welk paspoort een Britse ETA gekoppeld is](https://traveldocumentvault.com/nl/blog/uk-eta-passport-rules/) behandelt de details.
 - Voor **een visum in het oude paspoort** is het gangbare antwoord om beide mee te nemen. Een visum in je oude paspoort blijft over het algemeen geldig, dus neem beide paspoorten mee en controleer de officiële richtlijnen van het land dat het visum heeft afgegeven.
 - **Vluchten en hotels** die geboekt zijn met je oude paspoortgegevens hebben mogelijk het nieuwe nummer nodig, een simpele klus thuis en een lastige aan de incheckbalie.
 
@@ -65,13 +65,13 @@ Onze mening is simpel: begin na te denken over verlenging zodra een paspoort tot
 
 De andere helft is kiezen wanneer binnen dat venster. Zoek een paar weken zonder iets geboekt, want het oude paspoort gaat mee met de aanvraag en het nieuwe komt terug met een ander nummer.
 
-HM Passport Office zegt dat je meestal binnen drie weken een paspoort krijgt, langer als er meer informatie of een gesprek nodig is, waarbij de klok begint te lopen zodra ze je documenten ontvangen. In Canada kan online verlenging tot 20 werkdagen duren, plus verzendtijd. Voor wat een aanvraag doorgaans vertraagt, heeft onze gids over [hoe lang een paspoortverlenging duurt](https://traveldocumentvault.com/nl/blog/how-long-does-passport-renewal-take/) de details.
+[HM Passport Office](https://www.gov.uk/government/organisations/hm-passport-office/about/about-our-services) zegt dat je meestal binnen drie weken een paspoort krijgt, langer als er meer informatie of een gesprek nodig is, waarbij de klok begint te lopen zodra ze je documenten ontvangen. In Canada kan online verlenging tot 20 werkdagen duren, plus verzendtijd. Voor wat een aanvraag doorgaans vertraagt, heeft onze gids over [hoe lang een paspoortverlenging duurt](https://traveldocumentvault.com/nl/blog/how-long-does-passport-renewal-take/) de details.
 
 Staat er een familiereis op de planning, leg dan alle paspoorten in het huishouden tegelijk naast elkaar. In het VK geeft HM Passport Office kinderpaspoorten voor vijf jaar uit in plaats van tien, waardoor degene die het eerst verlengd moet worden vaak niet degene is die je zou verwachten. Gaat iemand naar een bestemming die extra geldigheid bij aankomst vraagt, check dan onze gids over [de 6-maanden-paspoortregel](https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/) voor hoe dat jouw datum verschuift.
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 
-Bronnen die we hebben gecontroleerd (6 november 2026)
+Officiële bronnen
 
 - [USAGov: Renew an adult passport](https://www.usa.gov/renew-adult-passport)
 - [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)

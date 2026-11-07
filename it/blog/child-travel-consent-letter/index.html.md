@@ -33,7 +33,7 @@ Una lettera è comunemente richiesta in queste situazioni:
 - **Un minore viaggia con un genitore il cui cognome è diverso da quello del minore.** Questo solleva dubbi in alcuni confini, in particolare per i minori più piccoli.
 - **Un minore è adottato o in affidamento.** I documenti di tutela legale e il consenso potrebbero essere richiesti insieme alla lettera.
 
-**Avvertenza critica:** le regole variano notevolmente. Il Canada non richiede legalmente una lettera di consenso, ma il Governo canadese la consiglia fortemente e nota che "il mancato prodotto di una lettera su richiesta può causare ritardi o un rifiuto di entrare o uscire da un paese". Il Sudafrica chiede una dichiarazione giurata di consenso quando un genitore non viaggia. Alcuni paesi applicano i requisiti solo ai minori sotto una certa età. Non esiste uno standard globale.
+**Avvertenza critica:** le regole variano notevolmente. Il Canada non richiede legalmente una lettera di consenso, ma il [Governo canadese](https://travel.gc.ca/travelling/children/consent-letter) la consiglia fortemente e nota che "il mancato prodotto di una lettera su richiesta può causare ritardi o un rifiuto di entrare o uscire da un paese". Il Sudafrica chiede una dichiarazione giurata di consenso quando un genitore non viaggia. Alcuni paesi applicano i requisiti solo ai minori sotto una certa età. Non esiste uno standard globale.
 
 Verifica sempre i requisiti direttamente con l'autorità immigrazione del tuo paese di destinazione prima di viaggiare. Utilizza l'IATA Travel Centre per controllare i requisiti di ingresso, oppure contatta l'ambasciata del tuo paese di destinazione. Se sei incerto, avere la lettera è meglio dell'alternativa: essere fermato al check-in o al confine.
 
@@ -61,8 +61,8 @@ Quando viene richiesta o consigliata una firma autenticata, di solito un notaio 
 
 Cosa dicono alcuni paesi sull’autenticazione:
 
-- **Canada.** Una lettera di consenso non è legalmente richiesta, ma il Governo canadese la consiglia fortemente e consiglia che un notaio pubblico testimoni la firma. Lo staff dei confini e delle compagnie aeree potrebbe richiederla all'ingresso o all'uscita.
-- **Sudafrica.** Quando un genitore non viaggia, il Department of Home Affairs chiede una dichiarazione giurata di consenso che non deve risalire a più di 4 mesi prima della presentazione. Controlla le indicazioni aggiornate del dipartimento.
+- **Canada.** Una lettera di consenso non è legalmente richiesta, ma il [Governo canadese](https://travel.gc.ca/travelling/children/documents) la consiglia fortemente e consiglia che un notaio pubblico testimoni la firma. Lo staff dei confini e delle compagnie aeree potrebbe richiederla all'ingresso o all'uscita.
+- **Sudafrica.** Quando un genitore non viaggia, il [Department of Home Affairs](https://www.gov.za/news/speeches/director-general-mkuseli-apleni-media-briefing-new-requirements-travelling-children) chiede una dichiarazione giurata di consenso che non deve risalire a più di 4 mesi prima della presentazione. Controlla le indicazioni aggiornate del dipartimento.
 - **Australia.** Smartraveller pubblica indicazioni sui viaggi con minori e le compagnie aeree possono chiedere una lettera. Controlla le indicazioni per il paese di partenza e quello di arrivo.
 - **Regno Unito.** Non legalmente richiesta per i viaggi in uscita, ma le compagnie aeree e gli ufficiali di confine di destinazione possono richiederla quando un minore viaggia con un genitore o con un adulto non genitore. Controlla le indicazioni di GOV.UK per il tuo itinerario.
 - **Stati Uniti.** Non obbligatorio a livello federale ma consigliato. Alcuni stati riconoscono esplicitamente l'autenticazione.
@@ -92,7 +92,7 @@ Anche le famiglie ben preparate commettono errori che portano a rifiuti al confi
 | **Regno Unito** | Non legalmente richiesto; i confini e le compagnie aeree di destinazione possono richiedere | Controlla le indicazioni aggiornate | GOV.UK |
 | **Stati Uniti** | Non richiesto a livello federale; varia da stato a stato | Controlla le indicazioni aggiornate | travel.state.gov |
 | **Unione Europea** | Varia da paese a paese | Varia da paese a paese | IATA Travel Centre |
-| **Nuova Zelanda** | Consigliato | Di solito firmata dai genitori davanti a un pubblico ufficiale | SafeTravel (Governo neozelandese) |
+| **Nuova Zelanda** | Consigliato | Di solito firmata dai genitori davanti a un pubblico ufficiale | [SafeTravel](https://www.safetravel.govt.nz/before-you-go/who-is-travelling/travelling-with-children) (Governo neozelandese) |
 
 Considera questa tabella un punto di partenza, non l'ultima parola. Le regole cambiano frequentemente, e l'autorità immigrazione del paese di destinazione è la tua fonte più affidabile. I blog di viaggio e le pagine delle compagnie aeree sono utili per il contesto, ma possono essere indietro rispetto ai requisiti più recenti.
 
@@ -126,7 +126,7 @@ Ripassa questa lista prima di uscire di casa, non al banco del check-in, perché
 
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 
-Fonti che abbiamo verificato (6 novembre 2026)
+Fonti ufficiali
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [NZ SafeTravel: Travelling with children](https://www.safetravel.govt.nz/before-you-go/who-is-travelling/travelling-with-children)

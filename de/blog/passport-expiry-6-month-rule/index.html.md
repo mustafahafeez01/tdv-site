@@ -37,7 +37,7 @@ Die Logik ist einfach: Länder möchten Sicherheit haben, dass Sie Ihren Aufenth
 
 Manchmal ja. Wenn Ihr Zielland nur verlangt, dass der Reisepass für die Dauer Ihres Aufenthalts gültig bleibt, reichen fünf Monate Restgültigkeit in der Regel für die Einreise. So handhabt es das Vereinigte Königreich für die meisten Besucher, und Schengen-Länder verlangen in der Regel drei statt sechs Monate über die geplante Abreise hinaus.
 
-Wendet Ihr Zielland die Sechsmonats-Regel an, nein. Thailand, Indonesien, Vietnam und viele andere verweigern in der Regel die Einreise, und die Fluggesellschaft verweigert meist schon lange vor der Grenze das Boarding.
+Wendet Ihr Zielland die Sechsmonats-Regel an, nein. Thailand, [Indonesien](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements), Vietnam und viele andere verweigern in der Regel die Einreise, und die Fluggesellschaft verweigert meist schon lange vor der Grenze das Boarding.
 
 Die Antwort hängt also von Ihrem Reiseziel ab, nicht vom Reisepass selbst. Prüfen Sie die Anforderung des Ziellandes am Tag der Buchung, und noch einmal in der Woche Ihres Abflugs.
 
@@ -54,12 +54,12 @@ Die folgende Tabelle deckt die häufigsten Ziele ab. Richtlinien ändern sich, a
 | Philippines | 6 Monate | Zusätzlich Weiter-/Rückflugticket erforderlich |
 | India | 6 Monate | Visum auch für die meisten Nationalitäten erforderlich |
 | Kenya | 6 Monate | eVisa erforderlich; Sechsmonats-Regel gilt |
-| Turkey | 150 Tage ab Ankunft | Britisches Foreign Office: Ablaufdatum mindestens 150 Tage nach dem Ankunftsdatum |
+| Turkey | 150 Tage ab Ankunft | [Britisches Foreign Office](https://www.gov.uk/foreign-travel-advice/turkey/entry-requirements): Ablaufdatum mindestens 150 Tage nach dem Ankunftsdatum |
 | EU / Schengen | 3 Monate über die Abreise hinaus | Plus ein Ausstellungsdatum unter 10 Jahren |
 | Vereinigtes Königreich | Nur Aufenthaltsdauer | Britische Bürger im Ausland unterliegen immer noch den Regeln des Ziellandes |
 | USA | Nur Aufenthaltsdauer | Amerikanische Bürger im Ausland unterliegen den Regeln des Ziellandes |
 | Japan / Australien | Nur Aufenthaltsdauer | Keine Sechsmonats-Erweiterungsregel für Besucher |
-| Neuseeland | 3 Monate über die Abreise hinaus | Britisches Foreign Office: Ablaufdatum mindestens 3 Monate nach dem geplanten Abreisetag |
+| Neuseeland | 3 Monate über die Abreise hinaus | [Britisches Foreign Office](https://www.gov.uk/foreign-travel-advice/new-zealand/entry-requirements): Ablaufdatum mindestens 3 Monate nach dem geplanten Abreisetag |
 
 Dies ist keine umfassende Liste, und die Anforderungen variieren je nach Ihrer Nationalität – nicht nur je nach Ziel. Überprüfen Sie immer Ihre offizielle Reisewarnung der Regierung, bevor Sie buchen.
 
@@ -69,9 +69,9 @@ Anforderungen zur Reisepass-Gültigkeit nach Land ändern sich ohne Vorankündig
 
 ## Wann die Sechsmonats-Regel nicht gilt
 
-Viele Reiseziele verlangen nichts über die Daten Ihrer Reise hinaus. Das britische Foreign Office formuliert es für Japan ganz klar: Ihr Reisepass muss für die Dauer Ihres Aufenthalts gültig sein, eine zusätzliche Gültigkeitsdauer wird nicht verlangt. Australien und die Vereinigten Staaten wenden denselben Standard an und verlangen nur, dass Ihr Reisepass für die Dauer Ihres geplanten Aufenthalts gültig bleibt.
+Viele Reiseziele verlangen nichts über die Daten Ihrer Reise hinaus. Das [britische Foreign Office](https://www.gov.uk/foreign-travel-advice/japan/entry-requirements) formuliert es für Japan ganz klar: Ihr Reisepass muss für die Dauer Ihres Aufenthalts gültig sein, eine zusätzliche Gültigkeitsdauer wird nicht verlangt. [Australien](https://www.gov.uk/foreign-travel-advice/australia/entry-requirements) und die [Vereinigten Staaten](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements) wenden denselben Standard an und verlangen nur, dass Ihr Reisepass für die Dauer Ihres geplanten Aufenthalts gültig bleibt.
 
-Europa liegt dazwischen, und das ist die Stufe, die am häufigsten falsch verstanden wird. Für die Einreise in den Schengen-Raum braucht Ihr Reisepass laut Foreign Office ein Ablaufdatum von mindestens drei Monaten nach dem geplanten Ausreisetag. Drei Monate, nicht sechs.
+Europa liegt dazwischen, und das ist die Stufe, die am häufigsten falsch verstanden wird. Für die Einreise in den Schengen-Raum braucht Ihr Reisepass laut [Foreign Office](https://www.gov.uk/foreign-travel-advice/france/entry-requirements) ein Ablaufdatum von mindestens drei Monaten nach dem geplanten Ausreisetag. Drei Monate, nicht sechs.
 
 Es gibt eine zweite Schengen-Bedingung, die deutlich häufiger übersehen wird als die erste: Ihr Ausstellungsdatum muss weniger als zehn Jahre vor Ihrer Ankunft liegen. Beide Bedingungen müssen erfüllt sein, und ein Reisepass kann die eine erfüllen und an der anderen scheitern.
 
@@ -121,7 +121,7 @@ Diese Quellen zeigen Ihnen die offizielle Anforderung und ob sie für Inhaber Ih
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 
-Quellen, die wir geprüft haben (6. November 2026)
+Offizielle Quellen
 
 - [UK Foreign Office: USA entry requirements](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements)
 - [UK Foreign Office: France entry requirements](https://www.gov.uk/foreign-travel-advice/france/entry-requirements)

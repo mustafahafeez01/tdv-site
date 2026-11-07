@@ -28,7 +28,7 @@ Existem duas configurações que são ambas vendidas como cópia de segurança e
 
 Uma envia o ficheiro para o servidor da empresa através de uma ligação encriptada, e depois guarda-o encriptado em repouso. As duas afirmações são verdadeiras, e ambas soam tranquilizadoras. Mas a empresa continua com a chave, por isso tem capacidade técnica para desencriptar os seus documentos, seja para uma funcionalidade, um pedido legal ou por um erro interno. A digitalização do seu passaporte é legível do outro lado.
 
-A outra configuração embaralha o ficheiro no seu telemóvel antes de ele ir para qualquer lado, usando uma chave derivada de algo que só o utilizador tem. O que chega ao armazenamento é um bloco de ruído, e ninguém do outro lado consegue lê-lo, porque ninguém do outro lado tem a chave. Isto é frequentemente descrito como encriptação de ponta a ponta, ou zero-knowledge.
+A outra configuração embaralha o ficheiro no seu telemóvel antes de ele ir para qualquer lado, usando uma chave derivada de algo que só o utilizador tem. O que chega ao armazenamento é um bloco de ruído, e ninguém do outro lado consegue lê-lo, porque ninguém do outro lado tem a chave. Isto é frequentemente descrito como [encriptação de ponta a ponta](https://csrc.nist.gov/glossary/term/end_to_end_encryption), ou zero-knowledge.
 
 Por isso a pergunta que vale a pena fazer a qualquer aplicação é curta: **quem tem a chave?** Tudo o resto no marketing decorre dessa resposta.
 
@@ -108,7 +108,7 @@ Nada disto é dramático, e essa é precisamente a ideia. As famílias que lidam
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 
-Fontes que verificámos (6 de novembro de 2026)
+Fontes oficiais
 
 - [NIST: end-to-end encryption glossary entry](https://csrc.nist.gov/glossary/term/end_to_end_encryption)
 

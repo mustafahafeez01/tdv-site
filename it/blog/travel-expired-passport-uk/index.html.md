@@ -48,25 +48,25 @@ Un rinnovo già in corso è una questione diversa, e dipende dal fatto che abbia
 
 ## Un passaporto scaduto si rinnova, non si ricomincia da zero
 
-Un passaporto scaduto si rinnova, non si ricomincia da zero. GOV.UK elenca il passaporto scaduto come uno dei due motivi per cui deve rinnovare prima di viaggiare, insieme al non avere abbastanza validità residua, quindi per la maggior parte delle persone il percorso è il normale servizio di rinnovo per adulti.
+Un passaporto scaduto si rinnova, non si ricomincia da zero. [GOV.UK](https://www.gov.uk/renew-adult-passport/renew) elenca il passaporto scaduto come uno dei due motivi per cui deve rinnovare prima di viaggiare, insieme al non avere abbastanza validità residua, quindi per la maggior parte delle persone il percorso è il normale servizio di rinnovo per adulti.
 
-L'eccezione riguarda i passaporti più vecchi. Se il suo ultimo passaporto britannico è stato rilasciato prima del 1° gennaio 1994, l'ufficio passaporti britannico (HM Passport Office) le chiede di fare domanda per un primo passaporto da adulto invece che per un rinnovo, quindi vale la pena controllare la data di rilascio prima di iniziare.
+L'eccezione riguarda i passaporti più vecchi. Se il suo ultimo passaporto britannico è stato rilasciato prima del 1° gennaio 1994, l'ufficio passaporti britannico (HM Passport Office) le chiede di [fare domanda per un primo passaporto da adulto](https://www.gov.uk/apply-first-adult-passport) invece che per un rinnovo, quindi vale la pena controllare la data di rilascio prima di iniziare.
 
 Può fare domanda online, che richiede una foto digitale, oppure su modulo cartaceo, che richiede due foto stampate identiche. In entrambi i casi dovrà inviare il vecchio passaporto insieme alla domanda. Se contiene un visto ancora valido, GOV.UK indica di inviare il passaporto con il visto allegato, e il vecchio passaporto le verrà restituito.
 
-Un dettaglio che coglie di sorpresa molti una volta arrivato il nuovo passaporto: ha un numero diverso. Per questo motivo GOV.UK sconsiglia di prenotare viaggi finché non ha in mano il nuovo passaporto, e qualsiasi cosa prenotata con il vecchio numero, come una prenotazione aerea o un'autorizzazione di viaggio per un altro paese, potrebbe dover essere aggiornata. La nostra guida su [come leggere le date del suo passaporto](https://traveldocumentvault.com/it/blog/how-to-read-your-passport-dates/) spiega cosa cambia con il rinnovo e cosa resta uguale.
+Un dettaglio che coglie di sorpresa molti una volta arrivato il nuovo passaporto: ha un numero diverso. Per questo motivo [GOV.UK](https://www.gov.uk/renew-adult-passport) sconsiglia di prenotare viaggi finché non ha in mano il nuovo passaporto, e qualsiasi cosa prenotata con il vecchio numero, come una prenotazione aerea o un'autorizzazione di viaggio per un altro paese, potrebbe dover essere aggiornata. La nostra guida su [come leggere le date del suo passaporto](https://traveldocumentvault.com/it/blog/how-to-read-your-passport-dates/) spiega cosa cambia con il rinnovo e cosa resta uguale.
 
 ## Viaggi nazionali: Flessibilità limitata con documenti di identità alternativi
 
 I viaggi nazionali all'interno del Regno Unito e dell'Irlanda differiscono dai viaggi internazionali in questo aspetto fondamentale: le compagnie aeree possono accettare documenti di identità fotografica alternativi come una patente di guida britannica o una carta d'identità nazionale al posto del passaporto. Tuttavia, ciò che è accettabile varia significativamente da compagnia a compagnia e destinazione, quindi non può presumere che un particolare documento di identità funzionerà.
 
-**Questo non è un permesso per saltare il rinnovo del passaporto.** Diverse compagnie aeree hanno diverse politiche sulle rotte nazionali — alcune richiedono un passaporto per tutti i viaggi verso l'Irlanda anche se l'Area di circolazione comune tecnicamente consente viaggi con documento d'identità, mentre altre accettano una patente di guida. Le compagnie aeree aggiornano le loro regole, e la sua compagnia potrebbe aver cambiato le sue dal suo ultimo volo, quindi non può presumere che ciò che ha funzionato prima.
+**Questo non è un permesso per saltare il rinnovo del passaporto.** Diverse compagnie aeree hanno diverse politiche sulle rotte nazionali — alcune richiedono un passaporto per tutti i viaggi verso l'Irlanda anche se l'[Area di circolazione comune](https://www.gov.uk/foreign-travel-advice/ireland/entry-requirements) tecnicamente consente viaggi con documento d'identità, mentre altre accettano una patente di guida. Le compagnie aeree aggiornano le loro regole, e la sua compagnia potrebbe aver cambiato le sue dal suo ultimo volo, quindi non può presumere che ciò che ha funzionato prima.
 
 Se sta considerando un viaggio nazionale con un passaporto scaduto, contatti la sua compagnia aerea con sufficiente anticipo rispetto al suo volo e chieda esplicitamente: "Il mio passaporto del Regno Unito è scaduto. Accetterà la mia patente di guida del Regno Unito invece?". Ottenga una conferma scritta se possibile, poiché arrivare al check-in con un documento d'identità alternativo senza conferma precedente è come perdere il volo.
 
 ## Rinnovo d'emergenza: servizio Premium, se riesce a ottenere un appuntamento
 
-Se il suo viaggio è imminente e il suo passaporto è scaduto, l'Ufficio passaporti di Sua Maestà offre un servizio 1 Day Premium progettato proprio per questo scenario. GOV.UK indica che il primo appuntamento disponibile è 2 giorni dopo la richiesta, e il nuovo passaporto è pronto per il ritiro 4 ore dopo l'appuntamento. HM Passport Office pubblica la tariffa attuale su gov.uk, che copre insieme appuntamento e rinnovo invece di sommarsi alla tariffa standard. Ottiene il passaporto molto più velocemente rispetto al percorso standard, anche se la rapidità esatta dipende dall'appuntamento disponibile. Si noti che il servizio 1 Day Premium è riservato ai rinnovi per adulti, non ai primi passaporti per adulti.
+Se il suo viaggio è imminente e il suo passaporto è scaduto, l'Ufficio passaporti di Sua Maestà offre un servizio 1 Day Premium progettato proprio per questo scenario. [GOV.UK](https://www.gov.uk/get-a-passport-urgently) indica che il primo appuntamento disponibile è 2 giorni dopo la richiesta, e il nuovo passaporto è pronto per il ritiro 4 ore dopo l'appuntamento. HM Passport Office pubblica la tariffa attuale su gov.uk, che copre insieme appuntamento e rinnovo invece di sommarsi alla tariffa standard. Ottiene il passaporto molto più velocemente rispetto al percorso standard, anche se la rapidità esatta dipende dall'appuntamento disponibile. Si noti che il servizio 1 Day Premium è riservato ai rinnovi per adulti, non ai primi passaporti per adulti.
 
 Questo è il percorso ufficiale di emergenza per i vincoli di viaggio genuini. HM Passport Office pubblica il suo tempo di elaborazione standard attuale su gov.uk, ed è utile controllarlo prima di supporre di avere tempo di attesa. Quando un viaggio genuinamente non può attendere, l'opzione Premium rimuove l'incertezza.
 
@@ -92,7 +92,7 @@ Questo si applica indipendentemente dal fatto che il suo passaporto sia scaduto 
 
 ## Se è già all'estero e il suo passaporto scade
 
-Questo è lo scenario genuinamente difficile. Se sta viaggiando e il suo passaporto scade prima del suo ritorno, non può imbarcarsi su un volo o un traghetto per tornare a casa. Avrà bisogno di contattare l'ambasciata o il consolato britannico più vicino per un documento di viaggio d'emergenza — a volte chiamato ETD o passaporto d'emergenza — che è generalmente valido per un singolo viaggio di sola andata o di andata e ritorno, attraverso un massimo di cinque paesi.
+Questo è lo scenario genuinamente difficile. Se sta viaggiando e il suo passaporto scade prima del suo ritorno, non può imbarcarsi su un volo o un traghetto per tornare a casa. Avrà bisogno di contattare l'ambasciata o il consolato britannico più vicino per un [documento di viaggio d'emergenza](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport) — a volte chiamato ETD o passaporto d'emergenza — che è generalmente valido per un singolo viaggio di sola andata o di andata e ritorno, attraverso un massimo di cinque paesi.
 
 Il processo è lento e burocratico. Avrà bisogno di fornire una prova di identità e pagare la tariffa, il cui importo attuale è pubblicato dal Foreign, Commonwealth and Development Office. Il tempo di elaborazione varia in base all'ambasciata e all'urgenza della sua situazione, quindi chieda cosa aspettarsi non appena li contatta.
 
@@ -110,7 +110,7 @@ Il modo più semplice per evitare tutto questo: tiri fuori oggi il passaporto e 
 
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 
-Fonti che abbiamo verificato (6 novembre 2026)
+Fonti ufficiali
 
 - [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)
 - [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)

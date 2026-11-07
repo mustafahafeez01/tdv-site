@@ -26,7 +26,7 @@ De grootste fout die reizigers maken, is het boekingsmoment als administratief b
 
 **Controleer je paspoorten voordat je betaalt**
 
-Voordat je een boeking bevestigt, controleer het paspoort van elke reiziger aan drie criteria: geldigheid (voldoet het aan de eisen van de bestemming, veel landen willen op de dag van aankomst nog zes maanden geldigheid, enkele landen rekenen vanaf vertrek, dus check je bestemming, zoals uitgelegd in onze [gids over de 6 maanden-paspoortregel](https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/)), naam die overeenkomt (de naam op het paspoort moet exact overeenkomen met de boekingsnaam), en lege pagina's (sommige landen eisen minstens twee lege visumpagina's voor inreisstempels).
+Voordat je een boeking bevestigt, controleer het paspoort van elke reiziger aan drie criteria: geldigheid (voldoet het aan de eisen van de bestemming, veel landen willen op de dag van aankomst nog [zes maanden geldigheid](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), enkele landen rekenen vanaf vertrek, dus check je bestemming, zoals uitgelegd in onze [gids over de 6 maanden-paspoortregel](https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/)), naam die overeenkomt (de naam op het paspoort moet exact overeenkomen met de boekingsnaam), en lege pagina's (sommige landen eisen [minstens twee lege visumpagina's](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements) voor inreisstempels).
 
 **Controleer je visumvereisten**
 
@@ -42,7 +42,7 @@ Boek je reisverzekering wanneer je je vluchten boekt, niet een week voor vertrek
 
 Op dit moment heb je nog tijd om dingen op te lossen. Verwerkingstijden veranderen, en de paspoortinstantie van jouw land publiceert haar eigen actuele cijfer. Controleer altijd de officiële website voor actuele tijden voordat je aanvraagt.
 
-Wij zouden elk paspoort dat binnen 12 maanden verloopt nu verlengen. Paspoorten van kinderen verlopen sneller (Britse kinderpaspoorten gelden 5 jaar, tegenover 10 voor volwassenen, en verscheidene andere landen werken net zo), en ouders missen dit vaak. Voor aanvragers in Nieuw-Zeeland, controleer de New Zealand Passport Office voor actuele verwerkingstijden.
+Wij zouden elk paspoort dat binnen 12 maanden verloopt nu verlengen. Paspoorten van kinderen verlopen sneller ([Britse kinderpaspoorten gelden 5 jaar](https://www.gov.uk/get-a-child-passport), tegenover 10 voor volwassenen, en verscheidene andere landen werken net zo), en ouders missen dit vaak. Voor aanvragers in Nieuw-Zeeland, controleer de New Zealand Passport Office voor actuele verwerkingstijden.
 
 Dien visumaanvragen in die voorbereidingstijd nodig hebben, en controleer bij de uitgevende instantie hoe lang het momenteel duurt. Bereid ondersteunende documenten voor: bankafschriften, bevestigingen van accommodatie, bewijs van doorreis. Boek indien nodig van tevoren een afspraak voor biometrie.
 
@@ -113,7 +113,7 @@ Staat een reis al geboekt, dan is het enige dat je vandaag echt moet doen: pak e
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 
-Bronnen die we hebben gecontroleerd (6 november 2026)
+Officiële bronnen
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
@@ -138,7 +138,7 @@ Ja. De paspoortgeldigheid, visumvereisten, en verzekeringsdekking van elke perso
 
 ### Wat is een toestemmingsverklaring voor kinderen en heb ik er een nodig?
 
-Een toestemmingsverklaring voor kinderen is een ondertekend document van de afwezige ouder dat toestemming geeft voor de reis van het kind. Sommige landen, waaronder Zuid-Afrika, stellen extra eisen aan kinderen die met één ouder reizen, en de Canadese autoriteiten raden een ondertekende toestemmingsverklaring aan. Zonder deze verklaring kun je extra vragen of vertragingen krijgen. De brief moet de gegevens van het kind bevatten, de contactgegevens van beide ouders, reisdata, bestemmingen, en de handtekening van de afwezige ouder.
+Een toestemmingsverklaring voor kinderen is een ondertekend document van de afwezige ouder dat toestemming geeft voor de reis van het kind. Sommige landen, waaronder [Zuid-Afrika](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements), stellen extra eisen aan kinderen die met één ouder reizen, en de [Canadese autoriteiten](https://travel.gc.ca/travelling/children/consent-letter) raden een ondertekende toestemmingsverklaring aan. Zonder deze verklaring kun je extra vragen of vertragingen krijgen. De brief moet de gegevens van het kind bevatten, de contactgegevens van beide ouders, reisdata, bestemmingen, en de handtekening van de afwezige ouder.
 
 ### Welke documenten moet ik toegankelijk houden op de luchthaven en niet in de ruimbagage?
 

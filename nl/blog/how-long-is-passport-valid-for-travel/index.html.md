@@ -16,13 +16,13 @@ Source: https://traveldocumentvault.com/nl/blog/how-long-is-passport-valid-for-t
 - Paspoorten van kinderen verlopen sneller dan die van ouders – **controleer elk paspoort in het gezelschap afzonderlijk** voordat je boekt, niet alleen je eigen paspoort.
 - De praktische verlengingsgrens is **12 maanden resterende geldigheid**, niet de vervaldatum zelf.
 
-Zeven maanden geldigheid over op je paspoort klinkt als ruim voldoende. Je boekt de vluchten, checkt de bagagevrijstelling, begint naar hotels te kijken. Dan sta je bij de incheckbalie voor je vlucht naar Bangkok en aarzelt de medewerker: Thailand vereist dat je paspoort minstens 6 maanden geldig is op de dag van aankomst, en je komt twee weken tekort. Je mag niet instappen.
+Zeven maanden geldigheid over op je paspoort klinkt als ruim voldoende. Je boekt de vluchten, checkt de bagagevrijstelling, begint naar hotels te kijken. Dan sta je bij de incheckbalie voor je vlucht naar Bangkok en aarzelt de medewerker: [Thailand vereist](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements) dat je paspoort minstens 6 maanden geldig is op de dag van aankomst, en je komt twee weken tekort. Je mag niet instappen.
 
 Het is een van de meest verkeerd begrepen regels in het reizen, omdat een paspoort dat niet is verlopen alsnog kan falen bij de inreisvereisten van tientallen populaire bestemmingen. Begrijpen hoe de geldigheidsmaanden van een paspoort werkelijk geteld worden, kan je een erg dure vergissing besparen.
 
 ## Paspoorten van volwassenen gaan veel langer mee dan die van kinderen
 
-De standaardgeldigheid voor een paspoort van een volwassene is in de meeste landen 10 jaar vanaf de afgiftedatum. Paspoorten van kinderen verlopen eerder – doorgaans na 5 jaar. Wij checken het paspoort van een kind eerder dan dat van wie dan ook, omdat iedereen er zomaar van uitgaat dat dat wel goed zit.
+De standaardgeldigheid voor een paspoort van een volwassene is in de meeste landen 10 jaar vanaf de afgiftedatum. Paspoorten van kinderen verlopen eerder – doorgaans na [5 jaar](https://www.gov.uk/get-a-child-passport). Wij checken het paspoort van een kind eerder dan dat van wie dan ook, omdat iedereen er zomaar van uitgaat dat dat wel goed zit.
 
 | Land | Geldigheid volwassene | Geldigheid kind |
 |---|---|---|
@@ -72,7 +72,7 @@ Een kind van 3 jaar dat in 2023 zijn eerste paspoort kreeg, heeft een document d
 Het praktische antwoord: zodra je onder de 12 maanden resterende geldigheid zakt, en niet pas wanneer het bijna verloopt. Dit is waarom 12 maanden de juiste grens is, en niet de vervaldatum zelf:
 
 - Het geeft je een volledige marge van 6 maanden voor elke bestemming die de regel hanteert.
-- Het verlengen van een paspoort kost tijd, en de verwerkingstijden veranderen – HM Passport Office raadt af om reizen te boeken voordat het nieuwe paspoort is aangekomen, en zowel HM Passport Office als het Amerikaanse ministerie van Buitenlandse Zaken publiceren hun actuele verwerkingstijden. Begin je met nog maar 6 maanden geldigheid, dan blijft er weinig marge over.
+- Het verlengen van een paspoort kost tijd, en de verwerkingstijden veranderen – HM Passport Office [raadt af om reizen te boeken](https://www.gov.uk/renew-adult-passport) voordat het nieuwe paspoort is aangekomen, en zowel HM Passport Office als het Amerikaanse ministerie van Buitenlandse Zaken publiceren hun actuele verwerkingstijden. Begin je met nog maar 6 maanden geldigheid, dan blijft er weinig marge over.
 - Last-minute plannen komen voor. Een paspoort met nog 14 maanden geldigheid houdt alle bestemmingen open. Een paspoort met nog 5 maanden sluit een groot deel van de wereld uit.
 
 De meest gemaakte fout is het instellen van een herinnering op de vervaldatum zelf. Op dat moment kun je al niet meer naar de meeste bestemmingen reizen die de 6-maandenregel hanteren.
@@ -83,7 +83,7 @@ Lees je ook onze gids over [hoe lang een paspoortverlenging duurt](https://trave
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 
-Bronnen die we hebben gecontroleerd (6 november 2026)
+Officiële bronnen
 
 - [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
 - [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)

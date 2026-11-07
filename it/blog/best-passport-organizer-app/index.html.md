@@ -39,7 +39,7 @@ Una violazione di un'app sul dispositivo non fa trapelare nulla dai loro server 
 
 ### Il tempo di preavviso è l'impostazione da personalizzare
 
-Questa è la singola funzionalità più preziosa. Un promemoria a 6 mesi è il minimo — molti paesi richiedono che il passaporto sia valido per almeno 6 mesi oltre le date di viaggio, come spiegato nel nostro articolo sulla [regola dei 6 mesi del passaporto](https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/). I passaporti dei bambini durano spesso 5 anni anziché 10 (quello britannico, ad esempio, è valido per 5 anni), quindi un promemoria precedente — diciamo 9 mesi — dà un tempo di pianificazione più confortevole.
+Questa è la singola funzionalità più preziosa. Un promemoria a 6 mesi è il minimo — molti paesi richiedono che il passaporto sia valido per almeno 6 mesi oltre le date di viaggio, come spiegato nel nostro articolo sulla [regola dei 6 mesi del passaporto](https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/). I passaporti dei bambini durano spesso 5 anni anziché 10 ([quello britannico](https://www.gov.uk/get-a-child-passport), ad esempio, è valido per 5 anni), quindi un promemoria precedente — diciamo 9 mesi — dà un tempo di pianificazione più confortevole.
 
 ### Una sola app può contenere tutta la famiglia, in sicurezza
 
@@ -104,7 +104,7 @@ Apri l'app che stai davvero valutando e confrontala con questa lista prima di sc
 
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 
-Fonti che abbiamo verificato (6 novembre 2026)
+Fonti ufficiali
 
 - [UK Foreign Office: Indonesia entry requirements](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements)
 - [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)

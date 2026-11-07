@@ -30,7 +30,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/passport-expired-what-to-do
 - **出行前时间充裕：**通过护照部门官网在线申请标准更新。英国用GOV.UK，美国用travel.state.gov。
 - **出行日期临近：**立即申请，支付加急处理费用。英国和美国都在线提供更快的付费服务，并各自公开当前所需时间。
 - **出行时间紧迫：**不要仅仅依赖网站，直接致电护照部门。英国联系HM Passport Office咨询专线，美国联系National Passport Information Center。
-- **出行迫在眉睫：**咨询紧急预约事宜，并带上出行日期证明。英国的"1 Day Premium"服务（仅限成人更新）最早可在申请后2天预约，预约后4小时即可取护照；美国则在travel.state.gov公布其紧急出行选项。
+- **出行迫在眉睫：**咨询紧急预约事宜，并带上出行日期证明。英国的"[1 Day Premium](https://www.gov.uk/get-a-passport-urgently)"服务（仅限成人更新）最早可在申请后2天预约，预约后4小时即可取护照；美国则在travel.state.gov公布其紧急出行选项。
 
 如果你的时间很紧，**我们一定会打电话，而不是只相信网站。**
 
@@ -56,7 +56,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/passport-expired-what-to-do
 
 ### 英国：过期护照走正常续签流程
 
-英国政府网站GOV.UK说明，如果你的护照已经过期，或剩余有效期不足以覆盖目的地的要求，你必须在出行前完成续签。过期护照走标准续签流程，可以在线办理也可以用纸质表格，办理时需要用到你的旧护照。成人护照适用于16岁及以上人群，儿童护照则有专属的办理流程。
+英国政府网站[GOV.UK](https://www.gov.uk/renew-adult-passport/renew)说明，如果你的护照已经过期，或剩余有效期不足以覆盖目的地的要求，你必须在出行前完成续签。过期护照走标准续签流程，可以在线办理也可以用纸质表格，办理时需要用到你的旧护照。成人护照适用于16岁及以上人群，儿童护照则有专属的办理流程。
 
 ### 美国：签发15年内才能续签
 
@@ -64,7 +64,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/passport-expired-what-to-do
 
 ### 加拿大：过期护照可以在线续签
 
-如果你上一本护照是在你至少16岁时签发的成人护照，加拿大政府就允许你续签。该护照还必须是在你申请当日往前数15年之内签发的，且有效期为5年或10年。只要你的住址和邮寄地址都在加拿大境内，就可以在护照即将在六个月内过期或已经过期的情况下在线续签。儿童护照不能续签，儿童需要提交全新申请。
+如果你上一本护照是在你至少16岁时签发的成人护照，[加拿大政府](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html)就允许你续签。该护照还必须是在你申请当日往前数15年之内签发的，且有效期为5年或10年。只要你的住址和邮寄地址都在加拿大境内，就可以在护照即将在六个月内过期或已经过期的情况下[在线续签](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport/submit-form-fees/renew-online.html)。儿童护照不能续签，儿童需要提交全新申请。
 
 如果你的护照已经过期多年，首先要看的是签发日期，因为美国和加拿大的15年上限是从签发日起算，而不是从过期日起算。接下来，在预订行程前先查一下目前的办理周期，我们关于[护照更新需要多长时间](https://traveldocumentvault.com/zh-Hans/blog/how-long-does-passport-renewal-take/)的指南按国家逐一说明了这一点。
 
@@ -110,7 +110,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/passport-expired-what-to-do
 
 **在依据本文行动之前：**这是一个博客，不是官方来源。规则和细节会变化，你的情况也可能不同。我们会核对所发布的内容，但仍可能出错或过时。如果这里的内容对你的安排很重要，请在行动前向主管机构核实。
 
-我们核对过的资料来源（2026年11月6日）
+官方资料来源
 
 - [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
 - [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)

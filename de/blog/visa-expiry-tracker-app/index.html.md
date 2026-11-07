@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/de/blog/visa-expiry-tracker-app/
 - Schengen-Besucher müssen ein rollierendes 90/180-Tage-Fenster verfolgen, nicht nur ein einzelnes Ablaufdatum, weil die Zählung mit Ihrer tatsächlichen Reisehistorie mitläuft, nicht mit dem Kalender.
 - Die gemeinsame Nachverfolgung von Visummen und Pässen an einem Ort reduziert das Risiko eines Mismatchs: Einreise mit gültigem Visum, aber mit einem Passstatus, der vor Ende Ihres geplanten Aufenthalts abläuft.
 
-Eine Visumsüberschreitung ist einer der folgenreichsten Reisefehler, den eine Person machen kann. Im Gegensatz zu einem verpassten Flug – stressig, aber letztendlich behebbar – erzeugt eine Überschreitung einen offiziellen Einwanderungsdatensatz, der Sie jahrelang verfolgen kann. In den Vereinigten Staaten darf, wer sich nach Abschnitt 212(a)(9)(B) des US Immigration and Nationality Act mehr als 180 Tage, aber weniger als ein Jahr unrechtmäßig aufgehalten hat und dann ausreist, in der Regel drei Jahre nicht zurückkehren; bei einem Jahr oder mehr unrechtmäßigem Aufenthalt gilt in der Regel eine zehnjährige Sperre. Diese Konsequenzen sind nicht weit verbreitet.
+Eine Visumsüberschreitung ist einer der folgenreichsten Reisefehler, den eine Person machen kann. Im Gegensatz zu einem verpassten Flug – stressig, aber letztendlich behebbar – erzeugt eine Überschreitung einen offiziellen Einwanderungsdatensatz, der Sie jahrelang verfolgen kann. In den Vereinigten Staaten darf, wer sich nach Abschnitt 212(a)(9)(B) des [US Immigration and Nationality Act](https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chap12-subchapII-partII-sec1182.htm) mehr als 180 Tage, aber weniger als ein Jahr unrechtmäßig aufgehalten hat und dann ausreist, in der Regel drei Jahre nicht zurückkehren; bei einem Jahr oder mehr unrechtmäßigem Aufenthalt gilt in der Regel eine zehnjährige Sperre. Diese Konsequenzen sind nicht weit verbreitet.
 
 Eine Visa-Ablauf-Tracker-App soll genau das verhindern: Sie muss mehrere Daten gleichzeitig überwachen – Einreisegültigkeit, maximale Aufenthaltsdauer und Einreisezahl –, jedes davon eine eigene Frist.
 
@@ -51,7 +51,7 @@ Die Folgen einer Visumsüberschreitung sind je nach Land unterschiedlich, aber d
 
 - **Vereinigtes Königreich:** Überschreitungen werden aufgezeichnet und beeinflussen zukünftige Visamanträge. Das UK Home Office berücksichtigt Überschreitungen bei der Beurteilung der Glaubwürdigkeit und kann nachfolgende Anträge ablehnen.
 - **Australien:** Visumsüberschreitung kann zu Einschränkungen bei zukünftigen Visaanträgen und Entfernung aus dem Land führen. Gemäß Migration Act 1958 werden Überschreitungsaufzeichnungen nachverfolgt und beeinflussen zukünftige Visaanträge und die Wiedereinreiseberechtigung.
-- **Schengen-Raum:** Aufenthalte werden an der Grenze erfasst, und ein von einem Schengen-Land erlassenes Einreiseverbot wird in der Regel über das Schengen-Informationssystem mit den anderen geteilt und gilt daher im gesamten Schengen-Raum, den die Europäische Kommission derzeit mit 29 Ländern angibt.
+- **Schengen-Raum:** Aufenthalte werden an der Grenze erfasst, und ein von einem Schengen-Land erlassenes Einreiseverbot wird in der Regel über das [Schengen-Informationssystem](https://home-affairs.ec.europa.eu/policies/schengen/schengen-information-system/what-sis-and-how-does-it-work_en) mit den anderen geteilt und gilt daher im gesamten Schengen-Raum, den [die Europäische Kommission derzeit mit 29 Ländern angibt](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en).
 - **Thailand:** Überschreitungen ziehen eine von der thailändischen Einwanderungsbehörde festgelegte Tagesstrafe bis zu einer gedeckelten Obergrenze nach sich und eine Überschreitung von mehr als 90 Tagen kann zu Abschiebung und einem Einreiseverbot führen.
 
 In allen Fällen folgt der Überschreitungsdatensatz Ihnen typischerweise: Er taucht in Einwanderungsdatenbanken auf, die bei zukünftigen Grenzübergängen und Visaanträgen überprüft werden.
@@ -80,7 +80,7 @@ Prüfen Sie heute das Ablaufdatum Ihres Passes gegen Ihre Visumdaten: Auch ein g
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 
-Quellen, die wir geprüft haben (6. November 2026)
+Offizielle Quellen
 
 - [US Code: Title 8, section 1182](https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chap12-subchapII-partII-sec1182.htm)
 - [European Commission: Schengen area](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en)

@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/da/blog/visa-expiry-tracker-app/
 - Rejsende i Schengenområdet skal overvåge et glidende 90/180-dages-vindue, ikke bare én enkelt udløbsdato, fordi optællingen glider med din faktiske rejsehistorik, ikke med kalenderen.
 - At overvåge visa og pas samlet ét sted mindsker risikoen for en fejlmatch: at rejse ind på et gyldigt visum, men med et pas, der udløber, før det planlagte ophold er slut.
 
-En overstay på et visum er en af de mest vidtrækkende rejsefejl, man kan begå. I modsætning til et missed fly – stressende, men i sidste ende til at rette op på – efterlader en overstay et formelt indvandringsregister, der kan følge dig i årevis. I USA er den, der opholder sig ulovligt i mere end 180 dage, men under et år, og derefter forlader landet, som regel udelukket fra at vende tilbage i tre år, jf. afsnit 212(a)(9)(B) i den amerikanske Immigration and Nationality Act, og et års ulovligt ophold eller mere betyder som regel et ti-årigt forbud. Disse konsekvenser er ikke bredt kendte.
+En overstay på et visum er en af de mest vidtrækkende rejsefejl, man kan begå. I modsætning til et missed fly – stressende, men i sidste ende til at rette op på – efterlader en overstay et formelt indvandringsregister, der kan følge dig i årevis. I USA er den, der opholder sig ulovligt i mere end 180 dage, men under et år, og derefter forlader landet, som regel udelukket fra at vende tilbage i tre år, jf. afsnit 212(a)(9)(B) i den amerikanske [Immigration and Nationality Act](https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chap12-subchapII-partII-sec1182.htm), og et års ulovligt ophold eller mere betyder som regel et ti-årigt forbud. Disse konsekvenser er ikke bredt kendte.
 
 En app til visumovervågning er lavet til at forhindre netop dette: den skal holde øje med flere datoer på én gang, indrejsegyldighed, maksimal opholdstid og antal indrejser, som hver er en separat frist.
 
@@ -43,7 +43,7 @@ En overvågning, der kun følger indrejsens gyldighedsdato, misser netop denne f
 
 For rejsende, der besøger flere europæiske lande, er Schengenområdets 90/180-dages-regel en af de mest misforståede indrejsebetingelser inden for international rejse. Statsborgere fra lande med visumfri adgang til Schengen (heriblandt Storbritannien, USA, Canada og Australien, blandt mange andre) må opholde sig højst 90 dage i Schengenområdet inden for et glidende vindue på 180 dage.
 
-EU-Kommissionen tilbyder en officiel Schengen-opholdsberegner, der hjælper rejsende med at regne deres tilladte dage ud, hvilket betyder noget, fordi der er tale om et *glidende vindue*, ikke en nulstilling hvert kalenderår. Dage tilbragt i Schengen for seks måneder siden tæller stadig med i dit nuværende loft, så et tjek af én enkelt udløbsdato fanger ikke en overstay. Det, der tæller, er din faktiske ind- og udrejsehistorik, ikke datoen, der står printet på visummet.
+EU-Kommissionen tilbyder en officiel [Schengen-opholdsberegner](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en), der hjælper rejsende med at regne deres tilladte dage ud, hvilket betyder noget, fordi der er tale om et *glidende vindue*, ikke en nulstilling hvert kalenderår. Dage tilbragt i Schengen for seks måneder siden tæller stadig med i dit nuværende loft, så et tjek af én enkelt udløbsdato fanger ikke en overstay. Det, der tæller, er din faktiske ind- og udrejsehistorik, ikke datoen, der står printet på visummet.
 
 ## Hvad der sker, når du laver en overstay
 
@@ -51,7 +51,7 @@ Konsekvenserne af en visumoverstay varierer fra land til land, men er konsekvent
 
 - **Storbritannien:** Overstays registreres og påvirker fremtidige visumansøgninger. Det britiske indenrigsministerium (Home Office) inddrager overstays, når det vurderer troværdighed, og kan afvise senere ansøgninger.
 - **Australien:** En overstay kan medføre begrænsninger på fremtidige visumansøgninger og udsendelse af landet. Efter Migration Act 1958 registreres overstays og påvirker fremtidige visumansøgninger og mulighed for genindrejse.
-- **Schengenområdet:** Ophold registreres ved grænsen, og et indrejseforbud udstedt af ét Schengenland deles som regel med de andre gennem Schengen-informationssystemet (SIS), så det gælder i hele Schengenområdet, som EU-Kommissionen i øjeblikket opregner til 29 lande.
+- **Schengenområdet:** Ophold registreres ved grænsen, og et indrejseforbud udstedt af ét Schengenland deles som regel med de andre gennem [Schengen-informationssystemet](https://home-affairs.ec.europa.eu/policies/schengen/schengen-information-system/what-sis-and-how-does-it-work_en) (SIS), så det gælder i hele Schengenområdet, som [EU-Kommissionen i øjeblikket opregner til 29 lande](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en).
 - **Thailand:** Overstays medfører en daglig bøde fastsat af de thailandske indvandringsmyndigheder, op til et maksimum, og en overstay på mere end 90 dage kan medføre udvisning og forbud mod at vende tilbage.
 
 I alle tilfælde følger overstay-registreringen dig typisk med: den fremgår af indvandringsdatabaser, der tjekkes ved fremtidige grænseovergange og visumansøgninger.
@@ -80,7 +80,7 @@ Tjek i dag dit pas' udløbsdato mod dine visumdatoer: selv et gyldigt visum får
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 
-Kilder vi har tjekket (6. november 2026)
+Officielle kilder
 
 - [US Code: Title 8, section 1182](https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chap12-subchapII-partII-sec1182.htm)
 - [European Commission: Schengen area](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en)

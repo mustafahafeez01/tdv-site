@@ -30,15 +30,15 @@ C'est dans l'espace Schengen que cette flexibilité compte le plus. En tant que 
 
 ## Ce qui compte comme carte d'identité nationale de l'EEE
 
-Quand un formulaire de réservation ou un agent d'enregistrement vous demande une « carte d'identité nationale de l'EEE », il s'agit de la carte d'identité que votre propre pays délivre à ses citoyens, celle qui indique votre nationalité. L'EEE regroupe les 27 pays de l'UE plus l'Islande, le Liechtenstein et la Norvège ; la Suisse n'en fait pas partie, mais les conseils Your Europe de la Commission européenne confirment que les citoyens de l'UE peuvent aussi s'y rendre avec une carte d'identité nationale.
+Quand un formulaire de réservation ou un agent d'enregistrement vous demande une « carte d'identité nationale de l'EEE », il s'agit de la carte d'identité que votre propre pays délivre à ses citoyens, celle qui indique votre nationalité. L'EEE regroupe les 27 pays de l'UE plus l'Islande, le Liechtenstein et la Norvège ; la Suisse n'en fait pas partie, mais les [conseils Your Europe](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm) de la Commission européenne confirment que les citoyens de l'UE peuvent aussi s'y rendre avec une carte d'identité nationale.
 
-Une carte de résident indique où vous vivez, pas votre nationalité, donc elle voyage avec un passeport plutôt que de le remplacer. Le gouvernement britannique indique aux résidents britanniques en Espagne de présenter un justificatif de résidence, comme leur carte de résident TIE, en même temps que leur passeport au contrôle frontalier espagnol. Les permis de conduire, cartes bancaires et cartes fiscales ne comptent pas non plus, et Your Europe prévient qu'ils peuvent être refusés comme preuve d'identité.
+Une carte de résident indique où vous vivez, pas votre nationalité, donc elle voyage avec un passeport plutôt que de le remplacer. Le [gouvernement britannique](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements) indique aux résidents britanniques en Espagne de présenter un justificatif de résidence, comme leur carte de résident TIE, en même temps que leur passeport au contrôle frontalier espagnol. Les permis de conduire, cartes bancaires et cartes fiscales ne comptent pas non plus, et Your Europe prévient qu'ils peuvent être refusés comme preuve d'identité.
 
 La carte européenne actuelle se reconnaît facilement. Elle a la taille d'une carte bancaire, comporte une zone de lecture optique (les lignes de code qu'un scanner peut lire), et affiche le code à deux lettres du pays émetteur dans un rectangle bleu entouré de 12 étoiles jaunes au recto. Une puce à l'intérieur conserve votre photo et deux empreintes digitales.
 
-Les anciennes cartes sont celles qui posent problème. En vertu du règlement européen sur les cartes d'identité, une carte sans zone de lecture optique fonctionnelle, ou en dessous de la norme de sécurité minimale internationale, a cessé d'être valide au plus tard le 3 août 2026, même si la date imprimée est postérieure. La plupart des autres cartes à l'ancien format restent valides jusqu'à leur date d'expiration imprimée ou jusqu'au 3 août 2031, selon la date la plus proche. Si votre carte est antérieure au code entouré d'étoiles et n'a pas de zone de lecture optique, nous vous conseillons de la renouveler dès maintenant plutôt que de tenter votre chance à l'embarquement.
+Les anciennes cartes sont celles qui posent problème. En vertu du [règlement européen sur les cartes d'identité](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1157), une carte sans zone de lecture optique fonctionnelle, ou en dessous de la norme de sécurité minimale internationale, a cessé d'être valide au plus tard le 3 août 2026, même si la date imprimée est postérieure. La plupart des autres cartes à l'ancien format restent valides jusqu'à leur date d'expiration imprimée ou jusqu'au 3 août 2031, selon la date la plus proche. Si votre carte est antérieure au code entouré d'étoiles et n'a pas de zone de lecture optique, nous vous conseillons de la renouveler dès maintenant plutôt que de tenter votre chance à l'embarquement.
 
-Pour le Royaume-Uni, la carte ne fonctionne généralement pas. Le Royaume-Uni n'accepte généralement les cartes d'identité de l'UE, de l'EEE ou suisses que pour certaines catégories, comme les personnes bénéficiant du settled status ou du pre-settled status. Vérifiez sur GOV.UK avant un voyage au Royaume-Uni.
+Pour le Royaume-Uni, la carte ne fonctionne généralement pas. Le Royaume-Uni n'accepte généralement les cartes d'identité de l'UE, de l'EEE ou suisses que pour certaines catégories, comme les personnes bénéficiant du settled status ou du pre-settled status. Vérifiez sur [GOV.UK](https://www.gov.uk/guidance/visiting-the-uk-as-an-eu-eea-or-swiss-citizen) avant un voyage au Royaume-Uni.
 
 ## Quand il vous faut le passeport à la place
 
@@ -85,7 +85,7 @@ Ce qui aide, c'est d'avoir un seul endroit pour les deux documents, un outil qui
 
 Commencez dès aujourd'hui : sortez votre carte d'identité, vérifiez la date d'expiration et examinez-la à la recherche de fissures, de décoloration ou de plastique déformé. Si elle est limite, réservez le renouvellement avant de réserver le voyage.
 
-Sources vérifiées (6 novembre 2026)
+Sources officielles
 
 - [Your Europe (EU): Travel documents for EU nationals](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm)
 - [EU law: Regulation 2019/1157 on identity cards](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1157)

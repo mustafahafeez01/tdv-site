@@ -30,9 +30,9 @@ Source: https://traveldocumentvault.com/ko/blog/international-driving-permit-val
 
 ## 두 협약이 유효 기간과 사용 가능한 나라를 좌우합니다
 
-국제운전면허증의 근거가 되는 국제협약은 세 가지이며, 국가마다 하나 또는 여러 개에 가입했습니다. 실질적인 역할은 거의 두 협약이 담당합니다. 1949년 제네바협약과 1968년 비엔나협약입니다. 더 오래된 1926년 파리협약 허가증도 있으며, 일부 목적지에서는 여전히 이를 안내합니다. 허가증에 인쇄된 만료일을 확인하세요.
+국제운전면허증의 근거가 되는 [국제협약은 세 가지](https://www.gov.uk/driving-abroad/international-driving-permit)이며, 국가마다 하나 또는 여러 개에 가입했습니다. 실질적인 역할은 거의 두 협약이 담당합니다. 1949년 제네바협약과 1968년 비엔나협약입니다. 더 오래된 1926년 파리협약 허가증도 있으며, 일부 목적지에서는 여전히 이를 안내합니다. 허가증에 인쇄된 만료일을 확인하세요.
 
-1949년 제네바협약에 따라 발급된 허가증은 1년간 유효합니다. 1968년 비엔나협약에 따라 발급된 허가증은 최대 3년까지 유효할 수 있습니다.
+1949년 제네바협약에 따라 발급된 허가증은 [1년간 유효](https://travel.gc.ca/travelling/documents/international-driving-permit)합니다. 1968년 비엔나협약에 따라 발급된 허가증은 최대 3년까지 유효할 수 있습니다.
 
 이 구분은 두 가지 측면에서 중요합니다. 허가증의 유효 기간을 정할 뿐 아니라, 어느 나라에서 인정받는지도 결정합니다. 한 협약에만 비준한 국가는 다른 협약에 따라 발급된 허가증을 인정할 의무가 없습니다. 그래서 작년 여행에서는 문제없이 사용했던 허가증이 올해는 거부당하는 일이 생깁니다.
 
@@ -46,7 +46,7 @@ Source: https://traveldocumentvault.com/ko/blog/international-driving-permit-val
 
 ## '3년'이라지만 실제로는 아닌 허가증
 
-이 '3년'에는 지나치기 쉬운 조건이 하나 붙어 있습니다. 비엔나협약 허가증은 자국 운전면허증이 그보다 먼저 만료되면, 그 시점에 함께 만료됩니다.
+이 '3년'에는 지나치기 쉬운 조건이 하나 붙어 있습니다. 비엔나협약 허가증은 [자국 운전면허증이 그보다 먼저 만료되면, 그 시점에 함께 만료됩니다](https://treaties.un.org/doc/Treaties/1977/05/19770524%2000-13%20AM/Ch_XI_B_19.pdf).
 
 예를 들어 운전면허증이 14개월 후 만료되는 상태에서 3년짜리 허가증을 발급받았다고 해봅시다. 이 허가증은 14개월 동안만 실질적으로 쓸모가 있습니다. 표지에 인쇄된 날짜가 그 뒤에 있는 면허증보다 우선하지 않습니다.
 
@@ -68,7 +68,7 @@ Source: https://traveldocumentvault.com/ko/blog/international-driving-permit-val
 
 저희라면 이 순서로 확인하겠습니다. 허가증에 인쇄된 어떤 날짜보다도 운전면허증 만료일이 먼저입니다.
 
-**애초에 허가증이 필요한지 여부.** 일부 국가는 자국 운전면허증만으로도 인정하며, 요건을 정하는 곳은 면허증을 발급한 국가가 아니라 실제로 운전하는 국가입니다.
+**애초에 허가증이 필요한지 여부.** [일부 국가는 자국 운전면허증만으로도 인정](https://www.gov.uk/driving-abroad)하며, 요건을 정하는 곳은 면허증을 발급한 국가가 아니라 실제로 운전하는 국가입니다.
 
 **목적지 국가가 어느 협약을 인정하는지** 확인한 다음, 내 허가증을 그것과 대조해 보세요(어느 협약인지는 서류에 인쇄되어 있습니다).
 
@@ -102,7 +102,7 @@ Source: https://traveldocumentvault.com/ko/blog/international-driving-permit-val
 
 **이 글에 의존하기 전에:** 이 글은 블로그이며 공식 자료가 아닙니다. 규정과 세부 사항은 바뀌고, 여러분의 상황은 다를 수 있습니다. 저희는 게시하는 내용을 확인하지만 그래도 틀리거나 오래된 정보일 수 있습니다. 여기 적힌 내용이 계획에 중요하다면, 움직이기 전에 담당 기관에 확인하시기 바랍니다.
 
-확인한 출처 (2026년 11월 6일)
+공식 출처
 
 - [United Nations Treaty Collection: Convention on Road Traffic (1968)](https://treaties.un.org/doc/Treaties/1977/05/19770524%2000-13%20AM/Ch_XI_B_19.pdf)
 - [UK Government: driving abroad, international driving permits](https://www.gov.uk/driving-abroad/international-driving-permit)

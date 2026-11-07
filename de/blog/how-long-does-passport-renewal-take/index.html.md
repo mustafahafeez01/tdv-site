@@ -48,7 +48,7 @@ Das HM Passport Office veröffentlicht seine eigene aktuelle Bearbeitungszeit au
 
 ![Diagramm eines Antrags auf dem Weg zum fertigen Reisepass über sechs mögliche Verzögerungen: Namenswechsel, erster Erwachsenenreisepass, Antrag für ein Kind, verloren oder beschädigt, zusätzliche Prüfungen oder ein Interview, und Antrag aus dem Ausland](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/passport-renewal-timeline-de.jpg) Sechs Situationen bremsen einen Antrag aus. Eine unkomplizierte Erneuerung überspringt sie alle.
 
-Das Vereinigte Königreich bietet einen Service für digitale Erneuerungen für berechtigte Erwachsene, die von **Großbritannien aus** einen Antrag stellen. Wenn Sie berechtigt sind, müssen Sie Ihren alten Reisepass nicht einschicken, aber weiterhin ein Foto vorlegen, das die offiziellen Anforderungen erfüllt. Die Bewerbung erfolgt vollständig online. **Wenn Sie ein UK-Bürger sind, der im Ausland lebt** (ein Auswanderer), ist der digitale Dienst für Sie nicht verfügbar. Sie müssen den Auslandsdienst auf GOV.UK nutzen, den Sie für Anträge aus dem Ausland nutzen müssen. Für dringende Fälle bietet das HM Passport Office einen 1 Week Fast Track Service sowie, nur für Erneuerungen von Erwachsenen, einen 1 Day Premium Service mit Terminen ab 2 Tagen nach Antragstellung. Überprüfen Sie GOV.UK für den korrekten Dienst und die aktuelle Zahl für Ihre Situation, der Dienst fragt zu Beginn der Bewerbung nach Ihrem Standort.
+Das Vereinigte Königreich bietet einen Service für digitale Erneuerungen für berechtigte Erwachsene, die von **Großbritannien aus** einen Antrag stellen. Wenn Sie berechtigt sind, müssen Sie Ihren alten Reisepass nicht einschicken, aber weiterhin ein Foto vorlegen, das die offiziellen Anforderungen erfüllt. Die Bewerbung erfolgt vollständig online. **Wenn Sie ein UK-Bürger sind, der im Ausland lebt** (ein Auswanderer), ist der digitale Dienst für Sie nicht verfügbar. Sie müssen den Auslandsdienst auf GOV.UK nutzen, den Sie für Anträge aus dem Ausland nutzen müssen. Für dringende Fälle bietet das HM Passport Office einen 1 Week Fast Track Service sowie, nur für Erneuerungen von Erwachsenen, einen [1 Day Premium Service](https://www.gov.uk/get-a-passport-urgently) mit Terminen ab 2 Tagen nach Antragstellung. Überprüfen Sie GOV.UK für den korrekten Dienst und die aktuelle Zahl für Ihre Situation, der Dienst fragt zu Beginn der Bewerbung nach Ihrem Standort.
 
 Ein Namenswechsel, ein erster Erwachsenen-Reisepass oder eine Bewerbung, die zusätzliche Überprüfungen erfordert, dauert länger. Reisepässe für Kinder können den digitalen Service überhaupt nicht nutzen – sie durchlaufen nur das Standardverfahren. Überprüfen Sie vor der Antragstellung GOV.UK auf die aktuelle Zahl, die für Ihre Situation relevant ist.
 
@@ -62,7 +62,7 @@ Reisepass-Anträge für Kinder sind eine andere Geschichte. Sie sind komplexer u
 
 ## Wie lange dauert eine Reisepasserneuerung in Kanada?
 
-Immigration, Refugees and Citizenship Canada (IRCC) bietet eine Online-Erneuerung an, wenn Sie den Reisepass frühestens in 20 Werktagen benötigen; alle anderen nutzen das Papierverfahren. Für dringende Reisen gibt es persönliche Notfall- und Express-Optionen gegen eine zusätzliche Gebühr.
+Immigration, Refugees and Citizenship Canada (IRCC) bietet eine [Online-Erneuerung](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html) an, wenn Sie den Reisepass frühestens in 20 Werktagen benötigen; alle anderen nutzen das Papierverfahren. Für dringende Reisen gibt es persönliche Notfall- und Express-Optionen gegen eine zusätzliche Gebühr.
 
 Das macht den Prozess logistisch anspruchsvoller – besonders wenn Sie irgendwo ländlich leben und die nächste Behörde weit entfernt ist. Überprüfen Sie die IRCC-Seite auf die aktuellen Bearbeitungszeiten, bevor Sie einen Antrag stellen, und rechnen Sie bei postalischen Anträgen die Versandzeit in beide Richtungen mit ein.
 
@@ -103,7 +103,7 @@ Holen Sie heute Ihren eigenen Reisepass hervor und prüfen Sie, wie viele Monate
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 
-Quellen, die wir geprüft haben (6. November 2026)
+Offizielle Quellen
 
 - [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
 - [Government of Canada: Renew an adult passport](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html)

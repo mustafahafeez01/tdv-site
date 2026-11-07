@@ -26,7 +26,7 @@ El mayor error que cometen los viajeros es tratar el momento de la reserva como 
 
 **Verifica tus pasaportes antes de pagar**
 
-Antes de confirmar cualquier reserva, verifica el pasaporte de cada viajero contra tres criterios: validez (¿cumple los requisitos del destino —muchos países piden seis meses de validez el día de tu llegada y unos pocos cuentan desde la salida, así que comprueba tu destino, como se explica en nuestra [guía sobre la regla de los 6 meses de pasaporte](https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/)), coincidencia de nombre (el nombre del pasaporte debe coincidir exactamente con el nombre de la reserva) y páginas en blanco (algunos países requieren al menos dos páginas de visado en blanco para los sellos de entrada).
+Antes de confirmar cualquier reserva, verifica el pasaporte de cada viajero contra tres criterios: validez (¿cumple los requisitos del destino —muchos países piden [seis meses de validez el día de tu llegada](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements) y unos pocos cuentan desde la salida, así que comprueba tu destino, como se explica en nuestra [guía sobre la regla de los 6 meses de pasaporte](https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/)), coincidencia de nombre (el nombre del pasaporte debe coincidir exactamente con el nombre de la reserva) y páginas en blanco (algunos países requieren [al menos dos páginas de visado en blanco](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements) para los sellos de entrada).
 
 **Verifica tus requisitos de visado**
 
@@ -42,7 +42,7 @@ Reserva el seguro de viaje cuando reservas vuelos, no una semana antes de la sal
 
 En este punto todavía tienes tiempo para arreglarlo. Los tiempos de renovación cambian, y la autoridad de pasaportes de tu país publica su propia cifra actualizada. Siempre verifica el sitio oficial para los tiempos actuales antes de solicitar.
 
-Renovaríamos ahora cualquier pasaporte que caduque dentro de 12 meses. Los pasaportes de niños caducan más rápido (los pasaportes infantiles británicos duran 5 años, frente a 10 los de adultos, y varios otros países funcionan igual) y los padres frecuentemente pierden la ventana. Para solicitantes de Nueva Zelanda, verifica la Oficina de Pasaportes de Nueva Zelanda para plazos actuales.
+Renovaríamos ahora cualquier pasaporte que caduque dentro de 12 meses. Los pasaportes de niños caducan más rápido ([los pasaportes infantiles británicos duran 5 años](https://www.gov.uk/get-a-child-passport), frente a 10 los de adultos, y varios otros países funcionan igual) y los padres frecuentemente pierden la ventana. Para solicitantes de Nueva Zelanda, verifica la Oficina de Pasaportes de Nueva Zelanda para plazos actuales.
 
 Presenta cualquier solicitud de visado que necesite tiempo de tramitación, y consulta con la autoridad emisora cuánto tarda actualmente. Prepara documentos de apoyo: extractos bancarios, confirmaciones de alojamiento, prueba de viaje futuro. Reserva una cita de biometría con anticipación si el visado lo requiere.
 
@@ -113,7 +113,7 @@ Si ya tienes un viaje reservado, lo más útil que puedes hacer hoy es sacar cad
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 
-Fuentes que hemos comprobado (6 de noviembre de 2026)
+Fuentes oficiales
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
@@ -138,7 +138,7 @@ Sí. La caducidad del pasaporte de cada persona, los requisitos de visado y la c
 
 ### ¿Qué es una carta de consentimiento de viaje para menores y la necesito?
 
-Una carta de consentimiento de viaje para menores es un documento firmado por el progenitor ausente que autoriza al menor a viajar. Algunos países, entre ellos Sudáfrica, imponen requisitos adicionales a los menores que viajan con un solo progenitor, y las autoridades canadienses recomiendan llevar una carta de consentimiento firmada. Sin ella puedes enfrentarte a preguntas adicionales o retrasos. La carta debe incluir los datos del menor, la información de contacto de ambos progenitores, fechas de viaje, destinos y la firma del progenitor ausente.
+Una carta de consentimiento de viaje para menores es un documento firmado por el progenitor ausente que autoriza al menor a viajar. Algunos países, entre ellos [Sudáfrica](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements), imponen requisitos adicionales a los menores que viajan con un solo progenitor, y [las autoridades canadienses](https://travel.gc.ca/travelling/children/consent-letter) recomiendan llevar una carta de consentimiento firmada. Sin ella puedes enfrentarte a preguntas adicionales o retrasos. La carta debe incluir los datos del menor, la información de contacto de ambos progenitores, fechas de viaje, destinos y la firma del progenitor ausente.
 
 ### ¿Qué documentos debo mantener accesibles en el aeropuerto y no en el equipaje de bodega?
 

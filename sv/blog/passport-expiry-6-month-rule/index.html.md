@@ -37,7 +37,7 @@ Logiken är enkel: länder vill vara säkra på att du inte stannar kvar efter v
 
 Ibland, ja. Om ditt resmål bara kräver att passet är giltigt under vistelsen räcker fem månaders giltighet vanligtvis för att du ska släppas in. Storbritannien fungerar så för de flesta besökare, och Schengenländer kräver i allmänhet tre månader utöver din planerade avresa i stället för sex.
 
-Tillämpar ditt resmål 6-månadersregeln, nej. Thailand, Indonesien, Vietnam och många andra nekar i regel inresa, och flygbolaget nekar oftast ombordstigning långt innan du når gränsen.
+Tillämpar ditt resmål 6-månadersregeln, nej. Thailand, [Indonesien](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements), Vietnam och många andra nekar i regel inresa, och flygbolaget nekar oftast ombordstigning långt innan du når gränsen.
 
 Svaret beror alltså på vart du ska, inte på passet i sig. Kontrollera resmålets krav samma dag du bokar, och igen veckan innan du flyger.
 
@@ -54,12 +54,12 @@ Tabellen nedan täcker de vanligaste resmålen. Regler ändras, så kontrollera 
 | Filippinerna | 6 månader | Dessutom krävs biljett för vidareresa/hemresa |
 | Indien | 6 månader | Visum krävs också för de flesta nationaliteter |
 | Kenya | 6 månader | eVisum krävs; 6-månadersregeln gäller |
-| Turkiet | 150 dagar från ankomst | Brittiska utrikesdepartementet: utgångsdatum minst 150 dagar efter ankomstdagen |
+| Turkiet | 150 dagar från ankomst | [Brittiska utrikesdepartementet](https://www.gov.uk/foreign-travel-advice/turkey/entry-requirements): utgångsdatum minst 150 dagar efter ankomstdagen |
 | EU / Schengen | 3 månader utöver avresan | Plus ett utfärdandedatum under 10 år gammalt |
 | Storbritannien | Endast vistelsetiden | Brittiska medborgare utomlands omfattas ändå av destinationslandets regler |
 | USA | Endast vistelsetiden | Amerikanska medborgare utomlands omfattas av destinationslandets regler |
 | Japan / Australien | Endast vistelsetiden | Ingen 6-månadersregel för besökare |
-| Nya Zeeland | 3 månader utöver avresan | Brittiska utrikesdepartementet: utgångsdatum minst 3 månader efter den dag du planerar att resa |
+| Nya Zeeland | 3 månader utöver avresan | [Brittiska utrikesdepartementet](https://www.gov.uk/foreign-travel-advice/new-zealand/entry-requirements): utgångsdatum minst 3 månader efter den dag du planerar att resa |
 
 Tabellen är en ögonblicksbild, inte den fullständiga bilden: kraven varierar även beroende på din nationalitet, inte bara resmålet, så kontrollera alltid ditt lands officiella reserekommendationer innan du bokar.
 
@@ -67,9 +67,9 @@ Passkrav per land ändras utan förvarning, och ett bilateralt avtal kan i tysth
 
 ## När 6-månadersregeln inte gäller
 
-Många resmål kräver inget utöver resans datum. Brittiska utrikesdepartementet är tydligt när det gäller Japan: passet måste vara giltigt under hela vistelsen, och ingen ytterligare giltighetstid krävs. Australien och USA tillämpar samma standard och kräver bara att passet är giltigt under den planerade vistelsen.
+Många resmål kräver inget utöver resans datum. [Brittiska utrikesdepartementet](https://www.gov.uk/foreign-travel-advice/japan/entry-requirements) är tydligt när det gäller Japan: passet måste vara giltigt under hela vistelsen, och ingen ytterligare giltighetstid krävs. [Australien](https://www.gov.uk/foreign-travel-advice/australia/entry-requirements) och [USA](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements) tillämpar samma standard och kräver bara att passet är giltigt under den planerade vistelsen.
 
-Europa hamnar mitt emellan, och det är den nivå som folk missförstår oftast. För att besöka Schengenområdet säger utrikesdepartementet att passet behöver ett utgångsdatum minst tre månader efter den dag du planerar att lämna landet. Tre månader, inte sex.
+Europa hamnar mitt emellan, och det är den nivå som folk missförstår oftast. För att besöka Schengenområdet säger [utrikesdepartementet](https://www.gov.uk/foreign-travel-advice/france/entry-requirements) att passet behöver ett utgångsdatum minst tre månader efter den dag du planerar att lämna landet. Tre månader, inte sex.
 
 Det finns ett andra Schengenvillkor som fångar folk på sängen betydligt oftare än det första: utfärdandedatumet måste ligga mindre än tio år före den dag du anländer. Båda villkoren måste uppfyllas, och ett pass kan uppfylla det ena men brista på det andra.
 
@@ -119,7 +119,7 @@ Dessa källor talar om det officiella kravet och om det gäller innehavare av ju
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 
-Källor vi har kontrollerat (6 november 2026)
+Officiella källor
 
 - [UK Foreign Office: USA entry requirements](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements)
 - [UK Foreign Office: France entry requirements](https://www.gov.uk/foreign-travel-advice/france/entry-requirements)

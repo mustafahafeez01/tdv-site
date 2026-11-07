@@ -39,13 +39,13 @@ Det afhænger af, hvor I skal hen, men for de fleste internationale familierejse
 
 **Det, rejser med børn lægger til**
 
-- Fødselsattester – kræves nogle gange ved grænsekontrol, især når barnets efternavn adskiller sig fra den rejsende forælders
+- Fødselsattester – [kræves nogle gange ved grænsekontrol](https://www.gov.uk/foreign-travel-advice/mexico/entry-requirements), især når barnets efternavn adskiller sig fra den rejsende forælders
 - Et underskrevet samtykkebrev fra forælderen, hvis den ene forælder ikke er med – stærkt anbefalet ved rejser med kun én forælder eller bedsteforældre
 - Forældremyndighedsafgørelser, hvis relevant
 
 ### Samtykkebrev til børns rejse: hvornår har I brug for det
 
-Et samtykkebrev til børns rejse er et underskrevet dokument fra den fraværende forælder (eller værge), der giver tilladelse til, at barnet må rejse. Det er som regel ikke et lovkrav, men grænsemyndigheder i nogle lande, blandt andet Canada, kan bede om dokumentation for, at begge forældre er enige om rejsen, når et barn rejser med kun én forælder eller med en anden voksen. Brevet er nemt at tage med og kan spare jer for spørgsmål ved grænsen.
+Et samtykkebrev til børns rejse er et underskrevet dokument fra den fraværende forælder (eller værge), der giver tilladelse til, at barnet må rejse. Det er som regel ikke et lovkrav, men grænsemyndigheder i nogle lande, blandt andet [Canada](https://travel.gc.ca/travelling/children/consent-letter), kan bede om dokumentation for, at begge forældre er enige om rejsen, når et barn rejser med kun én forælder eller med en anden voksen. Brevet er nemt at tage med og kan spare jer for spørgsmål ved grænsen.
 
 Sydafrika har sine egne regler for rejser med børn, blandt andet om en fuldstændig fødselsattest, så tjek vejledningen fra landets indenrigsministerium før afrejse.
 
@@ -57,7 +57,7 @@ Et gyldigt samtykkebrev bør indeholde: barnets fulde navn og fødselsdato, begg
 
 - Internationalt kørekort (hvis I lejer bil i udlandet)
 - Journaler eller receptoplysninger for igangværende behandlinger
-- Det Europæiske Sygesikringskort (EHIC), hvis I er dækket af et EU-lands offentlige sygesikring
+- Det Europæiske Sygesikringskort (EHIC), hvis I er [dækket af et EU-lands offentlige sygesikring](https://europa.eu/youreurope/citizens/health/unplanned-healthcare/temporary-stays/index_en.htm)
 
 ## Fysisk organisering: hvor I skal opbevare originalerne
 
@@ -128,7 +128,7 @@ Hvis I ikke allerede har gjort det, så vælg det ene sted, passene skal bo, og 
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 
-Kilder vi har tjekket (6. november 2026)
+Officielle kilder
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [UK Foreign Office: Mexico entry requirements](https://www.gov.uk/foreign-travel-advice/mexico/entry-requirements)

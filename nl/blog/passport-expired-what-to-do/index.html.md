@@ -30,7 +30,7 @@ Hoe dringend je moet handelen, bepaalt wat je moet doen:
 - **Ruim de tijd voor vertrek:** vraag online een standaardverlenging aan via de website van je paspoortinstantie – GOV.UK voor het VK, travel.state.gov voor de VS.
 - **Je reis komt dichterbij:** vraag direct aan en betaal voor spoedbehandeling. Zowel het VK als de VS bieden online een snellere betaalde service, en beide publiceren hun actuele doorlooptijd.
 - **Je reis komt echt dichtbij:** bel rechtstreeks met je paspoortinstantie in plaats van alleen op de website te vertrouwen – de adviestelefoon van het HM Passport Office in het VK, of het US National Passport Information Center in de VS.
-- **Je reis is op handen:** vraag naar een spoedafspraak en neem bewijs van je reisdata mee. Het VK's 1 Day Premium-service (alleen voor verlengingen van volwassenen) biedt afspraken vanaf 2 dagen na je aanvraag, met het paspoort klaar om af te halen 4 uur na je afspraak, en de VS publiceert de opties bij spoedreizen op travel.state.gov.
+- **Je reis is op handen:** vraag naar een spoedafspraak en neem bewijs van je reisdata mee. Het VK's [1 Day Premium-service](https://www.gov.uk/get-a-passport-urgently) (alleen voor verlengingen van volwassenen) biedt afspraken vanaf 2 dagen na je aanvraag, met het paspoort klaar om af te halen 4 uur na je afspraak, en de VS publiceert de opties bij spoedreizen op travel.state.gov.
 
 Als je tijdlijn krap is, **zouden wij altijd bellen in plaats van alleen op de website te vertrouwen.**
 
@@ -56,7 +56,7 @@ Verlopen betekent zelden dat je opnieuw moet beginnen, want in het VK, de VS en 
 
 ### VK: een verlopen paspoort doorloopt de normale verlenging
 
-GOV.UK zegt dat je moet verlengen voordat je kunt reizen als je paspoort is verlopen of niet genoeg geldigheid meer heeft voor je bestemming. Een verlopen paspoort doorloopt de gewone verlenging, online of met een papieren formulier, en je hebt je oude paspoort nodig om dat te doen. Paspoorten voor volwassenen zijn voor mensen van 16 jaar en ouder, en kinderpaspoorten hebben hun eigen proces.
+[GOV.UK](https://www.gov.uk/renew-adult-passport/renew) zegt dat je moet verlengen voordat je kunt reizen als je paspoort is verlopen of niet genoeg geldigheid meer heeft voor je bestemming. Een verlopen paspoort doorloopt de gewone verlenging, online of met een papieren formulier, en je hebt je oude paspoort nodig om dat te doen. Paspoorten voor volwassenen zijn voor mensen van 16 jaar en ouder, en kinderpaspoorten hebben hun eigen proces.
 
 ### VS: verlenging werkt binnen 15 jaar na afgifte
 
@@ -64,7 +64,7 @@ De VS heeft eigen voorwaarden voor het verlengen van een verlopen paspoort, waar
 
 ### Canada: een verlopen paspoort kan online worden verlengd
 
-De Canadese overheid laat je verlengen als je laatste paspoort een volwassenenpaspoort was, afgegeven toen je minstens 16 jaar was. Het moet ook binnen 15 jaar vóór je aanvraagdatum zijn afgegeven en 5 of 10 jaar geldig zijn. Je kunt online verlengen als je paspoort binnen zes maanden verloopt of al verlopen is, mits je woon- en postadres in Canada liggen. Kinderpaspoorten kunnen niet worden verlengd, dus een kind heeft een nieuwe aanvraag nodig.
+De [Canadese overheid](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html) laat je verlengen als je laatste paspoort een volwassenenpaspoort was, afgegeven toen je minstens 16 jaar was. Het moet ook binnen 15 jaar vóór je aanvraagdatum zijn afgegeven en 5 of 10 jaar geldig zijn. Je kunt [online verlengen](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport/submit-form-fees/renew-online.html) als je paspoort binnen zes maanden verloopt of al verlopen is, mits je woon- en postadres in Canada liggen. Kinderpaspoorten kunnen niet worden verlengd, dus een kind heeft een nieuwe aanvraag nodig.
 
 Is je paspoort al jaren verlopen, kijk dan eerst naar de afgiftedatum, want de grens van 15 jaar in de VS en Canada wordt geteld vanaf de afgifte, niet vanaf het verlopen. Controleer daarna de actuele doorlooptijden voordat je boekt, wat onze gids over [hoe lang een paspoortverlenging duurt](https://traveldocumentvault.com/nl/blog/how-long-does-passport-renewal-take/) land voor land behandelt.
 
@@ -110,7 +110,7 @@ Doe dit voor elk paspoort in je huishouden apart. Paspoorten van kinderen verlop
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 
-Bronnen die we hebben gecontroleerd (6 november 2026)
+Officiële bronnen
 
 - [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
 - [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)

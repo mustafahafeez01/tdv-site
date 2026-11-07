@@ -28,9 +28,9 @@ Si vous conservez toujours ce passeport dépend entièrement de votre pays et de
 
 ## États-Unis : Renouvellement par courrier
 
-Le renouvellement standard du passeport américain par courrier implique d'envoyer votre passeport actuel avec la demande : il n'est donc pas entre vos mains pendant l'attente. Vous remplissez le formulaire DS-82, joignez votre passeport existant et envoyez le tout par la poste au Centre national de traitement des passeports. Selon USAGov, votre ancien passeport est renvoyé séparément, en général environ quatre semaines après la réception du nouveau.
+Le renouvellement standard du passeport américain par courrier implique d'envoyer votre passeport actuel avec la demande : il n'est donc pas entre vos mains pendant l'attente. Vous [remplissez le formulaire DS-82](https://www.usa.gov/renew-adult-passport), joignez votre passeport existant et envoyez le tout par la poste au Centre national de traitement des passeports. Selon USAGov, votre ancien passeport est renvoyé séparément, en général environ quatre semaines après la réception du nouveau.
 
-Cela signifie que les voyages intérieurs aux États-Unis ne sont pas affectés pendant tout le processus de renouvellement — vous n'avez pas besoin de passeport pour les vols intérieurs. Les voyages internationaux, c'est différent : vous ne pouvez pas voyager à l'étranger jusqu'à l'arrivée de votre nouveau passeport, et vous ne pouvez pas utiliser l'ancien passeport annulé même si vous l'avez en main.
+Cela signifie que les voyages intérieurs aux États-Unis ne sont pas affectés pendant tout le processus de renouvellement — [vous n'avez pas besoin de passeport pour les vols intérieurs](https://www.tsa.gov/travel/security-screening/identification). Les voyages internationaux, c'est différent : vous ne pouvez pas voyager à l'étranger jusqu'à l'arrivée de votre nouveau passeport, et vous ne pouvez pas utiliser l'ancien passeport annulé même si vous l'avez en main.
 
 Le délai de traitement standard change, et le Département d'État publie le chiffre actuel sur travel.state.gov, consultez-le donc avant de planifier. Si votre voyage est réservé avant la date où vous attendez le nouveau passeport, un traitement accéléré est disponible moyennant des frais supplémentaires et réduit sensiblement l'attente. Pour les voyages véritablement urgents, des rendez-vous en personne sont disponibles aux agences régionales des passeports — consultez l'admissibilité actuelle sur travel.state.gov.
 
@@ -38,7 +38,7 @@ Le délai de traitement standard change, et le Département d'État publie le ch
 
 Le Royaume-Uni propose deux voies de renouvellement avec des implications complètement différentes pour les voyages. Le processus utilisé détermine ce qui est possible.
 
-**Renouvellement postal :** Vous envoyez votre passeport actuel au Bureau des passeports de Sa Majesté avec votre demande. Votre passeport est en leur possession pendant toute la durée, donc vous ne pouvez pas voyager à l'étranger. Le Bureau des passeports de Sa Majesté publie son délai de traitement actuel sur son site web et déconseille de réserver un voyage avant l'arrivée du nouveau passeport. Un service de fast-track premium est disponible moyennant des frais supplémentaires si votre voyage est proche.
+**Renouvellement postal :** Vous envoyez votre passeport actuel au [Bureau des passeports de Sa Majesté](https://www.gov.uk/renew-adult-passport/renew) avec votre demande. Votre passeport est en leur possession pendant toute la durée, donc vous ne pouvez pas voyager à l'étranger. Le Bureau des passeports de Sa Majesté publie son délai de traitement actuel sur son site web et [déconseille de réserver un voyage](https://www.gov.uk/renew-adult-passport) avant l'arrivée du nouveau passeport. Un service de fast-track premium est disponible moyennant des frais supplémentaires si votre voyage est proche.
 
 **Le renouvellement numérique** est actuellement disponible pour les adultes admissibles postulant du Royaume-Uni. Vous conservez votre passeport actuel tout au long du processus, et le gouvernement émet votre nouveau passeport séparément et l'envoie par la poste. Comme votre passeport existant ne quitte jamais votre possession, vous pouvez généralement continuer à l'utiliser pour les voyages en attendant le nouveau. L'admissibilité varie selon la situation individuelle, donc vérifiez le site Web du Bureau des passeports de Sa Majesté pour connaître les critères complets et les délais actuels avant de postuler.
 
@@ -52,7 +52,7 @@ Le Bureau australien des passeports publie ses délais de traitement actuels et 
 
 ## Canada : Remis lors de la demande
 
-Le Canada vous oblige à remettre votre passeport existant lorsque vous demandez un renouvellement. Votre ancien passeport est conservé jusqu'à ce que le nouveau soit prêt, donc vous ne pouvez pas voyager à l'étranger pendant cette période — bien que les voyages intérieurs au Canada ne nécessitent pas de passeport.
+Le Canada vous oblige à [remettre votre passeport existant lorsque vous demandez un renouvellement](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html). Votre ancien passeport est conservé jusqu'à ce que le nouveau soit prêt, donc vous ne pouvez pas voyager à l'étranger pendant cette période — bien que les voyages intérieurs au Canada ne nécessitent pas de passeport.
 
 Service Canada publie ses normes de traitement actuelles, qui varient selon que vous postulez en personne, par courrier ou à un Centre de services Canada, plus le temps d'envoi. Pour les voyages urgents, des options de service express et de retrait urgent existent moyennant des frais supplémentaires. Vérifiez les délais de traitement actuels et postulez sur canada.ca.
 
@@ -94,7 +94,7 @@ La raison pour laquelle les gens se retrouvent dans cette situation n'est pas l'
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
-Sources vérifiées (6 novembre 2026)
+Sources officielles
 
 - [USAGov: Renew an adult passport](https://www.usa.gov/renew-adult-passport)
 - [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)

@@ -64,7 +64,7 @@ Les demandes de passeport pour enfants sont une autre histoire. Elles sont plus 
 
 ## Combien de temps prend le renouvellement de passeport au Canada ?
 
-Immigration, Réfugiés et Citoyenneté Canada (IRCC) traite les renouvellements de passeport. Le Canada propose le renouvellement en ligne si vous avez besoin du passeport dans 20 jours ouvrables ou plus ; les autres demandeurs suivent la procédure sur formulaire papier. Pour les voyages urgents, des options de rendez-vous d'urgence et de service express en personne existent moyennant des frais supplémentaires.
+Immigration, Réfugiés et Citoyenneté Canada (IRCC) traite les renouvellements de passeport. [Le Canada propose le renouvellement en ligne](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html) si vous avez besoin du passeport dans 20 jours ouvrables ou plus ; les autres demandeurs suivent la procédure sur formulaire papier. Pour les voyages urgents, des options de rendez-vous d'urgence et de service express en personne existent moyennant des frais supplémentaires.
 
 Cela rend le processus plus exigeant logistiquement, surtout si vous vivez quelque part de rural et que le bureau de passeport le plus proche est éloigné. Consultez la page d'IRCC pour les délais de traitement actuels avant de présenter votre demande, et ajoutez le temps d'acheminement dans chaque sens si vous demandez par courrier.
 
@@ -107,7 +107,7 @@ Sortez votre propre passeport aujourd'hui et vérifiez combien de mois il lui re
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
-Sources vérifiées (6 novembre 2026)
+Sources officielles
 
 - [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
 - [Government of Canada: Renew an adult passport](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html)

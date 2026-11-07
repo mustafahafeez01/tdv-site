@@ -24,7 +24,7 @@ Source: https://traveldocumentvault.com/ko/blog/passport-photo-at-home/
 
 ### 배경 및 구성
 
-밝은 톤의 무지 배경이 필요하며, 정확한 색조는 발급 기관마다 다릅니다. GOV.UK는 크림색 또는 밝은 회색을 요구하고, 캐나다 정부는 흰색 또는 밝은 색을 요구합니다. 패턴, 그림자, 흐린 배경 또는 짙은 색상이 없어야 합니다. 그 이유는 간단합니다. 관리자들이 미래 서류와 비교할 때 얼굴을 명확하게 볼 필요가 있습니다. 당국이 요구하는 색조(영국은 크림색 또는 밝은 회색)의 무지 시트나 포스터판을 쓰거나, 벽의 일부를 칠해 사용하기도 합니다. 핵심은 소속 기관이 요구하는 밝고 균일한 색조를 유지하는 것입니다.
+밝은 톤의 무지 배경이 필요하며, 정확한 색조는 발급 기관마다 다릅니다. [GOV.UK](https://www.gov.uk/photos-for-passports)는 크림색 또는 밝은 회색을 요구하고, [캐나다 정부](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/photos.html)는 흰색 또는 밝은 색을 요구합니다. 패턴, 그림자, 흐린 배경 또는 짙은 색상이 없어야 합니다. 그 이유는 간단합니다. 관리자들이 미래 서류와 비교할 때 얼굴을 명확하게 볼 필요가 있습니다. 당국이 요구하는 색조(영국은 크림색 또는 밝은 회색)의 무지 시트나 포스터판을 쓰거나, 벽의 일부를 칠해 사용하기도 합니다. 핵심은 소속 기관이 요구하는 밝고 균일한 색조를 유지하는 것입니다.
 
 ### 표정 및 자세
 
@@ -125,7 +125,7 @@ Source: https://traveldocumentvault.com/ko/blog/passport-photo-at-home/
 
 **이 글에 의존하기 전에:** 이 글은 블로그이며 공식 자료가 아닙니다. 규정과 세부 사항은 바뀌고, 여러분의 상황은 다를 수 있습니다. 저희는 게시하는 내용을 확인하지만 그래도 틀리거나 오래된 정보일 수 있습니다. 여기 적힌 내용이 계획에 중요하다면, 움직이기 전에 담당 기관에 확인하시기 바랍니다.
 
-확인한 출처 (2026년 11월 6일)
+공식 출처
 
 - [UK Government: Get a passport photo, Digital photos](https://www.gov.uk/photos-for-passports)
 - [Government of Canada: Passport photo requirements](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/photos.html)

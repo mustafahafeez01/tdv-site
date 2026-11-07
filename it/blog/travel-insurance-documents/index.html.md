@@ -36,7 +36,7 @@ I documenti della tua polizza sono nelle mani di chi ti ha venduto la copertura,
 
 Se non ricordi nemmeno di aver acquistato una polizza, controlla il tuo conto bancario. Il Financial Ombudsman Service descrive un conto bancario con pacchetto come un conto corrente che applica una commissione mensile in cambio di vantaggi extra, tra cui l'assicurazione di viaggio. In questo caso la banca è di solito il primo posto a cui chiedere: prova la sua app, il sito o il numero di assistenza.
 
-Una volta ottenuti, il Foreign, Commonwealth and Development Office del Regno Unito consiglia di portare con sé i dati della polizza, incluso il numero di polizza e il numero di assistenza di emergenza dell'assicuratore. Suggerisce anche di condividerli con chi viaggia con te e con la famiglia a casa. Se ancora non trovi nulla, chiama l'assicuratore, o la banca nel caso di un conto con pacchetto, e chiedi di farti rinviare i documenti prima di volare, non dopo che qualcosa va storto.
+Una volta ottenuti, il [Foreign, Commonwealth and Development Office del Regno Unito](https://www.gov.uk/guidance/foreign-travel-insurance) consiglia di portare con sé i dati della polizza, incluso il numero di polizza e il numero di assistenza di emergenza dell'assicuratore. Suggerisce anche di condividerli con chi viaggia con te e con la famiglia a casa. Se ancora non trovi nulla, chiama l'assicuratore, o la banca nel caso di un conto con pacchetto, e chiedi di farti rinviare i documenti prima di volare, non dopo che qualcosa va storto.
 
 ## I Cinque Documenti Che Devi Salvare Prima di Partire
 
@@ -146,7 +146,7 @@ Venti minuti ora, e non starai cercando niente di tutto questo in una crisi.
 
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 
-Fonti che abbiamo verificato (6 novembre 2026)
+Fonti ufficiali
 
 - [UK Government: Foreign travel insurance](https://www.gov.uk/guidance/foreign-travel-insurance)
 

@@ -39,7 +39,7 @@ Ein Verstoß gegen eine auf dem Gerät installierte App sickert nichts von ihren
 
 ### Die Vorlaufzeit der Erinnerung ist die Einstellung, die sich anzupassen lohnt
 
-Dies ist die wertvollste Funktion. Eine Erinnerung 6 Monate im Voraus ist das Minimum – viele Länder verlangen, dass Ihr Reisepass mindestens 6 Monate über Ihren Reisedaten gültig ist, wie in unserem Artikel über die [6-Monats-Reisepass-Regel](https://traveldocumentvault.com/de/blog/passport-expiry-6-month-rule/) erläutert. Kinderreisepässe sind oft 5 statt 10 Jahre gültig (ein britischer Kinderreisepass zum Beispiel 5 Jahre). Eine frühere Erinnerung – etwa 9 Monate im Voraus – gibt daher mehr Spielraum für die Planung.
+Dies ist die wertvollste Funktion. Eine Erinnerung 6 Monate im Voraus ist das Minimum – viele Länder verlangen, dass Ihr Reisepass mindestens 6 Monate über Ihren Reisedaten gültig ist, wie in unserem Artikel über die [6-Monats-Reisepass-Regel](https://traveldocumentvault.com/de/blog/passport-expiry-6-month-rule/) erläutert. Kinderreisepässe sind oft 5 statt 10 Jahre gültig (ein [britischer Kinderreisepass](https://www.gov.uk/get-a-child-passport) zum Beispiel 5 Jahre). Eine frühere Erinnerung – etwa 9 Monate im Voraus – gibt daher mehr Spielraum für die Planung.
 
 ### Eine einzige App kann die ganze Familie sicher aufnehmen
 
@@ -104,7 +104,7 @@ Rufen Sie die App auf, die Sie tatsächlich in Betracht ziehen, und gehen Sie si
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 
-Quellen, die wir geprüft haben (6. November 2026)
+Offizielle Quellen
 
 - [UK Foreign Office: Indonesia entry requirements](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements)
 - [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)

@@ -40,7 +40,7 @@ En **hotellbokning** och ett **kontoutdrag** dyker också ofta upp, men de besva
 
 Flygbolaget vill veta om du riskerar att nekas inresa vid ankomsten, vilket lämnar bolaget med kostnaden för att flyga dig tillbaka. En gränstjänsteman frågar något relaterat men separat: om du uppfyller landets inresevillkor. De två frågorna överlappar, men de är inte samma fråga.
 
-Där de överlappar är resmålets egna regler. Schengens gränskodex listar till exempel en retur- eller tur- och returbiljett bland de handlingar en gränsvakt kan be en besökare visa. Nya Zeeland kräver att besökare har möjlighet att lämna landet. När ett resmål fungerar så tillämpar flygbolaget, genom att fråga vid incheckningen, vanligtvis resmålets regel några timmar tidigare, inte en egen regel.
+Där de överlappar är resmålets egna regler. [Schengens gränskodex](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0399) listar till exempel en retur- eller tur- och returbiljett bland de handlingar en gränsvakt kan be en besökare visa. Nya Zeeland [kräver att besökare har möjlighet att lämna landet](https://www.immigration.govt.nz/visas/visa-waiver-visitor-visa/). När ett resmål fungerar så tillämpar flygbolaget, genom att fråga vid incheckningen, vanligtvis resmålets regel några timmar tidigare, inte en egen regel.
 
 ![Ett diagram som jämför flygbolagets kontroll vid incheckning, som tillämpar resmålets regler och avgör om du får gå ombord, med gränskontrollen vid ankomst, som avgör om du får resa in i landet](https://traveldocumentvault.com/blog/proof-of-onward-travel/two-checks-sv.jpg) Flygbolaget kontrollerar innan du går ombord, gränskontrollen avgör vid ankomst.
 
@@ -70,12 +70,11 @@ En bokning du inte kan öppna är lika oanvändbar som ingen bokning alls. Fråg
 
 Spara en offlinekopia av bekräftelsen: en PDF, en skärmdump som visar bokningsreferens och datum, eller en kopia i en app som fungerar utan uppkoppling. Travel Document Vault lagrar flygbiljetter och hotellbokningar på din enhet, krypterat och tillgängligt offline. Bekräftelsen finns där vid disken oavsett om du har signal eller inte. Vår [checklista för resehandlingar](https://traveldocumentvault.com/sv/blog/travel-document-checklist/) går igenom resten av vad som är värt att ha redo.
 
-Källor vi har kontrollerat (6 november 2026)
+Officiella källor
 
 - [EU law: Schengen Borders Code (Regulation 2016/399)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0399)
 - [Immigration New Zealand: Visa Waiver Visitor Visa](https://www.immigration.govt.nz/visas/visa-waiver-visitor-visa/)
 - [Immigration New Zealand: Visitor Visa](https://www.immigration.govt.nz/visas/visitor-visa/)
-- [Immigration New Zealand: Onward travel requirements](https://www.immigration.govt.nz/opsmanual/50548.htm)
 
 ## Vanliga frågor
 
@@ -97,7 +96,7 @@ En enkel biljett är inte i sig ett problem, eftersom regler om vidare resa i al
 
 ### Behöver jag bevis på vidare resa för gränsen?
 
-Ibland, eftersom vissa resmål inkluderar det i sina inresevillkor för besökare. Schengens gränskodex listar en retur- eller tur- och returbiljett bland de handlingar en gränsvakt kan begära, och Nya Zeeland kräver att besökare har möjlighet att lämna landet. Kontrollera ditt resmåls regler innan du reser.
+Ibland, eftersom vissa resmål inkluderar det i sina inresevillkor för besökare. Schengens gränskodex listar en retur- eller tur- och returbiljett bland de handlingar en gränsvakt kan begära, och Nya Zeeland [kräver att besökare har möjlighet att lämna landet](https://www.immigration.govt.nz/visas/visitor-visa/). Kontrollera ditt resmåls regler innan du reser.
 
 ## Relaterade artiklar
 

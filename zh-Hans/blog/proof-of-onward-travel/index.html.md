@@ -40,7 +40,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/proof-of-onward-travel/
 
 航空公司想知道的是，你抵达后是否可能被拒绝入境，从而让他们承担把你送回去的费用。边境官员问的是一个相关但不同的问题：你是否符合这个国家的入境条件。这两个问题有所重叠，但并不是同一个问题。
 
-两者重叠的地方，就是目的地自身的规定。比如《申根边境法典》就把返程或往返机票列为边境警察可能要求访客出示的文件之一。新西兰则要求访客具备离境的能力。当目的地有这样的规定时，航空公司在值机时提出的要求，往往只是提前几个小时执行了目的地自己的规定，而不是自创了一条新规则。
+两者重叠的地方，就是目的地自身的规定。比如《[申根边境法典](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0399)》就把返程或往返机票列为边境警察可能要求访客出示的文件之一。新西兰则[要求访客具备离境的能力](https://www.immigration.govt.nz/visas/visa-waiver-visitor-visa/)。当目的地有这样的规定时，航空公司在值机时提出的要求，往往只是提前几个小时执行了目的地自己的规定，而不是自创了一条新规则。
 
 ![一张图表比较了值机时的航空公司核查，它执行目的地规定并决定你能否登机，和抵达后的边境核查，它决定你能否入境](https://traveldocumentvault.com/blog/proof-of-onward-travel/two-checks-zh-Hans.jpg) 航空公司在登机前核查，边境官员在抵达时决定。
 
@@ -70,12 +70,11 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/proof-of-onward-travel/
 
 保留一份离线版确认信息：一份 PDF 文件，一张显示预订编号和日期的截图，或者保存在一款无需联网也能打开的应用里的副本。Travel Document Vault 将机票和酒店预订加密存储在你的设备上，支持离线访问。无论有没有信号，柜台上这份确认信息都在。关于出发前还值得准备好哪些其他证件，请参阅我们的[旅行文件检查清单](https://traveldocumentvault.com/zh-Hans/blog/travel-document-checklist/)。
 
-我们核对过的资料来源（2026年11月6日）
+官方资料来源
 
 - [EU law: Schengen Borders Code (Regulation 2016/399)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0399)
 - [Immigration New Zealand: Visa Waiver Visitor Visa](https://www.immigration.govt.nz/visas/visa-waiver-visitor-visa/)
 - [Immigration New Zealand: Visitor Visa](https://www.immigration.govt.nz/visas/visitor-visa/)
-- [Immigration New Zealand: Onward travel requirements](https://www.immigration.govt.nz/opsmanual/50548.htm)
 
 ## 常见问题
 
@@ -97,7 +96,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/proof-of-onward-travel/
 
 ### 入境时也需要后续行程证明吗？
 
-有时需要，因为部分目的地会将其纳入访客的入境条件之中。《申根边境法典》将返程或往返机票列为边境警察可能要求查看的文件之一，新西兰也要求访客具备离境的能力。出行前请先查清目的地的具体规定。
+有时需要，因为部分目的地会将其纳入访客的入境条件之中。《申根边境法典》将返程或往返机票列为边境警察可能要求查看的文件之一，新西兰也[要求访客具备离境的能力](https://www.immigration.govt.nz/visas/visitor-visa/)。出行前请先查清目的地的具体规定。
 
 ## 相关文章
 

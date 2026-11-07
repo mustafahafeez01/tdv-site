@@ -36,7 +36,7 @@ Periksa semua tempat sebelum menyimpulkan yang terburuk — kantong jaket, setia
 
 ## Langkah 2: Buat Laporan Polisi Segera
 
-Pergi ke kantor polisi terdekat dan laporkan paspor sebagai hilang atau dicuri. Perusahaan asuransi Anda biasanya akan meminta laporan ini untuk klaim, dan sebagian kedutaan juga memintanya, meski tidak semua: Pemerintah Kanada, misalnya, menyatakan laporan ini tidak diperlukan untuk penggantian paspor. Kami akan membuatnya dalam satu jam jika memungkinkan, selagi detailnya masih segar dalam ingatan Anda.
+Pergi ke kantor polisi terdekat dan laporkan paspor sebagai hilang atau dicuri. Perusahaan asuransi Anda biasanya akan meminta laporan ini untuk klaim, dan sebagian kedutaan juga memintanya, meski tidak semua: [Pemerintah Kanada](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings), misalnya, menyatakan laporan ini tidak diperlukan untuk penggantian paspor. Kami akan membuatnya dalam satu jam jika memungkinkan, selagi detailnya masih segar dalam ingatan Anda.
 
 Minta salinan tertulis dengan nomor kasus, dan minta terjemahan bahasa Inggris jika tersedia. Foto laporan tersebut dan simpan beberapa salinan di tempat yang aman.
 
@@ -53,7 +53,7 @@ Telepon dulu sebelum datang langsung. Sebagian kedutaan mengharuskan janji temu 
 
 ## Langkah 4: Ajukan Dokumen Perjalanan Darurat
 
-Kedutaan Anda menerbitkan dokumen perjalanan darurat (emergency travel document, ETD) atau paspor darurat, biasanya hanya berlaku untuk satu kali perjalanan pulang. Waktu prosesnya tergantung pada kantor kedutaan dan seberapa mendesak kasus Anda, jadi tanyakan saat Anda menelepon.
+Kedutaan Anda menerbitkan [dokumen perjalanan darurat](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport) (emergency travel document, ETD) atau paspor darurat, biasanya hanya berlaku untuk satu kali perjalanan pulang. Waktu prosesnya tergantung pada kantor kedutaan dan seberapa mendesak kasus Anda, jadi tanyakan saat Anda menelepon.
 
 Yang biasanya Anda perlukan (konfirmasikan dengan kedutaan Anda sebelum datang):
 
@@ -84,12 +84,11 @@ Setelah Anda mendapatkan dokumen perjalanan darurat, konfirmasikan persyaratan k
 
 **Sebelum Anda mengandalkan ini:** ini adalah blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 
-Sumber yang kami periksa (6 November 2026)
+Sumber resmi
 
 - [Government of Canada: Lost or stolen belongings abroad](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings)
 - [UK Government: Travel urgently from abroad without your UK passport, How to apply](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport/how-to-apply)
 - [UK Government: Travel urgently from abroad without your UK passport, Who can apply](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport)
-- [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
 
 ## Pertanyaan yang Sering Diajukan
 
@@ -103,7 +102,7 @@ Ya. Banyak negara menerbitkan dokumen perjalanan darurat melalui kedutaan dan ko
 
 ### Apakah saya perlu laporan polisi jika paspor saya dicuri di luar negeri?
 
-Biasanya tetap layak dibuat, meskipun tidak semua otoritas paspor mewajibkannya. Pemerintah Kanada menyatakan laporan polisi tidak diperlukan untuk penggantian paspor, tetapi bisa membantu klaim asuransi, dan GOV.UK tidak mencantumkannya sebagai syarat permohonan dokumen perjalanan darurat Inggris. Sebagian kedutaan tetap memintanya, dan sebagian besar perusahaan asuransi perjalanan membutuhkannya untuk klaim. Segera dapatkan dari kantor polisi setempat, minta salinan bahasa Inggris jika memungkinkan, dan simpan beberapa salinan.
+Biasanya tetap layak dibuat, meskipun tidak semua otoritas paspor mewajibkannya. Pemerintah Kanada menyatakan laporan polisi tidak diperlukan untuk penggantian paspor, tetapi bisa membantu klaim asuransi, dan [GOV.UK](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport/how-to-apply) tidak mencantumkannya sebagai syarat permohonan dokumen perjalanan darurat Inggris. Sebagian kedutaan tetap memintanya, dan sebagian besar perusahaan asuransi perjalanan membutuhkannya untuk klaim. Segera dapatkan dari kantor polisi setempat, minta salinan bahasa Inggris jika memungkinkan, dan simpan beberapa salinan.
 
 ### Apakah asuransi perjalanan menanggung paspor yang hilang atau dicuri?
 

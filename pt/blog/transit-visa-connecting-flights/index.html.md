@@ -39,9 +39,9 @@ A armadilha está no meio. Uma escala que parece airside no papel pode tornar-se
 
 Os vistos de trânsito são obrigatórios em várias circunstâncias, e os requisitos variam significativamente consoante a sua nacionalidade e o país de trânsito.
 
-O **Visto de Trânsito Aeroportuário Schengen (ATV)** aplica-se a certos titulares de passaportes fora da UE em ligações exclusivamente airside através de aeroportos Schengen (os Estados-Membros podem acrescentar nacionalidades em alguns casos), embora muitas nacionalidades estejam isentas, assim como alguns titulares de vistos ou autorizações de residência. Como a lista de isenções é complexa e muda periodicamente, não pode presumir que está isento. A base de dados do IATA Travel Centre tem as regras atuais para a sua nacionalidade e destino específicos, por isso verifique aí em vez de adivinhar com base no que sabe sobre outros países.
+O **Visto de Trânsito Aeroportuário Schengen (ATV)** aplica-se a [certos titulares de passaportes fora da UE](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0810) em ligações exclusivamente airside através de aeroportos Schengen (os Estados-Membros podem acrescentar nacionalidades em alguns casos), embora muitas nacionalidades estejam isentas, assim como alguns titulares de vistos ou autorizações de residência. Como a lista de isenções é complexa e muda periodicamente, não pode presumir que está isento. A base de dados do IATA Travel Centre tem as regras atuais para a sua nacionalidade e destino específicos, por isso verifique aí em vez de adivinhar com base no que sabe sobre outros países.
 
-O **Reino Unido** oferece trânsito airside isento de visto a muitos viajantes, mas outros precisam do que agora se chama Direct Airside Transit Visa (DATV). Tal como no espaço Schengen, a isenção depende sobretudo da sua nacionalidade, não apenas do seu destino, e o GOV.UK diz que não precisa de um visto de trânsito se tiver uma autorização eletrónica de viagem (ETA) do Reino Unido.
+O **Reino Unido** oferece trânsito airside isento de visto a muitos viajantes, mas outros precisam do que agora se chama Direct Airside Transit Visa (DATV). Tal como no espaço Schengen, a isenção depende sobretudo da sua nacionalidade, não apenas do seu destino, e o [GOV.UK](https://www.gov.uk/transit-visa) diz que não precisa de um visto de trânsito se tiver uma autorização eletrónica de viagem (ETA) do Reino Unido.
 
 Na maioria dos casos, os passageiros em ligação que chegam aos **Estados Unidos** passam pela imigração e pela alfândega dos EUA antes do voo seguinte. Na prática, isto depende das regras de entrada nos EUA, e não das regras de visto de trânsito, por isso confirme cedo as regras para o seu passaporte e inclua-as no seu plano de viagem desde o início.
 
@@ -75,7 +75,7 @@ Se estiver a viajar em família, verifique individualmente o passaporte de cada 
 
 Antes de reservar, passe o seu trajeto completo, e não apenas o destino, pelo IATA Travel Centre. É a verificação com mais probabilidade de apanhar um requisito em falta enquanto ainda pode alterar a reserva.
 
-Fontes que verificámos (6 de novembro de 2026)
+Fontes oficiais
 
 - [UK Government: Visa to pass through the UK in transit](https://www.gov.uk/transit-visa)
 - [EU law: Visa Code (Regulation 810/2009)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0810)
@@ -109,7 +109,7 @@ Contacte a companhia aérea de imediato e verifique o tempo de processamento do 
 
 ### Durante quanto tempo é válido um visto de trânsito?
 
-A validade do visto de trânsito varia consoante o país. O Visitor in Transit visa do Reino Unido, por exemplo, permite uma estadia de até 48 horas. Guarde e acompanhe a data de validade do visto de trânsito junto com o passaporte e o visto de entrada principal.
+A validade do visto de trânsito varia consoante o país. O [Visitor in Transit visa](https://www.gov.uk/transit-visa/visitor-in-transit-visa) do Reino Unido, por exemplo, permite uma estadia de até 48 horas. Guarde e acompanhe a data de validade do visto de trânsito junto com o passaporte e o visto de entrada principal.
 
 ## Artigos Relacionados
 

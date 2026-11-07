@@ -60,7 +60,7 @@ Tanggal penerbitan berhenti menjadi sekadar detail sepele saat sebuah negara mem
 
 Paspor Inggris yang diterbitkan belakangan ini tidak lagi membawa bulan-bulan ekstra tersebut, tetapi buku paspor lama yang masih memilikinya tetap beredar dan tetap digunakan.
 
-Negara-negara Schengen umumnya menerapkan dua pengujian terpisah pada paspor non-UE di perbatasan: paspor harus diterbitkan kurang dari sepuluh tahun sebelum tanggal kedatangan Anda, dan harus tetap berlaku setidaknya tiga bulan setelah rencana kepergian Anda. Buku paspor yang membawa sembilan bulan ekstra bisa dengan mudah memenuhi pengujian kedua tetapi gagal pada pengujian pertama, yang menjadi percakapan yang sulit dilakukan di loket Madrid dengan dokumen yang belum kedaluwarsa.
+Negara-negara Schengen umumnya menerapkan dua pengujian terpisah pada paspor non-UE di perbatasan: paspor harus [diterbitkan kurang dari sepuluh tahun sebelum tanggal kedatangan Anda](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements), dan harus tetap berlaku setidaknya tiga bulan setelah rencana kepergian Anda. Buku paspor yang membawa sembilan bulan ekstra bisa dengan mudah memenuhi pengujian kedua tetapi gagal pada pengujian pertama, yang menjadi percakapan yang sulit dilakukan di loket Madrid dengan dokumen yang belum kedaluwarsa.
 
 Kami sendiri akan memeriksa kedua tanggal sebelum perjalanan ke Eropa, bukan hanya tanggal yang tercetak di bagian bawah.
 
@@ -96,7 +96,7 @@ Luangkan lima menit hari ini untuk menemukan kedua tanggal itu di paspor Anda se
 
 **Sebelum Anda mengandalkan ini:** ini blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 
-Sumber yang kami periksa (6 November 2026)
+Sumber resmi
 
 - [UK Foreign Office: Spain entry requirements](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements)
 

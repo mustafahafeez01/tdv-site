@@ -19,7 +19,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/us-child-passport-renewal-u
 
 16岁以下儿童获发的美国护照不能更新。护照到期后，你需要像第一次一样让孩子本人到场重新申请一本新护照，父母双方再次共同参与。这比成人更新多一些手续，但如果你已经经历过一次，这些手续都不会陌生。
 
-联邦护照规定以16岁为界：只有最近一本护照是在16岁或以后签发的，才能通过邮寄或在线方式更新，所以16岁之前拿到的每一本护照，都要以重新申请收尾。如果孩子在婴儿时期就拿到了第一本护照，那么在16岁之前可能要申请四次，每次都需要父母双方参与。
+[联邦护照规定](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-F/part-51)以16岁为界：只有最近一本护照是在16岁或以后签发的，才能通过邮寄或在线方式更新，所以16岁之前拿到的每一本护照，都要以重新申请收尾。如果孩子在婴儿时期就拿到了第一本护照，那么在16岁之前可能要申请四次，每次都需要父母双方参与。
 
 ## 16岁前签发的护照有效期为五年
 
@@ -69,7 +69,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/us-child-passport-renewal-u
 
 真正起作用的是提前开始。我们建议在孩子护照到期前大约九个月就着手准备：这样有足够时间找到父母都能出席的预约时间，办好任何需要的公证声明，万一有什么需要重做也还有余地。关于具体时间安排，可以参考我们的文章《[护照可以在到期前更新吗？](https://traveldocumentvault.com/zh-Hans/blog/renew-passport-before-expiry/)》。
 
-我们核对过的资料来源（2026年11月6日）
+官方资料来源
 
 - [US eCFR: 22 CFR Part 51 (passports)](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-F/part-51)
 

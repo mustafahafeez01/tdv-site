@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/
 - La regla se aplica inconsistentemente: el mismo país puede renunciar a ella para algunos titulares de pasaporte y aplicarla para otros en función de acuerdos bilaterales.
 - La opción más segura es renovar cuando caigas por debajo de 12 meses de validez, para que siempre tengas un margen cómodo.
 
-Seis meses de validez restante en tu pasaporte normalmente no son suficientes para un país que aplica la regla de los 6 meses, porque los seis meses se cuentan desde el día que llegas, o en algunos países desde el día que sales, no desde hoy. Tailandia, por ejemplo, exige una fecha de caducidad de al menos seis meses después de tu llegada. Para los destinos que solo piden que el pasaporte sea válido durante tu estancia, o para el área Schengen, que pide tres meses después del día que sales, seis meses de validez restante normalmente te dejarán entrar.
+Seis meses de validez restante en tu pasaporte normalmente no son suficientes para un país que aplica la regla de los 6 meses, porque los seis meses se cuentan desde el día que llegas, o en algunos países desde el día que sales, no desde hoy. [Tailandia](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), por ejemplo, exige una fecha de caducidad de al menos seis meses después de tu llegada. Para los destinos que solo piden que el pasaporte sea válido durante tu estancia, o para el área Schengen, que pide tres meses después del día que sales, seis meses de validez restante normalmente te dejarán entrar.
 
 El oficial de inmigración miró el pasaporte de mi hija, se detuvo, y luego miró hacia arriba. "¿Sabes que vence en siete meses, verdad? Algunos países no te dejarán entrar con menos de seis meses de validez." Estábamos bien —apenas. Pero ese momento se quedó conmigo, porque había verificado el pasaporte antes de reservar y siete meses me había parecido muchísimo tiempo. Había olvidado completamente la regla de los 6 meses del pasaporte.
 
@@ -39,7 +39,7 @@ La lógica es directa: los países quieren seguridad de que no te quedarás más
 
 A veces, sí. Si tu destino solo exige que el pasaporte permanezca válido durante tu estancia, con cinco meses restantes normalmente podrás entrar. Así funciona el Reino Unido para la mayoría de visitantes, y los países Schengen generalmente piden tres meses más allá de tu salida prevista, no seis.
 
-Si tu destino aplica la regla de los 6 meses, no. Tailandia, Indonesia, Vietnam y muchos otros generalmente deniegan la entrada, y la aerolínea suele negarte el embarque mucho antes de que llegues a la frontera.
+Si tu destino aplica la regla de los 6 meses, no. Tailandia, [Indonesia](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements), Vietnam y muchos otros generalmente deniegan la entrada, y la aerolínea suele negarte el embarque mucho antes de que llegues a la frontera.
 
 Así que la respuesta depende de tu destino, no del pasaporte en sí. Comprueba el requisito de tu destino el día que reservas, y otra vez la semana en la que vuelas.
 
@@ -56,12 +56,12 @@ La siguiente tabla cubre los destinos más comunes. Las políticas cambian, así
 | Filipinas | 6 meses | Más billete de salida/regreso requerido |
 | India | 6 meses | Visado también requerido para la mayoría de nacionalidades |
 | Kenia | 6 meses | eVisa requerido; la regla de 6 meses aplica |
-| Turquía | 150 días desde la llegada | Foreign Office del Reino Unido: caducidad al menos 150 días después de la fecha de llegada |
+| Turquía | 150 días desde la llegada | [Foreign Office del Reino Unido](https://www.gov.uk/foreign-travel-advice/turkey/entry-requirements): caducidad al menos 150 días después de la fecha de llegada |
 | UE / Schengen | 3 meses después de la salida | Más una fecha de expedición de menos de 10 años |
 | Reino Unido | Solo duración de la estancia | Los ciudadanos británicos al extranjero aún están sujetos a las reglas del país de destino |
 | EE.UU. | Solo duración de la estancia | Los ciudadanos estadounidenses al extranjero están sujetos a las reglas del país de destino |
 | Japón / Australia | Solo duración de la estancia | Sin regla de extensión de 6 meses para visitantes |
-| Nueva Zelanda | 3 meses después de la salida | Foreign Office del Reino Unido: caducidad al menos 3 meses después del día en que planeas salir |
+| Nueva Zelanda | 3 meses después de la salida | [Foreign Office del Reino Unido](https://www.gov.uk/foreign-travel-advice/new-zealand/entry-requirements): caducidad al menos 3 meses después del día en que planeas salir |
 
 Esta no es una lista exhaustiva, y los requisitos varían según tu nacionalidad —no solo el destino. Siempre verifica tu asesoramiento oficial de viaje del gobierno antes de reservar.
 
@@ -71,11 +71,11 @@ Siempre verifica tus requisitos específicos usando el IATA Travel Centre, el si
 
 ## Cuándo No Se Aplica la Regla de los 6 Meses
 
-Muchos destinos no piden nada más allá de las fechas de tu viaje. El Foreign Office del Reino Unido lo expresa claramente para Japón: tu pasaporte debe ser válido durante la duración de tu estancia, y no se requiere ningún periodo adicional de validez. Australia y Estados Unidos usan el mismo estándar, pidiendo solo que tu pasaporte permanezca válido durante la duración de tu estancia prevista.
+Muchos destinos no piden nada más allá de las fechas de tu viaje. El [Foreign Office del Reino Unido](https://www.gov.uk/foreign-travel-advice/japan/entry-requirements) lo expresa claramente para Japón: tu pasaporte debe ser válido durante la duración de tu estancia, y no se requiere ningún periodo adicional de validez. [Australia](https://www.gov.uk/foreign-travel-advice/australia/entry-requirements) y [Estados Unidos](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements) usan el mismo estándar, pidiendo solo que tu pasaporte permanezca válido durante la duración de tu estancia prevista.
 
 También puede que encuentres listas de países cuyos pasaportes se consideran válidos durante seis meses después de su fecha de caducidad. Eso es un acuerdo propio de Estados Unidos, no una prórroga de tu pasaporte. La Oficina de Aduanas y Protección Fronteriza de EE. UU. publica una lista de países cuyos ciudadanos están exentos del requisito estadounidense de validez de seis meses y solo necesitan un pasaporte válido para la duración de su estancia prevista. Se aplica únicamente a la entrada en Estados Unidos y a ningún otro caso, y un pasaporte caducado sigue caducado en todas partes.
 
-Europa se sitúa en un punto intermedio, y es el nivel que la gente malinterpreta con más frecuencia. Para visitar el área Schengen, el Foreign Office dice que tu pasaporte necesita una fecha de vencimiento de al menos tres meses después del día que planeas salir. Tres meses, no seis.
+Europa se sitúa en un punto intermedio, y es el nivel que la gente malinterpreta con más frecuencia. Para visitar el área Schengen, el [Foreign Office](https://www.gov.uk/foreign-travel-advice/france/entry-requirements) dice que tu pasaporte necesita una fecha de vencimiento de al menos tres meses después del día que planeas salir. Tres meses, no seis.
 
 Hay una segunda condición Schengen que sorprende a la gente mucho más a menudo que la primera: tu fecha de expedición tiene que ser de menos de diez años antes del día que llegas. Ambas condiciones deben cumplirse, y un pasaporte puede cumplir una mientras falla la otra.
 
@@ -125,7 +125,7 @@ Estas fuentes te dicen el requisito oficial y si se aplica a los titulares de tu
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 
-Fuentes que hemos comprobado (6 de noviembre de 2026)
+Fuentes oficiales
 
 - [UK Foreign Office: USA entry requirements](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements)
 - [UK Foreign Office: France entry requirements](https://www.gov.uk/foreign-travel-advice/france/entry-requirements)

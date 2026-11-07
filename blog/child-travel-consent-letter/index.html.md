@@ -33,7 +33,7 @@ A letter is commonly required in these situations:
 - **A child travels with one parent whose surname differs from the child's.** This raises flags at some borders, particularly for younger children.
 - **A child is adopted or in foster care.** Legal guardianship documents and consent may be required alongside the letter.
 
-**Critical caveat:** rules vary widely. Canada does not legally require a consent letter, but the Government of Canada strongly recommends one and notes that "failure to produce a letter upon request may result in delays or a refusal to enter or exit a country." South Africa asks for a parental consent affidavit when a parent is not travelling. Some countries apply requirements only to children under a certain age. There is no global standard.
+**Critical caveat:** rules vary widely. Canada does not legally require a consent letter, but the [Government of Canada](https://travel.gc.ca/travelling/children/consent-letter) strongly recommends one and notes that "failure to produce a letter upon request may result in delays or a refusal to enter or exit a country." South Africa asks for a parental consent affidavit when a parent is not travelling. Some countries apply requirements only to children under a certain age. There is no global standard.
 
 Always verify requirements directly with the immigration authority for your specific destination country before travelling. Use the IATA Travel Centre to check entry requirements, or contact your destination country's embassy. If you are unsure, having the letter is better than the alternative: being stopped at check-in or the border.
 
@@ -63,8 +63,8 @@ Where a witnessed letter is asked for or recommended, that usually means a notar
 
 What a few countries say about notarisation:
 
-- **Canada.** A consent letter is not legally required, but the Government of Canada strongly recommends one and recommends a notary public witness the signature. Border and airline staff may request it on entry or exit.
-- **South Africa.** Where a parent is not travelling, the Department of Home Affairs asks for a parental consent affidavit, which it says must not be older than 4 months when presented. Check the current Home Affairs page.
+- **Canada.** A consent letter is not legally required, but the [Government of Canada](https://travel.gc.ca/travelling/children/documents) strongly recommends one and recommends a notary public witness the signature. Border and airline staff may request it on entry or exit.
+- **South Africa.** Where a parent is not travelling, the [Department of Home Affairs](https://www.gov.za/news/speeches/director-general-mkuseli-apleni-media-briefing-new-requirements-travelling-children) asks for a parental consent affidavit, which it says must not be older than 4 months when presented. Check the current Home Affairs page.
 - **Australia.** Smartraveller publishes guidance on travelling with children, and airlines may ask for a letter. Check it for the country you leave from and the one you enter.
 - **United Kingdom.** Not legally required for outbound travel, but airlines and destination border officers may request one when a child travels with one parent or with a non-parent adult. Check the GOV.UK guidance for your route.
 - **United States.** Not federally mandated but recommended. Some states recognise notarisation explicitly.
@@ -94,7 +94,7 @@ Even well-prepared families trip up in predictable ways. These are the most freq
 | **United Kingdom** | Not legally required; airlines and destination borders may request | Check current guidance | GOV.UK |
 | **United States** | Not federally required; varies by state | Check current guidance | travel.state.gov |
 | **European Union** | Varies by country | Varies by country | IATA Travel Centre |
-| **New Zealand** | Recommended | Usually signed by the parents and witnessed by a public official | SafeTravel (NZ Government) |
+| **New Zealand** | Recommended | Usually signed by the parents and witnessed by a public official | [SafeTravel](https://www.safetravel.govt.nz/before-you-go/who-is-travelling/travelling-with-children) (NZ Government) |
 
 Treat this table as a starting point, not the final word. Rules change frequently, and the destination's own immigration authority is your most reliable source. Travel blogs and airline pages are useful for context, but they can lag behind the latest requirements.
 
@@ -125,7 +125,7 @@ Go through this list before you leave the house, not at the check-in desk, becau
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [NZ SafeTravel: Travelling with children](https://www.safetravel.govt.nz/before-you-go/who-is-travelling/travelling-with-children)

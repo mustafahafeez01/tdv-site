@@ -19,7 +19,7 @@ Source: https://traveldocumentvault.com/id/blog/us-child-passport-renewal-under-
 
 Paspor AS yang diterbitkan untuk anak di bawah 16 tahun tidak bisa diperpanjang. Saat habis masa berlakunya, Anda mengajukan paspor baru secara langsung, dengan cara yang sama seperti pertama kali, dan kedua orang tua ikut serta lagi. Ada lebih banyak dokumen dibanding perpanjangan paspor orang dewasa, tapi tidak ada yang baru jika Anda pernah melaluinya sekali.
 
-Regulasi paspor federal menetapkan batas di usia 16 tahun: perpanjangan lewat pos atau online hanya tersedia jika paspor terakhir diterbitkan pada usia 16 tahun atau lebih, sehingga setiap paspor yang didapat anak sebelum usia itu berakhir dengan pengajuan baru. Anak yang mendapat paspor pertama saat masih bayi bisa melalui empat kali pengajuan sebelum berusia 16 tahun, masing-masing dengan kedua orang tua terlibat.
+[Regulasi paspor federal](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-F/part-51) menetapkan batas di usia 16 tahun: perpanjangan lewat pos atau online hanya tersedia jika paspor terakhir diterbitkan pada usia 16 tahun atau lebih, sehingga setiap paspor yang didapat anak sebelum usia itu berakhir dengan pengajuan baru. Anak yang mendapat paspor pertama saat masih bayi bisa melalui empat kali pengajuan sebelum berusia 16 tahun, masing-masing dengan kedua orang tua terlibat.
 
 ## Paspor yang Diterbitkan Sebelum Usia 16 Berlaku Lima Tahun
 
@@ -69,7 +69,7 @@ Dengan lebih dari satu anak, tanggalnya akan berjauhan. Paspor yang diterbitkan 
 
 Yang membuat perbedaan adalah memulai lebih awal. Kami akan mulai sekitar sembilan bulan sebelum paspor anak habis masa berlakunya: cukup waktu untuk menemukan jadwal yang cocok untuk kedua orang tua, mendapatkan surat pernyataan yang dinotariskan, dan masih punya waktu jika ada yang perlu diulang. Panduan kami tentang [kapan memperpanjang paspor sebelum kedaluwarsa](https://traveldocumentvault.com/id/blog/renew-passport-before-expiry/) membahas waktunya lebih detail.
 
-Sumber yang kami periksa (6 November 2026)
+Sumber resmi
 
 - [US eCFR: 22 CFR Part 51 (passports)](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-F/part-51)
 

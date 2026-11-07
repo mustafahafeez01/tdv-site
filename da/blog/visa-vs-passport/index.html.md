@@ -22,9 +22,9 @@ Pas og visum lyder næsten som det samme, men de gør hver sit arbejde: det ene 
 
 Dit pas indeholder dit navn, din fødselsdato, dit foto og et unikt pasnummer – udstedt af din regering og anerkendt verden over som bevis på dit statsborgerskab.
 
-Det fungerer som din officielle legitimation til international rejse. På de fleste internationale rejser har du brug for det for at forlade dit land og blive lukket ind i udlandet, selvom nogle regioner accepterer andre dokumenter, såsom nationale id-kort inden for Europa eller et amerikansk pasbevis (passport card) ved land- og søgrænser. Grænsevagter undersøger det ved grænserne, luftfartsselskaber kræver det til internationale flyvninger, og toldmyndighederne kontrollerer det, når du ankommer.
+Det fungerer som din officielle legitimation til international rejse. På de fleste internationale rejser har du brug for det for at forlade dit land og blive lukket ind i udlandet, selvom nogle regioner accepterer andre dokumenter, såsom nationale id-kort inden for Europa eller et [amerikansk pasbevis (passport card)](https://www.cbp.gov/travel/us-citizens/western-hemisphere-travel-initiative) ved land- og søgrænser. Grænsevagter undersøger det ved grænserne, luftfartsselskaber kræver det til internationale flyvninger, og toldmyndighederne kontrollerer det, når du ankommer.
 
-Pas er typisk gyldige i flere år (ofte 10 år for voksne, 5 år for børn), selvom gyldighedsperioden varierer efter land. Når dit pas udløber, kan du ikke rejse internationalt og skal søge om fornyelse. At holde styr på den dato betyder mere, end de fleste forventer, for mange lande kræver mindst 6 måneders resterende gyldighed, før de lader dig komme ind – så et pas, der ikke er udløbet endnu, kan stadig blive afvist ved grænsen. Din destinations ambassade kan bekræfte den præcise regel, den anvender.
+Pas er typisk gyldige i flere år (ofte 10 år for voksne, 5 år for børn), selvom gyldighedsperioden varierer efter land. Når dit pas udløber, kan du ikke rejse internationalt og skal søge om fornyelse. At holde styr på den dato betyder mere, end de fleste forventer, for mange lande kræver [mindst 6 måneders resterende gyldighed](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), før de lader dig komme ind – så et pas, der ikke er udløbet endnu, kan stadig blive afvist ved grænsen. Din destinations ambassade kan bekræfte den præcise regel, den anvender.
 
 ## Hvad er et visum
 
@@ -59,7 +59,7 @@ De fleste lande udsteder visum i disse kategorier:
 - **Turistvisum:** Den mest almindelige type, udstedt til ferierejser, sightseeing og besøg hos venner eller familie.
 - **Arbejdsvisum:** Kræves ved beskæftigelse i udlandet. Arbejdsgivere sponsorerer typisk disse, med specifikke begrænsninger på, hvilket arbejde du må udføre.
 - **Studievisum:** Til studier på en anerkendt uddannelsesinstitution, ofte med begrænsninger på arbejde ved siden af og bestemte tidsgrænser.
-- **Transitvisum:** Kræves af nogle lande, når du er på gennemrejse til en anden destination – selv hvis du blot skifter fly.
+- **Transitvisum:** Kræves af nogle lande, når du er på gennemrejse til en anden destination – [selv hvis du blot skifter fly](https://www.gov.uk/transit-visa).
 - **E-visum:** Et elektronisk visum, du ansøger om online, og som typisk gemmes i destinationslandets system, koblet til dit pasnummer. Almindeligt i Sydøstasien og i stigende grad andre steder.
 - **Visum ved ankomst:** Udstedes i lufthavnen eller ved grænsen på din destination, når du lander. Sagsbehandlingen er som regel hurtig, selvom køerne kan være lange, og ikke alle lande tilbyder denne mulighed.
 
@@ -111,15 +111,15 @@ Forvirringen er, at dit gamle pas er udløbet som rejsedokument, mens visummet i
 
 ## Visumfri rejse har stadig grænser
 
-Mange lande har visumfritagelses- eller visumfri aftaler med hinanden, som lader deres borgere krydse grænser uden at skaffe visum på forhånd. Schengenområdet i Europa er det mest kendte eksempel – rejsende kan som regel krydse mellem de 29 medlemsstater uden rutinemæssig grænsekontrol, selvom nogle lande genindfører midlertidig kontrol. Medlemskabet ændrer sig, så Europa-Kommissionens egne Schengen-sider er stedet at bekræfte, hvem der aktuelt er med. Sydøstasien, Caribien og dele af Afrika har lignende ordninger.
+Mange lande har visumfritagelses- eller visumfri aftaler med hinanden, som lader deres borgere krydse grænser uden at skaffe visum på forhånd. Schengenområdet i Europa er det mest kendte eksempel – rejsende kan som regel krydse mellem de 29 medlemsstater uden rutinemæssig grænsekontrol, selvom nogle lande genindfører midlertidig kontrol. Medlemskabet ændrer sig, så [Europa-Kommissionens egne Schengen-sider](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en) er stedet at bekræfte, hvem der aktuelt er med. Sydøstasien, Caribien og dele af Afrika har lignende ordninger.
 
-Visumfri rejse har dog sine grænser. Det gælder som regel kun turisme eller korte ophold, ikke arbejde eller studier. Visumfri perioder er også begrænsede, ofte 30 til 90 dage afhængigt af landet. Overskrider du den tilladte periode, bliver du ulovligt opholdende og risikerer sanktioner som bøder, udvisning eller fremtidige indrejseforbud.
+Visumfri rejse har dog sine grænser. Det gælder som regel kun turisme eller korte ophold, ikke arbejde eller studier. Visumfri perioder er også begrænsede, [ofte 30 til 90 dage](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en) afhængigt af landet. Overskrider du den tilladte periode, bliver du ulovligt opholdende og risikerer sanktioner som bøder, udvisning eller fremtidige indrejseforbud.
 
 Visumfri adgang afhænger også udelukkende af dit statsborgerskab. To personer, der rejser sammen, kan have helt forskellige krav afhængigt af deres pas, hvor den ene krydser grænsen visumfrit, mens den anden skal søge om visum, så det er dit eget statsborgerskab, der tæller her, ikke en rejsekammerats erfaring.
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 
-Kilder vi har tjekket (6. november 2026)
+Officielle kilder
 
 - [European Commission: Schengen area](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en)
 - [European Commission: Short-stay calculator](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en)

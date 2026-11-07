@@ -30,15 +30,15 @@ Una carta che scade domani è tecnicamente ancora un documento di viaggio valido
 
 ## Cosa conta come carta d'identità nazionale SEE
 
-Quando un modulo di prenotazione o un addetto al check-in chiede una «carta d'identità nazionale SEE», intende la carta d'identità che il tuo paese rilascia ai propri cittadini, quella che indica la tua nazionalità. Il SEE comprende i 27 paesi dell'UE più Islanda, Liechtenstein e Norvegia; la Svizzera ne resta fuori, ma le indicazioni Your Europe della Commissione europea confermano che i cittadini UE possono viaggiare anche lì con una carta d'identità nazionale.
+Quando un modulo di prenotazione o un addetto al check-in chiede una «carta d'identità nazionale SEE», intende la carta d'identità che il tuo paese rilascia ai propri cittadini, quella che indica la tua nazionalità. Il SEE comprende i 27 paesi dell'UE più Islanda, Liechtenstein e Norvegia; la Svizzera ne resta fuori, ma le indicazioni [Your Europe](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm) della Commissione europea confermano che i cittadini UE possono viaggiare anche lì con una carta d'identità nazionale.
 
-Una carta di soggiorno indica dove vivi, non la tua nazionalità, quindi viaggia insieme al passaporto invece di sostituirlo. Il governo britannico indica ai residenti britannici in Spagna di mostrare una prova di residenza, come la propria carta di soggiorno TIE, insieme al passaporto al controllo di frontiera spagnolo. Nemmeno patenti di guida, carte bancarie e tessere fiscali contano, e Your Europe avverte che possono essere rifiutate come prova d'identità.
+Una carta di soggiorno indica dove vivi, non la tua nazionalità, quindi viaggia insieme al passaporto invece di sostituirlo. [Il governo britannico](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements) indica ai residenti britannici in Spagna di mostrare una prova di residenza, come la propria carta di soggiorno TIE, insieme al passaporto al controllo di frontiera spagnolo. Nemmeno patenti di guida, carte bancarie e tessere fiscali contano, e Your Europe avverte che possono essere rifiutate come prova d'identità.
 
 L'attuale carta UE è facile da riconoscere. Ha le dimensioni di una carta di credito, ha una zona a lettura ottica (le righe di codice che uno scanner legge), e mostra sul fronte il codice a due lettere del paese emittente in un rettangolo blu circondato da 12 stelle gialle. Un chip all'interno conserva la tua foto e due impronte digitali.
 
-Le carte più vecchie sono quelle che creano problemi. In base al regolamento UE sulle carte d'identità, una carta senza zona a lettura ottica funzionante, o sotto lo standard minimo di sicurezza internazionale, ha perso la validità entro il 3 agosto 2026, anche se la data stampata è successiva. La maggior parte delle altre carte di vecchio formato resta valida fino alla scadenza stampata o al 3 agosto 2031, qualunque data arrivi prima. Se la tua carta è precedente al codice circondato dalle stelle e non ha zona a lettura ottica, noi la rinnoveremmo subito, invece di rischiare all'imbarco.
+Le carte più vecchie sono quelle che creano problemi. In base al [regolamento UE sulle carte d'identità](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1157), una carta senza zona a lettura ottica funzionante, o sotto lo standard minimo di sicurezza internazionale, ha perso la validità entro il 3 agosto 2026, anche se la data stampata è successiva. La maggior parte delle altre carte di vecchio formato resta valida fino alla scadenza stampata o al 3 agosto 2031, qualunque data arrivi prima. Se la tua carta è precedente al codice circondato dalle stelle e non ha zona a lettura ottica, noi la rinnoveremmo subito, invece di rischiare all'imbarco.
 
-Per il Regno Unito, la carta di solito non funziona. Il Regno Unito generalmente accetta le carte d'identità UE, SEE e svizzere solo per gruppi limitati, come chi ha lo status settled o pre-settled, quindi controlla il sito GOV.UK prima di un viaggio nel Regno Unito.
+Per il Regno Unito, la carta di solito non funziona. Il Regno Unito generalmente accetta le carte d'identità UE, SEE e svizzere solo per gruppi limitati, come chi ha lo status settled o pre-settled, quindi controlla il sito [GOV.UK](https://www.gov.uk/guidance/visiting-the-uk-as-an-eu-eea-or-swiss-citizen) prima di un viaggio nel Regno Unito.
 
 ## Quando serve invece il passaporto
 
@@ -83,7 +83,7 @@ Ciò che aiuta davvero è avere un unico posto per entrambi i documenti, che con
 
 Comincia oggi: prendi la tua carta d'identità, controlla la data di scadenza ed esaminala per vedere se ci sono crepe, sbiadimenti o plastica deformata. Se è al limite, prenota il rinnovo prima di prenotare il viaggio.
 
-Fonti che abbiamo verificato (6 novembre 2026)
+Fonti ufficiali
 
 - [Your Europe (EU): Travel documents for EU nationals](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm)
 - [EU law: Regulation 2019/1157 on identity cards](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1157)

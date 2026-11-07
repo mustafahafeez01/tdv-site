@@ -16,13 +16,13 @@ Source: https://traveldocumentvault.com/fr/blog/how-long-is-passport-valid-for-t
 - Les passeports des enfants expirent plus rapidement que ceux des parents — **vérifiez chaque passeport de votre groupe individuellement** avant de réserver, pas seulement le vôtre.
 - Le seuil de renouvellement pratique est **12 mois de validité restante**, pas la date d'expiration elle-même.
 
-Sept mois restant sur votre passeport, cela semble beaucoup. Vous réservez les vols, vérifiez l'allocation de bagages, commencez à regarder les hôtels. Puis vous arrivez au guichet d'enregistrement de votre vol vers Bangkok et l'agent fait une pause. La Thaïlande exige que votre passeport soit valable au moins 6 mois le jour de votre arrivée. Vous êtes deux semaines en retard. Vous ne montez pas à bord.
+Sept mois restant sur votre passeport, cela semble beaucoup. Vous réservez les vols, vérifiez l'allocation de bagages, commencez à regarder les hôtels. Puis vous arrivez au guichet d'enregistrement de votre vol vers Bangkok et l'agent fait une pause. [La Thaïlande exige](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements) que votre passeport soit valable au moins 6 mois le jour de votre arrivée. Vous êtes deux semaines en retard. Vous ne montez pas à bord.
 
 C'est l'une des règles les plus mal comprises du voyage. Un passeport qui n'a pas expiré peut ne pas répondre aux exigences d'entrée de dizaines de destinations populaires. Comprendre comment les mois de validité du passeport sont réellement comptabilisés peut vous éviter une très grosse erreur.
 
 ## Les passeports d'adultes durent bien plus longtemps que ceux des enfants
 
-La période de validité standard d'un passeport pour adulte est de 10 ans à compter de la date de délivrance dans la plupart des pays. Les passeports pour enfants expirent plus tôt — généralement 5 ans. Nous vérifierions le passeport d'un enfant avant celui de n'importe qui d'autre, car c'est celui que tout le monde suppose en règle.
+La période de validité standard d'un passeport pour adulte est de 10 ans à compter de la date de délivrance dans la plupart des pays. Les passeports pour enfants expirent plus tôt — [généralement 5 ans](https://www.gov.uk/get-a-child-passport). Nous vérifierions le passeport d'un enfant avant celui de n'importe qui d'autre, car c'est celui que tout le monde suppose en règle.
 
 | Pays | Validité adulte | Validité enfant |
 |---|---|---|
@@ -72,7 +72,7 @@ Un enfant de 3 ans qui a obtenu son premier passeport en 2023 a un document qui 
 La réponse pratique est: lorsque vous passez sous 12 mois de validité restante, et non quand il est sur le point d'expirer. Voici pourquoi 12 mois est le bon seuil plutôt que la date d'expiration elle-même:
 
 - Cela vous donne un délai tampon complet de 6 mois pour toute destination qui applique la règle.
-- Le renouvellement du passeport prend du temps, et les délais de traitement changent — le bureau des passeports HM déconseille de réserver un voyage avant l'arrivée du nouveau passeport, et lui comme le Département d'État américain publient leurs délais de traitement actuels. C'est pourquoi commencer avec 6 mois restants ne laisse que peu de marge.
+- Le renouvellement du passeport prend du temps, et les délais de traitement changent — le bureau des passeports HM [déconseille de réserver un voyage](https://www.gov.uk/renew-adult-passport) avant l'arrivée du nouveau passeport, et lui comme le Département d'État américain publient leurs délais de traitement actuels. C'est pourquoi commencer avec 6 mois restants ne laisse que peu de marge.
 - Les plans de dernière minute arrivent. Un passeport avec 14 mois restants garde toutes les destinations ouvertes. Un passeport avec 5 mois restants ferme une grande partie du monde.
 
 L'erreur la plus courante est de définir un rappel sur la date d'expiration elle-même. À ce moment-là, vous ne pouvez pas voyager vers la plupart des destinations qui appliquent la règle des 6 mois.
@@ -83,7 +83,7 @@ Si vous lisez aussi notre guide sur la [durée du renouvellement du passeport](h
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
-Sources vérifiées (6 novembre 2026)
+Sources officielles
 
 - [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
 - [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)

@@ -40,7 +40,7 @@ Wat dit in de praktijk betekent
 
 Stel dat je reist tijdens het hoogseizoen van een land en je paspoort begint richting de grens te lopen. Betalen voor de snellere route koopt je zekerheid: een eerdere plek in de rij, ongeacht hoe lang de standaardachterstand die maand is geworden. Blijf je in plaats daarvan bij standaardverwerking tijdens een drukke periode, dan gok je erop dat de gepubliceerde tijdschatting nog steeds de werkelijkheid weerspiegelt – en dat is precies de aanname die mensen te grazen neemt.
 
-Eén kanttekening: toelating tot de snellere routes hangt meestal af van je situatie, niet alleen van je bereidheid om te betalen. De 1 Day Premium-service van het VK is alleen voor verlengingen van volwassenen, met de vroegst mogelijke afspraak 2 dagen na je aanvraag. Controleer de toelatingsregels voordat je aanneemt dat een route voor jou open staat – kom er niet pas achter aan de balie.
+Eén kanttekening: toelating tot de snellere routes hangt meestal af van je situatie, niet alleen van je bereidheid om te betalen. De [1 Day Premium-service](https://www.gov.uk/get-a-passport-urgently) van het VK is alleen voor verlengingen van volwassenen, met de vroegst mogelijke afspraak 2 dagen na je aanvraag. Controleer de toelatingsregels voordat je aanneemt dat een route voor jou open staat – kom er niet pas achter aan de balie.
 
 ## Een korte, voorspelbare lijst veroorzaakt de meeste vertraging
 
@@ -66,7 +66,7 @@ Wees voorzichtig met het overnemen van iemand anders' tijdlijn. Een vriend die v
 
 Dit is het deel dat we bewust overlaten aan degenen die het systeem daadwerkelijk runnen. In het VK is dat HM Passport Office. In de VS is dat het ministerie van Buitenlandse Zaken. In Australië is dat het Australische paspoortkantoor. In Canada is dat Immigration, Refugees and Citizenship Canada, samen met Service Canada voor persoonlijke aanvragen. De meeste andere landen publiceren een vergelijkbaar getal via hun eigen nationale paspoort- of buitenlandse zakeninstantie.
 
-Wat context helpt je dat getal correct te gebruiken. HM Passport Office draait een digitale dienst voor bevoegde volwassenen die vanuit het VK aanvragen; iedereen die vanuit het buitenland aanvraagt gebruikt in plaats daarvan de aparte overzeese dienst. Canada biedt online verlenging als je het paspoort over 20 werkdagen of later nodig hebt; voor alle anderen geldt de papieren aanvraagprocedure. Raadpleeg voor de VS en Australië de officiële website voor de actuele voorwaarden en indieningswijze. Reken waar je ook aanvraagt posttijd erbij op naast wat IRCC publiceert. Deze instanties zijn het vertrouwen waard omdat hun getallen meebewegen met het werkelijke, actuele aanvraagvolume, niet met een verouderd gemiddelde – check vlak voordat je aanvraagt, niet weken van tevoren.
+Wat context helpt je dat getal correct te gebruiken. HM Passport Office draait een digitale dienst voor bevoegde volwassenen die vanuit het VK aanvragen; iedereen die vanuit het buitenland aanvraagt gebruikt in plaats daarvan de aparte overzeese dienst. [Canada biedt online verlenging](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html) als je het paspoort over 20 werkdagen of later nodig hebt; voor alle anderen geldt de papieren aanvraagprocedure. Raadpleeg voor de VS en Australië de officiële website voor de actuele voorwaarden en indieningswijze. Reken waar je ook aanvraagt posttijd erbij op naast wat IRCC publiceert. Deze instanties zijn het vertrouwen waard omdat hun getallen meebewegen met het werkelijke, actuele aanvraagvolume, niet met een verouderd gemiddelde – check vlak voordat je aanvraagt, niet weken van tevoren.
 
 ## Kun je reizen terwijl je paspoort wordt verlengd?
 
@@ -82,7 +82,7 @@ Pak vandaag je eigen paspoort erbij en kijk hoeveel maanden het nog heeft, afgez
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 
-Bronnen die we hebben gecontroleerd (6 november 2026)
+Officiële bronnen
 
 - [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
 - [Government of Canada: Renew an adult passport](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html)

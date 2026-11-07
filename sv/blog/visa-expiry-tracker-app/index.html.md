@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/sv/blog/visa-expiry-tracker-app/
 - Besökare i Schengenområdet måste bevaka ett rullande 90/180-dagarsfönster, inte bara ett enda utgångsdatum, eftersom räkningen följer din faktiska reshistorik och inte kalendern.
 - Att bevaka visum och pass tillsammans på samma ställe minskar risken för en krock: att resa in på ett giltigt visum men med ett pass som går ut innan den planerade vistelsen är slut.
 
-En overstay på visumet är ett av de mest konsekvensrika misstag en resenär kan göra. Till skillnad från ett missat flyg, stressande men i grunden lösbart, skapar en overstay ett formellt register hos migrationsmyndigheterna som kan följa dig i flera år. I USA gäller enligt avsnitt 212(a)(9)(B) i den amerikanska Immigration and Nationality Act att den som vistats olagligt i mer än 180 dagar men under ett år och sedan lämnar landet i regel utestängs från återinresa i tre år, och ett år eller mer av olaglig vistelse innebär i regel ett tioårigt förbud. Dessa konsekvenser är inte allmänt kända.
+En overstay på visumet är ett av de mest konsekvensrika misstag en resenär kan göra. Till skillnad från ett missat flyg, stressande men i grunden lösbart, skapar en overstay ett formellt register hos migrationsmyndigheterna som kan följa dig i flera år. I USA gäller enligt avsnitt 212(a)(9)(B) i den [amerikanska Immigration and Nationality Act](https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chap12-subchapII-partII-sec1182.htm) att den som vistats olagligt i mer än 180 dagar men under ett år och sedan lämnar landet i regel utestängs från återinresa i tre år, och ett år eller mer av olaglig vistelse innebär i regel ett tioårigt förbud. Dessa konsekvenser är inte allmänt kända.
 
 En app för visumbevakning är byggd för att förhindra just detta: den behöver bevaka flera datum samtidigt – inresans giltighet, maximal vistelsetid och antal inresor – där vart och ett är en separat deadline.
 
@@ -43,7 +43,7 @@ En bevakning som bara följer inresans giltighetsdatum missar precis den här f�
 
 För resenärer som besöker flera europeiska länder är Schengenområdets 90/180-dagarsregel ett av de mest missförstådda inresevillkoren inom internationellt resande. Medborgare i länder med visumfri tillgång till Schengen (bland andra Storbritannien, USA, Kanada och Australien) får vistas högst 90 dagar i Schengenområdet under en rullande period på 180 dagar.
 
-EU-kommissionen tillhandahåller en officiell kalkylator för Schengenvistelser som hjälper resenärer att räkna ut sina tillåtna dagar, vilket spelar roll eftersom det handlar om ett *rullande fönster*, inte en nollställning varje kalenderår. Dagar som spenderades i Schengen för sex månader sedan räknas fortfarande mot din nuvarande gräns, så att kontrollera ett enda utgångsdatum fångar inte upp en overstay. Det som räknas är din faktiska in- och utresehistorik, inte datumet som står tryckt på visumet.
+EU-kommissionen tillhandahåller en [officiell kalkylator för Schengenvistelser](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en) som hjälper resenärer att räkna ut sina tillåtna dagar, vilket spelar roll eftersom det handlar om ett *rullande fönster*, inte en nollställning varje kalenderår. Dagar som spenderades i Schengen för sex månader sedan räknas fortfarande mot din nuvarande gräns, så att kontrollera ett enda utgångsdatum fångar inte upp en overstay. Det som räknas är din faktiska in- och utresehistorik, inte datumet som står tryckt på visumet.
 
 ## Vad som händer när du gör en overstay
 
@@ -51,7 +51,7 @@ Konsekvenserna av en overstay på visumet varierar mellan länder men är genomg
 
 - **Storbritannien:** Overstays registreras och påverkar framtida visumansökningar. Brittiska inrikesministeriet (Home Office) beaktar overstays vid bedömning av trovärdighet och kan avslå senare ansökningar.
 - **Australien:** En overstay kan leda till begränsningar för framtida visumansökningar och avlägsnande från landet. Enligt Migration Act 1958 registreras overstays och påverkar framtida visumansökningar och möjligheten till återinresa.
-- **Schengenområdet:** Vistelser registreras vid gränsen, och ett inreseförbud utfärdat av ett Schengenland delas i regel med de andra via Schengens informationssystem (SIS), så det gäller i hela Schengenområdet, som EU-kommissionen för närvarande listar till 29 länder.
+- **Schengenområdet:** Vistelser registreras vid gränsen, och ett inreseförbud utfärdat av ett Schengenland delas i regel med de andra via [Schengens informationssystem](https://home-affairs.ec.europa.eu/policies/schengen/schengen-information-system/what-sis-and-how-does-it-work_en) (SIS), så det gäller i hela Schengenområdet, [som EU-kommissionen för närvarande listar till 29 länder](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en).
 - **Thailand:** Overstays medför en daglig avgift fastställd av thailändska migrationsmyndigheten, upp till ett tak, och en overstay på mer än 90 dagar kan leda till utvisning och förbud mot att återvända.
 
 I samtliga fall följer overstay-registret ofta med dig: det syns i migrationsdatabaser som kontrolleras vid framtida gränspasseringar och visumansökningar.
@@ -80,7 +80,7 @@ Kontrollera passets utgångsdatum mot dina visumdatum i dag: även ett giltigt v
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 
-Källor vi har kontrollerat (6 november 2026)
+Officiella källor
 
 - [US Code: Title 8, section 1182](https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chap12-subchapII-partII-sec1182.htm)
 - [European Commission: Schengen area](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en)

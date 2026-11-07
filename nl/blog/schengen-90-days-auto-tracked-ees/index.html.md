@@ -16,13 +16,13 @@ Source: https://traveldocumentvault.com/nl/blog/schengen-90-days-auto-tracked-ee
 - De **officiële rekentool van de EU** voor kort verblijf werkt, maar is handmatig – één persoon, één venster, één berekening tegelijk.
 - Gezinnen hebben te maken met **een apart venster per persoon**. Precies daar bewijst dagteller-tracking in een app zijn waarde.
 
-Op je laatste reis naar Europa kreeg je waarschijnlijk een stempel bij de grens. Die stempel is verdwenen. Sinds 10 april 2026 is het EU-inreis-uitreissysteem (EES) volledig operationeel in het hele Schengengebied, en de vervaagde inkt die ooit je reizen vastlegde, is vervangen door een digitale registratie die begint op het moment dat je de grens oversteekt.
+Op je laatste reis naar Europa kreeg je waarschijnlijk een stempel bij de grens. Die stempel is verdwenen. Sinds 10 april 2026 is het EU-inreis-uitreissysteem (EES) [volledig operationeel](https://home-affairs.ec.europa.eu/news/entryexit-system-will-become-fully-operational-10-april-2026-2026-03-30_en) in het hele Schengengebied, en de vervaagde inkt die ooit je reizen vastlegde, is vervangen door een digitale registratie die begint op het moment dat je de grens oversteekt.
 
 Voor iedereen die Schengendagen telt – en dat zou elke niet-EU-bezoeker moeten doen – verandert dit de inzet aanzienlijk. Dit is wat het nieuwe systeem daadwerkelijk doet, wat het bewust niet doet, en hoe je zelf de tel bijhoudt zodat een grens je nooit verrast.
 
 ## Wat er is veranderd aan Europa's grenzen
 
-EES registreert van elke niet-EU-reiziger de vingerafdrukken, gezichtsopname, reisdocument en exacte in- en uitreisdatums. Toen EES op 10 april 2026 volledig operationeel werd, meldde de Europese Commissie dat het sinds de gefaseerde start in oktober 2025 al meer dan 52 miljoen in- en uitreizen had geregistreerd, met meer dan 27.000 weigeringen van toegang. Eerste registratie duurt een paar minuten bij de kiosk, en luchthavens meldden deze zomer urenlange wachtrijen op piekmomenten terwijl iedereen eraan went.
+EES registreert van elke niet-EU-reiziger de vingerafdrukken, gezichtsopname, reisdocument en exacte in- en uitreisdatums. Toen EES op 10 april 2026 volledig operationeel werd, meldde de [Europese Commissie](https://home-affairs.ec.europa.eu/news/entryexit-system-ees-fully-operational-2026-04-10_en) dat het sinds de gefaseerde start in oktober 2025 al meer dan 52 miljoen in- en uitreizen had geregistreerd, met meer dan 27.000 weigeringen van toegang. Eerste registratie duurt een paar minuten bij de kiosk, en luchthavens meldden deze zomer urenlange wachtrijen op piekmomenten terwijl iedereen eraan went.
 
 Niet iedereen wordt geregistreerd. EU-burgers, inwoners van Schengenlanden en houders van langdurige visa zijn vrijgesteld. Als je op basis van de visumvrije kortverblijfregeling reist – de meeste Britse, Amerikaanse, Canadese en Australische reizigers, bijvoorbeeld – geldt EES voor jou.
 
@@ -32,11 +32,11 @@ De regel zelf is niet veranderd: je mag maximaal 90 dagen in het Schengengebied 
 
 ![Tijdlijndiagram van het Schengen 90/180-rollend venster: van 180 dagen geleden tot vandaag gebruiken twee reizen van 30 en 45 dagen 75 van de 90 dagen, waardoor er 15 overblijven; het venster schuift elke dag en aankomst- en vertrekdag tellen allebei mee](https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/90-180-window-nl.jpg) Het venster wordt nooit gereset: voor elke dag mogen de voorgaande 180 dagen niet meer dan 90 dagen verblijf bevatten.
 
-Wat wel is veranderd, is de handhaving. Bij paspoortstempels betekende het bewijzen van een overschrijding het ontcijferen van vervaagde inkt, en grenswachters hadden speelruimte. Nu zijn de datums exact, en het systeem signaleert een overschrijding op het moment dat die zich voordoet. Reken op weigering bij je volgende inreis, en in sommige gevallen een inreisverbod, in het algemeen van maximaal vijf jaar, dat autoriteiten vastleggen in het Schengeninformatiesysteem. De foutmarge is van vaag naar nul gegaan.
+Wat wel is veranderd, is de handhaving. Bij paspoortstempels betekende het bewijzen van een overschrijding het ontcijferen van vervaagde inkt, en grenswachters hadden speelruimte. Nu zijn de datums exact, en het systeem signaleert een overschrijding op het moment dat die zich voordoet. Reken op weigering bij je volgende inreis, en in sommige gevallen een [inreisverbod](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32008L0115), in het algemeen van maximaal vijf jaar, dat autoriteiten vastleggen in het Schengeninformatiesysteem. De foutmarge is van vaag naar nul gegaan.
 
 ## De valkuil: EES handhaaft, het plant niet
 
-EES registreert je dagen voor handhaving, en de EU laat je nu zien waar je staat. De online EES-tool, op de officiële website Travel to Europe, toont het aantal dagen dat je nog mag blijven, en bij sommige buitengrensovergangen kun je dezelfde check doen. Wat je ziet, is je registratie tot nu toe. Of een reis die je nog niet hebt gemaakt erin past, moet je nog altijd zelf uitrekenen.
+EES registreert je dagen voor handhaving, en de EU laat je nu zien waar je staat. De online EES-tool, op de [officiële website Travel to Europe](https://travel-europe.europa.eu/en/ees), toont het aantal dagen dat je nog mag blijven, en bij sommige buitengrensovergangen kun je dezelfde check doen. Wat je ziet, is je registratie tot nu toe. Of een reis die je nog niet hebt gemaakt erin past, moet je nog altijd zelf uitrekenen.
 
 De EU publiceert een officiële rekentool voor kort verblijf die het zeker waard is om te bookmarken. Je voert je vorige in- en uitreisdatums in, en de tool vertelt je of een gepland verblijf binnen je venster past. Dat werkt goed voor één reiziger die goede administratie bijhoudt. De wrijving ontstaat wanneer die administratie alleen in je geheugen zit, of wanneer je dezelfde oefening voor vier mensen tegelijk doet.
 
@@ -44,11 +44,11 @@ De EU publiceert een officiële rekentool voor kort verblijf die het zeker waard
 
 EES geldt niet voor iedereen. Het systeem registreert niet-EU-bezoekers die aankomen met de visumvrije kortverblijfregeling, en mensen met een kortverblijfvisum. Heb je de nationaliteit van de VS, het VK, Canada, Australië, of tientallen andere landen, dan geldt EES voor jou zodra je het Schengengebied binnenkomt.
 
-Ben je EU-, EER- of Zwitsers staatsburger, dan ben je vrijgesteld - je paspoort doorloopt geen speciale inreisprocedure, en EES registreert je in- en uitreizen niet. De officiële lijst met vrijstellingen is langer en omvat ook niet-EU-familieleden van EU-burgers die een verblijfskaart hebben. Vrijgesteld zijn van EES is overigens niet hetzelfde als vrijgesteld zijn van de 90/180-regel. Ben je een niet-EU-bezoeker op kort verblijf, dan geldt de regel voor jou, of een grens je nu al heeft geregistreerd of niet. Tijd die je doorbrengt in een Schengenland op basis van een verblijfsvergunning of een langdurig visum (type D) van dat land telt daar niet voor mee, maar korte bezoeken aan andere Schengenlanden tellen daar doorgaans nog wel voor mee, dus controleer dit bij de instantie die je vergunning heeft afgegeven.
+Ben je EU-, EER- of Zwitsers staatsburger, dan ben je vrijgesteld - je paspoort doorloopt geen speciale inreisprocedure, en EES registreert je in- en uitreizen niet. De [officiële lijst met vrijstellingen](https://home-affairs.ec.europa.eu/news/entry-exit-system-fully-operational-10-april-2026-who-exempt-2026-07-27_en) is langer en omvat ook niet-EU-familieleden van EU-burgers die een verblijfskaart hebben. Vrijgesteld zijn van EES is overigens niet hetzelfde als vrijgesteld zijn van de 90/180-regel. Ben je een niet-EU-bezoeker op kort verblijf, dan geldt de regel voor jou, of een grens je nu al heeft geregistreerd of niet. Tijd die je doorbrengt in een Schengenland op basis van een verblijfsvergunning of een langdurig visum (type D) van dat land telt daar niet voor mee, maar korte bezoeken aan andere Schengenlanden tellen daar doorgaans nog wel voor mee, dus controleer dit bij de instantie die je vergunning heeft afgegeven.
 
 ## Wat er gebeurt bij je eerste EES-grensovergang
 
-Het systeem maakt je registratie aan bij je eerste grensovergang naar het Schengengebied. Je sluit aan bij een biometrische kiosk aan de grens - luchthaven, haven of landgrens. Een ambtenaar scant je paspoort of reisdocument om je identiteit te controleren. Het systeem legt je gezichtsopname vast. Heb je geen visum nodig, dan neemt het ook vier vingerafdrukken af; reis je met een visum voor kort verblijf, dan slaat het alleen je gezichtsopname op, omdat je vingerafdrukken al bij de visumaanvraag zijn afgenomen. Dat duurt langer dan de stempel die het vervangt, en je doet het maar één keer.
+Het systeem maakt je registratie aan bij je eerste grensovergang naar het Schengengebied. Je sluit aan bij een biometrische kiosk aan de grens - luchthaven, haven of landgrens. Een ambtenaar scant je paspoort of reisdocument om je identiteit te controleren. Het systeem legt je gezichtsopname vast. Heb je geen visum nodig, dan neemt het ook [vier vingerafdrukken](https://travel-europe.europa.eu/en/ees/faq) af; reis je met een visum voor kort verblijf, dan slaat het alleen je gezichtsopname op, omdat je vingerafdrukken al bij de visumaanvraag zijn afgenomen. Dat duurt langer dan de stempel die het vervangt, en je doet het maar één keer.
 
 Na registratie legt het systeem de exacte datum en tijd van je inreis vast. Overschrijd je later je 90 van de 180 dagen, dan wordt dat tijdstip het referentiepunt dat EES gebruikt om je voortschrijdende venster te berekenen.
 
@@ -106,7 +106,7 @@ De digitale grens is grondig, automatisch en onsentimenteel, maar binnen de 90/1
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 
-Bronnen die we hebben gecontroleerd (6 november 2026)
+Officiële bronnen
 
 - [EU travel: Entry/Exit System (EES)](https://travel-europe.europa.eu/en/ees)
 - [EU travel: EES frequently asked questions](https://travel-europe.europa.eu/en/ees/faq)

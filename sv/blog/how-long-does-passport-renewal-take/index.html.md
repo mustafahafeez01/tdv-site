@@ -40,7 +40,7 @@ Vad det betyder i praktiken
 
 Säg att du reser under ett lands högsäsong och att passet börjar närma sig gränsen. Att betala för den snabbare vägen köper dig säkerhet: en tidigare plats i kön, oavsett hur lång standardkön har vuxit den månaden. Håller du dig i stället till standardhandläggning under en hektisk period satsar du på att den publicerade tidsuppskattningen fortfarande stämmer med verkligheten – vilket är precis det antagandet som ställer till det för folk.
 
-En brasklapp: behörighet för de snabbare vägarna beror oftast på din situation, inte bara på din betalningsvilja. Storbritanniens 1 Day Premium-tjänst gäller bara förnyelser av vuxnas pass, med tidigaste tiden två dagar efter ansökan. Kontrollera behörighetsreglerna innan du antar att en väg är öppen för dig – ta inte reda på det vid disken.
+En brasklapp: behörighet för de snabbare vägarna beror oftast på din situation, inte bara på din betalningsvilja. Storbritanniens [1 Day Premium-tjänst](https://www.gov.uk/get-a-passport-urgently) gäller bara förnyelser av vuxnas pass, med tidigaste tiden två dagar efter ansökan. Kontrollera behörighetsreglerna innan du antar att en väg är öppen för dig – ta inte reda på det vid disken.
 
 ## En kort, förutsägbar lista orsakar de flesta förseningar
 
@@ -66,7 +66,7 @@ Var försiktig med att låna någon annans tidslinje också. En vän som förnya
 
 Det här är den del vi medvetet lämnar till dem som faktiskt driver systemet. I Storbritannien är det HM Passport Office. I USA är det utrikesdepartementet. I Australien är det Australian Passport Office. I Kanada är det Immigration, Refugees and Citizenship Canada, tillsammans med Service Canada för personliga ansökningar. De flesta andra länder publicerar en motsvarande siffra genom sin egen nationella pass- eller utrikesmyndighet.
 
-Lite sammanhang hjälper dig att använda den siffran rätt. HM Passport Office kör en digital tjänst för behöriga vuxna som ansöker inifrån Storbritannien; alla som ansöker från utlandet använder i stället en separat utlandstjänst. Kanada erbjuder onlineförnyelse om du behöver passet om 20 arbetsdagar eller mer, medan övriga följer processen för pappersansökan. För USA och Australien, kontrollera de officiella webbplatserna för aktuella behörighetskrav och hur ansökan lämnas in. Oavsett var du ansöker behöver du räkna med posttid utöver det IRCC publicerar. Dessa myndigheter är värda att lita på eftersom deras siffror rör sig med verklig, aktuell ansökningsvolym, inte ett inaktuellt genomsnitt – kontrollera direkt innan du ansöker, inte veckor i förväg.
+Lite sammanhang hjälper dig att använda den siffran rätt. HM Passport Office kör en digital tjänst för behöriga vuxna som ansöker inifrån Storbritannien; alla som ansöker från utlandet använder i stället en separat utlandstjänst. [Kanada erbjuder onlineförnyelse](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html) om du behöver passet om 20 arbetsdagar eller mer, medan övriga följer processen för pappersansökan. För USA och Australien, kontrollera de officiella webbplatserna för aktuella behörighetskrav och hur ansökan lämnas in. Oavsett var du ansöker behöver du räkna med posttid utöver det IRCC publicerar. Dessa myndigheter är värda att lita på eftersom deras siffror rör sig med verklig, aktuell ansökningsvolym, inte ett inaktuellt genomsnitt – kontrollera direkt innan du ansöker, inte veckor i förväg.
 
 ## Kan du resa medan ditt pass förnyas?
 
@@ -82,7 +82,7 @@ Ta fram ditt eget pass i dag och kontrollera hur många månader det faktiskt ha
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 
-Källor vi har kontrollerat (6 november 2026)
+Officiella källor
 
 - [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
 - [Government of Canada: Renew an adult passport](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html)

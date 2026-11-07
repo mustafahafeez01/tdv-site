@@ -24,7 +24,7 @@ Il problema inizia in piccolo. Tu hai il tuo passaporto, il tuo coniuge ha il su
 
 Di solito una persona finisce per gestire tutto, spesso quella che si occupa già degli altri dettagli logistici del viaggio, e quel singolo punto di fallimento diventa un rischio.
 
-I passaporti dei bambini scadono spesso prima di quelli degli adulti. Nel Regno Unito sono validi per 5 anni, e molti altri paesi rilasciano ai bambini passaporti con validità più breve rispetto a quelli degli adulti. Questo significa che il passaporto del tuo bambino più giovane spesso diventa il fattore limitante per i viaggi familiari. Potresti avere un genitore con 8 anni di validità rimanenti, ma se il passaporto del tuo bambino più giovane scade tra 18 mesi, quello è il tuo orizzonte di pianificazione.
+I passaporti dei bambini scadono spesso prima di quelli degli adulti. Nel Regno Unito [sono validi per 5 anni](https://www.gov.uk/get-a-child-passport), e molti altri paesi rilasciano ai bambini passaporti con validità più breve rispetto a quelli degli adulti. Questo significa che il passaporto del tuo bambino più giovane spesso diventa il fattore limitante per i viaggi familiari. Potresti avere un genitore con 8 anni di validità rimanenti, ma se il passaporto del tuo bambino più giovane scade tra 18 mesi, quello è il tuo orizzonte di pianificazione.
 
 La maggior parte delle famiglie non si rende conto di questo finché non ha già prenotato un viaggio. Un genitore trova i passaporti una settimana prima della partenza, scansionandoli frettolosamente mentre fa i bagagli, e scopre che il documento di un bambino non soddisfa il requisito di validità previsto da alcune destinazioni, spesso di sei mesi. Il viaggio è ora a rischio, o necessita di un rinnovo del passaporto urgente e costoso.
 
@@ -86,7 +86,7 @@ Se non l'hai ancora impostato, comincia oggi: scansiona la pagina con la foto di
 
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 
-Fonti che abbiamo verificato (6 novembre 2026)
+Fonti ufficiali
 
 - [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
 

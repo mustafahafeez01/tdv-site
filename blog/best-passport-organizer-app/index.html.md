@@ -39,7 +39,7 @@ A breach of an on-device app leaks nothing from their servers - there is nothing
 
 ### Reminder lead time is the setting worth customising
 
-A reminder at 6 months is the minimum, since many countries require passport validity for at least 6 months beyond your travel dates, as explained in our article on the [6-month passport rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/). Children's passports often last 5 years rather than 10 (a UK child passport, for example, is valid for 5 years), so an earlier reminder (say 9 months out) gives more comfortable planning time.
+A reminder at 6 months is the minimum, since many countries require passport validity for at least 6 months beyond your travel dates (the [UK Foreign Office](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements) says so for Indonesia, for example), as explained in our article on the [6-month passport rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/). Children's passports often last 5 years rather than 10 (a [UK child passport](https://www.gov.uk/get-a-child-passport), for example, is valid for 5 years), so an earlier reminder (say 9 months out) gives more comfortable planning time.
 
 ### A single app can hold the whole family, safely
 
@@ -104,7 +104,7 @@ Pull up the app you're actually considering and run it against this list before 
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [UK Foreign Office: Indonesia entry requirements](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements)
 - [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)

@@ -33,7 +33,7 @@ Ein Brief ist üblicherweise in diesen Situationen erforderlich:
 - **Ein Kind reist mit einem Elternteil, dessen Familienname sich vom Namen des Kindes unterscheidet.** Dies löst an einigen Grenzen Flaggen aus, besonders bei jüngeren Kindern.
 - **Ein Kind ist adoptiert oder in Pflegefamilien.** Dokumente über die rechtliche Vormundschaft und Zustimmung können zusammen mit dem Brief erforderlich sein.
 
-**Kritische Einschränkung:** Die Regeln unterscheiden sich erheblich. Kanada verlangt rechtlich keinen Zustimmungsbrief, aber die Regierung Kanadas empfiehlt nachdrücklich einen und bemerkt, dass "das Versäumnis, einen Brief auf Anfrage bereitzustellen, zu Verzögerungen oder einer Verweigerung der Ein- oder Ausreise führen kann". Südafrika verlangt eine eidesstattliche Zustimmungserklärung, wenn ein Elternteil nicht mitreist. Einige Länder wenden Anforderungen nur auf Kinder unter einem bestimmten Alter an. Es gibt keinen globalen Standard.
+**Kritische Einschränkung:** Die Regeln unterscheiden sich erheblich. Kanada verlangt rechtlich keinen Zustimmungsbrief, aber [die Regierung Kanadas](https://travel.gc.ca/travelling/children/consent-letter) empfiehlt nachdrücklich einen und bemerkt, dass "das Versäumnis, einen Brief auf Anfrage bereitzustellen, zu Verzögerungen oder einer Verweigerung der Ein- oder Ausreise führen kann". Südafrika verlangt eine eidesstattliche Zustimmungserklärung, wenn ein Elternteil nicht mitreist. Einige Länder wenden Anforderungen nur auf Kinder unter einem bestimmten Alter an. Es gibt keinen globalen Standard.
 
 Überprüfen Sie immer die Anforderungen direkt bei der Einwanderungsbehörde Ihres Ziellands, bevor Sie reisen. Verwenden Sie das IATA Travel Centre, um die Einreisebestimmungen zu überprüfen, oder wenden Sie sich an die Botschaft Ihres Ziellands. Falls Sie unsicher sind, ist das Mitführen des Briefes besser als die Alternative: An der Abfertigung oder an der Grenze gestoppt zu werden.
 
@@ -61,8 +61,8 @@ Wird ein Schreiben mit bezeugter Unterschrift verlangt oder empfohlen, bedeutet 
 
 Was einige Länder zur Beglaubigung sagen:
 
-- **Kanada.** Ein Zustimmungsbrief ist nicht rechtlich erforderlich, aber die Regierung Kanadas empfiehlt nachdrücklich einen und empfiehlt, dass ein Notar die Unterschrift bezeugt. Personal an Grenzen und Fluggesellschaften kann ihn bei der Ein- oder Ausreise anfordern.
-- **Südafrika.** Wenn ein Elternteil nicht mitreist, verlangt das Department of Home Affairs eine eidesstattliche Zustimmungserklärung, die bei Vorlage höchstens 4 Monate alt sein darf. Prüfen Sie die aktuellen Hinweise des Ministeriums.
+- **Kanada.** Ein Zustimmungsbrief ist nicht rechtlich erforderlich, aber [die Regierung Kanadas](https://travel.gc.ca/travelling/children/documents) empfiehlt nachdrücklich einen und empfiehlt, dass ein Notar die Unterschrift bezeugt. Personal an Grenzen und Fluggesellschaften kann ihn bei der Ein- oder Ausreise anfordern.
+- **Südafrika.** Wenn ein Elternteil nicht mitreist, verlangt das [Department of Home Affairs](https://www.gov.za/news/speeches/director-general-mkuseli-apleni-media-briefing-new-requirements-travelling-children) eine eidesstattliche Zustimmungserklärung, die bei Vorlage höchstens 4 Monate alt sein darf. Prüfen Sie die aktuellen Hinweise des Ministeriums.
 - **Australien.** Smartraveller veröffentlicht Hinweise zu Reisen mit Kindern, und Fluggesellschaften können einen Brief verlangen. Prüfen Sie die Hinweise für Ihr Abreise- und Ihr Zielland.
 - **Vereinigtes Königreich.** Nicht rechtlich erforderlich für ausgehende Reisen, aber Fluggesellschaften und Grenzbeamte des Ziellands können einen anfordern, wenn ein Kind nur mit einem Elternteil oder mit einem nicht-Elternteil-Erwachsenen reist. Prüfen Sie die Hinweise auf GOV.UK für Ihre Reiseroute.
 - **Vereinigte Staaten.** Nicht bundesweit vorgeschrieben, aber empfohlen. Einige Bundesstaaten erkennen notarielle Beglaubigung ausdrücklich an.
@@ -92,7 +92,7 @@ Selbst gut vorbereitete Familien machen Fehler, die zu Ablehnungen an der Grenze
 | **Vereinigtes Königreich** | Nicht rechtlich erforderlich; Fluggesellschaften und Grenzbeamten können anfordern | Aktuelle Hinweise prüfen | GOV.UK |
 | **Vereinigte Staaten** | Nicht bundesweit erforderlich; unterscheidet sich nach Bundesstaat | Aktuelle Hinweise prüfen | travel.state.gov |
 | **Europäische Union** | Unterscheidet sich je nach Land | Unterscheidet sich je nach Land | IATA Travel Centre |
-| **Neuseeland** | Empfohlen | In der Regel von den Eltern unterschrieben und von einer Amtsperson bezeugt | SafeTravel (neuseeländische Regierung) |
+| **Neuseeland** | Empfohlen | In der Regel von den Eltern unterschrieben und von einer Amtsperson bezeugt | [SafeTravel](https://www.safetravel.govt.nz/before-you-go/who-is-travelling/travelling-with-children) (neuseeländische Regierung) |
 
 Verstehen Sie diese Tabelle als Ausgangspunkt, nicht als letztes Wort. Die Regeln ändern sich häufig, und die Einwanderungsbehörde des Ziellands ist Ihre zuverlässigste Quelle. Reiseblogs und Fluggesellschaftenseiten sind nützlich für den Kontext, können aber hinter den neuesten Anforderungen zurückbleiben.
 
@@ -126,7 +126,7 @@ Gehen Sie diese Liste zu Hause durch und nicht erst am Check-in-Schalter, denn e
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 
-Quellen, die wir geprüft haben (6. November 2026)
+Offizielle Quellen
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [NZ SafeTravel: Travelling with children](https://www.safetravel.govt.nz/before-you-go/who-is-travelling/travelling-with-children)

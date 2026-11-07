@@ -60,7 +60,7 @@ Das Ausstellungsdatum hört in dem Moment auf, eine Nebensächlichkeit zu sein, 
 
 Kürzlich ausgestellte britische Reisepässe tragen diese zusätzlichen Monate nicht mehr, aber ältere Pässe, die sie noch haben, sind weiterhin im Umlauf und in Gebrauch.
 
-Schengen-Länder wenden an der Grenze in der Regel zwei getrennte Prüfungen auf einen Reisepass aus einem Nicht-EU-Land an: Er muss weniger als zehn Jahre vor Ihrer Ankunft ausgestellt worden sein, und er muss mindestens drei Monate über Ihre geplante Abreise hinaus gültig bleiben. Ein Pass mit neun zusätzlichen Monaten kann die zweite Prüfung mühelos bestehen und an der ersten scheitern – ein unangenehmes Gespräch an einem Schalter in Madrid mit einem Dokument, das gar nicht abgelaufen ist.
+Schengen-Länder wenden an der Grenze in der Regel zwei getrennte Prüfungen auf einen Reisepass aus einem Nicht-EU-Land an: Er muss [weniger als zehn Jahre vor Ihrer Ankunft ausgestellt worden sein](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements), und er muss mindestens drei Monate über Ihre geplante Abreise hinaus gültig bleiben. Ein Pass mit neun zusätzlichen Monaten kann die zweite Prüfung mühelos bestehen und an der ersten scheitern – ein unangenehmes Gespräch an einem Schalter in Madrid mit einem Dokument, das gar nicht abgelaufen ist.
 
 Wir würden vor einer Europareise beide Daten prüfen, nicht nur das untere.
 
@@ -96,7 +96,7 @@ Nehmen Sie sich heute fünf Minuten Zeit, beide Daten in Ihrem eigenen Reisepass
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 
-Quellen, die wir geprüft haben (6. November 2026)
+Offizielle Quellen
 
 - [UK Foreign Office: Spain entry requirements](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements)
 

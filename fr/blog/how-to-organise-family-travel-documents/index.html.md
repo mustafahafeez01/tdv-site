@@ -39,13 +39,13 @@ Cela dépend de votre destination, mais pour la plupart des voyages internationa
 
 **Ce que le voyage avec des enfants ajoute**
 
-- Certificats de naissance — parfois exigés à l'immigration, en particulier lorsque le nom de famille d'un enfant diffère du parent voyageant
+- Certificats de naissance — [parfois exigés à l'immigration](https://www.gov.uk/foreign-travel-advice/mexico/entry-requirements), en particulier lorsque le nom de famille d'un enfant diffère du parent voyageant
 - Une lettre de consentement parental signée si un parent n'est pas présent — fortement recommandée pour les voyages en solo parental ou grands-parents
 - Ordonnances de garde du tribunal, le cas échéant
 
 ### Lettre de consentement pour enfants: quand en avez-vous besoin?
 
-Une lettre de consentement pour enfants est un document signé par le parent absent (ou tuteur légal) donnant la permission à l'enfant de voyager. Elle n'est généralement pas imposée par la loi, mais les agents frontaliers de certains pays, dont le Canada, peuvent demander une preuve de l'accord des deux parents lorsqu'un enfant voyage avec un seul parent ou un autre adulte. Facile à emporter, elle peut vous éviter des questions à la frontière.
+Une lettre de consentement pour enfants est un document signé par le parent absent (ou tuteur légal) donnant la permission à l'enfant de voyager. Elle n'est généralement pas imposée par la loi, mais les agents frontaliers de certains pays, dont le [Canada](https://travel.gc.ca/travelling/children/consent-letter), peuvent demander une preuve de l'accord des deux parents lorsqu'un enfant voyage avec un seul parent ou un autre adulte. Facile à emporter, elle peut vous éviter des questions à la frontière.
 
 L'Afrique du Sud a ses propres règles pour les voyages avec des enfants, notamment concernant l'acte de naissance intégral : consultez les indications de son ministère de l'Intérieur avant de partir.
 
@@ -57,7 +57,7 @@ Une lettre de consentement valide doit inclure: le nom complet et la date de nai
 
 - Permis de conduire international (si vous louez une voiture à l'étranger)
 - Dossiers médicaux ou détails de prescription pour les conditions chroniques
-- Carte européenne d'assurance maladie (EHIC), si vous êtes couvert par un régime d'assurance maladie de l'UE
+- Carte européenne d'assurance maladie (EHIC), si vous êtes [couvert par un régime d'assurance maladie de l'UE](https://europa.eu/youreurope/citizens/health/unplanned-healthcare/temporary-stays/index_en.htm)
 
 ## Organisation physique: où conserver les originaux
 
@@ -128,7 +128,7 @@ Si ce n'est pas déjà fait, choisissez l'endroit unique où vivront les passepo
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
-Sources vérifiées (6 novembre 2026)
+Sources officielles
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [UK Foreign Office: Mexico entry requirements](https://www.gov.uk/foreign-travel-advice/mexico/entry-requirements)

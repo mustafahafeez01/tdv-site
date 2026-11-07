@@ -13,7 +13,7 @@ Source: https://traveldocumentvault.com/de/blog/child-first-passport-application
 - **Die Zustimmung zur Beantragung ist etwas anderes als die Zustimmung zur Reise.** Die Regeln unterscheiden sich je nach Land: Im Vereinigten Königreich unterschreibt beispielsweise eine sorgeberechtigte Person das Formular, und Sie geben die Daten beider Elternteile an. Andere Länder verlangen die Zustimmung beider Eltern. Fragen Sie bei Ihrer Passbehörde nach.
 - **Die meisten Anträge verlangen drei Arten von Nachweisen:** einen Identitätsnachweis (Geburtsurkunde), einen Identitätsnachweis der Eltern und einen Nachweis des Eltern-Kind-Verhältnisses.
 - **Für Babyfotos im Reisepass gelten besondere Regeln.** Die meisten Behörden wollen offene Augen, die in die Kamera schauen (GOV.UK lockert dies für Kinder unter 1 und unter 6 Jahren), ohne sichtbaren Schnuller, Spielzeug oder fremde Hände – und der Hintergrund hinter dem Kopf des Kindes muss einfarbig und frei sein.
-- **Prüfen Sie alles, sobald der Reisepass ankommt.** Schreibweise, die Namen der Eltern, sofern sie aufgeführt sind, das Ablaufdatum – besonders wichtig, weil Kinderreisepässe oft früher ablaufen als die von Erwachsenen (ein britischer Kinderreisepass ist 5 Jahre gültig).
+- **Prüfen Sie alles, sobald der Reisepass ankommt.** Schreibweise, die Namen der Eltern, sofern sie aufgeführt sind, das Ablaufdatum – besonders wichtig, weil Kinderreisepässe oft früher ablaufen als die von Erwachsenen ([ein britischer Kinderreisepass ist 5 Jahre gültig](https://www.gov.uk/get-a-child-passport)).
 - **In Ländern, die die Zustimmung beider Eltern verlangen, kann ein Elternteil in der Regel nicht allein unterschreiben, es sei denn, es liegt eine gerichtliche Verfügung oder das alleinige Sorgerecht vor, oder der andere Elternteil ist verstorben.** Trifft das auf Sie zu, hat Ihre Passbehörde ein festgelegtes Verfahren dafür.
 
 Den ersten Reisepass Ihres Kindes beantragen Sie nur einmal – das heißt, Sie können die Regeln vorher lernen, statt sie am Schalter zu entdecken. Der Antrag selbst ist unkompliziert, aber Zustimmungsregeln und Fotoanforderungen unterscheiden sich je nach Land, und ein kleiner Fehler am Anfang bedeutet einen abgelehnten Antrag und eine verzögerte Reise.
@@ -28,7 +28,7 @@ Dieser Artikel behandelt die Zustimmung zur Beantragung. Diese Unterscheidung is
 
 ## Standardmäßig müssen alle Personen mit elterlicher Sorge zustimmen
 
-Wer zustimmen muss, hängt vom Land ab. Im Vereinigten Königreich unterschreibt eine sorgeberechtigte Person den Antrag, und Sie geben die Daten beider Elternteile an; einige andere Länder erwarten in der Regel beide Unterschriften. Auch ob ein unverheirateter Elternteil sorgeberechtigt ist, unterscheidet sich je nach Land. Fragen Sie deshalb bei Ihrer Passbehörde nach. Für Personen mit gerichtlicher Verfügung oder alleinigem Sorgerecht gelten andere Regeln, und Ihre Passbehörde erklärt Ihnen das genaue Verfahren, wenn Sie nachfragen.
+Wer zustimmen muss, hängt vom Land ab. Im Vereinigten Königreich unterschreibt [eine sorgeberechtigte Person den Antrag](https://www.gov.uk/get-a-child-passport/first-child-passport), und Sie geben die Daten beider Elternteile an; einige andere Länder erwarten in der Regel beide Unterschriften. Auch ob ein unverheirateter Elternteil sorgeberechtigt ist, unterscheidet sich je nach Land. Fragen Sie deshalb bei Ihrer Passbehörde nach. Für Personen mit gerichtlicher Verfügung oder alleinigem Sorgerecht gelten andere Regeln, und Ihre Passbehörde erklärt Ihnen das genaue Verfahren, wenn Sie nachfragen.
 
 Diese Ausnahmen sind real und wichtig zu kennen. Ein verstorbener Elternteil kann nicht unterschreiben, und ein Elternteil, der die elterliche Sorge durch eine gerichtliche Verfügung verloren hat, hat möglicherweise ebenfalls kein Zustimmungsrecht mehr. Auch Näherungsverbote und Sorgerechtsbeschränkungen können einen Elternteil rechtlich ausschließen. Jede dieser Situationen hat ihr eigenes Antragsverfahren und ihre eigenen Nachweisanforderungen, sodass es keine einzelne Antwort gibt, die alle Fälle abdeckt.
 
@@ -44,7 +44,7 @@ Passbehörden verlangen drei Dinge, wenn Sie den ersten Reisepass eines Kindes b
 
 **Der Nachweis des Verhältnisses zum Kind** ergibt sich meist direkt aus der Geburtsurkunde, wenn beide Elternteile darin genannt sind. Ist nur ein Elternteil eingetragen, müssen Sie unter Umständen eine gerichtliche Verfügung, eine Sorgerechtsvereinbarung oder eine Vormundschaftsbescheinigung vorlegen, um zu zeigen, dass auch der zweite Elternteil das Recht hat, Entscheidungen über das Kind zu treffen.
 
-**Manche Länder verwenden ein Gegenzeichnersystem.** Das bedeutet, dass eine vertrauenswürdige Fachperson – eine Lehrkraft, ein Arzt, ein Anwalt oder Ähnliches – ein Formular unterschreibt, um zu bestätigen, dass der Antrag echt ist und das Foto dem Kind entspricht. Verwendet Ihr Land dieses System, müssen Sie vor der Beantragung jemanden finden, der dazu bereit ist. Fragen Sie Ihre Passbehörde, welche Berufsgruppen sie akzeptiert.
+**Manche Länder verwenden ein [Gegenzeichnersystem](https://www.gov.uk/countersigning-passport-applications).** Das bedeutet, dass eine vertrauenswürdige Fachperson – eine Lehrkraft, ein Arzt, ein Anwalt oder Ähnliches – ein Formular unterschreibt, um zu bestätigen, dass der Antrag echt ist und das Foto dem Kind entspricht. Verwendet Ihr Land dieses System, müssen Sie vor der Beantragung jemanden finden, der dazu bereit ist. Fragen Sie Ihre Passbehörde, welche Berufsgruppen sie akzeptiert.
 
 ## Babys können Fotoregeln für Erwachsene nicht befolgen, also passen Sie sie an
 
@@ -52,7 +52,7 @@ Passbehörden verlangen drei Dinge, wenn Sie den ersten Reisepass eines Kindes b
 
 Genau hier scheitern viele Erstanträge. Ein Baby oder Kleinkind kann Fotoregeln nicht so befolgen wie ein Erwachsener: Babys können nicht selbst sitzen, Kleinkinder können weder stillhalten noch Anweisungen verstehen, und Neugeborene schauen nicht auf Kommando in die Kamera. Die Passfoto-Standards wurden für Erwachsene geschrieben, und Sie müssen verstehen, wie man sie anpasst, wenn das Motiv ein 5 Kilo schweres Kind ist, das sich ständig bewegt.
 
-**Die Grundregeln bleiben größtenteils gleich:** Die Augen des Kindes sollten in der Regel geöffnet sein und in die Kamera schauen, mit einem einfarbigen Hintergrund hinter dem Kopf und nichts sonst im Bild. Einige Behörden lockern die Augenregeln für die jüngsten Kinder: GOV.UK verlangt bei einem Kind unter einem Jahr keine offenen Augen und bei einem Kind unter 6 Jahren keinen direkten Blick in die Kamera. Was sich ändert, ist der Weg dorthin.
+**Die Grundregeln bleiben größtenteils gleich:** Die Augen des Kindes sollten in der Regel geöffnet sein und in die Kamera schauen, mit einem einfarbigen Hintergrund hinter dem Kopf und nichts sonst im Bild. Einige Behörden lockern die Augenregeln für die jüngsten Kinder: [GOV.UK](https://www.gov.uk/photos-for-passports) verlangt bei einem Kind unter einem Jahr keine offenen Augen und bei einem Kind unter 6 Jahren keinen direkten Blick in die Kamera. Was sich ändert, ist der Weg dorthin.
 
 **Bei einem Neugeborenen oder Baby unter einem Jahr:** Fotografieren Sie es liegend auf einem einfarbigen weißen oder hellen Laken oder einer Decke. Der Stoff wird zum Hintergrund. Positionieren Sie sich direkt darüber, sodass das Baby mit offenen Augen gerade nach oben in die Kamera schaut – ist es schläfrig, warten Sie einen Moment ab, in dem es wach ist. Kein Spielzeug, kein Schnuller, keine Hände, keine andere Person im Bild außer Kopf und Schultern des Babys.
 
@@ -86,7 +86,7 @@ Das ist eine gesetzliche Anforderung zum Schutz des Kindes, kein Verhandlungsspi
 
 Sobald der Reisepass ausgestellt und bei Ihnen angekommen ist, nehmen Sie sich fünf Minuten Zeit, um ihn zu prüfen, bevor Sie ihn wegheften. Sie achten dabei auf drei Dinge, die sich jetzt leicht korrigieren lassen, am Flughafen aber zum Albtraum werden.
 
-**Prüfen Sie die Schreibweise.** Der Name Ihres Kindes muss genau so geschrieben sein wie auf der Geburtsurkunde oder dem Ausweisdokument, das Sie für den Antrag verwendet haben. Ist er falsch, stellt die Passbehörde in der Regel kostenlos einen Ersatz aus, wenn der Fehler bei ihr lag. Stammt er aus Ihrem Antrag, kann eine Gebühr anfallen. Bemerken Sie es erst am Flughafen, kann die Fluggesellschaft die Beförderung verweigern, weil der Name auf dem Ticket nicht mit dem Reisepass übereinstimmt.
+**Prüfen Sie die Schreibweise.** Der Name Ihres Kindes muss genau so geschrieben sein wie auf der Geburtsurkunde oder dem Ausweisdokument, das Sie für den Antrag verwendet haben. Ist er falsch, stellt die Passbehörde in der Regel [kostenlos einen Ersatz aus, wenn der Fehler bei ihr lag](https://www.gov.uk/government/publications/preventing-and-resolving-errors-on-passports/how-to-correct-errors-on-passports-accessible). Stammt er aus Ihrem Antrag, kann eine Gebühr anfallen. Bemerken Sie es erst am Flughafen, kann die Fluggesellschaft die Beförderung verweigern, weil der Name auf dem Ticket nicht mit dem Reisepass übereinstimmt.
 
 **Prüfen Sie die Namen der Eltern, sofern sie eingetragen sind.** Manche Länder drucken die Namen der Eltern oder Erziehungsberechtigten im Inneren des Kinderreisepasses ab. Sind diese Namen falsch geschrieben oder fehlerhaft, wenden Sie sich an die Behörde, damit sie korrigiert werden.
 
@@ -94,7 +94,7 @@ Sobald der Reisepass ausgestellt und bei Ihnen angekommen ist, nehmen Sie sich f
 
 Entdecken Sie einen Fehler, wenden Sie sich gleich an Ihre Passbehörde. Ob die Korrektur kostenlos ist, hängt davon ab, wer den Fehler gemacht hat; je länger Sie warten, desto schwieriger wird die Klärung. Sobald alles stimmt, legen Sie den Reisepass gleich in Ihre Dokumentenmappe, mit einer Notiz zum Ablaufdatum, damit die Erneuerung Sie nicht überrascht.
 
-Quellen, die wir geprüft haben (6. November 2026)
+Offizielle Quellen
 
 - [UK Government: Get a passport photo, Digital photos](https://www.gov.uk/photos-for-passports)
 - [UK Government: applying for a first child passport](https://www.gov.uk/get-a-child-passport/first-child-passport)

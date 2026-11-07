@@ -11,9 +11,9 @@ Source: https://traveldocumentvault.com/nl/blog/digital-passport-copy-valid/
 ## Belangrijkste punten
 
 - Digitale paspoortkopieën worden geaccepteerd voor **inchecken in een hotel, vluchtboekingen en autoverhuurreserveringen**, maar niet aan de grens of om aan boord te gaan.
-- Voor internationale reizen heb je **doorgaans het originele paspoort nodig** bij de grens en om aan boord te gaan. Op sommige routes volstaat een nationale identiteitskaart (bijvoorbeeld voor EU-burgers die binnen de EU reizen), maar nooit een kopie.
+- Voor internationale reizen heb je **doorgaans het originele paspoort nodig** bij de grens en om aan boord te gaan. Op sommige routes volstaat een nationale identiteitskaart (bijvoorbeeld voor [EU-burgers die binnen de EU reizen](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm)), maar nooit een kopie.
 - Digitale kopieën hebben **geen juridische status als reisdocument**. Ze dienen alleen als ondersteunend bewijs.
-- Visumaanvragen vragen om **specifieke formaten**. Sommige vereisen gewaarmerkte of notarieel bekrachtigde kopieën, andere (waaronder veel e-visa) accepteren een duidelijke scan van de fotopagina. Een gewone telefoonfoto wordt vaak afgewezen. Controleer eerst de website van de ambassade.
+- Visumaanvragen vragen om **specifieke formaten**. Sommige vereisen gewaarmerkte of notarieel bekrachtigde kopieën, andere (waaronder [veel e-visa](https://indianvisaonline.gov.in/evisa/tvoa.html)) accepteren een duidelijke scan van de fotopagina. Een gewone telefoonfoto wordt vaak afgewezen. Controleer eerst de website van de ambassade.
 - Raakt je paspoort in het buitenland kwijt, dan kan een **kopie van de fotopagina je ambassade helpen** je gegevens te bevestigen als je een vervangend document aanvraagt.
 
 Bij het plannen van een reis vragen veel reizigers zich af of ze een digitale kopie van hun paspoort op hun telefoon kunnen bewaren in plaats van het origineel mee te dragen. Je moet precies weten waar hij werkt en waar niet, zodat je niet voor verrassingen komt te staan bij het inchecken.
@@ -22,11 +22,11 @@ Het korte antwoord: een digitale kopie is echt nuttig, maar alleen in specifieke
 
 ## Een digitale kopie is een foto van je paspoort, geen digitaal paspoort
 
-Een digitale kopie van een paspoort is **een scan of telefoonfoto van de identiteitspagina**, de pagina met je foto, naam, geboortedatum, paspoortnummer en vervaldatum. Hij legt je gegevens vast zonder het document te vervangen. De Canadese overheid zegt het onomwonden in haar reisadvies: kopieën kunnen helpen als je documenten verloren of gestolen zijn, maar ze kunnen niet als identiteitsbewijs dienen, en je moet nog steeds een nieuw paspoort aanvragen als je het jouwe verliest.
+Een digitale kopie van een paspoort is **een scan of telefoonfoto van de identiteitspagina**, de pagina met je foto, naam, geboortedatum, paspoortnummer en vervaldatum. Hij legt je gegevens vast zonder het document te vervangen. [De Canadese overheid](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings) zegt het onomwonden in haar reisadvies: kopieën kunnen helpen als je documenten verloren of gestolen zijn, maar ze kunnen niet als identiteitsbewijs dienen, en je moet nog steeds een nieuw paspoort aanvragen als je het jouwe verliest.
 
-Een kopie maken duurt een paar minuten. Leg het paspoort vlak neer in goed licht, fotografeer of scan de identiteitspagina zodat de hele pagina scherp is, zoom dan in en controleer of je elk detail kunt lezen. Doe hetzelfde voor elk visum waarmee je reist. De checklist voor buitenlandse reizen van het Verenigd Koninkrijk raadt een backup van je paspoortgegevens aan die je deelt met familie of bewaart op een veilig dataopslagplatform.
+Een kopie maken duurt een paar minuten. Leg het paspoort vlak neer in goed licht, fotografeer of scan de identiteitspagina zodat de hele pagina scherp is, zoom dan in en controleer of je elk detail kunt lezen. Doe hetzelfde voor elk visum waarmee je reist. [De checklist voor buitenlandse reizen van het Verenigd Koninkrijk](https://www.gov.uk/guidance/foreign-travel-checklist) raadt een backup van je paspoortgegevens aan die je deelt met familie of bewaart op een veilig dataopslagplatform.
 
-Een kopie is ook niet hetzelfde als de digitale ID's die sommige overheden nu accepteren. In de VS laat de Transportation Security Administration Amerikaanse paspoorthouders een ID-pas instellen in Google Wallet voor haar luchthavencontroles, maar ze stelt nog steeds dat alle passagiers een geldig fysiek ID moeten dragen. Een foto in je camerarol is een backup van je gegevens, en dat is precies hoe je die moet behandelen.
+Een kopie is ook niet hetzelfde als de digitale ID's die sommige overheden nu accepteren. In de VS laat de [Transportation Security Administration](https://www.tsa.gov/digital-id) Amerikaanse paspoorthouders een ID-pas instellen in Google Wallet voor haar luchthavencontroles, maar ze stelt nog steeds dat alle passagiers een geldig fysiek ID moeten dragen. Een foto in je camerarol is een backup van je gegevens, en dat is precies hoe je die moet behandelen.
 
 ## Waar digitale paspoortkopieën worden geaccepteerd
 
@@ -44,7 +44,7 @@ Autoverhuurbedrijven accepteren vaak digitale paspoortkopieën voor boeking en b
 
 ### Raak je paspoort kwijt, dan versnelt de kopie het proces
 
-Raakt je paspoort kwijt of wordt het gestolen tijdens je reis, dan kan een kopie van je fotopagina je ambassade of consulaat helpen je gegevens te bevestigen als je een vervangend document aanvraagt. Je moet nog steeds een nieuw paspoort of noodreisdocument aanvragen. Dit is een van de sterkste redenen om altijd een digitale back-up bij je te hebben.
+Raakt je paspoort kwijt of wordt het gestolen tijdens je reis, dan kan een kopie van je fotopagina je ambassade of consulaat helpen je gegevens te bevestigen als je een vervangend document aanvraagt. Je moet nog steeds een nieuw paspoort of [noodreisdocument](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport) aanvragen. Dit is een van de sterkste redenen om altijd een digitale back-up bij je te hebben.
 
 ![Diagram van waar een digitale paspoortkopie werkt: meestal geen probleem bij inchecken in het hotel, vluchtboeking en autoverhuur; origineel vereist bij grenscontrole en instappen bij de luchtvaartmaatschappij](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-where-nl.jpg) Kort gezegd: een kopie opent deuren, alleen het origineel steekt de grens over.
 
@@ -89,7 +89,7 @@ Heb je er nog geen gemaakt, scan dan vandaag de fotopagina van je paspoort, voor
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 
-Bronnen die we hebben gecontroleerd (6 november 2026)
+Officiële bronnen
 
 - [Government of Canada: Lost or stolen belongings abroad](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings)
 - [UK Government: Foreign travel checklist](https://www.gov.uk/guidance/foreign-travel-checklist)

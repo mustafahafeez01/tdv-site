@@ -39,9 +39,9 @@ Die Falle liegt in der Mitte. Ein Zwischenstopp, der auf dem Papier wie Airside-
 
 In einigen Fällen ist ein Transitvisum zwingend erforderlich, und die Anforderungen unterscheiden sich erheblich je nach Ihrer Staatsangehörigkeit und dem Transitland.
 
-Das **Schengen-Flughafentransitvisum (ATV)** gilt für Inhaber bestimmter Reisepässe außerhalb der EU, die einen reinen Airside-Anschluss über einen Schengen-Flughafen haben, wobei die Mitgliedstaaten in manchen Fällen weitere Staatsangehörigkeiten einbeziehen können. Viele Staatsangehörigkeiten sind befreit, ebenso manche Inhaber von Visa oder Aufenthaltstiteln. Da die Liste der Ausnahmen komplex ist und sich regelmäßig ändert, können Sie nicht einfach annehmen, befreit zu sein. Die Datenbank des IATA Travel Centre enthält die aktuellen Regeln für Ihre konkrete Staatsangehörigkeit und Ihr Reiseziel - prüfen Sie dort nach, statt aufgrund Ihrer Erfahrung mit anderen Ländern zu raten.
+Das **Schengen-Flughafentransitvisum (ATV)** gilt für Inhaber [bestimmter Reisepässe außerhalb der EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0810), die einen reinen Airside-Anschluss über einen Schengen-Flughafen haben, wobei die Mitgliedstaaten in manchen Fällen weitere Staatsangehörigkeiten einbeziehen können. Viele Staatsangehörigkeiten sind befreit, ebenso manche Inhaber von Visa oder Aufenthaltstiteln. Da die Liste der Ausnahmen komplex ist und sich regelmäßig ändert, können Sie nicht einfach annehmen, befreit zu sein. Die Datenbank des IATA Travel Centre enthält die aktuellen Regeln für Ihre konkrete Staatsangehörigkeit und Ihr Reiseziel - prüfen Sie dort nach, statt aufgrund Ihrer Erfahrung mit anderen Ländern zu raten.
 
-Das **Vereinigte Königreich** bietet vielen Reisenden visumfreien Airside-Transit, andere benötigen jedoch das inzwischen als Direct Airside Transit Visa (DATV) bezeichnete Dokument. Wie bei Schengen hängt die Befreiung vor allem von Ihrer Staatsangehörigkeit ab, nicht nur von Ihrem Reiseziel, und GOV.UK zufolge brauchen Sie kein Transitvisum, wenn Sie eine britische elektronische Reisegenehmigung (ETA) besitzen.
+Das **Vereinigte Königreich** bietet vielen Reisenden visumfreien Airside-Transit, andere benötigen jedoch das inzwischen als Direct Airside Transit Visa (DATV) bezeichnete Dokument. Wie bei Schengen hängt die Befreiung vor allem von Ihrer Staatsangehörigkeit ab, nicht nur von Ihrem Reiseziel, und [GOV.UK](https://www.gov.uk/transit-visa) zufolge brauchen Sie kein Transitvisum, wenn Sie eine britische elektronische Reisegenehmigung (ETA) besitzen.
 
 In den meisten Fällen durchlaufen Umsteigepassagiere bei der Ankunft in den **Vereinigten Staaten** die US-Einreisekontrolle und den Zoll vor ihrem Weiterflug. In der Praxis geht es hier also um die US-Einreisebestimmungen und nicht um Transitvisumregeln - prüfen Sie diese frühzeitig für Ihren Reisepass und berücksichtigen Sie sie von Anfang an in Ihrer Reiseplanung.
 
@@ -75,7 +75,7 @@ Reisen Sie als Familie, prüfen Sie den Reisepass jedes Familienmitglieds einzel
 
 Bevor Sie buchen, lassen Sie Ihre gesamte Route, nicht nur das Reiseziel, durch das IATA Travel Centre laufen. Diese Prüfung deckt am ehesten eine fehlende Anforderung auf, solange Sie die Buchung noch ändern können.
 
-Quellen, die wir geprüft haben (6. November 2026)
+Offizielle Quellen
 
 - [UK Government: Visa to pass through the UK in transit](https://www.gov.uk/transit-visa)
 - [EU law: Visa Code (Regulation 810/2009)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0810)
@@ -109,7 +109,7 @@ Wenden Sie sich sofort an Ihre Fluggesellschaft und prüfen Sie die Bearbeitungs
 
 ### Wie lange ist ein Transitvisum gültig?
 
-Die Gültigkeit eines Transitvisums hängt vom Land ab. Das britische Visitor in Transit Visa deckt beispielsweise einen Aufenthalt von bis zu 48 Stunden ab. Speichern und verfolgen Sie das Ablaufdatum Ihres Transitvisums zusammen mit Ihrem Reisepass und Ihrem Hauptvisum.
+Die Gültigkeit eines Transitvisums hängt vom Land ab. Das britische [Visitor in Transit Visa](https://www.gov.uk/transit-visa/visitor-in-transit-visa) deckt beispielsweise einen Aufenthalt von bis zu 48 Stunden ab. Speichern und verfolgen Sie das Ablaufdatum Ihres Transitvisums zusammen mit Ihrem Reisepass und Ihrem Hauptvisum.
 
 ## Verwandte Artikel
 

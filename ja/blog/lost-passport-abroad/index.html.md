@@ -36,7 +36,7 @@ Source: https://traveldocumentvault.com/ja/blog/lost-passport-abroad/
 
 ## ステップ2：直ちに警察届を提出する
 
-最寄りの警察署に行き、パスポートの紛失または盗難を報告してください。保険会社は請求にこれを求めることがほとんどで、大使館によっては求める場合もありますが、すべてではありません。例えばカナダ政府は、パスポートの再発行にはこれを必須としていません。できれば一時間以内に済ませておくことをお勧めします。細かい状況をまだはっきり覚えているうちに行うのが得策です。
+最寄りの警察署に行き、パスポートの紛失または盗難を報告してください。保険会社は請求にこれを求めることがほとんどで、大使館によっては求める場合もありますが、すべてではありません。例えば[カナダ政府](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings)は、パスポートの再発行にはこれを必須としていません。できれば一時間以内に済ませておくことをお勧めします。細かい状況をまだはっきり覚えているうちに行うのが得策です。
 
 ケース番号を含む書面のコピーを取得してください。可能であれば英語版または翻訳版をリクエストしてください。それを撮影し、複数のコピーを安全に保管してください。
 
@@ -53,7 +53,7 @@ Source: https://traveldocumentvault.com/ja/blog/lost-passport-abroad/
 
 ## ステップ4：緊急旅行書類を申請する
 
-大使館は緊急旅行書類（ETD）または緊急パスポートを発行します。通常、帰国のための片道旅行に有効です。所要時間は在外公館や案件の緊急性によって異なるため、電話するときに確認してください。
+大使館は[緊急旅行書類（ETD）](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport)または緊急パスポートを発行します。通常、帰国のための片道旅行に有効です。所要時間は在外公館や案件の緊急性によって異なるため、電話するときに確認してください。
 
 通常必要なもの（訪問前に大使館に確認してください）：
 
@@ -84,12 +84,11 @@ Source: https://traveldocumentvault.com/ja/blog/lost-passport-abroad/
 
 **この記事に頼る前に:** これはブログであり、公式な情報源ではありません。ルールや細かい条件は変わりますし、あなたの状況は違うかもしれません。掲載内容は確認していますが、それでも誤りや古い情報が含まれる可能性があります。ここに書かれていることがご自身の予定に関わるなら、行動に移す前に担当する機関に確認してください。
 
-確認した情報源（2026年11月6日）
+公式情報源
 
 - [Government of Canada: Lost or stolen belongings abroad](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings)
 - [UK Government: Travel urgently from abroad without your UK passport, How to apply](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport/how-to-apply)
 - [UK Government: Travel urgently from abroad without your UK passport, Who can apply](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport)
-- [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
 
 ## よくある質問
 
@@ -103,7 +102,7 @@ Source: https://traveldocumentvault.com/ja/blog/lost-passport-abroad/
 
 ### 海外でパスポートが盗まれた場合、警察届は必要ですか？
 
-通常は取得しておく価値がありますが、すべてのパスポート当局が必須としているわけではありません。カナダ政府は、パスポートの再発行に警察届は不要だが保険請求には役立つ場合があるとしており、GOV.UKも英国の緊急渡航文書の申請に警察届を挙げていません。大使館によっては警察届を求める場合があり、ほとんどの旅行保険会社は請求時にこれを必要とします。直ちに現地警察署から取得し、可能であれば英語のコピーをリクエストしてください。複数のコピーを保管してください。
+通常は取得しておく価値がありますが、すべてのパスポート当局が必須としているわけではありません。カナダ政府は、パスポートの再発行に警察届は不要だが保険請求には役立つ場合があるとしており、[GOV.UK](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport/how-to-apply)も英国の緊急渡航文書の申請に警察届を挙げていません。大使館によっては警察届を求める場合があり、ほとんどの旅行保険会社は請求時にこれを必要とします。直ちに現地警察署から取得し、可能であれば英語のコピーをリクエストしてください。複数のコピーを保管してください。
 
 ### 旅行保険は紛失または盗まれたパスポートをカバーしますか？
 

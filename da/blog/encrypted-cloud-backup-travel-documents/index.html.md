@@ -28,7 +28,7 @@ To forskellige opsætninger sælges begge som krypteret backup, og de fungerer m
 
 Den ene sender filen til virksomhedens server via en krypteret forbindelse og opbevarer den derefter krypteret, mens den ligger stille. Begge dele er sande, og begge lyder betryggende. Men virksomheden har stadig nøglen, så den teknisk set kan dekryptere dine dokumenter, hvad enten det er til en funktion, en juridisk anmodning eller ved en intern fejl. Din passcanning er læselig i den anden ende.
 
-Den anden opsætning blander filen på din telefon, før den sendes nogen steder, med en nøgle udledt af noget, kun du har. Det, der ankommer til lagringen, er en blok af støj, og ingen i den anden ende kan læse det, fordi ingen i den anden ende har nøglen. Det beskrives ofte som end-to-end-krypteret eller zero-knowledge.
+Den anden opsætning blander filen på din telefon, før den sendes nogen steder, med en nøgle udledt af noget, kun du har. Det, der ankommer til lagringen, er en blok af støj, og ingen i den anden ende kan læse det, fordi ingen i den anden ende har nøglen. Det beskrives ofte som [end-to-end-krypteret](https://csrc.nist.gov/glossary/term/end_to_end_encryption) eller zero-knowledge.
 
 Så spørgsmålet, det er værd at stille til enhver app, er kort: **hvem har nøglen?** Alt andet i markedsføringen følger af svaret.
 
@@ -108,7 +108,7 @@ Intet af det her er dramatisk, og det er lidt pointen. De familier, der klarer s
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 
-Kilder vi har tjekket (6. november 2026)
+Officielle kilder
 
 - [NIST: end-to-end encryption glossary entry](https://csrc.nist.gov/glossary/term/end_to_end_encryption)
 

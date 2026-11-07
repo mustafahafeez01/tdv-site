@@ -37,7 +37,7 @@ Source: https://traveldocumentvault.com/ja/blog/passport-expiry-6-month-rule/
 
 場合によっては、可能です。目的地が滞在期間中の有効性のみを求める場合、残り5ヶ月でも通常は入国できます。英国はほとんどの訪問者に対してこの方式を採用しており、シェンゲン諸国は通常、6ヶ月ではなく出国予定日から3ヶ月先までの有効期限を求めます。
 
-目的地が6ヶ月ルールを適用している場合は、不可能です。タイ、インドネシア、ベトナムをはじめ多くの国では通常入国を拒否され、国境に到達するはるか前に航空会社が搭乗を拒否します。
+目的地が6ヶ月ルールを適用している場合は、不可能です。タイ、[インドネシア](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements)、ベトナムをはじめ多くの国では通常入国を拒否され、国境に到達するはるか前に航空会社が搭乗を拒否します。
 
 つまり答えはパスポート自体ではなく、行き先次第です。予約する日に目的地の要件を確認し、出発する週にもう一度確認してください。
 
@@ -54,12 +54,12 @@ Source: https://traveldocumentvault.com/ja/blog/passport-expiry-6-month-rule/
 | フィリピン | 6ヶ月 | 往路・帰路チケット必須 |
 | インド | 6ヶ月 | ほとんどの国籍はビザが必須 |
 | ケニア | 6ヶ月 | 電子ビザ必須。6ヶ月ルール適用 |
-| トルコ | 到着日から150日 | 英国外務省:有効期限が到着日の150日以上先であること |
+| トルコ | 到着日から150日 | [英国外務省](https://www.gov.uk/foreign-travel-advice/turkey/entry-requirements):有効期限が到着日の150日以上先であること |
 | EU シェンゲン圏 | 出国日から3ヶ月以上 | 加えて発行日から10年未満であること |
 | 英国 | 滞在期間のみ | 英国市民でも海外旅行時は目的地国のルールに従う |
 | 米国 | 滞在期間のみ | 米国市民でも海外旅行時は目的地国のルールに従う |
 | 日本・オーストラリア | 滞在期間のみ | 訪問者に対する6ヶ月延長ルールなし |
-| ニュージーランド | 出国日から3ヶ月以上 | 英国外務省:有効期限が出発予定日の3ヶ月以上先であること |
+| ニュージーランド | 出国日から3ヶ月以上 | [英国外務省](https://www.gov.uk/foreign-travel-advice/new-zealand/entry-requirements):有効期限が出発予定日の3ヶ月以上先であること |
 
 この表は完全なリストではなく、要件はあなたの国籍によって異なります。旅行前に、各国政府の公式情報源で必ず確認してください。
 
@@ -69,9 +69,9 @@ Source: https://traveldocumentvault.com/ja/blog/passport-expiry-6-month-rule/
 
 ## 6ヶ月ルールが適用されない場合
 
-多くの目的地は、旅行日程以上のことを求めていません。英国外務省は日本について明快に述べています。パスポートは滞在期間中有効であればよく、それ以上の有効期間は求められません。オーストラリアと米国も同じ基準で、パスポートが予定滞在期間中有効であることのみを求めています。
+多くの目的地は、旅行日程以上のことを求めていません。[英国外務省](https://www.gov.uk/foreign-travel-advice/japan/entry-requirements)は日本について明快に述べています。パスポートは滞在期間中有効であればよく、それ以上の有効期間は求められません。[オーストラリア](https://www.gov.uk/foreign-travel-advice/australia/entry-requirements)と[米国](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements)も同じ基準で、パスポートが予定滞在期間中有効であることのみを求めています。
 
-ヨーロッパはその中間に位置し、人々が最も誤解しやすい区分です。外務省によると、シェンゲン地域へ渡航するには、出国予定日から少なくとも3ヶ月後まで有効な期限のパスポートが必要です。6ヶ月ではなく3ヶ月です。
+ヨーロッパはその中間に位置し、人々が最も誤解しやすい区分です。[外務省](https://www.gov.uk/foreign-travel-advice/france/entry-requirements)によると、シェンゲン地域へ渡航するには、出国予定日から少なくとも3ヶ月後まで有効な期限のパスポートが必要です。6ヶ月ではなく3ヶ月です。
 
 シェンゲンにはもう一つ、最初の条件よりもはるかに多くの人を引っかける条件があります。入国日から10年未満の発行日であることです。両方の条件を満たす必要があり、一方を満たしていても、もう一方で不合格になることがあります。
 
@@ -121,7 +121,7 @@ Source: https://traveldocumentvault.com/ja/blog/passport-expiry-6-month-rule/
 
 **この記事に頼る前に:** これはブログであり、公式な情報源ではありません。ルールや細かい条件は変わりますし、あなたの状況は違うかもしれません。掲載内容は確認していますが、それでも誤りや古い情報が含まれる可能性があります。ここに書かれていることがご自身の予定に関わるなら、行動に移す前に担当する機関に確認してください。
 
-確認した情報源（2026年11月6日）
+公式情報源
 
 - [UK Foreign Office: USA entry requirements](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements)
 - [UK Foreign Office: France entry requirements](https://www.gov.uk/foreign-travel-advice/france/entry-requirements)

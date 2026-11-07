@@ -39,7 +39,7 @@ Source: https://traveldocumentvault.com/ko/blog/best-passport-organizer-app/
 
 ### 알림 선행 시간은 직접 조정할 가치가 있는 설정입니다
 
-이것이 가장 가치 있는 기능입니다. 6개월 알림은 최소한입니다. 많은 국가에서 여행 날짜 이후 최소 6개월 동안 여권 유효성을 요구합니다. [6개월 여권 규칙](https://traveldocumentvault.com/ko/blog/passport-expiry-6-month-rule/)에 대한 우리의 기사에서 설명합니다. 자녀 여권은 10년이 아닌 5년간 유효한 경우가 많습니다. 예를 들어 영국 아동 여권의 유효기간은 5년이므로, 9개월 전처럼 더 일찍 알림을 설정하면 여유 있게 준비할 수 있습니다.
+이것이 가장 가치 있는 기능입니다. 6개월 알림은 최소한입니다. 많은 국가에서 여행 날짜 이후 최소 6개월 동안 여권 유효성을 요구합니다. [6개월 여권 규칙](https://traveldocumentvault.com/ko/blog/passport-expiry-6-month-rule/)에 대한 우리의 기사에서 설명합니다. 자녀 여권은 10년이 아닌 5년간 유효한 경우가 많습니다. 예를 들어 [영국 아동 여권](https://www.gov.uk/get-a-child-passport)의 유효기간은 5년이므로, 9개월 전처럼 더 일찍 알림을 설정하면 여유 있게 준비할 수 있습니다.
 
 ### 앱 하나로 온 가족을 안전하게 담을 수 있습니다
 
@@ -104,7 +104,7 @@ Source: https://traveldocumentvault.com/ko/blog/best-passport-organizer-app/
 
 **이 글에 의존하기 전에:** 이 글은 블로그이며 공식 자료가 아닙니다. 규정과 세부 사항은 바뀌고, 여러분의 상황은 다를 수 있습니다. 저희는 게시하는 내용을 확인하지만 그래도 틀리거나 오래된 정보일 수 있습니다. 여기 적힌 내용이 계획에 중요하다면, 움직이기 전에 담당 기관에 확인하시기 바랍니다.
 
-확인한 출처 (2026년 11월 6일)
+공식 출처
 
 - [UK Foreign Office: Indonesia entry requirements](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements)
 - [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)

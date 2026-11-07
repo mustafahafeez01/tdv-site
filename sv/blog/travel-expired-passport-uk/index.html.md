@@ -48,25 +48,25 @@ En förnyelse som redan är på gång är en annan fråga, och den avgörs av om
 
 ## Ett utgånget pass förnyas, man börjar inte om från noll
 
-Ett utgånget pass förnyas, det börjar inte om från noll. GOV.UK listar ett utgånget pass som ett av de två skälen att förnya innan du reser, tillsammans med för kort återstående giltighetstid, så för de flesta är standardförnyelsen för vuxna rätt väg.
+Ett utgånget pass förnyas, det börjar inte om från noll. [GOV.UK](https://www.gov.uk/renew-adult-passport/renew) listar ett utgånget pass som ett av de två skälen att förnya innan du reser, tillsammans med för kort återstående giltighetstid, så för de flesta är standardförnyelsen för vuxna rätt väg.
 
-Undantaget är gammalt. Om ditt senaste brittiska pass utfärdades före den 1 januari 1994 ber HM Passport Office dig att i stället ansöka om ett första vuxenpass, så det är värt att kontrollera utfärdandedatumet innan du börjar.
+Undantaget är gammalt. Om ditt senaste brittiska pass utfärdades före den 1 januari 1994 ber HM Passport Office dig att i stället [ansöka om ett första vuxenpass](https://www.gov.uk/apply-first-adult-passport), så det är värt att kontrollera utfärdandedatumet innan du börjar.
 
 Du kan ansöka online, vilket kräver ett digitalt foto, eller på en pappersblankett, vilket kräver två identiska utskrivna foton. Oavsett vilket skickar du med ditt gamla pass i ansökan. Innehåller det ett visum som fortfarande är giltigt säger GOV.UK att du ska skicka in passet med visumet kvar, och det gamla passet returneras till dig.
 
-En detalj tar folk på sängen när det nya passet anländer: **det har ett annat nummer**. GOV.UK avråder från att boka resor innan du har det nya passet i handen av just den anledningen, och allt som bokats med det gamla numret – som en flygbokning eller ett resetillstånd till ett annat land – kan behöva uppdateras. Vår guide om [att läsa passets datum](https://traveldocumentvault.com/sv/blog/how-to-read-your-passport-dates/) förklarar vad som ändras vid en förnyelse och vad som förblir detsamma.
+En detalj tar folk på sängen när det nya passet anländer: **det har ett annat nummer**. [GOV.UK](https://www.gov.uk/renew-adult-passport) avråder från att boka resor innan du har det nya passet i handen av just den anledningen, och allt som bokats med det gamla numret – som en flygbokning eller ett resetillstånd till ett annat land – kan behöva uppdateras. Vår guide om [att läsa passets datum](https://traveldocumentvault.com/sv/blog/how-to-read-your-passport-dates/) förklarar vad som ändras vid en förnyelse och vad som förblir detsamma.
 
 ## Inhemska resor: begränsad flexibilitet med alternativ legitimation
 
 Inhemska resor inom Storbritannien och Irland skiljer sig från internationella resor på en avgörande punkt: flygbolag kan acceptera alternativ foto-legitimation, som brittiskt körkort eller nationellt ID-kort, i stället för pass. Vad som godtas varierar dock kraftigt mellan flygbolag och destination, så du kan inte utgå från att en viss legitimation fungerar.
 
-**Det här är inte ett tillstånd att skjuta upp passförnyelsen.** Olika flygbolag har olika policyer för inhemska rutter – vissa kräver pass för alla resor till Irland trots att den gemensamma resezonen (Common Travel Area) tekniskt sett tillåter resor med ID-kort, medan andra godtar körkort. Flygbolag uppdaterar sina regler, och ditt flygbolag kan ha ändrat sina sedan du senast flög, så du kan inte utgå från att det som fungerade tidigare fortfarande gäller.
+**Det här är inte ett tillstånd att skjuta upp passförnyelsen.** Olika flygbolag har olika policyer för inhemska rutter – vissa kräver pass för alla resor till Irland trots att den gemensamma resezonen ([Common Travel Area](https://www.gov.uk/foreign-travel-advice/ireland/entry-requirements)) tekniskt sett tillåter resor med ID-kort, medan andra godtar körkort. Flygbolag uppdaterar sina regler, och ditt flygbolag kan ha ändrat sina sedan du senast flög, så du kan inte utgå från att det som fungerade tidigare fortfarande gäller.
 
 Om du överväger en inhemsk resa med ett utgånget pass, kontakta ditt flygbolag minst 48 timmar före avgång och fråga uttryckligen: "Mitt brittiska pass har gått ut. Godtar ni mitt brittiska körkort i stället?" Få bekräftelsen skriftligt om du kan, eftersom det att komma till incheckningen med en alternativ legitimation utan förhandsbekräftelse är hur folk missar sina flyg.
 
 ## Nödförnyelse: Premiumtjänsten, om du får en tid
 
-Om din resa är nära förestående och passet har gått ut erbjuder His Majesty's Passport Office en 1 Day Premium-tjänst utformad exakt för det här scenariot. GOV.UK uppger att tidigaste tillgängliga tid är två dagar efter att du ansökt, och att det nya passet är klart för avhämtning fyra timmar efter din tid. HM Passport Office publicerar den aktuella avgiften på gov.uk, och den täcker tiden och förnyelsen tillsammans i stället för att läggas ovanpå standardavgiften. Det förnyade passet anländer betydligt snabbare än standardvägen, även om exakt hur mycket snabbare beror på vilken tid du kan få. Observera att 1 Day Premium-tjänsten enbart gäller förnyelser av vuxnas pass, inte första passet för vuxna.
+Om din resa är nära förestående och passet har gått ut erbjuder His Majesty's Passport Office en 1 Day Premium-tjänst utformad exakt för det här scenariot. [GOV.UK](https://www.gov.uk/get-a-passport-urgently) uppger att tidigaste tillgängliga tid är två dagar efter att du ansökt, och att det nya passet är klart för avhämtning fyra timmar efter din tid. HM Passport Office publicerar den aktuella avgiften på gov.uk, och den täcker tiden och förnyelsen tillsammans i stället för att läggas ovanpå standardavgiften. Det förnyade passet anländer betydligt snabbare än standardvägen, även om exakt hur mycket snabbare beror på vilken tid du kan få. Observera att 1 Day Premium-tjänsten enbart gäller förnyelser av vuxnas pass, inte första passet för vuxna.
 
 Det här är den officiella nödvägen för verkliga resebegränsningar, inte en genväg – Premiumtjänsten finns eftersom resor ibland inte kan vänta. HM Passport Office publicerar den aktuella handläggningstiden för en standardförnyelse, och nästan alla ansökningar handläggs inom den tidsramen – men för resor som verkligen inte kan vänta tar Premiumalternativet bort osäkerheten.
 
@@ -92,7 +92,7 @@ Det gäller oavsett om passet gick ut innan du lämnade Storbritannien eller med
 
 ## Om du redan är utomlands och passet går ut
 
-Det här är det genuint svåra scenariot. Om du är på resa och passet går ut innan du reser hem kan du inte gå ombord på ett flyg eller en färja hem. Du måste kontakta närmaste brittiska ambassad eller konsulat för ett nödresedokument – ibland kallat ETD eller nödpass – som vanligtvis gäller för en enkelresa eller en tur- och returresa genom högst fem länder.
+Det här är det genuint svåra scenariot. Om du är på resa och passet går ut innan du reser hem kan du inte gå ombord på ett flyg eller en färja hem. Du måste kontakta närmaste brittiska ambassad eller konsulat för ett [nödresedokument](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport) – ibland kallat ETD eller nödpass – som vanligtvis gäller för en enkelresa eller en tur- och returresa genom högst fem länder.
 
 Processen är långsam och byråkratisk. Du måste styrka din identitet och betala en avgift, vars aktuella belopp publiceras av Foreign, Commonwealth and Development Office. Handläggningstiden varierar mellan ambassader och beroende på hur brådskande din situation är, så fråga konsulatet vad du kan förvänta dig så snart du kontaktar dem.
 
@@ -110,7 +110,7 @@ Det enklaste sättet att slippa allt det här: plocka fram passet i dag och kont
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 
-Källor vi har kontrollerat (6 november 2026)
+Officiella källor
 
 - [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)
 - [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)

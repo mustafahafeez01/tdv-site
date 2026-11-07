@@ -30,7 +30,7 @@ Syarat diterbitkan dalam 10 tahun terakhir mengenai keluarga Inggris dengan cara
 
 ## Mengapa Ini Bukan Aturan 6 Bulan
 
-Sebagian besar wisatawan sudah menyerap gagasan bahwa paspor perlu masa berlaku enam bulan untuk bisa bepergian ke mana pun. Aturan itu memang nyata — Thailand meminta masa berlaku enam bulan, dan banyak negara lain menerapkan versinya. Tapi Schengen tidak. Eropa meminta tiga bulan setelah keberangkatan, yang lebih longgar, namun keduanya tetap tercampur menjadi "enam bulan dari suatu tempat" yang samar, yang menghasilkan baik alarm palsu maupun rasa aman palsu.
+Sebagian besar wisatawan sudah menyerap gagasan bahwa paspor perlu masa berlaku enam bulan untuk bisa bepergian ke mana pun. Aturan itu memang nyata — [Thailand meminta masa berlaku enam bulan](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), dan banyak negara lain menerapkan versinya. Tapi Schengen tidak. Eropa meminta tiga bulan setelah keberangkatan, yang lebih longgar, namun keduanya tetap tercampur menjadi "enam bulan dari suatu tempat" yang samar, yang menghasilkan baik alarm palsu maupun rasa aman palsu.
 
 Panduan kami tentang [aturan 6 bulan](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/) membahas negara mana yang benar-benar menerapkannya. [Penjelasan masa berlaku paspor](https://traveldocumentvault.com/id/blog/how-long-is-passport-valid-for-travel/) kami membahas kasus umum. Di sini kami tetap fokus pada Schengen, karena di situlah keluarga paling sering salah hitung secara halus.
 
@@ -38,7 +38,7 @@ Panduan kami tentang [aturan 6 bulan](https://traveldocumentvault.com/id/blog/pa
 
 ## Paspor Anak Berjalan dengan Jam yang Lebih Cepat
 
-Paspor dewasa Inggris berlaku 10 tahun, sedangkan Inggris menerbitkan paspor anak hanya untuk lima tahun. Ketidaksimetrisan itulah tempat rencana yang sebenarnya hati-hati jadi berantakan.
+Paspor dewasa Inggris berlaku 10 tahun, sedangkan [Inggris menerbitkan paspor anak hanya untuk lima tahun](https://www.gov.uk/get-a-child-passport). Ketidaksimetrisan itulah tempat rencana yang sebenarnya hati-hati jadi berantakan.
 
 | Negara | Paspor Anak | Masa Berlaku |
 |---|---|---|
@@ -60,13 +60,13 @@ Satu paspor yang gagal jarang hanya membuat satu orang tertahan; itu menghentika
 
 Solusinya sederhana dan hanya butuh beberapa menit. Pada hari Anda memesan, kumpulkan semua paspor di rumah dan catat setiap tanggal kedaluwarsa dan tanggal penerbitan. Lalu ajukan dua pertanyaan untuk setiap paspor: apakah masih berlaku tiga bulan setelah tanggal kepulangan Anda, dan apakah diterbitkan kurang dari sepuluh tahun lalu? Apa pun yang gagal salah satu uji itu masuk antrean perpanjangan minggu itu juga — saat itu Anda masih bisa memperpanjang, mengatur ulang perjalanan, atau menggeser tanggal tanpa konsekuensi, dan kami akan selalu memilih memperpanjang daripada menunggu untuk melihat apakah tanggalnya bergeser.
 
-Anak-anak membutuhkan jeda yang sama seperti orang dewasa. Tidak ada pengecualian anak dari aturan masa berlaku, paspor anak berusia lima tahun mendapat perlakuan Timatic yang sama dengan milik Anda. Satu catatan tambahan untuk perjalanan Inggris dan Irlandia: Irlandia sama sekali bukan bagian dari Schengen. Perjalanan antara Inggris dan Irlandia berjalan di bawah Common Travel Area yang terpisah, jadi jangan menggeneralisasi dari perjalanan ke Dublin ke perjalanan ke Paris.
+Anak-anak membutuhkan jeda yang sama seperti orang dewasa. Tidak ada pengecualian anak dari aturan masa berlaku, paspor anak berusia lima tahun mendapat perlakuan Timatic yang sama dengan milik Anda. Satu catatan tambahan untuk perjalanan Inggris dan Irlandia: Irlandia sama sekali bukan bagian dari Schengen. Perjalanan antara Inggris dan Irlandia berjalan di bawah [Common Travel Area yang terpisah](https://www.gov.uk/foreign-travel-advice/ireland/entry-requirements), jadi jangan menggeneralisasi dari perjalanan ke Dublin ke perjalanan ke Paris.
 
 Tidak ada satu pun dari ini yang membutuhkan aplikasi. Spreadsheet sudah cukup membantu bagi kebanyakan keluarga, dan pengingat kalender dua kali setahun menangani sebagian besar pekerjaannya. Satu hal yang tidak bisa ditawar: lakukan pemeriksaan saat memesan, ketika paspor yang pendek masa berlakunya masih sekadar urusan, bukan keadaan darurat.
 
 **Sebelum Anda mengandalkan ini:** ini adalah blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 
-Sumber yang kami periksa (6 November 2026)
+Sumber resmi
 
 - [UK Foreign Office: France entry requirements](https://www.gov.uk/foreign-travel-advice/france/entry-requirements)
 - [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
@@ -80,7 +80,7 @@ Sumber yang kami periksa (6 November 2026)
 
 ### Apa perbedaan antara aturan 6 bulan dan aturan 3 bulan Schengen?
 
-Keduanya adalah aturan terpisah untuk destinasi berbeda. Negara seperti Thailand dan Indonesia umumnya meminta masa berlaku tersisa 6 bulan. Schengen mensyaratkan masa berlaku 3 bulan setelah tanggal Anda berangkat, ditambah paspor yang diterbitkan dalam 10 tahun terakhir. Keluarga yang pernah bepergian ke Asia Tenggara sering mengira angka 6 bulan berlaku di mana-mana, padahal tidak.
+Keduanya adalah aturan terpisah untuk destinasi berbeda. Negara seperti Thailand dan [Indonesia](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements) umumnya meminta masa berlaku tersisa 6 bulan. Schengen mensyaratkan masa berlaku 3 bulan setelah tanggal Anda berangkat, ditambah paspor yang diterbitkan dalam 10 tahun terakhir. Keluarga yang pernah bepergian ke Asia Tenggara sering mengira angka 6 bulan berlaku di mana-mana, padahal tidak.
 
 ### Apakah anak-anak mengikuti aturan paspor Schengen yang berbeda?
 

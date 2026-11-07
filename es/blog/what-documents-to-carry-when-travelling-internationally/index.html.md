@@ -34,15 +34,15 @@ Algunas aerolíneas y agentes fronterizos pueden pedir ver prueba de tu primera 
 
 ### Certificados de vacunación
 
-Ciertos destinos requieren prueba de vacunación para fiebre amarilla u otras enfermedades, y los requisitos cambian periódicamente por destino. Verifica las páginas de consejos de viaje de la OMS 4-8 semanas antes de viajar —no la noche anterior— y lleva el certificado original en lugar de una copia, ya que algunos países piden verlo.
+Ciertos destinos requieren prueba de vacunación para fiebre amarilla u otras enfermedades, y los requisitos cambian periódicamente por destino. Verifica las [páginas de consejos de viaje de la OMS](https://www.who.int/health-topics/travel-and-health) 4-8 semanas antes de viajar —no la noche anterior— y lleva el certificado original en lugar de una copia, ya que algunos países piden verlo.
 
 ### Detalles del seguro de viaje
 
-Necesitarás acceso inmediato a tu número de póliza, detalles de contacto del emisor y tu línea directa de emergencia 24 horas. Algunos tipos de visa explícitamente requieren prueba de seguro de viaje —las solicitudes de visa Schengen, por ejemplo, requieren seguro médico cubriendo cuidado de emergencia y hospitalización. Pero más importante, si algo sale mal en el extranjero, necesitas estos detalles sin confiar en acceso a email o internet.
+Necesitarás acceso inmediato a tu número de póliza, detalles de contacto del emisor y tu línea directa de emergencia 24 horas. Algunos tipos de visa explícitamente requieren prueba de seguro de viaje —[las solicitudes de visa Schengen](https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en), por ejemplo, requieren seguro médico cubriendo cuidado de emergencia y hospitalización. Pero más importante, si algo sale mal en el extranjero, necesitas estos detalles sin confiar en acceso a email o internet.
 
 ### Cartas de consentimiento de viaje infantil
 
-Cuando un niño viaja internacionalmente con solo un padre (o con ninguno de los padres), muchos países esperan consentimiento por escrito del padre ausente, y la notarización se recomienda encarecidamente. Los agentes fronterizos y el personal de las aerolíneas de muchos países, Canadá entre ellos, pueden pedirlo, y Sudáfrica tiene sus propias normas para los menores que entran en el país, así que consulta la página oficial del destino. Sin carta puedes sufrir retrasos o que te denieguen el embarque.
+Cuando un niño viaja internacionalmente con solo un padre (o con ninguno de los padres), muchos países esperan consentimiento por escrito del padre ausente, y la notarización se recomienda encarecidamente. Los agentes fronterizos y el personal de las aerolíneas de muchos países, [Canadá](https://travel.gc.ca/travelling/children/consent-letter) entre ellos, pueden pedirlo, y [Sudáfrica](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements) tiene sus propias normas para los menores que entran en el país, así que consulta la página oficial del destino. Sin carta puedes sufrir retrasos o que te denieguen el embarque.
 
 Es el documento más comúnmente olvidado en viajes familiares, así que verifica antes de llegar a la puerta.
 
@@ -109,7 +109,7 @@ Elige el documento de esta lista del que todavía no tengas copia de seguridad, 
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 
-Fuentes que hemos comprobado (6 de noviembre de 2026)
+Fuentes oficiales
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [UK Foreign Office: South Africa entry requirements](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements)

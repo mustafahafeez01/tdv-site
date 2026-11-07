@@ -30,9 +30,9 @@ This catches people out more often than the expiry dates do. The permit looks li
 
 ## Two Treaties Decide How Long It Lasts and Where It Works
 
-Three international agreements sit behind IDPs, and countries signed up to one of them or to several. Two do nearly all the work: the 1949 Geneva Convention and the 1968 Vienna Convention. An older 1926 Paris Convention permit also exists, and a few destinations still list it. Check the permit's printed expiry date.
+[Three international agreements](https://www.gov.uk/driving-abroad/international-driving-permit) sit behind IDPs, and countries signed up to one of them or to several. Two do nearly all the work: the 1949 Geneva Convention and the 1968 Vienna Convention. An older 1926 Paris Convention permit also exists, and a few destinations still list it. Check the permit's printed expiry date.
 
-A permit issued under the 1949 Geneva Convention is valid for one year. A permit issued under the 1968 Vienna Convention can run for up to three.
+A permit issued under the 1949 Geneva Convention is [valid for one year](https://travel.gc.ca/travelling/documents/international-driving-permit). A permit issued under the 1968 Vienna Convention can run for up to three.
 
 The split matters twice over. It sets how long your permit lasts, and it decides where the permit is honoured. A country that ratified only one convention isn't obliged to recognise a permit issued under the other, which is how a permit that worked on last year's trip gets waved away on this one.
 
@@ -46,7 +46,7 @@ The split matters twice over. It sets how long your permit lasts, and it decides
 
 ## The Three-Year Permit That Often Isn't
 
-Those three years carry a condition that's easy to skim past. A Vienna permit expires when your domestic driving licence expires, if that date comes first.
+Those three years carry a condition that's easy to skim past. A Vienna permit [expires when your domestic driving licence expires](https://treaties.un.org/doc/Treaties/1977/05/19770524%2000-13%20AM/Ch_XI_B_19.pdf), if that date comes first.
 
 Say your licence has 14 months left and you're issued a three-year permit. The permit is useful for 14 months.
 
@@ -70,7 +70,7 @@ That's the practical argument for keeping all three dates in one place. Travel D
 
 We'd check these in this order, and the licence date before anything printed on the permit.
 
-**Whether you need a permit at all.** Some countries accept a domestic licence on its own, and the country you're driving in sets the requirement, not the one that issued your licence.
+**Whether you need a permit at all.** [Some countries accept a domestic licence on its own](https://www.gov.uk/driving-abroad), and the country you're driving in sets the requirement, not the one that issued your licence.
 
 **Which convention your destination recognises**, then check your permit against it (the convention is printed on the document).
 
@@ -104,7 +104,7 @@ Today, take out your licence and your permit, if you have one, and put the two e
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [United Nations Treaty Collection: Convention on Road Traffic (1968)](https://treaties.un.org/doc/Treaties/1977/05/19770524%2000-13%20AM/Ch_XI_B_19.pdf)
 - [UK Government: driving abroad, international driving permits](https://www.gov.uk/driving-abroad/international-driving-permit)

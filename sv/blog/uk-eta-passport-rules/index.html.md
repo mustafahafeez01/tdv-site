@@ -22,7 +22,7 @@ Det här är i grunden ett problem med att hålla koll på dokument. Du har två
 
 ## De flesta viseringsfria besökare behöver nu ett ETA
 
-Är du medborgare i USA, Kanada, Australien, Nya Zeeland eller ett land i EU eller Europeiska ekonomiska samarbetsområdet behöver du sannolikt ett brittiskt ETA. Systemet började gälla från den 25 februari 2026 för de flesta viseringsfria medborgare.
+Är du medborgare i USA, Kanada, Australien, Nya Zeeland eller ett land i EU eller Europeiska ekonomiska samarbetsområdet [behöver du sannolikt ett brittiskt ETA](https://www.gov.uk/eta). Systemet [började gälla från den 25 februari 2026](https://www.gov.uk/government/news/no-permission-no-travel-uk-set-to-enforce-eta-scheme) för de flesta viseringsfria medborgare.
 
 Vissa är undantagna: irländska medborgare behöver inget, och personer med brittisk uppehållsstatus – ett visum, permanent uppehållstillstånd eller obegränsat uppehållstillstånd – behöver inte heller ansöka. Personer med dubbelt medborgarskap, de som omfattas av det gemensamma resområdet (Common Travel Area), och några andra grupper har andra regler beroende på hur de reser.
 
@@ -30,7 +30,7 @@ Vissa är undantagna: irländska medborgare behöver inget, och personer med bri
 
 ## ETA:et är kopplat till ditt passnummer, inte till dig
 
-Ditt brittiska ETA är kopplat till ditt passnummer, inte till dig som person. När du ansöker länkar inrikesministeriet ditt godkännande till ett specifikt passnummer. Att resa på ett annat pass – ett nyligen förnyat, ett andra pass, ett provisoriskt nödpass – innebär att resa på ett ETA som inte är kopplat till den handlingen.
+Ditt brittiska ETA är [kopplat till ditt passnummer](https://www.gov.uk/check-eta), inte till dig som person. När du ansöker länkar inrikesministeriet ditt godkännande till ett specifikt passnummer. Att resa på ett annat pass – ett nyligen förnyat, ett andra pass, ett provisoriskt nödpass – innebär att resa på ett ETA som inte är kopplat till den handlingen.
 
 Ett brittiskt ETA är digitalt och passpecifikt, så ett nytt passnummer innebär att ett nytt ETA behövs.
 
@@ -89,11 +89,11 @@ Ett ETA är inte heller ett visum – det säger inget om hur länge du får sta
 
 Ett brittiskt ETA är ett av flera digitala resetillstånd som nu används. Planerar du resor genom flera länder är det värt att förstå skillnaden mellan ett ETA och ett [visum](https://traveldocumentvault.com/sv/blog/visa-vs-passport/). De liknar varandra i processen men fyller olika syften.
 
-EU planerar ett eget digitalt resetillstånd, [ETIAS](https://traveldocumentvault.com/sv/blog/etias-documents-2026/), som ännu inte är i drift. Det liknar i koncept det brittiska ETA:et men har andra regler och krav. När det startar kan en resa som omfattar både Storbritannien och Schengenområdet kräva båda.
+EU planerar ett eget digitalt resetillstånd, [ETIAS](https://traveldocumentvault.com/sv/blog/etias-documents-2026/), som [ännu inte är i drift](https://travel-europe.europa.eu/en/etias). Det liknar i koncept det brittiska ETA:et men har andra regler och krav. När det startar kan en resa som omfattar både Storbritannien och Schengenområdet kräva båda.
 
 Har du redan en resa bokad, gör så här i dag: kontrollera passets utgångsdatum mot dina resdatum och bekräfta att ditt nuvarande ETA är kopplat till det pass du faktiskt kommer att resa på. Räcker något av dem inte till, påbörja förnyelsen eller den nya ansökan nu, inte veckan innan du flyger.
 
-Källor vi har kontrollerat (6 november 2026)
+Officiella källor
 
 - [UK Government: Get an electronic travel authorisation (ETA) to visit the UK](https://www.gov.uk/eta)
 - [UK Government: Check your electronic travel authorisation (ETA)](https://www.gov.uk/check-eta)

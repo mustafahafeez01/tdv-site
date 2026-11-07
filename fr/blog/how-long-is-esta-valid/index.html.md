@@ -21,13 +21,13 @@ Une ESTA est généralement valable deux ans à partir du jour de son approbatio
 
 ## Votre ESTA prend fin à deux ans ou quand votre passeport expire
 
-US Customs and Border Protection (CBP) fixe la règle : une ESTA approuvée est généralement valable deux ans à partir de la date d'autorisation, ou jusqu'à l'expiration de votre passeport, selon ce qui arrive le plus tôt. Un passeport avec 14 mois de validité restante donne donc une ESTA avec 14 mois de validité. L'écran d'approbation affiche la date d'expiration exacte, ce qui vous évite de la calculer.
+[US Customs and Border Protection (CBP)](https://www.cbp.gov/travel/international-visitors/esta/frequently-asked-questions-about-visa-waiver-program-vwp-and-electronic-system-travel) fixe la règle : une ESTA approuvée est généralement valable deux ans à partir de la date d'autorisation, ou jusqu'à l'expiration de votre passeport, selon ce qui arrive le plus tôt. Un passeport avec 14 mois de validité restante donne donc une ESTA avec 14 mois de validité. L'écran d'approbation affiche la date d'expiration exacte, ce qui vous évite de la calculer.
 
 ![Schéma du moment où une ESTA cesse d'être valide : elle prend fin après 2 ans ou quand le passeport expire, selon ce qui arrive en premier. Chacun a besoin de la sienne, bébés et enfants aussi, chacun sur son propre passeport. Un nouveau passeport, nom ou nationalité signifie refaire la demande](https://traveldocumentvault.com/blog/how-long-is-esta-valid/esta-clock-fr.jpg) Une horloge par voyageur, qui ne dépasse jamais le passeport.
 
 La CBP envoie aussi un e-mail à l'adresse indiquée sur votre demande lorsque votre ESTA doit expirer dans les 30 jours suivants. Nous ne nous fierions pas uniquement à cet e-mail : il peut atterrir dans les spams ou une boîte de réception que vous ne consultez plus, alors notez la date quelque part où vous la verrez au moment de réserver.
 
-Pendant ces deux années, une seule ESTA couvre autant de voyages que vous le souhaitez. Chaque séjour dans le cadre du programme d'exemption de visa (Visa Waiver Program) reste limité à 90 jours maximum, et la CBP précise bien qu'une approbation de deux ans ne signifie pas un séjour de deux ans.
+Pendant ces deux années, une seule ESTA couvre autant de voyages que vous le souhaitez. Chaque séjour dans le cadre du [programme d'exemption de visa (Visa Waiver Program)](https://www.cbp.gov/travel/international-visitors/visa-waiver-program) reste limité à 90 jours maximum, et la CBP précise bien qu'une approbation de deux ans ne signifie pas un séjour de deux ans.
 
 La seule exception est le Brunei, pour lequel la CBP a réduit la durée de validité à un an pour ses citoyens et nationaux.
 
@@ -41,7 +41,7 @@ Voici comment cela se passe en pratique. Supposons que votre ESTA expire le 10 d
 
 Il n'existe aucune prolongation. La CBP indique que les autorisations existantes ne peuvent pas être prolongées, et vous n'avez pas à attendre qu'une ESTA expire avant d'en redemander une. Votre nouvelle demande annule et remplace l'ancienne.
 
-La CBP recommande de faire la demande au moment où vous réservez votre voyage, et c'est une bonne habitude à garder. Si votre ESTA expire quelques semaines avant un voyage, faites la demande le jour où vous réservez le voyage plutôt que la semaine de votre départ.
+[La CBP recommande de faire la demande au moment où vous réservez votre voyage](https://www.cbp.gov/newsroom/national-media-release/cbp-reminds-travelers-allow-72-hours-esta), et c'est une bonne habitude à garder. Si votre ESTA expire quelques semaines avant un voyage, faites la demande le jour où vous réservez le voyage plutôt que la semaine de votre départ.
 
 ## Quatre changements signifient une nouvelle ESTA
 
@@ -70,7 +70,7 @@ Attendez-vous à ce que ce montant change encore. La loi qui l'encadre exige que
 
 ## Faites votre demande sur le site officiel de l'ESTA, pas sur une copie
 
-Certains sites tiers facturent plus que le tarif officiel. La CBP indique qu'ils n'accélèrent pas l'approbation, qu'ils ne sont ni approuvés ni affiliés au Department of Homeland Security, et que la CBP ne peut pas rembourser ce que vous leur avez payé. Faites votre demande sur le site officiel de l'ESTA géré par la CBP.
+Certains [sites tiers](https://www.cbp.gov/newsroom/national-media-release/cbp-warns-against-third-party-site-use-esta-applications) facturent plus que le tarif officiel. La CBP indique qu'ils n'accélèrent pas l'approbation, qu'ils ne sont ni approuvés ni affiliés au [Department of Homeland Security](https://www.dhs.gov/visa-waiver-program), et que la CBP ne peut pas rembourser ce que vous leur avez payé. Faites votre demande sur le site officiel de l'ESTA géré par la CBP.
 
 C'est aussi là que vous vérifiez un statut. Choisissez « Check ESTA Status » (vérifier le statut de l'ESTA), puis « Check Individual Status » (vérifier le statut individuel), ou « Check Group Status » (vérifier le statut du groupe) pour une demande familiale. Si vous avez perdu le numéro de la demande, vous pouvez la retrouver avec votre numéro de passeport, votre pays de nationalité, les dates de délivrance et d'expiration du passeport, et votre date de naissance. Les informations doivent correspondre exactement à ce que vous avez saisi.
 
@@ -89,11 +89,11 @@ Quatre vérifications prennent quelques minutes :
 
 ## Une ESTA approuvée n'est pas une garantie d'entrée
 
-L'approbation signifie que vous êtes éligible à voyager dans le cadre du programme d'exemption de visa, pas que vous serez admis, puisque cette décision revient aux agents de la CBP à votre arrivée.
+[L'approbation signifie que vous êtes éligible à voyager](https://www.cbp.gov/travel/international-visitors/esta) dans le cadre du programme d'exemption de visa, pas que vous serez admis, puisque cette décision revient aux agents de la CBP à votre arrivée.
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
-Sources vérifiées (6 novembre 2026)
+Sources officielles
 
 - [US CBP: Visa Waiver Program and ESTA frequently asked questions](https://www.cbp.gov/travel/international-visitors/esta/frequently-asked-questions-about-visa-waiver-program-vwp-and-electronic-system-travel)
 - [US CBP: Electronic System for Travel Authorization (ESTA)](https://www.cbp.gov/travel/international-visitors/esta)
@@ -102,7 +102,6 @@ Sources vérifiées (6 novembre 2026)
 - [US DHS: Visa Waiver Program](https://www.dhs.gov/visa-waiver-program)
 - [US CBP: CBP Reminds Travelers to Allow 72 Hours for ESTA](https://www.cbp.gov/newsroom/national-media-release/cbp-reminds-travelers-allow-72-hours-esta)
 - [US CBP: CBP Warns Against Third-Party Site Use for ESTA Applications](https://www.cbp.gov/newsroom/national-media-release/cbp-warns-against-third-party-site-use-esta-applications)
-- [US CBP: ESTA frequently asked questions](https://esta.cbp.dhs.gov/faq)
 
 ## Questions fréquemment posées
 

@@ -11,9 +11,9 @@ Source: https://traveldocumentvault.com/fr/blog/digital-passport-copy-valid/
 ## Points clés à retenir
 
 - Les copies numériques du passeport sont acceptées pour **l'enregistrement à l'hôtel, les réservations de vols et les locations de voitures**, mais pas aux frontières ni pour l'embarquement en avion.
-- Pour voyager à l'international, il faut **généralement présenter le passeport original** aux frontières et à l'embarquement. Certains trajets acceptent une carte d'identité nationale, par exemple pour les citoyens de l'UE voyageant dans l'UE, mais jamais une copie.
+- Pour voyager à l'international, il faut **généralement présenter le passeport original** aux frontières et à l'embarquement. Certains trajets acceptent une carte d'identité nationale, par exemple pour [les citoyens de l'UE voyageant dans l'UE](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm), mais jamais une copie.
 - Les copies numériques **n'ont pas de valeur juridique comme documents de voyage**. Elles ne sont que de la documentation d'appui.
-- Les demandes de visa exigent **des formats spécifiques**. Certaines demandent des copies certifiées ou notariées ; d'autres, notamment de nombreux visas électroniques, acceptent un scan net de la page avec photo. Une simple photo de téléphone est souvent refusée. Consultez d'abord le site de l'ambassade.
+- Les demandes de visa exigent **des formats spécifiques**. Certaines demandent des copies certifiées ou notariées ; d'autres, notamment [de nombreux visas électroniques](https://indianvisaonline.gov.in/evisa/tvoa.html), acceptent un scan net de la page avec photo. Une simple photo de téléphone est souvent refusée. Consultez d'abord le site de l'ambassade.
 - Si votre passeport est perdu à l'étranger, une **copie de la page avec photo peut aider** votre ambassade à confirmer vos informations lors d'une demande de remplacement.
 
 Lorsque vous planifiez un voyage, de nombreux voyageurs se demandent s'ils peuvent stocker une copie numérique de leur passeport sur leur téléphone plutôt que de porter l'original. Vous devez savoir exactement où elle fonctionne et où elle ne fonctionne pas, pour ne pas vous retrouver mal à l'aise lors de l'enregistrement.
@@ -22,11 +22,11 @@ La réponse courte : une copie numérique est véritablement utile, mais seuleme
 
 ## Une copie numérique est une photo de votre passeport, pas un passeport numérique
 
-Une copie numérique de passeport est **un scan ou une photo de téléphone de sa page d'identification**, la page avec votre photo, votre nom, votre date de naissance, votre numéro de passeport et sa date d'expiration. Elle enregistre vos informations sans se substituer au document. Le gouvernement canadien le dit clairement dans ses conseils aux voyageurs : les copies peuvent aider si vos documents sont perdus ou volés, mais elles ne peuvent pas servir de pièce d'identité, et vous devrez quand même demander un nouveau passeport si vous perdez le vôtre.
+Une copie numérique de passeport est **un scan ou une photo de téléphone de sa page d'identification**, la page avec votre photo, votre nom, votre date de naissance, votre numéro de passeport et sa date d'expiration. Elle enregistre vos informations sans se substituer au document. [Le gouvernement canadien](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings) le dit clairement dans ses conseils aux voyageurs : les copies peuvent aider si vos documents sont perdus ou volés, mais elles ne peuvent pas servir de pièce d'identité, et vous devrez quand même demander un nouveau passeport si vous perdez le vôtre.
 
-En faire une prend quelques minutes. Posez le passeport à plat sous un bon éclairage, photographiez ou scannez la page d'identification pour que toute la page soit nette, puis zoomez pour vérifier que chaque détail est lisible. Faites de même pour tout visa avec lequel vous voyagerez. La liste de contrôle britannique pour les voyages à l'étranger recommande une sauvegarde des informations du passeport, à partager avec vos proches ou à conserver sur une plateforme de stockage sécurisée.
+En faire une prend quelques minutes. Posez le passeport à plat sous un bon éclairage, photographiez ou scannez la page d'identification pour que toute la page soit nette, puis zoomez pour vérifier que chaque détail est lisible. Faites de même pour tout visa avec lequel vous voyagerez. [La liste de contrôle britannique pour les voyages à l'étranger](https://www.gov.uk/guidance/foreign-travel-checklist) recommande une sauvegarde des informations du passeport, à partager avec vos proches ou à conserver sur une plateforme de stockage sécurisée.
 
-Une copie n'est pas non plus la même chose que les identités numériques que certains gouvernements acceptent désormais. Aux États-Unis, la Transportation Security Administration permet aux titulaires d'un passeport américain de configurer un pass d'identité dans Google Wallet pour ses contrôles d'aéroport, mais elle précise toujours que tous les passagers doivent porter une pièce d'identité physique acceptable. Une photo dans votre pellicule est une sauvegarde de vos informations, et c'est exactement ainsi qu'il faut la considérer.
+Une copie n'est pas non plus la même chose que les identités numériques que certains gouvernements acceptent désormais. Aux États-Unis, la [Transportation Security Administration](https://www.tsa.gov/digital-id) permet aux titulaires d'un passeport américain de configurer un pass d'identité dans Google Wallet pour ses contrôles d'aéroport, mais elle précise toujours que tous les passagers doivent porter une pièce d'identité physique acceptable. Une photo dans votre pellicule est une sauvegarde de vos informations, et c'est exactement ainsi qu'il faut la considérer.
 
 ## Où les copies numériques du passeport sont acceptées
 
@@ -44,7 +44,7 @@ Les entreprises de location de voitures acceptent souvent les copies numériques
 
 ### Si votre passeport est perdu, la copie accélère les démarches
 
-Si votre passeport est perdu ou volé en voyage, une copie de la page avec photo peut aider votre ambassade ou votre consulat à confirmer vos informations lors d'une demande de remplacement. Vous devez tout de même demander un nouveau passeport ou un document de voyage d'urgence. C'est l'une des bonnes raisons de toujours avoir une sauvegarde numérique.
+Si votre passeport est perdu ou volé en voyage, une copie de la page avec photo peut aider votre ambassade ou votre consulat à confirmer vos informations lors d'une demande de remplacement. Vous devez tout de même demander un nouveau passeport ou [un document de voyage d'urgence](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport). C'est l'une des bonnes raisons de toujours avoir une sauvegarde numérique.
 
 ![Diagramme des usages d'une copie numérique de passeport : généralement accepté pour l'enregistrement à l'hôtel, la réservation de vol et la location de voiture ; original exigé au contrôle aux frontières et à l'embarquement](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-where-fr.jpg) En bref : une copie ouvre des portes, seul l'original traverse les frontières.
 
@@ -89,7 +89,7 @@ Si vous n'en avez pas encore fait, scannez dès aujourd'hui la page photo de vot
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
-Sources vérifiées (6 novembre 2026)
+Sources officielles
 
 - [Government of Canada: Lost or stolen belongings abroad](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings)
 - [UK Government: Foreign travel checklist](https://www.gov.uk/guidance/foreign-travel-checklist)

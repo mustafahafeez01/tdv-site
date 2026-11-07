@@ -19,7 +19,7 @@ Source: https://traveldocumentvault.com/sv/blog/us-child-passport-renewal-under-
 
 Ett amerikanskt pass som utfärdas till ett barn under 16 år kan inte förnyas. När det går ut ansöker du om ett nytt personligen, på samma sätt som första gången, och båda föräldrarna deltar igen. Det är mer pappersarbete än en vuxenförnyelse, men inget av det är nytt om du har gjort det en gång förut.
 
-Federala passbestämmelser drar gränsen vid 16 år: förnyelse per post eller online är bara möjlig när det senaste passet utfärdades vid 16 år eller äldre, så varje pass ett barn får före 16 års ålder slutar med en ny ansökan. Ett barn som får sitt första pass som spädbarn kan gå igenom fyra ansökningar innan det fyller 16, varje gång med båda föräldrarna inblandade.
+[Federala passbestämmelser](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-F/part-51) drar gränsen vid 16 år: förnyelse per post eller online är bara möjlig när det senaste passet utfärdades vid 16 år eller äldre, så varje pass ett barn får före 16 års ålder slutar med en ny ansökan. Ett barn som får sitt första pass som spädbarn kan gå igenom fyra ansökningar innan det fyller 16, varje gång med båda föräldrarna inblandade.
 
 ## Pass utfärdade före 16 år gäller i fem år
 
@@ -69,7 +69,7 @@ Med fler än ett barn glider datumen isär. Pass som utfärdas med några års m
 
 Det som gör skillnaden är att börja tidigt. Vi skulle börja omkring nio månader innan ett barns pass går ut: tillräckligt med tid för att hitta en tid båda föräldrarna kan komma till, få en eventuell bevittnad förklaring undertecknad, och fortfarande ha tid om något behöver göras om. Vårt inlägg om [när man ska förnya ett pass innan det går ut](https://traveldocumentvault.com/sv/blog/renew-passport-before-expiry/) går igenom tidsplaneringen mer i detalj.
 
-Källor vi har kontrollerat (6 november 2026)
+Officiella källor
 
 - [US eCFR: 22 CFR Part 51 (passports)](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-F/part-51)
 

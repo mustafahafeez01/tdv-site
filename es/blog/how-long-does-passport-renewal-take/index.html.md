@@ -54,7 +54,7 @@ HM Passport Office publica su propio tiempo de procesamiento actual en GOV.UK, y
 
 ![Diagrama de una solicitud que avanza hacia un pasaporte terminado pasando seis posibles retrasos: cambio de nombre, primer pasaporte de adulto, solicitud infantil, perdido o dañado, comprobaciones extra o entrevista, y solicitar desde el extranjero](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/passport-renewal-timeline-es.jpg) Seis situaciones sacan una solicitud del carril rápido. Una renovación sencilla las evita todas.
 
-El Reino Unido ofrece un servicio de renovación digital para adultos elegibles solicitando desde **dentro del Reino Unido**. Si calificas, no necesitas enviar tu pasaporte anterior, aunque sigues necesitando una foto que cumpla los requisitos oficiales. La solicitud se completa en línea. **Si eres ciudadano británico viviendo en el extranjero** (un expatriado), el servicio digital no está disponible para ti. Debes usar el servicio de pasaporte de ultramar en GOV.UK. Para casos urgentes, HM Passport Office ofrece un servicio 1 Week Fast Track y, solo para renovaciones de adultos, un servicio 1 Day Premium con la cita más próxima 2 días después de solicitarlo. Consulta GOV.UK para el servicio correcto y la cifra actual para tu situación, que pregunta tu ubicación al inicio de la solicitud.
+El Reino Unido ofrece un servicio de renovación digital para adultos elegibles solicitando desde **dentro del Reino Unido**. Si calificas, no necesitas enviar tu pasaporte anterior, aunque sigues necesitando una foto que cumpla los requisitos oficiales. La solicitud se completa en línea. **Si eres ciudadano británico viviendo en el extranjero** (un expatriado), el servicio digital no está disponible para ti. Debes usar el servicio de pasaporte de ultramar en GOV.UK. Para casos urgentes, HM Passport Office ofrece un servicio 1 Week Fast Track y, solo para renovaciones de adultos, un servicio [1 Day Premium](https://www.gov.uk/get-a-passport-urgently) con la cita más próxima 2 días después de solicitarlo. Consulta GOV.UK para el servicio correcto y la cifra actual para tu situación, que pregunta tu ubicación al inicio de la solicitud.
 
 Un cambio de nombre, un primer pasaporte de adulto, o cualquier solicitud que requiera verificaciones extra tomará más tiempo. Los pasaportes de niños no pueden usar el servicio digital en absoluto —pasan únicamente por el proceso estándar. Antes de solicitar, consulta GOV.UK para la cifra actual relevante para tu situación.
 
@@ -68,7 +68,7 @@ Las solicitudes de pasaporte infantil son una historia diferente. Son más compl
 
 ## ¿Cuánto tiempo tarda la renovación de pasaporte en Canadá?
 
-Immigration, Refugees and Citizenship Canada (IRCC) tramita las renovaciones de pasaporte. Canadá ofrece renovación en línea si necesitas el pasaporte dentro de 20 días laborables o más; el resto debe presentar la solicitud en papel. Para viajes urgentes, consulta las opciones disponibles con la autoridad de pasaportes.
+Immigration, Refugees and Citizenship Canada (IRCC) tramita las renovaciones de pasaporte. [Canadá ofrece renovación en línea](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html) si necesitas el pasaporte dentro de 20 días laborables o más; el resto debe presentar la solicitud en papel. Para viajes urgentes, consulta las opciones disponibles con la autoridad de pasaportes.
 
 Eso hace el proceso más exigente logísticamente, especialmente si vives en algún lugar rural y la oficina de pasaportes más cercana está lejos. Consulta la página de IRCC para los tiempos de procesamiento actuales antes de solicitar, y suma el tiempo de envío en ambas direcciones si aplicas por correo.
 
@@ -111,7 +111,7 @@ Saca hoy tu propio pasaporte y comprueba cuántos meses le quedan realmente fren
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 
-Fuentes que hemos comprobado (6 de noviembre de 2026)
+Fuentes oficiales
 
 - [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
 - [Government of Canada: Renew an adult passport](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html)
@@ -124,7 +124,7 @@ No podemos darte aquí una cifra fija, porque los tiempos de procesamiento del D
 
 ### ¿Cuánto tiempo tarda la renovación de pasaporte en el Reino Unido?
 
-HM Passport Office publica su propio tiempo de procesamiento actual, y cambia con la frecuencia suficiente como para que citar una cifra aquí probablemente esté equivocada cuando la leas. Los adultos elegibles que solicitan desde dentro del Reino Unido pueden usar el servicio de renovación digital, que evita enviar el pasaporte pero sigue necesitando una foto que cumpla los requisitos oficiales. Si solicitas desde fuera del Reino Unido, usarás en su lugar el servicio de ultramar. Para casos urgentes, HM Passport Office ofrece un servicio 1 Week Fast Track y, solo para renovaciones de adultos, un servicio 1 Day Premium con la cita más próxima 2 días después de solicitarlo. Consulta GOV.UK para la cifra que aplica a tu situación.
+HM Passport Office publica su propio tiempo de procesamiento actual, y cambia con la frecuencia suficiente como para que citar una cifra aquí probablemente esté equivocada cuando la leas. Los adultos elegibles que solicitan desde dentro del Reino Unido pueden usar el servicio de renovación digital, que evita enviar el pasaporte pero sigue necesitando una foto que cumpla los requisitos oficiales. Si solicitas desde fuera del Reino Unido, usarás en su lugar el servicio de ultramar. Para casos urgentes, HM Passport Office ofrece un servicio 1 Week Fast Track y, solo para renovaciones de adultos, un servicio [1 Day Premium](https://www.gov.uk/get-a-passport-urgently) con la cita más próxima 2 días después de solicitarlo. Consulta GOV.UK para la cifra que aplica a tu situación.
 
 ### ¿Cuánto tiempo tarda la renovación de pasaporte en Australia?
 
@@ -132,7 +132,7 @@ La Oficina de Pasaportes Australiana es la única fuente fiable de tiempos actua
 
 ### ¿Puedo renovar mi pasaporte en línea?
 
-EE.UU. ofrece renovación en línea a adultos elegibles —consulta travel.state.gov para conocer los requisitos actuales—. El Reino Unido ofrece un servicio digital para adultos elegibles que solicitan desde el propio país; quienes solicitan desde el extranjero deben usar un servicio separado. Canadá ofrece renovación en línea si necesitas el pasaporte dentro de 20 días laborables o más; el resto debe presentar la solicitud en papel. Para Australia, consulta passports.gov.au para saber cómo solicitarlo. Las normas de elegibilidad cambian, así que consulta el sitio oficial de tu país antes de dar por hecho que cumples los requisitos.
+EE.UU. ofrece renovación en línea a adultos elegibles —consulta travel.state.gov para conocer los requisitos actuales—. El Reino Unido ofrece un servicio digital para adultos elegibles que solicitan desde el propio país; quienes solicitan desde el extranjero deben usar un servicio separado. [Canadá ofrece renovación en línea](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html) si necesitas el pasaporte dentro de 20 días laborables o más; el resto debe presentar la solicitud en papel. Para Australia, consulta passports.gov.au para saber cómo solicitarlo. Las normas de elegibilidad cambian, así que consulta el sitio oficial de tu país antes de dar por hecho que cumples los requisitos.
 
 ### ¿Qué debo hacer si mi pasaporte está venciendo y tengo viaje reservado?
 

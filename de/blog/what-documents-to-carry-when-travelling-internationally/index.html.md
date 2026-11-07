@@ -34,15 +34,15 @@ Einige Fluggesellschaften und Grenzbeamte möchten möglicherweise einen Nachwei
 
 ### Impfzertifikate
 
-Einige Ziele erfordern einen Impfnachweis gegen Gelbfieber oder andere Krankheiten, und die Anforderungen ändern sich regelmäßig je nach Ziel. Überprüfen Sie die WHO-Reiseratschläge 4-8 Wochen vor der Reise – nicht am Vorabend – und führen Sie das Originalzertifikat statt einer Kopie mit, da einige Länder es sehen möchten.
+Einige Ziele erfordern einen Impfnachweis gegen Gelbfieber oder andere Krankheiten, und die Anforderungen ändern sich regelmäßig je nach Ziel. Überprüfen Sie die [WHO-Reiseratschläge](https://www.who.int/health-topics/travel-and-health) 4-8 Wochen vor der Reise – nicht am Vorabend – und führen Sie das Originalzertifikat statt einer Kopie mit, da einige Länder es sehen möchten.
 
 ### Reiseversicherungsdetails
 
-Sie benötigen sofortigen Zugriff auf Ihre Policennummer, Kontaktdaten des Versicherers und Ihre 24-Stunden-Notfallhotline. Einige Visatypen erfordern explizit einen Nachweis der Reiseversicherung – Schengen-Visumantrag zum Beispiel erfordern eine Versicherung, die medizinische Notfallversorgung und Krankenhaus abdeckt. Aber noch wichtiger: Falls etwas im Ausland schiefgeht, benötigen Sie diese Details ohne E-Mail oder Internet.
+Sie benötigen sofortigen Zugriff auf Ihre Policennummer, Kontaktdaten des Versicherers und Ihre 24-Stunden-Notfallhotline. Einige Visatypen erfordern explizit einen Nachweis der Reiseversicherung – [Schengen-Visumantrag](https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en) zum Beispiel erfordern eine Versicherung, die medizinische Notfallversorgung und Krankenhaus abdeckt. Aber noch wichtiger: Falls etwas im Ausland schiefgeht, benötigen Sie diese Details ohne E-Mail oder Internet.
 
 ### Zustimmungsschreiben für Kinder
 
-Wenn ein Kind mit nur einem Elternteil (oder mit keinem Elternteil) international reist, erwarten viele Länder eine schriftliche Zustimmung vom abwesenden Elternteil, und eine notarielle Beglaubigung wird dringend empfohlen. Grenzbeamte und Flugpersonal fragen in vielen Ländern danach, darunter Kanada, und Südafrika hat eigene Regeln für einreisende Kinder, prüfen Sie also die offizielle Seite des Ziellands. Ohne ein Schreiben drohen Verzögerungen oder die Verweigerung der Beförderung.
+Wenn ein Kind mit nur einem Elternteil (oder mit keinem Elternteil) international reist, erwarten viele Länder eine schriftliche Zustimmung vom abwesenden Elternteil, und eine notarielle Beglaubigung wird dringend empfohlen. Grenzbeamte und Flugpersonal fragen in vielen Ländern danach, darunter [Kanada](https://travel.gc.ca/travelling/children/consent-letter), und Südafrika hat eigene Regeln für einreisende Kinder, prüfen Sie also die offizielle Seite des Ziellands. Ohne ein Schreiben drohen Verzögerungen oder die Verweigerung der Beförderung.
 
 Es ist das am häufigsten übersehene Dokument im Familienreisen, überprüfen Sie also vorher doppelt.
 
@@ -109,7 +109,7 @@ Wählen Sie das eine Dokument aus dieser Liste, das Sie noch nicht gesichert hab
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 
-Quellen, die wir geprüft haben (6. November 2026)
+Offizielle Quellen
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [UK Foreign Office: South Africa entry requirements](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements)
@@ -128,7 +128,7 @@ Mitnehmen sollten Sie: Reisepass, Visa-Dokumente, Bordkarten, Reiseversicherungs
 
 ### Ist ein Zustimmungsschreiben für Kinder wirklich notwendig?
 
-Ja, in vielen Ländern wird es erwartet. Wenn ein Kind international mit nur einem Elternteil reist, sollte der abwesende Elternteil eine schriftliche Zustimmung erteilen, und eine notarielle Beglaubigung wird dringend empfohlen. Wenn das Kind mit keinem Elternteil reist (zum Beispiel mit Großeltern), ist normalerweise die Zustimmung beider Eltern erforderlich. Grenzbeamte und Flugpersonal fragen in vielen Ländern danach, darunter Kanada, und Südafrika hat eigene Regeln für einreisende Kinder, prüfen Sie also die offizielle Seite des Ziellands. Ohne dieses Dokument drohen Verzögerungen oder die Verweigerung der Beförderung. Überprüfen Sie immer die Anforderungen für Ihr spezifisches Ziel.
+Ja, in vielen Ländern wird es erwartet. Wenn ein Kind international mit nur einem Elternteil reist, sollte der abwesende Elternteil eine schriftliche Zustimmung erteilen, und eine notarielle Beglaubigung wird dringend empfohlen. Wenn das Kind mit keinem Elternteil reist (zum Beispiel mit Großeltern), ist normalerweise die Zustimmung beider Eltern erforderlich. Grenzbeamte und Flugpersonal fragen in vielen Ländern danach, darunter Kanada, und [Südafrika](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements) hat eigene Regeln für einreisende Kinder, prüfen Sie also die offizielle Seite des Ziellands. Ohne dieses Dokument drohen Verzögerungen oder die Verweigerung der Beförderung. Überprüfen Sie immer die Anforderungen für Ihr spezifisches Ziel.
 
 ### Sollte ich digitale Kopien meiner Dokumente haben?
 

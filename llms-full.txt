@@ -43,7 +43,7 @@ A breach of an on-device app leaks nothing from their servers - there is nothing
 
 ### Reminder lead time is the setting worth customising
 
-A reminder at 6 months is the minimum, since many countries require passport validity for at least 6 months beyond your travel dates, as explained in our article on the [6-month passport rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/). Children's passports often last 5 years rather than 10 (a UK child passport, for example, is valid for 5 years), so an earlier reminder (say 9 months out) gives more comfortable planning time.
+A reminder at 6 months is the minimum, since many countries require passport validity for at least 6 months beyond your travel dates (the [UK Foreign Office](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements) says so for Indonesia, for example), as explained in our article on the [6-month passport rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/). Children's passports often last 5 years rather than 10 (a [UK child passport](https://www.gov.uk/get-a-child-passport), for example, is valid for 5 years), so an earlier reminder (say 9 months out) gives more comfortable planning time.
 
 ### A single app can hold the whole family, safely
 
@@ -108,7 +108,7 @@ Pull up the app you're actually considering and run it against this list before 
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [UK Foreign Office: Indonesia entry requirements](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements)
 - [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
@@ -164,7 +164,7 @@ Source: https://traveldocumentvault.com/blog/child-first-passport-application/
 - **Consent to apply is different from consent to travel.** Rules differ by country: in the UK, for example, someone with parental responsibility signs the form and you give both parents' details, while other countries ask for both parents to consent. Check your own passport office.
 - **Most applications ask for three types of evidence:** proof of identity (birth certificate), proof of parents' identity, and proof of parental relationship.
 - **Baby passport photos have specific rules.** Most authorities want eyes open and looking at the camera (GOV.UK relaxes this for under-1s and under-6s), with no dummies, toys, or other hands visible - and the background behind the child's head must be plain and clear.
-- **Check everything the moment it arrives.** Spelling, parent names where they appear, expiry date - especially since child passports often expire sooner than adult ones (a UK child passport is valid for 5 years).
+- **Check everything the moment it arrives.** Spelling, parent names where they appear, expiry date - especially since child passports often expire sooner than adult ones ([a UK child passport is valid for 5 years](https://www.gov.uk/get-a-child-passport)).
 - **In countries that ask for both parents' consent, one parent generally cannot sign alone unless there is a court order, sole legal guardianship, or the other parent is deceased.** If this is your situation, your passport office has a specific process to follow.
 
 Your child's first passport is something you only do once, which means you get to learn the rules before it happens rather than discovering them at the counter. The application itself is straightforward, but consent rules and photo requirements vary by country, and a small mistake at the start means a rejected application and a delayed trip.
@@ -179,7 +179,7 @@ This article covers the application consent. The distinction matters because you
 
 ## By Default, Everyone With Parental Responsibility Must Agree
 
-Who must consent depends on the country. In the UK, one person with parental responsibility signs the application and you give both parents' details; some other countries generally expect both parents to sign. Whether an unmarried parent has parental responsibility also differs by country, so your passport office is the place to confirm. Anyone with a court order or sole legal guardianship falls under different rules, and your passport office will explain the specific process when you ask.
+Who must consent depends on the country. In the UK, [one person with parental responsibility signs the application](https://www.gov.uk/get-a-child-passport/first-child-passport) and you give both parents' details; some other countries generally expect both parents to sign. Whether an unmarried parent has parental responsibility also differs by country, so your passport office is the place to confirm. Anyone with a court order or sole legal guardianship falls under different rules, and your passport office will explain the specific process when you ask.
 
 These exceptions are real and worth knowing. A deceased parent cannot sign, and a parent who has lost parental responsibility through a court order may not have the right to consent either. Restraining orders and custody restrictions can also exclude a parent by law. Each of these situations has its own application process and its own evidence requirements, so there is no single answer that covers all of them.
 
@@ -195,7 +195,7 @@ Passport offices want three things when you apply for a child's first passport: 
 
 **Proof of relationship to the child** usually comes from the birth certificate itself if both parents are named. If only one parent is listed, you may need to provide a court order, a custody agreement, or a guardianship certificate to show that the second parent also has the right to make decisions about the child.
 
-Some countries use a **countersignatory system**: a trusted professional (a teacher, doctor, lawyer, or similar) signs a form to vouch that the application is genuine and the photo is a true likeness of the child. If your country uses this system, you need to identify someone who is willing to do it before you apply. Ask your passport office which professions they accept.
+Some countries use a **[countersignatory system](https://www.gov.uk/countersigning-passport-applications)**: a trusted professional (a teacher, doctor, lawyer, or similar) signs a form to vouch that the application is genuine and the photo is a true likeness of the child. If your country uses this system, you need to identify someone who is willing to do it before you apply. Ask your passport office which professions they accept.
 
 ## Babies Can't Follow Adult Photo Rules, So You Adapt Them
 
@@ -203,7 +203,7 @@ Some countries use a **countersignatory system**: a trusted professional (a teac
 
 This is where many first-time applications fail. A baby or small child cannot follow photo rules the way an adult can: babies cannot sit up, toddlers cannot sit still or understand instructions, and newborns cannot look at the camera on command. Passport photo standards were written for adults, and you need to understand how to adapt them when the subject is a child who weighs 5 kilos and moves constantly.
 
-**The core rules are the same:** the child's eyes should generally be open and looking at the camera, with a plain background behind their head and nothing else in frame. Some authorities relax the eye rules for the youngest children: GOV.UK doesn't require open eyes under one, or a direct look at the camera under 6. What changes is how you make that happen.
+**The core rules are the same:** the child's eyes should generally be open and looking at the camera, with a plain background behind their head and nothing else in frame. Some authorities relax the eye rules for the youngest children: [GOV.UK](https://www.gov.uk/photos-for-passports) doesn't require open eyes under one, or a direct look at the camera under 6. What changes is how you make that happen.
 
 **For a newborn or baby under one:** photograph them lying down on a plain white or pale sheet or blanket. The sheet becomes the background. Position yourself directly above so the baby is looking straight up at the camera, eyes open, but if the baby is sleepy, wait for a moment when they are alert. No toys, no dummies, no hands, no other person visible in the frame except the baby's own head and shoulders.
 
@@ -237,7 +237,7 @@ This is a legal requirement that exists to protect the child, not a negotiation.
 
 Once the passport is issued and delivered to you, spend five minutes checking it before you file it away. You are looking for three things that are easy to fix now and a nightmare to fix at the airport.
 
-**Check that your child's name is spelled exactly as it appears** on the birth certificate or the identity document you used to apply. If it is wrong, the passport office will generally replace it free if the mistake was theirs, and you may pay a fee if it came from the application you submitted. If you do not notice until you are at the airport, the airline may refuse to board because the name on the ticket will not match the passport.
+**Check that your child's name is spelled exactly as it appears** on the birth certificate or the identity document you used to apply. If it is wrong, the passport office will generally [replace it free if the mistake was theirs](https://www.gov.uk/government/publications/preventing-and-resolving-errors-on-passports/how-to-correct-errors-on-passports-accessible), and you may pay a fee if it came from the application you submitted. If you do not notice until you are at the airport, the airline may refuse to board because the name on the ticket will not match the passport.
 
 **Look at the parent names where they appear.** Some countries print the names of the parents or guardians on the inside of a child's passport. If these names are misspelled or wrong, contact the office to have it corrected.
 
@@ -245,7 +245,7 @@ Once the passport is issued and delivered to you, spend five minutes checking it
 
 If anything is wrong, contact your passport office as soon as you spot it. Whether a correction is free depends on who made the error, and it gets harder to sort out the longer you leave it. Once everything checks out, put the passport straight into your documents folder with a note of the expiry date, so renewal doesn't catch you by surprise.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [UK Government: Get a passport photo, Digital photos](https://www.gov.uk/photos-for-passports)
 - [UK Government: applying for a first child passport](https://www.gov.uk/get-a-child-passport/first-child-passport)
@@ -322,7 +322,7 @@ A letter is commonly required in these situations:
 - **A child travels with one parent whose surname differs from the child's.** This raises flags at some borders, particularly for younger children.
 - **A child is adopted or in foster care.** Legal guardianship documents and consent may be required alongside the letter.
 
-**Critical caveat:** rules vary widely. Canada does not legally require a consent letter, but the Government of Canada strongly recommends one and notes that "failure to produce a letter upon request may result in delays or a refusal to enter or exit a country." South Africa asks for a parental consent affidavit when a parent is not travelling. Some countries apply requirements only to children under a certain age. There is no global standard.
+**Critical caveat:** rules vary widely. Canada does not legally require a consent letter, but the [Government of Canada](https://travel.gc.ca/travelling/children/consent-letter) strongly recommends one and notes that "failure to produce a letter upon request may result in delays or a refusal to enter or exit a country." South Africa asks for a parental consent affidavit when a parent is not travelling. Some countries apply requirements only to children under a certain age. There is no global standard.
 
 Always verify requirements directly with the immigration authority for your specific destination country before travelling. Use the IATA Travel Centre to check entry requirements, or contact your destination country's embassy. If you are unsure, having the letter is better than the alternative: being stopped at check-in or the border.
 
@@ -352,8 +352,8 @@ Where a witnessed letter is asked for or recommended, that usually means a notar
 
 What a few countries say about notarisation:
 
-- **Canada.** A consent letter is not legally required, but the Government of Canada strongly recommends one and recommends a notary public witness the signature. Border and airline staff may request it on entry or exit.
-- **South Africa.** Where a parent is not travelling, the Department of Home Affairs asks for a parental consent affidavit, which it says must not be older than 4 months when presented. Check the current Home Affairs page.
+- **Canada.** A consent letter is not legally required, but the [Government of Canada](https://travel.gc.ca/travelling/children/documents) strongly recommends one and recommends a notary public witness the signature. Border and airline staff may request it on entry or exit.
+- **South Africa.** Where a parent is not travelling, the [Department of Home Affairs](https://www.gov.za/news/speeches/director-general-mkuseli-apleni-media-briefing-new-requirements-travelling-children) asks for a parental consent affidavit, which it says must not be older than 4 months when presented. Check the current Home Affairs page.
 - **Australia.** Smartraveller publishes guidance on travelling with children, and airlines may ask for a letter. Check it for the country you leave from and the one you enter.
 - **United Kingdom.** Not legally required for outbound travel, but airlines and destination border officers may request one when a child travels with one parent or with a non-parent adult. Check the GOV.UK guidance for your route.
 - **United States.** Not federally mandated but recommended. Some states recognise notarisation explicitly.
@@ -383,7 +383,7 @@ Even well-prepared families trip up in predictable ways. These are the most freq
 | **United Kingdom** | Not legally required; airlines and destination borders may request | Check current guidance | GOV.UK |
 | **United States** | Not federally required; varies by state | Check current guidance | travel.state.gov |
 | **European Union** | Varies by country | Varies by country | IATA Travel Centre |
-| **New Zealand** | Recommended | Usually signed by the parents and witnessed by a public official | SafeTravel (NZ Government) |
+| **New Zealand** | Recommended | Usually signed by the parents and witnessed by a public official | [SafeTravel](https://www.safetravel.govt.nz/before-you-go/who-is-travelling/travelling-with-children) (NZ Government) |
 
 Treat this table as a starting point, not the final word. Rules change frequently, and the destination's own immigration authority is your most reliable source. Travel blogs and airline pages are useful for context, but they can lag behind the latest requirements.
 
@@ -414,7 +414,7 @@ Go through this list before you leave the house, not at the check-in desk, becau
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [NZ SafeTravel: Travelling with children](https://www.safetravel.govt.nz/before-you-go/who-is-travelling/travelling-with-children)
@@ -487,7 +487,7 @@ Most critically, the machine-readable zone (the black-and-white stripe at the bo
 
 ![Two open passports side by side: one worn but flat and usable, one water-stained with rippled pages and lifting lamination](https://traveldocumentvault.com/blog/damaged-passport-travel/damage-vs-wear-figure.jpg) Minor creases on the cover: acceptable. Water damage to the data page: a problem.
 
-The reason this matters is that **airlines bear the liability if they board someone with an unacceptable document.** Board with a damaged passport, get refused entry at the far end, and the authorities can fine the airline for carrying you.
+The reason this matters is that **airlines bear the liability if they board someone with an unacceptable document.** Board with a damaged passport, get refused entry at the far end, and the authorities can [fine the airline](https://www.legislation.gov.uk/ukpga/1999/33/section/40) for carrying you.
 
 No gate agent wants that paperwork, so they err decisively on the side of caution.
 
@@ -499,7 +499,7 @@ Spotting damage with time to spare is the best-case scenario, because you still 
 
 Your first stop should be your own country's official passport office website, because that's the one place where the current rules and processing times are guaranteed to be right, and both shift more often than people expect. If you're unsure whether your particular passport will still be accepted, the passport office is the only body whose answer actually counts. An airline forum will not save you at the desk.
 
-A few things to confirm before you go. Urgent and fast-track services usually exist, but they don't all cover damaged passports, and the very fastest tier is often restricted to straightforward renewals. Check which service your situation qualifies for before you book an appointment.
+A few things to confirm before you go. [Urgent and fast-track services](https://www.gov.uk/get-a-passport-urgently) usually exist, but they don't all cover damaged passports, and the very fastest tier is often restricted to straightforward renewals. Check which service your situation qualifies for before you book an appointment.
 
 A damaged passport also tends to mean applying in person rather than by post. In some countries the office that handles urgent cases is a different place entirely from the one that simply accepts applications, and turning up at the wrong counter costs you a day you probably don't have.
 
@@ -544,7 +544,7 @@ Store your digital copies somewhere encrypted and offline, not Google Photos or 
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
 - [UK legislation: Immigration and Asylum Act 1999, section 40](https://www.legislation.gov.uk/ukpga/1999/33/section/40)
@@ -594,9 +594,9 @@ Source: https://traveldocumentvault.com/blog/digital-passport-copy-valid/
 ## Key Takeaways
 
 - Digital passport copies are accepted for **hotel check-in, flight bookings, and car rental reservations**, but not at borders or for airline boarding.
-- For international travel you will **generally need the original passport** at borders and for airline boarding. Some routes accept a national ID card instead (EU citizens travelling within the EU, for example), but never a copy.
+- For international travel you will **generally need the original passport** at borders and for airline boarding. Some routes accept a national ID card instead ([EU citizens travelling within the EU](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm), for example), but never a copy.
 - Digital copies have **no legal standing as travel documents**. They are supporting documentation only.
-- Visa applications ask for **specific formats**. Some want certified or notarised copies, others (many e-visas) take a clear scan of the photo page, and a casual phone photo is often rejected. Check the embassy website first.
+- Visa applications ask for **specific formats**. Some want certified or notarised copies, others ([many e-visas](https://indianvisaonline.gov.in/evisa/tvoa.html)) take a clear scan of the photo page, and a casual phone photo is often rejected. Check the embassy website first.
 - If your passport is lost abroad, a **copy of your photo page can help** your embassy confirm your details when you apply for a replacement.
 
 When planning a trip, many travellers wonder whether they can store a digital copy of their passport on their phone instead of carrying the original. You need to know exactly where it works and where it doesn't, so you don't end up caught out at check-in.
@@ -605,11 +605,11 @@ The short answer: a digital copy is genuinely useful, but only in specific situa
 
 ## A Digital Copy Is a Photo of Your Passport, Not a Digital Passport
 
-A digital copy of a passport is **a scan or phone photo of its identification page**, the page with your photo, name, date of birth, passport number and expiry date. It records your details without standing in for the document. Canada's government puts it plainly in its travel advice: copies can help if your documents are lost or stolen, but they can't be used as identification, and you still need to apply for a new passport if you lose yours.
+A digital copy of a passport is **a scan or phone photo of its identification page**, the page with your photo, name, date of birth, passport number and expiry date. It records your details without standing in for the document. [Canada's government](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings) puts it plainly in its travel advice: copies can help if your documents are lost or stolen, but they can't be used as identification, and you still need to apply for a new passport if you lose yours.
 
-Making one takes a couple of minutes. Open the passport flat in good light, photograph or scan the identification page so the whole page is sharp, then zoom in and check you can read every detail. Do the same for any visa you'll travel on. The UK's foreign travel checklist recommends a backup of your passport details that you share with family or keep on a secure data storage platform.
+Making one takes a couple of minutes. Open the passport flat in good light, photograph or scan the identification page so the whole page is sharp, then zoom in and check you can read every detail. Do the same for any visa you'll travel on. [The UK's foreign travel checklist](https://www.gov.uk/guidance/foreign-travel-checklist) recommends a backup of your passport details that you share with family or keep on a secure data storage platform.
 
-A copy also isn't the same as the digital IDs some governments now accept. In the US, the Transportation Security Administration lets US passport holders set up an ID pass in Google Wallet for its airport checkpoints, yet it still says all passengers must carry an acceptable physical ID. A photo in your camera roll is a backup of your details, which is exactly how to treat it.
+A copy also isn't the same as the digital IDs some governments now accept. In the US, the [Transportation Security Administration](https://www.tsa.gov/digital-id) lets US passport holders set up an ID pass in Google Wallet for its airport checkpoints, yet it still says all passengers must carry an acceptable physical ID. A photo in your camera roll is a backup of your details, which is exactly how to treat it.
 
 ## Where Digital Passport Copies Are Accepted
 
@@ -627,7 +627,7 @@ Car rental companies often accept digital passport copies for booking and deposi
 
 ### If Your Passport Is Lost, the Copy Speeds Things Up
 
-If your passport is lost or stolen while travelling, a copy of your photo page can help your embassy or consulate confirm your details when you apply for a replacement. You still need to apply for a new passport or an emergency travel document. This is one of the strongest reasons to always carry a digital backup.
+If your passport is lost or stolen while travelling, a copy of your photo page can help your embassy or consulate confirm your details when you apply for a replacement. You still need to apply for a new passport or [an emergency travel document](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport). This is one of the strongest reasons to always carry a digital backup.
 
 ![Hand-drawn chart of where a digital passport copy works: usually fine for hotel check-in, flight booking and car rental; original required at border control and airline boarding - the copy supports, the passport travels](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-where.jpg) The short version - a copy opens doors, only the original crosses borders.
 
@@ -672,7 +672,7 @@ If you haven't made one yet, scan your passport's photo page today, before you'r
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [Government of Canada: Lost or stolen belongings abroad](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings)
 - [UK Government: Foreign travel checklist](https://www.gov.uk/guidance/foreign-travel-checklist)
@@ -745,7 +745,7 @@ Two setups both get sold as encrypted backup, and they behave very differently.
 
 One sends the file to the company's server over an encrypted connection, then stores it encrypted at rest. Both of those statements are true, and both sound reassuring. But the company still holds the key, so it is technically able to decrypt your documents, whether for a feature, a legal request or an internal mistake. Your passport scan is readable at the other end.
 
-The other setup scrambles the file on your phone before it goes anywhere, using a key derived from something only you have. What arrives in storage is a block of noise, and nobody at the far end can read it, because nobody at the far end has the key. This is often described as end-to-end encrypted, or zero-knowledge.
+The other setup scrambles the file on your phone before it goes anywhere, using a key derived from something only you have. What arrives in storage is a block of noise, and nobody at the far end can read it, because nobody at the far end has the key. This is often described as [end-to-end encrypted](https://csrc.nist.gov/glossary/term/end_to_end_encryption), or zero-knowledge.
 
 So the question worth asking of any app is short: **who holds the key?** Everything else about the marketing follows from the answer.
 
@@ -825,7 +825,7 @@ None of this is dramatic, and that's rather the idea. The families who cope well
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [NIST: end-to-end encryption glossary entry](https://csrc.nist.gov/glossary/term/end_to_end_encryption)
 
@@ -878,12 +878,12 @@ Source: https://traveldocumentvault.com/blog/etias-documents-2026/
 - **ETIAS is a digital travel authorisation** for UK, US, and Canadian travellers, required for visa-exempt entry to the Schengen area once it becomes mandatory
 - **You need a passport valid for more than 3 months** beyond your departure date and an email address to apply
 - Processing time varies, especially soon after launch; **apply well ahead of your trip** and check the official EU site for current guidance
-- Check the official EU site for the current fee; **under-18s and over-70s don't pay** but still need authorisation
+- Check [the official EU site](https://home-affairs.ec.europa.eu/news/european-travel-authorisation-etias-will-cost-eur-20-2025-07-17_en) for the current fee; **under-18s and over-70s don't pay** but still need authorisation
 - **Doubts about the reliability of your answers can lead to refusal**, so disclose everything, even if it's old
 
 You've booked a family trip to Italy and you've heard that ETIAS is on its way, a new digital authorisation requirement for visa-exempt visitors to Europe. This guide covers what ETIAS is, what documents you need, and how the application works, so you're prepared before you reach the form.
 
-The European Travel Information and Authorisation System (ETIAS) is not a [visa](https://traveldocumentvault.com/blog/visa-vs-passport/). It's a digital pre-travel clearance for visitors from visa-exempt countries. If you're a UK, US, or Canadian citizen, you generally register at the border under the Entry/Exit System (photo and fingerprints at first entry) and pass a border check. Once ETIAS becomes mandatory, that process moves online, and you apply before you fly.
+The European Travel Information and Authorisation System (ETIAS) is not a [visa](https://traveldocumentvault.com/blog/visa-vs-passport/). It's a [digital pre-travel clearance](https://travel-europe.europa.eu/en/etias) for visitors from visa-exempt countries. If you're a UK, US, or Canadian citizen, you generally register at the border under [the Entry/Exit System](https://travel-europe.europa.eu/en/ees) (photo and fingerprints at first entry) and pass a border check. Once ETIAS becomes mandatory, that process moves online, and you apply before you fly.
 
 ## What Is ETIAS and Who Needs It?
 
@@ -975,7 +975,7 @@ The practical task to do today is pull out your passport and check it against th
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [EU travel: ETIAS](https://travel-europe.europa.eu/en/etias)
 - [EU travel: Entry/Exit System (EES)](https://travel-europe.europa.eu/en/ees)
@@ -1049,7 +1049,7 @@ The problem starts small. You have your own passport, your spouse has theirs. Th
 
 One person usually ends up handling it all, often whoever's already managing the other trip logistics, and that single point of failure becomes a risk.
 
-Child passports often expire sooner than adult ones. In the UK, a child passport is valid for 5 years, and many other countries issue children's passports with a shorter validity than adult ones. This means your youngest child's passport often becomes the limiting factor for family trips. You could have a parent with 8 years of validity remaining, but if your youngest's passport expires in 18 months, that's your planning horizon.
+Child passports often expire sooner than adult ones. In the UK, a [child passport is valid for 5 years](https://www.gov.uk/get-a-child-passport), and many other countries issue children's passports with a shorter validity than adult ones. This means your youngest child's passport often becomes the limiting factor for family trips. You could have a parent with 8 years of validity remaining, but if your youngest's passport expires in 18 months, that's your planning horizon.
 
 Most families don't realise this until they're already booked a trip. A parent finds the passports a week before departure, scanning them hastily while packing, and discovers that one child's document won't meet the validity rule some destinations apply, often six months. The trip is now at risk, or needs a rushed and expensive passport renewal.
 
@@ -1111,7 +1111,7 @@ If you haven't set this up yet, start today: scan the photo page of every passpo
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
 
@@ -1193,7 +1193,7 @@ What this means in practice
 
 Say you're travelling during a country's peak season and your passport is getting close to the line. Paying for the faster route buys you certainty: an earlier slot in the queue, regardless of how long the standard backlog has grown to that month. Stick with standard processing during a busy period instead, and you're betting that the published time estimate still reflects reality, which is exactly the assumption that catches people out.
 
-One caveat: eligibility for the faster routes usually depends on your situation, not just your willingness to pay. The UK's 1 Day Premium service covers adult renewals only, with the earliest appointment 2 days after you apply. Check the eligibility rules before you assume a route is open to you, not once you're at the counter.
+One caveat: eligibility for the faster routes usually depends on your situation, not just your willingness to pay. The UK's [1 Day Premium service](https://www.gov.uk/get-a-passport-urgently) covers adult renewals only, with the earliest appointment 2 days after you apply. Check the eligibility rules before you assume a route is open to you, not once you're at the counter.
 
 ## A Short, Predictable List Causes Most Delays
 
@@ -1219,7 +1219,7 @@ Be careful about borrowing someone else's timeline, too. A friend who renewed qu
 
 This is the part we deliberately leave to the people who actually run the system: HM Passport Office in the UK, the State Department in the US, the Australian Passport Office in Australia, and in Canada, Immigration, Refugees and Citizenship Canada alongside Service Canada for in-person applications. Most other countries publish an equivalent figure through their own national passport or foreign affairs authority.
 
-A little context helps you use that number correctly. HM Passport Office runs a digital service for eligible adults applying from inside the UK, though anyone applying from abroad uses a separate overseas service instead. Canada offers online renewal if you need the passport in 20 business days or more, and everyone else follows the paper application route. For the US and Australia, check the official site for current eligibility and how to lodge. Wherever you apply, factor in mailing time on top of whatever IRCC publishes. These authorities are worth trusting because their figures move with real, current application volume rather than a stale average, so check immediately before you apply rather than weeks ahead.
+A little context helps you use that number correctly. HM Passport Office runs a digital service for eligible adults applying from inside the UK, though anyone applying from abroad uses a separate overseas service instead. [Canada offers online renewal](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html) if you need the passport in 20 business days or more, and everyone else follows the paper application route. For the US and Australia, check the official site for current eligibility and how to lodge. Wherever you apply, factor in mailing time on top of whatever IRCC publishes. These authorities are worth trusting because their figures move with real, current application volume rather than a stale average, so check immediately before you apply rather than weeks ahead.
 
 ## Can You Travel While Your Passport Is Being Renewed?
 
@@ -1235,7 +1235,7 @@ Pull out your own passport today and check how many months it's actually got lef
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
 - [Government of Canada: Renew an adult passport](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html)
@@ -1303,13 +1303,13 @@ An ESTA typically lasts two years from the day it's approved, or until the passp
 
 ## Your ESTA ends at two years or when your passport does
 
-US Customs and Border Protection (CBP) sets the rule: an approved ESTA is typically valid for two years from the date of authorisation, or until your passport expires, whichever is sooner. So a passport with 14 months left gives you an ESTA with 14 months left. The approval screen shows the exact expiry date, which saves you working it out.
+[US Customs and Border Protection (CBP)](https://www.cbp.gov/travel/international-visitors/esta/frequently-asked-questions-about-visa-waiver-program-vwp-and-electronic-system-travel) sets the rule: an approved ESTA is typically valid for two years from the date of authorisation, or until your passport expires, whichever is sooner. So a passport with 14 months left gives you an ESTA with 14 months left. The approval screen shows the exact expiry date, which saves you working it out.
 
 ![Diagram of when an ESTA stops working: it ends after 2 years or when your passport expires, whichever comes first. Everyone needs their own, babies and children too, each on their own passport. A new passport, new name or new citizenship means applying again](https://traveldocumentvault.com/blog/how-long-is-esta-valid/esta-clock.jpg) One clock per traveller, and it never outlives the passport.
 
 CBP also emails the address on your application when your ESTA is due to expire within the next 30 days. We wouldn't rely on that email alone: it can land in spam or an old inbox, so note the date somewhere you'll see it when you book.
 
-Inside those two years, one ESTA covers as many trips as you like. Each visit under the Visa Waiver Program is still limited to 90 days or less, and CBP is clear that a two-year approval doesn't mean a two-year stay.
+Inside those two years, one ESTA covers as many trips as you like. Each visit under the [Visa Waiver Program](https://www.cbp.gov/travel/international-visitors/visa-waiver-program) is still limited to 90 days or less, and CBP is clear that a two-year approval doesn't mean a two-year stay.
 
 The one exception is Brunei, where CBP has cut the validity period for citizens and nationals to one year.
 
@@ -1323,7 +1323,7 @@ Here's how that plays out. Say your ESTA expires on the 10th of a month and you 
 
 There's no extension. CBP says existing authorisations can't be extended, and you don't have to wait for one to expire before applying again. Your new application cancels and replaces the old one.
 
-CBP recommends applying when you book your travel, and it's a habit worth keeping. If your ESTA runs out a few weeks before a trip, apply the day the trip is booked rather than the week you fly.
+[CBP recommends applying when you book your travel](https://www.cbp.gov/newsroom/national-media-release/cbp-reminds-travelers-allow-72-hours-esta), and it's a habit worth keeping. If your ESTA runs out a few weeks before a trip, apply the day the trip is booked rather than the week you fly.
 
 ## Four changes mean a new ESTA
 
@@ -1344,7 +1344,7 @@ Nobody expects a toddler to fill in a form. A parent or anyone else can apply on
 
 ## The fee rose on 16 October, and existing approvals are unaffected
 
-According to the Federal Register notice published on 1 October 2026, the ESTA fee rose from US $40.27 to US $40.62, charged from 16 October 2026. If you already hold a valid, approved ESTA, CBP says you don't need to reapply. You'll pay the new amount when you next apply.
+According to the [Federal Register notice](https://www.govinfo.gov/content/pkg/FR-2026-10-01/html/2026-20185.htm) published on 1 October 2026, the ESTA fee rose from US $40.27 to US $40.62, charged from 16 October 2026. If you already hold a valid, approved ESTA, CBP says you don't need to reapply. You'll pay the new amount when you next apply.
 
 The same notice sets a lower fee of US $10.62 if an application is denied, which covers the cost of processing it.
 
@@ -1352,7 +1352,7 @@ Expect the figure to move again. The law behind it requires the fee to be adjust
 
 ## Apply on the official ESTA website, not a lookalike
 
-Some third-party websites charge more than the official fee. CBP says they won't speed up approval, they aren't endorsed by or affiliated with the Department of Homeland Security, and CBP can't refund what you paid them. Apply on the official ESTA website run by CBP.
+Some [third-party websites](https://www.cbp.gov/newsroom/national-media-release/cbp-warns-against-third-party-site-use-esta-applications) charge more than the official fee. CBP says they won't speed up approval, they aren't endorsed by or affiliated with the [Department of Homeland Security](https://www.dhs.gov/visa-waiver-program), and CBP can't refund what you paid them. Apply on the official ESTA website run by CBP.
 
 That's also where you check a status. Choose "Check ESTA Status", then "Check Individual Status", or "Check Group Status" for a family application. If you've lost the application number, you can find the application with your passport number, country of citizenship, passport issue and expiry dates, and date of birth. The details have to match what you entered exactly.
 
@@ -1371,11 +1371,11 @@ Four checks take a few minutes:
 
 ## An approved ESTA isn't a guarantee of entry
 
-Approval means you're eligible to travel under the Visa Waiver Program, not that you'll be admitted, since CBP officers make that decision when you arrive.
+[Approval means you're eligible to travel](https://www.cbp.gov/travel/international-visitors/esta) under the Visa Waiver Program, not that you'll be admitted, since CBP officers make that decision when you arrive.
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [US CBP: Visa Waiver Program and ESTA frequently asked questions](https://www.cbp.gov/travel/international-visitors/esta/frequently-asked-questions-about-visa-waiver-program-vwp-and-electronic-system-travel)
 - [US CBP: Electronic System for Travel Authorization (ESTA)](https://www.cbp.gov/travel/international-visitors/esta)
@@ -1384,7 +1384,6 @@ Sources we checked (6 November 2026)
 - [US DHS: Visa Waiver Program](https://www.dhs.gov/visa-waiver-program)
 - [US CBP: CBP Reminds Travelers to Allow 72 Hours for ESTA](https://www.cbp.gov/newsroom/national-media-release/cbp-reminds-travelers-allow-72-hours-esta)
 - [US CBP: CBP Warns Against Third-Party Site Use for ESTA Applications](https://www.cbp.gov/newsroom/national-media-release/cbp-warns-against-third-party-site-use-esta-applications)
-- [US CBP: ESTA frequently asked questions](https://esta.cbp.dhs.gov/faq)
 
 ## Frequently Asked Questions
 
@@ -1440,13 +1439,13 @@ Source: https://traveldocumentvault.com/blog/how-long-is-passport-valid-for-trav
 - Children's passports expire faster than parents', so **check every passport in your group individually** before booking, not just your own.
 - The practical renewal threshold is **12 months of validity remaining**, not the expiry date itself.
 
-Seven months left on your passport sounds like plenty. You book the flights, check the baggage allowance, start looking at hotels. Then you get to the check-in desk for your flight to Bangkok and the agent pauses: Thailand requires your passport to be valid for at least 6 months on the day you arrive, and you are two weeks short. You are not boarding.
+Seven months left on your passport sounds like plenty. You book the flights, check the baggage allowance, start looking at hotels. Then you get to the check-in desk for your flight to Bangkok and the agent pauses: [Thailand requires](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements) your passport to be valid for at least 6 months on the day you arrive, and you are two weeks short. You are not boarding.
 
 It is one of the most commonly misunderstood rules in travel, because a passport that has not expired can still fail the entry requirements for dozens of popular destinations. Understanding how passport validity months are actually counted can save you a very expensive mistake.
 
 ## Adult Passports Last Far Longer Than Children's
 
-The standard validity period for an adult passport is 10 years from the date of issue in most countries. Child passports expire sooner, typically 5 years. We'd check a child's passport before anyone else's, since it is the one everyone assumes is fine.
+The standard validity period for an adult passport is 10 years from the date of issue in most countries. Child passports expire sooner, [typically 5 years](https://www.gov.uk/get-a-child-passport). We'd check a child's passport before anyone else's, since it is the one everyone assumes is fine.
 
 | Country | Adult validity | Child validity |
 |---|---|---|
@@ -1494,7 +1493,7 @@ A 3-year-old who got their first passport in 2023 has a document that expires in
 The practical answer: when you drop below 12 months of validity remaining, not when it is about to expire. Here's why 12 months is the right threshold rather than the expiry date itself:
 
 - It gives you a full 6-month buffer for any destination that enforces the rule.
-- Passport renewal takes time, and processing times change; HM Passport Office advises against booking travel until your new passport arrives, and both HM Passport Office and the US State Department publish their current processing times. Starting at 6 months remaining leaves little margin.
+- Passport renewal takes time, and processing times change; HM Passport Office [advises against booking travel](https://www.gov.uk/renew-adult-passport) until your new passport arrives, and both HM Passport Office and the US State Department publish their current processing times. Starting at 6 months remaining leaves little margin.
 - Last-minute plans happen. A passport with 14 months remaining keeps all destinations open. A passport with 5 months remaining closes off a large part of the world.
 
 The most common mistake is setting a reminder on the expiry date itself. By that point you cannot travel to most of the destinations that enforce the 6-month rule.
@@ -1505,7 +1504,7 @@ If you also read our guide on [how long passport renewal takes](https://traveldo
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
 - [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
@@ -1588,13 +1587,13 @@ It depends on where you're going, but for most international family travel the l
 
 **What travelling with children adds**
 
-- Birth certificates - sometimes required at immigration, especially when a child's surname differs from the travelling parent
+- Birth certificates - [sometimes required at immigration](https://www.gov.uk/foreign-travel-advice/mexico/entry-requirements), especially when a child's surname differs from the travelling parent
 - A signed parental consent letter if one parent isn't present - strongly recommended for solo-parent or grandparent travel
 - Custody court orders, if applicable
 
 ### Child Travel Consent Letter: When You Need One
 
-A child travel consent letter is a signed document from the absent parent (or legal guardian) giving permission for the child to travel. It's generally not a legal requirement, but border officials in some countries, Canada among them, may ask for proof that both parents agree to the trip when a child is travelling with only one parent or with another adult. It is easy to carry, and it can save you questions at the border.
+A child travel consent letter is a signed document from the absent parent (or legal guardian) giving permission for the child to travel. It's generally not a legal requirement, but border officials in some countries, [Canada](https://travel.gc.ca/travelling/children/consent-letter) among them, may ask for proof that both parents agree to the trip when a child is travelling with only one parent or with another adult. It is easy to carry, and it can save you questions at the border.
 
 South Africa has its own rules for travelling with children, including an unabridged birth certificate, so check its Home Affairs guidance before you go.
 
@@ -1604,7 +1603,7 @@ A valid consent letter should include: the child's full name and date of birth, 
 
 - International driver's licence (if you're hiring a car abroad)
 - Medical records or prescription details for ongoing conditions
-- European Health Insurance Card (EHIC), if you are covered by an EU health system
+- European Health Insurance Card (EHIC), if you are [covered by an EU health system](https://europa.eu/youreurope/citizens/health/unplanned-healthcare/temporary-stays/index_en.htm)
 
 ![Hand-drawn family travel checklist with ten items - passports, visas, ID cards, travel insurance, bookings, vaccinations, return ticket, birth cert, consent letter, custody orders - and an arrow pointing to a note that says 3+ months before travel](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/travel-docs-checklist.jpg) The full family list - start ticking it three months out, not the week before.
 
@@ -1677,7 +1676,7 @@ If you haven't already, pick the one place the passports will live, and set an e
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [UK Foreign Office: Mexico entry requirements](https://www.gov.uk/foreign-travel-advice/mexico/entry-requirements)
@@ -1779,7 +1778,7 @@ The issue date stops being trivia the moment a country checks it directly. Passp
 
 British passports issued more recently no longer carry those extra months, but older booklets holding them are still in circulation and still in use.
 
-Schengen countries generally apply two separate tests to a non-EU passport at the border: it must have been issued less than ten years before the date you arrive, and it must stay valid for at least three months after you intend to leave. A booklet carrying nine extra months can satisfy the second test comfortably and fail the first, which is a difficult conversation to have at a desk in Madrid with a document that has not expired.
+Schengen countries generally apply two separate tests to a non-EU passport at the border: it must have been [issued less than ten years before the date you arrive](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements), and it must stay valid for at least three months after you intend to leave. A booklet carrying nine extra months can satisfy the second test comfortably and fail the first, which is a difficult conversation to have at a desk in Madrid with a document that has not expired.
 
 We’d check both dates before a European trip, not just the one at the bottom.
 
@@ -1815,7 +1814,7 @@ Take five minutes today to find both dates on your own passport, and on each chi
 
 **Before you rely on this:** it’s a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [UK Foreign Office: Spain entry requirements](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements)
 
@@ -1883,9 +1882,9 @@ This catches people out more often than the expiry dates do. The permit looks li
 
 ## Two Treaties Decide How Long It Lasts and Where It Works
 
-Three international agreements sit behind IDPs, and countries signed up to one of them or to several. Two do nearly all the work: the 1949 Geneva Convention and the 1968 Vienna Convention. An older 1926 Paris Convention permit also exists, and a few destinations still list it. Check the permit's printed expiry date.
+[Three international agreements](https://www.gov.uk/driving-abroad/international-driving-permit) sit behind IDPs, and countries signed up to one of them or to several. Two do nearly all the work: the 1949 Geneva Convention and the 1968 Vienna Convention. An older 1926 Paris Convention permit also exists, and a few destinations still list it. Check the permit's printed expiry date.
 
-A permit issued under the 1949 Geneva Convention is valid for one year. A permit issued under the 1968 Vienna Convention can run for up to three.
+A permit issued under the 1949 Geneva Convention is [valid for one year](https://travel.gc.ca/travelling/documents/international-driving-permit). A permit issued under the 1968 Vienna Convention can run for up to three.
 
 The split matters twice over. It sets how long your permit lasts, and it decides where the permit is honoured. A country that ratified only one convention isn't obliged to recognise a permit issued under the other, which is how a permit that worked on last year's trip gets waved away on this one.
 
@@ -1899,7 +1898,7 @@ The split matters twice over. It sets how long your permit lasts, and it decides
 
 ## The Three-Year Permit That Often Isn't
 
-Those three years carry a condition that's easy to skim past. A Vienna permit expires when your domestic driving licence expires, if that date comes first.
+Those three years carry a condition that's easy to skim past. A Vienna permit [expires when your domestic driving licence expires](https://treaties.un.org/doc/Treaties/1977/05/19770524%2000-13%20AM/Ch_XI_B_19.pdf), if that date comes first.
 
 Say your licence has 14 months left and you're issued a three-year permit. The permit is useful for 14 months.
 
@@ -1923,7 +1922,7 @@ That's the practical argument for keeping all three dates in one place. Travel D
 
 We'd check these in this order, and the licence date before anything printed on the permit.
 
-**Whether you need a permit at all.** Some countries accept a domestic licence on its own, and the country you're driving in sets the requirement, not the one that issued your licence.
+**Whether you need a permit at all.** [Some countries accept a domestic licence on its own](https://www.gov.uk/driving-abroad), and the country you're driving in sets the requirement, not the one that issued your licence.
 
 **Which convention your destination recognises**, then check your permit against it (the convention is printed on the document).
 
@@ -1957,7 +1956,7 @@ Today, take out your licence and your permit, if you have one, and put the two e
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [United Nations Treaty Collection: Convention on Road Traffic (1968)](https://treaties.un.org/doc/Treaties/1977/05/19770524%2000-13%20AM/Ch_XI_B_19.pdf)
 - [UK Government: driving abroad, international driving permits](https://www.gov.uk/driving-abroad/international-driving-permit)
@@ -2175,7 +2174,7 @@ Check everywhere before assuming the worst - jacket pockets, every bag compartme
 
 ## Step 2: File a Police Report Immediately
 
-Go to the nearest police station and report the passport lost or stolen. Your insurer will usually want it for a claim, and some embassies ask for it, though not all do: the Government of Canada, for example, says it isn't required for passport replacement. We'd do it within the hour if possible, while the details are still fresh in your mind.
+Go to the nearest police station and report the passport lost or stolen. Your insurer will usually want it for a claim, and some embassies ask for it, though not all do: [the Government of Canada](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings), for example, says it isn't required for passport replacement. We'd do it within the hour if possible, while the details are still fresh in your mind.
 
 Ask for a written copy with a case number, and request an English translation if one's available. Take a photo of it and keep multiple copies safe.
 
@@ -2192,7 +2191,7 @@ Call before you visit. Some embassies require an appointment for emergency passp
 
 ## Step 4: Apply for an Emergency Travel Document
 
-Your embassy issues an emergency travel document (ETD) or emergency passport, typically valid for a single journey home. Turnaround depends on the post and on how urgent your case is, so ask when you call.
+Your embassy issues an [emergency travel document](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport) (ETD) or emergency passport, typically valid for a single journey home. Turnaround depends on the post and on how urgent your case is, so ask when you call.
 
 What you will typically need (confirm with your embassy before visiting):
 
@@ -2223,12 +2222,11 @@ Once you have your emergency travel document, confirm exit requirements with loc
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [Government of Canada: Lost or stolen belongings abroad](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings)
 - [UK Government: Travel urgently from abroad without your UK passport, How to apply](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport/how-to-apply)
 - [UK Government: Travel urgently from abroad without your UK passport, Who can apply](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport)
-- [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
 
 ## Frequently Asked Questions
 
@@ -2242,7 +2240,7 @@ Yes. Many countries issue emergency travel documents through their embassies and
 
 ### Do I need a police report if my passport is stolen abroad?
 
-Usually worth getting, though not every passport authority requires it. The Government of Canada says a police report isn't required for passport replacement but may help with insurance claims, and GOV.UK doesn't list one for a UK emergency travel document application. Some embassies do ask for one, and most travel insurers want it for a claim. Get it from the local police station immediately, ask for an English copy if possible, and keep multiple copies.
+Usually worth getting, though not every passport authority requires it. The Government of Canada says a police report isn't required for passport replacement but may help with insurance claims, and [GOV.UK](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport/how-to-apply) doesn't list one for a UK emergency travel document application. Some embassies do ask for one, and most travel insurers want it for a claim. Get it from the local police station immediately, ask for an English copy if possible, and keep multiple copies.
 
 ### Will travel insurance cover a lost or stolen passport?
 
@@ -2294,15 +2292,15 @@ The Schengen zone is where this flexibility matters most. As an EU citizen with 
 
 ## What Counts as an EEA National ID Card
 
-When a booking form or a check-in agent asks for an "EEA national ID card", they mean the identity card your own country issues to its citizens, the one that states your nationality. The EEA is the 27 EU countries plus Iceland, Liechtenstein and Norway; Switzerland sits outside it, but the European Commission's Your Europe guidance confirms EU citizens can travel there on a national ID card too.
+When a booking form or a check-in agent asks for an "EEA national ID card", they mean the identity card your own country issues to its citizens, the one that states your nationality. The EEA is the 27 EU countries plus Iceland, Liechtenstein and Norway; Switzerland sits outside it, but the European Commission's [Your Europe guidance](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm) confirms EU citizens can travel there on a national ID card too.
 
-A residence card shows where you live, not your nationality, so it travels with a passport rather than replacing it. The UK government tells British residents in Spain to show proof of residence, such as their TIE residence card, when presenting the passport at Spanish border control. Driving licences, bank cards and tax cards don't count either, and Your Europe warns they may be refused as proof of identity.
+A residence card shows where you live, not your nationality, so it travels with a passport rather than replacing it. The [UK government](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements) tells British residents in Spain to show proof of residence, such as their TIE residence card, when presenting the passport at Spanish border control. Driving licences, bank cards and tax cards don't count either, and Your Europe warns they may be refused as proof of identity.
 
 The current EU card is easy to recognise. It's credit-card sized, has a machine-readable zone (the lines of code a scanner reads), and shows the issuing country's two-letter code in a blue rectangle ringed by 12 yellow stars on the front. A chip inside holds your photo and two fingerprints.
 
-Older cards are the ones that catch people out. Under the EU's identity card regulation, a card without a working machine-readable zone, or one below the international minimum security standard, stopped being valid by 3 August 2026, even if the printed date runs later. Most other older-format cards last until their printed expiry or 3 August 2031, whichever comes first. If your card predates the star-ringed code and has no machine-readable zone, we'd renew now rather than test it at the gate.
+Older cards are the ones that catch people out. Under the EU's [identity card regulation](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1157), a card without a working machine-readable zone, or one below the international minimum security standard, stopped being valid by 3 August 2026, even if the printed date runs later. Most other older-format cards last until their printed expiry or 3 August 2031, whichever comes first. If your card predates the star-ringed code and has no machine-readable zone, we'd renew now rather than test it at the gate.
 
-For the UK, the card usually won't work. The UK generally accepts an EU, EEA or Swiss ID card only for limited groups, such as people with settled or pre-settled status, so check GOV.UK before a UK trip.
+For the UK, the card usually won't work. The UK generally accepts an EU, EEA or Swiss ID card only for limited groups, such as people with settled or pre-settled status, so check [GOV.UK](https://www.gov.uk/guidance/visiting-the-uk-as-an-eu-eea-or-swiss-citizen) before a UK trip.
 
 ## When You Need the Passport Instead
 
@@ -2349,7 +2347,7 @@ What helps is a single place for both documents, one that keeps each expiry date
 
 Start today: pull out your ID card, check the expiry date, and look it over for cracks, fading, or warped plastic. If it's borderline, book the renewal before you book the trip.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [Your Europe (EU): Travel documents for EU nationals](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm)
 - [EU law: Regulation 2019/1157 on identity cards](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1157)
@@ -2422,7 +2420,7 @@ How urgently you need to act determines what to do:
 - **Plenty of time before travel:** apply for standard renewal online through your passport authority's website - GOV.UK for the UK, travel.state.gov for the US.
 - **Trip coming up sooner:** apply immediately and pay for expedited processing. Both the UK and the US offer a faster paid service online, and each publishes its current turnaround.
 - **Trip getting close:** call your passport authority directly rather than relying on the website alone - the HM Passport Office adviceline in the UK, or the US National Passport Information Center in the US.
-- **Trip is imminent:** ask about an emergency appointment and bring proof of your travel dates. The UK's 1 Day Premium service (adult renewals only) books appointments from 2 days after you apply, with the passport ready to collect 4 hours after your appointment, and the US publishes its urgent travel options at travel.state.gov.
+- **Trip is imminent:** ask about an emergency appointment and bring proof of your travel dates. The UK's [1 Day Premium service](https://www.gov.uk/get-a-passport-urgently) (adult renewals only) books appointments from 2 days after you apply, with the passport ready to collect 4 hours after your appointment, and the US publishes its urgent travel options at travel.state.gov.
 
 If your timeline is tight, we'd always call rather than trust the website alone.
 
@@ -2448,7 +2446,7 @@ Expiry rarely means starting again, because in the UK, the US and Canada you can
 
 ### UK: An Expired Passport Goes Through Normal Renewal
 
-GOV.UK says you must renew before you can travel if your passport has expired or doesn't have enough time left for your destination. An expired passport goes through the standard renewal, online or on a paper form, and you'll need your old passport to do it. Adult passports are for people aged 16 and over, and children's passports have their own process.
+[GOV.UK](https://www.gov.uk/renew-adult-passport/renew) says you must renew before you can travel if your passport has expired or doesn't have enough time left for your destination. An expired passport goes through the standard renewal, online or on a paper form, and you'll need your old passport to do it. Adult passports are for people aged 16 and over, and children's passports have their own process.
 
 ### US: Renewal Works Within 15 Years of Issue
 
@@ -2456,7 +2454,7 @@ The US has its own eligibility rules for renewing an expired passport, including
 
 ### Canada: An Expired Passport Can Be Renewed Online
 
-The Government of Canada lets you renew if your last passport was an adult passport issued when you were at least 16. It also has to have been issued within 15 years of the date you apply and valid for 5 or 10 years. You can renew online if your passport expires in the next six months or has already expired, provided your home and mailing address are in Canada. Child passports can't be renewed, so a child needs a new application.
+The [Government of Canada](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html) lets you renew if your last passport was an adult passport issued when you were at least 16. It also has to have been issued within 15 years of the date you apply and valid for 5 or 10 years. You can [renew online](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport/submit-form-fees/renew-online.html) if your passport expires in the next six months or has already expired, provided your home and mailing address are in Canada. Child passports can't be renewed, so a child needs a new application.
 
 If your passport lapsed years ago, look at the issue date before anything else, because the 15-year limit in the US and Canada counts from when it was issued, not from when it expired. Then check current turnaround times before you book, which our guide to [how long passport renewal takes](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/) covers country by country.
 
@@ -2502,7 +2500,7 @@ Do this for every passport in your household separately. Children's passports ex
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
 - [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)
@@ -2573,7 +2571,7 @@ Source: https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/
 - The rule gets applied inconsistently: the same country may waive it for some passport holders and enforce it for others based on bilateral agreements.
 - The safest move is to renew when you drop below 12 months of validity, so you always carry a comfortable buffer.
 
-Six months left on your passport is usually not enough for a country that applies the 6-month rule, because the six months are counted from the day you arrive, or for some countries the day you leave, not from today. Thailand, for one, wants an expiry date at least six months after you arrive. For destinations that only ask for a passport valid for your stay, or for the Schengen area, which asks for three months after the day you leave, six months left will generally get you in.
+Six months left on your passport is usually not enough for a country that applies the 6-month rule, because the six months are counted from the day you arrive, or for some countries the day you leave, not from today. [Thailand](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), for one, wants an expiry date at least six months after you arrive. For destinations that only ask for a passport valid for your stay, or for the Schengen area, which asks for three months after the day you leave, six months left will generally get you in.
 
 The immigration officer looked at my daughter's passport, paused, and then looked up. "You know this expires in seven months, right? Some countries won't let you in with less than six months validity." We were fine - barely. But that moment stuck with me, because I'd checked the passport before booking and seven months had felt like plenty. I'd forgotten entirely about the passport expiry 6 month rule.
 
@@ -2596,7 +2594,7 @@ The logic is straightforward: countries want assurance you won't overstay your v
 
 Sometimes, yes. If your destination only asks for a passport that stays valid for your stay, five months left will typically get you in. The UK works that way for most visitors, and Schengen countries generally ask for three months beyond your planned departure rather than six.
 
-If your destination applies the 6-month rule, no. Thailand, Indonesia, Vietnam and many others generally refuse entry, and the airline usually refuses boarding long before you reach the border.
+If your destination applies the 6-month rule, no. Thailand, [Indonesia](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements), Vietnam and many others generally refuse entry, and the airline usually refuses boarding long before you reach the border.
 
 So the answer turns on where you are going rather than on the passport itself. Check the destination requirement the day you book, and again the week you fly.
 
@@ -2613,12 +2611,12 @@ The following table covers the most common destinations. Policies change, so alw
 | Philippines | 6 months | Plus onward/return ticket required |
 | India | 6 months | Visa also required for most nationalities |
 | Kenya | 6 months | eVisa required; 6-month rule applies |
-| Turkey | 150 days from arrival | UK Foreign Office: expiry date at least 150 days after the date you arrive |
+| Turkey | 150 days from arrival | [UK Foreign Office](https://www.gov.uk/foreign-travel-advice/turkey/entry-requirements): expiry date at least 150 days after the date you arrive |
 | EU / Schengen | 3 months beyond departure | Plus a date of issue under 10 years old |
 | United Kingdom | Duration of stay only | UK citizens abroad still subject to destination rules |
 | USA | Duration of stay only | US citizens abroad subject to destination country rules |
 | Japan / Australia | Duration of stay only | No 6-month extension rule for visitors |
-| New Zealand | 3 months beyond departure | UK Foreign Office: expiry date at least 3 months after the day you plan to leave |
+| New Zealand | 3 months beyond departure | [UK Foreign Office](https://www.gov.uk/foreign-travel-advice/new-zealand/entry-requirements): expiry date at least 3 months after the day you plan to leave |
 
 This table is a snapshot, not the full picture: requirements vary by your nationality too, not just the destination, so always check your government's official travel advisory before booking.
 
@@ -2626,11 +2624,11 @@ Passport validity requirements by country change without notice, and a bilateral
 
 ## When the 6-Month Rule Does Not Apply
 
-Plenty of destinations ask for nothing beyond the dates of your trip. The UK Foreign Office puts it plainly for Japan: your passport must be valid for the length of your stay, and no additional period of validity is required. Australia and the United States use the same standard, asking only that your passport stays valid for the length of your planned stay.
+Plenty of destinations ask for nothing beyond the dates of your trip. The [UK Foreign Office](https://www.gov.uk/foreign-travel-advice/japan/entry-requirements) puts it plainly for Japan: your passport must be valid for the length of your stay, and no additional period of validity is required. [Australia](https://www.gov.uk/foreign-travel-advice/australia/entry-requirements) and the [United States](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements) use the same standard, asking only that your passport stays valid for the length of your planned stay.
 
 You may also come across lists of countries whose passports are treated as valid for six months past their expiry date. That's a United States arrangement, not an extension of your passport. US Customs and Border Protection publishes a list of countries whose citizens are exempt from the US six-month validity requirement and need a passport valid only for their intended stay. It applies to entering the US and nowhere else, and an expired passport stays expired everywhere.
 
-Europe sits in the middle, and it's the tier people misread most often. To visit the Schengen area, the Foreign Office says your passport needs an expiry date at least three months after the day you plan to leave. Three months, not six.
+Europe sits in the middle, and it's the tier people misread most often. To visit the Schengen area, the [Foreign Office](https://www.gov.uk/foreign-travel-advice/france/entry-requirements) says your passport needs an expiry date at least three months after the day you plan to leave. Three months, not six.
 
 There's a second Schengen condition that catches people out far more often than the first: your date of issue has to be less than ten years before the day you arrive. Both conditions have to be met, and a passport can pass one while failing the other.
 
@@ -2680,7 +2678,7 @@ These sources tell you the official requirement and whether it applies to holder
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [UK Foreign Office: USA entry requirements](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements)
 - [UK Foreign Office: France entry requirements](https://www.gov.uk/foreign-travel-advice/france/entry-requirements)
@@ -2781,7 +2779,7 @@ Although specific rules vary by passport authority, most countries share core re
 
 ### Background and Composition
 
-You need a plain, light background, and the exact shade depends on your authority: GOV.UK asks for plain cream or light grey, while the Government of Canada asks for plain white or light-coloured. No patterns, shadows, blurred backgrounds, or strong colours. The reasoning is straightforward: officials need a clean, uncluttered view of your face to compare against future documents. Use a plain sheet or poster board in the shade your authority asks for (cream or light grey for the UK), or even paint a small section of wall. The key is keeping it bright and uniform throughout.
+You need a plain, light background, and the exact shade depends on your authority: [GOV.UK](https://www.gov.uk/photos-for-passports) asks for plain cream or light grey, while the [Government of Canada](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/photos.html) asks for plain white or light-coloured. No patterns, shadows, blurred backgrounds, or strong colours. The reasoning is straightforward: officials need a clean, uncluttered view of your face to compare against future documents. Use a plain sheet or poster board in the shade your authority asks for (cream or light grey for the UK), or even paint a small section of wall. The key is keeping it bright and uniform throughout.
 
 ### Expression and Pose
 
@@ -2882,7 +2880,7 @@ If you've got decent window light and a few minutes to spare, take the photo you
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [UK Government: Get a passport photo, Digital photos](https://www.gov.uk/photos-for-passports)
 - [Government of Canada: Passport photo requirements](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/photos.html)
@@ -2963,7 +2961,7 @@ A **hotel booking** and a **bank statement** come up often too, but they answer 
 
 The airline wants to know whether you're likely to be refused on arrival, leaving it with the cost of flying you back. A border officer is asking something related but separate: whether you meet the country's conditions for entry. The two questions overlap, but they aren't the same one.
 
-Where they overlap is the destination's own rules. The Schengen Borders Code, for example, lists a return or round-trip ticket among the documents a border guard may ask a visitor to show. New Zealand requires visitors to have the means to leave. When a destination works like that, the airline asking at check-in is usually applying the destination's rule a few hours early, not making up one of its own.
+Where they overlap is the destination's own rules. The [Schengen Borders Code](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0399), for example, lists a return or round-trip ticket among the documents a border guard may ask a visitor to show. New Zealand [requires visitors to have the means to leave](https://www.immigration.govt.nz/visas/visa-waiver-visitor-visa/). When a destination works like that, the airline asking at check-in is usually applying the destination's rule a few hours early, not making up one of its own.
 
 ![Sketchnote comparing the airline check at check-in, which applies the destination's rules and decides whether you board, with the border check on arrival, which decides whether you enter](https://traveldocumentvault.com/blog/proof-of-onward-travel/two-checks.jpg) The airline checks before you board; the border officer decides on arrival.
 
@@ -2993,12 +2991,11 @@ A booking you can't open is as unhelpful as no booking at all. The request tends
 
 Keep an offline copy of the confirmation: a PDF, a screenshot showing the booking reference and dates, or a copy in an app that works without a connection. Travel Document Vault stores airline tickets and hotel bookings on your device, encrypted and available offline. The confirmation is there at the desk whether or not you have signal. Our [travel document checklist](https://traveldocumentvault.com/blog/travel-document-checklist/) covers the rest of what's worth having ready.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [EU law: Schengen Borders Code (Regulation 2016/399)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0399)
 - [Immigration New Zealand: Visa Waiver Visitor Visa](https://www.immigration.govt.nz/visas/visa-waiver-visitor-visa/)
 - [Immigration New Zealand: Visitor Visa](https://www.immigration.govt.nz/visas/visitor-visa/)
-- [Immigration New Zealand: Onward travel requirements](https://www.immigration.govt.nz/opsmanual/50548.htm)
 
 ## Frequently Asked Questions
 
@@ -3020,7 +3017,7 @@ A one-way ticket isn't a problem by itself, because onward travel rules are gene
 
 ### Do I need proof of onward travel for the border?
 
-Sometimes, because some destinations include it in their entry conditions for visitors. The Schengen Borders Code lists a return or round-trip ticket among the documents a border guard may ask for, and New Zealand requires visitors to have the means to leave. Check your destination's rules before you travel.
+Sometimes, because some destinations include it in their entry conditions for visitors. The Schengen Borders Code lists a return or round-trip ticket among the documents a border guard may ask for, and New Zealand [requires visitors to have the means to leave](https://www.immigration.govt.nz/visas/visitor-visa/). Check your destination's rules before you travel.
 
 ## Related Articles
 
@@ -3058,7 +3055,7 @@ None of that is a reason to hold off. It's a reason to choose a quiet few weeks 
 
 ## There's no official waiting period before you can renew
 
-HM Passport Office ties renewal to two triggers: your passport has expired, or it doesn't have enough time left for where you're going. Its renewal guidance sets no earliest date, and it says that how much time you need depends on the country you're visiting. USAGov tells Americans to renew early, because processing times vary and some countries and airlines refuse entry when a passport has less than six months left.
+HM Passport Office ties renewal to two triggers: your passport has expired, or it doesn't have enough time left for where you're going. Its [renewal guidance](https://www.gov.uk/renew-adult-passport/renew) sets no earliest date, and it says that how much time you need depends on the country you're visiting. [USAGov](https://www.usa.gov/renew-adult-passport) tells Americans to renew early, because processing times vary and some countries and airlines refuse entry when a passport has less than six months left.
 
 Canada draws a line, and even that one is soft. The Government of Canada says that if you apply more than a year before your passport expires, it will ask why, and a postal application needs a written explanation. Its online renewal service is narrower still, open only when your passport expires within the next six months or has already expired.
 
@@ -3066,13 +3063,13 @@ If you're American, there's a limit worth knowing at the other end: USAGov says 
 
 ## Renewing early in the UK means giving back the months you have left
 
-This is the real cost of renewing early, and it's smaller than it sounds. HM Passport Office's historic guidance explains that between November 2004 and October 2018, anyone renewing before expiry could have up to nine unused months added to the new passport. Since October 2018 that no longer happens, so the old passport's remaining time simply goes.
+This is the real cost of renewing early, and it's smaller than it sounds. HM Passport Office's [historic guidance](https://www.gov.uk/government/publications/historic-passport-information-caseworker-guidance/historic-passport-information-accessible) explains that between November 2004 and October 2018, anyone renewing before expiry could have up to nine unused months added to the new passport. Since October 2018 that no longer happens, so the old passport's remaining time simply goes.
 
 Apply nine months early, then, and you trade those nine months for a passport you won't need to think about for a decade. We'd take that trade every time, because the alternative is renewing against the clock with a trip already on the calendar.
 
-The old extra-months rule left one catch behind. GOV.UK's travel advice for Spain warns that a passport renewed before October 2018 might have a date of issue more than ten years ago.
+The old extra-months rule left one catch behind. GOV.UK's [travel advice for Spain](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements) warns that a passport renewed before October 2018 might have a date of issue more than ten years ago.
 
-That matters because the EU's Your Europe guidance says a passport used to enter the Schengen area must have been issued within the last ten years. It also has to stay valid for at least three months after you leave. A passport that looks fine by its expiry date can still fall short in Europe. If yours was issued under the old rule, check the issue date as well as the expiry date, and our guide to [how long a passport is valid for travel](https://traveldocumentvault.com/blog/how-long-is-passport-valid-for-travel/) walks through both.
+That matters because the EU's [Your Europe guidance](https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm) says a passport used to enter the Schengen area must have been issued within the last ten years. It also has to stay valid for at least three months after you leave. A passport that looks fine by its expiry date can still fall short in Europe. If yours was issued under the old rule, check the issue date as well as the expiry date, and our guide to [how long a passport is valid for travel](https://traveldocumentvault.com/blog/how-long-is-passport-valid-for-travel/) walks through both.
 
 ## Your old passport stops working once the new one is authorised
 
@@ -3088,8 +3085,8 @@ Every renewal comes with a new number. HM Passport Office pairs that fact with i
 
 Anything already linked to the old number deserves a look before your next trip:
 
-- **A US ESTA** has to be applied for again. US Customs and Border Protection says a new ESTA is required when the traveller is issued a new passport.
-- GOV.UK says **a UK ETA** is linked to the passport you applied with and lasts two years or until that passport expires, whichever is sooner. Check where yours stands before flying on the new one, and our guide to [which passport a UK ETA is tied to](https://traveldocumentvault.com/blog/uk-eta-passport-rules/) covers the details.
+- **A US ESTA** has to be applied for again. [US Customs and Border Protection](https://www.cbp.gov/travel/international-visitors/esta/frequently-asked-questions-about-visa-waiver-program-vwp-and-electronic-system-travel) says a new ESTA is required when the traveller is issued a new passport.
+- [GOV.UK](https://www.gov.uk/eta/apply) says **a UK ETA** is linked to the passport you applied with and lasts two years or until that passport expires, whichever is sooner. Check where yours stands before flying on the new one, and our guide to [which passport a UK ETA is tied to](https://traveldocumentvault.com/blog/uk-eta-passport-rules/) covers the details.
 - For **a visa in the old passport**, the usual answer is to carry both. A visa in your old passport generally stays valid, so carry both passports and check the issuing country's official guidance.
 - **Flights and hotels** booked with your old passport details may need the new number added, an easy job at home and an awkward one at a check-in desk.
 
@@ -3101,13 +3098,13 @@ Our view is simple: start thinking about renewal when a passport drops to 12 mon
 
 The other half is choosing when inside that window. Look for a few weeks with nothing booked, since the old passport goes in with the application and the new one comes back with a different number.
 
-HM Passport Office says you'll usually get a passport within three weeks, longer if it needs more information or an interview, with the clock starting when it receives your documents. In Canada, online renewal can take up to 20 business days plus mailing time. For what tends to slow an application down, our guide to [how long passport renewal takes](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/) has the detail.
+[HM Passport Office](https://www.gov.uk/government/organisations/hm-passport-office/about/about-our-services) says you'll usually get a passport within three weeks, longer if it needs more information or an interview, with the clock starting when it receives your documents. In Canada, online renewal can take up to 20 business days plus mailing time. For what tends to slow an application down, our guide to [how long passport renewal takes](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/) has the detail.
 
 If a family trip is on the horizon, line up every passport in the household at the same time. In the UK, HM Passport Office issues child passports for five years rather than ten, so the one that needs renewing first often isn't the one you'd expect. If anyone is heading somewhere that asks for extra validity on arrival, check our guide to [the 6-month passport rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/) for how that shifts your date.
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [USAGov: Renew an adult passport](https://www.usa.gov/renew-adult-passport)
 - [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)
@@ -3330,7 +3327,7 @@ Source: https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/
 - The EU's **official short-stay calculator** works, but it's manual - one person, one window, one calculation at a time.
 - Families juggle **a separate window per person**. That's where day-limit tracking in an app earns its place.
 
-On your last trip to Europe you probably collected a stamp at the border. That stamp is gone. Since 10 April 2026, the EU's Entry/Exit System (EES) has been fully operational across the Schengen area, and the smudged ink that once recorded your travels has been replaced by a digital record that starts the moment you cross.
+On your last trip to Europe you probably collected a stamp at the border. That stamp is gone. Since 10 April 2026, the EU's Entry/Exit System (EES) has been [fully operational](https://home-affairs.ec.europa.eu/news/entryexit-system-will-become-fully-operational-10-april-2026-2026-03-30_en) across the Schengen area, and the smudged ink that once recorded your travels has been replaced by a digital record that starts the moment you cross.
 
 For anyone who counts Schengen days - and every non-EU visitor should - this changes the stakes considerably. Here's what the new system actually does, what it deliberately doesn't do, and how to keep your own count so a border never surprises you.
 
@@ -3340,7 +3337,7 @@ Seen "Your remaining authorised stay cannot currently be calculated" in the EU's
 
 ## What Changed at Europe's Borders
 
-EES registers each non-EU traveller's fingerprints, facial image, travel document and exact entry and exit dates. When EES became fully operational on 10 April 2026, the European Commission said it had registered more than 52 million entries and exits since the phased launch in October 2025, with over 27,000 refusals of entry. First-time registration takes a few minutes at the kiosk, and airports have reported multi-hour queues at peak times this summer while everyone gets used to it.
+EES registers each non-EU traveller's fingerprints, facial image, travel document and exact entry and exit dates. When EES became fully operational on 10 April 2026, the [European Commission](https://home-affairs.ec.europa.eu/news/entryexit-system-ees-fully-operational-2026-04-10_en) said it had registered more than 52 million entries and exits since the phased launch in October 2025, with over 27,000 refusals of entry. First-time registration takes a few minutes at the kiosk, and airports have reported multi-hour queues at peak times this summer while everyone gets used to it.
 
 Not everyone is registered. EU citizens, residents of Schengen countries and long-stay visa holders are exempt. If you're visiting on the visa-free short-stay allowance - most British, American, Canadian and Australian travellers, for instance - EES applies to you.
 
@@ -3350,11 +3347,11 @@ The rule itself hasn't changed: you may spend at most 90 days inside the Schenge
 
 ![Hand-drawn diagram of the Schengen 90/180 rolling window: a timeline from 180 days ago to today holding two trips of 30 and 45 days, totalling 75 of 90 days used, with a note that the window slides every day and that arrival and departure days both count](https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/90-180-window.jpg) The window never resets: for every single day, the previous 180 days may hold at most 90 days of stay.
 
-What has changed is enforcement. Under passport stamps, proving an overstay meant deciphering faded ink, and border officers had discretion. Now the dates are exact, and the system flags an overstay the moment it happens. Expect refusal at your next entry, and in some cases an entry ban, generally of up to five years, which officials record in the Schengen Information System. The margin for error has gone from fuzzy to zero.
+What has changed is enforcement. Under passport stamps, proving an overstay meant deciphering faded ink, and border officers had discretion. Now the dates are exact, and the system flags an overstay the moment it happens. Expect refusal at your next entry, and in some cases an [entry ban](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32008L0115), generally of up to five years, which officials record in the Schengen Information System. The margin for error has gone from fuzzy to zero.
 
 ## The Catch: EES Enforces, It Doesn't Plan
 
-EES records your days for enforcement, and the EU now lets you see where you stand. Its EES online tool, on the official Travel to Europe website, shows the number of days you're still allowed to stay, and some external border crossings offer the same check. What it shows is your record so far. Working out whether a trip you haven't taken yet will fit is still up to you.
+EES records your days for enforcement, and the EU now lets you see where you stand. Its EES online tool, on the official [Travel to Europe website](https://travel-europe.europa.eu/en/ees), shows the number of days you're still allowed to stay, and some external border crossings offer the same check. What it shows is your record so far. Working out whether a trip you haven't taken yet will fit is still up to you.
 
 The EU publishes an official short-stay calculator that's well worth bookmarking. You enter your past entry and exit dates, and it tells you whether a planned stay fits inside your window. It works well for one traveller who keeps good records. The friction appears when the records live in your memory, or when you're doing the exercise for four people at once.
 
@@ -3362,13 +3359,13 @@ The EU publishes an official short-stay calculator that's well worth bookmarking
 
 Not everyone meets EES. The system registers non-EU visitors who arrive on visa-free short-stay allowances, and those on short-stay visas. If you hold citizenship from the US, UK, Canada, Australia, or dozens of other countries, EES applies to you the moment you cross into Schengen. It doesn't change how long your passport has to last, though: for Schengen that's three months after the day you leave, so [6 months left on your passport](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/) is plenty here, even if it isn't everywhere.
 
-If you're an EU, EEA or Swiss citizen, you're exempt - your passport receives no special entry process, and EES does not log your entries and exits. Inside the EU you can usually cross on your [EEA national ID card](https://traveldocumentvault.com/blog/national-id-card-travel-europe/) rather than a passport. The official list of exemptions is longer, and it includes non-EU family members of EU citizens who hold a residence card.
+If you're an EU, EEA or Swiss citizen, you're exempt - your passport receives no special entry process, and EES does not log your entries and exits. Inside the EU you can usually cross on your [EEA national ID card](https://traveldocumentvault.com/blog/national-id-card-travel-europe/) rather than a passport. The [official list of exemptions](https://home-affairs.ec.europa.eu/news/entry-exit-system-fully-operational-10-april-2026-who-exempt-2026-07-27_en) is longer, and it includes non-EU family members of EU citizens who hold a residence card.
 
 Being exempt from EES isn't the same as being exempt from the 90/180 rule, though. If you're a non-EU visitor on a short stay, the rule applies whether or not a border has registered you yet. Time spent in a Schengen country on a residence permit or long-stay (type D) visa from that country doesn't count towards it. Short visits to other Schengen countries generally still do, so check with the authority that issued your permit.
 
 ## What Happens at Your First EES Crossing
 
-The system creates your record at your first crossing into the Schengen area. You'll queue at a biometric kiosk at the border - airport, port, or land crossing. An officer scans your passport or travel document to check your identity. The system captures your facial image. If you don't need a visa, it also takes four fingerprints; if you travel on a short-stay visa, it stores only your facial image, since your fingerprints were taken when you applied. It takes longer than the passport stamp it replaces, and you only do it once.
+The system creates your record at your first crossing into the Schengen area. You'll queue at a biometric kiosk at the border - airport, port, or land crossing. An officer scans your passport or travel document to check your identity. The system captures your facial image. If you don't need a visa, it also takes [four fingerprints](https://travel-europe.europa.eu/en/ees/faq); if you travel on a short-stay visa, it stores only your facial image, since your fingerprints were taken when you applied. It takes longer than the passport stamp it replaces, and you only do it once.
 
 Once registered, the system records your exact entry date and time. If you later exceed your 90 days in 180, this timestamp becomes the reference point EES uses to calculate your rolling window.
 
@@ -3428,7 +3425,7 @@ The digital border is thorough, automatic and unsentimental, but staying inside 
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [EU travel: Entry/Exit System (EES)](https://travel-europe.europa.eu/en/ees)
 - [EU travel: EES frequently asked questions](https://travel-europe.europa.eu/en/ees/faq)
@@ -3500,7 +3497,7 @@ Two rules and one quirk of children's passports explain nearly every family Sche
 
 ## The Real Schengen Rule: 3 Months Beyond Departure
 
-The EU's requirement is precise: your passport must be valid for at least 3 months after the date you intend to leave the Schengen area, and it must have been issued within the previous 10 years.
+The EU's requirement is precise: [your passport must be valid for at least 3 months after the date you intend to leave the Schengen area](https://www.gov.uk/foreign-travel-advice/france/entry-requirements), and it must have been issued within the previous 10 years.
 
 Imagine your family returns from Italy on 20 August. Every passport needs validity to roughly 20 November, because that's three months beyond your departure date, not your arrival, and not your booking date. A passport expiring on 10 November fails that test, even though the holiday itself ends weeks earlier.
 
@@ -3508,7 +3505,7 @@ The issued-within-10-years condition catches UK families in a specific way. Olde
 
 ## Why This Is Not the 6-Month Rule
 
-Most travellers absorb the idea that passports need six months of validity to go anywhere. That rule is real: Thailand asks for six months of validity, and many other countries apply a version of it. But Schengen doesn't. Europe asks for three months beyond departure, which is gentler, and yet the two get blended into a vague "six months from somewhere" that produces both false alarm and false confidence.
+Most travellers absorb the idea that passports need six months of validity to go anywhere. That rule is real: [Thailand asks for six months of validity](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), and many other countries apply a version of it. But Schengen doesn't. Europe asks for three months beyond departure, which is gentler, and yet the two get blended into a vague "six months from somewhere" that produces both false alarm and false confidence.
 
 Our guide to [the 6-month rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/) covers which countries actually enforce it. Our [passport validity explainer](https://traveldocumentvault.com/blog/how-long-is-passport-valid-for-travel/) handles the general case. We're staying with Schengen here because that's where families most often get the maths subtly wrong.
 
@@ -3516,7 +3513,7 @@ Our guide to [the 6-month rule](https://traveldocumentvault.com/blog/passport-ex
 
 ## Kids' Passports Run on a Faster Clock
 
-UK adult passports last 10 years, while the UK issues children's passports for only five. That asymmetry is where many otherwise careful plans come unstuck.
+[UK adult passports last 10 years](https://www.gov.uk/apply-first-adult-passport), while [the UK issues children's passports for only five](https://www.gov.uk/get-a-child-passport). That asymmetry is where many otherwise careful plans come unstuck.
 
 | Country | Child passports | Validity |
 |---|---|---|
@@ -3538,13 +3535,13 @@ One failed passport rarely strands one person; it grounds the family. Few parent
 
 The fix is simple and takes just minutes. On the day you book, gather every passport in the household and note each expiry date and issue date. Then ask two questions for each one: will it still be valid three months after your return, and was it issued less than ten years ago? Anything that fails either test goes into the renewal queue that week. At that point, you can still renew, reroute the trip, or shift your dates without penalty, and we'd always choose renewing over waiting to see if the dates move.
 
-Children need the same buffer as adults. There's no child exception to the validity rules: a five-year-old's passport gets the same Timatic treatment as yours. One aside for British and Irish trips: Ireland isn't in Schengen at all. UK-Ireland travel runs under the separate Common Travel Area, so don't generalise from a Dublin trip to a Paris one.
+Children need the same buffer as adults. There's no child exception to the validity rules: a five-year-old's passport gets the same Timatic treatment as yours. One aside for British and Irish trips: Ireland isn't in Schengen at all. UK-Ireland travel runs under the [separate Common Travel Area](https://www.gov.uk/foreign-travel-advice/ireland/entry-requirements), so don't generalise from a Dublin trip to a Paris one.
 
 None of this needs an app. A spreadsheet helps plenty of families, and a twice-yearly calendar reminder handles most of the work. The only non-negotiable: do the audit at booking time, when a short passport is still an errand, not an emergency.
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [UK Foreign Office: France entry requirements](https://www.gov.uk/foreign-travel-advice/france/entry-requirements)
 - [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
@@ -3558,7 +3555,7 @@ Sources we checked (6 November 2026)
 
 ### What is the difference between the 6-month rule and Schengen's 3-month rule?
 
-They are separate rules for different destinations. Countries such as Thailand and Indonesia generally want 6 months of validity remaining. Schengen requires 3 months of validity beyond the date you leave, plus a passport issued within the last 10 years. Families who've travelled to Southeast Asia often assume the 6-month figure applies everywhere - it doesn't.
+They are separate rules for different destinations. Countries such as Thailand and [Indonesia](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements) generally want 6 months of validity remaining. Schengen requires 3 months of validity beyond the date you leave, plus a passport issued within the last 10 years. Families who've travelled to Southeast Asia often assume the 6-month figure applies everywhere - it doesn't.
 
 ### Do children follow different Schengen passport rules?
 
@@ -3629,9 +3626,9 @@ The trap sits in the middle. A layover that looks airside on paper can quietly b
 
 Transit visas are mandatory in several circumstances, and the requirements vary significantly by your nationality and the transit country.
 
-The **Schengen Airport Transit Visa (ATV)** applies to certain non-EU passport holders making airside-only connections through Schengen airports (member states can add nationalities in some cases), though many nationalities are exempt, and some visa or residence permit holders are too. Because the exemption list is complex and changes periodically, you cannot assume you are exempt. The IATA Travel Centre database holds the current rules for your specific nationality and destination, so check there rather than guessing based on what you know about other countries.
+The **Schengen Airport Transit Visa (ATV)** applies to [certain non-EU passport holders](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0810) making airside-only connections through Schengen airports (member states can add nationalities in some cases), though many nationalities are exempt, and some visa or residence permit holders are too. Because the exemption list is complex and changes periodically, you cannot assume you are exempt. The IATA Travel Centre database holds the current rules for your specific nationality and destination, so check there rather than guessing based on what you know about other countries.
 
-The **United Kingdom** offers visa-free airside transit for many, but others require what is now called a Direct Airside Transit Visa (DATV). Like Schengen, exemption depends mainly on your nationality, not just your destination, and GOV.UK says you don't need a transit visa if you hold a UK electronic travel authorisation (ETA).
+The **United Kingdom** offers visa-free airside transit for many, but others require what is now called a Direct Airside Transit Visa (DATV). Like Schengen, exemption depends mainly on your nationality, not just your destination, and [GOV.UK](https://www.gov.uk/transit-visa) says you don't need a transit visa if you hold a UK electronic travel authorisation (ETA).
 
 In most cases, connecting passengers arriving in the **United States** pass through US immigration and customs before their next flight. In practice, this comes down to US entry rules rather than transit visa rules, so check them for your passport early and build them into your travel plan from the start.
 
@@ -3663,7 +3660,7 @@ A single person without an exemption can derail the entire trip.
 
 Before you book, put your whole route, not just the destination, through the IATA Travel Centre. That's the check most likely to catch a missing requirement while you can still change the booking.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [UK Government: Visa to pass through the UK in transit](https://www.gov.uk/transit-visa)
 - [EU law: Visa Code (Regulation 810/2009)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0810)
@@ -3697,7 +3694,7 @@ Contact your airline immediately and check the processing time for a transit vis
 
 ### How long is a transit visa valid for?
 
-Transit visa validity varies by country. The UK's Visitor in Transit visa, for example, covers a stay of up to 48 hours. Store and track your transit visa expiry date alongside your passport and main entry visa.
+Transit visa validity varies by country. The UK's [Visitor in Transit visa](https://www.gov.uk/transit-visa/visitor-in-transit-visa), for example, covers a stay of up to 48 hours. Store and track your transit visa expiry date alongside your passport and main entry visa.
 
 ## Related Articles
 
@@ -3737,7 +3734,7 @@ The biggest mistake travellers make is treating the booking moment as administra
 
 **Check your passports before you pay**
 
-Before you confirm any booking, check every traveller's passport against three criteria: validity, name match, and blank pages. Validity means meeting the destination's requirement: many countries want six months of validity left on the day you arrive, and a few count from departure, so check your destination, as explained in our [guide to the 6-month passport rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/). The name on the passport must exactly match the booking name, and some countries require at least two blank visa pages for entry stamps.
+Before you confirm any booking, check every traveller's passport against three criteria: validity, name match, and blank pages. Validity means meeting the destination's requirement: many countries want [six months of validity left on the day you arrive](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), and a few count from departure, so check your destination, as explained in our [guide to the 6-month passport rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/). The name on the passport must exactly match the booking name, and some countries require [at least two blank visa pages](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements) for entry stamps.
 
 **Check your visa requirements**
 
@@ -3753,7 +3750,7 @@ Book travel insurance when you book flights, not a week before departure. Insura
 
 At this point you still have time to fix things. Renewal times change, and your country's passport authority publishes its own current figure. Always check the official site for current times before you apply.
 
-We'd renew any passport expiring within 12 months now, because children's passports expire faster (UK child passports last 5 years, against 10 for adults, and several other countries work the same way) and parents frequently miss the window. For New Zealand applicants, check the New Zealand Passport Office for current timelines.
+We'd renew any passport expiring within 12 months now, because children's passports expire faster ([UK child passports last 5 years](https://www.gov.uk/get-a-child-passport), against 10 for adults, and several other countries work the same way) and parents frequently miss the window. For New Zealand applicants, check the New Zealand Passport Office for current timelines.
 
 Submit any visa applications that need lead time, and check the issuing authority for how long it currently takes. Prepare supporting documents: bank statements, accommodation confirmations, onward travel proof. Book a biometrics appointment in advance if the visa requires it.
 
@@ -3817,14 +3814,14 @@ Different trips need different document sets, as the table below shows for solo,
 | Travel insurance | | all covered | check employer covers you | Confirm coverage before each trip, not just at purchase |
 | Booking confirmations | | | | Offline copy (don't rely on email access at borders) |
 | Child consent letter | N/A | if applicable | N/A | Asked for in some countries if one parent is absent |
-| Birth certificates | N/A | if required | N/A | Some countries ask for this for children under 18 |
+| Birth certificates | N/A | if required | N/A | Some countries ask for this for children under 18 (for example, [Mexico](https://www.gov.uk/foreign-travel-advice/mexico/entry-requirements) can ask for evidence of your relationship) |
 | Work authorisation letter | N/A | N/A | if required | Some destinations require employer letters for business travellers |
 
 If a trip is already booked, the one thing worth doing today is pulling out every passport involved and checking its expiry against the destination's requirement, not just against your travel dates.
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
@@ -3849,7 +3846,7 @@ Yes. Each person's passport expiry, visa requirements, and insurance coverage is
 
 ### What is a child travel consent letter and do I need one?
 
-A child travel consent letter is a signed document from the absent parent giving permission for the child to travel. Some countries, including South Africa, set extra requirements for children travelling with one parent, and Canadian authorities recommend a signed consent letter. Without one you may face extra questions or delays. The letter should include the child's details, both parents' contact information, travel dates, destinations, and the absent parent's signature.
+A child travel consent letter is a signed document from the absent parent giving permission for the child to travel. Some countries, including [South Africa](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements), set extra requirements for children travelling with one parent, and [Canadian authorities](https://travel.gc.ca/travelling/children/consent-letter) recommend a signed consent letter. Without one you may face extra questions or delays. The letter should include the child's details, both parents' contact information, travel dates, destinations, and the absent parent's signature.
 
 ### What documents should I keep accessible at the airport and not in checked luggage?
 
@@ -3921,23 +3918,23 @@ A renewal that is already in progress is a different question, and it turns on w
 
 ## An Expired Passport Is Renewed, Not Started From Scratch
 
-An out-of-date passport is renewed, not started again from scratch. GOV.UK lists an expired passport as one of the two reasons you must renew before you travel, alongside not having enough time left on it, so for most people the standard adult renewal service is the route. The exception covers older passports. If your last UK passport was issued before 1 January 1994, HM Passport Office asks you to apply for a first adult passport instead, so it's worth checking the issue date before you start.
+An out-of-date passport is renewed, not started again from scratch. [GOV.UK](https://www.gov.uk/renew-adult-passport/renew) lists an expired passport as one of the two reasons you must renew before you travel, alongside not having enough time left on it, so for most people the standard adult renewal service is the route. The exception covers older passports. If your last UK passport was issued before 1 January 1994, HM Passport Office asks you to [apply for a first adult passport](https://www.gov.uk/apply-first-adult-passport) instead, so it's worth checking the issue date before you start.
 
 You can apply online, which needs a digital photo, or on a paper form, which needs two identical printed photos. Either way you'll send your old passport with the application. If it holds a visa that's still valid, GOV.UK says to send the passport with the visa attached, and the old passport is returned to you.
 
-One detail catches people once the new passport arrives: **it has a different number**. GOV.UK advises against booking travel until you hold the new passport for that reason, and anything made with the old number, such as an airline booking or a travel authorisation for another country, may need updating. Our guide to [reading your passport dates](https://traveldocumentvault.com/blog/how-to-read-your-passport-dates/) explains what changes on renewal and what stays the same.
+One detail catches people once the new passport arrives: **it has a different number**. [GOV.UK](https://www.gov.uk/renew-adult-passport) advises against booking travel until you hold the new passport for that reason, and anything made with the old number, such as an airline booking or a travel authorisation for another country, may need updating. Our guide to [reading your passport dates](https://traveldocumentvault.com/blog/how-to-read-your-passport-dates/) explains what changes on renewal and what stays the same.
 
 ## Domestic Travel: Limited Flexibility with Alternative ID
 
 Domestic travel within the UK and Ireland works a little differently: airlines may accept alternative photo identification like a UK driving licence or national ID card in place of a passport. What's acceptable varies significantly by airline and destination, though, so you can't assume any particular ID will work.
 
-That doesn't mean you can skip renewing your passport. Airlines vary in their policies on domestic routes: some require a passport for all travel to Ireland even though the Common Travel Area technically permits ID-card travel, whilst others accept a driving licence. Airlines update their rules too, and your carrier may have changed theirs since you last flew, so you cannot assume what worked before will work again.
+That doesn't mean you can skip renewing your passport. Airlines vary in their policies on domestic routes: some require a passport for all travel to Ireland even though the [Common Travel Area](https://www.gov.uk/foreign-travel-advice/ireland/entry-requirements) technically permits ID-card travel, whilst others accept a driving licence. Airlines update their rules too, and your carrier may have changed theirs since you last flew, so you cannot assume what worked before will work again.
 
 If you are considering domestic travel with an expired passport, contact your airline well before your flight and ask explicitly: "My UK passport is expired. Will you accept my UK driving licence instead?" Get confirmation in writing if you can, as arriving at check-in with an alternative ID and no prior confirmation is how people miss flights.
 
 ## Emergency Renewal: Premium Service, If You Can Get a Slot
 
-If your trip is imminent and your passport is expired, His Majesty's Passport Office offers a 1 Day Premium service designed for exactly this scenario. GOV.UK says the earliest appointment is 2 days after you apply, and the new passport is ready to collect 4 hours after your appointment. HM Passport Office publishes the current fee on gov.uk, and it covers the appointment and renewal together rather than being charged on top of the standard fee. It gets you a passport far faster than the standard route, though how much faster depends on the appointment you can get. Note the 1 Day Premium service is for adult renewals only, not first adult passports.
+If your trip is imminent and your passport is expired, His Majesty's Passport Office offers a 1 Day Premium service designed for exactly this scenario. [GOV.UK](https://www.gov.uk/get-a-passport-urgently) says the earliest appointment is 2 days after you apply, and the new passport is ready to collect 4 hours after your appointment. HM Passport Office publishes the current fee on gov.uk, and it covers the appointment and renewal together rather than being charged on top of the standard fee. It gets you a passport far faster than the standard route, though how much faster depends on the appointment you can get. Note the 1 Day Premium service is for adult renewals only, not first adult passports.
 
 This is the official emergency route for genuine travel constraints. HM Passport Office publishes its current standard processing guidance on gov.uk, and it's worth checking that before you assume you have time to wait. When a trip genuinely can't wait, the Premium option removes the uncertainty.
 
@@ -3959,7 +3956,7 @@ Insurers often decline claims where you travelled without valid documents, so ch
 
 ## If You're Already Abroad and Your Passport Expires
 
-Your passport expiring while you're still abroad is the hardest scenario to plan for. If it expires before you return, you cannot board a flight or ferry home, and you'll need to contact the nearest British embassy or consulate for an emergency travel document, sometimes called an ETD or emergency passport, which is usually valid for one single or return journey, through a maximum of five countries.
+Your passport expiring while you're still abroad is the hardest scenario to plan for. If it expires before you return, you cannot board a flight or ferry home, and you'll need to contact the nearest British embassy or consulate for an [emergency travel document](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport), sometimes called an ETD or emergency passport, which is usually valid for one single or return journey, through a maximum of five countries.
 
 The process is slow and bureaucratic. You'll need to provide proof of identity and pay a fee, the current amount published by the Foreign, Commonwealth and Development Office. Processing time varies by embassy and by how urgent your situation is, so ask the consulate what to expect as soon as you contact them.
 
@@ -3977,7 +3974,7 @@ The simplest way to avoid all of this: pull out your passport today and check th
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)
 - [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
@@ -4064,7 +4061,7 @@ Your policy documents sit with whoever sold you the cover, so start there. Searc
 
 If you don't remember buying a policy at all, check your bank account. The Financial Ombudsman Service describes a packaged bank account as a current account that charges a monthly fee in exchange for extra benefits, travel insurance among them. In that case the bank is usually the first place to ask, so try its app, website or helpline.
 
-Once you have them, the UK Foreign, Commonwealth and Development Office advises taking your policy details with you, including the policy number and your insurer's emergency assistance number. It also suggests sharing them with the people you're travelling with and family at home. If you still can't find anything, call the insurer, or the bank for packaged cover, and ask them to send the documents again before you fly rather than after something goes wrong.
+Once you have them, the [UK Foreign, Commonwealth and Development Office](https://www.gov.uk/guidance/foreign-travel-insurance) advises taking your policy details with you, including the policy number and your insurer's emergency assistance number. It also suggests sharing them with the people you're travelling with and family at home. If you still can't find anything, call the insurer, or the bank for packaged cover, and ask them to send the documents again before you fly rather than after something goes wrong.
 
 ## The Five Documents You Must Save Before You Fly
 
@@ -4174,7 +4171,7 @@ Twenty minutes now, and you won't be searching for any of it in a crisis.
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [UK Government: Foreign travel insurance](https://www.gov.uk/guidance/foreign-travel-insurance)
 
@@ -4238,9 +4235,9 @@ Whether you still have that passport depends entirely on your country and your r
 
 ## United States: Mail-In Renewal
 
-Standard US passport renewal by mail means sending your current passport in with the application, so it isn't in your hands while you wait. You complete the DS-82 form, enclose your existing passport, and post everything to the National Passport Processing Center. USAGov says your old passport is mailed back separately, usually about four weeks after you receive the new one.
+Standard US passport renewal by mail means sending your current passport in with the application, so it isn't in your hands while you wait. You [complete the DS-82 form](https://www.usa.gov/renew-adult-passport), enclose your existing passport, and post everything to the National Passport Processing Center. USAGov says your old passport is mailed back separately, usually about four weeks after you receive the new one.
 
-This means domestic travel within the United States is unaffected throughout the renewal process - you don't need a passport for domestic flights. International travel is a different story: you can't travel internationally until your new passport arrives, and you can't use the old cancelled passport even if you have it in hand.
+This means domestic travel within the United States is unaffected throughout the renewal process - [you don't need a passport for domestic flights](https://www.tsa.gov/travel/security-screening/identification). International travel is a different story: you can't travel internationally until your new passport arrives, and you can't use the old cancelled passport even if you have it in hand.
 
 Standard processing times change, and the State Department publishes the current figure at travel.state.gov, so check there before you plan around it. If your travel is booked before you expect the new passport to arrive, expedited processing is available for an additional fee and cuts the wait meaningfully. For genuinely urgent travel, in-person appointments are available at regional passport agencies - check current eligibility at travel.state.gov.
 
@@ -4248,7 +4245,7 @@ Standard processing times change, and the State Department publishes the current
 
 The UK has two renewal paths, and they have completely different implications for travel. The process you used determines what is possible.
 
-**Postal renewal:** You post your current passport to HM Passport Office along with your application. Your passport is in their hands for the duration, so you can't travel internationally. HM Passport Office publishes its current processing time on its website and advises against booking travel until your new passport arrives. A premium fast-track service is available for an additional fee if your trip is close.
+**Postal renewal:** You post your current passport to [HM Passport Office](https://www.gov.uk/renew-adult-passport/renew) along with your application. Your passport is in their hands for the duration, so you can't travel internationally. HM Passport Office publishes its current processing time on its website and [advises against booking travel](https://www.gov.uk/renew-adult-passport) until your new passport arrives. A premium fast-track service is available for an additional fee if your trip is close.
 
 **Digital renewal** is currently available to eligible adults applying from within the UK. You keep your current passport throughout the process, and the government issues your new passport separately and posts it to you. Because your existing passport never leaves your possession, you can generally continue to use it for travel while the new one is processed. Eligibility varies by individual circumstance, so check the HM Passport Office website for the full criteria and current times before applying.
 
@@ -4260,7 +4257,7 @@ The Australian Passport Office publishes its current processing times and recomm
 
 ## Canada: Surrendered on Application
 
-Canada works much the same way: you surrender your existing passport when you apply for renewal, and it's held until your new one is ready, so you can't travel internationally during that period, though domestic travel within Canada doesn't need a passport.
+Canada works much the same way: you [surrender your existing passport when you apply for renewal](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html), and it's held until your new one is ready, so you can't travel internationally during that period, though domestic travel within Canada doesn't need a passport.
 
 Service Canada publishes its current processing standards, which differ depending on whether you apply in person, by mail, or at a Service Canada Centre, plus mailing time either way. For urgent travel, express service and urgent pickup options exist for additional fees. Check current processing times and apply at canada.ca.
 
@@ -4302,7 +4299,7 @@ The reason people end up in this situation is not ignorance of the rules. Passpo
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [USAGov: Renew an adult passport](https://www.usa.gov/renew-adult-passport)
 - [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)
@@ -4372,7 +4369,7 @@ Airline check-in staff and border officers look twice at a child travelling with
 
 ## The Airline Desk and the Border Check Different Things
 
-Two different people look at the same paperwork for two different reasons, and knowing that saves confusion at the desk. Check-in staff are not deciding whether your child may enter the destination country. They are checking whether the airline is confident you will be let in, because under long-standing arrangements between carriers and governments, an airline can be held responsible for flying home a passenger the destination later refuses. That is why check-in agents sometimes ask more than the border officer eventually does: they are protecting the airline against its own liability.
+Two different people look at the same paperwork for two different reasons, and knowing that saves confusion at the desk. Check-in staff are not deciding whether your child may enter the destination country. They are checking whether the airline is confident you will be let in, because [under long-standing arrangements between carriers and governments](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001L0051), an airline can be held responsible for flying home a passenger the destination later refuses. That is why check-in agents sometimes ask more than the border officer eventually does: they are protecting the airline against its own liability.
 
 The border officer you meet after landing makes an entirely separate decision, unconnected to whatever the airline decided earlier. Some countries repeat the check on the way out too, not only coming in, so a smooth arrival says nothing about how the exit check will go a fortnight later.
 
@@ -4382,7 +4379,7 @@ Satisfying one does not bind the other.
 
 If you are the only parent travelling and the other parent is alive, well, and simply not on this trip, the document most borders expect is a consent letter, and we cover exactly what one must say, when it needs notarising, and the mistakes that get letters rejected in our full guide to the [child travel consent letter](https://traveldocumentvault.com/blog/child-travel-consent-letter/).
 
-Two things sit outside that letter and are worth carrying alongside it. Pack your child's birth certificate, since a consent letter names a child and a parent, and the birth certificate is what ties the two of you together in the first place. Some countries also expect the letter to reflect everyone who holds parental responsibility, not only the parent named on the passport, which can include a step-parent or a guardian depending on your family's legal situation. Whether that applies to you is worth checking with your destination's immigration authority rather than assuming, since it varies by country and by circumstance.
+Two things sit outside that letter and are worth carrying alongside it. Pack your child's birth certificate, since a consent letter names a child and a parent, and the birth certificate is what ties the two of you together in the first place. Some countries also expect the letter to reflect [everyone who holds parental responsibility](https://www.gov.uk/permission-take-child-abroad), not only the parent named on the passport, which can include a step-parent or a guardian depending on your family's legal situation. Whether that applies to you is worth checking with your destination's immigration authority rather than assuming, since it varies by country and by circumstance.
 
 ## Sole Custody: When the Court Order Is the Document
 
@@ -4434,7 +4431,7 @@ Our broader [travel document checklist](https://traveldocumentvault.com/blog/tra
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [UK Government: Get permission to take a child abroad](https://www.gov.uk/permission-take-child-abroad)
 - [EU law: Directive 2001/51 on carrier responsibilities](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001L0051)
@@ -4603,7 +4600,7 @@ Source: https://traveldocumentvault.com/blog/uk-brp-expired-evisa-deadline/
 
 If you hold an expired Biometric Residence Permit and still have permission to stay, GOV.UK asks you to create a UK Visas and Immigration (UKVI) account, using the card to prove who you are. It's a single sitting, and the expired card still works for that, at least for a while. Your immigration status hasn't changed. What has changed is where it lives.
 
-GOV.UK says all BRPs have now expired and have been replaced by eVisas. An eVisa is a digital record of your identity and immigration status, and you reach it through a UKVI account rather than carrying it in your wallet. That's why the account is the step that matters, for you and for everyone in your family who held a card.
+[GOV.UK](https://www.gov.uk/biometric-residence-permits) says all BRPs have now expired and have been replaced by eVisas. An eVisa is a [digital record of your identity and immigration status](https://www.gov.uk/evisa), and you reach it through a UKVI account rather than carrying it in your wallet. That's why the account is the step that matters, for you and for everyone in your family who held a card.
 
 An expired card doesn't mean your permission to stay has ended. GOV.UK's instructions are written for exactly this case: people whose BRP has expired but who still have permission to stay in the UK.
 
@@ -4623,11 +4620,11 @@ GOV.UK lists exactly what the card can still do. You can use it to sign in to vi
 
 The third use is easy to overlook. If your permission to stay is coming up for extension, the expired card can still play a part in that application while its window is open, which is one more reason to know your date. For travel, GOV.UK points to your eVisa and the passport linked to it, which we come to below.
 
-Once you're in, the account is how you prove your status day to day. GOV.UK says you can view your eVisa and get a share code to prove your immigration status, for example when you get a new job or rent a home. The eVisa also shows the conditions of your status, such as whether you can work or study. It's worth a look even if you have no trip planned.
+Once you're in, the account is how you prove your status day to day. [GOV.UK](https://www.gov.uk/evisa/view-evisa-get-share-code-prove-immigration-status) says you can view your eVisa and get a share code to prove your immigration status, for example when you get a new job or rent a home. The eVisa also shows the conditions of your status, such as whether you can work or study. It's worth a look even if you have no trip planned.
 
 ## A Passport and a Reference Number Also Open a UKVI Account
 
-If your card has gone missing, or its 24 months have already run out, you aren't stuck. GOV.UK accepts two other combinations when you create an account: a valid passport plus your visa application number, or a valid passport plus your BRP number. The BRP number is printed on the card itself, so we'd note it down somewhere safe while you still have the card in hand.
+If your card has gone missing, or its 24 months have already run out, you aren't stuck. [GOV.UK](https://www.gov.uk/evisa/set-up-ukvi-account) accepts two other combinations when you create an account: a valid passport plus your visa application number, or a valid passport plus your BRP number. The BRP number is printed on the card itself, so we'd note it down somewhere safe while you still have the card in hand.
 
 If you have neither a valid passport nor an expired BRP, GOV.UK says you can confirm your identity another way. The page doesn't set out the steps and points you to UK Visas and Immigration's webchat, so that's the place to start.
 
@@ -4643,7 +4640,7 @@ When your child turns 18, the account details should move over to their own phon
 
 ## To Travel, the Passport You Fly On Must Be on Your UKVI Account
 
-GOV.UK is direct about this: you must travel with a valid passport or travel document that you've added to your UKVI account. Your eVisa is checked when you leave and enter the UK, by a border officer or at the eGates, and when you check in with your carrier to return to the UK. Those checks look at your eVisa through the passport on your account. If the details on your account don't exactly match the passenger information you gave the carrier, the carrier may not let you travel, and you may also be held up at the UK border.
+[GOV.UK](https://www.gov.uk/evisa/travel-with-evisa) is direct about this: you must travel with a valid passport or travel document that you've added to your UKVI account. Your eVisa is checked when you leave and enter the UK, by a border officer or at the eGates, and when you check in with your carrier to return to the UK. Those checks look at your eVisa through the passport on your account. If the details on your account don't exactly match the passenger information you gave the carrier, the carrier may not let you travel, and you may also be held up at the UK border.
 
 Before a trip, sign in, confirm the passport on the account is the one you'll travel with, and get a share code. A code lasts 90 days and can be used more than once, and an airline or border officer may ask to see it. We'd get it before booking, not in the queue at the airport.
 
@@ -4653,7 +4650,7 @@ If you hold two nationalities, think about which passport you'll actually book w
 
 If you've renewed your passport, the new one needs to go on your account before you fly with it, and GOV.UK says you can update the passport number and expiry date on your account yourself. With a biometric passport you can also update your name and nationality yourself; anything else needs UK Visas and Immigration to make the change for you. If renewal is still ahead of you, our guide to [renewing your passport before it expires](https://traveldocumentvault.com/blog/renew-passport-before-expiry/) covers when to start, and the new passport goes straight onto your account once it arrives.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [UK Government: eVisa, setting up a UKVI account](https://www.gov.uk/evisa/set-up-ukvi-account)
 - [UK Government: travelling with an eVisa](https://www.gov.uk/evisa/travel-with-evisa)
@@ -4715,13 +4712,13 @@ This is a document-tracking problem. You have two expiry dates to watch: your pa
 
 ## Most Visa-Free Visitors Now Need an ETA
 
-If you are a national of the US, Canada, Australia, New Zealand, or a country in the EU or European Economic Area, you are likely to need a UK ETA. The scheme was enforced from 25 February 2026 for most non-visa nationals.
+If you are a national of the US, Canada, Australia, New Zealand, or a country in the EU or European Economic Area, you are [likely to need a UK ETA](https://www.gov.uk/eta). The scheme was [enforced from 25 February 2026](https://www.gov.uk/government/news/no-permission-no-travel-uk-set-to-enforce-eta-scheme) for most non-visa nationals.
 
 Some people are exempt: Irish citizens do not need one, and people with UK immigration status (a visa, settled status, or indefinite leave to remain) do not need to apply either. People with dual nationality, those with Common Travel Area rights, and a few other groups have different rules depending on how they travel, so check your own situation with the Home Office before booking. An ETA requirement is not hard to meet, but it only takes one exemption category you were unaware of to either waste money on an unnecessary application or get stopped at check-in.
 
 ## The ETA Is Tied to Your Passport Number, Not to You
 
-Your UK ETA is attached to your passport number, not to you as a person. When you apply, the Home Office links your approval to a specific passport number. Travelling on a different passport (a newly renewed one, a second passport, an emergency replacement) means travelling on an ETA that is not tied to that document.
+Your UK ETA is [attached to your passport number](https://www.gov.uk/check-eta), not to you as a person. When you apply, the Home Office links your approval to a specific passport number. Travelling on a different passport (a newly renewed one, a second passport, an emergency replacement) means travelling on an ETA that is not tied to that document.
 
 A UK ETA is digital and passport-specific: a new passport number means a new ETA is needed.
 
@@ -4776,11 +4773,11 @@ It isn't a visa either, so it doesn't set how long you can stay. ETA holders fro
 
 A UK ETA is one of several digital travel permissions now in use. If you are planning travel across multiple countries, understand the difference between an ETA and a [visa](https://traveldocumentvault.com/blog/visa-vs-passport/). They look similar in process but serve different purposes.
 
-The EU plans its own digital travel permission, [ETIAS](https://traveldocumentvault.com/blog/etias-documents-2026/), which is not yet in operation. It is similar in concept to the UK ETA but with different rules and requirements. When it starts, a trip covering both the UK and the Schengen area could need both.
+The EU plans its own digital travel permission, [ETIAS](https://traveldocumentvault.com/blog/etias-documents-2026/), which is [not yet in operation](https://travel-europe.europa.eu/en/etias). It is similar in concept to the UK ETA but with different rules and requirements. When it starts, a trip covering both the UK and the Schengen area could need both.
 
 If you already have a trip booked, do this today: check your passport's expiry date against your travel dates, and confirm your current ETA is tied to the passport you'll actually be travelling on. If either one falls short, start the renewal or the reapplication now, not the week before you fly.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [UK Government: Get an electronic travel authorisation (ETA) to visit the UK](https://www.gov.uk/eta)
 - [UK Government: Check your electronic travel authorisation (ETA)](https://www.gov.uk/check-eta)
@@ -4844,7 +4841,7 @@ Source: https://traveldocumentvault.com/blog/us-child-passport-renewal-under-16/
 
 A US passport issued to a child under 16 can't be renewed. When it runs out, you apply for a new one in person, the same way you did the first time, and both parents take part again. It's more paperwork than an adult renewal, but none of it is new if you've done it once.
 
-Federal passport regulations draw the line at 16: renewal by mail or online is only open when the most recent passport was issued at 16 or older, so every passport a child gets before then ends in a fresh application. A child who gets a first passport as a baby can go through four applications before turning 16, each with both parents involved.
+[Federal passport regulations](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-F/part-51) draw the line at 16: renewal by mail or online is only open when the most recent passport was issued at 16 or older, so every passport a child gets before then ends in a fresh application. A child who gets a first passport as a baby can go through four applications before turning 16, each with both parents involved.
 
 ## Passports Issued Before 16 Are Valid for Five Years
 
@@ -4894,7 +4891,7 @@ With more than one child, the dates drift apart. Passports issued a couple of ye
 
 What makes the difference is starting early. We'd begin about nine months before a child's passport expires: long enough to find an appointment both parents can make, get any notarised statement signed, and still have time if something needs redoing. Our guide on [when to renew a passport before it expires](https://traveldocumentvault.com/blog/renew-passport-before-expiry/) walks through the timing in more detail.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [US eCFR: 22 CFR Part 51 (passports)](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-F/part-51)
 
@@ -4946,7 +4943,7 @@ Source: https://traveldocumentvault.com/blog/visa-expiry-tracker-app/
 - Schengen Area visitors must track a rolling 90/180-day window, not just a single expiry date, because the count rolls with your actual travel history, not the calendar.
 - Tracking visas and passports together in one place reduces the risk of a mismatch: entering on a valid visa but with a passport that expires before your planned stay ends.
 
-A visa overstay is one of the most consequential travel mistakes a person can make. Unlike a missed flight, which is stressful but ultimately fixable, an overstay creates a formal immigration record that can follow you for years. In the United States, under section 212(a)(9)(B) of the US Immigration and Nationality Act, someone who is unlawfully present for more than 180 days but less than a year and then leaves is generally barred from returning for three years, and one year or more of unlawful presence generally means a ten-year bar. These consequences are not widely known.
+A visa overstay is one of the most consequential travel mistakes a person can make. Unlike a missed flight, which is stressful but ultimately fixable, an overstay creates a formal immigration record that can follow you for years. In the United States, under section 212(a)(9)(B) of the [US Immigration and Nationality Act](https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chap12-subchapII-partII-sec1182.htm), someone who is unlawfully present for more than 180 days but less than a year and then leaves is generally barred from returning for three years, and one year or more of unlawful presence generally means a ten-year bar. These consequences are not widely known.
 
 A visa expiry tracker app is built to prevent this: it needs to monitor multiple dates at once, entry validity, maximum stay, and entry count, each a separate deadline.
 
@@ -4975,7 +4972,7 @@ It's the field most travellers fail to track, because the date is not stamped an
 
 For travellers who visit multiple European countries, the Schengen Area's 90/180-day rule is one of the most widely misunderstood entry conditions in international travel. Citizens of countries with visa-free access to Schengen (including the UK, US, Canada, and Australia, among many others) may spend a maximum of 90 days in the Schengen Area within any 180-day rolling window.
 
-The European Commission provides an official Schengen stay calculator to help travellers work out their allowed days, which matters because this is a *rolling window*, not a calendar-year reset. Days spent in Schengen six months ago still count against your current allowance, so checking a single expiry date will not catch an overstay. What matters is your actual entry and exit history, not the date printed on the visa.
+The European Commission provides an official [Schengen stay calculator](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en) to help travellers work out their allowed days, which matters because this is a *rolling window*, not a calendar-year reset. Days spent in Schengen six months ago still count against your current allowance, so checking a single expiry date will not catch an overstay. What matters is your actual entry and exit history, not the date printed on the visa.
 
 ## What Happens When You Overstay
 
@@ -4983,7 +4980,7 @@ The consequences of a visa overstay vary by country but are consistently serious
 
 - **UK:** Overstays are recorded and will affect future visa applications. The UK Home Office considers overstays when assessing credibility and may refuse subsequent applications.
 - **Australia:** Overstaying your visa may result in restrictions on future visa applications and removal from the country. Under the Migration Act 1958, overstay records are tracked and will affect future visa applications and re-entry eligibility.
-- **Schengen Area:** Stays are recorded at the border, and an entry ban issued by one Schengen country is generally shared with the others through the Schengen Information System, so it applies across the Schengen area, which the European Commission currently lists as 29 countries.
+- **Schengen Area:** Stays are recorded at the border, and an entry ban issued by one Schengen country is generally shared with the others through the [Schengen Information System](https://home-affairs.ec.europa.eu/policies/schengen/schengen-information-system/what-sis-and-how-does-it-work_en), so it applies across the Schengen area, [which the European Commission currently lists as 29 countries](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en).
 - **Thailand:** Overstays incur a daily fine set by Thai immigration, up to a capped maximum, and an overstay of more than 90 days can lead to deportation and a ban on returning.
 
 In all cases, the overstay record typically follows you: it appears in immigration databases checked at future border crossings and visa applications.
@@ -5012,7 +5009,7 @@ Check your passport's expiry against your visa dates today: even a valid visa wi
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [US Code: Title 8, section 1182](https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chap12-subchapII-partII-sec1182.htm)
 - [European Commission: Schengen area](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en)
@@ -5079,9 +5076,9 @@ Passport and visa sound almost interchangeable, but they do different jobs: one 
 
 Your passport contains your name, date of birth, photo, and a unique passport number, issued by your government and recognised worldwide as proof of your citizenship.
 
-It works as your official identification for international travel. For most international trips you need it to leave your country and to be admitted abroad, although some regions accept other documents, such as national ID cards within Europe or a US passport card at land and sea crossings. Immigration officers examine it at borders, airlines require it for international flights, and customs officials check it when you arrive.
+It works as your official identification for international travel. For most international trips you need it to leave your country and to be admitted abroad, although some regions accept other documents, such as national ID cards within Europe or a [US passport card](https://www.cbp.gov/travel/us-citizens/western-hemisphere-travel-initiative) at land and sea crossings. Immigration officers examine it at borders, airlines require it for international flights, and customs officials check it when you arrive.
 
-Passports are typically valid for several years (often 10 years for adults, 5 years for children), though validity periods vary by country. When your passport expires, you cannot travel internationally and must apply for a renewal. Keeping track of that date matters more than most people expect, because many countries require at least 6 months of validity remaining before they'll let you in, so a passport that hasn't expired can still turn you away at the border. Your destination's embassy will confirm the exact rule it applies.
+Passports are typically valid for several years (often 10 years for adults, 5 years for children), though validity periods vary by country. When your passport expires, you cannot travel internationally and must apply for a renewal. Keeping track of that date matters more than most people expect, because many countries require [at least 6 months of validity remaining](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements) before they'll let you in, so a passport that hasn't expired can still turn you away at the border. Your destination's embassy will confirm the exact rule it applies.
 
 ## What Is a Visa
 
@@ -5116,7 +5113,7 @@ Most countries issue visas in these categories:
 - **Tourist visa:** The most common type, issued for leisure travel, sightseeing, and visiting friends or family.
 - **Work visa:** Required for employment abroad. Employers typically sponsor these, with specific restrictions on what work you're allowed to do.
 - **Student visa:** For studying at a recognised educational institution, often with restrictions on outside work and specific duration limits.
-- **Transit visa:** Required by some countries for passing through on your way to another destination - even if you're only changing planes.
+- **Transit visa:** Required by some countries for passing through on your way to another destination - [even if you're only changing planes](https://www.gov.uk/transit-visa).
 - **E-visa:** An electronic visa applied for online and typically stored in the destination country's system, linked to your passport number. Common in Southeast Asia and increasingly elsewhere.
 - **Visa on arrival:** Issued at your destination airport or border when you land. Processing is usually quick, though queues can be long, and not all countries offer this option.
 
@@ -5168,15 +5165,15 @@ The confusion is that your old passport has expired as a travel document, whilst
 
 ## Visa-Free Travel Still Has Limits
 
-Many nations have visa waiver or visa-free agreements with each other, allowing their citizens to cross borders without obtaining a visa in advance. The Schengen Area in Europe is the most well-known example: travellers can generally cross between its 29 member states without routine border checks, although some countries reintroduce temporary controls. Membership does change, so the European Commission's own Schengen pages are the place to confirm who is currently in. Southeast Asia, the Caribbean, and parts of Africa have similar schemes.
+Many nations have visa waiver or visa-free agreements with each other, allowing their citizens to cross borders without obtaining a visa in advance. The Schengen Area in Europe is the most well-known example: travellers can generally cross between its 29 member states without routine border checks, although some countries reintroduce temporary controls. Membership does change, so [the European Commission's own Schengen pages](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en) are the place to confirm who is currently in. Southeast Asia, the Caribbean, and parts of Africa have similar schemes.
 
-However, visa-free travel has limits. It typically applies only to tourism or short-term visits, not work or study. Visa-free periods are also limited, often 30 to 90 days depending on the country. If you exceed the permitted time, you become an illegal resident and face penalties including fines, deportation, or future entry bans.
+However, visa-free travel has limits. It typically applies only to tourism or short-term visits, not work or study. Visa-free periods are also limited, [often 30 to 90 days](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en) depending on the country. If you exceed the permitted time, you become an illegal resident and face penalties including fines, deportation, or future entry bans.
 
 Visa-free access also depends entirely on your nationality. Two people travelling together might have completely different requirements based on their passports, with one crossing visa-free while the other has to apply, so it's your own nationality that matters here, not a travel companion's experience.
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [European Commission: Schengen area](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en)
 - [European Commission: Short-stay calculator](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en)
@@ -5266,15 +5263,15 @@ Some airlines and border officers may ask to see proof of your first night's boo
 
 ### Vaccination certificates
 
-Certain destinations require proof of vaccination for yellow fever or other diseases, and requirements change periodically by destination. Check the WHO travel advice pages 4-8 weeks before travel, not the night before, and carry the original certificate rather than a copy, since some countries ask to see it.
+Certain destinations require proof of vaccination for yellow fever or other diseases, and requirements change periodically by destination. Check the [WHO travel advice pages](https://www.who.int/health-topics/travel-and-health) 4-8 weeks before travel, not the night before, and carry the original certificate rather than a copy, since some countries ask to see it.
 
 ### Travel insurance details
 
-You'll need immediate access to your policy number, issuer contact details, and your 24-hour emergency hotline. Some visa types explicitly require proof of travel insurance: Schengen visa applications, for example, require medical insurance covering emergency care and hospitalisation. But more importantly, if something goes wrong abroad, you need these details without relying on email or internet access.
+You'll need immediate access to your policy number, issuer contact details, and your 24-hour emergency hotline. Some visa types explicitly require proof of travel insurance: [Schengen visa applications](https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en), for example, require medical insurance covering emergency care and hospitalisation. But more importantly, if something goes wrong abroad, you need these details without relying on email or internet access.
 
 ### Child travel consent letters
 
-When a child travels internationally with only one parent (or with neither parent), many countries expect written consent from the absent parent, and notarisation is strongly recommended. Border officers and airline staff in many countries, Canada among them, may ask for one, and South Africa has its own rules for children entering the country, so check the destination's official page. Without a letter you can face delays or a refusal to board.
+When a child travels internationally with only one parent (or with neither parent), many countries expect written consent from the absent parent, and notarisation is strongly recommended. Border officers and airline staff in many countries, [Canada](https://travel.gc.ca/travelling/children/consent-letter) among them, may ask for one, and [South Africa](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements) has its own rules for children entering the country, so check the destination's official page. Without a letter you can face delays or a refusal to board.
 
 It's the most commonly overlooked document in family travel, so double-check before you reach the gate.
 
@@ -5341,7 +5338,7 @@ Pick the one document from this list you haven't backed up yet, whether that's y
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [UK Foreign Office: South Africa entry requirements](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements)
@@ -5398,7 +5395,7 @@ I was at immigration when the officer looked at my daughter's passport, paused, 
 
 "You know this expires in seven months, right?" he said. "Just so you're aware - some countries won't let you in with less than six months validity."
 
-I thanked him. We were fine - barely. But the whole trip I kept thinking: if he hadn't said something, I never would have noticed. Seven months felt like plenty. I'd checked the passport before booking. I'd just completely blanked on the six-month rule that many countries enforce.
+I thanked him. We were fine - barely. But the whole trip I kept thinking: if he hadn't said something, I never would have noticed. Seven months felt like plenty. I'd checked the passport before booking. I'd just completely blanked on the [six-month rule](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements) that many countries enforce.
 
 That close call stayed with me. I'd already set up calendar reminders for everyone's passport expiry dates. I thought that was enough. But I wasn't actually checking the dates - I was just trusting the reminders. And when someone's passport got renewed, I had to update the reminder, update the scan in Google Drive, and hope I hadn't missed anything.
 
@@ -5504,7 +5501,7 @@ Mustafa
 
 Founder, Travel Document Vault
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
 

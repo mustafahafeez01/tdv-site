@@ -22,7 +22,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/renew-passport-before-expir
 
 ## 更新护照并没有官方等待期
 
-HM Passport Office将更新与两种情形绑定：护照已经过期，或者剩余有效期不够支撑你此行的目的地。它的更新指南没有设定最早可申请的日期，并说明具体需要多少有效期取决于你要去的国家。USAGov建议美国人提前更新，因为处理时间会有波动，而一些国家和航空公司会在护照剩余有效期不足六个月时拒绝入境。
+HM Passport Office将更新与两种情形绑定：护照已经过期，或者剩余有效期不够支撑你此行的目的地。它的[更新指南](https://www.gov.uk/renew-adult-passport/renew)没有设定最早可申请的日期，并说明具体需要多少有效期取决于你要去的国家。[USAGov](https://www.usa.gov/renew-adult-passport)建议美国人提前更新，因为处理时间会有波动，而一些国家和航空公司会在护照剩余有效期不足六个月时拒绝入境。
 
 加拿大设有一条界线，而这条界线也并不算严格。加拿大政府表示，如果你在护照到期前一年以上申请更新，它会询问原因，邮寄申请还需要附上书面说明。它的在线更新服务范围更窄，只有在护照将于六个月内到期或已经过期时才能使用。
 
@@ -30,13 +30,13 @@ HM Passport Office将更新与两种情形绑定：护照已经过期，或者�
 
 ## 在英国提前更新，意味着要交还剩余的有效期
 
-这才是提前更新真正的代价，而它其实比听起来要小。HM Passport Office的历史指南说明，在2004年11月到2018年10月之间，提前更新的人最多可以把九个月的未使用有效期加到新护照上。自2018年10月起，这项做法已经取消，旧护照剩余的有效期也就直接作废了。
+这才是提前更新真正的代价，而它其实比听起来要小。HM Passport Office的[历史指南](https://www.gov.uk/government/publications/historic-passport-information-caseworker-guidance/historic-passport-information-accessible)说明，在2004年11月到2018年10月之间，提前更新的人最多可以把九个月的未使用有效期加到新护照上。自2018年10月起，这项做法已经取消，旧护照剩余的有效期也就直接作废了。
 
 也就是说，提前九个月申请，就是用这九个月去换一本接下来十年都不用操心的护照。我们每次都会做这笔交易，因为另一种选择是在行程已经定下来的情况下跟时间赛跑办理更新。
 
-旧的加时规则留下了一个隐患。GOV.UK关于西班牙的旅行提示警告说，2018年10月之前更新的护照，其签发日期可能已经超过十年。
+旧的加时规则留下了一个隐患。GOV.UK[关于西班牙的旅行提示](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements)警告说，2018年10月之前更新的护照，其签发日期可能已经超过十年。
 
-这一点很关键，因为欧盟的Your Europe指南规定，用于进入申根区的护照必须是近十年内签发的，并且在离开申根区后至少还要再有效三个月。一本从到期日来看没问题的护照，在欧洲仍然可能不够用。如果你的护照是在旧规则下更新的，不仅要查看到期日，也要查看签发日期，我们关于[护照有效期多久才能旅行](https://traveldocumentvault.com/zh-Hans/blog/how-long-is-passport-valid-for-travel/)的指南会详细说明这两点。
+这一点很关键，因为欧盟的[Your Europe指南](https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm)规定，用于进入申根区的护照必须是近十年内签发的，并且在离开申根区后至少还要再有效三个月。一本从到期日来看没问题的护照，在欧洲仍然可能不够用。如果你的护照是在旧规则下更新的，不仅要查看到期日，也要查看签发日期，我们关于[护照有效期多久才能旅行](https://traveldocumentvault.com/zh-Hans/blog/how-long-is-passport-valid-for-travel/)的指南会详细说明这两点。
 
 ## 新护照一经获批，旧护照就会失效
 
@@ -52,7 +52,7 @@ HM Passport Office将更新与两种情形绑定：护照已经过期，或者�
 
 在你下一次出行前，任何与旧号码绑定的事项都值得检查一遍：
 
-- **美国ESTA**需要重新申请。美国海关与边境保护局（CBP）表示，旅客一旦获发新护照，就需要申请新的ESTA。
+- **美国ESTA**需要重新申请。[美国海关与边境保护局](https://www.cbp.gov/travel/international-visitors/esta/frequently-asked-questions-about-visa-waiver-program-vwp-and-electronic-system-travel)（CBP）表示，旅客一旦获发新护照，就需要申请新的ESTA。
 - GOV.UK表示，**英国ETA**与你申请时所用的护照绑定，有效期为两年或至该护照到期为止，以较早者为准。在用新护照飞行前先确认自己的情况，我们关于[英国ETA与哪本护照绑定](https://traveldocumentvault.com/zh-Hans/blog/uk-eta-passport-rules/)的指南有详细说明。
 - 至于**旧护照上的签证**，通常的做法是新旧两本护照一起携带。旧护照上的签证通常仍然有效，所以请携带两本护照，并查看签发国的官方指引。
 - **用旧护照信息预订的机票和酒店**可能需要补充新号码，在家里操作很简单，在值机柜台才补就会很尴尬。
@@ -65,13 +65,13 @@ HM Passport Office将更新与两种情形绑定：护照已经过期，或者�
 
 另一半的关键在于，在这段窗口期里具体挑哪几周。留意那些完全没有安排行程的几周，因为旧护照要随申请一起提交，而寄回的新护照号码会不一样。
 
-HM Passport Office表示，通常三周内就能拿到护照，如果还需要补充材料或面谈则会更久，而这个时间是从它收到你的材料那一刻开始计算的。在加拿大，在线更新最长可能需要20个工作日，另加邮寄时间。关于哪些情况容易拖慢申请进度，我们的[护照更新需要多长时间](https://traveldocumentvault.com/zh-Hans/blog/how-long-does-passport-renewal-take/)指南有详细说明。
+[HM Passport Office](https://www.gov.uk/government/organisations/hm-passport-office/about/about-our-services)表示，通常三周内就能拿到护照，如果还需要补充材料或面谈则会更久，而这个时间是从它收到你的材料那一刻开始计算的。在加拿大，在线更新最长可能需要20个工作日，另加邮寄时间。关于哪些情况容易拖慢申请进度，我们的[护照更新需要多长时间](https://traveldocumentvault.com/zh-Hans/blog/how-long-does-passport-renewal-take/)指南有详细说明。
 
 如果家庭旅行已经在计划之中，不妨把家里每一本护照都拿出来一起核对。在英国，HM Passport Office给儿童护照签发的有效期是五年而不是十年，所以最先需要更新的往往不是你以为的那一本。如果有人要前往对入境有效期有额外要求的目的地，可以查看我们关于[6个月护照规则](https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rule/)的指南，了解这会如何影响你的更新时间。
 
 **在依据本文行动之前：**这是一个博客，不是官方来源。规则和细节会变化，你的情况也可能不同。我们会核对所发布的内容，但仍可能出错或过时。如果这里的内容对你的安排很重要，请在行动前向主管机构核实。
 
-我们核对过的资料来源（2026年11月6日）
+官方资料来源
 
 - [USAGov: Renew an adult passport](https://www.usa.gov/renew-adult-passport)
 - [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)

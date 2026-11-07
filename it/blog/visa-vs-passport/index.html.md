@@ -22,9 +22,9 @@ Passaporto e visto sembrano quasi intercambiabili, ma svolgono compiti diversi: 
 
 Il tuo passaporto contiene il tuo nome, data di nascita, foto e numero di passaporto unico — emesso dal tuo governo e riconosciuto in tutto il mondo come prova della tua cittadinanza.
 
-Funziona come la tua carta d'identità ufficiale per i viaggi internazionali. Per la maggior parte dei viaggi internazionali serve per lasciare il tuo paese e per essere ammesso all'estero, anche se alcune regioni accettano altri documenti, come le carte d'identità nazionali in Europa o la passport card USA ai valichi terrestri e marittimi. Gli ufficiali di immigrazione lo esaminano ai confini, le compagnie aeree lo richiedono per i voli internazionali, e gli ufficiali doganali lo controllano quando arrivi.
+Funziona come la tua carta d'identità ufficiale per i viaggi internazionali. Per la maggior parte dei viaggi internazionali serve per lasciare il tuo paese e per essere ammesso all'estero, anche se alcune regioni accettano altri documenti, come le carte d'identità nazionali in Europa o la [passport card USA](https://www.cbp.gov/travel/us-citizens/western-hemisphere-travel-initiative) ai valichi terrestri e marittimi. Gli ufficiali di immigrazione lo esaminano ai confini, le compagnie aeree lo richiedono per i voli internazionali, e gli ufficiali doganali lo controllano quando arrivi.
 
-I passaporti sono tipicamente validi per diversi anni (spesso 10 anni per gli adulti, 5 anni per i bambini), sebbene i periodi di validità varino a seconda del paese. Quando il tuo passaporto scade, non puoi viaggiare internazionalmente e devi richiedere un rinnovo. Tenere traccia della data di scadenza del tuo passaporto è critico poiché molti paesi richiedono almeno 6 mesi di validità rimanente prima di permetterti di entrare.
+I passaporti sono tipicamente validi per diversi anni (spesso 10 anni per gli adulti, 5 anni per i bambini), sebbene i periodi di validità varino a seconda del paese. Quando il tuo passaporto scade, non puoi viaggiare internazionalmente e devi richiedere un rinnovo. Tenere traccia della data di scadenza del tuo passaporto è critico poiché molti paesi richiedono [almeno 6 mesi di validità rimanente](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements) prima di permetterti di entrare.
 
 ## Che Cos'è un Visto
 
@@ -59,7 +59,7 @@ La maggior parte dei paesi emette visti in queste categorie:
 - **Visto turistico:** Il tipo più comune, emesso per viaggi per piacere, turismo e visita di amici o familiari.
 - **Visto di lavoro:** Richiesto per l'occupazione all'estero. I datori di lavoro in genere sponsorizzano questi, con restrizioni specifiche su quale lavoro ti è permesso fare.
 - **Visto per studenti:** Per studiare in un istituto educativo riconosciuto, spesso con restrizioni su lavori esterni e limiti di durata specifici.
-- **Visto di transito:** Richiesto da alcuni paesi per passare attraverso il tuo percorso verso un'altra destinazione, anche se stai solo cambiando aereo.
+- **Visto di transito:** Richiesto da alcuni paesi per passare attraverso il tuo percorso verso un'altra destinazione, [anche se stai solo cambiando aereo](https://www.gov.uk/transit-visa).
 - **E-visto:** Un visto elettronico richiesto online e di solito archiviato nel sistema del paese di destinazione, collegato al tuo numero di passaporto. Comune nel Sud-Est asiatico e sempre più altrove.
 - **Visto all'arrivo:** Emesso al tuo aeroporto di destinazione o confine quando arrivi. L'elaborazione è solitamente veloce, anche se le code possono essere lunghe, e non tutti i paesi offrono questa opzione.
 
@@ -109,13 +109,13 @@ La confusione nasce dal fatto che il tuo vecchio passaporto è scaduto come docu
 
 Molte nazioni hanno accordi di esenzione dai visti o di viaggio senza visto tra loro, permettendo ai loro cittadini di attraversare i confini senza ottenere un visto in anticipo. L'Area Schengen in Europa è l'esempio più noto — di norma i viaggiatori possono spostarsi tra i suoi 29 stati membri senza controlli di frontiera ordinari, anche se alcuni paesi reintroducono controlli temporanei. Il Sud-Est asiatico, i Caraibi e parti dell'Africa hanno schemi simili.
 
-Tuttavia, i viaggi senza visto hanno limiti. Si applicano tipicamente solo al turismo o a visite a breve termine, non al lavoro o agli studi. I periodi di viaggio senza visto sono anche limitati, spesso da 30 a 90 giorni a seconda del paese. Se superi il tempo consentito, diventi un residente illegale e affronti sanzioni incluse multe, deportazione o divieti di ingresso futuri.
+Tuttavia, i viaggi senza visto hanno limiti. Si applicano tipicamente solo al turismo o a visite a breve termine, non al lavoro o agli studi. I periodi di viaggio senza visto sono anche limitati, [spesso da 30 a 90 giorni](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en) a seconda del paese. Se superi il tempo consentito, diventi un residente illegale e affronti sanzioni incluse multe, deportazione o divieti di ingresso futuri.
 
 L'accesso senza visto dipende interamente dalla tua nazionalità. Due persone che viaggiano insieme potrebbero avere requisiti completamente diversi in base ai loro passaporti, con uno che entra senza visto mentre l'altro deve farne richiesta, quindi conta la tua nazionalità, non l'esperienza di chi viaggia con te.
 
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 
-Fonti che abbiamo verificato (6 novembre 2026)
+Fonti ufficiali
 
 - [European Commission: Schengen area](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en)
 - [European Commission: Short-stay calculator](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en)

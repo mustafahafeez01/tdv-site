@@ -36,7 +36,7 @@ Vérifiez partout avant de supposer le pire — les poches de votre veste, chaqu
 
 ## Étape 2 — Déposez un rapport de police immédiatement
 
-Allez au poste de police le plus proche et signalez le passeport perdu ou volé. Votre assureur le demandera généralement pour une réclamation, et certaines ambassades en demandent un aussi, mais pas toutes : le Gouvernement du Canada, par exemple, indique qu'il n'est pas requis pour remplacer un passeport. Nous le ferions dans l'heure si possible, tant que les détails sont encore frais dans votre mémoire.
+Allez au poste de police le plus proche et signalez le passeport perdu ou volé. Votre assureur le demandera généralement pour une réclamation, et certaines ambassades en demandent un aussi, mais pas toutes : [le Gouvernement du Canada](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings), par exemple, indique qu'il n'est pas requis pour remplacer un passeport. Nous le ferions dans l'heure si possible, tant que les détails sont encore frais dans votre mémoire.
 
 Demandez une copie écrite avec un numéro de dossier. Demandez une version anglaise ou une traduction si possible. Prenez une photo et conservez plusieurs copies en sécurité.
 
@@ -53,7 +53,7 @@ Appelez avant de vous déplacer. Certaines ambassades exigent un rendez-vous pou
 
 ## Étape 4 — Demandez un document de voyage d'urgence
 
-Votre ambassade délivre un document de voyage d'urgence (DTU) ou un passeport d'urgence, généralement valable pour un seul voyage vers la maison. Le délai de délivrance dépend du poste consulaire et de l'urgence de votre situation, alors renseignez-vous lorsque vous appelez.
+Votre ambassade délivre un [document de voyage d'urgence (DTU)](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport) ou un passeport d'urgence, généralement valable pour un seul voyage vers la maison. Le délai de délivrance dépend du poste consulaire et de l'urgence de votre situation, alors renseignez-vous lorsque vous appelez.
 
 Ce dont vous aurez généralement besoin (confirmez avec votre ambassade avant de visiter):
 
@@ -84,12 +84,11 @@ Une fois que vous avez votre document de voyage d'urgence, confirmez les exigenc
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
-Sources vérifiées (6 novembre 2026)
+Sources officielles
 
 - [Government of Canada: Lost or stolen belongings abroad](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings)
 - [UK Government: Travel urgently from abroad without your UK passport, How to apply](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport/how-to-apply)
 - [UK Government: Travel urgently from abroad without your UK passport, Who can apply](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport)
-- [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
 
 ## Questions fréquemment posées
 
@@ -103,7 +102,7 @@ Oui. De nombreux pays délivrent des documents de voyage d'urgence par l'interm�
 
 ### Ai-je besoin d'un rapport de police si mon passeport est volé à l'étranger?
 
-Cela vaut généralement la peine d'en obtenir un, même si toutes les autorités de passeport ne l'exigent pas. Le Gouvernement du Canada indique qu'un rapport de police n'est pas requis pour remplacer un passeport, mais qu'il peut aider pour une réclamation d'assurance, et GOV.UK n'en mentionne aucun pour une demande de document de voyage d'urgence britannique. Certaines ambassades en demandent un, et la plupart des assureurs voyage l'exigent pour une réclamation. Obtenez-le au poste de police local immédiatement, demandez une copie en anglais si possible, et conservez plusieurs copies.
+Cela vaut généralement la peine d'en obtenir un, même si toutes les autorités de passeport ne l'exigent pas. Le Gouvernement du Canada indique qu'un rapport de police n'est pas requis pour remplacer un passeport, mais qu'il peut aider pour une réclamation d'assurance, et [GOV.UK](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport/how-to-apply) n'en mentionne aucun pour une demande de document de voyage d'urgence britannique. Certaines ambassades en demandent un, et la plupart des assureurs voyage l'exigent pour une réclamation. Obtenez-le au poste de police local immédiatement, demandez une copie en anglais si possible, et conservez plusieurs copies.
 
 ### L'assurance voyage couvrira-t-elle un passeport perdu ou volé?
 

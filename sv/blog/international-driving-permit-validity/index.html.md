@@ -30,9 +30,9 @@ Det här lurar folk oftare än utgångsdatumen gör. Tillståndet ser ut som den
 
 ## Två konventioner avgör hur länge det gäller och var det fungerar
 
-Tre internationella överenskommelser ligger bakom internationella körkort, och länder har anslutit sig till en eller flera av dem. Två av dem sköter nästan allt arbete: 1949 års Genèvekonvention och 1968 års Wienkonvention. Ett äldre tillstånd enligt 1926 års Pariskonvention finns också, och ett fåtal resmål listar det fortfarande. Kontrollera det tryckta utgångsdatumet på tillståndet.
+[Tre internationella överenskommelser](https://www.gov.uk/driving-abroad/international-driving-permit) ligger bakom internationella körkort, och länder har anslutit sig till en eller flera av dem. Två av dem sköter nästan allt arbete: 1949 års Genèvekonvention och 1968 års Wienkonvention. Ett äldre tillstånd enligt 1926 års Pariskonvention finns också, och ett fåtal resmål listar det fortfarande. Kontrollera det tryckta utgångsdatumet på tillståndet.
 
-Ett tillstånd utfärdat enligt 1949 års Genèvekonvention gäller i ett år. Ett tillstånd utfärdat enligt 1968 års Wienkonvention kan gälla i upp till tre år.
+Ett tillstånd utfärdat enligt 1949 års Genèvekonvention [gäller i ett år](https://travel.gc.ca/travelling/documents/international-driving-permit). Ett tillstånd utfärdat enligt 1968 års Wienkonvention kan gälla i upp till tre år.
 
 Uppdelningen spelar roll på två sätt. Den avgör hur länge ditt tillstånd gäller, och den avgör var tillståndet godtas. Ett land som bara har ratificerat en av konventionerna är inte skyldigt att erkänna ett tillstånd utfärdat enligt den andra, vilket är hur ett tillstånd som fungerade på förra årets resa blir avvisat på den här.
 
@@ -46,7 +46,7 @@ Uppdelningen spelar roll på två sätt. Den avgör hur länge ditt tillstånd g
 
 ## Tillståndet på tre år som sällan varar tre år
 
-De där tre åren har ett villkor som är lätt att missa. Ett Wien-tillstånd upphör att gälla när ditt nationella körkort går ut, om det datumet infaller först.
+De där tre åren har ett villkor som är lätt att missa. Ett Wien-tillstånd [upphör att gälla när ditt nationella körkort går ut](https://treaties.un.org/doc/Treaties/1977/05/19770524%2000-13%20AM/Ch_XI_B_19.pdf), om det datumet infaller först.
 
 Säg att ditt körkort har 14 månader kvar och du får ett tillstånd på tre år. Tillståndet är då användbart i 14 månader. Datumet som står tryckt på framsidan har inte företräde framför körkortet bakom det.
 
@@ -68,7 +68,7 @@ Det är det praktiska argumentet för att hålla alla tre datum på ett och samm
 
 Vi skulle kontrollera dem i den här ordningen, och körkortets datum före allt som står tryckt på tillståndet.
 
-**Om du överhuvudtaget behöver ett tillstånd.** Vissa länder godtar ett nationellt körkort på egen hand, och det är landet du kör i som avgör kravet, inte det som utfärdade ditt körkort.
+**Om du överhuvudtaget behöver ett tillstånd.** [Vissa länder godtar ett nationellt körkort på egen hand](https://www.gov.uk/driving-abroad), och det är landet du kör i som avgör kravet, inte det som utfärdade ditt körkort.
 
 **Vilken konvention ditt resmål erkänner**, och kontrollera sedan ditt tillstånd mot den (konventionen står tryckt på handlingen).
 
@@ -102,7 +102,7 @@ Ta fram ditt körkort och ditt tillstånd, om du har ett, redan i dag och lägg 
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du agerar.
 
-Källor vi har kontrollerat (6 november 2026)
+Officiella källor
 
 - [United Nations Treaty Collection: Convention on Road Traffic (1968)](https://treaties.un.org/doc/Treaties/1977/05/19770524%2000-13%20AM/Ch_XI_B_19.pdf)
 - [UK Government: driving abroad, international driving permits](https://www.gov.uk/driving-abroad/international-driving-permit)

@@ -19,7 +19,7 @@ Source: https://traveldocumentvault.com/ko/blog/us-child-passport-renewal-under-
 
 16세 미만 어린이에게 발급된 미국 여권은 갱신할 수 없습니다. 유효기간이 끝나면 처음 신청했을 때와 같은 방식으로 본인이 직접 방문해 새 여권을 신청하고, 부모 모두 다시 참여합니다. 성인 갱신보다 서류가 더 많이 필요하지만, 한 번 해 본 적이 있다면 새로울 것은 없습니다.
 
-연방 여권 규정은 16세를 기준으로 삼습니다. 우편이나 온라인 갱신은 가장 최근 여권이 16세 이상일 때 발급된 경우에만 가능하므로, 그 전에 받은 여권은 모두 새로 신청하는 것으로 끝납니다. 아기 때 첫 여권을 받은 아이는 16세가 되기 전까지 네 번 신청할 수도 있으며, 매번 부모 모두가 참여합니다.
+[연방 여권 규정](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-F/part-51)은 16세를 기준으로 삼습니다. 우편이나 온라인 갱신은 가장 최근 여권이 16세 이상일 때 발급된 경우에만 가능하므로, 그 전에 받은 여권은 모두 새로 신청하는 것으로 끝납니다. 아기 때 첫 여권을 받은 아이는 16세가 되기 전까지 네 번 신청할 수도 있으며, 매번 부모 모두가 참여합니다.
 
 ## 16세 전에 발급된 여권은 5년간 유효합니다
 
@@ -69,7 +69,7 @@ Source: https://traveldocumentvault.com/ko/blog/us-child-passport-renewal-under-
 
 차이를 만드는 것은 일찍 시작하는 것입니다. 아이의 여권이 만료되기 약 9개월 전에 시작하면, 부모 모두 참석할 수 있는 예약을 찾고 필요한 공증 진술서에 서명을 받을 시간이 충분하며, 다시 해야 할 일이 생겨도 여유가 있습니다. 시기에 관해서는 [여권, 만료 전에 갱신해도 될까요?](https://traveldocumentvault.com/ko/blog/renew-passport-before-expiry/) 글에서 더 자세히 다룹니다.
 
-확인한 출처 (2026년 11월 6일)
+공식 출처
 
 - [US eCFR: 22 CFR Part 51 (passports)](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-F/part-51)
 

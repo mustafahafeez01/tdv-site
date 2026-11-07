@@ -39,9 +39,9 @@ La trampa está en el punto intermedio. Una escala que sobre el papel parece que
 
 Los visados de tránsito son obligatorios en varias circunstancias, y los requisitos varían mucho según tu nacionalidad y el país de tránsito.
 
-El **Visado de Tránsito Aeroportuario Schengen (ATV)** se aplica a determinados titulares de pasaportes de fuera de la UE que hacen conexiones sin salir del lado aire en aeropuertos Schengen (en algunos casos los Estados miembros pueden añadir nacionalidades), aunque muchas nacionalidades están exentas, y también algunos titulares de visado o de permiso de residencia. Como la lista de exenciones es compleja y cambia periódicamente, no puedes dar por hecho que estás exento. La base de datos del IATA Travel Centre recoge las normas vigentes para tu nacionalidad y destino concretos, así que consúltala en lugar de suponer algo basándote en lo que sabes de otros países.
+El **Visado de Tránsito Aeroportuario Schengen (ATV)** se aplica a [determinados titulares de pasaportes de fuera de la UE](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0810) que hacen conexiones sin salir del lado aire en aeropuertos Schengen (en algunos casos los Estados miembros pueden añadir nacionalidades), aunque muchas nacionalidades están exentas, y también algunos titulares de visado o de permiso de residencia. Como la lista de exenciones es compleja y cambia periódicamente, no puedes dar por hecho que estás exento. La base de datos del IATA Travel Centre recoge las normas vigentes para tu nacionalidad y destino concretos, así que consúltala en lugar de suponer algo basándote en lo que sabes de otros países.
 
-El **Reino Unido** ofrece tránsito por el lado aire sin visado a muchos viajeros, pero otros necesitan lo que ahora se denomina Direct Airside Transit Visa (DATV). Igual que en el caso Schengen, la exención depende principalmente de tu nacionalidad, no solo de tu destino, y GOV.UK indica que no necesitas un visado de tránsito si tienes una autorización electrónica de viaje (ETA) del Reino Unido.
+El **Reino Unido** ofrece tránsito por el lado aire sin visado a muchos viajeros, pero otros necesitan lo que ahora se denomina Direct Airside Transit Visa (DATV). Igual que en el caso Schengen, la exención depende principalmente de tu nacionalidad, no solo de tu destino, y [GOV.UK](https://www.gov.uk/transit-visa) indica que no necesitas un visado de tránsito si tienes una autorización electrónica de viaje (ETA) del Reino Unido.
 
 En la mayoría de los casos, los pasajeros en conexión que llegan a **Estados Unidos** pasan por inmigración y aduanas estadounidenses antes de su siguiente vuelo. En la práctica, esto depende de las normas de entrada de EE. UU. más que de las normas de tránsito, así que consúltalas pronto para tu pasaporte e inclúyelas en tu plan de viaje desde el principio.
 
@@ -75,7 +75,7 @@ Si viajas en familia, comprueba el pasaporte de cada miembro por separado. Una s
 
 Antes de reservar, pasa por el IATA Travel Centre toda tu ruta, no solo el destino. Es la comprobación con más probabilidades de detectar un requisito que falta cuando todavía puedes cambiar la reserva.
 
-Fuentes que hemos comprobado (6 de noviembre de 2026)
+Fuentes oficiales
 
 - [UK Government: Visa to pass through the UK in transit](https://www.gov.uk/transit-visa)
 - [EU law: Visa Code (Regulation 810/2009)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0810)
@@ -109,7 +109,7 @@ Ponte en contacto con tu aerolínea de inmediato y comprueba el plazo de tramita
 
 ### ¿Cuánto tiempo es válido un visado de tránsito?
 
-La validez del visado de tránsito varía según el país. El Visitor in Transit Visa del Reino Unido, por ejemplo, cubre una estancia de hasta 48 horas. Guarda y controla la fecha de caducidad de tu visado de tránsito junto con tu pasaporte y tu visado de entrada principal.
+La validez del visado de tránsito varía según el país. El [Visitor in Transit Visa](https://www.gov.uk/transit-visa/visitor-in-transit-visa) del Reino Unido, por ejemplo, cubre una estancia de hasta 48 horas. Guarda y controla la fecha de caducidad de tu visado de tránsito junto con tu pasaporte y tu visado de entrada principal.
 
 ## Artículos Relacionados
 

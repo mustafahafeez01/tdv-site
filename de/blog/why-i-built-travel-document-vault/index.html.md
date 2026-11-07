@@ -12,7 +12,7 @@ Ich stand an der Einreisekontrolle, als der Beamte den Reisepass meiner Tochter 
 
 „Sie wissen, dass dieser in sieben Monaten abläuft, oder?", sagte er. „Nur zur Information – manche Länder lassen Sie mit weniger als sechs Monaten Restgültigkeit nicht einreisen."
 
-Ich bedankte mich. Wir kamen gerade noch durch. Aber während der gesamten Reise musste ich immer wieder daran denken: Hätte er nichts gesagt, hätte ich es nie bemerkt. Sieben Monate erschienen mir wie reichlich Zeit. Ich hatte den Reisepass vor der Buchung überprüft. Aber ich hatte die Sechs-Monats-Regel, die viele Länder durchsetzen, völlig aus dem Blick verloren.
+Ich bedankte mich. Wir kamen gerade noch durch. Aber während der gesamten Reise musste ich immer wieder daran denken: Hätte er nichts gesagt, hätte ich es nie bemerkt. Sieben Monate erschienen mir wie reichlich Zeit. Ich hatte den Reisepass vor der Buchung überprüft. Aber ich hatte die [Sechs-Monats-Regel](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), die viele Länder durchsetzen, völlig aus dem Blick verloren.
 
 Dieser Beinahe-Unfall ließ mich nicht los. Ich hatte bereits Kalendererinnerungen für die Ablaufdaten aller Reisepässe eingerichtet. Ich dachte, das würde reichen. Doch tatsächlich überprüfte ich die Daten gar nicht – ich verließ mich einfach auf die Erinnerungen. Und wenn jemanden seinen Reisepass erneuerte, musste ich die Erinnerung aktualisieren, den Scan in Google Drive aktualisieren und hoffen, dass mir nichts entgangen war.
 
@@ -118,7 +118,7 @@ Mustafa
 
 Gründer, Travel Document Vault
 
-Quellen, die wir geprüft haben (6. November 2026)
+Offizielle Quellen
 
 - [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
 

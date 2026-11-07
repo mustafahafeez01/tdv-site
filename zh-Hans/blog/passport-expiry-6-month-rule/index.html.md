@@ -37,7 +37,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rul
 
 有时候可以。如果目的地只要求护照在您逗留期间保持有效，那么剩余5个月的有效期通常足以让您入境。英国对大多数访客就是这样处理的，而申根国家一般要求护照有效期比您计划的离境日期多出3个月，而不是6个月。
 
-如果目的地执行6个月规则，那就不行。泰国、印度尼西亚、越南以及许多其他国家通常会拒绝入境，而且航空公司往往在您抵达边境之前很久就已经拒绝您登机。
+如果目的地执行6个月规则，那就不行。泰国、[印度尼西亚](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements)、越南以及许多其他国家通常会拒绝入境，而且航空公司往往在您抵达边境之前很久就已经拒绝您登机。
 
 所以答案取决于您要去哪里，而不是护照本身。请在预订当天查看目的地的要求，并在出发前一周再次核实。
 
@@ -54,12 +54,12 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rul
 | 菲律宾 | 6个月 | 加上需要回程或继续旅行机票 |
 | 印度 | 6个月 | 大多数国籍还需要签证 |
 | 肯尼亚 | 6个月 | 需要电子签证；6个月规则适用 |
-| 土耳其 | 抵达后150天 | 英国外交部：护照到期日至少在抵达日之后150天 |
+| 土耳其 | 抵达后150天 | [英国外交部](https://www.gov.uk/foreign-travel-advice/turkey/entry-requirements)：护照到期日至少在抵达日之后150天 |
 | 欧盟/申根区 | 离境后3个月 | 另外护照签发日期须在10年以内 |
 | 英国 | 仅限逗留期 | 英国公民在国外仍受目的地国家规则约束 |
 | 美国 | 仅限逗留期 | 美国公民在国外受目的地国家规则约束 |
 | 日本/澳大利亚 | 仅限逗留期 | 访客无6个月延期规则 |
-| 新西兰 | 离境后3个月 | 英国外交部：护照到期日至少在计划离开当天之后3个月 |
+| 新西兰 | 离境后3个月 | [英国外交部](https://www.gov.uk/foreign-travel-advice/new-zealand/entry-requirements)：护照到期日至少在计划离开当天之后3个月 |
 
 这并不是一个详尽的列表，要求因您的国籍而异，不仅仅取决于目的地。在预订前请始终检查您政府的官方旅行建议。
 
@@ -69,9 +69,9 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rul
 
 ## 6个月规则不适用的情况
 
-许多目的地除了您的行程日期之外别无其他要求。英国外交部对日本的说法很直白：您的护照只需在您逗留期间保持有效，不需要额外的有效期。澳大利亚和美国采用相同的标准，只要求护照在您计划逗留期间保持有效。
+许多目的地除了您的行程日期之外别无其他要求。[英国外交部](https://www.gov.uk/foreign-travel-advice/japan/entry-requirements)对日本的说法很直白：您的护照只需在您逗留期间保持有效，不需要额外的有效期。[澳大利亚](https://www.gov.uk/foreign-travel-advice/australia/entry-requirements)和[美国](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements)采用相同的标准，只要求护照在您计划逗留期间保持有效。
 
-欧洲介于两者之间，也是人们最常误读的一档。前往申根地区，英国外交部表示您的护照到期日必须至少在您计划离境之日后三个月。是三个月，而不是六个月。
+欧洲介于两者之间，也是人们最常误读的一档。前往申根地区，[英国外交部](https://www.gov.uk/foreign-travel-advice/france/entry-requirements)表示您的护照到期日必须至少在您计划离境之日后三个月。是三个月，而不是六个月。
 
 申根地区还有第二项条件，比第一项更容易让人栽跟头：您的护照签发日期必须在您抵达之日前不到十年。两项条件都必须满足，一本护照可能满足其中一项，却不满足另一项。
 
@@ -121,7 +121,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rul
 
 **在依据本文行动之前：**这是一个博客，不是官方来源。规则和细节会变化，你的情况也可能不同。我们会核对所发布的内容，但仍可能出错或过时。如果这里的内容对你的安排很重要，请在行动前向主管机构核实。
 
-我们核对过的资料来源（2026年11月6日）
+官方资料来源
 
 - [UK Foreign Office: USA entry requirements](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements)
 - [UK Foreign Office: France entry requirements](https://www.gov.uk/foreign-travel-advice/france/entry-requirements)

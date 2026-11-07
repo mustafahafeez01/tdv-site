@@ -11,9 +11,9 @@ Source: https://traveldocumentvault.com/sv/blog/digital-passport-copy-valid/
 ## Viktiga punkter
 
 - Digitala passkopior accepteras vid **hotellincheckning, flygbokningar och bilhyresbokningar**, men inte vid gränsen eller för ombordstigning.
-- Vid internationella resor behöver du i regel **originalpasset** vid gränsen och för ombordstigning. Vissa resvägar godtar i stället ett nationellt ID-kort (till exempel för EU-medborgare som reser inom EU), men aldrig en kopia.
+- Vid internationella resor behöver du i regel **originalpasset** vid gränsen och för ombordstigning. Vissa resvägar godtar i stället ett nationellt ID-kort (till exempel för [EU-medborgare som reser inom EU](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm)), men aldrig en kopia.
 - Digitala kopior har **ingen juridisk status som resehandling**. De är enbart kompletterande underlag.
-- Visumansökningar kräver **specifika format**. Vissa kräver bestyrkta eller notariserade kopior, medan andra (många e-visum) godtar en tydlig skanning av fotosidan. Ett vanligt mobilfoto underkänns ofta. Kontrollera ambassadens webbplats först.
+- Visumansökningar kräver **specifika format**. Vissa kräver bestyrkta eller notariserade kopior, medan andra ([många e-visum](https://indianvisaonline.gov.in/evisa/tvoa.html)) godtar en tydlig skanning av fotosidan. Ett vanligt mobilfoto underkänns ofta. Kontrollera ambassadens webbplats först.
 - Tappar du passet utomlands kan en kopia av fotosidan **hjälpa din ambassad att bekräfta dina uppgifter** när du ansöker om en ersättningshandling.
 
 Inför en resa undrar många resenärer om de kan spara en digital kopia av passet på telefonen i stället för att bära originalet. Du behöver veta exakt var den fungerar och var den inte gör det, så att du inte blir stående vid incheckningen.
@@ -22,11 +22,11 @@ Det korta svaret: en digital kopia är genuint användbar, men bara i specifika 
 
 ## En digital kopia är ett foto av ditt pass, inte ett digitalt pass
 
-En digital kopia av ett pass är **en skanning eller ett mobilfoto av dess identitetssida**, sidan med ditt foto, namn, födelsedatum, passnummer och utgångsdatum. Den registrerar dina uppgifter utan att ersätta handlingen. Kanadas regering säger det rakt ut i sina reseråd: kopior kan hjälpa om dina handlingar tappas bort eller stjäls, men de kan inte användas som identitetsbevis, och du måste ändå ansöka om ett nytt pass om du tappar ditt.
+En digital kopia av ett pass är **en skanning eller ett mobilfoto av dess identitetssida**, sidan med ditt foto, namn, födelsedatum, passnummer och utgångsdatum. Den registrerar dina uppgifter utan att ersätta handlingen. [Kanadas regering](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings) säger det rakt ut i sina reseråd: kopior kan hjälpa om dina handlingar tappas bort eller stjäls, men de kan inte användas som identitetsbevis, och du måste ändå ansöka om ett nytt pass om du tappar ditt.
 
-Att göra en tar ett par minuter. Lägg passet plant i bra ljus, fotografera eller skanna identitetssidan så att hela sidan är skarp, zooma sedan in och kontrollera att du kan läsa varje detalj. Gör samma sak för alla viseringar du reser på. Storbritanniens checklista för utlandsresor rekommenderar en backup av dina passuppgifter som du delar med familjen eller förvarar på en säker datalagringsplattform.
+Att göra en tar ett par minuter. Lägg passet plant i bra ljus, fotografera eller skanna identitetssidan så att hela sidan är skarp, zooma sedan in och kontrollera att du kan läsa varje detalj. Gör samma sak för alla viseringar du reser på. [Storbritanniens checklista för utlandsresor](https://www.gov.uk/guidance/foreign-travel-checklist) rekommenderar en backup av dina passuppgifter som du delar med familjen eller förvarar på en säker datalagringsplattform.
 
-En kopia är heller inte samma sak som de digitala ID:n som vissa myndigheter numera accepterar. I USA låter transportsäkerhetsmyndigheten TSA amerikanska passinnehavare skapa ett ID-pass i Google Wallet för sina säkerhetskontroller på flygplatser, men den säger ändå att alla resenärer måste bära ett godkänt fysiskt ID. Ett foto i kamerarullen är en backup av dina uppgifter, och det är precis så du bör behandla det.
+En kopia är heller inte samma sak som de digitala ID:n som vissa myndigheter numera accepterar. I USA låter [transportsäkerhetsmyndigheten TSA](https://www.tsa.gov/digital-id) amerikanska passinnehavare skapa ett ID-pass i Google Wallet för sina säkerhetskontroller på flygplatser, men den säger ändå att alla resenärer måste bära ett godkänt fysiskt ID. Ett foto i kamerarullen är en backup av dina uppgifter, och det är precis så du bör behandla det.
 
 ## Var digitala passkopior accepteras
 
@@ -89,7 +89,7 @@ Har du inte gjort någon kopia ännu, skanna passets fotosida redan i dag, innan
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 
-Källor vi har kontrollerat (6 november 2026)
+Officiella källor
 
 - [Government of Canada: Lost or stolen belongings abroad](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings)
 - [UK Government: Foreign travel checklist](https://www.gov.uk/guidance/foreign-travel-checklist)

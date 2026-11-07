@@ -21,13 +21,13 @@ ESTAは通常、承認された日から2年間、またはそれに紐づくパ
 
 ## ESTAは2年、またはパスポートの期限が切れるまで
 
-US Customs and Border Protection（CBP）がこの規則を定めています。承認されたESTAは、通常は承認日から2年間、またはパスポートの期限が切れるまでのいずれか早い方まで有効です。つまり残り14か月のパスポートなら、ESTAも残り14か月になります。承認画面には正確な期限日が表示されるため、自分で計算する必要はありません。
+[US Customs and Border Protection（CBP）](https://www.cbp.gov/travel/international-visitors/esta/frequently-asked-questions-about-visa-waiver-program-vwp-and-electronic-system-travel)がこの規則を定めています。承認されたESTAは、通常は承認日から2年間、またはパスポートの期限が切れるまでのいずれか早い方まで有効です。つまり残り14か月のパスポートなら、ESTAも残り14か月になります。承認画面には正確な期限日が表示されるため、自分で計算する必要はありません。
 
 ![ESTAが使えなくなるタイミングの図。2年で期限が切れるか、パスポートが期限切れになるか、いずれか早い方で失効する。赤ちゃんや子どもも含め、全員に自分のESTAが必要で、それぞれ自分のパスポートに紐づく。新しいパスポート、新しい名前、新しい国籍の場合は再度申請が必要](https://traveldocumentvault.com/blog/how-long-is-esta-valid/esta-clock-ja.jpg) 旅行者一人につき一つの時計、パスポートより長くは続かない。
 
 CBPはまた、ESTAの期限が30日以内に切れる場合、申請時に登録したアドレスにメールを送ります。このメールだけに頼るのはおすすめしません。迷惑メールや使っていないメールボックスに届くこともあるため、予約の際に目に入る場所に期限日をメモしておきましょう。
 
-この2年の間は、1つのESTAで何度でも渡航できます。ビザ免除プログラムでの滞在は1回につき90日以内という制限があり、CBPは2年間の承認が2年間の滞在を意味するわけではないと明言しています。
+この2年の間は、1つのESTAで何度でも渡航できます。[ビザ免除プログラム](https://www.cbp.gov/travel/international-visitors/visa-waiver-program)での滞在は1回につき90日以内という制限があり、CBPは2年間の承認が2年間の滞在を意味するわけではないと明言しています。
 
 唯一の例外はブルネイで、CBPはブルネイの市民および国民のESTA有効期間を1年に短縮しています。
 
@@ -41,7 +41,7 @@ CBPによると、ESTAはアメリカに入国する時点で有効であれば�
 
 延長はありません。CBPは既存の承認を延長することはできないとしており、期限が切れるのを待たずに再申請することもできます。新しい申請は古い申請を取り消し、それに代わるものになります。
 
-CBPは旅行を予約した時点で申請することを勧めており、これは身につけておく価値のある習慣です。ESTAの期限が旅行の数週間前に切れる場合は、出発する週ではなく、旅行を予約した日に申請しましょう。
+[CBPは旅行を予約した時点で申請することを勧めて](https://www.cbp.gov/newsroom/national-media-release/cbp-reminds-travelers-allow-72-hours-esta)おり、これは身につけておく価値のある習慣です。ESTAの期限が旅行の数週間前に切れる場合は、出発する週ではなく、旅行を予約した日に申請しましょう。
 
 ## 新しいESTAが必要になる4つの変化
 
@@ -62,7 +62,7 @@ CBPによると、何歳の子どもでも自分自身のESTA承認が必要で�
 
 ## 料金は10月16日に上がったが、既存の承認には影響なし
 
-2026年10月1日に公表されたFederal Registerの通知によると、ESTAの料金は2026年10月16日にUS $40.27からUS $40.62に引き上げられました。すでに有効な承認済みのESTAをお持ちの場合、CBPは再申請の必要はないとしています。新しい金額を支払うのは次に申請するときだけです。
+2026年10月1日に公表された[Federal Registerの通知](https://www.govinfo.gov/content/pkg/FR-2026-10-01/html/2026-20185.htm)によると、ESTAの料金は2026年10月16日にUS $40.27からUS $40.62に引き上げられました。すでに有効な承認済みのESTAをお持ちの場合、CBPは再申請の必要はないとしています。新しい金額を支払うのは次に申請するときだけです。
 
 同じ通知では、申請が却下された場合の料金をUS $10.62に設定しており、これは処理費用をカバーするものです。
 
@@ -70,7 +70,7 @@ CBPによると、何歳の子どもでも自分自身のESTA承認が必要で�
 
 ## 申請は公式のESTAウェブサイトで、模倣サイトでは行わない
 
-一部のサードパーティのウェブサイトは、公式の料金より高い金額を請求しています。CBPによれば、それらのサイトを使っても承認が早くなるわけではなく、Department of Homeland Securityの公認や提携関係もなく、CBPはそうしたサイトに支払った金額を返金することもできません。申請はCBPが運営する公式のESTAウェブサイトで行いましょう。
+一部の[サードパーティのウェブサイト](https://www.cbp.gov/newsroom/national-media-release/cbp-warns-against-third-party-site-use-esta-applications)は、公式の料金より高い金額を請求しています。CBPによれば、それらのサイトを使っても承認が早くなるわけではなく、[Department of Homeland Security](https://www.dhs.gov/visa-waiver-program)の公認や提携関係もなく、CBPはそうしたサイトに支払った金額を返金することもできません。申請はCBPが運営する公式のESTAウェブサイトで行いましょう。
 
 ステータスの確認も同じサイトで行います。「Check ESTA Status」（ESTAステータスを確認）を選び、次に「Check Individual Status」（個人のステータスを確認）、または家族での申請の場合は「Check Group Status」（グループのステータスを確認）を選びます。申請番号を失くした場合は、パスポート番号、国籍、パスポートの発行日と期限日、生年月日で申請を検索できます。入力した内容と完全に一致している必要があります。
 
@@ -89,11 +89,11 @@ CBPによると、何歳の子どもでも自分自身のESTA承認が必要で�
 
 ## 承認されたESTAは入国の保証ではない
 
-承認はビザ免除プログラムのもとで渡航する資格があることを意味するだけで、入国が認められることを意味するわけではありません。入国を認めるかどうかは、到着時にCBPの職員が判断します。
+[承認はビザ免除プログラムのもとで渡航する資格があること](https://www.cbp.gov/travel/international-visitors/esta)を意味するだけで、入国が認められることを意味するわけではありません。入国を認めるかどうかは、到着時にCBPの職員が判断します。
 
 **この記事に頼る前に:** これはブログであり、公式な情報源ではありません。ルールや詳細は変わりますし、あなたの状況は異なるかもしれません。私たちは公開する内容を確認していますが、それでも誤りがあったり情報が古くなっている可能性があります。ここに書かれていることが自分の計画に関わる場合は、行動する前に担当する当局に確認してください。
 
-確認した情報源（2026年11月6日）
+公式情報源
 
 - [US CBP: Visa Waiver Program and ESTA frequently asked questions](https://www.cbp.gov/travel/international-visitors/esta/frequently-asked-questions-about-visa-waiver-program-vwp-and-electronic-system-travel)
 - [US CBP: Electronic System for Travel Authorization (ESTA)](https://www.cbp.gov/travel/international-visitors/esta)
@@ -102,7 +102,6 @@ CBPによると、何歳の子どもでも自分自身のESTA承認が必要で�
 - [US DHS: Visa Waiver Program](https://www.dhs.gov/visa-waiver-program)
 - [US CBP: CBP Reminds Travelers to Allow 72 Hours for ESTA](https://www.cbp.gov/newsroom/national-media-release/cbp-reminds-travelers-allow-72-hours-esta)
 - [US CBP: CBP Warns Against Third-Party Site Use for ESTA Applications](https://www.cbp.gov/newsroom/national-media-release/cbp-warns-against-third-party-site-use-esta-applications)
-- [US CBP: ESTA frequently asked questions](https://esta.cbp.dhs.gov/faq)
 
 ## よくある質問
 

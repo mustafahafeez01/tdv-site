@@ -30,7 +30,7 @@ Am wichtigsten: Die maschinenlesbare Zone – der schwarz-weiße Streifen am unt
 
 ![Diagramm zweier aufgeschlagener Reisepässe nebeneinander: einer abgenutzt, aber flach und nutzbar, der andere wasserfleckig mit gewellten Seiten und sich lösender Lamination](https://traveldocumentvault.com/blog/damaged-passport-travel/damage-vs-wear-figure.jpg) Leichte Knicke am Einband: unproblematisch. Wasserschaden an der Datenseite: ein Problem.
 
-Der Grund, warum das zählt: **Fluggesellschaften haften, wenn sie jemanden mit einem nicht akzeptablen Dokument befördern.** Wer mit einem beschädigten Pass einsteigt und am Zielort die Einreise verweigert bekommt, sorgt dafür, dass die Behörden die Fluggesellschaft dafür belangen können.
+Der Grund, warum das zählt: **Fluggesellschaften haften, wenn sie jemanden mit einem nicht akzeptablen Dokument befördern.** Wer mit einem beschädigten Pass einsteigt und am Zielort die Einreise verweigert bekommt, sorgt dafür, dass die Behörden [die Fluggesellschaft dafür belangen](https://www.legislation.gov.uk/ukpga/1999/33/section/40) können.
 
 Kein Gate-Mitarbeiter will diesen Papierkram, also wird lieber vorsichtshalber abgewiesen.
 
@@ -42,7 +42,7 @@ Den Schaden mit Vorlauf zu bemerken ist der beste Fall, denn Sie haben noch Zeit
 
 Ihre erste Anlaufstelle sollte die offizielle Website der Passbehörde Ihres Landes sein, denn nur dort sind die aktuellen Regeln und Bearbeitungszeiten garantiert korrekt, und beide ändern sich häufiger, als man denkt. Sind Sie unsicher, ob Ihr Pass noch akzeptiert wird, zählt allein die Auskunft der Passbehörde. Ein Forum über Fluggesellschaften rettet Sie am Schalter nicht.
 
-Ein paar Dinge sollten Sie vorher klären. Eil- und Schnellservices gibt es meist, aber sie decken nicht immer beschädigte Pässe ab, und die schnellste Stufe ist oft einfachen Verlängerungen vorbehalten. Prüfen Sie, für welchen Service Ihr Fall infrage kommt, bevor Sie einen Termin buchen.
+Ein paar Dinge sollten Sie vorher klären. [Eil- und Schnellservices](https://www.gov.uk/get-a-passport-urgently) gibt es meist, aber sie decken nicht immer beschädigte Pässe ab, und die schnellste Stufe ist oft einfachen Verlängerungen vorbehalten. Prüfen Sie, für welchen Service Ihr Fall infrage kommt, bevor Sie einen Termin buchen.
 
 Ein beschädigter Pass bedeutet in der Regel auch, dass Sie persönlich vorstellig werden müssen statt postalisch zu beantragen. In manchen Ländern ist die Stelle für dringende Fälle eine ganz andere als die für reguläre Anträge, und am falschen Schalter zu erscheinen kostet Sie einen Tag, den Sie sich vermutlich nicht leisten können.
 
@@ -91,7 +91,7 @@ Scannen Sie Ihren Pass heute, bevor Sie ihn brauchen.
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 
-Quellen, die wir geprüft haben (6. November 2026)
+Offizielle Quellen
 
 - [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
 - [UK legislation: Immigration and Asylum Act 1999, section 40](https://www.legislation.gov.uk/ukpga/1999/33/section/40)

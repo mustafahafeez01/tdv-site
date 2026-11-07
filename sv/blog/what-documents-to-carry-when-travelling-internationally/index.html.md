@@ -34,15 +34,15 @@ Vissa flygbolag och gränstjänstemän kan be om bevis på er första natts boen
 
 ### Vaccinationsbevis
 
-Vissa destinationer kräver vaccinationsbevis mot gula febern eller andra sjukdomar, och kraven ändras regelbundet beroende på destination. Kolla WHO:s resesidor 4-8 veckor innan resan – inte kvällen innan – och ta med originalintyget i stället för en kopia, eftersom vissa länder vill se det.
+Vissa destinationer kräver vaccinationsbevis mot gula febern eller andra sjukdomar, och kraven ändras regelbundet beroende på destination. Kolla [WHO:s resesidor](https://www.who.int/health-topics/travel-and-health) 4-8 veckor innan resan – inte kvällen innan – och ta med originalintyget i stället för en kopia, eftersom vissa länder vill se det.
 
 ### Reseförsäkringsuppgifter
 
-Ni behöver omedelbar tillgång till försäkringsnummer, kontaktuppgifter till försäkringsbolaget och er dygnet-runt-jourlinje. Vissa visumtyper kräver uttryckligen bevis på reseförsäkring – Schengenvisum kräver till exempel medicinsk försäkring som täcker akutvård och sjukhusvistelse. Men viktigare är att om något går fel utomlands behöver ni de här uppgifterna utan att förlita er på mejl eller internetåtkomst.
+Ni behöver omedelbar tillgång till försäkringsnummer, kontaktuppgifter till försäkringsbolaget och er dygnet-runt-jourlinje. Vissa visumtyper kräver uttryckligen bevis på reseförsäkring – [Schengenvisum](https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en) kräver till exempel medicinsk försäkring som täcker akutvård och sjukhusvistelse. Men viktigare är att om något går fel utomlands behöver ni de här uppgifterna utan att förlita er på mejl eller internetåtkomst.
 
 ### Samtyckesbrev för barns resa
 
-När ett barn reser internationellt med bara en förälder (eller med ingen av föräldrarna) förväntar sig många länder skriftligt samtycke från den frånvarande föräldern, och notarisering rekommenderas starkt. Gränstjänstemän och flygbolagspersonal i många länder, bland dem Kanada, kan be om det, och Sydafrika har egna regler för barn som reser in i landet, så kontrollera resmålets officiella sida. Utan ett brev kan ni drabbas av förseningar eller nekad ombordstigning.
+När ett barn reser internationellt med bara en förälder (eller med ingen av föräldrarna) förväntar sig många länder skriftligt samtycke från den frånvarande föräldern, och notarisering rekommenderas starkt. Gränstjänstemän och flygbolagspersonal i många länder, bland dem [Kanada](https://travel.gc.ca/travelling/children/consent-letter), kan be om det, och [Sydafrika](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements) har egna regler för barn som reser in i landet, så kontrollera resmålets officiella sida. Utan ett brev kan ni drabbas av förseningar eller nekad ombordstigning.
 
 Det är den mest förbisedda handlingen vid familjeresor, så dubbelkolla innan ni når gaten.
 
@@ -109,7 +109,7 @@ Välj den enda handling på den här listan som ni ännu inte har säkerhetskopi
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 
-Källor vi har kontrollerat (6 november 2026)
+Officiella källor
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [UK Foreign Office: South Africa entry requirements](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements)

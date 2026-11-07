@@ -16,13 +16,13 @@ Source: https://traveldocumentvault.com/it/blog/schengen-90-days-auto-tracked-ee
 - L'UE pubblica un **calcolatore ufficiale per soggiorni brevi** che funziona bene, ma è manuale — una persona, una finestra, un calcolo per volta.
 - Le famiglie gestiscono **una finestra separata per persona**. È qui che il tracciamento dei limiti di giorni in un'app merita il suo posto.
 
-Nel Suo ultimo viaggio in Europa ha probabilmente ricevuto un timbro alla frontiera. Quel timbro è scomparso. Dal 10 aprile 2026 il sistema Entry/Exit dell'Unione Europea (EES) è completamente operativo in tutta l'area Schengen, e l'inchiostro sfumato che una volta registrava i Suoi viaggi è stato sostituito da un record digitale che inizia nel momento in cui oltrepassa il confine.
+Nel Suo ultimo viaggio in Europa ha probabilmente ricevuto un timbro alla frontiera. Quel timbro è scomparso. Dal 10 aprile 2026 il sistema Entry/Exit dell'Unione Europea (EES) è [completamente operativo](https://home-affairs.ec.europa.eu/news/entryexit-system-will-become-fully-operational-10-april-2026-2026-03-30_en) in tutta l'area Schengen, e l'inchiostro sfumato che una volta registrava i Suoi viaggi è stato sostituito da un record digitale che inizia nel momento in cui oltrepassa il confine.
 
 Per chiunque conti i giorni Schengen — e ogni visitatore non-UE dovrebbe farlo — questo cambia considerevolmente le puntate. Ecco cosa fa veramente il nuovo sistema, cosa deliberatamente non fa, e come tenere il Suo conto personale affinché nessuna frontiera La sorprenda.
 
 ## Ciò che è Cambiato alle Frontiere Europee
 
-EES registra le impronte digitali, l'immagine facciale, il documento di viaggio e le date esatte di ingresso e uscita di ogni viaggiatore non-UE. Quando EES è diventato pienamente operativo il 10 aprile 2026, la Commissione europea ha dichiarato di aver registrato oltre 52 milioni di ingressi e uscite dal lancio graduale dell'ottobre 2025, con più di 27.000 rifiuti di ingresso. La registrazione per la prima volta richiede pochi minuti al chiosco, e gli aeroporti hanno segnalato code di più ore agli orari di punta questa estate mentre tutti si abituano.
+EES registra le impronte digitali, l'immagine facciale, il documento di viaggio e le date esatte di ingresso e uscita di ogni viaggiatore non-UE. Quando EES è diventato pienamente operativo il 10 aprile 2026, la [Commissione europea](https://home-affairs.ec.europa.eu/news/entryexit-system-ees-fully-operational-2026-04-10_en) ha dichiarato di aver registrato oltre 52 milioni di ingressi e uscite dal lancio graduale dell'ottobre 2025, con più di 27.000 rifiuti di ingresso. La registrazione per la prima volta richiede pochi minuti al chiosco, e gli aeroporti hanno segnalato code di più ore agli orari di punta questa estate mentre tutti si abituano.
 
 Non tutti sono registrati. I cittadini UE, i residenti dei paesi Schengen e i titolari di visti di lungo soggiorno sono esenti. Se sta visitando con l'indulto di soggiorno breve senza visto — ad esempio la maggior parte dei viaggiatori britannici, americani, canadesi e australiani — EES si applica a Lei.
 
@@ -32,11 +32,11 @@ La regola stessa non è cambiata: può stare al massimo 90 giorni all'interno de
 
 ![Diagramma a linea temporale della finestra mobile Schengen 90/180: da 180 giorni fa a oggi, due viaggi di 30 e 45 giorni usano 75 dei 90 giorni disponibili, ne restano 15; la finestra si sposta ogni giorno e i giorni di arrivo e di partenza contano entrambi](https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/90-180-window-it.jpg) La finestra non si azzera mai: per ogni singolo giorno, i 180 giorni precedenti possono contenere al massimo 90 giorni di soggiorno.
 
-Quello che è cambiato è l'applicazione. Sotto i timbri del passaporto, provare uno sforo significava decifrare inchiostro sbiadito, e i funzionari di frontiera avevano discrezionalità. Adesso le date sono esatte, e il sistema segnala uno sforo nel momento in cui accade. Può aspettarsi rifiuto al prossimo ingresso, e in alcuni casi un divieto di ingresso, in genere fino a cinque anni, che i funzionari registrano nel Sistema di Informazione Schengen. Il margine di errore è passato da sfumato a zero.
+Quello che è cambiato è l'applicazione. Sotto i timbri del passaporto, provare uno sforo significava decifrare inchiostro sbiadito, e i funzionari di frontiera avevano discrezionalità. Adesso le date sono esatte, e il sistema segnala uno sforo nel momento in cui accade. Può aspettarsi rifiuto al prossimo ingresso, e in alcuni casi un [divieto di ingresso](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32008L0115), in genere fino a cinque anni, che i funzionari registrano nel Sistema di Informazione Schengen. Il margine di errore è passato da sfumato a zero.
 
 ## Il Problema: EES Fa Rispettare, Non Pianifica
 
-EES registra i Suoi giorni per l'applicazione, e l'UE adesso Le permette di vedere a che punto è. Il suo strumento online EES, sul sito ufficiale Travel to Europe, mostra il numero di giorni che Le restano, e alcuni valichi di frontiera esterni offrono lo stesso controllo. Quello che mostra è il Suo record fino a oggi. Stabilire se un viaggio che non ha ancora fatto rientrerà nei limiti resta comunque compito Suo.
+EES registra i Suoi giorni per l'applicazione, e l'UE adesso Le permette di vedere a che punto è. Il suo strumento online EES, sul [sito ufficiale Travel to Europe](https://travel-europe.europa.eu/en/ees), mostra il numero di giorni che Le restano, e alcuni valichi di frontiera esterni offrono lo stesso controllo. Quello che mostra è il Suo record fino a oggi. Stabilire se un viaggio che non ha ancora fatto rientrerà nei limiti resta comunque compito Suo.
 
 L'UE pubblica un calcolatore ufficiale per soggiorni brevi che merita davvero di essere aggiunto ai preferiti. Inserisce le date di ingresso e uscita passate, e le dice se un soggiorno pianificato rientra nella Sua finestra. Funziona bene per un viaggiatore che tiene buoni registri. L'attrito appare quando i registri vivono nella Sua memoria, o quando sta facendo l'esercizio per quattro persone contemporaneamente.
 
@@ -44,11 +44,11 @@ L'UE pubblica un calcolatore ufficiale per soggiorni brevi che merita davvero di
 
 EES non riguarda tutti. Il sistema registra i visitatori non-UE che arrivano con l'indulto di soggiorno breve senza visto, e quelli con visti di soggiorno breve. Se possiede la cittadinanza di Stati Uniti, Regno Unito, Canada, Australia, o di decine di altri paesi, EES si applica a Lei nel momento in cui entra nell'area Schengen.
 
-Se è cittadino UE, SEE o svizzero, ne è esente - il Suo passaporto non passa per nessuna procedura d'ingresso speciale, e EES non registra i Suoi ingressi e uscite. L'elenco ufficiale delle esenzioni è più ampio, e comprende i familiari non UE di cittadini UE che possiedono una carta di soggiorno. Essere esenti da EES, però, non equivale a essere esenti dalla regola 90/180. Se è un visitatore non UE in soggiorno breve, la regola si applica indipendentemente dal fatto che una frontiera L'abbia già registrata. Il tempo trascorso in un paese Schengen con un permesso di soggiorno o un visto di lungo soggiorno (tipo D) rilasciato da quel paese non conta ai fini della regola, ma le brevi visite in altri paesi Schengen generalmente sì, quindi verifichi con l'autorità che Le ha rilasciato il permesso.
+Se è cittadino UE, SEE o svizzero, ne è esente - il Suo passaporto non passa per nessuna procedura d'ingresso speciale, e EES non registra i Suoi ingressi e uscite. L'[elenco ufficiale delle esenzioni](https://home-affairs.ec.europa.eu/news/entry-exit-system-fully-operational-10-april-2026-who-exempt-2026-07-27_en) è più ampio, e comprende i familiari non UE di cittadini UE che possiedono una carta di soggiorno. Essere esenti da EES, però, non equivale a essere esenti dalla regola 90/180. Se è un visitatore non UE in soggiorno breve, la regola si applica indipendentemente dal fatto che una frontiera L'abbia già registrata. Il tempo trascorso in un paese Schengen con un permesso di soggiorno o un visto di lungo soggiorno (tipo D) rilasciato da quel paese non conta ai fini della regola, ma le brevi visite in altri paesi Schengen generalmente sì, quindi verifichi con l'autorità che Le ha rilasciato il permesso.
 
 ## Cosa succede al Suo primo attraversamento EES
 
-Il sistema crea il Suo profilo al primo ingresso nell'area Schengen. Farà la fila a un chiosco biometrico alla frontiera - aeroporto, porto o valico terrestre. Un funzionario scansiona il Suo passaporto o documento di viaggio per verificare la Sua identità. Il sistema acquisisce la Sua immagine facciale. Se non Le serve un visto, rileva anche quattro impronte digitali; se viaggia con un visto per soggiorno di breve durata, conserva solo l'immagine facciale, perché le impronte sono state prese al momento della richiesta. Richiede più tempo del timbro che sostituisce, e lo fa una sola volta.
+Il sistema crea il Suo profilo al primo ingresso nell'area Schengen. Farà la fila a un chiosco biometrico alla frontiera - aeroporto, porto o valico terrestre. Un funzionario scansiona il Suo passaporto o documento di viaggio per verificare la Sua identità. Il sistema acquisisce la Sua immagine facciale. Se non Le serve un visto, rileva anche [quattro impronte digitali](https://travel-europe.europa.eu/en/ees/faq); se viaggia con un visto per soggiorno di breve durata, conserva solo l'immagine facciale, perché le impronte sono state prese al momento della richiesta. Richiede più tempo del timbro che sostituisce, e lo fa una sola volta.
 
 Una volta registrato, il sistema salva la data e l'ora esatte del Suo ingresso. Se in seguito supera i 90 giorni su 180, questa marca temporale diventa il punto di riferimento che EES usa per calcolare la Sua finestra mobile.
 
@@ -106,7 +106,7 @@ La frontiera digitale è accurata, automatica e priva di sentimento, ma stare de
 
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 
-Fonti che abbiamo verificato (6 novembre 2026)
+Fonti ufficiali
 
 - [EU travel: Entry/Exit System (EES)](https://travel-europe.europa.eu/en/ees)
 - [EU travel: EES frequently asked questions](https://travel-europe.europa.eu/en/ees/faq)

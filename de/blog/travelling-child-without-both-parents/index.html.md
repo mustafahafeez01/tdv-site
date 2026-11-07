@@ -20,7 +20,7 @@ Check-in-Personal von Fluggesellschaften und Grenzbeamte schauen bei einem Kind,
 
 ## Der Check-in-Schalter und die Grenzkontrolle prüfen unterschiedliche Dinge
 
-Zwei verschiedene Personen prüfen dieselben Unterlagen aus zwei verschiedenen Gründen, und das zu wissen erspart Verwirrung am Schalter. Das Check-in-Personal entscheidet nicht, ob Ihr Kind in das Zielland einreisen darf. Es prüft, ob die Fluggesellschaft zuversichtlich ist, dass Sie eingelassen werden, denn nach langjährigen Vereinbarungen zwischen Fluggesellschaften und Regierungen kann eine Fluggesellschaft dafür haftbar gemacht werden, einen Passagier zurückzufliegen, dem das Zielland später die Einreise verweigert. Deshalb fragt das Check-in-Personal manchmal mehr als der Grenzbeamte es letztlich tut: Es schützt die Fluggesellschaft vor ihrer eigenen Haftung.
+Zwei verschiedene Personen prüfen dieselben Unterlagen aus zwei verschiedenen Gründen, und das zu wissen erspart Verwirrung am Schalter. Das Check-in-Personal entscheidet nicht, ob Ihr Kind in das Zielland einreisen darf. Es prüft, ob die Fluggesellschaft zuversichtlich ist, dass Sie eingelassen werden, denn nach [langjährigen Vereinbarungen zwischen Fluggesellschaften und Regierungen](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001L0051) kann eine Fluggesellschaft dafür haftbar gemacht werden, einen Passagier zurückzufliegen, dem das Zielland später die Einreise verweigert. Deshalb fragt das Check-in-Personal manchmal mehr als der Grenzbeamte es letztlich tut: Es schützt die Fluggesellschaft vor ihrer eigenen Haftung.
 
 Der Grenzbeamte, dem Sie nach der Landung begegnen, trifft eine völlig eigenständige Entscheidung, unabhängig davon, was die Fluggesellschaft zuvor entschieden hat. Manche Länder wiederholen die Prüfung auch bei der Ausreise, nicht nur bei der Einreise, sodass eine reibungslose Ankunft nichts darüber aussagt, wie die Ausreisekontrolle zwei Wochen später verläuft. Die Erfüllung der einen Prüfung bindet die andere nicht.
 
@@ -28,7 +28,7 @@ Der Grenzbeamte, dem Sie nach der Landung begegnen, trifft eine völlig eigenst�
 
 Wenn Sie der einzige reisende Elternteil sind und der andere Elternteil lebt, wohlauf ist und einfach nicht mit auf dieser Reise ist, erwarten die meisten Grenzen eine Einverständniserklärung. Was genau darin stehen muss, wann sie notariell beglaubigt werden muss und welche Fehler dazu führen, dass solche Erklärungen abgelehnt werden, behandeln wir ausführlich in unserem Leitfaden zum [Reisezustimmungsbrief für Kinder](https://traveldocumentvault.com/de/blog/child-travel-consent-letter/).
 
-Zwei Dinge liegen außerhalb dieses Briefs und lohnen sich, zusätzlich mitgeführt zu werden. Nehmen Sie die Geburtsurkunde Ihres Kindes mit, denn eine Einverständniserklärung nennt ein Kind und einen Elternteil, und die Geburtsurkunde ist es, die Sie beide überhaupt erst miteinander verbindet. Manche Länder erwarten außerdem, dass der Brief alle Personen mit elterlicher Sorge widerspiegelt, nicht nur den im Reisepass genannten Elternteil, was je nach rechtlicher Situation Ihrer Familie einen Stiefelternteil oder Vormund einschließen kann. Ob das auf Sie zutrifft, sollten Sie bei der Einwanderungsbehörde Ihres Reiseziels prüfen, statt es anzunehmen, da es je nach Land und Umständen unterschiedlich ist.
+Zwei Dinge liegen außerhalb dieses Briefs und lohnen sich, zusätzlich mitgeführt zu werden. Nehmen Sie die Geburtsurkunde Ihres Kindes mit, denn eine Einverständniserklärung nennt ein Kind und einen Elternteil, und die Geburtsurkunde ist es, die Sie beide überhaupt erst miteinander verbindet. Manche Länder erwarten außerdem, dass der Brief [alle Personen mit elterlicher Sorge](https://www.gov.uk/permission-take-child-abroad) widerspiegelt, nicht nur den im Reisepass genannten Elternteil, was je nach rechtlicher Situation Ihrer Familie einen Stiefelternteil oder Vormund einschließen kann. Ob das auf Sie zutrifft, sollten Sie bei der Einwanderungsbehörde Ihres Reiseziels prüfen, statt es anzunehmen, da es je nach Land und Umständen unterschiedlich ist.
 
 ## Alleiniges Sorgerecht: Wenn der Gerichtsbeschluss das entscheidende Dokument ist
 
@@ -82,7 +82,7 @@ Unsere umfassendere [Checkliste für Reisedokumente](https://traveldocumentvault
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 
-Quellen, die wir geprüft haben (6. November 2026)
+Offizielle Quellen
 
 - [UK Government: Get permission to take a child abroad](https://www.gov.uk/permission-take-child-abroad)
 - [EU law: Directive 2001/51 on carrier responsibilities](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001L0051)

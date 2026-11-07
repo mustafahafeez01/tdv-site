@@ -26,7 +26,7 @@ Det största misstaget resenärer gör är att behandla bokningsögonblicket som
 
 **Kontrollera passen innan du betalar**
 
-Innan du bekräftar någon bokning, kontrollera varje resenärs pass mot tre kriterier: giltighet (uppfyller det destinationens krav, många länder vill ha sex månaders giltighet kvar på ankomstdagen och några räknar från avresan, så kontrollera ditt resmål, vilket vi förklarar i vår [guide till 6-månadersregeln för pass](https://traveldocumentvault.com/sv/blog/passport-expiry-6-month-rule/)), namnmatchning (namnet på passet måste exakt matcha bokningsnamnet), och tomma sidor (vissa länder kräver minst två tomma visumsidor för inresestämplar).
+Innan du bekräftar någon bokning, kontrollera varje resenärs pass mot tre kriterier: giltighet (uppfyller det destinationens krav, många länder vill ha [sex månaders giltighet kvar på ankomstdagen](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements) och några räknar från avresan, så kontrollera ditt resmål, vilket vi förklarar i vår [guide till 6-månadersregeln för pass](https://traveldocumentvault.com/sv/blog/passport-expiry-6-month-rule/)), namnmatchning (namnet på passet måste exakt matcha bokningsnamnet), och tomma sidor (vissa länder kräver [minst två tomma visumsidor](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements) för inresestämplar).
 
 **Kontrollera dina visumkrav**
 
@@ -42,7 +42,7 @@ Boka reseförsäkring samtidigt som du bokar flyget, inte en vecka innan avresa.
 
 Vid den här tidpunkten har du fortfarande tid att åtgärda saker. Handläggningstider ändras, och ditt lands passmyndighet publicerar sin egen aktuella siffra. Kontrollera alltid den officiella webbplatsen för aktuella tider innan du ansöker.
 
-Alla pass som går ut inom 12 månader: påbörja förnyelseprocessen nu. Barns pass går ut snabbare, brittiska barnpass gäller i 5 år jämfört med 10 för vuxna och flera andra länder har samma upplägg, och föräldrar missar ofta det här fönstret. För sökande i Nya Zeeland, kontrollera New Zealand Passport Office för aktuella handläggningstider.
+Alla pass som går ut inom 12 månader: påbörja förnyelseprocessen nu. Barns pass går ut snabbare, [brittiska barnpass gäller i 5 år](https://www.gov.uk/get-a-child-passport) jämfört med 10 för vuxna och flera andra länder har samma upplägg, och föräldrar missar ofta det här fönstret. För sökande i Nya Zeeland, kontrollera New Zealand Passport Office för aktuella handläggningstider.
 
 Skicka in eventuella visumansökningar som behöver ledtid, och kontrollera hos utfärdande myndighet hur lång tid det för närvarande tar. Förbered stödjande dokument: kontoutdrag, bokningsbekräftelser för boende, bevis på vidare resa. Boka en tid för biometri i förväg om visumet kräver det.
 
@@ -113,7 +113,7 @@ Olika resor kräver olika uppsättningar handlingar, vilket tabellen nedan visar
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 
-Källor vi har kontrollerat (6 november 2026)
+Officiella källor
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
@@ -138,7 +138,7 @@ Ja. Varje persons passgiltighet, visumkrav, och försäkringstäckning bedöms i
 
 ### Vad är ett samtyckesbrev för barns resa och behöver jag ett?
 
-Ett samtyckesbrev för barns resa är ett undertecknat dokument från den frånvarande föräldern som ger tillstånd för barnet att resa. Vissa länder, däribland Sydafrika, har extra krav för barn som reser med en förälder, och kanadensiska myndigheter rekommenderar ett undertecknat samtyckesbrev. Utan ett kan du möta fler frågor eller förseningar. Brevet bör innehålla barnets uppgifter, båda föräldrarnas kontaktinformation, resdatum, destinationer, och den frånvarande förälderns underskrift.
+Ett samtyckesbrev för barns resa är ett undertecknat dokument från den frånvarande föräldern som ger tillstånd för barnet att resa. Vissa länder, däribland [Sydafrika](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements), har extra krav för barn som reser med en förälder, och [kanadensiska myndigheter](https://travel.gc.ca/travelling/children/consent-letter) rekommenderar ett undertecknat samtyckesbrev. Utan ett kan du möta fler frågor eller förseningar. Brevet bör innehålla barnets uppgifter, båda föräldrarnas kontaktinformation, resdatum, destinationer, och den frånvarande förälderns underskrift.
 
 ### Vilka handlingar bör jag hålla tillgängliga på flygplatsen och inte i incheckat bagage?
 

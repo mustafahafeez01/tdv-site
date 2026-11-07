@@ -39,7 +39,7 @@ Una brecha de una aplicación en el dispositivo no filtra nada de sus servidores
 
 ### El tiempo de anticipación del recordatorio es el ajuste que merece la pena personalizar
 
-Esta es la función individual más valiosa. Un recordatorio a los 6 meses es el mínimo —muchos países requieren que tu pasaporte sea válido durante al menos 6 meses más allá de tus fechas de viaje, como se explica en nuestro artículo sobre la [regla de 6 meses del pasaporte](https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/). Los pasaportes infantiles suelen durar 5 años en lugar de 10 —por ejemplo, los británicos tienen una validez de 5 años—, así que un recordatorio anterior —digamos 9 meses antes— da más tiempo de planificación cómodo.
+Esta es la función individual más valiosa. Un recordatorio a los 6 meses es el mínimo —muchos países requieren que tu pasaporte sea válido durante al menos 6 meses más allá de tus fechas de viaje, como se explica en nuestro artículo sobre la [regla de 6 meses del pasaporte](https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/). Los pasaportes infantiles suelen durar 5 años en lugar de 10 —por ejemplo, [los británicos tienen una validez de 5 años](https://www.gov.uk/get-a-child-passport)—, así que un recordatorio anterior —digamos 9 meses antes— da más tiempo de planificación cómodo.
 
 ### Una sola aplicación puede guardar a toda la familia, de forma segura
 
@@ -104,7 +104,7 @@ Abre la aplicación que de verdad estás pensando en usar y pásala por esta lis
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 
-Fuentes que hemos comprobado (6 de noviembre de 2026)
+Fuentes oficiales
 
 - [UK Foreign Office: Indonesia entry requirements](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements)
 - [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)

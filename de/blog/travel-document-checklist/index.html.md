@@ -26,7 +26,7 @@ Der größte Fehler von Reisenden ist, den Buchungsmoment als administrativ zu b
 
 **Überprüfen Sie Ihre Pässe vor dem Bezahlen**
 
-Bevor Sie eine Buchung bestätigen, überprüfen Sie jeden Pass gegen drei Kriterien: Gültigkeit (erfüllt es die Anforderungen des Ziellandes – viele Länder verlangen sechs Monate Restgültigkeit am Tag der Ankunft, einige zählen ab der Ausreise. Prüfen Sie deshalb Ihr Zielland, wie in unserem [Leitfaden zur 6-Monats-Passregel](https://traveldocumentvault.com/de/blog/passport-expiry-6-month-rule/) erläutert), Namensprüfung (der Name im Pass muss genau dem Buchungsnamen entsprechen) und Blankseiten (einige Länder benötigen mindestens zwei leere Seiten für Einreisestempel).
+Bevor Sie eine Buchung bestätigen, überprüfen Sie jeden Pass gegen drei Kriterien: Gültigkeit (erfüllt es die Anforderungen des Ziellandes – viele Länder verlangen [sechs Monate Restgültigkeit am Tag der Ankunft](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), einige zählen ab der Ausreise. Prüfen Sie deshalb Ihr Zielland, wie in unserem [Leitfaden zur 6-Monats-Passregel](https://traveldocumentvault.com/de/blog/passport-expiry-6-month-rule/) erläutert), Namensprüfung (der Name im Pass muss genau dem Buchungsnamen entsprechen) und Blankseiten (einige Länder benötigen [mindestens zwei leere Seiten](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements) für Einreisestempel).
 
 **Überprüfen Sie Ihre Visaanforderungen**
 
@@ -42,7 +42,7 @@ Buchen Sie Reiseversicherung, wenn Sie Flüge buchen, nicht eine Woche vor der A
 
 Zu diesem Zeitpunkt haben Sie noch Zeit, Dinge zu beheben. Bearbeitungszeiten für Erneuerungen ändern sich, und die Passbehörde Ihres Landes veröffentlicht ihre eigene aktuelle Angabe. Überprüfen Sie immer die offizielle Website auf aktuelle Zeiten, bevor Sie einen Antrag stellen.
 
-Ein Pass, der innerhalb von 12 Monaten abläuft: starten Sie den Erneuerungsprozess jetzt. Pässe von Kindern laufen schneller ab – britische Kinderreisepässe gelten 5 Jahre statt 10 für Erwachsene, und mehrere andere Länder handhaben es ähnlich – und Eltern verpassen das Fenster häufig. Für neuseeländische Antragsteller überprüfen Sie bitte das New Zealand Passport Office für aktuelle Fristen.
+Ein Pass, der innerhalb von 12 Monaten abläuft: starten Sie den Erneuerungsprozess jetzt. Pässe von Kindern laufen schneller ab – [britische Kinderreisepässe gelten 5 Jahre](https://www.gov.uk/get-a-child-passport) statt 10 für Erwachsene, und mehrere andere Länder handhaben es ähnlich – und Eltern verpassen das Fenster häufig. Für neuseeländische Antragsteller überprüfen Sie bitte das New Zealand Passport Office für aktuelle Fristen.
 
 Reichen Sie jeden Visumantrag mit einer Bearbeitungsfrist von vier oder mehr Wochen ein. Bereiten Sie Unterlagen vor: Kontoauszüge, Unterkunftsbestätigungen, Beweis für Weiterreise. Buchen Sie einen Biometrie-Termin im Voraus, falls das Visum dies erfordert.
 
@@ -113,7 +113,7 @@ Ist eine Reise bereits gebucht, lohnt sich heute vor allem eines: Holen Sie jede
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 
-Quellen, die wir geprüft haben (6. November 2026)
+Offizielle Quellen
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
@@ -138,7 +138,7 @@ Ja. Die Passgültigkeit, Visaanforderungen und Versicherungsabdeckung jeder Pers
 
 ### Was ist eine elterliche Reisezustimmungserklärung und benötige ich eine?
 
-Eine elterliche Reisezustimmungserklärung ist ein unterzeichnetes Dokument des abwesenden Elternteils, das der Reise des Kindes Zustimmung erteilt. Einige Länder, darunter Südafrika, stellen zusätzliche Anforderungen an Reisen mit nur einem Elternteil. Die kanadischen Behörden empfehlen ein unterschriebenes Zustimmungsschreiben. Ohne eines können zusätzliche Fragen oder Verzögerungen entstehen. Der Brief sollte Angaben zum Kind, Kontaktinformationen beider Eltern, Reisedaten, Reiseziele und die Unterschrift des abwesenden Elternteils enthalten.
+Eine elterliche Reisezustimmungserklärung ist ein unterzeichnetes Dokument des abwesenden Elternteils, das der Reise des Kindes Zustimmung erteilt. Einige Länder, darunter [Südafrika](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements), stellen zusätzliche Anforderungen an Reisen mit nur einem Elternteil. Die [kanadischen Behörden](https://travel.gc.ca/travelling/children/consent-letter) empfehlen ein unterschriebenes Zustimmungsschreiben. Ohne eines können zusätzliche Fragen oder Verzögerungen entstehen. Der Brief sollte Angaben zum Kind, Kontaktinformationen beider Eltern, Reisedaten, Reiseziele und die Unterschrift des abwesenden Elternteils enthalten.
 
 ### Welche Dokumente sollte ich am Flughafen griffbereit halten und nicht ins aufgegebene Gepäck?
 

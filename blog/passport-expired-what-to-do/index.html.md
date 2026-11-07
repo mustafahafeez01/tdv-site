@@ -30,7 +30,7 @@ How urgently you need to act determines what to do:
 - **Plenty of time before travel:** apply for standard renewal online through your passport authority's website - GOV.UK for the UK, travel.state.gov for the US.
 - **Trip coming up sooner:** apply immediately and pay for expedited processing. Both the UK and the US offer a faster paid service online, and each publishes its current turnaround.
 - **Trip getting close:** call your passport authority directly rather than relying on the website alone - the HM Passport Office adviceline in the UK, or the US National Passport Information Center in the US.
-- **Trip is imminent:** ask about an emergency appointment and bring proof of your travel dates. The UK's 1 Day Premium service (adult renewals only) books appointments from 2 days after you apply, with the passport ready to collect 4 hours after your appointment, and the US publishes its urgent travel options at travel.state.gov.
+- **Trip is imminent:** ask about an emergency appointment and bring proof of your travel dates. The UK's [1 Day Premium service](https://www.gov.uk/get-a-passport-urgently) (adult renewals only) books appointments from 2 days after you apply, with the passport ready to collect 4 hours after your appointment, and the US publishes its urgent travel options at travel.state.gov.
 
 If your timeline is tight, we'd always call rather than trust the website alone.
 
@@ -56,7 +56,7 @@ Expiry rarely means starting again, because in the UK, the US and Canada you can
 
 ### UK: An Expired Passport Goes Through Normal Renewal
 
-GOV.UK says you must renew before you can travel if your passport has expired or doesn't have enough time left for your destination. An expired passport goes through the standard renewal, online or on a paper form, and you'll need your old passport to do it. Adult passports are for people aged 16 and over, and children's passports have their own process.
+[GOV.UK](https://www.gov.uk/renew-adult-passport/renew) says you must renew before you can travel if your passport has expired or doesn't have enough time left for your destination. An expired passport goes through the standard renewal, online or on a paper form, and you'll need your old passport to do it. Adult passports are for people aged 16 and over, and children's passports have their own process.
 
 ### US: Renewal Works Within 15 Years of Issue
 
@@ -64,7 +64,7 @@ The US has its own eligibility rules for renewing an expired passport, including
 
 ### Canada: An Expired Passport Can Be Renewed Online
 
-The Government of Canada lets you renew if your last passport was an adult passport issued when you were at least 16. It also has to have been issued within 15 years of the date you apply and valid for 5 or 10 years. You can renew online if your passport expires in the next six months or has already expired, provided your home and mailing address are in Canada. Child passports can't be renewed, so a child needs a new application.
+The [Government of Canada](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html) lets you renew if your last passport was an adult passport issued when you were at least 16. It also has to have been issued within 15 years of the date you apply and valid for 5 or 10 years. You can [renew online](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport/submit-form-fees/renew-online.html) if your passport expires in the next six months or has already expired, provided your home and mailing address are in Canada. Child passports can't be renewed, so a child needs a new application.
 
 If your passport lapsed years ago, look at the issue date before anything else, because the 15-year limit in the US and Canada counts from when it was issued, not from when it expired. Then check current turnaround times before you book, which our guide to [how long passport renewal takes](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/) covers country by country.
 
@@ -110,7 +110,7 @@ Do this for every passport in your household separately. Children's passports ex
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
 - [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)

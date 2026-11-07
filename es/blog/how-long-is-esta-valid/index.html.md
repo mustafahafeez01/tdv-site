@@ -21,13 +21,13 @@ Una ESTA suele durar dos años desde el día en que se aprueba, o hasta que cadu
 
 ## Tu ESTA termina a los dos años o cuando lo hace tu pasaporte
 
-US Customs and Border Protection (CBP) fija la regla: una ESTA aprobada suele ser válida durante dos años desde la fecha de autorización, o hasta que caduca tu pasaporte, lo que ocurra antes. Así, un pasaporte con 14 meses de validez restante te da una ESTA con 14 meses de validez. La pantalla de aprobación muestra la fecha de caducidad exacta, lo que te ahorra tener que calcularla.
+[US Customs and Border Protection (CBP)](https://www.cbp.gov/travel/international-visitors/esta/frequently-asked-questions-about-visa-waiver-program-vwp-and-electronic-system-travel) fija la regla: una ESTA aprobada suele ser válida durante dos años desde la fecha de autorización, o hasta que caduca tu pasaporte, lo que ocurra antes. Así, un pasaporte con 14 meses de validez restante te da una ESTA con 14 meses de validez. La pantalla de aprobación muestra la fecha de caducidad exacta, lo que te ahorra tener que calcularla.
 
 ![Diagrama de cuándo deja de ser válida una ESTA: termina a los 2 años o cuando caduca el pasaporte, lo que ocurra antes. Cada persona necesita la suya, también bebés y niños, cada uno con su propio pasaporte. Un pasaporte, nombre o nacionalidad nuevos significan solicitarla de nuevo](https://traveldocumentvault.com/blog/how-long-is-esta-valid/esta-clock-es.jpg) Un reloj por viajero, que nunca dura más que el pasaporte.
 
 La CBP también envía un correo a la dirección de tu solicitud cuando tu ESTA está a punto de caducar en los siguientes 30 días. No nos fiaríamos solo de ese correo: puede acabar en el spam o en una bandeja que ya no revisas, así que anota la fecha en algún sitio donde la veas al reservar.
 
-Dentro de esos dos años, una sola ESTA cubre tantos viajes como quieras. Cada visita dentro del programa de exención de visado (Visa Waiver Program) sigue limitada a 90 días o menos, y la CBP deja claro que una aprobación de dos años no significa una estancia de dos años.
+Dentro de esos dos años, una sola ESTA cubre tantos viajes como quieras. Cada visita dentro del [programa de exención de visado (Visa Waiver Program)](https://www.cbp.gov/travel/international-visitors/visa-waiver-program) sigue limitada a 90 días o menos, y la CBP deja claro que una aprobación de dos años no significa una estancia de dos años.
 
 La única excepción es Brunéi, para el que la CBP ha reducido el periodo de validez a un año para sus ciudadanos y nacionales.
 
@@ -41,7 +41,7 @@ Así es como funciona en la práctica. Supongamos que tu ESTA caduca el día 10 
 
 No existe la prórroga. La CBP dice que las autorizaciones existentes no se pueden prorrogar, y no tienes que esperar a que caduque para volver a solicitarla. Tu nueva solicitud anula y sustituye a la anterior.
 
-La CBP recomienda solicitarla cuando reservas el viaje, y es un hábito que merece la pena mantener. Si tu ESTA caduca pocas semanas antes de un viaje, solicítala el día en que reservas el viaje, no la semana en que vuelas.
+[La CBP recomienda solicitarla cuando reservas el viaje](https://www.cbp.gov/newsroom/national-media-release/cbp-reminds-travelers-allow-72-hours-esta), y es un hábito que merece la pena mantener. Si tu ESTA caduca pocas semanas antes de un viaje, solicítala el día en que reservas el viaje, no la semana en que vuelas.
 
 ## Cuatro cambios significan una ESTA nueva
 
@@ -62,7 +62,7 @@ Nadie espera que un niño pequeño rellene un formulario. Un progenitor, o cualq
 
 ## La tarifa subió el 16 de octubre, y las aprobaciones existentes no se ven afectadas
 
-Según el aviso del Federal Register publicado el 1 de octubre de 2026, la tarifa de la ESTA subió de US $40.27 a US $40.62, cobrada desde el 16 de octubre de 2026. Si ya tienes una ESTA válida y aprobada, la CBP dice que no necesitas volver a solicitarla. Pagarás el nuevo importe la próxima vez que la solicites.
+Según el [aviso del Federal Register](https://www.govinfo.gov/content/pkg/FR-2026-10-01/html/2026-20185.htm) publicado el 1 de octubre de 2026, la tarifa de la ESTA subió de US $40.27 a US $40.62, cobrada desde el 16 de octubre de 2026. Si ya tienes una ESTA válida y aprobada, la CBP dice que no necesitas volver a solicitarla. Pagarás el nuevo importe la próxima vez que la solicites.
 
 El mismo aviso fija una tarifa más baja de US $10.62 si se deniega una solicitud, que cubre el coste de tramitarla.
 
@@ -70,7 +70,7 @@ Es de esperar que la cifra vuelva a cambiar. La ley que la regula exige que la t
 
 ## Solicítala en la web oficial de la ESTA, no en una copia
 
-Algunas webs de terceros cobran más que la tarifa oficial. La CBP dice que no aceleran la aprobación, que no están respaldadas ni afiliadas al Department of Homeland Security, y que la CBP no puede devolverte lo que les pagaste. Solicítala en la web oficial de la ESTA gestionada por la CBP.
+Algunas [webs de terceros](https://www.cbp.gov/newsroom/national-media-release/cbp-warns-against-third-party-site-use-esta-applications) cobran más que la tarifa oficial. La CBP dice que no aceleran la aprobación, que no están respaldadas ni afiliadas al [Department of Homeland Security](https://www.dhs.gov/visa-waiver-program), y que la CBP no puede devolverte lo que les pagaste. Solicítala en la web oficial de la ESTA gestionada por la CBP.
 
 Ahí es también donde compruebas un estado. Elige «Check ESTA Status» (comprobar estado de la ESTA), luego «Check Individual Status» (comprobar estado individual), o «Check Group Status» (comprobar estado de grupo) para una solicitud familiar. Si has perdido el número de solicitud, puedes encontrarla con tu número de pasaporte, país de nacionalidad, fechas de expedición y caducidad del pasaporte, y fecha de nacimiento. Los datos tienen que coincidir exactamente con lo que introdujiste.
 
@@ -89,11 +89,11 @@ Cuatro comprobaciones llevan unos minutos:
 
 ## Una ESTA aprobada no es una garantía de entrada
 
-La aprobación significa que cumples los requisitos para viajar dentro del programa de exención de visado, no que vayas a ser admitido, ya que esa decisión la toman los agentes de la CBP a tu llegada.
+[La aprobación significa que cumples los requisitos para viajar](https://www.cbp.gov/travel/international-visitors/esta) dentro del programa de exención de visado, no que vayas a ser admitido, ya que esa decisión la toman los agentes de la CBP a tu llegada.
 
 **Antes de confiar en esto:** es un blog, no una fuente oficial. Las normas y los detalles cambian, y tu situación puede ser distinta. Comprobamos lo que publicamos, pero aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad que se encarga del asunto antes de actuar.
 
-Fuentes que hemos comprobado (6 de noviembre de 2026)
+Fuentes oficiales
 
 - [US CBP: Visa Waiver Program and ESTA frequently asked questions](https://www.cbp.gov/travel/international-visitors/esta/frequently-asked-questions-about-visa-waiver-program-vwp-and-electronic-system-travel)
 - [US CBP: Electronic System for Travel Authorization (ESTA)](https://www.cbp.gov/travel/international-visitors/esta)
@@ -102,7 +102,6 @@ Fuentes que hemos comprobado (6 de noviembre de 2026)
 - [US DHS: Visa Waiver Program](https://www.dhs.gov/visa-waiver-program)
 - [US CBP: CBP Reminds Travelers to Allow 72 Hours for ESTA](https://www.cbp.gov/newsroom/national-media-release/cbp-reminds-travelers-allow-72-hours-esta)
 - [US CBP: CBP Warns Against Third-Party Site Use for ESTA Applications](https://www.cbp.gov/newsroom/national-media-release/cbp-warns-against-third-party-site-use-esta-applications)
-- [US CBP: ESTA frequently asked questions](https://esta.cbp.dhs.gov/faq)
 
 ## Preguntas frecuentes
 

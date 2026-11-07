@@ -39,9 +39,9 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/transit-visa-connecting-fli
 
 过境签证在多种情况下是强制性的，具体要求因您的国籍和中转国而有很大差异。
 
-**申根机场过境签证（ATV）**适用于持特定非欧盟护照、在申根区机场仅进行机场内中转的旅客（成员国在某些情况下可以增加适用的国籍），不过许多国籍可获豁免，部分签证或居留许可持有人也可获豁免。由于豁免名单复杂且会定期变动，您不能想当然地认为自己获得豁免。IATA Travel Centre 数据库保存着针对您具体国籍和目的地的最新规则，请前往查询，而不要凭对其他国家的了解去猜测。
+**申根机场过境签证（ATV）**适用于持[特定非欧盟护照](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0810)、在申根区机场仅进行机场内中转的旅客（成员国在某些情况下可以增加适用的国籍），不过许多国籍可获豁免，部分签证或居留许可持有人也可获豁免。由于豁免名单复杂且会定期变动，您不能想当然地认为自己获得豁免。IATA Travel Centre 数据库保存着针对您具体国籍和目的地的最新规则，请前往查询，而不要凭对其他国家的了解去猜测。
 
-**英国**为许多国籍提供免签的机场内中转，但其他国籍则需要办理如今称为“直接机场过境签证”（DATV）的证件。与申根区一样，是否豁免主要取决于您的国籍，而非仅仅取决于目的地；GOV.UK指出，如果您持有英国电子旅行许可（ETA），则无需办理过境签证。
+**英国**为许多国籍提供免签的机场内中转，但其他国籍则需要办理如今称为“直接机场过境签证”（DATV）的证件。与申根区一样，是否豁免主要取决于您的国籍，而非仅仅取决于目的地；[GOV.UK](https://www.gov.uk/transit-visa)指出，如果您持有英国电子旅行许可（ETA），则无需办理过境签证。
 
 在大多数情况下，抵达**美国**的转机旅客在搭乘下一个航班前，需要先通过美国入境和海关检查。实际上，这属于美国入境规则的范畴，而非过境签证规则，因此请尽早针对您的护照查清相关规定，并从一开始就把它纳入您的行程规划。
 
@@ -75,7 +75,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/transit-visa-connecting-fli
 
 订票之前，请把您的整条路线，而不只是目的地，都放进 IATA Travel Centre 查一遍。趁着还能修改订单，这是最有可能发现缺失要求的一步。
 
-我们核对过的资料来源（2026年11月6日）
+官方资料来源
 
 - [UK Government: Visa to pass through the UK in transit](https://www.gov.uk/transit-visa)
 - [EU law: Visa Code (Regulation 810/2009)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0810)
@@ -109,7 +109,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/transit-visa-connecting-fli
 
 ### 过境签证的有效期是多久？
 
-过境签证的有效期因国家而异。例如，英国的访客过境签证允许停留最长48小时。请将过境签证的到期日与护照、主要入境签证一起存储并追踪。
+过境签证的有效期因国家而异。例如，英国的[访客过境签证](https://www.gov.uk/transit-visa/visitor-in-transit-visa)允许停留最长48小时。请将过境签证的到期日与护照、主要入境签证一起存储并追踪。
 
 ## 相关文章
 

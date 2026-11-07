@@ -22,7 +22,7 @@ Due regole e una particolarità dei passaporti dei bambini spiegano quasi ogni p
 
 ## La vera regola Schengen: 3 mesi oltre la partenza
 
-Il requisito dell'UE è preciso: il vostro passaporto deve essere valido per almeno 3 mesi dopo la data in cui intendete lasciare l'area Schengen, e deve essere stato rilasciato negli ultimi 10 anni.
+Il requisito dell'UE è preciso: [il vostro passaporto deve essere valido per almeno 3 mesi dopo la data in cui intendete lasciare l'area Schengen](https://www.gov.uk/foreign-travel-advice/france/entry-requirements), e deve essere stato rilasciato negli ultimi 10 anni.
 
 Immaginate che la vostra famiglia ritorni dall'Italia il 20 agosto. Ogni passaporto ha bisogno di validità fino all'approssimativamente 20 novembre — cioè tre mesi oltre la vostra data di partenza, non il vostro arrivo, e non la vostra data di prenotazione. Un passaporto che scade il 10 novembre fallisce questo test, anche se la vacanza stessa termina settimane prima.
 
@@ -30,7 +30,7 @@ La condizione di rilascio entro 10 anni cattura le famiglie britanniche in modo 
 
 ## Perché questa non è la regola dei 6 mesi
 
-La maggior parte dei viaggiatori assorbono l'idea che i passaporti abbiano bisogno di sei mesi di validità per andare ovunque. Questa regola è reale — la Tailandia chiede sei mesi di validità, e molti altri paesi applicano una versione di essa. Ma Schengen no. L'Europa chiede tre mesi oltre la partenza, il che è più gentile, eppure i due vengono mischiati in un vago "sei mesi da qualche parte" che produce sia falsi allarmi che falsa sicurezza.
+La maggior parte dei viaggiatori assorbono l'idea che i passaporti abbiano bisogno di sei mesi di validità per andare ovunque. Questa regola è reale — [la Tailandia chiede sei mesi di validità](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), e molti altri paesi applicano una versione di essa. Ma Schengen no. L'Europa chiede tre mesi oltre la partenza, il che è più gentile, eppure i due vengono mischiati in un vago "sei mesi da qualche parte" che produce sia falsi allarmi che falsa sicurezza.
 
 La nostra guida su [la regola dei 6 mesi](https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/) copre quali paesi effettivamente l'applicano. Il nostro [spiegatore sulla validità del passaporto](https://traveldocumentvault.com/it/blog/how-long-is-passport-valid-for-travel/) gestisce il caso generale. Restiamo su Schengen qui perché è dove le famiglie più spesso sbagliano i calcoli in modo sottile.
 
@@ -38,7 +38,7 @@ La nostra guida su [la regola dei 6 mesi](https://traveldocumentvault.com/it/blo
 
 ## I passaporti dei bambini funzionano con un orologio più veloce
 
-I passaporti britannici per adulti durano 10 anni, mentre il Regno Unito rilascia quelli per bambini con una validità di cinque anni. Questa asimmetria è dove molti piani altrimenti attenti si sfaldano.
+[I passaporti britannici per adulti durano 10 anni](https://www.gov.uk/apply-first-adult-passport), mentre [il Regno Unito rilascia quelli per bambini con una validità di cinque anni](https://www.gov.uk/get-a-child-passport). Questa asimmetria è dove molti piani altrimenti attenti si sfaldano.
 
 | Paese | Passaporti per bambini | Validità |
 |---|---|---|
@@ -60,13 +60,13 @@ Un passaporto fallito raramente blocca una persona; blocca la famiglia. Pochi ge
 
 La soluzione è semplice e richiede solo minuti. Il giorno della prenotazione, raccogliete ogni passaporto in casa e annotate ogni data di scadenza e data di rilascio. Quindi ponetevi due domande per ognuno: sarà ancora valido tre mesi dopo il vostro ritorno, ed è stato rilasciato meno di dieci anni fa? Qualunque cosa che fallisce uno dei due test va nella coda di rinnovo quella settimana — a quel punto, potete ancora rinnovare, riorinare il viaggio, o spostare le vostre date senza penalità, e noi sceglieremmo sempre di rinnovare piuttosto che aspettare per vedere se le date si spostano.
 
-I bambini hanno bisogno dello stesso buffer degli adulti. Non c'è eccezione per i bambini alle regole di validità — il passaporto di un bambino di cinque anni riceve lo stesso trattamento Timatic del vostro. Un aparte per i viaggi britannici e irlandesi: l'Irlanda non è in Schengen affatto. I viaggi UK-Irlanda vengono eseguiti secondo l'Area di viaggio comune separata, quindi non generalizzate da un viaggio a Dublino a uno a Parigi.
+I bambini hanno bisogno dello stesso buffer degli adulti. Non c'è eccezione per i bambini alle regole di validità — il passaporto di un bambino di cinque anni riceve lo stesso trattamento Timatic del vostro. Un aparte per i viaggi britannici e irlandesi: l'Irlanda non è in Schengen affatto. I viaggi UK-Irlanda vengono eseguiti secondo l'[Area di viaggio comune separata](https://www.gov.uk/foreign-travel-advice/ireland/entry-requirements), quindi non generalizzate da un viaggio a Dublino a uno a Parigi.
 
 Nulla di questo ha bisogno di un'app. Un foglio di calcolo aiuta molte famiglie, e un promemoria del calendario due volte all'anno gestisce la maggior parte del lavoro. L'unico non negoziabile: fate l'audit al momento della prenotazione, quando un passaporto breve è ancora un'incombenza, non un'emergenza.
 
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 
-Fonti che abbiamo verificato (6 novembre 2026)
+Fonti ufficiali
 
 - [UK Foreign Office: France entry requirements](https://www.gov.uk/foreign-travel-advice/france/entry-requirements)
 - [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
@@ -80,7 +80,7 @@ Fonti che abbiamo verificato (6 novembre 2026)
 
 ### Qual è la differenza tra la regola dei 6 mesi e la regola Schengen dei 3 mesi?
 
-Sono regole separate per destinazioni diverse. Paesi come la Tailandia e l'Indonesia generalmente richiedono 6 mesi di validità rimanente. Schengen richiede 3 mesi di validità oltre la data di partenza, più un passaporto rilasciato negli ultimi 10 anni. Le famiglie che hanno viaggiato nel Sud-Est asiatico spesso assumono che la cifra di 6 mesi si applichi ovunque — non è così.
+Sono regole separate per destinazioni diverse. Paesi come la Tailandia e l'[Indonesia](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements) generalmente richiedono 6 mesi di validità rimanente. Schengen richiede 3 mesi di validità oltre la data di partenza, più un passaporto rilasciato negli ultimi 10 anni. Le famiglie che hanno viaggiato nel Sud-Est asiatico spesso assumono che la cifra di 6 mesi si applichi ovunque — non è così.
 
 ### I bambini seguono regole diverse per i passaporti Schengen?
 

@@ -36,7 +36,7 @@ Procure em todo o lado antes de assumir o pior — bolsos do casaco, todos os co
 
 ## Passo 2: Apresente um Relatório de Polícia Imediatamente
 
-Vá à esquadra de polícia mais próxima e apresente queixa por passaporte perdido ou roubado. A sua seguradora normalmente vai querê-lo para uma reclamação, e algumas embaixadas pedem-no, embora nem todas: o Governo do Canadá, por exemplo, diz que não é necessário para a substituição do passaporte. Nós fá-lo-íamos dentro da hora, se possível, enquanto os pormenores ainda estão frescos na memória.
+Vá à esquadra de polícia mais próxima e apresente queixa por passaporte perdido ou roubado. A sua seguradora normalmente vai querê-lo para uma reclamação, e algumas embaixadas pedem-no, embora nem todas: [o Governo do Canadá](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings), por exemplo, diz que não é necessário para a substituição do passaporte. Nós fá-lo-íamos dentro da hora, se possível, enquanto os pormenores ainda estão frescos na memória.
 
 Peça uma cópia escrita com número de caso. Solicite uma versão em inglês ou tradução se possível. Tire uma foto e mantenha várias cópias guardadas em segurança.
 
@@ -53,7 +53,7 @@ Contacte antes de visitar. Algumas embaixadas exigem marcação para serviços d
 
 ## Passo 4: Solicite um Documento de Viagem de Emergência
 
-A sua embaixada emite um documento de viagem de emergência (DVE) ou passaporte de emergência, normalmente válido para uma única viagem para casa. O tempo de emissão depende da sede e da urgência do seu caso, por isso pergunte quando ligar.
+A sua embaixada emite um [documento de viagem de emergência (DVE)](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport) ou passaporte de emergência, normalmente válido para uma única viagem para casa. O tempo de emissão depende da sede e da urgência do seu caso, por isso pergunte quando ligar.
 
 O que normalmente vai precisar (confirme com a sua embaixada antes de visitar):
 
@@ -84,12 +84,11 @@ Quando tiver o seu documento de viagem de emergência, confirme requisitos de sa
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 
-Fontes que verificámos (6 de novembro de 2026)
+Fontes oficiais
 
 - [Government of Canada: Lost or stolen belongings abroad](https://travel.gc.ca/assistance/if-things-go-wrong/stolen-belongings)
 - [UK Government: Travel urgently from abroad without your UK passport, How to apply](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport/how-to-apply)
 - [UK Government: Travel urgently from abroad without your UK passport, Who can apply](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport)
-- [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
 
 ## Perguntas Frequentes
 
@@ -103,7 +102,7 @@ Sim. Muitos países emitem documentos de viagem de emergência através das suas
 
 ### Preciso de um relatório de polícia se o meu passaporte for roubado no estrangeiro?
 
-Geralmente vale a pena, embora nem todas as autoridades de passaportes o exijam. O Governo do Canadá diz que um relatório de polícia não é necessário para a substituição do passaporte, mas pode ajudar numa reclamação de seguro, e o GOV.UK não o lista como exigência para um documento de viagem de emergência britânico. Algumas embaixadas pedem-no, e a maioria das seguradoras de viagem quer-o para uma reclamação. Obtenha-o da estação de polícia local imediatamente, peça uma cópia em inglês se possível, e mantenha várias cópias.
+Geralmente vale a pena, embora nem todas as autoridades de passaportes o exijam. O Governo do Canadá diz que um relatório de polícia não é necessário para a substituição do passaporte, mas pode ajudar numa reclamação de seguro, e o [GOV.UK](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport/how-to-apply) não o lista como exigência para um documento de viagem de emergência britânico. Algumas embaixadas pedem-no, e a maioria das seguradoras de viagem quer-o para uma reclamação. Obtenha-o da estação de polícia local imediatamente, peça uma cópia em inglês se possível, e mantenha várias cópias.
 
 ### O seguro de viagem cobre um passaporte perdido ou roubado?
 

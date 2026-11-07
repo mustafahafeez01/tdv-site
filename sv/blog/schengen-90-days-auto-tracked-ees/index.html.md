@@ -16,13 +16,13 @@ Source: https://traveldocumentvault.com/sv/blog/schengen-90-days-auto-tracked-ee
 - EU:s **officiella kalkylator för korta vistelser** fungerar, men den är manuell – en person, ett fönster, en beräkning i taget.
 - Familjer måste hantera **ett separat fönster per person**. Det är där dagräkning i en app verkligen gör nytta.
 
-På din senaste resa till Europa fick du förmodligen en stämpel vid gränsen. Den stämpeln är borta. Sedan den 10 april 2026 är EU:s in- och utresesystem (EES) fullt i drift i hela Schengenområdet, och det suddiga bläcket som en gång registrerade dina resor har ersatts av en digital post som börjar i samma ögonblick som du passerar gränsen.
+På din senaste resa till Europa fick du förmodligen en stämpel vid gränsen. Den stämpeln är borta. Sedan den 10 april 2026 är EU:s in- och utresesystem (EES) [fullt i drift](https://home-affairs.ec.europa.eu/news/entryexit-system-will-become-fully-operational-10-april-2026-2026-03-30_en) i hela Schengenområdet, och det suddiga bläcket som en gång registrerade dina resor har ersatts av en digital post som börjar i samma ögonblick som du passerar gränsen.
 
 För alla som räknar Schengendagar – och det bör varje icke-EU-besökare göra – höjer det här insatserna avsevärt. Här är vad det nya systemet faktiskt gör, vad det medvetet inte gör, och hur du håller din egen räkning så att en gräns aldrig överraskar dig.
 
 ## Vad som har förändrats vid Europas gränser
 
-EES registrerar varje icke-EU-resenärs fingeravtryck, ansiktsbild, resedokument och exakta in- och utresedatum. När EES blev fullt i drift den 10 april 2026 uppgav EU-kommissionen att över 52 miljoner in- och utresor hade registrerats sedan den etappvisa lanseringen i oktober 2025, med över 27 000 nekade inresor. Den första registreringen tar några minuter vid kiosken, och flygplatser har rapporterat flertimmarsköer under högsäsong i sommar medan alla vänjer sig.
+EES registrerar varje icke-EU-resenärs fingeravtryck, ansiktsbild, resedokument och exakta in- och utresedatum. När EES blev fullt i drift den 10 april 2026 uppgav [EU-kommissionen](https://home-affairs.ec.europa.eu/news/entryexit-system-ees-fully-operational-2026-04-10_en) att över 52 miljoner in- och utresor hade registrerats sedan den etappvisa lanseringen i oktober 2025, med över 27 000 nekade inresor. Den första registreringen tar några minuter vid kiosken, och flygplatser har rapporterat flertimmarsköer under högsäsong i sommar medan alla vänjer sig.
 
 Alla registreras inte. EU-medborgare, personer bosatta i Schengenländer och innehavare av visum för längre vistelser är undantagna. Om du reser på den viseringsfria korttidsvistelsen – de flesta brittiska, amerikanska, kanadensiska och australiska resenärer, till exempel – gäller EES dig.
 
@@ -32,11 +32,11 @@ Själva regeln har inte ändrats: du får vistas högst 90 dagar i Schengenområ
 
 ![Tidslinjediagram över Schengens rullande 90/180-fönster: från 180 dagar sedan till i dag använder två resor på 30 och 45 dagar 75 av 90 dagar, vilket lämnar 15; fönstret glider varje dag och både ankomst- och avresedagen räknas](https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/90-180-window-sv.jpg) Fönstret återställs aldrig: för varje enskild dag får de föregående 180 dagarna innehålla högst 90 dagars vistelse.
 
-Det som har förändrats är kontrollen. Med passtämplar innebar det att bevisa en överstigning att tyda blekt bläck, och gränspoliser hade eget bedömningsutrymme. Nu är datumen exakta, och systemet flaggar en överstigning i samma ögonblick den sker. Räkna med nekad inresa nästa gång, och i vissa fall ett inreseförbud, i allmänhet på upp till fem år, som myndigheterna registrerar i Schengens informationssystem. Felmarginalen har gått från oskarp till obefintlig.
+Det som har förändrats är kontrollen. Med passtämplar innebar det att bevisa en överstigning att tyda blekt bläck, och gränspoliser hade eget bedömningsutrymme. Nu är datumen exakta, och systemet flaggar en överstigning i samma ögonblick den sker. Räkna med nekad inresa nästa gång, och i vissa fall ett [inreseförbud](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32008L0115), i allmänhet på upp till fem år, som myndigheterna registrerar i Schengens informationssystem. Felmarginalen har gått från oskarp till obefintlig.
 
 ## Haken: EES kontrollerar, det planerar inte
 
-EES registrerar dina dagar för kontrolländamål, och EU låter dig nu se var du står. Dess EES-onlineverktyg, på den officiella webbplatsen Travel to Europe, visar hur många dagar du fortfarande får stanna, och vissa yttre gränsövergångar erbjuder samma kontroll. Vad verktyget visar är ditt register hittills. Att räkna ut om en resa du ännu inte har gjort kommer att rymmas är fortfarande ditt eget ansvar.
+EES registrerar dina dagar för kontrolländamål, och EU låter dig nu se var du står. Dess EES-onlineverktyg, på den officiella webbplatsen [Travel to Europe](https://travel-europe.europa.eu/en/ees), visar hur många dagar du fortfarande får stanna, och vissa yttre gränsövergångar erbjuder samma kontroll. Vad verktyget visar är ditt register hittills. Att räkna ut om en resa du ännu inte har gjort kommer att rymmas är fortfarande ditt eget ansvar.
 
 EU publicerar en officiell kalkylator för korta vistelser som verkligen är värd att bokmärka. Du anger dina tidigare in- och utresedatum, och den talar om huruvida en planerad vistelse ryms inom ditt fönster. Den fungerar bra för en enskild resenär som för noggranna anteckningar. Friktionen uppstår när anteckningarna bara finns i minnet, eller när du gör samma övning för fyra personer samtidigt.
 
@@ -44,11 +44,11 @@ EU publicerar en officiell kalkylator för korta vistelser som verkligen är vä
 
 EES gäller inte alla. Systemet registrerar icke-EU-besökare som anländer på den viseringsfria korttidsvistelsen, samt personer med korttidsvisum. Har du medborgarskap i USA, Storbritannien, Kanada, Australien, eller något av dussintals andra länder, gäller EES dig i samma stund du reser in i Schengenområdet.
 
-Är du EU-, EES- eller schweizisk medborgare är du undantagen - ditt pass går inte igenom någon särskild inresekontroll, och EES registrerar inte dina in- och utresor. Den officiella listan över undantag är längre, och den omfattar bland annat icke-EU-familjemedlemmar till EU-medborgare som innehar ett uppehållskort. Att vara undantagen från EES är dock inte samma sak som att vara undantagen från 90/180-regeln. Är du en icke-EU-besökare på en kort vistelse gäller regeln oavsett om en gräns redan har registrerat dig eller inte. Tid du tillbringar i ett Schengenland med uppehållstillstånd eller ett nationellt visum för längre vistelse (typ D) från det landet räknas inte in i det, men korta besök i andra Schengenländer gör det i allmänhet fortfarande, så kontrollera med myndigheten som utfärdade ditt tillstånd.
+Är du EU-, EES- eller schweizisk medborgare är du undantagen - ditt pass går inte igenom någon särskild inresekontroll, och EES registrerar inte dina in- och utresor. [Den officiella listan över undantag](https://home-affairs.ec.europa.eu/news/entry-exit-system-fully-operational-10-april-2026-who-exempt-2026-07-27_en) är längre, och den omfattar bland annat icke-EU-familjemedlemmar till EU-medborgare som innehar ett uppehållskort. Att vara undantagen från EES är dock inte samma sak som att vara undantagen från 90/180-regeln. Är du en icke-EU-besökare på en kort vistelse gäller regeln oavsett om en gräns redan har registrerat dig eller inte. Tid du tillbringar i ett Schengenland med uppehållstillstånd eller ett nationellt visum för längre vistelse (typ D) från det landet räknas inte in i det, men korta besök i andra Schengenländer gör det i allmänhet fortfarande, så kontrollera med myndigheten som utfärdade ditt tillstånd.
 
 ## Vad som händer vid din första EES-gränspassage
 
-Systemet skapar din registrering vid din första gränspassage in i Schengenområdet. Du köar vid en biometrisk kiosk vid gränsen - flygplats, hamn eller landgräns. En tjänsteman skannar ditt pass eller resedokument för att kontrollera din identitet. Systemet fångar din ansiktsbild. Behöver du inte visum tar det även fyra fingeravtryck; reser du med ett kortvistelsevisum lagrar det bara din ansiktsbild, eftersom dina fingeravtryck togs när du ansökte. Det tar längre tid än stämpeln det ersätter, och du gör det bara en gång.
+Systemet skapar din registrering vid din första gränspassage in i Schengenområdet. Du köar vid en biometrisk kiosk vid gränsen - flygplats, hamn eller landgräns. En tjänsteman skannar ditt pass eller resedokument för att kontrollera din identitet. Systemet fångar din ansiktsbild. Behöver du inte visum tar det även [fyra fingeravtryck](https://travel-europe.europa.eu/en/ees/faq); reser du med ett kortvistelsevisum lagrar det bara din ansiktsbild, eftersom dina fingeravtryck togs när du ansökte. Det tar längre tid än stämpeln det ersätter, och du gör det bara en gång.
 
 När du väl är registrerad sparar systemet exakt datum och klockslag för din inresa. Överskrider du senare dina 90 av 180 dagar blir just den tidsstämpeln referenspunkten som EES använder för att beräkna ditt rullande fönster.
 
@@ -106,7 +106,7 @@ Den digitala gränsen är grundlig, automatisk och osentimental, men att hålla 
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 
-Källor vi har kontrollerat (6 november 2026)
+Officiella källor
 
 - [EU travel: Entry/Exit System (EES)](https://travel-europe.europa.eu/en/ees)
 - [EU travel: EES frequently asked questions](https://travel-europe.europa.eu/en/ees/faq)

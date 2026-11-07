@@ -13,12 +13,12 @@ Source: https://traveldocumentvault.com/id/blog/etias-documents-2026/
 - **ETIAS adalah izin perjalanan digital** bagi pelancong dari Inggris, AS, dan Kanada, diperlukan untuk masuk bebas visa ke kawasan Schengen setelah menjadi wajib
 - **Anda memerlukan paspor yang berlaku lebih dari 3 bulan** setelah tanggal keberangkatan serta alamat email untuk mengajukan permohonan
 - Waktu pemrosesan bervariasi, terutama segera setelah peluncuran; **ajukan jauh-jauh hari sebelum perjalanan** dan periksa situs resmi UE untuk panduan terkini
-- Periksa situs resmi UE untuk biaya terkini; **anak di bawah 18 tahun dan dewasa di atas 70 tahun tidak membayar** tetapi tetap memerlukan izin
+- Periksa [situs resmi UE](https://home-affairs.ec.europa.eu/news/european-travel-authorisation-etias-will-cost-eur-20-2025-07-17_en) untuk biaya terkini; **anak di bawah 18 tahun dan dewasa di atas 70 tahun tidak membayar** tetapi tetap memerlukan izin
 - **Keraguan terhadap keandalan jawaban Anda dapat menyebabkan penolakan, jadi ungkapkan semuanya, bahkan yang sudah lama**
 
 Anda sudah memesan perjalanan keluarga ke Italia dan mendengar bahwa ETIAS akan segera hadir, persyaratan izin digital baru bagi pengunjung bebas visa yang menuju Eropa. Panduan ini menjelaskan apa itu ETIAS, dokumen apa yang Anda perlukan, dan bagaimana proses permohonannya berjalan, sehingga Anda siap sebelum sampai ke formulir.
 
-European Travel Information and Authorisation System (ETIAS) bukanlah [visa](https://traveldocumentvault.com/id/blog/visa-vs-passport/), ini adalah izin digital pra-perjalanan bagi pengunjung dari negara bebas visa. Jika Anda warga negara Inggris, AS, atau Kanada, Anda umumnya mendaftar di perbatasan melalui Entry/Exit System (foto dan sidik jari saat pertama kali masuk), lalu menjalani pemeriksaan perbatasan. Setelah ETIAS menjadi wajib, proses itu berpindah ke daring, Anda mengajukan permohonan sebelum terbang.
+European Travel Information and Authorisation System (ETIAS) bukanlah [visa](https://traveldocumentvault.com/id/blog/visa-vs-passport/), ini adalah [izin digital pra-perjalanan](https://travel-europe.europa.eu/en/etias) bagi pengunjung dari negara bebas visa. Jika Anda warga negara Inggris, AS, atau Kanada, Anda umumnya mendaftar di perbatasan melalui [Entry/Exit System](https://travel-europe.europa.eu/en/ees) (foto dan sidik jari saat pertama kali masuk), lalu menjalani pemeriksaan perbatasan. Setelah ETIAS menjadi wajib, proses itu berpindah ke daring, Anda mengajukan permohonan sebelum terbang.
 
 ## Apa Itu ETIAS dan Siapa yang Memerlukannya?
 
@@ -110,7 +110,7 @@ Tugas praktis hari ini: ambil paspor Anda dan cocokkan dengan aturan masa berlak
 
 **Sebelum Anda mengandalkan ini:** ini adalah blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 
-Sumber yang kami periksa (6 November 2026)
+Sumber resmi
 
 - [EU travel: ETIAS](https://travel-europe.europa.eu/en/etias)
 - [EU travel: Entry/Exit System (EES)](https://travel-europe.europa.eu/en/ees)

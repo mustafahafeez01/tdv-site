@@ -60,7 +60,7 @@ The issue date stops being trivia the moment a country checks it directly. Passp
 
 British passports issued more recently no longer carry those extra months, but older booklets holding them are still in circulation and still in use.
 
-Schengen countries generally apply two separate tests to a non-EU passport at the border: it must have been issued less than ten years before the date you arrive, and it must stay valid for at least three months after you intend to leave. A booklet carrying nine extra months can satisfy the second test comfortably and fail the first, which is a difficult conversation to have at a desk in Madrid with a document that has not expired.
+Schengen countries generally apply two separate tests to a non-EU passport at the border: it must have been [issued less than ten years before the date you arrive](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements), and it must stay valid for at least three months after you intend to leave. A booklet carrying nine extra months can satisfy the second test comfortably and fail the first, which is a difficult conversation to have at a desk in Madrid with a document that has not expired.
 
 We’d check both dates before a European trip, not just the one at the bottom.
 
@@ -96,7 +96,7 @@ Take five minutes today to find both dates on your own passport, and on each chi
 
 **Before you rely on this:** it’s a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [UK Foreign Office: Spain entry requirements](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements)
 

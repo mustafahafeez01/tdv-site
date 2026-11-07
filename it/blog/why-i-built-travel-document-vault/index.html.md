@@ -12,7 +12,7 @@ Ero all'immigrazione quando l'agente ha guardato il passaporto di mia figlia, si
 
 "Sa che scade tra sette mesi, vero?" ha detto. "Le faccio presente che alcuni Paesi non la lasciano entrare con meno di sei mesi di validità residua."
 
-L'ho ringraziato. Ce la stavamo cavando, per un pelo. Ma per tutto il viaggio non riuscivo a smettere di pensarci: se non avesse detto nulla, non me ne sarei mai accorto. Sette mesi mi sembravano tanti. Avevo controllato il passaporto prima di prenotare. Mi ero semplicemente dimenticato completamente della regola dei sei mesi che molti Paesi applicano.
+L'ho ringraziato. Ce la stavamo cavando, per un pelo. Ma per tutto il viaggio non riuscivo a smettere di pensarci: se non avesse detto nulla, non me ne sarei mai accorto. Sette mesi mi sembravano tanti. Avevo controllato il passaporto prima di prenotare. Mi ero semplicemente dimenticato completamente della [regola dei sei mesi](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements) che molti Paesi applicano.
 
 Quell'incidente sfiorato mi è rimasto impresso. Avevo già impostato dei promemoria sul calendario per le date di scadenza dei passaporti di tutti. Pensavo che fosse sufficiente. Ma in realtà non controllavo le date, mi fidavo semplicemente dei promemoria. E quando qualcuno rinnovava il passaporto, dovevo aggiornare il promemoria, aggiornare la scansione su Google Drive e sperare di non aver dimenticato nulla.
 
@@ -118,7 +118,7 @@ Mustafa
 
 Fondatore, Travel Document Vault
 
-Fonti che abbiamo verificato (6 novembre 2026)
+Fonti ufficiali
 
 - [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
 

@@ -34,15 +34,15 @@ Algumas companhias aéreas e agentes de fronteira podem pedir para ver prova da 
 
 ### Certificados de vacinação
 
-Certos destinos exigem comprovante de vacinação contra febre amarela ou outras doenças, e os requisitos mudam periodicamente por destino. Consulte as páginas de conselhos de viagem da OMS 4-8 semanas antes de viajar — não na noite anterior — e leve o certificado original em vez de uma cópia, pois alguns países pedem para o ver.
+Certos destinos exigem comprovante de vacinação contra febre amarela ou outras doenças, e os requisitos mudam periodicamente por destino. Consulte as [páginas de conselhos de viagem da OMS](https://www.who.int/health-topics/travel-and-health) 4-8 semanas antes de viajar — não na noite anterior — e leve o certificado original em vez de uma cópia, pois alguns países pedem para o ver.
 
 ### Detalhes de seguro de viagem
 
-Precisará de acesso imediato ao número da sua apólice, detalhes de contacto do emitente e à sua linha de emergência 24 horas. Alguns tipos de visto exigem explicitamente comprovante de seguro de viagem — as candidaturas de visto Schengen, por exemplo, exigem seguro médico cobrindo cuidados de emergência e hospitalização. Mas mais importantemente, se algo correr mal no estrangeiro, precisa destes detalhes sem depender de acesso a email ou internet.
+Precisará de acesso imediato ao número da sua apólice, detalhes de contacto do emitente e à sua linha de emergência 24 horas. Alguns tipos de visto exigem explicitamente comprovante de seguro de viagem — [as candidaturas de visto Schengen](https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en), por exemplo, exigem seguro médico cobrindo cuidados de emergência e hospitalização. Mas mais importantemente, se algo correr mal no estrangeiro, precisa destes detalhes sem depender de acesso a email ou internet.
 
 ### Cartas de consentimento para viagem de menores
 
-Quando uma criança viaja internacionalmente com apenas um progenitor (ou sem ambos os progenitores), muitos países esperam consentimento escrito do progenitor ausente, e a autenticação por notário é fortemente recomendada. Os agentes de fronteira e o pessoal das companhias aéreas de muitos países, o Canadá entre eles, podem pedir isto, e a África do Sul tem regras próprias para crianças que entram no país, por isso consulte a página oficial do destino. Sem uma carta, pode enfrentar atrasos ou a recusa de embarque.
+Quando uma criança viaja internacionalmente com apenas um progenitor (ou sem ambos os progenitores), muitos países esperam consentimento escrito do progenitor ausente, e a autenticação por notário é fortemente recomendada. Os agentes de fronteira e o pessoal das companhias aéreas de muitos países, o [Canadá](https://travel.gc.ca/travelling/children/consent-letter) entre eles, podem pedir isto, e a [África do Sul](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements) tem regras próprias para crianças que entram no país, por isso consulte a página oficial do destino. Sem uma carta, pode enfrentar atrasos ou a recusa de embarque.
 
 É o documento mais frequentemente esquecido em viagens familiares, portanto verifique duas vezes antes de chegar à porta.
 
@@ -109,7 +109,7 @@ Escolha o documento desta lista de que ainda não tem cópia de segurança, seja
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 
-Fontes que verificámos (6 de novembro de 2026)
+Fontes oficiais
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [UK Foreign Office: South Africa entry requirements](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements)

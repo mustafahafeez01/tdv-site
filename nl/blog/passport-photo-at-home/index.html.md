@@ -24,7 +24,7 @@ Hoewel de specifieke regels per paspoortinstantie verschillen, delen de meeste l
 
 ### Achtergrond en compositie
 
-Je hebt een effen, lichte achtergrond nodig, en de exacte kleur hangt af van je instantie: GOV.UK vraagt om effen crème of lichtgrijs, terwijl de Canadese overheid om effen wit of lichtgekleurd vraagt. Geen patronen, schaduwen, wazige achtergronden of felle kleuren. De reden is simpel: ambtenaren hebben een schoon, ongestoord beeld van je gezicht nodig om te vergelijken met toekomstige documenten. Gebruik een effen laken of posterbord in de kleur die je instantie voorschrijft (crème of lichtgrijs voor het VK), of schilder een klein stukje muur. Het belangrijkste is dat het licht en gelijkmatig blijft, over de hele achtergrond.
+Je hebt een effen, lichte achtergrond nodig, en de exacte kleur hangt af van je instantie: [GOV.UK](https://www.gov.uk/photos-for-passports) vraagt om effen crème of lichtgrijs, terwijl [de Canadese overheid](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/photos.html) om effen wit of lichtgekleurd vraagt. Geen patronen, schaduwen, wazige achtergronden of felle kleuren. De reden is simpel: ambtenaren hebben een schoon, ongestoord beeld van je gezicht nodig om te vergelijken met toekomstige documenten. Gebruik een effen laken of posterbord in de kleur die je instantie voorschrijft (crème of lichtgrijs voor het VK), of schilder een klein stukje muur. Het belangrijkste is dat het licht en gelijkmatig blijft, over de hele achtergrond.
 
 ### Uitdrukking en houding
 
@@ -125,7 +125,7 @@ Heb je goed daglicht bij een raam en een paar minuten over, maak de foto dan van
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 
-Bronnen die we hebben gecontroleerd (6 november 2026)
+Officiële bronnen
 
 - [UK Government: Get a passport photo, Digital photos](https://www.gov.uk/photos-for-passports)
 - [Government of Canada: Passport photo requirements](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/photos.html)

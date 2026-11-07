@@ -34,15 +34,15 @@ Beberapa maskapai dan petugas perbatasan bisa meminta bukti pemesanan malam pert
 
 ### Sertifikat vaksinasi
 
-Destinasi tertentu mensyaratkan bukti vaksinasi demam kuning atau penyakit lain, dan persyaratannya berubah secara berkala tergantung destinasi. Periksa halaman informasi perjalanan WHO 4-8 minggu sebelum berangkat, bukan malam sebelumnya, dan bawa sertifikat asli, bukan salinan, karena beberapa negara meminta untuk melihatnya.
+Destinasi tertentu mensyaratkan bukti vaksinasi demam kuning atau penyakit lain, dan persyaratannya berubah secara berkala tergantung destinasi. Periksa [halaman informasi perjalanan WHO](https://www.who.int/health-topics/travel-and-health) 4-8 minggu sebelum berangkat, bukan malam sebelumnya, dan bawa sertifikat asli, bukan salinan, karena beberapa negara meminta untuk melihatnya.
 
 ### Detail asuransi perjalanan
 
-Anda perlu akses langsung ke nomor polis, kontak penerbit, dan hotline darurat 24 jam. Beberapa jenis visa secara eksplisit mensyaratkan bukti asuransi perjalanan — permohonan visa Schengen, misalnya, memerlukan asuransi medis yang mencakup perawatan darurat dan rawat inap. Namun yang lebih penting, jika terjadi sesuatu di luar negeri, Anda butuh detail ini tanpa bergantung pada email atau akses internet.
+Anda perlu akses langsung ke nomor polis, kontak penerbit, dan hotline darurat 24 jam. Beberapa jenis visa secara eksplisit mensyaratkan bukti asuransi perjalanan — [permohonan visa Schengen](https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en), misalnya, memerlukan asuransi medis yang mencakup perawatan darurat dan rawat inap. Namun yang lebih penting, jika terjadi sesuatu di luar negeri, Anda butuh detail ini tanpa bergantung pada email atau akses internet.
 
 ### Surat izin perjalanan anak
 
-Ketika seorang anak bepergian internasional hanya dengan satu orang tua (atau tanpa kedua orang tua), banyak negara mengharapkan izin tertulis dari orang tua yang tidak ikut, dan notarisasi sangat disarankan. Petugas perbatasan dan staf maskapai di banyak negara, termasuk Kanada, bisa memintanya, dan Afrika Selatan punya aturan sendiri untuk anak yang masuk ke negaranya, jadi periksa halaman resmi negara tujuan. Tanpa surat itu Anda bisa menghadapi penundaan atau ditolak naik pesawat.
+Ketika seorang anak bepergian internasional hanya dengan satu orang tua (atau tanpa kedua orang tua), banyak negara mengharapkan izin tertulis dari orang tua yang tidak ikut, dan notarisasi sangat disarankan. Petugas perbatasan dan staf maskapai di banyak negara, termasuk [Kanada](https://travel.gc.ca/travelling/children/consent-letter), bisa memintanya, dan [Afrika Selatan](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements) punya aturan sendiri untuk anak yang masuk ke negaranya, jadi periksa halaman resmi negara tujuan. Tanpa surat itu Anda bisa menghadapi penundaan atau ditolak naik pesawat.
 
 Ini dokumen yang paling sering diabaikan dalam perjalanan keluarga, jadi periksa kembali sebelum Anda tiba di gerbang.
 
@@ -109,7 +109,7 @@ Pilih satu dokumen dari daftar ini yang belum Anda cadangkan, entah itu surat iz
 
 **Sebelum Anda mengandalkan ini:** ini adalah blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 
-Sumber yang kami periksa (6 November 2026)
+Sumber resmi
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [UK Foreign Office: South Africa entry requirements](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements)

@@ -34,15 +34,15 @@ Alcune compagnie aeree e alcuni ufficiali di frontiera possono chiedere di veder
 
 ### Certificati di vaccinazione
 
-Certe destinazioni richiedono prova di vaccinazione per la febbre gialla o altre malattie, e i requisiti cambiano periodicamente per destinazione. Controllare le pagine di consulenza ai viaggiatori dell'OMS 4-8 settimane prima del viaggio — non la notte prima — e portare il certificato originale anziché una copia, poiché alcuni paesi chiedono di vederlo.
+Certe destinazioni richiedono prova di vaccinazione per la febbre gialla o altre malattie, e i requisiti cambiano periodicamente per destinazione. Controllare le [pagine di consulenza ai viaggiatori dell'OMS](https://www.who.int/health-topics/travel-and-health) 4-8 settimane prima del viaggio — non la notte prima — e portare il certificato originale anziché una copia, poiché alcuni paesi chiedono di vederlo.
 
 ### Dettagli di assicurazione di viaggio
 
-Sarà necessario accesso immediato al numero della polizza, ai dettagli di contatto dell'emittente e alla linea di emergenza 24 ore. Alcuni tipi di visto richiedono esplicitamente prova di assicurazione di viaggio — le applicazioni per il visto Schengen, ad esempio, richiedono un'assicurazione medica che copra l'assistenza di emergenza e l'ospedalizzazione. Ma ancora più importante, se qualcosa va male all'estero, si hanno bisogno di questi dettagli senza fare affidamento sull'accesso alla posta elettronica o a internet.
+Sarà necessario accesso immediato al numero della polizza, ai dettagli di contatto dell'emittente e alla linea di emergenza 24 ore. Alcuni tipi di visto richiedono esplicitamente prova di assicurazione di viaggio — [le applicazioni per il visto Schengen](https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en), ad esempio, richiedono un'assicurazione medica che copra l'assistenza di emergenza e l'ospedalizzazione. Ma ancora più importante, se qualcosa va male all'estero, si hanno bisogno di questi dettagli senza fare affidamento sull'accesso alla posta elettronica o a internet.
 
 ### Lettere di consenso per il viaggio dei bambini
 
-Quando un bambino viaggia internazionalmente solo con un genitore (o con nessuno dei due genitori), molti paesi si aspettano il consenso scritto del genitore assente, e la notarizzazione è vivamente consigliata. I funzionari di frontiera e il personale delle compagnie aeree in molti paesi, il Canada tra questi, possono chiederne una, e il Sudafrica ha regole proprie per i minori che entrano nel paese, quindi consulta la pagina ufficiale della destinazione. Senza una lettera si possono subire ritardi o il rifiuto dell'imbarco.
+Quando un bambino viaggia internazionalmente solo con un genitore (o con nessuno dei due genitori), molti paesi si aspettano il consenso scritto del genitore assente, e la notarizzazione è vivamente consigliata. I funzionari di frontiera e il personale delle compagnie aeree in molti paesi, il [Canada](https://travel.gc.ca/travelling/children/consent-letter) tra questi, possono chiederne una, e il [Sudafrica](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements) ha regole proprie per i minori che entrano nel paese, quindi consulta la pagina ufficiale della destinazione. Senza una lettera si possono subire ritardi o il rifiuto dell'imbarco.
 
 È il documento più comunemente trascurato nei viaggi in famiglia, quindi verificare prima di raggiungere il gate.
 
@@ -109,7 +109,7 @@ Scegli il documento di questa lista di cui non hai ancora un backup, che sia la 
 
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 
-Fonti che abbiamo verificato (6 novembre 2026)
+Fonti ufficiali
 
 - [Government of Canada: Consent letter for children travelling outside Canada](https://travel.gc.ca/travelling/children/consent-letter)
 - [UK Foreign Office: South Africa entry requirements](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements)

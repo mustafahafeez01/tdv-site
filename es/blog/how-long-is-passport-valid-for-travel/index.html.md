@@ -16,13 +16,13 @@ Source: https://traveldocumentvault.com/es/blog/how-long-is-passport-valid-for-t
 - Los pasaportes de niños expiran más rápido que los de los padres —**verifica cada pasaporte en tu grupo individualmente** antes de reservar, no solo el tuyo.
 - El umbral práctico de renovación es **12 meses de validez restante**, no la fecha de vencimiento en sí.
 
-Siete meses restantes en tu pasaporte suena como mucho. Reservas los vuelos, verificas la asignación de equipaje, empiezas a buscar hoteles. Luego llegas al mostrador de check-in para tu vuelo a Bangkok y el agente se detiene. Tailandia requiere que tu pasaporte sea válido durante al menos 6 meses en el día que llegas. Te faltan dos semanas. No embarcarás.
+Siete meses restantes en tu pasaporte suena como mucho. Reservas los vuelos, verificas la asignación de equipaje, empiezas a buscar hoteles. Luego llegas al mostrador de check-in para tu vuelo a Bangkok y el agente se detiene. [Tailandia requiere](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements) que tu pasaporte sea válido durante al menos 6 meses en el día que llegas. Te faltan dos semanas. No embarcarás.
 
 Es una de las reglas de viaje más malentendidas. Un pasaporte que no ha vencido puede aun así no cumplir los requisitos de entrada para docenas de destinos populares. Entender cómo se cuentan realmente los meses de validez del pasaporte puede salvarte de un error muy costoso.
 
 ## Los Pasaportes de Adultos Duran Mucho Más Que los de Niños
 
-El período de validez estándar para un pasaporte de adulto es de 10 años desde la fecha de emisión en la mayoría de países. Los pasaportes de niños expiran antes —típicamente 5 años—. Nosotros revisaríamos primero el pasaporte de un niño antes que el de nadie, porque es el que todo el mundo da por bueno.
+El período de validez estándar para un pasaporte de adulto es de 10 años desde la fecha de emisión en la mayoría de países. Los pasaportes de niños expiran antes —[típicamente 5 años](https://www.gov.uk/get-a-child-passport)—. Nosotros revisaríamos primero el pasaporte de un niño antes que el de nadie, porque es el que todo el mundo da por bueno.
 
 | País | Validez de adulto | Validez de niño |
 |---|---|---|
@@ -83,7 +83,7 @@ Si también lees nuestra guía sobre [cuánto tiempo toma la renovación del pas
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 
-Fuentes que hemos comprobado (6 de noviembre de 2026)
+Fuentes oficiales
 
 - [UK Government: Get a passport for your child](https://www.gov.uk/get-a-child-passport)
 - [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)

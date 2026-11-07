@@ -22,7 +22,7 @@ Itu semua bukan alasan untuk menunda. Itu alasan untuk memilih beberapa minggu y
 
 ## Tidak Ada Masa Tunggu Resmi Sebelum Anda Bisa Memperpanjang
 
-HM Passport Office mengaitkan perpanjangan dengan dua pemicu: paspor Anda sudah kedaluwarsa, atau masa berlakunya tidak lagi cukup untuk tujuan Anda. Panduan perpanjangannya tidak menetapkan tanggal paling awal, dan menyatakan bahwa berapa lama masa berlaku yang Anda butuhkan tergantung pada negara yang Anda kunjungi. USAGov menganjurkan warga Amerika untuk memperpanjang lebih awal, karena waktu prosesnya bervariasi dan beberapa negara serta maskapai menolak masuk jika masa berlaku paspor kurang dari enam bulan.
+HM Passport Office mengaitkan perpanjangan dengan dua pemicu: paspor Anda sudah kedaluwarsa, atau masa berlakunya tidak lagi cukup untuk tujuan Anda. [Panduan perpanjangannya](https://www.gov.uk/renew-adult-passport/renew) tidak menetapkan tanggal paling awal, dan menyatakan bahwa berapa lama masa berlaku yang Anda butuhkan tergantung pada negara yang Anda kunjungi. USAGov menganjurkan warga Amerika untuk memperpanjang lebih awal, karena waktu prosesnya bervariasi dan beberapa negara serta maskapai menolak masuk jika masa berlaku paspor kurang dari enam bulan.
 
 Kanada menetapkan satu batas, dan bahkan batas itu pun fleksibel. Pemerintah Kanada menyatakan bahwa jika Anda mengajukan lebih dari setahun sebelum paspor kedaluwarsa, mereka akan menanyakan alasannya, dan permohonan lewat pos memerlukan penjelasan tertulis. Layanan perpanjangan online-nya bahkan lebih terbatas, hanya dibuka jika paspor Anda akan kedaluwarsa dalam enam bulan ke depan atau sudah kedaluwarsa.
 
@@ -30,7 +30,7 @@ Jika Anda warga Amerika, ada satu batas lain yang perlu diketahui: USAGov menyat
 
 ## Memperpanjang Lebih Awal di Inggris Berarti Mengembalikan Bulan yang Masih Tersisa
 
-Ini biaya sesungguhnya dari memperpanjang lebih awal, dan nilainya lebih kecil daripada kedengarannya. Panduan historis HM Passport Office menjelaskan bahwa antara November 2004 dan Oktober 2018, siapa pun yang memperpanjang sebelum kedaluwarsa bisa mendapat tambahan hingga sembilan bulan masa berlaku yang belum terpakai pada paspor baru. Sejak Oktober 2018 hal itu tidak lagi terjadi, sehingga sisa masa berlaku paspor lama begitu saja hilang.
+Ini biaya sesungguhnya dari memperpanjang lebih awal, dan nilainya lebih kecil daripada kedengarannya. [Panduan historis](https://www.gov.uk/government/publications/historic-passport-information-caseworker-guidance/historic-passport-information-accessible) HM Passport Office menjelaskan bahwa antara November 2004 dan Oktober 2018, siapa pun yang memperpanjang sebelum kedaluwarsa bisa mendapat tambahan hingga sembilan bulan masa berlaku yang belum terpakai pada paspor baru. Sejak Oktober 2018 hal itu tidak lagi terjadi, sehingga sisa masa berlaku paspor lama begitu saja hilang.
 
 Jika Anda mengajukan sembilan bulan lebih awal, Anda menukar sembilan bulan itu dengan paspor yang tidak perlu Anda pikirkan lagi selama satu dekade. Kami akan selalu memilih pertukaran itu, karena alternatifnya adalah memperpanjang dengan waktu yang sempit sementara perjalanan sudah ada di kalender.
 
@@ -71,7 +71,7 @@ Jika ada perjalanan keluarga di depan, periksa semua paspor di rumah tangga Anda
 
 **Sebelum Anda mengandalkan ini:** ini adalah blog, bukan sumber resmi. Aturan dan detailnya bisa berubah, dan situasi Anda mungkin berbeda. Kami memeriksa apa yang kami terbitkan, tetapi kami tetap bisa salah atau informasinya sudah usang. Jika ada hal di sini yang penting bagi rencana Anda, konfirmasikan dengan otoritas yang menanganinya sebelum Anda bertindak.
 
-Sumber yang kami periksa (6 November 2026)
+Sumber resmi
 
 - [USAGov: Renew an adult passport](https://www.usa.gov/renew-adult-passport)
 - [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)

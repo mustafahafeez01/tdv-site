@@ -36,7 +36,7 @@ Ihre Versicherungsunterlagen liegen bei dem, der Ihnen die Deckung verkauft hat,
 
 Wenn Sie sich nicht einmal erinnern, eine Police gekauft zu haben, prüfen Sie Ihr Bankkonto. Der Financial Ombudsman Service beschreibt ein Bankkonto mit Zusatzleistungen als ein Girokonto, das eine monatliche Gebühr verlangt und dafür zusätzliche Vorteile bietet, darunter Reiseversicherung. In diesem Fall ist die Bank in der Regel die erste Anlaufstelle. Versuchen Sie es über ihre App, Website oder Hotline.
 
-Sobald Sie sie haben, rät das britische Foreign, Commonwealth and Development Office, Ihre Versicherungsdetails mitzunehmen, einschließlich Versicherungsnummer und der Notrufnummer Ihres Versicherers. Es empfiehlt außerdem, diese mit Mitreisenden und der Familie zu Hause zu teilen. Wenn Sie immer noch nichts finden, rufen Sie den Versicherer an, oder bei einem Konto mit Zusatzleistungen die Bank, und bitten Sie darum, Ihnen die Unterlagen vor dem Abflug erneut zuzusenden, nicht erst, wenn etwas schiefgeht.
+Sobald Sie sie haben, rät das [britische Foreign, Commonwealth and Development Office](https://www.gov.uk/guidance/foreign-travel-insurance), Ihre Versicherungsdetails mitzunehmen, einschließlich Versicherungsnummer und der Notrufnummer Ihres Versicherers. Es empfiehlt außerdem, diese mit Mitreisenden und der Familie zu Hause zu teilen. Wenn Sie immer noch nichts finden, rufen Sie den Versicherer an, oder bei einem Konto mit Zusatzleistungen die Bank, und bitten Sie darum, Ihnen die Unterlagen vor dem Abflug erneut zuzusenden, nicht erst, wenn etwas schiefgeht.
 
 ## Die fünf Dokumente, die Sie vor dem Flug speichern müssen
 
@@ -146,7 +146,7 @@ Zwanzig Minuten jetzt, und Sie suchen bei einer Krise nichts davon.
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 
-Quellen, die wir geprüft haben (6. November 2026)
+Offizielle Quellen
 
 - [UK Government: Foreign travel insurance](https://www.gov.uk/guidance/foreign-travel-insurance)
 

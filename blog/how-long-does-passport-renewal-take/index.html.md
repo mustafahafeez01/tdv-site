@@ -42,7 +42,7 @@ What this means in practice
 
 Say you're travelling during a country's peak season and your passport is getting close to the line. Paying for the faster route buys you certainty: an earlier slot in the queue, regardless of how long the standard backlog has grown to that month. Stick with standard processing during a busy period instead, and you're betting that the published time estimate still reflects reality, which is exactly the assumption that catches people out.
 
-One caveat: eligibility for the faster routes usually depends on your situation, not just your willingness to pay. The UK's 1 Day Premium service covers adult renewals only, with the earliest appointment 2 days after you apply. Check the eligibility rules before you assume a route is open to you, not once you're at the counter.
+One caveat: eligibility for the faster routes usually depends on your situation, not just your willingness to pay. The UK's [1 Day Premium service](https://www.gov.uk/get-a-passport-urgently) covers adult renewals only, with the earliest appointment 2 days after you apply. Check the eligibility rules before you assume a route is open to you, not once you're at the counter.
 
 ## A Short, Predictable List Causes Most Delays
 
@@ -68,7 +68,7 @@ Be careful about borrowing someone else's timeline, too. A friend who renewed qu
 
 This is the part we deliberately leave to the people who actually run the system: HM Passport Office in the UK, the State Department in the US, the Australian Passport Office in Australia, and in Canada, Immigration, Refugees and Citizenship Canada alongside Service Canada for in-person applications. Most other countries publish an equivalent figure through their own national passport or foreign affairs authority.
 
-A little context helps you use that number correctly. HM Passport Office runs a digital service for eligible adults applying from inside the UK, though anyone applying from abroad uses a separate overseas service instead. Canada offers online renewal if you need the passport in 20 business days or more, and everyone else follows the paper application route. For the US and Australia, check the official site for current eligibility and how to lodge. Wherever you apply, factor in mailing time on top of whatever IRCC publishes. These authorities are worth trusting because their figures move with real, current application volume rather than a stale average, so check immediately before you apply rather than weeks ahead.
+A little context helps you use that number correctly. HM Passport Office runs a digital service for eligible adults applying from inside the UK, though anyone applying from abroad uses a separate overseas service instead. [Canada offers online renewal](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html) if you need the passport in 20 business days or more, and everyone else follows the paper application route. For the US and Australia, check the official site for current eligibility and how to lodge. Wherever you apply, factor in mailing time on top of whatever IRCC publishes. These authorities are worth trusting because their figures move with real, current application volume rather than a stale average, so check immediately before you apply rather than weeks ahead.
 
 ## Can You Travel While Your Passport Is Being Renewed?
 
@@ -84,7 +84,7 @@ Pull out your own passport today and check how many months it's actually got lef
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
-Sources we checked (6 November 2026)
+Official sources
 
 - [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
 - [Government of Canada: Renew an adult passport](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html)

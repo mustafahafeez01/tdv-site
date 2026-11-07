@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/why-i-built-travel-document
 
 "您知道这本护照七个月后就到期了吧？"他说，"提醒您一下——有些国家要求入境时护照有效期不得少于六个月。"
 
-我道了谢。我们勉强过关了。但整个旅途中，我一直在想：如果他没有提醒，我根本不会注意到。七个月感觉还挺充裕的。订票前我也检查过护照，只是完全忽略了许多国家都要求的六个月有效期规定。
+我道了谢。我们勉强过关了。但整个旅途中，我一直在想：如果他没有提醒，我根本不会注意到。七个月感觉还挺充裕的。订票前我也检查过护照，只是完全忽略了许多国家都要求的[六个月有效期规定](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)。
 
 这次险些出事的经历让我久久难忘。我早已为全家人的护照到期日设置了日历提醒，以为这样就够了。但我并没有真正去核对日期，只是依赖那些提醒。而一旦有人护照续签，我又得更新提醒、更新存在 Google Drive 里的扫描件，还得祈祷自己没有遗漏什么。
 
@@ -118,7 +118,7 @@ Mustafa
 
 创始人，Travel Document Vault
 
-我们核对过的资料来源（2026年11月6日）
+官方资料来源
 
 - [UK Foreign Office: Thailand entry requirements](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)
 

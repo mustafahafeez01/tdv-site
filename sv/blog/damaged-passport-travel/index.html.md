@@ -30,7 +30,7 @@ Viktigast av allt är att den maskinläsbara zonen – det svartvita fältet lä
 
 ![Diagram med två öppna pass sida vid sida: ett slitet men plant och användbart, ett vattenskadat med buckliga sidor och lossnande laminering](https://traveldocumentvault.com/blog/damaged-passport-travel/damage-vs-wear-figure.jpg) Mindre skrynklor på omslaget: acceptabelt. Vattenskada på datasidan: ett problem.
 
-Anledningen till att detta spelar roll är att **flygbolagen bär ansvaret om de släpper ombord någon med en oacceptabel handling.** Går du ombord med ett skadat pass och nekas inresa vid ankomsten kan myndigheterna bötfälla flygbolaget för att ha transporterat dig.
+Anledningen till att detta spelar roll är att **flygbolagen bär ansvaret om de släpper ombord någon med en oacceptabel handling.** Går du ombord med ett skadat pass och nekas inresa vid ankomsten kan myndigheterna [bötfälla flygbolaget](https://www.legislation.gov.uk/ukpga/1999/33/section/40) för att ha transporterat dig.
 
 Ingen personal vid gaten vill ha det pappersarbetet, så de väljer hellre att vara försiktiga.
 
@@ -42,7 +42,7 @@ Att upptäcka skadan i god tid är den bästa situationen, eftersom du fortfaran
 
 Ditt första steg bör vara ditt eget lands officiella passmyndighets webbplats, eftersom det är den enda platsen där de aktuella reglerna och handläggningstiderna garanterat stämmer – och båda ändras oftare än man tror. Är du osäker på om just ditt pass fortfarande accepteras är passmyndigheten den enda instans vars svar faktiskt räknas. Ett forum om flygbolag räddar dig inte vid disken.
 
-Några saker att kontrollera innan du går dit. Snabbspår och expresstjänster finns oftast, men alla täcker inte skadade pass, och den allra snabbaste nivån är ofta förbehållen enkla förnyelser. Kontrollera vilken tjänst just din situation kvalificerar för innan du bokar en tid.
+Några saker att kontrollera innan du går dit. [Snabbspår och expresstjänster](https://www.gov.uk/get-a-passport-urgently) finns oftast, men alla täcker inte skadade pass, och den allra snabbaste nivån är ofta förbehållen enkla förnyelser. Kontrollera vilken tjänst just din situation kvalificerar för innan du bokar en tid.
 
 Ett skadat pass innebär också oftast att du måste ansöka personligen i stället för per post. I vissa länder är det ett helt annat kontor som hanterar brådskande ärenden än det som bara tar emot ansökningar, och dyker du upp vid fel disk kostar det dig en dag du förmodligen inte har.
 
@@ -89,7 +89,7 @@ Skanna ditt pass i dag, innan du behöver det.
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 
-Källor vi har kontrollerat (6 november 2026)
+Officiella källor
 
 - [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
 - [UK legislation: Immigration and Asylum Act 1999, section 40](https://www.legislation.gov.uk/ukpga/1999/33/section/40)

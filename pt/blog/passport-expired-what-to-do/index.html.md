@@ -30,7 +30,7 @@ A urgência com que precisa de agir determina o que fazer:
 - **Muito tempo antes da viagem:** peça a renovação padrão online através do site da sua autoridade de passaportes — GOV.UK no Reino Unido, travel.state.gov nos EUA.
 - **A viagem aproxima-se:** peça imediatamente e pague pelo processamento expedito. Tanto o Reino Unido como os EUA oferecem online um serviço pago mais rápido, e ambos publicam o seu tempo de processamento atual.
 - **A viagem está próxima:** ligue diretamente para a sua autoridade de passaportes em vez de confiar apenas no site — a linha de apoio do HM Passport Office no Reino Unido, ou o National Passport Information Center nos EUA.
-- **A viagem é iminente:** pergunte sobre uma consulta de emergência e traga prova das suas datas de viagem. O serviço 1 Day Premium do Reino Unido (apenas renovações de adultos) permite marcar a partir de 2 dias depois do pedido, com o passaporte pronto para recolha 4 horas depois da marcação, e os EUA publicam as opções para viagens urgentes em travel.state.gov.
+- **A viagem é iminente:** pergunte sobre uma consulta de emergência e traga prova das suas datas de viagem. O [serviço 1 Day Premium](https://www.gov.uk/get-a-passport-urgently) do Reino Unido (apenas renovações de adultos) permite marcar a partir de 2 dias depois do pedido, com o passaporte pronto para recolha 4 horas depois da marcação, e os EUA publicam as opções para viagens urgentes em travel.state.gov.
 
 Se o prazo for apertado, ligaríamos sempre em vez de confiar apenas no site.
 
@@ -56,7 +56,7 @@ A expiração raramente significa começar tudo de novo, porque no Reino Unido, 
 
 ### Reino Unido: Um Passaporte Expirado Segue a Renovação Normal
 
-O GOV.UK indica que deve renovar o seu passaporte antes de poder viajar se estiver expirado ou não tiver validade suficiente para o seu destino. Um passaporte expirado segue a renovação padrão, online ou em formulário de papel, e vai precisar do seu antigo passaporte para o fazer. Os passaportes de adulto são para pessoas com 16 anos ou mais, e os passaportes de crianças têm o seu próprio processo.
+O [GOV.UK](https://www.gov.uk/renew-adult-passport/renew) indica que deve renovar o seu passaporte antes de poder viajar se estiver expirado ou não tiver validade suficiente para o seu destino. Um passaporte expirado segue a renovação padrão, online ou em formulário de papel, e vai precisar do seu antigo passaporte para o fazer. Os passaportes de adulto são para pessoas com 16 anos ou mais, e os passaportes de crianças têm o seu próprio processo.
 
 ### EUA: A Renovação Funciona Dentro de 15 Anos Após a Emissão
 
@@ -64,7 +64,7 @@ Os EUA têm regras próprias para a renovação de um passaporte expirado, inclu
 
 ### Canadá: Um Passaporte Expirado Pode Ser Renovado Online
 
-O governo do Canadá permite a renovação se o seu último passaporte era um passaporte de adulto emitido quando tinha pelo menos 16 anos. Também tem de ter sido emitido nos 15 anos anteriores ao pedido e ter validade de 5 ou 10 anos. Pode renovar online se o seu passaporte expirar nos próximos seis meses ou já tiver expirado, desde que a sua morada e endereço postal estejam no Canadá. Os passaportes de crianças não podem ser renovados, por isso uma criança precisa de um novo pedido.
+O [governo do Canadá](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html) permite a renovação se o seu último passaporte era um passaporte de adulto emitido quando tinha pelo menos 16 anos. Também tem de ter sido emitido nos 15 anos anteriores ao pedido e ter validade de 5 ou 10 anos. Pode [renovar online](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport/submit-form-fees/renew-online.html) se o seu passaporte expirar nos próximos seis meses ou já tiver expirado, desde que a sua morada e endereço postal estejam no Canadá. Os passaportes de crianças não podem ser renovados, por isso uma criança precisa de um novo pedido.
 
 Se o seu passaporte expirou há anos, veja primeiro a data de emissão, porque o limite de 15 anos nos EUA e no Canadá conta a partir da emissão, não da expiração. Depois verifique os prazos atuais antes de reservar, algo que o nosso guia sobre [quanto tempo demora a renovação do passaporte](https://traveldocumentvault.com/pt/blog/how-long-does-passport-renewal-take/) detalha país a país.
 
@@ -110,7 +110,7 @@ Faça isto para cada passaporte no seu agregado separadamente. Os passaportes in
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 
-Fontes que verificámos (6 de novembro de 2026)
+Fontes oficiais
 
 - [UK Government: Get a passport urgently](https://www.gov.uk/get-a-passport-urgently)
 - [UK Government: Renew or replace your adult passport, Renew](https://www.gov.uk/renew-adult-passport/renew)

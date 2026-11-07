@@ -13,7 +13,7 @@ Source: https://traveldocumentvault.com/pt/blog/child-first-passport-application
 - **O consentimento para pedir o passaporte é diferente do consentimento para viajar.** As regras variam por país: no Reino Unido, por exemplo, uma pessoa com responsabilidade parental assina o formulário e são fornecidos os dados de ambos os pais, enquanto outros países pedem o consentimento de ambos. Confirme junto do serviço de passaportes do seu país.
 - **A maioria dos pedidos exige três tipos de prova:** prova de identidade da criança (certidão de nascimento), prova de identidade dos pais, e prova da relação parental.
 - **As fotos de passaporte de bebés têm regras específicas.** A maioria das autoridades quer os olhos abertos e a olhar para a câmara (o GOV.UK flexibiliza isto para menores de 1 ano e de 6 anos), sem chupetas, brinquedos ou mãos de outras pessoas visíveis — e o fundo atrás da cabeça da criança tem de ser liso e sem obstruções.
-- **Verifique tudo assim que o passaporte chegar.** Ortografia, nomes dos pais quando aparecem, data de validade — sobretudo porque os passaportes de crianças muitas vezes expiram mais cedo do que os de adultos (no Reino Unido, são válidos por 5 anos).
+- **Verifique tudo assim que o passaporte chegar.** Ortografia, nomes dos pais quando aparecem, data de validade — sobretudo porque os passaportes de crianças muitas vezes expiram mais cedo do que os de adultos (no Reino Unido, [são válidos por 5 anos](https://www.gov.uk/get-a-child-passport)).
 - **Nos países que exigem o consentimento de ambos os pais, um progenitor geralmente não pode assinar sozinho, exceto havendo uma decisão judicial, guarda legal exclusiva, ou falecimento do outro progenitor.** Se for essa a sua situação, o serviço de passaportes tem um procedimento específico a seguir.
 
 O primeiro passaporte do seu filho é algo que só faz uma vez — o que significa que pode aprender as regras antes de o fazer, em vez de as descobrir ao balcão. O pedido em si é simples, mas as regras de consentimento e os requisitos da fotografia variam de país para país, e um pequeno erro no início pode significar um pedido recusado e uma viagem adiada.
@@ -28,7 +28,7 @@ Este artigo trata do consentimento para o pedido. A distinção importa porque p
 
 ## Por regra, todos os que têm responsabilidade parental têm de concordar
 
-Quem tem de consentir depende do país. No Reino Unido, uma pessoa com responsabilidade parental assina o pedido e são fornecidos os dados de ambos os pais; noutros países, geralmente espera-se que ambos assinem. A responsabilidade parental de um progenitor não casado também depende do país, por isso confirme junto do serviço de passaportes. Quem tem uma decisão judicial ou guarda legal exclusiva segue regras diferentes, e o serviço de passaportes explica o procedimento específico quando perguntar.
+Quem tem de consentir depende do país. No Reino Unido, [uma pessoa com responsabilidade parental assina o pedido](https://www.gov.uk/get-a-child-passport/first-child-passport) e são fornecidos os dados de ambos os pais; noutros países, geralmente espera-se que ambos assinem. A responsabilidade parental de um progenitor não casado também depende do país, por isso confirme junto do serviço de passaportes. Quem tem uma decisão judicial ou guarda legal exclusiva segue regras diferentes, e o serviço de passaportes explica o procedimento específico quando perguntar.
 
 Estas exceções são reais e vale a pena conhecê-las. Um progenitor falecido não pode assinar, e um progenitor que tenha perdido a responsabilidade parental por decisão judicial também pode não ter o direito de consentir. Ordens de restrição e restrições de custódia também podem excluir um progenitor por lei. Cada uma destas situações tem o seu próprio processo de pedido e os seus próprios requisitos de prova, por isso não há uma única resposta que cubra todos os casos.
 
@@ -44,7 +44,7 @@ Os serviços de passaportes pedem três coisas quando se candidata ao primeiro p
 
 **Prova da relação com a criança** costuma vir da própria certidão de nascimento, se ambos os pais estiverem indicados. Se apenas um progenitor constar, pode ter de apresentar uma decisão judicial, um acordo de custódia, ou um certificado de tutela para mostrar que o segundo progenitor também tem o direito de tomar decisões sobre a criança.
 
-**Alguns países usam um sistema de contrassinatário.** Isto significa que um profissional de confiança — professor, médico, advogado, ou similar — assina um formulário a confirmar que o pedido é genuíno e que a fotografia é uma imagem fiel da criança. Se o seu país usar este sistema, precisa de identificar alguém disposto a fazê-lo antes de submeter o pedido. Pergunte ao serviço de passaportes que profissões aceitam.
+**Alguns países usam um [sistema de contrassinatário](https://www.gov.uk/countersigning-passport-applications).** Isto significa que um profissional de confiança — professor, médico, advogado, ou similar — assina um formulário a confirmar que o pedido é genuíno e que a fotografia é uma imagem fiel da criança. Se o seu país usar este sistema, precisa de identificar alguém disposto a fazê-lo antes de submeter o pedido. Pergunte ao serviço de passaportes que profissões aceitam.
 
 ## Os bebés não conseguem seguir as regras de foto dos adultos, por isso adapta-se
 
@@ -52,7 +52,7 @@ Os serviços de passaportes pedem três coisas quando se candidata ao primeiro p
 
 É aqui que muitos pedidos pela primeira vez falham. Um bebé ou uma criança pequena não consegue seguir as regras da fotografia como um adulto: os bebés não conseguem sentar-se sozinhos, as crianças pequenas não conseguem ficar quietas ou entender instruções, e os recém-nascidos não conseguem olhar para a câmara a pedido. As normas para fotografias de passaporte foram escritas para adultos, e é preciso perceber como as adaptar quando o sujeito é uma criança que pesa 5 quilos e não para quieta.
 
-**As regras principais são as mesmas:** os olhos da criança devem, em geral, estar abertos e a olhar para a câmara, com um fundo liso atrás da cabeça e mais nada visível na imagem. Algumas autoridades flexibilizam as regras dos olhos para as crianças mais pequenas: o GOV.UK não exige olhos abertos antes de um ano, nem um olhar direto para a câmara antes dos 6 anos. O que muda é a forma como consegue que isso aconteça.
+**As regras principais são as mesmas:** os olhos da criança devem, em geral, estar abertos e a olhar para a câmara, com um fundo liso atrás da cabeça e mais nada visível na imagem. Algumas autoridades flexibilizam as regras dos olhos para as crianças mais pequenas: o [GOV.UK](https://www.gov.uk/photos-for-passports) não exige olhos abertos antes de um ano, nem um olhar direto para a câmara antes dos 6 anos. O que muda é a forma como consegue que isso aconteça.
 
 **Para um recém-nascido ou bebé com menos de um ano:** fotografe-o deitado sobre um lençol ou manta liso, branco ou claro. O lençol torna-se o fundo. Coloque-se diretamente por cima, para que o bebé olhe para cima, na direção da câmara, com os olhos abertos — se o bebé estiver sonolento, espere por um momento em que esteja desperto. Sem brinquedos, sem chupetas, sem mãos, sem qualquer outra pessoa visível na imagem, apenas a cabeça e os ombros do bebé.
 
@@ -86,7 +86,7 @@ Este é um requisito legal que existe para proteger a criança, não uma questã
 
 Assim que o passaporte for emitido e entregue, dedique cinco minutos a verificá-lo antes de o arquivar. Há três coisas a confirmar, fáceis de corrigir agora e um pesadelo para corrigir no aeroporto.
 
-**O nome da criança tem de estar escrito exatamente como consta** na certidão de nascimento ou no documento de identidade usado no pedido. Se estiver errado, o serviço de passaportes geralmente emite uma substituição sem custos se o erro tiver sido seu; se o erro vier do pedido apresentado, poderá ter de pagar uma taxa. Se só notar no aeroporto, a companhia aérea pode recusar o embarque, porque o nome no bilhete não vai corresponder ao do passaporte.
+**O nome da criança tem de estar escrito exatamente como consta** na certidão de nascimento ou no documento de identidade usado no pedido. Se estiver errado, o serviço de passaportes [geralmente emite uma substituição sem custos se o erro tiver sido seu](https://www.gov.uk/government/publications/preventing-and-resolving-errors-on-passports/how-to-correct-errors-on-passports-accessible); se o erro vier do pedido apresentado, poderá ter de pagar uma taxa. Se só notar no aeroporto, a companhia aérea pode recusar o embarque, porque o nome no bilhete não vai corresponder ao do passaporte.
 
 **Verifique os nomes dos pais onde aparecerem.** Alguns países imprimem os nomes dos pais ou tutores no interior do passaporte da criança. Se estes nomes estiverem mal escritos ou incorretos, contacte o serviço para os corrigir.
 
@@ -94,7 +94,7 @@ Assim que o passaporte for emitido e entregue, dedique cinco minutos a verificá
 
 Se algo estiver errado, contacte o serviço de passaportes o mais rápido possível. A gratuitidade da correção depende de quem cometeu o erro, e quanto mais tempo deixar passar, mais complicado se torna o processo. Quando estiver tudo certo, guarde logo o passaporte na pasta dos seus documentos, com uma nota da data de validade, para que a renovação não o apanhe de surpresa.
 
-Fontes que verificámos (6 de novembro de 2026)
+Fontes oficiais
 
 - [UK Government: Get a passport photo, Digital photos](https://www.gov.uk/photos-for-passports)
 - [UK Government: applying for a first child passport](https://www.gov.uk/get-a-child-passport/first-child-passport)

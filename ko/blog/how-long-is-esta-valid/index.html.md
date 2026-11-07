@@ -21,13 +21,13 @@ ESTA는 일반적으로 승인된 날로부터 2년간, 또는 연결된 여권�
 
 ## ESTA는 2년이 지나거나 여권이 만료되면 끝납니다
 
-미국 세관국경보호국(CBP)이 이 규정을 정합니다. 승인된 ESTA는 일반적으로 승인일로부터 2년간, 또는 여권 만료일까지 중 더 이른 시점까지 유효합니다. 즉 여권이 14개월 남았다면 ESTA도 14개월 남은 셈입니다. 승인 화면에 정확한 만료일이 표시되므로 따로 계산할 필요가 없습니다.
+[미국 세관국경보호국(CBP)](https://www.cbp.gov/travel/international-visitors/esta/frequently-asked-questions-about-visa-waiver-program-vwp-and-electronic-system-travel)이 이 규정을 정합니다. 승인된 ESTA는 일반적으로 승인일로부터 2년간, 또는 여권 만료일까지 중 더 이른 시점까지 유효합니다. 즉 여권이 14개월 남았다면 ESTA도 14개월 남은 셈입니다. 승인 화면에 정확한 만료일이 표시되므로 따로 계산할 필요가 없습니다.
 
 ![ESTA가 효력을 잃는 시점을 보여주는 다이어그램: 2년이 지나거나 여권이 만료될 때 중 더 이른 시점에 끝난다. 아기와 아이를 포함해 모두에게 각자의 ESTA가 필요하고, 각자 자기 여권이 있어야 한다. 새 여권, 새 이름, 새 국적이면 다시 신청해야 한다](https://traveldocumentvault.com/blog/how-long-is-esta-valid/esta-clock-ko.jpg) 여행자마다 하나씩인 시계, 여권보다 오래가지 않는다.
 
 CBP는 ESTA가 30일 안에 만료될 예정이면 신청서에 적은 이메일 주소로 안내 메일을 보냅니다. 이 메일만 믿지는 않는 것이 좋습니다. 스팸함이나 잘 보지 않는 옛 메일함으로 들어갈 수 있으니, 예약할 때 눈에 잘 띄는 곳에 만료일을 따로 적어 두세요.
 
-이 2년 동안은 ESTA 하나로 원하는 만큼 여러 번 여행할 수 있습니다. 비자 면제 프로그램에 따른 체류는 여전히 한 번에 90일 이하로 제한되며, CBP는 2년짜리 승인이 2년짜리 체류를 의미하지는 않는다고 분명히 밝히고 있습니다.
+이 2년 동안은 ESTA 하나로 원하는 만큼 여러 번 여행할 수 있습니다. [비자 면제 프로그램](https://www.cbp.gov/travel/international-visitors/visa-waiver-program)에 따른 체류는 여전히 한 번에 90일 이하로 제한되며, CBP는 2년짜리 승인이 2년짜리 체류를 의미하지는 않는다고 분명히 밝히고 있습니다.
 
 한 가지 예외는 브루나이로, CBP는 브루나이 시민과 국민의 ESTA 유효기간을 1년으로 줄였습니다.
 
@@ -41,7 +41,7 @@ CBP에 따르면 ESTA는 미국에 입국할 때 유효하면 되고, 체류 기
 
 연장은 없습니다. CBP는 기존 승인을 연장할 수 없다고 안내하며, 만료를 기다리지 않고도 다시 신청할 수 있습니다. 새 신청은 기존 신청을 취소하고 대체합니다.
 
-CBP는 여행을 예약하는 시점에 신청하라고 권하며, 이는 익혀 둘 만한 습관입니다. ESTA가 여행 몇 주 전에 만료된다면, 떠나는 주가 아니라 여행을 예약한 날에 신청하세요.
+[CBP는 여행을 예약하는 시점에 신청하라고 권하며](https://www.cbp.gov/newsroom/national-media-release/cbp-reminds-travelers-allow-72-hours-esta), 이는 익혀 둘 만한 습관입니다. ESTA가 여행 몇 주 전에 만료된다면, 떠나는 주가 아니라 여행을 예약한 날에 신청하세요.
 
 ## 네 가지 변화가 있으면 새 ESTA가 필요합니다
 
@@ -62,7 +62,7 @@ CBP에 따르면 나이와 관계없이 모든 아이가 각자 ESTA 승인을 �
 
 ## 수수료는 10월 16일에 올랐지만, 기존 승인은 영향을 받지 않습니다
 
-2026년 10월 1일에 발표된 연방관보(Federal Register) 공고에 따라, ESTA 수수료는 2026년 10월 16일부터 US $40.27에서 US $40.62로 올랐습니다. 이미 유효하고 승인된 ESTA가 있다면 CBP는 다시 신청할 필요가 없다고 안내합니다. 새 금액은 다음에 신청할 때만 내면 됩니다.
+2026년 10월 1일에 발표된 [연방관보(Federal Register) 공고](https://www.govinfo.gov/content/pkg/FR-2026-10-01/html/2026-20185.htm)에 따라, ESTA 수수료는 2026년 10월 16일부터 US $40.27에서 US $40.62로 올랐습니다. 이미 유효하고 승인된 ESTA가 있다면 CBP는 다시 신청할 필요가 없다고 안내합니다. 새 금액은 다음에 신청할 때만 내면 됩니다.
 
 같은 공고는 신청이 거부될 경우의 수수료도 US $10.62로 더 낮게 정해 두었는데, 이는 처리 비용을 충당하기 위한 것입니다.
 
@@ -70,7 +70,7 @@ CBP에 따르면 나이와 관계없이 모든 아이가 각자 ESTA 승인을 �
 
 ## 신청은 ESTA 공식 웹사이트에서, 비슷하게 생긴 사이트에서는 하지 마세요
 
-일부 제3자 웹사이트는 공식 수수료보다 더 많은 돈을 받습니다. CBP에 따르면 이런 사이트는 승인을 더 빠르게 해 주지 않고, 미국 국토안보부(Department of Homeland Security)의 인증을 받거나 제휴 관계에 있는 곳도 아니며, CBP는 그런 곳에 낸 돈을 환불해 줄 수도 없습니다. 신청은 CBP가 운영하는 ESTA 공식 웹사이트에서 하세요.
+일부 [제3자 웹사이트](https://www.cbp.gov/newsroom/national-media-release/cbp-warns-against-third-party-site-use-esta-applications)는 공식 수수료보다 더 많은 돈을 받습니다. CBP에 따르면 이런 사이트는 승인을 더 빠르게 해 주지 않고, [미국 국토안보부(Department of Homeland Security)](https://www.dhs.gov/visa-waiver-program)의 인증을 받거나 제휴 관계에 있는 곳도 아니며, CBP는 그런 곳에 낸 돈을 환불해 줄 수도 없습니다. 신청은 CBP가 운영하는 ESTA 공식 웹사이트에서 하세요.
 
 상태 확인도 같은 사이트에서 합니다. “Check ESTA Status”(ESTA 상태 확인)를 선택한 뒤 “Check Individual Status”(개인 상태 확인)를, 가족 단위로 신청했다면 “Check Group Status”(단체 상태 확인)를 선택하세요. 신청 번호를 잃어버렸다면 여권 번호, 국적, 여권 발급일과 만료일, 생년월일로 신청 내역을 찾을 수 있습니다. 입력했던 내용과 정확히 일치해야 합니다.
 
@@ -89,11 +89,11 @@ CBP에 따르면 나이와 관계없이 모든 아이가 각자 ESTA 승인을 �
 
 ## 승인된 ESTA가 입국을 보장하지는 않습니다
 
-승인은 비자 면제 프로그램에 따라 여행할 자격이 있다는 뜻일 뿐, 입국이 허용된다는 뜻은 아닙니다. 입국 허용 여부는 도착했을 때 CBP 직원이 결정합니다.
+[승인은 비자 면제 프로그램에 따라 여행할 자격이 있다는 뜻](https://www.cbp.gov/travel/international-visitors/esta)일 뿐, 입국이 허용된다는 뜻은 아닙니다. 입국 허용 여부는 도착했을 때 CBP 직원이 결정합니다.
 
 **이 내용에 의존하기 전에:** 이 글은 블로그이며 공식 출처가 아닙니다. 규정과 세부 사항은 바뀌며, 여러분의 상황은 다를 수 있습니다. 저희는 게시하는 내용을 확인하지만, 그래도 틀리거나 오래된 정보일 수 있습니다. 여기 담긴 내용이 여러분의 계획에 중요하다면, 행동하기 전에 해당 업무를 담당하는 기관에 직접 확인하세요.
 
-확인한 출처 (2026년 11월 6일)
+공식 출처
 
 - [US CBP: Visa Waiver Program and ESTA frequently asked questions](https://www.cbp.gov/travel/international-visitors/esta/frequently-asked-questions-about-visa-waiver-program-vwp-and-electronic-system-travel)
 - [US CBP: Electronic System for Travel Authorization (ESTA)](https://www.cbp.gov/travel/international-visitors/esta)
@@ -102,7 +102,6 @@ CBP에 따르면 나이와 관계없이 모든 아이가 각자 ESTA 승인을 �
 - [US DHS: Visa Waiver Program](https://www.dhs.gov/visa-waiver-program)
 - [US CBP: CBP Reminds Travelers to Allow 72 Hours for ESTA](https://www.cbp.gov/newsroom/national-media-release/cbp-reminds-travelers-allow-72-hours-esta)
 - [US CBP: CBP Warns Against Third-Party Site Use for ESTA Applications](https://www.cbp.gov/newsroom/national-media-release/cbp-warns-against-third-party-site-use-esta-applications)
-- [US CBP: ESTA frequently asked questions](https://esta.cbp.dhs.gov/faq)
 
 ## 자주 묻는 질문
 
