@@ -22,7 +22,7 @@ For alle, der tæller Schengen-dage – og det bør enhver ikke-EU-besøgende g�
 
 ## Hvad der har ændret sig ved Europas grænser
 
-EES registrerer hver ikke-EU-rejsendes fingeraftryk, ansigtsbillede, rejsedokument og præcise ind- og udrejsedatoer. Da EES blev fuldt operativt den 10. april 2026, oplyste [Europa-Kommissionen](https://home-affairs.ec.europa.eu/news/entryexit-system-ees-fully-operational-2026-04-10_en), at systemet siden den trinvise lancering i oktober 2025 havde registreret over 52 millioner indrejser og udrejser, med over 27.000 afvisninger ved grænsen. Førstegangsregistrering tager et par minutter ved kiosken, og lufthavne har rapporteret flertimers køer i myldretiden i sommer, mens alle vænner sig til det.
+EES registrerer hver ikke-EU-rejsendes fingeraftryk, ansigtsbillede, rejsedokument og præcise ind- og udrejsedatoer. I sin opdatering fra juli oplyste [Europa-Kommissionen](https://home-affairs.ec.europa.eu/news/entry-exit-system-fully-operational-10-april-2026-who-exempt-2026-07-27_en), at EES havde registreret over 145 millioner ind- og udrejser siden lanceringen. Førstegangsregistrering tager et par minutter ved kiosken, og lufthavne har rapporteret flertimers køer i myldretiden i sommer, mens alle vænner sig til det.
 
 Ikke alle registreres. EU-borgere, beboere i Schengenlande og indehavere af langtidsvisa er undtaget. Hvis du rejser på den visumfrie korttidstilladelse – de fleste britiske, amerikanske, canadiske og australske rejsende, for eksempel – gælder EES for dig.
 

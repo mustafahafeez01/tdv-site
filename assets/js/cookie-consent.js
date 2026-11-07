@@ -69,6 +69,9 @@
 
     // Function to load Google Analytics dynamically
     function loadAnalytics() {
+        // Live site only: local previews (localhost, 127.0.0.1) must not count as visits.
+        if (!/(^|\.)traveldocumentvault\.com$/.test(location.hostname)) return;
+
         // Load the gtag.js script
         const script = document.createElement('script');
         script.async = true;

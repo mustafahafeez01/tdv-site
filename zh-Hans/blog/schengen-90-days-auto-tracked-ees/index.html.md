@@ -22,7 +22,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/schengen-90-days-auto-track
 
 ## 欧洲边境发生了什么变化
 
-EES记录每位非欧盟旅行者的指纹、面部图像、旅行证件以及确切的出入境日期。2026年4月10日EES全面运行时，[欧盟委员会](https://home-affairs.ec.europa.eu/news/entryexit-system-ees-fully-operational-2026-04-10_en)表示，自2025年10月分阶段启动以来，系统已登记超过5200万次入境和出境，并有超过27000次拒绝入境。首次注册需在自助服务亭花费几分钟，机场在今年夏天的高峰期报告了长达数小时的队伍，所有人都在适应这一变化。
+EES记录每位非欧盟旅行者的指纹、面部图像、旅行证件以及确切的出入境日期。[欧盟委员会](https://home-affairs.ec.europa.eu/news/entry-exit-system-fully-operational-10-april-2026-who-exempt-2026-07-27_en)在7月发布的更新中表示，自EES启用以来，该系统已登记超过1.45亿次出入境。首次注册需在自助服务亭花费几分钟，机场在今年夏天的高峰期报告了长达数小时的队伍，所有人都在适应这一变化。
 
 并非所有人都需要注册。欧盟公民、申根国家居民和长期签证持有者免除。如果你是以免签短期停留许可来访——例如大多数英国、美国、加拿大和澳大利亚旅行者——EES适用于你。
 

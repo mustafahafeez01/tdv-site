@@ -22,7 +22,7 @@ Für alle, die Schengen-Tage zählen – und jeder Nicht-EU-Besucher sollte das 
 
 ## Was sich an Europas Grenzen geändert hat
 
-Das EES erfasst Fingerabdrücke, Gesichtsbild, Reisedokument sowie genaue Ein- und Ausreisedaten jedes Nicht-EU-Reisenden. Als das EES am 10. April 2026 den vollständigen Betrieb aufnahm, gab die [Europäische Kommission](https://home-affairs.ec.europa.eu/news/entryexit-system-ees-fully-operational-2026-04-10_en) an, seit dem gestaffelten Start im Oktober 2025 mehr als 52 Millionen Ein- und Ausreisen registriert zu haben, dazu über 27.000 Einreiseverweigerungen. Die Erstregistrierung dauert an den Schaltern einige Minuten, und an Flughäfen wurden mehrstündige Warteschlangen während der Spitzenzeiten dieses Sommers berichtet, während sich alle ans System gewöhnen.
+Das EES erfasst Fingerabdrücke, Gesichtsbild, Reisedokument sowie genaue Ein- und Ausreisedaten jedes Nicht-EU-Reisenden. In ihrer Mitteilung vom Juli berichtete die [Europäische Kommission](https://home-affairs.ec.europa.eu/news/entry-exit-system-fully-operational-10-april-2026-who-exempt-2026-07-27_en), dass das EES seit seinem Start über 145 Millionen Ein- und Ausreisen registriert hatte. Die Erstregistrierung dauert an den Schaltern einige Minuten, und an Flughäfen wurden mehrstündige Warteschlangen während der Spitzenzeiten dieses Sommers berichtet, während sich alle ans System gewöhnen.
 
 Nicht alle sind registriert. EU-Bürger, Bewohner von Schengen-Ländern und Inhaber von Langaufenthaltsvisas sind befreit. Wenn Sie im Rahmen der visumfreien Kurzaufenthaltsberechtigung reisen – dies trifft beispielsweise auf die meisten britischen, amerikanischen, kanadischen und australischen Reisenden zu – gilt das EES für Sie.
 

@@ -22,7 +22,7 @@ Para qualquer um que conte dias do Schengen — e cada visitante não-UE deveria
 
 ## O Que Mudou nas Fronteiras Europeias
 
-O EES regista as impressões digitais de cada viajante não-UE, imagem facial, documento de viagem e datas exatas de entrada e saída. Quando o EES entrou em pleno funcionamento, a 10 de abril de 2026, a [Comissão Europeia](https://home-affairs.ec.europa.eu/news/entryexit-system-ees-fully-operational-2026-04-10_en) indicou que tinha registado mais de 52 milhões de entradas e saídas desde o lançamento faseado em outubro de 2025, com mais de 27 000 recusas de entrada. O registo pela primeira vez demora alguns minutos no quiosque, e os aeroportos tiveram filas de várias horas em horários de ponta este verão enquanto toda a gente se habitua.
+O EES regista as impressões digitais de cada viajante não-UE, imagem facial, documento de viagem e datas exatas de entrada e saída. Na sua atualização de julho, a [Comissão Europeia](https://home-affairs.ec.europa.eu/news/entry-exit-system-fully-operational-10-april-2026-who-exempt-2026-07-27_en) informou que o EES tinha registado mais de 145 milhões de entradas e saídas desde o seu lançamento. O registo pela primeira vez demora alguns minutos no quiosque, e os aeroportos tiveram filas de várias horas em horários de ponta este verão enquanto toda a gente se habitua.
 
 Nem toda a gente está registada. Cidadãos da UE, residentes de países Schengen e titulares de vistos de longa duração estão isentos. Se está em visita com a autorização de estada curta isenta de visto — por exemplo, a maioria dos viajantes britânicos, americanos, canadianos e australianos — o EES aplica-se a si.
 

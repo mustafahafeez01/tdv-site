@@ -22,7 +22,7 @@ Para cualquiera que cuente días de Schengen —y cada visitante no comunitario 
 
 ## Qué Cambió en las Fronteras de Europa
 
-EES registra las huellas dactilares, imagen facial, documento de viaje y fechas exactas de entrada y salida de cada viajero no comunitario. Cuando EES entró en pleno funcionamiento el 10 de abril de 2026, la [Comisión Europea](https://home-affairs.ec.europa.eu/news/entryexit-system-ees-fully-operational-2026-04-10_en) indicó que había registrado más de 52 millones de entradas y salidas desde el lanzamiento por fases en octubre de 2025, con más de 27.000 denegaciones de entrada. El primer registro toma algunos minutos en el quiosco, y los aeropuertos han reportado colas de varias horas en horas punta este verano mientras todos se acostumbran.
+EES registra las huellas dactilares, imagen facial, documento de viaje y fechas exactas de entrada y salida de cada viajero no comunitario. En su actualización de julio, la [Comisión Europea](https://home-affairs.ec.europa.eu/news/entry-exit-system-fully-operational-10-april-2026-who-exempt-2026-07-27_en) informó de que el EES había registrado más de 145 millones de entradas y salidas desde su puesta en marcha. El primer registro toma algunos minutos en el quiosco, y los aeropuertos han reportado colas de varias horas en horas punta este verano mientras todos se acostumbran.
 
 No todos están registrados. Los ciudadanos de la UE, residentes de países de Schengen y titulares de visas de larga duración están exentos. Si estás visitando con la asignación de estancia breve sin visa —la mayoría de viajeros británicos, estadounidenses, canadienses y australianos, por ejemplo— EES se aplica a ti.
 

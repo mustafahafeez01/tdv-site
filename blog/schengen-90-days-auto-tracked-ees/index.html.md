@@ -26,7 +26,7 @@ Seen "Your remaining authorised stay cannot currently be calculated" in the EU's
 
 ## What Changed at Europe's Borders
 
-EES registers each non-EU traveller's fingerprints, facial image, travel document and exact entry and exit dates. When EES became fully operational on 10 April 2026, the [European Commission](https://home-affairs.ec.europa.eu/news/entryexit-system-ees-fully-operational-2026-04-10_en) said it had registered more than 52 million entries and exits since the phased launch in October 2025, with over 27,000 refusals of entry. First-time registration takes a few minutes at the kiosk, and airports have reported multi-hour queues at peak times this summer while everyone gets used to it.
+EES registers each non-EU traveller's fingerprints, facial image, travel document and exact entry and exit dates. In its July update, the [European Commission](https://home-affairs.ec.europa.eu/news/entry-exit-system-fully-operational-10-april-2026-who-exempt-2026-07-27_en) reported that EES had registered over 145 million entries and exits since launch. First-time registration takes a few minutes at the kiosk, and airports have reported multi-hour queues at peak times this summer while everyone gets used to it.
 
 Not everyone is registered. EU citizens, residents of Schengen countries and long-stay visa holders are exempt. If you're visiting on the visa-free short-stay allowance - most British, American, Canadian and Australian travellers, for instance - EES applies to you.
 

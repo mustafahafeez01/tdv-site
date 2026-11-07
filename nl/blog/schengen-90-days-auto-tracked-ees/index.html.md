@@ -22,7 +22,7 @@ Voor iedereen die Schengendagen telt – en dat zou elke niet-EU-bezoeker moeten
 
 ## Wat er is veranderd aan Europa's grenzen
 
-EES registreert van elke niet-EU-reiziger de vingerafdrukken, gezichtsopname, reisdocument en exacte in- en uitreisdatums. Toen EES op 10 april 2026 volledig operationeel werd, meldde de [Europese Commissie](https://home-affairs.ec.europa.eu/news/entryexit-system-ees-fully-operational-2026-04-10_en) dat het sinds de gefaseerde start in oktober 2025 al meer dan 52 miljoen in- en uitreizen had geregistreerd, met meer dan 27.000 weigeringen van toegang. Eerste registratie duurt een paar minuten bij de kiosk, en luchthavens meldden deze zomer urenlange wachtrijen op piekmomenten terwijl iedereen eraan went.
+EES registreert van elke niet-EU-reiziger de vingerafdrukken, gezichtsopname, reisdocument en exacte in- en uitreisdatums. In haar update van juli meldde de [Europese Commissie](https://home-affairs.ec.europa.eu/news/entry-exit-system-fully-operational-10-april-2026-who-exempt-2026-07-27_en) dat het EES sinds de start meer dan 145 miljoen in- en uitreizen had geregistreerd. Eerste registratie duurt een paar minuten bij de kiosk, en luchthavens meldden deze zomer urenlange wachtrijen op piekmomenten terwijl iedereen eraan went.
 
 Niet iedereen wordt geregistreerd. EU-burgers, inwoners van Schengenlanden en houders van langdurige visa zijn vrijgesteld. Als je op basis van de visumvrije kortverblijfregeling reist – de meeste Britse, Amerikaanse, Canadese en Australische reizigers, bijvoorbeeld – geldt EES voor jou.
 

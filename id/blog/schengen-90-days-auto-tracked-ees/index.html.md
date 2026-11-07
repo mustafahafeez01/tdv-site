@@ -22,7 +22,7 @@ Bagi siapa pun yang menghitung hari Schengen, dan setiap pengunjung non-UE sehar
 
 ## Apa yang Berubah di Perbatasan Eropa
 
-EES mencatat sidik jari, gambar wajah, dokumen perjalanan, serta tanggal masuk dan keluar yang tepat dari setiap pelancong non-UE. Saat EES beroperasi penuh pada 10 April 2026, [Komisi Eropa](https://home-affairs.ec.europa.eu/news/entryexit-system-ees-fully-operational-2026-04-10_en) menyatakan bahwa sistem ini telah mencatat lebih dari 52 juta masuk dan keluar sejak peluncuran bertahap pada Oktober 2025, dengan lebih dari 27.000 penolakan masuk. Registrasi pertama kali memakan waktu beberapa menit di kios, dan bandara melaporkan antrean berjam-jam pada jam sibuk musim panas ini sementara semua orang masih menyesuaikan diri.
+EES mencatat sidik jari, gambar wajah, dokumen perjalanan, serta tanggal masuk dan keluar yang tepat dari setiap pelancong non-UE. Dalam pembaruan pada Juli, [Komisi Eropa](https://home-affairs.ec.europa.eu/news/entry-exit-system-fully-operational-10-april-2026-who-exempt-2026-07-27_en) melaporkan bahwa EES telah mencatat lebih dari 145 juta peristiwa masuk dan keluar sejak diluncurkan. Registrasi pertama kali memakan waktu beberapa menit di kios, dan bandara melaporkan antrean berjam-jam pada jam sibuk musim panas ini sementara semua orang masih menyesuaikan diri.
 
 Tidak semua orang didaftarkan. Warga negara UE, penduduk negara Schengen, dan pemegang visa tinggal lama dikecualikan. Jika Anda berkunjung dengan fasilitas tinggal singkat bebas visa — misalnya sebagian besar pelancong Inggris, Amerika, Kanada, dan Australia — EES berlaku bagi Anda.
 
