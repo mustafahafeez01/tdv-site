@@ -242,6 +242,10 @@ $9.99 일회성
 - 인쇄용 결합된 PDF 내보내기
 - 배치 내보내기 서류
 
+![App Store에서 다운로드](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Google Play에서 받기](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
+
 구매한 App Store 또는 Google Play 계정으로 언제든지 구매를 복원하세요.
 
 [전체 가격 책정 세부 정보 및 자주 묻는 질문](https://traveldocumentvault.com/ko/pricing/)

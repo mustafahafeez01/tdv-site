@@ -248,6 +248,10 @@ Semua yang gratis, plus:
 - Ekspor PDF gabungan untuk pencetakan
 - Ekspor dokumen batch
 
+![Unduh di App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Dapatkan di Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
+
 Pulihkan pembelian kapan saja dengan akun App Store atau Google Play tempat Anda membeli.
 
 [Detail harga lengkap dan FAQ](https://traveldocumentvault.com/id/pricing/)

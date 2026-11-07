@@ -260,6 +260,10 @@ Alles in Gratis, plus:
 - Gecombineerde PDF-export voor afdrukken
 - Batchexportdocumenten
 
+![Download van de App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Download van Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
+
 Aankopen altijd herstellen met het App Store- of Google Play-account waarmee u hebt gekocht.
 
 [Volledige prijsgegevens en veelgestelde vragen](https://traveldocumentvault.com/nl/pricing/)

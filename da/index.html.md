@@ -249,6 +249,10 @@ Alt i Gratis, plus:
 - Samlet PDF-eksport til udskrivning
 - Masseeksport af dokumenter
 
+![Hent på App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Hent det på Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
+
 Gendan køb når som helst med den App Store eller Google Play-konto, du købte med.
 
 [Fuld prisdetaljer og ofte stillede spørgsmål](https://traveldocumentvault.com/da/pricing/)

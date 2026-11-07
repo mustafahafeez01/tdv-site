@@ -244,6 +244,10 @@ Allt i kostnadsfritt plus:
 - Kombinerad PDF-export för utskrift
 - Exportera dokument i batch
 
+![Ladda ned på App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Hämta på Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
+
 Återställ köp när som helst med det App Store- eller Google Play-konto du köpte med.
 
 [Fullständig prissättningsinformation och vanliga frågor](https://traveldocumentvault.com/sv/pricing/)

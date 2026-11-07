@@ -254,6 +254,10 @@ USD. Цена для вашей страны устанавливается на
 - Комбинированный экспорт PDF для печати
 - Массовый экспорт документов
 
+![Скачайте в App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Получите в Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
+
 Восстановите покупки в любое время с помощью учётной записи App Store или Google Play, с которой вы совершали покупки.
 
 [Полные детали цен и часто задаваемые вопросы](https://traveldocumentvault.com/ru/pricing/)

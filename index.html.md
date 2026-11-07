@@ -250,6 +250,10 @@ Everything in Free, plus:
 - Combined PDF export for printing
 - Batch export documents
 
+![Download on the App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Get it on Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
+
 Restore purchases anytime with the App Store or Google Play account you bought with.
 
 [Full pricing details and FAQ](https://traveldocumentvault.com/pricing/)

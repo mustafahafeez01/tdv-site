@@ -252,6 +252,10 @@ Tout en Gratuit, plus :
 - Export PDF combiné pour l'impression
 - Export de documents par lots
 
+![Télécharger sur l'App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Télécharger sur Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
+
 Restaurez vos achats à tout moment avec le compte App Store ou Google Play avec lequel vous avez acheté.
 
 [Tous les détails de tarification et FAQ](https://traveldocumentvault.com/fr/pricing/)

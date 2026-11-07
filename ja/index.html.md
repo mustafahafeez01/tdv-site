@@ -252,6 +252,10 @@ $9.99 一度限りのお支払い
 - 印刷用の結合PDF エクスポート
 - バッチエクスポート書類
 
+![App Storeでダウンロード](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Google Playで入手](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
+
 購入したときに使用した App Store または Google Play アカウントでいつでも購入を復元できます。
 
 [完全な料金と FAQ](https://traveldocumentvault.com/ja/pricing/)

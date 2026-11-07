@@ -252,6 +252,10 @@ $9.99 一次性
 - 合并 PDF 导出用于打印
 - 批量导出文件
 
+![在 App Store 上下载](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![在 Google Play 上获取](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
+
 随时使用您购买时使用的 App Store 或 Google Play 账户恢复购买。
 
 [完整定价详情和常见问题](https://traveldocumentvault.com/zh-Hans/pricing/)

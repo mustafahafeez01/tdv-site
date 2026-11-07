@@ -252,6 +252,10 @@ $9.99 ครั้งเดียว
 - ส่งออก PDF รวมสำหรับพิมพ์
 - ส่งออกเอกสารเป็นชุด
 
+![ดาวน์โหลด App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![ดาวน์โหลดจาก Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
+
 กู้คืนการซื้อได้ทุกเมื่อด้วยบัญชี App Store หรือ Google Play ที่คุณซื้อด้วย
 
 [รายละเอียดราคาเต็มรูปแบบและคำถามที่พบบ่อย](https://traveldocumentvault.com/th/pricing/)
