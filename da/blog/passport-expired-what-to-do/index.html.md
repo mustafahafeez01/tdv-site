@@ -11,9 +11,9 @@ Source: https://traveldocumentvault.com/da/blog/passport-expired-what-to-do/
 ## Vigtigste punkter
 
 - Der findes to forskellige situationer: at opdage, at dit pas er udløbet **hjemme før en rejse**, og at opdage det **i lufthavnen**. Trinnene er forskellige for hver situation.
-- Du kan ikke flyve internationalt med et udløbet pas. Ingen undtagelser.
-- I Storbritannien findes en hurtig Premium-service til pas ved reelle nødsituationer – kan bookes på gov.uk. I USA findes nødtider via udenrigsministeriet til hastende rejser.
-- I lufthavnen: kontakt flyselskabet først – nogle ombooker uden gebyr ved reelle dokumentnødsituationer.
+- Du kan som regel ikke flyve internationalt med et udløbet pas.
+- I Storbritannien findes en hurtig Premium-service til pas ved reelle nødsituationer – kan bookes på gov.uk. I USA kan du tjekke travel.state.gov for muligheder ved hastende rejser.
+- I lufthavnen: kontakt flyselskabet først – spørg, om de kan ombooke dig uden ombookningsgebyr.
 - Løsningen fremadrettet er en påmindelse 12 måneder før udløb, ikke 6. Det giver dig god tid til at forny med standardbehandling.
 - Udløb er ikke det eneste pasproblem, der får rejsende afvist. Skader, navne der ikke matcher, manglende underskrift og utilstrækkelig resterende gyldighed ved destinationen giver samme resultat.
 
@@ -30,9 +30,9 @@ Hvor akut du skal handle, afgør, hvad du skal gøre:
 - **God tid før rejsen:** ansøg om standardfornyelse online via pasmyndighedens hjemmeside – GOV.UK i Storbritannien, travel.state.gov i USA.
 - **Rejsen nærmer sig:** ansøg med det samme, og betal for ekspresbehandling. Både Storbritannien og USA tilbyder en hurtigere betalt service online, og begge oplyser deres aktuelle behandlingstid.
 - **Rejsen begynder at nærme sig:** ring direkte til pasmyndigheden i stedet for kun at stole på hjemmesiden – HM Passport Office's rådgivningslinje i Storbritannien, eller US National Passport Information Center i USA.
-- **Rejsen er umiddelbart forestående:** spørg om en nødtid, og medbring bevis for dine rejsedatoer. Storbritanniens 1 Day Premium-service (kun voksenfornyelser) giver tider fra 2 dage efter din ansøgning, med pas klar til afhentning 4 timer efter din tid, og USA tilbyder tider på regionale paskontorer.
+- **Rejsen er umiddelbart forestående:** spørg om en nødtid, og medbring bevis for dine rejsedatoer. Storbritanniens 1 Day Premium-service (kun voksenfornyelser) giver tider fra 2 dage efter din ansøgning, med pas klar til afhentning 4 timer efter din tid, og USA offentliggør sine muligheder ved hastende rejser på travel.state.gov.
 
-Alle større pasmyndigheder holder nødtider tilbage, som ikke er synlige online. Hvis din tidsramme er stram, ville vi altid ringe frem for kun at stole på hjemmesiden.
+Hvis din tidsramme er stram, ville vi altid ringe frem for kun at stole på hjemmesiden.
 
 ## Scenarie B: Du opdagede det i lufthavnen
 
@@ -40,9 +40,9 @@ Dette scenarie sker oftere, end folk forventer, og trinnene er ikke indlysende, 
 
 **Trin 1: Bevar roen, og gå væk fra køen.** Du kommer ikke med dette fly, og jo hurtigere du accepterer det, jo hurtigere kan du begynde at arbejde på løsningen.
 
-**Trin 2: Gå straks til flyselskabets skranke.** Forlad ikke lufthavnen – tal direkte med flyselskabet, og forklar situationen. Nogle flyselskaber ombooker uden ombookningsgebyr ved reelle dokumentnødsituationer – ikke alle, men det er værd at spørge. Bed om svaret skriftligt, hvis de accepterer.
+**Trin 2: Gå straks til flyselskabets skranke.** Forlad ikke lufthavnen – tal direkte med flyselskabet, og forklar situationen. Flyselskabernes regler varierer, så spørg, om de kan ombooke dig uden ombookningsgebyr. Bed om svaret skriftligt, hvis de accepterer.
 
-**Trin 3: Undersøg, om indenrigsrejse er mulig.** Et udløbet pas kan i nogle lande stadig accepteres som ID til indenrigsflyvninger, selvom det ikke er garanteret. Hvis din endelige destination kan nås indenrigs fra en nærmere by, kan det være en mulighed, mens du får styr på passet. Britiske rejsende bør læse, [hvad et udløbet pas betyder for rejser i Storbritannien](https://traveldocumentvault.com/da/blog/travel-expired-passport-uk/), da reglerne afhænger af ruten.
+**Trin 3: Undersøg, om indenrigsrejse er mulig.** Nogle flyselskaber accepterer muligvis anden billedlegitimation til indenrigsflyvninger, så spørg dit flyselskab. Hvis din endelige destination kan nås indenrigs fra en nærmere by, kan det være en mulighed, mens du får styr på passet. Britiske rejsende bør læse, [hvad et udløbet pas betyder for rejser i Storbritannien](https://traveldocumentvault.com/da/blog/travel-expired-passport-uk/), da reglerne afhænger af ruten.
 
 **Trin 4: Kontakt pasmyndigheden telefonisk.** Forklar din situation. I Storbritannien, ring til HM Passport Office's rådgivningslinje, og spørg om den tidligst mulige tid på det nærmeste paskontor. I USA, ring til US National Passport Information Center, og spørg om nødtider på det nærmeste regionale paskontor. Spørg specifikt om nødmuligheder, da hurtigere tider ofte ikke fremgår af hjemmesiden.
 
@@ -60,11 +60,11 @@ GOV.UK siger, at du skal forny, før du kan rejse, hvis dit pas er udløbet elle
 
 ### USA: Fornyelse virker inden for 15 år fra udstedelsen
 
-Ifølge USA.gov kan du kun forny et udløbet pas, hvis det blev **udstedt inden for de sidste 15 år**. Du kan heller ikke forny et, der blev udstedt før din 16-års fødselsdag, et der er beskadiget, bortkommet eller stjålet, eller et i et tidligere navn, hvis du ikke har et juridisk dokument, der beviser navneændringen. Gælder noget af dette, skal du ansøge om et nyt pas personligt med formular DS-11.
+USA har sine egne betingelser for fornyelse af et udløbet pas, herunder en grænse for, hvor længe siden det blev udstedt. Tjek fornyelsessiden på travel.state.gov, som også forklarer, hvornår du i stedet skal ansøge personligt.
 
 ### Canada: Et udløbet pas kan fornyes online
 
-Canadas regering lader dig forny, hvis dit sidste pas var et voksenpas, udstedt da du var mindst 16 år. Det skal også have været udstedt inden for 15 år fra din ansøgningsdato og have en gyldighed på 5 eller 10 år. Navnet, fødselsdatoen og fødestedet på det skal matche, hvad du vil have på det nye. Du kan forny online, hvis dit pas udløber inden for de næste seks måneder eller allerede er udløbet, forudsat at din hjemme- og postadresse er i Canada. Børnepas kan ikke fornyes, så et barn har brug for en ny ansøgning.
+Canadas regering lader dig forny, hvis dit sidste pas var et voksenpas, udstedt da du var mindst 16 år. Det skal også have været udstedt inden for 15 år fra din ansøgningsdato og have en gyldighed på 5 eller 10 år. Du kan forny online, hvis dit pas udløber inden for de næste seks måneder eller allerede er udløbet, forudsat at din hjemme- og postadresse er i Canada. Børnepas kan ikke fornyes, så et barn har brug for en ny ansøgning.
 
 Er dit pas udløbet for år tilbage, så tjek udstedelsesdatoen først, fordi 15-års-grænsen i USA og Canada tælles fra udstedelsen, ikke fra udløbet. Tjek derefter de aktuelle sagsbehandlingstider, før du booker, hvilket vores guide til [hvor lang tid en pasfornyelse tager](https://traveldocumentvault.com/da/blog/how-long-does-passport-renewal-take/) dækker land for land.
 
@@ -88,7 +88,7 @@ Selv små afvigelser som et manglende mellemnavns-initial eller et ombyttet bogs
 
 ### 3. Et usigneret pas
 
-De fleste pas har et underskriftsfelt. Nogle lande – herunder USA – kræver, at passet er underskrevet, før det anses for gyldigt til rejse. Et usigneret pas kan afvises ved grænsen. Dette er oftest et problem med pas udstedt til børn, der var for unge til at underskrive, eller med helt nye pas, hvor indehaveren glemte at underskrive før afrejse. Et hurtigt kig på underskriftsfeltet, før du forlader hjemmet, fanger det tidligt.
+De fleste pas har et underskriftsfelt. Et usigneret pas kan skabe problemer ved grænsen. Dette er oftest et problem med pas udstedt til børn, der var for unge til at underskrive, eller med helt nye pas, hvor indehaveren glemte at underskrive før afrejse. Et hurtigt kig på underskriftsfeltet, før du forlader hjemmet, fanger det tidligt.
 
 ### 4. Utilstrækkelig gyldighed for din destination
 
@@ -106,7 +106,7 @@ Tjek de officielle indrejsekrav for din destination via dit lands rejsevejlednin
 
 Grundårsagen er som regel den samme: ingen påmindelse sat op. Sæt en udløbspåmindelse mindst **12 måneder før udløbsdatoen** – ikke 6 måneder. Det giver dig tid til at forny med standardbehandling uden at betale for ekspresservice og uden stresset ved en stram tidsramme.
 
-Gør dette for hvert pas i din husstand hver for sig. Børns pas udløber hurtigere (5 år i de fleste lande mod 10 for voksne) og er dem, der oftest bliver overset. **Tag hvert pas frem i dag, og tjek udløbsdatoen, ikke kun fotosiden.**
+Gør dette for hvert pas i din husstand hver for sig. Børns pas udløber hurtigere (ofte 5 år mod 10 for voksne) og er dem, der oftest bliver overset. **Tag hvert pas frem i dag, og tjek udløbsdatoen, ikke kun fotosiden.**
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 
@@ -122,11 +122,11 @@ Ansøg om fornyelse med det samme, og betal for ekspresbehandling, hvis din rejs
 
 ### Hvad skal jeg gøre, hvis jeg opdager, at mit pas er udløbet i lufthavnen?
 
-Du kan ikke boarde. Gå straks til flyselskabets skranke for at drøfte ombookning – nogle frafalder ombookningsgebyret ved reelle dokumentnødsituationer. Ring derefter til pasmyndigheden, og spørg specifikt om nødtider, da hurtigere tider ofte ikke fremgår af hjemmesiden.
+Du kan ikke boarde. Gå straks til flyselskabets skranke for at drøfte ombookning – spørg, om de kan ombooke dig uden ombookningsgebyr. Ring derefter til pasmyndigheden, og spørg specifikt om nødtider, da hurtigere tider ofte ikke fremgår af hjemmesiden.
 
 ### Hvor hurtigt kan jeg få et nødpas, hvis mit er udløbet?
 
-I Storbritannien findes en hurtig Premium-service på udvalgte paskontorer ved reelle nødsituationer – der kræves en tid, så tjek den aktuelle behandlingstid og booking på gov.uk. I USA er der personlige nødtider på regionale paskontorer til hastende rejser; tjek travel.state.gov for aktuelle gebyrer og tilgængelighed. I Australien kan du tjekke passports.gov.au for hurtige behandlingsmuligheder.
+I Storbritannien findes en hurtig Premium-service på udvalgte paskontorer ved reelle nødsituationer – der kræves en tid, så tjek den aktuelle behandlingstid og booking på gov.uk. I USA kan du tjekke travel.state.gov for muligheder ved hastende rejser, aktuelle gebyrer og tilgængelighed. I Australien kan du tjekke passports.gov.au for hurtige behandlingsmuligheder.
 
 ### Hvordan undgår jeg, at mit pas udløber uventet?
 

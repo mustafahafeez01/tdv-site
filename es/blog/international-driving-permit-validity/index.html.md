@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/es/blog/international-driving-permit-val
 - Cada país ratificó tratados distintos, así que **un permiso aceptado en un país puede ser rechazado en el siguiente**.
 - Pasaporte, carné y permiso funcionan con **tres calendarios distintos** que casi nunca coinciden.
 
-Un permiso de conducir internacional es una traducción del carné, no un carné por derecho propio, y corre según su propio calendario. La mayoría son válidos doce meses desde la fecha de expedición, así que el que se compró para un viaje hace tres veranos casi con certeza ha caducado. Los mostradores de alquiler de varios países lo piden antes de entregar el coche.
+Un permiso de conducir internacional es una traducción del carné, no un carné por derecho propio, y corre según su propio calendario. Muchos son válidos doce meses desde la fecha de expedición y ninguno supera los tres años, así que el que se compró para un viaje hace tres veranos casi con certeza ha caducado. Los mostradores de alquiler de varios países lo piden antes de entregar el coche.
 
 El permiso internacional de conducir tiene su propia fecha de caducidad, y esa fecha se comporta de forma distinta según cuál de los tratados internacionales lo haya emitido. La mayoría de los conductores no descubre que existen dos tipos hasta que uno de ellos es rechazado.
 
@@ -30,7 +30,7 @@ Esto pilla a la gente por sorpresa más a menudo que las propias fechas de caduc
 
 ## Dos Tratados Deciden Cuánto Dura y Dónde Sirve
 
-Detrás de los permisos internacionales de conducir hay tres acuerdos internacionales, y cada país se adhirió a uno de ellos o a varios. Dos hacen casi todo el trabajo: el Convenio de Ginebra de 1949 y el Convenio de Viena de 1968. Un permiso más antiguo, del Convenio de París de 1926, todavía se emite para un pequeño número de destinos, y al igual que el permiso de Ginebra, dura un año.
+Detrás de los permisos internacionales de conducir hay tres acuerdos internacionales, y cada país se adhirió a uno de ellos o a varios. Dos hacen casi todo el trabajo: el Convenio de Ginebra de 1949 y el Convenio de Viena de 1968. También existe un permiso más antiguo, del Convenio de París de 1926, que algunos destinos siguen incluyendo en sus requisitos. Comprueba la fecha de caducidad impresa en el permiso.
 
 Un permiso emitido bajo el Convenio de Ginebra de 1949 es válido durante un año. Un permiso emitido bajo el Convenio de Viena de 1968 puede durar hasta tres años.
 
@@ -40,7 +40,7 @@ Esa división importa por partida doble. Determina cuánto dura tu permiso, y ta
 
 | Tipo de permiso | Cuánto dura | Qué lo limita |
 |---|---|---|
-| **Convenio de París de 1926** | Un año | La fecha de emisión. Rara vez se necesita hoy |
+| **Convenio de París de 1926** | Consulta la fecha de caducidad impresa | La fecha de emisión. Rara vez se necesita hoy |
 | **Convenio de Ginebra de 1949** | Un año | La fecha de emisión |
 | **Convenio de Viena de 1968** | Hasta tres años | Tu carné de conducir nacional, si caduca antes |
 
@@ -90,9 +90,9 @@ Donde esto más duele es en un viaje reservado con poca antelación. El permiso 
 
 ## No Existe un Carné Internacional de Conducir
 
-Busca «permiso internacional de conducir» y encontrarás sitios que venden algo llamado carné internacional de conducir, a menudo por bastante más de lo que cuesta el permiso oficial, y a veces prometiendo entrega inmediata o una década de validez.
+Busca «permiso internacional de conducir» y encontrarás sitios que venden algo llamado carné internacional de conducir, a veces por más de lo que cuesta el permiso oficial, y a veces prometiendo entrega inmediata o una década de validez.
 
-Ese carné no existe. Los únicos documentos con validez real son los permisos emitidos bajo los convenios de 1926, 1949 y 1968, a través del canal que designa tu propio país. Tres años en un permiso de Viena es lo máximo que dura cualquiera de ellos, así que cualquier anuncio que prometa 10 o 20 años describe un documento que ningún agente fronterizo está obligado a aceptar.
+Ese carné no existe. Los permisos emitidos bajo los convenios de 1926, 1949 y 1968, a través del canal que designa tu propio país, son los documentos que describen esos convenios. Los tres años del permiso de Viena son el máximo que permite el convenio de 1968, así que cualquier anuncio que prometa 10 o 20 años describe algo ajeno a él.
 
 Si estás preparando una lista más amplia antes del viaje y no solo el tema de la conducción, nuestra [lista de verificación de documentos de viaje internacional](https://traveldocumentvault.com/es/blog/travel-document-checklist/) repasa qué reunir antes de volar, y [los documentos de viaje que se olvidan](https://traveldocumentvault.com/es/blog/what-documents-to-carry-when-travelling-internationally/) explica dónde conviene guardar cada uno una vez que estás de viaje.
 
@@ -122,7 +122,7 @@ Sí, si es un permiso de Viena de 1968. Ese tipo está limitado por tu carné na
 
 ### ¿Por Qué Hay Más de un Tipo de Permiso Internacional de Conducir?
 
-Proceden de tratados internacionales distintos. La mayor parte de los viajes están cubiertos por el Convenio de Ginebra de 1949 y el Convenio de Viena de 1968, y un permiso más antiguo, del Convenio de París de 1926, todavía se emite para un pequeño número de destinos. Cada país ratificó convenios distintos, por eso un permiso aceptado en un país puede ser rechazado en otro.
+Proceden de tratados internacionales distintos. La mayor parte de los viajes están cubiertos por el Convenio de Ginebra de 1949 y el Convenio de Viena de 1968, y también existe un permiso más antiguo, del Convenio de París de 1926, que algunos destinos siguen incluyendo en sus requisitos. Cada país ratificó convenios distintos, por eso un permiso aceptado en un país puede ser rechazado en otro.
 
 ## Artículos Relacionados
 

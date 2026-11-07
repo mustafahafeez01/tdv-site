@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/id/blog/uk-brp-expired-evisa-deadline/
 - Setiap anak memerlukan **akun sendiri**, yang bisa dikelola orang tua dengan nomor telepon dan email mereka sendiri.
 - Untuk bepergian, paspor yang Anda gunakan harus tercantum di akun UKVI Anda, dengan detail yang sesuai dengan pemesanan Anda.
 
-Sebagian besar pemegang Biometric Residence Permit (BRP, Izin Tinggal Biometrik Inggris) yang kedaluwarsa hanya perlu melakukan satu hal: membuat akun UK Visas and Immigration (UKVI), menggunakan kartu tersebut untuk membuktikan identitas mereka. Ini cukup sekali duduk, dan kartu yang kedaluwarsa masih berfungsi untuk itu, setidaknya untuk sementara waktu. Status imigrasi Anda tidak berubah. Yang berubah adalah tempat status itu disimpan.
+Jika Anda memegang Biometric Residence Permit (BRP, Izin Tinggal Biometrik Inggris) yang kedaluwarsa dan masih memiliki izin tinggal, GOV.UK meminta Anda membuat akun UK Visas and Immigration (UKVI), menggunakan kartu tersebut untuk membuktikan identitas Anda. Ini cukup sekali duduk, dan kartu yang kedaluwarsa masih berfungsi untuk itu, setidaknya untuk sementara waktu. Status imigrasi Anda tidak berubah. Yang berubah adalah tempat status itu disimpan.
 
 ![Diagram tentang berapa lama BRP yang kedaluwarsa masih bisa dipakai: selama 24 bulan setelah tanggal kedaluwarsa tercetak atau sampai 31 Desember 2026, mana yang lebih dulu. Selama waktu itu masih bisa dipakai untuk masuk dan mendapatkan share code, membuat akun UKVI, atau mengajukan perpanjangan izin tinggal](https://traveldocumentvault.com/blog/uk-brp-expired-evisa-deadline/brp-window-id.jpg) Dua tanggal, dan yang lebih dulu adalah milik Anda.
 
@@ -58,7 +58,7 @@ Saat anak Anda genap 18 tahun, detail akun sebaiknya dipindahkan ke nomor telepo
 
 ## Untuk Bepergian, Paspor yang Anda Gunakan Harus Tercantum di Akun UKVI Anda
 
-GOV.UK tegas soal ini: Anda harus bepergian dengan paspor atau dokumen perjalanan yang masih berlaku dan sudah Anda tambahkan ke akun UKVI Anda. eVisa Anda diperiksa saat Anda meninggalkan Inggris, saat Anda kembali (termasuk di eGates), dan oleh maskapai atau operator lain saat check-in. Pemeriksaan itu melihat eVisa Anda melalui paspor yang ada di akun Anda. Jika detail di akun Anda tidak cocok persis dengan informasi penumpang yang Anda berikan ke operator, operator tersebut mungkin tidak mengizinkan Anda bepergian, dan Anda juga bisa tertahan di perbatasan Inggris.
+GOV.UK tegas soal ini: Anda harus bepergian dengan paspor atau dokumen perjalanan yang masih berlaku dan sudah Anda tambahkan ke akun UKVI Anda. eVisa Anda diperiksa saat Anda meninggalkan dan memasuki Inggris, oleh petugas perbatasan atau di eGates, dan saat Anda check-in dengan operator pengangkut untuk kembali ke Inggris. Pemeriksaan itu melihat eVisa Anda melalui paspor yang ada di akun Anda. Jika detail di akun Anda tidak cocok persis dengan informasi penumpang yang Anda berikan ke operator, operator tersebut mungkin tidak mengizinkan Anda bepergian, dan Anda juga bisa tertahan di perbatasan Inggris.
 
 Sebelum bepergian, masuk ke akun Anda, pastikan paspor di akun adalah yang akan Anda gunakan, dan dapatkan share code. Kode ini berlaku 90 hari dan bisa dipakai lebih dari sekali, dan petugas maskapai atau perbatasan mungkin akan memintanya. Sebaiknya dapatkan kode itu sebelum memesan tiket, bukan saat mengantre di bandara.
 
@@ -88,7 +88,7 @@ Setiap anak memerlukan akun UKVI sendiri untuk mengakses eVisa mereka, menurut G
 
 ### Apa yang saya perlukan untuk bepergian dengan eVisa?
 
-Paspor yang masih berlaku dan sudah Anda tambahkan ke akun UKVI Anda, dengan detail yang cocok persis dengan yang Anda berikan ke maskapai. eVisa Anda diperiksa saat Anda meninggalkan Inggris, saat Anda kembali termasuk di eGates, dan saat check-in dengan operator pengangkut. Share code berlaku 90 hari dan bisa dipakai lebih dari sekali.
+Paspor yang masih berlaku dan sudah Anda tambahkan ke akun UKVI Anda, dengan detail yang cocok persis dengan yang Anda berikan ke maskapai. eVisa Anda diperiksa saat Anda meninggalkan dan memasuki Inggris, oleh petugas perbatasan atau di eGates, dan saat Anda check-in dengan operator pengangkut untuk kembali ke Inggris. Share code berlaku 90 hari dan bisa dipakai lebih dari sekali.
 
 ## Artikel Terkait
 

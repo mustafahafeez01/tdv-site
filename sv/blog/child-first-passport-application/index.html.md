@@ -10,11 +10,11 @@ Source: https://traveldocumentvault.com/sv/blog/child-first-passport-application
 
 ## Viktiga punkter
 
-- **Samtycke att ansöka skiljer sig från samtycke att resa.** Ditt barn behöver skriftligt tillstånd från alla föräldrar eller vårdnadshavare innan ansökan kan lämnas in.
+- **Samtycke att ansöka skiljer sig från samtycke att resa.** Reglerna skiljer sig mellan länder: i Storbritannien skriver till exempel någon med föräldraansvar under och båda föräldrarnas uppgifter anges, medan andra länder kräver båda föräldrarnas samtycke. Kontrollera med din passmyndighet.
 - **De flesta ansökningar kräver tre typer av bevis:** bevis på identitet (födelsebevis), bevis på föräldrarnas identitet, och bevis på föräldraskap.
 - **Babyfoton för pass har specifika regler.** De flesta myndigheter vill att ögonen ska vara öppna och rikta sig mot kameran (GOV.UK lättar på detta för barn under 1 år och under 6 år), utan napp, leksaker eller andra händer synliga – och bakgrunden bakom barnets huvud måste vara enfärgad och tydlig.
-- **Kontrollera allt så snart det kommer.** Stavning, föräldrarnas namn där de förekommer, utgångsdatum – särskilt eftersom barnpass går ut snabbare än vuxenpass.
-- **En förälder kan inte skriva under ensam om det inte finns ett domstolsbeslut, ensam vårdnad eller om den andra föräldern har avlidit.** Gäller detta dig har din passmyndighet en specifik process att följa.
+- **Kontrollera allt så snart det kommer.** Stavning, föräldrarnas namn där de förekommer, utgångsdatum – särskilt eftersom barnpass ofta går ut tidigare än vuxenpass (ett brittiskt barnpass gäller i 5 år).
+- **I länder som kräver båda föräldrarnas samtycke kan en förälder i regel inte skriva under ensam om det inte finns ett domstolsbeslut, ensam vårdnad eller om den andra föräldern har avlidit.** Gäller detta dig har din passmyndighet en specifik process att följa.
 
 Ditt barns första pass är något du bara gör en gång – vilket betyder att du kan lära dig reglerna innan det händer, i stället för att upptäcka dem vid disken. Själva ansökan är okomplicerad, men samtyckesregler och fotokrav varierar mellan länder, och ett litet misstag i början innebär en avvisad ansökan och en försenad resa.
 
@@ -28,7 +28,7 @@ Den här artikeln handlar om samtycket till ansökan. Skillnaden spelar roll eft
 
 ## Som standard måste alla med föräldraansvar samtycka
 
-Standardregeln är att alla vuxna med föräldraansvar för barnet måste samtycka till passansökan. För de flesta familjer betyder det båda gifta föräldrarna; för sambor betyder det båda parterna om de båda står med på födelsebeviset som föräldrar. Alla med ett domstolsbeslut eller ensam juridisk vårdnad omfattas av andra regler, och din passmyndighet förklarar den specifika processen när du frågar.
+Vem som måste samtycka beror på landet. I Storbritannien skriver en person med föräldraansvar under ansökan och båda föräldrarnas uppgifter anges; vissa andra länder kräver i regel båda föräldrarnas underskrifter. Även reglerna för om en ogift förälder har föräldraansvar skiljer sig mellan länder, så kontrollera med din passmyndighet. Alla med ett domstolsbeslut eller ensam juridisk vårdnad omfattas av andra regler, och din passmyndighet förklarar den specifika processen när du frågar.
 
 De här undantagen är verkliga och värda att känna till. En avliden förälder kan inte skriva under, och en förälder som förlorat sitt föräldraansvar genom ett domstolsbeslut kanske inte heller har rätt att samtycka. Kontaktförbud och vårdnadsbegränsningar kan också utesluta en förälder enligt lag. Var och en av de här situationerna har sin egen ansökningsprocess och sina egna beviskrav, så det finns inget enda svar som täcker alla.
 
@@ -54,9 +54,9 @@ Det är här många förstagångsansökningar misslyckas. En baby eller ett lite
 
 **Grundreglerna är desamma:** barnets ögon ska generellt vara öppna och rikta sig mot kameran, med en enfärgad bakgrund bakom huvudet och inget annat i bild. Vissa myndigheter lättar på ögonreglerna för de yngsta barnen: GOV.UK kräver inte öppna ögon under ett år, eller en direkt blick mot kameran under 6 år. Det som ändras är hur du får det att hända.
 
-**För en nyfödd eller baby under 6 månader:** fotografera barnet liggande på ett enfärgat vitt eller ljust lakan eller filt. Lakanet blir bakgrunden. Barnets huvud fyller den övre tredjedelen av bilden. Ställ dig direkt ovanför så att babyn tittar rakt upp mot kameran, med öppna ögon – är babyn sömnig, vänta på ett ögonblick när hen är pigg. Inga leksaker, inga nappar, inga händer, ingen annan person synlig i bilden förutom babyns eget huvud och axlar.
+**För en nyfödd eller baby under ett år:** fotografera barnet liggande på ett enfärgat vitt eller ljust lakan eller filt. Lakanet blir bakgrunden. Ställ dig direkt ovanför så att babyn tittar rakt upp mot kameran, med öppna ögon – är babyn sömnig, vänta på ett ögonblick när hen är pigg. Inga leksaker, inga nappar, inga händer, ingen annan person synlig i bilden förutom babyns eget huvud och axlar.
 
-**För en baby mellan 6 månader och 2 år:** du kan sätta barnet i en vuxens knä, men den vuxnas kropp och händer får inte synas i fotot alls. Babyns huvud fyller bilden. Den enfärgade bakgrunden ligger bara bakom babyn – inte synlig någon annanstans. En vit vägg fungerar. Det gör även ett enfärgat lakan upphängt bakom barnet. Vinkla bilden så att babyns ögon riktas mot kameran, men eftersom bebisar i den här åldern rör sig hela tiden kommer du förmodligen behöva ta 20 bilder för att få en där ögonen är öppna och riktade åt rätt håll.
+**För ett barn mellan ett och två år:** du kan sätta barnet i en vuxens knä, men den vuxnas kropp och händer får inte synas i fotot alls. Barnet är ensamt i bilden med en enfärgad bakgrund bakom sig och inget annat synligt. En vit vägg fungerar. Det gör även ett enfärgat lakan upphängt bakom barnet. Vinkla bilden så att babyns ögon riktas mot kameran, men eftersom bebisar i den här åldern rör sig hela tiden kommer du förmodligen behöva ta 20 bilder för att få en där ögonen är öppna och riktade åt rätt håll.
 
 **För småbarn 2 år och äldre:** sätt dem framför den enfärgade bakgrunden på en stol eller stående om de kan stå. Ögonen ska titta rakt in i kameran, vilket är svårare än det låter eftersom småbarn inte följer instruktioner. Sjung en sång, gör ett roligt ljud, eller be dem titta på en punkt strax ovanför objektivet. Du vill att de ska titta lätt uppåt, vilket ändå ser bättre ut på bild. Ta återigen många bilder – du behöver bara en där de tittar in i kameran med båda ögonen tydligt öppna.
 
@@ -78,7 +78,7 @@ Det här är ett juridiskt krav som finns för att skydda barnet, inte en förha
 
 **Är den andra föräldern försvunnen eller vägrar:** du behöver ett domstolsbeslut. Det kan vara ett befintligt vårdnadsbeslut, ett förmyndarskapsbeslut, eller ett specifikt domslut om att du har ensamt föräldraansvar. Vissa länder tillåter dig att ansöka hos domstolen om tillstånd att utfärda passet utan den andra förälderns samtycke om du kan visa att barnet skulle skadas av dröjsmål eller att den andra föräldern inte är lämplig att rådfråga. Det varierar mellan länder och lokal domstolspraxis – fråga din passmyndighet eller en familjejurist hur processen ser ut hos dig.
 
-**Har den andra föräldern avlidit:** du behöver dödsattesten. Din passmyndighet ska inte behöva något mer än så för att handlägga ansökan.
+**Har den andra föräldern avlidit:** räkna med att visa dödsattesten. Din passmyndighet bekräftar om något mer behövs.
 
 **Finns det ett kontaktförbud eller en vårdnadsbegränsning:** ta med domstolsbeslutet. Det visar myndigheten exakt vilka tillstånd och begränsningar som gäller.
 
@@ -86,19 +86,19 @@ Det här är ett juridiskt krav som finns för att skydda barnet, inte en förha
 
 När passet är utfärdat och levererat till dig, ta fem minuter och kontrollera det innan du lägger undan det. Du letar efter tre saker som är lätta att fixa nu och en mardröm att fixa på flygplatsen.
 
-**Kontrollera stavningen.** Ditt barns namn måste stavas exakt som det står på födelsebeviset eller den identitetshandling du använde för att ansöka. Är det fel kan passmyndigheten vanligtvis utfärda en ersättning utan kostnad. Märker du det inte förrän ni är på flygplatsen kan flygbolaget neka ombordstigning eftersom namnet på biljetten inte matchar passet.
+**Kontrollera stavningen.** Ditt barns namn måste stavas exakt som det står på födelsebeviset eller den identitetshandling du använde för att ansöka. Är det fel ersätter passmyndigheten vanligtvis passet utan kostnad om felet var deras, men du kan få betala en avgift om felet fanns i din ansökan. Märker du det inte förrän ni är på flygplatsen kan flygbolaget neka ombordstigning eftersom namnet på biljetten inte matchar passet.
 
 **Kontrollera föräldrarnas namn där de förekommer.** Vissa länder trycker föräldrarnas eller vårdnadshavarnas namn på insidan av ett barns pass. Är namnen felstavade eller fel, kontakta myndigheten för att få det rättat.
 
-**Kontrollera utgångsdatumet.** Det är avgörande för barn eftersom [barnpass går ut mycket snabbare än vuxenpass](https://traveldocumentvault.com/sv/blog/family-passport-management/). När du bokar resa behöver du veta exakt när handlingen slutar gälla. Skriv ner det och sätt en påminnelse samma dag som passet anländer, inte först när en resa dyker upp; det är den enda vanan vi alltid skulle rekommendera till föräldrar. Att barnpass går ut oväntat är en av de vanligaste orsakerna till att familjer måste avboka eller boka om resor.
+**Kontrollera utgångsdatumet.** Det är avgörande för barn eftersom [barnpass ofta går ut tidigare än vuxenpass](https://traveldocumentvault.com/sv/blog/family-passport-management/). När du bokar resa behöver du veta exakt när handlingen slutar gälla. Skriv ner det och sätt en påminnelse samma dag som passet anländer, inte först när en resa dyker upp; det är den enda vanan vi alltid skulle rekommendera till föräldrar. Ett barnpass som går ut utan att någon märker det kan lätt sätta stopp för en resa.
 
-Är något fel, kontakta din passmyndighet inom några dagar. Rättelser är oftast gratis om de anmäls snabbt, och ju längre du väntar desto krångligare blir processen. När allt stämmer, lägg passet direkt i din dokumentmapp med en anteckning om utgångsdatumet, så att förnyelsen inte tar dig på sängen.
+Är något fel, kontakta din passmyndighet så snart du upptäcker det. Om rättelsen är gratis beror på vem som gjorde felet, och ju längre du väntar desto krångligare blir processen. När allt stämmer, lägg passet direkt i din dokumentmapp med en anteckning om utgångsdatumet, så att förnyelsen inte tar dig på sängen.
 
 ## Vanliga frågor
 
 ### Vem måste samtycka till ett barns passansökan?
 
-I allmänhet måste alla vuxna med föräldraansvar för barnet samtycka. Det gäller gifta par, sambor som står med på födelsebeviset, och alla med juridisk vårdnad. Ensamt föräldraansvar, en avliden förälder och domstolsbeslut skapar undantag – den utfärdande myndigheten avgör om ansökan kan gå vidare utan båda föräldrarnas underskrifter.
+Det beror på landet: vanligtvis måste någon med föräldraansvar skriva under, och vissa passmyndigheter kräver också båda föräldrarnas samtycke. Det gäller gifta par, sambor som står med på födelsebeviset, och alla med juridisk vårdnad. Ensamt föräldraansvar, en avliden förälder och domstolsbeslut skapar undantag – den utfärdande myndigheten avgör om ansökan kan gå vidare utan båda föräldrarnas underskrifter.
 
 ### Vilka handlingar behöver jag för ett barns första passansökan?
 
@@ -106,7 +106,7 @@ Som minimum: bevis på barnets identitet (födelsebevis), bevis på föräldrarn
 
 ### Vad skiljer ett passfoto på en baby från andra passfoton?
 
-Många myndigheter vill att babyns ögon ska vara öppna och rikta sig mot kameran, utan napp, leksaker eller andra personers händer synliga. Vissa lättar på ögonreglerna för små barn: GOV.UK säger till exempel att ett barn under ett år inte behöver ha ögonen öppna och att ett barn under 6 år inte behöver titta rakt mot kameran. Den enfärgade bakgrunden ska synas tydligt bakom barnets huvud. Eftersom bebisar inte kan sitta upp eller sitta stilla kan du fotografera dem liggande på en enfärgad bakgrund – regeln är att huvudet ska fylla bilden, bara barnet syns i bild, och bakgrunden bakom det måste vara ren och ostörd.
+Många myndigheter vill att babyns ögon ska vara öppna och rikta sig mot kameran, utan napp, leksaker eller andra personers händer synliga. Vissa lättar på ögonreglerna för små barn: GOV.UK säger till exempel att ett barn under ett år inte behöver ha ögonen öppna och att ett barn under 6 år inte behöver titta rakt mot kameran. Den enfärgade bakgrunden ska synas tydligt bakom barnets huvud. Eftersom bebisar inte kan sitta upp eller sitta stilla kan du fotografera dem liggande på en enfärgad bakgrund – barnet måste vara ensamt i bilden och bakgrunden bakom barnet ska vara enfärgad och ljus.
 
 ### Hur länge är ett barns pass giltigt?
 

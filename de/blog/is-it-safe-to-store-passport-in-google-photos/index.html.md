@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/de/blog/is-it-safe-to-store-passport-in-
 
 - Das Speichern eines Reisepass-Scans in Google Photos bedeutet, dass sich Ihr Identitätsdokument auf Googles Servern befindet, von deren Systemen verarbeitet wird und nur durch Ihre Kontosicherheit geschützt ist.
 - Ein kompromittiertes Google-Konto – durch Phishing, Passwortwiederverwendung oder eine Datenpanne bei Drittanbietern – ermöglicht Zugriff auf alle Dokumente in Google Photos. Auch Ihren Reisepass.
-- Googles Bedingungen erlauben automatisiertes Scannen Ihrer Fotos für Funktionen und Verbesserungen. Das schließt Bilder mit Reisepassdaten ein.
+- Laut Googles Datenschutzrichtlinie analysieren automatisierte Systeme Ihre Inhalte, um Dienste bereitzustellen und zu verbessern. Ein Passscan wird wie jedes andere Foto gespeichert.
 - Bessere Optionen gibt es: verschlüsselte Passwort-Manager, lokal verschlüsselte Apps oder clientseitig verschlüsselter Cloud-Speicher – keiner davon speichert Ihren Reisepass in einer allgemeinen Fotobibliothek.
 - Für die meisten Menschen ist das echte Risiko nicht Google – es ist schwache Kontosicherheit und wer sonst noch auf das Konto zugreifen kann.
 
@@ -55,7 +55,7 @@ Wie viele Apps haben Sie mit Ihrem Google-Konto verbunden? Wahrscheinlich mehr, 
 
 **Automatisches Inhaltsscanning**
 
-Googles Datenschutzrichtlinie bestätigt, dass Fotos durch automatisierte Systeme verarbeitet werden – Gesichtserkennung, Objekterkennung, Suchindexierung. Ihr Reisepass-Scan durchläuft diese Systeme ebenfalls zur Suche und Funktionserkennung. Es ist kein Mensch, der Ihren Reisepass liest, und Google tut nichts Böses, aber Ihre Dokumentdaten verlassen Ihr Gerät und werden durch Infrastruktur von Drittanbietern analysiert.
+Laut Googles Datenschutzrichtlinie analysieren automatisierte Systeme Ihre Inhalte, und Google Photos erstellt Gesichtsgruppen aus Ihren Bildern. Ein Passscan wird wie jedes andere Foto gespeichert – Ihre Dokumentdaten verlassen also Ihr Gerät und liegen auf der Infrastruktur eines Drittanbieters.
 
 **Datenpanne bei Google**
 
@@ -71,13 +71,13 @@ Angenommen, Ihr Google-Kontopasswort wurde vor zwei Jahren auf einer Website wie
 |---|---|---|---|---|
 | Google Photos | Google Cloud-Server | Im Transit + im Ruhezustand (Google-verwaltete Schlüssel) | Moderat | Akzeptabel mit starkem 2FA |
 | iCloud Photos | Apple Cloud-Server | Im Transit + im Ruhezustand (Apple-verwaltete Schlüssel) | Moderat | Akzeptabel mit starkem 2FA |
-| Verschlüsselter Passwort-Manager (1Password, Bitwarden) | Cloud (Zero-Knowledge) | End-to-End; Anbieter kann Inhalte nicht lesen | Niedrig | Gute Wahl |
+| Verschlüsselter Passwort-Manager | Cloud (End-to-End-verschlüsselt) | End-to-End; bei dieser Einrichtung kann der Anbieter Inhalte nicht lesen | Niedrig | Gute Wahl |
 | Lokal verschlüsselte App (optional eigener Cloud-Backup) | Ihr Telefon; optionales verschlüsseltes Backup in Ihrer eigenen Cloud (Pro) | Auf dem Gerät verschlüsselt; optionale verschlüsselte Kopie in der eigenen Cloud (Pro) | Niedrig | Best für sensible Dokumente |
 | Fotobibliothek / unverschlüsselter Ordner | Ihr Gerät | Nur Geräteverschlüsselung | Hoch | Nicht empfohlen |
 
 ### iCloud Photos vs Google Photos: Ist Apple sicherer?
 
-iOS-Benutzer nehmen oft an, dass iCloud bedeutend sicherer als Google Photos zum Speichern von Reisepass-Scans ist. Auf struktureller Ebene sind sie sehr ähnlich. Beide speichern Ihre Fotos auf Cloud-Servern, die vom Anbieter verwaltet werden, beide verschlüsseln Daten im Transit und im Ruhezustand mit ihren eigenen verwalteten Schlüsseln, und beide verarbeiten Ihre Bilder durch automatisierte Systeme für Funktionen wie Suche und Gesichtserkennung.
+iOS-Benutzer nehmen oft an, dass iCloud bedeutend sicherer als Google Photos zum Speichern von Reisepass-Scans ist. Auf struktureller Ebene sind sie sehr ähnlich. Beide speichern Ihre Fotos auf Cloud-Servern, die vom Anbieter verwaltet werden, beide verschlüsseln Daten im Transit und im Ruhezustand mit ihren eigenen verwalteten Schlüsseln. In beiden Fällen hält der Anbieter die Schlüssel standardmäßig.
 
 Apples Advanced Data Protection (verfügbar in iOS 16.2+) hebt die Messlatte an – wenn aktiviert, erweitert es die End-to-End-Verschlüsselung auf iCloud Photos, was bedeutet, dass selbst Apple Ihren Inhalt nicht lesen kann. Es ist jedoch nicht standardmäßig aktiviert, und die meisten Benutzer wissen nicht, dass es existiert.
 
@@ -93,7 +93,7 @@ Zwei Dinge sollten Sie zunächst auseinanderhalten: eine Kopie für den eigenen 
 
 **Verschlüsselte Passwort-Manager**
 
-1Password und Bitwarden ermöglichen es Ihnen beide, Dokument-Scans als Anhänge zu speichern. Sie nutzen Zero-Knowledge-Verschlüsselung – der Anbieter kann Ihren Inhalt nicht lesen, selbst wenn er wollte. Ihre Dokumente werden auf Ihrem Gerät verschlüsselt, bevor irgendetwas auf ihre Server geht. Das ist ein echtes Upgrade gegenüber einer allgemeinen Cloud-Fotobibliothek.
+Einige verschlüsselte Passwort-Manager erlauben es, Dokument-Scans als Anhänge zu speichern. Prüfen Sie die Dokumentation des Anbieters: Werden die Anhänge vor dem Hochladen auf Ihrem Gerät verschlüsselt, kann der Anbieter sie nicht lesen. Das bietet einen stärkeren Schutz als eine allgemeine Cloud-Fotobibliothek.
 
 **Lokal verschlüsselte Apps**
 
@@ -101,7 +101,7 @@ Apps, die speziell dafür entwickelt wurden – wie [Travel Document Vault](http
 
 **Verschlüsselter Cloud-Speicher mit clientseitigen Schlüsseln**
 
-Tresorit und Proton Drive bieten clientseitige Verschlüsselung für Cloud-Speicher. Wie Passwort-Manager kann der Anbieter Ihre Dateien nicht lesen. Sie bekommen Cloud-Komfort mit deutlich stärkerer Reisepass-Foto-Sicherheit als Google Photos.
+Ein **Ende-zu-Ende-verschlüsseltes Cloud-Laufwerk** ist ein dritter Weg. Solche Dienste geben an, dass Ihre Dateien mit Schlüsseln verschlüsselt werden, die auf Ihren Geräten liegen. Prüfen Sie deshalb die Dokumentation des Anbieters, bevor Sie sich darauf verlassen. Richtig umgesetzt, bekommen Sie Cloud-Komfort mit stärkerem Schutz als in einer allgemeinen Fotobibliothek.
 
 ## Wenn Sie bei Google Photos bleiben, leistet die Zwei-Faktor-Authentifizierung die meiste Arbeit
 
@@ -109,7 +109,7 @@ Viele Menschen werden Google Photos weiterhin dafür nutzen – die Bequemlichke
 
 - **Schalten Sie Zwei-Faktor-Authentifizierung ein.** Das ist das Wichtigste, das Sie tun können. Verwenden Sie eine Authenticator-App, nicht SMS – SMS 2FA ist besser als nichts, aber leichter abzufangen.
 - **Nutzen Sie ein starkes, eindeutiges Passwort für Ihr Google-Konto.** Die Wiederverwendung von Passwörtern über Dienste hinweg ist, wie die meisten Konten tatsächlich übernommen werden.
-- **Überprüfen Sie die Berechtigungen von Drittanbieter-Apps.** Gehen Sie zu myaccount.google.com → Sicherheit → Drittanbieter-Apps mit Kontozugriff, und entfernen Sie alles, das nicht dort sein muss.
+- **Überprüfen Sie die Berechtigungen von Drittanbieter-Apps.** Öffnen Sie die Sicherheitseinstellungen Ihres Google-Kontos, prüfen Sie die mit Ihrem Konto verknüpften Apps und Dienste und entfernen Sie alles, das nicht dort sein muss.
 - **Überprüfen Sie Ihre aktiven Geräte und Sitzungen.** Entfernen Sie alles, das Sie nicht erkennen.
 - **Erstellen Sie ein privates Album für sensible Dokumente** statt sie lose in Ihrem Hauptfoto-Stream zu lassen. Das stoppt keine Datenpanne, aber es reduziert versehentliche Offenlegung, wenn jemand über Ihre Schulter schaut.
 
@@ -123,15 +123,15 @@ Für einen umfassenderen Blick auf die Verwaltung und Sicherung Ihrer Reisedokum
 
 ### Ist es sicher, ein Reisepassfoto in Google Photos zu speichern?
 
-Es ist praktisch, aber Google Photos wurde nicht für sensible Identitätsdokumente gebaut. Ihr Scan lebt auf Googles Servern, wird durch deren automatisierte Systeme verarbeitet und ist durch die Sicherheit geschützt, die Ihr Google-Konto hat. Wenn Ihr Konto kompromittiert wird (durch Phishing, ein wiederverwendetes Passwort oder eine Datenpanne woanders), wird es Ihr Reisepass-Scan auch. Für ein so sensibles Dokument ist eine dedizierte verschlüsselte Speicheroption die intelligentere Wahl. Wenn Sie Google Photos nutzen, aktivieren Sie Zwei-Faktor-Authentifizierung und verwenden Sie ein eindeutiges Passwort für Ihr Google-Konto.
+Es ist praktisch, aber Google Photos wurde nicht für sensible Identitätsdokumente gebaut. Ihr Scan lebt auf Googles Servern, unterliegt Googles eigener Datenschutzrichtlinie und ist durch die Sicherheit geschützt, die Ihr Google-Konto hat. Wenn Ihr Konto kompromittiert wird (durch Phishing, ein wiederverwendetes Passwort oder eine Datenpanne woanders), wird es Ihr Reisepass-Scan auch. Für ein so sensibles Dokument ist eine dedizierte verschlüsselte Speicheroption die intelligentere Wahl. Wenn Sie Google Photos nutzen, aktivieren Sie Zwei-Faktor-Authentifizierung und verwenden Sie ein eindeutiges Passwort für Ihr Google-Konto.
 
 ### Scannt Google den Inhalt von Fotos, die in Google Photos gespeichert sind?
 
-Ja. Automatisierte Systeme verarbeiten Ihre Fotos für Dinge wie Gesichtserkennung, Objekterkennung und Suchindexierung. Googles Datenschutzrichtlinie erlaubt auch die Nutzung von Inhalten zur Verbesserung ihrer Dienste. Kein Mensch liest Ihren Reisepass – aber Ihre Dokumentdaten werden durch Googles Infrastruktur verarbeitet, nicht einfach inert auf einem Server sitzend.
+Ja, das ist möglich. Laut Googles Datenschutzrichtlinie analysieren automatisierte Systeme Ihre Inhalte, und Google Photos erstellt Gesichtsgruppen aus Ihren Bildern. Die Richtlinie erlaubt auch, Inhalte zur Verbesserung der Dienste zu nutzen. Ein Passscan wird wie jedes andere Foto gespeichert – Ihre Dokumentdaten liegen also auf Googles Infrastruktur, statt auf Ihrem Gerät zu bleiben.
 
 ### Was ist der sicherste Weg, eine digitale Kopie eines Reisepasses zu speichern?
 
-Lokal verschlüsselter Speicher auf dem Gerät ist Ihre sicherste Wette – Apps, die Ihre Scans auf Ihrem Telefon standardmäßig mit starker Verschlüsselung speichern. Kopien können durch Teilen, Export oder optionale verschlüsselte Backups in Ihrem eigenen iCloud oder Google Drive (Pro) das Gerät verlassen. Wenn Sie auch Cloud-Zugriff möchten, ist ein verschlüsselter Passwort-Manager ohne Wissenszugang wie 1Password oder Bitwarden ein solider Mittelweg.
+Lokal verschlüsselter Speicher auf dem Gerät ist Ihre sicherste Wette – Apps, die Ihre Scans auf Ihrem Telefon standardmäßig mit starker Verschlüsselung speichern. Kopien können durch Teilen, Export oder optionale verschlüsselte Backups in Ihrem eigenen iCloud oder Google Drive (Pro) das Gerät verlassen. Wenn Sie auch Cloud-Zugriff möchten, ist ein End-to-End-verschlüsselter Passwort-Manager mit Unterstützung für Dateianhänge ein vernünftiger Mittelweg.
 
 ### Kann jemand meine Identität aus einem Reisepass-Scan stehlen?
 
@@ -139,7 +139,7 @@ Ja, realistisch. Ihr Name, Geburtsdatum, Nationalität, Reisepassnummer und Abla
 
 ### Ist iCloud sicherer als Google Photos zum Speichern von Reisepass-Scans?
 
-Auf struktureller Ebene sind sie sehr ähnlich. Beide speichern Fotos auf Cloud-Servern, die vom Anbieter verwaltet werden, und beide verarbeiten Bilder durch automatisierte Systeme. Apples Advanced Data Protection (iOS 16.2+) erweitert die End-to-End-Verschlüsselung auf iCloud Photos, wenn aktiviert, was die Messlatte sinnvoll hebt – aber es ist standardmäßig deaktiviert und die meisten Benutzer haben es nicht aktiviert. Der größere Faktor bei beiden Plattformen ist Ihr Kontopasswort und ob Zwei-Faktor-Authentifizierung aktiv ist. Für die Reisepass-Speicherung speziell bleibt eine dedizierte lokal verschlüsselte App auf beiden Plattformen die stärkere Option.
+Auf struktureller Ebene sind sie sehr ähnlich. Beide speichern Fotos auf Cloud-Servern, die vom Anbieter verwaltet werden, standardmäßig hält der Anbieter die Schlüssel. Apples Advanced Data Protection (iOS 16.2+) erweitert die End-to-End-Verschlüsselung auf iCloud Photos, wenn aktiviert, was die Messlatte sinnvoll hebt – aber die Funktion ist optional und standardmäßig deaktiviert. Der größere Faktor bei beiden Plattformen ist Ihr Kontopasswort und ob Zwei-Faktor-Authentifizierung aktiv ist. Für die Reisepass-Speicherung speziell bleibt eine dedizierte lokal verschlüsselte App auf beiden Plattformen die stärkere Option.
 
 ## Verwandte Artikel
 

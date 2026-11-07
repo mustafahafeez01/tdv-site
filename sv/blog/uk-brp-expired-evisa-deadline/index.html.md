@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/sv/blog/uk-brp-expired-evisa-deadline/
 - Varje barn behöver **sitt eget konto**, som en förälder kan sköta med sitt eget telefonnummer och sin egen e-post.
 - För att resa måste passet du flyger på finnas på ditt UKVI-konto, med uppgifter som matchar din bokning.
 
-De flesta som har ett utgånget Biometric Residence Permit (BRP, biometriskt uppehållstillståndskort) behöver bara göra en sak: skapa ett konto hos UK Visas and Immigration (UKVI, brittiska myndigheten för visum och immigration), och använda kortet för att styrka sin identitet. Det är gjort i ett svep, och det utgångna kortet fungerar fortfarande för det, i alla fall ett tag. Din uppehållsstatus har inte ändrats. Det som har ändrats är var den finns.
+Om du har ett utgånget Biometric Residence Permit (BRP, biometriskt uppehållstillståndskort) och fortfarande har tillstånd att stanna ber GOV.UK dig skapa ett konto hos UK Visas and Immigration (UKVI, brittiska myndigheten för visum och immigration), och använda kortet för att styrka din identitet. Det är gjort i ett svep, och det utgångna kortet fungerar fortfarande för det, i alla fall ett tag. Din uppehållsstatus har inte ändrats. Det som har ändrats är var den finns.
 
 ![Diagram över hur länge ett utgånget BRP fortfarande fungerar: i 24 månader efter det tryckta utgångsdatumet eller fram till 31 december 2026, det som inträffar först. Under den tiden kan det fortfarande användas för att logga in och få en share code, skapa ett UKVI-konto, eller ansöka om att förlänga din rätt att stanna](https://traveldocumentvault.com/blog/uk-brp-expired-evisa-deadline/brp-window-sv.jpg) Två datum, och det tidigaste är ditt.
 
@@ -58,7 +58,7 @@ När ditt barn fyller 18 bör kontouppgifterna föras över till deras egen tele
 
 ## För att resa måste passet du flyger på finnas på ditt UKVI-konto
 
-GOV.UK är tydliga på denna punkt: du måste resa med ett giltigt pass eller resedokument som du har lagt till på ditt UKVI-konto. Ditt eVisa kontrolleras när du lämnar Storbritannien, när du kommer tillbaka (även vid eGates) och av flygbolaget eller annan transportör vid incheckning. Dessa kontroller läser ditt eVisa via passet på ditt konto. Om uppgifterna på ditt konto inte exakt matchar passagerarinformationen du gav transportören kan transportören neka dig att resa, och du kan även bli stoppad vid den brittiska gränsen.
+GOV.UK är tydliga på denna punkt: du måste resa med ett giltigt pass eller resedokument som du har lagt till på ditt UKVI-konto. Ditt eVisa kontrolleras när du lämnar och reser in i Storbritannien, av en gränskontrollant eller vid eGates, och när du checkar in hos transportören för att återvända till Storbritannien. Dessa kontroller läser ditt eVisa via passet på ditt konto. Om uppgifterna på ditt konto inte exakt matchar passagerarinformationen du gav transportören kan transportören neka dig att resa, och du kan även bli stoppad vid den brittiska gränsen.
 
 Innan en resa, logga in, bekräfta att passet på kontot är det du ska resa med, och hämta en share code. En kod gäller i 90 dagar och kan användas mer än en gång, och ett flygbolag eller en gränstjänsteman kan be att få se den. Vi skulle hämta den innan bokningen, inte i kön på flygplatsen.
 
@@ -88,7 +88,7 @@ Varje barn behöver sitt eget UKVI-konto för att nå sitt eVisa, enligt GOV.UK,
 
 ### Vad behöver jag för att resa med ett eVisa?
 
-Ett giltigt pass som du har lagt till på ditt UKVI-konto, med uppgifter som exakt matchar det du ger flygbolaget. Ditt eVisa kontrolleras när du lämnar Storbritannien, när du kommer tillbaka inklusive vid eGates, och vid incheckning hos transportören. En share code gäller i 90 dagar och kan användas mer än en gång.
+Ett giltigt pass som du har lagt till på ditt UKVI-konto, med uppgifter som exakt matchar det du ger flygbolaget. Ditt eVisa kontrolleras när du lämnar och reser in i Storbritannien, av en gränskontrollant eller vid eGates, och när du checkar in hos transportören för att återvända till Storbritannien. En share code gäller i 90 dagar och kan användas mer än en gång.
 
 ## Relaterade artiklar
 

@@ -39,7 +39,7 @@ Bij een datalek bij een app die alles op het toestel bewaart, lekt er niets van 
 
 ### De voorlooptijd van herinneringen is de instelling die je zelf wilt kunnen aanpassen
 
-Een herinnering op 6 maanden is het minimum – veel landen eisen dat je paspoort nog minstens 6 maanden geldig is na je reisdata, zoals we uitleggen in ons artikel over de [6 maanden-paspoortregel](https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/). Voor gezinnen met kinderen, van wie paspoorten na 5 jaar verlopen in plaats van 10, geeft een eerdere herinnering – bijvoorbeeld 9 maanden van tevoren – meer comfortabele planningstijd.
+Een herinnering op 6 maanden is het minimum – veel landen eisen dat je paspoort nog minstens 6 maanden geldig is na je reisdata, zoals we uitleggen in ons artikel over de [6 maanden-paspoortregel](https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/). Kinderpaspoorten zijn vaak 5 jaar geldig in plaats van 10 (een Brits kinderpaspoort is bijvoorbeeld 5 jaar geldig). Een eerdere herinnering – bijvoorbeeld 9 maanden van tevoren – geeft dan meer comfortabele planningstijd.
 
 ### Eén app kan het hele gezin veilig bevatten
 
@@ -70,7 +70,7 @@ Vraag jezelf voor het downloaden af of de app een account vereist, scans naar ee
 | Vereist internet om documenten te bekijken | Faalt precies wanneer je het nodig hebt - aan de grens of onderweg |
 | Geen of vaag privacybeleid | Je weet niet wat er met je scans gebeurt |
 | Alleen cloudopslag, geen optie voor opslag op het toestel | Eén datalek bij de server stelt de paspoortgegevens van alle gebruikers bloot |
-| Abonnementsprijzen voor basisfuncties | Maandelijkse kosten zetten aan tot opzeggen - waarna je de toegang tot je documenten verliest |
+| Abonnementsprijzen voor basisfuncties | Maandelijkse kosten zetten aan tot opzeggen, en bij sommige apps verlies je dan de toegang tot je documenten |
 
 Wat dit in de praktijk betekent
 
@@ -78,9 +78,9 @@ Je staat bij een grensovergang, je telefoon is offline, en de immigratiebeambte 
 
 ## Controleer wat er met je documenten gebeurt als een abonnement afloopt
 
-Er is een praktisch argument voor apps met een eenmalige aankoop boven abonnementen als het om documentopslag gaat. Vergeet je een abonnement te verlengen – of besluit je simpelweg op te zeggen – dan verlies je de toegang tot je opgeslagen documenten. Dat is een riskante regeling voor iets wat je misschien pas over jaren weer nodig hebt.
+Er is een praktisch argument voor apps met een eenmalige aankoop boven abonnementen als het om documentopslag gaat. Bij sommige apps met een abonnement kun je de toegang tot je opgeslagen documenten verliezen als je vergeet te verlengen of besluit op te zeggen. Dat is een riskante regeling voor iets wat je misschien pas over jaren weer nodig hebt.
 
-Een app met een eenmalige aankoop blijft daarentegen voor onbepaalde tijd volledig functioneren. Je betaalt één keer, en de app blijft werken ongeacht of de ontwikkelaar er nog actief geld aan verdient.
+Een app met een eenmalige aankoop heeft daarentegen geen verlengdatum waarop je toegang kan vervallen. Je betaalt één keer, en je documenten blijven op je toestel staan en zijn zoals voorheen te openen.
 
 ## Hoe Travel Document Vault dit aanpakt
 
@@ -124,7 +124,7 @@ De beste paspoortorganizer-apps zijn ontworpen om volledig offline te werken. Di
 
 ### Hoe ver van tevoren moet een paspoortapp me herinneren om te vernieuwen?
 
-Minimaal 6 maanden voor de vervaldatum, aangezien veel landen eisen dat je paspoort nog minstens 6 maanden geldig is na je vertrekdatum. Een goede paspoortorganizer-app laat je zelf het tijdstip van herinneringen instellen. Voor gezinnen met kinderen, van wie paspoorten na 5 jaar verlopen in plaats van 10, geeft een eerdere herinnering van bijvoorbeeld 9 maanden van tevoren meer comfortabele planningstijd.
+Minimaal 6 maanden voor de vervaldatum, aangezien veel landen eisen dat je paspoort nog minstens 6 maanden geldig is na je vertrekdatum. Een goede paspoortorganizer-app laat je zelf het tijdstip van herinneringen instellen. Voor gezinnen met kinderen, van wie paspoorten vaak na 5 jaar verlopen in plaats van 10, geeft een eerdere herinnering van bijvoorbeeld 9 maanden van tevoren meer comfortabele planningstijd.
 
 ### Welke documenten moet een goede paspoortorganizer-app ondersteunen?
 

@@ -57,7 +57,7 @@ Regulasi mengizinkan paspor diterbitkan ketika hanya satu orang tua yang menanda
 
 Paspor yang diterbitkan sebelum anak berusia 16 tahun tetap tidak bisa diperpanjang di usia 16 atau 17 tahun. Remaja tersebut mengajukan paspor baru secara langsung, dan perbedaannya sekarang adalah mereka bisa menandatangani permohonannya sendiri.
 
-Orang tua masih punya peran. Mereka bisa memberikan surat pernyataan yang menyatakan mereka mengetahui remaja tersebut mengajukan paspor, atau hadir dalam pertemuan bersama mereka. Regulasi juga mengizinkan petugas paspor meminta persetujuan orang tua yang dinotariskan kapan saja, jadi ada baiknya orang tua bisa dihubungi pada hari itu.
+Orang tua masih punya peran. Departemen Luar Negeri AS umumnya meminta orang tua menandatangani **surat pernyataan yang menyatakan mereka mengetahui** remaja tersebut mengajukan paspor, atau hadir dalam pertemuan, jadi periksa halaman remaja di situs mereka untuk persyaratan terbaru sebelum Anda pergi. Regulasi juga mengizinkan petugas paspor meminta persetujuan orang tua yang dinotariskan kapan saja, jadi ada baiknya orang tua bisa dihubungi pada hari itu.
 
 Paspor yang diterbitkan pada usia 16 atau 17 tahun berlaku sepuluh tahun. Saat habis, orang tersebut, yang sekarang sudah dewasa, umumnya bisa memperpanjangnya lewat pos atau online, selama memenuhi kondisi biasa untuk orang dewasa. Pengajuan ulang secara langsung berakhir di titik itu.
 
@@ -85,7 +85,7 @@ Regulasi paspor federal mewajibkan kedua orang tua atau wali untuk menandatangan
 
 ### Apa yang terjadi saat anak berusia 16 tahun?
 
-Paspor yang diterbitkan sebelum usia 16 tahun tetap tidak bisa diperpanjang saat anak berusia 16 atau 17 tahun. Remaja tersebut mengajukan paspor baru secara langsung dan bisa menandatangani permohonannya sendiri. Orang tua bisa memberikan surat pernyataan yang menyatakan mereka mengetahui permohonan tersebut, atau hadir dalam pertemuan. Petugas masih bisa meminta surat pernyataan persetujuan orang tua yang dinotariskan. Paspor yang diterbitkan pada usia 16 atau 17 tahun berlaku sepuluh tahun dan umumnya bisa diperpanjang seperti paspor orang dewasa setelah habis masa berlakunya.
+Paspor yang diterbitkan sebelum usia 16 tahun tetap tidak bisa diperpanjang saat anak berusia 16 atau 17 tahun. Remaja tersebut mengajukan paspor baru secara langsung dan bisa menandatangani permohonannya sendiri. Orang tua mungkin diminta memberikan surat pernyataan yang menyatakan mereka mengetahui permohonan tersebut, atau hadir dalam pertemuan. Petugas masih bisa meminta surat pernyataan persetujuan orang tua yang dinotariskan. Paspor yang diterbitkan pada usia 16 atau 17 tahun berlaku sepuluh tahun dan umumnya bisa diperpanjang seperti paspor orang dewasa setelah habis masa berlakunya.
 
 ### Bagaimana jika salah satu orang tua memiliki hak asuh tunggal?
 

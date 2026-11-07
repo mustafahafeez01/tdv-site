@@ -11,9 +11,9 @@ Source: https://traveldocumentvault.com/sv/blog/passport-expired-what-to-do/
 ## Viktiga punkter
 
 - Det finns två olika situationer: att upptäcka att passet har gått ut **hemma innan en resa**, och att upptäcka det **på flygplatsen**. Stegen skiljer sig åt för respektive situation.
-- Du kan inte flyga internationellt med ett utgånget pass. Inga undantag.
-- I Storbritannien finns en påskyndad Premium-tjänst för pass vid genuina nödsituationer – bokningsbar via gov.uk. I USA finns akuttider via utrikesdepartementet för brådskande resor.
-- På flygplatsen: kontakta flygbolaget först – vissa ombokar utan avgift vid genuina dokumentnödlägen.
+- Du kan i regel inte flyga internationellt med ett utgånget pass.
+- I Storbritannien finns en påskyndad Premium-tjänst för pass vid genuina nödsituationer – bokningsbar via gov.uk. I USA finns information om alternativ för brådskande resor på travel.state.gov.
+- På flygplatsen: kontakta flygbolaget först – fråga om de kan boka om dig utan ombokningsavgift.
 - Lösningen framåt är en påminnelse 12 månader före utgångsdatum, inte 6. Det ger dig tillräckligt med tid att förnya med standardhandläggning.
 - Utgångsdatum är inte det enda passproblemet som gör att resenärer nekas ombordstigning. Skador, namn som inte stämmer, saknad namnteckning och otillräcklig återstående giltighetstid på resmålet ger samma resultat.
 
@@ -30,9 +30,9 @@ Hur brådskande du behöver agera avgör vad du ska göra:
 - **Gott om tid innan resan:** ansök om standardförnyelse online via passmyndighetens webbplats – GOV.UK i Storbritannien, travel.state.gov i USA.
 - **Resan närmar sig:** ansök omedelbart och betala för påskyndad handläggning. Både Storbritannien och USA erbjuder en snabbare betaltjänst online, och båda publicerar sin aktuella handläggningstid.
 - **Resan börjar bli nära:** ring passmyndigheten direkt i stället för att bara förlita dig på webbplatsen – HM Passport Office:s rådgivningslinje i Storbritannien, eller US National Passport Information Center i USA.
-- **Resan är omedelbart förestående:** fråga om en akuttid och ta med bevis på dina resdatum. Storbritanniens 1 Day Premium-tjänst (endast förnyelser av vuxnas pass) bokar tider tidigast två dagar efter ansökan, med passet klart för avhämtning fyra timmar senare, och USA erbjuder tider på regionala passmyndigheter.
+- **Resan är omedelbart förestående:** fråga om en akuttid och ta med bevis på dina resdatum. Storbritanniens 1 Day Premium-tjänst (endast förnyelser av vuxnas pass) bokar tider tidigast två dagar efter ansökan, med passet klart för avhämtning fyra timmar senare, och USA publicerar sina alternativ för brådskande resor på travel.state.gov.
 
-Alla större passmyndigheter håller tillbaka akuttider som inte syns online. Om din tidsram är snäv **skulle vi alltid ringa i stället för att bara lita på webbplatsen.**
+Om din tidsram är snäv **skulle vi alltid ringa i stället för att bara lita på webbplatsen.**
 
 ## Scenario B: Du upptäckte det på flygplatsen
 
@@ -40,9 +40,9 @@ Det här scenariot händer oftare än man tror, och stegen är inte självklara 
 
 **Steg 1: Håll dig lugn och gå bort från kön.** Du kommer inte att flyga med det här planet, och ju snabbare du accepterar det, desto snabbare kan du börja arbeta på lösningen.
 
-**Steg 2: Gå till flygbolagets disk omedelbart.** Lämna inte flygplatsen – prata direkt med flygbolaget och förklara situationen. Vissa flygbolag ombokar utan ombokningsavgift vid genuina dokumentnödlägen – inte alla, men det är värt att fråga. Be om svaret skriftligt om de går med på det.
+**Steg 2: Gå till flygbolagets disk omedelbart.** Lämna inte flygplatsen – prata direkt med flygbolaget och förklara situationen. Flygbolagens regler skiljer sig åt, så fråga om de kan boka om dig utan ombokningsavgift. Be om svaret skriftligt om de går med på det.
 
-**Steg 3: Kontrollera om inrikesresa är möjlig.** Ett utgånget pass kan i vissa länder fortfarande godkännas som legitimation för inrikesflyg, även om det inte är garanterat. Om din slutdestination går att nå inrikes från en närmare stad kan det vara ett alternativ medan du löser passfrågan. Brittiska resenärer bör läsa [vad ett utgånget pass innebär för resor i Storbritannien](https://traveldocumentvault.com/sv/blog/travel-expired-passport-uk/), eftersom reglerna skiljer sig åt beroende på rutt.
+**Steg 3: Kontrollera om inrikesresa är möjlig.** Vissa flygbolag kan godta annan fotolegitimation för inrikesflyg, så fråga ditt flygbolag. Om din slutdestination går att nå inrikes från en närmare stad kan det vara ett alternativ medan du löser passfrågan. Brittiska resenärer bör läsa [vad ett utgånget pass innebär för resor i Storbritannien](https://traveldocumentvault.com/sv/blog/travel-expired-passport-uk/), eftersom reglerna skiljer sig åt beroende på rutt.
 
 **Steg 4: Kontakta passmyndigheten per telefon.** Förklara din situation. I Storbritannien, ring HM Passport Office:s rådgivningslinje och fråga om den tidigaste tillgängliga tiden på närmaste passkontor. I USA, ring US National Passport Information Center och fråga om akuttider på närmaste regionala passmyndighet. Fråga specifikt om akutalternativ, eftersom snabbare tider ofta inte listas på webbplatsen.
 
@@ -60,11 +60,11 @@ GOV.UK säger att du måste förnya innan du kan resa om ditt pass har gått ut 
 
 ### USA: Förnyelse fungerar inom 15 år från utfärdandet
 
-Enligt USA.gov kan du bara förnya ett utgånget pass om det **utfärdades inom de senaste 15 åren**. Du kan heller inte förnya ett som utfärdades före din 16-årsdag, ett som är skadat, borttappat eller stulet, eller ett i ett tidigare namn om du inte har en juridisk handling som styrker namnändringen. Gäller något av detta ansöker du om ett nytt pass personligen med blankett DS-11.
+USA har egna regler för vem som kan förnya ett utgånget pass, bland annat en gräns för hur länge sedan det utfärdades. Kontrollera förnyelsesidan på travel.state.gov, som också anger när du i stället behöver ansöka personligen.
 
 ### Kanada: Ett utgånget pass kan förnyas online
 
-Kanadas regering låter dig förnya om ditt senaste pass var ett vuxenpass som utfärdades när du var minst 16 år. Det måste också ha utfärdats inom 15 år från ansökningsdatumet och vara giltigt i 5 eller 10 år. Namnet, födelsedatumet och födelseorten på det måste matcha det du vill ha på det nya. Du kan förnya online om ditt pass går ut inom de kommande sex månaderna eller redan har gått ut, förutsatt att din hem- och postadress är i Kanada. Barnpass kan inte förnyas, så ett barn behöver en ny ansökan.
+Kanadas regering låter dig förnya om ditt senaste pass var ett vuxenpass som utfärdades när du var minst 16 år. Det måste också ha utfärdats inom 15 år från ansökningsdatumet och vara giltigt i 5 eller 10 år. Du kan förnya online om ditt pass går ut inom de kommande sex månaderna eller redan har gått ut, förutsatt att din hem- och postadress är i Kanada. Barnpass kan inte förnyas, så ett barn behöver en ny ansökan.
 
 Har ditt pass gått ut för flera år sedan, kolla utfärdandedatumet först, eftersom 15-årsgränsen i USA och Kanada räknas från utfärdandet, inte från utgångsdatumet. Kontrollera sedan aktuella handläggningstider innan du bokar, vilket vår guide till [hur lång tid en passförnyelse tar](https://traveldocumentvault.com/sv/blog/how-long-does-passport-renewal-take/) går igenom land för land.
 
@@ -88,7 +88,7 @@ En namnavvikelse mellan pass och boardingkort gör att du nekas. Det drabbar oft
 
 ### 3. Ett osignerat pass
 
-De flesta pass har ett fält för namnteckning. Vissa länder – däribland USA – kräver att passet är signerat för att räknas som giltigt för resa. Ett osignerat pass kan nekas vid gränsen. Det här är vanligast ett problem med pass utfärdade till barn som var för unga för att skriva under, eller med helt nya pass som innehavaren glömde signera innan avresan. En snabb titt på namnteckningsfältet innan du lämnar hemmet fångar det här i tid.
+De flesta pass har ett fält för namnteckning. Ett pass utan namnteckning kan orsaka problem vid gränsen. Det här är vanligast ett problem med pass utfärdade till barn som var för unga för att skriva under, eller med helt nya pass som innehavaren glömde signera innan avresan. En snabb titt på namnteckningsfältet innan du lämnar hemmet fångar det här i tid.
 
 ### 4. Otillräcklig giltighetstid för resmålet
 
@@ -106,7 +106,7 @@ Kontrollera de officiella inresekraven för ditt resmål via ditt lands reseinfo
 
 Grundorsaken är oftast densamma: ingen påminnelse på plats. Ställ in en påminnelse om utgångsdatum minst **12 månader före utgångsdatumet** – inte 6 månader. Det ger dig tid att förnya med standardhandläggning utan att betala för påskyndad service, och utan stressen av en snäv tidsram.
 
-Gör det här för varje pass i ditt hushåll separat. Barns pass går ut snabbare – 5 år i de flesta länder jämfört med 10 för vuxna – och är de som oftast missas. **Plocka fram varje pass i dag och kontrollera utgångsdatumet, inte bara fotosidan.**
+Gör det här för varje pass i ditt hushåll separat. Barns pass går ut snabbare – ofta 5 år jämfört med 10 för vuxna – och är de som oftast missas. **Plocka fram varje pass i dag och kontrollera utgångsdatumet, inte bara fotosidan.**
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 
@@ -122,11 +122,11 @@ Ansök om förnyelse omedelbart och betala för påskyndad handläggning om resa
 
 ### Vad ska jag göra om jag upptäcker att passet har gått ut på flygplatsen?
 
-Du kommer inte att kunna gå ombord. Gå till flygbolagets disk omedelbart för att diskutera ombokning – vissa avstår ombokningsavgiften vid genuina dokumentnödlägen. Ring sedan passmyndigheten och fråga specifikt om akuttider, eftersom snabbare tider ofta inte listas på webbplatsen.
+Du kommer inte att kunna gå ombord. Gå till flygbolagets disk omedelbart för att diskutera ombokning – fråga om de kan boka om dig utan ombokningsavgift. Ring sedan passmyndigheten och fråga specifikt om akuttider, eftersom snabbare tider ofta inte listas på webbplatsen.
 
 ### Hur snabbt kan jag få ett akutpass om mitt har gått ut?
 
-I Storbritannien finns en påskyndad Premium-tjänst på utvalda passkontor för genuina nödsituationer – tid krävs, kontrollera aktuell handläggningstid och bokning på gov.uk. I USA finns akuttider på regionala passmyndigheter för brådskande resor – kontrollera travel.state.gov för aktuella avgifter och tillgänglighet. I Australien, kontrollera passports.gov.au för alternativ för snabb handläggning.
+I Storbritannien finns en påskyndad Premium-tjänst på utvalda passkontor för genuina nödsituationer – tid krävs, kontrollera aktuell handläggningstid och bokning på gov.uk. I USA finns information om alternativ för brådskande resor, aktuella avgifter och tillgänglighet på travel.state.gov. I Australien, kontrollera passports.gov.au för alternativ för snabb handläggning.
 
 ### Hur undviker jag att passet går ut oväntat?
 

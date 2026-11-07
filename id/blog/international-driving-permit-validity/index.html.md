@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/id/blog/international-driving-permit-val
 - Setiap negara meratifikasi konvensi yang berbeda-beda, sehingga **izin yang diterima di satu negara bisa ditolak di negara berikutnya**.
 - Paspor, SIM, dan izin mengemudi internasional berjalan pada **tiga jam yang terpisah** dan hampir tidak pernah sejalan.
 
-Surat Izin Mengemudi Internasional adalah terjemahan dari SIM, bukan SIM tersendiri, dan masa berlakunya berjalan menurut hitungannya sendiri. Sebagian besar berlaku dua belas bulan sejak tanggal terbit, sehingga yang dibuat untuk perjalanan tiga musim panas lalu hampir pasti sudah habis masa berlakunya. Konter penyewaan di sejumlah negara memintanya sebelum menyerahkan mobil.
+Surat Izin Mengemudi Internasional adalah terjemahan dari SIM, bukan SIM tersendiri, dan masa berlakunya berjalan menurut hitungannya sendiri. Banyak yang berlaku dua belas bulan sejak tanggal terbit dan tidak ada yang berlaku lebih dari tiga tahun, sehingga yang dibuat untuk perjalanan tiga musim panas lalu hampir pasti sudah habis masa berlakunya. Konter penyewaan di sejumlah negara memintanya sebelum menyerahkan mobil.
 
 IDP memiliki tanggal kedaluwarsanya sendiri, dan tanggal itu berlaku berbeda tergantung di bawah perjanjian internasional mana izin Anda diterbitkan. Kebanyakan pengemudi baru tahu ada dua jenis izin setelah salah satunya ditolak.
 
@@ -30,7 +30,7 @@ Kesalahpahaman ini lebih sering menjebak orang daripada urusan tanggal kedaluwar
 
 ## Dua Perjanjian Menentukan Berapa Lama Izin Berlaku dan di Mana Izin Itu Diakui
 
-Tiga perjanjian internasional menjadi dasar IDP, dan setiap negara meratifikasi satu atau beberapa di antaranya. Dua di antaranya menangani hampir semua kebutuhan: Konvensi Jenewa 1949 dan Konvensi Wina 1968. Izin dari Konvensi Paris 1926 yang lebih tua masih diterbitkan untuk sejumlah kecil negara tujuan, dan seperti izin Jenewa, masa berlakunya satu tahun.
+Tiga perjanjian internasional menjadi dasar IDP, dan setiap negara meratifikasi satu atau beberapa di antaranya. Dua di antaranya menangani hampir semua kebutuhan: Konvensi Jenewa 1949 dan Konvensi Wina 1968. Izin Konvensi Paris 1926 yang lebih tua juga ada dan masih dicantumkan oleh beberapa negara tujuan. Periksa tanggal kedaluwarsa yang tercetak pada izin.
 
 Izin yang diterbitkan berdasarkan Konvensi Jenewa 1949 berlaku selama satu tahun. Izin yang diterbitkan berdasarkan Konvensi Wina 1968 bisa berlaku hingga tiga tahun.
 
@@ -40,7 +40,7 @@ Perbedaan ini penting dalam dua hal sekaligus. Perbedaan itu menentukan berapa l
 
 | Jenis izin | Berapa lama berlaku | Apa yang membatasinya |
 |---|---|---|
-| **Konvensi Paris 1926** | Satu tahun | Tanggal penerbitan. Jarang dibutuhkan sekarang |
+| **Konvensi Paris 1926** | Lihat tanggal kedaluwarsa yang tercetak | Tanggal penerbitan. Jarang dibutuhkan sekarang |
 | **Konvensi Jenewa 1949** | Satu tahun | Tanggal penerbitan |
 | **Konvensi Wina 1968** | Hingga tiga tahun | SIM nasional Anda, jika kedaluwarsa lebih dulu |
 
@@ -90,9 +90,9 @@ Hal ini paling terasa menyulitkan pada perjalanan yang dipesan mendadak. Izin in
 
 ## Tidak Ada yang Namanya SIM Internasional
 
-Cari Izin Mengemudi Internasional dan Anda akan menemukan situs yang menjual sesuatu bernama international driving licence, sering kali dengan harga jauh lebih mahal daripada biaya izin resmi, kadang menjanjikan pengiriman instan atau masa berlaku sepuluh tahun.
+Cari Izin Mengemudi Internasional dan Anda akan menemukan situs yang menjual sesuatu bernama international driving licence, kadang dengan harga lebih mahal daripada biaya izin resmi, kadang menjanjikan pengiriman instan atau masa berlaku sepuluh tahun.
 
-Dokumen semacam itu tidak ada. Satu-satunya dokumen yang sah adalah izin yang diterbitkan berdasarkan konvensi 1926, 1949, dan 1968, melalui jalur resmi yang ditetapkan negara Anda sendiri. Tiga tahun pada izin Wina adalah masa berlaku terlama dari ketiganya, sehingga apa pun yang mengiklankan 10 atau 20 tahun sebenarnya menggambarkan dokumen yang tidak wajib diterima oleh petugas perbatasan mana pun.
+SIM semacam itu tidak ada. Izin yang diterbitkan berdasarkan konvensi 1926, 1949, dan 1968 melalui jalur yang ditetapkan negara Anda adalah dokumen yang diatur oleh konvensi tersebut. Tiga tahun pada izin Wina adalah masa berlaku terlama yang diizinkan Konvensi 1968, sehingga apa pun yang mengiklankan 10 atau 20 tahun menggambarkan sesuatu di luar ketentuannya.
 
 Jika Anda sedang menyusun daftar persiapan perjalanan yang lebih luas, bukan hanya urusan mengemudi, [daftar periksa dokumen perjalanan internasional](https://traveldocumentvault.com/id/blog/travel-document-checklist/) kami membahas apa saja yang perlu disiapkan sebelum terbang, dan [dokumen perjalanan yang sering dilupakan orang](https://traveldocumentvault.com/id/blog/what-documents-to-carry-when-travelling-internationally/) membahas tempat terbaik menyimpan masing-masing dokumen saat Anda dalam perjalanan.
 
@@ -122,7 +122,7 @@ Bisa, jika izin tersebut adalah izin Wina 1968. Jenis ini dibatasi oleh SIM nasi
 
 ### Mengapa Ada Lebih dari Satu Jenis Izin Mengemudi Internasional?
 
-Karena berasal dari perjanjian internasional yang berbeda-beda. Sebagian besar perjalanan tercakup oleh Konvensi Jenewa 1949 dan Konvensi Wina 1968, dan izin dari Konvensi Paris 1926 yang lebih tua masih diterbitkan untuk sejumlah kecil negara tujuan. Setiap negara meratifikasi konvensi yang berbeda, itulah sebabnya izin yang diterima di satu negara bisa ditolak di negara lain.
+Karena berasal dari perjanjian internasional yang berbeda-beda. Sebagian besar perjalanan tercakup oleh Konvensi Jenewa 1949 dan Konvensi Wina 1968, dan izin Konvensi Paris 1926 yang lebih tua juga ada serta masih dicantumkan oleh beberapa negara tujuan. Setiap negara meratifikasi konvensi yang berbeda, itulah sebabnya izin yang diterima di satu negara bisa ditolak di negara lain.
 
 ## Artikel Terkait
 

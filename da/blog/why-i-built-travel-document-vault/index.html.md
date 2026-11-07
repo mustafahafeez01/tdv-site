@@ -12,7 +12,7 @@ Jeg stod ved paskontrollen, da betjenten kiggede på min datters pas, holdt en p
 
 "Du ved, at det udløber om syv måneder, ikke?" sagde han. "Bare så du er klar over det – nogle lande lukker dig ikke ind, hvis der er mindre end seks måneders gyldighed tilbage."
 
-Jeg takkede ham. Vi slap igennem – med nød og næppe. Men hele turen gik jeg og tænkte: hvis han ikke havde sagt noget, ville jeg aldrig have lagt mærke til det. Syv måneder føltes som rigeligt. Jeg havde tjekket passet inden booking. Jeg havde simpelthen glemt alt om den seks-måneders-regel, som de fleste lande håndhæver.
+Jeg takkede ham. Vi slap igennem – med nød og næppe. Men hele turen gik jeg og tænkte: hvis han ikke havde sagt noget, ville jeg aldrig have lagt mærke til det. Syv måneder føltes som rigeligt. Jeg havde tjekket passet inden booking. Jeg havde simpelthen glemt alt om den seks-måneders-regel, som mange lande håndhæver.
 
 Den næroplevelse blev hængende. Jeg havde allerede sat kalendernotifikationer op for alles pasudløbsdatoer. Jeg troede, det var nok. Men jeg tjekkede faktisk ikke datoerne – jeg stolede bare på påmindelserne. Og når et pas blev fornyet, skulle jeg opdatere påmindelsen, opdatere scanningen i Google Drev og håbe på, at jeg ikke havde glemt noget.
 
@@ -68,11 +68,11 @@ Arbejdstilladelser, hvis du bor i udlandet. Visa og opholdskort, der skal fornye
 
 De har alle udløbsdatoer. De betyder alle noget på præcis det forkerte tidspunkt. Ingen minder dig om det, før det er for sent – eller du allerede står ved ambassaden og indser, at dit visum udløb for en måned siden.
 
-Appen håndterer dem alle. Alt med en udløbsdato – pas, visa, arbejdstilladelser, forsikringer, kørekort, hvad din familie end har brug for – ét sted, sporet, sorteret.
+Appen håndterer dem alle. Pas, visa, id-kort og forsikringer har deres egne dokumenttyper, og alt andet med en udløbsdato, som en arbejdstilladelse eller et kørekort, lægges under Andet – ét sted, sporet, sorteret.
 
 ## Når det går galt i udlandet
 
-Pas mistes og stjæles i udlandet hver dag, og at få udstedt et nyt fra et andet land er en langsommelig proces. Sker det for dig i udlandet, starter du ikke fra bunden.
+Pas bliver mistet og stjålet i udlandet, og at få udstedt et nyt fra et andet land er en langsommelig proces. Sker det for dig i udlandet, starter du ikke fra bunden.
 
 Dokumentnumre, udløbsdatoer, tydelige scanninger – alt klar, når du skal anmelde det eller kontakte en ambassade. Det erstatter ikke dine originaler, men det giver dig det, du har brug for til at komme videre hurtigt. Intet Wi-Fi, ingen panik.
 

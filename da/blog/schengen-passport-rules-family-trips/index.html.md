@@ -13,7 +13,7 @@ Source: https://traveldocumentvault.com/da/blog/schengen-passport-rules-family-t
 - Den rigtige Schengen-regel er **3 måneders gyldighed efter den dato, du forlader** området, plus et pas udstedt inden for de seneste 10 år – det er ikke "6-månedersreglen".
 - **Børns pas udløber efter 5 år**, så en families pas kommer ud af trit med hinanden, og den tidligste udløbsdato afgør turen.
 - Britiske pas udstedt før oktober 2018 **med bonusmåneder** kan dumpe 10-årstesten, selvom hæftet stadig ser gyldigt ud.
-- Flyselskaber tjekker hvert pas mod **IATA's Timatic-database** ved indtjekning – ingen afrunding, ingen undtagelse, og ét underkendt pas sætter hele familien fast.
+- Flyselskaber tjekker generelt pas mod **IATA's Timatic-database** ved indtjekning, og ét underkendt pas kan sætte hele familien fast.
 - **Gennemgå alle pas den dag, du booker**, ikke ugen, du rejser. Fem minutter ved bookingen er hele løsningen.
 
 At booke en familietur til Europa starter som regel på samme måde: du tjekker dit eget pas, ser flere års gyldighed tilbage, og bekræfter bookingen. Fælden kommer uger senere, når nogen endelig åbner skuffen og opdager, at et barns pas – udstedt på et kortere ur end dit eget – udløber tidligere, end nogen troede. Ingen sender forældre et advarselsbrev om det her. Check-in-skranken leverer i stedet nyheden.
@@ -38,24 +38,21 @@ Vores guide til [6-månedersreglen](https://traveldocumentvault.com/da/blog/pass
 
 ## Børnepas kører på et hurtigere ur
 
-Voksenpas gælder typisk i 10 år; børnepas kun i fem. Den asymmetri er, hvor ellers omhyggelige planer går skævt.
+Britiske voksenpas gælder i 10 år, mens Storbritannien kun udsteder børnepas for fem. Den asymmetri er, hvor ellers omhyggelige planer går skævt.
 
 | Land | Børnepas | Gyldighed |
 |---|---|---|
-| USA | Under 16 år | 5 år |
-| Storbritannien | Alle børn | 5 år |
-| Canada | Under 16 år | 5 år |
-| Australien | Alle børn | 5 år |
+| Storbritannien | Under 16 år | 5 år |
 
-Kilder: US Department of State, GOV.UK, Canada.ca, det australske paskontor.
+Kilde: GOV.UK.
 
 En familie på fire opererer derfor med fire forskellige udløbsplaner. Den tidligste dato afgør, om turen overhovedet bliver til noget. To voksne, der fornyer sammen, vil glide fra hinanden i forhold til deres børns dokumenter inden for et par år – hvilket er præcis grunden til, at det at tjekke dit eget pas fortæller dig næsten intet om familiens rejseklarhed.
 
-For amerikanske familier er der en ekstra hage: et barns pas kan ikke fornyes med post. Hver fornyelse kræver en ny personlig ansøgning, og rutinebehandlingen tager i øjeblikket flere uger, plus posttid begge veje – hvilket er til at håndtere i marts, men bliver et reelt problem to uger før afrejse. Britiske familier har det lidt lettere: tjek bare aktuelle sagsbehandlingstider før booking, og regn med ekstra tid, hvis der er brug for mere information.
+For amerikanske familier er der en ekstra hage: en børnefornyelse kan kræve en personlig ansøgning og tage flere uger, så tjek din pasmyndigheds aktuelle regler og sagsbehandlingstider, før du booker. Det er til at håndtere i marts, men bliver et reelt problem to uger før afrejse. Britiske familier har det lidt lettere: tjek bare aktuelle sagsbehandlingstider før booking, og regn med ekstra tid, hvis der er brug for mere information.
 
 ## Virkeligheden ved check-in: Timatic runder ikke op
 
-Uanset hvad grænsen måtte tolerere, møder du reglerne tidligere end det – ved check-in. Flyselskaber validerer hvert pas mod IATA's Timatic-database, som anvender hver destinations indrejsekrav præcist. Hvis din returdato kræver gyldighed til den 20. november, og et pas udløber den 15. november, siger systemet nej. Der findes ikke noget "tæt nok på" og ingen undtagelse – flyselskaber, der lukker en passager med et ugyldigt pas om bord, skal flyve dem hjem for egen regning.
+Uanset hvad grænsen måtte tolerere, møder du reglerne tidligere end det – ved check-in. Flyselskaber tjekker generelt pas mod IATA's Timatic-database, som oplister hver destinations indrejsekrav. Hvis din returdato kræver gyldighed til den 20. november, og et pas udløber den 15. november, siger systemet nej. Regn med at blive afvist ved check-in.
 
 Ét underkendt pas strander sjældent kun én person; det sætter hele familien fast. Få forældre sender tre familiemedlemmer videre og efterlader én ved skranken, så i praksis bliver hele bookingen ombooket eller tabt.
 
@@ -77,11 +74,11 @@ Det er separate regler for forskellige destinationer. Lande som Thailand og Indo
 
 ### Følger børn andre Schengen-pasregler?
 
-Nej. Børn skal have samme 3 måneders gyldighed efter afrejse og samme betingelse om udstedelse inden for 10 år som voksne. Det, der er anderledes, er selve passet: de fleste lande udsteder børnepas med en gyldighed på 5 år i stedet for 10, så et barns dokument når de grænser meget hurtigere end en forælders.
+Nej. Børn skal have samme 3 måneders gyldighed efter afrejse og samme betingelse om udstedelse inden for 10 år som voksne. Det, der er anderledes, er selve passet: mange lande, herunder Storbritannien, udsteder børnepas med en gyldighed på 5 år i stedet for 10, så et barns dokument når de grænser meget hurtigere end en forælders.
 
 ### Hvornår skal vi forny et barns pas før en tur?
 
-Så snart du booker, tjek om passet stadig vil have 3 måneders gyldighed efter din hjemrejsedato. Hvis ikke, så begynd med det samme. Tjek aktuelle britiske sagsbehandlingstider, og regn med ekstra tid, hvis ansøgningen kræver mere information. Amerikansk rutinebehandling tager flere uger plus posttid. Et amerikansk barns pas kræver også en ny personlig ansøgning frem for en fornyelse.
+Så snart du booker, tjek om passet stadig vil have 3 måneders gyldighed efter din hjemrejsedato. Hvis ikke, så begynd med det samme. Tjek aktuelle britiske sagsbehandlingstider, og regn med ekstra tid, hvis ansøgningen kræver mere information. Tjek din pasmyndigheds aktuelle sagsbehandlingstider.
 
 ### Kan vi flyve, mens et barns pasfornyelse er i gang?
 
@@ -89,7 +86,7 @@ Nej. Du skal have det fysiske pas i hånden for at gå om bord på en internatio
 
 ### Hvad sker der ved check-in, hvis ét pas ikke er nok?
 
-Flyselskaber tjekker hvert pas mod IATA's Timatic-database, som anvender destinationens regler præcist, uden afrunding og uden undtagelse. Hvis ét familiemedlem fejler tjekket, kan den person ikke komme om bord – hvilket i praksis som regel betyder ombooking eller aflysning af hele turen.
+Flyselskaber tjekker generelt pas mod IATA's Timatic-database, som oplister hver destinations indrejsekrav. Hvis ét familiemedlem fejler tjekket, kan den person ikke komme om bord – hvilket familier i praksis som regel løser ved at ombooke frem for at splitte op.
 
 ## Relaterede artikler
 

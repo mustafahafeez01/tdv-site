@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/id/blog/travel-document-checklist/
 ## Poin Penting
 
 - Daftar periksa dokumen perjalanan yang paling berguna disusun berdasarkan **kapan Anda perlu bertindak**, bukan berdasarkan jenis dokumen. Menyortir berdasarkan tahap berarti Anda menangkap masalah selagi masih ada waktu untuk memperbaikinya.
-- Paspor perlu diperiksa saat pemesanan, bukan malam sebelumnya. Paspor yang kedaluwarsa dalam tujuh bulan bisa membuat Anda ditolak di gerbang untuk destinasi populer.
+- Paspor perlu diperiksa saat pemesanan, bukan malam sebelumnya. Paspor dengan sisa masa berlaku kurang dari enam bulan bisa membuat Anda ditolak untuk beberapa destinasi, jadi periksa angka pastinya untuk destinasi Anda saat pemesanan.
 - Perjalanan keluarga menambah satu lapisan tersendiri: dokumen setiap anak perlu diperiksa satu per satu, dan surat izin orang tua mungkin diperlukan jika salah satu orang tua tidak ikut bepergian.
 - Pelancong bisnis sering membawa beberapa paspor dan visa kerja, ini perlu dilacak tersendiri, terpisah dari dokumen pribadi.
 - Cadangan digital setiap dokumen (terenkripsi, bukan di galeri foto Anda) bisa membantu Anda pulang lebih cepat jika terjadi masalah di luar negeri.
@@ -26,7 +26,7 @@ Kesalahan terbesar yang dilakukan pelancong adalah memperlakukan momen pemesanan
 
 **Periksa paspor Anda sebelum membayar**
 
-Sebelum mengonfirmasi pemesanan apa pun, periksa paspor setiap pelancong berdasarkan tiga kriteria: masa berlaku (apakah memenuhi persyaratan destinasi, banyak negara mensyaratkan masa berlaku enam bulan setelah tanggal keberangkatan Anda, bukan hanya tanggal kedatangan, seperti dijelaskan dalam [panduan kami tentang aturan paspor 6 bulan](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/)), kecocokan nama (nama di paspor harus persis sama dengan nama pemesanan), dan halaman kosong (beberapa negara mensyaratkan minimal dua halaman visa kosong untuk stempel kedatangan).
+Sebelum mengonfirmasi pemesanan apa pun, periksa paspor setiap pelancong berdasarkan tiga kriteria: masa berlaku (apakah memenuhi persyaratan destinasi, banyak negara menginginkan sisa masa berlaku enam bulan pada hari kedatangan Anda, dan sebagian menghitung dari tanggal keberangkatan, jadi periksa destinasi Anda, seperti dijelaskan dalam [panduan kami tentang aturan paspor 6 bulan](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/)), kecocokan nama (nama di paspor harus persis sama dengan nama pemesanan), dan halaman kosong (beberapa negara mensyaratkan minimal dua halaman visa kosong untuk stempel kedatangan).
 
 **Periksa persyaratan visa Anda**
 
@@ -40,13 +40,13 @@ Pesan asuransi perjalanan saat Anda memesan penerbangan, bukan seminggu sebelum 
 
 ## Tiga Bulan Sebelumnya: Jika Perpanjangan atau Visa Sudah Dekat, Mulai Sekarang
 
-Pada titik ini Anda masih punya waktu untuk memperbaiki keadaan. Waktu pemrosesan berubah-ubah, dan setiap otoritas mempublikasikan angka terkininya sendiri: Departemen Luar Negeri AS, HM Passport Office, dan Kantor Paspor Australia. Selalu periksa situs resmi untuk waktu terkini sebelum mengajukan permohonan.
+Pada titik ini Anda masih punya waktu untuk memperbaiki keadaan. Waktu pemrosesan berubah-ubah, dan otoritas paspor negara Anda mempublikasikan angka terkininya sendiri. Selalu periksa situs resmi untuk waktu terkini sebelum mengajukan permohonan.
 
-Paspor mana pun yang kedaluwarsa dalam 12 bulan: mulai proses perpanjangan sekarang. Paspor anak kedaluwarsa lebih cepat, 5 tahun di sebagian besar negara dibandingkan 10 tahun untuk dewasa, dan orang tua sering melewatkan jendela waktu ini. Bagi pemohon di Selandia Baru, periksa New Zealand Passport Office untuk waktu pemrosesan terkini, permintaan melonjak menjelang musim panas.
+Kami akan memperpanjang paspor mana pun yang kedaluwarsa dalam 12 bulan sekarang. Paspor anak kedaluwarsa lebih cepat (paspor anak Inggris berlaku 5 tahun, dibandingkan 10 tahun untuk dewasa, dan beberapa negara lain sama), dan orang tua sering melewatkan jendela waktu ini. Bagi pemohon di Selandia Baru, periksa New Zealand Passport Office untuk waktu pemrosesan terkini.
 
 Ajukan permohonan visa apa pun yang memerlukan waktu tunggu, dan periksa ke otoritas penerbit berapa lama waktu yang dibutuhkan saat ini. Siapkan dokumen pendukung: rekening koran, konfirmasi akomodasi, bukti perjalanan lanjutan. Pesan janji temu biometrik lebih awal jika visa mensyaratkannya.
 
-Untuk keluarga: jika seorang anak bepergian hanya dengan satu orang tua atau orang dewasa lain, siapkan surat izin perjalanan anak sekarang. Sertakan nama lengkap dan tanggal lahir anak, informasi kontak kedua orang tua, tanggal perjalanan, destinasi, dan tanda tangan orang tua yang tidak ikut. Salinan yang dilegalisasi notaris lebih meyakinkan di imigrasi dan sepadan dengan langkah tambahan itu.
+Untuk keluarga: jika seorang anak bepergian hanya dengan satu orang tua atau orang dewasa lain, siapkan surat izin perjalanan anak sekarang. Sertakan nama lengkap dan tanggal lahir anak, informasi kontak kedua orang tua, tanggal perjalanan, destinasi, dan tanda tangan orang tua yang tidak ikut. Beberapa destinasi juga meminta surat itu dilegalisasi notaris, jadi periksa aturan masuknya.
 
 ## Satu Bulan Sebelumnya: Konfirmasi dan Kumpulkan
 
@@ -105,8 +105,8 @@ Perjalanan yang berbeda memerlukan kumpulan dokumen yang berbeda pula, seperti y
 | Visa (jika diperlukan) | | setiap anggota | perusahaan | Bisnis: konfirmasi visa terpasang di paspor yang benar |
 | Asuransi perjalanan | | semua tercakup | periksa apakah perusahaan menanggung Anda | Konfirmasi cakupan sebelum setiap perjalanan, bukan hanya saat membeli |
 | Konfirmasi pemesanan | | | | Salinan luring (jangan mengandalkan akses email di perbatasan) |
-| Surat izin anak | Tidak berlaku | jika berlaku | Tidak berlaku | Diperlukan di banyak negara jika satu orang tua tidak ikut |
-| Akta kelahiran | Tidak berlaku | jika diperlukan | Tidak berlaku | Beberapa negara mensyaratkan ini untuk anak di bawah 18 tahun |
+| Surat izin anak | Tidak berlaku | jika berlaku | Tidak berlaku | Diminta di beberapa negara jika satu orang tua tidak ikut |
+| Akta kelahiran | Tidak berlaku | jika diperlukan | Tidak berlaku | Beberapa negara memintanya untuk anak di bawah 18 tahun |
 | Surat izin kerja | Tidak berlaku | Tidak berlaku | jika diperlukan | Beberapa destinasi mensyaratkan surat dari perusahaan untuk pelancong bisnis |
 
 Jika perjalanan sudah dipesan, satu hal yang layak dilakukan hari ini adalah mengeluarkan setiap paspor yang terlibat dan memeriksa tanggal kedaluwarsanya terhadap persyaratan negara tujuan, bukan hanya terhadap tanggal perjalanan Anda.
@@ -129,7 +129,7 @@ Ya. Masa berlaku paspor, persyaratan visa, dan cakupan asuransi setiap orang din
 
 ### Apa itu surat izin perjalanan anak dan apakah saya memerlukannya?
 
-Surat izin perjalanan anak adalah dokumen yang ditandatangani oleh orang tua yang tidak ikut bepergian, memberikan izin bagi anak untuk bepergian. Negara-negara termasuk Kanada, Afrika Selatan, Meksiko, dan banyak lainnya secara rutin memintanya ketika seorang anak bepergian hanya dengan satu orang tua. Tanpa surat ini Anda berisiko mengalami penundaan atau penolakan masuk. Surat tersebut sebaiknya mencantumkan detail anak, informasi kontak kedua orang tua, tanggal perjalanan, destinasi, dan tanda tangan orang tua yang tidak ikut.
+Surat izin perjalanan anak adalah dokumen yang ditandatangani oleh orang tua yang tidak ikut bepergian, memberikan izin bagi anak untuk bepergian. Beberapa negara, termasuk Afrika Selatan, menetapkan persyaratan tambahan untuk anak yang bepergian dengan satu orang tua, dan otoritas Kanada menganjurkan surat izin yang ditandatangani. Tanpa surat ini Anda mungkin menghadapi pertanyaan tambahan atau penundaan. Surat tersebut sebaiknya mencantumkan detail anak, informasi kontak kedua orang tua, tanggal perjalanan, destinasi, dan tanda tangan orang tua yang tidak ikut.
 
 ### Dokumen apa yang harus saya simpan agar mudah diakses di bandara dan tidak di bagasi tercatat?
 

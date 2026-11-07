@@ -26,9 +26,9 @@ Le chiffrement brouille un fichier de sorte que seule une clé correspondante pu
 
 Deux systèmes se vendent tous deux comme « sauvegarde chiffrée », et pourtant ils se comportent très différemment.
 
-Le premier envoie le fichier vers le serveur de l'entreprise via une connexion chiffrée, puis le stocke chiffré au repos. Ces deux affirmations sont vraies, et toutes deux paraissent rassurantes. Mais l'entreprise détient toujours la clé, donc elle peut déchiffrer vos documents chaque fois qu'elle en a besoin : pour faire fonctionner une fonctionnalité, pour répondre à une demande légale, ou parce que quelqu'un en interne a fait une erreur. Votre scan de passeport est lisible à l'autre bout.
+Le premier envoie le fichier vers le serveur de l'entreprise via une connexion chiffrée, puis le stocke chiffré au repos. Ces deux affirmations sont vraies, et toutes deux paraissent rassurantes. Mais l'entreprise détient toujours la clé, elle a donc techniquement la possibilité de déchiffrer vos documents, que ce soit pour une fonctionnalité, une demande légale ou à la suite d'une erreur interne. Votre scan de passeport est lisible à l'autre bout.
 
-Le second système brouille le fichier sur votre téléphone avant qu'il n'aille où que ce soit, à l'aide d'une clé dérivée de quelque chose que vous seul possédez. Ce qui arrive dans le stockage est un bloc de bruit, et personne à l'autre bout ne peut le lire, parce que personne à l'autre bout ne détient la clé. On appelle généralement cela le chiffrement de bout en bout, ou « zero-knowledge ».
+Le second système brouille le fichier sur votre téléphone avant qu'il n'aille où que ce soit, à l'aide d'une clé dérivée de quelque chose que vous seul possédez. Ce qui arrive dans le stockage est un bloc de bruit, et personne à l'autre bout ne peut le lire, parce que personne à l'autre bout ne détient la clé. On décrit souvent cela comme le chiffrement de bout en bout, ou « zero-knowledge ».
 
 La question à poser à n'importe quelle application tient donc en peu de mots : **qui détient la clé ?** Tout le reste du discours marketing en découle.
 
@@ -55,7 +55,7 @@ Traitez donc ce code comme la seule chose à ne pas rater :
 
 Cela dépend entièrement de ce qui arrive dans le cloud, et c'est une question qui concerne l'application plutôt que le cloud lui-même.
 
-Une photo de votre passeport dans une bibliothèque de photos ordinaire ou un dossier synchronisé arrive lisible. Elle réside dans un compte protégé par un mot de passe que vous avez peut-être réutilisé. Elle est indexée et vignettée, et quiconque accède à ce compte voit une copie nette de la page d'identité. Nous avons détaillé à quoi ressemble concrètement cette exposition dans [stocker un passeport dans Google Photos](https://traveldocumentvault.com/fr/blog/is-it-safe-to-store-passport-in-google-photos/). C'est un risque réel, et c'est la configuration que la plupart des familles utilisent sans jamais l'avoir vraiment choisie.
+Une photo de votre passeport dans une bibliothèque de photos ordinaire ou un dossier synchronisé arrive lisible. Elle réside dans un compte protégé par un mot de passe que vous avez peut-être réutilisé. Selon le service, elle peut être indexée ou affichée sous forme de vignette, et quiconque accède à ce compte voit une copie nette de la page d'identité. Nous avons détaillé à quoi ressemble concrètement cette exposition dans [stocker un passeport dans Google Photos](https://traveldocumentvault.com/fr/blog/is-it-safe-to-store-passport-in-google-photos/). C'est un risque réel, et c'est la configuration que la plupart des familles utilisent sans jamais l'avoir vraiment choisie.
 
 Un coffre chiffré sur l'appareil avant l'envoi arrive sous forme de texte chiffré. Quiconque s'introduit dans le compte cloud trouve un fichier qu'il ne peut pas ouvrir. La protection voyage avec le fichier, plutôt que de dépendre du compte où il atterrit.
 
@@ -82,7 +82,7 @@ Le temps de restauration dépend de la taille de votre coffre et de votre connex
 
 Installez l'application sur le nouveau téléphone et connectez-vous au même compte iCloud ou Google que celui utilisé auparavant. Avec Pro et la sauvegarde cloud désactivée sur l’appareil de destination, ouvrez Réglages, Sauvegarde cloud, puis Restaurer à partir de la sauvegarde. Choisissez le coffre existant, saisissez votre code de récupération et confirmez la restauration, qui remplace le contenu local du coffre. Les profils, documents et dates d’expiration sont restaurés ; les notifications sont recréées sur l’appareil de destination.
 
-L'application vérifie aussi avant d'écrire quoi que ce soit. Si la sauvegarde cloud détecte une sauvegarde existante dans ce compte, elle vous demande de choisir entre restaurer ou repartir de zéro. Un nouveau téléphone ne peut pas écraser discrètement ce qui existe déjà.
+L'application vérifie aussi avant d'écrire quoi que ce soit. Si la sauvegarde cloud trouve une sauvegarde existante créée avec le même code de récupération, l'application vous demande de choisir entre la fusionner et repartir de zéro. Un nouveau téléphone ne peut donc pas écraser discrètement ce qui existe déjà. Repartir de zéro laisse l'autre sauvegarde en place.
 
 ### Passer d'iPhone à Android (ou l'inverse) passe par l’export du coffre
 

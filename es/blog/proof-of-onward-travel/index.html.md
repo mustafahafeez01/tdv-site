@@ -50,19 +50,19 @@ Los controles tampoco cubren lo mismo. Que la aerolínea acepte tu billete de co
 
 ## Si viajas con un billete solo de ida a propósito
 
-Un billete solo de ida no es un problema en sí mismo. Las normas de viaje de continuación suelen estar pensadas para visitantes. Si te mudas al extranjero con un visado que te permite vivir o trabajar allí, ese visado en la mayoría de los casos cumple la función que cumpliría un billete de continuación. Tenlo a mano en el check-in, junto con cualquier carta que lo acompañara.
+Un billete solo de ida no es un problema en sí mismo. Las normas de viaje de continuación suelen estar pensadas para visitantes. Si te mudas al extranjero con un visado que te permite vivir o trabajar allí, ese visado puede resolver la cuestión, así que comprueba las normas de tu destino. Tenlo a mano en el check-in, junto con cualquier carta que lo acompañara.
 
 Si vas de visita con un plan sin fecha fija, las opciones más honestas son las más sencillas. Reserva el viaje de continuación que realmente piensas hacer. Si tus fechas no están fijadas, una tarifa que te permita cambiar la fecha mantiene un plan real flexible sin convertirlo en ficción.
 
-Lo que nosotros evitaríamos es un billete que nunca piensas usar, comprado solo para mostrarlo en el mostrador. Presentarlo a un funcionario de fronteras como tu plan puede equivaler a falsear tus intenciones, lo que es un problema mucho mayor que no tener una reserva.
+Lo que nosotros evitaríamos es un billete que nunca piensas usar, comprado solo para mostrarlo en el mostrador. Presentarlo a un funcionario de fronteras como tu plan podría interpretarse como una declaración falsa sobre tus intenciones, lo que es un problema mucho mayor que no tener una reserva.
 
 ## Si te la piden y no puedes mostrarla
 
 Si un agente te la pide y no tienes nada que mostrar, recuerda que trabaja según las normas de entrada del destino. La respuesta más útil suele ser darle algo que esas normas reconozcan.
 
-En la práctica, eso suele significar reservar el viaje de continuación en ese momento, desde el móvil o en el mostrador de la aerolínea. Puede costar más si lo haces con tan poca antelación, y esa es la principal razón para resolverlo la noche anterior. Si una agencia de viajes reservó tu viaje de continuación, su confirmación por escrito puede servir donde el destino la acepte.
+En la práctica, eso suele significar reservar el viaje de continuación en ese momento, desde el móvil o en el mostrador de la aerolínea. Puede costar más si lo haces con tan poca antelación, y esa es la principal razón para resolverlo la noche anterior. Si una agencia de viajes reservó tu viaje de continuación, consulta la orientación oficial del destino para saber si acepta su confirmación.
 
-La decisión en el mostrador la toma la aerolínea. Si no puedes resolverlo allí, tendrás que reservar de nuevo en cuanto tengas lo que pide el destino.
+La decisión en el mostrador suele tomarla la aerolínea. Si no puedes resolverlo allí, tendrás que reservar de nuevo en cuanto tengas lo que pide el destino.
 
 ## Cómo tener la reserva a mano cuando la necesitas
 
@@ -74,7 +74,7 @@ Guarda una copia sin conexión de la confirmación: un PDF, una captura de panta
 
 ### ¿Qué prueba de viaje de continuación acepta realmente una aerolínea?
 
-Lo más habitual es un billete confirmado para salir de tu destino, ya sea de vuelta a casa o hacia un tercer país al que puedas entrar. Algunos destinos también aceptan otras pruebas, como la confirmación por escrito de una agencia de viajes de que el viaje de continuación está reservado y pagado. La aerolínea aplica las normas del destino, así que compruébalas para tu viaje.
+Lo más habitual es un billete confirmado para salir de tu destino, ya sea de vuelta a casa o hacia un tercer país al que puedas entrar. Algunos destinos también aceptan otras pruebas, así que consulta la orientación oficial de tu destino. La aerolínea aplica las normas del destino, así que compruébalas para tu viaje.
 
 ### ¿Puedo usar una reserva de hotel como prueba de viaje de continuación?
 
@@ -82,11 +82,11 @@ Una reserva de hotel normalmente no sirve por sí sola. Muestra dónde te vas a 
 
 ### ¿Qué pasa si no tengo prueba de viaje de continuación?
 
-Si te la piden en el check-in y no tienes nada que mostrar, la solución habitual es reservar el viaje de continuación en ese momento. Eso puede costar más con tan poca antelación. La decisión de dejarte embarcar la toma la aerolínea, así que conviene resolverlo antes de llegar al aeropuerto.
+Si te la piden en el check-in y no tienes nada que mostrar, la solución habitual es reservar el viaje de continuación en ese momento. Eso puede costar más con tan poca antelación. La decisión de dejarte embarcar suele tomarla la aerolínea, así que conviene resolverlo antes de llegar al aeropuerto.
 
 ### ¿Es un problema un billete solo de ida?
 
-Un billete solo de ida no es un problema en sí mismo, porque las normas de viaje de continuación suelen estar dirigidas a los visitantes. Si te mudas con un visado que te permite vivir o trabajar en el país, ese visado normalmente resuelve la cuestión. Si vas de visita, un viaje de continuación reservado que realmente piensas hacer es la respuesta más sencilla.
+Un billete solo de ida no es un problema en sí mismo, porque las normas de viaje de continuación suelen estar dirigidas a los visitantes. Si te mudas con un visado que te permite vivir o trabajar en el país, ese visado puede resolver la cuestión, así que comprueba las normas de tu destino. Si vas de visita, un viaje de continuación reservado que realmente piensas hacer es la respuesta más sencilla.
 
 ### ¿Necesito prueba de viaje de continuación para la frontera?
 

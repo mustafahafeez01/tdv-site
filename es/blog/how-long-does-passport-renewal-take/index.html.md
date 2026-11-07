@@ -34,7 +34,7 @@ El Departamento de Estado de EE.UU. publica sus tiempos de procesamiento actuale
 
 Las citas urgentes están disponibles para viajes documentados e inminentes. Reserva en travel.state.gov y lleva prueba de viaje —no te verán sin ella.
 
-EE.UU. ofrece un programa de renovación en línea para adultos elegibles. Para calificar, debes estar renovando un libro de pasaporte estadounidense que fue emitido cuando tenías 16 años o más. Verifica travel.state.gov para ver si eres elegible y si el programa está aceptando actualmente solicitudes.
+EE.UU. ofrece un programa de renovación en línea para adultos elegibles. Verifica travel.state.gov para ver si eres elegible y si el programa está aceptando actualmente solicitudes.
 
 **Una salvedad importante: los tiempos publicados son promedios, no garantías.** Consulta travel.state.gov para la cifra actual antes de aplicar, porque durante la temporada alta el procesamiento rutinario regularmente se extiende bien más allá de las estimaciones publicadas. Si tu viaje está cerca, la tarifa adicional por procesamiento acelerado suele compensarse de sobra con la certeza y la tranquilidad de planificación que ofrece.
 
@@ -54,13 +54,13 @@ HM Passport Office publica su propio tiempo de procesamiento actual en GOV.UK, y
 
 ![Diagrama de una solicitud que avanza hacia un pasaporte terminado pasando seis posibles retrasos: cambio de nombre, primer pasaporte de adulto, solicitud infantil, perdido o dañado, comprobaciones extra o entrevista, y solicitar desde el extranjero](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/passport-renewal-timeline-es.jpg) Seis situaciones sacan una solicitud del carril rápido. Una renovación sencilla las evita todas.
 
-El Reino Unido ofrece un servicio de renovación digital para adultos elegibles solicitando desde **dentro del Reino Unido**. Si calificas, no necesitas enviar tu pasaporte anterior, aunque sigues necesitando una foto que cumpla los requisitos oficiales. La solicitud se completa en línea. **Si eres ciudadano británico viviendo en el extranjero** (un expatriado), el servicio digital no está disponible para ti. Debes usar el servicio de pasaporte de ultramar en GOV.UK, que sí requiere enviar tu pasaporte actual. Para casos urgentes, HM Passport Office ofrece un servicio 1 Week Fast Track y, solo para renovaciones de adultos, un servicio 1 Day Premium con la cita más próxima 2 días después de solicitarlo. Consulta GOV.UK para el servicio correcto y la cifra actual para tu situación, que pregunta tu ubicación al inicio de la solicitud.
+El Reino Unido ofrece un servicio de renovación digital para adultos elegibles solicitando desde **dentro del Reino Unido**. Si calificas, no necesitas enviar tu pasaporte anterior, aunque sigues necesitando una foto que cumpla los requisitos oficiales. La solicitud se completa en línea. **Si eres ciudadano británico viviendo en el extranjero** (un expatriado), el servicio digital no está disponible para ti. Debes usar el servicio de pasaporte de ultramar en GOV.UK. Para casos urgentes, HM Passport Office ofrece un servicio 1 Week Fast Track y, solo para renovaciones de adultos, un servicio 1 Day Premium con la cita más próxima 2 días después de solicitarlo. Consulta GOV.UK para el servicio correcto y la cifra actual para tu situación, que pregunta tu ubicación al inicio de la solicitud.
 
 Un cambio de nombre, un primer pasaporte de adulto, o cualquier solicitud que requiera verificaciones extra tomará más tiempo. Los pasaportes de niños no pueden usar el servicio digital en absoluto —pasan únicamente por el proceso estándar. Antes de solicitar, consulta GOV.UK para la cifra actual relevante para tu situación.
 
 ## ¿Cuánto tiempo tarda la renovación de pasaporte en Australia?
 
-La Oficina de Pasaportes Australiana es la única fuente fiable de tiempos actuales, porque se mueven con el volumen de solicitudes y la época del año. El seguimiento rápido y el procesamiento prioritario están disponibles para quienes necesitan ir más rápido que la cola estándar, ambos reservables por una tarifa adicional.
+La Oficina de Pasaportes Australiana es la única fuente fiable de tiempos actuales, porque se mueven con el volumen de solicitudes y la época del año. Australia puede ofrecer opciones más rápidas por una tarifa; consulta passports.gov.au para saber cuáles están disponibles.
 
 Los tiempos de procesamiento estándar de Australia son generalmente mejores que los de EE.UU. y el Reino Unido, pero pueden estirarse durante los periodos de mayor demanda. Solicita tan pronto como razonablemente puedas antes de tu viaje, y consulta passports.gov.au para el tiempo actual antes de presentar la solicitud.
 
@@ -68,7 +68,7 @@ Las solicitudes de pasaporte infantil son una historia diferente. Son más compl
 
 ## ¿Cuánto tiempo tarda la renovación de pasaporte en Canadá?
 
-Immigration, Refugees and Citizenship Canada (IRCC) tramita las renovaciones de pasaporte. Canadá ofrece renovación en línea a adultos elegibles que no vayan a viajar en los próximos 20 días laborables; el resto solicita por correo a través de Service Canada o en persona en una oficina de Passport Canada. Para viajes urgentes existen opciones de cita urgente y express en persona por una tarifa adicional.
+Immigration, Refugees and Citizenship Canada (IRCC) tramita las renovaciones de pasaporte. Canadá ofrece renovación en línea si necesitas el pasaporte dentro de 20 días laborables o más; el resto debe presentar la solicitud en papel. Para viajes urgentes, consulta las opciones disponibles con la autoridad de pasaportes.
 
 Eso hace el proceso más exigente logísticamente, especialmente si vives en algún lugar rural y la oficina de pasaportes más cercana está lejos. Consulta la página de IRCC para los tiempos de procesamiento actuales antes de solicitar, y suma el tiempo de envío en ambas direcciones si aplicas por correo.
 
@@ -83,24 +83,24 @@ Sin importar qué país estés renovando a través de, los mismos errores consis
 
 ## ¿Puedes viajar mientras tu pasaporte está siendo renovado?
 
-La respuesta sorprende a la mayoría de personas. En la mayoría de países, puedes viajar mientras tu renovación está pendiente —usarás tu pasaporte anterior (todavía válido) junto con documentación oficial de la autoridad de pasaportes confirmando que tu aplicación está en progreso.
+A veces puedes viajar mientras la renovación está pendiente, siempre que tu pasaporte actual siga siendo válido y no lo hayas entregado con la solicitud. Algunas autoridades lo piden al solicitar la renovación, así que comprueba las normas de la tuya antes de reservar; una vez enviado, tendrás que esperar.
 
 Las reglas varían según el país:
 
-- **Estados Unidos:** Puedes viajar con un pasaporte válido mientras tu aplicación de renovación está pendiente. Si presentaste tu pasaporte con la aplicación de renovación (requerido en algunos casos), no puedes viajar hasta que lo recibas. Pregunta sobre la opción "acelerar debido a viaje" si tienes viaje inminente.
-- **Reino Unido:** Puedes viajar usando tu pasaporte anterior mientras uno nuevo está en progreso —siempre que el anterior sea válido. Una vez lo envíes a HMPO, no puedes usarlo. No envíes tu pasaporte mientras viaje es inminente.
-- **Australia:** Principio similar —tu pasaporte actual permanece válido y usable mientras la renovación se procesa, a menos que hayas físicamente lo presentado.
-- **Canadá:** Puedes viajar en un pasaporte válido mientras una aplicación de renovación está pendiente, siempre que no hayas renunciado a tu pasaporte actual como parte del proceso.
-- **Nueva Zelanda:** Las aplicaciones pueden hacerse sin renunciar tu pasaporte actual en la mayoría de casos —consulta la orientación del Department of Internal Affairs para tu situación específica.
-- **Irlanda:** Los servicios de renovación de Passport Online y An Post no requieren que renuncies tu pasaporte actual hasta que el nuevo esté listo. Consulta la orientación actual del Passport Service antes de aplicar.
+- **Estados Unidos:** Consulta las normas de tu autoridad de pasaportes antes de reservar: si exige entregar el pasaporte actual con la solicitud, no podrás usarlo para viajar mientras se tramita la renovación.
+- **Reino Unido:** Consulta las normas de tu autoridad de pasaportes antes de reservar: si exige entregar el pasaporte actual con la solicitud, no podrás usarlo para viajar mientras se tramita la renovación.
+- **Australia:** Consulta las normas de tu autoridad de pasaportes antes de reservar: si exige entregar el pasaporte actual con la solicitud, no podrás usarlo para viajar mientras se tramita la renovación.
+- **Canadá:** Consulta las normas de tu autoridad de pasaportes antes de reservar: si exige entregar el pasaporte actual con la solicitud, no podrás usarlo para viajar mientras se tramita la renovación.
+- **Nueva Zelanda:** Consulta las normas de tu autoridad de pasaportes antes de reservar: si exige entregar el pasaporte actual con la solicitud, no podrás usarlo para viajar mientras se tramita la renovación.
+- **Irlanda:** Consulta las normas de tu autoridad de pasaportes antes de reservar: si exige entregar el pasaporte actual con la solicitud, no podrás usarlo para viajar mientras se tramita la renovación.
 
-**La excepción crítica:** Si tu país de destino requiere visa de entrada única, usar el pasaporte anterior para viaje puede invalidar la visa asociada con él. Siempre verifica implicaciones de visa antes de viajar en un pasaporte anterior mientras uno nuevo está en proceso.
+**Tenlo en cuenta:** Una visa está vinculada al pasaporte en el que figura. Comprueba las normas de tu destino antes de viajar con el pasaporte actual mientras se tramita uno nuevo.
 
 ## Si tu viaje es inminente, muévete en todos los frentes a la vez
 
 Tienes viaje reservado en las próximas pocas semanas y tu pasaporte está a punto de vencer. No entres en pánico —pero sí muévete rápido:
 
-1. **Llama a tu autoridad de pasaportes —no solo navegues el sitio web.** Los cuatro países tienen provisiones de citas urgentes y de emergencia. Una llamada telefónica te lleva a una persona real que puede decirte exactamente qué está disponible.
+1. **Llama a tu autoridad de pasaportes —no solo navegues el sitio web.** La mayoría de las autoridades ofrecen vías urgentes con requisitos de elegibilidad —las del Reino Unido no están disponibles si solicitas desde el extranjero—. Una llamada telefónica te lleva a una persona real que puede decirte exactamente qué está disponible.
 2. **Junta tus documentos antes de que llames.** Necesitarás prueba de viaje inminente (confirmaciones de reserva mostrando fechas), tu pasaporte actual, fotos, y formularios completados. Ten todo listo —las citas urgentes se mueven rápidamente.
 3. **Verifica tu póliza de seguro de viaje.** Algunas pólizas cubren costos extras de renovación de pasaporte urgente. La mayoría excluye situaciones donde la renovación era previsible —pero vale la pena mirar antes de gastar el dinero.
 4. **Pregunta sobre reprogramar tu viaje.** Aerolíneas y hoteles varían, pero muchos waivearán tarifas de cambio para emergencias de pasaporte documentadas. No está garantizado, pero no cuesta nada preguntar.
@@ -119,23 +119,23 @@ No podemos darte aquí una cifra fija, porque los tiempos de procesamiento del D
 
 ### ¿Cuánto tiempo tarda la renovación de pasaporte en el Reino Unido?
 
-HM Passport Office publica su propio tiempo de procesamiento actual, y cambia con la frecuencia suficiente como para que citar una cifra aquí probablemente esté equivocada cuando la leas. Los adultos elegibles que solicitan desde dentro del Reino Unido pueden usar el servicio de renovación digital, que evita enviar el pasaporte pero sigue necesitando una foto que cumpla los requisitos oficiales. Si solicitas desde fuera del Reino Unido, usarás en su lugar el servicio de ultramar, que sí requiere enviar tu pasaporte actual. Para casos urgentes, HM Passport Office ofrece un servicio 1 Week Fast Track y, solo para renovaciones de adultos, un servicio 1 Day Premium con la cita más próxima 2 días después de solicitarlo. Consulta GOV.UK para la cifra que aplica a tu situación.
+HM Passport Office publica su propio tiempo de procesamiento actual, y cambia con la frecuencia suficiente como para que citar una cifra aquí probablemente esté equivocada cuando la leas. Los adultos elegibles que solicitan desde dentro del Reino Unido pueden usar el servicio de renovación digital, que evita enviar el pasaporte pero sigue necesitando una foto que cumpla los requisitos oficiales. Si solicitas desde fuera del Reino Unido, usarás en su lugar el servicio de ultramar. Para casos urgentes, HM Passport Office ofrece un servicio 1 Week Fast Track y, solo para renovaciones de adultos, un servicio 1 Day Premium con la cita más próxima 2 días después de solicitarlo. Consulta GOV.UK para la cifra que aplica a tu situación.
 
 ### ¿Cuánto tiempo tarda la renovación de pasaporte en Australia?
 
-La Oficina de Pasaportes Australiana es la única fuente fiable de tiempos actuales, porque se mueven con el volumen de solicitudes y la época del año. El seguimiento rápido y el procesamiento prioritario están disponibles para quienes necesitan ir más rápido que la cola estándar, ambos reservables por una tarifa. Solicita tan pronto como razonablemente puedas, sea cual sea la vía que uses —los periodos de mayor demanda alargan la cola estándar más de lo que suele reflejar la orientación publicada. Consulta passports.gov.au antes de solicitar.
+La Oficina de Pasaportes Australiana es la única fuente fiable de tiempos actuales, porque se mueven con el volumen de solicitudes y la época del año. Australia puede ofrecer opciones más rápidas por una tarifa; consulta passports.gov.au para saber cuáles están disponibles. Solicita tan pronto como razonablemente puedas, sea cual sea la vía que uses —los periodos de mayor demanda alargan la cola estándar más de lo que suele reflejar la orientación publicada. Consulta passports.gov.au antes de solicitar.
 
 ### ¿Puedo renovar mi pasaporte en línea?
 
-EE.UU. ofrece un programa de renovación en línea para adultos elegibles que obtuvieron su pasaporte a los 16 años o más —consulta travel.state.gov para elegibilidad actual. El Reino Unido ofrece una opción de renovación digital para adultos elegibles solicitando desde dentro del Reino Unido —los solicitantes en el extranjero deben usar un servicio separado. Australia requiere presentación en persona o por correo para la mayoría de renovaciones. Canadá ofrece renovación en línea a adultos elegibles que no vayan a viajar en los próximos 20 días laborables; el resto solicita por correo o en persona. Siempre consulta el sitio web oficial de tu país para reglas de elegibilidad actuales.
+EE.UU. ofrece renovación en línea a adultos elegibles —consulta travel.state.gov para conocer los requisitos actuales—. El Reino Unido ofrece un servicio digital para adultos elegibles que solicitan desde el propio país; quienes solicitan desde el extranjero deben usar un servicio separado. Canadá ofrece renovación en línea si necesitas el pasaporte dentro de 20 días laborables o más; el resto debe presentar la solicitud en papel. Para Australia, consulta passports.gov.au para saber cómo solicitarlo. Las normas de elegibilidad cambian, así que consulta el sitio oficial de tu país antes de dar por hecho que cumples los requisitos.
 
 ### ¿Qué debo hacer si mi pasaporte está venciendo y tengo viaje reservado?
 
-Solicita en cuanto sepas que hay un problema, y paga por la vía más rápida que ofrezca tu autoridad. Si tu viaje está lo bastante cerca como para preocuparte de que el plazo estándar no llegue a tiempo, llama directamente a tu autoridad de pasaportes en lugar de fiarte del sitio web —todos los países cubiertos aquí tienen opciones de cita de emergencia, pero normalmente hay que pedirlas por teléfono. No esperes a ver si el proceso estándar se pone al día por sí solo.
+Solicita en cuanto sepas que hay un problema, y paga por la vía más rápida que ofrezca tu autoridad. Si tu viaje está lo bastante cerca como para preocuparte de que el plazo estándar no llegue a tiempo, llama directamente a tu autoridad de pasaportes en lugar de fiarte del sitio web —la mayoría de las autoridades ofrecen citas urgentes sujetas a requisitos de elegibilidad —las del Reino Unido no están disponibles desde el extranjero—, y normalmente hay que pedirlas por teléfono. No esperes a ver si el proceso estándar se pone al día por sí solo.
 
 ### ¿Puedo viajar mientras mi renovación de pasaporte está pendiente?
 
-En la mayoría de casos, sí —siempre que tu pasaporte actual sea válido y no lo hayas físicamente presentado como parte del proceso de renovación. EE.UU., Reino Unido, Australia, Canadá, Nueva Zelanda e Irlanda todos permiten viaje en un pasaporte válido actual mientras una solicitud de renovación está pendiente. La excepción es si has renunciado tu pasaporte al proceso, en cuyo caso necesitarás esperar. Siempre verifica con tu autoridad de pasaportes específica y considera cualquier implicación de visa antes de viajar.
+A veces, siempre que tu pasaporte actual siga siendo válido y no lo hayas entregado como parte de la renovación. Algunas autoridades piden que lo envíes con la solicitud, así que consulta las normas de la tuya antes de reservar. Una vez entregado, tendrás que esperar al nuevo. Comprueba siempre los requisitos de tu autoridad de pasaportes y las posibles implicaciones para tus visados antes de viajar con el pasaporte actual.
 
 ## Artículos relacionados
 

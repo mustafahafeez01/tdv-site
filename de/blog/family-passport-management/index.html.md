@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/de/blog/family-passport-management/
 
 ## Wichtigste Erkenntnisse
 
-- **Kinderreisepässe verfallen zweimal so schnell wie Erwachsenenpässe.** Kinderausweise sind nur 5 Jahre gültig, daher bestimmt das Ablaufdatum des jüngsten Familienmitglieds oft die Deadline für Ihre nächste Reise.
+- **Kinderreisepässe laufen oft früher ab als Erwachsenenpässe.** Im Vereinigten Königreich ist ein Kinderreisepass 5 Jahre gültig, daher bestimmt das Ablaufdatum des jüngsten Familienmitglieds oft die Deadline für Ihre nächste Reise.
 - Tragen Sie nie alle Familienpässe gemeinsam auf Reisen. **Jede Person trägt seinen/ihren eigenen**, und hinterlassen Sie Kopien bei einer vertrauenswürdigen Kontaktperson zu Hause.
 - **Speichern Sie digitale Kopien an einem verschlüsselten Ort**, mit einer physischen Sicherung an einem sicheren Ort, auf den Sie schnell zugreifen können, wenn nötig.
 - Erstellen Sie ein gemeinsames System zum Verfolgen von Ablaufdaten für jedes Familienmitglied. **Eine Person, die sich darum kümmert, verhindert verpasste Erneuerungen.**
@@ -24,9 +24,9 @@ Das Problem fängt klein an. Sie haben Ihren Pass, Ihr Ehepartner hat seinen/ihr
 
 Meist bleibt es an einer Person hängen, oft an derjenigen, die ohnehin die übrigen Reisevorbereitungen verwaltet, und dieser einzelne Ausfallpunkt wird zum Risiko.
 
-Kinderreisepässe verfallen außerdem viel schneller als Erwachsenenpässe. In den Vereinigten Staaten haben Gesundheitspässe für Kinder unter 16 Jahren eine Gültigkeit von 5 Jahren, während Erwachsenenpässe 10 Jahre gültig sind. Das gleiche gilt im Vereinigten Königreich – Kinderausweis verfallen nach 5 Jahren, nicht 10. Dies bedeutet, dass der Pass Ihres jüngsten Kindes oft zum limitierenden Faktor für Familienreisen wird. Sie könnten einen Elternteil mit noch 8 Jahren Gültigkeit haben, aber wenn der Pass Ihres Jüngsten in 18 Monaten abläuft, das ist Ihr Planungshorizont.
+Kinderreisepässe laufen oft früher ab als Erwachsenenpässe. Im Vereinigten Königreich ist ein Kinderreisepass 5 Jahre gültig, und viele andere Länder stellen Kinderreisepässe mit kürzerer Gültigkeit als Erwachsenenpässe aus. Dies bedeutet, dass der Pass Ihres jüngsten Kindes oft zum limitierenden Faktor für Familienreisen wird. Sie könnten einen Elternteil mit noch 8 Jahren Gültigkeit haben, aber wenn der Pass Ihres Jüngsten in 18 Monaten abläuft, das ist Ihr Planungshorizont.
 
-Die meisten Familien bemerken dies erst, wenn sie bereits eine Reise gebucht haben. Ein Elternteil findet die Pässe eine Woche vor der Abreise, scannt sie hastig beim Packen ein, und entdeckt, dass der Ausweis eines Kindes die 6-Monats-Gültigkeitsregel für sein Ziel nicht erfüllt. Die Reise ist nun gefährdet, oder benötigt eine eilige und teure Passerneuerung.
+Die meisten Familien bemerken dies erst, wenn sie bereits eine Reise gebucht haben. Ein Elternteil findet die Pässe eine Woche vor der Abreise, scannt sie hastig beim Packen ein, und entdeckt, dass der Ausweis eines Kindes die Gültigkeitsregel seines Ziellands nicht erfüllt – oft sind sechs Monate vorgeschrieben. Die Reise ist nun gefährdet, oder benötigt eine eilige und teure Passerneuerung.
 
 ## Die Grundlage: Ein sicherer Ort für alle Familienpässe
 
@@ -34,7 +34,7 @@ Der erste Schritt ist die Zentralisierung, wo Familienpässe leben. Das bedeutet
 
 Verschlüsselte Speicherung ist wichtig, da Pässe Ihren vollständigen Namen, Geburtsdatum und Passnummer enthalten – genug Informationen für Identitätsdiebstahl. Allgemeine Fotospeicher-Apps wie Google Photos oder iCloud behandeln Ihre Dokumente wie Schnappschüsse statt sensibler Identitätsdaten. Ein passwortgeschützter PDF-Ordner auf Ihrem Gerät oder eine speziell für Reisedokumente entwickelte App bietet die Verschlüsselungsebene, die Sie benötigen.
 
-![Diagramm eines Familien-Passsystems: vier Reisepässe (Papa, Mama, Kind 1, Kind 2) fließen in einen verschlüsselten Tresor, aus dem Ablauferinnerungen, Offline-Zugriff und verschlüsseltes Backup hervorgehen, mit dem Hinweis, dass Kinderreisepässe nach 5 Jahren ablaufen, nicht 10](https://traveldocumentvault.com/blog/family-passport-management/family-system-figure-de.jpg) Ein Familiensystem: jeder Reisepass an einem Ort, mit automatischer Verfolgung jedes Ablaufdatums
+![Diagramm eines Familien-Passsystems: vier Reisepässe (Papa, Mama, Kind 1, Kind 2) fließen in einen verschlüsselten Tresor, aus dem Ablauferinnerungen, Offline-Zugriff und verschlüsseltes Backup hervorgehen, mit dem Hinweis, dass Kinderreisepässe oft früher ablaufen als Erwachsenenpässe](https://traveldocumentvault.com/blog/family-passport-management/family-system-figure-de.jpg) Ein Familiensystem: jeder Reisepass an einem Ort, mit automatischer Verfolgung jedes Ablaufdatums
 
 **Nur digitale Kopien.** Scannen Sie die Foto-ID-Seite des Passes jedes Familienmitglieds. Ein klares Bild der Seite, auf dem das Foto, der Name, das Geburtsdatum, die Passnummer und das Ablaufdatum sichtbar sind, reicht aus. Dies sollte 30 Sekunden pro Person dauern.
 
@@ -59,7 +59,7 @@ Digitale Speicherung ist praktisch, aber Geräte können ausfallen und Apps kön
 
 Die meisten Familien tun dies, indem sie Originale in einem Heimtresor oder sicheren Schrank aufbewahren, digitale Kopien in ihrer verschlüsselten App, und eine gedruckte Sicherung jeder ID-Seite an einem separaten Ort – im Haus eines vertrauenswürdigen Familienmitglieds, in einem Schließfach oder in einem feuerfesten Tresor in einem anderen Zimmer.
 
-Wenn Sie im Ausland gestrandet sind und einen verlorenen oder gestohlenen Pass ersetzen müssen, ist diese Sicherungskopie das, was eine Botschaft oder ein Konsulat braucht, um einen Notfallaustausch zu beschleunigen. Eine physische Kopie, die sicher zu Hause aufbewahrt wird, kann zu Ihnen geschickt werden, während Sie reisen, wenn nötig, und gibt Ihnen einen Ausweg, wenn Ihre Geräte ausfallen.
+Wenn Sie im Ausland gestrandet sind und einen verlorenen oder gestohlenen Pass ersetzen müssen, kann eine Kopie Ihres Reisepasses der Botschaft oder dem Konsulat beim Antrag auf einen Notfallersatz helfen. Eine physische Kopie, die sicher zu Hause aufbewahrt wird, kann zu Ihnen geschickt werden, während Sie reisen, wenn nötig, und gibt Ihnen einen Ausweg, wenn Ihre Geräte ausfallen.
 
 Bei internationalen Reisen tragen Sie nie alle Familienpässe gemeinsam in derselben Tasche. Jede Person trägt seinen/ihren eigenen Pass. Wenn Ihre Handgepäcktasche am Flughafen gestohlen wird, haben Sie nicht fünf Jahre Planung verloren. Nur der Pass eines Familienmitglieds ist unmittelbar gefährdet, und Sie haben digitale Kopien, um den Status aller anderen nachzuweisen.
 
@@ -67,7 +67,7 @@ Bei internationalen Reisen tragen Sie nie alle Familienpässe gemeinsam in derse
 
 Für Familien, in denen ein oder beide Elternteile doppelte Nationalität haben, wird das System etwas komplexer, aber wichtiger, sorgfältig zu verwalten.
 
-Sie könnten mit einem britischen Pass zu einigen Zielen reisen und mit einem irischen Pass zu anderen. Ihr Kind könnte drei Nationalitäten haben und mit welchem Pass auch immer reisen, der für das Ziel am besten passt. Airlines priorisieren Ihren Pass nach Nationalität beim Check-in oft, und einige Konsulate verlangen tatsächlich, dass Sie mit einem bestimmten Pass einreisen – das bedeutet, dass die "beste" Option für Ihre Reise davon abhängt, wohin Sie gehen und wie Sie dorthin gelangen.
+Sie könnten mit einem britischen Pass zu einigen Zielen reisen und mit einem irischen Pass zu anderen. Ihr Kind könnte drei Nationalitäten haben und mit welchem Pass auch immer reisen, der für das Ziel am besten passt. Manche Länder erwarten, dass ihre eigenen Staatsangehörigen – auch bei doppelter Staatsangehörigkeit – mit dem Pass dieses Landes einreisen. Prüfen Sie deshalb die offiziellen Hinweise jedes Ziellands. Das bedeutet, dass die "beste" Option für Ihre Reise davon abhängt, wohin Sie gehen und wie Sie dorthin gelangen.
 
 Die Lösung ist unkompliziert: Bewahren Sie Kopien aller Pässe in Ihrem System auf, und markieren Sie, welche Nationalität jeder darstellt. Wenn Sie eine Reise planen, überprüfen Sie die Optionen jedes Familienmitglieds und entscheiden Sie, welcher Pass für das spezifische Ziel am besten funktioniert. Dokumentieren Sie Ihre Entscheidung irgendwo Erreichbarem – ein Vermerk in Ihrer Reiseroute oder ein Notizfeld in Ihrer Pass-App – damit Sie, falls etwas schiefgeht, erinnern, welches Dokument Sie verwendet haben.
 
@@ -98,7 +98,7 @@ Verwenden Sie eine dedizierte App, die Ablaufdaten für mehrere Personen mit aut
 
 ### Verfallen Kinderreisepässe mit der gleichen Geschwindigkeit wie Erwachsenenpässe?
 
-Nein. Kinderreisepässe sind in den meisten Ländern, einschließlich der Vereinigten Staaten und des Vereinigten Königreichs, 5 Jahre gültig, während Erwachsenenpässe 10 Jahre gültig sind. Überprüfen Sie vor Reisebuchungen immer individuell das Ablaufdatum jedes Familienmitglieds – der jüngste Kinderpass wird oft zur Planungsdeadline.
+Oft nicht. Kinderreisepässe sind in der Regel kürzer gültig als Erwachsenenpässe – ein britischer Kinderreisepass zum Beispiel 5 Jahre. Prüfen Sie deshalb vor der Buchung jedes Ablaufdatum. Überprüfen Sie vor Reisebuchungen immer individuell das Ablaufdatum jedes Familienmitglieds – der jüngste Kinderpass wird oft zur Planungsdeadline.
 
 ### Soll ich alle Pässe meiner Familie auf Reisen mitnehmen?
 
@@ -106,7 +106,7 @@ Nein. Jedes Familienmitglied trägt seinen/ihren eigenen Pass nur. Wenn Ihre Han
 
 ### Was passiert, wenn der Pass eines Familienmitglieds vor einer geplanten Reise abläuft?
 
-Sie müssen den Pass dieser Person vor der Reise erneuern. Wenn Sie innerhalb von 12 Monaten vor Ablauf sind, wenn Sie eine Reise buchen, starten Sie den Erneuerungsprozess sofort. Passerneuerungszeiten sind unvorhersehbar und können sich erstrecken, besonders während hektischer Reisesaisons, nehmen Sie also nicht an, dass es Zeit gibt, später zu erneuern.
+Sie müssen den Pass dieser Person vor der Reise erneuern. Wenn Sie innerhalb von 12 Monaten vor Ablauf sind, wenn Sie eine Reise buchen, starten Sie den Erneuerungsprozess sofort. Die Bearbeitungszeiten können variieren, besonders in der Hauptreisezeit, nehmen Sie also nicht an, dass es Zeit gibt, später zu erneuern.
 
 ## Verwandte Artikel
 

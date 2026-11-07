@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/de/blog/uk-brp-expired-evisa-deadline/
 - Jedes Kind braucht **sein eigenes Konto**, das ein Elternteil mit eigener Telefonnummer und E-Mail-Adresse führen kann.
 - Zum Reisen muss der Pass, mit dem Sie fliegen, in Ihrem UKVI-Konto stehen, mit Angaben, die zu Ihrer Buchung passen.
 
-Die meisten Menschen mit einem abgelaufenen Biometric Residence Permit (BRP, biometrischer Aufenthaltstitel) müssen nur eines tun: ein UKVI-Konto (UK Visas and Immigration) einrichten und dabei die Karte zum Nachweis ihrer Identität nutzen. Das ist in einem Durchgang erledigt, und die abgelaufene Karte funktioniert dafür noch, zumindest für eine Weile. Ihr Aufenthaltsstatus hat sich nicht geändert. Was sich geändert hat, ist, wo er abgelegt ist.
+Wenn Sie ein abgelaufenes Biometric Residence Permit (BRP, biometrischer Aufenthaltstitel) besitzen und weiterhin aufenthaltsberechtigt sind, bittet GOV.UK Sie, ein UKVI-Konto (UK Visas and Immigration) einzurichten und dabei die Karte zum Nachweis Ihrer Identität zu nutzen. Das ist in einem Durchgang erledigt, und die abgelaufene Karte funktioniert dafür noch, zumindest für eine Weile. Ihr Aufenthaltsstatus hat sich nicht geändert. Was sich geändert hat, ist, wo er abgelegt ist.
 
 ![Diagramm dazu, wie lange ein abgelaufener BRP noch funktioniert: 24 Monate nach dem aufgedruckten Ablaufdatum oder bis zum 31. Dezember 2026, je nachdem, was früher eintritt. In dieser Zeit kann er noch genutzt werden, um sich anzumelden und einen Freigabecode zu erhalten, ein UKVI-Konto einzurichten oder eine Verlängerung der Aufenthaltserlaubnis zu beantragen](https://traveldocumentvault.com/blog/uk-brp-expired-evisa-deadline/brp-window-de.jpg) Zwei Termine, und der frühere zählt für Sie.
 
@@ -58,7 +58,7 @@ Wenn Ihr Kind 18 wird, sollten die Kontodaten auf sein eigenes Telefon und seine
 
 ## Zum Reisen muss der Pass, mit dem Sie fliegen, in Ihrem UKVI-Konto stehen
 
-GOV.UK ist hier unmissverständlich: Sie müssen mit einem gültigen Reisepass oder Reisedokument reisen, das Sie zu Ihrem UKVI-Konto hinzugefügt haben. Ihr eVisa wird geprüft, wenn Sie das Vereinigte Königreich verlassen, wenn Sie zurückkommen (auch an eGates), und von der Fluggesellschaft oder einem anderen Beförderer beim Check-in. Diese Prüfungen rufen Ihr eVisa über den Pass in Ihrem Konto ab. Stimmen die Angaben in Ihrem Konto nicht exakt mit den Passagierdaten überein, die Sie dem Beförderer gegeben haben, lässt dieser Sie möglicherweise nicht reisen, und Sie könnten auch an der Grenze des Vereinigten Königreichs aufgehalten werden.
+GOV.UK ist hier unmissverständlich: Sie müssen mit einem gültigen Reisepass oder Reisedokument reisen, das Sie zu Ihrem UKVI-Konto hinzugefügt haben. Ihr eVisa wird geprüft, wenn Sie das Vereinigte Königreich verlassen und einreisen, durch einen Grenzbeamten oder an den eGates, und beim Check-in bei Ihrem Beförderer für die Rückkehr ins Vereinigte Königreich. Diese Prüfungen rufen Ihr eVisa über den Pass in Ihrem Konto ab. Stimmen die Angaben in Ihrem Konto nicht exakt mit den Passagierdaten überein, die Sie dem Beförderer gegeben haben, lässt dieser Sie möglicherweise nicht reisen, und Sie könnten auch an der Grenze des Vereinigten Königreichs aufgehalten werden.
 
 Melden Sie sich vor einer Reise an, bestätigen Sie, dass der Pass im Konto der ist, mit dem Sie reisen werden, und holen Sie sich einen Freigabecode. Ein Code gilt 90 Tage und kann mehrfach genutzt werden, und eine Fluggesellschaft oder ein Grenzbeamter kann danach fragen. Wir würden ihn vor der Buchung holen, nicht in der Schlange am Flughafen.
 
@@ -88,7 +88,7 @@ Jedes Kind braucht laut GOV.UK sein eigenes UKVI-Konto, um an sein eVisa zu komm
 
 ### Was brauche ich, um mit einem eVisa zu reisen?
 
-Einen gültigen Reisepass, den Sie zu Ihrem UKVI-Konto hinzugefügt haben, mit Angaben, die genau mit denen übereinstimmen, die Sie der Fluggesellschaft geben. Ihr eVisa wird geprüft, wenn Sie das Vereinigte Königreich verlassen, wenn Sie zurückkehren, auch an eGates, und beim Check-in des Beförderers. Ein Freigabecode gilt 90 Tage und kann mehrfach genutzt werden.
+Einen gültigen Reisepass, den Sie zu Ihrem UKVI-Konto hinzugefügt haben, mit Angaben, die genau mit denen übereinstimmen, die Sie der Fluggesellschaft geben. Ihr eVisa wird geprüft, wenn Sie das Vereinigte Königreich verlassen und einreisen, durch einen Grenzbeamten oder an den eGates, und beim Check-in bei Ihrem Beförderer für die Rückkehr ins Vereinigte Königreich. Ein Freigabecode gilt 90 Tage und kann mehrfach genutzt werden.
 
 ## Verwandte Artikel
 

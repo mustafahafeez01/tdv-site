@@ -36,7 +36,7 @@ Se há uma coisa a reter desta página, é essa assimetria: a data de emissão d
 
 Muita gente procura o que significa «date of expedition» num formulário ou passaporte em inglês, e a resposta é tranquilizadoramente simples: significa data de emissão.
 
-A expressão vem do espanhol e do português. *Fecha de expedición* e *data de expedição* traduzem-se ambas, literalmente, para inglês como «expedition date», e os formulários traduzidos arrastam essa formulação sem que ninguém a corrija. O mesmo campo aparece como *date de délivrance* em francês, *data di rilascio* em italiano, *Ausstellungsdatum* em alemão, *datum van afgifte* em neerlandês e *utfärdandedatum* em sueco.
+A expressão vem do espanhol e do português. *Fecha de expedición* e *data de expedição* traduzem-se ambas, literalmente, para inglês como «expedition date», e os formulários traduzidos arrastam essa formulação sem que ninguém a corrija.
 
 Todas significam a mesma coisa, e nenhuma delas significa validade. Se um formulário pedir uma «expedition date», quer a mais antiga das suas duas datas.
 
@@ -60,7 +60,7 @@ A data de emissão deixa de ser um pormenor sem importância no momento em que u
 
 Os passaportes britânicos emitidos mais recentemente já não têm esses meses extra, mas os passaportes mais antigos que os têm continuam em circulação e continuam a ser usados.
 
-Os países do Espaço Schengen aplicam dois testes distintos a um passaporte não pertencente à UE, na fronteira: tem de ter sido emitido há menos de dez anos a contar da data de chegada, e tem de continuar válido durante pelo menos três meses depois da data prevista de partida. Um passaporte com nove meses extra pode passar facilmente no segundo teste e falhar no primeiro, o que é uma conversa difícil de ter junto a um balcão em Madrid com um documento que ainda não expirou.
+Os países do Espaço Schengen geralmente aplicam dois testes distintos a um passaporte não pertencente à UE, na fronteira: tem de ter sido emitido há menos de dez anos a contar da data de chegada, e tem de continuar válido durante pelo menos três meses depois da data prevista de partida. Um passaporte com nove meses extra pode passar facilmente no segundo teste e falhar no primeiro, o que é uma conversa difícil de ter junto a um balcão em Madrid com um documento que ainda não expirou.
 
 Nós verificaríamos as duas datas antes de uma viagem à Europa, não apenas a que está no fundo da página.
 
@@ -68,11 +68,11 @@ Nós verificaríamos as duas datas antes de uma viagem à Europa, não apenas a 
 
 Perto do topo da página de dados está um código de três letras para o país emissor. Mais abaixo, geralmente no seu próprio campo, está a autoridade emissora: o organismo ou departamento que efetivamente produziu o passaporte.
 
-O país importa mais do que se costuma pensar. É ele que decide a que rede consular recorre se o passaporte se perder ou for roubado.
+O país importa mais do que se costuma pensar. Geralmente, é ele que determina a que rede consular recorre se o passaporte se perder ou for roubado.
 
 Raramente é o país onde se encontra nesse momento.
 
-O país também decide que regras de entrada se aplicam a si, que é a razão pela qual quem tem dupla nacionalidade pensa cuidadosamente sobre qual dos passaportes apresenta. Se quiser a versão prática disso, percorremos o tema em [o que fazer quando um passaporte desaparece no estrangeiro](https://traveldocumentvault.com/pt/blog/lost-passport-abroad/).
+O país também determina, geralmente, que regras de entrada se aplicam a si, que é a razão pela qual quem tem dupla nacionalidade pensa cuidadosamente sobre qual dos passaportes apresenta. Se quiser a versão prática disso, percorremos o tema em [o que fazer quando um passaporte desaparece no estrangeiro](https://traveldocumentvault.com/pt/blog/lost-passport-abroad/).
 
 O campo da autoridade é sobretudo útil para formulários. Algumas candidaturas pedem-no exatamente como está escrito, outras aceitam o país, e copiá-lo tal e qual é mais rápido do que adivinhar.
 
@@ -88,7 +88,7 @@ Nada disto é dramático por si só. Torna-se dramático quando um cartão de em
 
 A página de dados é a página rígida e laminada que tem a sua fotografia, e a sua disposição é normalizada internacionalmente, e não inventada por cada país. É por isso que um passaporte de qualquer parte do mundo é legível para um agente de fronteira em qualquer parte do mundo, e por isso que, depois de saber ler um, sabe ler todos.
 
-As duas linhas de carateres e setas na parte inferior são a zona de leitura ótica. Repete parte da informação da página acima num formato que um scanner consegue captar de uma só vez, mas não toda: a data de validade está lá, a data de emissão não. Um dano nessa zona é levado muito mais a sério do que um risco na capa. Explicamos onde essa linha fica em [viajar com um passaporte danificado](https://traveldocumentvault.com/pt/blog/damaged-passport-travel/).
+As duas linhas de carateres e setas na parte inferior são a zona de leitura ótica. Repete parte da informação da página acima num formato que um scanner consegue captar de uma só vez, mas não toda: a data de validade está lá. Verifique no seu próprio passaporte quais os dados que a zona repete. Um dano nessa zona é levado muito mais a sério do que um risco na capa. Explicamos onde essa linha fica em [viajar com um passaporte danificado](https://traveldocumentvault.com/pt/blog/damaged-passport-travel/).
 
 Se os campos da sua própria página de dados não estiverem em português, a disposição continua a ajudar: as duas datas estão impressas juntas, no mesmo formato, e a data de validade é a mais tardia das duas.
 
@@ -108,11 +108,11 @@ Não. A data de emissão é quando o passaporte foi produzido, e a data de valid
 
 ### O que significa "país emissor" num passaporte?
 
-O país emissor é o Estado que emitiu o passaporte, indicado como um código de três letras perto do topo da página de dados. É ele que decide a que embaixada ou consulado pode recorrer se o passaporte se perder no estrangeiro, e que regras de entrada se aplicam quando o apresenta.
+O país emissor é o Estado que emitiu o passaporte, indicado como um código de três letras perto do topo da página de dados. Geralmente, é ele que determina a que embaixada ou consulado pode recorrer se o passaporte se perder no estrangeiro, e que regras de entrada costumam aplicar-se quando o apresenta.
 
 ### O número do meu passaporte muda quando renovo?
 
-Sim. Cada novo passaporte tem um número novo. Tudo o que estava registado com o número antigo fica associado ao número antigo, incluindo vistos já emitidos, perfis de companhias aéreas e reservas feitas antes da renovação, por isso geralmente precisam de ser atualizados em separado.
+Geralmente, sim. Um novo passaporte costuma ter um número novo. Tudo o que estava registado com o número antigo fica associado ao número antigo, incluindo vistos já emitidos, perfis de companhias aéreas e reservas feitas antes da renovação, por isso geralmente precisam de ser atualizados em separado.
 
 ### Como sei quando o meu passaporte expira?
 

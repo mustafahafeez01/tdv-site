@@ -57,7 +57,7 @@ A regulamentação permite a emissão de um passaporte quando apenas um dos pais
 
 Um passaporte emitido antes dos 16 anos continua a não poder ser renovado aos 16 ou 17 anos. O adolescente pede um novo passaporte em pessoa, e a diferença agora é que pode executar, ou seja, assinar, o próprio pedido.
 
-Um progenitor continua a ter um papel a desempenhar. Pode dar uma **declaração assinada a dizer que tem conhecimento** de que o adolescente está a pedir um passaporte, ou acompanhá-lo à marcação. A regulamentação também permite que o funcionário de passaportes peça, em qualquer momento, o consentimento com reconhecimento notarial de um progenitor, por isso vale a pena ter um progenitor contactável nesse dia.
+Um progenitor continua a ter um papel a desempenhar. O Departamento de Estado geralmente pede a um progenitor que assine uma **declaração a dizer que tem conhecimento** de que o adolescente está a pedir o passaporte, ou que o acompanhe à marcação, por isso confirme na página do Departamento de Estado para adolescentes o requisito atual antes de ir. A regulamentação também permite que o funcionário de passaportes peça, em qualquer momento, o consentimento com reconhecimento notarial de um progenitor, por isso vale a pena ter um progenitor contactável nesse dia.
 
 O passaporte emitido aos 16 ou 17 anos é válido por dez anos. Quando expira, o jovem, já adulto, pode geralmente renová-lo por correio ou online, desde que cumpra as condições habituais de um adulto. Os pedidos em pessoa terminam aí.
 
@@ -85,7 +85,7 @@ A regulamentação federal de passaportes exige que ambos os pais ou tutores exe
 
 ### O que acontece quando uma criança faz 16 anos?
 
-Um passaporte emitido antes dos 16 anos continua a não poder ser renovado quando a criança faz 16 ou 17 anos. O jovem pede em pessoa um novo passaporte e pode assinar o próprio pedido. Um progenitor pode fornecer uma declaração assinada a dizer que tem conhecimento do pedido, ou pode acompanhá-lo à marcação. O funcionário pode ainda exigir uma declaração de consentimento parental com reconhecimento notarial. Um passaporte emitido aos 16 ou 17 anos é válido por dez anos e pode geralmente ser renovado como o de um adulto quando expirar.
+Um passaporte emitido antes dos 16 anos continua a não poder ser renovado quando a criança faz 16 ou 17 anos. O jovem pede em pessoa um novo passaporte e pode assinar o próprio pedido. Pode ser pedido a um progenitor que forneça uma declaração assinada a dizer que tem conhecimento do pedido, ou que acompanhe o jovem à marcação. O funcionário pode ainda exigir uma declaração de consentimento parental com reconhecimento notarial. Um passaporte emitido aos 16 ou 17 anos é válido por dez anos e pode geralmente ser renovado como o de um adulto quando expirar.
 
 ### E se um dos pais tiver custódia legal exclusiva?
 

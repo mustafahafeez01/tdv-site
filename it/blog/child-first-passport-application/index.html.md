@@ -10,11 +10,11 @@ Source: https://traveldocumentvault.com/it/blog/child-first-passport-application
 
 ## Punti Chiave
 
-- **Il consenso per fare domanda è diverso dal consenso per viaggiare.** Tuo figlio ha bisogno del permesso scritto di tutti i genitori o tutori prima che la domanda possa essere presentata.
+- **Il consenso per fare domanda è diverso dal consenso per viaggiare.** Le regole variano da paese a paese: nel Regno Unito, ad esempio, firma una persona con responsabilità genitoriale e si indicano i dati di entrambi i genitori; altri paesi chiedono il consenso di entrambi. Verifica con il tuo ufficio passaporti.
 - **La maggior parte delle domande richiede tre tipi di prove:** prova di identità del bambino (certificato di nascita), prova di identità dei genitori, e prova del legame di parentela.
 - **Le foto passaporto dei neonati hanno regole specifiche.** La maggior parte delle autorità chiede occhi aperti e rivolti verso la fotocamera (GOV.UK fa eccezione per i bambini sotto un anno e sotto i 6 anni), senza ciucci, giocattoli o mani di altre persone visibili — e lo sfondo dietro la testa del bambino deve essere semplice e senza ostacoli.
-- **Controlla tutto appena arriva.** Ortografia, nomi dei genitori dove compaiono, data di scadenza — soprattutto perché i passaporti dei bambini scadono prima di quelli degli adulti.
-- **Un genitore non può firmare da solo, a meno che non ci sia un provvedimento del tribunale, l'affido esclusivo, o il decesso dell'altro genitore.** Se questa è la tua situazione, il tuo ufficio passaporti ha una procedura specifica da seguire.
+- **Controlla tutto appena arriva.** Ortografia, nomi dei genitori dove compaiono, data di scadenza — soprattutto perché i passaporti dei bambini scadono spesso prima di quelli degli adulti (quello britannico è valido per 5 anni).
+- **Nei paesi che chiedono il consenso di entrambi i genitori, un genitore generalmente non può firmare da solo, a meno che non ci sia un provvedimento del tribunale, l'affido esclusivo, o il decesso dell'altro genitore.** Se questa è la tua situazione, il tuo ufficio passaporti ha una procedura specifica da seguire.
 
 Il primo passaporto di tuo figlio è qualcosa che si fa una sola volta — il che significa che puoi imparare le regole prima di farlo, invece di scoprirle allo sportello. La domanda in sé è semplice, ma le regole sul consenso e i requisiti della foto variano da paese a paese, e un piccolo errore all'inizio significa una domanda respinta e un viaggio rimandato.
 
@@ -28,7 +28,7 @@ Questo articolo tratta il consenso per la domanda. La distinzione conta perché 
 
 ## Di norma devono essere d'accordo tutti i titolari di responsabilità genitoriale
 
-La regola di base è che tutti gli adulti con responsabilità genitoriale sul bambino devono dare il consenso alla domanda di passaporto. Per la maggior parte delle famiglie questo significa entrambi i genitori sposati; per le coppie non sposate, significa entrambi i partner se sono entrambi indicati come genitori sul certificato di nascita. Chi ha un provvedimento del tribunale o l'affido legale esclusivo segue regole diverse, e il tuo ufficio passaporti ti spiegherà la procedura specifica quando lo chiederai.
+Chi deve dare il consenso dipende dal paese. Nel Regno Unito firma una persona con responsabilità genitoriale e si indicano i dati di entrambi i genitori; altri paesi generalmente richiedono la firma di entrambi. Anche la responsabilità genitoriale di un genitore non sposato dipende dal paese: per confermarla, rivolgiti al tuo ufficio passaporti. Chi ha un provvedimento del tribunale o l'affido legale esclusivo segue regole diverse, e il tuo ufficio passaporti ti spiegherà la procedura specifica quando lo chiederai.
 
 Queste eccezioni sono reali e vale la pena conoscerle. Un genitore deceduto non può firmare, e un genitore che ha perso la responsabilità genitoriale per un provvedimento del tribunale potrebbe non avere nemmeno il diritto di dare il consenso. Anche gli ordini restrittivi e le limitazioni di affido possono escludere per legge un genitore. Ognuna di queste situazioni ha una propria procedura di domanda e propri requisiti di prova, quindi non esiste un'unica risposta valida per tutte.
 
@@ -54,9 +54,9 @@ Gli uffici passaporti vogliono tre cose quando fai domanda per il primo passapor
 
 **Le regole di base sono le stesse:** gli occhi del bambino dovrebbero in genere essere aperti e rivolti verso la fotocamera, con uno sfondo semplice dietro la testa e nient'altro nell'inquadratura. Alcune autorità ammorbidiscono le regole sugli occhi per i più piccoli: GOV.UK non richiede occhi aperti sotto un anno, né lo sguardo diretto in camera sotto i 6 anni. Ciò che cambia è come riuscirci.
 
-**Per un neonato o un bambino sotto i 6 mesi:** fotografalo sdraiato su un lenzuolo o una coperta semplice, bianca o chiara. Il lenzuolo diventa lo sfondo. La testa del bambino riempie il terzo superiore dell'inquadratura. Mettiti direttamente sopra di lui in modo che guardi dritto verso la fotocamera, con gli occhi aperti — se il bambino è assonnato, aspetta un momento in cui è sveglio. Niente giocattoli, niente ciucci, niente mani, nessun'altra persona visibile nell'inquadratura tranne la testa e le spalle del bambino.
+**Per un neonato o un bambino sotto un anno:** fotografalo sdraiato su un lenzuolo o una coperta semplice, bianca o chiara. Il lenzuolo diventa lo sfondo. Mettiti direttamente sopra di lui in modo che guardi dritto verso la fotocamera, con gli occhi aperti — se il bambino è assonnato, aspetta un momento in cui è sveglio. Niente giocattoli, niente ciucci, niente mani, nessun'altra persona visibile nell'inquadratura tranne la testa e le spalle del bambino.
 
-**Per un bambino tra i 6 mesi e i 2 anni:** puoi metterlo seduto in braccio a un adulto, ma il corpo e le mani dell'adulto non devono comparire affatto nella foto. La testa del bambino riempie l'inquadratura. Lo sfondo semplice è solo dietro il bambino — non deve essere visibile altrove. Va bene una parete bianca. Va bene anche un lenzuolo semplice appeso dietro di lui. Angola lo scatto in modo che gli occhi del bambino guardino verso la fotocamera, ma poiché a questa età i bambini si muovono di continuo, probabilmente farai 20 foto per ottenerne una con gli occhi aperti e rivolti nella direzione giusta.
+**Per un bambino tra uno e due anni:** puoi metterlo seduto in braccio a un adulto, ma il corpo e le mani dell'adulto non devono comparire affatto nella foto. Nella foto deve comparire solo il bambino, con uno sfondo semplice e senza altri elementi visibili. Va bene una parete bianca. Va bene anche un lenzuolo semplice appeso dietro di lui. Angola lo scatto in modo che gli occhi del bambino guardino verso la fotocamera, ma poiché a questa età i bambini si muovono di continuo, probabilmente farai 20 foto per ottenerne una con gli occhi aperti e rivolti nella direzione giusta.
 
 **Per i bambini dai 2 anni in su:** fallo sedere davanti allo sfondo semplice su una sedia, o in piedi se sa stare in piedi. Gli occhi devono guardare dritto verso la fotocamera, il che è più difficile di quanto sembri perché i bambini piccoli non seguono le istruzioni. Canta una canzone, fai un rumore buffo, o chiedigli di guardare un punto appena sopra l'obiettivo. Vuoi che guardi leggermente verso l'alto, il che rende comunque meglio nelle foto. Anche qui, scatta molte foto — te ne serve solo una in cui guardi la fotocamera con entrambi gli occhi chiaramente aperti.
 
@@ -78,7 +78,7 @@ Questo è un requisito legale che esiste per proteggere il bambino, non una trat
 
 **Se l'altro genitore è irreperibile o si rifiuta:** ti serve un provvedimento del tribunale. Può essere un ordine di affido già esistente, un provvedimento di tutela, o una sentenza specifica che ti attribuisce la responsabilità genitoriale esclusiva. Alcuni paesi permettono di chiedere al tribunale l'autorizzazione a rilasciare il passaporto senza il consenso dell'altro genitore, se puoi dimostrare che il bambino subirebbe un danno dal ritardo o che l'altro genitore non è in condizione di essere consultato. Questo varia da paese a paese e in base alla prassi dei tribunali locali — chiedi al tuo ufficio passaporti o a un avvocato di famiglia qual è la procedura dove ti trovi.
 
-**Se l'altro genitore è deceduto:** ti serve il certificato di morte. Il tuo ufficio passaporti non dovrebbe aver bisogno di altro per elaborare la domanda.
+**Se l'altro genitore è deceduto:** prevedi di presentare il certificato di morte. Il tuo ufficio passaporti ti confermerà se serve altro.
 
 **In presenza di un ordine restrittivo o di una limitazione di affido:** porta con te il provvedimento del tribunale. Mostra all'ufficio esattamente quali permessi e restrizioni sono in vigore.
 
@@ -86,19 +86,19 @@ Questo è un requisito legale che esiste per proteggere il bambino, non una trat
 
 Una volta che il passaporto è stato emesso e consegnato, dedica cinque minuti a controllarlo prima di archiviarlo. Ci sono tre cose da verificare, facili da correggere ora e un incubo da correggere in aeroporto.
 
-**Controlla l'ortografia.** Il nome di tuo figlio deve essere scritto esattamente come appare sul certificato di nascita o sul documento d'identità usato per la domanda. Se è sbagliato, l'ufficio passaporti può di solito rilasciare una sostituzione senza costi. Se non te ne accorgi finché non sei in aeroporto, la compagnia aerea potrebbe rifiutare l'imbarco perché il nome sul biglietto non corrisponderà al passaporto.
+**Controlla l'ortografia.** Il nome di tuo figlio deve essere scritto esattamente come appare sul certificato di nascita o sul documento d'identità usato per la domanda. Se è sbagliato, l’ufficio passaporti generalmente lo sostituisce gratuitamente se l’errore è suo; se invece era nella domanda presentata, potrebbe essere previsto un costo. Se non te ne accorgi finché non sei in aeroporto, la compagnia aerea potrebbe rifiutare l'imbarco perché il nome sul biglietto non corrisponderà al passaporto.
 
 **Controlla i nomi dei genitori dove compaiono.** Alcuni paesi stampano i nomi dei genitori o dei tutori all'interno del passaporto di un bambino. Se questi nomi sono scritti male o sbagliati, contatta l'ufficio per farli correggere.
 
-**Controlla la data di scadenza.** Questo è fondamentale per i bambini perché [i passaporti dei bambini scadono molto prima di quelli degli adulti](https://traveldocumentvault.com/it/blog/family-passport-management/). Quando prenoti un viaggio, devi sapere esattamente quando questo documento smette di essere valido. Scrivilo e imposta un promemoria il giorno stesso in cui arriva il passaporto, non quando capita un viaggio: è l'unica abitudine che consigliamo sempre ai genitori. I passaporti dei bambini che scadono inaspettatamente sono uno dei motivi più comuni per cui le famiglie devono cancellare o riprogrammare i viaggi.
+**Controlla la data di scadenza.** Questo è fondamentale per i bambini perché [i passaporti dei bambini scadono spesso prima di quelli degli adulti](https://traveldocumentvault.com/it/blog/family-passport-management/). Quando prenoti un viaggio, devi sapere esattamente quando questo documento smette di essere valido. Scrivilo e imposta un promemoria il giorno stesso in cui arriva il passaporto, non quando capita un viaggio: è l'unica abitudine che consigliamo sempre ai genitori. La scadenza del passaporto di un bambino passata inosservata può far saltare un viaggio.
 
-Se qualcosa non va, contatta il tuo ufficio passaporti entro pochi giorni. Le correzioni sono di solito gratuite se segnalate rapidamente, e più tempo lasci passare più il processo diventa complicato. Quando è tutto a posto, metti subito il passaporto nella cartella dei documenti con una nota sulla data di scadenza, così il rinnovo non ti coglie di sorpresa.
+Se qualcosa non va, contatta il tuo ufficio passaporti appena noti l’errore. La gratuità della correzione dipende da chi ha commesso l’errore, e più tempo lasci passare più il processo diventa complicato. Quando è tutto a posto, metti subito il passaporto nella cartella dei documenti con una nota sulla data di scadenza, così il rinnovo non ti coglie di sorpresa.
 
 ## Domande Frequenti
 
 ### Chi deve dare il consenso per la domanda di passaporto di un bambino?
 
-In generale, tutti gli adulti con responsabilità genitoriale sul bambino devono dare il consenso. Questo include le coppie sposate, le coppie non sposate indicate sul certificato di nascita, e chiunque abbia l'affido legale. La responsabilità genitoriale esclusiva, un genitore deceduto, e i provvedimenti del tribunale creano delle eccezioni — l'autorità che rilascia il documento decide se procedere senza le firme di entrambi i genitori.
+Dipende dal paese: generalmente deve firmare una persona con responsabilità genitoriale, e alcuni uffici chiedono anche il consenso di tutti i genitori. Questo include le coppie sposate, le coppie non sposate indicate sul certificato di nascita, e chiunque abbia l'affido legale. La responsabilità genitoriale esclusiva, un genitore deceduto, e i provvedimenti del tribunale creano delle eccezioni — l'autorità che rilascia il documento decide se procedere senza le firme di entrambi i genitori.
 
 ### Quali documenti servono per la prima domanda di passaporto di un bambino?
 
@@ -106,7 +106,7 @@ Come minimo: prova dell'identità del bambino (certificato di nascita), prova de
 
 ### Cosa rende diversa una foto passaporto di un neonato?
 
-Molte autorità vogliono gli occhi del neonato chiaramente aperti e rivolti verso la fotocamera, senza ciucci, giocattoli, o mani di altre persone visibili. Alcune ammorbidiscono le regole sugli occhi per i più piccoli: GOV.UK, ad esempio, dice che un bambino sotto un anno non deve avere gli occhi aperti, e uno sotto i 6 anni non deve guardare direttamente la fotocamera. Lo sfondo semplice deve essere chiaramente visibile dietro la testa del bambino. Poiché i neonati non sanno stare seduti o fermi, puoi fotografarli sdraiati su uno sfondo semplice — la regola è che la testa deve riempire l'inquadratura, che nell'immagine compaia solo il bambino, e che lo sfondo dietro di lui sia pulito e senza ostacoli.
+Molte autorità vogliono gli occhi del neonato chiaramente aperti e rivolti verso la fotocamera, senza ciucci, giocattoli, o mani di altre persone visibili. Alcune ammorbidiscono le regole sugli occhi per i più piccoli: GOV.UK, ad esempio, dice che un bambino sotto un anno non deve avere gli occhi aperti, e uno sotto i 6 anni non deve guardare direttamente la fotocamera. Lo sfondo semplice deve essere chiaramente visibile dietro la testa del bambino. Poiché i neonati non sanno stare seduti o fermi, puoi fotografarli sdraiati su uno sfondo semplice — nell’immagine deve comparire solo il bambino e lo sfondo dietro di lui deve essere semplice e chiaro.
 
 ### Per quanto tempo è valido il passaporto di un bambino?
 

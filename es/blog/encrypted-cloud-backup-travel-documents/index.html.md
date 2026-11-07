@@ -26,7 +26,7 @@ El cifrado revuelve un archivo para que solo una clave correspondiente pueda vol
 
 Dos configuraciones se venden como copia de seguridad cifrada, y se comportan de forma muy distinta.
 
-Una envía el archivo al servidor de la empresa por una conexión cifrada, y luego lo almacena cifrado en reposo. Ambas afirmaciones son ciertas, y ambas suenan tranquilizadoras. Pero la empresa sigue teniendo la clave, así que puede descifrar tus documentos cuando lo necesite: para hacer funcionar una función, para responder a una solicitud legal, o porque alguien dentro de ella cometió un error. Tu escaneo de pasaporte es legible al otro lado.
+Una envía el archivo al servidor de la empresa por una conexión cifrada, y luego lo almacena cifrado en reposo. Ambas afirmaciones son ciertas, y ambas suenan tranquilizadoras. Pero la empresa sigue teniendo la clave, así que técnicamente puede descifrar tus documentos, ya sea para ofrecer una función, responder a una solicitud legal o por un error interno. Tu escaneo de pasaporte es legible al otro lado.
 
 La otra configuración revuelve el archivo en tu teléfono antes de que vaya a ninguna parte, usando una clave derivada de algo que solo tú tienes. Lo que llega al almacenamiento es un bloque de ruido, y nadie al otro lado puede leerlo, porque nadie al otro lado tiene la clave. Esto suele llamarse cifrado de extremo a extremo, o de conocimiento cero.
 
@@ -55,7 +55,7 @@ Así que trata el código como lo único que hay que hacer bien:
 
 Depende por completo de lo que llega a la nube, y esa es una pregunta sobre la app, no sobre la nube.
 
-Una foto de tu pasaporte en una biblioteca de fotos normal o una carpeta sincronizada llega legible. Queda en una cuenta protegida por una contraseña que quizá hayas reutilizado. Se indexa y se genera una miniatura, y cualquiera que entre en esa cuenta ve una copia nítida de la página de identidad. Repasamos cómo es esa exposición en la práctica en [almacenar un pasaporte en Google Photos](https://traveldocumentvault.com/es/blog/is-it-safe-to-store-passport-in-google-photos/). Es un riesgo real, y es la configuración que la mayoría de familias tiene sin haberla elegido nunca.
+Una foto de tu pasaporte en una biblioteca de fotos normal o una carpeta sincronizada llega legible. Queda en una cuenta protegida por una contraseña que quizá hayas reutilizado. Según el servicio, puede indexarse o mostrarse como miniatura, y cualquiera que entre en esa cuenta ve una copia nítida de la página de identidad. Repasamos cómo es esa exposición en la práctica en [almacenar un pasaporte en Google Photos](https://traveldocumentvault.com/es/blog/is-it-safe-to-store-passport-in-google-photos/). Es un riesgo real, y es la configuración que la mayoría de familias tiene sin haberla elegido nunca.
 
 Una bóveda cifrada en el dispositivo antes de subirla llega como texto cifrado. Quien entre por la fuerza en la cuenta de la nube encuentra un archivo que no puede abrir. La protección viaja con el archivo, en lugar de depender de la cuenta donde termina.
 
@@ -82,7 +82,7 @@ El tiempo de restauración depende del tamaño de tu bóveda y de la conexión.
 
 Instala la app en el teléfono nuevo e inicia sesión con la misma cuenta de iCloud o Google que usabas antes. Con Pro y la copia de seguridad en la nube desactivada en el dispositivo de destino, abre Ajustes, Copia de Seguridad en la Nube y Restaurar desde Copia de Seguridad. Elige la bóveda existente, introduce tu código de recuperación y confirma la restauración, que reemplaza el contenido local de la bóveda. Se restauran los perfiles, los documentos y las fechas de vencimiento; las notificaciones se vuelven a crear en el dispositivo de destino.
 
-La app también verifica antes de escribir. Si la copia de seguridad en la nube detecta una copia existente en esa cuenta, te pide que elijas entre restaurarla o empezar de cero. Un teléfono nuevo no puede sobrescribir en silencio lo que ya hay ahí.
+La app también verifica antes de escribir. Si la copia de seguridad en la nube detecta una copia existente creada con el mismo código de recuperación, la app te pregunta si quieres combinarla o empezar de cero, de modo que un teléfono nuevo no pueda sobrescribir en silencio lo que ya hay ahí. Empezar de cero conserva la otra copia.
 
 ### Moverte Entre iPhone y Android Significa Exportar la Bóveda
 

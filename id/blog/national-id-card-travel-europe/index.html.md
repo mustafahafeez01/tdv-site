@@ -13,7 +13,7 @@ Source: https://traveldocumentvault.com/id/blog/national-id-card-travel-europe/
 - **Warga negara UE dan EEA dapat bepergian di Eropa hanya dengan kartu identitas nasional** - tidak perlu paspor untuk melintasi perbatasan Schengen.
 - Kartu ID Anda harus masih berlaku pada hari Anda bepergian, tetapi **tidak perlu memiliki sisa masa berlaku 6 bulan** seperti yang berlaku pada paspor untuk beberapa tujuan di luar Eropa.
 - **Maskapai menetapkan kebijakan dokumen mereka sendiri.** Sebagian besar menerima kartu ID untuk penerbangan antar-Eropa, tetapi selalu periksa dengan maskapai Anda sebelum memesan.
-- Kartu ID yang rusak, pudar, atau rusak karena air dapat ditolak di perbatasan meskipun belum kedaluwarsa, karena petugas tidak dapat membacanya dengan andal.
+- Kartu ID yang rusak, pudar, atau terkena air mungkin dipertanyakan atau ditolak di perbatasan meskipun belum kedaluwarsa, jadi kami menyarankan mengganti kartu yang aus sebelum bepergian.
 - Berbeda dengan paspor, **kartu identitas nasional kedaluwarsa dengan jadwal yang lebih cepat.** Travel Document Vault melacak kedua dokumen secara terpisah agar Anda tidak melewatkan tenggat waktu kartu ID yang lebih singkat.
 
 Jika Anda warga negara UE yang berencana bepergian ke negara Eropa lain, kemungkinan besar Anda sudah memiliki kartu identitas nasional. Dan Anda mungkin pernah bertanya-tanya apakah harus membawa kartu ID, paspor, atau keduanya. Jawaban singkatnya begini: di dalam UE dan EEA, kartu ID Anda saja sudah cukup untuk bepergian, karena tulisan ini memang ditujukan khusus untuk warga negara UE dan EEA. Pembaca dari Inggris atau Amerika tidak memiliki kartu identitas nasional untuk bepergian, jadi jika itu Anda, paspor tetap menjadi satu-satunya pilihan.
@@ -26,19 +26,19 @@ Di dalam UE dan EEA, kartu identitas nasional yang masih berlaku adalah dokumen 
 
 Kartu yang kedaluwarsa besok secara teknis masih menjadi dokumen perjalanan yang sah hari ini. Meski begitu, memperpanjang jauh-jauh hari tetap langkah yang bijak, karena kartu yang mendekati kedaluwarsa lebih mungkin dipertanyakan di perbatasan, dan kartu yang rusak bisa ditolak meskipun belum kedaluwarsa.
 
-Fleksibilitas ini paling terasa di wilayah Schengen. Sebagai warga negara UE dengan kartu ID yang masih berlaku, Anda dapat bergerak bebas melintasi perbatasan terbuka antarnegara Schengen tanpa pemeriksaan paspor. Hak yang sama berlaku di perbatasan UE non-Schengen - kartu ini berfungsi karena hukum kebebasan bergerak UE, bukan karena keanggotaan Schengen.
+Fleksibilitas ini paling terasa di wilayah Schengen. Sebagai warga negara UE dengan kartu ID yang masih berlaku, Anda biasanya dapat berpindah antarnegara Schengen tanpa menunjukkan dokumen di perbatasan. Saat bepergian ke atau dari Irlandia atau Siprus, yang belum menghapus pemeriksaan perbatasan internal, Anda tetap menunjukkan paspor atau kartu ID.
 
 ## Apa yang Dianggap sebagai Kartu Identitas Nasional EEA
 
 Ketika formulir pemesanan atau petugas check-in menanyakan "kartu identitas nasional EEA", yang mereka maksud adalah kartu identitas yang diterbitkan negara Anda sendiri untuk warganya, yang mencantumkan kewarganegaraan Anda. EEA terdiri dari 27 negara anggota UE ditambah Islandia, Liechtenstein, dan Norwegia; Swiss berada di luar EEA, tetapi panduan Your Europe dari Komisi Eropa menegaskan warga negara UE tetap dapat bepergian ke sana dengan kartu identitas nasional.
 
-Kartu izin tinggal menunjukkan tempat Anda tinggal, bukan kewarganegaraan Anda, sehingga kartu ini menyertai paspor, bukan menggantikannya. Pemerintah Inggris mengarahkan warga Inggris yang tinggal di Spanyol untuk menunjukkan kartu izin tinggal TIE mereka saat menunjukkan paspor di pos perbatasan Spanyol. SIM, kartu bank, dan kartu pajak juga tidak termasuk, dan Your Europe memperingatkan bahwa dokumen-dokumen ini bisa ditolak sebagai bukti identitas.
+Kartu izin tinggal menunjukkan tempat Anda tinggal, bukan kewarganegaraan Anda, sehingga kartu ini menyertai paspor, bukan menggantikannya. Pemerintah Inggris mengarahkan warga Inggris yang tinggal di Spanyol untuk menunjukkan bukti tempat tinggal, seperti kartu izin tinggal TIE, saat menunjukkan paspor di pos perbatasan Spanyol. SIM, kartu bank, dan kartu pajak juga tidak termasuk, dan Your Europe memperingatkan bahwa dokumen-dokumen ini bisa ditolak sebagai bukti identitas.
 
 Kartu UE saat ini mudah dikenali. Ukurannya sebesar kartu kredit, memiliki zona baca mesin (deretan kode yang dibaca pemindai), dan menampilkan kode dua huruf negara penerbit dalam kotak biru yang dikelilingi 12 bintang kuning di bagian depan. Di dalamnya terdapat chip yang menyimpan foto dan dua sidik jari Anda.
 
 Kartu lama adalah yang paling sering membuat orang terjebak. Berdasarkan regulasi UE tentang kartu identitas, kartu tanpa zona baca mesin yang berfungsi, atau yang berada di bawah standar keamanan minimum internasional, berhenti berlaku sejak 3 Agustus 2026, meskipun tanggal yang tercetak lebih lambat dari itu. Kebanyakan kartu format lama lainnya tetap berlaku hingga tanggal kedaluwarsa yang tercetak atau 3 Agustus 2031, mana yang lebih dulu. Jika kartu Anda lebih tua dari versi dengan kode berbintang dan tidak memiliki zona baca mesin, kami sarankan memperpanjangnya sekarang daripada mengujinya di gerbang perbatasan.
 
-Untuk Inggris, kartu ini biasanya tidak berlaku. Kementerian Dalam Negeri Inggris (Home Office) berhenti menerima sebagian besar kartu ID UE, EEA, dan Swiss sebagai dokumen perjalanan sejak Oktober 2021, dengan pengecualian terbatas, jadi periksa GOV.UK sebelum bepergian ke Inggris.
+Untuk Inggris, kartu ini biasanya tidak berlaku. Inggris umumnya hanya menerima kartu ID UE, EEA, atau Swiss untuk kelompok terbatas, seperti pemegang settled status atau pre-settled status, jadi periksa GOV.UK sebelum bepergian ke Inggris.
 
 ## Kapan Anda Membutuhkan Paspor
 
@@ -46,7 +46,7 @@ Untuk sebagian besar tujuan di luar UE dan EEA, kartu identitas nasional tidak d
 
 Beberapa negara anggota UE memang memiliki perjanjian bilateral dengan negara-negara non-Eropa tertentu yang mengizinkan masuk dengan kartu identitas nasional, tetapi ini bervariasi menurut kewarganegaraan dan dapat berubah seiring waktu. Jika Anda bepergian ke luar Eropa, bawalah paspor Anda dan verifikasi persyaratan masuk tujuan spesifik Anda dengan panduan imigrasi resmi negara tersebut sebelum memesan.
 
-Di dalam Eropa, beberapa negara memiliki perjanjian bilateral yang memperluas penerimaan kartu ID di luar kerangka standar UE. Perjanjian ini memang ada, tetapi bisa rumit, sehingga sering kali lebih sederhana untuk tetap membawa paspor bersama kartu ID setiap kali bepergian ke luar negara asal Anda, meskipun secara hukum kartu ID saja sudah cukup.
+Di luar UE dan EEA, beberapa negara menerima kartu ID tertentu, tetapi aturannya berbeda-beda, jadi periksa panduan resmi negara tersebut. Sering kali lebih sederhana untuk tetap membawa paspor bersama kartu ID setiap kali bepergian ke luar negara asal Anda, meskipun secara hukum kartu ID saja sudah cukup.
 
 ![Diagram yang membandingkan kapan kartu identitas nasional biasanya cukup, untuk perjalanan di dalam UE, EEA, dan Swiss, dengan kapan harus membawa paspor: sebagian besar perjalanan di luar Eropa, kartu yang rusak, atau maskapai yang memintanya](https://traveldocumentvault.com/blog/national-id-card-travel-europe/id-card-or-passport-id.jpg) Di dalam UE dan EEA kartu biasanya cukup; di luar Eropa, bawa paspor.
 
@@ -55,7 +55,7 @@ Di dalam Eropa, beberapa negara memiliki perjanjian bilateral yang memperluas pe
 Tanggal kedaluwarsa yang masih berlaku memang perlu, tetapi tidak cukup, karena petugas perbatasan dilatih untuk menolak dokumen yang tidak dapat mereka baca dengan jelas. Sebelum mengemas barang, periksa kartu ID Anda dengan cara yang sama seperti petugas perbatasan akan memeriksanya:
 
 - **Apakah kartunya utuh?** Tidak ada lengkungan, retak, pengelupasan, atau pemisahan lapisan plastik.
-- **Apakah foto dan data pribadi terbaca jelas?** Kerusakan air atau pudar yang membuat wajah atau nama sulit dibaca menjadi alasan penolakan, meskipun kartu belum kedaluwarsa.
+- **Apakah foto dan data pribadi terbaca jelas?** Kerusakan air atau pudar yang membuat wajah atau nama sulit dibaca bisa menyebabkan penolakan, meskipun kartu belum kedaluwarsa.
 - **Apakah tanggal kedaluwarsa tercetak jelas dan tidak ambigu?** Noda atau kerusakan tinta merugikan Anda.
 - **Apakah fitur keamanan masih terlihat?** Hologram, pola latar belakang, dan elemen anti-pemalsuan lainnya harus tetap utuh.
 
@@ -63,13 +63,13 @@ Jika kartu Anda menunjukkan tanda-tanda aus - lipatan, bekas air, cetakan pudar 
 
 ## Kartu Identitas Anak dan Jadwal yang Lebih Singkat
 
-Kartu identitas anak kedaluwarsa lebih cepat daripada kartu orang dewasa di sebagian besar negara UE, sama seperti paspor anak. Ini penting karena keluarga sering bepergian bersama, dan lupa memeriksa dokumen satu anak saja bisa menghambat seluruh rombongan.
+Di banyak negara UE, kartu identitas anak memiliki masa berlaku lebih singkat daripada kartu orang dewasa, jadi periksa tanggal yang tercetak pada setiap kartu, seperti halnya paspor anak. Ini penting karena keluarga sering bepergian bersama, dan lupa memeriksa dokumen satu anak saja bisa menghambat seluruh rombongan.
 
 Kami membahas ini secara lebih rinci dalam panduan [manajemen paspor keluarga](https://traveldocumentvault.com/id/blog/family-passport-management/) kami - prinsip yang sama berlaku untuk kartu ID. Periksa setiap dokumen dalam rombongan Anda satu per satu sebelum memesan, bukan hanya milik Anda sendiri. Kartu ID anak yang sudah kedaluwarsa dua bulan lalu tidak akan lolos hanya karena kartu orang dewasa masih berlaku.
 
 ## Jika Kartu Ditolak Saat Check-In atau di Perbatasan
 
-Jika kartu ID Anda ditolak, pilihan Anda tergantung pada apa lagi yang Anda bawa. Paspor sebagai cadangan biasanya tetap memungkinkan Anda bepergian, asalkan masih berlaku dan memenuhi persyaratan masuk tujuan Anda. Namun, jika hanya kartu ID yang Anda bawa, tidak ada cadangan: Anda tidak dapat melintas, dan petugas perbatasan tidak berkewajiban menerima dokumen alternatif.
+Jika kartu ID Anda ditolak, pilihan Anda tergantung pada apa lagi yang Anda bawa. Paspor sebagai cadangan biasanya tetap memungkinkan Anda bepergian, asalkan masih berlaku dan memenuhi persyaratan masuk tujuan Anda. Namun, jika hanya kartu ID yang Anda bawa, tidak ada cadangan: Anda tidak dapat melintas, dan petugas perbatasan mungkin tidak menerima dokumen alternatif.
 
 Pendekatan paling praktis adalah membawa kartu ID dan paspor Anda saat bepergian secara internasional, bahkan di dalam Eropa sekalipun.
 
@@ -79,7 +79,7 @@ Kedua dokumen tidak memakan banyak tempat, dan membawa keduanya berarti dokumen 
 
 Tantangan praktis dalam mengelola dokumen perjalanan adalah ini: kartu ID dan paspor Anda berjalan pada jadwal perpanjangan yang sama sekali berbeda. Paspor mungkin masih memiliki sisa masa berlaku 8 bulan sementara kartu ID Anda tinggal 2 bulan. Mudah untuk memperpanjang satu dan melupakan yang lain, terutama jika Anda tidak sering bepergian.
 
-Bagian yang lebih sulit adalah **tidak ada dokumen yang mengirimkan pengingat kepada Anda.** Anda harus memeriksanya sendiri. Kebanyakan orang tidak melakukannya, sampai mereka berada di meja check-in dan petugas memberi tahu bahwa salah satu dokumen terlalu dekat dengan kedaluwarsa untuk diterima.
+Bagian yang lebih sulit adalah **sebagian besar otoritas penerbit tidak mengirimkan pengingat kepada Anda.** Anda harus memeriksanya sendiri. Kebanyakan orang tidak melakukannya, sampai mereka berada di meja check-in dan petugas memberi tahu bahwa salah satu dokumen terlalu dekat dengan kedaluwarsa untuk diterima.
 
 Yang membantu adalah satu tempat untuk kedua dokumen, yang menyimpan masing-masing tanggal kedaluwarsa dan mengingatkan Anda secara terpisah untuk setiap dokumen, sesuai jadwal yang berlaku untuk jenis dokumen tersebut. Lihat panduan kami tentang [menyusun daftar periksa dokumen lengkap sebelum bepergian](https://traveldocumentvault.com/id/blog/travel-document-checklist/) untuk gambaran selengkapnya tentang apa yang perlu diverifikasi sebelum Anda bepergian.
 
@@ -101,11 +101,11 @@ Tidak. Di dalam UE dan EEA, kartu identitas nasional yang masih berlaku sudah cu
 
 ### Bisakah saya menggunakan kartu identitas nasional untuk penerbangan di dalam Eropa?
 
-Sebagian besar maskapai menerima kartu identitas nasional untuk penerbangan di dalam Eropa, tetapi kebijakan berbeda-beda tergantung maskapai. Selalu periksa dengan maskapai Anda sebelum memesan. Beberapa maskapai berbiaya rendah memiliki aturan lebih ketat dan mungkin lebih memilih paspor untuk penerbangan internasional, bahkan di dalam UE. Menunjukkan kartu di meja check-in bukan saat yang tepat untuk mengetahui bahwa kartu Anda tidak diterima.
+Sebagian besar maskapai menerima kartu identitas nasional untuk penerbangan di dalam Eropa, tetapi kebijakan berbeda-beda tergantung maskapai. Selalu periksa dengan maskapai Anda sebelum memesan. Menunjukkan kartu di meja check-in bukan saat yang tepat untuk mengetahui bahwa kartu Anda tidak diterima.
 
 ### Apa yang harus saya periksa pada kartu identitas nasional sebelum bepergian?
 
-Pastikan kartu Anda tidak rusak, tidak pudar, dan tidak sulit dibaca. Kartu harus masih berlaku pada hari Anda bepergian dan tidak boleh kehilangan informasi penting apa pun. Kartu yang melengkung, mengelupas, atau rusak karena air dapat ditolak di perbatasan meskipun belum kedaluwarsa, karena petugas perbatasan tidak dapat membacanya dengan andal.
+Pastikan kartu Anda tidak rusak, tidak pudar, dan tidak sulit dibaca. Kartu harus masih berlaku pada hari Anda bepergian dan tidak boleh kehilangan informasi penting apa pun. Kartu yang melengkung, mengelupas, atau rusak karena air mungkin dipertanyakan atau ditolak di perbatasan meskipun belum kedaluwarsa, jadi kami menyarankan mengganti kartu yang aus sebelum bepergian.
 
 ### Bagaimana jika kartu identitas nasional saya ditolak di perbatasan?
 

@@ -12,8 +12,8 @@ Source: https://traveldocumentvault.com/de/blog/travel-insurance-documents/
 
 - **Speichern Sie Ihr vollständiges Versicherungsdokument, Ihre Versicherungsnummer und die 24-Stunden-Notfallhotline** (nicht die Vertriebsnummer).
 - Speichern Sie Kopien offline und zugänglich – E-Mail allein hilft Ihnen nicht weiter, wenn Sie festsitzen oder im Krankenhaus sind.
-- **Die Vorabgenehmigung für medizinische Behandlung ist bei den meisten Policen erforderlich**; ohne sie können Ihre Ansprüche gekürzt oder nicht gezahlt werden.
-- Ansprüche werden am häufigsten abgelehnt, weil Dokumente fehlen: Polizeibericht für Diebstahl, Originalquittungen, unterzeichnete Anspruchsformulare.
+- **Viele Policen verlangen, dass Sie den Versicherer vor einer medizinischen Behandlung kontaktieren**; ohne sie können Ihre Ansprüche gekürzt oder nicht gezahlt werden.
+- Ein häufiger Ablehnungsgrund sind fehlende Dokumente: Polizeibericht für Diebstahl, Originalquittungen, unterzeichnete Anspruchsformulare.
 - Lesen Sie die wichtigsten Abschnitte Ihrer Versicherung schnell durch, indem Sie sich auf Deckungsgrenzen, Ausschlüsse und Bedingungen konzentrieren.
 
 Eine Reiseversicherung zählt am meisten in dem Moment, in dem sie am schwersten zu erreichen ist: an der Aufnahme eines Krankenhauses im Ausland, auf einer Polizeiwache, am Schalter der Fluggesellschaft nach einer Annullierung. Entscheidend ist dann nicht die Police selbst, sondern ob die Nummer, die 24-Stunden-Leitung des Versicherers und der Nachweis des Versicherungsumfangs griffbereit sind. Dieser Artikel zeigt, was vor der Abreise zu sichern ist, wo es ohne Internet zugänglich bleibt und welche Fehler bei der Meldung eine Erstattung am häufigsten scheitern lassen.
@@ -34,7 +34,7 @@ Ihre Versicherungsunterlagen liegen bei dem, der Ihnen die Deckung verkauft hat,
 - **Den Versicherungsschein oder Nachtrag:** Ihren Namen, die Versicherungsnummer, Ihre Reisedaten und den Umfang der Deckung
 - **Die 24-Stunden-Notrufnummer**, die Sie aus einem Krankenhaus oder einer Polizeiwache im Ausland anrufen
 
-Wenn Sie sich nicht einmal erinnern, eine Police gekauft zu haben, prüfen Sie Ihr Bankkonto. Der Financial Ombudsman Service beschreibt ein Bankkonto mit Zusatzleistungen als ein Girokonto, das eine monatliche Gebühr verlangt und dafür zusätzliche Vorteile bietet, darunter Reiseversicherung. In diesem Fall hält die Bank, nicht ein Reiseversicherer, Ihre Unterlagen, also schauen Sie in deren App, Website oder Hotline nach.
+Wenn Sie sich nicht einmal erinnern, eine Police gekauft zu haben, prüfen Sie Ihr Bankkonto. Der Financial Ombudsman Service beschreibt ein Bankkonto mit Zusatzleistungen als ein Girokonto, das eine monatliche Gebühr verlangt und dafür zusätzliche Vorteile bietet, darunter Reiseversicherung. In diesem Fall ist die Bank in der Regel die erste Anlaufstelle. Versuchen Sie es über ihre App, Website oder Hotline.
 
 Sobald Sie sie haben, rät das britische Foreign, Commonwealth and Development Office, Ihre Versicherungsdetails mitzunehmen, einschließlich Versicherungsnummer und der Notrufnummer Ihres Versicherers. Es empfiehlt außerdem, diese mit Mitreisenden und der Familie zu Hause zu teilen. Wenn Sie immer noch nichts finden, rufen Sie den Versicherer an, oder bei einem Konto mit Zusatzleistungen die Bank, und bitten Sie darum, Ihnen die Unterlagen vor dem Abflug erneut zuzusenden, nicht erst, wenn etwas schiefgeht.
 
@@ -48,7 +48,7 @@ Ihre Reiseversicherungspolice ist normalerweise eine PDF. Diese eine Datei enth�
 - Was abgedeckt ist (Deckungsgrenzen für medizinische Leistungen, Gepäck, Stornierung etc.)
 - Wichtige Ausschlüsse und Bedingungen (einschließlich Vorabgenehmigungsanforderungen)
 
-Die Versicherungsnummer ist kritisch. Viele Telefonsysteme der Versicherer verlangen sie, bevor sie Sie an eine echte Person weitergeben. Wenn Sie sie nicht bereitstellen können, verschwenden Sie Zeit, während die Uhr tickt.
+Die Versicherungsnummer ist kritisch. Halten Sie Ihre Versicherungsnummer bereit, da der Versicherer in der Regel zuerst danach fragt. Wenn Sie sie nicht bereitstellen können, verschwenden Sie Zeit, während die Uhr tickt.
 
 Die Notfallhotline unterscheidet sich vom Kundenservice, der normalerweise nur während der Geschäftszeiten erreichbar ist, während die Notfallhotline 24/7 läuft. Speichern Sie beide, aber wissen Sie, welche Sie in der Mitte der Nacht anrufen sollen, wenn Sie verletzt sind.
 
@@ -92,7 +92,7 @@ Selbst wenn Sie Ihre Dokumente erreichbar haben, können Sie Ihren Anspruch verl
 
 ### Medizinische Ansprüche: Sie haben keine Vorabgenehmigung eingeholt
 
-Die meisten Reiseversicherungspolicen verlangen eine Vorabgenehmigung vor der Behandlung. Das bedeutet, Ihren Versicherer anzurufen und sich vor einem Krankenhausbesuch oder einer Klinik genehmigen zu lassen. Die Anforderungen variieren je nach Versicherer und Police – prüfen Sie den Abschnitt zur medizinischen Behandlung in Ihrer spezifischen Police. Wenn Sie diesen Schritt überspringen und aus eigener Tasche zahlen, erhalten Sie oft die Ablehnung „die Behandlung war nicht vorab genehmigt." Viele Versicherer werden ohne Vorabgenehmigung nicht erstatten, auch wenn die Behandlung notwendig und abgedeckt war.
+Viele Reiseversicherungspolicen verlangen, dass Sie den Versicherer vor der Behandlung kontaktieren. Prüfen Sie deshalb Ihre Versicherungsbedingungen. Das bedeutet, Ihren Versicherer anzurufen und sich vor einem Krankenhausbesuch oder einer Klinik genehmigen zu lassen. Die Anforderungen variieren je nach Versicherer und Police – prüfen Sie den Abschnitt zur medizinischen Behandlung in Ihrer spezifischen Police. Wenn Sie diesen Schritt überspringen und aus eigener Tasche zahlen, können manche Versicherer die Erstattung kürzen oder ablehnen, auch wenn die Behandlung notwendig und versichert war.
 
 Stellen Sie sich vor, Sie werden wegen Blinddarmentzündung in Mumbai ins Krankenhaus eingeliefert. Das Krankenhaus verlangt Zahlung im Voraus oder eine Garantie Ihres Versicherers, und Sie haben ein zwei-Stunden-Fenster vor der Operation. Ohne die Genehmigungsnummer Ihres Versicherers verlangt das Krankenhaus Bargeld. Das lässt Ihnen zwei schlechte Optionen: jetzt zahlen und riskieren, Monate später eine abgelehnte Forderung zu bekommen, oder die Operation verzögern, während Sie Ihren Versicherer kontaktieren. Ein Anruf vermeidet das Ganze. Mit einer Bestätigungsnummer in der Hand wird das Krankenhaus Ihren Versicherer direkt abrechnen.
 
@@ -100,7 +100,7 @@ Maßnahme: Rufen Sie vor jeder Behandlung die Notfallhotline auf Ihrer Police an
 
 ### Gepäckansprüche: Sie haben keinen Polizeibericht
 
-Wenn Ihr Koffer gestohlen oder verloren oder beschädigt ist, verlangen die meisten Policen einen Polizeibericht vom Flughafen oder der lokalen Station. Versicherer nutzen dies als Nachweis. Prüfen Sie den Abschnitt "Wie man einen Anspruch einreicht" Ihrer Police auf genaue Anforderungen, da diese je nach Versicherer variieren. Wenn Sie es vermeiden, zur Polizei zu berichten und nur am Flughafen berichten, lehnen viele Versicherer Ansprüche ab, weil es keinen offiziellen Bericht gibt. Für Diebstahl oder Verlust (nicht nur Beschädigungen) ist ein Polizeibericht normalerweise erforderlich.
+Wenn Ihr Koffer gestohlen oder verloren oder beschädigt ist, verlangen viele Policen einen Polizeibericht vom Flughafen oder der lokalen Station. Versicherer nutzen dies als Nachweis. Prüfen Sie den Abschnitt "Wie man einen Anspruch einreicht" Ihrer Police auf genaue Anforderungen, da diese je nach Versicherer variieren. Wenn Sie es vermeiden, zur Polizei zu berichten und nur am Flughafen berichten, können manche Versicherer Ansprüche ablehnen, weil es keinen offiziellen Bericht gibt. Bei Diebstahl oder Verlust – nicht bei bloßen Schäden – verlangen viele Policen einen Polizeibericht. Prüfen Sie Ihre Police.
 
 Maßnahme: Wenn Ihr Koffer weg ist, berichten Sie es beim Flughafen-Fundservice. Wenn es Diebstahl ist, melden Sie es am selben Tag bei der Polizei und holen Sie sich eine Kopie zum Einreichen Ihres Anspruchs.
 
@@ -112,7 +112,7 @@ Bewahren Sie jede Quittung auf, physische Originale und digitale Kopien. Fotogra
 
 ### Stornierungsansprüche: Sie haben das Kleingedruckte nicht gelesen
 
-Reiseversicherung deckt Stornierungen nur ab, wenn Sie aus einem bestimmten abgedeckten Grund stornieren, was je nach Versicherer variiert. Das bedeutet normalerweise Krankheit, Verletzung oder der Tod eines Familienmitglieds. Es bedeutet selten kalte Füße, eine Meinungsänderung oder schlechtes Wetter, es sei denn, das Wetter legt Ihr Transportmittel lahm. Wenn Sie stornieren, weil der Flugpreis gesunken ist, werden die meisten Policen Sie nicht abdecken. Wie großzügig Ihr Versicherer hier ist, variiert sehr, also lohnt es sich, den Abschnitt "Reisestornierung" genau zu lesen, bevor Sie davon ausgehen, abgedeckt zu sein.
+Reiseversicherung deckt Stornierungen nur ab, wenn Sie aus einem bestimmten abgedeckten Grund stornieren, was je nach Versicherer variiert. Das bedeutet normalerweise Krankheit, Verletzung oder den Tod eines Familienmitglieds. Prüfen Sie aber die Liste in Ihrer Police. Es bedeutet selten kalte Füße, eine Meinungsänderung oder schlechtes Wetter, es sei denn, das Wetter legt Ihr Transportmittel lahm. Wenn Sie stornieren, weil der Flugpreis gesunken ist, werden die meisten Policen Sie nicht abdecken. Wie großzügig Ihr Versicherer hier ist, variiert sehr, also lohnt es sich, den Abschnitt "Reisestornierung" genau zu lesen, bevor Sie davon ausgehen, abgedeckt zu sein.
 
 Maßnahme: Bevor Sie stornieren, prüfen Sie die Deckungsdetails Ihrer Police. Wenn Sie denken, Ihr Grund qualifiziert sich, rufen Sie Ihren Versicherer vor der Stornierung Ihres Flugs an. Holen Sie sich schriftliche Bestätigung der Deckung von ihnen, bevor Sie fortfahren.
 
@@ -150,15 +150,15 @@ Zwanzig Minuten jetzt, und Sie suchen bei einer Krise nichts davon.
 
 ### Muss ich meine physische Versicherungspolice auf Reisen mitführen?
 
-Nein, Sie brauchen das Dokument nicht in Papierform. Eine digitale Kopie auf Ihrem Telefon oder ein Foto sind ausreichend. Die meisten Versicherer und Krankenhäuser akzeptieren eine digitale Kopie oder nur Ihre Versicherungsnummer. Aber eine physische Sicherung (Fotokopie oder Ausdruck) ist klug für den Fall, dass Ihr Telefon den Geist aufgibt. Noch einfacher: Schreiben Sie Ihre Versicherungsnummer und die Notfallnummer auf eine Karte neben Ihren Pass.
+Nein, Sie brauchen das Dokument nicht in Papierform. Eine digitale Kopie auf Ihrem Telefon oder ein Foto sind ausreichend. Versicherer und Krankenhäuser fragen in der Regel nach Ihrer Versicherungsnummer. Eine digitale Kopie hilft meist dabei. Aber eine physische Sicherung (Fotokopie oder Ausdruck) ist klug für den Fall, dass Ihr Telefon den Geist aufgibt. Noch einfacher: Schreiben Sie Ihre Versicherungsnummer und die Notfallnummer auf eine Karte neben Ihren Pass.
 
 ### Was soll ich tun, wenn ich die Hotline meines Versicherers im Ausland nicht erreiche?
 
-Notfallhotlines von Reiseversicherungen akzeptieren in der Regel weltweit internationale Anrufe. Prüfen Sie Ihre Police auf eine alternative Nummer für Anrufe von außerhalb des Heimatlandes des Versicherers. Wenn Sie sie nicht erreichen, fahren Sie mit der Behandlung fort und behalten Sie alle Quittungen und Unterlagen. Rufen Sie an, sobald Sie können, und prüfen Sie Ihre Police auf Fristen für Ansprüche. Bedenken Sie, dass die Behandlung ohne Genehmigung Ihren Anspruch reduzieren oder ablehnen kann, also versuchen Sie zuerst immer, sie zu erreichen.
+Prüfen Sie in Ihrer Police, welche Nummer aus dem Ausland erreichbar ist – gebührenfreie Nummern funktionieren dort häufig nicht. Viele Policen nennen eine alternative Nummer für Anrufe von außerhalb des Heimatlandes des Versicherers. Wenn Sie sie nicht erreichen, fahren Sie mit der Behandlung fort und behalten Sie alle Quittungen und Unterlagen. Rufen Sie an, sobald Sie können, und prüfen Sie Ihre Police auf Fristen für Ansprüche. Bedenken Sie, dass die Behandlung ohne Genehmigung Ihren Anspruch reduzieren oder ablehnen kann, also versuchen Sie zuerst immer, sie zu erreichen.
 
 ### Was soll ich tun, wenn ich meine Versicherungspolice während der Reise verliere?
 
-Wenn Sie Ihre Versicherungsnummer haben und die Notfallhotline anrufen können, ist das alles, was Sie brauchen. Geben Sie Ihre Versicherungsnummer und persönliche Daten per Telefon an und sie bestätigen Ihre Deckung. Haben Sie Sicherungskopien gespeichert (digitale Fotos, Cloud-Kopien oder handschriftliche Notizen), nutzen Sie diese. Die meisten Versicherer führen Aufzeichnungen und können Ihnen Ihre Police sofort neu zusenden.
+Wenn Sie Ihre Versicherungsnummer haben und die Notfallhotline anrufen können, ist das alles, was Sie brauchen. Geben Sie Ihre Versicherungsnummer und persönliche Daten per Telefon an und sie bestätigen Ihre Deckung. Haben Sie Sicherungskopien gespeichert (digitale Fotos, Cloud-Kopien oder handschriftliche Notizen), nutzen Sie diese. Versicherer können Ihren Schutz in der Regel anhand Ihrer Versicherungsnummer bestätigen und Ihnen die Unterlagen erneut zusenden.
 
 ### Welche Abschnitte einer Reiseversicherungspolice muss ich tatsächlich lesen?
 
@@ -166,7 +166,7 @@ Konzentrieren Sie sich auf: Deckungsübersicht oder Plan (Ihre Auszahlungsgrenze
 
 ### Funktioniert Reiseversicherung in jedem Land, in das ich reise?
 
-Reiseversicherung schützt Sie in den meisten Ländern weltweit während Ihrer Reise, aber einige Policen schließen bestimmte Ziele, Regionen oder Aktivitäten aus. Prüfen Sie den Abschnitt über geografische Deckung in Ihrer Police auf Ausschlüsse. Solange Ihr Ziel nicht ausdrücklich ausgeschlossen ist, deckt Sie die Police ab, unabhängig davon, welches Land die Police ausgestellt hat. Hochrisiko-Aktivitäten (Bergsteigen, Profisport) können separate Ausschlüsse haben.
+Reiseversicherung schützt Sie in den meisten Ländern weltweit während Ihrer Reise, aber einige Policen schließen bestimmte Ziele, Regionen oder Aktivitäten aus. Prüfen Sie den Abschnitt über geografische Deckung in Ihrer Police auf Ausschlüsse. Der Schutz hängt von der Police ab. Prüfen Sie im Abschnitt zur geografischen Deckung, welche Ziele ausgeschlossen sind. Hochrisiko-Aktivitäten (Bergsteigen, Profisport) können separate Ausschlüsse haben.
 
 ## Verwandte Artikel
 

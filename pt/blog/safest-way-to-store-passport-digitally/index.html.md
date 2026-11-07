@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/pt/blog/safest-way-to-store-passport-dig
 ## Pontos Principais
 
 - **iCloud Photos (com Advanced Data Protection)** oferece encriptação de ponta a ponta mas ainda liga as suas cópias de passaporte à sua conta Apple ID.
-- **Google Photos** não é encriptado de ponta a ponta por padrão e indexa o seu conteúdo, tornando-o menos adequado para documentos de identidade sensíveis.
+- **Google Photos** não é descrito pelo Google como encriptado de ponta a ponta e indexa o seu conteúdo, tornando-o menos adequado para documentos de identidade sensíveis.
 - **Aplicações encriptadas dedicadas** armazenam dados de passaporte no dispositivo com encriptação AES-256, não requerem conta ou envio para a cloud, e funcionam offline. Esta é a opção mais segura.
 - Cada abordagem envolve compensações entre conveniência e segurança que deve compreender antes de escolher.
 - O método mais seguro depende da sua tolerância de risco pessoal, mas uma cópia digital do seu passaporte merece o mesmo cuidado que o original.
@@ -26,7 +26,7 @@ O iCloud Photos sincroniza automaticamente as suas fotografias entre o seu iPhon
 
 ### Sincroniza automaticamente, mas a encriptação de ponta a ponta é opcional
 
-As fotografias que tira enviam-se para o iCloud e encriptam com uma chave derivada do seu Apple ID. Se ativar Advanced Data Protection (a camada de encriptação de ponta a ponta opcional da Apple), as suas fotografias são encriptadas nos servidores da Apple usando chaves que apenas você tem. Nem a Apple pode desencriptá-las.
+As fotografias que tira são enviadas para o iCloud e encriptadas em trânsito e nos servidores da Apple, com as chaves na posse da Apple. Se ativar Advanced Data Protection (a camada de encriptação de ponta a ponta opcional da Apple), as suas fotografias são encriptadas nos servidores da Apple usando chaves que apenas você tem. Nem a Apple pode desencriptá-las.
 
 ### O que fica protegido e o que continua a depender da Apple
 
@@ -39,7 +39,7 @@ As fotografias que tira enviam-se para o iCloud e encriptam com uma chave deriva
 
 Para conveniência, o iCloud Photos brilha: a cópia do seu passaporte sincroniza automaticamente em todos os seus dispositivos Apple e persiste se perder o seu telemóvel. Ativar Advanced Data Protection adiciona encriptação de ponta a ponta que nem a Apple pode contornar, o que melhora significativamente a segurança em comparação com o armazenamento padrão de iCloud.
 
-Contudo, a cópia do seu passaporte fica ligada à sua conta Apple ID, criando um potencial ponto único de falha que se estende por todos os seus dados de iCloud. Se alguém comprometer a sua conta Apple ID através de uma senha fraca, reutilização de credenciais ou engenharia social, ganha acesso a tudo na sua conta iCloud, incluindo as suas digitalizações de passaporte. Também está a confiar na segurança operacional da Apple, o que significa que qualquer violação dos seus sistemas exporia os seus dados nos seus servidores, embora a Apple seja geralmente considerada uma guardiã de segurança forte.
+Contudo, a cópia do seu passaporte fica ligada à sua conta Apple ID, criando um potencial ponto único de falha que se estende por todos os seus dados de iCloud. Se alguém comprometer a sua conta Apple ID através de uma senha fraca, reutilização de credenciais ou engenharia social, pode ter acesso a grande parte da sua conta iCloud e, sem Advanced Data Protection, isso inclui as digitalizações do passaporte. Também está a confiar na segurança operacional da Apple: sem Advanced Data Protection, a Apple detém as chaves das fotografias nos seus servidores, pelo que uma violação desses sistemas poderia, em princípio, expô-las. Com esta proteção ativada, as chaves ficam nos seus dispositivos.
 
 ## Opção 2: Google Photos
 
@@ -49,9 +49,9 @@ Google Photos é o serviço equivalente do Google, oferecendo cópia de seguran�
 
 As fotografias enviam-se para os servidores do Google e são encriptadas em trânsito. O Google processa as fotografias para funcionalidades como Pesquisa, Lens e recomendações, o que requer análise de conteúdo de imagem.
 
-### Sem encriptação de ponta a ponta por predefinição
+### Não descrito como encriptado de ponta a ponta
 
-- **Encriptado de ponta a ponta por padrão:** Não. Google Photos usa encriptação em trânsito mas não de ponta a ponta. O Google pode desencriptar e ver as suas fotografias.
+- **Encriptado de ponta a ponta:** O Google não o descreve assim. Descreve encriptação em trânsito e em repouso, mas não descreve o Photos como encriptado de ponta a ponta. Os sistemas do Google podem processar as suas fotografias.
 - **Análise de conteúdo:** O Google indexa e analisa conteúdo de fotografias para funcionalidades e recomendações.
 - **Requer conta:** Sim, a sua conta Google.
 - **Envio para a cloud:** Sim, automático.
@@ -59,11 +59,11 @@ As fotografias enviam-se para os servidores do Google e são encriptadas em trâ
 
 ### Boa integração, proteção mais fraca para documentos sensíveis
 
-Google Photos oferece integração profunda com Android, opções de armazenamento grátis, e capacidades poderosas de pesquisa, o que é apelativo para conveniência. Contudo, as desvantagens de segurança para documentos sensíveis são mais significativas: Google Photos não usa encriptação de ponta a ponta por padrão, significando que o Google pode tecnicamente aceder às suas fotografias, e as suas digitalizações de passaporte são processadas pelos sistemas de análise de conteúdo do Google. Considerando que o Google experienciou incidentes de segurança no passado, e considerando que documentos de identidade requerem proteção especialmente cuidadosa, Google Photos torna-se uma escolha menos segura do que alternativas quando prioriza a proteção de dados sensíveis.
+Google Photos oferece integração profunda com Android, uma capacidade gratuita partilhada por toda a sua conta Google, e capacidades poderosas de pesquisa, o que é apelativo para conveniência. Contudo, as desvantagens de segurança para documentos sensíveis são mais significativas: o Google não descreve o Photos como encriptado de ponta a ponta, pelo que os seus sistemas podem processar as suas fotografias, e as suas digitalizações de passaporte são processadas pelos sistemas de análise de conteúdo do Google. Os documentos de identidade requerem proteção especialmente cuidadosa, pelo que Google Photos torna-se uma escolha menos segura do que alternativas quando prioriza a proteção de dados sensíveis.
 
 O que isto significa na prática
 
-Se a sua conta Google for comprometida, alguém com acesso pode recuperar as suas digitalizações de passaporte da sua biblioteca de fotografias. Porque o Google indexa estas fotografias para pesquisa, as imagens são processadas por sistemas automatizados e armazenadas em várias localizações através da infraestrutura do Google, aumentando a área de superfície para exposição.
+Se a sua conta Google for comprometida, alguém com acesso pode recuperar as suas digitalizações de passaporte da sua biblioteca de fotografias. Porque o Google indexa estas fotografias para pesquisa, as imagens são processadas por sistemas automatizados e, por isso, a sua segurança depende da conta que as guarda.
 
 ## Opção 3: Aplicações Encriptadas Dedicadas
 
@@ -124,11 +124,11 @@ Qualquer que seja o método que escolha, lembre que uma cópia digital do seu pa
 
 ### O iCloud Photos é seguro para guardar cópias de passaportes?
 
-O iCloud Photos com Advanced Data Protection ativa encriptação de ponta a ponta, o que é mais seguro do que o armazenamento padrão de iCloud. Contudo, as suas digitalizações de passaporte continuam encriptadas e armazenadas nos servidores da Apple, criando uma superfície de falha compartilhada com o seu Apple ID. Se a sua conta Apple ID for comprometida, um atacante ganha acesso a tudo na sua conta iCloud. Para documentos de identidade, isto representa risco adicional em comparação com mantê-los apenas no seu dispositivo.
+O iCloud Photos com Advanced Data Protection ativa encriptação de ponta a ponta, o que é mais seguro do que o armazenamento padrão de iCloud. Contudo, as suas digitalizações de passaporte continuam encriptadas e armazenadas nos servidores da Apple, criando uma superfície de falha compartilhada com o seu Apple ID. Se a sua conta Apple ID for comprometida, um atacante pode ter acesso a grande parte da sua conta iCloud e, sem Advanced Data Protection, isso inclui as digitalizações do passaporte. Para documentos de identidade, isto representa risco adicional em comparação com mantê-los apenas no seu dispositivo.
 
 ### Por que o Google Photos não é recomendado para armazenamento de passaportes?
 
-Google Photos não é encriptado de ponta a ponta por padrão. O Google indexa e analisa o conteúdo de fotografias para funcionalidades como pesquisa e organização, significando que as suas imagens de passaporte são processadas pelos sistemas do Google. Historicamente, o Google também experienciou incidentes de segurança. Para documentos de identidade sensíveis, esta combinação de falta padrão de encriptação E2E e análise de conteúdo torna o Google Photos uma escolha menos segura do que alternativas.
+O Google não descreve o Photos como encriptado de ponta a ponta. O Google indexa e analisa o conteúdo de fotografias para funcionalidades como pesquisa e organização, significando que as suas imagens de passaporte são processadas pelos sistemas do Google. Para documentos de identidade sensíveis, esta combinação de ausência de encriptação E2E descrita pelo fornecedor e análise de conteúdo torna o Google Photos uma escolha menos segura do que alternativas.
 
 ### Quais são as vantagens de uma aplicação encriptada dedicada para armazenamento de passaportes?
 
@@ -140,7 +140,7 @@ Sim. Muitas pessoas mantêm uma cópia digitalizada no iCloud ou Google Photos p
 
 ### Qual é o melhor método de armazenamento para uma família com vários viajantes?
 
-Para famílias, uma aplicação encriptada dedicada que guarda documentos para várias pessoas sob uma conta, sem envio para a cloud, normalmente oferece o melhor equilíbrio entre segurança e conveniência. Isto permite a um progenitor ou tutor gerir os documentos de passaporte de todos os membros da família sem exigir que cada pessoa tenha uma aplicação ou conta de cloud separada, mantendo documentos sensíveis fora de servidores externos.
+Para famílias, uma aplicação encriptada dedicada que guarda documentos para várias pessoas numa só aplicação, sem conta, sem envio para a cloud, normalmente oferece o melhor equilíbrio entre segurança e conveniência. Isto permite a um progenitor ou tutor gerir os documentos de passaporte de todos os membros da família sem exigir que cada pessoa tenha uma aplicação ou conta de cloud separada, mantendo documentos sensíveis fora de servidores externos.
 
 ## Artigos Relacionados
 

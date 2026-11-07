@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/it/blog/travel-document-checklist/
 ## Punti Chiave
 
 - L'elenco di controllo dei documenti di viaggio più utile è organizzato per **quando ha bisogno di agire** — non per tipo di documento. L'ordinamento per fase significa che rileva i problemi mentre c'è ancora tempo per risolverli.
-- I passaporti devono essere controllati al momento della prenotazione, non la sera prima. Un passaporto che scade tra sette mesi può farle rifiutare al gate per le destinazioni più popolari.
+- I passaporti devono essere controllati al momento della prenotazione, non la sera prima. Un passaporto con meno di sei mesi di validità può causare il rifiuto dell’imbarco per alcune destinazioni: controlli il requisito esatto della Sua destinazione al momento della prenotazione.
 - I viaggi in famiglia aggiungono un livello separato: ogni figlio ha bisogno che i suoi documenti vengano controllati individualmente, e potrebbe essere necessaria una lettera di consenso dei genitori se uno dei genitori non sta viaggiando.
 - I viaggiatori d'affari spesso portano più passaporti e visti di lavoro — questi hanno bisogno di una loro traccia separata, separata dai documenti personali.
 - Una copia di backup digitale di ogni documento (crittografata, non nella sua libreria fotografica) potrebbe farla tornare a casa più velocemente se qualcosa va male all'estero.
@@ -26,7 +26,7 @@ L'errore più grande che i viaggiatori commettono è trattare il momento della p
 
 **Controllare i passaporti prima di pagare**
 
-Prima di confermare una prenotazione, controllare il passaporto di ogni viaggiatore rispetto a tre criteri: validità (soddisfa i requisiti della destinazione — molti paesi richiedono sei mesi oltre la data di partenza, non solo la data di arrivo, come spiegato nella nostra [guida alla regola del passaporto di 6 mesi](https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/)), corrispondenza del nome (il nome sul passaporto deve corrispondere esattamente al nome della prenotazione) e pagine vuote (alcuni paesi richiedono almeno due pagine di visto vuote per i timbri di ingresso).
+Prima di confermare una prenotazione, controllare il passaporto di ogni viaggiatore rispetto a tre criteri: validità (soddisfa i requisiti della destinazione — molti paesi richiedono sei mesi di validità il giorno dell’arrivo, mentre alcuni contano dalla partenza: controlli la Sua destinazione, come spiegato nella nostra [guida alla regola del passaporto di 6 mesi](https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/)), corrispondenza del nome (il nome sul passaporto deve corrispondere esattamente al nome della prenotazione) e pagine vuote (alcuni paesi richiedono almeno due pagine di visto vuote per i timbri di ingresso).
 
 **Controllare i requisiti di visto**
 
@@ -40,13 +40,13 @@ Prenota l'assicurazione di viaggio quando prenota i voli, non una settimana prim
 
 ## Tre Mesi Prima: Se Rinnovo o Visto Sono Vicini, Parti Subito
 
-A questo punto ha ancora tempo per risolvere le cose. I tempi di rinnovo cambiano, e ogni autorità pubblica la propria cifra attuale: il Dipartimento di Stato americano, l'HM Passport Office e l'Ufficio Passaporti Australiano. Controlli sempre il sito ufficiale per i tempi attuali prima di presentare la domanda.
+A questo punto ha ancora tempo per risolvere le cose. I tempi di rinnovo cambiano, e l’autorità passaporti del Suo paese pubblica i tempi attuali. Controlli sempre il sito ufficiale per i tempi attuali prima di presentare la domanda.
 
-Qualsiasi passaporto che scada entro 12 mesi: avvii il processo di rinnovo adesso. I passaporti dei bambini scadono più velocemente — 5 anni nella maggior parte dei paesi rispetto ai 10 per gli adulti — e i genitori frequentemente perdono la finestra. Per i richiedenti della Nuova Zelanda, controllare l'Ufficio Passaporti della Nuova Zelanda per le scadenze attuali; la domanda aumenta nel periodo precedente all'estate.
+Qualsiasi passaporto che scada entro 12 mesi: avvii il processo di rinnovo adesso. I passaporti dei bambini scadono più velocemente — nel Regno Unito durano 5 anni rispetto ai 10 per gli adulti, e diversi altri paesi seguono lo stesso criterio — e i genitori frequentemente perdono la finestra. Per i richiedenti della Nuova Zelanda, controllare l'Ufficio Passaporti della Nuova Zelanda per i tempi attuali.
 
 Invia qualsiasi domanda di visto con una finestra di elaborazione di quattro o più settimane. Prepara i documenti di supporto: estratti conto, conferme di alloggio, prova di viaggio successivo. Prenota un appuntamento per i dati biometrici in anticipo se il visto lo richiede.
 
-Per le famiglie: se un figlio sta viaggiando con un solo genitore o un altro adulto, prepara una lettera di consenso per il viaggio dei minori adesso. Includi il nome completo e la data di nascita del minore, i dettagli di contatto di entrambi i genitori, le date di viaggio, le destinazioni e la firma del genitore assente. Una copia certificata è più convincente all'immigrazione e vale il passo aggiuntivo.
+Per le famiglie: se un figlio sta viaggiando con un solo genitore o un altro adulto, prepara una lettera di consenso per il viaggio dei minori adesso. Includi il nome completo e la data di nascita del minore, i dettagli di contatto di entrambi i genitori, le date di viaggio, le destinazioni e la firma del genitore assente. Alcune destinazioni chiedono anche l’autenticazione della lettera: controlli le regole d’ingresso.
 
 ## Un Mese Prima: Confermare e Consolidare
 
@@ -105,8 +105,8 @@ Diversi viaggi hanno bisogno di diversi set di documenti, come mostra la tabella
 | Visto (se richiesto) | | ogni membro | aziendale | Affari: confermare che il visto è nel passaporto corretto |
 | Assicurazione di viaggio | | tutti coperti | controllare che il datore di lavoro la copra | Confermare la copertura prima di ogni viaggio, non solo all'acquisto |
 | Conferme di prenotazione | | | | Copia offline (non fare affidamento sull'accesso alla posta elettronica alle frontiere) |
-| Lettera di consenso del minore | N/D | se applicabile | N/D | Richiesto in molti paesi se un genitore è assente |
-| Certificati di nascita | N/D | se richiesto | N/D | Alcuni paesi lo richiedono per i minori sotto i 18 anni |
+| Lettera di consenso del minore | N/D | se applicabile | N/D | Chiesta in alcuni paesi se un genitore è assente |
+| Certificati di nascita | N/D | se richiesto | N/D | Alcuni paesi lo chiedono per i minori sotto i 18 anni |
 | Lettera di autorizzazione al lavoro | N/D | N/D | se richiesto | Alcune destinazioni richiedono lettere del datore di lavoro per i viaggiatori d'affari |
 
 Se un viaggio è già prenotato, l'unica cosa che vale la pena fare oggi è prendere ogni passaporto coinvolto e controllarne la scadenza rispetto al requisito della destinazione, non solo rispetto alle date del viaggio.
@@ -129,7 +129,7 @@ Sì. La scadenza del passaporto di ogni persona, i requisiti di visto e la coper
 
 ### Che cos'è una lettera di consenso per il viaggio dei minori e ne ho bisogno?
 
-Una lettera di consenso per il viaggio dei minori è un documento firmato dal genitore assente che concede il permesso al minore di viaggiare. Paesi come Canada, Sudafrica, Messico e molti altri la richiedono regolarmente quando un minore viaggia con un solo genitore. Senza di essa corre il rischio di ritardi o diniego di ingresso. La lettera dovrebbe includere i dettagli del minore, le informazioni di contatto di entrambi i genitori, le date di viaggio, le destinazioni e la firma del genitore assente.
+Una lettera di consenso per il viaggio dei minori è un documento firmato dal genitore assente che concede il permesso al minore di viaggiare. Alcuni paesi, tra cui il Sudafrica, prevedono requisiti aggiuntivi per i minori che viaggiano con un solo genitore, mentre le autorità canadesi consigliano una lettera di consenso firmata. Senza una lettera potrebbe dover rispondere a domande aggiuntive o subire ritardi. La lettera dovrebbe includere i dettagli del minore, le informazioni di contatto di entrambi i genitori, le date di viaggio, le destinazioni e la firma del genitore assente.
 
 ### Quali documenti devo tenere accessibili in aeroporto e non nel bagaglio da stiva?
 

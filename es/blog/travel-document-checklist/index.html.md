@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/es/blog/travel-document-checklist/
 ## Puntos clave
 
 - La lista de verificación de documentos de viaje más útil se organiza por **cuándo necesitas actuar** —no por tipo de documento. Ordenar por etapa significa que detectas problemas mientras aún hay tiempo para solucionarlos.
-- Los pasaportes necesitan verificarse en el momento de la reserva, no la noche anterior. Un pasaporte que caduca en siete meses puede impedir tu entrada en la puerta de embarque para destinos populares.
+- Los pasaportes necesitan verificarse en el momento de la reserva, no la noche anterior. Un pasaporte con menos de seis meses de validez puede impedirte viajar a algunos destinos, así que comprueba la cifra exacta del tuyo al reservar.
 - Los viajes en familia añaden una capa extra: cada hijo necesita que se verifiquen sus documentos individualmente, y puede ser necesaria una carta de consentimiento de los padres si uno de ellos no viaja.
 - Los viajeros de negocio a menudo llevan múltiples pasaportes y visados de trabajo —estos necesitan seguimiento propio, separado de los documentos personales.
 - Una copia de seguridad digital de cada documento (cifrada, no en tu biblioteca de fotos) podría hacerte llegar a casa más rápido si algo sale mal en el extranjero.
@@ -26,7 +26,7 @@ El mayor error que cometen los viajeros es tratar el momento de la reserva como 
 
 **Verifica tus pasaportes antes de pagar**
 
-Antes de confirmar cualquier reserva, verifica el pasaporte de cada viajero contra tres criterios: validez (¿cumple los requisitos del destino —muchos países requieren seis meses más allá de tu fecha de salida, no solo tu fecha de llegada, como se explica en nuestra [guía sobre la regla de los 6 meses de pasaporte](https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/)), coincidencia de nombre (el nombre del pasaporte debe coincidir exactamente con el nombre de la reserva) y páginas en blanco (algunos países requieren al menos dos páginas de visado en blanco para los sellos de entrada).
+Antes de confirmar cualquier reserva, verifica el pasaporte de cada viajero contra tres criterios: validez (¿cumple los requisitos del destino —muchos países piden seis meses de validez el día de tu llegada y unos pocos cuentan desde la salida, así que comprueba tu destino, como se explica en nuestra [guía sobre la regla de los 6 meses de pasaporte](https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/)), coincidencia de nombre (el nombre del pasaporte debe coincidir exactamente con el nombre de la reserva) y páginas en blanco (algunos países requieren al menos dos páginas de visado en blanco para los sellos de entrada).
 
 **Verifica tus requisitos de visado**
 
@@ -40,13 +40,13 @@ Reserva el seguro de viaje cuando reservas vuelos, no una semana antes de la sal
 
 ## Tres meses antes: si la renovación o un visado están cerca, empieza ya
 
-En este punto todavía tienes tiempo para arreglarlo. Los tiempos de renovación cambian, y cada autoridad publica su propia cifra actualizada: el Departamento de Estado de EE.UU., el HM Passport Office y la Oficina de Pasaportes Australiana. Siempre verifica el sitio oficial para los tiempos actuales antes de solicitar.
+En este punto todavía tienes tiempo para arreglarlo. Los tiempos de renovación cambian, y la autoridad de pasaportes de tu país publica su propia cifra actualizada. Siempre verifica el sitio oficial para los tiempos actuales antes de solicitar.
 
-Cualquier pasaporte que caduca dentro de 12 meses: comienza el proceso de renovación ahora. Los pasaportes de niños caducan más rápido —5 años en la mayoría de países versus 10 para adultos— y los padres frecuentemente pierden la ventana. Para solicitantes de Nueva Zelanda, verifica la Oficina de Pasaportes de Nueva Zelanda para plazos actuales; la demanda se dispara en el período previo al verano.
+Renovaríamos ahora cualquier pasaporte que caduque dentro de 12 meses. Los pasaportes de niños caducan más rápido (los pasaportes infantiles británicos duran 5 años, frente a 10 los de adultos, y varios otros países funcionan igual) y los padres frecuentemente pierden la ventana. Para solicitantes de Nueva Zelanda, verifica la Oficina de Pasaportes de Nueva Zelanda para plazos actuales.
 
 Presenta cualquier solicitud de visado que necesite tiempo de tramitación, y consulta con la autoridad emisora cuánto tarda actualmente. Prepara documentos de apoyo: extractos bancarios, confirmaciones de alojamiento, prueba de viaje futuro. Reserva una cita de biometría con anticipación si el visado lo requiere.
 
-Para familias: si un niño viaja con solo un progenitor u otro adulto, prepara una carta de consentimiento de viaje para menores ahora. Incluye el nombre completo y fecha de nacimiento del niño, detalles de contacto de ambos progenitores, fechas de viaje, destinos y la firma del progenitor ausente. Una copia notariada es más convincente en inmigración y vale el paso extra.
+Para familias: si un niño viaja con solo un progenitor u otro adulto, prepara una carta de consentimiento de viaje para menores ahora. Incluye el nombre completo y fecha de nacimiento del niño, detalles de contacto de ambos progenitores, fechas de viaje, destinos y la firma del progenitor ausente. Algunos destinos piden además que la carta esté notariada, así que consulta las normas de entrada.
 
 ## Un mes antes: Confirmar y consolidar
 
@@ -105,8 +105,8 @@ Los diferentes viajes necesitan diferentes conjuntos de documentos, como muestra
 | Visado (si se requiere) | | cada miembro | corporativo | Negocio: confirma que el visado está en el pasaporte correcto |
 | Seguro de viaje | | todos cubiertos | verifica que tu empleador te cubre | Confirma cobertura antes de cada viaje, no solo en la compra |
 | Confirmaciones de reserva | | | | Copia sin conexión (no confíes en acceso a correo en fronteras) |
-| Carta de consentimiento de menores | N/A | si corresponde | N/A | Requerida en muchos países si uno de los progenitores está ausente |
-| Certificados de nacimiento | N/A | si se requiere | N/A | Algunos países requieren para menores menores de 18 años |
+| Carta de consentimiento de menores | N/A | si corresponde | N/A | Se pide en algunos países si uno de los progenitores está ausente |
+| Certificados de nacimiento | N/A | si se requiere | N/A | Algunos países lo piden para menores de 18 años |
 | Carta de autorización de trabajo | N/A | N/A | si se requiere | Algunos destinos requieren cartas del empleador para viajeros de negocio |
 
 Si ya tienes un viaje reservado, lo más útil que puedes hacer hoy es sacar cada pasaporte implicado y comprobar su fecha de caducidad frente al requisito del destino, no solo frente a las fechas de tu viaje.
@@ -129,7 +129,7 @@ Sí. La caducidad del pasaporte de cada persona, los requisitos de visado y la c
 
 ### ¿Qué es una carta de consentimiento de viaje para menores y la necesito?
 
-Una carta de consentimiento de viaje para menores es un documento firmado por el progenitor ausente que autoriza al menor a viajar. Países como Canadá, Sudáfrica, México y muchos otros la solicitan regularmente cuando un menor viaja con solo un progenitor. Sin ella corres riesgo de retrasos o denegación de entrada. La carta debe incluir los datos del menor, la información de contacto de ambos progenitores, fechas de viaje, destinos y la firma del progenitor ausente.
+Una carta de consentimiento de viaje para menores es un documento firmado por el progenitor ausente que autoriza al menor a viajar. Algunos países, entre ellos Sudáfrica, imponen requisitos adicionales a los menores que viajan con un solo progenitor, y las autoridades canadienses recomiendan llevar una carta de consentimiento firmada. Sin ella puedes enfrentarte a preguntas adicionales o retrasos. La carta debe incluir los datos del menor, la información de contacto de ambos progenitores, fechas de viaje, destinos y la firma del progenitor ausente.
 
 ### ¿Qué documentos debo mantener accesibles en el aeropuerto y no en el equipaje de bodega?
 

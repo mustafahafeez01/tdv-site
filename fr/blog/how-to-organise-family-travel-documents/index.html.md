@@ -26,7 +26,7 @@ Ce guide couvre l'ensemble du système; pour approfondir un point précis, comme
 
 Cela dépend de votre destination, mais pour la plupart des voyages internationaux en famille, la liste est plus longue que les gens ne s'y attendent. Voici la liste de contrôle des documents de voyage fondamentale pour les familles, en commençant par les documents d'identité dont tout le monde a besoin:
 
-- Passeports pour tous les membres de la famille (vérifiez la validité au moins 3 mois avant le voyage)
+- Passeports pour tous les membres de la famille (vérifiez la validité selon les conditions d'entrée de la destination bien avant de réserver ; nous commencerions trois mois à l'avance)
 - Visas, s'ils sont exigés par le pays de destination
 - Cartes d'identité nationales si elles sont acceptées à la place des passeports (voyages Schengen pour les citoyens de l'UE)
 
@@ -45,9 +45,9 @@ Cela dépend de votre destination, mais pour la plupart des voyages internationa
 
 ### Lettre de consentement pour enfants: quand en avez-vous besoin?
 
-Une lettre de consentement pour enfants est un document signé par le parent absent (ou tuteur légal) donnant la permission à l'enfant de voyager. Elle n'est pas universellement exigée par la loi, mais les agents d'immigration dans de nombreux pays — y compris les États-Unis, le Canada, le Mexique et plusieurs autres — la demandent régulièrement lorsqu'un enfant voyage avec un seul parent ou avec un autre adulte.
+Une lettre de consentement pour enfants est un document signé par le parent absent (ou tuteur légal) donnant la permission à l'enfant de voyager. Elle n'est généralement pas imposée par la loi, mais les agents frontaliers de certains pays, dont le Canada, peuvent demander une preuve de l'accord des deux parents lorsqu'un enfant voyage avec un seul parent ou un autre adulte. Facile à emporter, elle peut vous éviter des questions à la frontière.
 
-Sans elle, vous pouvez faire face à des retards, des questions supplémentaires, ou dans certains cas, une entrée refusée. Certains pays, comme le Canada et l'Afrique du Sud, sont connus pour demander strictement cette documentation.
+L'Afrique du Sud a ses propres règles pour les voyages avec des enfants, notamment concernant l'acte de naissance intégral : consultez les indications de son ministère de l'Intérieur avant de partir.
 
 Une lettre de consentement valide doit inclure: le nom complet et la date de naissance de l'enfant, les noms et coordonnées des deux parents, les détails du parent voyageant, le ou les destination(s) et les dates de voyage, et la signature du parent absent (les copies notariées sont plus convaincantes, bien que pas toujours obligatoires). Gardez une copie numérique ainsi qu'une copie physique.
 
@@ -57,7 +57,7 @@ Une lettre de consentement valide doit inclure: le nom complet et la date de nai
 
 - Permis de conduire international (si vous louez une voiture à l'étranger)
 - Dossiers médicaux ou détails de prescription pour les conditions chroniques
-- Carte d'assurance maladie européenne (EHIC) pour les voyageurs européens
+- Carte européenne d'assurance maladie (EHIC), si vous êtes couvert par un régime d'assurance maladie de l'UE
 
 ## Organisation physique: où conserver les originaux
 
@@ -95,7 +95,7 @@ Voici le modèle d'échec qui attrape les familles: vous renouvelez votre propre
 
 - **Rappels de calendrier:** Définissez-en un 12 mois avant chaque expiration de document et un autre à 6 mois. Vous devrez vous souvenir de mettre à jour ces derniers lorsque les documents sont renouvelés, et vous devez avoir accès aux dates d'expiration en premier lieu.
 - **Feuille de calcul:** Fonctionne bien si vous la maintenez réellement. Une ligne par document par personne, la date d'expiration, et une formule qui met en évidence tout ce qui expire dans les 12 mois.
-- **Application dédiée:** Travel Document Vault programme des rappels de passeport dès huit mois avant l’expiration, puis à intervalles plus rapprochés. Scannez un passeport et confirmez ou saisissez sa date d’expiration ; les rappels sont activés par défaut.
+- **Application dédiée:** Travel Document Vault programme des rappels de passeport dès huit mois avant l’expiration, puis à intervalles plus rapprochés. Scannez un passeport et confirmez ou saisissez sa date d’expiration ; vous choisissez d’activer ou non les rappels.
 
 N'importe laquelle de ces trois approches fonctionne, mais nous choisirions par défaut celle qui envoie le rappel automatiquement, car une feuille de calcul n'aide que si vous pensez à l'ouvrir. Ce qui compte avant tout est de choisir celle qui correspond à votre fonctionnement et de vous y tenir réellement.
 
@@ -140,7 +140,7 @@ Les copies numériques sont des sauvegardes utiles mais ne remplaceront pas les 
 
 ### Quel est le meilleur moyen d'organiser les passeports en famille?
 
-Gardez tous les passeports ensemble dans un portefeuille de voyage dédié ou une pochette de documents, au même endroit à la maison à chaque fois. Sauvegardez-les avec des numérisations numériques sécurisées, et définissez des rappels d'expiration individuels pour chaque passeport afin que rien ne vous surprenne.
+Vous n'êtes pas forcément tenu d'en avoir une, mais elle est vivement recommandée. Les agents frontaliers de certains pays, comme le Canada, peuvent demander une lettre de consentement lorsqu'un enfant voyage avec un seul parent. Sans elle, vous pouvez avoir à répondre à davantage de questions. La lettre doit inclure les informations de l'enfant, les coordonnées des deux parents, les dates et destinations du voyage et la signature du parent absent — idéalement notariée.
 
 ### Combien de temps à l'avance dois-je vérifier les documents de voyage?
 
@@ -148,7 +148,7 @@ Vérifiez avant de réserver les vols — et au minimum trois mois avant de voya
 
 ### Ai-je besoin d'une lettre de consentement si je voyage seul avec mon enfant?
 
-Vous pourriez ne pas être légalement obligé d'en avoir une, mais c'est fortement recommandé. Les agents d'immigration dans des pays comme le Canada, l'Afrique du Sud, le Mexique et de nombreux autres demandent régulièrement une lettre de consentement pour enfants lorsqu'un enfant voyage avec un seul parent. Sans elle, vous risquez des retards, des questions ou une entrée refusée. La lettre doit inclure les détails de l'enfant, les coordonnées des deux parents, les dates de voyage, les destinations et la signature du parent absent — idéalement notariée.
+Vous pourriez ne pas être légalement obligé d'en avoir une, mais c'est fortement recommandé. Les agents frontaliers de certains pays, comme le Canada, peuvent demander une lettre de consentement pour enfants lorsqu'un enfant voyage avec un seul parent. Sans elle, vous pouvez avoir à répondre à davantage de questions. La lettre doit inclure les détails de l'enfant, les coordonnées des deux parents, les dates de voyage, les destinations et la signature du parent absent — idéalement notariée.
 
 ## Articles associés
 

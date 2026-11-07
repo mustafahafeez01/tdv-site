@@ -12,7 +12,7 @@ Estava na imigração quando o funcionário olhou para o passaporte da minha fil
 
 "Sabe que este expira em sete meses, pois não?" disse ele. "Só para ter em conta, alguns países não o deixam entrar com menos de seis meses de validade."
 
-Agradeci-lhe. Estávamos bem, por pouco. Mas durante toda a viagem não parei de pensar: se ele não tivesse dito nada, eu nunca teria reparado. Sete meses pareciam tempo mais do que suficiente. Tinha verificado o passaporte antes de reservar. Simplesmente esqueci por completo a regra dos seis meses que a maioria dos países aplica.
+Agradeci-lhe. Estávamos bem, por pouco. Mas durante toda a viagem não parei de pensar: se ele não tivesse dito nada, eu nunca teria reparado. Sete meses pareciam tempo mais do que suficiente. Tinha verificado o passaporte antes de reservar. Simplesmente esqueci por completo a regra dos seis meses que muitos países aplicam.
 
 Esse susto ficou comigo. Já tinha configurado lembretes no calendário para as datas de validade dos passaportes de toda a família. Pensei que era suficiente. Mas não estava a verificar realmente as datas, estava apenas a confiar nos lembretes. E quando alguém renovava o passaporte, tinha de atualizar o lembrete, atualizar o digitalizador no Google Drive, e esperar não me ter esquecido de nada.
 
@@ -68,11 +68,11 @@ Autorizações de trabalho se viver no estrangeiro. Vistos e cartões de residê
 
 Todos têm datas de validade. Todos são importantes no momento menos oportuno. Ninguém o avisa até ser tarde demais, ou já estar na embaixada a perceber que o seu visto expirou no mês passado.
 
-A aplicação trata de todos eles. Tudo o que tenha uma data de validade, passaportes, vistos, autorizações de trabalho, seguros, cartas de condução, o que a sua família precisar, num único lugar, rastreado, organizado.
+A aplicação trata de todos eles. Passaportes, vistos, documentos de identificação e seguros têm os seus próprios tipos de documento, e tudo o resto com data de validade, como uma autorização de trabalho ou uma carta de condução, fica em Outros, num único lugar, rastreado, organizado.
 
 ## Quando as coisas correm mal no estrangeiro
 
-Todos os dias há passaportes perdidos ou roubados no estrangeiro, e substituir um a partir de outro país é um processo moroso. Se isso lhe acontecer no estrangeiro, não está a começar do zero.
+Há passaportes que se perdem ou são roubados no estrangeiro, e substituir um a partir de outro país é um processo moroso. Se isso lhe acontecer no estrangeiro, não está a começar do zero.
 
 Números de documentos, datas de validade, digitalizações nítidas, tudo pronto quando precisar de apresentar uma queixa ou contactar uma embaixada. Não substitui os originais, mas dá-lhe o que precisa para avançar rapidamente. Sem Wi-Fi, sem pânico.
 

@@ -13,7 +13,7 @@ Source: https://traveldocumentvault.com/fr/blog/schengen-passport-rules-family-t
 - La véritable règle de Schengen est **3 mois de validité au-delà de la date de départ**, plus un passeport délivré au cours des 10 dernières années — ce n'est pas la « règle des 6 mois ».
 - **Les passeports des enfants expirent en 5 ans**, donc les passeports d'une famille se désynchronisent et la date la plus proche décide du voyage.
 - Les **passeports britanniques antérieurs à octobre 2018 avec mois supplémentaires** peuvent échouer au test de délivrance de 10 ans même si le livret semble toujours valide.
-- Les compagnies aériennes vérifient chaque passeport par rapport à **la base de données Timatic de l'IATA** à l'enregistrement — pas d'arrondi, pas de dérogation, et un passeport défaillant immobilise la famille.
+- Les compagnies aériennes vérifient généralement les passeports à l'aide de **la base de données Timatic de l'IATA** à l'enregistrement, et un seul passeport non conforme peut immobiliser la famille.
 - **Auditez chaque passeport le jour de la réservation**, pas la semaine du vol. Cinq minutes au moment de la réservation, c'est tout ce qu'il faut.
 
 Réserver un voyage en famille en Europe commence généralement de la même façon : vous vérifiez votre propre passeport, voyez qu'il vous reste des années de validité, et vous confirmez. Le problème arrive quelques semaines plus tard, quand quelqu'un ouvre enfin le tiroir et découvre que le passeport d'un enfant — émis sur une horloge plus courte que la vôtre — expire plus tôt que prévu. Personne n'envoie une lettre d'avertissement aux parents à ce sujet. Le comptoir d'enregistrement livre la nouvelle à la place.
@@ -38,24 +38,21 @@ Notre guide sur [la règle des 6 mois](https://traveldocumentvault.com/fr/blog/p
 
 ## Les passeports des enfants fonctionnent sur une horloge plus rapide
 
-Les passeports pour adultes durent généralement 10 ans ; pour les enfants, seulement cinq ans. Cette asymétrie est l'endroit où de nombreux plans par ailleurs soigneux s'effondrent.
+Au Royaume-Uni, les passeports pour adultes sont valables 10 ans, contre cinq ans seulement pour ceux des enfants. Cette asymétrie est l'endroit où de nombreux plans par ailleurs soigneux s'effondrent.
 
 | Pays | Passeports des enfants | Validité |
 |---|---|---|
-| États-Unis | Moins de 16 ans | 5 ans |
-| Royaume-Uni | Tous les enfants | 5 ans |
-| Canada | Moins de 16 ans | 5 ans |
-| Australie | Tous les enfants | 5 ans |
+| Royaume-Uni | Moins de 16 ans | 5 ans |
 
-Sources : Département d'État américain, GOV.UK, Canada.ca, Bureau des passeports australiens.
+Source pour le Royaume-Uni : GOV.UK. Pour les autres pays, vérifiez auprès de votre autorité de passeport.
 
 Une famille de quatre personnes fonctionne donc selon quatre calendriers d'expiration différents. La date la plus proche décide si le voyage se fera. Deux adultes renouvelés ensemble s'éloigneront des documents de leurs enfants en quelques années — ce qui est exactement pourquoi vérifier votre propre passeport vous dit presque rien sur la disponibilité de la famille.
 
-Pour les familles américaines, il y a un problème supplémentaire : le passeport d'un enfant ne peut pas être renouvelé par courrier. Chaque renouvellement nécessite une nouvelle demande en personne, et le délai de traitement change — le Département d'État américain publie le chiffre actuel, consultez-le donc avant de planifier, en plus des délais d'expédition dans les deux sens. Ce qui est gérable en mars devient rapidement un vrai problème juste avant le départ. Les familles britanniques l'ont un peu plus facile : consultez simplement les délais actuels de traitement avant de réserver et prévoyez du temps supplémentaire si des informations sont nécessaires.
+Pour les familles américaines, il y a un problème supplémentaire : le renouvellement d'un passeport d'enfant peut nécessiter une demande en personne et prendre plusieurs semaines. Vérifiez donc les règles et délais actuels de votre autorité de passeport avant de réserver. Ce qui est gérable en mars devient rapidement un vrai problème juste avant le départ. Les familles britanniques l'ont un peu plus facile : consultez simplement les délais actuels de traitement avant de réserver et prévoyez du temps supplémentaire si des informations sont nécessaires.
 
 ## Réalité de l'enregistrement : Timatic n'arrondit pas
 
-Quoi que la frontière tolère, vous rencontrerez les règles plus tôt que cela — à l'enregistrement. Les compagnies aériennes valident chaque passeport par rapport à la base de données Timatic de l'IATA, qui applique exactement les exigences d'entrée de chaque destination. Si votre date de retour exige une validité jusqu'au 20 novembre et qu'un passeport expire le 15 novembre, le système dit non. Il n'y a pas de « c'est assez proche » et pas de dérogation — les compagnies aériennes qui font embarquer un passager inadmissible doivent le ramener chez elles à ses propres frais.
+Quoi que la frontière tolère, vous rencontrerez les règles plus tôt que cela — à l'enregistrement. Les compagnies aériennes vérifient généralement les passeports à l'aide de la base de données Timatic de l'IATA, qui répertorie les conditions d'entrée de chaque destination. Si votre date de retour exige une validité jusqu'au 20 novembre et qu'un passeport expire le 15 novembre, le système dit non. Attendez-vous à un refus à l'enregistrement.
 
 Un passeport défaillant isole rarement une personne ; il immobilise la famille. Peu de parents enverront trois membres en avant et laisseront quelqu'un au comptoir, donc en pratique l'ensemble de la réservation se fait rebooker ou annuler.
 
@@ -77,11 +74,11 @@ Ce sont deux règles distinctes pour des destinations différentes. Des pays com
 
 ### Les enfants doivent-ils suivre des règles différentes pour le passeport Schengen?
 
-Non. Les enfants ont besoin des mêmes 3 mois de validité au-delà du départ et de la même condition de délivrance dans les 10 dernières années que les adultes. Ce qui diffère, c'est le passeport lui-même : la plupart des pays délivrent les passeports des enfants pour 5 ans au lieu de 10, donc le document d'un enfant atteint ces limites bien plus tôt que celui d'un parent.
+Non. Les enfants ont besoin des mêmes 3 mois de validité au-delà du départ et de la même condition de délivrance dans les 10 dernières années que les adultes. Ce qui diffère, c'est le passeport lui-même : de nombreux pays, dont le Royaume-Uni, délivrent les passeports des enfants pour 5 ans au lieu de 10, donc le document d'un enfant atteint ces limites bien plus tôt que celui d'un parent.
 
 ### Quand faut-il renouveler le passeport d'un enfant avant un voyage?
 
-Dès la réservation, vérifiez que le passeport aura encore 3 mois de validité au-delà de la date de votre retour. Si ce n'est pas le cas, commencez immédiatement. Vérifiez les délais actuels de traitement au Royaume-Uni et prévoyez du temps supplémentaire si la demande nécessite plus d'informations. Le délai de traitement aux États-Unis change ; consultez le chiffre actuel auprès du Département d'État américain, en plus des délais d'expédition. Les familles britanniques ont un peu plus de chance : consultez simplement les délais actuels de traitement avant de réserver et laissez du temps supplémentaire si des informations sont nécessaires.
+Dès la réservation, vérifiez que le passeport aura encore 3 mois de validité au-delà de la date de votre retour. Si ce n'est pas le cas, commencez immédiatement. Vérifiez les délais actuels de traitement au Royaume-Uni et prévoyez du temps supplémentaire si la demande nécessite plus d'informations. Vérifiez les délais actuels de votre autorité de passeport.
 
 ### Pouvons-nous voler pendant que le renouvellement du passeport d'un enfant est en cours?
 
@@ -89,7 +86,7 @@ Non. Vous avez besoin du passeport physique en main pour monter à bord d'un vol
 
 ### Que se passe-t-il à l'enregistrement si un passeport n'est pas conforme?
 
-Les compagnies aériennes vérifient chaque passeport par rapport à la base de données Timatic de l'IATA, qui applique exactement les règles d'entrée de la destination, sans arrondi ni dérogation. Si un membre de la famille échoue au contrôle, cette personne ne peut pas embarquer — ce qui en pratique signifie généralement rebooker ou annuler tout le voyage.
+Les compagnies aériennes vérifient généralement les passeports à l'aide de la base de données Timatic de l'IATA, qui répertorie les conditions d'entrée de chaque destination. Si un membre de la famille échoue au contrôle, cette personne ne peut pas embarquer — en pratique, les familles choisissent généralement de réserver à nouveau plutôt que de se séparer.
 
 ## Articles connexes
 

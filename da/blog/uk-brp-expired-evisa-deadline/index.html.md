@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/da/blog/uk-brp-expired-evisa-deadline/
 - Hvert barn skal have **sin egen konto**, som en forælder kan administrere med sit eget telefonnummer og sin egen mail.
 - For at rejse skal det pas, du flyver på, være på din UKVI-konto, med oplysninger der matcher din booking.
 
-De fleste, der har et udløbet Biometric Residence Permit (BRP, biometrisk opholdstilladelse), skal kun gøre én ting: oprette en konto hos UK Visas and Immigration (UKVI, det britiske udlændinge- og indvandringskontor), og bruge kortet til at bekræfte deres identitet. Det er klaret i én omgang, og det udløbne kort fungerer stadig til det, i hvert fald et stykke tid. Din opholdsstatus er ikke ændret. Det, der er ændret, er hvor den findes.
+Hvis du har et udløbet Biometric Residence Permit (BRP, biometrisk opholdstilladelse) og stadig har tilladelse til at blive, beder GOV.UK dig oprette en konto hos UK Visas and Immigration (UKVI, det britiske udlændinge- og indvandringskontor) og bruge kortet til at bekræfte din identitet. Det er klaret i én omgang, og det udløbne kort fungerer stadig til det, i hvert fald et stykke tid. Din opholdsstatus er ikke ændret. Det, der er ændret, er hvor den findes.
 
 ![Diagram over, hvor længe et udløbet BRP stadig fungerer: i 24 måneder efter den trykte udløbsdato eller indtil 31. december 2026, alt efter hvad der kommer først. I den periode kan det stadig bruges til at logge ind og få en share code, oprette en UKVI-konto, eller ansøge om at forlænge sin tilladelse til at blive](https://traveldocumentvault.com/blog/uk-brp-expired-evisa-deadline/brp-window-da.jpg) To datoer, og den tidligste er din.
 
@@ -58,7 +58,7 @@ Når dit barn fylder 18, bør kontooplysningerne overføres til deres egen telef
 
 ## For at rejse skal det pas, du flyver på, være på din UKVI-konto
 
-GOV.UK er direkte om dette: du skal rejse med et gyldigt pas eller rejsedokument, som du har tilføjet til din UKVI-konto. Dit eVisa kontrolleres, når du forlader Storbritannien, når du kommer tilbage (også ved eGates), og af flyselskabet eller en anden transportør ved check-in. Disse kontroller aflæser dit eVisa via passet på din konto. Hvis oplysningerne på din konto ikke nøjagtigt matcher de passageroplysninger, du gav transportøren, kan transportøren afvise at lade dig rejse, og du kan også blive holdt tilbage ved den britiske grænse.
+GOV.UK er direkte om dette: du skal rejse med et gyldigt pas eller rejsedokument, som du har tilføjet til din UKVI-konto. Dit eVisa kontrolleres, når du forlader og rejser ind i Storbritannien, af en grænsebetjent eller ved eGates, og når du tjekker ind hos din transportør for at rejse tilbage til Storbritannien. Disse kontroller aflæser dit eVisa via passet på din konto. Hvis oplysningerne på din konto ikke nøjagtigt matcher de passageroplysninger, du gav transportøren, kan transportøren afvise at lade dig rejse, og du kan også blive holdt tilbage ved den britiske grænse.
 
 Før en rejse, log ind, bekræft at passet på kontoen er det, du skal rejse med, og få en share code. En kode gælder i 90 dage og kan bruges mere end én gang, og et flyselskab eller en grænsebetjent kan bede om at se den. Vi ville hente den før booking, ikke i køen i lufthavnen.
 
@@ -88,7 +88,7 @@ Hvert barn skal have sin egen UKVI-konto for at nå sit eVisa, ifølge GOV.UK, s
 
 ### Hvad skal jeg bruge for at rejse med et eVisa?
 
-Et gyldigt pas, som du har tilføjet til din UKVI-konto, med oplysninger der nøjagtigt matcher det, du giver flyselskabet. Dit eVisa kontrolleres, når du forlader Storbritannien, når du kommer tilbage inklusive ved eGates, og ved check-in hos transportøren. En share code gælder i 90 dage og kan bruges mere end én gang.
+Et gyldigt pas, som du har tilføjet til din UKVI-konto, med oplysninger der nøjagtigt matcher det, du giver flyselskabet. Dit eVisa kontrolleres, når du forlader og rejser ind i Storbritannien, af en grænsebetjent eller ved eGates, og når du tjekker ind hos din transportør for at rejse tilbage til Storbritannien. En share code gælder i 90 dage og kan bruges mere end én gang.
 
 ## Relaterede artikler
 

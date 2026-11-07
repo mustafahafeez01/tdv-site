@@ -39,7 +39,7 @@ Una violazione di un'app sul dispositivo non fa trapelare nulla dai loro server 
 
 ### Il tempo di preavviso è l'impostazione da personalizzare
 
-Questa è la singola funzionalità più preziosa. Un promemoria a 6 mesi è il minimo — molti paesi richiedono che il passaporto sia valido per almeno 6 mesi oltre le date di viaggio, come spiegato nel nostro articolo sulla [regola dei 6 mesi del passaporto](https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/). Per le famiglie con bambini, i cui passaporti scadono dopo 5 anni anziché 10, un promemoria precedente — diciamo 9 mesi — dà un tempo di pianificazione più confortevole.
+Questa è la singola funzionalità più preziosa. Un promemoria a 6 mesi è il minimo — molti paesi richiedono che il passaporto sia valido per almeno 6 mesi oltre le date di viaggio, come spiegato nel nostro articolo sulla [regola dei 6 mesi del passaporto](https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/). I passaporti dei bambini durano spesso 5 anni anziché 10 (quello britannico, ad esempio, è valido per 5 anni), quindi un promemoria precedente — diciamo 9 mesi — dà un tempo di pianificazione più confortevole.
 
 ### Una sola app può contenere tutta la famiglia, in sicurezza
 
@@ -70,7 +70,7 @@ Prima di scaricare, chiediti se l'app richiede un account, carica scansioni su u
 | Richiede internet per visualizzare i documenti | Fallisce quando hai più bisogno — a un confine o in transito |
 | Nessuna politica sulla privacy o politica vaga | Non sai che cosa succede alle tue scansioni |
 | Archiviazione solo su cloud senza opzione sul dispositivo | Una violazione del server espone i dati del passaporto di tutti gli utenti |
-| Prezzi di abbonamento per funzionalità di base | Le commissioni mensili creano pressione per annullare — e perdere accesso ai tuoi documenti |
+| Prezzi di abbonamento per funzionalità di base | Le commissioni mensili creano pressione per annullare e, in alcune app, la disdetta blocca l’accesso ai documenti |
 
 Che cosa significa in pratica
 
@@ -78,9 +78,9 @@ Sei a un valico di confine, il telefono offline, e l'agente di immigrazione ti c
 
 ## Controlla Cosa Succede ai Tuoi Documenti se un Abbonamento Scade
 
-C'è un argomento pratico per le app con acquisto una tantum rispetto agli abbonamenti quando si tratta di archiviazione di documenti. Se dimentichi di rinnovare un abbonamento — o semplicemente decidi di annullare — perdi l'accesso ai tuoi documenti archiviati. È un accordo rischioso per qualcosa di cui potresti aver bisogno anni da ora.
+C'è un argomento pratico per le app con acquisto una tantum rispetto agli abbonamenti quando si tratta di archiviazione di documenti. Con alcune app in abbonamento, dimenticare il rinnovo — o decidere di annullare — può significare perdere l’accesso ai documenti archiviati. È un accordo rischioso per qualcosa di cui potresti aver bisogno anni da ora.
 
-Un'app con acquisto una tantum, al contrario, rimane completamente funzionale indefinitamente. Paghi una volta e l'app continua a funzionare indipendentemente da se lo sviluppatore la sta ancora monetizzando attivamente.
+Un’app con acquisto una tantum, al contrario, non ha una data di rinnovo che possa bloccarti l’accesso. Paghi una volta e i documenti restano sul dispositivo, accessibili come prima.
 
 ## Come Travel Document Vault Affronta Questo
 
@@ -124,7 +124,7 @@ Le migliori app di organizzazione passaporti sono progettate per funzionare comp
 
 ### Quanto tempo prima dovrebbe avvisarti un'app di passaporto di rinnovare?
 
-Come minimo, 6 mesi prima della scadenza, poiché molti paesi richiedono che il passaporto sia valido per almeno 6 mesi oltre la data di partenza. Una buona app ti consente di impostare i tempi dei promemoria da solo. Per le famiglie con bambini, i cui passaporti scadono dopo 5 anni, l'impostazione dei promemoria a 9 mesi dà un tempo di pianificazione più confortevole.
+Come minimo, 6 mesi prima della scadenza, poiché molti paesi richiedono che il passaporto sia valido per almeno 6 mesi oltre la data di partenza. Una buona app ti consente di impostare i tempi dei promemoria da solo. Per le famiglie con bambini, i cui passaporti scadono spesso dopo 5 anni, l'impostazione dei promemoria a 9 mesi dà un tempo di pianificazione più confortevole.
 
 ### Quali documenti dovrebbe supportare una buona app di organizzazione passaporti?
 

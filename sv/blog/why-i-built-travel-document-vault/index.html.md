@@ -12,7 +12,7 @@ Jag stod vid gränskontrollen när tjänstemannen tittade på min dotters pass, 
 
 "Vet du att det löper ut om sju månader?" sa han. "Bara så du vet – en del länder släpper inte in dig med mindre än sex månaders giltighetstid kvar."
 
-Jag tackade honom. Vi klarade oss – precis. Men hela resan gick mina tankar tillbaka till det: om han inte hade sagt något hade jag aldrig märkt det. Sju månader verkade som gott om tid. Jag hade kollat passet innan jag bokade. Jag hade bara fullständigt glömt bort sexmånadersregeln som de flesta länder tillämpar.
+Jag tackade honom. Vi klarade oss – precis. Men hela resan gick mina tankar tillbaka till det: om han inte hade sagt något hade jag aldrig märkt det. Sju månader verkade som gott om tid. Jag hade kollat passet innan jag bokade. Jag hade bara fullständigt glömt bort sexmånadersregeln som många länder tillämpar.
 
 Den nära miss-situationen satt kvar i minnet. Jag hade redan ställt in kalenderpåminnelser för allas passets utgångsdatum. Jag trodde det räckte. Men jag kontrollerade egentligen inte datumen – jag litade bara på påminnelserna. Och när någons pass förnyades var jag tvungen att uppdatera påminnelsen, uppdatera skanningen i Google Drive och hoppas att jag inte missat något.
 
@@ -68,11 +68,11 @@ Arbetstillstånd om du bor utomlands. Visum och uppehållstillstånd som behöve
 
 De har alla utgångsdatum. De spelar alla roll vid exakt fel tillfälle. Ingen påminner dig förrän det är för sent – eller du redan står på ambassaden och inser att ditt visum löpte ut förra månaden.
 
-Appen hanterar dem alla. Allt med ett utgångsdatum – pass, visum, arbetstillstånd, försäkring, körkort, vad din familj än behöver – ett ställe, spårat, sorterat.
+Appen hanterar dem alla. Pass, visum, ID-handlingar och försäkringar har egna dokumenttyper, och allt annat med ett utgångsdatum, som ett arbetstillstånd eller ett körkort, hamnar under Övrigt – ett ställe, spårat, sorterat.
 
 ## När det går fel utomlands
 
-Pass tappas bort och blir stulna utomlands varje dag, och att ersätta ett från ett annat land är en långsam process. Om det händer dig utomlands börjar du inte från noll.
+Pass tappas bort och blir stulna utomlands, och att ersätta ett från ett annat land är en långsam process. Om det händer dig utomlands börjar du inte från noll.
 
 Dokumentnummer, utgångsdatum, tydliga kopior – allt klart när du behöver göra en anmälan eller kontakta en ambassad. Det ersätter inte originalen, men det ger dig det du behöver för att komma vidare snabbt. Ingen Wi-Fi, ingen panik.
 

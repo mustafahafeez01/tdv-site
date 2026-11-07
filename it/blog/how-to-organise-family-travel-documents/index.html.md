@@ -26,7 +26,7 @@ Questa guida copre l'intero sistema; per approfondire un aspetto specifico, come
 
 Dipende da dove stai andando, ma per la maggior parte dei viaggi internazionali in famiglia l'elenco è più lungo di quanto le persone si aspettino. Ecco l'elenco di controllo fondamentale dei documenti di viaggio per le famiglie, a partire dai documenti di identità che servono a tutti:
 
-- Passaporti per ogni membro della famiglia (verifica la validità almeno 3 mesi prima del viaggio)
+- Passaporti per ogni membro della famiglia (verifica la validità rispetto alle regole d’ingresso della destinazione molto prima di prenotare; noi inizieremmo tre mesi prima)
 - Visti, se richiesti dal paese di destinazione
 - Carte d'identità nazionali se accettate al posto dei passaporti (viaggi Schengen per cittadini dell'UE)
 
@@ -45,9 +45,9 @@ Dipende da dove stai andando, ma per la maggior parte dei viaggi internazionali 
 
 ### Lettera di consenso al viaggio del minore: quando è necessaria
 
-Una lettera di consenso al viaggio del minore è un documento firmato dal genitore assente (o tutore legale) che autorizza il bambino a viaggiare. Non è universalmente obbligatoria per legge, ma gli agenti dell'immigrazione in molti paesi, inclusi gli USA, il Canada, il Messico e molti altri, la richiedono abitualmente quando un bambino viaggia con un solo genitore o con un altro adulto.
+Una lettera di consenso al viaggio del minore è un documento firmato dal genitore assente (o tutore legale) che autorizza il bambino a viaggiare. Generalmente non è un obbligo di legge, ma gli agenti di frontiera di alcuni paesi, tra cui il Canada, possono chiedere la prova che entrambi i genitori acconsentano al viaggio quando un bambino viaggia con un solo genitore o con un altro adulto. È facile da portare e può risparmiarti domande alla frontiera.
 
-Senza una lettera potresti affrontare ritardi, interrogatori aggiuntivi o, in alcuni casi, negazione dell'ingresso. Alcuni paesi, come il Canada e il Sudafrica, sono noti per richiedere rigorosamente questa documentazione.
+Il Sudafrica ha regole proprie sui viaggi con bambini, tra cui il certificato di nascita integrale: controlla le indicazioni del suo Ministero dell’Interno prima di partire.
 
 Una lettera di consenso valida dovrebbe includere: il nome completo e la data di nascita del bambino, i nomi e i dati di contatto di entrambi i genitori, i dati del genitore che viaggia, le destinazioni e le date di viaggio e la firma del genitore assente (le copie autenticate da notaio sono più convincenti, anche se non sempre richieste). Conserva una copia sia digitale che fisica.
 
@@ -57,7 +57,7 @@ Una lettera di consenso valida dovrebbe includere: il nome completo e la data di
 
 - Patente internazionale (se stai noleggiando un'auto all'estero)
 - Cartelle cliniche o dettagli dei farmaci per condizioni continuative
-- Tessera sanitaria europea (EHIC) per i viaggiatori dell'UE
+- Tessera sanitaria europea (EHIC), se sei coperto da un sistema sanitario dell’UE
 
 ## Organizzazione fisica: dove conservare i documenti originali
 
@@ -95,7 +95,7 @@ Ecco il modello di fallimento che cattura le famiglie: rinnovi il tuo passaporto
 
 - **Promemoria del calendario:** Impostane uno 12 mesi prima di ogni scadenza del documento e un altro a 6 mesi. Dovrai ricordare di aggiornare questi quando i documenti vengono rinnovati e hai bisogno che le date di scadenza siano accessibili in primo luogo.
 - **Foglio di calcolo:** Funziona bene se lo manterrai effettivamente. Una riga per documento per persona, la data di scadenza e una formula che evidenzia tutto ciò che scade entro 12 mesi.
-- **App dedicata:** Travel Document Vault programma promemoria per i passaporti a partire da otto mesi prima della scadenza, con avvisi a intervalli più ravvicinati. Scansiona un passaporto e conferma o inserisci la data di scadenza; i promemoria sono attivi per impostazione predefinita.
+- **App dedicata:** Travel Document Vault programma promemoria per i passaporti a partire da otto mesi prima della scadenza, con avvisi a intervalli più ravvicinati. Scansiona un passaporto e conferma o inserisci la data di scadenza; scegli tu se attivare i promemoria.
 
 Uno qualsiasi di questi tre approcci funziona, ma noi useremmo di default quello che manda il promemoria in automatico, perché un foglio di calcolo serve solo se ti ricordi di aprirlo. Ciò che conta di più è sceglierne uno che si adatti al tuo modo di operare e rispettarlo davvero.
 
@@ -148,7 +148,7 @@ Verifica prima di prenotare i voli e almeno tre mesi prima di viaggiare. I rinno
 
 ### Ho bisogno di una lettera di consenso quando viaggio da solo con il mio bambino?
 
-Potrebbe non essere legalmente richiesto, ma è fortemente consigliato. Gli agenti dell'immigrazione in paesi come il Canada, il Sudafrica, il Messico e molti altri richiedono abitualmente una lettera di consenso al viaggio del minore quando un bambino viaggia con un solo genitore. Senza una lettera rischi ritardi, interrogatori o negazione dell'ingresso. La lettera dovrebbe includere i dati del bambino, le informazioni di contatto di entrambi i genitori, le date e le destinazioni del viaggio e la firma del genitore assente — se possibile autenticata da notaio.
+Potrebbe non essere legalmente richiesto, ma è fortemente consigliato. Gli agenti di frontiera di alcuni paesi, come il Canada, possono chiedere una lettera di consenso al viaggio del minore quando un bambino viaggia con un solo genitore. Senza una lettera potresti dover rispondere a domande aggiuntive. La lettera dovrebbe includere i dati del bambino, le informazioni di contatto di entrambi i genitori, le date e le destinazioni del viaggio e la firma del genitore assente — se possibile autenticata da notaio.
 
 ## Articoli correlati
 

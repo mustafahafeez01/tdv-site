@@ -10,21 +10,21 @@ Source: https://traveldocumentvault.com/id/blog/tripcase-alternative/
 
 ## Poin Penting
 
-- **TripCase berhenti beroperasi pada 1 April 2025** setelah 12 tahun, dan Sabre menghapus seluruh sisa data perjalanan pengguna setelah jendela ekspor ditutup pada 30 Juni 2025.
-- Fitur **Document Vault** — satu tempat aman untuk paspor, visa, dan boarding pass — adalah fitur yang paling dirindukan mantan pengguna.
+- **TripCase berhenti beroperasi pada 1 April 2025** dan pemberitahuan Sabre memberi pengguna waktu hingga 30 Juni 2025 untuk mengunduh perjalanan mereka sebelum sisa data dihapus.
+- Fitur **Document Vault** — satu tempat aman untuk paspor, visa, dan boarding pass — adalah fitur yang sering disebut mantan pengguna.
 - **Tidak ada satu aplikasi pun yang menggantikan TripCase sepenuhnya.** Notifikasi penerbangan, parsing itinerary, dan penyimpanan dokumen kini tersebar di berbagai alat berbeda.
-- Pelajaran sesungguhnya: layanan cloud gratis membuat **data Anda berada dalam waktu pinjaman**. Layanan itu bisa lenyap dengan pemberitahuan sekitar 60 hari.
+- Pelajaran sesungguhnya: layanan cloud gratis membuat **data Anda berada dalam waktu pinjaman**. Layanan itu bisa lenyap dengan pemberitahuan beberapa bulan.
 - Dokumen perjalanan sebaiknya **luring, di perangkat Anda sendiri** — di tempat yang tidak bisa dijangkau oleh keputusan perusahaan, gangguan, atau penutupan layanan.
 
-TripCase menghabiskan dua belas tahun sebagai kuda pekerja diam-diam dunia aplikasi perjalanan. Teruskan satu email konfirmasi, dan itinerary Anda langsung tersusun sendiri; aplikasi ini mengabari Anda tentang perubahan gerbang bahkan sebelum sebagian maskapai melakukannya; dan Document Vault-nya menyimpan paspor, visa, serta boarding pass di satu tempat. Kemudian, pada 1 April 2025, Sabre menghentikan layanan tersebut, dan begitu jendela ekspor ditutup pada 30 Juni, seluruh sisa riwayat perjalanan dan dokumen setiap pengguna dihapus dari servernya.
+TripCase menghabiskan bertahun-tahun sebagai kuda pekerja diam-diam dunia aplikasi perjalanan. Teruskan satu email konfirmasi, dan itinerary Anda langsung tersusun sendiri; aplikasi ini mengabari Anda tentang perubahan gerbang bahkan sebelum sebagian maskapai melakukannya; dan Document Vault-nya menyimpan paspor, visa, serta boarding pass di satu tempat. Kemudian, pada 1 April 2025, Sabre menghentikan layanan tersebut, dan menurut pemberitahuan Sabre yang dilaporkan saat itu, pengguna diberi waktu hingga 30 Juni 2025 untuk mengunduh perjalanan mereka sebelum sisa data dihapus.
 
-Lima belas bulan kemudian, mantan pengguna masih mencari penggantinya. Jawaban jujurnya adalah tidak ada satu aplikasi pun yang menggantikannya sepenuhnya. Namun cerita sebenarnya bukan soal aplikasi mana yang harus dipilih, melainkan soal di mana seharusnya dokumen Anda disimpan.
+Lebih dari setahun kemudian, belum ada satu aplikasi pun yang menggantikannya. Jawaban jujurnya adalah tidak ada satu aplikasi pun yang menggantikannya sepenuhnya. Namun cerita sebenarnya bukan soal aplikasi mana yang harus dipilih, melainkan soal di mana seharusnya dokumen Anda disimpan.
 
 ## TripCase Jadi Andalan Selama Bertahun-tahun, Lalu Sabre Menutupnya
 
-TripCase telah ada sejak 2013, sebuah pendamping perjalanan gratis dari Sabre Corporation, perusahaan yang menjalankan sebagian besar sistem pemesanan maskapai dan agen perjalanan di dunia. Berkat koneksi tersebut, itinerary sering muncul otomatis di aplikasi. Selama lebih dari satu dekade, pelaku perjalanan bisnis dan keluarga mengandalkannya untuk menyatukan penerbangan, hotel, dan sewa mobil dalam satu tampilan kronologis. Tidak mewah, tetapi berfungsi.
+TripCase adalah pendamping perjalanan gratis dari Sabre Corporation, perusahaan teknologi pemesanan maskapai dan agen perjalanan yang besar. Berkat koneksi tersebut, itinerary sering muncul otomatis di aplikasi. Selama bertahun-tahun, pelaku perjalanan bisnis dan keluarga mengandalkannya untuk menyatukan penerbangan, hotel, dan sewa mobil dalam satu tampilan kronologis. Tidak mewah, tetapi berfungsi.
 
-Ketika penutupan tiba, pengguna diberi waktu hingga 30 Juni 2025 untuk mengekspor riwayat mereka. Banyak pengguna menggambarkan proses ekspor sebagai membingungkan dan tidak lengkap, dan sebagian baru menyadari terlambat bahwa catatan perjalanan bertahun-tahun tidak ikut terekspor. Setelah jendela ekspor ditutup pada 30 Juni 2025, Sabre menghapus semua sisa data perjalanan dan pelancong, dan data itu tidak bisa dipulihkan lagi.
+Ketika penutupan tiba, pengguna diberi waktu hingga 30 Juni 2025 untuk mengekspor riwayat mereka. Sebagian pengguna menggambarkan proses ekspor sebagai membingungkan atau tidak lengkap. Sabre menyatakan akan menghapus sisa data setelah jendela pengunduhan, sehingga apa pun yang tidak Anda ekspor kemungkinan besar tidak bisa dipulihkan.
 
 ## Apa yang Sebenarnya Hilang dari Pengguna TripCase
 
@@ -32,15 +32,15 @@ TripCase tidak menciptakan banyak hal baru, tetapi menyempurnakan sejumlah alur 
 
 Intinya adalah **parsing email konfirmasi menjadi itinerary** — teruskan konfirmasi apa pun dari maskapai, hotel, atau sewa mobil, dan aplikasi menyusunnya menjadi perjalanan kronologis lengkap dengan tanggal dan nomor referensi pemesanan. Nol input manual berarti itinerary lengkap dalam hitungan detik, dan itulah tepatnya alasan orang bertahan selama satu dekade.
 
-**Notifikasi penerbangan secara real-time** hadir bersamaan: keterlambatan, perubahan gerbang, dan pembatalan, seringkali lebih cepat dari notifikasi resmi maskapai itu sendiri. TripIt kini mengenakan biaya untuk tingkat Pro-nya demi fitur setara, sementara TripCase menawarkan fitur tersebut gratis untuk semua orang.
+**Notifikasi penerbangan secara real-time** hadir bersamaan: keterlambatan dan perubahan gerbang, seringkali lebih cepat dari notifikasi resmi maskapai itu sendiri. TripIt kini mengenakan biaya untuk tingkat Pro-nya demi fitur setara.
 
-Penerbangan, hotel, dan transportasi darat itu semua hidup dalam **garis waktu perjalanan** - satu tumpukan yang bisa digulir per perjalanan. Sederhana, tetapi jika Anda pernah mengatur perjalanan multi-kota selama seminggu dari selusin email konfirmasi, Anda paham mengapa itu penting. Dalam berbagai thread forum di FlyerTalk dan tempat lain, mantan pengguna secara konsisten menyebut **Document Vault** sebagai bagian yang paling dirindukan — satu tempat aman untuk boarding pass, visa, paspor, dan konfirmasi. Terakhir, **berbagi perjalanan** memungkinkan anggota keluarga atau kolega mengikuti tanpa perlu email yang diteruskan.
+Penerbangan, hotel, dan transportasi darat itu semua hidup dalam **garis waktu perjalanan** - satu tumpukan yang bisa digulir per perjalanan. Sederhana, tetapi jika Anda pernah mengatur perjalanan multi-kota selama seminggu dari selusin email konfirmasi, Anda paham mengapa itu penting. Dalam berbagai thread forum di FlyerTalk dan tempat lain, sebagian mantan pengguna menyebut **Document Vault** di antara fitur yang mereka rindukan — satu tempat aman untuk boarding pass, visa, paspor, dan konfirmasi. Terakhir, **berbagi perjalanan** memungkinkan anggota keluarga atau kolega mengikuti tanpa perlu email yang diteruskan.
 
 ## Aplikasi Cloud Menyimpan Data Anda dengan Jam Milik Orang Lain
 
 Ketika Anda membangun kehidupan perjalanan di sekitar aplikasi cloud gratis, Anda sebenarnya menyewa ruang yang bisa diambil kembali oleh pemiliknya kapan saja.
 
-TripCase bertahan cukup lama sehingga orang memperlakukannya seolah infrastruktur permanen, mengunggah catatan dan dokumen bertahun-tahun dengan asumsi aplikasi itu akan selalu ada. Kemudian Sabre menghitung untung-ruginya, memutuskan aplikasi tersebut bukan inti bisnisnya, dan data pengguna selama satu dekade lenyap sesuai jadwal yang dipilih Sabre sendiri.
+TripCase bertahan cukup lama sehingga orang memperlakukannya seolah infrastruktur permanen, mengunggah catatan dan dokumen bertahun-tahun dengan asumsi aplikasi itu akan selalu ada. Kemudian Sabre memutuskan untuk menghentikan aplikasi tersebut, dan data pengguna hilang sesuai jadwal yang ditetapkan Sabre.
 
 Tidak ada unsur niat jahat di sini; ini murni cara keputusan bisnis bekerja. Aplikasi perjalanan tutup secara berkala, paket gratis dipindahkan ke balik dinding pembayaran, dan layanan dihentikan. Orang yang tidak punya suara dalam penentuan waktunya adalah Anda.
 
@@ -54,11 +54,11 @@ TripCase menggabungkan beberapa tugas berbeda dalam satu aplikasi gratis. Tidak 
 
 | Tugas | Yang dilakukan TripCase | Pengganti terbaik saat ini | Biaya |
 |---|---|---|---|
-| Notifikasi penerbangan | Keterlambatan, perubahan gerbang, pembatalan secara real-time | Flighty | Paket gratis; langganan berbayar tersedia |
+| Notifikasi penerbangan | Keterlambatan dan perubahan gerbang secara real-time | Flighty | Paket gratis; langganan berbayar tersedia |
 | Parsing email konfirmasi menjadi itinerary | Teruskan konfirmasi, itinerary tersusun otomatis | TripIt atau Tripsy | TripIt punya paket gratis; cek situsnya untuk harga Pro terkini |
-| Garis waktu perjalanan | Satu tampilan kronologis per perjalanan | TripIt atau Tripsy | Termasuk dalam paket di atas |
+| Garis waktu perjalanan | Satu tampilan kronologis per perjalanan | TripIt | Termasuk dalam paket di atas |
 | Penyimpanan dokumen perjalanan | Document Vault: paspor, visa, boarding pass | Travel Document Vault | Pembelian sekali bayar, tanpa langganan |
-| Berbagi perjalanan | Pengikut bisa melihat itinerary Anda secara langsung | Fitur berbagi TripIt, atau folder bersama | Gratis |
+| Berbagi perjalanan | Pengikut bisa melihat itinerary Anda secara langsung | Fitur berbagi TripIt (cek paket yang mana), atau folder bersama | Bervariasi menurut paket |
 
 Notifikasi penerbangan dan parsing itinerary adalah kemudahan, yang sungguh berguna, dan sebaiknya berada di cloud karena hanya penting selama perjalanan berlangsung. Penyimpanan dokumen berbeda: itulah satu-satunya tugas di mana kehilangan akses benar-benar merugikan Anda dengan sesuatu yang tidak bisa dijadwalkan ulang.
 
@@ -76,7 +76,7 @@ Respons yang masuk akal terhadap keruntuhan TripCase bukanlah meninggalkan alat 
 
 TripCase sudah tiada, dan fitur-fiturnya kini tersebar di berbagai aplikasi lain. Namun ada satu pelajaran yang layak diambil: dokumen perjalanan Anda seharusnya tidak ikut lenyap bersama server milik orang lain.
 
-Mulailah dengan pemeriksaan sederhana hari ini: di mana setiap hasil pindaian paspor Anda, setiap PDF visa, setiap ID anak Anda tersimpan sekarang, dan apa yang terjadi jika layanan tersebut lenyap dengan pemberitahuan 60 hari? [Daftar periksa dokumen perjalanan](https://traveldocumentvault.com/id/blog/travel-document-checklist/) kami adalah tempat praktis untuk memulai.
+Mulailah dengan pemeriksaan sederhana hari ini: di mana setiap hasil pindaian paspor Anda, setiap PDF visa, setiap ID anak Anda tersimpan sekarang, dan apa yang terjadi jika layanan tersebut lenyap dengan pemberitahuan beberapa bulan? [Daftar periksa dokumen perjalanan](https://traveldocumentvault.com/id/blog/travel-document-checklist/) kami adalah tempat praktis untuk memulai.
 
 **Sebelum Anda mengandalkan ini:** ini adalah blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 
@@ -84,15 +84,15 @@ Mulailah dengan pemeriksaan sederhana hari ini: di mana setiap hasil pindaian pa
 
 ### Kapan TripCase berhenti beroperasi?
 
-TripCase berhenti beroperasi pada 1 April 2025 setelah induk perusahaannya, Sabre Corporation, memutuskan untuk menghentikan layanan tersebut. Pengguna memiliki waktu hingga 30 Juni 2025 untuk mengekspor data perjalanan mereka sebelum semua catatan dihapus permanen dari server Sabre.
+TripCase berhenti beroperasi pada 1 April 2025 setelah induk perusahaannya, Sabre Corporation, memutuskan untuk menghentikan layanan tersebut. Menurut pemberitahuan Sabre yang dilaporkan saat itu, pengguna diberi waktu hingga 30 Juni 2025 untuk mengunduh perjalanan mereka sebelum sisa data dihapus.
 
 ### Bisakah saya mengakses data TripCase saya setelah layanan berhenti?
 
-Tidak. Sabre menghapus semua data pengguna setelah jendela ekspor ditutup pada 30 Juni 2025. Jika Anda mengekspor perjalanan Anda sebelum tanggal tersebut, Anda masih memiliki file ekspor itu, tetapi data di server Sabre sudah hilang secara permanen. Banyak pengguna melaporkan proses ekspor tidak lengkap, sehingga sebagian catatan perjalanan hilang.
+Umumnya tidak. Sabre menyatakan akan menghapus sisa data setelah jendela pengunduhan yang berlangsung hingga 30 Juni 2025. Jika Anda mengekspor perjalanan Anda sebelum tanggal tersebut, Anda masih memiliki file ekspor itu. Sebagian pengguna melaporkan proses ekspor tidak lengkap, sehingga sebagian catatan perjalanan mungkin tidak bisa dipulihkan.
 
 ### Apa alternatif TripCase terbaik untuk notifikasi penerbangan?
 
-Flighty adalah pengganti paling langsung untuk notifikasi penerbangan secara real-time. Aplikasi ini melacak keterlambatan, perubahan gerbang, dan pembatalan, serta bisa menarik data penerbangan dari kalender Anda tanpa input manual. Saat ini tersedia paket gratis, dengan langganan berbayar untuk fitur lengkap.
+Flighty adalah pengganti paling langsung untuk notifikasi penerbangan secara real-time. Aplikasi ini melacak keterlambatan dan perubahan gerbang, serta bisa menarik data penerbangan dari kalender Anda tanpa input manual. Saat ini tersedia paket gratis, dengan langganan berbayar untuk fitur lengkap.
 
 ### Apakah ada satu aplikasi yang menggantikan semua fungsi TripCase?
 

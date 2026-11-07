@@ -39,7 +39,7 @@ Ett dataintrång hos en app med lagring på enheten läcker ingenting från dera
 
 ### Förvarningstiden är den inställning som är värd att anpassa
 
-Det här är den enskilt mest värdefulla funktionen. En påminnelse vid 6 månader är minimum – många länder kräver att passet är giltigt minst 6 månader efter dina resdatum, vilket vi förklarar i vår artikel om [6-månadersregeln för pass](https://traveldocumentvault.com/sv/blog/passport-expiry-6-month-rule/). För familjer med barn, vars pass går ut efter 5 år i stället för 10, ger en tidigare påminnelse – säg 9 månader i förväg – mer bekväm tid för planering.
+Det här är den enskilt mest värdefulla funktionen. En påminnelse vid 6 månader är minimum – många länder kräver att passet är giltigt minst 6 månader efter dina resdatum, vilket vi förklarar i vår artikel om [6-månadersregeln för pass](https://traveldocumentvault.com/sv/blog/passport-expiry-6-month-rule/). Barnpass gäller ofta i 5 år i stället för 10 (ett brittiskt barnpass är till exempel giltigt i 5 år), så en tidigare påminnelse – säg 9 månader i förväg – ger mer bekväm tid för planering.
 
 ### En enda app kan rymma hela familjen, på ett säkert sätt
 
@@ -70,7 +70,7 @@ Innan du laddar ner, fråga dig om appen kräver ett konto, laddar upp skanninga
 | Kräver internet för att visa handlingar | Sviker dig precis när du behöver den som mest – vid en gräns eller under transit |
 | Ingen eller otydlig integritetspolicy | Du vet inte vad som händer med dina skanningar |
 | Enbart molnlagring utan alternativ på enheten | Ett enda dataintrång exponerar alla användares passuppgifter |
-| Prenumerationspris för grundfunktioner | Månadsavgifter skapar press att säga upp – och förlora åtkomst till dina handlingar |
+| Prenumerationspris för grundfunktioner | Månadsavgifter skapar press att säga upp, och i vissa appar kan det göra att du förlorar åtkomst till dina handlingar |
 
 Vad det betyder i praktiken
 
@@ -78,9 +78,9 @@ Du står vid en gränskontroll, telefonen är offline, och gränspolisen ber att
 
 ## Kolla vad som händer med dina handlingar om en prenumeration löper ut
 
-Det finns ett praktiskt argument för appar med engångsköp framför prenumeration när det gäller lagring av handlingar. Glömmer du att förnya en prenumeration – eller väljer att säga upp den – förlorar du åtkomst till dina lagrade handlingar. Det är en riskabel lösning för något du kanske behöver om flera år.
+Det finns ett praktiskt argument för appar med engångsköp framför prenumeration när det gäller lagring av handlingar. I vissa prenumerationsappar kan du förlora åtkomst till dina lagrade handlingar om du glömmer att förnya eller väljer att säga upp prenumerationen. Det är en riskabel lösning för något du kanske behöver om flera år.
 
-En app med engångsköp fortsätter däremot att fungera fullt ut på obestämd tid. Du betalar en gång, och appen fortsätter att fungera oavsett om utvecklaren fortfarande aktivt tjänar pengar på den.
+En app med engångsköp har däremot inget förnyelsedatum som kan låsa dig ute. Du betalar en gång, och dina handlingar stannar på enheten och går att öppna som tidigare.
 
 ## Så löser Travel Document Vault det här
 
@@ -124,7 +124,7 @@ De bästa apparna för att organisera pass är byggda för att fungera helt offl
 
 ### Hur långt i förväg bör en passapp påminna mig om förnyelse?
 
-Minst 6 månader före utgångsdatum, eftersom många länder kräver att passet är giltigt minst 6 månader efter avresedatumet. En bra app för att organisera pass låter dig själv ställa in när påminnelserna kommer. För familjer med barn, vars pass går ut efter 5 år i stället för 10, ger en tidigare påminnelse – till exempel 9 månader i förväg – mer bekväm tid för planering.
+Minst 6 månader före utgångsdatum, eftersom många länder kräver att passet är giltigt minst 6 månader efter avresedatumet. En bra app för att organisera pass låter dig själv ställa in när påminnelserna kommer. För familjer med barn, vars pass ofta går ut efter 5 år i stället för 10, ger en tidigare påminnelse – till exempel 9 månader i förväg – mer bekväm tid för planering.
 
 ### Vilka handlingar bör en bra app för att organisera pass stödja?
 

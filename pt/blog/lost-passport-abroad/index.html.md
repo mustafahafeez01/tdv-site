@@ -11,9 +11,9 @@ Source: https://traveldocumentvault.com/pt/blog/lost-passport-abroad/
 ## Pontos-Chave
 
 - Apresente um relatório de polícia desde o início — a sua seguradora normalmente vai querê-lo, e algumas embaixadas também pedem.
-- A sua embaixada ou consulado pode emitir um documento de viagem de emergência, normalmente muito mais rápido do que um passaporte de substituição. **Contacte antes** — a maioria requer uma marcação.
-- Os viajantes com uma cópia digital segura do seu passaporte obtêm documentos de substituição mais rapidamente — entregar os detalhes que a sua embaixada necessita em segundos.
-- O seguro de viagem cobre custos de substituição de passaporte na maioria das apólices abrangentes. Precisa do relatório de polícia para reclamar.
+- A sua embaixada ou consulado geralmente pode ajudar com um documento de viagem de emergência, embora nem todos os postos disponibilizem todos os serviços. **Contacte antes** — alguns exigem marcação e podem dizer-lhe quanto tempo demora no seu caso.
+- Uma cópia dos dados do passaporte pode ajudar a acelerar o processo, embora não possa ser usada como identificação.
+- Algumas apólices de seguro de viagem cobrem os custos de substituição do passaporte. Confirme a sua e guarde o relatório da polícia, que as seguradoras pedem frequentemente.
 - O momento para preparar é agora, antes de algo correr mal. Uma digitalização de cinco minutos hoje poderia economizar dias de stress no estrangeiro.
 
 Todos os dias há pessoas a substituir passaportes perdidos no estrangeiro, e as embaixadas tratam isso como trabalho de rotina, não como uma emergência. O processo tem uma ordem própria, e é seguir essa ordem que transforma uma tarde má num atraso, em vez de uma viagem cancelada. Eis o que fazer, passo a passo.
@@ -22,7 +22,7 @@ Todos os dias há pessoas a substituir passaportes perdidos no estrangeiro, e as
 
 Se está a ler isto antes da sua viagem, dedique os próximos cinco minutos a isto. Tire uma foto clara da página de dados principal de cada passaporte com que vai viajar. Guarde-a numa aplicação encriptada que funciona offline — muito mais segura do que o seu rolo de câmara e mantida totalmente privada.
 
-Quando chegar à sua embaixada, pedir-lhe-ão o número do passaporte, data de emissão, local de emissão e data de validade. Sem uma cópia, está a tentar lembrar-se destes detalhes sob stress. Com uma, entregar-lhos-á em segundos. O pessoal consular emite documentos de substituição mais rapidamente quando **chega com os detalhes já escritos**.
+Quando chegar à embaixada, geralmente ser-lhe-ão pedidos dados do passaporte, como número, data de emissão, local de emissão e data de validade. Sem uma cópia, está a tentar lembrar-se destes detalhes sob stress. Com uma, pode fornecê-los rapidamente. Uma cópia pode ajudar a acelerar o processo quando **chega com os detalhes já escritos**, embora não possa ser usada como identificação.
 
 Uma cópia no telemóvel é um registo, não uma identificação.
 
@@ -49,7 +49,7 @@ A sua embaixada ou consulado é o seu caminho para casa. Contacte-os assim que t
 - **Cidadãos australianos:** Smartraveller — passaporte perdido ou roubado
 - **Cidadãos canadianos:** Canada.ca — passaporte perdido ou roubado no estrangeiro
 
-Contacte antes de visitar. Muitas embaixadas requerem uma marcação para serviços de passaporte de emergência e podem dizer-lhe exatamente o que trazer — apresentar-se sem uma pode custar-lhe meia dia.
+Contacte antes de visitar. Algumas embaixadas exigem marcação para serviços de passaporte de emergência (o Reino Unido diz que poderá ter de comparecer a uma), e podem dizer-lhe exatamente o que trazer — apresentar-se sem uma pode custar-lhe meio dia.
 
 ## Passo 4: Solicite um Documento de Viagem de Emergência
 
@@ -62,21 +62,21 @@ O que normalmente vai precisar (confirme com a sua embaixada antes de visitar):
 - Fotos de passaporte — pergunte à sua embaixada onde obter estas localmente
 - A sua cópia digital do passaporte perdido se tiver uma
 - Prova de viagem de continuação — reserva de voo, confirmação de hotel
-- Taxa de documento de emergência — tenha dinheiro e cartão disponível
+- Taxa do documento de emergência — pergunte à embaixada como pode pagá-la
 
 ## Passo 5: Notifique a Sua Seguradora de Viagem
 
-Reporte a perda à sua seguradora de viagem o mais rapidamente possível. A maioria das apólices abrangentes cobrem custos de substituição de passaporte, taxas de passaporte de emergência e por vezes alojamento extra se ficar atrasado. Guarde todos os recibos — vai precisar deles para a reclamação, juntamente com o número de referência do relatório de polícia.
+Reporte a perda à sua seguradora de viagem o mais rapidamente possível. Algumas apólices cobrem os custos de substituição do passaporte e, por vezes, alojamento extra se ficar atrasado. Confirme a sua. Guarde todos os recibos para o pedido de reembolso, juntamente com o número do relatório da polícia, que as seguradoras pedem frequentemente.
 
 Pode fazer essa chamada mais cedo se o número da apólice e a linha de emergência 24 horas já estiverem à mão, em vez de perdidos numa caixa de correio a que não consegue aceder. O nosso guia sobre [que documentos de seguro de viagem guardar antes de partir](https://traveldocumentvault.com/pt/blog/travel-insurance-documents/) indica o que guardar offline.
 
 ## Passo 6: Verifique a Sua Situação de Visto
 
-Um visto é válido apenas para o passaporte específico em que foi emitido. Se o seu passaporte estiver perdido, o seu visto está perdido também — nem um documento de viagem de emergência o restaurará. A sua embaixada aconselhá-lo-á se o país de destino o deixará sair num DVE, fazendo referência ao visto perdido. Não assuma que pode sair — confirme com a sua embaixada antes de tentar sair.
+Se um visto estava colado ou impresso no passaporte perdido, geralmente terá de pedir orientação à embaixada e ao país emissor sobre a substituição; um documento de viagem de emergência não o transfere. A sua embaixada aconselhá-lo-á se o país de destino o deixará sair num DVE, fazendo referência ao visto perdido. Não assuma que pode sair — confirme com a sua embaixada antes de tentar sair.
 
 O que isto significa na prática
 
-Se perder um passaporte na Tailândia que contenha um visto multi-entrada válido para outro país que planeava visitar na mesma viagem, esse visto já não é utilizável. Teria de solicitar um novo visto no seu passaporte de substituição. Isto leva tempo e dinheiro que pode não ter no meio da viagem. Esta é outra razão pela qual uma cópia digital segura importa: prova que o visto existia e pode suportar uma candidatura de substituição de via rápida.
+Se perder um passaporte na Tailândia que contenha um visto multi-entrada válido para outro país que planeava visitar na mesma viagem, geralmente terá de consultar o país emissor sobre uma substituição ou um novo visto. Isto leva tempo e dinheiro que pode não ter no meio da viagem. Esta é outra razão pela qual uma cópia digital segura importa: pode ajudar a demonstrar que o visto existia.
 
 ## Passo 7: Chegue a Casa e Substitua o Seu Passaporte
 
@@ -88,11 +88,11 @@ Quando tiver o seu documento de viagem de emergência, confirme requisitos de sa
 
 ### O que devo fazer se perder o meu passaporte no estrangeiro?
 
-Apresente um relatório de polícia imediatamente, depois contacte a sua embaixada ou consulado mais próximo para solicitar um documento de viagem de emergência. Notifique a sua seguradora de viagem e guarde todos os recibos. Ter uma cópia digital segura do seu passaporte antes de viajar acelera cada passo.
+Apresente um relatório de polícia imediatamente, depois contacte a sua embaixada ou consulado mais próximo para solicitar um documento de viagem de emergência. Notifique a sua seguradora de viagem e guarde todos os recibos. Ter uma cópia digital segura do seu passaporte antes de viajar pode ajudar a acelerar o processo, embora não possa ser usada como identificação.
 
 ### Posso obter um passaporte de emergência no estrangeiro?
 
-Sim. A maioria dos países emite documentos de viagem de emergência através das suas embaixadas e consulados, normalmente válidos para uma única viagem para casa. O tempo de emissão depende da sede e da urgência do seu caso, por isso pergunte quando ligar. Contacte a sua embaixada ou consulado mais próximo o mais rapidamente possível — muitas requerem uma marcação.
+Sim. Muitos países emitem documentos de viagem de emergência através das suas embaixadas e consulados, normalmente válidos para uma única viagem para casa. O tempo de emissão depende da sede e da urgência do seu caso, por isso pergunte quando ligar. Contacte a sua embaixada ou consulado mais próximo o mais rapidamente possível — algumas exigem marcação.
 
 ### Preciso de um relatório de polícia se o meu passaporte for roubado no estrangeiro?
 
@@ -100,11 +100,11 @@ Geralmente vale a pena, embora nem todas as autoridades de passaportes o exijam.
 
 ### O seguro de viagem cobre um passaporte perdido ou roubado?
 
-A maioria das apólices de seguro de viagem abrangentes cobrem custos de substituição de passaporte incluindo taxas de passaporte de emergência, e por vezes custos de alojamento extra se ficar atrasado. Verifique a sua apólice específica para valores de cobertura. Precisará do número de referência do relatório de polícia para fazer a reclamação.
+Algumas apólices de seguro de viagem cobrem os custos de substituição do passaporte e, por vezes, alojamento extra se ficar atrasado. Verifique o que a sua apólice cobre. Guarde o número de referência do relatório da polícia, que as seguradoras pedem frequentemente.
 
 ### Como posso acelerar o processo de passaporte de emergência?
 
-Ter uma cópia digital segura do seu passaporte armazenada antes de viajar é o passo mais eficaz. A sua embaixada precisa do número do passaporte, data de emissão e local de emissão. Uma cópia digital significa que fornece estes instantaneamente em vez de tentar lembrar-se deles sob stress.
+Ter uma cópia digital segura do seu passaporte armazenada antes de viajar é uma medida útil. A embaixada geralmente pede dados do passaporte, como número, data de emissão e local de emissão. Uma cópia digital significa que pode fornecê-los rapidamente em vez de tentar lembrar-se deles sob stress.
 
 ## Artigos Relacionados
 

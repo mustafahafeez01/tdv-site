@@ -36,13 +36,13 @@ To ting ligger uden for det brev og er værd at medbringe alligevel. Pak barnets
 
 Eneforældremyndighed ændrer, hvilket dokument der betyder noget, i stedet for at fjerne behovet for et. Når en domstol har givet dig eneforældremyndighed eller enefuldt forældreansvar, er det mere nyttige papir ved grænsen ofte selve afgørelsen om forældremyndighed, eller en bekræftet kopi af den, snarere end et brev fra den anden forælder. Mange grænsemyndigheder accepterer afgørelsen i stedet for et samtykkebrev, og nogle vil alligevel se den sammen med et brev. Hvis afgørelsen giver den anden forælder samvær eller kontakt, er et brev fra den forælder stadig værd at medbringe.
 
-Rejs med afgørelsen, eller en bekræftet kopi af den. Den gør ingen gavn i et arkivskab derhjemme. Betjente, der spørger, leder som regel efter et enkelt svar på ét spørgsmål: har denne voksne den juridiske ret til at træffe denne beslutning for dette barn. En bekræftet kopi svarer på det på få sekunder, og hvis din forældremyndighedsordning for nylig er ændret, er det værd at tjekke, om din destination forventer en mere aktuel kopi end den, du har haft med i årevis.
+Rejs med afgørelsen, eller en bekræftet kopi af den. Den gør ingen gavn i et arkivskab derhjemme. Betjente, der spørger, leder som regel efter et enkelt svar på ét spørgsmål: har denne voksne den juridiske ret til at træffe denne beslutning for dette barn. En bekræftet kopi er som regel hurtig at kontrollere, og hvis din forældremyndighedsordning for nylig er ændret, er det værd at tjekke, om din destination forventer en mere aktuel kopi end den, du har haft med i årevis.
 
 ## Når den anden forælder er død: dødsattesten erstatter brevet
 
-Der er intet samtykkebrev at skrive, når den anden forælder er død, og ingen grænsevagt forventer et. Det, du medbringer i stedet, er en kopi af dødsattesten, som besvarer det spørgsmål, et samtykkebrev ellers ville besvare: hvorfor kun én forælder er med.
+Der er intet samtykkebrev at skrive, når den anden forælder er død, og de fleste grænsevagter forventer ikke et. Det, du medbringer i stedet, er en bekræftet kopi af dødsattesten, som besvarer det spørgsmål, et samtykkebrev ellers ville besvare: hvorfor kun én forælder er med.
 
-Opbevar den bekræftede kopi sammen med jeres pas frem for i en separat mappe derhjemme, for det er det eneste dokument her, du ikke hurtigt kan erstatte, hvis det bliver væk midt i rejsen. En printet kopi plus en krypteret digital backup dækker både en tabt taske og en telefon, der ikke tænder. Hvis dit barns efternavn er anderledes end dit, gør fødselsattesten det samme arbejde her, som den gør alle andre steder i denne artikel, den viser, at barnet er dit at rejse med, uanset hvilket navn der står i passet.
+Opbevar den bekræftede kopi sammen med jeres pas frem for i en separat mappe derhjemme, for det er et dokument, der kan tage tid at erstatte, hvis det bliver væk midt i rejsen. En printet kopi plus en krypteret digital backup dækker både en tabt taske og en telefon, der ikke tænder. Hvis dit barns efternavn er anderledes end dit, gør fødselsattesten det samme arbejde her, som den gør alle andre steder i denne artikel, den viser, at barnet er dit at rejse med, uanset hvilket navn der står i passet.
 
 Det praktiske svar forbliver kort: ét dokument, holdt tæt ved hånden, og en proces, der som regel går hurtigt videre, når den først er blevet vist.
 
@@ -58,15 +58,15 @@ Dit barns fulde fødselsattest, den der navngiver dig som forælder, afslutter s
 
 ## Bedsteforældre, slægtninge og værger: begge forældre skal som regel give samtykke
 
-Når en bedsteforælder, tante, onkel eller familieven rejser med et barn, og ingen af forældrene er med på turen, bliver papirerne tungere, fordi de fleste lande forventer bevis for, at begge forældre, eller begge værger, har givet samtykke til rejsen, ikke kun én. Formatet er det samme [samtykkebrev](https://traveldocumentvault.com/da/blog/child-travel-consent-letter/), som vi gennemgår fuldt ud andetsteds, men her kræves som regel begge forældres underskrifter i stedet for kun én, sammen med kontaktoplysninger for hver.
+Når en bedsteforælder, tante, onkel eller familieven rejser med et barn, og ingen af forældrene er med på turen, bliver papirerne tungere, fordi mange lande forventer bevis for, at begge forældre, eller begge værger, har givet samtykke til rejsen, ikke kun én. Formatet er det samme [samtykkebrev](https://traveldocumentvault.com/da/blog/child-travel-consent-letter/), som vi gennemgår fuldt ud andetsteds, men her kræves som regel begge forældres underskrifter i stedet for kun én, sammen med kontaktoplysninger for hver.
 
 Den ledsagende voksne bør også medbringe barnets fødselsattest og være klar til at forklare forholdet i almindelige ord, hvis der spørges, for «familieven» har en tendens til at give anledning til flere spørgsmål end «bedsteforælder», selv når begge medbringer identiske papirer. Flyselskaber kan nægte et barn ombordstigning, hvis den voksne ikke kan fremvise dette ved indtjekning, af samme grund om luftfartsselskabsansvar som beskrevet tidligere: flyselskabet beskytter sig selv mod en afvist indrejse i den anden ende, allerede før flyet er lettet.
 
 ## Hvis Der Alligevel Kommer Spørgsmål
 
-Selv med alle dokumenter i orden kan en grænsevagt eller indtjekningsmedarbejder stadig stille et par spørgsmål, og det hjælper at vide, hvad den samtale egentlig er: en kort verificering, ikke en anklage. Spørgsmålene er som regel enkle: hvor familien bor, hvordan turen kom i stand, og hvordan barnet er beslægtet med den voksne ved siden af det. Et barn, der kan svare kort med sine egne ord, får som regel tingene til at gå hurtigere end en nervøs voksen, der svarer for dem.
+Selv med alle dokumenter i orden kan en grænsevagt eller indtjekningsmedarbejder stadig stille et par spørgsmål, og det hjælper at vide, hvad den samtale egentlig er: en kort verificering, ikke en anklage. Spørgsmålene kan være enkle: hvor familien bor, hvordan turen kom i stand, og hvordan barnet er beslægtet med den voksne ved siden af det. Et barn, der kan svare kort med sine egne ord, får som regel tingene til at gå hurtigere end en nervøs voksen, der svarer for dem.
 
-Hvis et telefonnummer står på et samtykkebrev eller en afgørelse om forældremyndighed, så vær forberedt på, at det kan blive ringet op. Det opkald er rutine. At medbringe alt, der er gennemgået her, garanterer ikke nul spørgsmål, men det betyder, at når spørgsmålene kommer, har du et svar klar til hvert af dem, hvilket som regel er det, der afgør disse samtaler ved skranken.
+Hvis et telefonnummer står på et samtykkebrev eller en afgørelse om forældremyndighed, kan en betjent bruge det til at kontrollere dokumentet. At medbringe alt, der er gennemgået her, garanterer ikke nul spørgsmål, men det betyder, at når spørgsmålene kommer, har du et svar klar til hvert af dem, hvilket som regel er det, der afgør disse samtaler ved skranken.
 
 ## Én Bundt Papirer Per Situation
 
@@ -92,11 +92,11 @@ Ofte er afgørelsen om forældremyndighed eller retsafgørelsen selv det mere ny
 
 ### Hvad har jeg brug for for at rejse med mit barn, hvis den anden forælder er død?
 
-Et samtykkebrev er ikke muligt, så medbring i stedet en kopi af dødsattesten. Grænsevagter, der normalt ville spørge om den fraværende forælder, accepterer den som regel som svar. Opbevar en printet kopi sammen med jeres pas og en krypteret digital backup, og tjek din destinations vejledning før afrejse.
+Et samtykkebrev er ikke muligt, så medbring i stedet en kopi af dødsattesten. En bekræftet kopi af dødsattesten er det dokument, der med størst sandsynlighed besvarer spørgsmålet, men tjek din destinations vejledning. Opbevar en printet kopi sammen med jeres pas og en krypteret digital backup, og tjek din destinations vejledning før afrejse.
 
 ### Kan mit barn rejse til udlandet med bedsteforældre eller en anden slægtning?
 
-Ja, men de fleste lande forventer skriftligt samtykke fra begge forældre eller værger, ikke kun én. Den ledsagende voksne bør også medbringe kontaktoplysninger på begge forældre og en kopi af barnets fødselsattest. Flyselskaber kan nægte et barn ombordstigning, hvis den voksne ikke kan fremvise dette, når der spørges.
+Ja, men mange lande forventer skriftligt samtykke fra begge forældre eller værger, ikke kun én. Den ledsagende voksne bør også medbringe kontaktoplysninger på begge forældre og en kopi af barnets fødselsattest. Flyselskaber kan nægte et barn ombordstigning, hvis den voksne ikke kan fremvise dette, når der spørges.
 
 ### Kan et andet efternavn end mit barns give problemer i lufthavnen?
 

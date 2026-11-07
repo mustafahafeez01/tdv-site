@@ -36,13 +36,13 @@ Deux éléments s'ajoutent à cette lettre et méritent d'être emportés avec e
 
 La garde exclusive change le document qui compte, plutôt qu'elle ne supprime le besoin d'en avoir un. Lorsqu'un tribunal vous a accordé la garde exclusive ou l'autorité parentale exclusive, le document le plus utile à la frontière est souvent l'ordonnance de garde elle-même, ou une copie certifiée de celle-ci, plutôt qu'une lettre de l'autre parent. De nombreuses autorités frontalières acceptent l'ordonnance à la place d'une lettre de consentement, et certaines demandent à la voir en plus, dans tous les cas. Si l'ordonnance laisse à l'autre parent un droit de visite ou de contact, une lettre de sa part reste utile à emporter.
 
-Voyagez avec l'ordonnance, ou une copie certifiée de celle-ci. Elle ne sert à rien dans un classeur resté à la maison. Les agents qui posent des questions cherchent généralement une réponse simple à une seule question : cet adulte a-t-il l'autorité légale de prendre cette décision pour cet enfant. Une copie certifiée y répond en quelques secondes, et si votre situation de garde a changé récemment, il vaut la peine de vérifier si votre destination attend une copie plus récente que celle que vous emportez depuis des années.
+Voyagez avec l'ordonnance, ou une copie certifiée de celle-ci. Elle ne sert à rien dans un classeur resté à la maison. Les agents qui posent des questions cherchent généralement une réponse simple à une seule question : cet adulte a-t-il l'autorité légale de prendre cette décision pour cet enfant. Une copie certifiée est généralement rapide à vérifier, et si votre situation de garde a changé récemment, il vaut la peine de vérifier si votre destination attend une copie plus récente que celle que vous emportez depuis des années.
 
 ## Quand l'autre parent est décédé : l'acte de décès remplace la lettre
 
-Il n'y a pas de lettre de consentement à rédiger lorsque l'autre parent est décédé, et aucun agent frontalier n'en attend une. Ce que vous emportez à la place, c'est une copie de l'acte de décès, qui répond à la question à laquelle une lettre de consentement répondrait autrement : pourquoi un seul parent est présent.
+Il n'y a pas de lettre de consentement à rédiger lorsque l'autre parent est décédé, et la plupart des agents frontaliers n'en attendront pas. Ce que vous emportez à la place, c'est une copie certifiée de l'acte de décès, qui répond à la question à laquelle une lettre de consentement répondrait autrement : pourquoi un seul parent est présent.
 
-Conservez la copie certifiée avec vos passeports plutôt que dans un dossier séparé resté à la maison, car c'est le seul document ici que vous ne pourrez pas remplacer rapidement s'il venait à disparaître en cours de voyage. Une copie imprimée associée à une sauvegarde numérique chiffrée couvre à la fois le cas d'un bagage perdu et celui d'un téléphone qui ne s'allume plus. Si le nom de famille de votre enfant diffère du vôtre, l'acte de naissance joue ici le même rôle que partout ailleurs dans cet article : il montre que l'enfant est bien le vôtre, quel que soit le nom figurant sur le passeport.
+Conservez la copie certifiée avec vos passeports plutôt que dans un dossier séparé resté à la maison, car c'est un document qui peut prendre du temps à remplacer s'il venait à disparaître en cours de voyage. Une copie imprimée associée à une sauvegarde numérique chiffrée couvre à la fois le cas d'un bagage perdu et celui d'un téléphone qui ne s'allume plus. Si le nom de famille de votre enfant diffère du vôtre, l'acte de naissance joue ici le même rôle que partout ailleurs dans cet article : il montre que l'enfant est bien le vôtre, quel que soit le nom figurant sur le passeport.
 
 La réponse pratique reste courte : un seul document, gardé à portée de main, et une procédure qui, une fois ce document présenté, se conclut généralement assez vite.
 
@@ -58,15 +58,15 @@ L'acte de naissance intégral de votre enfant, celui qui vous nomme comme parent
 
 ## Grands-parents, proches et tuteurs : le consentement des deux parents est généralement requis
 
-Lorsqu'un grand-parent, une tante, un oncle ou un ami de la famille voyage avec un enfant sans qu'aucun des deux parents ne soit du voyage, les documents nécessaires s'alourdissent, car la plupart des pays attendent la preuve que les deux parents, ou les deux tuteurs légaux, ont donné leur accord, pas un seul. Le format est le même que la [lettre de consentement](https://traveldocumentvault.com/fr/blog/child-travel-consent-letter/) détaillée ailleurs sur ce site, mais ici elle doit généralement porter la signature des deux parents plutôt que d'un seul, ainsi que leurs coordonnées respectives.
+Lorsqu'un grand-parent, une tante, un oncle ou un ami de la famille voyage avec un enfant sans qu'aucun des deux parents ne soit du voyage, les documents nécessaires s'alourdissent, car de nombreux pays attendent la preuve que les deux parents, ou les deux tuteurs légaux, ont donné leur accord, pas un seul. Le format est le même que la [lettre de consentement](https://traveldocumentvault.com/fr/blog/child-travel-consent-letter/) détaillée ailleurs sur ce site, mais ici elle doit généralement porter la signature des deux parents plutôt que d'un seul, ainsi que leurs coordonnées respectives.
 
 L'adulte accompagnateur doit également emporter l'acte de naissance de l'enfant et être prêt à expliquer clairement le lien qui les unit si on le lui demande, car « ami de la famille » a tendance à susciter plus de questions que « grand-parent », même lorsque les deux disposent de documents identiques. Les compagnies aériennes peuvent refuser l'embarquement d'un enfant si l'adulte ne peut pas présenter ces documents à l'enregistrement, pour la même raison de responsabilité du transporteur évoquée plus haut : la compagnie se protège contre un refus d'entrée à l'arrivée, avant même que le vol n'ait décollé.
 
 ## Si des questions sont posées malgré tout
 
-Même avec tous les documents en règle, un agent frontalier ou un agent d'enregistrement peut tout de même poser quelques questions, et il est utile de savoir ce qu'est réellement cet échange : une vérification brève, pas une accusation. Les questions restent généralement simples : où vit la famille, comment le voyage a été organisé, et quel est le lien entre l'enfant et l'adulte à ses côtés. Un enfant capable de répondre brièvement avec ses propres mots a tendance à faire avancer les choses plus vite qu'un adulte nerveux qui répond à sa place.
+Même avec tous les documents en règle, un agent frontalier ou un agent d'enregistrement peut tout de même poser quelques questions, et il est utile de savoir ce qu'est réellement cet échange : une vérification brève, pas une accusation. Les questions peuvent être simples : où vit la famille, comment le voyage a été organisé, et quel est le lien entre l'enfant et l'adulte à ses côtés. Un enfant capable de répondre brièvement avec ses propres mots a tendance à faire avancer les choses plus vite qu'un adulte nerveux qui répond à sa place.
 
-Si un numéro de téléphone figure sur une lettre de consentement ou une ordonnance de garde, attendez-vous à ce qu'il soit composé. Cet appel est une formalité courante. Emporter l'ensemble des documents évoqués ici ne garantit pas l'absence de questions, mais cela signifie que lorsque des questions surviennent, vous avez une réponse prête pour chacune d'elles, ce qui suffit généralement à clore ce type d'échange au comptoir.
+Si un numéro de téléphone figure sur une lettre de consentement ou une ordonnance de garde, un agent peut l'utiliser pour vérifier le document. Emporter l'ensemble des documents évoqués ici ne garantit pas l'absence de questions, mais cela signifie que lorsque des questions surviennent, vous avez une réponse prête pour chacune d'elles, ce qui suffit généralement à clore ce type d'échange au comptoir.
 
 ## Un dossier par situation
 
@@ -92,11 +92,11 @@ Le document le plus utile est souvent l'ordonnance de garde ou la décision de j
 
 ### De quels documents ai-je besoin pour voyager avec mon enfant si l'autre parent est décédé ?
 
-Une lettre de consentement n'est pas possible, munissez-vous donc d'une copie de l'acte de décès à la place. Les agents frontaliers qui interrogeraient normalement sur le parent absent l'acceptent généralement comme réponse. Conservez une copie imprimée avec vos passeports ainsi qu'une sauvegarde numérique chiffrée, et vérifiez les indications de votre destination avant le départ.
+Une lettre de consentement n'est pas possible, munissez-vous donc d'une copie de l'acte de décès à la place. Une copie certifiée de l'acte de décès est le document le plus susceptible de répondre à la question, mais vérifiez les indications de votre destination. Conservez une copie imprimée avec vos passeports ainsi qu'une sauvegarde numérique chiffrée, et vérifiez les indications de votre destination avant le départ.
 
 ### Mon enfant peut-il voyager à l'étranger avec ses grands-parents ou un autre proche ?
 
-Oui, mais la plupart des pays attendent un consentement écrit des deux parents ou tuteurs légaux, pas d'un seul. L'adulte accompagnateur doit également emporter les coordonnées des deux parents et une copie de l'acte de naissance de l'enfant. Les compagnies aériennes peuvent refuser l'embarquement d'un enfant si l'adulte ne peut pas présenter ces documents lorsqu'on le lui demande.
+Oui, mais de nombreux pays attendent un consentement écrit des deux parents ou tuteurs légaux, pas d'un seul. L'adulte accompagnateur doit également emporter les coordonnées des deux parents et une copie de l'acte de naissance de l'enfant. Les compagnies aériennes peuvent refuser l'embarquement d'un enfant si l'adulte ne peut pas présenter ces documents lorsqu'on le lui demande.
 
 ### Un nom de famille différent de celui de mon enfant posera-t-il problème à l'aéroport ?
 

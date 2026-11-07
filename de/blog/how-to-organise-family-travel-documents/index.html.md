@@ -26,7 +26,7 @@ Diese Anleitung deckt das ganze System ab; wer zu einem einzelnen Thema mehr wis
 
 Es hängt davon ab, wohin Sie reisen, aber für die meisten internationalen Familienreisen ist die Liste länger als die meisten Menschen erwarten. Hier ist die wichtigste Checkliste für Familienreisedokumente, beginnend mit den Identitätsdokumenten, die jede Person braucht:
 
-- Reisepässe für jedes Familienmitglied (Gültigkeit mindestens 3 Monate vor der Reise überprüfen)
+- Reisepässe für jedes Familienmitglied (Gültigkeit rechtzeitig vor der Buchung mit den Einreiseregeln des Ziellands abgleichen; wir würden drei Monate vorher beginnen)
 - Visa, falls vom Zielland erforderlich
 - Nationale Ausweiskarten, falls sie als Ersatz für Reisepässe akzeptiert werden (Schengen-Reisen für EU-Bürger)
 
@@ -45,9 +45,9 @@ Es hängt davon ab, wohin Sie reisen, aber für die meisten internationalen Fami
 
 ### Zustimmungsschreiben für Kinderreisen: Wann benötigen Sie eines
 
-Ein Zustimmungsschreiben für Kinderreisen ist ein unterzeichnetes Dokument des abwesenden Elternteils (oder des Erziehungsberechtigten), das dem Kind die Reise gestattet. Es ist nicht universell rechtlich erforderlich, aber Einwanderungsbeamte in vielen Ländern – einschließlich der USA, Kanada, Mexiko und mehrerer anderer – fragen routinemäßig danach, wenn ein Kind mit nur einem Elternteil oder mit einem anderen Erwachsenen reist.
+Ein Zustimmungsschreiben für Kinderreisen ist ein unterzeichnetes Dokument des abwesenden Elternteils (oder des Erziehungsberechtigten), das dem Kind die Reise gestattet. Es ist in der Regel keine gesetzliche Pflicht, aber Grenzbeamte in manchen Ländern, darunter Kanada, können einen Nachweis verlangen, dass beide Eltern mit der Reise einverstanden sind, wenn ein Kind nur mit einem Elternteil oder mit einem anderen Erwachsenen reist. Das Schreiben lässt sich leicht mitnehmen und kann Rückfragen an der Grenze ersparen.
 
-Ohne ein solches Schreiben riskieren Sie Verzögerungen, zusätzliche Befragungen oder in einigen Fällen verweigerte Einreise. Einige Länder wie Kanada und Südafrika sind bekannt dafür, diese Dokumentation streng zu verlangen.
+Südafrika hat eigene Regeln für Reisen mit Kindern, unter anderem zur vollständigen Geburtsurkunde. Prüfen Sie vor der Reise die Hinweise des Department of Home Affairs.
 
 Ein gültiges Zustimmungsschreiben sollte folgende Angaben enthalten: den vollständigen Namen und das Geburtsdatum des Kindes, die Namen und Kontaktdaten beider Eltern, die Angaben des reisenden Elternteils, Ziele und Reisedaten sowie die Unterschrift des abwesenden Elternteils (beglaubigte Kopien sind überzeugender, obwohl nicht immer erforderlich). Bewahren Sie eine Kopie digital und physisch auf.
 
@@ -57,7 +57,7 @@ Ein gültiges Zustimmungsschreiben sollte folgende Angaben enthalten: den vollst
 
 - Internationaler Führerschein (wenn Sie einen Wagen im Ausland mieten)
 - Medizinische Unterlagen oder Rezeptdetails für laufende Erkrankungen
-- Europäische Krankenversicherungskarte (EHIC) für EU-Reisende
+- Europäische Krankenversicherungskarte (EHIC), wenn Sie über ein Gesundheitssystem der EU versichert sind
 
 ## Physische Organisation: Wo Sie die Originale aufbewahren
 
@@ -95,7 +95,7 @@ Hier ist das Fehlermuster, das Familien überrascht: Sie erneuern Ihren eigenen 
 
 - **Kalendereinstellungen:** Setzen Sie eine 12 Monate vor Ablauf jedes Dokuments und eine weitere 6 Monate davor. Sie müssen sich daran erinnern, diese zu aktualisieren, wenn Dokumente erneuert werden, und Sie müssen die Ablaufdaten überhaupt zugänglich haben.
 - **Tabellenkalkulation:** Funktioniert gut, wenn Sie sie tatsächlich aktualisieren werden. Eine Zeile pro Dokument pro Person, das Ablaufdatum und eine Formel, die alles hervorhebt, das in 12 Monaten abläuft.
-- **Spezielle App:** Travel Document Vault plant Pass-Erinnerungen ab acht Monaten vor Ablauf, mit weiteren Benachrichtigungen in kürzeren Abständen. Scannen Sie einen Reisepass und bestätigen Sie sein Ablaufdatum oder geben Sie es ein; Erinnerungen sind standardmäßig aktiviert.
+- **Spezielle App:** Travel Document Vault plant Pass-Erinnerungen ab acht Monaten vor Ablauf, mit weiteren Benachrichtigungen in kürzeren Abständen. Scannen Sie einen Reisepass und bestätigen Sie sein Ablaufdatum oder geben Sie es ein; Sie entscheiden, ob Sie Erinnerungen einschalten.
 
 Jeder dieser drei Ansätze funktioniert, aber wir würden uns standardmäßig für den entscheiden, der die Erinnerung automatisch schickt, denn eine Tabellenkalkulation hilft nur, wenn Sie daran denken, sie zu öffnen. Am wichtigsten ist, einen auszuwählen, der zu Ihrer bereits bestehenden Arbeitsweise passt, und ihn tatsächlich durchzuhalten.
 
@@ -148,7 +148,7 @@ Bewahren Sie alle Reisepässe zusammen in einer spezialisierten Reisedokumenttas
 
 ### Benötige ich ein Zustimmungsschreiben, wenn ich allein mit meinem Kind reise?
 
-Es ist möglicherweise nicht rechtlich erforderlich, wird aber dringend empfohlen. Einwanderungsbeamte in Ländern wie Kanada, Südafrika, Mexiko und vielen anderen fragen routinemäßig nach einem Zustimmungsschreiben für Kinderreisen, wenn ein Kind nur mit einem Elternteil reist. Ohne ein solches Schreiben riskieren Sie Verzögerungen, Befragungen oder verweigerte Einreise. Das Schreiben sollte die Angaben des Kindes, Kontaktinformationen beider Eltern, Reisedaten, Reiseziele und die Unterschrift des abwesenden Elternteils enthalten – beglaubigt, wenn möglich.
+Es ist möglicherweise nicht rechtlich erforderlich, wird aber dringend empfohlen. Grenzbeamte in manchen Ländern, etwa Kanada, können nach einem Zustimmungsschreiben für Kinderreisen fragen, wenn ein Kind nur mit einem Elternteil reist. Ohne das Schreiben müssen Sie möglicherweise zusätzliche Fragen beantworten. Das Schreiben sollte die Angaben des Kindes, Kontaktinformationen beider Eltern, Reisedaten, Reiseziele und die Unterschrift des abwesenden Elternteils enthalten – beglaubigt, wenn möglich.
 
 ## Verwandte Artikel
 

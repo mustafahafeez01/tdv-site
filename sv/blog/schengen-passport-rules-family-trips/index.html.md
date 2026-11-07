@@ -13,7 +13,7 @@ Source: https://traveldocumentvault.com/sv/blog/schengen-passport-rules-family-t
 - Den verkliga Schengenregeln är **3 månaders giltighet efter det datum du lämnar området**, plus ett pass utfärdat inom de senaste 10 åren – det är inte "6-månadersregeln".
 - **Barns pass går ut efter 5 år**, så en familjs pass hamnar i otakt med varandra, och det tidigaste utgångsdatumet avgör resan.
 - Brittiska pass utfärdade före oktober 2018 **med extra bonusmånader** kan misslyckas med 10-årstestet även om häftet fortfarande ser giltigt ut.
-- Flygbolag kontrollerar varje pass mot **IATA:s Timatic-databas** vid incheckningen – ingen avrundning, inget undantag, och ett underkänt pass stoppar hela familjen.
+- Flygbolag kontrollerar i regel passen mot **IATA:s Timatic-databas** vid incheckningen, och ett underkänt pass kan stoppa hela familjen.
 - **Granska varje pass samma dag du bokar**, inte veckan du reser. Fem minuter vid bokningstillfället är hela lösningen.
 
 Att boka en familjeresa till Europa börjar oftast på samma sätt: du kollar ditt eget pass, ser att det finns flera års giltighet kvar, och bekräftar bokningen. Fällan kommer veckor senare, när någon äntligen öppnar lådan och upptäcker att ett barns pass – utfärdat på en kortare klocka än ditt eget – går ut tidigare än någon trodde. Ingen skickar föräldrar ett varningsbrev om det här. Incheckningsdisken levererar nyheten i stället.
@@ -38,24 +38,21 @@ Vår guide till [6-månadersregeln](https://traveldocumentvault.com/sv/blog/pass
 
 ## Barnpass går på en snabbare klocka
 
-Vuxenpass gäller vanligtvis i 10 år; barns pass bara i fem. Den asymmetrin är där annars omsorgsfulla planer går snett.
+Brittiska vuxenpass gäller i 10 år, medan Storbritannien utfärdar barnpass för bara fem år. Den asymmetrin är där annars omsorgsfulla planer går snett.
 
 | Land | Barnpass | Giltighet |
 |---|---|---|
-| USA | Under 16 år | 5 år |
-| Storbritannien | Alla barn | 5 år |
-| Kanada | Under 16 år | 5 år |
-| Australien | Alla barn | 5 år |
+| Storbritannien | Under 16 år | 5 år |
 
-Källor: US Department of State, GOV.UK, Canada.ca, Australian Passport Office.
+Källa för brittiska pass: GOV.UK.
 
 En familj på fyra personer arbetar därför med fyra olika utgångsscheman. Det tidigaste datumet avgör om resan över huvud taget blir av. Två vuxna som förnyar tillsammans kommer att glida isär från sina barns handlingar inom några år – vilket är precis varför det att kolla ditt eget pass säger nästan ingenting om familjens beredskap.
 
-För amerikanska familjer finns en extra komplikation: ett barns pass kan inte förnyas per post. Varje förnyelse kräver en ny personlig ansökan, och rutinhandläggningen tar för närvarande flera veckor, plus posttid åt båda hållen – vilket är hanterbart i mars men blir ett verkligt problem två veckor före avresa. Brittiska familjer har det något enklare: kolla bara aktuella handläggningstider innan bokning och räkna med extra tid om mer information behövs.
+För amerikanska familjer finns en extra komplikation: en förnyelse av ett barns pass kan kräva en personlig ansökan och ta flera veckor, så kontrollera passmyndighetens aktuella regler och handläggningstider innan du bokar. Det är hanterbart i mars men blir ett verkligt problem två veckor före avresa. Brittiska familjer har det något enklare: kolla bara aktuella handläggningstider innan bokning och räkna med extra tid om mer information behövs.
 
 ## Verkligheten vid incheckning: Timatic rundar inte av
 
-Oavsett vad gränsen skulle tolerera möter du reglerna tidigare än så – vid incheckningen. Flygbolag kontrollerar varje pass mot IATA:s Timatic-databas, som tillämpar varje destinations inresekrav exakt. Om ditt returdatum kräver giltighet till den 20 november och ett pass går ut den 15 november säger systemet nej. Det finns inget "nästan tillräckligt" och inget undantag – flygbolag som checkar in en passagerare som inte får resa in måste flyga hem dem på egen bekostnad.
+Oavsett vad gränsen skulle tolerera möter du reglerna tidigare än så – vid incheckningen. Flygbolag kontrollerar i regel passen mot IATA:s Timatic-databas, som listar varje destinations inresekrav. Om ditt returdatum kräver giltighet till den 20 november och ett pass går ut den 15 november säger systemet nej. Räkna med att bli nekad vid incheckningen.
 
 Ett underkänt pass stannar sällan bara en person; det stoppar hela familjen. Få föräldrar skickar iväg tre familjemedlemmar och lämnar en kvar vid disken, så i praktiken blir hela bokningen ombokad eller förlorad.
 
@@ -77,11 +74,11 @@ Det är separata regler för olika destinationer. Länder som Thailand och Indon
 
 ### Följer barn andra Schengen-passregler?
 
-Nej. Barn behöver samma 3 månaders giltighet efter avresa och samma villkor om utfärdande inom 10 år som vuxna. Det som skiljer sig är själva passet: de flesta länder utfärdar barnpass för 5 år i stället för 10, så ett barns handling når de gränserna mycket tidigare än en förälders.
+Nej. Barn behöver samma 3 månaders giltighet efter avresa och samma villkor om utfärdande inom 10 år som vuxna. Det som skiljer sig är själva passet: många länder, däribland Storbritannien, utfärdar barnpass för 5 år i stället för 10, så ett barns handling når de gränserna mycket tidigare än en förälders.
 
 ### När bör vi förnya ett barns pass inför en resa?
 
-Så snart du bokar, kolla om passet fortfarande kommer ha 3 månaders giltighet efter ditt returdatum. Om inte, börja direkt. Kolla aktuella brittiska handläggningstider och räkna med extra tid om ansökan behöver mer information. Amerikansk rutinhandläggning tar flera veckor plus posttid. Ett amerikanskt barns pass kräver också en ny personlig ansökan i stället för en förnyelse.
+Så snart du bokar, kolla om passet fortfarande kommer ha 3 månaders giltighet efter ditt returdatum. Om inte, börja direkt. Kolla aktuella brittiska handläggningstider och räkna med extra tid om ansökan behöver mer information. Kontrollera din passmyndighets aktuella handläggningstider.
 
 ### Kan vi flyga medan ett barns passförnyelse pågår?
 
@@ -89,7 +86,7 @@ Nej. Du behöver det fysiska passet i handen för att kunna gå ombord på en in
 
 ### Vad händer vid incheckning om ett pass inte räcker till?
 
-Flygbolag kontrollerar varje pass mot IATA:s Timatic-databas, som tillämpar destinationens regler exakt, utan avrundning och utan undantag. Om en familjemedlem inte klarar kontrollen kan den personen inte gå ombord – vilket i praktiken oftast betyder ombokning eller att hela resan ställs in.
+Flygbolag kontrollerar i regel passen mot IATA:s Timatic-databas, som listar varje destinations inresekrav. Om en familjemedlem inte klarar kontrollen kan den personen inte gå ombord – vilket familjer i praktiken oftast löser genom att boka om i stället för att dela på sig.
 
 ## Relaterade artiklar
 

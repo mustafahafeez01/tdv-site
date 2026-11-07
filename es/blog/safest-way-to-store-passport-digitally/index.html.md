@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/es/blog/safest-way-to-store-passport-dig
 ## Puntos Clave
 
 - **iCloud Photos (con Advanced Data Protection)** ofrece cifrado de extremo a extremo pero sigue vinculando tus copias de pasaporte a tu cuenta de Apple ID.
-- **Google Photos** no está cifrado de extremo a extremo por defecto e indexa tu contenido, lo que lo hace menos adecuado para documentos de identidad sensibles.
+- **Google Photos** no está descrito por Google como cifrado de extremo a extremo e indexa tu contenido, lo que lo hace menos adecuado para documentos de identidad sensibles.
 - **Las aplicaciones cifradas dedicadas** almacenan datos de pasaporte en el dispositivo con cifrado AES-256, no requieren cuenta ni carga a la nube y funcionan sin conexión. Esta es la opción más segura.
 - Cada enfoque implica compromisos entre comodidad y seguridad que deberías entender antes de elegir.
 - El método más seguro depende de tu tolerancia personal al riesgo, pero una copia digital de tu pasaporte merece el mismo cuidado que el original.
@@ -26,7 +26,7 @@ iCloud Photos sincroniza automáticamente tus fotos en tu iPhone, iPad y Mac, ha
 
 ### Se Sincroniza Automáticamente, pero el Cifrado de Extremo a Extremo es Opcional
 
-Las fotos que tomas se cargan en iCloud y se encriptan con una clave derivada de tu Apple ID. Si habilitas Advanced Data Protection (la capa de cifrado de extremo a extremo opcional de Apple), tus fotos se encriptan en los servidores de Apple usando claves que solo tú posees. Ni siquiera Apple puede descifrarlas.
+Las fotos que tomas se cargan en iCloud y se cifran en tránsito y en los servidores de Apple, con Apple en posesión de las claves. Si habilitas Advanced Data Protection (la capa de cifrado de extremo a extremo opcional de Apple), tus fotos se encriptan en los servidores de Apple usando claves que solo tú posees. Ni siquiera Apple puede descifrarlas.
 
 ### Qué Está Protegido y Qué Sigue Dependiendo de Apple
 
@@ -39,7 +39,7 @@ Las fotos que tomas se cargan en iCloud y se encriptan con una clave derivada de
 
 Para comodidad, iCloud Photos brilla: tu copia de pasaporte se sincroniza automáticamente en todos tus dispositivos Apple y persiste si pierdes tu teléfono. Habilitar Advanced Data Protection añade cifrado de extremo a extremo que ni siquiera Apple puede eludir, lo que mejora significativamente la seguridad comparado con el almacenamiento estándar de iCloud.
 
-Sin embargo, tu copia de pasaporte se vincula a tu cuenta de Apple ID, creando un único punto de fallo potencial que se extiende a todos tus datos de iCloud. Si alguien compromete tu Apple ID a través de una contraseña débil, reutilización de credenciales o ingeniería social, obtienen acceso a todo en tu cuenta de iCloud, incluyendo tus copias de pasaporte. También estás confiando en la seguridad operacional de Apple, lo que significa que cualquier incumplimiento de sus sistemas expondría tus datos en sus servidores, aunque Apple generalmente se considera un custodio de seguridad fuerte.
+Sin embargo, tu copia de pasaporte se vincula a tu cuenta de Apple ID, creando un único punto de fallo potencial que se extiende a todos tus datos de iCloud. Si alguien compromete tu Apple ID a través de una contraseña débil, reutilización de credenciales o ingeniería social, podrían acceder a buena parte de tu cuenta de iCloud y, sin Advanced Data Protection, eso incluye tus copias de pasaporte. También estás confiando en la seguridad operacional de Apple: sin Advanced Data Protection, Apple conserva las claves de tus fotos en sus servidores, de modo que una brecha en esos sistemas podría, en principio, exponerlas. Con ella activada, las claves se quedan en tus dispositivos.
 
 ## Opción 2: Google Photos
 
@@ -49,9 +49,9 @@ Google Photos es el servicio equivalente de Google, ofreciendo respaldo automát
 
 Las fotos se cargan en los servidores de Google y se encriptan en tránsito. Google procesa las fotos para características como Búsqueda, Lens y recomendaciones, lo que requiere analizar el contenido de la imagen.
 
-### Sin Cifrado de Extremo a Extremo por Defecto
+### No Descrito como Cifrado de Extremo a Extremo
 
-- **Cifrado de extremo a extremo por defecto:** No. Google Photos usa cifrado en tránsito pero no de extremo a extremo. Google puede descifrar y ver tus fotos.
+- **Cifrado de extremo a extremo:** No descrito por Google. Google describe cifrado en tránsito y en reposo, y no describe Google Photos como cifrado de extremo a extremo. Los sistemas de Google pueden procesar tus fotos.
 - **Escaneo de contenido:** Google indexa y analiza el contenido de fotos para características y recomendaciones.
 - **Requiere cuenta:** Sí, tu cuenta de Google.
 - **Carga a la nube:** Sí, automática.
@@ -59,11 +59,11 @@ Las fotos se cargan en los servidores de Google y se encriptan en tránsito. Goo
 
 ### Buena Integración, Menor Protección para Documentos Sensibles
 
-Google Photos ofrece integración profunda con Android, opciones de almacenamiento gratuito y capacidades de búsqueda poderosas, lo cual es atractivo para comodidad. Sin embargo, las desventajas de seguridad para documentos sensibles son más significativas: Google Photos no usa cifrado de extremo a extremo por defecto, lo que significa que Google puede acceder técnicamente a tus fotos, y tus copias de pasaporte son procesadas por los sistemas de análisis de contenido de Google. Dado que Google ha experimentado incidentes de seguridad en el pasado, y considerando que los documentos de identidad requieren protección especialmente cuidadosa, Google Photos se convierte en una opción de menor seguridad que las alternativas cuando priorizas salvaguardar datos sensibles.
+Google Photos ofrece integración profunda con Android, un espacio gratuito compartido en toda tu cuenta de Google y capacidades de búsqueda poderosas, lo cual es atractivo para comodidad. Sin embargo, las desventajas de seguridad para documentos sensibles son más significativas: Google no describe Google Photos como cifrado de extremo a extremo, así que sus sistemas pueden procesar tus fotos, y tus copias de pasaporte son procesadas por los sistemas de análisis de contenido de Google. Los documentos de identidad requieren protección especialmente cuidadosa, así que Google Photos se convierte en una opción de menor seguridad que las alternativas cuando priorizas salvaguardar datos sensibles.
 
 Qué significa esto en la práctica
 
-Si tu cuenta de Google es comprometida, alguien con acceso puede recuperar tus copias de pasaporte de tu biblioteca de fotos. Como Google indexa estas fotos para búsqueda, las imágenes son procesadas por sistemas automatizados y almacenadas en múltiples ubicaciones en la infraestructura de Google, aumentando la superficie para exposición.
+Si tu cuenta de Google es comprometida, alguien con acceso puede recuperar tus copias de pasaporte de tu biblioteca de fotos. Como Google indexa estas fotos para búsqueda, las imágenes son procesadas por sistemas automatizados y solo están tan seguras como la cuenta que las guarda.
 
 ## Opción 3: Aplicaciones Cifradas Dedicadas
 
@@ -124,11 +124,11 @@ Sea cual sea el método que elijas, recuerda que una copia digital de tu pasapor
 
 ### ¿Es iCloud Photos seguro para almacenar copias de pasaporte?
 
-iCloud Photos con Advanced Data Protection habilita cifrado de extremo a extremo, que es más segura que el almacenamiento estándar de iCloud. Sin embargo, tus copias de pasaporte siguen siendo cifradas y almacenadas en los servidores de Apple, creando una superficie de incumplimiento compartida con tu Apple ID. Si tu Apple ID es comprometido, un atacante obtiene acceso a todo en tu cuenta de iCloud. Para documentos de identidad, esto representa riesgo adicional comparado con mantenerlos solo en tu dispositivo.
+iCloud Photos con Advanced Data Protection habilita cifrado de extremo a extremo, que es más segura que el almacenamiento estándar de iCloud. Sin embargo, tus copias de pasaporte siguen siendo cifradas y almacenadas en los servidores de Apple, creando una superficie de incumplimiento compartida con tu Apple ID. Si tu Apple ID es comprometido, un atacante podría acceder a buena parte de tu cuenta de iCloud y, sin Advanced Data Protection, eso incluye tus copias de pasaporte. Para documentos de identidad, esto representa riesgo adicional comparado con mantenerlos solo en tu dispositivo.
 
 ### ¿Por qué Google Photos no es recomendado para almacenamiento de pasaporte?
 
-Google Photos no está cifrado de extremo a extremo por defecto. Google indexa y escanea el contenido de fotos para características como búsqueda y organización, lo que significa que tus imágenes de pasaporte son procesadas por los sistemas de Google. Históricamente, Google también ha experimentado incidentes de seguridad. Para documentos de identidad sensibles, esta combinación de falta predeterminada de cifrado de extremo a extremo y escaneo de contenido hace que Google Photos sea una opción de menor seguridad que las alternativas.
+Google no describe Google Photos como cifrado de extremo a extremo. Google indexa y escanea el contenido de fotos para características como búsqueda y organización, lo que significa que tus imágenes de pasaporte son procesadas por los sistemas de Google. Para documentos de identidad sensibles, esta combinación de ausencia de cifrado de extremo a extremo descrito y escaneo de contenido hace que Google Photos sea una opción de menor seguridad que las alternativas.
 
 ### ¿Cuáles son las ventajas de una aplicación cifrada dedicada para almacenamiento de pasaporte?
 
@@ -140,7 +140,7 @@ Sí. Muchas personas mantienen una copia escaneada en iCloud o Google Photos par
 
 ### ¿Cuál es el mejor método de almacenamiento para una familia con múltiples viajeros?
 
-Para familias, una aplicación cifrada dedicada que almacena documentos para múltiples personas bajo una cuenta, sin cargar a la nube, típicamente ofrece el mejor equilibrio de seguridad y comodidad. Esto permite que un padre o guardián maneje todos los documentos de pasaporte de los miembros de la familia sin requerir que cada persona tenga una aplicación separada o cuenta en la nube, mientras mantiene documentos sensibles fuera de servidores externos.
+Para familias, una aplicación cifrada dedicada que almacena documentos para múltiples personas en una sola app sin cuenta, sin cargar a la nube, típicamente ofrece el mejor equilibrio de seguridad y comodidad. Esto permite que un padre o guardián maneje todos los documentos de pasaporte de los miembros de la familia sin requerir que cada persona tenga una aplicación separada o cuenta en la nube, mientras mantiene documentos sensibles fuera de servidores externos.
 
 ## Artículos Relacionados
 

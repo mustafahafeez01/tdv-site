@@ -13,7 +13,7 @@ Source: https://traveldocumentvault.com/id/blog/schengen-passport-rules-family-t
 - Aturan Schengen yang sebenarnya adalah **masa berlaku 3 bulan setelah tanggal Anda berangkat**, ditambah paspor yang diterbitkan dalam 10 tahun terakhir, ini bukan "aturan 6 bulan".
 - **Paspor anak berlaku hanya 5 tahun**, sehingga paspor sekeluarga menjadi tidak sinkron, dan tanggal kedaluwarsa paling awal yang menentukan perjalanan.
 - Paspor Inggris yang diterbitkan sebelum Oktober 2018 **dengan bulan bonus** bisa gagal dalam uji 10 tahun meski buku paspornya masih terlihat berlaku.
-- Maskapai memeriksa setiap paspor terhadap **basis data Timatic milik IATA** saat check-in — tidak ada pembulatan, tidak ada pengecualian, dan satu paspor yang gagal menghentikan seluruh keluarga.
+- Maskapai umumnya memeriksa paspor terhadap **basis data Timatic milik IATA** saat check-in, dan satu paspor yang gagal bisa menghentikan seluruh keluarga.
 - **Periksa setiap paspor pada hari Anda memesan**, bukan minggu Anda berangkat. Lima menit saat memesan adalah solusi lengkapnya.
 
 Memesan perjalanan keluarga ke Eropa biasanya dimulai dengan cara yang sama: Anda memeriksa paspor Anda sendiri, melihat masih ada bertahun-tahun masa berlaku, dan mengonfirmasi pemesanan. Jebakannya muncul beberapa minggu kemudian, ketika seseorang akhirnya membuka laci dan menemukan bahwa paspor anak, diterbitkan dengan jangka waktu lebih pendek dari milik Anda, habis masa berlakunya lebih cepat dari yang dikira siapa pun. Tidak ada yang mengirimkan surat peringatan kepada orang tua soal ini. Meja check-in yang menyampaikan kabar itu.
@@ -38,24 +38,21 @@ Panduan kami tentang [aturan 6 bulan](https://traveldocumentvault.com/id/blog/pa
 
 ## Paspor Anak Berjalan dengan Jam yang Lebih Cepat
 
-Paspor dewasa biasanya berlaku 10 tahun; paspor anak hanya lima. Ketidaksimetrisan itulah tempat rencana yang sebenarnya hati-hati jadi berantakan.
+Paspor dewasa Inggris berlaku 10 tahun, sedangkan Inggris menerbitkan paspor anak hanya untuk lima tahun. Ketidaksimetrisan itulah tempat rencana yang sebenarnya hati-hati jadi berantakan.
 
 | Negara | Paspor Anak | Masa Berlaku |
 |---|---|---|
-| Amerika Serikat | Di bawah 16 tahun | 5 tahun |
-| Inggris | Semua anak | 5 tahun |
-| Kanada | Di bawah 16 tahun | 5 tahun |
-| Australia | Semua anak | 5 tahun |
+| Inggris | Di bawah 16 tahun | 5 tahun |
 
-Sumber: US Department of State, GOV.UK, Canada.ca, Kantor Paspor Australia.
+Sumber: GOV.UK.
 
 Karena itu, keluarga beranggotakan empat orang beroperasi dengan empat jadwal kedaluwarsa yang berbeda. Tanggal paling awal menentukan apakah perjalanan itu jadi terlaksana atau tidak. Dua orang dewasa yang memperpanjang bersama akan makin menjauh dari dokumen anak-anak mereka dalam beberapa tahun, itulah sebabnya memeriksa paspor Anda sendiri hampir tidak memberi tahu apa pun tentang kesiapan keluarga.
 
-Untuk keluarga Amerika ada kerumitan tambahan: paspor anak tidak bisa diperpanjang lewat pos. Setiap perpanjangan membutuhkan permohonan tatap muka baru, dan pemrosesan rutin saat ini memakan waktu beberapa minggu, ditambah waktu pos untuk dua arah, yang masih bisa ditangani di bulan Maret tapi menjadi masalah nyata dua minggu sebelum keberangkatan. Keluarga Inggris memiliki sedikit lebih mudah: cukup periksa waktu pemrosesan terkini sebelum memesan dan sisihkan waktu tambahan jika informasi lebih lanjut diperlukan.
+Untuk keluarga Amerika ada kerumitan tambahan: perpanjangan paspor anak bisa memerlukan permohonan tatap muka dan memakan waktu beberapa minggu, jadi periksa aturan dan waktu pemrosesan terkini dari otoritas paspor Anda sebelum memesan. Itu masih bisa ditangani di bulan Maret tapi menjadi masalah nyata dua minggu sebelum keberangkatan. Keluarga Inggris memiliki sedikit lebih mudah: cukup periksa waktu pemrosesan terkini sebelum memesan dan sisihkan waktu tambahan jika informasi lebih lanjut diperlukan.
 
 ## Kenyataan di Check-in: Timatic Tidak Membulatkan
 
-Apa pun yang mungkin ditoleransi perbatasan, Anda akan menghadapi aturan lebih awal dari itu, saat check-in. Maskapai memvalidasi setiap paspor terhadap basis data Timatic milik IATA, yang menerapkan persyaratan masuk setiap destinasi secara tepat. Jika tanggal kepulangan Anda membutuhkan masa berlaku hingga 20 November dan sebuah paspor habis masa berlakunya pada 15 November, sistem akan menolak. Tidak ada "hampir cukup" dan tidak ada pengecualian, maskapai yang mengizinkan penumpang tidak memenuhi syarat naik pesawat harus menerbangkan mereka pulang dengan biaya sendiri.
+Apa pun yang mungkin ditoleransi perbatasan, Anda akan menghadapi aturan lebih awal dari itu, saat check-in. Maskapai umumnya memeriksa paspor terhadap basis data Timatic milik IATA, yang mencantumkan persyaratan masuk setiap destinasi. Jika tanggal kepulangan Anda membutuhkan masa berlaku hingga 20 November dan sebuah paspor habis masa berlakunya pada 15 November, sistem akan menolak. Bersiaplah untuk ditolak di check-in.
 
 Satu paspor yang gagal jarang hanya membuat satu orang tertahan; itu menghentikan seluruh keluarga. Sedikit orang tua yang mengirim tiga anggota keluarga lanjut dan meninggalkan satu di meja, jadi dalam praktiknya seluruh pemesanan biasanya dijadwal ulang atau hilang.
 
@@ -77,11 +74,11 @@ Keduanya adalah aturan terpisah untuk destinasi berbeda. Negara seperti Thailand
 
 ### Apakah anak-anak mengikuti aturan paspor Schengen yang berbeda?
 
-Tidak. Anak-anak membutuhkan masa berlaku 3 bulan setelah keberangkatan dan syarat diterbitkan dalam 10 tahun yang sama seperti orang dewasa. Yang berbeda adalah paspornya sendiri: sebagian besar negara menerbitkan paspor anak dengan masa berlaku 5 tahun, bukan 10, sehingga dokumen anak mencapai batas itu jauh lebih cepat daripada dokumen orang tua.
+Tidak. Anak-anak membutuhkan masa berlaku 3 bulan setelah keberangkatan dan syarat diterbitkan dalam 10 tahun yang sama seperti orang dewasa. Yang berbeda adalah paspornya sendiri: banyak negara, termasuk Inggris, menerbitkan paspor anak dengan masa berlaku 5 tahun, bukan 10, sehingga dokumen anak mencapai batas itu jauh lebih cepat daripada dokumen orang tua.
 
 ### Kapan sebaiknya kami memperpanjang paspor anak sebelum bepergian?
 
-Segera setelah Anda memesan, periksa apakah paspor masih akan memiliki masa berlaku 3 bulan setelah tanggal kepulangan Anda. Jika tidak, mulailah segera. Periksa waktu pemrosesan Inggris terkini dan sisihkan waktu tambahan jika permohonan membutuhkan lebih banyak informasi. Pemrosesan rutin AS memakan waktu beberapa minggu ditambah waktu pos. Paspor anak Amerika juga membutuhkan permohonan tatap muka baru, bukan perpanjangan.
+Segera setelah Anda memesan, periksa apakah paspor masih akan memiliki masa berlaku 3 bulan setelah tanggal kepulangan Anda. Jika tidak, mulailah segera. Periksa waktu pemrosesan Inggris terkini dan sisihkan waktu tambahan jika permohonan membutuhkan lebih banyak informasi. Periksa waktu pemrosesan terkini dari otoritas paspor Anda.
 
 ### Bisakah kami terbang saat perpanjangan paspor anak sedang berlangsung?
 
@@ -89,7 +86,7 @@ Tidak. Anda perlu memegang paspor fisik untuk naik penerbangan internasional. Pe
 
 ### Apa yang terjadi saat check-in jika satu paspor tidak mencukupi?
 
-Maskapai memeriksa setiap paspor terhadap basis data Timatic milik IATA, yang menerapkan aturan destinasi secara tepat, tanpa pembulatan dan tanpa pengecualian. Jika satu anggota keluarga gagal dalam pemeriksaan itu, orang tersebut tidak bisa naik pesawat, yang dalam praktiknya biasanya berarti menjadwal ulang atau membatalkan seluruh perjalanan.
+Maskapai umumnya memeriksa paspor terhadap basis data Timatic milik IATA, yang mencantumkan persyaratan masuk setiap destinasi. Jika satu anggota keluarga gagal dalam pemeriksaan itu, orang tersebut tidak bisa naik pesawat, yang dalam praktiknya biasanya diatasi keluarga dengan menjadwal ulang, bukan berpisah.
 
 ## Artikel Terkait
 

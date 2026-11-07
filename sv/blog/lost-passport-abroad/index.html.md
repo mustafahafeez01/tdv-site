@@ -11,9 +11,9 @@ Source: https://traveldocumentvault.com/sv/blog/lost-passport-abroad/
 ## Viktiga punkter
 
 - Gör en polisanmälan tidigt – ditt försäkringsbolag vill vanligtvis ha den, och en del ambassader begär den också.
-- Din ambassad eller ditt konsulat kan utfärda ett nödpass, oftast betydligt snabbare än ett vanligt nytt pass. **Ring i förväg** – de flesta kräver tidsbokning.
-- Resenärer med en säker digital kopia av sitt pass får sina ersättningshandlingar snabbare – du lämnar över de uppgifter ambassaden behöver på några sekunder.
-- Reseförsäkringen täcker kostnaden för ett nytt pass i de flesta fullständiga försäkringar. Du behöver polisanmälan för att göra anspråket.
+- Din ambassad eller ditt konsulat kan i regel hjälpa till med ett provisoriskt resedokument, men alla kontor erbjuder inte alla tjänster. **Ring i förväg** – vissa kräver tidsbokning och kan tala om hur lång tid det tar i ditt fall.
+- En kopia av dina passuppgifter kan hjälpa till att skynda på processen, men den kan inte användas som legitimation.
+- Vissa reseförsäkringar täcker kostnaden för att ersätta passet. Kontrollera din försäkring och spara polisanmälan, som försäkringsbolag ofta begär.
 - Rätt tid att förbereda sig är nu, innan något går fel. En fem minuter lång skanning i dag kan spara dig dagar av stress utomlands.
 
 Människor ersätter förlorade pass utomlands varje dag, och ambassader behandlar det som ett rutinärende snarare än en nödsituation. Processen har en given ordning, och att följa den är det som gör en dålig eftermiddag till en försening i stället för en inställd resa. Så här gör du, steg för steg.
@@ -22,7 +22,7 @@ Människor ersätter förlorade pass utomlands varje dag, och ambassader behandl
 
 Om du läser det här innan din resa, lägg fem minuter på detta. Ta en tydlig bild av datasidan i varje pass du reser med. Spara den i en krypterad app som fungerar offline – betydligt säkrare än kamerarullen, och helt privat.
 
-När du kommer till ambassaden kommer de att fråga efter passnummer, utfärdandedatum, utfärdandeort och giltighetstid. Utan en kopia försöker du minnas det här under stress. Med en kopia lämnar du över uppgifterna på några sekunder. **Konsulär personal utfärdar ersättningshandlingar snabbare när du kommer med uppgifterna redan nedskrivna.**
+När du kommer till ambassaden frågar de vanligtvis efter passuppgifter som passnummer, utfärdandedatum, utfärdandeort och giltighetstid. Utan en kopia försöker du minnas det här under stress. Med en kopia lämnar du över uppgifterna på några sekunder. **En kopia kan hjälpa till att skynda på processen när du har uppgifterna nedskrivna, men kan inte användas som legitimation.**
 
 En kopia i telefonen är ett underlag snarare än en giltig legitimation, och de två blandas lätt ihop.
 
@@ -49,7 +49,7 @@ Din ambassad eller ditt konsulat är din väg hem, så kontakta dem så snart du
 - **Australiska medborgare:** Smartraveller – förlorat eller stulet pass
 - **Kanadensiska medborgare:** Canada.ca – förlorat eller stulet pass utomlands
 
-Ring innan du besöker dem. Många ambassader kräver tidsbokning för nödpasstjänster och kan tala om exakt vad du ska ta med – att dyka upp utan tidsbokning kan kosta dig en halv dag.
+Ring innan du besöker dem. Vissa ambassader kräver tidsbokning för nödpasstjänster (Storbritannien säger att du kan bli kallad till ett besök) och kan tala om exakt vad du ska ta med – att dyka upp utan tidsbokning kan kosta dig en halv dag.
 
 ## Steg 4: Ansök om ett nödpass
 
@@ -62,21 +62,21 @@ Vad du vanligtvis behöver (bekräfta med din ambassad innan du besöker den):
 - Passfoton – fråga ambassaden var du kan få dessa tagna lokalt
 - Din digitala kopia av det förlorade passet, om du har en
 - Bevis på fortsatt resa – flygbokning, hotellbekräftelse
-- Avgift för nödhandlingen – ha både kontanter och kort tillgängligt
+- Avgift för nödhandlingen – fråga ambassaden hur den kan betalas
 
 ## Steg 5: Meddela ditt reseförsäkringsbolag
 
-Anmäl förlusten till ditt reseförsäkringsbolag så snart som möjligt. De flesta fullständiga försäkringar täcker kostnaden för ett nytt pass, avgifter för nödpass och ibland extra boendekostnader om du blir försenad. Spara alla kvitton – du behöver dem för anspråket, tillsammans med polisanmälans ärendenummer.
+Anmäl förlusten till ditt reseförsäkringsbolag så snart som möjligt. Vissa försäkringar täcker kostnaden för att ersätta passet och ibland extra boendekostnader om du blir försenad. Kontrollera din försäkring. Spara alla kvitton för ett eventuellt ersättningsanspråk, tillsammans med polisanmälans ärendenummer, som försäkringsbolag ofta begär.
 
 Du kan ringa det samtalet snabbare om försäkringsnumret och dygnet-runt-jourlinjen redan finns till hands i stället för begravda i en inkorg du inte kommer åt. Vår guide om [vilka reseförsäkringshandlingar du bör spara innan du reser](https://traveldocumentvault.com/sv/blog/travel-insurance-documents/) listar vad du bör ha offline.
 
 ## Steg 6: Kontrollera din visumsituation
 
-Ett visum gäller bara för det specifika pass det utfärdades för. Om passet är borta är visumet borta också – inte ens ett nödpass återställer det. Din ambassad kan tala om huruvida ditt resmål tillåter utresa på ett nödpass, med hänvisning till det förlorade visumet. Anta inte att du kan resa ut – bekräfta med ambassaden innan du försöker lämna landet.
+Om ett visum var inklistrat eller tryckt i det förlorade passet behöver du i regel råd från ambassaden och det utfärdande landet om hur det kan ersättas; ett provisoriskt resedokument för inte över visumet. Din ambassad kan tala om huruvida ditt resmål tillåter utresa på ett nödpass, med hänvisning till det förlorade visumet. Anta inte att du kan resa ut – bekräfta med ambassaden innan du försöker lämna landet.
 
 Vad det betyder i praktiken
 
-Om du tappar ett pass i Thailand som innehåller ett giltigt multipel-inresevisum till ett annat land du planerade att besöka på samma resa, går det visumet inte längre att använda. Du skulle behöva ansöka om ett nytt visum i ditt nya pass. Det tar tid och pengar du kanske inte har mitt i resan. Det är ytterligare ett skäl till att en säker digital kopia spelar roll: den bevisar att visumet fanns och kan stödja en snabbare ansökan om ersättning.
+Om du tappar ett pass i Thailand som innehåller ett giltigt multipel-inresevisum till ett annat land du planerade att besöka på samma resa, behöver du i regel kontrollera med det utfärdande landet om en ersättning eller ett nytt visum. Det tar tid och pengar du kanske inte har mitt i resan. Det är ytterligare ett skäl till att en säker digital kopia spelar roll: den kan hjälpa till att visa att visumet fanns.
 
 ## Steg 7: Ta dig hem och skaffa ett nytt pass
 
@@ -88,11 +88,11 @@ När du har ditt nödpass, bekräfta utresekraven med lokala myndigheter om det 
 
 ### Vad ska jag göra om jag tappar passet utomlands?
 
-Gör en polisanmälan omedelbart, kontakta sedan din närmaste ambassad eller ditt konsulat för att ansöka om ett nödpass. Meddela ditt reseförsäkringsbolag och spara alla kvitton. En säker digital kopia av passet, tagen innan du reser, gör varje steg snabbare.
+Gör en polisanmälan omedelbart, kontakta sedan din närmaste ambassad eller ditt konsulat för att ansöka om ett nödpass. Meddela ditt reseförsäkringsbolag och spara alla kvitton. En säker digital kopia av passet, tagen innan du reser, kan hjälpa till att skynda på processen, men kan inte användas som legitimation.
 
 ### Kan jag få ett nödpass utomlands?
 
-Ja. De flesta länder utfärdar nödpass via sina ambassader och konsulat, vanligtvis giltiga för en enda resa hem. Handläggningstiden varierar mellan ambassader och beroende på hur brådskande ditt ärende är, så fråga när du ringer. Kontakta din närmaste ambassad eller ditt konsulat så snart som möjligt – många kräver tidsbokning.
+Ja. Många länder utfärdar nödpass via sina ambassader och konsulat, vanligtvis giltiga för en enda resa hem. Handläggningstiden varierar mellan ambassader och beroende på hur brådskande ditt ärende är, så fråga när du ringer. Kontakta din närmaste ambassad eller ditt konsulat så snart som möjligt – vissa kräver tidsbokning.
 
 ### Behöver jag en polisanmälan om passet blir stulet utomlands?
 
@@ -100,11 +100,11 @@ Vanligtvis värt att skaffa, även om inte alla passmyndigheter kräver den. Den
 
 ### Täcker reseförsäkringen ett förlorat eller stulet pass?
 
-De flesta fullständiga reseförsäkringar täcker kostnaden för att ersätta passet, inklusive avgifter för nödpass, och ibland extra boendekostnader om du blir försenad. Kontrollera din egen försäkring för exakta täckningsbelopp. Du behöver polisanmälans ärendenummer för att göra anspråket.
+Vissa reseförsäkringar täcker kostnaden för att ersätta passet och ibland extra boendekostnader om du blir försenad. Kontrollera vad din egen försäkring omfattar. Spara polisanmälans ärendenummer, som försäkringsbolag ofta begär.
 
 ### Hur kan jag snabba på processen för nödpass?
 
-Att ha en säker digital kopia av passet sparad innan du reser är det absolut mest effektiva du kan göra. Ambassaden behöver passnummer, utfärdandedatum och utfärdandeort. En digital kopia innebär att du kan lämna de här uppgifterna direkt i stället för att försöka minnas dem under stress.
+Att ha en säker digital kopia av passet sparad innan du reser är en användbar åtgärd. Ambassaden frågar vanligtvis efter passuppgifter som passnummer, utfärdandedatum och utfärdandeort. En digital kopia innebär att du kan lämna de här uppgifterna direkt i stället för att försöka minnas dem under stress.
 
 ## Relaterade artiklar
 

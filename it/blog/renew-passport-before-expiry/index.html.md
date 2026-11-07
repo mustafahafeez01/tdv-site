@@ -10,9 +10,9 @@ Source: https://traveldocumentvault.com/it/blog/renew-passport-before-expiry/
 
 ## Punti chiave
 
-- **Sì, puoi rinnovare in anticipo.** HM Passport Office e USAGov non prevedono alcuna attesa, e il Canada chiede solo una motivazione se fai domanda più di un anno prima.
+- **Sì, puoi rinnovare in anticipo.** HM Passport Office non indica una data prima della quale non si possa fare domanda, e USAGov non elenca un periodo di attesa, e il Canada chiede solo una motivazione se fai domanda più di un anno prima.
 - Nel Regno Unito, **rinnovare in anticipo significa rinunciare ai mesi che ti restano**. Non vengono più aggiunti ai nuovi passaporti dall'ottobre 2018.
-- Il vecchio passaporto viene **annullato non appena il nuovo è autorizzato**, e sulla procedura online canadese, non appena presenti la domanda.
+- Il vecchio passaporto viene **annullato durante il rinnovo**, e sulla procedura online canadese, non appena presenti la domanda.
 - Il nuovo passaporto ha **un nuovo numero**, quindi un ESTA statunitense, un ETA britannico e qualsiasi prenotazione legata al vecchio vanno controllati, e un visto sul vecchio passaporto significa portare entrambi.
 - La nostra opinione: **inizia a pianificare a 12 mesi, fai domanda entro i nove**, in un periodo di settimane senza viaggi in programma.
 
@@ -22,7 +22,7 @@ Niente di tutto questo è un motivo per rimandare. È un motivo per scegliere qu
 
 ## Non c'è un periodo di attesa ufficiale prima di poter rinnovare
 
-HM Passport Office lega il rinnovo a due situazioni: il passaporto è scaduto, oppure non ha abbastanza validità residua per la tua destinazione. Le sue indicazioni sul rinnovo non fissano una data minima, e precisano che il tempo necessario dipende dal paese in cui vai. USAGov va oltre e consiglia agli americani di rinnovare in anticipo, perché i tempi di elaborazione variano e alcuni paesi e compagnie aeree negano l'ingresso quando al passaporto restano meno di sei mesi di validità.
+HM Passport Office lega il rinnovo a due situazioni: il passaporto è scaduto, oppure non ha abbastanza validità residua per la tua destinazione. Le sue indicazioni sul rinnovo non fissano una data minima, e precisano che il tempo necessario dipende dal paese in cui vai. USAGov consiglia agli americani di rinnovare in anticipo, perché i tempi di elaborazione variano e alcuni paesi e compagnie aeree negano l'ingresso quando al passaporto restano meno di sei mesi di validità.
 
 Il Canada traccia un limite, ma anche quello è elastico. Il governo canadese afferma che se fai domanda più di un anno prima della scadenza del passaporto, ti verrà chiesto il motivo, e una domanda per posta richiede una spiegazione scritta. Il suo servizio di rinnovo online è ancora più limitato, aperto solo quando il passaporto scade nei prossimi sei mesi o è già scaduto.
 
@@ -40,21 +40,21 @@ Questo conta perché le indicazioni di Your Europe dell'UE affermano che un pass
 
 ## Il vecchio passaporto smette di funzionare non appena il nuovo è autorizzato
 
-Il rinnovo non è uno scambio che aspetta che il nuovo passaporto arrivi a casa. Nel Regno Unito il vecchio passaporto viene inviato insieme alla domanda, e le indicazioni interne di HM Passport Office per gli operatori dicono di annullarlo quando autorizzano il nuovo. La procedura online canadese è ancora più rapida. Il governo canadese afferma che il passaporto attuale viene annullato e perde validità non appena presenti la domanda, e sconsiglia di fare domanda online a chiunque debba viaggiare nei prossimi 20 giorni lavorativi.
+Il rinnovo non è uno scambio che aspetta che il nuovo passaporto arrivi a casa. Nel Regno Unito il vecchio passaporto viene inviato insieme alla domanda, e viene annullato durante il rinnovo, quindi non pianificare viaggi con quel documento dopo aver presentato la domanda. La procedura online canadese è ancora più rapida. Il governo canadese afferma che il passaporto attuale viene annullato e perde validità non appena presenti la domanda, e sconsiglia di fare domanda online a chiunque debba viaggiare nei prossimi 20 giorni lavorativi.
 
 Questo è l'argomento pratico per rinnovare tra un viaggio e l'altro piuttosto che a ridosso di uno. Se puoi viaggiare mentre il rinnovo è in corso dipende dal paese e dalla procedura. Lo analizziamo paese per paese nella nostra guida su [come viaggiare mentre il passaporto è in fase di rinnovo](https://traveldocumentvault.com/it/blog/travel-while-passport-renewal-pending/).
 
-I visti sono l'eccezione che vale la pena pianificare. Se il tuo vecchio passaporto britannico contiene un visto non scaduto, GOV.UK dice di inviare il passaporto con il visto allegato, e ti verrà restituito. USAGov dice che gli americani ricevono il loro passaporto più recente in una busta separata, di solito circa quattro settimane dopo l'arrivo del nuovo. Il Canada chiede di indicare nel modulo che hai bisogno del visto e vuoi l'originale indietro, e avverte che altrimenti il visto potrebbe essere danneggiato quando il vecchio passaporto viene annullato.
+I visti sono l'eccezione che vale la pena pianificare. Se il tuo vecchio passaporto britannico contiene un visto non scaduto, GOV.UK dice di inviare il passaporto con il visto allegato, e ti verrà restituito. USAGov dice che gli americani ricevono il loro passaporto più recente in una busta separata, di solito circa quattro settimane dopo l'arrivo del nuovo. Le indicazioni canadesi possono essere diverse: controlla la pagina sui rinnovi prima di inviare un passaporto che contiene un visto valido.
 
 ## Un nuovo numero di passaporto cambia più del semplice libretto
 
-Ogni rinnovo porta un nuovo numero. HM Passport Office abbina questo fatto al suo consiglio più utile: non prenotare viaggi finché non hai un passaporto valido, perché il nuovo non avrà lo stesso numero del vecchio. Il governo canadese dice più o meno lo stesso, raccomandando di non finalizzare i piani di viaggio finché il passaporto non arriva.
+Ogni rinnovo porta un nuovo numero. HM Passport Office abbina questo fatto al suo consiglio più utile: non prenotare viaggi finché non hai un passaporto valido, perché il nuovo non avrà lo stesso numero del vecchio. Il governo canadese sconsiglia di fare domanda online a chi deve viaggiare nei prossimi 20 giorni lavorativi.
 
 Qualsiasi cosa già collegata al vecchio numero merita un controllo prima del prossimo viaggio:
 
 - **Un ESTA statunitense** va richiesto di nuovo. US Customs and Border Protection afferma che è necessario un nuovo ESTA quando al viaggiatore viene rilasciato un nuovo passaporto.
 - GOV.UK dice che **un ETA britannico** è legato al passaporto con cui hai fatto domanda e dura due anni o fino alla scadenza di quel passaporto, a seconda di cosa avviene prima. Controlla a che punto è il tuo prima di volare con il nuovo, e la nostra guida su [a quale passaporto è legato un ETA britannico](https://traveldocumentvault.com/it/blog/uk-eta-passport-rules/) copre i dettagli.
-- Per **un visto sul vecchio passaporto**, la risposta più comune è portare entrambi. CBP afferma che un visto statunitense su un passaporto scaduto può ancora essere usato insieme al nuovo, senza bisogno di richiederlo di nuovo a meno che il visto stesso non sia scaduto. GOV.UK dà ai viaggiatori britannici lo stesso consiglio per i visti di altri paesi, anche se la Russia ha regole diverse.
+- Per **un visto sul vecchio passaporto**, la risposta più comune è portare entrambi. Un visto nel vecchio passaporto generalmente resta valido: porta entrambi i passaporti e verifica le indicazioni ufficiali del paese che ha rilasciato il visto.
 - **Voli e hotel** prenotati con i dati del vecchio passaporto potrebbero richiedere l'aggiunta del nuovo numero, un'operazione facile da casa e scomoda al banco del check-in.
 
 ## Rinnova in un periodo tranquillo senza viaggi in programma
@@ -65,7 +65,7 @@ La nostra opinione è semplice: inizia a pensare al rinnovo quando il passaporto
 
 L'altra metà consiste nello scegliere quando, all'interno di quella finestra. Cerca qualche settimana senza nulla in programma, perché il vecchio passaporto viene inviato con la domanda e il nuovo torna con un numero diverso.
 
-HM Passport Office dice che di solito riceverai il passaporto entro tre settimane, più a lungo se richiede ulteriori informazioni o un colloquio, con il conteggio che inizia quando riceve i tuoi documenti. In Canada lo standard pubblicato è di 10 o 20 giorni lavorativi a seconda di dove fai domanda, più la spedizione postale. Per quello che tende a rallentare una domanda, la nostra guida su [quanto richiede il rinnovo del passaporto](https://traveldocumentvault.com/it/blog/how-long-does-passport-renewal-take/) ha i dettagli.
+HM Passport Office dice che di solito riceverai il passaporto entro tre settimane, più a lungo se richiede ulteriori informazioni o un colloquio, con il conteggio che inizia quando riceve i tuoi documenti. In Canada il rinnovo online può richiedere fino a 20 giorni lavorativi, più i tempi di spedizione. Per quello che tende a rallentare una domanda, la nostra guida su [quanto richiede il rinnovo del passaporto](https://traveldocumentvault.com/it/blog/how-long-does-passport-renewal-take/) ha i dettagli.
 
 Se un viaggio in famiglia è all'orizzonte, allinea tutti i passaporti del nucleo familiare nello stesso momento. Nel Regno Unito, HM Passport Office rilascia i passaporti dei minori per cinque anni invece di dieci, quindi quello che va rinnovato prima spesso non è quello che ti aspetti. Se qualcuno sta andando in un posto che richiede validità extra all'arrivo, consulta la nostra guida sulla [regola dei 6 mesi del passaporto](https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/) per capire come questo sposta la tua data.
 
@@ -75,7 +75,7 @@ Se un viaggio in famiglia è all'orizzonte, allinea tutti i passaporti del nucle
 
 ### Puoi rinnovare un passaporto prima che scada?
 
-Sì. HM Passport Office e USAGov non prevedono un periodo minimo di attesa, e USAGov consiglia agli americani di rinnovare in anticipo. Il Canada chiederà il motivo se fai domanda più di un anno prima della scadenza, e il suo rinnovo online è aperto solo entro sei mesi dalla scadenza.
+Sì. HM Passport Office non indica una data prima della quale non si possa fare domanda, e USAGov non elenca un periodo di attesa, e USAGov consiglia agli americani di rinnovare in anticipo. Il Canada chiederà il motivo se fai domanda più di un anno prima della scadenza, e il suo rinnovo online è aperto solo entro sei mesi dalla scadenza.
 
 ### Se rinnovi in anticipo un passaporto britannico, perdi i mesi residui?
 
@@ -83,7 +83,7 @@ Sì. Le indicazioni di HM Passport Office dicono che una validità residua fino 
 
 ### Posso ancora usare il vecchio passaporto dopo aver fatto domanda di rinnovo?
 
-Pianifica come se non potessi. HM Passport Office annulla il vecchio passaporto quando autorizza il nuovo, e la procedura online canadese lo annulla non appena presenti la domanda. Se il vecchio passaporto contiene un visto valido, può esserti restituito così puoi viaggiare con entrambi.
+Pianifica come se non potessi. HM Passport Office annulla il vecchio passaporto durante il rinnovo, e la procedura online canadese lo annulla non appena presenti la domanda. Se il vecchio passaporto contiene un visto valido, può esserti restituito così puoi viaggiare con entrambi.
 
 ### Mi serve un nuovo ESTA o un nuovo ETA britannico dopo aver rinnovato il passaporto?
 

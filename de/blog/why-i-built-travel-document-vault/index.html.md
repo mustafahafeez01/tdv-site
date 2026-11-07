@@ -12,7 +12,7 @@ Ich stand an der Einreisekontrolle, als der Beamte den Reisepass meiner Tochter 
 
 „Sie wissen, dass dieser in sieben Monaten abläuft, oder?", sagte er. „Nur zur Information – manche Länder lassen Sie mit weniger als sechs Monaten Restgültigkeit nicht einreisen."
 
-Ich bedankte mich. Wir kamen gerade noch durch. Aber während der gesamten Reise musste ich immer wieder daran denken: Hätte er nichts gesagt, hätte ich es nie bemerkt. Sieben Monate erschienen mir wie reichlich Zeit. Ich hatte den Reisepass vor der Buchung überprüft. Aber ich hatte die Sechs-Monats-Regel, die die meisten Länder durchsetzen, völlig aus dem Blick verloren.
+Ich bedankte mich. Wir kamen gerade noch durch. Aber während der gesamten Reise musste ich immer wieder daran denken: Hätte er nichts gesagt, hätte ich es nie bemerkt. Sieben Monate erschienen mir wie reichlich Zeit. Ich hatte den Reisepass vor der Buchung überprüft. Aber ich hatte die Sechs-Monats-Regel, die viele Länder durchsetzen, völlig aus dem Blick verloren.
 
 Dieser Beinahe-Unfall ließ mich nicht los. Ich hatte bereits Kalendererinnerungen für die Ablaufdaten aller Reisepässe eingerichtet. Ich dachte, das würde reichen. Doch tatsächlich überprüfte ich die Daten gar nicht – ich verließ mich einfach auf die Erinnerungen. Und wenn jemanden seinen Reisepass erneuerte, musste ich die Erinnerung aktualisieren, den Scan in Google Drive aktualisieren und hoffen, dass mir nichts entgangen war.
 
@@ -68,11 +68,11 @@ Arbeitserlaubnisse, wenn Sie im Ausland leben. Visa und Aufenthaltsgenehmigungen
 
 Sie alle haben Ablaufdaten. Sie alle spielen genau im falschen Moment eine Rolle. Niemand erinnert Sie daran, bis es zu spät ist – oder Sie bereits vor der Botschaft stehen und feststellen, dass Ihr Visum letzten Monat abgelaufen ist.
 
-Die App verwaltet sie alle. Alles mit einem Ablaufdatum – Reisepässe, Visa, Arbeitserlaubnisse, Versicherungen, Führerscheine, was auch immer Ihre Familie benötigt – an einem Ort, erfasst und sortiert.
+Die App verwaltet sie alle. Reisepässe, Visa, Ausweise und Versicherungen haben eigene Dokumenttypen, und alles andere mit einem Ablaufdatum, etwa eine Arbeitserlaubnis oder ein Führerschein, kommt unter „Sonstiges“ – an einem Ort, erfasst und sortiert.
 
 ## Wenn im Ausland etwas schiefgeht
 
-Reisepässe gehen im Ausland jeden Tag verloren oder werden gestohlen, und ihn aus einem anderen Land heraus zu ersetzen, ist ein langwieriger Prozess. Wenn Ihnen das im Ausland passiert, fangen Sie nicht bei null an.
+Reisepässe gehen im Ausland tatsächlich verloren oder werden gestohlen, und ihn aus einem anderen Land heraus zu ersetzen, ist ein langwieriger Prozess. Wenn Ihnen das im Ausland passiert, fangen Sie nicht bei null an.
 
 Dokumentnummern, Ablaufdaten, klare Scans – alles bereit, wenn Sie eine Verlustanzeige erstatten oder eine Botschaft kontaktieren müssen. Es ersetzt keine Originaldokumente, gibt Ihnen aber alles, was Sie brauchen, um schnell handeln zu können. Kein WLAN, keine Panik.
 

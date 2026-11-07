@@ -10,21 +10,21 @@ Source: https://traveldocumentvault.com/da/blog/tripcase-alternative/
 
 ## Vigtigste punkter
 
-- **TripCase lukkede den 1. april 2025** efter 12 år, og Sabre slettede alle resterende brugerdata, efter eksportvinduet lukkede den 30. juni 2025.
-- Funktionen **Document Vault** – ét sikkert hjem for pas, visa og boardingkort – er den funktion, tidligere brugere savner mest.
+- **TripCase lukkede den 1. april 2025**, og Sabres meddelelse gav brugerne frem til den 30. juni 2025 til at downloade deres rejser, før de resterende data blev fjernet.
+- Funktionen **Document Vault** – ét sikkert hjem for pas, visa og boardingkort – er en funktion, tidligere brugere ofte nævner.
 - **Ingen enkelt app erstatter TripCase.** Flyalarmer, rejseplan-aflæsning og dokumentopbevaring lever nu i forskellige værktøjer.
-- Den egentlige lære: en gratis cloud-tjeneste holder **dine data på lånt tid**. Den kan forsvinde med cirka 60 dages varsel.
+- Den egentlige lære: en gratis cloud-tjeneste holder **dine data på lånt tid**. Den kan forsvinde med få måneders varsel.
 - Rejsedokumenter hører hjemme **offline, på din egen enhed** – et sted, hvor ingen firmabeslutning, nedbrud eller lukning kan nå dem.
 
-TripCase brugte tolv år som rejseappernes stille arbejdshest. Videresend en bookingbekræftelse, og din rejse byggede sig selv; appen advarede dig om gateændringer, før nogle flyselskaber selv gjorde det; og dens Document Vault holdt pas, visa og boardingkort samlet ét sted. Så, den 1. april 2025, lukkede Sabre den ned, og da eksportvinduet lukkede den 30. juni, blev hver eneste brugers resterende rejsehistorik og dokumenter slettet fra dets servere.
+TripCase var i mange år rejseappernes stille arbejdshest. Videresend en bookingbekræftelse, og din rejse byggede sig selv; appen advarede dig om gateændringer, før nogle flyselskaber selv gjorde det; og dens Document Vault holdt pas, visa og boardingkort samlet ét sted. Så, den 1. april 2025, lukkede Sabre den ned, og Sabres meddelelse, som den blev refereret dengang, gav brugerne frem til den 30. juni 2025 til at downloade deres rejser, før de resterende data blev fjernet.
 
-Femten måneder senere leder tidligere brugere stadig efter en erstatning. Det ærlige svar er, at ingen enkelt app erstatter den fuldt ud. Men den egentlige historie handler ikke om, hvilken app du skal vælge – den handler om, hvor dine dokumenter bør ligge.
+Mere end et år senere har ingen enkelt app overtaget dens plads. Det ærlige svar er, at ingen enkelt app erstatter den fuldt ud. Men den egentlige historie handler ikke om, hvilken app du skal vælge – den handler om, hvor dine dokumenter bør ligge.
 
 ## TripCase var standarden i årevis, så lukkede Sabre den
 
-TripCase havde eksisteret siden 2013 som en gratis rejsemakker fra Sabre Corporation – firmaet, der driver store dele af verdens booking-systemer for flyselskaber og rejsebureauer. På grund af den forbindelse dukkede rejser ofte automatisk op i appen. I over et årti stolede forretningsrejsende og familier på den til at samle fly, hoteller og lejebiler i ét kronologisk overblik. Den var ikke prangende, men den virkede.
+TripCase var en gratis rejsemakker fra Sabre Corporation, en stor teknologivirksomhed inden for booking til flyselskaber og rejsebureauer. På grund af den forbindelse dukkede rejser ofte automatisk op i appen. I flere år stolede forretningsrejsende og familier på den til at samle fly, hoteller og lejebiler i ét kronologisk overblik. Den var ikke prangende, men den virkede.
 
-Da lukningen kom, havde brugerne frem til den 30. juni 2025 til at eksportere deres historik. Flere brugere beskrev eksportprocessen som forvirrende og ufuldstændig, og nogle opdagede for sent, at flere års rejseoplysninger ikke var kommet med. Efter eksportvinduet lukkede den 30. juni 2025, slettede Sabre alle resterende rejse- og rejsendedata, og der er ingen vej tilbage.
+Da lukningen kom, havde brugerne frem til den 30. juni 2025 til at eksportere deres historik. Nogle brugere beskrev eksportprocessen som forvirrende eller ufuldstændig. Sabre sagde, at det ville fjerne de resterende data efter downloadvinduet, så det, du ikke eksporterede, kan sandsynligvis ikke genskabes.
 
 ## Hvad TripCase-brugere reelt mistede
 
@@ -32,15 +32,15 @@ TripCase opfandt ikke meget, men den perfektionerede en håndfuld arbejdsgange, 
 
 Kernen var **aflæsning af bookingmails til rejseplaner** – videresend enhver bekræftelse fra flyselskab, hotel eller biludlejning, og appen samlede den til en kronologisk rejse med datoer og bookingnumre. Nul manuel indtastning betød en fuld rejseplan på få sekunder, hvilket er præcis grunden til, at folk blev hængende i et årti.
 
-**Flyalarmer i realtid** fulgte med: forsinkelser, gateændringer og aflysninger, ofte før flyselskabets egen besked. TripIt tager nu betalt for sit Pro-niveau for det tilsvarende, mens TripCase tilbød funktionen gratis til alle.
+**Flyalarmer i realtid** fulgte med: forsinkelser og gateændringer, ofte før flyselskabets egen besked. TripIt tager nu betalt for sit Pro-niveau for det tilsvarende.
 
-De fly, hoteller og transport på jorden levede alle i **rejsens tidslinje** – én scrollbar stak pr. rejse. Simpelt, men hvis du nogensinde har jongleret en flerby-uge ud fra et dusin bookingmails, forstår du, hvorfor det betød noget. I tråde på FlyerTalk og andre steder fremhæver tidligere brugere konsekvent **Document Vault** som den mest savnede del – det ene sikre hjem for boardingkort, visa, pas og bekræftelser. Endelig lod **rejsedeling** familiemedlemmer eller kolleger følge med uden videresendte mails.
+De fly, hoteller og transport på jorden levede alle i **rejsens tidslinje** – én scrollbar stak pr. rejse. Simpelt, men hvis du nogensinde har jongleret en flerby-uge ud fra et dusin bookingmails, forstår du, hvorfor det betød noget. I tråde på FlyerTalk og andre steder nævner nogle tidligere brugere **Document Vault** blandt de funktioner, de savner – det ene sikre hjem for boardingkort, visa, pas og bekræftelser. Endelig lod **rejsedeling** familiemedlemmer eller kolleger følge med uden videresendte mails.
 
 ## En cloud-app opbevarer dine data efter en andens ur
 
 Når du bygger dit rejseliv op omkring en gratis cloud-app, lejer du plads, som ejeren kan tage tilbage når som helst.
 
-TripCase eksisterede længe nok til, at folk behandlede den som fast infrastruktur og uploadede flere års optegnelser og dokumenter i den tro, at den altid ville være der. Så regnede Sabre på det, besluttede, at appen ikke var kernen i forretningen, og et årtis brugerdata forsvandt efter en tidsplan, Sabre selv valgte.
+TripCase eksisterede længe nok til, at folk behandlede den som fast infrastruktur og uploadede flere års optegnelser og dokumenter i den tro, at den altid ville være der. Så valgte Sabre at afvikle appen, og brugerdataene forsvandt efter en tidsplan, Sabre selv fastsatte.
 
 Intet af dette handler om ond vilje; det er bare, hvordan forretningsbeslutninger fungerer. Rejseapps lukker jævnligt, gratis niveauer flyttes bag betalingsmure, og tjenester nedlægges. Den person, der ikke har indflydelse på tidspunktet, er dig.
 
@@ -54,11 +54,11 @@ TripCase bundtede flere forskellige opgaver i én gratis app. Ingen nuværende a
 
 | Opgaven | Hvad TripCase gjorde | Bedste erstatning nu | Pris |
 |---|---|---|---|
-| Flyalarmer | Forsinkelser, gateændringer, aflysninger i realtid | Flighty | Gratis niveau; betalt abonnement tilgængeligt |
+| Flyalarmer | Forsinkelser og gateændringer i realtid | Flighty | Gratis niveau; betalt abonnement tilgængeligt |
 | Aflæsning af bookingmails til rejseplan | Videresend en bekræftelse, rejsen bygger sig selv | TripIt eller Tripsy | TripIt har et gratis niveau; tjek deres side for aktuel Pro-pris |
-| Rejsens tidslinje | Ét kronologisk overblik pr. rejse | TripIt eller Tripsy | Inkluderet ovenfor |
+| Rejsens tidslinje | Ét kronologisk overblik pr. rejse | TripIt | Inkluderet ovenfor |
 | Opbevaring af rejsedokumenter | Document Vault: pas, visa, boardingkort | Travel Document Vault | Engangskøb, intet abonnement |
-| Rejsedeling | Følgere kunne se din aktuelle rejseplan | TripIt-deling, eller en delt mappe | Gratis |
+| Rejsedeling | Følgere kunne se din aktuelle rejseplan | TripIt-deling (tjek hvilket abonnement), eller en delt mappe | Varierer efter abonnement |
 
 Flyalarmer og rejseplan-aflæsning er bekvemmeligheder – reelt nyttige sådan nogle – og de hører hjemme i skyen, fordi de kun betyder noget, mens en rejse er i gang. Dokumentopbevaring er derimod anderledes: det er den ene opgave, hvor tabt adgang faktisk koster dig noget, du ikke kan omlægge.
 
@@ -76,7 +76,7 @@ Det fornuftige svar på TripCases sammenbrud er ikke at opgive cloud-værktøjer
 
 TripCase er væk, og dens funktioner er spredt ud over andre apps nu. Men der er én lære værd at tage med: dine rejsedokumenter bør ikke dø sammen med en andens server.
 
-Start med et enkelt tjek i dag: hvor ligger hver scanning af dit pas, hvert visum-PDF, hvert barns ID lige nu, og hvad sker der med det, hvis tjenesten forsvinder med 60 dages varsel? Vores [tjekliste til rejsedokumenter](https://traveldocumentvault.com/da/blog/travel-document-checklist/) er et praktisk sted at starte.
+Start med et enkelt tjek i dag: hvor ligger hver scanning af dit pas, hvert visum-PDF, hvert barns ID lige nu, og hvad sker der med det, hvis tjenesten forsvinder med få måneders varsel? Vores [tjekliste til rejsedokumenter](https://traveldocumentvault.com/da/blog/travel-document-checklist/) er et praktisk sted at starte.
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 
@@ -84,15 +84,15 @@ Start med et enkelt tjek i dag: hvor ligger hver scanning af dit pas, hvert visu
 
 ### Hvornår lukkede TripCase?
 
-TripCase lukkede den 1. april 2025, efter at moderselskabet Sabre Corporation besluttede at nedlægge tjenesten. Brugerne havde frem til den 30. juni 2025 til at eksportere deres rejsedata, før alle oplysninger blev slettet permanent fra Sabres servere.
+TripCase lukkede den 1. april 2025, efter at moderselskabet Sabre Corporation besluttede at nedlægge tjenesten. Sabres meddelelse, som den blev refereret dengang, gav brugerne frem til den 30. juni 2025 til at downloade deres rejser, før de resterende data blev fjernet.
 
 ### Kan jeg tilgå mine TripCase-data efter lukningen?
 
-Nej. Sabre fjernede alle brugerdata, efter eksportvinduet lukkede den 30. juni 2025. Hvis du eksporterede dine rejser før den dato, har du stadig den eksportfil, men dataene på Sabres servere er væk for altid. Mange brugere rapporterede, at eksportprocessen var ufuldstændig, så dele af rejsehistorikken gik tabt.
+Generelt nej. Sabre sagde, at det ville fjerne de resterende data efter downloadvinduet, som løb til den 30. juni 2025. Hvis du eksporterede dine rejser før den dato, har du stadig den eksportfil. Nogle brugere rapporterede, at eksportprocessen var ufuldstændig, så dele af rejsehistorikken muligvis ikke kan genskabes.
 
 ### Hvad er det bedste TripCase-alternativ til flyalarmer?
 
-Flighty er den mest direkte erstatning for flyalarmer i realtid. Appen sporer forsinkelser, gateændringer og aflysninger og kan hente flyafgange fra din kalender uden manuel indtastning. Den tilbyder i øjeblikket et gratis niveau med et betalt abonnement for det fulde funktionssæt.
+Flighty er den mest direkte erstatning for flyalarmer i realtid. Appen sporer forsinkelser og gateændringer og kan hente flyafgange fra din kalender uden manuel indtastning. Den tilbyder i øjeblikket et gratis niveau med et betalt abonnement for det fulde funktionssæt.
 
 ### Er der én app, der erstatter alt, hvad TripCase kunne?
 

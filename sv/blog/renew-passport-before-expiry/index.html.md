@@ -10,9 +10,9 @@ Source: https://traveldocumentvault.com/sv/blog/renew-passport-before-expiry/
 
 ## Viktiga punkter
 
-- **Ja, du kan förnya i förtid.** HM Passport Office och USAGov sätter ingen väntetid, och Kanada frågar bara efter en anledning om du ansöker mer än ett år i förväg.
+- **Ja, du kan förnya i förtid.** HM Passport Office anger inget tidigaste datum och USAGov nämner ingen väntetid, och Kanada frågar bara efter en anledning om du ansöker mer än ett år i förväg.
 - I Storbritannien innebär tidig förnyelse att du **lämnar tillbaka de månader du har kvar**. De har inte lagts till nya pass sedan oktober 2018.
-- Ditt gamla pass **makuleras så snart det nya är godkänt**, och i Kanadas onlinetjänst så snart du ansöker.
+- Ditt gamla pass **makuleras som en del av förnyelsen**, och i Kanadas onlinetjänst så snart du ansöker.
 - Det nya passet har **ett nytt nummer**, så ett amerikanskt ESTA, ett brittiskt ETA och alla bokningar kopplade till det gamla behöver kontrolleras, och ett visum i det gamla passet innebär att du bär med dig båda.
 - Vår uppfattning: **börja planera vid 12 månader, ansök senast vid nio**, under veckor utan bokad resa.
 
@@ -22,7 +22,7 @@ Inget av detta är ett skäl att vänta. Det är ett skäl att välja några lug
 
 ## Det finns ingen officiell väntetid innan du kan förnya
 
-HM Passport Office kopplar förnyelse till två utlösare: ditt pass har gått ut, eller det har inte tillräckligt med tid kvar för resmålet du ska till. Dess förnyelsevägledning anger inget tidigaste datum, och den säger att hur mycket tid du behöver beror på landet du besöker. USAGov går ett steg längre och säger till amerikaner att förnya i förtid, eftersom handläggningstiderna varierar och vissa länder och flygbolag nekar inresa när ett pass har mindre än sex månader kvar.
+HM Passport Office kopplar förnyelse till två utlösare: ditt pass har gått ut, eller det har inte tillräckligt med tid kvar för resmålet du ska till. Dess förnyelsevägledning anger inget tidigaste datum, och den säger att hur mycket tid du behöver beror på landet du besöker. USAGov säger till amerikaner att förnya i förtid, eftersom handläggningstiderna varierar och vissa länder och flygbolag nekar inresa när ett pass har mindre än sex månader kvar.
 
 Kanada drar en gräns, och även den är mjuk. Kanadas regering säger att om du ansöker mer än ett år innan passet går ut kommer de att fråga varför, och en ansökan via post behöver en skriftlig förklaring. Dess onlinetjänst för förnyelse är ännu snävare, öppen bara när passet går ut inom de kommande sex månaderna eller redan har gått ut.
 
@@ -40,21 +40,21 @@ Det spelar roll eftersom EU:s Your Europe-vägledning säger att ett pass som an
 
 ## Ditt gamla pass slutar fungera så snart det nya är godkänt
 
-Förnyelse är inte ett byte som väntar på att det nya passet ska landa i brevlådan. I Storbritannien skickas det gamla passet in tillsammans med ansökan, och HM Passport Offices vägledning för handläggare säger åt personalen att makulera det när de godkänner det nya. Kanadas onlinetjänst går ännu snabbare. Kanadas regering säger att ditt nuvarande pass makuleras och slutar vara giltigt så snart du ansöker, och den säger åt alla som reser inom de kommande 20 arbetsdagarna att inte ansöka online.
+Förnyelse är inte ett byte som väntar på att det nya passet ska landa i brevlådan. I Storbritannien skickas det gamla passet in tillsammans med ansökan, och det makuleras som en del av förnyelsen, så planera inte att resa med det när du väl har ansökt. Kanadas onlinetjänst går ännu snabbare. Kanadas regering säger att ditt nuvarande pass makuleras och slutar vara giltigt så snart du ansöker, och den säger åt alla som reser inom de kommande 20 arbetsdagarna att inte ansöka online.
 
 Det är det praktiska argumentet för att förnya mellan resor snarare än kring en resa. Om du kan resa alls medan en förnyelse pågår beror på landet och vägen du använder. Vi går igenom det land för land i vår guide om [att resa medan ditt pass förnyas](https://traveldocumentvault.com/sv/blog/travel-while-passport-renewal-pending/).
 
-Visum är undantaget värt att planera för. Om ditt gamla brittiska pass har ett visum som inte har gått ut säger GOV.UK att du ska skicka in passet med visumet fastsatt, och det kommer att returneras till dig. USAGov säger att amerikaner får tillbaka sitt senaste pass i ett separat kuvert, vanligtvis omkring fyra veckor efter att det nya anländer. Kanada ber dig ange på blanketten att du behöver visumet och vill ha originalet tillbaka, och varnar att visumet annars kan skadas när det gamla passet makuleras.
+Visum är undantaget värt att planera för. Om ditt gamla brittiska pass har ett visum som inte har gått ut säger GOV.UK att du ska skicka in passet med visumet fastsatt, och det kommer att returneras till dig. USAGov säger att amerikaner får tillbaka sitt senaste pass i ett separat kuvert, vanligtvis omkring fyra veckor efter att det nya anländer. Kanadas vägledning kan skilja sig, så kontrollera dess förnyelsesida innan du skickar in ett pass med ett giltigt visum.
 
 ## Ett nytt passnummer ändrar mer än bara häftet
 
-Varje förnyelse kommer med ett nytt nummer. HM Passport Office kopplar det till sitt mest användbara råd: boka inte resor förrän du har ett giltigt pass, eftersom det nya inte kommer att ha samma nummer som det gamla. Kanadas regering säger i stort sett samma sak och rekommenderar att du inte slutför resplaner förrän passet anländer.
+Varje förnyelse kommer med ett nytt nummer. HM Passport Office kopplar det till sitt mest användbara råd: boka inte resor förrän du har ett giltigt pass, eftersom det nya inte kommer att ha samma nummer som det gamla. Kanadas regering säger att den som ska resa inom de kommande 20 arbetsdagarna inte ska ansöka online.
 
 Allt som redan är kopplat till det gamla numret är värt att se över före din nästa resa:
 
 - **Ett amerikanskt ESTA** måste ansökas om igen. US Customs and Border Protection säger att ett nytt ESTA krävs när resenären får ett nytt pass.
 - GOV.UK säger att **ett brittiskt ETA** är kopplat till det pass du ansökte med och gäller i två år eller tills det passet går ut, beroende på vad som inträffar först. Kontrollera var ditt står innan du flyger på det nya, och vår guide om [vilket pass ett brittiskt ETA är kopplat till](https://traveldocumentvault.com/sv/blog/uk-eta-passport-rules/) går igenom detaljerna.
-- För **ett visum i det gamla passet** är det vanliga svaret att bära med sig båda. CBP säger att ett amerikanskt visum i ett utgånget pass fortfarande kan användas tillsammans med det nya, utan att behöva ansökas om igen såvida inte visumet i sig har gått ut. GOV.UK ger brittiska resenärer samma råd för andra länders visum, även om Ryssland har andra regler.
+- För **ett visum i det gamla passet** är det vanliga svaret att bära med sig båda. Ett visum i ditt gamla pass är i regel fortfarande giltigt, så ta med båda passen och kontrollera det utfärdande landets officiella vägledning.
 - **Flyg och hotell** som bokats med uppgifterna från ditt gamla pass kan behöva få det nya numret tillagt, ett enkelt jobb hemma och ett besvärligt vid incheckningsdisken.
 
 ## Förnya under en lugn period utan bokad resa
@@ -65,7 +65,7 @@ Vår uppfattning är enkel: börja tänka på förnyelse när ett pass sjunker t
 
 Den andra halvan är att välja tidpunkten inom det fönstret. Leta efter några veckor utan något bokat, eftersom det gamla passet skickas in med ansökan och det nya kommer tillbaka med ett annat nummer.
 
-HM Passport Office säger att du vanligtvis får ett pass inom tre veckor, längre om det behöver mer information eller en intervju, och klockan börjar ticka när de tar emot dina dokument. I Kanada är den publicerade standarden 10 eller 20 arbetsdagar beroende på var du ansöker, plus posttid. För vad som brukar bromsa en ansökan har vår guide om [hur lång tid passförnyelse tar](https://traveldocumentvault.com/sv/blog/how-long-does-passport-renewal-take/) detaljerna.
+HM Passport Office säger att du vanligtvis får ett pass inom tre veckor, längre om det behöver mer information eller en intervju, och klockan börjar ticka när de tar emot dina dokument. I Kanada kan förnyelse online ta upp till 20 arbetsdagar plus posttid. För vad som brukar bromsa en ansökan har vår guide om [hur lång tid passförnyelse tar](https://traveldocumentvault.com/sv/blog/how-long-does-passport-renewal-take/) detaljerna.
 
 Om en familjeresa är på gång, gå igenom alla pass i hushållet samtidigt. I Storbritannien utfärdar HM Passport Office barnpass för fem år i stället för tio, så det som behöver förnyas först är ofta inte det du skulle förvänta dig. Ska någon till ett resmål som kräver extra giltighet vid ankomst, kolla vår guide om [6-månadersregeln för pass](https://traveldocumentvault.com/sv/blog/passport-expiry-6-month-rule/) för hur det förskjuter ditt datum.
 
@@ -75,7 +75,7 @@ Om en familjeresa är på gång, gå igenom alla pass i hushållet samtidigt. I 
 
 ### Kan du förnya ett pass innan det går ut?
 
-Ja. HM Passport Office och USAGov sätter ingen minsta väntetid, och USAGov säger till amerikaner att förnya i förtid. Kanada frågar efter din anledning om du ansöker mer än ett år före utgångsdatumet, och dess onlineförnyelse är bara öppen inom sex månader från utgångsdatumet.
+Ja. HM Passport Office anger inget tidigaste datum och USAGov nämner ingen väntetid, och USAGov säger till amerikaner att förnya i förtid. Kanada frågar efter din anledning om du ansöker mer än ett år före utgångsdatumet, och dess onlineförnyelse är bara öppen inom sex månader från utgångsdatumet.
 
 ### Förlorar du de återstående månaderna om du förnyar ett brittiskt pass i förtid?
 
@@ -83,7 +83,7 @@ Ja. HM Passport Offices vägledning säger att oanvänd giltighet på upp till n
 
 ### Kan jag fortfarande använda mitt gamla pass efter att ha ansökt om förnyelse?
 
-Planera som om du inte kan det. HM Passport Office makulerar det gamla passet när det godkänner det nya, och Kanadas onlinetjänst makulerar det så snart du ansöker. Om det gamla passet har ett giltigt visum kan det returneras till dig så att du kan resa med båda.
+Planera som om du inte kan det. HM Passport Office makulerar det gamla passet som en del av förnyelsen, och Kanadas onlinetjänst makulerar det så snart du ansöker. Om det gamla passet har ett giltigt visum kan det returneras till dig så att du kan resa med båda.
 
 ### Behöver jag ett nytt ESTA eller brittiskt ETA efter att jag förnyat mitt pass?
 

@@ -11,9 +11,9 @@ Source: https://traveldocumentvault.com/fr/blog/lost-passport-abroad/
 ## Points clés
 
 - Déposez un rapport de police dès que possible — votre assureur le demandera généralement, et certaines ambassades aussi.
-- Votre ambassade ou consulat peut délivrer un document de voyage d'urgence, généralement bien plus vite qu'un passeport de remplacement. **Appelez à l'avance** — la plupart exigent un rendez-vous.
-- Les voyageurs qui disposent d'une copie numérique sécurisée de leur passeport obtiennent les documents de remplacement plus rapidement — vous fournissez les détails dont votre ambassade a besoin en quelques secondes.
-- L'assurance voyage couvre les frais de remplacement du passeport dans la plupart des polices complètes. Vous avez besoin du rapport de police pour la réclamation.
+- Votre ambassade ou consulat peut généralement vous aider à obtenir un document de voyage d'urgence, mais tous les bureaux ne proposent pas tous les services. **Appelez à l'avance** — certains exigent un rendez-vous et pourront vous indiquer le délai.
+- Une copie des informations de votre passeport peut faciliter les démarches, mais elle ne peut pas servir de pièce d'identité.
+- Certaines assurances voyage couvrent les frais de remplacement du passeport. Vérifiez votre contrat et conservez le rapport de police, souvent demandé par les assureurs.
 - Le moment de vous préparer, c'est maintenant, avant que quelque chose n'aille mal. Une numérisation de cinq minutes aujourd'hui pourrait vous économiser des jours de stress à l'étranger.
 
 Chaque jour, des voyageurs font remplacer leur passeport perdu à l'étranger, et les ambassades traitent cela comme une démarche courante plutôt que comme une urgence. La procédure suit un ordre précis, et le respecter est ce qui transforme un mauvais après-midi en simple retard plutôt qu'en voyage annulé. Voici la marche à suivre, étape par étape.
@@ -22,7 +22,7 @@ Chaque jour, des voyageurs font remplacer leur passeport perdu à l'étranger, e
 
 Si vous lisez ceci avant votre voyage, consacrez les cinq prochaines minutes à cela. Prenez une photo claire de la page de données principale de chaque passeport avec lequel vous voyagez. Conservez-la dans une application chiffrée qui fonctionne hors ligne — bien plus sécurisée que votre galerie de photos, et gardée complètement privée.
 
-Lorsque vous arrivez à votre ambassade, ils vous demanderont votre numéro de passeport, la date de délivrance, le lieu de délivrance et la date d'expiration. Sans copie, vous essayez de mémoriser ces détails sous le stress. Avec une, vous les leur remettez en quelques secondes. **Le personnel consulaire délivre les documents de remplacement plus rapidement lorsque vous arrivez avec les détails déjà écrits.**
+À l'ambassade, on vous demandera généralement des informations sur votre passeport, comme son numéro, sa date et son lieu de délivrance, ainsi que sa date d'expiration. Sans copie, vous devez vous les rappeler sous le stress. Avec une copie, vous pouvez les fournir rapidement. Elle peut faciliter les démarches lorsque vous **arrivez avec les informations déjà notées**, mais ne peut pas servir de pièce d'identité.
 
 Une copie sur votre téléphone est une trace et non une pièce d'identité.
 
@@ -49,7 +49,7 @@ Votre ambassade ou consulat est votre route vers la maison. Contactez-les dès q
 - **Citoyens australiens:** Smartraveller - passeport perdu ou volé
 - **Citoyens canadiens:** Canada.ca - passeport perdu ou volé à l'étranger
 
-Appelez avant de visiter. De nombreuses ambassades exigent un rendez-vous pour les services de passeport d'urgence et peuvent vous dire exactement ce qu'il faut apporter — vous présenter sans rendez-vous pourrait vous coûter une demi-journée.
+Appelez avant de vous déplacer. Certaines ambassades exigent un rendez-vous pour les services de passeport d'urgence — le Royaume-Uni précise qu'un rendez-vous peut vous être demandé — et pourront vous dire exactement quoi apporter. Vous présenter sans rendez-vous pourrait vous coûter une demi-journée.
 
 ## Étape 4 — Demandez un document de voyage d'urgence
 
@@ -62,21 +62,21 @@ Ce dont vous aurez généralement besoin (confirmez avec votre ambassade avant d
 - Photos de passeport — demandez à votre ambassade où les obtenir localement
 - Votre copie numérique du passeport perdu si vous en avez une
 - Preuve de voyage ultérieur — réservation de vol, confirmation d'hôtel
-- Frais de document d'urgence — ayez à la fois du liquide et une carte disponibles
+- Frais du document d'urgence — demandez à votre ambassade quels moyens de paiement sont acceptés
 
 ## Étape 5 — Notifiez votre assureur voyage
 
-Signalez la perte à votre assureur voyage dès que possible. La plupart des polices complètes couvrent les frais de remplacement du passeport, les frais de passeport d'urgence, et parfois les frais de logement supplémentaires si vous êtes retardé. Conservez tous les reçus — vous en aurez besoin pour la réclamation, ainsi que le numéro de référence du rapport de police.
+Signalez la perte à votre assureur voyage dès que possible. Certains contrats couvrent les frais de remplacement du passeport et parfois un hébergement supplémentaire en cas de retard. Vérifiez le vôtre. Conservez tous les reçus pour votre demande de remboursement, ainsi que le numéro du rapport de police, souvent demandé par les assureurs.
 
 Vous pourrez passer cet appel plus tôt si le numéro de police et la ligne d'assistance 24 heures sont déjà à portée de main plutôt qu'enfouis dans une boîte mail à laquelle vous ne pouvez pas accéder. Notre guide sur [les documents d'assurance voyage à sauvegarder avant de partir](https://traveldocumentvault.com/fr/blog/travel-insurance-documents/) répertorie ce qu'il faut conserver hors ligne.
 
 ## Étape 6 — Vérifiez votre situation de visa
 
-Un visa n'est valable que pour le passeport spécifique pour lequel il a été délivré. Si votre passeport est perdu, votre visa l'est aussi — même un document de voyage d'urgence ne le restaurera pas. Votre ambassade vous conseillera si votre pays de destination vous permettra de sortir sur un DTU, en référence au visa perdu. Ne supposez pas que vous pouvez partir — confirmez avec votre ambassade avant de tenter de le faire.
+Si un visa était collé ou imprimé dans le passeport perdu, vous devrez généralement demander conseil à votre ambassade et au pays qui l'a délivré pour le remplacer ; un document de voyage d'urgence ne le reprend pas automatiquement. Votre ambassade vous conseillera si votre pays de destination vous permettra de sortir sur un DTU, en référence au visa perdu. Ne supposez pas que vous pouvez partir — confirmez avec votre ambassade avant de tenter de le faire.
 
 Ce que cela signifie en pratique
 
-Si vous perdez un passeport en Thaïlande qui contient un visa valide à entrées multiples pour un autre pays que vous aviez l'intention de visiter au cours du même voyage, ce visa n'est plus utilisable. Vous devriez demander un nouveau visa dans votre passeport de remplacement. Cela prend du temps et de l'argent que vous n'avez peut-être pas en cours de voyage. C'est une autre raison pour laquelle une copie numérique sécurisée est importante — elle prouve que le visa existait et peut soutenir une demande de remplacement accélérée.
+Si vous perdez un passeport en Thaïlande qui contient un visa valide à entrées multiples pour un autre pays que vous aviez l'intention de visiter au cours du même voyage, vous devrez généralement vérifier auprès du pays qui l'a délivré s'il vous faut un visa de remplacement ou une nouvelle demande. Cela prend du temps et de l'argent que vous n'avez peut-être pas en cours de voyage. C'est une autre raison pour laquelle une copie numérique sécurisée est importante — elle peut aider à montrer que le visa existait.
 
 ## Étape 7 — Rentrez à la maison et remplacez votre passeport
 
@@ -88,11 +88,11 @@ Une fois que vous avez votre document de voyage d'urgence, confirmez les exigenc
 
 ### Que dois-je faire si je perds mon passeport à l'étranger?
 
-Déposez un rapport de police immédiatement, puis contactez votre ambassade ou consulat le plus proche pour demander un document de voyage d'urgence. Notifiez votre assureur voyage et conservez tous les reçus. Posséder une copie numérique sécurisée de votre passeport avant de voyager accélère chaque étape.
+Déposez un rapport de police immédiatement, puis contactez votre ambassade ou consulat le plus proche pour demander un document de voyage d'urgence. Notifiez votre assureur voyage et conservez tous les reçus. Disposer d'une copie numérique sécurisée de votre passeport avant le voyage peut faciliter les démarches, mais elle ne peut pas servir de pièce d'identité.
 
 ### Puis-je obtenir un passeport d'urgence à l'étranger?
 
-Oui. La plupart des pays délivrent des documents de voyage d'urgence par l'intermédiaire de leurs ambassades et consulats, généralement valables pour un seul voyage vers la maison. Le délai de délivrance dépend du poste consulaire et de l'urgence de votre situation, alors renseignez-vous en appelant. Appelez votre ambassade ou consulat le plus proche dès que possible — beaucoup exigent un rendez-vous.
+Oui. De nombreux pays délivrent des documents de voyage d'urgence par l'intermédiaire de leurs ambassades et consulats, généralement valables pour un seul voyage vers la maison. Le délai de délivrance dépend du poste consulaire et de l'urgence de votre situation, alors renseignez-vous en appelant. Appelez votre ambassade ou consulat le plus proche dès que possible — certains exigent un rendez-vous.
 
 ### Ai-je besoin d'un rapport de police si mon passeport est volé à l'étranger?
 
@@ -100,11 +100,11 @@ Cela vaut généralement la peine d'en obtenir un, même si toutes les autorité
 
 ### L'assurance voyage couvrira-t-elle un passeport perdu ou volé?
 
-La plupart des polices d'assurance voyage complètes couvrent les frais de remplacement du passeport, y compris les frais de passeport d'urgence, et parfois les frais de logement supplémentaires si vous êtes retardé. Vérifiez votre police spécifique pour les montants de couverture. Vous aurez besoin du numéro de référence du rapport de police pour faire la réclamation.
+Certaines assurances voyage couvrent les frais de remplacement du passeport et parfois un hébergement supplémentaire en cas de retard. Vérifiez les garanties de votre contrat. Conservez le numéro du rapport de police, souvent demandé par les assureurs.
 
 ### Comment puis-je accélérer le processus de passeport d'urgence?
 
-Posséder une copie numérique sécurisée de votre passeport stockée avant de voyager est l'étape la plus efficace. Votre ambassade a besoin de votre numéro de passeport, de la date de délivrance et du lieu de délivrance. Une copie numérique signifie que vous fournissez ces détails instantanément plutôt que d'essayer de les mémoriser sous le stress.
+Disposer d'une copie numérique sécurisée de votre passeport avant le voyage est utile. Votre ambassade vous demandera généralement des informations comme le numéro, la date et le lieu de délivrance du passeport. Une copie numérique permet de les fournir rapidement plutôt que de devoir vous les rappeler sous le stress.
 
 ## Articles associés
 

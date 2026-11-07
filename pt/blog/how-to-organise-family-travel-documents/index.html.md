@@ -26,7 +26,7 @@ Este guia cobre o sistema inteiro; para saber mais sobre um ponto específico, c
 
 Depende de onde está a ir, mas para a maioria das viagens internacionais em família a lista é mais longa do que as pessoas esperam. Aqui está a lista de verificação de documentos de viagem essencial para famílias, a começar pelos documentos de identidade de que todos precisam:
 
-- Passaportes para cada membro da família (verifique a validade no mínimo 3 meses antes da viagem)
+- Passaportes para cada membro da família (verifique a validade face às regras de entrada do destino com antecedência, antes de reservar; começaríamos três meses antes)
 - Vistos, se exigidos pelo país de destino
 - Cartões de identidade nacionais se forem aceites em vez de passaportes (viagem Schengen para cidadãos da UE)
 
@@ -45,9 +45,9 @@ Depende de onde está a ir, mas para a maioria das viagens internacionais em fam
 
 ### Carta de Consentimento de Viagem Infantil: Quando Precisa Uma
 
-Uma carta de consentimento de viagem infantil é um documento assinado pelo progenitor ausente (ou tutor legal) dando permissão para a criança viajar. Não é universalmente exigida por lei, mas oficiais de imigração em muitos países — incluindo os EUA, Canadá, México e vários outros — regularmente a solicitam quando uma criança está a viajar apenas com um dos pais ou com outro adulto.
+Uma carta de consentimento de viagem infantil é um documento assinado pelo progenitor ausente (ou tutor legal) dando permissão para a criança viajar. Geralmente não é uma exigência legal, mas agentes fronteiriços de alguns países, como o Canadá, podem pedir prova de que ambos os pais concordam com a viagem quando uma criança viaja apenas com um deles ou com outro adulto. É fácil de levar e pode poupar perguntas na fronteira.
 
-Sem uma, pode enfrentar atrasos, questionamento adicional ou, em alguns casos, entrada negada. Alguns países, como Canadá e África do Sul, são conhecidos por solicitar rigorosamente esta documentação.
+A África do Sul tem regras próprias para viagens com crianças, incluindo uma certidão de nascimento completa, por isso consulte as orientações do Departamento de Assuntos Domésticos antes de partir.
 
 Uma carta de consentimento válida deve incluir: o nome completo e data de nascimento da criança, nomes de ambos os pais e detalhes de contacto, detalhes do progenitor que viaja, destino(s) e datas de viagem, e assinatura do progenitor ausente (cópias notarizadas são mais convincentes, embora nem sempre exigidas). Mantenha uma cópia digital e física.
 
@@ -57,7 +57,7 @@ Uma carta de consentimento válida deve incluir: o nome completo e data de nasci
 
 - Carta de condução internacional (se estiver a alugar um carro no estrangeiro)
 - Registos médicos ou detalhes de prescrição para condições contínuas
-- Cartão Europeu de Seguro de Doença (EHIC) para viajantes da UE
+- Cartão Europeu de Seguro de Doença (EHIC), se estiver abrangido por um sistema de saúde da UE
 
 ## Organização Física: Onde Manter os Originais
 
@@ -95,7 +95,7 @@ Aqui está o padrão de falha que apanha famílias: renova o seu próprio passap
 
 - **Lembretes no calendário:** Defina um 12 meses antes de cada documento expirar e outro aos 6 meses. Precisará lembrar-se de atualizar estes quando documentos forem renovados, e precisa ter as datas de validade acessíveis em primeiro lugar.
 - **Folha de cálculo:** Funciona bem se realmente vai mantê-la. Uma linha por documento por pessoa, a data de validade, e uma fórmula que realça qualquer coisa expirando nos próximos 12 meses.
-- **Aplicação dedicada:** Travel Document Vault agenda lembretes para passaportes a partir de oito meses antes do fim da validade, com alertas em intervalos mais próximos. Digitalize um passaporte e confirme ou introduza a data de validade; os lembretes estão ativados por predefinição.
+- **Aplicação dedicada:** Travel Document Vault agenda lembretes para passaportes a partir de oito meses antes do fim da validade, com alertas em intervalos mais próximos. Digitalize um passaporte e confirme ou introduza a data de validade; pode escolher se pretende ativar os lembretes.
 
 Qualquer uma destas três abordagens funcionará, mas por defeito escolheríamos a que envia o lembrete automaticamente, já que uma folha de cálculo só ajuda se se lembrar de a abrir. O que mais importa é escolher uma que se adeque à forma como já opera e realmente cumprir com ela.
 
@@ -148,7 +148,7 @@ Verifique antes de reservar voos — e no mínimo três meses antes de viajar. O
 
 ### Preciso de uma carta de consentimento quando viajo sozinho com meu filho?
 
-Pode não ser legalmente necessária, mas é recomendado. Oficiais de imigração em países como Canadá, África do Sul, México e muitos outros regularmente solicitam uma carta de consentimento de viagem infantil quando uma criança está a viajar apenas com um dos pais. Sem uma, arriscas atrasos, questionamento ou entrada negada. A carta deve incluir detalhes da criança, informações de contacto de ambos os pais, datas de viagem, destinos e assinatura do progenitor ausente — notarizada se possível.
+Pode não ser legalmente necessária, mas é recomendado. Agentes fronteiriços de alguns países, como o Canadá, podem pedir uma carta de consentimento de viagem infantil quando uma criança viaja apenas com um dos pais. Sem uma, pode enfrentar perguntas adicionais. A carta deve incluir detalhes da criança, informações de contacto de ambos os pais, datas de viagem, destinos e assinatura do progenitor ausente — notarizada se possível.
 
 ## Artigos Relacionados
 

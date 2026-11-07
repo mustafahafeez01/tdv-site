@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/id/blog/family-passport-management/
 
 ## Poin Penting
 
-- **Paspor anak kedaluwarsa dua kali lebih cepat daripada paspor dewasa.** Dokumen anak-anak hanya berlaku 5 tahun, sehingga tanggal kedaluwarsa anggota keluarga termuda sering kali menjadi batas waktu untuk perjalanan berikutnya.
+- **Paspor anak sering kali kedaluwarsa lebih cepat daripada paspor dewasa.** Di Inggris, paspor anak berlaku 5 tahun, sehingga tanggal kedaluwarsa anggota keluarga termuda sering kali menjadi batas waktu untuk perjalanan berikutnya.
 - Jangan pernah membawa semua paspor keluarga bersamaan saat bepergian. **Setiap orang membawa paspornya sendiri**, dan simpan salinannya bersama kontak tepercaya di rumah.
 - **Simpan salinan digital di satu lokasi terenkripsi,** dengan satu cadangan fisik di tempat aman yang bisa Anda akses dengan cepat jika diperlukan.
 - Buat sistem bersama untuk melacak tanggal kedaluwarsa setiap anggota keluarga. **Satu orang yang menanganinya mencegah perpanjangan terlewat.**
@@ -24,9 +24,9 @@ Masalahnya dimulai dari hal kecil. Anda punya paspor sendiri, pasangan Anda puny
 
 Biasanya satu orang akhirnya menangani semuanya, sering kali yang juga sudah mengurus logistik perjalanan lainnya, dan titik kegagalan tunggal ini pun menjadi risiko tersendiri.
 
-Paspor anak juga kedaluwarsa jauh lebih cepat daripada paspor dewasa. Di Amerika Serikat, paspor anak di bawah 16 tahun berlaku 5 tahun, sementara paspor dewasa berlaku 10 tahun. Hal yang sama berlaku di Inggris Raya, dokumen anak kedaluwarsa setelah 5 tahun, bukan 10 tahun. Artinya, paspor anak bungsu Anda sering kali menjadi faktor pembatas untuk perjalanan keluarga. Anda mungkin punya orang tua dengan sisa masa berlaku 8 tahun, tapi jika paspor si bungsu kedaluwarsa dalam 18 bulan, itulah batas waktu perencanaan Anda sebenarnya.
+Paspor anak sering kali kedaluwarsa lebih cepat daripada paspor dewasa. Di Inggris, paspor anak berlaku 5 tahun, dan banyak negara lain juga menerbitkan paspor anak dengan masa berlaku yang lebih singkat daripada paspor dewasa. Artinya, paspor anak bungsu Anda sering kali menjadi faktor pembatas untuk perjalanan keluarga. Anda mungkin punya orang tua dengan sisa masa berlaku 8 tahun, tapi jika paspor si bungsu kedaluwarsa dalam 18 bulan, itulah batas waktu perencanaan Anda sebenarnya.
 
-Kebanyakan keluarga baru menyadari hal ini setelah tiket perjalanan sudah dipesan. Seorang orang tua menemukan paspor-paspor itu seminggu sebelum keberangkatan, memeriksanya sambil terburu-buru berkemas, lalu mendapati bahwa paspor salah satu anak tidak memenuhi aturan masa berlaku 6 bulan untuk negara tujuan. Perjalanan pun jadi terancam, atau harus melalui perpanjangan paspor yang tergesa-gesa dan mahal.
+Kebanyakan keluarga baru menyadari hal ini setelah tiket perjalanan sudah dipesan. Seorang orang tua menemukan paspor-paspor itu seminggu sebelum keberangkatan, memeriksanya sambil terburu-buru berkemas, lalu mendapati bahwa paspor salah satu anak tidak memenuhi aturan masa berlaku yang diterapkan sebagian negara tujuan, sering kali enam bulan. Perjalanan pun jadi terancam, atau harus melalui perpanjangan paspor yang tergesa-gesa dan mahal.
 
 ## Fondasi Utama: Satu Tempat Aman untuk Semua Paspor Keluarga
 
@@ -34,7 +34,7 @@ Langkah pertama adalah memusatkan tempat penyimpanan paspor keluarga. Artinya, s
 
 Penyimpanan terenkripsi itu penting karena paspor memuat nama lengkap sesuai identitas resmi, tanggal lahir, dan nomor paspor Anda, informasi yang sudah cukup untuk pencurian identitas. Aplikasi penyimpanan foto umum seperti Google Photos atau iCloud memperlakukan dokumen Anda sekadar sebagai jepretan foto biasa, bukan data identitas yang sensitif. Folder PDF yang dilindungi kata sandi di perangkat Anda, atau [aplikasi yang memang dirancang khusus untuk menangani dokumen perjalanan](https://traveldocumentvault.com/id/blog/best-passport-organizer-app/), memberi Anda lapisan enkripsi yang dibutuhkan.
 
-![Diagram sistem paspor satu keluarga: empat paspor (Ayah, Ibu, Anak 1, Anak 2) masuk ke satu vault terenkripsi, dengan pengingat kedaluwarsa, akses offline, dan cadangan terenkripsi yang dihasilkan, serta catatan bahwa paspor anak kedaluwarsa dalam 5 tahun bukan 10](https://traveldocumentvault.com/blog/family-passport-management/family-system-figure-id.jpg) Satu sistem untuk keluarga: setiap paspor di satu tempat, dengan pelacakan otomatis untuk setiap tanggal kedaluwarsa
+![Diagram sistem paspor satu keluarga: empat paspor (Ayah, Ibu, Anak 1, Anak 2) masuk ke satu vault terenkripsi, dengan pengingat kedaluwarsa, akses offline, dan cadangan terenkripsi yang dihasilkan, serta catatan bahwa paspor anak sering kali kedaluwarsa lebih cepat daripada paspor dewasa](https://traveldocumentvault.com/blog/family-passport-management/family-system-figure-id.jpg) Satu sistem untuk keluarga: setiap paspor di satu tempat, dengan pelacakan otomatis untuk setiap tanggal kedaluwarsa
 
 **Cukup salinan digital saja.** Pindai halaman identitas berfoto dari paspor setiap anggota keluarga. Satu gambar jelas dari halaman yang menampilkan foto, nama, tanggal lahir, nomor paspor, dan tanggal kedaluwarsa sudah cukup. Ini seharusnya hanya butuh 30 detik per orang.
 
@@ -59,7 +59,7 @@ Penyimpanan digital memang praktis, tapi perangkat bisa rusak dan aplikasi bisa 
 
 Kebanyakan keluarga melakukannya dengan menyimpan dokumen asli di brankas rumah atau laci yang aman, salinan digital di aplikasi terenkripsi mereka, dan satu cadangan cetak dari setiap halaman identitas di lokasi terpisah — di rumah anggota keluarga tepercaya, di kotak deposit bank, atau di ruangan lain dalam brankas tahan api.
 
-Jika Anda terjebak di luar negeri dan perlu mengganti paspor yang hilang atau dicuri, salinan cadangan itulah yang dibutuhkan kedutaan atau konsulat untuk mempercepat proses penggantian darurat. Salinan fisik yang disimpan aman di rumah bisa dikirimkan kepada Anda saat sedang bepergian jika diperlukan, memberi Anda jalan keluar jika perangkat Anda bermasalah.
+Jika Anda terjebak di luar negeri dan perlu mengganti paspor yang hilang atau dicuri, salinan paspor bisa membantu kedutaan atau konsulat saat Anda mengajukan penggantian darurat. Salinan fisik yang disimpan aman di rumah bisa dikirimkan kepada Anda saat sedang bepergian jika diperlukan, memberi Anda jalan keluar jika perangkat Anda bermasalah.
 
 Untuk perjalanan internasional, jangan pernah membawa semua paspor keluarga bersamaan dalam satu tas. Setiap orang membawa dokumennya masing-masing. Jika tas jinjing Anda dicuri di bandara, Anda tidak kehilangan hasil perencanaan bertahun-tahun. Hanya paspor satu anggota keluarga yang berisiko langsung, dan Anda tetap punya salinan digital untuk membuktikan status semua anggota keluarga lainnya.
 
@@ -67,7 +67,7 @@ Untuk perjalanan internasional, jangan pernah membawa semua paspor keluarga bers
 
 Bagi keluarga yang salah satu atau kedua orang tuanya memiliki dwikewarganegaraan, sistemnya jadi sedikit lebih rumit, tapi justru semakin penting untuk dikelola dengan cermat.
 
-Anda mungkin bepergian dengan paspor Inggris ke sebagian negara, dan paspor Irlandia ke negara lain. Anak Anda mungkin memiliki tiga kewarganegaraan dan bepergian dengan paspor mana pun yang paling praktis untuk tujuan tertentu. Maskapai sering kali memprioritaskan paspor Anda berdasarkan kewarganegaraan saat check-in, dan beberapa konsulat bahkan mewajibkan Anda masuk negara tersebut dengan paspor tertentu, artinya, opsi "terbaik" untuk perjalanan Anda tergantung ke mana Anda pergi dan bagaimana cara Anda ke sana.
+Anda mungkin bepergian dengan paspor Inggris ke sebagian negara, dan paspor Irlandia ke negara lain. Anak Anda mungkin memiliki tiga kewarganegaraan dan bepergian dengan paspor mana pun yang paling praktis untuk tujuan tertentu. Sebagian negara mengharapkan warga negaranya sendiri, termasuk yang berkewarganegaraan ganda, masuk dengan paspor negara tersebut, jadi periksa panduan resmi setiap tujuan. Artinya, opsi "terbaik" untuk perjalanan Anda tergantung ke mana Anda pergi dan bagaimana cara Anda ke sana.
 
 Solusinya cukup sederhana: simpan salinan semua paspor di sistem Anda, dan tandai kewarganegaraan apa yang diwakili masing-masing paspor. Saat merencanakan perjalanan, periksa opsi milik setiap anggota keluarga dan tentukan paspor mana yang paling sesuai untuk destinasi tertentu. Catat keputusan Anda di tempat yang mudah diakses — misalnya catatan di itinerary perjalanan, atau kolom catatan di aplikasi paspor Anda — supaya jika terjadi sesuatu, Anda masih ingat dokumen mana yang Anda gunakan.
 
@@ -98,7 +98,7 @@ Gunakan aplikasi khusus yang melacak tanggal kedaluwarsa beberapa orang sekaligu
 
 ### Apakah paspor anak kedaluwarsa dengan kecepatan yang sama seperti paspor dewasa?
 
-Tidak. Paspor anak berlaku selama 5 tahun di sebagian besar negara, termasuk Amerika Serikat dan Inggris Raya, sementara paspor dewasa berlaku 10 tahun. Selalu periksa tanggal kedaluwarsa setiap anggota keluarga satu per satu sebelum memesan perjalanan, dokumen anak bungsu sering kali menjadi batas waktu perencanaan.
+Sering kali tidak. Paspor anak biasanya memiliki masa berlaku lebih singkat daripada paspor dewasa (paspor anak Inggris berlaku 5 tahun), jadi periksa setiap tanggal kedaluwarsa sebelum memesan. Selalu periksa tanggal kedaluwarsa setiap anggota keluarga satu per satu sebelum memesan perjalanan, dokumen anak bungsu sering kali menjadi batas waktu perencanaan.
 
 ### Haruskah saya membawa semua paspor keluarga saat bepergian?
 
@@ -106,7 +106,7 @@ Tidak. Setiap anggota keluarga cukup membawa paspornya sendiri saja. Jika tas ji
 
 ### Apa yang terjadi jika paspor salah satu anggota keluarga kedaluwarsa sebelum perjalanan yang direncanakan?
 
-Anda perlu memperpanjang paspor orang tersebut sebelum berangkat. Jika masa berlakunya tersisa kurang dari 12 bulan saat Anda memesan perjalanan, segera mulai proses perpanjangan. Waktu pemrosesan paspor sulit diprediksi dan bisa memanjang, terutama saat musim ramai bepergian, jadi jangan beranggapan Anda masih punya waktu untuk memperpanjangnya nanti.
+Anda perlu memperpanjang paspor orang tersebut sebelum berangkat. Jika masa berlakunya tersisa kurang dari 12 bulan saat Anda memesan perjalanan, segera mulai proses perpanjangan. Waktu pemrosesan paspor bisa bervariasi, terutama saat musim ramai bepergian, jadi jangan beranggapan Anda masih punya waktu untuk memperpanjangnya nanti.
 
 ## Artikel Terkait
 

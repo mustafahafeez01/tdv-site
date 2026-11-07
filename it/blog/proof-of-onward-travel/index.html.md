@@ -50,19 +50,19 @@ I controlli riguardano anche aspetti diversi. Una compagnia aerea che accetta il
 
 ## Se stai viaggiando di proposito con un biglietto di sola andata
 
-Un biglietto di sola andata non è un problema di per sé. Le regole sulla prosecuzione del viaggio sono generalmente scritte per i visitatori. Se ti stai trasferendo all'estero con un visto che ti permette di viverci o lavorarci, quel visto nella maggior parte dei casi svolge la funzione che avrebbe un biglietto di prosecuzione. Tienilo a portata di mano al check-in, insieme a qualsiasi lettera che lo accompagnava.
+Un biglietto di sola andata non è un problema di per sé. Le regole sulla prosecuzione del viaggio sono generalmente scritte per i visitatori. Se ti stai trasferendo all'estero con un visto che ti permette di viverci o lavorarci, quel visto potrebbe risolvere la questione: verifica le regole della tua destinazione. Tienilo a portata di mano al check-in, insieme a qualsiasi lettera che lo accompagnava.
 
 Se sei in visita con un programma senza date fisse, le opzioni più oneste sono anche le più semplici. Prenota il viaggio di prosecuzione che prevedi realmente di fare. Se le date non sono fisse, una tariffa che permette di cambiarle mantiene un piano reale flessibile senza trasformarlo in finzione.
 
-Quello che eviteremmo è un biglietto che non hai alcuna intenzione di usare, comprato solo per mostrarlo al banco. Presentarlo a un agente di frontiera come il tuo piano può equivalere a dichiarare il falso sulle tue intenzioni, un problema molto più grave di una prenotazione mancante.
+Quello che eviteremmo è un biglietto che non hai alcuna intenzione di usare, comprato solo per mostrarlo al banco. Presentarlo a un agente di frontiera come il tuo piano potrebbe essere interpretato come una dichiarazione falsa sulle tue intenzioni, un problema molto più grave di una prenotazione mancante.
 
 ## Se te la chiedono e non riesci a mostrarla
 
 Se un agente te la chiede e non hai nulla da mostrare, ricorda che sta applicando le regole d'ingresso della destinazione. La risposta più utile è di solito dargli qualcosa che quelle regole riconoscono.
 
-In pratica significa spesso prenotare il viaggio di prosecuzione sul momento, dal telefono o al banco della compagnia aerea. Con così poco anticipo può costare di più, motivo principale per risolverlo la sera prima. Se un'agenzia di viaggio ha prenotato il tuo viaggio di prosecuzione, la sua conferma scritta può aiutare dove la destinazione la accetta.
+In pratica significa spesso prenotare il viaggio di prosecuzione sul momento, dal telefono o al banco della compagnia aerea. Con così poco anticipo può costare di più, motivo principale per risolverlo la sera prima. Se un'agenzia di viaggio ha prenotato il tuo viaggio di prosecuzione, verifica nelle indicazioni ufficiali della destinazione se la sua conferma è accettata.
 
-La decisione al banco spetta alla compagnia aerea. Se non riesci a risolverlo lì, dovrai riprenotare una volta ottenuto ciò che la destinazione richiede.
+Di solito è la compagnia aerea a decidere al banco. Se non riesci a risolverlo lì, dovrai riprenotare una volta ottenuto ciò che la destinazione richiede.
 
 ## Tenere la prenotazione a portata di mano quando serve
 
@@ -74,7 +74,7 @@ Conserva una copia offline della conferma: un PDF, uno screenshot con il codice 
 
 ### Quale prova di prosecuzione del viaggio accetta davvero una compagnia aerea?
 
-Più spesso, un biglietto confermato per uscire dalla destinazione, verso casa o verso un paese terzo in cui puoi entrare. Alcune destinazioni accettano anche altre prove, come la conferma scritta di un'agenzia di viaggio che la prosecuzione è prenotata e pagata. La compagnia aerea applica le regole della destinazione, quindi verificale per il tuo viaggio.
+Più spesso, un biglietto confermato per uscire dalla destinazione, verso casa o verso un paese terzo in cui puoi entrare. Alcune destinazioni accettano anche altre prove: verifica le indicazioni ufficiali della tua destinazione. La compagnia aerea applica le regole della destinazione, quindi verificale per il tuo viaggio.
 
 ### Posso usare una prenotazione d'albergo come prova di prosecuzione del viaggio?
 
@@ -82,11 +82,11 @@ Di solito una prenotazione d'albergo non basta da sola. Mostra dove alloggerai, 
 
 ### Cosa succede se non ho la prova di prosecuzione del viaggio?
 
-Se te lo chiedono al check-in e non hai nulla da mostrare, la soluzione più comune è prenotare il viaggio di prosecuzione sul momento. Questo può costare di più con così poco anticipo. La decisione di farti salire a bordo spetta alla compagnia aerea, quindi conviene risolverlo prima di arrivare in aeroporto.
+Se te lo chiedono al check-in e non hai nulla da mostrare, la soluzione più comune è prenotare il viaggio di prosecuzione sul momento. Questo può costare di più con così poco anticipo. Di solito è la compagnia aerea a decidere se farti salire a bordo, quindi conviene risolverlo prima di arrivare in aeroporto.
 
 ### Un biglietto di sola andata è un problema?
 
-Un biglietto di sola andata non è un problema di per sé, perché le regole sulla prosecuzione del viaggio sono generalmente pensate per i visitatori. Se ti stai trasferendo con un visto che ti permette di vivere o lavorare nel paese, quel visto di solito risolve la questione. Se sei in visita, un viaggio di prosecuzione prenotato che intendi effettivamente fare è la risposta più semplice.
+Un biglietto di sola andata non è un problema di per sé, perché le regole sulla prosecuzione del viaggio sono generalmente pensate per i visitatori. Se ti stai trasferendo con un visto che ti permette di vivere o lavorare nel paese, quel visto potrebbe risolvere la questione: verifica le regole della tua destinazione. Se sei in visita, un viaggio di prosecuzione prenotato che intendi effettivamente fare è la risposta più semplice.
 
 ### Mi serve la prova di prosecuzione del viaggio per la frontiera?
 

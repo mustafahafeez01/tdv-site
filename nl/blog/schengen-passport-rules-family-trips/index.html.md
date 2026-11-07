@@ -13,7 +13,7 @@ Source: https://traveldocumentvault.com/nl/blog/schengen-passport-rules-family-t
 - De echte Schengenregel is **3 maanden geldigheid na de datum waarop je vertrekt**, plus een paspoort dat binnen de afgelopen 10 jaar is afgegeven – het is niet de "6 maanden-regel".
 - **Paspoorten van kinderen verlopen na 5 jaar**, waardoor de paspoorten van een gezin uit de pas gaan lopen, en de vroegste vervaldatum bepaalt de reis.
 - Britse paspoorten van vóór oktober 2018 **met bonusmaanden** kunnen zakken voor de 10-jaarstest, ook al ziet het boekje er nog geldig uit.
-- Luchtvaartmaatschappijen controleren elk paspoort tegen **IATA's Timatic-database** bij het inchecken – geen afronding, geen uitzondering, en één afgekeurd paspoort zet het hele gezin vast.
+- Luchtvaartmaatschappijen controleren paspoorten doorgaans tegen **IATA's Timatic-database** bij het inchecken, en één afgekeurd paspoort kan het hele gezin vastzetten.
 - **Controleer elk paspoort op de dag dat je boekt**, niet de week dat je vertrekt. Vijf minuten op het moment van boeken is de hele oplossing.
 
 Een gezinsreis naar Europa boeken begint meestal op dezelfde manier: je checkt je eigen paspoort, ziet nog jaren geldigheid over, en bevestigt de boeking. De valkuil komt weken later, wanneer iemand eindelijk de la opent en ontdekt dat het paspoort van een kind – afgegeven met een kortere klok dan die van jou – eerder verloopt dan iemand dacht. Niemand stuurt ouders hier een waarschuwingsbrief over. De incheckbalie brengt het nieuws in plaats daarvan.
@@ -38,24 +38,21 @@ Onze gids over [de 6 maanden-regel](https://traveldocumentvault.com/nl/blog/pass
 
 ## Paspoorten van kinderen lopen op een snellere klok
 
-Paspoorten van volwassenen gelden doorgaans 10 jaar; die van kinderen maar vijf. Die asymmetrie is waar anders zorgvuldige plannen misgaan.
+Britse paspoorten van volwassenen gelden 10 jaar, terwijl het VK kinderpaspoorten maar voor vijf jaar afgeeft. Die asymmetrie is waar anders zorgvuldige plannen misgaan.
 
 | Land | Kinderpaspoorten | Geldigheid |
 |---|---|---|
-| Verenigde Staten | Onder de 16 | 5 jaar |
-| Verenigd Koninkrijk | Alle kinderen | 5 jaar |
-| Canada | Onder de 16 | 5 jaar |
-| Australië | Alle kinderen | 5 jaar |
+| Verenigd Koninkrijk | Onder de 16 | 5 jaar |
 
-Bronnen: US Department of State, GOV.UK, Canada.ca, het Australische paspoortkantoor.
+Bron: GOV.UK.
 
 Een gezin van vier werkt daardoor met vier verschillende vervalschema's. De vroegste datum bepaalt of de reis überhaupt doorgaat. Twee volwassenen die samen verlengen, raken binnen een paar jaar uit de pas met de documenten van hun kinderen – precies waarom het checken van je eigen paspoort je vrijwel niets zegt over de reisgereedheid van het gezin.
 
-Voor Amerikaanse gezinnen is er een extra complicatie: het paspoort van een kind kan niet per post worden verlengd. Elke verlenging vereist een nieuwe persoonlijke aanvraag, en routinematige verwerking duurt momenteel meerdere weken, plus posttijd in beide richtingen – wat in maart te overzien is, maar twee weken voor vertrek een echt probleem wordt. Britse gezinnen hebben het iets makkelijker: check gewoon actuele verwerkingstijden voordat je boekt en reken op extra tijd als er meer informatie nodig is.
+Voor Amerikaanse gezinnen is er een extra complicatie: de verlenging van het paspoort van een kind kan een persoonlijke aanvraag vereisen en meerdere weken duren, dus check de actuele regels en verwerkingstijden van je paspoortautoriteit voordat je boekt. Dat is in maart te overzien, maar wordt twee weken voor vertrek een echt probleem. Britse gezinnen hebben het iets makkelijker: check gewoon actuele verwerkingstijden voordat je boekt en reken op extra tijd als er meer informatie nodig is.
 
 ## De realiteit bij het inchecken: Timatic rondt niet af
 
-Wat de grens ook zou tolereren, je komt de regels eerder tegen – bij het inchecken. Luchtvaartmaatschappijen valideren elk paspoort tegen de IATA Timatic-database, die de toegangseisen van elke bestemming exact toepast. Als je terugreisdatum geldigheid tot 20 november vereist en een paspoort verloopt op 15 november, zegt het systeem nee. Er bestaat geen "dicht genoeg" en geen uitzondering – luchtvaartmaatschappijen die een niet-toelaatbare passagier laten instappen, moeten deze op eigen kosten terugvliegen.
+Wat de grens ook zou tolereren, je komt de regels eerder tegen – bij het inchecken. Luchtvaartmaatschappijen controleren paspoorten doorgaans tegen de IATA Timatic-database, die de toegangseisen van elke bestemming vermeldt. Als je terugreisdatum geldigheid tot 20 november vereist en een paspoort verloopt op 15 november, zegt het systeem nee. Verwacht dat je bij het inchecken wordt geweigerd.
 
 Eén afgekeurd paspoort strandt zelden slechts één persoon; het zet het hele gezin vast. Weinig ouders sturen drie familieleden verder en laten er één bij de balie achter, dus in de praktijk wordt de hele boeking omgeboekt of verloren.
 
@@ -77,11 +74,11 @@ Het zijn aparte regels voor verschillende bestemmingen. Landen als Thailand en I
 
 ### Gelden voor kinderen andere Schengen-paspoortregels?
 
-Nee. Kinderen hebben dezelfde 3 maanden geldigheid na vertrek en dezelfde voorwaarde van afgifte binnen 10 jaar nodig als volwassenen. Wat verschilt, is het paspoort zelf: de meeste landen geven kinderpaspoorten af met een geldigheid van 5 jaar in plaats van 10, waardoor het document van een kind die grenzen veel eerder bereikt dan dat van een ouder.
+Nee. Kinderen hebben dezelfde 3 maanden geldigheid na vertrek en dezelfde voorwaarde van afgifte binnen 10 jaar nodig als volwassenen. Wat verschilt, is het paspoort zelf: veel landen, waaronder het VK, geven kinderpaspoorten af met een geldigheid van 5 jaar in plaats van 10, waardoor het document van een kind die grenzen veel eerder bereikt dan dat van een ouder.
 
 ### Wanneer moeten we het paspoort van een kind verlengen voor een reis?
 
-Zodra je boekt, check of het paspoort na je terugreisdatum nog 3 maanden geldigheid zal hebben. Zo niet, begin dan meteen. Check actuele Britse verwerkingstijden en reken op extra tijd als de aanvraag meer informatie vereist. Amerikaanse routinematige verwerking duurt meerdere weken plus posttijd. Een Amerikaans kinderpaspoort vereist ook een nieuwe persoonlijke aanvraag in plaats van een verlenging.
+Zodra je boekt, check of het paspoort na je terugreisdatum nog 3 maanden geldigheid zal hebben. Zo niet, begin dan meteen. Check actuele Britse verwerkingstijden en reken op extra tijd als de aanvraag meer informatie vereist. Check de actuele verwerkingstijden van je paspoortautoriteit.
 
 ### Kunnen we vliegen terwijl de paspoortverlenging van een kind loopt?
 
@@ -89,7 +86,7 @@ Nee. Je hebt het fysieke paspoort in handen nodig om aan boord te gaan van een i
 
 ### Wat gebeurt er bij het inchecken als één paspoort tekortschiet?
 
-Luchtvaartmaatschappijen controleren elk paspoort tegen de IATA Timatic-database, die de regels van de bestemming exact toepast, zonder afronding en zonder uitzondering. Als één gezinslid de check niet doorstaat, kan die persoon niet aan boord – wat in de praktijk meestal omboeken of het annuleren van de hele reis betekent.
+Luchtvaartmaatschappijen controleren paspoorten doorgaans tegen de IATA Timatic-database, die de toegangseisen van elke bestemming vermeldt. Als één gezinslid de check niet doorstaat, kan die persoon niet aan boord – wat gezinnen in de praktijk meestal oplossen door om te boeken in plaats van uit elkaar te gaan.
 
 ## Gerelateerde artikelen
 

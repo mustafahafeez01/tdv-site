@@ -11,10 +11,10 @@ Source: https://traveldocumentvault.com/da/blog/digital-passport-copy-valid/
 ## Vigtigste punkter
 
 - Digitale paskopier accepteres til **indtjekning på hotel, flybookinger og lejebilsreservationer**, men ikke ved grænsen eller til boarding.
-- Det **fysiske originale pas er altid påkrævet** ved grænsepassage, ved boarding og ved politiets identitetskontrol.
+- Til internationale rejser skal du **som regel bruge det originale pas** ved grænsen og til boarding. Nogle ruter accepterer i stedet et nationalt ID-kort (for eksempel for EU-borgere, der rejser inden for EU), men aldrig en kopi.
 - Digitale kopier har **ingen juridisk status som rejsedokument**. De er kun understøttende dokumentation.
-- Visumansøgninger kræver **specifikke formater** (bekræftede kopier eller notarielt bekræftede scanninger) frem for almindelige mobilfotos. Tjek ambassadens hjemmeside først.
-- Mister du dit pas i udlandet, **fremskynder en digital kopi den akutte udskiftning** hos din ambassade betydeligt.
+- Visumansøgninger kræver **specifikke formater**. Nogle kræver bekræftede eller notarbekræftede kopier, mens andre (blandt andet mange e-visa) accepterer en tydelig scanning af fotosiden, og et almindeligt mobilfoto afvises ofte. Tjek ambassadens hjemmeside først.
+- Mister du dit pas i udlandet, kan en **kopi af fotosiden hjælpe** ambassaden med at bekræfte dine oplysninger, når du søger om et nyt.
 
 Når man planlægger en rejse, spekulerer mange rejsende på, om de kan gemme en digital kopi af deres pas på telefonen i stedet for at bære originalen. Du skal vide præcis, hvor den virker, og hvor den ikke gør, så du ikke ender med at stå uden ved indtjekningen.
 
@@ -24,7 +24,7 @@ Det korte svar: en digital kopi er reelt nyttig, men kun i bestemte situationer.
 
 En digital kopi af et pas er **en scanning eller et mobilfoto af dets identifikationsside**, siden med dit foto, navn, fødselsdato, pasnummer og udløbsdato. Den registrerer dine oplysninger uden at træde i stedet for dokumentet. Canadas regering siger det ligeud i sine rejseråd: kopier kan hjælpe, hvis dine dokumenter bliver væk eller stjålet, men de kan ikke bruges som legitimation, og du skal stadig ansøge om et nyt pas, hvis du mister dit.
 
-Det tager et par minutter at lave en. Læg passet fladt i godt lys, fotografer eller scan identifikationssiden, så hele siden er skarp, zoom så ind og tjek, at du kan læse hver detalje. Gør det samme for ethvert visum, du rejser på. Canada foreslår, at du efterlader kopier hjemme hos en person, du har tillid til, og Storbritanniens tjekliste for udlandsrejser anbefaler en backup af dine pasoplysninger, som du deler med familien eller opbevarer på en sikker datalagringsplatform.
+Det tager et par minutter at lave en. Læg passet fladt i godt lys, fotografer eller scan identifikationssiden, så hele siden er skarp, zoom så ind og tjek, at du kan læse hver detalje. Gør det samme for ethvert visum, du rejser på. Storbritanniens tjekliste for udlandsrejser anbefaler en backup af dine pasoplysninger, som du deler med familien eller opbevarer på en sikker datalagringsplatform.
 
 En kopi er heller ikke det samme som de digitale ID'er, nogle myndigheder nu accepterer. I USA lader transportsikkerhedsmyndigheden TSA amerikanske pasindehavere oprette et ID-kort i Google Wallet til brug ved sikkerhedskontrollen i lufthavne, men den siger stadig, at alle passagerer skal medbringe et gyldigt fysisk ID. Et foto i din kamerarulle er en backup af dine oplysninger, og det er netop sådan, du skal behandle det.
 
@@ -32,39 +32,39 @@ En kopi er heller ikke det samme som de digitale ID'er, nogle myndigheder nu acc
 
 ### Mange hoteller accepterer en kopi, men dele af Europa vil som regel se originalen
 
-De fleste hoteller verden over accepterer digitale paskopier ved indtjekning – en PDF på telefonen, sendt på forhånd via e-mail eller printet ud. Det er særligt nyttigt, hvis du tjekker ind sent eller flytter mellem forskellige overnatningssteder og ikke ønsker at bære dit fysiske pas hele rejsen. Nogle mindre hoteller, især i regioner med mindre digital infrastruktur, foretrækker stadig originalen. I dele af Europa – blandt andet Spanien, Frankrig og Italien – skal hoteller registrere dine oplysninger for myndighederne og vil generelt gerne se det fysiske pas for at gøre det, selvom databeskyttelsesvejledning siger, at de normalt ikke bør beholde en kopi. Kontakt din overnatning på forhånd for at bekræfte.
+Mange hoteller accepterer digitale paskopier ved indtjekning – en PDF på telefonen, sendt på forhånd via e-mail eller printet ud. Det er særligt nyttigt, hvis du tjekker ind sent eller flytter mellem forskellige overnatningssteder og ikke ønsker at bære dit fysiske pas hele rejsen. Nogle mindre hoteller, især i regioner med mindre digital infrastruktur, foretrækker stadig originalen. I nogle dele af Europa skal hoteller registrere dine oplysninger for myndighederne og vil ofte se det fysiske pas. Spaniens databeskyttelsesmyndighed siger for eksempel, at hoteller ikke bør lave eller bede om kopier, og at et visuelt tjek er tilstrækkeligt. Kontakt din overnatning på forhånd for at bekræfte.
 
 ### En digital kopi fremskynder indtjekningen, ikke boardingen
 
-Flyselskaber kræver dine pasoplysninger ved booking, og mange lader dig uploade en digital kopi for at verificere din identitet til online indtjekning – det fremskynder processen i lufthavnen. Du skal stadig fremvise det originale pas ved gaten. Den digitale kopis rolle er verifikation før rejsen, ikke boardingdokumentation.
+Flyselskaber kræver dine pasoplysninger ved booking, og nogle lader dig uploade en kopi for at verificere din identitet til online indtjekning – det fremskynder processen i lufthavnen. Du skal stadig fremvise det originale pas ved gaten. Den digitale kopis rolle er verifikation før rejsen, ikke boardingdokumentation.
 
 ### En kopi bestiller bilen, men originalen skal stadig til, når du henter den
 
-Biludlejningsselskaber accepterer typisk digitale paskopier til booking og depositumverifikation. Når du henter bilen, fremviser du det originale pas sammen med dit kørekort. Den digitale kopi er nyttig i reservationsfasen.
+Biludlejningsselskaber accepterer ofte digitale paskopier til booking og depositumverifikation. Når du henter bilen, fremviser du det originale pas sammen med dit kørekort. Den digitale kopi er nyttig i reservationsfasen.
 
 ### Hvis dit pas bliver væk, gør kopien tingene hurtigere
 
-Bliver dit pas væk eller stjålet under rejsen, kan en digital kopi markant fremskynde processen for et nødpas hos din ambassade. Den beviser passets eksistens og dokumenterer dine personoplysninger, foto og pasnummer – alt det, ambassaden skal bruge for at udstede et erstatningsdokument. Det er en af de stærkeste grunde til altid at have en digital backup med.
+Bliver dit pas væk eller stjålet under rejsen, kan en kopi af fotosiden hjælpe ambassaden eller konsulatet med at bekræfte dine oplysninger, når du søger om et nyt. Du skal stadig ansøge om et nyt pas eller et nødrejsedokument. Det er en af de stærkeste grunde til altid at have en digital backup med.
 
 ![Diagram over, hvor en digital paskopi virker: normalt fint til indtjekning på hotel, flybooking og biludlejning, men original er påkrævet ved grænsekontrol og boarding hos flyselskabet](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-where-da.jpg) Kort fortalt – en kopi åbner døre, kun originalen passerer grænser.
 
 ## Hvor dit fysiske pas altid kræves
 
-En digital kopi er ikke en erstatning for dit fysiske pas ved indrejse, hos flyselskaber eller hos politiet. I disse situationer er originaldokumentet simpelthen obligatorisk – der er ingen vej udenom.
+En digital kopi er ikke en erstatning for dit fysiske pas ved indrejse, hos flyselskaber eller hos politiet. I disse situationer skal du som regel bruge originaldokumentet.
 
 | Rejsesituation | Digital kopi accepteret | Bemærkninger |
 |---|---|---|
 | **Grænsepassage (ind- og udrejse)** | Nej (original kræves) | Immigrationsmyndigheder skal fysisk inspicere dokumentet |
 | **Boarding hos flyselskab** | Nej (original kræves) | Sikkerheds- og gatepersonale kræver det fysiske pas |
-| **Visumansøgning** | Nogle gange (tjek ambassaden) | De fleste kræver bekræftede kopier eller originaler, ikke almindelige fotos |
-| **Politiets identitetskontrol** | Nej (original kræves) | Politiet kræver originaldokumentet |
+| **Visumansøgning** | Nogle gange (tjek ambassaden) | Varierer: bekræftet kopi, original eller tydelig scanning |
+| **Politiets identitetskontrol** | Nej (original kræves) | Politiet kan bede om original legitimation, og reglerne varierer fra land til land |
 | **Indtjekning på hotel** | Som regel ja | Bekræft med overnatningsstedet på forhånd |
 | **Booking af lejebil** | Som regel ja | Original kræves stadig ved afhentning af bilen |
-| **Akut bistand fra ambassaden** | Ja (fremskynder udskiftning) | Kan ikke erstatte selve passet, men hjælper med at udstede et nøddokument |
+| **Akut bistand fra ambassaden** | Ja (hjælper med at bekræfte dine oplysninger) | Kan ikke erstatte selve passet, men hjælper med at udstede et nøddokument |
 
 ## Visumansøgninger: reglerne er specifikke
 
-Reglerne for visumansøgninger er mere fleksible end ved grænsen, men stadig specifikke. De fleste lande accepterer enten det originale pas eller bekræftede fotokopier, selvom kravene varierer betydeligt fra destination til destination og fra ambassade til ambassade.
+Reglerne for visumansøgninger er mere fleksible end ved grænsen, men stadig specifikke. Kravene varierer: Nogle lande accepterer en tydelig scanning, mens andre kræver originalen eller en bekræftet kopi, og reglerne varierer fra destination til destination og fra ambassade til ambassade.
 
 Hvad det betyder i praksis
 
@@ -74,7 +74,7 @@ Nogle ambassader accepterer notarielt bekræftede digitale scanninger indsendt e
 
 ## Sådan opbevarer du digitale kopier sikkert
 
-Paskopier indeholder følsomme identitetsoplysninger, herunder dit fulde navn, fødselsdato, pasnummer, nationalitet og foto, så en dårligt opbevaret digital kopi skaber samme risiko for identitetstyveri som at miste selve det fysiske dokument.
+Paskopier indeholder følsomme identitetsoplysninger, herunder dit fulde navn, fødselsdato, pasnummer, nationalitet og foto, så en dårligt opbevaret digital kopi udgør en reel risiko for identitetstyveri.
 
 - **Brug en krypteret app** designet til dokumentopbevaring, ikke almindelig cloud-lagring eller e-mail, hvor filer kan tilgås, hvis din konto bliver kompromitteret.
 - **Gem flere kopier forskellige steder**: på telefonen, hos et betroet familiemedlem derhjemme og i en sikker backup.
@@ -97,19 +97,19 @@ En digital kopi er en scanning eller et mobilfoto af passets identifikationsside
 
 ### Accepteres en digital kopi af mit pas ved indtjekning på hotellet?
 
-Ja, de fleste hoteller verden over accepterer digitale paskopier ved indtjekning: en PDF på telefonen, sendt på e-mail eller printet ud. Nogle mindre steder kan stadig kræve et fysisk pas. Kontakt altid dit hotel på forhånd for at bekræfte.
+Ofte, ja: Mange hoteller accepterer digitale paskopier ved indtjekning: en PDF på telefonen, sendt på e-mail eller printet ud. Nogle mindre steder kan stadig kræve et fysisk pas. Kontakt altid dit hotel på forhånd for at bekræfte.
 
 ### Kan jeg bruge en digital paskopi i lufthavnen til boarding?
 
-Nej. Flyselskaber kræver det originale, fysiske pas til boarding. En digital kopi accepteres ikke af sikkerhedspersonale eller gatepersonale. Du skal medbringe dit originale pas til lufthavnen på alle internationale flyvninger.
+Ved internationale flyvninger kræver flyselskaber som regel det originale rejsedokument (et pas eller i nogle tilfælde et nationalt ID-kort). En digital kopi accepteres ikke af sikkerhedspersonale eller gatepersonale.
 
 ### Er digitale paskopier gyldige til visumansøgninger?
 
-De fleste visumansøgninger kræver bekræftede kopier eller notarielt bekræftede scanninger frem for almindelige mobilfotos. Kravene varierer fra land til land og ambassade til ambassade, så tjek den officielle myndigheds hjemmeside for det land, du søger til, før du indsender noget.
+Visumansøgninger kræver bestemte formater. Nogle kræver bekræftede eller notarbekræftede kopier, mens andre (blandt andet mange e-visa) accepterer en tydelig scanning af fotosiden, og et almindeligt mobilfoto afvises ofte. Kravene varierer fra land til land og ambassade til ambassade, så tjek den officielle myndigheds hjemmeside for det land, du søger til, før du indsender noget.
 
 ### Kan en digital paskopi hjælpe, hvis mit pas bliver væk eller stjålet i udlandet?
 
-Ja, i høj grad. En digital kopi fremskynder processen for et nødpas hos din ambassade. Den dokumenterer dine personoplysninger, foto og pasnummer – alt det, ambassaden skal bruge for at udstede et erstatningsdokument.
+Ja, det kan hjælpe. En kopi af fotosiden hjælper ambassaden eller konsulatet med at bekræfte dine oplysninger, når du søger om et nyt pas. Du skal stadig ansøge om et nyt pas eller et nødrejsedokument.
 
 ### Hvordan bør jeg opbevare min digitale paskopi sikkert?
 

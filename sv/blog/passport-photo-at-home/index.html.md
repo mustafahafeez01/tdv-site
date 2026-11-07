@@ -24,7 +24,7 @@ Ett foto taget hemma godkänns lika lätt som ett från en fotoautomat, förutsa
 
 ### Bakgrund och komposition
 
-Du behöver en enfärgad, ljus bakgrund, och exakt nyans beror på din myndighet: GOV.UK begär krämfärgad eller ljusgrå bakgrund, medan den kanadensiska regeringen begär vit eller ljus bakgrund. Inga mönster, skuggor, suddiga bakgrunder eller starka färger. Anledningen är enkel: tjänstemän behöver en ren, tydlig bild av ditt ansikte att jämföra mot framtida handlingar. De flesta använder ett vitt lakan, en affischkartong eller till och med målar en liten del av en vägg. Det viktiga är att hålla den ljus och jämn rakt igenom.
+Du behöver en enfärgad, ljus bakgrund, och exakt nyans beror på din myndighet: GOV.UK begär krämfärgad eller ljusgrå bakgrund, medan den kanadensiska regeringen begär vit eller ljus bakgrund. Inga mönster, skuggor, suddiga bakgrunder eller starka färger. Anledningen är enkel: tjänstemän behöver en ren, tydlig bild av ditt ansikte att jämföra mot framtida handlingar. Använd ett enfärgat lakan eller en affischkartong i den nyans myndigheten begär (krämfärgad eller ljusgrå för Storbritannien), eller måla en liten del av en vägg. Det viktiga är att hålla den ljus och jämn rakt igenom.
 
 ### Hur ska man se ut på passfoto – uttryck och hållning
 
@@ -40,7 +40,7 @@ I Sverige är det Polismyndigheten som utfärdar pass, och fotot tas normalt på
 
 ## Storlek på passfoto: de två mått de flesta länder använder
 
-De flesta passmyndigheter använder en av två tryckta storlekar. Formatet 35 x 45 mm gäller Storbritannien, EU-länder inklusive Nederländerna, och stora delar av övriga världen. USA kräver en kvadrat på 2 x 2 tum, och ett fåtal länder följer den standarden i stället. Några myndigheter sätter sin egen storlek: den kanadensiska regeringen begär till exempel tryckta foton på 50 mm bredd och 70 mm höjd.
+Storleken på tryckta foton varierar mellan myndigheter. Storbritannien använder 35 x 45 mm och den kanadensiska regeringen begär tryckta foton på 50 mm bredd och 70 mm höjd. Andra länder har egna mått, så kontrollera vad din egen passmyndighet kräver.
 
 Digitala inlämningar byter millimeter mot pixlar, och varje myndighet publicerar sina egna minimikrav. De här två storlekarna är vad de flesta myndigheter för närvarande begär i tryckt format, men specifikationerna revideras, så bekräfta din innan du skriver ut eller laddar upp.
 
@@ -66,11 +66,11 @@ Det finns flera sätt att få passfotot till passmyndigheten. Alla har sina avv�
 
 | Metod | Kostnad | Risk för avslag | Bekvämlighet | Officiell vägledning |
 |---|---|---|---|---|
-| Hemma på egen hand (mobil + beskärningsapp) | Gratis eller nästan | Högre om du missar belysning eller storlek | Mycket hög – direkt | Tillåtet i de flesta länder – kontrollera din myndighets webbplats |
+| Hemma på egen hand (mobil + beskärningsapp) | Gratis eller nästan | Högre om du missar belysning eller storlek | Mycket hög – direkt | Kontrollera din myndighets webbplats |
 | Lokalt apotek | En mindre avgift | Låg – utbildad personal kontrollerar | Medel – ofta samma dag | Vanligt och generellt pålitligt – kontrollera ändå din egen myndighets krav |
 | Postkontor (Storbritannien med flera) | En mindre avgift | Låg – tas på plats, kontrolleras | Medel – kräver besök och bokning | Postkontorets officiella tjänst |
 | Onlinetjänster (t.ex. Passport Photo Online) | En mindre avgift | Medel – digital inlämning, återkoppling ges | Hög – hemifrån, digital leverans | Inte officiellt men mycket använt – kontrollera om ditt land accepterar färdigbeskurna uppladdningar |
-| Professionell fotostudio | Det dyraste alternativet | Låg – fackmässig belysning och komposition | Låg – kräver bokning | Accepteras överallt – alltid ett tryggt val |
+| Professionell fotostudio | Det dyraste alternativet | Låg – fackmässig belysning och komposition | Låg – kräver bokning | Lägst risk, men fotot måste ändå uppfylla din myndighets regler |
 
 ## Belysning och bildkvalitet
 
@@ -86,7 +86,7 @@ Använd ett stativ eller stötta mobilen mot ett stabilt föremål så att du ha
 
 ### Upplösning och fokus
 
-Moderna mobiler fotograferar med 12 megapixlar eller mer, vilket är gott och väl för passfoto. Innan du fotograferar, se till att mobilen är i fokusläge – tryck på ansiktet på skärmen, så låser de flesta mobiler fokus där. Slutbilden ska vara skarp och tydlig.
+De flesta moderna mobilkameror har tillräcklig upplösning för ett passfoto. Innan du fotograferar, se till att mobilen är i fokusläge – tryck på ansiktet på skärmen, så låser de flesta mobiler fokus där. Slutbilden ska vara skarp och tydlig.
 
 ## Vanliga avslagsorsaker och hur du undviker dem
 
@@ -136,7 +136,7 @@ Ja, du kan ta ett passfoto med mobilen. Ställ dig framför en enfärgad, ljus b
 
 ### Vilken storlek ska ett passfoto ha?
 
-De flesta länder använder en av två tryckta storlekar: 35 x 45 mm, som gäller Storbritannien, EU och stora delar av världen, eller den kvadrat på 2 x 2 tum som USA använder. Några myndigheter sätter sin egen storlek: den kanadensiska regeringen begär till exempel tryckta foton på 50 mm bredd och 70 mm höjd. Digitala inlämningar har egna minimikrav i pixlar. Kraven tillämpas strikt och revideras, så bekräfta den exakta specen med din egen passmyndighet innan du skriver ut eller laddar upp.
+Storleken på tryckta foton varierar mellan myndigheter. Storbritannien använder 35 x 45 mm och den kanadensiska regeringen använder 50 x 70 mm. Andra länder har egna mått, så kontrollera vad din egen passmyndighet kräver. Digitala inlämningar har egna minimikrav i pixlar. Kraven tillämpas strikt och revideras, så bekräfta den exakta specen med din egen passmyndighet innan du skriver ut eller laddar upp.
 
 ### Varför blev mitt passfoto inte godkänt?
 

@@ -10,11 +10,11 @@ Source: https://traveldocumentvault.com/es/blog/child-first-passport-application
 
 ## Puntos Clave
 
-- **El consentimiento para solicitar el pasaporte es distinto del consentimiento para viajar.** Tu hijo necesita el permiso por escrito de todos los padres o tutores antes de poder presentar la solicitud.
+- **El consentimiento para solicitar el pasaporte es distinto del consentimiento para viajar.** Las normas varían según el país: en el Reino Unido, por ejemplo, firma alguien con responsabilidad parental y se facilitan los datos de ambos progenitores, mientras que otros países piden el consentimiento de los dos. Consulta tu oficina de pasaportes.
 - **La mayoría de las solicitudes piden tres tipos de pruebas:** prueba de identidad (certificado de nacimiento), prueba de identidad de los padres y prueba del vínculo parental.
 - **Las fotos de pasaporte de bebés tienen normas específicas.** La mayoría de las autoridades quieren los ojos abiertos y mirando a la cámara (GOV.UK relaja esto para menores de 1 y de 6 años), sin chupetes, juguetes ni manos visibles —y el fondo detrás de la cabeza del niño debe ser liso y despejado.
-- **Revísalo todo en cuanto llegue.** La ortografía, los nombres de los padres donde aparezcan, la fecha de caducidad —sobre todo porque los pasaportes infantiles caducan antes que los de los adultos.
-- **Un progenitor no puede firmar solo, salvo que exista una orden judicial, la guarda y custodia legal exclusiva, o que el otro progenitor haya fallecido.** Si es tu caso, tu oficina de pasaportes sigue un procedimiento específico.
+- **Revísalo todo en cuanto llegue.** La ortografía, los nombres de los padres donde aparezcan, la fecha de caducidad —sobre todo porque los pasaportes infantiles suelen caducar antes que los de los adultos (los británicos tienen una validez de 5 años).
+- **En los países que piden el consentimiento de ambos progenitores, por lo general uno no puede firmar solo, salvo que exista una orden judicial, la guarda y custodia legal exclusiva, o que el otro progenitor haya fallecido.** Si es tu caso, tu oficina de pasaportes sigue un procedimiento específico.
 
 El primer pasaporte de tu hijo es algo que solo tramitas una vez —lo que significa que puedes aprender las reglas antes de necesitarlas, en lugar de descubrirlas en la ventanilla. La solicitud en sí es sencilla, pero las normas de consentimiento y los requisitos de la foto varían según el país, y un pequeño error al principio puede significar una solicitud rechazada y un viaje retrasado.
 
@@ -28,7 +28,7 @@ Este artículo trata el consentimiento para la solicitud. Esta distinción impor
 
 ## Por Defecto, Deben Estar de Acuerdo Todos los Que Tienen Responsabilidad Parental
 
-La norma general es que todos los adultos con responsabilidad parental sobre el niño deben dar su consentimiento a la solicitud de pasaporte. Para la mayoría de las familias, esto significa ambos progenitores casados; en el caso de parejas no casadas, significa ambos miembros si los dos figuran como progenitores en el certificado de nacimiento. Cualquier persona con una orden judicial o guarda y custodia legal exclusiva sigue normas distintas, y tu oficina de pasaportes te explicará el procedimiento concreto si lo consultas.
+Quién debe dar su consentimiento depende del país. En el Reino Unido, firma una persona con responsabilidad parental y se facilitan los datos de ambos progenitores; otros países suelen exigir la firma de los dos. La responsabilidad parental de los progenitores no casados también depende del país, así que confírmalo con tu oficina de pasaportes. Cualquier persona con una orden judicial o guarda y custodia legal exclusiva sigue normas distintas, y tu oficina de pasaportes te explicará el procedimiento concreto si lo consultas.
 
 Estas excepciones son reales y conviene conocerlas. Un progenitor fallecido no puede firmar, y un progenitor que haya perdido la responsabilidad parental por resolución judicial puede que tampoco tenga derecho a dar su consentimiento. Las órdenes de alejamiento y las restricciones de custodia también pueden excluir por ley a un progenitor. Cada una de estas situaciones tiene su propio procedimiento de solicitud y sus propios requisitos de prueba, así que no existe una única respuesta que las cubra todas.
 
@@ -54,9 +54,9 @@ Aquí es donde muchas primeras solicitudes fracasan. Un bebé o un niño pequeñ
 
 **Las normas básicas son las mismas:** los ojos del niño deben estar generalmente abiertos y mirando a la cámara, con un fondo liso detrás de la cabeza y nada más en el encuadre. Algunas autoridades relajan la norma de los ojos para los niños más pequeños: GOV.UK no exige los ojos abiertos en menores de un año, ni mirar directamente a la cámara en menores de 6. Lo que cambia es cómo lo consigues.
 
-**Para un recién nacido o un bebé de menos de 6 meses:** fotografíalo tumbado sobre una sábana o manta lisa, blanca o de color claro. La tela se convierte en el fondo. La cabeza del niño ocupa el tercio superior del encuadre. Colócate justo encima para que el bebé mire hacia arriba, directo a la cámara, con los ojos abiertos —si está somnoliento, espera a un momento en que esté despierto. Nada de juguetes, chupetes, manos, ni ninguna otra persona visible en el encuadre salvo la cabeza y los hombros del bebé.
+**Para un recién nacido o un bebé de menos de un año:** fotografíalo tumbado sobre una sábana o manta lisa, blanca o de color claro. La tela se convierte en el fondo. Colócate justo encima para que el bebé mire hacia arriba, directo a la cámara, con los ojos abiertos —si está somnoliento, espera a un momento en que esté despierto. Nada de juguetes, chupetes, manos, ni ninguna otra persona visible en el encuadre salvo la cabeza y los hombros del bebé.
 
-**Para un bebé de 6 meses a 2 años:** puedes sentarlo en el regazo de un adulto, pero el cuerpo y las manos de esa persona no deben aparecer en absoluto en la foto. La cabeza del bebé llena el encuadre. El fondo liso queda solo detrás del bebé —no debe verse en ningún otro lugar. Una pared blanca funciona. También sirve una sábana lisa colgada detrás. Encuadra la toma para que los ojos del bebé miren hacia la cámara, pero como a esta edad los bebés no paran de moverse, probablemente necesites unas 20 fotos para conseguir una con los ojos abiertos y mirando en la dirección correcta.
+**Para un niño de uno a dos años:** puedes sentarlo en el regazo de un adulto, pero el cuerpo y las manos de esa persona no deben aparecer en absoluto en la foto. El bebé debe aparecer solo en la foto, con un fondo liso detrás y sin ningún otro elemento visible. Una pared blanca funciona. También sirve una sábana lisa colgada detrás. Encuadra la toma para que los ojos del bebé miren hacia la cámara, pero como a esta edad los bebés no paran de moverse, probablemente necesites unas 20 fotos para conseguir una con los ojos abiertos y mirando en la dirección correcta.
 
 **Para niños de 2 años en adelante:** siéntalos delante del fondo liso en una silla, o de pie si ya se mantienen solos. Los ojos deben mirar directamente a la cámara, lo cual es más difícil de lo que parece porque los niños de esta edad no siguen instrucciones. Canta una canción, haz un ruido gracioso, o pídeles que miren un punto justo encima del objetivo. Quieres que miren ligeramente hacia arriba, lo cual además queda mejor en la foto. De nuevo, haz muchas tomas —solo necesitas una en la que estén mirando a la cámara con los dos ojos claramente abiertos.
 
@@ -78,7 +78,7 @@ Se trata de un requisito legal que existe para proteger al niño, no de algo neg
 
 **Si el otro progenitor no aparece o se niega:** necesitas una orden judicial. Puede ser una orden de custodia existente, una orden de tutela, o una resolución judicial específica que establezca que tienes la responsabilidad parental exclusiva. Algunos países permiten solicitar al juzgado autorización para expedir el pasaporte sin el consentimiento del otro progenitor si puedes demostrar que el retraso perjudicaría al niño o que el otro progenitor no está en condiciones de ser consultado. Esto varía según el país y la práctica judicial local —pregunta a tu oficina de pasaportes o a un abogado de familia cuál es el procedimiento en tu caso.
 
-**Si el otro progenitor ha fallecido:** necesitas el certificado de defunción. Tu oficina de pasaportes no debería pedir nada más para tramitar la solicitud.
+**Si el otro progenitor ha fallecido:** prepara el certificado de defunción. Tu oficina de pasaportes te confirmará si necesita algo más.
 
 **Si existe una orden de alejamiento o una restricción de custodia:** lleva contigo la orden judicial. Muestra a la oficina exactamente qué permisos y restricciones están en vigor.
 
@@ -86,19 +86,19 @@ Se trata de un requisito legal que existe para proteger al niño, no de algo neg
 
 Una vez que te llegue el pasaporte ya expedido, dedica cinco minutos a revisarlo antes de guardarlo. Buscas tres cosas que ahora son fáciles de corregir y que serían una pesadilla corregir en el aeropuerto.
 
-**Revisa la ortografía.** El nombre de tu hijo debe estar escrito exactamente igual que en el certificado de nacimiento o el documento de identidad que usaste para la solicitud. Si está mal, la oficina de pasaportes suele poder expedir un reemplazo sin coste. Si no te das cuenta hasta llegar al aeropuerto, la aerolínea puede negarte el embarque porque el nombre del billete no coincidirá con el del pasaporte.
+**Revisa la ortografía.** El nombre de tu hijo debe estar escrito exactamente igual que en el certificado de nacimiento o el documento de identidad que usaste para la solicitud. Si está mal, la oficina de pasaportes suele reemplazarlo sin coste si el error fue suyo; si estaba en la solicitud que presentaste, puede que tengas que pagar una tasa. Si no te das cuenta hasta llegar al aeropuerto, la aerolínea puede negarte el embarque porque el nombre del billete no coincidirá con el del pasaporte.
 
 **Revisa los nombres de los progenitores donde aparezcan.** Algunos países imprimen los nombres de los progenitores o tutores en el interior del pasaporte del niño. Si estos nombres están mal escritos o son incorrectos, ponte en contacto con la oficina para que lo corrijan.
 
-**Revisa la fecha de caducidad.** Esto es fundamental en el caso de los niños porque [los pasaportes infantiles caducan mucho antes que los de los adultos](https://traveldocumentvault.com/es/blog/family-passport-management/). Al reservar un viaje, necesitas saber exactamente cuándo deja de ser válido este documento. Anótala y programa un recordatorio el mismo día en que llegue el pasaporte, no cuando surja un viaje; es el único hábito que recomendaríamos siempre a los padres. Que el pasaporte de un niño caduque de forma inesperada es uno de los motivos más habituales por los que las familias tienen que cancelar o reprogramar un viaje.
+**Revisa la fecha de caducidad.** Esto es fundamental en el caso de los niños porque [los pasaportes infantiles suelen caducar antes que los de los adultos](https://traveldocumentvault.com/es/blog/family-passport-management/). Al reservar un viaje, necesitas saber exactamente cuándo deja de ser válido este documento. Anótala y programa un recordatorio el mismo día en que llegue el pasaporte, no cuando surja un viaje; es el único hábito que recomendaríamos siempre a los padres. Que el pasaporte de un niño caduque sin que te des cuenta puede hacer que pierdas un viaje.
 
-Si algo está mal, ponte en contacto con tu oficina de pasaportes en los primeros días. Las correcciones suelen ser gratuitas si se comunican rápido, y cuanto más tiempo pase, más complicado se vuelve el proceso. Cuando todo esté en orden, guarda el pasaporte enseguida en tu carpeta de documentos con una nota de la fecha de caducidad, para que la renovación no te pille por sorpresa.
+Si algo está mal, ponte en contacto con tu oficina de pasaportes en cuanto lo detectes. Que la corrección sea gratuita depende de quién haya cometido el error, y cuanto más tiempo pase, más complicado se vuelve el proceso. Cuando todo esté en orden, guarda el pasaporte enseguida en tu carpeta de documentos con una nota de la fecha de caducidad, para que la renovación no te pille por sorpresa.
 
 ## Preguntas Frecuentes
 
 ### ¿Quién debe dar su consentimiento a la solicitud de pasaporte de un menor?
 
-Por lo general, deben dar su consentimiento todos los adultos con responsabilidad parental sobre el niño. Esto incluye a las parejas casadas, a las parejas no casadas que figuran en el certificado de nacimiento, y a cualquier persona con tutela legal. La responsabilidad parental exclusiva, el fallecimiento de un progenitor y las órdenes judiciales crean excepciones —la autoridad emisora decide si continúa sin la firma de ambos progenitores.
+Depende del país: por lo general debe firmar alguien con responsabilidad parental, y algunas oficinas también piden el consentimiento de todos los progenitores. Esto incluye a las parejas casadas, a las parejas no casadas que figuran en el certificado de nacimiento, y a cualquier persona con tutela legal. La responsabilidad parental exclusiva, el fallecimiento de un progenitor y las órdenes judiciales crean excepciones —la autoridad emisora decide si continúa sin la firma de ambos progenitores.
 
 ### ¿Qué documentos necesito para la primera solicitud de pasaporte de un menor?
 
@@ -106,7 +106,7 @@ Como mínimo: prueba de la identidad del niño (certificado de nacimiento), prue
 
 ### ¿Qué hace diferente a una foto de pasaporte de un bebé?
 
-Muchas autoridades quieren que el bebé tenga los ojos abiertos y mire a la cámara, sin chupetes, juguetes ni manos de otras personas visibles. Algunas relajan la norma de los ojos para los niños pequeños: GOV.UK, por ejemplo, dice que un niño menor de un año no necesita tener los ojos abiertos y que uno menor de 6 años no necesita mirar directamente a la cámara. El fondo liso debe verse con claridad detrás de la cabeza del niño. Como los bebés no pueden sentarse solos ni quedarse quietos, puedes fotografiarlos tumbados sobre un fondo liso —la norma es que la cabeza debe llenar el encuadre, que solo aparezca el niño en la foto, y que el fondo detrás de él esté despejado y sin obstáculos.
+Muchas autoridades quieren que el bebé tenga los ojos abiertos y mire a la cámara, sin chupetes, juguetes ni manos de otras personas visibles. Algunas relajan la norma de los ojos para los niños pequeños: GOV.UK, por ejemplo, dice que un niño menor de un año no necesita tener los ojos abiertos y que uno menor de 6 años no necesita mirar directamente a la cámara. El fondo liso debe verse con claridad detrás de la cabeza del niño. Como los bebés no pueden sentarse solos ni quedarse quietos, puedes fotografiarlos tumbados sobre un fondo liso —el niño debe aparecer solo en la foto y el fondo detrás de él debe ser liso y de color claro.
 
 ### ¿Cuánto tiempo es válido el pasaporte de un menor?
 

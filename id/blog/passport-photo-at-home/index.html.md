@@ -24,7 +24,7 @@ Meski aturan spesifik berbeda tiap otoritas paspor, sebagian besar negara memili
 
 ### Latar Belakang dan Komposisi
 
-Anda membutuhkan latar belakang polos berwarna terang, dan warna pastinya tergantung otoritas Anda: GOV.UK meminta krem polos atau abu-abu terang, sementara Pemerintah Kanada meminta putih polos atau berwarna terang. Tidak boleh ada motif, bayangan, latar belakang buram, atau warna mencolok. Alasannya sederhana: petugas membutuhkan tampilan wajah Anda yang bersih dan jelas untuk dibandingkan dengan dokumen di masa depan. Kebanyakan orang menggunakan sprei putih, papan poster, atau bahkan mengecat sebagian kecil dinding. Kuncinya adalah menjaganya tetap terang dan seragam secara keseluruhan.
+Anda membutuhkan latar belakang polos berwarna terang, dan warna pastinya tergantung otoritas Anda: GOV.UK meminta krem polos atau abu-abu terang, sementara Pemerintah Kanada meminta putih polos atau berwarna terang. Tidak boleh ada motif, bayangan, latar belakang buram, atau warna mencolok. Alasannya sederhana: petugas membutuhkan tampilan wajah Anda yang bersih dan jelas untuk dibandingkan dengan dokumen di masa depan. Gunakan kain polos atau papan poster dengan warna yang diminta otoritas Anda (krem atau abu-abu terang untuk Inggris), atau bahkan cat sebagian kecil dinding. Kuncinya adalah menjaganya tetap terang dan seragam secara keseluruhan.
 
 ### Ekspresi dan Pose
 
@@ -38,7 +38,7 @@ Kacamata hitam dan lensa berwarna umumnya ditolak. Jika Anda memenuhi syarat unt
 
 ## Ukuran Foto Paspor: Dua Standar yang Digunakan Sebagian Besar Negara
 
-Sebagian besar otoritas paspor menggunakan salah satu dari dua ukuran cetak. Format 35mm x 45mm berlaku di Inggris, negara-negara Uni Eropa termasuk Belanda, dan sebagian besar negara lain di dunia. Amerika Serikat meminta ukuran persegi 2 x 2 inci, dan beberapa negara lain mengikuti standar tersebut. Sebagian otoritas menetapkan ukurannya sendiri: Pemerintah Kanada, misalnya, meminta foto cetak berukuran 50mm lebar kali 70mm tinggi.
+Ukuran foto cetak berbeda-beda menurut otoritas. Inggris menggunakan 35mm x 45mm dan Pemerintah Kanada meminta foto cetak berukuran 50mm lebar kali 70mm tinggi. Negara lain menetapkan ukurannya sendiri, jadi ikuti ketentuan dari otoritas paspor Anda sendiri.
 
 Pengajuan digital menggunakan piksel, bukan milimeter, dan setiap otoritas menerbitkan ketentuan minimumnya sendiri. Kedua ukuran tersebut adalah yang saat ini paling banyak diminta untuk foto cetak, tetapi spesifikasi bisa direvisi, jadi pastikan ketentuannya sebelum Anda mencetak atau mengunggah.
 
@@ -63,11 +63,11 @@ Anda memiliki beberapa pilihan untuk menyerahkan foto paspor ke otoritas paspor.
 
 | Metode | Biaya | Risiko Penolakan | Kepraktisan | Panduan Resmi |
 |---|---|---|---|---|
-| Sendiri di rumah (ponsel pintar + aplikasi pemotong foto) | Gratis atau hampir gratis | Lebih tinggi jika salah pencahayaan atau ukuran | Sangat tinggi - langsung jadi | Diizinkan di sebagian besar negara - periksa situs otoritas Anda |
+| Sendiri di rumah (ponsel pintar + aplikasi pemotong foto) | Gratis atau hampir gratis | Lebih tinggi jika salah pencahayaan atau ukuran | Sangat tinggi - langsung jadi | Periksa situs otoritas Anda |
 | Apotek setempat | Biaya yang wajar | Rendah - petugas terlatih memeriksa | Sedang - biasanya selesai hari yang sama | Banyak digunakan dan umumnya dapat diandalkan - tetap periksa persyaratan foto otoritas Anda sendiri |
 | Kantor pos (Britania Raya dan lainnya) | Biaya yang wajar | Rendah - diambil di tempat, diperiksa | Sedang - memerlukan kunjungan dan janji temu | Layanan resmi kantor pos |
 | Layanan daring (misalnya Passport Photo Online) | Biaya yang wajar | Sedang - pengajuan digital, ada masukan | Tinggi - dari rumah, pengiriman digital | Tidak resmi tetapi banyak digunakan - periksa apakah negara Anda menerima unggahan yang sudah dipotong |
-| Studio foto profesional | Pilihan paling mahal | Rendah - pencahayaan dan komposisi ahli | Rendah - memerlukan janji temu | Diterima di mana saja - selalu pilihan yang aman |
+| Studio foto profesional | Pilihan paling mahal | Rendah - pencahayaan dan komposisi ahli | Rendah - memerlukan janji temu | Risiko terendah, meski foto tetap harus memenuhi aturan otoritas Anda |
 
 ## Pencahayaan dan Kualitas Gambar
 
@@ -83,7 +83,7 @@ Gunakan tripod atau sandarkan ponsel Anda pada benda yang stabil sehingga kedua 
 
 ### Resolusi dan Fokus
 
-Ponsel pintar modern memotret dengan 12 megapiksel atau lebih, yang lebih dari cukup untuk foto paspor. Sebelum memotret, pastikan ponsel Anda dalam mode fokus — ketuk wajah Anda di layar, dan sebagian besar ponsel akan mengunci fokus di sana. Gambar akhir Anda harus tajam dan jelas.
+Kamera ponsel pintar modern umumnya punya resolusi yang lebih dari cukup untuk foto paspor. Sebelum memotret, pastikan ponsel Anda dalam mode fokus — ketuk wajah Anda di layar, dan sebagian besar ponsel akan mengunci fokus di sana. Gambar akhir Anda harus tajam dan jelas.
 
 ## Alasan Penolakan yang Umum dan Cara Menghindarinya
 
@@ -133,7 +133,7 @@ Ya, Anda bisa mengambil foto paspor menggunakan ponsel pintar. Berdirilah di dep
 
 ### Berapa ukuran foto paspor yang seharusnya?
 
-Sebagian besar negara menggunakan salah satu dari dua ukuran cetak: 35mm x 45mm, yang berlaku di Inggris, Uni Eropa, dan sebagian besar negara di dunia, atau ukuran persegi 2 x 2 inci yang digunakan Amerika Serikat. Sebagian otoritas menetapkan ukurannya sendiri, seperti Pemerintah Kanada dengan ukuran 50mm x 70mm. Pengajuan digital memiliki ketentuan minimum piksel tersendiri. Persyaratan ini diterapkan secara ketat dan bisa direvisi, jadi pastikan spesifikasi pastinya dengan otoritas paspor negara Anda sendiri sebelum mencetak atau mengunggah.
+Ukuran cetak berbeda-beda menurut otoritas. Inggris menggunakan 35mm x 45mm dan Pemerintah Kanada menggunakan 50mm x 70mm. Negara lain menetapkan ukurannya sendiri, jadi ikuti ketentuan dari otoritas paspor Anda sendiri. Pengajuan digital memiliki ketentuan minimum piksel tersendiri. Persyaratan ini diterapkan secara ketat dan bisa direvisi, jadi pastikan spesifikasi pastinya dengan otoritas paspor negara Anda sendiri sebelum mencetak atau mengunggah.
 
 ### Mengapa foto paspor saya ditolak?
 

@@ -11,9 +11,9 @@ Source: https://traveldocumentvault.com/pt/blog/passport-expired-what-to-do/
 ## Pontos-Chave
 
 - Existem dois cenários distintos: descobrir que o seu passaporte expirou **em casa antes de uma viagem** e descobrir no **aeroporto**. Os passos são diferentes para cada um.
-- Não pode viajar internacionalmente com um passaporte expirado. Sem exceções.
-- No Reino Unido, existe um serviço de passaporte Premium expedito para emergências genuínas — marcável em gov.uk. Nos EUA, consultas de emergência estão disponíveis através do Departamento de Estado para viagens urgentes.
-- No aeroporto, contacte primeiro a sua companhia aérea — algumas reagendarão sem taxas por emergências genuínas de documentos.
+- Geralmente não pode voar para o estrangeiro com um passaporte expirado.
+- No Reino Unido, existe um serviço de passaporte Premium expedito para emergências genuínas — marcável em gov.uk. Nos EUA, consulte travel.state.gov para conhecer as opções para viagens urgentes.
+- No aeroporto, contacte primeiro a sua companhia aérea — pergunte se pode remarcar sem taxa de alteração.
 - A solução daqui em diante é um lembrete de expiração de 12 meses, não 6 meses. Isto dá-lhe tempo suficiente para renovar no processamento padrão.
 - A expiração não é o único problema de passaporte que afasta os viajantes. Danos, incompatibilidades de nomes, assinaturas em falta e validade insuficiente no seu destino causam o mesmo resultado.
 
@@ -30,9 +30,9 @@ A urgência com que precisa de agir determina o que fazer:
 - **Muito tempo antes da viagem:** peça a renovação padrão online através do site da sua autoridade de passaportes — GOV.UK no Reino Unido, travel.state.gov nos EUA.
 - **A viagem aproxima-se:** peça imediatamente e pague pelo processamento expedito. Tanto o Reino Unido como os EUA oferecem online um serviço pago mais rápido, e ambos publicam o seu tempo de processamento atual.
 - **A viagem está próxima:** ligue diretamente para a sua autoridade de passaportes em vez de confiar apenas no site — a linha de apoio do HM Passport Office no Reino Unido, ou o National Passport Information Center nos EUA.
-- **A viagem é iminente:** pergunte sobre uma consulta de emergência e traga prova das suas datas de viagem. O serviço 1 Day Premium do Reino Unido (apenas renovações de adultos) permite marcar a partir de 2 dias depois do pedido, com o passaporte pronto para recolha 4 horas depois da marcação, e os EUA oferecem consultas em agências de passaportes regionais.
+- **A viagem é iminente:** pergunte sobre uma consulta de emergência e traga prova das suas datas de viagem. O serviço 1 Day Premium do Reino Unido (apenas renovações de adultos) permite marcar a partir de 2 dias depois do pedido, com o passaporte pronto para recolha 4 horas depois da marcação, e os EUA publicam as opções para viagens urgentes em travel.state.gov.
 
-Todas as autoridades de passaportes principais retêm consultas de emergência que não são visíveis online. Se o seu cronograma é apertado, **nós ligaríamos sempre em vez de confiar apenas no site.**
+Se o prazo for apertado, ligaríamos sempre em vez de confiar apenas no site.
 
 ## Cenário B: Descobriu no Aeroporto
 
@@ -40,9 +40,9 @@ Este cenário acontece mais vezes do que as pessoas esperam, e os passos não s�
 
 **Passo 1: Mantenha a calma e afaste-se da fila.** Não vai embarcar neste voo, e quanto mais cedo aceitar essa realidade, mais cedo pode começar a trabalhar na solução.
 
-**Passo 2: Vá ao balcão da companhia aérea imediatamente.** Não saia do aeroporto — fale com a companhia aérea directamente e explique a situação. Algumas companhias aéreas reagendarão sem taxa de mudança por emergências genuínas de documentos — nem todas, mas vale a pena perguntar. Obtenha a resposta por escrito se concordarem.
+**Passo 2: Vá ao balcão da companhia aérea imediatamente.** Não saia do aeroporto — fale com a companhia aérea directamente e explique a situação. As políticas variam entre companhias aéreas, por isso pergunte se pode remarcar sem taxa de alteração. Obtenha a resposta por escrito se concordarem.
 
-**Passo 3: Verifique se as viagens domésticas são possíveis.** Um passaporte expirado pode ainda ser aceite como ID para voos domésticos em alguns países, embora isto não seja garantido. Se o seu destino final é alcançável domesticamente de uma cidade mais próxima, isto pode ser uma opção enquanto resolve o passaporte.
+**Passo 3: Verifique se as viagens domésticas são possíveis.** Algumas companhias aéreas podem aceitar outro documento de identificação com fotografia em voos domésticos, por isso confirme com a sua companhia. Se o seu destino final é alcançável domesticamente de uma cidade mais próxima, isto pode ser uma opção enquanto resolve o passaporte.
 
 **Passo 4: Contacte a sua autoridade de passaportes por telefone.** Explique a sua situação. No Reino Unido, ligue para a linha de apoio do HM Passport Office e peça a consulta mais antiga disponível no escritório de passaportes mais próximo. Nos EUA, ligue para o National Passport Information Center dos EUA e pergunte sobre consultas de emergência na agência regional de passaportes mais próxima. Pergunte especificamente por opções de emergência, já que as marcações mais rápidas muitas vezes não aparecem no site.
 
@@ -60,11 +60,11 @@ O GOV.UK indica que deve renovar o seu passaporte antes de poder viajar se estiv
 
 ### EUA: A Renovação Funciona Dentro de 15 Anos Após a Emissão
 
-Segundo a USA.gov, só pode renovar um passaporte expirado se este tiver sido emitido nos últimos 15 anos. Também não pode renovar um emitido antes do seu 16.º aniversário, um danificado, perdido ou roubado, ou um com um nome anterior, a menos que tenha um documento legal que comprove a alteração. Se algum destes casos se aplicar, deve pedir um novo passaporte pessoalmente com o formulário DS-11.
+Os EUA têm regras próprias para a renovação de um passaporte expirado, incluindo um limite relativo à data em que foi emitido. Consulte a página de renovação em travel.state.gov, que também explica quando é necessário apresentar o pedido presencialmente.
 
 ### Canadá: Um Passaporte Expirado Pode Ser Renovado Online
 
-O governo do Canadá permite a renovação se o seu último passaporte era um passaporte de adulto emitido quando tinha pelo menos 16 anos. Também tem de ter sido emitido nos 15 anos anteriores ao pedido e ter validade de 5 ou 10 anos. O nome, a data e o local de nascimento nele devem corresponder aos que quer no novo. Pode renovar online se o seu passaporte expirar nos próximos seis meses ou já tiver expirado, desde que a sua morada e endereço postal estejam no Canadá. Os passaportes de crianças não podem ser renovados, por isso uma criança precisa de um novo pedido.
+O governo do Canadá permite a renovação se o seu último passaporte era um passaporte de adulto emitido quando tinha pelo menos 16 anos. Também tem de ter sido emitido nos 15 anos anteriores ao pedido e ter validade de 5 ou 10 anos. Pode renovar online se o seu passaporte expirar nos próximos seis meses ou já tiver expirado, desde que a sua morada e endereço postal estejam no Canadá. Os passaportes de crianças não podem ser renovados, por isso uma criança precisa de um novo pedido.
 
 Se o seu passaporte expirou há anos, veja primeiro a data de emissão, porque o limite de 15 anos nos EUA e no Canadá conta a partir da emissão, não da expiração. Depois verifique os prazos atuais antes de reservar, algo que o nosso guia sobre [quanto tempo demora a renovação do passaporte](https://traveldocumentvault.com/pt/blog/how-long-does-passport-renewal-take/) detalha país a país.
 
@@ -88,7 +88,7 @@ O pessoal da companhia aérea às vezes resolve pequenas variações, como a fal
 
 ### 3. Um passaporte não assinado
 
-A maioria dos passaportes tem um painel de assinatura. Alguns países — incluindo os Estados Unidos — exigem que o passaporte seja assinado antes de ser considerado válido para viagem. Um passaporte não assinado pode ser recusado na fronteira. Este é mais comumente um problema com passaportes emitidos para crianças que eram muito jovens para assinar, ou com passaportes novos que o detentor esqueceu de assinar antes de viajar. Uma vista de olhos ao painel de assinatura antes de sair de casa resolve isto a tempo.
+A maioria dos passaportes tem um painel de assinatura. Muitos passaportes têm um painel de assinatura, e a falta de assinatura pode causar problemas na fronteira. Este é mais comumente um problema com passaportes emitidos para crianças que eram muito jovens para assinar, ou com passaportes novos que o detentor esqueceu de assinar antes de viajar. Uma vista de olhos ao painel de assinatura antes de sair de casa resolve isto a tempo.
 
 ### 4. Validade insuficiente para o seu destino
 
@@ -106,7 +106,7 @@ Antes de cada viagem, verifique os requisitos de entrada oficiais para o seu des
 
 A causa raiz é normalmente a mesma: sem lembrete em lugar. Defina um lembrete de expiração pelo menos **12 meses antes da data de expiração** — não 6 meses. Isto dá-lhe tempo para renovar no processamento padrão sem pagar expedição, e sem o stress de um cronograma apertado.
 
-Faça isto para cada passaporte no seu agregado separadamente. Os passaportes infantis expiram mais rápido — 5 anos na maioria dos países versus 10 para adultos — e são os mais frequentemente omitidos. **Tire hoje todos os passaportes da gaveta e verifique a data de expiração, não apenas a página da fotografia.**
+Faça isto para cada passaporte no seu agregado separadamente. Os passaportes infantis expiram mais rápido — muitas vezes 5 anos versus 10 para adultos — e são os mais frequentemente omitidos. **Tire hoje todos os passaportes da gaveta e verifique a data de expiração, não apenas a página da fotografia.**
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 
@@ -122,11 +122,11 @@ Peça a renovação imediatamente e pague pelo processamento expedito se a sua v
 
 ### O que devo fazer se descobrir que o meu passaporte expirou no aeroporto?
 
-Não conseguirá embarcar. Vá ao balcão da companhia aérea imediatamente para discutir reagendamento — alguns dispensam taxas de mudança por emergências genuínas de documentos. Depois ligue para a sua autoridade de passaportes e pergunte especificamente por opções de consulta de emergência, já que as marcações mais rápidas muitas vezes não aparecem no site.
+Não conseguirá embarcar. Vá ao balcão da companhia aérea imediatamente para discutir reagendamento — pergunte se pode remarcar sem taxa de alteração. Depois ligue para a sua autoridade de passaportes e pergunte especificamente por opções de consulta de emergência, já que as marcações mais rápidas muitas vezes não aparecem no site.
 
 ### Quão rápido consigo um passaporte de emergência se o meu expirou?
 
-No Reino Unido, um serviço Premium expedito está disponível em escritórios de passaportes designados para emergências genuínas — consulta necessária, verifique o tempo de processamento atual e a marcação em gov.uk. Nos EUA, consultas de emergência presenciais estão disponíveis em agências de passaportes regionais para viagens urgentes — verifique taxas e disponibilidade atuais em travel.state.gov. Na Austrália, verifique passports.gov.au para opções de processamento urgente.
+No Reino Unido, um serviço Premium expedito está disponível em escritórios de passaportes designados para emergências genuínas — consulta necessária, verifique o tempo de processamento atual e a marcação em gov.uk. Nos EUA, consulte travel.state.gov para conhecer as opções para viagens urgentes, as taxas atuais e a disponibilidade. Na Austrália, verifique passports.gov.au para opções de processamento urgente.
 
 ### Como posso evitar que o meu passaporte expire inesperadamente?
 

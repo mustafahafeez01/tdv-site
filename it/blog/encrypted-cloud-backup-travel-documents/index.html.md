@@ -26,9 +26,9 @@ La cifratura mescola un file in modo che solo una chiave corrispondente possa ri
 
 Due configurazioni vengono entrambe vendute come backup crittografato, ma si comportano in modo molto diverso.
 
-La prima invia il file al server dell'azienda tramite una connessione cifrata, poi lo conserva cifrato a riposo. Entrambe le affermazioni sono vere, ed entrambe suonano rassicuranti. Ma l'azienda continua ad avere la chiave, quindi può decifrare i tuoi documenti ogni volta che ne ha bisogno: per far funzionare una funzionalità, per rispondere a una richiesta legale, o perché qualcuno al suo interno ha commesso un errore. La scansione del tuo passaporto è leggibile dall'altra parte.
+La prima invia il file al server dell'azienda tramite una connessione cifrata, poi lo conserva cifrato a riposo. Entrambe le affermazioni sono vere, ed entrambe suonano rassicuranti. Ma l'azienda continua ad avere la chiave, quindi è tecnicamente in grado di decifrare i tuoi documenti, per una funzionalità, una richiesta legale o un errore interno. La scansione del tuo passaporto è leggibile dall'altra parte.
 
-L'altra configurazione cifra il file sul tuo telefono prima ancora che venga inviato, usando una chiave derivata da qualcosa che solo tu possiedi. Ciò che arriva nello storage è un blocco di rumore, e nessuno dall'altra parte può leggerlo, perché nessuno dall'altra parte ha la chiave. Questo è solitamente chiamato cifratura end-to-end, o zero-knowledge.
+L'altra configurazione cifra il file sul tuo telefono prima ancora che venga inviato, usando una chiave derivata da qualcosa che solo tu possiedi. Ciò che arriva nello storage è un blocco di rumore, e nessuno dall'altra parte può leggerlo, perché nessuno dall'altra parte ha la chiave. Questo viene spesso descritto come cifratura end-to-end, o zero-knowledge.
 
 Quindi la domanda da porsi a qualsiasi app è breve: **chi ha la chiave?** Tutto il resto del marketing discende da questa risposta.
 
@@ -55,7 +55,7 @@ Quindi tratta il codice come l'unica cosa da fare bene:
 
 Dipende completamente da cosa arriva effettivamente nel cloud, ed è una domanda che riguarda l'app, non il cloud.
 
-Una foto del passaporto in una normale libreria fotografica o in una cartella sincronizzata arriva leggibile. Resta in un account protetto da una password che magari hai già riutilizzato altrove. Viene indicizzata e trasformata in miniatura, e chiunque acceda a quell'account vede una copia perfettamente leggibile della pagina anagrafica. Abbiamo analizzato in dettaglio come appare questa esposizione in [conservare un passaporto in Google Photos](https://traveldocumentvault.com/it/blog/is-it-safe-to-store-passport-in-google-photos/). È un rischio reale, ed è la configurazione che la maggior parte delle famiglie usa senza averla mai scelta davvero.
+Una foto del passaporto in una normale libreria fotografica o in una cartella sincronizzata arriva leggibile. Resta in un account protetto da una password che magari hai già riutilizzato altrove. A seconda del servizio, può essere indicizzata o mostrata come miniatura, e chiunque acceda a quell'account vede una copia perfettamente leggibile della pagina anagrafica. Abbiamo analizzato in dettaglio come appare questa esposizione in [conservare un passaporto in Google Photos](https://traveldocumentvault.com/it/blog/is-it-safe-to-store-passport-in-google-photos/). È un rischio reale, ed è la configurazione che la maggior parte delle famiglie usa senza averla mai scelta davvero.
 
 Un vault cifrato sul dispositivo prima del caricamento arriva come testo cifrato. Chi riesce a violare l'account cloud trova un file che non può aprire. La protezione viaggia insieme al file, invece di dipendere dall'account in cui finisce.
 
@@ -82,7 +82,7 @@ Il tempo di ripristino dipende dalle dimensioni del vault e dalla connessione.
 
 Installa l’app sul nuovo telefono e accedi allo stesso account iCloud o Google che usavi prima. Con Pro e il backup cloud disattivato sul dispositivo di destinazione, apri Impostazioni, Backup su Cloud, poi Ripristina da Backup. Scegli il vault esistente, inserisci il codice di recupero e conferma il ripristino, che sostituisce il contenuto locale del vault. Vengono ripristinati profili, documenti e date di scadenza; le notifiche vengono ricreate sul dispositivo di destinazione.
 
-L'app controlla anche prima di scrivere. Se il backup cloud rileva un backup già esistente in quell'account, ti chiede di scegliere tra ripristinarlo e ricominciare da zero. Un telefono nuovo non può sovrascrivere silenziosamente ciò che è già presente.
+L'app controlla anche prima di scrivere. Se il backup cloud trova un backup creato con lo stesso codice di recupero, l’app chiede se unirlo ai dati locali o ricominciare da zero: un telefono nuovo non può sovrascrivere silenziosamente ciò che è già presente. Ricominciare da zero lascia intatto l’altro backup.
 
 ### Passare da iPhone ad Android (e Viceversa) Significa Usare l’Esportazione del Caveau
 

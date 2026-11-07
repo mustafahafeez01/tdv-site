@@ -13,7 +13,7 @@ Source: https://traveldocumentvault.com/es/blog/schengen-passport-rules-family-t
 - La verdadera regla de Schengen es **3 meses de validez después de la fecha en que te vas**, más un pasaporte emitido en los últimos 10 años —no es la "regla de 6 meses".
 - **Los pasaportes de los niños caducan en 5 años**, por lo que los pasaportes de una familia se desfasan y la caducidad más temprana decide el viaje.
 - Los **pasaportes británicos pre-octubre de 2018 con meses adicionales** pueden no pasar la prueba de emisión de 10 años incluso mientras el folleto sigue luciendo válido.
-- Las aerolíneas verifican cada pasaporte contra **la base de datos Timatic de IATA** en el check-in —sin redondeo, sin anulación, y un pasaporte que no pase deja en tierra a toda la familia.
+- Por lo general, las aerolíneas comprueban los pasaportes contra **la base de datos Timatic de IATA** en el check-in, y un pasaporte que no pase puede dejar en tierra a toda la familia.
 - **Audita cada pasaporte el día que reservas**, no la semana que vuelas. Cinco minutos en el momento de la reserva es todo lo que necesitas.
 
 Reservar un viaje familiar a Europa generalmente comienza de la misma manera: verificas tu propio pasaporte, ves años de validez restante, y presionas confirmar. La trampa llega semanas después, cuando alguien finalmente abre el cajón y descubre que el pasaporte de un niño —emitido en un reloj más corto que el tuyo— caduca antes de lo que nadie pensaba. Nadie envía a los padres una carta de advertencia sobre esto. El mostrador de check-in entrega las noticias en su lugar.
@@ -38,24 +38,21 @@ Nuestra guía sobre [la regla de 6 meses](https://traveldocumentvault.com/es/blo
 
 ## Los Pasaportes de Niños Funcionan en un Reloj Más Rápido
 
-Los pasaportes de adultos generalmente duran 10 años; los de niños solo cinco. Esa asimetría es donde muchos planes cuidadosos fracasan.
+Los pasaportes británicos de adultos duran 10 años, mientras que el Reino Unido expide los de niños solo por cinco. Esa asimetría es donde muchos planes cuidadosos fracasan.
 
 | País | Pasaportes infantiles | Validez |
 |---|---|---|
-| Estados Unidos | Menores de 16 años | 5 años |
-| Reino Unido | Todos los niños | 5 años |
-| Canadá | Menores de 16 años | 5 años |
-| Australia | Todos los niños | 5 años |
+| Reino Unido | Menores de 16 años | 5 años |
 
-Fuentes: Departamento de Estado de EE.UU., GOV.UK, Canada.ca, Oficina de Pasaportes Australiana.
+Fuente: GOV.UK.
 
 Una familia de cuatro por lo tanto opera en cuatro calendarios de caducidad diferentes. La fecha más temprana decide si el viaje sucede en absoluto. Dos adultos renovados juntos se desfasarán de los documentos de sus hijos en un par de años —que es exactamente por qué verificar tu propio pasaporte te dice casi nada sobre la disponibilidad de la familia.
 
-Para las familias estadounidenses hay una complicación adicional: el pasaporte de un niño no puede renovarse por correo. Cada renovación requiere una solicitud nueva en persona, y el tiempo de procesamiento cambia —el Departamento de Estado de EE.UU. publica la cifra actual, así que consúltala antes de planificar, además del tiempo de envío en ambos sentidos. Lo que es manejable en marzo se convierte rápidamente en un problema real justo antes de la salida. Las familias británicas lo tienen un poco más fácil: solo verifica los tiempos de procesamiento actuales antes de reservar y permite tiempo extra si se necesita información.
+Para las familias estadounidenses hay una complicación adicional: la renovación del pasaporte de un niño puede requerir una solicitud en persona y tardar varias semanas, así que consulta las normas y los tiempos de procesamiento actuales de tu autoridad de pasaportes antes de reservar. Eso es manejable en marzo se convierte rápidamente en un problema real justo antes de la salida. Las familias británicas lo tienen un poco más fácil: solo verifica los tiempos de procesamiento actuales antes de reservar y permite tiempo extra si se necesita información.
 
 ## Realidad del Check-in: Timatic No Redondea Hacia Arriba
 
-Independientemente de lo que la frontera podría tolerar, te encontrarás con las reglas antes que eso —en el check-in. Las aerolíneas validan cada pasaporte contra la base de datos Timatic de IATA, que aplica exactamente los requisitos de entrada de cada destino. Si tu fecha de regreso necesita validez hasta el 20 de noviembre y un pasaporte caduca el 15 de noviembre, el sistema dice no. No hay "lo suficientemente cerca" y no hay anulación —las aerolíneas que embarcan a un pasajero inadmisible deben volarlos de regreso a su propio costo.
+Independientemente de lo que la frontera podría tolerar, te encontrarás con las reglas antes que eso —en el check-in. Por lo general, las aerolíneas comprueban los pasaportes contra la base de datos Timatic de IATA, que recoge los requisitos de entrada de cada destino. Si tu fecha de regreso necesita validez hasta el 20 de noviembre y un pasaporte caduca el 15 de noviembre, el sistema dice no. Cuenta con que te nieguen el embarque en el check-in.
 
 Un pasaporte fallido rara vez deja varado a una persona; deja en tierra a toda la familia. Pocos padres enviarán a tres miembros adelante y dejarán a uno en el mostrador, así que en la práctica toda la reserva se reescribe o se pierde.
 
@@ -77,11 +74,11 @@ Son reglas separadas para destinos diferentes. Países como Tailandia e Indonesi
 
 ### ¿Los niños siguen diferentes normas de pasaporte Schengen?
 
-No. Los niños necesitan los mismos 3 meses de validez después de la salida y la misma condición de emisión-dentro-de-10-años que los adultos. Lo que difiere es el pasaporte en sí: la mayoría de los países emiten pasaportes infantiles durante 5 años en lugar de 10, por lo que el documento de un niño alcanza estos límites mucho antes que el de un padre.
+No. Los niños necesitan los mismos 3 meses de validez después de la salida y la misma condición de emisión-dentro-de-10-años que los adultos. Lo que difiere es el pasaporte en sí: muchos países, entre ellos el Reino Unido, emiten pasaportes infantiles durante 5 años en lugar de 10, por lo que el documento de un niño alcanza estos límites mucho antes que el de un padre.
 
 ### ¿Cuándo debemos renovar el pasaporte de un niño antes de un viaje?
 
-Tan pronto como reserves, verifica si el pasaporte aún tendrá 3 meses de validez después de tu fecha de regreso. Si no es así, comienza de inmediato. Consulta los tiempos de procesamiento actuales del Reino Unido y permite tiempo extra si la solicitud necesita más información. El tiempo de procesamiento en EE.UU. cambia; consulta la cifra actual en el Departamento de Estado de EE.UU., además del tiempo de envío. El pasaporte infantil estadounidense también requiere una solicitud nueva en persona en lugar de una renovación.
+Tan pronto como reserves, verifica si el pasaporte aún tendrá 3 meses de validez después de tu fecha de regreso. Si no es así, comienza de inmediato. Consulta los tiempos de procesamiento actuales del Reino Unido y permite tiempo extra si la solicitud necesita más información. Consulta los tiempos de procesamiento actuales de la autoridad que expide tu pasaporte.
 
 ### ¿Podemos volar mientras se está renovando el pasaporte de un niño?
 
@@ -89,7 +86,7 @@ No. Necesitas el pasaporte físico en la mano para abordar un vuelo internaciona
 
 ### ¿Qué sucede en el check-in si un pasaporte no es suficiente?
 
-Las aerolíneas verifican cada pasaporte contra la base de datos Timatic de IATA, que aplica las normas del destino exactamente, sin redondeo y sin anulación. Si un miembro de la familia no pasa la verificación, esa persona no puede abordar —lo que en la práctica generalmente significa reservar de nuevo o cancelar todo el viaje.
+Por lo general, las aerolíneas comprueban los pasaportes contra la base de datos Timatic de IATA, que recoge los requisitos de entrada de cada destino. Si un miembro de la familia no pasa la verificación, esa persona no puede abordar —lo que en la práctica las familias suelen resolver reservando de nuevo en lugar de separarse.
 
 ## Artículos Relacionados
 

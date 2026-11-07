@@ -22,7 +22,7 @@ Passaporto e visto sembrano quasi intercambiabili, ma svolgono compiti diversi: 
 
 Il tuo passaporto contiene il tuo nome, data di nascita, foto e numero di passaporto unico — emesso dal tuo governo e riconosciuto in tutto il mondo come prova della tua cittadinanza.
 
-Funziona come la tua carta d'identità ufficiale per i viaggi internazionali. Senza di esso, non puoi legalmente lasciare il tuo paese o entrare nella maggior parte delle destinazioni straniere. Gli ufficiali di immigrazione lo esaminano ai confini, le compagnie aeree lo richiedono per i voli internazionali, e gli ufficiali doganali lo controllano quando arrivi.
+Funziona come la tua carta d'identità ufficiale per i viaggi internazionali. Per la maggior parte dei viaggi internazionali serve per lasciare il tuo paese e per essere ammesso all'estero, anche se alcune regioni accettano altri documenti, come le carte d'identità nazionali in Europa o la passport card USA ai valichi terrestri e marittimi. Gli ufficiali di immigrazione lo esaminano ai confini, le compagnie aeree lo richiedono per i voli internazionali, e gli ufficiali doganali lo controllano quando arrivi.
 
 I passaporti sono tipicamente validi per diversi anni (spesso 10 anni per gli adulti, 5 anni per i bambini), sebbene i periodi di validità varino a seconda del paese. Quando il tuo passaporto scade, non puoi viaggiare internazionalmente e devi richiedere un rinnovo. Tenere traccia della data di scadenza del tuo passaporto è critico poiché molti paesi richiedono almeno 6 mesi di validità rimanente prima di permetterti di entrare.
 
@@ -38,7 +38,7 @@ I requisiti dei visti dipendono dalla tua nazionalità. Un cittadino di un paese
 
 Il tuo passaporto risponde a una domanda: "Chi sei e quale paese ha emesso questo documento?" Il tuo visto ne risponde un'altra: "Il paese di destinazione ti permette di visitare?" Insieme, funzionano come una chiave a due parti — il tuo passaporto ti permette di partire da casa, e il tuo visto concede l'ingresso alla tua destinazione.
 
-La maggior parte dei viaggi internazionali richiede sia un passaporto valido che un visto appropriato (o conferma che non è necessario un visto per la tua destinazione). Senza un passaporto, non puoi legalmente lasciare il tuo paese. Senza un visto richiesto, non puoi entrare nella tua destinazione, indipendentemente da quanto valido sia il tuo passaporto. Molte interruzioni di viaggio accadono perché i viaggiatori hanno passaporti validi ma dimenticano di controllare i requisiti dei visti prima di prenotare.
+La maggior parte dei viaggi internazionali richiede sia un passaporto valido che un visto appropriato (o conferma che non è necessario un visto per la tua destinazione). Per la maggior parte dei viaggi internazionali non puoi partire senza un passaporto. Senza un visto richiesto, non puoi entrare nella tua destinazione, indipendentemente da quanto valido sia il tuo passaporto. Molte interruzioni di viaggio accadono perché i viaggiatori hanno passaporti validi ma dimenticano di controllare i requisiti dei visti prima di prenotare.
 
 ## Il Passaporto È la Stessa Cosa di un Visto?
 
@@ -60,7 +60,7 @@ La maggior parte dei paesi emette visti in queste categorie:
 - **Visto di lavoro:** Richiesto per l'occupazione all'estero. I datori di lavoro in genere sponsorizzano questi, con restrizioni specifiche su quale lavoro ti è permesso fare.
 - **Visto per studenti:** Per studiare in un istituto educativo riconosciuto, spesso con restrizioni su lavori esterni e limiti di durata specifici.
 - **Visto di transito:** Richiesto da alcuni paesi per passare attraverso il tuo percorso verso un'altra destinazione, anche se stai solo cambiando aereo.
-- **E-visto:** Un visto elettronico richiesto online e archiviato nel sistema del paese di destinazione, collegato al tuo numero di passaporto. Comune nel Sud-Est asiatico e sempre più altrove.
+- **E-visto:** Un visto elettronico richiesto online e di solito archiviato nel sistema del paese di destinazione, collegato al tuo numero di passaporto. Comune nel Sud-Est asiatico e sempre più altrove.
 - **Visto all'arrivo:** Emesso al tuo aeroporto di destinazione o confine quando arrivi. L'elaborazione è solitamente veloce, anche se le code possono essere lunghe, e non tutti i paesi offrono questa opzione.
 
 I requisiti dei visti all'interno di ogni categoria variano notevolmente. Un visto turistico per un paese potrebbe essere valido per 30 giorni; un altro potrebbe consentire 90 giorni. Alcuni sono a singolo ingresso (puoi entrare solo una volta), mentre altri consentono ingressi multipli.
@@ -69,7 +69,7 @@ I requisiti dei visti all'interno di ogni categoria variano notevolmente. Un vis
 |---|---|---|
 | **Emesso da** | Il tuo paese di origine | Paese di destinazione |
 | **Scopo** | Prova la cittadinanza e l'identità | Concede il permesso di entrare in uno specifico paese |
-| **Richiesto per** | Tutti i viaggi internazionali | Viaggi verso molti (non tutti) paesi |
+| **Richiesto per** | La maggior parte dei viaggi internazionali | Viaggi verso molti (non tutti) paesi |
 | **Periodo di validità** | Generalmente 5-10 anni | Varia: da giorni a anni a seconda del tipo |
 | **Luogo di richiesta** | Ufficio governativo nel tuo paese | Ambasciata o consolato del paese di destinazione |
 | **Tempo di elaborazione** | Settimane o mesi a seconda del paese | Da giorni a mesi a seconda della destinazione e del tipo |
@@ -79,7 +79,7 @@ I requisiti dei visti all'interno di ogni categoria variano notevolmente. Un vis
 
 Una fonte di confusione riguarda la differenza tra un tradizionale timbro di visto e un moderno e-visto. Storicamente, gli ufficiali timbravano o scrivevano l'approvazione direttamente nel tuo passaporto — vedresti marchi ufficiali, date e note di approvazione stampate sulle pagine. Gli e-visti funzionano diversamente: fai una richiesta online, paghi una tassa e ricevi l'approvazione via email piuttosto che un timbro fisico.
 
-Invece di essere stampato nel tuo passaporto, un e-visto viene archiviato nel sistema elettronico del paese di destinazione e collegato al tuo numero di passaporto. Quando arrivi, gli ufficiali di confine lo cercano nel loro sistema per confermare il tuo visto. Entrambi i tipi sono ugualmente validi e giuridicamente vincolanti.
+Invece di essere stampato nel tuo passaporto, un e-visto viene di solito archiviato nel sistema elettronico del paese di destinazione e collegato al tuo numero di passaporto. Quando arrivi, gli ufficiali di confine lo cercano nel loro sistema per confermare il tuo visto. Entrambi i tipi sono ugualmente validi e giuridicamente vincolanti.
 
 Uno scenario comune: ottieni un nuovo passaporto prima che il tuo visto scada. Nella maggior parte dei paesi, il tuo visto rimane valido anche se il passaporto è cambiato. Semplicemente porta entrambi il vecchio passaporto (scaduto) contenente il visto e il tuo nuovo passaporto quando viaggi — gli ufficiali di immigrazione li esamineranno insieme.
 
@@ -87,7 +87,7 @@ Uno scenario comune: ottieni un nuovo passaporto prima che il tuo visto scada. N
 
 La chiave è la tua nazionalità e la tua destinazione. Un viaggiatore potrebbe aver bisogno di un visto per un percorso che un altro può fare senza visto, a seconda interamente del loro passaporto. Verifica sempre i tuoi requisiti specifici con fonti ufficiali prima di prenotare — non fare affidamento su ciò che ha funzionato per un amico con un diverso passaporto.
 
-- **IATA Travel Centre:** Cerca per il tuo paese di passaporto e il paese di destinazione per vedere i requisiti esatti, i tempi di elaborazione e i periodi di validità. Questo è il punto di partenza più veloce per la maggior parte dei percorsi.
+- **IATA Travel Centre:** Cerca per il tuo paese di passaporto e il paese di destinazione per vedere i requisiti di passaporto, visto e sanitari per quella combinazione. Questo è il punto di partenza più veloce per la maggior parte dei percorsi.
 - **L'ambasciata ufficiale o il consolato del tuo paese di destinazione:** Visita il sito dell'ambasciata per il tuo paese di residenza. Elencano i requisiti dei visti, i processi di richiesta, le tasse e i tempi di elaborazione specifici per la tua nazionalità. Ad esempio, cerca "ambasciata francese in Canada" o "consolato tedesco in Australia" per trovare il sito corretto.
 - **L'avviso di viaggio del tuo governo:** Governi come il Regno Unito, gli USA, l'Australia e il Canada pubblicano i requisiti dei visti per i loro cittadini. Queste pagine evidenziano anche i cambiamenti recenti e le circostanze speciali.
 
@@ -107,7 +107,7 @@ La confusione nasce dal fatto che il tuo vecchio passaporto è scaduto come docu
 
 ## Viaggiare Senza Visto Ha Comunque dei Limiti
 
-Molte nazioni hanno accordi di esenzione dai visti o di viaggio senza visto tra loro, permettendo ai loro cittadini di attraversare i confini senza ottenere un visto in anticipo. L'Area Schengen in Europa è l'esempio più noto — i titolari di passaporti dai paesi membri possono muoversi liberamente nei suoi 29 stati membri senza controlli visto. Il Sud-Est asiatico, i Caraibi e parti dell'Africa hanno schemi simili.
+Molte nazioni hanno accordi di esenzione dai visti o di viaggio senza visto tra loro, permettendo ai loro cittadini di attraversare i confini senza ottenere un visto in anticipo. L'Area Schengen in Europa è l'esempio più noto — di norma i viaggiatori possono spostarsi tra i suoi 29 stati membri senza controlli di frontiera ordinari, anche se alcuni paesi reintroducono controlli temporanei. Il Sud-Est asiatico, i Caraibi e parti dell'Africa hanno schemi simili.
 
 Tuttavia, i viaggi senza visto hanno limiti. Si applicano tipicamente solo al turismo o a visite a breve termine, non al lavoro o agli studi. I periodi di viaggio senza visto sono anche limitati, spesso da 30 a 90 giorni a seconda del paese. Se superi il tempo consentito, diventi un residente illegale e affronti sanzioni incluse multe, deportazione o divieti di ingresso futuri.
 
@@ -139,7 +139,7 @@ Tradizionalmente il visto è un'etichetta o un timbro applicato su una pagina de
 
 ### Qual è la forma estesa di passaporto e visto
 
-Nessuna delle due parole è una sigla, quindi non c'è nulla da sciogliere. Sono parole comuni di origine antica: passaporto viene dal francese passeport, e visto dal latino per un documento che è stato visto.
+Nessuna delle due parole è una sigla, quindi non c'è nulla da sciogliere.
 
 ### Una carta Visa è la stessa cosa di un visto di viaggio
 
@@ -147,7 +147,7 @@ No, e il nome in comune è una coincidenza, non un legame. Visa, il circuito di 
 
 ### Si può usare un visto su un passaporto scaduto
 
-Nella maggior parte dei Paesi sì. La validità del visto è separata da quella del passaporto, quindi un visto ancora valido su un passaporto scaduto resta di norma utilizzabile se porti con te entrambi i libretti. Alcuni Paesi però richiedono di trasferire il visto sul nuovo passaporto, quindi conferma la regola della tua destinazione con la sua ambasciata prima di partire.
+Spesso sì. La validità del visto è separata da quella del passaporto, quindi un visto ancora valido su un passaporto scaduto resta di norma utilizzabile se porti con te entrambi i libretti. Alcuni Paesi però richiedono di trasferire il visto sul nuovo passaporto, quindi conferma la regola della tua destinazione con la sua ambasciata prima di partire.
 
 ## Articoli Correlati
 

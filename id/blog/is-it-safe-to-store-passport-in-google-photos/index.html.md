@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/id/blog/is-it-safe-to-store-passport-in-
 
 - Menyimpan pindaian paspor di Google Foto berarti dokumen identitas Anda berada di server Google, diproses oleh sistem mereka, dan hanya dilindungi oleh keamanan yang kebetulan dimiliki akun Google Anda.
 - Akun Google yang diretas — lewat phishing, kata sandi yang dipakai ulang, atau kebocoran data di tempat lain — menyerahkan semua yang ada di Google Foto, termasuk paspor Anda.
-- Ketentuan Google mengizinkan pemindaian otomatis atas foto Anda untuk fitur dan peningkatan layanan, dan itu termasuk gambar yang berisi data paspor.
+- Kebijakan privasi Google menyatakan sistem otomatis digunakan untuk menganalisis konten Anda demi menyediakan dan meningkatkan layanan, dan pindaian paspor disimpan seperti foto lainnya.
 - Ada opsi yang lebih baik: pengelola kata sandi terenkripsi, aplikasi terenkripsi di perangkat, atau penyimpanan cloud dengan enkripsi sisi klien — tak satu pun dari opsi ini membuang paspor Anda ke perpustakaan foto umum.
 - Bagi kebanyakan orang, risiko sebenarnya adalah keamanan akun yang lemah, bukan Google itu sendiri: kata sandi yang dipakai ulang, login yang dibagikan, atau seseorang yang sudah tahu caranya masuk.
 
@@ -55,7 +55,7 @@ Anda mungkin sudah menghubungkan lebih banyak aplikasi ke akun Google Anda darip
 
 **Pemindaian konten otomatis**
 
-Kebijakan privasi Google mengonfirmasi bahwa foto diproses oleh sistem otomatis — pengenalan wajah, deteksi objek, pengindeksan pencarian. Pindaian paspor Anda melalui sistem yang sama untuk pencarian dan deteksi fitur. Tidak ada manusia yang membaca paspor Anda, dan Google tidak melakukan apa pun yang licik di sini, tetapi data dokumen Anda tetap meninggalkan perangkat Anda untuk dianalisis oleh infrastruktur pihak ketiga.
+Kebijakan privasi Google menyatakan bahwa sistem otomatis digunakan untuk menganalisis konten Anda, dan Google Foto mengelompokkan wajah dari foto Anda. Pindaian paspor disimpan seperti foto lainnya, sehingga data dokumen Anda meninggalkan perangkat dan berada di infrastruktur pihak ketiga.
 
 **Kebocoran data di Google**
 
@@ -71,13 +71,13 @@ Misalkan kata sandi Google Anda pernah dipakai ulang di situs yang mengalami keb
 |---|---|---|---|---|
 | Google Foto | Server cloud Google | Saat transit + diam (kunci dikelola Google) | Sedang | Dapat diterima dengan 2FA yang kuat |
 | iCloud Photos | Server cloud Apple | Saat transit + diam (kunci dikelola Apple) | Sedang | Dapat diterima dengan 2FA yang kuat |
-| Pengelola kata sandi terenkripsi (1Password, Bitwarden) | Server cloud (zero-knowledge) | End-to-end; penyedia tidak bisa membaca konten | Rendah | Pilihan yang baik |
+| Pengelola kata sandi terenkripsi | Cloud (terenkripsi end-to-end) | End-to-end; penyedia tidak bisa membaca konten jika diatur seperti ini | Rendah | Pilihan yang baik |
 | Aplikasi terenkripsi di perangkat (cadangan cloud sendiri opsional) | Ponsel Anda; cadangan terenkripsi opsional ke cloud Anda sendiri (Pro) | Terenkripsi di perangkat; salinan terenkripsi opsional di cloud sendiri (Pro) | Terendah | Terbaik untuk dokumen sensitif |
 | Galeri kamera / folder tanpa enkripsi | Perangkat Anda | Hanya enkripsi perangkat | Lebih tinggi | Tidak disarankan |
 
 ### iCloud Photos vs Google Foto: Apakah Apple Lebih Aman?
 
-Pengguna iOS sering berasumsi bahwa iCloud jauh lebih aman daripada Google Foto untuk menyimpan pindaian paspor. Secara struktural, keduanya sangat mirip. Keduanya menyimpan foto Anda di server cloud yang dikelola penyedia, keduanya mengenkripsi data saat transit dan diam dengan kunci yang mereka kelola sendiri, dan keduanya memproses gambar Anda lewat sistem otomatis untuk fitur seperti pencarian dan pengenalan wajah.
+Pengguna iOS sering berasumsi bahwa iCloud jauh lebih aman daripada Google Foto untuk menyimpan pindaian paspor. Secara struktural, keduanya sangat mirip. Keduanya menyimpan foto Anda di server cloud yang dikelola penyedia, keduanya mengenkripsi data saat transit dan diam dengan kunci yang mereka kelola sendiri. Pada keduanya, penyedia memegang kunci secara default.
 
 Advanced Data Protection dari Apple (tersedia mulai iOS 16.2) benar-benar menaikkan standarnya — saat diaktifkan, fitur ini memperluas enkripsi end-to-end ke iCloud Photos, yang berarti Apple sendiri pun tidak bisa membaca konten Anda. Meski begitu, fitur ini tidak aktif secara bawaan, dan kebanyakan pengguna tidak tahu fitur ini ada.
 
@@ -93,7 +93,7 @@ Ada dua hal yang perlu dipisahkan lebih dulu: menyimpan salinan untuk referensi 
 
 **Pengelola kata sandi terenkripsi**
 
-1Password dan Bitwarden sama-sama memungkinkan Anda menyimpan pindaian dokumen sebagai lampiran. Keduanya menggunakan enkripsi zero-knowledge, penyedia tidak bisa membaca konten Anda sekalipun mereka mau. Dokumen Anda dienkripsi di perangkat sebelum apa pun dikirim ke server mereka. Ini peningkatan nyata dari perpustakaan foto cloud umum.
+Sebagian pengelola kata sandi terenkripsi memungkinkan Anda menyimpan pindaian dokumen sebagai lampiran. Periksa dokumentasi penyedia: jika lampiran dienkripsi di perangkat sebelum diunggah, penyedia tidak bisa membacanya. Ini peningkatan nyata dari perpustakaan foto cloud umum.
 
 **Aplikasi terenkripsi di perangkat**
 
@@ -101,7 +101,7 @@ Aplikasi yang dibuat khusus untuk ini, seperti [Travel Document Vault](https://t
 
 **Penyimpanan cloud terenkripsi dengan kunci sisi klien**
 
-Tresorit dan Proton Drive menawarkan enkripsi sisi klien untuk penyimpanan cloud, sehingga penyedia tidak bisa membaca berkas Anda, sama seperti pengelola kata sandi. Anda mendapat kenyamanan cloud dengan keamanan foto paspor yang jauh lebih kuat daripada Google Foto.
+Penyimpanan cloud dengan enkripsi end-to-end adalah pilihan ketiga. Layanan ini menyatakan bahwa berkas dienkripsi dengan kunci yang disimpan di perangkat Anda, jadi periksa dokumentasi penyedia sebelum mengandalkannya. Jika diterapkan dengan baik, Anda mendapat kenyamanan cloud dengan perlindungan yang lebih kuat daripada perpustakaan foto umum.
 
 ## Jika Anda Tetap Memakai Google Foto, Autentikasi Dua Faktor Menyelesaikan Sebagian Besar Pekerjaannya
 
@@ -109,7 +109,7 @@ Banyak orang akan tetap memakai Google Foto untuk ini, kenyamanannya memang nyat
 
 - **Aktifkan autentikasi dua faktor.** Ini satu-satunya hal terpenting yang bisa Anda lakukan. Gunakan aplikasi autentikator, bukan SMS — 2FA lewat SMS lebih baik daripada tidak sama sekali, tetapi lebih mudah disadap.
 - **Gunakan kata sandi yang kuat dan unik untuk akun Google Anda.** Memakai ulang kata sandi di berbagai layanan adalah cara sebagian besar akun benar-benar diambil alih.
-- **Audit izin aplikasi pihak ketiga Anda.** Buka myaccount.google.com → Keamanan → Aplikasi pihak ketiga dengan akses akun, dan hapus semua yang tidak perlu ada di sana.
+- **Audit izin aplikasi pihak ketiga Anda.** Buka pengaturan keamanan Akun Google, tinjau aplikasi dan layanan yang terhubung ke akun Anda, lalu hapus yang tidak diperlukan.
 - **Periksa perangkat dan sesi aktif Anda.** Hapus apa pun yang tidak Anda kenali.
 - **Buat album pribadi untuk dokumen sensitif** alih-alih membiarkannya tersebar di aliran foto utama Anda. Ini tidak akan menghentikan kebocoran data, tetapi mengurangi paparan tidak sengaja saat seseorang mengintip dari balik bahu Anda.
 
@@ -123,15 +123,15 @@ Buka pengaturan keamanan akun Google Anda hari ini, aktifkan autentikasi dua fak
 
 ### Apakah aman menyimpan foto paspor di Google Foto?
 
-Ini praktis, tetapi Google Foto tidak dibuat untuk dokumen identitas yang sensitif. Pindaian Anda berada di server Google, diproses oleh sistem otomatis mereka, dan hanya dilindungi oleh keamanan yang kebetulan dimiliki akun Google Anda. Jika akun Anda diretas (lewat phishing, kata sandi yang dipakai ulang, atau kebocoran data di tempat lain), pindaian paspor Anda pun ikut terancam. Untuk dokumen sesensitif ini, opsi penyimpanan terenkripsi khusus adalah pilihan yang lebih bijak. Jika Anda tetap menggunakan Google Foto, aktifkan autentikasi dua faktor dan gunakan kata sandi unik untuk akun Google Anda.
+Ini praktis, tetapi Google Foto tidak dibuat untuk dokumen identitas yang sensitif. Pindaian Anda berada di server Google, tercakup dalam kebijakan privasi Google, dan dilindungi oleh keamanan akun Google Anda. Jika akun Anda diretas (lewat phishing, kata sandi yang dipakai ulang, atau kebocoran data di tempat lain), pindaian paspor Anda pun ikut terancam. Untuk dokumen sesensitif ini, opsi penyimpanan terenkripsi khusus adalah pilihan yang lebih bijak. Jika Anda tetap menggunakan Google Foto, aktifkan autentikasi dua faktor dan gunakan kata sandi unik untuk akun Google Anda.
 
 ### Apakah Google memindai konten foto yang disimpan di Google Foto?
 
-Ya. Sistem otomatis memproses foto Anda untuk hal-hal seperti pengenalan wajah, deteksi objek, dan pengindeksan pencarian. Kebijakan privasi Google juga mengizinkan konten digunakan untuk meningkatkan layanan mereka. Tidak ada manusia yang membaca paspor Anda — tetapi data dokumen Anda diproses oleh infrastruktur Google, bukan sekadar tersimpan pasif di server.
+Ya, bisa. Kebijakan privasi Google menyatakan sistem otomatis digunakan untuk menganalisis konten Anda, dan Google Foto mengelompokkan wajah dari foto Anda. Kebijakan tersebut juga mengizinkan penggunaan konten untuk meningkatkan layanan. Pindaian paspor disimpan seperti foto lainnya, sehingga data dokumen Anda berada di infrastruktur Google alih-alih tetap di perangkat Anda.
 
 ### Apa cara paling aman menyimpan salinan digital paspor?
 
-Penyimpanan terenkripsi di perangkat adalah pilihan teraman Anda, aplikasi yang menyimpan pindaian Anda di ponsel dengan enkripsi kuat secara default. Salinan bisa keluar melalui berbagi, ekspor, atau cadangan terenkripsi opsional ke iCloud atau Google Drive Anda sendiri (Pro). Jika Anda juga ingin akses cloud, pengelola kata sandi terenkripsi zero-knowledge seperti 1Password atau Bitwarden adalah jalan tengah yang solid.
+Penyimpanan terenkripsi di perangkat adalah pilihan teraman Anda, aplikasi yang menyimpan pindaian Anda di ponsel dengan enkripsi kuat secara default. Salinan bisa keluar melalui berbagi, ekspor, atau cadangan terenkripsi opsional ke iCloud atau Google Drive Anda sendiri (Pro). Jika Anda juga ingin akses cloud, pengelola kata sandi dengan enkripsi end-to-end yang mendukung lampiran berkas merupakan jalan tengah yang masuk akal.
 
 ### Bisakah seseorang mencuri identitas saya dari pindaian paspor?
 
@@ -139,7 +139,7 @@ Ya, secara realistis bisa. Nama, tanggal lahir, kewarganegaraan, nomor paspor, d
 
 ### Apakah iCloud lebih aman daripada Google Foto untuk menyimpan pindaian paspor?
 
-Secara struktural, keduanya sangat mirip. Keduanya menyimpan foto di server cloud yang dikelola penyedia dan keduanya memproses gambar lewat sistem otomatis. Advanced Data Protection dari Apple (iOS 16.2+) memperluas enkripsi end-to-end ke iCloud Photos saat diaktifkan, yang benar-benar menaikkan standarnya, tetapi fitur ini tidak aktif secara bawaan dan kebanyakan pengguna belum mengaktifkannya. Faktor yang lebih besar untuk kedua platform adalah kata sandi akun Anda dan apakah autentikasi dua faktor aktif. Khusus untuk penyimpanan paspor, aplikasi terenkripsi khusus di perangkat tetap menjadi opsi yang lebih kuat di platform mana pun.
+Secara struktural, keduanya sangat mirip. Keduanya menyimpan foto di server cloud yang dikelola penyedia dan secara default penyedia memegang kuncinya. Advanced Data Protection dari Apple (iOS 16.2+) memperluas enkripsi end-to-end ke iCloud Photos saat diaktifkan, yang benar-benar menaikkan standarnya, tetapi fitur ini bersifat opsional dan tidak aktif secara bawaan. Faktor yang lebih besar untuk kedua platform adalah kata sandi akun Anda dan apakah autentikasi dua faktor aktif. Khusus untuk penyimpanan paspor, aplikasi terenkripsi khusus di perangkat tetap menjadi opsi yang lebih kuat di platform mana pun.
 
 ## Artikel Terkait
 

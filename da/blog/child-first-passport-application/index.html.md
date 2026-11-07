@@ -10,11 +10,11 @@ Source: https://traveldocumentvault.com/da/blog/child-first-passport-application
 
 ## Vigtigste punkter
 
-- **Samtykke til at ansøge er ikke det samme som samtykke til at rejse.** Dit barn skal have skriftlig tilladelse fra alle forældre eller værger, før ansøgningen kan indsendes.
+- **Samtykke til at ansøge er ikke det samme som samtykke til at rejse.** Reglerne varierer fra land til land: I Storbritannien underskriver en person med forældreansvar for eksempel formularen, og du oplyser begge forældres oplysninger, mens andre lande kræver begge forældres samtykke. Tjek hos dit pasudstedende kontor.
 - **De fleste ansøgninger kræver tre typer bevis:** bevis for identitet (fødselsattest), bevis for forældrenes identitet, og bevis for forældreskab.
 - **Babyfotos til pas har specifikke regler.** De fleste myndigheder vil have øjnene åbne og vendt mod kameraet (GOV.UK lemper dette for børn under 1 år og under 6 år), uden sut, legetøj eller andre hænder synlige – og baggrunden bag barnets hoved skal være ensfarvet og tydelig.
-- **Tjek alt, i det øjeblik det ankommer.** Stavning, forældrenavne hvor de forekommer, udløbsdato – især fordi børnepas udløber hurtigere end voksenpas.
-- **Én forælder kan ikke underskrive alene, medmindre der er en retsafgørelse, eneforældremyndighed, eller den anden forælder er død.** Er det din situation, har dit pasudstedende kontor en specifik proces at følge.
+- **Tjek alt, i det øjeblik det ankommer.** Stavning, forældrenavne hvor de forekommer, udløbsdato – især fordi børnepas ofte udløber tidligere end voksenpas (et britisk børnepas gælder i 5 år).
+- **I lande, der kræver begge forældres samtykke, kan én forælder som regel ikke underskrive alene, medmindre der er en retsafgørelse, eneforældremyndighed, eller den anden forælder er død.** Er det din situation, har dit pasudstedende kontor en specifik proces at følge.
 
 Dit barns første pas er noget, du kun gør én gang – hvilket betyder, at du kan lære reglerne, før det sker, i stedet for at opdage dem ved skranken. Selve ansøgningen er ligetil, men samtykkeregler og fotokrav varierer fra land til land, og en lille fejl i starten betyder en afvist ansøgning og en forsinket rejse.
 
@@ -28,7 +28,7 @@ Denne artikel handler om samtykket til ansøgningen. Sondringen betyder noget, f
 
 ## Som udgangspunkt skal alle med forældreansvar give samtykke
 
-Standardreglen er, at alle voksne med forældreansvar for barnet skal give samtykke til pasansøgningen. For de fleste familier betyder det begge gifte forældre; for samlevende par betyder det begge parter, hvis begge står på fødselsattesten som forældre. Alle med en retsafgørelse eller eneforældremyndighed er omfattet af andre regler, og dit pasudstedende kontor forklarer den specifikke proces, når du spørger.
+Hvem der skal give samtykke, afhænger af landet. I Storbritannien underskriver én person med forældreansvar ansøgningen, og du oplyser begge forældres oplysninger; nogle andre lande forventer som regel begge forældres underskrift. Om en ugift forælder har forældreansvar, varierer også fra land til land, så få det bekræftet hos dit pasudstedende kontor. Alle med en retsafgørelse eller eneforældremyndighed er omfattet af andre regler, og dit pasudstedende kontor forklarer den specifikke proces, når du spørger.
 
 Disse undtagelser er reelle og værd at kende. En afdød forælder kan ikke underskrive, og en forælder, der har mistet forældreansvaret gennem en retsafgørelse, har måske heller ikke ret til at give samtykke. Tilhold og forældremyndighedsbegrænsninger kan også udelukke en forælder ved lov. Hver af disse situationer har sin egen ansøgningsproces og sine egne dokumentationskrav, så der findes ikke ét svar, der dækker dem alle.
 
@@ -54,9 +54,9 @@ Det er her, mange førstegangsansøgninger går galt. En baby eller et lille bar
 
 **Grundreglerne er stort set de samme:** barnets øjne bør generelt være åbne og vende mod kameraet, med en ensfarvet baggrund bag hovedet og intet andet i billedet. Nogle myndigheder lemper øjenreglerne for de yngste børn: GOV.UK kræver ikke åbne øjne under 1 år, eller et direkte kig mod kameraet under 6 år. Det, der ændrer sig, er, hvordan du får det til at ske.
 
-**For en nyfødt eller baby under 6 måneder:** fotografer barnet liggende på et ensfarvet hvidt eller lyst lagen eller tæppe. Lagenet bliver baggrunden. Barnets hoved fylder den øverste tredjedel af billedet. Stil dig direkte ovenover, så babyen kigger lige op mod kameraet med åbne øjne – er babyen sløv, så vent på et øjeblik, hvor den er vågen. Ingen legetøj, ingen sutter, ingen hænder, ingen anden person synlig i billedet ud over babyens eget hoved og skuldre.
+**For en nyfødt eller baby under 1 år:** fotografer barnet liggende på et ensfarvet hvidt eller lyst lagen eller tæppe. Lagenet bliver baggrunden. Stil dig direkte ovenover, så babyen kigger lige op mod kameraet med åbne øjne – er babyen sløv, så vent på et øjeblik, hvor den er vågen. Ingen legetøj, ingen sutter, ingen hænder, ingen anden person synlig i billedet ud over babyens eget hoved og skuldre.
 
-**For en baby mellem 6 måneder og 2 år:** du kan sætte barnet på en voksens skød, men den voksnes krop og hænder må slet ikke ses på fotoet. Babyens hoved fylder billedet. Den ensfarvede baggrund er kun bag babyen – ikke synlig andre steder. En hvid væg fungerer. Det gør et ensfarvet lagen hængt op bagved også. Ret billedet ind, så babyens øjne kigger mod kameraet, men fordi babyer i denne alder bevæger sig konstant, kommer du sandsynligvis til at tage 20 billeder for at få ét, hvor øjnene er åbne og kigger den rigtige vej.
+**For et barn mellem 1 og 2 år:** du kan sætte barnet på en voksens skød, men den voksnes krop og hænder må slet ikke ses på fotoet. Babyen er alene på billedet med en ensfarvet baggrund bag sig og intet andet synligt. En hvid væg fungerer. Det gør et ensfarvet lagen hængt op bagved også. Ret billedet ind, så babyens øjne kigger mod kameraet, men fordi babyer i denne alder bevæger sig konstant, kommer du sandsynligvis til at tage 20 billeder for at få ét, hvor øjnene er åbne og kigger den rigtige vej.
 
 **For tumlinger på 2 år og opefter:** sæt dem foran den ensfarvede baggrund på en stol, eller lad dem stå, hvis de kan stå. Øjnene skal kigge lige ind i kameraet, hvilket er sværere, end det lyder, fordi tumlinger ikke følger instruktioner. Syng en sang, lav en sjov lyd, eller bed dem kigge på et punkt lige over objektivet. Du vil have, at de kigger lidt opad, hvilket alligevel ser bedre ud på billeder. Tag igen mange billeder – du skal kun bruge ét, hvor de kigger ind i kameraet med begge øjne tydeligt åbne.
 
@@ -78,7 +78,7 @@ Dette er et juridisk krav, der findes for at beskytte barnet, ikke en forhandlin
 
 **Er den anden forælder væk eller nægter:** du skal bruge en retsafgørelse. Det kan være en eksisterende forældremyndighedsafgørelse, en værgemålsafgørelse, eller en specifik retskendelse om, at du har eneforældremyndighed. Nogle lande giver dig mulighed for at ansøge retten om tilladelse til at udstede passet uden den anden forælders samtykke, hvis du kan vise, at barnet ville lide skade ved forsinkelse, eller at den anden forælder er uegnet til at blive konsulteret. Det varierer fra land til land og med lokal retspraksis – spørg dit pasudstedende kontor eller en familieadvokat, hvad processen er, hvor du bor.
 
-**Er den anden forælder død:** du skal bruge dødsattesten. Dit pasudstedende kontor bør ikke behøve andet end det for at behandle ansøgningen.
+**Er den anden forælder død:** forvent at skulle vise dødsattesten. Dit pasudstedende kontor bekræfter, om der er brug for andet.
 
 **Er der et tilhold eller en forældremyndighedsbegrænsning:** tag retsafgørelsen med. Den viser kontoret præcis, hvilke tilladelser og begrænsninger der gælder.
 
@@ -86,19 +86,19 @@ Dette er et juridisk krav, der findes for at beskytte barnet, ikke en forhandlin
 
 Når passet er udstedt og leveret til dig, så brug fem minutter på at tjekke det, før du lægger det væk. Du kigger efter tre ting, der er nemme at rette nu og et mareridt at rette i lufthavnen.
 
-**Tjek stavningen.** Dit barns navn skal staves præcis, som det står på fødselsattesten eller det identitetsdokument, du brugte til at ansøge. Er det forkert, kan det pasudstedende kontor normalt udstede en erstatning gratis. Opdager du det ikke, før I er i lufthavnen, kan flyselskabet nægte ombordstigning, fordi navnet på billetten ikke matcher passet.
+**Tjek stavningen.** Dit barns navn skal staves præcis, som det står på fødselsattesten eller det identitetsdokument, du brugte til at ansøge. Er det forkert, erstatter det pasudstedende kontor normalt passet gratis, hvis fejlen var deres, mens du kan skulle betale et gebyr, hvis fejlen stammer fra din ansøgning. Opdager du det ikke, før I er i lufthavnen, kan flyselskabet nægte ombordstigning, fordi navnet på billetten ikke matcher passet.
 
 **Tjek forældrenavne, hvor de forekommer.** Nogle lande trykker forældrenes eller værgernes navne på indersiden af et barns pas. Er navnene stavet forkert eller forkerte, så kontakt kontoret for at få det rettet.
 
-**Tjek udløbsdatoen.** Det er afgørende for børn, fordi [børnepas udløber meget hurtigere end voksenpas](https://traveldocumentvault.com/da/blog/family-passport-management/). Når du booker rejser, skal du vide præcis, hvornår dokumentet holder op med at være gyldigt. Skriv det ned, og sæt en påmindelse den dag, passet ankommer, ikke først når en rejse dukker op; det er den ene vane, vi altid vil anbefale forældre. At børnepas udløber uventet er en af de mest almindelige grunde til, at familier må aflyse eller udskyde rejser.
+**Tjek udløbsdatoen.** Det er afgørende for børn, fordi [børnepas ofte udløber tidligere end voksenpas](https://traveldocumentvault.com/da/blog/family-passport-management/). Når du booker rejser, skal du vide præcis, hvornår dokumentet holder op med at være gyldigt. Skriv det ned, og sæt en påmindelse den dag, passet ankommer, ikke først når en rejse dukker op; det er den ene vane, vi altid vil anbefale forældre. Et børnepas, der udløber ubemærket, kan nemt koste en rejse.
 
-Er noget forkert, så kontakt dit pasudstedende kontor inden for få dage. Rettelser er som regel gratis, hvis de anmeldes hurtigt, og jo længere du venter, desto mere kompliceret bliver processen. Når alt stemmer, så læg passet direkte i din dokumentmappe med en notits om udløbsdatoen, så en fornyelse ikke overrasker dig.
+Er noget forkert, så kontakt dit pasudstedende kontor, så snart du opdager det. Om rettelsen er gratis, afhænger af, hvem der begik fejlen, og jo længere du venter, desto sværere bliver det at få den rettet. Når alt stemmer, så læg passet direkte i din dokumentmappe med en notits om udløbsdatoen, så en fornyelse ikke overrasker dig.
 
 ## Ofte stillede spørgsmål
 
 ### Hvem skal give samtykke til et barns pasansøgning?
 
-Som udgangspunkt skal alle voksne med forældreansvar for barnet give samtykke. Det gælder gifte par, samlevende par, der begge står på fødselsattesten, og alle med forældremyndighed. Eneforældreansvar, en afdød forælder og retsafgørelser skaber undtagelser – den udstedende myndighed afgør, om ansøgningen kan fortsætte uden begge forældres underskrifter.
+Det afhænger af landet: En person med forældreansvar skal som regel underskrive, og nogle kontorer kræver også samtykke fra alle forældre. Det gælder gifte par, samlevende par, der begge står på fødselsattesten, og alle med forældremyndighed. Eneforældreansvar, en afdød forælder og retsafgørelser skaber undtagelser – den udstedende myndighed afgør, om ansøgningen kan fortsætte uden begge forældres underskrifter.
 
 ### Hvilke dokumenter skal jeg bruge til et barns første pasansøgning?
 
@@ -106,7 +106,7 @@ Som minimum: bevis for barnets identitet (fødselsattest), bevis for forældrene
 
 ### Hvad gør et pasfoto af en baby anderledes?
 
-Mange myndigheder vil have, at en babys øjne er åbne og vender mod kameraet, uden sut, legetøj eller andres hænder synlige. Nogle lemper øjenreglerne for små børn: GOV.UK siger for eksempel, at et barn under 1 år ikke behøver have øjnene åbne, og at et barn under 6 år ikke behøver kigge direkte på kameraet. Den ensfarvede baggrund skal være tydeligt synlig bag barnets hoved. Fordi babyer ikke kan sidde op eller sidde stille, kan du fotografere dem liggende på en ensfarvet baggrund – reglen er, at hovedet skal udfylde billedet, kun barnet er med i billedet, og baggrunden bag det skal være ren og uforstyrret.
+Mange myndigheder vil have, at en babys øjne er åbne og vender mod kameraet, uden sut, legetøj eller andres hænder synlige. Nogle lemper øjenreglerne for små børn: GOV.UK siger for eksempel, at et barn under 1 år ikke behøver have øjnene åbne, og at et barn under 6 år ikke behøver kigge direkte på kameraet. Den ensfarvede baggrund skal være tydeligt synlig bag barnets hoved. Fordi babyer ikke kan sidde op eller sidde stille, kan du fotografere dem liggende på en ensfarvet baggrund – barnet skal være alene på billedet, og baggrunden bag det skal være ensfarvet og lys.
 
 ### Hvor længe er et barns pas gyldigt?
 

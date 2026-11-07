@@ -11,10 +11,10 @@ Source: https://traveldocumentvault.com/id/blog/digital-passport-copy-valid/
 ## Poin Penting
 
 - Salinan digital paspor diterima untuk **check-in hotel, pemesanan penerbangan, dan pemesanan sewa mobil**, tetapi tidak di perbatasan atau untuk naik pesawat.
-- **Paspor fisik asli selalu diperlukan** di pos pemeriksaan perbatasan, saat naik pesawat, dan pada pemeriksaan identitas oleh polisi.
+- Untuk perjalanan internasional, Anda **umumnya memerlukan paspor asli** di perbatasan dan saat naik pesawat. Beberapa rute menerima kartu identitas nasional sebagai gantinya (misalnya warga UE yang bepergian di dalam UE), tetapi tidak pernah salinannya.
 - Salinan digital **tidak memiliki status hukum sebagai dokumen perjalanan**. Salinan hanya berfungsi sebagai dokumen pendukung.
-- Permohonan visa memerlukan **format khusus** (salinan yang dilegalisasi atau hasil pindaian bernotaris), bukan foto ponsel biasa. Periksa dulu situs web kedutaan.
-- Jika paspor Anda hilang di luar negeri, **salinan digital secara signifikan mempercepat proses penggantian darurat** di kedutaan Anda.
+- Permohonan visa meminta **format khusus**. Sebagian meminta salinan yang dilegalisasi atau dinotariskan, sementara yang lain (termasuk banyak e-visa) menerima pindaian halaman foto yang jelas; foto ponsel biasa sering ditolak. Periksa dulu situs web kedutaan.
+- Jika paspor Anda hilang di luar negeri, **salinan halaman foto dapat membantu** kedutaan memastikan data Anda saat mengajukan penggantian.
 
 Saat merencanakan perjalanan, banyak pelancong bertanya-tanya apakah mereka bisa menyimpan salinan digital paspor di ponsel, alih-alih membawa dokumen aslinya. Anda perlu tahu persis di mana salinan itu berfungsi dan di mana tidak, agar tidak mengalami masalah saat check-in.
 
@@ -24,7 +24,7 @@ Jawaban singkatnya: salinan digital memang berguna, tetapi hanya dalam situasi t
 
 Salinan digital paspor adalah **hasil pindaian atau foto ponsel dari halaman identitas**, halaman yang memuat foto, nama, tanggal lahir, nomor paspor, dan tanggal kedaluwarsa Anda. Salinan ini mencatat data Anda tanpa menggantikan dokumen aslinya. Pemerintah Kanada menyatakannya dengan jelas dalam panduan perjalanannya: salinan bisa membantu jika dokumen Anda hilang atau dicuri, tetapi tidak bisa digunakan sebagai identitas, dan Anda tetap harus mengajukan paspor baru jika paspor asli Anda hilang.
 
-Membuat satu salinan hanya butuh beberapa menit. Buka paspor rata di tempat terang, foto atau pindai halaman identitas agar seluruh halaman terlihat tajam, lalu perbesar dan periksa apakah semua detail terbaca. Lakukan hal yang sama untuk visa mana pun yang akan Anda gunakan. Kanada menyarankan untuk meninggalkan salinan dengan orang yang Anda percaya di rumah, dan daftar periksa perjalanan luar negeri Inggris merekomendasikan cadangan data paspor yang Anda bagikan dengan keluarga atau simpan di platform penyimpanan data yang aman.
+Membuat satu salinan hanya butuh beberapa menit. Buka paspor rata di tempat terang, foto atau pindai halaman identitas agar seluruh halaman terlihat tajam, lalu perbesar dan periksa apakah semua detail terbaca. Lakukan hal yang sama untuk visa mana pun yang akan Anda gunakan. Daftar periksa perjalanan luar negeri Inggris merekomendasikan cadangan data paspor yang Anda bagikan dengan keluarga atau simpan di platform penyimpanan data yang aman.
 
 Salinan juga berbeda dari ID digital yang kini diterima oleh beberapa pemerintah. Di AS, Transportation Security Administration mengizinkan pemegang paspor AS untuk membuat ID pass di Google Wallet untuk pos pemeriksaan bandara, tetapi tetap menyatakan bahwa semua penumpang harus membawa ID fisik yang berlaku. Foto di galeri ponsel Anda adalah cadangan data Anda, dan begitulah seharusnya Anda memperlakukannya.
 
@@ -32,39 +32,39 @@ Salinan juga berbeda dari ID digital yang kini diterima oleh beberapa pemerintah
 
 ### Banyak Hotel Menerima Salinan, tetapi Sebagian Eropa Biasanya Meminta yang Asli
 
-Sebagian besar hotel di seluruh dunia menerima salinan digital paspor untuk check-in — PDF di ponsel, dikirim lewat email sebelumnya, atau dicetak. Ini sangat berguna jika Anda check-in larut malam atau berpindah antar-akomodasi dan tidak ingin membawa paspor fisik sepanjang perjalanan. Beberapa hotel kecil, terutama di wilayah dengan infrastruktur digital yang kurang berkembang, masih lebih memilih dokumen asli. Di beberapa bagian Eropa — termasuk Spanyol, Prancis, dan Italia — hotel wajib mencatat data Anda untuk otoritas setempat dan umumnya ingin melihat paspor fisik untuk melakukannya, meski panduan perlindungan data menyatakan mereka biasanya tidak boleh menyimpan salinannya. Hubungi tempat menginap Anda terlebih dahulu untuk memastikan.
+Banyak hotel menerima salinan digital paspor untuk check-in — PDF di ponsel, dikirim lewat email sebelumnya, atau dicetak. Ini sangat berguna jika Anda check-in larut malam atau berpindah antar-akomodasi dan tidak ingin membawa paspor fisik sepanjang perjalanan. Beberapa hotel kecil, terutama di wilayah dengan infrastruktur digital yang kurang berkembang, masih lebih memilih dokumen asli. Di beberapa bagian Eropa, hotel wajib mencatat data Anda untuk otoritas setempat dan sering ingin melihat paspor fisik. Otoritas perlindungan data Spanyol, misalnya, menyatakan hotel tidak boleh membuat atau meminta salinan, dan pemeriksaan visual sudah cukup. Hubungi tempat menginap Anda terlebih dahulu untuk memastikan.
 
 ### Salinan Digital Mempercepat Check-in, Bukan Boarding
 
-Maskapai penerbangan meminta informasi paspor Anda saat pemesanan, dan banyak yang mengizinkan Anda mengunggah salinan digital untuk memverifikasi identitas saat check-in daring, ini mempercepat proses di bandara. Anda tetap harus menunjukkan paspor asli di gerbang keberangkatan. Peran salinan digital adalah untuk verifikasi sebelum perjalanan, bukan sebagai dokumen naik pesawat.
+Maskapai penerbangan meminta informasi paspor Anda saat pemesanan, dan sebagian mengizinkan Anda mengunggah salinan untuk memverifikasi identitas saat check-in daring, ini mempercepat proses di bandara. Anda tetap harus menunjukkan paspor asli di gerbang keberangkatan. Peran salinan digital adalah untuk verifikasi sebelum perjalanan, bukan sebagai dokumen naik pesawat.
 
 ### Salinan Cukup untuk Memesan Mobil, tetapi Pengambilannya Tetap Memerlukan yang Asli
 
-Perusahaan sewa mobil biasanya menerima salinan digital paspor untuk pemesanan dan verifikasi deposit. Saat Anda mengambil kendaraan, Anda akan menunjukkan paspor asli bersama SIM Anda. Salinan digital berguna selama tahap pemesanan.
+Perusahaan sewa mobil sering menerima salinan digital paspor untuk pemesanan dan verifikasi deposit. Saat Anda mengambil kendaraan, Anda akan menunjukkan paspor asli bersama SIM Anda. Salinan digital berguna selama tahap pemesanan.
 
 ### Jika Paspor Hilang, Salinan Digital Mempercepat Urusannya
 
-Jika paspor Anda hilang atau dicuri saat bepergian, salinan digital dapat secara signifikan mempercepat proses penerbitan dokumen perjalanan darurat di kedutaan Anda. Salinan ini membuktikan keberadaan paspor Anda dan memberikan data biografis, foto, dan nomor paspor Anda, yang semuanya diperlukan kedutaan untuk menerbitkan dokumen pengganti. Ini salah satu alasan terkuat untuk selalu membawa cadangan digital.
+Jika paspor Anda hilang atau dicuri saat bepergian, salinan halaman foto dapat membantu kedutaan atau konsulat memastikan data Anda saat mengajukan penggantian. Anda tetap perlu mengajukan paspor baru atau dokumen perjalanan darurat. Ini salah satu alasan terkuat untuk selalu membawa cadangan digital.
 
 ![Diagram tentang di mana salinan digital paspor berlaku: biasanya diterima untuk check-in hotel, pemesanan penerbangan, dan sewa mobil; dokumen asli diperlukan di kontrol perbatasan dan saat naik pesawat](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-where-id.jpg) Singkatnya - salinan membuka pintu, hanya yang asli yang melintasi perbatasan.
 
 ## Di Mana Paspor Fisik Anda Selalu Diperlukan
 
-Salinan digital bukan pengganti paspor fisik Anda di imigrasi, pada maskapai, atau pada aparat penegak hukum. Dalam situasi ini, dokumen aslinya wajib mutlak, tidak ada cara untuk menghindarinya.
+Salinan digital bukan pengganti paspor fisik Anda di imigrasi, pada maskapai, atau pada aparat penegak hukum. Dalam situasi ini, Anda umumnya memerlukan dokumen asli.
 
 | Situasi Perjalanan | Salinan Digital Diterima | Catatan |
 |---|---|---|
 | **Pemeriksaan perbatasan (masuk/keluar)** | Tidak (diperlukan yang asli) | Petugas imigrasi harus memeriksa dokumen secara fisik |
 | **Naik pesawat** | Tidak (diperlukan yang asli) | Petugas keamanan dan staf gerbang memerlukan paspor fisik |
-| **Permohonan visa** | Kadang-kadang (periksa kedutaan) | Sebagian besar memerlukan salinan yang dilegalisasi atau dokumen asli, bukan foto biasa |
-| **Pemeriksaan identitas oleh polisi** | Tidak (diperlukan yang asli) | Aparat penegak hukum memerlukan dokumen asli |
+| **Permohonan visa** | Kadang-kadang (periksa kedutaan) | Berbeda-beda: salinan yang dilegalisasi, dokumen asli, atau pindaian yang jelas |
+| **Pemeriksaan identitas oleh polisi** | Tidak (diperlukan yang asli) | Polisi dapat meminta identitas asli, dan aturannya berbeda menurut negara |
 | **Check-in hotel** | Biasanya ya | Pastikan dengan pihak akomodasi terlebih dahulu |
 | **Pemesanan sewa mobil** | Biasanya ya | Dokumen asli tetap diperlukan saat pengambilan kendaraan |
-| **Bantuan darurat kedutaan** | Ya (mempercepat penggantian) | Tidak dapat menggantikan paspor itu sendiri, tetapi membantu penerbitan dokumen darurat |
+| **Bantuan darurat kedutaan** | Ya (membantu memastikan data Anda) | Tidak dapat menggantikan paspor itu sendiri, tetapi membantu penerbitan dokumen darurat |
 
 ## Permohonan Visa: Aturannya Spesifik
 
-Aturan untuk permohonan visa lebih fleksibel dibandingkan aturan di perbatasan, tetapi tetap spesifik. Sebagian besar negara menerima paspor asli atau fotokopi yang dilegalisasi, meski persyaratannya sangat bervariasi menurut tujuan dan kedutaan.
+Aturan untuk permohonan visa lebih fleksibel dibandingkan aturan di perbatasan, tetapi tetap spesifik. Persyaratannya berbeda-beda: sebagian negara menerima pindaian yang jelas, sementara yang lain meminta dokumen asli atau salinan yang dilegalisasi, bergantung pada tujuan dan kedutaannya.
 
 Artinya dalam praktik
 
@@ -74,7 +74,7 @@ Beberapa kedutaan menerima hasil pindaian digital bernotaris yang dikirim secara
 
 ## Cara Menyimpan Salinan Digital dengan Aman
 
-Salinan paspor berisi informasi identitas yang sensitif, termasuk nama lengkap, tanggal lahir, nomor paspor, kewarganegaraan, dan foto Anda, sehingga salinan digital yang disimpan sembarangan menciptakan risiko pencurian identitas yang sama seperti kehilangan dokumen fisiknya sendiri.
+Salinan paspor berisi informasi identitas yang sensitif, termasuk nama lengkap, tanggal lahir, nomor paspor, kewarganegaraan, dan foto Anda, sehingga salinan digital yang disimpan sembarangan menimbulkan risiko nyata pencurian identitas.
 
 - **Gunakan aplikasi terenkripsi** yang dirancang untuk penyimpanan dokumen, bukan penyimpanan cloud biasa atau email yang berisiko diakses jika akun Anda diretas.
 - **Simpan beberapa salinan di lokasi berbeda**: di ponsel Anda, pada anggota keluarga yang dipercaya di rumah, dan dalam cadangan yang aman.
@@ -97,19 +97,19 @@ Salinan digital adalah hasil pindaian atau foto ponsel dari halaman identitas pa
 
 ### Apakah salinan digital paspor saya diterima saat check-in hotel?
 
-Ya, sebagian besar hotel di seluruh dunia menerima salinan digital paspor untuk check-in: PDF di ponsel, dikirim lewat email, atau dicetak. Beberapa akomodasi yang lebih kecil mungkin tetap meminta paspor fisik. Selalu hubungi hotel Anda terlebih dahulu untuk memastikan.
+Sering kali, ya: banyak hotel menerima salinan digital paspor untuk check-in: PDF di ponsel, dikirim lewat email, atau dicetak. Beberapa akomodasi yang lebih kecil mungkin tetap meminta paspor fisik. Selalu hubungi hotel Anda terlebih dahulu untuk memastikan.
 
 ### Bisakah saya menggunakan salinan digital paspor di bandara untuk naik pesawat?
 
-Tidak. Maskapai penerbangan mewajibkan paspor fisik asli untuk naik pesawat. Salinan digital tidak diterima oleh petugas keamanan atau staf gerbang keberangkatan. Anda harus membawa paspor asli ke bandara untuk setiap penerbangan internasional.
+Untuk penerbangan internasional, maskapai umumnya mewajibkan dokumen perjalanan asli (paspor, atau dalam beberapa kasus kartu identitas nasional). Salinan digital tidak diterima oleh petugas keamanan atau staf gerbang keberangkatan.
 
 ### Apakah salinan digital paspor berlaku untuk permohonan visa?
 
-Sebagian besar permohonan visa memerlukan fotokopi yang dilegalisasi atau hasil pindaian bernotaris, bukan sekadar foto ponsel biasa. Persyaratan berbeda-beda menurut negara dan kedutaan, jadi periksa situs web resmi pemerintah negara tujuan permohonan Anda sebelum mengirimkan apa pun.
+Permohonan visa meminta format tertentu. Sebagian meminta salinan yang dilegalisasi atau dinotariskan, sementara yang lain (termasuk banyak e-visa) menerima pindaian halaman foto yang jelas; foto ponsel biasa sering ditolak. Persyaratan berbeda-beda menurut negara dan kedutaan, jadi periksa situs web resmi pemerintah negara tujuan permohonan Anda sebelum mengirimkan apa pun.
 
 ### Bisakah salinan digital paspor membantu jika paspor saya hilang atau dicuri di luar negeri?
 
-Ya, secara signifikan. Salinan digital mempercepat proses penerbitan dokumen perjalanan darurat di kedutaan Anda. Salinan ini memberikan data biografis, foto, dan nomor paspor Anda, yang semuanya diperlukan kedutaan untuk menerbitkan dokumen pengganti.
+Ya, salinan itu dapat membantu. Salinan halaman foto membantu kedutaan atau konsulat memastikan data Anda saat mengajukan penggantian. Anda tetap perlu mengajukan paspor baru atau dokumen perjalanan darurat.
 
 ### Bagaimana cara menyimpan salinan digital paspor saya dengan aman?
 

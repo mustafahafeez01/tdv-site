@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/es/blog/is-it-safe-to-store-passport-in-
 
 - Almacenar una foto del pasaporte en Google Photos significa que tu documento de identidad vive en los servidores de Google, se procesa por sus sistemas, y está protegido solo por tu seguridad de cuenta.
 - Una cuenta de Google comprometida —a través de phishing, reutilización de contraseña o un incumplimiento de terceros— da acceso a cada documento en Google Photos. Incluyendo tu pasaporte.
-- Los términos de Google permiten análisis automatizado de tus fotos para funciones y mejoras de servicio. Eso incluye imágenes que contienen datos de pasaporte.
+- La política de privacidad de Google indica que utiliza sistemas automatizados para analizar tu contenido y ofrecer y mejorar sus servicios, y un escaneo del pasaporte se almacena como cualquier otra foto.
 - Existen mejores opciones: gestores de contraseñas cifrados, aplicaciones cifradas en el dispositivo, o almacenamiento en la nube cifrado del lado del cliente —ninguno de los cuales pone tu pasaporte en una biblioteca de fotos general.
 - Para la mayoría de las personas, el riesgo real no es Google —es la seguridad débil de la cuenta y quién más puede acceder a esa cuenta.
 
@@ -55,7 +55,7 @@ Las cuentas de Google se comparten más de lo que pensarías —entre parejas, e
 
 **Escaneo de contenido automatizado**
 
-La política de privacidad de Google confirma que las fotos se procesan por sistemas automatizados —reconocimiento facial, detección de objetos, indexación de búsqueda. Tu foto del pasaporte pasa por esos mismos sistemas para búsqueda y detección de características. No es un humano leyendo tu pasaporte, y Google no está haciendo nada nefasto, pero los datos de tu documento dejan tu dispositivo y son analizados por la infraestructura de terceros.
+La política de privacidad de Google indica que utiliza sistemas automatizados para analizar tu contenido, y Google Photos agrupa las fotos por caras. Un escaneo del pasaporte se almacena como cualquier otra foto, de modo que los datos de tu documento salen del dispositivo y quedan en infraestructura de terceros.
 
 **Incumplimiento de datos en Google**
 
@@ -71,13 +71,13 @@ Digamos que tu contraseña de cuenta de Google se reutilizó en un sitio que suf
 |---|---|---|---|---|
 | Google Photos | Servidores en la nube de Google | En tránsito + en reposo (claves gestionadas por Google) | Moderado | Aceptable con 2FA fuerte |
 | iCloud Photos | Servidores en la nube de Apple | En tránsito + en reposo (claves gestionadas por Apple) | Moderado | Aceptable con 2FA fuerte |
-| Gestor de contraseñas cifrado (1Password, Bitwarden) | Nube (conocimiento cero) | De extremo a extremo; el proveedor no puede leer el contenido | Bajo | Buena opción |
+| Gestor de contraseñas cifrado | Nube (cifrado de extremo a extremo) | De extremo a extremo; el proveedor no puede leer el contenido si se configura así | Bajo | Buena opción |
 | Aplicación cifrada en el dispositivo (copia de seguridad propia en la nube opcional) | Tu teléfono; copia de seguridad cifrada opcional en tu propia nube (Pro) | Cifrado en el dispositivo; copia cifrada opcional en tu propia nube (Pro) | Bajo | Mejor para documentos sensibles |
 | Rollo de cámara / carpeta sin cifrar | Tu dispositivo | Solo cifrado del dispositivo | Alto | No recomendado |
 
 ### iCloud Photos vs Google Photos: ¿Es Apple más seguro?
 
-Los usuarios de iOS a menudo asumen que iCloud es significativamente más seguro que Google Photos para almacenar fotos del pasaporte. A nivel estructural, son muy similares. Ambos almacenan tus fotos en servidores en la nube gestionados por el proveedor, ambos cifran datos en tránsito y en reposo utilizando sus propias claves gestionadas, y ambos procesan tus imágenes a través de sistemas automatizados para características como búsqueda y reconocimiento facial.
+Los usuarios de iOS a menudo asumen que iCloud es significativamente más seguro que Google Photos para almacenar fotos del pasaporte. A nivel estructural, son muy similares. Ambos almacenan tus fotos en servidores en la nube gestionados por el proveedor, ambos cifran los datos en tránsito y en reposo con claves que ellos mismos gestionan. En ambos casos, el proveedor tiene las claves por defecto.
 
 Advanced Data Protection de Apple (disponible en iOS 16.2+) sí eleva la barra —cuando está habilitada, extiende el cifrado de extremo a extremo a iCloud Photos, lo que significa que ni siquiera Apple puede leer tu contenido. Aún así, no está habilitado de forma predeterminada, y la mayoría de los usuarios no saben que existe.
 
@@ -93,7 +93,7 @@ Primero conviene separar dos cosas: guardar una copia para tu propia referencia 
 
 **Gestores de contraseñas cifrados**
 
-1Password y Bitwarden ambos te permiten almacenar escaneos de documentos como adjuntos. Utilizan cifrado de conocimiento cero —el proveedor no puede leer tu contenido incluso si quisiera. Tus documentos se cifran en tu dispositivo antes de que nada vaya a sus servidores. Ese es un paso importante hacia adelante respecto a una biblioteca de fotos en la nube general.
+Algunos gestores de contraseñas cifrados permiten guardar escaneos de documentos como archivos adjuntos. Consulta la documentación del proveedor: cuando los adjuntos se cifran en tu dispositivo antes de subirlos, el proveedor no puede leerlos, lo que supone una mejora real respecto a una biblioteca de fotos en la nube general.
 
 **Aplicaciones cifradas en el dispositivo**
 
@@ -101,7 +101,7 @@ Las aplicaciones construidas específicamente para esto —como [Travel Document
 
 **Almacenamiento en la nube cifrado con claves del lado del cliente**
 
-Tresorit y Proton Drive ofrecen cifrado del lado del cliente para almacenamiento en la nube. Como gestores de contraseñas, el proveedor no puede leer tus archivos. Obtienes conveniencia en la nube con seguridad de foto del pasaporte sustancialmente más fuerte que Google Photos.
+Una unidad en la nube con cifrado de extremo a extremo es una tercera opción. Estos servicios afirman que tus archivos se cifran con claves que permanecen en tus dispositivos, así que consulta la documentación del proveedor antes de confiar en ello. Si se hace bien, tienes la comodidad de la nube con mayor protección que en una biblioteca de fotos general.
 
 ## Si sigues con Google Photos, la autenticación de dos factores hace la mayor parte del trabajo
 
@@ -109,7 +109,7 @@ Muchas personas seguirán usando Google Photos por esto —la conveniencia es re
 
 - **Activa autenticación de dos factores.** Esta es la única cosa más grande que puedes hacer. Usa una aplicación autenticadora, no SMS —SMS 2FA es mejor que nada pero más fácil de interceptar.
 - **Usa una contraseña fuerte y única para tu cuenta de Google.** Reutilizar contraseñas entre servicios es cómo la mayoría de las cuentas realmente se toman.
-- **Audita tus permisos de aplicación de terceros.** Ve a myaccount.google.com - Seguridad - Aplicaciones de terceros con acceso de cuenta, y elimina cualquier cosa que no necesite estar ahí.
+- **Audita tus permisos de aplicación de terceros.** Abre los ajustes de seguridad de tu cuenta de Google, revisa las aplicaciones y servicios vinculados a tu cuenta y elimina lo que no necesite estar ahí.
 - **Verifica tus dispositivos activos y sesiones.** Elimina cualquier cosa que no reconozcas.
 - **Crea un álbum privado para documentos sensibles** en lugar de dejarlos sueltos en tu flujo de fotos principal. No detendrá un incumplimiento, pero reduce la exposición accidental cuando alguien está mirando por encima de tu hombro.
 
@@ -123,15 +123,15 @@ Abre hoy mismo los ajustes de seguridad de tu cuenta de Google, activa la autent
 
 ### ¿Es seguro almacenar una foto de pasaporte en Google Photos?
 
-Es conveniente, pero Google Photos no fue construida para documentos de identidad sensibles. Tu escaneo vive en los servidores de Google, se procesa por sus sistemas automatizados, y está protegido solo por la seguridad que tiene tu cuenta de Google. Si tu cuenta se ve comprometida (a través de phishing, una contraseña reutilizada, o un incumplimiento de datos en otro lugar), tu escaneo del pasaporte también. Para un documento tan sensible, una opción de almacenamiento cifrado dedicada es una opción más inteligente. Si usas Google Photos, activa autenticación de dos factores y usa una contraseña única en tu cuenta de Google.
+Es conveniente, pero Google Photos no fue construida para documentos de identidad sensibles. Tu escaneo vive en los servidores de Google, está sujeto a su política de privacidad y está protegido por la seguridad que tiene tu cuenta de Google. Si tu cuenta se ve comprometida (a través de phishing, una contraseña reutilizada, o un incumplimiento de datos en otro lugar), tu escaneo del pasaporte también. Para un documento tan sensible, una opción de almacenamiento cifrado dedicada es una opción más inteligente. Si usas Google Photos, activa autenticación de dos factores y usa una contraseña única en tu cuenta de Google.
 
 ### ¿Google analiza el contenido de las fotos almacenadas en Google Photos?
 
-Sí. Los sistemas automatizados procesan tus fotos para cosas como reconocimiento facial, detección de objetos e indexación de búsqueda. La política de privacidad de Google también permite que el contenido se use para mejorar sus servicios. Ningún humano está leyendo tu pasaporte —pero los datos de tu documento se procesan por la infraestructura de Google, no solo sentados inertes en un servidor.
+Sí, puede hacerlo. La política de privacidad de Google indica que utiliza sistemas automatizados para analizar tu contenido, y Google Photos agrupa las fotos por caras. La política también permite usar el contenido para mejorar sus servicios. Un escaneo del pasaporte se almacena como cualquier otra foto, de modo que los datos de tu documento quedan en la infraestructura de Google en lugar de permanecer en tu dispositivo.
 
 ### ¿Cuál es la forma más segura de almacenar una copia digital de un pasaporte?
 
-El almacenamiento cifrado en el dispositivo es tu mejor opción —aplicaciones que mantienen tus escaneos en tu teléfono con cifrado fuerte por defecto. Las copias pueden salir al compartirlas, exportarlas o usar la copia de seguridad cifrada opcional en tu propio iCloud o Google Drive (Pro). Si también deseas acceso en la nube, un gestor de contraseñas cifrado de conocimiento cero como 1Password o Bitwarden es un medio término sólido.
+El almacenamiento cifrado en el dispositivo es tu mejor opción —aplicaciones que mantienen tus escaneos en tu teléfono con cifrado fuerte por defecto. Las copias pueden salir al compartirlas, exportarlas o usar la copia de seguridad cifrada opcional en tu propio iCloud o Google Drive (Pro). Si también deseas acceso en la nube, un gestor de contraseñas con cifrado de extremo a extremo que permita adjuntar archivos es una opción intermedia razonable.
 
 ### ¿Puede alguien robar mi identidad de una foto del pasaporte?
 
@@ -139,7 +139,7 @@ Sí, realista. Tu nombre, fecha de nacimiento, nacionalidad, número de pasaport
 
 ### ¿Es iCloud más seguro que Google Photos para almacenar escaneos del pasaporte?
 
-A nivel estructural, son muy similares. Ambos almacenan fotos en servidores en la nube gestionados por el proveedor y ambos procesan imágenes a través de sistemas automatizados. Advanced Data Protection de Apple (iOS 16.2+) extiende el cifrado de extremo a extremo a iCloud Photos cuando está habilitada, lo que eleva la barra significativamente —pero está desactivada de forma predeterminada y la mayoría de los usuarios no la han activado. El factor más grande para ambas plataformas es tu contraseña de cuenta y si está activa la autenticación de dos factores. Para almacenamiento de pasaporte específicamente, una aplicación cifrada en el dispositivo dedicada sigue siendo la opción más fuerte en cualquier plataforma.
+A nivel estructural, son muy similares. Ambos almacenan fotos en servidores en la nube gestionados por el proveedor y, por defecto, el proveedor tiene las claves. Advanced Data Protection de Apple (iOS 16.2+) extiende el cifrado de extremo a extremo a iCloud Photos cuando está habilitada, lo que eleva la barra significativamente —pero es opcional y está desactivada de forma predeterminada. El factor más grande para ambas plataformas es tu contraseña de cuenta y si está activa la autenticación de dos factores. Para almacenamiento de pasaporte específicamente, una aplicación cifrada en el dispositivo dedicada sigue siendo la opción más fuerte en cualquier plataforma.
 
 ## Artículos relacionados
 

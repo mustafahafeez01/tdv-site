@@ -26,9 +26,9 @@ Versleuteling maakt een bestand onleesbaar, zodat alleen de bijpassende sleutel 
 
 Twee heel verschillende opzetten worden allebei verkocht als versleutelde back-up.
 
-De ene stuurt het bestand via een versleutelde verbinding naar de server van het bedrijf, en slaat het daar vervolgens versleuteld op. Beide beweringen kloppen, en allebei klinken ze geruststellend. Maar het bedrijf houdt zelf de sleutel, dus het kan je documenten ontsleutelen zodra dat nodig is: om een functie te laten werken, om een juridisch verzoek te beantwoorden, of omdat iemand binnen het bedrijf een fout maakt. Aan de andere kant is je paspoortscan gewoon leesbaar.
+De ene stuurt het bestand via een versleutelde verbinding naar de server van het bedrijf, en slaat het daar vervolgens versleuteld op. Beide beweringen kloppen, en allebei klinken ze geruststellend. Maar het bedrijf houdt zelf de sleutel, dus het is technisch in staat om je documenten te ontsleutelen, voor een functie, een juridisch verzoek of door een interne fout. Aan de andere kant is je paspoortscan gewoon leesbaar.
 
-De andere opzet versleutelt het bestand al op je telefoon, voordat het ergens naartoe gaat, met een sleutel die is afgeleid van iets dat alleen jij hebt. Wat er in de opslag terechtkomt is een blok ruis, en niemand aan de andere kant kan het lezen, omdat niemand aan de andere kant de sleutel heeft. Dit heet meestal end-to-end versleuteld, of zero-knowledge.
+De andere opzet versleutelt het bestand al op je telefoon, voordat het ergens naartoe gaat, met een sleutel die is afgeleid van iets dat alleen jij hebt. Wat er in de opslag terechtkomt is een blok ruis, en niemand aan de andere kant kan het lezen, omdat niemand aan de andere kant de sleutel heeft. Dit wordt vaak omschreven als end-to-end versleuteld, of zero-knowledge.
 
 De vraag die je bij elke app zou moeten stellen is kort: **wie heeft de sleutel?** Al het andere in de marketing volgt uit het antwoord daarop.
 
@@ -55,7 +55,7 @@ Behandel de code dus als het ene ding dat je goed moet doen:
 
 Dat hangt volledig af van wat er in de cloud terechtkomt, en dat is een vraag over de app, niet over de cloud.
 
-Een foto van je paspoort in een gewone fotobibliotheek of een gesynchroniseerde map komt gewoon leesbaar aan. Die staat in een account dat wordt beschermd door een wachtwoord dat je misschien ook ergens anders gebruikt. Het wordt geïndexeerd en van een thumbnail voorzien, en iedereen die toegang krijgt tot dat account ziet een nette kopie van de identiteitspagina. Hoe die blootstelling er in de praktijk uitziet, hebben we uitgewerkt in [een paspoort bewaren in Google Foto's](https://traveldocumentvault.com/nl/blog/is-it-safe-to-store-passport-in-google-photos/). Dat is een reëel risico, en het is de opzet die de meeste gezinnen draaien zonder hem ooit bewust te hebben gekozen.
+Een foto van je paspoort in een gewone fotobibliotheek of een gesynchroniseerde map komt gewoon leesbaar aan. Die staat in een account dat wordt beschermd door een wachtwoord dat je misschien ook ergens anders gebruikt. Afhankelijk van de dienst kan het worden geïndexeerd of als miniatuur worden weergegeven, en iedereen die toegang krijgt tot dat account ziet een nette kopie van de identiteitspagina. Hoe die blootstelling er in de praktijk uitziet, hebben we uitgewerkt in [een paspoort bewaren in Google Foto's](https://traveldocumentvault.com/nl/blog/is-it-safe-to-store-passport-in-google-photos/). Dat is een reëel risico, en het is de opzet die de meeste gezinnen draaien zonder hem ooit bewust te hebben gekozen.
 
 Een kluis die al op het toestel wordt versleuteld voordat hij wordt geüpload, komt aan als cijfertekst. Wie inbreekt in het cloud-account vindt een bestand dat niet te openen is. De bescherming reist mee met het bestand, in plaats van af te hangen van het account waarin het belandt.
 
@@ -82,7 +82,7 @@ De hersteltijd hangt af van de grootte van je kluis en je verbinding.
 
 Installeer de app op de nieuwe telefoon en log in met hetzelfde iCloud- of Google-account als voorheen. Open met Pro Instellingen, Cloud Backup, dan Herstellen uit Back-up terwijl cloudback-up op het ontvangende apparaat uit staat. Kies de bestaande kluis, voer je herstelcode in en bevestig het herstel, dat de lokale kluisinhoud vervangt. Profielen, documenten en vervaldatums worden hersteld; meldingen worden opnieuw opgebouwd op het ontvangende apparaat.
 
-De app controleert ook voordat er iets wordt weggeschreven. Detecteert Cloudback-up een bestaande back-up in dat account, dan vraagt de app je te kiezen tussen terugzetten of opnieuw beginnen. Een nieuwe telefoon kan niet stiekem overschrijven wat er al staat.
+De app controleert ook voordat er iets wordt weggeschreven. Vindt Cloudback-up een bestaande back-up die met dezelfde herstelcode is gemaakt, dan vraagt de app of je die wilt samenvoegen of opnieuw wilt beginnen. Een nieuwe telefoon kan dus niet ongemerkt overschrijven wat er al staat. Bij opnieuw beginnen blijft de andere back-up bewaard.
 
 ### Overstappen tussen iPhone en Android gaat via een kluisexport
 

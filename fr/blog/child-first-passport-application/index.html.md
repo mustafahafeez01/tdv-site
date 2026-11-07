@@ -10,11 +10,11 @@ Source: https://traveldocumentvault.com/fr/blog/child-first-passport-application
 
 ## Points clés à retenir
 
-- **Le consentement à la demande est différent du consentement à voyager.** Votre enfant a besoin de l'autorisation écrite de tous les parents ou tuteurs avant que la demande puisse être déposée.
+- **Le consentement à la demande est différent du consentement à voyager.** Les règles varient selon le pays : au Royaume-Uni, une personne ayant l'autorité parentale signe le formulaire et vous indiquez les coordonnées des deux parents ; d'autres pays demandent le consentement des deux parents. Vérifiez auprès de votre bureau des passeports.
 - **La plupart des demandes exigent trois types de justificatifs :** une preuve d'identité (acte de naissance), une preuve d'identité des parents, et une preuve du lien de filiation.
 - **Les photos de passeport pour bébé obéissent à des règles précises.** La plupart des autorités demandent les yeux ouverts et tournés vers l'objectif (GOV.UK assouplit cette règle pour les moins d'un an et les moins de 6 ans), sans tétine, jouet ni main visible — et l'arrière-plan derrière la tête de l'enfant doit être uni et dégagé.
-- **Vérifiez tout dès la réception.** L'orthographe, les noms des parents lorsqu'ils figurent sur le document, la date d'expiration — d'autant plus que les passeports d'enfants expirent plus vite que ceux des adultes.
-- **Un parent ne peut pas signer seul, sauf en cas de décision de justice, de garde légale exclusive, ou de décès de l'autre parent.** Si c'est votre situation, votre bureau des passeports applique une procédure spécifique.
+- **Vérifiez tout dès la réception.** L'orthographe, les noms des parents lorsqu'ils figurent sur le document, la date d'expiration — d'autant plus que les passeports d'enfants expirent souvent plus vite que ceux des adultes (un passeport britannique pour enfant est valable 5 ans).
+- **Dans les pays qui demandent le consentement des deux parents, un parent ne peut généralement pas signer seul, sauf en cas de décision de justice, de garde légale exclusive ou de décès de l'autre parent.** Si c'est votre situation, votre bureau des passeports applique une procédure spécifique.
 
 Le premier passeport de votre enfant, on ne le demande qu'une fois — ce qui veut dire que vous pouvez apprendre les règles avant, plutôt que de les découvrir au guichet. La demande elle-même est simple, mais les règles de consentement et les exigences photo varient selon les pays, et une petite erreur au départ peut entraîner un refus de dossier et un voyage retardé.
 
@@ -28,7 +28,7 @@ Cet article traite du consentement à la demande. Cette distinction compte, car 
 
 ## Par défaut, tous les titulaires de l'autorité parentale doivent donner leur accord
 
-La règle par défaut veut que tous les adultes ayant l'autorité parentale sur l'enfant donnent leur consentement à la demande de passeport. Pour la plupart des familles, cela signifie les deux parents mariés ; pour les couples non mariés, cela signifie les deux partenaires si tous deux figurent comme parents sur l'acte de naissance. Toute personne disposant d'une décision de justice ou d'une garde légale exclusive relève de règles différentes, et votre bureau des passeports vous expliquera la procédure spécifique si vous le demandez.
+Les personnes dont le consentement est nécessaire varient selon le pays. Au Royaume-Uni, une personne ayant l'autorité parentale signe la demande et vous indiquez les coordonnées des deux parents ; certains autres pays attendent généralement la signature des deux parents. L'autorité parentale d'un parent non marié dépend aussi du pays : vérifiez auprès de votre bureau des passeports. Toute personne disposant d'une décision de justice ou d'une garde légale exclusive relève de règles différentes, et votre bureau des passeports vous expliquera la procédure spécifique si vous le demandez.
 
 Ces exceptions sont bien réelles et méritent d'être connues. Un parent décédé ne peut pas signer, et un parent qui a perdu l'autorité parentale par décision de justice peut lui aussi ne plus avoir le droit de consentir. Des ordonnances restrictives et des restrictions de garde peuvent également exclure un parent par la loi. Chacune de ces situations a sa propre procédure de demande et ses propres exigences en matière de justificatifs, donc il n'existe pas de réponse unique qui les couvre toutes.
 
@@ -54,9 +54,9 @@ C'est souvent là que les premières demandes échouent. Un bébé ou un jeune e
 
 **Les règles de base restent globalement les mêmes :** les yeux de l'enfant doivent généralement être ouverts et tournés vers l'objectif, avec un fond uni derrière la tête et rien d'autre dans le cadre. Certaines autorités assouplissent cette règle pour les plus jeunes enfants : GOV.UK n'exige pas que les yeux soient ouverts avant un an, ni que l'enfant regarde directement l'objectif avant 6 ans. Ce qui change, c'est la façon d'y parvenir.
 
-**Pour un nouveau-né ou un bébé de moins de 6 mois :** photographiez-le allongé sur un drap ou une couverture unie, blanche ou de couleur claire. Le tissu devient l'arrière-plan. La tête de l'enfant occupe le tiers supérieur du cadre. Placez-vous directement au-dessus pour que le bébé regarde droit vers l'objectif, les yeux ouverts — s'il est somnolent, attendez un moment où il est bien éveillé. Aucun jouet, aucune tétine, aucune main, aucune autre personne visible dans le cadre, à l'exception de la tête et des épaules du bébé.
+**Pour un nouveau-né ou un bébé de moins d’un an :** photographiez-le allongé sur un drap ou une couverture unie, blanche ou de couleur claire. Le tissu devient l'arrière-plan. Placez-vous directement au-dessus pour que le bébé regarde droit vers l'objectif, les yeux ouverts — s'il est somnolent, attendez un moment où il est bien éveillé. Aucun jouet, aucune tétine, aucune main, aucune autre personne visible dans le cadre, à l'exception de la tête et des épaules du bébé.
 
-**Pour un bébé de 6 mois à 2 ans :** vous pouvez l'asseoir sur les genoux d'un adulte, mais le corps et les mains de cet adulte ne doivent absolument pas apparaître sur la photo. La tête du bébé remplit le cadre. Le fond uni se trouve uniquement derrière le bébé, sans être visible ailleurs. Un mur blanc convient. Un drap uni suspendu derrière lui aussi. Cadrez la prise de vue pour que les yeux du bébé regardent vers l'objectif, mais comme les bébés de cet âge bougent sans arrêt, il vous faudra probablement une vingtaine de photos pour en obtenir une où les yeux sont ouverts et bien orientés.
+**Pour un enfant d’un à deux ans :** vous pouvez l'asseoir sur les genoux d'un adulte, mais le corps et les mains de cet adulte ne doivent absolument pas apparaître sur la photo. Le bébé doit apparaître seul sur la photo, avec un fond uni derrière lui et rien d'autre de visible. Un mur blanc convient. Un drap uni suspendu derrière lui aussi. Cadrez la prise de vue pour que les yeux du bébé regardent vers l'objectif, mais comme les bébés de cet âge bougent sans arrêt, il vous faudra probablement une vingtaine de photos pour en obtenir une où les yeux sont ouverts et bien orientés.
 
 **Pour les tout-petits de 2 ans et plus :** asseyez-les devant le fond uni sur une chaise, ou laissez-les debout s'ils tiennent seuls. Les yeux doivent regarder droit vers l'objectif, ce qui est plus difficile qu'il n'y paraît, car les tout-petits ne suivent pas les consignes. Chantez une chanson, faites un bruit rigolo, ou demandez-leur de regarder un point juste au-dessus de l'objectif. L'idée est qu'ils lèvent légèrement les yeux, ce qui rend d'ailleurs mieux en photo. Là encore, prenez de nombreuses photos — une seule suffit, à condition que les deux yeux soient bien ouverts et tournés vers l'objectif.
 
@@ -78,7 +78,7 @@ Il s'agit d'une exigence légale destinée à protéger l'enfant, pas d'un sujet
 
 **Si l'autre parent est introuvable ou refuse :** il vous faut une décision de justice. Cela peut être une ordonnance de garde existante, une décision de tutelle, ou un jugement spécifique établissant que vous détenez seul(e) l'autorité parentale. Certains pays permettent de demander au tribunal l'autorisation de délivrer le passeport sans le consentement de l'autre parent si vous pouvez démontrer qu'un retard nuirait à l'enfant ou que l'autre parent n'est pas en mesure d'être consulté. Cela varie selon le pays et la pratique judiciaire locale — demandez à votre bureau des passeports ou à un avocat spécialisé en droit de la famille quelle est la procédure chez vous.
 
-**Si l'autre parent est décédé :** vous devez fournir l'acte de décès. Votre bureau des passeports ne devrait rien exiger de plus pour traiter la demande.
+**Si l'autre parent est décédé :** prévoyez de présenter l'acte de décès. Votre bureau des passeports vous confirmera si d'autres documents sont nécessaires.
 
 **En cas d'ordonnance restrictive ou de restriction de garde :** apportez la décision de justice avec vous. Elle indique précisément au bureau quelles autorisations et restrictions s'appliquent.
 
@@ -86,19 +86,19 @@ Il s'agit d'une exigence légale destinée à protéger l'enfant, pas d'un sujet
 
 Une fois le passeport délivré et reçu, prenez cinq minutes pour le vérifier avant de le ranger. Vous recherchez trois éléments faciles à corriger maintenant, mais qui deviennent un cauchemar à corriger à l'aéroport.
 
-**Vérifiez l'orthographe.** Le nom de votre enfant doit être orthographié exactement comme sur l'acte de naissance ou le document d'identité utilisé pour la demande. En cas d'erreur, le bureau des passeports peut généralement délivrer un remplacement gratuitement. Si vous ne le remarquez qu'à l'aéroport, la compagnie aérienne peut refuser l'embarquement, car le nom sur le billet ne correspondra pas au passeport.
+**Vérifiez l'orthographe.** Le nom de votre enfant doit être orthographié exactement comme sur l'acte de naissance ou le document d'identité utilisé pour la demande. En cas d'erreur de sa part, le bureau des passeports remplace généralement le document gratuitement ; si l'erreur vient de votre demande, des frais peuvent s'appliquer. Si vous ne le remarquez qu'à l'aéroport, la compagnie aérienne peut refuser l'embarquement, car le nom sur le billet ne correspondra pas au passeport.
 
 **Vérifiez les noms des parents lorsqu'ils figurent sur le document.** Certains pays impriment les noms des parents ou tuteurs à l'intérieur du passeport d'un enfant. Si ces noms comportent une faute ou une erreur, contactez le bureau pour faire corriger le document.
 
-**Vérifiez la date d'expiration.** C'est essentiel pour les enfants, car les [passeports d'enfants expirent bien plus tôt que ceux des adultes](https://traveldocumentvault.com/fr/blog/family-passport-management/). Au moment de réserver un voyage, vous devez savoir précisément quand ce document cesse d'être valide. Notez-la et programmez un rappel dès le jour où le passeport arrive, pas seulement quand un voyage se présente : c'est la seule habitude que nous recommanderions toujours aux parents. L'expiration inattendue d'un passeport d'enfant est l'une des raisons les plus courantes pour lesquelles les familles doivent annuler ou reporter un voyage.
+**Vérifiez la date d'expiration.** C'est essentiel pour les enfants, car les [passeports d'enfants expirent souvent plus tôt que ceux des adultes](https://traveldocumentvault.com/fr/blog/family-passport-management/). Au moment de réserver un voyage, vous devez savoir précisément quand ce document cesse d'être valide. Notez-la et programmez un rappel dès le jour où le passeport arrive, pas seulement quand un voyage se présente : c'est la seule habitude que nous recommanderions toujours aux parents. L'expiration inaperçue d'un passeport d'enfant peut compromettre un voyage.
 
-Si quelque chose est incorrect, contactez votre bureau des passeports dans les jours qui suivent. Les corrections sont généralement gratuites lorsqu'elles sont signalées rapidement, et plus vous tardez, plus la démarche se complique. Une fois que tout est en ordre, rangez le passeport directement dans votre dossier de documents avec une note de la date d'expiration, pour que le renouvellement ne vous prenne pas au dépourvu.
+Si quelque chose est incorrect, contactez votre bureau des passeports dès que vous le remarquez. La gratuité d'une correction dépend de l'origine de l'erreur, et plus vous tardez, plus la démarche se complique. Une fois que tout est en ordre, rangez le passeport directement dans votre dossier de documents avec une note de la date d'expiration, pour que le renouvellement ne vous prenne pas au dépourvu.
 
 ## Questions fréquemment posées
 
 ### Qui doit consentir à la demande de passeport d'un enfant ?
 
-En général, tous les adultes ayant l'autorité parentale sur l'enfant doivent donner leur consentement. Cela inclut les couples mariés, les couples non mariés inscrits sur l'acte de naissance, et toute personne détenant la tutelle légale. L'autorité parentale exclusive, le décès d'un parent et les décisions de justice créent des exceptions — c'est l'autorité émettrice qui décide de poursuivre ou non sans la signature des deux parents.
+Cela dépend du pays : une personne ayant l'autorité parentale doit généralement signer, et certains bureaux demandent aussi le consentement de chaque parent. Cela inclut les couples mariés, les couples non mariés inscrits sur l'acte de naissance, et toute personne détenant la tutelle légale. L'autorité parentale exclusive, le décès d'un parent et les décisions de justice créent des exceptions — c'est l'autorité émettrice qui décide de poursuivre ou non sans la signature des deux parents.
 
 ### Quels documents faut-il pour la première demande de passeport d'un enfant ?
 
@@ -106,7 +106,7 @@ Au minimum : une preuve de l'identité de l'enfant (acte de naissance), une preu
 
 ### Qu'est-ce qui rend une photo de passeport de bébé différente ?
 
-De nombreuses autorités demandent que les yeux du bébé soient ouverts et tournés vers l'objectif, sans tétine, jouet ni main d'une autre personne visible. Certaines assouplissent cette règle pour les jeunes enfants : GOV.UK, par exemple, n'exige pas que les yeux soient ouverts pour un enfant de moins d'un an, ni qu'il regarde directement l'objectif avant 6 ans. Le fond uni doit être clairement visible derrière la tête de l'enfant. Comme les bébés ne peuvent ni s'asseoir ni rester immobiles, vous pouvez les photographier allongés sur un fond uni — la règle est que la tête doit remplir le cadre, que seul l'enfant apparaît sur la photo, et que le fond derrière lui doit être dégagé et sans obstruction.
+De nombreuses autorités demandent que les yeux du bébé soient ouverts et tournés vers l'objectif, sans tétine, jouet ni main d'une autre personne visible. Certaines assouplissent cette règle pour les jeunes enfants : GOV.UK, par exemple, n'exige pas que les yeux soient ouverts pour un enfant de moins d'un an, ni qu'il regarde directement l'objectif avant 6 ans. Le fond uni doit être clairement visible derrière la tête de l'enfant. Comme les bébés ne peuvent ni s'asseoir ni rester immobiles, vous pouvez les photographier allongés sur un fond uni — l'enfant doit apparaître seul sur la photo, avec un fond uni et clair derrière lui.
 
 ### Quelle est la durée de validité du passeport d'un enfant ?
 

@@ -36,13 +36,13 @@ Twee dingen vallen buiten die brief en zijn het waard om ernaast mee te nemen. P
 
 Eenhoofdig gezag verandert welk document telt, in plaats van de noodzaak voor een document weg te nemen. Als een rechter je eenhoofdig gezag of eenhoofdige ouderlijke verantwoordelijkheid heeft toegekend, is het nuttigste papier aan de grens vaak de gezagsbeschikking zelf, of een gewaarmerkte kopie ervan, in plaats van een brief van de andere ouder. Veel grensautoriteiten accepteren de beschikking in plaats van een toestemmingsbrief, en sommige willen hem toch samen met een brief zien. Als de beschikking de andere ouder omgangs- of contactrecht laat, is een brief van die ouder nog steeds de moeite waard om mee te nemen.
 
-Reis met de beschikking, of een gewaarmerkte kopie ervan. Aan een exemplaar in een archiefkast thuis heb je niets. Beambten die vragen stellen, zoeken meestal een simpel antwoord op één vraag: heeft deze volwassene het wettelijke recht om deze beslissing voor dit kind te nemen. Een gewaarmerkte kopie beantwoordt dat in enkele seconden, en als jouw gezagsregeling recent is veranderd, is het de moeite waard om na te gaan of je bestemming een recentere kopie verwacht dan de kopie die je al jaren bij je draagt.
+Reis met de beschikking, of een gewaarmerkte kopie ervan. Aan een exemplaar in een archiefkast thuis heb je niets. Beambten die vragen stellen, zoeken meestal een simpel antwoord op één vraag: heeft deze volwassene het wettelijke recht om deze beslissing voor dit kind te nemen. Een gewaarmerkte kopie is meestal snel te controleren, en als jouw gezagsregeling recent is veranderd, is het de moeite waard om na te gaan of je bestemming een recentere kopie verwacht dan de kopie die je al jaren bij je draagt.
 
 ## Als de Andere Ouder Is Overleden: de Overlijdensakte Vervangt de Brief
 
-Er is geen toestemmingsbrief te schrijven als de andere ouder is overleden, en geen enkele grensbeambte verwacht die ook. Wat je in plaats daarvan meeneemt, is een kopie van de overlijdensakte, die de vraag beantwoordt die een toestemmingsbrief anders zou beantwoorden: waarom er maar één ouder aanwezig is.
+Er is geen toestemmingsbrief te schrijven als de andere ouder is overleden, en de meeste grensbeambten verwachten er geen. Wat je in plaats daarvan meeneemt, is een gewaarmerkte kopie van de overlijdensakte, die de vraag beantwoordt die een toestemmingsbrief anders zou beantwoorden: waarom er maar één ouder aanwezig is.
 
-Bewaar de gewaarmerkte kopie bij je paspoorten in plaats van in een apart dossier thuis, want het is het enige document hier dat je niet snel kunt vervangen als het halverwege de reis kwijtraakt. Een geprinte kopie plus een versleutelde digitale back-up dekt zowel een verloren tas als een telefoon die niet meer aangaat. Als de achternaam van je kind van de jouwe verschilt, doet de geboorteakte hier hetzelfde werk als overal elders in dit artikel: aantonen dat het kind van jou is om mee te reizen, welke naam er ook op het paspoort staat.
+Bewaar de gewaarmerkte kopie bij je paspoorten in plaats van in een apart dossier thuis, want het is een document dat tijd kan kosten om te vervangen als het halverwege de reis kwijtraakt. Een geprinte kopie plus een versleutelde digitale back-up dekt zowel een verloren tas als een telefoon die niet meer aangaat. Als de achternaam van je kind van de jouwe verschilt, doet de geboorteakte hier hetzelfde werk als overal elders in dit artikel: aantonen dat het kind van jou is om mee te reizen, welke naam er ook op het paspoort staat.
 
 Het praktische antwoord blijft kort: één document, dicht bij de hand, en een proces dat meestal snel verdergaat zodra het is getoond.
 
@@ -58,15 +58,15 @@ De volledige geboorteakte van je kind, degene die jou als ouder noemt, sluit de 
 
 ## Grootouders, Familieleden en Voogden: Beide Ouders Moeten Meestal Toestemming Geven
 
-Wanneer een grootouder, tante, oom of gezinsvriend met een kind reist en geen van beide ouders mee is, worden de papieren zwaarder, omdat de meeste landen bewijs verwachten dat beide ouders, of beide wettelijke voogden, met de reis hebben ingestemd, niet slechts één. Het formaat is dezelfde [toestemmingsbrief](https://traveldocumentvault.com/nl/blog/child-travel-consent-letter/) die we elders volledig behandelen, maar hier is meestal de handtekening van beide ouders nodig in plaats van één, samen met contactgegevens van elk van hen.
+Wanneer een grootouder, tante, oom of gezinsvriend met een kind reist en geen van beide ouders mee is, worden de papieren zwaarder, omdat veel landen bewijs verwachten dat beide ouders, of beide wettelijke voogden, met de reis hebben ingestemd, niet slechts één. Het formaat is dezelfde [toestemmingsbrief](https://traveldocumentvault.com/nl/blog/child-travel-consent-letter/) die we elders volledig behandelen, maar hier is meestal de handtekening van beide ouders nodig in plaats van één, samen met contactgegevens van elk van hen.
 
 De begeleidende volwassene moet ook de geboorteakte van het kind meenemen en klaarstaan om de relatie in gewone taal uit te leggen als daarnaar wordt gevraagd, want «gezinsvriend» roept meestal meer vragen op dan «grootouder», zelfs als beiden identieke papieren bij zich hebben. Luchtvaartmaatschappijen kunnen een kind weigeren aan boord te laten als de volwassene dit niet bij het inchecken kan tonen, om dezelfde reden van vervoerdersaansprakelijkheid als eerder besproken: de luchtvaartmaatschappij beschermt zichzelf tegen een geweigerde toegang aan de andere kant, nog voor het vliegtuig is vertrokken.
 
 ## Als Er Toch Vragen Komen
 
-Zelfs met alle papieren op orde, kan een grensbeambte of incheckmedewerker nog steeds een paar vragen stellen, en het helpt te weten wat dat gesprek eigenlijk is: een korte controle, geen beschuldiging. De vragen zijn meestal simpel: waar het gezin woont, hoe de reis tot stand kwam, en hoe het kind aan de volwassene naast hem gerelateerd is. Een kind dat kort in eigen woorden kan antwoorden, laat het gesprek meestal sneller verlopen dan een nerveuze volwassene die voor het kind antwoordt.
+Zelfs met alle papieren op orde, kan een grensbeambte of incheckmedewerker nog steeds een paar vragen stellen, en het helpt te weten wat dat gesprek eigenlijk is: een korte controle, geen beschuldiging. De vragen kunnen simpel zijn: waar het gezin woont, hoe de reis tot stand kwam, en hoe het kind aan de volwassene naast hem gerelateerd is. Een kind dat kort in eigen woorden kan antwoorden, laat het gesprek meestal sneller verlopen dan een nerveuze volwassene die voor het kind antwoordt.
 
-Als er een telefoonnummer op een toestemmingsbrief of gezagsbeschikking staat, houd er dan rekening mee dat het gebeld kan worden. Dat telefoontje is routine. Alles wat hier is behandeld meenemen garandeert geen nul vragen, maar het betekent dat je, wanneer de vragen komen, voor elke vraag een antwoord klaar hebt, en dat is over het algemeen wat deze gesprekken aan de balie afrondt.
+Als er een telefoonnummer op een toestemmingsbrief of gezagsbeschikking staat, kan een beambte het gebruiken om het document te controleren. Alles wat hier is behandeld meenemen garandeert geen nul vragen, maar het betekent dat je, wanneer de vragen komen, voor elke vraag een antwoord klaar hebt, en dat is over het algemeen wat deze gesprekken aan de balie afrondt.
 
 ## Eén Bundel Per Situatie
 
@@ -92,11 +92,11 @@ Vaak is de gezagsbeschikking of gerechtelijke uitspraak zelf het nuttigere docum
 
 ### Wat heb ik nodig om met mijn kind te reizen als de andere ouder is overleden?
 
-Een toestemmingsbrief is niet mogelijk, dus neem in plaats daarvan een kopie van de overlijdensakte mee. Grensbeambten die normaal naar de afwezige ouder zouden vragen, accepteren die meestal als antwoord. Bewaar een geprinte kopie bij je paspoorten en een versleutelde digitale back-up, en controleer de richtlijnen van je bestemming voor vertrek.
+Een toestemmingsbrief is niet mogelijk, dus neem in plaats daarvan een kopie van de overlijdensakte mee. Een gewaarmerkte kopie van de overlijdensakte is het document dat de vraag het waarschijnlijkst beantwoordt, maar controleer de richtlijnen van je bestemming. Bewaar een geprinte kopie bij je paspoorten en een versleutelde digitale back-up, en controleer de richtlijnen van je bestemming voor vertrek.
 
 ### Kan mijn kind naar het buitenland reizen met grootouders of een ander familielid?
 
-Ja, maar de meeste landen verwachten schriftelijke toestemming van beide ouders of wettelijke voogden, niet van slechts één. De begeleidende volwassene moet ook contactgegevens van beide ouders en een kopie van de geboorteakte van het kind meenemen. Luchtvaartmaatschappijen kunnen een kind weigeren aan boord te laten als de volwassene dit niet kan tonen wanneer daarnaar wordt gevraagd.
+Ja, maar veel landen verwachten schriftelijke toestemming van beide ouders of wettelijke voogden, niet van slechts één. De begeleidende volwassene moet ook contactgegevens van beide ouders en een kopie van de geboorteakte van het kind meenemen. Luchtvaartmaatschappijen kunnen een kind weigeren aan boord te laten als de volwassene dit niet kan tonen wanneer daarnaar wordt gevraagd.
 
 ### Kan een andere achternaam dan die van mijn kind problemen veroorzaken op de luchthaven?
 

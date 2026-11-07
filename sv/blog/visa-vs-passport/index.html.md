@@ -22,7 +22,7 @@ Pass och visum låter nästan som samma sak, men de gör olika jobb: det ena ide
 
 Ditt pass innehåller ditt namn, födelsedatum, foto och ett unikt passnummer – utfärdat av ditt hemland och erkänt över hela världen som bevis på ditt medborgarskap.
 
-Det fungerar som din officiella legitimation för internationella resor. Utan det kan du varken lagligt lämna ditt land eller resa in i de flesta utländska resmål. Gränspoliser granskar det vid gränsen, flygbolag kräver det för internationella flygningar, och tullpersonal kontrollerar det när du anländer.
+Det fungerar som din officiella legitimation för internationella resor. För de flesta internationella resor behöver du det för att lämna ditt land och för att släppas in utomlands, även om vissa regioner godtar andra dokument, som nationella ID-kort inom Europa eller ett amerikanskt passkort vid land- och sjöövergångar. Gränspoliser granskar det vid gränsen, flygbolag kräver det för internationella flygningar, och tullpersonal kontrollerar det när du anländer.
 
 Pass gäller vanligtvis i flera år (ofta 10 år för vuxna, 5 år för barn), men giltighetstiden varierar mellan länder. När passet går ut kan du inte resa internationellt och måste ansöka om förnyelse. Att hålla koll på det datumet spelar större roll än de flesta tror, eftersom många länder kräver minst 6 månaders återstående giltighet för att släppa in dig – så ett pass som inte har gått ut kan ändå nekas vid gränsen. Resmålslandets ambassad bekräftar den exakta regeln som gäller där.
 
@@ -38,7 +38,7 @@ Visumkraven beror på ditt medborgarskap. En medborgare i ett land kan behöva v
 
 Ditt pass svarar på en fråga: "Vem är du, och vilket land har utfärdat handlingen?" Visumet svarar på en annan: "Tillåter resmålslandet att du besöker det?" Tillsammans fungerar de som en tvådelad nyckel – passet låter dig lämna hemlandet, och visumet ger dig inresa vid resmålet.
 
-De flesta internationella resor kräver både ett giltigt pass och ett lämpligt visum (eller bekräftelse på att inget visum krävs för ditt resmål). Utan pass kan du inte lagligt lämna ditt land. Saknar du ett visum som krävs, kan du inte resa in i ditt resmål, oavsett hur giltigt ditt pass är. Många resestörningar uppstår för att resenärer har giltiga pass men glömmer att kontrollera visumkraven innan de bokar.
+De flesta internationella resor kräver både ett giltigt pass och ett lämpligt visum (eller bekräftelse på att inget visum krävs för ditt resmål). För de flesta internationella resor kan du inte lämna landet utan pass. Saknar du ett visum som krävs, kan du inte resa in i ditt resmål, oavsett hur giltigt ditt pass är. Många resestörningar uppstår för att resenärer har giltiga pass men glömmer att kontrollera visumkraven innan de bokar.
 
 ## Är ett pass samma sak som ett visum?
 
@@ -60,7 +60,7 @@ De flesta länder utfärdar visum i följande kategorier:
 - **Arbetsvisum:** Krävs för anställning utomlands. Arbetsgivare sponsrar vanligtvis dessa, med specifika begränsningar för vilket arbete du får utföra.
 - **Studentvisum:** För studier vid en erkänd utbildningsinstitution, ofta med begränsningar på extraarbete och specifika tidsgränser.
 - **Transitvisum:** Krävs av vissa länder för genomresa på väg till ett annat resmål – även om du bara byter plan.
-- **E-visum:** Ett elektroniskt visum som du ansöker om online och som lagras i resmålslandets system, kopplat till ditt passnummer. Vanligt i Sydostasien och allt vanligare på andra håll.
+- **E-visum:** Ett elektroniskt visum som du ansöker om online och som vanligtvis lagras i resmålslandets system, kopplat till ditt passnummer. Vanligt i Sydostasien och allt vanligare på andra håll.
 - **Visum vid ankomst:** Utfärdas vid resmålets flygplats eller gräns när du landar. Handläggningen går oftast snabbt, men köerna kan vara långa, och alla länder erbjuder inte det här alternativet.
 
 Visumkraven inom varje kategori varierar kraftigt. Ett turistvisum till ett land kan gälla i 30 dagar; ett annat kan tillåta 90 dagar. Vissa är enkelinresa (du får bara resa in en gång), medan andra tillåter flera inresor.
@@ -69,7 +69,7 @@ Visumkraven inom varje kategori varierar kraftigt. Ett turistvisum till ett land
 |---|---|---|
 | **Utfärdas av** | Ditt hemland | Resmålslandet |
 | **Syfte** | Bevisar medborgarskap och identitet | Ger tillstånd att resa in i ett specifikt land |
-| **Krävs för** | Alla internationella resor | Resor till många (inte alla) länder |
+| **Krävs för** | De flesta internationella resor | Resor till många (inte alla) länder |
 | **Giltighetstid** | Vanligtvis 5-10 år | Varierar: dagar till år beroende på typ |
 | **Ansökningsplats** | Myndighetskontor i ditt land | Resmålslandets ambassad eller konsulat |
 | **Handläggningstid** | Veckor till månader beroende på land | Dagar till månader beroende på resmål och typ |
@@ -79,7 +79,7 @@ Visumkraven inom varje kategori varierar kraftigt. Ett turistvisum till ett land
 
 En vanlig källa till förvirring är skillnaden mellan en traditionell visumstämpel och ett modernt e-visum. Historiskt stämplade eller skrev tjänstemän godkännandet direkt i passet – du såg officiella märken, datum och godkännandeanteckningar tryckta på sidorna. E-visum fungerar annorlunda: du ansöker online, betalar en avgift och får godkännandet via e-post i stället för en fysisk stämpel.
 
-I stället för att tryckas i passet lagras ett e-visum i resmålslandets elektroniska system och kopplas till ditt passnummer. När du anländer slår gränspoliser upp det i sitt system för att bekräfta visumet. Båda typerna är lika giltiga och juridiskt bindande.
+I stället för att tryckas i passet lagras ett e-visum vanligtvis i resmålslandets elektroniska system och kopplas till ditt passnummer. När du anländer slår gränspoliser upp det i sitt system för att bekräfta visumet. Båda typerna är lika giltiga och juridiskt bindande.
 
 Den kopplingen till ditt passnummer spelar roll om du byter pass. Ett e-visum kopplat till ett nummer du inte längre bär med dig kan vara omöjligt att slå upp vid gränsen, så informera den utfärdande myndigheten innan du reser i stället för att upptäcka det vid disken.
 
@@ -89,7 +89,7 @@ Det avgörande är ditt medborgarskap och ditt resmål. En resenär kan behöva 
 
 Tre källor talar om vad du faktiskt behöver, och det är värt att kontrollera alla tre i stället för att välja en:
 
-- **IATA Travel Centre.** Den bygger på samma dokumentdatabas som flygbolagen använder vid incheckning, så svaret stämmer oftast med vad som faktiskt gäller för dig. Du söker på passland och resmål, och den ger dig kraven, handläggningstiderna och giltighetstiderna för just den kombinationen.
+- **IATA Travel Centre.** Den bygger på samma dokumentdatabas som flygbolagen använder vid incheckning, så svaret stämmer oftast med vad som faktiskt gäller för dig. Du söker på passland och resmål, och den ger dig pass-, visum- och hälsokraven för just den kombinationen.
 - **Resmålslandets ambassad eller konsulat i ditt hemland.** Det är myndigheten som faktiskt utfärdar visumet, så dess formuleringar väger tyngre än alla sammanfattningar av dem. Leta efter den som är ackrediterad för ditt hemvistland, inte det land du reser från.
 - **Din egen regerings reseinformationstjänst.** Utrikesdepartementets reseinformation och den svenska ambassaden på resmålet publicerar inresekrav för svenska medborgare och flaggar för nya ändringar.
 
@@ -111,7 +111,7 @@ Förvirringen beror på att ditt gamla pass har gått ut som resehandling, medan
 
 ## Visumfria resor har fortfarande begränsningar
 
-Många länder har visumundantag eller visumfria avtal med varandra, vilket gör att deras medborgare kan passera gränser utan att skaffa visum i förväg. Schengenområdet i Europa är det mest kända exemplet – passinnehavare från medlemsländerna kan röra sig fritt mellan dess 29 medlemsstater utan visumkontroller. Medlemskapet ändras dock, så EU-kommissionens egna Schengensidor är rätt plats för att bekräfta vilka länder som ingår just nu. Sydostasien, Karibien och delar av Afrika har liknande system.
+Många länder har visumundantag eller visumfria avtal med varandra, vilket gör att deras medborgare kan passera gränser utan att skaffa visum i förväg. Schengenområdet i Europa är det mest kända exemplet – resenärer kan i regel passera mellan dess 29 medlemsstater utan rutinmässiga gränskontroller, även om vissa länder inför tillfälliga kontroller igen. Medlemskapet ändras dock, så EU-kommissionens egna Schengensidor är rätt plats för att bekräfta vilka länder som ingår just nu. Sydostasien, Karibien och delar av Afrika har liknande system.
 
 Visumfria resor har dock sina begränsningar. De gäller vanligtvis bara turism eller korta besök, inte arbete eller studier. Visumfria perioder är också begränsade, ofta 30 till 90 dagar beroende på land. Om du överskrider den tillåtna tiden blir din vistelse olaglig, och du riskerar påföljder som böter, utvisning eller framtida inreseförbud.
 
@@ -143,7 +143,7 @@ Traditionellt är ett visum ett klistermärke eller en stämpel på en av passet
 
 ### Vad står förkortningarna pass och visum för
 
-Inget av orden är en förkortning, så det finns ingen fullständig form att skriva ut. Båda är vanliga ord med gamla ursprung: pass kommer från franskans passeport, och visum från latinets ord för ett papper som blivit sett.
+Inget av orden är en förkortning, så det finns ingen fullständig form att skriva ut.
 
 ### Är ett Visa-kort samma sak som ett resevisum
 
@@ -151,7 +151,7 @@ Nej, och det gemensamma namnet är en slump snarare än ett samband. Betalnätve
 
 ### Kan du använda ett visum från ett utgånget pass
 
-I de flesta länder, ja. Visumets giltighet är skild från passets giltighet, så ett fortfarande giltigt visum i ett utgånget pass går oftast att använda om du bär med dig båda passen tillsammans. Vissa länder kräver att visumet först överförs till det nya passet, så bekräfta resmålets regel med ambassaden innan du reser.
+Ofta, ja. Visumets giltighet är skild från passets giltighet, så ett fortfarande giltigt visum i ett utgånget pass går oftast att använda om du bär med dig båda passen tillsammans. Vissa länder kräver att visumet först överförs till det nya passet, så bekräfta resmålets regel med ambassaden innan du reser.
 
 ## Relaterade artiklar
 

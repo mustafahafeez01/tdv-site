@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/pt/blog/family-passport-management/
 
 ## Pontos-Chave
 
-- **Os passaportes de crianças expiram duas vezes mais rápido que os de adultos.** Os documentos infantis são válidos apenas durante 5 anos, portanto a data de expiração do membro mais jovem da família geralmente define o prazo para a sua próxima viagem.
+- **Os passaportes de crianças muitas vezes expiram mais cedo do que os de adultos.** No Reino Unido, um passaporte de criança é válido por 5 anos, pelo que a data de expiração do membro mais jovem da família geralmente define o prazo para a sua próxima viagem.
 - Nunca transporte todos os passaportes familiares juntos quando viaja. **Cada pessoa leva o seu próprio**, e deixe cópias com um contacto de confiança em casa.
 - **Guarde cópias digitais num local encriptado,** com uma cópia de segurança física num local seguro a que possa aceder rapidamente se necessário.
 - Crie um sistema partilhado para acompanhar datas de expiração de cada membro da família. **Uma pessoa tratando disto evita renovações perdidas.**
@@ -24,9 +24,9 @@ O problema começa pequeno. Você tem o seu próprio passaporte, o seu cônjuge 
 
 Normalmente acaba por ser uma só pessoa a tratar de tudo, muitas vezes quem já gere o resto da logística da viagem, e esse único ponto de falha torna-se um risco.
 
-Os passaportes de crianças também expiram muito mais rápido que os de adultos. Nos Estados Unidos, os passaportes de crianças menores de 16 anos duram 5 anos, enquanto os passaportes de adultos duram 10 anos. O mesmo aplica-se no Reino Unido — os documentos infantis expiram após 5 anos, não 10. Isto significa que o passaporte do seu filho mais jovem geralmente torna-se o fator limitante para viagens familiares. Pode ter um progenitor com 8 anos de validade restante, mas se o passaporte do seu filho mais jovem expira em 18 meses, esse é o seu horizonte de planeamento.
+Os passaportes de crianças muitas vezes expiram mais cedo do que os de adultos. No Reino Unido, um passaporte de criança é válido por 5 anos, e muitos outros países emitem passaportes infantis com validade mais curta do que os de adultos. Isto significa que o passaporte do seu filho mais jovem geralmente torna-se o fator limitante para viagens familiares. Pode ter um progenitor com 8 anos de validade restante, mas se o passaporte do seu filho mais jovem expira em 18 meses, esse é o seu horizonte de planeamento.
 
-A maioria das famílias não se apercebe disto até já ter uma viagem reservada. Um progenitor encontra os passaportes uma semana antes da partida, digitalizando-os apressadamente enquanto arruma, e descobre que um documento infantil não passa na regra de validade de 6 meses para o destino. A viagem está agora em risco, ou precisa de uma renovação de passaporte apressada e dispendiosa.
+A maioria das famílias não se apercebe disto até já ter uma viagem reservada. Um progenitor encontra os passaportes uma semana antes da partida, digitalizando-os apressadamente enquanto arruma, e descobre que um documento infantil não cumpre a regra de validade que alguns destinos aplicam, muitas vezes de seis meses. A viagem está agora em risco, ou precisa de uma renovação de passaporte apressada e dispendiosa.
 
 ## A Fundação: Um Local Seguro Para Todos Os Passaportes Familiares
 
@@ -34,7 +34,7 @@ O primeiro passo é centralizar onde os passaportes familiares residem. Isto sig
 
 O armazenamento encriptado é importante porque os passaportes contêm o seu nome completo legal, data de nascimento, e número de passaporte — informação suficiente para roubo de identidade. Aplicações gerais de armazenamento de fotos como Google Photos ou iCloud tratam os seus documentos como fotografias em vez de dados de identidade sensível. Uma pasta PDF protegida por palavra-passe no seu dispositivo, ou uma aplicação especificamente construída para lidar com documentos de viagem, dá-lhe a camada de encriptação que precisa.
 
-![Diagrama de um sistema de passaportes para uma família: quatro passaportes (pai, mãe, filho 1, filho 2) a entrar num único cofre encriptado, com avisos de validade, acesso offline e cópia de segurança encriptada à saída, e uma nota de que os passaportes de crianças expiram em 5 anos, não 10](https://traveldocumentvault.com/blog/family-passport-management/family-system-figure-pt.jpg) Um sistema familiar: todos os passaportes num só lugar, com acompanhamento automático de cada data de validade
+![Diagrama de um sistema de passaportes para uma família: quatro passaportes (pai, mãe, filho 1, filho 2) a entrar num único cofre encriptado, com avisos de validade, acesso offline e cópia de segurança encriptada à saída, e uma nota de que os passaportes de crianças muitas vezes expiram mais cedo do que os de adultos](https://traveldocumentvault.com/blog/family-passport-management/family-system-figure-pt.jpg) Um sistema familiar: todos os passaportes num só lugar, com acompanhamento automático de cada data de validade
 
 **Cópias digitais apenas.** Digitalize a página de ID de fotografia do passaporte de cada membro da família. Uma imagem clara da página que mostra a foto, nome, data de nascimento, número de passaporte, e data de expiração é suficiente. Isto deve levar 30 segundos por pessoa.
 
@@ -59,7 +59,7 @@ O armazenamento digital é conveniente, mas os dispositivos falham e as aplicaç
 
 A maioria das famílias faz isto mantendo originais num cofre doméstico ou gaveta segura, cópias digitais na sua aplicação encriptada, e uma cópia impressa de cada página de ID num local diferente — na casa de um membro da família de confiança, num cofre de banco, ou numa sala diferente num cofre à prova de fogo.
 
-Se estiver preso no estrangeiro e precisar substituir um passaporte perdido ou roubado, essa cópia de segurança é o que uma embaixada ou consulado precisa para acelerar uma substituição de emergência. Uma cópia física guardada com segurança em casa pode ser-lhe enviada enquanto está a viajar se necessário, dando-lhe uma forma de sair se os seus dispositivos falharem.
+Se estiver preso no estrangeiro e precisar substituir um passaporte perdido ou roubado, uma cópia do passaporte pode ajudar uma embaixada ou consulado quando pede uma substituição de emergência. Uma cópia física guardada com segurança em casa pode ser-lhe enviada enquanto está a viajar se necessário, dando-lhe uma forma de sair se os seus dispositivos falharem.
 
 Para viagens internacionais, nunca transporte todos os passaportes familiares juntos na mesma mala. Cada pessoa leva o seu próprio documento. Se a sua mala de mão for roubada num aeroporto, não perdeu cinco anos de planeamento. O passaporte de apenas um membro da família está em risco imediato, e tem cópias digitais para provar o status de todos os outros.
 
@@ -67,7 +67,7 @@ Para viagens internacionais, nunca transporte todos os passaportes familiares ju
 
 Para famílias onde um ou ambos os progenitores possuem dupla nacionalidade, o sistema torna-se ligeiramente mais complexo mas mais importante gerir cuidadosamente.
 
-Pode viajar com um passaporte britânico para alguns destinos e com um passaporte irlandês para outros. O seu filho pode possuir três nacionalidades e viajar com qualquer passaporte que seja mais conveniente para o destino. As companhias aéreas frequentemente priorizam o seu passaporte pela nacionalidade ao fazer check-in, e alguns consulados realmente exigem que entre com um passaporte específico — o que significa que a opção "melhor" para a sua viagem depende de para onde está a ir e como está a chegar lá.
+Pode viajar com um passaporte britânico para alguns destinos e com um passaporte irlandês para outros. O seu filho pode possuir três nacionalidades e viajar com qualquer passaporte que seja mais conveniente para o destino. Alguns países esperam que os seus cidadãos, incluindo quem tem dupla nacionalidade, entrem com o passaporte desse país, por isso consulte as orientações oficiais de cada destino. Isto significa que a opção "melhor" para a sua viagem depende de para onde está a ir e como está a chegar lá.
 
 A solução é simples: guarde cópias de todos os passaportes no seu sistema, e marque qual nacionalidade cada um representa. Ao planejar uma viagem, verifique as opções de cada membro da família e decida qual passaporte funciona melhor para esse destino específico. Documente a sua decisão num local acessível — uma nota no seu itinerário de viagem, ou um campo de nota na sua aplicação de passaporte — então se algo correr mal, recorda qual documento usou.
 
@@ -98,7 +98,7 @@ Utilize uma aplicação dedicada que acompanhe as datas de expiração de múlti
 
 ### Os passaportes de crianças expiram à mesma taxa que os de adultos?
 
-Não. Os passaportes infantis são válidos durante 5 anos na maioria dos países, incluindo os Estados Unidos e Reino Unido, enquanto os passaportes de adultos duram 10 anos. Verifique sempre a data de expiração de cada membro da família individualmente antes de reservar viagens — o documento do filho mais jovem geralmente torna-se o prazo de planeamento.
+Muitas vezes, não. Os passaportes infantis costumam ter uma validade mais curta do que os de adultos (no Reino Unido, são válidos por 5 anos), por isso verifique cada data de validade antes de reservar. Verifique sempre a data de expiração de cada membro da família individualmente antes de reservar viagens — o documento do filho mais jovem geralmente torna-se o prazo de planeamento.
 
 ### Devo transportar todos os passaportes da minha família quando viajo?
 
@@ -106,7 +106,7 @@ Não. Cada membro da família leva apenas o seu próprio passaporte. Se a sua ma
 
 ### O que acontece se o passaporte de um membro da família expira antes de uma viagem planeada?
 
-Precisará renovar o passaporte dessa pessoa antes de viajar. Se estiver dentro de 12 meses de expiração quando reserva uma viagem, comece o processo de renovação imediatamente. Os tempos de processamento de passaporte são imprevisíveis e podem estender-se, especialmente durante estações de viagem ocupadas, então não assuma que há tempo para renovar mais tarde.
+Precisará renovar o passaporte dessa pessoa antes de viajar. Se estiver dentro de 12 meses de expiração quando reserva uma viagem, comece o processo de renovação imediatamente. Os tempos de processamento de passaporte podem variar, especialmente nas épocas de maior procura, então não assuma que há tempo para renovar mais tarde.
 
 ## Artigos Relacionados
 

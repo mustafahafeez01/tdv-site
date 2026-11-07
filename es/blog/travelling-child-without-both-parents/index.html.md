@@ -36,13 +36,13 @@ Hay dos cosas más, aparte de esa carta, que merece la pena llevar junto a ella.
 
 La custodia exclusiva cambia qué documento importa, en lugar de eliminar la necesidad de llevar uno. Cuando un tribunal te ha concedido la custodia exclusiva o la responsabilidad parental exclusiva, el papel más útil en la frontera suele ser la propia orden de custodia, o una copia certificada de esta, en lugar de una carta del otro progenitor. Muchas autoridades fronterizas aceptan la orden en lugar de una carta de consentimiento, y algunas piden verla junto a una carta de todos modos. Si la orden deja al otro progenitor con derechos de visita o contacto, sigue mereciendo la pena llevar una carta suya.
 
-Viaja con la orden, o con una copia certificada de esta. De nada sirve guardada en un archivador en casa. Los agentes que preguntan suelen buscar una respuesta sencilla a una sola cuestión: si este adulto tiene la potestad legal para tomar esta decisión por este niño. Una copia certificada responde a eso en cuestión de segundos, y si tu situación de custodia ha cambiado recientemente, conviene comprobar si tu destino espera una copia más reciente que la que llevas usando desde hace años.
+Viaja con la orden, o con una copia certificada de esta. De nada sirve guardada en un archivador en casa. Los agentes que preguntan suelen buscar una respuesta sencilla a una sola cuestión: si este adulto tiene la potestad legal para tomar esta decisión por este niño. Una copia certificada suele ser fácil de comprobar, y si tu situación de custodia ha cambiado recientemente, conviene comprobar si tu destino espera una copia más reciente que la que llevas usando desde hace años.
 
 ## Cuando el Otro Progenitor Ha Fallecido: el Certificado de Defunción Sustituye a la Carta
 
-No hay carta de consentimiento que escribir cuando el otro progenitor ha fallecido, y ningún agente de fronteras espera una. Lo que llevas en su lugar es una copia del certificado de defunción, que responde a la pregunta que respondería una carta de consentimiento: por qué solo está aquí un progenitor.
+No hay carta de consentimiento que escribir cuando el otro progenitor ha fallecido, y la mayoría de los agentes de fronteras no esperará una. Lo que llevas en su lugar es una copia certificada del certificado de defunción, que responde a la pregunta que respondería una carta de consentimiento: por qué solo está aquí un progenitor.
 
-Guarda la copia certificada con tus pasaportes en lugar de en una carpeta aparte en casa, ya que es el único documento aquí que no podrás reemplazar rápidamente si se pierde a mitad del viaje. Una copia impresa junto con una copia de seguridad digital cifrada cubre tanto una maleta perdida como un teléfono que no enciende. Si el apellido de tu hijo es distinto del tuyo, el certificado de nacimiento cumple aquí la misma función que en el resto de este artículo: demuestra que el niño es tuyo, sea cual sea el nombre que aparezca en el pasaporte.
+Guarda la copia certificada con tus pasaportes en lugar de en una carpeta aparte en casa, ya que es un documento que puede tardar en reemplazarse si se pierde a mitad del viaje. Una copia impresa junto con una copia de seguridad digital cifrada cubre tanto una maleta perdida como un teléfono que no enciende. Si el apellido de tu hijo es distinto del tuyo, el certificado de nacimiento cumple aquí la misma función que en el resto de este artículo: demuestra que el niño es tuyo, sea cual sea el nombre que aparezca en el pasaporte.
 
 La respuesta práctica sigue siendo breve: un documento, guardado a mano, y un trámite que, una vez mostrado, suele avanzar rápido.
 
@@ -58,15 +58,15 @@ El certificado de nacimiento completo de tu hijo, el que te nombra como progenit
 
 ## Abuelos, Familiares y Tutores: Normalmente Hace Falta el Consentimiento de Ambos Progenitores
 
-Cuando un abuelo, una tía, un tío o un amigo de la familia viaja con un niño y ninguno de los dos progenitores participa en el viaje, los documentos necesarios aumentan, porque la mayoría de los países espera pruebas de que ambos progenitores, o ambos tutores legales, han dado su consentimiento, no solo uno. El formato es el mismo de la [carta de consentimiento](https://traveldocumentvault.com/es/blog/child-travel-consent-letter/) que explicamos en detalle en otra guía, pero aquí normalmente necesita la firma de ambos progenitores en lugar de uno solo, junto con los datos de contacto de cada uno.
+Cuando un abuelo, una tía, un tío o un amigo de la familia viaja con un niño y ninguno de los dos progenitores participa en el viaje, los documentos necesarios aumentan, porque muchos países esperan pruebas de que ambos progenitores, o ambos tutores legales, han dado su consentimiento, no solo uno. El formato es el mismo de la [carta de consentimiento](https://traveldocumentvault.com/es/blog/child-travel-consent-letter/) que explicamos en detalle en otra guía, pero aquí normalmente necesita la firma de ambos progenitores en lugar de uno solo, junto con los datos de contacto de cada uno.
 
 El adulto acompañante también debe llevar el certificado de nacimiento del niño y estar preparado para explicar la relación con claridad si se lo preguntan, ya que «amigo de la familia» tiende a generar más preguntas que «abuelo», incluso cuando ambos llevan documentos idénticos. Las aerolíneas pueden negarse a embarcar a un niño si el adulto no puede mostrar esto al facturar, por el mismo motivo de responsabilidad de la aerolínea explicado antes: la aerolínea se protege de un rechazo de entrada al otro lado, antes incluso de que el vuelo haya despegado.
 
 ## Si Aun Así Surgen Preguntas
 
-Incluso con todos los documentos en regla, un agente de fronteras o de facturación puede seguir haciendo algunas preguntas, y ayuda saber qué es realmente esa conversación: una verificación breve, no una acusación. Las preguntas suelen ser sencillas: dónde vive la familia, cómo surgió el viaje, y cómo está emparentado el niño con el adulto que va a su lado. Un niño que puede responder con brevedad y con sus propias palabras suele agilizar más las cosas que un adulto nervioso que responde por él.
+Incluso con todos los documentos en regla, un agente de fronteras o de facturación puede seguir haciendo algunas preguntas, y ayuda saber qué es realmente esa conversación: una verificación breve, no una acusación. Las preguntas pueden ser sencillas: dónde vive la familia, cómo surgió el viaje, y cómo está emparentado el niño con el adulto que va a su lado. Un niño que puede responder con brevedad y con sus propias palabras suele agilizar más las cosas que un adulto nervioso que responde por él.
 
-Si aparece un número de teléfono en una carta de consentimiento o en una orden de custodia, prepárate para que lo llamen. Esa llamada es habitual. Llevar todo lo que se cubre aquí no garantiza cero preguntas, pero significa que, cuando lleguen, tendrás una respuesta lista para cada una, que es generalmente lo que resuelve estas conversaciones en el mostrador.
+Si aparece un número de teléfono en una carta de consentimiento o en una orden de custodia, un agente puede usarlo para comprobar el documento. Llevar todo lo que se cubre aquí no garantiza cero preguntas, pero significa que, cuando lleguen, tendrás una respuesta lista para cada una, que es generalmente lo que resuelve estas conversaciones en el mostrador.
 
 ## Un Conjunto de Documentos por Cada Situación
 
@@ -92,11 +92,11 @@ El documento más útil suele ser la orden de custodia o la resolución judicial
 
 ### ¿Qué necesito para viajar con mi hijo si el otro progenitor ha fallecido?
 
-No es posible una carta de consentimiento, así que lleva una copia del certificado de defunción en su lugar. Los agentes de fronteras que normalmente preguntarían por el progenitor ausente suelen aceptarla como respuesta. Guarda una copia impresa con tus pasaportes y una copia de seguridad digital cifrada, y comprueba las indicaciones de tu destino antes de salir.
+No es posible una carta de consentimiento, así que lleva una copia del certificado de defunción en su lugar. Una copia certificada del certificado de defunción es el documento con más probabilidades de responder a la pregunta, pero comprueba las indicaciones de tu destino. Guarda una copia impresa con tus pasaportes y una copia de seguridad digital cifrada, y comprueba las indicaciones de tu destino antes de salir.
 
 ### ¿Puede mi hijo viajar al extranjero con sus abuelos u otro familiar?
 
-Sí, pero la mayoría de los países espera consentimiento por escrito de ambos progenitores o tutores legales, no solo de uno. El adulto acompañante también debe llevar los datos de contacto de ambos progenitores y una copia del certificado de nacimiento del niño. Las aerolíneas pueden negarse a embarcar a un niño si el adulto no puede mostrar esto cuando se lo piden.
+Sí, pero muchos países esperan consentimiento por escrito de ambos progenitores o tutores legales, no solo de uno. El adulto acompañante también debe llevar los datos de contacto de ambos progenitores y una copia del certificado de nacimiento del niño. Las aerolíneas pueden negarse a embarcar a un niño si el adulto no puede mostrar esto cuando se lo piden.
 
 ### ¿Un apellido distinto al de mi hijo causará problemas en el aeropuerto?
 

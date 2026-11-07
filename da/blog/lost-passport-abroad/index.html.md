@@ -11,9 +11,9 @@ Source: https://traveldocumentvault.com/da/blog/lost-passport-abroad/
 ## Vigtigste punkter
 
 - Indgiv en politianmeldelse hurtigt – dit forsikringsselskab vil som regel bede om den, og nogle ambassader spørger også om den.
-- Din ambassade eller dit konsulat kan udstede et nødpas, som regel langt hurtigere end et almindeligt nyt pas. **Ring i forvejen** – de fleste kræver en aftale.
-- Rejsende med en sikker digital kopi af deres pas får erstatningsdokumenter hurtigere – du kan give ambassaden de oplysninger, den har brug for, på få sekunder.
-- Rejseforsikringen dækker udgifterne til et nyt pas i de fleste fuldt dækkende policer. Du skal bruge politianmeldelsen for at anmelde skaden.
+- Din ambassade eller dit konsulat kan som regel hjælpe med et nødpas, men ikke alle kontorer tilbyder alle tjenester. **Ring i forvejen** – nogle kræver en aftale og kan oplyse, hvor lang tid det tager.
+- En kopi af dine pasoplysninger kan hjælpe processen på vej, men kan ikke bruges som legitimation.
+- Nogle rejseforsikringer dækker udgifterne til et nyt pas. Tjek din police, og gem politianmeldelsen, som forsikringsselskaber ofte beder om.
 - Det rette tidspunkt at forberede sig på er nu, før noget går galt. En scanning, der tager fem minutter i dag, kan spare dig for dage med stress i udlandet.
 
 Folk får erstattet mistede pas i udlandet hver eneste dag, og ambassader behandler det som en rutinesag frem for en nødsituation. Processen har en bestemt rækkefølge, og at følge den er det, der gør en dårlig eftermiddag til en forsinkelse i stedet for en aflyst rejse. Sådan gør du, trin for trin.
@@ -22,7 +22,7 @@ Folk får erstattet mistede pas i udlandet hver eneste dag, og ambassader behand
 
 Hvis du læser dette før din rejse, så brug de næste fem minutter på det her. Tag et tydeligt billede af datasiden i hvert pas, du rejser med. Gem det i en krypteret app, der virker offline – langt mere sikkert end din kamerarulle, og fuldt privat.
 
-Når du kommer til ambassaden, vil de spørge om dit pasnummer, udstedelsesdato, udstedelsessted og udløbsdato. Uden en kopi prøver du at huske det under stress. Med en kopi giver du oplysningerne videre på få sekunder. **Ambassadepersonale udsteder erstatningsdokumenter hurtigere, når du møder op med oplysningerne allerede skrevet ned.**
+Når du kommer til ambassaden, vil de typisk spørge om oplysninger fra dit pas, for eksempel pasnummer, udstedelsesdato, udstedelsessted og udløbsdato. Uden en kopi prøver du at huske det under stress. Med en kopi giver du oplysningerne videre på få sekunder. **En kopi kan hjælpe processen på vej, når du møder op med oplysningerne allerede skrevet ned, men kan ikke bruges som legitimation.**
 
 En kopi på din telefon er en optegnelse frem for legitimation.
 
@@ -49,7 +49,7 @@ Din ambassade eller dit konsulat er din vej hjem, så kontakt dem, så snart du 
 - **Australske statsborgere:** Smartraveller – mistet eller stjålet pas
 - **Canadiske statsborgere:** Canada.ca – mistet eller stjålet pas i udlandet
 
-Ring, før du besøger dem. Mange ambassader kræver en aftale for nødpastjenester og kan fortælle dig præcis, hvad du skal medbringe – at møde op uden en aftale kan koste dig en halv dag.
+Ring, før du besøger dem. Nogle ambassader kræver en aftale for nødpastjenester (Storbritannien oplyser, at du kan blive bedt om at møde til en aftale) og kan fortælle dig præcis, hvad du skal medbringe – at møde op uden en aftale kan koste dig en halv dag.
 
 ## Trin 4: Ansøg om et nødpas
 
@@ -62,21 +62,21 @@ Hvad du normalt skal bruge (bekræft med din ambassade, før du møder op):
 - Pasfotos – spørg din ambassade, hvor du kan få taget disse lokalt
 - Din digitale kopi af det mistede pas, hvis du har en
 - Bevis for videre rejse – flybooking, hotelbekræftelse
-- Gebyr for nøddokumentet – hav både kontanter og kort klar
+- Gebyr for nøddokumentet – spørg ambassaden, hvordan det kan betales
 
 ## Trin 5: Giv besked til dit rejseforsikringsselskab
 
-Anmeld tabet til dit rejseforsikringsselskab så hurtigt som muligt. De fleste fuldt dækkende policer dækker udgifterne til et nyt pas, gebyrer for nødpas og nogle gange ekstra overnatning, hvis du bliver forsinket. Gem alle kvitteringer – du får brug for dem til forsikringssagen sammen med sagsnummeret fra politianmeldelsen.
+Anmeld tabet til dit rejseforsikringsselskab så hurtigt som muligt. Nogle policer dækker udgifterne til et nyt pas og nogle gange ekstra overnatning, hvis du bliver forsinket. Tjek din egen. Gem alle kvitteringer til forsikringssagen sammen med sagsnummeret fra politianmeldelsen, som forsikringsselskaber ofte beder om.
 
 Du kan ringe hurtigere, hvis policenummeret og døgnalarmnummeret allerede ligger fremme frem for begravet i en indbakke, du ikke kan tilgå. Vores guide om [hvilke rejseforsikringsdokumenter du bør gemme, før du rejser](https://traveldocumentvault.com/da/blog/travel-insurance-documents/) viser, hvad du bør gemme offline.
 
 ## Trin 6: Tjek din visumsituation
 
-Et visum er kun gyldigt til det specifikke pas, det blev udstedt til. Hvis dit pas er væk, er dit visum også væk – selv et nødpas genopretter det ikke. Din ambassade kan rådgive dig om, hvorvidt dit rejsemål vil tillade dig at rejse ud på et nødpas med henvisning til det mistede visum. Antag ikke, at du kan rejse ud – bekræft det med din ambassade, før du forsøger at forlade landet.
+Hvis et visum var indsat eller trykt i det mistede pas, har du som regel brug for råd fra din ambassade og det land, der udstedte visummet, om en erstatning; et nødpas overfører det ikke. Din ambassade kan rådgive dig om, hvorvidt dit rejsemål vil tillade dig at rejse ud på et nødpas med henvisning til det mistede visum. Antag ikke, at du kan rejse ud – bekræft det med din ambassade, før du forsøger at forlade landet.
 
 Hvad det betyder i praksis
 
-Hvis du mister et pas i Thailand, der indeholder et gyldigt flergangsvisum til et andet land, du havde planlagt at besøge på samme rejse, kan det visum ikke længere bruges. Du skal søge om et nyt visum til dit erstatningspas. Det tager tid og penge, du måske ikke har midt i rejsen. Det er endnu en grund til, at en sikker digital kopi betyder noget: den beviser, at visummet eksisterede, og kan understøtte en hurtigere erstatningsansøgning.
+Hvis du mister et pas i Thailand, der indeholder et gyldigt flergangsvisum til et andet land, du havde planlagt at besøge på samme rejse, skal du som regel kontakte det udstedende land om en erstatning eller et nyt visum. Det tager tid og penge, du måske ikke har midt i rejsen. Det er endnu en grund til, at en sikker digital kopi betyder noget: den kan hjælpe med at vise, at visummet eksisterede.
 
 ## Trin 7: Kom hjem, og få et nyt pas
 
@@ -88,11 +88,11 @@ Når du har dit nødpas, skal du bekræfte udrejsekravene hos de lokale myndighe
 
 ### Hvad skal jeg gøre, hvis jeg mister mit pas i udlandet?
 
-Indgiv en politianmeldelse med det samme, og kontakt derefter din nærmeste ambassade eller dit konsulat for at ansøge om et nødpas. Giv besked til dit rejseforsikringsselskab, og gem alle kvitteringer. En sikker digital kopi af dit pas, taget før du rejser, gør hvert trin hurtigere.
+Indgiv en politianmeldelse med det samme, og kontakt derefter din nærmeste ambassade eller dit konsulat for at ansøge om et nødpas. Giv besked til dit rejseforsikringsselskab, og gem alle kvitteringer. En sikker digital kopi af dit pas, taget før du rejser, kan hjælpe processen på vej, men kan ikke bruges som legitimation.
 
 ### Kan jeg få et nødpas i udlandet?
 
-Ja. De fleste lande udsteder nødpas gennem deres ambassader og konsulater, som regel kun gyldige til én rejse hjem. Sagsbehandlingstiden varierer fra ambassade til ambassade og afhænger af, hvor akut din sag er, så spørg, når du ringer. Kontakt din nærmeste ambassade eller dit konsulat så hurtigt som muligt – mange kræver en aftale.
+Ja. Mange lande udsteder nødpas gennem deres ambassader og konsulater, som regel kun gyldige til én rejse hjem. Sagsbehandlingstiden varierer fra ambassade til ambassade og afhænger af, hvor akut din sag er, så spørg, når du ringer. Kontakt din nærmeste ambassade eller dit konsulat så hurtigt som muligt – nogle kræver en aftale.
 
 ### Skal jeg have en politianmeldelse, hvis mit pas bliver stjålet i udlandet?
 
@@ -100,11 +100,11 @@ Det er som regel værd at få en, selvom ikke alle pasmyndigheder kræver det. D
 
 ### Dækker rejseforsikringen et mistet eller stjålet pas?
 
-De fleste fuldt dækkende rejseforsikringer dækker udgifterne til at erstatte passet, herunder gebyrer for nødpas, og nogle gange ekstra overnatning, hvis du bliver forsinket. Tjek din egen police for de nøjagtige dækningsbeløb. Du skal bruge sagsnummeret fra politianmeldelsen for at anmelde skaden.
+Nogle rejseforsikringer dækker udgifterne til at erstatte passet og nogle gange ekstra overnatning, hvis du bliver forsinket. Tjek din egen police for at se, hvad den dækker. Gem sagsnummeret fra politianmeldelsen, som forsikringsselskaber ofte beder om.
 
 ### Hvordan kan jeg fremskynde processen for et nødpas?
 
-At have en sikker digital kopi af dit pas gemt, før du rejser, er det mest effektive, du kan gøre. Din ambassade skal bruge dit pasnummer, udstedelsesdato og udstedelsessted. En digital kopi betyder, at du kan give disse oplysninger med det samme i stedet for at prøve at huske dem under stress.
+At have en sikker digital kopi af dit pas gemt, før du rejser, er en nyttig forberedelse. Din ambassade vil typisk bede om oplysninger fra dit pas, for eksempel pasnummer, udstedelsesdato og udstedelsessted. En digital kopi betyder, at du kan give disse oplysninger med det samme i stedet for at prøve at huske dem under stress.
 
 ## Relaterede artikler
 

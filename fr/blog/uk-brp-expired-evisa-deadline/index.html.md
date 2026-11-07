@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/fr/blog/uk-brp-expired-evisa-deadline/
 - Chaque enfant a besoin de **son propre compte**, qu'un parent peut gérer avec son propre téléphone et son propre e-mail.
 - Pour voyager, le passeport avec lequel vous prenez l'avion doit figurer sur votre compte UKVI, avec des informations correspondant à votre réservation.
 
-La plupart des personnes détenant un Biometric Residence Permit (BRP, titre de séjour biométrique) expiré n'ont qu'une seule chose à faire : créer un compte UKVI (UK Visas and Immigration), en utilisant la carte pour prouver leur identité. Cela se fait en une seule fois, et la carte expirée fonctionne encore pour cela, au moins pendant un certain temps. Votre statut d'immigration n'a pas changé. Ce qui a changé, c'est l'endroit où il se trouve.
+Si vous détenez un Biometric Residence Permit (BRP, titre de séjour biométrique) expiré et avez toujours le droit de séjourner au Royaume-Uni, GOV.UK vous demande de créer un compte UKVI (UK Visas and Immigration), en utilisant la carte pour prouver votre identité. Cela se fait en une seule fois, et la carte expirée fonctionne encore pour cela, au moins pendant un certain temps. Votre statut d'immigration n'a pas changé. Ce qui a changé, c'est l'endroit où il se trouve.
 
 ![Schéma de la durée pendant laquelle un BRP expiré fonctionne encore : pendant 24 mois après la date d'expiration imprimée ou jusqu'au 31 décembre 2026, selon ce qui arrive en premier. Pendant cette période, il peut encore être utilisé pour se connecter et obtenir un code de partage, créer un compte UKVI, ou demander une prolongation de séjour](https://traveldocumentvault.com/blog/uk-brp-expired-evisa-deadline/brp-window-fr.jpg) Deux dates, et c'est la plus proche qui compte.
 
@@ -58,7 +58,7 @@ Lorsque votre enfant atteint 18 ans, les informations du compte doivent passer s
 
 ## Pour voyager, le passeport avec lequel vous prenez l'avion doit figurer sur votre compte UKVI
 
-GOV.UK est direct à ce sujet : vous devez voyager avec un passeport ou document de voyage valide que vous avez ajouté à votre compte UKVI. Votre eVisa est vérifié lorsque vous quittez le Royaume-Uni, lorsque vous y revenez (y compris aux eGates), et par la compagnie aérienne ou un autre transporteur à l'enregistrement. Ces vérifications consultent votre eVisa via le passeport présent sur votre compte. Si les informations de votre compte ne correspondent pas exactement à celles que vous avez données au transporteur, celui-ci peut vous refuser l'embarquement, et vous risquez aussi d'être retenu à la frontière du Royaume-Uni.
+GOV.UK est direct à ce sujet : vous devez voyager avec un passeport ou document de voyage valide que vous avez ajouté à votre compte UKVI. Votre eVisa est vérifié lorsque vous quittez et entrez au Royaume-Uni, par un agent des frontières ou aux eGates, et lorsque vous vous enregistrez auprès de votre transporteur pour revenir au Royaume-Uni. Ces vérifications consultent votre eVisa via le passeport présent sur votre compte. Si les informations de votre compte ne correspondent pas exactement à celles que vous avez données au transporteur, celui-ci peut vous refuser l'embarquement, et vous risquez aussi d'être retenu à la frontière du Royaume-Uni.
 
 Avant un voyage, connectez-vous, vérifiez que le passeport sur le compte est bien celui avec lequel vous voyagerez, et obtenez un code de partage. Un code dure 90 jours et peut être utilisé plus d'une fois, et une compagnie aérienne ou un agent frontalier peut vous demander de le présenter. Nous l'obtiendrions avant de réserver, pas dans la file d'attente à l'aéroport.
 
@@ -88,7 +88,7 @@ Chaque enfant a besoin de son propre compte UKVI pour accéder à son eVisa, sel
 
 ### De quoi ai-je besoin pour voyager avec un eVisa ?
 
-D'un passeport valide que vous avez ajouté à votre compte UKVI, avec des informations qui correspondent exactement à celles que vous donnez à la compagnie aérienne. Votre eVisa est vérifié lorsque vous quittez le Royaume-Uni, lorsque vous y revenez, y compris aux eGates, et à l'enregistrement auprès du transporteur. Un code de partage dure 90 jours et peut être utilisé plus d'une fois.
+D'un passeport valide que vous avez ajouté à votre compte UKVI, avec des informations qui correspondent exactement à celles que vous donnez à la compagnie aérienne. Votre eVisa est vérifié lorsque vous quittez et entrez au Royaume-Uni, par un agent des frontières ou aux eGates, et lorsque vous vous enregistrez auprès de votre transporteur pour revenir au Royaume-Uni. Un code de partage dure 90 jours et peut être utilisé plus d'une fois.
 
 ## Articles connexes
 

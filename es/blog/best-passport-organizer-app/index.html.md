@@ -39,7 +39,7 @@ Una brecha de una aplicación en el dispositivo no filtra nada de sus servidores
 
 ### El tiempo de anticipación del recordatorio es el ajuste que merece la pena personalizar
 
-Esta es la función individual más valiosa. Un recordatorio a los 6 meses es el mínimo —muchos países requieren que tu pasaporte sea válido durante al menos 6 meses más allá de tus fechas de viaje, como se explica en nuestro artículo sobre la [regla de 6 meses del pasaporte](https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/). Para familias con niños, cuyos pasaportes vencen después de 5 años en lugar de 10, un recordatorio anterior —digamos 9 meses antes— da más tiempo de planificación cómodo.
+Esta es la función individual más valiosa. Un recordatorio a los 6 meses es el mínimo —muchos países requieren que tu pasaporte sea válido durante al menos 6 meses más allá de tus fechas de viaje, como se explica en nuestro artículo sobre la [regla de 6 meses del pasaporte](https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/). Los pasaportes infantiles suelen durar 5 años en lugar de 10 —por ejemplo, los británicos tienen una validez de 5 años—, así que un recordatorio anterior —digamos 9 meses antes— da más tiempo de planificación cómodo.
 
 ### Una sola aplicación puede guardar a toda la familia, de forma segura
 
@@ -70,7 +70,7 @@ Antes de descargar, pregúntate si la aplicación requiere una cuenta, sube esca
 | Requiere internet para ver documentos | Falla cuando lo necesitas más —en una frontera o en tránsito |
 | Sin política de privacidad o política vaga | No sabes qué ocurre con tus escaneos |
 | Almacenamiento solo en la nube sin opción en el dispositivo | Una brecha de servidor expone los datos de pasaporte de todos los usuarios |
-| Precios de suscripción para funciones básicas | Las cuotas mensuales crean presión para cancelar —y pierdes acceso a tus documentos |
+| Precios de suscripción para funciones básicas | Las cuotas mensuales crean presión para cancelar y, en algunas aplicaciones, al hacerlo pierdes acceso a tus documentos |
 
 Lo que esto significa en la práctica
 
@@ -78,9 +78,9 @@ Estás en un puesto de frontera, teléfono sin conexión, y el oficial de inmigr
 
 ## Comprueba qué pasa con tus documentos si caduca una suscripción
 
-Hay un argumento práctico a favor de las aplicaciones de compra única sobre suscripciones cuando se trata de almacenamiento de documentos. Si olvidas renovar una suscripción —o simplemente decides cancelar— pierdes acceso a tus documentos almacenados. Ese es un arreglo arriesgado para algo que podrías necesitar años desde ahora.
+Hay un argumento práctico a favor de las aplicaciones de compra única sobre suscripciones cuando se trata de almacenamiento de documentos. En algunas aplicaciones de suscripción, si olvidas renovar —o simplemente decides cancelar— puedes perder acceso a tus documentos almacenados. Ese es un arreglo arriesgado para algo que podrías necesitar años desde ahora.
 
-Una aplicación de compra única, por el contrario, sigue siendo completamente funcional indefinidamente. Pagas una vez y la aplicación continúa funcionando independientemente de si el desarrollador aún la está monetizando activamente.
+Una aplicación de compra única, por el contrario, no tiene una fecha de renovación que pueda bloquearte el acceso. Pagas una vez y tus documentos permanecen en tu dispositivo y se abren como antes.
 
 ## Cómo Travel Document Vault aborda esto
 
@@ -124,7 +124,7 @@ Las mejores aplicaciones organizadoras de pasaportes están diseñadas para func
 
 ### ¿Con cuánta anticipación debería una aplicación de pasaportes recordarme renovar?
 
-Como mínimo, 6 meses antes del vencimiento, ya que muchos países requieren que tu pasaporte sea válido durante al menos 6 meses más allá de tu fecha de salida. Una buena aplicación te permite establecer los tiempos de recordatorio tú mismo. Para familias con niños, cuyos pasaportes vencen después de 5 años, establecer recordatorios a los 9 meses da más tiempo de planificación cómodo.
+Como mínimo, 6 meses antes del vencimiento, ya que muchos países requieren que tu pasaporte sea válido durante al menos 6 meses más allá de tu fecha de salida. Una buena aplicación te permite establecer los tiempos de recordatorio tú mismo. Para familias con niños, cuyos pasaportes suelen vencer después de 5 años, establecer recordatorios a los 9 meses da más tiempo de planificación cómodo.
 
 ### ¿Qué documentos debería soportar una buena aplicación organizadora de pasaportes?
 

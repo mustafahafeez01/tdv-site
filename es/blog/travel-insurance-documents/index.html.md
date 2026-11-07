@@ -12,8 +12,8 @@ Source: https://traveldocumentvault.com/es/blog/travel-insurance-documents/
 
 - **Guarda tu documento de póliza completo, número de póliza y línea de contacto de emergencia 24 horas** (no el número de ventas).
 - Almacena copias sin conexión y accesibles —solo el correo electrónico no te ayudará cuando estés varado o en un hospital.
-- **La mayoría de pólizas requieren preautorización para tratamiento médico**; omitirla puede reducir o anular tu reclamación.
-- Las reclamaciones se rechazan más a menudo por documentación faltante: informe policial por robo, recibos originales, formularios de reclamación firmados.
+- **Muchas pólizas piden contactar con la aseguradora antes de un tratamiento médico**; omitirla puede reducir o anular tu reclamación.
+- Un motivo habitual por el que fallan las reclamaciones es la documentación que falta: informe policial por robo, recibos originales, formularios de reclamación firmados.
 - Lee rápidamente las secciones clave de tu póliza enfocándote en límites de cobertura, exclusiones y condiciones.
 
 El seguro de viaje importa más justo cuando resulta más difícil de consultar: el mostrador de un hospital en el extranjero, una comisaría, el mostrador de la aerolínea tras una cancelación. Lo que cuenta entonces no es la póliza en sí, sino si el número, la línea 24 horas de la aseguradora y el justificante de cobertura están a mano. Este artículo explica qué guardar antes de salir, dónde conservarlo para que se abra sin conexión y los errores de tramitación que más a menudo hunden un reembolso.
@@ -34,7 +34,7 @@ Los documentos de tu póliza están en manos de quien te vendió la cobertura, a
 - **El certificado o anexo:** tu nombre, número de póliza, fechas de viaje y nivel de cobertura
 - **El número de asistencia de emergencia 24 horas**, el que llamas desde un hospital o comisaría en el extranjero
 
-Si ni siquiera recuerdas haber comprado una póliza, revisa tu cuenta bancaria. El Financial Ombudsman Service describe una cuenta bancaria con paquete como una cuenta corriente que cobra una cuota mensual a cambio de beneficios adicionales, el seguro de viaje entre ellos. En ese caso es el banco, y no un asegurador de viaje, quien tiene tus documentos, así que su app, web o línea de atención es donde debes buscar.
+Si ni siquiera recuerdas haber comprado una póliza, revisa tu cuenta bancaria. El Financial Ombudsman Service describe una cuenta bancaria con paquete como una cuenta corriente que cobra una cuota mensual a cambio de beneficios adicionales, el seguro de viaje entre ellos. En ese caso el banco suele ser el primer sitio donde preguntar, así que prueba con su app, web o línea de atención.
 
 Una vez que los tengas, la Foreign, Commonwealth and Development Office del Reino Unido recomienda llevar contigo los datos de tu póliza, incluyendo el número de póliza y el número de asistencia de emergencia de tu asegurador. También sugiere compartirlos con quienes viajan contigo y con tu familia en casa. Si aun así no encuentras nada, llama al asegurador, o al banco si se trata de una cuenta con paquete, y pídeles que te envíen de nuevo los documentos antes de volar, no después de que algo salga mal.
 
@@ -48,7 +48,7 @@ Tu póliza de seguro de viaje es típicamente un PDF. Ese único archivo contien
 - Sección de qué está cubierto (límites de cobertura para médicos, equipaje, cancelación, etc.)
 - Exclusiones clave y condiciones (incluyendo requisitos de preautorización)
 
-El número de póliza es crítico. Muchos sistemas telefónicos de aseguradores lo requieren antes de enrutarte a una persona viva. Si no puedes proporcionarlo, perderás tiempo buscando entre documentos mientras el reloj corre.
+El número de póliza es crítico. Ten el número de póliza a mano, porque la aseguradora normalmente lo pedirá en primer lugar. Si no puedes proporcionarlo, perderás tiempo buscando entre documentos mientras el reloj corre.
 
 La línea de emergencia es diferente de la línea de atención al cliente, que típicamente solo atiende durante horas de negocio, mientras que la línea de emergencia funciona 24/7. Guarda ambas, pero sabe cuál llamar en medio de la noche cuando estés lesionado.
 
@@ -92,7 +92,7 @@ Incluso si tienes tus documentos accesibles, aún puedes perder tu reclamación 
 
 ### Reclamaciones Médicas: No Obtuviste Preautorización
 
-La mayoría de pólizas de seguros de viaje requieren preautorización antes del tratamiento. Esto significa llamar a tu asegurador y obtener aprobación antes de visitar un hospital o clínica. Los requisitos varían según el asegurador y el tipo de póliza —verifica la sección de tratamiento médico de tu póliza específica. Si omites este paso y pagas de tu bolsillo, a menudo serás rechazado con "el tratamiento no fue preautorizado". Muchos aseguradores no reembolsarán sin preautorización, incluso si el tratamiento era necesario y estaba cubierto.
+Muchas pólizas de seguros de viaje piden contactar con la aseguradora antes del tratamiento, así que revisa el condicionado de tu póliza. Esto suele significar llamar a tu asegurador y obtener aprobación antes de visitar un hospital o clínica. Los requisitos varían según el asegurador y el tipo de póliza —verifica la sección de tratamiento médico de tu póliza específica. Si omites este paso y pagas de tu bolsillo, algunas aseguradoras pueden reducir o rechazar la reclamación, incluso si el tratamiento era necesario y estaba cubierto.
 
 Digamos que estás hospitalizado con apendicitis en Mumbai. El hospital necesita pago por adelantado o una garantía de tu asegurador, y tienes una ventana de dos horas antes de la cirugía. Sin el número de preautorización de tu asegurador, el hospital exige efectivo. Eso te deja dos malas opciones: pagar ahora y arriesgar una reclamación rechazada meses después, o retrasar la cirugía mientras persigues a tu asegurador. Una llamada evita todo esto. Con un número de confirmación en la mano, el hospital factura directamente a tu asegurador.
 
@@ -100,7 +100,7 @@ Acción: Antes de cualquier tratamiento, llama a la línea de emergencia en tu p
 
 ### Reclamaciones de Equipaje: No Tienes Informe Policial
 
-Si tu bolsa es robada, perdida o dañada, la mayoría de pólizas requieren un informe policial del aeropuerto o estación local. Los aseguradores lo usan como prueba. Verifica la sección "Cómo Hacer una Reclamación" de tu póliza para requisitos exactos, ya que estos varían según el asegurador. Si omites reportar a la policía y solo reportas al aeropuerto, muchos aseguradores rechazan reclamaciones porque no hay informe oficial de crimen. Para robo o pérdida (no daño simple), un informe policial es típicamente obligatorio.
+Si tu bolsa es robada, perdida o dañada, muchas pólizas piden un informe policial del aeropuerto o estación local. Los aseguradores lo usan como prueba. Verifica la sección "Cómo Hacer una Reclamación" de tu póliza para requisitos exactos, ya que estos varían según el asegurador. Si omites reportar a la policía y solo reportas al aeropuerto, algunas aseguradoras pueden rechazar reclamaciones porque no hay informe oficial de crimen. Para robo o pérdida (no daño simple), muchas pólizas piden un informe policial, así que revisa la tuya.
 
 Acción: Si tu bolsa desaparece, repórtala al mostrador de artículos perdidos del aeropuerto. Si es robo, presenta un informe policial el mismo día y obtén una copia para enviar con tu reclamación.
 
@@ -112,7 +112,7 @@ Guarda cada recibo, originales físicos y copias digitales ambos. Fotografía lo
 
 ### Reclamaciones de Cancelación: No Leíste la Letra Pequeña
 
-El seguro de viaje cubre cancelación de viaje solo si cancelas por una razón cubierta específica, que varía según el asegurador. Eso típicamente significa enfermedad, lesión, o muerte de un familiar. Rara vez significa cambio de idea, falta de ganas, o mal tiempo, a menos que el clima interrumpa tu transporte. Si cancelas porque el precio del vuelo bajó, la mayoría de pólizas no te cubrirán. Qué tan generoso es tu asegurador sobre esto varía mucho, así que vale la pena leer la sección "cancelación de viaje" cuidadosamente antes de asumir que estás cubierto.
+El seguro de viaje cubre cancelación de viaje solo si cancelas por una razón cubierta específica, que varía según el asegurador. Eso típicamente significa enfermedad, lesión, o muerte de un familiar, pero revisa la lista en tu póliza. Rara vez significa cambio de idea, falta de ganas, o mal tiempo, a menos que el clima interrumpa tu transporte. Si cancelas porque el precio del vuelo bajó, la mayoría de pólizas no te cubrirán. Qué tan generoso es tu asegurador sobre esto varía mucho, así que vale la pena leer la sección "cancelación de viaje" cuidadosamente antes de asumir que estás cubierto.
 
 Acción: Antes de cancelar, verifica los detalles de cobertura de tu póliza. Si crees que tu razón califica, llama a tu asegurador antes de cancelar tu vuelo. Obtén confirmación escrita de cobertura antes de proceder.
 
@@ -150,15 +150,15 @@ Veinte minutos ahora, y no estarás buscando nada de esto en una crisis.
 
 ### ¿Necesito llevar mi póliza de seguros física cuando viajo?
 
-No, no necesitas el documento físico en papel. Una copia digital en tu teléfono o una foto es suficiente. La mayoría de aseguradores y hospitales aceptan una copia digital o simplemente tu número de póliza. Sin embargo, una copia física de seguridad (fotocopia o impresión) es prudente en caso de que tu teléfono se agote. Incluso más simple: escribe tu número de póliza y línea de emergencia en una tarjeta con tu pasaporte.
+No, no necesitas el documento físico en papel. Una copia digital en tu teléfono o una foto es suficiente. Las aseguradoras y los hospitales suelen pedir tu número de póliza, y una copia digital normalmente ayuda. Sin embargo, una copia física de seguridad (fotocopia o impresión) es prudente en caso de que tu teléfono se agote. Incluso más simple: escribe tu número de póliza y línea de emergencia en una tarjeta con tu pasaporte.
 
 ### ¿Qué debo hacer si no puedo comunicarme con la línea de emergencia de mi aseguradora en el extranjero?
 
-Las líneas de emergencia de seguros de viaje típicamente aceptan llamadas internacionales a nivel mundial. Verifica tu póliza para un número alternativo para llamadas desde fuera del país de origen del asegurador. Si no puedes comunicarte con ellos, procede con el tratamiento y guarda cada recibo y documentación. Llama en cuanto puedas y verifica tu póliza para el plazo de reclamación. Ten en cuenta que proceder sin preautorización puede reducir tu reclamación o causar denegación, así que siempre intenta comunicarte primero.
+Comprueba en tu póliza que el número funcione desde el extranjero, porque los números gratuitos a menudo no lo hacen. Muchas pólizas indican un número alternativo para llamadas desde fuera del país de origen del asegurador. Si no puedes comunicarte con ellos, procede con el tratamiento y guarda cada recibo y documentación. Llama en cuanto puedas y verifica tu póliza para el plazo de reclamación. Ten en cuenta que proceder sin preautorización puede reducir tu reclamación o causar denegación, así que siempre intenta comunicarte primero.
 
 ### ¿Qué debo hacer si pierdo mi póliza de seguros mientras viajo?
 
-Si tienes tu número de póliza y puedes llamar a la línea de emergencia de tu aseguradora, eso es todo lo que necesitas. Da tu número de póliza y tus datos personales por teléfono y te confirmarán la cobertura. Si has guardado copias de seguridad (fotos digitales, copias en la nube o notas escritas), úsalas. La mayoría de las aseguradoras guardan registros y pueden reenviarte la póliza al momento.
+Si tienes tu número de póliza y puedes llamar a la línea de emergencia de tu aseguradora, eso es todo lo que necesitas. Da tu número de póliza y tus datos personales por teléfono y te confirmarán la cobertura. Si has guardado copias de seguridad (fotos digitales, copias en la nube o notas escritas), úsalas. Las aseguradoras suelen poder confirmar tu cobertura a partir del número de póliza y reenviarte los documentos.
 
 ### ¿Qué secciones de una póliza de seguros de viaje realmente necesito leer?
 
@@ -166,7 +166,7 @@ Enfócate en: resumen de cobertura o anexo (tus límites de pago), exclusiones (
 
 ### ¿Funcionan los seguros de viaje en todos los países a los que viajo?
 
-Los seguros de viaje te protegen en la mayoría de países mundiales durante tu viaje, pero algunas pólizas excluyen ciertos destinos, regiones o actividades. Verifica la sección de cobertura geográfica de tu póliza para cualquier exclusión. Siempre que tu destino no esté explícitamente listado como excluido, tu póliza te cubre allí independientemente de qué país emitió la póliza. Las actividades de alto riesgo (montañismo, deportes profesionales) pueden tener exclusiones separadas.
+Los seguros de viaje te protegen en la mayoría de países mundiales durante tu viaje, pero algunas pólizas excluyen ciertos destinos, regiones o actividades. Verifica la sección de cobertura geográfica de tu póliza para cualquier exclusión. La cobertura varía según la póliza, así que revisa la sección de cobertura geográfica para ver qué destinos excluye. Las actividades de alto riesgo (montañismo, deportes profesionales) pueden tener exclusiones separadas.
 
 ## Artículos Relacionados
 

@@ -12,7 +12,7 @@ J'étais à l'immigration quand l'agent a regardé le passeport de ma fille, s'e
 
 « Vous savez qu'il expire dans sept mois, n'est-ce pas ? » a-t-il dit. « Je tiens juste à vous prévenir — certains pays ne vous laisseront pas entrer avec moins de six mois de validité. »
 
-Je l'ai remercié. Nous étions en sécurité — de justesse. Mais pendant tout le voyage, je n'arrêtais pas de penser : s'il n'avait rien dit, je ne l'aurais jamais remarqué. Sept mois semblaient largement suffisants. J'avais vérifié le passeport avant de réserver. J'avais simplement complètement oublié la règle des six mois que la plupart des pays appliquent.
+Je l'ai remercié. Nous étions en sécurité — de justesse. Mais pendant tout le voyage, je n'arrêtais pas de penser : s'il n'avait rien dit, je ne l'aurais jamais remarqué. Sept mois semblaient largement suffisants. J'avais vérifié le passeport avant de réserver. J'avais simplement complètement oublié la règle des six mois que de nombreux pays appliquent.
 
 Cet appel du pied m'a marqué. J'avais déjà configuré des rappels calendaires pour les dates d'expiration des passeports de tous. Je pensais que c'était suffisant. Mais je ne vérifiais pas réellement les dates — je faisais juste confiance aux rappels. Et quand le passeport de quelqu'un était renouvelé, je devais mettre à jour le rappel, mettre à jour la numérisation dans Google Drive, et j'espérais n'avoir rien oublié.
 
@@ -68,11 +68,11 @@ Les permis de travail si vous viviez à l'étranger. Les visas et les cartes de 
 
 Ils ont tous des dates d'expiration. Ils importent tous au moment le plus inapproprié. Personne ne vous rappelle jusqu'à ce qu'il soit trop tard — ou vous êtes déjà à l'ambassade réalisant que votre visa a expiré le mois dernier.
 
-L'application gère tout. N'importe quel document avec une date d'expiration — passeports, visas, permis de travail, assurance, permis, tout ce dont votre famille a besoin — un seul endroit, suivi, trié.
+L'application gère tout. Les passeports, les visas, les pièces d'identité et les assurances ont leurs propres types de documents, et tout autre document avec une date d'expiration, comme un permis de travail ou un permis de conduire, va dans Autre — un seul endroit, suivi, trié.
 
 ## Quand les choses tournent mal à l'étranger
 
-Des passeports se perdent ou se font voler à l'étranger tous les jours, et en remplacer un depuis un autre pays est une démarche longue. Si cela vous arrive à l'étranger, vous ne commencez pas de zéro.
+Des passeports se perdent ou se font voler à l'étranger, et en remplacer un depuis un autre pays est une démarche longue. Si cela vous arrive à l'étranger, vous ne commencez pas de zéro.
 
 Les numéros de documents, les dates d'expiration, les numérisations claires — tout prêt quand vous devez déposer un rapport ou contacter une ambassade. Cela ne remplace pas vos originaux, mais cela vous donne ce dont vous avez besoin pour avancer rapidement. Pas de Wi-Fi, pas de panique.
 

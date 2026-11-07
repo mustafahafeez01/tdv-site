@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/da/blog/travel-document-checklist/
 ## Vigtigste punkter
 
 - Den mest nyttige tjekliste til rejsedokumenter er organiseret efter **hvornår du skal handle**, ikke efter dokumenttype. At sortere efter stadie betyder, at du opdager problemer, mens der stadig er tid til at løse dem.
-- Pas skal tjekkes på bookingtidspunktet, ikke aftenen før. Et pas, der udløber om syv måneder, kan gøre, at du bliver afvist ved gaten til populære destinationer.
+- Pas skal tjekkes på bookingtidspunktet, ikke aftenen før. Et pas med under seks måneders gyldighed tilbage kan gøre, at du bliver afvist til nogle destinationer, så tjek det præcise krav for din destination ved booking.
 - Familierejser tilføjer et ekstra lag: hvert barns dokumenter skal tjekkes individuelt, og et samtykkebrev kan være nødvendigt, hvis den ene forælder ikke rejser med.
 - Forretningsrejsende har ofte flere pas og arbejdsvisa, disse skal spores separat fra personlige dokumenter.
 - En digital sikkerhedskopi af hvert dokument (krypteret, ikke i dit fotobibliotek) kan bringe dig hjem hurtigere, hvis noget går galt i udlandet.
@@ -26,7 +26,7 @@ Den største fejl, rejsende laver, er at behandle bookingøjeblikket som adminis
 
 **Tjek jeres pas, før I betaler**
 
-Før du bekræfter en booking, så tjek hver rejsendes pas mod tre kriterier: gyldighed (opfylder det destinationens krav, mange lande kræver gyldighed i mindst 6 måneder efter din afrejsedato, ikke kun ankomstdatoen, som forklaret i vores [guide til 6-måneders-reglen for pas](https://traveldocumentvault.com/da/blog/passport-expiry-6-month-rule/)), navnematch (navnet på passet skal matche bookingnavnet præcist), og blanke sider (nogle lande kræver mindst to blanke visumsider til indrejsestempler).
+Før du bekræfter en booking, så tjek hver rejsendes pas mod tre kriterier: gyldighed (opfylder det destinationens krav, mange lande vil have 6 måneders gyldighed tilbage på ankomstdagen, og nogle få tæller fra afrejsen, så tjek din destination, som forklaret i vores [guide til 6-måneders-reglen for pas](https://traveldocumentvault.com/da/blog/passport-expiry-6-month-rule/)), navnematch (navnet på passet skal matche bookingnavnet præcist), og blanke sider (nogle lande kræver mindst to blanke visumsider til indrejsestempler).
 
 **Tjek jeres visumkrav**
 
@@ -40,13 +40,13 @@ Book rejseforsikring, når du booker flyrejser, ikke en uge før afrejse. Forsik
 
 ## Tre måneder før: er fornyelse eller visum tæt på, så start nu
 
-På dette tidspunkt har du stadig tid til at ordne tingene. Sagsbehandlingstider ændrer sig, og hver myndighed offentliggør sit eget aktuelle tal: det amerikanske udenrigsministerium, HM Passport Office, og den australske pasmyndighed. Tjek altid den officielle hjemmeside for aktuelle tider, før du ansøger.
+På dette tidspunkt har du stadig tid til at ordne tingene. Sagsbehandlingstider ændrer sig, og dit lands pasmyndighed offentliggør sit eget aktuelle tal. Tjek altid den officielle hjemmeside for aktuelle tider, før du ansøger.
 
-Ethvert pas, der udløber inden for 12 måneder: start fornyelsesprocessen nu. Børns pas udløber hurtigere, 5 år i de fleste lande mod 10 for voksne, og forældre overser ofte dette vindue. For ansøgere i New Zealand, tjek New Zealand Passport Office for aktuelle sagsbehandlingstider, efterspørgslen stiger kraftigt op til sommeren.
+Vi ville forny ethvert pas, der udløber inden for 12 måneder, nu. Børns pas udløber hurtigere (britiske børnepas gælder i 5 år mod 10 for voksne, og flere andre lande fungerer på samme måde), og forældre overser ofte dette vindue. For ansøgere i New Zealand, tjek New Zealand Passport Office for aktuelle sagsbehandlingstider.
 
 Indsend eventuelle visumansøgninger, der kræver forberedelsestid, og tjek hos den udstedende myndighed, hvor lang tid det aktuelt tager. Forbered understøttende dokumenter: kontoudtog, bekræftelser på indkvartering, bevis for videre rejse. Book en biometritid i forvejen, hvis visummet kræver det.
 
-For familier: hvis et barn rejser med kun den ene forælder eller en anden voksen, så forbered et samtykkebrev til barnets rejse nu. Inkluder barnets fulde navn og fødselsdato, begge forældres kontaktoplysninger, rejsedatoer, destinationer, og den fraværende forælders underskrift. En notarbekræftet kopi virker mere overbevisende ved grænsekontrol og er det ekstra skridt værd.
+For familier: hvis et barn rejser med kun den ene forælder eller en anden voksen, så forbered et samtykkebrev til barnets rejse nu. Inkluder barnets fulde navn og fødselsdato, begge forældres kontaktoplysninger, rejsedatoer, destinationer, og den fraværende forælders underskrift. Nogle destinationer beder også om, at brevet er notarbekræftet, så tjek indrejsereglerne.
 
 ## En måned før: bekræft og saml
 
@@ -105,8 +105,8 @@ Forskellige rejser kræver forskellige sæt dokumenter, som tabellen herunder vi
 | Visum (hvis relevant) | | hvert medlem | firma | Forretning: bekræft at visummet sidder i det rette pas |
 | Rejseforsikring | | alle dækket | tjek om arbejdsgiveren dækker dig | Bekræft dækning før hver rejse, ikke kun ved køb |
 | Bookingbekræftelser | | | | Offlinekopi (stol ikke på e-mailadgang ved grænser) |
-| Samtykkebrev til børn | N/A | hvis relevant | N/A | Kræves i mange lande, hvis en forælder mangler |
-| Fødselsattester | N/A | hvis krævet | N/A | Nogle lande kræver dette for børn under 18 |
+| Samtykkebrev til børn | N/A | hvis relevant | N/A | Efterspørges i nogle lande, hvis en forælder mangler |
+| Fødselsattester | N/A | hvis krævet | N/A | Nogle lande beder om dette for børn under 18 |
 | Arbejdstilladelsesbrev | N/A | N/A | hvis krævet | Nogle destinationer kræver arbejdsgiverbreve til forretningsrejsende |
 
 Er en rejse allerede booket, er det ene, der er værd at gøre i dag, at tage hvert pas frem og tjekke udløbsdatoen mod destinationens krav, ikke kun mod dine rejsedatoer.
@@ -129,7 +129,7 @@ Ja. Hver persons pasgyldighed, visumkrav, og forsikringsdækning vurderes indivi
 
 ### Hvad er et samtykkebrev til børns rejse, og skal jeg bruge et?
 
-Et samtykkebrev til børns rejse er et underskrevet dokument fra den fraværende forælder, der giver tilladelse til, at barnet rejser. Lande som Canada, Sydafrika, Mexico, og mange andre beder rutinemæssigt om det, når et barn rejser med kun den ene forælder. Uden et risikerer du forsinkelser eller nægtet indrejse. Brevet bør indeholde barnets oplysninger, begge forældres kontaktoplysninger, rejsedatoer, destinationer, og den fraværende forælders underskrift.
+Et samtykkebrev til børns rejse er et underskrevet dokument fra den fraværende forælder, der giver tilladelse til, at barnet rejser. Nogle lande, blandt andre Sydafrika, stiller ekstra krav til børn, der rejser med kun den ene forælder, og de canadiske myndigheder anbefaler et underskrevet samtykkebrev. Uden et kan du møde ekstra spørgsmål eller forsinkelser. Brevet bør indeholde barnets oplysninger, begge forældres kontaktoplysninger, rejsedatoer, destinationer, og den fraværende forælders underskrift.
 
 ### Hvilke dokumenter bør jeg holde tilgængelige i lufthavnen og ikke i indchecket bagage?
 

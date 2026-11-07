@@ -24,7 +24,7 @@ Obwohl spezifische Regeln je nach Passbehörde unterschiedlich sind, teilen die 
 
 ### Hintergrund und Komposition
 
-Sie benötigen einen einfarbigen, hellen Hintergrund, dessen genauer Farbton von Ihrer Behörde abhängt: GOV.UK verlangt ein einfarbiges Creme oder Hellgrau, während die kanadische Regierung ein einfarbiges Weiß oder Hellfarbiges verlangt. Keine Muster, Schatten, unscharfe Hintergründe oder kräftigen Farben. Der Grund ist einfach: Beamte benötigen einen sauberen, unverbauten Blick auf Ihr Gesicht, um es gegen zukünftige Dokumente zu vergleichen. Die meisten Menschen verwenden ein weißes Bettlaken, Plakatwand oder malen sogar einen kleinen Bereich der Wand. Der Schlüssel ist, es hell und durchgehend zu halten.
+Sie benötigen einen einfarbigen, hellen Hintergrund, dessen genauer Farbton von Ihrer Behörde abhängt: GOV.UK verlangt ein einfarbiges Creme oder Hellgrau, während die kanadische Regierung ein einfarbiges Weiß oder Hellfarbiges verlangt. Keine Muster, Schatten, unscharfe Hintergründe oder kräftigen Farben. Der Grund ist einfach: Beamte benötigen einen sauberen, unverbauten Blick auf Ihr Gesicht, um es gegen zukünftige Dokumente zu vergleichen. Verwenden Sie ein einfarbiges Laken oder einen Fotokarton in dem von Ihrer Behörde verlangten Farbton – für das Vereinigte Königreich Creme oder Hellgrau – oder streichen Sie einen kleinen Wandbereich passend. Der Schlüssel ist, es hell und durchgehend zu halten.
 
 ### Ausdruck und Pose
 
@@ -38,7 +38,7 @@ Sonnenbrillen und getönte Gläser werden in der Regel abgelehnt. Wenn Sie die B
 
 ## Passfoto-Größe: die zwei Standards, die die meisten Länder verwenden
 
-Die meisten Passbehörden verwenden eines von zwei gedruckten Formaten. Das Format 35 x 45 mm gilt im Vereinigten Königreich, in EU-Ländern einschließlich der Niederlande und in weiten Teilen der übrigen Welt. Die USA verlangen ein 2 x 2 Zoll großes Quadrat, dem eine Handvoll weiterer Länder folgen.
+Die Maße gedruckter Passfotos unterscheiden sich je nach Behörde. Im Vereinigten Königreich sind es 35 x 45 mm, in Kanada verlangt die Regierung 50 mm Breite und 70 mm Höhe. Andere Länder legen eigene Maße fest – richten Sie sich nach Ihrer Passbehörde.
 
 Bei digitalen Einreichungen treten Pixel an die Stelle von Millimetern, und jede Behörde veröffentlicht ihre eigenen Mindestwerte. Diese beiden Formate sind das, was die meisten Behörden derzeit für den Ausdruck verlangen, aber die Vorgaben werden überarbeitet, prüfen Sie also Ihre eigene, bevor Sie drucken oder hochladen.
 
@@ -63,11 +63,11 @@ Sie haben mehrere Optionen, um Ihr Passfoto in die Hände der Passbehörde zu be
 
 | Methode | Kosten | Akzeptanzrisiko | Bequemlichkeit | Offizielle Anleitung |
 |---|---|---|---|---|
-| Zu Hause DIY (Smartphone + Zuschneidungs-App) | Kostenlos oder nahezu kostenlos | Höher, wenn Sie Beleuchtungs- oder Größenangaben übersehen | Sehr hoch - sofort | In den meisten Ländern zulässig - überprüfen Sie die Website Ihrer Behörde |
+| Zu Hause DIY (Smartphone + Zuschneidungs-App) | Kostenlos oder nahezu kostenlos | Höher, wenn Sie Beleuchtungs- oder Größenangaben übersehen | Sehr hoch - sofort | Prüfen Sie die Website Ihrer Behörde |
 | Lokale Apotheke oder Drogerie | Bescheidene Gebühr | Niedrig - ausgebildete Fachleute überprüfen | Mittel - normalerweise Same-Day-Service | Weit verbreitet und generell zuverlässig - überprüfen Sie Ihrer eigenen Behörde Fotovoraussetzungen trotzdem |
 | Post (Vereinigtes Königreich und andere) | Bescheidene Gebühr | Niedrig - in-house genommen, überprüft | Mittel - erfordert Besuch und Termin | Offizieller Postdienst |
 | Online-Services (z.B. Passport Photo Online) | Bescheidene Gebühr | Mittel - digitale Einreichung, Feedback bereitgestellt | Hoch - von zu Hause, digitale Lieferung | Nicht offiziell, aber weit verbreitet - überprüfen Sie, ob Ihr Land vorab zugeschnittene Uploads akzeptiert |
-| Professionelles Fotostudio | Die teuerste Option | Niedrig - professionelle Beleuchtung und Komposition | Niedrig - erfordert Termin | Überall akzeptiert - immer eine sichere Wahl |
+| Professionelles Fotostudio | Die teuerste Option | Niedrig - professionelle Beleuchtung und Komposition | Niedrig - erfordert Termin | Geringstes Risiko – das Foto muss dennoch die Vorgaben Ihrer Behörde erfüllen |
 
 ## Beleuchtung und Bildqualität
 
@@ -83,7 +83,7 @@ Verwenden Sie ein Stativ oder lehnen Sie Ihr Telefon gegen ein stabiles Objekt, 
 
 ### Auflösung und Fokus
 
-Moderne Smartphones schießen mit 12 Megapixeln oder höher, was für Passfotos ausreicht. Bevor Sie aufnehmen, stellen Sie sicher, dass Ihr Telefon im Fokusmodus ist – tippen Sie auf Ihrem Gesicht auf dem Bildschirm, und die meisten Telefone sperren den Fokus dort. Ihr endgültiges Bild sollte scharf und klar sein.
+Die Kameras der meisten modernen Smartphones bieten für ein Passfoto ausreichend Auflösung. Bevor Sie aufnehmen, stellen Sie sicher, dass Ihr Telefon im Fokusmodus ist – tippen Sie auf Ihrem Gesicht auf dem Bildschirm, und die meisten Telefone sperren den Fokus dort. Ihr endgültiges Bild sollte scharf und klar sein.
 
 ## Häufige Ablehnungsgründe und wie Sie diese vermeiden
 
@@ -133,7 +133,7 @@ Ja, Sie können ein Passfoto mit einem Smartphone machen. Positionieren Sie sich
 
 ### Wie groß sollte ein Passfoto sein
 
-Die meisten Länder verwenden eines von zwei gedruckten Formaten: 35 x 45 mm, das im Vereinigten Königreich, in der EU und in weiten Teilen der Welt gilt, oder das 2 x 2 Zoll große Quadrat der USA. Einige Behörden legen eigene Maße fest, etwa die kanadische Regierung mit 50 mm Breite und 70 mm Höhe. Digitale Einreichungen haben eigene Mindestpixelwerte. Die Anforderungen werden streng durchgesetzt und überarbeitet, prüfen Sie die genaue Vorgabe daher bei Ihrer eigenen Passbehörde, bevor Sie drucken oder hochladen.
+Die Maße gedruckter Passfotos unterscheiden sich je nach Behörde. Im Vereinigten Königreich sind es 35 x 45 mm, in Kanada verlangt die Regierung 50 mm Breite und 70 mm Höhe. Andere Länder legen eigene Maße fest – richten Sie sich nach Ihrer Passbehörde. Digitale Einreichungen haben eigene Mindestpixelwerte. Die Anforderungen werden streng durchgesetzt und überarbeitet, prüfen Sie die genaue Vorgabe daher bei Ihrer eigenen Passbehörde, bevor Sie drucken oder hochladen.
 
 ### Warum wurde mein Passfoto abgelehnt
 

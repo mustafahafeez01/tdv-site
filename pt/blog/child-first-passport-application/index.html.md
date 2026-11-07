@@ -10,11 +10,11 @@ Source: https://traveldocumentvault.com/pt/blog/child-first-passport-application
 
 ## Pontos-Chave
 
-- **O consentimento para pedir o passaporte é diferente do consentimento para viajar.** O seu filho precisa de autorização por escrito de todos os pais ou tutores antes de o pedido poder avançar.
+- **O consentimento para pedir o passaporte é diferente do consentimento para viajar.** As regras variam por país: no Reino Unido, por exemplo, uma pessoa com responsabilidade parental assina o formulário e são fornecidos os dados de ambos os pais, enquanto outros países pedem o consentimento de ambos. Confirme junto do serviço de passaportes do seu país.
 - **A maioria dos pedidos exige três tipos de prova:** prova de identidade da criança (certidão de nascimento), prova de identidade dos pais, e prova da relação parental.
 - **As fotos de passaporte de bebés têm regras específicas.** A maioria das autoridades quer os olhos abertos e a olhar para a câmara (o GOV.UK flexibiliza isto para menores de 1 ano e de 6 anos), sem chupetas, brinquedos ou mãos de outras pessoas visíveis — e o fundo atrás da cabeça da criança tem de ser liso e sem obstruções.
-- **Verifique tudo assim que o passaporte chegar.** Ortografia, nomes dos pais quando aparecem, data de validade — sobretudo porque os passaportes de crianças expiram mais depressa do que os de adultos.
-- **Um progenitor não pode assinar sozinho, exceto havendo uma decisão judicial, guarda legal exclusiva, ou falecimento do outro progenitor.** Se for essa a sua situação, o serviço de passaportes tem um procedimento específico a seguir.
+- **Verifique tudo assim que o passaporte chegar.** Ortografia, nomes dos pais quando aparecem, data de validade — sobretudo porque os passaportes de crianças muitas vezes expiram mais cedo do que os de adultos (no Reino Unido, são válidos por 5 anos).
+- **Nos países que exigem o consentimento de ambos os pais, um progenitor geralmente não pode assinar sozinho, exceto havendo uma decisão judicial, guarda legal exclusiva, ou falecimento do outro progenitor.** Se for essa a sua situação, o serviço de passaportes tem um procedimento específico a seguir.
 
 O primeiro passaporte do seu filho é algo que só faz uma vez — o que significa que pode aprender as regras antes de o fazer, em vez de as descobrir ao balcão. O pedido em si é simples, mas as regras de consentimento e os requisitos da fotografia variam de país para país, e um pequeno erro no início pode significar um pedido recusado e uma viagem adiada.
 
@@ -28,7 +28,7 @@ Este artigo trata do consentimento para o pedido. A distinção importa porque p
 
 ## Por regra, todos os que têm responsabilidade parental têm de concordar
 
-A regra geral é que todos os adultos com responsabilidade parental sobre a criança têm de consentir o pedido de passaporte. Para a maioria das famílias, isto significa ambos os pais casados; para casais não casados, significa ambos os parceiros, se ambos constarem da certidão de nascimento como pais. Quem tem uma decisão judicial ou guarda legal exclusiva segue regras diferentes, e o serviço de passaportes explica o procedimento específico quando perguntar.
+Quem tem de consentir depende do país. No Reino Unido, uma pessoa com responsabilidade parental assina o pedido e são fornecidos os dados de ambos os pais; noutros países, geralmente espera-se que ambos assinem. A responsabilidade parental de um progenitor não casado também depende do país, por isso confirme junto do serviço de passaportes. Quem tem uma decisão judicial ou guarda legal exclusiva segue regras diferentes, e o serviço de passaportes explica o procedimento específico quando perguntar.
 
 Estas exceções são reais e vale a pena conhecê-las. Um progenitor falecido não pode assinar, e um progenitor que tenha perdido a responsabilidade parental por decisão judicial também pode não ter o direito de consentir. Ordens de restrição e restrições de custódia também podem excluir um progenitor por lei. Cada uma destas situações tem o seu próprio processo de pedido e os seus próprios requisitos de prova, por isso não há uma única resposta que cubra todos os casos.
 
@@ -54,9 +54,9 @@ Os serviços de passaportes pedem três coisas quando se candidata ao primeiro p
 
 **As regras principais são as mesmas:** os olhos da criança devem, em geral, estar abertos e a olhar para a câmara, com um fundo liso atrás da cabeça e mais nada visível na imagem. Algumas autoridades flexibilizam as regras dos olhos para as crianças mais pequenas: o GOV.UK não exige olhos abertos antes de um ano, nem um olhar direto para a câmara antes dos 6 anos. O que muda é a forma como consegue que isso aconteça.
 
-**Para um recém-nascido ou bebé com menos de 6 meses:** fotografe-o deitado sobre um lençol ou manta liso, branco ou claro. O lençol torna-se o fundo. A cabeça da criança preenche o terço superior da imagem. Coloque-se diretamente por cima, para que o bebé olhe para cima, na direção da câmara, com os olhos abertos — se o bebé estiver sonolento, espere por um momento em que esteja desperto. Sem brinquedos, sem chupetas, sem mãos, sem qualquer outra pessoa visível na imagem, apenas a cabeça e os ombros do bebé.
+**Para um recém-nascido ou bebé com menos de um ano:** fotografe-o deitado sobre um lençol ou manta liso, branco ou claro. O lençol torna-se o fundo. Coloque-se diretamente por cima, para que o bebé olhe para cima, na direção da câmara, com os olhos abertos — se o bebé estiver sonolento, espere por um momento em que esteja desperto. Sem brinquedos, sem chupetas, sem mãos, sem qualquer outra pessoa visível na imagem, apenas a cabeça e os ombros do bebé.
 
-**Para um bebé entre os 6 meses e os 2 anos:** pode sentá-lo ao colo de um adulto, mas o corpo e as mãos do adulto não podem aparecer de todo na fotografia. A cabeça do bebé preenche a imagem. O fundo liso fica apenas atrás do bebé — não visível em mais lado nenhum. Uma parede branca funciona. Um lençol liso pendurado atrás também. Ajuste o ângulo para que os olhos do bebé olhem na direção da câmara, mas, como os bebés nesta idade não param quietos, provavelmente vai precisar de tirar 20 fotografias até conseguir uma com os olhos abertos e a olhar na direção certa.
+**Para uma criança entre um e dois anos:** pode sentá-la ao colo de um adulto, mas o corpo e as mãos do adulto não podem aparecer de todo na fotografia. Só a criança aparece na imagem, com o fundo liso atrás e sem mais nada visível. Uma parede branca funciona. Um lençol liso pendurado atrás também. Ajuste o ângulo para que os olhos da criança olhem na direção da câmara, mas, como as crianças nesta idade não param quietas, provavelmente vai precisar de tirar 20 fotografias até conseguir uma com os olhos abertos e a olhar na direção certa.
 
 **Para crianças a partir dos 2 anos:** sente-as em frente ao fundo liso numa cadeira, ou de pé se já conseguirem estar de pé. Os olhos devem olhar diretamente para a câmara, o que é mais difícil do que parece, porque as crianças pequenas não seguem instruções facilmente. Cante uma canção, faça um som engraçado, ou peça-lhes para olharem para um ponto mesmo acima da lente da câmara. O objetivo é que olhem ligeiramente para cima, o que aliás resulta melhor nas fotografias. Mais uma vez, tire muitas fotografias — só precisa de uma em que estejam a olhar para a câmara com os dois olhos claramente abertos.
 
@@ -78,7 +78,7 @@ Este é um requisito legal que existe para proteger a criança, não uma questã
 
 **Se o outro progenitor estiver desaparecido ou se recusar:** precisa de uma decisão judicial. Pode ser uma decisão de custódia já existente, uma decisão de tutela, ou uma sentença específica que lhe atribua a responsabilidade parental exclusiva. Alguns países permitem pedir ao tribunal autorização para emitir o passaporte sem o consentimento do outro progenitor, se conseguir mostrar que a criança seria prejudicada pelo atraso ou que o outro progenitor não está em condições de ser consultado. Isto varia consoante o país e a prática judicial local — pergunte ao serviço de passaportes ou a um advogado de família qual é o processo na sua situação.
 
-**Se o outro progenitor tiver falecido:** precisa da certidão de óbito. O serviço de passaportes não deverá precisar de mais nada além disso para processar o pedido.
+**Se o outro progenitor tiver falecido:** conte com ter de apresentar a certidão de óbito. O serviço de passaportes confirmará se precisa de mais algum documento.
 
 **Havendo uma ordem de restrição ou uma restrição de custódia:** leve consigo a decisão judicial. Isso mostra ao serviço exatamente que autorizações e restrições estão em vigor.
 
@@ -86,19 +86,19 @@ Este é um requisito legal que existe para proteger a criança, não uma questã
 
 Assim que o passaporte for emitido e entregue, dedique cinco minutos a verificá-lo antes de o arquivar. Há três coisas a confirmar, fáceis de corrigir agora e um pesadelo para corrigir no aeroporto.
 
-**Verifique a ortografia.** O nome da criança tem de estar escrito exatamente como consta na certidão de nascimento ou no documento de identidade usado no pedido. Se estiver errado, o serviço de passaportes pode normalmente emitir uma substituição sem custos. Se só notar no aeroporto, a companhia aérea pode recusar o embarque, porque o nome no bilhete não vai corresponder ao do passaporte.
+**O nome da criança tem de estar escrito exatamente como consta** na certidão de nascimento ou no documento de identidade usado no pedido. Se estiver errado, o serviço de passaportes geralmente emite uma substituição sem custos se o erro tiver sido seu; se o erro vier do pedido apresentado, poderá ter de pagar uma taxa. Se só notar no aeroporto, a companhia aérea pode recusar o embarque, porque o nome no bilhete não vai corresponder ao do passaporte.
 
 **Verifique os nomes dos pais onde aparecerem.** Alguns países imprimem os nomes dos pais ou tutores no interior do passaporte da criança. Se estes nomes estiverem mal escritos ou incorretos, contacte o serviço para os corrigir.
 
-**Verifique a data de validade.** Isto é essencial para crianças, porque os [passaportes de crianças expiram muito mais depressa do que os de adultos](https://traveldocumentvault.com/pt/blog/family-passport-management/). Quando reservar uma viagem, precisa de saber exatamente quando este documento deixa de ser válido. Escreva a data e configure um lembrete no dia em que o passaporte chegar, e não só quando surgir uma viagem; é o hábito que recomendamos sempre aos pais. Passaportes de crianças que expiram inesperadamente são uma das razões mais comuns para famílias terem de cancelar ou adiar viagens.
+**Verifique a data de validade.** Isto é essencial para crianças, porque os [passaportes de crianças muitas vezes expiram mais cedo do que os de adultos](https://traveldocumentvault.com/pt/blog/family-passport-management/). Quando reservar uma viagem, precisa de saber exatamente quando este documento deixa de ser válido. Escreva a data e configure um lembrete no dia em que o passaporte chegar, e não só quando surgir uma viagem; é o hábito que recomendamos sempre aos pais. Um passaporte de criança que expira sem ninguém dar conta pode facilmente comprometer uma viagem.
 
-Se algo estiver errado, contacte o serviço de passaportes o mais rápido possível. As correções costumam ser gratuitas quando reportadas de imediato, e quanto mais tempo deixar passar, mais complicado se torna o processo. Quando estiver tudo certo, guarde logo o passaporte na pasta dos seus documentos, com uma nota da data de validade, para que a renovação não o apanhe de surpresa.
+Se algo estiver errado, contacte o serviço de passaportes o mais rápido possível. A gratuitidade da correção depende de quem cometeu o erro, e quanto mais tempo deixar passar, mais complicado se torna o processo. Quando estiver tudo certo, guarde logo o passaporte na pasta dos seus documentos, com uma nota da data de validade, para que a renovação não o apanhe de surpresa.
 
 ## Perguntas Frequentes
 
 ### Quem tem de consentir o pedido de passaporte de uma criança?
 
-Em geral, todos os adultos com responsabilidade parental sobre a criança têm de dar o seu consentimento. Isto inclui casais casados, casais não casados indicados na certidão de nascimento, e qualquer pessoa com guarda legal. A responsabilidade parental exclusiva, o falecimento de um progenitor, e as decisões judiciais criam exceções — a autoridade emissora decide se avança sem as assinaturas de ambos os pais.
+Depende do país: geralmente tem de assinar alguém com responsabilidade parental, e alguns serviços também pedem o consentimento de todos os pais. Isto inclui casais casados, casais não casados indicados na certidão de nascimento, e qualquer pessoa com guarda legal. A responsabilidade parental exclusiva, o falecimento de um progenitor, e as decisões judiciais criam exceções — a autoridade emissora decide se avança sem as assinaturas de ambos os pais.
 
 ### Que documentos preciso para o primeiro pedido de passaporte de uma criança?
 
@@ -106,7 +106,7 @@ No mínimo: prova da identidade da criança (certidão de nascimento), prova da 
 
 ### O que torna diferente uma fotografia de passaporte de um bebé?
 
-Muitas autoridades querem os olhos do bebé abertos e a olhar para a câmara, sem chupetas, brinquedos, ou mãos de outras pessoas visíveis. Algumas flexibilizam as regras dos olhos para crianças pequenas: o GOV.UK, por exemplo, diz que uma criança com menos de um ano não precisa de ter os olhos abertos, e uma criança com menos de 6 anos não precisa de olhar diretamente para a câmara. O fundo liso deve estar claramente visível atrás da cabeça da criança. Como os bebés não conseguem sentar-se ou ficar quietos, pode fotografá-los deitados sobre um fundo liso — a regra é que a cabeça preencha a imagem, que apenas a criança apareça na fotografia, e que o fundo atrás dela esteja limpo e sem obstruções.
+Muitas autoridades querem os olhos do bebé abertos e a olhar para a câmara, sem chupetas, brinquedos, ou mãos de outras pessoas visíveis. Algumas flexibilizam as regras dos olhos para crianças pequenas: o GOV.UK, por exemplo, diz que uma criança com menos de um ano não precisa de ter os olhos abertos, e uma criança com menos de 6 anos não precisa de olhar diretamente para a câmara. O fundo liso deve estar claramente visível atrás da cabeça da criança. Como os bebés não conseguem sentar-se ou ficar quietos, pode fotografá-los deitados sobre um fundo liso — apenas a criança deve aparecer na fotografia, e o fundo atrás dela deve ser liso e claro.
 
 ### Quanto tempo é válido o passaporte de uma criança?
 

@@ -11,9 +11,9 @@ Source: https://traveldocumentvault.com/es/blog/passport-expired-what-to-do/
 ## Puntos Clave
 
 - Hay dos escenarios distintos: descubrir que tu pasaporte está caducado **en casa antes de un viaje**, y descubrirlo **en el aeropuerto**. Los pasos son diferentes para cada uno.
-- No puedes viajar internacionalmente con un pasaporte caducado. Sin excepciones.
-- En el Reino Unido, existe un servicio de pasaporte Premium acelerado para emergencias genuinas —reservable en gov.uk. En Estados Unidos, hay citas de emergencia disponibles a través del Departamento de Estado para viajes urgentes.
-- En el aeropuerto, contacta primero a tu aerolínea —algunas reprograman sin tarifas para emergencias genuinas de documentos.
+- Por lo general, no puedes volar al extranjero con un pasaporte caducado.
+- En el Reino Unido, existe un servicio de pasaporte Premium acelerado para emergencias genuinas —reservable en gov.uk. En Estados Unidos, consulta las opciones para viajes urgentes en travel.state.gov.
+- En el aeropuerto, contacta primero a tu aerolínea —pregunta si pueden cambiarte el vuelo sin cobrar una tarifa de cambio.
 - La solución para el futuro es un recordatorio de caducidad a 12 meses, no a 6 meses. Eso te da suficiente tiempo para renovar con procesamiento estándar.
 - La caducidad no es el único problema de pasaporte que hace que los viajeros sean rechazados. El daño, falta de concordancia de nombres, firmas faltantes, y validez insuficiente restante en tu destino causan el mismo resultado.
 
@@ -30,9 +30,9 @@ Lo urgente que necesites actuar determina qué hacer:
 - **Mucho tiempo antes del viaje:** solicita la renovación estándar en línea a través del sitio web de tu autoridad de pasaportes —GOV.UK en el Reino Unido, travel.state.gov en EE.UU.
 - **El viaje se acerca:** solicita inmediatamente y paga por procesamiento expedito. Tanto el Reino Unido como EE.UU. ofrecen en línea un servicio de pago más rápido, y ambos publican su tiempo de procesamiento actual.
 - **El viaje está cerca:** llama directamente a tu autoridad de pasaportes en lugar de confiar solo en el sitio web —la línea de atención de HM Passport Office en el Reino Unido, o el National Passport Information Center en EE.UU.
-- **El viaje es inminente:** pregunta por una cita de emergencia y lleva prueba de tus fechas de viaje. El servicio 1 Day Premium del Reino Unido (solo renovaciones de adultos) reserva citas desde 2 días después de solicitarlo, con el pasaporte listo para recoger 4 horas después de la cita, y EE.UU. ofrece citas en agencias de pasaportes regionales.
+- **El viaje es inminente:** pregunta por una cita de emergencia y lleva prueba de tus fechas de viaje. El servicio 1 Day Premium del Reino Unido (solo renovaciones de adultos) reserva citas desde 2 días después de solicitarlo, con el pasaporte listo para recoger 4 horas después de la cita, y EE.UU. publica sus opciones para viajes urgentes en travel.state.gov.
 
-Todas las principales autoridades de pasaportes retienen ranuras de cita de emergencia que no son visibles en línea. Si tu cronograma es ajustado, nosotros siempre llamaríamos en lugar de fiarnos solo del sitio web.
+Si tu cronograma es ajustado, nosotros siempre llamaríamos en lugar de fiarnos solo del sitio web.
 
 ## Escenario B: Lo Descubriste en el Aeropuerto
 
@@ -40,9 +40,9 @@ Este escenario sucede más a menudo de lo que la gente espera, y los pasos no so
 
 **Paso 1: Mantén la calma y aléjate de la cola.** No vas a abordar este vuelo, y cuanto antes aceptes esa realidad, antes podrás empezar a trabajar en la solución.
 
-**Paso 2: Ve al mostrador de la aerolínea inmediatamente.** No dejes el aeropuerto —habla con la aerolínea directamente y explica la situación. Algunas aerolíneas reprogramarán sin tarifa de cambio para emergencias genuinas de documentos —no todas, pero vale la pena preguntar. Obtén la respuesta por escrito si están de acuerdo.
+**Paso 2: Ve al mostrador de la aerolínea inmediatamente.** No dejes el aeropuerto —habla con la aerolínea directamente y explica la situación. Las políticas varían según la aerolínea, así que pregunta si pueden cambiarte el vuelo sin cobrar una tarifa de cambio. Obtén la respuesta por escrito si están de acuerdo.
 
-**Paso 3: Verifica si el viaje doméstico es posible.** Un pasaporte caducado aún puede ser aceptado como identificación para vuelos domésticos en algunos países, aunque esto no es garantizado. Si tu destino final es alcanzable por vía doméstica desde una ciudad más cercana, esto podría ser una opción mientras resuelves el pasaporte.
+**Paso 3: Verifica si el viaje doméstico es posible.** Algunas aerolíneas pueden aceptar otro documento de identidad con foto para vuelos nacionales, así que consulta con la tuya. Si tu destino final es alcanzable por vía doméstica desde una ciudad más cercana, esto podría ser una opción mientras resuelves el pasaporte.
 
 **Paso 4: Contacta a tu autoridad de pasaportes por teléfono.** Explica tu situación. En el Reino Unido, llama al la línea de atención de HM Passport Office y pregunta por la cita más temprana disponible en la oficina de pasaportes más cercana. En Estados Unidos, llama al el National Passport Information Center de EE. UU. y pregunta sobre citas de emergencia en la agencia regional de pasaportes más cercana. Pregunta específicamente por opciones de emergencia, ya que las citas más rápidas a menudo no aparecen en el sitio web.
 
@@ -60,11 +60,11 @@ GOV.UK indica que debes renovar tu pasaporte antes de poder viajar si ha caducad
 
 ### Estados Unidos: la renovación funciona dentro de los 15 años desde la emisión
 
-Según USA.gov, solo puedes renovar un pasaporte caducado si se emitió en los últimos 15 años. Tampoco puedes renovar uno emitido antes de tu 16.º cumpleaños, uno dañado, perdido o robado, ni uno con un nombre anterior, a menos que tengas un documento legal que acredite el cambio. Si se da alguno de estos casos, debes solicitar un pasaporte nuevo en persona con el formulario DS-11.
+Estados Unidos tiene sus propios requisitos para renovar un pasaporte caducado, incluido un límite sobre cuánto tiempo ha pasado desde su emisión. Consulta la página de renovación en travel.state.gov, que también indica cuándo debes presentar la solicitud en persona.
 
 ### Canadá: un pasaporte caducado se puede renovar en línea
 
-El gobierno de Canadá te permite renovar si tu último pasaporte era un pasaporte de adulto emitido cuando tenías al menos 16 años. Además, debe haberse emitido dentro de los 15 años anteriores a tu solicitud y tener una validez de 5 o 10 años. El nombre, la fecha y el lugar de nacimiento que figuran en él deben coincidir con los que quieres en el nuevo. Puedes renovar en línea si tu pasaporte caduca en los próximos seis meses o ya ha caducado, siempre que tu domicilio y dirección postal estén en Canadá. Los pasaportes infantiles no se pueden renovar, así que un niño necesita una solicitud nueva.
+El gobierno de Canadá te permite renovar si tu último pasaporte era un pasaporte de adulto emitido cuando tenías al menos 16 años. Además, debe haberse emitido dentro de los 15 años anteriores a tu solicitud y tener una validez de 5 o 10 años. Puedes renovar en línea si tu pasaporte caduca en los próximos seis meses o ya ha caducado, siempre que tu domicilio y dirección postal estén en Canadá. Los pasaportes infantiles no se pueden renovar, así que un niño necesita una solicitud nueva.
 
 Si tu pasaporte caducó hace años, mira primero la fecha de emisión, porque el límite de 15 años en Estados Unidos y Canadá se cuenta desde la emisión, no desde la caducidad. Después comprueba los plazos actuales antes de reservar, algo que nuestra guía sobre [cuánto tarda la renovación del pasaporte](https://traveldocumentvault.com/es/blog/how-long-does-passport-renewal-take/) detalla país por país.
 
@@ -88,7 +88,7 @@ El personal de la aerolínea a veces resuelve variaciones pequeñas, como la fal
 
 ### 3. Un pasaporte sin firmar
 
-La mayoría de los pasaportes tienen un panel de firma. Algunos países —incluyendo Estados Unidos— requieren que el pasaporte sea firmado antes de considerarse válido para viajar. Un pasaporte sin firmar puede ser rechazado en la frontera. Esto es más comúnmente un problema con pasaportes expedidos a niños que eran demasiado jóvenes para firmar, o con pasaportes completamente nuevos que el titular olvidó firmar antes de viajar. Echar un vistazo al panel de firma antes de salir de casa lo detecta a tiempo.
+La mayoría de los pasaportes tienen un panel de firma. Muchos pasaportes tienen un panel de firma, y uno sin firmar puede causar problemas en la frontera. Esto es más comúnmente un problema con pasaportes expedidos a niños que eran demasiado jóvenes para firmar, o con pasaportes completamente nuevos que el titular olvidó firmar antes de viajar. Echar un vistazo al panel de firma antes de salir de casa lo detecta a tiempo.
 
 ### 4. Validez insuficiente para tu destino
 
@@ -106,7 +106,7 @@ Antes de cada viaje, verifica los requisitos de entrada oficiales para tu destin
 
 La causa raíz es generalmente la misma: sin recordatorio establecido. Establece un recordatorio de caducidad al menos **12 meses antes de la fecha de caducidad** —no 6 meses. Esto te da tiempo para renovar con procesamiento estándar sin pagar por servicio expedito, y sin el estrés de un cronograma ajustado.
 
-Haz esto para cada pasaporte en tu hogar por separado. Los pasaportes de niños caducan más rápido —5 años en la mayoría de países versus 10 para adultos— y son los que más a menudo se pierden. **Saca hoy todos los pasaportes y comprueba la fecha de caducidad, no solo la página de la foto.**
+Haz esto para cada pasaporte en tu hogar por separado. Los pasaportes de niños caducan más rápido —a menudo 5 años frente a 10 para los adultos— y son los que más a menudo se pierden. **Saca hoy todos los pasaportes y comprueba la fecha de caducidad, no solo la página de la foto.**
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 
@@ -122,11 +122,11 @@ Solicita la renovación inmediatamente y paga por procesamiento expedito si tu v
 
 ### ¿Qué debo hacer si descubro que mi pasaporte está caducado en el aeropuerto?
 
-No podrás abordar. Ve al mostrador de la aerolínea inmediatamente para discutir reprogramación —algunas renuncian a tarifas de cambio para emergencias genuinas de documentos. Luego llama a tu autoridad de pasaportes y pregunta específicamente por opciones de cita de emergencia, ya que las citas más rápidas a menudo no aparecen en el sitio web.
+No podrás abordar. Ve al mostrador de la aerolínea inmediatamente para discutir reprogramación —pregunta si pueden cambiarte el vuelo sin cobrar una tarifa de cambio. Luego llama a tu autoridad de pasaportes y pregunta específicamente por opciones de cita de emergencia, ya que las citas más rápidas a menudo no aparecen en el sitio web.
 
 ### ¿Qué tan rápido puedo obtener un pasaporte de emergencia si el mío ha caducado?
 
-En el Reino Unido, un servicio Premium acelerado está disponible en oficinas de pasaportes designadas para emergencias genuinas —cita requerida, consulta el tiempo de procesamiento actual y la reserva en gov.uk. En Estados Unidos, citas de emergencia en persona están disponibles en agencias de pasaportes regionales para viajes urgentes —consulta las tarifas y disponibilidad actuales en travel.state.gov. En Australia, consulta passports.gov.au para opciones de procesamiento urgente.
+En el Reino Unido, un servicio Premium acelerado está disponible en oficinas de pasaportes designadas para emergencias genuinas —cita requerida, consulta el tiempo de procesamiento actual y la reserva en gov.uk. En Estados Unidos, consulta travel.state.gov para conocer las opciones para viajes urgentes, las tarifas actuales y la disponibilidad. En Australia, consulta passports.gov.au para opciones de procesamiento urgente.
 
 ### ¿Cómo evito que mi pasaporte caduque inesperadamente?
 

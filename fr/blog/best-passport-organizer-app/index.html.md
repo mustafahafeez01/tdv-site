@@ -39,7 +39,7 @@ Une violation d'une application sur l'appareil ne divulgue rien de leurs serveur
 
 ### Le délai de rappel est le réglage à personnaliser
 
-C'est la seule fonctionnalité la plus précieuse. Un rappel à 6 mois est le minimum — de nombreux pays exigent la validité du passeport pendant au moins 6 mois au-delà de vos dates de voyage, comme expliqué dans notre article sur la [règle des 6 mois du passeport](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/). Pour les familles avec des enfants dont les passeports expirent après 5 ans plutôt que 10, un rappel antérieur — disons 9 mois — offre un temps de planification plus confortable.
+C'est la seule fonctionnalité la plus précieuse. Un rappel à 6 mois est le minimum — de nombreux pays exigent la validité du passeport pendant au moins 6 mois au-delà de vos dates de voyage, comme expliqué dans notre article sur la [règle des 6 mois du passeport](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/). Les passeports des enfants sont souvent valables 5 ans plutôt que 10 — c’est le cas des passeports britanniques pour enfants —, donc un rappel plus précoce — disons 9 mois — offre un temps de planification plus confortable.
 
 ### Une seule application peut réunir toute la famille, en toute sécurité
 
@@ -70,7 +70,7 @@ Avant de télécharger, demandez-vous si l'application nécessite un compte, té
 | Nécessite Internet pour afficher les documents | Échoue quand vous en avez besoin — à une frontière ou en transit |
 | Pas de politique de confidentialité ou vague | Vous ne savez pas ce qu'il advient de vos scans |
 | Stockage cloud uniquement sans option sur l'appareil | Une violation de serveur expose les données de passeport de tous les utilisateurs |
-| Prix par abonnement pour les fonctionnalités de base | Les frais mensuels créent une pression pour annuler — et perdre l'accès à vos documents |
+| Prix par abonnement pour les fonctionnalités de base | Les frais mensuels incitent à résilier et, dans certaines applications, la résiliation bloque l'accès aux documents |
 
 Ce que cela signifie en pratique
 
@@ -78,9 +78,9 @@ Vous êtes à un poste frontalier, téléphone hors ligne, et l'agent d'immigrat
 
 ## Vérifiez ce qu'il advient de vos documents si un abonnement prend fin
 
-Il y a un argument pratique en faveur des applications d'achat unique par rapport aux abonnements en ce qui concerne le stockage de documents. Si vous oubliez de renouveler un abonnement — ou décidez simplement d'annuler — vous perdez l'accès à vos documents stockés. C'est un arrangement risqué pour quelque chose dont vous pourriez avoir besoin dans des années.
+Il y a un argument pratique en faveur des applications d'achat unique par rapport aux abonnements en ce qui concerne le stockage de documents. Avec certaines applications sur abonnement, oublier de renouveler ou décider de résilier peut vous faire perdre l'accès à vos documents stockés. C'est un arrangement risqué pour quelque chose dont vous pourriez avoir besoin dans des années.
 
-Une application à achat unique, en revanche, reste entièrement fonctionnelle indéfiniment. Vous payez une fois et l'application continue de fonctionner indépendamment du fait que le développeur la monétise toujours activement.
+Une application à achat unique n'a pas d'échéance de renouvellement susceptible de vous bloquer l'accès. Vous payez une fois, et vos documents restent sur votre appareil, accessibles comme avant.
 
 ## Comment Travel Document Vault aborde cela
 
@@ -124,7 +124,7 @@ Les meilleures applications d'organisation des passeports sont conçues pour fon
 
 ### Combien de temps avant l'expiration une application de passeport doit-elle me rappeler de renouveler ?
 
-Au minimum 6 mois avant l'expiration, car de nombreux pays exigent que votre passeport soit valide pendant au moins 6 mois au-delà de votre date de départ. Une bonne application vous permettra de définir les délais de rappel vous-même. Pour les familles avec des enfants dont les passeports expirent après 5 ans, fixer des rappels à 9 mois offre un temps de planification plus confortable.
+Au minimum 6 mois avant l'expiration, car de nombreux pays exigent que votre passeport soit valide pendant au moins 6 mois au-delà de votre date de départ. Une bonne application vous permettra de définir les délais de rappel vous-même. Pour les familles avec des enfants dont les passeports expirent souvent après 5 ans, fixer des rappels à 9 mois offre un temps de planification plus confortable.
 
 ### Quels documents une bonne application d'organisation des passeports doit-elle prendre en charge ?
 

@@ -12,8 +12,8 @@ Source: https://traveldocumentvault.com/nl/blog/travel-insurance-documents/
 
 - **Bewaar je volledige polisdocument, polisnummer en de 24-uurse noodlijn** (niet het verkoopnummer).
 - Bewaar kopieën offline en toegankelijk – alleen e-mail helpt niet als je gestrand bent of in een ziekenhuis.
-- **Voortoestemming voor medische behandeling is vereist door de meeste polissen**; dit overslaan kan je vordering verminderen of nietig verklaren.
-- Vorderingen worden het vaakst afgewezen vanwege ontbrekende documentatie: politierapport voor diefstal, originele bonnen, ondertekende claimformulieren.
+- **Veel polissen vragen je om vóór medische behandeling contact op te nemen met de verzekeraar**; dit overslaan kan je vordering verminderen of nietig verklaren.
+- Een veelvoorkomende reden dat vorderingen mislukken is ontbrekende documentatie: politierapport voor diefstal, originele bonnen, ondertekende claimformulieren.
 - Lees de belangrijkste secties van je polis snel door je op dekkingslimieten, uitsluitingen en voorwaarden te richten.
 
 Een reisverzekering telt het zwaarst op het moment dat ze het lastigst te raadplegen is: een ziekenhuisbalie in het buitenland, een politiebureau, een balie van de luchtvaartmaatschappij na een annulering. Wat dan telt is niet de polis zelf, maar of het nummer, de 24-uurslijn van de verzekeraar en het bewijs van dekking binnen handbereik zijn. Dit artikel behandelt wat vóór vertrek bewaard moet worden, waar het hoort te staan zodat het zonder internet opent, en welke meldingsfouten een uitkering het vaakst laten stranden.
@@ -34,7 +34,7 @@ Je verzekeringsdocumenten liggen bij wie je de verzekering heeft verkocht, dus b
 - **Het polisoverzicht of certificaat:** je naam, polisnummer, reisdata en dekkingsniveau
 - **Het 24-uurs noodnummer**, het nummer dat je belt vanuit een ziekenhuis of politiebureau in het buitenland
 
-Weet je helemaal niet meer of je een polis hebt afgesloten, controleer dan je bankrekening. De Britse Financial Ombudsman Service beschrijft een pakketbankrekening als een gewone rekening waarvoor je een maandelijkse vergoeding betaalt in ruil voor extra voordelen, waaronder reisverzekering. In dat geval heeft de bank, niet een reisverzekeraar, je documenten, dus kijk in de app, website of klantenservice van de bank.
+Weet je helemaal niet meer of je een polis hebt afgesloten, controleer dan je bankrekening. De Britse Financial Ombudsman Service beschrijft een pakketbankrekening als een gewone rekening waarvoor je een maandelijkse vergoeding betaalt in ruil voor extra voordelen, waaronder reisverzekering. In dat geval is de bank meestal de eerste plek om het te vragen, dus probeer de app, website of klantenservice van de bank.
 
 Zodra je ze hebt, adviseert het Britse ministerie van Buitenlandse Zaken (Foreign, Commonwealth and Development Office) om je polisgegevens mee te nemen, inclusief het polisnummer en het noodnummer van je verzekeraar. Het stelt ook voor die te delen met je medereizigers en familie thuis. Vind je nog steeds niets, bel dan de verzekeraar, of de bank bij een pakketverzekering, en vraag hen de documenten opnieuw te sturen voordat je vliegt, in plaats van nadat er iets fout is gegaan.
 
@@ -48,7 +48,7 @@ Je reisverzekeringspolisje is meestal een PDF. Dat ene bestand bevat alles wat j
 - Dekkingsoverzicht (dekkingslimieten voor medische zorg, bagage, annulering, enzovoort)
 - Sleuteluitsluitingen en voorwaarden (inclusief vereisten voor voortoestemming)
 
-Het polisnummer is van cruciaal belang. De telefoonsystemen van veel verzekeraars vereisen dit voordat je wordt doorverbonden met een mens. Als je het niet kunt opgeven, verspil je tijd met het zoeken naar documenten terwijl de klok tikt.
+Het polisnummer is van cruciaal belang. Houd je polisnummer bij de hand, want de verzekeraar vraagt er meestal als eerste naar. Als je het niet kunt opgeven, verspil je tijd met het zoeken naar documenten terwijl de klok tikt.
 
 De noodlijn verschilt van het klantenservicenummer, dat doorgaans alleen tijdens kantooruren bereikbaar is, terwijl de noodlijn 24/7 werkt. Bewaar beide, maar weet welke je in het midden van de nacht moet bellen als je gewond bent.
 
@@ -92,7 +92,7 @@ Zelfs als je je documenten bereikbaar hebt, kun je je vordering nog verliezen al
 
 ### Medische vorderingen: je hebt geen voortoestemming gekregen
 
-De meeste reisverzekeringspolissen vereisen voortoestemming voordat behandeling plaatsvindt. Dit betekent dat je je verzekeraar belt en goedkeuring krijgt voordat je naar een ziekenhuis of kliniek gaat. Vereisten verschillen per verzekeraar en polistype – controleer je specifieke polis op de afdeling medische behandeling. Als je deze stap overslaat en jezelf betaalt, krijg je je geld terug met het antwoord "behandeling was niet voorgetekend." Veel verzekeraars vergoeden zonder voortoestemming niet, zelfs als de behandeling noodzakelijk en gedekt was.
+Veel reisverzekeringspolissen vragen je contact op te nemen met de verzekeraar vóór behandeling, dus lees je polisvoorwaarden. Dit betekent meestal dat je je verzekeraar belt en goedkeuring krijgt voordat je naar een ziekenhuis of kliniek gaat. Vereisten verschillen per verzekeraar en polistype – controleer je specifieke polis op de afdeling medische behandeling. Als je deze stap overslaat en zelf betaalt, kunnen sommige verzekeraars de vordering verlagen of afwijzen, zelfs als de behandeling noodzakelijk en gedekt was.
 
 Stel dat je wordt opgenomen met een blindedarmontsteking in Mumbai. Het ziekenhuis vereist voorbetaling of een garantie van je verzekeraar, en je hebt een venster van twee uur voor de operatie. Zonder het voortoestemmingsnummer van je verzekeraar, eist het ziekenhuis contant. Dat laat je met twee slechte opties: nu betalen en een afgewezen vordering later riskeren, of operatie uitstellen terwijl je je verzekeraar achterna loopt. Een telefoontje voorkomt alles. Met een bevestigingsnummer in hand, stuurt het ziekenhuis de rekening rechtstreeks naar je verzekeraar.
 
@@ -100,7 +100,7 @@ Actie: voordat behandeling, bel de noodlijn op je polis en geef ze het ziekenhui
 
 ### Bagagevorderingen: je hebt geen politierapport
 
-Als je bagage wordt gestolen, verloren of beschadigd, vereisen de meeste polissen een politierapport van het vliegveld of het lokale bureau. Verzekeraars gebruiken dit als bewijs. Controleer je polis op de afdeling "Hoe een vordering in te dienen" voor exacte eisen, omdat deze per verzekeraar verschillen. Als je het politierapport overslaat en alleen naar het vliegveld meldt, weigeren veel verzekeraars omdat er geen officieel misdrijvenrapport is. Voor diefstal of verlies (niet eenvoudige beschadiging) is een politierapport doorgaans verplicht.
+Als je bagage wordt gestolen, verloren of beschadigd, vragen veel polissen om een politierapport van het vliegveld of het lokale bureau. Verzekeraars gebruiken dit als bewijs. Controleer je polis op de afdeling "Hoe een vordering in te dienen" voor exacte eisen, omdat deze per verzekeraar verschillen. Als je het politierapport overslaat en alleen naar het vliegveld meldt, kunnen sommige verzekeraars de vordering afwijzen omdat er geen officieel misdrijvenrapport is. Voor diefstal of verlies (niet eenvoudige beschadiging) vragen veel polissen om een politierapport, dus controleer de jouwe.
 
 Actie: als je bagage ontbreekt, meld het bij het verloren-en-gevonden bureau van het vliegveld. Als het diefstal is, dien dezelfde dag een politierapport in en zorg dat je een kopie hebt om met je vordering in te sturen.
 
@@ -112,7 +112,7 @@ Bewaar elke bon, zowel fysieke originelen als digitale kopieën. Fotografeer de 
 
 ### Annuleringsvorderingen: je hebt de kleine lettertjes niet gelezen
 
-Reisverzeking dekt reisannulering alleen als je voor een specifieke afdekte reden annuleert, wat per verzekeraar verschilt. Dat betekent meestal ziekte, verwonding of overlijden van een familielid. Het betekent zelden koude voeten, een gedachtewijziging of slecht weer, tenzij het weer je vervoer volledig onmogelijk maakt. Als je annuleert omdat de vliegtuigprijs daalde, dekken de meeste polissen je niet. Hoe coulant je verzekeraar hierin is, verschilt sterk, dus het loont om de sectie "reisannulering" goed door te lezen voordat je ervan uitgaat dat je gedekt bent.
+Reisverzeking dekt reisannulering alleen als je voor een specifieke afdekte reden annuleert, wat per verzekeraar verschilt. Dat betekent meestal ziekte, verwonding of overlijden van een familielid, maar controleer je polis voor de lijst. Het betekent zelden koude voeten, een gedachtewijziging of slecht weer, tenzij het weer je vervoer volledig onmogelijk maakt. Als je annuleert omdat de vliegtuigprijs daalde, dekken de meeste polissen je niet. Hoe coulant je verzekeraar hierin is, verschilt sterk, dus het loont om de sectie "reisannulering" goed door te lezen voordat je ervan uitgaat dat je gedekt bent.
 
 Actie: voordat je annuleert, controleer je polis op dekkingsdetails. Denk je dat je reden kwalificeert, bel je verzekeraar voordat je je vlucht annuleert. Zorg voor schriftelijke bevestiging van dekking van hen alvorens verder te gaan.
 
@@ -150,15 +150,15 @@ Twintig minuten nu, en je bent nergens naar op zoek in een noodsituatie.
 
 ### Moet ik mijn fysieke verzekeringspolisje meenemen op reis?
 
-Nee, je hebt het fysieke document niet nodig. Een digitale kopie op je telefoon of een foto is voldoende. De meeste verzekeraars en ziekenhuizen accepteren een digitale kopie of gewoon je polisnummer. Toch is een fysieke back-up (fotokopie of afdruk) verstandig voor het geval je telefoon leeg raakt. Nog eenvoudiger: schrijf je polisnummer en noodlijn op een kaartje bij je paspoort.
+Nee, je hebt het fysieke document niet nodig. Een digitale kopie op je telefoon of een foto is voldoende. Verzekeraars en ziekenhuizen vragen over het algemeen om je polisnummer, en een digitale kopie helpt meestal. Toch is een fysieke back-up (fotokopie of afdruk) verstandig voor het geval je telefoon leeg raakt. Nog eenvoudiger: schrijf je polisnummer en noodlijn op een kaartje bij je paspoort.
 
 ### Wat moet ik doen als ik de noodlijn van mijn verzekering in het buitenland niet kan bereiken?
 
-Noodlijnen van reisverzekeringsmaatschappijen accepteren doorgaans internationale telefoontjes van overal ter wereld. Controleer je polisje op een alternatief telefoonnummer voor gesprekken van buiten het thuisland van de verzekeraar. Kun je ze niet bereiken, ga dan door met behandeling en bewaar elke bon en alle papierwerk. Bel hen zo snel mogelijk, en controleer je polisje op zijn claimdatum. Wees ervan bewust dat doorgaan zonder voortoestemming je claim kan verminderen of afwijzen, dus probeer hen altijd eerst te bereiken.
+Controleer je polisje op een nummer dat vanuit het buitenland werkt, want gratis nummers doen dat vaak niet. Veel polissen vermelden een alternatief telefoonnummer voor gesprekken van buiten het thuisland van de verzekeraar. Kun je ze niet bereiken, ga dan door met behandeling en bewaar elke bon en alle papierwerk. Bel hen zo snel mogelijk, en controleer je polisje op zijn claimdatum. Wees ervan bewust dat doorgaan zonder voortoestemming je claim kan verminderen of afwijzen, dus probeer hen altijd eerst te bereiken.
 
 ### Wat moet ik doen als ik mijn verzekeringspolis op reis verlies?
 
-Als je je polisnummer hebt en de noodlijn van je verzekering kunt bellen, heb je verder niets nodig. Geef je polisnummer en persoonlijke gegevens via telefoon door en zij bevestigen je dekking. Heb je back-ups opgeslagen (digitale foto's, cloudkopieën of schriftelijke notities), gebruik die dan. De meeste verzekeraars houden gegevens bij en kunnen je polisje direct opnieuw versturen.
+Als je je polisnummer hebt en de noodlijn van je verzekering kunt bellen, heb je verder niets nodig. Geef je polisnummer en persoonlijke gegevens via telefoon door en zij bevestigen je dekking. Heb je back-ups opgeslagen (digitale foto's, cloudkopieën of schriftelijke notities), gebruik die dan. Verzekeraars kunnen je dekking over het algemeen bevestigen aan de hand van je polisnummer en de documenten opnieuw sturen.
 
 ### Welke secties van een verzekeringspolis moet ik werkelijk lezen?
 
@@ -166,7 +166,7 @@ Concentreer je op: dekkingsoverzicht of schema (je uitkeringslimieten), uitsluit
 
 ### Werkt reisverzeking in elk land waar ik naar toe reis?
 
-Reisverzeking beschermt je in de meeste landen ter wereld tijdens je reis, maar sommige polissen sluiten bepaalde bestemmingen, regio's of activiteiten uit. Controleer je polisje op geografische dekkingsbeperkingen. Zolang je bestemming niet expliciet als uitgesloten staat vermeld, dekt je polisje je daar, ongeacht welk land de polisje heeft uitgegeven. Activiteiten met een hoog risico (bergbeklimmen, professionele sporten) kunnen aparte uitsluitingen hebben.
+Reisverzeking beschermt je in de meeste landen ter wereld tijdens je reis, maar sommige polissen sluiten bepaalde bestemmingen, regio's of activiteiten uit. Controleer je polisje op geografische dekkingsbeperkingen. De dekking verschilt per polis, dus controleer de sectie over geografische dekking op uitgesloten bestemmingen. Activiteiten met een hoog risico (bergbeklimmen, professionele sporten) kunnen aparte uitsluitingen hebben.
 
 ## Gerelateerde artikelen
 

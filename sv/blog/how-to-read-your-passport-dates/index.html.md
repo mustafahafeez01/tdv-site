@@ -36,7 +36,7 @@ Om du bara tar med dig en sak från den här sidan, låt det vara den skevheten:
 
 Många söker efter vad "date of expedition" betyder på ett pass, och svaret är skönt oskyldigt: det betyder utfärdandedatum.
 
-Uttrycket kommer från spanska och portugisiska. *Fecha de expedición* och *data de expedição* översätts båda bokstavligen till expeditionsdatum, och översatta blanketter för med sig den formuleringen utan att någon fångar upp det. Samma fält heter *date de délivrance* på franska, *data di rilascio* på italienska, *Ausstellungsdatum* på tyska, *datum van afgifte* på nederländska och *utfärdandedatum* på svenska.
+Uttrycket kommer från spanska och portugisiska. *Fecha de expedición* och *data de expedição* översätts båda bokstavligen till expeditionsdatum, och översatta blanketter för med sig den formuleringen utan att någon fångar upp det.
 
 Alla betyder samma sak, och ingen av dem betyder sista giltighetsdag. Om en blankett frågar efter ett expeditionsdatum vill den ha det tidigare av dina två datum.
 
@@ -60,7 +60,7 @@ Utfärdandedatumet slutar vara en detalj i samma stund som ett land kontrollerar
 
 Brittiska pass utfärdade nyligen har inte längre de här extra månaderna, men äldre pass som har dem är fortfarande i omlopp och används fortfarande.
 
-Schengenländer tillämpar två separata tester på ett pass utanför EU vid gränsen: det måste ha utfärdats mindre än tio år innan datumet du anländer, och det måste vara giltigt i minst tre månader efter att du tänker lämna landet. Ett pass med nio extra månader kan klara det andra testet utan problem och ändå misslyckas med det första, vilket är ett svårt samtal att ha vid en disk i Madrid med en handling som inte har gått ut.
+Schengenländer tillämpar i regel två separata tester på ett pass utanför EU vid gränsen: det måste ha utfärdats mindre än tio år innan datumet du anländer, och det måste vara giltigt i minst tre månader efter att du tänker lämna landet. Ett pass med nio extra månader kan klara det andra testet utan problem och ändå misslyckas med det första, vilket är ett svårt samtal att ha vid en disk i Madrid med en handling som inte har gått ut.
 
 Vi skulle kontrollera båda datumen inför en Europaresa, inte bara det längst ner.
 
@@ -68,11 +68,11 @@ Vi skulle kontrollera båda datumen inför en Europaresa, inte bara det längst 
 
 Nära toppen av datasidan sitter en trebokstavskod för utfärdandelandet. Längre ner, oftast i ett eget fält, sitter den utfärdande myndigheten: kontoret eller avdelningen som faktiskt tillverkade passet.
 
-Landet spelar större roll än folk tror. Det avgör vilket lands konsulära nätverk du vänder dig till om ett pass förloras eller stjäls.
+Landet spelar större roll än folk tror. Det avgör i regel vilket lands konsulära nätverk du vänder dig till om ett pass förloras eller stjäls.
 
 Det är sällan landet du råkar befinna dig i.
 
-Landet avgör också vilka inreseregler som gäller för dig, vilket är hela anledningen till att personer med dubbelt medborgarskap noga överväger vilket pass de visar upp. Vill du ha den praktiska versionen av det går vi igenom det i [vad du gör när ett pass försvinner utomlands](https://traveldocumentvault.com/sv/blog/lost-passport-abroad/).
+Landet avgör också i regel vilka inreseregler som gäller för dig, vilket är hela anledningen till att personer med dubbelt medborgarskap noga överväger vilket pass de visar upp. Vill du ha den praktiska versionen av det går vi igenom det i [vad du gör när ett pass försvinner utomlands](https://traveldocumentvault.com/sv/blog/lost-passport-abroad/).
 
 Fältet för utfärdande myndighet är mest användbart för blanketter. Vissa ansökningar vill ha det ordagrant, andra godtar landet, och att kopiera det exakt går snabbare än att gissa.
 
@@ -88,7 +88,7 @@ Inget av det är dramatiskt i sig. Det blir dramatiskt när ett boardingkort och
 
 Datasidan är den styva laminerade sidan med ditt fotografi, och dess layout är internationellt standardiserad snarare än uppfunnen av varje land för sig. Det är därför ett pass från vilket land som helst går att läsa för en gränskontrollant var som helst, och varför du kan läsa alla pass så fort du kan läsa ett.
 
-De två raderna med tecken och vinklade streck längst ner är den maskinläsbara zonen. De upprepar en del av sidan ovanför i ett format en skanner kan läsa i ett svep, men inte allt: sista giltighetsdag finns med, utfärdandedatumet gör det inte. Skador där tas på mycket större allvar än ett skrapmärke på omslaget. Vi går igenom var den raden sitter i [att resa med ett skadat pass](https://traveldocumentvault.com/sv/blog/damaged-passport-travel/).
+De två raderna med tecken och vinklade streck längst ner är den maskinläsbara zonen. De upprepar en del av sidan ovanför i ett format en skanner kan läsa i ett svep, men inte allt: sista giltighetsdag finns med. Kontrollera i ditt eget pass exakt vilka uppgifter zonen återger. Skador där tas på mycket större allvar än ett skrapmärke på omslaget. Vi går igenom var den raden sitter i [att resa med ett skadat pass](https://traveldocumentvault.com/sv/blog/damaged-passport-travel/).
 
 Om etiketterna på din egen datasida inte är på svenska hjälper geometrin ändå: de två datumen är tryckta tillsammans, i samma format, och sista giltighetsdag är det senare av de två.
 
@@ -108,11 +108,11 @@ Nej. Utfärdandedatum är när passet tillverkades, och sista giltighetsdag är 
 
 ### Vad betyder utfärdandeland på ett pass?
 
-Utfärdandelandet är staten som utfärdade passet, visat som en trebokstavskod nära toppen av datasidan. Det avgör vilken ambassad eller vilket konsulat som kan hjälpa dig om passet förloras utomlands, och vilka inreseregler som gäller när du visar upp det.
+Utfärdandelandet är staten som utfärdade passet, visat som en trebokstavskod nära toppen av datasidan. Det avgör i regel vilken ambassad eller vilket konsulat som kan hjälpa dig om passet förloras utomlands, och vilka inreseregler som vanligtvis gäller när du visar upp det.
 
 ### Ändras mitt passnummer när jag förnyar passet?
 
-Ja. Varje nytt pass har ett nytt nummer. Allt som är registrerat mot det gamla numret stannar kvar på det gamla numret, inklusive redan utfärdade visum, flygbolagsprofiler och bokningar gjorda före förnyelsen, så de behöver i regel uppdateras separat.
+I regel, ja. Ett nytt pass har vanligtvis ett nytt nummer. Allt som är registrerat mot det gamla numret stannar kvar på det gamla numret, inklusive redan utfärdade visum, flygbolagsprofiler och bokningar gjorda före förnyelsen, så de behöver i regel uppdateras separat.
 
 ### Hur vet jag när mitt pass går ut?
 

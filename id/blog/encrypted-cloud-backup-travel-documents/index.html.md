@@ -26,9 +26,9 @@ Enkripsi mengacak sebuah file sehingga hanya kunci yang cocok yang bisa mengubah
 
 Ada dua model yang sama-sama dijual sebagai cadangan terenkripsi, dan keduanya bekerja dengan sangat berbeda.
 
-Model pertama mengirim file ke server perusahaan melalui koneksi terenkripsi, lalu menyimpannya dalam keadaan terenkripsi saat disimpan. Kedua pernyataan itu benar, dan keduanya terdengar meyakinkan. Tetapi perusahaan tetap memegang kuncinya, sehingga bisa mendekripsi dokumen Anda kapan pun diperlukan: untuk menjalankan sebuah fitur, untuk menjawab permintaan hukum, atau karena seseorang di dalam perusahaan itu membuat kesalahan. Pindaian paspor Anda tetap bisa dibaca di ujung sana.
+Model pertama mengirim file ke server perusahaan melalui koneksi terenkripsi, lalu menyimpannya dalam keadaan terenkripsi saat disimpan. Kedua pernyataan itu benar, dan keduanya terdengar meyakinkan. Tetapi perusahaan tetap memegang kuncinya, sehingga secara teknis bisa mendekripsi dokumen Anda, baik untuk menjalankan fitur, memenuhi permintaan hukum, maupun akibat kesalahan internal. Pindaian paspor Anda tetap bisa dibaca di ujung sana.
 
-Model kedua mengacak file di ponsel Anda sebelum dikirim ke mana pun, menggunakan kunci yang diturunkan dari sesuatu yang hanya Anda miliki. Yang sampai ke penyimpanan hanyalah blok data acak, dan tidak ada yang di ujung sana bisa membacanya, karena tidak ada yang memegang kuncinya di sana. Model ini biasanya disebut terenkripsi end-to-end, atau zero-knowledge.
+Model kedua mengacak file di ponsel Anda sebelum dikirim ke mana pun, menggunakan kunci yang diturunkan dari sesuatu yang hanya Anda miliki. Yang sampai ke penyimpanan hanyalah blok data acak, dan tidak ada yang di ujung sana bisa membacanya, karena tidak ada yang memegang kuncinya di sana. Model ini sering disebut terenkripsi end-to-end, atau zero-knowledge.
 
 Jadi pertanyaan yang layak diajukan pada aplikasi mana pun cukup singkat: **siapa yang memegang kuncinya?** Semua hal lain dalam materi pemasarannya mengikuti jawaban itu.
 
@@ -55,7 +55,7 @@ Jadi perlakukan kode itu sebagai satu hal yang harus benar-benar Anda urus denga
 
 Semuanya sepenuhnya tergantung pada bentuk file yang sampai ke cloud, dan itu pertanyaan tentang aplikasinya, bukan tentang cloud itu sendiri.
 
-Foto paspor Anda di galeri foto biasa atau folder yang tersinkron akan sampai dalam bentuk yang bisa dibaca. Foto itu tersimpan di akun yang dilindungi kata sandi yang mungkin sudah Anda pakai berulang kali di tempat lain. Foto itu diindeks dan dibuat thumbnail-nya, dan siapa pun yang berhasil masuk ke akun itu akan melihat salinan bersih dari halaman identitas Anda. Kami sudah membahas seperti apa risiko ini sebenarnya dalam [menyimpan paspor di Google Foto](https://traveldocumentvault.com/id/blog/is-it-safe-to-store-passport-in-google-photos/). Itu risiko yang nyata, dan itulah kondisi yang dijalani sebagian besar keluarga tanpa pernah benar-benar memilihnya.
+Foto paspor Anda di galeri foto biasa atau folder yang tersinkron akan sampai dalam bentuk yang bisa dibaca. Foto itu tersimpan di akun yang dilindungi kata sandi yang mungkin sudah Anda pakai berulang kali di tempat lain. Bergantung pada layanannya, foto itu mungkin diindeks atau ditampilkan sebagai thumbnail, dan siapa pun yang berhasil masuk ke akun itu akan melihat salinan bersih dari halaman identitas Anda. Kami sudah membahas seperti apa risiko ini sebenarnya dalam [menyimpan paspor di Google Foto](https://traveldocumentvault.com/id/blog/is-it-safe-to-store-passport-in-google-photos/). Itu risiko yang nyata, dan itulah kondisi yang dijalani sebagian besar keluarga tanpa pernah benar-benar memilihnya.
 
 Vault yang dienkripsi di perangkat sebelum diunggah akan sampai sebagai ciphertext. Orang yang berhasil membobol akun cloud hanya menemukan file yang tidak bisa dibukanya. Perlindungan itu melekat pada file itu sendiri, bukan bergantung pada akun tempat file itu berlabuh.
 
@@ -82,7 +82,7 @@ Waktu pemulihan bergantung pada ukuran vault dan koneksi Anda.
 
 Pasang aplikasi di ponsel baru dan masuk dengan akun iCloud atau Google yang sama seperti sebelumnya. Dengan Pro dan cadangan cloud nonaktif di perangkat penerima, buka Pengaturan, Cadangan Awan, lalu Pulihkan dari Cadangan. Pilih vault yang sudah ada, masukkan kode pemulihan Anda, dan konfirmasi pemulihan yang akan menggantikan isi vault lokal. Profil, dokumen, dan tanggal kedaluwarsa dipulihkan; notifikasi dibuat ulang di perangkat penerima.
 
-Aplikasi juga memeriksa sebelum menulis apa pun. Jika cadangan cloud mendeteksi ada cadangan yang sudah ada di akun itu, aplikasi akan meminta Anda memilih antara memulihkan atau memulai dari awal. Ponsel baru tidak bisa diam-diam menimpa apa yang sudah ada di sana.
+Aplikasi juga memeriksa sebelum menulis apa pun. Jika cadangan cloud menemukan cadangan yang dibuat dengan kode pemulihan yang sama, aplikasi meminta Anda memilih untuk menggabungkannya atau memulai dari awal, sehingga ponsel baru tidak bisa diam-diam menimpa cadangan yang sudah ada. Memulai dari awal tetap membiarkan cadangan lainnya tersimpan.
 
 ### Berpindah Antara iPhone dan Android Berarti Memakai Ekspor Brankas
 

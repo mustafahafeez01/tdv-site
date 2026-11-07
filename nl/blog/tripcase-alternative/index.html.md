@@ -10,21 +10,21 @@ Source: https://traveldocumentvault.com/nl/blog/tripcase-alternative/
 
 ## Belangrijkste punten
 
-- **TripCase ging op 1 april 2025 offline** na 12 jaar, en Sabre verwijderde alle resterende gebruikersgegevens nadat het exportvenster op 30 juni 2025 sloot.
-- De functie **Document Vault** – één veilige plek voor paspoorten, visa en instapkaarten – is het onderdeel dat voormalige gebruikers het meest missen.
+- **TripCase ging op 1 april 2025 offline** en de melding van Sabre gaf gebruikers tot 30 juni 2025 om hun reizen te downloaden voordat de resterende gegevens werden verwijderd.
+- De functie **Document Vault** – één veilige plek voor paspoorten, visa en instapkaarten – is een functie die voormalige gebruikers vaak noemen.
 - **Geen enkele app vervangt TripCase volledig.** Vluchtmeldingen, reisplanverwerking en documentopslag leven nu in verschillende tools.
-- De echte les: een gratis clouddienst houdt **je gegevens op geleende tijd**. Ze kan verdwijnen met ongeveer 60 dagen kennisgeving.
+- De echte les: een gratis clouddienst houdt **je gegevens op geleende tijd**. Ze kan verdwijnen met een paar maanden kennisgeving.
 - Reisdocumenten horen **offline, op je eigen toestel** – ergens waar geen bedrijfsbeslissing, storing of sluiting ze kan bereiken.
 
-TripCase was twaalf jaar lang het stille werkpaard onder de reisapps. Stuur een bevestigingsmail door en je reis bouwde zichzelf op; de app waarschuwde je voor gatewijzigingen nog vóór sommige luchtvaartmaatschappijen dat zelf deden; en de Document Vault hield paspoorten, visa en instapkaarten op één plek. Toen, op 1 april 2025, sloot Sabre de dienst, en zodra het exportvenster op 30 juni sloot, werden de resterende reisgeschiedenis en documenten van elke gebruiker van hun servers gewist.
+TripCase was jarenlang het stille werkpaard onder de reisapps. Stuur een bevestigingsmail door en je reis bouwde zichzelf op; de app waarschuwde je voor gatewijzigingen nog vóór sommige luchtvaartmaatschappijen dat zelf deden; en de Document Vault hield paspoorten, visa en instapkaarten op één plek. Toen, op 1 april 2025, sloot Sabre de dienst, en de melding van Sabre, zoals destijds gemeld, gaf gebruikers tot 30 juni 2025 om hun reizen te downloaden voordat de resterende gegevens werden verwijderd.
 
-Vijftien maanden later zoeken voormalige gebruikers nog steeds naar een vervanging. Het eerlijke antwoord is dat geen enkele app hem volledig vervangt. Maar het echte verhaal gaat niet over welke app je moet kiezen – het gaat over waar je documenten zouden moeten leven.
+Ruim een jaar later heeft geen enkele app zijn plaats ingenomen. Het eerlijke antwoord is dat geen enkele app hem volledig vervangt. Maar het echte verhaal gaat niet over welke app je moet kiezen – het gaat over waar je documenten zouden moeten leven.
 
 ## TripCase was jarenlang de standaard, tot Sabre de stekker eruit trok
 
-TripCase bestond al sinds 2013, een gratis reisbegeleider van Sabre Corporation – het bedrijf dat een groot deel van de wereldwijde boekingssystemen voor luchtvaartmaatschappijen en reisbureaus draait. Dankzij die connectie verschenen reizen vaak automatisch in de app. Meer dan tien jaar lang vertrouwden zakenreizigers en gezinnen erop om vluchten, hotels en huurauto's in één chronologisch overzicht samen te brengen. Niet spectaculair, maar het werkte.
+TripCase was een gratis reisbegeleider van Sabre Corporation, een groot technologiebedrijf voor boekingssystemen van luchtvaartmaatschappijen en reisbureaus. Dankzij die connectie verschenen reizen vaak automatisch in de app. Jarenlang vertrouwden zakenreizigers en gezinnen erop om vluchten, hotels en huurauto's in één chronologisch overzicht samen te brengen. Niet spectaculair, maar het werkte.
 
-Toen de sluiting kwam, hadden gebruikers tot 30 juni 2025 om hun geschiedenis te exporteren. Meerdere gebruikers omschreven het exportproces als verwarrend en onvolledig, en sommigen ontdekten te laat dat jaren aan reisgegevens niet waren meegenomen. Nadat het exportvenster op 30 juni 2025 sloot, verwijderde Sabre alle resterende reis- en reizigersgegevens, en die zijn niet meer terug te halen.
+Toen de sluiting kwam, hadden gebruikers tot 30 juni 2025 om hun geschiedenis te exporteren. Sommige gebruikers omschreven het exportproces als verwarrend of onvolledig. Sabre zei de resterende gegevens te verwijderen na het downloadvenster, dus wat je niet hebt geëxporteerd, is waarschijnlijk niet meer terug te halen.
 
 ## Wat TripCase-gebruikers echt kwijtraakten
 
@@ -32,15 +32,15 @@ TripCase vond niet veel nieuws uit, maar perfectioneerde een handvol werkstromen
 
 De kern was **het verwerken van bevestigingsmails naar reisplannen** – stuur elke bevestiging van luchtvaartmaatschappij, hotel of autoverhuur door, en de app zette het om in een chronologische reis met datums en boekingsreferenties. Nul handmatige invoer betekende een volledig reisplan in seconden, en dat is precies waarom mensen tien jaar bleven.
 
-**Realtime vluchtmeldingen** kwamen er meteen bij: vertragingen, gatewijzigingen en annuleringen, vaak nog vóór de melding van de luchtvaartmaatschappij zelf. TripIt rekent nu voor de equivalente functie via het Pro-abonnement, terwijl TripCase deze gratis aan iedereen aanbood.
+**Realtime vluchtmeldingen** kwamen er meteen bij: vertragingen en gatewijzigingen, vaak nog vóór de melding van de luchtvaartmaatschappij zelf. TripIt rekent nu voor de equivalente functie via het Pro-abonnement.
 
-Die vluchten, hotels en grondvervoer leefden allemaal in **de reistijdlijn** – één scrollbare stapel per reis. Simpel, maar als je ooit een meerstedenreis van een week hebt moeten jongleren op basis van een dozijn bevestigingsmails, begrijp je waarom dat belangrijk was. In forumdraden op FlyerTalk en elders noemen voormalige gebruikers steevast de **Document Vault** als het meest gemiste onderdeel – die ene veilige plek voor instapkaarten, visa, paspoorten en bevestigingen. Tot slot liet **reisdeling** familieleden of collega's meekijken zonder doorgestuurde mails.
+Die vluchten, hotels en grondvervoer leefden allemaal in **de reistijdlijn** – één scrollbare stapel per reis. Simpel, maar als je ooit een meerstedenreis van een week hebt moeten jongleren op basis van een dozijn bevestigingsmails, begrijp je waarom dat belangrijk was. In forumdraden op FlyerTalk en elders noemen sommige voormalige gebruikers de **Document Vault** onder de functies die ze missen – die ene veilige plek voor instapkaarten, visa, paspoorten en bevestigingen. Tot slot liet **reisdeling** familieleden of collega's meekijken zonder doorgestuurde mails.
 
 ## Een cloud-app laat je gegevens op andermans klok staan
 
 Als je je reisleven opbouwt rond een gratis cloud-app, huur je ruimte die de eigenaar op elk moment kan terugnemen.
 
-TripCase bestond lang genoeg dat mensen het als permanente infrastructuur behandelden, met jarenlang uploaden van gegevens en documenten in de veronderstelling dat het er altijd zou zijn. Toen maakte Sabre de rekensom, besloot dat de app niet tot de kernactiviteiten behoorde, en verdween tien jaar aan gebruikersgegevens volgens een tijdpad dat Sabre zelf koos.
+TripCase bestond lang genoeg dat mensen het als permanente infrastructuur behandelden, met jarenlang uploaden van gegevens en documenten in de veronderstelling dat het er altijd zou zijn. Toen besloot Sabre de app af te bouwen, en de gebruikersgegevens verdwenen volgens een tijdpad dat Sabre zelf bepaalde.
 
 Niets hiervan komt voort uit kwade bedoelingen; het is gewoon hoe zakelijke beslissingen werken. Reisapps stoppen regelmatig, gratis niveaus verdwijnen achter betaalmuren, en diensten worden stopgezet. De persoon die geen inspraak heeft in de timing, ben jij.
 
@@ -54,11 +54,11 @@ TripCase bundelde verschillende taken in één gratis app. Geen enkele huidige a
 
 | De taak | Wat TripCase deed | Beste vervanging nu | Kosten |
 |---|---|---|---|
-| Vluchtmeldingen | Realtime vertragingen, gatewijzigingen, annuleringen | Flighty | Gratis niveau; betaald abonnement beschikbaar |
+| Vluchtmeldingen | Realtime vertragingen en gatewijzigingen | Flighty | Gratis niveau; betaald abonnement beschikbaar |
 | Verwerking van bevestigingsmails naar reisplan | Stuur een bevestiging door, de reis bouwt zichzelf op | TripIt of Tripsy | TripIt heeft een gratis niveau; check de site voor actuele Pro-prijzen |
-| Reistijdlijn | Eén chronologisch overzicht per reis | TripIt of Tripsy | Inbegrepen bij bovenstaande |
+| Reistijdlijn | Eén chronologisch overzicht per reis | TripIt | Inbegrepen bij bovenstaande |
 | Opslag van reisdocumenten | De Document Vault: paspoorten, visa, instapkaarten | Travel Document Vault | Eenmalige aankoop, geen abonnement |
-| Reisdeling | Volgers zagen je actuele reisplan | TripIt-deling, of een gedeelde map | Gratis |
+| Reisdeling | Volgers zagen je actuele reisplan | TripIt-deling (check welk abonnement), of een gedeelde map | Verschilt per abonnement |
 
 Vluchtmeldingen en reisplanverwerking zijn gemakken – echt nuttige ook – en horen thuis in de cloud omdat ze alleen belangrijk zijn zolang een reis actueel is. Documentopslag is anders: dat is de ene taak waarbij verloren toegang je daadwerkelijk iets kost dat je niet opnieuw kunt plannen.
 
@@ -76,7 +76,7 @@ Het verstandige antwoord op de ondergang van TripCase is niet om cloudtools hele
 
 TripCase is verdwenen, en de functies ervan zijn nu verspreid over andere apps. Maar er is één les die het onthouden waard is: je reisdocumenten horen niet te sterven met andermans server.
 
-Begin vandaag nog met een eenvoudige inventarisatie: waar leeft elke scan van je paspoort, elk visum-PDF, elk ID van je kind op dit moment, en wat gebeurt daarmee als die dienst met 60 dagen kennisgeving verdwijnt? Onze [checklist voor reisdocumenten](https://traveldocumentvault.com/nl/blog/travel-document-checklist/) is een praktisch startpunt.
+Begin vandaag nog met een eenvoudige inventarisatie: waar leeft elke scan van je paspoort, elk visum-PDF, elk ID van je kind op dit moment, en wat gebeurt daarmee als die dienst met een paar maanden kennisgeving verdwijnt? Onze [checklist voor reisdocumenten](https://traveldocumentvault.com/nl/blog/travel-document-checklist/) is een praktisch startpunt.
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 
@@ -84,15 +84,15 @@ Begin vandaag nog met een eenvoudige inventarisatie: waar leeft elke scan van je
 
 ### Wanneer ging TripCase offline?
 
-TripCase ging op 1 april 2025 offline nadat moederbedrijf Sabre Corporation besloot de dienst te stoppen. Gebruikers hadden tot 30 juni 2025 om hun reisgegevens te exporteren voordat alle gegevens permanent van Sabre's servers werden verwijderd.
+TripCase ging op 1 april 2025 offline nadat moederbedrijf Sabre Corporation besloot de dienst te stoppen. De melding van Sabre, zoals destijds gemeld, gaf gebruikers tot 30 juni 2025 om hun reizen te downloaden voordat de resterende gegevens werden verwijderd.
 
 ### Kan ik na de sluiting nog bij mijn TripCase-gegevens?
 
-Nee. Sabre verwijderde alle gebruikersgegevens nadat het exportvenster op 30 juni 2025 sloot. Als je je reizen vóór die datum hebt geëxporteerd, heb je nog steeds dat exportbestand, maar de gegevens op Sabre's servers zijn definitief verdwenen. Veel gebruikers meldden dat het exportproces onvolledig was, waardoor delen van de reisgeschiedenis verloren gingen.
+Over het algemeen niet. Sabre zei de resterende gegevens te verwijderen na het downloadvenster, dat liep tot 30 juni 2025. Als je je reizen vóór die datum hebt geëxporteerd, heb je nog steeds dat exportbestand. Sommige gebruikers meldden dat het exportproces onvolledig was, waardoor delen van de reisgeschiedenis mogelijk niet meer te herstellen zijn.
 
 ### Wat is het beste TripCase-alternatief voor vluchtmeldingen?
 
-Flighty is de meest directe vervanger voor realtime vluchtmeldingen. De app volgt vertragingen, gatewijzigingen en annuleringen, en kan vluchten uit je agenda halen zonder handmatige invoer. De app biedt momenteel een gratis niveau, met een betaald abonnement voor de volledige functieset.
+Flighty is de meest directe vervanger voor realtime vluchtmeldingen. De app volgt vertragingen en gatewijzigingen, en kan vluchten uit je agenda halen zonder handmatige invoer. De app biedt momenteel een gratis niveau, met een betaald abonnement voor de volledige functieset.
 
 ### Is er één app die alles van TripCase vervangt?
 

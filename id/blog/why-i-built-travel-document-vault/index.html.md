@@ -12,7 +12,7 @@ Saya sedang berada di antrian imigrasi ketika petugas melihat paspor putri saya,
 
 "Anda tahu ini kedaluwarsa dalam tujuh bulan, kan?" katanya. "Sekadar memberi tahu, beberapa negara tidak akan mengizinkan Anda masuk dengan masa berlaku kurang dari enam bulan."
 
-Saya berterima kasih kepadanya. Kami baik-baik saja, hanya dengan sedikit kelonggaran. Namun sepanjang perjalanan saya terus berpikir: jika dia tidak mengatakannya, saya tidak akan pernah memperhatikan. Tujuh bulan terasa cukup lama. Saya sudah memeriksa paspor sebelum memesan tiket. Saya hanya benar-benar lupa tentang aturan enam bulan yang diterapkan oleh sebagian besar negara.
+Saya berterima kasih kepadanya. Kami baik-baik saja, hanya dengan sedikit kelonggaran. Namun sepanjang perjalanan saya terus berpikir: jika dia tidak mengatakannya, saya tidak akan pernah memperhatikan. Tujuh bulan terasa cukup lama. Saya sudah memeriksa paspor sebelum memesan tiket. Saya hanya benar-benar lupa tentang aturan enam bulan yang diterapkan oleh banyak negara.
 
 Kejadian hampir celaka itu terus terngiang di benak saya. Saya sudah mengatur pengingat kalender untuk tanggal kedaluwarsa paspor semua orang. Saya pikir itu sudah cukup. Namun sebenarnya saya tidak benar-benar memeriksa tanggalnya, saya hanya mengandalkan pengingat tersebut. Dan ketika seseorang memperbarui paspornya, saya harus memperbarui pengingat, memperbarui scan di Google Drive, dan berharap tidak ada yang terlewat.
 
@@ -68,11 +68,11 @@ Izin kerja jika Anda tinggal di luar negeri. Visa dan kartu residensi yang membu
 
 Semuanya memiliki tanggal kedaluwarsa. Semuanya penting di saat yang paling tidak tepat. Tidak ada yang mengingatkan Anda sampai terlambat, atau Anda sudah berdiri di kedutaan dan menyadari visa Anda kedaluwarsa bulan lalu.
 
-Aplikasi ini menangani semuanya. Apa pun yang memiliki tanggal kedaluwarsa, paspor, visa, izin kerja, asuransi, SIM, apa pun yang dibutuhkan keluarga Anda, satu tempat, terlacak, teratur.
+Aplikasi ini menangani semuanya. Paspor, visa, kartu identitas, dan asuransi punya jenis dokumennya sendiri, dan apa pun yang punya tanggal kedaluwarsa, seperti izin kerja atau SIM, masuk ke Lainnya, satu tempat, terlacak, teratur.
 
 ## Ketika sesuatu berjalan salah di luar negeri
 
-Paspor hilang dan dicuri di luar negeri setiap hari, dan mengurus penggantinya dari negara lain adalah proses yang lambat. Jika itu terjadi pada Anda di luar negeri, Anda tidak memulai dari nol.
+Paspor memang hilang dan dicuri di luar negeri, dan mengurus penggantinya dari negara lain adalah proses yang lambat. Jika itu terjadi pada Anda di luar negeri, Anda tidak memulai dari nol.
 
 Nomor dokumen, tanggal kedaluwarsa, scan yang jelas, semuanya siap ketika Anda perlu membuat laporan atau menghubungi kedutaan. Ini tidak menggantikan dokumen asli Anda, namun memberi Anda apa yang Anda butuhkan untuk melangkah maju dengan cepat. Tanpa Wi-Fi, tanpa kepanikan.
 

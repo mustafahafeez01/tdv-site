@@ -36,13 +36,13 @@ Due cose restano fuori da quella lettera e vale la pena portarle insieme ad essa
 
 La custodia esclusiva cambia quale documento conta, non elimina il bisogno di averne uno. Quando un tribunale ti ha assegnato la custodia esclusiva o la responsabilità genitoriale esclusiva, il documento più utile alla frontiera è spesso il provvedimento di affidamento stesso, o una sua copia autenticata, piuttosto che una lettera dell'altro genitore. Molte autorità di frontiera lo accettano al posto di una lettera di consenso, e alcune chiedono comunque di vederlo insieme a una lettera. Se il provvedimento lascia all'altro genitore diritti di contatto o di visita, vale comunque la pena portare con sé una lettera da parte sua.
 
-Viaggia con il provvedimento, o con una sua copia autenticata. Non serve a nulla chiuso in un archivio a casa. Gli ufficiali che fanno domande di solito cercano una risposta semplice a una domanda: questo adulto ha il diritto legale di prendere questa decisione per questo bambino. Una copia autenticata risponde in pochi secondi, e se il tuo assetto di custodia è cambiato di recente, vale la pena verificare se la tua destinazione si aspetta una copia più aggiornata di quella che porti con te da anni.
+Viaggia con il provvedimento, o con una sua copia autenticata. Non serve a nulla chiuso in un archivio a casa. Gli ufficiali che fanno domande di solito cercano una risposta semplice a una domanda: questo adulto ha il diritto legale di prendere questa decisione per questo bambino. Una copia autenticata di solito è rapida da verificare, e se il tuo assetto di custodia è cambiato di recente, vale la pena verificare se la tua destinazione si aspetta una copia più aggiornata di quella che porti con te da anni.
 
 ## Quando l'Altro Genitore È Deceduto: il Certificato di Morte Sostituisce la Lettera
 
-Non c'è nessuna lettera di consenso da scrivere quando l'altro genitore è deceduto, e nessun ufficiale di frontiera se ne aspetta una. Ciò che porti al suo posto è una copia del certificato di morte, che risponde alla domanda a cui altrimenti risponderebbe una lettera di consenso: perché è presente un solo genitore.
+Non c'è nessuna lettera di consenso da scrivere quando l'altro genitore è deceduto, e la maggior parte degli ufficiali di frontiera non se ne aspetta una. Ciò che porti al suo posto è una copia autenticata del certificato di morte, che risponde alla domanda a cui altrimenti risponderebbe una lettera di consenso: perché è presente un solo genitore.
 
-Tieni la copia autenticata insieme ai passaporti piuttosto che in un fascicolo separato a casa, perché è l'unico documento qui che non puoi sostituire rapidamente se va perso a metà del viaggio. Una copia stampata più un backup digitale cifrato copre sia una valigia smarrita sia un telefono che non si accende. Se il cognome di tuo figlio è diverso dal tuo, il certificato di nascita svolge qui lo stesso ruolo che svolge ovunque altrove in questo articolo, dimostrando che il bambino è tuo indipendentemente dal nome che compare sul passaporto.
+Tieni la copia autenticata insieme ai passaporti piuttosto che in un fascicolo separato a casa, perché è un documento che può richiedere tempo per essere sostituito se va perso a metà del viaggio. Una copia stampata più un backup digitale cifrato copre sia una valigia smarrita sia un telefono che non si accende. Se il cognome di tuo figlio è diverso dal tuo, il certificato di nascita svolge qui lo stesso ruolo che svolge ovunque altrove in questo articolo, dimostrando che il bambino è tuo indipendentemente dal nome che compare sul passaporto.
 
 La risposta pratica resta breve: un documento, tenuto a portata di mano, e una procedura che in genere si conclude in fretta una volta mostrato.
 
@@ -58,15 +58,15 @@ Il certificato di nascita completo di tuo figlio, quello che ti nomina come geni
 
 ## Nonni, Parenti e Tutori: di Solito Serve il Consenso di Entrambi i Genitori
 
-Quando un nonno, una zia, uno zio o un amico di famiglia viaggia con un bambino e nessuno dei due genitori è del viaggio, i documenti si moltiplicano, perché la maggior parte dei paesi si aspetta la prova che entrambi i genitori, o entrambi i tutori legali, abbiano acconsentito al viaggio, non solo uno. Il formato è la stessa [lettera di consenso](https://traveldocumentvault.com/it/blog/child-travel-consent-letter/) che trattiamo per intero altrove, ma qui in genere serve la firma di entrambi i genitori anziché di uno solo, insieme ai recapiti di ciascuno.
+Quando un nonno, una zia, uno zio o un amico di famiglia viaggia con un bambino e nessuno dei due genitori è del viaggio, i documenti si moltiplicano, perché molti paesi si aspettano la prova che entrambi i genitori, o entrambi i tutori legali, abbiano acconsentito al viaggio, non solo uno. Il formato è la stessa [lettera di consenso](https://traveldocumentvault.com/it/blog/child-travel-consent-letter/) che trattiamo per intero altrove, ma qui in genere serve la firma di entrambi i genitori anziché di uno solo, insieme ai recapiti di ciascuno.
 
 L'adulto accompagnatore dovrebbe anche portare il certificato di nascita del bambino ed essere pronto a spiegare la relazione in termini semplici se richiesto, perché «amico di famiglia» tende a suscitare più domande di «nonno», anche quando entrambi portano documenti identici. Le compagnie aeree possono rifiutare l'imbarco a un bambino se l'adulto non riesce a produrli al check-in, per lo stesso motivo di responsabilità del vettore visto prima: la compagnia aerea si sta proteggendo da un ingresso rifiutato all'altro capo, ancora prima che il volo sia decollato.
 
 ## Se Arrivano Comunque Delle Domande
 
-Anche con tutti i documenti in regola, un ufficiale di frontiera o un addetto al check-in potrebbe comunque fare qualche domanda, e aiuta sapere cos'è davvero quella conversazione: una breve verifica, non un'accusa. Le domande tendono a essere semplici: dove vive la famiglia, com'è nato il viaggio, e come è imparentato il bambino con l'adulto al suo fianco. Un bambino che sa rispondere brevemente con parole sue tende a far procedere le cose più in fretta di un adulto nervoso che risponde al posto suo.
+Anche con tutti i documenti in regola, un ufficiale di frontiera o un addetto al check-in potrebbe comunque fare qualche domanda, e aiuta sapere cos'è davvero quella conversazione: una breve verifica, non un'accusa. Le domande possono essere semplici: dove vive la famiglia, com'è nato il viaggio, e come è imparentato il bambino con l'adulto al suo fianco. Un bambino che sa rispondere brevemente con parole sue tende a far procedere le cose più in fretta di un adulto nervoso che risponde al posto suo.
 
-Se su una lettera di consenso o un provvedimento di affidamento compare un numero di telefono, preparati all'idea che possa essere chiamato. Quella chiamata è di routine. Portare tutto quello che abbiamo trattato qui non garantisce zero domande, ma significa che quando le domande arrivano, hai una risposta pronta per ciascuna, ed è generalmente ciò che chiude queste conversazioni al banco.
+Se su una lettera di consenso o un provvedimento di affidamento compare un numero di telefono, un ufficiale potrebbe usarlo per verificare il documento. Portare tutto quello che abbiamo trattato qui non garantisce zero domande, ma significa che quando le domande arrivano, hai una risposta pronta per ciascuna, ed è generalmente ciò che chiude queste conversazioni al banco.
 
 ## Un Fascicolo per Ogni Situazione
 
@@ -92,11 +92,11 @@ Spesso il documento più utile è il provvedimento di affidamento o l'ordinanza 
 
 ### Di cosa ho bisogno per viaggiare con mio figlio se l'altro genitore è deceduto?
 
-Una lettera di consenso non è possibile, quindi porta invece una copia del certificato di morte. Gli ufficiali di frontiera che normalmente chiederebbero del genitore assente in genere la accettano come risposta. Tieni una copia stampata insieme ai passaporti e un backup digitale cifrato, e controlla le indicazioni della tua destinazione prima della partenza.
+Una lettera di consenso non è possibile, quindi porta invece una copia del certificato di morte. Una copia autenticata del certificato di morte è il documento che più probabilmente risponde alla domanda, ma controlla le indicazioni della tua destinazione. Tieni una copia stampata insieme ai passaporti e un backup digitale cifrato, e controlla le indicazioni della tua destinazione prima della partenza.
 
 ### Mio figlio può viaggiare all'estero con i nonni o un altro parente?
 
-Sì, ma la maggior parte dei paesi si aspetta il consenso scritto di entrambi i genitori o tutori legali, non solo di uno. L'adulto accompagnatore dovrebbe anche portare i recapiti di entrambi i genitori e una copia del certificato di nascita del bambino. Le compagnie aeree possono rifiutare l'imbarco a un bambino se l'adulto non riesce a mostrarlo quando richiesto.
+Sì, ma molti paesi si aspettano il consenso scritto di entrambi i genitori o tutori legali, non solo di uno. L'adulto accompagnatore dovrebbe anche portare i recapiti di entrambi i genitori e una copia del certificato di nascita del bambino. Le compagnie aeree possono rifiutare l'imbarco a un bambino se l'adulto non riesce a mostrarlo quando richiesto.
 
 ### Un cognome diverso da quello di mio figlio può causare problemi in aeroporto?
 

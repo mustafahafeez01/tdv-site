@@ -26,7 +26,7 @@ Den här guiden går igenom hela systemet; vill ni läsa mer om en enskild del, 
 
 Det beror på vart ni ska, men för de flesta internationella familjeresor är listan längre än man tror. Här är grundchecklistan för familjens resehandlingar, med de identitetshandlingar som alla behöver först:
 
-- Pass för varje familjemedlem (kontrollera giltighet minst 3 månader före resan)
+- Pass för varje familjemedlem (kontrollera giltigheten mot resmålets inresekrav i god tid innan du bokar; vi skulle börja tre månader i förväg)
 - Visum, om destinationslandet kräver det
 - Nationella ID-kort om de godtas i stället för pass (Schengenresor för EU-medborgare)
 
@@ -45,9 +45,9 @@ Det beror på vart ni ska, men för de flesta internationella familjeresor är l
 
 ### Samtyckesbrev för barns resa: när behövs det
 
-Ett samtyckesbrev för barns resa är ett undertecknat dokument från den frånvarande föräldern (eller vårdnadshavaren) som ger tillstånd för barnet att resa. Det krävs inte enligt lag överallt, men gränspoliser i många länder – inklusive USA, Kanada, Mexiko och flera andra – ber ofta om det när ett barn reser med bara en förälder eller med en annan vuxen.
+Ett samtyckesbrev för barns resa är ett undertecknat dokument från den frånvarande föräldern (eller vårdnadshavaren) som ger tillstånd för barnet att resa. Det är i regel inget lagkrav, men gränspoliser i vissa länder, däribland Kanada, kan be om bevis på att båda föräldrarna samtycker när ett barn reser med bara en förälder eller med en annan vuxen. Brevet är enkelt att ta med och kan bespara dig frågor vid gränsen.
 
-Utan det riskerar ni förseningar, extra frågor eller i vissa fall nekad inresa. Vissa länder, som Kanada och Sydafrika, är kända för att strikt efterfråga denna dokumentation.
+Sydafrika har egna regler för resor med barn, bland annat om ett fullständigt födelsebevis, så kontrollera riktlinjerna från Department of Home Affairs före resan.
 
 Ett giltigt samtyckesbrev bör innehålla: barnets fullständiga namn och födelsedatum, båda föräldrarnas namn och kontaktuppgifter, den resande förälderns uppgifter, destination(er) och resdatum, samt den frånvarande förälderns underskrift (notariserade kopior är mer övertygande, även om det inte alltid krävs). Spara en kopia både digitalt och i fysisk form.
 
@@ -57,7 +57,7 @@ Ett giltigt samtyckesbrev bör innehålla: barnets fullständiga namn och födel
 
 - Internationellt körkort (om ni hyr bil utomlands)
 - Journaler eller receptuppgifter för pågående behandlingar
-- Europeiskt sjukförsäkringskort (EHIC) för EU-resenärer
+- Europeiskt sjukförsäkringskort (EHIC), om du omfattas av ett EU-lands sjukförsäkringssystem
 
 ## Fysisk organisation: var ni ska förvara originalen
 
@@ -95,7 +95,7 @@ Här är mönstret som fångar familjer på sängen: ni förnyar ert eget pass, 
 
 - **Kalenderpåminnelser:** Ställ in en 12 månader innan varje handling går ut och en till vid 6 månader. Ni behöver komma ihåg att uppdatera dessa när handlingar förnyas, och ni behöver ha utgångsdatumen tillgängliga från början.
 - **Kalkylblad:** Fungerar bra om ni faktiskt underhåller det. En rad per handling per person, utgångsdatumet, och en formel som markerar allt som går ut inom 12 månader.
-- **Dedikerad app:** Travel Document Vault schemalägger passpåminnelser från åtta månader före utgångsdatumet, med tätare intervall när datumet närmar sig. Skanna ett pass och bekräfta eller ange utgångsdatumet; påminnelser är aktiverade som standard.
+- **Dedikerad app:** Travel Document Vault schemalägger passpåminnelser från åtta månader före utgångsdatumet, med tätare intervall när datumet närmar sig. Skanna ett pass och bekräfta eller ange utgångsdatumet; du väljer själv om du vill aktivera påminnelser.
 
 Alla tre metoderna fungerar, men vi skulle välja den som skickar påminnelsen automatiskt, eftersom ett kalkylblad bara hjälper om ni kommer ihåg att öppna det. Viktigast är att välja en som passar hur ni redan gör saker och faktiskt hålla fast vid den.
 
@@ -148,7 +148,7 @@ Kontrollera innan ni bokar flyget – och som minimum tre månader innan avresa.
 
 ### Behöver jag ett samtyckesbrev när jag reser ensam med mitt barn?
 
-Det är inte alltid ett lagkrav, men det rekommenderas starkt. Gränspoliser i länder som Kanada, Sydafrika, Mexiko och många andra ber ofta om ett samtyckesbrev när ett barn reser med bara en förälder. Utan det riskerar ni förseningar, extra frågor eller nekad inresa. Brevet bör innehålla barnets uppgifter, båda föräldrarnas kontaktinformation, resdatum, destinationer och den frånvarande förälderns underskrift – notariserad om möjligt.
+Det är inte alltid ett lagkrav, men det rekommenderas starkt. Gränspoliser i vissa länder, som Kanada, kan be om ett samtyckesbrev när ett barn reser med bara en förälder. Utan det kan ni få extra frågor. Brevet bör innehålla barnets uppgifter, båda föräldrarnas kontaktinformation, resdatum, destinationer och den frånvarande förälderns underskrift – notariserad om möjligt.
 
 ## Relaterade artiklar
 

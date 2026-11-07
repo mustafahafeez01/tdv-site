@@ -50,13 +50,13 @@ HM Passport Office pubblica il proprio tempo di elaborazione attuale su GOV.UK, 
 
 ![Diagramma di una domanda che arriva a un passaporto pronto superando sei possibili ritardi: cambio di nome, primo passaporto da adulto, domanda per un minore, perso o danneggiato, controlli aggiuntivi o un colloquio, e domanda dall'estero](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/passport-renewal-timeline-it.jpg) Sei situazioni tolgono una domanda dalla corsia rapida. Un rinnovo semplice le evita tutte.
 
-Il Regno Unito offre un servizio di rinnovo digitale per gli adulti idonei che presentano domanda da **entro il Regno Unito**. Se siete idonei, non è necessario spedire il vostro vecchio passaporto, ma serve comunque una foto conforme ai requisiti ufficiali. L'applicazione è completata online. **Se siete un cittadino britannico che vive all'estero** (un espatriato), il servizio digitale non è disponibile per voi. Dovete utilizzare il servizio passaporti estero presso GOV.UK, che richiede di spedire il vostro passaporto attuale. Per i casi urgenti, HM Passport Office gestisce un servizio 1 Week Fast Track e, solo per i rinnovi degli adulti, un servizio 1 Day Premium con appuntamenti disponibili a partire da 2 giorni dopo la richiesta. Controllate GOV.UK per il servizio corretto e la cifra attuale per la vostra situazione, che chiede la vostra posizione all'inizio della domanda.
+Il Regno Unito offre un servizio di rinnovo digitale per gli adulti idonei che presentano domanda da **entro il Regno Unito**. Se siete idonei, non è necessario spedire il vostro vecchio passaporto, ma serve comunque una foto conforme ai requisiti ufficiali. L'applicazione è completata online. **Se siete un cittadino britannico che vive all'estero** (un espatriato), il servizio digitale non è disponibile per voi. Dovete utilizzare il servizio passaporti estero presso GOV.UK. Per i casi urgenti, HM Passport Office gestisce un servizio 1 Week Fast Track e, solo per i rinnovi degli adulti, un servizio 1 Day Premium con appuntamenti disponibili a partire da 2 giorni dopo la richiesta. Controllate GOV.UK per il servizio corretto e la cifra attuale per la vostra situazione, che chiede la vostra posizione all'inizio della domanda.
 
 Un cambio di nome, un primo passaporto da adulto, o qualsiasi domanda che richiede controlli extra impiegherà più tempo. I passaporti dei bambini non possono utilizzare affatto il servizio digitale — vanno attraverso il processo standard solo. Prima di fare domanda, controllate GOV.UK per la cifra attuale rilevante per la vostra situazione.
 
 ## Quanto tempo richiede il rinnovo del passaporto in Australia?
 
-L'Ufficio Passaporti Australiano è l'unica fonte affidabile per i tempi attuali, perché si muovono con il volume di domande e il periodo dell'anno. L'elaborazione fast track e prioritaria sono disponibili per chi deve andare più veloce della coda standard, entrambe prenotabili dietro pagamento di una commissione aggiuntiva.
+L'Ufficio Passaporti Australiano è l'unica fonte affidabile per i tempi attuali, perché si muovono con il volume di domande e il periodo dell'anno. L’Australia può offrire opzioni più rapide a pagamento: controllate passports.gov.au per sapere quali sono disponibili.
 
 I tempi di elaborazione standard dell'Australia sono generalmente migliori di USA e UK, ma possono comunque estendersi nei periodi di picco. Fate domanda il prima ragionevolmente possibile prima del vostro viaggio, e controllate passports.gov.au per il tempo attuale prima di presentarla.
 
@@ -79,7 +79,7 @@ Indipendentemente da quale paese state rinnovando, gli stessi errori causano cos
 
 ## Potete Viaggiare Mentre il Vostro Passaporto Viene Rinnovato?
 
-La risposta sorprende la maggior parte delle persone. Nella maggior parte dei paesi, potete viaggiare mentre il rinnovo è in sospeso — utilizzerete il vostro vecchio passaporto (ancora valido) insieme a documentazione ufficiale dall'autorità passaporti confermando che la vostra domanda è in corso.
+La risposta sorprende la maggior parte delle persone. In alcuni casi potete viaggiare mentre il rinnovo è in corso, purché il passaporto attuale sia ancora valido e non lo abbiate consegnato con la domanda. Alcune autorità richiedono di inviarlo: verificate prima di prenotare.
 
 Le regole variano per paese:
 
@@ -90,13 +90,13 @@ Le regole variano per paese:
 - **Nuova Zelanda:** Le domande possono essere fatte senza cedere il vostro passaporto attuale nella maggior parte dei casi — controllate la guida del Dipartimento degli Affari Interni per la vostra situazione specifica.
 - **Irlanda:** I servizi Passport Online e An Post non richiedono di cedere il vostro passaporto attuale fino a quando il nuovo non è pronto. Controllate la guida attuale del Servizio Passaporti prima di fare domanda.
 
-**L'eccezione critica:** Se il vostro paese di destinazione richiede un visto a ingresso singolo, utilizzare il vecchio passaporto per il viaggio può invalidare il visto ad esso associato. Controllate sempre le implicazioni del visto prima di viaggiare su un passaporto vecchio mentre uno nuovo è in corso.
+**L'eccezione critica:** Se il vostro paese di destinazione richiede un visto a ingresso singolo, il visto è legato al passaporto su cui è apposto: verificate le regole della destinazione. Controllate sempre le implicazioni del visto prima di viaggiare su un passaporto vecchio mentre uno nuovo è in corso.
 
 ## Se il viaggio è imminente, muovetevi su tutti i fronti insieme
 
 Avete un viaggio prenotato nelle prossime settimane e il vostro passaporto sta per scadere. Non andate nel panico — ma muovetevi velocemente:
 
-1. **Chiamate la vostra autorità passaporti — non limitatevi a sfogliare il sito web.** Tutti i quattro paesi hanno disposizioni di appuntamenti urgenti ed d'emergenza. Una telefonata vi mette in contatto con una persona reale che può dirvi esattamente cosa è disponibile.
+1. **Chiamate la vostra autorità passaporti — non limitatevi a sfogliare il sito web.** Molte autorità offrono procedure urgenti con requisiti di ammissibilità; quelle britanniche non sono disponibili per chi fa domanda dall’estero. Una telefonata vi mette in contatto con una persona reale che può dirvi esattamente cosa è disponibile.
 2. **Raccogliete i vostri documenti prima di chiamare.** Avrete bisogno di prova di viaggio imminente (conferme di prenotazione che mostrano le date), il vostro passaporto attuale, foto e moduli compilati. Abbiate tutto pronto — gli appuntamenti urgenti si muovono velocemente.
 3. **Controllate la vostra polizza di assicurazione di viaggio.** Alcune polizze coprono i costi extra dal rinnovo urgente del passaporto. La maggior parte esclude situazioni in cui il rinnovo era prevedibile — ma vale la pena guardare prima di spendere i soldi.
 4. **Chiedetevi di riprogrammare il vostro viaggio.** Le compagnie aeree e gli hotel variano, ma molti rinunceranno alle commissioni di cambio per emergenze di passaporto documentate. Non è garantito, ma non costa nulla chiedere.
@@ -115,23 +115,23 @@ Non possiamo darvi qui una cifra fissa, perché i tempi di elaborazione del Dipa
 
 ### Quanto tempo richiede il rinnovo del passaporto nel Regno Unito?
 
-HM Passport Office pubblica il proprio tempo di elaborazione attuale, e cambia abbastanza spesso che una cifra citata qui sarebbe probabilmente già obsoleta quando la leggete. Gli adulti idonei che presentano domanda da entro il Regno Unito possono utilizzare il servizio di rinnovo digitale, che evita di spedire il passaporto ma richiede comunque una foto conforme ai requisiti ufficiali. Se presentate domanda da fuori del Regno Unito, userete invece il servizio estero, che richiede di spedire il vostro passaporto attuale. Per i casi urgenti, HM Passport Office gestisce un servizio 1 Week Fast Track e, solo per i rinnovi degli adulti, un servizio 1 Day Premium con appuntamenti disponibili a partire da 2 giorni dopo la richiesta. Controllate GOV.UK per la cifra che si applica alla vostra situazione.
+HM Passport Office pubblica il proprio tempo di elaborazione attuale, e cambia abbastanza spesso che una cifra citata qui sarebbe probabilmente già obsoleta quando la leggete. Gli adulti idonei che presentano domanda da entro il Regno Unito possono utilizzare il servizio di rinnovo digitale, che evita di spedire il passaporto ma richiede comunque una foto conforme ai requisiti ufficiali. Se presentate domanda da fuori del Regno Unito, userete invece il servizio estero. Per i casi urgenti, HM Passport Office gestisce un servizio 1 Week Fast Track e, solo per i rinnovi degli adulti, un servizio 1 Day Premium con appuntamenti disponibili a partire da 2 giorni dopo la richiesta. Controllate GOV.UK per la cifra che si applica alla vostra situazione.
 
 ### Quanto tempo richiede il rinnovo del passaporto in Australia?
 
-L'Ufficio Passaporti Australiano è l'unica fonte affidabile per i tempi attuali, perché si muovono con il volume di domande e il periodo dell'anno. L'elaborazione fast track e prioritaria sono disponibili per chi deve andare più veloce della coda standard, entrambe prenotabili dietro pagamento di una commissione. Fate domanda il prima ragionevolmente possibile, qualunque via usiate — i periodi di punta allungano la coda standard spesso più di quanto riflettano le indicazioni pubblicate. Controllate passports.gov.au prima di fare domanda.
+L'Ufficio Passaporti Australiano è l'unica fonte affidabile per i tempi attuali, perché si muovono con il volume di domande e il periodo dell'anno. L’Australia può offrire opzioni più rapide a pagamento: controllate passports.gov.au per sapere quali sono disponibili. Fate domanda il prima ragionevolmente possibile, qualunque via usiate — i periodi di punta allungano la coda standard spesso più di quanto riflettano le indicazioni pubblicate. Controllate passports.gov.au prima di fare domanda.
 
 ### Posso rinnovare il mio passaporto online?
 
-Gli USA offrono un programma di rinnovo online per gli adulti idonei che hanno ottenuto il loro passaporto all'età di 16 anni o più — controllate travel.state.gov per l'idoneità attuale. Il Regno Unito offre un'opzione di rinnovo digitale per gli adulti idonei che presentano domanda da entro il Regno Unito — i candidati all'estero devono utilizzare un servizio separato. L'Australia richiede il deposito di persona o per posta per la maggior parte dei rinnovi. Il Canada offre il rinnovo online agli adulti idonei che non viaggiano nei prossimi 20 giorni lavorativi; tutti gli altri presentano domanda per posta o di persona. Controllate sempre il sito web ufficiale del vostro paese per le regole di idoneità attuali.
+Gli USA offrono il rinnovo online agli adulti idonei — controllate travel.state.gov per l'idoneità attuale. Il Regno Unito offre un'opzione di rinnovo digitale per gli adulti idonei che presentano domanda da entro il Regno Unito — i candidati all'estero devono utilizzare un servizio separato. Per l’Australia, controllate passports.gov.au per sapere come presentare la domanda. Il Canada offre il rinnovo online se il passaporto serve fra almeno 20 giorni lavorativi; tutti gli altri seguono la procedura con domanda cartacea. Controllate sempre il sito web ufficiale del vostro paese per le regole di idoneità attuali.
 
 ### Cosa devo fare se il mio passaporto sta scadendo e ho un viaggio prenotato?
 
-Fate domanda non appena sapete che c'è un problema, e pagate per la via più veloce offerta dalla vostra autorità. Se il vostro viaggio è abbastanza vicino da preoccuparvi che i tempi standard non bastino, chiamate direttamente la vostra autorità passaporti invece di affidarvi al sito web — tutti i paesi coperti qui hanno opzioni di appuntamento d'emergenza, ma di solito bisogna chiederle per telefono. Non aspettate per vedere se il processo standard recupera da solo.
+Fate domanda non appena sapete che c'è un problema, e pagate per la via più veloce offerta dalla vostra autorità. Se il vostro viaggio è abbastanza vicino da preoccuparvi che i tempi standard non bastino, chiamate direttamente la vostra autorità passaporti invece di affidarvi al sito web — molte autorità offrono appuntamenti urgenti con requisiti di ammissibilità (quelli britannici non sono disponibili per chi fa domanda dall’estero), ma di solito bisogna chiederle per telefono. Non aspettate per vedere se il processo standard recupera da solo.
 
 ### Posso viaggiare mentre il rinnovo del mio passaporto è in sospeso?
 
-Nella maggior parte dei casi, sì — a condizione che il vostro passaporto attuale sia ancora valido e non lo abbiate fisicamente sottomesso come parte del processo di rinnovo. USA, Regno Unito, Australia, Canada, Nuova Zelanda e Irlanda consentono tutti i viaggi su un passaporto attuale valido mentre una domanda di rinnovo è in sospeso. L'eccezione è se avete ceduto il vostro passaporto al processo di domanda, nel qual caso dovrete aspettare. Controllate sempre con la vostra specifica autorità passaporti e considerate tutte le implicazioni del visto prima di viaggiare.
+In alcuni casi sì — a condizione che il vostro passaporto attuale sia ancora valido e non lo abbiate fisicamente sottomesso come parte del processo di rinnovo. Alcune autorità chiedono di inviare il passaporto attuale con la domanda, quindi verificate prima di prenotare. Dopo averlo consegnato, dovrete aspettare quello nuovo. Controllate sempre con la vostra specifica autorità passaporti e considerate tutte le implicazioni del visto prima di viaggiare.
 
 ## Articoli Correlati
 

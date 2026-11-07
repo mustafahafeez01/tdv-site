@@ -36,7 +36,7 @@ Si solo te quedas con una cosa de esta página, que sea esa asimetría: la fecha
 
 Mucha gente busca qué significa "date of expedition" en un pasaporte, y la respuesta es tranquilizadoramente simple: significa fecha de expedición, tal cual la conoces en español.
 
-La expresión viene del español y del portugués. *Fecha de expedición* y *data de expedição* se traducen ambas literalmente al inglés como expedition date, y los formularios traducidos arrastran esa redacción sin que nadie se dé cuenta. El mismo campo aparece como *date de délivrance* en francés, *data di rilascio* en italiano, *Ausstellungsdatum* en alemán, *datum van afgifte* en neerlandés y *utfärdandedatum* en sueco.
+La expresión viene del español y del portugués. *Fecha de expedición* y *data de expedição* se traducen ambas literalmente al inglés como expedition date, y los formularios traducidos arrastran esa redacción sin que nadie se dé cuenta.
 
 Todas significan lo mismo, y ninguna significa caducidad. Si un formulario te pide una "expedition date", quiere la más antigua de tus dos fechas.
 
@@ -60,7 +60,7 @@ La fecha de expedición deja de ser un detalle sin importancia en cuanto un paí
 
 Los pasaportes británicos expedidos más recientemente ya no llevan esos meses adicionales, pero los pasaportes más antiguos que sí los tienen siguen en circulación y en uso.
 
-Los países Schengen aplican dos pruebas independientes a un pasaporte no comunitario en la frontera: debe haberse expedido menos de diez años antes de la fecha de tu llegada, y debe seguir siendo válido al menos tres meses después de la fecha prevista de salida. Un pasaporte con nueve meses adicionales puede superar la segunda prueba sin problema y fallar la primera, lo que da lugar a una conversación incómoda en un mostrador de Madrid con un documento que, técnicamente, no ha caducado.
+Los países Schengen suelen aplicar dos pruebas independientes a un pasaporte no comunitario en la frontera: debe haberse expedido menos de diez años antes de la fecha de tu llegada, y debe seguir siendo válido al menos tres meses después de la fecha prevista de salida. Un pasaporte con nueve meses adicionales puede superar la segunda prueba sin problema y fallar la primera, lo que da lugar a una conversación incómoda en un mostrador de Madrid con un documento que, técnicamente, no ha caducado.
 
 Nosotros comprobaríamos las dos fechas antes de un viaje a Europa, no solo la de abajo.
 
@@ -68,11 +68,11 @@ Nosotros comprobaríamos las dos fechas antes de un viaje a Europa, no solo la d
 
 Cerca de la parte superior de la página de datos hay un código de tres letras que indica el país emisor. Más abajo, normalmente en su propio campo, está la autoridad emisora: la oficina o el departamento que realmente produjo el pasaporte.
 
-El país importa más de lo que la gente espera. Determina a qué red consular acudes si el pasaporte se pierde o te lo roban.
+El país importa más de lo que la gente espera. Por lo general, determina a qué red consular acudes si el pasaporte se pierde o te lo roban.
 
 Casi nunca es el país en el que te encuentras en ese momento.
 
-También determina qué normas de entrada se te aplican, que es la razón por la que las personas con doble nacionalidad piensan con cuidado qué pasaporte presentan. Si quieres la versión práctica de todo esto, la explicamos en [qué hacer si pierdes el pasaporte en el extranjero](https://traveldocumentvault.com/es/blog/lost-passport-abroad/).
+También suele determinar qué normas de entrada se te aplican, que es la razón por la que las personas con doble nacionalidad piensan con cuidado qué pasaporte presentan. Si quieres la versión práctica de todo esto, la explicamos en [qué hacer si pierdes el pasaporte en el extranjero](https://traveldocumentvault.com/es/blog/lost-passport-abroad/).
 
 El campo de la autoridad emisora sirve sobre todo para los formularios. Algunas solicitudes lo quieren copiado tal cual, otras aceptan solo el país, y copiarlo exactamente es más rápido que adivinar.
 
@@ -88,7 +88,7 @@ Nada de esto es grave por sí solo. Se vuelve grave cuando una tarjeta de embarq
 
 La página de datos es la página rígida y plastificada que lleva tu foto, y su diseño está estandarizado internacionalmente en lugar de inventado por cada país. Por eso un pasaporte de cualquier lugar es legible para un agente de fronteras en cualquier lugar, y por eso, en cuanto sabes leer uno, sabes leerlos todos.
 
-Las dos líneas de caracteres y chevrones en la parte inferior son la zona de lectura mecánica. Repite parte de la información de la página de arriba en un formato que un escáner puede leer de una sola pasada, aunque no toda: la fecha de caducidad está ahí, la de expedición no. Un daño en esa zona se trata con mucha más seriedad que un roce en la tapa. Explicamos dónde está ese límite en [viajar con un pasaporte dañado](https://traveldocumentvault.com/es/blog/damaged-passport-travel/).
+Las dos líneas de caracteres y chevrones en la parte inferior son la zona de lectura mecánica. Repite parte de la información de la página de arriba en un formato que un escáner puede leer de una sola pasada, aunque no toda: la fecha de caducidad está ahí. Comprueba en tu propio pasaporte qué información repite exactamente esa zona. Un daño en esa zona se trata con mucha más seriedad que un roce en la tapa. Explicamos dónde está ese límite en [viajar con un pasaporte dañado](https://traveldocumentvault.com/es/blog/damaged-passport-travel/).
 
 Si las indicaciones de tu propia página de datos no están en español, la disposición sigue ayudando: las dos fechas se imprimen juntas, en el mismo formato, y la fecha de caducidad es la más tardía de las dos.
 
@@ -108,11 +108,11 @@ No. La fecha de expedición es cuando se produjo el pasaporte, y la fecha de cad
 
 ### ¿Qué significa país emisor en un pasaporte?
 
-El país emisor es el estado que concedió el pasaporte, indicado con un código de tres letras cerca de la parte superior de la página de datos. Determina qué embajada o consulado puede ayudarte si el pasaporte se pierde en el extranjero, y qué normas de entrada se aplican cuando lo presentas.
+El país emisor es el estado que concedió el pasaporte, indicado con un código de tres letras cerca de la parte superior de la página de datos. Por lo general, determina qué embajada o consulado puede ayudarte si el pasaporte se pierde en el extranjero y qué normas de entrada suelen aplicarse cuando lo presentas.
 
 ### ¿Cambia el número de mi pasaporte cuando lo renuevo?
 
-Sí. Cada pasaporte nuevo lleva un número nuevo. Todo lo registrado con el número antiguo se queda con el número antiguo, incluidos los visados ya emitidos, los perfiles de aerolínea y las reservas hechas antes de la renovación, así que normalmente hay que actualizarlos por separado.
+Por lo general, sí. Un pasaporte nuevo suele llevar un número nuevo. Todo lo registrado con el número antiguo se queda con el número antiguo, incluidos los visados ya emitidos, los perfiles de aerolínea y las reservas hechas antes de la renovación, así que normalmente hay que actualizarlos por separado.
 
 ### ¿Cómo sé cuándo caduca mi pasaporte?
 

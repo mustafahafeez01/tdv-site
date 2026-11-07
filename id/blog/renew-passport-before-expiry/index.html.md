@@ -10,9 +10,9 @@ Source: https://traveldocumentvault.com/id/blog/renew-passport-before-expiry/
 
 ## Poin Penting
 
-- **Ya, Anda bisa memperpanjang lebih awal.** HM Passport Office dan USAGov tidak menetapkan masa tunggu, dan Kanada hanya menanyakan alasan jika Anda mengajukan lebih dari setahun sebelumnya.
+- **Ya, Anda bisa memperpanjang lebih awal.** HM Passport Office tidak menetapkan tanggal paling awal, USAGov tidak mencantumkan masa tunggu, dan Kanada hanya menanyakan alasan jika Anda mengajukan lebih dari setahun sebelumnya.
 - Di Inggris, **memperpanjang lebih awal berarti mengembalikan bulan yang masih tersisa**. Bulan itu tidak lagi ditambahkan ke paspor baru sejak Oktober 2018.
-- Paspor lama Anda **dibatalkan begitu paspor baru disahkan**, dan pada jalur online Kanada, segera setelah Anda mengajukan.
+- Paspor lama Anda **dibatalkan sebagai bagian dari perpanjangan**, dan pada jalur online Kanada, segera setelah Anda mengajukan.
 - Paspor baru memiliki **nomor baru**, sehingga ESTA AS, UK ETA, dan pemesanan apa pun yang terkait dengan paspor lama perlu diperiksa, dan visa di paspor lama berarti Anda perlu membawa keduanya.
 - Pandangan kami: **mulai merencanakan saat 12 bulan tersisa, ajukan permohonan selambatnya pada bulan kesembilan**, dalam rentang beberapa minggu tanpa perjalanan yang sudah dipesan.
 
@@ -22,7 +22,7 @@ Itu semua bukan alasan untuk menunda. Itu alasan untuk memilih beberapa minggu y
 
 ## Tidak Ada Masa Tunggu Resmi Sebelum Anda Bisa Memperpanjang
 
-HM Passport Office mengaitkan perpanjangan dengan dua pemicu: paspor Anda sudah kedaluwarsa, atau masa berlakunya tidak lagi cukup untuk tujuan Anda. Panduan perpanjangannya tidak menetapkan tanggal paling awal, dan menyatakan bahwa berapa lama masa berlaku yang Anda butuhkan tergantung pada negara yang Anda kunjungi. USAGov melangkah lebih jauh dan menganjurkan warga Amerika untuk memperpanjang lebih awal, karena waktu prosesnya bervariasi dan beberapa negara serta maskapai menolak masuk jika masa berlaku paspor kurang dari enam bulan.
+HM Passport Office mengaitkan perpanjangan dengan dua pemicu: paspor Anda sudah kedaluwarsa, atau masa berlakunya tidak lagi cukup untuk tujuan Anda. Panduan perpanjangannya tidak menetapkan tanggal paling awal, dan menyatakan bahwa berapa lama masa berlaku yang Anda butuhkan tergantung pada negara yang Anda kunjungi. USAGov menganjurkan warga Amerika untuk memperpanjang lebih awal, karena waktu prosesnya bervariasi dan beberapa negara serta maskapai menolak masuk jika masa berlaku paspor kurang dari enam bulan.
 
 Kanada menetapkan satu batas, dan bahkan batas itu pun fleksibel. Pemerintah Kanada menyatakan bahwa jika Anda mengajukan lebih dari setahun sebelum paspor kedaluwarsa, mereka akan menanyakan alasannya, dan permohonan lewat pos memerlukan penjelasan tertulis. Layanan perpanjangan online-nya bahkan lebih terbatas, hanya dibuka jika paspor Anda akan kedaluwarsa dalam enam bulan ke depan atau sudah kedaluwarsa.
 
@@ -40,21 +40,21 @@ Ini penting karena panduan Your Europe dari UE menyatakan bahwa paspor yang digu
 
 ## Paspor Lama Anda Berhenti Berfungsi Begitu Paspor Baru Disahkan
 
-Perpanjangan bukan pertukaran yang menunggu paspor baru tiba di depan pintu Anda. Di Inggris, paspor lama dikirimkan bersama permohonan Anda, dan panduan petugas kasus HM Passport Office menginstruksikan staf untuk membatalkannya saat mengesahkan paspor baru. Jalur online Kanada bergerak lebih cepat lagi. Pemerintah Kanada menyatakan paspor Anda saat ini dibatalkan dan berhenti berlaku segera setelah Anda mengajukan, dan menganjurkan siapa pun yang akan bepergian dalam 20 hari kerja ke depan untuk tidak mengajukan secara online.
+Perpanjangan bukan pertukaran yang menunggu paspor baru tiba di depan pintu Anda. Di Inggris, paspor lama dikirimkan bersama permohonan Anda, dan paspor itu dibatalkan sebagai bagian dari perpanjangan, jadi jangan berencana bepergian dengannya setelah Anda mengajukan. Jalur online Kanada bergerak lebih cepat lagi. Pemerintah Kanada menyatakan paspor Anda saat ini dibatalkan dan berhenti berlaku segera setelah Anda mengajukan, dan menganjurkan siapa pun yang akan bepergian dalam 20 hari kerja ke depan untuk tidak mengajukan secara online.
 
 Itulah alasan praktis untuk memperpanjang di antara perjalanan, bukan di sekitar satu perjalanan. Apakah Anda bisa bepergian sama sekali saat perpanjangan sedang berlangsung tergantung pada negara dan jalur yang digunakan. Kami membahasnya negara demi negara dalam panduan kami tentang [bepergian saat paspor sedang diperpanjang](https://traveldocumentvault.com/id/blog/travel-while-passport-renewal-pending/).
 
-Visa adalah pengecualian yang perlu direncanakan. Jika paspor lama Inggris Anda memuat visa yang belum kedaluwarsa, GOV.UK menyatakan agar Anda mengirim paspor itu beserta visanya, dan paspor akan dikembalikan kepada Anda. USAGov menyatakan warga Amerika akan menerima kembali paspor terakhir mereka dalam sampul terpisah, biasanya sekitar empat minggu setelah paspor baru tiba. Kanada meminta Anda mencantumkan di formulir bahwa Anda memerlukan visa tersebut dan ingin paspor asli dikembalikan, serta memperingatkan bahwa jika tidak, visa itu bisa rusak saat paspor lama dibatalkan.
+Visa adalah pengecualian yang perlu direncanakan. Jika paspor lama Inggris Anda memuat visa yang belum kedaluwarsa, GOV.UK menyatakan agar Anda mengirim paspor itu beserta visanya, dan paspor akan dikembalikan kepada Anda. USAGov menyatakan warga Amerika akan menerima kembali paspor terakhir mereka dalam sampul terpisah, biasanya sekitar empat minggu setelah paspor baru tiba. Panduan Kanada mungkin berbeda, jadi periksa halaman perpanjangannya sebelum Anda mengirim paspor yang memuat visa yang masih berlaku.
 
 ## Nomor Paspor Baru Mengubah Lebih dari Sekadar Buku Paspornya
 
-Setiap perpanjangan disertai nomor baru. HM Passport Office memadukan fakta itu dengan saran paling bergunanya: jangan memesan perjalanan sampai Anda memiliki paspor yang berlaku, karena paspor baru tidak akan membawa nomor yang sama dengan paspor lama. Pemerintah Kanada menyatakan hal yang hampir sama, menyarankan agar Anda tidak memastikan rencana perjalanan sampai paspor itu tiba.
+Setiap perpanjangan disertai nomor baru. HM Passport Office memadukan fakta itu dengan saran paling bergunanya: jangan memesan perjalanan sampai Anda memiliki paspor yang berlaku, karena paspor baru tidak akan membawa nomor yang sama dengan paspor lama. Pemerintah Kanada menganjurkan siapa pun yang akan bepergian dalam 20 hari kerja ke depan untuk tidak mengajukan secara online.
 
 Apa pun yang sudah terkait dengan nomor lama perlu diperiksa sebelum perjalanan Anda berikutnya:
 
 - **ESTA AS** harus diajukan ulang. US Customs and Border Protection menyatakan ESTA baru diperlukan ketika pelancong diberi paspor baru.
 - GOV.UK menyatakan **UK ETA** terkait dengan paspor yang Anda gunakan saat mengajukan dan berlaku selama dua tahun atau sampai paspor itu kedaluwarsa, mana yang lebih dulu. Periksa status ETA Anda sebelum terbang dengan paspor baru, dan panduan kami tentang [paspor mana yang terkait dengan UK ETA](https://traveldocumentvault.com/id/blog/uk-eta-passport-rules/) membahas detailnya.
-- Untuk **visa di paspor lama**, jawaban yang biasa adalah membawa keduanya. CBP menyatakan visa AS di paspor yang sudah kedaluwarsa tetap bisa digunakan bersama paspor baru, tanpa perlu mengajukan ulang kecuali visa itu sendiri sudah kedaluwarsa. GOV.UK memberi saran yang sama kepada pelancong Inggris untuk visa negara lain, meskipun Rusia memiliki aturan yang berbeda.
+- Untuk **visa di paspor lama**, jawaban yang biasa adalah membawa keduanya. Visa di paspor lama Anda umumnya tetap berlaku, jadi bawa kedua paspor dan periksa panduan resmi negara penerbit visa.
 - **Tiket pesawat dan hotel** yang dipesan dengan data paspor lama mungkin perlu ditambahkan nomor baru, pekerjaan yang mudah dilakukan di rumah tetapi merepotkan di meja check-in.
 
 ## Perpanjang di Masa yang Tenang Tanpa Perjalanan yang Sudah Dipesan
@@ -65,7 +65,7 @@ Pandangan kami sederhana: mulai memikirkan perpanjangan saat masa berlaku paspor
 
 Separuh lainnya adalah memilih waktu di dalam jendela tersebut. Carilah beberapa minggu tanpa apa pun yang sudah dipesan, karena paspor lama dikirimkan bersama permohonan dan paspor baru kembali dengan nomor yang berbeda.
 
-HM Passport Office menyatakan Anda biasanya akan menerima paspor dalam tiga minggu, lebih lama jika diperlukan informasi tambahan atau wawancara, dengan hitungan waktu dimulai sejak dokumen Anda diterima. Di Kanada, standar yang dipublikasikan adalah 10 atau 20 hari kerja tergantung di mana Anda mengajukan, ditambah waktu pengiriman pos. Untuk hal-hal yang biasanya memperlambat permohonan, panduan kami tentang [berapa lama perpanjangan paspor berlangsung](https://traveldocumentvault.com/id/blog/how-long-does-passport-renewal-take/) membahas detailnya.
+HM Passport Office menyatakan Anda biasanya akan menerima paspor dalam tiga minggu, lebih lama jika diperlukan informasi tambahan atau wawancara, dengan hitungan waktu dimulai sejak dokumen Anda diterima. Di Kanada, perpanjangan online bisa memakan waktu hingga 20 hari kerja ditambah waktu pengiriman pos. Untuk hal-hal yang biasanya memperlambat permohonan, panduan kami tentang [berapa lama perpanjangan paspor berlangsung](https://traveldocumentvault.com/id/blog/how-long-does-passport-renewal-take/) membahas detailnya.
 
 Jika ada perjalanan keluarga di depan, periksa semua paspor di rumah tangga Anda sekaligus. Di Inggris, HM Passport Office menerbitkan paspor anak untuk lima tahun, bukan sepuluh, sehingga paspor yang perlu diperpanjang lebih dulu sering kali bukan yang Anda duga. Jika ada yang akan pergi ke tempat yang meminta masa berlaku tambahan saat tiba, lihat panduan kami tentang [aturan paspor 6 bulan](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/) untuk mengetahui bagaimana hal itu mengubah tanggal Anda.
 
@@ -75,7 +75,7 @@ Jika ada perjalanan keluarga di depan, periksa semua paspor di rumah tangga Anda
 
 ### Bisakah paspor diperpanjang sebelum kedaluwarsa?
 
-Ya. HM Passport Office dan USAGov tidak menetapkan masa tunggu minimum, dan USAGov menganjurkan warga Amerika untuk memperpanjang lebih awal. Kanada akan menanyakan alasan Anda jika mengajukan lebih dari setahun sebelum kedaluwarsa, dan layanan perpanjangan online-nya hanya dibuka dalam enam bulan menjelang kedaluwarsa.
+Ya. HM Passport Office tidak menetapkan tanggal paling awal, USAGov tidak mencantumkan masa tunggu, dan USAGov menganjurkan warga Amerika untuk memperpanjang lebih awal. Kanada akan menanyakan alasan Anda jika mengajukan lebih dari setahun sebelum kedaluwarsa, dan layanan perpanjangan online-nya hanya dibuka dalam enam bulan menjelang kedaluwarsa.
 
 ### Apakah bulan yang tersisa hilang jika Anda memperpanjang paspor Inggris lebih awal?
 
@@ -83,7 +83,7 @@ Ya. Panduan HM Passport Office menyatakan bahwa masa berlaku yang belum terpakai
 
 ### Bisakah saya tetap menggunakan paspor lama setelah mengajukan perpanjangan?
 
-Rencanakan seolah Anda tidak bisa. HM Passport Office membatalkan paspor lama begitu paspor baru disahkan, dan jalur online Kanada membatalkannya segera setelah Anda mengajukan. Jika paspor lama memuat visa yang masih berlaku, paspor itu dapat dikembalikan kepada Anda agar Anda bisa membawa keduanya saat bepergian.
+Rencanakan seolah Anda tidak bisa. HM Passport Office membatalkan paspor lama sebagai bagian dari perpanjangan, dan jalur online Kanada membatalkannya segera setelah Anda mengajukan. Jika paspor lama memuat visa yang masih berlaku, paspor itu dapat dikembalikan kepada Anda agar Anda bisa membawa keduanya saat bepergian.
 
 ### Apakah saya perlu ESTA atau UK ETA baru setelah memperpanjang paspor?
 

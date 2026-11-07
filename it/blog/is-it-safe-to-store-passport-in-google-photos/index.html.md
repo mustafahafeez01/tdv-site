@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/it/blog/is-it-safe-to-store-passport-in-
 
 - Archiviare una scansione del passaporto in Google Photos significa che il documento di identità risiede sui server di Google, viene elaborato dai suoi sistemi, ed è protetto solo dalla sicurezza dell'account.
 - Un account Google compromesso — tramite phishing, riutilizzo di password o una violazione di terze parti — consente l'accesso a ogni documento in Google Photos. Incluso il passaporto.
-- I termini di Google consentono la scansione automatizzata delle foto per funzionalità e miglioramenti dei servizi. Questo include immagini contenenti dati del passaporto.
+- La politica sulla privacy di Google dichiara che usa sistemi automatizzati per analizzare i contenuti e fornire e migliorare i servizi. Una scansione del passaporto viene archiviata come qualsiasi altra foto.
 - Esistono opzioni migliori: gestori di password crittografati, app crittografate sul dispositivo o archiviazione cloud crittografata lato client — nessuna delle quali archivia il passaporto in una libreria foto generica.
 - Per la maggior parte delle persone, il rischio reale non è Google — è una sicurezza dell'account debole e chi altro può accedere all'account.
 
@@ -55,7 +55,7 @@ Quante app hai collegato al tuo account Google? Probabilmente più di quante ric
 
 **Scansione automatizzata dei contenuti**
 
-La politica sulla privacy di Google conferma che le foto vengono elaborate da sistemi automatizzati — riconoscimento facciale, rilevamento di oggetti, indicizzazione per ricerca. La scansione del passaporto passa attraverso gli stessi sistemi per ricerca e rilevamento di funzionalità. Non è una persona che legge il passaporto, e Google non fa nulla di losco, ma i dati del documento lasciano il dispositivo e vengono analizzati dall'infrastruttura di terze parti.
+La politica sulla privacy di Google dichiara che usa sistemi automatizzati per analizzare i contenuti e Google Photos crea gruppi di volti a partire dalle immagini. Una scansione del passaporto viene archiviata come qualsiasi altra foto: i dati del documento lasciano il dispositivo e risiedono su infrastrutture di terze parti.
 
 **Violazione dei dati presso Google**
 
@@ -71,13 +71,13 @@ Supponiamo che la password dell'account Google sia stata riutilizzata su un sito
 |---|---|---|---|---|
 | Google Photos | Server cloud di Google | In transito + a riposo (chiavi gestite da Google) | Moderato | Accettabile con autenticazione a due fattori forte |
 | iCloud Photos | Server cloud di Apple | In transito + a riposo (chiavi gestite da Apple) | Moderato | Accettabile con autenticazione a due fattori forte |
-| Gestore di password crittografato (1Password, Bitwarden) | Nel cloud (zero-knowledge) | End-to-end; il provider non può leggere i contenuti | Basso | Buona scelta |
+| Gestore di password crittografato | Nel cloud (crittografia end-to-end) | End-to-end; con questa configurazione il provider non può leggere i contenuti | Basso | Buona scelta |
 | App crittografata sul dispositivo (backup opzionale nel cloud personale) | Il tuo telefono; backup crittografato facoltativo sul tuo cloud (Pro) | Crittografata sul dispositivo; copia crittografata facoltativa sul tuo cloud (Pro) | Minimo | Migliore per documenti sensibili |
 | Rullino fotografico / cartella non crittografata | Dispositivo personale | Solo crittografia del dispositivo | Più alto | Non consigliato |
 
 ### iCloud Photos vs Google Photos: Apple è più sicuro?
 
-Gli utenti iOS spesso presumono che iCloud sia significativamente più sicuro di Google Photos per archiviare scansioni di passaporti. A livello strutturale, sono molto simili. Entrambi archiviano le foto su server cloud gestiti dal provider, entrambi crittografano i dati in transito e a riposo utilizzando chiavi gestite proprie, e entrambi elaborano le immagini attraverso sistemi automatizzati per funzionalità come ricerca e riconoscimento facciale.
+Gli utenti iOS spesso presumono che iCloud sia significativamente più sicuro di Google Photos per archiviare scansioni di passaporti. A livello strutturale, sono molto simili. Entrambi archiviano le foto su server cloud gestiti dal provider, entrambi crittografano i dati in transito e a riposo utilizzando chiavi gestite proprie, e in entrambi i casi il provider detiene le chiavi per impostazione predefinita.
 
 Advanced Data Protection di Apple (disponibile in iOS 16.2+) eleva il livello — quando abilitato, estende la crittografia end-to-end a iCloud Photos, il che significa che nemmeno Apple può leggere i contenuti. Tuttavia, non è abilitato per impostazione predefinita, e la maggior parte degli utenti non sa che esiste.
 
@@ -93,7 +93,7 @@ Prima di tutto vale la pena distinguere due cose: conservare una copia per uso p
 
 **Gestori di password crittografati**
 
-1Password e Bitwarden consentono entrambi di archiviare scansioni di documenti come allegati. Utilizzano la crittografia zero-knowledge — il provider non può leggere i contenuti anche se lo desiderasse. I documenti vengono crittografati sul dispositivo prima che qualsiasi cosa vada ai loro server. È un vero passo avanti rispetto a una libreria foto cloud generica.
+Alcuni gestori di password crittografati consentono di archiviare scansioni di documenti come allegati. Controlla la documentazione del provider: quando gli allegati vengono crittografati sul dispositivo prima del caricamento, il provider non può leggerli. È un passo avanti concreto rispetto a una libreria foto cloud generica.
 
 **App crittografate sul dispositivo**
 
@@ -101,7 +101,7 @@ Le app costruite specificamente per questo — come [Travel Document Vault](http
 
 **Archiviazione cloud crittografata con chiavi lato client**
 
-Tresorit e Proton Drive offrono crittografia lato client per l'archiviazione cloud. Come i gestori di password, il provider non può leggere i file. Ottieni la comodità del cloud con una sicurezza della foto del passaporto sostanzialmente più forte rispetto a Google Photos.
+Un servizio di archiviazione cloud con crittografia end-to-end è una terza possibilità. Questi servizi dichiarano che i file vengono crittografati con chiavi conservate sui tuoi dispositivi: controlla la documentazione del provider prima di farci affidamento. Se ben realizzata, questa soluzione unisce la comodità del cloud a una protezione più forte rispetto a una libreria foto generica.
 
 ## Se resti su Google Photos, l'autenticazione a due fattori fa gran parte del lavoro
 
@@ -109,7 +109,7 @@ Molte persone continueranno a utilizzare Google Photos per questo — la comodit
 
 - **Attiva l'autenticazione a due fattori.** Questa è la cosa più importante che puoi fare. Utilizza un'app di autenticazione, non SMS — L'autenticazione a due fattori via SMS è meglio di nulla ma più facile da intercettare.
 - **Utilizza una password forte e univoca per l'account Google.** Il riutilizzo di password su servizi è come la maggior parte degli account viene effettivamente presa in consegna.
-- **Controlla i permessi delle app di terze parti.** Vai a myaccount.google.com - Sicurezza - App di terze parti con accesso all'account, e rimuovi tutto ciò che non ha bisogno di esserci.
+- **Controlla i permessi delle app di terze parti.** Apri le impostazioni di sicurezza del tuo account Google, controlla le app e i servizi collegati e rimuovi quelli che non servono.
 - **Verifica i dispositivi e le sessioni attivi.** Rimuovi tutto ciò che non riconosci.
 - **Crea un album privato per i documenti sensibili** piuttosto che lasciarli sciolti nel flusso foto principale. Non fermerà una violazione, ma riduce l'esposizione accidentale quando qualcuno guarda sopra la spalla.
 
@@ -123,15 +123,15 @@ Apri oggi le impostazioni di sicurezza del tuo account Google, attiva l'autentic
 
 ### È sicuro archiviare una foto del passaporto in Google Photos?
 
-È comodo, ma Google Photos non è stato costruito per documenti di identità sensibili. La scansione risiede sui server di Google, viene elaborata dai loro sistemi automatizzati, ed è protetta da qualsiasi sicurezza dell'account Google che hai. Se l'account viene compromesso (tramite phishing, password riutilizzata, o violazione dei dati da qualche altra parte), lo è anche la scansione del passaporto. Per un documento così sensibile, un'opzione di archiviazione crittografata dedicata è una scelta più intelligente. Se utilizzi Google Photos, attiva l'autenticazione a due fattori e utilizza una password univoca sull'account Google.
+È comodo, ma Google Photos non è stato costruito per documenti di identità sensibili. La scansione risiede sui server di Google, è soggetta alla politica sulla privacy di Google, ed è protetta da qualsiasi sicurezza dell'account Google che hai. Se l'account viene compromesso (tramite phishing, password riutilizzata, o violazione dei dati da qualche altra parte), lo è anche la scansione del passaporto. Per un documento così sensibile, un'opzione di archiviazione crittografata dedicata è una scelta più intelligente. Se utilizzi Google Photos, attiva l'autenticazione a due fattori e utilizza una password univoca sull'account Google.
 
 ### Google analizza il contenuto delle foto archiviate in Google Photos?
 
-Sì. I sistemi automatizzati elaborano le foto per cose come il riconoscimento facciale, il rilevamento di oggetti e l'indicizzazione per ricerca. La politica sulla privacy di Google consente anche l'utilizzo dei contenuti per migliorare i propri servizi. Nessuna persona sta leggendo il passaporto — ma i dati del documento vengono elaborati dall'infrastruttura di Google, non solo seduti inerte su un server.
+Sì, può accadere. La politica sulla privacy di Google dichiara che usa sistemi automatizzati per analizzare i contenuti e Google Photos crea gruppi di volti a partire dalle immagini. La politica consente anche di usare i contenuti per migliorare i servizi. Una scansione del passaporto viene archiviata come qualsiasi altra foto, quindi i dati del documento risiedono sull’infrastruttura di Google anziché restare sul dispositivo.
 
 ### Qual è il modo più sicuro per archiviare una copia digitale di un passaporto?
 
-L'archiviazione crittografata sul dispositivo è la tua migliore scommessa — app che mantengono le scansioni sul telefono con crittografia forte per impostazione predefinita. Le copie possono uscire dal dispositivo tramite condivisione, esportazione o backup crittografato facoltativo sul tuo iCloud o Google Drive (Pro). Se desideri l'accesso al cloud, un gestore di password crittografato zero-knowledge come 1Password o Bitwarden è una valida alternativa.
+L'archiviazione crittografata sul dispositivo è la tua migliore scommessa — app che mantengono le scansioni sul telefono con crittografia forte per impostazione predefinita. Le copie possono uscire dal dispositivo tramite condivisione, esportazione o backup crittografato facoltativo sul tuo iCloud o Google Drive (Pro). Se desideri l'accesso al cloud, un gestore di password con crittografia end-to-end che supporti allegati è una ragionevole via di mezzo.
 
 ### Qualcuno può rubare la mia identità da una scansione del passaporto?
 
@@ -139,7 +139,7 @@ Sì, realisticamente. Nome, data di nascita, nazionalità, numero del passaporto
 
 ### iCloud è più sicuro di Google Photos per archiviare scansioni di passaporti?
 
-A livello strutturale, sono molto simili. Entrambi archiviano le foto su server cloud gestiti dal provider ed entrambi elaborano le immagini attraverso sistemi automatizzati. Advanced Data Protection di Apple (iOS 16.2+) estende la crittografia end-to-end a iCloud Photos quando abilitato, il che eleva effettivamente il livello in modo significativo — ma è disabilitato per impostazione predefinita e la maggior parte degli utenti non l'ha attivato. Il fattore più grande per entrambe le piattaforme è la password dell'account e se l'autenticazione a due fattori è attiva. Per l'archiviazione di passaporti specificamente, un'app crittografata dedicata sul dispositivo rimane l'opzione più forte su entrambe le piattaforme.
+A livello strutturale, sono molto simili. Entrambi archiviano le foto su server cloud gestiti dal provider e, per impostazione predefinita, il provider detiene le chiavi. Advanced Data Protection di Apple (iOS 16.2+) estende la crittografia end-to-end a iCloud Photos quando abilitato, il che eleva effettivamente il livello in modo significativo — ma è facoltativo e disattivato per impostazione predefinita. Il fattore più grande per entrambe le piattaforme è la password dell'account e se l'autenticazione a due fattori è attiva. Per l'archiviazione di passaporti specificamente, un'app crittografata dedicata sul dispositivo rimane l'opzione più forte su entrambe le piattaforme.
 
 ## Articoli correlati
 

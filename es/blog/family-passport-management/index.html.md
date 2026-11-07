@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/es/blog/family-passport-management/
 
 ## Conclusiones Principales
 
-- **Los pasaportes de los niños vencen dos veces más rápido que los de los adultos.** Los documentos de los niños son válidos por solo 5 años, así que la fecha de vencimiento del miembro más joven de la familia a menudo marca el límite para tu próximo viaje.
+- **Los pasaportes de los niños suelen vencer antes que los de los adultos.** En el Reino Unido tienen una validez de 5 años, así que la fecha de vencimiento del miembro más joven de la familia a menudo marca el límite para tu próximo viaje.
 - Nunca lleves todos los pasaportes familiares juntos cuando viajes. **Cada persona lleva el suyo**, y deja copias con un contacto de confianza en casa.
 - **Guarda copias digitales en un único lugar cifrado,** con una copia de seguridad física en un lugar seguro al que puedas acceder rápidamente si es necesario.
 - Crea un sistema compartido para realizar un seguimiento de las fechas de vencimiento de todos los miembros de la familia. **Una persona gestionando esto previene renovaciones perdidas.**
@@ -24,9 +24,9 @@ El problema comienza de forma pequeña. Tienes tu propio pasaporte, tu pareja ti
 
 Normalmente una persona acaba encargándose de todo, a menudo quien ya gestiona el resto de la logística del viaje, y ese único punto de fallo se convierte en un riesgo.
 
-Los pasaportes de los niños también vencen mucho más rápido que los de los adultos. En Estados Unidos, los pasaportes de niños menores de 16 años duran 5 años, mientras que los pasaportes de adultos duran 10 años. Lo mismo se aplica en el Reino Unido —los documentos de los niños vencen después de 5 años, no 10. Esto significa que el pasaporte de tu hijo más joven a menudo se convierte en el factor limitante para los viajes familiares. Podrías tener un progenitor con 8 años de validez restante, pero si el pasaporte de tu hijo más joven vence en 18 meses, ese es tu horizonte de planificación.
+Los pasaportes de los niños suelen vencer antes que los de los adultos. En el Reino Unido tienen una validez de 5 años, y muchos otros países expiden pasaportes infantiles con una validez menor que la de los adultos. Esto significa que el pasaporte de tu hijo más joven a menudo se convierte en el factor limitante para los viajes familiares. Podrías tener un progenitor con 8 años de validez restante, pero si el pasaporte de tu hijo más joven vence en 18 meses, ese es tu horizonte de planificación.
 
-La mayoría de las familias no se dan cuenta de esto hasta que ya han reservado un viaje. Un progenitor encuentra los pasaportes una semana antes de la salida, escanéandolos apresuradamente mientras empacan, y descubre que el documento de un niño no cumplirá con la regla de validez de 6 meses para su destino. El viaje está ahora en riesgo, o requiere una renovación de pasaporte apresurada y costosa.
+La mayoría de las familias no se dan cuenta de esto hasta que ya han reservado un viaje. Un progenitor encuentra los pasaportes una semana antes de la salida, escanéandolos apresuradamente mientras empacan, y descubre que el documento de un niño no cumplirá con la norma de validez que aplican algunos destinos, a menudo de seis meses. El viaje está ahora en riesgo, o requiere una renovación de pasaporte apresurada y costosa.
 
 ## La Base: Un Lugar Seguro Para Todos Los Pasaportes Familiares
 
@@ -34,7 +34,7 @@ El primer paso es centralizar dónde viven los pasaportes familiares. Esto signi
 
 El almacenamiento cifrado es importante porque los pasaportes contienen tu nombre legal completo, fecha de nacimiento y número de pasaporte —información suficiente para robo de identidad. Las apps generales de almacenamiento de fotos como Google Photos o iCloud tratan tus documentos como instantáneas en lugar de datos de identidad sensibles. Una carpeta PDF protegida por contraseña en tu dispositivo, o una app construida específicamente para manejar documentos de viaje, te da la capa de cifrado que necesitas.
 
-![Diagrama de un sistema familiar de pasaportes: cuatro pasaportes (papá, mamá, hijo 1, hijo 2) que llegan a una sola bóveda cifrada, de la que salen avisos de vencimiento, acceso sin conexión y copia de seguridad cifrada, con una nota de que los pasaportes de los niños vencen en 5 años y no en 10](https://traveldocumentvault.com/blog/family-passport-management/family-system-figure-es.jpg) Un sistema familiar: todos los pasaportes en un solo lugar, con seguimiento automático de cada fecha de vencimiento
+![Diagrama de un sistema familiar de pasaportes: cuatro pasaportes (papá, mamá, hijo 1, hijo 2) que llegan a una sola bóveda cifrada, de la que salen avisos de vencimiento, acceso sin conexión y copia de seguridad cifrada, con una nota de que los pasaportes de los niños suelen vencer antes que los de los adultos](https://traveldocumentvault.com/blog/family-passport-management/family-system-figure-es.jpg) Un sistema familiar: todos los pasaportes en un solo lugar, con seguimiento automático de cada fecha de vencimiento
 
 **Solo copias digitales.** Escanea la página de identificación con foto de cada pasaporte de los miembros de la familia. Una imagen clara de la página que muestre la foto, nombre, fecha de nacimiento, número de pasaporte y fecha de vencimiento es suficiente. Esto debería tomar 30 segundos por persona.
 
@@ -59,7 +59,7 @@ El almacenamiento digital es conveniente, pero los dispositivos fallan y las app
 
 La mayoría de las familias hacen esto guardando originales en una caja fuerte en casa o gaveta segura, copias digitales en su app cifrada, y una copia impresa de cada página de identificación en una ubicación separada —en la casa de un miembro de la familia de confianza, en una caja de seguridad bancaria, o en una habitación diferente en una caja fuerte a prueba de fuego.
 
-Si quedas atrapado en el extranjero y necesitas reemplazar un pasaporte perdido o robado, esa copia de seguridad es lo que una embajada o consulado necesita para acelerar un reemplazo de emergencia. Una copia física guardada de forma segura en casa puede ser enviada a ti mientras estás viajando si es necesario, brindándote una salida si tus dispositivos fallan.
+Si quedas atrapado en el extranjero y necesitas reemplazar un pasaporte perdido o robado, una copia del pasaporte puede ayudar a una embajada o consulado cuando solicites un reemplazo de emergencia. Una copia física guardada de forma segura en casa puede ser enviada a ti mientras estás viajando si es necesario, brindándote una salida si tus dispositivos fallan.
 
 Para viajes internacionales, nunca lleves todos los pasaportes familiares juntos en la misma bolsa. Cada persona lleva su propio documento. Si tu equipaje de mano es robado en un aeropuerto, no has perdido cinco años de planificación. Solo el pasaporte de un miembro de la familia está en riesgo inmediato, y tienes copias digitales para probar el estado de todos los demás.
 
@@ -67,7 +67,7 @@ Para viajes internacionales, nunca lleves todos los pasaportes familiares juntos
 
 Para familias donde uno o ambos progenitores tienen nacionalidad dual, el sistema se vuelve ligeramente más complejo pero más importante de gestionar cuidadosamente.
 
-Puedes viajar con un pasaporte británico a algunos destinos y un pasaporte irlandés a otros. Tu hijo puede tener tres nacionalidades y viajar con el pasaporte que sea más conveniente para el destino. Las aerolíneas a menudo priorizan tu pasaporte por nacionalidad cuando haces check-in, y algunos consulados en realidad requieren que entres con un pasaporte específico —lo que significa que la opción "mejor" para tu viaje depende de a dónde vas y cómo llegas.
+Puedes viajar con un pasaporte británico a algunos destinos y un pasaporte irlandés a otros. Tu hijo puede tener tres nacionalidades y viajar con el pasaporte que sea más conveniente para el destino. Algunos países esperan que sus ciudadanos, incluidos quienes tienen doble nacionalidad, entren con el pasaporte de ese país, así que consulta la orientación oficial de cada destino. Esto significa que la opción "mejor" para tu viaje depende de a dónde vas y cómo llegas.
 
 La solución es sencilla: guarda copias de todos los pasaportes en tu sistema, y marca qué nacionalidad representa cada uno. Cuando estés planeando un viaje, verifica las opciones de cada miembro de la familia y decide qué pasaporte funciona mejor para ese destino específico. Documenta tu decisión en algún lugar accesible —una nota en tu itinerario de viaje, o un campo de nota en tu app de pasaportes— así que si algo sale mal, recuerdas qué documento usaste.
 
@@ -98,7 +98,7 @@ Utiliza una app dedicada que realice un seguimiento de las fechas de vencimiento
 
 ### ¿Los pasaportes de los niños vencen al mismo ritmo que los de los adultos?
 
-No. Los pasaportes de niños son válidos por 5 años en la mayoría de los países, incluidos Estados Unidos y Reino Unido, mientras que los pasaportes de adultos duran 10 años. Siempre verifica individualmente la fecha de vencimiento de cada miembro de la familia antes de reservar viajes —el documento del hijo más joven a menudo se convierte en el límite de planificación.
+A menudo no. Los pasaportes infantiles suelen tener una validez menor que los de los adultos —los británicos duran 5 años—, así que revisa cada fecha de vencimiento antes de reservar. Siempre verifica individualmente la fecha de vencimiento de cada miembro de la familia antes de reservar viajes —el documento del hijo más joven a menudo se convierte en el límite de planificación.
 
 ### ¿Debo llevar todos los pasaportes de mi familia cuando viajo?
 
@@ -106,7 +106,7 @@ No. Cada miembro de la familia debe llevar solo su propio pasaporte. Si tu equip
 
 ### ¿Qué sucede si el pasaporte de un miembro de la familia vence antes de un viaje planificado?
 
-Necesitarás renovar el pasaporte de esa persona antes de viajar. Si estás dentro de 12 meses del vencimiento cuando reservas un viaje, comienza el proceso de renovación inmediatamente. Los tiempos de procesamiento de pasaportes son impredecibles y pueden extenderse, especialmente durante las temporadas de viaje ocupadas, así que no des por hecho que hay tiempo para renovar después.
+Necesitarás renovar el pasaporte de esa persona antes de viajar. Si estás dentro de 12 meses del vencimiento cuando reservas un viaje, comienza el proceso de renovación inmediatamente. Los tiempos de procesamiento de pasaportes pueden variar, especialmente en las temporadas de mayor demanda, así que no des por hecho que hay tiempo para renovar después.
 
 ## Artículos Relacionados
 

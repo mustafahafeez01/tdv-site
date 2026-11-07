@@ -11,9 +11,9 @@ Source: https://traveldocumentvault.com/it/blog/passport-expired-what-to-do/
 ## Punti chiave
 
 - Ci sono due scenari distinti: scoprire che il Suo passaporto è scaduto **da casa prima di un viaggio**, e scoprirlo **all'aeroporto**. I passaggi sono diversi per ciascuno.
-- Non può volare internazionalmente con un passaporto scaduto. Nessuna eccezione.
-- Nel Regno Unito, esiste un servizio passaporto Premium accelerato per emergenze genuine — prenotabile su gov.uk. Negli USA, gli appuntamenti di emergenza sono disponibili tramite il Dipartimento di Stato per i viaggi urgenti.
-- All'aeroporto, contatti prima la Sua compagnia aerea — alcune riprogrammano senza costi per emergenze documentali genuine.
+- Generalmente non può prendere un volo internazionale con un passaporto scaduto.
+- Nel Regno Unito, esiste un servizio passaporto Premium accelerato per emergenze genuine — prenotabile su gov.uk. Negli USA, consulti travel.state.gov per le opzioni disponibili per i viaggi urgenti.
+- All'aeroporto, contatti prima la Sua compagnia aerea — chieda se possono riprenotare senza una penale per il cambio.
 - La soluzione futura è un avviso di scadenza a 12 mesi, non a 6 mesi. Questo dà abbastanza tempo per rinnovare con l'elaborazione standard.
 - La scadenza non è l'unico problema del passaporto che respinge i viaggiatori. Danni, mancata corrispondenza del nome, firma mancante e validità insufficiente rimasta alla destinazione causano tutti lo stesso risultato.
 
@@ -30,9 +30,9 @@ L'urgenza con cui deve agire determina cosa fare:
 - **Molto tempo prima del viaggio:** chieda il rinnovo standard online tramite il sito web della Sua autorità preposta ai passaporti — GOV.UK nel Regno Unito, travel.state.gov negli USA.
 - **Il viaggio si avvicina:** chieda immediatamente e paghi per l'elaborazione accelerata. Sia il Regno Unito che gli USA offrono online un servizio a pagamento più rapido, ed entrambi pubblicano il loro tempo di elaborazione attuale.
 - **Il viaggio è vicino:** chiami direttamente l'autorità preposta ai passaporti invece di affidarsi solo al sito web — la linea di assistenza di HM Passport Office nel Regno Unito, o il National Passport Information Center negli USA.
-- **Il viaggio è imminente:** chieda un appuntamento di emergenza e porti una prova delle Sue date di viaggio. Il servizio 1 Day Premium del Regno Unito (riservato ai rinnovi per adulti) prevede appuntamenti a partire da 2 giorni dopo la richiesta, con il passaporto pronto per il ritiro 4 ore dopo l'appuntamento, e gli USA offrono appuntamenti presso le agenzie passaporti regionali.
+- **Il viaggio è imminente:** chieda un appuntamento di emergenza e porti una prova delle Sue date di viaggio. Il servizio 1 Day Premium del Regno Unito (riservato ai rinnovi per adulti) prevede appuntamenti a partire da 2 giorni dopo la richiesta, con il passaporto pronto per il ritiro 4 ore dopo l'appuntamento, e gli USA pubblicano le opzioni per i viaggi urgenti su travel.state.gov.
 
-Tutte le autorità maggiori tengono i posti per appuntamenti di emergenza che non sono visibili online. Se il Suo arco temporale è stretto, **noi chiameremmo sempre, invece di fidarci del solo sito web.**
+Se il Suo arco temporale è stretto, **noi chiameremmo sempre, invece di fidarci del solo sito web.**
 
 ## Scenario B: Ha scoperto all'aeroporto
 
@@ -40,9 +40,9 @@ Questo scenario accade più spesso di quanto la gente si aspetti, e i passaggi n
 
 **Passo 1: Rimanga calmo e si allontani dalla fila.** Non sta imbarcarsi su questo volo, e prima accetta questa realtà, prima può iniziare a lavorare sulla soluzione.
 
-**Passo 2: Vada al bancone della compagnia aerea immediatamente.** Non lasci l'aeroporto — parli direttamente con la compagnia aerea e spieghi la situazione. Alcune compagnie aeree riprogrammeranno senza una tariffa di cambio per emergenze documentali genuine — non tutte, ma vale la pena chiedere. Ottenga la risposta per iscritto se concordano.
+**Passo 2: Vada al bancone della compagnia aerea immediatamente.** Non lasci l'aeroporto — parli direttamente con la compagnia aerea e spieghi la situazione. Le politiche variano da compagnia a compagnia, quindi chieda se possono riprenotare senza una penale per il cambio. Ottenga la risposta per iscritto se concordano.
 
-**Passo 3: Verifichi se il viaggio nazionale è possibile.** Un passaporto scaduto potrebbe comunque essere accettato come ID per i voli nazionali in alcuni Paesi, anche se questo non è garantito. Se la Sua destinazione finale è raggiungibile a livello nazionale da una città più vicina, potrebbe essere un'opzione mentre ordina il passaporto.
+**Passo 3: Verifichi se il viaggio nazionale è possibile.** Alcune compagnie potrebbero accettare altri documenti d'identità con foto per i voli nazionali: chieda alla Sua compagnia aerea. Se la Sua destinazione finale è raggiungibile a livello nazionale da una città più vicina, potrebbe essere un'opzione mentre ordina il passaporto.
 
 **Passo 4: Contatti l'autorità preposta ai passaporti per telefono.** Spieghi la Sua situazione. Nel Regno Unito, chiami il la linea di assistenza di HM Passport Office e chieda l'appuntamento più disponibile dell'ufficio passaporti più vicino. Negli USA, chiami il il National Passport Information Center degli Stati Uniti e chieda gli appuntamenti di emergenza presso l'agenzia passaporti regionale più vicina. Chieda specificamente delle opzioni d'emergenza, perché gli appuntamenti più rapidi spesso non compaiono sul sito web.
 
@@ -60,11 +60,11 @@ GOV.UK afferma che deve rinnovare il Suo passaporto prima di poter viaggiare se 
 
 ### Stati Uniti: Il Rinnovo Funziona Entro 15 Anni dal Rilascio
 
-Secondo USA.gov, può rinnovare un passaporto scaduto solo se è stato rilasciato negli ultimi 15 anni. Non può nemmeno rinnovare uno rilasciato prima del Suo 16° compleanno, uno danneggiato, perso o rubato, oppure uno con un nome precedente, a meno che non disponga di un documento legale che provi il cambiamento. Se si applica uno di questi casi, deve richiedere un nuovo passaporto di persona con il modulo DS-11.
+Gli Stati Uniti hanno requisiti propri per rinnovare un passaporto scaduto, compreso un limite al tempo trascorso dal rilascio. Consulti la pagina sui rinnovi di travel.state.gov, che indica anche quando occorre presentare domanda di persona.
 
 ### Canada: Un Passaporto Scaduto Può Essere Rinnovato Online
 
-Il governo del Canada consente il rinnovo se il Suo ultimo passaporto era un passaporto per adulti rilasciato quando aveva almeno 16 anni. Deve inoltre essere stato rilasciato entro 15 anni dalla data della Sua richiesta e avere una validità di 5 o 10 anni. Il nome, la data e il luogo di nascita riportati devono corrispondere a quelli che vuole sul nuovo passaporto. Può rinnovare online se il Suo passaporto scade nei prossimi sei mesi o è già scaduto, a condizione che il Suo indirizzo di residenza e postale siano in Canada. I passaporti per bambini non possono essere rinnovati, quindi un bambino necessita di una nuova richiesta.
+Il governo del Canada consente il rinnovo se il Suo ultimo passaporto era un passaporto per adulti rilasciato quando aveva almeno 16 anni. Deve inoltre essere stato rilasciato entro 15 anni dalla data della Sua richiesta e avere una validità di 5 o 10 anni. Può rinnovare online se il Suo passaporto scade nei prossimi sei mesi o è già scaduto, a condizione che il Suo indirizzo di residenza e postale siano in Canada. I passaporti per bambini non possono essere rinnovati, quindi un bambino necessita di una nuova richiesta.
 
 Se il Suo passaporto è scaduto anni fa, guardi prima la data di rilascio, perché il limite di 15 anni negli Stati Uniti e in Canada si conta dal rilascio, non dalla scadenza. Verifichi poi i tempi di attesa attuali prima di prenotare, cosa che la nostra guida su [quanto tempo richiede il rinnovo del passaporto](https://traveldocumentvault.com/it/blog/how-long-does-passport-renewal-take/) illustra paese per paese.
 
@@ -88,7 +88,7 @@ Anche piccole variazioni come un iniziale del secondo nome mancante o una letter
 
 ### 3. Un passaporto non firmato
 
-La maggior parte dei passaporti ha un pannello di firma. Alcuni Paesi, inclusi gli Stati Uniti, richiedono che il passaporto sia firmato prima di essere considerato valido per i viaggi. Un passaporto non firmato può essere rifiutato alla frontiera. Questo è più comunemente un problema con i passaporti rilasciati ai bambini che erano troppo giovani per firmare, o con passaporti nuovi di zecca che il titolare ha dimenticato di firmare prima di viaggiare. Dare un'occhiata al pannello di firma prima di partire da casa permette di accorgersene in tempo.
+La maggior parte dei passaporti ha un pannello di firma. Un passaporto non firmato può causare problemi alla frontiera. Questo è più comunemente un problema con i passaporti rilasciati ai bambini che erano troppo giovani per firmare, o con passaporti nuovi di zecca che il titolare ha dimenticato di firmare prima di viaggiare. Dare un'occhiata al pannello di firma prima di partire da casa permette di accorgersene in tempo.
 
 ### 4. Validità insufficiente per la Sua destinazione
 
@@ -106,7 +106,7 @@ Prima di ogni viaggio, verifichi i requisiti di ingresso ufficiali per la Sua de
 
 La causa principale è solitamente la stessa: nessun avviso in atto. Imposti un avviso di scadenza almeno **12 mesi prima della data di scadenza** — non 6 mesi. Questo le dà il tempo di rinnovare con l'elaborazione standard senza pagare per il servizio accelerato, e senza lo stress di un arco temporale stretto.
 
-Lo faccia per ogni passaporto in Suo possesso separatamente. I passaporti dei bambini scadono più velocemente — 5 anni nella maggior parte dei Paesi rispetto a 10 per gli adulti — e sono quelli più spesso persi. **Tiri fuori oggi ogni passaporto e controlli la data di scadenza, non solo la pagina della foto.**
+Lo faccia per ogni passaporto in Suo possesso separatamente. I passaporti dei bambini scadono più velocemente — spesso 5 anni rispetto a 10 per gli adulti — e sono quelli più spesso persi. **Tiri fuori oggi ogni passaporto e controlli la data di scadenza, non solo la pagina della foto.**
 
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 
@@ -122,11 +122,11 @@ Chieda il rinnovo immediatamente e paghi l'elaborazione accelerata se il Suo via
 
 ### Cosa devo fare se scopro che il mio passaporto è scaduto all'aeroporto?
 
-Non sarà in grado di imbarcarsi. Vada al bancone della compagnia aerea immediatamente per discutere le opzioni di riprogrammazione — alcuni rinunciano alle tariffe di cambio per emergenze documentali genuine. Quindi chiami l'autorità preposta ai passaporti e chieda specificamente delle opzioni per un appuntamento d'emergenza, perché gli appuntamenti più rapidi spesso non compaiono sul sito web.
+Non sarà in grado di imbarcarsi. Vada al bancone della compagnia aerea immediatamente per discutere le opzioni di riprogrammazione — chieda se possono riprenotare senza una penale per il cambio. Quindi chiami l'autorità preposta ai passaporti e chieda specificamente delle opzioni per un appuntamento d'emergenza, perché gli appuntamenti più rapidi spesso non compaiono sul sito web.
 
 ### Quanto velocemente posso ottenere un passaporto di emergenza se il mio è scaduto?
 
-Nel Regno Unito, un servizio Premium accelerato è disponibile negli uffici passaporti designati per emergenze genuine — appuntamento richiesto, verifichi il tempo di elaborazione attuale e la prenotazione su gov.uk. Negli USA, gli appuntamenti di emergenza in persona sono disponibili presso le agenzie passaporti regionali per i viaggi urgenti — verifichi tariffe e disponibilità attuali su travel.state.gov. In Australia, verifichi su passports.gov.au le opzioni di elaborazione urgente.
+Nel Regno Unito, un servizio Premium accelerato è disponibile negli uffici passaporti designati per emergenze genuine — appuntamento richiesto, verifichi il tempo di elaborazione attuale e la prenotazione su gov.uk. Negli USA, consulti travel.state.gov per le opzioni per i viaggi urgenti, le tariffe e la disponibilità attuali. In Australia, verifichi su passports.gov.au le opzioni di elaborazione urgente.
 
 ### Come evito che il mio passaporto scada inaspettatamente?
 

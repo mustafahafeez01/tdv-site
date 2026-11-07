@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/nl/blog/safest-way-to-store-passport-dig
 ## Belangrijkste punten
 
 - **iCloud Photos (met Geavanceerde gegevensbescherming)** biedt end-to-end versleuteling, maar koppelt je paspoortkopieën nog steeds aan je Apple ID-account.
-- **Google Photos** is standaard niet end-to-end versleuteld en indexeert je inhoud, waardoor het minder geschikt is voor gevoelige identiteitsdocumenten.
+- **Google Photos** wordt door Google niet als end-to-end versleuteld beschreven en indexeert je inhoud, waardoor het minder geschikt is voor gevoelige identiteitsdocumenten.
 - **Speciale versleutelde apps** bewaren paspoortgegevens op het toestel met AES-256-versleuteling, vereisen geen account of cloud-upload, en werken offline. Dit is de veiligste optie.
 - Elke aanpak brengt afwegingen tussen gemak en veiligheid met zich mee die je moet begrijpen voordat je kiest.
 - De veiligste methode hangt af van je persoonlijke risicotolerantie, maar een digitale kopie van je paspoort verdient dezelfde zorg als het origineel.
@@ -26,7 +26,7 @@ iCloud Photos synchroniseert automatisch je foto's tussen je iPhone, iPad en Mac
 
 ### Het synchroniseert automatisch, maar end-to-end versleuteling is optioneel
 
-Foto's die je maakt worden geüpload naar iCloud en versleuteld met een sleutel afgeleid van je Apple ID. Als je Geavanceerde gegevensbescherming inschakelt (Apple's optionele end-to-end versleutelingslaag), worden je foto's versleuteld op Apple's servers met sleutels die alleen jij bezit. Zelfs Apple kan ze niet ontsleutelen.
+Foto's die je maakt worden geüpload naar iCloud en versleuteld tijdens verzending en op Apple's servers, waarbij Apple de sleutels beheert. Als je Geavanceerde gegevensbescherming inschakelt (Apple's optionele end-to-end versleutelingslaag), worden je foto's versleuteld op Apple's servers met sleutels die alleen jij bezit. Zelfs Apple kan ze niet ontsleutelen.
 
 ### Wat beschermd is en wat nog van Apple afhangt
 
@@ -39,7 +39,7 @@ Foto's die je maakt worden geüpload naar iCloud en versleuteld met een sleutel 
 
 Op het gebied van gemak blinkt iCloud Photos uit: je paspoortkopie synchroniseert automatisch tussen al je Apple-apparaten en blijft behouden als je je telefoon kwijtraakt. Het inschakelen van Geavanceerde gegevensbescherming voegt end-to-end versleuteling toe die zelfs Apple niet kan omzeilen, wat de veiligheid aanzienlijk verbetert ten opzichte van standaard iCloud-opslag.
 
-Maar je paspoortkopie raakt gekoppeld aan je Apple ID-account, wat een potentieel enkel kwetsbaar punt creëert dat zich uitstrekt over al je iCloud-gegevens. Als iemand je Apple ID compromitteert via een zwak wachtwoord, hergebruikte inloggegevens of social engineering, krijgt die persoon toegang tot alles in je iCloud-account, inclusief je paspoortscans. Je vertrouwt ook op Apple's operationele beveiliging, wat betekent dat een inbraak in hun systemen je gegevens op hun servers zou blootleggen, hoewel Apple over het algemeen wordt gezien als een sterke beheerder van beveiliging.
+Maar je paspoortkopie raakt gekoppeld aan je Apple ID-account, wat een potentieel enkel kwetsbaar punt creëert dat zich uitstrekt over al je iCloud-gegevens. Als iemand je Apple ID compromitteert via een zwak wachtwoord, hergebruikte inloggegevens of social engineering, kan die persoon toegang krijgen tot een groot deel van je iCloud-account, en zonder Geavanceerde gegevensbescherming zijn je paspoortscans daar onderdeel van. Je vertrouwt ook op Apple's operationele beveiliging: zonder Geavanceerde gegevensbescherming beheert Apple de sleutels van je foto's op zijn servers, dus een inbraak in die systemen zou ze in principe kunnen blootleggen. Met de functie aan blijven de sleutels op je eigen toestellen.
 
 ## Optie 2: Google Photos
 
@@ -49,9 +49,9 @@ Google Photos is Google's tegenhanger, met automatische back-up en organisatie v
 
 Foto's worden geüpload naar Google's servers en versleuteld tijdens verzending. Google verwerkt de foto's voor functies zoals Zoeken, Lens en aanbevelingen, wat analyse van de beeldinhoud vereist.
 
-### Standaard geen end-to-end versleuteling
+### Niet beschreven als end-to-end versleuteld
 
-- **Standaard end-to-end versleuteld:** Nee. Google Photos gebruikt versleuteling tijdens verzending, maar niet end-to-end. Google kan je foto's ontsleutelen en bekijken.
+- **End-to-end versleuteld:** Niet beschreven door Google. Google beschrijft versleuteling tijdens verzending en in opslag, en beschrijft Photos niet als end-to-end versleuteld. De systemen van Google kunnen je foto's verwerken.
 - **Contentscanning:** Google indexeert en analyseert fotoinhoud voor functies en aanbevelingen.
 - **Account vereist:** Ja, je Google-account.
 - **Cloud-upload:** Ja, automatisch.
@@ -59,11 +59,11 @@ Foto's worden geüpload naar Google's servers en versleuteld tijdens verzending.
 
 ### Sterke integratie, zwakkere bescherming voor gevoelige documenten
 
-Google Photos biedt diepe integratie met Android, gratis opslagopties en krachtige zoekmogelijkheden, wat aantrekkelijk is qua gemak. Maar de veiligheidsnadelen voor gevoelige documenten wegen zwaarder: Google Photos gebruikt standaard geen end-to-end versleuteling, wat betekent dat Google technisch gezien toegang heeft tot je foto's, en je paspoortscans worden verwerkt door Google's systemen voor contentanalyse. Google heeft in het verleden ook beveiligingsincidenten gehad, en identiteitsdocumenten hebben bijzonder zorgvuldige bescherming nodig, waardoor Google Photos een minder veilige keuze is dan alternatieven wanneer het beschermen van gevoelige gegevens je prioriteit is.
+Google Photos biedt diepe integratie met Android, een gratis tegoed dat je met je hele Google-account deelt en krachtige zoekmogelijkheden, wat aantrekkelijk is qua gemak. Maar de veiligheidsnadelen voor gevoelige documenten wegen zwaarder: Google beschrijft Photos niet als end-to-end versleuteld, dus de systemen van Google kunnen je foto's verwerken, en je paspoortscans worden verwerkt door Google's systemen voor contentanalyse. Identiteitsdocumenten hebben bijzonder zorgvuldige bescherming nodig, waardoor Google Photos een minder veilige keuze is dan alternatieven wanneer het beschermen van gevoelige gegevens je prioriteit is.
 
 Wat dit in de praktijk betekent
 
-Als je Google-account wordt gecompromitteerd, kan iemand met toegang je paspoortscans ophalen uit je fotobibliotheek. Omdat Google deze foto's indexeert voor zoeken, worden de afbeeldingen verwerkt door geautomatiseerde systemen en op meerdere plekken binnen Google's infrastructuur opgeslagen, wat het blootstellingsoppervlak vergroot.
+Als je Google-account wordt gecompromitteerd, kan iemand met toegang je paspoortscans ophalen uit je fotobibliotheek. Omdat Google deze foto's indexeert voor zoeken, worden de afbeeldingen verwerkt door geautomatiseerde systemen en zijn ze dus slechts zo veilig als het account waarin ze staan.
 
 ## Optie 3: Speciale versleutelde apps
 
@@ -124,11 +124,11 @@ Welke methode je ook kiest, onthoud dat een digitale kopie van je paspoort net z
 
 ### Is iCloud Photos veilig voor het bewaren van paspoortkopieën?
 
-iCloud Photos met Geavanceerde gegevensbescherming biedt end-to-end versleuteling, wat veiliger is dan standaard iCloud-opslag. Je paspoortscans zijn nog steeds versleuteld en opgeslagen op Apple's servers, wat een gedeeld aanvalsoppervlak creëert met je Apple ID. Als je Apple ID wordt gecompromitteerd, krijgt een aanvaller toegang tot alles in je iCloud-account. Voor identiteitsdocumenten betekent dit een extra risico vergeleken met het alleen op je toestel bewaren ervan.
+iCloud Photos met Geavanceerde gegevensbescherming biedt end-to-end versleuteling, wat veiliger is dan standaard iCloud-opslag. Je paspoortscans zijn nog steeds versleuteld en opgeslagen op Apple's servers, wat een gedeeld aanvalsoppervlak creëert met je Apple ID. Als je Apple ID wordt gecompromitteerd, kan een aanvaller toegang krijgen tot een groot deel van je iCloud-account, en zonder Geavanceerde gegevensbescherming zijn je paspoortscans daar onderdeel van. Voor identiteitsdocumenten betekent dit een extra risico vergeleken met het alleen op je toestel bewaren ervan.
 
 ### Waarom wordt Google Photos niet aangeraden voor het bewaren van paspoorten?
 
-Google Photos is standaard niet end-to-end versleuteld. Google indexeert en scant de inhoud van foto's voor functies zoals zoeken en organiseren, wat betekent dat je paspoortafbeeldingen door Google's systemen worden verwerkt. Google heeft in het verleden ook beveiligingsincidenten gehad. Voor gevoelige identiteitsdocumenten maakt deze combinatie van standaard ontbrekende end-to-end versleuteling en contentscanning Google Photos tot een minder veilige keuze dan de alternatieven.
+Google beschrijft Photos niet als end-to-end versleuteld. Google indexeert en scant de inhoud van foto's voor functies zoals zoeken en organiseren, wat betekent dat je paspoortafbeeldingen door Google's systemen worden verwerkt. Voor gevoelige identiteitsdocumenten maakt deze combinatie van niet beschreven end-to-end versleuteling en contentscanning Google Photos tot een minder veilige keuze dan de alternatieven.
 
 ### Wat zijn de voordelen van een speciale versleutelde app voor het bewaren van paspoorten?
 
@@ -140,7 +140,7 @@ Ja. Veel mensen bewaren een gescande kopie in iCloud of Google Photos voor dagel
 
 ### Welke opslagmethode is het beste voor een gezin met meerdere reizigers?
 
-Voor gezinnen biedt een speciale versleutelde app die documenten voor meerdere personen binnen één app bewaart, zonder cloud-upload, doorgaans de beste balans tussen veiligheid en gemak. Zo kan één ouder of voogd de paspoortdocumenten van alle gezinsleden beheren zonder dat iedereen een eigen app of cloudaccount nodig heeft, terwijl gevoelige documenten van externe servers worden weggehouden.
+Voor gezinnen biedt een speciale versleutelde app die documenten voor meerdere personen binnen één app zonder account bewaart, zonder cloud-upload, doorgaans de beste balans tussen veiligheid en gemak. Zo kan één ouder of voogd de paspoortdocumenten van alle gezinsleden beheren zonder dat iedereen een eigen app of cloudaccount nodig heeft, terwijl gevoelige documenten van externe servers worden weggehouden.
 
 ## Gerelateerde artikelen
 

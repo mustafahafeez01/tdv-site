@@ -12,8 +12,8 @@ Source: https://traveldocumentvault.com/sv/blog/travel-insurance-documents/
 
 - **Spara ditt fullständiga försäkringsdokument, försäkringsnummer och 24-timmarsnumret för nödsituationer** (inte försäljningsnumret).
 - Lagra kopior offline och där de är lätt att nå – enbart mejl hjälper inte när du är strandsatt eller på sjukhus.
-- **Förhandsbekräftelse för medicinsk behandling krävs av de flesta försäkringar**; att hoppa över det kan minska eller ogiltiga gör din skada.
-- Skador avslås oftast på grund av saknade handlingar: polisrapport för stöld, originalkvitton, signerade skadeformulär.
+- **Många försäkringar kräver att du kontaktar försäkringsbolaget före medicinsk behandling**; att hoppa över det kan minska eller ogiltiga gör din skada.
+- En vanlig orsak till att skador avslås är saknade handlingar: polisrapport för stöld, originalkvitton, signerade skadeformulär.
 - Läs din försäkrings nyckeldelar snabbt genom att fokusera på försäkringsgränser, undantag och villkor.
 
 Reseförsäkringen betyder som mest i det ögonblick den är som svårast att nå: en sjukhusdisk utomlands, en polisstation, en flygbolagsdisk efter en inställd avgång. Det som räknas då är inte försäkringen i sig utan om numret, bolagets dygnetruntlinje och beviset på vad som ingår finns inom räckhåll. Den här artikeln går igenom vad som bör sparas före avresan, var det ska ligga för att öppnas utan internet, och vilka anmälningsmisstag som oftast sänker en ersättning.
@@ -34,7 +34,7 @@ Dina försäkringshandlingar finns hos den som sålde dig försäkringen, så b�
 - **Försäkringsbeskedet eller certifikatet:** ditt namn, försäkringsnummer, resedatum och omfattning
 - **Numret för akut hjälp dygnet runt**, det du ringer från ett sjukhus eller en polisstation utomlands
 
-Om du inte alls minns att du köpt en försäkring, kontrollera ditt bankkonto. Den brittiska finansombudsmannen (Financial Ombudsman Service) beskriver ett paketkonto som ett vanligt konto som tar ut en månadsavgift i utbyte mot extra förmåner, reseförsäkring bland dem. I så fall är det banken, inte ett reseförsäkringsbolag, som har dina handlingar, så dess app, webbplats eller kundtjänst är där du ska leta.
+Om du inte alls minns att du köpt en försäkring, kontrollera ditt bankkonto. Den brittiska finansombudsmannen (Financial Ombudsman Service) beskriver ett paketkonto som ett vanligt konto som tar ut en månadsavgift i utbyte mot extra förmåner, reseförsäkring bland dem. I så fall är banken oftast det första stället att fråga, så prova dess app, webbplats eller kundtjänst.
 
 När du har dem rekommenderar brittiska utrikesdepartementet (Foreign, Commonwealth and Development Office) att du tar med dig försäkringsuppgifterna, inklusive försäkringsnumret och försäkringsbolagets akutnummer. De föreslår också att du delar dem med dina medresenärer och familjen hemma. Hittar du fortfarande ingenting, ring försäkringsbolaget, eller banken för paketförsäkring, och be dem skicka handlingarna igen innan du flyger i stället för efter att något har gått fel.
 
@@ -48,7 +48,7 @@ Din reseförsäkring är vanligtvis en PDF. Den en filen innehåller allt du beh
 - Vad som är försäkrat avsnitt (försäkringsgränser för medicinsk, bagage, avbokad, etc.)
 - Viktiga undantag och villkor (inklusive krav på förhandsbekräftelse)
 
-Försäkringsnumret är kritiskt. De flesta försäkringsbolags telefonsystem kräver det före det dirigerar dig till en levande person. Om du inte kan ge det kommer du att slösa tid på att söka efter handlingar medan klockan tickar.
+Försäkringsnumret är kritiskt. Ha försäkringsnumret redo, eftersom försäkringsbolaget oftast frågar efter det först. Om du inte kan ge det kommer du att slösa tid på att söka efter handlingar medan klockan tickar.
 
 Nödlinjen är annorlunda från kundservicelinjen, som vanligtvis bara öppet under affärstimmar, medan nödlinjen är öppen 24/7. Spara båda, men vet vilken du ska ringa mitt på natten när du är skadad.
 
@@ -92,7 +92,7 @@ Ett handskrivet kort fungerar lika bra som en utskrift: försäkringsnummer, fö
 
 ### Medicinska anspråk: Du fick inte förhandsbekräftelse
 
-De flesta reseförsäkringar kräver förhandsbekräftelse före behandling. Det betyder att ringa din försäkring och få godkännande före du besöker ett sjukhus eller klinik. Kraven varierar efter försäkringsbolag och försäkringstyp – kontrollera avsnittet om medicinsk behandling i din specifika försäkring. Om du hoppar över det här steget och betalar själv kommer du ofta bli avslaget med "behandlingen var inte förhandsbekräftad." Många försäkringsbolag ersätter inte utan förhandsbekräftelse, även om behandlingen var nödvändig och försäkrad.
+Många reseförsäkringar kräver att du kontaktar försäkringsbolaget före behandling, så kontrollera dina villkor. Det innebär oftast att ringa din försäkring och få godkännande före du besöker ett sjukhus eller klinik. Kraven varierar efter försäkringsbolag och försäkringstyp – kontrollera avsnittet om medicinsk behandling i din specifika försäkring. Om du hoppar över det här steget och betalar själv kan vissa försäkringsbolag minska eller avslå anspråket, även om behandlingen var nödvändig och försäkrad.
 
 Säg att du blir inlagd med blindtarmsinflammation i Mumbai. Sjukhuset kräver betalning i förväg eller en garanti från din försäkring, och du har ett två timmars fönster före operation. Utan din försäkrings förhandsbekräftelse nummer kräver sjukhuset kontanter. Det lämnar två dåliga alternativ: betala nu och riskera ett avslaget anspråk månader senare, eller fördröja operation medan du jagar din försäkring. Ett samtal undviker allt. Med ett bekräftelsenummer i hand fakturerar sjukhuset din försäkring direkt.
 
@@ -100,7 +100,7 @@ Säg att du blir inlagd med blindtarmsinflammation i Mumbai. Sjukhuset kräver b
 
 ### Bagageanspråk: Du har ingen polisrapport
 
-Om din väska blir stulen, förlorad eller skadad kräver de flesta försäkringar en polisrapport från flygplatsen eller lokal station. Försäkrare använder denna som bevis. Kontrollera din försäkrings "Hur man gör ett anspråk" sektion för exakta krav, eftersom dessa varierar efter försäkringsbolag. Om du hoppar över att anmäla till polisen och bara ansöker hos flygplatsen kan många försäkringsbolag avslå anspråk för det finns ingen officiell brottsrapport. För stöld eller förlust (inte enkel skada) är en polisrapport vanligtvis obligatorisk.
+Om din väska blir stulen, förlorad eller skadad ber många försäkringar om en polisrapport från flygplatsen eller lokal station. Försäkrare använder denna som bevis. Kontrollera din försäkrings "Hur man gör ett anspråk" sektion för exakta krav, eftersom dessa varierar efter försäkringsbolag. Om du hoppar över att anmäla till polisen och bara ansöker hos flygplatsen kan vissa försäkringsbolag avslå anspråk eftersom det finns ingen officiell brottsrapport. För stöld eller förlust (inte enkel skada) ber många försäkringar om en polisrapport, så kontrollera din.
 
 Åtgärd: Om din väska försvinner, rapportera det till flygplatsens hittegodsexpedition. Om det är stöld, gör en polisanmälan samma dag och skaffa en kopia att skicka med ditt anspråk.
 
@@ -112,7 +112,7 @@ Spara alla kvitton, både fysiska original och digitala kopior. Fotografera papp
 
 ### Avbokningsanspråk: Du läste inte det fina trycket
 
-Reseförsäkring täcker avbokning av resa bara om du avbokar för en specifik täckt anledning, som varierar efter försäkring. Det innebär vanligtvis sjukdom, skada eller dödsfall av en familjemedlem. Det betyder sällan kalla fötter, ändrade planer eller dåligt väder, om inte vädret sätter stopp för din transport helt. Om du avbokar för priset på flyg sjunkit kommer de flesta försäkringarna inte täcka dig. Hur generös din försäkring är om detta varierar mycket, så det är värt att läsa "avbokning av resa" sektion noga före du antar du är täckt.
+Reseförsäkring täcker avbokning av resa bara om du avbokar för en specifik täckt anledning, som varierar efter försäkring. Det innebär vanligtvis sjukdom, skada eller dödsfall av en familjemedlem, men kontrollera listan i din försäkring. Det betyder sällan kalla fötter, ändrade planer eller dåligt väder, om inte vädret sätter stopp för din transport helt. Om du avbokar för priset på flyg sjunkit kommer de flesta försäkringarna inte täcka dig. Hur generös din försäkring är om detta varierar mycket, så det är värt att läsa "avbokning av resa" sektion noga före du antar du är täckt.
 
 Åtgärd: Före avbokning kontrollera din försäkrings täckningsdetaljer. Om du tror din anledning är kvalificerad, ring din försäkring före avbokning av ditt flyg. Få skriftlig bekräftelse av täckning från dem före du fortsätter.
 
@@ -150,15 +150,15 @@ Tjugo minuter nu, och du kommer inte letar efter något av det i en kris.
 
 ### Behöver jag bära med mig mitt fysiska försäkringsdokument när jag reser?
 
-Nej, du behöver inte ha pappersdokumentet med dig. En digital kopia på telefonen eller ett foto är tillräckligt. De flesta försäkringsbolag och sjukhus accepterar en digital kopia eller bara ditt försäkringsnummer. En fysisk säkerhetskopia (fotokopia eller utskrift) är dock klokt för säkerhetens skull om telefonen tar slut. Ännu enklare: skriv ditt försäkringsnummer och nödnumret på ett kort tillsammans med passet.
+Nej, du behöver inte ha pappersdokumentet med dig. En digital kopia på telefonen eller ett foto är tillräckligt. Försäkringsbolag och sjukhus brukar be om ditt försäkringsnummer, och en digital kopia hjälper oftast. En fysisk säkerhetskopia (fotokopia eller utskrift) är dock klokt för säkerhetens skull om telefonen tar slut. Ännu enklare: skriv ditt försäkringsnummer och nödnumret på ett kort tillsammans med passet.
 
 ### Vad ska jag göra om jag inte kan nå försäkringsbolagets nödlinje utomlands?
 
-Försäkringsbola nödlinjer accepterar vanligtvis internationella samtal globalt. Kontrollera din försäkring för ett alternativt nummer för samtal från utanför försäkringsbolagets hemland. Om du inte kan nå dem kan du fortsätta med behandling och spara alla kvitton och handlingar. Ring dem så fort du kan och kontrollera din försäkring för skadereglerings fristen. Var medveten om att fortsätta utan förgodkännande kan minska eller avslå din skada, så försök alltid nå dem först.
+Kontrollera i din försäkring vilket nummer som fungerar från utlandet, eftersom gratisnummer ofta inte gör det. Många försäkringar anger ett alternativt nummer för samtal från utanför försäkringsbolagets hemland. Om du inte kan nå dem kan du fortsätta med behandling och spara alla kvitton och handlingar. Ring dem så fort du kan och kontrollera din försäkring för skadereglerings fristen. Var medveten om att fortsätta utan förgodkännande kan minska eller avslå din skada, så försök alltid nå dem först.
 
 ### Vad ska jag göra om jag förlorar min försäkring under resan?
 
-Om du har ditt försäkringsnummer och kan ringa försäkringsbolagets nödlinje är det allt du behöver. Ge ditt försäkringsnummer och personuppgifter per telefon och de bekräftar din försäkring. Om du har sparat säkerhetskopior (digitala foton, molnkopior eller anteckningar) kan du använda dem. De flesta försäkringsbolag förvarar register och kan skicka din försäkring igen omedelbar.
+Om du har ditt försäkringsnummer och kan ringa försäkringsbolagets nödlinje är det allt du behöver. Ge ditt försäkringsnummer och personuppgifter per telefon och de bekräftar din försäkring. Om du har sparat säkerhetskopior (digitala foton, molnkopior eller anteckningar) kan du använda dem. Försäkringsbolag kan i regel bekräfta din täckning utifrån försäkringsnumret och skicka handlingarna igen.
 
 ### Vilka avsnitt i en reseförsäkring behöver jag faktiskt läsa?
 
@@ -166,7 +166,7 @@ Fokusera på: försäkringsöversikt eller schema (dina ersättningsgränser), u
 
 ### Fungerar reseförsäkring i alla länder jag reser till?
 
-Reseförsäkring skyddar dig i de flesta länder i världen under din resa, men vissa försäkringar utesluter vissa destinationer, regioner eller aktiviteter. Kontrollera din försäkrings geografiska täckningsavsnitt för eventuella undantag. Så länge din destination inte är uttryckligen listad som utesluten försäkrar din försäkring dig där oavsett vilken land som utfärdade försäkringen. Högrisk aktiviteter (klättring, professionell sport) kan ha separata undantag.
+Reseförsäkring skyddar dig i de flesta länder i världen under din resa, men vissa försäkringar utesluter vissa destinationer, regioner eller aktiviteter. Kontrollera din försäkrings geografiska täckningsavsnitt för eventuella undantag. Täckningen varierar mellan försäkringar, så kontrollera avsnittet om geografisk täckning för destinationer som är undantagna. Högrisk aktiviteter (klättring, professionell sport) kan ha separata undantag.
 
 ## Relaterade artiklar
 

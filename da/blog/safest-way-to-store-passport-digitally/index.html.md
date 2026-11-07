@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/da/blog/safest-way-to-store-passport-dig
 ## Vigtigste punkter
 
 - **iCloud Photos (med Avanceret databeskyttelse)** giver ende-til-ende-kryptering, men kobler stadig dine paskopier til din Apple-ID-konto.
-- **Google Photos** er ikke ende-til-ende-krypteret som standard og indekserer dit indhold, hvilket gør det mindre velegnet til følsomme identitetsdokumenter.
+- **Google Photos** beskrives ikke af Google som ende-til-ende-krypteret og indekserer dit indhold, hvilket gør det mindre velegnet til følsomme identitetsdokumenter.
 - **Dedikerede krypterede apps** gemmer pasdata lokalt på enheden med AES-256-kryptering, kræver hverken konto eller cloud-upload, og virker offline. Det er den mest sikre løsning.
 - Hver metode indebærer afvejninger mellem bekvemmelighed og sikkerhed, som du bør forstå, før du vælger.
 - Den sikreste metode afhænger af din personlige risikotolerance, men en digital kopi af dit pas fortjener den samme omhu som originalen.
@@ -26,7 +26,7 @@ iCloud Photos synkroniserer automatisk dine billeder på tværs af din iPhone, i
 
 ### Den synkroniserer automatisk, men ende-til-ende-kryptering er et tilvalg
 
-Billeder, du tager, uploades til iCloud og krypteres med en nøgle udledt af dit Apple-ID. Hvis du aktiverer Avanceret databeskyttelse (Apples valgfrie lag med ende-til-ende-kryptering), krypteres dine billeder på Apples servere med nøgler, som kun du besidder. End ikke Apple kan dekryptere dem.
+Billeder, du tager, uploades til iCloud og krypteres under overførsel og på Apples servere, hvor Apple har nøglerne. Hvis du aktiverer Avanceret databeskyttelse (Apples valgfrie lag med ende-til-ende-kryptering), krypteres dine billeder på Apples servere med nøgler, som kun du besidder. End ikke Apple kan dekryptere dem.
 
 ### Hvad der er beskyttet, og hvad der stadig afhænger af Apple
 
@@ -39,7 +39,7 @@ Billeder, du tager, uploades til iCloud og krypteres med en nøgle udledt af dit
 
 Rent bekvemmelighedsmæssigt er iCloud Photos stærk: din paskopi synkroniseres automatisk på tværs af alle dine Apple-enheder og forbliver tilgængelig, selv hvis du mister telefonen. Aktivering af Avanceret databeskyttelse tilføjer ende-til-ende-kryptering, som end ikke Apple kan omgå, hvilket forbedrer sikkerheden markant sammenlignet med almindelig iCloud-lagring.
 
-Men din paskopi bliver koblet til dit Apple-ID, hvilket skaber et potentielt enkelt svaghedspunkt, der strækker sig over alle dine iCloud-data. Hvis nogen kompromitterer dit Apple-ID via et svagt kodeord, genbrugt kodeord eller social manipulation, får de adgang til alt i din iCloud-konto, inklusive dine paskopier. Du stoler også på Apples driftssikkerhed, hvilket betyder, at et brud på deres systemer ville eksponere dine data på deres servere, selvom Apple generelt anses som en solid sikkerhedsaktør.
+Men din paskopi bliver koblet til dit Apple-ID, hvilket skaber et potentielt enkelt svaghedspunkt, der strækker sig over alle dine iCloud-data. Hvis nogen kompromitterer dit Apple-ID via et svagt kodeord, genbrugt kodeord eller social manipulation, kan de få adgang til meget af din iCloud-konto, og uden Avanceret databeskyttelse omfatter det dine paskopier. Du stoler også på Apples driftssikkerhed: Uden Avanceret databeskyttelse har Apple nøglerne til dine billeder på sine servere, så et brud på de systemer kan i princippet eksponere dem. Med funktionen slået til bliver nøglerne på dine enheder.
 
 ## Mulighed 2: Google Photos
 
@@ -49,9 +49,9 @@ Google Photos er Googles tilsvarende tjeneste, med automatisk backup og organise
 
 Billeder uploades til Googles servere og krypteres under overførsel. Google behandler billederne til funktioner som søgning, Lens og anbefalinger, hvilket kræver analyse af billedindholdet.
 
-### Ingen ende-til-ende-kryptering som standard
+### Ikke beskrevet som ende-til-ende-krypteret
 
-- **Ende-til-ende-krypteret som standard:** Nej. Google Photos bruger kryptering under overførsel, men ikke ende-til-ende. Google kan dekryptere og se dine billeder.
+- **Ende-til-ende-krypteret:** Ikke beskrevet af Google. Google beskriver kryptering under overførsel og i hvile, men beskriver ikke Photos som ende-til-ende-krypteret. Googles systemer kan behandle dine billeder.
 - **Indholdsscanning:** Google indekserer og analyserer billedindhold til funktioner og anbefalinger.
 - **Kræver konto:** Ja, din Google-konto.
 - **Cloud-upload:** Ja, automatisk.
@@ -59,11 +59,11 @@ Billeder uploades til Googles servere og krypteres under overførsel. Google beh
 
 ### Stærk integration, svagere beskyttelse af følsomme dokumenter
 
-Google Photos tilbyder tæt integration med Android, gratis lagringsmuligheder og kraftfuld søgning, hvilket er tiltalende rent bekvemmelighedsmæssigt. Men sikkerhedsulemperne for følsomme dokumenter vejer tungere: Google Photos bruger ikke ende-til-ende-kryptering som standard, hvilket betyder, at Google teknisk set kan tilgå dine billeder, og dine paskopier behandles af Googles systemer til indholdsanalyse. Google har også tidligere oplevet sikkerhedshændelser, og identitetsdokumenter kræver særligt omhyggelig beskyttelse, hvilket gør Google Photos til et mindre sikkert valg end alternativerne, når beskyttelse af følsomme data er din prioritet.
+Google Photos tilbyder tæt integration med Android, gratis lagringsmuligheder og kraftfuld søgning, hvilket er tiltalende rent bekvemmelighedsmæssigt. Men sikkerhedsulemperne for følsomme dokumenter vejer tungere: Google beskriver ikke Photos som ende-til-ende-krypteret, så deres systemer kan behandle dine billeder, og dine paskopier behandles af Googles systemer til indholdsanalyse. Identitetsdokumenter kræver særligt omhyggelig beskyttelse, hvilket gør Google Photos til et mindre sikkert valg end alternativerne, når beskyttelse af følsomme data er din prioritet.
 
 Hvad det betyder i praksis
 
-Hvis din Google-konto bliver kompromitteret, kan en person med adgang hente dine paskopier fra dit fotobibliotek. Fordi Google indekserer disse billeder til søgning, behandles billederne af automatiserede systemer og gemmes flere steder i Googles infrastruktur, hvilket øger eksponeringsfladen.
+Hvis din Google-konto bliver kompromitteret, kan en person med adgang hente dine paskopier fra dit fotobibliotek. Fordi Google indekserer disse billeder til søgning, behandles billederne af automatiserede systemer og er derfor kun så sikre som den konto, de ligger på.
 
 ## Mulighed 3: Dedikerede krypterede apps
 
@@ -124,11 +124,11 @@ Uanset hvilken metode du vælger, så husk, at en digital kopi af dit pas er lig
 
 ### Er iCloud Photos sikkert til opbevaring af paskopier?
 
-iCloud Photos med Avanceret databeskyttelse giver ende-til-ende-kryptering, hvilket er mere sikkert end almindelig iCloud-lagring. Dine passcanninger er dog stadig krypteret og gemt på Apples servere, hvilket skaber en delt sårbarhedsflade med dit Apple-ID. Hvis dit Apple-ID bliver kompromitteret, får en angriber adgang til alt i din iCloud-konto. For identitetsdokumenter udgør det en ekstra risiko sammenlignet med kun at opbevare dem på din enhed.
+iCloud Photos med Avanceret databeskyttelse giver ende-til-ende-kryptering, hvilket er mere sikkert end almindelig iCloud-lagring. Dine passcanninger er dog stadig krypteret og gemt på Apples servere, hvilket skaber en delt sårbarhedsflade med dit Apple-ID. Hvis dit Apple-ID bliver kompromitteret, kan en angriber få adgang til meget af din iCloud-konto, og uden Avanceret databeskyttelse omfatter det dine passcanninger. For identitetsdokumenter udgør det en ekstra risiko sammenlignet med kun at opbevare dem på din enhed.
 
 ### Hvorfor anbefales Google Photos ikke til opbevaring af pas?
 
-Google Photos er ikke ende-til-ende-krypteret som standard. Google indekserer og scanner indholdet af fotos til funktioner som søgning og organisering, hvilket betyder, at dine pasbilleder behandles af Googles systemer. Google har historisk set også haft sikkerhedshændelser. For følsomme identitetsdokumenter gør kombinationen af manglende ende-til-ende-kryptering som standard og indholdsscanning Google Photos til et mindre sikkert valg end alternativerne.
+Google beskriver ikke Photos som ende-til-ende-krypteret. Google indekserer og scanner indholdet af fotos til funktioner som søgning og organisering, hvilket betyder, at dine pasbilleder behandles af Googles systemer. For følsomme identitetsdokumenter gør kombinationen af ingen beskrevet ende-til-ende-kryptering og indholdsscanning Google Photos til et mindre sikkert valg end alternativerne.
 
 ### Hvad er fordelene ved en dedikeret krypteret app til opbevaring af pas?
 
@@ -140,7 +140,7 @@ Ja. Mange gemmer en scannet kopi i iCloud eller Google Photos til daglig adgang 
 
 ### Hvilken opbevaringsmetode er bedst for en familie med flere rejsende?
 
-For familier giver en dedikeret krypteret app, der gemmer dokumenter for flere personer i samme app uden cloud-upload, typisk den bedste balance mellem sikkerhed og bekvemmelighed. Det lader én forælder eller værge administrere alle familiemedlemmers pasdokumenter uden at hver enkelt skal have sin egen app eller cloud-konto, samtidig med at følsomme dokumenter holdes væk fra eksterne servere.
+For familier giver en dedikeret krypteret app, der gemmer dokumenter for flere personer i samme app uden konto og uden cloud-upload, typisk den bedste balance mellem sikkerhed og bekvemmelighed. Det lader én forælder eller værge administrere alle familiemedlemmers pasdokumenter uden at hver enkelt skal have sin egen app eller cloud-konto, samtidig med at følsomme dokumenter holdes væk fra eksterne servere.
 
 ## Relaterede artikler
 

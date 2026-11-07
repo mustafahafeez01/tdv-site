@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/nl/blog/international-driving-permit-val
 - Landen hebben verschillende verdragen geratificeerd, dus **een rijbewijs dat in het ene land wordt geaccepteerd, kan in het volgende worden geweigerd**.
 - Paspoort, rijbewijs en internationaal rijbewijs lopen op **drie aparte klokken** die vrijwel nooit gelijk lopen.
 
-Een internationaal rijbewijs is een vertaling van het rijbewijs, geen rijbewijs op zichzelf, en het loopt volgens zijn eigen termijn. De meeste zijn twaalf maanden geldig vanaf de afgiftedatum, dus het exemplaar dat drie zomers geleden voor een reis werd gekocht, is vrijwel zeker verlopen. Verhuurbalies in verschillende landen vragen erom voordat ze een auto meegeven.
+Een internationaal rijbewijs is een vertaling van het rijbewijs, geen rijbewijs op zichzelf, en het loopt volgens zijn eigen termijn. Veel ervan zijn twaalf maanden geldig vanaf de afgiftedatum, en geen enkel is langer dan drie jaar geldig, dus het exemplaar dat drie zomers geleden voor een reis werd gekocht, is vrijwel zeker verlopen. Verhuurbalies in verschillende landen vragen erom voordat ze een auto meegeven.
 
 Een internationaal rijbewijs heeft zijn eigen vervaldatum, en die datum werkt anders afhankelijk van onder welk internationaal verdrag jouw rijbewijs is afgegeven. De meeste bestuurders ontdekken pas dat er twee soorten zijn wanneer er eentje wordt geweigerd.
 
@@ -30,7 +30,7 @@ Hier gaan mensen vaker de mist in dan bij de vervaldatums. Het internationale ri
 
 ## Twee verdragen bepalen hoe lang het geldig is en waar het werkt
 
-Achter internationale rijbewijzen zitten drie internationale verdragen, en landen hebben zich bij één ervan aangesloten of bij meerdere. Twee ervan doen vrijwel al het werk: het Verdrag van Genève (1949) en het Verdrag van Wenen (1968). Een ouder internationaal rijbewijs onder het Verdrag van Parijs (1926) wordt nog voor een klein aantal bestemmingen afgegeven, en is net als het Geneefse rijbewijs een jaar geldig.
+Achter internationale rijbewijzen zitten drie internationale verdragen, en landen hebben zich bij één ervan aangesloten of bij meerdere. Twee ervan doen vrijwel al het werk: het Verdrag van Genève (1949) en het Verdrag van Wenen (1968). Er bestaat ook een ouder internationaal rijbewijs onder het Verdrag van Parijs (1926), dat enkele bestemmingen nog vermelden. Controleer de vervaldatum op het document.
 
 Een internationaal rijbewijs onder het Verdrag van Genève (1949) is een jaar geldig. Een internationaal rijbewijs onder het Verdrag van Wenen (1968) kan tot drie jaar meegaan.
 
@@ -40,7 +40,7 @@ Dat onderscheid is op twee manieren belangrijk. Het bepaalt hoe lang je rijbewij
 
 | Type rijbewijs | Hoe lang het geldig is | Wat het begrenst |
 |---|---|---|
-| **Verdrag van Parijs (1926)** | Eén jaar | De afgiftedatum. Tegenwoordig zelden nodig |
+| **Verdrag van Parijs (1926)** | Zie de vervaldatum op het document | De afgiftedatum. Tegenwoordig zelden nodig |
 | **Verdrag van Genève (1949)** | Eén jaar | De afgiftedatum |
 | **Verdrag van Wenen (1968)** | Tot drie jaar | Je eigen rijbewijs, als dat eerder verloopt |
 
@@ -90,9 +90,9 @@ Dit doet het meeste pijn bij een reis die op korte termijn is geboekt. Het inter
 
 ## Een internationale rijlicentie bestaat niet
 
-Zoek naar een internationaal rijbewijs en je vindt sites die iets verkopen dat een 'internationale rijlicentie' heet, vaak voor aanzienlijk meer dan het officiële internationale rijbewijs kost, soms met de belofte van directe levering of tien jaar geldigheid.
+Zoek naar een internationaal rijbewijs en je vindt sites die iets verkopen dat een 'internationale rijlicentie' heet, soms voor meer dan het officiële internationale rijbewijs kost, soms met de belofte van directe levering of tien jaar geldigheid.
 
-Zo'n licentie bestaat niet. De enige documenten met officiële status zijn de rijbewijzen die zijn afgegeven onder de verdragen van 1926, 1949 en 1968, via het kanaal dat je eigen land aanwijst. Drie jaar bij een Weens internationaal rijbewijs is het langste dat er bestaat, dus alles dat 10 of 20 jaar geldigheid adverteert, beschrijft een document dat geen enkele grensbeambte verplicht is te accepteren.
+Zo'n licentie bestaat niet. De verdragen beschrijven internationale rijbewijzen die onder de verdragen van 1926, 1949 en 1968 worden afgegeven via het kanaal dat je eigen land aanwijst. Het Verdrag van Wenen (1968) staat maximaal drie jaar toe, dus alles dat 10 of 20 jaar geldigheid adverteert, valt daarbuiten.
 
 Stel je een bredere lijst samen voor je reis in plaats van alleen het rijgedeelte te regelen, dan loopt onze [internationale checklist reisdocumenten](https://traveldocumentvault.com/nl/blog/travel-document-checklist/) door wat je moet verzamelen voordat je vliegt, en behandelt [de reisdocumenten die mensen vergeten](https://traveldocumentvault.com/nl/blog/what-documents-to-carry-when-travelling-internationally/) waar je elk document het beste bewaart zodra je onderweg bent.
 
@@ -122,7 +122,7 @@ Ja, als het een internationaal rijbewijs onder het Verdrag van Wenen (1968) is. 
 
 ### Waarom bestaat er meer dan één soort internationaal rijbewijs?
 
-Ze komen uit afzonderlijke internationale verdragen. Het meeste reisverkeer valt onder het Verdrag van Genève (1949) en het Verdrag van Wenen (1968), en een ouder internationaal rijbewijs onder het Verdrag van Parijs (1926) wordt nog voor een klein aantal bestemmingen afgegeven. Landen hebben verschillende verdragen geratificeerd, waardoor een rijbewijs dat in het ene land wordt geaccepteerd, in een ander kan worden geweigerd.
+Ze komen uit afzonderlijke internationale verdragen. Het meeste reisverkeer valt onder het Verdrag van Genève (1949) en het Verdrag van Wenen (1968), en een ouder internationaal rijbewijs onder het Verdrag van Parijs (1926) bestaat ook en wordt nog door enkele bestemmingen vermeld. Landen hebben verschillende verdragen geratificeerd, waardoor een rijbewijs dat in het ene land wordt geaccepteerd, in een ander kan worden geweigerd.
 
 ## Gerelateerde artikelen
 

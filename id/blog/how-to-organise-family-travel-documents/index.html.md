@@ -26,7 +26,7 @@ Panduan ini membahas keseluruhan sistemnya; untuk satu bagian secara lebih menda
 
 Tergantung ke mana Anda pergi, tapi untuk kebanyakan perjalanan keluarga internasional, daftarnya lebih panjang dari yang orang perkirakan. Berikut daftar periksa inti dokumen perjalanan untuk keluarga, dimulai dari dokumen identitas yang dibutuhkan semua orang:
 
-- Paspor untuk setiap anggota keluarga (periksa masa berlaku minimal 3 bulan sebelum berangkat)
+- Paspor untuk setiap anggota keluarga (cocokkan masa berlaku dengan aturan masuk negara tujuan jauh sebelum memesan; kami menyarankan mulai tiga bulan sebelumnya)
 - Visa, jika disyaratkan negara tujuan
 - Kartu identitas nasional jika diterima menggantikan paspor (perjalanan Schengen untuk warga negara UE)
 
@@ -45,9 +45,9 @@ Tergantung ke mana Anda pergi, tapi untuk kebanyakan perjalanan keluarga interna
 
 ### Surat Izin Perjalanan Anak: Kapan Anda Membutuhkannya
 
-Surat izin perjalanan anak adalah dokumen bertanda tangan dari orang tua (atau wali sah) yang tidak ikut, memberikan izin bagi anak untuk bepergian. Ini bukan syarat hukum universal, tapi petugas imigrasi di banyak negara — termasuk AS, Kanada, Meksiko, dan beberapa lainnya — rutin memintanya ketika anak bepergian hanya dengan satu orang tua atau dengan orang dewasa lain.
+Surat izin perjalanan anak adalah dokumen bertanda tangan dari orang tua (atau wali sah) yang tidak ikut, memberikan izin bagi anak untuk bepergian. Ini umumnya bukan persyaratan hukum, tetapi petugas perbatasan di sebagian negara, termasuk Kanada, mungkin meminta bukti bahwa kedua orang tua menyetujui perjalanan saat anak bepergian dengan satu orang tua atau orang dewasa lain. Surat ini mudah dibawa dan bisa mengurangi pertanyaan di perbatasan.
 
-Tanpa surat ini, Anda mungkin menghadapi penundaan, interogasi tambahan, atau dalam beberapa kasus, penolakan masuk. Beberapa negara, seperti Kanada dan Afrika Selatan, dikenal ketat meminta dokumentasi ini.
+Afrika Selatan memiliki aturan sendiri untuk bepergian dengan anak, termasuk akta kelahiran lengkap, jadi periksa panduan Home Affairs sebelum berangkat.
 
 Surat izin yang sah sebaiknya mencakup: nama lengkap dan tanggal lahir anak, nama dan kontak kedua orang tua, detail orang tua yang bepergian, destinasi dan tanggal perjalanan, serta tanda tangan orang tua yang tidak ikut (salinan yang dinotariskan lebih meyakinkan, meski tidak selalu diwajibkan). Simpan salinan baik digital maupun fisik.
 
@@ -57,7 +57,7 @@ Surat izin yang sah sebaiknya mencakup: nama lengkap dan tanggal lahir anak, nam
 
 - SIM internasional (jika menyewa mobil di luar negeri)
 - Catatan medis atau resep untuk kondisi yang sedang berlangsung
-- Kartu Asuransi Kesehatan Eropa (EHIC) untuk pelancong UE
+- Kartu Asuransi Kesehatan Eropa (EHIC), jika Anda tercakup dalam sistem kesehatan UE
 
 ## Pengorganisasian Fisik: Di Mana Menyimpan Dokumen Asli
 
@@ -95,7 +95,7 @@ Ini pola kegagalan yang menjebak keluarga: Anda memperpanjang paspor sendiri, me
 
 - **Pengingat kalender:** Atur satu 12 bulan sebelum setiap dokumen kedaluwarsa dan satu lagi pada 6 bulan. Anda perlu ingat memperbarui ini saat dokumen diperpanjang, dan Anda perlu tanggal kedaluwarsa tersedia sejak awal.
 - **Spreadsheet:** Berfungsi baik jika Anda benar-benar memeliharanya. Satu baris per dokumen per orang, tanggal kedaluwarsa, dan rumus yang menyorot apa pun yang kedaluwarsa dalam 12 bulan.
-- **Aplikasi khusus:** Travel Document Vault menjadwalkan pengingat paspor mulai delapan bulan sebelum kedaluwarsa, dengan peringatan yang semakin sering menjelang tanggalnya. Pindai paspor lalu konfirmasi atau masukkan tanggal kedaluwarsanya; pengingat aktif secara default.
+- **Aplikasi khusus:** Travel Document Vault menjadwalkan pengingat paspor mulai delapan bulan sebelum kedaluwarsa, dengan peringatan yang semakin sering menjelang tanggalnya. Pindai paspor lalu konfirmasi atau masukkan tanggal kedaluwarsanya; Anda memilih apakah akan mengaktifkan pengingat.
 
 Ketiga pendekatan ini akan berhasil, tetapi kami akan memilih yang mengirim pengingat secara otomatis, karena spreadsheet hanya berguna jika Anda ingat membukanya. Yang paling penting adalah memilih salah satu yang sesuai dengan cara Anda sudah beroperasi dan benar-benar mempertahankannya.
 
@@ -148,7 +148,7 @@ Periksa sebelum memesan penerbangan, dan minimal tiga bulan sebelum bepergian. P
 
 ### Apakah saya perlu surat izin saat bepergian sendiri dengan anak saya?
 
-Ini mungkin tidak selalu diwajibkan secara hukum, tetapi sangat disarankan. Petugas imigrasi di negara seperti Kanada, Afrika Selatan, Meksiko, dan banyak lainnya rutin meminta surat izin perjalanan anak ketika anak bepergian hanya dengan satu orang tua. Tanpa surat ini, Anda berisiko mengalami penundaan, interogasi tambahan, atau bahkan penolakan masuk. Surat izin harus mencakup detail anak, informasi kontak kedua orang tua, tanggal perjalanan, destinasi, dan tanda tangan orang tua yang tidak ikut, dinotariskan jika memungkinkan.
+Ini mungkin tidak selalu diwajibkan secara hukum, tetapi sangat disarankan. Petugas perbatasan di sebagian negara, seperti Kanada, mungkin meminta surat izin perjalanan anak saat anak bepergian dengan satu orang tua. Tanpa surat ini, Anda mungkin perlu menjawab pertanyaan tambahan. Surat izin harus mencakup detail anak, informasi kontak kedua orang tua, tanggal perjalanan, destinasi, dan tanda tangan orang tua yang tidak ikut, dinotariskan jika memungkinkan.
 
 ## Artikel Terkait
 

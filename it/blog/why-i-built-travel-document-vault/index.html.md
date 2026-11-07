@@ -12,7 +12,7 @@ Ero all'immigrazione quando l'agente ha guardato il passaporto di mia figlia, si
 
 "Sa che scade tra sette mesi, vero?" ha detto. "Le faccio presente che alcuni Paesi non la lasciano entrare con meno di sei mesi di validità residua."
 
-L'ho ringraziato. Ce la stavamo cavando, per un pelo. Ma per tutto il viaggio non riuscivo a smettere di pensarci: se non avesse detto nulla, non me ne sarei mai accorto. Sette mesi mi sembravano tanti. Avevo controllato il passaporto prima di prenotare. Mi ero semplicemente dimenticato completamente della regola dei sei mesi che la maggior parte dei Paesi applica.
+L'ho ringraziato. Ce la stavamo cavando, per un pelo. Ma per tutto il viaggio non riuscivo a smettere di pensarci: se non avesse detto nulla, non me ne sarei mai accorto. Sette mesi mi sembravano tanti. Avevo controllato il passaporto prima di prenotare. Mi ero semplicemente dimenticato completamente della regola dei sei mesi che molti Paesi applicano.
 
 Quell'incidente sfiorato mi è rimasto impresso. Avevo già impostato dei promemoria sul calendario per le date di scadenza dei passaporti di tutti. Pensavo che fosse sufficiente. Ma in realtà non controllavo le date, mi fidavo semplicemente dei promemoria. E quando qualcuno rinnovava il passaporto, dovevo aggiornare il promemoria, aggiornare la scansione su Google Drive e sperare di non aver dimenticato nulla.
 
@@ -68,11 +68,11 @@ Permessi di lavoro per chi vive all'estero. Visti e permessi di soggiorno da rin
 
 Hanno tutti una data di scadenza. Contano tutti esattamente nel momento sbagliato. Nessuno La avverte fino a quando non è troppo tardi, o si trova già davanti all'ambasciata a realizzare che il visto è scaduto il mese scorso.
 
-L'app le gestisce tutte. Qualsiasi documento con una data di scadenza, passaporti, visti, permessi di lavoro, assicurazioni, patenti, tutto ciò di cui la sua famiglia ha bisogno, in un unico posto, tracciato, organizzato.
+L'app le gestisce tutte. Passaporti, visti, documenti d'identità e assicurazioni hanno i loro tipi di documento, e qualsiasi altra cosa con una data di scadenza, come un permesso di lavoro o una patente, va sotto Altro: in un unico posto, tracciato, organizzato.
 
 ## Quando le cose vanno storte all'estero
 
-Ogni giorno vengono persi o rubati passaporti all'estero, e sostituirne uno da un altro paese è una procedura lenta. Se dovesse succedere all'estero, non si parte da zero.
+I passaporti si perdono e vengono rubati anche all'estero, e sostituirne uno da un altro paese è una procedura lenta. Se dovesse succedere all'estero, non si parte da zero.
 
 Numeri di documento, date di scadenza, scansioni nitide, tutto pronto quando è necessario sporgere denuncia o contattare un'ambasciata. Non sostituisce gli originali, ma Le dà tutto ciò che serve per andare avanti rapidamente. Senza Wi-Fi, senza panico.
 

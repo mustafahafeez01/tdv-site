@@ -36,7 +36,7 @@ Als je één ding van deze pagina onthoudt, laat het die asymmetrie zijn: de afg
 
 Veel mensen zoeken op wat «date of expedition» op een Engelstalig formulier of paspoort betekent, en het antwoord is geruststellend saai: het betekent afgiftedatum.
 
-De uitdrukking komt uit het Spaans en het Portugees. *Fecha de expedición* en *data de expedição* vertalen allebei letterlijk naar het Engels als «expedition date», en vertaalde formulieren nemen die formulering klakkeloos over. Hetzelfde veld heet *date de délivrance* in het Frans, *data di rilascio* in het Italiaans, *Ausstellungsdatum* in het Duits, *datum van afgifte* in het Nederlands en *utfärdandedatum* in het Zweeds.
+De uitdrukking komt uit het Spaans en het Portugees. *Fecha de expedición* en *data de expedição* vertalen allebei letterlijk naar het Engels als «expedition date», en vertaalde formulieren nemen die formulering klakkeloos over.
 
 Ze betekenen allemaal hetzelfde, en geen van alle betekenen ze vervaldatum. Vraagt een formulier om een «expedition date», dan wil het de oudste van je twee data.
 
@@ -60,7 +60,7 @@ De afgiftedatum houdt op een bijzaak te zijn zodra een land hem rechtstreeks con
 
 Recent afgegeven Britse paspoorten hebben die extra maanden niet meer, maar oudere paspoorten die ze wel hebben, zijn nog steeds in omloop en worden nog gebruikt.
 
-Schengenlanden passen aan de grens twee aparte toetsen toe op een niet-EU-paspoort: het moet minder dan tien jaar voor je aankomstdatum zijn afgegeven, en het moet nog minstens drie maanden geldig blijven na je geplande vertrekdatum. Een paspoort met negen maanden extra kan ruim aan de tweede toets voldoen en zakken voor de eerste, en dat is een lastig gesprek aan een balie in Madrid met een document dat nog niet is verlopen.
+Schengenlanden passen aan de grens doorgaans twee aparte toetsen toe op een niet-EU-paspoort: het moet minder dan tien jaar voor je aankomstdatum zijn afgegeven, en het moet nog minstens drie maanden geldig blijven na je geplande vertrekdatum. Een paspoort met negen maanden extra kan ruim aan de tweede toets voldoen en zakken voor de eerste, en dat is een lastig gesprek aan een balie in Madrid met een document dat nog niet is verlopen.
 
 Wij zouden beide data controleren voor een reis naar Europa, niet alleen de datum onderaan de pagina.
 
@@ -68,11 +68,11 @@ Wij zouden beide data controleren voor een reis naar Europa, niet alleen de datu
 
 Bovenaan de datapagina staat een landcode van drie letters voor het land van afgifte. Daaronder, meestal in een eigen veld, staat de afgevende instantie: het bureau of de dienst die het paspoort daadwerkelijk heeft gemaakt.
 
-Het land telt zwaarder dan mensen verwachten. Het bepaalt tot welk consulair netwerk je je wendt als een paspoort kwijtraakt of gestolen wordt.
+Het land telt zwaarder dan mensen verwachten. Het bepaalt doorgaans tot welk consulair netwerk je je wendt als een paspoort kwijtraakt of gestolen wordt.
 
 Dat is zelden het land waar je op dat moment toevallig bent.
 
-Het bepaalt ook welke inreisregels voor je gelden, en dat is precies waarom mensen met dubbele nationaliteit goed nadenken welk paspoort ze tonen. Voor de praktische kant hiervan bespreken we het in [wat te doen als een paspoort in het buitenland kwijt is](https://traveldocumentvault.com/nl/blog/lost-passport-abroad/).
+Het bepaalt doorgaans ook welke inreisregels voor je gelden, en dat is precies waarom mensen met dubbele nationaliteit goed nadenken welk paspoort ze tonen. Voor de praktische kant hiervan bespreken we het in [wat te doen als een paspoort in het buitenland kwijt is](https://traveldocumentvault.com/nl/blog/lost-passport-abroad/).
 
 Het veld met de afgevende instantie is vooral nuttig bij formulieren. Sommige aanvragen willen het woordelijk, andere accepteren het land, en het gewoon overtypen gaat sneller dan gokken.
 
@@ -88,7 +88,7 @@ Op zichzelf is dat allemaal niet dramatisch. Het wordt vervelend wanneer een ins
 
 De datapagina is de stevige, gelamineerde pagina met je foto, en de opmaak ervan is internationaal gestandaardiseerd, niet bedacht door elk land apart. Daarom is een paspoort van waar dan ook leesbaar voor een grensbeambte waar dan ook, en daarom kun je, zodra je er één kunt lezen, ze allemaal lezen.
 
-De twee regels met tekens en pijltjes onderaan zijn de machineleesbare zone. Ze herhalen een deel van de pagina erboven in een formaat dat een scanner in één keer kan uitlezen, maar niet alles: de vervaldatum staat erin, de afgiftedatum niet. Schade daar wordt veel serieuzer genomen dan een kras op de kaft. We beschrijven waar die regel precies zit in [reizen met een beschadigd paspoort](https://traveldocumentvault.com/nl/blog/damaged-passport-travel/).
+De twee regels met tekens en pijltjes onderaan zijn de machineleesbare zone. Ze herhalen een deel van de pagina erboven in een formaat dat een scanner in één keer kan uitlezen, maar niet alles: de vervaldatum staat erin. Controleer je eigen paspoort om te zien welke gegevens de zone precies herhaalt. Schade daar wordt veel serieuzer genomen dan een kras op de kaft. We beschrijven waar die regel precies zit in [reizen met een beschadigd paspoort](https://traveldocumentvault.com/nl/blog/damaged-passport-travel/).
 
 Als de labels op je eigen datapagina niet in het Nederlands staan, helpt de indeling nog steeds: de twee data staan samen afgedrukt, in dezelfde opmaak, en de vervaldatum is de latere van de twee.
 
@@ -108,11 +108,11 @@ Nee. De afgiftedatum is wanneer het paspoort is gemaakt, en de vervaldatum is wa
 
 ### Wat betekent "land van afgifte" op een paspoort?
 
-Het land van afgifte is de staat die het paspoort heeft verstrekt, weergegeven als een landcode van drie letters bovenaan de datapagina. Het bepaalt tot welke ambassade of welk consulaat je je kunt wenden als het paspoort in het buitenland kwijtraakt, en welke inreisregels gelden wanneer je het toont.
+Het land van afgifte is de staat die het paspoort heeft verstrekt, weergegeven als een landcode van drie letters bovenaan de datapagina. Het bepaalt doorgaans tot welke ambassade of welk consulaat je je kunt wenden als het paspoort in het buitenland kwijtraakt, en welke inreisregels doorgaans gelden wanneer je het toont.
 
 ### Verandert mijn paspoortnummer als ik het vernieuw?
 
-Ja. Elk nieuw paspoort krijgt een nieuw nummer. Alles wat op het oude nummer stond geregistreerd, blijft bij het oude nummer horen, inclusief al afgegeven visa, luchtvaartprofielen en boekingen die vóór de vernieuwing zijn gemaakt, dus die moeten meestal apart worden bijgewerkt.
+Doorgaans wel. Een nieuw paspoort krijgt meestal een nieuw nummer. Alles wat op het oude nummer stond geregistreerd, blijft bij het oude nummer horen, inclusief al afgegeven visa, luchtvaartprofielen en boekingen die vóór de vernieuwing zijn gemaakt, dus die moeten meestal apart worden bijgewerkt.
 
 ### Hoe weet ik wanneer mijn paspoort verloopt?
 

@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/sv/blog/safest-way-to-store-passport-dig
 ## Viktiga punkter
 
 - **iCloud Photos (med Avancerat dataskydd)** erbjuder totalsträckskryptering men kopplar ändå dina passkopior till ditt Apple-ID.
-- **Google Photos** är inte totalsträckskrypterat som standard och indexerar ditt innehåll, vilket gör tjänsten mindre lämplig för känsliga identitetshandlingar.
+- **Google Photos** beskrivs inte av Google som totalsträckskrypterat och indexerar ditt innehåll, vilket gör tjänsten mindre lämplig för känsliga identitetshandlingar.
 - **Dedikerade krypterade appar** lagrar passuppgifter på enheten med AES-256-kryptering, kräver varken konto eller molnuppladdning, och fungerar offline. Det är det säkraste alternativet.
 - Varje metod innebär avvägningar mellan bekvämlighet och säkerhet som du bör förstå innan du väljer.
 - Den säkraste metoden beror på din personliga risktolerans, men en digital kopia av ditt pass förtjänar samma omsorg som originalet.
@@ -26,7 +26,7 @@ iCloud Photos synkroniserar automatiskt dina foton mellan din iPhone, iPad och M
 
 ### Den synkas automatiskt, men totalsträckskryptering är ett aktivt val
 
-Foton du tar laddas upp till iCloud och krypteras med en nyckel som härleds från ditt Apple-ID. Om du aktiverar Avancerat dataskydd (Apples valfria lager med totalsträckskryptering) krypteras dina foton på Apples servrar med nycklar som bara du innehar. Inte ens Apple kan dekryptera dem.
+Foton du tar laddas upp till iCloud och krypteras under överföringen och på Apples servrar, där Apple innehar nycklarna. Om du aktiverar Avancerat dataskydd (Apples valfria lager med totalsträckskryptering) krypteras dina foton på Apples servrar med nycklar som bara du innehar. Inte ens Apple kan dekryptera dem.
 
 ### Vad som skyddas, och vad som fortfarande hänger på Apple
 
@@ -39,7 +39,7 @@ Foton du tar laddas upp till iCloud och krypteras med en nyckel som härleds fr�
 
 Ur bekvämlighetssynpunkt utmärker sig iCloud Photos: din passkopia synkroniseras automatiskt mellan alla dina Apple-enheter och finns kvar även om du tappar telefonen. Att aktivera Avancerat dataskydd ger totalsträckskryptering som inte ens Apple kan kringgå, vilket väsentligt förbättrar säkerheten jämfört med vanlig iCloud-lagring.
 
-Men din passkopia blir kopplad till ditt Apple-ID, vilket skapar en potentiell enskild svag punkt som sträcker sig över all din iCloud-data. Om någon kommer över ditt Apple-ID via ett svagt lösenord, återanvänt lösenord eller social manipulation, får de tillgång till allt i ditt iCloud-konto, inklusive dina passkopior. Du litar också på Apples driftssäkerhet, vilket innebär att ett intrång i deras system skulle exponera din data på deras servrar, även om Apple generellt anses vara en pålitlig säkerhetsaktör.
+Men din passkopia blir kopplad till ditt Apple-ID, vilket skapar en potentiell enskild svag punkt som sträcker sig över all din iCloud-data. Om någon kommer över ditt Apple-ID via ett svagt lösenord, återanvänt lösenord eller social manipulation, kan de få tillgång till stora delar av ditt iCloud-konto, och utan Avancerat dataskydd omfattar det även dina passkopior. Du litar också på Apples driftssäkerhet: utan Avancerat dataskydd innehar Apple nycklarna till dina foton på sina servrar, så ett intrång i de systemen skulle i princip kunna exponera dem. Med funktionen aktiverad stannar nycklarna på dina enheter.
 
 ## Alternativ 2: Google Photos
 
@@ -51,7 +51,7 @@ Foton laddas upp till Googles servrar och krypteras under överföring. Google b
 
 ### Ingen totalsträckskryptering som standard
 
-- **Totalsträckskrypterat som standard:** Nej. Google Photos använder kryptering under överföring men inte totalsträckskryptering. Google kan dekryptera och visa dina foton.
+- **Totalsträckskrypterat:** Det beskriver Google inte tjänsten som. Google beskriver kryptering under överföring och i vila, men beskriver inte Photos som totalsträckskrypterat. Googles system kan bearbeta dina foton.
 - **Innehållsskanning:** Google indexerar och analyserar bildinnehåll för funktioner och rekommendationer.
 - **Kräver konto:** Ja, ditt Google-konto.
 - **Molnuppladdning:** Ja, automatiskt.
@@ -59,11 +59,11 @@ Foton laddas upp till Googles servrar och krypteras under överföring. Google b
 
 ### Stark integration, men svagare skydd för känsliga handlingar
 
-Google Photos erbjuder djup integration med Android, gratis lagringsutrymme och kraftfull sökning, vilket är tilltalande ur bekvämlighetssynpunkt. Men säkerhetsnackdelarna för känsliga handlingar väger tyngre: Google Photos använder inte totalsträckskryptering som standard, vilket innebär att Google tekniskt sett kan komma åt dina foton, och dina passkopior bearbetas av Googles system för innehållsanalys. Google har också tidigare drabbats av säkerhetsincidenter, och identitetshandlingar behöver särskilt noggrant skydd, vilket gör Google Photos till ett mindre säkert val än alternativen när skyddet av känslig data är din prioritet.
+Google Photos erbjuder djup integration med Android, ett gratis lagringsutrymme som delas mellan tjänsterna på ditt Google-konto och kraftfull sökning, vilket är tilltalande ur bekvämlighetssynpunkt. Men säkerhetsnackdelarna för känsliga handlingar väger tyngre: Google beskriver inte Photos som totalsträckskrypterat, så dess system kan bearbeta dina foton, och dina passkopior bearbetas av Googles system för innehållsanalys. Identitetshandlingar behöver särskilt noggrant skydd, vilket gör Google Photos till ett mindre säkert val än alternativen när skyddet av känslig data är din prioritet.
 
 Vad detta betyder i praktiken
 
-Om ditt Google-konto komprometteras kan den som får tillgång hämta dina passkopior från ditt fotobibliotek. Eftersom Google indexerar dessa foton för sökning bearbetas bilderna av automatiserade system och lagras på flera platser inom Googles infrastruktur, vilket ökar exponeringsytan.
+Om ditt Google-konto komprometteras kan den som får tillgång hämta dina passkopior från ditt fotobibliotek. Eftersom Google indexerar dessa foton för sökning bearbetas bilderna av automatiserade system och är därför bara så säkra som kontot de lagras på.
 
 ## Alternativ 3: Dedikerade krypterade appar
 
@@ -124,11 +124,11 @@ Oavsett vilken metod du väljer: kom ihåg att en digital kopia av ditt pass är
 
 ### Är iCloud Photos säkert för att spara passkopior?
 
-iCloud Photos med Avancerat dataskydd ger totalsträckskryptering, vilket är säkrare än vanlig iCloud-lagring. Dina passkopior är dock fortfarande krypterade och lagrade på Apples servrar, vilket skapar en gemensam sårbarhetsyta med ditt Apple-ID. Om ditt Apple-ID komprometteras får en angripare tillgång till allt i ditt iCloud-konto. För identitetshandlingar innebär det en extra risk jämfört med att bara spara dem på din enhet.
+iCloud Photos med Avancerat dataskydd ger totalsträckskryptering, vilket är säkrare än vanlig iCloud-lagring. Dina passkopior är dock fortfarande krypterade och lagrade på Apples servrar, vilket skapar en gemensam sårbarhetsyta med ditt Apple-ID. Om ditt Apple-ID komprometteras kan en angripare få tillgång till stora delar av ditt iCloud-konto, och utan Avancerat dataskydd omfattar det även dina passkopior. För identitetshandlingar innebär det en extra risk jämfört med att bara spara dem på din enhet.
 
 ### Varför rekommenderas inte Google Photos för att spara pass?
 
-Google Photos är inte totalsträckskrypterat som standard. Google indexerar och skannar innehållet i foton för funktioner som sökning och organisering, vilket innebär att dina passbilder bearbetas av Googles system. Google har också historiskt drabbats av säkerhetsincidenter. För känsliga identitetshandlingar gör kombinationen av avsaknad av totalsträckskryptering som standard och innehållsskanning att Google Photos blir ett mindre säkert val än alternativen.
+Google beskriver inte Photos som totalsträckskrypterat. Google indexerar och skannar innehållet i foton för funktioner som sökning och organisering, vilket innebär att dina passbilder bearbetas av Googles system. För känsliga identitetshandlingar gör kombinationen av att totalsträckskryptering inte beskrivs och att innehållet skannas att Google Photos blir ett mindre säkert val än alternativen.
 
 ### Vilka fördelar har en dedikerad krypterad app för att spara pass?
 
@@ -140,7 +140,7 @@ Ja. Många sparar en skannad kopia i iCloud eller Google Photos för vardaglig �
 
 ### Vilken lagringsmetod passar bäst för en familj med flera resenärer?
 
-För familjer ger en dedikerad krypterad app som lagrar handlingar för flera personer i samma app, utan molnuppladdning, vanligtvis den bästa balansen mellan säkerhet och bekvämlighet. Det låter en förälder eller vårdnadshavare hantera alla familjemedlemmars passhandlingar utan att var och en behöver en egen app eller ett eget molnkonto, samtidigt som känsliga handlingar hålls borta från externa servrar.
+För familjer ger en dedikerad krypterad app som lagrar handlingar för flera personer i samma app utan konto och utan att kräva molnuppladdning, vanligtvis den bästa balansen mellan säkerhet och bekvämlighet. Det låter en förälder eller vårdnadshavare hantera alla familjemedlemmars passhandlingar utan att var och en behöver en egen app eller ett eget molnkonto, samtidigt som känsliga handlingar hålls borta från externa servrar.
 
 ## Relaterade artiklar
 

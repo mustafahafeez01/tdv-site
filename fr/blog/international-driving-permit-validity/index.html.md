@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/fr/blog/international-driving-permit-val
 - Les pays ont ratifié des conventions différentes, donc **un permis accepté dans un pays peut être refusé dans le suivant**.
 - Passeport, permis et PCI suivent **trois horloges distinctes** qui coïncident presque jamais.
 
-Un permis de conduire international est une traduction du permis, et non un permis à part entière, et il court sur son propre calendrier. La plupart sont valables douze mois à compter de la date de délivrance, si bien que celui acheté pour un voyage il y a trois étés est presque certainement périmé. Les comptoirs de location de plusieurs pays le réclament avant de remettre les clés.
+Un permis de conduire international est une traduction du permis, et non un permis à part entière, et il court sur son propre calendrier. Beaucoup sont valables douze mois à compter de la date de délivrance, et aucun ne dépasse trois ans, si bien que celui acheté pour un voyage il y a trois étés est presque certainement périmé. Les comptoirs de location de plusieurs pays le réclament avant de remettre les clés.
 
 Un PCI porte sa propre date d'expiration, et cette date se comporte différemment selon la convention internationale dont relève votre permis. La plupart des conducteurs ne découvrent qu'il en existe deux types que le jour où l'un des deux est refusé.
 
@@ -30,7 +30,7 @@ Cela piège les gens plus souvent que les dates d'expiration elles-mêmes. Le PC
 
 ## Deux conventions décident de la durée de validité et des pays où le permis fonctionne
 
-Trois accords internationaux sont à l'origine des PCI, et les pays ont ratifié l'un d'eux, ou plusieurs. Deux d'entre eux couvrent presque tous les cas : la convention de Genève de 1949 et la convention de Vienne de 1968. Un permis plus ancien, relevant de la convention de Paris de 1926, est encore délivré pour un petit nombre de destinations, et comme le permis de Genève, il est valable un an.
+Trois accords internationaux sont à l'origine des PCI, et les pays ont ratifié l'un d'eux, ou plusieurs. Deux d'entre eux couvrent presque tous les cas : la convention de Genève de 1949 et la convention de Vienne de 1968. Un permis plus ancien relevant de la convention de Paris de 1926 existe aussi, et quelques destinations le mentionnent encore. Vérifiez la date d'expiration imprimée sur le document.
 
 Un permis délivré au titre de la convention de Genève de 1949 est valable un an. Un permis délivré au titre de la convention de Vienne de 1968 peut être valable jusqu'à trois ans.
 
@@ -40,7 +40,7 @@ Cette distinction compte à double titre. Elle détermine la durée de validité
 
 | Type de permis | Durée de validité | Ce qui le limite |
 |---|---|---|
-| **Convention de Paris de 1926** | Un an | La date de délivrance. Rarement nécessaire aujourd'hui |
+| **Convention de Paris de 1926** | Consultez la date d’expiration imprimée | La date de délivrance. Rarement nécessaire aujourd'hui |
 | **Convention de Genève de 1949** | Un an | La date de délivrance |
 | **Convention de Vienne de 1968** | Jusqu'à trois ans | Votre permis national, s'il expire avant |
 
@@ -50,7 +50,7 @@ Ces trois ans s'accompagnent d'une condition qu'il est facile de survoler. Un pe
 
 Supposons qu'il reste 14 mois de validité à votre permis national et qu'on vous délivre un PCI de trois ans. Ce permis international ne sera utile que pendant 14 mois. La date imprimée au recto ne prime pas sur le permis qui se trouve derrière lui.
 
-Renouveler ensuite votre permis national ne sauve pas non plus le PCI. Il reste lié au permis pour lequel il a été délivré, donc un nouveau permis national implique généralement un nouveau PCI. Si votre permis de conduire doit être renouvelé avant le voyage, nous le renouvellerions d'abord et ne demanderions le permis international qu'ensuite, afin qu'il soit rattaché au nouveau permis.
+Renouveler ensuite votre permis national ne sauve pas non plus le PCI. La validité du PCI reste liée au permis pour lequel il a été délivré, donc un nouveau permis national implique généralement un nouveau PCI. Si votre permis de conduire doit être renouvelé avant le voyage, nous le renouvellerions d'abord et ne demanderions le permis international qu'ensuite, afin qu'il soit rattaché au nouveau permis.
 
 ## Votre permis international est la date que personne ne surveille
 
@@ -90,9 +90,9 @@ C'est sur un voyage réservé à la dernière minute que cela fait le plus mal. 
 
 ## Il n'existe pas de « licence de conduite internationale »
 
-Recherchez « permis de conduire international » et vous tomberez sur des sites vendant ce qu'ils appellent une « licence de conduite internationale », souvent bien plus chère que le permis officiel, promettant parfois une livraison instantanée ou dix ans de validité.
+Recherchez « permis de conduire international » et vous tomberez sur des sites vendant ce qu'ils appellent une « licence de conduite internationale », parfois plus chère que le permis officiel, promettant parfois une livraison instantanée ou dix ans de validité.
 
-Cette licence n'existe pas. Les seuls documents reconnus sont les permis délivrés au titre des conventions de 1926, 1949 et 1968, via le canal désigné par votre propre pays. Trois ans pour un permis de Vienne est la durée maximale que l'un d'eux puisse atteindre, donc tout ce qui annonce 10 ou 20 ans décrit un document qu'aucun agent frontalier n'est tenu d'accepter.
+Cette licence n'existe pas. Les permis délivrés au titre des conventions de 1926, 1949 et 1968, par le canal désigné par votre pays, sont les documents décrits par ces conventions. La convention de Vienne de 1968 fixe un maximum de trois ans : toute offre de 10 ou 20 ans porte donc sur un document qui sort de ce cadre.
 
 Si vous préparez une liste plus large avant le départ plutôt que de vous concentrer uniquement sur la conduite, notre [liste de contrôle des documents de voyage international](https://traveldocumentvault.com/fr/blog/travel-document-checklist/) détaille ce qu'il faut rassembler avant de prendre l'avion, et notre article sur les [documents que l'on oublie](https://traveldocumentvault.com/fr/blog/what-documents-to-carry-when-travelling-internationally/) explique où conserver chacun d'eux une fois en déplacement.
 
@@ -122,7 +122,7 @@ Oui, s'il s'agit d'un permis de Vienne de 1968. Ce type de permis est plafonné 
 
 ### Pourquoi existe-t-il plusieurs types de permis de conduire international ?
 
-Ils proviennent de conventions internationales distinctes. La plupart des voyages sont couverts par la convention de Genève de 1949 et la convention de Vienne de 1968, et un permis plus ancien relevant de la convention de Paris de 1926 est encore délivré pour un petit nombre de destinations. Les pays ont ratifié des conventions différentes, ce qui explique qu'un permis accepté dans un pays puisse être refusé dans un autre.
+Ils proviennent de conventions internationales distinctes. La plupart des voyages sont couverts par la convention de Genève de 1949 et la convention de Vienne de 1968. Un permis plus ancien relevant de la convention de Paris de 1926 existe aussi, et quelques destinations le mentionnent encore. Les pays ont ratifié des conventions différentes, ce qui explique qu'un permis accepté dans un pays puisse être refusé dans un autre.
 
 ## Articles connexes
 

@@ -12,7 +12,7 @@ Ik stond bij de immigratiecontrole toen de ambtenaar naar het paspoort van mijn 
 
 "Wist u dat dit over zeven maanden verloopt?" zei hij. "Alleen ter informatie, sommige landen laten u niet binnen met minder dan zes maanden geldigheid."
 
-Ik bedankte hem. We waren in orde, maar ternauwernood. Maar tijdens de hele reis bleef ik denken: als hij niets had gezegd, had ik het nooit opgemerkt. Zeven maanden leek meer dan genoeg. Ik had het paspoort gecontroleerd voor het boeken. Ik was de zesmaandenregel die de meeste landen hanteren gewoon volledig vergeten.
+Ik bedankte hem. We waren in orde, maar ternauwernood. Maar tijdens de hele reis bleef ik denken: als hij niets had gezegd, had ik het nooit opgemerkt. Zeven maanden leek meer dan genoeg. Ik had het paspoort gecontroleerd voor het boeken. Ik was de zesmaandenregel die veel landen hanteren gewoon volledig vergeten.
 
 Die bijna-mislukking bleef me bij. Ik had al agendaherinneringen ingesteld voor ieders verloopdatum van het paspoort. Ik dacht dat dat genoeg was. Maar ik controleerde de datums niet echt, ik vertrouwde gewoon op de herinneringen. En als iemands paspoort werd verlengd, moest ik de herinnering bijwerken, de scan in Google Drive bijwerken en hopen dat ik niets gemist had.
 
@@ -68,11 +68,11 @@ Werkvergunningen als u in het buitenland woont. Visa en verblijfsvergunningen di
 
 Ze hebben allemaal verloopdatums. Ze doen er allemaal toe op precies het verkeerde moment. Niemand herinnert u eraan tot het te laat is, of u staat al bij de ambassade en realiseert u dat uw visum vorige maand verlopen is.
 
-De app verwerkt ze allemaal. Alles met een verloopdatum, paspoorten, visa, werkvergunningen, verzekeringen, rijbewijzen, wat uw gezin ook nodig heeft, op één plek, bijgehouden, gesorteerd.
+De app verwerkt ze allemaal. Paspoorten, visa, ID-bewijzen en verzekeringen hebben eigen documenttypen, en al het andere met een verloopdatum, zoals een werkvergunning of rijbewijs, komt onder Overig, op één plek, bijgehouden, gesorteerd.
 
 ## Wanneer er iets misgaat in het buitenland
 
-Paspoorten raken elke dag kwijt of worden gestolen in het buitenland, en een nieuw exemplaar vanuit een ander land aanvragen is een traag proces. Als het u in het buitenland overkomt, begint u niet van nul.
+Paspoorten raken wel kwijt of worden gestolen in het buitenland, en een nieuw exemplaar vanuit een ander land aanvragen is een traag proces. Als het u in het buitenland overkomt, begint u niet van nul.
 
 Documentnummers, verloopdatums, duidelijke scans, alles klaar wanneer u aangifte moet doen of contact moet opnemen met een ambassade. Het vervangt uw originelen niet, maar het geeft u wat u nodig heeft om snel verder te gaan. Geen wifi, geen paniek.
 

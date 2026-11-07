@@ -26,9 +26,9 @@ A encriptação embaralha um ficheiro para que só uma chave correspondente o co
 
 Existem duas configurações que são ambas vendidas como cópia de segurança encriptada, e comportam-se de forma muito diferente.
 
-Uma envia o ficheiro para o servidor da empresa através de uma ligação encriptada, e depois guarda-o encriptado em repouso. As duas afirmações são verdadeiras, e ambas soam tranquilizadoras. Mas a empresa continua com a chave, por isso consegue desencriptar os seus documentos sempre que precisar: para fazer funcionar uma funcionalidade, para responder a um pedido legal, ou porque alguém lá dentro cometeu um erro. A digitalização do seu passaporte é legível do outro lado.
+Uma envia o ficheiro para o servidor da empresa através de uma ligação encriptada, e depois guarda-o encriptado em repouso. As duas afirmações são verdadeiras, e ambas soam tranquilizadoras. Mas a empresa continua com a chave, por isso tem capacidade técnica para desencriptar os seus documentos, seja para uma funcionalidade, um pedido legal ou por um erro interno. A digitalização do seu passaporte é legível do outro lado.
 
-A outra configuração embaralha o ficheiro no seu telemóvel antes de ele ir para qualquer lado, usando uma chave derivada de algo que só o utilizador tem. O que chega ao armazenamento é um bloco de ruído, e ninguém do outro lado consegue lê-lo, porque ninguém do outro lado tem a chave. A isto chama-se normalmente encriptação de ponta a ponta, ou zero-knowledge.
+A outra configuração embaralha o ficheiro no seu telemóvel antes de ele ir para qualquer lado, usando uma chave derivada de algo que só o utilizador tem. O que chega ao armazenamento é um bloco de ruído, e ninguém do outro lado consegue lê-lo, porque ninguém do outro lado tem a chave. Isto é frequentemente descrito como encriptação de ponta a ponta, ou zero-knowledge.
 
 Por isso a pergunta que vale a pena fazer a qualquer aplicação é curta: **quem tem a chave?** Tudo o resto no marketing decorre dessa resposta.
 
@@ -55,7 +55,7 @@ Por isso, trate o código como a única coisa que tem mesmo de acertar:
 
 Depende completamente do que chega à cloud, e essa é uma questão sobre a aplicação, não sobre a cloud em si.
 
-Uma fotografia do seu passaporte numa biblioteca de fotos comum ou numa pasta sincronizada chega legível. Fica numa conta protegida por uma palavra-passe que pode já ter reutilizado noutro lado. É indexada e recebe miniatura, e qualquer pessoa que entre nessa conta vê uma cópia perfeitamente legível da página de identificação. Explorámos como é realmente essa exposição em [guardar um passaporte no Google Photos](https://traveldocumentvault.com/pt/blog/is-it-safe-to-store-passport-in-google-photos/). É um risco genuíno, e é a configuração que a maioria das famílias usa sem alguma vez a ter escolhido conscientemente.
+Uma fotografia do seu passaporte numa biblioteca de fotos comum ou numa pasta sincronizada chega legível. Fica numa conta protegida por uma palavra-passe que pode já ter reutilizado noutro lado. Dependendo do serviço, pode ser indexada ou apresentada como miniatura, e qualquer pessoa que entre nessa conta vê uma cópia perfeitamente legível da página de identificação. Explorámos como é realmente essa exposição em [guardar um passaporte no Google Photos](https://traveldocumentvault.com/pt/blog/is-it-safe-to-store-passport-in-google-photos/). É um risco genuíno, e é a configuração que a maioria das famílias usa sem alguma vez a ter escolhido conscientemente.
 
 Um cofre encriptado no dispositivo antes do envio chega como texto cifrado. Quem invadir a conta na cloud encontra um ficheiro que não consegue abrir. A proteção viaja com o ficheiro, em vez de depender da conta onde este acaba por ficar.
 
@@ -82,7 +82,7 @@ O tempo de restauração depende do tamanho do cofre e da ligação à internet.
 
 Instale a aplicação no telemóvel novo e inicie sessão na mesma conta iCloud ou Google que usava antes. Com Pro e a cópia de segurança na nuvem desativada no dispositivo de destino, abra Definições, Cópia de Segurança na Nuvem e depois Restaurar da Cópia de Segurança. Escolha o cofre existente, introduza o código de recuperação e confirme a restauração, que substitui o conteúdo local do cofre. Os perfis, documentos e datas de validade são restaurados; as notificações são recriadas no dispositivo de destino.
 
-A aplicação também verifica antes de escrever. Se a cópia de segurança na cloud detetar uma cópia já existente nessa conta, pede-lhe para escolher entre restaurar ou começar do zero. Um telemóvel novo não consegue substituir silenciosamente o que já lá está.
+A aplicação também verifica antes de escrever. Se a cópia de segurança na cloud detetar uma cópia já existente feita com o mesmo código de recuperação, pergunta se pretende combinar os dados ou começar do zero, para que um telemóvel novo não substitua silenciosamente o que já lá está. Começar do zero mantém a outra cópia de segurança intacta.
 
 ### Mudar Entre iPhone e Android Significa Exportar o Cofre
 

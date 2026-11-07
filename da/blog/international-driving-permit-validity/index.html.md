@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/da/blog/international-driving-permit-val
 - Landene har ratificeret forskellige konventioner, så **et kort, der accepteres i ét land, kan blive afvist i det næste**.
 - Pas, kørekort og internationalt kørekort kører efter **tre forskellige ure**, der næsten aldrig stemmer overens.
 
-Et internationalt kørekort er en oversættelse af kørekortet, ikke et kørekort i sig selv, og det løber efter sin egen kalender. De fleste gælder tolv måneder fra udstedelsesdatoen, så det, der blev købt til en rejse for tre somre siden, er næsten med sikkerhed udløbet. Udlejningsskranker i flere lande beder om det, før de udleverer en bil.
+Et internationalt kørekort er en oversættelse af kørekortet, ikke et kørekort i sig selv, og det løber efter sin egen kalender. Mange gælder tolv måneder fra udstedelsesdatoen, og ingen gælder længere end tre år, så det, der blev købt til en rejse for tre somre siden, er næsten med sikkerhed udløbet. Udlejningsskranker i flere lande beder om det, før de udleverer en bil.
 
 Et internationalt kørekort har sin egen udløbsdato, og den dato opfører sig forskelligt afhængigt af, hvilken af de internationale traktater dit kort er udstedt under. De fleste bilister opdager først, at der findes flere typer, når et af dem bliver afvist.
 
@@ -30,7 +30,7 @@ Det er den fælde, folk går i oftere end selve udløbsdatoerne. Kortet ligner d
 
 ## To traktater afgør, hvor længe kortet gælder, og hvor det virker
 
-Tre internationale aftaler ligger bag internationale kørekort, og landene har tilsluttet sig én af dem eller flere. To af dem klarer næsten det hele: Genèvekonventionen af 1949 og Wienerkonventionen af 1968. Et ældre kort udstedt under Pariserkonventionen af 1926 udstedes stadig til et lille antal destinationer, og ligesom Genève-kortet gælder det i ét år.
+Tre internationale aftaler ligger bag internationale kørekort, og landene har tilsluttet sig én af dem eller flere. To af dem klarer næsten det hele: Genèvekonventionen af 1949 og Wienerkonventionen af 1968. Der findes også et ældre kort under Pariserkonventionen af 1926, som enkelte destinationer stadig angiver. Tjek den trykte udløbsdato på kortet.
 
 Et kort udstedt under Genèvekonventionen af 1949 gælder i ét år. Et kort udstedt under Wienerkonventionen af 1968 kan gælde i op til tre.
 
@@ -40,7 +40,7 @@ Opdelingen har betydning to gange. Den afgør, hvor længe dit kort gælder, og 
 
 | Korttype | Hvor længe det gælder | Hvad der begrænser det |
 |---|---|---|
-| **Pariserkonventionen 1926** | Ét år | Udstedelsesdatoen. Sjældent nødvendigt i dag |
+| **Pariserkonventionen 1926** | Se den trykte udløbsdato | Udstedelsesdatoen. Sjældent nødvendigt i dag |
 | **Genèvekonventionen 1949** | Ét år | Udstedelsesdatoen |
 | **Wienerkonventionen 1968** | Op til tre år | Dit nationale kørekort, hvis det udløber først |
 
@@ -50,7 +50,7 @@ De tre år har en betingelse, det er let at springe over. Et Wien-kort udløber,
 
 Sig, at dit kørekort har 14 måneder tilbage, og du får udstedt et treårigt kort. Kortet er brugbart i 14 måneder. Datoen trykt på forsiden går ikke forud for kørekortet bag det.
 
-At forny kørekortet bagefter redder heller ikke kortet. Det forbliver knyttet til det kørekort, det blev udstedt mod, så et nyt kørekort betyder som regel et nyt internationalt kørekort. Hvis dit kørekort skal fornyes inden rejsen, ville vi forny det først og først derefter ansøge om kortet, så kortet bliver knyttet til det nye kørekort.
+At forny kørekortet bagefter redder heller ikke kortet. Kortets gyldighed er knyttet til det kørekort, det blev udstedt på grundlag af, så et nyt kørekort betyder som regel et nyt internationalt kørekort. Hvis dit kørekort skal fornyes inden rejsen, ville vi forny det først og først derefter ansøge om kortet, så kortet bliver knyttet til det nye kørekort.
 
 ## Dit internationale kørekort er den dato, ingen holder øje med
 
@@ -90,9 +90,9 @@ Det gør mest ondt ved en rejse booket med kort varsel. Kortet er sjældent prob
 
 ## Der findes ikke noget, der hedder en international kørselslicens
 
-Søg efter et internationalt kørekort, og du finder sider, der sælger noget, der kaldes en international kørselslicens, ofte til betydeligt mere, end det officielle kort koster, nogle gange med løfte om øjeblikkelig levering eller ti års gyldighed.
+Søg efter et internationalt kørekort, og du finder sider, der sælger noget, der kaldes en international kørselslicens, nogle gange til mere, end det officielle kort koster, og nogle gange med løfte om øjeblikkelig levering eller ti års gyldighed.
 
-Sådan en licens findes ikke. De eneste dokumenter med gyldighed er de kort, der udstedes under 1926-, 1949- og 1968-konventionerne, gennem den kanal, dit eget land udpeger. Tre år på et Wien-kort er det længste, nogen af dem gælder, så alt, der reklamerer med 10 eller 20 år, beskriver et dokument, ingen grænsemyndighed er forpligtet til at acceptere.
+Sådan en licens findes ikke. Kort udstedt under 1926-, 1949- og 1968-konventionerne gennem den kanal, dit eget land udpeger, er de dokumenter, konventionerne beskriver. Wien-kortets tre år er det længste, 1968-konventionen tillader, så alt, der reklamerer med 10 eller 20 år, beskriver noget uden for den konvention.
 
 Bygger du en bredere liste før rejsen, i stedet for kun at ordne kørselsdelen, gennemgår vores [internationale tjekliste til rejsedokumenter](https://traveldocumentvault.com/da/blog/travel-document-checklist/), hvad du skal samle sammen, før du flyver, og [rejsedokumenterne folk glemmer](https://traveldocumentvault.com/da/blog/what-documents-to-carry-when-travelling-internationally/) dækker, hvor hvert dokument bedst opbevares, når du er undervejs.
 
@@ -122,7 +122,7 @@ Ja, hvis det er et Wienerkort fra 1968. Den type er begrænset af dit nationale 
 
 ### Hvorfor findes der mere end én type internationalt kørekort?
 
-De stammer fra separate internationale traktater. Det meste rejsende er dækket af Genèvekonventionen af 1949 og Wienerkonventionen af 1968, og et ældre kort udstedt under Pariserkonventionen af 1926 udstedes stadig til et lille antal destinationer. Landene har ratificeret forskellige konventioner, hvilket er grunden til, at et kort, der accepteres i ét land, kan blive afvist i et andet.
+De stammer fra separate internationale traktater. De fleste rejser er dækket af Genèvekonventionen af 1949 og Wienerkonventionen af 1968, og der findes også et ældre kort under Pariserkonventionen af 1926, som enkelte destinationer stadig angiver. Landene har ratificeret forskellige konventioner, hvilket er grunden til, at et kort, der accepteres i ét land, kan blive afvist i et andet.
 
 ## Relaterede artikler
 

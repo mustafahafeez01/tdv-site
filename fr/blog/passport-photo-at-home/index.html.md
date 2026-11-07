@@ -24,7 +24,7 @@ Bien que les règles spécifiques varient selon l'autorité de passeport, la plu
 
 ### Arrière-plan et composition
 
-Vous avez besoin d'un arrière-plan clair et uni, la teinte exacte dépendant de votre autorité : GOV.UK demande un fond crème ou gris clair uni, tandis que le Gouvernement du Canada demande un fond blanc ou de couleur claire uni. Pas de motifs, d'ombres, d'arrière-plans flous ou de couleurs vives. La raison est simple : les responsables ont besoin d'une vue nette et sans encombrement de votre visage pour le comparer avec les documents futurs. La plupart des gens utilisent un drap blanc, un carton de présentation ou même peignent une petite section de mur. L'essentiel est de garder l'arrière-plan lumineux et uniforme.
+Vous avez besoin d'un arrière-plan clair et uni, la teinte exacte dépendant de votre autorité : GOV.UK demande un fond crème ou gris clair uni, tandis que le Gouvernement du Canada demande un fond blanc ou de couleur claire uni. Pas de motifs, d'ombres, d'arrière-plans flous ou de couleurs vives. La raison est simple : les responsables ont besoin d'une vue nette et sans encombrement de votre visage pour le comparer avec les documents futurs. Utilisez un drap ou un carton dans la teinte demandée par votre autorité — crème ou gris clair au Royaume-Uni — ou peignez une petite section de mur. L'essentiel est de garder l'arrière-plan lumineux et uniforme.
 
 ### Expression et pose
 
@@ -38,7 +38,7 @@ Les lunettes de soleil et verres teintés sont généralement refusés. Si vous 
 
 ## Taille de la photo de passeport : les deux formats utilisés par la plupart des pays
 
-La plupart des autorités de passeport utilisent l'un de ces deux formats imprimés. Le format 35 x 45 mm couvre le Royaume-Uni, les pays de l'UE dont les Pays-Bas, et une grande partie du reste du monde. Les États-Unis demandent un carré de 2 x 2 pouces, une poignée de pays suivant ce standard à la place. Certaines autorités fixent toutefois leur propre format : le Gouvernement du Canada demande des photos imprimées de 50 mm sur 70 mm.
+Les formats imprimés varient selon l'autorité. Le Royaume-Uni utilise le format 35 x 45 mm et le Gouvernement du Canada demande des photos de 50 mm de large sur 70 mm de haut. Les autres pays fixent leurs propres dimensions : vérifiez celles de votre autorité de passeport.
 
 Les soumissions numériques remplacent les millimètres par des pixels, et chaque autorité publie ses propres minimums. Ces deux formats sont ceux que la plupart des autorités demandent actuellement pour l'impression, mais les spécifications sont révisées, alors confirmez la vôtre avant d'imprimer ou de télécharger.
 
@@ -63,11 +63,11 @@ Vous avez plusieurs options pour obtenir votre photo de passeport aux mains de l
 
 | Méthode | Coût | Risque d'acceptation | Commodité | Orientation officielle |
 |---|---|---|---|---|
-| DIY à domicile (smartphone + application de recadrage) | Gratuit ou presque | Plus élevé si vous manquez l'éclairage ou les spécifications de taille | Très élevée - immédiate | Autorisé dans la plupart des pays - vérifiez le site de votre autorité |
+| DIY à domicile (smartphone + application de recadrage) | Gratuit ou presque | Plus élevé si vous manquez l'éclairage ou les spécifications de taille | Très élevée - immédiate | Consultez le site de votre autorité |
 | Pharmacie locale ou commerce | Des frais modestes | Faible - les professionnels formés vérifient | Moyen - service généralement le même jour | Largement utilisé et généralement fiable - vérifiez quand même les exigences en matière de photos de votre autorité |
 | Bureau de poste (Royaume-Uni et autres) | Des frais modestes | Faible - pris en interne, vérifié | Moyen - nécessite une visite et un rendez-vous | Service officiel du bureau de poste |
 | Services en ligne (par exemple Passport Photo Online) | Des frais modestes | Moyen - soumission numérique, retour fourni | Élevée - de chez soi, livraison numérique | Pas officiel mais largement utilisé - vérifiez si votre pays accepte les téléchargements pré-recadrés |
-| Studio de photographie professionnel | L'option la plus chère | Faible - éclairage et composition expert | Faible - nécessite un rendez-vous | Accepté partout - toujours un choix sûr |
+| Studio de photographie professionnel | L'option la plus chère | Faible - éclairage et composition expert | Faible - nécessite un rendez-vous | Risque le plus faible, mais la photo doit toujours respecter les règles de votre autorité |
 
 ## Éclairage et qualité d'image
 
@@ -83,7 +83,7 @@ Utilisez un trépied ou posez votre téléphone contre un objet stable pour avoi
 
 ### Résolution et mise au point
 
-Les smartphones modernes prennent des photos à 12 mégapixels ou plus, ce qui est plus que suffisant pour les photos de passeport. Avant de tourner, assurez-vous que votre téléphone est en mode de mise au point — tapotez sur votre visage sur l'écran, et la plupart des téléphones verrouillent le foyer là. Votre image finale doit être nette et claire.
+La plupart des appareils photo des smartphones récents offrent une résolution largement suffisante pour une photo de passeport. Avant de tourner, assurez-vous que votre téléphone est en mode de mise au point — tapotez sur votre visage sur l'écran, et la plupart des téléphones verrouillent le foyer là. Votre image finale doit être nette et claire.
 
 ## Raisons courantes de rejet et comment les éviter
 
@@ -133,7 +133,7 @@ Oui, vous pouvez prendre une photo de passeport avec un smartphone. Positionnez-
 
 ### Quelle taille doit avoir une photo de passeport
 
-La plupart des pays utilisent l'un de ces deux formats imprimés : 35 x 45 mm, qui couvre le Royaume-Uni, l'UE et une grande partie du monde, ou le carré de 2 x 2 pouces utilisé aux États-Unis. Certaines autorités fixent leur propre format : le Gouvernement du Canada, par exemple, demande des photos imprimées de 50 mm sur 70 mm. Les soumissions numériques ont des minimums en pixels distincts. Les exigences sont appliquées strictement et révisées régulièrement, alors confirmez la spécification exacte auprès de votre propre autorité de passeport avant d'imprimer ou de télécharger.
+Les formats imprimés varient selon l'autorité. Le Royaume-Uni utilise le format 35 x 45 mm et le Gouvernement du Canada le format 50 x 70 mm. Les autres pays fixent leurs propres dimensions : vérifiez celles de votre autorité de passeport. Les soumissions numériques ont des minimums en pixels distincts. Les exigences sont appliquées strictement et révisées régulièrement, alors confirmez la spécification exacte auprès de votre propre autorité de passeport avant d'imprimer ou de télécharger.
 
 ### Pourquoi ma photo de passeport a-t-elle été rejetée
 

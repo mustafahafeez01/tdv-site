@@ -13,7 +13,7 @@ Source: https://traveldocumentvault.com/nl/blog/national-id-card-travel-europe/
 - **EU- en EER-burgers kunnen binnen Europa reizen met alleen een nationale identiteitskaart** – geen paspoort nodig voor grensoverschrijdingen binnen Schengen.
 - Je identiteitskaart moet geldig zijn op de dag dat je reist, maar **hoeft niet nog 6 maanden geldig te zijn** zoals bij sommige paspoorten voor bestemmingen buiten Europa.
 - **Luchtvaartmaatschappijen bepalen hun eigen documentenbeleid.** De meeste accepteren identiteitskaarten voor vluchten binnen Europa, maar controleer dit altijd bij je luchtvaartmaatschappij voordat je boekt.
-- Een beschadigde, vervaagde of door water beschadigde identiteitskaart kan aan de grens worden geweigerd, ook als de geldigheidsdatum nog niet is verstreken, omdat beambten hem dan niet betrouwbaar kunnen lezen.
+- Een beschadigde, vervaagde of door water beschadigde identiteitskaart kan aan de grens vragen oproepen of worden geweigerd, ook als hij nog niet is verlopen. Wij zouden een versleten kaart voor vertrek vervangen.
 - In tegenstelling tot paspoorten **verlopen nationale identiteitskaarten sneller.** Travel Document Vault volgt beide documenten apart, zodat je de kortere vervaltermijn van je identiteitskaart niet mist.
 
 Een nationale EER-identiteitskaart is de identiteitskaart die je eigen land aan zijn burgers uitgeeft, de kaart die je nationaliteit vermeldt. De EER omvat de 27 EU-landen plus IJsland, Liechtenstein en Noorwegen, en binnen de EU en de EER is een geldige kaart op zichzelf voldoende om te reizen. Vraagt een online incheckformulier je om te kiezen tussen een paspoort en een nationale EER-identiteitskaart, kies dan het document dat je straks daadwerkelijk aan de incheckbalie overhandigt en voer het nummer van dat document in. Dit artikel is geschreven voor EU- en EER-burgers; een Britse of Amerikaanse lezer heeft geen nationale identiteitskaart voor reizen, dus voor hen is het paspoort sowieso de enige optie.
@@ -26,27 +26,25 @@ Binnen de EU en de EER is een geldige nationale identiteitskaart een volwaardig 
 
 Een kaart die morgen verloopt, is vandaag technisch gezien nog een geldig reisdocument. Toch is het slim om ruim op tijd te verlengen, want een kaart die bijna verloopt, wordt eerder ter discussie gesteld aan de grens, en beschadigde kaarten worden geweigerd, ook als ze nog niet zijn verlopen.
 
-In het Schengengebied is deze flexibiliteit het belangrijkst. Als EU-burger met een geldige identiteitskaart kun je vrij over de open grenzen tussen Schengenlanden reizen, zonder paspoortcontrole. Hetzelfde recht geldt aan de grenzen van EU-landen die niet bij Schengen horen – de kaart werkt vanwege de EU-wetgeving voor vrij verkeer, niet vanwege het Schengenlidmaatschap.
+In het Schengengebied is deze flexibiliteit het belangrijkst. Als EU-burger met een geldige identiteitskaart kun je normaal gesproken tussen Schengenlanden reizen zonder documenten aan de grens te tonen. Reis je van of naar Ierland of Cyprus, die de controles aan de binnengrenzen niet hebben afgeschaft, dan toon je wel je paspoort of identiteitskaart.
 
 ## Wat telt als een nationale EER-identiteitskaart
 
 Als een boekingsformulier of een incheckmedewerker vraagt naar een "nationale EER-identiteitskaart", bedoelen ze de identiteitskaart die je eigen land aan zijn burgers uitgeeft, de kaart die je nationaliteit vermeldt. De EER omvat de 27 EU-landen plus IJsland, Liechtenstein en Noorwegen; Zwitserland valt daarbuiten, maar de Your Europe-richtlijnen van de Europese Commissie bevestigen dat EU-burgers ook daarheen kunnen reizen met een nationale identiteitskaart.
 
-Een verblijfskaart toont waar je woont, niet je nationaliteit, dus die reist samen met een paspoort in plaats van het te vervangen. De Britse overheid vraagt Britse inwoners van Spanje om hun TIE-verblijfskaart te tonen naast het paspoort bij de Spaanse grenscontrole. Rijbewijzen, bankkaarten en belastingkaarten tellen ook niet, en Your Europe waarschuwt dat ze als identiteitsbewijs kunnen worden geweigerd.
+Een verblijfskaart toont waar je woont, niet je nationaliteit, dus die reist samen met een paspoort in plaats van het te vervangen. De Britse overheid vraagt Britse inwoners van Spanje om bewijs van verblijf, zoals hun TIE-verblijfskaart, te tonen naast het paspoort bij de Spaanse grenscontrole. Rijbewijzen, bankkaarten en belastingkaarten tellen ook niet, en Your Europe waarschuwt dat ze als identiteitsbewijs kunnen worden geweigerd.
 
 De huidige EU-kaart is makkelijk te herkennen. Ze heeft het formaat van een creditcard, een machineleesbare zone (de coderegels die een scanner leest), en toont de tweeletterige landcode van het uitgevende land in een blauwe rechthoek omringd door 12 gele sterren op de voorkant. Een chip erin bevat je foto en twee vingerafdrukken.
 
 Het zijn de oudere kaarten die mensen in de problemen brengen. Volgens de EU-verordening voor identiteitskaarten verloor een kaart zonder werkende machineleesbare zone, of een die onder de internationale minimumveiligheidsnorm valt, uiterlijk op 3 augustus 2026 haar geldigheid, ook als de gedrukte datum later ligt. De meeste andere oudere kaartformaten blijven geldig tot hun gedrukte vervaldatum of 3 augustus 2031, wat zich het eerst voordoet. Als je kaart van vóór de met sterren omringde code is en geen machineleesbare zone heeft, zouden wij hem nu laten vernieuwen in plaats van hem aan de grens te testen.
 
-Voor het Verenigd Koninkrijk werkt de kaart meestal niet. De Home Office stopte in oktober 2021 met het accepteren van de meeste EU-, EER- en Zwitserse identiteitskaarten als reisdocument, met beperkte uitzonderingen, dus controleer GOV.UK voordat je naar het VK reist.
+Voor het Verenigd Koninkrijk werkt de kaart meestal niet. Het VK accepteert een EU-, EER- of Zwitserse identiteitskaart doorgaans alleen voor beperkte groepen, zoals mensen met settled of pre-settled status. Controleer daarom GOV.UK voordat je naar het VK reist.
 
 ## Wanneer je toch je paspoort nodig hebt
 
 Voor de meeste bestemmingen buiten de EU en de EER wordt een nationale identiteitskaart niet erkend als geldig reisdocument. Inreisvereisten verschillen per land en per nationaliteit – de officiële immigratie-informatie van je bestemming raadplegen voordat je vertrekt, is de enige manier om zeker te zijn. De meeste immigratiesystemen wereldwijd verwachten een paspoort.
 
-Sommige EU-lidstaten hebben bilaterale afspraken met bepaalde niet-Europese landen die toegang met een nationale identiteitskaart toestaan, maar deze verschillen per nationaliteit en veranderen in de loop van de tijd. Reis je verder dan Europa, neem dan je paspoort mee en controleer de inreisvereisten van je specifieke bestemming bij de officiële immigratie-instantie van dat land voordat je boekt.
-
-Binnen Europa hebben sommige landen bilaterale overeenkomsten die de acceptatie van identiteitskaarten verruimen ten opzichte van het standaard EU-kader. Deze overeenkomsten bestaan, maar ze kunnen complex zijn, dus het is vaak eenvoudiger om je paspoort mee te nemen naast je identiteitskaart wanneer je buiten je eigen land reist, zelfs als de wet zegt dat je kaart alleen voldoende is.
+Buiten de EU en de EER accepteren enkele landen bepaalde identiteitskaarten, maar de regels verschillen. Controleer de officiële richtlijnen van het land. Het is vaak eenvoudiger om naast je identiteitskaart ook je paspoort mee te nemen als je buiten je eigen land reist, ook als je kaart wettelijk voldoende is.
 
 ![Diagram dat vergelijkt wanneer een nationale identiteitskaart meestal werkt, voor reizen binnen de EU en EER en Zwitserland, met wanneer je het paspoort meeneemt: de meeste reizen buiten Europa, een beschadigde kaart, of een luchtvaartmaatschappij die erom vraagt](https://traveldocumentvault.com/blog/national-id-card-travel-europe/id-card-or-passport-nl.jpg) Binnen de EU en EER werkt de kaart meestal; buiten Europa neem je het paspoort.
 
@@ -55,7 +53,7 @@ Binnen Europa hebben sommige landen bilaterale overeenkomsten die de acceptatie 
 Een geldige vervaldatum is noodzakelijk, maar niet voldoende, want grensbeambten zijn getraind om documenten te weigeren die ze niet duidelijk kunnen lezen. Controleer je identiteitskaart voordat je gaat inpakken op dezelfde manier als grenspersoneel dat doet:
 
 - **Is de kaart intact?** Geen kromming, barsten, loslatende opdruk of scheiding van de plastic laagjes.
-- **Zijn de foto en persoonsgegevens leesbaar?** Waterschade of vervaging waardoor je gezicht of naam moeilijk leesbaar zijn, is reden voor weigering, ook als de kaart nog niet is verlopen.
+- **Zijn de foto en persoonsgegevens leesbaar?** Waterschade of vervaging waardoor je gezicht of naam moeilijk leesbaar zijn, kan tot weigering leiden, ook als de kaart nog niet is verlopen.
 - **Staat de vervaldatum duidelijk en ondubbelzinnig afgedrukt?** Vlekken of inktschade werken in je nadeel.
 - **Zijn de beveiligingskenmerken zichtbaar?** Hologrammen, achtergrondpatronen en andere antivervalsingselementen moeten intact zijn.
 
@@ -63,13 +61,13 @@ Vertoont je kaart slijtage – vouwen, waterplekken, vervaagde opdruk – en ga 
 
 ## Identiteitskaarten van kinderen en de kortere vervaltermijn
 
-In de meeste EU-landen verlopen identiteitskaarten van kinderen sneller dan die van volwassenen, net als kinderpaspoorten. Dit is belangrijk omdat gezinnen vaak samen reizen, en het vergeten te controleren van het document van één kind de hele groep kan tegenhouden.
+In veel EU-landen zijn identiteitskaarten van kinderen korter geldig dan die van volwassenen, net als kinderpaspoorten. Controleer daarom de datum op elke kaart. Dit is belangrijk omdat gezinnen vaak samen reizen, en het vergeten te controleren van het document van één kind de hele groep kan tegenhouden.
 
 We behandelen dit uitgebreid in onze gids over [het beheer van familiepaspoorten](https://traveldocumentvault.com/nl/blog/family-passport-management/) – hetzelfde principe geldt voor identiteitskaarten. Controleer elk document in je groep afzonderlijk voordat je boekt, niet alleen je eigen document. Een identiteitskaart van een kind die twee maanden geleden is verlopen, wordt niet door de vingers gezien omdat de paspoorten van de volwassenen wel geldig zijn.
 
 ## Als de kaart wordt geweigerd bij het inchecken of aan de grens
 
-Wordt je identiteitskaart geweigerd, dan hangen je opties af van wat je verder bij je hebt. Heb je ook een paspoort, dan kun je daarmee meestal alsnog reizen, mits het geldig is en voldoet aan de inreisvereisten van je bestemming. Heb je alleen je identiteitskaart bij je, dan is er geen alternatief: je kunt de grens niet over, en grensbeambten zijn niet verplicht een ander document te accepteren.
+Wordt je identiteitskaart geweigerd, dan hangen je opties af van wat je verder bij je hebt. Heb je ook een paspoort, dan kun je daarmee meestal alsnog reizen, mits het geldig is en voldoet aan de inreisvereisten van je bestemming. Heb je alleen je identiteitskaart bij je, dan is er geen alternatief: je kunt de grens niet over, en grensbeambten accepteren mogelijk geen alternatief document.
 
 De meest praktische aanpak is om zowel je identiteitskaart als je paspoort mee te nemen als je internationaal reist, zelfs binnen Europa.
 
@@ -79,7 +77,7 @@ Geen van beide documenten neemt veel ruimte in, en met allebei zorgt een beschad
 
 De praktische uitdaging bij het beheren van reisdocumenten is dit: je identiteitskaart en je paspoort volgen compleet verschillende verlengingsschema's. Een paspoort kan nog 8 maanden geldig zijn, terwijl je identiteitskaart nog maar 2 maanden geldig is. Het is makkelijk om de ene te verlengen en de andere te vergeten, zeker als je niet vaak reist.
 
-Het lastigste is dat **geen van beide documenten je een herinnering stuurt.** Je wordt geacht ze zelf te controleren. De meeste mensen doen dat niet, totdat ze bij de incheckbalie staan en een medewerker hen vertelt dat een van de documenten te dicht bij de vervaldatum zit om te worden geaccepteerd.
+Het lastigste is dat **de meeste uitgevende instanties je geen herinnering sturen.** Je wordt geacht ze zelf te controleren. De meeste mensen doen dat niet, totdat ze bij de incheckbalie staan en een medewerker hen vertelt dat een van de documenten te dicht bij de vervaldatum zit om te worden geaccepteerd.
 
 Wat helpt, is één plek voor beide documenten, die elke vervaldatum bewaart en je apart herinnert voor elk document, op het schema dat bij dat type document past. Bekijk onze gids over [het opstellen van een complete documentencontrole voor je vertrek](https://traveldocumentvault.com/nl/blog/travel-document-checklist/) voor het volledige overzicht van wat je moet controleren voordat je reist.
 
@@ -101,11 +99,11 @@ Nee. Binnen de EU en de EER volstaat een geldige nationale identiteitskaart voor
 
 ### Kan ik mijn nationale identiteitskaart gebruiken voor vliegreizen binnen Europa?
 
-De meeste luchtvaartmaatschappijen accepteren nationale identiteitskaarten voor vluchten binnen Europa, maar het beleid verschilt per maatschappij. Controleer dit altijd bij je luchtvaartmaatschappij voordat je boekt. Sommige budgetmaatschappijen hanteren strengere regels en geven voor internationale vluchten, zelfs binnen de EU, de voorkeur aan een paspoort. De incheckbalie is niet de plek om erachter te komen dat je identiteitskaart niet wordt geaccepteerd.
+De meeste luchtvaartmaatschappijen accepteren nationale identiteitskaarten voor vluchten binnen Europa, maar het beleid verschilt per maatschappij. Controleer dit altijd bij je luchtvaartmaatschappij voordat je boekt. De incheckbalie is niet de plek om erachter te komen dat je identiteitskaart niet wordt geaccepteerd.
 
 ### Wat moet ik controleren aan mijn nationale identiteitskaart voordat ik ga reizen?
 
-Controleer of je kaart niet beschadigd, vervaagd of moeilijk leesbaar is. De kaart moet geldig zijn op de dag dat je reist en mag geen essentiële gegevens missen. Een kaart die buigt, loslaat of waterschade heeft, kan aan de grens worden geweigerd, ook als de geldigheidsdatum nog niet is verstreken, omdat grensbeambten hem dan niet betrouwbaar kunnen lezen.
+Controleer of je kaart niet beschadigd, vervaagd of moeilijk leesbaar is. De kaart moet geldig zijn op de dag dat je reist en mag geen essentiële gegevens missen. Een kaart die buigt, loslaat of waterschade heeft, kan aan de grens vragen oproepen of worden geweigerd, ook als hij nog niet is verlopen. Wij zouden een versleten kaart voor vertrek vervangen.
 
 ### Wat als mijn nationale identiteitskaart aan de grens wordt geweigerd?
 

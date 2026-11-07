@@ -10,21 +10,21 @@ Source: https://traveldocumentvault.com/de/blog/tripcase-alternative/
 
 ## Wichtigste Erkenntnisse
 
-- **TripCase wurde am 1. April 2025 eingestellt**, nachdem es 12 Jahre lang aktiv war. Sabre hat alle verbleibenden Nutzerdaten nach Ablauf des Exportfensters am 30. Juni 2025 gelöscht.
-- Das **Document Vault** – ein sicherer Ort für Reisepässe, Visa und Bordkarten – vermissen Ex-Nutzer am meisten.
+- **TripCase wurde am 1. April 2025 eingestellt**, und laut Sabres Mitteilung hatten Nutzer bis zum 30. Juni 2025 Zeit, ihre Reisen herunterzuladen, bevor die verbleibenden Daten entfernt wurden.
+- Das **Document Vault** – ein sicherer Ort für Reisepässe, Visa und Bordkarten – nennen Ex-Nutzer häufig als vermisst.
 - **Keine einzelne App ersetzt TripCase vollständig.** Flugwarnungen, Reiseplan-Analyse und Dokumentspeicherung verteilen sich jetzt auf verschiedene Apps.
-- Die eigentliche Lektion: Ein kostenloser Cloud-Dienst speichert **Ihre Daten auf ausgeliehene Zeit**. Er kann mit etwa 60 Tagen Vorankündigung verschwinden.
+- Die eigentliche Lektion: Ein kostenloser Cloud-Dienst speichert **Ihre Daten auf ausgeliehene Zeit**. Er kann mit wenigen Monaten Vorankündigung verschwinden.
 - Reisedokumente gehören **offline, auf Ihr Gerät** – an einen Ort, den keine Unternehmensentscheidung, kein Ausfall oder keine Einstellung erreichen kann.
 
-TripCase war zwölf Jahre lang das stille Arbeitstier unter den Reiseapps. Leiten Sie eine Bestätigungsemail weiter und Ihre Reise baute sich selbst auf. Die App benachrichtigte Sie über Torwechsel früher als manche Fluggesellschaften. Und das Document Vault behielt Reisepässe, Visa und Bordkarten an einem Ort. Dann, am 1. April 2025, stellte Sabre es ein, und nach dem Ablauf des Exportfensters am 30. Juni wurden alle verbleibenden Reisedaten und Dokumente von den Servern gelöscht.
+TripCase war jahrelang das stille Arbeitstier unter den Reiseapps. Leiten Sie eine Bestätigungsemail weiter und Ihre Reise baute sich selbst auf. Die App benachrichtigte Sie über Torwechsel früher als manche Fluggesellschaften. Und das Document Vault behielt Reisepässe, Visa und Bordkarten an einem Ort. Dann, am 1. April 2025, stellte Sabre es ein, und laut Sabres damals berichteter Mitteilung hatten Nutzer bis zum 30. Juni 2025 Zeit, ihre Reisen herunterzuladen, bevor die verbleibenden Daten entfernt wurden.
 
-Fünfzehn Monate später suchen Ex-Nutzer immer noch nach einem Ersatz. Die ehrliche Antwort lautet, dass es keine einzelne App gibt, die TripCase vollständig ersetzt. Aber die wahre Geschichte dreht sich nicht darum, welche App man wählen sollte – es geht darum, wo Ihre Dokumente leben sollten.
+Mehr als ein Jahr später hat keine einzelne App seinen Platz eingenommen. Die ehrliche Antwort lautet, dass es keine einzelne App gibt, die TripCase vollständig ersetzt. Aber die wahre Geschichte dreht sich nicht darum, welche App man wählen sollte – es geht darum, wo Ihre Dokumente leben sollten.
 
 ## Jahrelang war TripCase die Standardlösung, dann stellte Sabre es ein
 
-TripCase gab es seit 2013, ein kostenloses Reise-Begleiter von Sabre Corporation – dem Unternehmen, das einen großen Teil der weltweiten Flug- und Reisebüro-Buchungssysteme betreibt. Aufgrund dieser Verbindung erschienen Reisen oft automatisch in der App. Über ein Jahrzehnt lang verließen sich Geschäftsreisende und Familien darauf, Flüge, Hotels und Mietwagen in einer chronologischen Übersicht zusammenzustellen. Es war nicht fancy, aber es funktionierte.
+TripCase war ein kostenloser Reisebegleiter von Sabre Corporation, einem großen Technologieunternehmen für Flug- und Reisebüro-Buchungen. Aufgrund dieser Verbindung erschienen Reisen oft automatisch in der App. Jahrelang verließen sich Geschäftsreisende und Familien darauf, Flüge, Hotels und Mietwagen in einer chronologischen Übersicht zusammenzustellen. Es war nicht fancy, aber es funktionierte.
 
-Bei der Einstellung hatten Nutzer bis zum 30. Juni 2025 Zeit, ihre Verlauf zu exportieren. Mehrere Nutzer berichteten, dass der Exportprozess verwirrend und unvollständig war, und einige stellten zu spät fest, dass Jahre von Reisedatensätzen nicht exportiert worden waren. Nach Ablauf des Exportfensters am 30. Juni 2025 löschte Sabre alle verbleibenden Reise- und Nutzerdaten, und es gibt keine Möglichkeit, sie zurückzuholen.
+Bei der Einstellung hatten Nutzer bis zum 30. Juni 2025 Zeit, ihre Verlauf zu exportieren. Einige Nutzer berichteten, dass der Exportprozess verwirrend oder unvollständig war. Sabre erklärte, die verbleibenden Daten nach Ablauf des Download-Fensters zu entfernen, daher ist alles, was Sie nicht exportiert haben, wahrscheinlich nicht wiederherstellbar.
 
 ## Was TripCase-Nutzer wirklich verloren haben
 
@@ -32,15 +32,15 @@ TripCase hat nicht viel erfunden, aber es hat eine Handvoll Arbeitsabläufe perf
 
 Sein Kern war **E-Mail-zu-Reiseplan-Analyse** – leiten Sie eine beliebige Flug-, Hotel- oder Mietwagenbestätigung weiter und die App stellte sie in einer chronologischen Reise mit Daten und Buchungsreferenzen zusammen. Keine manuelle Eingabe bedeutete einen vollständigen Reiseplan in Sekunden, genau der Grund, warum Nutzer ein Jahrzehnt lang dabei blieben.
 
-**Echtzeit-Flugwarnungen** kamen dazu: Verspätungen, Torwechsel und Stornierungen oft bevor die eigene Fluggesellschaft benachrichtigte. TripIt verlangt jetzt für seinen Pro-Plan, um das Äquivalent zu bekommen, während TripCase die Funktion kostenlos für alle anbot.
+**Echtzeit-Flugwarnungen** kamen dazu: Verspätungen und Torwechsel, oft bevor die eigene Fluggesellschaft benachrichtigte. TripIt verlangt jetzt für seinen Pro-Plan, um das Äquivalent zu bekommen.
 
-Diese Flüge, Hotels und Bodentransporte lebten in **der Reisezeitachse** – ein scrollbarer Stapel pro Reise. Einfach, aber wenn Sie eine mehrstädtige Woche aus einem Dutzend Bestätigungsmails jongliert haben, verstehen Sie, warum das wichtig war. In Forum-Threads auf FlyerTalk und anderswo bringen Ex-Nutzer durchgehend das **Document Vault** als das am meisten fehlende Teil auf – diesen einzigen sicheren Ort für Bordkarten, Visa, Reisepässe und Bestätigungen. Schließlich ließ **Reise-Sharing** Familienmitglieder oder Kollegen mitverfolgen, ohne dass Emails weitergeleitet werden mussten.
+Diese Flüge, Hotels und Bodentransporte lebten in **der Reisezeitachse** – ein scrollbarer Stapel pro Reise. Einfach, aber wenn Sie eine mehrstädtige Woche aus einem Dutzend Bestätigungsmails jongliert haben, verstehen Sie, warum das wichtig war. In Forum-Threads auf FlyerTalk und anderswo nennen manche Ex-Nutzer das **Document Vault** unter den Funktionen, die ihnen fehlen – diesen einzigen sicheren Ort für Bordkarten, Visa, Reisepässe und Bestätigungen. Schließlich ließ **Reise-Sharing** Familienmitglieder oder Kollegen mitverfolgen, ohne dass Emails weitergeleitet werden mussten.
 
 ## Eine Cloud-App hält Ihre Daten auf der Uhr eines anderen
 
 Wenn Sie Ihr Reisenleben um eine kostenlose Cloud-App herum aufbauen, mieten Sie Platz, den der Eigentümer jederzeit zurückfordern kann.
 
-TripCase existierte lange genug, dass Menschen es als permanente Infrastruktur betrachteten, Jahre von Datensätzen und Dokumenten hochluden in der Annahme, es würde immer da sein. Dann machte Sabre die Rechnung, beschloss, dass die App nicht zu seinem Kerngeschäft gehörte, und ein Jahrzehnt von Nutzerdaten verdampfte nach einem Zeitplan, den Sabre wählte.
+TripCase existierte lange genug, dass Menschen es als permanente Infrastruktur betrachteten, Jahre von Datensätzen und Dokumenten hochluden in der Annahme, es würde immer da sein. Dann entschied sich Sabre, die App abzuwickeln, und die Nutzerdaten verschwanden nach einem Zeitplan, den Sabre festlegte.
 
 Das ist alles keine Bosheit; es ist nur, wie Geschäftsentscheidungen funktionieren. Reiseapps werden regelmäßig eingestellt, kostenlose Pläne verschwinden hinter Paywalls, und Dienste werden eingestellt. Die Person, die bei der zeitlichen Planung kein Mitspracherecht hat, sind Sie.
 
@@ -54,11 +54,11 @@ TripCase bündelte mehrere verschiedene Aufgaben in einer kostenlosen App. Keine
 
 | Die Aufgabe | Was TripCase tat | Bester Ersatz jetzt | Kosten |
 |---|---|---|---|
-| Flugwarnungen | Echtzeit-Verspätungen, Torwechsel, Stornierungen | Flighty | Kostenloser Plan; kostenpflichtiges Abonnement verfügbar |
+| Flugwarnungen | Echtzeit-Verspätungen und Torwechsel | Flighty | Kostenloser Plan; kostenpflichtiges Abonnement verfügbar |
 | E-Mail-zu-Reiseplan-Analyse | Bestätigung weiterleiten, der Reiseplan baut sich selbst | TripIt oder Tripsy | TripIt hat einen kostenlosen Plan; aktuelle Pro-Preise auf der Website prüfen |
-| Reisezeitachse | Eine chronologische Ansicht pro Reise | TripIt oder Tripsy | Im obigen enthalten |
+| Reisezeitachse | Eine chronologische Ansicht pro Reise | TripIt | Im obigen enthalten |
 | Speicherung von Reisedokumenten | Das Document Vault: Reisepässe, Visa, Bordkarten | Travel Document Vault | Einmaliger Kauf, kein Abonnement |
-| Reise-Sharing | Verfolger sahen Ihren Live-Reiseplan | TripIt-Sharing oder ein gemeinsamer Ordner | Kostenlos |
+| Reise-Sharing | Verfolger sahen Ihren Live-Reiseplan | TripIt-Sharing (prüfen Sie, welcher Plan) oder ein gemeinsamer Ordner | Je nach Plan unterschiedlich |
 
 Flugwarnungen und Reiseplan-Analyse sind Annehmlichkeiten – wirklich nützliche – und sie gehören in die Cloud, weil sie nur dann wichtig sind, während eine Reise aktiv ist. Dokumentspeicherung ist aber anders: Es ist die eine Aufgabe, bei der der Zugriffsverlust tatsächlich etwas kostet, das Sie nicht verschieben können.
 
@@ -76,7 +76,7 @@ Die vernünftige Reaktion auf TripCases Zusammenbruch ist nicht, Cloud-Tools ins
 
 TripCase ist weg und seine Funktionen sind jetzt über andere Apps verteilt. Aber es gibt eine Lektion, die es wert ist, daraus zu ziehen: Ihre Reisedokumente sollten nicht mit jemandem anderen Server sterben.
 
-Beginnen Sie noch heute mit einer einfachen Überprüfung: Wo leben derzeit alle Scans Ihres Reisepasses, jedes Visum-PDF, jeder Ausweis Ihres Kindes, und was passiert damit, wenn dieser Dienst mit 60 Tagen Vorankündigung verschwindet? Unsere [Checkliste für Reisedokumente](https://traveldocumentvault.com/de/blog/travel-document-checklist/) ist ein praktischer Anfangspunkt.
+Beginnen Sie noch heute mit einer einfachen Überprüfung: Wo leben derzeit alle Scans Ihres Reisepasses, jedes Visum-PDF, jeder Ausweis Ihres Kindes, und was passiert damit, wenn dieser Dienst mit wenigen Monaten Vorankündigung verschwindet? Unsere [Checkliste für Reisedokumente](https://traveldocumentvault.com/de/blog/travel-document-checklist/) ist ein praktischer Anfangspunkt.
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 
@@ -84,15 +84,15 @@ Beginnen Sie noch heute mit einer einfachen Überprüfung: Wo leben derzeit alle
 
 ### Wann wurde TripCase eingestellt?
 
-TripCase wurde am 1. April 2025 eingestellt, nachdem die Muttergesellschaft Sabre Corporation beschlossen hatte, den Dienst zu beenden. Nutzer hatten bis zum 30. Juni 2025 Zeit, ihre Reisedaten zu exportieren, bevor alle Datensätze dauerhaft von den Servern von Sabre gelöscht wurden.
+TripCase wurde am 1. April 2025 eingestellt, nachdem die Muttergesellschaft Sabre Corporation beschlossen hatte, den Dienst zu beenden. Laut der damals berichteten Mitteilung von Sabre hatten Nutzer bis zum 30. Juni 2025 Zeit, ihre Reisen herunterzuladen, bevor die verbleibenden Daten entfernt wurden.
 
 ### Kann ich nach der Einstellung auf meine TripCase-Daten zugreifen?
 
-Nein. Sabre hat alle Nutzerdaten nach Ablauf des Exportfensters am 30. Juni 2025 gelöscht. Wenn Sie Ihre Reisen vor diesem Datum exportiert haben, verfügen Sie immer noch über die Exportdatei, aber die Daten auf den Servern von Sabre sind dauerhaft verloren. Viele Nutzer berichteten, dass der Exportprozess unvollständig war, so dass Teile von Reisedatensätzen verloren gingen.
+In der Regel nicht. Sabre erklärte, die verbleibenden Daten nach Ablauf des Download-Fensters zu entfernen, das bis zum 30. Juni 2025 lief. Wenn Sie Ihre Reisen vor diesem Datum exportiert haben, verfügen Sie immer noch über die Exportdatei. Einige Nutzer berichteten, dass der Exportprozess unvollständig war, sodass Teile von Reisedatensätzen möglicherweise nicht wiederherstellbar sind.
 
 ### Was ist die beste TripCase Alternative für Flugwarnungen?
 
-Flighty ist der direkteste Ersatz für Echtzeit-Flugwarnungen. Die App verfolgt Verspätungen, Torwechsel und Stornierungen und kann Flüge aus Ihrem Kalender ohne manuelle Eingabe abrufen. Es gibt derzeit einen kostenlosen Plan, mit einem kostenpflichtigen Abonnement für den vollständigen Funktionsumfang.
+Flighty ist der direkteste Ersatz für Echtzeit-Flugwarnungen. Die App verfolgt Verspätungen und Torwechsel und kann Flüge aus Ihrem Kalender ohne manuelle Eingabe abrufen. Es gibt derzeit einen kostenlosen Plan, mit einem kostenpflichtigen Abonnement für den vollständigen Funktionsumfang.
 
 ### Gibt es eine App, die TripCase vollständig ersetzt?
 

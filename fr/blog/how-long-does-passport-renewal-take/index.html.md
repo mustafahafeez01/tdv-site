@@ -50,13 +50,13 @@ HM Passport Office publie son propre délai de traitement actuel sur GOV.UK, et 
 
 ![Diagramme d'une demande qui avance vers un passeport finalisé en évitant six causes de retard : changement de nom, premier passeport adulte, demande pour un enfant, perte ou dommage, vérifications ou entretien supplémentaires, et demande depuis l'étranger](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/passport-renewal-timeline-fr.jpg) Six situations font sortir une demande de la voie rapide. Un renouvellement simple les évite toutes.
 
-Le Royaume-Uni offre un service de renouvellement numérique pour les adultes admissibles qui demandent depuis le **Royaume-Uni**. Si vous êtes admissible, vous n'avez pas besoin d'envoyer votre ancien passeport, mais vous devez tout de même fournir une photo conforme aux exigences officielles. La demande est complétée en ligne. **Si vous êtes un citoyen britannique vivant à l'étranger** (un expatrié), le service numérique ne vous est pas disponible. Vous devez utiliser le service de passeport à l'étranger sur GOV.UK, qui nécessite d'envoyer votre passeport actuel. Pour les cas urgents, HM Passport Office propose un service 1 Week Fast Track et, pour les renouvellements d'adultes uniquement, un service 1 Day Premium dont le premier rendez-vous est disponible 2 jours après la demande. Consultez GOV.UK pour le service approprié et le chiffre actuel pour votre situation, qui demande votre localisation au début de la demande.
+Le Royaume-Uni offre un service de renouvellement numérique pour les adultes admissibles qui demandent depuis le **Royaume-Uni**. Si vous êtes admissible, vous n'avez pas besoin d'envoyer votre ancien passeport, mais vous devez tout de même fournir une photo conforme aux exigences officielles. La demande est complétée en ligne. **Si vous êtes un citoyen britannique vivant à l'étranger** (un expatrié), le service numérique ne vous est pas disponible. Vous devez utiliser le service de passeport à l'étranger sur GOV.UK. Pour les cas urgents, HM Passport Office propose un service 1 Week Fast Track et, pour les renouvellements d'adultes uniquement, un service 1 Day Premium dont le premier rendez-vous est disponible 2 jours après la demande. Consultez GOV.UK pour le service approprié et le chiffre actuel pour votre situation, qui demande votre localisation au début de la demande.
 
 Un changement de nom, un premier passeport adulte, ou toute demande nécessitant des vérifications supplémentaires prendra plus de temps. Les passeports d'enfants ne peuvent pas utiliser le service numérique du tout — ils suivent le processus standard uniquement. Avant de présenter votre demande, consultez GOV.UK pour le chiffre actuel pertinent à votre situation.
 
 ## Combien de temps prend le renouvellement de passeport en Australie ?
 
-Le Bureau des passeports australien est la seule source fiable pour les délais actuels, car ils évoluent avec le volume de demandes et la période de l'année. Le traitement accéléré et prioritaire sont disponibles pour ceux qui doivent aller plus vite que la file standard, tous deux réservables moyennant des frais supplémentaires.
+Le Bureau des passeports australien est la seule source fiable pour les délais actuels, car ils évoluent avec le volume de demandes et la période de l'année. L'Australie peut proposer des options plus rapides payantes : consultez passports.gov.au pour connaître les services disponibles.
 
 Les délais de traitement standard en Australie sont généralement meilleurs qu'aux États-Unis et au Royaume-Uni, mais ils peuvent encore s'allonger pendant les pics saisonniers. Présentez votre demande le plus tôt raisonnablement possible avant votre voyage, et consultez passports.gov.au pour le délai actuel avant de la soumettre.
 
@@ -64,7 +64,7 @@ Les demandes de passeport pour enfants sont une autre histoire. Elles sont plus 
 
 ## Combien de temps prend le renouvellement de passeport au Canada ?
 
-Immigration, Réfugiés et Citoyenneté Canada (IRCC) traite les renouvellements de passeport. Le Canada propose désormais le renouvellement en ligne aux adultes admissibles qui ne voyagent pas dans les 20 jours ouvrables suivants ; les autres doivent présenter leur demande par courrier via Service Canada ou en personne à un bureau de Passeport Canada. Pour les voyages urgents, des options de rendez-vous d'urgence et de service express en personne existent moyennant des frais supplémentaires.
+Immigration, Réfugiés et Citoyenneté Canada (IRCC) traite les renouvellements de passeport. Le Canada propose le renouvellement en ligne si vous avez besoin du passeport dans 20 jours ouvrables ou plus ; les autres demandeurs suivent la procédure sur formulaire papier. Pour les voyages urgents, des options de rendez-vous d'urgence et de service express en personne existent moyennant des frais supplémentaires.
 
 Cela rend le processus plus exigeant logistiquement, surtout si vous vivez quelque part de rural et que le bureau de passeport le plus proche est éloigné. Consultez la page d'IRCC pour les délais de traitement actuels avant de présenter votre demande, et ajoutez le temps d'acheminement dans chaque sens si vous demandez par courrier.
 
@@ -79,7 +79,7 @@ Peu importe le pays par lequel vous renouvelez, les mêmes erreurs provoquent r�
 
 ## Pouvez-vous voyager pendant que votre passeport est renouvelé ?
 
-La réponse surprend la plupart des gens. Dans la plupart des pays, vous pouvez voyager pendant que votre renouvellement est en attente — vous utiliserez votre ancien passeport (toujours valide) ainsi que la documentation officielle de l'autorité de passeport confirmant que votre demande est en cours.
+C'est parfois possible, à condition que votre passeport actuel soit toujours valide et que vous ne l'ayez pas remis avec votre demande. Certaines autorités demandent de l'envoyer : vérifiez auprès de la vôtre avant de réserver. Une fois envoyé, vous devrez attendre le nouveau.
 
 Les règles varient selon le pays :
 
@@ -90,13 +90,13 @@ Les règles varient selon le pays :
 - **Nouvelle-Zélande :** Les demandes peuvent généralement être faites sans remettre votre passeport actuel — consultez les directives du Ministère des affaires intérieures pour votre situation spécifique.
 - **Irlande :** Les services de renouvellement Passport Online et An Post n'exigent pas que vous rendiez votre passeport actuel jusqu'à ce que le nouveau soit prêt. Consultez les directives actuelles du Service des passeports avant de présenter votre demande.
 
-**L'exception critique :** Si votre pays de destination exige un visa d'entrée unique, l'utilisation de l'ancien passeport pour voyager peut invalider le visa qui y est associé. Vérifiez toujours les implications des visas avant de voyager avec un ancien passeport pendant qu'un nouveau est en cours.
+**L'exception critique :** Un visa est lié au passeport dans lequel il figure : vérifiez les règles de la destination avant de voyager. Vérifiez toujours les implications des visas avant de voyager avec un ancien passeport pendant qu'un nouveau est en cours.
 
 ## Si votre voyage est imminent, avancez sur tous les fronts à la fois
 
 Vous avez un voyage prévu dans les prochaines semaines et votre passeport est sur le point d'expirer. Ne paniquez pas — mais bougez vite :
 
-1. **Appelez votre autorité de passeport — ne faites pas que consulter le site web.** Les quatre pays disposent de dispositions pour les rendez-vous urgents et d'urgence. Un appel téléphonique vous met en contact avec une vraie personne qui peut vous dire exactement ce qui est disponible.
+1. **Appelez votre autorité de passeport — ne faites pas que consulter le site web.** La plupart des autorités proposent des procédures urgentes, soumises à des conditions d'admissibilité ; celles du Royaume-Uni ne sont pas disponibles pour une demande depuis l'étranger. Un appel téléphonique vous met en contact avec une vraie personne qui peut vous dire exactement ce qui est disponible.
 2. **Rassemblez vos documents avant d'appeler.** Vous aurez besoin d'une preuve de voyage imminent (confirmations de réservation montrant les dates), votre passeport actuel, des photos et des formulaires complétés. Ayez tout prêt — les rendez-vous urgents se font rapidement.
 3. **Vérifiez votre police d'assurance voyage.** Certaines polices couvrent les frais supplémentaires du renouvellement urgent du passeport. La plupart excluent les situations où le renouvellement était prévisible — mais ça vaut le coup de regarder avant de dépenser l'argent.
 4. **Demandez si vous pouvez reporter votre voyage.** Les compagnies aériennes et les hôtels varient, mais beaucoup renonceront aux frais de changement pour les urgences de passeport documentées. Ce n'est pas garanti, mais cela ne coûte rien de demander.
@@ -115,23 +115,23 @@ Nous ne pouvons pas vous donner de chiffre fixe ici, car les délais de traiteme
 
 ### Combien de temps prend le renouvellement de passeport au Royaume-Uni ?
 
-HM Passport Office publie son propre délai de traitement actuel, et il change assez souvent pour qu'un chiffre cité ici soit probablement déjà obsolète au moment où vous le lisez. Les adultes admissibles qui demandent depuis le Royaume-Uni peuvent utiliser le service de renouvellement numérique, qui évite d'envoyer le passeport mais nécessite tout de même une photo conforme aux exigences officielles. Si vous demandez depuis l'extérieur du Royaume-Uni, vous utiliserez plutôt le service à l'étranger, qui nécessite d'envoyer votre passeport actuel. Pour les cas urgents, HM Passport Office propose un service 1 Week Fast Track et, pour les renouvellements d'adultes uniquement, un service 1 Day Premium dont le premier rendez-vous est disponible 2 jours après la demande. Consultez GOV.UK pour le chiffre qui s'applique à votre situation.
+HM Passport Office publie son propre délai de traitement actuel, et il change assez souvent pour qu'un chiffre cité ici soit probablement déjà obsolète au moment où vous le lisez. Les adultes admissibles qui demandent depuis le Royaume-Uni peuvent utiliser le service de renouvellement numérique, qui évite d'envoyer le passeport mais nécessite tout de même une photo conforme aux exigences officielles. Si vous demandez depuis l'extérieur du Royaume-Uni, vous utiliserez plutôt le service à l'étranger. Pour les cas urgents, HM Passport Office propose un service 1 Week Fast Track et, pour les renouvellements d'adultes uniquement, un service 1 Day Premium dont le premier rendez-vous est disponible 2 jours après la demande. Consultez GOV.UK pour le chiffre qui s'applique à votre situation.
 
 ### Combien de temps prend le renouvellement de passeport en Australie ?
 
-Le Bureau des passeports australien est la seule source fiable pour les délais actuels, car ils évoluent avec le volume de demandes et la période de l'année. Le traitement accéléré et prioritaire sont disponibles pour ceux qui doivent aller plus vite que la file standard, tous deux réservables moyennant des frais. Présentez votre demande le plus tôt raisonnablement possible, quelle que soit la voie utilisée — les périodes de pointe allongent la file standard souvent plus que ne le reflètent les indications publiées. Consultez passports.gov.au avant de présenter votre demande.
+Le Bureau des passeports australien est la seule source fiable pour les délais actuels, car ils évoluent avec le volume de demandes et la période de l'année. L'Australie peut proposer des options plus rapides payantes : consultez passports.gov.au pour connaître les services disponibles. Présentez votre demande le plus tôt raisonnablement possible, quelle que soit la voie utilisée — les périodes de pointe allongent la file standard souvent plus que ne le reflètent les indications publiées. Consultez passports.gov.au avant de présenter votre demande.
 
 ### Puis-je renouveler mon passeport en ligne ?
 
-Les États-Unis proposent un programme de renouvellement en ligne pour les adultes admissibles qui ont obtenu leur passeport à l'âge de 16 ans ou plus — consultez travel.state.gov pour l'admissibilité actuelle. Le Royaume-Uni offre une option de renouvellement numérique pour les adultes admissibles qui demandent depuis le Royaume-Uni — les demandeurs à l'étranger doivent utiliser un service séparé. L'Australie nécessite une présentation en personne ou par courrier pour la plupart des renouvellements. Le Canada propose le renouvellement en ligne aux adultes admissibles qui ne voyagent pas dans les 20 jours ouvrables suivants ; les autres doivent présenter leur demande par courrier ou en personne. Consultez toujours le site web officiel de votre pays pour connaître les règles d'admissibilité actuels.
+Les États-Unis proposent le renouvellement en ligne aux adultes admissibles : consultez travel.state.gov pour les conditions actuelles. Le Royaume-Uni offre un service numérique aux adultes admissibles qui font leur demande depuis le pays ; les demandes depuis l'étranger passent par un service distinct. Le Canada propose le renouvellement en ligne si vous avez besoin du passeport dans 20 jours ouvrables ou plus ; les autres demandeurs suivent la procédure sur formulaire papier. Pour l'Australie, consultez passports.gov.au pour les modalités de dépôt. Les conditions évoluent : vérifiez le site officiel de votre pays avant de supposer que vous êtes admissible.
 
 ### Que dois-je faire si mon passeport expire et que j'ai un voyage prévu ?
 
-Présentez votre demande dès que vous savez qu'il y a un problème, et payez pour la voie la plus rapide offerte par votre autorité. Si votre voyage est assez proche pour que vous craigniez que le délai standard ne suffise pas, appelez directement votre autorité de passeport plutôt que de vous fier au site web — tous les pays couverts ici disposent d'options de rendez-vous d'urgence, mais il faut généralement les demander par téléphone. N'attendez pas pour voir si le processus standard finit par rattraper son retard.
+Présentez votre demande dès que vous savez qu'il y a un problème, et payez pour la voie la plus rapide offerte par votre autorité. Si votre voyage est assez proche pour que vous craigniez que le délai standard ne suffise pas, appelez directement votre autorité de passeport plutôt que de vous fier au site web — la plupart des autorités proposent des rendez-vous urgents sous conditions (ceux du Royaume-Uni ne sont pas disponibles depuis l'étranger), et il faut généralement les demander par téléphone. N'attendez pas pour voir si le processus standard finit par rattraper son retard.
 
 ### Puis-je voyager pendant que mon renouvellement de passeport est en cours ?
 
-Dans la plupart des cas, oui — à condition que votre passeport actuel soit toujours valide et que vous ne l'ayez pas physiquement soumis dans le cadre du processus de renouvellement. Les États-Unis, le Royaume-Uni, l'Australie, le Canada, la Nouvelle-Zélande et l'Irlande permettent tous de voyager sur un passeport actuel valide pendant qu'une demande de renouvellement est en attente. L'exception est si vous avez remis votre passeport au processus de demande, auquel cas vous devrez attendre. Consultez toujours votre autorité de passeport spécifique et tenez compte des implications relatives aux visas avant de voyager.
+C'est parfois possible, à condition que votre passeport actuel soit toujours valide et que vous ne l'ayez pas remis avec votre demande. Certaines autorités demandent de l'envoyer : vérifiez auprès de la vôtre avant de réserver. Une fois envoyé, vous devrez attendre le nouveau. Consultez toujours votre autorité de passeport et tenez compte des règles relatives aux visas avant de voyager.
 
 ## Articles connexes
 

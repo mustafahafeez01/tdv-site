@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/pt/blog/uk-brp-expired-evisa-deadline/
 - Cada filho precisa da **sua própria conta**, que um progenitor pode gerir com o seu próprio telefone e e-mail.
 - Para viajar, o passaporte com que voa tem de estar na sua conta UKVI, com dados que correspondam à sua reserva.
 
-A maioria das pessoas com um Biometric Residence Permit (BRP, título de residência biométrico) expirado só precisa de fazer uma coisa: criar uma conta UK Visas and Immigration (UKVI), usando o cartão para provar quem são. É uma única etapa, e o cartão expirado ainda serve para isso, pelo menos durante algum tempo. O seu estatuto de imigração não mudou. O que mudou é onde ele está guardado.
+Se tem um Biometric Residence Permit (BRP, título de residência biométrico) expirado e ainda tem autorização para permanecer, o GOV.UK pede-lhe que crie uma conta UK Visas and Immigration (UKVI), usando o cartão para provar quem é. É uma única etapa, e o cartão expirado ainda serve para isso, pelo menos durante algum tempo. O seu estatuto de imigração não mudou. O que mudou é onde ele está guardado.
 
 ![Diagrama de durante quanto tempo um BRP expirado ainda funciona: durante 24 meses após a data de validade impressa ou até 31 de dezembro de 2026, o que ocorrer primeiro. Nesse período ainda pode ser usado para iniciar sessão e obter um código de partilha, criar uma conta UKVI, ou candidatar-se a uma prorrogação da sua autorização para permanecer](https://traveldocumentvault.com/blog/uk-brp-expired-evisa-deadline/brp-window-pt.jpg) Duas datas, e a que chega primeiro é a sua.
 
@@ -58,7 +58,7 @@ Quando o seu filho atingir os 18 anos, os dados da conta devem passar para o seu
 
 ## Para viajar, o passaporte com que voa tem de estar na sua conta UKVI
 
-O GOV.UK é direto quanto a isto: tem de viajar com um passaporte ou documento de viagem válido que tenha adicionado à sua conta UKVI. O seu eVisa é verificado quando sai do Reino Unido, quando regressa (incluindo nos eGates) e pela companhia aérea ou outra transportadora no check-in. Essas verificações consultam o seu eVisa através do passaporte na sua conta. Se os dados na sua conta não corresponderem exatamente à informação de passageiro que deu à transportadora, esta pode não o deixar viajar, e também pode ser retido na fronteira do Reino Unido.
+O GOV.UK é direto quanto a isto: tem de viajar com um passaporte ou documento de viagem válido que tenha adicionado à sua conta UKVI. O seu eVisa é verificado à saída e à entrada no Reino Unido, por um agente de fronteira ou nos eGates, e no check-in da transportadora para regressar ao Reino Unido. Essas verificações consultam o seu eVisa através do passaporte na sua conta. Se os dados na sua conta não corresponderem exatamente à informação de passageiro que deu à transportadora, esta pode não o deixar viajar, e também pode ser retido na fronteira do Reino Unido.
 
 Antes de uma viagem, inicie sessão, confirme que o passaporte na conta é aquele com que vai viajar, e obtenha um código de partilha. Um código dura 90 dias e pode ser usado mais do que uma vez, e uma companhia aérea ou um agente de fronteira pode pedir para o ver. Nós obteríamos o código antes de reservar, não na fila do aeroporto.
 
@@ -88,7 +88,7 @@ Cada filho precisa da sua própria conta UKVI para aceder ao seu eVisa, segundo 
 
 ### O que preciso para viajar com um eVisa?
 
-Um passaporte válido que tenha adicionado à sua conta UKVI, com dados que correspondam exatamente aos que fornece à companhia aérea. O seu eVisa é verificado quando sai do Reino Unido, quando regressa, incluindo nos eGates, e no check-in da transportadora. Um código de partilha dura 90 dias e pode ser usado mais do que uma vez.
+Um passaporte válido que tenha adicionado à sua conta UKVI, com dados que correspondam exatamente aos que fornece à companhia aérea. O seu eVisa é verificado à saída e à entrada no Reino Unido, por um agente de fronteira ou nos eGates, e no check-in da transportadora para regressar ao Reino Unido. Um código de partilha dura 90 dias e pode ser usado mais do que uma vez.
 
 ## Artigos Relacionados
 

@@ -39,7 +39,7 @@ Uma violação de uma aplicação no dispositivo não revela nada dos seus servi
 
 ### O tempo de antecedência dos avisos é a definição que vale a pena personalizar
 
-Esta é a funcionalidade mais valiosa. Um aviso com 6 meses é o mínimo — muitos países exigem validade do passaporte de pelo menos 6 meses além das suas datas de viagem, como explicado no nosso artigo sobre a [regra dos 6 meses do passaporte](https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/). Para famílias com filhos, cujos passaportes expiram após 5 anos em vez de 10, um aviso mais cedo — digamos 9 meses — dá mais tempo confortável de planeamento.
+Esta é a funcionalidade mais valiosa. Um aviso com 6 meses é o mínimo — muitos países exigem validade do passaporte de pelo menos 6 meses além das suas datas de viagem, como explicado no nosso artigo sobre a [regra dos 6 meses do passaporte](https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/). Os passaportes de crianças têm muitas vezes uma validade de 5 anos em vez de 10 (no Reino Unido, por exemplo, são válidos por 5 anos), pelo que um aviso mais cedo — digamos 9 meses — dá mais tempo para planear.
 
 ### Uma única aplicação pode guardar a família inteira, em segurança
 
@@ -70,7 +70,7 @@ Antes de fazer o download, questione se a aplicação exigir uma conta, carrega 
 | Exige internet para ver documentos | Falha quando mais precisa — numa fronteira ou em trânsito |
 | Sem política de privacidade ou política vaga | Não sabe o que acontece com as suas digitalizações |
 | Armazenamento apenas na nuvem sem opção no dispositivo | Uma violação de um servidor expõe dados de passaporte de todos os utilizadores |
-| Preço de subscrição para funcionalidades básicas | As taxas mensais criam pressão para cancelar — e perder acesso aos seus documentos |
+| Preço de subscrição para funcionalidades básicas | As taxas mensais criam pressão para cancelar — e, em algumas aplicações, o cancelamento impede o acesso aos seus documentos |
 
 O que isto significa na prática
 
@@ -78,9 +78,9 @@ Está numa fronteira, telefone offline, e o oficial de imigração pede para ver
 
 ## Verifique o Que Acontece aos Seus Documentos Se uma Subscrição Caducar
 
-Existe um argumento prático para aplicações de compra única sobre subscrições quando se trata de armazenamento de documentos. Se se esquecer de renovar uma subscrição — ou simplesmente decidir cancelar — perde acesso aos seus documentos armazenados. Isto é um arranjo arriscado para algo que pode precisar anos a partir de agora.
+Existe um argumento prático para aplicações de compra única sobre subscrições quando se trata de armazenamento de documentos. Em algumas aplicações com subscrição, esquecer-se de renovar — ou simplesmente decidir cancelar — pode significar perder acesso aos documentos guardados. Isto é um arranjo arriscado para algo que pode precisar anos a partir de agora.
 
-Uma aplicação de compra única, em contraste, permanece totalmente funcional indefinidamente. Paga uma vez e a aplicação continua a funcionar quer o desenvolvedor continue ativa ou não.
+Uma aplicação de compra única, em contraste, não tem uma data de renovação que possa impedir o acesso. Paga uma vez, e os seus documentos continuam no dispositivo e abrem como antes.
 
 ## Como Travel Document Vault Aborda Isto
 
@@ -124,7 +124,7 @@ As melhores aplicações para organizar passaportes são concebidas para funcion
 
 ### Com que antecedência deve uma aplicação de passaporte alertá-lo para renovação?
 
-No mínimo, 6 meses antes de expirar, pois muitos países exigem validade do passaporte de pelo menos 6 meses além da sua data de partida. Uma boa aplicação deixar-lhe-á definir os tempos de aviso você mesmo. Para famílias com filhos, cujos passaportes expiram após 5 anos, definir avisos com 9 meses de antecedência dá mais tempo confortável de planeamento.
+No mínimo, 6 meses antes de expirar, pois muitos países exigem validade do passaporte de pelo menos 6 meses além da sua data de partida. Uma boa aplicação deixar-lhe-á definir os tempos de aviso você mesmo. Para famílias com filhos, cujos passaportes muitas vezes expiram após 5 anos, definir avisos com 9 meses de antecedência dá mais tempo confortável de planeamento.
 
 ### Que documentos deve uma boa aplicação para organizar passaportes suportar?
 

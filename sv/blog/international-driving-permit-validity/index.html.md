@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/sv/blog/international-driving-permit-val
 - Länder har ratificerat olika konventioner, så **ett tillstånd som godtas i ett land kan nekas i nästa**.
 - Pass, körkort och tillstånd går efter **tre separata klockor** som nästan aldrig stämmer överens.
 
-Ett internationellt körkort är en översättning av körkortet, inte ett körkort i egen rätt, och det löper efter sin egen tidtabell. De flesta gäller tolv månader från utfärdandedatumet, så det som köptes inför en resa för tre somrar sedan har nästan säkert gått ut. Hyrbilsdiskar i flera länder begär det innan de lämnar ut en bil.
+Ett internationellt körkort är en översättning av körkortet, inte ett körkort i egen rätt, och det löper efter sin egen tidtabell. Många gäller tolv månader från utfärdandedatumet och inget gäller längre än tre år, så det som köptes inför en resa för tre somrar sedan har nästan säkert gått ut. Hyrbilsdiskar i flera länder begär det innan de lämnar ut en bil.
 
 Ett internationellt körkort har sitt eget utgångsdatum, och det datumet beter sig olika beroende på vilken av de internationella konventionerna ditt tillstånd är utfärdat under. De flesta förare upptäcker aldrig att det finns olika typer förrän ett av dem blir nekat.
 
@@ -30,7 +30,7 @@ Det här lurar folk oftare än utgångsdatumen gör. Tillståndet ser ut som den
 
 ## Två konventioner avgör hur länge det gäller och var det fungerar
 
-Tre internationella överenskommelser ligger bakom internationella körkort, och länder har anslutit sig till en eller flera av dem. Två av dem sköter nästan allt arbete: 1949 års Genèvekonvention och 1968 års Wienkonvention. Ett äldre tillstånd enligt 1926 års Pariskonvention utfärdas fortfarande för ett fåtal destinationer, och liksom Genève-tillståndet gäller det i ett år.
+Tre internationella överenskommelser ligger bakom internationella körkort, och länder har anslutit sig till en eller flera av dem. Två av dem sköter nästan allt arbete: 1949 års Genèvekonvention och 1968 års Wienkonvention. Ett äldre tillstånd enligt 1926 års Pariskonvention finns också, och ett fåtal resmål listar det fortfarande. Kontrollera det tryckta utgångsdatumet på tillståndet.
 
 Ett tillstånd utfärdat enligt 1949 års Genèvekonvention gäller i ett år. Ett tillstånd utfärdat enligt 1968 års Wienkonvention kan gälla i upp till tre år.
 
@@ -40,8 +40,8 @@ Uppdelningen spelar roll på två sätt. Den avgör hur länge ditt tillstånd g
 
 | Typ av tillstånd | Hur länge det gäller | Vad som begränsar det |
 |---|---|---|
-| **1926 års Pariskonvention** | Ett år | Utfärdandedatumet. Behövs sällan numera |
-| **1949 års Genèvekonvention** | Ett år | Utfärdandedatumet |
+| **1926 års Pariskonvention** | Se det tryckta utgångsdatumet | Utfärdandedatumet. Behövs sällan numera |
+| **1949 års Genèvekonvention** | Se det tryckta utgångsdatumet | Utfärdandedatumet |
 | **1968 års Wienkonvention** | Upp till tre år | Ditt nationella körkort, om det går ut tidigare |
 
 ## Tillståndet på tre år som sällan varar tre år
@@ -50,7 +50,7 @@ De där tre åren har ett villkor som är lätt att missa. Ett Wien-tillstånd u
 
 Säg att ditt körkort har 14 månader kvar och du får ett tillstånd på tre år. Tillståndet är då användbart i 14 månader. Datumet som står tryckt på framsidan har inte företräde framför körkortet bakom det.
 
-Att förnya körkortet efteråt räddar inte heller tillståndet. Det förblir kopplat till det körkort det utfärdades mot, så ett nytt körkort betyder i regel ett nytt tillstånd. Ska körkortet förnyas före resan skulle vi förnya det först och ansöka om tillståndet efteråt, så att tillståndet knyts till det nya körkortet.
+Att förnya körkortet efteråt räddar inte heller tillståndet. Tillståndets giltighet är kopplad till det körkort det utfärdades mot, så ett nytt körkort betyder i regel ett nytt tillstånd. Ska körkortet förnyas före resan skulle vi förnya det först och ansöka om tillståndet efteråt, så att tillståndet knyts till det nya körkortet.
 
 ## Tillståndet är datumet ingen håller koll på
 
@@ -90,9 +90,9 @@ Det gör som mest ont på en resa bokad med kort varsel. Tillståndet är sälla
 
 ## Något internationellt körkort finns inte
 
-Sök på internationellt körkort och du hittar sajter som säljer något som kallas ett internationellt körkortsdokument, ofta för betydligt mer än vad det officiella tillståndet kostar, ibland med löfte om direktleverans eller ett decennium av giltighet.
+Sök på internationellt körkort och du hittar sajter som säljer något som kallas ett internationellt körkortsdokument, ibland för mer än vad det officiella tillståndet kostar, ibland med löfte om direktleverans eller ett decennium av giltighet.
 
-Något sådant körkort finns inte. De enda handlingarna med officiell status är tillstånden utfärdade enligt 1926, 1949 och 1968 års konventioner, genom kanalen ditt eget land utser. Tre år på ett Wien-tillstånd är det längsta något av dem gäller, så allt som marknadsförs med 10 eller 20 års giltighet beskriver en handling som ingen gränstjänsteman är skyldig att godta.
+Något sådant körkort finns inte. Tillstånd utfärdade enligt 1926, 1949 och 1968 års konventioner, genom kanalen ditt eget land utser, är de handlingar konventionerna beskriver. Wien-tillståndets tre år är den längsta giltighet som 1968 års konvention medger, så allt som marknadsförs med 10 eller 20 års giltighet beskriver något utanför den.
 
 Bygger du en bredare lista inför resan i stället för att bara reda ut bilfrågan går vår [internationella checklista för resehandlingar](https://traveldocumentvault.com/sv/blog/travel-document-checklist/) igenom vad du bör samla ihop innan du flyger, och [handlingarna folk glömmer](https://traveldocumentvault.com/sv/blog/what-documents-to-carry-when-travelling-internationally/) går igenom var var och en förvaras bäst när du är på resande fot.
 
@@ -122,7 +122,7 @@ Ja, om det är ett Wien-tillstånd från 1968. Den typen begränsas av ditt nati
 
 ### Varför finns det mer än en typ av internationellt körkort?
 
-De kommer från separata internationella konventioner. Merparten av resandet täcks av 1949 års Genèvekonvention och 1968 års Wienkonvention, och ett äldre tillstånd enligt 1926 års Pariskonvention utfärdas fortfarande för ett fåtal destinationer. Länder har ratificerat olika konventioner, vilket är varför ett tillstånd som godtas i ett land kan nekas i ett annat.
+De kommer från separata internationella konventioner. Merparten av resandet täcks av 1949 års Genèvekonvention och 1968 års Wienkonvention, och ett äldre tillstånd enligt 1926 års Pariskonvention finns också och listas fortfarande av ett fåtal resmål. Länder har ratificerat olika konventioner, vilket är varför ett tillstånd som godtas i ett land kan nekas i ett annat.
 
 ## Relaterade artiklar
 

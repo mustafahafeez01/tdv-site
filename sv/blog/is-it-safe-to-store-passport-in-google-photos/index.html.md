@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/sv/blog/is-it-safe-to-store-passport-in-
 
 - Att spara en passkopia i Google Foto innebär att din identitetshandling ligger på Googles servrar, bearbetas av deras system och skyddas enbart av din kontosäkerhet.
 - Ett komprometterat Google-konto – via nätfiske, återanvänt lösenord eller ett intrång hos tredje part – lämnar ut alla handlingar i Google Foto, passet inräknat.
-- Googles villkor tillåter automatiserad skanning av dina foton för funktioner och tjänsteförbättringar, och det gäller även bilder med passuppgifter.
+- Googles integritetspolicy säger att automatiserade system används för att analysera ditt innehåll för att tillhandahålla och förbättra tjänsterna, och en passkopia lagras som vilket annat foto som helst.
 - Det finns bättre alternativ: krypterade lösenordshanterare, krypterade appar på enheten eller molnlagring med klientsidig kryptering – inget av dem dumpar passet i ett vanligt fotobibliotek.
 - För de flesta är den verkliga risken en svag kontosäkerhet, inte Google i sig: ett återanvänt lösenord, ett delat konto, eller någon annan som redan vet hur man kommer in.
 
@@ -55,7 +55,7 @@ Du har troligen kopplat fler appar till ditt Google-konto än du tror, och en de
 
 **Automatiserad innehållsskanning**
 
-Googles integritetspolicy bekräftar att foton bearbetas av automatiserade system – ansiktsigenkänning, objektidentifiering, sökindexering. Din passkopia genomgår samma system för sökning och funktionsdetektering. Ingen människa läser ditt pass, och Google gör inget bakslugt här, men dina dokumentuppgifter lämnar ändå enheten för att analyseras av tredjepartsinfrastruktur.
+Googles integritetspolicy säger att automatiserade system används för att analysera ditt innehåll, och Google Foto skapar ansiktsgrupper från dina bilder. En passkopia lagras som vilket annat foto som helst, så dina dokumentuppgifter lämnar enheten och finns på en tredje parts infrastruktur.
 
 **Dataintrång hos Google**
 
@@ -71,13 +71,13 @@ Säg att ditt Google-lösenord återanvändes på en sajt som drabbades av ett i
 |---|---|---|---|---|
 | Google Foto | Googles molnservrar | Under överföring + i vila (Google hanterar nycklarna) | Måttlig | Acceptabelt med stark tvåfaktor |
 | iCloud-foton | Apples molnservrar | Under överföring + i vila (Apple hanterar nycklarna) | Måttlig | Acceptabelt med stark tvåfaktor |
-| Krypterad lösenordshanterare (1Password, Bitwarden) | Moln (nollkunskap) | Totalsträcka; leverantören kan inte läsa innehållet | Låg | Bra val |
+| Krypterad lösenordshanterare | Moln (totalsträckskrypterat) | Totalsträcka; leverantören kan inte läsa innehållet med det här upplägget | Låg | Bra val |
 | Krypterad app på enheten (valfri egen molnbackup) | Din telefon; valfri krypterad säkerhetskopia i ditt eget moln (Pro) | Krypterad på enheten; valfri krypterad kopia i eget moln (Pro) | Lägst | Bäst för känsliga handlingar |
 | Kamerarulle / okrypterad mapp | Din enhet | Endast enhetskryptering | Högre | Rekommenderas inte |
 
 ### iCloud-foton jämfört med Google Foto: Är Apple säkrare?
 
-iOS-användare antar ofta att iCloud är påtagligt säkrare än Google Foto för att spara passkopior. På en strukturell nivå är de mycket lika. Båda lagrar dina foton på molnservrar som hanteras av leverantören, båda krypterar data under överföring och i vila med sina egna hanterade nycklar, och båda bearbetar dina bilder genom automatiserade system för funktioner som sökning och ansiktsigenkänning.
+iOS-användare antar ofta att iCloud är påtagligt säkrare än Google Foto för att spara passkopior. På en strukturell nivå är de mycket lika. Båda lagrar dina foton på molnservrar som hanteras av leverantören, båda krypterar data under överföring och i vila med sina egna hanterade nycklar. I båda fallen har leverantören nycklarna som standard.
 
 Apples Avancerat dataskydd (tillgängligt från iOS 16.2) höjer ribban – när det aktiveras utökas totalsträckskryptering till iCloud-foton, vilket innebär att inte ens Apple kan läsa ditt innehåll. Ändå är det inte påslaget som standard, och de flesta användare vet inte att det finns.
 
@@ -93,7 +93,7 @@ Två saker är värda att hålla isär först: att spara en kopia för eget bruk
 
 **Krypterade lösenordshanterare**
 
-1Password och Bitwarden låter dig båda spara dokumentkopior som bilagor. De använder nollkunskapskryptering – leverantören kan inte läsa ditt innehåll även om de ville. Dina handlingar krypteras på din enhet innan något skickas till deras servrar. Det är ett verkligt steg upp från ett vanligt molnfotobibliotek.
+Vissa krypterade lösenordshanterare låter dig spara dokumentkopior som bilagor. Kontrollera leverantörens egen dokumentation: när bilagor krypteras på enheten före uppladdning kan leverantören inte läsa dem. Det är ett tydligt steg upp från ett vanligt molnfotobibliotek.
 
 **Krypterade appar på enheten**
 
@@ -101,7 +101,7 @@ Appar byggda specifikt för det här – som [Travel Document Vault](https://tra
 
 **Krypterad molnlagring med klientsidiga nycklar**
 
-Tresorit och Proton Drive erbjuder klientsidig kryptering för molnlagring, så leverantören kan inte läsa dina filer mer än en lösenordshanterare kan. Du får molnets bekvämlighet med betydligt starkare säkerhet för passfoton än Google Foto.
+En totalsträckskrypterad molnenhet är ett tredje alternativ. De här tjänsterna säger att filerna krypteras med nycklar som finns på dina enheter, så kontrollera leverantörens dokumentation innan du förlitar dig på det. Med rätt upplägg får du molnets bekvämlighet och starkare skydd än i ett vanligt fotobibliotek i molnet.
 
 ## Stannar du kvar på Google Foto gör tvåfaktorsautentisering det mesta av jobbet
 
@@ -109,7 +109,7 @@ Många kommer att fortsätta använda Google Foto för det här – bekvämlighe
 
 - **Aktivera tvåfaktorsautentisering.** Det här är den enskilt viktigaste åtgärden. Använd en autentiseringsapp, inte sms – sms-baserad tvåfaktor är bättre än inget men lättare att avlyssna.
 - **Använd ett starkt, unikt lösenord för ditt Google-konto.** Återanvända lösenord över flera tjänster är hur de flesta konton faktiskt kapas.
-- **Granska dina tredjepartsappars behörigheter.** Gå till myaccount.google.com → Säkerhet → Tredjepartsappar med kontoåtkomst, och ta bort allt som inte behöver vara där.
+- **Granska dina tredjepartsappars behörigheter.** Öppna säkerhetsinställningarna för ditt Google-konto, granska de kopplade apparna och tjänsterna och ta bort allt som inte behöver vara där.
 - **Kontrollera dina aktiva enheter och sessioner.** Ta bort allt du inte känner igen.
 - **Skapa ett privat album för känsliga handlingar** i stället för att låta dem ligga löst i huvudflödet. Det stoppar inte ett intrång, men minskar oavsiktlig exponering när någon tittar över axeln på dig.
 
@@ -123,15 +123,15 @@ För fler tips om att hålla dina resehandlingar organiserade och säkra, kolla 
 
 ### Är det säkert att spara ett passfoto i Google Foto?
 
-Det är bekvämt, men Google Foto var inte byggt för känsliga identitetshandlingar. Din skanning ligger på Googles servrar, bearbetas av deras automatiserade system och skyddas bara av den säkerhet ditt Google-konto råkar ha. Blir kontot komprometterat – via nätfiske, ett återanvänt lösenord eller ett dataintrång någon annanstans – följer passkopian med. För en handling så känslig som ett pass är en dedikerad krypterad lagringslösning ett klokare val. Använder du ändå Google Foto, aktivera tvåfaktorsautentisering och använd ett unikt lösenord för Google-kontot.
+Det är bekvämt, men Google Foto var inte byggt för känsliga identitetshandlingar. Din skanning ligger på Googles servrar, omfattas av Googles egen integritetspolicy och skyddas av den säkerhet ditt Google-konto råkar ha. Blir kontot komprometterat – via nätfiske, ett återanvänt lösenord eller ett dataintrång någon annanstans – följer passkopian med. För en handling så känslig som ett pass är en dedikerad krypterad lagringslösning ett klokare val. Använder du ändå Google Foto, aktivera tvåfaktorsautentisering och använd ett unikt lösenord för Google-kontot.
 
 ### Skannar Google innehållet i foton som sparas i Google Foto?
 
-Ja. Automatiserade system bearbetar dina foton för sådant som ansiktsigenkänning, objektidentifiering och sökindexering. Googles integritetspolicy tillåter också att innehåll används för att förbättra deras tjänster. Ingen människa läser ditt pass – men uppgifterna i handlingen bearbetas av Googles infrastruktur, de ligger inte bara passivt lagrade på en server.
+Ja, det kan förekomma. Googles integritetspolicy säger att automatiserade system används för att analysera ditt innehåll, och Google Foto skapar ansiktsgrupper från dina bilder. Policyn tillåter också att innehåll används för att förbättra tjänsterna. En passkopia lagras som vilket annat foto som helst, så dina dokumentuppgifter finns på Googles infrastruktur i stället för att stanna på enheten.
 
 ### Vad är det säkraste sättet att spara en digital passkopia?
 
-Krypterad lagring på enheten är ditt säkraste val – appar som håller skanningarna på telefonen med stark kryptering som standard. Kopior kan lämna enheten genom delning, export eller valfri krypterad säkerhetskopiering till ditt eget iCloud eller Google Drive (Pro). Vill du även ha molnåtkomst är en krypterad lösenordshanterare med nollkunskapsarkitektur, som 1Password eller Bitwarden, ett bra mellanting.
+Krypterad lagring på enheten är ditt säkraste val – appar som håller skanningarna på telefonen med stark kryptering som standard. Kopior kan lämna enheten genom delning, export eller valfri krypterad säkerhetskopiering till ditt eget iCloud eller Google Drive (Pro). Vill du även ha molnåtkomst är en totalsträckskrypterad lösenordshanterare som stöder filbilagor ett rimligt mellanting.
 
 ### Kan någon stjäla min identitet från en passkopia?
 
@@ -139,7 +139,7 @@ Ja, realistiskt sett. Namn, födelsedatum, nationalitet, passnummer och utgångs
 
 ### Är iCloud säkrare än Google Foto för att spara passkopior?
 
-På en strukturell nivå är de mycket lika. Båda lagrar foton på molnservrar som hanteras av leverantören, och båda bearbetar bilder genom automatiserade system. Apples Avancerat dataskydd (iOS 16.2 och senare) utökar totalsträckskryptering till iCloud-foton när det aktiveras, vilket höjer ribban rejält – men det är avstängt som standard och de flesta användare har inte slagit på det. Den större faktorn för båda plattformarna är ditt kontolösenord och om tvåfaktorsautentisering är aktiverad. Just för passlagring förblir en dedikerad krypterad app på enheten det starkare alternativet oavsett plattform.
+På en strukturell nivå är de mycket lika. Båda lagrar foton på molnservrar som hanteras av leverantören, och leverantören har nycklarna som standard. Apples Avancerat dataskydd (iOS 16.2 och senare) utökar totalsträckskryptering till iCloud-foton när det aktiveras, vilket höjer ribban rejält – men det är valfritt och avstängt som standard. Den större faktorn för båda plattformarna är ditt kontolösenord och om tvåfaktorsautentisering är aktiverad. Just för passlagring förblir en dedikerad krypterad app på enheten det starkare alternativet oavsett plattform.
 
 ## Relaterade artiklar
 

@@ -57,7 +57,7 @@ Reglerne tillader, at et pas udstedes, når kun en forælder underskriver ansøg
 
 Et pas udstedt, før barnet fyldte 16, kan stadig ikke fornys ved 16 eller 17 år. Teenageren søger om et nyt pas personligt, og forskellen nu er, at de selv må underskrive deres egen ansøgning.
 
-En forælder har stadig en rolle at spille. De kan enten give en **underskrevet erklæring om, at de er bekendt** med, at teenageren søger om et pas, eller deltage i mødet med dem. Reglerne lader også passtjenestemanden bede om en forælders notarpåtegnede samtykke på et hvilket som helst tidspunkt, så det er værd at have en forælder tilgængelig på dagen.
+En forælder har stadig en rolle at spille. State Department beder som regel en forælder enten underskrive en **erklæring om, at de er bekendt** med, at teenageren søger, eller deltage i mødet, så tjek dens side for teenagere for det aktuelle krav, før du tager af sted. Reglerne lader også passtjenestemanden bede om en forælders notarpåtegnede samtykke på et hvilket som helst tidspunkt, så det er værd at have en forælder tilgængelig på dagen.
 
 Passet udstedt ved 16 eller 17 år er gyldigt i ti år. Når det udløber, kan den unge person, nu voksen, generelt fornye det via post eller online, forudsat at de opfylder de normale voksenbetingelser. De personlige genansøgninger ender her.
 
@@ -85,7 +85,7 @@ Føderale pasregler kræver, at begge forældre eller værger underskriver ansø
 
 ### Hvad sker der, når et barn fylder 16?
 
-Et pas udstedt før 16 år kan stadig ikke fornys, når barnet fylder 16 eller 17. Den unge søger personligt om et nyt pas og kan underskrive sin egen ansøgning. En forælder kan give en underskrevet erklæring om, at de er bekendt med ansøgningen, eller deltage i mødet. Embedsmanden kan stadig kræve en notarpåtegnet erklæring om forældresamtykke. Et pas udstedt ved 16 eller 17 år er gyldigt i ti år og kan generelt fornys som en voksens, når det udløber.
+Et pas udstedt før 16 år kan stadig ikke fornys, når barnet fylder 16 eller 17. Den unge søger personligt om et nyt pas og kan underskrive sin egen ansøgning. En forælder kan blive bedt om at give en underskrevet erklæring om, at de er bekendt med ansøgningen, eller om at deltage i mødet. Embedsmanden kan stadig kræve en notarpåtegnet erklæring om forældresamtykke. Et pas udstedt ved 16 eller 17 år er gyldigt i ti år og kan generelt fornys som en voksens, når det udløber.
 
 ### Hvad hvis en forælder har eneforældremyndighed?
 

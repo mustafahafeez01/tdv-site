@@ -11,10 +11,10 @@ Source: https://traveldocumentvault.com/pt/blog/digital-passport-copy-valid/
 ## Pontos-Chave
 
 - As cópias digitais de passaporte são aceites para **check-in do hotel, reservas de voos e aluguel de automóvel**, mas não em fronteiras ou para embarque de companhia aérea.
-- O **passaporte original físico é sempre obrigatório** em fronteiras, para embarque de companhia aérea, e para verificações de identidade pela polícia.
+- Para viagens internacionais, **geralmente precisa do passaporte original** nas fronteiras e no embarque. Alguns percursos aceitam um cartão de identidade nacional (por exemplo, cidadãos da UE a viajar dentro da UE), mas nunca uma cópia.
 - As cópias digitais **não têm validade legal como documentos de viagem**. São apenas documentação de apoio.
-- As candidaturas de visto exigem **formatos específicos** (cópias certificadas ou digitalizações autenticadas) em vez de fotos casuais de telemóvel. Consulte o site da embaixada primeiro.
-- Se o seu passaporte for perdido no estrangeiro, uma **cópia digital acelera a substituição de emergência** na sua embaixada significativamente.
+- As candidaturas de visto exigem **formatos específicos**. Algumas pedem cópias certificadas ou autenticadas, outras (muitos vistos eletrónicos) aceitam uma digitalização nítida da página de identificação, e uma simples fotografia de telemóvel é frequentemente recusada. Consulte primeiro o site da embaixada.
+- Se perder o passaporte no estrangeiro, uma **cópia da página de identificação pode ajudar** a embaixada a confirmar os seus dados quando pedir uma substituição.
 
 Ao planear uma viagem, muitos viajantes questionam-se se podem armazenar uma cópia digital do seu passaporte no telemóvel em vez de levar o original. Precisa de saber exatamente onde funciona e onde não funciona, para não ficar apanhado no check-in.
 
@@ -24,7 +24,7 @@ A resposta curta: uma cópia digital é genuinamente útil, mas apenas em situa�
 
 Uma cópia digital de um passaporte é **uma digitalização ou fotografia de telemóvel da sua página de identificação**, a página com a sua fotografia, nome, data de nascimento, número de passaporte e data de validade. Regista os seus dados sem substituir o documento. O governo canadiano afirma-o claramente nos seus conselhos de viagem: as cópias podem ajudar se perder ou lhe roubarem os documentos, mas não podem ser usadas como identificação, e ainda assim precisa de pedir um novo passaporte se perder o seu.
 
-Fazer uma demora apenas alguns minutos. Abra o passaporte numa superfície plana com boa luz, fotografe ou digitalize a página de identificação de forma a que toda a página fique nítida, e depois aumente o zoom para verificar se consegue ler todos os detalhes. Faça o mesmo para qualquer visto com o qual vá viajar. O Canadá sugere deixar cópias com alguém de confiança em casa, e a lista de verificação de viagens ao estrangeiro do Reino Unido recomenda uma cópia de segurança dos dados do seu passaporte que partilhe com a família ou guarde numa plataforma segura de armazenamento de dados.
+Fazer uma demora apenas alguns minutos. Abra o passaporte numa superfície plana com boa luz, fotografe ou digitalize a página de identificação de forma a que toda a página fique nítida, e depois aumente o zoom para verificar se consegue ler todos os detalhes. Faça o mesmo para qualquer visto com o qual vá viajar. A lista de verificação de viagens ao estrangeiro do Reino Unido recomenda uma cópia de segurança dos dados do seu passaporte que partilhe com a família ou guarde numa plataforma segura de armazenamento de dados.
 
 Uma cópia também não é o mesmo que as identidades digitais que alguns governos já aceitam. Nos Estados Unidos, a Transportation Security Administration permite que titulares de passaporte norte-americano configurem um passe de identidade na Google Wallet para os seus controlos aeroportuários, mas continua a afirmar que todos os passageiros devem trazer uma identificação física aceitável. Uma fotografia no seu rolo de câmara é uma cópia de segurança dos seus dados, e é exatamente assim que deve ser tratada.
 
@@ -32,39 +32,39 @@ Uma cópia também não é o mesmo que as identidades digitais que alguns govern
 
 ### Muitos Hotéis Aceitam Uma Cópia, mas Em Partes da Europa Costumam Querer o Original
 
-A maioria dos hotéis em todo o mundo aceita cópias digitais de passaporte no check-in — um PDF no seu telemóvel, enviado com antecedência, ou impresso. Isto é particularmente útil se estiver a fazer check-in tarde ou a deslocar-se entre propriedades e não quer levar o seu passaporte físico durante toda a viagem. Alguns hotéis mais pequenos, particularmente em regiões com menos infraestrutura digital, ainda preferem o original. Em partes da Europa — Espanha, França e Itália entre elas — os hotéis devem registar os seus dados para as autoridades e geralmente vão querer ver o passaporte físico para o fazer, mesmo que a orientação de proteção de dados diga que tipicamente não devem guardar uma cópia. Contacte o seu alojamento com antecedência para confirmar.
+Muitos hotéis aceitam cópias digitais de passaporte no check-in — um PDF no seu telemóvel, enviado com antecedência, ou impresso. Isto é particularmente útil se estiver a fazer check-in tarde ou a deslocar-se entre propriedades e não quer levar o seu passaporte físico durante toda a viagem. Alguns hotéis mais pequenos, particularmente em regiões com menos infraestrutura digital, ainda preferem o original. Em algumas partes da Europa, os hotéis têm de registar os seus dados para as autoridades e muitas vezes querem ver o passaporte físico. A autoridade de proteção de dados de Espanha, por exemplo, diz que os hotéis não devem fazer nem pedir cópias e que basta uma verificação visual. Contacte o seu alojamento com antecedência para confirmar.
 
 ### Uma Cópia Digital Acelera o Check-in, Não o Embarque
 
-As companhias aéreas exigem a informação do seu passaporte ao fazer a reserva, e muitas permitem que carregue uma cópia digital para verificar a sua identidade para check-in online — isto acelera o processo no aeroporto. Ainda assim, precisará de apresentar o passaporte original no portão. O papel da cópia digital é verificação pré-viagem, não documentação de embarque.
+As companhias aéreas exigem a informação do seu passaporte ao fazer a reserva, e algumas permitem que carregue uma cópia digital para verificar a sua identidade para check-in online — isto acelera o processo no aeroporto. Ainda assim, precisará de apresentar o passaporte original no portão. O papel da cópia digital é verificação pré-viagem, não documentação de embarque.
 
 ### Uma Cópia Reserva o Carro, mas o Original Continua a Ser Preciso para o Levantar
 
-As empresas de aluguel de automóvel tipicamente aceitam cópias digitais de passaporte para reserva e verificação de depósito. Quando chegar para recolher o veículo, apresentará o passaporte original juntamente com a sua carta de condução. A cópia digital é útil durante a fase de reserva.
+As empresas de aluguer de automóveis aceitam frequentemente cópias digitais de passaporte para reserva e verificação de depósito. Quando chegar para recolher o veículo, apresentará o passaporte original juntamente com a sua carta de condução, já que a cópia digital serviu apenas para tratar da reserva e do depósito com antecedência.
 
 ### Se Perder o Passaporte, a Cópia Acelera o Processo
 
-Se o seu passaporte for perdido ou roubado durante a viagem, uma cópia digital pode acelerar significativamente o processo de documento de viagem de emergência na sua embaixada. Prova a existência do seu passaporte e fornece a sua informação biográfica, fotografia e número de passaporte, tudo o que a embaixada precisa para emitir uma substituição. Esta é uma das razões mais fortes para sempre levar uma cópia de segurança digital.
+Se o seu passaporte for perdido ou roubado durante a viagem, uma cópia da página de identificação pode ajudar a embaixada ou o consulado a confirmar os seus dados quando pedir uma substituição. Continua a ter de pedir um novo passaporte ou um documento de viagem de emergência. Esta é uma das razões mais fortes para sempre levar uma cópia de segurança digital.
 
 ![Diagrama de onde funciona uma cópia digital do passaporte: geralmente aceite para check-in no hotel, reserva de voo e aluguer de carro; original exigido no controlo de fronteira e no embarque na companhia aérea](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-where-pt.jpg) Resumindo - uma cópia abre portas, só o original atravessa fronteiras.
 
 ## Onde o Seu Passaporte Físico É Sempre Obrigatório
 
-Uma cópia digital não é um substituto para o seu passaporte físico na imigração, com as companhias aéreas, ou com a aplicação da lei. Nestos cenários, o documento original é simplesmente obrigatório — não há forma de contornar isto.
+Uma cópia digital não é um substituto para o seu passaporte físico na imigração, com as companhias aéreas, ou com a aplicação da lei. Nestes cenários, geralmente precisa do documento original.
 
 | Situação de Viagem | Cópia Digital Aceite | Notas |
 |---|---|---|
 | **Travessia de fronteira (entrada/saída)** | Não (original obrigatório) | Os oficiais de imigração devem inspecionar fisicamente o documento |
 | **Embarque de companhia aérea** | Não (original obrigatório) | A segurança e a equipa de portão exigem o passaporte físico |
-| **Candidatura de visto** | Às vezes (consulte a embaixada) | A maioria exige cópias certificadas ou originais, não fotos casuais |
-| **Verificações de identidade pela polícia** | Não (original obrigatório) | A aplicação da lei exige o documento original |
+| **Candidatura de visto** | Às vezes (consulte a embaixada) | Varia: cópia certificada, original ou digitalização nítida |
+| **Verificações de identidade pela polícia** | Não (original obrigatório) | A polícia pode pedir o documento de identidade original, e as regras variam por país |
 | **Check-in do hotel** | Geralmente sim | Confirme com a propriedade com antecedência |
 | **Reserva de aluguel de automóvel** | Geralmente sim | O original ainda é obrigatório na recolha do veículo |
-| **Assistência de emergência da embaixada** | Sim (acelera a substituição) | Não pode substituir o passaporte em si, mas ajuda a emitir documento de emergência |
+| **Assistência de emergência da embaixada** | Sim (ajuda a confirmar os seus dados) | Não pode substituir o passaporte em si, mas ajuda a emitir documento de emergência |
 
 ## Pedidos de visto: as regras são específicas
 
-As regras dos pedidos de visto são mais flexíveis do que as das fronteiras, mas continuam a ser específicas. A maioria dos países aceita o passaporte original ou fotocópias certificadas, embora os requisitos variem bastante de destino para destino e de embaixada para embaixada.
+As regras dos pedidos de visto são mais flexíveis do que as das fronteiras, mas continuam a ser específicas. Os requisitos variam: alguns países aceitam uma digitalização nítida, outros pedem o original ou uma cópia certificada, e as regras diferem consoante o destino e a embaixada.
 
 O que isto significa na prática
 
@@ -74,7 +74,7 @@ Algumas embaixadas aceitam digitalizações autenticadas por notário e submetid
 
 ## Como Armazenar Cópias Digitais de Forma Segura
 
-As cópias de passaporte contêm informações sensíveis de identidade: o seu nome completo, data de nascimento, número de passaporte, nacionalidade e fotografia. Uma cópia digital mal armazenada cria o mesmo risco de roubo de identidade que perder o documento físico.
+As cópias de passaporte contêm informações sensíveis de identidade: o seu nome completo, data de nascimento, número de passaporte, nacionalidade e fotografia. Uma cópia digital mal guardada representa um risco real de roubo de identidade.
 
 - **Use uma aplicação encriptada** concebida para armazenamento de documentos, não armazenamento em nuvem regular ou email onde os ficheiros podem ser acedidos se a sua conta for comprometida.
 - **Armazene várias cópias em locais diferentes**: no seu telemóvel, com um membro familiar de confiança em casa, e numa cópia de segurança segura.
@@ -97,19 +97,19 @@ Uma cópia digital é uma digitalização ou fotografia de telemóvel da página
 
 ### Uma cópia digital do meu passaporte é aceite no check-in do hotel?
 
-Sim, a maioria dos hotéis em todo o mundo aceita cópias digitais de passaporte no check-in: um PDF no seu telemóvel, por email, ou impresso. Alguns estabelecimentos menores podem ainda exigir um passaporte físico. Contacte sempre o seu hotel com antecedência para confirmar.
+Muitas vezes, sim: muitos hotéis aceitam cópias digitais de passaporte no check-in: um PDF no seu telemóvel, por email, ou impresso. Alguns estabelecimentos menores podem ainda exigir um passaporte físico. Contacte sempre o seu hotel com antecedência para confirmar.
 
 ### Posso usar uma cópia digital do meu passaporte no aeroporto para embarque?
 
-Não. As companhias aéreas exigem o passaporte original físico para embarque. Uma cópia digital não é aceite pela segurança nem pela equipa de portão. Tem de levar o seu passaporte original ao aeroporto para qualquer voo internacional.
+Para voos internacionais, as companhias aéreas geralmente exigem o documento de viagem original (um passaporte ou, em alguns casos, um cartão de identidade nacional). Uma cópia digital não é aceite pela segurança nem pela equipa de embarque.
 
 ### As cópias digitais de passaporte são válidas para pedidos de visto?
 
-A maioria dos pedidos de visto exige fotocópias certificadas ou digitalizações autenticadas, não fotografias tiradas com o telemóvel. Os requisitos variam de país para país e de embaixada para embaixada, por isso consulte o site oficial do governo do país ao qual está a pedir o visto antes de submeter qualquer coisa.
+Os pedidos de visto exigem formatos específicos. Alguns pedem cópias certificadas ou autenticadas, outros (muitos vistos eletrónicos) aceitam uma digitalização nítida da página de identificação, e uma simples fotografia de telemóvel é frequentemente recusada. Os requisitos variam de país para país e de embaixada para embaixada, por isso consulte o site oficial do governo do país ao qual está a pedir o visto antes de submeter qualquer coisa.
 
 ### Uma cópia digital do passaporte ajuda se o meu passaporte for perdido ou roubado no estrangeiro?
 
-Sim, significativamente. Uma cópia digital acelera o processo de documento de viagem de emergência na sua embaixada. Fornece a sua informação biográfica, fotografia e número de passaporte, tudo o que a embaixada precisa para emitir um documento de substituição.
+Sim, pode ajudar. Uma cópia da página de identificação ajuda a embaixada ou o consulado a confirmar os seus dados quando pedir uma substituição. Continua a ter de pedir um novo passaporte ou um documento de viagem de emergência.
 
 ### Como devo armazenar a minha cópia digital do passaporte de forma segura?
 

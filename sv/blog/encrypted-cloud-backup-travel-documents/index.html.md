@@ -26,9 +26,9 @@ Kryptering blandar ihop en fil så att endast en matchande nyckel kan göra den 
 
 Två olika upplägg säljs båda som krypterad säkerhetskopiering, och de fungerar helt olika.
 
-Det ena skickar filen till företagets server över en krypterad anslutning och lagrar den sedan krypterad i vila. Båda dessa påståenden är sanna, och båda låter betryggande. Men företaget har fortfarande nyckeln, så det kan dekryptera dina handlingar närhelst det behövs: för att köra en funktion, för att svara på en juridisk begäran, eller för att någon inuti företaget gjorde ett misstag. Din passkopia går att läsa i andra änden.
+Det ena skickar filen till företagets server över en krypterad anslutning och lagrar den sedan krypterad i vila. Båda dessa påståenden är sanna, och båda låter betryggande. Men företaget har fortfarande nyckeln, så det har teknisk möjlighet att dekryptera dina handlingar, oavsett om det gäller en funktion, en juridisk begäran eller ett internt misstag. Din passkopia går att läsa i andra änden.
 
-Det andra upplägget blandar ihop filen på din telefon innan den skickas någonstans, med en nyckel som härleds från något bara du har. Det som når lagringen är ett block av brus, och ingen i andra änden kan läsa det, eftersom ingen i andra änden har nyckeln. Det här kallas oftast end-to-end-krypterat, eller "zero-knowledge".
+Det andra upplägget blandar ihop filen på din telefon innan den skickas någonstans, med en nyckel som härleds från något bara du har. Det som når lagringen är ett block av brus, och ingen i andra änden kan läsa det, eftersom ingen i andra änden har nyckeln. Det här beskrivs ofta som end-to-end-krypterat, eller "zero-knowledge".
 
 Så frågan värd att ställa till vilken app som helst är kort: **vem har nyckeln?** Allt annat i marknadsföringen följer av svaret.
 
@@ -55,7 +55,7 @@ Behandla därför koden som den enda sak du måste göra rätt:
 
 Det beror helt på vad som når molnet, och det är en fråga om appen snarare än om molnet.
 
-Ett foto av ditt pass i ett vanligt fotobibliotek eller en synkad mapp anländer läsbart. Det ligger i ett konto skyddat av ett lösenord du kanske har återanvänt. Det indexeras och får en miniatyrbild, och alla som tar sig in i det kontot ser en ren kopia av identitetssidan. Vi gick igenom hur den exponeringen faktiskt ser ut i [att spara ett pass i Google Foto](https://traveldocumentvault.com/sv/blog/is-it-safe-to-store-passport-in-google-photos/). Det är en verklig risk, och det är upplägget de flesta familjer kör utan att någonsin ha valt det.
+Ett foto av ditt pass i ett vanligt fotobibliotek eller en synkad mapp anländer läsbart. Det ligger i ett konto skyddat av ett lösenord du kanske har återanvänt. Beroende på tjänsten kan det indexeras eller visas som en miniatyrbild, och alla som tar sig in i det kontot ser en ren kopia av identitetssidan. Vi gick igenom hur den exponeringen faktiskt ser ut i [att spara ett pass i Google Foto](https://traveldocumentvault.com/sv/blog/is-it-safe-to-store-passport-in-google-photos/). Det är en verklig risk, och det är upplägget de flesta familjer kör utan att någonsin ha valt det.
 
 Ett valv krypterat på enheten före uppladdning anländer som krypterad text. Den som bryter sig in i molnkontot hittar en fil de inte kan öppna. Skyddet följer med filen i stället för att bero på kontot den hamnar i.
 
@@ -82,7 +82,7 @@ Det sista brukar överraska folk, så här kommer den raka versionen. **En syste
 
 Installera appen på den nya telefonen och logga in på samma iCloud- eller Google-konto som du använde tidigare. Med Pro och molnsäkerhetskopiering avstängd på den mottagande enheten öppnar du Inställningar, Molnsäkerhetskopia och sedan Återställ från säkerhetskopia. Välj det befintliga valvet, ange din återställningskod och bekräfta återställningen, som ersätter det lokala valvets innehåll. Profiler, dokument och utgångsdatum återställs; aviseringar skapas på nytt på den mottagande enheten.
 
-Appen kontrollerar också innan den skriver. Om molnsäkerhetskopieringen upptäcker en befintlig säkerhetskopia i det kontot ber den dig välja mellan att återställa och börja om från början. En ny telefon kan inte tyst skriva över det som redan finns där.
+Appen kontrollerar också innan den skriver. Om molnsäkerhetskopieringen hittar en befintlig säkerhetskopia som skapats med samma återställningskod frågar appen om du vill slå ihop innehållet eller börja om från början, så att en ny telefon inte tyst kan skriva över det som redan finns. Börjar du om lämnas den andra säkerhetskopian kvar.
 
 ### Att byta mellan iPhone och Android innebär att exportera valvet
 

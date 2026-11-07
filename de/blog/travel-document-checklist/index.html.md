@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/de/blog/travel-document-checklist/
 ## Wichtigste Erkenntnisse
 
 - Die nützlichste Reisedokument-Checkliste ist nach **Zeitpunkt der Handlung** organisiert – nicht nach Dokumenttyp. Die Sortierung nach Reisestadien bedeutet, dass Sie Probleme fangen, während noch Zeit bleibt, sie zu beheben.
-- Pässe müssen bei der Buchung überprüft werden, nicht am Vorabend. Ein in sieben Monaten ablaufender Pass kann Sie an der Fluggate abweisen für beliebte Reiseziele.
+- Pässe müssen bei der Buchung überprüft werden, nicht am Vorabend. Mit weniger als sechs Monaten Restgültigkeit kann Ihnen bei manchen Reisezielen die Reise verweigert werden. Prüfen Sie deshalb bei der Buchung die genaue Anforderung Ihres Ziellands.
 - Familienreisen bringen eine zusätzliche Ebene: Jedes Kind braucht eine individuelle Überprüfung, und eine elterliche Zustimmungserklärung ist erforderlich, wenn ein Elternteil nicht mitreist.
 - Geschäftsreisende tragen oft mehrere Pässe und Arbeitsvisa – diese benötigen separate Verfolgung, getrennt von persönlichen Dokumenten.
 - Eine digitale Sicherung jedes Dokuments (verschlüsselt, nicht in Ihrer Fotobibliothek) könnte Sie schneller nach Hause bringen, falls etwas im Ausland schiefgeht.
@@ -26,7 +26,7 @@ Der größte Fehler von Reisenden ist, den Buchungsmoment als administrativ zu b
 
 **Überprüfen Sie Ihre Pässe vor dem Bezahlen**
 
-Bevor Sie eine Buchung bestätigen, überprüfen Sie jeden Pass gegen drei Kriterien: Gültigkeit (erfüllt es die Anforderungen des Ziellandes – viele Länder benötigen sechs Monate über Ihr Abflugdatum hinaus, nicht nur Ihr Ankunftsdatum, wie in unserem [Leitfaden zur 6-Monats-Passregel](https://traveldocumentvault.com/de/blog/passport-expiry-6-month-rule/) erläutert), Namensprüfung (der Name im Pass muss genau dem Buchungsnamen entsprechen) und Blankseiten (einige Länder benötigen mindestens zwei leere Seiten für Einreisestempel).
+Bevor Sie eine Buchung bestätigen, überprüfen Sie jeden Pass gegen drei Kriterien: Gültigkeit (erfüllt es die Anforderungen des Ziellandes – viele Länder verlangen sechs Monate Restgültigkeit am Tag der Ankunft, einige zählen ab der Ausreise. Prüfen Sie deshalb Ihr Zielland, wie in unserem [Leitfaden zur 6-Monats-Passregel](https://traveldocumentvault.com/de/blog/passport-expiry-6-month-rule/) erläutert), Namensprüfung (der Name im Pass muss genau dem Buchungsnamen entsprechen) und Blankseiten (einige Länder benötigen mindestens zwei leere Seiten für Einreisestempel).
 
 **Überprüfen Sie Ihre Visaanforderungen**
 
@@ -40,13 +40,13 @@ Buchen Sie Reiseversicherung, wenn Sie Flüge buchen, nicht eine Woche vor der A
 
 ## Drei Monate vorher: Wenn Erneuerung oder Visum näher rücken, fangen Sie jetzt an
 
-Zu diesem Zeitpunkt haben Sie noch Zeit, Dinge zu beheben. Bearbeitungszeiten für Erneuerungen ändern sich, und jede Behörde veröffentlicht ihre eigene aktuelle Angabe: das US State Department, das HM Passport Office und das Australian Passport Office. Überprüfen Sie immer die offizielle Website auf aktuelle Zeiten, bevor Sie einen Antrag stellen.
+Zu diesem Zeitpunkt haben Sie noch Zeit, Dinge zu beheben. Bearbeitungszeiten für Erneuerungen ändern sich, und die Passbehörde Ihres Landes veröffentlicht ihre eigene aktuelle Angabe. Überprüfen Sie immer die offizielle Website auf aktuelle Zeiten, bevor Sie einen Antrag stellen.
 
-Ein Pass, der innerhalb von 12 Monaten abläuft: starten Sie den Erneuerungsprozess jetzt. Pässe von Kindern laufen schneller ab – 5 Jahre in den meisten Ländern versus 10 für Erwachsene – und Eltern verpassen das Fenster häufig. Für neuseeländische Antragsteller überprüfen Sie bitte das New Zealand Passport Office für aktuelle Fristen; die Nachfrage steigt in der Vorbereitungsphase zu Sommer.
+Ein Pass, der innerhalb von 12 Monaten abläuft: starten Sie den Erneuerungsprozess jetzt. Pässe von Kindern laufen schneller ab – britische Kinderreisepässe gelten 5 Jahre statt 10 für Erwachsene, und mehrere andere Länder handhaben es ähnlich – und Eltern verpassen das Fenster häufig. Für neuseeländische Antragsteller überprüfen Sie bitte das New Zealand Passport Office für aktuelle Fristen.
 
 Reichen Sie jeden Visumantrag mit einer Bearbeitungsfrist von vier oder mehr Wochen ein. Bereiten Sie Unterlagen vor: Kontoauszüge, Unterkunftsbestätigungen, Beweis für Weiterreise. Buchen Sie einen Biometrie-Termin im Voraus, falls das Visum dies erfordert.
 
-Für Familien: wenn ein Kind nur mit einem Elternteil oder einem anderen Erwachsenen reist, bereiten Sie jetzt eine Zustimmungserklärung für die Kinderreise vor. Enthalten Sie den vollständigen Namen und das Geburtsdatum des Kindes, Kontaktinformationen beider Eltern, Reisedaten, Reiseziele und die Unterschrift des abwesenden Elternteils. Eine notariell beglaubigte Kopie ist überzeugender bei der Einwanderung und den zusätzlichen Schritt wert.
+Für Familien: wenn ein Kind nur mit einem Elternteil oder einem anderen Erwachsenen reist, bereiten Sie jetzt eine Zustimmungserklärung für die Kinderreise vor. Enthalten Sie den vollständigen Namen und das Geburtsdatum des Kindes, Kontaktinformationen beider Eltern, Reisedaten, Reiseziele und die Unterschrift des abwesenden Elternteils. Manche Zielländer verlangen auch eine notarielle Beglaubigung. Prüfen Sie deshalb die Einreiseregeln.
 
 ## Ein Monat vor: Bestätigung und Konsolidierung
 
@@ -105,8 +105,8 @@ Verschiedene Reisen benötigen verschiedene Dokumentensätze, wie die Tabelle un
 | Visum (falls erforderlich) | | jedes Mitglied | Firma | Geschäftlich: bestätigen Sie, dass Visum im korrekten Pass ist |
 | Reiseversicherung | | alle versichert | überprüfen Sie Arbeitgebervollmacht | Überprüfen Sie Versicherungsabdeckung vor jeder Reise, nicht nur beim Kauf |
 | Buchungsbestätigungen | | | | Offline-Kopie (verlassen Sie sich nicht auf E-Mail-Zugang an Grenzen) |
-| Kindereinverständniserklärung | N/A | falls zutreffend | N/A | In vielen Ländern erforderlich, wenn ein Elternteil abwesend |
-| Geburtsurkunden | N/A | falls erforderlich | N/A | Einige Länder verlangen für Kinder unter 18 Jahren |
+| Kindereinverständniserklärung | N/A | falls zutreffend | N/A | In manchen Ländern verlangt, wenn ein Elternteil nicht mitreist |
+| Geburtsurkunden | N/A | falls erforderlich | N/A | Einige Länder fragen bei Kindern unter 18 Jahren danach |
 | Arbeitserlaubnisschreiben | N/A | N/A | falls erforderlich | Einige Länder benötigen Arbeitgeberschreiben für Geschäftsreisende |
 
 Ist eine Reise bereits gebucht, lohnt sich heute vor allem eines: Holen Sie jeden beteiligten Reisepass hervor und prüfen Sie sein Ablaufdatum gegen die Anforderung des Reiseziels, nicht nur gegen Ihre Reisedaten.
@@ -129,7 +129,7 @@ Ja. Die Passgültigkeit, Visaanforderungen und Versicherungsabdeckung jeder Pers
 
 ### Was ist eine elterliche Reisezustimmungserklärung und benötige ich eine?
 
-Eine elterliche Reisezustimmungserklärung ist ein unterzeichnetes Dokument des abwesenden Elternteils, das der Reise des Kindes Zustimmung erteilt. Länder wie Kanada, Südafrika, Mexiko und viele andere verlangen dies regelmäßig, wenn ein Kind nur mit einem Elternteil reist. Ohne sie riskieren Sie Verzögerungen oder Einreiseverweigerung. Der Brief sollte Angaben zum Kind, Kontaktinformationen beider Eltern, Reisedaten, Reiseziele und die Unterschrift des abwesenden Elternteils enthalten.
+Eine elterliche Reisezustimmungserklärung ist ein unterzeichnetes Dokument des abwesenden Elternteils, das der Reise des Kindes Zustimmung erteilt. Einige Länder, darunter Südafrika, stellen zusätzliche Anforderungen an Reisen mit nur einem Elternteil. Die kanadischen Behörden empfehlen ein unterschriebenes Zustimmungsschreiben. Ohne eines können zusätzliche Fragen oder Verzögerungen entstehen. Der Brief sollte Angaben zum Kind, Kontaktinformationen beider Eltern, Reisedaten, Reiseziele und die Unterschrift des abwesenden Elternteils enthalten.
 
 ### Welche Dokumente sollte ich am Flughafen griffbereit halten und nicht ins aufgegebene Gepäck?
 

@@ -50,19 +50,19 @@ Kontrollerna täcker också olika saker. Ett flygbolag som godtar din vidarebilj
 
 ## Om du avsiktligt reser med en enkel biljett
 
-En enkel biljett är inte i sig ett problem. Regler om vidare resa är i allmänhet skrivna för besökare. Flyttar du utomlands med ett visum som ger dig rätt att bo eller arbeta där, gör det visumet i de flesta fall samma jobb som en vidarebiljett skulle göra. Ha det tillgängligt vid incheckningen, tillsammans med eventuellt brev som följde med det.
+En enkel biljett är inte i sig ett problem. Regler om vidare resa är i allmänhet skrivna för besökare. Flyttar du utomlands med ett visum som ger dig rätt att bo eller arbeta där, kan det visumet räcka, så kontrollera resmålets regler. Ha det tillgängligt vid incheckningen, tillsammans med eventuellt brev som följde med det.
 
 Besöker du med en plan utan fastställt datum är de ärliga alternativen de enklaste. Boka den vidare resa du faktiskt räknar med att göra. Är dina datum inte fastställda håller en biljett som tillåter datumändring en verklig plan flexibel utan att göra den till en fiktion.
 
-Det vi skulle undvika är en biljett du aldrig har tänkt använda, köpt enbart för att visas upp vid disken. Att presentera den för en gränstjänsteman som din plan kan innebära att du vilseleder om dina avsikter, vilket är ett betydligt större problem än en saknad bokning.
+Det vi skulle undvika är en biljett du aldrig har tänkt använda, köpt enbart för att visas upp vid disken. Att presentera den för en gränstjänsteman som din plan skulle kunna uppfattas som att du vilseleder om dina avsikter, vilket vore ett betydligt större problem än en saknad bokning.
 
 ## Om du blir tillfrågad och inte kan visa upp det
 
 Om personalen vid disken frågar och du inte har något att visa, kom ihåg att de utgår från resmålets inresebestämmelser. Det mest användbara svaret är oftast att ge dem något som dessa regler erkänner.
 
-I praktiken innebär det ofta att boka den vidare resan på plats, i mobilen eller vid flygbolagets disk. Det kan kosta mer med så kort varsel, vilket är den främsta anledningen att ordna det kvällen innan. Har en resebyrå bokat din vidare resa kan deras skriftliga bekräftelse hjälpa där resmålet godtar den.
+I praktiken innebär det ofta att boka den vidare resan på plats, i mobilen eller vid flygbolagets disk. Det kan kosta mer med så kort varsel, vilket är den främsta anledningen att ordna det kvällen innan. Har en resebyrå bokat din vidare resa, kontrollera resmålets officiella vägledning för att se om byråns bekräftelse godtas.
 
-Beslutet vid disken ligger hos flygbolaget. Går det inte att lösa där behöver du boka om när du har det som resmålet efterfrågar.
+Vid disken är det vanligtvis flygbolaget som avgör. Går det inte att lösa där behöver du boka om när du har det som resmålet efterfrågar.
 
 ## Att ha bokningen tillgänglig när du behöver den
 
@@ -74,7 +74,7 @@ Spara en offlinekopia av bekräftelsen: en PDF, en skärmdump som visar boknings
 
 ### Vad godtar ett flygbolag egentligen som bevis på vidare resa?
 
-Oftast en bekräftad biljett ut ur resmålet, antingen hem eller till ett tredje land du kan resa in i. Vissa resmål godtar även annat bevis, som skriftlig bekräftelse från en resebyrå att vidare resa är bokad och betald. Flygbolaget tillämpar resmålets regler, så kontrollera dem för din resa.
+Oftast en bekräftad biljett ut ur resmålet, antingen hem eller till ett tredje land du kan resa in i. Vissa resmål godtar även andra bevis, så kontrollera resmålets officiella vägledning. Flygbolaget tillämpar resmålets regler, så kontrollera dem för din resa.
 
 ### Kan jag använda en hotellbokning som bevis på vidare resa?
 
@@ -82,11 +82,11 @@ En hotellbokning fungerar oftast inte på egen hand. Den visar var du ska bo, vi
 
 ### Vad händer om jag inte har bevis på vidare resa?
 
-Om du blir tillfrågad vid incheckningen och inte har något att visa är den vanliga lösningen att boka den vidare resan på plats. Det kan kosta mer med så kort varsel. Beslutet att låta dig gå ombord ligger hos flygbolaget, så det är värt att ordna det innan du kommer till flygplatsen.
+Om du blir tillfrågad vid incheckningen och inte har något att visa är den vanliga lösningen att boka den vidare resan på plats. Det kan kosta mer med så kort varsel. Det är vanligtvis flygbolaget som avgör om du får gå ombord, så det är värt att ordna det innan du kommer till flygplatsen.
 
 ### Är en enkel biljett ett problem?
 
-En enkel biljett är inte i sig ett problem, eftersom regler om vidare resa i allmänhet riktar sig mot besökare. Flyttar du med ett visum som ger dig rätt att bo eller arbeta i landet täcker det visumet oftast frågan. Besöker du landet är en bokad vidare resa som du har tänkt göra det enklaste svaret.
+En enkel biljett är inte i sig ett problem, eftersom regler om vidare resa i allmänhet riktar sig mot besökare. Flyttar du med ett visum som ger dig rätt att bo eller arbeta i landet kan det visumet räcka, så kontrollera resmålets regler. Besöker du landet är en bokad vidare resa som du har tänkt göra det enklaste svaret.
 
 ### Behöver jag bevis på vidare resa för gränsen?
 

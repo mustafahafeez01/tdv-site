@@ -36,7 +36,7 @@ Hvis du kun tager én ting med fra denne side, så lad det være denne skævhed:
 
 Mange søger efter, hvad "date of expedition" betyder på et pas, og svaret er beroligende kedeligt: det betyder udstedelsesdato.
 
-Udtrykket stammer fra spansk og portugisisk. *Fecha de expedición* og *data de expedição* oversættes begge bogstaveligt til expedition-dato, og oversatte blanketter fører den formulering videre uden at nogen fanger det. Det samme felt hedder *date de délivrance* på fransk, *data di rilascio* på italiensk, *Ausstellungsdatum* på tysk, *datum van afgifte* på nederlandsk og *utfärdandedatum* på svensk.
+Udtrykket stammer fra spansk og portugisisk. *Fecha de expedición* og *data de expedição* oversættes begge bogstaveligt til expedition-dato, og oversatte blanketter fører den formulering videre uden at nogen fanger det.
 
 De betyder alle det samme, og ingen af dem betyder udløb. Hvis en blanket beder om en expedition-dato, vil den have den tidligste af dine to datoer.
 
@@ -60,7 +60,7 @@ Udstedelsesdatoen holder op med at være en ligegyldig detalje, i det øjeblik e
 
 Britiske pas udstedt for nylig har ikke længere de ekstra måneder, men ældre pas, der har dem, er stadig i omløb og stadig i brug.
 
-Schengenlande anvender to separate tests på et pas uden for EU ved grænsen: det skal være udstedt mindre end ti år før den dato, du ankommer, og det skal forblive gyldigt i mindst tre måneder efter, du planlægger at rejse hjem igen. Et pas med ni ekstra måneder kan sagtens bestå den anden test og alligevel fejle den første, hvilket er en svær samtale at have ved en skranke i Madrid med et dokument, der ikke er udløbet.
+Schengenlande anvender som regel to separate tests på et pas uden for EU ved grænsen: det skal være udstedt mindre end ti år før den dato, du ankommer, og det skal forblive gyldigt i mindst tre måneder efter, du planlægger at rejse hjem igen. Et pas med ni ekstra måneder kan sagtens bestå den anden test og alligevel fejle den første, hvilket er en svær samtale at have ved en skranke i Madrid med et dokument, der ikke er udløbet.
 
 Vi ville tjekke begge datoer før en europæisk rejse, ikke kun den nederste.
 
@@ -68,11 +68,11 @@ Vi ville tjekke begge datoer før en europæisk rejse, ikke kun den nederste.
 
 Nær toppen af pas-siden sidder en trebogstavskode for udstedelseslandet. Længere nede, som regel i sit eget felt, sidder den udstedende myndighed: kontoret eller afdelingen, der faktisk fremstillede passet.
 
-Landet betyder mere, end folk regner med. Det afgør, hvilket lands konsulære netværk du henvender dig til, hvis et pas bliver væk eller stjålet.
+Landet betyder mere, end folk regner med. Det afgør som regel, hvilket lands konsulære netværk du henvender dig til, hvis et pas bliver væk eller stjålet.
 
 Det er sjældent landet, du tilfældigvis befinder dig i.
 
-Det afgør også, hvilke indrejseregler der gælder for dig, hvilket er hele grunden til, at personer med dobbelt statsborgerskab tænker nøje over, hvilket pas de fremviser. Vil du have den praktiske udgave af det, gennemgår vi det i [hvad du gør, når et pas forsvinder i udlandet](https://traveldocumentvault.com/da/blog/lost-passport-abroad/).
+Det afgør også som regel, hvilke indrejseregler der gælder for dig, hvilket er hele grunden til, at personer med dobbelt statsborgerskab tænker nøje over, hvilket pas de fremviser. Vil du have den praktiske udgave af det, gennemgår vi det i [hvad du gør, når et pas forsvinder i udlandet](https://traveldocumentvault.com/da/blog/lost-passport-abroad/).
 
 Feltet med den udstedende myndighed er mest nyttigt for blanketter. Nogle ansøgninger vil have det ordret, andre accepterer landet, og at kopiere det præcist går hurtigere end at gætte.
 
@@ -88,7 +88,7 @@ Intet af det er dramatisk i sig selv. Det bliver dramatisk, når et boardingkort
 
 Pas-siden er den stive laminerede side med dit fotografi, og dens layout er internationalt standardiseret snarere end opfundet af hvert land for sig. Det er derfor, et pas fra hvor som helst kan læses af en grænsevagt hvor som helst, og hvorfor du kan læse alle pas, så snart du kan læse ét.
 
-De to linjer med tegn og vinkelstreger nederst er den maskinlæsbare zone. De gentager en del af siden ovenover i et format, en scanner kan læse i ét hug, men ikke det hele: udløbsdatoen er med, udstedelsesdatoen er det ikke. Skader dernede bliver taget langt mere alvorligt end en ridse på omslaget. Vi gennemgår, hvor den linje sidder, i [at rejse med et beskadiget pas](https://traveldocumentvault.com/da/blog/damaged-passport-travel/).
+De to linjer med tegn og vinkelstreger nederst er den maskinlæsbare zone. De gentager en del af siden ovenover i et format, en scanner kan læse i ét hug, men ikke det hele: udløbsdatoen er med. Tjek dit eget pas for at se præcis, hvilke oplysninger zonen gentager. Skader dernede bliver taget langt mere alvorligt end en ridse på omslaget. Vi gennemgår, hvor den linje sidder, i [at rejse med et beskadiget pas](https://traveldocumentvault.com/da/blog/damaged-passport-travel/).
 
 Hvis mærkaterne på din egen pas-side ikke er på dansk, hjælper geometrien alligevel: de to datoer er trykt sammen, i samme format, og udløbsdatoen er den seneste af de to.
 
@@ -108,11 +108,11 @@ Nej. Udstedelsesdatoen er, når passet blev fremstillet, og udløbsdatoen er, n�
 
 ### Hvad betyder udstedelsesland på et pas?
 
-Udstedelseslandet er den stat, der udstedte passet, vist som en trebogstavskode nær toppen af pas-siden. Det afgør, hvilken ambassade eller hvilket konsulat der kan hjælpe dig, hvis passet bliver væk i udlandet, og hvilke indrejseregler der gælder, når du fremviser det.
+Udstedelseslandet er den stat, der udstedte passet, vist som en trebogstavskode nær toppen af pas-siden. Det afgør som regel, hvilken ambassade eller hvilket konsulat der kan hjælpe dig, hvis passet bliver væk i udlandet, og hvilke indrejseregler der typisk gælder, når du fremviser det.
 
 ### Ændrer mit pasnummer sig, når jeg fornyer passet?
 
-Ja. Hvert nyt pas har et nyt nummer. Alt, der er registreret mod det gamle nummer, bliver hos det gamle nummer, herunder allerede udstedte visa, flyselskabsprofiler og bookinger foretaget før fornyelsen, så de skal som regel opdateres separat.
+Som regel, ja. Et nyt pas får normalt et nyt nummer. Alt, der er registreret mod det gamle nummer, bliver hos det gamle nummer, herunder allerede udstedte visa, flyselskabsprofiler og bookinger foretaget før fornyelsen, så de skal som regel opdateres separat.
 
 ### Hvordan ved jeg, hvornår mit pas udløber?
 

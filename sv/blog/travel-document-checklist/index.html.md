@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/sv/blog/travel-document-checklist/
 ## Viktiga punkter
 
 - Den mest användbara checklistan för resehandlingar är organiserad efter **när du behöver agera**, inte efter dokumenttyp. Att sortera efter stadium betyder att du fångar problem medan det fortfarande finns tid att lösa dem.
-- Pass behöver kontrolleras vid bokningstillfället, inte kvällen innan. Ett pass som går ut om sju månader kan göra att du nekas ombordstigning för populära destinationer.
+- Pass behöver kontrolleras vid bokningstillfället, inte kvällen innan. Ett pass med mindre än sex månader kvar kan göra att du nekas för vissa resmål, så kontrollera exakt vad som gäller för ditt resmål när du bokar.
 - Familjeresor lägger till ett eget lager: varje barn behöver sina handlingar kontrollerade individuellt, och ett samtyckesbrev kan behövas om en förälder inte reser med.
 - Affärsresenärer har ofta flera pass och arbetsvisum, dessa behöver egen uppföljning, separat från personliga handlingar.
 - En digital säkerhetskopia av varje handling (krypterad, inte i din bildkamera) kan hjälpa dig hem snabbare om något går fel utomlands.
@@ -26,7 +26,7 @@ Det största misstaget resenärer gör är att behandla bokningsögonblicket som
 
 **Kontrollera passen innan du betalar**
 
-Innan du bekräftar någon bokning, kontrollera varje resenärs pass mot tre kriterier: giltighet (uppfyller det destinationens krav, många länder kräver sex månaders giltighet efter din avresedag och inte bara ankomstdagen, vilket vi förklarar i vår [guide till 6-månadersregeln för pass](https://traveldocumentvault.com/sv/blog/passport-expiry-6-month-rule/)), namnmatchning (namnet på passet måste exakt matcha bokningsnamnet), och tomma sidor (vissa länder kräver minst två tomma visumsidor för inresestämplar).
+Innan du bekräftar någon bokning, kontrollera varje resenärs pass mot tre kriterier: giltighet (uppfyller det destinationens krav, många länder vill ha sex månaders giltighet kvar på ankomstdagen och några räknar från avresan, så kontrollera ditt resmål, vilket vi förklarar i vår [guide till 6-månadersregeln för pass](https://traveldocumentvault.com/sv/blog/passport-expiry-6-month-rule/)), namnmatchning (namnet på passet måste exakt matcha bokningsnamnet), och tomma sidor (vissa länder kräver minst två tomma visumsidor för inresestämplar).
 
 **Kontrollera dina visumkrav**
 
@@ -40,13 +40,13 @@ Boka reseförsäkring samtidigt som du bokar flyget, inte en vecka innan avresa.
 
 ## Tre månader innan: är förnyelse eller visum nära, börja nu
 
-Vid den här tidpunkten har du fortfarande tid att åtgärda saker. Handläggningstider ändras, och varje myndighet publicerar sin egen aktuella siffra: det amerikanska utrikesdepartementet, brittiska passmyndigheten (HM Passport Office), och den australiska passmyndigheten. Kontrollera alltid den officiella webbplatsen för aktuella tider innan du ansöker.
+Vid den här tidpunkten har du fortfarande tid att åtgärda saker. Handläggningstider ändras, och ditt lands passmyndighet publicerar sin egen aktuella siffra. Kontrollera alltid den officiella webbplatsen för aktuella tider innan du ansöker.
 
-Alla pass som går ut inom 12 månader: påbörja förnyelseprocessen nu. Barns pass går ut snabbare, 5 år i de flesta länder jämfört med 10 för vuxna, och föräldrar missar ofta det här fönstret. För sökande i Nya Zeeland, kontrollera New Zealand Passport Office för aktuella handläggningstider, efterfrågan ökar kraftigt inför sommaren.
+Alla pass som går ut inom 12 månader: påbörja förnyelseprocessen nu. Barns pass går ut snabbare, brittiska barnpass gäller i 5 år jämfört med 10 för vuxna och flera andra länder har samma upplägg, och föräldrar missar ofta det här fönstret. För sökande i Nya Zeeland, kontrollera New Zealand Passport Office för aktuella handläggningstider.
 
 Skicka in eventuella visumansökningar som behöver ledtid, och kontrollera hos utfärdande myndighet hur lång tid det för närvarande tar. Förbered stödjande dokument: kontoutdrag, bokningsbekräftelser för boende, bevis på vidare resa. Boka en tid för biometri i förväg om visumet kräver det.
 
-För familjer: om ett barn reser med bara en förälder eller en annan vuxen, förbered ett samtyckesbrev för barnets resa nu. Inkludera barnets fullständiga namn och födelsedatum, båda föräldrarnas kontaktuppgifter, resdatum, destinationer, och den frånvarande förälderns underskrift. En bestyrkt kopia är mer övertygande vid gränskontrollen och värt det extra steget.
+För familjer: om ett barn reser med bara en förälder eller en annan vuxen, förbered ett samtyckesbrev för barnets resa nu. Inkludera barnets fullständiga namn och födelsedatum, båda föräldrarnas kontaktuppgifter, resdatum, destinationer, och den frånvarande förälderns underskrift. Vissa resmål kräver också att brevet bestyrks av en notarie, så kontrollera inresereglerna.
 
 ## En månad innan: bekräfta och samla
 
@@ -105,8 +105,8 @@ Olika resor kräver olika uppsättningar handlingar, vilket tabellen nedan visar
 | Visum (om det krävs) | | varje medlem | företag | Affär: bekräfta att visumet sitter i rätt pass |
 | Reseförsäkring | | alla omfattas | kontrollera att arbetsgivaren täcker dig | Bekräfta täckning inför varje resa, inte bara vid köp |
 | Bokningsbekräftelser | | | | Offlinekopia (lita inte på e-poståtkomst vid gränser) |
-| Samtyckesbrev för barn | N/A | om tillämpligt | N/A | Krävs i många länder om en förälder saknas |
-| Födelsebevis | N/A | om det krävs | N/A | Vissa länder kräver detta för barn under 18 år |
+| Samtyckesbrev för barn | N/A | om tillämpligt | N/A | Efterfrågas i vissa länder om en förälder inte reser med |
+| Födelsebevis | N/A | om det krävs | N/A | Vissa länder efterfrågar detta för barn under 18 år |
 | Arbetstillståndsbrev | N/A | N/A | om det krävs | Vissa destinationer kräver arbetsgivarbrev för affärsresenärer |
 
 Är en resa redan bokad är det enda som är värt att göra i dag att ta fram alla pass som berörs och kontrollera utgångsdatumet mot resmålets krav, inte bara mot dina resdatum.
@@ -129,7 +129,7 @@ Ja. Varje persons passgiltighet, visumkrav, och försäkringstäckning bedöms i
 
 ### Vad är ett samtyckesbrev för barns resa och behöver jag ett?
 
-Ett samtyckesbrev för barns resa är ett undertecknat dokument från den frånvarande föräldern som ger tillstånd för barnet att resa. Länder inklusive Kanada, Sydafrika, Mexiko, och många andra begär det rutinmässigt när ett barn reser med bara en förälder. Utan ett riskerar du förseningar eller nekad inresa. Brevet bör innehålla barnets uppgifter, båda föräldrarnas kontaktinformation, resdatum, destinationer, och den frånvarande förälderns underskrift.
+Ett samtyckesbrev för barns resa är ett undertecknat dokument från den frånvarande föräldern som ger tillstånd för barnet att resa. Vissa länder, däribland Sydafrika, har extra krav för barn som reser med en förälder, och kanadensiska myndigheter rekommenderar ett undertecknat samtyckesbrev. Utan ett kan du möta fler frågor eller förseningar. Brevet bör innehålla barnets uppgifter, båda föräldrarnas kontaktinformation, resdatum, destinationer, och den frånvarande förälderns underskrift.
 
 ### Vilka handlingar bör jag hålla tillgängliga på flygplatsen och inte i incheckat bagage?
 

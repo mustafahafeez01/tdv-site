@@ -10,11 +10,11 @@ Source: https://traveldocumentvault.com/de/blog/child-first-passport-application
 
 ## Wichtigste Erkenntnisse
 
-- **Die Zustimmung zur Beantragung ist etwas anderes als die Zustimmung zur Reise.** Ihr Kind benötigt die schriftliche Erlaubnis aller Eltern oder Erziehungsberechtigten, bevor der Antrag eingereicht werden kann.
+- **Die Zustimmung zur Beantragung ist etwas anderes als die Zustimmung zur Reise.** Die Regeln unterscheiden sich je nach Land: Im Vereinigten Königreich unterschreibt beispielsweise eine sorgeberechtigte Person das Formular, und Sie geben die Daten beider Elternteile an. Andere Länder verlangen die Zustimmung beider Eltern. Fragen Sie bei Ihrer Passbehörde nach.
 - **Die meisten Anträge verlangen drei Arten von Nachweisen:** einen Identitätsnachweis (Geburtsurkunde), einen Identitätsnachweis der Eltern und einen Nachweis des Eltern-Kind-Verhältnisses.
 - **Für Babyfotos im Reisepass gelten besondere Regeln.** Die meisten Behörden wollen offene Augen, die in die Kamera schauen (GOV.UK lockert dies für Kinder unter 1 und unter 6 Jahren), ohne sichtbaren Schnuller, Spielzeug oder fremde Hände – und der Hintergrund hinter dem Kopf des Kindes muss einfarbig und frei sein.
-- **Prüfen Sie alles, sobald der Reisepass ankommt.** Schreibweise, die Namen der Eltern, sofern sie aufgeführt sind, das Ablaufdatum – besonders wichtig, weil Kinderreisepässe schneller ablaufen als die von Erwachsenen.
-- **Ein Elternteil kann nicht allein unterschreiben, es sei denn, es liegt eine gerichtliche Verfügung oder das alleinige Sorgerecht vor, oder der andere Elternteil ist verstorben.** Trifft das auf Sie zu, hat Ihre Passbehörde ein festgelegtes Verfahren dafür.
+- **Prüfen Sie alles, sobald der Reisepass ankommt.** Schreibweise, die Namen der Eltern, sofern sie aufgeführt sind, das Ablaufdatum – besonders wichtig, weil Kinderreisepässe oft früher ablaufen als die von Erwachsenen (ein britischer Kinderreisepass ist 5 Jahre gültig).
+- **In Ländern, die die Zustimmung beider Eltern verlangen, kann ein Elternteil in der Regel nicht allein unterschreiben, es sei denn, es liegt eine gerichtliche Verfügung oder das alleinige Sorgerecht vor, oder der andere Elternteil ist verstorben.** Trifft das auf Sie zu, hat Ihre Passbehörde ein festgelegtes Verfahren dafür.
 
 Den ersten Reisepass Ihres Kindes beantragen Sie nur einmal – das heißt, Sie können die Regeln vorher lernen, statt sie am Schalter zu entdecken. Der Antrag selbst ist unkompliziert, aber Zustimmungsregeln und Fotoanforderungen unterscheiden sich je nach Land, und ein kleiner Fehler am Anfang bedeutet einen abgelehnten Antrag und eine verzögerte Reise.
 
@@ -28,7 +28,7 @@ Dieser Artikel behandelt die Zustimmung zur Beantragung. Diese Unterscheidung is
 
 ## Standardmäßig müssen alle Personen mit elterlicher Sorge zustimmen
 
-Die Grundregel lautet, dass alle Erwachsenen mit elterlicher Sorge für das Kind der Passbeantragung zustimmen müssen. Bei den meisten Familien bedeutet das beide verheirateten Elternteile; bei unverheirateten Paaren bedeutet es beide Partner, sofern beide als Eltern in der Geburtsurkunde eingetragen sind. Für Personen mit gerichtlicher Verfügung oder alleinigem Sorgerecht gelten andere Regeln, und Ihre Passbehörde erklärt Ihnen das genaue Verfahren, wenn Sie nachfragen.
+Wer zustimmen muss, hängt vom Land ab. Im Vereinigten Königreich unterschreibt eine sorgeberechtigte Person den Antrag, und Sie geben die Daten beider Elternteile an; einige andere Länder erwarten in der Regel beide Unterschriften. Auch ob ein unverheirateter Elternteil sorgeberechtigt ist, unterscheidet sich je nach Land. Fragen Sie deshalb bei Ihrer Passbehörde nach. Für Personen mit gerichtlicher Verfügung oder alleinigem Sorgerecht gelten andere Regeln, und Ihre Passbehörde erklärt Ihnen das genaue Verfahren, wenn Sie nachfragen.
 
 Diese Ausnahmen sind real und wichtig zu kennen. Ein verstorbener Elternteil kann nicht unterschreiben, und ein Elternteil, der die elterliche Sorge durch eine gerichtliche Verfügung verloren hat, hat möglicherweise ebenfalls kein Zustimmungsrecht mehr. Auch Näherungsverbote und Sorgerechtsbeschränkungen können einen Elternteil rechtlich ausschließen. Jede dieser Situationen hat ihr eigenes Antragsverfahren und ihre eigenen Nachweisanforderungen, sodass es keine einzelne Antwort gibt, die alle Fälle abdeckt.
 
@@ -54,9 +54,9 @@ Genau hier scheitern viele Erstanträge. Ein Baby oder Kleinkind kann Fotoregeln
 
 **Die Grundregeln bleiben größtenteils gleich:** Die Augen des Kindes sollten in der Regel geöffnet sein und in die Kamera schauen, mit einem einfarbigen Hintergrund hinter dem Kopf und nichts sonst im Bild. Einige Behörden lockern die Augenregeln für die jüngsten Kinder: GOV.UK verlangt bei einem Kind unter einem Jahr keine offenen Augen und bei einem Kind unter 6 Jahren keinen direkten Blick in die Kamera. Was sich ändert, ist der Weg dorthin.
 
-**Bei einem Neugeborenen oder Baby unter 6 Monaten:** Fotografieren Sie es liegend auf einem einfarbigen weißen oder hellen Laken oder einer Decke. Der Stoff wird zum Hintergrund. Der Kopf des Kindes füllt das obere Drittel des Bildausschnitts. Positionieren Sie sich direkt darüber, sodass das Baby mit offenen Augen gerade nach oben in die Kamera schaut – ist es schläfrig, warten Sie einen Moment ab, in dem es wach ist. Kein Spielzeug, kein Schnuller, keine Hände, keine andere Person im Bild außer Kopf und Schultern des Babys.
+**Bei einem Neugeborenen oder Baby unter einem Jahr:** Fotografieren Sie es liegend auf einem einfarbigen weißen oder hellen Laken oder einer Decke. Der Stoff wird zum Hintergrund. Positionieren Sie sich direkt darüber, sodass das Baby mit offenen Augen gerade nach oben in die Kamera schaut – ist es schläfrig, warten Sie einen Moment ab, in dem es wach ist. Kein Spielzeug, kein Schnuller, keine Hände, keine andere Person im Bild außer Kopf und Schultern des Babys.
 
-**Bei einem Baby zwischen 6 Monaten und 2 Jahren:** Sie können es auf den Schoß eines Erwachsenen setzen, aber Körper und Hände dieser Person dürfen auf dem Foto überhaupt nicht zu sehen sein. Der Kopf des Babys füllt den Bildausschnitt. Der einfarbige Hintergrund befindet sich nur hinter dem Baby – sonst nirgends sichtbar. Eine weiße Wand funktioniert. Ebenso ein einfarbiges Laken, das dahinter aufgehängt wird. Wählen Sie den Bildwinkel so, dass die Augen des Babys zur Kamera schauen. Da Babys in diesem Alter ständig in Bewegung sind, brauchen Sie wahrscheinlich rund 20 Aufnahmen, bis eine dabei ist, auf der die Augen offen sind und in die richtige Richtung schauen.
+**Bei einem Kind zwischen einem und zwei Jahren:** Sie können es auf den Schoß eines Erwachsenen setzen, aber Körper und Hände dieser Person dürfen auf dem Foto überhaupt nicht zu sehen sein. Nur das Kind ist im Bild zu sehen, mit einem einfarbigen Hintergrund dahinter und ohne andere sichtbare Gegenstände. Eine weiße Wand funktioniert. Ebenso ein einfarbiges Laken, das dahinter aufgehängt wird. Wählen Sie den Bildwinkel so, dass die Augen des Babys zur Kamera schauen. Da Babys in diesem Alter ständig in Bewegung sind, brauchen Sie wahrscheinlich rund 20 Aufnahmen, bis eine dabei ist, auf der die Augen offen sind und in die richtige Richtung schauen.
 
 **Bei Kleinkindern ab 2 Jahren:** Setzen Sie sie vor den einfarbigen Hintergrund auf einen Stuhl, oder lassen Sie sie stehen, wenn sie das schon können. Die Augen sollten direkt in die Kamera schauen, was schwieriger ist, als es klingt, denn Kleinkinder folgen keinen Anweisungen. Singen Sie ein Lied, machen Sie ein lustiges Geräusch, oder bitten Sie das Kind, auf einen Punkt direkt über dem Objektiv zu schauen. Sie wollen, dass es leicht nach oben schaut, was ohnehin besser auf Fotos wirkt. Auch hier gilt: viele Aufnahmen machen – Sie brauchen nur eine, auf der das Kind mit beiden deutlich geöffneten Augen in die Kamera schaut.
 
@@ -78,7 +78,7 @@ Das ist eine gesetzliche Anforderung zum Schutz des Kindes, kein Verhandlungsspi
 
 **Wenn der andere Elternteil nicht auffindbar ist oder die Zustimmung verweigert:** Sie benötigen eine gerichtliche Verfügung. Das kann eine bestehende Sorgerechtsentscheidung, eine Vormundschaftsverfügung oder ein spezifisches Gerichtsurteil sein, das Ihnen das alleinige Sorgerecht zuspricht. In manchen Ländern können Sie beim Gericht die Erlaubnis beantragen, den Reisepass ohne Zustimmung des anderen Elternteils auszustellen, wenn Sie nachweisen können, dass dem Kind durch eine Verzögerung Schaden entstehen würde oder der andere Elternteil nicht angemessen befragt werden kann. Das ist je nach Land und örtlicher Gerichtspraxis unterschiedlich – fragen Sie Ihre Passbehörde oder einen Familienanwalt, wie das Verfahren bei Ihnen abläuft.
 
-**Wenn der andere Elternteil verstorben ist:** Sie benötigen die Sterbeurkunde. Ihre Passbehörde sollte darüber hinaus nichts weiter für die Bearbeitung des Antrags benötigen.
+**Wenn der andere Elternteil verstorben ist:** Rechnen Sie damit, die Sterbeurkunde vorlegen zu müssen. Ihre Passbehörde bestätigt Ihnen, ob sie weitere Nachweise benötigt.
 
 **Wenn ein Näherungsverbot oder eine Sorgerechtsbeschränkung vorliegt:** Bringen Sie die gerichtliche Verfügung mit. Sie zeigt der Behörde genau, welche Erlaubnisse und Einschränkungen gelten.
 
@@ -86,19 +86,19 @@ Das ist eine gesetzliche Anforderung zum Schutz des Kindes, kein Verhandlungsspi
 
 Sobald der Reisepass ausgestellt und bei Ihnen angekommen ist, nehmen Sie sich fünf Minuten Zeit, um ihn zu prüfen, bevor Sie ihn wegheften. Sie achten dabei auf drei Dinge, die sich jetzt leicht korrigieren lassen, am Flughafen aber zum Albtraum werden.
 
-**Prüfen Sie die Schreibweise.** Der Name Ihres Kindes muss genau so geschrieben sein wie auf der Geburtsurkunde oder dem Ausweisdokument, das Sie für den Antrag verwendet haben. Ist er falsch, kann die Passbehörde in der Regel kostenlos einen Ersatz ausstellen. Bemerken Sie es erst am Flughafen, kann die Fluggesellschaft die Beförderung verweigern, weil der Name auf dem Ticket nicht mit dem Reisepass übereinstimmt.
+**Prüfen Sie die Schreibweise.** Der Name Ihres Kindes muss genau so geschrieben sein wie auf der Geburtsurkunde oder dem Ausweisdokument, das Sie für den Antrag verwendet haben. Ist er falsch, stellt die Passbehörde in der Regel kostenlos einen Ersatz aus, wenn der Fehler bei ihr lag. Stammt er aus Ihrem Antrag, kann eine Gebühr anfallen. Bemerken Sie es erst am Flughafen, kann die Fluggesellschaft die Beförderung verweigern, weil der Name auf dem Ticket nicht mit dem Reisepass übereinstimmt.
 
 **Prüfen Sie die Namen der Eltern, sofern sie eingetragen sind.** Manche Länder drucken die Namen der Eltern oder Erziehungsberechtigten im Inneren des Kinderreisepasses ab. Sind diese Namen falsch geschrieben oder fehlerhaft, wenden Sie sich an die Behörde, damit sie korrigiert werden.
 
-**Prüfen Sie das Ablaufdatum.** Das ist bei Kindern besonders wichtig, weil [Kinderreisepässe viel schneller ablaufen als die von Erwachsenen](https://traveldocumentvault.com/de/blog/family-passport-management/). Bei der Reisebuchung müssen Sie genau wissen, wann dieses Dokument seine Gültigkeit verliert. Notieren Sie es sich und stellen Sie die Erinnerung gleich an dem Tag ein, an dem der Reisepass ankommt, nicht erst, wenn irgendwann eine Reise ansteht; das ist die eine Gewohnheit, die wir Eltern immer empfehlen würden. Ein unerwartet abgelaufener Kinderreisepass ist einer der häufigsten Gründe, warum Familien eine Reise absagen oder verschieben müssen.
+**Prüfen Sie das Ablaufdatum.** Das ist bei Kindern besonders wichtig, weil [Kinderreisepässe oft früher ablaufen als die von Erwachsenen](https://traveldocumentvault.com/de/blog/family-passport-management/). Bei der Reisebuchung müssen Sie genau wissen, wann dieses Dokument seine Gültigkeit verliert. Notieren Sie es sich und stellen Sie die Erinnerung gleich an dem Tag ein, an dem der Reisepass ankommt, nicht erst, wenn irgendwann eine Reise ansteht; das ist die eine Gewohnheit, die wir Eltern immer empfehlen würden. Läuft der Reisepass eines Kindes unbemerkt ab, kann daran eine Reise scheitern.
 
-Ist etwas falsch, wenden Sie sich innerhalb weniger Tage an Ihre Passbehörde. Korrekturen sind meist kostenlos, wenn sie rasch gemeldet werden, und je länger Sie warten, desto komplizierter wird der Vorgang. Sobald alles stimmt, legen Sie den Reisepass gleich in Ihre Dokumentenmappe, mit einer Notiz zum Ablaufdatum, damit die Erneuerung Sie nicht überrascht.
+Entdecken Sie einen Fehler, wenden Sie sich gleich an Ihre Passbehörde. Ob die Korrektur kostenlos ist, hängt davon ab, wer den Fehler gemacht hat; je länger Sie warten, desto schwieriger wird die Klärung. Sobald alles stimmt, legen Sie den Reisepass gleich in Ihre Dokumentenmappe, mit einer Notiz zum Ablaufdatum, damit die Erneuerung Sie nicht überrascht.
 
 ## Häufig gestellte Fragen
 
 ### Wer muss der Passbeantragung für ein Kind zustimmen?
 
-In der Regel müssen alle Erwachsenen mit elterlicher Sorge für das Kind zustimmen. Das schließt verheiratete Paare, unverheiratete Paare, die in der Geburtsurkunde eingetragen sind, und jede Person mit gesetzlicher Vormundschaft ein. Alleiniges Sorgerecht, ein verstorbener Elternteil und gerichtliche Verfügungen bilden Ausnahmen – die ausstellende Behörde entscheidet, ob ohne die Unterschrift beider Elternteile fortgefahren wird.
+Das hängt vom Land ab: In der Regel muss eine sorgeberechtigte Person unterschreiben, und manche Passbehörden verlangen die Zustimmung aller Elternteile. Das schließt verheiratete Paare, unverheiratete Paare, die in der Geburtsurkunde eingetragen sind, und jede Person mit gesetzlicher Vormundschaft ein. Alleiniges Sorgerecht, ein verstorbener Elternteil und gerichtliche Verfügungen bilden Ausnahmen – die ausstellende Behörde entscheidet, ob ohne die Unterschrift beider Elternteile fortgefahren wird.
 
 ### Welche Dokumente benötige ich für den ersten Reisepassantrag eines Kindes?
 
@@ -106,7 +106,7 @@ Mindestens erforderlich sind: ein Identitätsnachweis des Kindes (Geburtsurkunde
 
 ### Was ist bei einem Passfoto eines Babys anders?
 
-Viele Behörden wollen, dass die Augen des Babys offen sind und in die Kamera schauen, ohne sichtbaren Schnuller, Spielzeug oder fremde Hände. Manche Behörden lockern die Augenregeln für kleine Kinder: GOV.UK etwa verlangt bei einem Kind unter einem Jahr keine offenen Augen und bei einem Kind unter 6 Jahren keinen direkten Blick in die Kamera. Der einfarbige Hintergrund sollte hinter dem Kopf des Kindes klar sichtbar sein. Da Babys weder sitzen noch stillhalten können, dürfen Sie sie liegend auf einem einfarbigen Hintergrund fotografieren – die Regel lautet, dass der Kopf den Bildausschnitt füllen muss, nur das Kind im Bild zu sehen ist und der Hintergrund dahinter klar und frei sein muss.
+Viele Behörden wollen, dass die Augen des Babys offen sind und in die Kamera schauen, ohne sichtbaren Schnuller, Spielzeug oder fremde Hände. Manche Behörden lockern die Augenregeln für kleine Kinder: GOV.UK etwa verlangt bei einem Kind unter einem Jahr keine offenen Augen und bei einem Kind unter 6 Jahren keinen direkten Blick in die Kamera. Der einfarbige Hintergrund sollte hinter dem Kopf des Kindes klar sichtbar sein. Da Babys weder sitzen noch stillhalten können, dürfen Sie sie liegend auf einem einfarbigen Hintergrund fotografieren – nur das Kind darf im Bild zu sehen sein, und der Hintergrund dahinter muss einfarbig und hell sein.
 
 ### Wie lange ist der Reisepass eines Kindes gültig?
 

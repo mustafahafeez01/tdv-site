@@ -50,19 +50,19 @@ De controles gaan ook over andere zaken. Een luchtvaartmaatschappij die je vervo
 
 ## Als je bewust met een enkele reis reist
 
-Een enkele reis is op zichzelf geen probleem. Regels over verder reizen zijn over het algemeen geschreven voor bezoekers. Verhuis je naar het buitenland op een visum waarmee je daar mag wonen of werken, dan doet dat visum in de meeste gevallen hetzelfde werk als een vervolgticket. Houd het bij de hand bij het inchecken, samen met eventuele bijbehorende brieven.
+Een enkele reis is op zichzelf geen probleem. Regels over verder reizen zijn over het algemeen geschreven voor bezoekers. Verhuis je naar het buitenland op een visum waarmee je daar mag wonen of werken, dan kan dat visum die vraag afdekken. Controleer de regels van je bestemming. Houd het bij de hand bij het inchecken, samen met eventuele bijbehorende brieven.
 
 Ben je op bezoek zonder vaste einddatum, dan zijn de eerlijke opties ook de eenvoudigste. Boek de vervolgreis die je daadwerkelijk verwacht te maken. Staan je data niet vast, dan houdt een tarief waarmee je de datum kunt wijzigen een echt plan flexibel, zonder dat het fictie wordt.
 
-Wat wij zouden vermijden, is een ticket dat je nooit van plan bent te gebruiken, alleen gekocht om aan de balie te tonen. Dat aan een grensbeambte presenteren als je plan kan neerkomen op het verkeerd voorstellen van je bedoelingen, en dat is een veel groter probleem dan een ontbrekende boeking.
+Wat wij zouden vermijden, is een ticket dat je nooit van plan bent te gebruiken, alleen gekocht om aan de balie te tonen. Dat aan een grensbeambte presenteren als je plan kan worden opgevat als het verkeerd voorstellen van je bedoelingen, en dat zou een veel groter probleem dan een ontbrekende boeking.
 
 ## Als je ernaar gevraagd wordt en het niet kunt tonen
 
 Vraagt een medewerker ernaar en kun je niets laten zien, bedenk dan dat ze werken volgens de toelatingsregels van de bestemming. De handigste reactie is meestal om iets te geven dat die regels erkennen.
 
-In de praktijk betekent dat vaak de vervolgreis daar en dan boeken, op je telefoon of aan de balie van de luchtvaartmaatschappij. Dat kan op het laatste moment meer kosten, en dat is precies de reden om het de avond ervoor al te regelen. Heeft een reisbureau je vervolgreis geboekt, dan kan hun schriftelijke bevestiging helpen, als de bestemming die accepteert.
+In de praktijk betekent dat vaak de vervolgreis daar en dan boeken, op je telefoon of aan de balie van de luchtvaartmaatschappij. Dat kan op het laatste moment meer kosten, en dat is precies de reden om het de avond ervoor al te regelen. Heeft een reisbureau je vervolgreis geboekt, controleer dan in de officiële richtlijnen van je bestemming of hun bevestiging wordt geaccepteerd.
 
-De beslissing aan de balie ligt bij de luchtvaartmaatschappij. Kun je het daar niet oplossen, dan moet je opnieuw boeken zodra je hebt wat de bestemming vraagt.
+De beslissing aan de balie ligt doorgaans bij de luchtvaartmaatschappij. Kun je het daar niet oplossen, dan moet je opnieuw boeken zodra je hebt wat de bestemming vraagt.
 
 ## De boeking bereikbaar houden wanneer je die nodig hebt
 
@@ -74,7 +74,7 @@ Bewaar een offline kopie van de bevestiging: een PDF, een schermafbeelding met h
 
 ### Welk bewijs van verder reizen accepteert een luchtvaartmaatschappij eigenlijk?
 
-Meestal een bevestigd ticket uit je bestemmingsland, naar huis of naar een derde land waar je mag inreizen. Sommige bestemmingen accepteren ook ander bewijs, zoals een schriftelijke bevestiging van een reisbureau dat de vervolgreis is geboekt en betaald. De luchtvaartmaatschappij past de regels van de bestemming toe, dus controleer die voor jouw reis.
+Meestal een bevestigd ticket uit je bestemmingsland, naar huis of naar een derde land waar je mag inreizen. Sommige bestemmingen accepteren ook ander bewijs. Controleer daarom de officiële richtlijnen van je bestemming. De luchtvaartmaatschappij past de regels van de bestemming toe, dus controleer die voor jouw reis.
 
 ### Kan ik een hotelreservering gebruiken als bewijs van verder reizen?
 
@@ -82,11 +82,11 @@ Een hotelboeking werkt meestal niet op zichzelf. Die laat zien waar je verblijft
 
 ### Wat als ik geen bewijs van verder reizen heb?
 
-Wordt je er bij het inchecken naar gevraagd en kun je niets laten zien, dan is de gangbare oplossing om de vervolgreis daar en dan te boeken. Dat kan op het laatste moment meer kosten. De beslissing om je aan boord te laten ligt bij de luchtvaartmaatschappij, dus regel het liefst voordat je op de luchthaven aankomt.
+Wordt je er bij het inchecken naar gevraagd en kun je niets laten zien, dan is de gangbare oplossing om de vervolgreis daar en dan te boeken. Dat kan op het laatste moment meer kosten. De beslissing om je aan boord te laten ligt doorgaans bij de luchtvaartmaatschappij, dus regel het liefst voordat je op de luchthaven aankomt.
 
 ### Is een enkele reis een probleem?
 
-Een enkele reis is op zichzelf geen probleem, omdat regels over verder reizen over het algemeen bedoeld zijn voor bezoekers. Reis je op een visum waarmee je in het land mag wonen of werken, dan dekt dat visum meestal de vraag. Ben je op bezoek, dan is een geboekte vervolgreis die je daadwerkelijk van plan bent te maken het eenvoudigste antwoord.
+Een enkele reis is op zichzelf geen probleem, omdat regels over verder reizen over het algemeen bedoeld zijn voor bezoekers. Reis je op een visum waarmee je in het land mag wonen of werken, dan kan dat visum die vraag afdekken. Controleer de regels van je bestemming. Ben je op bezoek, dan is een geboekte vervolgreis die je daadwerkelijk van plan bent te maken het eenvoudigste antwoord.
 
 ### Heb ik bewijs van verder reizen nodig voor de grens?
 

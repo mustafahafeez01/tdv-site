@@ -36,7 +36,7 @@ Jika Anda hanya mengingat satu hal dari halaman ini, ingatlah ketidaksimetrisan 
 
 Banyak orang mencari arti 'date of expedition' pada paspor, dan jawabannya cukup sederhana dan melegakan: artinya tanggal penerbitan.
 
-Istilah ini berasal dari bahasa Spanyol dan Portugis. Fecha de expedición dan data de expedição sama-sama diterjemahkan secara harfiah ke bahasa Inggris sebagai expedition date, dan formulir yang diterjemahkan membawa istilah itu tanpa disadari siapa pun. Kolom yang sama muncul sebagai date de délivrance dalam bahasa Prancis, data di rilascio dalam bahasa Italia, Ausstellungsdatum dalam bahasa Jerman, datum van afgifte dalam bahasa Belanda, dan utfärdandedatum dalam bahasa Swedia.
+Istilah ini berasal dari bahasa Spanyol dan Portugis. Fecha de expedición dan data de expedição sama-sama diterjemahkan secara harfiah ke bahasa Inggris sebagai expedition date, dan formulir yang diterjemahkan membawa istilah itu tanpa disadari siapa pun.
 
 Semuanya memiliki arti yang sama, dan tidak satu pun berarti kedaluwarsa. Jika sebuah formulir meminta expedition date, yang dimaksud adalah tanggal yang lebih awal dari dua tanggal Anda.
 
@@ -60,7 +60,7 @@ Tanggal penerbitan berhenti menjadi sekadar detail sepele saat sebuah negara mem
 
 Paspor Inggris yang diterbitkan belakangan ini tidak lagi membawa bulan-bulan ekstra tersebut, tetapi buku paspor lama yang masih memilikinya tetap beredar dan tetap digunakan.
 
-Negara-negara Schengen menerapkan dua pengujian terpisah pada paspor non-UE di perbatasan: paspor harus diterbitkan kurang dari sepuluh tahun sebelum tanggal kedatangan Anda, dan harus tetap berlaku setidaknya tiga bulan setelah rencana kepergian Anda. Buku paspor yang membawa sembilan bulan ekstra bisa dengan mudah memenuhi pengujian kedua tetapi gagal pada pengujian pertama, yang menjadi percakapan yang sulit dilakukan di loket Madrid dengan dokumen yang belum kedaluwarsa.
+Negara-negara Schengen umumnya menerapkan dua pengujian terpisah pada paspor non-UE di perbatasan: paspor harus diterbitkan kurang dari sepuluh tahun sebelum tanggal kedatangan Anda, dan harus tetap berlaku setidaknya tiga bulan setelah rencana kepergian Anda. Buku paspor yang membawa sembilan bulan ekstra bisa dengan mudah memenuhi pengujian kedua tetapi gagal pada pengujian pertama, yang menjadi percakapan yang sulit dilakukan di loket Madrid dengan dokumen yang belum kedaluwarsa.
 
 Kami sendiri akan memeriksa kedua tanggal sebelum perjalanan ke Eropa, bukan hanya tanggal yang tercetak di bagian bawah.
 
@@ -68,11 +68,11 @@ Kami sendiri akan memeriksa kedua tanggal sebelum perjalanan ke Eropa, bukan han
 
 Di dekat bagian atas halaman data terdapat kode tiga huruf untuk negara penerbit. Lebih ke bawah, biasanya di kolomnya sendiri, terdapat otoritas penerbit: kantor atau instansi yang benar-benar menerbitkan buku paspor tersebut.
 
-Negara penerbit lebih penting daripada yang orang duga. Negara ini menentukan jaringan konsuler mana yang harus Anda hubungi saat paspor hilang atau dicuri.
+Negara penerbit lebih penting daripada yang orang duga. Negara ini umumnya menentukan jaringan konsuler mana yang harus Anda hubungi saat paspor hilang atau dicuri.
 
 Itu jarang menjadi negara tempat Anda kebetulan berada.
 
-Negara ini juga menentukan aturan masuk mana yang berlaku bagi Anda, itulah sebabnya warga negara ganda mempertimbangkan dengan cermat paspor mana yang akan ditunjukkan. Jika Anda ingin versi praktisnya, kami membahasnya dalam [apa yang harus dilakukan saat paspor hilang di luar negeri](https://traveldocumentvault.com/id/blog/lost-passport-abroad/).
+Negara ini juga umumnya menentukan aturan masuk mana yang berlaku bagi Anda, itulah sebabnya warga negara ganda mempertimbangkan dengan cermat paspor mana yang akan ditunjukkan. Jika Anda ingin versi praktisnya, kami membahasnya dalam [apa yang harus dilakukan saat paspor hilang di luar negeri](https://traveldocumentvault.com/id/blog/lost-passport-abroad/).
 
 Kolom otoritas penerbit sebagian besar berguna untuk formulir. Beberapa permohonan ingin kolom ini diisi persis seperti tercetak, sebagian lain menerima nama negaranya saja, dan menyalinnya persis lebih cepat daripada menebak.
 
@@ -88,7 +88,7 @@ Semua ini tidak dramatis dengan sendirinya. Menjadi dramatis ketika boarding pas
 
 Halaman data adalah halaman berlapis kaku yang memuat foto Anda, dan tata letaknya distandarkan secara internasional, bukan diciptakan oleh masing-masing negara. Itulah sebabnya paspor dari mana pun dapat dibaca oleh petugas imigrasi di mana pun, dan begitu Anda bisa membaca satu paspor, Anda bisa membaca semuanya.
 
-Dua baris karakter dan tanda panah di bagian bawah adalah zona yang dapat dibaca mesin. Bagian ini mengulang sebagian informasi dari halaman data di atasnya, dalam format yang dapat dibaca pemindai sekali jalan, tapi tidak semuanya: tanggal kedaluwarsa ada di sana, tanggal penerbitan tidak. Itulah sebabnya kerusakan di bagian itu diperlakukan jauh lebih serius daripada goresan di sampul. Kami membahas letak batas itu dalam [bepergian dengan paspor yang rusak](https://traveldocumentvault.com/id/blog/damaged-passport-travel/).
+Dua baris karakter dan tanda panah di bagian bawah adalah zona yang dapat dibaca mesin. Bagian ini mengulang sebagian informasi dari halaman data di atasnya, dalam format yang dapat dibaca pemindai sekali jalan, tapi tidak semuanya: tanggal kedaluwarsa ada di sana. Periksa paspor Anda sendiri untuk mengetahui informasi apa saja yang diulang di zona ini. Kerusakan di bagian itu diperlakukan jauh lebih serius daripada goresan di sampul. Kami membahas letak batas itu dalam [bepergian dengan paspor yang rusak](https://traveldocumentvault.com/id/blog/damaged-passport-travel/).
 
 Jika label pada halaman data Anda sendiri tidak dalam bahasa Inggris, tata letaknya tetap membantu: kedua tanggal tercetak bersama, dengan format yang sama, dan tanggal kedaluwarsa adalah yang lebih akhir dari keduanya.
 
@@ -108,11 +108,11 @@ Tidak. Tanggal penerbitan adalah saat buku paspor dibuat, sedangkan tanggal keda
 
 ### Apa Arti 'Negara Penerbit' pada Paspor?
 
-Negara penerbit adalah negara yang menerbitkan paspor tersebut, ditampilkan sebagai kode tiga huruf di dekat bagian atas halaman data. Negara ini menentukan kedutaan atau konsulat mana yang dapat membantu Anda jika paspor hilang di luar negeri, dan aturan masuk mana yang berlaku saat Anda menunjukkannya.
+Negara penerbit adalah negara yang menerbitkan paspor tersebut, ditampilkan sebagai kode tiga huruf di dekat bagian atas halaman data. Negara ini umumnya menentukan kedutaan atau konsulat mana yang dapat membantu Anda jika paspor hilang di luar negeri, dan aturan masuk mana yang biasanya berlaku saat Anda menunjukkannya.
 
 ### Apakah Nomor Paspor Saya Berubah Saat Diperpanjang?
 
-Ya. Setiap buku paspor baru memiliki nomor baru. Segala sesuatu yang tercatat pada nomor lama tetap melekat pada nomor lama itu, termasuk visa yang sudah diterbitkan, profil maskapai, dan pemesanan yang dibuat sebelum perpanjangan, sehingga umumnya perlu diperbarui secara terpisah.
+Umumnya, ya. Buku paspor baru biasanya memiliki nomor baru. Segala sesuatu yang tercatat pada nomor lama tetap melekat pada nomor lama itu, termasuk visa yang sudah diterbitkan, profil maskapai, dan pemesanan yang dibuat sebelum perpanjangan, sehingga umumnya perlu diperbarui secara terpisah.
 
 ### Bagaimana Cara Mengetahui Kapan Paspor Saya Kedaluwarsa?
 

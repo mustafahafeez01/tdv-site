@@ -11,9 +11,9 @@ Source: https://traveldocumentvault.com/da/blog/travel-expired-passport-uk/
 ## Vigtigste punkter
 
 - **Absolut regel:** Ingen international rejse med et udløbet pas. Flyselskaber og grænsekontrol vil afvise dig.
-- **Indenrigske undtagelser:** Storbritannien til Irland og Isle of Man kan acceptere alternativ foto-legitimation; kontakt dit flyselskab først.
+- **Indenrigske undtagelser:** Storbritannien til Irland kan acceptere alternativ foto-legitimation; kontakt dit flyselskab først.
 - **Nødfornyelse:** HM Passport Office kører en 1 Day Premium-tjeneste for voksenfornyelser: tidligste tid er 2 dage efter du ansøger, og det nye pas er klar til afhentning 4 timer efter. Tjek det aktuelle gebyr på gov.uk, før du booker.
-- **Rejseforsikring:** De fleste forsikringer ugyldiggør erstatningskrav, hvis dit pas var udløbet under rejsen.
+- **Rejseforsikring:** Forsikringsselskaber afviser ofte erstatningskrav, hvis du rejste uden gyldige dokumenter, så tjek din polices ordlyd.
 - **Hvis du er i udlandet:** Kontakt nærmeste britiske ambassade eller konsulat for at få et nødrejsedokument.
 
 Om et pas, der udløber før hjemrejsedatoen, bliver et problem, afhænger helt af, hvor rejsen går hen. Nogle lande kræver kun, at det er gyldigt på indrejsedagen. Mange kræver tre eller seks måneder derudover.
@@ -24,13 +24,13 @@ Det følgende handler om, hvordan det udspiller sig i praksis: dine begrænsede 
 
 ## Den absolutte regel: ingen international rejse med et udløbet pas
 
-His Majesty's Passport Office er tydelige på dette punkt: dit pas skal være gyldigt på den dag, du rejser – ikke kun ved ankomst, ikke kun for en del af rejsen, men den dag du går om bord på flyet.
+GOV.UK er tydelig på dette punkt: dit pas skal være gyldigt på den dag, du rejser – ikke kun ved ankomst, ikke kun for en del af rejsen, men den dag du går om bord på flyet.
 
 Når du checker ind, kører agenten dit passnummer gennem systemet og ser udløbsdatoen. Hvis den ligger i fortiden, udsteder de ikke et boardingkort, og det gør ingen forskel, om du ankommer hjem dagen efter, det udløber. Det samme sker ved grænsekontrollen på din destination: de ser udløbet, de afviser indrejse.
 
 Denne regel gælder al international rejse, både flyrejser til Europa og færgeoverfarter, uanset om du lige er kommet over udløbsdatoen, eller du har booket flere måneder i forvejen. Skal du vise dit pas ved en hvilken som helst grænse, skal det være gyldigt den dag.
 
-Den eneste undtagelse er et britisk nødrejsedokument, udstedt af udenrigsministeriet, når du allerede er i udlandet i en reel nødsituation, og selv da findes det kun for at få dig hjem – ikke for at tillade yderligere rejse.
+Den eneste undtagelse er et britisk nødrejsedokument, udstedt af udenrigsministeriet, når du allerede er i udlandet i en reel nødsituation, og selv da er det som regel kun gyldigt til én enkelt rejse eller returrejse.
 
 ![Beslutningsdiagram for et udløbet pas: international rejse er markeret ikke tilladt og peger mod at ansøge om akut fornyelse, indenrigsrejse peger mod at tjekke med dit flyselskab og ringe før din rejse, med en note om altid at bekræfte før afrejse](https://traveldocumentvault.com/blog/travel-expired-passport-uk/passport-expiry-decision-tree-da.jpg) De to veje fra et udløbet pas – og ingen af dem fører til afgangsgaten.
 
@@ -72,29 +72,29 @@ Dette er den officielle nødvej for reelle rejsebegrænsninger. HM Passport Offi
 
 Ledige tider er den reelle begrænsning: de bliver hurtigt booket op i sommerferien og skoleferier, og bookingen sker online med tilgængelighed i realtid. Opdager du fredag før en rejse mandag, at dit pas er udløbet, kan det hænde, at der slet ikke er nogen Premiumtider tilbage, og viser dit foretrukne tidspunkt ingen, har du reelt ingen anden mulighed den dag.
 
-Du skal også bruge dit gamle pas for at ansøge, uanset dets udløbsdato, og hvis det er mistet eller stjålet, skal du annullere det hos His Majesty's Passport Office (det kan du gøre på gov.uk), inden du fornyer; en politianmeldelse er generelt kun nødvendig af forsikringsmæssige årsager. Planlæg derefter, hvis dit pas både er beskadiget og udløbet.
+Du skal også bruge dit gamle pas for at ansøge, uanset dets udløbsdato, og hvis det er mistet eller stjålet, skal du annullere det hos His Majesty's Passport Office (det kan du gøre på gov.uk), inden du fornyer. Planlæg derefter, hvis dit pas både er beskadiget og udløbet.
 
 ## Hvad flyselskaber og grænsekontrol rent faktisk tjekker
 
-Flyselskaber bruger Timatic, et IATA-system, der krydstjekker dit passnummer, nationalitet og destination mod indrejsekravene og øjeblikkeligt fortæller indcheckningsagenten, om du må rejse, når de scanner dit pas. Hvis dit pas er udløbet, markerer Timatic det rødt, og agenten kan ikke tilsidesætte denne beslutning, selv hvis du beder om det eller viser et boardingkort fra uger tilbage.
+Flyselskaber bruger Timatic, et IATA-system, der krydstjekker dit passnummer, nationalitet og destination mod indrejsekravene og øjeblikkeligt fortæller indcheckningsagenten, om du må rejse, når de scanner dit pas. Et udløbet pas består ikke tjekket, og en agent vil som regel ikke lade dig gå om bord.
 
-Grænsekontrollen gentager tjekket ved ankomst, nogle gange to gange: én gang når du forlader Storbritannien, og igen når du indrejser i din destination. Et udløbet pas bliver opdaget, uanset hvor forsigtig du er.
+Grænsekontrollen ved din destination tjekker det igen. Et udløbet pas bliver opdaget, uanset hvor forsigtig du er.
 
 Det bliver reelt uklart ved pas, der "snart udløber", men endnu ikke er udløbet: nogle agenter er strikse med 6-månedersreglen for visse destinationer, mens andre ikke er det. Men når passet rent faktisk har passeret udløbsdatoen, er der ikke længere noget at diskutere.
 
 ## De fleste rejseforsikringer dækker ikke et udløbet pas
 
-De fleste rejseforsikringer indeholder en ugyldighedsklausul for udløbne eller ugyldige rejsedokumenter. Forsikringsselskaber kan afvise hele dit erstatningskrav, hvis du rejste med et udløbet pas – formuleringen lyder typisk noget i retning af: "Denne police er ugyldig, hvis forsikringstageren rejste med et ugyldigt eller udløbet rejsedokument."
+Forsikringsselskaber afviser ofte erstatningskrav, hvis du rejste uden gyldige dokumenter, så tjek din polices ordlyd.
 
-Det gælder, uanset om dit pas udløb, før du forlod Storbritannien, eller mens du var i udlandet, og uanset om rejsen var en weekendtur eller en tre måneder lang jordomrejse. Blot én dag over passets udløbsdato kan vælte et ellers gyldigt erstatningskrav.
+Det gælder, uanset om dit pas udløb, før du forlod Storbritannien, eller mens du var i udlandet, og uanset om rejsen var en weekendtur eller en tre måneder lang jordomrejse.
 
 Er dit pas allerede udløbet, og du søger efter, hvad du skal gøre nu, gennemgår [vores tilhørende artikel det trin for trin](https://traveldocumentvault.com/da/blog/passport-expired-what-to-do/). Har du en rejse på vej, og dit pas nærmer sig udløb, er dette øjeblikket til at forny det i stedet for at vente, til det udløber, hvilket betyder, at du betaler for Premiumtjenesten i stedet for standardgebyret. Tjek familiens pas nu, før I booker nogen rejse.
 
 ## Hvis du allerede er i udlandet, og dit pas udløber
 
-Det er det sværeste scenarie at planlægge for, når dit pas udløber, mens du stadig er i udlandet. Udløber det, før du rejser hjem, kan du ikke gå om bord på et fly eller en færge hjem, og du skal kontakte nærmeste britiske ambassade eller konsulat for at få et nødrejsedokument, nogle gange kaldet et ETD eller nødpas, som kun er gyldigt til at komme hjem.
+Det er det sværeste scenarie at planlægge for, når dit pas udløber, mens du stadig er i udlandet. Udløber det, før du rejser hjem, kan du ikke gå om bord på et fly eller en færge hjem, og du skal kontakte nærmeste britiske ambassade eller konsulat for at få et nødrejsedokument, nogle gange kaldet et ETD eller nødpas, som regel er gyldigt til én enkelt rejse eller returrejse gennem højst fem lande.
 
-Processen er langsom og bureaukratisk. Du skal fremvise identifikation og betale gebyret, som fastsættes af Foreign, Commonwealth and Development Office. Behandlingstiden varierer fra ambassade til ambassade og afhænger af, hvor akut din situation er, så spørg konsulatet, hvad du kan forvente, så snart du kontakter dem. Nøddokumentet dækker kun den specifikke rejse tilbage til Storbritannien; det er ikke et turistpas, og det tillader ikke videre rejse.
+Processen er langsom og bureaukratisk. Du skal fremvise identifikation og betale gebyret, som fastsættes af Foreign, Commonwealth and Development Office. Behandlingstiden varierer fra ambassade til ambassade og afhænger af, hvor akut din situation er, så spørg konsulatet, hvad du kan forvente, så snart du kontakter dem.
 
 At sætte påmindelser måneder i forvejen i stedet for at skulle hastes igennem ugen før afgang er det, der forhindrer dette i at ske i første omgang. Udløber dit pas inden for 6 måneder fra din rejse, skal du starte fornyelsesprocessen nu, før du binder dig til rejsedatoer.
 
@@ -102,7 +102,7 @@ At sætte påmindelser måneder i forvejen i stedet for at skulle hastes igennem
 
 Rejsende forveksler ofte deres pas' egen gyldighedsdato med destinationsspecifikke regler. Dit pas er gyldigt frem til den dato, der står trykt i det – det er udgangspunktet. Men nogle lande kræver, at det forbliver gyldigt i en bestemt periode ud over din ankomstdato, og det er et separat krav fra selve udløbet.
 
-[Mange lande håndhæver en seksmånedersregel, der kræver, at dit pas forbliver gyldigt i mindst seks måneder efter din planlagte afrejsedato](https://traveldocumentvault.com/da/blog/passport-expiry-6-month-rule/), mens nogle håndhæver tre måneder og andre en måned. Ingen af disse regler tillader rejse med et udløbet pas, fordi de sætter en strengere standard, hvor fornyelse skal ske endnu tidligere end passets eget udløb.
+[Mange lande håndhæver en seksmånedersregel, som typisk kræver seks måneders gyldighed på ankomstdagen](https://traveldocumentvault.com/da/blog/passport-expiry-6-month-rule/), mens Schengen-området kræver tre måneder efter den dato, du rejser ud. Ingen af disse regler tillader rejse med et udløbet pas, fordi de sætter en strengere standard, hvor fornyelse skal ske endnu tidligere end passets eget udløb.
 
 Antag ikke, at du kan rejse "fordi du kommer hjem, før det udløber": dit pas skal være gyldigt den dag, du går om bord på din udrejse, og udløber det dagen efter, du kommer hjem, kan du stadig ikke rejse.
 
@@ -114,11 +114,11 @@ Den enkleste måde at undgå alt dette på: tag dit pas frem i dag, og tjek dato
 
 ### Kan jeg rejse med et udløbet pas, hvis jeg har et visum?
 
-Nej. Dit visum er knyttet til dit pas og kun gyldigt, hvis selve passet er gyldigt. Er dit pas udløbet, bliver visummet ugyldigt, uanset dets egen udløbsdato. Du kan ikke bruge et udløbet pas, selv med et gyldigt visum.
+Nej. Et udløbet pas kan ikke bruges til at rejse, heller ikke med et gyldigt visum i. Spørg det udstedende land, om visummet kan flyttes over i et nyt pas.
 
 ### Hvad med EU-rejser, når ETIAS bliver lanceret?
 
-Ind- og udrejsesystemet (EES), som allerede er ved at blive indført, og ETIAS, som forventes at følge efter, vil digitalisere indrejseregistreringer. Det ændrer dog ikke kravet om pasgyldighed. Du skal stadig have et gyldigt pas for at rejse ind i Schengenområdet eller ethvert EU-land. Et udløbet pas afvises, uanset din ETIAS-status.
+Ind- og udrejsesystemet (EES) har været fuldt i drift siden den 10. april 2026, og ETIAS er endnu ikke startet. Ingen af dem ændrer kravet om pasgyldighed. Du skal stadig have et gyldigt pas for at rejse ind i Schengenområdet eller ethvert EU-land. Et udløbet pas afvises, uanset din ETIAS-status.
 
 ### Kan jeg ansøge om nødfornyelse, mens jeg er i udlandet?
 

@@ -50,7 +50,7 @@ Les contrôles ne portent pas non plus sur les mêmes éléments. Une compagnie 
 
 ## Si vous voyagez volontairement en aller simple
 
-Un billet aller simple n'est pas un problème en soi. Les règles de continuation de voyage sont généralement écrites pour les visiteurs. Si vous vous installez à l'étranger avec un visa qui vous permet d'y vivre ou d'y travailler, ce visa remplit dans la plupart des cas le rôle qu'aurait joué un billet de continuation. Gardez-le à portée de main à l'enregistrement, avec toute lettre qui l'accompagnait.
+Un billet aller simple n'est pas un problème en soi. Les règles de continuation de voyage sont généralement écrites pour les visiteurs. Si vous vous installez à l'étranger avec un visa qui vous permet d'y vivre ou d'y travailler, ce visa peut répondre à cette exigence : vérifiez les règles de votre destination. Gardez-le à portée de main à l'enregistrement, avec toute lettre qui l'accompagnait.
 
 Si vous êtes en visite avec un plan ouvert, les options honnêtes sont les plus simples. Réservez le trajet de continuation que vous comptez réellement effectuer. Si vos dates ne sont pas fixées, un tarif modifiable garde un vrai plan flexible sans en faire une fiction.
 
@@ -60,9 +60,9 @@ Ce que nous déconseillons, c'est un billet que vous n'avez jamais l'intention d
 
 Si un agent vous la demande et que vous n'avez rien à montrer, rappelez-vous qu'il applique les règles d'entrée de la destination. La réponse la plus utile consiste généralement à lui donner quelque chose que ces règles reconnaissent.
 
-En pratique, cela signifie souvent réserver la suite du voyage sur place, sur votre téléphone ou au comptoir de la compagnie. Cela peut coûter plus cher au dernier moment, ce qui est la principale raison de s'en occuper la veille. Si une agence de voyage a réservé la suite de votre voyage, sa confirmation écrite peut aider là où la destination l'accepte.
+En pratique, cela signifie souvent réserver la suite du voyage sur place, sur votre téléphone ou au comptoir de la compagnie. Cela peut coûter plus cher au dernier moment, ce qui est la principale raison de s'en occuper la veille. Si une agence de voyage a réservé la suite de votre voyage, consultez les indications officielles de votre destination pour savoir si sa confirmation est acceptée.
 
-La décision au comptoir revient à la compagnie aérienne. Si vous ne pouvez pas la régler sur place, il vous faudra réserver à nouveau une fois en possession de ce que la destination demande.
+La décision au comptoir revient généralement à la compagnie aérienne. Si vous ne pouvez pas la régler sur place, il vous faudra réserver à nouveau une fois en possession de ce que la destination demande.
 
 ## Garder la réservation accessible au moment voulu
 
@@ -74,7 +74,7 @@ Gardez une copie hors ligne de la confirmation : un PDF, une capture d'écran mo
 
 ### Quelle preuve de continuation de voyage une compagnie aérienne accepte-t-elle réellement ?
 
-Le plus souvent, un billet confirmé de sortie de votre destination, soit vers votre domicile, soit vers un pays tiers où vous êtes autorisé à entrer. Certaines destinations acceptent aussi d'autres preuves, comme une confirmation écrite d'une agence de voyage attestant que la suite du voyage est réservée et payée. La compagnie aérienne applique les règles de la destination, donc vérifiez-les pour votre trajet.
+Le plus souvent, un billet confirmé de sortie de votre destination, soit vers votre domicile, soit vers un pays tiers où vous êtes autorisé à entrer. Certaines destinations acceptent aussi d'autres preuves : consultez leurs indications officielles. La compagnie aérienne applique les règles de la destination, donc vérifiez-les pour votre trajet.
 
 ### Puis-je utiliser une réservation d'hôtel comme preuve de continuation de voyage ?
 
@@ -82,11 +82,11 @@ Une réservation d'hôtel ne suffit généralement pas à elle seule. Elle montr
 
 ### Que faire si je n'ai pas de preuve de continuation de voyage ?
 
-Si on vous la demande à l'enregistrement et que vous n'avez rien à montrer, la solution habituelle consiste à réserver la suite du voyage sur place, immédiatement. Cela peut coûter plus cher au dernier moment. La décision de vous laisser embarquer revient à la compagnie aérienne, donc mieux vaut régler cela avant d'arriver à l'aéroport.
+Si on vous la demande à l'enregistrement et que vous n'avez rien à montrer, la solution habituelle consiste à réserver la suite du voyage sur place, immédiatement. Cela peut coûter plus cher au dernier moment. La décision de vous laisser embarquer revient généralement à la compagnie aérienne, donc mieux vaut régler cela avant d'arriver à l'aéroport.
 
 ### Un billet aller simple pose-t-il un problème ?
 
-Un billet aller simple n'est pas un problème en soi, car les règles de continuation de voyage visent généralement les visiteurs. Si vous vous installez avec un visa qui vous permet de vivre ou de travailler dans le pays, ce visa répond habituellement à la question. Si vous êtes en visite, un voyage de continuation réservé que vous comptez effectuer est la réponse la plus simple.
+Un billet aller simple n'est pas un problème en soi, car les règles de continuation de voyage visent généralement les visiteurs. Si vous vous installez avec un visa qui vous permet de vivre ou de travailler dans le pays, ce visa peut répondre à cette exigence : vérifiez les règles de votre destination. Si vous êtes en visite, un voyage de continuation réservé que vous comptez effectuer est la réponse la plus simple.
 
 ### Ai-je besoin d'une preuve de continuation de voyage pour la frontière ?
 

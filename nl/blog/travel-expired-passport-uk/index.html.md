@@ -11,9 +11,9 @@ Source: https://traveldocumentvault.com/nl/blog/travel-expired-passport-uk/
 ## Belangrijkste punten
 
 - **Absolute regel:** geen internationale reizen met een verlopen paspoort. Luchtvaartmaatschappijen en grensbewaking wijzen je af.
-- **Binnenlandse uitzonderingen:** van het VK naar Ierland en het Isle of Man kan alternatieve foto-ID worden geaccepteerd; neem eerst contact op met je luchtvaartmaatschappij.
+- **Binnenlandse uitzonderingen:** van het VK naar Ierland kan alternatieve foto-ID worden geaccepteerd; neem eerst contact op met je luchtvaartmaatschappij.
 - **Noodverlenging:** His Majesty's Passport Office biedt een 1 Day Premium-service, uitsluitend voor verlengingen van volwassenen: de vroegst mogelijke afspraak is 2 dagen na je aanvraag, en je nieuwe paspoort is 4 uur na de afspraak klaar om af te halen. Controleer de actuele kosten op gov.uk voordat je boekt.
-- **Reisverzekering:** de meeste polissen maken claims ongeldig als je paspoort tijdens de reis verlopen was.
+- **Reisverzekering:** verzekeraars wijzen claims vaak af als je zonder geldige documenten reisde, dus check je polisvoorwaarden.
 - **Als je in het buitenland bent:** neem contact op met de dichtstbijzijnde Britse ambassade of het consulaat voor een noodreisdocument.
 
 Of een paspoort dat vóór de terugreisdatum verloopt een probleem wordt, hangt volledig af van waar de reis heen gaat. Sommige landen vragen alleen dat het geldig is op de dag van binnenkomst. Veel landen eisen daarbovenop drie of zes maanden.
@@ -24,13 +24,13 @@ Hierna volgt hoe dit er in de praktijk uitziet: je beperkte mogelijkheden, waaro
 
 ## De absolute regel: geen internationale reizen met een verlopen paspoort
 
-His Majesty's Passport Office is hier duidelijk over: je paspoort moet geldig zijn op de dag dat je reist – niet alleen bij aankomst, niet alleen voor een deel van de reis, maar op de dag dat je aan boord van het vliegtuig gaat.
+GOV.UK is hier duidelijk over: je paspoort moet geldig zijn op de dag dat je reist – niet alleen bij aankomst, niet alleen voor een deel van de reis, maar op de dag dat je aan boord van het vliegtuig gaat.
 
 Bij het inchecken voert de medewerker je paspoortnummer in het systeem in en ziet de vervaldatum. Ligt die in het verleden, dan geven ze geen instapkaart af, en het maakt niet uit of je de dag na het verlopen weer thuis bent. Hetzelfde gebeurt bij de grensbewaking op je bestemming: ze zien de vervaldatum, ze weigeren toegang.
 
 Deze regel geldt voor alle internationale reizen, zowel vluchten naar Europa als veerbootovertochten, of je nu net over de vervaldatum heen bent of maanden van tevoren hebt geboekt. Moet je je paspoort tonen bij een grens, dan moet het op die dag geldig zijn.
 
-De enige uitzondering is een Brits noodreisdocument, uitgegeven door het ministerie van Buitenlandse Zaken wanneer je al in het buitenland bent in een echte noodsituatie, en zelfs dan bestaat het alleen om je thuis te krijgen – niet om verdere reizen mogelijk te maken.
+De enige uitzondering is een Brits noodreisdocument, uitgegeven door het ministerie van Buitenlandse Zaken wanneer je al in het buitenland bent in een echte noodsituatie, en zelfs dan is het meestal maar geldig voor één enkele reis of retour.
 
 ![Beslisboom voor een verlopen paspoort: internationale reizen zijn niet toegestaan en verwijzen naar het aanvragen van een spoedverlenging, binnenlandse reizen verwijzen naar overleg met je luchtvaartmaatschappij en bellen voor vertrek, met de aantekening om dit altijd voor vertrek te controleren](https://traveldocumentvault.com/blog/travel-expired-passport-uk/passport-expiry-decision-tree-nl.jpg) De twee paden vanaf een verlopen paspoort - en geen van beide loopt via de vertrekgate.
 
@@ -72,29 +72,29 @@ Dit is de officiële noodroute voor echte reisbeperkingen. De officiële richtli
 
 Afspraakplekken vormen de echte beperking: ze raken snel volgeboekt tijdens de zomervakantie en schoolvakanties, en het boeken gebeurt online met actuele beschikbaarheid. Ontdek je op een vrijdag voorafgaand aan een reis op maandag dat je paspoort verlopen is, dan zijn er misschien helemaal geen Premium-plekken meer, en als je gewenste datum er geen toont, heb je die dag echt geen andere optie.
 
-Je hebt ook je oude paspoort nodig om aan te vragen, ongeacht de vervaldatum, en als het verloren of gestolen is, moet je het annuleren bij His Majesty's Passport Office (dat kun je doen op gov.uk) voordat je verlengt; een politierapport is over het algemeen alleen nodig voor verzekeringsdoeleinden. Houd hier rekening mee als je paspoort zowel beschadigd als verlopen is.
+Je hebt ook je oude paspoort nodig om aan te vragen, ongeacht de vervaldatum, en als het verloren of gestolen is, moet je het annuleren bij His Majesty's Passport Office (dat kun je doen op gov.uk) voordat je verlengt. Houd hier rekening mee als je paspoort zowel beschadigd als verlopen is.
 
 ## Wat luchtvaartmaatschappijen en grensbewaking daadwerkelijk controleren
 
-Luchtvaartmaatschappijen gebruiken Timatic, een IATA-systeem dat je paspoortnummer, nationaliteit en bestemming kruist met de inreisvereisten en de incheckmedewerker direct vertelt of je mag reizen zodra ze je paspoort scannen. Als je paspoort verlopen is, markeert Timatic dit rood, en de medewerker kan die beslissing niet overrulen, ook niet als je smeekt of een instapkaart van weken geleden laat zien.
+Luchtvaartmaatschappijen gebruiken Timatic, een IATA-systeem dat je paspoortnummer, nationaliteit en bestemming kruist met de inreisvereisten en de incheckmedewerker direct vertelt of je mag reizen zodra ze je paspoort scannen. Een verlopen paspoort faalt die check, en een medewerker laat je doorgaans niet aan boord.
 
-De grensbewaking herhaalt de controle bij aankomst, soms zelfs twee keer: één keer wanneer je het VK verlaat en opnieuw wanneer je je bestemming binnenkomt. Een verlopen paspoort wordt opgemerkt, hoe voorzichtig je ook bent.
+De grensbewaking op je bestemming controleert het opnieuw. Een verlopen paspoort wordt opgemerkt, hoe voorzichtig je ook bent.
 
 Echt vaag wordt het bij paspoorten die "binnenkort verlopen" maar nog niet verlopen zijn: sommige medewerkers zijn streng met de 6-maandenregel voor bepaalde bestemmingen en andere niet. Zodra je paspoort daadwerkelijk de vervaldatum is gepasseerd, valt er echter niets meer te bespreken.
 
 ## De meeste reisverzekeringen dekken een verlopen paspoort niet
 
-De meeste reisverzekeringen bevatten een clausule die de dekking ongeldig maakt bij verlopen of ongeldige reisdocumenten. Verzekeraars kunnen je hele claim afwijzen als je met een verlopen paspoort reisde – de formulering luidt doorgaans iets als: "Deze polis is ongeldig als de verzekerde reisde met een ongeldig of verlopen reisdocument."
+Verzekeraars wijzen claims vaak af als je zonder geldige documenten reisde, dus check je polisvoorwaarden.
 
-Dit geldt of je paspoort nu verliep voordat je het VK verliet of terwijl je in het buitenland was, en of de reis nu een weekendje weg was of een reis van drie maanden de wereld rond. Al één dag over de vervaldatum van je paspoort kan een verder geldige claim onderuithalen.
+Dit geldt of je paspoort nu verliep voordat je het VK verliet of terwijl je in het buitenland was, en of de reis nu een weekendje weg was of een reis van drie maanden de wereld rond.
 
 Is je paspoort al verlopen en zoek je uit wat je nu moet doen, dan behandelt [ons vervolgartikel dat stap voor stap](https://traveldocumentvault.com/nl/blog/passport-expired-what-to-do/). Heb je een reis gepland en nadert de vervaldatum van je paspoort, dan is dit het moment om te verlengen in plaats van te wachten tot het verloopt, wat betekent dat je voor de Premium-service betaalt in plaats van het standaardtarief. Controleer nu de paspoorten van je gezin voordat je een reis boekt.
 
 ## Als je al in het buitenland bent en je paspoort verloopt
 
-Het lastigste scenario om je op voor te bereiden is dat je paspoort verloopt terwijl je nog in het buitenland bent. Verloopt het voordat je terugkeert, dan kun je niet aan boord gaan van een vlucht of veerboot naar huis, en moet je contact opnemen met de dichtstbijzijnde Britse ambassade of het consulaat voor een noodreisdocument, ook wel een ETD of noodpaspoort genoemd, dat alleen geldig is om thuis te komen.
+Het lastigste scenario om je op voor te bereiden is dat je paspoort verloopt terwijl je nog in het buitenland bent. Verloopt het voordat je terugkeert, dan kun je niet aan boord gaan van een vlucht of veerboot naar huis, en moet je contact opnemen met de dichtstbijzijnde Britse ambassade of het consulaat voor een noodreisdocument, ook wel een ETD of noodpaspoort genoemd, dat meestal geldig is voor één enkele reis of retour, door maximaal vijf landen.
 
-Het proces is traag en bureaucratisch. Je moet identiteitsbewijs overleggen en de kosten betalen die worden vastgesteld door de Foreign, Commonwealth and Development Office. De verwerkingstijd verschilt per ambassade en hangt af van hoe urgent je situatie is, dus vraag bij het consulaat na wat je kunt verwachten zodra je contact opneemt. Het nooddocument dekt alleen de specifieke reis terug naar het VK; het is geen toeristenpaspoort en staat geen verdere reizen toe.
+Het proces is traag en bureaucratisch. Je moet identiteitsbewijs overleggen en de kosten betalen die worden vastgesteld door de Foreign, Commonwealth and Development Office. De verwerkingstijd verschilt per ambassade en hangt af van hoe urgent je situatie is, dus vraag bij het consulaat na wat je kunt verwachten zodra je contact opneemt.
 
 Herinneringen maanden van tevoren instellen, in plaats van de week voor je vlucht in paniek te raken, is wat dit in eerste instantie voorkomt. Verloopt je paspoort binnen 6 maanden na je reis, begin dan nu met het verlengingsproces voordat je je vastlegt op reisdata.
 
@@ -102,7 +102,7 @@ Herinneringen maanden van tevoren instellen, in plaats van de week voor je vluch
 
 Reizigers verwarren de eigen geldigheidsdatum van hun paspoort vaak met bestemmingsspecifieke regels. Je paspoort is geldig tot de datum die erin staat afgedrukt – dat is de basis. Maar sommige landen eisen dat het geldig blijft gedurende een bepaalde periode na je aankomstdatum, en dat is een aparte eis, los van de vervaldatum zelf.
 
-[Veel landen hanteren een zesmaandenregel die vereist dat je paspoort minstens zes maanden na je geplande vertrekdatum geldig blijft](https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/), terwijl sommige drie maanden hanteren en andere één maand. Geen van deze regels staat reizen met een verlopen paspoort toe, omdat ze een strengere norm stellen waarbij verlenging nog eerder moet plaatsvinden dan de eigenlijke vervaldatum van het paspoort.
+[Veel landen hanteren een zesmaandenregel, waarbij meestal zes maanden geldigheid op de dag van aankomst wordt gevraagd](https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/), terwijl het Schengengebied drie maanden na de datum van vertrek vraagt. Geen van deze regels staat reizen met een verlopen paspoort toe, omdat ze een strengere norm stellen waarbij verlenging nog eerder moet plaatsvinden dan de eigenlijke vervaldatum van het paspoort.
 
 Ga er niet van uit dat je kunt reizen "omdat je terugkomt voordat het verloopt": je paspoort moet geldig zijn op de dag dat je aan boord gaat van je uitgaande vlucht, en verloopt het de dag nadat je terugkeert, dan kun je nog steeds niet reizen.
 
@@ -114,11 +114,11 @@ De eenvoudigste manier om dit allemaal te voorkomen: haal vandaag je paspoort te
 
 ### Kan ik reizen met een verlopen paspoort als ik een visum heb?
 
-Nee. Je visum zit vast aan je paspoort en is alleen geldig als het paspoort zelf geldig is. Is je paspoort verlopen, dan wordt het visum ongeldig, ongeacht de eigen vervaldatum ervan. Je kunt geen verlopen paspoort gebruiken, zelfs niet met een geldig visum.
+Nee. Een verlopen paspoort kan niet worden gebruikt om te reizen, zelfs niet met een geldig visum erin. Vraag bij het land dat het visum heeft afgegeven hoe je het naar een nieuw paspoort kunt overzetten.
 
 ### Wat gebeurt er met reizen naar de EU zodra ETIAS wordt gelanceerd?
 
-Het inreis-uitreissysteem (EES), dat al wordt ingevoerd, en ETIAS, dat naar verwachting zal volgen, zullen de inreisregistratie digitaliseren. Dit verandert echter niets aan de vereiste geldigheid van je paspoort. Je hebt nog steeds een geldig paspoort nodig om het Schengengebied of een EU-land binnen te komen. Een verlopen paspoort wordt afgewezen, ongeacht je ETIAS-status.
+Het inreis-uitreissysteem (EES) is sinds 10 april 2026 volledig operationeel, en ETIAS is nog niet gestart. Geen van beide verandert iets aan de vereiste geldigheid van je paspoort. Je hebt nog steeds een geldig paspoort nodig om het Schengengebied of een EU-land binnen te komen. Een verlopen paspoort wordt afgewezen, ongeacht je ETIAS-status.
 
 ### Kan ik een noodverlenging aanvragen terwijl ik in het buitenland ben?
 

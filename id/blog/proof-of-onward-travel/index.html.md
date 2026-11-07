@@ -50,7 +50,7 @@ Kedua pemeriksaan itu juga mencakup hal yang berbeda. Maskapai yang menerima tik
 
 ## Jika Anda Sengaja Bepergian dengan Tiket Sekali Jalan
 
-Tiket sekali jalan bukan masalah tersendiri. Aturan perjalanan lanjutan umumnya ditulis untuk pengunjung. Jika Anda pindah ke luar negeri dengan visa yang memungkinkan Anda tinggal atau bekerja di sana, visa itu dalam sebagian besar kasus sudah menggantikan fungsi tiket lanjutan. Siapkan visa itu saat check-in, beserta surat pendukung apa pun yang menyertainya.
+Tiket sekali jalan bukan masalah tersendiri. Aturan perjalanan lanjutan umumnya ditulis untuk pengunjung. Jika Anda pindah ke luar negeri dengan visa yang memungkinkan Anda tinggal atau bekerja di sana, visa itu mungkin sudah memenuhi ketentuan ini, jadi periksa aturan negara tujuan. Siapkan visa itu saat check-in, beserta surat pendukung apa pun yang menyertainya.
 
 Jika Anda berkunjung dengan rencana tanpa batas waktu pasti, pilihan paling jujur adalah yang paling sederhana. Pesan perjalanan lanjutan yang memang Anda rencanakan untuk diambil. Jika tanggal Anda belum pasti, tiket dengan opsi ubah tanggal membuat rencana nyata tetap fleksibel tanpa mengubahnya menjadi fiksi.
 
@@ -60,9 +60,9 @@ Yang akan kami hindari adalah tiket yang tidak pernah Anda niatkan untuk digunak
 
 Jika petugas bertanya dan Anda tidak memiliki apa pun untuk ditunjukkan, ingat bahwa mereka bekerja berdasarkan aturan masuk negara tujuan. Respons yang paling berguna biasanya adalah memberi mereka sesuatu yang diakui oleh aturan tersebut.
 
-Dalam praktiknya, itu sering berarti memesan perjalanan lanjutan di tempat, lewat ponsel Anda atau di meja maskapai. Biayanya bisa lebih mahal karena mendadak, yang menjadi alasan utama untuk mengurusnya malam sebelumnya. Jika agen perjalanan memesankan perjalanan lanjutan Anda, konfirmasi tertulis mereka bisa membantu di tempat yang menerimanya.
+Dalam praktiknya, itu sering berarti memesan perjalanan lanjutan di tempat, lewat ponsel Anda atau di meja maskapai. Biayanya bisa lebih mahal karena mendadak, yang menjadi alasan utama untuk mengurusnya malam sebelumnya. Jika agen perjalanan memesankan perjalanan lanjutan Anda, periksa panduan resmi negara tujuan untuk memastikan apakah konfirmasi dari agen diterima.
 
-Keputusan di meja check-in ada di tangan maskapai. Jika tidak dapat diselesaikan di sana, Anda perlu memesan ulang setelah memiliki apa yang diminta oleh negara tujuan.
+Keputusan di meja check-in biasanya ada di tangan maskapai. Jika tidak dapat diselesaikan di sana, Anda perlu memesan ulang setelah memiliki apa yang diminta oleh negara tujuan.
 
 ## Menjaga Pemesanan Tetap Dapat Diakses Saat Anda Membutuhkannya
 
@@ -74,7 +74,7 @@ Simpan salinan offline dari konfirmasinya: PDF, tangkapan layar yang menunjukkan
 
 ### Bukti perjalanan lanjutan seperti apa yang sebenarnya diterima maskapai?
 
-Yang paling umum, tiket terkonfirmasi untuk keluar dari negara tujuan Anda, baik pulang ke rumah maupun ke negara ketiga yang boleh Anda masuki. Beberapa negara tujuan juga menerima bukti lain, seperti konfirmasi tertulis dari agen perjalanan bahwa perjalanan lanjutan sudah dipesan dan dibayar. Maskapai menerapkan aturan negara tujuan, jadi periksa aturan itu untuk perjalanan Anda.
+Yang paling umum, tiket terkonfirmasi untuk keluar dari negara tujuan Anda, baik pulang ke rumah maupun ke negara ketiga yang boleh Anda masuki. Beberapa negara tujuan juga menerima bukti lain, jadi periksa panduan resmi negara tujuan Anda. Maskapai menerapkan aturan negara tujuan, jadi periksa aturan itu untuk perjalanan Anda.
 
 ### Bisakah saya menggunakan reservasi hotel sebagai bukti perjalanan lanjutan?
 
@@ -82,11 +82,11 @@ Reservasi hotel biasanya tidak cukup dengan sendirinya. Dokumen itu menunjukkan 
 
 ### Bagaimana jika saya tidak memiliki bukti perjalanan lanjutan?
 
-Jika Anda ditanya saat check-in dan tidak memiliki apa pun untuk ditunjukkan, solusi yang biasa adalah memesan perjalanan lanjutan di tempat. Ini bisa lebih mahal karena mendadak. Keputusan untuk mengizinkan Anda naik pesawat ada di tangan maskapai, sehingga lebih baik mengurusnya sebelum Anda tiba di bandara.
+Jika Anda ditanya saat check-in dan tidak memiliki apa pun untuk ditunjukkan, solusi yang biasa adalah memesan perjalanan lanjutan di tempat. Ini bisa lebih mahal karena mendadak. Keputusan untuk mengizinkan Anda naik pesawat biasanya ada di tangan maskapai, sehingga lebih baik mengurusnya sebelum Anda tiba di bandara.
 
 ### Apakah tiket sekali jalan menjadi masalah?
 
-Tiket sekali jalan bukan masalah dengan sendirinya, karena aturan perjalanan lanjutan umumnya ditujukan untuk pengunjung. Jika Anda pindah dengan visa yang memungkinkan Anda tinggal atau bekerja di negara tersebut, visa itu biasanya sudah menjawab pertanyaan ini. Jika Anda sekadar berkunjung, perjalanan lanjutan yang sudah dipesan dan memang Anda rencanakan untuk diambil adalah jawaban paling sederhana.
+Tiket sekali jalan bukan masalah dengan sendirinya, karena aturan perjalanan lanjutan umumnya ditujukan untuk pengunjung. Jika Anda pindah dengan visa yang memungkinkan Anda tinggal atau bekerja di negara tersebut, visa itu mungkin sudah memenuhi ketentuan ini, jadi periksa aturan negara tujuan. Jika Anda sekadar berkunjung, perjalanan lanjutan yang sudah dipesan dan memang Anda rencanakan untuk diambil adalah jawaban paling sederhana.
 
 ### Apakah saya memerlukan bukti perjalanan lanjutan untuk perbatasan?
 

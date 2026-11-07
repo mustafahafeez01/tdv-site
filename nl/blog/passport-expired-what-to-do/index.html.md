@@ -11,9 +11,9 @@ Source: https://traveldocumentvault.com/nl/blog/passport-expired-what-to-do/
 ## Belangrijkste punten
 
 - Er zijn twee verschillende situaties: ontdekken dat je paspoort verlopen is **thuis, voor een reis**, en het ontdekken **op het vliegveld**. De stappen verschillen per situatie.
-- Je kunt niet internationaal vliegen met een verlopen paspoort. Geen uitzonderingen.
-- In het Verenigd Koninkrijk bestaat een versnelde Premium-paspoortservice voor oprechte noodgevallen, te boeken via gov.uk. In de Verenigde Staten zijn spoedafspraken beschikbaar via het State Department voor dringende reizen.
-- Op het vliegveld: neem eerst contact op met je luchtvaartmaatschappij – sommige boeken kosteloos om bij oprechte documentnoodsituaties.
+- Je kunt doorgaans niet internationaal vliegen met een verlopen paspoort.
+- In het Verenigd Koninkrijk bestaat een versnelde Premium-paspoortservice voor oprechte noodgevallen, te boeken via gov.uk. Kijk voor de Verenigde Staten op travel.state.gov voor opties bij spoedreizen.
+- Op het vliegveld: neem eerst contact op met je luchtvaartmaatschappij – vraag of ze je zonder omboekingskosten kunnen omboeken.
 - De oplossing voor de toekomst is een vervalherinnering op 12 maanden, niet 6. Dat geeft je genoeg tijd om te vernieuwen met standaardbehandeling.
 - Verval is niet het enige paspoortprobleem waardoor reizigers geweigerd worden. Schade, naamverschillen, ontbrekende handtekeningen en onvoldoende resterende geldigheid op de bestemming leiden tot hetzelfde resultaat.
 
@@ -30,9 +30,9 @@ Hoe dringend je moet handelen, bepaalt wat je moet doen:
 - **Ruim de tijd voor vertrek:** vraag online een standaardverlenging aan via de website van je paspoortinstantie – GOV.UK voor het VK, travel.state.gov voor de VS.
 - **Je reis komt dichterbij:** vraag direct aan en betaal voor spoedbehandeling. Zowel het VK als de VS bieden online een snellere betaalde service, en beide publiceren hun actuele doorlooptijd.
 - **Je reis komt echt dichtbij:** bel rechtstreeks met je paspoortinstantie in plaats van alleen op de website te vertrouwen – de adviestelefoon van het HM Passport Office in het VK, of het US National Passport Information Center in de VS.
-- **Je reis is op handen:** vraag naar een spoedafspraak en neem bewijs van je reisdata mee. Het VK's 1 Day Premium-service (alleen voor verlengingen van volwassenen) biedt afspraken vanaf 2 dagen na je aanvraag, met het paspoort klaar om af te halen 4 uur na je afspraak, en de VS biedt afspraken bij regionale paspoortkantoren.
+- **Je reis is op handen:** vraag naar een spoedafspraak en neem bewijs van je reisdata mee. Het VK's 1 Day Premium-service (alleen voor verlengingen van volwassenen) biedt afspraken vanaf 2 dagen na je aanvraag, met het paspoort klaar om af te halen 4 uur na je afspraak, en de VS publiceert de opties bij spoedreizen op travel.state.gov.
 
-Alle grote paspoortinstanties houden spoedafspraken achter de hand die niet online zichtbaar zijn. Als je tijdlijn krap is, **zouden wij altijd bellen in plaats van alleen op de website te vertrouwen.**
+Als je tijdlijn krap is, **zouden wij altijd bellen in plaats van alleen op de website te vertrouwen.**
 
 ## Scenario B: je ontdekte het op het vliegveld
 
@@ -40,9 +40,9 @@ Dit scenario komt vaker voor dan je zou denken, en de stappen zijn niet vanzelfs
 
 **Stap 1: blijf kalm en loop weg bij de rij.** Je vliegt niet mee met deze vlucht, en hoe sneller je dat accepteert, hoe sneller je aan een oplossing kunt werken.
 
-**Stap 2: ga meteen naar de balie van de luchtvaartmaatschappij.** Verlaat het vliegveld niet – praat rechtstreeks met de luchtvaartmaatschappij en leg de situatie uit. Sommige maatschappijen boeken kosteloos om bij oprechte documentnoodsituaties – niet allemaal, maar het is de moeite van het vragen waard. Vraag om schriftelijke bevestiging als ze akkoord gaan.
+**Stap 2: ga meteen naar de balie van de luchtvaartmaatschappij.** Verlaat het vliegveld niet – praat rechtstreeks met de luchtvaartmaatschappij en leg de situatie uit. Het beleid verschilt per maatschappij, dus vraag of ze je zonder omboekingskosten kunnen omboeken. Vraag om schriftelijke bevestiging als ze akkoord gaan.
 
-**Stap 3: controleer of een binnenlandse vlucht mogelijk is.** Een verlopen paspoort wordt in sommige landen nog geaccepteerd als identiteitsbewijs voor binnenlandse vluchten, al is dat niet gegarandeerd. Als je eindbestemming binnenlands bereikbaar is vanaf een dichterbij gelegen stad, kan dit een optie zijn terwijl je het paspoort regelt. Britse reizigers kunnen het beste lezen [wat een verlopen paspoort betekent voor reizen in het Verenigd Koninkrijk](https://traveldocumentvault.com/nl/blog/travel-expired-passport-uk/), want de regels verschillen per route.
+**Stap 3: controleer of een binnenlandse vlucht mogelijk is.** Sommige luchtvaartmaatschappijen accepteren voor binnenlandse vluchten mogelijk een ander identiteitsbewijs met foto. Vraag dit bij je maatschappij na. Als je eindbestemming binnenlands bereikbaar is vanaf een dichterbij gelegen stad, kan dit een optie zijn terwijl je het paspoort regelt. Britse reizigers kunnen het beste lezen [wat een verlopen paspoort betekent voor reizen in het Verenigd Koninkrijk](https://traveldocumentvault.com/nl/blog/travel-expired-passport-uk/), want de regels verschillen per route.
 
 **Stap 4: neem telefonisch contact op met je paspoortinstantie.** Leg je situatie uit. Bel in het VK de adviestelefoon van het HM Passport Office en vraag naar de eerst beschikbare afspraak bij het dichtstbijzijnde paspoortkantoor. Bel in de VS het US National Passport Information Center en vraag naar spoedafspraken bij het dichtstbijzijnde regionale paspoortkantoor. Vraag specifiek naar spoedopties, want snellere afspraken staan vaak niet op de website.
 
@@ -60,11 +60,11 @@ GOV.UK zegt dat je moet verlengen voordat je kunt reizen als je paspoort is verl
 
 ### VS: verlenging werkt binnen 15 jaar na afgifte
 
-Volgens USA.gov kun je een verlopen paspoort alleen verlengen als het **binnen de laatste 15 jaar is afgegeven**. Je kunt ook geen paspoort verlengen dat vóór je 16e verjaardag is afgegeven, dat beschadigd, verloren of gestolen is, of dat op een vorige naam staat zonder een juridisch document dat de naamswijziging bewijst. Is een van deze van toepassing, dan vraag je persoonlijk een nieuw paspoort aan met formulier DS-11.
+De VS heeft eigen voorwaarden voor het verlengen van een verlopen paspoort, waaronder een grens voor **hoe lang geleden het is afgegeven**. Controleer de verlengingspagina op travel.state.gov, die ook uitlegt wanneer je in plaats daarvan persoonlijk moet aanvragen.
 
 ### Canada: een verlopen paspoort kan online worden verlengd
 
-De Canadese overheid laat je verlengen als je laatste paspoort een volwassenenpaspoort was, afgegeven toen je minstens 16 jaar was. Het moet ook binnen 15 jaar vóór je aanvraagdatum zijn afgegeven en 5 of 10 jaar geldig zijn. De naam, geboortedatum en geboorteplaats erop moeten overeenkomen met wat je op het nieuwe wilt. Je kunt online verlengen als je paspoort binnen zes maanden verloopt of al verlopen is, mits je woon- en postadres in Canada liggen. Kinderpaspoorten kunnen niet worden verlengd, dus een kind heeft een nieuwe aanvraag nodig.
+De Canadese overheid laat je verlengen als je laatste paspoort een volwassenenpaspoort was, afgegeven toen je minstens 16 jaar was. Het moet ook binnen 15 jaar vóór je aanvraagdatum zijn afgegeven en 5 of 10 jaar geldig zijn. Je kunt online verlengen als je paspoort binnen zes maanden verloopt of al verlopen is, mits je woon- en postadres in Canada liggen. Kinderpaspoorten kunnen niet worden verlengd, dus een kind heeft een nieuwe aanvraag nodig.
 
 Is je paspoort al jaren verlopen, kijk dan eerst naar de afgiftedatum, want de grens van 15 jaar in de VS en Canada wordt geteld vanaf de afgifte, niet vanaf het verlopen. Controleer daarna de actuele doorlooptijden voordat je boekt, wat onze gids over [hoe lang een paspoortverlenging duurt](https://traveldocumentvault.com/nl/blog/how-long-does-passport-renewal-take/) land voor land behandelt.
 
@@ -88,7 +88,7 @@ Zelfs kleine afwijkingen zoals een ontbrekende voorletter of een verwisselde let
 
 ### 3. Een niet-ondertekend paspoort
 
-De meeste paspoorten hebben een handtekeningveld. Sommige landen – waaronder de Verenigde Staten – vereisen dat het paspoort ondertekend is voordat het geldig is voor reizen. Een niet-ondertekend paspoort kan aan de grens geweigerd worden. Dit is meestal een probleem bij paspoorten die zijn uitgegeven aan kinderen die nog te jong waren om te tekenen, of bij gloednieuwe paspoorten waarbij de houder vergat te tekenen voor vertrek. Even een blik op het handtekeningveld voordat je van huis gaat, vangt dit al vroeg op.
+De meeste paspoorten hebben een handtekeningveld. Een niet-ondertekend paspoort kan aan de grens problemen veroorzaken. Dit is meestal een probleem bij paspoorten die zijn uitgegeven aan kinderen die nog te jong waren om te tekenen, of bij gloednieuwe paspoorten waarbij de houder vergat te tekenen voor vertrek. Even een blik op het handtekeningveld voordat je van huis gaat, vangt dit al vroeg op.
 
 ### 4. Onvoldoende geldigheid voor je bestemming
 
@@ -106,7 +106,7 @@ Controleer voor elke reis de officiële inreisvereisten voor je bestemming via d
 
 De hoofdoorzaak is meestal hetzelfde: geen herinnering ingesteld. Stel een vervalherinnering in op ten minste **12 maanden voor de vervaldatum**, niet 6 maanden. Dat geeft je tijd om te vernieuwen met standaardbehandeling zonder te betalen voor een spoedservice, en zonder de stress van een krappe tijdlijn.
 
-Doe dit voor elk paspoort in je huishouden apart. Paspoorten van kinderen verlopen sneller – 5 jaar in de meeste landen tegenover 10 voor volwassenen – en worden het vaakst over het hoofd gezien. **Haal vandaag nog elk paspoort tevoorschijn en controleer de vervaldatum, niet alleen de fotopagina.**
+Doe dit voor elk paspoort in je huishouden apart. Paspoorten van kinderen verlopen sneller – vaak 5 jaar tegenover 10 voor volwassenen – en worden het vaakst over het hoofd gezien. **Haal vandaag nog elk paspoort tevoorschijn en controleer de vervaldatum, niet alleen de fotopagina.**
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 
@@ -122,11 +122,11 @@ Vraag direct verlenging aan en betaal voor spoedbehandeling als je reis dichterb
 
 ### Wat moet ik doen als ik op het vliegveld ontdek dat mijn paspoort verlopen is?
 
-Je kunt niet aan boord. Ga meteen naar de balie van de luchtvaartmaatschappij om over omboeken te praten – sommige laten de omboekingskosten vervallen bij een oprechte documentnoodsituatie. Bel daarna je paspoortinstantie en vraag specifiek naar spoedafspraken, aangezien snellere afspraken vaak niet op de website staan.
+Je kunt niet aan boord. Ga meteen naar de balie van de luchtvaartmaatschappij om over omboeken te praten – vraag of ze je zonder omboekingskosten kunnen omboeken. Bel daarna je paspoortinstantie en vraag specifiek naar spoedafspraken, aangezien snellere afspraken vaak niet op de website staan.
 
 ### Hoe snel kan ik een noodpaspoort krijgen als het mijne is verlopen?
 
-In het Verenigd Koninkrijk is er een versnelde Premium-service beschikbaar bij aangewezen paspoortkantoren voor oprechte noodgevallen – een afspraak is verplicht, controleer de actuele doorlooptijd en boeking op gov.uk. In de Verenigde Staten zijn persoonlijke spoedafspraken beschikbaar bij regionale paspoortkantoren voor dringende reizen; kijk op travel.state.gov voor actuele kosten en beschikbaarheid. In Australië kun je passports.gov.au raadplegen voor spoedopties.
+In het Verenigd Koninkrijk is er een versnelde Premium-service beschikbaar bij aangewezen paspoortkantoren voor oprechte noodgevallen – een afspraak is verplicht, controleer de actuele doorlooptijd en boeking op gov.uk. Kijk voor de Verenigde Staten op travel.state.gov voor opties bij spoedreizen, actuele kosten en beschikbaarheid. In Australië kun je passports.gov.au raadplegen voor spoedopties.
 
 ### Hoe voorkom ik dat mijn paspoort onverwacht verloopt?
 

@@ -50,19 +50,19 @@ As verificações também cobrem terrenos diferentes. Uma companhia aérea que a
 
 ## Se viaja de propósito com bilhete só de ida
 
-Um bilhete só de ida não é um problema em si. As regras de continuação de viagem são geralmente pensadas para visitantes. Se está a mudar-se para o estrangeiro com um visto que lhe permite viver ou trabalhar lá, esse visto, na maioria dos casos, cumpre a função que um bilhete de continuação cumpriria. Tenha-o à mão no check-in, junto com qualquer carta que o acompanhe.
+Um bilhete só de ida não é um problema em si. As regras de continuação de viagem são geralmente pensadas para visitantes. Se está a mudar-se para o estrangeiro com um visto que lhe permite viver ou trabalhar lá, esse visto pode resolver a questão, por isso confirme as regras do destino. Tenha-o à mão no check-in, junto com qualquer carta que o acompanhe.
 
 Se está a visitar com um plano em aberto, as opções honestas são as mais simples. Reserve a viagem de continuação que realmente espera fazer. Se as datas não estiverem fixas, uma tarifa que permita alterar a data mantém um plano real flexível sem o transformar em ficção.
 
-O que evitaríamos é um bilhete que nunca pretende usar, comprado só para mostrar ao balcão. Apresentar isso a um agente de fronteira como o seu plano pode equivaler a falsear as suas intenções, o que é um problema muito maior do que a falta de uma reserva.
+O que evitaríamos é um bilhete que nunca pretende usar, comprado só para mostrar ao balcão. Apresentar isso a um agente de fronteira como o seu plano poderia ser interpretado como uma declaração falsa das suas intenções, o que seria um problema muito maior do que a falta de uma reserva.
 
 ## Se lhe pedirem e não conseguir apresentá-la
 
 Se um agente perguntar e não tiver nada para mostrar, lembre-se de que ele está a trabalhar a partir das regras de entrada do destino. A resposta mais útil costuma ser dar-lhe algo que essas regras reconheçam.
 
-Na prática, isso costuma significar reservar a viagem de continuação ali mesmo, no telemóvel ou no balcão da companhia aérea. Pode custar mais em cima da hora, o que é a principal razão para resolver isto na noite anterior. Se uma agência de viagens reservou a sua viagem de continuação, a confirmação escrita dela pode ajudar onde o destino a aceitar.
+Na prática, isso costuma significar reservar a viagem de continuação ali mesmo, no telemóvel ou no balcão da companhia aérea. Pode custar mais em cima da hora, o que é a principal razão para resolver isto na noite anterior. Se uma agência de viagens reservou a sua viagem de continuação, consulte as orientações oficiais do destino para saber se a confirmação da agência é aceite.
 
-A decisão ao balcão cabe à companhia aérea. Se não conseguir resolver ali, terá de reservar de novo depois de ter o que o destino pede.
+A decisão ao balcão cabe geralmente à companhia aérea. Se não conseguir resolver ali, terá de reservar de novo depois de ter o que o destino pede.
 
 ## Manter a reserva acessível quando precisa dela
 
@@ -74,7 +74,7 @@ Guarde uma cópia offline da confirmação: um PDF, uma captura de ecrã com a r
 
 ### Que prova de continuação de viagem é que uma companhia aérea aceita, na prática?
 
-Mais comummente, um bilhete confirmado de saída do seu destino, seja de regresso a casa seja para um terceiro país onde pode entrar. Alguns destinos também aceitam outras provas, como confirmação escrita de uma agência de viagens de que a continuação de viagem está reservada e paga. A companhia aérea aplica as regras do destino, por isso confirme-as para a sua viagem.
+Mais comummente, um bilhete confirmado de saída do seu destino, seja de regresso a casa seja para um terceiro país onde pode entrar. Alguns destinos também aceitam outras provas, por isso consulte as orientações oficiais do destino. A companhia aérea aplica as regras do destino, por isso confirme-as para a sua viagem.
 
 ### Posso usar uma reserva de hotel como prova de continuação de viagem?
 
@@ -82,11 +82,11 @@ Normalmente, uma reserva de hotel não serve por si só. Mostra onde vai ficar, 
 
 ### E se eu não tiver prova de continuação de viagem?
 
-Se lhe perguntarem no check-in e não tiver nada para mostrar, a solução habitual é reservar a viagem de continuação ali mesmo. Isso pode custar mais em cima da hora. A decisão de o deixar embarcar cabe à companhia aérea, por isso vale a pena resolver isto antes de chegar ao aeroporto.
+Se lhe perguntarem no check-in e não tiver nada para mostrar, a solução habitual é reservar a viagem de continuação ali mesmo. Isso pode custar mais em cima da hora. A decisão de o deixar embarcar cabe geralmente à companhia aérea, por isso vale a pena resolver isto antes de chegar ao aeroporto.
 
 ### Um bilhete só de ida é um problema?
 
-Um bilhete só de ida não é um problema em si, porque as regras de continuação de viagem visam geralmente os visitantes. Se está a mudar-se com um visto que lhe permite viver ou trabalhar no país, esse visto normalmente resolve a questão. Se está a visitar, uma viagem de continuação reservada que pretenda fazer é a resposta mais simples.
+Um bilhete só de ida não é um problema em si, porque as regras de continuação de viagem visam geralmente os visitantes. Se está a mudar-se com um visto que lhe permite viver ou trabalhar no país, esse visto pode resolver a questão, por isso confirme as regras do destino. Se está a visitar, uma viagem de continuação reservada que pretenda fazer é a resposta mais simples.
 
 ### Preciso de prova de continuação de viagem para a fronteira?
 

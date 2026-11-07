@@ -24,7 +24,7 @@ Embora as regras específicas variem por autoridade de passaportes, a maioria do
 
 ### Fundo e Composição
 
-Precisa de um fundo claro e simples, e o tom exato depende da sua autoridade: o GOV.UK pede creme claro ou cinzento claro simples, enquanto o Governo do Canadá pede branco simples ou de cor clara. Sem padrões, sombras, fundos desfocados, ou cores fortes. A razão é direta: os oficiais precisam de uma visão limpa e sem clutter do seu rosto para comparar com documentos futuros. A maioria das pessoas usa um lençol branco, cartolina, ou até pinta uma pequena secção de parede. A chave é mantê-lo brilhante e uniforme em toda a área.
+Precisa de um fundo claro e simples, e o tom exato depende da sua autoridade: o GOV.UK pede creme claro ou cinzento claro simples, enquanto o Governo do Canadá pede branco simples ou de cor clara. Sem padrões, sombras, fundos desfocados, ou cores fortes. A razão é direta: os oficiais precisam de uma visão limpa e sem clutter do seu rosto para comparar com documentos futuros. Use um lençol liso ou cartolina no tom pedido pela sua autoridade (creme ou cinzento claro para o Reino Unido), ou até pinte uma pequena secção de parede. A chave é mantê-lo brilhante e uniforme em toda a área.
 
 ### Expressão e Pose
 
@@ -38,7 +38,7 @@ As regras sobre óculos normais variam mais do que seria de esperar. O GOV.UK di
 
 ## Tamanho da Foto de Passaporte: os Dois Padrões Mais Usados
 
-A maioria das autoridades de passaportes usa um de dois tamanhos impressos. O formato 35 mm x 45 mm é usado no Reino Unido, em países da UE, incluindo os Países Baixos, e na maior parte do resto do mundo. Os Estados Unidos pedem um quadrado de 2 x 2 polegadas, e um punhado de países segue esse padrão. Algumas autoridades definem o seu próprio tamanho: o Governo do Canadá, por exemplo, pede fotografias impressas de 50mm de largura por 70mm de altura.
+Os tamanhos das fotografias impressas variam consoante a autoridade. O Reino Unido usa 35 mm x 45 mm e o Governo do Canadá pede fotografias com 50 mm de largura por 70 mm de altura. Outros países definem os seus próprios tamanhos, por isso siga os requisitos da sua autoridade de passaportes.
 
 As submissões digitais trocam milímetros por píxeis, e cada autoridade publica os seus próprios mínimos. Estes dois tamanhos são os que a maioria das autoridades pede atualmente em papel, mas as especificações são revistas, por isso confirme a sua antes de imprimir ou carregar.
 
@@ -63,11 +63,11 @@ Tem várias opções para colocar a sua foto de passaporte nas mãos da autorida
 
 | Método | Custo | Risco de Aceitação | Conveniência | Orientação Oficial |
 |---|---|---|---|---|
-| DIY em casa (smartphone + aplicação de corte) | Gratuito ou quase | Mais alto se errar iluminação ou specs de tamanho | Muito alto — imediato | Permitido na maioria dos países — verifique o site da sua autoridade |
+| DIY em casa (smartphone + aplicação de corte) | Gratuito ou quase | Mais alto se errar iluminação ou specs de tamanho | Muito alto — imediato | Consulte o site da sua autoridade |
 | Farmácia ou drogaria local | Uma taxa modesta | Baixo — profissionais treinados verificam | Médio — serviço no próprio dia típico | Amplamente utilizado e geralmente fiável — verifique na mesma o requisitos de foto da sua autoridade |
 | Correios (Reino Unido e outros) | Uma taxa modesta | Baixo — tirada internamente, verificada | Médio — requer visita e marcação | Serviço oficial dos Correios |
 | Serviços online (p.ex. Passport Photo Online) | Uma taxa modesta | Médio — submissão digital, feedback fornecido | Alto — de casa, entrega digital | Não oficial mas amplamente utilizado — verifique se o seu país aceita uploads pré-cortados |
-| Estúdio de fotografia profissional | A opção mais cara | Baixo — iluminação e composição de especialista | Baixo — requer marcação | Aceite em toda a parte — sempre uma escolha segura |
+| Estúdio de fotografia profissional | A opção mais cara | Baixo — iluminação e composição de especialista | Baixo — requer marcação | Menor risco, embora a fotografia continue a ter de cumprir as regras da sua autoridade |
 
 ## Iluminação e Qualidade de Imagem
 
@@ -83,7 +83,7 @@ Use um tripé ou encosto o seu telefone contra um objeto estável para que tenha
 
 ### Resolução e Foco
 
-Os smartphones modernos fotografam em 12 megapixéis ou superior, o que é suficiente para fotos de passaporte. Antes de fotografar, certifique-se de que o seu telefone está em modo de foco — toque no seu rosto no ecrã, e a maioria dos telefones trancará o foco lá. A sua imagem final deve ser nítida e clara.
+A maioria das câmaras dos smartphones modernos tem resolução suficiente para uma fotografia de passaporte. Antes de fotografar, certifique-se de que o seu telefone está em modo de foco — toque no seu rosto no ecrã, e a maioria dos telefones trancará o foco lá. A sua imagem final deve ser nítida e clara.
 
 ## Motivos de Rejeição Comuns e Como Evitá-los
 
@@ -133,7 +133,7 @@ Sim, pode tirar uma foto de passaporte usando um smartphone. Posicione-se em fre
 
 ### Qual deveria ser o tamanho de uma foto de passaporte
 
-A maioria dos países usa um de dois tamanhos impressos: 35 mm x 45 mm, que cobre o Reino Unido, a UE e grande parte do mundo, ou o quadrado de 2 x 2 polegadas usado nos Estados Unidos. Algumas autoridades definem o seu próprio tamanho, como as 50mm x 70mm do Governo do Canadá. As submissões digitais têm mínimos de píxeis próprios. Os requisitos são aplicados com rigor e são revistos, por isso confirme a especificação exata junto da sua própria autoridade de passaportes antes de imprimir ou carregar.
+Os tamanhos impressos variam consoante a autoridade. O Reino Unido usa 35 mm x 45 mm e o Governo do Canadá usa 50 mm x 70 mm. Outros países definem os seus próprios tamanhos, por isso siga os requisitos da sua autoridade de passaportes. As submissões digitais têm mínimos de píxeis próprios. Os requisitos são aplicados com rigor e são revistos, por isso confirme a especificação exata junto da sua própria autoridade de passaportes antes de imprimir ou carregar.
 
 ### Por que foi a minha foto de passaporte rejeitada
 

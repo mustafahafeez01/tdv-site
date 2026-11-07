@@ -50,19 +50,19 @@ Die Prüfungen decken außerdem unterschiedliches Terrain ab. Eine Fluggesellsch
 
 ## Wenn Sie absichtlich mit einem One-Way-Ticket reisen
 
-Ein One-Way-Ticket ist an sich kein Problem. Regeln zur Weiterreise sind in der Regel für Besucher gedacht. Ziehen Sie mit einem Visum ins Ausland, das Ihnen erlaubt, dort zu leben oder zu arbeiten, erfüllt dieses Visum meist denselben Zweck wie ein Weiterreise-Ticket. Halten Sie es beim Check-in bereit, zusammen mit jedem Begleitschreiben dazu.
+Ein One-Way-Ticket ist an sich kein Problem. Regeln zur Weiterreise sind in der Regel für Besucher gedacht. Ziehen Sie mit einem Visum ins Ausland, das Ihnen erlaubt, dort zu leben oder zu arbeiten, kann dieses Visum die Frage klären – prüfen Sie die Regeln Ihres Ziellands. Halten Sie es beim Check-in bereit, zusammen mit jedem Begleitschreiben dazu.
 
 Sind Sie mit einem offenen Plan zu Besuch, sind die ehrlichen Optionen die einfachsten. Buchen Sie die Weiterreise, die Sie tatsächlich antreten wollen. Stehen Ihre Daten nicht fest, hält ein Tarif mit änderbarem Datum einen echten Plan flexibel, ohne ihn zur Fiktion zu machen.
 
-Wovon wir abraten würden: ein Ticket, das Sie nie nutzen wollen und nur kaufen, um es am Schalter vorzuzeigen. Das einem Grenzbeamten als Ihren Plan zu präsentieren, kann einer Falschangabe Ihrer Absichten gleichkommen – ein weit größeres Problem als eine fehlende Buchung.
+Wovon wir abraten würden: ein Ticket, das Sie nie nutzen wollen und nur kaufen, um es am Schalter vorzuzeigen. Das einem Grenzbeamten als Ihren Plan zu präsentieren, könnte als Falschangabe Ihrer Absichten ausgelegt werden – das wäre ein weit größeres Problem als eine fehlende Buchung.
 
 ## Wenn Sie gefragt werden und ihn nicht vorweisen können
 
 Fragt ein Mitarbeiter danach und Sie haben nichts vorzuweisen, denken Sie daran, dass er nach den Einreisebestimmungen des Ziellands arbeitet. Am hilfreichsten ist es meist, etwas vorzulegen, das diese Regeln anerkennen.
 
-In der Praxis bedeutet das oft, die Weiterreise direkt vor Ort zu buchen, auf dem Handy oder am Schalter der Fluggesellschaft. Das kann kurzfristig teurer werden, was der Hauptgrund ist, es schon am Vorabend zu klären. Hat ein Reisebüro Ihre Weiterreise gebucht, kann dessen schriftliche Bestätigung helfen, wo das Zielland sie akzeptiert.
+In der Praxis bedeutet das oft, die Weiterreise direkt vor Ort zu buchen, auf dem Handy oder am Schalter der Fluggesellschaft. Das kann kurzfristig teurer werden, was der Hauptgrund ist, es schon am Vorabend zu klären. Hat ein Reisebüro Ihre Weiterreise gebucht, prüfen Sie in den offiziellen Hinweisen Ihres Ziellands, ob dessen Bestätigung akzeptiert wird.
 
-Die Entscheidung am Schalter liegt bei der Fluggesellschaft. Lässt sich die Sache dort nicht klären, müssen Sie neu buchen, sobald Sie haben, was das Zielland verlangt.
+Am Schalter entscheidet in der Regel die Fluggesellschaft. Lässt sich die Sache dort nicht klären, müssen Sie neu buchen, sobald Sie haben, was das Zielland verlangt.
 
 ## Die Buchung erreichbar halten, wenn Sie sie brauchen
 
@@ -74,7 +74,7 @@ Bewahren Sie eine offline verfügbare Kopie der Bestätigung auf: ein PDF, einen
 
 ### Welchen Nachweis der Weiterreise akzeptiert eine Fluggesellschaft tatsächlich?
 
-Am häufigsten ein bestätigtes Ticket aus Ihrem Zielland heraus, entweder nach Hause oder in ein drittes Land, in das Sie einreisen dürfen. Manche Ziele akzeptieren auch andere Nachweise, etwa eine schriftliche Bestätigung eines Reisebüros, dass die Weiterreise gebucht und bezahlt ist. Die Fluggesellschaft wendet die Regeln des Ziellands an, prüfen Sie diese also für Ihre Reise.
+Am häufigsten ein bestätigtes Ticket aus Ihrem Zielland heraus, entweder nach Hause oder in ein drittes Land, in das Sie einreisen dürfen. Manche Ziele akzeptieren auch andere Nachweise – prüfen Sie die offiziellen Hinweise Ihres Ziellands. Die Fluggesellschaft wendet die Regeln des Ziellands an, prüfen Sie diese also für Ihre Reise.
 
 ### Kann ich eine Hotelreservierung als Nachweis der Weiterreise nutzen?
 
@@ -82,11 +82,11 @@ Eine Hotelbuchung genügt meist nicht allein. Sie zeigt, wo Sie übernachten, wo
 
 ### Was passiert, wenn ich keinen Nachweis der Weiterreise habe?
 
-Werden Sie am Check-in gefragt und können nichts vorweisen, besteht die übliche Lösung darin, die Weiterreise direkt vor Ort zu buchen. Das kann kurzfristig teurer werden. Die Entscheidung, Sie an Bord zu lassen, liegt bei der Fluggesellschaft – klären Sie es daher am besten, bevor Sie zum Flughafen fahren.
+Werden Sie am Check-in gefragt und können nichts vorweisen, besteht die übliche Lösung darin, die Weiterreise direkt vor Ort zu buchen. Das kann kurzfristig teurer werden. Die Entscheidung, Sie an Bord zu lassen, liegt in der Regel bei der Fluggesellschaft – klären Sie es daher am besten, bevor Sie zum Flughafen fahren.
 
 ### Ist ein One-Way-Ticket ein Problem?
 
-Ein One-Way-Ticket ist an sich kein Problem, denn Regeln zur Weiterreise richten sich in der Regel an Besucher. Ziehen Sie mit einem Visum um, das Ihnen erlaubt, im Land zu leben oder zu arbeiten, deckt dieses Visum die Frage meist ab. Sind Sie zu Besuch, ist eine gebuchte Weiterreise, die Sie tatsächlich antreten wollen, die einfachste Antwort.
+Ein One-Way-Ticket ist an sich kein Problem, denn Regeln zur Weiterreise richten sich in der Regel an Besucher. Ziehen Sie mit einem Visum um, das Ihnen erlaubt, im Land zu leben oder zu arbeiten, kann dieses Visum die Frage klären – prüfen Sie die Regeln Ihres Ziellands. Sind Sie zu Besuch, ist eine gebuchte Weiterreise, die Sie tatsächlich antreten wollen, die einfachste Antwort.
 
 ### Brauche ich für die Grenze einen Nachweis der Weiterreise?
 

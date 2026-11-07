@@ -36,13 +36,13 @@ Två saker ligger utanför det brevet och är värda att ta med sig ändå. Pack
 
 Ensam vårdnad ändrar vilket dokument som spelar roll snarare än att ta bort behovet av ett. När en domstol har gett dig ensam vårdnad eller ensamt föräldraansvar är det mer användbara papperet vid gränsen ofta själva vårdnadsbeslutet, eller en bestyrkt kopia av det, snarare än ett brev från den andra föräldern. Många gränsmyndigheter godtar beslutet i stället för ett samtyckesbrev, och vissa vill ändå se det tillsammans med ett brev. Om beslutet ger den andra föräldern umgänges- eller kontakträtt är ett brev från den föräldern fortfarande värt att ta med.
 
-Res med beslutet, eller en bestyrkt kopia av det. Det gör ingen nytta i en pärm hemma. Kontrollanter som frågar letar oftast efter ett enkelt svar på en fråga: har den här vuxna laglig rätt att fatta det här beslutet för det här barnet. En bestyrkt kopia svarar på det på några sekunder, och om din vårdnadssituation nyligen har ändrats är det värt att kontrollera om destinationen förväntar sig en mer aktuell kopia än den du har burit med dig i flera år.
+Res med beslutet, eller en bestyrkt kopia av det. Det gör ingen nytta i en pärm hemma. Kontrollanter som frågar letar oftast efter ett enkelt svar på en fråga: har den här vuxna laglig rätt att fatta det här beslutet för det här barnet. En bestyrkt kopia går oftast snabbt att kontrollera, och om din vårdnadssituation nyligen har ändrats är det värt att kontrollera om destinationen förväntar sig en mer aktuell kopia än den du har burit med dig i flera år.
 
 ## När Den Andra Föräldern Har Avlidit: Dödsattesten ersätter brevet
 
-Det finns inget samtyckesbrev att skriva när den andra föräldern har avlidit, och ingen gränskontrollant förväntar sig ett. Det du tar med i stället är en kopia av dödsattesten, som svarar på den fråga ett samtyckesbrev annars skulle svara på: varför bara en förälder är med.
+Det finns inget samtyckesbrev att skriva när den andra föräldern har avlidit, och de flesta gränskontrollanter förväntar sig inget. Det du tar med i stället är en bestyrkt kopia av dödsattesten, som svarar på den fråga ett samtyckesbrev annars skulle svara på: varför bara en förälder är med.
 
-Förvara den bestyrkta kopian tillsammans med passen snarare än i en separat pärm hemma, eftersom det är det enda dokumentet här som du inte snabbt kan ersätta om det försvinner mitt i resan. En utskriven kopia plus en krypterad digital säkerhetskopia täcker både en förlorad väska och en telefon som inte startar. Om ditt barns efternamn skiljer sig från ditt gör födelsebeviset samma jobb här som det gör överallt annars i den här artikeln, det visar att barnet är ditt att resa med, oavsett vilket namn som står i passet.
+Förvara den bestyrkta kopian tillsammans med passen snarare än i en separat pärm hemma, eftersom det är ett dokument som kan ta tid att ersätta om det försvinner mitt i resan. En utskriven kopia plus en krypterad digital säkerhetskopia täcker både en förlorad väska och en telefon som inte startar. Om ditt barns efternamn skiljer sig från ditt gör födelsebeviset samma jobb här som det gör överallt annars i den här artikeln, det visar att barnet är ditt att resa med, oavsett vilket namn som står i passet.
 
 Det praktiska svaret förblir kort: ett dokument, nära till hands, och en process som i regel går snabbt vidare när det väl har visats upp.
 
@@ -58,15 +58,15 @@ Ditt barns fullständiga födelsebevis, det som namnger dig som förälder, avsl
 
 ## Morföräldrar, Släktingar och Vårdnadshavare: Båda föräldrarna behöver oftast ge sitt samtycke
 
-När en mor- eller farförälder, moster, morbror eller familjevän reser med ett barn och ingen av föräldrarna är med på resan blir papperen tyngre, för de flesta länder förväntar sig bevis på att båda föräldrarna, eller båda vårdnadshavarna, har samtyckt till resan, inte bara en. Formatet är samma [samtyckesbrev](https://traveldocumentvault.com/sv/blog/child-travel-consent-letter/) som vi går igenom i sin helhet på annan plats, men här behövs vanligtvis båda föräldrarnas underskrifter i stället för bara en, tillsammans med kontaktuppgifter för var och en.
+När en mor- eller farförälder, moster, morbror eller familjevän reser med ett barn och ingen av föräldrarna är med på resan blir papperen tyngre, för många länder förväntar sig bevis på att båda föräldrarna, eller båda vårdnadshavarna, har samtyckt till resan, inte bara en. Formatet är samma [samtyckesbrev](https://traveldocumentvault.com/sv/blog/child-travel-consent-letter/) som vi går igenom i sin helhet på annan plats, men här behövs vanligtvis båda föräldrarnas underskrifter i stället för bara en, tillsammans med kontaktuppgifter för var och en.
 
 Den medföljande vuxna bör också ta med barnets födelsebevis och vara redo att förklara relationen i enkla ord om det frågas, för «familjevän» tenderar att väcka fler frågor än «morförälder» även när båda bär identiska papper. Flygbolag kan neka ett barn ombordstigning om den vuxna inte kan visa upp det vid incheckningen, av samma skäl kring flygbolagsansvar som beskrivs tidigare: flygbolaget skyddar sig mot en nekad inresa i andra änden, redan innan planet har lyft.
 
 ## Om Frågor Kommer Ändå
 
-Även med alla dokument i ordning kan en gränskontrollant eller incheckningsagent ändå ställa några frågor, och det hjälper att veta vad det samtalet egentligen är: en kort verifiering, inte en anklagelse. Frågorna tenderar att vara enkla: var familjen bor, hur resan kom till, och hur barnet är släkt med den vuxna bredvid sig. Ett barn som kan svara kort med egna ord tenderar att få saker att gå snabbare än en nervös vuxen som svarar åt dem.
+Även med alla dokument i ordning kan en gränskontrollant eller incheckningsagent ändå ställa några frågor, och det hjälper att veta vad det samtalet egentligen är: en kort verifiering, inte en anklagelse. Frågorna kan vara enkla: var familjen bor, hur resan kom till, och hur barnet är släkt med den vuxna bredvid sig. Ett barn som kan svara kort med egna ord tenderar att få saker att gå snabbare än en nervös vuxen som svarar åt dem.
 
-Om ett telefonnummer finns med på ett samtyckesbrev eller vårdnadsbeslut, var beredd på att det kan ringas upp. Det samtalet är rutin. Att ha med allt som tas upp här garanterar inte noll frågor, men det betyder att när frågorna kommer har du ett svar redo för var och en av dem, vilket i regel är det som avgör de här samtalen vid disken.
+Om ett telefonnummer finns med på ett samtyckesbrev eller vårdnadsbeslut, kan en kontrollant använda det för att kontrollera dokumentet. Att ha med allt som tas upp här garanterar inte noll frågor, men det betyder att när frågorna kommer har du ett svar redo för var och en av dem, vilket i regel är det som avgör de här samtalen vid disken.
 
 ## Ett Paket Papper Per Situation
 
@@ -92,11 +92,11 @@ Ofta är vårdnadsbeslutet eller domstolsbeslutet i sig det mer användbara doku
 
 ### Vad behöver jag för att resa med mitt barn om den andra föräldern har avlidit?
 
-Ett samtyckesbrev är inte möjligt, så ta i stället med en kopia av dödsattesten. Gränskontrollanter som normalt skulle fråga om den frånvarande föräldern godtar den i regel som svar. Förvara en utskriven kopia tillsammans med passen och en krypterad digital säkerhetskopia, och kontrollera destinationens riktlinjer innan avresa.
+Ett samtyckesbrev är inte möjligt, så ta i stället med en kopia av dödsattesten. En bestyrkt kopia av dödsattesten är det dokument som med störst sannolikhet besvarar frågan, men kontrollera destinationens riktlinjer. Förvara en utskriven kopia tillsammans med passen och en krypterad digital säkerhetskopia, och kontrollera destinationens riktlinjer innan avresa.
 
 ### Kan mitt barn resa utomlands med morföräldrar eller en annan släkting?
 
-Ja, men de flesta länder förväntar sig skriftligt samtycke från båda föräldrarna eller vårdnadshavarna, inte bara en. Den medföljande vuxna bör också ta med kontaktuppgifter för båda föräldrarna och en kopia av barnets födelsebevis. Flygbolag kan neka ett barn ombordstigning om den vuxna inte kan visa upp det när det efterfrågas.
+Ja, men många länder förväntar sig skriftligt samtycke från båda föräldrarna eller vårdnadshavarna, inte bara en. Den medföljande vuxna bör också ta med kontaktuppgifter för båda föräldrarna och en kopia av barnets födelsebevis. Flygbolag kan neka ett barn ombordstigning om den vuxna inte kan visa upp det när det efterfrågas.
 
 ### Kan ett annat efternamn än mitt barns orsaka problem på flygplatsen?
 

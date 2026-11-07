@@ -39,7 +39,7 @@ Kebocoran pada aplikasi berbasis perangkat tidak membocorkan apa pun dari server
 
 ### Waktu tenggang pengingat adalah pengaturan yang layak Anda sesuaikan
 
-Ini adalah fitur paling berharga. Pengingat 6 bulan sebelumnya adalah standar minimum — banyak negara mensyaratkan paspor tetap berlaku setidaknya 6 bulan setelah tanggal perjalanan Anda, seperti dijelaskan dalam artikel kami tentang [aturan paspor 6 bulan](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/). Untuk keluarga dengan anak-anak, yang paspornya kedaluwarsa setelah 5 tahun alih-alih 10 tahun, pengingat lebih awal, misalnya 9 bulan sebelumnya, memberi waktu perencanaan yang lebih nyaman.
+Ini adalah fitur paling berharga. Pengingat 6 bulan sebelumnya adalah standar minimum — banyak negara mensyaratkan paspor tetap berlaku setidaknya 6 bulan setelah tanggal perjalanan Anda, seperti dijelaskan dalam artikel kami tentang [aturan paspor 6 bulan](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/). Paspor anak sering kali berlaku 5 tahun alih-alih 10 tahun (paspor anak Inggris, misalnya, berlaku selama 5 tahun), sehingga pengingat lebih awal, misalnya 9 bulan sebelumnya, memberi waktu perencanaan yang lebih nyaman.
 
 ### Satu aplikasi bisa menampung seluruh keluarga, dengan aman
 
@@ -70,7 +70,7 @@ Sebelum mengunduh, periksa apakah aplikasi mengharuskan akun, mengunggah hasil p
 | Memerlukan internet untuk melihat dokumen | Gagal justru saat paling dibutuhkan, di perbatasan atau saat transit |
 | Tidak ada kebijakan privasi atau kebijakannya tidak jelas | Anda tidak tahu apa yang terjadi pada hasil pindaian Anda |
 | Penyimpanan hanya di cloud tanpa opsi di perangkat | Satu kebocoran server membuka data paspor semua pengguna |
-| Model harga berlangganan untuk fitur dasar | Biaya bulanan menciptakan tekanan untuk berhenti berlangganan, dan kehilangan akses ke dokumen Anda |
+| Model harga berlangganan untuk fitur dasar | Biaya bulanan menciptakan tekanan untuk berhenti berlangganan, dan pada sebagian aplikasi, pembatalan langganan membuat Anda kehilangan akses ke dokumen |
 
 Apa artinya ini dalam praktik
 
@@ -78,9 +78,9 @@ Anda sedang berada di pos perbatasan, ponsel dalam keadaan luring, dan petugas i
 
 ## Periksa Apa yang Terjadi pada Dokumen Anda Jika Langganan Berakhir
 
-Ada alasan praktis untuk memilih aplikasi dengan pembelian sekali bayar dibandingkan langganan, khususnya untuk penyimpanan dokumen. Jika Anda lupa memperpanjang langganan, atau memutuskan untuk berhenti, Anda kehilangan akses ke dokumen yang tersimpan. Ini pengaturan yang berisiko untuk sesuatu yang mungkin baru Anda butuhkan bertahun-tahun kemudian.
+Ada alasan praktis untuk memilih aplikasi dengan pembelian sekali bayar dibandingkan langganan, khususnya untuk penyimpanan dokumen. Pada sebagian aplikasi berlangganan, lupa memperpanjang atau memutuskan untuk berhenti bisa membuat Anda kehilangan akses ke dokumen yang tersimpan. Ini pengaturan yang berisiko untuk sesuatu yang mungkin baru Anda butuhkan bertahun-tahun kemudian.
 
-Sebaliknya, aplikasi dengan pembelian sekali bayar tetap berfungsi penuh tanpa batas waktu. Anda membayar sekali, dan aplikasi tetap bekerja terlepas dari apakah pengembangnya masih aktif memonetisasinya atau tidak.
+Sebaliknya, aplikasi dengan pembelian sekali bayar tidak memiliki tanggal perpanjangan yang bisa memutus akses Anda. Anda membayar sekali, dan dokumen tetap tersimpan di perangkat serta bisa dibuka seperti biasa.
 
 ## Bagaimana Travel Document Vault Menerapkan Pendekatan Ini
 
@@ -124,7 +124,7 @@ Aplikasi pengatur paspor terbaik dirancang untuk bekerja sepenuhnya secara lurin
 
 ### Berapa lama sebelumnya aplikasi paspor harus mengingatkan saya untuk memperpanjang?
 
-Minimal 6 bulan sebelum kedaluwarsa, karena banyak negara mensyaratkan paspor Anda tetap berlaku setidaknya 6 bulan setelah tanggal keberangkatan Anda. Aplikasi pengatur paspor yang baik memungkinkan Anda mengatur sendiri waktu pengingatnya. Bagi keluarga dengan anak-anak, yang paspornya kedaluwarsa setelah 5 tahun alih-alih 10 tahun, pengingat lebih awal (misalnya 9 bulan sebelumnya) memberi waktu perencanaan yang lebih nyaman.
+Minimal 6 bulan sebelum kedaluwarsa, karena banyak negara mensyaratkan paspor Anda tetap berlaku setidaknya 6 bulan setelah tanggal keberangkatan Anda. Aplikasi pengatur paspor yang baik memungkinkan Anda mengatur sendiri waktu pengingatnya. Bagi keluarga dengan anak-anak, yang paspornya sering kali kedaluwarsa setelah 5 tahun alih-alih 10 tahun, pengingat lebih awal (misalnya 9 bulan sebelumnya) memberi waktu perencanaan yang lebih nyaman.
 
 ### Dokumen apa saja yang harus didukung oleh aplikasi pengatur paspor yang baik?
 

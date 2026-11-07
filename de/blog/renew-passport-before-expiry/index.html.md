@@ -10,9 +10,9 @@ Source: https://traveldocumentvault.com/de/blog/renew-passport-before-expiry/
 
 ## Wichtigste Erkenntnisse
 
-- **Ja, Sie können vorzeitig erneuern.** Das HM Passport Office und USAGov setzen keine Wartezeit, und Kanada fragt nur nach einem Grund, wenn Sie mehr als ein Jahr vorher beantragen.
+- **Ja, Sie können vorzeitig erneuern.** Das HM Passport Office legt kein frühestes Datum fest, USAGov nennt keine Wartezeit, und Kanada fragt nur nach einem Grund, wenn Sie mehr als ein Jahr vorher beantragen.
 - Im Vereinigten Königreich bedeutet eine vorzeitige Erneuerung, **die verbleibenden Monate abzugeben**. Sie werden seit Oktober 2018 nicht mehr auf neue Pässe übertragen.
-- Ihr alter Pass wird **entwertet, sobald der neue genehmigt ist**, und bei Kanadas Online-Verfahren bereits mit der Antragstellung.
+- Ihr alter Pass wird **im Rahmen der Erneuerung entwertet**, und bei Kanadas Online-Verfahren bereits mit der Antragstellung.
 - Der neue Pass hat **eine neue Nummer**, daher müssen ein US-ESTA, eine UK-ETA und alle an den alten Pass gebundenen Buchungen überprüft werden, und ein Visum im alten Pass bedeutet, beide mitzuführen.
 - Unsere Einschätzung: **ab 12 Monaten mit der Planung beginnen, spätestens bei neun Monaten beantragen**, in einer ruhigen Phase ohne gebuchte Reise.
 
@@ -22,7 +22,7 @@ Das ist kein Grund zu warten. Es ist ein Grund, ein paar ruhige Wochen ohne gebu
 
 ## Es gibt keine offizielle Wartezeit, bevor Sie erneuern können
 
-Das HM Passport Office knüpft die Erneuerung an zwei Auslöser: Ihr Pass ist abgelaufen, oder er hat nicht mehr genug Gültigkeit für Ihr Reiseziel übrig. Seine Erneuerungsrichtlinie legt kein frühestes Datum fest und sagt, dass die benötigte Zeit vom besuchten Land abhängt. USAGov geht einen Schritt weiter und rät Amerikanern, früh zu erneuern, weil sich die Bearbeitungszeiten unterscheiden und manche Länder und Fluggesellschaften die Einreise verweigern, wenn einem Pass weniger als sechs Monate Gültigkeit bleiben.
+Das HM Passport Office knüpft die Erneuerung an zwei Auslöser: Ihr Pass ist abgelaufen, oder er hat nicht mehr genug Gültigkeit für Ihr Reiseziel übrig. Seine Erneuerungsrichtlinie legt kein frühestes Datum fest und sagt, dass die benötigte Zeit vom besuchten Land abhängt. USAGov rät Amerikanern, früh zu erneuern, weil sich die Bearbeitungszeiten unterscheiden und manche Länder und Fluggesellschaften die Einreise verweigern, wenn einem Pass weniger als sechs Monate Gültigkeit bleiben.
 
 Kanada zieht eine Grenze, und selbst die ist weich. Die Regierung von Kanada sagt, dass sie nach dem Grund fragt, wenn Sie mehr als ein Jahr vor Ablauf Ihres Passes beantragen, und ein postalischer Antrag eine schriftliche Erklärung benötigt. Ihr Online-Erneuerungsdienst ist noch enger gefasst und nur geöffnet, wenn Ihr Pass innerhalb der nächsten sechs Monate abläuft oder bereits abgelaufen ist.
 
@@ -40,21 +40,21 @@ Das ist wichtig, weil die Your-Europe-Richtlinie der EU besagt, dass ein Pass, m
 
 ## Ihr alter Pass verliert seine Gültigkeit, sobald der neue genehmigt ist
 
-Die Erneuerung ist kein Tausch, der wartet, bis der neue Pass auf Ihrer Türschwelle landet. Im Vereinigten Königreich wird der alte Pass mit dem Antrag eingeschickt, und die Sachbearbeiter-Richtlinie des HM Passport Office weist die Mitarbeiter an, ihn zu entwerten, sobald sie den neuen genehmigen. Kanadas Online-Verfahren geht noch schneller. Die Regierung von Kanada sagt, dass Ihr aktueller Pass entwertet wird und seine Gültigkeit verliert, sobald Sie den Antrag stellen, und rät allen, die innerhalb der nächsten 20 Werktage reisen, von einem Online-Antrag ab.
+Die Erneuerung ist kein Tausch, der wartet, bis der neue Pass auf Ihrer Türschwelle landet. Im Vereinigten Königreich wird der alte Pass mit dem Antrag eingeschickt, und er wird im Rahmen der Erneuerung entwertet. Planen Sie deshalb nicht, nach der Antragstellung damit zu reisen. Kanadas Online-Verfahren geht noch schneller. Die Regierung von Kanada sagt, dass Ihr aktueller Pass entwertet wird und seine Gültigkeit verliert, sobald Sie den Antrag stellen, und rät allen, die innerhalb der nächsten 20 Werktage reisen, von einem Online-Antrag ab.
 
 Das ist das praktische Argument dafür, zwischen zwei Reisen zu erneuern statt um eine Reise herum. Ob Sie während einer laufenden Erneuerung überhaupt reisen können, hängt vom Land und vom gewählten Verfahren ab. Wir gehen das Land für Land in unserem Leitfaden dazu durch, [ob Sie während der Passerneuerung reisen können](https://traveldocumentvault.com/de/blog/travel-while-passport-renewal-pending/).
 
-Visa sind die Ausnahme, auf die es sich einzustellen lohnt. Enthält Ihr alter UK-Pass ein noch nicht abgelaufenes Visum, sagt GOV.UK, dass Sie den Pass mit dem Visum einschicken sollen, und er wird Ihnen zurückgeschickt. USAGov sagt, dass Amerikaner ihren letzten Pass in einem separaten Umschlag zurückerhalten, meist etwa vier Wochen nach Ankunft des neuen. Kanada bittet Sie, im Formular anzugeben, dass Sie das Visum benötigen und das Original zurückhaben möchten, und warnt, dass das Visum sonst beschädigt werden könnte, wenn der alte Pass entwertet wird.
+Visa sind die Ausnahme, auf die es sich einzustellen lohnt. Enthält Ihr alter UK-Pass ein noch nicht abgelaufenes Visum, sagt GOV.UK, dass Sie den Pass mit dem Visum einschicken sollen, und er wird Ihnen zurückgeschickt. USAGov sagt, dass Amerikaner ihren letzten Pass in einem separaten Umschlag zurückerhalten, meist etwa vier Wochen nach Ankunft des neuen. Kanadas Hinweise können abweichen. Prüfen Sie deshalb die Seite zur Erneuerung, bevor Sie einen Pass mit gültigem Visum einschicken.
 
 ## Eine neue Passnummer ändert mehr als nur das Heft
 
-Jede Erneuerung bringt eine neue Nummer mit sich. Das HM Passport Office verknüpft diese Tatsache mit seinem nützlichsten Ratschlag: Buchen Sie keine Reise, bevor Sie einen gültigen Pass haben, denn der neue trägt nicht dieselbe Nummer wie der alte. Die Regierung von Kanada sagt im Wesentlichen dasselbe und empfiehlt, Reisepläne erst dann endgültig zu machen, wenn der Pass angekommen ist.
+Jede Erneuerung bringt eine neue Nummer mit sich. Das HM Passport Office verknüpft diese Tatsache mit seinem nützlichsten Ratschlag: Buchen Sie keine Reise, bevor Sie einen gültigen Pass haben, denn der neue trägt nicht dieselbe Nummer wie der alte. Die Regierung von Kanada rät allen, die innerhalb der nächsten 20 Werktage reisen, von einem Online-Antrag ab.
 
 Alles, was bereits mit der alten Nummer verknüpft ist, lohnt einen Blick vor Ihrer nächsten Reise:
 
 - **Ein US-ESTA** muss erneut beantragt werden. US Customs and Border Protection sagt, dass ein neues ESTA erforderlich ist, wenn dem Reisenden ein neuer Pass ausgestellt wird.
 - GOV.UK sagt, dass eine **UK-ETA** an den Pass gebunden ist, mit dem Sie sie beantragt haben, und zwei Jahre gilt oder bis dieser Pass abläuft, je nachdem, was früher eintritt. Prüfen Sie, wo Ihre steht, bevor Sie mit dem neuen Pass fliegen, und unser Leitfaden dazu, [an welchen Pass eine UK-ETA gebunden ist](https://traveldocumentvault.com/de/blog/uk-eta-passport-rules/), geht auf die Details ein.
-- Für **ein Visum im alten Pass** lautet die übliche Antwort, beide mitzuführen. CBP sagt, dass ein US-Visum in einem abgelaufenen Pass weiterhin zusammen mit dem neuen verwendet werden kann, ohne dass eine erneute Beantragung nötig ist, außer das Visum selbst ist abgelaufen. GOV.UK gibt britischen Reisenden denselben Rat für Visa anderer Länder, wobei für Russland andere Regeln gelten.
+- Für **ein Visum im alten Pass** lautet die übliche Antwort, beide mitzuführen. Ein Visum im alten Pass bleibt in der Regel gültig. Führen Sie deshalb beide Pässe mit und prüfen Sie die offiziellen Hinweise des ausstellenden Landes.
 - **Flüge und Hotels**, die mit den Daten Ihres alten Passes gebucht wurden, benötigen möglicherweise die neue Nummer, eine leichte Aufgabe von zu Hause aus und eine unangenehme am Check-in-Schalter.
 
 ## Erneuern Sie in einer ruhigen Phase ohne gebuchte Reise
@@ -65,7 +65,7 @@ Unsere Einschätzung ist einfach: Denken Sie an die Erneuerung, sobald der Pass 
 
 Die andere Hälfte besteht darin, den richtigen Zeitpunkt innerhalb dieses Fensters zu wählen. Suchen Sie sich ein paar Wochen ohne gebuchte Pläne, denn der alte Pass wird mit dem Antrag eingeschickt und der neue kommt mit einer anderen Nummer zurück.
 
-Das HM Passport Office sagt, dass Sie Ihren Pass meist innerhalb von drei Wochen erhalten, länger, wenn weitere Informationen oder ein Gespräch nötig sind, wobei die Uhr zu laufen beginnt, sobald Ihre Unterlagen eingegangen sind. In Kanada liegt der veröffentlichte Standard je nach Antragsort bei 10 oder 20 Werktagen, zuzüglich Postlaufzeit. Was einen Antrag typischerweise verzögert, erfahren Sie im Detail in unserem Leitfaden dazu, [wie lange die Reisepasserneuerung dauert](https://traveldocumentvault.com/de/blog/how-long-does-passport-renewal-take/).
+Das HM Passport Office sagt, dass Sie Ihren Pass meist innerhalb von drei Wochen erhalten, länger, wenn weitere Informationen oder ein Gespräch nötig sind, wobei die Uhr zu laufen beginnt, sobald Ihre Unterlagen eingegangen sind. In Kanada kann die Online-Erneuerung bis zu 20 Werktage dauern, zuzüglich Postlaufzeit. Was einen Antrag typischerweise verzögert, erfahren Sie im Detail in unserem Leitfaden dazu, [wie lange die Reisepasserneuerung dauert](https://traveldocumentvault.com/de/blog/how-long-does-passport-renewal-take/).
 
 Steht eine Familienreise bevor, prüfen Sie alle Pässe im Haushalt gleichzeitig. Im Vereinigten Königreich stellt das HM Passport Office Kinderpässe für fünf statt zehn Jahre aus, daher muss oft nicht der Pass zuerst erneuert werden, den Sie erwarten würden. Reist jemand an einen Ort, der bei der Einreise zusätzliche Gültigkeit verlangt, schauen Sie in unserem Leitfaden zur [6-Monats-Passregel](https://traveldocumentvault.com/de/blog/passport-expiry-6-month-rule/) nach, wie sich das auf Ihr Datum auswirkt.
 
@@ -75,7 +75,7 @@ Steht eine Familienreise bevor, prüfen Sie alle Pässe im Haushalt gleichzeitig
 
 ### Kann man einen Reisepass vor Ablauf erneuern?
 
-Ja. Das HM Passport Office und USAGov setzen keine Mindestwartezeit, und USAGov rät Amerikanern, früh zu erneuern. Kanada fragt nach dem Grund, wenn Sie mehr als ein Jahr vor Ablauf beantragen, und sein Online-Erneuerungsdienst ist nur innerhalb von sechs Monaten vor Ablauf geöffnet.
+Ja. Das HM Passport Office legt kein frühestes Datum fest, USAGov nennt keine Wartezeit, und USAGov rät Amerikanern, früh zu erneuern. Kanada fragt nach dem Grund, wenn Sie mehr als ein Jahr vor Ablauf beantragen, und sein Online-Erneuerungsdienst ist nur innerhalb von sechs Monaten vor Ablauf geöffnet.
 
 ### Verliert man die verbleibenden Monate, wenn man einen UK-Pass vorzeitig erneuert?
 
@@ -83,7 +83,7 @@ Ja. Die Richtlinie des HM Passport Office besagt, dass zwischen November 2004 un
 
 ### Kann ich meinen alten Pass nach Beantragung der Erneuerung noch nutzen?
 
-Planen Sie so, als könnten Sie das nicht. Das HM Passport Office entwertet den alten Pass, sobald es den neuen genehmigt, und bei Kanadas Online-Verfahren wird er bereits mit der Antragstellung entwertet. Enthält der alte Pass ein gültiges Visum, kann er Ihnen zurückgegeben werden, damit Sie mit beiden reisen können.
+Planen Sie so, als könnten Sie das nicht. Das HM Passport Office entwertet den alten Pass im Rahmen der Erneuerung, und bei Kanadas Online-Verfahren wird er bereits mit der Antragstellung entwertet. Enthält der alte Pass ein gültiges Visum, kann er Ihnen zurückgegeben werden, damit Sie mit beiden reisen können.
 
 ### Brauche ich nach der Passerneuerung ein neues ESTA oder eine neue UK-ETA?
 

@@ -34,13 +34,13 @@ Zwei Dinge liegen außerhalb dieses Briefs und lohnen sich, zusätzlich mitgefü
 
 Alleiniges Sorgerecht ändert, welches Dokument zählt, statt die Notwendigkeit eines Dokuments aufzuheben. Wenn ein Gericht Ihnen das alleinige Sorgerecht oder die alleinige elterliche Sorge zugesprochen hat, ist an der Grenze oft der Sorgerechtsbeschluss selbst – oder eine beglaubigte Kopie davon – nützlicher als ein Brief des anderen Elternteils. Viele Grenzbehörden akzeptieren den Beschluss anstelle einer Einverständniserklärung, und manche verlangen ihn ohnehin zusätzlich zu sehen. Belässt der Beschluss dem anderen Elternteil ein Umgangs- oder Kontaktrecht, lohnt sich trotzdem ein Brief von ihm.
 
-Reisen Sie mit dem Beschluss oder einer beglaubigten Kopie davon. In einem Aktenordner zu Hause nützt er nichts. Beamte, die nachfragen, suchen meist eine einfache Antwort auf eine Frage: Hat dieser Erwachsene die rechtliche Befugnis, diese Entscheidung für dieses Kind zu treffen. Eine beglaubigte Kopie beantwortet das in Sekunden, und wenn sich Ihre Sorgerechtsregelung kürzlich geändert hat, lohnt es sich zu prüfen, ob Ihr Reiseziel eine aktuellere Kopie erwartet als die, die Sie seit Jahren mit sich führen.
+Reisen Sie mit dem Beschluss oder einer beglaubigten Kopie davon. In einem Aktenordner zu Hause nützt er nichts. Beamte, die nachfragen, suchen meist eine einfache Antwort auf eine Frage: Hat dieser Erwachsene die rechtliche Befugnis, diese Entscheidung für dieses Kind zu treffen. Eine beglaubigte Kopie lässt sich meist zügig prüfen, und wenn sich Ihre Sorgerechtsregelung kürzlich geändert hat, lohnt es sich zu prüfen, ob Ihr Reiseziel eine aktuellere Kopie erwartet als die, die Sie seit Jahren mit sich führen.
 
 ## Wenn der andere Elternteil verstorben ist: Die Sterbeurkunde ersetzt die Erklärung
 
-Es gibt keine Einverständniserklärung zu schreiben, wenn der andere Elternteil verstorben ist, und kein Grenzbeamter erwartet eine. Was Sie stattdessen mitführen, ist eine Kopie der Sterbeurkunde, die die Frage beantwortet, die eine Einverständniserklärung sonst beantworten würde: warum nur ein Elternteil hier ist.
+Es gibt keine Einverständniserklärung zu schreiben, wenn der andere Elternteil verstorben ist, und die meisten Grenzbeamten erwarten keine. Was Sie stattdessen mitführen, ist eine beglaubigte Kopie der Sterbeurkunde, die die Frage beantwortet, die eine Einverständniserklärung sonst beantworten würde: warum nur ein Elternteil hier ist.
 
-Bewahren Sie die beglaubigte Kopie bei Ihren Reisepässen auf statt in einer separaten Mappe zu Hause, denn es ist das einzige Dokument hier, das Sie nicht schnell ersetzen können, sollte es unterwegs verloren gehen. Eine ausgedruckte Kopie zusammen mit einer verschlüsselten digitalen Sicherung deckt sowohl einen verlorenen Koffer als auch ein Telefon ab, das sich nicht mehr einschalten lässt. Weicht der Nachname Ihres Kindes von Ihrem ab, erfüllt die Geburtsurkunde hier dieselbe Aufgabe wie überall sonst in diesem Artikel: Sie zeigt, dass das Kind Ihres ist, unabhängig davon, welcher Name im Reisepass steht.
+Bewahren Sie die beglaubigte Kopie bei Ihren Reisepässen auf statt in einer separaten Mappe zu Hause, denn es kann Zeit kosten, dieses Dokument zu ersetzen, sollte es unterwegs verloren gehen. Eine ausgedruckte Kopie zusammen mit einer verschlüsselten digitalen Sicherung deckt sowohl einen verlorenen Koffer als auch ein Telefon ab, das sich nicht mehr einschalten lässt. Weicht der Nachname Ihres Kindes von Ihrem ab, erfüllt die Geburtsurkunde hier dieselbe Aufgabe wie überall sonst in diesem Artikel: Sie zeigt, dass das Kind Ihres ist, unabhängig davon, welcher Name im Reisepass steht.
 
 Die praktische Antwort bleibt kurz: ein Dokument, griffbereit aufbewahrt, und ein Vorgang, der, sobald es vorgezeigt wurde, meist zügig weitergeht.
 
@@ -56,15 +56,15 @@ Die vollständige Geburtsurkunde Ihres Kindes, die Sie als Elternteil nennt, kl�
 
 ## Großeltern, Verwandte und Vormünder: Meist braucht es die Zustimmung beider Elternteile
 
-Wenn ein Großelternteil, eine Tante, ein Onkel oder ein Familienfreund mit einem Kind reist und keiner der beiden Elternteile mit von der Partie ist, werden die Unterlagen umfangreicher, denn die meisten Länder erwarten den Nachweis, dass beide Elternteile oder beide gesetzlichen Vormünder der Reise zugestimmt haben, nicht nur einer. Das Format entspricht dem gleichen [Einverständnisschreiben](https://traveldocumentvault.com/de/blog/child-travel-consent-letter/), das wir an anderer Stelle ausführlich behandeln, hier braucht es jedoch üblicherweise die Unterschrift beider Elternteile statt nur einer, zusammen mit den Kontaktdaten beider.
+Wenn ein Großelternteil, eine Tante, ein Onkel oder ein Familienfreund mit einem Kind reist und keiner der beiden Elternteile mit von der Partie ist, werden die Unterlagen umfangreicher, denn viele Länder erwarten den Nachweis, dass beide Elternteile oder beide gesetzlichen Vormünder der Reise zugestimmt haben, nicht nur einer. Das Format entspricht dem gleichen [Einverständnisschreiben](https://traveldocumentvault.com/de/blog/child-travel-consent-letter/), das wir an anderer Stelle ausführlich behandeln, hier braucht es jedoch üblicherweise die Unterschrift beider Elternteile statt nur einer, zusammen mit den Kontaktdaten beider.
 
 Der begleitende Erwachsene sollte außerdem die Geburtsurkunde des Kindes mitführen und bereit sein, die Beziehung auf Nachfrage klar zu erklären, denn „Familienfreund" ruft tendenziell mehr Nachfragen hervor als „Großelternteil", selbst wenn beide identische Unterlagen mit sich führen. Fluggesellschaften können einem Kind das Boarding verweigern, wenn der Erwachsene dies beim Check-in nicht vorweisen kann, aus demselben zuvor genannten Haftungsgrund der Fluggesellschaft: Sie schützt sich vor einer Einreiseverweigerung am Zielort, noch bevor der Flug überhaupt gestartet ist.
 
 ## Wenn dennoch Fragen kommen
 
-Auch bei vollständig vorliegenden Unterlagen kann ein Grenzbeamter oder Check-in-Mitarbeiter noch einige Fragen stellen, und es hilft zu wissen, was dieses Gespräch tatsächlich ist: eine kurze Überprüfung, keine Anschuldigung. Die Fragen bleiben meist einfach: wo die Familie lebt, wie die Reise zustande kam, und wie das Kind mit dem Erwachsenen an seiner Seite verwandt ist. Ein Kind, das kurz mit eigenen Worten antworten kann, bringt die Sache oft schneller voran als ein nervöser Erwachsener, der für es antwortet.
+Auch bei vollständig vorliegenden Unterlagen kann ein Grenzbeamter oder Check-in-Mitarbeiter noch einige Fragen stellen, und es hilft zu wissen, was dieses Gespräch tatsächlich ist: eine kurze Überprüfung, keine Anschuldigung. Die Fragen können einfach sein: wo die Familie lebt, wie die Reise zustande kam, und wie das Kind mit dem Erwachsenen an seiner Seite verwandt ist. Ein Kind, das kurz mit eigenen Worten antworten kann, bringt die Sache oft schneller voran als ein nervöser Erwachsener, der für es antwortet.
 
-Steht eine Telefonnummer auf einer Einverständniserklärung oder einem Sorgerechtsbeschluss, seien Sie darauf vorbereitet, dass sie angerufen wird. Dieser Anruf ist Routine. Alle hier genannten Unterlagen mitzuführen garantiert keine null Fragen, bedeutet aber, dass Sie, wenn Fragen kommen, für jede eine Antwort bereit haben – was diese Gespräche am Schalter in der Regel klärt.
+Steht eine Telefonnummer auf einer Einverständniserklärung oder einem Sorgerechtsbeschluss, kann ein Beamter sie zur Überprüfung des Dokuments nutzen. Alle hier genannten Unterlagen mitzuführen garantiert keine null Fragen, bedeutet aber, dass Sie, wenn Fragen kommen, für jede eine Antwort bereit haben – was diese Gespräche am Schalter in der Regel klärt.
 
 ## Ein Bündel pro Situation
 
@@ -90,11 +90,11 @@ Das nützlichere Dokument ist oft der Sorgerechtsbeschluss oder Gerichtsbeschlus
 
 ### Was brauche ich, um mit meinem Kind zu reisen, wenn der andere Elternteil verstorben ist?
 
-Eine Einverständniserklärung ist nicht möglich, führen Sie stattdessen eine Kopie der Sterbeurkunde mit. Grenzbeamte, die normalerweise nach dem abwesenden Elternteil fragen würden, akzeptieren sie in der Regel als Antwort. Bewahren Sie eine ausgedruckte Kopie bei Ihren Reisepässen auf sowie eine verschlüsselte digitale Sicherung, und prüfen Sie vor der Abreise die Hinweise Ihres Reiseziels.
+Eine Einverständniserklärung ist nicht möglich, führen Sie stattdessen eine Kopie der Sterbeurkunde mit. Eine beglaubigte Kopie der Sterbeurkunde beantwortet die Frage am ehesten. Prüfen Sie aber die Hinweise Ihres Reiseziels. Bewahren Sie eine ausgedruckte Kopie bei Ihren Reisepässen auf sowie eine verschlüsselte digitale Sicherung, und prüfen Sie vor der Abreise die Hinweise Ihres Reiseziels.
 
 ### Darf mein Kind mit Großeltern oder anderen Verwandten ins Ausland reisen?
 
-Ja, aber die meisten Länder erwarten die schriftliche Zustimmung beider Elternteile oder gesetzlichen Vormünder, nicht nur eines. Der begleitende Erwachsene sollte außerdem die Kontaktdaten beider Elternteile und eine Kopie der Geburtsurkunde des Kindes mitführen. Fluggesellschaften können einem Kind das Boarding verweigern, wenn der Erwachsene dies auf Nachfrage nicht vorzeigen kann.
+Ja, aber viele Länder erwarten die schriftliche Zustimmung beider Elternteile oder gesetzlichen Vormünder, nicht nur eines. Der begleitende Erwachsene sollte außerdem die Kontaktdaten beider Elternteile und eine Kopie der Geburtsurkunde des Kindes mitführen. Fluggesellschaften können einem Kind das Boarding verweigern, wenn der Erwachsene dies auf Nachfrage nicht vorzeigen kann.
 
 ### Verursacht ein anderer Nachname als der meines Kindes Probleme am Flughafen?
 

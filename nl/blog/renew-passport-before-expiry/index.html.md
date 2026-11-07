@@ -10,9 +10,9 @@ Source: https://traveldocumentvault.com/nl/blog/renew-passport-before-expiry/
 
 ## Belangrijkste punten
 
-- **Ja, je kunt vroeg verlengen.** HM Passport Office en USAGov stellen geen wachttijd, en Canada vraagt alleen om een reden als je meer dan een jaar van tevoren aanvraagt.
+- **Ja, je kunt vroeg verlengen.** HM Passport Office stelt geen vroegste datum, USAGov noemt geen wachttijd, en Canada vraagt alleen om een reden als je meer dan een jaar van tevoren aanvraagt.
 - In het VK betekent vroeg verlengen **dat je de maanden die je nog had, teruggeeft**. Die worden sinds oktober 2018 niet meer toegevoegd aan nieuwe paspoorten.
-- Je oude paspoort wordt **geannuleerd zodra het nieuwe is goedgekeurd**, en bij Canada's online route zodra je de aanvraag doet.
+- Je oude paspoort wordt **geannuleerd als onderdeel van de verlenging**, en bij Canada's online route zodra je de aanvraag doet.
 - Het nieuwe paspoort heeft **een nieuw nummer**, dus een Amerikaanse ESTA, een Britse ETA en elke boeking die aan het oude gekoppeld is, moet gecontroleerd worden, en een visum in het oude paspoort betekent dat je beide moet meenemen.
 - Onze mening: **begin met plannen bij 12 maanden, vraag aan bij negen**, in een periode van weken zonder geboekte reis.
 
@@ -22,7 +22,7 @@ Niets daarvan is een reden om te wachten. Het is een reden om een paar rustige w
 
 ## Er is geen officiële wachttijd voordat je kunt verlengen
 
-HM Passport Office koppelt verlenging aan twee aanleidingen: je paspoort is verlopen, of het heeft niet genoeg tijd meer over voor waar je naartoe gaat. De verlengingsrichtlijnen van HM Passport Office stellen geen vroegste datum, en ze zeggen dat hoeveel tijd je nodig hebt, afhangt van het land dat je bezoekt. USAGov gaat een stap verder en adviseert Amerikanen om vroeg te verlengen, omdat verwerkingstijden variëren en sommige landen en luchtvaartmaatschappijen de toegang weigeren wanneer een paspoort nog minder dan zes maanden geldig is.
+HM Passport Office koppelt verlenging aan twee aanleidingen: je paspoort is verlopen, of het heeft niet genoeg tijd meer over voor waar je naartoe gaat. De verlengingsrichtlijnen van HM Passport Office stellen geen vroegste datum, en ze zeggen dat hoeveel tijd je nodig hebt, afhangt van het land dat je bezoekt. USAGov adviseert Amerikanen om vroeg te verlengen, omdat verwerkingstijden variëren en sommige landen en luchtvaartmaatschappijen de toegang weigeren wanneer een paspoort nog minder dan zes maanden geldig is.
 
 Canada trekt een grens, en zelfs die is soepel. De Government of Canada zegt dat als je meer dan een jaar voor de vervaldatum van je paspoort aanvraagt, ze zullen vragen waarom, en een aanvraag per post heeft een schriftelijke toelichting nodig. De online verlengingsdienst is nog beperkter en staat alleen open wanneer je paspoort binnen zes maanden verloopt of al verlopen is.
 
@@ -40,21 +40,21 @@ Dat is belangrijk, want de Your Europe-richtlijnen van de EU zeggen dat een pasp
 
 ## Je oude paspoort stopt met werken zodra het nieuwe is goedgekeurd
 
-Verlenging is geen ruil die wacht tot het nieuwe paspoort op je deurmat valt. In het VK gaat het oude paspoort mee met je aanvraag, en de richtlijnen voor medewerkers van HM Passport Office zeggen dat het personeel het annuleert zodra ze het nieuwe goedkeuren. Canada's online route gaat nog sneller. De Government of Canada zegt dat je huidige paspoort wordt geannuleerd en ongeldig wordt zodra je de aanvraag doet, en adviseert iedereen die binnen 20 werkdagen reist om niet online aan te vragen.
+Verlenging is geen ruil die wacht tot het nieuwe paspoort op je deurmat valt. In het VK gaat het oude paspoort mee met je aanvraag, en het wordt geannuleerd als onderdeel van de verlenging, dus ga er na je aanvraag niet van uit dat je er nog mee kunt reizen. Canada's online route gaat nog sneller. De Government of Canada zegt dat je huidige paspoort wordt geannuleerd en ongeldig wordt zodra je de aanvraag doet, en adviseert iedereen die binnen 20 werkdagen reist om niet online aan te vragen.
 
 Dat is het praktische argument om tussen reizen door te verlengen in plaats van rond een reis. Of je überhaupt kunt reizen terwijl een verlenging loopt, hangt af van het land en de route. We behandelen dit land voor land in onze gids over [reizen terwijl je paspoort wordt verlengd](https://traveldocumentvault.com/nl/blog/travel-while-passport-renewal-pending/).
 
-Visa zijn de uitzondering waar het de moeite waard is om op te plannen. Zit er in je oude Britse paspoort een visum dat nog niet is verlopen, dan zegt GOV.UK dat je het paspoort met het visum erbij moet opsturen en dat het aan je wordt teruggestuurd. USAGov zegt dat Amerikanen hun meest recente paspoort in een aparte envelop teruggestuurd krijgen, meestal ongeveer vier weken na aankomst van het nieuwe. Canada vraagt je om op het formulier aan te geven dat je het visum nodig hebt en het origineel terug wilt, en waarschuwt dat het visum anders beschadigd kan raken wanneer het oude paspoort wordt geannuleerd.
+Visa zijn de uitzondering waar het de moeite waard is om op te plannen. Zit er in je oude Britse paspoort een visum dat nog niet is verlopen, dan zegt GOV.UK dat je het paspoort met het visum erbij moet opsturen en dat het aan je wordt teruggestuurd. USAGov zegt dat Amerikanen hun meest recente paspoort in een aparte envelop teruggestuurd krijgen, meestal ongeveer vier weken na aankomst van het nieuwe. Bij Canada kunnen de richtlijnen afwijken, dus bekijk de verlengingspagina voordat je een paspoort met een geldig visum opstuurt.
 
 ## Een nieuw paspoortnummer verandert meer dan het boekje
 
-Elke verlenging komt met een nieuw nummer. HM Passport Office koppelt dat feit aan zijn nuttigste advies: boek geen reis voordat je een geldig paspoort hebt, want het nieuwe draagt niet hetzelfde nummer als het oude. De Government of Canada zegt vrijwel hetzelfde en raadt aan om reisplannen niet definitief te maken voordat het paspoort is aangekomen.
+Elke verlenging komt met een nieuw nummer. HM Passport Office koppelt dat feit aan zijn nuttigste advies: boek geen reis voordat je een geldig paspoort hebt, want het nieuwe draagt niet hetzelfde nummer als het oude. De Government of Canada adviseert iedereen die binnen 20 werkdagen reist om niet online aan te vragen.
 
 Alles dat al aan het oude nummer gekoppeld is, verdient een blik voor je volgende reis:
 
 - **Een Amerikaanse ESTA** moet opnieuw worden aangevraagd. US Customs and Border Protection zegt dat een nieuwe ESTA vereist is wanneer de reiziger een nieuw paspoort krijgt.
 - GOV.UK zegt dat **een Britse ETA** gekoppeld is aan het paspoort waarmee je hebt aangevraagd en twee jaar geldig is of tot dat paspoort verloopt, wat zich het eerst voordoet. Check waar jouw ETA staat voordat je met het nieuwe paspoort vliegt, en onze gids over [aan welk paspoort een Britse ETA gekoppeld is](https://traveldocumentvault.com/nl/blog/uk-eta-passport-rules/) behandelt de details.
-- Voor **een visum in het oude paspoort** is het gangbare antwoord om beide mee te nemen. CBP zegt dat een Amerikaans visum in een verlopen paspoort nog steeds samen met het nieuwe gebruikt kan worden, zonder dat je opnieuw moet aanvragen, tenzij het visum zelf is verlopen. GOV.UK geeft Britse reizigers hetzelfde advies voor visa van andere landen, al gelden voor Rusland andere regels.
+- Voor **een visum in het oude paspoort** is het gangbare antwoord om beide mee te nemen. Een visum in je oude paspoort blijft over het algemeen geldig, dus neem beide paspoorten mee en controleer de officiële richtlijnen van het land dat het visum heeft afgegeven.
 - **Vluchten en hotels** die geboekt zijn met je oude paspoortgegevens hebben mogelijk het nieuwe nummer nodig, een simpele klus thuis en een lastige aan de incheckbalie.
 
 ## Verleng in een rustige periode zonder geboekte reis
@@ -65,7 +65,7 @@ Onze mening is simpel: begin na te denken over verlenging zodra een paspoort tot
 
 De andere helft is kiezen wanneer binnen dat venster. Zoek een paar weken zonder iets geboekt, want het oude paspoort gaat mee met de aanvraag en het nieuwe komt terug met een ander nummer.
 
-HM Passport Office zegt dat je meestal binnen drie weken een paspoort krijgt, langer als er meer informatie of een gesprek nodig is, waarbij de klok begint te lopen zodra ze je documenten ontvangen. In Canada is de gepubliceerde norm 10 of 20 werkdagen, afhankelijk van waar je aanvraagt, plus verzendtijd. Voor wat een aanvraag doorgaans vertraagt, heeft onze gids over [hoe lang een paspoortverlenging duurt](https://traveldocumentvault.com/nl/blog/how-long-does-passport-renewal-take/) de details.
+HM Passport Office zegt dat je meestal binnen drie weken een paspoort krijgt, langer als er meer informatie of een gesprek nodig is, waarbij de klok begint te lopen zodra ze je documenten ontvangen. In Canada kan online verlenging tot 20 werkdagen duren, plus verzendtijd. Voor wat een aanvraag doorgaans vertraagt, heeft onze gids over [hoe lang een paspoortverlenging duurt](https://traveldocumentvault.com/nl/blog/how-long-does-passport-renewal-take/) de details.
 
 Staat er een familiereis op de planning, leg dan alle paspoorten in het huishouden tegelijk naast elkaar. In het VK geeft HM Passport Office kinderpaspoorten voor vijf jaar uit in plaats van tien, waardoor degene die het eerst verlengd moet worden vaak niet degene is die je zou verwachten. Gaat iemand naar een bestemming die extra geldigheid bij aankomst vraagt, check dan onze gids over [de 6-maanden-paspoortregel](https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/) voor hoe dat jouw datum verschuift.
 
@@ -75,7 +75,7 @@ Staat er een familiereis op de planning, leg dan alle paspoorten in het huishoud
 
 ### Kun je een paspoort verlengen voordat het verloopt?
 
-Ja. HM Passport Office en USAGov stellen geen minimale wachttijd, en USAGov adviseert Amerikanen om vroeg te verlengen. Canada vraagt om een reden als je meer dan een jaar voor de vervaldatum een aanvraag doet, en de online verlenging staat alleen open binnen zes maanden voor de vervaldatum.
+Ja. HM Passport Office stelt geen vroegste datum, USAGov noemt geen wachttijd, en USAGov adviseert Amerikanen om vroeg te verlengen. Canada vraagt om een reden als je meer dan een jaar voor de vervaldatum een aanvraag doet, en de online verlenging staat alleen open binnen zes maanden voor de vervaldatum.
 
 ### Verlies je de resterende maanden als je een Brits paspoort vroeg verlengt?
 
@@ -83,7 +83,7 @@ Ja. De richtlijnen van HM Passport Office zeggen dat tussen november 2004 en okt
 
 ### Kan ik mijn oude paspoort nog gebruiken na het aanvragen van een verlenging?
 
-Ga ervan uit dat dat niet kan. HM Passport Office annuleert het oude paspoort zodra het nieuwe is goedgekeurd, en bij Canada's online route gebeurt dat zodra je de aanvraag doet. Zit er een geldig visum in het oude paspoort, dan kan het naar je worden teruggestuurd zodat je met beide kunt reizen.
+Ga ervan uit dat dat niet kan. HM Passport Office annuleert het oude paspoort als onderdeel van de verlenging, en bij Canada's online route gebeurt dat zodra je de aanvraag doet. Zit er een geldig visum in het oude paspoort, dan kan het naar je worden teruggestuurd zodat je met beide kunt reizen.
 
 ### Heb ik een nieuwe ESTA of Britse ETA nodig na het verlengen van mijn paspoort?
 

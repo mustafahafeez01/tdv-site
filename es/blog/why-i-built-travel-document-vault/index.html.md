@@ -12,7 +12,7 @@ Estaba en inmigración cuando el oficial miró el pasaporte de mi hija, hizo una
 
 "¿Sabes que vence en siete meses, verdad?" dijo. "Solo para que lo sepas, algunos países no te dejarán entrar con menos de seis meses de validez."
 
-Le agradecí. Estábamos bien, apenas. Pero durante todo el viaje no dejé de pensar: si él no hubiera dicho algo, nunca lo habría notado. Siete meses me parecía mucho tiempo. Había revisado el pasaporte antes de reservar. Simplemente olvidé por completo la regla de seis meses que la mayoría de países aplican.
+Le agradecí. Estábamos bien, apenas. Pero durante todo el viaje no dejé de pensar: si él no hubiera dicho algo, nunca lo habría notado. Siete meses me parecía mucho tiempo. Había revisado el pasaporte antes de reservar. Simplemente olvidé por completo la regla de seis meses que muchos países aplican.
 
 Ese susto se quedó conmigo. Ya había configurado recordatorios en el calendario para las fechas de vencimiento de los pasaportes de todos. Pensé que era suficiente. Pero no estaba revisando realmente las fechas, solo confiaba en los recordatorios. Y cuando alguien renovaba el pasaporte, tenía que actualizar el recordatorio, actualizar el escaneo en Google Drive, y esperar no haber olvidado nada.
 
@@ -68,11 +68,11 @@ Permisos de trabajo si estás viviendo en el extranjero. Visas y tarjetas de res
 
 Todos tienen fechas de vencimiento. Todos importan en el momento menos indicado. Nadie te avisa hasta que es demasiado tarde, o ya estás parado en la embajada dándote cuenta de que tu visa venció el mes pasado.
 
-La aplicación los maneja todos. Cualquier cosa con una fecha de vencimiento, pasaportes, visas, permisos de trabajo, seguros, licencias, lo que tu familia necesite, un lugar, rastreado, ordenado.
+La aplicación los maneja todos. Pasaportes, visas, documentos de identidad y seguros tienen sus propios tipos de documento, y cualquier otra cosa con fecha de vencimiento, como un permiso de trabajo o una licencia, va en Otro, un lugar, rastreado, ordenado.
 
 ## Cuando las cosas salen mal en el extranjero
 
-Los pasaportes se pierden y se roban en el extranjero todos los días, y sustituir uno desde otro país es un trámite lento. Si te sucede en el extranjero, no estás empezando desde cero.
+Los pasaportes sí se pierden y se roban en el extranjero, y sustituir uno desde otro país es un trámite lento. Si te sucede en el extranjero, no estás empezando desde cero.
 
 Números de documentos, fechas de vencimiento, escaneos claros, todo listo cuando necesites presentar un informe o comunicarte con una embajada. No reemplaza los originales, pero te da lo que necesitas para avanzar rápido. Sin Wi-Fi, sin pánico.
 

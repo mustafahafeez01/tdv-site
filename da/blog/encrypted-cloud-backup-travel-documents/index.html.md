@@ -26,9 +26,9 @@ Kryptering blander en fil, så kun en tilsvarende nøgle kan gøre den læselig 
 
 To forskellige opsætninger sælges begge som krypteret backup, og de fungerer meget forskelligt.
 
-Den ene sender filen til virksomhedens server via en krypteret forbindelse og opbevarer den derefter krypteret, mens den ligger stille. Begge dele er sande, og begge lyder betryggende. Men virksomheden har stadig nøglen, så den kan dekryptere dine dokumenter, når som helst den har brug for det: for at køre en funktion, for at besvare en juridisk anmodning, eller fordi nogen internt har lavet en fejl. Din passcanning er læselig i den anden ende.
+Den ene sender filen til virksomhedens server via en krypteret forbindelse og opbevarer den derefter krypteret, mens den ligger stille. Begge dele er sande, og begge lyder betryggende. Men virksomheden har stadig nøglen, så den teknisk set kan dekryptere dine dokumenter, hvad enten det er til en funktion, en juridisk anmodning eller ved en intern fejl. Din passcanning er læselig i den anden ende.
 
-Den anden opsætning blander filen på din telefon, før den sendes nogen steder, med en nøgle udledt af noget, kun du har. Det, der ankommer til lagringen, er en blok af støj, og ingen i den anden ende kan læse det, fordi ingen i den anden ende har nøglen. Det kaldes normalt end-to-end-krypteret eller zero-knowledge.
+Den anden opsætning blander filen på din telefon, før den sendes nogen steder, med en nøgle udledt af noget, kun du har. Det, der ankommer til lagringen, er en blok af støj, og ingen i den anden ende kan læse det, fordi ingen i den anden ende har nøglen. Det beskrives ofte som end-to-end-krypteret eller zero-knowledge.
 
 Så spørgsmålet, det er værd at stille til enhver app, er kort: **hvem har nøglen?** Alt andet i markedsføringen følger af svaret.
 
@@ -55,7 +55,7 @@ Behandl derfor koden som det ene, du skal have styr på:
 
 Det afhænger fuldstændigt af, hvad der når skyen, og det er et spørgsmål om appen snarere end om skyen selv.
 
-Et foto af dit pas i et almindeligt fotobibliotek eller en synkroniseret mappe ankommer læseligt. Det ligger i en konto beskyttet af en adgangskode, du måske har genbrugt. Det bliver indekseret og miniaturebilledet, og alle, der kommer ind i den konto, ser en ren kopi af identitetssiden. Vi har gennemgået, hvordan den eksponering reelt ser ud, i vores artikel om [at opbevare et pas i Google Fotos](https://traveldocumentvault.com/da/blog/is-it-safe-to-store-passport-in-google-photos/). Det er en reel risiko, og det er den opsætning, de fleste familier kører med, uden nogensinde at have valgt den aktivt.
+Et foto af dit pas i et almindeligt fotobibliotek eller en synkroniseret mappe ankommer læseligt. Det ligger i en konto beskyttet af en adgangskode, du måske har genbrugt. Afhængigt af tjenesten kan det blive indekseret eller vist som et miniaturebillede, og alle, der kommer ind i den konto, ser en ren kopi af identitetssiden. Vi har gennemgået, hvordan den eksponering reelt ser ud, i vores artikel om [at opbevare et pas i Google Fotos](https://traveldocumentvault.com/da/blog/is-it-safe-to-store-passport-in-google-photos/). Det er en reel risiko, og det er den opsætning, de fleste familier kører med, uden nogensinde at have valgt den aktivt.
 
 Et arkiv, der er krypteret på enheden før upload, ankommer som krypteret tekst. Nogen, der bryder ind i cloud-kontoen, finder en fil, de ikke kan åbne. Beskyttelsen følger filen i stedet for at afhænge af den konto, den lander i.
 
@@ -82,7 +82,7 @@ Gendannelsestiden afhænger af boksens størrelse og din forbindelse.
 
 Installer appen på den nye telefon, og log ind med den samme iCloud- eller Google-konto, du brugte før. Med Pro og cloud-backup slået fra på modtagerenheden skal du åbne Indstillinger, Skybakup og derefter Gendann fra sikkerhedskopi. Vælg den eksisterende boks, indtast gendannelseskoden, og bekræft gendannelsen, som erstatter lokalt boksindhold. Profiler, dokumenter og udløbsdatoer gendannes; notifikationer genoprettes på modtagerenheden.
 
-Appen tjekker også, før den skriver. Hvis cloud-backup finder en eksisterende backup i den konto, bliver du bedt om at vælge mellem at gendanne og starte forfra. En ny telefon kan ikke stille og roligt overskrive det, der allerede er der.
+Appen tjekker også, før den skriver. Hvis cloud-backup finder en eksisterende backup lavet med den samme gendannelseskode, spørger appen, om du vil flette med den eller starte forfra, så en ny telefon ikke ubemærket kan overskrive det, der allerede er der. Starter du forfra, bliver den anden backup liggende.
 
 ### Skift mellem iPhone og Android betyder, at du skal eksportere din boks
 

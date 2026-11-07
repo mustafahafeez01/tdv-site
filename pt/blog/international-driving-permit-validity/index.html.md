@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/pt/blog/international-driving-permit-val
 - Os países ratificaram convenções diferentes, por isso **uma carta aceite num país pode ser recusada no seguinte**.
 - Passaporte, carta de condução e carta internacional seguem **três calendários distintos** que quase nunca coincidem.
 
-Uma carta de condução internacional é uma tradução da carta, não uma carta por direito próprio, e corre segundo o seu próprio calendário. A maioria é válida por doze meses a contar da data de emissão, pelo que a comprada para uma viagem há três verões está quase de certeza caducada. Os balcões de aluguer de vários países pedem-na antes de entregar o carro.
+Uma carta de condução internacional é uma tradução da carta, não uma carta por direito próprio, e corre segundo o seu próprio calendário. Muitas são válidas por doze meses a contar da data de emissão, e nenhuma ultrapassa três anos, pelo que a comprada para uma viagem há três verões está quase de certeza caducada. Os balcões de aluguer de vários países pedem-na antes de entregar o carro.
 
 Uma Carta de Condução Internacional tem a sua própria data de validade, e essa data comporta-se de forma diferente consoante a convenção internacional ao abrigo da qual a carta foi emitida. A maioria dos condutores só descobre que existe mais do que um tipo quando um deles é recusado.
 
@@ -30,7 +30,7 @@ Isto engana as pessoas com mais frequência do que as datas de validade. A carta
 
 ## Duas Convenções Decidem a Duração e Onde Vale a Carta
 
-Existem três acordos internacionais por trás das Cartas de Condução Internacionais, e os países aderiram a um deles ou a vários. Dois fazem praticamente todo o trabalho: a Convenção de Genebra de 1949 e a Convenção de Viena de 1968. Uma carta mais antiga, ao abrigo da Convenção de Paris de 1926, ainda é emitida para um pequeno número de destinos e, tal como a carta de Genebra, tem a duração de um ano.
+Existem três acordos internacionais por trás das Cartas de Condução Internacionais, e os países aderiram a um deles ou a vários. Dois fazem praticamente todo o trabalho: a Convenção de Genebra de 1949 e a Convenção de Viena de 1968. Também existe uma carta mais antiga, ao abrigo da Convenção de Paris de 1926, que alguns destinos ainda indicam. Confirme a data de validade impressa na carta.
 
 Uma carta emitida ao abrigo da Convenção de Genebra de 1949 é válida durante um ano. Uma carta emitida ao abrigo da Convenção de Viena de 1968 pode durar até três anos.
 
@@ -40,8 +40,8 @@ Esta divisão importa por duas razões. Determina a duração da sua carta e dec
 
 | Tipo de carta | Duração | O que a limita |
 |---|---|---|
-| **Convenção de Paris de 1926** | Um ano | A data de emissão. Raramente necessária atualmente |
-| **Convenção de Genebra de 1949** | Um ano | A data de emissão |
+| **Convenção de Paris de 1926** | Consulte a data de validade impressa | A data de emissão. Raramente necessária atualmente |
+| **Convenção de Genebra de 1949** | Consulte a data de validade impressa | A data de emissão |
 | **Convenção de Viena de 1968** | Até três anos | A sua carta de condução nacional, se caducar primeiro |
 
 ## A Carta de Três Anos Que Muitas Vezes Não É
@@ -50,7 +50,7 @@ Esses três anos têm uma condição fácil de ignorar. Uma carta de Viena caduc
 
 Suponha que a sua carta tem 14 meses de validade e lhe é emitida uma carta internacional de três anos. Essa carta só é útil durante 14 meses. A data impressa na capa não se sobrepõe à carta que está por trás dela.
 
-Renovar a carta de condução depois também não salva a carta internacional. Esta permanece associada à carta contra a qual foi emitida, por isso uma carta nova significa, geralmente, uma nova carta internacional. Se a sua carta de condução tem de ser renovada antes da viagem, renovávamo-la primeiro e pedíamos a carta internacional depois, para que fique associada à carta nova.
+Renovar a carta de condução depois também não salva a carta internacional. A sua validade está associada à carta com base na qual foi emitida, por isso uma carta nova significa, geralmente, uma nova carta internacional. Se a sua carta de condução tem de ser renovada antes da viagem, renovávamo-la primeiro e pedíamos a carta internacional depois, para que fique associada à carta nova.
 
 ## A Carta Internacional É a Data Que Ninguém Vigia
 
@@ -90,9 +90,9 @@ Onde isto mais pesa é numa viagem reservada em cima da hora. A carta internacio
 
 ## Não Existe Nenhuma Licença Internacional de Condução
 
-Procure por Carta de Condução Internacional e vai encontrar sites a vender algo chamado licença internacional de condução, muitas vezes por um preço bastante superior ao da carta oficial, prometendo por vezes entrega instantânea ou uma década de validade.
+Procure por Carta de Condução Internacional e vai encontrar sites a vender algo chamado licença internacional de condução, por vezes por um preço superior ao da carta oficial, prometendo por vezes entrega instantânea ou uma década de validade.
 
-Essa licença não existe. Os únicos documentos com validade legal são as cartas emitidas ao abrigo das convenções de 1926, 1949 e 1968, através do canal designado pelo seu próprio país. Três anos numa carta de Viena é o máximo que qualquer uma delas dura, por isso qualquer anúncio de 10 ou 20 anos descreve um documento que nenhum agente de fronteira é obrigado a aceitar.
+Essa licença não existe. As cartas emitidas ao abrigo das convenções de 1926, 1949 e 1968, através do canal designado pelo seu próprio país, são os documentos previstos nessas convenções. Os três anos da carta de Viena são o máximo permitido pela convenção de 1968, por isso qualquer anúncio de 10 ou 20 anos descreve algo fora do seu âmbito.
 
 Se está a preparar uma lista mais ampla antes da viagem, e não apenas o lado da condução, a nossa [lista de verificação de documentos de viagem internacional](https://traveldocumentvault.com/pt/blog/travel-document-checklist/) percorre o que reunir antes de voar, e [os documentos que as pessoas esquecem](https://traveldocumentvault.com/pt/blog/what-documents-to-carry-when-travelling-internationally/) aborda onde é melhor guardar cada um depois de partir.
 
@@ -122,7 +122,7 @@ Sim, se for uma carta de Viena de 1968. Esse tipo está limitado pela sua carta 
 
 ### Por que existe mais do que um tipo de Carta de Condução Internacional?
 
-Resultam de convenções internacionais distintas. A maioria das viagens está coberta pela Convenção de Genebra de 1949 e pela Convenção de Viena de 1968, e uma carta mais antiga, ao abrigo da Convenção de Paris de 1926, ainda é emitida para um pequeno número de destinos. Os países ratificaram convenções diferentes, e é por isso que uma carta aceite num país pode ser recusada noutro.
+Resultam de convenções internacionais distintas. A maioria das viagens está coberta pela Convenção de Genebra de 1949 e pela Convenção de Viena de 1968, e também existe uma carta mais antiga, ao abrigo da Convenção de Paris de 1926, que alguns destinos ainda indicam. Os países ratificaram convenções diferentes, e é por isso que uma carta aceite num país pode ser recusada noutro.
 
 ## Artigos Relacionados
 

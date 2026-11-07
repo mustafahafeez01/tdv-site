@@ -22,7 +22,7 @@ Passaporte e visto parecem quase intermutáveis, mas têm funções diferentes: 
 
 O seu passaporte contém o seu nome, data de nascimento, foto e um número de passaporte único — emitido pelo seu governo e reconhecido mundialmente como prova da sua nacionalidade.
 
-Funciona como a sua identificação oficial para viagens internacionais. Sem ele, não pode sair legalmente do seu país nem entrar na maioria dos destinos estrangeiros. Os agentes de imigração examinam-no nas fronteiras, as companhias aéreas exigem-no para voos internacionais, e os agentes de alfândegas verificam-no quando chega.
+Funciona como a sua identificação oficial para viagens internacionais. Na maioria das viagens internacionais precisa dele para sair do seu país e para ser admitido no estrangeiro, embora algumas regiões aceitem outros documentos, como os cartões de cidadão na Europa ou o cartão de passaporte dos EUA em travessias terrestres e marítimas. Os agentes de imigração examinam-no nas fronteiras, as companhias aéreas exigem-no para voos internacionais, e os agentes de alfândegas verificam-no quando chega.
 
 Os passaportes são geralmente válidos durante vários anos (frequentemente 10 anos para adultos, 5 anos para crianças), embora os períodos de validade variem consoante o país. Quando o seu passaporte expira, não pode viajar internacionalmente e deve solicitar uma renovação. Acompanhar a data de expiração do seu passaporte é crítico, pois muitos países exigem pelo menos 6 meses de validade restante antes de o deixarem entrar.
 
@@ -38,7 +38,7 @@ Os requisitos de visto dependem da sua nacionalidade. Um cidadão de um país po
 
 O seu passaporte responde a uma pergunta: "Quem é e qual país emitiu este documento?" O seu visto responde a outra: "O país de destino o autoriza a visitar?" Em conjunto, funcionam como uma chave de duas partes — o seu passaporte deixa-o sair de casa, e o seu visto concede entrada no seu destino.
 
-A maioria das viagens internacionais exigem um passaporte válido e um visto apropriado (ou confirmação de que um visto não é necessário para o seu destino). Sem um passaporte, não pode sair legalmente do seu país. Sem um visto obrigatório, não pode entrar no seu destino, independentemente de quão válido seja o seu passaporte. Muitas perturbações de viagem ocorrem porque os viajantes têm passaportes válidos mas esquecem-se de verificar os requisitos de visto antes de reservarem.
+A maioria das viagens internacionais exigem um passaporte válido e um visto apropriado (ou confirmação de que um visto não é necessário para o seu destino). Na maioria das viagens internacionais, não pode partir sem passaporte. Sem um visto obrigatório, não pode entrar no seu destino, independentemente de quão válido seja o seu passaporte. Muitas perturbações de viagem ocorrem porque os viajantes têm passaportes válidos mas esquecem-se de verificar os requisitos de visto antes de reservarem.
 
 ## O Passaporte É a Mesma Coisa Que um Visto?
 
@@ -60,7 +60,7 @@ A maioria dos países emite vistos nestas categorias:
 - **Visto de trabalho:** Obrigatório para emprego no estrangeiro. Os empregadores geralmente patrocinam estes, com restrições específicas sobre qual trabalho é permitido.
 - **Visto de estudante:** Para estudar numa instituição educativa reconhecida, frequentemente com restrições em trabalho exterior e limites de duração específicos.
 - **Visto de trânsito:** Exigido por alguns países para passar enquanto vai para outro destino — mesmo que apenas esteja a mudar de avião.
-- **Visto eletrónico:** Um visto eletrónico pedido online e armazenado no sistema do país de destino, ligado ao seu número de passaporte. Comum no Sudeste Asiático e cada vez mais noutros locais.
+- **Visto eletrónico:** Um visto eletrónico pedido online e normalmente armazenado no sistema do país de destino, ligado ao seu número de passaporte. Comum no Sudeste Asiático e cada vez mais noutros locais.
 - **Visto na chegada:** Emitido no seu aeroporto de destino ou na fronteira quando chega. O processamento é geralmente rápido, embora as filas possam ser longas, e nem todos os países oferecem esta opção.
 
 Os requisitos de visto dentro de cada categoria variam dramaticamente. Um visto turístico para um país pode ser válido por 30 dias; outro pode permitir 90 dias. Alguns são de entrada única (pode apenas entrar uma vez), enquanto outros permitem múltiplas entradas.
@@ -69,7 +69,7 @@ Os requisitos de visto dentro de cada categoria variam dramaticamente. Um visto 
 |---|---|---|
 | **Emitido por** | O seu país de origem | País de destino |
 | **Fim** | Prova nacionalidade e identidade | Concede permissão para entrar num país específico |
-| **Obrigatório para** | Todas as viagens internacionais | Viagens para muitos (não todos) países |
+| **Obrigatório para** | A maioria das viagens internacionais | Viagens para muitos (não todos) países |
 | **Período de validade** | Geralmente 5-10 anos | Varia: dias a anos consoante o tipo |
 | **Localização de candidatura** | Escritório governamental no seu país | Embaixada ou consulado do país de destino |
 | **Tempo de processamento** | Semanas a meses consoante o país | Dias a meses consoante o destino e o tipo |
@@ -79,7 +79,7 @@ Os requisitos de visto dentro de cada categoria variam dramaticamente. Um visto 
 
 Uma fonte de confusão envolve a diferença entre um selo de visto tradicional e um visto eletrónico moderno. Historicamente, os agentes carimbavam ou escreviam aprovação diretamente no seu passaporte — veria marcas oficiais, datas e notas de aprovação impressas nas páginas. Os vistos eletrónicos funcionam diferentemente: pede online, paga uma taxa e recebe aprovação por email em vez de um carimbo físico.
 
-Em vez de ser impresso no seu passaporte, um visto eletrónico é armazenado no sistema eletrónico do país de destino e ligado ao seu número de passaporte. Quando chega, os agentes de fronteira procuram-no no seu sistema para confirmar o seu visto. Ambos os tipos são igualmente válidos e vinculativos legalmente.
+Em vez de ser impresso no seu passaporte, um visto eletrónico é normalmente armazenado no sistema eletrónico do país de destino e ligado ao seu número de passaporte. Quando chega, os agentes de fronteira procuram-no no seu sistema para confirmar o seu visto. Ambos os tipos são igualmente válidos e vinculativos legalmente.
 
 Um cenário comum: obtém um novo passaporte antes do seu visto expirar. Na maioria dos países, o seu visto permanece válido mesmo que o seu passaporte tenha mudado. Simplesmente transporte ambos o passaporte antigo (expirado) que contém o visto e o seu novo passaporte quando viaja — os agentes de imigração verificarão-os em conjunto.
 
@@ -87,7 +87,7 @@ Um cenário comum: obtém um novo passaporte antes do seu visto expirar. Na maio
 
 A chave é a sua nacionalidade e o seu destino. Um viajante pode precisar de visto para uma rota que outro pode percorrer sem visto, dependendo inteiramente do seu passaporte. Verifique sempre os seus requisitos específicos com fontes oficiais antes de reservar — não confie no que funcionou para um amigo com um passaporte diferente.
 
-- **Centro de Viagem IATA:** Pesquise consoante o seu país de passaporte e o país de destino para ver os requisitos exatos, tempos de processamento e períodos de validade. Este é o ponto de partida mais rápido para a maioria das rotas.
+- **Centro de Viagem IATA:** Pesquise consoante o seu país de passaporte e o país de destino para ver os requisitos de passaporte, visto e saúde para esse par. Este é o ponto de partida mais rápido para a maioria das rotas.
 - **Embaixada ou consulado oficial do seu país de destino:** Visite o site da embaixada para o seu país de residência. Listam os requisitos de visto, processos de candidatura, taxas e tempos de processamento específicos para a sua nacionalidade. Por exemplo, pesquise "embaixada francesa no Canadá" ou "consulado alemão na Austrália" para encontrar o site correto.
 - **Aviso de viagem do seu próprio governo:** Governos como o Reino Unido, EUA, Austrália e Canadá publicam requisitos de visto para os seus cidadãos. Estas páginas também sinalizam mudanças recentes e circunstâncias especiais.
 
@@ -107,7 +107,7 @@ A confusão é que o seu passaporte antigo expirou como documento de viagem, ao 
 
 ## A viagem sem visto continua a ter limites
 
-Muitas nações têm acordos de dispensa de visto ou isenção de visto entre si, permitindo aos seus cidadãos atravessar fronteiras sem obter um visto antecipadamente. A Área de Schengen na Europa é o exemplo mais bem conhecido — os detentores de passaportes de países membros podem circular livremente através dos seus 29 estados membros sem verificações de visto. O Sudeste Asiático, as Caraíbas e partes de África têm esquemas semelhantes.
+Muitas nações têm acordos de dispensa de visto ou isenção de visto entre si, permitindo aos seus cidadãos atravessar fronteiras sem obter um visto antecipadamente. A Área de Schengen na Europa é o exemplo mais bem conhecido — os viajantes podem, em geral, circular entre os seus 29 estados membros sem controlos fronteiriços de rotina, embora alguns países reintroduzam controlos temporários. O Sudeste Asiático, as Caraíbas e partes de África têm esquemas semelhantes.
 
 No entanto, as viagens sem visto têm limites. Geralmente aplica-se apenas ao turismo ou visitas de curta duração, não para trabalho ou estudo. Os períodos isento de visto também são limitados, frequentemente 30 a 90 dias dependendo do país. Se exceder o tempo permitido, torna-se residente ilegal e enfrenta penalidades incluindo multas, deportação ou proibições de entrada futuras.
 
@@ -139,7 +139,7 @@ Tradicionalmente o visto é uma etiqueta ou um carimbo aplicado numa página do 
 
 ### Qual é a forma por extenso de passaporte e visto
 
-Nenhuma das duas palavras é sigla, portanto não há nada a expandir. São palavras comuns de origem antiga: passaporte vem do francês passeport, e visto do latim para um papel que foi visto.
+Nenhuma das duas palavras é sigla, portanto não há nada a expandir.
 
 ### Um cartão Visa é a mesma coisa que um visto de viagem
 
@@ -147,7 +147,7 @@ Não, e o nome em comum é coincidência, não ligação. A Visa, rede de pagame
 
 ### Dá para usar um visto de um passaporte vencido
 
-Na maioria dos países, sim. A validade do visto é separada da validade do passaporte, então um visto ainda válido num passaporte vencido costuma continuar utilizável se você levar as duas cadernetas juntas. Alguns países exigem transferir o visto para o passaporte novo, então confirme a regra do seu destino com a embaixada dele antes de viajar.
+Muitas vezes, sim. A validade do visto é separada da validade do passaporte, então um visto ainda válido num passaporte vencido costuma continuar utilizável se você levar as duas cadernetas juntas. Alguns países exigem transferir o visto para o passaporte novo, então confirme a regra do seu destino com a embaixada dele antes de viajar.
 
 ## Artigos Relacionados
 

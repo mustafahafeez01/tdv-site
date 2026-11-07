@@ -26,7 +26,7 @@ Deze gids behandelt het hele systeem; voor meer over één onderdeel, zoals de t
 
 Het hangt af van waar je heen gaat, maar voor de meeste internationale gezinsreizen is de lijst langer dan mensen verwachten. Hier is de basischecklist voor gezinnen, te beginnen met de identiteitsdocumenten die iedereen nodig heeft:
 
-- Paspoorten voor elk gezinslid (controleer geldigheid minstens 3 maanden voor vertrek)
+- Paspoorten voor elk gezinslid (controleer ruim voordat je boekt of ze aan de inreisregels voldoen; wij zouden drie maanden van tevoren beginnen)
 - Visa, indien vereist door het land van bestemming
 - Nationale identiteitskaarten indien deze worden geaccepteerd in plaats van paspoorten (Schengenreizen voor EU-burgers)
 
@@ -45,9 +45,9 @@ Het hangt af van waar je heen gaat, maar voor de meeste internationale gezinsrei
 
 ### Toestemmingsverklaring voor kinderen op reis: wanneer heb je die nodig
 
-Een toestemmingsverklaring voor een reizend kind is een ondertekend document van de afwezige ouder (of voogd) waarin toestemming wordt gegeven voor de reis van het kind. Het is niet overal wettelijk verplicht, maar grensbeambten in veel landen – waaronder de VS, Canada, Mexico en verscheidene andere – vragen er regelmatig om wanneer een kind met slechts één ouder of met een andere volwassene reist.
+Een toestemmingsverklaring voor een reizend kind is een ondertekend document van de afwezige ouder (of voogd) waarin toestemming wordt gegeven voor de reis van het kind. Het is doorgaans geen wettelijke verplichting, maar grensbeambten in sommige landen, waaronder Canada, kunnen om bewijs vragen dat beide ouders instemmen wanneer een kind met slechts één ouder of met een andere volwassene reist. Een brief is makkelijk mee te nemen en kan vragen aan de grens schelen.
 
-Zonder deze verklaring loop je het risico op vertraging, extra vragen of in sommige gevallen geweigerde toegang. Sommige landen, zoals Canada en Zuid-Afrika, staan erom bekend deze documentatie streng te vragen.
+Zuid-Afrika heeft eigen regels voor reizen met kinderen, waaronder een volledige geboorteakte. Controleer daarom voor vertrek de richtlijnen van Home Affairs.
 
 Een geldige toestemmingsverklaring bevat: de volledige naam en geboortedatum van het kind, namen en contactgegevens van beide ouders, de gegevens van de reizende ouder, bestemming(en) en reisdata, en de handtekening van de afwezige ouder (notarieel bekrachtigde kopieën zijn overtuigender, hoewel niet altijd verplicht). Bewaar een kopie zowel digitaal als op papier.
 
@@ -57,7 +57,7 @@ Een geldige toestemmingsverklaring bevat: de volledige naam en geboortedatum van
 
 - Internationaal rijbewijs (als je in het buitenland een auto huurt)
 - Medische dossiers of receptgegevens voor doorlopende behandelingen
-- Europese zorgpas (EHIC) voor EU-reizigers
+- Europese zorgpas (EHIC), als je onder een zorgstelsel van een EU-land valt
 
 ## Fysieke organisatie: waar je de originelen bewaart
 
@@ -95,7 +95,7 @@ Dit is het patroon dat gezinnen te pakken krijgt: je vernieuwt je eigen paspoort
 
 - **Agendaherinneringen:** Stel er één in 12 maanden voor elk document verloopt en nog één bij 6 maanden. Je moet ze zelf bijwerken zodra documenten worden vernieuwd, en je moet de vervaldatums om te beginnen al bij de hand hebben.
 - **Spreadsheet:** Werkt prima als je het daadwerkelijk bijhoudt. Eén rij per document per persoon, de vervaldatum, en een formule die alles markeert wat binnen 12 maanden verloopt.
-- **Speciale app:** Travel Document Vault plant paspoortherinneringen vanaf acht maanden voor de vervaldatum, met meldingen op kortere intervallen. Scan een paspoort en bevestig de vervaldatum of voer die zelf in; herinneringen staan standaard aan.
+- **Speciale app:** Travel Document Vault plant paspoortherinneringen vanaf acht maanden voor de vervaldatum, met meldingen op kortere intervallen. Scan een paspoort en bevestig de vervaldatum of voer die zelf in; je kiest zelf of je herinneringen inschakelt.
 
 Alle drie de methoden werken, maar wij zouden de methode kiezen die de herinnering automatisch stuurt, want een spreadsheet helpt alleen als je eraan denkt hem te openen. Waar het het meest op aankomt, is er een kiezen die past bij hoe je al werkt en er ook echt aan vasthouden.
 
@@ -148,7 +148,7 @@ Controleer voordat je vluchten boekt – en minimaal drie maanden voor vertrek. 
 
 ### Heb ik een toestemmingsverklaring nodig als ik alleen met mijn kind reis?
 
-Het is niet altijd wettelijk verplicht, maar het wordt sterk aangeraden. Grensbeambten in landen als Canada, Zuid-Afrika, Mexico en vele andere vragen regelmatig om een toestemmingsverklaring wanneer een kind met slechts één ouder reist. Zonder deze verklaring loop je het risico op vertraging, extra vragen of geweigerde toegang. De verklaring moet de gegevens van het kind bevatten, contactgegevens van beide ouders, reisdata, bestemmingen en de handtekening van de afwezige ouder – indien mogelijk notarieel bekrachtigd.
+Het is niet altijd wettelijk verplicht, maar het wordt sterk aangeraden. Grensbeambten in sommige landen, zoals Canada, kunnen om een toestemmingsverklaring vragen wanneer een kind met slechts één ouder reist. Zonder die verklaring kun je extra vragen krijgen. De verklaring moet de gegevens van het kind bevatten, contactgegevens van beide ouders, reisdata, bestemmingen en de handtekening van de afwezige ouder – indien mogelijk notarieel bekrachtigd.
 
 ## Gerelateerde artikelen
 

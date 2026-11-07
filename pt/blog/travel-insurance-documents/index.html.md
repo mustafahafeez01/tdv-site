@@ -12,8 +12,8 @@ Source: https://traveldocumentvault.com/pt/blog/travel-insurance-documents/
 
 - **Guarde o documento da apólice completo, número da apólice e a linha de contacto de emergência 24 horas** (não o número de vendas).
 - Armazene cópias offline e acessivelmente — o email sozinho não ajuda quando está preso ou num hospital.
-- **A pré-aprovação para tratamento médico é exigida pela maioria das apólices**; ignorá-la pode reduzir ou anular a reclamação.
-- As reclamações são rejeitadas mais frequentemente por falta de documentação: relatório policial para roubo, recibos originais, formulários de reclamação assinados.
+- **Muitas apólices pedem que contacte a seguradora antes de receber tratamento médico**; ignorá-la pode reduzir ou anular a reclamação.
+- Uma causa comum de rejeição de pedidos de reembolso é a falta de documentação: relatório policial para roubo, recibos originais, formulários de reclamação assinados.
 - Leia as secções-chave da sua apólice concentrando-se nos limites de cobertura, exclusões e condições.
 
 O seguro de viagem conta mais no momento em que é mais difícil de alcançar: o balcão de um hospital no estrangeiro, uma esquadra, o balcão da companhia aérea após um cancelamento. O que importa então não é a apólice em si, mas se o número, a linha 24 horas da seguradora e o comprovativo de cobertura estão à mão. Este artigo explica o que guardar antes da partida, onde o manter para que abra sem internet e os erros de participação que mais vezes afundam um reembolso.
@@ -34,7 +34,7 @@ Os documentos da sua apólice estão nas mãos de quem lhe vendeu a cobertura, p
 - **O certificado ou aditamento:** o seu nome, número de apólice, datas de viagem e nível de cobertura
 - **O número de assistência de emergência 24 horas**, aquele que liga a partir de um hospital ou esquadra no estrangeiro
 
-Se nem se lembra de ter comprado uma apólice, verifique a sua conta bancária. O Financial Ombudsman Service descreve uma conta bancária com pacote como uma conta à ordem que cobra uma taxa mensal em troca de benefícios extra, incluindo seguro de viagem. Nesse caso é o banco, e não uma seguradora de viagem, que tem os seus documentos, por isso é na app, site ou linha de apoio dele que deve procurar.
+Se nem se lembra de ter comprado uma apólice, verifique a sua conta bancária. O Financial Ombudsman Service descreve uma conta bancária com pacote como uma conta à ordem que cobra uma taxa mensal em troca de benefícios extra, incluindo seguro de viagem. Nesse caso, o banco é geralmente o primeiro sítio onde deve perguntar, por isso experimente a app, o site ou a linha de apoio.
 
 Depois de os ter, o Foreign, Commonwealth and Development Office do Reino Unido recomenda levar consigo os dados da sua apólice, incluindo o número de apólice e o número de assistência de emergência da sua seguradora. Sugere também partilhá-los com quem viaja consigo e com a família em casa. Se ainda assim não encontrar nada, ligue para a seguradora, ou para o banco no caso de uma conta com pacote, e peça que lhe enviem novamente os documentos antes de voar, não depois de algo correr mal.
 
@@ -48,7 +48,7 @@ A sua apólice de seguro de viagem é normalmente um PDF. Esse ficheiro único c
 - Secção do que está coberto (limites de cobertura para médico, bagagem, cancelamento, etc.)
 - Exclusões e condições principais (incluindo requisitos de pré-aprovação)
 
-O número da apólice é crítico. Muitos sistemas telefónicos de seguradoras exigem-no antes de o encaminharem para uma pessoa real. Se não conseguir fornecê-lo, perderá tempo a procurar documentos enquanto o tempo passa.
+O número da apólice é crítico. Tenha o número da apólice à mão, pois a seguradora geralmente pede-o primeiro. Se não conseguir fornecê-lo, perderá tempo a procurar documentos enquanto o tempo passa.
 
 A linha de emergência é diferente da linha de atendimento ao cliente, que normalmente só funciona durante horário comercial, enquanto a linha de emergência funciona 24/7. Guarde ambas, mas saiba qual ligar no meio da noite quando está ferido.
 
@@ -92,7 +92,7 @@ Mesmo que tenha os seus documentos acessíveis, ainda pode perder a reclamação
 
 ### Reclamações Médicas: Não Obteve Pré-Aprovação
 
-A maioria das apólices de seguro de viagem exigem pré-aprovação antes do tratamento. Isto significa ligar à sua seguradora e obter aprovação antes de visitar um hospital ou clínica. Os requisitos variam por seguradora e tipo de apólice — verifique a secção de tratamento médico da sua apólice específica. Se ignorar este passo e pagar do seu bolso, frequentemente receberá rejeição com "o tratamento não foi pré-aprovado." Muitas seguradoras não reembolsarão sem pré-aprovação, mesmo que o tratamento fosse necessário e coberto.
+Muitas apólices de seguro de viagem pedem que contacte a seguradora antes do tratamento, por isso consulte as condições da sua. Isto geralmente significa ligar à sua seguradora e obter aprovação antes de visitar um hospital ou clínica. Os requisitos variam por seguradora e tipo de apólice — verifique a secção de tratamento médico da sua apólice específica. Se ignorar este passo e pagar do seu bolso, algumas seguradoras podem reduzir ou recusar o reembolso, mesmo que o tratamento fosse necessário e estivesse coberto.
 
 Digamos que é hospitalizado com apendicite em Mumbai. O hospital precisa de pagamento antecipado ou uma garantia da sua seguradora, e tem uma janela de duas horas antes da cirurgia. Sem o número de pré-aprovação da sua seguradora, o hospital exige dinheiro. Isso deixa duas opções más: pagar agora e arriscar uma reclamação rejeitada meses depois, ou atrasar a cirurgia enquanto persegue a sua seguradora. Uma chamada evita tudo isto. Com um número de confirmação à mão, o hospital cobra a sua seguradora diretamente.
 
@@ -100,7 +100,7 @@ Ação: Antes de qualquer tratamento, ligue à linha de emergência na sua apól
 
 ### Reclamações de Bagagem: Não Tem Relatório Policial
 
-Se a sua mala é roubada, perdida ou danificada, a maioria das apólices exigem um relatório policial do aeroporto ou delegação local. As seguradoras usam isto como prova. Verifique a secção "Como Fazer uma Reclamação" da sua apólice para requisitos exatos, pois estes variam por seguradora. Se ignorar denunciar à polícia e apenas apresentar reclamação ao aeroporto, muitas seguradoras rejeitam porque não há relatório de crime oficial. Para roubo ou perda (não simples dano), um relatório policial é normalmente obrigatório.
+Se a sua mala é roubada, perdida ou danificada, muitas apólices pedem um relatório policial do aeroporto ou delegação local. As seguradoras usam isto como prova. Verifique a secção "Como Fazer uma Reclamação" da sua apólice para requisitos exatos, pois estes variam por seguradora. Se ignorar denunciar à polícia e apenas apresentar reclamação ao aeroporto, algumas seguradoras podem recusar o reembolso por não haver um relatório policial. Para roubo ou perda (não simples dano), muitas apólices pedem um relatório policial, por isso confirme a sua.
 
 Ação: Se a sua mala desapareceu, denuncie ao balcão de achados do aeroporto. Se for roubo, apresente queixa junto da polícia no mesmo dia e obtenha uma cópia para enviar com a reclamação.
 
@@ -112,7 +112,7 @@ Guarde todos os recibos, originais físicos e cópias digitais. Tire fotografias
 
 ### Reclamações de Cancelamento: Não Leu a Letra Miúda
 
-O seguro de viagem cobre cancelamento de viagem apenas se cancelar por uma razão coberta específica, que varia por seguradora. Isto normalmente significa doença, lesão ou morte de um familiar. Raramente significa mudança de ideias, falta de vontade, ou mau tempo, a menos que o mau tempo incapacite o seu transporte. Se cancelar porque o preço do voo caiu, a maioria das apólices não o cobre. A generosidade da sua seguradora nesta matéria varia muito, por isso vale a pena ler atentamente a secção "cancelamento de viagem" antes de assumir que está coberto.
+O seguro de viagem cobre cancelamento de viagem apenas se cancelar por uma razão coberta específica, que varia por seguradora. Isto normalmente significa doença, lesão ou morte de um familiar, mas consulte a lista na sua apólice. Raramente significa mudança de ideias, falta de vontade, ou mau tempo, a menos que o mau tempo incapacite o seu transporte. Se cancelar porque o preço do voo caiu, a maioria das apólices não o cobre. A generosidade da sua seguradora nesta matéria varia muito, por isso vale a pena ler atentamente a secção "cancelamento de viagem" antes de assumir que está coberto.
 
 Ação: Antes de cancelar, verifique os detalhes de cobertura da sua apólice. Se acha que a sua razão é elegível, ligue à sua seguradora antes de cancelar o voo. Obtenha confirmação escrita de cobertura antes de prosseguir.
 
@@ -150,15 +150,15 @@ Vinte minutos agora e não estará à procura de nada numa crise.
 
 ### Preciso de transportar a minha apólice de seguro física quando viajo?
 
-Não, não precisa do documento em formato papel. Uma cópia digital no seu telemóvel ou uma fotografia é suficiente. A maioria das seguradoras e hospitais aceitam uma cópia digital ou apenas o número da apólice. No entanto, uma cópia de segurança em papel (fotocópia ou impressão) é sensata caso o telemóvel se descarregue. Ainda mais simples: escreva o número da apólice e a linha de emergência num cartão junto do seu passaporte.
+Não, não precisa do documento em formato papel. Uma cópia digital no seu telemóvel ou uma fotografia é suficiente. As seguradoras e os hospitais geralmente pedem o número da apólice, e uma cópia digital costuma ajudar. No entanto, uma cópia de segurança em papel (fotocópia ou impressão) é sensata caso o telemóvel se descarregue. Ainda mais simples: escreva o número da apólice e a linha de emergência num cartão junto do seu passaporte.
 
 ### O que devo fazer se não conseguir contactar a linha de emergência da minha seguradora no estrangeiro?
 
-As linhas de emergência de seguro de viagem normalmente aceitam chamadas internacionais em qualquer lugar do mundo. Verifique a sua apólice para um número alternativo para chamadas do exterior do país de origem da seguradora. Se não conseguir contactá-los, prossiga com o tratamento e guarde todos os recibos e documentação. Contacte-os assim que conseguir e verifique o prazo de reclamação na sua apólice. Tenha em atenção que prosseguir sem pré-aprovação pode reduzir ou negar a sua reclamação, portanto sempre tente contactá-los primeiro.
+Procure na apólice um número que funcione a partir do estrangeiro, pois os números gratuitos muitas vezes não funcionam. Muitas apólices indicam um número alternativo para chamadas de fora do país da seguradora. Se não conseguir contactá-los, prossiga com o tratamento e guarde todos os recibos e documentação. Contacte-os assim que conseguir e verifique o prazo de reclamação na sua apólice. Tenha em atenção que prosseguir sem pré-aprovação pode reduzir ou negar a sua reclamação, portanto sempre tente contactá-los primeiro.
 
 ### O que devo fazer se perder a minha apólice de seguro enquanto viajo?
 
-Se tiver o número da sua apólice e conseguir contactar a linha de emergência da sua seguradora, é tudo o que precisa. Forneça o número da apólice e dados pessoais por telefone e eles confirmarão a sua cobertura. Se guardou cópias de segurança (fotografias digitais, cópias na cloud ou notas escritas), use-as. A maioria das seguradoras mantém registos e pode reenviar a sua apólice imediatamente.
+Se tiver o número da sua apólice e conseguir contactar a linha de emergência da sua seguradora, é tudo o que precisa. Forneça o número da apólice e dados pessoais por telefone e eles confirmarão a sua cobertura. Se guardou cópias de segurança (fotografias digitais, cópias na cloud ou notas escritas), use-as. As seguradoras geralmente conseguem confirmar a cobertura pelo número da apólice e reenviar os documentos.
 
 ### Quais as secções de uma apólice de seguro de viagem que realmente preciso de ler?
 
@@ -166,7 +166,7 @@ Concentre-se em: resumo de cobertura ou mapa (os seus limites de pagamento), exc
 
 ### O seguro de viagem funciona em todos os países para os quais viajo?
 
-O seguro de viagem protege-o na maioria dos países do mundo durante a sua viagem, mas algumas apólices excluem certos destinos, regiões ou atividades. Verifique a secção de cobertura geográfica da sua apólice para quaisquer exclusões. Contanto que o seu destino não esteja explicitamente listado como excluído, a sua apólice cobre-o lá independentemente de qual país emitiu a apólice. As atividades de alto risco (montanhismo, desportos profissionais) podem ter exclusões separadas.
+O seguro de viagem protege-o na maioria dos países do mundo durante a sua viagem, mas algumas apólices excluem certos destinos, regiões ou atividades. Verifique a secção de cobertura geográfica da sua apólice para quaisquer exclusões. A cobertura varia consoante a apólice, por isso consulte a secção de cobertura geográfica para saber que destinos exclui. As atividades de alto risco (montanhismo, desportos profissionais) podem ter exclusões separadas.
 
 ## Artigos Relacionados
 

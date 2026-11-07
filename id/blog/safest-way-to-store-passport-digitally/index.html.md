@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/id/blog/safest-way-to-store-passport-dig
 ## Poin Penting
 
 - **iCloud Photos (dengan Perlindungan Data Lanjutan)** menawarkan enkripsi ujung ke ujung, tetapi tetap menghubungkan salinan paspor Anda ke akun Apple ID Anda.
-- **Google Photos** tidak terenkripsi ujung ke ujung secara bawaan dan mengindeks konten Anda, sehingga kurang cocok untuk dokumen identitas yang sensitif.
+- **Google Photos** tidak dijelaskan oleh Google sebagai layanan terenkripsi ujung ke ujung dan mengindeks konten Anda, sehingga kurang cocok untuk dokumen identitas yang sensitif.
 - **Aplikasi terenkripsi khusus** menyimpan data paspor di perangkat dengan enkripsi AES-256, tidak memerlukan akun atau unggahan ke cloud, dan bekerja secara luring. Ini adalah opsi paling aman.
 - Setiap pendekatan melibatkan kompromi antara kenyamanan dan keamanan yang perlu Anda pahami sebelum memilih.
 - Metode paling aman bergantung pada toleransi risiko pribadi Anda, tetapi salinan digital paspor Anda layak dijaga sama cermatnya dengan aslinya.
@@ -26,7 +26,7 @@ iCloud Photos secara otomatis menyinkronkan foto Anda di iPhone, iPad, dan Mac, 
 
 ### Tersinkronisasi Otomatis, tetapi Enkripsi Ujung ke Ujung Bersifat Opsional
 
-Foto yang Anda ambil diunggah ke iCloud dan dienkripsi dengan kunci yang diturunkan dari Apple ID Anda. Jika Anda mengaktifkan Perlindungan Data Lanjutan (lapisan enkripsi ujung ke ujung opsional dari Apple), foto Anda dienkripsi di server Apple menggunakan kunci yang hanya Anda miliki. Bahkan Apple pun tidak bisa mendekripsinya.
+Foto yang Anda ambil diunggah ke iCloud dan dienkripsi saat transmisi serta di server Apple, dengan kunci yang dipegang Apple. Jika Anda mengaktifkan Perlindungan Data Lanjutan (lapisan enkripsi ujung ke ujung opsional dari Apple), foto Anda dienkripsi di server Apple menggunakan kunci yang hanya Anda miliki. Bahkan Apple pun tidak bisa mendekripsinya.
 
 ### Apa yang Terlindungi, dan Apa yang Masih Bergantung pada Apple
 
@@ -39,7 +39,7 @@ Foto yang Anda ambil diunggah ke iCloud dan dienkripsi dengan kunci yang diturun
 
 Dari segi kenyamanan, iCloud Photos unggul: salinan paspor Anda otomatis tersinkronisasi di semua perangkat Apple Anda dan tetap ada meski Anda kehilangan ponsel. Mengaktifkan Perlindungan Data Lanjutan menambahkan enkripsi ujung ke ujung yang bahkan tidak bisa dilewati oleh Apple, sehingga secara signifikan meningkatkan keamanan dibandingkan penyimpanan iCloud standar.
 
-Namun, salinan paspor Anda menjadi terhubung dengan akun Apple ID Anda, menciptakan potensi satu titik kegagalan yang mencakup seluruh data iCloud Anda. Jika seseorang membobol Apple ID Anda melalui kata sandi yang lemah, kata sandi yang dipakai ulang, atau rekayasa sosial, mereka mendapatkan akses ke semua yang ada di akun iCloud Anda, termasuk hasil pindaian paspor Anda. Anda juga bergantung pada keamanan operasional Apple, yang berarti setiap pelanggaran pada sistem mereka akan mengekspos data Anda di server mereka, meskipun Apple umumnya dianggap sebagai pengelola keamanan yang andal.
+Namun, salinan paspor Anda menjadi terhubung dengan akun Apple ID Anda, menciptakan potensi satu titik kegagalan yang mencakup seluruh data iCloud Anda. Jika seseorang membobol Apple ID Anda melalui kata sandi yang lemah, kata sandi yang dipakai ulang, atau rekayasa sosial, mereka mungkin mendapatkan akses ke sebagian besar akun iCloud Anda, dan tanpa Perlindungan Data Lanjutan itu mencakup hasil pindaian paspor Anda. Anda juga bergantung pada keamanan operasional Apple: tanpa Perlindungan Data Lanjutan, Apple memegang kunci foto Anda di servernya, sehingga pelanggaran pada sistem tersebut pada prinsipnya bisa mengekspos foto itu. Dengan fitur itu aktif, kuncinya tetap di perangkat Anda.
 
 ## Opsi 2: Google Photos
 
@@ -51,7 +51,7 @@ Foto diunggah ke server Google dan dienkripsi saat transmisi. Google memproses f
 
 ### Tanpa Enkripsi Ujung ke Ujung Secara Bawaan
 
-- **Terenkripsi ujung ke ujung secara bawaan:** Tidak. Google Photos menggunakan enkripsi saat transmisi, tetapi bukan ujung ke ujung. Google bisa mendekripsi dan melihat foto Anda.
+- **Terenkripsi ujung ke ujung:** Tidak dijelaskan oleh Google. Google menjelaskan enkripsi saat transmisi dan saat disimpan, dan tidak menyebut Photos sebagai layanan terenkripsi ujung ke ujung. Sistem Google dapat memproses foto Anda.
 - **Pemindaian konten:** Google mengindeks dan menganalisis konten foto untuk fitur dan rekomendasi.
 - **Memerlukan akun:** Ya, akun Google Anda.
 - **Unggahan ke cloud:** Ya, otomatis.
@@ -59,11 +59,11 @@ Foto diunggah ke server Google dan dienkripsi saat transmisi. Google memproses f
 
 ### Integrasi yang Kuat, Perlindungan yang Lebih Lemah untuk Dokumen Sensitif
 
-Google Photos menawarkan integrasi mendalam dengan Android, opsi penyimpanan gratis, dan kemampuan pencarian yang kuat, yang menarik dari segi kenyamanan. Namun kerugian keamanan untuk dokumen sensitif lebih signifikan: Google Photos tidak menggunakan enkripsi ujung ke ujung secara bawaan, yang berarti Google secara teknis bisa mengakses foto Anda, dan hasil pindaian paspor Anda diproses oleh sistem analisis konten Google. Google juga pernah mengalami insiden keamanan di masa lalu, dan dokumen identitas memerlukan perlindungan yang sangat cermat, sehingga menjadikan Google Photos pilihan yang kurang aman dibandingkan alternatif lain jika melindungi data sensitif adalah prioritas Anda.
+Google Photos menawarkan integrasi mendalam dengan Android, kuota gratis yang dibagi di seluruh akun Google Anda, dan kemampuan pencarian yang kuat, yang menarik dari segi kenyamanan. Namun kerugian keamanan untuk dokumen sensitif lebih signifikan: Google tidak menyebut Photos sebagai layanan terenkripsi ujung ke ujung, sehingga sistemnya dapat memproses foto Anda, dan hasil pindaian paspor Anda diproses oleh sistem analisis konten Google. Dokumen identitas memerlukan perlindungan yang sangat cermat, sehingga menjadikan Google Photos pilihan yang kurang aman dibandingkan alternatif lain jika melindungi data sensitif adalah prioritas Anda.
 
 Apa artinya ini dalam praktik
 
-Jika akun Google Anda diretas, seseorang dengan akses tersebut dapat mengambil hasil pindaian paspor Anda dari perpustakaan foto Anda. Karena Google mengindeks foto-foto ini untuk pencarian, gambar tersebut diproses oleh sistem otomatis dan disimpan di berbagai lokasi dalam infrastruktur Google, sehingga memperluas permukaan risiko.
+Jika akun Google Anda diretas, seseorang dengan akses tersebut dapat mengambil hasil pindaian paspor Anda dari perpustakaan foto Anda. Karena Google mengindeks foto-foto ini untuk pencarian, gambar tersebut diproses oleh sistem otomatis dan hanya seaman akun yang menyimpannya.
 
 ## Opsi 3: Aplikasi terenkripsi khusus
 
@@ -124,11 +124,11 @@ Apa pun metode yang Anda pilih, ingatlah bahwa salinan digital paspor Anda sama 
 
 ### Apakah iCloud Photos aman untuk menyimpan salinan paspor?
 
-iCloud Photos dengan Perlindungan Data Lanjutan mengaktifkan enkripsi ujung ke ujung, yang lebih aman dibandingkan penyimpanan iCloud standar. Namun, hasil pindaian paspor Anda tetap terenkripsi dan tersimpan di server Apple, sehingga menciptakan permukaan kerentanan bersama dengan Apple ID Anda. Jika Apple ID Anda diretas, penyerang mendapatkan akses ke semua yang ada di akun iCloud Anda. Untuk dokumen identitas, ini menghadirkan risiko tambahan dibandingkan dengan hanya menyimpannya di perangkat Anda sendiri.
+iCloud Photos dengan Perlindungan Data Lanjutan mengaktifkan enkripsi ujung ke ujung, yang lebih aman dibandingkan penyimpanan iCloud standar. Namun, hasil pindaian paspor Anda tetap terenkripsi dan tersimpan di server Apple, sehingga menciptakan permukaan kerentanan bersama dengan Apple ID Anda. Jika Apple ID Anda diretas, penyerang mungkin mendapatkan akses ke sebagian besar akun iCloud Anda, dan tanpa Perlindungan Data Lanjutan itu mencakup hasil pindaian paspor Anda. Untuk dokumen identitas, ini menghadirkan risiko tambahan dibandingkan dengan hanya menyimpannya di perangkat Anda sendiri.
 
 ### Mengapa Google Photos tidak disarankan untuk menyimpan paspor?
 
-Google Photos tidak terenkripsi ujung ke ujung secara bawaan. Google mengindeks dan memindai konten foto untuk fitur seperti pencarian dan pengorganisasian, yang berarti gambar paspor Anda diproses oleh sistem Google. Google juga pernah mengalami insiden keamanan di masa lalu. Untuk dokumen identitas yang sensitif, kombinasi tidak adanya enkripsi ujung ke ujung secara bawaan dan pemindaian konten membuat Google Photos menjadi pilihan yang kurang aman dibandingkan alternatif lain.
+Google tidak menyebut Google Photos sebagai layanan terenkripsi ujung ke ujung. Google mengindeks dan memindai konten foto untuk fitur seperti pencarian dan pengorganisasian, yang berarti gambar paspor Anda diproses oleh sistem Google. Untuk dokumen identitas yang sensitif, kombinasi tidak adanya enkripsi ujung ke ujung yang dijelaskan dan pemindaian konten membuat Google Photos menjadi pilihan yang kurang aman dibandingkan alternatif lain.
 
 ### Apa keunggulan aplikasi terenkripsi khusus untuk menyimpan paspor?
 
@@ -140,7 +140,7 @@ Bisa. Banyak orang menyimpan salinan hasil pindaian di iCloud atau Google Photos
 
 ### Metode penyimpanan mana yang terbaik untuk keluarga dengan beberapa pelancong?
 
-Bagi keluarga, aplikasi terenkripsi khusus yang menyimpan dokumen beberapa orang dalam satu aplikasi, tanpa unggahan ke cloud, biasanya menawarkan keseimbangan terbaik antara keamanan dan kenyamanan. Ini memungkinkan satu orang tua atau wali mengelola dokumen paspor seluruh anggota keluarga tanpa mengharuskan setiap orang memiliki aplikasi atau akun cloud terpisah, sekaligus menjaga dokumen sensitif tetap jauh dari server eksternal.
+Bagi keluarga, aplikasi terenkripsi khusus yang menyimpan dokumen beberapa orang dalam satu aplikasi tanpa akun, tanpa unggahan ke cloud, biasanya menawarkan keseimbangan terbaik antara keamanan dan kenyamanan. Ini memungkinkan satu orang tua atau wali mengelola dokumen paspor seluruh anggota keluarga tanpa mengharuskan setiap orang memiliki aplikasi atau akun cloud terpisah, sekaligus menjaga dokumen sensitif tetap jauh dari server eksternal.
 
 ## Artikel Terkait
 

@@ -39,7 +39,7 @@ Et sikkerhedsbrud i en app med lokal lagring lækker intet fra deres servere –
 
 ### Varslingstiden er den indstilling, det er værd at tilpasse
 
-Dette er den enkeltstående mest værdifulde funktion. En påmindelse ved 6 måneder er minimum – mange lande kræver, at dit pas er gyldigt i mindst 6 måneder efter dine rejsedatoer, som forklaret i vores artikel om [6-måneders-reglen for pas](https://traveldocumentvault.com/da/blog/passport-expiry-6-month-rule/). For familier med børn, hvis pas udløber efter 5 år i stedet for 10, giver en tidligere påmindelse – for eksempel 9 måneder i forvejen – mere behagelig tid til planlægning.
+Dette er den enkeltstående mest værdifulde funktion. En påmindelse ved 6 måneder er minimum – mange lande kræver, at dit pas er gyldigt i mindst 6 måneder efter dine rejsedatoer, som forklaret i vores artikel om [6-måneders-reglen for pas](https://traveldocumentvault.com/da/blog/passport-expiry-6-month-rule/). Børnepas gælder ofte i 5 år i stedet for 10 (et britisk børnepas gælder for eksempel i 5 år), så en tidligere påmindelse giver – for eksempel 9 måneder i forvejen – mere behagelig tid til planlægning.
 
 ### Én app kan rumme hele familien, og det sikkert
 
@@ -70,7 +70,7 @@ Før du downloader, bør du spørge, om appen kræver en konto, uploader scannin
 | Kræver internet for at se dokumenter | Svigter, lige når du har mest brug for det – ved grænsen eller undervejs |
 | Ingen eller uklar privatlivspolitik | Du ved ikke, hvad der sker med dine scanninger |
 | Kun cloud-lagring uden mulighed for lokal lagring | Ét sikkerhedsbrud på serveren eksponerer alle brugeres pasdata |
-| Abonnementspris for grundlæggende funktioner | Månedlige gebyrer skaber et pres for at opsige – og du mister adgangen til dine dokumenter |
+| Abonnementspris for grundlæggende funktioner | Månedlige gebyrer skaber et pres for at opsige, og i nogle apps mister du så adgangen til dine dokumenter |
 
 Hvad det betyder i praksis
 
@@ -78,9 +78,9 @@ Du står ved en grænseovergang, telefonen er offline, og grænsevagten beder om
 
 ## Tjek, hvad der sker med dine dokumenter, hvis et abonnement udløber
 
-Der er et praktisk argument for engangskøbsapps frem for abonnementer, når det gælder opbevaring af dokumenter. Glemmer du at forny et abonnement – eller vælger du blot at opsige det – mister du adgangen til dine gemte dokumenter. Det er en risikabel ordning for noget, du måske stadig har brug for om flere år.
+Der er et praktisk argument for engangskøbsapps frem for abonnementer, når det gælder opbevaring af dokumenter. I nogle abonnementsapps kan du miste adgangen til dine gemte dokumenter, hvis du glemmer at forny eller vælger at opsige. Det er en risikabel ordning for noget, du måske stadig har brug for om flere år.
 
-En app med engangskøb forbliver derimod fuldt funktionsdygtig på ubestemt tid. Du betaler én gang, og appen bliver ved med at virke, uanset om udvikleren stadig aktivt tjener penge på den.
+En app med engangskøb har derimod ingen fornyelsesdato, der kan låse dig ude. Du betaler én gang, og dine dokumenter bliver på din enhed og kan åbnes som før.
 
 ## Sådan griber Travel Document Vault det an
 
@@ -124,7 +124,7 @@ De bedste apps til opbevaring af pas er designet til at virke fuldt ud offline. 
 
 ### Hvor lang tid i forvejen bør en pas-app minde mig om at forny?
 
-Som minimum 6 måneder før udløb, da mange lande kræver, at dit pas er gyldigt i mindst 6 måneder efter din afrejsedato. En god app til opbevaring af pas lader dig selv indstille tidspunktet for påmindelserne. For familier med børn, hvis pas udløber efter 5 år i stedet for 10, giver en tidligere påmindelse – for eksempel 9 måneder i forvejen – mere behagelig tid til planlægning.
+Som minimum 6 måneder før udløb, da mange lande kræver, at dit pas er gyldigt i mindst 6 måneder efter din afrejsedato. En god app til opbevaring af pas lader dig selv indstille tidspunktet for påmindelserne. Børnepas gælder ofte i 5 år i stedet for 10 (et britisk børnepas gælder for eksempel i 5 år), så en tidligere påmindelse giver – for eksempel 9 måneder i forvejen – mere behagelig tid til planlægning.
 
 ### Hvilke dokumenter bør en god app til opbevaring af pas understøtte?
 

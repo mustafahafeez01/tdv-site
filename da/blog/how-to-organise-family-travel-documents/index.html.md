@@ -26,7 +26,7 @@ Denne guide dækker hele systemet; vil I have mere om ét bestemt område, som f
 
 Det afhænger af, hvor I skal hen, men for de fleste internationale familierejser er listen længere end folk regner med. Her er kernelisten, og den starter med de identitetsdokumenter, alle har brug for:
 
-- Pas til hvert familiemedlem (tjek gyldighed mindst 3 måneder før afrejse)
+- Pas til hvert familiemedlem (tjek gyldigheden op mod destinationens indrejseregler, i god tid før I booker; vi ville starte tre måneder før afrejse)
 - Visa, hvis destinationslandet kræver det
 - Nationale ID-kort, hvis de accepteres i stedet for pas (Schengen-rejser for EU-borgere)
 
@@ -45,9 +45,9 @@ Det afhænger af, hvor I skal hen, men for de fleste internationale familierejse
 
 ### Samtykkebrev til børns rejse: hvornår har I brug for det
 
-Et samtykkebrev til børns rejse er et underskrevet dokument fra den fraværende forælder (eller værge), der giver tilladelse til, at barnet må rejse. Det er ikke et universelt lovkrav, men grænsemyndigheder i mange lande – herunder USA, Canada, Mexico og flere andre – beder ofte om det, når et barn rejser med kun én forælder eller med en anden voksen.
+Et samtykkebrev til børns rejse er et underskrevet dokument fra den fraværende forælder (eller værge), der giver tilladelse til, at barnet må rejse. Det er som regel ikke et lovkrav, men grænsemyndigheder i nogle lande, blandt andet Canada, kan bede om dokumentation for, at begge forældre er enige om rejsen, når et barn rejser med kun én forælder eller med en anden voksen. Brevet er nemt at tage med og kan spare jer for spørgsmål ved grænsen.
 
-Uden det risikerer I forsinkelser, ekstra spørgsmål eller i nogle tilfælde nægtet indrejse. Nogle lande, som Canada og Sydafrika, er kendt for strengt at kræve denne dokumentation.
+Sydafrika har sine egne regler for rejser med børn, blandt andet om en fuldstændig fødselsattest, så tjek vejledningen fra landets indenrigsministerium før afrejse.
 
 Et gyldigt samtykkebrev bør indeholde: barnets fulde navn og fødselsdato, begge forældres navne og kontaktoplysninger, den rejsende forælders oplysninger, destination(er) og rejsedatoer, samt den fraværende forælders underskrift (notariserede kopier virker mere overbevisende, selvom det ikke altid kræves). Gem en kopi både digitalt og fysisk.
 
@@ -57,7 +57,7 @@ Et gyldigt samtykkebrev bør indeholde: barnets fulde navn og fødselsdato, begg
 
 - Internationalt kørekort (hvis I lejer bil i udlandet)
 - Journaler eller receptoplysninger for igangværende behandlinger
-- Det Europæiske Sygesikringskort (EHIC) for EU-rejsende
+- Det Europæiske Sygesikringskort (EHIC), hvis I er dækket af et EU-lands offentlige sygesikring
 
 ## Fysisk organisering: hvor I skal opbevare originalerne
 
@@ -95,7 +95,7 @@ Her er mønstret, der fanger familier: I fornyer jeres eget pas, opdaterer kalen
 
 - **Kalenderpåmindelser:** Indstil én 12 måneder før hvert dokument udløber og en til ved 6 måneder. I skal huske at opdatere dem, når dokumenter fornyes, og I skal have udløbsdatoerne tilgængelige i første omgang.
 - **Regneark:** Virker godt, hvis I rent faktisk vedligeholder det. Én række pr. dokument pr. person, udløbsdatoen, og en formel, der markerer alt, der udløber inden for 12 måneder.
-- **Dedikeret app:** Travel Document Vault planlægger paspåmindelser fra otte måneder før udløb med advarsler med tættere intervaller. Scan et pas, og bekræft eller indtast udløbsdatoen; påmindelser er slået til som standard.
+- **Dedikeret app:** Travel Document Vault planlægger paspåmindelser fra otte måneder før udløb med advarsler med tættere intervaller. Scan et pas, og bekræft eller indtast udløbsdatoen; I vælger selv, om påmindelser skal slås til.
 
 Alle tre metoder virker, men vi ville som udgangspunkt vælge den, der sender påmindelsen automatisk, for et regneark hjælper kun, hvis I husker at åbne det. Det vigtigste er at vælge den, der passer til, hvordan I allerede gør tingene, og rent faktisk holde fast i den.
 
@@ -148,7 +148,7 @@ Tjek før I booker flyet – og som minimum tre måneder før afrejse. Fornyelse
 
 ### Har jeg brug for et samtykkebrev, når jeg rejser alene med mit barn?
 
-Det er ikke altid et lovkrav, men det anbefales kraftigt. Grænsemyndigheder i lande som Canada, Sydafrika, Mexico og mange andre beder ofte om et samtykkebrev, når et barn rejser med kun én forælder. Uden det risikerer I forsinkelser, ekstra spørgsmål eller nægtet indrejse. Brevet bør indeholde barnets oplysninger, begge forældres kontaktoplysninger, rejsedatoer, destinationer og den fraværende forælders underskrift – notariseret om muligt.
+Det er ikke altid et lovkrav, men det anbefales kraftigt. Grænsemyndigheder i nogle lande, for eksempel Canada, kan bede om et samtykkebrev, når et barn rejser med kun én forælder. Uden det kan I få ekstra spørgsmål. Brevet bør indeholde barnets oplysninger, begge forældres kontaktoplysninger, rejsedatoer, destinationer og den fraværende forælders underskrift – notariseret om muligt.
 
 ## Relaterede artikler
 

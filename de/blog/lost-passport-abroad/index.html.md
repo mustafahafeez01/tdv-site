@@ -11,9 +11,9 @@ Source: https://traveldocumentvault.com/de/blog/lost-passport-abroad/
 ## Wichtigste Erkenntnisse
 
 - Erstatten Sie früh eine Polizeianzeige – Ihr Versicherer wird sie meist verlangen, und manche Botschaften fragen auch danach.
-- Ihre Botschaft oder Ihr Konsulat kann ein Notfallreisedokument ausstellen, normalerweise weit schneller als einen Passersatz. **Rufen Sie vorher an** – die meisten benötigen einen Termin.
-- Reisende mit einer sicheren digitalen Kopie ihres Passes erhalten Ersatzdokumente schneller – Sie übergeben die Details, die Ihre Botschaft benötigt, in Sekunden.
-- Die Reiseversicherung deckt die Kosten für Passersatz in den meisten umfassenden Policen. Sie benötigen den Polizeibericht, um einen Anspruch geltend zu machen.
+- Ihre Botschaft oder Ihr Konsulat kann in der Regel bei einem Notfallreisedokument helfen, aber nicht jede Vertretung bietet alle Leistungen an. **Rufen Sie vorher an** – manche verlangen einen Termin und können Ihnen die Bearbeitungszeit nennen.
+- Eine Kopie Ihrer Passdaten kann die Bearbeitung erleichtern, lässt sich aber nicht als Ausweis verwenden.
+- Manche Reiseversicherungen decken die Kosten für einen Passersatz. Prüfen Sie Ihre Police und bewahren Sie den Polizeibericht auf, den Versicherer häufig verlangen.
 - Der richtige Zeitpunkt zur Vorbereitung ist jetzt, bevor etwas schief läuft. Ein fünfminütiger Scan heute könnte Tage Stress im Ausland ersparen.
 
 Jeden Tag lassen sich verloren gegangene Pässe im Ausland ersetzen, und Botschaften behandeln das als Routinevorgang, nicht als Notfall. Der Ablauf folgt einer festen Reihenfolge, und genau die einzuhalten macht aus einem schlechten Nachmittag eine Verzögerung statt einer abgesagten Reise. So gehen Sie Schritt für Schritt vor.
@@ -22,7 +22,7 @@ Jeden Tag lassen sich verloren gegangene Pässe im Ausland ersetzen, und Botscha
 
 Wenn Sie dies vor Ihrer Reise lesen, verwenden Sie die nächsten fünf Minuten dafür. Machen Sie ein klares Foto der Hauptdatenseite jedes Passes, mit dem Sie reisen. Speichern Sie es in einer verschlüsselten App, die offline funktioniert – viel sicherer als Ihre Kamerarolle und vollständig privat.
 
-Wenn Sie bei Ihrer Botschaft ankommen, werden Sie nach Ihrer Passnummer, dem Ausstellungsdatum, dem Ausstellungsort und dem Ablaufdatum gefragt. Ohne eine Kopie müssen Sie diese unter Stress abrufen. Mit einer können Sie diese in Sekunden übergeben. Konsulatsbeamte stellen Ersatzdokumente schneller aus, wenn Sie **mit den Details bereits notiert ankommen**.
+Wenn Sie bei Ihrer Botschaft ankommen, werden Sie nach Ihrer Passnummer, dem Ausstellungsdatum, dem Ausstellungsort und dem Ablaufdatum gefragt. Ohne eine Kopie müssen Sie diese unter Stress abrufen. Mit einer können Sie diese schnell übergeben. Eine Kopie Ihrer Passdaten kann dem Konsulat helfen, Ihre Angaben beim Antrag auf Ersatz zu bestätigen.
 
 Eine Kopie auf Ihrem Telefon ist ein Nachweis, kein Ausweisdokument.
 
@@ -49,7 +49,7 @@ Ihre Botschaft oder Ihr Konsulat ist Ihr Weg nach Hause. Kontaktieren Sie sie, s
 - **Australische Staatsbürger:** Smartraveller – verlorener oder gestohlener Pass
 - **Kanadische Staatsbürger:** Canada.ca – verlorener oder gestohlener Pass im Ausland
 
-Rufen Sie an, bevor Sie besuchen. Viele Botschaften verlangen einen Termin für Notfallpass-Services und können Ihnen genau sagen, was Sie mitbringen sollten – ohne Termin zu erscheinen, kann Ihnen einen halben Tag kosten.
+Rufen Sie an, bevor Sie besuchen. Manche Botschaften verlangen einen Termin für Notfallpass-Services (im Vereinigten Königreich kann eine persönliche Vorsprache erforderlich sein) und können Ihnen genau sagen, was Sie mitbringen sollten – ohne Termin zu erscheinen, kann Ihnen einen halben Tag kosten.
 
 ## Schritt 4: Beantragen Sie ein Notfallreisedokument
 
@@ -62,21 +62,21 @@ Was Sie normalerweise brauchen (bestätigen Sie dies mit Ihrer Botschaft, bevor 
 - Passfotos – fragen Sie Ihre Botschaft, wo Sie diese lokal bekommen
 - Ihre digitale Kopie des verlorenen Passes, falls vorhanden
 - Nachweis der weiteren Reise – Flugbuchung, Hotelbestätigung
-- Notfall-Dokumentgebühr – haben Sie sowohl Bargeld als auch Karte verfügbar
+- Gebühr für das Notfallreisedokument – fragen Sie die Botschaft nach den Zahlungsmöglichkeiten
 
 ## Schritt 5: Benachrichtigen Sie Ihren Reiseversicherer
 
-Melden Sie den Verlust Ihrem Reiseversicherer so bald wie möglich. Die meisten umfassenden Policen decken die Passersatzkosten, Notfallpass-Gebühren und manchmal zusätzliche Unterkunft ab, wenn Sie verzögert werden. Bewahren Sie jeden Beleg auf – Sie benötigen diese für den Anspruch zusammen mit der Referenznummer des Polizeiberichts.
+Melden Sie den Verlust Ihrem Reiseversicherer so bald wie möglich. Manche Policen decken Passersatzkosten und gelegentlich zusätzliche Unterkunftskosten bei Verzögerungen. Prüfen Sie Ihre Police. Bewahren Sie alle Belege sowie die Referenznummer des Polizeiberichts auf, die Versicherer häufig verlangen.
 
 Diesen Anruf können Sie früher machen, wenn Policennummer und 24-Stunden-Hotline bereits griffbereit sind, statt in einem Postfach zu stecken, auf das Sie gerade nicht zugreifen können. Unser Leitfaden dazu, [welche Reiseversicherungsdokumente Sie vor der Abreise sichern sollten](https://traveldocumentvault.com/de/blog/travel-insurance-documents/), listet auf, was Sie offline bereithalten sollten.
 
 ## Schritt 6: Überprüfen Sie Ihre Visasituation
 
-Ein Visum ist nur für den spezifischen Pass gültig, für den es ausgestellt wurde. Wenn Ihr Pass verloren ist, ist auch Ihr Visum verloren – selbst ein Notfallreisedokument stellt es nicht wieder her. Ihre Botschaft wird Ihnen beraten, ob Ihr Zielland Ihnen gestattet, mit einem ETD auszureisen, unter Bezugnahme auf das verlorene Visum. Gehen Sie nicht davon aus, dass Sie ausreisen können – bestätigen Sie dies mit Ihrer Botschaft, bevor Sie versuchen zu gehen.
+War ein Visum in den verlorenen Reisepass eingeklebt oder eingedruckt, benötigen Sie in der Regel Hinweise Ihrer Botschaft und des ausstellenden Landes zum Ersatz. Ein Notfallreisedokument übernimmt das Visum nicht. Ihre Botschaft wird Ihnen beraten, ob Ihr Zielland Ihnen gestattet, mit einem ETD auszureisen, unter Bezugnahme auf das verlorene Visum. Gehen Sie nicht davon aus, dass Sie ausreisen können – bestätigen Sie dies mit Ihrer Botschaft, bevor Sie versuchen zu gehen.
 
 Was dies praktisch bedeutet
 
-Wenn Sie einen Pass in Thailand verlieren, der ein gültiges Mehrfach-Einreise-Visum für ein anderes Land enthält, das Sie auf derselben Reise besuchen wollten, kann dieses Visum nicht mehr verwendet werden. Sie müssten in Ihrem Ersatzpass ein neues Visum beantragen. Dies kostet Zeit und Geld, die Sie möglicherweise nicht in der Mitte der Reise haben. Das ist ein weiterer Grund, warum eine sichere digitale Kopie wichtig ist: Sie beweist, dass das Visum existiert, und kann eine schnelle Ersatzvisa-Anwendung unterstützen.
+Wenn Sie einen Pass in Thailand verlieren, der ein gültiges Mehrfach-Einreise-Visum für ein anderes Land enthält, das Sie auf derselben Reise besuchen wollten, müssen Sie in der Regel beim ausstellenden Land klären, ob Sie ein Ersatzvisum oder einen neuen Antrag benötigen. Dies kostet Zeit und Geld, die Sie möglicherweise nicht in der Mitte der Reise haben. Das ist ein weiterer Grund, warum eine sichere digitale Kopie wichtig ist: Sie kann helfen nachzuweisen, dass das Visum existiert hat.
 
 ## Schritt 7: Gehen Sie nach Hause und ersetzen Sie Ihren Pass
 
@@ -88,11 +88,11 @@ Sobald Sie Ihr Notfallreisedokument haben, bestätigen Sie die Ausreiseanforderu
 
 ### Was sollte ich tun, wenn ich meinen Pass im Ausland verliere?
 
-Erstatten Sie sofort eine Polizeianzeige, kontaktieren Sie dann Ihre nächstgelegene Botschaft oder Ihr Konsulat, um ein Notfallreisedokument zu beantragen. Benachrichtigen Sie Ihren Reiseversicherer und bewahren Sie jeden Beleg auf. Ein sicheres digitales Backup Ihres Passes vor der Reise beschleunigt jeden Schritt.
+Erstatten Sie sofort eine Polizeianzeige, kontaktieren Sie dann Ihre nächstgelegene Botschaft oder Ihr Konsulat, um ein Notfallreisedokument zu beantragen. Benachrichtigen Sie Ihren Reiseversicherer und bewahren Sie jeden Beleg auf. Eine vor der Reise sicher gespeicherte digitale Passkopie kann die Bearbeitung erleichtern, lässt sich aber nicht als Ausweis verwenden.
 
 ### Kann ich im Ausland einen Notfallpass bekommen?
 
-Ja. Die meisten Länder stellen Notfallreisedokumente über ihre Botschaften und Konsulate aus, normalerweise gültig nur für eine einfache Heimreise. Die Bearbeitungszeit hängt von der Vertretung und der Dringlichkeit Ihres Falls ab, fragen Sie danach, wenn Sie anrufen. Rufen Sie Ihre nächstgelegene Botschaft oder Ihr Konsulat so bald wie möglich an – viele verlangen einen Termin.
+Ja. Viele Länder stellen Notfallreisedokumente über ihre Botschaften und Konsulate aus, normalerweise gültig nur für eine einfache Heimreise. Die Bearbeitungszeit hängt von der Vertretung und der Dringlichkeit Ihres Falls ab, fragen Sie danach, wenn Sie anrufen. Rufen Sie Ihre nächstgelegene Botschaft oder Ihr Konsulat so bald wie möglich an – manche verlangen einen Termin.
 
 ### Brauche ich einen Polizeibericht, wenn mein Pass im Ausland gestohlen wird?
 
@@ -100,11 +100,11 @@ Es lohnt sich meist, einen zu holen, aber nicht jede Passbehörde verlangt ihn. 
 
 ### Deckt die Reiseversicherung einen verlorenen oder gestohlenen Pass ab?
 
-Die meisten umfassenden Reiseversicherungen decken die Passersatzkosten einschließlich Notfallpass-Gebühren ab, und manchmal auch zusätzliche Unterkunftskosten, wenn Sie verzögert werden. Überprüfen Sie Ihre spezifische Police auf Deckungsbeträge. Sie benötigen die Referenznummer des Polizeiberichts, um einen Anspruch geltend zu machen.
+Manche Reiseversicherungen decken Passersatzkosten und gelegentlich zusätzliche Unterkunftskosten bei Verzögerungen. Prüfen Sie, was Ihre Police abdeckt. Bewahren Sie die Referenznummer des Polizeiberichts auf, die Versicherer häufig verlangen.
 
 ### Wie kann ich den Notfallprozess beschleunigen?
 
-Ein sicheres digitales Backup Ihres Passes vor der Reise ist der wirksamste Schritt. Ihre Botschaft benötigt Ihre Passnummer, Ihr Ausstellungsdatum und Ihren Ausstellungsort. Ein digitales Backup bedeutet, dass Sie diese sofort bereitstellen können, anstatt sie unter Stress abrufen zu müssen.
+Eine vor der Reise sicher gespeicherte digitale Passkopie ist hilfreich. Ihre Botschaft fragt in der Regel nach Angaben wie Passnummer, Ausstellungsdatum und Ausstellungsort. Ein digitales Backup bedeutet, dass Sie diese schnell bereitstellen können, anstatt sie unter Stress abrufen zu müssen.
 
 ## Verwandte Artikel
 

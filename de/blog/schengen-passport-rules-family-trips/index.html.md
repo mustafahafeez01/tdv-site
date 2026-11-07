@@ -13,7 +13,7 @@ Source: https://traveldocumentvault.com/de/blog/schengen-passport-rules-family-t
 - Die echte Schengen-Regel lautet **3 Monate Gültigkeit über das Abflugsdatum hinaus**, plus ein Reisepass, der in den letzten 10 Jahren ausgestellt wurde – es ist nicht die "6-Monats-Regel".
 - **Kinderreisepässe verfallen nach 5 Jahren**, daher fallen die Reisepässe einer Familie auseinander und das früheste Verfallsdatum entscheidet über die Reise.
 - Vorher Oktober 2018 **britische Reisepässe mit Bonusmonate** können die 10-Jahres-Ausstellungsprüfung nicht bestehen, auch wenn das Büchlein noch gültig aussieht.
-- Airlines überprüfen jeden Reisepass gegen **IATA Timatic Datenbank** beim Check-in – keine Rundung, kein Override, und ein fehlgeschlagener Reisepass sperrt die Familie.
+- Airlines prüfen Reisepässe beim Check-in in der Regel anhand der **IATA-Timatic-Datenbank**. Ein nicht ausreichender Pass kann die ganze Familie am Weiterreisen hindern.
 - **Überprüfen Sie jeden Reisepass am Tag der Buchung**, nicht in der Woche des Fluges. Fünf Minuten zum Zeitpunkt der Buchung ist die ganze Lösung.
 
 Eine Familienreise nach Europa bucht man normalerweise auf die gleiche Weise: Man prüft seinen eigenen Reisepass, sieht viele Jahre Gültigkeit übrig und bestätigt die Buchung. Der Haken kommt Wochen später, wenn jemand endlich den Schrank öffnet und feststellt, dass ein Kinderreisepass – mit einem kürzeren Verfallsdatum als Ihrer – früher als erwartet abläuft. Keine Behörde sendet Eltern einen Warnbrief über diesen Sachverhalt. Der Schalter beim Check-in liefert die Nachricht stattdessen.
@@ -38,24 +38,24 @@ Unser Leitfaden zu [der 6-Monats-Regel](https://traveldocumentvault.com/de/blog/
 
 ## Kinderreisepässe laufen auf einer schnelleren Uhr
 
-Erwachsenenreisepässe haben normalerweise eine Gültigkeit von 10 Jahren, Kinderreisepässe nur 5 Jahren. Diese Asymmetrie ist es, wo viele sonst sorgfältige Pläne Schiffbruch erleiden.
+Britische Erwachsenenreisepässe sind 10 Jahre gültig, Kinderreisepässe stellt das Vereinigte Königreich dagegen nur für 5 Jahre aus. Diese Asymmetrie ist es, wo viele sonst sorgfältige Pläne Schiffbruch erleiden.
 
 | Land | Kinderreisepässe | Gültigkeit |
 |---|---|---|
-| Vereinigte Staaten | Unter 16 Jahren | 5 Jahre |
-| Vereinigtes Königreich | Alle Kinder | 5 Jahre |
-| Kanada | Unter 16 Jahren | 5 Jahre |
-| Australien | Alle Kinder | 5 Jahre |
+| Vereinigte Staaten | Aktuelle Voraussetzungen prüfen | Bei der Passbehörde nachfragen |
+| Vereinigtes Königreich | Unter 16 Jahren | 5 Jahre |
+| Kanada | Aktuelle Voraussetzungen prüfen | Bei der Passbehörde nachfragen |
+| Australien | Aktuelle Voraussetzungen prüfen | Bei der Passbehörde nachfragen |
 
-Quellen: US Department of State, GOV.UK, Canada.ca, Australian Passport Office.
+Quelle für die britische Gültigkeitsdauer: GOV.UK.
 
 Eine Familie von vier Menschen arbeitet daher auf vier verschiedenen Verfallsplänen. Das früheste Datum entscheidet, ob die Reise überhaupt stattfindet. Zwei zusammen erneuerte Erwachsene werden sich in den Reisepässen ihrer Kinder innerhalb weniger Jahre auseinander entwickeln – genau das ist der Grund, warum die Überprüfung Ihres eigenen Reisepasses fast nichts über die Bereitschaft der Familie aussagt.
 
-Für amerikanische Familien gibt es einen zusätzlichen Haken: Ein Kinderreisepass kann nicht per Post erneuert werden. Jede Erneuerung erfordert einen neuen persönlichen Antrag, und die Bearbeitungszeit ändert sich – das US-Außenministerium veröffentlicht die aktuelle Angabe, prüfen Sie diese also, bevor Sie planen, zuzüglich Porto in beide Richtungen. Was im März überschaubar ist, wird kurz vor der Abreise schnell zu einem echten Problem. Britische Familien haben es etwas leichter: Prüfen Sie einfach die aktuellen Bearbeitungszeiten vor der Buchung und planen Sie zusätzliche Zeit ein, falls Informationen benötigt werden.
+Für amerikanische Familien gibt es einen zusätzlichen Haken: Die Erneuerung eines Kinderreisepasses kann einen persönlichen Antrag erfordern und mehrere Wochen dauern. Prüfen Sie deshalb vor der Buchung die aktuellen Regeln und Bearbeitungszeiten Ihrer Passbehörde. Was im März überschaubar ist, wird kurz vor der Abreise schnell zu einem echten Problem. Britische Familien haben es etwas leichter: Prüfen Sie einfach die aktuellen Bearbeitungszeiten vor der Buchung und planen Sie zusätzliche Zeit ein, falls Informationen benötigt werden.
 
 ## Check-in-Realität: Timatic rundet nicht auf
 
-Was auch immer der Grenzbeamte tolerieren könnte, Sie treffen die Regeln früher – beim Check-in. Airlines validieren jeden Reisepass gegen die IATA-Timatic-Datenbank, die die Einreisebestimmungen jedes Ziels genau anwendet. Wenn Ihr Rückflugdatum Gültigkeit bis 20. November erfordert und ein Reisepass am 15. November abläuft, sagt das System nein. Es gibt kein "nahe genug" und keinen Override – Airlines, die einen unzulässigen Passagier an Bord nehmen, müssen ihn auf ihre eigenen Kosten zurückfliegen.
+Was auch immer der Grenzbeamte tolerieren könnte, Sie treffen die Regeln früher – beim Check-in. Airlines prüfen Reisepässe in der Regel anhand der IATA-Timatic-Datenbank, die die Einreisebestimmungen jedes Ziels aufführt. Wenn Ihr Rückflugdatum Gültigkeit bis 20. November erfordert und ein Reisepass am 15. November abläuft, sagt das System nein. Rechnen Sie damit, am Check-in abgewiesen zu werden.
 
 Ein fehlgeschlagener Reisepass strandet selten eine Person; er sperrt die Familie. Wenige Eltern werden drei Mitglieder weiterfliegen und einen an der Theke lassen, daher wird in der Praxis normalerweise die gesamte Buchung umgebucht oder storniert.
 
@@ -77,11 +77,11 @@ Sie sind unterschiedliche Regeln für verschiedene Ziele. Länder wie Thailand u
 
 ### Gelten für Kinder andere Schengen-Reisepassregeln?
 
-Nein. Kinder benötigen dieselbe 3-Monats-Gültigkeit über die Ausreise hinaus und die gleiche Bedingung der letzten 10 Jahre wie Erwachsene. Der Unterschied liegt im Reisepass selbst: Die meisten Länder stellen Kinderreisepässe für 5 Jahre statt 10 aus, daher erreichen Kinderausweise diese Grenzen viel früher als die der Eltern.
+Nein. Kinder benötigen dieselbe 3-Monats-Gültigkeit über die Ausreise hinaus und die gleiche Bedingung der letzten 10 Jahre wie Erwachsene. Der Unterschied liegt im Reisepass selbst: Viele Länder, darunter das Vereinigte Königreich, stellen Kinderreisepässe für 5 Jahre statt 10 aus, daher erreichen Kinderausweise diese Grenzen viel früher als die der Eltern.
 
 ### Wann sollten wir einen Kinderreisepass vor einer Reise erneuern?
 
-Prüfen Sie sofort nach der Buchung, ob der Reisepass noch 3 Monate Gültigkeit über Ihr Rückflugsdatum hat. Falls nicht, beginnen Sie sofort. Prüfen Sie die aktuellen Bearbeitungszeiten im Vereinigten Königreich und planen Sie zusätzliche Zeit ein, falls die Anwendung weitere Informationen benötigt. Die Bearbeitungszeit in den USA ändert sich; prüfen Sie die aktuelle Angabe beim US-Außenministerium, zuzüglich Porto in beide Richtungen. Ein Kinderreisepass aus den USA benötigt auch einen neuen persönlichen Antrag statt einer Verlängerung.
+Prüfen Sie sofort nach der Buchung, ob der Reisepass noch 3 Monate Gültigkeit über Ihr Rückflugsdatum hat. Falls nicht, beginnen Sie sofort. Prüfen Sie die aktuellen Bearbeitungszeiten im Vereinigten Königreich und planen Sie zusätzliche Zeit ein, falls die Anwendung weitere Informationen benötigt. Prüfen Sie die aktuellen Bearbeitungszeiten Ihrer Passbehörde.
 
 ### Können wir fliegen, während die Erneuerung des Kinderreisepasses läuft?
 
@@ -89,7 +89,7 @@ Nein. Sie benötigen den physischen Reisepass in der Hand, um einen internationa
 
 ### Was passiert beim Check-in, wenn ein Reisepass nicht ausreicht?
 
-Airlines überprüfen jeden Reisepass gegen die IATA-Timatic-Datenbank, die die Anforderungen des Ziellandes genau anwendet, ohne Rundung und ohne Ausnahme. Wenn ein Familienmitglied die Überprüfung nicht besteht, kann diese Person nicht einsteigen – was in der Praxis normalerweise bedeutet, dass die ganze Reise umgebucht oder storniert wird.
+Airlines prüfen Reisepässe in der Regel anhand der IATA-Timatic-Datenbank, die die Einreisebestimmungen jedes Ziels aufführt. Wenn ein Familienmitglied die Überprüfung nicht besteht, kann diese Person nicht einsteigen – weshalb Familien in der Praxis meist umbuchen, statt sich aufzuteilen.
 
 ## Verwandte Artikel
 

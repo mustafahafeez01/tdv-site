@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/da/blog/family-passport-management/
 
 ## Vigtigste punkter
 
-- **Børnepas udløber dobbelt så hurtigt som voksenpas.** Børns dokumenter er gyldige i kun 5 år, så det yngste familiemedlemmes udløbsdato sætter ofte tidsfristen for din næste rejse.
+- **Børnepas udløber ofte tidligere end voksenpas.** I Storbritannien gælder et børnepas i 5 år, så det yngste familiemedlemmes udløbsdato sætter ofte tidsfristen for din næste rejse.
 - Bær aldrig alle familiemedlemmers pas sammen på rejse. **Hver person bærer sit eget**, og lad kopier blive hos en betroet kontakt derhjemme.
 - **Opbevar digitale kopier på ét krypteret sted,** med én fysisk backup på et sikkert sted, du kan få adgang til hurtigt, hvis det bliver nødvendigt.
 - Opret et delt system til at spore udløbsdatoer for alle familiemedlemmer. **Én person, der håndterer dette, forhindrer oversete fornyelser.**
@@ -24,9 +24,9 @@ Problemet starter småt. Du har dit pas, din partner har sit. Så får du børn,
 
 Som regel ender én person med at håndtere det hele, ofte den, der allerede styrer den øvrige rejselogistik, og det enkelte fejlpunkt bliver en risiko.
 
-Børnepas udløber også meget hurtigere end voksenpas. I USA varer børnepas for under-16-årige 5 år, mens voksenpas varer 10 år. Det samme gælder i Storbritannien – børns dokumenter udløber efter 5 år, ikke 10. Det betyder, at dit yngste barns pas ofte bliver den begrænsende faktor for familierejser. Du kunne have en forælder med 8 år gyldighed tilbage, men hvis dit yngste barns pas udløber om 18 måneder, det er din planhorisonts længde.
+Børnepas udløber ofte tidligere end voksenpas. I Storbritannien gælder et børnepas i 5 år, og mange andre lande udsteder børnepas med kortere gyldighed end voksenpas. Det betyder, at dit yngste barns pas ofte bliver den begrænsende faktor for familierejser. Du kunne have en forælder med 8 år gyldighed tilbage, men hvis dit yngste barns pas udløber om 18 måneder, det er din planhorisonts længde.
 
-De fleste familier indser ikke dette, før de allerede har booket en rejse. En forælder finder passene en uge før afgang, scanner dem hastigt mens pakker, og opdager, at ét barns dokument ikke holder den 6-måneder-gyldighed-regel for deres destination. Rejsen er nu i fare, eller kræver en overilende og dyr pasfornyelse.
+De fleste familier indser ikke dette, før de allerede har booket en rejse. En forælder finder passene en uge før afgang, scanner dem hastigt mens pakker, og opdager, at ét barns dokument ikke opfylder det gyldighedskrav, nogle destinationer stiller, ofte seks måneder. Rejsen er nu i fare, eller kræver en overilende og dyr pasfornyelse.
 
 ## Fundamentet: Ét sikkert sted for alle familiemedlemmers pas
 
@@ -34,7 +34,7 @@ Det første skridt er at centralisere, hvor familiemedlemmers pas opbevares. Det
 
 Krypteret opbevaring betyder noget, fordi pas indeholder dit fulde navn, fødselsdag og pasnummer – information nok til identitetsstyveri. Almene fotoopbevaringsapps som Google Photos eller iCloud behandler dine dokumenter som snapshots snarere end følsom identitetsdata. En password-beskyttet PDF-mappe på din enhed, eller en app specifikt bygget til at håndtere rejsedokumenter, giver dig det krypteringslag, du har brug for.
 
-![Diagram af ét familiepas-system: fire pas (far, mor, barn 1, barn 2) samles ét krypteret sted, hvorfra udløbspåmindelser, offline adgang og krypteret backup går ud, med en note om, at børnepas udløber efter 5 år, ikke 10](https://traveldocumentvault.com/blog/family-passport-management/family-system-figure-da.jpg) Ét familiesystem: alle pas ét sted, med automatisk sporing af hver udløbsdato
+![Diagram af ét familiepas-system: fire pas (far, mor, barn 1, barn 2) samles ét krypteret sted, hvorfra udløbspåmindelser, offline adgang og krypteret backup går ud, med en note om, at børnepas ofte udløber tidligere end voksenpas](https://traveldocumentvault.com/blog/family-passport-management/family-system-figure-da.jpg) Ét familiesystem: alle pas ét sted, med automatisk sporing af hver udløbsdato
 
 **Kun digitale kopier.** Scan fotoidentitetssiden af alle familiemedlemmers pas. Et klart billede af siden, der viser foto, navn, fødselsdag, pasnummer og udløbsdato, er nok. Dette bør tage 30 sekunder per person.
 
@@ -59,7 +59,7 @@ Digital opbevaring er praktisk, men enheder fejler, og apps kan få problemer. H
 
 De fleste familier gør dette ved at opbevare originaler i et hjemmebogager eller sikker skuffe, digitale kopier i deres krypterede app, og én udskrevet backup af hver ID-side på et separat sted – hos et betroet familiemedlem, i en depotboks, eller på et andet sted i en brandsikker boks.
 
-Hvis du bliver fanget i udlandet og skal erstatte et tabt eller stjålet pas, er denne backupkopi det, et ambassade eller konsulat har brug for for at fremskynde en nødudskiftning. En fysisk kopi opbevaret sikkert derhjemme kan sendes til dig, mens du rejser, hvis det bliver nødvendigt, og giver dig en vej ud, hvis dine enheder fejler.
+Hvis du bliver fanget i udlandet og skal erstatte et tabt eller stjålet pas, kan en paskopi hjælpe ambassaden eller konsulatet, når du ansøger om et nødrejsedokument. En fysisk kopi opbevaret sikkert derhjemme kan sendes til dig, mens du rejser, hvis det bliver nødvendigt, og giver dig en vej ud, hvis dine enheder fejler.
 
 For international rejse må du aldrig bære alle familiemedlemmers pas sammen i samme taske. Hver person bærer sit eget dokument. Hvis din håndbagage bliver stjålet på en lufthavn, har du ikke mistet fem års planlægning. Kun ét familiemedlems pas er i umiddelbar fare, og du har digitale kopier til at bevise, at alle andres status er OK.
 
@@ -67,7 +67,7 @@ For international rejse må du aldrig bære alle familiemedlemmers pas sammen i 
 
 For familier, hvor en eller begge forældre har dobbelt statsborgerskab, bliver systemet lidt mere komplekst, men vigtigere at håndtere omhyggeligt.
 
-Du kan rejse på et britisk pas til nogle destinationer og på et irsk pas til andre. Dit barn kunne have tre nationaliteter og rejse på det pas, der er mest praktisk for destinationen. Luftfartselskaber prioriterer ofte dit pas efter nationalitet, når du checker ind, og nogle konsulater kræver faktisk, at du kommer ind på et specifikt pas – hvilket betyder, at det "bedste" valg for din rejse afhænger af, hvor du tager hen, og hvordan du kommer derhen.
+Du kan rejse på et britisk pas til nogle destinationer og på et irsk pas til andre. Dit barn kunne have tre nationaliteter og rejse på det pas, der er mest praktisk for destinationen. Nogle lande forventer, at deres egne statsborgere, også dem med dobbelt statsborgerskab, rejser ind med landets pas, så tjek hver destinations officielle vejledning. Det betyder, at det "bedste" valg for din rejse afhænger af, hvor du tager hen, og hvordan du kommer derhen.
 
 Løsningen er ligetil: opbevar kopier af alle pas i dit system, og marker, hvilken nationalitet hver enkelt repræsenterer. Når du planlægger en rejse, kontroller hver familiemedlems muligheder, og beslut, hvilket pas der virker bedst for den specifikke destination. Dokumenter din beslutning et sted, der er tilgængeligt – en note i din rejseplan eller et notefelt i din pas-app – så hvis noget går galt, husker du, hvilket dokument du brugte.
 
@@ -98,7 +98,7 @@ Brug en dedikeret app, der sporer udløbsdatoer for flere personer med automatis
 
 ### Udløber børnepas med samme hastighed som voksenpas?
 
-Nej. Børnepas er gyldigt i 5 år i de fleste lande, herunder USA og Storbritannien, mens voksenpas varer 10 år. Kontroller altid hver familiemedlems udløbsdato enkeltvis før du booker en rejse – det yngste barns dokument bliver ofte planhorisontens deadline.
+Ofte ikke. Børnepas har som regel kortere gyldighed end voksenpas (et britisk børnepas gælder i 5 år), så tjek hver udløbsdato, før du booker. Kontroller altid hver familiemedlems udløbsdato enkeltvis før du booker en rejse – det yngste barns dokument bliver ofte planhorisontens deadline.
 
 ### Skal jeg bære alle mine familiemedlemmers pas, når jeg rejser?
 
@@ -106,7 +106,7 @@ Nej. Hver familiemedlem bærer kun sit eget pas. Hvis din håndbagage bliver stj
 
 ### Hvad sker der, hvis ét familiemedlems pas udløber før en planlagt rejse?
 
-Du skal fornye det familiemedlems pas før rejsen. Hvis du er inden for 12 måneder af udløb, når du booker en rejse, start fornyelsesprocessen med det samme. Pasprocessestider er uforudsigelige og kan strække sig, især i travle rejsesæsoner, så antag ikke, der er tid til at fornye senere.
+Du skal fornye det familiemedlems pas før rejsen. Hvis du er inden for 12 måneder af udløb, når du booker en rejse, start fornyelsesprocessen med det samme. Sagsbehandlingstiderne kan variere, især i travle rejsesæsoner, så antag ikke, der er tid til at fornye senere.
 
 ## Relaterede artikler
 

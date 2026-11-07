@@ -26,9 +26,9 @@ Verschlüsselung verwürfelt eine Datei so, dass nur ein passender Schlüssel si
 
 Zwei Ansätze werden beide als verschlüsseltes Backup verkauft, und sie verhalten sich sehr unterschiedlich.
 
-Der eine sendet die Datei über eine verschlüsselte Verbindung an den Server des Unternehmens und speichert sie dort verschlüsselt ab. Beide Aussagen stimmen, und beide klingen beruhigend. Aber das Unternehmen hält weiterhin den Schlüssel und kann Ihre Dokumente jederzeit entschlüsseln: um eine Funktion auszuführen, um eine rechtliche Anfrage zu beantworten oder weil jemand im Unternehmen einen Fehler gemacht hat. Ihr Passscan ist am anderen Ende lesbar.
+Der eine sendet die Datei über eine verschlüsselte Verbindung an den Server des Unternehmens und speichert sie dort verschlüsselt ab. Beide Aussagen stimmen, und beide klingen beruhigend. Aber das Unternehmen hält weiterhin den Schlüssel und ist technisch in der Lage, Ihre Dokumente zu entschlüsseln – etwa für eine Funktion, eine rechtliche Anfrage oder durch einen internen Fehler. Ihr Passscan ist am anderen Ende lesbar.
 
-Beim anderen Ansatz wird die Datei auf Ihrem Telefon verschlüsselt, bevor sie irgendwohin geht, mit einem Schlüssel, der aus etwas abgeleitet wird, das nur Sie besitzen. Im Speicher kommt ein Block aus Rauschen an, und niemand am anderen Ende kann ihn lesen, weil niemand am anderen Ende den Schlüssel hat. Das nennt man üblicherweise Ende-zu-Ende-verschlüsselt oder Zero-Knowledge.
+Beim anderen Ansatz wird die Datei auf Ihrem Telefon verschlüsselt, bevor sie irgendwohin geht, mit einem Schlüssel, der aus etwas abgeleitet wird, das nur Sie besitzen. Im Speicher kommt ein Block aus Rauschen an, und niemand am anderen Ende kann ihn lesen, weil niemand am anderen Ende den Schlüssel hat. Das wird oft als Ende-zu-Ende-verschlüsselt oder Zero-Knowledge bezeichnet.
 
 Die Frage, die sich bei jeder App lohnt, ist kurz: **Wer hält den Schlüssel?** Alles andere im Marketing ergibt sich aus der Antwort.
 
@@ -55,7 +55,7 @@ Behandeln Sie den Code also als die eine Sache, bei der Sie nichts falsch machen
 
 Das hängt vollständig davon ab, was in der Cloud ankommt, und das ist eine Frage der App, nicht der Cloud.
 
-Ein Foto Ihres Passes in einer gewöhnlichen Fotobibliothek oder einem synchronisierten Ordner kommt lesbar an. Es liegt in einem Konto, das durch ein Passwort geschützt ist, das Sie vielleicht mehrfach verwendet haben. Es wird indexiert und mit Vorschaubildern versehen, und wer sich Zugang zu diesem Konto verschafft, sieht eine saubere Kopie der Identitätsseite. Wie diese Angriffsfläche in der Praxis aussieht, haben wir unter [Pass in Google Fotos speichern](https://traveldocumentvault.com/de/blog/is-it-safe-to-store-passport-in-google-photos/) durchgespielt. Das ist ein echtes Risiko, und es ist die Einrichtung, mit der die meisten Familien unterwegs sind, ohne sie je bewusst gewählt zu haben.
+Ein Foto Ihres Passes in einer gewöhnlichen Fotobibliothek oder einem synchronisierten Ordner kommt lesbar an. Es liegt in einem Konto, das durch ein Passwort geschützt ist, das Sie vielleicht mehrfach verwendet haben. Je nach Dienst kann es indexiert oder als Vorschaubild angezeigt werden, und wer sich Zugang zu diesem Konto verschafft, sieht eine saubere Kopie der Identitätsseite. Wie diese Angriffsfläche in der Praxis aussieht, haben wir unter [Pass in Google Fotos speichern](https://traveldocumentvault.com/de/blog/is-it-safe-to-store-passport-in-google-photos/) durchgespielt. Das ist ein echtes Risiko, und es ist die Einrichtung, mit der die meisten Familien unterwegs sind, ohne sie je bewusst gewählt zu haben.
 
 Ein Tresor, der vor dem Hochladen auf dem Gerät verschlüsselt wird, kommt als Chiffretext an. Wer sich Zugang zum Cloud-Konto verschafft, findet eine Datei, die er nicht öffnen kann. Der Schutz reist mit der Datei, statt vom Konto abzuhängen, in dem sie landet.
 
@@ -82,7 +82,7 @@ Die Dauer der Wiederherstellung hängt von der Tresorgröße und Ihrer Verbindun
 
 Installieren Sie die App auf dem neuen Telefon und melden Sie sich beim gleichen iCloud- oder Google-Konto an, das Sie zuvor genutzt haben. Öffnen Sie mit Pro bei ausgeschalteter Cloud-Sicherung auf dem Zielgerät „Einstellungen“, „Cloud-Sicherung“ und dann „Aus Sicherung wiederherstellen“. Wählen Sie den vorhandenen Tresor, geben Sie Ihren Wiederherstellungscode ein und bestätigen Sie die Wiederherstellung, die den lokalen Tresorinhalt ersetzt. Profile, Dokumente und Ablaufdaten werden wiederhergestellt; Benachrichtigungen werden auf dem Zielgerät neu erstellt.
 
-Die App prüft außerdem, bevor sie schreibt. Erkennt das Cloud-Backup ein bestehendes Backup in diesem Konto, fragt es Sie, ob Sie es wiederherstellen oder neu beginnen möchten. Ein neues Telefon kann nicht stillschweigend überschreiben, was bereits vorhanden ist.
+Die App prüft außerdem, bevor sie schreibt. Findet das Cloud-Backup ein bestehendes Backup, das mit demselben Wiederherstellungscode erstellt wurde, fragt die App, ob Sie es mit den vorhandenen Daten zusammenführen oder neu beginnen möchten. So kann ein neues Telefon das bestehende Backup nicht stillschweigend überschreiben. Wenn Sie neu beginnen, bleibt das andere Backup erhalten.
 
 ### Der Wechsel zwischen iPhone und Android läuft über den Tresor-Export
 

@@ -36,7 +36,7 @@ Si vous ne devez retenir qu'une chose de cette page, retenez cette asymétrie : 
 
 Beaucoup de gens cherchent ce que signifie « date d'expédition » sur un passeport, et la réponse est rassurante tant elle est banale : cela veut dire date de délivrance.
 
-L'expression vient de l'espagnol et du portugais. *Fecha de expedición* et *data de expedição* se traduisent toutes deux littéralement en anglais par expedition date, et les formulaires traduits reprennent cette formulation sans que personne ne s'en aperçoive. Le même champ apparaît sous le nom de *date de délivrance* en français, *data di rilascio* en italien, *Ausstellungsdatum* en allemand, *datum van afgifte* en néerlandais et *utfärdandedatum* en suédois.
+L'expression vient de l'espagnol et du portugais. *Fecha de expedición* et *data de expedição* se traduisent toutes deux littéralement en anglais par expedition date, et les formulaires traduits reprennent cette formulation sans que personne ne s'en aperçoive.
 
 Elles signifient toutes la même chose, et aucune ne signifie expiration. Si un formulaire demande une date d'expédition, il veut la plus ancienne de vos deux dates.
 
@@ -60,7 +60,7 @@ La date de délivrance cesse d'être un détail insignifiant dès qu'un pays la 
 
 Les passeports britanniques délivrés plus récemment ne comportent plus ces mois supplémentaires, mais les anciens carnets qui les portent encore circulent et sont toujours utilisés.
 
-Les pays Schengen appliquent deux tests distincts à un passeport hors UE à la frontière : il doit avoir été délivré moins de dix ans avant la date de votre arrivée, et il doit rester valable au moins trois mois après la date prévue de votre départ. Un carnet portant neuf mois supplémentaires peut satisfaire le second test sans difficulté et échouer au premier, ce qui donne lieu à une conversation délicate au guichet à Madrid avec un document qui n'a pourtant pas expiré.
+Les pays Schengen appliquent généralement deux tests distincts à un passeport hors UE à la frontière : il doit avoir été délivré moins de dix ans avant la date de votre arrivée, et il doit rester valable au moins trois mois après la date prévue de votre départ. Un carnet portant neuf mois supplémentaires peut satisfaire le second test sans difficulté et échouer au premier, ce qui donne lieu à une conversation délicate au guichet à Madrid avec un document qui n'a pourtant pas expiré.
 
 Nous vérifierions les deux dates avant un voyage en Europe, pas seulement celle du bas.
 
@@ -68,11 +68,11 @@ Nous vérifierions les deux dates avant un voyage en Europe, pas seulement celle
 
 Près du haut de la page d'identité figure un code à trois lettres correspondant au pays émetteur. Plus bas, généralement dans son propre champ, se trouve l'autorité de délivrance : le bureau ou le service qui a effectivement produit le carnet.
 
-Le pays compte plus qu'on ne le pense. Il détermine vers quel réseau consulaire vous vous tournez en cas de perte ou de vol du passeport.
+Le pays compte plus qu'on ne le pense. Il détermine généralement vers quel réseau consulaire vous vous tournez en cas de perte ou de vol du passeport.
 
 Ce n'est presque jamais le pays où vous vous trouvez au moment des faits.
 
-Il détermine aussi quelles règles d'entrée s'appliquent à vous, ce qui explique pourquoi les binationaux réfléchissent soigneusement au passeport qu'ils présentent. Pour la version pratique de tout cela, nous l'expliquons dans [que faire quand un passeport disparaît à l'étranger](https://traveldocumentvault.com/fr/blog/lost-passport-abroad/).
+Il détermine aussi généralement quelles règles d'entrée s'appliquent à vous, ce qui explique pourquoi les binationaux réfléchissent soigneusement au passeport qu'ils présentent. Pour la version pratique de tout cela, nous l'expliquons dans [que faire quand un passeport disparaît à l'étranger](https://traveldocumentvault.com/fr/blog/lost-passport-abroad/).
 
 Le champ de l'autorité de délivrance est surtout utile pour les formulaires. Certaines demandes veulent qu'il soit recopié mot pour mot, d'autres acceptent simplement le nom du pays, et le recopier exactement est plus rapide que de deviner.
 
@@ -88,7 +88,7 @@ Rien de tout cela n'est dramatique en soi. Cela le devient quand une carte d'emb
 
 La page d'identité est la page rigide et plastifiée qui porte votre photo, et sa mise en page est normalisée à l'échelle internationale plutôt qu'inventée par chaque pays. C'est pourquoi un passeport, quel qu'il soit, est lisible par un agent frontalier où qu'il se trouve, et pourquoi, une fois qu'on sait en lire un, on sait tous les lire.
 
-Les deux lignes de caractères et de chevrons en bas de page constituent la zone de lecture optique. Elle reprend une partie des informations de la page au-dessus dans un format qu'un scanner peut lire en une seule fois, mais pas tout : la date d'expiration s'y trouve, la date de délivrance non. Un dommage à cet endroit est traité beaucoup plus sérieusement qu'une éraflure sur la couverture. Nous détaillons où se situe cette limite dans [voyager avec un passeport endommagé](https://traveldocumentvault.com/fr/blog/damaged-passport-travel/).
+Les deux lignes de caractères et de chevrons en bas de page constituent la zone de lecture optique. Elle reprend une partie des informations de la page au-dessus dans un format qu'un scanner peut lire en une seule fois, mais pas tout : la date d'expiration s'y trouve. Vérifiez sur votre propre passeport les informations exactes reprises dans cette zone. Un dommage à cet endroit est traité beaucoup plus sérieusement qu'une éraflure sur la couverture. Nous détaillons où se situe cette limite dans [voyager avec un passeport endommagé](https://traveldocumentvault.com/fr/blog/damaged-passport-travel/).
 
 Si les mentions de votre propre page d'identité ne sont pas en français, la disposition reste utile : les deux dates sont imprimées ensemble, dans le même format, et la date d'expiration est toujours la plus tardive des deux.
 
@@ -108,11 +108,11 @@ Non. La date de délivrance correspond au moment où le carnet a été produit, 
 
 ### Que signifie pays émetteur sur un passeport ?
 
-Le pays émetteur est l'État qui a délivré le passeport, indiqué par un code à trois lettres près du haut de la page d'identité. Il détermine quelle ambassade ou quel consulat peut vous aider si le passeport est perdu à l'étranger, et quelles règles d'entrée s'appliquent lorsque vous le présentez.
+Le pays émetteur est l'État qui a délivré le passeport, indiqué par un code à trois lettres près du haut de la page d'identité. Il détermine généralement quelle ambassade ou quel consulat peut vous aider si le passeport est perdu à l'étranger, et quelles règles d'entrée s'appliquent habituellement lorsque vous le présentez.
 
 ### Mon numéro de passeport change-t-il quand je le renouvelle ?
 
-Oui. Chaque nouveau carnet porte un nouveau numéro. Tout ce qui a été enregistré sous l'ancien numéro reste associé à l'ancien numéro, y compris les visas déjà délivrés, les profils de compagnies aériennes et les réservations effectuées avant le renouvellement, il faut donc généralement les mettre à jour séparément.
+Généralement, oui. Un nouveau carnet porte le plus souvent un nouveau numéro. Tout ce qui a été enregistré sous l'ancien numéro reste associé à celui-ci, y compris les visas déjà délivrés, les profils de compagnies aériennes et les réservations effectuées avant le renouvellement. Il faut donc généralement les mettre à jour séparément.
 
 ### Comment savoir quand mon passeport expire ?
 

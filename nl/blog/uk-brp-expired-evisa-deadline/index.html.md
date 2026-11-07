@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/nl/blog/uk-brp-expired-evisa-deadline/
 - Elk kind heeft **zijn eigen account** nodig, dat een ouder kan beheren met zijn eigen telefoon en e-mail.
 - Om te reizen moet het paspoort waarmee je vliegt op je UKVI-account staan, met gegevens die overeenkomen met je boeking.
 
-De meeste mensen met een verlopen Biometric Residence Permit (BRP) hoeven maar één ding te doen: een UK Visas and Immigration (UKVI)-account aanmaken, waarbij ze de kaart gebruiken om te bewijzen wie ze zijn. Het is in één keer gedaan, en de verlopen kaart werkt daar nog steeds voor, in ieder geval voor een tijdje. Je immigratiestatus is niet veranderd. Wat wel is veranderd, is waar die staat.
+Heb je een verlopen Biometric Residence Permit (BRP) en nog toestemming om te blijven, dan vraagt GOV.UK je een UK Visas and Immigration (UKVI)-account aan te maken, waarbij je de kaart gebruikt om te bewijzen wie je bent. Het is in één keer gedaan, en de verlopen kaart werkt daar nog steeds voor, in ieder geval voor een tijdje. Je immigratiestatus is niet veranderd. Wat wel is veranderd, is waar die staat.
 
 ![Diagram van hoe lang een verlopen BRP nog werkt: gedurende 24 maanden na de afgedrukte vervaldatum of tot 31 december 2026, wat het eerst komt. In die tijd kan hij nog gebruikt worden om in te loggen en een deelcode te krijgen, een UKVI-account aan te maken, of een verlenging van je verblijfsvergunning aan te vragen](https://traveldocumentvault.com/blog/uk-brp-expired-evisa-deadline/brp-window-nl.jpg) Twee datums, en de eerste is de jouwe.
 
@@ -58,7 +58,7 @@ Zodra je kind 18 wordt, moeten de accountgegevens overgaan naar zijn eigen telef
 
 ## Om te reizen moet het paspoort waarmee je vliegt op je UKVI-account staan
 
-GOV.UK is hier direct over: je moet reizen met een geldig paspoort of reisdocument dat je aan je UKVI-account hebt toegevoegd. Je eVisa wordt gecontroleerd wanneer je het Verenigd Koninkrijk verlaat, wanneer je terugkeert (ook bij eGates) en door de luchtvaartmaatschappij of andere vervoerder bij de check-in. Die controles raadplegen je eVisa via het paspoort op je account. Komen de gegevens op je account niet precies overeen met de passagiersinformatie die je aan de vervoerder hebt gegeven, dan kan het zijn dat de vervoerder je niet laat reizen, en kun je ook worden tegengehouden aan de grens van het Verenigd Koninkrijk.
+GOV.UK is hier direct over: je moet reizen met een geldig paspoort of reisdocument dat je aan je UKVI-account hebt toegevoegd. Je eVisa wordt gecontroleerd wanneer je het Verenigd Koninkrijk verlaat en binnenkomt, door een grensambtenaar of bij de eGates, en wanneer je bij je vervoerder incheckt om naar het Verenigd Koninkrijk terug te keren. Die controles raadplegen je eVisa via het paspoort op je account. Komen de gegevens op je account niet precies overeen met de passagiersinformatie die je aan de vervoerder hebt gegeven, dan kan het zijn dat de vervoerder je niet laat reizen, en kun je ook worden tegengehouden aan de grens van het Verenigd Koninkrijk.
 
 Log voor een reis in, bevestig dat het paspoort op het account dat is waarmee je reist, en vraag een deelcode aan. Een code is 90 dagen geldig en kan meer dan één keer worden gebruikt, en een luchtvaartmaatschappij of grensbeambte kan ernaar vragen. Wij zouden hem vóór het boeken aanvragen, niet in de rij op het vliegveld.
 
@@ -88,7 +88,7 @@ Elk kind heeft zijn eigen UKVI-account nodig om bij zijn eVisa te komen, volgens
 
 ### Wat heb ik nodig om met een eVisa te reizen?
 
-Een geldig paspoort dat je aan je UKVI-account hebt toegevoegd, met gegevens die precies overeenkomen met wat je aan de luchtvaartmaatschappij doorgeeft. Je eVisa wordt gecontroleerd wanneer je het Verenigd Koninkrijk verlaat, wanneer je terugkeert (ook bij eGates), en bij de check-in van de vervoerder. Een deelcode is 90 dagen geldig en kan meer dan één keer worden gebruikt.
+Een geldig paspoort dat je aan je UKVI-account hebt toegevoegd, met gegevens die precies overeenkomen met wat je aan de luchtvaartmaatschappij doorgeeft. Je eVisa wordt gecontroleerd wanneer je het Verenigd Koninkrijk verlaat en binnenkomt, door een grensambtenaar of bij de eGates, en wanneer je bij je vervoerder incheckt om naar het Verenigd Koninkrijk terug te keren. Een deelcode is 90 dagen geldig en kan meer dan één keer worden gebruikt.
 
 ## Gerelateerde artikelen
 

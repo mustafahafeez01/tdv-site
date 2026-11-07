@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/it/blog/international-driving-permit-val
 - Ogni paese ha ratificato convenzioni diverse, quindi **un permesso accettato in un paese può essere rifiutato in quello successivo**.
 - Passaporto, patente e permesso corrono su **tre orologi separati** che quasi mai coincidono.
 
-Un permesso di guida internazionale è una traduzione della patente, non una patente a sé stante, e segue un proprio calendario. La maggior parte vale dodici mesi dalla data di rilascio, quindi quello comprato per un viaggio tre estati fa è quasi certamente scaduto. I banchi di noleggio di diversi paesi lo chiedono prima di consegnare l'auto.
+Un permesso di guida internazionale è una traduzione della patente, non una patente a sé stante, e segue un proprio calendario. Molti valgono dodici mesi dalla data di rilascio e nessuno supera i tre anni, quindi quello comprato per un viaggio tre estati fa è quasi certamente scaduto. I banchi di noleggio di diversi paesi lo chiedono prima di consegnare l'auto.
 
 Un IDP ha una propria data di scadenza, e quella data si comporta in modo diverso a seconda di quale dei trattati internazionali sta dietro al tuo permesso. Molti automobilisti scoprono che esistono due tipi solo quando uno dei due viene rifiutato.
 
@@ -30,7 +30,7 @@ Questo trae in inganno più spesso delle date di scadenza. Il permesso sembra il
 
 ## Due convenzioni decidono quanto dura e dove vale
 
-Dietro gli IDP ci sono tre accordi internazionali, e ogni paese ha aderito a uno di essi o a più di uno. Due fanno quasi tutto il lavoro: la Convenzione di Ginevra del 1949 e la Convenzione di Vienna del 1968. Un permesso più datato, della Convenzione di Parigi del 1926, viene ancora rilasciato per un numero ridotto di destinazioni, e come quello di Ginevra dura un anno.
+Dietro gli IDP ci sono tre accordi internazionali, e ogni paese ha aderito a uno di essi o a più di uno. Due fanno quasi tutto il lavoro: la Convenzione di Ginevra del 1949 e la Convenzione di Vienna del 1968. Un permesso più datato, della Convenzione di Parigi del 1926, esiste ancora e alcune destinazioni lo elencano tra i documenti accettati. Controlla la data di scadenza stampata sul permesso.
 
 Un permesso rilasciato secondo la Convenzione di Ginevra del 1949 è valido un anno. Un permesso rilasciato secondo la Convenzione di Vienna del 1968 può arrivare fino a tre.
 
@@ -40,7 +40,7 @@ Questa distinzione conta due volte. Stabilisce quanto dura il tuo permesso, e de
 
 | Tipo di permesso | Quanto dura | Cosa lo limita |
 |---|---|---|
-| **Convenzione di Parigi del 1926** | Un anno | La data di rilascio. Oggi raramente richiesto |
+| **Convenzione di Parigi del 1926** | Controlla la data di scadenza stampata | La data di rilascio. Oggi raramente richiesto |
 | **Convenzione di Ginevra del 1949** | Un anno | La data di rilascio |
 | **Convenzione di Vienna del 1968** | Fino a tre anni | La tua patente nazionale, se scade prima |
 
@@ -90,9 +90,9 @@ Il caso peggiore è un viaggio prenotato all'ultimo momento. Il permesso raramen
 
 ## Non esiste una «patente di guida internazionale»
 
-Cerca «patente di guida internazionale» online e troverai siti che vendono un documento dal nome quasi identico, spesso a un prezzo molto più alto di quanto costi il permesso ufficiale, a volte con la promessa di consegna immediata o addirittura di dieci anni di validità.
+Cerca «patente di guida internazionale» online e troverai siti che vendono un documento dal nome quasi identico, a volte a un prezzo superiore a quello del permesso ufficiale, a volte con la promessa di consegna immediata o addirittura di dieci anni di validità.
 
-Un documento del genere non esiste. Gli unici validi sono i permessi rilasciati secondo le convenzioni del 1926, del 1949 e del 1968, tramite il canale designato dal tuo paese. Tre anni per un permesso di Vienna è la durata massima possibile, quindi qualsiasi offerta che pubblicizza 10 o 20 anni descrive un documento che nessun funzionario di frontiera è tenuto ad accettare.
+Un documento del genere non esiste. I permessi rilasciati secondo le convenzioni del 1926, del 1949 e del 1968, tramite il canale designato dal tuo paese, sono i documenti previsti da tali convenzioni. La Convenzione di Vienna del 1968 limita la durata a tre anni, quindi qualsiasi offerta che pubblicizzi 10 o 20 anni descrive qualcosa che esula dalla convenzione.
 
 Se stai preparando una lista più ampia per il viaggio invece di occuparti solo della parte guida, il nostro [elenco di controllo dei documenti di viaggio internazionali](https://traveldocumentvault.com/it/blog/travel-document-checklist/) ripercorre cosa raccogliere prima di volare, mentre [i documenti di viaggio che le persone dimenticano](https://traveldocumentvault.com/it/blog/what-documents-to-carry-when-travelling-internationally/) spiega dove conservare al meglio ciascuno una volta in movimento.
 
@@ -122,7 +122,7 @@ Sì, se è un permesso della Convenzione di Vienna del 1968. Questo tipo è limi
 
 ### Perché esiste più di un tipo di patente di guida internazionale?
 
-Derivano da trattati internazionali distinti. La maggior parte dei viaggi è coperta dalla Convenzione di Ginevra del 1949 e dalla Convenzione di Vienna del 1968, e un permesso più datato, della Convenzione di Parigi del 1926, viene ancora rilasciato per un numero ridotto di destinazioni. Ogni paese ha ratificato convenzioni diverse, ed è per questo che un permesso accettato in un paese può essere rifiutato in un altro.
+Derivano da trattati internazionali distinti. La maggior parte dei viaggi è coperta dalla Convenzione di Ginevra del 1949 e dalla Convenzione di Vienna del 1968, e un permesso più datato, della Convenzione di Parigi del 1926, esiste ancora e alcune destinazioni lo elencano tra i documenti accettati. Ogni paese ha ratificato convenzioni diverse, ed è per questo che un permesso accettato in un paese può essere rifiutato in un altro.
 
 ## Articoli Correlati
 

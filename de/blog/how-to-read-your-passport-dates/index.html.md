@@ -36,7 +36,7 @@ Wenn Sie sich nur eine Sache von dieser Seite merken, dann diese Asymmetrie: Das
 
 Viele Menschen suchen, was „date of expedition" auf einem Reisepass bedeutet, und die Antwort ist beruhigend banal: Es bedeutet Ausstellungsdatum.
 
-Der Ausdruck stammt aus dem Spanischen und Portugiesischen. *Fecha de expedición* und *data de expedição* werden beide wörtlich ins Englische als expedition date übersetzt, und übersetzte Formulare übernehmen diesen Wortlaut, ohne dass es jemandem auffällt. Dasselbe Feld heißt *date de délivrance* auf Französisch, *data di rilascio* auf Italienisch, *Ausstellungsdatum* auf Deutsch, *datum van afgifte* auf Niederländisch und *utfärdandedatum* auf Schwedisch.
+Der Ausdruck stammt aus dem Spanischen und Portugiesischen. *Fecha de expedición* und *data de expedição* werden beide wörtlich ins Englische als expedition date übersetzt, und übersetzte Formulare übernehmen diesen Wortlaut, ohne dass es jemandem auffällt.
 
 Sie alle bedeuten dasselbe, und keines davon bedeutet Ablauf. Fragt ein Formular nach einem expedition date, will es das frühere Ihrer beiden Daten.
 
@@ -60,7 +60,7 @@ Das Ausstellungsdatum hört in dem Moment auf, eine Nebensächlichkeit zu sein, 
 
 Kürzlich ausgestellte britische Reisepässe tragen diese zusätzlichen Monate nicht mehr, aber ältere Pässe, die sie noch haben, sind weiterhin im Umlauf und in Gebrauch.
 
-Schengen-Länder wenden an der Grenze zwei getrennte Prüfungen auf einen Reisepass aus einem Nicht-EU-Land an: Er muss weniger als zehn Jahre vor Ihrer Ankunft ausgestellt worden sein, und er muss mindestens drei Monate über Ihre geplante Abreise hinaus gültig bleiben. Ein Pass mit neun zusätzlichen Monaten kann die zweite Prüfung mühelos bestehen und an der ersten scheitern – ein unangenehmes Gespräch an einem Schalter in Madrid mit einem Dokument, das gar nicht abgelaufen ist.
+Schengen-Länder wenden an der Grenze in der Regel zwei getrennte Prüfungen auf einen Reisepass aus einem Nicht-EU-Land an: Er muss weniger als zehn Jahre vor Ihrer Ankunft ausgestellt worden sein, und er muss mindestens drei Monate über Ihre geplante Abreise hinaus gültig bleiben. Ein Pass mit neun zusätzlichen Monaten kann die zweite Prüfung mühelos bestehen und an der ersten scheitern – ein unangenehmes Gespräch an einem Schalter in Madrid mit einem Dokument, das gar nicht abgelaufen ist.
 
 Wir würden vor einer Europareise beide Daten prüfen, nicht nur das untere.
 
@@ -68,11 +68,11 @@ Wir würden vor einer Europareise beide Daten prüfen, nicht nur das untere.
 
 Nahe dem oberen Rand der Datenseite steht ein dreistelliger Code für das ausstellende Land. Weiter unten, meist in einem eigenen Feld, steht die ausstellende Behörde: die Stelle oder Abteilung, die den Pass tatsächlich hergestellt hat.
 
-Das Land ist wichtiger, als man erwartet. Es entscheidet, an welches Konsularnetz Sie sich wenden, wenn ein Reisepass verloren geht oder gestohlen wird.
+Das Land ist wichtiger, als man erwartet. Es entscheidet in der Regel, an welches Konsularnetz Sie sich wenden, wenn ein Reisepass verloren geht oder gestohlen wird.
 
 Und das ist selten das Land, in dem Sie sich gerade befinden.
 
-Es entscheidet außerdem, welche Einreisebestimmungen für Sie gelten – der ganze Grund, warum Doppelstaatler sorgfältig überlegen, welchen Reisepass sie vorzeigen. Die praktische Seite davon behandeln wir in [Was tun, wenn ein Reisepass im Ausland verloren geht](https://traveldocumentvault.com/de/blog/lost-passport-abroad/).
+Es entscheidet außerdem in der Regel, welche Einreisebestimmungen für Sie gelten – der ganze Grund, warum Doppelstaatler sorgfältig überlegen, welchen Reisepass sie vorzeigen. Die praktische Seite davon behandeln wir in [Was tun, wenn ein Reisepass im Ausland verloren geht](https://traveldocumentvault.com/de/blog/lost-passport-abroad/).
 
 Das Feld der ausstellenden Behörde ist vor allem für Formulare nützlich. Manche Anträge wollen es wortwörtlich, manche akzeptieren das Land, und es genau abzuschreiben geht schneller als zu raten.
 
@@ -88,7 +88,7 @@ Für sich genommen ist das alles nicht dramatisch. Dramatisch wird es, wenn eine
 
 Die Datenseite ist die steife, laminierte Seite mit Ihrem Foto, und ihr Layout ist international standardisiert statt von jedem Land selbst erfunden. Deshalb ist ein Reisepass von überall für einen Grenzbeamten überall lesbar, und deshalb können Sie, sobald Sie einen lesen können, sie alle lesen.
 
-Die beiden Zeilen aus Zeichen und Chevrons am unteren Rand bilden die maschinenlesbare Zone. Sie wiederholt einen Teil der Angaben von der Seite darüber in einem Format, das ein Scanner in einem Durchgang erfassen kann, allerdings nicht alle: Das Ablaufdatum steht darin, das Ausstellungsdatum nicht. Schäden dort werden deutlich ernster genommen als ein Kratzer auf dem Einband. Wo genau diese Grenze verläuft, behandeln wir in [Reisen mit einem beschädigten Reisepass](https://traveldocumentvault.com/de/blog/damaged-passport-travel/).
+Die beiden Zeilen aus Zeichen und Chevrons am unteren Rand bilden die maschinenlesbare Zone. Sie wiederholt einen Teil der Angaben von der Seite darüber in einem Format, das ein Scanner in einem Durchgang erfassen kann, allerdings nicht alle: Das Ablaufdatum steht darin. Prüfen Sie in Ihrem eigenen Reisepass, welche Angaben die Zone genau wiederholt. Schäden dort werden deutlich ernster genommen als ein Kratzer auf dem Einband. Wo genau diese Grenze verläuft, behandeln wir in [Reisen mit einem beschädigten Reisepass](https://traveldocumentvault.com/de/blog/damaged-passport-travel/).
 
 Sind die Beschriftungen auf Ihrer eigenen Datenseite nicht auf Deutsch, hilft die Anordnung trotzdem: Die beiden Daten stehen zusammen, im selben Format, und das Ablaufdatum ist das spätere der beiden.
 
@@ -108,11 +108,11 @@ Nein. Das Ausstellungsdatum ist der Zeitpunkt, zu dem der Pass hergestellt wurde
 
 ### Was bedeutet ausstellendes Land auf einem Reisepass?
 
-Das ausstellende Land ist der Staat, der den Reisepass ausgestellt hat, angegeben als dreistelliger Code nahe dem oberen Rand der Datenseite. Es entscheidet, welche Botschaft oder welches Konsulat Ihnen hilft, wenn der Reisepass im Ausland verloren geht, und welche Einreisebestimmungen gelten, wenn Sie ihn vorzeigen.
+Das ausstellende Land ist der Staat, der den Reisepass ausgestellt hat, angegeben als dreistelliger Code nahe dem oberen Rand der Datenseite. Es entscheidet in der Regel, welche Botschaft oder welches Konsulat Ihnen helfen kann, wenn der Reisepass im Ausland verloren geht, und welche Einreisebestimmungen beim Vorzeigen üblicherweise gelten.
 
 ### Ändert sich meine Passnummer, wenn ich verlängere?
 
-Ja. Jeder neue Pass trägt eine neue Nummer. Alles, was unter der alten Nummer erfasst wurde, bleibt bei der alten Nummer, einschließlich bereits ausgestellter Visa, Fluggesellschaftsprofile und vor der Verlängerung getätigter Buchungen, sodass diese in der Regel separat aktualisiert werden müssen.
+In der Regel ja. Ein neuer Pass trägt üblicherweise eine neue Nummer. Alles, was unter der alten Nummer erfasst wurde, bleibt bei der alten Nummer, einschließlich bereits ausgestellter Visa, Fluggesellschaftsprofile und vor der Verlängerung getätigter Buchungen, sodass diese in der Regel separat aktualisiert werden müssen.
 
 ### Woran erkenne ich, wann mein Reisepass abläuft?
 

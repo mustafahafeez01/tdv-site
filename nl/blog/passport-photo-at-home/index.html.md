@@ -24,7 +24,7 @@ Hoewel de specifieke regels per paspoortinstantie verschillen, delen de meeste l
 
 ### Achtergrond en compositie
 
-Je hebt een effen, lichte achtergrond nodig, en de exacte kleur hangt af van je instantie: GOV.UK vraagt om effen crème of lichtgrijs, terwijl de Canadese overheid om effen wit of lichtgekleurd vraagt. Geen patronen, schaduwen, wazige achtergronden of felle kleuren. De reden is simpel: ambtenaren hebben een schoon, ongestoord beeld van je gezicht nodig om te vergelijken met toekomstige documenten. De meeste mensen gebruiken een wit laken, een posterbord, of schilderen zelfs een klein stukje muur. Het belangrijkste is dat het licht en gelijkmatig blijft, over de hele achtergrond.
+Je hebt een effen, lichte achtergrond nodig, en de exacte kleur hangt af van je instantie: GOV.UK vraagt om effen crème of lichtgrijs, terwijl de Canadese overheid om effen wit of lichtgekleurd vraagt. Geen patronen, schaduwen, wazige achtergronden of felle kleuren. De reden is simpel: ambtenaren hebben een schoon, ongestoord beeld van je gezicht nodig om te vergelijken met toekomstige documenten. Gebruik een effen laken of posterbord in de kleur die je instantie voorschrijft (crème of lichtgrijs voor het VK), of schilder een klein stukje muur. Het belangrijkste is dat het licht en gelijkmatig blijft, over de hele achtergrond.
 
 ### Uitdrukking en houding
 
@@ -38,7 +38,7 @@ Een zonnebril en getinte glazen worden meestal geweigerd. Kom je wel in aanmerki
 
 ## Afmetingen pasfoto: de twee standaardmaten die de meeste landen gebruiken
 
-De meeste paspoortinstanties gebruiken een van twee gedrukte formaten. Het formaat 35 x 45 mm geldt voor het Verenigd Koninkrijk, EU-landen waaronder Nederland, en een groot deel van de rest van de wereld. De Verenigde Staten vragen een vierkant van 2 x 2 inch, en een handjevol landen volgt die standaard in plaats daarvan. Sommige instanties hanteren hun eigen formaat: de Canadese overheid vraagt bijvoorbeeld om afgedrukte foto's van 50 mm breed bij 70 mm hoog.
+Het formaat voor afgedrukte pasfoto's verschilt per instantie. Het VK gebruikt 35 x 45 mm en de Canadese overheid vraagt om foto's van 50 mm breed bij 70 mm hoog. Andere landen bepalen hun eigen afmetingen, dus houd de eisen van je eigen paspoortinstantie aan.
 
 Digitale indieningen wisselen millimeters in voor pixels, en elke instantie publiceert haar eigen minimumeisen. Deze twee formaten zijn wat de meeste instanties momenteel voor gedrukte foto's vragen, maar specificaties worden herzien, dus bevestig die van jou voordat je print of uploadt.
 
@@ -63,11 +63,11 @@ Je hebt verschillende opties om je paspoortfoto bij de paspoortinstantie te krij
 
 | Methode | Kosten | Risico op afwijzing | Gemak | Officiële richtlijnen |
 |---|---|---|---|---|
-| Zelf thuis (smartphone + bijsnij-app) | Gratis of bijna gratis | Hoger als je licht of afmeting mist | Zeer hoog - direct | Toegestaan in de meeste landen - controleer de site van je instantie |
+| Zelf thuis (smartphone + bijsnij-app) | Gratis of bijna gratis | Hoger als je licht of afmeting mist | Zeer hoog - direct | Controleer de site van je instantie |
 | Plaatselijke drogist of apotheek | Een bescheiden vergoeding | Laag - getraind personeel controleert | Gemiddeld - meestal dezelfde dag | Veel gebruikt en over het algemeen betrouwbaar - controleer sowieso de eisen van je eigen instantie |
 | Postkantoor (VK en andere landen) | Een bescheiden vergoeding | Laag - ter plekke gemaakt, gecontroleerd | Gemiddeld - vereist bezoek en afspraak | Officiële service van het postkantoor |
 | Online diensten (bijv. Passport Photo Online) | Een bescheiden vergoeding | Gemiddeld - digitale indiening, feedback gegeven | Hoog - vanuit huis, digitale levering | Niet officieel maar veel gebruikt - controleer of je land voorgesneden uploads accepteert |
-| Professionele fotostudio | De duurste optie | Laag - deskundige belichting en compositie | Laag - vereist afspraak | Overal geaccepteerd - altijd een veilige keuze |
+| Professionele fotostudio | De duurste optie | Laag - deskundige belichting en compositie | Laag - vereist afspraak | Laagste risico, maar de foto moet nog steeds aan de eisen van je instantie voldoen |
 
 ## Belichting en beeldkwaliteit
 
@@ -83,7 +83,7 @@ Gebruik een statief of zet je telefoon tegen een stabiel voorwerp, zodat je beid
 
 ### Resolutie en scherpstelling
 
-Moderne smartphones fotograferen met 12 megapixels of meer, wat ruim voldoende is voor een paspoortfoto. Zorg dat je telefoon in scherpstelmodus staat voordat je fotografeert – tik op je gezicht op het scherm, dan vergrendelen de meeste telefoons daar de scherpstelling. Je uiteindelijke foto moet scherp en duidelijk zijn.
+De meeste moderne smartphonecamera's hebben ruim voldoende resolutie voor een paspoortfoto. Zorg dat je telefoon in scherpstelmodus staat voordat je fotografeert – tik op je gezicht op het scherm, dan vergrendelen de meeste telefoons daar de scherpstelling. Je uiteindelijke foto moet scherp en duidelijk zijn.
 
 ## Veelvoorkomende afwijzingsredenen en hoe je ze voorkomt
 
@@ -133,7 +133,7 @@ Ja, je kunt een paspoortfoto met je smartphone maken. Ga voor een effen, lichte 
 
 ### Welke afmetingen moet een paspoortfoto hebben?
 
-De meeste landen gebruiken een van twee gedrukte formaten: 35 x 45 mm, dat geldt voor het Verenigd Koninkrijk, de EU en een groot deel van de wereld, of het vierkant van 2 x 2 inch dat de Verenigde Staten gebruiken. Sommige instanties hanteren hun eigen formaat, zoals de Canadese 50 x 70 mm. Digitale indieningen hebben aparte minimumeisen in pixels. De eisen worden strikt gehandhaafd en herzien, dus bevestig de exacte specificatie bij je eigen paspoortinstantie voordat je print of uploadt.
+Het formaat voor afgedrukte pasfoto's verschilt per instantie. Het VK gebruikt 35 x 45 mm en Canada 50 x 70 mm. Andere landen bepalen hun eigen afmetingen, dus houd de eisen van je eigen paspoortinstantie aan. Digitale indieningen hebben aparte minimumeisen in pixels. De eisen worden strikt gehandhaafd en herzien, dus bevestig de exacte specificatie bij je eigen paspoortinstantie voordat je print of uploadt.
 
 ### Waarom werd mijn paspoortfoto afgewezen?
 

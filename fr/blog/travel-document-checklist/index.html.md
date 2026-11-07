@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/fr/blog/travel-document-checklist/
 ## Points clés à retenir
 
 - La liste de contrôle des documents de voyage la plus utile est organisée par **quand vous devez agir** — pas par type de document. Trier par étape signifie que vous identifiez les problèmes tant qu'il y a encore temps de les résoudre.
-- Les passeports doivent être vérifiés au moment de la réservation, pas la veille. Un passeport expirant dans sept mois peut vous faire refuser l'accès à la porte d'embarquement pour les destinations populaires.
+- Les passeports doivent être vérifiés au moment de la réservation, pas la veille. Un passeport avec moins de six mois de validité restante peut vous faire refuser l'embarquement pour certaines destinations : vérifiez le chiffre exact pour la vôtre au moment de la réservation.
 - Les voyages en famille ajoutent une couche supplémentaire : chaque enfant a besoin d'une vérification individuelle de ses documents, et une lettre de consentement parental peut être nécessaire si un parent ne voyage pas.
 - Les voyageurs d'affaires transportent souvent plusieurs passeports et visas de travail — ceux-ci ont besoin de leur propre suivi, séparé des documents personnels.
 - Une sauvegarde numérique de chaque document (chiffrée, pas dans votre galerie photos) pourrait vous aider à rentrer plus vite si quelque chose tourne mal à l'étranger.
@@ -26,7 +26,7 @@ L'erreur la plus courante des voyageurs est de traiter le moment de la réservat
 
 **Vérifiez vos passeports avant de payer**
 
-Avant de confirmer une réservation, vérifiez le passeport de chaque voyageur selon trois critères : la validité (répond-il aux exigences de la destination — de nombreux pays exigent six mois au-delà de votre date de départ, pas seulement votre date d'arrivée, comme expliqué dans notre [guide de la règle des 6 mois de passeport](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/)), la correspondance du nom (le nom sur le passeport doit correspondre exactement au nom de la réservation) et les pages vierges (certains pays exigent au moins deux pages de visa vierges pour les timbres d'entrée).
+Avant de confirmer une réservation, vérifiez le passeport de chaque voyageur selon trois critères : la validité (répond-il aux exigences de la destination — de nombreux pays veulent encore six mois de validité le jour de votre arrivée, et quelques-uns comptent à partir du départ : vérifiez donc votre destination, comme expliqué dans notre [guide de la règle des 6 mois de passeport](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/)), la correspondance du nom (le nom sur le passeport doit correspondre exactement au nom de la réservation) et les pages vierges (certains pays exigent au moins deux pages de visa vierges pour les timbres d'entrée).
 
 **Vérifiez vos exigences de visa**
 
@@ -40,13 +40,13 @@ Réservez une assurance voyage quand vous réservez les vols, pas une semaine av
 
 ## Trois mois avant : si un renouvellement ou un visa approche, commencez dès maintenant
 
-À ce stade, vous avez toujours le temps de corriger les choses. Les délais de renouvellement changent, et chaque autorité publie son propre chiffre actuel : le Département d'État américain, HM Passport Office et l'Office australien des passeports. Consultez toujours le site officiel pour les délais actuels avant de demander.
+À ce stade, vous avez toujours le temps de corriger les choses. Les délais de renouvellement changent, et l'autorité des passeports de votre pays publie son propre chiffre actuel. Consultez toujours le site officiel pour les délais actuels avant de demander.
 
-Tout passeport expirant dans 12 mois : commencez le processus de renouvellement maintenant. Les passeports des enfants expirent plus vite — 5 ans dans la plupart des pays contre 10 pour les adultes — et les parents manquent fréquemment la fenêtre. Pour les demandeurs de Nouvelle-Zélande, vérifiez l'Office des passeports de Nouvelle-Zélande pour les délais actuels ; la demande augmente à l'approche de l'été.
+Nous renouvellerions dès maintenant tout passeport expirant dans 12 mois. Les passeports des enfants expirent plus vite (au Royaume-Uni, ils sont valables 5 ans contre 10 pour les adultes, et plusieurs autres pays fonctionnent de la même façon) et les parents manquent fréquemment la fenêtre. Pour les demandeurs de Nouvelle-Zélande, vérifiez l'Office des passeports de Nouvelle-Zélande pour les délais actuels.
 
 Soumettez toute demande de visa qui demande du délai, et vérifiez auprès de l'autorité qui la délivre le temps actuellement nécessaire. Préparez les documents justificatifs : relevés bancaires, confirmations d'hébergement, preuve de voyage ultérieur. Réservez une rendez-vous de biométrie à l'avance si le visa l'exige.
 
-Pour les familles : si un enfant voyage avec un seul parent ou un autre adulte, préparez une lettre de consentement de voyage pour enfant maintenant. Incluez le nom complet et la date de naissance de l'enfant, les coordonnées des deux parents, les dates et destinations du voyage, et la signature du parent absent. Une copie notariée est plus convaincante à l'immigration et vaut l'étape supplémentaire.
+Pour les familles : si un enfant voyage avec un seul parent ou un autre adulte, préparez une lettre de consentement de voyage pour enfant maintenant. Incluez le nom complet et la date de naissance de l'enfant, les coordonnées des deux parents, les dates et destinations du voyage, et la signature du parent absent. Certaines destinations demandent aussi que la lettre soit notariée : vérifiez les règles d'entrée.
 
 ## Un mois avant : confirmer et consolider
 
@@ -105,8 +105,8 @@ Les différents voyages nécessitent des ensembles de documents différents, com
 | Visa (si requis) | | chaque membre | d'entreprise | Affaires : confirmez que le visa est dans le bon passeport |
 | Assurance voyage | | tous couverts | vérifiez si l'employeur vous couvre | Confirmez la couverture avant chaque voyage, pas seulement à l'achat |
 | Confirmations de réservation | | | | Copie hors ligne (ne comptez pas sur l'accès au courrier à la frontière) |
-| Lettre de consentement enfant | N/A | si applicable | N/A | Requise dans de nombreux pays si un parent absent |
-| Actes de naissance | N/A | si requis | N/A | Certains pays les exigent pour les enfants de moins de 18 ans |
+| Lettre de consentement enfant | N/A | si applicable | N/A | Demandée dans certains pays si un parent est absent |
+| Actes de naissance | N/A | si requis | N/A | Certains pays les demandent pour les enfants de moins de 18 ans |
 | Lettre d'autorisation de travail | N/A | N/A | si requis | Certaines destinations exigent des lettres d'employeur pour les voyageurs d'affaires |
 
 Si un voyage est déjà réservé, la seule chose qui vaut la peine d'être faite dès aujourd'hui est de sortir chaque passeport concerné et de vérifier sa date d'expiration au regard des exigences de la destination, et pas seulement de vos dates de voyage.
@@ -129,7 +129,7 @@ Oui. L'expiration du passeport, les exigences de visa et la couverture d'assuran
 
 ### Qu'est-ce qu'une lettre de consentement de voyage pour enfant et en ai-je besoin ?
 
-Une lettre de consentement de voyage pour enfant est un document signé par le parent absent donnant la permission à l'enfant de voyager. Des pays comme le Canada, l'Afrique du Sud, le Mexique et de nombreux autres la demandent régulièrement quand un enfant voyage avec un seul parent. Sans elle, vous risquez des retards ou un refus d'entrée. La lettre doit inclure les détails complets de l'enfant, les coordonnées des deux parents, les dates et destinations du voyage, et la signature du parent absent.
+Une lettre de consentement de voyage pour enfant est un document signé par le parent absent donnant la permission à l'enfant de voyager. Certains pays, dont l'Afrique du Sud, imposent des exigences supplémentaires aux enfants qui voyagent avec un seul parent, et les autorités canadiennes recommandent une lettre de consentement signée. Sans elle, vous pouvez vous exposer à des questions supplémentaires ou à des retards. La lettre doit inclure les détails complets de l'enfant, les coordonnées des deux parents, les dates et destinations du voyage, et la signature du parent absent.
 
 ### Quels documents dois-je garder avec moi à l'aéroport et ne pas mettre dans les bagages enregistrés ?
 

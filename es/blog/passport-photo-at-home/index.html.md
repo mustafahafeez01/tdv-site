@@ -24,7 +24,7 @@ Aunque las reglas específicas varían según la autoridad de pasaportes, la may
 
 ### Fondo y Composición
 
-Necesitas un fondo claro y uniforme, y el tono exacto depende de tu autoridad: GOV.UK pide crema claro o gris claro, mientras que el Gobierno de Canadá pide blanco o de color claro. Sin patrones, sombras, fondos borrosos o colores intensos. La razón es directa: los funcionarios necesitan una vista limpia y sin desorden de tu cara para compararla con documentos futuros. La mayoría de las personas usan una sábana blanca, cartón, o incluso pintan una pequeña sección de pared. La clave es mantenerlo brillante y uniforme en toda la extensión.
+Necesitas un fondo claro y uniforme, y el tono exacto depende de tu autoridad: GOV.UK pide crema claro o gris claro, mientras que el Gobierno de Canadá pide blanco o de color claro. Sin patrones, sombras, fondos borrosos o colores intensos. La razón es directa: los funcionarios necesitan una vista limpia y sin desorden de tu cara para compararla con documentos futuros. Usa una sábana o un cartón liso del tono que pida tu autoridad —crema o gris claro para el Reino Unido—, o incluso pinta una pequeña sección de pared. La clave es mantenerlo brillante y uniforme en toda la extensión.
 
 ### Expresión y Postura
 
@@ -38,9 +38,9 @@ Las gafas de sol y los cristales tintados suelen rechazarse. Si cumples los requ
 
 ## Tamaño de la Foto de Pasaporte: los Dos Estándares que Usa la Mayoría de Países
 
-La mayoría de las autoridades de pasaportes usan uno de estos dos tamaños impresos. El formato 35 x 45 mm cubre el Reino Unido, los países de la UE, incluidos los Países Bajos, y buena parte del resto del mundo. Estados Unidos pide un cuadrado de 2 x 2 pulgadas, y un puñado de países siguen ese estándar en su lugar. Algunas autoridades fijan su propio tamaño: el Gobierno de Canadá, por ejemplo, pide fotos impresas de 50 mm de ancho por 70 mm de alto.
+Los tamaños de las fotos impresas varían según la autoridad. El Reino Unido utiliza 35 x 45 mm y el Gobierno de Canadá pide fotos impresas de 50 mm de ancho por 70 mm de alto. Otros países fijan sus propias medidas, así que consulta las de tu autoridad de pasaportes.
 
-Las solicitudes digitales cambian los milímetros por píxeles, y cada autoridad publica sus propios mínimos. Esos dos tamaños son los que la mayoría de las autoridades piden actualmente para impresión, pero las especificaciones se revisan, así que confirma la tuya antes de imprimir o subir la foto.
+Las solicitudes digitales cambian los milímetros por píxeles, y cada autoridad publica sus propios mínimos. Las especificaciones se revisan, así que confirma la tuya antes de imprimir o subir la foto.
 
 ### Dónde Verificar los Requisitos de Tamaño de tu País
 
@@ -63,11 +63,11 @@ Tienes varias opciones para que tu foto de pasaporte llegue a manos de la autori
 
 | Método | Costo | Riesgo de Aceptación | Conveniencia | Orientación Oficial |
 |---|---|---|---|---|
-| DIY en casa (teléfono inteligente + app de recorte) | Gratuito o casi | Mayor si pierdes iluminación o especificaciones de tamaño | Muy alta, inmediata | Permitido en la mayoría de países, verifica el sitio de tu autoridad |
+| DIY en casa (teléfono inteligente + app de recorte) | Gratuito o casi | Mayor si pierdes iluminación o especificaciones de tamaño | Muy alta, inmediata | Consulta el sitio de tu autoridad |
 | Farmacia local | Una tarifa modesta | Baja, profesionales capacitados verifican | Media, servicio del mismo día típico | Ampliamente utilizado y generalmente confiable, verifica de todas formas los requisitos de foto de tu autoridad |
 | Correo (Reino Unido y otros) | Una tarifa modesta | Baja, tomada internamente, verificada | Media, requiere visita y cita | servicio oficial de Correo |
 | Servicios en línea (por ejemplo, Passport Photo Online) | Una tarifa modesta | Media, presentación digital, retroalimentación proporcionada | Alta, desde casa, entrega digital | No oficial pero ampliamente utilizado, verifica si tu país acepta cargas previas recortadas |
-| Estudio de fotografía profesional | La opción más cara | Baja, iluminación y composición de experto | Baja, requiere cita | Aceptado en todas partes, siempre una opción segura |
+| Estudio de fotografía profesional | La opción más cara | Baja, iluminación y composición de experto | Baja, requiere cita | Riesgo más bajo, aunque la foto debe cumplir igualmente las normas de tu autoridad |
 
 ## Iluminación y Calidad de Imagen
 
@@ -83,7 +83,7 @@ Usa un trípode o apoya tu teléfono contra un objeto estable para que tengas am
 
 ### Resolución y Enfoque
 
-Los teléfonos inteligentes modernos disparan a 12 megapíxeles o superior, lo cual es amplio para fotos de pasaporte. Antes de disparar, asegúrate de que tu teléfono esté en modo de enfoque, toca tu cara en la pantalla, y la mayoría de los teléfonos bloquearán el enfoque allí. Tu imagen final debe ser nítida y clara.
+La mayoría de las cámaras de los teléfonos actuales tienen resolución de sobra para una foto de pasaporte. Antes de disparar, asegúrate de que tu teléfono esté en modo de enfoque, toca tu cara en la pantalla, y la mayoría de los teléfonos bloquearán el enfoque allí. Tu imagen final debe ser nítida y clara.
 
 ## Motivos Comunes de Rechazo y Cómo Evitarlos
 
@@ -133,7 +133,7 @@ Sí, puedes tomar una foto de pasaporte usando un teléfono inteligente. Posici�
 
 ### ¿Qué tamaño debe tener una foto de pasaporte?
 
-La mayoría de los países usan uno de estos dos tamaños impresos: 35 x 45 mm, que cubre el Reino Unido, la UE y buena parte del mundo, o el cuadrado de 2 x 2 pulgadas que usa Estados Unidos. Algunas autoridades fijan su propio tamaño, como el de 50 x 70 mm del Gobierno de Canadá. Las solicitudes digitales tienen mínimos de píxeles independientes. Los requisitos se aplican con rigor y se revisan, así que confirma la especificación exacta con tu propia autoridad de pasaportes antes de imprimir o subir la foto.
+Los tamaños impresos varían según la autoridad. El Reino Unido utiliza 35 x 45 mm y el Gobierno de Canadá, 50 x 70 mm. Otros países fijan sus propias medidas, así que consulta las de tu autoridad de pasaportes. Las solicitudes digitales tienen mínimos de píxeles independientes. Los requisitos se aplican con rigor y se revisan, así que confirma la especificación exacta con tu propia autoridad de pasaportes antes de imprimir o subir la foto.
 
 ### ¿Por qué fue rechazada mi foto de pasaporte?
 

@@ -39,7 +39,7 @@ Ein Verstoß gegen eine auf dem Gerät installierte App sickert nichts von ihren
 
 ### Die Vorlaufzeit der Erinnerung ist die Einstellung, die sich anzupassen lohnt
 
-Dies ist die wertvollste Funktion. Eine Erinnerung 6 Monate im Voraus ist das Minimum – viele Länder verlangen, dass Ihr Reisepass mindestens 6 Monate über Ihren Reisedaten gültig ist, wie in unserem Artikel über die [6-Monats-Reisepass-Regel](https://traveldocumentvault.com/de/blog/passport-expiry-6-month-rule/) erläutert. Für Familien mit Kindern, deren Reisepässe nach 5 Jahren und nicht nach 10 Jahren ablaufen, bietet eine frühestens Erinnerung – sagen Sie 9 Monate im Voraus – mehr komfortable Planungszeit.
+Dies ist die wertvollste Funktion. Eine Erinnerung 6 Monate im Voraus ist das Minimum – viele Länder verlangen, dass Ihr Reisepass mindestens 6 Monate über Ihren Reisedaten gültig ist, wie in unserem Artikel über die [6-Monats-Reisepass-Regel](https://traveldocumentvault.com/de/blog/passport-expiry-6-month-rule/) erläutert. Kinderreisepässe sind oft 5 statt 10 Jahre gültig (ein britischer Kinderreisepass zum Beispiel 5 Jahre). Eine frühere Erinnerung – etwa 9 Monate im Voraus – gibt daher mehr Spielraum für die Planung.
 
 ### Eine einzige App kann die ganze Familie sicher aufnehmen
 
@@ -70,7 +70,7 @@ Bevor Sie herunterladten, fragen Sie, ob die App ein Konto erfordert, Scans auf 
 | Erfordert Internet zum Anzeigen von Dokumenten | Schlägt fehl, wenn Sie es brauchen – an einer Grenze oder im Transit |
 | Keine Datenschutzrichtlinie oder vage Richtlinie | Sie wissen nicht, was mit Ihren Scans passiert |
 | Cloud-Speicher nur ohne Geräteoption | Eine Serversicherungsverletzung setzt alle Benutzerreisepass-Daten frei |
-| Abonnementpreisgestaltung für grundlegende Funktionen | Monatliche Gebühren drücken die Kündigung aus – und verlieren Zugang zu Ihren Dokumenten |
+| Abonnementpreisgestaltung für grundlegende Funktionen | Monatliche Gebühren verleiten zur Kündigung – bei manchen Apps verlieren Sie dadurch den Zugang zu Ihren Dokumenten |
 
 Was dies in der Praxis bedeutet
 
@@ -78,9 +78,9 @@ Sie sind an einem Grenzübergang, Telefon offline, und der Einwanderungsbeamte b
 
 ## Prüfen Sie, was mit Ihren Dokumenten passiert, wenn ein Abonnement ausläuft
 
-Es gibt ein praktisches Argument für Apps mit einmaligem Kauf gegenüber Abonnements, wenn es um Dokumentenspeicherung geht. Wenn Sie vergessen, ein Abonnement zu erneuern – oder sich einfach entschließen, es zu beenden – verlieren Sie Zugang zu den gespeicherten Dokumenten. Dies ist eine riskante Anordnung für etwas, das Sie möglicherweise Jahre später benötigen.
+Es gibt ein praktisches Argument für Apps mit einmaligem Kauf gegenüber Abonnements, wenn es um Dokumentenspeicherung geht. Bei manchen Apps mit Abonnement können Sie den Zugang zu Ihren gespeicherten Dokumenten verlieren, wenn Sie die Verlängerung vergessen oder kündigen. Dies ist eine riskante Anordnung für etwas, das Sie möglicherweise Jahre später benötigen.
 
-Eine App mit einmaligem Kauf bleibt dagegen auf unbestimmte Zeit vollständig funktionsfähig. Sie zahlen einmal und die App funktioniert weiterhin, unabhängig davon, ob der Entwickler sie noch aktiv monetarisiert.
+Bei einer App mit einmaligem Kauf gibt es dagegen keinen Verlängerungstermin, nach dem der Zugriff gesperrt werden kann. Sie zahlen einmal, und Ihre Dokumente bleiben auf Ihrem Gerät und lassen sich wie zuvor öffnen.
 
 ## Wie Travel Document Vault sich diesem Ansatz nähert
 
@@ -124,7 +124,7 @@ Die besten Reisepass-Organizer-Apps sind vollständig offline zu funktionieren. 
 
 ### Wie weit im Voraus sollte eine Reisepass-App an eine Erneuerung erinnern?
 
-Mindestens 6 Monate vor Ablauf, da viele Länder verlangen, dass Ihr Reisepass mindestens 6 Monate über Ihr Abreisedatum hinaus gültig ist. Eine gute App lässt Sie Erinnerungszeitpunkte selbst einstellen. Für Familien mit Kindern, deren Reisepässe nach 5 Jahren ablaufen, bietet das Einstellen von Erinnerungen auf 9 Monate im Voraus mehr komfortable Planungszeit.
+Mindestens 6 Monate vor Ablauf, da viele Länder verlangen, dass Ihr Reisepass mindestens 6 Monate über Ihr Abreisedatum hinaus gültig ist. Eine gute App lässt Sie Erinnerungszeitpunkte selbst einstellen. Für Familien mit Kindern, deren Reisepässe oft nach 5 Jahren ablaufen, bietet das Einstellen von Erinnerungen auf 9 Monate im Voraus mehr komfortable Planungszeit.
 
 ### Welche Dokumente sollte eine gute Reisepass-Organizer-App unterstützen?
 

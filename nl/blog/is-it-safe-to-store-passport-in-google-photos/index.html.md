@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/nl/blog/is-it-safe-to-store-passport-in-
 
 - Een paspoortscan bewaren in Google Foto's betekent dat je identiteitsdocument op Google's servers staat, door hun systemen wordt verwerkt en alleen beschermd wordt door de beveiliging die je Google-account toevallig heeft.
 - Een gecompromitteerd Google-account – via phishing, een hergebruikt wachtwoord of een datalek elders – geeft alles in Google Foto's prijs, je paspoort inbegrepen.
-- Google's voorwaarden staan geautomatiseerd scannen van je foto's toe voor functies en productverbeteringen, en dat geldt ook voor afbeeldingen met paspoortgegevens.
+- Volgens Googles privacybeleid gebruikt het bedrijf geautomatiseerde systemen om je inhoud te analyseren en zijn diensten te leveren en verbeteren. Een paspoortscan wordt net als elke andere foto opgeslagen.
 - Er zijn betere opties: versleutelde wachtwoordmanagers, versleutelde apps op je toestel, of cloudopslag met encryptie aan de clientzijde – geen daarvan dumpt je paspoort in een algemene fotobibliotheek.
 - Voor de meeste mensen is het echte risico een zwakke accountbeveiliging, niet Google zelf: een hergebruikt wachtwoord, een gedeelde login, of iemand die al weet hoe binnen te komen.
 
@@ -55,7 +55,7 @@ Je hebt waarschijnlijk meer apps aan je Google-account gekoppeld dan je denkt, e
 
 **Geautomatiseerde inhoudsanalyse**
 
-Google's privacybeleid bevestigt dat foto's worden verwerkt door geautomatiseerde systemen – gezichtsherkenning, objectdetectie, zoekindexering. Je paspoortscan doorloopt diezelfde systemen voor zoeken en functiedetectie. Geen mens leest je paspoort, en Google doet hier niets stiekems, maar je documentgegevens verlaten wel je toestel om geanalyseerd te worden door infrastructuur van derden.
+Volgens Googles privacybeleid gebruikt het bedrijf geautomatiseerde systemen om je inhoud te analyseren, en Google Foto's maakt gezichtsgroepen van je foto's. Een paspoortscan wordt net als elke andere foto opgeslagen, dus je documentgegevens verlaten je toestel en staan op infrastructuur van derden.
 
 **Datalek bij Google**
 
@@ -71,13 +71,13 @@ Stel dat je Google-wachtwoord twee jaar geleden werd hergebruikt op een site die
 |---|---|---|---|---|
 | Google Foto's | Google-cloudservers | Onderweg + in rust (door Google beheerde sleutels) | Gemiddeld | Acceptabel met sterke 2FA |
 | iCloud-foto's | Apple-cloudservers | Onderweg + in rust (door Apple beheerde sleutels) | Gemiddeld | Acceptabel met sterke 2FA |
-| Versleutelde wachtwoordmanager (1Password, Bitwarden) | Cloud (zero-knowledge) | End-to-end; provider kan inhoud niet lezen | Laag | Goede keuze |
+| Versleutelde wachtwoordmanager | Cloud (end-to-end versleuteld) | End-to-end; bij deze opzet kan de aanbieder de inhoud niet lezen | Laag | Goede keuze |
 | Versleutelde app op toestel (optionele eigen cloudback-up) | Je telefoon; optionele versleutelde back-up naar je eigen cloud (Pro) | Versleuteld op toestel; optionele versleutelde kopie in je eigen cloud (Pro) | Laagst | Beste voor gevoelige documenten |
 | Camerarol / onversleutelde map | Je toestel | Alleen toestelversleuteling | Hoger | Niet aanbevolen |
 
 ### iCloud-foto's versus Google Foto's: Is Apple veiliger?
 
-iOS-gebruikers gaan er vaak van uit dat iCloud aanmerkelijk veiliger is dan Google Foto's voor het bewaren van paspoortscans. Op structureel niveau lijken ze sterk op elkaar. Beide bewaren je foto's op cloudservers die door de aanbieder worden beheerd, beide versleutelen gegevens onderweg en in rust met hun eigen beheerde sleutels, en beide verwerken je afbeeldingen via geautomatiseerde systemen voor functies zoals zoeken en gezichtsherkenning.
+iOS-gebruikers gaan er vaak van uit dat iCloud aanmerkelijk veiliger is dan Google Foto's voor het bewaren van paspoortscans. Op structureel niveau lijken ze sterk op elkaar. Beide bewaren je foto's op cloudservers die door de aanbieder worden beheerd, beide versleutelen gegevens onderweg en in rust met hun eigen beheerde sleutels. Bij beide heeft de aanbieder standaard de sleutels in handen.
 
 Apple's Geavanceerde gegevensbescherming (beschikbaar vanaf iOS 16.2) legt de lat hoger – eenmaal ingeschakeld breidt het end-to-end-versleuteling uit naar iCloud-foto's, waardoor zelfs Apple je inhoud niet kan lezen. Toch staat het niet standaard aan, en de meeste gebruikers weten niet dat het bestaat.
 
@@ -93,7 +93,7 @@ Twee dingen zijn goed om eerst uit elkaar te houden: een kopie bewaren voor jeze
 
 **Versleutelde wachtwoordmanagers**
 
-1Password en Bitwarden laten je allebei documentscans als bijlage bewaren. Ze gebruiken zero-knowledge-encryptie – de provider kan je inhoud niet lezen, ook al zou hij het willen. Je documenten worden op je toestel versleuteld voordat er iets naar hun servers gaat. Dat is een echte stap vooruit vergeleken met een algemene cloud-fotobibliotheek.
+Bij sommige versleutelde wachtwoordmanagers kun je documentscans als bijlage bewaren. Controleer de documentatie van de aanbieder: als bijlagen op je toestel worden versleuteld voordat ze worden geüpload, kan de aanbieder ze niet lezen. Dat is een echte stap vooruit vergeleken met een algemene cloud-fotobibliotheek.
 
 **Versleutelde apps op je toestel**
 
@@ -101,7 +101,7 @@ Apps die specifiek hiervoor gebouwd zijn – zoals [Travel Document Vault](https
 
 **Versleutelde cloudopslag met sleutels aan de clientzijde**
 
-Tresorit en Proton Drive bieden encryptie aan de clientzijde voor cloudopslag, zodat de provider je bestanden niet meer kan lezen dan een wachtwoordmanager dat kan. Je krijgt het gemak van de cloud met aanzienlijk sterkere beveiliging voor je paspoortfoto dan Google Foto's.
+Een end-to-end versleutelde clouddrive is een derde optie. Zulke diensten zeggen dat je bestanden worden versleuteld met sleutels op je apparaten; controleer de documentatie van de aanbieder voordat je daarop vertrouwt. Bij een goede uitvoering krijg je het gemak van de cloud met sterkere bescherming dan een algemene fotobibliotheek.
 
 ## Blijf je bij Google Foto's, dan doet tweestapsverificatie het meeste werk
 
@@ -109,7 +109,7 @@ Veel mensen blijven Google Foto's hiervoor gebruiken – het gemak is reëel. Is
 
 - **Schakel tweestapsverificatie in.** Dit is verreweg het belangrijkste wat je kunt doen. Gebruik een authenticator-app, geen sms – sms-verificatie is beter dan niets, maar makkelijker te onderscheppen.
 - **Gebruik een sterk, uniek wachtwoord voor je Google-account.** Wachtwoorden hergebruiken over meerdere diensten is hoe de meeste accounts daadwerkelijk worden overgenomen.
-- **Controleer de machtigingen van apps van derden.** Ga naar myaccount.google.com → Beveiliging → Apps van derden met accounttoegang, en verwijder alles wat daar niet hoeft te staan.
+- **Controleer de machtigingen van apps van derden.** Open de beveiligingsinstellingen van je Google-account, bekijk de gekoppelde apps en diensten en verwijder alles wat daar niet hoeft te staan.
 - **Controleer je actieve toestellen en sessies.** Verwijder alles wat je niet herkent.
 - **Maak een privéalbum voor gevoelige documenten** in plaats van ze los in je hoofdfotostroom te laten staan. Het stopt geen datalek, maar het vermindert onbedoelde blootstelling wanneer iemand meekijkt over je schouder.
 
@@ -123,15 +123,15 @@ Open vandaag nog de beveiligingsinstellingen van je Google-account, zet tweestap
 
 ### Is het veilig om een paspoortfoto in Google Foto's te bewaren?
 
-Het is handig, maar Google Foto's is niet gebouwd voor gevoelige identiteitsdocumenten. Je scan staat op Google's servers, wordt verwerkt door hun geautomatiseerde systemen, en is alleen beschermd door de beveiliging die je Google-account toevallig heeft. Raakt je account gecompromitteerd (via phishing, een hergebruikt wachtwoord, of een datalek elders), dan geldt dat ook voor je paspoortscan. Voor een document zo gevoelig als dit is een speciale versleutelde opslagoptie een verstandigere keuze. Gebruik je toch Google Foto's, schakel dan tweestapsverificatie in en gebruik een uniek wachtwoord voor je Google-account.
+Het is handig, maar Google Foto's is niet gebouwd voor gevoelige identiteitsdocumenten. Je scan staat op Google's servers, valt onder Googles eigen privacybeleid, en is alleen beschermd door de beveiliging die je Google-account toevallig heeft. Raakt je account gecompromitteerd (via phishing, een hergebruikt wachtwoord, of een datalek elders), dan geldt dat ook voor je paspoortscan. Voor een document zo gevoelig als dit is een speciale versleutelde opslagoptie een verstandigere keuze. Gebruik je toch Google Foto's, schakel dan tweestapsverificatie in en gebruik een uniek wachtwoord voor je Google-account.
 
 ### Scant Google de inhoud van foto's die in Google Foto's worden bewaard?
 
-Ja. Geautomatiseerde systemen verwerken je foto's voor zaken als gezichtsherkenning, objectdetectie en zoekindexering. Google's privacybeleid staat ook toe dat inhoud wordt gebruikt om hun diensten te verbeteren. Geen mens leest je paspoort – maar je documentgegevens worden verwerkt door Google's infrastructuur, ze liggen niet gewoon inert op een server.
+Ja, dat kan. Volgens Googles privacybeleid gebruikt het bedrijf geautomatiseerde systemen om je inhoud te analyseren, en Google Foto's maakt gezichtsgroepen van je foto's. Het beleid staat ook toe dat inhoud wordt gebruikt om de diensten te verbeteren. Een paspoortscan wordt net als elke andere foto opgeslagen, dus je documentgegevens staan op Googles infrastructuur in plaats van op je toestel te blijven.
 
 ### Wat is de veiligste manier om een digitale kopie van een paspoort te bewaren?
 
-Versleutelde opslag op je toestel is je veiligste optie – apps die je scans standaard met sterke versleuteling op je telefoon bewaren. Kopieën kunnen het toestel verlaten via delen, exporteren of een optionele versleutelde back-up naar je eigen iCloud of Google Drive (Pro). Wil je ook cloudtoegang, dan is een zero-knowledge versleutelde wachtwoordmanager zoals 1Password of Bitwarden een solide middenweg.
+Versleutelde opslag op je toestel is je veiligste optie – apps die je scans standaard met sterke versleuteling op je telefoon bewaren. Kopieën kunnen het toestel verlaten via delen, exporteren of een optionele versleutelde back-up naar je eigen iCloud of Google Drive (Pro). Wil je ook cloudtoegang, dan is een end-to-end versleutelde wachtwoordmanager die bestandsbijlagen ondersteunt een redelijke middenweg.
 
 ### Kan iemand mijn identiteit stelen uit een paspoortscan?
 
@@ -139,7 +139,7 @@ Ja, realistisch gezien wel. Je naam, geboortedatum, nationaliteit, paspoortnumme
 
 ### Is iCloud veiliger dan Google Foto's voor het bewaren van paspoortscans?
 
-Op structureel niveau lijken ze sterk op elkaar. Beide bewaren foto's op cloudservers die door de aanbieder worden beheerd, en beide verwerken afbeeldingen via geautomatiseerde systemen. Apple's Geavanceerde gegevensbescherming (iOS 16.2+) breidt end-to-end-versleuteling uit naar iCloud-foto's wanneer ingeschakeld, wat de lat aanzienlijk hoger legt – maar het staat standaard uit en de meeste gebruikers hebben het niet ingeschakeld. De grotere factor voor beide platforms is je accountwachtwoord en of tweestapsverificatie actief is. Specifiek voor paspoortopslag blijft een speciale versleutelde app op je toestel de sterkere optie op beide platforms.
+Op structureel niveau lijken ze sterk op elkaar. Beide bewaren foto's op cloudservers die door de aanbieder worden beheerd, en standaard heeft de aanbieder de sleutels in handen. Apple's Geavanceerde gegevensbescherming (iOS 16.2+) breidt end-to-end-versleuteling uit naar iCloud-foto's wanneer ingeschakeld, wat de lat aanzienlijk hoger legt – maar het is optioneel en staat standaard uit. De grotere factor voor beide platforms is je accountwachtwoord en of tweestapsverificatie actief is. Specifiek voor paspoortopslag blijft een speciale versleutelde app op je toestel de sterkere optie op beide platforms.
 
 ## Gerelateerde artikelen
 

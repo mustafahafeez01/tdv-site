@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/de/blog/international-driving-permit-val
 - Länder haben unterschiedliche Abkommen ratifiziert, daher kann **ein in einem Land akzeptierter Führerschein im nächsten abgelehnt werden**.
 - Reisepass, Führerschein und Internationaler Führerschein laufen nach **drei getrennten Uhren**, die fast nie übereinstimmen.
 
-Ein Internationaler Führerschein ist eine Übersetzung des Führerscheins und kein eigenständiger Führerschein, und er läuft nach seinem eigenen Zeitplan. Die meisten gelten zwölf Monate ab Ausstellungsdatum, sodass der vor drei Sommern für eine Reise gekaufte mit ziemlicher Sicherheit abgelaufen ist. Mietwagenschalter in mehreren Ländern verlangen ihn, bevor sie ein Fahrzeug herausgeben.
+Ein Internationaler Führerschein ist eine Übersetzung des Führerscheins und kein eigenständiger Führerschein, und er läuft nach seinem eigenen Zeitplan. Viele gelten zwölf Monate ab Ausstellungsdatum, keiner länger als drei Jahre, sodass der vor drei Sommern für eine Reise gekaufte mit ziemlicher Sicherheit abgelaufen ist. Mietwagenschalter in mehreren Ländern verlangen ihn, bevor sie ein Fahrzeug herausgeben.
 
 Ein Internationaler Führerschein trägt sein eigenes Ablaufdatum, und dieses Datum verhält sich unterschiedlich, je nachdem, nach welchem internationalen Abkommen Ihr Führerschein ausgestellt wurde. Die meisten Fahrer erfahren erst, dass es zwei Arten gibt, wenn eine davon abgelehnt wird.
 
@@ -30,7 +30,7 @@ Das bringt Menschen häufiger in Schwierigkeiten als die Ablaufdaten selbst. Der
 
 ## Zwei Abkommen entscheiden, wie lange er gilt und wo er funktioniert
 
-Hinter Internationalen Führerscheinen stehen drei internationale Abkommen, und Länder sind einem davon oder mehreren beigetreten. Zwei davon leisten fast die gesamte Arbeit: das Genfer Abkommen von 1949 und das Wiener Übereinkommen von 1968. Ein älterer Führerschein nach dem Pariser Abkommen von 1926 wird noch für eine kleine Zahl von Zielen ausgestellt und gilt, wie der Genfer Führerschein, ein Jahr.
+Hinter Internationalen Führerscheinen stehen drei internationale Abkommen, und Länder sind einem davon oder mehreren beigetreten. Zwei davon leisten fast die gesamte Arbeit: das Genfer Abkommen von 1949 und das Wiener Übereinkommen von 1968. Ein älterer Führerschein nach dem Pariser Abkommen von 1926 existiert ebenfalls, und einige Reiseziele führen ihn noch auf. Prüfen Sie das aufgedruckte Ablaufdatum.
 
 Ein nach dem Genfer Abkommen von 1949 ausgestellter Führerschein ist ein Jahr gültig. Ein nach dem Wiener Übereinkommen von 1968 ausgestellter Führerschein kann bis zu drei Jahre laufen.
 
@@ -40,8 +40,8 @@ Dieser Unterschied zählt doppelt. Er legt fest, wie lange Ihr Führerschein gil
 
 | Art des Führerscheins | Gültigkeitsdauer | Was sie begrenzt |
 |---|---|---|
-| **Pariser Abkommen von 1926** | Ein Jahr | Das Ausstellungsdatum. Heute selten benötigt |
-| **Genfer Abkommen von 1949** | Ein Jahr | Das Ausstellungsdatum |
+| **Pariser Abkommen von 1926** | Siehe aufgedrucktes Ablaufdatum | Das Ausstellungsdatum. Heute selten benötigt |
+| **Genfer Abkommen von 1949** | Siehe aufgedrucktes Ablaufdatum | Das Ausstellungsdatum |
 | **Wiener Übereinkommen von 1968** | Bis zu drei Jahre | Ihr nationaler Führerschein, falls dieser früher abläuft |
 
 ## Der Dreijahresführerschein, der oft keiner ist
@@ -50,7 +50,7 @@ Diese drei Jahre stehen unter einer Bedingung, die man leicht überliest. Ein Wi
 
 Angenommen, Ihr Führerschein hat noch 14 Monate Gültigkeit, und Sie erhalten einen Dreijahres-Führerschein. Nützlich ist der Führerschein dann für 14 Monate. Das aufgedruckte Datum sticht den dahinterstehenden Führerschein nicht aus.
 
-Auch eine spätere Verlängerung des Führerscheins rettet den Internationalen Führerschein nicht. Er bleibt an den Führerschein gebunden, gegen den er ausgestellt wurde, ein neuer Führerschein bedeutet also in der Regel auch einen neuen Internationalen Führerschein. Steht die Erneuerung Ihres Führerscheins noch vor der Reise an, würden wir zuerst ihn erneuern und den Internationalen Führerschein danach beantragen, damit dieser an den neuen Führerschein gebunden ist.
+Auch eine spätere Verlängerung des Führerscheins rettet den Internationalen Führerschein nicht. Seine Gültigkeit ist an den Führerschein gebunden, für den er ausgestellt wurde, ein neuer Führerschein bedeutet also in der Regel auch einen neuen Internationalen Führerschein. Steht die Erneuerung Ihres Führerscheins noch vor der Reise an, würden wir zuerst ihn erneuern und den Internationalen Führerschein danach beantragen, damit dieser an den neuen Führerschein gebunden ist.
 
 ## Ihr Internationaler Führerschein ist das Datum, auf das niemand achtet
 
@@ -90,9 +90,9 @@ Am stärksten trifft das kurzfristig gebuchte Reisen. Der Führerschein ist selt
 
 ## Einen „internationalen Führerschein" im Sinne einer eigenen Fahrerlaubnis gibt es nicht
 
-Wer nach einem Internationalen Führerschein sucht, findet Seiten, die etwas namens „internationale Fahrerlaubnis" verkaufen – oft für deutlich mehr, als der offizielle Führerschein kostet, manchmal mit dem Versprechen von Sofortlieferung oder zehn Jahren Gültigkeit.
+Wer nach einem Internationalen Führerschein sucht, findet Seiten, die etwas namens „internationale Fahrerlaubnis" verkaufen – manchmal für mehr, als der offizielle Führerschein kostet, manchmal mit dem Versprechen von Sofortlieferung oder zehn Jahren Gültigkeit.
 
-Eine solche Fahrerlaubnis gibt es nicht. Rechtsgültig sind ausschließlich die nach den Abkommen von 1926, 1949 und 1968 ausgestellten Führerscheine, über den von Ihrem eigenen Land vorgesehenen Weg. Drei Jahre bei einem Wiener Führerschein sind das Längste, was irgendeiner davon läuft – wirbt etwas mit 10 oder 20 Jahren, beschreibt es ein Dokument, das kein Grenzbeamter akzeptieren muss.
+Eine solche Fahrerlaubnis gibt es nicht. Die Abkommen beschreiben die nach den Übereinkommen von 1926, 1949 und 1968 ausgestellten Führerscheine, die Sie über die von Ihrem Land vorgesehene Stelle erhalten. Das Wiener Übereinkommen von 1968 erlaubt höchstens drei Jahre Gültigkeit – Angebote mit 10 oder 20 Jahren liegen außerhalb dieses Rahmens.
 
 Wenn Sie eine umfassendere Liste vor der Reise erstellen, statt nur die Fahrfrage zu klären, geht unsere [internationale Reisedokument-Checkliste](https://traveldocumentvault.com/de/blog/travel-document-checklist/) durch, was Sie vor dem Flug zusammentragen sollten, und [die Dokumente, die Menschen vergessen](https://traveldocumentvault.com/de/blog/what-documents-to-carry-when-travelling-internationally/) zeigt, wo jedes Dokument am besten aufbewahrt wird, sobald Sie unterwegs sind.
 
@@ -122,7 +122,7 @@ Ja, wenn es sich um einen Führerschein nach dem Wiener Übereinkommen von 1968 
 
 ### Warum gibt es mehr als eine Art von Internationalem Führerschein?
 
-Sie stammen aus unterschiedlichen internationalen Abkommen. Die meisten Reisen sind durch das Genfer Abkommen von 1949 und das Wiener Übereinkommen von 1968 abgedeckt, und ein älterer Führerschein nach dem Pariser Abkommen von 1926 wird noch für eine kleine Zahl von Zielen ausgestellt. Länder haben unterschiedliche Abkommen ratifiziert, weshalb ein in einem Land akzeptierter Führerschein in einem anderen abgelehnt werden kann.
+Sie stammen aus unterschiedlichen internationalen Abkommen. Die meisten Reisen sind durch das Genfer Abkommen von 1949 und das Wiener Übereinkommen von 1968 abgedeckt, und ein älterer Führerschein nach dem Pariser Abkommen von 1926 existiert ebenfalls und wird von einigen Reisezielen noch aufgeführt. Länder haben unterschiedliche Abkommen ratifiziert, weshalb ein in einem Land akzeptierter Führerschein in einem anderen abgelehnt werden kann.
 
 ## Verwandte Artikel
 

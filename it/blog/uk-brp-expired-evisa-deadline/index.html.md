@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/it/blog/uk-brp-expired-evisa-deadline/
 - Ogni figlio ha bisogno del **proprio account**, che un genitore può gestire con il proprio telefono e la propria email.
 - Per viaggiare, il passaporto con cui voli deve essere nel tuo account UKVI, con dati che corrispondono alla tua prenotazione.
 
-La maggior parte delle persone con un Biometric Residence Permit (BRP) scaduto deve fare solo una cosa: creare un account UK Visas and Immigration (UKVI), usando la carta per dimostrare chi sono. È un'unica operazione, e la carta scaduta funziona ancora per questo, almeno per un po'. Il tuo status di immigrazione non è cambiato. Quello che è cambiato è dove si trova.
+Se hai un Biometric Residence Permit (BRP) scaduto e hai ancora il permesso di soggiorno, GOV.UK ti chiede di creare un account UK Visas and Immigration (UKVI), usando la carta per dimostrare chi sei. È un'unica operazione, e la carta scaduta funziona ancora per questo, almeno per un po'. Il tuo status di immigrazione non è cambiato. Quello che è cambiato è dove si trova.
 
 ![Diagramma di per quanto tempo un BRP scaduto funziona ancora: per 24 mesi dopo la data di scadenza stampata oppure fino al 31 dicembre 2026, a seconda di cosa avviene prima. In quel periodo può ancora essere usato per accedere e ottenere un codice di condivisione, creare un account UKVI, o richiedere un'estensione del permesso di soggiorno](https://traveldocumentvault.com/blog/uk-brp-expired-evisa-deadline/brp-window-it.jpg) Due date, e la prima è quella che conta.
 
@@ -58,7 +58,7 @@ Quando tuo figlio compie 18 anni, i dati dell'account dovrebbero passare al suo 
 
 ## Per viaggiare, il passaporto con cui voli deve essere nel tuo account UKVI
 
-GOV.UK è chiaro su questo punto: devi viaggiare con un passaporto o documento di viaggio valido che hai aggiunto al tuo account UKVI. Il tuo eVisa viene controllato quando lasci il Regno Unito, quando rientri (anche agli eGates) e dalla compagnia aerea o da un altro vettore al check-in. Questi controlli consultano il tuo eVisa tramite il passaporto nel tuo account. Se i dati nel tuo account non corrispondono esattamente alle informazioni sul passeggero che hai fornito al vettore, questo potrebbe non farti viaggiare, e potresti anche essere fermato alla frontiera del Regno Unito.
+GOV.UK è chiaro su questo punto: devi viaggiare con un passaporto o documento di viaggio valido che hai aggiunto al tuo account UKVI. Il tuo eVisa viene controllato quando lasci ed entri nel Regno Unito, da un agente di frontiera o agli eGates, e quando fai il check-in con il vettore per rientrare nel Regno Unito. Questi controlli consultano il tuo eVisa tramite il passaporto nel tuo account. Se i dati nel tuo account non corrispondono esattamente alle informazioni sul passeggero che hai fornito al vettore, questo potrebbe non farti viaggiare, e potresti anche essere fermato alla frontiera del Regno Unito.
 
 Prima di un viaggio, accedi, conferma che il passaporto nell'account sia quello con cui viaggerai, e ottieni un codice di condivisione. Un codice dura 90 giorni e può essere usato più di una volta, e una compagnia aerea o un agente di frontiera potrebbe chiedere di vederlo. Noi lo otterremmo prima di prenotare, non in fila all'aeroporto.
 
@@ -88,7 +88,7 @@ Ogni figlio ha bisogno del proprio account UKVI per accedere al proprio eVisa, s
 
 ### Cosa mi serve per viaggiare con un eVisa?
 
-Un passaporto valido che hai aggiunto al tuo account UKVI, con dati che corrispondono esattamente a quelli che fornisci alla compagnia aerea. Il tuo eVisa viene controllato quando lasci il Regno Unito, quando rientri, anche agli eGates, e al check-in del vettore. Un codice di condivisione dura 90 giorni e può essere usato più di una volta.
+Un passaporto valido che hai aggiunto al tuo account UKVI, con dati che corrispondono esattamente a quelli che fornisci alla compagnia aerea. Il tuo eVisa viene controllato quando lasci ed entri nel Regno Unito, da un agente di frontiera o agli eGates, e quando fai il check-in con il vettore per rientrare nel Regno Unito. Un codice di condivisione dura 90 giorni e può essere usato più di una volta.
 
 ## Articoli correlati
 

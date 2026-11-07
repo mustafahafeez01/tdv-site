@@ -50,19 +50,19 @@ Kontrollerne dækker også forskellige ting. Et flyselskab, der accepterer din v
 
 ## Hvis du bevidst rejser med en enkeltbillet
 
-En enkeltbillet er ikke i sig selv et problem. Reglerne om videre rejse er generelt skrevet for besøgende. Flytter du til udlandet på et visum, der giver dig ret til at bo eller arbejde der, klarer visummet i de fleste tilfælde den opgave, en videre billet ellers skulle klare. Hav det ved hånden ved check-in, sammen med eventuelle breve, der fulgte med det.
+En enkeltbillet er ikke i sig selv et problem. Reglerne om videre rejse er generelt skrevet for besøgende. Flytter du til udlandet på et visum, der giver dig ret til at bo eller arbejde der, kan visummet dække spørgsmålet, så tjek rejsemålets regler. Hav det ved hånden ved check-in, sammen med eventuelle breve, der fulgte med det.
 
 Er du på besøg med en åben rejseplan, er de ærlige løsninger også de enkleste. Book den videre rejse, du faktisk forventer at tage. Er dine datoer ikke fastlagt, holder en billet, hvor du kan ændre datoen, en reel plan fleksibel uden at gøre den til fiktion.
 
-Det, vi ville holde os fra, er en billet, du aldrig har tænkt dig at bruge, købt kun for at vise ved skranken. At fremlægge den for en grænsebetjent som din plan kan svare til at give et forkert billede af dine hensigter, hvilket er et langt større problem end en manglende booking.
+Det, vi ville holde os fra, er en billet, du aldrig har tænkt dig at bruge, købt kun for at vise ved skranken. At fremlægge den for en grænsebetjent som din plan kan blive opfattet som et forkert billede af dine hensigter, hvilket ville være et langt større problem end en manglende booking.
 
 ## Hvis du bliver spurgt og ikke kan fremvise det
 
 Spørger en medarbejder ved skranken, og du ikke har noget at vise, så husk, at de arbejder efter rejsemålets indrejseregler. Det mest nyttige svar er som regel at give dem noget, som disse regler anerkender.
 
-I praksis betyder det ofte, at man booker den videre rejse på stedet, på telefonen eller ved flyselskabets skranke. Det kan koste mere med kort varsel, hvilket er hovedgrunden til at ordne det aftenen før. Har et rejsebureau booket din videre rejse, kan deres skriftlige bekræftelse hjælpe, hvor rejsemålet accepterer den.
+I praksis betyder det ofte, at man booker den videre rejse på stedet, på telefonen eller ved flyselskabets skranke. Det kan koste mere med kort varsel, hvilket er hovedgrunden til at ordne det aftenen før. Har et rejsebureau booket din videre rejse, så tjek rejsemålets officielle vejledning for at se, om bureauets bekræftelse accepteres.
 
-Beslutningen ved skranken ligger hos flyselskabet. Kan du ikke løse det der, skal du ombooke, når du har det, rejsemålet beder om.
+Beslutningen ved skranken ligger som regel hos flyselskabet. Kan du ikke løse det der, skal du ombooke, når du har det, rejsemålet beder om.
 
 ## Hold bookingen tilgængelig, når du får brug for den
 
@@ -74,7 +74,7 @@ Opbevar en offline kopi af bekræftelsen: en PDF, et skærmbillede med bookingre
 
 ### Hvilket bevis for videre rejse accepterer et flyselskab egentlig?
 
-Oftest en bekræftet billet ud af dit rejsemål, enten hjem eller til et tredjeland, du må indrejse i. Nogle rejsemål accepterer også anden dokumentation, f.eks. skriftlig bekræftelse fra et rejsebureau på, at den videre rejse er booket og betalt. Flyselskabet følger rejsemålets regler, så tjek dem for din rejse.
+Oftest en bekræftet billet ud af dit rejsemål, enten hjem eller til et tredjeland, du må indrejse i. Nogle rejsemål accepterer også anden dokumentation, så tjek rejsemålets officielle vejledning. Flyselskabet følger rejsemålets regler, så tjek dem for din rejse.
 
 ### Kan jeg bruge en hotelreservation som bevis for videre rejse?
 
@@ -82,11 +82,11 @@ En hotelbooking holder normalt ikke alene. Den viser, hvor du skal bo, hvilket e
 
 ### Hvad hvis jeg ikke har bevis for videre rejse?
 
-Bliver du spurgt ved check-in og har intet at vise, er den gængse løsning at booke den videre rejse på stedet. Det kan koste mere med kort varsel. Beslutningen om at lade dig boarde ligger hos flyselskabet, så det er værd at ordne, før du når frem til lufthavnen.
+Bliver du spurgt ved check-in og har intet at vise, er den gængse løsning at booke den videre rejse på stedet. Det kan koste mere med kort varsel. Beslutningen om at lade dig boarde ligger som regel hos flyselskabet, så det er værd at ordne, før du når frem til lufthavnen.
 
 ### Er en enkeltbillet et problem?
 
-En enkeltbillet er ikke i sig selv et problem, for reglerne om videre rejse er generelt rettet mod besøgende. Flytter du på et visum, der giver dig ret til at bo eller arbejde i landet, dækker visummet som regel spørgsmålet. Er du på besøg, er en booket videre rejse, du faktisk har tænkt dig at tage, det enkleste svar.
+En enkeltbillet er ikke i sig selv et problem, for reglerne om videre rejse er generelt rettet mod besøgende. Flytter du på et visum, der giver dig ret til at bo eller arbejde i landet, kan visummet dække spørgsmålet, så tjek rejsemålets regler. Er du på besøg, er en booket videre rejse, du faktisk har tænkt dig at tage, det enkleste svar.
 
 ### Skal jeg have bevis for videre rejse til grænsen?
 

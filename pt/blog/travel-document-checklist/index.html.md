@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/pt/blog/travel-document-checklist/
 ## Pontos-Chave
 
 - A lista de verificação de documentos de viagem mais útil é organizada por **quando precisa agir** — não por tipo de documento. Organizar por etapa significa que detecta problemas enquanto ainda há tempo para os corrigir.
-- Os passaportes precisam ser verificados no momento da reserva, não na noite anterior. Um passaporte que expira em sete meses pode resultar em ser impedido de embarcar em destinos populares.
+- Os passaportes precisam ser verificados no momento da reserva, não na noite anterior. Um passaporte com menos de seis meses de validade pode levar à recusa de embarque para alguns destinos, por isso confirme o requisito exato do seu quando reservar.
 - Viagens familiares adicionam uma camada separada: cada criança precisa de ter os seus documentos verificados individualmente e uma carta de consentimento dos progenitores pode ser necessária se um dos progenitores não estiver a viajar.
 - Viajantes de negócios frequentemente transportam múltiplos passaportes e vistos de trabalho — estes precisam de rastreamento próprio, separado de documentos pessoais.
 - Uma cópia de segurança digital de cada documento (encriptada, não na sua biblioteca de fotos) pode conseguir levá-lo para casa mais rapidamente se algo corre mal no estrangeiro.
@@ -26,7 +26,7 @@ O maior erro que os viajantes cometem é tratar o momento da reserva como admini
 
 **Verifique os seus passaportes antes de pagar**
 
-Antes de confirmar qualquer reserva, verifique o passaporte de cada viajante contra três critérios: validade (cumpre os requisitos do destino — muitos países exigem seis meses além da sua data de partida, não apenas a sua data de chegada, como explicado no nosso [guia da regra dos 6 meses do passaporte](https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/)), correspondência de nomes (o nome no passaporte deve corresponder exactamente ao nome da reserva) e páginas em branco (alguns países exigem pelo menos duas páginas de visto em branco para carimbos de entrada).
+Antes de confirmar qualquer reserva, verifique o passaporte de cada viajante contra três critérios: validade (cumpre os requisitos do destino — muitos países exigem seis meses de validade no dia de chegada, e alguns contam a partir da saída, por isso confirme o seu destino, como explicado no nosso [guia da regra dos 6 meses do passaporte](https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/)), correspondência de nomes (o nome no passaporte deve corresponder exactamente ao nome da reserva) e páginas em branco (alguns países exigem pelo menos duas páginas de visto em branco para carimbos de entrada).
 
 **Verifique os seus requisitos de visto**
 
@@ -40,13 +40,13 @@ Reserve o seguro de viagem quando reserva voos, não uma semana antes da partida
 
 ## Três Meses Antes: Se a Renovação ou um Visto Estiver Próximo, Comece Já
 
-Neste ponto ainda tem tempo para corrigir as coisas. Os tempos de renovação mudam, e cada autoridade publica a sua própria cifra atual: o Departamento de Estado dos EUA, o HM Passport Office e o Australian Passport Office. Sempre verifique o site oficial para os tempos actuais antes de candidatar-se.
+Neste ponto ainda tem tempo para corrigir as coisas. Os tempos de renovação mudam, e a autoridade de passaportes do seu país publica o prazo atual. Sempre verifique o site oficial para os tempos actuais antes de candidatar-se.
 
-Qualquer passaporte que expire nos próximos 12 meses: inicie o processo de renovação agora. Os passaportes de crianças expiram mais rapidamente — 5 anos na maioria dos países versus 10 para adultos — e os progenitores frequentemente perdem a janela. Para candidatos da Nova Zelândia, verifique o New Zealand Passport Office para cronogramas actuais; a procura aumenta na fase de aproximação ao verão.
+Qualquer passaporte que expire nos próximos 12 meses: inicie o processo de renovação agora. Os passaportes de crianças expiram mais rapidamente — 5 anos no Reino Unido, face a 10 para adultos, e vários outros países seguem o mesmo modelo — e os progenitores frequentemente perdem a janela. Para candidatos da Nova Zelândia, verifique o New Zealand Passport Office para os prazos actuais.
 
 Submeta qualquer candidatura de visto com uma janela de processamento de quatro ou mais semanas. Prepare documentos de apoio: extractos bancários, confirmações de alojamento, prova de viagem contínua. Reserve uma consulta de biometria com antecedência se o visto o exigir.
 
-Para famílias: se uma criança está a viajar com apenas um progenitor ou outro adulto, prepare uma carta de consentimento de viagem de criança agora. Incluir o nome completo e data de nascimento da criança, detalhes de contacto de ambos os progenitores, datas de viagem, destinos e assinatura do progenitor ausente. Uma cópia notariada é mais convincente na imigração e vale o passo extra.
+Para famílias: se uma criança está a viajar com apenas um progenitor ou outro adulto, prepare uma carta de consentimento de viagem de criança agora. Incluir o nome completo e data de nascimento da criança, detalhes de contacto de ambos os progenitores, datas de viagem, destinos e assinatura do progenitor ausente. Alguns destinos também pedem que a carta tenha assinatura reconhecida, por isso confirme as regras de entrada.
 
 ## Um Mês Antes: Confirmar e Consolidar
 
@@ -105,8 +105,8 @@ Diferentes viagens precisam de diferentes conjuntos de documentos, como mostra a
 | Visto (se necessário) | | cada membro | corporativo | Negócios: confirme que o visto está no passaporte correcto |
 | Seguro de viagem | | todos cobertos | verifique se o empregador cobre | Confirme cobertura antes de cada viagem, não apenas na compra |
 | Confirmações de reserva | | | | Cópia offline (não confie no acesso a email nas fronteiras) |
-| Carta de consentimento de criança | N/A | se aplicável | N/A | Necessária em muitos países se um progenitor está ausente |
-| Certidões de nascimento | N/A | se necessário | N/A | Alguns países exigem para crianças menores de 18 |
+| Carta de consentimento de criança | N/A | se aplicável | N/A | Pedida em alguns países se um progenitor está ausente |
+| Certidões de nascimento | N/A | se necessário | N/A | Alguns países pedem para crianças menores de 18 anos |
 | Carta de autorização de trabalho | N/A | N/A | se necessário | Alguns destinos exigem cartas de empregador para viajantes de negócios |
 
 Se já tem uma viagem reservada, a única coisa que vale a pena fazer hoje é pegar em todos os passaportes envolvidos e confirmar a data de validade face ao requisito do destino, e não apenas face às datas da viagem.
@@ -129,7 +129,7 @@ Sim. A expiração do passaporte de cada pessoa, os requisitos de visto e a cobe
 
 ### O que é uma carta de consentimento de viagem de criança e preciso de uma?
 
-Uma carta de consentimento de viagem de criança é um documento assinado pelo progenitor ausente que autoriza a criança a viajar. Países incluindo Canadá, África do Sul, México e muitos outros rotineiramente solicitam quando uma criança viaja com apenas um progenitor. Sem uma corre o risco de atrasos ou entrada negada. A carta deve incluir os detalhes da criança, informações de contacto de ambos os progenitores, datas de viagem, destinos e assinatura do progenitor ausente.
+Uma carta de consentimento de viagem de criança é um documento assinado pelo progenitor ausente que autoriza a criança a viajar. Alguns países, incluindo a África do Sul, definem requisitos adicionais para crianças que viajam com apenas um progenitor, e as autoridades canadianas recomendam uma carta de consentimento assinada. Sem uma, poderá enfrentar perguntas adicionais ou atrasos. A carta deve incluir os detalhes da criança, informações de contacto de ambos os progenitores, datas de viagem, destinos e assinatura do progenitor ausente.
 
 ### Que documentos devo manter acessíveis no aeroporto e não em bagagem de porão?
 

@@ -24,7 +24,7 @@ Selvom de konkrete regler varierer fra pasmyndighed til pasmyndighed, deler de f
 
 ### Baggrund og komposition
 
-Du skal bruge en ensfarvet, lys baggrund, og den nøjagtige nuance afhænger af din myndighed: GOV.UK beder om ensfarvet creme eller lysegrå, mens den canadiske regering beder om ensfarvet hvid eller lys. Ingen mønstre, skygger, slørede baggrunde eller stærke farver. Begrundelsen er enkel: myndighederne har brug for et rent, ryddeligt billede af dit ansigt til at sammenligne med fremtidige dokumenter. De fleste bruger et lyst lagen, en plakatplade eller maler ligefrem et lille stykke væg. Det vigtige er at holde det lyst og ensartet hele vejen igennem.
+Du skal bruge en ensfarvet, lys baggrund, og den nøjagtige nuance afhænger af din myndighed: GOV.UK beder om ensfarvet creme eller lysegrå, mens den canadiske regering beder om ensfarvet hvid eller lys. Ingen mønstre, skygger, slørede baggrunde eller stærke farver. Begrundelsen er enkel: myndighederne har brug for et rent, ryddeligt billede af dit ansigt til at sammenligne med fremtidige dokumenter. Brug et ensfarvet lagen eller et stykke karton i den nuance, din myndighed kræver (creme eller lysegrå i Storbritannien), eller mal et lille stykke væg. Det vigtige er at holde det lyst og ensartet hele vejen igennem.
 
 ### Hvordan skal man se ud på et pasfoto – udtryk og positur
 
@@ -40,7 +40,7 @@ I Danmark ansøger du om pas i Borgerservice i din kommune, og kravene til selve
 
 ## Størrelse på pasfoto: de to mål de fleste lande bruger
 
-De fleste pasmyndigheder bruger en af to trykte størrelser. Formatet 35 x 45 mm dækker Storbritannien, EU-lande og store dele af resten af verden. USA kræver et kvadrat på 2 x 2 tommer, og enkelte lande følger den standard i stedet. Nogle myndigheder har deres eget mål: den canadiske regering kræver for eksempel printede fotos på 50 x 70 mm.
+Størrelsen på trykte fotos varierer fra myndighed til myndighed. Storbritannien bruger 35 x 45 mm, og den canadiske regering kræver trykte fotos på 50 mm i bredden og 70 mm i højden. Andre lande fastsætter deres egne mål, så tjek dem hos din egen pasmyndighed.
 
 Digitale indsendelser bytter millimeter ud med pixels, og hver myndighed offentliggør sine egne minimumskrav. De to størrelser er, hvad de fleste myndigheder aktuelt beder om i trykt format, men specifikationerne bliver revideret, så bekræft dine, før du printer eller uploader.
 
@@ -66,11 +66,11 @@ Du har flere muligheder for at få dit pasfoto til pasmyndigheden. Hver har sine
 
 | Metode | Pris | Risiko for afvisning | Bekvemmelighed | Officiel vejledning |
 |---|---|---|---|---|
-| Selv derhjemme (smartphone + beskæringsapp) | Gratis eller tæt på | Højere hvis du rammer forkert på lys eller størrelse | Meget høj - med det samme | Tilladt i de fleste lande - tjek din myndigheds side |
+| Selv derhjemme (smartphone + beskæringsapp) | Gratis eller tæt på | Højere hvis du rammer forkert på lys eller størrelse | Meget høj - med det samme | Tjek din myndigheds side |
 | Lokalt apotek | Et beskedent gebyr | Lav - uddannet personale kontrollerer | Middel - typisk samme dag | Bredt anvendt og generelt pålideligt - tjek alligevel din egen myndigheds krav |
 | Postkontor (Storbritannien m.fl.) | Et beskedent gebyr | Lav - taget på stedet, kontrolleret | Middel - kræver besøg og tidsbestilling | Postkontorets officielle service |
 | Onlinetjenester (f.eks. Passport Photo Online) | Et beskedent gebyr | Middel - digital indsendelse, feedback gives | Høj - hjemmefra, digital levering | Ikke officiel, men bredt anvendt - tjek om dit land accepterer færdigbeskårne uploads |
-| Professionel fotograf | Den dyreste løsning | Lav - professionel belysning og komposition | Lav - kræver tidsbestilling | Accepteret alle steder - altid et sikkert valg |
+| Professionel fotograf | Den dyreste løsning | Lav - professionel belysning og komposition | Lav - kræver tidsbestilling | Laveste risiko, men fotoet skal stadig opfylde din myndigheds regler |
 
 ## Lys og billedkvalitet
 
@@ -86,7 +86,7 @@ Brug et stativ, eller lad telefonen hvile mod en stabil genstand, så du har beg
 
 ### Opløsning og fokus
 
-Moderne smartphones optager med 12 megapixel eller mere, hvilket er rigeligt til pasfoto. Før du fotograferer, skal du sikre dig, at telefonen er i fokustilstand – tryk på ansigtet på skærmen, så vil de fleste telefoner låse fokus der. Det endelige billede skal være skarpt og tydeligt.
+De fleste moderne mobilkameraer har rigelig opløsning til et pasfoto. Før du fotograferer, skal du sikre dig, at telefonen er i fokustilstand – tryk på ansigtet på skærmen, så vil de fleste telefoner låse fokus der. Det endelige billede skal være skarpt og tydeligt.
 
 ## Almindelige afvisningsgrunde, og hvordan du undgår dem
 
@@ -136,7 +136,7 @@ Ja, du kan tage et pasfoto med din mobil. Stil dig foran en ensfarvet, lys baggr
 
 ### Hvilken størrelse skal et pasfoto have?
 
-De fleste lande bruger en af to trykte størrelser: 35 x 45 mm, som dækker Storbritannien, EU og store dele af verden, eller det kvadrat på 2 x 2 tommer, som USA bruger. Nogle myndigheder har deres eget mål, som den canadiske regerings 50 x 70 mm. Digitale indsendelser har separate minimumskrav i pixels. Kravene håndhæves strengt og bliver revideret, så bekræft den præcise spec med din egen pasmyndighed, før du printer eller uploader.
+Størrelsen på trykte fotos varierer fra myndighed til myndighed. Storbritannien bruger 35 x 45 mm, og den canadiske regering kræver 50 x 70 mm. Andre lande fastsætter deres egne mål, så tjek dem hos din egen pasmyndighed. Digitale indsendelser har separate minimumskrav i pixels. Kravene håndhæves strengt og bliver revideret, så bekræft den præcise spec med din egen pasmyndighed, før du printer eller uploader.
 
 ### Hvorfor blev mit pasfoto afvist?
 

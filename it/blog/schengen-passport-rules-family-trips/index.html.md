@@ -13,7 +13,7 @@ Source: https://traveldocumentvault.com/it/blog/schengen-passport-rules-family-t
 - La vera regola Schengen è **3 mesi di validità oltre la data di partenza**, più un passaporto rilasciato negli ultimi 10 anni — non è la "regola dei 6 mesi".
 - **I passaporti dei bambini scadono in 5 anni**, quindi i passaporti di una famiglia si desincronizzano e la data di scadenza più precoce decide il viaggio.
 - I **passaporti britannici pre-ottobre 2018 con mesi bonus** possono fallire il test di rilascio di 10 anni anche mentre il libretto sembra ancora valido.
-- Le compagnie aeree verificano ogni passaporto rispetto al **database Timatic dell'IATA** al check-in — nessun arrotondamento, nessun override, e un passaporto fallito blocca la famiglia.
+- Le compagnie aeree generalmente verificano i passaporti rispetto al **database Timatic dell'IATA** al check-in, e un passaporto non valido può bloccare la famiglia.
 - **Controllate ogni passaporto il giorno della prenotazione**, non la settimana del volo. Cinque minuti al momento della prenotazione è l'intera soluzione.
 
 Prenotare un viaggio in famiglia in Europa di solito inizia allo stesso modo: controllate il vostro passaporto, vedete anni di validità rimasta, e confermate. Il problema arriva settimane dopo, quando finalmente aprite il cassetto e scoprite che il passaporto di un bambino — rilasciato con un orologio più breve del vostro — scade prima di quanto chiunque pensasse. Nessuno invia una lettera di avvertimento ai genitori su questo. La scrivania del check-in consegna la notizia invece.
@@ -38,24 +38,21 @@ La nostra guida su [la regola dei 6 mesi](https://traveldocumentvault.com/it/blo
 
 ## I passaporti dei bambini funzionano con un orologio più veloce
 
-I passaporti per adulti generalmente durano 10 anni; quelli per i bambini solo cinque. Questa asimmetria è dove molti piani altrimenti attenti si sfaldano.
+I passaporti britannici per adulti durano 10 anni, mentre il Regno Unito rilascia quelli per bambini con una validità di cinque anni. Questa asimmetria è dove molti piani altrimenti attenti si sfaldano.
 
 | Paese | Passaporti per bambini | Validità |
 |---|---|---|
-| Stati Uniti | Sotto i 16 anni | 5 anni |
-| Regno Unito | Tutti i bambini | 5 anni |
-| Canada | Sotto i 16 anni | 5 anni |
-| Australia | Tutti i bambini | 5 anni |
+| Regno Unito | Sotto i 16 anni | 5 anni |
 
-Fonti: US Department of State, GOV.UK, Canada.ca, Australian Passport Office.
+Fonte per il Regno Unito: GOV.UK. Per gli altri paesi, controllate con la vostra autorità passaporti.
 
 Una famiglia di quattro persone quindi funziona su quattro diversi programmi di scadenza. La data più precoce decide se il viaggio accade affatto. Due adulti rinnovati insieme si separeranno dai documenti dei loro bambini nel giro di un paio d'anni — che è esattamente il motivo per cui controllare il vostro passaporto vi dice quasi nulla sulla preparazione della famiglia.
 
-Per le famiglie americane c'è una piega in più: un passaporto di un bambino non può essere rinnovato per posta. Ogni rinnovo richiede un'applicazione nuova di zecca in persona, e il tempo di elaborazione cambia — il Dipartimento di Stato USA pubblica la cifra attuale, quindi verificatela prima di pianificare, oltre al tempo di spedizione in entrambi i sensi. Ciò che è gestibile a marzo diventa rapidamente un vero problema poco prima della partenza. Le famiglie britanniche ce la fanno un po' meglio: semplicemente controllate i tempi di elaborazione attuali prima di prenotare e concedete tempo extra se le informazioni sono necessarie.
+Per le famiglie americane c'è una difficoltà in più: il rinnovo del passaporto di un bambino può richiedere una domanda di persona e diverse settimane, quindi controllate le regole e i tempi attuali della vostra autorità passaporti prima di prenotare. Ciò che è gestibile a marzo diventa rapidamente un vero problema poco prima della partenza. Le famiglie britanniche ce la fanno un po' meglio: semplicemente controllate i tempi di elaborazione attuali prima di prenotare e concedete tempo extra se le informazioni sono necessarie.
 
 ## La realtà al check-in: Timatic non arrotonda
 
-Qualunque cosa la frontiera potrebbe tollerare, la incontrerete prima di allora — al check-in. Le compagnie aeree convalidano ogni passaporto rispetto al database Timatic dell'IATA, che applica i requisiti di ingresso di ogni destinazione esattamente. Se la vostra data di ritorno ha bisogno di validità fino al 20 novembre e un passaporto scade il 15 novembre, il sistema dice no. Non c'è "abbastanza vicino" e nessun override — le compagnie aeree che imbarcan un passeggero inammissibile devono riportarlo a casa a proprie spese.
+Qualunque cosa la frontiera potrebbe tollerare, la incontrerete prima di allora — al check-in. Le compagnie aeree generalmente verificano i passaporti nel database Timatic dell'IATA, che elenca i requisiti d'ingresso di ogni destinazione. Se la vostra data di ritorno ha bisogno di validità fino al 20 novembre e un passaporto scade il 15 novembre, il sistema dice no. Aspettatevi che l'imbarco venga rifiutato al check-in.
 
 Un passaporto fallito raramente blocca una persona; blocca la famiglia. Pochi genitori invieranno tre membri in avanti e lasceranno uno alla scrivania, quindi nella pratica l'intera prenotazione viene riprogrammata o persa.
 
@@ -77,11 +74,11 @@ Sono regole separate per destinazioni diverse. Paesi come la Tailandia e l'Indon
 
 ### I bambini seguono regole diverse per i passaporti Schengen?
 
-No. I bambini hanno bisogno degli stessi 3 mesi di validità oltre la partenza e della stessa condizione di rilascio entro 10 anni degli adulti. Quello che differisce è il passaporto stesso: la maggior parte dei paesi rilascia passaporti per bambini per 5 anni anziché 10, quindi un documento di un bambino raggiunge questi limiti molto prima di quello di un genitore.
+No. I bambini hanno bisogno degli stessi 3 mesi di validità oltre la partenza e della stessa condizione di rilascio entro 10 anni degli adulti. Quello che differisce è il passaporto stesso: molti paesi, tra cui il Regno Unito, rilasciano passaporti per bambini per 5 anni anziché 10, quindi un documento di un bambino raggiunge questi limiti molto prima di quello di un genitore.
 
 ### Quando dovremmo rinnovare il passaporto di un bambino prima di un viaggio?
 
-Non appena prenotate, verificate se il passaporto avrà ancora 3 mesi di validità oltre la data di ritorno. Se non sarà così, iniziate subito. Controllate i tempi di elaborazione correnti nel Regno Unito e concedete tempo extra se l'applicazione ha bisogno di ulteriori informazioni. Il tempo di elaborazione negli Stati Uniti cambia; verificate la cifra attuale presso il Dipartimento di Stato USA, oltre al tempo di spedizione. Il passaporto di un bambino negli Stati Uniti ha anche bisogno di un'applicazione nuova di zecca in persona anziché un rinnovo.
+Non appena prenotate, verificate se il passaporto avrà ancora 3 mesi di validità oltre la data di ritorno. Se non sarà così, iniziate subito. Controllate i tempi di elaborazione correnti nel Regno Unito e concedete tempo extra se l'applicazione ha bisogno di ulteriori informazioni. Verificate i tempi attuali presso la vostra autorità passaporti.
 
 ### Possiamo volare mentre il rinnovo del passaporto di un bambino è in corso?
 
@@ -89,7 +86,7 @@ No. Avete bisogno del passaporto fisico in mano per salire su un volo internazio
 
 ### Cosa accade al check-in se un passaporto non è sufficiente?
 
-Le compagnie aeree verificano ogni passaporto rispetto al database Timatic dell'IATA, che applica le regole della destinazione esattamente, senza arrotondamenti e senza override. Se un membro della famiglia non supera il controllo, quella persona non può salire a bordo — che nella pratica solitamente significa riprogrammare o cancellare l'intero viaggio.
+Le compagnie aeree generalmente verificano i passaporti nel database Timatic dell'IATA, che elenca i requisiti d'ingresso di ogni destinazione. Se un membro della famiglia non supera il controllo, quella persona non può salire a bordo — che nella pratica le famiglie risolvono di solito riprenotando, senza dividersi.
 
 ## Articoli correlati
 

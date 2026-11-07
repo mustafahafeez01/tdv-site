@@ -10,21 +10,21 @@ Source: https://traveldocumentvault.com/fr/blog/tripcase-alternative/
 
 ## Points clés
 
-- **TripCase a fermé le 1er avril 2025** après 12 ans, et Sabre a supprimé toutes les données de voyage restantes des utilisateurs après la fermeture de la fenêtre d'exportation le 30 juin 2025.
-- Son **coffre-fort de documents** — un endroit unique et sécurisé pour les passeports, visas et cartes d'embarquement — est la fonctionnalité que les anciens utilisateurs disent le plus regretter.
+- **TripCase a fermé le 1er avril 2025** et l'avis de Sabre donnait aux utilisateurs jusqu'au 30 juin 2025 pour télécharger leurs voyages avant la suppression des données restantes.
+- Son **coffre-fort de documents** — un endroit unique et sécurisé pour les passeports, visas et cartes d'embarquement — est une fonctionnalité que les anciens utilisateurs mentionnent souvent.
 - **Aucune application ne remplace complètement TripCase.** Les alertes de vol, l'analyse des itinéraires et le stockage des documents vivent maintenant dans différents outils.
-- La vraie leçon : un service cloud gratuit place **vos données sur un temps emprunté**. Cela peut disparaître avec environ 60 jours de préavis.
+- La vraie leçon : un service cloud gratuit place **vos données sur un temps emprunté**. Cela peut disparaître avec quelques mois de préavis.
 - Les documents de voyage doivent être **hors ligne, sur votre appareil** — quelque part qu'aucune décision d'entreprise, panne ou fermeture ne peut atteindre.
 
-TripCase a passé douze ans en tant que cheval de trait tranquille des applications de voyage. Transférez un email de confirmation et votre voyage se construisait tout seul ; l'application vous signalait les changements de porte avant certaines compagnies aériennes ; et son coffre-fort de documents conservait les passeports, visas et cartes d'embarquement au même endroit. Puis, le 1er avril 2025, Sabre l'a fermé, et une fois que la fenêtre d'exportation a fermé le 30 juin, l'historique de voyage et les documents restants de chaque utilisateur ont été purgés de ses serveurs.
+TripCase a passé des années en tant que cheval de trait tranquille des applications de voyage. Transférez un email de confirmation et votre voyage se construisait tout seul ; l'application vous signalait les changements de porte avant certaines compagnies aériennes ; et son coffre-fort de documents conservait les passeports, visas et cartes d'embarquement au même endroit. Puis, le 1er avril 2025, Sabre l'a fermé, et l'avis de Sabre, tel que rapporté à l'époque, donnait aux utilisateurs jusqu'au 30 juin 2025 pour télécharger leurs voyages avant la suppression des données restantes.
 
-Quinze mois plus tard, les anciens utilisateurs cherchent toujours un remplacement. La réponse honnête est qu'aucune application ne le remplace entièrement. Mais la vraie histoire n'est pas de savoir quelle application choisir — c'est de savoir où vos documents doivent vivre.
+Plus d'un an après, aucune application n'a pris sa place. La réponse honnête est qu'aucune application ne le remplace entièrement. Mais la vraie histoire n'est pas de savoir quelle application choisir — c'est de savoir où vos documents doivent vivre.
 
 ## TripCase a été la référence pendant des années, puis Sabre l'a fermé
 
-TripCase existe depuis 2013, un compagnon de voyage gratuit de Sabre Corporation — l'entreprise qui gère une grande partie des systèmes de réservation des compagnies aériennes et des agences de voyage du monde. Grâce à cette connexion, les voyages apparaissaient souvent dans l'application automatiquement. Pendant plus d'une décennie, les voyageurs d'affaires et les familles s'en sont remis pour regrouper les vols, les hôtels et les voitures de location dans une seule vue chronologique. Ce n'était pas sophistiqué, mais cela fonctionnait.
+TripCase était un compagnon de voyage gratuit de Sabre Corporation, une grande entreprise de technologie de réservation pour les compagnies aériennes et les agences de voyage. Grâce à cette connexion, les voyages apparaissaient souvent dans l'application automatiquement. Pendant des années, les voyageurs d'affaires et les familles s'en sont remis pour regrouper les vols, les hôtels et les voitures de location dans une seule vue chronologique. Ce n'était pas sophistiqué, mais cela fonctionnait.
 
-Quand la fermeture est venue, les utilisateurs avaient jusqu'au 30 juin 2025 pour exporter leur historique. De nombreux utilisateurs ont signalé que le processus d'exportation était confus et incomplet, et certains ont découvert trop tard que des années d'enregistrements de voyage n'avaient pas été extraits. Après la fermeture de la fenêtre d'exportation le 30 juin 2025, Sabre a supprimé toutes les données de voyage et de voyageurs restantes, et il n'y a aucun moyen de les récupérer.
+Quand la fermeture est venue, les utilisateurs avaient jusqu'au 30 juin 2025 pour exporter leur historique. Certains utilisateurs ont signalé que le processus d'exportation était confus ou incomplet. Sabre a indiqué qu'il supprimerait les données restantes après la fenêtre de téléchargement, donc ce que vous n'avez pas exporté a peu de chances d'être récupérable.
 
 ## Ce que les utilisateurs de TripCase ont réellement perdu
 
@@ -32,15 +32,15 @@ TripCase n'a pas inventé grand-chose, mais il a perfectionné une poignée de f
 
 Son cœur était **l'analyse d'email en itinéraire** — transférez n'importe quelle confirmation de compagnie aérienne, d'hôtel ou de location de voiture et l'application l'a assemblée dans un voyage chronologique avec des dates et des références de réservation. Zéro saisie manuelle signifiait un itinéraire complet en secondes, ce qui est exactement pourquoi les gens y restaient pendant une décennie.
 
-**Les alertes de vol en temps réel** ont suivi : les retards, les changements de portes et les annulations souvent avant la notification de la compagnie aérienne elle-même. TripIt facture maintenant sa version Pro pour obtenir l'équivalent, tandis que TripCase proposait la fonctionnalité à tout le monde gratuitement.
+**Les alertes de vol en temps réel** ont suivi : les retards et les changements de porte, souvent avant la notification de la compagnie aérienne elle-même. TripIt facture maintenant sa version Pro pour obtenir l'équivalent.
 
-Ces vols, hôtels et transports au sol vivaient dans **la chronologie du voyage** — une pile parcourable unique par voyage. Simple, mais si vous avez jonglé avec une semaine multi-villes à partir d'une douzaine d'emails de confirmation, vous comprenez pourquoi cela importait. Dans les fils de discussion sur FlyerTalk et ailleurs, les anciens utilisateurs mentionnent régulièrement le **coffre-fort de documents** comme la pièce la plus regrettée — ce lieu unique et sécurisé pour les cartes d'embarquement, les visas, les passeports et les confirmations. Enfin, **le partage de voyage** permettait aux membres de la famille ou aux collègues de suivre sans emails transférés.
+Ces vols, hôtels et transports au sol vivaient dans **la chronologie du voyage** — une pile parcourable unique par voyage. Simple, mais si vous avez jonglé avec une semaine multi-villes à partir d'une douzaine d'emails de confirmation, vous comprenez pourquoi cela importait. Dans les fils de discussion sur FlyerTalk et ailleurs, certains anciens utilisateurs mentionnent le **coffre-fort de documents** parmi les fonctionnalités qui leur manquent — ce lieu unique et sécurisé pour les cartes d'embarquement, les visas, les passeports et les confirmations. Enfin, **le partage de voyage** permettait aux membres de la famille ou aux collègues de suivre sans emails transférés.
 
 ## Une application cloud garde vos données à l'heure de quelqu'un d'autre
 
 Quand vous construisez votre vie de voyage autour d'une application cloud gratuite, vous louez un espace que le propriétaire peut récupérer à tout moment.
 
-TripCase a existé assez longtemps pour que les gens la considèrent comme une infrastructure permanente, en téléchargeant des années d'enregistrements et de documents en supposant qu'elle serait toujours là. Puis Sabre a fait les calculs, a décidé que l'application n'était pas essentielle à son activité, et une décennie de données utilisateur a disparu selon un calendrier choisi par Sabre.
+TripCase a existé assez longtemps pour que les gens la considèrent comme une infrastructure permanente, en téléchargeant des années d'enregistrements et de documents en supposant qu'elle serait toujours là. Puis Sabre a choisi d'arrêter progressivement l'application, et les données des utilisateurs ont disparu selon un calendrier fixé par Sabre.
 
 Rien de tout cela n'est malveillant ; c'est juste comment fonctionnent les décisions commerciales. Les applications de voyage se replient régulièrement, les niveaux gratuits passent derrière des murs payants, et les services sont discontinués. La personne qui n'a aucune influence sur le calendrier, c'est vous.
 
@@ -54,11 +54,11 @@ TripCase a regroupé plusieurs tâches différentes dans une application gratuit
 
 | La tâche | Ce que TripCase faisait | Meilleur remplacement maintenant | Coût |
 |---|---|---|---|
-| Alertes de vol | Retards en temps réel, changements de portes, annulations | Flighty | Niveau gratuit ; abonnement payant disponible |
+| Alertes de vol | Retards et changements de porte en temps réel | Flighty | Niveau gratuit ; abonnement payant disponible |
 | Analyse d'email en itinéraire | Transférez une confirmation, le voyage se construit tout seul | TripIt ou Tripsy | TripIt a un niveau gratuit ; consultez son site pour les tarifs Pro actuels |
-| Chronologie du voyage | Une vue chronologique unique par voyage | TripIt ou Tripsy | Inclus avec ce qui précède |
+| Chronologie du voyage | Une vue chronologique unique par voyage | TripIt | Inclus avec ce qui précède |
 | Stockage des documents de voyage | Le coffre-fort de documents : passeports, visas, cartes d'embarquement | Travel Document Vault | Achat unique, sans abonnement |
-| Partage de voyage | Les followers voyaient votre itinéraire en direct | Partage TripIt ou dossier partagé | Gratuit |
+| Partage de voyage | Les followers voyaient votre itinéraire en direct | Partage TripIt (vérifiez quel forfait) ou dossier partagé | Varie selon le forfait |
 
 Les alertes de vol et l'analyse des itinéraires sont des commodités — vraiment utiles — et elles appartiennent au cloud car elles ne sont pertinentes que pendant un voyage. Le stockage des documents, cependant, est différent : c'est la seule tâche où perdre l'accès vous coûte réellement quelque chose que vous ne pouvez pas reprogrammer.
 
@@ -76,7 +76,7 @@ La réponse sensée à l'effondrement de TripCase n'est pas d'abandonner complè
 
 TripCase a disparu, et ses fonctionnalités sont maintenant dispersées dans d'autres applications. Mais il y a une leçon qui en vaut la peine : vos documents de voyage ne doivent pas mourir avec le serveur de quelqu'un d'autre.
 
-Commencez dès aujourd'hui par un simple audit : où chaque analyse de votre passeport, chaque PDF de visa, chaque pièce d'identité d'enfant vit actuellement, et qu'advient-il de celui-ci si ce service disparaît avec 60 jours de préavis ? Notre [liste de contrôle des documents de voyage](https://traveldocumentvault.com/fr/blog/travel-document-checklist/) est un endroit pratique pour commencer.
+Commencez dès aujourd'hui par un simple audit : où chaque analyse de votre passeport, chaque PDF de visa, chaque pièce d'identité d'enfant vit actuellement, et qu'advient-il de celui-ci si ce service disparaît avec quelques mois de préavis ? Notre [liste de contrôle des documents de voyage](https://traveldocumentvault.com/fr/blog/travel-document-checklist/) est un endroit pratique pour commencer.
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
@@ -84,15 +84,15 @@ Commencez dès aujourd'hui par un simple audit : où chaque analyse de votre pas
 
 ### Quand TripCase a-t-il fermé ?
 
-TripCase a fermé le 1er avril 2025 après que la Sabre Corporation, sa société mère, a décidé d'arrêter le service. Les utilisateurs avaient jusqu'au 30 juin 2025 pour exporter leurs données de voyage avant que tous les enregistrements ne soient définitivement supprimés des serveurs de Sabre.
+TripCase a fermé le 1er avril 2025 après que la Sabre Corporation, sa société mère, a décidé d'arrêter le service. L'avis de Sabre, tel que rapporté à l'époque, donnait aux utilisateurs jusqu'au 30 juin 2025 pour télécharger leurs voyages avant la suppression des données restantes.
 
 ### Puis-je accéder à mes données TripCase après la fermeture ?
 
-Non. Sabre a supprimé toutes les données utilisateur après la fermeture de la fenêtre d'exportation le 30 juin 2025. Si vous avez exporté vos voyages avant cette date, vous disposez toujours de ce fichier d'exportation, mais les données sur les serveurs de Sabre ont disparu définitivement. De nombreux utilisateurs ont signalé que le processus d'exportation était incomplet, de sorte que des enregistrements de voyage partiels ont été perdus.
+En général non. Sabre a indiqué qu'il supprimerait les données restantes après la fenêtre de téléchargement, qui courait jusqu'au 30 juin 2025. Si vous avez exporté vos voyages avant cette date, vous disposez toujours de ce fichier d'exportation. Certains utilisateurs ont signalé que le processus d'exportation était incomplet, de sorte que des enregistrements de voyage partiels pourraient être irrécupérables.
 
 ### Quelle est la meilleure alternative à TripCase pour les alertes de vol ?
 
-Flighty est le remplacement le plus direct pour les alertes de vol en temps réel. Il suit les retards, les changements de portes et les annulations, et peut récupérer les vols de votre calendrier sans saisie manuelle. Il offre actuellement un niveau gratuit, avec un abonnement payant pour l'ensemble des fonctionnalités.
+Flighty est le remplacement le plus direct pour les alertes de vol en temps réel. Il suit les retards et les changements de porte, et peut récupérer les vols de votre calendrier sans saisie manuelle. Il offre actuellement un niveau gratuit, avec un abonnement payant pour l'ensemble des fonctionnalités.
 
 ### Y a-t-il une seule application qui remplace TripCase ?
 
