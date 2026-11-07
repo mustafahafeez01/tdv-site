@@ -12,7 +12,7 @@ Ero all'immigrazione quando l'agente ha guardato il passaporto di mia figlia, si
 
 "Sa che scade tra sette mesi, vero?" ha detto. "Le faccio presente che alcuni Paesi non la lasciano entrare con meno di sei mesi di validità residua."
 
-L'ho ringraziato. Ce la stavamo cavando, per un pelo. Ma per tutto il viaggio non riuscivo a smettere di pensarci: se non avesse detto nulla, non me ne sarei mai accorto. Sette mesi mi sembravano tanti. Avevo controllato il passaporto prima di prenotare. Mi ero semplicemente dimenticato completamente della [regola dei sei mesi](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements) che molti Paesi applicano.
+L'ho ringraziato. Ce la stavamo cavando, per un pelo. Ma per tutto il viaggio non riuscivo a smettere di pensarci: se non avesse detto nulla, non me ne sarei mai accorto. Sette mesi mi sembravano tanti. Avevo controllato il passaporto prima di prenotare. Mi ero semplicemente dimenticato della [regola dei sei mesi](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements) che molti Paesi applicano.
 
 Quell'incidente sfiorato mi è rimasto impresso. Avevo già impostato dei promemoria sul calendario per le date di scadenza dei passaporti di tutti. Pensavo che fosse sufficiente. Ma in realtà non controllavo le date, mi fidavo semplicemente dei promemoria. E quando qualcuno rinnovava il passaporto, dovevo aggiornare il promemoria, aggiornare la scansione su Google Drive e sperare di non aver dimenticato nulla.
 
@@ -20,15 +20,15 @@ Quel momento con lo stomaco in gola, rendersi conto di aver quasi rovinato una v
 
 ## Il lavoro invisibile
 
-Se è Lei la persona in famiglia che gestisce i documenti, conosce già questa sensazione.
+Se in famiglia sei tu quello che gestisce i documenti, questa sensazione la conosci già.
 
-Non si limitano a conservare i file. Porta nella testa una checklist invisibile. Quali passaporti scadono e quando. Chi ha bisogno di cosa per l'iscrizione a scuola. Quali Paesi applicano la regola dei sei mesi. Se l'assicurazione di viaggio sia stata davvero rinnovata o se aveva solo intenzione di farlo.
+Non ti limiti a conservare i file. Ti porti in testa una checklist invisibile. Quali passaporti scadono e quando. Chi ha bisogno di cosa per l'iscrizione a scuola. Quali Paesi applicano la regola dei sei mesi. Se l'assicurazione di viaggio è stata davvero rinnovata o se avevi solo intenzione di farlo.
 
-Nessun singolo controllo richiede molto tempo. Trovare una scansione del passaporto, leggere la data di scadenza, verificare che copra il viaggio per sei mesi, forse due o tre minuti. Ma moltiplicato per quattro familiari, aggiungendo la polizza assicurativa sepolta nella posta elettronica e la patente di cui non si è sicuri della validità, si sono bruciate quindici o venti minuti alle 23:00 della sera prima del volo.
+Nessun controllo, da solo, richiede molto tempo. Trovare la scansione del passaporto, leggere la data di scadenza, verificare che copra il viaggio per sei mesi: due o tre minuti, forse. Ma moltiplica per quattro familiari, aggiungi la polizza assicurativa sepolta nella posta e la patente di cui non sei sicuro, e hai bruciato quindici o venti minuti alle 23:00 della sera prima del volo.
 
-Questo ammesso che tutto sia dove si pensa. Se si scorrono migliaia di foto alla ricerca di una scansione del passaporto, o si controllano tre cartelle cloud diverse per trovare il file giusto, ci vuole ancora più tempo, e lo stress si accumula velocemente.
+E questo se tutto è dove pensi che sia. Se devi scorrere migliaia di foto per trovare la scansione del passaporto, o aprire tre cartelle cloud diverse per trovare il file giusto, ci vuole ancora più tempo, e lo stress sale in fretta.
 
-**Nessuno vede questo lavoro. Nessuno Le consegna una checklist. Lo porta semplicemente con sé.**
+**Nessuno vede questo lavoro. Nessuno ti consegna una checklist. Te lo porti dietro e basta.**
 
 Non volevo creare un'app di viaggio. Volevo smettere di tenerlo tutto in testa.
 
@@ -40,23 +40,23 @@ Archiviazione cloud? Ottima per i file, inutile per le date di scadenza. Dovevo 
 
 Promemoria sul calendario? Provati anche quelli. Ho impostato una notifica sei mesi prima della scadenza di ogni passaporto. Ma le scansioni erano in un posto, i promemoria in un altro, e quando dovevo controllare qualcosa alle 23:00 prima di prenotare un volo, passavo da tre app cercando di mettere insieme i pezzi.
 
-I password manager? Alcuni li usano per le scansioni dei documenti. Ma sono pensati per le password, non per le date di scadenza. Certamente non La avvertono quando il passaporto di Suo figlio sta per mandare a monte un viaggio.
+I password manager? Alcuni li usano per le scansioni dei documenti. Ma sono pensati per le password, non per le date di scadenza. E di certo non ti avvertono quando il passaporto di tuo figlio sta per mandare a monte un viaggio.
 
-Cosa ha fatto scattare la scintilla: non avevo bisogno di un altro posto dove salvare PDF. Avevo bisogno di qualcosa che mi ricordasse la scadenza sei mesi prima, non il giorno della scadenza. Qualcosa che mi permettesse di vedere a colpo d'occhio "partiamo ad agosto, i passaporti di tutti coprono fino a febbraio?" senza dover cercare le regole sui visti o fare calcoli mentali.
+Ecco cosa ha fatto scattare la scintilla: non avevo bisogno di un altro posto dove salvare PDF. Avevo bisogno di qualcosa che mi ricordasse la scadenza sei mesi prima, non il giorno della scadenza. Qualcosa che mi permettesse di vedere a colpo d'occhio "partiamo ad agosto, i passaporti di tutti coprono fino a febbraio?" senza dover cercare le regole sui visti o fare calcoli mentali.
 
 E doveva funzionare offline. Perché mi sarei trovato in aeroporto, o bloccato in una hall d'albergo con un Wi-Fi pessimo, con la necessità di mostrare una copia di un documento, e quello è esattamente il momento in cui le app cloud smettono di caricarsi.
 
 ## Così ho creato esattamente ciò di cui avevo bisogno
 
-Travel Document Vault raccoglie i documenti e le date di scadenza salvate in un unico posto, con promemoria per aiutarLa a pianificare i rinnovi.
+Travel Document Vault raccoglie i documenti e le date di scadenza salvate in un unico posto, con promemoria che ti aiutano a pianificare i rinnovi.
 
-Scansioni un documento una volta. L’app prova a leggere la data di scadenza: la confermi o la inserisca manualmente. I promemoria sono attivi per impostazione predefinita quando salva una data di scadenza. Per i passaporti iniziano otto mesi prima, poi sei mesi, tre mesi, sei settimane, un mese, due settimane, fino al giorno della scadenza.
+Scansioni un documento una volta sola. L’app prova a leggere la data di scadenza: la confermi oppure la inserisci a mano. I promemoria sono attivi per impostazione predefinita quando salvi una data di scadenza. Per i passaporti iniziano otto mesi prima, poi sei mesi, tre mesi, sei settimane, un mese, due settimane, fino al giorno della scadenza.
 
-Aggiunga tutta la famiglia con Pro, con un profilo per ciascuno. Prima di un viaggio può **controllare i documenti e le date di scadenza salvate della famiglia**.
+Con Pro aggiungi tutta la famiglia, con un profilo per ciascuno. Prima di un viaggio puoi **controllare i documenti e le date di scadenza salvate di tutta la famiglia**.
 
-Quando un hotel chiede la copia del passaporto, un’ambasciata ha bisogno dei Suoi dati o il noleggio auto vuole la patente, può aprire il menu di condivisione e scegliere come inviarli. La consultazione delle copie salvate funziona offline; email e messaggi richiedono una connessione.
+Quando un hotel chiede la copia del passaporto, un’ambasciata ha bisogno dei tuoi dati o il noleggio auto vuole la patente, apri il menu di condivisione e scegli come inviarli. La consultazione delle copie salvate funziona offline; email e messaggi richiedono una connessione.
 
-Questo è il vero vantaggio: recupera spazio mentale. Il carico mentale invisibile, quel costante brusio di sottofondo che chiede "mi sto dimenticando qualcosa?", scompare. L'app ricorda al posto suo.
+Il vero vantaggio è questo: recuperi spazio mentale. Il carico invisibile, quel brusio costante che chiede "mi sto dimenticando qualcosa?", sparisce. L'app ricorda al posto tuo.
 
 ![Diagramma di cinque app sparse - foto, cloud, note, email, calendario - che confluiscono in un unico vault, da cui escono promemoria di scadenza, crittografia e accesso offline: un'app invece di cinque](https://traveldocumentvault.com/blog/why-i-built-travel-document-vault/scattered-to-single-vault-it.jpg) Cosa comportava il controllo delle 23 - e cosa comporta adesso.
 
@@ -66,39 +66,39 @@ Da quando ho iniziato a usarla, ho notato quanti altri documenti scadono in sile
 
 Permessi di lavoro per chi vive all'estero. Visti e permessi di soggiorno da rinnovare annualmente. Patenti di guida. Assicurazioni sanitarie per cui occorre dimostrare la copertura. Polizze di assicurazione di viaggio. I documenti d'identità nazionali dei figli.
 
-Hanno tutti una data di scadenza. Contano tutti esattamente nel momento sbagliato. Nessuno La avverte fino a quando non è troppo tardi, o si trova già davanti all'ambasciata a realizzare che il visto è scaduto il mese scorso.
+Hanno tutti una data di scadenza. Contano tutti esattamente nel momento sbagliato. Nessuno ti avverte finché non è troppo tardi, magari quando sei già davanti all'ambasciata e scopri che il visto è scaduto il mese scorso.
 
 L'app le gestisce tutte. Passaporti, visti, documenti d'identità e assicurazioni hanno i loro tipi di documento, e qualsiasi altra cosa con una data di scadenza, come un permesso di lavoro o una patente, va sotto Altro: in un unico posto, tracciato, organizzato.
 
 ## Quando le cose vanno storte all'estero
 
-I passaporti si perdono e vengono rubati anche all'estero, e sostituirne uno da un altro paese è una procedura lenta. Se dovesse succedere all'estero, non si parte da zero.
+I passaporti si perdono e vengono rubati anche all'estero, e sostituirne uno da un altro paese è una procedura lenta. Se ti succede all'estero, non parti da zero.
 
-Numeri di documento, date di scadenza, scansioni nitide, tutto pronto quando è necessario sporgere denuncia o contattare un'ambasciata. Non sostituisce gli originali, ma Le dà tutto ciò che serve per andare avanti rapidamente. Senza Wi-Fi, senza panico.
+Numeri di documento, date di scadenza, scansioni nitide: tutto pronto quando devi sporgere denuncia o contattare un'ambasciata. Non sostituisce gli originali, ma ti dà tutto ciò che serve per andare avanti in fretta. Senza Wi-Fi, senza panico.
 
 ## Progettata per la privacy
 
-Sin dall'inizio ho preso una decisione ferma: i Suoi documenti appartengono a Lei, e rimangono con Lei. Punto.
+Fin dall'inizio ho preso una decisione ferma: i tuoi documenti sono tuoi e restano con te. Punto.
 
 Travel Document Vault è autonomo:
 
 - Nessun account da creare
 - Backup cloud crittografato facoltativo (Pro)
-- Crittografato sul suo dispositivo
+- Crittografato sul tuo dispositivo
 
-Quando scansiona un documento, il riconoscimento del testo viene eseguito sul dispositivo. I documenti restano sul telefono per impostazione predefinita; **il backup crittografato facoltativo (Pro) salva una copia sul Suo iCloud o Google Drive.** Può anche esportare o condividere copie.
+Quando scansioni un documento, il riconoscimento del testo avviene sul dispositivo. I documenti restano sul telefono per impostazione predefinita; **il backup crittografato facoltativo (Pro) salva una copia sul tuo iCloud o Google Drive.** Puoi anche esportare o condividere le copie.
 
-Alcune persone preferiscono app che sincronizzano ovunque. Per passaporti e documenti d'identità, ho voluto un modello più semplice: il suo telefono è l'archivio. Può esportare le sue copie ogni volta che ne ha bisogno. Sono sue, dopotutto.
+Alcune persone preferiscono app che sincronizzano ovunque. Per passaporti e documenti d'identità, ho voluto un modello più semplice: il tuo telefono è l'archivio. Puoi esportare le tue copie ogni volta che ne hai bisogno. Sono tue, dopotutto.
 
 ## Perché pagare una volta invece di abbonarsi
 
-Un archivio per i documenti di viaggio è qualcosa che si configura una volta e poi si dimentica. Rimane lì tranquillo a tracciare le date di scadenza finché non ne ha effettivamente bisogno. Questo è il senso.
+Un archivio per i documenti di viaggio lo configuri una volta e poi te ne dimentichi. Resta lì tranquillo a tracciare le date di scadenza finché non ti serve davvero. È questo il senso.
 
-Un abbonamento non ha senso per questo. Se smettessi di pagare, dovrei esportare tutto, trovare un'altra app, migrare i documenti, ricostruire tutti i promemoria. E se mi dimenticassi di rinnovare? Perderei l'accesso esattamente quando ne ho più bisogno, fermo al check-in a rendermi conto che il passaporto di mio figlio scade tra quattro mesi e non riesco a raggiungere la scansione che avevo salvato.
+Un abbonamento qui non ha senso. Se smettessi di pagare, dovrei esportare tutto, trovare un'altra app, migrare i documenti, ricostruire tutti i promemoria. E se mi dimenticassi di rinnovare? Perderei l'accesso esattamente quando ne ho più bisogno, fermo al check-in a rendermi conto che il passaporto di mio figlio scade tra quattro mesi e non riesco a raggiungere la scansione che avevo salvato.
 
 I documenti e i promemoria salvati funzionano nella versione gratuita. Pro aggiunge profili e documenti illimitati con un acquisto una tantum, quindi non c’è un abbonamento da rinnovare.
 
-La versione gratuita offre un profilo, cinque documenti, rilevamento automatico delle date, promemoria e blocco con PIN. Pro sblocca profili e documenti illimitati con un unico pagamento. Si paga una volta, tutti gli aggiornamenti v1.x inclusi, per sempre. Tutto qui.
+La versione gratuita offre un profilo, cinque documenti, rilevamento automatico delle date, promemoria e blocco con PIN. Pro sblocca profili e documenti illimitati con un unico pagamento. Paghi una volta, con tutti gli aggiornamenti v1.x inclusi, per sempre. Tutto qui.
 
 [Informazioni sulla nostra politica delle versioni →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -106,9 +106,9 @@ La versione gratuita offre un profilo, cinque documenti, rilevamento automatico 
 
 Ho creato Travel Document Vault perché non volevo più essere il genitore ansioso al gate.
 
-Volevo indicare gli aerei ai miei figli, non passare da un'app all'altra alla ricerca del documento giusto. Volevo sapere, sapere davvero, non solo sperare, che tutto fosse sistemato prima di uscire di casa.
+Volevo indicare gli aerei ai miei figli, non saltare da un'app all'altra a caccia del documento giusto. Volevo sapere, sapere davvero e non solo sperare, che fosse tutto a posto prima di uscire di casa.
 
-Se è Lei la persona in famiglia che controlla tutto due volte, tiene la cartella, si preoccupa in silenzio perché gli altri non devono farlo, questa è la storia del fondatore dietro l'app che ho creato per Lei.
+Se in famiglia sei tu quello che controlla tutto due volte, tiene la cartella e si preoccupa in silenzio così gli altri non devono farlo, questa è la storia del fondatore dietro l'app che ho creato per te.
 
 **Una cosa in meno di cui preoccuparsi.**
 

@@ -10,21 +10,21 @@ Source: https://traveldocumentvault.com/it/blog/how-to-organise-family-travel-do
 
 ## Punti chiave
 
-- L'elenco di controllo dei documenti di viaggio in famiglia ha bisogno di passaporti, visti, assicurazione viaggio e certificati di vaccinazione, senza contare i documenti specifici quando si viaggia con bambini.
-- Conserva tutti i passaporti in un unico luogo dedicato a casa. Non nel cassetto dei vari, non nella tasca di un cappotto. In un unico posto, sempre.
-- Le copie digitali non ti faranno passare l'immigrazione, ma ti salveranno ore all'ambasciata se qualcosa si perde. Conservale crittografate, non nel tuo rullino fotografico.
-- Monitorare le date di scadenza prima di prenotare — non la settimana prima di volare — è l'unica abitudine che previene la maggior parte dei disastri legati ai documenti di viaggio.
-- Un elenco di controllo pre-viaggio che esegui al momento della prenotazione ti dà abbastanza tempo per risolvere qualsiasi problema prima che diventino costosi.
+- Per la famiglia servono passaporti, visti, assicurazione viaggio e certificati di vaccinazione, più i documenti in più se viaggi con bambini.
+- Tieni tutti i passaporti in un solo posto, a casa. Non nel cassetto dei "vari", non nella tasca di un cappotto. Sempre lo stesso posto.
+- Le copie digitali non ti fanno passare l'immigrazione, ma ti fanno risparmiare ore in ambasciata se qualcosa si perde. Tienile crittografate, non nel rullino fotografico.
+- Controllare le scadenze prima di prenotare, non la settimana prima di partire, è l'abitudine che evita la maggior parte dei guai con i documenti.
+- Una lista da ripassare quando prenoti ti lascia il tempo di risolvere ogni problema prima che diventi costoso.
 
-Sono le 23 la sera prima di un volo e i passaporti sono fuori, la ricevuta di assicurazione è da qualche parte, ma il certificato di vaccinazione — quello che la destinazione richiede effettivamente — è scomparso in casa. Questo è il problema quando non hai un sistema per i documenti di viaggio in famiglia: fai una ricerca diversa ogni volta e alla fine qualcosa di importante non si trova.
+Sono le 23 la sera prima di un volo e i passaporti sono fuori, la ricevuta di assicurazione è da qualche parte, ma il certificato di vaccinazione — quello che la destinazione richiede effettivamente — è scomparso in casa. Succede quando non hai un sistema per i documenti di viaggio della famiglia: ogni volta cerchi in un posto diverso e prima o poi qualcosa di importante non si trova.
 
-Sapere come organizzare i documenti di viaggio per tutta una famiglia è una di quelle cose che sembra facoltativa finché non diventa assolutamente necessaria. Questa guida ti mostra come configurarlo una volta e smettere di affannarti prima di ogni viaggio.
+Organizzare i documenti di viaggio di tutta la famiglia sembra una cosa facoltativa, finché non diventa indispensabile. Qui vediamo come sistemarla una volta sola, così prima di ogni viaggio non devi più correre.
 
-Questa guida copre l'intero sistema; per approfondire un aspetto specifico, come i tempi di rinnovo del passaporto o l'archiviazione digitale, vai ai [suggerimenti sui documenti di viaggio](https://traveldocumentvault.com/it/blog/) sul blog.
+Questa guida copre tutto il sistema. Se vuoi approfondire un aspetto, come i tempi di rinnovo del passaporto o l'archiviazione digitale, vai ai [suggerimenti sui documenti di viaggio](https://traveldocumentvault.com/it/blog/) sul blog.
 
 ## Elenco di controllo dei documenti di viaggio in famiglia: di quali documenti ha davvero bisogno una famiglia?
 
-Dipende da dove stai andando, ma per la maggior parte dei viaggi internazionali in famiglia l'elenco è più lungo di quanto le persone si aspettino. Ecco l'elenco di controllo fondamentale dei documenti di viaggio per le famiglie, a partire dai documenti di identità che servono a tutti:
+Dipende da dove vai, ma per la maggior parte dei viaggi internazionali in famiglia l'elenco è più lungo di quanto ci si aspetti. Ecco la lista base, a partire dai documenti di identità che servono a tutti:
 
 - Passaporti per ogni membro della famiglia (verifica la validità rispetto alle regole d’ingresso della destinazione molto prima di prenotare; noi inizieremmo tre mesi prima)
 - Visti, se richiesti dal paese di destinazione
@@ -45,11 +45,11 @@ Dipende da dove stai andando, ma per la maggior parte dei viaggi internazionali 
 
 ### Lettera di consenso al viaggio del minore: quando è necessaria
 
-Una lettera di consenso al viaggio del minore è un documento firmato dal genitore assente (o tutore legale) che autorizza il bambino a viaggiare. Generalmente non è un obbligo di legge, ma gli agenti di frontiera di alcuni paesi, tra cui il [Canada](https://travel.gc.ca/travelling/children/consent-letter), possono chiedere la prova che entrambi i genitori acconsentano al viaggio quando un bambino viaggia con un solo genitore o con un altro adulto. È facile da portare e può risparmiarti domande alla frontiera.
+La lettera di consenso al viaggio del minore è un documento firmato dal genitore assente (o dal tutore legale) che autorizza il bambino a viaggiare. Generalmente non è un obbligo di legge, ma gli agenti di frontiera di alcuni paesi, tra cui il [Canada](https://travel.gc.ca/travelling/children/consent-letter), possono chiedere la prova che entrambi i genitori siano d'accordo, quando un bambino viaggia con un solo genitore o con un altro adulto. Pesa poco in valigia e può risparmiarti domande alla frontiera.
 
 Il Sudafrica ha regole proprie sui viaggi con bambini, tra cui il certificato di nascita integrale: controlla le indicazioni del suo Ministero dell’Interno prima di partire.
 
-Una lettera di consenso valida dovrebbe includere: il nome completo e la data di nascita del bambino, i nomi e i dati di contatto di entrambi i genitori, i dati del genitore che viaggia, le destinazioni e le date di viaggio e la firma del genitore assente (le copie autenticate da notaio sono più convincenti, anche se non sempre richieste). Conserva una copia sia digitale che fisica.
+Una lettera di consenso valida dovrebbe contenere: il nome completo e la data di nascita del bambino, i nomi e i dati di contatto di entrambi i genitori, i dati del genitore che viaggia, le destinazioni e le date di viaggio e la firma del genitore assente (le copie autenticate da notaio sono più convincenti, anche se non sempre richieste). Conserva una copia sia digitale che fisica.
 
 **Altri documenti utili da avere a portata di mano**
 
@@ -63,45 +63,45 @@ Una lettera di consenso valida dovrebbe includere: il nome completo e la data di
 
 I documenti originali vivono in un unico posto, e quel posto esiste solo per i documenti di viaggio. Non un cassetto "vari documenti importanti" dove competono con vecchie bollette.
 
-Un portafoglio dedicato ai documenti di viaggio o una borsa — il tipo che contiene più passaporti insieme a documenti A4 piegati — fa il lavoro bene; etichettalo e conservalo da qualche parte coerente: uno scaffale specifico, un cassetto della scrivania di casa o una cassaforte ignifuga se vuoi la sicurezza extra.
+Va bene un portadocumenti da viaggio o una busta, abbastanza grande per più passaporti e fogli A4 piegati. Etichettalo e tienilo sempre nello stesso posto: un ripiano preciso, un cassetto della scrivania o una cassaforte ignifuga, se vuoi più sicurezza.
 
-La disciplina che fa o rompe qualsiasi sistema è **rimettere i documenti immediatamente dopo l'uso**.
+Ciò che fa funzionare (o fallire) qualsiasi sistema è **rimettere i documenti a posto subito dopo l'uso**.
 
-I documenti non scompaiono a causa di furti ma perché qualcuno ne ha usato uno, l'ha messo da parte in modo temporaneo ed è stato sepolto. "Lo rimetto dopo" è come finisci a cercare in casa alle 23 la notte.
+I documenti raramente spariscono per un furto. Di solito qualcuno ne usa uno, lo posa lì per un attimo e finisce sotto altre cose. "Lo rimetto dopo" è il modo in cui ti ritrovi a cercare in casa alle 23.
 
-Se i tuoi bambini sono abbastanza grandi da portare il loro passaporto attraverso l'aeroporto, stabilisci una regola chiara: i passaporti tornano direttamente a un genitore dopo l'uso, non in uno zaino o in una tasca del cappotto.
+Se i tuoi figli sono abbastanza grandi da portare il proprio passaporto in aeroporto, dai una regola chiara: dopo l'uso il passaporto torna subito a un genitore, non in uno zaino o nella tasca di un cappotto.
 
 ## Copie digitali: cosa archiviare e come conservarle in sicurezza
 
-Le copie digitali non ti faranno passare l'immigrazione. Un agente al confine vuole l'originale, punto. Ma un backup digitale sicuro è veramente prezioso se il tuo originale si perde o viene rubato mentre sei all'estero.
+Le copie digitali non ti faranno passare l'immigrazione. Un agente al confine vuole l'originale, punto. Ma un backup digitale sicuro è molto utile se l'originale si perde o ti viene rubato mentre sei all'estero.
 
-Quando qualcosa si perde, avere il numero del documento, la data di scadenza e una scansione chiara a portata di mano taglia ore dal processo di presentazione di un rapporto alla polizia o di ottenere un documento di viaggio di emergenza da un'ambasciata. Una scansione di backup non è paranoico — è solo sensato.
+Se perdi un documento, avere a portata di mano il numero, la data di scadenza e una scansione chiara ti fa risparmiare ore, sia per fare la denuncia alla polizia sia per ottenere un documento di viaggio d'emergenza in ambasciata. Una scansione di backup non è paranoia, è buon senso.
 
-Il luogo in cui conservi le scansioni è più importante di quanto la maggior parte delle persone si renda conto. Una libreria fotografica generale — Google Foto, iCloud, il tuo rullino fotografico — è conveniente ma non è progettata per documenti sensibili. Se qualcuno accede alla tua libreria fotografica, accede anche alle tue scansioni di passaporto. Una soluzione crittografata dedicata vale la pena.
+Dove tieni le scansioni conta più di quanto si pensi. Una libreria fotografica generica (Google Foto, iCloud, il rullino del telefono) è comoda, ma non è fatta per documenti sensibili. Se qualcuno entra nella tua libreria, entra anche nelle scansioni del passaporto. Meglio uno spazio crittografato dedicato.
 
 Cosa significa nella pratica
 
-Se il tuo telefono viene rubato e il ladro accede alla tua libreria fotografica, ha una scansione chiara della pagina dati del tuo passaporto: il tuo nome, la data di nascita, il numero del passaporto e la tua foto. È sufficiente per il furto di identità. Conservare le scansioni del passaporto in un'app crittografata che richiede un PIN separato o un'autenticazione biometrica è significativamente più sicuro rispetto a una libreria fotografica, anche se entrambi sono sullo stesso dispositivo.
+Se ti rubano il telefono e il ladro apre la tua libreria fotografica, trova una scansione nitida della pagina dati del tuo passaporto: nome, data di nascita, numero del passaporto e foto. Basta per un furto d'identità. Tenere le scansioni in un'app crittografata, che chiede un PIN a parte o l'autenticazione biometrica, è molto più sicuro di una libreria fotografica, anche se entrambe stanno sullo stesso telefono.
 
-[Travel Document Vault](https://traveldocumentvault.com) conserva i tuoi documenti crittografati sul dispositivo e tiene traccia delle date di scadenza salvate. Puoi condividere o esportare copie. Pro aggiunge i profili familiari e il backup crittografato facoltativo sul tuo iCloud o Google Drive. Se preferisci farlo da solo, una cartella crittografata in un gestore password affidabile funziona ugualmente — non ti ricorderà semplicemente quando qualcosa sta per scadere.
+[Travel Document Vault](https://traveldocumentvault.com) conserva i tuoi documenti crittografati sul dispositivo e tiene traccia delle date di scadenza che salvi. Puoi condividere o esportare le copie. Pro aggiunge i profili familiari e il backup crittografato facoltativo sul tuo iCloud o Google Drive. Se preferisci fare da solo, va bene anche una cartella crittografata in un gestore di password affidabile, ma non ti avvisa quando qualcosa sta per scadere.
 
 ## Monitorare le date di scadenza: la parte più trascurata
 
-La maggior parte dello stress legato ai documenti di viaggio non viene dal non avere i documenti. Viene dal non conoscere il loro stato attuale. Un passaporto che scade tra sette mesi sembra perfettamente bene seduto su uno scaffale. Diventa un problema la settimana in cui provi a prenotare un viaggio in Tailandia.
+Quasi tutto lo stress sui documenti di viaggio non nasce dal non averli, ma dal non sapere in che stato sono. Un passaporto che scade tra sette mesi sembra a posto, sul suo scaffale. Diventa un problema la settimana in cui provi a prenotare un viaggio in Tailandia.
 
-Ecco il modello di fallimento che cattura le famiglie: rinnovi il tuo passaporto, aggiorni il tuo promemoria del calendario e dimentichi completamente che il passaporto del tuo bambino più piccolo scade otto mesi dopo. Nessun allarme suona, prenoti voli e un anno dopo sei al controllo quando l'agente lo evidenzia.
+Ecco come ci si fa cogliere impreparati in famiglia: rinnovi il tuo passaporto, aggiorni il promemoria sul calendario e ti dimentichi che quello del più piccolo scade otto mesi dopo. Nessun allarme suona, prenoti i voli e un anno dopo sei al controllo, e l'agente se ne accorge al posto tuo.
 
-**Il monitoraggio delle scadenze deve essere un sistema, non un esercizio di memoria.** Hai un paio di opzioni:
+**Tenere d'occhio le scadenze deve essere un sistema, non un esercizio di memoria.** Hai alcune opzioni:
 
-- **Promemoria del calendario:** Impostane uno 12 mesi prima di ogni scadenza del documento e un altro a 6 mesi. Dovrai ricordare di aggiornare questi quando i documenti vengono rinnovati e hai bisogno che le date di scadenza siano accessibili in primo luogo.
-- **Foglio di calcolo:** Funziona bene se lo manterrai effettivamente. Una riga per documento per persona, la data di scadenza e una formula che evidenzia tutto ciò che scade entro 12 mesi.
+- **Promemoria del calendario:** Impostane uno 12 mesi prima di ogni scadenza e un altro a 6 mesi. Dovrai ricordarti di aggiornarli quando rinnovi un documento, e servono date di scadenza facili da ritrovare.
+- **Foglio di calcolo:** Funziona bene, se lo aggiorni davvero. Una riga per ogni documento di ogni persona, la data di scadenza e una formula che evidenzia tutto ciò che scade entro 12 mesi.
 - **App dedicata:** Travel Document Vault programma promemoria per i passaporti a partire da otto mesi prima della scadenza, con avvisi a intervalli più ravvicinati. Scansiona un passaporto e conferma o inserisci la data di scadenza; scegli tu se attivare i promemoria.
 
-Uno qualsiasi di questi tre approcci funziona, ma noi useremmo di default quello che manda il promemoria in automatico, perché un foglio di calcolo serve solo se ti ricordi di aprirlo. Ciò che conta di più è sceglierne uno che si adatti al tuo modo di operare e rispettarlo davvero.
+Tutti e tre vanno bene, ma noi sceglieremmo quello che manda il promemoria in automatico, perché un foglio di calcolo serve solo se ti ricordi di aprirlo. Quello che conta è sceglierne uno adatto a te e usarlo davvero.
 
 ## Elenco di controllo dei documenti pre-viaggio per le famiglie
 
-Esegui questo elenco quando prenoti, non la notte prima di partire. È quello che ti dà abbastanza tempo per risolvere qualsiasi cosa che ha bisogno di risolvimento.
+Ripassa questa lista quando prenoti, non la notte prima di partire. Così hai tempo per sistemare tutto quello che c'è da sistemare.
 
 ### Al momento della prenotazione
 
@@ -112,19 +112,19 @@ Esegui questo elenco quando prenoti, non la notte prima di partire. È quello ch
 
 ### Un mese prima
 
-- Conferma che i passaporti sono nella borsa dei documenti di viaggio
+- Controlla che i passaporti siano nel portadocumenti da viaggio
 - Stampa o scarica le conferme di prenotazione
-- Verifica che i documenti di assicurazione viaggio siano aggiornati e accessibili
+- Controlla che i documenti dell'assicurazione viaggio siano aggiornati e facili da trovare
 - Prepara una lettera di consenso parentale se viaggi senza entrambi i genitori
 
 ### La notte prima della partenza
 
-- Passaporti fuori e conteggiati — uno a persona
-- Certificato di assicurazione viaggio nella tua borsa o telefono
+- Passaporti fuori e contati: uno a persona
+- Certificato di assicurazione viaggio in borsa o sul telefono
 - Carte d'imbarco scaricate o stampate
-- Qualsiasi certificato di vaccinazione richiesto accessibile
+- Eventuali certificati di vaccinazione richiesti a portata di mano
 
-Se non l'hai ancora fatto, scegli il posto in cui vivranno i passaporti e imposta oggi un promemoria di scadenza per il documento che scade per primo.
+Se non l'hai ancora fatto, scegli dove tenere i passaporti e imposta oggi un promemoria per il documento che scade per primo.
 
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 
@@ -150,11 +150,11 @@ Conserva tutti i passaporti insieme in un portafoglio dedicato ai documenti di v
 
 ### Quanto tempo prima devo verificare i documenti di viaggio?
 
-Verifica prima di prenotare i voli e almeno tre mesi prima di viaggiare. I rinnovi dei passaporti impiegano diverse settimane — attualmente 4-6 settimane di routine negli USA e solitamente circa 3 settimane nel Regno Unito — quindi lasciare che passa fino a quando sei vicino alla data di partenza è un rischio che non conviene correre. Verifica i tempi ufficiali presso l'ufficio passaporti ufficiale del tuo paese. Verificare al momento della prenotazione è l'abitudine più sicura da sviluppare.
+Controlla prima di prenotare i voli e almeno tre mesi prima di partire. I rinnovi dei passaporti impiegano diverse settimane — attualmente 4-6 settimane di routine negli USA e solitamente circa 3 settimane nel Regno Unito — quindi aspettare di essere vicino alla partenza è un rischio che non conviene correre. Controlla i tempi ufficiali presso l'ufficio passaporti del tuo paese. Verificare al momento della prenotazione è l'abitudine più sicura.
 
 ### Ho bisogno di una lettera di consenso quando viaggio da solo con il mio bambino?
 
-Potrebbe non essere legalmente richiesto, ma è fortemente consigliato. Gli agenti di frontiera di alcuni paesi, come il Canada, possono chiedere una lettera di consenso al viaggio del minore quando un bambino viaggia con un solo genitore. Senza una lettera potresti dover rispondere a domande aggiuntive. La lettera dovrebbe includere i dati del bambino, le informazioni di contatto di entrambi i genitori, le date e le destinazioni del viaggio e la firma del genitore assente — se possibile autenticata da notaio.
+Potrebbe non essere obbligatoria per legge, ma è fortemente consigliata. Gli agenti di frontiera di alcuni paesi, come il Canada, possono chiedere una lettera di consenso al viaggio del minore quando un bambino viaggia con un solo genitore. Senza una lettera potresti dover rispondere a domande aggiuntive. La lettera dovrebbe contenere i dati del bambino, le informazioni di contatto di entrambi i genitori, le date e le destinazioni del viaggio e la firma del genitore assente — se possibile autenticata da notaio.
 
 ## Articoli correlati
 

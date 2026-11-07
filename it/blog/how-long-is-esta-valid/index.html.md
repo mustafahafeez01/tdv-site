@@ -17,19 +17,19 @@ Source: https://traveldocumentvault.com/it/blog/how-long-is-esta-valid/
 - **Ogni viaggiatore ha bisogno del proprio ESTA**, compresi i bambini di qualsiasi età e i neonati senza biglietto proprio.
 - La tariffa è salita da US $40.27 a US $40.62 il 16 ottobre 2026. Chi ha già un ESTA approvato non deve richiederlo di nuovo.
 
-Un ESTA dura generalmente due anni dal giorno dell'approvazione, oppure fino alla scadenza del passaporto a cui è collegato, a seconda di cosa avviene prima. Se ne hai già uno, l'aumento della tariffa del 16 ottobre 2026 non lo riguarda, e pagherai il nuovo importo solo alla prossima domanda. La cosa che faremmo oggi è controllare la data di scadenza di ogni ESTA della famiglia, perché l'orologio di ciascuno corre per conto proprio.
+Un ESTA dura generalmente due anni dal giorno dell'approvazione, oppure fino alla scadenza del passaporto a cui è collegato, a seconda di cosa avviene prima. Se ne hai già uno, l'aumento della tariffa del 16 ottobre 2026 non lo riguarda, e pagherai il nuovo importo solo alla prossima domanda. Oggi controlleremmo la data di scadenza di ogni ESTA della famiglia, perché la scadenza di ciascuno corre per conto suo.
 
-## Il tuo ESTA finisce a due anni o quando finisce il passaporto
+## Il tuo ESTA scade dopo due anni o quando scade il passaporto
 
 [US Customs and Border Protection (CBP)](https://www.cbp.gov/travel/international-visitors/esta/frequently-asked-questions-about-visa-waiver-program-vwp-and-electronic-system-travel) stabilisce la regola: un ESTA approvato è generalmente valido per due anni dalla data di autorizzazione, oppure fino alla scadenza del passaporto, a seconda di cosa avviene prima. Un passaporto con 14 mesi di validità residua dà quindi un ESTA con 14 mesi di validità. La schermata di approvazione mostra la data di scadenza esatta, così non devi calcolarla da solo.
 
 ![Diagramma di quando un ESTA cessa di essere valido: finisce dopo 2 anni o quando scade il passaporto, a seconda di cosa avviene prima. Serve a ciascuno il proprio, anche neonati e bambini, ognuno sul proprio passaporto. Un nuovo passaporto, nome o cittadinanza significa richiederlo di nuovo](https://traveldocumentvault.com/blog/how-long-is-esta-valid/esta-clock-it.jpg) Un orologio per ogni viaggiatore, che non supera mai il passaporto.
 
-La CBP invia anche un'email all'indirizzo indicato nella domanda quando il tuo ESTA sta per scadere nei successivi 30 giorni. Non ci baseremmo solo su quell'email: può finire nello spam o in una casella che non controlli più, quindi annota la data da qualche parte dove la vedrai al momento di prenotare.
+La CBP invia anche un'email all'indirizzo indicato nella domanda quando il tuo ESTA scade entro 30 giorni. Non ci baseremmo solo su quell'email: può finire nello spam o in una casella che non controlli più, quindi annota la data da qualche parte dove la vedrai al momento di prenotare.
 
 All'interno di quei due anni, un solo ESTA copre tutti i viaggi che vuoi. Ogni soggiorno nell'ambito del programma di esenzione dal visto ([Visa Waiver Program](https://www.cbp.gov/travel/international-visitors/visa-waiver-program)) resta comunque limitato a 90 giorni o meno, e la CBP chiarisce che un'approvazione di due anni non significa un soggiorno di due anni.
 
-L'unica eccezione è il Brunei, per cui la CBP ha ridotto a un anno il periodo di validità per i suoi cittadini e nazionali.
+L'unica eccezione è il Brunei: per i suoi cittadini e nazionali la CBP ha ridotto la validità a un anno.
 
 ## Deve essere valido solo il giorno in cui atterri
 
@@ -43,14 +43,14 @@ Non esiste la proroga. La CBP afferma che le autorizzazioni esistenti non posson
 
 [La CBP consiglia di fare domanda quando prenoti il viaggio](https://www.cbp.gov/newsroom/national-media-release/cbp-reminds-travelers-allow-72-hours-esta), ed è un'abitudine che vale la pena mantenere. Se il tuo ESTA scade poche settimane prima di un viaggio, fai domanda il giorno in cui prenoti il viaggio, non la settimana in cui parti.
 
-## Quattro cambiamenti significano un nuovo ESTA
+## Se cambia una di queste quattro cose, serve un nuovo ESTA
 
 La CBP elenca quattro situazioni in cui serve una nuova autorizzazione di viaggio:
 
 - **Un nuovo passaporto.** La CBP afferma che un nuovo passaporto, o qualsiasi modifica ai dati del passaporto, comporta una nuova domanda. Il nostro articolo su come [rinnovare il passaporto prima della scadenza](https://traveldocumentvault.com/it/blog/renew-passport-before-expiry/) spiega cos'altro cambia con un nuovo numero di passaporto.
 - **Un cambio di nome.**
 - **Un cambio di paese di cittadinanza.**
-- **Una risposta cambiata** a una delle domande di idoneità sì/no della domanda.
+- **Una risposta diversa** a una delle domande di idoneità sì/no della domanda.
 
 Una volta approvata la domanda, la CBP consente di aggiornare solo due cose: l'indirizzo email e l'indirizzo negli Stati Uniti. Qualsiasi altro dato errato o non aggiornato richiede una nuova domanda, quindi controlla ogni campo prima di pagare.
 
@@ -133,6 +133,6 @@ Dal 16 ottobre 2026 la tariffa è di US $40.62, in aumento da US $40.27, secondo
 
 [Rinnovo7 min di lettura · ottobre 2026Puoi rinnovare il passaporto prima che scada?](https://traveldocumentvault.com/it/blog/renew-passport-before-expiry/)
 
-[Regole sul passaporto8 min di lettura · febbraio 2026Regola dei 6 Mesi del Passaporto: Potete Viaggiare con Meno di 6 Mesi di Validità?](https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/)
+[Regole sul passaporto8 min di lettura · febbraio 2026Regola dei 6 Mesi del Passaporto: Puoi Viaggiare con Meno di 6 Mesi di Validità?](https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/)
 
 [Regole sul passaporto6 min di lettura · settembre 2026ETA del Regno Unito: a quale passaporto è legata la tua?](https://traveldocumentvault.com/it/blog/uk-eta-passport-rules/)

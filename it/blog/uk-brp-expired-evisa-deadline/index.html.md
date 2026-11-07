@@ -36,9 +36,9 @@ Configureremmo l'account di ogni membro della famiglia questa settimana, inizian
 
 GOV.UK elenca esattamente cosa può ancora fare la carta. Puoi usarla per accedere e visualizzare il tuo eVisa e ottenere un codice di condivisione (share code), per creare un account UKVI e raggiungere così il tuo eVisa, oppure per richiedere un'estensione del tuo permesso di soggiorno nel Regno Unito. Nessuno di questi usi riguarda l'attraversamento di una frontiera.
 
-Il terzo uso è facile da trascurare. Se il tuo permesso di soggiorno si avvicina al momento dell'estensione, la carta scaduta può ancora avere un ruolo in quella domanda mentre la sua finestra è aperta, il che è un motivo in più per conoscere la tua data. Per viaggiare, GOV.UK fa riferimento al tuo eVisa e al passaporto collegato, di cui parliamo più avanti.
+Il terzo uso è facile da trascurare. Se il tuo permesso di soggiorno si avvicina al momento dell'estensione, la carta scaduta può ancora avere un ruolo in quella domanda finché la sua finestra è aperta, il che è un motivo in più per conoscere la tua data. Per viaggiare, GOV.UK fa riferimento al tuo eVisa e al passaporto collegato, di cui parliamo più avanti.
 
-Una volta dentro, l'account è il modo in cui dimostri il tuo status giorno per giorno. [GOV.UK](https://www.gov.uk/evisa/view-evisa-get-share-code-prove-immigration-status) dice che puoi visualizzare il tuo eVisa e ottenere un codice di condivisione per dimostrare il tuo status di immigrazione, per esempio quando inizi un nuovo lavoro o affitti una casa. L'eVisa mostra anche le condizioni del tuo status, come se puoi lavorare o studiare. Vale la pena darci un'occhiata anche senza nessun viaggio in programma.
+Una volta dentro, l'account è il modo in cui dimostri il tuo status giorno per giorno. [GOV.UK](https://www.gov.uk/evisa/view-evisa-get-share-code-prove-immigration-status) dice che puoi visualizzare il tuo eVisa e ottenere un codice di condivisione per dimostrare il tuo status di immigrazione, per esempio quando inizi un nuovo lavoro o affitti una casa. L'eVisa mostra anche le condizioni del tuo status, come se puoi lavorare o studiare. Vale la pena darci un'occhiata anche se non hai viaggi in programma.
 
 ## Anche un passaporto e un numero di riferimento aprono un account UKVI
 
@@ -58,11 +58,11 @@ Quando tuo figlio compie 18 anni, i dati dell'account dovrebbero passare al suo 
 
 ## Per viaggiare, il passaporto con cui voli deve essere nel tuo account UKVI
 
-[GOV.UK](https://www.gov.uk/evisa/travel-with-evisa) è chiaro su questo punto: devi viaggiare con un passaporto o documento di viaggio valido che hai aggiunto al tuo account UKVI. Il tuo eVisa viene controllato quando lasci ed entri nel Regno Unito, da un agente di frontiera o agli eGates, e quando fai il check-in con il vettore per rientrare nel Regno Unito. Questi controlli consultano il tuo eVisa tramite il passaporto nel tuo account. Se i dati nel tuo account non corrispondono esattamente alle informazioni sul passeggero che hai fornito al vettore, questo potrebbe non farti viaggiare, e potresti anche essere fermato alla frontiera del Regno Unito.
+[GOV.UK](https://www.gov.uk/evisa/travel-with-evisa) è chiaro su questo punto: devi viaggiare con un passaporto o documento di viaggio valido che hai aggiunto al tuo account UKVI. Il tuo eVisa viene controllato quando lasci ed entri nel Regno Unito, da un agente di frontiera o agli eGates, e quando fai il check-in con il vettore per rientrare nel Regno Unito. Questi controlli consultano il tuo eVisa tramite il passaporto nel tuo account. Se i dati nel tuo account non corrispondono esattamente alle informazioni sul passeggero che hai fornito al vettore, il vettore potrebbe non farti viaggiare, e potresti anche essere fermato alla frontiera del Regno Unito.
 
-Prima di un viaggio, accedi, conferma che il passaporto nell'account sia quello con cui viaggerai, e ottieni un codice di condivisione. Un codice dura 90 giorni e può essere usato più di una volta, e una compagnia aerea o un agente di frontiera potrebbe chiedere di vederlo. Noi lo otterremmo prima di prenotare, non in fila all'aeroporto.
+Prima di un viaggio, accedi, conferma che il passaporto nell'account sia quello con cui viaggerai, e ottieni un codice di condivisione. Un codice dura 90 giorni e può essere usato più di una volta, e una compagnia aerea o un agente di frontiera potrebbe chiederti di vederlo. Noi lo otterremmo prima di prenotare, non in fila all'aeroporto.
 
-Se hai due cittadinanze, pensa a quale passaporto userai davvero per prenotare. Se una delle due è britannica o irlandese, GOV.UK dice che non ti serve affatto un eVisa e puoi viaggiare con quel passaporto. Un account UKVI può contenere più di un passaporto, ma quello sulla tua prenotazione è quello che deve esserci. I viaggiatori frequenti che alternano i passaporti per viaggi diversi dovrebbero aggiungerli entrambi, e poi controllare l'account prima di ogni prenotazione invece che una volta all'anno.
+Se hai due cittadinanze, pensa a quale passaporto userai davvero per prenotare. Se una delle due è britannica o irlandese, GOV.UK dice che non ti serve affatto un eVisa e puoi viaggiare con quel passaporto. Un account UKVI può contenere più di un passaporto, ma quello sulla tua prenotazione è quello che deve esserci. Se alterni i passaporti da un viaggio all'altro, aggiungili entrambi e controlla l'account prima di ogni prenotazione, non una volta all'anno.
 
 ## Un passaporto rinnovato va aggiunto prima di viaggiare con esso
 
@@ -100,6 +100,6 @@ Un passaporto valido che hai aggiunto al tuo account UKVI, con dati che corrispo
 
 ## Articoli correlati
 
-[Rinnovo7 min di lettura · marzo 2026Potete viaggiare mentre il vostro passaporto viene rinnovato?](https://traveldocumentvault.com/it/blog/travel-while-passport-renewal-pending/)
+[Rinnovo7 min di lettura · marzo 2026Puoi viaggiare mentre il tuo passaporto viene rinnovato?](https://traveldocumentvault.com/it/blog/travel-while-passport-renewal-pending/)
 
-[Regole sul passaporto8 min di lettura · febbraio 2026Regola dei 6 Mesi del Passaporto: Potete Viaggiare con Meno di 6 Mesi di Validità?](https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/)
+[Regole sul passaporto8 min di lettura · febbraio 2026Regola dei 6 mesi del passaporto: puoi viaggiare con meno di 6 mesi di validità?](https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/)

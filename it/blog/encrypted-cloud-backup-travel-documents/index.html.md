@@ -12,25 +12,25 @@ Source: https://traveldocumentvault.com/it/blog/encrypted-cloud-backup-travel-do
 
 - **"Backup crittografato" ha senso solo quando sai chi ha la chiave.** Se l'azienda può leggere i tuoi documenti, la cifratura li protegge dagli estranei, non dall'azienda.
 - Un backup cifrato sul telefono prima del caricamento arriva nel cloud come dati illeggibili. Il fornitore di archiviazione conserva testo cifrato, non il tuo passaporto.
-- **Nessun account significa nessun reset della password.** Perdi il codice di recupero e l’accesso a tutti i dispositivi che possono ancora aprire il vault e non possiamo recuperare il backup crittografato. È lo scambio deliberato.
+- **Nessun account significa nessun reset della password.** Perdi il codice di recupero e l’accesso a tutti i dispositivi che possono ancora aprire il vault e non possiamo recuperare il backup crittografato. È un compromesso voluto.
 - Scrivi il codice prima di dipendere dal backup, tienilo lontano dal telefono, e rileggilo una volta per verificare che sia leggibile.
 - Un backup di sistema del dispositivo reinstalla l'app ma non può riportare indietro i tuoi documenti, perché i backup di sistema non trasferiscono la chiave di cifratura legata al dispositivo.
 
 Hai scansionato quattro passaporti, due visti e i certificati di nascita dei bambini in un'app che conserva tutto sul tuo telefono. Bene. Poi arriva la preoccupazione ovvia: cosa succede se il telefono finisce in mare, o viene sfilato da un tavolino di un caffè a Lisbona.
 
-La risposta è un backup. La parte scomoda è che quasi ogni app usa la frase "backup crittografato" e quasi nessuna intende la stessa cosa. Questo articolo spiega cosa significano davvero queste parole e cosa comporta quando un'azienda non può davvero leggere i tuoi dati. Si conclude con una breve routine per la settimana prima di un viaggio, così un telefono perso resta un fastidio invece di un disastro.
+La risposta è un backup. La parte scomoda è che quasi ogni app usa la frase "backup crittografato" e quasi nessuna intende la stessa cosa. Questo articolo spiega cosa significano davvero queste parole e cosa comporta quando un'azienda non può davvero leggere i tuoi dati. In fondo trovi una breve routine per la settimana prima di un viaggio, così un telefono perso resta un fastidio e non diventa un disastro.
 
 ## Cosa Significa Davvero "Backup Crittografato"
 
-La cifratura mescola un file in modo che solo una chiave corrispondente possa riportarlo a qualcosa di leggibile. Questo è lo standard. Ciò che decide se ti protegge davvero è dove avviene la cifratura e chi finisce per avere la chiave.
+La cifratura mescola un file in modo che solo una chiave corrispondente possa riportarlo a qualcosa di leggibile. Funziona così. Ciò che decide se ti protegge davvero è dove avviene la cifratura e chi finisce per avere la chiave.
 
 Due configurazioni vengono entrambe vendute come backup crittografato, ma si comportano in modo molto diverso.
 
 La prima invia il file al server dell'azienda tramite una connessione cifrata, poi lo conserva cifrato a riposo. Entrambe le affermazioni sono vere, ed entrambe suonano rassicuranti. Ma l'azienda continua ad avere la chiave, quindi è tecnicamente in grado di decifrare i tuoi documenti, per una funzionalità, una richiesta legale o un errore interno. La scansione del tuo passaporto è leggibile dall'altra parte.
 
-L'altra configurazione cifra il file sul tuo telefono prima ancora che venga inviato, usando una chiave derivata da qualcosa che solo tu possiedi. Ciò che arriva nello storage è un blocco di rumore, e nessuno dall'altra parte può leggerlo, perché nessuno dall'altra parte ha la chiave. Questo viene spesso descritto come cifratura [end-to-end](https://csrc.nist.gov/glossary/term/end_to_end_encryption), o zero-knowledge.
+L'altra configurazione cifra il file sul tuo telefono prima ancora che venga inviato, usando una chiave derivata da qualcosa che solo tu possiedi. Nello spazio di archiviazione arriva solo rumore, e nessuno dall'altra parte può leggerlo, perché nessuno dall'altra parte ha la chiave. Questo viene spesso descritto come cifratura [end-to-end](https://csrc.nist.gov/glossary/term/end_to_end_encryption), o zero-knowledge.
 
-Quindi la domanda da porsi a qualsiasi app è breve: **chi ha la chiave?** Tutto il resto del marketing discende da questa risposta.
+Quindi a qualsiasi app basta fare una domanda: **chi ha la chiave?** Tutto il resto dipende da questa risposta.
 
 ![Diagramma che confronta un backup foto, leggibile sul cloud perché l'azienda ha la chiave, e un backup cifrato, inutile senza la chiave che resta sul tuo telefono](https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/encrypted-backup-figure-it.jpg) Stesso cloud, risposta diversa. Il file sale in entrambi i casi; cambia solo chi può aprirlo.
 
@@ -40,7 +40,7 @@ Travel Document Vault non richiede un account per conservare documenti sul dispo
 
 La conseguenza è inevitabile. **Se perdi il codice di recupero e l’accesso a tutti i dispositivi che possono ancora aprire il vault, non possiamo recuperare il backup crittografato.** Non esiste un link per il reset, perché non esiste un account a cui collegarlo. Non esiste un ticket di assistenza che possa recuperarlo, perché non l'abbiamo mai avuto e non possiamo nemmeno iniziare a indovinarlo.
 
-Detta così suona dura, ed è meglio essere onesti piuttosto che nasconderla in una schermata delle impostazioni. È lo stesso scambio che fai con la chiave di casa: la serratura vale qualcosa solo perché nessun fabbro al mondo tiene una copia di riserva, ed è proprio per questo che perdere la tua è un problema tuo.
+Detta così suona dura, ma preferiamo dirlo chiaramente invece di nasconderlo in una schermata delle impostazioni. È lo stesso compromesso che accetti con la chiave di casa: la serratura vale qualcosa solo perché nessun fabbro al mondo tiene una copia di riserva, ed è proprio per questo che perdere la tua è un problema tuo.
 
 Un'azienda in grado di ripristinare i tuoi documenti dopo che hai dimenticato tutto è un'azienda che avrebbe potuto leggerli fin dall'inizio.
 
@@ -59,7 +59,7 @@ Una foto del passaporto in una normale libreria fotografica o in una cartella si
 
 Un vault cifrato sul dispositivo prima del caricamento arriva come testo cifrato. Chi riesce a violare l'account cloud trova un file che non può aprire. La protezione viaggia insieme al file, invece di dipendere dall'account in cui finisce.
 
-Ecco perché la versione onesta di "il cloud è sicuro" è: il cloud è un indirizzo di consegna, non un modello di sicurezza. Ciò che conta è lo stato del file nel momento in cui arriva. Se dovessimo scegliere un'impostazione di base, sceglieremmo quella che cifra il file prima che esca dal telefono. Il nostro [confronto dei principali posti in cui le persone conservano le scansioni del passaporto](https://traveldocumentvault.com/it/blog/safest-way-to-store-passport-digitally/) analizza i compromessi di ciascuno.
+Ecco perché la versione onesta di "il cloud è sicuro" è: il cloud è un indirizzo di consegna, non un modello di sicurezza. Ciò che conta è lo stato del file nel momento in cui arriva. Se dovessimo scegliere un'impostazione di base, sarebbe quella che cifra il file prima che esca dal telefono. Il nostro [confronto dei principali posti in cui le persone conservano le scansioni del passaporto](https://traveldocumentvault.com/it/blog/safest-way-to-store-passport-digitally/) analizza i compromessi di ciascuno.
 
 | Cosa esegui in backup | Stato all'arrivo | Chi può leggerlo | Se l'account viene violato |
 |---|---|---|---|
@@ -84,13 +84,13 @@ Installa l’app sul nuovo telefono e accedi allo stesso account iCloud o Google
 
 L'app controlla anche prima di scrivere. Se il backup cloud trova un backup creato con lo stesso codice di recupero, l’app chiede se unirlo ai dati locali o ricominciare da zero: un telefono nuovo non può sovrascrivere silenziosamente ciò che è già presente. Ricominciare da zero lascia intatto l’altro backup.
 
-### Passare da iPhone ad Android (e Viceversa) Significa Usare l’Esportazione del Caveau
+### Passare da iPhone ad Android (e Viceversa) Significa Usare l’Esportazione del Vault
 
 Il backup cloud resta su un'unica piattaforma, perché usa il tuo iCloud personale sui dispositivi Apple e il tuo Google Drive personale su Android. Per passare dall'uno all'altro serve l'altra strada.
 
-Usa l’esportazione del caveau. Impostazioni, Esporta vault produce un unico file protetto da password che contiene tutto, e scegli tu dove farlo finire: l'app File, un drive, un'email a te stesso. Sul nuovo telefono, Impostazioni, Importa backup lo rilegge. Funziona in entrambe le direzioni e mantiene nomi, date, promemoria, colori, note e allegati come erano.
+Usa l’esportazione del vault. Impostazioni, Esporta vault produce un unico file protetto da password che contiene tutto, e scegli tu dove farlo finire: l'app File, un drive, un'email a te stesso. Sul nuovo telefono, Impostazioni, Importa backup lo rilegge. Funziona in entrambe le direzioni e mantiene nomi, date, promemoria, colori, note e allegati come erano.
 
-L’esportazione del caveau è gratuita. In Impostazioni, Esporta vault crea un file protetto da password con profili, documenti, viaggi, impostazioni supportate e allegati leggibili. Scegli dove salvarlo: l’app File, un drive o un’email a te stesso. Sul nuovo telefono, Impostazioni, Importa backup lo rilegge e sostituisce i dati già presenti. Supporta entrambe le piattaforme. Controlla documenti, note e allegati importati, ricontrolla i promemoria e conserva il file esportato originale. Le notifiche vengono ricreate sul dispositivo di destinazione.
+L’esportazione del vault è gratuita. In Impostazioni, Esporta vault crea un file protetto da password con profili, documenti, viaggi, impostazioni supportate e allegati leggibili. Scegli dove salvarlo: l’app File, un drive o un’email a te stesso. Sul nuovo telefono, Impostazioni, Importa backup lo rilegge e sostituisce i dati già presenti. Supporta entrambe le piattaforme. Controlla documenti, note e allegati importati, ricontrolla i promemoria e conserva il file esportato originale. Le notifiche vengono ricreate sul dispositivo di destinazione.
 
 ## Una Routine di Backup Che Sopravvive a un Telefono Perso
 
@@ -102,7 +102,7 @@ Venti minuti, una volta sola, prima del prossimo viaggio:
 - Esporta il vault una volta e salva il file in un posto che controlli, come alternativa che non dipende da nessun account cloud.
 - Controlla che l'app mostri un backup recente prima di partire, allo stesso modo in cui controlli che i passaporti siano in valigia.
 
-Un'ultima nota sulle aspettative. Il backup è un livello di sicurezza, e non garantisce nulla: gli account cloud si bloccano, i codici si dimenticano, i servizi di archiviazione hanno le loro giornate storte. Per i documenti che contano davvero, tieni anche qualcosa di indipendente, che sia una copia stampata in un cassetto a casa o una seconda esportazione su un drive.
+Un'ultima nota sulle aspettative. Il backup è un livello di sicurezza, non una garanzia: gli account cloud si bloccano, i codici si dimenticano, i servizi di archiviazione hanno le loro giornate storte. Per i documenti che contano davvero, tieni anche qualcosa di indipendente, che sia una copia stampata in un cassetto a casa o una seconda esportazione su un drive.
 
 Niente di tutto questo è drammatico, ed è proprio questo il punto. Le famiglie che gestiscono bene un telefono rubato all'estero non sono quasi mai quelle che hanno reagito in modo brillante. Sono quelle che hanno passato venti minuti banali al tavolo della cucina due settimane prima. Se non l'hai ancora fatto, attiva il backup oggi stesso e annota dove si trova il codice di recupero.
 
@@ -120,7 +120,7 @@ Significa che la copia viene cifrata sul tuo telefono prima ancora di essere inv
 
 ### Cosa succede se perdo la mia chiave di backup?
 
-Se perdi il codice di recupero e l’accesso a tutti i dispositivi che possono ancora aprire il vault, non possiamo recuperare il backup crittografato. Non esiste un account, non esiste un reset della password, e non esiste un canale di assistenza che possa recuperarlo, perché il codice di recupero non arriva mai fino a noi. È lo scambio deliberato per garantire che nessun altro possa leggere i tuoi documenti. Scrivi il codice prima di fare affidamento sul backup, conservalo in un posto separato dal telefono, e rileggilo una volta per verificare che tu riesca davvero a farlo.
+Se perdi il codice di recupero e l’accesso a tutti i dispositivi che possono ancora aprire il vault, non possiamo recuperare il backup crittografato. Non esiste un account, non esiste un reset della password, e non esiste un canale di assistenza che possa recuperarlo, perché il codice di recupero non arriva mai fino a noi. È un compromesso voluto: così nessun altro può leggere i tuoi documenti. Scrivi il codice prima di fare affidamento sul backup, conservalo in un posto separato dal telefono, e rileggilo una volta per essere sicuro che sia leggibile.
 
 ### Il backup cloud è sicuro per le scansioni del passaporto?
 
@@ -132,7 +132,7 @@ Sì, con Pro. Installa l’app sul nuovo telefono e accedi allo stesso account i
 
 ### Il backup funziona tra iPhone e Android?
 
-Il backup cloud resta su un’unica piattaforma: il tuo iCloud su iPhone e iPad o il tuo Google Drive su Android. Per passare da una all’altra, usa l’esportazione gratuita del caveau. In Impostazioni, Esporta vault crea un file .tdvault protetto da password che puoi inviarti. Sul nuovo telefono, Impostazioni, Importa backup lo rilegge e sostituisce i dati già presenti. L’importazione supporta entrambe le piattaforme. Controlla documenti, note e allegati importati, ricontrolla i promemoria e conserva il file esportato originale. Le notifiche vengono ricreate sul dispositivo di destinazione.
+Il backup cloud resta su un’unica piattaforma: il tuo iCloud su iPhone e iPad o il tuo Google Drive su Android. Per passare da una all’altra, usa l’esportazione gratuita del vault. In Impostazioni, Esporta vault crea un file .tdvault protetto da password che puoi inviarti. Sul nuovo telefono, Impostazioni, Importa backup lo rilegge e sostituisce i dati già presenti. L’importazione supporta entrambe le piattaforme. Controlla documenti, note e allegati importati, ricontrolla i promemoria e conserva il file esportato originale. Le notifiche vengono ricreate sul dispositivo di destinazione.
 
 ### Cosa viene salvato nel backup e cosa resta sul dispositivo?
 

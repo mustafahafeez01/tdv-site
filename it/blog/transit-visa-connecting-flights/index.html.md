@@ -10,24 +10,24 @@ Source: https://traveldocumentvault.com/it/blog/transit-visa-connecting-flights/
 
 ## Punti chiave
 
-- **Non tutti i voli in coincidenza richiedono un visto di transito.** Molto dipende dal fatto che tu rimanga airside (nella zona di transito internazionale) o che tu lasci l'aeroporto.
+- **Non tutti i voli in coincidenza richiedono un visto di transito.** Molto dipende dal fatto che tu resti airside (nella zona di transito internazionale) o lasci l'aeroporto.
 - La **nazionalità del tuo passaporto conta molto** — uno stesso paese può richiedere un visto di transito ad alcuni viaggiatori ed esentarne completamente altri.
 - Il **visto di transito aeroportuale Schengen (ATV)** si applica solo a determinate nazionalità non UE; molte sono esenti.
 - **Gli scali solo airside sono spesso senza obbligo di visto**, mentre gli scali in cui esci dall'aeroporto o passi per l'immigrazione spesso richiedono un visto, a seconda della tua nazionalità.
 - Se ti accorgi di aver bisogno di un visto di transito dopo aver prenotato, contatta subito la tua compagnia aerea — i tempi di elaborazione variano molto e potresti dover riprenotare.
 - **Conserva e tieni traccia di ogni documento** — il tuo visto di transito ha una propria data di scadenza, separata da quella del passaporto e del visto di ingresso principale.
 
-Il fatto che un volo in coincidenza richieda un visto di transito dipende da tre elementi: quale passaporto possiedi, in quale paese atterra il tuo aereo, e se lasci l'aeroporto oppure rimani nella zona di transito internazionale. La maggior parte degli scali non richiede alcun visto di transito. Ma dove il requisito esiste, è rigido — e le compagnie aeree generalmente lo controllano prima dell’imbarco.
+Se un volo in coincidenza richiede un visto di transito dipende da tre cose: quale passaporto possiedi, in quale paese atterra il tuo aereo, e se lasci l'aeroporto oppure rimani nella zona di transito internazionale. La maggior parte degli scali non richiede alcun visto di transito. Ma dove il requisito esiste, è rigido — e le compagnie aeree generalmente lo controllano prima dell’imbarco.
 
-I visti di transito sono il documento che coglie impreparati anche i viaggiatori più attenti, perché sono slegati da tutto il resto dei documenti. La validità del tuo passaporto non li influenza, e il visto di ingresso della tua destinazione non li sostituisce — esistono soltanto per via del paese in cui il tuo aereo si ferma a fare rifornimento. Eppure molti viaggiatori non verificano mai se ne hanno bisogno finché non è ormai troppo tardi.
+I visti di transito sono il documento che coglie impreparati anche i viaggiatori più attenti, perché sono scollegati da tutti gli altri documenti. La validità del tuo passaporto non li influenza, e il visto di ingresso della tua destinazione non li sostituisce — esistono soltanto per via del paese in cui il tuo aereo si ferma a fare rifornimento. Eppure molti viaggiatori non verificano mai se ne hanno bisogno finché non è ormai troppo tardi.
 
 ## Il transito airside spesso non richiede visto, ma quello landside implica passare l'immigrazione
 
-Il fatto che tu abbia bisogno di un visto dipende spesso da una sola distinzione: airside oppure landside. Molti paesi concedono il transito senza visto da un lato di questa linea, ma non dall'altro.
+Se ti serve un visto dipende spesso da una sola distinzione: airside oppure landside. Molti paesi concedono il transito senza visto da un lato di questa linea, ma non dall'altro.
 
 **Il transito airside** significa che rimani all'interno dell'area di transito internazionale dell'aeroporto dopo l'atterraggio, senza passare per il controllo immigrazione o la dogana. Puoi passeggiare tra i negozi duty-free, sederti nella lounge di transito e usare i servizi dell'aeroporto, ma tecnicamente non entri mai nel paese. Da lì vai direttamente dal volo in arrivo al volo in partenza, attraverso corridoi e gate protetti.
 
-**Il transito landside** significa che esci dall'aeroporto vero e proprio — in genere perché devi lasciare l'aeroporto, pernottare, o spostarti in un altro aeroporto. Questo richiede il passaggio per l'immigrazione e comporta, tecnicamente, l'ingresso nel paese, anche se la tua intenzione è solo di transitare.
+**Il transito landside** significa che esci dall'aeroporto vero e proprio — in genere perché devi lasciare l'aeroporto, pernottare, o spostarti in un altro aeroporto. Devi passare l'immigrazione, e tecnicamente entri nel paese, anche se vuoi solo transitare.
 
 Molti paesi non richiedono un visto di transito per il transito solo airside, in particolare per scali brevi. Il transito landside viene trattato come un ingresso nel paese a tutti gli effetti, e in genere richiede un visto se non hai la cittadinanza o un'esenzione.
 
@@ -53,7 +53,7 @@ Due persone in coincidenza nello stesso identico aeroporto, nello stesso identic
 
 Questo vale anche per nazionalità simili all'interno della stessa area geografica. Viaggiatori provenienti da paesi diversi dello stesso continente possono trovarsi davanti a requisiti completamente diversi per la stessa coincidenza.
 
-Per questo l'IATA Travel Centre è un buon primo controllo: attinge allo stesso database usato dalla maggior parte delle compagnie aeree. Inserisci la tua nazionalità e la tua destinazione e ti mostra il requisito per quella combinazione. Poi conferma con l'ambasciata o il sito governativo del paese di transito. Non dare mai per scontato di sapere già la risposta basandoti su quanto vissuto da un altro viaggiatore o su quanto ricordi di un viaggio precedente.
+Per questo l'IATA Travel Centre è un buon primo controllo: attinge allo stesso database usato dalla maggior parte delle compagnie aeree. Inserisci la tua nazionalità e la tua destinazione e ti mostra il requisito per quella combinazione. Poi conferma con l'ambasciata o il sito governativo del paese di transito. Non dare mai per scontato di conoscere già la risposta: non basarti sull'esperienza di un altro viaggiatore, né su quello che ricordi di un viaggio precedente.
 
 ## Se scopri di aver bisogno di un visto dopo aver prenotato, chiama prima la compagnia aerea
 
@@ -65,9 +65,9 @@ Se i tempi di elaborazione non sono compatibili con la data di partenza, hai tre
 
 ## Come verificare prima di prenotare
 
-Fallo appena conosci l'intero percorso, non solo la destinazione, ma ogni paese in cui il tuo aereo atterra. Usa l'IATA Travel Centre inserendo la tua nazionalità, il paese di destinazione e ogni paese di transito per confermare il requisito.
+Fallo appena conosci l'intero percorso: non solo la destinazione, ma ogni paese in cui il tuo aereo atterra. Usa l'IATA Travel Centre inserendo la tua nazionalità, il paese di destinazione e ogni paese di transito per confermare il requisito.
 
-Quando lo strumento segnala un visto di transito, annota due cose oltre al fatto che ne hai bisogno: come si richiede, dal momento che alcuni si ottengono online mentre altri comportano una visita al consolato, e per quanto tempo resta valido, perché un visto di transito spesso copre una finestra ristretta e non un periodo aperto. Sbagliare su entrambi i fronti è il modo in cui si finisce per ritrovarsi con un documento già scaduto al momento di volare.
+Quando lo strumento segnala un visto di transito, annota due cose oltre al fatto che ne hai bisogno: come si richiede, dal momento che alcuni si ottengono online mentre altri comportano una visita al consolato, e per quanto tempo resta valido, perché un visto di transito spesso copre una finestra ristretta e non un periodo aperto. Sbagliare su uno dei due punti è il modo più facile per ritrovarsi con un visto già scaduto il giorno del volo.
 
 Aggiungi ogni visto di transito necessario alla tua tabella di marcia insieme al visto di ingresso principale. Alcuni richiedono settimane; ti serve saperlo prima di prenotare i voli. Conserva la conferma insieme agli altri documenti di viaggio, così è a portata di mano al gate, dove le compagnie aeree generalmente la controllano prima dell’imbarco.
 
@@ -89,7 +89,7 @@ Un visto di transito permette di attraversare un paese per raggiungere un'altra 
 
 ### Serve un visto per uno scalo di 2 ore?
 
-Dipende dal fatto che tu lasci o meno l'aeroporto durante lo scalo. Se rimani nell'area di transito internazionale dell'aeroporto, molti paesi non richiedono un visto. Se esci dalla zona sicura o hai intenzione di lasciare l'aeroporto, potresti aver bisogno di un visto di transito anche per una sosta breve.
+Dipende da se lasci o no l'aeroporto durante lo scalo. Se rimani nell'area di transito internazionale dell'aeroporto, molti paesi non richiedono un visto. Se esci dalla zona sicura o hai intenzione di lasciare l'aeroporto, potresti aver bisogno di un visto di transito anche per una sosta breve.
 
 ### Qual è la differenza tra transito airside e landside?
 

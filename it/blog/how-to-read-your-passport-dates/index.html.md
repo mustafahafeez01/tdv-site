@@ -10,89 +10,89 @@ Source: https://traveldocumentvault.com/it/blog/how-to-read-your-passport-dates/
 
 ## Punti Chiave
 
-- **Le regole d'ingresso si contano a ritroso dalla data di scadenza**. Confonderla con la data di rilascio è l'errore più comune quando si compila un modulo.
-- Nei moduli in inglese, «date of expedition» è la traduzione letterale di **fecha de expedición** (spagnolo) e **data de expedição** (portoghese). Significa data di rilascio, e non ha nulla a che vedere con un viaggio.
-- La data di rilascio non è un dettaglio decorativo. **I paesi Schengen verificano che un passaporto non UE sia stato rilasciato meno di 10 anni prima dell'arrivo**, un requisito che alcuni passaporti più vecchi non rispettano pur mostrando ancora mesi di validità.
-- **Il paese di rilascio decide a quale ambasciata rivolgerti** se il passaporto va perso, e non è sempre il paese in cui vivi.
+- **Le regole d'ingresso si contano a ritroso dalla data di scadenza**. Confonderla con la data di rilascio è l'errore più comune quando compili un modulo.
+- Nei moduli in inglese, «date of expedition» è la traduzione letterale di **fecha de expedición** (spagnolo) e **data de expedição** (portoghese). Vuol dire data di rilascio e con il viaggio non c'entra nulla.
+- La data di rilascio non è un dettaglio decorativo. **I paesi Schengen verificano che un passaporto non UE sia stato rilasciato meno di 10 anni prima dell'arrivo**. Alcuni passaporti più vecchi non rispettano questo requisito, anche se mostrano ancora mesi di validità.
+- **Il paese di rilascio decide a quale ambasciata rivolgerti** se perdi il passaporto, e non sempre è il paese in cui vivi.
 - Rinnovare ti dà un **nuovo numero di passaporto**. Visti, prenotazioni e profili delle compagnie aeree legati al vecchio numero non si aggiornano da soli.
 
-Due date compaiono una sopra l'altra sulla pagina dei dati di un passaporto, stampate con la stessa formattazione, e nessuna è chiaramente etichettata. Le domande di ingresso, i moduli delle compagnie aeree e i portali per i visti chiedono ciascuno una in particolare. Quale dipende da che cosa si sta compilando.
+Sulla pagina dei dati del passaporto ci sono due date, una sopra l'altra, stampate nello stesso modo e senza un'etichetta chiara. Le domande di ingresso, i moduli delle compagnie aeree e i portali per i visti ne chiedono una in particolare. Quale, dipende da cosa stai compilando.
 
-La maggior parte di noi non ha mai imparato a leggere davvero un passaporto. Sappiamo più o meno dove si trova la data di scadenza e ci fidiamo del resto. Funziona fino a quando un modulo, un agente di frontiera o una compagnia aerea non chiedono qualcosa di specifico, e allora la differenza tra due date molto simili inizia a contare parecchio.
+Quasi nessuno ha mai imparato a leggere davvero un passaporto. Sai più o meno dove sta la data di scadenza e al resto non pensi. Va bene finché un modulo, un agente di frontiera o una compagnia aerea non ti chiede qualcosa di preciso. A quel punto la differenza tra due date quasi identiche conta parecchio.
 
 ## Le Due Date, e Cosa Controlla Ciascuna
 
-La pagina dei dati del tuo passaporto ha una **data di rilascio** e una **data di scadenza**, e svolgono compiti completamente diversi.
+La pagina dei dati del tuo passaporto ha una **data di rilascio** e una **data di scadenza**, e servono a cose completamente diverse.
 
-La data di rilascio è il giorno in cui il passaporto è stato prodotto. È lei a far partire il conto alla rovescia: dieci anni per la maggior parte dei passaporti degli adulti, cinque per quelli dei bambini. È anche la data che alcune regole d'ingresso controllano direttamente, il che sorprende chi la considera solo un dettaglio amministrativo.
+La data di rilascio è il giorno in cui il passaporto è stato prodotto. Da qui parte il conto alla rovescia: dieci anni per la maggior parte dei passaporti degli adulti, cinque per quelli dei bambini. È anche la data che alcune regole d'ingresso controllano direttamente, e chi la considera un semplice dettaglio amministrativo resta sorpreso.
 
-La data di scadenza è il limite invalicabile, ed è ciò che misurano le regole di validità più note. Quando un paese chiede sei mesi di validità residua, sta contando sei mesi a ritroso dalla data di scadenza fino al giorno del tuo arrivo. La nostra guida su [la regola dei 6 mesi del passaporto](https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/) ripercorre quali paesi la applicano.
+La data di scadenza è il limite che non si può superare, ed è quella su cui si basano le regole di validità più note. Se un paese chiede sei mesi di validità residua, conta sei mesi a ritroso dalla data di scadenza fino al giorno del tuo arrivo. Nella nostra guida su [la regola dei 6 mesi del passaporto](https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/) trovi quali paesi la applicano.
 
-Se c'è una cosa da ricordare di questa pagina, è questa asimmetria: la data di rilascio descrive il documento, e la data di scadenza descrive per quanto tempo puoi ancora viaggiare con esso.
+Se ricordi una cosa sola, ricorda questa differenza: la data di rilascio descrive il documento, la data di scadenza dice per quanto tempo puoi ancora viaggiare con quel passaporto.
 
 ![Diagramma della pagina dati di un passaporto con quattro campi: data di rilascio, data di scadenza, paese di rilascio e numero di passaporto, con la data di scadenza evidenziata come quella da cui si contano la validità e la regola dei 6 mesi](https://traveldocumentvault.com/blog/how-to-read-your-passport-dates/data-page-figure-it.jpg) Quattro campi, e uno solo è quello che ogni regola d'ingresso misura davvero.
 
 ## Perché il Tuo Passaporto Potrebbe Dire «Data di Spedizione»
 
-Molti cercano cosa significhi «date of expedition» su un modulo o un passaporto in inglese, e la risposta è rassicurante nella sua semplicità: significa data di rilascio.
+Molti cercano cosa voglia dire «date of expedition» su un modulo o su un passaporto in inglese. La risposta è semplice e rassicurante: è la data di rilascio.
 
-L'espressione arriva dallo spagnolo e dal portoghese. *Fecha de expedición* e *data de expedição* si traducono entrambe, letteralmente, in inglese come «expedition date», e i moduli tradotti si portano dietro questa formulazione senza che nessuno la corregga.
+L'espressione viene dallo spagnolo e dal portoghese. *Fecha de expedición* e *data de expedição* in inglese diventano, alla lettera, «expedition date», e i moduli tradotti si portano dietro questa formula senza che nessuno la corregga.
 
-Significano tutte la stessa cosa, e nessuna di esse significa scadenza. Se un modulo chiede una «expedition date», vuole la più vecchia delle tue due date.
+Vogliono dire tutte la stessa cosa, e nessuna indica la scadenza. Se un modulo chiede una «expedition date», vuole la più vecchia delle due date.
 
 ## Il mese è scritto in lettere per evitare scambi tra formati di data
 
-Guarda con attenzione e noterai che molti passaporti non stampano le date solo in cifre. Il mese è generalmente scritto in lettere invece che in numeri.
+Guarda bene e noterai che molti passaporti non stampano le date solo in cifre. Di solito il mese è scritto in lettere, non in numeri.
 
-C'è un buon motivo per questa apparente complicazione. Scritta solo in cifre, 03/04/26 è il 3 aprile nella maggior parte del mondo e il 4 marzo negli Stati Uniti. Un agente di frontiera che dà un'occhiata veloce a un documento non può permettersi quell'ambiguità, e un mese scritto per esteso la elimina.
+C'è un buon motivo per questa complicazione. Scritta solo in cifre, 03/04/26 è il 3 aprile nella maggior parte del mondo e il 4 marzo negli Stati Uniti. Un agente di frontiera che dà un'occhiata veloce al documento non può permettersi questa ambiguità, e il mese scritto per esteso la elimina.
 
-L'ambiguità torna nel momento in cui trascrivi la data su un modulo, perché i moduli usano le cifre. Prima di scrivere qualsiasi cosa, controlla se il campo vuole GG/MM/AAAA o MM/GG/AAAA, e controlla di nuovo per il secondo passaporto invece di dare per scontato che il modulo se lo ricordi. Una domanda respinta di solito costa una tassa e un'attesa, e scambiare il giorno con il mese è un modo facile per causarla.
+L'ambiguità torna quando trascrivi la data su un modulo, perché i moduli usano le cifre. Prima di scrivere, controlla se il campo vuole GG/MM/AAAA o MM/GG/AAAA, e ricontrolla per il secondo passaporto, senza dare per scontato che il modulo se lo ricordi. Una domanda respinta di solito costa una tassa e un'attesa, e scambiare il giorno con il mese è un modo facile per ritrovartici.
 
 ## Quattro Passaporti, Quattro Orologi Diversi
 
-Aggiungi un secondo o un terzo passaporto, come fa la maggior parte delle famiglie, e niente combacia più. I passaporti tendono a essere rilasciati quando servono, non tutti insieme, quindi le date di rilascio in una casa raramente coincidono, e nemmeno le date di scadenza.
+Aggiungi un secondo o un terzo passaporto, come succede nella maggior parte delle famiglie, e niente combacia più. I passaporti si rinnovano quando servono, non tutti insieme, quindi in una casa le date di rilascio raramente coincidono, e le scadenze nemmeno.
 
-I bambini allargano ulteriormente questo divario. La maggior parte dei passaporti per bambini dura la metà di quello di un adulto, quindi un passaporto rilasciato nello stesso mese di quello di un genitore scade circa cinque anni prima. I genitori con anni di validità davanti sono quelli più a rischio di farsi cogliere di sorpresa dal documento di un figlio, perché non c'è motivo di pensarci finché un modulo non lo chiede. Spieghiamo come tenere in ordine i passaporti di tutta la famiglia in [gestire più passaporti insieme](https://traveldocumentvault.com/it/blog/family-passport-management/).
+I bambini allargano ancora questo divario. La maggior parte dei passaporti per bambini dura la metà di quello di un adulto, quindi un passaporto rilasciato nello stesso mese di quello di un genitore scade circa cinque anni prima. Un genitore con anni di validità davanti rischia di farsi sorprendere dal passaporto di un figlio, perché non ha motivo di pensarci finché un modulo non lo chiede. Come tenere in ordine i passaporti di tutta la famiglia lo spieghiamo in [gestire più passaporti insieme](https://traveldocumentvault.com/it/blog/family-passport-management/).
 
 ## Il Passaporto Decennale Che Non Dura Dieci Anni
 
-La data di rilascio smette di essere un dettaglio trascurabile nel momento in cui un paese la controlla direttamente. Gli uffici passaporti un tempo trasferivano i mesi non utilizzati di un passaporto in scadenza sul suo sostituto, quindi un passaporto rinnovato poteva durare dieci anni e qualche mese in più, il che all'epoca sembrava un vantaggio.
+La data di rilascio smette di essere un dettaglio trascurabile quando un paese la controlla direttamente. Un tempo gli uffici passaporti riportavano i mesi non utilizzati di un passaporto in scadenza sul suo sostituto, quindi un passaporto rinnovato poteva durare dieci anni più qualche mese, e all'epoca sembrava un vantaggio.
 
-I passaporti britannici rilasciati più di recente non hanno più quei mesi extra, ma i passaporti più vecchi che li contengono sono ancora in circolazione e ancora in uso.
+I passaporti britannici rilasciati di recente non hanno più quei mesi extra, ma quelli più vecchi che li contengono sono ancora in circolazione e in uso.
 
-I paesi Schengen generalmente applicano due controlli distinti a un passaporto non UE alla frontiera: [deve essere stato rilasciato meno di dieci anni prima della data del tuo arrivo](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements), e deve restare valido per almeno tre mesi dopo la data prevista di partenza. Un passaporto con nove mesi extra può superare comodamente il secondo controllo e fallire il primo, il che è una conversazione difficile da avere a uno sportello di Madrid con un documento che non è ancora scaduto.
+Alla frontiera i paesi Schengen generalmente fanno due controlli distinti su un passaporto non UE: [deve essere stato rilasciato meno di dieci anni prima della data del tuo arrivo](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements), e deve restare valido per almeno tre mesi dopo la data prevista di partenza. Un passaporto con nove mesi extra può superare senza problemi il secondo controllo e fallire il primo, e non è una conversazione facile da affrontare a uno sportello di Madrid con un documento non ancora scaduto.
 
-Noi controlleremmo entrambe le date prima di un viaggio in Europa, non solo quella in fondo alla pagina.
+Prima di un viaggio in Europa noi controlleremmo entrambe le date, non solo quella in fondo alla pagina.
 
 ## Paese di Rilascio e Autorità di Rilascio Sono Campi Diversi
 
-Vicino alla parte superiore della pagina dati c'è un codice di tre lettere per il paese di rilascio. Più sotto, di solito in un campo a sé, c'è l'autorità di rilascio: l'ufficio o il dipartimento che ha effettivamente prodotto il passaporto.
+In alto sulla pagina dati c'è un codice di tre lettere per il paese di rilascio. Più sotto, di solito in un campo a parte, c'è l'autorità di rilascio: l'ufficio che ha effettivamente prodotto il passaporto.
 
 Il paese conta più di quanto si pensi. Generalmente determina a quale rete consolare rivolgerti se il passaporto viene perso o rubato.
 
 Raramente è il paese in cui ti trovi in quel momento.
 
-Generalmente determina anche quali regole d’ingresso si applicano a te, ed è per questo che chi ha doppia cittadinanza riflette con attenzione su quale passaporto presentare. Se vuoi il lato pratico della questione, lo trattiamo in [cosa fare quando un passaporto sparisce all'estero](https://traveldocumentvault.com/it/blog/lost-passport-abroad/).
+Generalmente determina anche quali regole d’ingresso si applicano a te, ed è per questo che chi ha la doppia cittadinanza sceglie con attenzione quale passaporto presentare. Per il lato pratico, vedi [cosa fare quando un passaporto sparisce all'estero](https://traveldocumentvault.com/it/blog/lost-passport-abroad/).
 
-Il campo dell'autorità serve soprattutto per i moduli. Alcune domande lo vogliono riportato esattamente, altre accettano il paese, e copiarlo così com'è è più veloce che indovinare.
+Il campo dell'autorità serve soprattutto per i moduli. Alcune domande lo vogliono riportato esattamente, altre accettano il paese. Copiarlo così com'è è più veloce che tirare a indovinare.
 
 ## Il Numero del Passaporto Cambia. Quello Che Vi È Collegato No.
 
-Un rinnovo di solito assegna un nuovo numero, e nulla di ciò che puntava già al vecchio si aggiorna da solo.
+Un rinnovo di solito assegna un nuovo numero, e nulla di ciò che era legato al vecchio si aggiorna da solo.
 
-I visti già timbrati o stampati sul passaporto precedente restano lì, e anche i voli prenotati prima del rinnovo mantengono il vecchio numero. I profili fedeltà delle compagnie aeree, le iscrizioni ai programmi per viaggiatori affidabili e i dati di viaggio salvati sui siti di prenotazione restano tutti legati al numero che era attivo quando li hai compilati.
+I visti già timbrati o stampati sul passaporto precedente restano lì, e anche i voli prenotati prima del rinnovo mantengono il vecchio numero. I profili fedeltà delle compagnie aeree, le iscrizioni ai programmi per viaggiatori affidabili e i dati salvati sui siti di prenotazione restano legati al numero che avevi quando li hai compilati.
 
-Nulla di tutto questo è drammatico di per sé. Diventa un problema quando una carta d'imbarco e un passaporto non coincidono al banco del check-in, quindi vale la pena dedicare mezz'ora con calma, dopo un rinnovo, ad aggiornare i pochi posti dove compare il numero.
+Niente di tutto questo è drammatico, di per sé. Il problema nasce quando carta d'imbarco e passaporto non coincidono al banco del check-in. Per questo, dopo un rinnovo, vale la pena dedicare mezz'ora con calma ad aggiornare i pochi posti in cui compare il numero.
 
 ## La pagina dati è standardizzata, ma la zona a lettura ottica salta una data
 
-La pagina dati è quella rigida e plastificata con la tua fotografia, e la sua struttura è standardizzata a livello internazionale, non inventata da ogni singolo paese. Per questo un passaporto di qualunque provenienza è leggibile da un agente di frontiera ovunque, ed è per questo che, una volta imparato a leggerne uno, sai leggerli tutti.
+La pagina dati è quella rigida e plastificata con la tua fotografia, e la sua struttura è standardizzata a livello internazionale: non la inventa ogni paese per conto suo. Per questo un agente di frontiera sa leggere un passaporto di qualunque provenienza, e per questo, una volta imparato a leggerne uno, li sai leggere tutti.
 
-Le due righe di caratteri e freccette in fondo sono la zona a lettura ottica. Ripete parte delle informazioni della pagina sopra in un formato che uno scanner può acquisire in un solo passaggio, ma non tutte: la data di scadenza c’è. Controlla il tuo passaporto per vedere esattamente quali dati sono ripetuti nella zona. Un danno in quella zona viene preso molto più sul serio di un graffio sulla copertina. Spieghiamo dove si trova quella riga in [viaggiare con un passaporto danneggiato](https://traveldocumentvault.com/it/blog/damaged-passport-travel/).
+Le due righe di caratteri e freccette in fondo sono la zona a lettura ottica. Ripete parte delle informazioni della pagina sopra, in un formato che uno scanner legge in un solo passaggio, ma non tutte: la data di scadenza c’è. Guarda il tuo passaporto per vedere esattamente quali dati sono ripetuti nella zona. Un danno lì viene preso molto più sul serio di un graffio sulla copertina. Dove si trova quella riga lo spieghiamo in [viaggiare con un passaporto danneggiato](https://traveldocumentvault.com/it/blog/damaged-passport-travel/).
 
-Se le etichette sulla tua pagina dati non sono in italiano, la disposizione aiuta comunque: le due date sono stampate insieme, nello stesso formato, e la data di scadenza è la più recente delle due.
+Se le etichette sulla tua pagina dati non sono in italiano, la disposizione aiuta comunque: le due date sono stampate vicine, nello stesso formato, e la data di scadenza è la più recente delle due.
 
-Dedica cinque minuti, oggi, a trovare entrambe le date sul tuo passaporto, e su quello di ogni figlio se viaggiate in famiglia, così saprai già quale è quale prima che lo chieda un modulo o una frontiera.
+Dedica cinque minuti, oggi, a trovare entrambe le date sul tuo passaporto, e su quello di ogni figlio se viaggi in famiglia. Così saprai già quale è quale prima che lo chieda un modulo o una frontiera.
 
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 
@@ -104,7 +104,7 @@ Fonti ufficiali
 
 ### Cosa significa "data di spedizione" su un passaporto?
 
-Significa data di rilascio — il giorno in cui il passaporto è stato prodotto. L'espressione deriva da moduli in spagnolo e portoghese, dove fecha de expedición e data de expedição si traducono letteralmente come expedition date. Non ha nulla a che vedere con un viaggio, e non è mai la data di scadenza.
+Significa data di rilascio, cioè il giorno in cui il passaporto è stato prodotto. L'espressione deriva da moduli in spagnolo e portoghese, dove fecha de expedición e data de expedição si traducono alla lettera come expedition date. Con il viaggio non c'entra nulla e non è mai la data di scadenza.
 
 ### La data di rilascio è la stessa cosa della data di scadenza?
 
@@ -112,15 +112,15 @@ No. La data di rilascio è quando il passaporto è stato prodotto, e la data di 
 
 ### Cosa significa "paese di rilascio" su un passaporto?
 
-Il paese di rilascio è lo Stato che ha emesso il passaporto, indicato con un codice di tre lettere vicino alla parte superiore della pagina dati. Generalmente determina a quale ambasciata o consolato rivolgerti se il passaporto viene perso all’estero, e quali regole d’ingresso si applicano di solito quando lo presenti.
+Il paese di rilascio è lo Stato che ha emesso il passaporto, indicato con un codice di tre lettere in alto sulla pagina dati. Generalmente determina a quale ambasciata o consolato rivolgerti se il passaporto viene perso all’estero, e quali regole d’ingresso si applicano di solito quando lo presenti.
 
 ### Il numero del mio passaporto cambia quando lo rinnovo?
 
-Generalmente sì. Un nuovo passaporto di solito ha un numero nuovo. Tutto ciò che era registrato con il numero vecchio resta collegato al numero vecchio, compresi i visti già rilasciati, i profili delle compagnie aeree e le prenotazioni fatte prima del rinnovo, quindi di solito vanno aggiornati separatamente.
+Generalmente sì. Un nuovo passaporto di solito ha un numero nuovo. Tutto ciò che era registrato con il numero vecchio resta legato al numero vecchio, compresi i visti già rilasciati, i profili delle compagnie aeree e le prenotazioni fatte prima del rinnovo, quindi di solito vanno aggiornati a parte.
 
 ### Come faccio a sapere quando scade il mio passaporto?
 
-Apri la pagina rigida e plastificata con la tua fotografia e cerca il campo indicato come data di scadenza, di solito subito sotto o accanto alla data di rilascio. Se le etichette sono in un'altra lingua, la data di scadenza è la più recente delle due date stampate.
+Apri la pagina rigida e plastificata con la tua fotografia e cerca il campo della data di scadenza, di solito subito sotto o accanto alla data di rilascio. Se le etichette sono in un'altra lingua, la data di scadenza è la più recente delle due date stampate.
 
 ## Articoli Correlati
 

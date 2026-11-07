@@ -11,58 +11,58 @@ Source: https://traveldocumentvault.com/it/blog/schengen-passport-rules-family-t
 ## Punti chiave
 
 - La vera regola Schengen è **3 mesi di validità oltre la data di partenza**, più un passaporto rilasciato negli ultimi 10 anni — non è la "regola dei 6 mesi".
-- **I passaporti dei bambini scadono in 5 anni**, quindi i passaporti di una famiglia si desincronizzano e la data di scadenza più precoce decide il viaggio.
-- I **passaporti britannici pre-ottobre 2018 con mesi bonus** possono fallire il test di rilascio di 10 anni anche mentre il libretto sembra ancora valido.
+- **I passaporti dei bambini scadono in 5 anni**, quindi i passaporti di una famiglia non scadono più insieme e la scadenza più vicina decide il viaggio.
+- I **passaporti britannici pre-ottobre 2018 con mesi bonus** possono non superare il test dei 10 anni dal rilascio, anche se il libretto sembra ancora valido.
 - Le compagnie aeree generalmente verificano i passaporti rispetto al **database Timatic dell'IATA** al check-in, e un passaporto non valido può bloccare la famiglia.
-- **Controllate ogni passaporto il giorno della prenotazione**, non la settimana del volo. Cinque minuti al momento della prenotazione è l'intera soluzione.
+- **Controlla ogni passaporto il giorno della prenotazione**, non la settimana del volo. Bastano cinque minuti al momento della prenotazione.
 
-Prenotare un viaggio in famiglia in Europa di solito inizia allo stesso modo: controllate il vostro passaporto, vedete anni di validità rimasta, e confermate. Il problema arriva settimane dopo, quando finalmente aprite il cassetto e scoprite che il passaporto di un bambino — rilasciato con un orologio più breve del vostro — scade prima di quanto chiunque pensasse. Nessuno invia una lettera di avvertimento ai genitori su questo. La scrivania del check-in consegna la notizia invece.
+Prenotare un viaggio in famiglia in Europa di solito inizia allo stesso modo: controlli il tuo passaporto, vedi anni di validità residua e confermi. Il problema arriva settimane dopo, quando finalmente apri il cassetto e scopri che il passaporto di un bambino — rilasciato con una durata più breve del tuo — scade prima di quanto pensasse chiunque. Nessuno manda ai genitori una lettera di avviso. La brutta notizia te la dà il banco del check-in.
 
-Due regole e una particolarità dei passaporti dei bambini spiegano quasi ogni problema Schengen della famiglia, e tutti e tre possono essere verificati in cinque minuti il giorno della prenotazione.
+Due regole e una particolarità dei passaporti dei bambini spiegano quasi ogni problema Schengen di una famiglia, e si controllano tutte e tre in cinque minuti il giorno della prenotazione.
 
 ## La vera regola Schengen: 3 mesi oltre la partenza
 
-Il requisito dell'UE è preciso: [il vostro passaporto deve essere valido per almeno 3 mesi dopo la data in cui intendete lasciare l'area Schengen](https://www.gov.uk/foreign-travel-advice/france/entry-requirements), e deve essere stato rilasciato negli ultimi 10 anni.
+Il requisito dell'UE è preciso: [il tuo passaporto deve essere valido per almeno 3 mesi dopo la data in cui intendi lasciare l'area Schengen](https://www.gov.uk/foreign-travel-advice/france/entry-requirements), e deve essere stato rilasciato negli ultimi 10 anni.
 
-Immaginate che la vostra famiglia ritorni dall'Italia il 20 agosto. Ogni passaporto ha bisogno di validità fino all'approssimativamente 20 novembre — cioè tre mesi oltre la vostra data di partenza, non il vostro arrivo, e non la vostra data di prenotazione. Un passaporto che scade il 10 novembre fallisce questo test, anche se la vacanza stessa termina settimane prima.
+Immagina che la tua famiglia torni dall'Italia il 20 agosto. Ogni passaporto deve essere valido fino a circa il 20 novembre — cioè tre mesi dopo la data di partenza, non dopo l'arrivo e non dopo la data di prenotazione. Un passaporto che scade il 10 novembre non supera il test, anche se la vacanza finisce settimane prima.
 
-La condizione di rilascio entro 10 anni cattura le famiglie britanniche in modo specifico. I passaporti britannici più vecchi potevano avere mesi non utilizzati in più aggiunti da un passaporto precedente, quindi alcuni libretti mostrano più di 10 anni tra il rilascio e la scadenza. Per l'ingresso Schengen, questi mesi extra non contano: il passaporto deve avere meno di 10 anni il giorno dell'ingresso, qualunque sia la data di scadenza stampata all'interno.
+La condizione dei 10 anni dal rilascio colpisce in particolare le famiglie britanniche. I vecchi passaporti britannici potevano portarsi dietro i mesi non usati del passaporto precedente, quindi alcuni libretti mostrano più di 10 anni tra rilascio e scadenza. Per l'ingresso Schengen, quei mesi in più non contano: il passaporto deve avere meno di 10 anni il giorno dell'ingresso, qualunque sia la data di scadenza stampata all'interno.
 
 ## Perché questa non è la regola dei 6 mesi
 
-La maggior parte dei viaggiatori assorbono l'idea che i passaporti abbiano bisogno di sei mesi di validità per andare ovunque. Questa regola è reale — [la Tailandia chiede sei mesi di validità](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), e molti altri paesi applicano una versione di essa. Ma Schengen no. L'Europa chiede tre mesi oltre la partenza, il che è più gentile, eppure i due vengono mischiati in un vago "sei mesi da qualche parte" che produce sia falsi allarmi che falsa sicurezza.
+Molti viaggiatori danno per scontato che servano sei mesi di validità del passaporto per andare ovunque. Quella regola esiste — [la Tailandia chiede sei mesi di validità](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), e molti altri paesi ne applicano una versione. Ma Schengen no. L'Europa chiede tre mesi oltre la partenza, che è meno severo, eppure le due regole si confondono in un vago "sei mesi da qualche parte" che causa sia falsi allarmi sia falsa sicurezza.
 
-La nostra guida su [la regola dei 6 mesi](https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/) copre quali paesi effettivamente l'applicano. Il nostro [spiegatore sulla validità del passaporto](https://traveldocumentvault.com/it/blog/how-long-is-passport-valid-for-travel/) gestisce il caso generale. Restiamo su Schengen qui perché è dove le famiglie più spesso sbagliano i calcoli in modo sottile.
+La nostra guida sulla [regola dei 6 mesi](https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/) spiega quali paesi la applicano davvero. La nostra [guida sulla validità del passaporto](https://traveldocumentvault.com/it/blog/how-long-is-passport-valid-for-travel/) copre il caso generale. Qui restiamo su Schengen, perché è dove le famiglie sbagliano i conti più spesso, e senza accorgersene.
 
 ![Diagramma delle quattro date di scadenza di una famiglia, in ordine: figlio 2 valido fino al 2027, figlio 1 fino al 2028, mamma fino al 2030, papà fino al 2032; la data più vicina decide il viaggio, i passaporti dei bambini durano 5 anni non 10, e Schengen vuole 3 mesi di margine dopo la partenza](https://traveldocumentvault.com/blog/schengen-passport-rules-family-trips/family-expiry-dates-figure-it.jpg) Quattro passaporti, quattro orologi - e il più corto fissa la vera scadenza della famiglia.
 
-## I passaporti dei bambini funzionano con un orologio più veloce
+## I passaporti dei bambini scadono più in fretta
 
-[I passaporti britannici per adulti durano 10 anni](https://www.gov.uk/apply-first-adult-passport), mentre [il Regno Unito rilascia quelli per bambini con una validità di cinque anni](https://www.gov.uk/get-a-child-passport). Questa asimmetria è dove molti piani altrimenti attenti si sfaldano.
+[I passaporti britannici per adulti durano 10 anni](https://www.gov.uk/apply-first-adult-passport), mentre [il Regno Unito rilascia quelli per bambini con una validità di cinque anni](https://www.gov.uk/get-a-child-passport). È qui che molti piani, per il resto ben fatti, saltano.
 
 | Paese | Passaporti per bambini | Validità |
 |---|---|---|
 | Regno Unito | Sotto i 16 anni | 5 anni |
 
-Fonte per il Regno Unito: GOV.UK. Per gli altri paesi, controllate con la vostra autorità passaporti.
+Fonte per il Regno Unito: GOV.UK. Per gli altri paesi, controlla con la tua autorità passaporti.
 
-Una famiglia di quattro persone quindi funziona su quattro diversi programmi di scadenza. La data più precoce decide se il viaggio accade affatto. Due adulti rinnovati insieme si separeranno dai documenti dei loro bambini nel giro di un paio d'anni — che è esattamente il motivo per cui controllare il vostro passaporto vi dice quasi nulla sulla preparazione della famiglia.
+Una famiglia di quattro persone ha quindi quattro scadenze diverse. La più vicina decide se il viaggio si fa o no. Due adulti che rinnovano insieme si ritrovano sfasati rispetto ai documenti dei figli nel giro di un paio d'anni — ed è esattamente per questo che controllare solo il tuo passaporto ti dice quasi nulla sulla preparazione della famiglia.
 
-Per le famiglie americane c'è una difficoltà in più: il rinnovo del passaporto di un bambino può richiedere una domanda di persona e diverse settimane, quindi controllate le regole e i tempi attuali della vostra autorità passaporti prima di prenotare. Ciò che è gestibile a marzo diventa rapidamente un vero problema poco prima della partenza. Le famiglie britanniche ce la fanno un po' meglio: semplicemente controllate i tempi di elaborazione attuali prima di prenotare e concedete tempo extra se le informazioni sono necessarie.
+Per le famiglie americane c'è una difficoltà in più: il rinnovo del passaporto di un bambino può richiedere una domanda di persona e diverse settimane, quindi controlla le regole e i tempi attuali della tua autorità passaporti prima di prenotare. Ciò che a marzo si gestisce con calma diventa in fretta un vero problema poco prima della partenza. Le famiglie britanniche se la cavano un po' meglio: controlla i tempi di elaborazione attuali prima di prenotare e lascia tempo extra se servono altre informazioni.
 
 ## La realtà al check-in: Timatic non arrotonda
 
-Qualunque cosa la frontiera potrebbe tollerare, la incontrerete prima di allora — al check-in. Le compagnie aeree generalmente verificano i passaporti nel database Timatic dell'IATA, che elenca i requisiti d'ingresso di ogni destinazione. Se la vostra data di ritorno ha bisogno di validità fino al 20 novembre e un passaporto scade il 15 novembre, il sistema dice no. Aspettatevi che l'imbarco venga rifiutato al check-in.
+Qualunque cosa la frontiera possa tollerare, il problema lo incontri prima, al check-in. Le compagnie aeree generalmente verificano i passaporti nel database Timatic dell'IATA, che elenca i requisiti d'ingresso di ogni destinazione. Se per la tua data di ritorno serve validità fino al 20 novembre e un passaporto scade il 15 novembre, il sistema dice no. Aspettati che ti rifiutino l'imbarco al check-in.
 
-Un passaporto fallito raramente blocca una persona; blocca la famiglia. Pochi genitori invieranno tre membri in avanti e lasceranno uno alla scrivania, quindi nella pratica l'intera prenotazione viene riprogrammata o persa.
+Un passaporto non valido raramente ferma una sola persona: ferma la famiglia. Pochi genitori mandano avanti tre persone e ne lasciano una al banco, quindi in pratica l'intera prenotazione viene cambiata o persa.
 
-## Controllate ogni passaporto il giorno in cui prenotate
+## Controlla ogni passaporto il giorno in cui prenoti
 
-La soluzione è semplice e richiede solo minuti. Il giorno della prenotazione, raccogliete ogni passaporto in casa e annotate ogni data di scadenza e data di rilascio. Quindi ponetevi due domande per ognuno: sarà ancora valido tre mesi dopo il vostro ritorno, ed è stato rilasciato meno di dieci anni fa? Qualunque cosa che fallisce uno dei due test va nella coda di rinnovo quella settimana — a quel punto, potete ancora rinnovare, riorinare il viaggio, o spostare le vostre date senza penalità, e noi sceglieremmo sempre di rinnovare piuttosto che aspettare per vedere se le date si spostano.
+La soluzione è semplice e richiede pochi minuti. Il giorno della prenotazione, raccogli tutti i passaporti di casa e annota data di scadenza e data di rilascio di ognuno. Poi fatti due domande per ciascuno: sarà ancora valido tre mesi dopo il tuo ritorno? È stato rilasciato meno di dieci anni fa? Chi non supera uno dei due test va in coda per il rinnovo quella stessa settimana — a quel punto puoi ancora rinnovare, riorganizzare il viaggio o spostare le date senza penali, e noi sceglieremmo sempre di rinnovare invece di aspettare e vedere se le date si spostano.
 
-I bambini hanno bisogno dello stesso buffer degli adulti. Non c'è eccezione per i bambini alle regole di validità — il passaporto di un bambino di cinque anni riceve lo stesso trattamento Timatic del vostro. Un aparte per i viaggi britannici e irlandesi: l'Irlanda non è in Schengen affatto. I viaggi UK-Irlanda vengono eseguiti secondo l'[Area di viaggio comune separata](https://www.gov.uk/foreign-travel-advice/ireland/entry-requirements), quindi non generalizzate da un viaggio a Dublino a uno a Parigi.
+I bambini hanno bisogno dello stesso margine degli adulti. Per i bambini non ci sono eccezioni alle regole di validità — il passaporto di un bambino di cinque anni riceve da Timatic lo stesso trattamento del tuo. Una nota per chi viaggia tra Regno Unito e Irlanda: l'Irlanda non fa parte di Schengen. I viaggi tra Regno Unito e Irlanda seguono l'[Area di viaggio comune separata](https://www.gov.uk/foreign-travel-advice/ireland/entry-requirements), quindi non generalizzare da un viaggio a Dublino a uno a Parigi.
 
-Nulla di questo ha bisogno di un'app. Un foglio di calcolo aiuta molte famiglie, e un promemoria del calendario due volte all'anno gestisce la maggior parte del lavoro. L'unico non negoziabile: fate l'audit al momento della prenotazione, quando un passaporto breve è ancora un'incombenza, non un'emergenza.
+Niente di tutto questo richiede un'app. Un foglio di calcolo aiuta molte famiglie, e un promemoria sul calendario due volte all'anno fa gran parte del lavoro. L'unico punto fermo: fai il controllo al momento della prenotazione, quando un passaporto in scadenza è ancora una seccatura e non un'emergenza.
 
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 
@@ -80,23 +80,23 @@ Fonti ufficiali
 
 ### Qual è la differenza tra la regola dei 6 mesi e la regola Schengen dei 3 mesi?
 
-Sono regole separate per destinazioni diverse. Paesi come la Tailandia e l'[Indonesia](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements) generalmente richiedono 6 mesi di validità rimanente. Schengen richiede 3 mesi di validità oltre la data di partenza, più un passaporto rilasciato negli ultimi 10 anni. Le famiglie che hanno viaggiato nel Sud-Est asiatico spesso assumono che la cifra di 6 mesi si applichi ovunque — non è così.
+Sono regole separate per destinazioni diverse. Paesi come la Tailandia e l'[Indonesia](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements) generalmente richiedono 6 mesi di validità rimanente. Schengen richiede 3 mesi di validità oltre la data di partenza, più un passaporto rilasciato negli ultimi 10 anni. Le famiglie che hanno viaggiato nel Sud-Est asiatico spesso danno per scontato che la cifra di 6 mesi si applichi ovunque — non è così.
 
 ### I bambini seguono regole diverse per i passaporti Schengen?
 
-No. I bambini hanno bisogno degli stessi 3 mesi di validità oltre la partenza e della stessa condizione di rilascio entro 10 anni degli adulti. Quello che differisce è il passaporto stesso: molti paesi, tra cui il Regno Unito, rilasciano passaporti per bambini per 5 anni anziché 10, quindi un documento di un bambino raggiunge questi limiti molto prima di quello di un genitore.
+No. I bambini hanno bisogno degli stessi 3 mesi di validità oltre la partenza e della stessa condizione di rilascio entro 10 anni degli adulti. Quello che differisce è il passaporto stesso: molti paesi, tra cui il Regno Unito, rilasciano passaporti per bambini per 5 anni anziché 10, quindi il documento di un bambino raggiunge questi limiti molto prima di quello di un genitore.
 
-### Quando dovremmo rinnovare il passaporto di un bambino prima di un viaggio?
+### Quando devo rinnovare il passaporto di un bambino prima di un viaggio?
 
-Non appena prenotate, verificate se il passaporto avrà ancora 3 mesi di validità oltre la data di ritorno. Se non sarà così, iniziate subito. Controllate i tempi di elaborazione correnti nel Regno Unito e concedete tempo extra se l'applicazione ha bisogno di ulteriori informazioni. Verificate i tempi attuali presso la vostra autorità passaporti.
+Non appena prenoti, verifica se il passaporto avrà ancora 3 mesi di validità oltre la data di ritorno. Se non sarà così, comincia subito. Controlla i tempi di elaborazione correnti nel Regno Unito e lascia tempo extra se la domanda richiede ulteriori informazioni. Verifica i tempi attuali presso la tua autorità passaporti.
 
-### Possiamo volare mentre il rinnovo del passaporto di un bambino è in corso?
+### Posso volare mentre il rinnovo del passaporto di un bambino è in corso?
 
-No. Avete bisogno del passaporto fisico in mano per salire su un volo internazionale. Un'applicazione non aiuterà al check-in — inserite il tempo di rinnovo nella vostra decisione di prenotazione, non sperare che arrivi nell'ultima settimana.
+No. Ti serve il passaporto fisico in mano per salire su un volo internazionale. Una domanda di rinnovo in corso non ti aiuta al check-in — metti il tempo di rinnovo nel conto quando decidi di prenotare, e non sperare che arrivi nell'ultima settimana.
 
 ### Cosa accade al check-in se un passaporto non è sufficiente?
 
-Le compagnie aeree generalmente verificano i passaporti nel database Timatic dell'IATA, che elenca i requisiti d'ingresso di ogni destinazione. Se un membro della famiglia non supera il controllo, quella persona non può salire a bordo — che nella pratica le famiglie risolvono di solito riprenotando, senza dividersi.
+Le compagnie aeree generalmente verificano i passaporti nel database Timatic dell'IATA, che elenca i requisiti d'ingresso di ogni destinazione. Se un membro della famiglia non supera il controllo, quella persona non può salire a bordo — e nella pratica le famiglie di solito risolvono riprenotando, senza dividersi.
 
 ## Articoli correlati
 

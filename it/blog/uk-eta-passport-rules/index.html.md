@@ -8,7 +8,7 @@ Source: https://traveldocumentvault.com/it/blog/uk-eta-passport-rules/
 
 ![Un genitore e una bambina visti di spalle davanti a un'ampia vetrata dell'aeroporto, con due passaporti in mano di cui quello davanti bordato d'oro e un aereo al gate sullo sfondo](https://traveldocumentvault.com/blog/uk-eta-passport-rules/cover.jpg)
 
-## Punti Chiave
+## Punti chiave
 
 - **L'ETA del Regno Unito è legata al numero del tuo passaporto.** Quando rinnovi il passaporto e ricevi un nuovo numero, la vecchia ETA non è più valida.
 - Devi viaggiare con **lo stesso identico passaporto con cui hai fatto domanda.** Un nuovo passaporto significa che serve una nuova ETA prima di partire.
@@ -40,7 +40,7 @@ In pratica, se il tuo passaporto scade o lo rinnovi per qualsiasi motivo prima d
 
 Rinnovare un passaporto è, di per sé, una procedura di routine. Ma la complicazione dell'ETA è reale se hai un viaggio in programma a breve.
 
-Quando rinnovi il passaporto, l'autorità che rilascia il tuo passaporto ti fornisce un nuovo documento con un nuovo numero. La tua vecchia ETA, legata al vecchio numero di passaporto, diventa non valida nel momento in cui inizi a usare il nuovo passaporto per viaggiare.
+Quando rinnovi il passaporto, l'autorità che lo rilascia ti dà un nuovo documento con un nuovo numero. La tua vecchia ETA, legata al vecchio numero di passaporto, diventa non valida nel momento in cui inizi a usare il nuovo passaporto per viaggiare.
 
 Ecco la sequenza da pianificare:
 
@@ -53,7 +53,7 @@ Ecco la sequenza da pianificare:
 5. Aspetta l'approvazione dell'Home Office (consigliati almeno 3 giorni lavorativi, anche se può essere più veloce).
 6. Viaggia con il nuovo passaporto e la nuova ETA.
 
-Il rischio è nel passaggio 5. Se il tuo viaggio è tra 10 giorni e il nuovo passaporto arriva oggi, hai una finestra molto stretta per rinnovare e ottenere l'approvazione dell'ETA. Iniziare la procedura di rinnovo con meno di 2-3 settimane prima del viaggio crea una vera pressione sui tempi.
+Il rischio sta nel passaggio 5. Se il tuo viaggio è tra 10 giorni e il nuovo passaporto arriva oggi, hai una finestra molto stretta per rinnovare e ottenere l'approvazione dell'ETA. Se inizi il rinnovo meno di 2-3 settimane prima del viaggio, i tempi diventano davvero stretti.
 
 ## Ogni bambino ha bisogno della propria ETA, neonati compresi
 
@@ -75,7 +75,7 @@ Fare domanda una settimana prima, trovandoti fuori dal Regno Unito, ti dà un ma
 
 Se la tua domanda di ETA viene rifiutata, l'Home Office dice che puoi fare di nuovo domanda — ma farlo nei giorni prima del volo non è un'alternativa pratica. Fai domanda con largo anticipo e considera i 3 giorni lavorativi come il margine minimo, non come l'obiettivo.
 
-L'approccio più sicuro: fai domanda non appena hai il passaporto definitivo — idealmente 2-3 settimane prima di partire. Questo ti dà un margine di lavoro completo e il tempo di risolvere eventuali problemi se l'Home Office chiede chiarimenti.
+L'approccio più sicuro: fai domanda non appena hai il passaporto definitivo — idealmente 2-3 settimane prima di partire. Così hai tutto il margine che serve e il tempo di risolvere eventuali problemi se l'Home Office chiede chiarimenti.
 
 ## Un'ETA è un permesso per viaggiare, non una promessa di ingresso
 
@@ -89,7 +89,7 @@ Un'ETA inoltre non è un visto — non stabilisce per quanto tempo puoi restare.
 
 L'ETA del Regno Unito è una delle diverse autorizzazioni di viaggio digitali oggi in uso. Se stai pianificando un viaggio in più paesi, è utile capire la differenza tra un'ETA e un [visto](https://traveldocumentvault.com/it/blog/visa-vs-passport/). Il processo sembra simile, ma servono a scopi diversi.
 
-L'UE prevede una propria autorizzazione di viaggio digitale, [ETIAS](https://traveldocumentvault.com/it/blog/etias-documents-2026/), [che non è ancora in funzione](https://travel-europe.europa.eu/en/etias). È simile nel concetto all'ETA del Regno Unito, ma con regole e requisiti diversi. Quando partirà, un viaggio che comprenda sia il Regno Unito sia l'area Schengen potrebbe richiederle entrambe.
+L'UE prevede una propria autorizzazione di viaggio digitale, [ETIAS](https://traveldocumentvault.com/it/blog/etias-documents-2026/), [che non è ancora in funzione](https://travel-europe.europa.eu/en/etias). È simile nel concetto all'ETA del Regno Unito, ma con regole e requisiti diversi. Quando partirà, un viaggio che comprenda sia il Regno Unito sia l'area Schengen potrebbe richiederti entrambe.
 
 Se hai già un viaggio prenotato, fai questo oggi: confronta la data di scadenza del passaporto con le date del viaggio e verifica che la tua ETA attuale sia legata al passaporto con cui viaggerai davvero. Se una delle due cose non torna, avvia subito il rinnovo o una nuova domanda, non la settimana prima di partire.
 
@@ -100,7 +100,7 @@ Fonti ufficiali
 - [UK Government: No permission, no travel, UK set to enforce ETA scheme](https://www.gov.uk/government/news/no-permission-no-travel-uk-set-to-enforce-eta-scheme)
 - [EU travel: ETIAS](https://travel-europe.europa.eu/en/etias)
 
-## Domande Frequenti
+## Domande frequenti
 
 ### Cos'è un'ETA del Regno Unito?
 
@@ -122,8 +122,8 @@ Sì, ogni persona ha bisogno della propria ETA, compresi neonati e bambini picco
 
 No. Un'ETA del Regno Unito ti dà il permesso di viaggiare verso il Regno Unito, ma sono gli agenti di frontiera a decidere se puoi entrare. Potresti avere un'ETA valida e comunque vederti rifiutare l'ingresso se gli agenti ritengono che tu non soddisfi i requisiti di ingresso o che rappresenti un rischio.
 
-## Articoli Correlati
+## Articoli correlati
 
-[Rinnovo7 min di lettura · febbraio 2026Quanto Tempo Impiega il Rinnovo del Passaporto](https://traveldocumentvault.com/it/blog/how-long-does-passport-renewal-take/)
+[Rinnovo7 min di lettura · febbraio 2026Quanto tempo impiega il rinnovo del passaporto](https://traveldocumentvault.com/it/blog/how-long-does-passport-renewal-take/)
 
-[Regole di Viaggio5 min di lettura · maggio 2026ETIAS: Quali Documenti Ti Servono](https://traveldocumentvault.com/it/blog/etias-documents-2026/)
+[Regole di Viaggio5 min di lettura · maggio 2026ETIAS: quali documenti ti servono](https://traveldocumentvault.com/it/blog/etias-documents-2026/)

@@ -11,14 +11,14 @@ Source: https://traveldocumentvault.com/it/blog/national-id-card-travel-europe/
 ## Punti chiave
 
 - **I cittadini UE e SEE possono viaggiare in Europa con la sola carta d'identità** — il passaporto non serve per attraversare le frontiere Schengen.
-- La carta deve essere valida il giorno del viaggio, ma **non deve avere 6 mesi di validità residua** come chiedono alcuni passaporti per le destinazioni fuori dall'Europa.
+- La carta deve essere valida il giorno del viaggio, ma **non deve avere 6 mesi di validità residua** come chiedono invece alcune destinazioni fuori dall'Europa per il passaporto.
 - **Le compagnie aeree stabiliscono le proprie regole sui documenti.** La maggior parte accetta la carta d'identità per i voli intraeuropei, ma verifica sempre con la tua compagnia prima di prenotare.
 - Una carta danneggiata, sbiadita o rovinata dall'acqua può essere messa in discussione o rifiutata alla frontiera anche se non è scaduta, quindi noi sostituiremmo una carta usurata prima di viaggiare.
 - A differenza dei passaporti, **le carte d'identità scadono più in fretta.** Travel Document Vault traccia i due documenti separatamente, così non perdi di vista la scadenza più ravvicinata della carta.
 
-La carta d'identità nazionale SEE è il documento d'identità che il tuo stesso paese rilascia ai suoi cittadini, quello che indica la tua nazionalità. Il SEE comprende i 27 paesi dell'UE più Islanda, Liechtenstein e Norvegia, e all'interno dell'UE e del SEE una carta valida basta da sola per viaggiare. Se un modulo di check-in online ti chiede di scegliere tra passaporto e carta d'identità nazionale SEE, scegli il documento che consegnerai davvero in aeroporto e inserisci il numero di quel documento. Questo articolo è scritto per cittadini UE e SEE; un lettore britannico o statunitense non possiede una carta d'identità valida per viaggiare, quindi per lui il passaporto resta comunque l'unica opzione.
+La carta d'identità nazionale SEE è il documento d'identità che il tuo stesso paese rilascia ai suoi cittadini, quello che indica la tua nazionalità. Il SEE comprende i 27 paesi dell'UE più Islanda, Liechtenstein e Norvegia, e all'interno dell'UE e del SEE una carta valida basta da sola per viaggiare. Se un modulo di check-in online ti chiede di scegliere tra passaporto e carta d'identità nazionale SEE, scegli il documento che consegnerai davvero in aeroporto e inserisci il numero di quel documento. Questo articolo è scritto per cittadini UE e SEE: se sei britannico o statunitense non hai una carta d'identità valida per viaggiare, quindi per te il passaporto resta comunque l'unica opzione.
 
-Per il resto d'Europa, le regole sono chiare e più semplici di quanto molti pensino. La confusione di solito nasce dalle compagnie aeree, che aggiungono le proprie regole sopra la legge. Capire la differenza tra ciò che l'Europa richiede per legge e ciò che chiede la tua compagnia aerea ti evita di scoprirlo all'ultimo momento al check-in.
+Per il resto d'Europa, le regole sono chiare e più semplici di quanto molti pensino. La confusione di solito nasce dalle compagnie aeree, che aggiungono regole proprie a quelle di legge. Capire la differenza tra ciò che l'Europa richiede per legge e ciò che chiede la tua compagnia aerea ti evita di scoprirlo all'ultimo momento al check-in.
 
 ## Quando la carta d'identità UE basta
 
@@ -42,9 +42,9 @@ Per il Regno Unito, la carta di solito non funziona. Il Regno Unito generalmente
 
 ## Quando serve invece il passaporto
 
-Per la maggior parte delle destinazioni fuori dall'UE e dal SEE, la carta d'identità non è riconosciuta come documento di viaggio valido. I requisiti d'ingresso variano da paese a paese e da nazionalità a nazionalità — consultare le indicazioni ufficiali per l'immigrazione della destinazione prima di partire è l'unico modo per esserne certi. Il passaporto è ciò che la maggior parte dei sistemi di immigrazione nel mondo si aspetta di vedere.
+Per la maggior parte delle destinazioni fuori dall'UE e dal SEE, la carta d'identità non è riconosciuta come documento di viaggio valido. I requisiti d'ingresso variano da paese a paese e da nazionalità a nazionalità: l'unico modo per esserne certi è leggere le indicazioni ufficiali per l'immigrazione della destinazione prima di partire. Il passaporto è ciò che la maggior parte dei sistemi di immigrazione nel mondo si aspetta di vedere.
 
-Fuori dall'UE e dal SEE, alcuni paesi accettano determinate carte d'identità, ma le regole variano: controlla le indicazioni ufficiali del paese. Spesso è più semplice portare con sé il passaporto insieme alla carta ogni volta che si viaggia fuori dal proprio paese, anche se la legge dice che la sola carta è sufficiente.
+Fuori dall'UE e dal SEE, alcuni paesi accettano determinate carte d'identità, ma le regole variano: controlla le indicazioni ufficiali del paese. Spesso è più semplice portare con te il passaporto insieme alla carta ogni volta che viaggi fuori dal tuo paese, anche se per legge la sola carta basta.
 
 ![Diagramma che confronta quando basta la carta d'identità, per i viaggi nell'UE, nel SEE e in Svizzera, con quando portare il passaporto: la maggior parte dei viaggi fuori dall'Europa, una carta danneggiata, o una compagnia aerea che lo richiede](https://traveldocumentvault.com/blog/national-id-card-travel-europe/id-card-or-passport-it.jpg) Dentro l'UE e il SEE la carta di solito basta; fuori dall'Europa, porta il passaporto.
 
@@ -57,7 +57,7 @@ Una data di scadenza valida è necessaria ma non sufficiente, perché gli agenti
 - **La data di scadenza è stampata chiaramente e senza ambiguità?** Sbavature o danni all'inchiostro giocano a tuo sfavore.
 - **Gli elementi di sicurezza sono visibili?** Ologrammi, motivi di sfondo e altri elementi anticontraffazione devono essere intatti.
 
-Se la carta mostra segni di usura — pieghe, macchie d'acqua, stampa sbiadita — e stai per partire per un viaggio internazionale, rinnovala prima di partire. Una carta danneggiata può essere rifiutata anche se sulla carta risulta ancora valida, e il costo di un rinnovo anticipato è molto inferiore a quello di un viaggio annullato.
+Se la carta mostra segni di usura — pieghe, macchie d'acqua, stampa sbiadita — e stai per partire per un viaggio internazionale, rinnovala prima di partire. Una carta danneggiata può essere rifiutata anche se formalmente risulta ancora valida, e il costo di un rinnovo anticipato è molto inferiore a quello di un viaggio annullato.
 
 ## Le carte d'identità dei bambini e la scadenza più ravvicinata
 
@@ -77,9 +77,9 @@ Nessuno dei due documenti occupa molto spazio, e averli entrambi significa che u
 
 La difficoltà pratica nel gestire i documenti di viaggio è questa: la carta d'identità e il passaporto seguono calendari di rinnovo completamente diversi. Il passaporto può avere ancora 8 mesi di validità mentre alla carta ne restano solo 2. È facile rinnovare uno e dimenticare l'altro, specialmente se non viaggi spesso.
 
-La parte più difficile è che **la maggior parte delle autorità emittenti non ti manda un promemoria.** Dovresti controllare i documenti da solo. La maggior parte delle persone non lo fa, finché non si ritrova al banco del check-in e un agente le dice che uno dei due è troppo vicino alla scadenza per essere accettato.
+La parte più difficile è che **la maggior parte delle autorità emittenti non ti manda un promemoria.** Devi controllare i documenti per conto tuo. La maggior parte delle persone non lo fa, finché non si ritrova al banco del check-in e un agente le dice che uno dei due è troppo vicino alla scadenza per essere accettato.
 
-Ciò che aiuta davvero è avere un unico posto per entrambi i documenti, che conserva ogni data di scadenza e ti avvisa separatamente per ciascuno, con la tempistica adatta a quel tipo di documento. Consulta la nostra guida su [come costruire un controllo completo dei documenti prima del viaggio](https://traveldocumentvault.com/it/blog/travel-document-checklist/) per il quadro completo di cosa verificare prima di partire.
+Quello che aiuta davvero è avere un unico posto per entrambi i documenti: conserva ogni data di scadenza e ti avvisa separatamente per ciascuno, con i tempi giusti per quel tipo di documento. Consulta la nostra guida su [come costruire un controllo completo dei documenti prima del viaggio](https://traveldocumentvault.com/it/blog/travel-document-checklist/) per il quadro completo di cosa verificare prima di partire.
 
 Comincia oggi: prendi la tua carta d'identità, controlla la data di scadenza ed esaminala per vedere se ci sono crepe, sbiadimenti o plastica deformata. Se è al limite, prenota il rinnovo prima di prenotare il viaggio.
 
@@ -106,7 +106,7 @@ No. All'interno dell'UE e del SEE, una carta d'identità valida è sufficiente p
 
 ### Posso usare la carta d'identità per i voli all'interno dell'Europa?
 
-La maggior parte delle compagnie aeree accetta la carta d'identità per i voli all'interno dell'Europa, ma la politica varia da compagnia a compagnia. Verifica sempre con la tua compagnia prima di prenotare. Mostrare la carta al banco del check-in non è il momento giusto per scoprire che non viene accettata.
+La maggior parte delle compagnie aeree accetta la carta d'identità per i voli all'interno dell'Europa, ma la politica varia da compagnia a compagnia. Verifica sempre con la tua compagnia prima di prenotare. Il banco del check-in non è il momento giusto per scoprire che la carta non viene accettata.
 
 ### Cosa devo controllare sulla carta d'identità prima di viaggiare?
 

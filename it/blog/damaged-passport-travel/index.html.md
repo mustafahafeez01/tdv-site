@@ -30,17 +30,17 @@ Soprattutto, la zona a lettura ottica — la striscia bianca e nera in fondo all
 
 ![Diagramma di due passaporti aperti affiancati: uno usurato ma piatto e utilizzabile, l'altro macchiato d'acqua con pagine ondulate e laminazione che si stacca](https://traveldocumentvault.com/blog/damaged-passport-travel/damage-vs-wear-figure.jpg) Piccole pieghe sulla copertina: accettabili. Danni da acqua sulla pagina dati: un problema.
 
-Il motivo per cui questo conta è che **le compagnie aeree si assumono la responsabilità se fanno imbarcare qualcuno con un documento non accettabile.** Se sali a bordo con un passaporto danneggiato e all'arrivo ti viene negato l'ingresso, le autorità possono [multare la compagnia aerea](https://www.legislation.gov.uk/ukpga/1999/33/section/40) per averti trasportato.
+Conta perché **le compagnie aeree si assumono la responsabilità se fanno imbarcare qualcuno con un documento non accettabile.** Se sali a bordo con un passaporto danneggiato e all'arrivo ti viene negato l'ingresso, le autorità possono [multare la compagnia aerea](https://www.legislation.gov.uk/ukpga/1999/33/section/40) per averti trasportato.
 
-Nessun agente del gate vuole occuparsi di quella burocrazia, quindi preferisce agire con decisa cautela.
+Nessun agente del gate vuole occuparsi di quella burocrazia, quindi va sul sicuro.
 
 Un passaporto che sembra dubbio viene rifiutato, punto.
 
-## Noti il Danno Giorni o Settimane Prima del Viaggio
+## Se Noti il Danno Giorni o Settimane Prima del Viaggio
 
-Notare un danno con anticipo è lo scenario migliore, perché hai ancora margine per agire. Nel momento in cui noti qualcosa di strano — una copertina che si spacca, macchie d'acqua, inchiostro che sbava, qualsiasi cosa fuori dal normale — contatta subito l'autorità passaporti, invece di aspettare per vedere se peggiora o dare per scontato che il giorno del viaggio andrà tutto bene.
+Notare un danno con anticipo è lo scenario migliore, perché hai ancora margine per agire. Appena noti qualcosa di strano — una copertina che si spacca, macchie d'acqua, inchiostro che sbava, qualsiasi cosa fuori dal normale — contatta subito l'autorità passaporti, invece di aspettare e vedere se peggiora o di dare per scontato che il giorno del viaggio andrà tutto bene.
 
-La prima tappa dovrebbe essere il sito ufficiale dell'ufficio passaporti del tuo paese, perché è l'unico posto dove regole e tempi di elaborazione aggiornati sono garantiti, ed entrambi cambiano più spesso di quanto si pensi. Se non sei sicuro che il tuo passaporto verrà ancora accettato, l'ufficio passaporti è l'unico ente la cui risposta conta davvero. Un forum di appassionati di viaggi non ti salverà al banco del check-in.
+Parti dal sito ufficiale dell'ufficio passaporti del tuo paese: è l'unico posto dove regole e tempi di elaborazione aggiornati sono garantiti, ed entrambi cambiano più spesso di quanto si pensi. Se non sei sicuro che il tuo passaporto verrà ancora accettato, conta solo la risposta dell'ufficio passaporti. Un forum di appassionati di viaggi non ti salverà al banco del check-in.
 
 Alcune cose da verificare prima di muoverti. I [servizi urgenti o prioritari](https://www.gov.uk/get-a-passport-urgently) di solito esistono, ma non tutti coprono i passaporti danneggiati, e il livello più rapido in assoluto è spesso riservato ai rinnovi semplici. Verifica a quale servizio la tua situazione dà diritto prima di prenotare un appuntamento.
 
@@ -108,7 +108,7 @@ Sì. Le compagnie aeree sono responsabili se fanno imbarcare qualcuno con un doc
 
 ### Cosa devo fare se noto un danno al passaporto prima del viaggio?
 
-Contatta subito l'autorità competente per i passaporti, invece di aspettare per vedere se la situazione peggiora. Il sito ufficiale dell'ufficio passaporti del tuo paese è il posto giusto dove trovare le regole aggiornate, perché i tempi di elaborazione e i requisiti cambiano nel corso dell'anno. Chiedi in particolare se il servizio prioritario accetta un passaporto danneggiato, perché il livello più rapido è spesso riservato ai semplici rinnovi. Se la sostituzione non sarà pronta prima della partenza, chiedi alla tua ambasciata se è possibile ottenere un documento di viaggio d'emergenza.
+Contatta subito l'autorità competente per i passaporti, invece di aspettare e vedere se la situazione peggiora. Il sito ufficiale dell'ufficio passaporti del tuo paese è il posto giusto dove trovare le regole aggiornate, perché i tempi di elaborazione e i requisiti cambiano nel corso dell'anno. Chiedi in particolare se il servizio prioritario accetta un passaporto danneggiato, perché il livello più rapido è spesso riservato ai semplici rinnovi. Se la sostituzione non sarà pronta prima della partenza, chiedi alla tua ambasciata se è possibile ottenere un documento di viaggio d'emergenza.
 
 ### Cosa succede se il mio passaporto risulta danneggiato in aeroporto?
 

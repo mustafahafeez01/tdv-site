@@ -34,7 +34,7 @@ Non devi fidarti di noi. Puoi confermare ogni affermazione qui sopra con strumen
 
 Installa un monitor di rete come **mitmproxy** (gratuito, open source), **Wireshark** (gratuito, open source), o **Charles Proxy**. Apri Travel Document Vault, scansiona un documento, sfoglia il tuo vault e imposta un promemoria. Non dovresti vedere i tuoi documenti, scansioni, date di scadenza o contenuti del vault inviati a Travel Document Vault. Il traffico di rete dovrebbe limitarsi a funzioni specifiche: rapporti di arresto di Sentry opzionali, controlli di acquisto dell'App Store o di Google Play, backup cloud opzionale sul tuo account iCloud o Google Drive personale, e un controllo delle correzioni di bug spiegato di seguito.
 
-Impostazioni ha un pulsante **Verifica aggiornamenti**. Questo controllo è disattivato per impostazione predefinita: viene eseguito quando lo tocchi, oppure una volta a ogni avvio dell’app se attivi Verifica gli aggiornamenti all’apertura. Un download già iniziato può continuare quando l’app passa in background. Il controllo contatta **updates.traveldocumentvault.com** — il nostro server di aggiornamenti, gestito da noi su Google Cloud, che fornisce file di aggiornamento firmati crittograficamente da un bucket di archiviazione. Il gestore degli aggiornamenti non scrive registri applicativi delle richieste. Ogni aggiornamento è firmato con una chiave che solo noi possediamo, e l'app rifiuta tutto ciò la cui firma non corrisponde al certificato integrato in essa. Lo stesso tocco verifica anche se sull'**App Store** o su **Google Play** è disponibile una versione più recente dell'app. Questa funzione esiste per permettere ad alcune correzioni di bug di raggiungerti più rapidamente rispetto ad attendere una release completamente nuova sull'App Store o Google Play, utile per correzioni urgenti, a seconda della natura della correzione. L’archiviazione dei documenti non richiede la rete; i controlli degli acquisti e le funzioni facoltative attivate possono effettuare chiamate di rete automatiche.
+In Impostazioni c'è il pulsante **Verifica aggiornamenti**. Questo controllo è disattivato per impostazione predefinita: viene eseguito quando lo tocchi, oppure una volta a ogni avvio dell’app se attivi Verifica gli aggiornamenti all’apertura. Un download già iniziato può continuare quando l’app passa in background. Il controllo contatta **updates.traveldocumentvault.com** — il nostro server di aggiornamenti, gestito da noi su Google Cloud, che fornisce file di aggiornamento firmati crittograficamente da un bucket di archiviazione. Il gestore degli aggiornamenti non scrive registri applicativi delle richieste. Ogni aggiornamento è firmato con una chiave che solo noi possediamo, e l'app rifiuta tutto ciò la cui firma non corrisponde al certificato integrato in essa. Lo stesso tocco verifica anche se sull'**App Store** o su **Google Play** è disponibile una versione più recente dell'app. Questa funzione esiste per permettere ad alcune correzioni di bug di raggiungerti più rapidamente rispetto ad attendere una release completamente nuova sull'App Store o Google Play, utile per correzioni urgenti, a seconda della natura della correzione. L’archiviazione dei documenti non richiede la rete; i controlli degli acquisti e le funzioni facoltative attivate possono effettuare chiamate di rete automatiche.
 
 ### 2. Rapporto sulla privacy dell'app iOS
 
@@ -42,7 +42,7 @@ Su iPhone, vai a **Impostazioni > Privacy e sicurezza > Rapporto sulla privacy d
 
 ### 3. Android — come verificare la tua privacy
 
-Android non ha un unico rapporto sulla privacy integrato come l'iPhone. Due modi semplici per verificarlo tu stesso: guarda la sezione **Data Safety** di questa app nella sua pagina di Google Play (indica chiaramente cosa viene raccolto, cosa viene condiviso, che i tuoi dati sono crittografati in transito e che non possono essere eliminati) — oppure usa un monitor di rete come descritto al passaggio 1 sopra.
+Android non ha un unico rapporto sulla privacy integrato come l'iPhone. Due modi semplici per controllare da solo: guarda la sezione **Data Safety** di questa app nella sua pagina di Google Play (indica chiaramente cosa viene raccolto, cosa viene condiviso, che i tuoi dati sono crittografati in transito e che non possono essere eliminati) — oppure usa un monitor di rete come descritto al passaggio 1 sopra.
 
 Se hai attivato il backup cloud, potresti notare un po' di attività verso i server di Google (indirizzi web che terminano in **googleapis.com**). Queste connessioni inviano i file crittografati del vault, i controlli di accesso e metadati di backup non crittografati, come nome del dispositivo, conteggi e date e orari, direttamente al **tuo** account Google Drive personale — lo stesso che usi già per foto o Gmail. Non lo vediamo mai, non lo riceviamo mai e non ne conserviamo mai una copia da nessuna parte. Solo tu possiedi la chiave di recupero che può sbloccarlo.
 
@@ -52,7 +52,7 @@ Sia Apple che Google richiedono agli sviluppatori di dichiarare quali dati racco
 
 ## Come testiamo la sicurezza dell'app
 
-Non ci limitiamo a dire che l'app è sicura. Lo verifichiamo, usando gli stessi strumenti aperti e gli stessi standard pubblici adottati dal settore della sicurezza.
+Non ci limitiamo a dire che l'app è sicura: lo verifichiamo, usando gli stessi strumenti aperti e gli stessi standard pubblici adottati dal settore della sicurezza.
 
 ### Confronta l’app con uno standard pubblico
 
@@ -74,9 +74,9 @@ Questa è una nostra valutazione rispetto a uno standard pubblico, non un audit 
 
 ## Ogni autorizzazione spiegata
 
-Le app Android dichiarano i permessi nel loro manifesto. Alcuni sono richiesti direttamente dall'app e altri sono ereditati dalle librerie da cui dipende l'app. Ecco una suddivisione trasparente di ogni autorizzazione, raggruppata per scopo.
+Le app Android dichiarano i permessi nel loro manifesto. Alcuni sono richiesti direttamente dall'app e altri sono ereditati dalle librerie da cui dipende l'app. Ecco l'elenco chiaro di ogni autorizzazione, raggruppate per scopo.
 
-### Autorizzazioni che l'app utilizza direttamente
+### Autorizzazioni che l'app usa direttamente
 
 ### Fotocamera
 
@@ -170,7 +170,7 @@ Hai ancora domande? Leggi la nostra [Informativa sulla privacy](https://traveldo
 
 ## Scarica gratis. Nessun abbonamento.
 
-Configuralo stasera. Lascia che l'app ricordi al posto Suo.
+Configuralo stasera. Lascia che l'app ricordi al posto tuo.
 
 ![Scarica su App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 
