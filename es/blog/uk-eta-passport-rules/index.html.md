@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/es/blog/uk-eta-passport-rules/
 
 - **Una ETA del Reino Unido está vinculada a tu número de pasaporte.** Cuando renuevas tu pasaporte y obtienes un número nuevo, tu ETA anterior deja de ser válida.
 - Debes viajar con **el pasaporte exacto con el que la solicitaste.** Un pasaporte nuevo significa que necesitas una ETA nueva antes de viajar.
-- **Cada persona necesita su propia ETA** —incluidos los niños y los bebés. No existe una ETA familiar ni una entrada como dependiente.
+- **Cada persona necesita su propia ETA** —incluidos los niños y los bebés. No existe una ETA familiar. Cada persona necesita la suya, aunque puedes solicitarla en nombre de tus familiares.
 - El Home Office recomienda solicitarla **con al menos 3 días hábiles de antelación.** Es una recomendación, no una garantía de plazo de tramitación.
 - Una ETA es **un permiso para viajar, no un permiso de entrada.** Los agentes fronterizos pueden denegar la entrada incluso con una ETA válida.
 
@@ -32,7 +32,7 @@ Algunas personas están exentas: los ciudadanos irlandeses no la necesitan, y la
 
 Tu ETA del Reino Unido está vinculada a tu número de pasaporte, no a ti como persona. Cuando solicitas la ETA, el Home Office asocia la aprobación a un número de pasaporte concreto. Viajar con un pasaporte distinto —uno recién renovado, un segundo pasaporte, un reemplazo de emergencia— significa viajar con una ETA que no está vinculada a ese documento.
 
-Esto es distinto de los visados de muchos países, que suelen estar vinculados a la persona y se imprimen en el nuevo pasaporte al renovarlo. Una ETA del Reino Unido es digital y específica del pasaporte, así que un número de pasaporte nuevo implica que necesitas una ETA nueva.
+Una ETA del Reino Unido es digital y específica del pasaporte, así que un número de pasaporte nuevo implica que necesitas una ETA nueva.
 
 En la práctica, si tu pasaporte caduca o lo renuevas por cualquier motivo antes de tu viaje, no puedes usar tu antigua ETA con el nuevo pasaporte. Debes volver a solicitarla y obtener la aprobación antes de viajar, ya que no existe ninguna transferencia automática.
 
@@ -57,13 +57,13 @@ El riesgo está en el paso 5. Si tu viaje es dentro de 10 días y tu nuevo pasap
 
 ## Cada niño necesita su propia ETA, bebés incluidos
 
-Cada persona, incluidos los bebés, necesita su propia ETA del Reino Unido. No existe una ETA familiar ni forma de añadir personas dependientes a la solicitud de otra persona.
+Cada persona, incluidos los bebés, necesita su propia ETA del Reino Unido. No existe una ETA familiar. Cada persona necesita la suya, aunque puedes solicitarla en nombre de tus familiares.
 
 Esto significa que, para una familia de cuatro, presentas cuatro solicitudes independientes y pagas cuatro tasas independientes. Más importante aún, tienes que hacer seguimiento de cuatro estados de aprobación, cuatro fechas de caducidad y cuatro números de pasaporte, todo por separado.
 
-Los pasaportes de los niños también caducan antes que los de los adultos —normalmente cada 5 años en lugar de 10. Un bebé al que se le expidió el pasaporte en 2023 tendrá un número de pasaporte nuevo antes de 2028, lo que implica una nueva solicitud de ETA antes de esa fecha. Si se planea un viaje familiar cuando ese niño tenga 5 años, tanto el pasaporte como la ETA podrían caducar en uno o dos años.
+En muchos países el pasaporte de un niño tiene una validez menor que el de un adulto, a menudo de 5 años, así que comprueba el tuyo. Un pasaporte infantil expedido por 5 años en 2023 habría que sustituirlo antes de 2028, lo que implica una nueva solicitud de ETA antes de esa fecha. Si se planea un viaje familiar cuando ese niño tenga 5 años, tanto el pasaporte como la ETA podrían caducar en uno o dos años.
 
-**Antes de reservar cualquier viaje familiar al Reino Unido, comprueba la fecha de caducidad del pasaporte y el estado de la ETA de cada miembro de la familia.** Una sola persona con la validez justa puede impedir que embarque toda la familia.
+**Antes de reservar cualquier viaje familiar al Reino Unido, comprueba la fecha de caducidad del pasaporte y el estado de la ETA de cada miembro de la familia.** Una sola persona con la validez justa o sin ETA puede que no pueda embarcar, lo que puede trastocar el viaje de toda la familia.
 
 ## Solicítala entre dos y tres semanas antes de viajar
 
@@ -81,7 +81,7 @@ El planteamiento más seguro: solicítala en cuanto tengas tu pasaporte definiti
 
 Una ETA del Reino Unido significa que el Home Office aprueba tu viaje al Reino Unido, pero eso no garantiza que se te vaya a permitir cruzar la frontera.
 
-Un agente fronterizo siempre puede denegar la entrada. Puede preguntarte por el motivo de tu viaje, tu situación económica, tus vínculos con tu país de origen o tus patrones de viaje anteriores. Si no queda convencido, puede denegarte la entrada aunque tu ETA sea válida. Es poco frecuente para los turistas, pero ocurre.
+Un agente fronterizo siempre puede denegar la entrada. Los agentes pueden preguntarte por el motivo de tu viaje y pueden denegarte la entrada si no quedan convencidos, aunque tu ETA sea válida.
 
 Una ETA tampoco es un visado —no determina cuánto tiempo puedes quedarte. Los titulares de una ETA de la mayoría de países exentos de visado pueden permanecer hasta 6 meses como visitantes, pero es el agente fronterizo quien fija la duración real de la estancia a tu llegada, no la ETA en sí.
 
@@ -89,7 +89,7 @@ Una ETA tampoco es un visado —no determina cuánto tiempo puedes quedarte. Los
 
 La ETA del Reino Unido es solo una de varias autorizaciones de viaje digitales ya en uso. Si estás planeando un viaje por varios países, conviene entender la diferencia entre una ETA y un [visado](https://traveldocumentvault.com/es/blog/visa-vs-passport/). Se parecen en el trámite, pero cumplen funciones distintas.
 
-La UE está implantando su propio sistema de autorización de viaje digital, llamado [ETIAS](https://traveldocumentvault.com/es/blog/etias-documents-2026/), para visitantes de fuera de la UE —un concepto parecido al de la ETA del Reino Unido, pero con normas y requisitos distintos. Si tu viaje incluye tanto el Reino Unido como Europa, podrías necesitar las dos.
+La UE prevé su propia autorización de viaje digital, [ETIAS](https://traveldocumentvault.com/es/blog/etias-documents-2026/), que todavía no está en funcionamiento. Es un concepto parecido al de la ETA del Reino Unido, pero con normas y requisitos distintos. Cuando arranque, un viaje que incluya tanto el Reino Unido como el espacio Schengen podría requerir las dos.
 
 Si ya tienes un viaje reservado, haz esto hoy mismo: compara la fecha de caducidad de tu pasaporte con las fechas del viaje y confirma que tu ETA actual está vinculada al pasaporte con el que vas a viajar de verdad. Si alguna de las dos cosas no cuadra, empieza ya la renovación o la nueva solicitud, no la semana antes de volar.
 
@@ -97,7 +97,7 @@ Si ya tienes un viaje reservado, haz esto hoy mismo: compara la fecha de caducid
 
 ### ¿Qué es una ETA del Reino Unido?
 
-Una ETA del Reino Unido (Electronic Travel Authorisation) es una autorización de viaje digital que el Reino Unido introdujo en 2025. El sistema entró en vigor el 25 de febrero de 2026 para la mayoría de nacionales exentos de visado. No es un visado —es un permiso para viajar. Los agentes fronterizos pueden seguir denegando la entrada aunque tengas una ETA válida.
+Una ETA del Reino Unido (Electronic Travel Authorisation) es una autorización de viaje digital que el Reino Unido puso en marcha en octubre de 2023. El sistema entró en vigor el 25 de febrero de 2026 para la mayoría de nacionales exentos de visado. No es un visado —es un permiso para viajar. Los agentes fronterizos pueden seguir denegando la entrada aunque tengas una ETA válida.
 
 ### ¿Quién debe solicitar una ETA del Reino Unido?
 

@@ -30,11 +30,11 @@ Muitos destinos querem prova de que planeia sair, normalmente um voo de regresso
 
 ### Confirmações de alojamento
 
-Alguns países pedem para ver prova da sua reserva da primeira noite, seja uma confirmação de hotel, um Airbnb ou uma pousada. O funcionário quer prova de que tem um local para ficar, portanto descarregue uma cópia no seu telemóvel desligado — o email não ajudará na fronteira.
+Algumas companhias aéreas e agentes de fronteira podem pedir para ver prova da sua reserva da primeira noite, seja uma confirmação de hotel, um Airbnb ou uma pousada. O funcionário quer prova de que tem um local para ficar, portanto descarregue uma cópia no seu telemóvel desligado — o email não ajudará na fronteira.
 
 ### Certificados de vacinação
 
-Certos destinos exigem comprovante de vacinação contra febre amarela ou outras doenças, e os requisitos mudam periodicamente por destino. Consulte as páginas de conselhos de viagem da OMS 6-8 semanas antes de viajar — não na noite anterior — pois alguns países apenas aceitam certificados amarelos de febre amarela oficiais da OMS, não fotocópias ou fotos digitais.
+Certos destinos exigem comprovante de vacinação contra febre amarela ou outras doenças, e os requisitos mudam periodicamente por destino. Consulte as páginas de conselhos de viagem da OMS 4-8 semanas antes de viajar — não na noite anterior — e leve o certificado original em vez de uma cópia, pois alguns países pedem para o ver.
 
 ### Detalhes de seguro de viagem
 
@@ -42,7 +42,7 @@ Precisará de acesso imediato ao número da sua apólice, detalhes de contacto d
 
 ### Cartas de consentimento para viagem de menores
 
-Quando uma criança viaja internacionalmente com apenas um progenitor (ou sem ambos os progenitores), muitos países esperam consentimento escrito do progenitor ausente, e a autenticação por notário é fortemente recomendada. Os funcionários de fronteira em países incluindo Canadá e África do Sul pedem rotineiramente isto, e o pessoal da companhia aérea pode recusar o embarque sem isto.
+Quando uma criança viaja internacionalmente com apenas um progenitor (ou sem ambos os progenitores), muitos países esperam consentimento escrito do progenitor ausente, e a autenticação por notário é fortemente recomendada. Os agentes de fronteira e o pessoal das companhias aéreas de muitos países, o Canadá entre eles, podem pedir isto, e a África do Sul tem regras próprias para crianças que entram no país, por isso consulte a página oficial do destino. Sem uma carta, pode enfrentar atrasos ou a recusa de embarque.
 
 É o documento mais frequentemente esquecido em viagens familiares, portanto verifique duas vezes antes de chegar à porta.
 
@@ -89,7 +89,7 @@ Nós guardaríamos o número de emergência nos contactos do telemóvel, separad
 
 ## O Que Famílias com Crianças Precisam de Adicionar
 
-Cada criança precisa do seu próprio passaporte para viagens internacionais, por muito jovem que seja. Muitos países também controlam atentamente viagens de crianças para se protegerem contra rapto parental, portanto espere perguntas extra quando uma criança viaja com apenas um progenitor.
+Na maioria dos casos, cada criança precisa do seu próprio passaporte para viagens internacionais, por muito jovem que seja. Muitos países também controlam atentamente viagens de crianças para se protegerem contra rapto parental, portanto espere perguntas extra quando uma criança viaja com apenas um progenitor.
 
 A mesma regra aplica-se aqui: quando uma criança viaja internacionalmente com apenas um progenitor, muitos funcionários de fronteira pedirão consentimento escrito do progenitor ausente, preferencialmente autenticado por notário. Se viajar sem ambos os progenitores (com avós, por exemplo), o consentimento de ambos os progenitores é tipicamente exigido. Os requisitos mudam e variam por nacionalidade, portanto verifique com a autoridade de imigração oficial do seu destino.
 
@@ -121,7 +121,7 @@ Transporte fisicamente: passaporte, documentos de visto, cartões de embarque, c
 
 ### É realmente necessária uma carta de consentimento de viagem para menores?
 
-Sim, em muitos países é esperado. Se uma criança viajar internacionalmente com apenas um progenitor, o progenitor ausente deve fornecer consentimento escrito, e a autenticação por notário é fortemente recomendada. Se viajar sem ambos os progenitores (com avós, por exemplo), tipicamente ambos os progenitores precisam consentir por escrito. Os funcionários de fronteira em países incluindo Canadá e África do Sul pedem rotineiramente isto, e sem isto corre o risco de ser-lhe recusado o embarque ou a entrada. Verifique sempre os requisitos para o seu destino específico.
+Sim, em muitos países é esperado. Se uma criança viajar internacionalmente com apenas um progenitor, o progenitor ausente deve fornecer consentimento escrito, e a autenticação por notário é fortemente recomendada. Se viajar sem ambos os progenitores (com avós, por exemplo), tipicamente ambos os progenitores precisam consentir por escrito. Os agentes de fronteira e o pessoal das companhias aéreas de muitos países, o Canadá entre eles, podem pedir isto, e a África do Sul tem regras próprias para crianças que entram no país, por isso consulte a página oficial do destino. Sem isto, pode enfrentar atrasos ou a recusa de embarque. Verifique sempre os requisitos para o seu destino específico.
 
 ### Devo manter cópias de segurança digitais dos meus documentos?
 
@@ -129,7 +129,7 @@ Sim. Guarde cópias encriptadas desligadas no seu telemóvel — não no seu rol
 
 ### O que acontece se chegar ao aeroporto sem um documento necessário?
 
-Esquecer o seu passaporte significa que não pode embarcar. Para documentos de apoio em falta, o resultado varia: um certificado de vacinação em falta pode permitir-lhe remarcar e regressar a casa para o obter, enquanto uma carta de consentimento em falta pode resultar no embarque recusado para a sua criança. Alguns destinos oferecem visto na chegada, mas a maioria dos documentos de apoio não podem ser obtidos nas fronteiras. Verifique sempre os requisitos 2-3 semanas antes da partida.
+Esquecer o seu passaporte significa que não pode embarcar. Para documentos de apoio em falta, o resultado varia: um certificado de vacinação em falta pode permitir-lhe remarcar e regressar a casa para o obter, enquanto uma carta de consentimento em falta pode resultar no embarque recusado para a sua criança. Alguns destinos oferecem visto na chegada, mas a maioria dos documentos de apoio não podem ser obtidos nas fronteiras. Verifique sempre os requisitos com bastante antecedência antes da partida e reserve 4-8 semanas se precisar de vacinas.
 
 ## Artigos Relacionados
 

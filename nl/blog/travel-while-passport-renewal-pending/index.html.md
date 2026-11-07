@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/nl/blog/travel-while-passport-renewal-pe
 ## Belangrijkste punten
 
 - Alles hieronder komt neer op één ding: heb je je paspoort nog in bezit, of heb je het al ingeleverd voor verlenging.
-- **Verenigde Staten:** Verlenging per post laat je je oude paspoort behouden. Binnenlandse reizen zijn geen probleem. Voor internationale reizen moet je verlengde paspoort eerst zijn aangekomen.
+- **Verenigde Staten:** Bij verlenging per post stuur je je huidige paspoort mee met de aanvraag. Binnenlandse reizen zijn geen probleem. Voor internationale reizen moet je verlengde paspoort eerst zijn aangekomen.
 - **Verenigd Koninkrijk (postale verlenging):** Je paspoort wordt vastgehouden door HM Passport Office. Je kunt niet internationaal reizen totdat het is teruggestuurd. **Verenigd Koninkrijk (digitale verlenging):** Je houdt je paspoort de hele tijd bij je en kunt ermee reizen terwijl het nieuwe wordt verwerkt.
 - **Australië en Canada:** Beide vereisen dat je je paspoort inlevert bij de aanvraag. Internationale reizen zijn niet mogelijk totdat het nieuwe paspoort is uitgegeven.
 - Versnelde en spoedopties voor verlenging bestaan in elk land dat hier wordt besproken, maar de basisregel blijft gelden: je kunt niet internationaal reizen zonder een geldig paspoort in handen.
@@ -28,7 +28,7 @@ Of je dat paspoort nog hebt, hangt volledig af van je land en je verlengingsmeth
 
 ## Verenigde Staten: verlenging per post
 
-Voor een standaard Amerikaanse paspoortverlenging per post hoef je je huidige paspoort niet in te leveren voordat het nieuwe aankomt. Je vult formulier DS-82 in, voegt je bestaande paspoort toe en stuurt alles naar het National Passport Processing Center. Je oude paspoort wordt samen met het nieuwe teruggestuurd, meestal ongeldig gemaakt met een gaatje.
+Bij een standaard Amerikaanse paspoortverlenging per post stuur je je huidige paspoort mee met de aanvraag, dus tijdens de behandeling heb je het niet. Je vult formulier DS-82 in, voegt je bestaande paspoort toe en stuurt alles naar het National Passport Processing Center. Volgens USAGov wordt je oude paspoort apart teruggestuurd, meestal ongeveer vier weken nadat je het nieuwe hebt gekregen.
 
 Dat betekent dat binnenlandse reizen binnen de Verenigde Staten gedurende het hele verlengingsproces geen probleem zijn – je hebt geen paspoort nodig voor binnenlandse vluchten. Internationale reizen zijn een ander verhaal: je kunt niet internationaal reizen totdat je nieuwe paspoort is aangekomen, en je kunt het oude ongeldig gemaakte paspoort niet gebruiken, ook al heb je het in handen.
 
@@ -114,7 +114,7 @@ Neem onmiddellijk contact op met je paspoortinstantie en vraag naar versnelde of
 
 ### Behoud ik mijn paspoort tijdens het verlengingsproces?
 
-Dat hangt ervan af. Bij Amerikaanse verlenging per post krijg je je oude paspoort (ongeldig gemaakt) samen met het nieuwe terug. Bij Britse digitale verlenging houd je het de hele tijd bij je. Britse postale verlenging, Australië en Canada vereisen allemaal dat je je paspoort inlevert bij de aanvraag.
+Dat hangt ervan af. Bij Amerikaanse verlenging per post stuur je je oude paspoort op, en volgens USAGov wordt het apart teruggestuurd, meestal ongeveer vier weken nadat je het nieuwe hebt gekregen. Bij Britse digitale verlenging houd je het de hele tijd bij je. Britse postale verlenging, Australië en Canada vereisen allemaal dat je je paspoort inlevert bij de aanvraag.
 
 ### Wat is een noodreisdocument?
 

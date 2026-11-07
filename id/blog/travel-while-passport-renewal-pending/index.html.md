@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/id/blog/travel-while-passport-renewal-pe
 ## Poin Penting
 
 - Semua di bawah ini bergantung pada satu hal: apakah paspor Anda masih di tangan Anda, atau sudah diserahkan untuk diperpanjang.
-- **Amerika Serikat:** Perpanjangan lewat pos memungkinkan Anda tetap memegang paspor lama. Perjalanan domestik tidak masalah. Perjalanan internasional membutuhkan paspor baru yang sudah tiba.
+- **Amerika Serikat:** Perpanjangan lewat pos berarti Anda mengirimkan paspor saat ini bersama permohonan. Perjalanan domestik tidak masalah. Perjalanan internasional membutuhkan paspor baru yang sudah tiba.
 - **Inggris (perpanjangan pos):** Paspor Anda disimpan oleh HM Passport Office. Anda tidak bisa bepergian internasional sampai paspor itu dikembalikan. **Inggris (perpanjangan digital):** Anda tetap memegang paspor sepanjang proses dan bisa memakainya untuk bepergian selama paspor baru diproses.
 - **Australia dan Kanada:** Keduanya mengharuskan Anda menyerahkan paspor saat mengajukan permohonan. Perjalanan internasional tidak memungkinkan sampai paspor baru diterbitkan.
 - Opsi perpanjangan cepat dan mendesak tersedia di setiap negara yang dibahas di sini, tapi aturan dasarnya tetap sama: Anda tidak bisa bepergian internasional tanpa paspor yang sah di tangan.
@@ -28,7 +28,7 @@ Apakah Anda masih memegang paspor itu sepenuhnya bergantung pada negara dan meto
 
 ## Amerika Serikat: Perpanjangan Lewat Pos
 
-Perpanjangan paspor AS standar lewat pos tidak mengharuskan Anda menyerahkan paspor Anda saat ini sebelum paspor baru tiba. Anda mengisi formulir DS-82, menyertakan paspor Anda yang masih berlaku, dan mengirim semuanya ke National Passport Processing Center. Paspor lama Anda dikembalikan bersama paspor baru, biasanya sudah dilubangi sebagai tanda dibatalkan.
+Perpanjangan paspor AS standar lewat pos berarti mengirimkan paspor Anda saat ini bersama permohonan, sehingga paspor itu tidak ada di tangan Anda selama menunggu. Anda mengisi formulir DS-82, menyertakan paspor Anda yang masih berlaku, dan mengirim semuanya ke National Passport Processing Center. Menurut USAGov, paspor lama Anda dikirim kembali secara terpisah, biasanya sekitar empat minggu setelah paspor baru Anda terima.
 
 Artinya perjalanan domestik di dalam Amerika Serikat tidak terpengaruh selama proses perpanjangan berlangsung, Anda tidak memerlukan paspor untuk penerbangan domestik. Perjalanan internasional adalah cerita lain: Anda tidak bisa bepergian internasional sampai paspor baru tiba, dan Anda tidak bisa memakai paspor lama yang sudah dibatalkan meskipun masih ada di tangan Anda.
 
@@ -114,7 +114,7 @@ Segera hubungi layanan paspor Anda dan tanyakan soal pemrosesan cepat atau mende
 
 ### Apakah saya tetap memegang paspor saya selama proses perpanjangan?
 
-Tergantung. Perpanjangan lewat pos di AS mengembalikan paspor lama Anda (yang sudah dibatalkan) bersama paspor baru. Perpanjangan digital Inggris memungkinkan Anda tetap memegangnya sepanjang proses. Perpanjangan pos Inggris, Australia, dan Kanada semuanya mengharuskan Anda menyerahkan paspor saat mengajukan permohonan.
+Tergantung. Perpanjangan lewat pos di AS berarti Anda mengirimkan paspor lama, dan menurut USAGov paspor itu dikirim kembali secara terpisah, biasanya sekitar empat minggu setelah paspor baru. Perpanjangan digital Inggris memungkinkan Anda tetap memegangnya sepanjang proses. Perpanjangan pos Inggris, Australia, dan Kanada semuanya mengharuskan Anda menyerahkan paspor saat mengajukan permohonan.
 
 ### Apa itu dokumen perjalanan darurat?
 

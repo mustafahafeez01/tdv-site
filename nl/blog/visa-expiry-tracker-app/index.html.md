@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/nl/blog/visa-expiry-tracker-app/
 - Bezoekers van het Schengengebied moeten een voortschrijdend venster van 90/180 dagen bijhouden, niet slechts één enkele vervaldatum, omdat de telling meeloopt met je werkelijke reisgeschiedenis, niet met de kalender.
 - Visa en paspoorten samen op één plek bijhouden verkleint het risico op een mismatch: inreizen op een geldig visum maar met een paspoort dat verloopt voordat het geplande verblijf eindigt.
 
-Een visumoverstay is een van de meest verstrekkende reisfouten die iemand kan maken. In tegenstelling tot een gemiste vlucht – stressvol maar uiteindelijk oplosbaar – laat een overstay een formeel immigratiedossier achter dat je jarenlang kan achtervolgen. In de Verenigde Staten leidt een overstay van slechts 180 dagen tot een automatisch inreisverbod van 3 jaar op grond van INA-sectie 212(a)(9)(B)(i), en een overstay van een jaar leidt tot een verbod van 10 jaar. Deze gevolgen zijn niet algemeen bekend, maar worden gedocumenteerd door de Amerikaanse immigratiedienst USCIS.
+Een visumoverstay is een van de meest verstrekkende reisfouten die iemand kan maken. In tegenstelling tot een gemiste vlucht – stressvol maar uiteindelijk oplosbaar – laat een overstay een formeel immigratiedossier achter dat je jarenlang kan achtervolgen. In de Verenigde Staten geldt volgens sectie 212(a)(9)(B) van de Amerikaanse Immigration and Nationality Act: wie meer dan 180 dagen, maar minder dan een jaar, onrechtmatig verblijft en dan vertrekt, krijgt doorgaans een inreisverbod van drie jaar, en een jaar of langer onrechtmatig verblijf betekent doorgaans een verbod van tien jaar. Deze gevolgen zijn niet algemeen bekend.
 
 Een app voor visumvervaldatums is gebouwd om precies dit te voorkomen: hij moet meerdere datums tegelijk bijhouden, geldigheid voor inreis, maximale verblijfsduur en aantal inreizen, elk een aparte deadline.
 
@@ -26,13 +26,13 @@ Een paspoort heeft één relevante datum: de vervaldatum. Een visum heeft er doo
 
 Wat dit in de praktijk betekent
 
-Een reiziger reist Vietnam binnen op een visum met de stempel "geldig tot 30 juni" en daaronder "verblijf van 30 dagen", en komt op 20 juni het land binnen. Het visum is geldig voor inreis, maar de reiziger moet uiterlijk 20 juli vertrekken, niet 30 juni. Deze twee datums door elkaar halen is een van de meest voorkomende oorzaken van onbedoelde overstays.
+Een reiziger reist een land binnen op een visum met de stempel "geldig tot 30 juni" en daaronder "verblijf van 30 dagen", en komt op 20 juni aan. Het visum is geldig voor inreis, maar waar het verblijf vanaf aankomst wordt geteld, moet de reiziger uiterlijk 20 juli vertrekken, niet 30 juni. Sommige landen eisen juist dat je vertrekt vóór de einddatum van het visum, dus lees de tekst op het jouwe goed. Deze twee datums door elkaar halen is een van de meest voorkomende oorzaken van onbedoelde overstays.
 
 | Veld | Wat het betekent | Voorbeeld |
 |---|---|---|
 | **Geldigheidsdatum voor inreis** | De laatste datum waarop je dit visum kunt gebruiken om het land binnen te reizen | "Geldig tot 31 dec 2026" - je moet vóór deze datum binnenkomen |
 | **Maximale verblijfsduur** | Hoelang je mag blijven zodra je binnen bent, ongeacht de geldigheidsdatum van het visum | "Verblijfsduur: 90 dagen" - de klok start bij inreis, niet bij afgifte van het visum |
-| **Aantal inreizen** | Enkele, dubbele of meervoudige inreis toegestaan | Een visum voor enkele inreis vervalt op het moment dat je vertrekt, ook als de geldigheidsdatum nog niet is verstreken |
+| **Aantal inreizen** | Enkele, dubbele of meervoudige inreis toegestaan | Een visum voor enkele inreis is doorgaans verbruikt op het moment dat je vertrekt, ook als de geldigheidsdatum nog niet is verstreken |
 | **Regels voor voortschrijdend venster** | Sommige visumregelingen (met name Schengen) berekenen toegestane dagen binnen een voortschrijdend venster | Schengen: maximaal 90 dagen binnen elke periode van 180 dagen, niet per kalenderjaar |
 
 Een app die alleen de geldigheidsdatum voor inreis bijhoudt, mist precies deze valkuil: de maximale verblijfsduur overschrijden na een volkomen legale inreis. Het is het veld dat de meeste reizigers vergeten bij te houden, omdat de datum nergens in het paspoort staat gestempeld – je moet hem zelf berekenen op basis van je eigen inreisdatum.
@@ -51,8 +51,8 @@ De gevolgen van een visumoverstay verschillen per land, maar zijn doorgaans erns
 
 - **VK:** Overstays worden geregistreerd en beïnvloeden toekomstige visumaanvragen. Het Britse Home Office weegt overstays mee bij het beoordelen van geloofwaardigheid en kan latere aanvragen afwijzen.
 - **Australië:** Een overstay kan leiden tot beperkingen bij toekomstige visumaanvragen en uitzetting uit het land. Onder de Migration Act 1958 worden overstays geregistreerd en beïnvloeden ze toekomstige visumaanvragen en de mogelijkheid om weer in te reizen.
-- **Schengengebied:** Overstays worden bijgehouden in het Schengen Informatiesysteem (SIS). Een verbod dat door één Schengenland is uitgevaardigd, geldt in het hele Schengengebied, dat de Europese Commissie momenteel op 29 landen stelt.
-- **Thailand:** Overstays leiden tot een dagelijkse boete die door de Thaise immigratiedienst wordt vastgesteld, tot een maximum, en kunnen bij langere overstays leiden tot arrestatie en uitzetting.
+- **Schengengebied:** Verblijven worden bij de grens geregistreerd, en een inreisverbod van één Schengenland wordt doorgaans via het Schengen Informatiesysteem met de andere gedeeld, zodat het in het hele Schengengebied geldt, dat de Europese Commissie momenteel op 29 landen stelt.
+- **Thailand:** Overstays leiden tot een dagelijkse boete die door de Thaise immigratiedienst wordt vastgesteld, tot een maximum, en een overstay van meer dan 90 dagen kan leiden tot uitzetting en een verbod om terug te keren.
 
 In alle gevallen blijft het overstay-dossier je meestal volgen: het verschijnt in immigratiedatabases die worden gecontroleerd bij toekomstige grensovergangen en visumaanvragen.
 
@@ -72,7 +72,7 @@ Met al deze complexiteit in gedachten moet een goede app voor visumvervaldatums 
 
 1. **Noteer je inreisdatum op de dag dat je aankomt.** De klok voor je maximale verblijfsduur begint direct te lopen bij inreis, niet vanaf de afgifte van het visum of het begin van de geldigheidsperiode voor inreis.
 2. **Bereken en noteer je laatst toegestane vertrekdatum.** Tel je maximale verblijfsduur op bij je inreisdatum. Dit is de datum waarop je uiterlijk moet vertrekken – eerder als je tijd nodig hebt om een vertrekpunt te bereiken.
-3. **Houd bij of het gaat om enkele of meervoudige inreis.** Als je visum voor enkele inreis geldt, vervalt het bij een dagtrip naar een buurland – plan dienovereenkomstig.
+3. **Houd bij of het gaat om enkele of meervoudige inreis.** Als je visum voor enkele inreis geldt, is het doorgaans verbruikt zodra je het land verlaat, dus check of een dagtrip is toegestaan voordat je een grens oversteekt.
 4. **Houd voor Schengenreizen een logboek bij van in- en uitreisdatums.** Gebruik de officiële calculator van de Europese Commissie om je resterende dagen te controleren vóór elke reis die volgt op recente Schengenreizen.
 5. **Stel ruim vóór je maximale verblijfsdeadline een herinnering in.** Dat geeft je tijd om een vertrek zonder haast te regelen, vooral als de vervoersmogelijkheden op je bestemming beperkt zijn.
 
@@ -92,7 +92,7 @@ De visumvervaldatum is de laatste datum waarop je het visum kunt gebruiken om he
 
 ### Wat gebeurt er als je een visum overschrijdt (overstay)?
 
-De gevolgen verschillen per land, maar omvatten vaak boetes, inreisverboden en uitzetting. In de VS leidt een overstay van 180 dagen tot een automatisch inreisverbod van 3 jaar, en een overstay van 1 jaar tot een verbod van 10 jaar – zoals gedocumenteerd door USCIS. Overstays worden geregistreerd in immigratiedatabases en beïnvloeden toekomstige visumaanvragen.
+De gevolgen verschillen per land, maar omvatten vaak boetes, inreisverboden en uitzetting. In de VS leidt meer dan 180 dagen onrechtmatig verblijf doorgaans tot een inreisverbod van 3 jaar nadat je vertrekt, en een jaar of langer tot een verbod van 10 jaar, op grond van de Immigration and Nationality Act. Overstays worden geregistreerd in immigratiedatabases en beïnvloeden toekomstige visumaanvragen.
 
 ### Kan een app voor visumvervaldatums offline werken?
 

@@ -30,11 +30,11 @@ Molte destinazioni vogliono la prova che hai intenzione di partire, di solito un
 
 ### Conferme di alloggio
 
-Alcuni paesi chiedono di vedere prova della prenotazione della prima notte, che sia una conferma di hotel, un Airbnb o un ostello. L'ufficiale vuole prova che si ha un posto dove stare, quindi scaricare una copia sul telefono offline — l'email non ti servirà al confine.
+Alcune compagnie aeree e alcuni ufficiali di frontiera possono chiedere di vedere prova della prenotazione della prima notte, che sia una conferma di hotel, un Airbnb o un ostello. L'ufficiale vuole prova che si ha un posto dove stare, quindi scaricare una copia sul telefono offline — l'email non ti servirà al confine.
 
 ### Certificati di vaccinazione
 
-Certe destinazioni richiedono prova di vaccinazione per la febbre gialla o altre malattie, e i requisiti cambiano periodicamente per destinazione. Controllare le pagine di consulenza ai viaggiatori dell'OMS 6-8 settimane prima del viaggio — non la notte prima — poiché alcuni paesi accettano solo certificati ufficiali di febbre gialla dell'OMS, non fotocopie o foto digitali.
+Certe destinazioni richiedono prova di vaccinazione per la febbre gialla o altre malattie, e i requisiti cambiano periodicamente per destinazione. Controllare le pagine di consulenza ai viaggiatori dell'OMS 4-8 settimane prima del viaggio — non la notte prima — e portare il certificato originale anziché una copia, poiché alcuni paesi chiedono di vederlo.
 
 ### Dettagli di assicurazione di viaggio
 
@@ -42,7 +42,7 @@ Sarà necessario accesso immediato al numero della polizza, ai dettagli di conta
 
 ### Lettere di consenso per il viaggio dei bambini
 
-Quando un bambino viaggia internazionalmente solo con un genitore (o con nessuno dei due genitori), molti paesi si aspettano il consenso scritto del genitore assente, e la notarizzazione è vivamente consigliata. I funzionari di frontiera in paesi come il Canada e il Sudafrica chiedono regolarmente, e il personale della compagnia aerea può rifiutare l'imbarco senza di essa.
+Quando un bambino viaggia internazionalmente solo con un genitore (o con nessuno dei due genitori), molti paesi si aspettano il consenso scritto del genitore assente, e la notarizzazione è vivamente consigliata. I funzionari di frontiera e il personale delle compagnie aeree in molti paesi, il Canada tra questi, possono chiederne una, e il Sudafrica ha regole proprie per i minori che entrano nel paese, quindi consulta la pagina ufficiale della destinazione. Senza una lettera si possono subire ritardi o il rifiuto dell'imbarco.
 
 È il documento più comunemente trascurato nei viaggi in famiglia, quindi verificare prima di raggiungere il gate.
 
@@ -89,7 +89,7 @@ Noi salveremmo il numero di emergenza nei contatti del telefono, separato dai do
 
 ## Ciò Che Le Famiglie con Bambini Devono Aggiungere
 
-Ogni bambino ha bisogno del proprio passaporto per i viaggi internazionali, per quanto giovani. Molti paesi scrutinizzano anche i viaggi dei bambini da vicino per proteggersi dal rapimento parentale, quindi aspettarsi domande extra quando un bambino viaggia con un solo genitore.
+Nella maggior parte dei casi ogni bambino ha bisogno del proprio passaporto per i viaggi internazionali, per quanto giovani. Molti paesi scrutinizzano anche i viaggi dei bambini da vicino per proteggersi dal rapimento parentale, quindi aspettarsi domande extra quando un bambino viaggia con un solo genitore.
 
 La stessa regola vale anche qui: quando un bambino viaggia internazionalmente con un solo genitore, molti ufficiali di frontiera chiederanno il consenso scritto del genitore assente, preferibilmente notarizzato. Se il viaggio è fatto senza nessuno dei due genitori (con i nonni, ad esempio), il consenso di entrambi i genitori è solitamente richiesto. I requisiti cambiano e variano in base alla nazionalità, quindi verificare con l'autorità di immigrazione ufficiale della destinazione.
 
@@ -121,7 +121,7 @@ Portare fisicamente: passaporto, documenti di visto, carte d'imbarco, certificat
 
 ### È davvero necessaria una lettera di consenso per il viaggio di un bambino?
 
-Sì, in molti paesi è prevista. Se un bambino viaggia internazionalmente con un solo genitore, il genitore assente deve fornire il consenso scritto, e la notarizzazione è vivamente consigliata. Se il bambino viaggia senza nessuno dei due genitori (con i nonni, ad esempio), generalmente entrambi i genitori hanno bisogno di consentire per iscritto. I funzionari di frontiera in paesi come il Canada e il Sudafrica chiedono regolarmente questo documento, e senza di esso si rischia di essere negati l'imbarco o l'ingresso. Verificare sempre i requisiti per la destinazione specifica.
+Sì, in molti paesi è prevista. Se un bambino viaggia internazionalmente con un solo genitore, il genitore assente deve fornire il consenso scritto, e la notarizzazione è vivamente consigliata. Se il bambino viaggia senza nessuno dei due genitori (con i nonni, ad esempio), generalmente entrambi i genitori hanno bisogno di consentire per iscritto. I funzionari di frontiera e il personale delle compagnie aeree in molti paesi, il Canada tra questi, possono chiederlo, e il Sudafrica ha regole proprie per i minori che entrano nel paese, quindi consulta la pagina ufficiale della destinazione. Senza la lettera si possono subire ritardi o il rifiuto dell'imbarco. Verificare sempre i requisiti per la destinazione specifica.
 
 ### Devo conservare backup digitali dei miei documenti?
 
@@ -129,7 +129,7 @@ Sì. Conservare copie crittografate offline sul telefono — non nella galleria 
 
 ### Cosa succede se arrivo all'aeroporto senza un documento richiesto?
 
-Dimenticare il passaporto significa che non è possibile imbarcarsi. Per i documenti di supporto mancanti, l'esito varia: un certificato di vaccinazione mancante potrebbe consentire di riprenotare e tornare a casa per ottenerlo, mentre una lettera di consenso mancante può comportare il rifiuto dell'imbarco per il bambino. Alcune destinazioni offrono visto all'arrivo, ma la maggior parte dei documenti di supporto non può essere ottenuta alle frontiere. Verificare sempre i requisiti 2-3 settimane prima della partenza.
+Dimenticare il passaporto significa che non è possibile imbarcarsi. Per i documenti di supporto mancanti, l'esito varia: un certificato di vaccinazione mancante potrebbe consentire di riprenotare e tornare a casa per ottenerlo, mentre una lettera di consenso mancante può comportare il rifiuto dell'imbarco per il bambino. Alcune destinazioni offrono visto all'arrivo, ma la maggior parte dei documenti di supporto non può essere ottenuta alle frontiere. Verificare sempre i requisiti con largo anticipo, e prevedere 4-8 settimane se servono vaccinazioni.
 
 ## Articoli Correlati
 

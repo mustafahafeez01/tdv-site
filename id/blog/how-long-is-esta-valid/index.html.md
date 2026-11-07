@@ -10,18 +10,18 @@ Source: https://traveldocumentvault.com/id/blog/how-long-is-esta-valid/
 
 ## Poin Penting
 
-- **ESTA berlaku selama dua tahun dari persetujuan, atau sampai paspor Anda kedaluwarsa**, mana yang lebih dulu.
+- **ESTA biasanya berlaku selama dua tahun dari persetujuan, atau sampai paspor Anda kedaluwarsa**, mana yang lebih dulu.
 - ESTA hanya perlu berlaku pada hari Anda tiba di AS, dan setiap kunjungan dibatasi 90 hari atau kurang.
 - ESTA tidak bisa diperpanjang, tapi Anda bisa mengajukan lagi kapan saja. Permohonan baru menggantikan yang lama.
 - Paspor baru, nama baru, kewarganegaraan baru, atau jawaban kelayakan yang berubah berarti harus mengajukan lagi.
 - **Setiap pelancong perlu ESTA sendiri**, termasuk anak-anak berapa pun usianya dan bayi tanpa tiket.
 - Biaya naik dari US $40.27 menjadi US $40.62 pada 16 Oktober 2026. ESTA yang sudah disetujui tidak perlu diajukan ulang.
 
-ESTA berlaku selama dua tahun dari hari disetujui, atau sampai paspor yang terkait dengannya kedaluwarsa, mana yang lebih dulu. Jika Anda sudah memiliki ESTA, perubahan biaya pada 16 Oktober 2026 tidak memengaruhi Anda, dan Anda hanya membayar jumlah baru saat mengajukan permohonan berikutnya. Satu hal yang perlu dilakukan hari ini adalah memeriksa tanggal kedaluwarsa setiap ESTA dalam keluarga, karena hitungan waktu tiap orang berjalan sendiri-sendiri.
+ESTA biasanya berlaku selama dua tahun dari hari disetujui, atau sampai paspor yang terkait dengannya kedaluwarsa, mana yang lebih dulu. Jika Anda sudah memiliki ESTA, perubahan biaya pada 16 Oktober 2026 tidak memengaruhi Anda, dan Anda hanya membayar jumlah baru saat mengajukan permohonan berikutnya. Satu hal yang perlu dilakukan hari ini adalah memeriksa tanggal kedaluwarsa setiap ESTA dalam keluarga, karena hitungan waktu tiap orang berjalan sendiri-sendiri.
 
 ## ESTA Anda Berakhir Setelah Dua Tahun atau Saat Paspor Anda Kedaluwarsa
 
-US Customs and Border Protection (CBP) menetapkan aturan ini: ESTA yang disetujui berlaku selama dua tahun dari tanggal otorisasi, atau sampai paspor Anda kedaluwarsa, mana yang lebih dulu. Jadi paspor yang tersisa 14 bulan memberi Anda ESTA yang juga tersisa 14 bulan. Layar persetujuan menunjukkan tanggal kedaluwarsa yang tepat, sehingga Anda tidak perlu menghitungnya sendiri.
+US Customs and Border Protection (CBP) menetapkan aturan ini: ESTA yang disetujui biasanya berlaku selama dua tahun dari tanggal otorisasi, atau sampai paspor Anda kedaluwarsa, mana yang lebih dulu. Jadi paspor yang tersisa 14 bulan memberi Anda ESTA yang juga tersisa 14 bulan. Layar persetujuan menunjukkan tanggal kedaluwarsa yang tepat, sehingga Anda tidak perlu menghitungnya sendiri.
 
 ![Diagram kapan ESTA berhenti berlaku: berakhir setelah 2 tahun atau saat paspor kedaluwarsa, mana yang lebih dulu. Semua orang perlu ESTA sendiri, termasuk bayi dan anak-anak, masing-masing dengan paspor sendiri. Paspor baru, nama baru, atau kewarganegaraan baru berarti harus mengajukan lagi](https://traveldocumentvault.com/blog/how-long-is-esta-valid/esta-clock-id.jpg) Satu masa berlaku per pelancong, dan tidak pernah melebihi paspornya.
 

@@ -10,18 +10,18 @@ Source: https://traveldocumentvault.com/it/blog/how-long-is-esta-valid/
 
 ## Punti chiave
 
-- **Un ESTA è valido per due anni dall'approvazione, o fino alla scadenza del passaporto**, a seconda di cosa avviene prima.
+- **Un ESTA è generalmente valido per due anni dall'approvazione, o fino alla scadenza del passaporto**, a seconda di cosa avviene prima.
 - Deve essere valido solo il giorno in cui arrivi negli Stati Uniti, e ogni soggiorno è limitato a 90 giorni o meno.
 - Non può essere prorogato, ma puoi richiederne uno nuovo in qualsiasi momento. La nuova domanda sostituisce quella precedente.
 - Un nuovo passaporto, un nuovo nome, una nuova cittadinanza o una risposta di idoneità cambiata significano doverlo richiedere di nuovo.
 - **Ogni viaggiatore ha bisogno del proprio ESTA**, compresi i bambini di qualsiasi età e i neonati senza biglietto proprio.
 - La tariffa è salita da US $40.27 a US $40.62 il 16 ottobre 2026. Chi ha già un ESTA approvato non deve richiederlo di nuovo.
 
-Un ESTA dura due anni dal giorno dell'approvazione, oppure fino alla scadenza del passaporto a cui è collegato, a seconda di cosa avviene prima. Se ne hai già uno, l'aumento della tariffa del 16 ottobre 2026 non lo riguarda, e pagherai il nuovo importo solo alla prossima domanda. La cosa che faremmo oggi è controllare la data di scadenza di ogni ESTA della famiglia, perché l'orologio di ciascuno corre per conto proprio.
+Un ESTA dura generalmente due anni dal giorno dell'approvazione, oppure fino alla scadenza del passaporto a cui è collegato, a seconda di cosa avviene prima. Se ne hai già uno, l'aumento della tariffa del 16 ottobre 2026 non lo riguarda, e pagherai il nuovo importo solo alla prossima domanda. La cosa che faremmo oggi è controllare la data di scadenza di ogni ESTA della famiglia, perché l'orologio di ciascuno corre per conto proprio.
 
 ## Il tuo ESTA finisce a due anni o quando finisce il passaporto
 
-US Customs and Border Protection (CBP) stabilisce la regola: un ESTA approvato è valido per due anni dalla data di autorizzazione, oppure fino alla scadenza del passaporto, a seconda di cosa avviene prima. Un passaporto con 14 mesi di validità residua dà quindi un ESTA con 14 mesi di validità. La schermata di approvazione mostra la data di scadenza esatta, così non devi calcolarla da solo.
+US Customs and Border Protection (CBP) stabilisce la regola: un ESTA approvato è generalmente valido per due anni dalla data di autorizzazione, oppure fino alla scadenza del passaporto, a seconda di cosa avviene prima. Un passaporto con 14 mesi di validità residua dà quindi un ESTA con 14 mesi di validità. La schermata di approvazione mostra la data di scadenza esatta, così non devi calcolarla da solo.
 
 ![Diagramma di quando un ESTA cessa di essere valido: finisce dopo 2 anni o quando scade il passaporto, a seconda di cosa avviene prima. Serve a ciascuno il proprio, anche neonati e bambini, ognuno sul proprio passaporto. Un nuovo passaporto, nome o cittadinanza significa richiederlo di nuovo](https://traveldocumentvault.com/blog/how-long-is-esta-valid/esta-clock-it.jpg) Un orologio per ogni viaggiatore, che non supera mai il passaporto.
 

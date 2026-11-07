@@ -30,11 +30,11 @@ Muchos destinos quieren evidencia de que planeas irte, normalmente un vuelo de r
 
 ### Confirmaciones de alojamiento
 
-Algunos países piden ver prueba de tu primera noche de reserva, ya sea una confirmación de hotel, un Airbnb o un hostal. El oficial quiere prueba de que tienes dónde quedarte, así que descarga una copia en tu teléfono sin conexión —el email no ayudará en la frontera.
+Algunas aerolíneas y agentes fronterizos pueden pedir ver prueba de tu primera noche de reserva, ya sea una confirmación de hotel, un Airbnb o un hostal. El oficial quiere prueba de que tienes dónde quedarte, así que descarga una copia en tu teléfono sin conexión —el email no ayudará en la frontera.
 
 ### Certificados de vacunación
 
-Ciertos destinos requieren prueba de vacunación para fiebre amarilla u otras enfermedades, y los requisitos cambian periódicamente por destino. Verifica las páginas de consejos de viaje de la OMS 6-8 semanas antes de viajar —no la noche anterior— ya que algunos países solo aceptan certificados amarillos de la OMS oficiales, no fotocopias o fotos digitales.
+Ciertos destinos requieren prueba de vacunación para fiebre amarilla u otras enfermedades, y los requisitos cambian periódicamente por destino. Verifica las páginas de consejos de viaje de la OMS 4-8 semanas antes de viajar —no la noche anterior— y lleva el certificado original en lugar de una copia, ya que algunos países piden verlo.
 
 ### Detalles del seguro de viaje
 
@@ -42,7 +42,7 @@ Necesitarás acceso inmediato a tu número de póliza, detalles de contacto del 
 
 ### Cartas de consentimiento de viaje infantil
 
-Cuando un niño viaja internacionalmente con solo un padre (o con ninguno de los padres), muchos países esperan consentimiento por escrito del padre ausente, y la notarización se recomienda encarecidamente. Los oficiales fronterizos en países incluyendo Canadá y Sudáfrica rutinariamente preguntan por uno, y el personal de la aerolínea puede rehusar embarque sin uno.
+Cuando un niño viaja internacionalmente con solo un padre (o con ninguno de los padres), muchos países esperan consentimiento por escrito del padre ausente, y la notarización se recomienda encarecidamente. Los agentes fronterizos y el personal de las aerolíneas de muchos países, Canadá entre ellos, pueden pedirlo, y Sudáfrica tiene sus propias normas para los menores que entran en el país, así que consulta la página oficial del destino. Sin carta puedes sufrir retrasos o que te denieguen el embarque.
 
 Es el documento más comúnmente olvidado en viajes familiares, así que verifica antes de llegar a la puerta.
 
@@ -89,7 +89,7 @@ Nosotros guardaríamos el número de emergencia en los contactos del teléfono, 
 
 ## Lo Que Las Familias Con Niños Necesitan Agregar
 
-Cada niño necesita su propio pasaporte para viajes internacionales, sin importar cuan joven sean. Muchos países también escrutinizan viajes infantiles de cerca para proteger contra rapto parental, así que espera preguntas extra cuando un niño viaja con solo un padre.
+En la mayoría de los casos, cada niño necesita su propio pasaporte para viajes internacionales, sin importar cuan joven sean. Muchos países también escrutinizan viajes infantiles de cerca para proteger contra rapto parental, así que espera preguntas extra cuando un niño viaja con solo un padre.
 
 Aquí rige la misma regla: cuando un niño viaja internacionalmente con solo un padre, muchos oficiales fronterizos pedirán consentimiento por escrito del padre ausente, preferiblemente notarizado. Si viaja con ninguno de los padres (con abuelos, por ejemplo), típicamente se requiere consentimiento de ambos padres. Los requisitos cambian y varían por nacionalidad, así que verifica con la autoridad de inmigración oficial de tu destino.
 
@@ -121,7 +121,7 @@ Lleva físicamente: pasaporte, documentos de visa, pases de abordar, certificado
 
 ### ¿Es realmente necesaria una carta de consentimiento de viaje infantil?
 
-Sí, en muchos países se espera. Si un niño viaja internacionalmente con solo un padre, el padre ausente debe proporcionar consentimiento por escrito, y se recomienda encarecidamente la notarización. Si viaja con ninguno de los padres (con abuelos, por ejemplo), típicamente ambos padres necesitan consentimiento por escrito. Los oficiales fronterizos en países incluyendo Canadá y Sudáfrica rutinariamente preguntan por esto, y sin él arriesgas ser negado embarque o entrada. Siempre verifica los requisitos para tu destino específico.
+Sí, en muchos países se espera. Si un niño viaja internacionalmente con solo un padre, el padre ausente debe proporcionar consentimiento por escrito, y se recomienda encarecidamente la notarización. Si viaja con ninguno de los padres (con abuelos, por ejemplo), típicamente ambos padres necesitan consentimiento por escrito. Los agentes fronterizos y el personal de las aerolíneas de muchos países, Canadá entre ellos, pueden pedirlo, y Sudáfrica tiene sus propias normas para los menores que entran en el país, así que consulta la página oficial del destino. Sin él puedes sufrir retrasos o que te denieguen el embarque. Siempre verifica los requisitos para tu destino específico.
 
 ### ¿Debo mantener copias de seguridad digitales de mis documentos?
 
@@ -129,7 +129,7 @@ Sí. Almacena copias cifradas sin conexión en tu teléfono —no en tu rollo de
 
 ### ¿Qué pasa si llego al aeropuerto sin un documento requerido?
 
-Olvidar tu pasaporte significa que no puedes embarcar. Para documentos de apoyo faltantes, el resultado varía: un certificado de vacunación faltante podría permitirte reservar nuevamente y regresar a casa para obtenerlo, mientras que una carta de consentimiento faltante puede resultar en embarque denegado para tu hijo. Algunos destinos ofrecen visa a la llegada, pero la mayoría de documentos de apoyo no se pueden obtener en las fronteras. Siempre verifica los requisitos 2-3 semanas antes de tu salida.
+Olvidar tu pasaporte significa que no puedes embarcar. Para documentos de apoyo faltantes, el resultado varía: un certificado de vacunación faltante podría permitirte reservar nuevamente y regresar a casa para obtenerlo, mientras que una carta de consentimiento faltante puede resultar en embarque denegado para tu hijo. Algunos destinos ofrecen visa a la llegada, pero la mayoría de documentos de apoyo no se pueden obtener en las fronteras. Verifica siempre los requisitos con antelación suficiente antes de tu salida, y calcula de 4 a 8 semanas si necesitas vacunas.
 
 ## Artículos Relacionados
 

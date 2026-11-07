@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/fr/blog/uk-eta-passport-rules/
 
 - **Une ETA britannique est liée à votre numéro de passeport.** Quand vous renouvelez votre passeport et recevez un nouveau numéro, votre ancienne ETA devient invalide.
 - Vous devez voyager avec **le passeport exact utilisé pour la demande.** Un nouveau passeport signifie qu'il vous faut une nouvelle ETA avant de partir.
-- **Chaque personne a besoin de sa propre ETA** — y compris les enfants et les bébés. Il n'existe pas d'ETA familiale ni d'entrée pour personne à charge.
+- **Chaque personne a besoin de sa propre ETA** — y compris les enfants et les bébés. Il n'existe pas d'ETA familiale. Chacun a besoin de la sienne, même si vous pouvez faire la demande au nom des membres de votre famille.
 - Le Home Office recommande de faire la demande **au moins 3 jours ouvrés à l'avance.** C'est une recommandation, pas une garantie de délai de traitement.
 - Une ETA est une **autorisation de voyager, pas une garantie d'entrée.** Les agents frontaliers peuvent refuser l'entrée même avec une ETA valide.
 
@@ -32,7 +32,7 @@ Certaines personnes en sont dispensées : les citoyens irlandais n'en ont pas be
 
 Votre ETA britannique est rattachée à votre numéro de passeport, pas à vous en tant que personne. Lors de votre demande, le Home Office lie son approbation à un numéro de passeport précis. Voyager avec un passeport différent — un passeport récemment renouvelé, un second passeport, un remplacement d'urgence — signifie voyager avec une ETA qui n'est pas liée à ce document.
 
-C'est différent des visas de nombreux pays, souvent liés à la personne et réimprimés dans le nouveau passeport lors du renouvellement. Une ETA britannique est numérique et spécifique au passeport, donc un nouveau numéro de passeport signifie qu'une nouvelle ETA est nécessaire.
+Une ETA britannique est numérique et spécifique au passeport : un nouveau numéro de passeport signifie qu'une nouvelle ETA est nécessaire.
 
 En pratique, si votre passeport expire ou que vous le renouvelez pour une raison quelconque avant votre voyage, vous ne pouvez pas utiliser votre ancienne ETA avec votre nouveau passeport. Vous devez refaire une demande et obtenir une approbation avant de voyager, car il n'existe aucun transfert automatique.
 
@@ -57,13 +57,13 @@ Le risque se situe à l'étape 5. Si votre voyage est dans 10 jours et que votre
 
 ## Chaque enfant a besoin de sa propre ETA, bébés compris
 
-Chaque personne, y compris les nourrissons, a besoin de sa propre ETA britannique. Il n'existe pas d'ETA familiale, ni de moyen d'ajouter des personnes à charge à la demande de quelqu'un d'autre.
+Chaque personne, y compris les nourrissons, a besoin de sa propre ETA britannique. Il n'existe pas d'ETA familiale. Chacun a besoin de la sienne, même si vous pouvez faire la demande au nom des membres de votre famille.
 
 Pour une famille de quatre personnes, cela signifie déposer quatre demandes distinctes et payer quatre frais distincts. Plus important encore, vous devez suivre quatre statuts d'approbation, quatre dates d'expiration et quatre numéros de passeport, chacun séparément.
 
-Les passeports des enfants expirent aussi plus vite que ceux des adultes — généralement tous les 5 ans au lieu de 10. Un bébé ayant reçu un passeport en 2023 aura un nouveau numéro de passeport d'ici 2028, ce qui implique une nouvelle demande d'ETA avant cette échéance. Si un voyage en famille est prévu quand cet enfant a 5 ans, le passeport et l'ETA peuvent tous deux arriver à expiration dans un délai d'un ou deux ans.
+Dans de nombreux pays, le passeport d'un enfant est valable moins longtemps que celui d'un adulte, souvent 5 ans, alors vérifiez le vôtre. Un passeport d'enfant délivré pour 5 ans en 2023 devra être remplacé d'ici 2028, ce qui implique une nouvelle demande d'ETA avant cette échéance. Si un voyage en famille est prévu quand cet enfant a 5 ans, le passeport et l'ETA peuvent tous deux arriver à expiration dans un délai d'un ou deux ans.
 
-**Avant de réserver un voyage en famille au Royaume-Uni, vérifiez la date d'expiration du passeport et le statut de l'ETA de chaque membre de la famille.** Une seule personne dont la validité est insuffisante peut empêcher toute la famille d'embarquer.
+**Avant de réserver un voyage en famille au Royaume-Uni, vérifiez la date d'expiration du passeport et le statut de l'ETA de chaque membre de la famille.** Une seule personne dont la validité est insuffisante ou qui n'a pas d'ETA peut se voir refuser l'embarquement, ce qui peut perturber le voyage de toute la famille.
 
 ## Faites votre demande deux à trois semaines avant le départ
 
@@ -81,7 +81,7 @@ L'approche la plus sûre : faites votre demande dès que vous avez votre passepo
 
 Une ETA britannique signifie que le Home Office approuve votre voyage vers le Royaume-Uni, mais cela ne garantit pas que vous serez autorisé à franchir la frontière.
 
-Un agent frontalier peut toujours refuser l'entrée. Il peut vous interroger sur le motif de votre voyage, votre situation financière, vos attaches avec votre pays d'origine, ou vos précédents déplacements. S'il n'est pas convaincu, il peut refuser l'entrée même si votre ETA est valide. C'est rare pour les touristes, mais cela arrive.
+Un agent frontalier peut toujours refuser l'entrée. Les agents peuvent vous interroger sur le motif de votre voyage et refuser l'entrée s'ils ne sont pas convaincus, même si votre ETA est valide.
 
 Une ETA n'est pas non plus un visa — elle n'indique pas la durée de séjour autorisée. Les titulaires d'une ETA venant de la plupart des pays dispensés de visa peuvent rester jusqu'à 6 mois en tant que visiteur, mais c'est l'agent frontalier qui fixe la durée réelle du séjour à votre arrivée, pas l'ETA elle-même.
 
@@ -89,7 +89,7 @@ Une ETA n'est pas non plus un visa — elle n'indique pas la durée de séjour a
 
 L'ETA britannique n'est qu'une des nombreuses autorisations de voyage numériques désormais en vigueur. Si vous prévoyez de voyager dans plusieurs pays, il est utile de comprendre la différence entre une ETA et un [visa](https://traveldocumentvault.com/fr/blog/visa-vs-passport/). Leurs démarches se ressemblent, mais elles servent des objectifs différents.
 
-L'UE déploie son propre système d'autorisation de voyage numérique appelé [ETIAS](https://traveldocumentvault.com/fr/blog/etias-documents-2026/) pour les visiteurs non européens — un concept similaire à l'ETA britannique, mais avec des règles et des conditions différentes. Si votre voyage inclut à la fois le Royaume-Uni et l'Europe, vous pourriez avoir besoin des deux.
+L'UE prévoit sa propre autorisation de voyage numérique, [ETIAS](https://traveldocumentvault.com/fr/blog/etias-documents-2026/), qui n'est pas encore en service. Le concept est similaire à l'ETA britannique, mais avec des règles et des conditions différentes. Quand elle démarrera, un voyage couvrant à la fois le Royaume-Uni et l'espace Schengen pourrait nécessiter les deux.
 
 Si vous avez déjà un voyage de réservé, faites ceci aujourd'hui : comparez la date d'expiration de votre passeport à vos dates de voyage, et vérifiez que votre ETA actuelle est bien liée au passeport avec lequel vous voyagerez réellement. Si l'un des deux points pose problème, lancez dès maintenant le renouvellement ou la nouvelle demande, pas la semaine précédant votre vol.
 
@@ -97,7 +97,7 @@ Si vous avez déjà un voyage de réservé, faites ceci aujourd'hui : comparez l
 
 ### Qu'est-ce qu'une ETA britannique ?
 
-Une ETA britannique (Electronic Travel Authorisation) est une autorisation de voyage numérique que le Royaume-Uni a introduite en 2025. Le dispositif est entré en vigueur le 25 février 2026 pour la plupart des ressortissants dispensés de visa. Ce n'est pas un visa — c'est une autorisation de voyager. Les agents frontaliers peuvent toujours refuser l'entrée même si votre ETA est valide.
+Une ETA britannique (Electronic Travel Authorisation) est une autorisation de voyage numérique que le Royaume-Uni a lancée en octobre 2023. Le dispositif est entré en vigueur le 25 février 2026 pour la plupart des ressortissants dispensés de visa. Ce n'est pas un visa — c'est une autorisation de voyager. Les agents frontaliers peuvent toujours refuser l'entrée même si votre ETA est valide.
 
 ### Qui doit faire une demande d'ETA britannique ?
 

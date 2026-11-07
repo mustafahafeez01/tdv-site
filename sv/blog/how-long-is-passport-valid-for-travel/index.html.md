@@ -10,9 +10,9 @@ Source: https://traveldocumentvault.com/sv/blog/how-long-is-passport-valid-for-t
 
 ## Sammanfattning
 
-- **De flesta vuxenpass är giltiga i 10 år** från utfärdandedatumet. Barnpass går vanligtvis ut efter 5 år.
-- Ditt pass behöver inte ha gått ut för att du ska nekas att gå ombord. **Flygbolag kan neka och nekar ombordstigning** när din återstående giltighet inte räcker till destinationens 6-månaderskrav.
-- Populära destinationer som Thailand, Turkiet, Vietnam och Indonesien kräver generellt **minst 6 månaders giltighet den dag du anländer** – och vissa länder räknar i stället från ditt avresedatum, så kontrollera varje destination.
+- **Många vuxenpass är giltiga i upp till 10 år** från utfärdandedatumet. Barnpass går vanligtvis ut efter 5 år.
+- Ditt pass behöver inte ha gått ut för att du ska bli avvisad. **Du kan nekas ombordstigning eller inresa** när den återstående giltigheten inte uppfyller resmålets krav.
+- Populära destinationer som Thailand, Vietnam och Indonesien kräver generellt för innehavare av brittiska pass **minst 6 månaders giltighet den dag du anländer** – och Schengenländer räknar från ditt planerade avresedatum, så kontrollera varje destination.
 - Barns pass går ut snabbare än föräldrarnas – **kontrollera varje pass i sällskapet individuellt** innan du bokar, inte bara ditt eget.
 - Den praktiska förnyelsegränsen är **12 månaders återstående giltighet**, inte själva utgångsdatumet.
 
@@ -22,7 +22,7 @@ Det är en av de mest missförstådda reglerna inom resande, eftersom ett pass s
 
 ## Vuxenpass gäller betydligt längre än barnpass
 
-Standardgiltigheten för ett vuxenpass är 10 år från utfärdandedatumet i de flesta länder. Barnpass går ut tidigare – vanligtvis efter 5 år – eftersom ett barns utseende förändras avsevärt under den tiden. Vi skulle kontrollera barnets pass före någon annans, eftersom det är det som alla antar är i ordning.
+Standardgiltigheten för ett vuxenpass är 10 år från utfärdandedatumet i de flesta länder. Barnpass går ut tidigare – vanligtvis efter 5 år. Vi skulle kontrollera barnets pass före någon annans, eftersom det är det som alla antar är i ordning.
 
 | Land | Vuxengiltighet | Barngiltighet |
 |---|---|---|
@@ -41,11 +41,11 @@ Ditt exakta utgångsdatum finns tryckt på datasidan bredvid ditt foto. Det datu
 
 Ett pass kan vara tekniskt giltigt – inte utgånget – och ändå leda till att du nekas ombordstigning. Det finns två huvudsakliga skäl till det.
 
-**6-månadersregeln.** Många populära destinationer kräver att ditt pass är giltigt i minst 6 månader den dag du reser in i landet, och några få räknar i stället från ditt planerade avresedatum. Så om ditt pass går ut i oktober och du landar i Istanbul i april är du på den säkra sidan. Anländer du i juni kanske du inte är det – och flygbolaget nekar dig ombordstigning innan du ens når gränskontrollen.
+**6-månadersregeln.** Många populära destinationer kräver att ditt pass är giltigt i minst 6 månader den dag du reser in i landet, och vissa, som Schengenländerna, räknar i stället från ditt planerade avresedatum. Så om ditt pass går ut i oktober och du landar i Thailand i april är du på den säkra sidan. Anländer du i juni kanske du inte är det – och du kan nekas ombordstigning innan du ens når gränskontrollen.
 
-Tillämpningen av 6-månadersregeln varierar också beroende på medborgarskap. Ett och samma land kan tillämpa den på vissa passinnehavare och göra undantag för andra genom bilaterala avtal. Det enda pålitliga sättet att kontrollera är att slå upp det specifika kravet för ditt pass och din destination via IATA Travel Centre – samma databas som flygbolagen använder i incheckningsdisken.
+Kraven kan skilja sig åt beroende på medborgarskap. Ett och samma land kan tillämpa en regel på vissa passinnehavare men inte på andra. Ditt flygbolag och resmålets officiella sida om inresekrav kan bekräfta vad som gäller för ditt pass.
 
-Vi går igenom [vilka länder som tillämpar 6-månadersregeln](https://traveldocumentvault.com/sv/blog/passport-expiry-6-month-rule/) i detalj, inklusive en tabell land för land. Kortversionen: utgå från att den gäller för alla destinationer utanför Europa, Nordamerika eller Australien om du inte har kontrollerat.
+Vi går igenom [vilka länder som tillämpar 6-månadersregeln](https://traveldocumentvault.com/sv/blog/passport-expiry-6-month-rule/) i detalj, inklusive en tabell land för land. Kortversionen: reglerna skiljer sig mellan länder, så kontrollera resmålets egna krav.
 
 **Tomma sidor.** Vissa länder kräver flera tomma visumsidor. Reser du ofta och passet är några år gammalt kan det ta slut på användbara sidor innan utgångsdatumet. Kontrollera sidantalet lika väl som giltigheten när du reser till destinationer som stämplar visum.
 
@@ -53,17 +53,17 @@ Vi går igenom [vilka länder som tillämpar 6-månadersregeln](https://traveldo
 
 Det beror helt på vart du ska.
 
-För destinationer som inte tillämpar 6-månadersregeln – större delen av Europa för EU- och Storbritannien-medborgare, samt USA för amerikanska medborgare som återvänder hem – behöver passet bara vara giltigt den dag du reser. En dags återstående giltighet är tekniskt sett tillräckligt.
+Resmål som inte tillämpar 6-månadersregeln har egna krav. Schengenländer kräver ett pass som utfärdats under de senaste 10 åren och är giltigt i minst 3 månader efter din planerade avresa. En amerikansk medborgare som återvänder hem behöver i regel bara ett giltigt pass.
 
 För destinationer med ett 6-månaderskrav räknar du 6 månader från den dag du anländer. Landar du i Thailand den 20 juli måste ditt pass vara giltigt till minst den 20 januari påföljande år – och att räkna från ditt hemresedatum i stället ger dig en extra säkerhetsmarginal för länder som mäter annorlunda.
 
-För allt annat, kontrollera innan du bokar. IATA Travel Centre ger dig det exakta kravet för ditt medborgarskap och din destination på några sekunder.
+För allt annat, kontrollera innan du bokar. Ditt flygbolag eller resmålets officiella sida om inresekrav bekräftar vad som gäller.
 
 ## Barnpass går ut snabbare, och familjer glömmer att kontrollera dem
 
 Det är här familjer blir tagna på sängen varje sommar: vuxenpass gäller i 10 år, barnpass bara i 5, och det gapet skapar ett specifikt problem.
 
-En 3-åring som fick sitt första pass 2023 har en handling som går ut 2028. När barnet är 7 år och familjen bokar en resa till Turkiet kan det passet ha bara några månaders giltighet kvar – långt under 6-månaderskravet. Båda föräldrarna kan sitta på 4 års giltighet var utan att någonsin komma på att kontrollera barnets handling.
+En 3-åring som fick sitt första pass 2023 har en handling som går ut 2028. När barnet är 7 år och familjen bokar en resa till Thailand kan det passet ha bara några månaders giltighet kvar – långt under 6-månaderskravet. Båda föräldrarna kan sitta på 4 års giltighet var utan att någonsin komma på att kontrollera barnets handling.
 
 **Kontrollera varje pass i sällskapet individuellt innan du bokar en internationell resa** – ett enda kort pass kan hindra en hel familj från att gå ombord.
 
@@ -91,7 +91,7 @@ Brittiska vuxenpass är giltiga i 10 år från utfärdandedatumet. Barnpass (und
 
 ### Kan jag resa med 6 månader kvar på passet?
 
-Till de flesta europeiska destinationer, ja – passet behöver bara vara giltigt under hela din vistelse. För destinationer som tillämpar 6-månadersregeln, inklusive Thailand, Turkiet, Vietnam och Indonesien, räknas de 6 månaderna generellt från den dag du anländer – även om vissa länder räknar från avresan. Kontrollera det specifika kravet för din destination och ditt medborgarskap innan du bokar.
+För Schengenländer behöver ett brittiskt pass i regel vara giltigt i minst 3 månader efter din planerade avresa, så 6 månader kvar räcker där. Resmål som Thailand, Vietnam och Indonesien kräver i regel 6 månader, vanligtvis räknat från ankomstdagen – medan Schengenländer räknar från avresan. Kontrollera det specifika kravet för din destination och ditt medborgarskap innan du bokar.
 
 ### När bör jag förnya mitt pass?
 
@@ -99,7 +99,7 @@ Förnya när du har mindre än 12 månaders giltighet kvar. Det ger dig en margi
 
 ### Går barnpass ut snabbare än vuxenpass?
 
-Ja. Barnpass är giltiga i 5 år i stället för 10, eftersom ett barns utseende förändras avsevärt när de växer. Kontrollera varje familjemedlems pass individuellt innan du bokar en resa – anta inte att alla pass går ut samtidigt.
+Ja. Ett brittiskt barnpass gäller i 5 år i stället för 10. Kontrollera varje familjemedlems pass individuellt innan du bokar en resa – anta inte att alla pass går ut samtidigt.
 
 ### Vad händer om mitt pass går ut medan jag är utomlands?
 

@@ -10,9 +10,9 @@ Source: https://traveldocumentvault.com/fr/blog/how-long-is-passport-valid-for-t
 
 ## Points clés
 
-- **La plupart des passeports pour adultes sont valables 10 ans** à compter de la date de délivrance. Les passeports pour enfants expirent généralement après 5 ans.
-- Votre passeport ne doit pas être expiré pour être refusé. **Les compagnies aériennes peuvent et refusent l'embarquement** lorsque votre validité restante est insuffisante pour les exigences d'une destination de 6 mois.
-- Les destinations populaires, notamment la Thaïlande, la Turquie, le Vietnam et l'Indonésie, exigent généralement **au moins 6 mois de validité le jour de votre arrivée** — et certains pays font le décompte à partir de votre date de départ, donc vérifiez chaque destination.
+- **De nombreux passeports pour adultes sont valables jusqu'à 10 ans** à compter de la date de délivrance. Les passeports pour enfants expirent généralement après 5 ans.
+- Votre passeport n'a pas besoin d'être expiré pour poser problème. **L'embarquement ou l'entrée peut vous être refusé** si sa validité restante ne satisfait pas aux exigences de la destination.
+- Les destinations populaires comme la Thaïlande, le Vietnam et l'Indonésie exigent généralement **au moins 6 mois de validité le jour de l'arrivée** pour les titulaires d'un passeport britannique. Les pays Schengen comptent à partir du départ prévu : vérifiez chaque destination.
 - Les passeports des enfants expirent plus rapidement que ceux des parents — **vérifiez chaque passeport de votre groupe individuellement** avant de réserver, pas seulement le vôtre.
 - Le seuil de renouvellement pratique est **12 mois de validité restante**, pas la date d'expiration elle-même.
 
@@ -22,7 +22,7 @@ C'est l'une des règles les plus mal comprises du voyage. Un passeport qui n'a p
 
 ## Les passeports d'adultes durent bien plus longtemps que ceux des enfants
 
-La période de validité standard d'un passeport pour adulte est de 10 ans à compter de la date de délivrance dans la plupart des pays. Les passeports pour enfants expirent plus tôt — généralement 5 ans — car l'apparence d'un enfant change considérablement pendant cette période. Nous vérifierions le passeport d'un enfant avant celui de n'importe qui d'autre, car c'est celui que tout le monde suppose en règle.
+La période de validité standard d'un passeport pour adulte est de 10 ans à compter de la date de délivrance dans la plupart des pays. Les passeports pour enfants expirent plus tôt — généralement 5 ans. Nous vérifierions le passeport d'un enfant avant celui de n'importe qui d'autre, car c'est celui que tout le monde suppose en règle.
 
 | Pays | Validité adulte | Validité enfant |
 |---|---|---|
@@ -41,11 +41,11 @@ Votre date d'expiration exacte est imprimée sur la page de données à côté d
 
 Un passeport peut être techniquement valide — pas expiré — et vous faire refuser l'embarquement. Il y a deux raisons principales pour lesquelles cela se produit.
 
-**La règle des 6 mois.** De nombreuses destinations populaires exigent que votre passeport soit valable au moins 6 mois le jour où vous entrez dans le pays, et quelques-unes font le décompte à partir de votre départ prévu à la place. Donc, si votre passeport expire en octobre et vous atterrissez à Istanbul en avril, vous allez bien. Si vous arrivez en juin, peut-être pas — et la compagnie aérienne vous refusera l'embarquement avant même que vous n'atteigniez l'immigration.
+**La règle des 6 mois.** De nombreuses destinations populaires exigent que votre passeport soit valable au moins 6 mois le jour où vous entrez dans le pays, et certaines, comme les pays Schengen, comptent à partir de votre départ prévu. Donc, si votre passeport expire en octobre et vous atterrissez en Thaïlande en avril, vous allez bien. Si vous arrivez en juin, peut-être pas — et l'embarquement pourrait vous être refusé avant même que vous n'atteigniez l'immigration.
 
-La règle des 6 mois s'applique de manière incohérente selon la nationalité. Le même pays peut l'appliquer pour certains détenteurs de passeport et la supprimer pour d'autres en vertu d'accords bilatéraux. Le seul moyen fiable de vérifier est de consulter l'exigence spécifique pour votre passeport et votre destination en utilisant le centre de voyages de l'IATA — la même base de données que les compagnies aériennes utilisent au guichet.
+Les exigences peuvent varier selon la nationalité. Un même pays peut appliquer une règle à certains titulaires de passeport et pas à d'autres. Votre compagnie aérienne et la page officielle des conditions d'entrée de la destination vous confirmeront la règle applicable à votre passeport.
 
-Nous couvrons [les pays qui appliquent la règle des 6 mois](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/) en détail, y compris un tableau pays par pays. En bref — supposez que cela s'applique à toute destination en dehors de l'Europe, de l'Amérique du Nord ou de l'Australie sauf si vous l'avez vérifié.
+Nous couvrons [les pays qui appliquent la règle des 6 mois](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/) en détail, y compris un tableau pays par pays. En bref : les règles varient d'un pays à l'autre, alors vérifiez les exigences de votre destination.
 
 **Pages blanches.** Certains pays exigent 2 à 4 pages de visa vierges. Si vous voyagez fréquemment et que votre passeport a 6 ou 7 ans, il peut manquer de pages utilisables avant la date d'expiration. Vérifiez le nombre de pages ainsi que la validité lors des voyages vers des destinations qui émettent des cachets de visa.
 
@@ -53,17 +53,17 @@ Nous couvrons [les pays qui appliquent la règle des 6 mois](https://traveldocum
 
 Cela dépend entièrement de l'endroit où vous allez.
 
-Pour les destinations qui n'appliquent pas la règle des 6 mois — la plupart de l'Europe pour les citoyens de l'UE et du Royaume-Uni, et les États-Unis pour les citoyens américains rentrant chez eux — votre passeport doit simplement être valide le jour du voyage. Un jour de validité restante est techniquement suffisant.
+Les destinations qui n'appliquent pas la règle des 6 mois ont leurs propres exigences. Les pays Schengen demandent un passeport délivré depuis moins de 10 ans et valable au moins 3 mois après le départ prévu. Un citoyen américain qui rentre aux États-Unis a généralement simplement besoin d'un passeport valide.
 
 Pour les destinations ayant une exigence de 6 mois, comptez 6 mois à partir du jour de votre arrivée. Si vous atterrissez en Thaïlande le 20 juillet, votre passeport doit être valable jusqu'à au moins le 20 janvier de l'année suivante — et le décompte à partir de votre date de retour à la place vous donne une marge de sécurité supplémentaire pour les pays qui mesurent différemment.
 
-Pour tout le reste, vérifiez avant de réserver. Le centre de voyages de l'IATA donne l'exigence exacte pour votre nationalité et destination en quelques secondes.
+Pour tout le reste, vérifiez avant de réserver. Votre compagnie aérienne ou la page officielle des conditions d'entrée de la destination vous confirmera les exigences.
 
 ## Les passeports d'enfants expirent plus vite, et les familles oublient de les vérifier
 
 C'est ici que les familles se font piéger chaque été. Les passeports pour adultes sont valables 10 ans. Les passeports pour enfants expirent après 5 ans. Cet écart crée un problème spécifique.
 
-Un enfant de 3 ans qui a obtenu son premier passeport en 2023 a un document qui expire en 2028. Au moment où il a 7 ans et que la famille réserve un voyage en Turquie, ce passeport peut n'avoir que quelques mois de validité restante — bien en deçà de l'exigence de 6 mois. Les deux parents pourraient être assis sur 4 ans de validité chacun et ne jamais penser à vérifier le document de l'enfant.
+Un enfant de 3 ans qui a obtenu son premier passeport en 2023 a un document qui expire en 2028. Au moment où il a 7 ans et que la famille réserve un voyage en Thaïlande, ce passeport peut n'avoir que quelques mois de validité restante — bien en deçà de l'exigence de 6 mois. Les deux parents pourraient être assis sur 4 ans de validité chacun et ne jamais penser à vérifier le document de l'enfant.
 
 **Avant de réserver un voyage international, vérifiez chaque passeport du groupe individuellement.** Un seul passeport court peut empêcher une famille entière de monter à bord.
 
@@ -91,7 +91,7 @@ Les passeports pour adultes du Royaume-Uni sont généralement valables 10 ans �
 
 ### Puis-je voyager avec 6 mois restant sur mon passeport?
 
-Vers la plupart des destinations européennes, oui — votre passeport doit simplement être valable pendant la durée de votre séjour. Pour les destinations qui appliquent la règle des 6 mois, y compris la Thaïlande, la Turquie, le Vietnam et l'Indonésie, ces 6 mois sont généralement comptabilisés à partir du jour de votre arrivée — bien que certains pays comptent à partir du départ. Vérifiez l'exigence spécifique pour votre destination et nationalité avant de réserver.
+Pour les pays Schengen, un passeport britannique doit généralement rester valable au moins 3 mois après le départ prévu : 6 mois de validité restante suffisent donc sur ce point. La Thaïlande, le Vietnam et l'Indonésie exigent généralement 6 mois, comptés le plus souvent à partir de l'arrivée ; les pays Schengen comptent à partir du départ. Vérifiez les exigences de votre destination et de votre nationalité avant de réserver.
 
 ### Quand devrais-je renouveler mon passeport?
 
@@ -99,7 +99,7 @@ Renouvelez-le lorsque vous passez sous 12 mois de validité restante. Cela vous 
 
 ### Les passeports d'enfants expirent-ils plus vite que les passeports pour adultes?
 
-Oui. Les passeports pour enfants sont valables 5 ans au lieu de 10, car l'apparence d'un enfant change considérablement à mesure qu'il grandit. Vérifiez chaque passeport de chaque membre de la famille individuellement avant de réserver un voyage — ne supposez pas que tous les passeports expirent au même moment.
+Oui. Un passeport britannique pour enfant est valable 5 ans au lieu de 10. Vérifiez chaque passeport de chaque membre de la famille individuellement avant de réserver un voyage — ne supposez pas que tous les passeports expirent au même moment.
 
 ### Que se passe-t-il si mon passeport expire alors que je suis à l'étranger?
 

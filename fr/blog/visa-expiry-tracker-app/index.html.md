@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/fr/blog/visa-expiry-tracker-app/
 - Les visiteurs de l'espace Schengen doivent suivre une fenêtre glissante de 90/180 jours, pas seulement une seule date d'expiration, car le compte avance avec votre historique de voyage réel, pas avec le calendrier.
 - Suivre les visas et les passeports ensemble au même endroit réduit le risque d'une incohérence: entrer avec un visa valide mais avec un passeport qui expire avant la fin de votre séjour prévu.
 
-Un dépassement de visa est l'une des erreurs de voyage les plus graves qu'une personne puisse commettre. Contrairement à un vol manqué — stressant mais finalement réparable — un dépassement crée un dossier formel d'immigration qui peut vous suivre pendant des années. Aux États-Unis, un dépassement de seulement 180 jours déclenche une interdiction automatique de 3 ans de réentrée en vertu de la section INA 212(a)(9)(B)(i), et un dépassement d'un an déclenche une interdiction de 10 ans. Ces conséquences ne sont pas largement connues, mais elles sont documentées par le Service de la citoyenneté et de l'immigration des États-Unis.
+Un dépassement de visa est l'une des erreurs de voyage les plus graves qu'une personne puisse commettre. Contrairement à un vol manqué — stressant mais finalement réparable — un dépassement crée un dossier formel d'immigration qui peut vous suivre pendant des années. Aux États-Unis, en vertu de la section 212(a)(9)(B) de l'Immigration and Nationality Act, une personne en situation irrégulière pendant plus de 180 jours mais moins d'un an, puis qui quitte le pays, se voit généralement interdire le retour pendant trois ans, et un an ou plus de présence irrégulière entraîne généralement une interdiction de dix ans. Ces conséquences ne sont pas largement connues.
 
 Une application de suivi des visas empêche cela : elle doit surveiller plusieurs dates à la fois, validité d'entrée, séjour maximal et nombre d'entrées, chacune étant une échéance distincte.
 
@@ -26,13 +26,13 @@ Un passeport n'a qu'une seule date qui compte : son expiration. Un visa en a gé
 
 Ce que cela signifie en pratique
 
-Un voyageur entre au Vietnam sur un visa estampillé « valide jusqu'au 30 juin » avec « séjour de 30 jours » imprimé dessous, et arrive dans le pays le 20 juin. Le visa est valide pour l'entrée, mais il doit partir au plus tard le 20 juillet, pas le 30 juin. Confondre les deux dates est l'une des causes les plus courantes de dépassements accidentels.
+Un voyageur entre dans un pays sur un visa estampillé « valide jusqu'au 30 juin » avec « séjour de 30 jours » imprimé dessous, et arrive le 20 juin. Le visa est valide pour l'entrée, mais lorsque le séjour se compte à partir de l'arrivée, il doit partir au plus tard le 20 juillet, pas le 30 juin. Certains pays exigent au contraire de partir à la date de fin du visa, alors lisez bien la mention sur le vôtre. Confondre les deux dates est l'une des causes les plus courantes de dépassements accidentels.
 
 | Champ | Ce que cela signifie | Exemple |
 |---|---|---|
 | **Date de validité d'entrée** | Le dernier jour où vous pouvez utiliser ce visa pour entrer dans le pays | "Valide jusqu'au 31 décembre 2026" — vous devez entrer avant cette date |
 | **Durée maximale du séjour** | La durée pendant laquelle vous pouvez rester une fois entré, indépendamment de la date de validité du visa | "Durée du séjour: 90 jours" — le compte à rebours commence à l'entrée, pas à la délivrance du visa |
-| **Nombre d'entrées** | Entrée simple, double ou multiple autorisée | Un visa à entrée simple est annulé dès que vous sortez, même si la date de validité d'entrée n'a pas passé |
+| **Nombre d'entrées** | Entrée simple, double ou multiple autorisée | Un visa à entrée simple est généralement épuisé dès que vous sortez, même si la date de validité d'entrée n'a pas passé |
 | **Règles de fenêtre glissante** | Certains régimes de visa (notamment Schengen) calculent les jours autorisés dans une fenêtre glissante | Schengen: maximum 90 jours en toute période glissante de 180 jours, pas par année civile |
 
 Un suivi qui ne surveille que la date de validité d'entrée manque la cause la plus courante de dépassements accidentels: dépasser la durée maximale du séjour après une entrée tout à fait légale. C'est le champ que la plupart des voyageurs ne suivent pas, car la date n'est pas estampillée dans le passeport — vous devez la calculer à partir de la date d'entrée.
@@ -51,8 +51,8 @@ Les conséquences d'un dépassement de visa varient selon le pays mais sont cons
 
 - **Royaume-Uni:** Les dépassements sont enregistrés et affecteront les futures demandes de visa. Le Bureau de l'immigration du Royaume-Uni considère les dépassements lors de l'évaluation de la crédibilité et peut refuser les demandes ultérieures.
 - **Australie:** Le dépassement de votre visa peut entraîner des restrictions sur les futures demandes de visa et votre expulsion du pays. En vertu de la loi sur la migration de 1958, les dossiers de dépassement sont suivis et affecteront les futures demandes de visa et l'admissibilité à la réentrée.
-- **Espace Schengen:** Les dépassements sont suivis dans le Système d'information Schengen (SIS). Une interdiction émise par un pays Schengen s'applique à l'ensemble de l'espace Schengen, que la Commission européenne recense actuellement à 29 pays.
-- **Thaïlande:** Les dépassements entraînent une amende journalière fixée par les autorités d'immigration thaïlandaises, jusqu'à un plafond, et peuvent entraîner une arrestation et une expulsion pour les dépassements prolongés.
+- **Espace Schengen:** Les séjours sont enregistrés à la frontière, et une interdiction d'entrée émise par un pays Schengen est généralement partagée avec les autres via le Système d'information Schengen (SIS), si bien qu'elle s'applique à l'ensemble de l'espace Schengen, que la Commission européenne recense actuellement à 29 pays.
+- **Thaïlande:** Les dépassements entraînent une amende journalière fixée par les autorités d'immigration thaïlandaises, jusqu'à un plafond, et un dépassement de plus de 90 jours peut entraîner une expulsion et une interdiction de retour.
 
 Dans tous les cas, l'enregistrement du dépassement vous suit généralement: il apparaît dans les bases de données d'immigration consultées aux futurs passages frontaliers et demandes de visa.
 
@@ -72,7 +72,7 @@ Compte tenu de la complexité ci-dessus, une bonne application de suivi des visa
 
 1. **Enregistrez votre date d'arrivée le jour où vous arrivez.** Votre compte à rebours de séjour maximal commence immédiatement à l'arrivée, pas à partir de quand le visa a été délivré ou quand la période de validité d'entrée a commencé.
 2. **Calculez et notez votre dernière date de sortie autorisée.** Ajoutez votre durée maximale de séjour à votre date d'arrivée. C'est la date à laquelle vous devez partir — plus tôt si vous avez besoin de temps pour atteindre un point de départ.
-3. **Suivez le statut d'entrée simple vs. multiple.** Si votre visa est à entrée simple, un voyage d'un jour vers un pays voisin l'annule — planifiez en conséquence.
+3. **Suivez le statut d'entrée simple vs. multiple.** Si votre visa est à entrée simple, quitter le pays l'épuise généralement : vérifiez si une excursion d'une journée est permise avant de franchir une frontière.
 4. **Pour les voyages Schengen, tenez un registre des dates d'entrée et de sortie.** Utilisez le calculateur officiel de la Commission européenne pour vérifier vos jours restants avant de voyager après d'autres voyages à Schengen.
 5. **Définissez un rappel au moins 2 semaines avant votre date limite de séjour maximal.** Cela vous donne le temps d'organiser votre départ sans vous précipiter, surtout si les options de transport dans votre destination sont limitées.
 
@@ -92,7 +92,7 @@ La date d'expiration du visa est le dernier jour où vous pouvez utiliser le vis
 
 ### Que se passe-t-il si vous dépassez un visa?
 
-Les conséquences varient selon le pays mais incluent généralement des amendes, des interdictions de réentrée et une expulsion. Aux États-Unis, un dépassement de 180 jours déclenche une interdiction de réentrée de 3 ans; un dépassement de 1 an déclenche une interdiction de 10 ans — comme documenté par l'USCIS. Les dépassements sont enregistrés dans les bases de données d'immigration et affectent les futures demandes de visa.
+Les conséquences varient selon le pays mais incluent généralement des amendes, des interdictions de réentrée et une expulsion. Aux États-Unis, plus de 180 jours de présence irrégulière entraînent généralement une interdiction de retour de 3 ans après votre départ, et un an ou plus une interdiction de 10 ans, en vertu de l'Immigration and Nationality Act. Les dépassements sont enregistrés dans les bases de données d'immigration et affectent les futures demandes de visa.
 
 ### Une application de suivi des visas peut-elle fonctionner hors ligne?
 

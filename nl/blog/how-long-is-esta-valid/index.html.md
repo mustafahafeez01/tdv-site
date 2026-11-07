@@ -10,18 +10,18 @@ Source: https://traveldocumentvault.com/nl/blog/how-long-is-esta-valid/
 
 ## Belangrijkste punten
 
-- **Een ESTA is twee jaar geldig vanaf goedkeuring, of tot je paspoort verloopt**, wat het eerst komt.
+- **Een ESTA is doorgaans twee jaar geldig vanaf goedkeuring, of tot je paspoort verloopt**, wat het eerst komt.
 - Hij moet alleen geldig zijn op de dag dat je in de VS aankomt, en elk bezoek is beperkt tot maximaal 90 dagen.
 - Hij kan niet worden verlengd, maar je kunt op elk moment opnieuw aanvragen. Een nieuwe aanvraag vervangt de oude.
 - Een nieuw paspoort, een nieuwe naam, een nieuwe nationaliteit of een gewijzigd antwoord op een geschiktheidsvraag betekent dat je opnieuw moet aanvragen.
 - **Elke reiziger heeft zijn eigen ESTA nodig**, inclusief kinderen van elke leeftijd en baby's zonder eigen ticket.
 - Het tarief steeg van US $40.27 naar US $40.62 op 16 oktober 2026. Een al goedgekeurde ESTA hoeft niet opnieuw te worden aangevraagd.
 
-Een ESTA is twee jaar geldig vanaf de dag van goedkeuring, of tot het paspoort waaraan hij gekoppeld is verloopt, wat het eerst komt. Heb je er al een, dan raakt de tariefwijziging van 16 oktober 2026 je goedkeuring niet, en betaal je het nieuwe bedrag pas bij je volgende aanvraag. Wat wij vandaag als eerste zouden doen, is de vervaldatum van elke ESTA in het gezin opzoeken, want iedere ESTA heeft zijn eigen klok.
+Een ESTA is doorgaans twee jaar geldig vanaf de dag van goedkeuring, of tot het paspoort waaraan hij gekoppeld is verloopt, wat het eerst komt. Heb je er al een, dan raakt de tariefwijziging van 16 oktober 2026 je goedkeuring niet, en betaal je het nieuwe bedrag pas bij je volgende aanvraag. Wat wij vandaag als eerste zouden doen, is de vervaldatum van elke ESTA in het gezin opzoeken, want iedere ESTA heeft zijn eigen klok.
 
 ## Je ESTA stopt na twee jaar, of wanneer je paspoort verloopt
 
-De regel komt van US Customs and Border Protection (CBP): een goedgekeurde ESTA is twee jaar geldig vanaf de goedkeuringsdatum, of tot je paspoort verloopt, wat eerder komt. Een paspoort met nog 14 maanden geldigheid geeft dus een ESTA met 14 maanden geldigheid. Het goedkeuringsscherm toont de exacte vervaldatum, wat je het rekenwerk bespaart.
+De regel komt van US Customs and Border Protection (CBP): een goedgekeurde ESTA is doorgaans twee jaar geldig vanaf de goedkeuringsdatum, of tot je paspoort verloopt, wat eerder komt. Een paspoort met nog 14 maanden geldigheid geeft dus een ESTA met 14 maanden geldigheid. Het goedkeuringsscherm toont de exacte vervaldatum, wat je het rekenwerk bespaart.
 
 ![Diagram van wanneer een ESTA stopt met werken: het verloopt na 2 jaar of wanneer je paspoort verloopt, wat het eerst gebeurt. Iedereen heeft zijn eigen ESTA nodig, ook baby's en kinderen, elk op zijn eigen paspoort. Een nieuw paspoort, nieuwe naam of nieuwe nationaliteit betekent opnieuw aanvragen](https://traveldocumentvault.com/blog/how-long-is-esta-valid/esta-clock-nl.jpg) Eén klok per reiziger, en die overleeft het paspoort nooit.
 

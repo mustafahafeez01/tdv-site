@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/da/blog/travel-while-passport-renewal-pe
 ## Vigtigste punkter
 
 - Alt nedenfor afhænger af én ting: om du stadig har dit pas i hånden, eller allerede har afleveret det til fornyelse.
-- **USA:** Fornyelse med post lader dig beholde dit gamle pas. Indenrigsrejser er uproblematiske. Udenrigsrejser kræver, at dit fornyede pas er ankommet.
+- **USA:** Fornyelse med post betyder, at du sender dit nuværende pas ind sammen med ansøgningen. Indenrigsrejser er uproblematiske. Udenrigsrejser kræver, at dit fornyede pas er ankommet.
 - **Storbritannien (postal fornyelse):** Dit pas opbevares hos HM Passport Office. Du kan ikke rejse internationalt, før det er returneret. **Storbritannien (digital fornyelse):** Du beholder dit pas hele vejen igennem og kan rejse på det, mens det nye behandles.
 - **Australien og Canada:** Begge kræver, at du afleverer dit pas ved ansøgning. Udenrigsrejser er ikke mulige, før det nye pas er udstedt.
 - Ekspederet og hastebehandlet fornyelse findes i alle lande, der er nævnt her, men grundreglen gælder stadig: du kan ikke rejse internationalt uden et gyldigt pas i hånden.
@@ -28,7 +28,7 @@ Om du stadig har det pas, afhænger helt af dit land og din fornyelsesmetode.
 
 ## USA: Fornyelse med post
 
-Standard amerikansk pasfornyelse med post kræver ikke, at du afleverer dit nuværende pas, før det nye ankommer. Du udfylder formular DS-82, vedlægger dit eksisterende pas og sender det hele til National Passport Processing Center. Dit gamle pas returneres til dig sammen med det nye, typisk annulleret med et hulslag.
+Standard amerikansk pasfornyelse med post betyder, at du sender dit nuværende pas ind sammen med ansøgningen, så du ikke har det i hånden, mens du venter. Du udfylder formular DS-82, vedlægger dit eksisterende pas og sender det hele til National Passport Processing Center. Ifølge USAGov sendes dit gamle pas tilbage separat, som regel omkring fire uger efter, at du har modtaget det nye.
 
 Det betyder, at indenrigsrejser i USA ikke påvirkes gennem hele fornyelsesprocessen – du behøver ikke et pas til indenrigsflyvninger. Udenrigsrejser er en anden sag: du kan ikke rejse internationalt, før dit nye pas ankommer, og du kan ikke bruge det gamle annullerede pas, selv hvis du har det i hånden.
 
@@ -60,7 +60,7 @@ Service Canada offentliggør sine aktuelle behandlingsstandarder, som varierer a
 
 | Land / metode | Beholder du passet? | Udenrigsrejser under fornyelse? |
 |---|---|---|
-| USA (post) | Ja (returneres annulleret) | Nej |
+| USA (post) | Nej (sendes ind, returneres separat) | Nej |
 | Storbritannien (postal) | Nej (opbevares af HMPO) | Nej |
 | Storbritannien (digital) | Ja (du beholder det) | Ja (på det gamle pas) |
 | Australien | Nej (skal afleveres) | Nej |
@@ -74,7 +74,7 @@ To ting skal være opfyldt på én gang. Passet skal stadig være i din besiddel
 
 Storbritanniens digitale fornyelse er det klareste tilfælde, hvor svaret er ja. Passet forlader dig aldrig, det forbliver gyldigt indtil sin egen udløbsdato, og du kan som regel fortsætte med at rejse på det, mens det nye bliver fremstillet.
 
-Den amerikanske fornyelse med post er det tilfælde, flest misforstår. Du sender dit nuværende pas ind sammen med ansøgningen og har det derfor ikke under sagsbehandlingen. Det kommer retur annulleret, som regel hullet, samtidig med det nye. Et annulleret pas får dig ikke gennem check-in, selv om det er dit og ligger i din hånd.
+Den amerikanske fornyelse med post er det tilfælde, flest misforstår. Du sender dit nuværende pas ind sammen med ansøgningen og har det derfor ikke under sagsbehandlingen. Ifølge USAGov sendes det tilbage separat, som regel omkring fire uger efter det nye. Et annulleret pas får dig ikke gennem check-in, selv om det er dit og ligger i din hånd.
 
 Storbritanniens postfornyelse, Australien og Canada tager alle passet fra dig, når ansøgningen indgives. Der er ikke noget tilbage at rejse på, før erstatningen kommer.
 
@@ -106,7 +106,7 @@ Generelt nej. Undtagelsen er britisk digital fornyelse: fordi du beholder dit ga
 
 ### Kan jeg rejse på mit gamle pas under fornyelsen?
 
-Kun hvis det stadig er i din besiddelse og stadig gyldigt. Storbritanniens digitale fornyelse lader dig beholde passet og fortsætte med at rejse på det. Den amerikanske fornyelse med post sender det retur annulleret, og et annulleret pas er ikke gyldigt til rejse, selv om du har det i hånden. Storbritanniens postfornyelse, Australien og Canada beholder det, indtil det nye er udstedt.
+Kun hvis det stadig er i din besiddelse og stadig gyldigt. Storbritanniens digitale fornyelse lader dig beholde passet og fortsætte med at rejse på det. Ved amerikansk fornyelse med post sender du dit gamle pas ind, og det sendes tilbage separat, så du har det ikke i hånden, mens du venter. Storbritanniens postfornyelse, Australien og Canada beholder det, indtil det nye er udstedt.
 
 ### Hvad sker der, hvis min flyafgang er booket, men mit pas ikke når frem i tide?
 
@@ -114,7 +114,7 @@ Kontakt din pasmyndighed straks, og spørg om ekspederet eller hastebehandling. 
 
 ### Beholder jeg mit pas under fornyelsesprocessen?
 
-Det afhænger af. Amerikansk fornyelse med post returnerer dit gamle pas til dig (annulleret) sammen med det nye. Britisk digital fornyelse lader dig beholde det hele vejen igennem. Britisk postal fornyelse, Australien og Canada kræver alle, at du afleverer dit pas ved ansøgning.
+Det afhænger af. Ved amerikansk fornyelse med post sender du dit gamle pas ind, og ifølge USAGov sendes det tilbage separat, som regel omkring fire uger efter det nye. Britisk digital fornyelse lader dig beholde det hele vejen igennem. Britisk postal fornyelse, Australien og Canada kræver alle, at du afleverer dit pas ved ansøgning.
 
 ### Hvad er et nødrejsedokument?
 

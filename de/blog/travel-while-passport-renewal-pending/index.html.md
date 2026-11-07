@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/de/blog/travel-while-passport-renewal-pe
 ## Wichtigste Erkenntnisse
 
 - Die Antwort hängt von einer Tatsache ab: Haben Sie Ihren Pass noch in Ihrem Besitz, oder haben Sie ihn bereits abgegeben. Diese einzelne Tatsache bestimmt, welche Reisen möglich sind.
-- **Vereinigte Staaten:** Bei Erneuerung per Post können Sie Ihren alten Pass behalten. Inlandsreisen sind in Ordnung. Für internationale Reisen benötigen Sie Ihren erneuerten Pass zuerst.
+- **Vereinigte Staaten:** Bei einer Erneuerung per Post schicken Sie Ihren aktuellen Pass mit dem Antrag ein. Inlandsreisen sind in Ordnung. Für internationale Reisen benötigen Sie Ihren erneuerten Pass zuerst.
 - **Vereinigtes Königreich (Postalische Erneuerung):** Ihr Pass wird vom HM Passport Office aufbewahrt. Sie können nicht ins Ausland reisen, bis er zurückgegeben wird. **Vereinigtes Königreich (Digitale Erneuerung):** Sie behalten Ihren Pass während des Prozesses und können mit ihm reisen, während der neue Pass verarbeitet wird.
 - **Australien und Kanada:** Beide verlangen, dass Sie Ihren Pass bei der Antragstellung abgeben. Internationale Reisen sind nicht möglich, bis der neue Pass ausgestellt wird.
 - In jedem hier behandelten Land gibt es beschleunigte und eilige Erneuerungsoptionen, aber die Grundregel gilt: Sie können international nicht ohne gültigen Pass reisen.
@@ -28,7 +28,7 @@ Ob Sie diesen Pass noch haben, hängt ganz von Ihrem Land und Ihrer Erneuerungsm
 
 ## Vereinigte Staaten: Erneuerung per Post
 
-Bei der Standard-Passerneuerung per Post in den USA ist es nicht erforderlich, Ihren aktuellen Pass abzugeben, bevor Ihr neuer ankommt. Sie füllen das Formular DS-82 aus, legen Ihren bestehenden Pass bei und schicken alles an das National Passport Processing Center. Ihr alter Pass wird Ihnen zusammen mit dem neuen zurückgegeben, normalerweise mit einem Loch gestanzt und ungültig gemacht.
+Bei der normalen Passerneuerung per Post in den USA schicken Sie Ihren aktuellen Pass mit dem Antrag ein und haben ihn deshalb während der Bearbeitung nicht bei sich. Sie füllen das Formular DS-82 aus, legen Ihren bestehenden Pass bei und schicken alles an das National Passport Processing Center. Laut USAGov wird Ihr alter Pass separat zurückgeschickt, in der Regel etwa vier Wochen nach Erhalt des neuen.
 
 Das bedeutet, dass Reisen im Inland innerhalb der Vereinigten Staaten während des gesamten Erneuerungsprozesses nicht beeinträchtigt werden – Sie benötigen keinen Pass für Inlandsflüge. Internationale Reisen sind eine andere Sache: Sie können nicht ins Ausland reisen, bis Ihr neuer Pass ankommt, und Sie können auch den alten ungültig gemachten Pass nicht verwenden, selbst wenn Sie ihn in Händen halten.
 
@@ -114,7 +114,7 @@ Kontaktieren Sie sofort die Passbehörde Ihres Landes und fragen Sie nach beschl
 
 ### Behalte ich meinen Pass während der Erneuerung?
 
-Das hängt davon ab. Bei US-Erneuerung per Post wird Ihr alter Pass Ihnen (ungültig gemacht) zusammen mit dem neuen zurückgegeben. Bei digitaler UK-Erneuerung können Sie ihn behalten. Bei UK-Erneuerung per Post, Australien und Kanada müssen Sie Ihren Pass abgeben.
+Das hängt davon ab. Bei einer US-Erneuerung per Post schicken Sie Ihren alten Pass ein. Laut USAGov wird er separat zurückgeschickt, in der Regel etwa vier Wochen nach dem neuen. Bei digitaler UK-Erneuerung können Sie ihn behalten. Bei UK-Erneuerung per Post, Australien und Kanada müssen Sie Ihren Pass abgeben.
 
 ### Was ist ein Notreisedokument?
 

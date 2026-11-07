@@ -10,18 +10,18 @@ Source: https://traveldocumentvault.com/sv/blog/how-long-is-esta-valid/
 
 ## Viktiga punkter
 
-- **Ett ESTA gäller i två år från godkännandet, eller tills passet går ut**, beroende på vad som inträffar först.
+- **Ett ESTA gäller vanligtvis i två år från godkännandet, eller tills passet går ut**, beroende på vad som inträffar först.
 - Det behöver bara vara giltigt den dag du anländer till USA, och varje besök är begränsat till högst 90 dagar.
 - Det går inte att förlänga, men du kan ansöka igen när som helst. En ny ansökan ersätter den gamla.
 - Ett nytt pass, ett nytt namn, ett nytt medborgarskap eller ett ändrat behörighetssvar innebär att du måste ansöka igen.
 - **Alla resenärer behöver sitt eget ESTA**, inklusive barn i alla åldrar och spädbarn utan egen biljett.
 - Avgiften steg från US $40.27 till US $40.62 den 16 oktober 2026. Ett redan godkänt ESTA behöver inte ansökas om igen.
 
-Ett ESTA gäller i två år från den dag det godkänns, eller tills det pass det är kopplat till går ut, beroende på vad som inträffar först. Har du redan ett påverkas det inte av avgiftsändringen den 16 oktober 2026, och du betalar det nya beloppet först nästa gång du ansöker. Det första vi skulle göra i dag är att slå upp utgångsdatumet för varje ESTA i familjen, eftersom varje persons klocka tickar för sig.
+Ett ESTA gäller vanligtvis i två år från den dag det godkänns, eller tills det pass det är kopplat till går ut, beroende på vad som inträffar först. Har du redan ett påverkas det inte av avgiftsändringen den 16 oktober 2026, och du betalar det nya beloppet först nästa gång du ansöker. Det första vi skulle göra i dag är att slå upp utgångsdatumet för varje ESTA i familjen, eftersom varje persons klocka tickar för sig.
 
 ## Ditt ESTA upphör efter två år eller när passet gör det
 
-Regeln kommer från US Customs and Border Protection (CBP): ett godkänt ESTA gäller i två år från godkännandedatumet, eller tills passet går ut, beroende på vad som sker först. Ett pass med 14 månader kvar ger alltså ett ESTA med 14 månader kvar. Godkännandeskärmen visar det exakta utgångsdatumet, vilket besparar dig besväret att räkna ut det.
+Regeln kommer från US Customs and Border Protection (CBP): ett godkänt ESTA gäller vanligtvis i två år från godkännandedatumet, eller tills passet går ut, beroende på vad som sker först. Ett pass med 14 månader kvar ger alltså ett ESTA med 14 månader kvar. Godkännandeskärmen visar det exakta utgångsdatumet, vilket besparar dig besväret att räkna ut det.
 
 ![Diagram över när ett ESTA slutar gälla: det upphör efter 2 år eller när passet går ut, det som inträffar först. Alla behöver sitt eget, även bebisar och barn, var och en på sitt eget pass. Nytt pass, nytt namn eller nytt medborgarskap innebär att man måste ansöka igen](https://traveldocumentvault.com/blog/how-long-is-esta-valid/esta-clock-sv.jpg) En klocka per resenär, och den överlever aldrig passet.
 

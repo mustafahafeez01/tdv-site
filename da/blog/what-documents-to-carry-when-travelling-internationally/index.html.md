@@ -30,11 +30,11 @@ Mange rejsemål vil se bevis på, at I planlægger at rejse ud igen, som regel e
 
 ### Indkvarteringsbekræftelser
 
-Nogle lande beder om bevis på jeres første nats overnatning, uanset om det er en hotelbekræftelse, en Airbnb eller et vandrerhjem. Betjenten vil se bevis på, at I har et sted at bo, så download en kopi til telefonen offline – e-mail hjælper ikke ved grænsen.
+Nogle flyselskaber og grænsebetjente kan bede om bevis på jeres første nats overnatning, uanset om det er en hotelbekræftelse, en Airbnb eller et vandrerhjem. Betjenten vil se bevis på, at I har et sted at bo, så download en kopi til telefonen offline – e-mail hjælper ikke ved grænsen.
 
 ### Vaccinationsattester
 
-Visse destinationer kræver vaccinationsbevis mod gul feber eller andre sygdomme, og kravene ændrer sig løbende afhængigt af destination. Tjek WHO's rejsesider 6-8 uger før afrejse – ikke aftenen før – da nogle lande kun accepterer officielle WHO-gulfeberattester, ikke kopier eller digitale fotos.
+Visse destinationer kræver vaccinationsbevis mod gul feber eller andre sygdomme, og kravene ændrer sig løbende afhængigt af destination. Tjek WHO's rejsesider 4-8 uger før afrejse – ikke aftenen før – og tag originalbeviset med frem for en kopi, da nogle lande beder om at se det.
 
 ### Rejseforsikringsoplysninger
 
@@ -42,7 +42,7 @@ I skal have øjeblikkelig adgang til jeres policenummer, forsikringsselskabets k
 
 ### Samtykkebreve til børns rejse
 
-Når et barn rejser internationalt med kun én forælder (eller med ingen af forældrene), forventer mange lande skriftligt samtykke fra den fraværende forælder, og notarisering anbefales kraftigt. Grænsemyndigheder i lande som Canada og Sydafrika beder rutinemæssigt om det, og flypersonale kan nægte ombordstigning uden det.
+Når et barn rejser internationalt med kun én forælder (eller med ingen af forældrene), forventer mange lande skriftligt samtykke fra den fraværende forælder, og notarisering anbefales kraftigt. Grænsemyndigheder og flypersonale i mange lande, blandt dem Canada, kan bede om det, og Sydafrika har egne regler for børn, der rejser ind i landet, så tjek destinationens officielle side. Uden et brev kan I møde forsinkelser eller nægtet ombordstigning.
 
 Det er det oftest oversete dokument ved familierejser, så dobbelttjek det, før I når gaten.
 
@@ -89,7 +89,7 @@ Vi ville gemme alarmnummeret i telefonens kontakter, adskilt fra de fysiske doku
 
 ## Hvad familier med børn skal tilføje
 
-Hvert barn skal have sit eget pas til international rejse, uanset alder. Mange lande gransker også børns rejse tæt for at beskytte mod bortførelse, så forvent ekstra spørgsmål, når et barn rejser med kun én forælder.
+I de fleste tilfælde skal hvert barn have sit eget pas til international rejse, uanset alder. Mange lande gransker også børns rejse tæt for at beskytte mod bortførelse, så forvent ekstra spørgsmål, når et barn rejser med kun én forælder.
 
 Det samme gælder her: Rejser et barn internationalt med kun én forælder, vil mange grænsemyndigheder bede om skriftligt samtykke fra den fraværende forælder, helst notariseret. Rejser barnet med ingen af forældrene (fx med bedsteforældre), kræves typisk samtykke fra begge forældre. Kravene ændrer sig og varierer efter nationalitet, så bekræft med destinationens officielle myndighed.
 
@@ -121,7 +121,7 @@ Hav fysisk på jer: pas, visumdokumenter, boardingpas, rejseforsikringsbevis (ti
 
 ### Er et samtykkebrev til børns rejse virkelig nødvendigt?
 
-Ja, i mange lande forventes det. Rejser et barn internationalt med kun én forælder, bør den fraværende forælder give skriftligt samtykke, og notarisering anbefales kraftigt. Rejser barnet med ingen af forældrene (fx med bedsteforældre), kræves typisk skriftligt samtykke fra begge forældre. Grænsemyndigheder i lande som Canada og Sydafrika beder rutinemæssigt om dette, og uden det risikerer I nægtet ombordstigning eller indrejse. Bekræft altid kravene for jeres specifikke destination.
+Ja, i mange lande forventes det. Rejser et barn internationalt med kun én forælder, bør den fraværende forælder give skriftligt samtykke, og notarisering anbefales kraftigt. Rejser barnet med ingen af forældrene (fx med bedsteforældre), kræves typisk skriftligt samtykke fra begge forældre. Grænsemyndigheder og flypersonale i mange lande, blandt dem Canada, kan bede om dette, og Sydafrika har egne regler for børn, der rejser ind i landet, så tjek destinationens officielle side. Uden det kan I møde forsinkelser eller nægtet ombordstigning. Bekræft altid kravene for jeres specifikke destination.
 
 ### Bør jeg gemme digitale backups af mine dokumenter?
 
@@ -129,7 +129,7 @@ Ja. Gem krypterede offline-kopier på telefonen – ikke i kamerarullen eller cl
 
 ### Hvad sker der, hvis jeg ankommer til lufthavnen uden et påkrævet dokument?
 
-Glemmer I passet, kan I ikke gå ombord. Ved manglende støttedokumenter varierer udfaldet: et manglende vaccinationsbevis kan give jer mulighed for at ombooke og tage hjem efter det, mens et manglende samtykkebrev kan betyde nægtet ombordstigning for jeres barn. Nogle destinationer tilbyder visum ved ankomst, men de fleste støttedokumenter kan ikke skaffes ved grænsen. Bekræft altid kravene 2-3 uger før afrejse.
+Glemmer I passet, kan I ikke gå ombord. Ved manglende støttedokumenter varierer udfaldet: et manglende vaccinationsbevis kan give jer mulighed for at ombooke og tage hjem efter det, mens et manglende samtykkebrev kan betyde nægtet ombordstigning for jeres barn. Nogle destinationer tilbyder visum ved ankomst, men de fleste støttedokumenter kan ikke skaffes ved grænsen. Bekræft altid kravene i god tid før afrejse, og afsæt 4-8 uger, hvis I skal vaccineres.
 
 ## Relaterede artikler
 

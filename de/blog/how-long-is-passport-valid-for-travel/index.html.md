@@ -10,9 +10,9 @@ Source: https://traveldocumentvault.com/de/blog/how-long-is-passport-valid-for-t
 
 ## Wichtigste Erkenntnisse
 
-- **Die meisten Reisepässe für Erwachsene sind ab dem Ausstellungsdatum 10 Jahre gültig.** Kinderreisepässe verfallen normalerweise nach 5 Jahren.
-- Ihr Reisepass muss nicht abgelaufen sein, um Sie abzuweisen. **Fluggesellschaften können und werden das Einchecken verweigern,** wenn die verbleibende Gültigkeit nicht ausreicht für die 6-Monats-Anforderung eines Ziels.
-- Beliebte Ziele wie Thailand, Türkei, Vietnam und Indonesien verlangen in der Regel **mindestens 6 Monate Gültigkeit am Tag Ihrer Ankunft** – und einige Länder zählen vom Abreisedatum ab, daher überprüfen Sie jedes Ziel.
+- **Viele Reisepässe für Erwachsene sind ab dem Ausstellungsdatum bis zu 10 Jahre gültig.** Kinderreisepässe verfallen normalerweise nach 5 Jahren.
+- Ihr Reisepass muss nicht abgelaufen sein, damit Ihnen die Reise verwehrt wird. **Boarding oder Einreise können verweigert werden,** wenn die Restgültigkeit die Anforderungen des Ziellands nicht erfüllt.
+- Beliebte Ziele wie Thailand, Vietnam und Indonesien verlangen für britische Passinhaber in der Regel **mindestens 6 Monate Gültigkeit am Tag der Ankunft** – Schengen-Länder zählen dagegen vom geplanten Abreisedatum aus. Prüfen Sie daher jedes Zielland.
 - Kinderreisepässe verfallen schneller als die der Eltern – **überprüfen Sie jeden Reisepass in Ihrer Gruppe einzeln** vor der Buchung, nicht nur Ihren.
 - Die praktische Verlängerungsschwelle ist **12 Monate verbleibende Gültigkeit**, nicht das Verfallsdatum selbst.
 
@@ -22,7 +22,7 @@ Dies ist eine der am häufigsten missverstandenen Reiseregeln. Ein Reisepass, de
 
 ## Reisepässe für Erwachsene gelten weit länger als die für Kinder
 
-Die standardmäßige Gültigkeitsdauer für einen Reisepass für Erwachsene beträgt ab dem Ausstellungsdatum in den meisten Ländern 10 Jahre. Kinderreisepässe verfallen schneller – normalerweise nach 5 Jahren – da sich das Aussehen eines Kindes während dieser Zeit erheblich verändert. Wir würden den Reisepass eines Kindes vor allen anderen prüfen, denn bei ihm gehen alle davon aus, dass schon alles in Ordnung ist.
+Die standardmäßige Gültigkeitsdauer für einen Reisepass für Erwachsene beträgt ab dem Ausstellungsdatum in den meisten Ländern 10 Jahre. Kinderreisepässe verfallen schneller – normalerweise nach 5 Jahren. Wir würden den Reisepass eines Kindes vor allen anderen prüfen, denn bei ihm gehen alle davon aus, dass schon alles in Ordnung ist.
 
 | Land | Gültigkeit Erwachsene | Gültigkeit Kinder |
 |---|---|---|
@@ -41,11 +41,11 @@ Ihr genaues Verfallsdatum ist auf der Datenseite neben Ihrem Foto aufgedruckt. D
 
 Ein Reisepass kann technisch gültig sein – nicht abgelaufen – und Sie trotzdem beim Einchecken ablehnen. Es gibt zwei Hauptgründe dafür.
 
-**Die 6-Monats-Regel.** Viele beliebte Ziele verlangen, dass Ihr Reisepass am Tag Ihrer Einreise ins Land mindestens 6 Monate gültig ist, und nur wenige zählen vom geplanten Abreisedatum ab. Also wenn Ihr Reisepass im Oktober abläuft und Sie im April in Istanbul landen, ist alles in Ordnung. Wenn Sie im Juni landen, ist das möglicherweise nicht der Fall – und die Fluggesellschaft wird sich weigern, Sie zu buchen, bevor Sie überhaupt die Passkontrolle erreichen.
+**Die 6-Monats-Regel.** Viele beliebte Ziele verlangen, dass Ihr Reisepass am Tag Ihrer Einreise ins Land mindestens 6 Monate gültig ist, und einige, etwa Schengen-Länder, zählen stattdessen vom geplanten Abreisedatum aus. Also wenn Ihr Reisepass im Oktober abläuft und Sie im April in Thailand landen, ist alles in Ordnung. Wenn Sie im Juni landen, ist das möglicherweise nicht der Fall – und Ihnen kann das Boarding verweigert werden, bevor Sie überhaupt die Passkontrolle erreichen.
 
-Die 6-Monats-Regel wird je nach Nationalität uneinheitlich durchgesetzt. Dasselbe Land kann sie für einige Passinhaberinnen und Passinhaber durchsetzen und für andere im Rahmen bilateraler Vereinbarungen verzeihen. Die zuverlässigste Methode, dies zu überprüfen, ist die Suche nach der spezifischen Anforderung für Ihren Reisepass und Ihr Ziel im IATA Travel Centre – derselben Datenbank, die Fluggesellschaften am Schalter verwenden.
+Die Anforderungen können sich je nach Staatsangehörigkeit unterscheiden. Ein Land kann für manche Passinhaber eine Regel vorsehen, für andere dagegen nicht. Ihre Fluggesellschaft und die offizielle Einreiseseite des Ziellands bestätigen die Vorgaben für Ihren Reisepass.
 
-Wir behandeln [welche Länder die 6-Monats-Regel durchsetzen,](https://traveldocumentvault.com/de/blog/passport-expiry-6-month-rule/) im Detail, einschließlich einer Ländertabelle. Kurz gesagt: gehen Sie davon aus, dass sie für jedes Ziel außerhalb Europas, Nordamerikas oder Australiens gilt, es sei denn, Sie haben sie überprüft.
+Wir behandeln [welche Länder die 6-Monats-Regel durchsetzen,](https://traveldocumentvault.com/de/blog/passport-expiry-6-month-rule/) im Detail, einschließlich einer Ländertabelle. Kurz gesagt: Die Regeln unterscheiden sich je nach Land. Prüfen Sie deshalb die Anforderungen Ihres Ziellands.
 
 **Leerseiten.** Einige Länder verlangen 2 bis 4 leere Seiten zum Visum. Wenn Sie häufig reisen und Ihr Reisepass 6 oder 7 Jahre alt ist, kann er vor dem Verfallsdatum ohne nutzbare Seiten enden. Überprüfen Sie die Seitenzahl sowie die Gültigkeit, wenn Sie zu Zielen reisen, die Visumstempel ausstellen.
 
@@ -53,17 +53,17 @@ Wir behandeln [welche Länder die 6-Monats-Regel durchsetzen,](https://traveldoc
 
 Das hängt ganz davon ab, wohin Sie gehen.
 
-Für Ziele, die die 6-Monats-Regel nicht durchsetzen – für EU- und britische Bürger der meisten Europas und für US-amerikanische Bürger, die in die USA zurückkehren – muss Ihr Reisepass nur am Reisetag gültig sein. Ein Tag verbleibende Gültigkeit ist technisch ausreichend.
+Ziele ohne 6-Monats-Regel haben eigene Anforderungen. Schengen-Länder verlangen einen Reisepass, der innerhalb der letzten 10 Jahre ausgestellt wurde und noch mindestens 3 Monate nach der geplanten Ausreise gültig ist. US-Bürger, die nach Hause zurückkehren, benötigen in der Regel einen gültigen Reisepass.
 
 Für Ziele mit einer 6-Monats-Anforderung, zählen Sie 6 Monate ab dem Tag Ihrer Ankunft. Wenn Sie am 20. Juli in Thailand landen, muss Ihr Reisepass mindestens bis zum 20. Januar des folgenden Jahres gültig sein – und das Zählen vom Rückreisedatum stellt eine zusätzliche Sicherheitsmarge dar für Länder, die anders messen.
 
-Für alles andere, überprüfen Sie vor der Buchung. Das IATA Travel Centre gibt die genaue Anforderung für Ihre Nationalität und Ihr Ziel in Sekunden an.
+Prüfen Sie alle anderen Anforderungen vor der Buchung. Ihre Fluggesellschaft oder die offizielle Einreiseseite des Ziellands bestätigt die Vorgaben.
 
 ## Kinderreisepässe laufen schneller ab, und Familien vergessen die Prüfung
 
 Hier werden Familien jeden Sommer erwischt. Reisepässe für Erwachsene sind 10 Jahre gültig. Kinderreisepässe verfallen nach 5 Jahren. Diese Lücke schafft ein besonderes Problem.
 
-Ein 3-Jähriger, der 2023 seinen ersten Reisepass bekam, hat ein Dokument, das 2028 abläuft. Wenn sie 7 Jahre alt sind und die Familie eine Reise in die Türkei bucht, kann dieser Reisepass nur noch wenige Monate Gültigkeit haben – weit entfernt von der 6-Monats-Anforderung. Beide Eltern könnten 4 Jahre Gültigkeit jeder haben und würden nie daran denken, den Kinderreisepass zu überprüfen.
+Ein 3-Jähriger, der 2023 seinen ersten Reisepass bekam, hat ein Dokument, das 2028 abläuft. Wenn sie 7 Jahre alt sind und die Familie eine Reise nach Thailand bucht, kann dieser Reisepass nur noch wenige Monate Gültigkeit haben – weit entfernt von der 6-Monats-Anforderung. Beide Eltern könnten 4 Jahre Gültigkeit jeder haben und würden nie daran denken, den Kinderreisepass zu überprüfen.
 
 **Überprüfen Sie vor jeder internationalen Reise jeden Reisepass in der Gruppe einzeln.** Ein kurzer Reisepass kann eine ganze Familie vom Einchecken abhalten.
 
@@ -91,7 +91,7 @@ Britische Reisepässe für Erwachsene sind ab dem Ausstellungsdatum 10 Jahre gü
 
 ### Kann ich mit 6 Monaten Gültigkeit auf meinem Reisepass reisen?
 
-Zu den meisten europäischen Zielen, ja – Ihr Reisepass muss lediglich während Ihres Aufenthalts gültig sein. Für Ziele, die die 6-Monats-Regel durchsetzen, einschließlich Thailand, Türkei, Vietnam und Indonesien, werden diese 6 Monate normalerweise ab dem Tag Ihrer Ankunft gezählt – obwohl einige Länder vom Abreisedatum ab zählen. Überprüfen Sie die spezifische Anforderung für Ihr Ziel und Ihre Nationalität vor der Buchung.
+Für Schengen-Länder benötigt ein britischer Reisepass in der Regel noch mindestens 3 Monate Gültigkeit nach der geplanten Ausreise – 6 Monate Restgültigkeit reichen dort also aus. Ziele wie Thailand, Vietnam und Indonesien verlangen in der Regel 6 Monate, meist ab der Ankunft; Schengen-Länder zählen dagegen ab der Ausreise. Überprüfen Sie die spezifische Anforderung für Ihr Ziel und Ihre Nationalität vor der Buchung.
 
 ### Wann sollte ich meinen Reisepass verlängern?
 
@@ -99,7 +99,7 @@ Verlängern Sie, wenn Sie unter 12 Monate Gültigkeit verbleibend fallen. Dies g
 
 ### Verfallen Kinderreisepässe schneller als Reisepässe für Erwachsene?
 
-Ja. Kinderreisepässe sind 5 Jahre anstatt 10 Jahren gültig, da sich das Aussehen eines Kindes während des Wachstums erheblich verändert. Überprüfen Sie jeden Reisepass in der Familie einzeln vor der Buchung einer Reise – gehen Sie nicht davon aus, dass alle Reisepässe zur gleichen Zeit ablaufen.
+Ja. Ein britischer Kinderreisepass ist 5 statt 10 Jahre gültig. Überprüfen Sie jeden Reisepass in der Familie einzeln vor der Buchung einer Reise – gehen Sie nicht davon aus, dass alle Reisepässe zur gleichen Zeit ablaufen.
 
 ### Was passiert, wenn mein Reisepass im Ausland abläuft?
 

@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/sv/blog/uk-eta-passport-rules/
 
 - **Ett brittiskt ETA är kopplat till ditt passnummer.** Förnyar du passet och får ett nytt nummer blir ditt gamla ETA ogiltigt.
 - Du måste resa på **exakt det pass du ansökte med.** Ett nytt pass innebär att du behöver ett nytt ETA innan du reser.
-- **Varje person behöver ett eget ETA** – inklusive barn och spädbarn. Det finns inget familje-ETA eller anhöriginresa.
+- **Varje person behöver ett eget ETA** – inklusive barn och spädbarn. Det finns inget familje-ETA. Var och en behöver ett eget, men du kan ansöka på familjemedlemmars vägnar.
 - Inrikesministeriet rekommenderar att ansöka **minst tre arbetsdagar i förväg.** Det är en rekommendation, inte en garanterad handläggningstid.
 - Ett ETA är **tillstånd att resa, inte inresa.** Gränspoliser kan neka inresa även med ett giltigt ETA.
 
@@ -32,7 +32,7 @@ Vissa är undantagna: irländska medborgare behöver inget, och personer med bri
 
 Ditt brittiska ETA är kopplat till ditt passnummer, inte till dig som person. När du ansöker länkar inrikesministeriet ditt godkännande till ett specifikt passnummer. Att resa på ett annat pass – ett nyligen förnyat, ett andra pass, ett provisoriskt nödpass – innebär att resa på ett ETA som inte är kopplat till den handlingen.
 
-Det skiljer sig från visum i många länder, som ofta är kopplade till en person och trycks i ett nytt pass vid förnyelse. Ett brittiskt ETA är digitalt och passpecifikt, så ett nytt passnummer innebär att ett nytt ETA behövs.
+Ett brittiskt ETA är digitalt och passpecifikt, så ett nytt passnummer innebär att ett nytt ETA behövs.
 
 I praktiken innebär det att om ditt pass går ut eller du förnyar det av någon anledning före resan kan du inte använda ditt gamla ETA på det nya passet. Du måste ansöka igen och få godkännande innan du reser, eftersom det inte finns någon automatisk överföring.
 
@@ -57,13 +57,13 @@ Risken ligger i steg fem. Är din resa om 10 dagar och ditt nya pass anländer i
 
 ## Varje barn behöver ett eget ETA, spädbarn inkluderade
 
-Varje person, inklusive spädbarn, behöver ett eget brittiskt ETA. Det finns inget familje-ETA och inget sätt att lägga till anhöriga i någon annans ansökan.
+Varje person, inklusive spädbarn, behöver ett eget brittiskt ETA. Det finns inget familje-ETA. Var och en behöver ett eget, men du kan ansöka på familjemedlemmars vägnar.
 
 Det betyder att för en familj på fyra lämnar ni fyra separata ansökningar och betalar fyra separata avgifter. Ännu viktigare är att ni håller koll på fyra godkännandestatusar, fyra utgångsdatum och fyra passnummer, alla separat.
 
-Barns pass går också ut snabbare än vuxnas – vanligtvis vart femte år i stället för vart tionde. Ett spädbarn som fick pass 2023 kommer ha ett nytt passnummer senast 2028, vilket innebär en ny ETA-ansökan innan dess. Planeras en familjeresa när det barnet är fem år kan både passet och ETA:et gå ut inom ett eller två år.
+I många länder gäller ett barnpass kortare tid än ett vuxenpass, ofta fem år, så kontrollera ditt. Ett barnpass som utfärdades för fem år 2023 behöver bytas senast 2028, vilket innebär en ny ETA-ansökan innan dess. Planeras en familjeresa när det barnet är fem år kan både passet och ETA:et gå ut inom ett eller två år.
 
-**Kontrollera utgångsdatum och ETA-status för varje familjemedlems pass innan du bokar en familjeresa till Storbritannien.** En person med kort giltighetstid kan hindra hela familjen från att gå ombord.
+**Kontrollera utgångsdatum och ETA-status för varje familjemedlems pass innan du bokar en familjeresa till Storbritannien.** En person med för kort giltighet eller utan ETA kan nekas ombordstigning, vilket kan förstöra hela familjens resa.
 
 ## Ansök två till tre veckor innan du reser
 
@@ -81,7 +81,7 @@ Det säkrare tillvägagångssättet: ansök så snart du har ditt slutgiltiga pa
 
 Ett brittiskt ETA innebär att inrikesministeriet godkänner din resa till Storbritannien, men det garanterar inte att du släpps igenom gränsen.
 
-En gränspolis kan fortfarande neka inresa. De kan ställa frågor om ditt syfte, din ekonomiska situation, dina band till hemlandet, eller tidigare resemönster. Är de inte nöjda kan de neka inresa även om ditt ETA är giltigt. Det är ovanligt för turister, men det händer.
+En gränspolis kan fortfarande neka inresa. De kan ställa frågor om syftet med din resa och kan neka inresa om de inte är nöjda, även om ditt ETA är giltigt.
 
 Ett ETA är inte heller ett visum – det säger inget om hur länge du får stanna. Innehavare av ETA från de flesta viseringsfria länder kan stanna upp till sex månader som besökare, men det är gränspolisen som fastställer den faktiska vistelselängden när du anländer, inte ETA:et självt.
 
@@ -89,7 +89,7 @@ Ett ETA är inte heller ett visum – det säger inget om hur länge du får sta
 
 Ett brittiskt ETA är ett av flera digitala resetillstånd som nu används. Planerar du resor genom flera länder är det värt att förstå skillnaden mellan ett ETA och ett [visum](https://traveldocumentvault.com/sv/blog/visa-vs-passport/). De liknar varandra i processen men fyller olika syften.
 
-EU inför sitt eget digitala resetillståndssystem kallat [ETIAS](https://traveldocumentvault.com/sv/blog/etias-documents-2026/) för besökare utanför EU – liknande i koncept det brittiska ETA:et men med andra regler och krav. Omfattar din resa både Storbritannien och Europa kan du behöva båda.
+EU planerar ett eget digitalt resetillstånd, [ETIAS](https://traveldocumentvault.com/sv/blog/etias-documents-2026/), som ännu inte är i drift. Det liknar i koncept det brittiska ETA:et men har andra regler och krav. När det startar kan en resa som omfattar både Storbritannien och Schengenområdet kräva båda.
 
 Har du redan en resa bokad, gör så här i dag: kontrollera passets utgångsdatum mot dina resdatum och bekräfta att ditt nuvarande ETA är kopplat till det pass du faktiskt kommer att resa på. Räcker något av dem inte till, påbörja förnyelsen eller den nya ansökan nu, inte veckan innan du flyger.
 
@@ -97,7 +97,7 @@ Har du redan en resa bokad, gör så här i dag: kontrollera passets utgångsdat
 
 ### Vad är ett brittiskt ETA?
 
-Ett brittiskt ETA (Electronic Travel Authorisation) är ett digitalt resetillstånd som Storbritannien införde 2025. Systemet började gälla från den 25 februari 2026 för de flesta viseringsfria medborgare. Det är inget visum – det är ett tillstånd att resa. Gränspoliser kan fortfarande neka inresa även om du har ett giltigt ETA.
+Ett brittiskt ETA (Electronic Travel Authorisation) är ett digitalt resetillstånd som Storbritannien lanserade i oktober 2023. Systemet började gälla från den 25 februari 2026 för de flesta viseringsfria medborgare. Det är inget visum – det är ett tillstånd att resa. Gränspoliser kan fortfarande neka inresa även om du har ett giltigt ETA.
 
 ### Vem behöver ansöka om ett brittiskt ETA?
 

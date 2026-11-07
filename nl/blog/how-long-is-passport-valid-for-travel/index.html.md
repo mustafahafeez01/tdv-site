@@ -10,9 +10,9 @@ Source: https://traveldocumentvault.com/nl/blog/how-long-is-passport-valid-for-t
 
 ## Belangrijkste punten
 
-- **De meeste paspoorten van volwassenen zijn 10 jaar geldig** vanaf de afgiftedatum. Paspoorten van kinderen verlopen doorgaans na 5 jaar.
-- Je paspoort hoeft niet verlopen te zijn om te worden geweigerd bij het instappen. **Luchtvaartmaatschappijen kunnen en weigeren instapkaarten** wanneer je resterende geldigheid korter is dan de 6-maandeneis van een bestemming.
-- Populaire bestemmingen zoals Thailand, Turkije, Vietnam en Indonesië vereisen doorgaans **minstens 6 maanden geldigheid op de dag van aankomst** – en sommige landen tellen juist vanaf je vertrekdatum, dus controleer elke bestemming afzonderlijk.
+- **Veel paspoorten van volwassenen zijn tot 10 jaar geldig** vanaf de afgiftedatum. Paspoorten van kinderen verlopen doorgaans na 5 jaar.
+- Je paspoort hoeft niet verlopen te zijn om geweigerd te worden. **Je kunt worden geweigerd bij het instappen of bij binnenkomst** wanneer de resterende geldigheid niet voldoet aan de eisen van je bestemming.
+- Populaire bestemmingen zoals Thailand, Vietnam en Indonesië vereisen voor Britse paspoorthouders doorgaans **minstens 6 maanden geldigheid op de dag van aankomst** – en Schengenlanden tellen vanaf de dag waarop je van plan bent te vertrekken, dus controleer elke bestemming afzonderlijk.
 - Paspoorten van kinderen verlopen sneller dan die van ouders – **controleer elk paspoort in het gezelschap afzonderlijk** voordat je boekt, niet alleen je eigen paspoort.
 - De praktische verlengingsgrens is **12 maanden resterende geldigheid**, niet de vervaldatum zelf.
 
@@ -22,7 +22,7 @@ Het is een van de meest verkeerd begrepen regels in het reizen, omdat een paspoo
 
 ## Paspoorten van volwassenen gaan veel langer mee dan die van kinderen
 
-De standaardgeldigheid voor een paspoort van een volwassene is in de meeste landen 10 jaar vanaf de afgiftedatum. Paspoorten van kinderen verlopen eerder – doorgaans na 5 jaar – omdat het uiterlijk van een kind in die periode aanzienlijk verandert. Wij checken het paspoort van een kind eerder dan dat van wie dan ook, omdat iedereen er zomaar van uitgaat dat dat wel goed zit.
+De standaardgeldigheid voor een paspoort van een volwassene is in de meeste landen 10 jaar vanaf de afgiftedatum. Paspoorten van kinderen verlopen eerder – doorgaans na 5 jaar. Wij checken het paspoort van een kind eerder dan dat van wie dan ook, omdat iedereen er zomaar van uitgaat dat dat wel goed zit.
 
 | Land | Geldigheid volwassene | Geldigheid kind |
 |---|---|---|
@@ -41,11 +41,11 @@ Je exacte vervaldatum staat afgedrukt op de gegevenspagina naast je foto. Die da
 
 Een paspoort kan technisch geldig zijn – niet verlopen – en toch leiden tot een weigering bij het instappen. Daar zijn twee hoofdredenen voor.
 
-**De 6-maandenregel.** Veel populaire bestemmingen vereisen dat je paspoort minstens 6 maanden geldig is op de dag dat je het land binnenkomt, en enkele tellen in plaats daarvan vanaf je geplande vertrek. Verloopt je paspoort dus in oktober en land je in april in Istanboel, dan zit je goed. Kom je in juni aan, dan misschien niet – en de luchtvaartmaatschappij weigert je al bij de incheckbalie, nog voor je bij de grenscontrole bent.
+**De 6-maandenregel.** Veel populaire bestemmingen vereisen dat je paspoort minstens 6 maanden geldig is op de dag dat je het land binnenkomt, en sommige, zoals Schengenlanden, tellen in plaats daarvan vanaf je geplande vertrek. Verloopt je paspoort dus in oktober en land je in april in Thailand, dan zit je goed. Kom je in juni aan, dan misschien niet – en je kunt al worden geweigerd bij de incheckbalie, nog voor je bij de grenscontrole bent.
 
-De handhaving van de 6-maandenregel verschilt ook per nationaliteit. Eenzelfde land kan de regel toepassen op sommige paspoorthouders en anderen vrijstellen op basis van bilaterale afspraken. De enige betrouwbare manier om het na te gaan is het specifieke vereiste voor jouw paspoort en bestemming op te zoeken via het IATA Travel Centre – dezelfde database die luchtvaartmaatschappijen aan de balie gebruiken.
+De vereisten kunnen per nationaliteit verschillen. Eenzelfde land kan een regel toepassen op sommige paspoorthouders en op andere niet. Je luchtvaartmaatschappij en de officiële inreispagina van je bestemming kunnen bevestigen welke eisen voor jouw paspoort gelden.
 
-We behandelen [welke landen de 6-maandenregel hanteren](https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/) in detail, inclusief een tabel per land. De korte versie: ga ervan uit dat de regel geldt voor elke bestemming buiten Europa, Noord-Amerika of Australië, tenzij je het hebt nagekeken.
+We behandelen [welke landen de 6-maandenregel hanteren](https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/) in detail, inclusief een tabel per land. De korte versie: de regels verschillen per land, dus controleer de eisen van je bestemming zelf.
 
 **Lege pagina's.** Sommige landen vereisen meerdere lege visumpagina's. Reis je vaak en is je paspoort al een paar jaar oud, dan kunnen de bruikbare pagina's op raken voordat de vervaldatum bereikt is. Controleer bij bestemmingen die visumstempels afgeven zowel het aantal pagina's als de geldigheid.
 
@@ -53,17 +53,17 @@ We behandelen [welke landen de 6-maandenregel hanteren](https://traveldocumentva
 
 Dat hangt volledig af van waar je naartoe gaat.
 
-Voor bestemmingen die de 6-maandenregel niet hanteren – het grootste deel van Europa voor EU- en VK-burgers, en de VS voor Amerikaanse burgers die naar huis terugkeren – hoeft je paspoort alleen geldig te zijn op de dag dat je reist. Eén dag resterende geldigheid is technisch gezien al voldoende.
+Bestemmingen die de 6-maandenregel niet hanteren, hebben hun eigen eisen. Schengenlanden vragen om een paspoort dat in de afgelopen 10 jaar is afgegeven en nog minstens 3 maanden geldig is na je geplande vertrek. Een Amerikaans staatsburger die naar huis terugkeert, heeft doorgaans alleen een geldig paspoort nodig.
 
 Voor bestemmingen met een 6-maandeneis tel je 6 maanden vanaf de dag van aankomst. Land je op 20 juli in Thailand, dan moet je paspoort minstens tot 20 januari van het jaar erop geldig zijn – en als je in plaats daarvan vanaf je terugreisdatum telt, geeft dat een extra veiligheidsmarge voor landen die anders meten.
 
-Voor al het overige: controleer het voordat je boekt. Het IATA Travel Centre geeft binnen enkele seconden het exacte vereiste voor jouw nationaliteit en bestemming.
+Voor al het overige: controleer het voordat je boekt. Je luchtvaartmaatschappij of de officiële inreispagina van je bestemming kan de eisen bevestigen.
 
 ## Paspoorten van kinderen verlopen sneller, en gezinnen vergeten het te checken
 
 Hier lopen gezinnen elke zomer tegenaan: paspoorten van volwassenen zijn 10 jaar geldig, die van kinderen maar 5, en dat verschil creëert een specifiek probleem.
 
-Een kind van 3 jaar dat in 2023 zijn eerste paspoort kreeg, heeft een document dat in 2028 verloopt. Tegen de tijd dat het kind 7 is en het gezin een reis naar Turkije boekt, heeft dat paspoort mogelijk nog maar een paar maanden geldigheid over – ruim onder de 6-maandeneis. Beide ouders kunnen elk nog 4 jaar geldigheid hebben en er nooit aan denken om het paspoort van het kind te controleren.
+Een kind van 3 jaar dat in 2023 zijn eerste paspoort kreeg, heeft een document dat in 2028 verloopt. Tegen de tijd dat het kind 7 is en het gezin een reis naar Thailand boekt, heeft dat paspoort mogelijk nog maar een paar maanden geldigheid over – ruim onder de 6-maandeneis. Beide ouders kunnen elk nog 4 jaar geldigheid hebben en er nooit aan denken om het paspoort van het kind te controleren.
 
 **Controleer elk paspoort in het gezelschap afzonderlijk voordat je een internationale reis boekt** – één paspoort met te weinig geldigheid kan een heel gezin tegenhouden bij het instappen.
 
@@ -91,7 +91,7 @@ Britse paspoorten van volwassenen zijn 10 jaar geldig vanaf de afgiftedatum. Pas
 
 ### Kan ik reizen met nog 6 maanden geldigheid op mijn paspoort?
 
-Naar de meeste Europese bestemmingen wel – je paspoort hoeft dan alleen geldig te zijn voor de duur van je verblijf. Voor bestemmingen die de 6-maandenregel hanteren, waaronder Thailand, Turkije, Vietnam en Indonesië, worden die 6 maanden doorgaans geteld vanaf de dag van aankomst – al tellen sommige landen vanaf vertrek. Controleer het specifieke vereiste voor jouw bestemming en nationaliteit voordat je boekt.
+Voor Schengenlanden moet een Brits paspoort doorgaans nog minstens 3 maanden geldig zijn na je geplande vertrek, dus met 6 maanden zit je daar goed. Bestemmingen zoals Thailand, Vietnam en Indonesië vragen doorgaans 6 maanden, meestal gerekend vanaf de aankomstdag – Schengenlanden tellen vanaf vertrek. Controleer het specifieke vereiste voor jouw bestemming en nationaliteit voordat je boekt.
 
 ### Wanneer moet ik mijn paspoort verlengen?
 
@@ -99,7 +99,7 @@ Verleng zodra je onder de 12 maanden resterende geldigheid zakt. Dat geeft je ee
 
 ### Verlopen paspoorten van kinderen sneller dan die van volwassenen?
 
-Ja. Paspoorten van kinderen zijn 5 jaar geldig in plaats van 10, omdat het uiterlijk van een kind flink verandert terwijl het opgroeit. Controleer het paspoort van elk gezinslid afzonderlijk voordat je een reis boekt – ga er niet van uit dat alle paspoorten tegelijk verlopen.
+Ja. Een Brits kinderpaspoort is 5 jaar geldig in plaats van 10. Controleer het paspoort van elk gezinslid afzonderlijk voordat je een reis boekt – ga er niet van uit dat alle paspoorten tegelijk verlopen.
 
 ### Wat gebeurt er als mijn paspoort verloopt terwijl ik in het buitenland ben?
 

@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/pt/blog/travel-while-passport-renewal-pe
 ## Principais Pontos
 
 - A resposta depende de um facto: ainda tem o seu passaporte em sua posse, ou já o entregou. Este único detalhe determina o que viagens são possíveis.
-- **Estados Unidos:** A renovação por correio permite-lhe manter o seu antigo passaporte. As viagens domésticas são aceitáveis. As viagens internacionais requerem que o seu passaporte renovado chegue primeiro.
+- **Estados Unidos:** A renovação por correio exige que envie o passaporte atual com o pedido. As viagens domésticas são aceitáveis. As viagens internacionais requerem que o seu passaporte renovado chegue primeiro.
 - **Reino Unido (renovação postal):** O seu passaporte está em poder do Serviço de Passaportes do Reino Unido. Não pode viajar internacionalmente até que seja devolvido. **Reino Unido (renovação digital):** Mantém o seu passaporte durante todo o processo e pode viajar com ele enquanto o novo está a ser processado.
 - **Austrália e Canadá:** Ambos exigem que entregue o seu passaporte aquando da candidatura. As viagens internacionais não são possíveis até que o novo passaporte seja emitido.
 - Opções de renovação expedida e urgente existem em todos os países aqui abordados, mas a regra básica mantém-se: não pode viajar internacionalmente sem um passaporte válido na sua mão.
@@ -28,7 +28,7 @@ Se ainda tem esse passaporte depende inteiramente do seu país e do seu método 
 
 ## Estados Unidos: Renovação por Correio
 
-A renovação de passaporte dos EUA por correio padrão não requer que entregue o seu passaporte atual antes da chegada do novo. Completa o formulário DS-82, anexa o seu passaporte existente e envia tudo por correio para o Centro Nacional de Processamento de Passaportes. O seu antigo passaporte é devolvido a si juntamente com o novo, normalmente cancelado com um furo de perfurador.
+A renovação normal de passaporte dos EUA por correio exige que envie o passaporte atual com o pedido, por isso não o tem consigo enquanto espera. Completa o formulário DS-82, anexa o seu passaporte existente e envia tudo por correio para o Centro Nacional de Processamento de Passaportes. A USAGov diz que o passaporte antigo é devolvido pelo correio em separado, geralmente cerca de quatro semanas depois de receber o novo.
 
 Isto significa que as viagens domésticas nos Estados Unidos não são afectadas durante todo o processo de renovação — não precisa de um passaporte para voos domésticos. As viagens internacionais são uma história diferente: não pode viajar internacionalmente até que o seu novo passaporte chegue, e não pode usar o antigo passaporte cancelado mesmo que o tenha na mão.
 
@@ -74,7 +74,7 @@ Duas condições têm de ser verdadeiras ao mesmo tempo. O passaporte tem de con
 
 A renovação digital do Reino Unido é o caso mais claro em que a resposta é sim. O passaporte nunca sai das suas mãos, mantém-se válido até à sua própria data de validade e, regra geral, pode continuar a viajar com ele enquanto o novo é produzido.
 
-A renovação norte-americana por correio é o caso que mais gente interpreta mal. Envia o passaporte atual com o pedido, por isso não o tem durante o processamento. Volta cancelado, normalmente perfurado, ao mesmo tempo que o novo. Um passaporte cancelado não o deixa passar no check-in, mesmo sendo seu e estando na sua mão.
+A renovação norte-americana por correio é o caso que mais gente interpreta mal. Envia o passaporte atual com o pedido, por isso não o tem durante o processamento. A USAGov diz que volta pelo correio em separado, geralmente cerca de quatro semanas depois do novo. Um passaporte cancelado não o deixa passar no check-in, mesmo sendo seu e estando na sua mão.
 
 A renovação postal do Reino Unido, a Austrália e o Canadá ficam todos com o passaporte no momento do pedido. Não sobra nada com que viajar até chegar o substituto.
 
@@ -114,7 +114,7 @@ Contacte imediatamente o seu serviço de passaportes e pergunte sobre processame
 
 ### Mantenho o meu passaporte durante o processo de renovação?
 
-Depende. A renovação por correio dos EUA devolve o seu antigo passaporte a si (cancelado) juntamente com o novo. A renovação digital do Reino Unido permite-lhe mantê-lo durante. A renovação postal do Reino Unido, Austrália e Canadá todos exigem que entregue o seu passaporte aquando da candidatura.
+Depende. Na renovação dos EUA por correio, envia o passaporte antigo com o pedido, e a USAGov diz que este é devolvido em separado, geralmente cerca de quatro semanas depois do novo. A renovação digital do Reino Unido permite-lhe mantê-lo durante. A renovação postal do Reino Unido, Austrália e Canadá todos exigem que entregue o seu passaporte aquando da candidatura.
 
 ### O que é um documento de viagem de emergência?
 

@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/sv/blog/visa-expiry-tracker-app/
 - Besökare i Schengenområdet måste bevaka ett rullande 90/180-dagarsfönster, inte bara ett enda utgångsdatum, eftersom räkningen följer din faktiska reshistorik och inte kalendern.
 - Att bevaka visum och pass tillsammans på samma ställe minskar risken för en krock: att resa in på ett giltigt visum men med ett pass som går ut innan den planerade vistelsen är slut.
 
-En overstay på visumet är ett av de mest konsekvensrika misstag en resenär kan göra. Till skillnad från ett missat flyg, stressande men i grunden lösbart, skapar en overstay ett formellt register hos migrationsmyndigheterna som kan följa dig i flera år. I USA utlöser en overstay på bara 180 dagar ett automatiskt 3-årigt återinreseförbud enligt INA-avsnitt 212(a)(9)(B)(i), och en overstay på ett år utlöser ett 10-årigt förbud. Dessa konsekvenser är inte allmänt kända, men de är dokumenterade av amerikanska USCIS.
+En overstay på visumet är ett av de mest konsekvensrika misstag en resenär kan göra. Till skillnad från ett missat flyg, stressande men i grunden lösbart, skapar en overstay ett formellt register hos migrationsmyndigheterna som kan följa dig i flera år. I USA gäller enligt avsnitt 212(a)(9)(B) i den amerikanska Immigration and Nationality Act att den som vistats olagligt i mer än 180 dagar men under ett år och sedan lämnar landet i regel utestängs från återinresa i tre år, och ett år eller mer av olaglig vistelse innebär i regel ett tioårigt förbud. Dessa konsekvenser är inte allmänt kända.
 
 En app för visumbevakning är byggd för att förhindra just detta: den behöver bevaka flera datum samtidigt – inresans giltighet, maximal vistelsetid och antal inresor – där vart och ett är en separat deadline.
 
@@ -26,13 +26,13 @@ Ett pass har ett enda datum av betydelse: utgångsdatumet. Ett visum har vanligt
 
 Vad det betyder i praktiken
 
-En resenär reser in i Vietnam på ett visum stämplat "giltigt till 30 juni" med "30 dagars vistelse" tryckt under, och anländer i landet den 20 juni. Visumet är giltigt för inresa, men resenären måste lämna landet senast den 20 juli, inte den 30 juni. Att blanda ihop de två datumen är en av de vanligaste orsakerna till oavsiktliga overstays.
+En resenär reser in i ett land på ett visum stämplat "giltigt till 30 juni" med "30 dagars vistelse" tryckt under, och anländer den 20 juni. Visumet är giltigt för inresa, men där vistelsen räknas från ankomsten måste resenären lämna landet senast den 20 juli, inte den 30 juni. Vissa länder kräver i stället att du lämnar landet senast visumets slutdatum, så läs formuleringen på ditt visum. Att blanda ihop de två datumen är en av de vanligaste orsakerna till oavsiktliga overstays.
 
 | Fält | Vad det betyder | Exempel |
 |---|---|---|
 | **Inresans giltighetsdatum** | Det sista datumet du kan använda visumet för att resa in i landet | "Giltigt till 31 dec 2026" – du måste resa in före det datumet |
 | **Maximal vistelsetid** | Hur länge du får stanna efter inresan, oavsett visumets giltighetsdatum | "Vistelsens längd: 90 dagar" – klockan startar vid inresan, inte när visumet utfärdades |
-| **Antal inresor** | Enkel, dubbel eller multipel inresa tillåten | Ett visum för enkel inresa upphör i samma stund du lämnar landet, även om giltighetsdatumet inte har passerat |
+| **Antal inresor** | Enkel, dubbel eller multipel inresa tillåten | Ett visum för enkel inresa är i regel förbrukat i samma stund du lämnar landet, även om giltighetsdatumet inte har passerat |
 | **Regler för rullande fönster** | Vissa visumsystem (särskilt Schengen) räknar tillåtna dagar inom ett rullande fönster | Schengen: högst 90 dagar under en period av 180 dagar, inte per kalenderår |
 
 En bevakning som bara följer inresans giltighetsdatum missar precis den här fällan: att överskrida den maximala vistelsetiden efter en helt laglig inresa. Det är det fält som flest resenärer missar att bevaka, eftersom datumet inte är stämplat någonstans i passet – du måste själv räkna ut det utifrån ditt eget inresedatum.
@@ -51,8 +51,8 @@ Konsekvenserna av en overstay på visumet varierar mellan länder men är genomg
 
 - **Storbritannien:** Overstays registreras och påverkar framtida visumansökningar. Brittiska inrikesministeriet (Home Office) beaktar overstays vid bedömning av trovärdighet och kan avslå senare ansökningar.
 - **Australien:** En overstay kan leda till begränsningar för framtida visumansökningar och avlägsnande från landet. Enligt Migration Act 1958 registreras overstays och påverkar framtida visumansökningar och möjligheten till återinresa.
-- **Schengenområdet:** Overstays registreras i informationssystemet SIS. Ett förbud utfärdat av ett Schengenland gäller i hela Schengenområdet, som EU-kommissionen för närvarande listar till 29 länder.
-- **Thailand:** Overstays medför en daglig avgift fastställd av thailändska migrationsmyndigheten, upp till ett tak, och kan resultera i gripande och utvisning vid längre overstays.
+- **Schengenområdet:** Vistelser registreras vid gränsen, och ett inreseförbud utfärdat av ett Schengenland delas i regel med de andra via Schengens informationssystem (SIS), så det gäller i hela Schengenområdet, som EU-kommissionen för närvarande listar till 29 länder.
+- **Thailand:** Overstays medför en daglig avgift fastställd av thailändska migrationsmyndigheten, upp till ett tak, och en overstay på mer än 90 dagar kan leda till utvisning och förbud mot att återvända.
 
 I samtliga fall följer overstay-registret ofta med dig: det syns i migrationsdatabaser som kontrolleras vid framtida gränspasseringar och visumansökningar.
 
@@ -72,7 +72,7 @@ Med all denna komplexitet i åtanke behöver en bra app för visumbevakning hant
 
 1. **Notera ditt inresedatum samma dag du anländer.** Klockan för din maximala vistelsetid börjar räkna direkt vid inresan, inte när visumet utfärdades eller när giltighetsperioden för inresa började.
 2. **Räkna ut och notera ditt sista tillåtna utresedatum.** Lägg din maximala vistelsetid till ditt inresedatum. Det är det datum du måste lämna landet senast, tidigare om du behöver tid för att ta dig till en avreseort.
-3. **Håll koll på om det är enkel eller multipel inresa.** Om ditt visum gäller enkel inresa upphör det den dag du gör en utflykt till ett grannland – planera därefter.
+3. **Håll koll på om det är enkel eller multipel inresa.** Om ditt visum gäller enkel inresa är det i regel förbrukat när du lämnar landet, så kontrollera om en dagsutflykt är tillåten innan du korsar en gräns.
 4. **För resor i Schengen, för en logg över in- och utresedatum.** Använd EU-kommissionens officiella kalkylator för att kontrollera dina återstående dagar innan varje resa som följer på tidigare Schengenresor.
 5. **Ställ in en påminnelse i god tid före din maximala vistelsedeadline.** Det ger dig tid att ordna en avresa utan stress, särskilt om transportmöjligheterna på din resmål är begränsade.
 
@@ -92,7 +92,7 @@ Visumets utgångsdatum är det sista datum du kan använda visumet för att resa
 
 ### Vad händer om man gör en overstay på ett visum?
 
-Konsekvenserna varierar mellan länder men omfattar ofta böter, återinreseförbud och utvisning. I USA utlöser en overstay på 180 dagar ett 3-årigt återinreseförbud, och en overstay på 1 år utlöser ett 10-årigt förbud – dokumenterat av USCIS. Overstays registreras i migrationsdatabaser och påverkar framtida visumansökningar.
+Konsekvenserna varierar mellan länder men omfattar ofta böter, återinreseförbud och utvisning. I USA leder mer än 180 dagars olaglig vistelse i regel till ett 3-årigt återinreseförbud efter att du lämnat landet, och ett år eller mer till ett 10-årigt förbud, enligt Immigration and Nationality Act. Overstays registreras i migrationsdatabaser och påverkar framtida visumansökningar.
 
 ### Kan en app för visumbevakning fungera offline?
 

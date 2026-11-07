@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/es/blog/visa-expiry-tracker-app/
 - Los visitantes del Área de Schengen deben rastrear una ventana móvil de 90/180 días, no solo una única fecha de vencimiento, porque el cómputo avanza con tu historial real de viajes, no con el calendario.
 - Rastrear visados y pasaportes juntos en un mismo lugar reduce el riesgo de un desajuste: entrar con un visado válido pero con un pasaporte que vence antes de que termine tu estancia planeada.
 
-Excederse en el tiempo permitido de un visado es uno de los errores de viaje más significativos que una persona puede cometer. A diferencia de un vuelo perdido —estresante pero en última instancia soluciona— un exceso crea un registro formal de inmigración que puede seguirte durante años. En Estados Unidos, un exceso de solo 180 días desencadena una prohibición automática de 3 años en la reentrada bajo la sección INA 212(a)(9)(B)(i), y un exceso de un año desencadena una prohibición de 10 años. Estas consecuencias no son ampliamente conocidas, pero están documentadas por el Servicio de Ciudadanía e Inmigración de Estados Unidos.
+Excederse en el tiempo permitido de un visado es uno de los errores de viaje más significativos que una persona puede cometer. A diferencia de un vuelo perdido —estresante pero en última instancia soluciona— un exceso crea un registro formal de inmigración que puede seguirte durante años. En Estados Unidos, según la sección 212(a)(9)(B) de la Immigration and Nationality Act, quien permanece de forma ilegal más de 180 días pero menos de un año y luego sale del país suele tener prohibido volver durante tres años, y un año o más de presencia ilegal suele implicar una prohibición de diez años. Estas consecuencias no son ampliamente conocidas.
 
 Una aplicación rastreadora de visados está pensada para prevenir esto: tiene que supervisar múltiples fechas a la vez, validez de entrada, estancia máxima y número de entradas, cada una con su propio plazo.
 
@@ -26,13 +26,13 @@ Un pasaporte tiene una única fecha que importa: su vencimiento. Un visado norma
 
 Qué significa esto en la práctica
 
-Un viajero entra en Vietnam con un visado sellado con "válido hasta el 30 de junio" con "estancia de 30 días" impreso abajo, y llega al país el 20 de junio. El visado es válido para la entrada, pero deben partir el 20 de julio, no el 30 de junio. Confundir estas dos fechas es una de las causas más comunes de excedentes accidentales.
+Un viajero entra en un país con un visado sellado con "válido hasta el 30 de junio" con "estancia de 30 días" impreso abajo, y llega el 20 de junio. El visado es válido para la entrada, pero, cuando la estancia se cuenta desde la llegada, debe partir el 20 de julio, no el 30 de junio. Algunos países exigen en cambio salir en la fecha de fin del visado, así que lee el texto del tuyo. Confundir estas dos fechas es una de las causas más comunes de excedentes accidentales.
 
 | Campo | Qué significa | Ejemplo |
 |---|---|---|
 | **Fecha de validez de entrada** | El último día que puedes usar este visado para entrar en el país | "Válido hasta el 31 de diciembre de 2026" —debes entrar antes de esta fecha |
 | **Duración máxima de estancia** | Cuánto tiempo puedes permanecer una vez que entres, independientemente de la fecha de validez del visado | "Duración de estancia: 90 días" —el contador comienza en la entrada, no en la emisión del visado |
-| **Número de entradas** | Entradas simples, dobles o múltiples permitidas | Un visado de entrada única se anula en el momento en que sales, incluso si la fecha de validez de entrada no ha pasado |
+| **Número de entradas** | Entradas simples, dobles o múltiples permitidas | Un visado de entrada única suele agotarse en el momento en que sales, incluso si la fecha de validez de entrada no ha pasado |
 | **Reglas de ventana móvil** | Algunos regímenes de visados (notablemente Schengen) calculan días permitidos dentro de una ventana móvil | Schengen: máximo 90 días en cualquier ventana móvil de 180 días, no por año calendario |
 
 Un rastreador que solo supervisa la fecha de validez de entrada se pierde la causa más común de excedentes accidentales: exceder la duración máxima de estancia después de una entrada perfectamente legal. Este es el campo que la mayoría de viajeros no rastrean, porque la fecha no está sellada en el pasaporte —tienes que calcularla a partir de la fecha de entrada.
@@ -51,8 +51,8 @@ Las consecuencias de un exceso de visado varían según el país pero son consis
 
 - **Reino Unido:** Los excesos se registran y afectarán futuras solicitudes de visado. La Oficina de Interior del Reino Unido considera los excesos al evaluar credibilidad y puede rechazar futuras solicitudes.
 - **Australia:** Excederse en tu visado puede resultar en restricciones en futuras solicitudes de visado y expulsión del país. Bajo la Ley de Migración de 1958, los registros de exceso se rastrean y afectarán futuras solicitudes de visado y elegibilidad de reentrada.
-- **Área de Schengen:** Los excesos se rastrean en el Sistema de Información de Schengen (SIS). Una prohibición emitida por un país de Schengen se aplica en toda el Área de Schengen, que la Comisión Europea sitúa actualmente en 29 países.
-- **Tailandia:** Los excesos incurren una multa diaria fijada por inmigración tailandesa, hasta un máximo establecido, y pueden resultar en arresto y deportación por excesos prolongados.
+- **Área de Schengen:** Las estancias se registran en la frontera, y una prohibición de entrada emitida por un país de Schengen suele compartirse con los demás a través del Sistema de Información de Schengen (SIS), por lo que se aplica en toda el Área de Schengen, que la Comisión Europea sitúa actualmente en 29 países.
+- **Tailandia:** Los excesos incurren una multa diaria fijada por inmigración tailandesa, hasta un máximo establecido, y un exceso de más de 90 días puede acarrear la deportación y la prohibición de volver.
 
 En todos los casos, el registro de exceso típicamente te sigue: aparece en bases de datos de inmigración revisadas en futuras cruces fronterizos y solicitudes de visado.
 
@@ -72,7 +72,7 @@ Dada la complejidad anterior, una buena aplicación rastreadora de visados neces
 
 1. **Registra tu fecha de entrada el día que llegues.** Tu reloj de estancia máxima comienza inmediatamente en la entrada, no desde cuando se emitió el visado o cuando comenzó el período de validez de entrada.
 2. **Calcula y anota tu última fecha de salida permitida.** Suma tu duración máxima de estancia a tu fecha de entrada. Esta es la fecha en que debes partir —anterior si necesitas tiempo para alcanzar un punto de partida.
-3. **Rastrea el estado de entrada simple vs. múltiple.** Si tu visado es de entrada única, un viaje de día a un país vecino lo anula —planifica en consecuencia.
+3. **Rastrea el estado de entrada simple vs. múltiple.** Si tu visado es de entrada única, salir del país suele agotarlo, así que comprueba si se permite una excursión de un día antes de cruzar una frontera.
 4. **Para viajes a Schengen, mantén un registro de fechas de entrada y salida.** Usa la calculadora oficial de la Comisión Europea para verificar tus días restantes antes de cualquier viaje que siga a viajes recientes a Schengen.
 5. **Establece un recordatorio al menos 2 semanas antes de tu fecha límite de estancia máxima.** Esto te da tiempo para organizar una partida sin prisa, especialmente si las opciones de transporte en tu destino son limitadas.
 
@@ -92,7 +92,7 @@ La fecha de vencimiento del visado es el último día que puedes usar el visado 
 
 ### ¿Qué sucede si te excedes en un visado?
 
-Las consecuencias varían según el país pero comúnmente incluyen multas, prohibiciones de reentrada, y deportación. En EE.UU., un exceso de 180 días desencadena una prohibición de reentrada de 3 años; un exceso de 1 año desencadena una prohibición de 10 años —según se documenta en USCIS. Los excesos se registran en bases de datos de inmigración y afectan futuras solicitudes de visado.
+Las consecuencias varían según el país pero comúnmente incluyen multas, prohibiciones de reentrada, y deportación. En EE.UU., más de 180 días de presencia ilegal suelen conllevar una prohibición de reentrada de 3 años una vez que sales, y un año o más, una de 10 años, según la Immigration and Nationality Act. Los excesos se registran en bases de datos de inmigración y afectan futuras solicitudes de visado.
 
 ### ¿Puede funcionar una aplicación rastreadora de visados sin conexión?
 

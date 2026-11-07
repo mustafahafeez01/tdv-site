@@ -10,9 +10,9 @@ Source: https://traveldocumentvault.com/pt/blog/how-long-is-passport-valid-for-t
 
 ## Pontos-Chave
 
-- **A maioria dos passaportes de adultos é válida por 10 anos** a partir da data de emissão. Os passaportes de crianças normalmente expiram após 5 anos.
-- O seu passaporte não precisa estar expirado para ser rejeitado. **As companhias aéreas podem recusar embarque** quando a validade restante fica aquém do requisito de 6 meses do destino.
-- Destinos populares, incluindo Tailândia, Turquia, Vietname e Indonésia, geralmente requerem **pelo menos 6 meses de validade no dia em que chega** — e alguns países contam a partir da data de partida, por isso verifique cada destino.
+- **Muitos passaportes de adultos são válidos por até 10 anos** a partir da data de emissão. Os passaportes de crianças normalmente expiram após 5 anos.
+- O seu passaporte não precisa estar expirado para ser rejeitado. **Pode ser-lhe recusado o embarque ou a entrada** quando a validade restante fica aquém do requisito do destino.
+- Destinos populares, incluindo Tailândia, Vietname e Indonésia, geralmente requerem **pelo menos 6 meses de validade no dia em que chega** para titulares de passaporte britânico — e os países Schengen contam a partir do dia em que planeia sair, por isso verifique cada destino.
 - Os passaportes de crianças expiram mais rápido do que os dos pais — **verifique o passaporte de cada membro do grupo individualmente** antes de marcar, não apenas o seu.
 - O limiar prático de renovação é **12 meses de validade restante**, não a data de expiração em si.
 
@@ -22,7 +22,7 @@ Sete meses no seu passaporte parece bastante tempo. Marca os voos, verifica a ba
 
 ## Os Passaportes de Adultos Duram Muito Mais do Que os das Crianças
 
-O período de validade padrão para um passaporte de adulto é 10 anos a partir da data de emissão na maioria dos países. Os passaportes de crianças expiram mais cedo — normalmente 5 anos — porque a aparência de uma criança muda significativamente durante esse tempo. Verificaríamos o passaporte da criança antes do de qualquer outra pessoa, por ser aquele que todos assumem estar em ordem.
+O período de validade padrão para um passaporte de adulto é 10 anos a partir da data de emissão na maioria dos países. Os passaportes de crianças expiram mais cedo — normalmente 5 anos. Verificaríamos o passaporte da criança antes do de qualquer outra pessoa, por ser aquele que todos assumem estar em ordem.
 
 | País | Validade de adulto | Validade de criança |
 |---|---|---|
@@ -41,11 +41,11 @@ A data exata de expiração está impressa na página de dados ao lado da sua fo
 
 Um passaporte pode ser tecnicamente válido — não expirado — e mesmo assim ser-lhe recusado o embarque. Há duas razões principais para isto acontecer.
 
-**A regra dos 6 meses.** Muitos destinos populares requerem que o seu passaporte seja válido durante pelo menos 6 meses no dia em que entra no país, e alguns contam a partir da data planeada de partida. Por isso, se o seu passaporte expirar em outubro e chegar em Istambul em abril, está bem. Se chegar em junho, pode estar em apuros — e a companhia aérea recusar-se-á a fazer-lhe embarcar antes de sequer chegar à imigração.
+**A regra dos 6 meses.** Muitos destinos populares requerem que o seu passaporte seja válido durante pelo menos 6 meses no dia em que entra no país, e alguns, como os países Schengen, contam a partir da data planeada de partida. Por isso, se o seu passaporte expirar em outubro e chegar à Tailândia em abril, está bem. Se chegar em junho, pode não estar, e o embarque pode ser-lhe recusado antes de sequer chegar à imigração.
 
-A regra dos 6 meses aplica-se de forma inconsistente por nacionalidade. O mesmo país pode aplicá-la a alguns detentores de passaporte e dispensá-la para outros sob acordos bilaterais. A única forma confiável de verificar é consultar o requisito específico para o seu passaporte e destino usando o IATA Travel Centre — a mesma base de dados que as companhias aéreas usam no balcão.
+Os requisitos podem variar por nacionalidade. O mesmo país pode aplicar uma regra a alguns titulares de passaporte e não a outros. A companhia aérea e a página oficial de entrada do destino confirmarão o requisito para o seu passaporte.
 
-Coberto em [quais países aplicam a regra dos 6 meses](https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/) em detalhe, incluindo uma tabela país por país. A versão resumida: assuma que se aplica a qualquer destino fora da Europa, América do Norte ou Austrália a menos que tenha verificado.
+Coberto em [quais países aplicam a regra dos 6 meses](https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/) em detalhe, incluindo uma tabela país por país. A versão resumida: as regras variam de país para país, por isso confirme o requisito do seu destino.
 
 **Páginas em branco.** Alguns países requerem 2 a 4 páginas de visto em branco. Se viaja frequentemente e o seu passaporte tem 6 ou 7 anos, pode ficar sem páginas utilizáveis antes da data de expiração. Verifique a contagem de páginas bem como a validade quando viaja para destinos que emitem selos de visto.
 
@@ -53,17 +53,17 @@ Coberto em [quais países aplicam a regra dos 6 meses](https://traveldocumentvau
 
 Depende inteiramente do seu destino.
 
-Para destinos que não aplicam a regra dos 6 meses — a maioria da Europa para cidadãos da UE e Reino Unido, e os EUA para cidadãos americanos que regressam — o seu passaporte apenas precisa de ser válido no dia em que viaja. Um dia de validade restante é tecnicamente suficiente.
+Os destinos que não aplicam a regra dos 6 meses têm os seus próprios requisitos. Os países Schengen pedem um passaporte emitido nos últimos 10 anos e válido durante pelo menos 3 meses após a data prevista de saída. Um cidadão dos EUA que regressa ao seu país geralmente só precisa de um passaporte válido.
 
 Para destinos com um requisito de 6 meses, conte 6 meses a partir do dia em que chega. Se chegar à Tailândia a 20 de julho, o seu passaporte deve ser válido até pelo menos 20 de janeiro do ano seguinte — e contar a partir da data de regresso dá-lhe uma margem de segurança adicional para países que medem de forma diferente.
 
-Para tudo o resto, verifique antes de marcar. O IATA Travel Centre dá o requisito exato para a sua nacionalidade e destino em segundos.
+Para tudo o resto, verifique antes de marcar. A companhia aérea ou a página oficial de entrada do destino confirmarão o requisito.
 
 ## Os Passaportes de Crianças Expiram Mais Cedo, e as Famílias Esquecem-se de Verificar
 
 Isto é onde as famílias são apanhadas todos os verões. Os passaportes de adultos são válidos por 10 anos. Os passaportes de crianças expiram após 5. Essa diferença cria um problema específico.
 
-Uma criança de 3 anos que obteve o seu primeiro passaporte em 2023 tem um documento que expira em 2028. Quando tem 7 anos e a família marca uma viagem para a Turquia, esse passaporte pode ter apenas alguns meses de validade — muito aquém do requisito de 6 meses. Ambos os pais podem estar com 4 anos de validade cada e nunca pensar em verificar o documento da criança.
+Uma criança de 3 anos que obteve o seu primeiro passaporte em 2023 tem um documento que expira em 2028. Quando tem 7 anos e a família marca uma viagem para a Tailândia, esse passaporte pode ter apenas alguns meses de validade — muito aquém do requisito de 6 meses. Ambos os pais podem estar com 4 anos de validade cada e nunca pensar em verificar o documento da criança.
 
 **Antes de marcar qualquer viagem internacional, verifique o passaporte de cada membro do grupo individualmente.** Um passaporte curto pode bloquear uma família inteira de embarcar.
 
@@ -91,7 +91,7 @@ Os passaportes de adultos são válidos por 10 anos a partir da data de emissão
 
 ### Posso viajar com 6 meses no meu passaporte?
 
-Para a maioria dos destinos europeus, sim — o seu passaporte apenas precisa de ser válido durante a sua estadia. Para destinos que aplicam a regra dos 6 meses, incluindo Tailândia, Turquia, Vietname e Indonésia, esses 6 meses são geralmente contados a partir do dia em que chega — embora alguns países contem a partir da partida. Verifique o requisito específico para o seu destino e nacionalidade antes de marcar.
+Para os países Schengen, um passaporte do Reino Unido geralmente precisa de pelo menos 3 meses de validade após a data prevista de saída, pelo que 6 meses são suficientes. Destinos como Tailândia, Vietname e Indonésia geralmente exigem 6 meses, normalmente contados a partir do dia de chegada — enquanto os países Schengen contam a partir da saída. Verifique o requisito específico para o seu destino e nacionalidade antes de marcar.
 
 ### Quando devo renovar o meu passaporte?
 
@@ -99,7 +99,7 @@ Renove quando ficar com menos de 12 meses de validade restante. Isto dá-lhe uma
 
 ### Os passaportes de crianças expiram mais rápido do que os de adultos?
 
-Sim. Os passaportes de crianças são válidos por 5 anos em vez de 10, porque a aparência de uma criança muda significativamente à medida que cresce. Verifique o passaporte de cada membro da família individualmente antes de marcar uma viagem — não assuma que todos os passaportes expiram ao mesmo tempo.
+Sim. Um passaporte de criança do Reino Unido é válido por 5 anos em vez de 10. Verifique o passaporte de cada membro da família individualmente antes de marcar uma viagem — não assuma que todos os passaportes expiram ao mesmo tempo.
 
 ### O que acontece se o meu passaporte expirar enquanto estou no estrangeiro?
 

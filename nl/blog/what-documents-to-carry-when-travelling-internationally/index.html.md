@@ -30,11 +30,11 @@ Veel bestemmingen willen bewijs dat je van plan bent weer te vertrekken, meestal
 
 ### Verblijfsbevestigingen
 
-Sommige landen vragen om bewijs van je overnachting op de eerste nacht, of dat nu een hotelbevestiging, een Airbnb of een hostel is. De beambte wil zien dat je een plek hebt om te verblijven, dus download een kopie offline naar je telefoon – een e-mail helpt niet aan de grens.
+Sommige luchtvaartmaatschappijen en grensbeambten kunnen vragen om bewijs van je overnachting op de eerste nacht, of dat nu een hotelbevestiging, een Airbnb of een hostel is. De beambte wil zien dat je een plek hebt om te verblijven, dus download een kopie offline naar je telefoon – een e-mail helpt niet aan de grens.
 
 ### Vaccinatiebewijzen
 
-Bepaalde bestemmingen vereisen bewijs van vaccinatie tegen gele koorts of andere ziekten, en de vereisten veranderen regelmatig per bestemming. Controleer de reisadviespagina's van de WHO 6 tot 8 weken voor vertrek – niet de avond ervoor – want sommige landen accepteren alleen officiële WHO-gelekoortscertificaten, geen kopieën of digitale foto's.
+Bepaalde bestemmingen vereisen bewijs van vaccinatie tegen gele koorts of andere ziekten, en de vereisten veranderen regelmatig per bestemming. Controleer de reisadviespagina's van de WHO 4 tot 8 weken voor vertrek – niet de avond ervoor – en neem het originele certificaat mee in plaats van een kopie, want sommige landen vragen er om.
 
 ### Gegevens van je reisverzekering
 
@@ -42,7 +42,7 @@ Je hebt directe toegang nodig tot je polisnummer, de contactgegevens van de verz
 
 ### Toestemmingsverklaringen voor reizende kinderen
 
-Als een kind internationaal met slechts één ouder reist (of met geen van beide ouders), verwachten veel landen schriftelijke toestemming van de afwezige ouder, en notariële bekrachtiging wordt sterk aangeraden. Grensbeambten in landen als Canada en Zuid-Afrika vragen hier routinematig om, en luchtvaartpersoneel kan zonder deze verklaring instap weigeren.
+Als een kind internationaal met slechts één ouder reist (of met geen van beide ouders), verwachten veel landen schriftelijke toestemming van de afwezige ouder, en notariële bekrachtiging wordt sterk aangeraden. Grensbeambten en luchtvaartpersoneel in veel landen, Canada onder andere, kunnen hier om vragen, en Zuid-Afrika heeft eigen regels voor kinderen die het land binnenkomen, dus check de officiële pagina van je bestemming. Zonder verklaring kun je vertraging oplopen of niet mogen instappen.
 
 Het is het meest over het hoofd geziene document bij gezinsreizen, dus controleer het dubbel voordat je bij de gate staat.
 
@@ -89,7 +89,7 @@ Wij zouden het alarmnummer in je telefooncontacten opslaan, los van de fysieke d
 
 ## Wat gezinnen met kinderen moeten toevoegen
 
-Elk kind heeft zijn eigen paspoort nodig voor internationale reizen, hoe jong ook. Veel landen bekijken reizen met kinderen ook extra kritisch om ouderontvoering tegen te gaan, dus verwacht extra vragen wanneer een kind met slechts één ouder reist.
+In de meeste gevallen heeft elk kind zijn eigen paspoort nodig voor internationale reizen, hoe jong ook. Veel landen bekijken reizen met kinderen ook extra kritisch om ouderontvoering tegen te gaan, dus verwacht extra vragen wanneer een kind met slechts één ouder reist.
 
 Dezelfde regel geldt hier: reist een kind internationaal met slechts één ouder, dan vragen veel grensbeambten om schriftelijke toestemming van de afwezige ouder, bij voorkeur notarieel bekrachtigd. Reist het kind met geen van beide ouders (bijvoorbeeld met grootouders), dan is doorgaans toestemming van beide ouders vereist. De vereisten veranderen en verschillen per nationaliteit, dus controleer bij de officiële immigratie-instantie van je bestemming.
 
@@ -121,7 +121,7 @@ Neem fysiek mee: paspoort, visumdocumenten, instapkaarten, reisverzekeringsbewij
 
 ### Is een toestemmingsverklaring voor een reizend kind echt nodig?
 
-Ja, in veel landen wordt dit verwacht. Als een kind internationaal met slechts één ouder reist, moet de afwezige ouder schriftelijke toestemming geven, en notariële bekrachtiging wordt sterk aangeraden. Reist het kind met geen van beide ouders (bijvoorbeeld met grootouders), dan is doorgaans schriftelijke toestemming van beide ouders vereist. Grensbeambten in landen als Canada en Zuid-Afrika vragen hier regelmatig om, en zonder de verklaring loop je het risico op geweigerde instap of toegang. Controleer altijd de vereisten voor je specifieke bestemming.
+Ja, in veel landen wordt dit verwacht. Als een kind internationaal met slechts één ouder reist, moet de afwezige ouder schriftelijke toestemming geven, en notariële bekrachtiging wordt sterk aangeraden. Reist het kind met geen van beide ouders (bijvoorbeeld met grootouders), dan is doorgaans schriftelijke toestemming van beide ouders vereist. Grensbeambten en luchtvaartpersoneel in veel landen, Canada onder andere, kunnen hier om vragen, en Zuid-Afrika heeft eigen regels voor kinderen die het land binnenkomen, dus check de officiële pagina van je bestemming. Zonder verklaring kun je vertraging oplopen of niet mogen instappen. Controleer altijd de vereisten voor je specifieke bestemming.
 
 ### Moet ik digitale back-ups van mijn documenten bewaren?
 
@@ -129,7 +129,7 @@ Ja. Bewaar versleutelde offline kopieën op je telefoon – niet in je camerarol
 
 ### Wat gebeurt er als ik zonder een vereist document op de luchthaven aankom?
 
-Als je je paspoort vergeet, kun je niet instappen. Bij ontbrekende ondersteunende documenten varieert de uitkomst: een ontbrekend vaccinatiebewijs kan betekenen dat je kunt omboeken en naar huis gaat om het te regelen, terwijl een ontbrekende toestemmingsverklaring kan leiden tot geweigerde instap voor je kind. Sommige bestemmingen bieden visum bij aankomst, maar de meeste ondersteunende documenten kun je niet aan de grens regelen. Controleer de vereisten altijd 2-3 weken voor vertrek.
+Als je je paspoort vergeet, kun je niet instappen. Bij ontbrekende ondersteunende documenten varieert de uitkomst: een ontbrekend vaccinatiebewijs kan betekenen dat je kunt omboeken en naar huis gaat om het te regelen, terwijl een ontbrekende toestemmingsverklaring kan leiden tot geweigerde instap voor je kind. Sommige bestemmingen bieden visum bij aankomst, maar de meeste ondersteunende documenten kun je niet aan de grens regelen. Controleer de vereisten altijd ruim voor vertrek, en reken op 4-8 weken als je vaccinaties nodig hebt.
 
 ## Gerelateerde artikelen
 

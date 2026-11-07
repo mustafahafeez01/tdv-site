@@ -30,11 +30,11 @@ Banyak negara tujuan ingin bukti bahwa Anda berencana meninggalkan negara itu, b
 
 ### Konfirmasi akomodasi
 
-Beberapa negara meminta bukti pemesanan malam pertama Anda, baik itu konfirmasi hotel, Airbnb, atau hostel. Petugas ingin bukti bahwa Anda punya tempat menginap, jadi unduh salinannya ke ponsel secara offline, email tidak akan membantu di perbatasan.
+Beberapa maskapai dan petugas perbatasan bisa meminta bukti pemesanan malam pertama Anda, baik itu konfirmasi hotel, Airbnb, atau hostel. Petugas ingin bukti bahwa Anda punya tempat menginap, jadi unduh salinannya ke ponsel secara offline, email tidak akan membantu di perbatasan.
 
 ### Sertifikat vaksinasi
 
-Destinasi tertentu mensyaratkan bukti vaksinasi demam kuning atau penyakit lain, dan persyaratannya berubah secara berkala tergantung destinasi. Periksa halaman informasi perjalanan WHO 6-8 minggu sebelum berangkat, bukan malam sebelumnya, karena beberapa negara hanya menerima sertifikat demam kuning resmi WHO, bukan fotokopi atau foto digital.
+Destinasi tertentu mensyaratkan bukti vaksinasi demam kuning atau penyakit lain, dan persyaratannya berubah secara berkala tergantung destinasi. Periksa halaman informasi perjalanan WHO 4-8 minggu sebelum berangkat, bukan malam sebelumnya, dan bawa sertifikat asli, bukan salinan, karena beberapa negara meminta untuk melihatnya.
 
 ### Detail asuransi perjalanan
 
@@ -42,7 +42,7 @@ Anda perlu akses langsung ke nomor polis, kontak penerbit, dan hotline darurat 2
 
 ### Surat izin perjalanan anak
 
-Ketika seorang anak bepergian internasional hanya dengan satu orang tua (atau tanpa kedua orang tua), banyak negara mengharapkan izin tertulis dari orang tua yang tidak ikut, dan notarisasi sangat disarankan. Petugas perbatasan di negara termasuk Kanada dan Afrika Selatan rutin memintanya, dan staf maskapai bisa menolak keberangkatan tanpa itu.
+Ketika seorang anak bepergian internasional hanya dengan satu orang tua (atau tanpa kedua orang tua), banyak negara mengharapkan izin tertulis dari orang tua yang tidak ikut, dan notarisasi sangat disarankan. Petugas perbatasan dan staf maskapai di banyak negara, termasuk Kanada, bisa memintanya, dan Afrika Selatan punya aturan sendiri untuk anak yang masuk ke negaranya, jadi periksa halaman resmi negara tujuan. Tanpa surat itu Anda bisa menghadapi penundaan atau ditolak naik pesawat.
 
 Ini dokumen yang paling sering diabaikan dalam perjalanan keluarga, jadi periksa kembali sebelum Anda tiba di gerbang.
 
@@ -89,7 +89,7 @@ Kami akan menyimpan nomor darurat di kontak ponsel Anda, terpisah dari dokumen f
 
 ## Yang Perlu Ditambahkan Keluarga dengan Anak
 
-Setiap anak membutuhkan paspor sendiri untuk perjalanan internasional, berapa pun usianya. Banyak negara juga mengawasi ketat perjalanan anak untuk mencegah penculikan orang tua, jadi harapkan pertanyaan tambahan ketika anak bepergian hanya dengan satu orang tua.
+Pada umumnya setiap anak membutuhkan paspor sendiri untuk perjalanan internasional, berapa pun usianya. Banyak negara juga mengawasi ketat perjalanan anak untuk mencegah penculikan orang tua, jadi harapkan pertanyaan tambahan ketika anak bepergian hanya dengan satu orang tua.
 
 Aturan yang sama berlaku di sini: jika seorang anak bepergian internasional hanya dengan satu orang tua, banyak petugas perbatasan akan meminta izin tertulis dari orang tua yang tidak ikut, sebaiknya dinotariskan. Jika bepergian tanpa kedua orang tua (misalnya dengan kakek-nenek), izin dari kedua orang tua biasanya diperlukan. Persyaratan berubah dan bervariasi menurut kewarganegaraan, jadi verifikasi dengan otoritas imigrasi resmi destinasi Anda.
 
@@ -121,7 +121,7 @@ Bawa secara fisik: paspor, dokumen visa, boarding pass, sertifikat asuransi perj
 
 ### Apakah surat izin perjalanan anak benar-benar diperlukan?
 
-Ya, di banyak negara ini diharapkan. Jika anak bepergian internasional hanya dengan satu orang tua, orang tua yang tidak ikut sebaiknya memberikan izin tertulis, dan notarisasi sangat disarankan. Jika bepergian tanpa kedua orang tua (misalnya dengan kakek-nenek), biasanya diperlukan izin tertulis dari kedua orang tua. Petugas perbatasan di negara termasuk Kanada dan Afrika Selatan rutin memintanya, dan tanpa itu Anda berisiko ditolak naik pesawat atau masuk. Selalu verifikasi persyaratan untuk destinasi spesifik Anda.
+Ya, di banyak negara ini diharapkan. Jika anak bepergian internasional hanya dengan satu orang tua, orang tua yang tidak ikut sebaiknya memberikan izin tertulis, dan notarisasi sangat disarankan. Jika bepergian tanpa kedua orang tua (misalnya dengan kakek-nenek), biasanya diperlukan izin tertulis dari kedua orang tua. Petugas perbatasan dan staf maskapai di banyak negara, termasuk Kanada, bisa memintanya, dan Afrika Selatan punya aturan sendiri untuk anak yang masuk ke negaranya, jadi periksa halaman resmi negara tujuan. Tanpa surat itu Anda bisa menghadapi penundaan atau ditolak naik pesawat. Selalu verifikasi persyaratan untuk destinasi spesifik Anda.
 
 ### Haruskah saya menyimpan cadangan digital dari dokumen saya?
 
@@ -129,7 +129,7 @@ Ya. Simpan salinan offline terenkripsi di ponsel Anda, bukan di galeri kamera at
 
 ### Apa yang terjadi jika saya tiba di bandara tanpa dokumen yang diperlukan?
 
-Lupa paspor berarti Anda tidak bisa naik pesawat. Untuk dokumen pendukung yang hilang, hasilnya bervariasi: sertifikat vaksinasi yang hilang mungkin memungkinkan Anda mengubah jadwal dan pulang untuk mendapatkannya, sementara surat izin yang hilang bisa mengakibatkan anak Anda ditolak naik pesawat. Beberapa destinasi menawarkan visa saat kedatangan, tapi sebagian besar dokumen pendukung tidak bisa diperoleh di perbatasan. Selalu verifikasi persyaratan 2-3 minggu sebelum keberangkatan.
+Lupa paspor berarti Anda tidak bisa naik pesawat. Untuk dokumen pendukung yang hilang, hasilnya bervariasi: sertifikat vaksinasi yang hilang mungkin memungkinkan Anda mengubah jadwal dan pulang untuk mendapatkannya, sementara surat izin yang hilang bisa mengakibatkan anak Anda ditolak naik pesawat. Beberapa destinasi menawarkan visa saat kedatangan, tapi sebagian besar dokumen pendukung tidak bisa diperoleh di perbatasan. Selalu verifikasi persyaratan jauh sebelum keberangkatan, dan sediakan waktu 4-8 minggu jika Anda perlu vaksinasi.
 
 ## Artikel Terkait
 

@@ -10,9 +10,9 @@ Source: https://traveldocumentvault.com/it/blog/how-long-is-passport-valid-for-t
 
 ## Punti chiave
 
-- **La maggior parte dei passaporti per adulti è valida per 10 anni** dalla data di rilascio. I passaporti per bambini tipicamente scadono dopo 5 anni.
-- Il tuo passaporto non deve essere scaduto per essere rifiutato. **Le compagnie aeree possono e rifiutano l'imbarco** quando la validità rimanente è inferiore al requisito di 6 mesi della destinazione.
-- Destinazioni popolari inclusi Tailandia, Turchia, Vietnam e Indonesia generalmente richiedono **almeno 6 mesi di validità nel giorno dell'arrivo** — e alcuni paesi contano dalla data di partenza, quindi controlla ogni destinazione.
+- **Molti passaporti per adulti sono validi fino a 10 anni** dalla data di rilascio. I passaporti per bambini tipicamente scadono dopo 5 anni.
+- Il tuo passaporto non deve essere scaduto per essere rifiutato. **Puoi vederti rifiutare l’imbarco o l’ingresso** quando la validità rimanente è inferiore al requisito della destinazione.
+- Destinazioni popolari come Tailandia, Vietnam e Indonesia generalmente richiedono **almeno 6 mesi di validità nel giorno dell'arrivo** per i titolari di passaporto britannico — mentre i paesi Schengen contano dalla data in cui prevedi di partire, quindi controlla ogni destinazione.
 - I passaporti dei bambini scadono più velocemente di quelli dei genitori — **controlla ogni passaporto nel tuo gruppo individualmente** prima di prenotare, non solo il tuo.
 - La soglia pratica di rinnovo è **12 mesi di validità rimanente**, non la data di scadenza stessa.
 
@@ -22,7 +22,7 @@ Sette mesi rimasti sul tuo passaporto sembrano parecchi. Prenoti i voli, control
 
 ## I passaporti per adulti durano molto più di quelli dei bambini
 
-Il periodo di validità standard per un passaporto per adulti è 10 anni dalla data di rilascio nella maggior parte dei paesi. I passaporti per bambini scadono più presto — tipicamente 5 anni — perché l'aspetto di un bambino cambia significativamente durante quel periodo. Noi controlleremmo il passaporto di un bambino prima di quello di chiunque altro, perché è quello che tutti danno per scontato sia a posto.
+Il periodo di validità standard per un passaporto per adulti è 10 anni dalla data di rilascio nella maggior parte dei paesi. I passaporti per bambini scadono più presto — tipicamente 5 anni. Noi controlleremmo il passaporto di un bambino prima di quello di chiunque altro, perché è quello che tutti danno per scontato sia a posto.
 
 | Paese | Validità adulti | Validità bambini |
 |---|---|---|
@@ -41,11 +41,11 @@ La tua data esatta di scadenza è stampata sulla pagina dati accanto alla tua fo
 
 Un passaporto può essere tecnicamente valido — non scaduto — e comunque farti negare l'imbarco. Ci sono due ragioni principali per cui questo accade.
 
-**La regola dei 6 mesi.** Molte destinazioni popolari richiedono che il tuo passaporto sia valido per almeno 6 mesi nel giorno dell'ingresso nel paese, e alcuni contano dalla tua data di partenza pianificata invece. Quindi se il tuo passaporto scade in ottobre e atterra a Istanbul in aprile, stai bene. Se arrivi a giugno, potresti non stare bene — e la compagnia aerea ti rifiuterà di imbarcare prima ancora di arrivare all'immigrazione.
+**La regola dei 6 mesi.** Molte destinazioni popolari richiedono che il tuo passaporto sia valido per almeno 6 mesi nel giorno dell'ingresso nel paese, e alcuni, come i paesi Schengen, contano invece dalla data di partenza prevista. Quindi se il tuo passaporto scade in ottobre e atterri in Tailandia in aprile, stai bene. Se arrivi a giugno, potresti non stare bene — e potresti vederti rifiutare l’imbarco prima ancora di arrivare all'immigrazione.
 
-La regola dei 6 mesi si applica in modo incoerente per nazionalità. Lo stesso paese può applicarla per alcuni titolari di passaporti e rinunciarvi per altri secondo accordi bilaterali. L'unico modo affidabile per verificare è cercare il requisito specifico per il tuo passaporto e la destinazione usando l'IATA Travel Centre — lo stesso database che le compagnie aeree usano al banco.
+I requisiti possono variare in base alla nazionalità. Lo stesso paese può applicare una regola ad alcuni titolari di passaporto e non ad altri. La compagnia aerea e la pagina ufficiale sui requisiti d’ingresso della destinazione possono confermare cosa serve per il tuo passaporto.
 
-Copriamo [quali paesi applicano la regola dei 6 mesi](https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/) in dettaglio, inclusa una tabella paese per paese. La versione breve: assumi che si applica a qualsiasi destinazione al di fuori dell'Europa, del Nord America o dell'Australia a meno che tu non abbia verificato.
+Copriamo [quali paesi applicano la regola dei 6 mesi](https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/) in dettaglio, inclusa una tabella paese per paese. La versione breve: le regole variano da paese a paese, quindi verifica il requisito della tua destinazione.
 
 **Pagine bianche.** Alcuni paesi richiedono 2 a 4 pagine bianche per i visti. Se viaggi frequentemente e il tuo passaporto ha 6 o 7 anni, potrebbe esaurirsi le pagine utilizzabili prima della data di scadenza. Controlla il numero di pagine così come la validità quando viaggi verso destinazioni che rilasciano timbri dei visti.
 
@@ -53,17 +53,17 @@ Copriamo [quali paesi applicano la regola dei 6 mesi](https://traveldocumentvaul
 
 Dipende interamente da dove stai andando.
 
-Per destinazioni che non applicano la regola dei 6 mesi — la maggior parte dell'Europa per cittadini UE e britannici, e gli USA per cittadini americani che tornano a casa — il tuo passaporto deve essere valido solo nel giorno in cui viaggi. Un giorno di validità rimanente è tecnicamente sufficiente.
+Le destinazioni che non applicano la regola dei 6 mesi hanno requisiti propri. I paesi Schengen richiedono un passaporto rilasciato negli ultimi 10 anni e valido per almeno 3 mesi dopo la partenza prevista. A un cittadino statunitense che rientra nel proprio paese generalmente basta un passaporto valido.
 
 Per destinazioni con un requisito di 6 mesi, conta 6 mesi dal giorno dell'arrivo. Se atterra in Tailandia il 20 luglio, il tuo passaporto deve essere valido fino ad almeno il 20 gennaio dell'anno successivo — e contare dalla data di ritorno invece ti dà un margine di sicurezza aggiuntivo per i paesi che misurano diversamente.
 
-Per tutto il resto, controlla prima di prenotare. L'IATA Travel Centre fornisce il requisito esatto per la tua nazionalità e destinazione in secondi.
+Per tutto il resto, controlla prima di prenotare. La compagnia aerea o la pagina ufficiale sui requisiti d’ingresso della destinazione possono confermarlo.
 
 ## I passaporti dei bambini scadono prima, e le famiglie dimenticano di controllarli
 
 È qui che le famiglie vengono colte di sorpresa ogni estate. I passaporti per adulti sono validi per 10 anni. I passaporti per bambini scadono dopo 5. Quella differenza crea un problema specifico.
 
-Un bambino di 3 anni che ha ottenuto il suo primo passaporto nel 2023 ha un documento che scade nel 2028. Nel momento in cui avranno 7 anni e la famiglia prenota un viaggio in Turchia, quel passaporto potrebbe avere solo pochi mesi di validità rimasta — ben al di sotto del requisito di 6 mesi. Entrambi i genitori potrebbero stare seduti con 4 anni di validità ciascuno e mai pensare di controllare il documento del bambino.
+Un bambino di 3 anni che ha ottenuto il suo primo passaporto nel 2023 ha un documento che scade nel 2028. Nel momento in cui avranno 7 anni e la famiglia prenota un viaggio in Tailandia, quel passaporto potrebbe avere solo pochi mesi di validità rimasta — ben al di sotto del requisito di 6 mesi. Entrambi i genitori potrebbero stare seduti con 4 anni di validità ciascuno e mai pensare di controllare il documento del bambino.
 
 **Prima di prenotare qualsiasi viaggio internazionale, controlla ogni passaporto nel gruppo individualmente.** Un passaporto breve può bloccare un'intera famiglia dall'imbarco.
 
@@ -91,7 +91,7 @@ I passaporti britannici per adulti sono validi per 10 anni dalla data di rilasci
 
 ### Posso viaggiare con 6 mesi rimasti sul mio passaporto?
 
-Verso la maggior parte delle destinazioni europee, sì — il tuo passaporto deve essere valido solo per la durata del tuo soggiorno. Per destinazioni che applicano la regola dei 6 mesi, inclusi Tailandia, Turchia, Vietnam e Indonesia, quei 6 mesi sono generalmente contati dal giorno dell'arrivo — anche se alcuni paesi contano dalla partenza. Controlla il requisito specifico per la tua destinazione e nazionalità prima di prenotare.
+Per i paesi Schengen, un passaporto britannico generalmente deve avere almeno 3 mesi di validità dopo la partenza prevista, quindi 6 mesi residui vanno bene. Destinazioni come Tailandia, Vietnam e Indonesia generalmente richiedono 6 mesi, di solito contati dal giorno dell’arrivo — mentre i paesi Schengen contano dalla partenza. Controlla il requisito specifico per la tua destinazione e nazionalità prima di prenotare.
 
 ### Quando devo rinnovare il mio passaporto?
 
@@ -99,7 +99,7 @@ Rinnova quando scendi al di sotto di 12 mesi di validità rimanente. Questo ti d
 
 ### I passaporti dei bambini scadono più velocemente dei passaporti degli adulti?
 
-Sì. I passaporti dei bambini sono validi per 5 anni piuttosto che 10, perché l'aspetto di un bambino cambia significativamente mentre crescono. Controlla il passaporto di ogni membro della famiglia individualmente prima di prenotare i viaggi — non dare per scontato che tutti i passaporti scadano nello stesso momento.
+Sì. Un passaporto britannico per bambini è valido per 5 anni anziché 10. Controlla il passaporto di ogni membro della famiglia individualmente prima di prenotare i viaggi — non dare per scontato che tutti i passaporti scadano nello stesso momento.
 
 ### Cosa succede se il mio passaporto scade mentre sono all'estero?
 

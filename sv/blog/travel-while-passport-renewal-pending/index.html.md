@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/sv/blog/travel-while-passport-renewal-pe
 ## Viktiga punkter
 
 - Allt nedan handlar om en enda sak: om du fortfarande har ditt pass i handen, eller redan har lämnat in det för förnyelse.
-- **USA:** Förnyelse per post låter dig behålla ditt gamla pass. Inrikesresor fungerar utan problem. Utrikesresor kräver att ditt förnyade pass har kommit.
+- **USA:** Vid förnyelse per post skickar du in ditt nuvarande pass tillsammans med ansökan. Inrikesresor fungerar utan problem. Utrikesresor kräver att ditt förnyade pass har kommit.
 - **Storbritannien (postal förnyelse):** Ditt pass förvaras av HM Passport Office. Du kan inte resa utomlands förrän det har returnerats. **Storbritannien (digital förnyelse):** Du behåller ditt pass hela tiden och kan resa på det medan det nya behandlas.
 - **Australien och Kanada:** Båda kräver att du lämnar in ditt pass vid ansökan. Utrikesresor är inte möjliga förrän det nya passet har utfärdats.
 - Expedierade och brådskande förnyelsealternativ finns i alla länder som tas upp här, men grundregeln gäller ändå: du kan inte resa utomlands utan ett giltigt pass i handen.
@@ -28,7 +28,7 @@ Om du fortfarande har det passet beror helt på ditt land och din förnyelsemeto
 
 ## USA: Förnyelse per post
 
-Standardförnyelse av amerikanskt pass per post kräver inte att du lämnar in ditt nuvarande pass innan det nya kommer. Du fyller i formulär DS-82, bifogar ditt befintliga pass och skickar allt till National Passport Processing Center. Ditt gamla pass returneras till dig tillsammans med det nya, vanligtvis makulerat med ett hål.
+Standardförnyelse av amerikanskt pass per post innebär att du skickar in ditt nuvarande pass tillsammans med ansökan, så du har det inte i handen medan du väntar. Du fyller i formulär DS-82, bifogar ditt befintliga pass och skickar allt till National Passport Processing Center. Enligt USAGov skickas ditt gamla pass tillbaka separat, vanligtvis omkring fyra veckor efter att du fått det nya.
 
 Det innebär att inrikesresor inom USA inte påverkas under hela förnyelseprocessen – du behöver inget pass för inrikesflyg. Utrikesresor är en annan historia: du kan inte resa utomlands förrän ditt nya pass har kommit, och du kan inte använda det gamla makulerade passet även om du har det i handen.
 
@@ -114,7 +114,7 @@ Kontakta din passmyndighet omedelbart och fråga om expedierad eller brådskande
 
 ### Behåller jag mitt pass under förnyelseprocessen?
 
-Det beror på. Amerikansk förnyelse per post returnerar ditt gamla pass till dig (makulerat) tillsammans med det nya. Storbritanniens digitala förnyelse låter dig behålla det hela tiden. Storbritanniens postala förnyelse, Australien och Kanada kräver alla att du lämnar in ditt pass vid ansökan.
+Det beror på. Vid amerikansk förnyelse per post skickar du in ditt gamla pass, och enligt USAGov skickas det tillbaka separat, vanligtvis omkring fyra veckor efter det nya. Storbritanniens digitala förnyelse låter dig behålla det hela tiden. Storbritanniens postala förnyelse, Australien och Kanada kräver alla att du lämnar in ditt pass vid ansökan.
 
 ### Vad är ett nödreseddokument?
 

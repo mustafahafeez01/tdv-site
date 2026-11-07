@@ -11,14 +11,14 @@ Source: https://traveldocumentvault.com/id/blog/etias-documents-2026/
 ## Poin Penting
 
 - **ETIAS adalah izin perjalanan digital** bagi pelancong dari Inggris, AS, dan Kanada, diperlukan untuk masuk bebas visa ke kawasan Schengen setelah menjadi wajib
-- **Anda memerlukan paspor yang berlaku minimal 3 bulan** setelah tanggal keberangkatan serta alamat email untuk mengajukan permohonan
+- **Anda memerlukan paspor yang berlaku lebih dari 3 bulan** setelah tanggal keberangkatan serta alamat email untuk mengajukan permohonan
 - Waktu pemrosesan bervariasi, terutama segera setelah peluncuran; **ajukan jauh-jauh hari sebelum perjalanan** dan periksa situs resmi UE untuk panduan terkini
 - Periksa situs resmi UE untuk biaya terkini; **anak di bawah 18 tahun dan dewasa di atas 70 tahun tidak membayar** tetapi tetap memerlukan izin
-- **Penolakan umum terjadi karena catatan kriminal yang tidak diungkapkan atau kelebihan masa tinggal sebelumnya, jadi ungkapkan semuanya, bahkan yang sudah lama**
+- **Keraguan terhadap keandalan jawaban Anda dapat menyebabkan penolakan, jadi ungkapkan semuanya, bahkan yang sudah lama**
 
 Anda sudah memesan perjalanan keluarga ke Italia dan mendengar bahwa ETIAS akan segera hadir, persyaratan izin digital baru bagi pengunjung bebas visa yang menuju Eropa. Panduan ini menjelaskan apa itu ETIAS, dokumen apa yang Anda perlukan, dan bagaimana proses permohonannya berjalan, sehingga Anda siap sebelum sampai ke formulir.
 
-European Travel Information and Authorisation System (ETIAS) bukanlah [visa](https://traveldocumentvault.com/id/blog/visa-vs-passport/), ini adalah izin digital pra-perjalanan bagi pengunjung dari negara bebas visa. Jika Anda warga negara Inggris, AS, atau Kanada, saat ini Anda tiba di Eropa, memindai paspor, menjawab beberapa pertanyaan perbatasan, dan melewati pemeriksaan. Setelah ETIAS menjadi wajib, proses itu berpindah ke daring, Anda mengajukan permohonan sebelum terbang.
+European Travel Information and Authorisation System (ETIAS) bukanlah [visa](https://traveldocumentvault.com/id/blog/visa-vs-passport/), ini adalah izin digital pra-perjalanan bagi pengunjung dari negara bebas visa. Jika Anda warga negara Inggris, AS, atau Kanada, Anda umumnya mendaftar di perbatasan melalui Entry/Exit System (foto dan sidik jari saat pertama kali masuk), lalu menjalani pemeriksaan perbatasan. Setelah ETIAS menjadi wajib, proses itu berpindah ke daring, Anda mengajukan permohonan sebelum terbang.
 
 ## Apa Itu ETIAS dan Siapa yang Memerlukannya?
 
@@ -32,13 +32,13 @@ Jika Anda memegang visa seperti visa tinggal lama Schengen, visa keluarga Inggri
 
 Berbeda dengan visa tradisional, ETIAS tidak memerlukan pengiriman dokumen fisik, Anda mengajukan permohonan sepenuhnya secara daring. Namun, Anda perlu menyiapkan informasi tertentu sebelum memulai pengisian formulir permohonan.
 
-**Paspor Anda** harus berlaku minimal tiga bulan setelah tanggal keberangkatan yang direncanakan dari Eropa. Ini jebakan yang mudah terjadi: paspor yang kedaluwarsa pada 30 Desember mungkin terlihat cukup untuk perjalanan yang berakhir pada 1 Desember, tetapi kebanyakan negara mensyaratkan margin penuh tiga bulan agar dianggap berlaku. Selain masa berlaku itu, paspor juga harus berupa paspor dewasa standar dari negara yang diakui, bukan dokumen perjalanan atau paspor darurat.
+**Paspor Anda** harus berlaku lebih dari tiga bulan setelah tanggal keberangkatan yang direncanakan dari Eropa dan diterbitkan dalam sepuluh tahun terakhir. Ini jebakan yang mudah terjadi: paspor yang kedaluwarsa pada 30 Desember mungkin terlihat cukup untuk perjalanan yang berakhir pada 1 Desember, tetapi UE meminta masa berlaku lebih dari tiga bulan setelah keberangkatan. Selain itu, dokumen perjalanan Anda harus diakui oleh negara-negara yang Anda kunjungi.
 
 Anda juga perlu memberikan **alamat email**, yang sekaligus berfungsi sebagai login untuk melacak permohonan. ETIAS mengirim semua pembaruan status, persetujuan, dan penolakan ke kotak masuk ini, jadi gunakan alamat yang sering Anda periksa. Jika keluarga Anda berbagi akun email, sebaiknya buat alamat terpisah untuk setiap pelancong agar tidak melewatkan pemberitahuan penting.
 
-Selama permohonan, Anda perlu memberikan **riwayat perjalanan**, termasuk perjalanan sebelumnya ke negara Schengen — tanggal, tujuan, dan durasi — meski tanggal yang tepat tidak selalu diperlukan. Yang penting adalah memberikan kerangka waktu yang konsisten dan mendekati kebenaran, yang membantu mencegah penolakan saat sistem melakukan pemeriksaan silang terhadap informasi Anda.
+Saat mengajukan permohonan, formulir menanyakan **riwayat hukuman pidana**, perjalanan ke zona perang atau konflik, serta keputusan pemulangan apa pun. Berikan jawaban yang konsisten agar tidak menimbulkan masalah saat sistem memeriksa silang informasi Anda.
 
-ETIAS akan meminta **informasi keamanan dan pribadi** — nama lengkap, tanggal lahir, tempat lahir, kewarganegaraan, dan detail kontak — beserta pertanyaan tentang catatan kriminal atau kelebihan masa tinggal visa sebelumnya. Kejujuran penting di sini: informasi palsu menjadi dasar penolakan permanen dan dapat memicu larangan deportasi.
+ETIAS akan meminta **informasi keamanan dan pribadi** — nama lengkap, tanggal lahir, tempat lahir, kewarganegaraan, dan detail kontak — beserta pertanyaan tentang hukuman pidana atau keputusan pemulangan. Kejujuran penting di sini: kesalahan atau informasi palsu dapat menyebabkan penolakan, pencabutan, atau pembatalan izin.
 
 **Bukti penghasilan** bersifat opsional — slip gaji terbaru, rekening koran, atau laporan pajak semuanya dapat digunakan. Komisi Eropa tidak mewajibkannya, tetapi menyertakannya dapat memperkuat permohonan yang berada di batas keputusan dan mengurangi risiko penolakan. Kami akan tetap menyertakannya jika ada hal lain dalam permohonan yang terasa kurang pasti.
 
@@ -60,19 +60,19 @@ Pada akhirnya, Anda meninjau informasi, membayar biaya yang ditampilkan saat che
 
 Komisi Eropa mempublikasikan panduan waktu pemrosesan terkini di situs resminya, dan sebaiknya Anda memeriksanya sebelum berasumsi memiliki cukup waktu. Permintaan tinggi setelah peluncuran, keterlambatan pemeriksaan latar belakang, dan kebutuhan memperbaiki penolakan semuanya dapat menambah waktu tunggu, jadi ajukan permohonan sedini mungkin sebelum perjalanan Anda. Ajukan begitu tanggal perjalanan sudah pasti, bukan seminggu sebelum keberangkatan.
 
-Ada tiga kemungkinan hasil: disetujui, ditolak, atau penolakan izin.
+Permohonan dapat disetujui, ditolak, atau otoritas meminta informasi tambahan.
 
 **Persetujuan** berarti Anda diberikan ETIAS digital yang terhubung dengan nomor paspor Anda — tidak ada yang perlu dicetak atau dibawa, karena sistem akan mengenali Anda secara otomatis di perbatasan. Persetujuan Anda tetap berlaku selama tiga tahun, atau hingga paspor Anda kedaluwarsa, mana yang lebih dulu.
 
-**Penolakan** biasanya berasal dari informasi yang tidak lengkap atau tidak konsisten — tanggal perjalanan yang hilang, riwayat pekerjaan yang bertentangan, atau jawaban yang tidak jelas semuanya memicu hasil ini. Anda dapat mengajukan ulang segera untuk memperbaiki masalah, tanpa masa tunggu, karena ini adalah kesalahan yang mudah diperbaiki.
+**Permintaan informasi tambahan** dapat muncul akibat jawaban yang tidak lengkap atau tidak konsisten, seperti tanggal perjalanan yang hilang, riwayat pekerjaan yang bertentangan, atau tanggapan yang tidak jelas. UE memberi Anda tambahan 10 hari untuk memberikan informasi yang diminta, jadi segera tanggapi.
 
-**Penolakan izin** lebih serius, terjadi ketika pemeriksaan keamanan ETIAS menemukan catatan kriminal, kelebihan masa tinggal Schengen sebelumnya, atau masalah keamanan lain. Secara teknis Anda dapat mengajukan ulang segera jika keadaan Anda berubah, tetapi permohonan ulang yang berhasil kecil kemungkinannya begitu penolakan didasarkan pada alasan keamanan. Dalam praktiknya, Anda umumnya perlu mengajukan visa tinggal lama melalui kedutaan sebagai gantinya, perjalanan bebas visa ke negara Schengen tidak lagi menjadi pilihan setelah Anda ditolak.
+**Penolakan** disertai alasan dan hak untuk mengajukan banding, yang ditangani oleh otoritas negara yang menolak. Anda juga dapat mengajukan permohonan lagi: UE menyatakan penolakan sebelumnya tidak otomatis menyebabkan permohonan baru ditolak.
 
 ## Sebagian Besar Penolakan Berawal dari Inkonsistensi, Bukan Nasib Buruk
 
 Sebagian besar penolakan ETIAS berasal dari inkonsistensi riwayat perjalanan dan informasi yang tidak lengkap, berikut adalah hal-hal yang perlu diperhatikan.
 
-**Catatan kriminal yang tidak diungkapkan:** Jika Anda memiliki catatan kriminal dan tidak mengungkapkannya, tetapi ETIAS menemukannya saat pemeriksaan latar belakang, permohonan Anda akan ditolak izinnya, bukan sekadar ditolak, perbedaan yang penting. Selalu ungkapkan, meski vonis itu lama atau sudah dihapus di negara asal Anda, karena otoritas Eropa mungkin masih menyimpan catatannya. Penolakan izin berdasarkan keamanan sangat sulit dibatalkan kecuali keadaan Anda berubah secara drastis.
+**Catatan kriminal yang tidak diungkapkan:** Jika Anda memiliki catatan kriminal dan tidak mengungkapkannya, tetapi ETIAS menemukannya saat pemeriksaan latar belakang, permohonan Anda dapat ditolak. Selalu ungkapkan, meski vonis itu lama atau sudah dihapus di negara asal Anda, karena otoritas Eropa mungkin masih menyimpan catatannya. Keraguan terhadap keandalan informasi yang Anda berikan merupakan alasan penolakan yang dinyatakan secara resmi, jadi ungkapkan semuanya.
 
 **Kelebihan masa tinggal sebelumnya:** jika Anda pernah melebihi masa berlaku visa di Eropa atau tempat lain, ETIAS akan menandainya. Persiapkan penjelasan singkat di kolom catatan opsional — sesuatu seperti "keadaan darurat keluarga menunda keberangkatan; sudah diselesaikan dengan otoritas terkait" dapat membantu, meski beberapa kasus kelebihan masa tinggal tetap memicu penolakan izin apa pun penjelasannya.
 
@@ -90,7 +90,7 @@ Anak di bawah 18 tahun tidak membayar biaya ETIAS tetapi tetap harus mengajukan 
 
 Kelompok keluarga harus mengajukan setiap permohonan secara terpisah, bukan sebagai satu unit "keluarga". Namun, Anda dapat mencatat bahwa Anda bepergian sebagai keluarga di bagian detail perjalanan, dan catatan itu dapat membantu jika permohonan salah satu anggota ditandai untuk peninjauan. Kami akan mengisi formulir setiap anggota keluarga dalam satu waktu, karena catatan keluarga hanya berguna jika detailnya selaras.
 
-Jika Anda ditolak dan tetap perlu bepergian, alternatif Anda adalah mengajukan visa tinggal lama tradisional melalui kedutaan atau konsulat terkait, yang biasanya memungkinkan lebih banyak kali masuk dan masa tinggal lebih lama dibandingkan perjalanan bebas visa. Karena persyaratan berbeda menurut tujuan dan kewarganegaraan, hubungi kedutaan secara langsung untuk mengetahui apa yang Anda perlukan.
+Jika Anda ditolak dan tetap perlu bepergian, Anda dapat mengajukan banding atau mengajukan permohonan lagi. Visa tinggal lama melalui kedutaan atau konsulat terkait merupakan jalur lain, yang biasanya memungkinkan lebih banyak kali masuk dan masa tinggal lebih lama dibandingkan perjalanan bebas visa. Karena persyaratan berbeda menurut tujuan dan kewarganegaraan, hubungi kedutaan secara langsung untuk mengetahui apa yang Anda perlukan.
 
 ![Diagram yang membandingkan EES dan ETIAS: EES terjadi di perbatasan dengan sidik jari dan foto, tanpa permohonan, dan mulai diterapkan di titik-titik masuk; ETIAS terjadi sebelum Anda terbang, diajukan secara daring dengan biaya kecil, dan belum ada tanggal wajib yang dipastikan; Anda pada akhirnya akan memerlukan keduanya, dan keduanya bukan visa](https://traveldocumentvault.com/blog/etias-documents-2026/ees-vs-etias-figure-id.jpg) Dua gerbang yang berbeda: EES mendaftarkan Anda saat kedatangan; ETIAS memberi izin sebelum keberangkatan.
 
@@ -99,7 +99,7 @@ Jika Anda ditolak dan tetap perlu bepergian, alternatif Anda adalah mengajukan v
 Persetujuan ETIAS tidak menggantikan paspor Anda, asuransi perjalanan, atau [persyaratan masa berlaku paspor](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/). Anda tetap memerlukan:
 
 - Paspor yang berlaku (masa berlaku minimal 3 bulan)
-- Asuransi perjalanan yang mencakup keadaan darurat medis dan repatriasi
+- Asuransi perjalanan (disarankan; petugas perbatasan mungkin menanyakan dana dan akomodasi Anda)
 - Bukti perjalanan lanjutan (tiket pulang atau tiket lanjutan)
 - Bukti akomodasi atau rencana perjalanan
 - Dana yang cukup untuk masa tinggal Anda
@@ -122,7 +122,7 @@ ETIAS diwajibkan bagi warga negara non-UE yang bebas visa yang melakukan kunjung
 
 ### Dokumen apa yang saya butuhkan untuk mengajukan ETIAS?
 
-Anda harus memiliki paspor yang berlaku dengan masa berlaku minimal tiga bulan setelah tanggal keberangkatan yang direncanakan. Anda juga memerlukan alamat email. Secara opsional, bukti penghasilan (slip gaji, rekening koran, atau laporan pajak) direkomendasikan tetapi tidak selalu diwajibkan. Tidak ada dokumen fisik yang diserahkan, semuanya diunggah secara digital atau dimasukkan ke dalam formulir permohonan daring.
+Anda harus memiliki paspor yang berlaku lebih dari tiga bulan setelah tanggal keberangkatan yang direncanakan dan diterbitkan dalam sepuluh tahun terakhir. Anda juga memerlukan alamat email. Secara opsional, bukti penghasilan (slip gaji, rekening koran, atau laporan pajak) direkomendasikan tetapi tidak selalu diwajibkan. Tidak ada dokumen fisik yang diserahkan, semuanya diunggah secara digital atau dimasukkan ke dalam formulir permohonan daring.
 
 ### Berapa biaya ETIAS dan berapa lama prosesnya?
 
@@ -130,11 +130,11 @@ Komisi Eropa mempublikasikan biaya ETIAS terkini di situs resminya. Anak di bawa
 
 ### Apa yang terjadi jika permohonan ETIAS saya ditolak?
 
-Jika ditolak karena informasi tidak lengkap atau tidak konsisten, Anda dapat mengajukan ulang segera dengan data yang telah diperbaiki. Jika ditolak karena alasan keamanan (catatan kriminal, kelebihan masa tinggal sebelumnya, atau masalah serius lain), Anda dapat mengajukan ulang kapan saja, meski persetujuan tidak mungkin diberikan kecuali keadaan berubah secara signifikan. Alasan penolakan umum meliputi catatan kriminal yang tidak diungkapkan atau kelebihan masa tinggal sebelumnya. Anda akan menerima pemberitahuan yang menjelaskan alasannya. Jika bisa diperbaiki (misalnya informasi perjalanan yang diperbarui), perbaiki dan ajukan ulang. Jika terkait keamanan, Anda mungkin perlu mengajukan visa tinggal lama sebagai gantinya.
+Jika permohonan ditolak, Anda akan menerima pemberitahuan yang menjelaskan alasannya dan memiliki hak untuk mengajukan banding, yang ditangani oleh otoritas negara yang menolak. Anda juga dapat mengajukan permohonan lagi: UE menyatakan penolakan sebelumnya tidak otomatis menyebabkan permohonan baru ditolak. Jika penyebabnya dapat diperbaiki (misalnya informasi perjalanan yang diperbarui), perbaiki dan ajukan ulang. Visa tinggal lama melalui kedutaan merupakan jalur lain.
 
 ### Bisakah saya bepergian ke Eropa sebelum ETIAS diluncurkan?
 
-Bisa. ETIAS belum diwajibkan. Selama belum diwajibkan, pelancong bebas visa dapat terus menggunakan prosedur perbatasan saat ini — pemindaian paspor, deklarasi lisan, dan pemeriksaan. Setelah ETIAS menjadi wajib, semua perjalanan berikutnya akan memerlukan izin terlebih dahulu. Periksa situs resmi UE sebelum memesan untuk memastikan status terkini.
+Bisa. ETIAS belum diwajibkan. Selama belum diwajibkan, pelancong bebas visa umumnya mendaftar di perbatasan melalui Entry/Exit System (foto dan sidik jari saat pertama kali masuk), lalu menjalani pemeriksaan perbatasan. Setelah ETIAS menjadi wajib, semua perjalanan berikutnya akan memerlukan izin terlebih dahulu. Periksa situs resmi UE sebelum memesan untuk memastikan status terkini.
 
 ## Artikel Terkait
 

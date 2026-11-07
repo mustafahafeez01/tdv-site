@@ -10,18 +10,18 @@ Source: https://traveldocumentvault.com/de/blog/how-long-is-esta-valid/
 
 ## Wichtigste Erkenntnisse
 
-- **Ein ESTA ist zwei Jahre ab der Genehmigung gültig, oder bis der Pass abläuft**, je nachdem, was früher eintritt.
+- **Ein ESTA ist in der Regel zwei Jahre ab der Genehmigung gültig, oder bis der Pass abläuft**, je nachdem, was früher eintritt.
 - Es muss nur am Tag der Einreise in die USA gültig sein, und jeder Aufenthalt ist auf 90 Tage oder weniger begrenzt.
 - Es kann nicht verlängert werden, aber Sie können jederzeit ein neues beantragen. Der neue Antrag ersetzt den alten.
 - Ein neuer Pass, ein neuer Name, eine neue Staatsangehörigkeit oder eine geänderte Antwort bei den Zulassungsfragen bedeuten, dass Sie neu beantragen müssen.
 - **Jeder Reisende braucht ein eigenes ESTA**, auch Kinder jeden Alters und Babys ohne eigenes Ticket.
 - Die Gebühr stieg am 16. Oktober 2026 von US $40.27 auf US $40.62. Ein bereits genehmigtes ESTA muss nicht neu beantragt werden.
 
-Ein ESTA gilt zwei Jahre ab dem Tag der Genehmigung, oder bis der Pass abläuft, mit dem es verknüpft ist, je nachdem, was früher eintritt. Wenn Sie bereits eines haben, betrifft Sie die Gebührenänderung vom 16. Oktober 2026 nicht, und Sie zahlen den neuen Betrag erst bei Ihrem nächsten Antrag. Was wir heute tun würden: das Ablaufdatum jedes ESTA in der Familie nachschlagen, denn die Uhr jeder Person läuft für sich.
+Ein ESTA gilt in der Regel zwei Jahre ab dem Tag der Genehmigung, oder bis der Pass abläuft, mit dem es verknüpft ist, je nachdem, was früher eintritt. Wenn Sie bereits eines haben, betrifft Sie die Gebührenänderung vom 16. Oktober 2026 nicht, und Sie zahlen den neuen Betrag erst bei Ihrem nächsten Antrag. Was wir heute tun würden: das Ablaufdatum jedes ESTA in der Familie nachschlagen, denn die Uhr jeder Person läuft für sich.
 
 ## Ihr ESTA endet nach zwei Jahren oder wenn Ihr Pass abläuft
 
-US Customs and Border Protection (CBP) legt die Regel fest: Ein genehmigtes ESTA ist zwei Jahre ab dem Datum der Genehmigung gültig, oder bis Ihr Pass abläuft, je nachdem, was früher eintritt. Ein Pass mit noch 14 Monaten Gültigkeit ergibt also ein ESTA mit 14 Monaten Gültigkeit. Der Genehmigungsbildschirm zeigt das genaue Ablaufdatum, sodass Sie es nicht selbst berechnen müssen.
+US Customs and Border Protection (CBP) legt die Regel fest: Ein genehmigtes ESTA ist in der Regel zwei Jahre ab dem Datum der Genehmigung gültig, oder bis Ihr Pass abläuft, je nachdem, was früher eintritt. Ein Pass mit noch 14 Monaten Gültigkeit ergibt also ein ESTA mit 14 Monaten Gültigkeit. Der Genehmigungsbildschirm zeigt das genaue Ablaufdatum, sodass Sie es nicht selbst berechnen müssen.
 
 ![Diagramm, wann ein ESTA ungültig wird: es endet nach 2 Jahren oder wenn der Pass abläuft, je nachdem, was früher eintritt. Jeder braucht sein eigenes, auch Babys und Kinder, jeder mit eigenem Pass. Ein neuer Pass, ein neuer Name oder eine neue Staatsangehörigkeit bedeutet, neu zu beantragen](https://traveldocumentvault.com/blog/how-long-is-esta-valid/esta-clock-de.jpg) Eine Uhr pro Reisendem, die den Pass nie überlebt.
 

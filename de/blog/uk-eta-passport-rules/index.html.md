@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/de/blog/uk-eta-passport-rules/
 
 - **Eine britische ETA ist an Ihre Reisepassnummer gebunden.** Wenn Sie Ihren Reisepass erneuern und eine neue Nummer erhalten, wird Ihre alte ETA ungültig.
 - Sie müssen mit **genau dem Reisepass reisen, mit dem Sie beantragt haben.** Ein neuer Reisepass bedeutet, dass Sie vor der Reise eine neue ETA benötigen.
-- **Jede Person braucht ihre eigene ETA** – auch Kinder und Babys. Es gibt keine Familien-ETA und keine Mitreise als Angehöriger.
+- **Jede Person braucht ihre eigene ETA** – auch Kinder und Babys. Es gibt keine Familien-ETA. Jede Person braucht ihre eigene, Sie können den Antrag aber im Namen von Familienmitgliedern stellen.
 - Das Home Office empfiehlt, **mindestens 3 Werktage im Voraus zu beantragen.** Das ist eine Empfehlung, keine Bearbeitungsgarantie.
 - Eine ETA ist eine **Reiseerlaubnis, keine Einreisegarantie.** Grenzbeamte können die Einreise auch mit gültiger ETA verweigern.
 
@@ -32,7 +32,7 @@ Manche Personen sind ausgenommen: Irische Staatsangehörige benötigen keine ETA
 
 Ihre britische ETA ist an Ihre Reisepassnummer gebunden, nicht an Sie als Person. Bei Ihrem Antrag verknüpft das Home Office die Genehmigung mit einer bestimmten Reisepassnummer. Reisen Sie mit einem anderen Reisepass – einem neu ausgestellten, einem Zweitpass, einem Notfall-Ersatzdokument – bedeutet das, mit einer ETA zu reisen, die nicht an dieses Dokument gebunden ist.
 
-Das unterscheidet sich von Visa vieler Länder, die häufig an die Person gebunden und bei der Erneuerung in den neuen Reisepass gedruckt werden. Eine britische ETA ist digital und reisepassbezogen, sodass eine neue Reisepassnummer eine neue ETA erfordert.
+Eine britische ETA ist digital und reisepassbezogen, sodass eine neue Reisepassnummer eine neue ETA erfordert.
 
 In der Praxis gilt: Läuft Ihr Reisepass ab oder erneuern Sie ihn aus einem beliebigen Grund vor Ihrer Reise, können Sie Ihre alte ETA nicht mit dem neuen Reisepass nutzen. Sie müssen erneut einen Antrag stellen und die Genehmigung vor der Reise erhalten, da es keine automatische Übertragung gibt.
 
@@ -57,13 +57,13 @@ Das Risiko liegt in Schritt 5. Liegt Ihre Reise in 10 Tagen und Ihr neuer Reisep
 
 ## Jedes Kind braucht seine eigene ETA, Babys eingeschlossen
 
-Jede Person, auch Säuglinge, benötigt ihre eigene britische ETA. Es gibt keine Familien-ETA und keine Möglichkeit, Angehörige zum Antrag einer anderen Person hinzuzufügen.
+Jede Person, auch Säuglinge, benötigt ihre eigene britische ETA. Es gibt keine Familien-ETA. Jede Person braucht ihre eigene, Sie können den Antrag aber im Namen von Familienmitgliedern stellen.
 
 Das bedeutet für eine vierköpfige Familie vier separate Anträge und vier separate Gebühren. Wichtiger noch: Sie müssen vier Genehmigungsstatus, vier Ablaufdaten und vier Reisepassnummern verfolgen – jeweils getrennt.
 
-Kinderreisepässe laufen zudem schneller ab als Reisepässe von Erwachsenen – meist alle 5 statt alle 10 Jahre. Ein Baby, das 2023 einen Reisepass erhalten hat, wird bis 2028 eine neue Reisepassnummer haben, was einen neuen ETA-Antrag vor diesem Zeitpunkt erfordert. Ist eine Familienreise geplant, wenn das Kind 5 Jahre alt ist, können Reisepass und ETA beide innerhalb von ein bis zwei Jahren ablaufen.
+In vielen Ländern ist der Reisepass eines Kindes kürzer gültig als der eines Erwachsenen, oft 5 Jahre, prüfen Sie also Ihren. Ein Kinderreisepass, der 2023 für 5 Jahre ausgestellt wurde, müsste bis 2028 ersetzt werden, was einen neuen ETA-Antrag vor diesem Zeitpunkt erfordert. Ist eine Familienreise geplant, wenn das Kind 5 Jahre alt ist, können Reisepass und ETA beide innerhalb von ein bis zwei Jahren ablaufen.
 
-**Prüfen Sie vor jeder Buchung einer Familienreise ins Vereinigte Königreich das Ablaufdatum des Reisepasses und den ETA-Status jedes Familienmitglieds.** Reicht die Gültigkeit bei einer Person nicht aus, kann das die gesamte Familie am Einsteigen hindern.
+**Prüfen Sie vor jeder Buchung einer Familienreise ins Vereinigte Königreich das Ablaufdatum des Reisepasses und den ETA-Status jedes Familienmitglieds.** Reicht die Gültigkeit bei einer Person nicht aus oder fehlt ihr die ETA, darf sie womöglich nicht an Bord, was die Reise der ganzen Familie durcheinanderbringen kann.
 
 ## Beantragen Sie zwei bis drei Wochen vor der Reise
 
@@ -81,7 +81,7 @@ Der sicherere Weg: Beantragen Sie die ETA, sobald Sie Ihren endgültigen Reisepa
 
 Eine britische ETA bedeutet, dass das Home Office Ihre Reise ins Vereinigte Königreich genehmigt – das garantiert aber nicht, dass Sie an der Grenze durchgelassen werden.
 
-Ein Grenzbeamter kann die Einreise dennoch verweigern. Er kann Fragen zu Ihrem Reisezweck, Ihrer finanziellen Situation, Ihren Bindungen an Ihr Heimatland oder frühere Reisemuster stellen. Ist er nicht überzeugt, kann er die Einreise verweigern, obwohl Ihre ETA gültig ist. Bei Touristen ist das selten, kommt aber vor.
+Ein Grenzbeamter kann die Einreise dennoch verweigern. Er kann Fragen zum Zweck Ihrer Reise stellen und die Einreise verweigern, wenn er nicht überzeugt ist, obwohl Ihre ETA gültig ist.
 
 Eine ETA ist außerdem kein Visum – sie legt nicht fest, wie lange Sie bleiben dürfen. Inhaber einer ETA aus den meisten visumfreien Ländern dürfen sich als Besucher bis zu 6 Monate aufhalten, aber die tatsächliche Aufenthaltsdauer legt der Grenzbeamte bei Ihrer Ankunft fest, nicht die ETA selbst.
 
@@ -89,7 +89,7 @@ Eine ETA ist außerdem kein Visum – sie legt nicht fest, wie lange Sie bleiben
 
 Die britische ETA ist eine von mehreren digitalen Reisegenehmigungen, die inzwischen im Einsatz sind. Wenn Sie eine Reise durch mehrere Länder planen, sollten Sie den Unterschied zwischen einer ETA und einem [Visum](https://traveldocumentvault.com/de/blog/visa-vs-passport/) kennen. Der Ablauf wirkt ähnlich, die beiden erfüllen aber unterschiedliche Zwecke.
 
-Die EU führt mit [ETIAS](https://traveldocumentvault.com/de/blog/etias-documents-2026/) ihr eigenes digitales Reisegenehmigungssystem für Besucher von außerhalb der EU ein – konzeptionell ähnlich der britischen ETA, jedoch mit anderen Regeln und Anforderungen. Umfasst Ihre Reise sowohl das Vereinigte Königreich als auch Europa, benötigen Sie womöglich beides.
+Die EU plant mit [ETIAS](https://traveldocumentvault.com/de/blog/etias-documents-2026/) ihre eigene digitale Reisegenehmigung, die noch nicht in Betrieb ist. Sie ist konzeptionell ähnlich der britischen ETA, hat aber andere Regeln und Anforderungen. Sobald sie startet, könnte eine Reise durch das Vereinigte Königreich und den Schengen-Raum beides erfordern.
 
 Haben Sie bereits eine Reise gebucht, erledigen Sie heute Folgendes: Vergleichen Sie das Ablaufdatum Ihres Reisepasses mit Ihren Reisedaten und prüfen Sie, ob Ihre aktuelle ETA an den Reisepass gebunden ist, mit dem Sie tatsächlich reisen. Reicht eines von beidem nicht aus, starten Sie die Erneuerung oder die erneute Beantragung jetzt und nicht erst in der Woche vor dem Flug.
 
@@ -97,7 +97,7 @@ Haben Sie bereits eine Reise gebucht, erledigen Sie heute Folgendes: Vergleichen
 
 ### Was ist eine britische ETA?
 
-Eine britische ETA (Electronic Travel Authorisation) ist eine digitale Reisegenehmigung, die das Vereinigte Königreich 2025 eingeführt hat. Die Regelung gilt seit dem 25. Februar 2026 verbindlich für die meisten visumfreien Staatsangehörigen. Sie ist kein Visum – sie ist eine Reiseerlaubnis. Grenzbeamte können die Einreise auch mit gültiger ETA verweigern.
+Eine britische ETA (Electronic Travel Authorisation) ist eine digitale Reisegenehmigung, die das Vereinigte Königreich im Oktober 2023 eingeführt hat. Die Regelung gilt seit dem 25. Februar 2026 verbindlich für die meisten visumfreien Staatsangehörigen. Sie ist kein Visum – sie ist eine Reiseerlaubnis. Grenzbeamte können die Einreise auch mit gültiger ETA verweigern.
 
 ### Wer muss eine britische ETA beantragen?
 

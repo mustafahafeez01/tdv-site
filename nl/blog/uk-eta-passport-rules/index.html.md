@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/nl/blog/uk-eta-passport-rules/
 
 - **Een UK ETA is gekoppeld aan je paspoortnummer.** Als je je paspoort vernieuwt en een nieuw nummer krijgt, wordt je oude ETA ongeldig.
 - Je moet reizen met **exact het paspoort waarmee je hebt aangevraagd.** Een nieuw paspoort betekent dat je een nieuwe ETA nodig hebt voordat je vertrekt.
-- **Iedereen heeft een eigen ETA nodig** – ook kinderen en baby's. Er bestaat geen gezins-ETA of meereizen als afhankelijke.
+- **Iedereen heeft een eigen ETA nodig** – ook kinderen en baby's. Er bestaat geen gezins-ETA. Iedereen heeft een eigen ETA nodig, maar je kunt wel namens gezinsleden aanvragen.
 - De Home Office adviseert **minstens 3 werkdagen van tevoren** aan te vragen. Dit is een advies, geen garantie voor de verwerkingstijd.
 - Een ETA is **toestemming om te reizen, geen garantie voor binnenkomst.** Grensbeambten kunnen de toegang weigeren, ook met een geldige ETA.
 
@@ -32,7 +32,7 @@ Sommige mensen zijn vrijgesteld: Ierse burgers hebben er geen nodig, en wie al e
 
 Je UK ETA is gekoppeld aan je paspoortnummer, niet aan jou als persoon. Bij je aanvraag koppelt de Home Office de goedkeuring aan een specifiek paspoortnummer. Reizen met een ander paspoort – een net vernieuwd exemplaar, een tweede paspoort, een nooddocument – betekent reizen met een ETA die niet aan dat document gekoppeld is.
 
-Dit verschilt van visa in veel landen, die vaak aan de persoon gekoppeld zijn en bij vernieuwing in het nieuwe paspoort worden afgedrukt. Een UK ETA is digitaal en paspoortspecifiek, dus een nieuw paspoortnummer betekent dat er een nieuwe ETA nodig is.
+Een UK ETA is digitaal en paspoortspecifiek, dus een nieuw paspoortnummer betekent dat er een nieuwe ETA nodig is.
 
 In de praktijk geldt: verloopt je paspoort of vernieuw je het om welke reden dan ook voor je reis, dan kun je je oude ETA niet gebruiken bij je nieuwe paspoort. Je moet opnieuw aanvragen en goedkeuring krijgen voordat je vertrekt, want er is geen automatische overdracht.
 
@@ -57,13 +57,13 @@ Het risico zit in stap 5. Ligt je reis over 10 dagen en komt je nieuwe paspoort 
 
 ## Elk kind heeft een eigen ETA nodig, baby's inbegrepen
 
-Iedereen, ook baby's, heeft een eigen UK ETA nodig. Er bestaat geen gezins-ETA en geen manier om gezinsleden toe te voegen aan de aanvraag van iemand anders.
+Iedereen, ook baby's, heeft een eigen UK ETA nodig. Er bestaat geen gezins-ETA. Iedereen heeft een eigen ETA nodig, maar je kunt wel namens gezinsleden aanvragen.
 
 Dit betekent dat je voor een gezin van vier personen vier aparte aanvragen indient en vier aparte kosten betaalt. Belangrijker nog: je houdt vier goedkeuringsstatussen, vier vervaldata en vier paspoortnummers bij, allemaal apart.
 
-Paspoorten van kinderen verlopen bovendien sneller dan die van volwassenen – meestal om de 5 jaar in plaats van 10. Een baby die in 2023 een paspoort krijgt, heeft tegen 2028 een nieuw paspoortnummer, wat vóór die tijd een nieuwe ETA-aanvraag betekent. Wordt er een gezinsreis gepland als dat kind 5 is, dan kunnen zowel het paspoort als de ETA binnen een jaar of twee van hun vervaldatum zitten.
+In veel landen is het paspoort van een kind korter geldig dan dat van een volwassene, vaak 5 jaar, dus controleer het paspoort van je eigen kind. Een kinderpaspoort dat in 2023 voor 5 jaar is afgegeven, moet tegen 2028 vervangen zijn, wat vóór die tijd een nieuwe ETA-aanvraag betekent. Wordt er een gezinsreis gepland als dat kind 5 is, dan kunnen zowel het paspoort als de ETA binnen een jaar of twee van hun vervaldatum zitten.
 
-**Controleer voordat je een gezinsreis naar het VK boekt de vervaldatum van het paspoort en de ETA-status van elk gezinslid.** Eén persoon met een bijna verlopen geldigheid kan het hele gezin tegenhouden bij het instappen.
+**Controleer voordat je een gezinsreis naar het VK boekt de vervaldatum van het paspoort en de ETA-status van elk gezinslid.** Wie te weinig geldigheid heeft of geen ETA, mag mogelijk niet aan boord, en dat kan de reis van het hele gezin ontregelen.
 
 ## Vraag twee tot drie weken voor vertrek aan
 
@@ -81,7 +81,7 @@ De veiligere aanpak: vraag aan zodra je je definitieve paspoort hebt – idealit
 
 Een UK ETA betekent dat de Home Office je reis naar het VK heeft goedgekeurd, maar dat garandeert niet dat je door de grens mag.
 
-Een grensbeambte kan de toegang alsnog weigeren. Ze kunnen vragen stellen over je reisdoel, je financiële situatie, je banden met je thuisland, of eerdere reispatronen. Zijn ze niet overtuigd, dan kunnen ze de toegang weigeren ook al is je ETA geldig. Dit komt zelden voor bij toeristen, maar het gebeurt.
+Een grensbeambte kan de toegang alsnog weigeren. Beambten kunnen vragen naar het doel van je reis en de toegang weigeren als ze niet overtuigd zijn, ook al is je ETA geldig.
 
 Een ETA is ook geen visum – die bepaalt niet hoe lang je mag blijven. ETA-houders uit de meeste visumvrije landen mogen tot 6 maanden als bezoeker blijven, maar het is de grensbeambte die bij aankomst de daadwerkelijke verblijfsduur vaststelt, niet de ETA zelf.
 
@@ -89,7 +89,7 @@ Een ETA is ook geen visum – die bepaalt niet hoe lang je mag blijven. ETA-houd
 
 Een UK ETA is een van de verschillende digitale reistoestemmingen die nu in gebruik zijn. Reis je door meerdere landen, dan is het goed om het verschil te kennen tussen een ETA en een [visum](https://traveldocumentvault.com/nl/blog/visa-vs-passport/). Het proces lijkt op elkaar, maar ze dienen een ander doel.
 
-De EU voert een eigen digitaal reistoestemmingssysteem in, genaamd [ETIAS](https://traveldocumentvault.com/nl/blog/etias-documents-2026/), voor bezoekers van buiten de EU – qua opzet vergelijkbaar met de UK ETA, maar met andere regels en vereisten. Omvat je reis zowel het VK als Europa, dan heb je mogelijk beide nodig.
+De EU plant een eigen digitale reistoestemming, [ETIAS](https://traveldocumentvault.com/nl/blog/etias-documents-2026/), die nog niet in werking is. Qua opzet is die vergelijkbaar met de UK ETA, maar met andere regels en vereisten. Zodra ETIAS start, kan een reis langs zowel het VK als het Schengengebied beide nodig maken.
 
 Heb je al een reis geboekt, doe dan vandaag dit: vergelijk de vervaldatum van je paspoort met je reisdata, en controleer of je huidige ETA gekoppeld is aan het paspoort waarmee je daadwerkelijk gaat reizen. Schiet een van beide tekort, begin dan nu met de vernieuwing of de nieuwe aanvraag, niet pas in de week voor je vertrek.
 
@@ -97,7 +97,7 @@ Heb je al een reis geboekt, doe dan vandaag dit: vergelijk de vervaldatum van je
 
 ### Wat is een UK ETA?
 
-Een UK ETA (Electronic Travel Authorisation) is een digitale reistoestemming die het VK in 2025 heeft ingevoerd. De regeling werd vanaf 25 februari 2026 gehandhaafd voor de meeste visumvrije nationaliteiten. Het is geen visum – het is toestemming om te reizen. Grensbeambten kunnen de toegang nog steeds weigeren, ook met een geldige ETA.
+Een UK ETA (Electronic Travel Authorisation) is een digitale reistoestemming die het VK in oktober 2023 heeft gelanceerd. De regeling werd vanaf 25 februari 2026 gehandhaafd voor de meeste visumvrije nationaliteiten. Het is geen visum – het is toestemming om te reizen. Grensbeambten kunnen de toegang nog steeds weigeren, ook met een geldige ETA.
 
 ### Wie moet een UK ETA aanvragen?
 
@@ -109,7 +109,7 @@ Je UK ETA is gekoppeld aan het specifieke paspoortnummer waarmee je hebt aangevr
 
 ### Hebben kinderen hun eigen UK ETA nodig?
 
-Ja, iedereen heeft een eigen ETA nodig, ook baby's en jonge kinderen. Elke persoon die gaat reizen moet een eigen goedgekeurde ETA hebben, gekoppeld aan het eigen paspoortnummer. Je kunt geen gezinsleden toevoegen aan één ETA-aanvraag.
+Ja, iedereen heeft een eigen ETA nodig, ook baby's en jonge kinderen. Elke persoon die gaat reizen moet een eigen goedgekeurde ETA hebben, gekoppeld aan het eigen paspoortnummer. Er bestaat geen gezins-ETA, maar je kunt wel namens gezinsleden aanvragen.
 
 ### Is een UK ETA een garantie voor binnenkomst?
 

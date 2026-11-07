@@ -30,11 +30,11 @@ De nombreuses destinations veulent la preuve que vous prévoyez de partir, gén�
 
 ### Confirmations d'hébergement
 
-Certains pays demandent à voir la preuve de votre première nuit de réservation, qu'il s'agisse d'une confirmation d'hôtel, d'un Airbnb ou d'une auberge. L'agent veut une preuve que vous avez un endroit où rester, donc téléchargez une copie sur votre téléphone hors ligne — l'e-mail ne vous aidera pas à la frontière.
+Certaines compagnies aériennes et certains agents de frontière peuvent demander à voir la preuve de votre première nuit de réservation, qu'il s'agisse d'une confirmation d'hôtel, d'un Airbnb ou d'une auberge. L'agent veut une preuve que vous avez un endroit où rester, donc téléchargez une copie sur votre téléphone hors ligne — l'e-mail ne vous aidera pas à la frontière.
 
 ### Certificats de vaccination
 
-Certaines destinations exigent la preuve d'une vaccination contre la fièvre jaune ou d'autres maladies, et les exigences changent périodiquement selon la destination. Consultez les pages de conseils aux voyageurs de l'OMS 6 à 8 semaines avant le voyage — pas la veille — car certains pays n'acceptent que les certificats officiels de fièvre jaune de l'OMS, pas les photocopies ou les photos numériques.
+Certaines destinations exigent la preuve d'une vaccination contre la fièvre jaune ou d'autres maladies, et les exigences changent périodiquement selon la destination. Consultez les pages de conseils aux voyageurs de l'OMS 4 à 8 semaines avant le voyage — pas la veille — et emportez le certificat original plutôt qu'une copie, car certains pays demandent à le voir.
 
 ### Détails de l'assurance voyage
 
@@ -42,7 +42,7 @@ Vous aurez besoin d'un accès immédiat à votre numéro de police, aux coordonn
 
 ### Lettres de consentement pour enfants
 
-Lorsqu'un enfant voyage à l'international avec un seul parent (ou sans aucun parent), de nombreux pays s'attendent à un consentement écrit du parent absent, et la notarisation est fortement recommandée. Les agents des frontières dans des pays comme le Canada et l'Afrique du Sud demandent régulièrement une telle lettre, et le personnel de l'aéroport peut refuser l'embarquement sans cela.
+Lorsqu'un enfant voyage à l'international avec un seul parent (ou sans aucun parent), de nombreux pays s'attendent à un consentement écrit du parent absent, et la notarisation est fortement recommandée. Les agents des frontières et le personnel des compagnies aériennes de nombreux pays, dont le Canada, peuvent demander une telle lettre, et l'Afrique du Sud a ses propres règles pour les enfants qui entrent dans le pays : consultez la page officielle de la destination. Sans lettre, vous risquez des retards ou un refus d'embarquement.
 
 C'est le document le plus couramment oublié dans les voyages en famille, alors vérifiez-le bien avant d'atteindre la porte d'embarquement.
 
@@ -89,7 +89,7 @@ Nous enregistrerions le numéro d'urgence dans vos contacts téléphoniques, sé
 
 ## Ce que les Familles avec Enfants Doivent Ajouter
 
-Chaque enfant a besoin de son propre passeport pour les voyages internationaux, quel que soit son âge. De nombreux pays scrutent également étroitement les voyages d'enfants pour se protéger contre l'enlèvement parental, donc attendez-vous à des questions supplémentaires lorsqu'un enfant voyage avec un seul parent.
+Dans la plupart des cas, chaque enfant a besoin de son propre passeport pour les voyages internationaux, quel que soit son âge. De nombreux pays scrutent également étroitement les voyages d'enfants pour se protéger contre l'enlèvement parental, donc attendez-vous à des questions supplémentaires lorsqu'un enfant voyage avec un seul parent.
 
 La même règle s'applique ici : quand un enfant voyage à l'international avec un seul parent, de nombreux agents des frontières demanderont un consentement écrit du parent absent, de préférence notarié. Si vous voyagez sans aucun parent (avec les grands-parents, par exemple), le consentement des deux parents est généralement requis. Les exigences changent et varient selon la nationalité, donc vérifiez auprès de l'autorité officielle d'immigration de votre destination.
 
@@ -121,7 +121,7 @@ Conservez physiquement : passeport, documents de visa, cartes d'embarquement, ce
 
 ### Une lettre de consentement pour enfant est-elle vraiment nécessaire ?
 
-Oui, dans de nombreux pays, c'est attendu. Si un enfant voyage à l'international avec un seul parent, le parent absent doit fournir un consentement écrit, et la notarisation est fortement recommandée. Si vous voyagez sans aucun parent (avec les grands-parents, par exemple), les deux parents doivent généralement consentir par écrit. Les agents des frontières dans des pays comme le Canada et l'Afrique du Sud demandent régulièrement cela, et sans cela, vous risquez de vous voir refuser l'embarquement ou l'entrée. Vérifiez toujours les exigences pour votre destination spécifique.
+Oui, dans de nombreux pays, c'est attendu. Si un enfant voyage à l'international avec un seul parent, le parent absent doit fournir un consentement écrit, et la notarisation est fortement recommandée. Si vous voyagez sans aucun parent (avec les grands-parents, par exemple), les deux parents doivent généralement consentir par écrit. Les agents des frontières et le personnel des compagnies aériennes de nombreux pays, dont le Canada, peuvent le demander, et l'Afrique du Sud a ses propres règles pour les enfants qui entrent dans le pays : consultez la page officielle de la destination. Sans ce document, vous risquez des retards ou un refus d'embarquement. Vérifiez toujours les exigences pour votre destination spécifique.
 
 ### Dois-je conserver des copies numériques de mes documents ?
 
@@ -129,7 +129,7 @@ Oui. Stockez des copies chiffrées hors ligne sur votre téléphone — pas dans
 
 ### Que se passe-t-il si j'arrive à l'aéroport sans un document requis ?
 
-Oublier votre passeport signifie que vous ne pouvez pas embarquer. Pour les documents d'appui manquants, le résultat varie : un certificat de vaccination manquant pourrait vous permettre de rebooker et de retourner chez vous pour l'obtenir, tandis qu'une lettre de consentement manquante peut entraîner le refus d'embarquement de votre enfant. Certaines destinations offrent un visa à l'arrivée, mais la plupart des documents d'appui ne peuvent pas être obtenus aux frontières. Vérifiez toujours les exigences 2 à 3 semaines avant le départ.
+Oublier votre passeport signifie que vous ne pouvez pas embarquer. Pour les documents d'appui manquants, le résultat varie : un certificat de vaccination manquant pourrait vous permettre de rebooker et de retourner chez vous pour l'obtenir, tandis qu'une lettre de consentement manquante peut entraîner le refus d'embarquement de votre enfant. Certaines destinations offrent un visa à l'arrivée, mais la plupart des documents d'appui ne peuvent pas être obtenus aux frontières. Vérifiez toujours les exigences bien avant le départ, et prévoyez 4 à 8 semaines si vous avez besoin de vaccins.
 
 ## Articles connexes
 

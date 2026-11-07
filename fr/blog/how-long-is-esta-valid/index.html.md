@@ -10,18 +10,18 @@ Source: https://traveldocumentvault.com/fr/blog/how-long-is-esta-valid/
 
 ## Points clés à retenir
 
-- **Une ESTA est valable deux ans à partir de son approbation, ou jusqu'à l'expiration du passeport**, selon ce qui arrive en premier.
+- **Une ESTA est généralement valable deux ans à partir de son approbation, ou jusqu'à l'expiration du passeport**, selon ce qui arrive en premier.
 - Elle ne doit être valable que le jour de votre arrivée aux États-Unis, et chaque séjour est limité à 90 jours maximum.
 - Elle ne peut pas être prolongée, mais vous pouvez refaire une demande à tout moment. La nouvelle demande remplace l'ancienne.
 - Un nouveau passeport, un nouveau nom, une nouvelle nationalité ou une réponse d'éligibilité modifiée signifient refaire une demande.
 - **Chaque voyageur a besoin de sa propre ESTA**, y compris les enfants de tout âge et les bébés qui n'ont pas leur propre billet.
 - Le tarif est passé de US $40.27 à US $40.62 le 16 octobre 2026. Une ESTA déjà approuvée n'a pas besoin d'être redemandée.
 
-Une ESTA est valable deux ans à partir du jour de son approbation, ou jusqu'à l'expiration du passeport auquel elle est liée, selon ce qui arrive en premier. Si vous en avez déjà une, le changement de tarif du 16 octobre 2026 ne la concerne pas, et vous ne paierez le nouveau montant qu'à votre prochaine demande. Ce que nous ferions aujourd'hui, c'est vérifier la date d'expiration de chaque ESTA de la famille, car l'horloge de chacun tourne séparément.
+Une ESTA est généralement valable deux ans à partir du jour de son approbation, ou jusqu'à l'expiration du passeport auquel elle est liée, selon ce qui arrive en premier. Si vous en avez déjà une, le changement de tarif du 16 octobre 2026 ne la concerne pas, et vous ne paierez le nouveau montant qu'à votre prochaine demande. Ce que nous ferions aujourd'hui, c'est vérifier la date d'expiration de chaque ESTA de la famille, car l'horloge de chacun tourne séparément.
 
 ## Votre ESTA prend fin à deux ans ou quand votre passeport expire
 
-US Customs and Border Protection (CBP) fixe la règle : une ESTA approuvée est valable deux ans à partir de la date d'autorisation, ou jusqu'à l'expiration de votre passeport, selon ce qui arrive le plus tôt. Un passeport avec 14 mois de validité restante donne donc une ESTA avec 14 mois de validité. L'écran d'approbation affiche la date d'expiration exacte, ce qui vous évite de la calculer.
+US Customs and Border Protection (CBP) fixe la règle : une ESTA approuvée est généralement valable deux ans à partir de la date d'autorisation, ou jusqu'à l'expiration de votre passeport, selon ce qui arrive le plus tôt. Un passeport avec 14 mois de validité restante donne donc une ESTA avec 14 mois de validité. L'écran d'approbation affiche la date d'expiration exacte, ce qui vous évite de la calculer.
 
 ![Schéma du moment où une ESTA cesse d'être valide : elle prend fin après 2 ans ou quand le passeport expire, selon ce qui arrive en premier. Chacun a besoin de la sienne, bébés et enfants aussi, chacun sur son propre passeport. Un nouveau passeport, nom ou nationalité signifie refaire la demande](https://traveldocumentvault.com/blog/how-long-is-esta-valid/esta-clock-fr.jpg) Une horloge par voyageur, qui ne dépasse jamais le passeport.
 

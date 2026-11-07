@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/fr/blog/travel-while-passport-renewal-pe
 ## Éléments clés
 
 - La réponse dépend d'un seul fait : conservez-vous toujours votre passeport en votre possession ou l'avez-vous déjà remis aux autorités. Ce détail unique détermine quel type de voyage est possible.
-- **États-Unis :** Le renouvellement par courrier vous permet de conserver votre ancien passeport. Les voyages intérieurs sont autorisés. Les voyages internationaux nécessitent que votre passeport renouvelé arrive en premier.
+- **États-Unis :** Le renouvellement par courrier implique d'envoyer votre passeport actuel avec la demande. Les voyages intérieurs sont autorisés. Les voyages internationaux nécessitent que votre passeport renouvelé arrive en premier.
 - **Royaume-Uni (renouvellement postal) :** Votre passeport est en attente au Bureau des passeports de Sa Majesté. Vous ne pouvez pas voyager à l'étranger jusqu'à ce qu'il soit retourné. **Royaume-Uni (renouvellement numérique) :** Vous conservez votre passeport tout au long du processus et pouvez voyager avec lui pendant que le nouveau est traité.
 - **Australie et Canada :** Les deux vous demandent de remettre votre passeport lors de la demande. Les voyages internationaux ne sont pas possibles jusqu'à ce que le nouveau passeport soit émis.
 - Des options de renouvellement accéléré et urgent existent dans tous les pays couverts ici, mais la règle fondamentale s'applique : vous ne pouvez pas voyager à l'étranger sans un passeport valide en main.
@@ -28,7 +28,7 @@ Si vous conservez toujours ce passeport dépend entièrement de votre pays et de
 
 ## États-Unis : Renouvellement par courrier
 
-Le renouvellement standard du passeport américain par courrier n'exige pas que vous remettiez votre passeport actuel avant que celui-ci arrive. Vous remplissez le formulaire DS-82, joignez votre passeport existant et envoyez le tout par la poste au Centre national de traitement des passeports. Votre ancien passeport vous est retourné aux côtés du nouveau, généralement annulé par un trou d'aiguille.
+Le renouvellement standard du passeport américain par courrier implique d'envoyer votre passeport actuel avec la demande : il n'est donc pas entre vos mains pendant l'attente. Vous remplissez le formulaire DS-82, joignez votre passeport existant et envoyez le tout par la poste au Centre national de traitement des passeports. Selon USAGov, votre ancien passeport est renvoyé séparément, en général environ quatre semaines après la réception du nouveau.
 
 Cela signifie que les voyages intérieurs aux États-Unis ne sont pas affectés pendant tout le processus de renouvellement — vous n'avez pas besoin de passeport pour les vols intérieurs. Les voyages internationaux, c'est différent : vous ne pouvez pas voyager à l'étranger jusqu'à l'arrivée de votre nouveau passeport, et vous ne pouvez pas utiliser l'ancien passeport annulé même si vous l'avez en main.
 
@@ -114,7 +114,7 @@ Contactez immédiatement votre service des passeports et renseignez-vous sur le 
 
 ### Conserve-je mon passeport pendant le processus de renouvellement ?
 
-Cela dépend. Le renouvellement par courrier aux États-Unis vous retourne votre ancien passeport (annulé) aux côtés du nouveau. Le renouvellement numérique au Royaume-Uni vous permet de le conserver tout au long. Le renouvellement postal au Royaume-Uni, l'Australie et le Canada vous demandent tous de remettre votre passeport lors de la demande.
+Cela dépend. Pour le renouvellement par courrier aux États-Unis, vous envoyez votre ancien passeport, et selon USAGov il est renvoyé séparément, en général environ quatre semaines après le nouveau. Le renouvellement numérique au Royaume-Uni vous permet de le conserver tout au long. Le renouvellement postal au Royaume-Uni, l'Australie et le Canada vous demandent tous de remettre votre passeport lors de la demande.
 
 ### Qu'est-ce qu'un document de voyage d'urgence ?
 

@@ -10,18 +10,18 @@ Source: https://traveldocumentvault.com/es/blog/how-long-is-esta-valid/
 
 ## Puntos clave
 
-- **Una ESTA es válida durante dos años desde su aprobación, o hasta que caduca el pasaporte**, lo que ocurra antes.
+- **Una ESTA suele ser válida durante dos años desde su aprobación, o hasta que caduca el pasaporte**, lo que ocurra antes.
 - Solo tiene que ser válida el día en que llegas a Estados Unidos, y cada visita está limitada a 90 días o menos.
 - No se puede prorrogar, pero puedes volver a solicitarla en cualquier momento. La nueva solicitud sustituye a la anterior.
 - Un pasaporte nuevo, un nombre nuevo, una nacionalidad nueva o una respuesta de elegibilidad distinta significan volver a solicitarla.
 - **Cada viajero necesita su propia ESTA**, incluidos los niños de cualquier edad y los bebés sin billete propio.
 - La tarifa subió de US $40.27 a US $40.62 el 16 de octubre de 2026. Una ESTA ya aprobada no necesita volver a solicitarse.
 
-Una ESTA dura dos años desde el día en que se aprueba, o hasta que caduca el pasaporte al que está vinculada, lo que ocurra antes. Si ya tienes una, el cambio de tarifa del 16 de octubre de 2026 no te afecta, y solo pagarás el nuevo importe la próxima vez que la solicites. Lo que haríamos hoy es comprobar la fecha de caducidad de cada ESTA de la familia, porque el reloj de cada persona corre por su cuenta.
+Una ESTA suele durar dos años desde el día en que se aprueba, o hasta que caduca el pasaporte al que está vinculada, lo que ocurra antes. Si ya tienes una, el cambio de tarifa del 16 de octubre de 2026 no te afecta, y solo pagarás el nuevo importe la próxima vez que la solicites. Lo que haríamos hoy es comprobar la fecha de caducidad de cada ESTA de la familia, porque el reloj de cada persona corre por su cuenta.
 
 ## Tu ESTA termina a los dos años o cuando lo hace tu pasaporte
 
-US Customs and Border Protection (CBP) fija la regla: una ESTA aprobada es válida durante dos años desde la fecha de autorización, o hasta que caduca tu pasaporte, lo que ocurra antes. Así, un pasaporte con 14 meses de validez restante te da una ESTA con 14 meses de validez. La pantalla de aprobación muestra la fecha de caducidad exacta, lo que te ahorra tener que calcularla.
+US Customs and Border Protection (CBP) fija la regla: una ESTA aprobada suele ser válida durante dos años desde la fecha de autorización, o hasta que caduca tu pasaporte, lo que ocurra antes. Así, un pasaporte con 14 meses de validez restante te da una ESTA con 14 meses de validez. La pantalla de aprobación muestra la fecha de caducidad exacta, lo que te ahorra tener que calcularla.
 
 ![Diagrama de cuándo deja de ser válida una ESTA: termina a los 2 años o cuando caduca el pasaporte, lo que ocurra antes. Cada persona necesita la suya, también bebés y niños, cada uno con su propio pasaporte. Un pasaporte, nombre o nacionalidad nuevos significan solicitarla de nuevo](https://traveldocumentvault.com/blog/how-long-is-esta-valid/esta-clock-es.jpg) Un reloj por viajero, que nunca dura más que el pasaporte.
 

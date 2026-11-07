@@ -10,9 +10,9 @@ Source: https://traveldocumentvault.com/da/blog/how-long-is-passport-valid-for-t
 
 ## Det vigtigste
 
-- **De fleste voksenpas er gyldige i 10 år** fra udstedelsesdatoen. Børnepas udløber typisk efter 5 år.
-- Dit pas behøver ikke være udløbet, for at du bliver afvist ved boarding. **Flyselskaber kan og vil afvise boarding**, når din resterende gyldighed er kortere end destinationens 6-månederskrav.
-- Populære destinationer som Thailand, Tyrkiet, Vietnam og Indonesien kræver generelt **mindst 6 måneders gyldighed den dag, du ankommer** – og nogle lande tæller i stedet fra din afrejsedato, så tjek hver destination.
+- **Mange voksenpas er gyldige i op til 10 år** fra udstedelsesdatoen. Børnepas udløber typisk efter 5 år.
+- Dit pas behøver ikke være udløbet, for at du bliver afvist ved boarding. **Du kan blive afvist ved boarding eller indrejse**, når din resterende gyldighed er kortere end destinationens krav.
+- Populære destinationer som Thailand, Vietnam og Indonesien kræver generelt **mindst 6 måneders gyldighed den dag, du ankommer** for britiske pasindehavere – og Schengenlande tæller fra den dag, du planlægger at rejse ud, så tjek hver destination.
 - Børns pas udløber hurtigere end forældrenes – **tjek hvert pas i selskabet individuelt**, før du booker, ikke kun dit eget.
 - Den praktiske grænse for fornyelse er **12 måneders resterende gyldighed**, ikke selve udløbsdatoen.
 
@@ -22,7 +22,7 @@ Det er en af de mest misforståede regler inden for rejser, fordi et pas, der ik
 
 ## Voksenpas holder langt længere end børnepas
 
-Standardgyldigheden for et voksenpas er 10 år fra udstedelsesdatoen i de fleste lande. Børnepas udløber hurtigere – typisk efter 5 år – fordi et barns udseende ændrer sig markant i den periode. Vi ville tjekke et barns pas før alle andres, for det er det, alle går ud fra er i orden.
+Standardgyldigheden for et voksenpas er 10 år fra udstedelsesdatoen i de fleste lande. Børnepas udløber tidligere, typisk efter 5 år. Vi ville tjekke et barns pas før alle andres, for det er det, alle går ud fra er i orden.
 
 | Land | Voksengyldighed | Børnegyldighed |
 |---|---|---|
@@ -41,11 +41,11 @@ Din nøjagtige udløbsdato står trykt på datasiden ved siden af dit foto. Den 
 
 Et pas kan være teknisk gyldigt – ikke udløbet – og stadig føre til, at du bliver afvist ved boarding. Der er to hovedårsager til det.
 
-**6-månedersreglen.** Mange populære destinationer kræver, at dit pas er gyldigt i mindst 6 måneder den dag, du rejser ind i landet, og enkelte tæller i stedet fra din planlagte afrejse. Så hvis dit pas udløber i oktober, og du lander i Istanbul i april, er du på den sikre side. Ankommer du i juni, er du måske ikke – og flyselskabet vil nægte dig boarding, før du overhovedet når grænsekontrollen.
+**6-månedersreglen.** Mange populære destinationer kræver, at dit pas er gyldigt i mindst 6 måneder den dag, du rejser ind i landet, og nogle, fx Schengenlande, tæller i stedet fra din planlagte afrejse. Så hvis dit pas udløber i oktober, og du lander i Thailand i april, er du på den sikre side. Ankommer du i juni, er du måske ikke – og du kan blive nægtet boarding, før du overhovedet når grænsekontrollen.
 
-Håndhævelsen af 6-månedersreglen varierer også efter statsborgerskab. Et og samme land kan anvende den på nogle pasindehavere og undtage andre gennem bilaterale aftaler. Den eneste pålidelige måde at tjekke det på er at slå det specifikke krav op for dit pas og din destination via IATA Travel Centre – den samme database, flyselskaberne bruger ved skranken.
+Kravene kan variere efter statsborgerskab. Et og samme land kan anvende en regel på nogle pasindehavere og ikke på andre. Dit flyselskab og destinationens officielle indrejseside kan bekræfte kravet for dit pas.
 
-Vi gennemgår [hvilke lande der håndhæver 6-månedersreglen](https://traveldocumentvault.com/da/blog/passport-expiry-6-month-rule/) i detaljer, inklusive en tabel land for land. Den korte version: gå ud fra, at den gælder for enhver destination uden for Europa, Nordamerika eller Australien, medmindre du har tjekket det.
+Vi gennemgår [hvilke lande der håndhæver 6-månedersreglen](https://traveldocumentvault.com/da/blog/passport-expiry-6-month-rule/) i detaljer, inklusive en tabel land for land. Den korte version: Reglerne varierer fra land til land, så tjek destinationens eget krav.
 
 **Blanke sider.** Nogle lande kræver flere blanke visumsider. Rejser du ofte, og er dit pas nogle år gammelt, kan det løbe tør for brugbare sider før udløbsdatoen. Tjek sideantallet lige så vel som gyldigheden, når du rejser til destinationer, der udsteder visumstempler.
 
@@ -53,17 +53,17 @@ Vi gennemgår [hvilke lande der håndhæver 6-månedersreglen](https://traveldoc
 
 Det afhænger helt af, hvor du skal hen.
 
-For destinationer, der ikke håndhæver 6-månedersreglen – det meste af Europa for EU- og UK-borgere, samt USA for amerikanske statsborgere, der vender hjem – skal dit pas blot være gyldigt den dag, du rejser. Én dags resterende gyldighed er teknisk set nok.
+Destinationer, der ikke bruger 6-månedersreglen, har deres egne krav. Schengenlande kræver et pas, der er udstedt inden for de seneste 10 år og gyldigt i mindst 3 måneder efter den planlagte udrejse. En amerikansk statsborger, der vender hjem, skal som regel blot have et gyldigt pas.
 
 For destinationer med et 6-månederskrav skal du tælle 6 måneder fra den dag, du ankommer. Lander du i Thailand den 20. juli, skal dit pas være gyldigt til mindst den 20. januar året efter – og tæller du i stedet fra din hjemrejsedato, giver det dig en ekstra sikkerhedsmargin for lande, der måler anderledes.
 
-For alt andet, tjek før du booker. IATA Travel Centre giver dig det præcise krav for dit statsborgerskab og din destination på få sekunder.
+Alt andet skal du tjekke, før du booker; dit flyselskab eller destinationens officielle indrejseside kan bekræfte det.
 
 ## Børnepas udløber hurtigere, og familier glemmer at tjekke dem
 
 Det er her, familier bliver taget på sengen hver sommer: voksenpas gælder i 10 år, børnepas kun i 5, og det spring skaber et specifikt problem.
 
-Et 3-årigt barn, der fik sit første pas i 2023, har et dokument, der udløber i 2028. Når barnet er 7, og familien booker en rejse til Tyrkiet, har det pas måske kun få måneders gyldighed tilbage – langt under 6-månederskravet. Begge forældre kan sidde med 4 års gyldighed hver og aldrig komme i tanke om at tjekke barnets dokument.
+Et 3-årigt barn, der fik sit første pas i 2023, har et dokument, der udløber i 2028. Når barnet er 7, og familien booker en rejse til Thailand, har det pas måske kun få måneders gyldighed tilbage – langt under 6-månederskravet. Begge forældre kan sidde med 4 års gyldighed hver og aldrig komme i tanke om at tjekke barnets dokument.
 
 **Tjek hvert pas i selskabet individuelt, før du booker en international rejse** – ét kort pas kan blokere en hel familie fra at komme med.
 
@@ -91,7 +91,7 @@ Britiske voksenpas er gyldige i 10 år fra udstedelsesdatoen. Børnepas (under 1
 
 ### Kan jeg rejse med 6 måneders gyldighed tilbage på passet?
 
-Til de fleste europæiske destinationer, ja – dit pas skal blot være gyldigt i hele opholdets varighed. For destinationer, der håndhæver 6-månedersreglen, herunder Thailand, Tyrkiet, Vietnam og Indonesien, tælles de 6 måneder generelt fra den dag, du ankommer – selvom nogle lande tæller fra afrejse. Tjek det specifikke krav for din destination og dit statsborgerskab, før du booker.
+Til Schengenlande skal et britisk pas som regel være gyldigt i mindst 3 måneder efter den planlagte udrejse, så 6 måneder tilbage er tilstrækkeligt dér. Destinationer som Thailand, Vietnam og Indonesien kræver generelt 6 måneder, normalt regnet fra ankomstdagen – mens Schengenlande tæller fra afrejse. Tjek det specifikke krav for din destination og dit statsborgerskab, før du booker.
 
 ### Hvornår bør jeg forny mit pas?
 
@@ -99,7 +99,7 @@ Forny, når du kommer under 12 måneders resterende gyldighed. Det giver dig en 
 
 ### Udløber børnepas hurtigere end voksenpas?
 
-Ja. Børnepas er gyldige i 5 år i stedet for 10, fordi et barns udseende ændrer sig markant, mens det vokser. Tjek hvert familiemedlems pas individuelt, før du booker rejse – antag ikke, at alle pas udløber samtidig.
+Ja. Et britisk børnepas er gyldigt i 5 år i stedet for 10. Tjek hvert familiemedlems pas individuelt, før du booker rejse – antag ikke, at alle pas udløber samtidig.
 
 ### Hvad sker der, hvis mit pas udløber, mens jeg er i udlandet?
 

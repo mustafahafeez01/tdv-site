@@ -11,14 +11,14 @@ Source: https://traveldocumentvault.com/da/blog/etias-documents-2026/
 ## Vigtigste punkter
 
 - **ETIAS er en digital rejsetilladelse** for rejsende fra Storbritannien, USA og Canada – nødvendig for visumfri indrejse i Schengenområdet, når den bliver obligatorisk
-- **Du skal have et pas, der er gyldigt i mindst 3 måneder** efter din afrejsedato, samt en e-mailadresse for at ansøge
+- **Du skal have et pas, der er gyldigt i mere end 3 måneder** efter din afrejsedato, samt en e-mailadresse for at ansøge
 - Sagsbehandlingstiden varierer, især kort efter lanceringen; **ansøg i god tid før din rejse**, og tjek EU's officielle hjemmeside for aktuel vejledning
 - Tjek EU's officielle hjemmeside for det aktuelle gebyr; **personer under 18 og over 70 år betaler ikke**, men skal stadig have tilladelse
-- **Almindelige afvisninger skyldes udeholdte strafferetlige domme eller tidligere overskridelser af opholdstiden, så oplys alt, også hvis det er gammelt**
+- **Tvivl om dine svars pålidelighed kan føre til afvisning, så oplys alt, også hvis det er gammelt**
 
 Du har booket en familierejse til Italien og har hørt, at ETIAS er på vej – et nyt krav om digital tilladelse for visumfrie besøgende, der rejser til Europa. Denne guide forklarer, hvad ETIAS er, hvilke dokumenter du skal bruge, og hvordan ansøgningen fungerer, så du er forberedt, før du når formularen.
 
-European Travel Information and Authorisation System (ETIAS) er ikke et [visum](https://traveldocumentvault.com/da/blog/visa-vs-passport/) – det er en digital forhåndsgodkendelse til besøgende fra visumfrie lande. Er du statsborger i Storbritannien, USA eller Canada, ankommer du i dag til Europa, scanner dit pas, svarer på nogle få spørgsmål ved grænsen og går videre. Når ETIAS bliver obligatorisk, flytter den proces online – du ansøger, før du flyver.
+European Travel Information and Authorisation System (ETIAS) er ikke et [visum](https://traveldocumentvault.com/da/blog/visa-vs-passport/) – det er en digital forhåndsgodkendelse til besøgende fra visumfrie lande. Er du statsborger i Storbritannien, USA eller Canada, bliver du som regel registreret ved grænsen i ind- og udrejsesystemet EES (foto og fingeraftryk ved første indrejse) og gennemgår en grænsekontrol. Når ETIAS bliver obligatorisk, flytter den proces online – du ansøger, før du flyver.
 
 ## Hvad er ETIAS, og hvem skal bruge det?
 
@@ -32,13 +32,13 @@ Har du allerede et visum, fx et Schengen-langtidsvisum, et britisk familievisum 
 
 I modsætning til traditionelle visa kræver ETIAS ingen fysiske dokumenter – du ansøger udelukkende online. Du skal dog have visse oplysninger klar, før du går i gang med ansøgningsformularen.
 
-**Dit pas** skal være gyldigt i mindst tre måneder efter din planlagte afrejsedato fra Europa. Det er en let fælde at gå i: et pas, der udløber den 30. december, kan virke fint til en rejse, der slutter den 1. december, men de fleste lande kræver den fulde tremåneders margin, før det tæller som gyldigt. Ud over gyldighedsperioden skal det også være et almindeligt voksenpas fra et anerkendt land – ikke et rejsedokument eller nødpas.
+**Dit pas** skal være gyldigt i mere end tre måneder efter din planlagte afrejsedato fra Europa og være udstedt inden for de seneste ti år. Det er en let fælde at gå i: et pas, der udløber den 30. december, kan virke fint til en rejse, der slutter den 1. december, men EU kræver mere end tre måneder efter afrejse. Ud over gyldighedsperioden skal det også være et rejsedokument, der anerkendes af de lande, du besøger.
 
 Du skal også oplyse **en e-mailadresse**, som samtidig fungerer som dit login til at følge ansøgningen. ETIAS sender alle statusopdateringer, godkendelser og afvisninger til denne indbakke, så brug en adresse, du tjekker regelmæssigt. Deler familien e-mailkonti, kan det betale sig at oprette individuelle adresser til hver rejsende for at undgå at gå glip af vigtige meddelelser.
 
-Under ansøgningen skal du oplyse din **rejsehistorik**, herunder eventuelle tidligere rejser til Schengenlande – datoer, destinationer og varighed – selvom præcise datoer ikke altid er nødvendige. Det, der betyder noget, er at give konsekvente, omtrentlige tidsrammer, hvilket hjælper med at forhindre afvisninger, når systemet krydstjekker dine oplysninger.
+Under ansøgningen spørger formularen om **tidligere strafferetlige domme**, rejser til krigs- eller konfliktområder og eventuelle afgørelser om tilbagesendelse. Det, der betyder noget, er at give konsekvente svar, hvilket hjælper med at undgå problemer, når systemet krydstjekker dine oplysninger.
 
-ETIAS vil bede om **sikkerheds- og personoplysninger** – dit fulde navn, fødselsdato, fødested, nationalitet og kontaktoplysninger – samt spørgsmål om eventuelle strafferetlige domme eller tidligere overskridelser af visumopholdstiden. Ærlighed betyder noget her: falske oplysninger giver grundlag for permanent afvisning og kan udløse udvisningsforbud.
+ETIAS vil bede om **sikkerheds- og personoplysninger** – dit fulde navn, fødselsdato, fødested, nationalitet og kontaktoplysninger – samt spørgsmål om eventuelle strafferetlige domme eller en afgørelse om tilbagesendelse. Ærlighed betyder noget her: fejl eller falske oplysninger kan føre til afslag, tilbagekaldelse eller annullering af en tilladelse.
 
 **Indkomstbevis** er valgfrit – seneste lønsedler, kontoudtog eller årsopgørelser tæller alle med. EU-Kommissionen kræver det ikke, men at inkludere det kan styrke en tvivlsom ansøgning og mindske risikoen for afvisning. Vi ville tage det med alligevel, hvis noget andet i ansøgningen virker usikkert.
 
@@ -60,19 +60,19 @@ Til sidst gennemgår du dine oplysninger, betaler gebyret, der vises ved kassen 
 
 EU-Kommissionen offentliggør aktuel vejledning om sagsbehandlingstid på sin officielle hjemmeside, og det er værd at tjekke, før du antager, at du har god tid. Stor efterspørgsel lige efter lanceringen, forsinkelser ved baggrundstjek og eventuel rettelse af en afvisning kan alle forlænge ventetiden, så ansøg så tidligt som rimeligt før din rejse. Ansøg, så snart dine rejsedatoer ligger fast, ikke ugen før afrejse.
 
-Der er tre mulige udfald: godkendt, afvist eller nægtet tilladelse.
+En ansøgning bliver godkendt eller afvist, eller myndighederne beder om flere oplysninger.
 
 En **godkendelse** betyder, at du får tildelt et digitalt ETIAS knyttet til dit pasnummer – der er intet at printe eller have med, da systemet automatisk genkender dig ved grænsen. Din godkendelse er gyldig i tre år, eller indtil dit pas udløber, alt efter hvad der kommer først.
 
-En **afvisning** skyldes typisk ufuldstændige eller inkonsekvente oplysninger – manglende rejsedatoer, modstridende ansættelseshistorik eller uklare svar udløser alle dette udfald. Du kan søge igen med det samme for at rette fejlen, uden ventetid, da der er tale om let rettelige fejl.
+En **anmodning om flere oplysninger** kan følge efter ufuldstændige eller inkonsekvente svar, fx manglende rejsedatoer, modstridende ansættelseshistorik eller uklare svar. EU giver dig yderligere 10 dage til at levere det, der efterspørges, så svar hurtigt.
 
-En **nægtet tilladelse** er mere alvorlig og sker, når ETIAS' sikkerhedstjek afdækker strafferetlige domme, tidligere overskridelser af opholdstid i Schengenområdet eller andre sikkerhedsproblemer. Du kan teknisk set søge igen med det samme, hvis dine omstændigheder ændrer sig, men en vellykket ny ansøgning er usandsynlig, når en afvisning først er sikkerhedsbetinget. I praksis skal du som regel søge om et langtidsvisum gennem en ambassade i stedet – visumfri rejse til Schengenlande er ikke længere en mulighed, når du er blevet nægtet.
+Et **afslag** kommer med en begrundelse og ret til at klage til myndighederne i det land, der gav afslaget. Du kan også ansøge igen: EU siger, at et tidligere afslag ikke automatisk fører til afslag på en ny ansøgning.
 
 ## De fleste afvisninger skyldes inkonsekvens, ikke uheld
 
 De hyppigste ETIAS-afvisninger skyldes uoverensstemmelser i rejsehistorikken og ufuldstændige oplysninger – her er dem, det er værd at holde øje med.
 
-**Udeholdte strafferetlige domme:** Har du en strafferetlig dom og ikke oplyser den, men ETIAS finder den ved et baggrundstjek, bliver din ansøgning nægtet i stedet for blot afvist – en vigtig forskel. Oplys altid, selv hvis dommen er gammel eller er slettet i dit hjemland, da europæiske myndigheder stadig kan have oplysningerne registreret. En sikkerhedsbetinget nægtelse er meget svær at få omgjort, medmindre dine omstændigheder ændrer sig markant.
+**Udeholdte strafferetlige domme:** Har du en strafferetlig dom og ikke oplyser den, men ETIAS finder den ved et baggrundstjek, kan din ansøgning blive afvist. Oplys altid, selv hvis dommen er gammel eller er slettet i dit hjemland, da europæiske myndigheder stadig kan have oplysningerne registreret. Tvivl om pålideligheden af dine oplysninger er en udtrykkelig grund til afslag, så oplys alt.
 
 **Tidligere overskridelser af opholdstid:** Har du tidligere overskredet et visum i Europa eller andre steder, vil ETIAS bemærke det. Kom forberedt med en kort forklaring i det valgfrie notatfelt – noget i stil med "akut familiebegivenhed forsinkede afrejsen; løst med myndighederne" kan styrke din sag, selvom nogle overskridelser fører til nægtelse uanset begrundelse.
 
@@ -90,7 +90,7 @@ Børn under 18 år betaler ikke ETIAS-gebyret, men bør stadig ansøge om tillad
 
 Familiegrupper skal indsende hver ansøgning separat frem for som en fælles "familie"-enhed. Du kan dog notere, at I rejser som familie, i afsnittet om rejsedetaljer, og den note kan hjælpe, hvis ét medlems ansøgning bliver udtaget til gennemgang. Vi ville udfylde hvert familiemedlems formular i samme omgang, for familienoten hjælper kun, hvis oplysningerne stemmer overens.
 
-Bliver du nægtet og skal stadig rejse, er din reserveløsning at ansøge om et traditionelt langtidsvisum gennem den relevante ambassade eller konsulat, hvilket normalt tillader flere indrejser og længere ophold end visumfri rejse. Da kravene varierer efter destination og nationalitet, bør du kontakte ambassaden direkte for at finde ud af, hvad du skal bruge.
+Bliver du afvist og skal stadig rejse, kan du klage eller ansøge igen. Et langtidsvisum gennem den relevante ambassade eller konsulat er en anden mulighed, hvilket normalt tillader flere indrejser og længere ophold end visumfri rejse. Da kravene varierer efter destination og nationalitet, bør du kontakte ambassaden direkte for at finde ud af, hvad du skal bruge.
 
 ![Diagram, der sammenligner EES og ETIAS: EES sker ved grænsen med fingeraftryk og foto uden ansøgning og rulles gradvist ud ved indrejsesteder, mens ETIAS sker, før du flyver, med online ansøgning og et lille gebyr, uden at der endnu er fastsat en obligatorisk dato; du får i sidste ende brug for begge, og ingen af dem er et visum](https://traveldocumentvault.com/blog/etias-documents-2026/ees-vs-etias-figure-da.jpg) To forskellige porte: EES registrerer dig ved ankomst, ETIAS godkender dig før afrejse.
 
@@ -99,7 +99,7 @@ Bliver du nægtet og skal stadig rejse, er din reserveløsning at ansøge om et 
 En ETIAS-godkendelse erstatter ikke dit pas, din rejseforsikring eller [kravene til passets gyldighed](https://traveldocumentvault.com/da/blog/passport-expiry-6-month-rule/). Du skal stadig have:
 
 - Et gyldigt pas (mindst 3 måneders gyldighed)
-- Rejseforsikring, der dækker medicinske nødsituationer og hjemtransport
+- Rejseforsikring (anbefales; grænsevagter kan spørge til dine midler og din indkvartering)
 - Dokumentation for videre rejse (returflybillet eller tilslutningsbillet)
 - Dokumentation for indkvartering eller rejseplan
 - Tilstrækkelige midler til opholdet
@@ -122,7 +122,7 @@ ETIAS kræves for visumfrie borgere uden for EU, der rejser på korte ophold (op
 
 ### Hvilke dokumenter skal jeg bruge for at ansøge om ETIAS?
 
-Du skal have et gyldigt pas med mindst tre måneders gyldighed efter din planlagte afrejsedato. Du skal også bruge en e-mailadresse. Indkomstbevis (lønseddel, kontoudtog eller årsopgørelse) anbefales, men kræves ikke altid. Der indsendes ingen fysiske dokumenter – alt uploades digitalt eller udfyldes i den elektroniske ansøgning.
+Du skal have et gyldigt pas med mere end tre måneders gyldighed efter din planlagte afrejsedato, udstedt inden for de seneste ti år. Du skal også bruge en e-mailadresse. Indkomstbevis (lønseddel, kontoudtog eller årsopgørelse) anbefales, men kræves ikke altid. Der indsendes ingen fysiske dokumenter – alt uploades digitalt eller udfyldes i den elektroniske ansøgning.
 
 ### Hvad koster ETIAS, og hvor lang tid tager det?
 
@@ -130,11 +130,11 @@ EU-Kommissionen offentliggør det aktuelle ETIAS-gebyr på sin officielle hjemme
 
 ### Hvad sker der, hvis min ETIAS-ansøgning bliver afvist?
 
-Bliver ansøgningen afvist på grund af ufuldstændige eller inkonsekvente oplysninger, kan du søge igen med det samme med rettede oplysninger. Bliver den nægtet af sikkerhedsmæssige årsager (strafferetlige domme, tidligere overskridelser af opholdstid eller andre alvorlige forhold), kan du søge igen når som helst, men godkendelse er usandsynlig, medmindre omstændighederne har ændret sig væsentligt. Almindelige afvisningsårsager er udeholdte strafferetlige domme eller tidligere overskridelser af opholdstiden. Du modtager en meddelelse, der forklarer årsagen. Hvis fejlen kan rettes (fx opdaterede rejseoplysninger), retter du den og søger igen. Er afvisningen sikkerhedsbetinget, kan du i stedet være nødt til at søge et langtidsvisum.
+Bliver din ansøgning afvist, modtager du en meddelelse med begrundelsen, og du har ret til at klage til myndighederne i det land, der gav afslaget. Du kan også ansøge igen: EU siger, at et tidligere afslag ikke automatisk fører til afslag på en ny ansøgning. Kan årsagen løses (fx med opdaterede rejseoplysninger), så ret den og ansøg igen. Et langtidsvisum gennem en ambassade er en anden mulighed.
 
 ### Kan jeg rejse til Europa, før ETIAS lanceres?
 
-Ja. ETIAS er endnu ikke obligatorisk. Så længe det ikke er det, kan visumfrie rejsende fortsat bruge de nuværende grænseprocedurer – paskontrol, mundtlig erklæring og inspektion. Når ETIAS bliver obligatorisk, vil alle fremtidige rejser kræve forhåndstilladelse. Tjek EU's officielle hjemmeside, før du booker, for at bekræfte den aktuelle status.
+Ja. ETIAS er endnu ikke obligatorisk. Så længe det ikke er det, bliver visumfrie rejsende som regel registreret ved grænsen i ind- og udrejsesystemet EES (foto og fingeraftryk ved første indrejse) og gennemgår en grænsekontrol. Når ETIAS bliver obligatorisk, vil alle fremtidige rejser kræve forhåndstilladelse. Tjek EU's officielle hjemmeside, før du booker, for at bekræfte den aktuelle status.
 
 ## Relaterede artikler
 

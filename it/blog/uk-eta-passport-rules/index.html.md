@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/it/blog/uk-eta-passport-rules/
 
 - **L'ETA del Regno Unito è legata al numero del tuo passaporto.** Quando rinnovi il passaporto e ricevi un nuovo numero, la vecchia ETA non è più valida.
 - Devi viaggiare con **lo stesso identico passaporto con cui hai fatto domanda.** Un nuovo passaporto significa che serve una nuova ETA prima di partire.
-- **Ogni persona ha bisogno della propria ETA** — inclusi bambini e neonati. Non esiste un'ETA familiare né un ingresso come persona a carico.
+- **Ogni persona ha bisogno della propria ETA** — inclusi bambini e neonati. Non esiste un'ETA familiare. Ogni persona ha bisogno della propria, anche se puoi fare domanda per conto dei familiari.
 - L'Home Office consiglia di fare domanda **con almeno 3 giorni lavorativi di anticipo.** È un consiglio, non una garanzia sui tempi di elaborazione.
 - Un'ETA è **un permesso per viaggiare, non per entrare.** Gli agenti di frontiera possono rifiutare l'ingresso anche con un'ETA valida.
 
@@ -32,7 +32,7 @@ Alcune persone sono esenti: i cittadini irlandesi non ne hanno bisogno, e chi ha
 
 La tua ETA del Regno Unito è collegata al numero del tuo passaporto, non a te come persona. Quando fai domanda, l'Home Office collega l'approvazione a un numero di passaporto specifico. Viaggiare con un passaporto diverso — uno appena rinnovato, un secondo passaporto, un documento sostitutivo d'emergenza — significa viaggiare con un'ETA non collegata a quel documento.
 
-Questo è diverso da come funzionano i visti in molti paesi, che spesso sono legati alla persona e vengono stampati sul nuovo passaporto quando lo rinnovi. L'ETA del Regno Unito è digitale ed è specifica per il passaporto, quindi un nuovo numero di passaporto significa che serve una nuova ETA.
+L'ETA del Regno Unito è digitale ed è specifica per il passaporto, quindi un nuovo numero di passaporto significa che serve una nuova ETA.
 
 In pratica, se il tuo passaporto scade o lo rinnovi per qualsiasi motivo prima del viaggio, non puoi usare la vecchia ETA con il nuovo passaporto. Devi rifare domanda e ottenere l'approvazione prima di partire, perché non esiste un trasferimento automatico.
 
@@ -57,13 +57,13 @@ Il rischio è nel passaggio 5. Se il tuo viaggio è tra 10 giorni e il nuovo pas
 
 ## Ogni bambino ha bisogno della propria ETA, neonati compresi
 
-Ogni persona, compresi i neonati, ha bisogno della propria ETA del Regno Unito. Non esiste un'ETA familiare né un modo per aggiungere persone a carico alla domanda di qualcun altro.
+Ogni persona, compresi i neonati, ha bisogno della propria ETA del Regno Unito. Non esiste un'ETA familiare. Ogni persona ha bisogno della propria, anche se puoi fare domanda per conto dei familiari.
 
 Questo significa che per una famiglia di quattro persone si presentano quattro domande separate e si pagano quattro tariffe separate. Ancora più importante, si devono tenere sotto controllo quattro stati di approvazione, quattro scadenze e quattro numeri di passaporto, tutti separatamente.
 
-Anche i passaporti dei bambini scadono prima di quelli degli adulti — di solito ogni 5 anni invece di 10. Un neonato a cui viene rilasciato un passaporto nel 2023 avrà un nuovo numero di passaporto entro il 2028, il che significa una nuova domanda di ETA prima di allora. Se un viaggio in famiglia è previsto quando quel bambino ha 5 anni, sia il passaporto sia l'ETA potrebbero essere a uno o due anni dalla scadenza.
+In molti paesi il passaporto di un bambino ha una validità più breve di quello di un adulto, spesso 5 anni, quindi controlla il tuo. Il passaporto di un bambino rilasciato nel 2023 per 5 anni andrebbe sostituito entro il 2028, il che significa una nuova domanda di ETA prima di allora. Se un viaggio in famiglia è previsto quando quel bambino ha 5 anni, sia il passaporto sia l'ETA potrebbero essere a uno o due anni dalla scadenza.
 
-**Prima di prenotare un viaggio in famiglia nel Regno Unito, controlla la data di scadenza del passaporto e lo stato dell'ETA di ogni membro della famiglia.** Basta una sola persona con la validità in scadenza per impedire a tutta la famiglia di imbarcarsi.
+**Prima di prenotare un viaggio in famiglia nel Regno Unito, controlla la data di scadenza del passaporto e lo stato dell'ETA di ogni membro della famiglia.** Una sola persona con validità insufficiente o senza ETA potrebbe non essere ammessa all'imbarco, e questo può compromettere il viaggio di tutta la famiglia.
 
 ## Fai domanda da due a tre settimane prima del viaggio
 
@@ -81,7 +81,7 @@ L'approccio più sicuro: fai domanda non appena hai il passaporto definitivo —
 
 Un'ETA del Regno Unito significa che l'Home Office ha approvato il tuo viaggio verso il Regno Unito, ma questo non garantisce che ti sarà permesso attraversare la frontiera.
 
-Un agente di frontiera può comunque rifiutare l'ingresso. Può farti domande sullo scopo del viaggio, sulla tua situazione finanziaria, sui tuoi legami con il paese d'origine, o sui tuoi precedenti spostamenti. Se non è convinto, può negarti l'ingresso anche se la tua ETA è valida. È raro per i turisti, ma succede.
+Un agente di frontiera può comunque rifiutare l'ingresso. Gli agenti possono farti domande sullo scopo del viaggio e possono negarti l'ingresso se non sono convinti, anche se la tua ETA è valida.
 
 Un'ETA inoltre non è un visto — non stabilisce per quanto tempo puoi restare. I titolari di ETA della maggior parte dei paesi non soggetti a visto possono restare fino a 6 mesi come visitatori, ma è l'agente di frontiera a stabilire la durata effettiva del soggiorno all'arrivo, non l'ETA stessa.
 
@@ -89,7 +89,7 @@ Un'ETA inoltre non è un visto — non stabilisce per quanto tempo puoi restare.
 
 L'ETA del Regno Unito è una delle diverse autorizzazioni di viaggio digitali oggi in uso. Se stai pianificando un viaggio in più paesi, è utile capire la differenza tra un'ETA e un [visto](https://traveldocumentvault.com/it/blog/visa-vs-passport/). Il processo sembra simile, ma servono a scopi diversi.
 
-L'UE sta introducendo un proprio sistema di autorizzazione di viaggio digitale chiamato [ETIAS](https://traveldocumentvault.com/it/blog/etias-documents-2026/) per i visitatori extra-UE — simile nel concetto all'ETA del Regno Unito, ma con regole e requisiti diversi. Se il tuo viaggio include sia il Regno Unito sia l'Europa, potresti aver bisogno di entrambe.
+L'UE prevede una propria autorizzazione di viaggio digitale, [ETIAS](https://traveldocumentvault.com/it/blog/etias-documents-2026/), che non è ancora in funzione. È simile nel concetto all'ETA del Regno Unito, ma con regole e requisiti diversi. Quando partirà, un viaggio che comprenda sia il Regno Unito sia l'area Schengen potrebbe richiederle entrambe.
 
 Se hai già un viaggio prenotato, fai questo oggi: confronta la data di scadenza del passaporto con le date del viaggio e verifica che la tua ETA attuale sia legata al passaporto con cui viaggerai davvero. Se una delle due cose non torna, avvia subito il rinnovo o una nuova domanda, non la settimana prima di partire.
 
@@ -97,7 +97,7 @@ Se hai già un viaggio prenotato, fai questo oggi: confronta la data di scadenza
 
 ### Cos'è un'ETA del Regno Unito?
 
-L'ETA del Regno Unito (Electronic Travel Authorisation) è un'autorizzazione di viaggio digitale introdotta dal Regno Unito nel 2025. Il sistema è entrato in vigore dal 25 febbraio 2026 per la maggior parte dei cittadini non soggetti a visto. Non è un visto — è un permesso per viaggiare. Gli agenti di frontiera possono comunque rifiutare l'ingresso anche con un'ETA valida.
+L'ETA del Regno Unito (Electronic Travel Authorisation) è un'autorizzazione di viaggio digitale lanciata dal Regno Unito nell'ottobre 2023. Il sistema è entrato in vigore dal 25 febbraio 2026 per la maggior parte dei cittadini non soggetti a visto. Non è un visto — è un permesso per viaggiare. Gli agenti di frontiera possono comunque rifiutare l'ingresso anche con un'ETA valida.
 
 ### Chi deve fare domanda per un'ETA del Regno Unito?
 

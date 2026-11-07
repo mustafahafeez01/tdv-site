@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/pt/blog/visa-expiry-tracker-app/
 - Os visitantes da Área de Schengen devem rastrear uma janela móvel de 90/180 dias, não apenas uma única data de validade, porque a contagem acompanha o seu histórico real de viagens, não o calendário.
 - O rastreamento de vistos e passaportes juntos num só local reduz o risco de uma discrepância: entrar com um visto válido mas com um passaporte que expira antes do final da sua permanência planeada.
 
-Uma ultrapassagem de visto é um dos erros de viagem mais consequentes que uma pessoa pode cometer. Ao contrário de um voo perdido — stressante mas fundamentalmente reparável — uma ultrapassagem cria um registo formal de imigração que pode segui-lo durante anos. Nos Estados Unidos, uma ultrapassagem de apenas 180 dias desencadeia uma barra automática de 3 anos de reentrada sob a secção INA 212(a)(9)(B)(i), e uma ultrapassagem de um ano desencadeia uma barra de 10 anos. Estas consequências não são amplamente conhecidas, mas estão documentadas pelo US Citizenship and Immigration Services.
+Uma ultrapassagem de visto é um dos erros de viagem mais consequentes que uma pessoa pode cometer. Ao contrário de um voo perdido — stressante mas fundamentalmente reparável — uma ultrapassagem cria um registo formal de imigração que pode segui-lo durante anos. Nos Estados Unidos, ao abrigo da secção 212(a)(9)(B) da Immigration and Nationality Act, quem esteja em situação ilegal durante mais de 180 dias mas menos de um ano e depois saia fica geralmente impedido de regressar durante três anos, e um ano ou mais de presença ilegal significa geralmente uma proibição de dez anos. Estas consequências não são amplamente conhecidas.
 
 Uma aplicação de rastreamento de visto previne isto: tem de monitorizar múltiplas datas em simultâneo, validade de entrada, permanência máxima e contagem de entradas, cada uma com o seu próprio prazo.
 
@@ -26,13 +26,13 @@ Um passaporte tem uma data que importa: a sua validade. Um visto tem tipicamente
 
 O que isto significa na prática
 
-Um viajante entra no Vietname com um visto carimbado "válido até 30 de junho" com "permanência de 30 dias" impresso abaixo, e chega ao país em 20 de junho. O visto é válido para entrada, mas deve partir até 20 de julho, não 30 de junho. Confundir as duas datas é uma das causas mais comuns de ultrapassagens acidentais.
+Um viajante entra num país com um visto carimbado "válido até 30 de junho" com "permanência de 30 dias" impresso abaixo, e chega em 20 de junho. O visto é válido para entrada, mas, onde a estadia é contada a partir da chegada, deve partir até 20 de julho, não 30 de junho. Alguns países exigem, em vez disso, que saia até à data final do visto, por isso leia o texto do seu. Confundir as duas datas é uma das causas mais comuns de ultrapassagens acidentais.
 
 | Campo | O que significa | Exemplo |
 |---|---|---|
 | **Data de validade de entrada** | O último dia em que pode utilizar este visto para entrar no país | "Válido até 31 de dezembro de 2026" — deve entrar antes desta data |
 | **Duração máxima de permanência** | Quanto tempo pode permanecer depois de entrar, independentemente da data de validade do visto | "Duração de permanência: 90 dias" — o relógio começa na entrada, não no problema do visto |
-| **Número de entradas** | Entradas simples, duplas ou múltiplas permitidas | Um visto de entrada única é anulado no momento em que sai, mesmo que a data de validade da entrada não tenha passado |
+| **Número de entradas** | Entradas simples, duplas ou múltiplas permitidas | Um visto de entrada única fica geralmente esgotado no momento em que sai, mesmo que a data de validade da entrada não tenha passado |
 | **Regras de janela móvel** | Alguns regimes de visto (notavelmente Schengen) calculam dias permitidos dentro de uma janela móvel | Schengen: máximo de 90 dias em qualquer janela móvel de 180 dias, não por ano de calendário |
 
 Um rastreador que apenas monitoriza a data de validade de entrada perde a causa mais comum de ultrapassagens acidentais: exceder a duração máxima de permanência após uma entrada perfeitamente legal. Este é o campo que a maioria dos viajantes falha no rastreamento, porque a data não é carimbada no passaporte — tem de a calcular a partir da data de entrada.
@@ -51,8 +51,8 @@ As consequências de uma ultrapassagem de visto variam consoante o país mas sã
 
 - **Reino Unido:** As ultrapassagens são registadas e afetarão futuras candidaturas de visto. O Gabinete do Ministério do Interior do Reino Unido considera as ultrapassagens ao avaliar credibilidade e pode recusar candidaturas subsequentes.
 - **Austrália:** Ultrapassar o seu visto pode resultar em restrições às futuras candidaturas de visto e remoção do país. Sob a Migration Act 1958, os registos de ultrapassagem são rastreados e afetarão futuras candidaturas de visto e elegibilidade de reentrada.
-- **Área de Schengen:** As ultrapassagens são rastreadas no Sistema de Informações Schengen (SIS). Uma proibição emitida por um país Schengen aplica-se a toda a Área Schengen, que a Comissão Europeia lista atualmente como 29 países.
-- **Tailândia:** As ultrapassagens incorrem numa multa diária fixada pela imigração tailandesa, até um limite máximo, e podem resultar em prisão e deportação para ultrapassagens prolongadas.
+- **Área de Schengen:** As estadias são registadas na fronteira, e uma proibição de entrada emitida por um país Schengen é geralmente partilhada com os outros através do Sistema de Informações Schengen (SIS), pelo que se aplica a toda a Área Schengen, que a Comissão Europeia lista atualmente como 29 países.
+- **Tailândia:** As ultrapassagens incorrem numa multa diária fixada pela imigração tailandesa, até um limite máximo, e uma ultrapassagem de mais de 90 dias pode levar a deportação e a uma proibição de regresso.
 
 Em todos os casos, o registo de ultrapassagem tipicamente segue-o: aparece nas bases de dados de imigração verificadas nas futuras travessias de fronteira e candidaturas de visto.
 
@@ -72,7 +72,7 @@ Dada a complexidade acima, uma boa aplicação de rastreamento de visto precisa 
 
 1. **Registe a sua data de entrada no dia em que chega.** O seu relógio de permanência máxima começa imediatamente na entrada, não a partir de quando o visto foi emitido ou quando o período de validade de entrada começou.
 2. **Calcule e note a sua data de saída permitida mais recente.** Adicione a sua duração máxima de permanência à sua data de entrada. Esta é a data em que deve partir — mais cedo se precisar de tempo para atingir um ponto de partida.
-3. **Rastreie o estatuto de entrada simples vs. múltipla.** Se o seu visto é de entrada única, uma excursão de um dia para um país vizinho anula-o — planeie em conformidade.
+3. **Rastreie o estatuto de entrada simples vs. múltipla.** Se o seu visto é de entrada única, sair do país esgota-o geralmente, por isso confirme se uma excursão de um dia é permitida antes de atravessar uma fronteira.
 4. **Para viagem Schengen, mantenha um registo de datas de entrada e saída.** Utilize a calculadora oficial da Comissão Europeia para verificar os seus dias restantes antes de qualquer viagem que se siga a viagem recente em Schengen.
 5. **Defina um lembrete pelo menos 2 semanas antes do seu prazo de permanência máxima.** Isto dá-lhe tempo para arranjar uma partida sem pressa, especialmente se as opções de transporte no seu destino são limitadas.
 
@@ -92,7 +92,7 @@ A data de validade do visto é o último dia em que pode utilizar o visto para e
 
 ### O que acontece se ultrapassar a duração de um visto?
 
-As consequências variam consoante o país mas comummente incluem multas, proibições de reentrada, e deportação. Nos EUA, uma ultrapassagem de 180 dias desencadeia uma barra de reentrada de 3 anos; uma ultrapassagem de 1 ano desencadeia uma barra de 10 anos — conforme documentado pela USCIS. As ultrapassagens são registadas em bases de dados de imigração e afetam futuras candidaturas de visto.
+As consequências variam consoante o país mas comummente incluem multas, proibições de reentrada, e deportação. Nos EUA, mais de 180 dias de presença ilegal levam geralmente a uma proibição de reentrada de 3 anos depois de sair, e um ano ou mais a uma proibição de 10 anos, ao abrigo da Immigration and Nationality Act. As ultrapassagens são registadas em bases de dados de imigração e afetam futuras candidaturas de visto.
 
 ### Pode uma aplicação de rastreamento de visto funcionar sem ligação à internet?
 

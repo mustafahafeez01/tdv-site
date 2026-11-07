@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/es/blog/travel-while-passport-renewal-pe
 ## Puntos clave
 
 - La respuesta depende de un hecho: aún tienes tu pasaporte en tu posesión, o ya lo has entregado. Este único detalle determina qué viajes son posibles.
-- **Estados Unidos:** La renovación por correo te permite conservar tu pasaporte antiguo. Los viajes nacionales están bien. Los viajes internacionales requieren que tu nuevo pasaporte llegue primero.
+- **Estados Unidos:** La renovación por correo implica enviar tu pasaporte actual junto con la solicitud. Los viajes nacionales están bien. Los viajes internacionales requieren que tu nuevo pasaporte llegue primero.
 - **Reino Unido (renovación postal):** Tu pasaporte está en manos de HM Passport Office. No puedes viajar internacionalmente hasta que sea devuelto. **Reino Unido (renovación digital):** Conservas tu pasaporte durante todo el proceso y puedes viajar con él mientras se procesa el nuevo.
 - **Australia y Canadá:** Ambos requieren que entregues tu pasaporte en la solicitud. Los viajes internacionales no son posibles hasta que se emita el nuevo pasaporte.
 - Existen opciones de renovación expedida y urgente en cada país cubierto aquí, pero la regla básica se mantiene: no puedes viajar internacionalmente sin un pasaporte válido en tu mano.
@@ -28,7 +28,7 @@ Si aún tienes ese pasaporte depende enteramente de tu país y tu método de ren
 
 ## Estados Unidos: Renovación por correo
 
-La renovación estándar de pasaporte estadounidense por correo no requiere que entregues tu pasaporte actual antes de que llegue el nuevo. Completas el formulario DS-82, incluyes tu pasaporte existente y envías todo por correo al National Passport Processing Center. Tu pasaporte antiguo te es devuelto junto con el nuevo, típicamente cancelado con un agujero de perforación.
+La renovación estándar de pasaporte estadounidense por correo implica enviar tu pasaporte actual con la solicitud, así que no lo tienes en la mano mientras esperas. Completas el formulario DS-82, incluyes tu pasaporte existente y envías todo por correo al National Passport Processing Center. Según USAGov, tu pasaporte antiguo se envía de vuelta por separado, normalmente unas cuatro semanas después de recibir el nuevo.
 
 Esto significa que los viajes nacionales dentro de Estados Unidos no se ven afectados durante todo el proceso de renovación —no necesitas un pasaporte para vuelos nacionales. Los viajes internacionales son otra historia: no puedes viajar internacionalmente hasta que llegue tu nuevo pasaporte, y no puedes usar el pasaporte antiguo cancelado aunque lo tengas en la mano.
 
@@ -114,7 +114,7 @@ Contacta inmediatamente a tu servicio de pasaportes y pregunta sobre procesamien
 
 ### ¿Conservo mi pasaporte durante el proceso de renovación?
 
-Depende. La renovación por correo de EE.UU. te devuelve tu pasaporte antiguo (cancelado) junto con el nuevo. La renovación digital de Reino Unido te permite conservarlo durante todo el proceso. La renovación postal de Reino Unido, Australia y Canadá todos requieren que entregues tu pasaporte en la solicitud.
+Depende. La renovación por correo de EE.UU. implica enviar tu pasaporte antiguo, y según USAGov se devuelve por separado, normalmente unas cuatro semanas después del nuevo. La renovación digital de Reino Unido te permite conservarlo durante todo el proceso. La renovación postal de Reino Unido, Australia y Canadá todos requieren que entregues tu pasaporte en la solicitud.
 
 ### ¿Qué es un documento de viaje de emergencia?
 

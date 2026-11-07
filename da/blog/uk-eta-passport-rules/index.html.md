@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/da/blog/uk-eta-passport-rules/
 
 - **Et britisk ETA er bundet til dit pasnummer.** Fornyer du passet og får et nyt nummer, bliver dit gamle ETA ugyldigt.
 - Du skal rejse på **præcis det pas, du søgte med.** Et nyt pas betyder, at du skal have et nyt ETA, før du rejser.
-- **Alle personer skal have deres eget ETA** – også børn og babyer. Der findes ikke et familie-ETA eller medrejsende uden eget.
+- **Alle personer skal have deres eget ETA** – også børn og babyer. Der findes ikke et familie-ETA. Hver person skal have sit eget, men du kan ansøge på vegne af familiemedlemmer.
 - Indenrigsministeriet anbefaler at søge **mindst 3 hverdage i forvejen.** Det er en anbefaling, ikke en garanteret behandlingstid.
 - Et ETA er **tilladelse til at rejse, ikke til indrejse.** Grænsevagter kan afvise indrejse selv med et gyldigt ETA.
 
@@ -32,7 +32,7 @@ Nogle er undtaget: irske statsborgere har ikke brug for et, og personer med brit
 
 Dit britiske ETA er knyttet til dit pasnummer, ikke til dig som person. Når du søger, kobler indenrigsministeriet din godkendelse til et specifikt pasnummer. At rejse på et andet pas – et nyligt fornyet, et andet pas, et nødpas – betyder at rejse på et ETA, der ikke er bundet til det dokument.
 
-Det adskiller sig fra visa i mange lande, som ofte er knyttet til en person og trykkes i et nyt pas ved fornyelse. Et britisk ETA er digitalt og passpecifikt, så et nyt pasnummer betyder, at der skal et nyt ETA til.
+Et britisk ETA er digitalt og passpecifikt, så et nyt pasnummer betyder, at der skal et nyt ETA til.
 
 I praksis betyder det, at hvis dit pas udløber, eller du fornyer det af en eller anden grund før din tur, kan du ikke bruge dit gamle ETA på dit nye pas. Du skal søge igen og få godkendelse, før du rejser, da der ikke er nogen automatisk overførsel.
 
@@ -57,13 +57,13 @@ Risikoen ligger i trin 5. Er din tur om 10 dage, og dit nye pas ankommer i dag, 
 
 ## Alle børn skal have deres eget ETA, babyer inklusive
 
-Alle personer, også spædbørn, skal have deres eget britiske ETA. Der findes ikke et familie-ETA, og der er ingen måde at tilføje familiemedlemmer til en andens ansøgning.
+Alle personer, også spædbørn, skal have deres eget britiske ETA. Der findes ikke et familie-ETA. Hver person skal have sit eget, men du kan ansøge på vegne af familiemedlemmer.
 
 Det betyder, at en familie på fire indsender fire separate ansøgninger og betaler fire separate gebyrer. Endnu vigtigere er, at I holder styr på fire godkendelsesstatusser, fire udløbsdatoer og fire pasnumre, hver for sig.
 
-Børns pas udløber også hurtigere end voksnes – typisk hvert 5. år i stedet for hvert 10. år. En baby, der fik pas i 2023, vil have et nyt pasnummer senest i 2028, hvilket betyder en ny ETA-ansøgning inden da. Planlægges en familietur, når det barn er 5 år, kan både passet og ETA'et udløbe inden for et eller to år.
+I mange lande er et barns pas gyldigt i kortere tid end et voksenpas, ofte 5 år, så tjek dit eget. Et børnepas udstedt for 5 år i 2023 skal skiftes senest i 2028, hvilket betyder en ny ETA-ansøgning inden da. Planlægges en familietur, når det barn er 5 år, kan både passet og ETA'et udløbe inden for et eller to år.
 
-**Tjek hvert enkelt familiemedlems pas' udløbsdato og ETA-status, før du booker en familietur til Storbritannien.** Én person med kort gyldighed kan forhindre hele familien i at gå ombord.
+**Tjek hvert enkelt familiemedlems pas' udløbsdato og ETA-status, før du booker en familietur til Storbritannien.** Én person med kort gyldighed eller uden ETA kan blive afvist ved boarding, og det kan ødelægge hele familiens rejse.
 
 ## Søg to til tre uger, før du rejser
 
@@ -81,7 +81,7 @@ Den sikrere fremgangsmåde: søg, så snart du har dit endelige pas – helst 2-
 
 Et britisk ETA betyder, at indenrigsministeriet godkender din rejse til Storbritannien, men det garanterer ikke, at du bliver lukket ind ved grænsen.
 
-En grænsevagt kan stadig afvise indrejse. De kan stille spørgsmål om dit formål, din økonomiske situation, dine tilknytninger til dit hjemland eller tidligere rejsemønstre. Er de ikke tilfredse, kan de nægte indrejse, selvom dit ETA er gyldigt. Det er sjældent for turister, men det sker.
+En grænsevagt kan stadig afvise indrejse. Betjentene kan spørge om formålet med din rejse og kan nægte indrejse, hvis de ikke er tilfredse, selvom dit ETA er gyldigt.
 
 Et ETA er heller ikke et visum – det siger ikke noget om, hvor længe du må blive. ETA-indehavere fra de fleste visumfrie lande kan blive i op til 6 måneder som besøgende, men det er grænsevagten, der fastsætter opholdets faktiske længde, når du ankommer, ikke selve ETA'et.
 
@@ -89,7 +89,7 @@ Et ETA er heller ikke et visum – det siger ikke noget om, hvor længe du må b
 
 Et britisk ETA er en af flere digitale rejsetilladelser, der nu er i brug. Planlægger du rejser gennem flere lande, er det værd at forstå forskellen mellem et ETA og et [visum](https://traveldocumentvault.com/da/blog/visa-vs-passport/). De ligner hinanden i processen, men tjener forskellige formål.
 
-EU er ved at indføre sit eget digitale rejsetilladelsessystem kaldet [ETIAS](https://traveldocumentvault.com/da/blog/etias-documents-2026/) for besøgende uden for EU – i princippet ligesom det britiske ETA, men med andre regler og krav. Omfatter din tur både Storbritannien og Europa, kan du få brug for begge dele.
+EU planlægger sin egen digitale rejsetilladelse, [ETIAS](https://traveldocumentvault.com/da/blog/etias-documents-2026/), som endnu ikke er i drift. Den ligner i princippet det britiske ETA, men har andre regler og krav. Når den starter, kan en rejse til både Storbritannien og Schengenområdet kræve begge dele.
 
 Har du allerede en rejse booket, så gør det i dag: tjek dit pas' udløbsdato op mod dine rejsedatoer, og bekræft, at dit nuværende ETA er knyttet til det pas, du rent faktisk rejser på. Hvis en af delene ikke holder, så start fornyelsen eller den nye ansøgning nu, ikke ugen før, du flyver.
 
@@ -97,7 +97,7 @@ Har du allerede en rejse booket, så gør det i dag: tjek dit pas' udløbsdato o
 
 ### Hvad er et britisk ETA?
 
-Et britisk ETA (Electronic Travel Authorisation) er en digital rejsetilladelse, som Storbritannien indførte i 2025. Ordningen trådte i kraft fra den 25. februar 2026 for de fleste visumfrie statsborgere. Det er ikke et visum – det er tilladelse til at rejse. Grænsevagter kan stadig afvise indrejse, selv hvis du har et gyldigt ETA.
+Et britisk ETA (Electronic Travel Authorisation) er en digital rejsetilladelse, som Storbritannien lancerede i oktober 2023. Ordningen trådte i kraft fra den 25. februar 2026 for de fleste visumfrie statsborgere. Det er ikke et visum – det er tilladelse til at rejse. Grænsevagter kan stadig afvise indrejse, selv hvis du har et gyldigt ETA.
 
 ### Hvem skal søge om et britisk ETA?
 
@@ -109,7 +109,7 @@ Dit britiske ETA er bundet til det specifikke pasnummer, du søgte med. Fornyer 
 
 ### Skal børn have deres eget britiske ETA?
 
-Ja, alle personer skal have deres eget ETA, herunder babyer og små børn. Hver person, der skal rejse, skal have sit eget godkendte ETA bundet til sit eget pasnummer. Du kan ikke tilføje familiemedlemmer til én enkelt ETA-ansøgning.
+Ja, alle personer skal have deres eget ETA, herunder babyer og små børn. Hver person, der skal rejse, skal have sit eget godkendte ETA bundet til sit eget pasnummer. Du kan ansøge på vegne af familiemedlemmer, men hver person skal have sin egen godkendelse.
 
 ### Er et britisk ETA en garanti for indrejse?
 

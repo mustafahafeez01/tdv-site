@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/id/blog/visa-expiry-tracker-app/
 - Pengunjung Wilayah Schengen harus melacak jendela bergulir 90/180 hari, bukan sekadar satu tanggal kedaluwarsa saja, karena hitungannya bergulir mengikuti riwayat perjalanan Anda yang sebenarnya, bukan kalender.
 - Melacak visa dan paspor bersamaan di satu tempat mengurangi risiko ketidaksesuaian: masuk dengan visa yang masih berlaku namun paspor yang kedaluwarsa sebelum masa tinggal yang direncanakan berakhir.
 
-Overstay pada visa adalah salah satu kesalahan perjalanan paling berdampak yang bisa dilakukan seseorang. Berbeda dengan ketinggalan pesawat yang membuat stres tetapi pada akhirnya masih bisa diselesaikan, overstay meninggalkan catatan imigrasi resmi yang bisa terus membayangi Anda selama bertahun-tahun. Di Amerika Serikat, overstay selama 180 hari saja sudah memicu larangan masuk kembali otomatis selama 3 tahun berdasarkan INA bagian 212(a)(9)(B)(i), dan overstay selama satu tahun memicu larangan selama 10 tahun. Konsekuensi ini tidak banyak diketahui, tetapi didokumentasikan resmi oleh lembaga imigrasi AS, USCIS.
+Overstay pada visa adalah salah satu kesalahan perjalanan paling berdampak yang bisa dilakukan seseorang. Berbeda dengan ketinggalan pesawat yang membuat stres tetapi pada akhirnya masih bisa diselesaikan, overstay meninggalkan catatan imigrasi resmi yang bisa terus membayangi Anda selama bertahun-tahun. Di Amerika Serikat, berdasarkan bagian 212(a)(9)(B) dari Immigration and Nationality Act AS, orang yang berada secara tidak sah lebih dari 180 hari tetapi kurang dari satu tahun lalu pergi umumnya dilarang kembali selama tiga tahun, dan berada secara tidak sah satu tahun atau lebih umumnya berarti larangan sepuluh tahun. Konsekuensi ini tidak banyak diketahui.
 
 Aplikasi pelacak kedaluwarsa visa dirancang untuk mencegah hal ini: aplikasi ini perlu memantau beberapa tanggal sekaligus, yaitu masa berlaku izin masuk, batas maksimal lama tinggal, dan jumlah kunjungan, yang masing-masing merupakan tenggat tersendiri.
 
@@ -26,13 +26,13 @@ Paspor hanya memiliki satu tanggal penting: tanggal kedaluwarsanya. Visa biasany
 
 Apa artinya ini dalam praktik
 
-Seorang pelancong masuk ke Vietnam dengan visa berstempel "berlaku hingga 30 Juni" dengan keterangan "masa tinggal 30 hari" tercetak di bawahnya, dan tiba di negara tersebut pada 20 Juni. Visanya masih berlaku untuk masuk, tetapi ia harus keluar paling lambat 20 Juli, bukan 30 Juni. Kekeliruan antara kedua tanggal ini adalah salah satu penyebab paling umum overstay yang tidak disengaja.
+Seorang pelancong masuk ke sebuah negara dengan visa berstempel "berlaku hingga 30 Juni" dengan keterangan "masa tinggal 30 hari" tercetak di bawahnya, dan tiba pada 20 Juni. Visanya masih berlaku untuk masuk, tetapi jika masa tinggal dihitung sejak kedatangan, ia harus keluar paling lambat 20 Juli, bukan 30 Juni. Sebagian negara justru mengharuskan Anda keluar pada tanggal akhir visa, jadi baca keterangan pada visa Anda. Kekeliruan antara kedua tanggal ini adalah salah satu penyebab paling umum overstay yang tidak disengaja.
 
 | Kolom | Artinya | Contoh |
 |---|---|---|
 | **Tanggal masa berlaku izin masuk** | Tanggal terakhir Anda bisa menggunakan visa ini untuk masuk ke negara tersebut | "Berlaku hingga 31 Des 2026" - Anda harus masuk sebelum tanggal ini |
 | **Batas maksimal lama tinggal** | Berapa lama Anda boleh tinggal setelah masuk, terlepas dari tanggal masa berlaku visa | "Lama tinggal: 90 hari" - hitungan dimulai sejak masuk, bukan sejak visa diterbitkan |
-| **Jumlah kunjungan** | Kunjungan tunggal, ganda, atau berkali-kali yang diizinkan | Visa kunjungan tunggal langsung tidak berlaku begitu Anda keluar, meskipun tanggal masa berlaku izin masuknya belum lewat |
+| **Jumlah kunjungan** | Kunjungan tunggal, ganda, atau berkali-kali yang diizinkan | Visa kunjungan tunggal umumnya sudah terpakai begitu Anda keluar, meskipun tanggal masa berlaku izin masuknya belum lewat |
 | **Aturan jendela bergulir** | Sebagian rezim visa (terutama Schengen) menghitung hari yang diizinkan dalam jendela bergulir | Schengen: maksimal 90 hari dalam periode bergulir 180 hari, bukan per tahun kalender |
 
 Pelacak yang hanya memantau tanggal masa berlaku izin masuk akan melewatkan jebakan ini justru: melampaui batas maksimal lama tinggal setelah masuk secara sepenuhnya legal. Ini adalah kolom yang paling sering luput dilacak oleh pelancong, karena tanggalnya tidak tercetak di mana pun dalam paspor, Anda harus menghitungnya sendiri berdasarkan tanggal masuk Anda.
@@ -51,8 +51,8 @@ Konsekuensi overstay visa berbeda-beda tergantung negara tetapi secara konsisten
 
 - **Inggris:** Overstay tercatat dan akan memengaruhi permohonan visa di masa depan. Kementerian Dalam Negeri Inggris (Home Office) mempertimbangkan riwayat overstay saat menilai kredibilitas dan dapat menolak permohonan berikutnya.
 - **Australia:** Overstay visa dapat mengakibatkan pembatasan permohonan visa di masa depan dan pemulangan paksa dari negara tersebut. Berdasarkan Migration Act 1958, catatan overstay dilacak dan akan memengaruhi permohonan visa dan kelayakan masuk kembali di masa depan.
-- **Wilayah Schengen:** Overstay dilacak dalam Sistem Informasi Schengen (SIS). Larangan yang dikeluarkan oleh satu negara Schengen berlaku di seluruh Wilayah Schengen, yang saat ini tercatat oleh Komisi Eropa sebagai 29 negara.
-- **Thailand:** Overstay dikenai denda harian yang ditetapkan oleh imigrasi Thailand, hingga batas maksimum tertentu, dan dapat berujung pada penangkapan serta deportasi untuk overstay yang berkepanjangan.
+- **Wilayah Schengen:** Masa tinggal dicatat di perbatasan, dan larangan masuk yang dikeluarkan oleh satu negara Schengen umumnya dibagikan ke negara lain melalui Sistem Informasi Schengen (SIS), sehingga berlaku di seluruh Wilayah Schengen, yang saat ini tercatat oleh Komisi Eropa sebagai 29 negara.
+- **Thailand:** Overstay dikenai denda harian yang ditetapkan oleh imigrasi Thailand, hingga batas maksimum tertentu, dan overstay lebih dari 90 hari dapat berujung pada deportasi serta larangan kembali.
 
 Dalam semua kasus, catatan overstay biasanya terus mengikuti Anda: catatan ini muncul dalam basis data imigrasi yang diperiksa pada persilangan perbatasan dan permohonan visa di masa depan.
 
@@ -72,7 +72,7 @@ Dengan semua kompleksitas ini, aplikasi pelacak kedaluwarsa visa yang baik perlu
 
 1. **Catat tanggal masuk Anda pada hari kedatangan.** Hitungan batas maksimal lama tinggal Anda langsung dimulai sejak masuk, bukan sejak visa diterbitkan atau sejak masa berlaku izin masuk dimulai.
 2. **Hitung dan catat tanggal keberangkatan terakhir yang diizinkan.** Tambahkan batas maksimal lama tinggal Anda ke tanggal masuk Anda. Ini adalah tanggal terakhir Anda harus keluar, lebih awal jika Anda memerlukan waktu untuk mencapai titik keberangkatan.
-3. **Pantau status kunjungan tunggal atau berkali-kali.** Jika visa Anda kunjungan tunggal, perjalanan sehari ke negara tetangga akan membatalkannya, rencanakan sesuai kebutuhan.
+3. **Pantau status kunjungan tunggal atau berkali-kali.** Jika visa Anda kunjungan tunggal, keluar dari negara itu umumnya akan menghabiskannya, jadi periksa apakah perjalanan sehari diperbolehkan sebelum Anda menyeberangi perbatasan.
 4. **Untuk perjalanan Schengen, catat log tanggal masuk dan keluar.** Gunakan kalkulator resmi Komisi Eropa untuk memverifikasi hari tersisa Anda sebelum perjalanan mana pun yang mengikuti perjalanan Schengen terbaru.
 5. **Atur pengingat jauh sebelum batas waktu maksimal lama tinggal Anda.** Ini memberi Anda waktu untuk mengatur kepulangan tanpa terburu-buru, terutama jika pilihan transportasi di tujuan Anda terbatas.
 
@@ -92,7 +92,7 @@ Tanggal kedaluwarsa visa adalah tanggal terakhir Anda bisa menggunakan visa ters
 
 ### Apa yang terjadi jika seseorang overstay pada visanya?
 
-Konsekuensinya berbeda-beda tergantung negara, tetapi umumnya meliputi denda, larangan masuk kembali, dan deportasi. Di AS, overstay selama 180 hari memicu larangan masuk kembali selama 3 tahun; overstay selama 1 tahun memicu larangan selama 10 tahun, seperti didokumentasikan oleh USCIS. Overstay tercatat dalam basis data imigrasi dan memengaruhi permohonan visa di masa depan.
+Konsekuensinya berbeda-beda tergantung negara, tetapi umumnya meliputi denda, larangan masuk kembali, dan deportasi. Di AS, berada secara tidak sah lebih dari 180 hari umumnya berujung pada larangan masuk kembali selama 3 tahun setelah Anda pergi, dan satu tahun atau lebih berujung pada larangan 10 tahun, berdasarkan Immigration and Nationality Act. Overstay tercatat dalam basis data imigrasi dan memengaruhi permohonan visa di masa depan.
 
 ### Bisakah aplikasi pelacak kedaluwarsa visa bekerja secara luring?
 

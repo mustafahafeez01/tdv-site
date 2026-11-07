@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/it/blog/travel-while-passport-renewal-pe
 ## Punti chiave
 
 - La risposta dipende da un fatto: avete ancora il vostro passaporto in vostro possesso, oppure l'avete già consegnato. Questo singolo dettaglio determina quali viaggi sono possibili.
-- **Stati Uniti:** Il rinnovo per posta vi permette di conservare il vostro vecchio passaporto. I viaggi nazionali vanno bene. I viaggi internazionali richiedono l'arrivo del vostro passaporto rinnovato.
+- **Stati Uniti:** Il rinnovo per posta richiede di inviare il passaporto attuale con la domanda. I viaggi nazionali vanno bene. I viaggi internazionali richiedono l'arrivo del vostro passaporto rinnovato.
 - **Regno Unito (rinnovo postale):** Il vostro passaporto è in possesso di HM Passport Office. Non potete viaggiare internazionalmente fino a quando non viene restituito. **Regno Unito (rinnovo digitale):** Conservate il vostro passaporto durante tutto il processo e potete viaggiare con esso mentre il nuovo viene elaborato.
 - **Australia e Canada:** Entrambi richiedono di consegnare il vostro passaporto al momento della richiesta. I viaggi internazionali non sono possibili fino a quando il nuovo passaporto non viene rilasciato.
 - Esistono opzioni di rinnovo accelerato e urgente in ogni paese coperto qui, ma la regola di base vale: non potete viaggiare internazionalmente senza un passaporto valido in mano.
@@ -28,7 +28,7 @@ Se avete ancora quel passaporto dipende interamente dal vostro paese e dal vostr
 
 ## Stati Uniti: Rinnovo per posta
 
-Il rinnovo standard del passaporto americano per posta non richiede di consegnare il vostro passaporto attuale prima dell'arrivo di quello nuovo. Completate il modulo DS-82, allegato il vostro passaporto esistente, e spedite tutto al National Passport Processing Center. Il vostro vecchio passaporto viene restituito insieme a quello nuovo, tipicamente annullato con un foro di punzone.
+Il rinnovo standard del passaporto statunitense per posta richiede di inviare il passaporto attuale con la domanda, quindi non lo avrete con voi durante l’attesa. Compilate il modulo DS-82, allegate il passaporto esistente e spedite tutto al National Passport Processing Center. USAGov indica che il vecchio passaporto viene restituito separatamente, di solito circa quattro settimane dopo l’arrivo di quello nuovo.
 
 Ciò significa che i viaggi nazionali all'interno degli Stati Uniti non sono influenzati durante il processo di rinnovo — non avete bisogno di un passaporto per i voli nazionali. I viaggi internazionali sono una storia diversa: non potete viaggiare internazionalmente fino a quando il vostro nuovo passaporto non arriva, e non potete usare il vecchio passaporto annullato anche se lo avete in mano.
 
@@ -114,7 +114,7 @@ Contattate il vostro servizio passaporti immediatamente e chiedete informazioni 
 
 ### Conservo il mio passaporto durante il processo di rinnovo?
 
-Dipende. Il rinnovo per posta degli USA restituisce il vostro vecchio passaporto (annullato) insieme a quello nuovo. Il rinnovo digitale del Regno Unito vi permette di conservarlo durante tutto il processo. Il rinnovo postale del Regno Unito, l'Australia e il Canada richiedono tutti di consegnare il vostro passaporto al momento della domanda.
+Dipende. Il rinnovo per posta negli USA richiede di inviare il vecchio passaporto e USAGov indica che viene restituito separatamente, di solito circa quattro settimane dopo quello nuovo. Il rinnovo digitale del Regno Unito vi permette di conservarlo durante tutto il processo. Il rinnovo postale del Regno Unito, l'Australia e il Canada richiedono tutti di consegnare il vostro passaporto al momento della domanda.
 
 ### Cos'è un documento di viaggio d'emergenza?
 

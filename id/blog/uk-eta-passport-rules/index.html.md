@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/id/blog/uk-eta-passport-rules/
 
 - **ETA Inggris terikat dengan nomor paspor Anda.** Saat Anda memperpanjang paspor dan mendapat nomor baru, ETA lama otomatis tidak berlaku.
 - Anda harus bepergian dengan **paspor yang sama persis dengan yang digunakan saat mengajukan ETA**. Paspor baru berarti Anda memerlukan ETA baru sebelum berangkat.
-- **Setiap orang memerlukan ETA sendiri,** termasuk anak-anak dan bayi. Tidak ada ETA keluarga atau entri tanggungan.
+- **Setiap orang memerlukan ETA sendiri,** termasuk anak-anak dan bayi. Tidak ada ETA keluarga. Setiap orang memerlukan ETA sendiri, meskipun Anda bisa mengajukan atas nama anggota keluarga.
 - Home Office menyarankan mengajukan permohonan **setidaknya 3 hari kerja sebelumnya**. Ini hanya saran, bukan jaminan waktu pemrosesan.
 - ETA adalah **izin untuk bepergian, bukan izin masuk**. Petugas perbatasan tetap bisa menolak masuk meskipun ETA Anda masih berlaku.
 
@@ -32,7 +32,7 @@ Beberapa orang dikecualikan, warga negara Irlandia tidak memerlukannya, begitu p
 
 ETA Inggris Anda terikat dengan nomor paspor, bukan dengan diri Anda sebagai individu. Saat Anda mengajukan permohonan, Home Office menghubungkan persetujuan tersebut dengan nomor paspor tertentu. Bepergian dengan paspor lain, entah paspor yang baru diperpanjang, paspor kedua, atau dokumen pengganti darurat, berarti Anda bepergian dengan ETA yang tidak terikat pada dokumen itu.
 
-Ini berbeda dari visa di banyak negara, yang biasanya terikat pada individu dan dicetak ulang di paspor baru saat Anda memperpanjang. ETA Inggris bersifat digital dan spesifik untuk setiap paspor, jadi nomor paspor baru berarti diperlukan ETA baru.
+ETA Inggris bersifat digital dan spesifik untuk setiap paspor, jadi nomor paspor baru berarti diperlukan ETA baru.
 
 Dalam praktiknya, jika paspor Anda kedaluwarsa atau Anda memperpanjangnya dengan alasan apa pun sebelum perjalanan, Anda tidak bisa menggunakan ETA lama pada paspor baru. Anda harus mengajukan permohonan lagi dan mendapat persetujuan sebelum berangkat, karena tidak ada pengalihan otomatis.
 
@@ -57,13 +57,13 @@ Risiko terbesar ada di langkah 5. Jika perjalanan Anda tinggal 10 hari lagi dan 
 
 ## Setiap Anak Memerlukan ETA Sendiri, Termasuk Bayi
 
-Setiap orang, termasuk bayi, memerlukan ETA Inggris sendiri. Tidak ada ETA keluarga dan tidak ada cara untuk menambahkan tanggungan ke permohonan orang lain.
+Setiap orang, termasuk bayi, memerlukan ETA Inggris sendiri. Tidak ada ETA keluarga. Setiap orang memerlukan ETA sendiri, meskipun Anda bisa mengajukan atas nama anggota keluarga.
 
 Artinya, untuk keluarga beranggotakan empat orang, Anda mengajukan empat permohonan terpisah dan membayar empat biaya terpisah. Yang lebih penting, Anda harus melacak empat status persetujuan, empat tanggal kedaluwarsa, dan empat nomor paspor, semuanya secara terpisah.
 
-Paspor anak juga kedaluwarsa lebih cepat dibanding paspor dewasa, biasanya setiap 5 tahun, bukan 10 tahun. Bayi yang mendapat paspor pada 2023 akan memiliki nomor paspor baru pada 2028, yang berarti diperlukan permohonan ETA baru sebelum tanggal tersebut. Jika perjalanan keluarga direncanakan saat anak berusia 5 tahun, paspor dan ETA-nya bisa jadi sama-sama akan kedaluwarsa dalam satu hingga dua tahun ke depan.
+Di banyak negara paspor anak berlaku lebih singkat daripada paspor dewasa, sering kali 5 tahun, jadi periksa paspor Anda. Paspor anak yang diterbitkan untuk 5 tahun pada 2023 perlu diganti paling lambat 2028, yang berarti diperlukan permohonan ETA baru sebelum tanggal tersebut. Jika perjalanan keluarga direncanakan saat anak berusia 5 tahun, paspor dan ETA-nya bisa jadi sama-sama akan kedaluwarsa dalam satu hingga dua tahun ke depan.
 
-**Sebelum memesan perjalanan keluarga ke Inggris, periksa tanggal kedaluwarsa paspor dan status ETA setiap anggota keluarga.** Satu orang saja yang dokumennya hampir kedaluwarsa bisa membuat seluruh keluarga gagal naik pesawat.
+**Sebelum memesan perjalanan keluarga ke Inggris, periksa tanggal kedaluwarsa paspor dan status ETA setiap anggota keluarga.** Satu orang yang masa berlaku paspornya kurang atau tidak punya ETA mungkin tidak diizinkan naik pesawat, dan itu bisa mengganggu perjalanan seluruh keluarga.
 
 ## Ajukan Permohonan Dua hingga Tiga Minggu Sebelum Bepergian
 
@@ -83,7 +83,7 @@ Pendekatan yang lebih aman adalah mengajukan permohonan begitu paspor final Anda
 
 ETA Inggris menandakan bahwa Home Office menyetujui perjalanan Anda ke Inggris, tetapi itu tidak menjamin Anda akan diizinkan melewati perbatasan.
 
-Petugas perbatasan tetap bisa menolak masuk. Mereka bisa menanyakan tujuan perjalanan Anda, kondisi keuangan, keterikatan dengan negara asal, atau pola perjalanan sebelumnya. Jika mereka tidak puas dengan jawaban Anda, mereka bisa menolak masuk meskipun ETA Anda masih berlaku. Kasus ini jarang terjadi pada wisatawan, tetapi tetap bisa terjadi.
+Petugas perbatasan tetap bisa menolak masuk. Petugas dapat menanyakan tujuan perjalanan Anda dan bisa menolak masuk jika tidak puas, meskipun ETA Anda masih berlaku.
 
 ETA juga bukan visa, sehingga tidak menentukan berapa lama Anda boleh tinggal. Pemegang ETA dari sebagian besar negara bebas visa dapat tinggal hingga 6 bulan sebagai pengunjung, tetapi petugas perbatasanlah yang menetapkan lama tinggal sebenarnya saat Anda tiba, bukan ETA itu sendiri.
 
@@ -91,7 +91,7 @@ ETA juga bukan visa, sehingga tidak menentukan berapa lama Anda boleh tinggal. P
 
 ETA Inggris adalah salah satu dari beberapa izin perjalanan digital yang kini digunakan. Jika Anda berencana bepergian ke beberapa negara, pahami perbedaan antara ETA dan [visa](https://traveldocumentvault.com/id/blog/visa-vs-passport/). Keduanya terlihat mirip dalam prosesnya tetapi memiliki tujuan yang berbeda.
 
-Uni Eropa sedang meluncurkan sistem izin perjalanan digitalnya sendiri bernama [ETIAS](https://traveldocumentvault.com/id/blog/etias-documents-2026/) untuk pengunjung non-UE, konsepnya mirip dengan ETA Inggris tetapi dengan aturan dan persyaratan yang berbeda. Jika perjalanan Anda mencakup Inggris maupun Eropa, Anda mungkin memerlukan keduanya.
+Uni Eropa berencana memiliki izin perjalanan digitalnya sendiri, [ETIAS](https://traveldocumentvault.com/id/blog/etias-documents-2026/), yang belum beroperasi. Konsepnya mirip dengan ETA Inggris tetapi dengan aturan dan persyaratan yang berbeda. Setelah mulai berlaku, perjalanan yang mencakup Inggris dan kawasan Schengen mungkin memerlukan keduanya.
 
 Jika perjalanan Anda sudah dipesan, lakukan ini hari ini: cocokkan tanggal kedaluwarsa paspor dengan tanggal perjalanan, lalu pastikan ETA Anda saat ini terikat pada paspor yang benar-benar akan Anda pakai. Jika salah satunya tidak memenuhi, mulailah perpanjangan atau pengajuan ulang sekarang, jangan seminggu sebelum terbang.
 
@@ -99,7 +99,7 @@ Jika perjalanan Anda sudah dipesan, lakukan ini hari ini: cocokkan tanggal kedal
 
 ### Apa itu ETA Inggris?
 
-ETA Inggris (Electronic Travel Authorisation) adalah izin perjalanan digital yang diperkenalkan Inggris pada 2025. Ketentuan ini mulai diberlakukan sejak 25 Februari 2026 bagi sebagian besar warga negara bebas visa. ETA bukan visa, melainkan izin untuk bepergian. Petugas perbatasan tetap bisa menolak masuk meskipun Anda memiliki ETA yang masih berlaku.
+ETA Inggris (Electronic Travel Authorisation) adalah izin perjalanan digital yang diluncurkan Inggris pada Oktober 2023. Ketentuan ini mulai diberlakukan sejak 25 Februari 2026 bagi sebagian besar warga negara bebas visa. ETA bukan visa, melainkan izin untuk bepergian. Petugas perbatasan tetap bisa menolak masuk meskipun Anda memiliki ETA yang masih berlaku.
 
 ### Siapa yang perlu mengajukan permohonan ETA Inggris?
 
