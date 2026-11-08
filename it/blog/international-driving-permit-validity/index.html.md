@@ -11,14 +11,14 @@ Source: https://traveldocumentvault.com/it/blog/international-driving-permit-val
 ## Punti Chiave
 
 - Un IDP è **la traduzione della patente che hai già**, quindi porti con te tutte e due. Mostrare solo il permesso non dimostra nulla.
-- Ci sono tre tipi, nati da tre trattati diversi, anche se due coprono quasi tutto il mondo. Un **permesso della Convenzione di Ginevra del 1949 dura un anno**. Un **permesso della Convenzione di Vienna del 1968 arriva fino a tre**.
+- Ci sono tre tipi, nati da tre trattati diversi. Un **permesso della Convenzione di Ginevra del 1949 dura un anno**. Un **permesso della Convenzione di Vienna del 1968 arriva fino a tre**.
 - Il permesso di Vienna **dipende dalla tua patente di guida**. Se la patente scade prima, da quel giorno il permesso non serve più, qualunque data ci sia stampata sopra.
 - Ogni paese ha aderito a convenzioni diverse, quindi **un permesso accettato in un paese può essere rifiutato in quello dopo**.
 - Passaporto, patente e permesso seguono **tre scadenze separate** che quasi mai coincidono.
 
 Un permesso di guida internazionale è la traduzione della tua patente, non una patente a sé, e ha una scadenza tutta sua. Molti valgono dodici mesi dal rilascio e nessuno supera i tre anni, quindi quello comprato per un viaggio tre estati fa è quasi certamente scaduto. Gli sportelli di noleggio di diversi paesi lo chiedono prima di consegnarti l'auto.
 
-Un IDP ha una sua data di scadenza, e come funziona dipende dal trattato internazionale su cui si basa il tuo permesso. Molti automobilisti scoprono che esistono due tipi solo quando uno dei due viene rifiutato.
+Un IDP ha una sua data di scadenza, e come funziona dipende dal trattato internazionale su cui si basa il tuo permesso. Molti automobilisti scoprono che esistono tipi diversi solo quando uno viene rifiutato.
 
 ## Un IDP traduce la tua patente, non la sostituisce
 
@@ -28,19 +28,19 @@ Quindi funzionano in coppia. Porti con te la patente nazionale e il permesso, e 
 
 Questo inganna più spesso delle date di scadenza. Il permesso sembra il documento importante, pieno di timbri e lingue, e dà l'impressione di essere quello che conta davvero.
 
-## Due convenzioni decidono quanto dura e dove vale
+## Tre convenzioni decidono quanto dura e dove vale
 
-Gli IDP si basano su [tre accordi internazionali](https://www.gov.uk/driving-abroad/international-driving-permit), e ogni paese ha aderito a uno o più di essi. Due coprono quasi tutto: la Convenzione di Ginevra del 1949 e la Convenzione di Vienna del 1968. Esiste ancora anche un permesso più vecchio, della Convenzione di Parigi del 1926, e alcune destinazioni lo includono tra i documenti accettati. Controlla la data di scadenza stampata sul permesso.
+Gli IDP si basano su [tre accordi internazionali](https://www.gov.uk/driving-abroad/international-driving-permit), e ogni paese ha aderito a uno o più di essi. Tra questi ci sono la Convenzione di Ginevra del 1949 e la Convenzione di Vienna del 1968. Esiste ancora anche un permesso più vecchio, della Convenzione di Parigi del 1926, e alcune destinazioni lo includono tra i documenti accettati. Controlla la data di scadenza stampata sul permesso.
 
 Un permesso rilasciato secondo la Convenzione di Ginevra del 1949 è [valido un anno](https://travel.gc.ca/travelling/documents/international-driving-permit). Un permesso rilasciato secondo la Convenzione di Vienna del 1968 può arrivare fino a tre.
 
-Questa distinzione conta due volte: stabilisce quanto dura il permesso e decide dove viene riconosciuto. Un paese che ha ratificato una sola convenzione non è obbligato a riconoscere un permesso rilasciato secondo l'altra. Ecco perché un permesso che l'anno scorso andava bene può essere respinto quest'anno.
+Questa distinzione conta due volte: stabilisce quanto dura il permesso e decide dove viene riconosciuto. Un paese che ha ratificato una sola convenzione non è obbligato a riconoscere un permesso rilasciato secondo un'altra. Ecco perché un permesso che l'anno scorso andava bene può essere respinto quest'anno.
 
 ![Diagramma che confronta tre periodi di validità: il passaporto, di solito 10 anni, la patente di guida, che varia da paese a paese, e il permesso di guida internazionale, 1 anno o fino a 3, interrotto prima se la patente scade prima, quindi decide il più corto](https://traveldocumentvault.com/blog/international-driving-permit-validity/idp-clocks-figure-it.jpg) Tre documenti, tre scadenze. Il permesso dura quanto il più corto degli altri due.
 
 | Tipo di permesso | Quanto dura | Cosa lo limita |
 |---|---|---|
-| **Convenzione di Parigi del 1926** | Controlla la data di scadenza stampata | La data di rilascio. Oggi raramente richiesto |
+| **Convenzione di Parigi del 1926** | Controlla la data di scadenza stampata | La data di rilascio. |
 | **Convenzione di Ginevra del 1949** | Un anno | La data di rilascio |
 | **Convenzione di Vienna del 1968** | Fino a tre anni | La tua patente nazionale, se scade prima |
 
@@ -129,7 +129,7 @@ Sì, se è un permesso della Convenzione di Vienna del 1968. Questo tipo dipende
 
 ### Perché esiste più di un tipo di patente di guida internazionale?
 
-Derivano da trattati internazionali distinti. La maggior parte dei viaggi è coperta dalla Convenzione di Ginevra del 1949 e dalla Convenzione di Vienna del 1968. Esiste ancora anche un permesso più vecchio, della Convenzione di Parigi del 1926, e alcune destinazioni lo includono tra i documenti accettati. Ogni paese ha aderito a convenzioni diverse, ed è per questo che un permesso accettato in un paese può essere rifiutato in un altro.
+Derivano da trattati internazionali distinti. Esistono permessi rilasciati secondo la Convenzione di Ginevra del 1949 e la Convenzione di Vienna del 1968. Esiste ancora anche un permesso più vecchio, della Convenzione di Parigi del 1926, e alcune destinazioni lo includono tra i documenti accettati. Ogni paese ha aderito a convenzioni diverse, ed è per questo che un permesso accettato in un paese può essere rifiutato in un altro.
 
 ## Articoli Correlati
 

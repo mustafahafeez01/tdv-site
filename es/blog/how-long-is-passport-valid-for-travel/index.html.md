@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/es/blog/how-long-is-passport-valid-for-t
 
 ## Puntos Clave
 
-- **Muchos pasaportes de adultos son válidos hasta 10 años** desde la fecha de emisión. Los pasaportes de niños típicamente expiran después de 5 años.
+- **Los nuevos pasaportes ordinarios del Reino Unido para adultos suelen tener una validez de 10 años**. Los pasaportes de niños típicamente expiran después de 5 años.
 - Tu pasaporte no tiene que estar vencido para que te rechacen. **Pueden denegarte el embarque o la entrada** si la validez restante no cumple el requisito de tu destino.
 - Destinos populares como Tailandia, Vietnam e Indonesia suelen exigir **al menos 6 meses de validez desde el día de llegada** a los titulares de pasaportes británicos, mientras que los países Schengen cuentan desde la salida prevista. Comprueba las normas de cada destino.
 - Los pasaportes de niños expiran más rápido que los de los padres —**verifica cada pasaporte en tu grupo individualmente** antes de reservar, no solo el tuyo.
@@ -22,16 +22,15 @@ Es una de las reglas de viaje más malentendidas. Un pasaporte que no ha vencido
 
 ## Los Pasaportes de Adultos Duran Mucho Más Que los de Niños
 
-El período de validez estándar para un pasaporte de adulto es de 10 años desde la fecha de emisión en la mayoría de países. Los pasaportes de niños expiran antes —[típicamente 5 años](https://www.gov.uk/get-a-child-passport)—. Nosotros revisaríamos primero el pasaporte de un niño antes que el de nadie, porque es el que todo el mundo da por bueno.
+Los nuevos pasaportes ordinarios del Reino Unido para adultos suelen tener una validez de 10 años. Los pasaportes de niños expiran antes —[típicamente 5 años](https://www.gov.uk/get-a-child-passport)—. Nosotros revisaríamos primero el pasaporte de un niño antes que el de nadie, porque es el que todo el mundo da por bueno.
 
 | País | Validez de adulto | Validez de niño |
 |---|---|---|
 | Reino Unido | 10 años | 5 años (menores de 16) |
 | Estados Unidos | 10 años | 5 años (menores de 16) |
-| Australia | 10 años | 5 años (menores de 16) |
-| Canadá | 10 años | 5 años |
+| Australia | Generalmente 10 años; opción de 5 años a partir de los 75 | 5 años (menores de 16) |
+| Canadá | Generalmente 5 o 10 años, a elegir al solicitarlo | 5 años |
 | Irlanda | 10 años | 5 años (menores de 18) |
-| Nueva Zelanda | 10 años | 5 años (menores de 16) |
 
 Tu fecha exacta de vencimiento está impresa en la página de datos junto a tu foto. Esa fecha es el límite máximo —tu pasaporte deja de ser un documento de viaje válido en cualquier lugar del mundo una vez que pasa.
 
@@ -61,7 +60,7 @@ Para todo lo demás, verifica antes de reservar. Tu aerolínea o la página ofic
 
 ## Los Pasaportes de Niños Caducan Antes, y las Familias Olvidan Revisarlos
 
-Aquí es donde las familias se ven atrapadas cada verano. Los pasaportes de adultos son válidos durante 10 años. Los pasaportes de niños expiran después de 5. Esa diferencia crea un problema específico.
+Aquí es donde las familias se ven atrapadas cada verano. Los nuevos pasaportes ordinarios del Reino Unido para adultos suelen tener una validez de 10 años. Los pasaportes de niños expiran después de 5. Esa diferencia crea un problema específico.
 
 Un niño de 3 años que obtuvo su primer pasaporte en 2023 tiene un documento que expira en 2028. Cuando tienen 7 y la familia reserva un viaje a Tailandia, ese pasaporte puede tener solo algunos meses de validez restante —muy por debajo del requisito de 6 meses. Ambos padres podrían tener 4 años de validez cada uno y nunca pensar en verificar el documento del niño.
 
@@ -93,7 +92,7 @@ Fuentes oficiales
 
 ### ¿Cuánto tiempo es válido un pasaporte del Reino Unido?
 
-Los pasaportes de adultos del Reino Unido son válidos durante 10 años desde la fecha de emisión. Los pasaportes de niños (menores de 16) son válidos durante 5 años. La fecha exacta de vencimiento está impresa en la página de datos junto a tu foto.
+Los nuevos pasaportes ordinarios del Reino Unido para adultos suelen tener una validez de 10 años. Los pasaportes de niños (menores de 16) son válidos durante 5 años. La fecha exacta de vencimiento está impresa en la página de datos junto a tu foto.
 
 ### ¿Puedo viajar con 6 meses restantes en mi pasaporte?
 

@@ -1,6 +1,6 @@
 # Hvor lang tid tager en pasfornyelse? (USA, Storbritannien, Australien, Canada)
 
-> Hvor lang tid tager en pasfornyelse? Det afhænger mere af din situation end af dit land. Hvad der bremser processen, og hvor du ser aktuelle tider.
+> Tiden for pasfornyelse afhænger af ansøgningssted og service. Hvad der kan forsinke ansøgningen, og hvor du ser aktuelle tider for dit land.
 
 Source: https://traveldocumentvault.com/da/blog/how-long-does-passport-renewal-take/
 
@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/da/blog/how-long-does-passport-renewal-t
 ## Vigtigste punkter
 
 - Hvor lang tid en fornyelse tager, afhænger af dit land, din situation og den årstid, du ansøger i – der findes ikke ét tal, der forbliver præcist ret længe, så vi har bevidst udeladt et fra denne guide.
-- De fleste lande har en standardkø plus én eller flere betalte, hurtigere ruter. De hurtigere ruter giver dig en tidligere plads i køen eller en bookbar tid – de springer ingen kontroller over.
+- Standardbehandling og hurtigere tjenester har forskellige tidsrammer. Hurtigere muligheder afhænger af, hvor du ansøger, og hvilken tjeneste du opfylder kravene til.
 - En håndfuld situationer bremser typisk processen: navneskift, et første voksenpas, en ansøgning for et barn, et bortkommet eller beskadiget pas, ekstra sikkerhedstjek, højsæson og ansøgning fra udlandet.
 - Den sikreste fremgangsmåde er at ansøge, så snart dit pas' resterende gyldighed begynder at føles knap, og regne baglæns fra din faktiske rejsedato i stedet for at gætte.
 - For det tal, der betyder noget lige nu, skal du gå til din egen pasmyndighed – HM Passport Office, det amerikanske udenrigsministerium, det australske paskontor, eller din nationale modpart – ikke et blogindlæg.
@@ -20,25 +20,25 @@ Du har booket fly til en tur om fem måneder. Du tager alles pas frem for at dob
 
 Der findes ikke ét tal, og enhver artikel, der giver dig ét, satser stiltiende på, at du aldrig lægger mærke til, når det bliver forældet.
 
-Sagsbehandlingstider ændrer sig med bemanding, ansøgningsmængde og årstid, så et tal, der er præcist i dag, kan sagtens være forkert om få måneder. Det, der ikke ændrer sig nær så ofte, er selve beslutningens form: enhver pasmyndighed kører en standardkø og mindst én betalt måde at gå hurtigere på, og et bestemt sæt situationer bremser pålideligt en ansøgning, uanset hvilket land der har udstedt passet. Det er, hvad denne guide handler om, sammen med præcis hvor du finder det tal, der gælder for dig lige nu.
+Sagsbehandlingstider ændrer sig, så et tal, der er præcist i dag, kan sagtens være forkert om få måneder. Det, der ikke ændrer sig nær så ofte, er selve beslutningens form: standardbehandling og hurtigere muligheder afhænger af, hvor du ansøger, og hvilken tjeneste du opfylder kravene til, og et bestemt sæt situationer bremser pålideligt en ansøgning, uanset hvilket land der har udstedt passet. Det er, hvad denne guide handler om, sammen med præcis hvor du finder det tal, der gælder for dig lige nu.
 
-**Bemærk:** Vi angiver bevidst ingen sagsbehandlingstider her. De ændrer sig med årstid og bemanding, og et tal, der er korrekt i dag, kan være forkert om få måneder. Din egen pasmyndighed offentliggør det aktuelle tal – HM Passport Office, det amerikanske udenrigsministerium, det australske paskontor, eller din nationale modpart – og det er den eneste kilde, det er værd at stole på.
+**Bemærk:** Vi angiver bevidst ingen sagsbehandlingstider her. De ændrer sig, og et tal, der er korrekt i dag, kan være forkert om få måneder. Din egen pasmyndighed offentliggør det aktuelle tal – HM Passport Office, det amerikanske udenrigsministerium, det australske paskontor, eller din nationale modpart – og det er den eneste kilde, det er værd at stole på.
 
-## Alle pasløsninger kører de samme to ruter
+## Standardbehandling og hurtigere pasfornyelse
 
-Skrab de landespecifikke blanketter væk, og systemerne følger alle samme form. Der er en standardrute, der behandler ansøgninger nogenlunde i den rækkefølge, de kommer ind, og der er som regel mindst én betalt rute, der flytter dig op i den kø. De fleste myndigheder tilbyder en hurtigere vej mod betaling; Storbritannien har 1 Week Fast Track og, for voksenfornyelser, en 1 Day Premium-service. Navnene er forskellige fra land til land; den underliggende mekanik er det ikke.
+Start med din pasmyndigheds normale sagsbehandlingstid, og tjek derefter, om der findes en hurtigere tjeneste til din situation. Storbritannien har en 1 Week Fast Track-service med levering 1 uge efter din aftale og en 1 Day Premium-service, som kun gælder fornyelse af voksenpas. Mulighederne varierer fra land til land, også med hensyn til hvem der kan bruge dem.
 
-Det er værd at være præcis om, hvad du reelt betaler for, når du betaler for hastighed, for det er let at antage, at du springer trin over. Det gør du ikke. Et hurtigere niveau køber dig en tidligere plads i køen eller en bookbar tid – det fritager dig ikke for dokumentkontrollerne, fotokravene eller den identitetsverifikation, som enhver ansøgning gennemgår. Hvis din blanket er forkert, eller dit foto ikke lever op til kravene, redder ekstra betaling den ikke. Den bringer dig blot hurtigere frem til afvisningen.
+Det er værd at være præcis om, hvad du reelt betaler for, når du betaler for hastighed. En hurtigere tjeneste har sin egen tidsramme og sine egne krav til dokumenter, fotos og identifikation. Hvis din blanket er forkert, eller dit foto ikke lever op til kravene, redder ekstra betaling den ikke.
 
 | Rute | Hvad du reelt betaler for |
 |---|---|
-| Standard | Behandlet nogenlunde i ankomstrækkefølge, uden prioritet. Standardvalget for alle uden en snart forestående rejse. |
-| Betalt expedited / fast track / prioritet | En tidligere plads i køen eller en bookbar tid foran standardpuklen. Samme berettigelsesregler og samme dokumentkontroller gælder. |
-| Personligt akutbesøg | Direkte adgang til et paskontor eller en agentur, når rejsen reelt er nært forestående. Kræver bevis for rejsedatoer, og tilbydes som regel kun, når standard- og betalingsrouterne tydeligvis ikke kan nå det i tide. |
+| Standard | Standardbehandling efter den aktuelle tidsramme, som din pasmyndighed offentliggør. |
+| Betalt expedited / fast track / prioritet | En hurtigere tjeneste, hvor den tilbydes. Hvem der kan bruge den, og hvad du skal indsende, afhænger af myndigheden og tjenesten. |
+| Personligt akutbesøg | En tid til en hasteansøgning, der opfylder kravene. Hvilken dokumentation for rejsen du eventuelt skal fremvise, afhænger af myndigheden og tjenesten. |
 
 Hvad det betyder i praksis
 
-Sig, at du rejser i et lands højsæson, og dit pas nærmer sig grænsen. At betale for den hurtigere rute køber dig sikkerhed: en tidligere plads i køen, uanset hvor lang standardpuklen er vokset til den måned. Holder du dig i stedet til standardbehandling i en travl periode, satser du på, at det offentliggjorte tidsestimat stadig afspejler virkeligheden – hvilket er præcis den antagelse, der stiller folk dårligt.
+Sig, at du rejser i et lands højsæson, og dit pas nærmer sig grænsen. En hurtigere mulighed kan hjælpe, hvis du opfylder kravene, og tidsrammen passer til din rejse. Tjek, hvornår tidsrammen begynder, og beregn tid til levering, før du vælger en tjeneste.
 
 Ét forbehold: berettigelse til de hurtigere ruter afhænger som regel af din situation, ikke kun af din vilje til at betale. Storbritanniens [1 Day Premium-service](https://www.gov.uk/get-a-passport-urgently) gælder kun voksenfornyelser, med tidligste tid 2 dage efter din ansøgning. Tjek berettigelsesreglerne, før du antager, at en rute er åben for dig – find ikke ud af det ved skranken.
 
@@ -66,15 +66,15 @@ Vær forsigtig med at låne andres tidslinje. En ven, der fornyede hurtigt sidst
 
 Det er den del, vi bevidst overlader til dem, der reelt driver systemet. I Storbritannien er det HM Passport Office. I USA er det udenrigsministeriet. I Australien er det det australske paskontor. I Canada er det Immigration, Refugees and Citizenship Canada, sammen med Service Canada for personlige ansøgninger. De fleste andre lande offentliggør et tilsvarende tal gennem deres egen nationale pas- eller udenrigsmyndighed.
 
-Lidt kontekst hjælper dig med at bruge det tal korrekt. HM Passport Office kører en digital tjeneste for berettigede voksne, der ansøger inde fra Storbritannien; alle, der ansøger fra udlandet, bruger i stedet en separat tjeneste for ansøgninger fra udlandet. [Canada tilbyder onlinefornyelse](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html), hvis du først skal bruge passet om 20 hverdage eller mere; alle andre følger papiransøgningsprocessen. For USA og Australien skal du tjekke den officielle hjemmeside for aktuelle adgangskrav og indleveringsmuligheder. Uanset hvor du ansøger, skal du lægge posttid oveni det, IRCC offentliggør. Disse myndigheder er værd at stole på, fordi deres tal følger den reelle, aktuelle ansøgningsmængde, ikke et forældet gennemsnit – tjek umiddelbart før du ansøger, ikke uger i forvejen.
+Lidt kontekst hjælper dig med at bruge det tal korrekt. HM Passport Office kører en digital tjeneste for berettigede voksne, der ansøger inde fra Storbritannien; alle, der ansøger fra udlandet, bruger i stedet en separat tjeneste for ansøgninger fra udlandet. [Canada tilbyder onlinefornyelse](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html) til ansøgere, der opfylder kravene og ikke skal rejse inden for de næste 20 hverdage, men det er kun én af betingelserne for at ansøge online. For USA og Australien skal du tjekke den officielle hjemmeside for aktuelle adgangskrav og indleveringsmuligheder. Uanset hvor du ansøger, skal du lægge posttid oveni det, IRCC offentliggør. Tjek umiddelbart før du ansøger, ikke uger i forvejen.
 
 ## Kan du rejse, mens dit pas bliver fornyet?
 
-Nogle gange – forudsat at dit nuværende pas stadig er gyldigt, og du ikke fysisk har afleveret det som en del af ansøgningen. Nogle myndigheder kræver dit nuværende pas sammen med ansøgningen, så tjek din egen myndigheds regler, før du booker; når du har sendt det gamle ind, må du vente. Det ene forbehold, det er værd at nævne: et visum er knyttet til det pas, det er stemplet i, så tjek destinationens regler, før du flyver.
+Nogle gange – forudsat at dit nuværende pas stadig er gyldigt, og du ikke fysisk har afleveret det som en del af ansøgningen. Nogle myndigheder kræver dit nuværende pas sammen med ansøgningen; andre lader dig fortsætte med at bruge det, mens de behandler ansøgningen, og annullerer det, når det nye pas er udstedt. Tjek din egen myndigheds regler, før du booker eller rejser; når du har sendt det gamle ind, må du vente. Det ene forbehold, det er værd at nævne: et visum er knyttet til det pas, det er stemplet i, så tjek destinationens regler, før du flyver.
 
 ## Er rejsen nært forestående, så handl på alle fronter på én gang
 
-Du har booket rejse snart, og dit pas er ved at udløbe. Gå ikke i panik, men handl hurtigt: ring direkte til din pasmyndighed i stedet for blot at browse på hjemmesiden, da de fleste myndigheder har hastemuligheder med bestemte adgangskrav, som en medarbejder kan guide dig igennem (de britiske kan ikke bruges, hvis du ansøger fra udlandet). Saml dine dokumenter først – bevis for nært forestående rejse, dit nuværende pas, fotos og udfyldte blanketter – da hastende tider bookes hurtigt, når de først er tilgængelige. Tjek også din rejseforsikring; nogle dækker ekstra omkostninger fra en hastende fornyelse, selvom de fleste udelukker situationer, hvor fornyelsen var forudsigelig. Og det koster ikke noget at spørge dit flyselskab eller hotel om ombooking, selvom der ikke er nogen garanti for, at de vil give afkald på gebyret.
+Du har booket rejse snart, og dit pas er ved at udløbe. Gå ikke i panik, men handl hurtigt: tjek din pasmyndigheds hastetjeneste. I Storbritannien bookes tider til hastesager online, hvis du opfylder kravene; er du uden for Storbritannien, skal du i stedet ansøge om et nødrejsedokument. Saml dine dokumenter først – bevis for nært forestående rejse, dit nuværende pas, fotos og udfyldte blanketter – da hastende tider bookes hurtigt, når de først er tilgængelige. Tjek også din rejseforsikring; nogle dækker ekstra omkostninger fra en hastende fornyelse, selvom de fleste udelukker situationer, hvor fornyelsen var forudsigelig. Og det koster ikke noget at spørge dit flyselskab eller hotel om ombooking, selvom der ikke er nogen garanti for, at de vil give afkald på gebyret.
 
 **Den bedste løsning er at undgå situationen helt.** Hvis du administrerer pas for flere familiemedlemmer, lader en app som [Travel Document Vault](https://apps.apple.com/app/apple-store/id6757014877?pt=128401792&ct=blog&mt=8) dig tilføje hele familien med Pro. Gem udløbsdatoerne, så hjælper påmindelser dig med at planlægge fornyelser. Se flere [tips om rejsedokumenter](https://traveldocumentvault.com/da/blog/) på denne blog for strategier, der holder alting i orden. Endnu en ting værd at læse: [6-måneders-reglen for pas](https://traveldocumentvault.com/da/blog/passport-expiry-6-month-rule/). Et nyfornyet pas skal stadig leve op til din destinations gyldighedskrav, og mange rejsende bliver taget på sengen af det.
 
@@ -91,27 +91,27 @@ Officielle kilder
 
 ### Hvor lang tid tager en pasfornyelse i USA?
 
-Vi kan ikke give dig et fast tal her, fordi det amerikanske udenrigsministeriums sagsbehandlingstider skifter med efterspørgsel og bemanding hen over året. Rutinebehandling er standardkøen; at betale for expedited service flytter dig op i den kø i stedet for at springe kontroller over. Hvis din rejse reelt er nært forestående, kan du kvalificere til en personlig aftale hos et regionalt paskontor, men du skal medbringe bevis for rejsen. Tjek travel.state.gov for det aktuelle tal, før du ansøger.
+Vi kan ikke give dig et fast tal her, fordi sagsbehandlingstiderne for amerikanske pas varierer. Der kan være mulighed for hurtigere behandling. Hvis din rejse reelt er nært forestående, så tjek udenrigsministeriets aktuelle kriterier for tider til haste- og nødsager, og hvilken dokumentation du skal bruge. Tjek travel.state.gov for det aktuelle tal, før du ansøger.
 
 ### Hvor lang tid tager en pasfornyelse i Storbritannien?
 
-HM Passport Office offentliggør sin egen aktuelle sagsbehandlingstid, og den ændrer sig ofte nok til, at et tal her sandsynligvis ville være forkert, når du læser dette. Berettigede voksne, der ansøger inde fra Storbritannien, kan bruge den digitale fornyelsestjeneste, som slipper for at poste passet, men stadig kræver [et foto, der lever op til de officielle krav](https://traveldocumentvault.com/da/blog/passport-photo-at-home/). Hvis du ansøger uden for Storbritannien, bruger du i stedet tjenesten for ansøgninger fra udlandet. Til hastesager kører HM Passport Office en 1 Week Fast Track-service og, kun for voksenfornyelser, en 1 Day Premium-service med tider fra 2 dage efter din ansøgning. Tjek GOV.UK for det tal, der gælder for din situation.
+HM Passport Office offentliggør sin egen aktuelle sagsbehandlingstid, og den ændrer sig ofte nok til, at et tal her sandsynligvis ville være forkert, når du læser dette. Berettigede voksne, der ansøger inde fra Storbritannien, kan bruge den digitale fornyelsestjeneste med [et foto, der lever op til de officielle krav](https://traveldocumentvault.com/da/blog/passport-photo-at-home/). Du skal stadig sende dit gamle pas ind. Hvis du ansøger uden for Storbritannien, bruger du i stedet tjenesten for ansøgninger fra udlandet. Til hastesager kører HM Passport Office en 1 Week Fast Track-service med levering 1 uge efter din aftale og, kun for voksenfornyelser, en 1 Day Premium-service med tider fra 2 dage efter din ansøgning. Tjek GOV.UK for det tal, der gælder for din situation.
 
 ### Hvor lang tid tager en pasfornyelse i Australien?
 
-Det australske paskontor er den eneste pålidelige kilde til aktuelle tider, da de følger ansøgningsmængde og årstid. Australien kan tilbyde hurtigere behandling mod et gebyr, så tjek passports.gov.au for de aktuelle muligheder. Uanset hvilken rute du bruger, så ansøg så tidligt, du rimeligt kan – højsæson presser standardkøen længere ud, end den offentliggjorte vejledning ofte afspejler. Tjek passports.gov.au, før du ansøger.
+Det australske paskontor er den eneste pålidelige kilde til aktuelle tider. Hurtigere muligheder afhænger af, hvor du ansøger. Ifølge Australiens højkommissariat i London tilbydes der hverken prioriteret behandling eller fast-track-service, når du ansøger uden for Australien. Uanset hvilken rute du bruger, så ansøg så tidligt, du rimeligt kan. Tjek passports.gov.au, før du ansøger.
 
 ### Kan jeg forny mit pas online?
 
-USA tilbyder onlinefornyelse til berettigede voksne – tjek travel.state.gov for aktuel berettigelse. Storbritannien tilbyder en digital tjeneste for berettigede voksne, der ansøger inde fra Storbritannien; alle, der ansøger fra udlandet, skal bruge en separat tjeneste. Canada tilbyder onlinefornyelse, hvis du først skal bruge passet om 20 hverdage eller mere; alle andre følger papiransøgningsprocessen. For Australien skal du tjekke passports.gov.au for indleveringsmuligheder. Berettigelsesreglerne ændrer sig, så tjek dit lands officielle hjemmeside, før du antager, at du kvalificerer.
+USA tilbyder onlinefornyelse til berettigede voksne – tjek travel.state.gov for aktuel berettigelse. Storbritannien tilbyder en digital tjeneste for berettigede voksne, der ansøger inde fra Storbritannien; alle, der ansøger fra udlandet, skal bruge en separat tjeneste. Canada tilbyder onlinefornyelse til ansøgere, der opfylder kravene og ikke skal rejse inden for de næste 20 hverdage, men det er kun én af betingelserne for at ansøge online. For Australien skal du tjekke passports.gov.au for indleveringsmuligheder. Berettigelsesreglerne ændrer sig, så tjek dit lands officielle hjemmeside, før du antager, at du kvalificerer.
 
 ### Hvad skal jeg gøre, hvis mit pas er ved at udløbe, og jeg har booket rejse?
 
-Ansøg, så snart du ved, der er et problem, og betal for den hurtigste rute, din myndighed tilbyder. Hvis din rejse er tæt nok på, at du er bekymret for, at standardtidslinjen ikke når det, så ring direkte til din pasmyndighed i stedet for at stole på hjemmesiden – de fleste myndigheder har hastetider med bestemte adgangskrav (de britiske kan ikke bruges fra udlandet), og du skal som regel spørge om dem telefonisk. Vent ikke for at se, om standardprocessen tilfældigvis indhenter det.
+Ansøg, så snart du ved, der er et problem, og betal for den hurtigste rute, din myndighed tilbyder. Hvis din rejse er tæt nok på, at du er bekymret for, at standardtidslinjen ikke når det, så tjek din pasmyndigheds hastetjeneste. I Storbritannien bookes tider til hastesager online, hvis du opfylder kravene; er du uden for Storbritannien, skal du i stedet ansøge om et nødrejsedokument. Vent ikke for at se, om standardprocessen tilfældigvis indhenter det.
 
 ### Kan jeg rejse, mens min pasfornyelse er i gang?
 
-Nogle gange – forudsat at dit nuværende pas stadig er gyldigt, og du ikke fysisk har afleveret det som en del af fornyelsesprocessen. Nogle myndigheder beder dig sende dit nuværende pas med ansøgningen, så tjek din egen myndigheds regler, før du booker. Når du har afleveret dit gamle pas til ansøgningen, må du vente på det nye. Tjek altid med din egen pasmyndighed, og overvej eventuelle visumkonsekvenser, før du rejser på dit nuværende pas.
+Nogle gange – forudsat at dit nuværende pas stadig er gyldigt, og du ikke fysisk har afleveret det som en del af fornyelsesprocessen. Nogle myndigheder beder dig sende dit nuværende pas med ansøgningen; andre lader dig fortsætte med at bruge det, mens de behandler ansøgningen, og annullerer det, når det nye pas er udstedt. Tjek din egen myndigheds regler, før du booker eller rejser. Når du har afleveret dit gamle pas til ansøgningen, må du vente på det nye. Tjek altid med din egen pasmyndighed, og overvej eventuelle visumkonsekvenser, før du rejser på dit nuværende pas.
 
 ## Relaterede artikler
 

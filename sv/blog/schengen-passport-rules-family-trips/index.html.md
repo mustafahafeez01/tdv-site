@@ -1,6 +1,6 @@
 # Schengens passregler för familjeresor: det här missar föräldrar
 
-> Schengen kräver 3 månaders giltighet efter avresa, inte 6 - och barns pass går ut efter 5 år. Det här bör familjer kolla samma dag de bokar.
+> Schengen kräver 3 månaders giltighet efter avresa, inte 6 – och brittiska barnpass gäller i 5 år. Det här bör familjer kolla samma dag de bokar.
 
 Source: https://traveldocumentvault.com/sv/blog/schengen-passport-rules-family-trips/
 
@@ -10,33 +10,33 @@ Source: https://traveldocumentvault.com/sv/blog/schengen-passport-rules-family-t
 
 ## Viktiga punkter
 
-- Den verkliga Schengenregeln är **3 månaders giltighet efter det datum du lämnar området**, plus ett pass utfärdat inom de senaste 10 åren – det är inte "6-månadersregeln".
-- **Barns pass går ut efter 5 år**, så en familjs pass hamnar i otakt med varandra, och det tidigaste utgångsdatumet avgör resan.
+- De här reglerna gäller besökare från länder utanför EU på korta vistelser, till exempel brittiska familjer på semester. Schengen kräver i regel **3 månaders giltighet efter det datum du lämnar området**, plus ett pass utfärdat inom de senaste 10 åren – det är inte "6-månadersregeln".
+- **Brittiska barnpass går ut efter 5 år**, så en familjs pass hamnar i otakt med varandra, och det tidigaste utgångsdatumet avgör resan.
 - Brittiska pass utfärdade före oktober 2018 **med extra bonusmånader** kan misslyckas med 10-årstestet även om häftet fortfarande ser giltigt ut.
 - Flygbolag kontrollerar i regel passen mot **IATA:s Timatic-databas** vid incheckningen, och ett underkänt pass kan stoppa hela familjen.
 - **Granska varje pass samma dag du bokar**, inte veckan du reser. Fem minuter vid bokningstillfället är hela lösningen.
 
-Att boka en familjeresa till Europa börjar oftast på samma sätt: du kollar ditt eget pass, ser att det finns flera års giltighet kvar, och bekräftar bokningen. Fällan kommer veckor senare, när någon äntligen öppnar lådan och upptäcker att ett barns pass – utfärdat på en kortare klocka än ditt eget – går ut tidigare än någon trodde. Ingen skickar föräldrar ett varningsbrev om det här. Incheckningsdisken levererar nyheten i stället.
+Att boka en familjeresa till Europa börjar oftast på samma sätt: du kollar ditt eget pass, ser att det finns flera års giltighet kvar, och bekräftar bokningen. Fällan kommer veckor senare, när någon äntligen öppnar lådan och upptäcker att ett brittiskt barnpass – som gäller kortare tid än ett brittiskt vuxenpass – går ut tidigare än någon trodde. Ingen skickar föräldrar ett varningsbrev om det här. Incheckningsdisken levererar nyheten i stället.
 
-Två regler och en egenhet hos barnpass förklarar nästan alla familjers Schengenproblem, och alla tre kan kontrolleras på fem minuter samma dag du bokar.
+Två regler och en egenhet hos brittiska barnpass förklarar nästan alla familjers Schengenproblem, och alla tre kan kontrolleras på fem minuter samma dag du bokar.
 
-## Den verkliga Schengenregeln: 3 månader efter avresa
+## Schengens regel: 3 månader efter avresa
 
-EU:s krav är precist: [ditt pass måste vara giltigt i minst 3 månader efter det datum du avser lämna Schengenområdet](https://www.gov.uk/foreign-travel-advice/france/entry-requirements), och det måste ha utfärdats inom de föregående 10 åren.
+EU:s allmänna krav är: [ditt pass måste vara giltigt i minst 3 månader efter det datum du avser lämna Schengenområdet](https://www.gov.uk/foreign-travel-advice/france/entry-requirements), och det måste ha utfärdats inom de föregående 10 åren.
 
-Föreställ dig att din familj återvänder från Italien den 20 augusti. Varje pass behöver giltighet till ungefär den 20 november – det är tre månader efter ditt avresedatum, inte ditt ankomstdatum, och inte ditt bokningsdatum. Ett pass som går ut den 10 november klarar inte det testet, även om själva semestern tar slut veckor tidigare.
+Föreställ dig att din familj återvänder från Italien den 20 augusti. Varje pass behöver i regel vara giltigt till ungefär den 20 november – det är tre månader efter ditt avresedatum, inte ditt ankomstdatum, och inte ditt bokningsdatum. Ett pass som går ut den 10 november klarar inte det testet, även om själva semestern tar slut veckor tidigare.
 
-Villkoret om utfärdande inom 10 år drabbar brittiska familjer på ett särskilt sätt. Äldre brittiska pass kunde ha extra outnyttjade månader tillagda från ett tidigare pass, så vissa häften visar mer än 10 år mellan utfärdande och utgångsdatum. Vid inresa i Schengenområdet räknas inte de extra månaderna: passet måste vara under 10 år gammalt den dag du reser in, oavsett vilket utgångsdatum som står tryckt inuti.
+Villkoret om utfärdande inom 10 år drabbar brittiska familjer på ett särskilt sätt. Äldre brittiska pass kunde ha extra outnyttjade månader tillagda från ett tidigare pass, så vissa häften visar mer än 10 år mellan utfärdande och utgångsdatum. De extra månaderna räknas i regel inte: passet måste vara under 10 år gammalt den dag du reser in, oavsett vilket utgångsdatum som står tryckt inuti.
 
 ## Varför det här inte är 6-månadersregeln
 
-De flesta resenärer har tagit till sig tanken att pass behöver sex månaders giltighet för att kunna resa någonstans. Den regeln är verklig – [Thailand kräver sex månaders giltighet](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), och många andra länder tillämpar en version av den. Men Schengen gör det inte. Europa kräver tre månader efter avresa, vilket är mildare, och ändå blandas de två ihop till ett vagt "sex månader från något håll" som skapar både falskt alarm och falsk trygghet.
+De flesta resenärer har tagit till sig tanken att pass behöver sex månaders giltighet för att kunna resa någonstans. Den regeln är verklig – [Thailand kräver sex månaders giltighet](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), och många andra länder tillämpar en version av den. Men Schengen gör det inte. Schengen kräver i regel tre månader efter avresa, vilket är mildare, och ändå blandas de två ihop till ett vagt "sex månader från något håll" som skapar både falskt alarm och falsk trygghet.
 
 Vår guide till [6-månadersregeln](https://traveldocumentvault.com/sv/blog/passport-expiry-6-month-rule/) går igenom vilka länder som faktiskt tillämpar den. Vår [förklaring av passgiltighet](https://traveldocumentvault.com/sv/blog/how-long-is-passport-valid-for-travel/) täcker det allmänna fallet. Här håller vi oss till Schengen, eftersom det är där familjer oftast räknar fel på ett subtilt sätt.
 
 ![Diagram över en familjs fyra passutgångsdatum i ordning: barn 2 giltigt till 2027, barn 1 till 2028, mamma till 2030, pappa till 2032; det tidigaste datumet avgör resan, barnpass gäller 5 år inte 10, och Schengen vill ha 3 månader kvar efter att du lämnar området](https://traveldocumentvault.com/blog/schengen-passport-rules-family-trips/family-expiry-dates-figure-sv.jpg) Fyra pass, fyra klockor - och den kortaste sätter familjens verkliga deadline.
 
-## Barnpass går på en snabbare klocka
+## Brittiska barnpass går ut tidigare
 
 [Brittiska vuxenpass gäller i 10 år](https://www.gov.uk/apply-first-adult-passport), medan [Storbritannien utfärdar barnpass för bara fem år](https://www.gov.uk/get-a-child-passport). Den asymmetrin är där annars omsorgsfulla planer går snett.
 
@@ -46,9 +46,9 @@ Vår guide till [6-månadersregeln](https://traveldocumentvault.com/sv/blog/pass
 
 Källa för brittiska pass: GOV.UK.
 
-En familj på fyra personer arbetar därför med fyra olika utgångsscheman. Det tidigaste datumet avgör om resan över huvud taget blir av. Två vuxna som förnyar tillsammans kommer att glida isär från sina barns handlingar inom några år – vilket är precis varför det att kolla ditt eget pass säger nästan ingenting om familjens beredskap.
+En brittisk familj på fyra personer arbetar därför med fyra olika utgångsscheman. Det tidigaste datumet avgör om resan över huvud taget blir av. Två vuxna som förnyar tillsammans kommer att glida isär från sina barns handlingar inom några år – vilket är precis varför det att kolla ditt eget pass säger nästan ingenting om familjens beredskap.
 
-För amerikanska familjer finns en extra komplikation: en förnyelse av ett barns pass kan kräva en personlig ansökan och ta flera veckor, så kontrollera passmyndighetens aktuella regler och handläggningstider innan du bokar. Det är hanterbart i mars men blir ett verkligt problem två veckor före avresa. Brittiska familjer har det något enklare: kolla bara aktuella handläggningstider innan bokning och räkna med extra tid om mer information behövs.
+För amerikanska familjer finns en extra komplikation: en förnyelse av ett barns pass kan kräva en personlig ansökan och ta flera veckor, så kontrollera passmyndighetens aktuella regler och handläggningstider innan du bokar. Det är hanterbart i mars men blir ett verkligt problem två veckor före avresa. Brittiska familjer har det något enklare: ta reda på aktuella handläggningstider innan bokning och räkna med extra tid om mer information behövs.
 
 ## Verkligheten vid incheckning: Timatic rundar inte av
 
@@ -58,9 +58,9 @@ Ett underkänt pass stannar sällan bara en person; det stoppar hela familjen. F
 
 ## Granska varje pass samma dag som du bokar
 
-Lösningen är enkel och tar bara några minuter. Samma dag du bokar samlar du in alla pass i hushållet och antecknar varje utgångsdatum och utfärdandedatum. Ställ sedan två frågor för varje pass: kommer det fortfarande vara giltigt tre månader efter din hemresa, och utfärdades det för mindre än tio år sedan? Allt som misslyckas med endera testet går in i förnyelsekön samma vecka – då kan du fortfarande förnya, planera om resan eller flytta datumen utan påföljd, och vi skulle alltid välja att förnya i stället för att vänta och se om datumen flyttar sig.
+Lösningen är enkel och tar bara några minuter. Samma dag du bokar samlar du in alla pass i hushållet och antecknar varje utgångsdatum och utfärdandedatum. Ställ två frågor för varje pass: kommer det fortfarande vara giltigt tre månader efter din hemresa, och kommer det att vara mindre än tio år gammalt när du reser in? Allt som misslyckas med endera testet går in i förnyelsekön samma vecka – då kan du fortfarande förnya, planera om resan eller flytta datumen utan påföljd, och vi skulle alltid välja att förnya i stället för att vänta och se om datumen flyttar sig.
 
-Barn behöver samma marginal som vuxna. Det finns inget barnundantag från giltighetsreglerna – ett femårigt barns pass får samma Timatic-behandling som ditt eget. En sidonotering för brittiska och irländska resor: Irland ingår inte i Schengen alls. Resor mellan Storbritannien och Irland går under det [separata Common Travel Area-avtalet](https://www.gov.uk/foreign-travel-advice/ireland/entry-requirements), så dra inga generella slutsatser från en resa till Dublin baserat på en resa till Paris.
+Barn behöver i regel samma marginal för passets giltighet som vuxna. En sidonotering för brittiska och irländska resor: Irland ingår inte i Schengen alls. Resor mellan Storbritannien och Irland går under det [separata Common Travel Area-avtalet](https://www.gov.uk/foreign-travel-advice/ireland/entry-requirements), så dra inga generella slutsatser från en resa till Dublin baserat på en resa till Paris.
 
 Inget av det här kräver en app. Ett kalkylblad hjälper gott och väl de flesta familjer, och en kalenderpåminnelse två gånger om året sköter det mesta av jobbet. Det enda som inte går att kompromissa med: gör granskningen vid bokningstillfället, när ett kort pass fortfarande är ett ärende, inte en nödsituation.
 
@@ -80,15 +80,15 @@ Officiella källor
 
 ### Vad är skillnaden mellan 6-månadersregeln och Schengens 3-månadersregel?
 
-Det är separata regler för olika destinationer. Länder som Thailand och [Indonesien](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements) vill i allmänhet ha 6 månaders kvarvarande giltighet. Schengen kräver 3 månaders giltighet efter det datum du lämnar området, plus ett pass utfärdat inom de senaste 10 åren. Familjer som har rest till Sydostasien antar ofta att 6-månaderssiffran gäller överallt – det gör den inte.
+Det är separata regler för olika destinationer. Länder som Thailand och [Indonesien](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements) vill i allmänhet ha 6 månaders kvarvarande giltighet. För besökare från länder utanför EU på korta vistelser kräver Schengen i regel 3 månaders giltighet efter det datum du lämnar området, plus ett pass utfärdat inom de senaste 10 åren. Familjer som har rest till Sydostasien antar ofta att 6-månaderssiffran gäller överallt – det gör den inte.
 
 ### Följer barn andra Schengen-passregler?
 
-Nej. Barn behöver samma 3 månaders giltighet efter avresa och samma villkor om utfärdande inom 10 år som vuxna. Det som skiljer sig är själva passet: många länder, däribland Storbritannien, utfärdar barnpass för 5 år i stället för 10, så ett barns handling når de gränserna mycket tidigare än en förälders.
+Barn behöver i regel samma 3 månaders giltighet efter avresa och samma villkor om utfärdande inom 10 år som vuxna. Det som skiljer sig är själva passet: Storbritannien utfärdar barnpass för 5 år, jämfört med 10 år för brittiska vuxenpass.
 
 ### När bör vi förnya ett barns pass inför en resa?
 
-Så snart du bokar, kolla om passet fortfarande kommer ha 3 månaders giltighet efter ditt returdatum. Om inte, börja direkt. Kolla aktuella brittiska handläggningstider och räkna med extra tid om ansökan behöver mer information. Kontrollera din passmyndighets aktuella handläggningstider.
+Så snart du bokar, se om ditt barns pass fortfarande kommer att ha 3 månaders giltighet efter ditt returdatum. Om inte, börja direkt. Kontrollera din passmyndighets aktuella handläggningstider, de brittiska om du ansöker om ett brittiskt pass, och räkna med extra tid om ansökan behöver mer information.
 
 ### Kan vi flyga medan ett barns passförnyelse pågår?
 

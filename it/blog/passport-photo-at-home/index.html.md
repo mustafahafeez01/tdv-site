@@ -1,6 +1,6 @@
 # Regole per la Foto Passaporto: Dimensioni, Occhiali e Come Scattarla a Casa
 
-> Le regole della foto passaporto che portano al rifiuto: dimensioni, occhiali, sfondo e luce. Come scattarne una conforme a casa col telefono.
+> Foto passaporto: dimensioni, occhiali, sfondo e luce per evitare il rifiuto, e come scattarla a casa se il tuo paese lo consente.
 
 Source: https://traveldocumentvault.com/it/blog/passport-photo-at-home/
 
@@ -10,25 +10,25 @@ Source: https://traveldocumentvault.com/it/blog/passport-photo-at-home/
 
 ## Punti Chiave
 
-- Usa uno sfondo chiaro e uniforme nella tonalità richiesta dalla tua autorità, un'espressione neutra, con occhi aperti e sguardo dritto davanti
+- Usa uno sfondo chiaro e uniforme nella tonalità richiesta dalla tua autorità, un'espressione neutra, con occhi aperti e sguardo dritto davanti, con eccezioni per i bambini piccoli
 - I requisiti di dimensione variano in base al paese e vengono applicati rigorosamente. Alcune autorità specificano millimetri, altre pollici. Prendi le misure esatte dal tuo ente passaporti anziché da un riassunto qualsiasi
 - La luce naturale delle finestre funziona meglio — evita le ombre dure e non usare il flash
 - Molte autorità, inclusa quella britannica, chiedono di non indossare occhiali a meno che non sia necessario — controlla i requisiti attuali
-- I motivi di rifiuto comuni includono ombre, dimensioni sbagliate, sorriso, foto sfocate e sfondi impropri
+- Le foto possono essere rifiutate se non rispettano le regole della tua autorità su illuminazione, dimensioni, espressione, nitidezza o sfondo
 
-Una foto scattata a casa viene accettata con la stessa facilità di una scattata in cabina, purché rispetti la stessa breve lista di regole. La maggior parte dei rifiuti si riduce a tre cose: ombra sul viso o sullo sfondo, la testa di dimensioni sbagliate nell'inquadratura, e gli occhiali. Sistema questi punti e il resto è semplice.
+Secondo GOV.UK, le foto scattate in cabina o in negozio hanno maggiori probabilità di essere approvate rispetto a quelle scattate con il proprio dispositivo. Le foto possono essere rifiutate se non rispettano le regole della tua autorità su illuminazione, dimensioni, espressione, nitidezza o sfondo.
 
-## La Maggior Parte dei Paesi Condivide gli Stessi Requisiti di Base per la Foto
+## I requisiti per le foto variano in base all'autorità
 
-Anche se le regole specifiche variano a seconda dell'autorità passaporti, la maggior parte dei paesi condivide i requisiti fondamentali per le foto passaporto. Se li conosci, sei a posto qualunque sia il paese che ha emesso il tuo passaporto.
+I requisiti per le foto variano in base all'autorità passaporti, al formato della domanda e all'età.
 
 ### Sfondo e Composizione
 
-Hai bisogno di uno sfondo chiaro e uniforme, e la tonalità esatta dipende dalla tua autorità: [GOV.UK](https://www.gov.uk/photos-for-passports) chiede crema o grigio chiaro, mentre il [Government of Canada](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/photos.html) chiede bianco o un colore chiaro. Nessun motivo, ombre, sfondi sfocati o colori intensi. Il motivo è semplice: chi controlla deve vedere bene il tuo viso per confrontarlo con i documenti futuri. Usa un lenzuolo o un cartoncino uniforme nella tonalità richiesta dalla tua autorità (crema o grigio chiaro per il Regno Unito), oppure dipingi una piccola sezione di muro. L'importante è che sia luminoso e uniforme dappertutto.
+Hai bisogno di uno sfondo chiaro e uniforme, e la tonalità esatta dipende dalla tua autorità: [GOV.UK](https://www.gov.uk/photos-for-passports) richiede in genere crema o grigio chiaro per le foto stampate, mentre il [Government of Canada](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/photos.html) chiede bianco o un colore chiaro. Nessun motivo, ombre, sfondi sfocati o colori intensi. Il motivo è semplice: chi controlla deve vedere bene il tuo viso per confrontarlo con i documenti futuri. Usa un lenzuolo o un cartoncino uniforme nella tonalità richiesta dalla tua autorità (crema o grigio chiaro per le foto stampate nel Regno Unito), oppure dipingi una piccola sezione di muro. L'importante è che sia luminoso e uniforme dappertutto.
 
 ### Espressione e Postura
 
-Il tuo viso deve riempire il fotogramma nella proporzione specificata dalla tua autorità passaporti, con occhi aperti e chiaramente visibili — la maggior parte dei paesi vieta il sorriso, e se strizzi gli occhi la foto viene scartata. Guarda dritto davanti alla fotocamera con un'espressione neutra, inclinando leggermente la testa se questo ti sembra più naturale, ma generalmente mantenendo la testa quadrata rispetto all'obiettivo. Meglio se le orecchie si vedono da entrambi i lati.
+Il tuo viso deve in genere riempire il fotogramma nella proporzione specificata dalla tua autorità passaporti, con occhi aperti e chiaramente visibili. GOV.UK prevede eccezioni alle regole sull'espressione per i bambini sotto i 6 anni e a quelle sugli occhi aperti per i bambini sotto un anno. Guarda dritto davanti alla fotocamera con un'espressione neutra, inclinando leggermente la testa se questo ti sembra più naturale, ma generalmente mantenendo la testa quadrata rispetto all'obiettivo. Meglio se le orecchie si vedono da entrambi i lati.
 
 ## Puoi Indossare gli Occhiali nella Foto del Passaporto?
 
@@ -44,7 +44,7 @@ Le presentazioni digitali sostituiscono i millimetri con i pixel, e ogni autorit
 
 ### Specifiche Ufficiali di Dimensione per Paese
 
-La dimensione è dove la maggior parte delle persone inciampa — se la tua foto non corrisponde alle specifiche del tuo paese, il rifiuto è quasi certo. Ogni paese stabilisce le proprie dimensioni, e quelle regole vengono riviste di tanto in tanto, quindi le uniche figure che valgono la pena di fidarsi sono quelle sul sito della tua autorità passaporti nel giorno in cui presenti.
+Le dimensioni contano: la tua foto può essere rifiutata se non corrisponde alle specifiche del tuo paese. Ogni paese stabilisce le proprie dimensioni, e quelle regole vengono riviste di tanto in tanto, quindi le uniche figure che valgono la pena di fidarsi sono quelle sul sito della tua autorità passaporti nel giorno in cui presenti.
 
 I requisiti differiscono da paese a paese, e alcuni sono specificati in pollici piuttosto che in millimetri. Qui non riportiamo i numeri di proposito: un numero copiato in un articolo di blog può invecchiare senza che nessuno se ne accorga. Vai direttamente alla tua autorità invece.
 
@@ -55,7 +55,7 @@ I requisiti differiscono da paese a paese, e alcuni sono specificati in pollici 
 | Australia | guida foto Ufficio Passaporti Australiano |
 | Canada | foto passaporto Governo del Canada |
 
-Queste specifiche sono esatte — anche pochi millimetri di scostamento significano rifiuto. La foto grezza dello smartphone sarà di solito molto più grande di quella che devi presentare, che è il motivo per cui esistono le app di ritaglio. Gli strumenti gratuiti o a basso costo disponibili su iOS e Android ti permettono di inserire il tuo paese e ridimensionare automaticamente alla specifica esatta.
+GOV.UK indica di non ritagliare le foto digitali scattate con il proprio dispositivo; per il Regno Unito, le foto stampate in genere non devono essere ricavate ritagliando un'immagine più grande.
 
 ### Confronto dei Metodi di Presentazione Foto
 
@@ -63,21 +63,21 @@ Hai diverse opzioni per consegnare la tua foto passaporto all'autorità passapor
 
 | Metodo | Costo | Rischio di Accettazione | Comodità | Guida Ufficiale |
 |---|---|---|---|---|
-| DIY a casa (smartphone + app di ritaglio) | Gratuito o quasi | Più alto se perdi l'illuminazione o le specifiche di dimensione | Molto alta — immediato | Controlla il sito della tua autorità |
-| Farmacia o drogheria locale | Una modesta tassa | Basso — i professionisti qualificati verificano | Medio — servizio nello stesso giorno tipico | Ampiamente utilizzato e generalmente affidabile — controlla comunque i requisiti foto della tua autorità |
-| Ufficio Postale (Regno Unito e altri) | Una modesta tassa | Basso — scattato in casa, controllato | Medio — richiede visita e appuntamento | Controlla il sito della tua autorità |
-| Servizi online (ad es. Passport Photo Online) | Una modesta tassa | Medio — presentazione digitale, feedback fornito | Alta — da casa, consegna digitale | Non ufficiale ma ampiamente utilizzato — controlla se il tuo paese accetta caricamenti pre-ritagliati |
-| Studio fotografico professionale | L'opzione più costosa | Basso — illuminazione e composizione esperte | Basso — richiede appuntamento | Rischio minimo, ma la foto deve comunque rispettare le regole della tua autorità |
+| Foto a casa, se la tua autorità lo consente | Considera attrezzatura e stampa | GOV.UK consente in genere foto digitali scattate con il proprio dispositivo; il Canada richiede in genere un fotografo professionista | A casa, dove consentito | Controlla il sito della tua autorità |
+| Farmacia o drogheria locale | Chiedi al fornitore quali sono i costi | Chiedi se il personale segue le regole della tua autorità per le foto | Informati su orari e tempi del servizio | Chiedi al fornitore di seguire le regole della tua autorità passaporti per le foto |
+| Servizio digitale Check and Send di Post Office nel Regno Unito | Chiedi al fornitore quali sono i costi | GOV.UK precisa che Check and Send non garantisce il buon esito della domanda | Recati in una filiale aderente; informati sulle modalità locali | GOV.UK: il servizio digitale Check and Send include lo scatto della foto |
+| Servizio fotografico commerciale online, se la tua autorità lo consente | Chiedi al fornitore quali sono i costi | La foto deve in genere rispettare le regole della tua autorità | Informati su formato di consegna e tempi del servizio | GOV.UK indica di non ritagliare le foto digitali scattate con il proprio dispositivo |
+| Studio fotografico professionale | Chiedi allo studio quali sono i costi | Richiedi foto che rispettino le regole della tua autorità | Chiedi se serve un appuntamento | La foto deve in genere rispettare le regole della tua autorità |
 
 ## Illuminazione e Qualità dell'Immagine
 
-Se sbagli l'illuminazione, il rifiuto è quasi certo. Le ombre sul viso, l'illuminazione non uniforme o le aree sovraesposte intorno al viso disqualificano tutte la foto.
+I problemi di illuminazione possono portare al rifiuto. Le ombre sul viso, l'illuminazione non uniforme o le aree sovraesposte intorno al viso possono rendere la foto non idonea.
 
 ### Migliori Pratiche di Illuminazione
 
 La luce delle finestre è la tua migliore opzione. Posizionati perpendicolarmente alla finestra per un'illuminazione uniforme sul viso e per evitare ombre dure sotto gli occhi o lungo un lato. Le giornate nuvolose funzionano particolarmente bene perché le nuvole diffondono la luce uniformemente senza la durezza della luce solare diretta. Evita di scattare a mezzogiorno sotto il sole pieno, che tende a creare ombre poco gradevoli e ti fa strizzare gli occhi.
 
-Non usare mai il flash della fotocamera del tuo telefono. Il flash tende a creare ombre dure, lava il tono della pelle e spesso causa occhi rossi. Se la tua stanza è buia, avvicinati alla finestra o scegli un'ora diversa della giornata. È meglio rifare la foto con una buona luce che presentare una foto illuminata da flash che viene rifiutata.
+Non usare mai il flash della fotocamera del tuo telefono. Il flash tende a creare ombre dure, lava il tono della pelle e spesso causa occhi rossi. Se la tua stanza è buia, avvicinati alla finestra o scegli un'ora diversa della giornata. Rifaremmo la foto con una buona luce prima di presentarla.
 
 Usa un treppiede o appoggia il tuo telefono a un oggetto stabile in modo da avere entrambe le mani libere per posizionare il viso correttamente. Così anche la fotocamera resta dritta e a fuoco sul tuo viso. Se devi tenere il telefono, fai scattare la foto a qualcun altro per evitare il mosso della fotocamera e l'inquadratura non uniforme.
 
@@ -85,25 +85,25 @@ Usa un treppiede o appoggia il tuo telefono a un oggetto stabile in modo da aver
 
 Le fotocamere della maggior parte degli smartphone moderni hanno una risoluzione più che sufficiente per una foto passaporto. Prima di scattare, assicurati che il tuo telefono sia in modalità messa a fuoco — tocca il tuo viso sullo schermo, e la maggior parte dei telefoni blocca la messa a fuoco lì. La tua immagine finale deve essere nitida e chiara.
 
-## Motivi di Rifiuto Comuni e Come Evitarli
+## Problemi con le foto e come evitarli
 
 ![Diagramma di sei foto passaporto rifiutate - ombra dietro la testa, sorriso, riflesso sugli occhiali, capelli sugli occhi, sfondo con motivi e foto scattata troppo da vicino - accanto a una foto accettata con sfondo neutro, espressione neutra e luce uniforme](https://traveldocumentvault.com/blog/passport-photo-at-home/passport-photo-figure-it.jpg) Sei motivi per cui una foto viene respinta, e l'unica configurazione che passa.
 
 - **Ombre sul viso:** Causate da illuminazione laterale o fonti di luce dura. Posizionati perpendicolarmente a una finestra per un'illuminazione uniforme, e controlla che le tue orecchie e gli zigomi siano illuminati uniformemente.
-- **Dimensioni foto errate:** La foto non corrisponde alle specifiche del tuo paese (i requisiti variano in base al paese). Usa un'app di ritaglio foto passaporto e ricontrolla le dimensioni rispetto alla specifica ufficiale della tua autorità prima di stampare o caricare — non gli standard di un altro paese.
-- **Sorriso o espressione insolita:** La maggior parte dei paesi richiede un'espressione neutra. Pratica uno sguardo calmo e dritto in uno specchio in anticipo — punta a un'aria seria, non scontrosa.
+- **Dimensioni foto errate:** La foto non corrisponde alle specifiche del tuo paese (i requisiti variano in base al paese). Per le foto digitali scattate con il proprio dispositivo nel Regno Unito, GOV.UK indica di non ritagliarle.
+- **Sorriso o espressione insolita:** GOV.UK richiede in genere un'espressione neutra, con un'eccezione per i bambini sotto i 6 anni. Proveremmo uno sguardo calmo e dritto allo specchio prima dello scatto: punta a un'aria seria, non scontrosa.
 - **Occhiali con bagliore:** Il bagliore sulle lenti oscura i tuoi occhi. Rimuovi gli occhiali oppure regola l'angolo per eliminare il riflesso. Alcune autorità, inclusa quella britannica, chiedono di non indossare occhiali a meno che non sia necessario, quindi controlla prima le regole attuali della tua autorità.
 - **Immagine sfocata o non messa a fuoco:** Problemi di movimento o messa a fuoco durante l'acquisizione. Usa un treppiede o un oggetto stabile per appoggiare il tuo telefono, tocca lo schermo per mettere a fuoco il tuo viso e evita qualsiasi movimento durante lo scatto.
 - **Sfondo sbagliato:** Sfondo colorato, motivo o sfondo chiaro non uniforme. Un cartoncino o un lenzuolo chiaro nella tonalità richiesta dalla tua autorità funzionano meglio — assicurati che non ci sia trama visibile o ombre.
 - **Spazio di testa eccessivo o ritaglio:** Viso troppo piccolo o posizionato in modo errato nel fotogramma. Le regole del tuo paese diranno esattamente quanto del fotogramma il tuo viso dovrebbe riempire, solitamente come misura da mento a corona piuttosto che come percentuale — punta a quella misura, non a quello che ti sembra giusto.
 
-## Ritaglia la Foto dello Smartphone, Poi Stampala o Caricala
+## Prepara la foto dello smartphone per la presentazione
 
-La tua foto dello smartphone raramente ha le dimensioni giuste subito. Dopo aver scattato, dovrai ritagliarla alle specifiche esatte del tuo paese, quindi decidere se stamparla o caricarla digitalmente.
+GOV.UK indica di non ritagliare le foto digitali scattate con il proprio dispositivo; per il Regno Unito, le foto stampate in genere non devono essere ricavate ritagliando un'immagine più grande.
 
 ### Strumenti di Ritaglio
 
-Con le app di ritaglio non devi indovinare le misure. Cerca strumenti come Passport Photo Online o ID Photo Studio su iOS e Android — ti permettono di selezionare il tuo paese e ridimensionare automaticamente secondo le specifiche mentre controllano che le dimensioni del tuo viso siano corrette. Molte app vanno oltre fornendo feedback se l'illuminazione o lo sfondo non è all'altezza.
+Prima di usare uno strumento di ritaglio, seguiremmo le istruzioni della tua autorità sul formato. GOV.UK indica di non ritagliare le foto digitali scattate con il proprio dispositivo.
 
 ### Stampa vs. Presentazione Digitale
 
@@ -111,17 +111,17 @@ Alcuni paesi accettano caricamenti digitali della foto biometrica passaporto pre
 
 ## Lista di Controllo della Preparazione
 
-Prima di scattare la foto, controlla di avere tutto questo a portata di mano:
+Se la tua autorità consente foto scattate a casa, assicurati di avere tutto questo a portata di mano:
 
 - Materiale per lo sfondo, nella tonalità chiara richiesta dalla tua autorità, pronto e posizionato
 - Buona fonte di luce naturale (preferibilmente una finestra)
 - Smartphone con una fotocamera funzionante
 - Treppiede o oggetto stabile su cui appoggiare il tuo telefono
 - Conoscenza delle specifiche foto esatte del tuo paese
-- Un'app di ritaglio scaricata e pronta all'uso
+- Le istruzioni della tua autorità sul ritaglio
 - Piano per la stampa o la presentazione digitale in base ai requisiti del tuo paese
 
-Se hai una buona luce da finestra e qualche minuto a disposizione, scattala tu oggi stesso: è gratis e subito pronta. Se non ti senti sicuro della tua configurazione, o hai una scadenza che incalza, la farmacia o la posta riduce quel rischio quasi a zero a fronte di un costo modesto. Controlla solo le specifiche attuali del tuo paese, non un numero letto altrove.
+Se la tua autorità consente foto scattate a casa e hai una buona luce da finestra, proveremmo a scattarla a casa. Se non ti senti sicuro della tua configurazione, o hai una scadenza che incalza, chiederemmo a un servizio fotografico quali sono i tempi e se segue le regole della tua autorità per le foto.
 
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 
@@ -134,7 +134,7 @@ Fonti ufficiali
 
 ### Posso scattare una foto passaporto con il mio smartphone
 
-Sì, puoi scattare una foto passaporto usando uno smartphone. Posizionati di fronte a uno sfondo chiaro e uniforme, nella tonalità richiesta dalla tua autorità passaporti, con una buona illuminazione naturale e assicurati che la foto soddisfi i requisiti di dimensione e qualità del tuo paese. Molte persone usano un'app di ritaglio per ridimensionare la foto digitale alle dimensioni ufficiali e poi la stampano o la caricano digitalmente a seconda del processo di presentazione del loro paese.
+GOV.UK consente in genere foto digitali per il passaporto scattate con il proprio dispositivo, mentre il Canada richiede in genere un fotografo professionista. Posizionati di fronte a uno sfondo chiaro e uniforme, nella tonalità richiesta dalla tua autorità passaporti, con una buona illuminazione naturale e assicurati che la foto soddisfi i requisiti di dimensione e qualità del tuo paese. GOV.UK indica di non ritagliare le foto digitali scattate con il proprio dispositivo.
 
 ### Quale dovrebbe essere la dimensione di una foto passaporto
 
@@ -142,7 +142,7 @@ Le dimensioni delle foto stampate variano in base all'autorità. Il Regno Unito 
 
 ### Perché la mia foto passaporto è stata rifiutata
 
-I motivi di rifiuto comuni includono ombre sul viso, dimensioni errate, sorriso o espressioni insolite, occhiali indossati, immagini sfocate o sfondo improprio. Assicurati che la tua foto soddisfi tutti i requisiti ufficiali prima della presentazione. Leggi le indicazioni della tua autorità passaporti e rifai la foto risolvendo ogni problema segnalato.
+Le foto possono essere rifiutate se non rispettano le regole della tua autorità su illuminazione, dimensioni, espressione, nitidezza o sfondo. Le regole sugli occhiali dipendono dall'autorità. Assicurati che la tua foto soddisfi tutti i requisiti ufficiali prima della presentazione. Leggi le indicazioni della tua autorità passaporti e rifai la foto risolvendo ogni problema segnalato.
 
 ### Ho bisogno di un'illuminazione speciale per una foto passaporto
 
@@ -154,7 +154,7 @@ Dipende dall'autorità. GOV.UK dice ai richiedenti nel Regno Unito di non indoss
 
 ### Quali sono le regole per una foto passaporto?
 
-Le regole principali sono coerenti nella maggior parte dei paesi: uno sfondo chiaro e uniforme, un'espressione neutra con la bocca chiusa, entrambi gli occhi aperti e chiaramente visibili, nessun bagliore o tinta sulle lenti degli occhiali se la tua autorità te li fa tenere, un'illuminazione uniforme senza ombre e una foto recente che rispetti la specifica di dimensione del tuo paese. Ogni autorità pubblica il proprio elenco completo e i dettagli differiscono, quindi controlla il tuo prima di scattare.
+Le regole variano in base all'autorità, al formato della domanda e all'età. GOV.UK richiede in genere uno sfondo uniforme color crema o grigio chiaro per le foto stampate, ma prevede eccezioni alle regole sull'espressione per i bambini sotto i 6 anni e a quelle sugli occhi aperti per i bambini sotto un anno.
 
 ## Articoli Correlati
 

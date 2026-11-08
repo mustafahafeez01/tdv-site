@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/nl/blog/travel-document-checklist/
 - Zakenreizigers hebben vaak meerdere paspoorten en werkvisa, deze moeten apart worden bijgehouden, los van persoonlijke documenten.
 - Een digitale back-up van elk document (versleuteld, niet in je fotobibliotheek) kan je sneller thuis krijgen als er in het buitenland iets misgaat.
 
-De meeste checklists voor reisdocumenten zijn gewoon een platte lijst: paspoort, visum, verzekering. Ze vertellen je wat je moet meenemen, maar niet wanneer je het moet controleren, en juist daar gaat het mis. Het gezin dat bij de incheckbalie ontdekt dat een paspoort over vijf maanden verloopt, de soloreiziger die boekte zonder de visumplicht op te merken, of de zakenreiziger die vergat in welk paspoort het bedrijfsvisum zat, zijn geen uitzonderingen. Het is de norm.
+De meeste checklists voor reisdocumenten zijn gewoon een platte lijst: paspoort, visum, verzekering. Ze vertellen je wat je moet meenemen, maar niet wanneer je het moet controleren, en juist daar gaat het mis. Het gezin dat bij de incheckbalie ontdekt dat een paspoort over vijf maanden verloopt, de soloreiziger die boekte zonder de visumplicht op te merken, of de zakenreiziger die vergat in welk paspoort het visum zat, zijn geen uitzonderingen. Het is de norm.
 
 Deze checklist is in plaats daarvan georganiseerd per reisfase. Vanaf het moment dat je boekt tot aan de security heeft elke fase een specifieke reeks acties die moeten gebeuren. Als je ze op volgorde volgt, voorkom je de gebruikelijke paniek op het laatste moment.
 
@@ -24,9 +24,9 @@ Deze checklist is in plaats daarvan georganiseerd per reisfase. Vanaf het moment
 
 De grootste fout die reizigers maken, is het boekingsmoment als administratief behandelen en documentcontroles als iets voor later. Ze moeten op precies hetzelfde moment gebeuren.
 
-**Controleer je paspoorten voordat je betaalt**
+**Controleer je reisdocumenten voordat je betaalt**
 
-Voordat je een boeking bevestigt, controleer het paspoort van elke reiziger aan drie criteria: geldigheid (voldoet het aan de eisen van de bestemming, veel landen willen op de dag van aankomst nog [zes maanden geldigheid](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), enkele landen rekenen vanaf vertrek, dus check je bestemming, zoals uitgelegd in onze [gids over de 6 maanden-paspoortregel](https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/)), naam die overeenkomt (de naam op het paspoort moet exact overeenkomen met de boekingsnaam), en lege pagina's (sommige landen eisen [minstens twee lege visumpagina's](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements) voor inreisstempels).
+Voordat je een boeking bevestigt, controleer je elk paspoort dat je gaat gebruiken op drie criteria: geldigheid (voldoet het aan de eisen van de bestemming, veel landen willen op de dag van aankomst nog [zes maanden geldigheid](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), enkele landen rekenen vanaf vertrek, dus check je bestemming, zoals uitgelegd in onze [gids over de 6 maanden-paspoortregel](https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/)), naam die overeenkomt (de naam op het paspoort moet exact overeenkomen met de boekingsnaam), en lege pagina's (sommige landen eisen [minstens twee lege visumpagina's](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements) voor inreisstempels).
 
 **Controleer je visumvereisten**
 
@@ -46,7 +46,7 @@ Wij zouden elk paspoort dat binnen 12 maanden verloopt nu verlengen. Paspoorten 
 
 Dien visumaanvragen in die voorbereidingstijd nodig hebben, en controleer bij de uitgevende instantie hoe lang het momenteel duurt. Bereid ondersteunende documenten voor: bankafschriften, bevestigingen van accommodatie, bewijs van doorreis. Boek indien nodig van tevoren een afspraak voor biometrie.
 
-Voor gezinnen: als een kind reist met slechts één ouder of een andere volwassene, bereid dan nu een toestemmingsverklaring voor de reis van het kind voor. Vermeld de volledige naam en geboortedatum van het kind, de contactgegevens van beide ouders, reisdata, bestemmingen, en de handtekening van de afwezige ouder. Sommige bestemmingen vragen ook om een notarieel bekrachtigde brief, dus check de inreisregels.
+Voor gezinnen: als een kind reist met slechts één ouder of een andere volwassene, zouden wij nu een toestemmingsverklaring voor de reis van het kind voorbereiden. Vermeld de volledige naam en geboortedatum van het kind, de contactgegevens van beide ouders, reisdata, bestemmingen, en de handtekening van de afwezige ouder. Sommige bestemmingen vragen ook om een notarieel bekrachtigde brief, dus check de inreisregels.
 
 ## Een maand van tevoren: bevestigen en verzamelen
 
@@ -54,7 +54,7 @@ Een maand voor vertrek zouden al je documenten binnen moeten zijn. In deze fase 
 
 ### Identiteitsdocumenten
 
-- Paspoorten bevestigd geldig en in de reismap
+- Paspoorten of geaccepteerde nationale identiteitskaarten bevestigd geldig en in de reismap
 - Visa bevestigd (controleer geldigheidsdata, aantal inreizen, eventuele voorwaarden)
 - Nationale identiteitskaart indien geaccepteerd op de bestemming (EU-reizen binnen Schengen)
 
@@ -67,11 +67,11 @@ Een maand voor vertrek zouden al je documenten binnen moeten zijn. In deze fase 
 
 ### Gezins- en bijzondere documenten
 
-- Toestemmingsverklaring voorbereid en ondertekend
+- Toestemmingsverklaring voorbereid en ondertekend indien van toepassing
 - Geboorteakten beschikbaar indien vereist door het bestemmingsland
 - Medische dossiers of recepten voor doorlopende aandoeningen
 
-Voor zakenreizigers: als je twee paspoorten hebt, bevestig dan aan welk paspoort je bedrijfsvisum is gekoppeld en welk je nodig hebt om elk land in en uit te reizen. **Sommige landen eisen dat je met hetzelfde document in- en uitreist**, dus als je dit fout doet, kan een kleine vergissing een vertraging bij de grens worden.
+Voor zakenreizigers: als je twee paspoorten hebt, bevestig dan aan welk paspoort je visum is gekoppeld en welk je nodig hebt om elk land in en uit te reizen. **Sommige landen eisen dat je met hetzelfde document in- en uitreist**, dus als je dit fout doet, kan een kleine vergissing een vertraging bij de grens worden.
 
 ## De avond ervoor: laatste bevestiging
 
@@ -81,12 +81,12 @@ Als er nu iets ontbreekt, heb je nog uren om het op te lossen, geen weken.
 
 ### De avond ervoor
 
-- Paspoorten klaargelegd en geteld, één per persoon
+- Paspoorten of geaccepteerde nationale identiteitskaarten klaargelegd en geteld, één per persoon
 - Instapkaarten gedownload naar de telefoon of geprint
 - Bewijs van reisverzekering beschikbaar op de telefoon
 - Hotel- en transferbevestigingen offline gedownload
 - Eventuele vaccinatie- of gezondheidsbewijzen
-- Toestemmingsverklaring in de handbagage, niet in de koffer
+- Toestemmingsverklaring, indien van toepassing, in de handbagage, niet in de koffer
 - Noodcontactnummers ergens offline genoteerd
 
 ## Op de luchthaven: houd deze bij je
@@ -101,13 +101,13 @@ Verschillende reizen vragen om verschillende sets documenten, zoals de tabel hie
 
 | Document | Solo | Gezin | Zakelijk | Opmerkingen |
 |---|---|---|---|---|
-| Paspoort | | elk lid | | Controleer geldigheid ten opzichte van de bestemming, niet alleen de vervaldatum |
-| Visum (indien vereist) | | elk lid | zakelijk | Zakelijk: bevestig dat het visum in het juiste paspoort zit |
+| Paspoort of geaccepteerde nationale identiteitskaart | Doorgaans | doorgaans, elk gezinslid | Doorgaans | Controleer geldigheid ten opzichte van de bestemming, niet alleen de vervaldatum |
+| Visum (indien vereist) | | elk lid | ga na welk visum of welke reistoestemming nodig is voor je geplande activiteiten | Zakelijk: bevestig dat het visum in het juiste paspoort zit |
 | Reisverzekering | | allen gedekt | controleer of je werkgever je dekt | Bevestig dekking voor elke reis, niet alleen bij aankoop |
 | Boekingsbevestigingen | | | | Offline kopie (vertrouw niet op e-mailtoegang bij grenzen) |
 | Toestemmingsverklaring kind | N.v.t. | indien van toepassing | N.v.t. | Wordt in sommige landen gevraagd als een ouder ontbreekt |
 | Geboorteakten | N.v.t. | indien vereist | N.v.t. | Sommige landen vragen hierom voor kinderen onder 18 jaar |
-| Werkvergunningsbrief | N.v.t. | N.v.t. | indien vereist | Sommige bestemmingen eisen werkgeversbrieven voor zakenreizigers |
+| Werkgeversbrief of zakelijke uitnodigingsbrief | N.v.t. | N.v.t. | indien vereist | Sommige bestemmingen eisen werkgeversbrieven voor zakenreizigers |
 
 Staat een reis al geboekt, dan is het enige dat je vandaag echt moet doen: pak elk betrokken paspoort erbij en controleer de vervaldatum tegen de eis van de bestemming, niet alleen tegen je reisdata.
 
@@ -126,7 +126,7 @@ Officiële bronnen
 
 ### Welke documenten heb ik nodig voor internationale reizen?
 
-De kerndocumenten voor internationale reizen zijn een geldig paspoort, een eventueel vereist visum, reisverzekering, en boekingsbevestigingen. Voeg voor gezinsreizen het paspoort van elk kind toe (afzonderlijk gecontroleerd), geboorteakten indien vereist door de bestemming, en een toestemmingsverklaring als een van de ouders niet meereist. Zakenreizigers moeten bevestigen aan welk paspoort hun werkvisum is gekoppeld.
+Controleer voor internationale reizen de belangrijkste documenten: een geldig paspoort of een geaccepteerde nationale identiteitskaart, een eventueel vereist visum, je reisverzekering en boekingsbevestigingen. Voeg voor gezinsreizen het geaccepteerde reisdocument van elk kind toe (afzonderlijk gecontroleerd), geboorteakten indien vereist door de bestemming, en een toestemmingsverklaring indien nodig. Zakenreizigers moeten bevestigen aan welk paspoort hun werkvisum is gekoppeld.
 
 ### Hoe ver van tevoren moet ik mijn reisdocumenten controleren?
 
@@ -138,7 +138,7 @@ Ja. De paspoortgeldigheid, visumvereisten, en verzekeringsdekking van elke perso
 
 ### Wat is een toestemmingsverklaring voor kinderen en heb ik er een nodig?
 
-Een toestemmingsverklaring voor kinderen is een ondertekend document van de afwezige ouder dat toestemming geeft voor de reis van het kind. Sommige landen, waaronder [Zuid-Afrika](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements), stellen extra eisen aan kinderen die met één ouder reizen, en de [Canadese autoriteiten](https://travel.gc.ca/travelling/children/consent-letter) raden een ondertekende toestemmingsverklaring aan. Zonder deze verklaring kun je extra vragen of vertragingen krijgen. De brief moet de gegevens van het kind bevatten, de contactgegevens van beide ouders, reisdata, bestemmingen, en de handtekening van de afwezige ouder.
+Een toestemmingsverklaring voor kinderen is een ondertekend document van de afwezige ouder dat toestemming geeft voor de reis van het kind. [Zuid-Afrika](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements) vraagt doorgaans geen extra bewijsstukken voor buitenlandse kinderen die onder begeleiding reizen en geen visum nodig hebben, en de [Canadese autoriteiten](https://travel.gc.ca/travelling/children/consent-letter) raden een ondertekende toestemmingsverklaring aan. Zonder deze verklaring kun je extra vragen of vertragingen krijgen. De brief moet de gegevens van het kind bevatten, de contactgegevens van beide ouders, reisdata, bestemmingen, en de handtekening van de afwezige ouder.
 
 ### Welke documenten moet ik toegankelijk houden op de luchthaven en niet in de ruimbagage?
 

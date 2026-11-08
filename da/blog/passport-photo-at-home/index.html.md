@@ -1,6 +1,6 @@
 # Regler for pasfoto: størrelse, briller og foto derhjemme
 
-> Må man have briller på til pasfoto? Oftest ikke. Her er reglerne for størrelse, baggrund og lys – og sådan tager du pasfotoet derhjemme.
+> Reglerne bag afviste pasfotos: størrelse, briller, baggrund og lys – og sådan tager du billedet derhjemme, hvis dit land tillader det.
 
 Source: https://traveldocumentvault.com/da/blog/passport-photo-at-home/
 
@@ -10,25 +10,25 @@ Source: https://traveldocumentvault.com/da/blog/passport-photo-at-home/
 
 ## Vigtigste punkter
 
-- Brug en ensfarvet, lys baggrund i den nuance, din myndighed kræver, neutralt udtryk, og øjnene åbne og rettet lige frem
+- Brug en ensfarvet, lys baggrund i den nuance, din myndighed kræver, neutralt udtryk, og øjnene åbne og rettet lige frem, med undtagelser for små børn
 - Størrelseskravene er forskellige fra land til land og håndhæves strengt, så tag målene fra din egen pasmyndighed i stedet for fra en opsummering
 - Naturligt vinduslys fungerer bedst – undgå hårde skygger, og brug ikke kamerablitz
 - Mange myndigheder, heriblandt Storbritanniens, beder dig om ikke at have briller på, medmindre det er nødvendigt – tjek de aktuelle krav
-- Almindelige afvisningsgrunde er skygger, forkert størrelse, smil, sløret billede og forkert baggrund
+- Fotos kan blive afvist, hvis de ikke opfylder din myndigheds krav til lys, størrelse, udtryk, skarphed eller baggrund
 
-Et billede taget derhjemme bliver godkendt lige så let som et fra en fotoboks, forudsat at det opfylder den samme korte liste af regler. De fleste afvisninger skyldes tre ting: skygge i ansigtet eller på baggrunden, forkert størrelse på hovedet i billedet, og briller. Får du styr på dem, er resten ligetil.
+Ifølge GOV.UK har fotos fra en fotoboks eller butik større chance for at blive godkendt end fotos taget med eget udstyr. Fotos kan blive afvist, hvis de ikke opfylder din myndigheds krav til lys, størrelse, udtryk, skarphed eller baggrund.
 
-## De fleste lande deler de samme grundlæggende krav til pasfoto
+## Kravene til pasfoto varierer fra myndighed til myndighed
 
-Selvom de konkrete regler varierer fra pasmyndighed til pasmyndighed, deler de fleste lande de samme grundlæggende krav til pasfoto. Forstår du disse grundprincipper, står du på sikker grund, uanset hvilket land der udsteder dit pas.
+Kravene til pasfoto varierer efter pasmyndighed, ansøgningsformat og aldersgruppe.
 
 ### Baggrund og komposition
 
-Du skal bruge en ensfarvet, lys baggrund, og den nøjagtige nuance afhænger af din myndighed: [GOV.UK](https://www.gov.uk/photos-for-passports) beder om ensfarvet creme eller lysegrå, mens [den canadiske regering](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/photos.html) beder om ensfarvet hvid eller lys. Ingen mønstre, skygger, slørede baggrunde eller stærke farver. Begrundelsen er enkel: myndighederne har brug for et rent, ryddeligt billede af dit ansigt til at sammenligne med fremtidige dokumenter. Brug et ensfarvet lagen eller et stykke karton i den nuance, din myndighed kræver (creme eller lysegrå i Storbritannien), eller mal et lille stykke væg. Det vigtige er at holde det lyst og ensartet hele vejen igennem.
+Du skal bruge en ensfarvet, lys baggrund, og den nøjagtige nuance afhænger af din myndighed: [GOV.UK](https://www.gov.uk/photos-for-passports) beder som udgangspunkt om ensfarvet cremefarvet eller lysegrå baggrund til trykte fotos, mens [den canadiske regering](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/photos.html) beder om ensfarvet hvid eller lys. Ingen mønstre, skygger, slørede baggrunde eller stærke farver. Begrundelsen er enkel: myndighederne har brug for et rent, ryddeligt billede af dit ansigt til at sammenligne med fremtidige dokumenter. Brug et ensfarvet lagen eller et stykke karton i den nuance, din myndighed kræver (cremefarvet eller lysegrå til britiske trykte fotos), eller mal et lille stykke væg. Det vigtige er at holde det lyst og ensartet hele vejen igennem.
 
 ### Hvordan skal man se ud på et pasfoto – udtryk og positur
 
-Dit ansigt skal fylde billedet i den andel, din pasmyndighed angiver, med øjnene åbne og tydeligt synlige – de fleste lande forbyder smil, og at knibe øjnene sammen diskvalificerer billedet. Se lige ind i kameraet med et neutralt udtryk, vip evt. hovedet en anelse, hvis det føles mere naturligt, men hold generelt hovedet lige mod linsen. Ørerne bør helst være synlige på begge sider af ansigtet.
+Dit ansigt skal som udgangspunkt fylde billedet i den andel, din pasmyndighed angiver, med øjnene åbne og tydeligt synlige. GOV.UK tillader undtagelser fra kravene til ansigtsudtryk for børn under 6 år og til åbne øjne for børn under ét år. Se lige ind i kameraet med et neutralt udtryk, vip evt. hovedet en anelse, hvis det føles mere naturligt, men hold generelt hovedet lige mod linsen. Ørerne bør helst være synlige på begge sider af ansigtet.
 
 ## Må man have briller på til pasfoto?
 
@@ -38,15 +38,15 @@ Solbriller og tonede glas afvises som regel. Kvalificerer du dig til at beholde 
 
 I Danmark ansøger du om pas i Borgerservice i din kommune, og kravene til selve billedet fastsættes af politiet. Det er deres liste, der afgør, om billedet bliver godkendt, så tjek den, før du printer noget eller møder op – reglerne for briller og hovedbeklædning står der.
 
-## Størrelse på pasfoto: de to mål de fleste lande bruger
+## Størrelse på pasfoto: målene afhænger af myndigheden
 
 Størrelsen på trykte fotos varierer fra myndighed til myndighed. Storbritannien bruger 35 x 45 mm, og den canadiske regering kræver trykte fotos på 50 mm i bredden og 70 mm i højden. Andre lande fastsætter deres egne mål, så tjek dem hos din egen pasmyndighed.
 
-Digitale indsendelser bytter millimeter ud med pixels, og hver myndighed offentliggør sine egne minimumskrav. De to størrelser er, hvad de fleste myndigheder aktuelt beder om i trykt format, men specifikationerne bliver revideret, så bekræft dine, før du printer eller uploader.
+Digitale indsendelser bytter millimeter ud med pixels, og hver myndighed offentliggør sine egne minimumskrav. Specifikationerne bliver revideret, så bekræft dine, før du printer eller uploader.
 
 ### Hvor du tjekker dit lands størrelseskrav
 
-Størrelse er der, hvor de fleste går galt – matcher billedet ikke dit lands krav, er afvisning næsten sikker. Hvert land fastsætter sine egne mål, nogle i tommer og nogle i millimeter, og de bliver revideret fra tid til anden.
+Størrelsen betyder noget: billedet kan blive afvist, hvis det ikke matcher dit lands krav. Hvert land fastsætter sine egne mål, nogle i tommer og nogle i millimeter, og de bliver revideret fra tid til anden.
 
 Vi gengiver bevidst ikke de tal her. Et tal, der kopieres ind i et blogindlæg, er et tal, der stille kan blive forældet, og dette indlæg er ikke den autoritative kilde til det. Tjek direkte hos dit eget paskontor.
 
@@ -58,7 +58,7 @@ Vi gengiver bevidst ikke de tal her. Et tal, der kopieres ind i et blogindlæg, 
 | Australien | Australian Passport Offices fotovejledning |
 | Canada | Canadas regerings side om pasfotos |
 
-Uanset hvad dit land angiver, er det præcist – selv få millimeter forkert betyder afvisning. Din mobils rå billede er som regel langt større end det, du skal indsende, hvilket er grunden til, at beskæringsapps findes. Gratis eller billige værktøjer til iOS og Android lader dig angive dit land og automatisk tilpasse billedet til de præcise mål.
+GOV.UK beder ansøgere om ikke at beskære digitale fotos taget med eget udstyr; britiske trykte fotos må som udgangspunkt ikke være beskåret fra et større billede.
 
 ### Sammenligning af metoder til indsendelse af pasfoto
 
@@ -66,21 +66,21 @@ Du har flere muligheder for at få dit pasfoto til pasmyndigheden. Hver har sine
 
 | Metode | Pris | Risiko for afvisning | Bekvemmelighed | Officiel vejledning |
 |---|---|---|---|---|
-| Selv derhjemme (smartphone + beskæringsapp) | Gratis eller tæt på | Højere hvis du rammer forkert på lys eller størrelse | Meget høj - med det samme | Tjek din myndigheds side |
-| Lokalt apotek | Et beskedent gebyr | Lav - uddannet personale kontrollerer | Middel - typisk samme dag | Bredt anvendt og generelt pålideligt - tjek alligevel din egen myndigheds krav |
-| Postkontor (Storbritannien m.fl.) | Et beskedent gebyr | Lav - taget på stedet, kontrolleret | Middel - kræver besøg og tidsbestilling | Postkontorets officielle service |
-| Onlinetjenester (f.eks. Passport Photo Online) | Et beskedent gebyr | Middel - digital indsendelse, feedback gives | Høj - hjemmefra, digital levering | Ikke officiel, men bredt anvendt - tjek om dit land accepterer færdigbeskårne uploads |
-| Professionel fotograf | Den dyreste løsning | Lav - professionel belysning og komposition | Lav - kræver tidsbestilling | Laveste risiko, men fotoet skal stadig opfylde din myndigheds regler |
+| Foto derhjemme, hvis din myndighed tillader det | Tag højde for udstyr og print | GOV.UK tillader som udgangspunkt digitale fotos taget med eget udstyr; Canada kræver som udgangspunkt en professionel fotograf | Derhjemme, hvor det er tilladt | Tjek din myndigheds side |
+| Lokalt apotek | Spørg udbyderen om gebyrer | Spørg, om personalet følger din myndigheds fotokrav | Spørg om åbningstider og leveringstid | Bed udbyderen om at følge din pasmyndigheds fotokrav |
+| UK Post Office digital Check and Send | Spørg udbyderen om gebyrer | Ifølge GOV.UK garanterer Check and Send ikke, at ansøgningen bliver godkendt | Besøg en deltagende filial; spørg om de lokale forhold | GOV.UK: digital Check and Send omfatter fotografering |
+| Kommerciel fototjeneste på nettet, hvis din myndighed tillader det | Spørg udbyderen om gebyrer | Fotoet skal som udgangspunkt opfylde din myndigheds regler | Spørg om leveringsformat og leveringstid | GOV.UK beder ansøgere om ikke at beskære digitale fotos taget med eget udstyr |
+| Professionel fotograf | Spørg fotografen om gebyrer | Bed om fotos, der opfylder din myndigheds regler | Spørg, om tidsbestilling er nødvendig | Fotoet skal som udgangspunkt opfylde din myndigheds regler |
 
 ## Lys og billedkvalitet
 
-Rammer du forkert på lyset, er afvisning næsten sikker. Skygger i ansigtet, ujævn belysning eller overeksponerede områder omkring ansigtet gør alle billedet ugyldigt.
+Problemer med lyset kan føre til afvisning. Skygger i ansigtet, ujævn belysning eller overeksponerede områder omkring ansigtet kan gøre billedet uegnet.
 
 ### Bedste praksis for belysning
 
 Vinduslys er dit bedste valg. Stil dig vinkelret på vinduet for jævn belysning af ansigtet og for at undgå hårde skygger under øjnene eller langs den ene side. Overskyede dage fungerer særligt godt, fordi skyerne spreder lyset jævnt uden det hårde ved direkte sol. Undgå at fotografere midt på dagen i skarpt sollys, som har tendens til at skabe uheldige skygger og få dig til at knibe øjnene sammen.
 
-Brug aldrig din telefons kamerablitz. Blitz skaber ofte hårde skygger, udvasker hudtonen og giver ofte røde øjne. Er rummet mørkt, så flyt dig tættere på vinduet, eller vælg et andet tidspunkt på dagen. Det er bedre at tage billedet om i godt lys end at indsende et blitzfotograferet billede, der bliver afvist.
+Brug aldrig din telefons kamerablitz. Blitz skaber ofte hårde skygger, udvasker hudtonen og giver ofte røde øjne. Er rummet mørkt, så flyt dig tættere på vinduet, eller vælg et andet tidspunkt på dagen. Vi ville tage billedet om i godt lys, før vi sendte det ind.
 
 Brug et stativ, eller lad telefonen hvile mod en stabil genstand, så du har begge hænder fri til at positionere ansigtet korrekt. Det sikrer også, at kameraet er i vater og fokuseret på ansigtet. Skal du selv holde telefonen, så bed en anden om at tage billedet for at undgå kamerarysten og skæv billedudsnit.
 
@@ -88,43 +88,43 @@ Brug et stativ, eller lad telefonen hvile mod en stabil genstand, så du har beg
 
 De fleste moderne mobilkameraer har rigelig opløsning til et pasfoto. Før du fotograferer, skal du sikre dig, at telefonen er i fokustilstand – tryk på ansigtet på skærmen, så vil de fleste telefoner låse fokus der. Det endelige billede skal være skarpt og tydeligt.
 
-## Almindelige afvisningsgrunde, og hvordan du undgår dem
+## Problemer med pasfotos, og hvordan du undgår dem
 
 ![Diagram af seks afviste pasfotos – skygge bag hovedet, smil, reflekser i brillerne, hår over øjnene, mønstret baggrund og foto taget for tæt på – ved siden af ét godkendt foto med ensfarvet baggrund, neutralt ansigtsudtryk og jævnt lys](https://traveldocumentvault.com/blog/passport-photo-at-home/passport-photo-figure-da.jpg) Seks måder, et foto bliver sendt tilbage på, og den ene opsætning, der godkendes.
 
 - **Skygger i ansigtet:** Skyldes sidelys eller hårde lyskilder. Stil dig vinkelret på et vindue for jævn belysning, og tjek at ører og kindben er jævnt oplyst.
-- **Forkerte fotomål:** Billedet matcher ikke dit lands specifikation (kravene varierer fra land til land). Brug en beskæringsapp til pasfoto, og dobbelttjek målene mod din egen myndigheds officielle spec, før du printer eller uploader – ikke et andet lands standard.
-- **Smil eller usædvanligt udtryk:** De fleste lande kræver et neutralt udtryk. Øv et roligt blik lige frem foran et spejl på forhånd – sigt efter alvorligt, ikke strengt.
+- **Forkerte fotomål:** Billedet matcher ikke dit lands specifikation (kravene varierer fra land til land). GOV.UK beder ansøgere om ikke at beskære digitale fotos taget med eget udstyr til britiske pas.
+- **Smil eller usædvanligt udtryk:** GOV.UK kræver som udgangspunkt et neutralt udtryk, med en undtagelse for børn under 6 år. Vi ville øve et roligt blik lige frem foran et spejl på forhånd – sigt efter alvorligt, ikke strengt.
 - **Briller med reflekser:** Reflekser i glassene skjuler øjnene. Tag enten brillerne af, eller juster vinklen for at fjerne reflekser. Mange myndigheder, heriblandt Storbritanniens, beder dig om ikke at have briller på, medmindre det er nødvendigt, så tjek din myndigheds aktuelle regler først.
 - **Sløret eller ufokuseret billede:** Bevægelse eller fokusproblemer under optagelsen. Brug et stativ eller en stabil genstand til at støtte telefonen, tryk på skærmen for at fokusere på ansigtet, og undgå enhver bevægelse under optagelsen.
 - **Forkert baggrund:** Farvet baggrund, mønster eller ujævn baggrund. En ensfarvet, lys plakatplade eller lagen i den nuance, din myndighed kræver, fungerer bedst – sørg for, at der ikke er synlig struktur eller skygger.
 - **For meget eller for lidt margin:** Ansigtet er for lille eller placeret forkert i billedet. Dit lands regler angiver præcis, hvor stor en del af billedet ansigtet skal fylde, som regel som et mål fra hage til isse frem for en procentdel – arbejd efter det tal, ikke efter hvad der "ser rigtigt ud".
 
-## Beskær dit mobilbillede, og print eller upload det derefter
+## Gør dit mobilbillede klar til indsendelse
 
-Billedet fra din mobil har sjældent den rigtige størrelse med det samme. Efter optagelsen skal du beskære det til dit lands præcise specifikationer og derefter beslutte, om du vil printe det eller uploade det digitalt.
+GOV.UK beder ansøgere om ikke at beskære digitale fotos taget med eget udstyr; britiske trykte fotos må som udgangspunkt ikke være beskåret fra et større billede.
 
 ### Beskæringsværktøjer
 
-Beskæringsapps fjerner gætteriet fra det at ændre størrelse. Kig efter værktøjer som Passport Photo Online eller ID Photo Studio til iOS og Android – de lader dig vælge dit land og automatisk beskære til den rette spec, mens de tjekker, at dine ansigtsmål er korrekte. Mange apps går videre og giver feedback, hvis dit lys eller din baggrund ikke lever op til kravene.
+Vi ville følge myndighedens vejledning om format, før vi brugte et beskæringsværktøj. GOV.UK beder ansøgere om ikke at beskære digitale fotos taget med eget udstyr.
 
 ### Print vs. digital indsendelse
 
-Nogle lande accepterer digitale uploads af det biometriske pasfoto indsendt online, mens andre stadig ønsker et printet fysisk billede, så tjek din pasmyndigheds aktuelle indsendelsesproces, før du tager dit. Skal du printe, så brug en professionel fotoprinter, eller tag din digitale fil med til et apotek eller en trykkeributik. Hjemmets blækprinter giver som regel et acceptabelt resultat, men farvenøjagtighed og papirkvalitet betyder noget. Fotopapir er billigt og giver bedre farvegengivelse end almindeligt printerpapir.
+Nogle lande accepterer digitale uploads af det biometriske pasfoto indsendt online, mens andre stadig ønsker et printet fysisk billede, så tjek din pasmyndigheds aktuelle indsendelsesproces, før du tager dit. Skal du printe, så brug en professionel fotoprinter, eller tag din digitale fil med til et apotek eller en trykkeributik. Om et print fra din egen blækprinter kan bruges, afhænger af myndighedens krav til farvenøjagtighed og papirkvalitet. Fotopapir giver bedre farvegengivelse end almindeligt printerpapir.
 
 ## Tjekliste før du tager billedet
 
-Før du tager dit foto, skal du sikre dig, at du har følgende klar:
+Hvis din myndighed tillader fotos taget derhjemme, skal du sikre dig, at du har følgende klar:
 
 - Ensfarvet, lyst baggrundsmateriale i den nuance, din myndighed kræver, klar og på plads
 - En god kilde til naturligt lys (helst et vindue)
 - Smartphone med et fungerende kamera
 - Stativ eller stabil genstand at støtte telefonen mod
 - Kendskab til dit lands præcise fotospecifikationer
-- En beskæringsapp downloadet og klar til brug
+- Din myndigheds vejledning om beskæring
 - Plan for print eller digital indsendelse ud fra dit lands krav
 
-Har du ordentligt vinduslys og et par minutter til overs, så tag billedet selv i dag: det er gratis og klar med det samme. Er du ikke sikker på din opsætning, eller har du travlt med en frist, skærer apoteket eller en professionel fotograf risikoen ned til næsten ingenting for et beskedent gebyr. Tjek bare dit eget lands aktuelle spec først, ikke et tal, du har set et andet sted.
+Hvis din myndighed tillader fotos taget derhjemme, og du har godt vindueslys, ville vi prøve at tage billedet hjemme. Er du ikke sikker på din opsætning, eller har du travlt med en frist, ville vi spørge en fotoudbyder om leveringstid, og om de følger din myndigheds fotokrav.
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 
@@ -137,7 +137,7 @@ Officielle kilder
 
 ### Kan jeg tage et pasfoto med min mobil?
 
-Ja, du kan tage et pasfoto med din mobil. Stil dig foran en ensfarvet, lys baggrund i den nuance, din pasmyndighed kræver, i godt dagslys, og sørg for, at billedet opfylder dit lands krav til størrelse og kvalitet. Mange bruger derefter en beskæringsapp til at tilpasse billedet til de officielle mål og enten printer det eller uploader det digitalt, afhængigt af hvordan man ansøger i det pågældende land.
+GOV.UK tillader som udgangspunkt digitale pasfotos taget med eget udstyr, mens Canada som udgangspunkt kræver en professionel fotograf. Stil dig foran en ensfarvet, lys baggrund i den nuance, din pasmyndighed kræver, i godt dagslys, og sørg for, at billedet opfylder dit lands krav til størrelse og kvalitet. GOV.UK beder ansøgere om ikke at beskære digitale fotos taget med eget udstyr.
 
 ### Hvilken størrelse skal et pasfoto have?
 
@@ -145,7 +145,7 @@ Størrelsen på trykte fotos varierer fra myndighed til myndighed. Storbritannie
 
 ### Hvorfor blev mit pasfoto afvist?
 
-Almindelige afvisningsgrunde er skygger i ansigtet, forkert størrelse, smil eller usædvanligt udtryk, briller, sløret billede eller forkert baggrund. Sørg for, at billedet opfylder alle officielle krav, før du sender det ind. Gennemgå den konkrete tilbagemelding fra din pasmyndighed, og tag billedet om, mens du adresserer hvert enkelt punkt.
+Fotos kan blive afvist, hvis de ikke opfylder din myndigheds krav til lys, størrelse, udtryk, skarphed eller baggrund. Reglerne for briller afhænger af myndigheden. Sørg for, at billedet opfylder alle officielle krav, før du sender det ind. Gennemgå den konkrete tilbagemelding fra din pasmyndighed, og tag billedet om, mens du adresserer hvert enkelt punkt.
 
 ### Skal jeg bruge særlig belysning til et pasfoto?
 
@@ -157,7 +157,7 @@ Det afhænger af myndigheden. GOV.UK beder britiske ansøgere om ikke at have br
 
 ### Hvad er reglerne for pasfoto?
 
-Grundreglerne er stort set ens i de fleste lande: en ensfarvet lys baggrund, et neutralt udtryk med lukket mund, begge øjne åbne og tydeligt synlige, ingen reflekser eller farvet tone i brillerne, hvis din myndighed tillader dem på, jævn belysning uden skygger, og et nyligt billede, der opfylder dit lands størrelseskrav. Hver myndighed offentliggør sin egen fulde liste, og detaljerne varierer, så tjek din, før du tager billedet.
+Reglerne varierer efter myndighed, ansøgningsformat og aldersgruppe. GOV.UK kræver som udgangspunkt en ensfarvet cremefarvet eller lysegrå baggrund til trykte fotos, men tillader undtagelser fra kravene til ansigtsudtryk for børn under 6 år og til åbne øjne for børn under ét år.
 
 ## Relaterede artikler
 

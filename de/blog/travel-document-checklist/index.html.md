@@ -12,11 +12,11 @@ Source: https://traveldocumentvault.com/de/blog/travel-document-checklist/
 
 - Die nützlichste Reisedokument-Checkliste ist nach **Zeitpunkt der Handlung** organisiert – nicht nach Dokumenttyp. Die Sortierung nach Reisestadien bedeutet, dass Sie Probleme fangen, während noch Zeit bleibt, sie zu beheben.
 - Pässe müssen bei der Buchung überprüft werden, nicht am Vorabend. Mit weniger als sechs Monaten Restgültigkeit kann Ihnen bei manchen Reisezielen die Reise verweigert werden. Prüfen Sie deshalb bei der Buchung die genaue Anforderung Ihres Ziellands.
-- Familienreisen bringen eine zusätzliche Ebene: Jedes Kind braucht eine individuelle Überprüfung, und eine elterliche Zustimmungserklärung ist erforderlich, wenn ein Elternteil nicht mitreist.
-- Geschäftsreisende tragen oft mehrere Pässe und Arbeitsvisa – diese benötigen separate Verfolgung, getrennt von persönlichen Dokumenten.
+- Familienreisen bringen eine zusätzliche Ebene: Jedes Kind braucht eine individuelle Überprüfung, und eine elterliche Zustimmungserklärung kann erforderlich sein, wenn ein Elternteil nicht mitreist.
+- Geschäftsreisende tragen oft mehrere Pässe und Visa – diese benötigen separate Verfolgung, getrennt von persönlichen Dokumenten.
 - Eine digitale Sicherung jedes Dokuments (verschlüsselt, nicht in Ihrer Fotobibliothek) könnte Sie schneller nach Hause bringen, falls etwas im Ausland schiefgeht.
 
-Die meisten Reisedokument-Checklisten sind nur eine flache Liste: Reisepass, Visum, Versicherung. Sie sagen Ihnen, was Sie mitnehmen, aber nicht, wann Sie es überprüfen – und genau da werden Menschen überrascht. Die Familie, die beim Check-in feststellt, dass ein Pass in fünf Monaten abläuft, der Solo-Reisende, der buchte, ohne die Visaanforderung zu beachten, oder der Geschäftsreisende, der vergaß, welcher Pass sein Firmenvisum trägt – dies sind keine Sonderfälle, sondern die Regel.
+Die meisten Reisedokument-Checklisten sind nur eine flache Liste: Reisepass, Visum, Versicherung. Sie sagen Ihnen, was Sie mitnehmen, aber nicht, wann Sie es überprüfen – und genau da werden Menschen überrascht. Die Familie, die beim Check-in feststellt, dass ein Pass in fünf Monaten abläuft, der Solo-Reisende, der buchte, ohne die Visaanforderung zu beachten, oder der Geschäftsreisende, der vergaß, an welchen Pass sein Visum gebunden ist – dies sind keine Sonderfälle, sondern die Regel.
 
 Diese Checkliste ist stattdessen nach Reisestadien organisiert. Beginnend mit dem Buchungsmoment bis zur Sicherheitskontrolle gibt es in jeder Phase eine bestimmte Reihe von Maßnahmen, die erforderlich sind. Sie in dieser Reihenfolge zu befolgen ist, wie die gewöhnlichen Last-Minute-Durcheinander nicht geschehen.
 
@@ -24,9 +24,9 @@ Diese Checkliste ist stattdessen nach Reisestadien organisiert. Beginnend mit de
 
 Der größte Fehler von Reisenden ist, den Buchungsmoment als administrativ zu behandeln und Dokumentprüfungen als etwas, das später gemacht wird. Diese müssen genau zur gleichen Zeit stattfinden.
 
-**Überprüfen Sie Ihre Pässe vor dem Bezahlen**
+**Überprüfen Sie Ihre Reisedokumente vor dem Bezahlen**
 
-Bevor Sie eine Buchung bestätigen, überprüfen Sie jeden Pass gegen drei Kriterien: Gültigkeit (erfüllt es die Anforderungen des Ziellandes – viele Länder verlangen [sechs Monate Restgültigkeit am Tag der Ankunft](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), einige zählen ab der Ausreise. Prüfen Sie deshalb Ihr Zielland, wie in unserem [Leitfaden zur 6-Monats-Passregel](https://traveldocumentvault.com/de/blog/passport-expiry-6-month-rule/) erläutert), Namensprüfung (der Name im Pass muss genau dem Buchungsnamen entsprechen) und Blankseiten (einige Länder benötigen [mindestens zwei leere Seiten](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements) für Einreisestempel).
+Bevor Sie eine Buchung bestätigen, überprüfen Sie jeden Pass, den Sie für die Reise nutzen, anhand von drei Kriterien: Gültigkeit (erfüllt er die Anforderungen des Ziellandes – viele Länder verlangen [sechs Monate Restgültigkeit am Tag der Ankunft](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), einige zählen ab der Ausreise. Prüfen Sie deshalb Ihr Zielland, wie in unserem [Leitfaden zur 6-Monats-Passregel](https://traveldocumentvault.com/de/blog/passport-expiry-6-month-rule/) erläutert), Namensprüfung (der Name im Pass muss genau dem Buchungsnamen entsprechen) und Blankseiten (einige Länder benötigen [mindestens zwei leere Seiten](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements) für Einreisestempel).
 
 **Überprüfen Sie Ihre Visaanforderungen**
 
@@ -46,7 +46,7 @@ Ein Pass, der innerhalb von 12 Monaten abläuft: starten Sie den Erneuerungsproz
 
 Reichen Sie jeden Visumantrag mit einer Bearbeitungsfrist von vier oder mehr Wochen ein. Bereiten Sie Unterlagen vor: Kontoauszüge, Unterkunftsbestätigungen, Beweis für Weiterreise. Buchen Sie einen Biometrie-Termin im Voraus, falls das Visum dies erfordert.
 
-Für Familien: wenn ein Kind nur mit einem Elternteil oder einem anderen Erwachsenen reist, bereiten Sie jetzt eine Zustimmungserklärung für die Kinderreise vor. Enthalten Sie den vollständigen Namen und das Geburtsdatum des Kindes, Kontaktinformationen beider Eltern, Reisedaten, Reiseziele und die Unterschrift des abwesenden Elternteils. Manche Zielländer verlangen auch eine notarielle Beglaubigung. Prüfen Sie deshalb die Einreiseregeln.
+Für Familien: wenn ein Kind nur mit einem Elternteil oder einem anderen Erwachsenen reist, empfehlen wir, jetzt eine Zustimmungserklärung für die Kinderreise vorzubereiten. Enthalten Sie den vollständigen Namen und das Geburtsdatum des Kindes, Kontaktinformationen beider Eltern, Reisedaten, Reiseziele und die Unterschrift des abwesenden Elternteils. Manche Zielländer verlangen auch eine notarielle Beglaubigung. Prüfen Sie deshalb die Einreiseregeln.
 
 ## Ein Monat vor: Bestätigung und Konsolidierung
 
@@ -54,7 +54,7 @@ Ein Monat vor der Reise sollten alle Ihre Dokumente in Ihren Händen sein. Diese
 
 ### Ausweispapiere
 
-- Pässe bestätigt gültig und in Reiseportmonnaie
+- Pässe oder anerkannte Personalausweise auf Gültigkeit geprüft und im Reiseportemonnaie
 - Visa bestätigt (überprüfen Sie Gültigkeitsdaten, Einreiseanzahl, alle Bedingungen)
 - Nationale Identitätskarte falls am Zielort angenommen (EU-Reisen innerhalb des Schengen-Raums)
 
@@ -67,11 +67,11 @@ Ein Monat vor der Reise sollten alle Ihre Dokumente in Ihren Händen sein. Diese
 
 ### Familie und spezielle Dokumente
 
-- Elterliche Zustimmungserklärung vorbereitet und unterzeichnet
+- Elterliche Zustimmungserklärung vorbereitet und unterzeichnet, falls erforderlich
 - Geburtsurkunden zugänglich falls vom Zielland gefordert
 - Medizinische Unterlagen oder Rezepte für andauernde Zustände
 
-Für Geschäftsreisende: wenn Sie zwei Pässe haben, bestätigen Sie, welcher Pass Ihren Firmenvisum trägt und welcher Sie für Einreise und Ausreise aus jedem Land brauchen. **Einige Länder erfordern, dass Sie auf demselben Dokument ein- und ausreisen**, daher kann ein Fehler hier ein kleines Missverständnis in eine Grenzenverzögerung verwandeln.
+Für Geschäftsreisende: wenn Sie zwei Pässe haben, bestätigen Sie, an welchen Pass Ihr Visum gebunden ist und welchen Sie für Einreise und Ausreise aus jedem Land brauchen. **Einige Länder erfordern, dass Sie auf demselben Dokument ein- und ausreisen**, daher kann ein Fehler hier ein kleines Missverständnis in eine Grenzenverzögerung verwandeln.
 
 ## Am Vorabend: Endbestätigung
 
@@ -81,12 +81,12 @@ Wenn etwas jetzt fehlt, haben Sie Stunden zu tun, es zu sortieren, nicht Wochen.
 
 ### Vorabend
 
-- Pässe raus und abgerechnet – einer pro Person
+- Pässe oder anerkannte Personalausweise bereitgelegt und vollständig – ein Dokument pro Person
 - Bordkarten auf das Telefon heruntergeladen oder ausgedruckt
 - Reiseversicherungszertifikat auf Telefon zugänglich
 - Hotel- und Transferbestätigungen offline heruntergeladen
 - Alle erforderlichen Impf- oder Gesundheitszertifikate
-- Elterliche Zustimmungserklärung in Tasche, nicht in Koffer
+- Elterliche Zustimmungserklärung, falls erforderlich, in der Tasche, nicht im Koffer
 - Notfallkontaktnummern offline irgendwo notiert
 
 ## Am Flughafen: Halten Sie diese griffbereit
@@ -101,13 +101,13 @@ Verschiedene Reisen benötigen verschiedene Dokumentensätze, wie die Tabelle un
 
 | Dokument | Solo | Familie | Geschäftlich | Notizen |
 |---|---|---|---|---|
-| Reisepass | | jedes Mitglied | | Überprüfen Sie die Gültigkeit gegen Zielort, nicht nur Ablaufdatum |
-| Visum (falls erforderlich) | | jedes Mitglied | Firma | Geschäftlich: bestätigen Sie, dass Visum im korrekten Pass ist |
+| Reisepass oder anerkannter Personalausweis | In der Regel | in der Regel jedes Mitglied | In der Regel | Überprüfen Sie die Gültigkeit gegen Zielort, nicht nur Ablaufdatum |
+| Visum (falls erforderlich) | | jedes Mitglied | Visum oder Reisegenehmigung für die geplanten Tätigkeiten prüfen | Geschäftlich: bestätigen Sie, dass Visum im korrekten Pass ist |
 | Reiseversicherung | | alle versichert | überprüfen Sie Arbeitgebervollmacht | Überprüfen Sie Versicherungsabdeckung vor jeder Reise, nicht nur beim Kauf |
 | Buchungsbestätigungen | | | | Offline-Kopie (verlassen Sie sich nicht auf E-Mail-Zugang an Grenzen) |
 | Kindereinverständniserklärung | N/A | falls zutreffend | N/A | In manchen Ländern verlangt, wenn ein Elternteil nicht mitreist |
 | Geburtsurkunden | N/A | falls erforderlich | N/A | Einige Länder fragen bei Kindern unter 18 Jahren danach |
-| Arbeitserlaubnisschreiben | N/A | N/A | falls erforderlich | Einige Länder benötigen Arbeitgeberschreiben für Geschäftsreisende |
+| Arbeitgeberschreiben oder geschäftliches Einladungsschreiben | N/A | N/A | falls erforderlich | Einige Länder benötigen Arbeitgeberschreiben für Geschäftsreisende |
 
 Ist eine Reise bereits gebucht, lohnt sich heute vor allem eines: Holen Sie jeden beteiligten Reisepass hervor und prüfen Sie sein Ablaufdatum gegen die Anforderung des Reiseziels, nicht nur gegen Ihre Reisedaten.
 
@@ -126,7 +126,7 @@ Offizielle Quellen
 
 ### Welche Dokumente benötige ich für internationale Reisen?
 
-Die wichtigsten Dokumente für internationale Reisen sind ein gültiger Reisepass, ggf. erforderliches Visum, Reiseversicherung und Buchungsbestätigungen. Für Familienreisen kommen die Pässe aller Kinder (einzeln überprüft) hinzu, Geburtsurkunden falls vom Zielland gefordert, und eine elterliche Zustimmungserklärung, falls ein Elternteil nicht reist. Geschäftsreisende sollten bestätigen, an welchen Pass ihr Arbeitsvisum gebunden ist.
+Die wichtigsten Dokumente, die Sie für internationale Reisen prüfen sollten, sind ein gültiger Reisepass oder ein anerkannter Personalausweis, ein ggf. erforderliches Visum, eine Reiseversicherung und Buchungsbestätigungen. Für Familienreisen kommen die anerkannten Reisedokumente aller Kinder (einzeln überprüft) hinzu, Geburtsurkunden falls vom Zielland gefordert, und eine elterliche Zustimmungserklärung, falls erforderlich. Geschäftsreisende sollten bestätigen, an welchen Pass ihr Arbeitsvisum gebunden ist.
 
 ### Wann sollte ich meine Reisedokumente überprüfen?
 
@@ -138,7 +138,7 @@ Ja. Die Passgültigkeit, Visaanforderungen und Versicherungsabdeckung jeder Pers
 
 ### Was ist eine elterliche Reisezustimmungserklärung und benötige ich eine?
 
-Eine elterliche Reisezustimmungserklärung ist ein unterzeichnetes Dokument des abwesenden Elternteils, das der Reise des Kindes Zustimmung erteilt. Einige Länder, darunter [Südafrika](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements), stellen zusätzliche Anforderungen an Reisen mit nur einem Elternteil. Die [kanadischen Behörden](https://travel.gc.ca/travelling/children/consent-letter) empfehlen ein unterschriebenes Zustimmungsschreiben. Ohne eines können zusätzliche Fragen oder Verzögerungen entstehen. Der Brief sollte Angaben zum Kind, Kontaktinformationen beider Eltern, Reisedaten, Reiseziele und die Unterschrift des abwesenden Elternteils enthalten.
+Eine elterliche Reisezustimmungserklärung ist ein unterzeichnetes Dokument des abwesenden Elternteils, das der Reise des Kindes Zustimmung erteilt. [Südafrika](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements) verlangt für ausländische Kinder, die in Begleitung reisen und von der Visumpflicht befreit sind, in der Regel keine zusätzlichen Nachweise. Die [kanadischen Behörden](https://travel.gc.ca/travelling/children/consent-letter) empfehlen ein unterschriebenes Zustimmungsschreiben. Ohne eines können zusätzliche Fragen oder Verzögerungen entstehen. Der Brief sollte Angaben zum Kind, Kontaktinformationen beider Eltern, Reisedaten, Reiseziele und die Unterschrift des abwesenden Elternteils enthalten.
 
 ### Welche Dokumente sollte ich am Flughafen griffbereit halten und nicht ins aufgegebene Gepäck?
 

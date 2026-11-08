@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/id/blog/travel-document-checklist/
 - Pelancong bisnis sering membawa beberapa paspor dan visa kerja, ini perlu dilacak tersendiri, terpisah dari dokumen pribadi.
 - Cadangan digital setiap dokumen (terenkripsi, bukan di galeri foto Anda) bisa membantu Anda pulang lebih cepat jika terjadi masalah di luar negeri.
 
-Kebanyakan daftar periksa dokumen perjalanan hanyalah daftar datar: paspor, visa, asuransi. Daftar itu memberi tahu Anda apa yang harus dibawa, tetapi tidak kapan harus memeriksanya, dan di situlah orang sering terjebak. Keluarga yang baru sadar saat check-in bahwa satu paspor akan kedaluwarsa dalam lima bulan, pelancong solo yang memesan tanpa menyadari persyaratan visanya, atau pelancong bisnis yang lupa paspor mana yang terpasang visa perusahaannya, ini bukan kasus langka. Ini yang biasa terjadi.
+Kebanyakan daftar periksa dokumen perjalanan hanyalah daftar datar: paspor, visa, asuransi. Daftar itu memberi tahu Anda apa yang harus dibawa, tetapi tidak kapan harus memeriksanya, dan di situlah orang sering terjebak. Keluarga yang baru sadar saat check-in bahwa satu paspor akan kedaluwarsa dalam lima bulan, pelancong solo yang memesan tanpa menyadari persyaratan visanya, atau pelancong bisnis yang lupa paspor mana yang terpasang visanya, ini bukan kasus langka. Ini yang biasa terjadi.
 
 Daftar periksa ini justru disusun berdasarkan tahap perjalanan. Mulai dari saat Anda memesan hingga pemeriksaan keamanan, setiap tahap memiliki serangkaian tindakan khusus yang perlu dilakukan. Mengikutinya secara berurutan adalah cara agar kepanikan menit terakhir yang biasa terjadi tidak akan terjadi.
 
@@ -24,9 +24,9 @@ Daftar periksa ini justru disusun berdasarkan tahap perjalanan. Mulai dari saat 
 
 Kesalahan terbesar yang dilakukan pelancong adalah memperlakukan momen pemesanan sebagai hal administratif dan pemeriksaan dokumen sebagai sesuatu yang bisa dilakukan nanti. Keduanya perlu dilakukan pada saat yang sama persis.
 
-**Periksa paspor Anda sebelum membayar**
+**Periksa dokumen perjalanan Anda sebelum membayar**
 
-Sebelum mengonfirmasi pemesanan apa pun, periksa paspor setiap pelancong berdasarkan tiga kriteria: masa berlaku (apakah memenuhi persyaratan destinasi, [banyak negara menginginkan sisa masa berlaku enam bulan pada hari kedatangan Anda](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), dan sebagian menghitung dari tanggal keberangkatan, jadi periksa destinasi Anda, seperti dijelaskan dalam [panduan kami tentang aturan paspor 6 bulan](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/)), kecocokan nama (nama di paspor harus persis sama dengan nama pemesanan), dan halaman kosong (beberapa negara mensyaratkan [minimal dua halaman visa kosong](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements) untuk stempel kedatangan).
+Sebelum mengonfirmasi pemesanan apa pun, periksa setiap paspor yang akan digunakan berdasarkan tiga kriteria: masa berlaku (apakah memenuhi persyaratan destinasi, [banyak negara menginginkan sisa masa berlaku enam bulan pada hari kedatangan Anda](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), dan sebagian menghitung dari tanggal keberangkatan, jadi periksa destinasi Anda, seperti dijelaskan dalam [panduan kami tentang aturan paspor 6 bulan](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/)), kecocokan nama (nama di paspor harus persis sama dengan nama pemesanan), dan halaman kosong (beberapa negara mensyaratkan [minimal dua halaman visa kosong](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements) untuk stempel kedatangan).
 
 **Periksa persyaratan visa Anda**
 
@@ -46,7 +46,7 @@ Kami akan memperpanjang paspor mana pun yang kedaluwarsa dalam 12 bulan sekarang
 
 Ajukan permohonan visa apa pun yang memerlukan waktu tunggu, dan periksa ke otoritas penerbit berapa lama waktu yang dibutuhkan saat ini. Siapkan dokumen pendukung: rekening koran, konfirmasi akomodasi, bukti perjalanan lanjutan. Pesan janji temu biometrik lebih awal jika visa mensyaratkannya.
 
-Untuk keluarga: jika seorang anak bepergian hanya dengan satu orang tua atau orang dewasa lain, siapkan surat izin perjalanan anak sekarang. Sertakan nama lengkap dan tanggal lahir anak, informasi kontak kedua orang tua, tanggal perjalanan, destinasi, dan tanda tangan orang tua yang tidak ikut. Beberapa destinasi juga meminta surat itu dilegalisasi notaris, jadi periksa aturan masuknya.
+Untuk keluarga: jika seorang anak bepergian hanya dengan satu orang tua atau orang dewasa lain, kami sarankan menyiapkan surat izin perjalanan anak sekarang. Sertakan nama lengkap dan tanggal lahir anak, informasi kontak kedua orang tua, tanggal perjalanan, destinasi, dan tanda tangan orang tua yang tidak ikut. Beberapa destinasi juga meminta surat itu dilegalisasi notaris, jadi periksa aturan masuknya.
 
 ## Satu Bulan Sebelumnya: Konfirmasi dan Kumpulkan
 
@@ -54,7 +54,7 @@ Satu bulan sebelum keberangkatan, semua dokumen Anda seharusnya sudah di tangan.
 
 ### Dokumen Identitas
 
-- Paspor dikonfirmasi berlaku dan berada di dompet perjalanan
+- Paspor atau kartu identitas nasional yang diterima dikonfirmasi berlaku dan berada di dompet perjalanan
 - Visa dikonfirmasi (periksa tanggal berlaku, jumlah kali masuk, syarat apa pun)
 - Kartu identitas nasional jika diterima di destinasi (perjalanan UE dalam wilayah Schengen)
 
@@ -67,11 +67,11 @@ Satu bulan sebelum keberangkatan, semua dokumen Anda seharusnya sudah di tangan.
 
 ### Dokumen Keluarga dan Khusus
 
-- Surat izin orang tua sudah disiapkan dan ditandatangani
+- Surat izin orang tua sudah disiapkan dan ditandatangani jika diperlukan
 - Akta kelahiran tersedia jika diperlukan oleh negara tujuan
 - Rekam medis atau resep untuk kondisi kesehatan berkelanjutan
 
-Untuk pelancong bisnis: jika Anda memegang dua paspor, konfirmasi paspor mana yang terpasang visa perusahaan Anda dan paspor mana yang Anda perlukan untuk masuk dan keluar dari setiap negara. **Beberapa negara mensyaratkan Anda masuk dan keluar dengan dokumen yang sama**, jadi salah dalam hal ini bisa mengubah kesalahan kecil menjadi keterlambatan di perbatasan.
+Untuk pelancong bisnis: jika Anda memegang dua paspor, konfirmasi paspor mana yang terpasang visa Anda dan paspor mana yang Anda perlukan untuk masuk dan keluar dari setiap negara. **Beberapa negara mensyaratkan Anda masuk dan keluar dengan dokumen yang sama**, jadi salah dalam hal ini bisa mengubah kesalahan kecil menjadi keterlambatan di perbatasan.
 
 ## Malam Sebelumnya: Konfirmasi Terakhir
 
@@ -81,12 +81,12 @@ Jika ada yang hilang sekarang, Anda masih punya waktu berjam-jam untuk mengatasi
 
 ### Malam Sebelumnya
 
-- Paspor sudah dikeluarkan dan dihitung, satu per orang
+- Paspor atau kartu identitas nasional yang diterima sudah dikeluarkan dan dihitung, satu per orang
 - Boarding pass sudah diunduh ke ponsel atau dicetak
 - Sertifikat asuransi perjalanan tersedia di ponsel
 - Konfirmasi hotel dan transfer sudah diunduh secara luring
 - Sertifikat vaksinasi atau kesehatan yang diperlukan
-- Surat izin orang tua ada di tas jinjing, bukan di koper
+- Surat izin orang tua, jika diperlukan, ada di tas jinjing, bukan di koper
 - Nomor kontak darurat sudah ditulis di suatu tempat secara luring
 
 ## Di Bandara: Bawa Ini Bersama Anda
@@ -101,13 +101,13 @@ Perjalanan yang berbeda memerlukan kumpulan dokumen yang berbeda pula, seperti y
 
 | Dokumen | Solo | Keluarga | Bisnis | Catatan |
 |---|---|---|---|---|
-| Paspor | | setiap anggota | | Periksa masa berlaku terhadap destinasi, bukan hanya tanggal kedaluwarsa |
-| Visa (jika diperlukan) | | setiap anggota | perusahaan | Bisnis: konfirmasi visa terpasang di paspor yang benar |
+| Paspor atau kartu identitas nasional yang diterima | Umumnya | umumnya, setiap anggota | Umumnya | Periksa masa berlaku terhadap destinasi, bukan hanya tanggal kedaluwarsa |
+| Visa (jika diperlukan) | | setiap anggota | periksa visa atau izin perjalanan untuk aktivitas yang direncanakan | Bisnis: konfirmasi visa terpasang di paspor yang benar |
 | Asuransi perjalanan | | semua tercakup | periksa apakah perusahaan menanggung Anda | Konfirmasi cakupan sebelum setiap perjalanan, bukan hanya saat membeli |
 | Konfirmasi pemesanan | | | | Salinan luring (jangan mengandalkan akses email di perbatasan) |
 | Surat izin anak | Tidak berlaku | jika berlaku | Tidak berlaku | Diminta di beberapa negara jika satu orang tua tidak ikut |
 | Akta kelahiran | Tidak berlaku | jika diperlukan | Tidak berlaku | Beberapa negara memintanya untuk anak di bawah 18 tahun |
-| Surat izin kerja | Tidak berlaku | Tidak berlaku | jika diperlukan | Beberapa destinasi mensyaratkan surat dari perusahaan untuk pelancong bisnis |
+| Surat dari perusahaan atau surat undangan bisnis | Tidak berlaku | Tidak berlaku | jika diperlukan | Beberapa destinasi mensyaratkan surat dari perusahaan untuk pelancong bisnis |
 
 Jika perjalanan sudah dipesan, satu hal yang layak dilakukan hari ini adalah mengeluarkan setiap paspor yang terlibat dan memeriksa tanggal kedaluwarsanya terhadap persyaratan negara tujuan, bukan hanya terhadap tanggal perjalanan Anda.
 
@@ -126,7 +126,7 @@ Sumber resmi
 
 ### Dokumen apa saja yang saya butuhkan untuk perjalanan internasional?
 
-Dokumen inti untuk perjalanan internasional adalah paspor yang berlaku, visa yang diperlukan (jika ada), asuransi perjalanan, dan konfirmasi pemesanan. Untuk perjalanan keluarga, tambahkan paspor setiap anak (diperiksa satu per satu), akta kelahiran jika diperlukan oleh destinasi, dan surat izin orang tua jika salah satu orang tua tidak ikut bepergian. Pelancong bisnis sebaiknya memastikan paspor mana yang terpasang visa kerja mereka.
+Dokumen inti yang perlu diperiksa untuk perjalanan internasional adalah paspor yang berlaku atau kartu identitas nasional yang diterima, visa yang diperlukan (jika ada), asuransi perjalanan, dan konfirmasi pemesanan. Untuk perjalanan keluarga, tambahkan dokumen perjalanan yang diterima untuk setiap anak (diperiksa satu per satu), akta kelahiran jika diperlukan oleh destinasi, dan surat izin orang tua jika diperlukan. Pelancong bisnis sebaiknya memastikan paspor mana yang terpasang visa kerja mereka.
 
 ### Berapa lama sebelumnya saya harus memeriksa dokumen perjalanan saya?
 
@@ -138,7 +138,7 @@ Ya. Masa berlaku paspor, persyaratan visa, dan cakupan asuransi setiap orang din
 
 ### Apa itu surat izin perjalanan anak dan apakah saya memerlukannya?
 
-Surat izin perjalanan anak adalah dokumen yang ditandatangani oleh orang tua yang tidak ikut bepergian, memberikan izin bagi anak untuk bepergian. Beberapa negara, termasuk [Afrika Selatan](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements), menetapkan persyaratan tambahan untuk anak yang bepergian dengan satu orang tua, dan otoritas Kanada menganjurkan surat izin yang ditandatangani. Tanpa surat ini Anda mungkin menghadapi pertanyaan tambahan atau penundaan. Surat tersebut sebaiknya mencantumkan detail anak, informasi kontak kedua orang tua, tanggal perjalanan, destinasi, dan tanda tangan orang tua yang tidak ikut.
+Surat izin perjalanan anak adalah dokumen yang ditandatangani oleh orang tua yang tidak ikut bepergian, memberikan izin bagi anak untuk bepergian. [Afrika Selatan](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements) umumnya tidak mewajibkan dokumen pendukung tambahan bagi anak berkewarganegaraan asing yang bebas visa dan bepergian dengan pendamping, dan otoritas Kanada menganjurkan surat izin yang ditandatangani. Tanpa surat ini Anda mungkin menghadapi pertanyaan tambahan atau penundaan. Surat tersebut sebaiknya mencantumkan detail anak, informasi kontak kedua orang tua, tanggal perjalanan, destinasi, dan tanda tangan orang tua yang tidak ikut.
 
 ### Dokumen apa yang harus saya simpan agar mudah diakses di bandara dan tidak di bagasi tercatat?
 

@@ -80,7 +80,7 @@ Source: https://traveldocumentvault.com/blog/
 
 ##
 
-[Family Travel Schengen Passport Rules for Family Trips: What Parents Get Wrong Schengen needs 3 months' validity beyond departure, not 6 - and kids' passports expire in 5 years. What families should check the day they book. July 10, 20266 min read](https://traveldocumentvault.com/blog/schengen-passport-rules-family-trips/)
+[Family Travel Schengen Passport Rules for Family Trips: What Parents Get Wrong Schengen needs 3 months' validity beyond departure, not 6 - and UK kids' passports last 5 years. What families should check the day they book. July 10, 20266 min read](https://traveldocumentvault.com/blog/schengen-passport-rules-family-trips/)
 
 ##
 
@@ -124,7 +124,7 @@ Source: https://traveldocumentvault.com/blog/
 
 ##
 
-[Passport Rules Digital Copy of Your Passport: Where It's Accepted and Not A digital copy is a photo or scan of your passport. Hotels often accept one; airlines and borders do not. Where it counts, and how to store yours safely. Apr 4, 20267 min read](https://traveldocumentvault.com/blog/digital-passport-copy-valid/)
+[Passport Rules Digital Copy of Your Passport: Where It's Accepted and Not A digital copy is a photo or scan of your passport. Some hotels accept one; airlines and borders do not. Where it counts, and how to store yours safely. Apr 4, 20267 min read](https://traveldocumentvault.com/blog/digital-passport-copy-valid/)
 
 ##
 

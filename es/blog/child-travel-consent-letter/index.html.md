@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/es/blog/child-travel-consent-letter/
 ## Puntos Clave
 
 - Los requisitos varían significativamente según el país. **Una carta que funciona en un destino puede no ser aceptada en otro.**
-- Muchos países **recomiendan encarecidamente la autenticación notarial o certificación** por un abogado o notario, y algunas fronteras o aerolíneas la tratan como efectivamente obligatoria incluso donde no es legalmente obligatoria.
+- Canadá **recomienda encarecidamente que un notario público presencie la firma**.
 - La carta suele incluir el nombre completo del menor, fecha de nacimiento, número de pasaporte, fechas exactas de viaje, destinos y datos de contacto del progenitor ausente.
 - Los rechazos frecuentes provienen de información faltante, falta de autenticación notarial, firmas desactualizadas o números de contacto no verificables.
 - Lleva una copia impresa como documento principal y mantén una copia de seguridad digital cifrada para emergencias.
@@ -24,16 +24,16 @@ Ese escenario ocurre una y otra vez, porque las cartas de consentimiento de viaj
 
 ## ¿Quién Realmente Necesita una Carta de Consentimiento de Viaje?
 
-Depende completamente de tu destino —no hay un estándar global, por eso tantas familias se sorprenden.
+Depende de los países involucrados —no hay un estándar global, por eso tantas familias se sorprenden.
 
-Una carta se requiere comúnmente en estas situaciones:
+Puede necesitarse una carta en estas situaciones:
 
 - **Un menor viaja con un solo progenitor.** Los agentes de inmigración quieren pruebas de que el otro progenitor está de acuerdo con el viaje.
 - **Un menor viaja sin sus padres.** La carta autoriza a un abuelo, tía, tío u otro tutor a viajar con el menor. Algunos países piden el consentimiento de ambos progenitores en esta situación.
 - **Un menor viaja con un progenitor cuyo apellido difiere del del menor.** Esto levanta sospechas en algunas fronteras, particularmente en menores más jóvenes.
 - **Un menor es adoptado o en acogimiento temporal.** Necesitarás documentos de tutela legal junto con la carta de consentimiento.
 
-**Atención:** Las normas varían mucho según el país. Canadá no la exige por ley, pero el [Gobierno canadiense](https://travel.gc.ca/travelling/children/consent-letter) la recomienda firmemente y advierte que "no presentar una carta cuando te la soliciten puede causar retrasos o que no te permitan entrar o salir de un país". Sudáfrica pide una declaración jurada de consentimiento parental cuando uno de los progenitores no viaja. Algunos países aplican requisitos solo a menores de cierta edad. No hay un estándar global.
+**Atención:** Las normas varían mucho según el país. Canadá no la exige por ley, pero el [Gobierno canadiense](https://travel.gc.ca/travelling/children/consent-letter) la recomienda firmemente y advierte que "no presentar una carta cuando te la soliciten puede causar retrasos o que no te permitan entrar o salir de un país". Según la Embajada de Sudáfrica, los menores extranjeros exentos de visado que viajan con un adulto generalmente no necesitan una carta de consentimiento parental. Algunos países aplican requisitos solo a menores de cierta edad. No hay un estándar global.
 
 Siempre verifica los requisitos directamente con la autoridad de inmigración de tu país de destino específico antes de viajar. Usa el IATA Travel Centre para verificar requisitos de entrada, o contacta a la embajada de tu país de destino. Si tienes dudas, tener la carta es mejor que la alternativa: ser detenido en el mostrador o la frontera.
 
@@ -62,10 +62,10 @@ Cuando se pide o recomienda una carta con firma ante testigo, suele significar q
 Esto es lo que dicen algunos países sobre la autenticación notarial:
 
 - **Canadá.** No es obligatoria por ley, pero el [Gobierno canadiense](https://travel.gc.ca/travelling/children/documents) la recomienda firmemente y sugiere que un notario público vea cómo firmas. Las aerolíneas y frontera pueden pedirla.
-- **Sudáfrica.** El [Department of Home Affairs](https://www.gov.za/news/speeches/director-general-mkuseli-apleni-media-briefing-new-requirements-travelling-children) pide una declaración jurada de consentimiento parental cuando uno de los progenitores no viaja y señala que no debe tener más de 4 meses al presentarla. Consulta su página actualizada.
-- **Australia.** Smartraveller publica orientación sobre viajes con menores, y las aerolíneas pueden pedir una carta. Consulta las indicaciones para el país del que sales y aquel al que entras.
-- **Reino Unido.** No es obligatoria para viajes de salida, pero las aerolíneas y destinos pueden pedirla cuando un menor viaja con un solo progenitor o con un adulto que no es padre/madre. Consulta la orientación de GOV.UK para tu ruta.
-- **Estados Unidos.** No es obligatorio federalmente pero recomendado. Algunos estados aceptan legalización notarial.
+- **Sudáfrica.** Según la Embajada de Sudáfrica, los menores extranjeros exentos de visado que viajan con un adulto generalmente no necesitan una carta de consentimiento parental. [Comunicado del Department of Home Affairs](https://www.gov.za/news/speeches/director-general-mkuseli-apleni-media-briefing-new-requirements-travelling-children).
+- **Australia.** Pregunta a tu aerolínea por las cartas de consentimiento para menores que viajan sin ambos progenitores.
+- **Reino Unido.** Según GOV.UK, para llevar a un menor al extranjero desde el Reino Unido generalmente se necesita el permiso de todas las personas con responsabilidad parental o de un tribunal. Una carta suele bastar para demostrar el permiso; hay excepciones.
+- **Estados Unidos.** Según USAGov, puede necesitarse una carta de consentimiento cuando un menor viaja solo o con un único progenitor o tutor legal.
 
 Las tarifas notariales varían según el país y el notario, y según la rapidez con la que necesites cita, así que pregunta cuánto costará y con cuánta antelación debes reservar, especialmente en vacaciones escolares. Confirma siempre los requisitos de tu destino primero. Es el país donde llegas quien decide si la necesitas, no el tuyo.
 
@@ -77,7 +77,7 @@ Incluso familias bien preparadas cometen errores que llevan al rechazo en la fro
 2. **Fechas de viaje vagas.** Frases como "verano de 2026" son demasiado amplias. Usa fechas exactas de salida y regreso.
 3. **No firmada por el progenitor ausente.** Una carta firmada solo por el progenitor que viaja es inútil. Ambos progenitores (o tutores legales) deben firmar si ambos tienen custodia legal.
 4. **Falta de autenticación notarial cuando sea requerida.** Si se pide una carta firmada ante testigo, pueden rechazar una que no lo esté.
-5. **Firma desactualizada.** No hay un plazo de validez general y algunas autoridades fijan límites cortos —4 meses para la declaración jurada de Sudáfrica—, así que es más seguro llevar una firma reciente.
+5. **Firma desactualizada.** Llevaríamos una carta firmada recientemente.
 6. **Número de pasaporte o nombre del menor incorrecto.** Incluso pequeñas discrepancias levantan banderas y causan demoras.
 7. **Lista de destinos incompleta.** Si la carta dice "Europa" pero no nombra países específicos, puede ser rechazada.
 8. **Sin declaración de permiso explícito.** La carta debe indicar claramente que el progenitor ausente consiente en este viaje.
@@ -87,22 +87,22 @@ Incluso familias bien preparadas cometen errores que llevan al rechazo en la fro
 | País | Requisito | Autenticación Notarial | Fuente Oficial |
 |---|---|---|---|
 | **Canadá** | Fuertemente recomendada (no legalmente requerida) | Recomendada (notario público) | travel.gc.ca |
-| **Sudáfrica** | Se pide una declaración jurada de consentimiento parental cuando uno de los progenitores no viaja | Declaración jurada ante una persona autorizada (el departamento menciona sus embajadas) | Department of Home Affairs |
-| **Australia** | Las aerolíneas pueden pedirla | Consulta la orientación actualizada | Smart Traveller |
-| **Reino Unido** | No legalmente requerida; las aerolíneas y fronteras de destino pueden solicitar | Consulta la orientación actualizada | GOV.UK |
-| **Estados Unidos** | No requerida federalmente; varía por estado | Consulta la orientación actualizada | travel.state.gov |
-| **Unión Europea** | Varía por país | Varía por país | IATA Travel Centre |
-| **Nueva Zelanda** | Recomendada | Suele ir firmada por los progenitores y ante un funcionario público | [SafeTravel](https://www.safetravel.govt.nz/before-you-go/who-is-travelling/travelling-with-children) (Gobierno de Nueva Zelanda) |
+| **Sudáfrica** | Los menores extranjeros exentos de visado que viajan con un adulto generalmente no necesitan una carta de consentimiento parental | Pregunta quién debe presenciar la firma según las condiciones de viaje de tu hijo | Embajada de Sudáfrica: servicios consulares |
+| **Australia** | Pregunta a tu aerolínea por las cartas de consentimiento | Consulta la orientación actualizada | Orientación del Gobierno australiano |
+| **Reino Unido** | Para viajar al extranjero desde el Reino Unido generalmente se necesita el permiso de todas las personas con responsabilidad parental o de un tribunal; una carta suele bastar; hay excepciones | Consulta la orientación actualizada | GOV.UK |
+| **Estados Unidos** | Según USAGov, puede necesitarse una carta de consentimiento cuando el menor viaja solo o con un único progenitor o tutor legal | Pregunta por los requisitos de firma ante testigo | USAGov: documentos de viaje internacionales para menores |
+| **Unión Europea** | Varía por país | Pregunta quién debe firmar la carta y presenciar la firma | Tu Europa: documentos para menores que viajan por la UE |
+| **Nueva Zelanda** | Orientación de Nueva Zelanda para viajes al extranjero: puede necesitarse una carta de consentimiento si el menor viaja sin uno o ambos progenitores | Orientación de Nueva Zelanda para viajes al extranjero: suele ir firmada por los progenitores y ante un funcionario público | [SafeTravel](https://www.safetravel.govt.nz/before-you-go/who-is-travelling/travelling-with-children) (Gobierno de Nueva Zelanda) |
 
 Toma esta tabla como punto de partida, no como la última palabra. Las normas cambian frecuentemente, y la propia autoridad de inmigración del destino es tu fuente más confiable. Los blogs de viaje y páginas de aerolíneas son útiles para contexto, pero pueden quedar atrás de los requisitos más recientes.
 
-## Lleva una copia impresa y guarda una copia digital de respaldo
+## Lleva el original y guarda una copia digital de respaldo
 
-Una vez firmada y legalizada, lo importante es mantenerla segura y accesible durante el viaje. Guarda tres copias:
+Una vez firmada y legalizada, lo importante es mantenerla segura y accesible durante el viaje. Conserva estas tres versiones:
 
-1. **Original legalizado**, guardado en casa en un lugar seguro (caja de seguridad de banco o archivo familiar).
-2. **Copia impresa**, en tu carpeta de viaje o cartera de documentos.
-3. **Copia digital cifrada**, guardada de forma segura para poder reimprimir en caso de emergencia.
+1. **Carta original firmada**, en tu carpeta de viaje o cartera de documentos.
+2. **Copia impresa de repuesto**, guardada por separado por si se pierde el original.
+3. **Copia digital cifrada**, para poder reimprimirla si se pierde o daña una copia en papel.
 
 El Gobierno de Canadá señala que es mejor llevar cartas originales firmadas y que los agentes pueden no aceptar fotocopias o versiones digitales. Lleva el original impreso y guarda la copia digital como respaldo.
 
@@ -136,11 +136,11 @@ Fuentes oficiales
 
 ### ¿Necesito una carta de consentimiento de viaje de menores?
 
-Depende de tu destino. Los requisitos varían significativamente según el país. Normalmente la necesitas cuando un menor viaja con un solo progenitor, con ninguno de ellos, o con un tutor. Algunos países la exigen en casi todas las situaciones de viaje internacional; otros no tienen ningún requisito formal. Siempre verifica con la autoridad de inmigración de tu destino específico.
+Depende de tu destino. Los requisitos varían según el país. Puede necesitarse una carta de consentimiento cuando un menor viaja con un solo progenitor, con ninguno de ellos o con un tutor.
 
 ### ¿Debe estar autenticada notarialmente una carta de consentimiento de viaje?
 
-Depende del destino. Canadá recomienda encarecidamente la autenticación notarial, pero no exige legalmente una carta de consentimiento en absoluto. Sudáfrica pide una declaración jurada de consentimiento parental cuando uno de los progenitores no viaja. Australia, el Reino Unido y Estados Unidos publican su propia orientación, y las aerolíneas pueden pedir una carta. Siempre verifica con la autoridad de inmigración de tu país de destino antes de firmar.
+Depende del destino. Canadá recomienda encarecidamente la autenticación notarial, pero no exige legalmente una carta de consentimiento en su territorio. Según la Embajada de Sudáfrica, los menores extranjeros exentos de visado que viajan con un adulto generalmente no necesitan una carta de consentimiento parental.
 
 ### ¿Qué ocurre si se rechaza una carta de consentimiento de viaje en frontera?
 
@@ -148,7 +148,7 @@ Los agentes fronterizos pueden denegar la entrada o impedir que el menor viaje. 
 
 ### ¿Cuánto tiempo es válida una carta de consentimiento de viaje de menores?
 
-No hay un único plazo de validez. La orientación de Canadá no fija ninguno, y Sudáfrica señala que su declaración jurada no debe tener más de 4 meses. Llevaríamos una carta firmada recientemente, preferiblemente en los últimos meses, y comprobaríamos las normas del destino. Si se renueva el pasaporte del menor, prepara una carta nueva, porque la anterior tendrá el número antiguo.
+No hay un único plazo de validez. La orientación de Canadá no fija ninguno. Llevaríamos una carta firmada recientemente, preferiblemente en los últimos meses, y comprobaríamos las normas del destino. Si se renueva el pasaporte del menor, prepara una carta nueva, porque la anterior tendrá el número antiguo.
 
 ### ¿Se puede guardar una carta de consentimiento de viaje de menores de forma digital?
 

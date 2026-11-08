@@ -1,6 +1,6 @@
 # Hoe lang duurt een paspoortverlenging? (VS, VK, Australië, Canada)
 
-> Hoe lang duurt een paspoortverlenging? Dat hangt meer af van je situatie dan van je land. Dit is wat het echt vertraagt, en waar je actuele tijden checkt.
+> De duur van paspoortverlenging hangt af van aanvraaglocatie en dienst. Wat de aanvraag kan vertragen en waar je actuele tijden voor je land vindt.
 
 Source: https://traveldocumentvault.com/nl/blog/how-long-does-passport-renewal-take/
 
@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/nl/blog/how-long-does-passport-renewal-t
 ## Belangrijkste punten
 
 - Hoe lang een verlenging duurt hangt af van je land, je situatie en het seizoen waarin je aanvraagt – er bestaat geen enkel getal dat lang accuraat blijft, dus we hebben er bewust een weggelaten uit deze gids.
-- De meeste landen hebben een standaardwachtrij plus een of meer betaalde, snellere routes. De snellere routes kopen je een eerdere plek in de rij of een boekbare afspraak – ze slaan geen enkele controle over.
+- Standaardverwerking en snellere diensten hebben verschillende doorlooptijden. Snellere routes hangen af van waar je aanvraagt en voor welke dienst je in aanmerking komt.
 - Een handvol situaties vertraagt de aanvraag betrouwbaar: een naamswijziging, een eerste volwassen paspoort, een aanvraag voor een kind, een verloren of beschadigd paspoort, extra controles, hoogseizoen en aanvragen vanuit het buitenland.
 - De veiligste aanpak is aanvragen zodra de resterende geldigheid van je paspoort krap begint te worden, en terugrekenen vanaf je werkelijke reisdatum in plaats van te gokken.
 - Voor het getal dat er nu toe doet, ga je naar je eigen paspoortinstantie – HM Passport Office, het Amerikaanse ministerie van Buitenlandse Zaken, het Australische paspoortkantoor, of je nationale tegenhanger – niet naar een blogartikel.
@@ -20,25 +20,27 @@ Je hebt vluchten geboekt voor een reis over vijf maanden. Je haalt ieders paspoo
 
 Er bestaat geen enkel getal, en elk artikel dat je er een geeft, gokt er stilzwijgend op dat je nooit merkt wanneer het verouderd raakt.
 
-Verwerkingstijden veranderen met personeelsbezetting, aanvraagvolume en seizoen, dus een getal dat vandaag klopt kan binnen een paar maanden makkelijk fout zijn. Wat veel minder vaak verandert, is de vorm van de beslissing zelf: elke paspoortinstantie heeft een standaardwachtrij en minstens één betaalde manier om sneller te gaan, en een specifieke set situaties vertraagt betrouwbaar een aanvraag, ongeacht welk land het paspoort heeft uitgegeven. Daar gaat deze gids over, samen met precies waar je het getal opzoekt dat op jou van toepassing is.
+Verwerkingstijden variëren, dus een getal dat vandaag klopt kan binnen een paar maanden makkelijk fout zijn. Wat veel minder vaak verandert, is de vorm van de beslissing zelf: standaard- en snellere routes hangen af van waar je aanvraagt en voor welke dienst je in aanmerking komt, en een specifieke set situaties vertraagt betrouwbaar een aanvraag, ongeacht welk land het paspoort heeft uitgegeven. Daar gaat deze gids over, samen met precies waar je het getal opzoekt dat op jou van toepassing is.
 
-**Let op:** We geven hier bewust geen verwerkingstijden. Ze veranderen met het seizoen en de personeelsbezetting, en een getal dat vandaag klopt kan binnen een paar maanden fout zijn. Je eigen paspoortinstantie publiceert het actuele getal – HM Passport Office, het Amerikaanse ministerie van Buitenlandse Zaken, het Australische paspoortkantoor, of je nationale tegenhanger – en dat is de enige bron die het vertrouwen waard is.
+**Let op:** We geven hier bewust geen verwerkingstijden. Ze variëren, en een getal dat vandaag klopt kan binnen een paar maanden fout zijn. Je eigen paspoortinstantie publiceert het actuele getal – HM Passport Office, het Amerikaanse ministerie van Buitenlandse Zaken, het Australische paspoortkantoor, of je nationale tegenhanger – en dat is de enige bron die het vertrouwen waard is.
 
-## Elk paspoortsysteem kent dezelfde twee routes
+## Standaard- en snellere routes voor paspoortverlenging
 
-Haal de landspecifieke formulieren weg en de systemen volgen allemaal dezelfde vorm. Er is een standaardroute die aanvragen ongeveer op volgorde van binnenkomst verwerkt, en er is meestal minstens één betaalde route die je hoger in die rij zet. De meeste instanties bieden een betaalde, snellere route; het VK heeft een 1 Week Fast Track en, voor verlengingen van volwassenen, een 1 Day Premium-service. De namen verschillen per land; het onderliggende mechanisme niet.
+Begin met de standaardverwerkingstijd van je paspoortinstantie en controleer dan of er een snellere dienst beschikbaar is voor jouw situatie.
 
-Het loont om precies te zijn over wat je eigenlijk koopt als je voor snelheid betaalt, want het is makkelijk om aan te nemen dat je stappen overslaat. Dat doe je niet. Een sneller niveau koopt je een eerdere plek in de rij of een boekbare afspraak – het scheldt de documentcontroles, de fotovereisten of de identiteitsverificatie die elke aanvraag doorloopt niet kwijt. Als je formulier fout is of je foto voldoet niet aan de eisen, redt extra betalen het niet. Het brengt je alleen sneller naar de afwijzing.
+Het VK heeft een 1 Week Fast Track-service, met bezorging 1 week na je afspraak, en, alleen voor verlengingen van volwassenen, een 1 Day Premium-service. De opties verschillen per land, ook wat betreft wie ervoor in aanmerking komt.
+
+Het loont om precies te zijn over wat je eigenlijk koopt als je voor snelheid betaalt. Een snellere dienst heeft een eigen doorlooptijd en eigen eisen voor documenten, foto's en identiteitsverificatie. Als je formulier fout is of je foto voldoet niet aan de eisen, redt extra betalen het niet.
 
 | Route | Waar je eigenlijk voor betaalt |
 |---|---|
-| Standaard | Verwerkt ongeveer op volgorde van binnenkomst, zonder prioriteit. De standaardkeuze voor iedereen zonder een snel naderende reis. |
-| Betaalde expedited / fast track / prioriteit | Een eerdere plek in de rij of een boekbare afspraak vóór de standaardachterstand. Dezelfde toelatingsregels en dezelfde documentcontroles gelden. |
-| Persoonlijke spoedafspraak | Directe toegang tot een paspoortkantoor of instantie wanneer een reis echt op korte termijn is. Vereist bewijs van reisdata, en wordt over het algemeen alleen aangeboden wanneer de standaard- en betaalroutes duidelijk niet op tijd zijn. |
+| Standaard | Standaardverwerking, met de actuele doorlooptijd die je paspoortinstantie publiceert. |
+| Betaalde expedited / fast track / prioriteit | Een snellere dienst, waar beschikbaar. Wie ervoor in aanmerking komt en wat je moet opsturen, hangt af van de instantie en de dienst. |
+| Persoonlijke spoedafspraak | Een afspraak voor een spoedaanvraag die aan de voorwaarden voldoet. Welk bewijs van je reis je nodig hebt, hangt af van de instantie en de dienst. |
 
 Wat dit in de praktijk betekent
 
-Stel dat je reist tijdens het hoogseizoen van een land en je paspoort begint richting de grens te lopen. Betalen voor de snellere route koopt je zekerheid: een eerdere plek in de rij, ongeacht hoe lang de standaardachterstand die maand is geworden. Blijf je in plaats daarvan bij standaardverwerking tijdens een drukke periode, dan gok je erop dat de gepubliceerde tijdschatting nog steeds de werkelijkheid weerspiegelt – en dat is precies de aanname die mensen te grazen neemt.
+Stel dat je reist tijdens het hoogseizoen van een land en je paspoort begint richting de grens te lopen. Een snellere route kan helpen als je ervoor in aanmerking komt en de doorlooptijd bij je reis past. Controleer wanneer die termijn ingaat en houd rekening met de bezorging voordat je een dienst kiest.
 
 Eén kanttekening: toelating tot de snellere routes hangt meestal af van je situatie, niet alleen van je bereidheid om te betalen. De [1 Day Premium-service](https://www.gov.uk/get-a-passport-urgently) van het VK is alleen voor verlengingen van volwassenen, met de vroegst mogelijke afspraak 2 dagen na je aanvraag. Controleer de toelatingsregels voordat je aanneemt dat een route voor jou open staat – kom er niet pas achter aan de balie.
 
@@ -66,15 +68,15 @@ Wees voorzichtig met het overnemen van iemand anders' tijdlijn. Een vriend die v
 
 Dit is het deel dat we bewust overlaten aan degenen die het systeem daadwerkelijk runnen. In het VK is dat HM Passport Office. In de VS is dat het ministerie van Buitenlandse Zaken. In Australië is dat het Australische paspoortkantoor. In Canada is dat Immigration, Refugees and Citizenship Canada, samen met Service Canada voor persoonlijke aanvragen. De meeste andere landen publiceren een vergelijkbaar getal via hun eigen nationale paspoort- of buitenlandse zakeninstantie.
 
-Wat context helpt je dat getal correct te gebruiken. HM Passport Office draait een digitale dienst voor bevoegde volwassenen die vanuit het VK aanvragen; iedereen die vanuit het buitenland aanvraagt gebruikt in plaats daarvan de aparte overzeese dienst. [Canada biedt online verlenging](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html) als je het paspoort over 20 werkdagen of later nodig hebt; voor alle anderen geldt de papieren aanvraagprocedure. Raadpleeg voor de VS en Australië de officiële website voor de actuele voorwaarden en indieningswijze. Reken waar je ook aanvraagt posttijd erbij op naast wat IRCC publiceert. Deze instanties zijn het vertrouwen waard omdat hun getallen meebewegen met het werkelijke, actuele aanvraagvolume, niet met een verouderd gemiddelde – check vlak voordat je aanvraagt, niet weken van tevoren.
+Wat context helpt je dat getal correct te gebruiken. HM Passport Office draait een digitale dienst voor bevoegde volwassenen die vanuit het VK aanvragen; iedereen die vanuit het buitenland aanvraagt gebruikt in plaats daarvan de aparte overzeese dienst. [Canada biedt online verlenging](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html) voor aanvragers die aan de voorwaarden voldoen en de komende 20 werkdagen niet reizen, maar dat is slechts één van de voorwaarden om online aan te vragen. Raadpleeg voor de VS en Australië de officiële website voor de actuele voorwaarden en indieningswijze. Reken waar je ook aanvraagt posttijd erbij op naast wat IRCC publiceert. Raadpleeg deze instanties voor de actuele verwerkingstijden – check vlak voordat je aanvraagt, niet weken van tevoren.
 
 ## Kun je reizen terwijl je paspoort wordt verlengd?
 
-Soms – mits je huidige paspoort nog geldig is en je het niet fysiek hebt afgegeven als onderdeel van de aanvraag. Sommige instanties vragen je huidige paspoort bij de aanvraag, dus controleer dit voordat je boekt. Zodra je je oude paspoort hebt opgestuurd, moet je wachten. Het enige aandachtspunt: een visum is gekoppeld aan het paspoort waarin het is gestempeld, dus controleer de regels van je bestemming voordat je vliegt.
+Soms – mits je huidige paspoort nog geldig is en je het niet fysiek hebt afgegeven als onderdeel van de aanvraag. Sommige instanties vragen je huidige paspoort bij de aanvraag; andere laten je het tijdens de verwerking blijven gebruiken en maken het ongeldig nadat het nieuwe is uitgegeven. Controleer dit bij je eigen instantie voordat je boekt of reist. Zodra je je oude paspoort hebt opgestuurd, moet je wachten. Het enige aandachtspunt: een visum is gekoppeld aan het paspoort waarin het is gestempeld, dus controleer de regels van je bestemming voordat je vliegt.
 
 ## Is je reis op korte termijn, ga dan op alle fronten tegelijk aan de slag
 
-Je hebt binnenkort een reis geboekt en je paspoort staat op het punt te verlopen. Raak niet in paniek, maar handel wel snel: bel je paspoortinstantie rechtstreeks in plaats van alleen de website te bekijken, want de meeste instanties hebben spoedroutes met toelatingsvoorwaarden waar een medewerker je doorheen kan loodsen (de Britse zijn niet beschikbaar als je van buiten het VK aanvraagt). Verzamel eerst je documenten – bewijs van naderende reis, je huidige paspoort, foto's en ingevulde formulieren – want urgente afspraken worden snel geboekt zodra ze beschikbaar zijn. Check ook je reisverzekering; sommige dekken extra kosten van een urgente verlenging, al sluiten de meeste situaties uit waarin de verlenging voorzienbaar was. En het kost niets om je luchtvaartmaatschappij of hotel te vragen naar omboeken, ook al is er geen garantie dat ze de kosten kwijtschelden.
+Je hebt binnenkort een reis geboekt en je paspoort staat op het punt te verlopen. Raak niet in paniek, maar handel wel snel: bekijk de spoedprocedure van je paspoortinstantie. In het VK boek je spoedafspraken online als je aan de voorwaarden voldoet; ben je buiten het VK, vraag dan in plaats daarvan een noodreisdocument aan. Verzamel eerst je documenten – bewijs van naderende reis, je huidige paspoort, foto's en ingevulde formulieren – want urgente afspraken worden snel geboekt zodra ze beschikbaar zijn. Check ook je reisverzekering; sommige dekken extra kosten van een urgente verlenging, al sluiten de meeste situaties uit waarin de verlenging voorzienbaar was. En het kost niets om je luchtvaartmaatschappij of hotel te vragen naar omboeken, ook al is er geen garantie dat ze de kosten kwijtschelden.
 
 **De beste oplossing is de situatie helemaal te vermijden.** Als je paspoorten beheert voor meerdere gezinsleden, biedt een app als [Travel Document Vault](https://apps.apple.com/app/apple-store/id6757014877?pt=128401792&ct=blog&mt=8) je de mogelijkheid om met Pro het hele gezin toe te voegen. Sla hun vervaldatums op en herinneringen helpen je verlengingen te plannen. Bekijk meer [tips over reisdocumenten](https://traveldocumentvault.com/nl/blog/) op deze blog voor strategieën die alles op orde houden. Nog iets de moeite waard om te lezen: [de 6 maanden-paspoortregel](https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/). Een vers verlengd paspoort moet nog steeds voldoen aan de geldigheidseisen van je bestemming, en veel reizigers worden daardoor verrast.
 
@@ -91,27 +93,27 @@ Officiële bronnen
 
 ### Hoe lang duurt een paspoortverlenging in de VS?
 
-We kunnen je hier geen vast getal geven, omdat de verwerkingstijden van het Amerikaanse ministerie van Buitenlandse Zaken gedurende het jaar meebewegen met vraag en personeelsbezetting. Routinematige verwerking is de standaardwachtrij; betalen voor expedited service zet je hoger in die rij in plaats van controles over te slaan. Als je reis echt op korte termijn is, kom je mogelijk in aanmerking voor een persoonlijke afspraak bij een regionaal paspoortagentschap, maar je moet bewijs van je reis meenemen. Check travel.state.gov voor het actuele getal voordat je aanvraagt.
+We kunnen je hier geen vast getal geven, omdat de verwerkingstijden voor Amerikaanse paspoorten variëren. Versnelde verwerking is mogelijk beschikbaar. Als je reis echt op korte termijn is, controleer dan de actuele voorwaarden van het Amerikaanse ministerie van Buitenlandse Zaken voor spoed- en noodafspraken en welke bewijsstukken je nodig hebt. Check travel.state.gov voor het actuele getal voordat je aanvraagt.
 
 ### Hoe lang duurt een paspoortverlenging in het VK?
 
-HM Passport Office publiceert zijn eigen actuele verwerkingstijd, en die verandert vaak genoeg dat een getal hier waarschijnlijk fout zou zijn tegen de tijd dat je dit leest. Bevoegde volwassenen die vanuit het VK aanvragen kunnen de digitale verlengingsdienst gebruiken, waarbij je je paspoort niet hoeft op te sturen maar toch [een foto nodig hebt die aan de officiële eisen voldoet](https://traveldocumentvault.com/nl/blog/passport-photo-at-home/). Als je van buiten het VK aanvraagt, gebruik je in plaats daarvan de overzeese dienst. Voor urgente gevallen biedt HM Passport Office een 1 Week Fast Track-service en, alleen voor verlengingen van volwassenen, een 1 Day Premium-service met afspraken vanaf 2 dagen na je aanvraag. Check GOV.UK voor het getal dat op jouw situatie van toepassing is.
+HM Passport Office publiceert zijn eigen actuele verwerkingstijd, en die verandert vaak genoeg dat een getal hier waarschijnlijk fout zou zijn tegen de tijd dat je dit leest. Volwassenen die aan de voorwaarden voldoen en vanuit het VK aanvragen, kunnen de digitale verlengingsdienst gebruiken met [een foto die aan de officiële eisen voldoet](https://traveldocumentvault.com/nl/blog/passport-photo-at-home/). Je moet je oude paspoort nog steeds opsturen. Als je van buiten het VK aanvraagt, gebruik je in plaats daarvan de overzeese dienst. Voor urgente gevallen biedt HM Passport Office een 1 Week Fast Track-service, met bezorging 1 week na je afspraak, en, alleen voor verlengingen van volwassenen, een 1 Day Premium-service met afspraken vanaf 2 dagen na je aanvraag. Check GOV.UK voor het getal dat op jouw situatie van toepassing is.
 
 ### Hoe lang duurt een paspoortverlenging in Australië?
 
-Het Australische paspoortkantoor is de enige betrouwbare bron voor actuele tijden, omdat ze meebewegen met aanvraagvolume en het seizoen. Australië biedt mogelijk snellere opties tegen betaling; kijk op passports.gov.au wat er beschikbaar is. Welke route je ook gebruikt, vraag zo vroeg mogelijk aan als redelijkerwijs kan – piekperiodes duwen de standaardwachtrij verder naar achteren dan de gepubliceerde richtlijn vaak weergeeft. Check passports.gov.au voordat je aanvraagt.
+Het Australische paspoortkantoor is de enige betrouwbare bron voor actuele tijden. Snellere opties hangen af van waar je aanvraagt. Volgens de Australian High Commission in Londen is er geen prioriteits- of fasttrackservice voor aanvragen buiten Australië. Welke route je ook gebruikt, vraag zo vroeg mogelijk aan als redelijkerwijs kan. Check passports.gov.au voordat je aanvraagt.
 
 ### Kan ik mijn paspoort online verlengen?
 
-De VS biedt online verlenging voor volwassenen die aan de voorwaarden voldoen – check travel.state.gov voor actuele toelating. Het VK biedt een digitale dienst voor bevoegde volwassenen die vanuit het VK aanvragen; iedereen die vanuit het buitenland aanvraagt moet een aparte dienst gebruiken. Canada biedt online verlenging als je het paspoort over 20 werkdagen of later nodig hebt; voor alle anderen geldt de papieren aanvraagprocedure. Kijk voor Australië op passports.gov.au hoe je de aanvraag indient. Toelatingsregels veranderen, dus check de officiële website van je land voordat je aanneemt dat je in aanmerking komt.
+De VS biedt online verlenging voor volwassenen die aan de voorwaarden voldoen – check travel.state.gov voor actuele toelating. Het VK biedt een digitale dienst voor volwassenen die aan de voorwaarden voldoen en vanuit het VK aanvragen; iedereen die vanuit het buitenland aanvraagt moet een aparte dienst gebruiken. Canada biedt online verlenging voor aanvragers die aan de voorwaarden voldoen en de komende 20 werkdagen niet reizen, maar dat is slechts één van de voorwaarden om online aan te vragen. Kijk voor Australië op passports.gov.au hoe je de aanvraag indient. Toelatingsregels veranderen, dus check de officiële website van je land voordat je aanneemt dat je in aanmerking komt.
 
 ### Wat moet ik doen als mijn paspoort bijna verloopt en ik een reis heb geboekt?
 
-Vraag aan zodra je weet dat er een probleem is, en betaal voor de snelste route die je instantie biedt. Als je reis dichtbij genoeg is dat je je zorgen maakt dat de standaardtijdlijn het niet haalt, bel dan rechtstreeks je paspoortinstantie in plaats van op de website te vertrouwen – de meeste instanties hebben spoedafspraken met toelatingsvoorwaarden (de Britse zijn niet beschikbaar vanuit het buitenland), en je moet er meestal telefonisch naar vragen. Wacht niet af of het standaardproces toevallig inhaalt.
+Vraag aan zodra je weet dat er een probleem is, en betaal voor de snelste route die je instantie biedt. Als je reis dichtbij genoeg is dat je je zorgen maakt dat de standaardtijdlijn het niet haalt, bekijk dan de spoedprocedure van je paspoortinstantie. In het VK boek je spoedafspraken online als je aan de voorwaarden voldoet; ben je buiten het VK, vraag dan in plaats daarvan een noodreisdocument aan. Wacht niet af of het standaardproces toevallig inhaalt.
 
 ### Kan ik reizen terwijl mijn paspoortverlenging loopt?
 
-Soms – mits je huidige paspoort nog geldig is en je het niet fysiek hebt afgegeven als onderdeel van het verlengingsproces. Sommige instanties vragen je huidige paspoort bij de aanvraag, dus controleer dit voordat je boekt. Zodra je je oude paspoort hebt ingeleverd bij de aanvraag, moet je op het nieuwe wachten. Controleer altijd bij je eigen paspoortinstantie en houd rekening met eventuele visumgevolgen voordat je op je bestaande paspoort reist.
+Soms – mits je huidige paspoort nog geldig is en je het niet fysiek hebt afgegeven als onderdeel van het verlengingsproces. Sommige instanties vragen je huidige paspoort bij de aanvraag; andere laten je het tijdens de verwerking blijven gebruiken en maken het ongeldig nadat het nieuwe is uitgegeven. Controleer dit bij je eigen instantie voordat je boekt of reist. Zodra je je oude paspoort hebt ingeleverd bij de aanvraag, moet je op het nieuwe wachten. Controleer altijd bij je eigen paspoortinstantie en houd rekening met eventuele visumgevolgen voordat je op je bestaande paspoort reist.
 
 ## Gerelateerde artikelen
 

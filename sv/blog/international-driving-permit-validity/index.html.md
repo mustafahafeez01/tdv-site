@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/sv/blog/international-driving-permit-val
 ## Viktiga punkter
 
 - Ett internationellt körkort är **en översättning av körkortet du redan har**, så du bär båda. Att bara visa upp tillståndet bevisar ingenting.
-- Det finns tre typer, från tre konventioner, även om två täcker nästan allt resande. Ett **tillstånd enligt 1949 års Genèvekonvention gäller i ett år**. Ett **tillstånd enligt 1968 års Wienkonvention gäller i upp till tre**.
+- Det finns tre typer, från tre konventioner. Ett **tillstånd enligt 1949 års Genèvekonvention gäller i ett år**. Ett **tillstånd enligt 1968 års Wienkonvention gäller i upp till tre**.
 - Wienkonventionens tillstånd **begränsas av ditt körkort**. Går körkortet ut först slutar tillståndet att gälla samma dag, oavsett vilket datum som står tryckt på det.
 - Länder har ratificerat olika konventioner, så **ett tillstånd som godtas i ett land kan nekas i nästa**.
 - Pass, körkort och tillstånd går efter **tre separata klockor** som nästan aldrig stämmer överens.
@@ -28,9 +28,9 @@ Det fungerar alltså i par. Du bär det nationella körkortet och tillståndet t
 
 Det här lurar folk oftare än utgångsdatumen gör. Tillståndet ser ut som den seriösa handlingen, fullt av stämplar och språk, så det känns som det som spelar roll.
 
-## Två konventioner avgör hur länge det gäller och var det fungerar
+## Tre konventioner avgör hur länge det gäller och var det fungerar
 
-[Tre internationella överenskommelser](https://www.gov.uk/driving-abroad/international-driving-permit) ligger bakom internationella körkort, och länder har anslutit sig till en eller flera av dem. Två av dem sköter nästan allt arbete: 1949 års Genèvekonvention och 1968 års Wienkonvention. Ett äldre tillstånd enligt 1926 års Pariskonvention finns också, och ett fåtal resmål listar det fortfarande. Kontrollera det tryckta utgångsdatumet på tillståndet.
+[Tre internationella överenskommelser](https://www.gov.uk/driving-abroad/international-driving-permit) ligger bakom internationella körkort, och länder har anslutit sig till en eller flera av dem. Bland dem finns 1949 års Genèvekonvention och 1968 års Wienkonvention. Ett äldre tillstånd enligt 1926 års Pariskonvention finns också, och ett fåtal resmål listar det fortfarande. Kontrollera det tryckta utgångsdatumet på tillståndet.
 
 Ett tillstånd utfärdat enligt 1949 års Genèvekonvention [gäller i ett år](https://travel.gc.ca/travelling/documents/international-driving-permit). Ett tillstånd utfärdat enligt 1968 års Wienkonvention kan gälla i upp till tre år.
 
@@ -40,7 +40,7 @@ Uppdelningen spelar roll på två sätt. Den avgör hur länge ditt tillstånd g
 
 | Typ av tillstånd | Hur länge det gäller | Vad som begränsar det |
 |---|---|---|
-| **1926 års Pariskonvention** | Se det tryckta utgångsdatumet | Utfärdandedatumet. Behövs sällan numera |
+| **1926 års Pariskonvention** | Se det tryckta utgångsdatumet | Utfärdandedatumet. |
 | **1949 års Genèvekonvention** | Se det tryckta utgångsdatumet | Utfärdandedatumet |
 | **1968 års Wienkonvention** | Upp till tre år | Ditt nationella körkort, om det går ut tidigare |
 
@@ -129,7 +129,7 @@ Ja, om det är ett Wien-tillstånd från 1968. Den typen begränsas av ditt nati
 
 ### Varför finns det mer än en typ av internationellt körkort?
 
-De kommer från separata internationella konventioner. Merparten av resandet täcks av 1949 års Genèvekonvention och 1968 års Wienkonvention, och ett äldre tillstånd enligt 1926 års Pariskonvention finns också och listas fortfarande av ett fåtal resmål. Länder har ratificerat olika konventioner, vilket är varför ett tillstånd som godtas i ett land kan nekas i ett annat.
+De kommer från separata internationella konventioner. Det finns tillstånd enligt 1949 års Genèvekonvention och 1968 års Wienkonvention; ett äldre tillstånd enligt 1926 års Pariskonvention finns också och listas fortfarande av ett fåtal resmål. Länder har ratificerat olika konventioner, vilket är varför ett tillstånd som godtas i ett land kan nekas i ett annat.
 
 ## Relaterade artiklar
 

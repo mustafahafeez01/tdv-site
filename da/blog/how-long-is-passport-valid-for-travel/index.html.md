@@ -22,16 +22,15 @@ Det er en af de mest misforståede regler inden for rejser, fordi et pas, der ik
 
 ## Voksenpas holder langt længere end børnepas
 
-Standardgyldigheden for et voksenpas er 10 år fra udstedelsesdatoen i de fleste lande. Børnepas udløber tidligere, [typisk efter 5 år](https://www.gov.uk/get-a-child-passport). Vi ville tjekke et barns pas før alle andres, for det er det, alle går ud fra er i orden.
+Nye almindelige britiske voksenpas er som regel gyldige i 10 år. Børnepas udløber tidligere, [typisk efter 5 år](https://www.gov.uk/get-a-child-passport). Vi ville tjekke et barns pas før alle andres, for det er det, alle går ud fra er i orden.
 
 | Land | Voksengyldighed | Børnegyldighed |
 |---|---|---|
 | Storbritannien | 10 år | 5 år (under 16) |
 | USA | 10 år | 5 år (under 16) |
-| Australien | 10 år | 5 år (under 16) |
-| Canada | 10 år | 5 år |
+| Australien | Som regel 10 år; fra 75 år kan du vælge 5 år | 5 år (under 16) |
+| Canada | Som regel 5 eller 10 år; du vælger ved ansøgningen | 5 år |
 | Irland | 10 år | 5 år (under 18) |
-| New Zealand | 10 år | 5 år (under 16) |
 
 Din nøjagtige udløbsdato står trykt på datasiden ved siden af dit foto. Den dato er den absolutte grænse – dit pas ophører med at være et gyldigt rejsedokument overalt i verden, når den er overskredet.
 
@@ -61,7 +60,7 @@ Alt andet skal du tjekke, før du booker; dit flyselskab eller destinationens of
 
 ## Børnepas udløber hurtigere, og familier glemmer at tjekke dem
 
-Det er her, familier bliver taget på sengen hver sommer: voksenpas gælder i 10 år, børnepas kun i 5, og det spring skaber et specifikt problem.
+Det er her, familier bliver taget på sengen hver sommer: nye almindelige britiske voksenpas gælder som regel i 10 år, børnepas i 5, og det spring skaber et specifikt problem.
 
 Et 3-årigt barn, der fik sit første pas i 2023, har et dokument, der udløber i 2028. Når barnet er 7, og familien booker en rejse til Thailand, har det pas måske kun få måneders gyldighed tilbage – langt under 6-månederskravet. Begge forældre kan sidde med 4 års gyldighed hver og aldrig komme i tanke om at tjekke barnets dokument.
 
@@ -93,7 +92,7 @@ Officielle kilder
 
 ### Hvor længe er et britisk pas gyldigt?
 
-Britiske voksenpas er gyldige i 10 år fra udstedelsesdatoen. Børnepas (under 16 år) er gyldige i 5 år. Den nøjagtige udløbsdato står trykt på datasiden ved siden af dit foto.
+Nye almindelige britiske voksenpas er som regel gyldige i 10 år. Børnepas (under 16 år) er gyldige i 5 år. Den nøjagtige udløbsdato står trykt på datasiden ved siden af dit foto.
 
 ### Kan jeg rejse med 6 måneders gyldighed tilbage på passet?
 

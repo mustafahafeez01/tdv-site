@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/blog/international-driving-permit-validi
 ## Key Takeaways
 
 - An IDP is **a translation of the licence you already hold**, so you carry both. Handing over the permit on its own proves nothing.
-- There are three kinds, from three treaties, though two cover nearly everywhere. A **1949 Geneva permit lasts one year**. A **1968 Vienna permit runs up to three**.
+- There are three kinds, from three treaties. A **1949 Geneva permit lasts one year**. A **1968 Vienna permit runs up to three**.
 - The Vienna permit is **capped by your driving licence**. If the licence expires first, the permit stops being useful on that date, whatever is printed on it.
 - Countries ratified different conventions, so **a permit accepted in one country can be refused in the next**.
 - Passport, licence and permit run on **three separate clocks** that almost never line up.
@@ -28,9 +28,9 @@ So it functions as a pair. You carry the domestic licence and the permit togethe
 
 This catches people out more often than the expiry dates do. The permit looks like the serious document, all stamps and languages, so it feels like the one that matters.
 
-## Two Treaties Decide How Long It Lasts and Where It Works
+## Three Treaties Decide How Long It Lasts and Where It Works
 
-[Three international agreements](https://www.gov.uk/driving-abroad/international-driving-permit) sit behind IDPs, and countries signed up to one of them or to several. Two do nearly all the work: the 1949 Geneva Convention and the 1968 Vienna Convention. An older 1926 Paris Convention permit also exists, and a few destinations still list it. Check the permit's printed expiry date.
+[Three international agreements](https://www.gov.uk/driving-abroad/international-driving-permit) sit behind IDPs, and countries signed up to one of them or to several. These include the 1949 Geneva Convention and the 1968 Vienna Convention. An older 1926 Paris Convention permit also exists, and a few destinations still list it. Check the permit's printed expiry date.
 
 A permit issued under the 1949 Geneva Convention is [valid for one year](https://travel.gc.ca/travelling/documents/international-driving-permit). A permit issued under the 1968 Vienna Convention can run for up to three.
 
@@ -38,7 +38,7 @@ The split matters twice over. It sets how long your permit lasts, and it decides
 
 | Permit type | How long it lasts | What limits it |
 |---|---|---|
-| **1926 Paris Convention** | See the printed expiry date | The issue date. Rarely needed now |
+| **1926 Paris Convention** | See the printed expiry date | The issue date. |
 | **1949 Geneva Convention** | One year | The issue date |
 | **1968 Vienna Convention** | Up to three years | Your domestic licence, if it expires sooner |
 
@@ -131,7 +131,7 @@ Yes, if it's a 1968 Vienna permit. That type is capped by your domestic licence,
 
 ### Why is there more than one type of International Driving Permit?
 
-They come from separate international treaties. Most travel is covered by the 1949 Geneva Convention and the 1968 Vienna Convention, and an older 1926 Paris Convention permit also exists, and a few destinations still list it. Countries ratified different ones, which is why a permit accepted in one country can be refused in another.
+They come from separate international treaties. There are permits under the 1949 Geneva Convention and the 1968 Vienna Convention; an older 1926 Paris Convention permit also exists, and a few destinations still list it. Countries ratified different ones, which is why a permit accepted in one country can be refused in another.
 
 ## Related Articles
 

@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/da/blog/international-driving-permit-val
 ## Vigtigste punkter
 
 - Et internationalt kørekort er **en oversættelse af det kørekort, du allerede har**, så du medbringer begge dele. At aflevere kun kortet beviser ingenting.
-- Der findes tre typer, fra tre traktater, selvom to dækker næsten alt. Et **Genève-kort fra 1949 gælder i ét år**. Et **Wien-kort fra 1968 gælder i op til tre**.
+- Der findes tre typer, fra tre traktater. Et **Genève-kort fra 1949 gælder i ét år**. Et **Wien-kort fra 1968 gælder i op til tre**.
 - Wien-kortet er **begrænset af dit kørekort**. Udløber kørekortet først, stopper kortet med at være gyldigt på den dato – uanset hvad der står trykt på det.
 - Landene har ratificeret forskellige konventioner, så **et kort, der accepteres i ét land, kan blive afvist i det næste**.
 - Pas, kørekort og internationalt kørekort kører efter **tre forskellige ure**, der næsten aldrig stemmer overens.
@@ -28,9 +28,9 @@ Så det fungerer i par. Du medbringer det nationale kørekort og det internation
 
 Det er den fælde, folk går i oftere end selve udløbsdatoerne. Kortet ligner det seriøse dokument, med stempler og sprog, så det føles som det, der betyder noget.
 
-## To traktater afgør, hvor længe kortet gælder, og hvor det virker
+## Tre traktater afgør, hvor længe kortet gælder, og hvor det virker
 
-[Tre internationale aftaler](https://www.gov.uk/driving-abroad/international-driving-permit) ligger bag internationale kørekort, og landene har tilsluttet sig én af dem eller flere. To af dem klarer næsten det hele: Genèvekonventionen af 1949 og Wienerkonventionen af 1968. Der findes også et ældre kort under Pariserkonventionen af 1926, som enkelte destinationer stadig angiver. Tjek den trykte udløbsdato på kortet.
+[Tre internationale aftaler](https://www.gov.uk/driving-abroad/international-driving-permit) ligger bag internationale kørekort, og landene har tilsluttet sig én af dem eller flere. De omfatter Genèvekonventionen af 1949 og Wienerkonventionen af 1968. Der findes også et ældre kort under Pariserkonventionen af 1926, som enkelte destinationer stadig angiver. Tjek den trykte udløbsdato på kortet.
 
 Et kort udstedt under Genèvekonventionen af 1949 [gælder i ét år](https://travel.gc.ca/travelling/documents/international-driving-permit). Et kort udstedt under Wienerkonventionen af 1968 kan gælde i op til tre.
 
@@ -40,7 +40,7 @@ Opdelingen har betydning to gange. Den afgør, hvor længe dit kort gælder, og 
 
 | Korttype | Hvor længe det gælder | Hvad der begrænser det |
 |---|---|---|
-| **Pariserkonventionen 1926** | Se den trykte udløbsdato | Udstedelsesdatoen. Sjældent nødvendigt i dag |
+| **Pariserkonventionen 1926** | Se den trykte udløbsdato | Udstedelsesdatoen. |
 | **Genèvekonventionen 1949** | Ét år | Udstedelsesdatoen |
 | **Wienerkonventionen 1968** | Op til tre år | Dit nationale kørekort, hvis det udløber først |
 
@@ -129,7 +129,7 @@ Ja, hvis det er et Wienerkort fra 1968. Den type er begrænset af dit nationale 
 
 ### Hvorfor findes der mere end én type internationalt kørekort?
 
-De stammer fra separate internationale traktater. De fleste rejser er dækket af Genèvekonventionen af 1949 og Wienerkonventionen af 1968, og der findes også et ældre kort under Pariserkonventionen af 1926, som enkelte destinationer stadig angiver. Landene har ratificeret forskellige konventioner, hvilket er grunden til, at et kort, der accepteres i ét land, kan blive afvist i et andet.
+De stammer fra separate internationale traktater. Der findes kort under Genèvekonventionen af 1949 og Wienerkonventionen af 1968; der findes også et ældre kort under Pariserkonventionen af 1926, som enkelte destinationer stadig angiver. Landene har ratificeret forskellige konventioner, hvilket er grunden til, at et kort, der accepteres i ét land, kan blive afvist i et andet.
 
 ## Relaterede artikler
 

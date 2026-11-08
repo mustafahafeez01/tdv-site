@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/fr/blog/travel-document-checklist/
 - Les voyageurs d'affaires transportent souvent plusieurs passeports et visas de travail — ceux-ci ont besoin de leur propre suivi, séparé des documents personnels.
 - Une sauvegarde numérique de chaque document (chiffrée, pas dans votre galerie photos) pourrait vous aider à rentrer plus vite si quelque chose tourne mal à l'étranger.
 
-La plupart des listes de contrôle des documents de voyage sont juste une liste plate : passeport, visa, assurance. Elles vous disent quoi apporter, mais pas quand le vérifier, c'est là que les gens se font prendre. La famille qui découvre à l'enregistrement qu'un passeport expire dans cinq mois, le voyageur en solo qui a réservé sans remarquer son besoin de visa, ou le voyageur d'affaires qui a oublié quel passeport son visa d'entreprise est rattaché — ce ne sont pas des cas limites, c'est la norme.
+La plupart des listes de contrôle des documents de voyage sont juste une liste plate : passeport, visa, assurance. Elles vous disent quoi apporter, mais pas quand le vérifier, c'est là que les gens se font prendre. La famille qui découvre à l'enregistrement qu'un passeport expire dans cinq mois, le voyageur en solo qui a réservé sans remarquer son besoin de visa, ou le voyageur d'affaires qui a oublié à quel passeport son visa est rattaché — ce ne sont pas des cas limites, c'est la norme.
 
 Cette liste de contrôle est organisée par étape du voyage à la place. En commençant au moment où vous réservez et en passant jusqu'à la sécurité, chaque étape a un ensemble spécifique d'actions à accomplir. Les suivre dans l'ordre, c'est comment les habituels à la dernière minute ne se produisent pas.
 
@@ -24,9 +24,9 @@ Cette liste de contrôle est organisée par étape du voyage à la place. En com
 
 L'erreur la plus courante des voyageurs est de traiter le moment de la réservation comme administratif et les vérifications de documents comme quelque chose à faire plus tard. Ceux-ci doivent se produire exactement au même moment.
 
-**Vérifiez vos passeports avant de payer**
+**Vérifiez vos documents de voyage avant de payer**
 
-Avant de confirmer une réservation, vérifiez le passeport de chaque voyageur selon trois critères : la validité (répond-il aux exigences de la destination — de nombreux pays veulent encore [six mois de validité le jour de votre arrivée](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), et quelques-uns comptent à partir du départ : vérifiez donc votre destination, comme expliqué dans notre [guide de la règle des 6 mois de passeport](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/)), la correspondance du nom (le nom sur le passeport doit correspondre exactement au nom de la réservation) et les pages vierges (certains pays exigent [au moins deux pages de visa vierges](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements) pour les timbres d'entrée).
+Avant de confirmer une réservation, vérifiez chaque passeport que vous utiliserez selon trois critères : la validité (répond-il aux exigences de la destination — de nombreux pays veulent encore [six mois de validité le jour de votre arrivée](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), et quelques-uns comptent à partir du départ : vérifiez donc votre destination, comme expliqué dans notre [guide de la règle des 6 mois de passeport](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/)), la correspondance du nom (le nom sur le passeport doit correspondre exactement au nom de la réservation) et les pages vierges (certains pays exigent [au moins deux pages de visa vierges](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements) pour les timbres d'entrée).
 
 **Vérifiez vos exigences de visa**
 
@@ -46,7 +46,7 @@ Nous renouvellerions dès maintenant tout passeport expirant dans 12 mois. Les p
 
 Soumettez toute demande de visa qui demande du délai, et vérifiez auprès de l'autorité qui la délivre le temps actuellement nécessaire. Préparez les documents justificatifs : relevés bancaires, confirmations d'hébergement, preuve de voyage ultérieur. Réservez une rendez-vous de biométrie à l'avance si le visa l'exige.
 
-Pour les familles : si un enfant voyage avec un seul parent ou un autre adulte, préparez une lettre de consentement de voyage pour enfant maintenant. Incluez le nom complet et la date de naissance de l'enfant, les coordonnées des deux parents, les dates et destinations du voyage, et la signature du parent absent. Certaines destinations demandent aussi que la lettre soit notariée : vérifiez les règles d'entrée.
+Pour les familles : si un enfant voyage avec un seul parent ou un autre adulte, nous vous conseillons de préparer une lettre de consentement de voyage pour enfant dès maintenant. Incluez le nom complet et la date de naissance de l'enfant, les coordonnées des deux parents, les dates et destinations du voyage, et la signature du parent absent. Certaines destinations demandent aussi que la lettre soit notariée : vérifiez les règles d'entrée.
 
 ## Un mois avant : confirmer et consolider
 
@@ -54,7 +54,7 @@ Un mois avant le voyage, tous vos documents doivent être en main. Cette étape 
 
 ### Documents d'identité
 
-- Passeports confirmés valides et dans le portefeuille de voyage
+- Passeports ou cartes nationales d'identité acceptées confirmés valides et dans le portefeuille de voyage
 - Visas confirmés (vérifiez les dates de validité, les comptages d'entrée, toute condition)
 - Carte d'identité nationale si acceptée à la destination (voyage dans l'UE au sein de l'espace Schengen)
 
@@ -67,11 +67,11 @@ Un mois avant le voyage, tous vos documents doivent être en main. Cette étape 
 
 ### Documents familiaux et spéciaux
 
-- Lettre de consentement parental préparée et signée
+- Lettre de consentement parental préparée et signée le cas échéant
 - Actes de naissance accessibles si requis par le pays de destination
 - Dossiers médicaux ou ordonnances pour les conditions chroniques
 
-Pour les voyageurs d'affaires : si vous détenez deux passeports, confirmez quel passeport votre visa d'entreprise est attaché et lequel vous devez utiliser pour entrer et sortir de chaque pays. **Certains pays exigent que vous entriez et sortiez sur le même document**, donc se tromper peut transformer une erreur mineure en retard à la frontière.
+Pour les voyageurs d'affaires : si vous détenez deux passeports, confirmez à quel passeport votre visa est rattaché et lequel vous devez utiliser pour entrer et sortir de chaque pays. **Certains pays exigent que vous entriez et sortiez sur le même document**, donc se tromper peut transformer une erreur mineure en retard à la frontière.
 
 ## La veille : confirmation finale
 
@@ -81,12 +81,12 @@ S'il y a quelque chose qui manque maintenant, vous avez des heures pour le réso
 
 ### La veille
 
-- Passeports sortis et comptabilisés — un par personne
+- Passeports ou cartes nationales d'identité acceptées sortis et comptabilisés — un par personne
 - Cartes d'embarquement téléchargées sur téléphone ou imprimées
 - Certificat d'assurance voyage accessible sur téléphone
 - Confirmations d'hôtel et de transfert téléchargées hors ligne
 - Tout certificat de vaccination ou de santé requis
-- Lettre de consentement parental dans le sac, pas dans la valise
+- Lettre de consentement parental, le cas échéant, dans le sac, pas dans la valise
 - Numéros de contact d'urgence notés quelque part hors ligne
 
 ## À l'aéroport : gardez ceux-ci avec vous
@@ -101,13 +101,13 @@ Les différents voyages nécessitent des ensembles de documents différents, com
 
 | Document | Solo | Famille | Affaires | Notes |
 |---|---|---|---|---|
-| Passeport | | chaque membre | | Vérifiez la validité par rapport à la destination, pas seulement la date d'expiration |
-| Visa (si requis) | | chaque membre | d'entreprise | Affaires : confirmez que le visa est dans le bon passeport |
+| Passeport ou carte nationale d'identité acceptée | En général | en général, chaque membre | En général | Vérifiez la validité par rapport à la destination, pas seulement la date d'expiration |
+| Visa (si requis) | | chaque membre | vérifiez le visa ou l’autorisation de voyage pour les activités prévues | Affaires : confirmez que le visa est dans le bon passeport |
 | Assurance voyage | | tous couverts | vérifiez si l'employeur vous couvre | Confirmez la couverture avant chaque voyage, pas seulement à l'achat |
 | Confirmations de réservation | | | | Copie hors ligne (ne comptez pas sur l'accès au courrier à la frontière) |
 | Lettre de consentement enfant | N/A | si applicable | N/A | Demandée dans certains pays si un parent est absent |
 | Actes de naissance | N/A | si requis | N/A | Certains pays les demandent pour les enfants de moins de 18 ans |
-| Lettre d'autorisation de travail | N/A | N/A | si requis | Certaines destinations exigent des lettres d'employeur pour les voyageurs d'affaires |
+| Lettre de l'employeur ou lettre d'invitation professionnelle | N/A | N/A | si requis | Certaines destinations exigent des lettres d'employeur pour les voyageurs d'affaires |
 
 Si un voyage est déjà réservé, la seule chose qui vaut la peine d'être faite dès aujourd'hui est de sortir chaque passeport concerné et de vérifier sa date d'expiration au regard des exigences de la destination, et pas seulement de vos dates de voyage.
 
@@ -126,7 +126,7 @@ Sources officielles
 
 ### Quels documents me faut-il pour voyager à l'étranger ?
 
-Les documents essentiels pour voyager à l'étranger sont un passeport valide, tout visa requis, une assurance voyage et des confirmations de réservation. Pour les voyages en famille, ajoutez le passeport de chaque enfant (vérifié individuellement), les actes de naissance si requis par la destination et une lettre de consentement parental si un parent ne voyage pas. Les voyageurs d'affaires doivent confirmer quel passeport leur visa de travail est attaché.
+Les documents essentiels à vérifier pour voyager à l'étranger sont un passeport valide ou une carte nationale d'identité acceptée, tout visa requis, une assurance voyage et des confirmations de réservation. Pour les voyages en famille, ajoutez le document de voyage accepté de chaque enfant (vérifié individuellement), les actes de naissance si requis par la destination et une lettre de consentement parental si nécessaire. Les voyageurs d'affaires doivent confirmer à quel passeport leur visa de travail est rattaché.
 
 ### Combien de temps à l'avance dois-je vérifier mes documents de voyage ?
 
@@ -138,7 +138,7 @@ Oui. L'expiration du passeport, les exigences de visa et la couverture d'assuran
 
 ### Qu'est-ce qu'une lettre de consentement de voyage pour enfant et en ai-je besoin ?
 
-Une lettre de consentement de voyage pour enfant est un document signé par le parent absent donnant la permission à l'enfant de voyager. Certains pays, dont [l'Afrique du Sud](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements), imposent des exigences supplémentaires aux enfants qui voyagent avec un seul parent, et les [autorités canadiennes](https://travel.gc.ca/travelling/children/consent-letter) recommandent une lettre de consentement signée. Sans elle, vous pouvez vous exposer à des questions supplémentaires ou à des retards. La lettre doit inclure les détails complets de l'enfant, les coordonnées des deux parents, les dates et destinations du voyage, et la signature du parent absent.
+Une lettre de consentement de voyage pour enfant est un document signé par le parent absent donnant la permission à l'enfant de voyager. L'[Afrique du Sud](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements) dispense généralement les enfants étrangers accompagnés et exemptés de visa de justificatifs supplémentaires, et les [autorités canadiennes](https://travel.gc.ca/travelling/children/consent-letter) recommandent une lettre de consentement signée. Sans elle, vous pouvez vous exposer à des questions supplémentaires ou à des retards. La lettre doit inclure les détails complets de l'enfant, les coordonnées des deux parents, les dates et destinations du voyage, et la signature du parent absent.
 
 ### Quels documents dois-je garder avec moi à l'aéroport et ne pas mettre dans les bagages enregistrés ?
 

@@ -1,6 +1,6 @@
 # Copie numérique du passeport : Qu'est-ce qui compte comme pièce d'identité valide en voyage ?
 
-> Où une copie numérique de passeport suffit, et où seul l'original est accepté : compagnies aériennes, hôtels, ambassades et postes frontières.
+> Photo ou scan du passeport : accepté par certains hôtels, pas aux frontières ni à l'embarquement. Usages et conseils pour le conserver en sécurité.
 
 Source: https://traveldocumentvault.com/fr/blog/digital-passport-copy-valid/
 
@@ -10,10 +10,10 @@ Source: https://traveldocumentvault.com/fr/blog/digital-passport-copy-valid/
 
 ## Points clés à retenir
 
-- Les copies numériques du passeport sont acceptées pour **l'enregistrement à l'hôtel, les réservations de vols et les locations de voitures**, mais pas aux frontières ni pour l'embarquement en avion.
+- Ne partez pas du principe que les copies numériques du passeport sont acceptées pour **l'enregistrement à l'hôtel, les réservations de vols ou les locations de voitures**. Elles ne sont pas des documents de voyage pour le passage des frontières ou l'embarquement en avion.
 - Pour voyager à l'international, il faut **généralement présenter le passeport original** aux frontières et à l'embarquement. Certains trajets acceptent une carte d'identité nationale, par exemple pour [les citoyens de l'UE voyageant dans l'UE](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm), mais jamais une copie.
 - Les copies numériques **n'ont pas de valeur juridique comme documents de voyage**. Elles ne sont que de la documentation d'appui.
-- Les demandes de visa exigent **des formats spécifiques**. Certaines demandent des copies certifiées ou notariées ; d'autres, notamment [de nombreux visas électroniques](https://indianvisaonline.gov.in/evisa/tvoa.html), acceptent un scan net de la page avec photo. Une simple photo de téléphone est souvent refusée. Consultez d'abord le site de l'ambassade.
+- Les demandes de visa exigent **des formats spécifiques**. Certaines demandent des copies certifiées ; d'autres, comme le [visa électronique indien](https://indianvisaonline.gov.in/evisa/tvoa.html), acceptent un scan net de la page avec photo. Les consignes du visa électronique indien précisent qu'un document téléversé peut être refusé s'il n'est pas net ou ne respecte pas les spécifications requises. Consultez d'abord le site de l'ambassade.
 - Si votre passeport est perdu à l'étranger, une **copie de la page avec photo peut aider** votre ambassade à confirmer vos informations lors d'une demande de remplacement.
 
 Lorsque vous planifiez un voyage, de nombreux voyageurs se demandent s'ils peuvent stocker une copie numérique de leur passeport sur leur téléphone plutôt que de porter l'original. Vous devez savoir exactement où elle fonctionne et où elle ne fonctionne pas, pour ne pas vous retrouver mal à l'aise lors de l'enregistrement.
@@ -30,17 +30,17 @@ Une copie n'est pas non plus la même chose que les identités numériques que c
 
 ## Où les copies numériques du passeport sont acceptées
 
-### Beaucoup d'hôtels acceptent une copie, mais dans certaines régions d'Europe on voudra généralement l'original
+### Demandez à votre hôtel s'il accepte une copie
 
-De nombreux hôtels acceptent les copies numériques de passeport pour l'enregistrement — un PDF sur votre téléphone, envoyé par email à l'avance, ou imprimé. C'est particulièrement utile si vous vous enregistrez tard ou si vous vous déplacez entre plusieurs propriétés et que vous ne voulez pas porter votre passeport physique pendant tout le voyage. Certains petits hôtels, notamment dans les régions disposant d'une infrastructure numérique moins développée, préfèrent toujours l'original. Dans certaines parties de l'Europe, les hôtels doivent enregistrer vos informations auprès des autorités et souhaitent souvent voir le passeport physique. En Espagne, l'autorité de protection des données précise que les hôtels ne doivent ni faire ni demander de copie et qu'une vérification visuelle suffit. Contactez votre hébergement à l'avance pour confirmer.
+L'acceptation d'une copie numérique de passeport pour l'enregistrement dépend de l'établissement et des règles locales d'identification. Selon les conseils du gouvernement britannique aux voyageurs britanniques, les hôtels en Italie doivent généralement enregistrer les informations de votre passeport auprès de la police. Contactez votre hébergement à l'avance pour savoir quels documents originaux il exige et s'il accepte une copie.
 
-### Une copie numérique accélère l'enregistrement, pas l'embarquement
+### Une copie numérique n'est pas un document d'embarquement
 
-Les compagnies aériennes exigent vos informations de passeport lors de la réservation, et certains vous permettent de télécharger une copie numérique pour vérifier votre identité pour l'enregistrement en ligne — cela accélère le processus à l'aéroport. Vous devrez toujours présenter le passeport original à la porte. Le rôle de la copie numérique est la vérification avant le voyage, pas la documentation d'embarquement.
+Pour les vols internationaux, vous devrez généralement présenter le passeport original ou un autre document de voyage accepté à la porte d'embarquement. Une copie numérique n'est pas un document d'embarquement.
 
-### Une copie suffit pour réserver la voiture, mais l'original reste exigé au retrait
+### Demandez quels documents le loueur exige
 
-Les entreprises de location de voitures acceptent souvent les copies numériques de passeport pour la réservation et la vérification de dépôt. Lorsque vous arrivez pour retirer le véhicule, vous présenterez le passeport original ainsi que votre permis de conduire. La copie numérique est utile pendant la phase de réservation.
+Demandez au loueur s'il a besoin d'une copie de passeport pour la réservation ou la vérification du dépôt de garantie. Avant de retirer le véhicule, nous vous conseillons de confirmer quels documents d'identité et de conduite originaux il exige.
 
 ### Si votre passeport est perdu, la copie accélère les démarches
 
@@ -48,18 +48,18 @@ Si votre passeport est perdu ou volé en voyage, une copie de la page avec photo
 
 ![Diagramme des usages d'une copie numérique de passeport : généralement accepté pour l'enregistrement à l'hôtel, la réservation de vol et la location de voiture ; original exigé au contrôle aux frontières et à l'embarquement](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-where-fr.jpg) En bref : une copie ouvre des portes, seul l'original traverse les frontières.
 
-## Où votre passeport physique est toujours requis
+## Où les documents de voyage originaux sont généralement requis
 
-Une copie numérique n'est pas un substitut à votre passeport physique à l'immigration, auprès des compagnies aériennes ou avec les forces de l'ordre. Dans ces situations, vous avez généralement besoin du document original.
+Une copie numérique ne remplace pas un document de voyage original accepté à l'immigration ou pour l'embarquement sur un vol international. Les contrôles d'identité policiers dépendent de la législation locale.
 
 | Situation de voyage | Copie numérique acceptée | Remarques |
 |---|---|---|
-| **Passage frontalier (entrée/sortie)** | Non (original requis) | Les agents d'immigration doivent inspecter physiquement le document |
-| **Embarquement en avion** | Non (original requis) | Le personnel de sécurité et de porte exige le passeport physique |
+| **Passage frontalier (entrée/sortie)** | Non (original requis) | Prévoyez généralement un document de voyage original accepté ; les contrôles dépendent de votre trajet |
+| **Embarquement en avion** | Non (original requis) | Pour les vols internationaux, prévoyez généralement le passeport original ou un autre document de voyage accepté pour le trajet |
 | **Demande de visa** | Parfois (vérifier l'ambassade) | Selon le cas : copie certifiée, original ou scan net |
-| **Contrôles d'identité policiers** | Non (original requis) | La police peut demander une pièce d'identité originale ; les règles varient selon le pays |
-| **Enregistrement à l'hôtel** | Généralement oui | Confirmez auprès de la propriété à l'avance |
-| **Réservation de location de voiture** | Généralement oui | Original toujours requis au retrait du véhicule |
+| **Contrôles d'identité policiers** | Selon la législation locale ; une copie peut ne pas suffire lors d'un contrôle d'identité | La police peut demander une pièce d'identité originale ; les règles varient selon le pays |
+| **Enregistrement à l'hôtel** | Selon l'établissement et les règles locales d'identification | Confirmez auprès de la propriété à l'avance |
+| **Réservation de location de voiture** | Demandez au loueur quels documents de réservation et d'identification sont nécessaires | Confirmez quels documents d'identité et de conduite originaux le loueur exige au retrait |
 | **Assistance d'urgence de l'ambassade** | Oui (aide à confirmer vos informations) | Ne peut pas remplacer le passeport lui-même, mais aide à délivrer un document d'urgence |
 
 ## Demandes de visa : les règles sont spécifiques
@@ -68,9 +68,9 @@ Les règles des demandes de visa sont plus souples que celles des frontières, m
 
 Ce que cela signifie en pratique
 
-Vous demandez un visa français. Le site officiel indique « copie certifiée ». Cela veut dire une photocopie certifiée par un notaire ou une administration, pas une photo prise au téléphone. Envoyer le mauvais format entraîne un refus et les délais d'une nouvelle demande. Contactez l'ambassade pour savoir quels formats elle accepte avant de consacrer du temps au dossier.
+Les consignes du visa électronique indien précisent qu'un document téléversé peut être refusé s'il n'est pas net ou ne respecte pas les spécifications requises. Nous vous conseillons de zoomer pour vérifier chaque détail avant l'envoi.
 
-Certaines ambassades acceptent les scans notariés envoyés par voie électronique, tandis que d'autres exigent des copies certifiées papier ou le passeport original en personne. Les exigences varient tellement qu'il vaut vraiment la peine de consulter le site officiel du gouvernement du pays auquel vous demandez le visa.
+Certaines demandes de visa acceptent les scans envoyés par voie électronique, tandis que d'autres exigent des copies certifiées ou le passeport original.
 
 ## Comment stocker votre copie numérique de passeport en toute sécurité
 
@@ -102,11 +102,11 @@ Sources officielles
 
 ### Qu'est-ce qu'une copie numérique de passeport ?
 
-Une copie numérique est un scan ou une photo de téléphone de la page d'identification de votre passeport, la page avec votre photo et vos informations personnelles. Elle aide pour les réservations et pour remplacer un passeport perdu, mais ce n'est pas un document de voyage : le gouvernement canadien précise que les copies ne peuvent pas servir de pièce d'identité. Elle est aussi différente d'une identité numérique soutenue par un gouvernement, et même aux États-Unis, où la TSA accepte les identités numériques à ses contrôles, les passagers doivent toujours porter une pièce d'identité physique acceptable.
+Une copie numérique est un scan ou une photo de téléphone de la page d'identification de votre passeport, la page avec votre photo et vos informations personnelles. Elle peut aider à remplacer un passeport perdu, mais ce n'est pas un document de voyage : le gouvernement canadien précise que les copies ne peuvent pas servir de pièce d'identité. Elle est aussi différente d'une identité numérique soutenue par un gouvernement, et même aux États-Unis, où la TSA accepte les identités numériques à ses contrôles, les passagers doivent toujours porter une pièce d'identité physique acceptable.
 
 ### Une copie numérique de mon passeport est-elle acceptée lors de l'enregistrement à l'hôtel ?
 
-Souvent, oui : de nombreux hôtels acceptent les copies numériques de passeport pour l'enregistrement, sous forme de PDF sur votre téléphone, par e-mail ou sur papier. Certains petits établissements peuvent encore exiger un passeport physique. Contactez toujours votre hôtel à l'avance pour confirmer.
+L'acceptation dépend de l'établissement et des règles locales d'identification. Demandez à votre hôtel quels documents originaux il exige et s'il accepte une copie pour certaines étapes de l'enregistrement.
 
 ### Puis-je utiliser une copie numérique de passeport à l'aéroport pour l'embarquement ?
 
@@ -114,7 +114,7 @@ Pour les vols internationaux, les compagnies aériennes exigent généralement l
 
 ### Les copies numériques de passeport sont-elles valides pour les demandes de visa ?
 
-Les demandes de visa exigent des formats précis. Certaines demandent des copies certifiées ou notariées ; d'autres, notamment de nombreux visas électroniques, acceptent un scan net de la page avec photo. Une simple photo de téléphone est souvent refusée. Les exigences varient selon le pays et l'ambassade : consultez le site officiel du gouvernement du pays concerné avant d'envoyer votre dossier.
+Les demandes de visa exigent des formats précis. Certaines demandent des copies certifiées ; d'autres acceptent un scan net de la page avec photo. Les consignes du visa électronique indien précisent qu'un document téléversé peut être refusé s'il n'est pas net ou ne respecte pas les spécifications requises. Les exigences varient selon le pays et l'ambassade : consultez le site officiel du gouvernement du pays concerné avant d'envoyer votre dossier.
 
 ### Une copie numérique de passeport peut-elle m'aider si mon passeport est perdu ou volé à l'étranger ?
 

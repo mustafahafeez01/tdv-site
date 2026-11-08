@@ -1,6 +1,6 @@
 # Reglas de la Foto de Pasaporte: Tamaño, Gafas y Cómo Tomarla en Casa
 
-> Las reglas de la foto de pasaporte que hacen que la rechacen: tamaño, gafas, fondo e iluminación, y cómo tomar una foto conforme en casa con tu teléfono.
+> Foto de pasaporte: reglas de tamaño, gafas, fondo e iluminación para evitar rechazos, y cómo hacerla en casa si tu país lo permite.
 
 Source: https://traveldocumentvault.com/es/blog/passport-photo-at-home/
 
@@ -10,25 +10,25 @@ Source: https://traveldocumentvault.com/es/blog/passport-photo-at-home/
 
 ## Conclusiones Principales
 
-- Usa un fondo claro y uniforme en el tono que exija tu autoridad, expresión neutral, y ojos abiertos mirando directamente a la cámara
+- Usa un fondo claro y uniforme en el tono que exija tu autoridad, expresión neutral, y ojos abiertos mirando directamente a la cámara, con excepciones para niños pequeños
 - Los requisitos de tamaño difieren según el país y se aplican estrictamente. Algunos especifican milímetros, otros pulgadas. Toma las medidas exactas de tu autoridad de pasaportes en lugar de cualquier resumen
 - La luz natural de una ventana funciona mejor, evita sombras duras y no uses flash de cámara
 - Muchas autoridades, incluida la del Reino Unido, piden no llevar gafas salvo que sea estrictamente necesario; verifica los requisitos actuales
-- Los motivos comunes de rechazo incluyen sombras, tamaño incorrecto, sonrisa, fotos borrosas y fondos inadecuados
+- Las fotos pueden rechazarse si no cumplen las reglas de tu autoridad sobre iluminación, tamaño, expresión, nitidez o fondo
 
-Una foto tomada en casa se acepta con la misma facilidad que una de cabina, siempre que cumpla la misma lista breve de reglas. La mayoría de los rechazos se reducen a tres cosas: sombra en la cara o en el fondo, la cabeza con un tamaño incorrecto en el encuadre, y las gafas. Si resuelves esos tres puntos, el resto es sencillo.
+GOV.UK señala que las fotos de fotomatón o tienda tienen más probabilidades de aceptación que las tomadas con tu propio dispositivo. Las fotos pueden rechazarse si no cumplen las reglas de tu autoridad sobre iluminación, tamaño, expresión, nitidez o fondo.
 
-## La Mayoría de los Países Comparten los Mismos Requisitos Básicos de Foto
+## Los requisitos de las fotos varían según la autoridad
 
-Aunque las reglas específicas varían según la autoridad de pasaportes, la mayoría de los países comparten requisitos fundamentales para fotos de pasaporte. Entender estos principios básicos te pondrá en terreno firme sin importar qué país emita tu pasaporte.
+Los requisitos de las fotos varían según la autoridad de pasaportes, el formato de solicitud y la edad.
 
 ### Fondo y Composición
 
-Necesitas un fondo claro y uniforme, y el tono exacto depende de tu autoridad: [GOV.UK](https://www.gov.uk/photos-for-passports) pide crema claro o gris claro, mientras que el [Gobierno de Canadá](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/photos.html) pide blanco o de color claro. Sin patrones, sombras, fondos borrosos o colores intensos. La razón es directa: los funcionarios necesitan una vista limpia y sin desorden de tu cara para compararla con documentos futuros. Usa una sábana o un cartón liso del tono que pida tu autoridad —crema o gris claro para el Reino Unido—, o incluso pinta una pequeña sección de pared. La clave es mantenerlo brillante y uniforme en toda la extensión.
+Necesitas un fondo claro y uniforme, y el tono exacto depende de tu autoridad: [GOV.UK](https://www.gov.uk/photos-for-passports) generalmente pide un fondo liso de color crema o gris claro para las fotos impresas, mientras que el [Gobierno de Canadá](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/photos.html) pide blanco o de color claro. Sin patrones, sombras, fondos borrosos o colores intensos. La razón es directa: los funcionarios necesitan una vista limpia y sin desorden de tu cara para compararla con documentos futuros. Usa una sábana o un cartón liso del tono que pida tu autoridad —crema o gris claro para las fotos impresas del Reino Unido—, o incluso pinta una pequeña sección de pared. La clave es mantenerlo brillante y uniforme en toda la extensión.
 
 ### Expresión y Postura
 
-Tu cara necesita llenar el marco en la proporción que tu autoridad de pasaportes especifique, con los ojos abiertos y claramente visibles, la mayoría de los países prohíben sonreír, y entrecerrar los ojos descalificará la toma. Mira directamente a la cámara con una expresión neutral, inclinando la cabeza ligeramente si te sientes más natural, pero generalmente manteniendo tu cabeza cuadrada al lente. Idealmente tus orejas deberían ser visibles en ambos lados de tu cara.
+Por lo general, tu cara debe ocupar la proporción del encuadre que especifique tu autoridad de pasaportes, con los ojos abiertos y claramente visibles. GOV.UK permite excepciones a las reglas de expresión para menores de 6 años y al requisito de ojos abiertos para menores de un año. Mira directamente a la cámara con una expresión neutral, inclinando la cabeza ligeramente si te sientes más natural, pero generalmente manteniendo tu cabeza cuadrada al lente. Idealmente tus orejas deberían ser visibles en ambos lados de tu cara.
 
 ## ¿Puedes Llevar Gafas en tu Foto de Pasaporte?
 
@@ -44,7 +44,7 @@ Las solicitudes digitales cambian los milímetros por píxeles, y cada autoridad
 
 ### Dónde Verificar los Requisitos de Tamaño de tu País
 
-El tamaño es donde la mayoría de las personas se tambalean, si tu foto no coincide con las especificaciones de tu país, el rechazo es casi seguro. Cada país establece sus propias dimensiones, y esas reglas se revisan de vez en cuando, así que las únicas cifras que vale la pena confiar son las de la página de tu autoridad de pasaportes el día que presentas.
+El tamaño importa: tu foto puede rechazarse si no coincide con las especificaciones de tu país. Cada país establece sus propias dimensiones, y esas reglas se revisan de vez en cuando, así que las únicas cifras que vale la pena confiar son las de la página de tu autoridad de pasaportes el día que presentas.
 
 Los requisitos difieren de país a país, y algunos se especifican en pulgadas en lugar de milímetros. Deliberadamente no reimprimimos los números aquí, una cifra copiada en una publicación de blog es una cifra que puede envejecer silenciosamente. Ve directamente a tu autoridad en su lugar.
 
@@ -55,7 +55,7 @@ Los requisitos difieren de país a país, y algunos se especifican en pulgadas e
 | Australia | orientación de fotos de la Oficina de Pasaportes Australiana |
 | Canadá | fotos de pasaportes del Gobierno de Canadá |
 
-Estas especificaciones son exactas, incluso unos pocos milímetros de diferencia significa rechazo. Tu foto bruta del teléfono inteligente típicamente será mucho más grande de lo que necesitas presentar, es por eso que existen apps de recorte. Las herramientas gratuitas o de bajo costo disponibles en iOS y Android te permiten ingresar tu país y redimensionar automáticamente a la especificación exacta.
+GOV.UK indica que no recortes las fotos digitales tomadas con tu propio dispositivo; las fotos impresas del Reino Unido generalmente no deben ser recortes de una imagen más grande.
 
 ### Comparación de Métodos de Presentación de Fotos
 
@@ -63,21 +63,21 @@ Tienes varias opciones para que tu foto de pasaporte llegue a manos de la autori
 
 | Método | Costo | Riesgo de Aceptación | Conveniencia | Orientación Oficial |
 |---|---|---|---|---|
-| DIY en casa (teléfono inteligente + app de recorte) | Gratuito o casi | Mayor si pierdes iluminación o especificaciones de tamaño | Muy alta, inmediata | Consulta el sitio de tu autoridad |
-| Farmacia local | Una tarifa modesta | Baja, profesionales capacitados verifican | Media, servicio del mismo día típico | Ampliamente utilizado y generalmente confiable, verifica de todas formas los requisitos de foto de tu autoridad |
-| Correo (Reino Unido y otros) | Una tarifa modesta | Baja, tomada internamente, verificada | Media, requiere visita y cita | servicio oficial de Correo |
-| Servicios en línea (por ejemplo, Passport Photo Online) | Una tarifa modesta | Media, presentación digital, retroalimentación proporcionada | Alta, desde casa, entrega digital | No oficial pero ampliamente utilizado, verifica si tu país acepta cargas previas recortadas |
-| Estudio de fotografía profesional | La opción más cara | Baja, iluminación y composición de experto | Baja, requiere cita | Riesgo más bajo, aunque la foto debe cumplir igualmente las normas de tu autoridad |
+| Foto en casa, si tu autoridad lo permite | Ten en cuenta el equipo y la impresión | GOV.UK generalmente permite fotos digitales tomadas con tu propio dispositivo; Canadá generalmente exige un fotógrafo profesional | En casa, donde se permita | Consulta el sitio de tu autoridad |
+| Farmacia local | Pregunta al proveedor por las tarifas | Pregunta si el personal sigue las reglas de tu autoridad para las fotos | Pregunta por los horarios y los plazos de entrega | Pide al proveedor que siga las reglas de tu autoridad de pasaportes para las fotos |
+| Check and Send digital de Post Office del Reino Unido | Pregunta al proveedor por las tarifas | GOV.UK señala que Check and Send no garantiza la aprobación de la solicitud | Acude a una oficina participante; pregunta por las condiciones locales | GOV.UK: Check and Send digital incluye la toma de la foto |
+| Servicio comercial de fotos en línea, si tu autoridad lo permite | Pregunta al proveedor por las tarifas | Por lo general, la foto debe cumplir las reglas de tu autoridad | Pregunta por el formato y el plazo de entrega | GOV.UK indica que no recortes las fotos digitales tomadas con tu propio dispositivo |
+| Estudio de fotografía profesional | Pregunta al estudio por las tarifas | Pide fotos que cumplan las reglas de tu autoridad | Pregunta si hace falta cita | Por lo general, la foto debe cumplir las reglas de tu autoridad |
 
 ## Iluminación y Calidad de Imagen
 
-Comete un error en la iluminación y el rechazo es casi seguro. Sombras en tu cara, iluminación desigual o áreas sobreexpuestas alrededor de la cara descalifican la foto.
+Los problemas de iluminación pueden causar el rechazo. Las sombras en tu cara, la iluminación desigual o las áreas sobreexpuestas alrededor de la cara pueden descalificar la foto.
 
 ### Mejores Prácticas de Iluminación
 
 La luz de ventana es tu mejor opción. Posiciónate perpendicular a la ventana para una iluminación uniforme en tu cara y para evitar sombras duras bajo los ojos o a lo largo de un lado. Los días nublados funcionan particularmente bien porque las nubes difunden la luz uniformemente sin la dureza de la luz solar directa. Evita disparar al mediodía a la luz solar completa, que tiende a crear sombras poco favorecedoras y te hace entrecerrar los ojos.
 
-Nunca uses el flash de tu teléfono. El flash tiende a crear sombras duras, desatura el tono de piel y a menudo causa ojos rojos. Si tu habitación es oscura, acércate más a la ventana o elige una hora diferente del día. Es mejor retomar la foto con buena luz que presentar una foto iluminada con flash que sea rechazada.
+Nunca uses el flash de tu teléfono. El flash tiende a crear sombras duras, desatura el tono de piel y a menudo causa ojos rojos. Si tu habitación es oscura, acércate más a la ventana o elige una hora diferente del día. Repetiríamos la foto con buena luz antes de presentarla.
 
 Usa un trípode o apoya tu teléfono contra un objeto estable para que tengas ambas manos libres para posicionar tu cara correctamente. Esto también asegura que la cámara esté nivelada y enfocada en tu cara. Si debes sostener el teléfono, pide a alguien más que tome la foto para evitar movimiento de cámara y encuadre desigual.
 
@@ -85,25 +85,25 @@ Usa un trípode o apoya tu teléfono contra un objeto estable para que tengas am
 
 La mayoría de las cámaras de los teléfonos actuales tienen resolución de sobra para una foto de pasaporte. Antes de disparar, asegúrate de que tu teléfono esté en modo de enfoque, toca tu cara en la pantalla, y la mayoría de los teléfonos bloquearán el enfoque allí. Tu imagen final debe ser nítida y clara.
 
-## Motivos Comunes de Rechazo y Cómo Evitarlos
+## Problemas con las fotos y cómo evitarlos
 
 ![Diagrama de seis fotos de pasaporte rechazadas -sombra detrás de la cabeza, sonreír, reflejo en las gafas, pelo sobre los ojos, fondo con patrones y foto tomada muy de cerca- junto a una foto aceptada con fondo liso, expresión neutral y luz uniforme](https://traveldocumentvault.com/blog/passport-photo-at-home/passport-photo-figure-es.jpg) Seis motivos por los que una foto se rechaza, y la única configuración que la aprueba.
 
 - **Sombras en la cara:** Causadas por iluminación lateral o fuentes de luz dura. Posiciónate perpendicular a una ventana para iluminación uniforme, y verifica que tus orejas y pómulos estén uniformemente iluminados.
-- **Dimensiones de foto incorrectas:** La foto no coincide con las especificaciones de tu país (los requisitos varían según el país). Usa una app de recorte de foto de pasaporte y verifica dos veces las dimensiones contra la especificación oficial de tu autoridad antes de imprimir o cargar, no los estándares de otro país.
-- **Sonrisa o expresión inusual:** La mayoría de los países requieren una expresión neutral. Practica una mirada tranquila y directa en un espejo de antemano, apunta a serio, no severo.
+- **Dimensiones de foto incorrectas:** La foto no coincide con las especificaciones de tu país (los requisitos varían según el país). Para las fotos digitales del Reino Unido tomadas con tu propio dispositivo, GOV.UK indica que no las recortes.
+- **Sonrisa o expresión inusual:** GOV.UK generalmente exige una expresión neutral, con una excepción para menores de 6 años. Practicaríamos una mirada tranquila y directa en un espejo de antemano: busca un gesto serio, no severo.
 - **Gafas con brillo:** El brillo en las lentes obscurece tus ojos. O retira tus gafas o ajusta el ángulo para eliminar reflexión. Algunas autoridades, incluida la del Reino Unido, piden no llevar gafas salvo que sea estrictamente necesario, así que primero verifica las reglas actuales de tu autoridad.
 - **Imagen borrosa o fuera de enfoque:** Problemas de movimiento o enfoque durante la captura. Usa un trípode u objeto estable para apoyar tu teléfono, toca la pantalla para enfocar en tu cara, y evita cualquier movimiento durante la toma.
 - **Fondo incorrecto:** Fondo coloreado, patrón o fondo blanco desigual. Cambia a un cartón o sábana de color claro y uniforme en el tono que pida tu autoridad, y asegúrate de que no haya textura visible o sombras.
 - **Espacio de cabeza excesivo o recorte:** La cara demasiado pequeña o posicionada incorrectamente en el marco. Las reglas de tu país establecerán exactamente cuánto del marco tu cara debe llenar, usualmente como una medida de barbilla a coronilla en lugar de un porcentaje, trabaja con esa cifra, no con lo que se ve correcto.
 
-## Recorta la Foto de tu Teléfono y Luego Imprímela o Súbela
+## Prepara la foto de tu teléfono para presentarla
 
-Tu foto de teléfono inteligente rara vez tiene el tamaño correcto directamente. Después de disparar, necesitarás recortarla a las especificaciones exactas de tu país, luego decidir si imprimirla o cargarla digitalmente.
+GOV.UK indica que no recortes las fotos digitales tomadas con tu propio dispositivo; las fotos impresas del Reino Unido generalmente no deben ser recortes de una imagen más grande.
 
 ### Herramientas de Recorte
 
-Las apps de recorte eliminan la adivinanza del redimensionamiento. Busca herramientas como Passport Photo Online o ID Photo Studio en iOS y Android, te permiten seleccionar tu país y recortar automáticamente a especificación mientras verifican que las dimensiones de tu cara sean correctas. Muchas apps van más allá al proporcionar retroalimentación si tu iluminación o fondo son insuficientes.
+Seguiríamos las instrucciones de formato de la autoridad antes de usar una herramienta de recorte. GOV.UK indica que no recortes las fotos digitales tomadas con tu propio dispositivo.
 
 ### Impresión vs. Presentación Digital
 
@@ -111,17 +111,17 @@ Algunos países aceptan cargas digitales de la foto de pasaporte biométrica pre
 
 ## Lista de Verificación de Preparación
 
-Antes de tomar tu foto, asegúrate de tener lo siguiente en su lugar:
+Si tu autoridad permite fotos en casa, asegúrate de tener lo siguiente:
 
 - Material de fondo claro y uniforme, en el tono que exige tu autoridad, listo y posicionado
 - Buena fuente de luz natural (preferiblemente una ventana)
 - Teléfono inteligente con cámara funcionando
 - Trípode u objeto estable para apoyar tu teléfono
 - Conocimiento de las especificaciones exactas de foto de tu país
-- Una app de recorte descargada y lista para usar
+- Las instrucciones de tu autoridad sobre el recorte
 - Plan para imprimir o presentación digital basado en los requisitos de tu país
 
-Si tienes buena luz de ventana y unos minutos libres, hazte la foto tú mismo hoy: es gratis y la tienes al instante. Si no confías en tu montaje, o vas con el plazo justo, la farmacia o la oficina de correos reduce ese riesgo casi a nada por una tarifa modesta. Eso sí, comprueba antes las especificaciones actuales de tu propio país, no una cifra que hayas visto por ahí.
+Si tu autoridad permite fotos en casa y tienes buena luz de ventana, probaríamos a hacerla en casa. Si no confías en tu montaje, o vas con el plazo justo, preguntaríamos a un proveedor de fotos por los plazos de entrega y si sigue las reglas de tu autoridad para las fotos.
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 
@@ -134,7 +134,7 @@ Fuentes oficiales
 
 ### ¿Puedo tomar una foto de pasaporte con mi teléfono inteligente?
 
-Sí, puedes tomar una foto de pasaporte usando un teléfono inteligente. Posiciónate frente a un fondo claro y uniforme, en el tono que pida tu autoridad de pasaportes, con buena luz natural, y asegúrate de que la foto cumple con los requisitos de tamaño y calidad de tu país. Muchas personas luego usan una app de recorte para redimensionar la foto digital a las dimensiones oficiales e imprimirla o subirla digitalmente dependiendo del proceso de presentación de tu país.
+GOV.UK generalmente permite fotos digitales de pasaporte tomadas con tu propio dispositivo, mientras que Canadá generalmente exige un fotógrafo profesional. Posiciónate frente a un fondo claro y uniforme, en el tono que pida tu autoridad de pasaportes, con buena luz natural, y asegúrate de que la foto cumple con los requisitos de tamaño y calidad de tu país. GOV.UK indica que no recortes las fotos digitales tomadas con tu propio dispositivo.
 
 ### ¿Qué tamaño debe tener una foto de pasaporte?
 
@@ -142,7 +142,7 @@ Los tamaños impresos varían según la autoridad. El Reino Unido utiliza 35 x 4
 
 ### ¿Por qué fue rechazada mi foto de pasaporte?
 
-Los motivos comunes de rechazo incluyen sombras en la cara, tamaño incorrecto, sonrisa o expresiones inusuales, uso de gafas, imágenes borrosas o fondo impropio. Asegúrate de que tu foto cumpla con todos los requisitos oficiales antes de presentarla. Revisa la retroalimentación específica de tu autoridad de pasaportes y retoma la foto abordando cada problema mencionado.
+Las fotos pueden rechazarse si no cumplen las reglas de tu autoridad sobre iluminación, tamaño, expresión, nitidez o fondo. Las reglas sobre gafas dependen de la autoridad. Asegúrate de que tu foto cumpla con todos los requisitos oficiales antes de presentarla. Revisa la retroalimentación específica de tu autoridad de pasaportes y retoma la foto abordando cada problema mencionado.
 
 ### ¿Necesito iluminación especial para una foto de pasaporte?
 
@@ -154,7 +154,7 @@ Depende de la autoridad. GOV.UK pide a los solicitantes del Reino Unido que no l
 
 ### ¿Cuáles son las reglas para una foto de pasaporte?
 
-Las reglas básicas son prácticamente las mismas en la mayoría de los países: un fondo claro y uniforme, una expresión neutral con la boca cerrada, ambos ojos abiertos y bien visibles, sin brillo ni tinte en las gafas si tu autoridad te permite mantenerlas puestas, iluminación uniforme sin sombras, y una foto reciente que cumpla el tamaño exigido por tu país. Cada autoridad publica su propia lista completa y los detalles varían, así que consulta la tuya antes de tomarla.
+Las reglas varían según la autoridad, el formato de solicitud y la edad. GOV.UK generalmente exige un fondo liso de color crema o gris claro para las fotos impresas, pero permite excepciones a las reglas de expresión para menores de 6 años y al requisito de ojos abiertos para menores de un año.
 
 ## Artículos Relacionados
 

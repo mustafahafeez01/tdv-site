@@ -11,12 +11,12 @@ Source: https://traveldocumentvault.com/it/blog/travel-document-checklist/
 ## Punti Chiave
 
 - L'elenco di controllo dei documenti di viaggio più utile è organizzato per **quando devi agire**, non per tipo di documento. Ordinarlo per fase ti fa scoprire i problemi quando c'è ancora tempo per risolverli.
-- I passaporti devono essere controllati al momento della prenotazione, non la sera prima. Un passaporto con meno di sei mesi di validità può causare il rifiuto dell’imbarco per alcune destinazioni: controlla il requisito esatto della tua destinazione al momento della prenotazione.
+- I documenti di viaggio devono essere controllati al momento della prenotazione, non la sera prima. Un passaporto con meno di sei mesi di validità può causare il rifiuto dell’imbarco per alcune destinazioni: controlla il requisito esatto della tua destinazione al momento della prenotazione.
 - I viaggi in famiglia aggiungono un livello separato: i documenti di ogni figlio vanno controllati uno per uno, e può servire una lettera di consenso dei genitori se uno dei due non viaggia.
 - I viaggiatori d'affari spesso portano più passaporti e visti di lavoro — vanno seguiti a parte, separati dai documenti personali.
 - Una copia di backup digitale di ogni documento (crittografata, non nella tua libreria fotografica) potrebbe farti tornare a casa più in fretta se qualcosa va storto all'estero.
 
-La maggior parte degli elenchi dei documenti di viaggio è solo una lista piatta: passaporto, visto, assicurazione. Ti dicono cosa portare, ma non quando controllarlo, ed è qui che le persone restano sorprese. La famiglia che al check-in si accorge che un passaporto scade tra cinque mesi, chi viaggia da solo e ha prenotato senza notare il requisito di visto, il viaggiatore d'affari che ha dimenticato a quale passaporto è legato il visto aziendale: non sono casi limite, sono la norma.
+La maggior parte degli elenchi dei documenti di viaggio è solo una lista piatta: passaporto, visto, assicurazione. Ti dicono cosa portare, ma non quando controllarlo, ed è qui che le persone restano sorprese. La famiglia che al check-in si accorge che un passaporto scade tra cinque mesi, chi viaggia da solo e ha prenotato senza notare il requisito di visto, il viaggiatore d'affari che ha dimenticato a quale passaporto è legato il visto: non sono casi limite, sono la norma.
 
 Questo elenco è organizzato per fase del viaggio. Parte dal momento in cui prenoti e arriva fino al controllo di sicurezza, e ogni fase ha le sue azioni da fare. Se le segui in ordine, ti risparmi il solito caos dell'ultimo minuto.
 
@@ -24,9 +24,9 @@ Questo elenco è organizzato per fase del viaggio. Parte dal momento in cui pren
 
 L'errore più grande è trattare la prenotazione come una formalità e i controlli dei documenti come qualcosa da fare dopo. Vanno fatti nello stesso momento.
 
-**Controlla i passaporti prima di pagare**
+**Controlla i documenti di viaggio prima di pagare**
 
-Prima di confermare una prenotazione, controlla il passaporto di ogni viaggiatore su tre punti: validità (deve soddisfare i requisiti della destinazione — molti paesi richiedono [sei mesi di validità il giorno dell’arrivo](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), mentre alcuni contano dalla partenza: controlla la tua destinazione, come spieghiamo nella nostra [guida alla regola del passaporto di 6 mesi](https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/)), corrispondenza del nome (il nome sul passaporto deve coincidere esattamente con quello della prenotazione) e pagine vuote (alcuni paesi richiedono [almeno due pagine di visto vuote](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements) per i timbri di ingresso).
+Prima di confermare una prenotazione, controlla ogni passaporto che userai su tre punti: validità (deve soddisfare i requisiti della destinazione — molti paesi richiedono [sei mesi di validità il giorno dell’arrivo](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), mentre alcuni contano dalla partenza: controlla la tua destinazione, come spieghiamo nella nostra [guida alla regola del passaporto di 6 mesi](https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/)), corrispondenza del nome (il nome sul passaporto deve coincidere esattamente con quello della prenotazione) e pagine vuote (alcuni paesi richiedono [almeno due pagine di visto vuote](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements) per i timbri di ingresso).
 
 **Controlla i requisiti di visto**
 
@@ -46,7 +46,7 @@ Qualsiasi passaporto che scade entro 12 mesi: avvia il rinnovo adesso. I passapo
 
 Invia adesso qualsiasi domanda di visto che richiede quattro o più settimane di elaborazione. Prepara i documenti di supporto: estratti conto, conferme di alloggio, prova di viaggio successivo. Prenota un appuntamento per i dati biometrici in anticipo se il visto lo richiede.
 
-Per le famiglie: se un figlio sta viaggiando con un solo genitore o un altro adulto, prepara una lettera di consenso per il viaggio dei minori adesso. Includi il nome completo e la data di nascita del minore, i dettagli di contatto di entrambi i genitori, le date di viaggio, le destinazioni e la firma del genitore assente. Alcune destinazioni chiedono anche l’autenticazione della lettera: controlla le regole d’ingresso.
+Per le famiglie: se un figlio sta viaggiando con un solo genitore o un altro adulto, ti consigliamo di preparare una lettera di consenso per il viaggio dei minori adesso. Includi il nome completo e la data di nascita del minore, i dettagli di contatto di entrambi i genitori, le date di viaggio, le destinazioni e la firma del genitore assente. Alcune destinazioni chiedono anche l’autenticazione della lettera: controlla le regole d’ingresso.
 
 ## Un Mese Prima: Confermare e Consolidare
 
@@ -54,7 +54,7 @@ A un mese dal viaggio, tutti i tuoi documenti dovrebbero essere già in mano. Or
 
 ### Documenti di Identità
 
-- Passaporti confermati validi e nel portafoglio da viaggio
+- Passaporti o carte d’identità nazionali accettate, validi e nel portafoglio da viaggio
 - Visti confermati (controllare le date di validità, i conteggi di ingresso, le condizioni)
 - Carta d'identità nazionale se accettata alla destinazione (viaggio UE all'interno di Schengen)
 
@@ -67,11 +67,11 @@ A un mese dal viaggio, tutti i tuoi documenti dovrebbero essere già in mano. Or
 
 ### Documenti Familiari e Speciali
 
-- Lettera di consenso per il viaggio dei minori preparata e firmata
+- Lettera di consenso per il viaggio dei minori preparata e firmata, se necessaria
 - Certificati di nascita accessibili se richiesti dal paese di destinazione
 - Cartelle mediche o prescrizioni per condizioni in corso
 
-Per i viaggiatori d'affari: se hai due passaporti, conferma a quale passaporto è collegato il tuo visto aziendale e con quale devi entrare e uscire da ogni paese. **Alcuni paesi richiedono di entrare e uscire nello stesso documento**, quindi sbagliare questo può trasformare un piccolo errore in un ritardo alla frontiera.
+Per i viaggiatori d'affari: se hai due passaporti, conferma a quale passaporto è collegato il tuo visto e con quale devi entrare e uscire da ogni paese. **Alcuni paesi richiedono di entrare e uscire nello stesso documento**, quindi sbagliare questo può trasformare un piccolo errore in un ritardo alla frontiera.
 
 ## La Sera Prima: Conferma Finale
 
@@ -81,12 +81,12 @@ Se adesso manca qualcosa, hai ore per risolvere, non settimane.
 
 ### Sera Prima
 
-- Passaporti fuori e contabilizzati — uno per persona
+- Passaporti o carte d’identità nazionali accettate pronti — un documento per persona
 - Carte d'imbarco scaricate sul telefono o stampate
 - Certificato di assicurazione di viaggio accessibile sul telefono
 - Conferme di hotel e trasferimento scaricate offline
 - Qualsiasi certificato di vaccinazione o sanitario richiesto
-- Lettera di consenso per il viaggio dei minori nella borsa, non nella valigia
+- Lettera di consenso per il viaggio dei minori, se necessaria, nella borsa, non nella valigia
 - Numeri di contatto di emergenza scritti offline da qualche parte
 
 ## In Aeroporto: Tieni Questi Con Te
@@ -101,13 +101,13 @@ Diversi viaggi hanno bisogno di diversi set di documenti, come mostra la tabella
 
 | Documento | Solo | Famiglia | Affari | Note |
 |---|---|---|---|---|
-| Passaporto | | ogni membro | | Controllare la validità rispetto alla destinazione, non solo la data di scadenza |
-| Visto (se richiesto) | | ogni membro | aziendale | Affari: confermare che il visto è nel passaporto corretto |
+| Passaporto o carta d’identità nazionale accettata | In genere | in genere, ogni membro | In genere | Controllare la validità rispetto alla destinazione, non solo la data di scadenza |
+| Visto (se richiesto) | | ogni membro | verificare il visto o l’autorizzazione di viaggio per le attività previste | Affari: confermare che il visto è nel passaporto corretto |
 | Assicurazione di viaggio | | tutti coperti | controllare che il datore di lavoro la copra | Confermare la copertura prima di ogni viaggio, non solo all'acquisto |
 | Conferme di prenotazione | | | | Copia offline (non contare sull'accesso alla posta elettronica alle frontiere) |
 | Lettera di consenso del minore | N/D | se applicabile | N/D | Chiesta in alcuni paesi se un genitore è assente |
 | Certificati di nascita | N/D | se richiesto | N/D | Alcuni paesi lo chiedono per i minori sotto i 18 anni |
-| Lettera di autorizzazione al lavoro | N/D | N/D | se richiesto | Alcune destinazioni richiedono lettere del datore di lavoro per i viaggiatori d'affari |
+| Lettera del datore di lavoro o lettera d’invito per affari | N/D | N/D | se richiesto | Alcune destinazioni richiedono lettere del datore di lavoro per i viaggiatori d'affari |
 
 Se un viaggio è già prenotato, l'unica cosa che vale la pena fare oggi è prendere ogni passaporto coinvolto e controllarne la scadenza rispetto al requisito della destinazione, non solo rispetto alle date del viaggio.
 
@@ -126,7 +126,7 @@ Fonti ufficiali
 
 ### Di quali documenti ho bisogno per i viaggi internazionali?
 
-I documenti principali per i viaggi internazionali sono un passaporto valido, qualsiasi visto richiesto, assicurazione di viaggio e conferme di prenotazione. Per i viaggi in famiglia, aggiungi il passaporto di ogni figlio (da controllare uno per uno), i certificati di nascita se la destinazione li richiede e una lettera di consenso dei genitori se uno dei due non viaggia. I viaggiatori d'affari dovrebbero confermare a quale passaporto è collegato il visto di lavoro.
+I documenti principali da controllare per i viaggi internazionali sono un passaporto valido o una carta d’identità nazionale accettata, qualsiasi visto richiesto, assicurazione di viaggio e conferme di prenotazione. Per i viaggi in famiglia, aggiungi per ogni figlio un documento di viaggio accettato (da controllare uno per uno), i certificati di nascita se la destinazione li richiede e una lettera di consenso dei genitori se necessaria. I viaggiatori d'affari dovrebbero confermare a quale passaporto è collegato il visto di lavoro.
 
 ### Con quanto anticipo devo controllare i miei documenti di viaggio?
 
@@ -138,7 +138,7 @@ Sì. La scadenza del passaporto di ogni persona, i requisiti di visto e la coper
 
 ### Che cos'è una lettera di consenso per il viaggio dei minori e ne ho bisogno?
 
-Una lettera di consenso per il viaggio dei minori è un documento firmato dal genitore assente che concede il permesso al minore di viaggiare. Alcuni paesi, tra cui il [Sudafrica](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements), prevedono requisiti aggiuntivi per i minori che viaggiano con un solo genitore, mentre le [autorità canadesi](https://travel.gc.ca/travelling/children/consent-letter) consigliano una lettera di consenso firmata. Senza una lettera potresti dover rispondere a domande aggiuntive o subire ritardi. La lettera dovrebbe includere i dettagli del minore, le informazioni di contatto di entrambi i genitori, le date di viaggio, le destinazioni e la firma del genitore assente.
+Una lettera di consenso per il viaggio dei minori è un documento firmato dal genitore assente che concede il permesso al minore di viaggiare. Il [Sudafrica](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements) generalmente esenta i minori stranieri accompagnati che non hanno bisogno di visto dalla presentazione di documenti aggiuntivi, mentre le [autorità canadesi](https://travel.gc.ca/travelling/children/consent-letter) consigliano una lettera di consenso firmata. Senza una lettera potresti dover rispondere a domande aggiuntive o subire ritardi. La lettera dovrebbe includere i dettagli del minore, le informazioni di contatto di entrambi i genitori, le date di viaggio, le destinazioni e la firma del genitore assente.
 
 ### Quali documenti devo tenere accessibili in aeroporto e non nel bagaglio da stiva?
 

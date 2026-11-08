@@ -80,7 +80,7 @@ Source: https://traveldocumentvault.com/nl/blog/
 
 ##
 
-[Familiereizen Schengen paspoortregels voor gezinsreizen: wat ouders verkeerd doen Schengen vereist 3 maanden geldigheid na vertrek, niet 6 – en paspoorten van kinderen verlopen na 5 jaar. Dit moeten gezinnen checken op de dag dat ze boeken. 10 juli 20266 min leestijd](https://traveldocumentvault.com/nl/blog/schengen-passport-rules-family-trips/)
+[Familiereizen Schengen paspoortregels voor gezinsreizen: wat ouders verkeerd doen Schengen vereist 3 maanden geldigheid na vertrek, niet 6 – en Britse kinderpaspoorten zijn 5 jaar geldig. Dit moeten gezinnen checken op de dag dat ze boeken. 10 juli 20266 min leestijd](https://traveldocumentvault.com/nl/blog/schengen-passport-rules-family-trips/)
 
 ##
 
@@ -156,7 +156,7 @@ Source: https://traveldocumentvault.com/nl/blog/
 
 ##
 
-[Verlenging Hoe lang duurt een paspoortverlenging? (VS, VK, Australië, Canada) Hoe lang duurt een paspoortverlenging? Dat hangt meer af van je situatie dan van je land. Dit is wat het echt vertraagt, en waar je actuele tijden checkt. 10 feb. 20267 min leestijd](https://traveldocumentvault.com/nl/blog/how-long-does-passport-renewal-take/)
+[Verlenging Hoe lang duurt een paspoortverlenging? (VS, VK, Australië, Canada) De duur van paspoortverlenging hangt af van aanvraaglocatie en dienst. Wat de aanvraag kan vertragen en waar je actuele tijden voor je land vindt. 10 feb. 20267 min leestijd](https://traveldocumentvault.com/nl/blog/how-long-does-passport-renewal-take/)
 
 ##
 

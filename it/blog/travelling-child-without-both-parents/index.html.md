@@ -12,11 +12,11 @@ Source: https://traveldocumentvault.com/it/blog/travelling-child-without-both-pa
 
 - **Il personale del check-in e gli ufficiali di frontiera controllano cose diverse.** Soddisfare uno non vale per l'altro, né all'arrivo né in uscita.
 - Un genitore che viaggia da solo: porta con te una **lettera di consenso e il certificato di nascita del bambino**.
-- Custodia esclusiva: il **provvedimento di affidamento o l'ordinanza del tribunale** è spesso più utile di una lettera alla frontiera.
-- L'altro genitore è deceduto: porta una **copia autenticata del certificato di morte** al posto della lettera di consenso.
-- Cognome diverso: il **certificato di nascita completo** del bambino di solito risolve la questione, insieme a un certificato di matrimonio o divorzio se il tuo nome è cambiato.
+- Custodia esclusiva: porta il **provvedimento di affidamento o l'ordinanza del tribunale** e gli eventuali consensi necessari di altre persone con responsabilità genitoriale.
+- L'altro genitore è deceduto: se hai la responsabilità decisionale esclusiva, le indicazioni canadesi raccomandano una **copia del certificato di morte**.
+- Cognome diverso: il **certificato di nascita completo** del bambino dimostra il vostro legame di parentela, insieme a un certificato di matrimonio o divorzio se il tuo nome è cambiato.
 
-Al check-in e alla frontiera, un bambino che viaggia senza entrambi i genitori viene guardato due volte. Quel secondo sguardo è un normale controllo di protezione dell'infanzia, non un sospetto verso qualcuno in particolare, e finisce appena i documenti corrispondono alla situazione. Quali documenti servano dipende da perché l'altro genitore non c'è: è rimasto a casa, non condivide più la custodia, oppure non è più in vita. Ogni caso richiede un documento diverso, e la lettera di consenso di cui parlano quasi tutte le guide copre solo il primo.
+Al check-in e alla frontiera, un bambino che viaggia senza entrambi i genitori viene guardato due volte. Quel secondo sguardo è un normale controllo di protezione dell'infanzia, non un sospetto verso qualcuno in particolare. Quali documenti servano dipende da perché l'altro genitore non c'è: è rimasto a casa, non condivide più la custodia, oppure non è più in vita. Ogni caso può richiedere documenti di supporto, e una lettera di consenso può essere raccomandata anche insieme a un provvedimento di affidamento.
 
 ## Banco del check-in e frontiera controllano cose diverse
 
@@ -32,35 +32,35 @@ Se viaggi solo tu e l'altro genitore è vivo, sta bene e semplicemente non viagg
 
 Due cose non sono nella lettera, e conviene portarle insieme. Metti in valigia il certificato di nascita di tuo figlio: la lettera di consenso nomina un bambino e un genitore, ed è il certificato di nascita a collegarvi. Alcuni paesi si aspettano anche che la lettera tenga conto di [chiunque abbia la responsabilità genitoriale](https://www.gov.uk/permission-take-child-abroad), non solo del genitore indicato sul passaporto, quindi può includere un patrigno o un tutore, a seconda della situazione legale della tua famiglia. Se vale anche per te, verifica con l'autorità per l'immigrazione della tua destinazione invece di darlo per scontato: cambia da paese a paese e da caso a caso.
 
-## Custodia esclusiva: quando il documento è il provvedimento del tribunale
+## Custodia esclusiva: porta anche il provvedimento del tribunale
 
-Con la custodia esclusiva cambia il documento che conta, ma ne serve comunque uno. Se un tribunale ti ha assegnato la custodia esclusiva o la responsabilità genitoriale esclusiva, alla frontiera il documento più utile è spesso il provvedimento di affidamento stesso, o una sua copia autenticata, più di una lettera dell'altro genitore. Molte autorità di frontiera lo accettano al posto di una lettera di consenso, e alcune vogliono vederlo comunque insieme a una lettera. Se il provvedimento lascia all'altro genitore diritti di contatto o di visita, porta comunque anche una lettera da parte sua.
+La custodia esclusiva non elimina automaticamente la necessità del consenso. Le indicazioni canadesi raccomandano una lettera di consenso ogni volta che sia possibile o sicuro ottenerla, anche quando un provvedimento sulla responsabilità genitoriale consente a un genitore di decidere da solo sui viaggi. Se il provvedimento lascia all'altro genitore diritti di contatto o di visita, porta comunque anche una lettera da parte sua.
 
-Viaggia con il provvedimento, o con una sua copia autenticata. Chiuso in un cassetto a casa non serve a niente. Quando gli ufficiali fanno domande, di solito cercano una risposta semplice: questo adulto ha il diritto legale di prendere questa decisione per questo bambino? Una copia autenticata di solito si verifica in fretta, e se l'affidamento è cambiato di recente, controlla se la tua destinazione si aspetta una copia più aggiornata di quella che ti porti dietro da anni.
+Viaggia con il provvedimento, o con una sua copia autenticata. Chiuso in un cassetto a casa non serve a niente. Quando gli ufficiali fanno domande, di solito cercano una risposta semplice: questo adulto ha il diritto legale di prendere questa decisione per questo bambino? Se l'affidamento è cambiato di recente, noi porteremmo il provvedimento più aggiornato.
 
-## Se l'altro genitore è deceduto: il certificato di morte sostituisce la lettera
+## Se l'altro genitore è deceduto: porta il certificato di morte
 
-Se l'altro genitore è deceduto, non c'è nessuna lettera di consenso da scrivere, e la maggior parte degli ufficiali di frontiera non se ne aspetta una. Al suo posto porti una copia autenticata del certificato di morte, che risponde alla domanda a cui risponderebbe la lettera: perché c'è un solo genitore.
+Se l'altro genitore è deceduto e hai la responsabilità decisionale esclusiva, le indicazioni canadesi raccomandano di portare una copia del suo certificato di morte quando accompagni tuo figlio.
 
-Tieni la copia autenticata insieme ai passaporti, non in un fascicolo a casa: se la perdi a metà viaggio, sostituirla può richiedere tempo. Una copia stampata più un backup digitale cifrato coprono sia una valigia smarrita sia un telefono che non si accende. Se il cognome di tuo figlio è diverso dal tuo, il certificato di nascita ha qui lo stesso ruolo che ha in tutto l'articolo: dimostra che il bambino è tuo, qualunque nome compaia sul passaporto.
+Tieni la copia autenticata insieme ai passaporti, non in un fascicolo a casa: se la perdi a metà viaggio, sostituirla può richiedere tempo. Una copia stampata più un backup digitale cifrato coprono sia una valigia smarrita sia un telefono che non si accende. Se il cognome di tuo figlio è diverso dal tuo, il certificato di nascita ha qui lo stesso ruolo che ha in tutto l'articolo: dimostra il vostro legame di parentela, qualunque nome compaia sul passaporto.
 
-In pratica è semplice: un documento, a portata di mano, e in genere, una volta mostrato, tutto si risolve in fretta.
+In pratica è semplice: tieni la copia a portata di mano.
 
 ![Albero decisionale che mostra quale documento portare in base a chi non viaggia: una lettera di consenso per l'altro genitore, un provvedimento di affidamento o un'ordinanza del tribunale per un ex senza contatti, una copia del certificato di morte per un genitore deceduto, o il consenso di entrambi più il certificato di nascita quando entrambi i genitori non viaggiano, con la nota di portare sempre con sé il certificato di nascita del minore](https://traveldocumentvault.com/blog/travelling-child-without-both-parents/who-is-missing-figure-it.jpg) Quattro situazioni, quattro documenti, e un certificato di nascita che aiuta in tutte. Questa è la nostra lettura di cosa chiedono più spesso le compagnie aeree e gli agenti di frontiera, non una checklist legale. I requisiti variano in base alla destinazione e alla compagnia, quindi verifica con l'autorità per l'immigrazione della tua destinazione e con la tua compagnia aerea prima di viaggiare.
 
 Questa è la nostra lettura di ciò che compagnie aeree e agenti di frontiera chiedono più spesso, non un elenco di obblighi di legge. I requisiti variano in base alla destinazione e al vettore, quindi verifica con le autorità per l'immigrazione della tua destinazione e con la tua compagnia aerea prima di partire.
 
-## Cognome diverso da quello di tuo figlio: di solito basta il certificato di nascita
+## Cognome diverso da quello di tuo figlio: il certificato di nascita dimostra la parentela
 
-Un cognome diverso da quello di tuo figlio è una cosa comune e di rado crea problemi, se hai il documento giusto a portata di mano. Portalo, invece di sperare che nessuno chieda niente. Matrimonio, divorzio, un nuovo matrimonio o la semplice scelta di non dare lo stesso cognome alla nascita sono tutti motivi comuni di questa differenza, e un ufficiale che chiede di solito segue una breve lista di controlli, non sospetta qualcosa in particolare.
+Un cognome diverso da quello di tuo figlio può far sorgere domande, quindi porta un documento che dimostri il vostro legame di parentela, invece di sperare che nessuno chieda niente. Matrimonio, divorzio, un nuovo matrimonio o la semplice scelta di non dare lo stesso cognome alla nascita sono tutti motivi comuni di questa differenza, e un ufficiale che chiede di solito segue una breve lista di controlli, non sospetta qualcosa in particolare.
 
-Il certificato di nascita completo di tuo figlio, quello che ti nomina come genitore, chiude la questione più in fretta. Se il tuo nome è cambiato da quando è stato rilasciato quel certificato, un certificato di matrimonio o di divorzio spiega la differenza tra il nome sul tuo passaporto e quello di tuo figlio. Portali entrambi anche per un viaggio di routine in un posto dove sei già stato: la stessa differenza che passa inosservata una volta può portare a una conversazione più lunga la volta dopo, a seconda dell'ufficiale di turno quel giorno.
+Il certificato di nascita completo di tuo figlio, quello che ti nomina come genitore, dimostra il vostro legame di parentela. Se il tuo nome è cambiato da quando è stato rilasciato quel certificato, un certificato di matrimonio o di divorzio spiega la differenza tra il nome sul tuo passaporto e quello di tuo figlio. Portali entrambi anche per un viaggio di routine in un posto dove sei già stato: la stessa differenza che passa inosservata una volta può portare a una conversazione più lunga la volta dopo, a seconda dell'ufficiale di turno quel giorno.
 
-## Nonni, parenti e tutori: di solito serve il consenso di entrambi i genitori
+## Nonni, parenti e tutori: chi dovrebbe firmare la lettera di consenso
 
-Quando un nonno, una zia, uno zio o un amico di famiglia viaggia con un bambino e nessuno dei due genitori è presente, i documenti aumentano: molti paesi si aspettano la prova che entrambi i genitori, o entrambi i tutori legali, abbiano acconsentito al viaggio, non solo uno. Il formato è la stessa [lettera di consenso](https://traveldocumentvault.com/it/blog/child-travel-consent-letter/) che trattiamo per intero altrove, ma qui in genere serve la firma di entrambi i genitori invece che di uno solo, insieme ai recapiti di ciascuno.
+Quando un nonno, una zia, uno zio o un amico di famiglia viaggia con un bambino e nessuno dei due genitori è presente, le indicazioni canadesi raccomandano il consenso di ogni persona con responsabilità decisionale che non partecipa al viaggio. Il formato è la stessa [lettera di consenso](https://traveldocumentvault.com/it/blog/child-travel-consent-letter/) che trattiamo per intero altrove, ma le firme in genere dipendono da chi ha la responsabilità genitoriale o decisionale, con i recapiti di ciascuno.
 
-L'adulto che accompagna il bambino dovrebbe portare anche il suo certificato di nascita ed essere pronto a spiegare in parole semplici che rapporto c'è, se glielo chiedono: «amico di famiglia» fa nascere più domande di «nonno», anche con documenti identici. Le compagnie aeree possono rifiutare l'imbarco a un bambino se l'adulto non riesce a mostrarli al check-in, per lo stesso motivo di responsabilità visto prima: la compagnia si protegge da un ingresso rifiutato a destinazione, ancora prima che il volo parta.
+L'adulto che accompagna il bambino dovrebbe portare anche il suo certificato di nascita ed essere pronto a spiegare in parole semplici che rapporto c'è, se glielo chiedono: «amico di famiglia» fa nascere più domande di «nonno», anche con documenti identici. Noi terremmo pronti anche i documenti richiesti dalla compagnia aerea per il check-in.
 
 ## Se arrivano comunque delle domande
 
@@ -75,10 +75,10 @@ Ogni situazione descritta sopra richiede il suo piccolo fascicolo di documenti, 
 | Situazione | Documenti da portare |
 |---|---|
 | Viaggia un solo genitore, l'altro non c'è | Lettera di consenso, certificato di nascita del bambino |
-| Custodia esclusiva o principale | Copia autenticata del provvedimento di affidamento, certificato di nascita del bambino |
+| Custodia esclusiva o principale | Copia autenticata del provvedimento di affidamento o sulla responsabilità genitoriale, certificato di nascita del bambino, eventuali consensi necessari di altre persone con responsabilità genitoriale |
 | L'altro genitore è deceduto | Copia autenticata del certificato di morte, certificato di nascita del bambino |
 | Cognome diverso da quello di tuo figlio | Certificato di nascita completo del bambino, certificato di matrimonio o divorzio se serve |
-| Nonno, parente o tutore in viaggio, nessuno dei due genitori presente | Lettera di consenso firmata da entrambi i genitori o tutori, certificato di nascita del bambino |
+| Nonno, parente o tutore in viaggio, nessuno dei due genitori presente | Lettera di consenso firmata da ogni persona con responsabilità genitoriale o decisionale che non partecipa al viaggio, certificato di nascita del bambino, eventuali ordinanze del tribunale pertinenti |
 
 La nostra [checklist dei documenti di viaggio](https://traveldocumentvault.com/it/blog/travel-document-checklist/) più ampia copre cosa portare oltre a questo caso specifico, e la nostra guida su [come organizzare i documenti di viaggio della famiglia](https://traveldocumentvault.com/it/blog/how-to-organise-family-travel-documents/) spiega come tenere in ordine i documenti di ogni componente della famiglia tra un viaggio e l'altro, non solo quelli del viaggio per cui fai le valigie adesso. Qualunque fascicolo valga per la tua famiglia, mettilo insieme oggi: abbina ogni documento della tabella qui sopra al certificato di nascita di tuo figlio e tieni l'intero set in un unico posto, prima di prenotare il prossimo viaggio.
 
@@ -93,19 +93,19 @@ Fonti ufficiali
 
 ### Ho bisogno di una lettera di consenso se ho la custodia esclusiva di mio figlio?
 
-Spesso il documento più utile è il provvedimento di affidamento o l'ordinanza del tribunale stessa. Molte autorità di frontiera lo accettano al posto di una lettera di consenso dell'altro genitore, e alcune chiedono di vederlo comunque insieme a una lettera. Porta il provvedimento o una copia autenticata, e verifica cosa si aspetta la tua destinazione prima di partire.
+Porta il provvedimento di affidamento o l'ordinanza del tribunale, o una copia autenticata. Le indicazioni canadesi raccomandano una lettera di consenso ogni volta che sia possibile o sicuro ottenerla, anche quando un provvedimento sulla responsabilità genitoriale consente a un genitore di decidere da solo sui viaggi.
 
 ### Di cosa ho bisogno per viaggiare con mio figlio se l'altro genitore è deceduto?
 
-Non c'è nessuna lettera di consenso da scrivere, quindi porta invece una copia del certificato di morte. Una copia autenticata è il documento che più probabilmente risponde alla domanda, ma controlla le indicazioni della tua destinazione. Tieni una copia stampata insieme ai passaporti e un backup digitale cifrato.
+Se l'altro genitore è deceduto e hai la responsabilità decisionale esclusiva, le indicazioni canadesi raccomandano di portare una copia del suo certificato di morte quando accompagni tuo figlio. Tieni una copia stampata insieme ai passaporti e un backup digitale cifrato.
 
 ### Mio figlio può viaggiare all'estero con i nonni o un altro parente?
 
-Sì, ma molti paesi si aspettano il consenso scritto di entrambi i genitori o tutori legali, non solo di uno. L'adulto accompagnatore dovrebbe anche portare i recapiti di entrambi i genitori e una copia del certificato di nascita del bambino. Le compagnie aeree possono rifiutare l'imbarco a un bambino se l'adulto non riesce a mostrarlo quando richiesto.
+Sì, nel rispetto delle regole applicabili. Le indicazioni canadesi raccomandano il consenso di ogni persona con responsabilità decisionale che non partecipa al viaggio. L'adulto accompagnatore dovrebbe anche portare i recapiti di ciascuna e una copia del certificato di nascita del bambino. Noi terremmo pronti anche i documenti richiesti dalla compagnia aerea.
 
 ### Un cognome diverso da quello di mio figlio può causare problemi in aeroporto?
 
-Può far sorgere domande in più, in particolare con i bambini più piccoli. Una copia del certificato di nascita completo del bambino, che ti nomina come genitore, di solito risolve la questione in fretta. Un certificato di matrimonio o divorzio aiuta se il tuo nome è cambiato da quando è stato rilasciato il certificato di nascita. Portali con te anche per i viaggi di routine.
+Può far sorgere domande in più. Una copia del certificato di nascita completo del bambino, che ti nomina come genitore, dimostra il vostro legame di parentela. Un certificato di matrimonio o divorzio aiuta se il tuo nome è cambiato da quando è stato rilasciato il certificato di nascita. Portali con te anche per i viaggi di routine.
 
 ### Chi controlla i documenti, la compagnia aerea o il controllo di frontiera?
 

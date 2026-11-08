@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/da/blog/travel-document-checklist/
 - Forretningsrejsende har ofte flere pas og arbejdsvisa, disse skal spores separat fra personlige dokumenter.
 - En digital sikkerhedskopi af hvert dokument (krypteret, ikke i dit fotobibliotek) kan bringe dig hjem hurtigere, hvis noget går galt i udlandet.
 
-De fleste tjeklister til rejsedokumenter er bare en flad liste: pas, visum, forsikring. De fortæller dig, hvad du skal have med, men ikke hvornår du skal tjekke det, og det er dér, folk bliver taget på sengen. Familien, der opdager ved indcheckningen, at et pas udløber om fem måneder, soloresenæren, der bookede uden at bemærke visumkravet, eller forretningsrejsende, der glemte, hvilket pas firmavisummet sad i, er ikke undtagelser. De er reglen.
+De fleste tjeklister til rejsedokumenter er bare en flad liste: pas, visum, forsikring. De fortæller dig, hvad du skal have med, men ikke hvornår du skal tjekke det, og det er dér, folk bliver taget på sengen. Familien, der opdager ved indcheckningen, at et pas udløber om fem måneder, soloresenæren, der bookede uden at bemærke visumkravet, eller forretningsrejsende, der glemte, hvilket pas visummet sad i, er ikke undtagelser. De er reglen.
 
 Denne tjekliste er i stedet organiseret efter rejsestadie. Fra det øjeblik du booker og videre frem til security har hvert stadie et bestemt sæt handlinger, der skal udføres. Følger du dem i rækkefølge, undgår du de sædvanlige panikagtige sidste-øjebliks-situationer.
 
@@ -24,9 +24,9 @@ Denne tjekliste er i stedet organiseret efter rejsestadie. Fra det øjeblik du b
 
 Den største fejl, rejsende laver, er at behandle bookingøjeblikket som administrativt og dokumenttjek som noget, man gør senere. De skal ske på præcis samme tidspunkt.
 
-**Tjek jeres pas, før I betaler**
+**Tjek jeres rejsedokumenter, før I betaler**
 
-Før du bekræfter en booking, så tjek hver rejsendes pas mod tre kriterier: gyldighed (opfylder det destinationens krav, mange lande vil have [6 måneders gyldighed tilbage på ankomstdagen](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), og nogle få tæller fra afrejsen, så tjek din destination, som forklaret i vores [guide til 6-måneders-reglen for pas](https://traveldocumentvault.com/da/blog/passport-expiry-6-month-rule/)), navnematch (navnet på passet skal matche bookingnavnet præcist), og blanke sider (nogle lande kræver [mindst to blanke visumsider](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements) til indrejsestempler).
+Før du bekræfter en booking, så tjek hvert pas, I skal bruge, mod tre kriterier: gyldighed (opfylder det destinationens krav, mange lande vil have [6 måneders gyldighed tilbage på ankomstdagen](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), og nogle få tæller fra afrejsen, så tjek din destination, som forklaret i vores [guide til 6-måneders-reglen for pas](https://traveldocumentvault.com/da/blog/passport-expiry-6-month-rule/)), navnematch (navnet på passet skal matche bookingnavnet præcist), og blanke sider (nogle lande kræver [mindst to blanke visumsider](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements) til indrejsestempler).
 
 **Tjek jeres visumkrav**
 
@@ -46,7 +46,7 @@ Vi ville forny ethvert pas, der udløber inden for 12 måneder, nu. Børns pas u
 
 Indsend eventuelle visumansøgninger, der kræver forberedelsestid, og tjek hos den udstedende myndighed, hvor lang tid det aktuelt tager. Forbered understøttende dokumenter: kontoudtog, bekræftelser på indkvartering, bevis for videre rejse. Book en biometritid i forvejen, hvis visummet kræver det.
 
-For familier: hvis et barn rejser med kun den ene forælder eller en anden voksen, så forbered et samtykkebrev til barnets rejse nu. Inkluder barnets fulde navn og fødselsdato, begge forældres kontaktoplysninger, rejsedatoer, destinationer, og den fraværende forælders underskrift. Nogle destinationer beder også om, at brevet er notarbekræftet, så tjek indrejsereglerne.
+For familier: hvis et barn rejser med kun den ene forælder eller en anden voksen, ville vi forberede et samtykkebrev til barnets rejse nu. Inkluder barnets fulde navn og fødselsdato, begge forældres kontaktoplysninger, rejsedatoer, destinationer, og den fraværende forælders underskrift. Nogle destinationer beder også om, at brevet er notarbekræftet, så tjek indrejsereglerne.
 
 ## En måned før: bekræft og saml
 
@@ -54,7 +54,7 @@ En måned før afrejse bør alle jeres dokumenter være i hus. Dette stadie hand
 
 ### Identitetsdokumenter
 
-- Pas bekræftet gyldigt og i rejsemappen
+- Pas eller accepterede nationale ID-kort bekræftet gyldige og i rejsemappen
 - Visum bekræftet (tjek gyldighedsdatoer, antal indrejser, eventuelle betingelser)
 - Nationalt ID-kort, hvis det accepteres på destinationen (EU-rejse inden for Schengen)
 
@@ -67,11 +67,11 @@ En måned før afrejse bør alle jeres dokumenter være i hus. Dette stadie hand
 
 ### Familie- og specialdokumenter
 
-- Samtykkebrev forberedt og underskrevet
+- Samtykkebrev forberedt og underskrevet, hvis relevant
 - Fødselsattester tilgængelige, hvis destinationslandet kræver det
 - Journaler eller recepter til løbende medicinske forhold
 
-For forretningsrejsende: hvis du har to pas, så bekræft, hvilket pas dit firmavisum er knyttet til, og hvilket du skal bruge til at rejse ind i og ud af hvert land. **Nogle lande kræver, at du rejser ind og ud på samme dokument**, så en fejl her kan gøre en lille fejl til en forsinkelse ved grænsen.
+For forretningsrejsende: hvis du har to pas, så bekræft, hvilket pas dit visum er knyttet til, og hvilket du skal bruge til at rejse ind i og ud af hvert land. **Nogle lande kræver, at du rejser ind og ud på samme dokument**, så en fejl her kan gøre en lille fejl til en forsinkelse ved grænsen.
 
 ## Aftenen før: den sidste bekræftelse
 
@@ -81,12 +81,12 @@ Hvis noget mangler nu, har du timer til at ordne det, ikke uger.
 
 ### Aftenen før
 
-- Pas fundet frem og talt, ét per person
+- Pas eller accepterede nationale ID-kort fundet frem og talt, ét per person
 - Boardingkort downloadet til telefonen eller printet
 - Rejseforsikringscertifikat tilgængeligt på telefonen
 - Hotel- og transferbekræftelser downloadet offline
 - Eventuelle vaccinations- eller sundhedsbeviser
-- Samtykkebrev i håndbagagen, ikke i kufferten
+- Samtykkebrev, hvis relevant, i håndbagagen, ikke i kufferten
 - Nødkontaktnumre skrevet ned et sted offline
 
 ## I lufthavnen: hav disse med dig
@@ -101,13 +101,13 @@ Forskellige rejser kræver forskellige sæt dokumenter, som tabellen herunder vi
 
 | Dokument | Solo | Familie | Forretning | Noter |
 |---|---|---|---|---|
-| Pas | | hvert medlem | | Tjek gyldighed mod destinationen, ikke kun udløbsdatoen |
-| Visum (hvis relevant) | | hvert medlem | firma | Forretning: bekræft at visummet sidder i det rette pas |
+| Pas eller accepteret nationalt ID-kort | Som regel | Som regel for alle | Som regel | Tjek gyldighed mod destinationen, ikke kun udløbsdatoen |
+| Visum (hvis relevant) | | hvert medlem | afklar visum eller rejsetilladelse til de planlagte aktiviteter | Forretning: bekræft at visummet sidder i det rette pas |
 | Rejseforsikring | | alle dækket | tjek om arbejdsgiveren dækker dig | Bekræft dækning før hver rejse, ikke kun ved køb |
 | Bookingbekræftelser | | | | Offlinekopi (stol ikke på e-mailadgang ved grænser) |
 | Samtykkebrev til børn | N/A | hvis relevant | N/A | Efterspørges i nogle lande, hvis en forælder mangler |
 | Fødselsattester | N/A | hvis krævet | N/A | Nogle lande beder om dette for børn under 18 |
-| Arbejdstilladelsesbrev | N/A | N/A | hvis krævet | Nogle destinationer kræver arbejdsgiverbreve til forretningsrejsende |
+| Brev fra arbejdsgiver eller invitation fra en virksomhed | N/A | N/A | hvis krævet | Nogle destinationer kræver arbejdsgiverbreve til forretningsrejsende |
 
 Er en rejse allerede booket, er det ene, der er værd at gøre i dag, at tage hvert pas frem og tjekke udløbsdatoen mod destinationens krav, ikke kun mod dine rejsedatoer.
 
@@ -126,7 +126,7 @@ Officielle kilder
 
 ### Hvilke dokumenter skal jeg bruge til internationale rejser?
 
-Kernedokumenterne til internationale rejser er et gyldigt pas, eventuelt påkrævet visum, rejseforsikring, og bookingbekræftelser. Til familierejser tilføj hvert barns pas (tjekket individuelt), fødselsattester hvis destinationen kræver det, og et forældresamtykkebrev, hvis den ene forælder ikke rejser med. Forretningsrejsende bør bekræfte, hvilket pas deres arbejdsvisum er knyttet til.
+De vigtigste dokumenter at gennemgå før internationale rejser er et gyldigt pas eller et accepteret nationalt ID-kort, eventuelt påkrævet visum, rejseforsikring og bookingbekræftelser. Til familierejser tilføjer du hvert barns accepterede rejsedokument (tjekket individuelt), fødselsattester hvis destinationen kræver det, og et forældresamtykkebrev, hvis det er nødvendigt. Forretningsrejsende bør bekræfte, hvilket pas deres arbejdsvisum er knyttet til.
 
 ### Hvor lang tid i forvejen bør jeg tjekke mine rejsedokumenter?
 
@@ -138,7 +138,7 @@ Ja. Hver persons pasgyldighed, visumkrav, og forsikringsdækning vurderes indivi
 
 ### Hvad er et samtykkebrev til børns rejse, og skal jeg bruge et?
 
-Et samtykkebrev til børns rejse er et underskrevet dokument fra den fraværende forælder, der giver tilladelse til, at barnet rejser. Nogle lande, blandt andre [Sydafrika](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements), stiller ekstra krav til børn, der rejser med kun den ene forælder, og [de canadiske myndigheder](https://travel.gc.ca/travelling/children/consent-letter) anbefaler et underskrevet samtykkebrev. Uden et kan du møde ekstra spørgsmål eller forsinkelser. Brevet bør indeholde barnets oplysninger, begge forældres kontaktoplysninger, rejsedatoer, destinationer, og den fraværende forælders underskrift.
+Et samtykkebrev til børns rejse er et underskrevet dokument fra den fraværende forælder, der giver tilladelse til, at barnet rejser. [Sydafrika](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements) fritager som regel udenlandske børn, der er visumfritaget og rejser med en voksen, for ekstra dokumentation, og [de canadiske myndigheder](https://travel.gc.ca/travelling/children/consent-letter) anbefaler et underskrevet samtykkebrev. Uden et kan du møde ekstra spørgsmål eller forsinkelser. Brevet bør indeholde barnets oplysninger, begge forældres kontaktoplysninger, rejsedatoer, destinationer, og den fraværende forælders underskrift.
 
 ### Hvilke dokumenter bør jeg holde tilgængelige i lufthavnen og ikke i indchecket bagage?
 

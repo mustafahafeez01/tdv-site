@@ -22,16 +22,15 @@ C'est l'une des règles les plus mal comprises du voyage. Un passeport qui n'a p
 
 ## Les passeports d'adultes durent bien plus longtemps que ceux des enfants
 
-La période de validité standard d'un passeport pour adulte est de 10 ans à compter de la date de délivrance dans la plupart des pays. Les passeports pour enfants expirent plus tôt — [généralement 5 ans](https://www.gov.uk/get-a-child-passport). Nous vérifierions le passeport d'un enfant avant celui de n'importe qui d'autre, car c'est celui que tout le monde suppose en règle.
+Les nouveaux passeports britanniques ordinaires pour adultes sont généralement valables 10 ans. Les passeports pour enfants expirent plus tôt — [généralement 5 ans](https://www.gov.uk/get-a-child-passport). Nous vérifierions le passeport d'un enfant avant celui de n'importe qui d'autre, car c'est celui que tout le monde suppose en règle.
 
 | Pays | Validité adulte | Validité enfant |
 |---|---|---|
 | Royaume-Uni | 10 ans | 5 ans (moins de 16 ans) |
 | États-Unis | 10 ans | 5 ans (moins de 16 ans) |
-| Australie | 10 ans | 5 ans (moins de 16 ans) |
-| Canada | 10 ans | 5 ans |
+| Australie | Généralement 10 ans ; 5 ans au choix à partir de 75 ans | 5 ans (moins de 16 ans) |
+| Canada | Généralement 5 ou 10 ans, au choix lors de la demande | 5 ans |
 | Irlande | 10 ans | 5 ans (moins de 18 ans) |
-| Nouvelle-Zélande | 10 ans | 5 ans (moins de 16 ans) |
 
 Votre date d'expiration exacte est imprimée sur la page de données à côté de votre photo. Cette date est la limite ferme — votre passeport cesse d'être un document de voyage valable n'importe où dans le monde une fois qu'il passe.
 
@@ -61,7 +60,7 @@ Pour tout le reste, vérifiez avant de réserver. Votre compagnie aérienne ou l
 
 ## Les passeports d'enfants expirent plus vite, et les familles oublient de les vérifier
 
-C'est ici que les familles se font piéger chaque été. Les passeports pour adultes sont valables 10 ans. Les passeports pour enfants expirent après 5 ans. Cet écart crée un problème spécifique.
+C'est ici que les familles se font piéger chaque été. Les nouveaux passeports britanniques ordinaires pour adultes sont généralement valables 10 ans. Les passeports pour enfants expirent après 5 ans. Cet écart crée un problème spécifique.
 
 Un enfant de 3 ans qui a obtenu son premier passeport en 2023 a un document qui expire en 2028. Au moment où il a 7 ans et que la famille réserve un voyage en Thaïlande, ce passeport peut n'avoir que quelques mois de validité restante — bien en deçà de l'exigence de 6 mois. Les deux parents pourraient être assis sur 4 ans de validité chacun et ne jamais penser à vérifier le document de l'enfant.
 
@@ -93,7 +92,7 @@ Sources officielles
 
 ### Combien de temps un passeport du Royaume-Uni est-il valable?
 
-Les passeports pour adultes du Royaume-Uni sont généralement valables 10 ans à compter de la date de délivrance. Les passeports pour enfants (moins de 16 ans) sont valables 5 ans. La date d'expiration exacte est indiquée sur la page de données à côté de votre photo.
+Les nouveaux passeports britanniques ordinaires pour adultes sont généralement valables 10 ans. Les passeports pour enfants (moins de 16 ans) sont valables 5 ans. La date d'expiration exacte est indiquée sur la page de données à côté de votre photo.
 
 ### Puis-je voyager avec 6 mois restant sur mon passeport?
 

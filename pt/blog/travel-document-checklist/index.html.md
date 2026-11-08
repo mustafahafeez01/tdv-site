@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/pt/blog/travel-document-checklist/
 - Viajantes de negócios frequentemente transportam múltiplos passaportes e vistos de trabalho — estes precisam de rastreamento próprio, separado de documentos pessoais.
 - Uma cópia de segurança digital de cada documento (encriptada, não na sua biblioteca de fotos) pode conseguir levá-lo para casa mais rapidamente se algo corre mal no estrangeiro.
 
-A maioria das listas de verificação de documentos de viagem é apenas uma lista plana: passaporte, visto, seguro. Dizem-lhe o que trazer, mas não quando verificar, o que é onde as pessoas ficam apanhadas. A família que se apercebe no check-in que um passaporte expira em cinco meses, o viajante solo que reservou sem notar o seu requisito de visto, ou o viajante de negócios que esqueceu a qual passaporte está associado o seu visto corporativo — estes não são casos extremos, são a norma.
+A maioria das listas de verificação de documentos de viagem é apenas uma lista plana: passaporte, visto, seguro. Dizem-lhe o que trazer, mas não quando verificar, o que é onde as pessoas ficam apanhadas. A família que se apercebe no check-in que um passaporte expira em cinco meses, o viajante solo que reservou sem notar o seu requisito de visto, ou o viajante de negócios que esqueceu a qual passaporte está associado o seu visto — estes não são casos extremos, são a norma.
 
 Esta lista de verificação é organizada por etapa de viagem em vez disso. Começando no momento em que reserva e trabalhando até à segurança, cada etapa tem um conjunto específico de ações que precisam ser executadas. Seguindo-as por ordem é como os habituais apuros de última hora não acontecem.
 
@@ -24,9 +24,9 @@ Esta lista de verificação é organizada por etapa de viagem em vez disso. Come
 
 O maior erro que os viajantes cometem é tratar o momento da reserva como administrativo e verificações de documentos como algo a fazer mais tarde. Isto precisa acontecer exactamente ao mesmo tempo.
 
-**Verifique os seus passaportes antes de pagar**
+**Verifique os seus documentos de viagem antes de pagar**
 
-Antes de confirmar qualquer reserva, verifique o passaporte de cada viajante contra três critérios: validade (cumpre os requisitos do destino — muitos países exigem [seis meses de validade no dia de chegada](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), e alguns contam a partir da saída, por isso confirme o seu destino, como explicado no nosso [guia da regra dos 6 meses do passaporte](https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/)), correspondência de nomes (o nome no passaporte deve corresponder exactamente ao nome da reserva) e páginas em branco (alguns países exigem [pelo menos duas páginas de visto em branco](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements) para carimbos de entrada).
+Antes de confirmar qualquer reserva, verifique cada passaporte que vai usar segundo três critérios: validade (cumpre os requisitos do destino — muitos países exigem [seis meses de validade no dia de chegada](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), e alguns contam a partir da saída, por isso confirme o seu destino, como explicado no nosso [guia da regra dos 6 meses do passaporte](https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/)), correspondência de nomes (o nome no passaporte deve corresponder exactamente ao nome da reserva) e páginas em branco (alguns países exigem [pelo menos duas páginas de visto em branco](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements) para carimbos de entrada).
 
 **Verifique os seus requisitos de visto**
 
@@ -46,7 +46,7 @@ Qualquer passaporte que expire nos próximos 12 meses: inicie o processo de reno
 
 Submeta qualquer candidatura de visto com uma janela de processamento de quatro ou mais semanas. Prepare documentos de apoio: extractos bancários, confirmações de alojamento, prova de viagem contínua. Reserve uma consulta de biometria com antecedência se o visto o exigir.
 
-Para famílias: se uma criança está a viajar com apenas um progenitor ou outro adulto, prepare uma carta de consentimento de viagem de criança agora. Incluir o nome completo e data de nascimento da criança, detalhes de contacto de ambos os progenitores, datas de viagem, destinos e assinatura do progenitor ausente. Alguns destinos também pedem que a carta tenha assinatura reconhecida, por isso confirme as regras de entrada.
+Para famílias: se uma criança está a viajar com apenas um progenitor ou outro adulto, recomendamos preparar uma carta de consentimento de viagem de criança agora. Incluir o nome completo e data de nascimento da criança, detalhes de contacto de ambos os progenitores, datas de viagem, destinos e assinatura do progenitor ausente. Alguns destinos também pedem que a carta tenha assinatura reconhecida, por isso confirme as regras de entrada.
 
 ## Um Mês Antes: Confirmar e Consolidar
 
@@ -54,7 +54,7 @@ Num mês antes da viagem, todos os seus documentos devem estar em mão. Esta eta
 
 ### Documentos de Identidade
 
-- Passaportes confirmados como válidos e em carteira de viagem
+- Passaportes ou cartões de identidade nacionais aceites confirmados como válidos e na carteira de viagem
 - Vistos confirmados (verificar datas de validade, contagens de entrada, quaisquer condições)
 - Cartão de identidade nacional se aceite no destino (viagem dentro de Schengen na UE)
 
@@ -67,11 +67,11 @@ Num mês antes da viagem, todos os seus documentos devem estar em mão. Esta eta
 
 ### Documentos Familiares e Especiais
 
-- Carta de consentimento dos progenitores preparada e assinada
+- Carta de consentimento dos progenitores preparada e assinada se aplicável
 - Certidões de nascimento acessíveis se exigidas pelo país de destino
 - Registos médicos ou receitas para condições contínuas
 
-Para viajantes de negócios: se detém dois passaportes, confirme qual passaporte o seu visto corporativo está associado a e qual precisa usar para entrar e sair de cada país. **Alguns países exigem que entre e saia no mesmo documento**, portanto cometer este erro pode transformar um erro menor num atraso de fronteira.
+Para viajantes de negócios: se detém dois passaportes, confirme a que passaporte está associado o seu visto e qual precisa de usar para entrar e sair de cada país. **Alguns países exigem que entre e saia no mesmo documento**, portanto cometer este erro pode transformar um erro menor num atraso de fronteira.
 
 ## A Noite Anterior: Confirmação Final
 
@@ -81,12 +81,12 @@ Se algo está em falta agora, tem horas para o resolver, não semanas.
 
 ### Noite Anterior
 
-- Passaportes fora e contabilizados — um por pessoa
+- Passaportes ou cartões de identidade nacionais aceites à mão e todos presentes — um por pessoa
 - Cartões de embarque descarregados para telemóvel ou impressos
 - Certificado de seguro de viagem acessível no telemóvel
 - Confirmações de hotel e transferência descarregadas offline
 - Qualquer certificado de vacinação ou saúde necessário
-- Carta de consentimento dos progenitores na bolsa, não na mala
+- Carta de consentimento dos progenitores, se aplicável, na bolsa, não na mala
 - Números de contacto de emergência anotados em algum lugar offline
 
 ## No Aeroporto: Mantenha Estes Consigo
@@ -101,15 +101,15 @@ Diferentes viagens precisam de diferentes conjuntos de documentos, como mostra a
 
 | Documento | Solo | Família | Negócios | Notas |
 |---|---|---|---|---|
-| Passaporte | | cada membro | | Verificar validade contra o destino, não apenas a data de expiração |
-| Visto (se necessário) | | cada membro | corporativo | Negócios: confirme que o visto está no passaporte correcto |
+| Passaporte ou cartão de identidade nacional aceite | Geralmente | geralmente, cada membro | Geralmente | Verificar validade contra o destino, não apenas a data de expiração |
+| Visto (se necessário) | | cada membro | confirme o visto ou a autorização de viagem para as atividades previstas | Negócios: confirme que o visto está no passaporte correcto |
 | Seguro de viagem | | todos cobertos | verifique se o empregador cobre | Confirme cobertura antes de cada viagem, não apenas na compra |
 | Confirmações de reserva | | | | Cópia offline (não confie no acesso a email nas fronteiras) |
 | Carta de consentimento de criança | N/A | se aplicável | N/A | Pedida em alguns países se um progenitor está ausente |
 | Certidões de nascimento | N/A | se necessário | N/A | Alguns países pedem para crianças menores de 18 anos |
-| Carta de autorização de trabalho | N/A | N/A | se necessário | Alguns destinos exigem cartas de empregador para viajantes de negócios |
+| Carta do empregador ou convite de negócios | N/A | N/A | se necessário | Alguns destinos exigem cartas de empregador para viajantes de negócios |
 
-Se já tem uma viagem reservada, a única coisa que vale a pena fazer hoje é pegar em todos os passaportes envolvidos e confirmar a data de validade face ao requisito do destino, e não apenas face às datas da viagem.
+Se já tem uma viagem reservada, a única coisa que vale a pena fazer hoje é pegar em todos os documentos de viagem que vai usar e confirmar a data de validade face ao requisito do destino, e não apenas face às datas da viagem.
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 
@@ -126,7 +126,7 @@ Fontes oficiais
 
 ### Que documentos preciso para viajar internacionalmente?
 
-Os documentos principais para viajar internacionalmente são um passaporte válido, qualquer visto necessário, seguro de viagem e confirmações de reserva. Para viagens familiares, adicione o passaporte de cada filho (verificado individualmente), certidões de nascimento se exigidas pelo destino e carta de consentimento dos progenitores se um dos progenitores não vai viajar. Viajantes de negócios devem confirmar a qual passaporte está associado o visto de trabalho.
+Os documentos principais a verificar para viajar internacionalmente são um passaporte válido ou um cartão de identidade nacional aceite, qualquer visto necessário, seguro de viagem e confirmações de reserva. Para viagens familiares, adicione o documento de viagem aceite de cada filho (verificado individualmente), certidões de nascimento se exigidas pelo destino e carta de consentimento dos progenitores se necessária. Viajantes de negócios devem confirmar a qual passaporte está associado o visto de trabalho.
 
 ### Com quanto tempo de antecedência devo verificar os meus documentos de viagem?
 
@@ -138,7 +138,7 @@ Sim. A expiração do passaporte de cada pessoa, os requisitos de visto e a cobe
 
 ### O que é uma carta de consentimento de viagem de criança e preciso de uma?
 
-Uma carta de consentimento de viagem de criança é um documento assinado pelo progenitor ausente que autoriza a criança a viajar. Alguns países, incluindo a [África do Sul](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements), definem requisitos adicionais para crianças que viajam com apenas um progenitor, e as [autoridades canadianas](https://travel.gc.ca/travelling/children/consent-letter) recomendam uma carta de consentimento assinada. Sem uma, poderá enfrentar perguntas adicionais ou atrasos. A carta deve incluir os detalhes da criança, informações de contacto de ambos os progenitores, datas de viagem, destinos e assinatura do progenitor ausente.
+Uma carta de consentimento de viagem de criança é um documento assinado pelo progenitor ausente que autoriza a criança a viajar. A [África do Sul](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements) geralmente dispensa as crianças estrangeiras isentas de visto que viajam acompanhadas de apresentar documentos de apoio adicionais, e as [autoridades canadianas](https://travel.gc.ca/travelling/children/consent-letter) recomendam uma carta de consentimento assinada. Sem uma, poderá enfrentar perguntas adicionais ou atrasos. A carta deve incluir os detalhes da criança, informações de contacto de ambos os progenitores, datas de viagem, destinos e assinatura do progenitor ausente.
 
 ### Que documentos devo manter acessíveis no aeroporto e não em bagagem de porão?
 

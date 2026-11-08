@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/sv/blog/how-long-is-passport-valid-for-t
 
 ## Sammanfattning
 
-- **Många vuxenpass är giltiga i upp till 10 år** från utfärdandedatumet. Barnpass går vanligtvis ut efter 5 år.
+- **Nya brittiska standardpass för vuxna gäller i regel i 10 år**. Barnpass går vanligtvis ut efter 5 år.
 - Ditt pass behöver inte ha gått ut för att du ska bli avvisad. **Du kan nekas ombordstigning eller inresa** när den återstående giltigheten inte uppfyller resmålets krav.
 - Populära destinationer som Thailand, Vietnam och Indonesien kräver generellt för innehavare av brittiska pass **minst 6 månaders giltighet den dag du anländer** – och Schengenländer räknar från ditt planerade avresedatum, så kontrollera varje destination.
 - Barns pass går ut snabbare än föräldrarnas – **kontrollera varje pass i sällskapet individuellt** innan du bokar, inte bara ditt eget.
@@ -22,16 +22,15 @@ Det är en av de mest missförstådda reglerna inom resande, eftersom ett pass s
 
 ## Vuxenpass gäller betydligt längre än barnpass
 
-Standardgiltigheten för ett vuxenpass är 10 år från utfärdandedatumet i de flesta länder. Barnpass går ut tidigare – [vanligtvis efter 5 år](https://www.gov.uk/get-a-child-passport). Vi skulle kontrollera barnets pass före någon annans, eftersom det är det som alla antar är i ordning.
+Nya brittiska standardpass för vuxna gäller i regel i 10 år. Barnpass går ut tidigare – [vanligtvis efter 5 år](https://www.gov.uk/get-a-child-passport). Vi skulle kontrollera barnets pass före någon annans, eftersom det är det som alla antar är i ordning.
 
 | Land | Vuxengiltighet | Barngiltighet |
 |---|---|---|
 | Storbritannien | 10 år | 5 år (under 16) |
 | USA | 10 år | 5 år (under 16) |
-| Australien | 10 år | 5 år (under 16) |
-| Kanada | 10 år | 5 år |
+| Australien | I regel 10 år; 5 år kan väljas från 75 års ålder | 5 år (under 16) |
+| Kanada | I regel 5 eller 10 år, väljs vid ansökan | 5 år |
 | Irland | 10 år | 5 år (under 18) |
-| Nya Zeeland | 10 år | 5 år (under 16) |
 
 Ditt exakta utgångsdatum finns tryckt på datasidan bredvid ditt foto. Det datumet är den absoluta gränsen – ditt pass slutar vara en giltig resehandling överallt i världen så snart det passeras.
 
@@ -61,7 +60,7 @@ För allt annat, kontrollera innan du bokar. Ditt flygbolag eller resmålets off
 
 ## Barnpass går ut snabbare, och familjer glömmer att kontrollera dem
 
-Det är här familjer blir tagna på sängen varje sommar: vuxenpass gäller i 10 år, barnpass bara i 5, och det gapet skapar ett specifikt problem.
+Det är här familjer blir tagna på sängen varje sommar: nya brittiska standardpass för vuxna gäller i regel i 10 år, barnpass i 5, och det gapet skapar ett specifikt problem.
 
 En 3-åring som fick sitt första pass 2023 har en handling som går ut 2028. När barnet är 7 år och familjen bokar en resa till Thailand kan det passet ha bara några månaders giltighet kvar – långt under 6-månaderskravet. Båda föräldrarna kan sitta på 4 års giltighet var utan att någonsin komma på att kontrollera barnets handling.
 
@@ -93,7 +92,7 @@ Officiella källor
 
 ### Hur länge är ett brittiskt pass giltigt?
 
-Brittiska vuxenpass är giltiga i 10 år från utfärdandedatumet. Barnpass (under 16 år) är giltiga i 5 år. Det exakta utgångsdatumet finns tryckt på datasidan bredvid ditt foto.
+Nya brittiska standardpass för vuxna gäller i regel i 10 år. Barnpass (under 16 år) är giltiga i 5 år. Det exakta utgångsdatumet finns tryckt på datasidan bredvid ditt foto.
 
 ### Kan jag resa med 6 månader kvar på passet?
 

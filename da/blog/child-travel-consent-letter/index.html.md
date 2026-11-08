@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/da/blog/child-travel-consent-letter/
 ## Vigtigste punkter
 
 - Kravene varierer betydeligt fra land til land. **Et brev, der fungerer til én destination, accepteres muligvis ikke et andet sted.**
-- Mange lande **anbefaler kraftigt notarbekræftelse eller certificering** af en advokat eller notar, og nogle grænser eller flyselskaber behandler det som reelt påkrævet, selv hvor det ikke er lovpligtigt.
+- Canada **anbefaler kraftigt, at en notar er vidne til underskriften**.
 - Brevet indeholder som regel barnets fulde navn, fødselsdato, pasnummer, præcise rejsedatoer, destinationer og kontaktoplysninger på den fraværende forælder.
 - Almindelige afvisninger skyldes manglende oplysninger, manglende notarbekræftelse, forældede underskrifter eller kontaktnumre, der ikke kan verificeres.
 - Medbring en printet kopi som hoveddokument, og opbevar en krypteret digital sikkerhedskopi til nødstilfælde.
@@ -24,16 +24,16 @@ Det scenarie – og tusindvis ligesom det – sker, fordi samtykkebreve til bør
 
 ## Hvem har faktisk brug for et samtykkebrev til børns rejser?
 
-Det afhænger fuldstændig af din destination – der findes ingen global standard, hvilket er grunden til, at så mange familier bliver taget på sengen.
+Det afhænger af de berørte lande – der findes ingen global standard, hvilket er grunden til, at så mange familier bliver taget på sengen.
 
-Et brev kræves typisk i disse situationer:
+Et brev kan være nødvendigt i disse situationer:
 
 - **Et barn rejser med kun én forælder.** Indvandringsmyndighederne vil se bevis for, at den fraværende forælder ikke har gjort indsigelse mod rejsen.
 - **Et barn rejser uden nogen af forældrene.** Brevet giver en bedsteforælder, tante, onkel eller anden værge tilladelse til at rejse med barnet. Nogle lande kræver samtykke fra begge forældre i dette tilfælde.
 - **Et barn rejser med en forælder, hvis efternavn er anderledes end barnets.** Det vækker opmærksomhed ved nogle grænser, især for yngre børn.
 - **Et barn er adopteret eller i familiepleje.** Dokumenter om værgemål og samtykke kan kræves ud over brevet.
 
-**Vigtigt forbehold:** reglerne varierer meget. Canada kræver ikke lovligt et samtykkebrev, men [den canadiske regering](https://travel.gc.ca/travelling/children/consent-letter) anbefaler kraftigt et og bemærker, at "manglende fremvisning af et brev på anmodning kan medføre forsinkelser eller afvisning af ind- eller udrejse". Sydafrika beder om en samtykkeerklæring afgivet under ed, når en forælder ikke rejser med. Nogle lande anvender kun krav på børn under en vis alder. Der findes ingen global standard.
+**Vigtigt forbehold:** reglerne varierer meget. Canada kræver ikke lovligt et samtykkebrev, men [den canadiske regering](https://travel.gc.ca/travelling/children/consent-letter) anbefaler kraftigt et og bemærker, at "manglende fremvisning af et brev på anmodning kan medføre forsinkelser eller afvisning af ind- eller udrejse". Ifølge den sydafrikanske ambassade behøver udenlandske børn, der er fritaget for visum og rejser med en voksen, som regel ikke et samtykkebrev fra forældrene. Nogle lande anvender kun krav på børn under en vis alder. Der findes ingen global standard.
 
 Bekræft altid kravene direkte med indvandringsmyndigheden for din specifikke destination, før du rejser. Brug IATA Travel Centre til at tjekke indrejsekrav, eller kontakt destinationslandets ambassade. Er du i tvivl, er det bedre at have brevet end alternativet: at blive stoppet ved check-in eller grænsen.
 
@@ -62,10 +62,10 @@ Når der kræves eller anbefales et bevidnet brev, betyder det som regel, at en 
 Hvad nogle lande siger om notarbekræftelse:
 
 - **Canada.** Et samtykkebrev er ikke lovpligtigt, men [den canadiske regering](https://travel.gc.ca/travelling/children/documents) anbefaler kraftigt et og anbefaler, at en notar er vidne til underskriften. Grænse- og flyselskabspersonale kan bede om det ved ind- eller udrejse.
-- **Sydafrika.** Når en forælder ikke rejser med, beder [Department of Home Affairs](https://www.gov.za/news/speeches/director-general-mkuseli-apleni-media-briefing-new-requirements-travelling-children) om en samtykkeerklæring afgivet under ed, som højst må være 4 måneder gammel, når den fremvises. Tjek den aktuelle vejledning fra Home Affairs.
-- **Australien.** Smartraveller udgiver vejledning om rejser med børn, og flyselskaber kan bede om et brev. Tjek vejledningen for både afrejse- og indrejselandet.
-- **Storbritannien.** Ikke lovpligtigt ved udrejse, men flyselskaber og grænsemyndigheder på destinationen kan bede om det, når et barn rejser med kun én forælder eller med en voksen, der ikke er forælder. Tjek GOV.UK-vejledningen for din rute.
-- **USA.** Ikke føderalt påkrævet, men anbefalet. Nogle delstater anerkender notarbekræftelse eksplicit.
+- **Sydafrika.** Ifølge den sydafrikanske ambassade behøver udenlandske børn, der er fritaget for visum og rejser med en voksen, som regel ikke et samtykkebrev fra forældrene. [Orientering fra Department of Home Affairs](https://www.gov.za/news/speeches/director-general-mkuseli-apleni-media-briefing-new-requirements-travelling-children).
+- **Australien.** Spørg dit flyselskab om samtykkebreve til børn, der rejser uden begge forældre.
+- **Storbritannien.** Ifølge GOV.UK kræver det som regel tilladelse fra alle med forældremyndighed eller fra en domstol at tage et barn med til udlandet fra Storbritannien. Et brev er som regel nok til at dokumentere tilladelsen; der er undtagelser.
+- **USA.** Ifølge USAGov kan et samtykkebrev være nødvendigt, når et barn rejser alene eller med kun én forælder eller værge.
 
 Notargebyrer varierer fra land til land og fra notar til notar, og afhængigt af hvor hurtigt du har brug for en tid, så spørg, hvad det vil koste, og hvor langt i forvejen du skal booke, især i skoleferierne. Bekræft altid destinationens krav først. Det er destinationslandets regler, der afgør, om notarbekræftelse overhovedet kræves, ikke dit hjemlands.
 
@@ -77,7 +77,7 @@ Selv velforberedte familier laver fejl, der fører til afvisning ved grænsen. D
 2. **Vage rejsedatoer.** Vendinger som "sommeren 2026" er for brede. Brug præcise afrejse- og hjemkomstdatoer.
 3. **Ikke underskrevet af den fraværende forælder.** Et brev underskrevet kun af den rejsende forælder er værdiløst. Begge forældre (eller værger) skal underskrive, hvis begge har forældremyndighed.
 4. **Manglende notarbekræftelse, når det kræves.** Hvor der kræves et bevidnet brev, kan et brev uden vidnebekræftelse blive afvist.
-5. **Forældet underskrift.** Der er ingen fælles udløbsfrist, og nogle myndigheder sætter korte frister (Sydafrikas erklæring: 4 måneder), så en nyere underskrift er sikrere.
+5. **Forældet underskrift.** Vi ville medbringe et nyligt underskrevet brev.
 6. **Forkert pasnummer eller barnets navn.** Selv små uoverensstemmelser vækker mistanke og skaber forsinkelser.
 7. **Ufuldstændig destinationsliste.** Hvis brevet siger "Europa", men ikke nævner specifikke lande, kan det blive afvist.
 8. **Ingen udtrykkelig tilladelseserklæring.** Brevet skal tydeligt angive, at den fraværende forælder samtykker til netop denne rejse.
@@ -87,22 +87,22 @@ Selv velforberedte familier laver fejl, der fører til afvisning ved grænsen. D
 | Land | Krav | Notarbekræftelse | Officiel kilde |
 |---|---|---|---|
 | **Canada** | Anbefales kraftigt (ikke lovpligtigt) | Anbefales (notar) | travel.gc.ca |
-| **Sydafrika** | Samtykkeerklæring afgivet under ed efterspørges, når en forælder ikke rejser med | Erklæring bekræftet af en bemyndiget person (ministeriet nævner sine ambassader) | Department of Home Affairs |
-| **Australien** | Flyselskaber kan bede om et brev | Tjek aktuel vejledning | Smart Traveller |
-| **Storbritannien** | Ikke lovpligtigt; flyselskaber og destinationens grænse kan bede om det | Tjek aktuel vejledning | GOV.UK |
-| **USA** | Ikke føderalt påkrævet; varierer efter delstat | Tjek aktuel vejledning | travel.state.gov |
-| **EU** | Varierer efter land | Varierer efter land | IATA Travel Centre |
-| **New Zealand** | Anbefales | Normalt underskrevet af forældrene og bevidnet af en offentlig embedsmand | [SafeTravel](https://www.safetravel.govt.nz/before-you-go/who-is-travelling/travelling-with-children) (New Zealands regering) |
+| **Sydafrika** | Udenlandske børn, der er fritaget for visum og rejser med en voksen, behøver som regel ikke et samtykkebrev fra forældrene | Spørg, hvem der skal være vidne til underskriften i forbindelse med dit barns rejse | Den sydafrikanske ambassade: konsulære tjenester |
+| **Australien** | Spørg dit flyselskab om samtykkebreve | Tjek aktuel vejledning | Vejledning fra de australske myndigheder |
+| **Storbritannien** | Ved rejser til udlandet fra Storbritannien kræves som regel tilladelse fra alle med forældremyndighed eller fra en domstol; et brev er som regel nok; der er undtagelser | Tjek aktuel vejledning | GOV.UK |
+| **USA** | Ifølge USAGov kan et samtykkebrev være nødvendigt ved rejser alene eller med kun én forælder eller værge | Spørg om bevidnelse af underskriften | USAGov: internationale rejsedokumenter til børn |
+| **EU** | Varierer efter land | Spørg, hvem der skal underskrive og bevidne brevet | Your Europe: dokumenter til mindreårige, der rejser i EU |
+| **New Zealand** | New Zealands råd om udrejse: Et samtykkebrev kan være nødvendigt ved rejser uden én eller begge forældre | New Zealands råd om udrejse: Normalt underskrevet af forældrene og bevidnet af en offentlig embedsmand | [SafeTravel](https://www.safetravel.govt.nz/before-you-go/who-is-travelling/travelling-with-children) (New Zealands regering) |
 
 Se denne tabel som et udgangspunkt, ikke som det sidste ord. Reglerne ændrer sig ofte, og destinationens egen indvandringsmyndighed er din mest pålidelige kilde. Rejseblogs og flyselskabers sider er nyttige for kontekst, men de kan halte bagefter de nyeste krav.
 
-## Medbring en printet kopi, og gem en digital backup
+## Medbring originalen, og gem en digital backup
 
 Når brevet er underskrevet og notarbekræftet, er den næste udfordring at holde det sikkert og tilgængeligt under rejsen. Opbevar tre versioner:
 
-1. **Original notarbekræftet kopi,** opbevaret hjemme på et sikkert sted (safe, bankboks eller familiens mappe).
-2. **Printet rejsekopi,** medbragt i din pasholder eller rejsedokumentmappe.
-3. **Krypteret digital sikkerhedskopi,** så du kan printe igen, hvis rejsekopien går tabt eller beskadiges.
+1. **Originalt underskrevet brev,** medbragt i din pasholder eller rejsedokumentmappe.
+2. **Ekstra printet kopi,** pakket separat, hvis originalen bliver væk.
+3. **Krypteret digital sikkerhedskopi,** så du kan printe igen, hvis en papirkopi går tabt eller beskadiges.
 
 Canadas regering siger, at originale underskrevne breve er bedst, og at myndighederne måske ikke accepterer fotokopier eller digitale versioner, så medbring den underskrevne original og behold den digitale kopi som backup.
 
@@ -136,11 +136,11 @@ Officielle kilder
 
 ### Skal jeg bruge et samtykkebrev til mit barns rejse?
 
-Det afhænger af destinationen. Kravene varierer betydeligt fra land til land. Du har typisk brug for et, når et barn rejser med kun én forælder, uden nogen forælder, eller med en værge. Nogle lande kræver det i næsten alle internationale rejsescenarier, andre har slet intet formelt krav. Tjek altid med indvandringsmyndigheden for din specifikke destination.
+Det afhænger af destinationen. Kravene varierer fra land til land. Et samtykkebrev kan være nødvendigt, når et barn rejser med kun én forælder, uden nogen af forældrene eller med en værge.
 
 ### Skal et samtykkebrev til børns rejser være notarbekræftet?
 
-Det afhænger af destinationen. Canada anbefaler kraftigt notarbekræftelse, men et samtykkebrev er slet ikke lovpligtigt. Sydafrika beder om en samtykkeerklæring afgivet under ed, når en forælder ikke rejser med. Australien, Storbritannien og USA udgiver hver deres vejledning, og flyselskaber kan bede om et brev. Tjek altid destinationslandets indvandringsmyndighed, før du underskriver.
+Det afhænger af destinationen. Canada anbefaler kraftigt notarbekræftelse, men et samtykkebrev er ikke lovpligtigt i Canada. Ifølge den sydafrikanske ambassade behøver udenlandske børn, der er fritaget for visum og rejser med en voksen, som regel ikke et samtykkebrev fra forældrene.
 
 ### Hvad sker der, hvis et samtykkebrev til børns rejser bliver afvist ved grænsen?
 
@@ -148,7 +148,7 @@ Grænsevagter kan nægte indrejse eller forhindre barnet i at rejse. Almindelige
 
 ### Hvor længe er et samtykkebrev til børns rejser gyldigt?
 
-Der er ingen fælles gyldighedsperiode. Canadas vejledning angiver ingen, og Sydafrika siger, at erklæringen højst må være 4 måneder gammel. Vi ville medbringe et nyligt underskrevet brev, helst fra de seneste par måneder, og tjekke destinationens regler. Hvis barnets pas fornyes, skal du få et nyt brev, fordi det gamle viser det gamle pasnummer.
+Der er ingen fælles gyldighedsperiode. Canadas vejledning angiver ingen. Vi ville medbringe et nyligt underskrevet brev, helst fra de seneste par måneder, og tjekke destinationens regler. Hvis barnets pas fornyes, skal du få et nyt brev, fordi det gamle viser det gamle pasnummer.
 
 ### Kan man opbevare et samtykkebrev til børns rejser digitalt?
 

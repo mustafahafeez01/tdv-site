@@ -22,16 +22,15 @@ It is one of the most commonly misunderstood rules in travel, because a passport
 
 ## Adult Passports Last Far Longer Than Children's
 
-The standard validity period for an adult passport is 10 years from the date of issue in most countries. Child passports expire sooner, [typically 5 years](https://www.gov.uk/get-a-child-passport). We'd check a child's passport before anyone else's, since it is the one everyone assumes is fine.
+New standard UK adult passports are generally valid for 10 years. Child passports expire sooner, [typically 5 years](https://www.gov.uk/get-a-child-passport). We'd check a child's passport before anyone else's, since it is the one everyone assumes is fine.
 
 | Country | Adult validity | Child validity |
 |---|---|---|
 | United Kingdom | 10 years | 5 years (under 16) |
 | United States | 10 years | 5 years (under 16) |
-| Australia | 10 years | 5 years (under 16) |
-| Canada | 10 years | 5 years |
+| Australia | Generally 10 years; 5 years optional from age 75 | 5 years (under 16) |
+| Canada | Generally 5 or 10 years, chosen when applying | 5 years |
 | Ireland | 10 years | 5 years (under 18) |
-| New Zealand | 10 years | 5 years (under 16) |
 
 Your exact expiry date is printed on the data page next to your photo. That date is the hard limit: your passport stops being a valid travel document anywhere in the world once it passes.
 
@@ -59,7 +58,7 @@ For destinations with a 6-month requirement, count 6 months from the day you arr
 
 ## Child Passports Expire Faster, and Families Forget to Check
 
-This is where families get caught out every summer: adult passports run for 10 years, child passports for only 5, and that gap creates a specific problem.
+This is where families get caught out every summer: new standard UK adult passports generally run for 10 years, child passports for 5, and that gap creates a specific problem.
 
 A 3-year-old who got their first passport in 2023 has a document that expires in 2028. By the time they are 7 and the family books a trip to Thailand, that passport may have only a few months of validity left, well short of the 6-month requirement. Both parents could be sitting on 4 years of validity each and never think to check the child's document.
 
@@ -91,7 +90,7 @@ Official sources
 
 ### How long is a UK passport valid for?
 
-UK adult passports are valid for 10 years from the date of issue. Child passports (under 16) are valid for 5 years. The exact expiry date is printed on the data page next to your photo.
+New standard UK adult passports are generally valid for 10 years. Child passports (under 16) are valid for 5 years. The exact expiry date is printed on the data page next to your photo.
 
 ### Can I travel with 6 months left on my passport?
 

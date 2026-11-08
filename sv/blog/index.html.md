@@ -80,7 +80,7 @@ Source: https://traveldocumentvault.com/sv/blog/
 
 ##
 
-[Familjeresor Schengens passregler för familjeresor: det här missar föräldrar Schengen kräver 3 månaders giltighet efter avresa, inte 6 – och barns pass går ut efter 5 år. Det här bör familjer kolla samma dag de bokar. 10 juli 20266 min läsning](https://traveldocumentvault.com/sv/blog/schengen-passport-rules-family-trips/)
+[Familjeresor Schengens passregler för familjeresor: det här missar föräldrar Schengen kräver 3 månaders giltighet efter avresa, inte 6 – och brittiska barnpass gäller i 5 år. Det här bör familjer kolla samma dag de bokar. 10 juli 20266 min läsning](https://traveldocumentvault.com/sv/blog/schengen-passport-rules-family-trips/)
 
 ##
 
@@ -156,7 +156,7 @@ Source: https://traveldocumentvault.com/sv/blog/
 
 ##
 
-[Förnyelse Hur lång tid tar en passförnyelse? (USA, Storbritannien, Australien, Kanada) Hur lång tid tar en passförnyelse? Det beror mer på din situation än på ditt land. Här är vad som faktiskt bromsar processen, och var du kollar aktuella tider. 10 feb 20267 min läsning](https://traveldocumentvault.com/sv/blog/how-long-does-passport-renewal-take/)
+[Förnyelse Hur lång tid tar en passförnyelse? (USA, Storbritannien, Australien, Kanada) Tiden för passförnyelse beror på var du ansöker och vilken tjänst du väljer. Vad som kan försena ansökan och var du hittar aktuella tider för ditt land. 10 feb 20267 min läsning](https://traveldocumentvault.com/sv/blog/how-long-does-passport-renewal-take/)
 
 ##
 

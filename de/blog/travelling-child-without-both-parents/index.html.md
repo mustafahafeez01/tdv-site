@@ -12,11 +12,11 @@ Source: https://traveldocumentvault.com/de/blog/travelling-child-without-both-pa
 
 - **Check-in-Personal und Grenzbeamte prüfen unterschiedliche Dinge.** Die Erfüllung der einen Prüfung bindet die andere nicht, weder bei der Einreise noch bei der Ausreise.
 - Reist ein Elternteil allein: Nehmen Sie eine **Einverständniserklärung und die Geburtsurkunde des Kindes** mit.
-- Alleiniges Sorgerecht: Der **Sorgerechtsbeschluss oder Gerichtsbeschluss** ist an der Grenze oft nützlicher als ein Brief.
-- Der andere Elternteil ist verstorben: Nehmen Sie eine **beglaubigte Kopie der Sterbeurkunde** statt einer Einverständniserklärung mit.
-- Unterschiedlicher Nachname: Die **vollständige Geburtsurkunde** des Kindes klärt die Sache meist, plus eine Heirats- oder Scheidungsurkunde, falls sich Ihr eigener Name geändert hat.
+- Alleiniges Sorgerecht: Nehmen Sie den **Sorgerechtsbeschluss oder Gerichtsbeschluss** und gegebenenfalls nötige Zustimmungen weiterer Sorgeberechtigter mit.
+- Der andere Elternteil ist verstorben: Wenn Sie allein entscheidungsbefugt sind, empfehlen die kanadischen Hinweise eine **Kopie der Sterbeurkunde**.
+- Unterschiedlicher Nachname: Die **vollständige Geburtsurkunde** des Kindes belegt Ihre Beziehung zum Kind, plus eine Heirats- oder Scheidungsurkunde, falls sich Ihr eigener Name geändert hat.
 
-Check-in-Personal von Fluggesellschaften und Grenzbeamte schauen bei einem Kind, das ohne beide Elternteile reist, zweimal hin, und dieser zweite Blick ist routinemäßiger Kinderschutz, keine Verdächtigung gegen irgendjemanden im Besonderen. Er endet in dem Moment, in dem die Unterlagen zur Situation passen. Welche Unterlagen das sind, hängt davon ab, warum der andere Elternteil fehlt: noch zu Hause, nicht mehr sorgeberechtigt, oder nicht mehr am Leben. Jede dieser Situationen verlangt ein anderes Dokument, und die Einverständniserklärung, von der die meisten Ratgeber sprechen, deckt nur die erste ab.
+Check-in-Personal von Fluggesellschaften und Grenzbeamte schauen bei einem Kind, das ohne beide Elternteile reist, zweimal hin, und dieser zweite Blick ist routinemäßiger Kinderschutz, keine Verdächtigung gegen irgendjemanden im Besonderen. Welche Unterlagen das sind, hängt davon ab, warum der andere Elternteil fehlt: noch zu Hause, nicht mehr sorgeberechtigt, oder nicht mehr am Leben. Jede dieser Situationen kann zusätzliche Unterlagen erfordern, und eine Einverständniserklärung kann auch neben einem Sorgerechtsbeschluss empfohlen sein.
 
 ## Der Check-in-Schalter und die Grenzkontrolle prüfen unterschiedliche Dinge
 
@@ -30,35 +30,35 @@ Wenn Sie der einzige reisende Elternteil sind und der andere Elternteil lebt, wo
 
 Zwei Dinge liegen außerhalb dieses Briefs und lohnen sich, zusätzlich mitgeführt zu werden. Nehmen Sie die Geburtsurkunde Ihres Kindes mit, denn eine Einverständniserklärung nennt ein Kind und einen Elternteil, und die Geburtsurkunde ist es, die Sie beide überhaupt erst miteinander verbindet. Manche Länder erwarten außerdem, dass der Brief [alle Personen mit elterlicher Sorge](https://www.gov.uk/permission-take-child-abroad) widerspiegelt, nicht nur den im Reisepass genannten Elternteil, was je nach rechtlicher Situation Ihrer Familie einen Stiefelternteil oder Vormund einschließen kann. Ob das auf Sie zutrifft, sollten Sie bei der Einwanderungsbehörde Ihres Reiseziels prüfen, statt es anzunehmen, da es je nach Land und Umständen unterschiedlich ist.
 
-## Alleiniges Sorgerecht: Wenn der Gerichtsbeschluss das entscheidende Dokument ist
+## Alleiniges Sorgerecht: Nehmen Sie auch den Gerichtsbeschluss mit
 
-Alleiniges Sorgerecht ändert, welches Dokument zählt, statt die Notwendigkeit eines Dokuments aufzuheben. Wenn ein Gericht Ihnen das alleinige Sorgerecht oder die alleinige elterliche Sorge zugesprochen hat, ist an der Grenze oft der Sorgerechtsbeschluss selbst – oder eine beglaubigte Kopie davon – nützlicher als ein Brief des anderen Elternteils. Viele Grenzbehörden akzeptieren den Beschluss anstelle einer Einverständniserklärung, und manche verlangen ihn ohnehin zusätzlich zu sehen. Belässt der Beschluss dem anderen Elternteil ein Umgangs- oder Kontaktrecht, lohnt sich trotzdem ein Brief von ihm.
+Alleiniges Sorgerecht macht eine Zustimmung nicht automatisch überflüssig. Die kanadischen Hinweise empfehlen eine Einverständniserklärung, soweit dies möglich oder sicher ist, auch wenn ein Beschluss zur elterlichen Sorge einem Elternteil erlaubt, allein über Reisen zu entscheiden. Belässt der Beschluss dem anderen Elternteil ein Umgangs- oder Kontaktrecht, lohnt sich trotzdem ein Brief von ihm.
 
-Reisen Sie mit dem Beschluss oder einer beglaubigten Kopie davon. In einem Aktenordner zu Hause nützt er nichts. Beamte, die nachfragen, suchen meist eine einfache Antwort auf eine Frage: Hat dieser Erwachsene die rechtliche Befugnis, diese Entscheidung für dieses Kind zu treffen. Eine beglaubigte Kopie lässt sich meist zügig prüfen, und wenn sich Ihre Sorgerechtsregelung kürzlich geändert hat, lohnt es sich zu prüfen, ob Ihr Reiseziel eine aktuellere Kopie erwartet als die, die Sie seit Jahren mit sich führen.
+Reisen Sie mit dem Beschluss oder einer beglaubigten Kopie davon. In einem Aktenordner zu Hause nützt er nichts. Beamte, die nachfragen, suchen meist eine einfache Antwort auf eine Frage: Hat dieser Erwachsene die rechtliche Befugnis, diese Entscheidung für dieses Kind zu treffen. Wenn sich Ihre Sorgerechtsregelung kürzlich geändert hat, würden wir den aktuellen Beschluss mitnehmen.
 
-## Wenn der andere Elternteil verstorben ist: Die Sterbeurkunde ersetzt die Erklärung
+## Wenn der andere Elternteil verstorben ist: Nehmen Sie die Sterbeurkunde mit
 
-Es gibt keine Einverständniserklärung zu schreiben, wenn der andere Elternteil verstorben ist, und die meisten Grenzbeamten erwarten keine. Was Sie stattdessen mitführen, ist eine beglaubigte Kopie der Sterbeurkunde, die die Frage beantwortet, die eine Einverständniserklärung sonst beantworten würde: warum nur ein Elternteil hier ist.
+Wenn der andere Elternteil verstorben ist und Sie allein entscheidungsbefugt sind, empfehlen die kanadischen Hinweise, bei Reisen mit Ihrem Kind eine Kopie der Sterbeurkunde mitzuführen.
 
-Bewahren Sie die beglaubigte Kopie bei Ihren Reisepässen auf statt in einer separaten Mappe zu Hause, denn es kann Zeit kosten, dieses Dokument zu ersetzen, sollte es unterwegs verloren gehen. Eine ausgedruckte Kopie zusammen mit einer verschlüsselten digitalen Sicherung deckt sowohl einen verlorenen Koffer als auch ein Telefon ab, das sich nicht mehr einschalten lässt. Weicht der Nachname Ihres Kindes von Ihrem ab, erfüllt die Geburtsurkunde hier dieselbe Aufgabe wie überall sonst in diesem Artikel: Sie zeigt, dass das Kind Ihres ist, unabhängig davon, welcher Name im Reisepass steht.
+Bewahren Sie die beglaubigte Kopie bei Ihren Reisepässen auf statt in einer separaten Mappe zu Hause, denn es kann Zeit kosten, dieses Dokument zu ersetzen, sollte es unterwegs verloren gehen. Eine ausgedruckte Kopie zusammen mit einer verschlüsselten digitalen Sicherung deckt sowohl einen verlorenen Koffer als auch ein Telefon ab, das sich nicht mehr einschalten lässt. Weicht der Nachname Ihres Kindes von Ihrem ab, erfüllt die Geburtsurkunde hier dieselbe Aufgabe wie überall sonst in diesem Artikel: Sie belegt Ihre Beziehung zum Kind, unabhängig davon, welcher Name im Reisepass steht.
 
-Die praktische Antwort bleibt kurz: ein Dokument, griffbereit aufbewahrt, und ein Vorgang, der, sobald es vorgezeigt wurde, meist zügig weitergeht.
+Die praktische Antwort bleibt kurz: Bewahren Sie die Kopie griffbereit auf.
 
 ![Entscheidungsbaum dazu, welches Dokument je nach fehlendem Elternteil mitzuführen ist: ein Zustimmungsbrief für den anderen Elternteil, ein Sorgerechts- oder Gerichtsbeschluss für einen Ex-Partner ohne Kontakt, eine Kopie der Sterbeurkunde für einen verstorbenen Elternteil, oder Zustimmung beider plus Geburtsurkunde, wenn beide Elternteile nicht mitreisen, mit dem Hinweis, die Geburtsurkunde des Kindes in jedem Fall mitzunehmen](https://traveldocumentvault.com/blog/travelling-child-without-both-parents/who-is-missing-figure-de.jpg) Vier Situationen, vier Dokumente, und eine Geburtsurkunde, die in allen hilft. Das ist unsere Einschätzung, wonach Airlines und Grenzbeamte am häufigsten fragen, keine rechtliche Checkliste. Die Anforderungen variieren je nach Zielort und Fluggesellschaft, prüfen Sie daher vor der Reise die Einreisebehörde Ihres Zielorts und Ihre Airline.
 
 Das ist unsere Einschätzung dessen, was Fluggesellschaften und Grenzbeamte am häufigsten verlangen, keine rechtliche Checkliste. Die Anforderungen unterscheiden sich je nach Zielland und Fluggesellschaft – prüfen Sie daher vor der Reise die Angaben der Einwanderungsbehörde Ihres Ziellandes und Ihrer Fluggesellschaft.
 
-## Ein anderer Nachname als der Ihres Kindes: Die Geburtsurkunde klärt das meist
+## Ein anderer Nachname als der Ihres Kindes: Die Geburtsurkunde belegt Ihre Beziehung
 
-Ein Nachname, der nicht zu dem Ihres Kindes passt, ist üblich und verursacht selten Probleme, sobald Sie das richtige Dokument zur Hand haben, auch wenn es sich lohnt, es mitzuführen, statt zu hoffen, dass niemand fragt. Heirat, Scheidung, Wiederverheiratung oder schlicht die Entscheidung, bei der Geburt keinen gemeinsamen Nachnamen zu tragen, sind alles gewöhnliche Gründe für diese Abweichung, und ein Beamter, der danach fragt, arbeitet meist dieselbe kurze gedankliche Checkliste ab, statt irgendetwas Bestimmtes zu vermuten.
+Ein Nachname, der nicht zu dem Ihres Kindes passt, kann Nachfragen auslösen. Es lohnt sich daher, einen Nachweis Ihrer Beziehung zum Kind mitzuführen, statt zu hoffen, dass niemand fragt. Heirat, Scheidung, Wiederverheiratung oder schlicht die Entscheidung, bei der Geburt keinen gemeinsamen Nachnamen zu tragen, sind alles gewöhnliche Gründe für diese Abweichung, und ein Beamter, der danach fragt, arbeitet meist dieselbe kurze gedankliche Checkliste ab, statt irgendetwas Bestimmtes zu vermuten.
 
-Die vollständige Geburtsurkunde Ihres Kindes, die Sie als Elternteil nennt, klärt die Frage am schnellsten. Hat sich Ihr eigener Name seit Ausstellung dieser Urkunde geändert, überbrückt eine Heirats- oder Scheidungsurkunde die Lücke zwischen dem Namen in Ihrem Reisepass und dem Namen Ihres Kindes. Nehmen Sie beide auch für eine gewöhnliche Reise an einen bereits besuchten Ort mit, denn dieselbe Abweichung, die bei einem Besuch einfach durchgewunken wird, kann beim nächsten Mal ein längeres Gespräch auslösen, je nachdem, welcher Beamte an diesem Tag Dienst hat.
+Die vollständige Geburtsurkunde Ihres Kindes, die Sie als Elternteil nennt, belegt Ihre Beziehung zum Kind. Hat sich Ihr eigener Name seit Ausstellung dieser Urkunde geändert, überbrückt eine Heirats- oder Scheidungsurkunde die Lücke zwischen dem Namen in Ihrem Reisepass und dem Namen Ihres Kindes. Nehmen Sie beide auch für eine gewöhnliche Reise an einen bereits besuchten Ort mit, denn dieselbe Abweichung, die bei einem Besuch einfach durchgewunken wird, kann beim nächsten Mal ein längeres Gespräch auslösen, je nachdem, welcher Beamte an diesem Tag Dienst hat.
 
-## Großeltern, Verwandte und Vormünder: Meist braucht es die Zustimmung beider Elternteile
+## Großeltern, Verwandte und Vormünder: Wer die Einverständniserklärung unterschreiben sollte
 
-Wenn ein Großelternteil, eine Tante, ein Onkel oder ein Familienfreund mit einem Kind reist und keiner der beiden Elternteile mit von der Partie ist, werden die Unterlagen umfangreicher, denn viele Länder erwarten den Nachweis, dass beide Elternteile oder beide gesetzlichen Vormünder der Reise zugestimmt haben, nicht nur einer. Das Format entspricht dem gleichen [Einverständnisschreiben](https://traveldocumentvault.com/de/blog/child-travel-consent-letter/), das wir an anderer Stelle ausführlich behandeln, hier braucht es jedoch üblicherweise die Unterschrift beider Elternteile statt nur einer, zusammen mit den Kontaktdaten beider.
+Wenn ein Großelternteil, eine Tante, ein Onkel oder ein Familienfreund mit einem Kind reist und keiner der beiden Elternteile mit von der Partie ist, empfehlen die kanadischen Hinweise die Zustimmung jeder nicht mitreisenden Person, die für das Kind entscheidungsbefugt ist. Das Format entspricht dem gleichen [Einverständnisschreiben](https://traveldocumentvault.com/de/blog/child-travel-consent-letter/), das wir an anderer Stelle ausführlich behandeln, die nötigen Unterschriften richten sich jedoch in der Regel danach, wer sorgeberechtigt oder entscheidungsbefugt ist, jeweils mit den zugehörigen Kontaktdaten.
 
-Der begleitende Erwachsene sollte außerdem die Geburtsurkunde des Kindes mitführen und bereit sein, die Beziehung auf Nachfrage klar zu erklären, denn „Familienfreund" ruft tendenziell mehr Nachfragen hervor als „Großelternteil", selbst wenn beide identische Unterlagen mit sich führen. Fluggesellschaften können einem Kind das Boarding verweigern, wenn der Erwachsene dies beim Check-in nicht vorweisen kann, aus demselben zuvor genannten Haftungsgrund der Fluggesellschaft: Sie schützt sich vor einer Einreiseverweigerung am Zielort, noch bevor der Flug überhaupt gestartet ist.
+Der begleitende Erwachsene sollte außerdem die Geburtsurkunde des Kindes mitführen und bereit sein, die Beziehung auf Nachfrage klar zu erklären, denn „Familienfreund“ ruft tendenziell mehr Nachfragen hervor als „Großelternteil“, selbst wenn beide identische Unterlagen mit sich führen. Wir würden auch die Unterlagen für die Fluggesellschaft beim Check-in bereithalten.
 
 ## Wenn dennoch Fragen kommen
 
@@ -73,10 +73,10 @@ Jede der oben genannten Situationen braucht ihr eigenes kleines Bündel an Unter
 | Situation | Mitzuführende Unterlagen |
 |---|---|
 | Ein Elternteil reist, der andere ist nicht anwesend | Einverständniserklärung, Geburtsurkunde des Kindes |
-| Alleiniges oder hauptsächliches Sorgerecht | Beglaubigte Kopie des Sorgerechtsbeschlusses, Geburtsurkunde des Kindes |
+| Alleiniges oder hauptsächliches Sorgerecht | Beglaubigte Kopie des Sorgerechtsbeschlusses oder eines sonstigen Beschlusses zur elterlichen Verantwortung, Geburtsurkunde des Kindes, gegebenenfalls nötige Zustimmungen weiterer Sorgeberechtigter |
 | Der andere Elternteil ist verstorben | Beglaubigte Kopie der Sterbeurkunde, Geburtsurkunde des Kindes |
 | Anderer Nachname als das Kind | Vollständige Geburtsurkunde des Kindes, gegebenenfalls Heirats- oder Scheidungsurkunde |
-| Großelternteil, Verwandter oder Vormund reist, kein Elternteil anwesend | Von beiden Elternteilen oder Vormündern unterschriebene Einverständniserklärung, Geburtsurkunde des Kindes |
+| Großelternteil, Verwandter oder Vormund reist, kein Elternteil anwesend | Einverständniserklärung mit den Unterschriften aller nicht mitreisenden Sorgeberechtigten oder Entscheidungsbefugten, Geburtsurkunde des Kindes, gegebenenfalls relevante Gerichtsbeschlüsse |
 
 Unsere umfassendere [Checkliste für Reisedokumente](https://traveldocumentvault.com/de/blog/travel-document-checklist/) deckt ab, was über diese konkrete Situation hinaus einzupacken ist, und unser Leitfaden zum [Organisieren von Familienreisedokumenten](https://traveldocumentvault.com/de/blog/how-to-organise-family-travel-documents/) zeigt, wie Sie die Unterlagen jedes Familienmitglieds zwischen den Reisen geordnet halten, nicht nur die für die aktuell bevorstehende. Welches Bündel auch auf Ihre Familie zutrifft: Stellen Sie es heute zusammen, ordnen Sie jedes Dokument in der Tabelle oben der Geburtsurkunde Ihres Kindes zu und legen Sie den ganzen Satz an einem Ort ab, bevor Ihre nächste Reise gebucht wird.
 
@@ -91,19 +91,19 @@ Offizielle Quellen
 
 ### Brauche ich eine Einverständniserklärung, wenn ich das alleinige Sorgerecht für mein Kind habe?
 
-Das nützlichere Dokument ist oft der Sorgerechtsbeschluss oder Gerichtsbeschluss selbst. Viele Grenzbehörden akzeptieren ihn anstelle einer Einverständniserklärung des anderen Elternteils, und manche verlangen ihn zusätzlich zu sehen. Führen Sie den Beschluss oder eine beglaubigte Kopie mit, und prüfen Sie vor der Reise, was Ihr Reiseziel erwartet.
+Führen Sie den Sorgerechts- oder Gerichtsbeschluss oder eine beglaubigte Kopie davon mit. Die kanadischen Hinweise empfehlen eine Einverständniserklärung, soweit dies möglich oder sicher ist, auch wenn ein Beschluss zur elterlichen Sorge einem Elternteil erlaubt, allein über Reisen zu entscheiden.
 
 ### Was brauche ich, um mit meinem Kind zu reisen, wenn der andere Elternteil verstorben ist?
 
-Eine Einverständniserklärung ist nicht möglich, führen Sie stattdessen eine Kopie der Sterbeurkunde mit. Eine beglaubigte Kopie der Sterbeurkunde beantwortet die Frage am ehesten. Prüfen Sie aber die Hinweise Ihres Reiseziels. Bewahren Sie eine ausgedruckte Kopie bei Ihren Reisepässen auf sowie eine verschlüsselte digitale Sicherung, und prüfen Sie vor der Abreise die Hinweise Ihres Reiseziels.
+Wenn der andere Elternteil verstorben ist und Sie allein entscheidungsbefugt sind, empfehlen die kanadischen Hinweise, bei Reisen mit Ihrem Kind eine Kopie der Sterbeurkunde mitzuführen. Bewahren Sie eine ausgedruckte Kopie bei Ihren Reisepässen auf sowie eine verschlüsselte digitale Sicherung.
 
 ### Darf mein Kind mit Großeltern oder anderen Verwandten ins Ausland reisen?
 
-Ja, aber viele Länder erwarten die schriftliche Zustimmung beider Elternteile oder gesetzlichen Vormünder, nicht nur eines. Der begleitende Erwachsene sollte außerdem die Kontaktdaten beider Elternteile und eine Kopie der Geburtsurkunde des Kindes mitführen. Fluggesellschaften können einem Kind das Boarding verweigern, wenn der Erwachsene dies auf Nachfrage nicht vorzeigen kann.
+Ja, unter Beachtung der jeweiligen Regeln. Die kanadischen Hinweise empfehlen die Zustimmung jeder nicht mitreisenden Person, die für das Kind entscheidungsbefugt ist. Der begleitende Erwachsene sollte außerdem deren Kontaktdaten und eine Kopie der Geburtsurkunde des Kindes mitführen. Wir würden auch die Unterlagen für die Fluggesellschaft bereithalten.
 
 ### Verursacht ein anderer Nachname als der meines Kindes Probleme am Flughafen?
 
-Es kann zusätzliche Nachfragen auslösen, besonders bei jüngeren Kindern. Eine Kopie der vollständigen Geburtsurkunde des Kindes, die Sie als Elternteil nennt, klärt die Sache meist schnell. Eine Heirats- oder Scheidungsurkunde hilft, wenn sich Ihr Name seit Ausstellung der Geburtsurkunde geändert hat. Nehmen Sie beide auch für gewöhnliche Reisen mit.
+Es kann zusätzliche Nachfragen auslösen. Eine Kopie der vollständigen Geburtsurkunde des Kindes, die Sie als Elternteil nennt, belegt Ihre Beziehung zum Kind. Eine Heirats- oder Scheidungsurkunde hilft, wenn sich Ihr Name seit Ausstellung der Geburtsurkunde geändert hat. Nehmen Sie beide auch für gewöhnliche Reisen mit.
 
 ### Wer prüft die Unterlagen, die Fluggesellschaft oder die Grenzkontrolle?
 

@@ -1,6 +1,6 @@
 # Regler för passfoto: storlek, glasögon och passbild hemma
 
-> Får man ha glasögon på passfoto? För svenskt pass ja, men inte mörka glas eller reflexer. Reglerna för storlek, bakgrund och ljus – och passbild hemma.
+> Passfotoregler som kan leda till avslag: storlek, glasögon, bakgrund och ljus – och hur du tar fotot hemma om ditt land tillåter det.
 
 Source: https://traveldocumentvault.com/sv/blog/passport-photo-at-home/
 
@@ -10,25 +10,25 @@ Source: https://traveldocumentvault.com/sv/blog/passport-photo-at-home/
 
 ## Viktiga punkter
 
-- Använd en enfärgad, ljus bakgrund i den nyans din myndighet begär, neutralt ansiktsuttryck och ögonen öppna och riktade rakt fram
+- Använd en enfärgad, ljus bakgrund i den nyans din myndighet begär, neutralt ansiktsuttryck och ögonen öppna och riktade rakt fram, med undantag för små barn
 - Storlekskraven skiljer sig mellan länder och tillämpas strikt, så ta måtten från din egen passmyndighet i stället för från en sammanfattning
 - Naturligt fönsterljus fungerar bäst – undvik hårda skuggor och använd inte kamerans blixt
 - För svenska pass är vanliga glasögon tillåtna, men inte mörka glas eller reflexer – andra länders regler varierar mer än man kan tro, så kontrollera kraven om du ansöker utomlands
-- Vanliga avslagsorsaker är skuggor, fel storlek, leende, suddiga foton och olämplig bakgrund
+- Foton kan nekas om de inte uppfyller din myndighets regler för belysning, storlek, ansiktsuttryck, skärpa eller bakgrund
 
-Ett foto taget hemma godkänns lika lätt som ett från en fotoautomat, förutsatt att det uppfyller samma korta lista med regler. De flesta avslag beror på tre saker: skugga i ansiktet eller på bakgrunden, fel storlek på huvudet i bilden, och glasögon. Får du de rätt är resten okomplicerat.
+Enligt GOV.UK är det större chans att foton från en fotoautomat eller butik godkänns än foton tagna med egen kamera eller mobil. Foton kan nekas om de inte uppfyller din myndighets regler för belysning, storlek, ansiktsuttryck, skärpa eller bakgrund.
 
-## De flesta länder delar samma grundkrav på foto
+## Fotokraven varierar mellan myndigheter
 
-Även om de exakta reglerna varierar mellan passmyndigheter delar de flesta länder samma grundläggande krav på passfoto. Förstår du dessa grunder står du på stabil mark oavsett vilket land som utfärdar ditt pass.
+Fotokraven varierar beroende på passmyndighet, ansökningsform och åldersgrupp.
 
 ### Bakgrund och komposition
 
-Du behöver en enfärgad, ljus bakgrund, och exakt nyans beror på din myndighet: [GOV.UK](https://www.gov.uk/photos-for-passports) begär krämfärgad eller ljusgrå bakgrund, medan [den kanadensiska regeringen](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/photos.html) begär vit eller ljus bakgrund. Inga mönster, skuggor, suddiga bakgrunder eller starka färger. Anledningen är enkel: tjänstemän behöver en ren, tydlig bild av ditt ansikte att jämföra mot framtida handlingar. Använd ett enfärgat lakan eller en affischkartong i den nyans myndigheten begär (krämfärgad eller ljusgrå för Storbritannien), eller måla en liten del av en vägg. Det viktiga är att hålla den ljus och jämn rakt igenom.
+Du behöver en enfärgad, ljus bakgrund, och exakt nyans beror på din myndighet: [GOV.UK](https://www.gov.uk/photos-for-passports) begär i regel krämfärgad eller ljusgrå bakgrund för tryckta foton, medan [den kanadensiska regeringen](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/photos.html) begär vit eller ljus bakgrund. Inga mönster, skuggor, suddiga bakgrunder eller starka färger. Anledningen är enkel: tjänstemän behöver en ren, tydlig bild av ditt ansikte att jämföra mot framtida handlingar. Använd ett enfärgat lakan eller en affischkartong i den nyans myndigheten begär (krämfärgad eller ljusgrå för brittiska tryckta foton), eller måla en liten del av en vägg. Det viktiga är att hålla den ljus och jämn rakt igenom.
 
 ### Hur ska man se ut på passfoto – uttryck och hållning
 
-Ditt ansikte ska fylla bildrutan i den andel din passmyndighet anger, med ögonen öppna och tydligt synliga – de flesta länder förbjuder leende, och kisande ögon diskvalificerar bilden. Titta rakt in i kameran med ett neutralt uttryck, luta huvudet lätt om det känns mer naturligt, men håll i regel huvudet rakt mot linsen. Öronen bör helst synas på båda sidor av ansiktet.
+Ditt ansikte ska i regel fylla bildrutan i den andel din passmyndighet anger, med ögonen öppna och tydligt synliga. GOV.UK medger undantag för ansiktsuttryck för barn under 6 år och för öppna ögon för barn under ett år. Titta rakt in i kameran med ett neutralt uttryck, luta huvudet lätt om det känns mer naturligt, men håll i regel huvudet rakt mot linsen. Öronen bör helst synas på båda sidor av ansiktet.
 
 ## Får man ha glasögon på passfoto?
 
@@ -36,7 +36,7 @@ För ett svenskt pass: ja, så länge glasen inte är mörka, inte ger reflexer 
 
 Solglasögon och tonade glas avvisas i regel. Kvalificerar du dig för att behålla glasögonen på, vinkla huvudet lite bort från ljuskällan så att glasen inte reflekterar, och kontrollera att bågarna inte skymmer någon del av ögonen.
 
-I Sverige är det Polismyndigheten som utfärdar pass, och fotot tas normalt på plats när du besöker en passexpedition, så du behöver oftast inte ta med en egen bild. Det du behöver ha koll på i förväg är hur du ska se ut när bilden tas, inte hur du skriver ut den, och det är polisens egna krav som gäller. Ett foto du tar hemma används i stället för visumansökningar och för pass som utfärdas av andra länder.
+I Sverige är det Polismyndigheten som utfärdar pass, och fotot tas normalt på plats när du besöker en passexpedition, så du behöver oftast inte ta med en egen bild. Det du behöver ha koll på i förväg är hur du ska se ut när bilden tas, inte hur du skriver ut den, och det är polisens egna krav som gäller. Ett foto du tar hemma kan i stället användas för visumansökningar och för pass som utfärdas av andra länder, om den ansvariga myndigheten tillåter det.
 
 ## Storlek på passfoto: de två mått de flesta länder använder
 
@@ -46,7 +46,7 @@ Digitala inlämningar byter millimeter mot pixlar, och varje myndighet publicera
 
 ### Var du kontrollerar ditt lands storlekskrav
 
-Storlek är där de flesta går fel – matchar inte fotot ditt lands krav är ett avslag nästan garanterat. Varje land sätter sina egna mått, vissa i tum och vissa i millimeter, och de revideras då och då.
+Storleken spelar roll – fotot kan nekas om det inte uppfyller ditt lands krav. Varje land sätter sina egna mått, vissa i tum och vissa i millimeter, och de revideras då och då.
 
 Vi återger medvetet inte de siffrorna här. En uppgift som kopieras in i ett blogginlägg är en uppgift som tyst kan bli inaktuell, och det här inlägget är inte den auktoritativa källan för det. Kontrollera direkt hos ditt eget passkontor.
 
@@ -58,7 +58,7 @@ Vi återger medvetet inte de siffrorna här. En uppgift som kopieras in i ett bl
 | Australien | Australian Passport Office:s fotoriktlinjer |
 | Kanada | Den kanadensiska regeringens sida om passfoton |
 
-Oavsett vad ditt land anger är det exakt – även några millimeter fel innebär avslag. Mobilens råbild är oftast betydligt större än det du behöver skicka in, vilket är anledningen till att beskärningsappar finns. Gratis eller billiga verktyg som finns till iOS och Android låter dig ange ditt land och automatiskt anpassa bilden till exakt mått.
+GOV.UK uppmanar sökande att inte beskära digitala foton tagna med egen kamera eller mobil. Brittiska tryckta foton får i regel inte vara utskurna ur en större bild.
 
 ### Jämförelse av metoder för att lämna in passfoto
 
@@ -66,21 +66,21 @@ Det finns flera sätt att få passfotot till passmyndigheten. Alla har sina avv�
 
 | Metod | Kostnad | Risk för avslag | Bekvämlighet | Officiell vägledning |
 |---|---|---|---|---|
-| Hemma på egen hand (mobil + beskärningsapp) | Gratis eller nästan | Högre om du missar belysning eller storlek | Mycket hög – direkt | Kontrollera din myndighets webbplats |
-| Lokalt apotek | En mindre avgift | Låg – utbildad personal kontrollerar | Medel – ofta samma dag | Vanligt och generellt pålitligt – kontrollera ändå din egen myndighets krav |
-| Postkontor (Storbritannien med flera) | En mindre avgift | Låg – tas på plats, kontrolleras | Medel – kräver besök och bokning | Postkontorets officiella tjänst |
-| Onlinetjänster (t.ex. Passport Photo Online) | En mindre avgift | Medel – digital inlämning, återkoppling ges | Hög – hemifrån, digital leverans | Inte officiellt men mycket använt – kontrollera om ditt land accepterar färdigbeskurna uppladdningar |
-| Professionell fotostudio | Det dyraste alternativet | Låg – fackmässig belysning och komposition | Låg – kräver bokning | Lägst risk, men fotot måste ändå uppfylla din myndighets regler |
+| Foto hemma, om din myndighet tillåter det | Räkna med utrustning och utskrift | GOV.UK tillåter i regel digitala foton tagna med egen kamera eller mobil; Kanada kräver i regel en yrkesfotograf | Hemma, där det är tillåtet | Kontrollera din myndighets webbplats |
+| Lokalt apotek | Fråga leverantören om avgifter | Fråga om personalen följer din myndighets fotoregler | Fråga om öppettider och hur lång tid det tar | Be leverantören följa din passmyndighets fotoregler |
+| Post Offices digitala Check and Send i Storbritannien | Fråga leverantören om avgifter | Enligt GOV.UK garanterar Check and Send inte att ansökan godkänns | Besök ett anslutet postkontor; fråga vad som gäller där | GOV.UK: fotografering ingår i digitala Check and Send |
+| Kommersiell fototjänst online, om din myndighet tillåter det | Fråga leverantören om avgifter | Fotot måste i regel uppfylla din myndighets regler | Fråga om leveransformat och hur lång tid det tar | GOV.UK uppmanar sökande att inte beskära digitala foton tagna med egen kamera eller mobil |
+| Professionell fotostudio | Fråga studion om avgifter | Be om foton som uppfyller din myndighets regler | Fråga om du behöver boka tid | Fotot måste i regel uppfylla din myndighets regler |
 
 ## Belysning och bildkvalitet
 
-Blir belysningen fel är avslag nästan säkert. Skuggor i ansiktet, ojämn belysning eller överexponerade partier kring ansiktet gör alla fotot ogiltigt.
+Problem med belysningen kan leda till avslag. Skuggor i ansiktet, ojämn belysning eller överexponerade partier kring ansiktet kan göra att fotot inte godkänns.
 
 ### Bästa praxis för belysning
 
 Fönsterljus är ditt bästa val. Stå vinkelrätt mot fönstret för jämn belysning över ansiktet och för att undvika hårda skuggor under ögonen eller längs ena sidan. Mulna dagar fungerar särskilt bra eftersom molnen sprider ljuset jämnt utan direktsolens hårdhet. Undvik att fotografera mitt på dagen i starkt solljus, vilket tenderar att skapa missklädsamma skuggor och får dig att kisa.
 
-Använd aldrig mobilens blixt. Blixt tenderar att skapa hårda skuggor, göra hudtonen blek och orsakar ofta röda ögon. Är rummet mörkt, flytta dig närmare fönstret eller välj en annan tid på dagen. Bättre att ta om fotot i bra ljus än att skicka in ett blixtfotograferat foto som blir nekat.
+Använd aldrig mobilens blixt. Blixt tenderar att skapa hårda skuggor, göra hudtonen blek och orsakar ofta röda ögon. Är rummet mörkt, flytta dig närmare fönstret eller välj en annan tid på dagen. Vi skulle ta om fotot i bra ljus innan vi skickar in det.
 
 Använd ett stativ eller stötta mobilen mot ett stabilt föremål så att du har båda händerna fria för att positionera ansiktet rätt. Det säkerställer också att kameran är i våg och fokuserad på ansiktet. Måste du hålla mobilen själv, be någon annan ta bilden för att undvika kameraskakning och sned bildram.
 
@@ -88,43 +88,43 @@ Använd ett stativ eller stötta mobilen mot ett stabilt föremål så att du ha
 
 De flesta moderna mobilkameror har tillräcklig upplösning för ett passfoto. Innan du fotograferar, se till att mobilen är i fokusläge – tryck på ansiktet på skärmen, så låser de flesta mobiler fokus där. Slutbilden ska vara skarp och tydlig.
 
-## Vanliga avslagsorsaker och hur du undviker dem
+## Problem med passfoton och hur du undviker dem
 
 ![Diagram över sex avslagna passfoton - skugga bakom huvudet, leende, reflex i glasögonen, hår över ögonen, mönstrad bakgrund och fotot taget för nära - bredvid ett godkänt foto med enfärgad bakgrund, neutralt ansiktsuttryck och jämnt ljus](https://traveldocumentvault.com/blog/passport-photo-at-home/passport-photo-figure-sv.jpg) Sex sätt ett foto skickas tillbaka på, och den enda uppsättningen som godkänns.
 
 - **Skuggor i ansiktet:** Orsakas av sidobelysning eller hårda ljuskällor. Stå vinkelrätt mot ett fönster för jämn belysning, och kontrollera att öron och kindben är jämnt belysta.
-- **Fel fotomått:** Fotot matchar inte ditt lands specifikation (kraven varierar mellan länder). Använd en beskärningsapp för passfoto och dubbelkolla måtten mot din egen myndighets officiella spec innan du skriver ut eller laddar upp – inte ett annat lands standard.
-- **Leende eller ovanligt uttryck:** De flesta länder kräver ett neutralt uttryck. Öva på en lugn blick rakt fram i en spegel i förväg – sikta på allvarlig, inte sträng.
+- **Fel fotomått:** Fotot matchar inte ditt lands specifikation (kraven varierar mellan länder). För brittiska digitala foton tagna med egen kamera eller mobil uppmanar GOV.UK sökande att inte beskära dem.
+- **Leende eller ovanligt uttryck:** GOV.UK kräver i regel ett neutralt uttryck, med undantag för barn under 6 år. Vi skulle öva på en lugn blick rakt fram i en spegel i förväg – sikta på allvarlig, inte sträng.
 - **Glasögon med reflexer:** Reflexer i glasen döljer ögonen. Ta antingen av glasögonen eller justera vinkeln för att eliminera reflexen. Vissa myndigheter, bland dem Storbritanniens, ber dig att inte bära glasögon om det inte är nödvändigt, så kontrollera din myndighets aktuella regler först.
 - **Suddig eller ofokuserad bild:** Rörelse- eller fokusproblem under fotograferingen. Använd ett stativ eller ett stabilt föremål för att stötta mobilen, tryck på skärmen för att fokusera på ansiktet, och undvik all rörelse under bilden.
 - **Fel bakgrund:** Den vanligaste orsaken är en färgad bakgrund, ett mönster eller en ojämn vit yta, så byt till en enfärgad, ljus affischkartong eller lakan i den nyans din myndighet begär – se till att ingen synlig textur eller skugga finns.
 - **För mycket eller för lite marginal:** Ansiktet för litet eller felplacerat i bilden. Ditt lands regler anger exakt hur stor del av bilden ansiktet ska fylla, oftast som ett mått från haka till hjässa snarare än en procentandel – jobba mot den siffran, inte mot vad som ser rätt ut.
 
-## Beskär mobilfotot och skriv sedan ut det eller ladda upp det
+## Förbered mobilfotot för inlämning
 
-Mobilfotot har sällan rätt storlek direkt. Efter att du tagit bilden behöver du beskära den till ditt lands exakta specifikation och sedan avgöra om du ska skriva ut den eller ladda upp den digitalt.
+GOV.UK uppmanar sökande att inte beskära digitala foton tagna med egen kamera eller mobil. Brittiska tryckta foton får i regel inte vara utskurna ur en större bild.
 
 ### Beskärningsverktyg
 
-Beskärningsappar tar bort gissningsleken ur att ändra storlek. Leta efter verktyg som Passport Photo Online eller ID Photo Studio för iOS och Android – de låter dig välja land och automatiskt beskär till rätt spec samtidigt som de kontrollerar att ansiktsmåtten stämmer. Många appar går längre och ger återkoppling om belysningen eller bakgrunden inte räcker till.
+Vi skulle följa myndighetens instruktioner om format innan vi använder ett beskärningsverktyg. GOV.UK uppmanar sökande att inte beskära digitala foton tagna med egen kamera eller mobil.
 
 ### Utskrift jämfört med digital inlämning
 
-Vissa länder accepterar digitala uppladdningar av det biometriska passfotot som skickas in online, medan andra fortfarande vill ha ett utskrivet fysiskt foto, så kontrollera din passmyndighets aktuella inlämningsprocess innan du tar ditt. Ska du skriva ut, använd en professionell fotoskrivare eller ta din digitala fil till ett apotek eller en tryckeributik. Vanliga bläckstråleskrivare hemma ger oftast godkänt resultat, men färgnoggrannhet och papperskvalitet spelar roll. Fotopapper är billigt och ger bättre färgtrohet än vanligt skrivarpapper.
+Vissa länder accepterar digitala uppladdningar av det biometriska passfotot som skickas in online, medan andra fortfarande vill ha ett utskrivet fysiskt foto, så kontrollera din passmyndighets aktuella inlämningsprocess innan du tar ditt. Ska du skriva ut, använd en professionell fotoskrivare eller ta din digitala fil till ett apotek eller en tryckeributik. Även vid utskrift hemma spelar färgnoggrannhet och papperskvalitet roll. Fotopapper ger bättre färgtrohet än vanligt skrivarpapper.
 
 ## Checklista inför fotograferingen
 
-Innan du tar ditt foto, se till att du har följande på plats:
+Om din myndighet tillåter foto hemma, se till att du har följande på plats:
 
 - Enfärgat, ljust bakgrundsmaterial i den nyans din myndighet begär, redo och på plats
 - En bra källa till naturligt ljus (helst ett fönster)
 - Mobil med fungerande kamera
 - Stativ eller stabilt föremål att stötta mobilen mot
 - Kunskap om ditt lands exakta fotospecifikationer
-- En beskärningsapp nedladdad och redo att använda
+- Din myndighets instruktioner om beskärning
 - Plan för utskrift eller digital inlämning utifrån ditt lands krav
 
-Har du hyfsat fönsterljus och några minuter över, ta fotot själv i dag: det är gratis och klart direkt. Känner du dig osäker på din uppsättning, eller har du bråttom mot en deadline, minskar apoteket eller postkontoret risken till nästan noll mot en mindre avgift. Kontrollera bara ditt eget lands aktuella specifikation först, inte ett mått du sett någon annanstans.
+Om din myndighet tillåter foton tagna hemma och du har hyfsat fönsterljus skulle vi prova att ta fotot hemma. Känner du dig osäker på din uppsättning, eller har du bråttom mot en deadline, skulle vi fråga en fotoleverantör hur lång tid det tar och om de följer din myndighets fotoregler.
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 
@@ -137,7 +137,7 @@ Officiella källor
 
 ### Kan jag ta ett passfoto med mobilen?
 
-Ja, du kan ta ett passfoto med mobilen. Ställ dig framför en enfärgad, ljus bakgrund i den nyans din passmyndighet begär, i bra dagsljus, och se till att fotot uppfyller ditt lands krav på storlek och kvalitet. Många använder sedan en beskärningsapp för att anpassa bilden till de officiella måtten och skriver antingen ut den eller laddar upp den digitalt, beroende på hur ansökan görs i just ditt land.
+GOV.UK tillåter i regel digitala passfoton tagna med egen kamera eller mobil, medan Kanada i regel kräver en yrkesfotograf. Ställ dig framför en enfärgad, ljus bakgrund i den nyans din passmyndighet begär, i bra dagsljus, och se till att fotot uppfyller ditt lands krav på storlek och kvalitet. GOV.UK uppmanar sökande att inte beskära digitala foton tagna med egen kamera eller mobil.
 
 ### Vilken storlek ska ett passfoto ha?
 
@@ -145,7 +145,7 @@ Storleken på tryckta foton varierar mellan myndigheter. Storbritannien använde
 
 ### Varför blev mitt passfoto inte godkänt?
 
-Vanliga orsaker till avslag är skuggor i ansiktet, fel storlek, leende eller ovanliga uttryck, glasögon, suddiga bilder eller olämplig bakgrund. Se till att fotot uppfyller alla officiella krav innan du skickar in det. Läs igenom den specifika återkopplingen från din passmyndighet och ta om fotot med hänsyn till varje punkt som nämns.
+Foton kan nekas om de inte uppfyller din myndighets regler för belysning, storlek, ansiktsuttryck, skärpa eller bakgrund. Reglerna för glasögon beror på myndigheten. Se till att fotot uppfyller alla officiella krav innan du skickar in det. Läs igenom den specifika återkopplingen från din passmyndighet och ta om fotot med hänsyn till varje punkt som nämns.
 
 ### Behöver jag särskild belysning för ett passfoto?
 
@@ -157,7 +157,7 @@ För ett svenskt pass eller nationellt id-kort går vanliga glasögon bra. Mörk
 
 ### Vilka regler gäller för passfoto?
 
-Grundreglerna för passfoto, eller passbild som det också kallas, är i stort sett desamma i de flesta länder: en enfärgad ljus bakgrund, ett neutralt uttryck med munnen stängd, båda ögonen öppna och tydligt synliga, inga reflexer eller tonade glas om din myndighet tillåter att du har glasögon på, jämn belysning utan skuggor, och ett nytaget foto som uppfyller ditt lands storlekskrav. Varje myndighet publicerar sin egen fullständiga lista och detaljerna skiljer sig åt, så kontrollera din innan du fotograferar.
+Reglerna varierar beroende på myndighet, ansökningsform och åldersgrupp. GOV.UK kräver i regel en enfärgad krämfärgad eller ljusgrå bakgrund för tryckta foton, men medger undantag från reglerna om ansiktsuttryck för barn under 6 år och om öppna ögon för barn under ett år.
 
 ## Relaterade artiklar
 

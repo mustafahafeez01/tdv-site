@@ -1,6 +1,6 @@
 # Digitale paspoortkopie: wat geldt als geldig identiteitsbewijs op reis?
 
-> Waar een digitale paspoortkopie volstaat en waar je het origineel nodig hebt: luchtvaartmaatschappijen, hotels, ambassades en de grens.
+> Een scan of foto van je paspoort kan bij sommige hotels volstaan, maar niet bij instappen of grenscontroles. Waar hij helpt en hoe je hem veilig bewaart.
 
 Source: https://traveldocumentvault.com/nl/blog/digital-passport-copy-valid/
 
@@ -10,10 +10,10 @@ Source: https://traveldocumentvault.com/nl/blog/digital-passport-copy-valid/
 
 ## Belangrijkste punten
 
-- Digitale paspoortkopieën worden geaccepteerd voor **inchecken in een hotel, vluchtboekingen en autoverhuurreserveringen**, maar niet aan de grens of om aan boord te gaan.
+- Ga er niet van uit dat digitale paspoortkopieën worden geaccepteerd voor **inchecken in een hotel, vluchtboekingen of autoverhuurreserveringen**. Ze zijn geen reisdocumenten voor de grens of om aan boord te gaan.
 - Voor internationale reizen heb je **doorgaans het originele paspoort nodig** bij de grens en om aan boord te gaan. Op sommige routes volstaat een nationale identiteitskaart (bijvoorbeeld voor [EU-burgers die binnen de EU reizen](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm)), maar nooit een kopie.
 - Digitale kopieën hebben **geen juridische status als reisdocument**. Ze dienen alleen als ondersteunend bewijs.
-- Visumaanvragen vragen om **specifieke formaten**. Sommige vereisen gewaarmerkte of notarieel bekrachtigde kopieën, andere (waaronder [veel e-visa](https://indianvisaonline.gov.in/evisa/tvoa.html)) accepteren een duidelijke scan van de fotopagina. Een gewone telefoonfoto wordt vaak afgewezen. Controleer eerst de website van de ambassade.
+- Visumaanvragen vragen om **specifieke formaten**. Sommige vereisen gewaarmerkte kopieën, andere (bijvoorbeeld het [Indiase e-visum](https://indianvisaonline.gov.in/evisa/tvoa.html)) accepteren een duidelijke scan van de fotopagina. Volgens de richtlijnen voor het Indiase e-visum kan een upload worden afgewezen als die onduidelijk is of niet aan de vereiste specificaties voldoet. Controleer eerst de website van de ambassade.
 - Raakt je paspoort in het buitenland kwijt, dan kan een **kopie van de fotopagina je ambassade helpen** je gegevens te bevestigen als je een vervangend document aanvraagt.
 
 Bij het plannen van een reis vragen veel reizigers zich af of ze een digitale kopie van hun paspoort op hun telefoon kunnen bewaren in plaats van het origineel mee te dragen. Je moet precies weten waar hij werkt en waar niet, zodat je niet voor verrassingen komt te staan bij het inchecken.
@@ -30,17 +30,17 @@ Een kopie is ook niet hetzelfde als de digitale ID's die sommige overheden nu ac
 
 ## Waar digitale paspoortkopieën worden geaccepteerd
 
-### Veel hotels accepteren een kopie, maar in delen van Europa willen ze meestal het origineel zien
+### Vraag je hotel of het een kopie accepteert
 
-Veel hotels accepteren digitale paspoortkopieën bij het inchecken – een pdf op je telefoon, vooraf gemaild of uitgeprint. Dit is vooral handig als je laat incheckt of tussen accommodaties reist en je niet je hele reis het fysieke paspoort wilt meedragen. Sommige kleinere hotels, met name in regio's met minder digitale infrastructuur, geven nog steeds de voorkeur aan het origineel. In sommige delen van Europa moeten hotels je gegevens registreren voor de autoriteiten en willen ze vaak het fysieke paspoort zien. De Spaanse privacytoezichthouder zegt bijvoorbeeld dat hotels geen kopieën mogen maken of vragen en dat een visuele controle volstaat. Neem vooraf contact op met je accommodatie om dit te bevestigen.
+Of een hotel een digitale paspoortkopie accepteert bij het inchecken, hangt af van de accommodatie en de lokale identificatieregels. Volgens het reisadvies van de Britse overheid voor Britse reizigers moeten hotels in Italië doorgaans je paspoortgegevens bij de politie registreren. Neem vooraf contact op met je accommodatie om na te vragen welke originele documenten je nodig hebt en of een kopie volstaat.
 
-### Een digitale kopie versnelt het inchecken, niet het instappen
+### Een digitale kopie is geen reisdocument om aan boord te gaan
 
-Luchtvaartmaatschappijen vragen je paspoortgegevens bij het boeken, en sommige laten je een kopie uploaden om je identiteit te verifiëren voor online inchecken – dit versnelt het proces op de luchthaven. Je moet nog steeds het originele paspoort tonen bij de gate. De rol van de digitale kopie is verificatie vóór de reis, niet instapdocumentatie.
+Bij internationale vluchten moet je doorgaans het originele paspoort of een ander geaccepteerd reisdocument tonen bij de gate. Een digitale kopie volstaat niet om aan boord te gaan.
 
-### Met een kopie boek je de auto, maar het origineel heb je nog nodig om hem op te halen
+### Vraag welke documenten het autoverhuurbedrijf nodig heeft
 
-Autoverhuurbedrijven accepteren vaak digitale paspoortkopieën voor boeking en borgverificatie. Als je de auto ophaalt, toon je het originele paspoort samen met je rijbewijs. De digitale kopie is nuttig tijdens de reserveringsfase.
+Vraag het autoverhuurbedrijf of het een paspoortkopie nodig heeft voor de boeking of de controle van de borg. Wij zouden vóór het ophalen navragen welke originele identiteits- en rijdocumenten je moet meenemen.
 
 ### Raak je paspoort kwijt, dan versnelt de kopie het proces
 
@@ -48,18 +48,18 @@ Raakt je paspoort kwijt of wordt het gestolen tijdens je reis, dan kan een kopie
 
 ![Diagram van waar een digitale paspoortkopie werkt: meestal geen probleem bij inchecken in het hotel, vluchtboeking en autoverhuur; origineel vereist bij grenscontrole en instappen bij de luchtvaartmaatschappij](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-where-nl.jpg) Kort gezegd: een kopie opent deuren, alleen het origineel steekt de grens over.
 
-## Waar je fysieke paspoort altijd vereist is
+## Waar originele reisdocumenten doorgaans vereist zijn
 
-Een digitale kopie is geen vervanging voor je fysieke paspoort bij immigratie, bij luchtvaartmaatschappijen of bij de politie. In deze situaties heb je doorgaans het originele document nodig.
+Een digitale kopie is geen vervanging voor een geaccepteerd origineel reisdocument bij immigratie of om aan boord van een internationale vlucht te gaan. Identiteitscontroles door de politie hangen af van de lokale wetgeving.
 
 | Reissituatie | Digitale kopie geaccepteerd | Opmerkingen |
 |---|---|---|
-| **Grensovergang (in- en uitreis)** | Nee (origineel vereist) | Immigratiediensten moeten het document fysiek inspecteren |
-| **Aan boord gaan** | Nee (origineel vereist) | Beveiliging en gatepersoneel vereisen het fysieke paspoort |
+| **Grensovergang (in- en uitreis)** | Nee (origineel vereist) | Neem doorgaans een geaccepteerd origineel reisdocument mee; de controles hangen af van je route |
+| **Aan boord gaan** | Nee (origineel vereist) | Neem voor internationale vluchten doorgaans het originele paspoort mee of een ander reisdocument dat voor de route wordt geaccepteerd |
 | **Visumaanvraag** | Soms (controleer bij de ambassade) | Verschilt: gewaarmerkte kopie, origineel of duidelijke scan |
-| **Identiteitscontroles door de politie** | Nee (origineel vereist) | De politie kan om een origineel identiteitsbewijs vragen; de regels verschillen per land |
-| **Inchecken in een hotel** | Meestal ja | Bevestig dit vooraf met de accommodatie |
-| **Boeking van huurauto** | Meestal ja | Origineel nog steeds vereist bij ophalen van de auto |
+| **Identiteitscontroles door de politie** | Hangt af van de lokale wetgeving; een kopie volstaat mogelijk niet bij een identiteitscontrole | De politie kan om een origineel identiteitsbewijs vragen; de regels verschillen per land |
+| **Inchecken in een hotel** | Hangt af van de accommodatie en de lokale identificatieregels | Bevestig dit vooraf met de accommodatie |
+| **Boeking van huurauto** | Vraag het verhuurbedrijf welke boekings- en identiteitsdocumenten het nodig heeft | Vraag na welke originele identiteits- en rijdocumenten het verhuurbedrijf bij het ophalen vereist |
 | **Noodhulp van de ambassade** | Ja (helpt je gegevens te bevestigen) | Kan het paspoort zelf niet vervangen, maar helpt bij het uitgeven van een nooddocument |
 
 ## Visumaanvragen: de regels zijn specifiek
@@ -68,9 +68,9 @@ De regels voor visumaanvragen zijn flexibeler dan aan de grens, maar wel specifi
 
 Wat dit in de praktijk betekent
 
-Je vraagt een Frans visum aan, en de officiële website vermeldt "gewaarmerkte kopie". Dat betekent een gewaarmerkte fotokopie van een notaris of overheidsinstantie, geen gewone telefoonfoto, en het indienen van het verkeerde formaat leidt tot afwijzing en vertraging bij een nieuwe aanvraag. Neem contact op met de ambassade om te bevestigen welke formaten worden geaccepteerd voordat je tijd aan de aanvraag besteedt.
+Volgens de richtlijnen voor het Indiase e-visum kan een upload worden afgewezen als die onduidelijk is of niet aan de vereiste specificaties voldoet. Wij zouden vóór het indienen inzoomen en elk detail nalopen.
 
-Sommige ambassades accepteren notarieel bekrachtigde digitale scans die elektronisch worden ingediend, terwijl andere fysieke gewaarmerkte kopieën of het originele paspoort in persoon vereisen. De vereisten verschillen zo sterk dat je echt de officiële overheidswebsite van het land waar je aanvraagt moet raadplegen.
+Bij sommige visumaanvragen kun je scans elektronisch indienen, terwijl andere gewaarmerkte kopieën of het originele paspoort vereisen.
 
 ## Hoe je digitale kopieën veilig bewaart
 
@@ -102,11 +102,11 @@ Officiële bronnen
 
 ### Wat is een digitale kopie van een paspoort?
 
-Een digitale kopie is een scan of telefoonfoto van de identiteitspagina van je paspoort, de pagina met foto en persoonlijke gegevens. Hij helpt bij boekingen en bij het vervangen van een verloren paspoort, maar is geen reisdocument: de Canadese overheid zegt dat kopieën niet als identiteitsbewijs kunnen dienen. Hij verschilt ook van een door de overheid ondersteund digitaal ID, en zelfs in de VS, waar de TSA digitale ID's accepteert bij haar controles, moeten passagiers nog steeds een geldig fysiek ID dragen.
+Een digitale kopie is een scan of telefoonfoto van de identiteitspagina van je paspoort, de pagina met foto en persoonlijke gegevens. Hij kan helpen bij het vervangen van een verloren paspoort, maar is geen reisdocument: de Canadese overheid zegt dat kopieën niet als identiteitsbewijs kunnen dienen. Hij verschilt ook van een door de overheid ondersteund digitaal ID, en zelfs in de VS, waar de TSA digitale ID's accepteert bij haar controles, moeten passagiers nog steeds een geldig fysiek ID dragen.
 
 ### Wordt een digitale kopie van mijn paspoort geaccepteerd bij het inchecken in een hotel?
 
-Vaak wel: veel hotels accepteren digitale paspoortkopieën bij het inchecken: een pdf op je telefoon, per e-mail of uitgeprint. Sommige kleinere accommodaties vragen mogelijk nog om een fysiek paspoort. Neem altijd vooraf contact op met je hotel om dit te bevestigen.
+Dat hangt af van de accommodatie en de lokale identificatieregels. Vraag je hotel welke originele documenten het nodig heeft en of het een kopie accepteert voor een deel van het inchecken.
 
 ### Kan ik een digitale paspoortkopie gebruiken op de luchthaven om aan boord te gaan?
 
@@ -114,7 +114,7 @@ Voor internationale vluchten vereisen luchtvaartmaatschappijen doorgaans het ori
 
 ### Zijn digitale paspoortkopieën geldig voor visumaanvragen?
 
-Visumaanvragen vragen om specifieke formaten. Sommige vereisen gewaarmerkte of notarieel bekrachtigde kopieën, andere (waaronder veel e-visa) accepteren een duidelijke scan van de fotopagina. Een gewone telefoonfoto wordt vaak afgewezen. De vereisten verschillen per land en ambassade, dus controleer de officiële overheidswebsite van het land waar je aanvraagt voordat je iets indient.
+Visumaanvragen vragen om specifieke formaten. Sommige vereisen gewaarmerkte kopieën, andere accepteren een duidelijke scan van de fotopagina. Volgens de richtlijnen voor het Indiase e-visum kan een upload worden afgewezen als die onduidelijk is of niet aan de vereiste specificaties voldoet. De vereisten verschillen per land en ambassade, dus controleer de officiële overheidswebsite van het land waar je aanvraagt voordat je iets indient.
 
 ### Kan een digitale paspoortkopie helpen als mijn paspoort in het buitenland kwijtraakt of wordt gestolen?
 

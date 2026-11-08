@@ -1,6 +1,6 @@
 # Copia Digital del Pasaporte: ¿Cuándo Cuenta como Identificación Válida al Viajar?
 
-> Aerolíneas, hoteles, embajadas y policía de fronteras tratan las copias digitales de forma distinta. Dónde sirve una copia y dónde necesitas el original.
+> Una copia digital del pasaporte es una foto o escaneo. Algunos hoteles la aceptan; aerolíneas y fronteras, no. Dónde sirve y cómo guardarla con seguridad.
 
 Source: https://traveldocumentvault.com/es/blog/digital-passport-copy-valid/
 
@@ -10,10 +10,10 @@ Source: https://traveldocumentvault.com/es/blog/digital-passport-copy-valid/
 
 ## Puntos Clave
 
-- Las copias digitales del pasaporte se aceptan para **check-in en hotel, reservas de vuelo y reservas de alquiler de coches**, pero no en fronteras ni para embarcar en el avión.
+- No des por hecho que se aceptan copias digitales del pasaporte para **check-in en hotel, reservas de vuelo o reservas de alquiler de coches**. No son documentos de viaje para cruzar fronteras ni para embarcar en el avión.
 - Para viajar al extranjero, **por lo general necesitas el pasaporte original** en las fronteras y al embarcar. Algunas rutas aceptan un documento nacional de identidad —por ejemplo, para [ciudadanos de la UE que viajan dentro de la UE](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm)—, pero nunca una copia.
 - Las copias digitales **no tienen validez legal como documentos de viaje**. Son solo documentación complementaria.
-- Las solicitudes de visa piden **formatos específicos**. Algunas requieren copias certificadas o legitimadas ante notario; otras —como [muchos visados electrónicos](https://indianvisaonline.gov.in/evisa/tvoa.html)— aceptan un escaneo nítido de la página de datos, y a menudo rechazan una foto informal hecha con el móvil. Consulta primero el sitio web de la embajada.
+- Las solicitudes de visa piden **formatos específicos**. Algunas requieren copias certificadas; otras —como [el visado electrónico de la India](https://indianvisaonline.gov.in/evisa/tvoa.html)— aceptan un escaneo nítido de la página de datos. Las instrucciones del visado electrónico de la India indican que un archivo puede ser rechazado si no es nítido o no cumple las especificaciones exigidas. Consulta primero el sitio web de la embajada.
 - Si tu pasaporte se pierde en el extranjero, una **copia de la página de datos puede ayudar** a tu embajada a confirmar tus datos cuando solicites un reemplazo.
 
 Cuando planificas un viaje, muchos viajeros se preguntan si pueden guardar una copia digital de su pasaporte en el teléfono en lugar de llevar el original. Necesitas saber exactamente dónde funciona y dónde no, para no quedar atrapado en el check-in.
@@ -30,17 +30,17 @@ Una copia tampoco es lo mismo que las identidades digitales que ya aceptan algun
 
 ## Dónde Se Aceptan las Copias Digitales del Pasaporte
 
-### Muchos hoteles aceptan una copia, pero en parte de Europa suelen querer el original
+### Pregunta a tu hotel si acepta una copia
 
-Muchos hoteles aceptan copias digitales del pasaporte para el check-in —un PDF en tu teléfono, enviado por correo electrónico con anticipación, o impreso. Esto es particularmente útil si te registras tarde o te mueves entre propiedades y no deseas llevar tu pasaporte físico durante todo el viaje. Algunos hoteles más pequeños, particularmente en regiones con menos infraestructura digital, aún prefieren el original. En algunas partes de Europa, los hoteles deben registrar tus datos para las autoridades y a menudo quieren ver el pasaporte físico. La autoridad española de protección de datos, por ejemplo, indica que los hoteles no deben hacer ni solicitar copias y que basta con una comprobación visual. Contacta a tu alojamiento con anticipación para confirmar.
+La aceptación de copias digitales del pasaporte para el check-in depende del alojamiento y de las normas locales de identificación. Los consejos del gobierno del Reino Unido para viajeros británicos indican que los hoteles en Italia, por lo general, deben registrar los datos de tu pasaporte ante la policía. Contacta con tu alojamiento con antelación para confirmar qué documentos originales necesita y si acepta una copia.
 
-### Una copia digital agiliza el check-in, no el embarque
+### Una copia digital no sirve como documento de embarque
 
-Las aerolíneas requieren tu información de pasaporte al hacer una reserva, y algunas te permiten cargar una copia digital para verificar tu identidad en el check-in en línea —esto acelera el proceso en el aeropuerto. Aún necesitarás presentar el pasaporte original en la puerta. El rol de la copia digital es verificación previa al viaje, no documentación de embarque.
+Para vuelos internacionales, por lo general necesitarás presentar el pasaporte original u otro documento de viaje aceptado en la puerta de embarque. La copia digital no sirve como documento de embarque.
 
-### La copia sirve para reservar el coche, pero el original sigue haciendo falta para recogerlo
+### Pregunta qué documentos necesita la empresa de alquiler de coches
 
-Las empresas de alquiler de coches a menudo aceptan copias digitales del pasaporte para reserva y verificación de depósito. Cuando llegues para recoger el vehículo, presentarás el pasaporte original junto con tu licencia de conducir. La copia digital es útil durante la fase de reserva.
+Pregunta a la empresa de alquiler de coches si necesita una copia del pasaporte para la reserva o la verificación del depósito. Antes de ir a recoger el vehículo, te recomendamos confirmar qué documentos originales de identidad y de conducción exige.
 
 ### Si pierdes el pasaporte, la copia acelera los trámites
 
@@ -48,18 +48,18 @@ Si tu pasaporte se pierde o es robado mientras viajas, una copia de la página d
 
 ![Diagrama de dónde funciona una copia digital del pasaporte: normalmente vale para el check-in de hotel, la reserva de vuelo y el alquiler de coches; se exige el original en el control de fronteras y para el embarque en el avión](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-where-es.jpg) La versión corta: una copia abre puertas, solo el original cruza fronteras.
 
-## Dónde Tu Pasaporte Físico Siempre Es Obligatorio
+## Dónde suelen exigirse documentos de viaje originales
 
-Una copia digital no es un sustituto para tu pasaporte físico en inmigración, con aerolíneas o con las fuerzas del orden. En estos casos, por lo general necesitas el documento original.
+Una copia digital no sustituye a un documento de viaje original aceptado en inmigración ni para embarcar en vuelos internacionales. Los controles de identidad policiales dependen de la legislación local.
 
 | Situación de Viaje | Se Acepta Copia Digital | Notas |
 |---|---|---|
-| **Cruce fronterizo (entrada/salida)** | No (se requiere original) | Los funcionarios de inmigración deben inspeccionar físicamente el documento |
-| **Embarque en el avión** | No (se requiere original) | El personal de seguridad y puerta requieren el pasaporte físico |
+| **Cruce fronterizo (entrada/salida)** | No (se requiere original) | Por lo general, lleva un documento de viaje original aceptado; los controles dependen de tu ruta |
+| **Embarque en el avión** | No (se requiere original) | Para vuelos internacionales, por lo general lleva el pasaporte original u otro documento de viaje aceptado para la ruta |
 | **Solicitud de visa** | A veces (consulta la embajada) | Varía: copia certificada, original o escaneo nítido |
-| **Controles de identidad policiales** | No (se requiere original) | La policía puede pedir el documento de identidad original; las normas varían según el país |
-| **Check-in en el hotel** | Generalmente sí | Confirma con la propiedad con anticipación |
-| **Reserva de alquiler de coches** | Generalmente sí | El original aún es requerido al recoger el vehículo |
+| **Controles de identidad policiales** | Depende de la legislación local; una copia puede no bastar para un control de identidad | La policía puede pedir el documento de identidad original; las normas varían según el país |
+| **Check-in en el hotel** | Depende del alojamiento y de las normas locales de identificación | Confirma con la propiedad con anticipación |
+| **Reserva de alquiler de coches** | Pregunta a la empresa de alquiler qué documentos necesita para la reserva y la identificación | Confirma qué documentos originales de identidad y de conducción exige la empresa al recoger el vehículo |
 | **Asistencia de emergencia en embajada** | Sí (ayuda a confirmar tus datos) | No puede reemplazar el pasaporte en sí, pero ayuda a emitir un documento de emergencia |
 
 ## Solicitudes de visado: las reglas son específicas
@@ -68,9 +68,9 @@ Las reglas de las solicitudes de visado son más flexibles que las de las fronte
 
 Lo que esto significa en la práctica
 
-Estás solicitando un visado francés. La web oficial dice «copia certificada». Eso significa una fotocopia certificada ante notario o en una oficina pública, no una foto hecha con el móvil. Entregar el formato equivocado acaba en rechazo y en el retraso de volver a solicitarlo. Ponte en contacto con la embajada para confirmar qué formatos acepta antes de dedicar tiempo a la solicitud.
+Las instrucciones del visado electrónico de la India indican que un archivo puede ser rechazado si no es nítido o no cumple las especificaciones exigidas. Te recomendamos ampliar la imagen y comprobar cada detalle antes de enviarlo.
 
-Algunas embajadas aceptan escaneos digitales legitimados ante notario y enviados por vía electrónica, mientras que otras exigen copias certificadas en papel o el pasaporte original en persona. Los requisitos varían tanto que conviene consultar la web oficial del gobierno del país al que solicitas el visado.
+Algunas solicitudes de visado aceptan escaneos enviados por vía electrónica, mientras que otras exigen copias certificadas o el pasaporte original.
 
 ## Cómo Guardar Copias Digitales de Forma Segura
 
@@ -102,11 +102,11 @@ Fuentes oficiales
 
 ### ¿Qué es una copia digital de un pasaporte?
 
-Una copia digital es un escaneo o foto de móvil de la página de identificación de tu pasaporte, la página con tu foto y tus datos personales. Ayuda con las reservas y con la sustitución de un pasaporte perdido, pero no es un documento de viaje: el gobierno de Canadá indica que las copias no pueden usarse como identificación. También es distinta de una identidad digital respaldada por un gobierno, e incluso en Estados Unidos, donde la TSA acepta identidades digitales en sus controles, los pasajeros deben seguir llevando una identificación física válida.
+Una copia digital es un escaneo o foto de móvil de la página de identificación de tu pasaporte, la página con tu foto y tus datos personales. Puede ayudar con la sustitución de un pasaporte perdido, pero no es un documento de viaje: el gobierno de Canadá indica que las copias no pueden usarse como identificación. También es distinta de una identidad digital respaldada por un gobierno, e incluso en Estados Unidos, donde la TSA acepta identidades digitales en sus controles, los pasajeros deben seguir llevando una identificación física válida.
 
 ### ¿Se acepta una copia digital del pasaporte en el check-in del hotel?
 
-A menudo sí: muchos hoteles aceptan copias digitales del pasaporte para el check-in: un PDF en tu teléfono, por correo electrónico o impreso. Algunos establecimientos más pequeños pueden aún requerir un pasaporte físico. Siempre contacta a tu hotel con anticipación para confirmar.
+La aceptación depende del alojamiento y de las normas locales de identificación. Pregunta a tu hotel qué documentos originales necesita y si acepta una copia para alguna parte del check-in.
 
 ### ¿Puedo usar una copia digital del pasaporte en el aeropuerto para embarcar?
 
@@ -114,7 +114,7 @@ Para vuelos internacionales, las aerolíneas suelen exigir el documento de viaje
 
 ### ¿Son válidas las copias digitales del pasaporte para solicitudes de visado?
 
-Las solicitudes de visado piden formatos específicos. Algunas exigen copias certificadas o legitimadas ante notario; otras —como muchos visados electrónicos— aceptan un escaneo nítido de la página de datos, y a menudo rechazan una foto informal hecha con el móvil. Los requisitos varían según el país y la embajada, así que consulta la web oficial del gobierno del país al que solicitas el visado antes de enviar nada.
+Las solicitudes de visado piden formatos específicos. Algunas exigen copias certificadas; otras aceptan un escaneo nítido de la página de datos. Las instrucciones del visado electrónico de la India indican que un archivo puede ser rechazado si no es nítido o no cumple las especificaciones exigidas. Los requisitos varían según el país y la embajada, así que consulta la web oficial del gobierno del país al que solicitas el visado antes de enviar nada.
 
 ### ¿Puede una copia digital del pasaporte ayudarme si pierdo mi pasaporte en el extranjero?
 

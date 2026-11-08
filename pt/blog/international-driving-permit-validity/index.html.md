@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/pt/blog/international-driving-permit-val
 ## Pontos-Chave
 
 - Uma Carta de Condução Internacional é **uma tradução da carta que já tem**, por isso leva as duas consigo. Entregar apenas a carta internacional não prova nada.
-- Existem três tipos, resultantes de três convenções, embora duas cubram praticamente todo o mundo. Uma **carta de Genebra de 1949 dura um ano**. Uma **carta de Viena de 1968 dura até três**.
+- Existem três tipos, resultantes de três convenções. Uma **carta de Genebra de 1949 dura um ano**. Uma **carta de Viena de 1968 dura até três**.
 - A carta de Viena está **limitada pela sua carta de condução nacional**. Se esta caducar primeiro, a carta internacional deixa de ser útil nessa data, seja qual for a data impressa nela.
 - Os países ratificaram convenções diferentes, por isso **uma carta aceite num país pode ser recusada no seguinte**.
 - Passaporte, carta de condução e carta internacional seguem **três calendários distintos** que quase nunca coincidem.
@@ -28,9 +28,9 @@ Funciona por isso em par. Leva a carta nacional e a carta internacional juntas e
 
 Isto engana as pessoas com mais frequência do que as datas de validade. A carta internacional parece o documento mais sério, cheio de carimbos e línguas, por isso dá a sensação de ser a que realmente importa.
 
-## Duas Convenções Decidem a Duração e Onde Vale a Carta
+## Três Convenções Decidem a Duração e Onde Vale a Carta
 
-Existem [três acordos internacionais](https://www.gov.uk/driving-abroad/international-driving-permit) por trás das Cartas de Condução Internacionais, e os países aderiram a um deles ou a vários. Dois fazem praticamente todo o trabalho: a Convenção de Genebra de 1949 e a Convenção de Viena de 1968. Também existe uma carta mais antiga, ao abrigo da Convenção de Paris de 1926, que alguns destinos ainda indicam. Confirme a data de validade impressa na carta.
+Existem [três acordos internacionais](https://www.gov.uk/driving-abroad/international-driving-permit) por trás das Cartas de Condução Internacionais, e os países aderiram a um deles ou a vários. Entre eles estão a Convenção de Genebra de 1949 e a Convenção de Viena de 1968. Também existe uma carta mais antiga, ao abrigo da Convenção de Paris de 1926, que alguns destinos ainda indicam. Confirme a data de validade impressa na carta.
 
 Uma carta emitida ao abrigo da Convenção de Genebra de 1949 é [válida durante um ano](https://travel.gc.ca/travelling/documents/international-driving-permit). Uma carta emitida ao abrigo da Convenção de Viena de 1968 pode durar até três anos.
 
@@ -40,7 +40,7 @@ Esta divisão importa por duas razões. Determina a duração da sua carta e dec
 
 | Tipo de carta | Duração | O que a limita |
 |---|---|---|
-| **Convenção de Paris de 1926** | Consulte a data de validade impressa | A data de emissão. Raramente necessária atualmente |
+| **Convenção de Paris de 1926** | Consulte a data de validade impressa | A data de emissão. |
 | **Convenção de Genebra de 1949** | Consulte a data de validade impressa | A data de emissão |
 | **Convenção de Viena de 1968** | Até três anos | A sua carta de condução nacional, se caducar primeiro |
 
@@ -129,7 +129,7 @@ Sim, se for uma carta de Viena de 1968. Esse tipo está limitado pela sua carta 
 
 ### Por que existe mais do que um tipo de Carta de Condução Internacional?
 
-Resultam de convenções internacionais distintas. A maioria das viagens está coberta pela Convenção de Genebra de 1949 e pela Convenção de Viena de 1968, e também existe uma carta mais antiga, ao abrigo da Convenção de Paris de 1926, que alguns destinos ainda indicam. Os países ratificaram convenções diferentes, e é por isso que uma carta aceite num país pode ser recusada noutro.
+Resultam de convenções internacionais distintas. Há cartas emitidas ao abrigo da Convenção de Genebra de 1949 e da Convenção de Viena de 1968; também existe uma carta mais antiga, ao abrigo da Convenção de Paris de 1926, que alguns destinos ainda indicam. Os países ratificaram convenções diferentes, e é por isso que uma carta aceite num país pode ser recusada noutro.
 
 ## Artigos Relacionados
 

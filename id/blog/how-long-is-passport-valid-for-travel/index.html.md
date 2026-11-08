@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/id/blog/how-long-is-passport-valid-for-t
 
 ## Poin Penting
 
-- **Banyak paspor dewasa berlaku hingga 10 tahun** sejak tanggal penerbitan. Paspor anak biasanya berlaku 5 tahun.
+- **Paspor standar Inggris yang baru diterbitkan untuk orang dewasa umumnya berlaku 10 tahun**. Paspor anak biasanya berlaku 5 tahun.
 - Paspor Anda tidak perlu kedaluwarsa untuk membuat Anda ditolak naik pesawat. **Anda bisa ditolak naik pesawat atau masuk ke negara tujuan** ketika sisa masa berlaku paspornya tidak memenuhi persyaratan destinasi tujuan.
 - Destinasi populer seperti Thailand, Vietnam, dan Indonesia umumnya mensyaratkan **minimal 6 bulan masa berlaku pada hari kedatangan Anda** bagi pemegang paspor Inggris, dan negara-negara Schengen menghitung dari hari Anda berencana meninggalkan wilayahnya, jadi periksa setiap destinasi.
 - Paspor anak kedaluwarsa lebih cepat daripada paspor orang tua, **periksa setiap paspor dalam rombongan Anda satu per satu** sebelum memesan, bukan hanya paspor Anda sendiri.
@@ -22,16 +22,15 @@ Ini salah satu aturan yang paling sering disalahpahami dalam perjalanan, karena 
 
 ## Paspor Dewasa Berlaku Jauh Lebih Lama daripada Paspor Anak
 
-Masa berlaku standar untuk paspor dewasa adalah 10 tahun sejak tanggal penerbitan di sebagian besar negara. Paspor anak kedaluwarsa lebih cepat, [biasanya 5 tahun](https://www.gov.uk/get-a-child-passport). Kami akan memeriksa paspor anak lebih dulu daripada paspor siapa pun, karena paspor itulah yang paling sering dianggap pasti aman.
+Paspor standar Inggris yang baru diterbitkan untuk orang dewasa umumnya berlaku 10 tahun. Paspor anak kedaluwarsa lebih cepat, [biasanya 5 tahun](https://www.gov.uk/get-a-child-passport). Kami akan memeriksa paspor anak lebih dulu daripada paspor siapa pun, karena paspor itulah yang paling sering dianggap pasti aman.
 
 | Negara | Masa berlaku dewasa | Masa berlaku anak |
 |---|---|---|
 | Inggris Raya | 10 tahun | 5 tahun (di bawah 16) |
 | Amerika Serikat | 10 tahun | 5 tahun (di bawah 16) |
-| Australia | 10 tahun | 5 tahun (di bawah 16) |
-| Kanada | 10 tahun | 5 tahun |
+| Australia | Umumnya 10 tahun; bisa memilih 5 tahun mulai usia 75 tahun | 5 tahun (di bawah 16) |
+| Kanada | Umumnya 5 atau 10 tahun, dipilih saat mengajukan permohonan | 5 tahun |
 | Irlandia | 10 tahun | 5 tahun (di bawah 18) |
-| Selandia Baru | 10 tahun | 5 tahun (di bawah 16) |
 
 Tanggal kedaluwarsa Anda yang tepat tercetak pada halaman data di samping foto Anda. Tanggal itu adalah batas mutlak, paspor Anda berhenti menjadi dokumen perjalanan yang sah di mana pun di dunia begitu tanggal itu terlewati.
 
@@ -61,7 +60,7 @@ Untuk yang lainnya, periksa sebelum memesan. Maskapai Anda atau halaman resmi pe
 
 ## Paspor Anak Kedaluwarsa Lebih Cepat, dan Keluarga Sering Lupa Memeriksanya
 
-Di sinilah keluarga sering terjebak setiap musim panas: paspor dewasa berlaku 10 tahun, paspor anak hanya 5 tahun, dan kesenjangan itu menciptakan masalah spesifik.
+Di sinilah keluarga sering terjebak setiap musim panas: paspor standar Inggris yang baru diterbitkan untuk orang dewasa umumnya berlaku 10 tahun, paspor anak 5 tahun, dan kesenjangan itu menciptakan masalah spesifik.
 
 Anak berusia 3 tahun yang mendapatkan paspor pertamanya pada 2023 memiliki dokumen yang kedaluwarsa pada 2028. Saat anak itu berusia 7 tahun dan keluarga memesan perjalanan ke Thailand, paspor tersebut mungkin hanya memiliki sisa masa berlaku beberapa bulan, jauh di bawah persyaratan 6 bulan. Kedua orang tua bisa saja masing-masing memiliki sisa masa berlaku 4 tahun dan tidak pernah terpikir untuk memeriksa dokumen anaknya.
 
@@ -93,7 +92,7 @@ Sumber resmi
 
 ### Berapa lama paspor Inggris (UK) berlaku?
 
-Paspor dewasa Inggris berlaku 10 tahun sejak tanggal penerbitan. Paspor anak (di bawah 16 tahun) berlaku 5 tahun. Tanggal kedaluwarsa yang tepat tercetak pada halaman data di samping foto Anda.
+Paspor standar Inggris yang baru diterbitkan untuk orang dewasa umumnya berlaku 10 tahun. Paspor anak (di bawah 16 tahun) berlaku 5 tahun. Tanggal kedaluwarsa yang tepat tercetak pada halaman data di samping foto Anda.
 
 ### Bisakah saya bepergian dengan sisa masa berlaku paspor 6 bulan?
 

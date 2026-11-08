@@ -11,14 +11,14 @@ Source: https://traveldocumentvault.com/fr/blog/international-driving-permit-val
 ## Points clés à retenir
 
 - Un PCI est **une traduction du permis que vous possédez déjà**, vous portez donc les deux. Remettre le permis international seul ne prouve rien.
-- Il existe trois types, issus de trois conventions, bien que deux couvrent presque tous les cas. Un **permis de Genève de 1949 dure un an**. Un **permis de Vienne de 1968 va jusqu'à trois ans**.
+- Il existe trois types, issus de trois conventions. Un **permis de Genève de 1949 dure un an**. Un **permis de Vienne de 1968 va jusqu'à trois ans**.
 - Le permis de Vienne est **plafonné par votre permis de conduire**. Si celui-ci expire en premier, le PCI cesse d'être utile à cette date, quoi qu'il soit imprimé dessus.
 - Les pays ont ratifié des conventions différentes, donc **un permis accepté dans un pays peut être refusé dans le suivant**.
 - Passeport, permis et PCI suivent **trois horloges distinctes** qui coïncident presque jamais.
 
 Un permis de conduire international est une traduction du permis, et non un permis à part entière, et il court sur son propre calendrier. Beaucoup sont valables douze mois à compter de la date de délivrance, et aucun ne dépasse trois ans, si bien que celui acheté pour un voyage il y a trois étés est presque certainement périmé. Les comptoirs de location de plusieurs pays le réclament avant de remettre les clés.
 
-Un PCI porte sa propre date d'expiration, et cette date se comporte différemment selon la convention internationale dont relève votre permis. La plupart des conducteurs ne découvrent qu'il en existe deux types que le jour où l'un des deux est refusé.
+Un PCI porte sa propre date d'expiration, et cette date se comporte différemment selon la convention internationale dont relève votre permis. La plupart des conducteurs ne découvrent qu'il en existe plusieurs types que le jour où le leur est refusé.
 
 ## Un PCI traduit votre permis, il ne le remplace pas
 
@@ -28,9 +28,9 @@ Il fonctionne donc en binôme. Vous portez le permis national et le PCI ensemble
 
 Cela piège les gens plus souvent que les dates d'expiration elles-mêmes. Le PCI a l'air du document sérieux, avec ses tampons et ses langues, on a donc l'impression que c'est lui qui compte vraiment.
 
-## Deux conventions décident de la durée de validité et des pays où le permis fonctionne
+## Trois conventions décident de la durée de validité et des pays où le permis fonctionne
 
-[Trois accords internationaux](https://www.gov.uk/driving-abroad/international-driving-permit) sont à l'origine des PCI, et les pays ont ratifié l'un d'eux, ou plusieurs. Deux d'entre eux couvrent presque tous les cas : la convention de Genève de 1949 et la convention de Vienne de 1968. Un permis plus ancien relevant de la convention de Paris de 1926 existe aussi, et quelques destinations le mentionnent encore. Vérifiez la date d'expiration imprimée sur le document.
+[Trois accords internationaux](https://www.gov.uk/driving-abroad/international-driving-permit) sont à l'origine des PCI, et les pays ont ratifié l'un d'eux, ou plusieurs. Parmi ces accords figurent la convention de Genève de 1949 et la convention de Vienne de 1968. Un permis plus ancien relevant de la convention de Paris de 1926 existe aussi, et quelques destinations le mentionnent encore. Vérifiez la date d'expiration imprimée sur le document.
 
 Un permis délivré au titre de la convention de Genève de 1949 est [valable un an](https://travel.gc.ca/travelling/documents/international-driving-permit). Un permis délivré au titre de la convention de Vienne de 1968 peut être valable jusqu'à trois ans.
 
@@ -40,7 +40,7 @@ Cette distinction compte à double titre. Elle détermine la durée de validité
 
 | Type de permis | Durée de validité | Ce qui le limite |
 |---|---|---|
-| **Convention de Paris de 1926** | Consultez la date d’expiration imprimée | La date de délivrance. Rarement nécessaire aujourd'hui |
+| **Convention de Paris de 1926** | Consultez la date d’expiration imprimée | La date de délivrance. |
 | **Convention de Genève de 1949** | Un an | La date de délivrance |
 | **Convention de Vienne de 1968** | Jusqu'à trois ans | Votre permis national, s'il expire avant |
 
@@ -129,7 +129,7 @@ Oui, s'il s'agit d'un permis de Vienne de 1968. Ce type de permis est plafonné 
 
 ### Pourquoi existe-t-il plusieurs types de permis de conduire international ?
 
-Ils proviennent de conventions internationales distinctes. La plupart des voyages sont couverts par la convention de Genève de 1949 et la convention de Vienne de 1968. Un permis plus ancien relevant de la convention de Paris de 1926 existe aussi, et quelques destinations le mentionnent encore. Les pays ont ratifié des conventions différentes, ce qui explique qu'un permis accepté dans un pays puisse être refusé dans un autre.
+Ils proviennent de conventions internationales distinctes. Il existe des permis relevant de la convention de Genève de 1949 et de la convention de Vienne de 1968. Un permis plus ancien relevant de la convention de Paris de 1926 existe aussi, et quelques destinations le mentionnent encore. Les pays ont ratifié des conventions différentes, ce qui explique qu'un permis accepté dans un pays puisse être refusé dans un autre.
 
 ## Articles connexes
 

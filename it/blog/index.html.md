@@ -80,7 +80,7 @@ Source: https://traveldocumentvault.com/it/blog/
 
 ##
 
-[Viaggi in famigliaRegole dei passaporti Schengen per viaggi in famiglia: cosa sbagliano i genitori Per Schengen servono 3 mesi di validità oltre la partenza, non 6, e i passaporti dei bambini scadono dopo 5 anni. Cosa dovrebbero controllare le famiglie il giorno in cui prenotano. 10 lug 20266 min di lettura](https://traveldocumentvault.com/it/blog/schengen-passport-rules-family-trips/)
+[Viaggi in famigliaRegole dei passaporti Schengen per viaggi in famiglia: cosa sbagliano i genitori Per Schengen servono 3 mesi di validità oltre la partenza, non 6, e i passaporti britannici per bambini durano 5 anni. Cosa dovrebbero controllare le famiglie il giorno in cui prenotano. 10 lug 20266 min di lettura](https://traveldocumentvault.com/it/blog/schengen-passport-rules-family-trips/)
 
 ##
 

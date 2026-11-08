@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/nl/blog/how-long-is-passport-valid-for-t
 
 ## Belangrijkste punten
 
-- **Veel paspoorten van volwassenen zijn tot 10 jaar geldig** vanaf de afgiftedatum. Paspoorten van kinderen verlopen doorgaans na 5 jaar.
+- **Nieuwe reguliere Britse paspoorten voor volwassenen zijn doorgaans 10 jaar geldig.** Paspoorten van kinderen verlopen doorgaans na 5 jaar.
 - Je paspoort hoeft niet verlopen te zijn om geweigerd te worden. **Je kunt worden geweigerd bij het instappen of bij binnenkomst** wanneer de resterende geldigheid niet voldoet aan de eisen van je bestemming.
 - Populaire bestemmingen zoals Thailand, Vietnam en Indonesië vereisen voor Britse paspoorthouders doorgaans **minstens 6 maanden geldigheid op de dag van aankomst** – en Schengenlanden tellen vanaf de dag waarop je van plan bent te vertrekken, dus controleer elke bestemming afzonderlijk.
 - Paspoorten van kinderen verlopen sneller dan die van ouders – **controleer elk paspoort in het gezelschap afzonderlijk** voordat je boekt, niet alleen je eigen paspoort.
@@ -22,16 +22,15 @@ Het is een van de meest verkeerd begrepen regels in het reizen, omdat een paspoo
 
 ## Paspoorten van volwassenen gaan veel langer mee dan die van kinderen
 
-De standaardgeldigheid voor een paspoort van een volwassene is in de meeste landen 10 jaar vanaf de afgiftedatum. Paspoorten van kinderen verlopen eerder – doorgaans na [5 jaar](https://www.gov.uk/get-a-child-passport). Wij checken het paspoort van een kind eerder dan dat van wie dan ook, omdat iedereen er zomaar van uitgaat dat dat wel goed zit.
+Nieuwe reguliere Britse paspoorten voor volwassenen zijn doorgaans 10 jaar geldig. Paspoorten van kinderen verlopen eerder – doorgaans na [5 jaar](https://www.gov.uk/get-a-child-passport). Wij checken het paspoort van een kind eerder dan dat van wie dan ook, omdat iedereen er zomaar van uitgaat dat dat wel goed zit.
 
 | Land | Geldigheid volwassene | Geldigheid kind |
 |---|---|---|
 | Verenigd Koninkrijk | 10 jaar | 5 jaar (onder 16) |
 | Verenigde Staten | 10 jaar | 5 jaar (onder 16) |
-| Australië | 10 jaar | 5 jaar (onder 16) |
-| Canada | 10 jaar | 5 jaar |
+| Australië | Doorgaans 10 jaar; vanaf 75 jaar ook 5 jaar mogelijk | 5 jaar (onder 16) |
+| Canada | Doorgaans 5 of 10 jaar, naar keuze bij de aanvraag | 5 jaar |
 | Ierland | 10 jaar | 5 jaar (onder 18) |
-| Nieuw-Zeeland | 10 jaar | 5 jaar (onder 16) |
 
 Je exacte vervaldatum staat afgedrukt op de gegevenspagina naast je foto. Die datum is de harde grens – je paspoort houdt overal ter wereld op een geldig reisdocument te zijn zodra die datum verstrijkt.
 
@@ -61,7 +60,7 @@ Voor al het overige: controleer het voordat je boekt. Je luchtvaartmaatschappij 
 
 ## Paspoorten van kinderen verlopen sneller, en gezinnen vergeten het te checken
 
-Hier lopen gezinnen elke zomer tegenaan: paspoorten van volwassenen zijn 10 jaar geldig, die van kinderen maar 5, en dat verschil creëert een specifiek probleem.
+Hier lopen gezinnen elke zomer tegenaan: nieuwe reguliere Britse paspoorten voor volwassenen zijn doorgaans 10 jaar geldig, die van kinderen 5, en dat verschil creëert een specifiek probleem.
 
 Een kind van 3 jaar dat in 2023 zijn eerste paspoort kreeg, heeft een document dat in 2028 verloopt. Tegen de tijd dat het kind 7 is en het gezin een reis naar Thailand boekt, heeft dat paspoort mogelijk nog maar een paar maanden geldigheid over – ruim onder de 6-maandeneis. Beide ouders kunnen elk nog 4 jaar geldigheid hebben en er nooit aan denken om het paspoort van het kind te controleren.
 
@@ -93,7 +92,7 @@ Officiële bronnen
 
 ### Hoe lang is een Brits paspoort geldig?
 
-Britse paspoorten van volwassenen zijn 10 jaar geldig vanaf de afgiftedatum. Paspoorten van kinderen (onder de 16 jaar) zijn 5 jaar geldig. De exacte vervaldatum staat afgedrukt op de gegevenspagina naast je foto.
+Nieuwe reguliere Britse paspoorten voor volwassenen zijn doorgaans 10 jaar geldig. Paspoorten van kinderen (onder de 16 jaar) zijn 5 jaar geldig. De exacte vervaldatum staat afgedrukt op de gegevenspagina naast je foto.
 
 ### Kan ik reizen met nog 6 maanden geldigheid op mijn paspoort?
 

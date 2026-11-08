@@ -80,7 +80,7 @@ Source: https://traveldocumentvault.com/ja/blog/
 
 ##
 
-[ファミリー旅行シェンゲン圏のパスポート規則：親が誤解しやすい家族旅行のポイント シェンゲンは出発時点から3ヶ月の有効期限を必要とします。6ヶ月ではありません。子供のパスポートは5年で期限切れになります。家族が予約する日に確認すべきです。 2026年7月10日6 分読み](https://traveldocumentvault.com/ja/blog/schengen-passport-rules-family-trips/)
+[ファミリー旅行シェンゲン圏のパスポート規則：親が誤解しやすい家族旅行のポイント シェンゲンは出発時点から3ヶ月の有効期限を必要とします。6ヶ月ではありません。英国の子どものパスポートは5年間有効です。家族が予約する日に確認すべきです。 2026年7月10日6 分読み](https://traveldocumentvault.com/ja/blog/schengen-passport-rules-family-trips/)
 
 ##
 

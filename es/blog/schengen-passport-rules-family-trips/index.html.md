@@ -1,6 +1,6 @@
 # Normas de Pasaporte Schengen para Viajes en Familia: Qué Cometen Mal los Padres
 
-> Schengen pide 3 meses de validez tras tu salida, no 6, y los pasaportes infantiles duran 5 años. Qué revisar en familia el día que reservas.
+> Schengen pide 3 meses de validez tras tu salida, no 6, y los pasaportes infantiles británicos duran 5 años. Qué revisar en familia el día que reservas.
 
 Source: https://traveldocumentvault.com/es/blog/schengen-passport-rules-family-trips/
 
@@ -10,33 +10,33 @@ Source: https://traveldocumentvault.com/es/blog/schengen-passport-rules-family-t
 
 ## Lo Más Importante
 
-- La verdadera regla de Schengen es **3 meses de validez después de la fecha en que te vas**, más un pasaporte emitido en los últimos 10 años —no es la "regla de 6 meses".
-- **Los pasaportes de los niños caducan en 5 años**, por lo que los pasaportes de una familia se desfasan y la caducidad más temprana decide el viaje.
+- Estas reglas se aplican a visitantes de fuera de la UE en estancias cortas, como las familias británicas de vacaciones. Schengen generalmente exige **3 meses de validez después de la fecha en que te vas**, más un pasaporte emitido en los últimos 10 años —no es la "regla de 6 meses".
+- **Los pasaportes infantiles británicos caducan en 5 años**, por lo que los pasaportes de una familia se desfasan y la caducidad más temprana decide el viaje.
 - Los **pasaportes británicos pre-octubre de 2018 con meses adicionales** pueden no pasar la prueba de emisión de 10 años incluso mientras el folleto sigue luciendo válido.
 - Por lo general, las aerolíneas comprueban los pasaportes contra **la base de datos Timatic de IATA** en el check-in, y un pasaporte que no pase puede dejar en tierra a toda la familia.
 - **Audita cada pasaporte el día que reservas**, no la semana que vuelas. Cinco minutos en el momento de la reserva es todo lo que necesitas.
 
-Reservar un viaje familiar a Europa generalmente comienza de la misma manera: verificas tu propio pasaporte, ves años de validez restante, y presionas confirmar. La trampa llega semanas después, cuando alguien finalmente abre el cajón y descubre que el pasaporte de un niño —emitido en un reloj más corto que el tuyo— caduca antes de lo que nadie pensaba. Nadie envía a los padres una carta de advertencia sobre esto. El mostrador de check-in entrega las noticias en su lugar.
+Reservar un viaje familiar a Europa generalmente comienza de la misma manera: verificas tu propio pasaporte, ves años de validez restante, y presionas confirmar. La trampa llega semanas después, cuando alguien finalmente abre el cajón y descubre que un pasaporte infantil británico —con una validez menor que la de un pasaporte británico de adulto— caduca antes de lo que nadie pensaba. Nadie envía a los padres una carta de advertencia sobre esto. El mostrador de check-in entrega las noticias en su lugar.
 
-Dos reglas y un detalle peculiar de los pasaportes infantiles explican casi todos los problemas familiares de Schengen, y los tres se pueden verificar en cinco minutos el día que reservas.
+Dos reglas y un detalle peculiar de los pasaportes infantiles británicos explican casi todos los problemas familiares de Schengen, y los tres se pueden verificar en cinco minutos el día que reservas.
 
-## La Verdadera Regla de Schengen: 3 Meses Después de la Salida
+## La regla de Schengen: 3 meses después de la salida
 
-El requisito de la UE es preciso: [tu pasaporte debe ser válido durante al menos 3 meses después de la fecha en que tienes la intención de dejar el área de Schengen](https://www.gov.uk/foreign-travel-advice/france/entry-requirements), y debe haber sido emitido en los últimos 10 años.
+El requisito general de la UE es: [tu pasaporte debe ser válido durante al menos 3 meses después de la fecha en que tienes la intención de dejar el área de Schengen](https://www.gov.uk/foreign-travel-advice/france/entry-requirements), y debe haber sido emitido en los últimos 10 años.
 
-Imagina que tu familia regresa de Italia el 20 de agosto. Cada pasaporte necesita validez hasta aproximadamente el 20 de noviembre —eso son tres meses después de tu fecha de salida, no tu llegada, y no tu fecha de reserva. Un pasaporte que caduca el 10 de noviembre no pasa esa prueba, incluso aunque las vacaciones terminen semanas antes.
+Imagina que tu familia regresa de Italia el 20 de agosto. Cada pasaporte generalmente necesita validez hasta aproximadamente el 20 de noviembre —eso son tres meses después de tu fecha de salida, no tu llegada, y no tu fecha de reserva. Un pasaporte que caduca el 10 de noviembre no pasa esa prueba, incluso aunque las vacaciones terminen semanas antes.
 
-La condición de emisión dentro de 10 años afecta a las familias británicas de una manera específica. Los pasaportes británicos más antiguos podían llevar meses adicionales no utilizados agregados desde un pasaporte anterior, por lo que algunos folletos muestran más de 10 años entre emisión y caducidad. Para la entrada a Schengen, esos meses adicionales no cuentan: el pasaporte debe tener menos de 10 años en el día que entres, sin importar la fecha de caducidad impresa adentro.
+La condición de emisión dentro de 10 años afecta a las familias británicas de una manera específica. Los pasaportes británicos más antiguos podían llevar meses adicionales no utilizados agregados desde un pasaporte anterior, por lo que algunos folletos muestran más de 10 años entre emisión y caducidad. Esos meses adicionales generalmente no cuentan: el pasaporte debe tener menos de 10 años en el día que entres, sin importar la fecha de caducidad impresa adentro.
 
 ## Por Qué Esto No Es la Regla de 6 Meses
 
-La mayoría de los viajeros absorben la idea de que los pasaportes necesitan seis meses de validez para ir a cualquier lugar. Esa regla es real —[Tailandia pide seis meses de validez](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), y muchos otros países aplican una versión de ella. Pero Schengen no. Europa pide tres meses después de la salida, que es más amable, y sin embargo los dos se mezclan en un vago "seis meses desde algún lugar" que produce tanto alarmas falsas como confianza falsa.
+La mayoría de los viajeros absorben la idea de que los pasaportes necesitan seis meses de validez para ir a cualquier lugar. Esa regla es real —[Tailandia pide seis meses de validez](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), y muchos otros países aplican una versión de ella. Pero Schengen no. Schengen generalmente pide tres meses después de la salida, que es más amable, y sin embargo los dos se mezclan en un vago "seis meses desde algún lugar" que produce tanto alarmas falsas como confianza falsa.
 
 Nuestra guía sobre [la regla de 6 meses](https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/) cubre qué países la aplican realmente. Nuestro [explicador de validez de pasaporte](https://traveldocumentvault.com/es/blog/how-long-is-passport-valid-for-travel/) maneja el caso general. Nos estamos quedando con Schengen aquí porque es donde las familias más a menudo se equivocan con las matemáticas de manera sutil.
 
 ![Diagrama de las cuatro fechas de caducidad de los pasaportes de una familia, en orden: hijo 2 válido hasta 2027, hijo 1 hasta 2028, mamá hasta 2030, papá hasta 2032; la fecha más temprana decide el viaje, los pasaportes de los niños duran 5 años y no 10, y Schengen exige 3 meses de margen tras la salida](https://traveldocumentvault.com/blog/schengen-passport-rules-family-trips/family-expiry-dates-figure-es.jpg) Cuatro pasaportes, cuatro relojes: el más corto marca el verdadero plazo de la familia.
 
-## Los Pasaportes de Niños Funcionan en un Reloj Más Rápido
+## Los pasaportes infantiles británicos caducan antes
 
 [Los pasaportes británicos de adultos duran 10 años](https://www.gov.uk/apply-first-adult-passport), mientras que [el Reino Unido expide los de niños solo por cinco](https://www.gov.uk/get-a-child-passport). Esa asimetría es donde muchos planes cuidadosos fracasan.
 
@@ -46,9 +46,9 @@ Nuestra guía sobre [la regla de 6 meses](https://traveldocumentvault.com/es/blo
 
 Fuente: GOV.UK.
 
-Una familia de cuatro por lo tanto opera en cuatro calendarios de caducidad diferentes. La fecha más temprana decide si el viaje sucede en absoluto. Dos adultos renovados juntos se desfasarán de los documentos de sus hijos en un par de años —que es exactamente por qué verificar tu propio pasaporte te dice casi nada sobre la disponibilidad de la familia.
+Una familia británica de cuatro por lo tanto opera en cuatro calendarios de caducidad diferentes. La fecha más temprana decide si el viaje sucede en absoluto. Dos adultos renovados juntos se desfasarán de los documentos de sus hijos en un par de años —que es exactamente por qué verificar tu propio pasaporte te dice casi nada sobre la disponibilidad de la familia.
 
-Para las familias estadounidenses hay una complicación adicional: la renovación del pasaporte de un niño puede requerir una solicitud en persona y tardar varias semanas, así que consulta las normas y los tiempos de procesamiento actuales de tu autoridad de pasaportes antes de reservar. Eso es manejable en marzo se convierte rápidamente en un problema real justo antes de la salida. Las familias británicas lo tienen un poco más fácil: solo verifica los tiempos de procesamiento actuales antes de reservar y permite tiempo extra si se necesita información.
+Para las familias estadounidenses hay una complicación adicional: la renovación del pasaporte de un niño puede requerir una solicitud en persona y tardar varias semanas, así que consulta las normas y los tiempos de procesamiento actuales de tu autoridad de pasaportes antes de reservar. Eso es manejable en marzo se convierte rápidamente en un problema real justo antes de la salida. Las familias británicas lo tienen un poco más fácil: infórmate de los plazos de tramitación actuales antes de reservar y permite tiempo extra si se necesita información.
 
 ## Realidad del Check-in: Timatic No Redondea Hacia Arriba
 
@@ -58,9 +58,9 @@ Un pasaporte fallido rara vez deja varado a una persona; deja en tierra a toda l
 
 ## Audita Cada Pasaporte el Día que Reservas
 
-La solución es simple y solo toma minutos. El día que reservas, reúne cada pasaporte en el hogar y anota cada fecha de caducidad y fecha de emisión. Luego haz dos preguntas para cada uno: ¿seguirá siendo válido tres meses después de tu regreso, y fue emitido hace menos de diez años. Cualquier cosa que no pase ninguna de las dos pruebas entra en la cola de renovación esa semana —en ese punto, aún puedes renovar, redirigir el viaje, o cambiar tus fechas sin penalización, y nosotros siempre elegiríamos renovar antes que esperar a ver si las fechas se mueven.
+La solución es simple y solo toma minutos. El día que reservas, reúne cada pasaporte en el hogar y anota cada fecha de caducidad y fecha de emisión. Haz dos preguntas para cada pasaporte: ¿seguirá siendo válido tres meses después de tu regreso y tendrá menos de diez años cuando entres? Cualquier cosa que no pase ninguna de las dos pruebas entra en la cola de renovación esa semana —en ese punto, aún puedes renovar, redirigir el viaje, o cambiar tus fechas sin penalización, y nosotros siempre elegiríamos renovar antes que esperar a ver si las fechas se mueven.
 
-Los niños necesitan el mismo amortiguador que los adultos. No hay excepción infantil para las normas de validez —el pasaporte de un niño de cinco años obtiene el mismo tratamiento de Timatic que el tuyo. Una observación para los viajes británicos e irlandeses: Irlanda no está en Schengen en absoluto. Los viajes UK-Irlanda se rigen por el [Área de Viaje Común separada](https://www.gov.uk/foreign-travel-advice/ireland/entry-requirements), así que no generalices desde un viaje a Dublín a uno a París.
+Los niños generalmente necesitan el mismo margen de validez del pasaporte que los adultos. Una observación para los viajes británicos e irlandeses: Irlanda no está en Schengen en absoluto. Los viajes UK-Irlanda se rigen por el [Área de Viaje Común separada](https://www.gov.uk/foreign-travel-advice/ireland/entry-requirements), así que no generalices desde un viaje a Dublín a uno a París.
 
 Nada de esto necesita una aplicación. Una hoja de cálculo ayuda a muchas familias, y un recordatorio de calendario dos veces al año maneja la mayor parte del trabajo. Lo único innegociable: haz la auditoría en el momento de la reserva, cuando un pasaporte corto es un recado, no una emergencia.
 
@@ -80,15 +80,15 @@ Fuentes oficiales
 
 ### ¿Cuál es la diferencia entre la regla de 6 meses y la regla de 3 meses de Schengen?
 
-Son reglas separadas para destinos diferentes. Países como Tailandia e [Indonesia](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements) generalmente requieren 6 meses de validez restante. Schengen requiere 3 meses de validez después de la fecha en que te vas, más un pasaporte emitido en los últimos 10 años. Las familias que han viajado al sudeste asiático a menudo asumen que la cifra de 6 meses se aplica en todas partes, pero no es así.
+Son reglas separadas para destinos diferentes. Países como Tailandia e [Indonesia](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements) generalmente requieren 6 meses de validez restante. Para los visitantes de fuera de la UE en estancias cortas, Schengen generalmente requiere 3 meses de validez después de la fecha en que te vas, más un pasaporte emitido en los últimos 10 años. Las familias que han viajado al sudeste asiático a menudo asumen que la cifra de 6 meses se aplica en todas partes, pero no es así.
 
 ### ¿Los niños siguen diferentes normas de pasaporte Schengen?
 
-No. Los niños necesitan los mismos 3 meses de validez después de la salida y la misma condición de emisión-dentro-de-10-años que los adultos. Lo que difiere es el pasaporte en sí: muchos países, entre ellos el Reino Unido, emiten pasaportes infantiles durante 5 años en lugar de 10, por lo que el documento de un niño alcanza estos límites mucho antes que el de un padre.
+Los niños generalmente necesitan los mismos 3 meses de validez después de la salida y, como los adultos, un pasaporte emitido en los últimos 10 años. Lo que difiere es el pasaporte en sí: el Reino Unido emite pasaportes infantiles con una validez de 5 años, frente a los 10 de los pasaportes británicos de adultos.
 
 ### ¿Cuándo debemos renovar el pasaporte de un niño antes de un viaje?
 
-Tan pronto como reserves, verifica si el pasaporte aún tendrá 3 meses de validez después de tu fecha de regreso. Si no es así, comienza de inmediato. Consulta los tiempos de procesamiento actuales del Reino Unido y permite tiempo extra si la solicitud necesita más información. Consulta los tiempos de procesamiento actuales de la autoridad que expide tu pasaporte.
+Tan pronto como reserves, revisa si el pasaporte de tu hijo aún tendrá 3 meses de validez después de tu fecha de regreso. Si no es así, comienza de inmediato. Consulta los plazos de tramitación actuales de la autoridad que expide tu pasaporte, incluidos los del Reino Unido si solicitas un pasaporte británico, y deja tiempo extra si se necesita más información.
 
 ### ¿Podemos volar mientras se está renovando el pasaporte de un niño?
 

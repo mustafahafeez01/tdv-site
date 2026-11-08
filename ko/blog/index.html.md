@@ -80,7 +80,7 @@ Source: https://traveldocumentvault.com/ko/blog/
 
 ##
 
-[가족 여행가족 여행을 위한 솅겐 여권 규정: 부모들이 자주 하는 실수 솅겐은 출발 이후 3개월의 유효성이 필요합니다 (6개월이 아님). 그리고 아이 여권은 5년 후 만료됩니다. 예약하는 날 가족이 확인해야 할 사항입니다. 2026년 7월 10일6분 읽기](https://traveldocumentvault.com/ko/blog/schengen-passport-rules-family-trips/)
+[가족 여행가족 여행을 위한 솅겐 여권 규정: 부모들이 자주 하는 실수 솅겐은 출발 이후 3개월의 유효성이 필요합니다 (6개월이 아님). 그리고 영국 어린이 여권의 유효기간은 5년입니다. 예약하는 날 가족이 확인해야 할 사항입니다. 2026년 7월 10일6분 읽기](https://traveldocumentvault.com/ko/blog/schengen-passport-rules-family-trips/)
 
 ##
 

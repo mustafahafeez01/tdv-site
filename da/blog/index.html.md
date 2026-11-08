@@ -80,7 +80,7 @@ Source: https://traveldocumentvault.com/da/blog/
 
 ##
 
-[Familierejser Schengens pasregler for familierejser: det, forældre tager fejl af Schengen kræver 3 måneders gyldighed efter afrejse, ikke 6 – og børns pas udløber efter 5 år. Det bør familier tjekke, den dag de booker. 10. juli 20266 min. læsning](https://traveldocumentvault.com/da/blog/schengen-passport-rules-family-trips/)
+[Familierejser Schengens pasregler for familierejser: det, forældre tager fejl af Schengen kræver 3 måneders gyldighed efter afrejse, ikke 6 – og britiske børnepas gælder i 5 år. Det bør familier tjekke, den dag de booker. 10. juli 20266 min. læsning](https://traveldocumentvault.com/da/blog/schengen-passport-rules-family-trips/)
 
 ##
 
@@ -156,7 +156,7 @@ Source: https://traveldocumentvault.com/da/blog/
 
 ##
 
-[Fornyelse Hvor lang tid tager en pasfornyelse? (USA, Storbritannien, Australien, Canada) Hvor lang tid tager en pasfornyelse? Det afhænger mere af din situation end af dit land. Her er, hvad der reelt bremser processen, og hvor du tjekker aktuelle tider. 10. feb. 20267 min. læsning](https://traveldocumentvault.com/da/blog/how-long-does-passport-renewal-take/)
+[Fornyelse Hvor lang tid tager en pasfornyelse? (USA, Storbritannien, Australien, Canada) Tiden for pasfornyelse afhænger af ansøgningssted og service. Hvad der kan forsinke ansøgningen, og hvor du ser aktuelle tider for dit land. 10. feb. 20267 min. læsning](https://traveldocumentvault.com/da/blog/how-long-does-passport-renewal-take/)
 
 ##
 

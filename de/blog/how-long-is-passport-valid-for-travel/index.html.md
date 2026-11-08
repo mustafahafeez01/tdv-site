@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/de/blog/how-long-is-passport-valid-for-t
 
 ## Wichtigste Erkenntnisse
 
-- **Viele Reisepässe für Erwachsene sind ab dem Ausstellungsdatum bis zu 10 Jahre gültig.** Kinderreisepässe verfallen normalerweise nach 5 Jahren.
+- **Neu ausgestellte britische Standardreisepässe für Erwachsene sind in der Regel 10 Jahre gültig.** Kinderreisepässe verfallen normalerweise nach 5 Jahren.
 - Ihr Reisepass muss nicht abgelaufen sein, damit Ihnen die Reise verwehrt wird. **Boarding oder Einreise können verweigert werden,** wenn die Restgültigkeit die Anforderungen des Ziellands nicht erfüllt.
 - Beliebte Ziele wie Thailand, Vietnam und Indonesien verlangen für britische Passinhaber in der Regel **mindestens 6 Monate Gültigkeit am Tag der Ankunft** – Schengen-Länder zählen dagegen vom geplanten Abreisedatum aus. Prüfen Sie daher jedes Zielland.
 - Kinderreisepässe verfallen schneller als die der Eltern – **überprüfen Sie jeden Reisepass in Ihrer Gruppe einzeln** vor der Buchung, nicht nur Ihren.
@@ -22,16 +22,15 @@ Dies ist eine der am häufigsten missverstandenen Reiseregeln. Ein Reisepass, de
 
 ## Reisepässe für Erwachsene gelten weit länger als die für Kinder
 
-Die standardmäßige Gültigkeitsdauer für einen Reisepass für Erwachsene beträgt ab dem Ausstellungsdatum in den meisten Ländern 10 Jahre. Kinderreisepässe verfallen schneller – [normalerweise nach 5 Jahren](https://www.gov.uk/get-a-child-passport). Wir würden den Reisepass eines Kindes vor allen anderen prüfen, denn bei ihm gehen alle davon aus, dass schon alles in Ordnung ist.
+Neu ausgestellte britische Standardreisepässe für Erwachsene sind in der Regel 10 Jahre gültig. Kinderreisepässe verfallen schneller – [normalerweise nach 5 Jahren](https://www.gov.uk/get-a-child-passport). Wir würden den Reisepass eines Kindes vor allen anderen prüfen, denn bei ihm gehen alle davon aus, dass schon alles in Ordnung ist.
 
 | Land | Gültigkeit Erwachsene | Gültigkeit Kinder |
 |---|---|---|
 | Vereinigtes Königreich | 10 Jahre | 5 Jahre (unter 16) |
 | Vereinigte Staaten | 10 Jahre | 5 Jahre (unter 16) |
-| Australien | 10 Jahre | 5 Jahre (unter 16) |
-| Kanada | 10 Jahre | 5 Jahre |
+| Australien | In der Regel 10 Jahre; ab 75 Jahren wahlweise 5 Jahre | 5 Jahre (unter 16) |
+| Kanada | In der Regel 5 oder 10 Jahre, bei der Beantragung wählbar | 5 Jahre |
 | Irland | 10 Jahre | 5 Jahre (unter 18) |
-| Neuseeland | 10 Jahre | 5 Jahre (unter 16) |
 
 Ihr genaues Verfallsdatum ist auf der Datenseite neben Ihrem Foto aufgedruckt. Dieses Datum ist die harte Grenze – Ihr Reisepass ist kein gültiges Reisedokument mehr, wenn es diesen Punkt überschreitet.
 
@@ -61,7 +60,7 @@ Prüfen Sie alle anderen Anforderungen vor der Buchung. Ihre Fluggesellschaft od
 
 ## Kinderreisepässe laufen schneller ab, und Familien vergessen die Prüfung
 
-Hier werden Familien jeden Sommer erwischt. Reisepässe für Erwachsene sind 10 Jahre gültig. Kinderreisepässe verfallen nach 5 Jahren. Diese Lücke schafft ein besonderes Problem.
+Hier werden Familien jeden Sommer erwischt. Neu ausgestellte britische Standardreisepässe für Erwachsene sind in der Regel 10 Jahre gültig. Kinderreisepässe verfallen nach 5 Jahren. Diese Lücke schafft ein besonderes Problem.
 
 Ein 3-Jähriger, der 2023 seinen ersten Reisepass bekam, hat ein Dokument, das 2028 abläuft. Wenn sie 7 Jahre alt sind und die Familie eine Reise nach Thailand bucht, kann dieser Reisepass nur noch wenige Monate Gültigkeit haben – weit entfernt von der 6-Monats-Anforderung. Beide Eltern könnten 4 Jahre Gültigkeit jeder haben und würden nie daran denken, den Kinderreisepass zu überprüfen.
 
@@ -93,7 +92,7 @@ Offizielle Quellen
 
 ### Wie lange ist ein britischer Reisepass gültig?
 
-Britische Reisepässe für Erwachsene sind ab dem Ausstellungsdatum 10 Jahre gültig. Kinderreisepässe (unter 16 Jahren) sind 5 Jahre gültig. Das genaue Verfallsdatum ist auf der Datenseite neben Ihrem Foto aufgedruckt.
+Neu ausgestellte britische Standardreisepässe für Erwachsene sind in der Regel 10 Jahre gültig. Kinderreisepässe (unter 16 Jahren) sind 5 Jahre gültig. Das genaue Verfallsdatum ist auf der Datenseite neben Ihrem Foto aufgedruckt.
 
 ### Kann ich mit 6 Monaten Gültigkeit auf meinem Reisepass reisen?
 

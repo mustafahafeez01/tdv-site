@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/it/blog/how-long-is-passport-valid-for-t
 
 ## Punti chiave
 
-- **Molti passaporti per adulti sono validi fino a 10 anni** dalla data di rilascio. I passaporti per bambini di solito scadono dopo 5 anni.
+- **I nuovi passaporti britannici standard per adulti sono generalmente validi per 10 anni**. I passaporti per bambini di solito scadono dopo 5 anni.
 - Il passaporto non deve nemmeno essere scaduto perché ti rifiutino. **Possono negarti l’imbarco o l’ingresso** quando la validità rimanente è inferiore al requisito della destinazione.
 - Destinazioni popolari come Tailandia, Vietnam e Indonesia generalmente richiedono **almeno 6 mesi di validità nel giorno dell'arrivo** per i titolari di passaporto britannico — mentre i paesi Schengen contano dalla data in cui prevedi di partire, quindi controlla ogni destinazione.
 - I passaporti dei bambini scadono più velocemente di quelli dei genitori — **controlla ogni passaporto nel tuo gruppo individualmente** prima di prenotare, non solo il tuo.
@@ -22,16 +22,15 @@ Sette mesi di validità sul passaporto sembrano parecchi. Prenoti i voli, contro
 
 ## I passaporti per adulti durano molto più di quelli dei bambini
 
-Nella maggior parte dei paesi un passaporto per adulti è valido 10 anni dalla data di rilascio. I passaporti per bambini scadono più presto — [tipicamente 5 anni](https://www.gov.uk/get-a-child-passport). Noi controlleremmo il passaporto di un bambino prima di quello di chiunque altro, perché è quello che tutti danno per scontato sia a posto.
+I nuovi passaporti britannici standard per adulti sono generalmente validi per 10 anni. I passaporti per bambini scadono più presto — [tipicamente 5 anni](https://www.gov.uk/get-a-child-passport). Noi controlleremmo il passaporto di un bambino prima di quello di chiunque altro, perché è quello che tutti danno per scontato sia a posto.
 
 | Paese | Validità adulti | Validità bambini |
 |---|---|---|
 | Regno Unito | 10 anni | 5 anni (sotto 16) |
 | Stati Uniti | 10 anni | 5 anni (sotto 16) |
-| Australia | 10 anni | 5 anni (sotto 16) |
-| Canada | 10 anni | 5 anni |
+| Australia | Di norma 10 anni; dai 75 anni si può scegliere una durata di 5 anni | 5 anni (sotto 16) |
+| Canada | Di norma 5 o 10 anni, a scelta al momento della domanda | 5 anni |
 | Irlanda | 10 anni | 5 anni (sotto 18) |
-| Nuova Zelanda | 10 anni | 5 anni (sotto 16) |
 
 La tua data esatta di scadenza è stampata sulla pagina dati accanto alla tua foto. Quella data è il limite assoluto: superata, il passaporto non vale più come documento di viaggio in nessuna parte del mondo.
 
@@ -61,7 +60,7 @@ Per tutto il resto, controlla prima di prenotare. La compagnia aerea o la pagina
 
 ## I passaporti dei bambini scadono prima, e le famiglie dimenticano di controllarli
 
-È qui che le famiglie vengono colte di sorpresa ogni estate. I passaporti per adulti sono validi per 10 anni. I passaporti per bambini scadono dopo 5. Quella differenza crea un problema specifico.
+È qui che le famiglie vengono colte di sorpresa ogni estate. I nuovi passaporti britannici standard per adulti sono generalmente validi per 10 anni. I passaporti per bambini scadono dopo 5. Quella differenza crea un problema specifico.
 
 Un bambino di 3 anni che ha ottenuto il suo primo passaporto nel 2023 ha un documento che scade nel 2028. Quando il bambino avrà 7 anni e la famiglia prenoterà un viaggio in Tailandia, quel passaporto potrebbe avere solo pochi mesi di validità residua — ben al di sotto del requisito di 6 mesi. Entrambi i genitori potrebbero avere 4 anni di validità ciascuno e non pensare mai a controllare il documento del bambino.
 
@@ -93,7 +92,7 @@ Fonti ufficiali
 
 ### Per quanto tempo è valido un passaporto britannico?
 
-I passaporti britannici per adulti sono validi per 10 anni dalla data di rilascio. I passaporti per bambini (sotto 16) sono validi per 5 anni. La data esatta di scadenza è stampata sulla pagina dati accanto alla tua foto.
+I nuovi passaporti britannici standard per adulti sono generalmente validi per 10 anni. I passaporti per bambini (sotto 16) sono validi per 5 anni. La data esatta di scadenza è stampata sulla pagina dati accanto alla tua foto.
 
 ### Posso viaggiare con 6 mesi rimasti sul mio passaporto?
 

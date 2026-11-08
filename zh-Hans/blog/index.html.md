@@ -80,7 +80,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/
 
 ##
 
-[家庭旅行申根护照规则帮助家庭计划旅行：父母最常犯的错误 申根地区需要护照有效期超过出发日期3个月，而不是6个月——儿童护照也是5年有效期。以下是家庭应该在预订当天了解的事项。 2026年7月10日6 分钟读完](https://traveldocumentvault.com/zh-Hans/blog/schengen-passport-rules-family-trips/)
+[家庭旅行申根护照规则帮助家庭计划旅行：父母最常犯的错误 申根地区需要护照有效期超过出发日期3个月，而不是6个月——英国儿童护照有效期为5年。以下是家庭应该在预订当天了解的事项。 2026年7月10日6 分钟读完](https://traveldocumentvault.com/zh-Hans/blog/schengen-passport-rules-family-trips/)
 
 ##
 

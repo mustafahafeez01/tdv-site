@@ -1,6 +1,6 @@
 # Wie lange dauert eine Reisepasserneuerung? (USA, UK, Australien, Kanada)
 
-> Bearbeitungszeiten für die Reisepasserneuerung in den USA, UK, Australien und Kanada, und wann Sie den Antrag stellen sollten.
+> Passerneuerung: Dauer je nach Antragsort und Service. Was Anträge verzögern kann und wo Sie aktuelle Bearbeitungszeiten für Ihr Land finden.
 
 Source: https://traveldocumentvault.com/de/blog/how-long-does-passport-renewal-take/
 
@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/de/blog/how-long-does-passport-renewal-t
 ## Wichtigste Erkenntnisse
 
 - Wie lange eine Reisepasserneuerung dauert, hängt von Ihrem Land, Ihrer Situation und der Jahreszeit ab, in der Sie beantragen – es gibt keine einzelne Zahl, die lange zuverlässig bleibt, deshalb nennen wir in diesem Leitfaden bewusst keine.
-- Die meisten Länder haben eine Standard-Warteschlange plus eine oder mehrere kostenpflichtige, schnellere Routen. Die schnelleren Routen kaufen Ihnen eine frühere Position oder einen buchbaren Termin – sie überspringen keine Prüfungen.
+- Für die reguläre Bearbeitung und schnellere Dienste gelten unterschiedliche Bearbeitungszeiten. Welche schnelleren Verfahren verfügbar sind, hängt davon ab, wo Sie den Antrag stellen und welche Voraussetzungen Sie erfüllen.
 - Eine Handvoll Situationen verlangsamt die Bearbeitung zuverlässig: ein Namenswechsel, ein erster Erwachsenen-Reisepass, ein Antrag für ein Kind, ein verlorener oder beschädigter Reisepass, zusätzliche Sicherheitsprüfungen, Spitzenzeiten und ein Antrag aus dem Ausland.
 - Der sicherste Ansatz: Beantragen Sie, sobald die verbleibende Gültigkeit Ihres Reisepasses knapp wird, rückwärts gerechnet von Ihrem tatsächlichen Reisedatum, statt zu raten.
 - Für die Zahl, die gerade zählt, gehen Sie zu Ihrer eigenen Reisepassbehörde – dem HM Passport Office, dem US State Department, dem Australian Passport Office oder Ihrem nationalen Äquivalent – nicht zu einem Blogbeitrag.
@@ -20,27 +20,31 @@ Sie haben Flüge für eine Reise in fünf Monaten gebucht. Sie packen die Reisep
 
 Es gibt keine einzelne Zahl, und jeder Artikel, der Ihnen eine nennt, wettet still darauf, dass Sie nie merken, wann sie veraltet.
 
-Bearbeitungszeiten bewegen sich mit Personalstand, Antragsvolumen und Jahreszeit, sodass eine heute korrekte Zahl innerhalb weniger Monate leicht falsch sein kann. Was sich dagegen kaum ändert, ist die Form der Entscheidung selbst: Jede Reisepassbehörde betreibt eine Standard-Warteschlange und mindestens einen kostenpflichtigen Weg, um schneller voranzukommen, und eine bestimmte Gruppe von Situationen verlangsamt einen Antrag zuverlässig, unabhängig davon, welches Land ihn ausstellt. Genau das behandelt dieser Leitfaden – zusammen mit der genauen Stelle, an der Sie die für Sie gültige Zahl gerade jetzt nachschlagen können.
+Bearbeitungszeiten ändern sich, sodass eine heute korrekte Zahl innerhalb weniger Monate leicht falsch sein kann. Was sich dagegen kaum ändert, ist die Form der Entscheidung selbst: Welche regulären und schnelleren Verfahren verfügbar sind, hängt davon ab, wo Sie den Antrag stellen und welche Voraussetzungen Sie erfüllen, und eine bestimmte Gruppe von Situationen verlangsamt einen Antrag zuverlässig, unabhängig davon, welches Land ihn ausstellt. Genau das behandelt dieser Leitfaden – zusammen mit der genauen Stelle, an der Sie die für Sie gültige Zahl gerade jetzt nachschlagen können.
 
-**Hinweis:** Wir nennen hier absichtlich keine Bearbeitungszeiten. Sie verschieben sich mit der Jahreszeit und dem Personalstand, und eine heute korrekte Zahl kann innerhalb weniger Monate falsch sein. Ihre eigene Reisepassbehörde veröffentlicht die aktuelle Zahl – das HM Passport Office, das US State Department, das Australian Passport Office oder Ihr nationales Äquivalent – und das ist die einzige Quelle, der es sich zu vertrauen lohnt.
+**Hinweis:** Wir nennen hier absichtlich keine Bearbeitungszeiten. Sie ändern sich, und eine heute korrekte Zahl kann innerhalb weniger Monate falsch sein. Ihre eigene Reisepassbehörde veröffentlicht die aktuelle Zahl – das HM Passport Office, das US State Department, das Australian Passport Office oder Ihr nationales Äquivalent – und das ist die einzige Quelle, der es sich zu vertrauen lohnt.
 
-## Wie lange dauert eine Reisepasserneuerung in den USA?
+## Reguläre und schnellere Verfahren zur Reisepasserneuerung
 
-Das US State Department veröffentlicht seine aktuellen Bearbeitungszeiten auf travel.state.gov, und diese ändern sich das ganze Jahr über mit Nachfrage und Personalstand. Es gibt drei Wege:
+Prüfen Sie zunächst die reguläre Bearbeitungszeit Ihrer Reisepassbehörde und dann, ob für Ihre Situation ein schnellerer Dienst verfügbar ist.
 
-- **Regulär:** die Standard-Warteschlange, ohne Priorität.
-- **Beschleunigt:** bringt Sie gegen eine zusätzliche Gebühr weiter vorne in die Warteschlange, ohne dass Prüfungen übersprungen werden.
-- **Notfall-Termin (persönlich):** für Reisen, die wirklich unmittelbar bevorstehen, mit Nachweis des Reisedatums – buchbar bei einer regionalen Reisepassbehörde.
+Das Vereinigte Königreich bietet einen 1 Week Fast Track Service mit Zustellung 1 Woche nach dem Termin sowie einen 1 Day Premium Service ausschließlich für die Erneuerung von Reisepässen für Erwachsene. Die Möglichkeiten unterscheiden sich von Land zu Land, auch bei den Voraussetzungen.
 
-Notfall-Termine sind für dokumentierte, unmittelbar bevorstehende Reisen verfügbar. Buchen Sie auf travel.state.gov und bringen Sie einen Reisebeleg mit – sie werden Sie nicht ohne sehen.
+Wer für eine schnellere Bearbeitung zahlt, sollte genau prüfen, was der Dienst umfasst. Für einen schnelleren Dienst gelten eigene Bearbeitungszeiten und Anforderungen an Unterlagen, Fotos und Identitätsnachweise. Wenn Ihr Formular fehlerhaft ist oder Ihr Foto nicht den Vorgaben entspricht, hilft auch eine zusätzliche Zahlung nicht.
+
+| Verfahren | Was Sie tatsächlich erhalten |
+|---|---|
+| Standard | Reguläre Bearbeitung nach den aktuellen Zeitangaben Ihrer Reisepassbehörde. |
+| Kostenpflichtige Express- / Fast-Track- / Priority-Bearbeitung | Ein schnellerer Dienst, sofern verfügbar. Wer ihn nutzen kann und welche Unterlagen einzureichen sind, hängt von der Behörde und dem Dienst ab. |
+| Persönlicher Notfall-Termin | Ein Termin für einen dringenden Antrag, der die Voraussetzungen erfüllt. Welche Reisenachweise Sie benötigen, hängt von der Behörde und dem Dienst ab. |
+
+Wenn Ihre Reise unmittelbar bevorsteht, prüfen Sie auf travel.state.gov die aktuellen Voraussetzungen des US State Department für Eil- und Notfalltermine sowie die erforderlichen Nachweise.
 
 Die USA bieten ein Online-Erneuerungsprogramm für berechtigte Erwachsene. Überprüfen Sie travel.state.gov, um die aktuellen Voraussetzungen zu sehen und ob das Programm derzeit Anträge annimmt.
 
-**Ein wichtiger Vorbehalt: Veröffentlichte Zeiten sind Durchschnitte, keine Garantien.** Überprüfen Sie travel.state.gov auf die aktuelle Zahl, bevor Sie einen Antrag stellen, denn in Spitzenzeiten verläuft die reguläre Bearbeitung regelmäßig weit über die veröffentlichten Schätzungen hinaus. Wenn Ihre Reise nah bevorsteht, wird die zusätzliche Gebühr für beschleunigte Bearbeitung meist durch die gewonnene Gewissheit und Planungssicherheit mehr als aufgewogen.
-
 Was das in der Praxis bedeutet
 
-Wenn Sie während einer Spitzenzeit reisen und Ihr Reisepass knapp wird, kauft Ihnen die Zahlung für die schnellere Route Gewissheit: eine frühere Position in der Warteschlange, unabhängig davon, wie lang der Standard-Rückstau in diesem Monat geworden ist. Bleiben Sie stattdessen während einer Spitzenzeit bei der regulären Bearbeitung, wetten Sie darauf, dass die veröffentlichte Zeitschätzung noch der Realität entspricht – und genau diese Annahme wird Menschen zum Verhängnis.
+Wenn Sie während einer Spitzenzeit reisen und Ihr Reisepass knapp wird, kann ein schnelleres Verfahren helfen, sofern Sie die Voraussetzungen erfüllen und die Bearbeitungszeit zu Ihrer Reise passt. Prüfen Sie vor der Auswahl, wann diese Frist beginnt, und planen Sie die Zustellung mit ein.
 
 ## Wie lange dauert eine Reisepasserneuerung im Vereinigten Königreich?
 
@@ -48,21 +52,21 @@ Das HM Passport Office veröffentlicht seine eigene aktuelle Bearbeitungszeit au
 
 ![Diagramm eines Antrags auf dem Weg zum fertigen Reisepass über sechs mögliche Verzögerungen: Namenswechsel, erster Erwachsenenreisepass, Antrag für ein Kind, verloren oder beschädigt, zusätzliche Prüfungen oder ein Interview, und Antrag aus dem Ausland](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/passport-renewal-timeline-de.jpg) Sechs Situationen bremsen einen Antrag aus. Eine unkomplizierte Erneuerung überspringt sie alle.
 
-Das Vereinigte Königreich bietet einen Service für digitale Erneuerungen für berechtigte Erwachsene, die von **Großbritannien aus** einen Antrag stellen. Wenn Sie berechtigt sind, müssen Sie Ihren alten Reisepass nicht einschicken, aber weiterhin ein Foto vorlegen, das die offiziellen Anforderungen erfüllt. Die Bewerbung erfolgt vollständig online. **Wenn Sie ein UK-Bürger sind, der im Ausland lebt** (ein Auswanderer), ist der digitale Dienst für Sie nicht verfügbar. Sie müssen den Auslandsdienst auf GOV.UK nutzen, den Sie für Anträge aus dem Ausland nutzen müssen. Für dringende Fälle bietet das HM Passport Office einen 1 Week Fast Track Service sowie, nur für Erneuerungen von Erwachsenen, einen [1 Day Premium Service](https://www.gov.uk/get-a-passport-urgently) mit Terminen ab 2 Tagen nach Antragstellung. Überprüfen Sie GOV.UK für den korrekten Dienst und die aktuelle Zahl für Ihre Situation, der Dienst fragt zu Beginn der Bewerbung nach Ihrem Standort.
+Das Vereinigte Königreich bietet einen Service für digitale Erneuerungen für berechtigte Erwachsene, die vom **Vereinigten Königreich aus** einen Antrag stellen. Wenn Sie berechtigt sind, können Sie den Antrag online stellen und müssen ein Foto vorlegen, das die offiziellen Anforderungen erfüllt. Ihren alten Reisepass müssen Sie weiterhin einschicken. **Wenn Sie ein UK-Bürger sind, der im Ausland lebt** (ein Auswanderer), ist der digitale Dienst für Sie nicht verfügbar. Sie müssen den Auslandsdienst auf GOV.UK nutzen, den Sie für Anträge aus dem Ausland nutzen müssen. Für dringende Fälle bietet das HM Passport Office einen 1 Week Fast Track Service mit Zustellung 1 Woche nach Ihrem Termin sowie, ausschließlich für die Erneuerung von Reisepässen für Erwachsene, einen [1 Day Premium Service](https://www.gov.uk/get-a-passport-urgently) mit Terminen frühestens 2 Tage nach Antragstellung. Überprüfen Sie GOV.UK für den korrekten Dienst und die aktuelle Zahl für Ihre Situation, der Dienst fragt zu Beginn der Bewerbung nach Ihrem Standort.
 
-Ein Namenswechsel, ein erster Erwachsenen-Reisepass oder eine Bewerbung, die zusätzliche Überprüfungen erfordert, dauert länger. Reisepässe für Kinder können den digitalen Service überhaupt nicht nutzen – sie durchlaufen nur das Standardverfahren. Überprüfen Sie vor der Antragstellung GOV.UK auf die aktuelle Zahl, die für Ihre Situation relevant ist.
+Ein Namenswechsel, ein erster Erwachsenen-Reisepass oder eine Bewerbung, die zusätzliche Überprüfungen erfordert, dauert länger. Welche Verfahren für Reisepässe für Kinder verfügbar sind, hängt von den jeweiligen Voraussetzungen ab. Überprüfen Sie vor der Antragstellung GOV.UK auf die aktuelle Zahl, die für Ihre Situation relevant ist.
 
 ## Wie lange dauert eine Reisepasserneuerung in Australien?
 
-Das Australian Passport Office ist die einzig verlässliche Quelle für aktuelle Zeiten, da sie sich mit dem Antragsvolumen und der Jahreszeit bewegen. Für Erwachsene, die persönlich oder über Australia Post beantragen, stehen zusätzlich zur Standard-Warteschlange Fast-Track- und Priority-Bearbeitung zur Verfügung, beide gegen eine zusätzliche Gebühr buchbar, für alle, die schneller vorankommen müssen.
+Das Australian Passport Office ist die einzig verlässliche Quelle für aktuelle Bearbeitungszeiten, da sich diese ändern. Schnellere Optionen hängen davon ab, wo Sie den Antrag stellen. Laut der Australian High Commission in London gibt es bei Anträgen außerhalb Australiens keine Priority- oder Fast-Track-Bearbeitung.
 
-Australiens Standard-Bearbeitung ist in der Regel schneller als in den USA und im UK, kann sich aber in Spitzenzeiten dennoch verlängern. Beantragen Sie so früh wie vernünftigerweise möglich vor Ihrer Reise, und überprüfen Sie passports.gov.au auf die aktuelle Zeit, bevor Sie einreichen.
+Beantragen Sie so früh wie vernünftigerweise möglich vor Ihrer Reise, und überprüfen Sie passports.gov.au auf die aktuelle Zeit, bevor Sie einreichen.
 
 Reisepass-Anträge für Kinder sind eine andere Geschichte. Sie sind komplexer und dauern länger als Erneuerungen für Erwachsene, besonders wenn Zustimmungsanforderungen der Eltern beteiligt sind.
 
 ## Wie lange dauert eine Reisepasserneuerung in Kanada?
 
-Immigration, Refugees and Citizenship Canada (IRCC) bietet eine [Online-Erneuerung](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html) an, wenn Sie den Reisepass frühestens in 20 Werktagen benötigen; alle anderen nutzen das Papierverfahren. Für dringende Reisen gibt es persönliche Notfall- und Express-Optionen gegen eine zusätzliche Gebühr.
+Immigration, Refugees and Citizenship Canada (IRCC) bietet eine [Online-Erneuerung](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html) für berechtigte Antragsteller an, die in den nächsten 20 Werktagen nicht reisen. Das ist jedoch nur eine der Voraussetzungen für einen Online-Antrag. Für dringende Reisen gibt es persönliche Notfall- und Express-Optionen gegen eine zusätzliche Gebühr.
 
 Das macht den Prozess logistisch anspruchsvoller – besonders wenn Sie irgendwo ländlich leben und die nächste Behörde weit entfernt ist. Überprüfen Sie die IRCC-Seite auf die aktuellen Bearbeitungszeiten, bevor Sie einen Antrag stellen, und rechnen Sie bei postalischen Anträgen die Versandzeit in beide Richtungen mit ein.
 
@@ -77,14 +81,9 @@ Unabhängig davon, welches Land Sie erneuer durchlaufen, die gleichen Fehler ver
 
 ## Können Sie reisen, während Ihr Reisepass erneuert wird?
 
-Manchmal – sofern Ihr aktueller Reisepass noch gültig ist und Sie ihn nicht im Rahmen des Antrags abgegeben haben. Manche Behörden verlangen den aktuellen Reisepass mit dem Antrag; klären Sie das vor der Buchung. Sobald Sie ihn eingeschickt haben, müssen Sie auf den neuen warten.
+Manchmal – sofern Ihr aktueller Reisepass noch gültig ist und Sie ihn nicht im Rahmen des Antrags abgegeben haben. Manche Behörden verlangen den aktuellen Reisepass mit dem Antrag; andere lassen Sie ihn während der Bearbeitung weiter nutzen und machen ihn ungültig, sobald der neue ausgestellt ist. Klären Sie das vor der Buchung oder Reise. Sobald Sie ihn eingeschickt haben, müssen Sie auf den neuen warten.
 
-Die Regeln variieren je nach Land:
-
-- **Vereinigte Staaten:** Sie können mit einem gültigen Reisepass reisen, während Ihr Erneuerungs-Antrag läuft. Wenn Sie Ihren Reisepass mit der Erneuerungs-Bewerbung eingereicht haben (in manchen Fällen erforderlich), können Sie nicht reisen, bis Sie ihn zurückbekommen. Fragen Sie nach der Option "beschleunigt aufgrund von Reisen", wenn Sie unmittelbar bevorstehende Reisen haben.
-- **Vereinigtes Königreich:** Sie können Ihren alten Reisepass verwenden, um zu reisen, während ein neuer läuft – solange der alte noch gültig ist. Sobald Sie ihn bei HMPO eingereicht haben, können Sie ihn nicht mehr verwenden. Reichen Sie Ihren Reisepass nicht ein, wenn eine Reise bevorsteht.
-- **Australien:** Ähnliches Prinzip – Ihr aktueller Reisepass bleibt gültig und nutzbar, während die Erneuerung läuft, es sei denn, Sie haben ihn persönlich eingereicht.
-- **Kanada:** Sie können mit einem gültigen Reisepass reisen, während ein Erneuerungs-Antrag läuft, solange Sie Ihren aktuellen Reisepass nicht als Teil des Prozesses abgegeben haben.
+Prüfen Sie bei Ihrer Reisepassbehörde, ob Sie den alten Reisepass behalten und während der Bearbeitung nutzen dürfen und wann er ungültig wird.
 
 **Die kritische Ausnahme:** Ein Visum ist an den Reisepass gebunden, in dem es eingetragen ist. Prüfen Sie die Regeln des Ziellands, bevor Sie fliegen, besonders wenn Sie mit einem alten Reisepass reisen, während ein neuer läuft.
 
@@ -92,8 +91,8 @@ Die Regeln variieren je nach Land:
 
 Sie haben Reisen für die nächsten paar Wochen gebucht und Ihr Reisepass läuft bald ab. Geraten Sie nicht in Panik – aber handeln Sie schnell:
 
-1. **Rufen Sie Ihre Reisepass-Behörde an – surfen Sie nicht einfach auf der Website.** Die meisten Behörden bieten Eilverfahren mit bestimmten Voraussetzungen an. Ein Anruf klärt, was für Sie verfügbar ist – die britischen Eildienste stehen bei Anträgen aus dem Ausland nicht zur Verfügung.
-2. **Vor dem Anruf Ihre Unterlagen zusammenstellen.** Sie benötigen einen Reisebeleg (Buchungsbestätigungen mit Daten), Ihren aktuellen Reisepass, Fotos und ausgefüllte Formulare. Haben Sie alles bereit – Notfall-Termine laufen schnell ab.
+1. **Prüfen Sie den Eildienst Ihrer Reisepassbehörde.** Im Vereinigten Königreich werden Eiltermine bei erfüllten Voraussetzungen online gebucht. Wenn Sie sich außerhalb des Vereinigten Königreichs befinden, beantragen Sie stattdessen ein Notfallreisedokument.
+2. **Stellen Sie zunächst Ihre Unterlagen zusammen.** Sie benötigen einen Reisebeleg (Buchungsbestätigungen mit Daten), Ihren aktuellen Reisepass, Fotos und ausgefüllte Formulare. Haben Sie alles bereit – Notfall-Termine laufen schnell ab.
 3. **Überprüfen Sie Ihre Reiseversicherungspolice.** Einige Policen decken zusätzliche Kosten durch eine Notfall-Reisepass-Erneuerung ab. Die meisten schließen Situationen aus, bei denen die Erneuerung vorhersehbar war – aber es lohnt sich, einen Blick darauf zu werfen, bevor Sie das Geld ausgeben.
 4. **Fragen Sie nach einer Reise-Umplanung.** Fluggesellschaften und Hotels variieren, aber viele verzichten auf Gebühren für dokumentierte Reisepass-Notfälle. Es ist nicht garantiert, aber es kostet nichts, zu fragen.
 
@@ -112,27 +111,27 @@ Offizielle Quellen
 
 ### Wie lange dauert eine Reisepasserneuerung in den USA?
 
-Wir können hier keine feste Zahl nennen, weil sich die Bearbeitungszeiten des US State Department das ganze Jahr über mit Nachfrage und Personalstand ändern. Die reguläre Bearbeitung ist die Standard-Warteschlange; wer für beschleunigte Bearbeitung zahlt, rückt in dieser Warteschlange vor, ohne dass Prüfungen übersprungen werden. Wenn Ihre Reise wirklich unmittelbar bevorsteht, kommen Sie möglicherweise für einen persönlichen Termin bei einer regionalen Reisepassbehörde infrage, benötigen aber einen Reisebeleg. Überprüfen Sie travel.state.gov auf die aktuelle Zahl, bevor Sie einen Antrag stellen.
+Wir können hier keine feste Zahl nennen, weil die Bearbeitungszeiten für US-Reisepässe variieren. Eine beschleunigte Bearbeitung ist möglicherweise verfügbar. Wenn Ihre Reise wirklich unmittelbar bevorsteht, prüfen Sie die aktuellen Voraussetzungen des State Department für Eil- und Notfalltermine sowie die erforderlichen Nachweise. Überprüfen Sie travel.state.gov auf die aktuelle Zahl, bevor Sie einen Antrag stellen.
 
 ### Wie lange dauert eine Reisepasserneuerung im Vereinigten Königreich?
 
-Das HM Passport Office veröffentlicht seine eigene aktuelle Bearbeitungszeit, und sie ändert sich oft genug, dass eine hier genannte Zahl beim Lesen wahrscheinlich schon veraltet wäre. Berechtigte Erwachsene, die von Großbritannien aus einen Antrag stellen, können den digitalen Erneuerungsdienst nutzen, der das Einschicken des Reisepasses überspringt, aber weiterhin ein Foto benötigt, das die offiziellen Anforderungen erfüllt. Wenn Sie von außerhalb des Vereinigten Königreichs beantragen, nutzen Sie stattdessen den Auslandsdienst. Für dringende Fälle bietet das HM Passport Office einen 1 Week Fast Track Service sowie, nur für Erneuerungen von Erwachsenen, einen 1 Day Premium Service mit Terminen ab 2 Tagen nach Antragstellung. Überprüfen Sie GOV.UK auf die für Ihre Situation geltende Zahl.
+Das HM Passport Office veröffentlicht seine eigene aktuelle Bearbeitungszeit, und sie ändert sich oft genug, dass eine hier genannte Zahl beim Lesen wahrscheinlich schon veraltet wäre. Berechtigte Erwachsene, die vom Vereinigten Königreich aus einen Antrag stellen, können den digitalen Erneuerungsdienst mit einem Foto nutzen, das die offiziellen Anforderungen erfüllt. Ihren alten Reisepass müssen Sie weiterhin einschicken. Wenn Sie von außerhalb des Vereinigten Königreichs beantragen, nutzen Sie stattdessen den Auslandsdienst. Für dringende Fälle bietet das HM Passport Office einen 1 Week Fast Track Service mit Zustellung 1 Woche nach Ihrem Termin sowie, ausschließlich für die Erneuerung von Reisepässen für Erwachsene, einen 1 Day Premium Service mit Terminen frühestens 2 Tage nach Antragstellung. Überprüfen Sie GOV.UK auf die für Ihre Situation geltende Zahl.
 
 ### Wie lange dauert eine Reisepasserneuerung in Australien?
 
-Das Australian Passport Office ist die einzig verlässliche Quelle für aktuelle Zeiten, da sie sich mit dem Antragsvolumen und der Jahreszeit bewegen. Australien bietet unter Umständen schnellere Optionen gegen Gebühr an. Prüfen Sie auf passports.gov.au, welche Möglichkeiten verfügbar sind. Beantragen Sie so früh wie vernünftigerweise möglich, unabhängig davon, welche Route Sie nutzen – Spitzenzeiten verlängern die Standard-Warteschlange oft weiter, als die veröffentlichten Angaben erkennen lassen. Überprüfen Sie passports.gov.au, bevor Sie einen Antrag stellen.
+Das Australian Passport Office ist die einzig verlässliche Quelle für aktuelle Bearbeitungszeiten, da sich diese ändern. Schnellere Optionen hängen davon ab, wo Sie den Antrag stellen. Laut der Australian High Commission in London gibt es bei Anträgen außerhalb Australiens keine Priority- oder Fast-Track-Bearbeitung. Beantragen Sie so früh wie vernünftigerweise möglich, unabhängig davon, welches Verfahren Sie nutzen. Überprüfen Sie passports.gov.au, bevor Sie einen Antrag stellen.
 
 ### Kann ich meinen Reisepass online erneuern?
 
-Die USA bieten berechtigten Erwachsenen eine Online-Erneuerung an – prüfen Sie die aktuellen Voraussetzungen auf travel.state.gov. Das Vereinigte Königreich bietet eine Option für digitale Erneuerung für berechtigte Erwachsene, die von Großbritannien aus einen Antrag stellen – Auslandsantragsteller müssen einen separaten Dienst nutzen. Prüfen Sie auf passports.gov.au, wie Sie in Australien Ihren Antrag einreichen können. Kanada bietet eine Online-Erneuerung an, wenn Sie den Reisepass frühestens in 20 Werktagen benötigen; alle anderen nutzen das Papierverfahren. Überprüfen Sie immer die offizielle Website Ihres Landes auf aktuelle Berechtigung-Regeln.
+Die USA bieten berechtigten Erwachsenen eine Online-Erneuerung an – prüfen Sie die aktuellen Voraussetzungen auf travel.state.gov. Das Vereinigte Königreich bietet eine Option für digitale Erneuerung für berechtigte Erwachsene, die vom Vereinigten Königreich aus einen Antrag stellen – Auslandsantragsteller müssen einen separaten Dienst nutzen. Prüfen Sie auf passports.gov.au, wie Sie in Australien Ihren Antrag einreichen können. Kanada bietet eine Online-Erneuerung für berechtigte Antragsteller an, die in den nächsten 20 Werktagen nicht reisen. Das ist jedoch nur eine der Voraussetzungen für einen Online-Antrag. Überprüfen Sie immer die offizielle Website Ihres Landes auf die aktuellen Voraussetzungen.
 
 ### Was sollte ich tun, wenn mein Reisepass bald abläuft und ich eine Reise geplant habe?
 
-Beantragen Sie, sobald Sie von einem Problem wissen, und zahlen Sie für die schnellste Route, die Ihre Behörde anbietet. Wenn Ihre Reise nah genug ist, dass Sie befürchten, der Standard-Zeitrahmen reicht nicht aus, rufen Sie Ihre Reisepassbehörde direkt an, statt sich auf die Website zu verlassen – die meisten Behörden bieten dringende Termine mit bestimmten Voraussetzungen an, nach denen Sie meist telefonisch fragen müssen. Die britischen Eildienste stehen bei Anträgen aus dem Ausland nicht zur Verfügung. Warten Sie nicht ab, ob der Standardprozess zufällig aufholt.
+Beantragen Sie, sobald Sie von einem Problem wissen, und zahlen Sie für die schnellste Route, die Ihre Behörde anbietet. Wenn Ihre Reise nah genug ist, dass Sie befürchten, der Standard-Zeitrahmen reicht nicht aus, prüfen Sie den Eildienst Ihrer Reisepassbehörde. Im Vereinigten Königreich werden Eiltermine bei erfüllten Voraussetzungen online gebucht. Wenn Sie sich außerhalb des Vereinigten Königreichs befinden, beantragen Sie stattdessen ein Notfallreisedokument. Warten Sie nicht ab, ob der Standardprozess zufällig aufholt.
 
 ### Kann ich reisen, während meine Reisepasserneuerung läuft?
 
-Manchmal – sofern Ihr aktueller Reisepass noch gültig ist und Sie ihn nicht für die Erneuerung abgegeben haben. Manche Behörden verlangen den aktuellen Reisepass mit dem Antrag; klären Sie das vor der Buchung. Sobald Sie ihn abgegeben haben, müssen Sie auf den neuen warten. Überprüfen Sie immer bei Ihrer jeweiligen Reisepass-Behörde und berücksichtigen Sie Visa-Implikationen, bevor Sie reisen.
+Manchmal – sofern Ihr aktueller Reisepass noch gültig ist und Sie ihn nicht für die Erneuerung abgegeben haben. Manche Behörden verlangen den aktuellen Reisepass mit dem Antrag; andere lassen Sie ihn während der Bearbeitung weiter nutzen und machen ihn ungültig, sobald der neue ausgestellt ist. Klären Sie das vor der Buchung oder Reise. Sobald Sie ihn abgegeben haben, müssen Sie auf den neuen warten. Erkundigen Sie sich immer bei Ihrer jeweiligen Reisepassbehörde und berücksichtigen Sie mögliche Auswirkungen auf Ihr Visum, bevor Sie reisen.
 
 ## Verwandte Artikel
 

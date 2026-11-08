@@ -1,6 +1,6 @@
 # Digital passkopia: vad räknas som giltig legitimation på resan?
 
-> Flygbolag, hotell, ambassader och gränspolis hanterar digitala passkopior olika. Var en kopia räcker – och var du behöver originalhandlingen.
+> En digital passkopia är ett foto eller en skanning. Vissa hotell godtar den, men inte flygbolag eller gränskontroller. Användning och säker förvaring.
 
 Source: https://traveldocumentvault.com/sv/blog/digital-passport-copy-valid/
 
@@ -10,10 +10,10 @@ Source: https://traveldocumentvault.com/sv/blog/digital-passport-copy-valid/
 
 ## Viktiga punkter
 
-- Digitala passkopior accepteras vid **hotellincheckning, flygbokningar och bilhyresbokningar**, men inte vid gränsen eller för ombordstigning.
+- Utgå inte från att digitala passkopior accepteras vid **hotellincheckning, flygbokningar eller bilhyresbokningar**. De är inga resehandlingar för gränspassage eller ombordstigning.
 - Vid internationella resor behöver du i regel **originalpasset** vid gränsen och för ombordstigning. Vissa resvägar godtar i stället ett nationellt ID-kort (till exempel för [EU-medborgare som reser inom EU](https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm)), men aldrig en kopia.
 - Digitala kopior har **ingen juridisk status som resehandling**. De är enbart kompletterande underlag.
-- Visumansökningar kräver **specifika format**. Vissa kräver bestyrkta eller notariserade kopior, medan andra ([många e-visum](https://indianvisaonline.gov.in/evisa/tvoa.html)) godtar en tydlig skanning av fotosidan. Ett vanligt mobilfoto underkänns ofta. Kontrollera ambassadens webbplats först.
+- Visumansökningar kräver **specifika format**. Vissa kräver bestyrkta kopior, medan andra (till exempel [Indiens e-visum](https://indianvisaonline.gov.in/evisa/tvoa.html)) godtar en tydlig skanning av fotosidan. Enligt anvisningarna för Indiens e-visum kan en uppladdad fil underkännas om den är otydlig eller inte uppfyller specifikationerna. Kontrollera ambassadens webbplats först.
 - Tappar du passet utomlands kan en kopia av fotosidan **hjälpa din ambassad att bekräfta dina uppgifter** när du ansöker om en ersättningshandling.
 
 Inför en resa undrar många resenärer om de kan spara en digital kopia av passet på telefonen i stället för att bära originalet. Du behöver veta exakt var den fungerar och var den inte gör det, så att du inte blir stående vid incheckningen.
@@ -30,17 +30,17 @@ En kopia är heller inte samma sak som de digitala ID:n som vissa myndigheter nu
 
 ## Var digitala passkopior accepteras
 
-### Många hotell godtar en kopia, men i delar av Europa vill man oftast se originalet
+### Fråga hotellet om det godtar en kopia
 
-Många hotell accepterar digitala passkopior vid incheckning – en PDF på telefonen, e-postad i förväg eller utskriven. Det är särskilt praktiskt om du checkar in sent eller flyttar mellan boenden och inte vill bära originalpasset genom hela resan. Vissa mindre hotell, särskilt i regioner med mindre digital infrastruktur, föredrar fortfarande originalet. I delar av Europa måste hotell registrera dina uppgifter för myndigheterna och vill ofta se det fysiska passet. Spaniens dataskyddsmyndighet säger till exempel att hotell inte bör ta eller begära kopior och att en visuell kontroll räcker. Kontakta ditt boende i förväg för att bekräfta.
+Om en digital passkopia godtas vid incheckning beror på boendet och lokala regler för legitimation. Enligt brittiska regeringens reseråd för brittiska resenärer måste hotell i Italien i regel registrera dina passuppgifter hos polisen. Kontakta ditt boende i förväg för att få veta vilka originalhandlingar det behöver och om det godtar en kopia.
 
-### En digital kopia snabbar upp incheckningen, inte ombordstigningen
+### En digital kopia är ingen handling för ombordstigning
 
-Flygbolag kräver dina passuppgifter vid bokning, och vissa låter dig ladda upp en digital kopia för att verifiera din identitet vid webbincheckning – det snabbar upp processen på flygplatsen. Du behöver ändå visa upp originalpasset vid gaten. Den digitala kopians roll är verifiering före resan, inte ombordstigningsdokument.
+Vid internationella flygningar behöver du i regel visa upp originalpasset eller en annan godkänd resehandling vid gaten. Den digitala kopian är ingen handling för ombordstigning.
 
-### Kopian bokar bilen, men originalet krävs när du hämtar ut den
+### Fråga vilka handlingar biluthyrningsföretaget behöver
 
-Biluthyrningsföretag accepterar ofta digitala passkopior för bokning och depositionsverifiering. När du hämtar ut bilen visar du upp originalpasset tillsammans med körkortet. Den digitala kopian är användbar under bokningsfasen.
+Fråga biluthyrningsföretaget om det behöver en passkopia för bokning eller depositionsverifiering. Innan du hämtar ut bilen skulle vi ta reda på vilka identitetshandlingar och dokument för bilkörning det kräver i original.
 
 ### Om passet tappas bort snabbar kopian upp processen
 
@@ -48,18 +48,18 @@ Tappar du passet eller blir det stulet under resan kan en kopia av fotosidan hj�
 
 ![Diagram över var en digital passkopia fungerar: vanligtvis okej för hotellincheckning, flygbokning och biluthyrning, original krävs vid gränskontroll och ombordstigning](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-where-sv.jpg) Kortversionen - en kopia öppnar dörrar, bara originalet passerar gränser.
 
-## Var ditt fysiska pass alltid krävs
+## Här krävs i regel resehandlingar i original
 
-En digital kopia ersätter inte ditt fysiska pass vid gränskontroll, hos flygbolag eller hos polisen. I de här situationerna behöver du i regel originalhandlingen.
+En digital kopia ersätter inte en godkänd resehandling i original vid gränskontroll eller ombordstigning på internationella flygningar. Polisens identitetskontroller styrs av lokala lagar.
 
 | Resesituation | Digital kopia accepteras | Anteckningar |
 |---|---|---|
-| **Gränspassage (in- och utresa)** | Nej (original krävs) | Gränspoliser måste inspektera handlingen fysiskt |
-| **Ombordstigning** | Nej (original krävs) | Säkerhetskontroll och gatepersonal kräver det fysiska passet |
+| **Gränspassage (in- och utresa)** | Nej (original krävs) | Ha i regel med en godkänd resehandling i original; kontrollerna beror på din resväg |
+| **Ombordstigning** | Nej (original krävs) | Vid internationella flygningar behövs i regel originalpasset eller en annan resehandling som godtas för resvägen |
 | **Visumansökan** | Ibland (kontrollera ambassaden) | Varierar: bestyrkt kopia, original eller tydlig skanning |
-| **Polisens identitetskontroller** | Nej (original krävs) | Polisen kan begära en identitetshandling i original, och reglerna skiljer sig mellan länder |
-| **Hotellincheckning** | Oftast ja | Bekräfta med boendet i förväg |
-| **Bilhyresbokning** | Oftast ja | Original krävs fortfarande vid upphämtning av bilen |
+| **Polisens identitetskontroller** | Beror på lokala lagar; en kopia räcker inte alltid vid en identitetskontroll | Polisen kan begära en identitetshandling i original, och reglerna skiljer sig mellan länder |
+| **Hotellincheckning** | Beror på boendet och lokala regler för legitimation | Bekräfta med boendet i förväg |
+| **Bilhyresbokning** | Fråga uthyrningsföretaget om handlingar för bokning och legitimation | Ta reda på vilka identitetshandlingar och dokument för bilkörning uthyrningsföretaget kräver i original när du hämtar bilen |
 | **Akut hjälp från ambassaden** | Ja (hjälper till att bekräfta dina uppgifter) | Kan inte ersätta passet självt, men hjälper till att utfärda en provisorisk handling |
 
 ## Visumansökningar: reglerna är specifika
@@ -68,9 +68,9 @@ Reglerna för visumansökningar är mer flexibla än vid gränsen, men fortfaran
 
 Vad det betyder i praktiken
 
-Du ansöker om ett franskt visum, och den officiella webbplatsen anger "bestyrkt kopia". Det betyder en bestyrkt fotokopia från en notarie eller en myndighet, inte ett vanligt mobilfoto, och skickar du in fel format leder det till avslag och förseningar med ny ansökan. Kontakta ambassaden för att bekräfta godkända format innan du lägger tid på ansökan.
+Enligt anvisningarna för Indiens e-visum kan en uppladdad fil underkännas om den är otydlig eller inte uppfyller specifikationerna. Vi skulle zooma in och granska varje detalj innan vi skickar in den.
 
-Vissa ambassader accepterar notariserade digitala skanningar som skickas in elektroniskt, medan andra kräver fysiska bestyrkta kopior eller originalpasset personligen. Kraven varierar så dramatiskt att du verkligen behöver kontrollera den officiella myndighetens webbplats för landet du ansöker till.
+Vissa visumansökningar godtar skanningar som skickas in elektroniskt, medan andra kräver bestyrkta kopior eller originalpasset.
 
 ## Så förvarar du digitala kopior säkert
 
@@ -102,11 +102,11 @@ Officiella källor
 
 ### Vad är en digital kopia av ett pass?
 
-En digital kopia är en skanning eller ett mobilfoto av passets identitetssida, sidan med foto och personuppgifter. Den hjälper vid bokningar och vid ersättning av ett borttappat pass, men den är ingen resehandling: Kanadas regering säger att kopior inte kan användas som identitetsbevis. Den skiljer sig också från ett myndighetsstött digitalt ID, och även i USA, där TSA accepterar digitala ID:n vid sina säkerhetskontroller, måste resenärer fortfarande bära ett godkänt fysiskt ID.
+En digital kopia är en skanning eller ett mobilfoto av passets identitetssida, sidan med foto och personuppgifter. Den kan hjälpa när du ska ersätta ett borttappat pass, men den är ingen resehandling: Kanadas regering säger att kopior inte kan användas som identitetsbevis. Den skiljer sig också från ett myndighetsstött digitalt ID, och även i USA, där TSA accepterar digitala ID:n vid sina säkerhetskontroller, måste resenärer fortfarande bära ett godkänt fysiskt ID.
 
 ### Accepteras en digital kopia av mitt pass vid incheckning på hotell?
 
-Ofta, ja: många hotell accepterar digitala passkopior vid incheckning: en PDF på telefonen, via e-post eller utskriven. Vissa mindre anläggningar kan fortfarande kräva ett fysiskt pass. Kontakta alltid ditt hotell i förväg för att bekräfta.
+Det beror på boendet och lokala regler för legitimation. Fråga hotellet vilka originalhandlingar det behöver och om det godtar en kopia för någon del av incheckningen.
 
 ### Kan jag använda en digital passkopia på flygplatsen för ombordstigning?
 
@@ -114,7 +114,7 @@ Vid internationella flygningar kräver flygbolag i regel originalhandlingen (ett
 
 ### Gäller digitala passkopior för visumansökningar?
 
-Visumansökningar kräver specifika format. Vissa kräver bestyrkta eller notariserade kopior, medan andra (många e-visum) godtar en tydlig skanning av fotosidan. Ett vanligt mobilfoto underkänns ofta. Kraven varierar mellan länder och ambassader, så kontrollera den officiella myndighetens webbplats för landet du ansöker till innan du skickar in något.
+Visumansökningar kräver specifika format. Vissa kräver bestyrkta kopior, medan andra godtar en tydlig skanning av fotosidan. Enligt anvisningarna för Indiens e-visum kan en uppladdad fil underkännas om den är otydlig eller inte uppfyller specifikationerna. Kraven varierar mellan länder och ambassader, så kontrollera den officiella myndighetens webbplats för landet du ansöker till innan du skickar in något.
 
 ### Kan en digital passkopia hjälpa om mitt pass tappas bort eller stjäls utomlands?
 

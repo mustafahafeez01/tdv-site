@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/pt/blog/child-travel-consent-letter/
 ## Pontos-Chave
 
 - Os requisitos variam significativamente por país. **Uma carta que funciona para um destino pode não ser aceite noutro.**
-- Muitos países **recomendam vivamente a autenticação ou certificação** por um solicitor ou notário público, e algumas fronteiras ou companhias aéreas tratam-na como efectivamente obrigatória, mesmo quando não é legalmente obrigatória.
+- O Canadá **recomenda vivamente que um notário público testemunhe a assinatura**.
 - A carta costuma incluir o nome completo da criança, data de nascimento, número de passaporte, datas exatas de viagem, destinos e detalhes de contacto do progenitor ausente.
 - As rejeições comuns resultam de informações em falta, falta de autenticação, assinaturas desatualizadas, ou números não verificáveis.
 - Transporte uma cópia impressa como documento principal, e guarde uma cópia de segurança digital encriptada para emergências.
@@ -24,16 +24,16 @@ Esse cenário — e milhares como ele — acontece porque as cartas de consentim
 
 ## Quem Realmente Precisa de uma Carta de Consentimento de Viagem para Crianças?
 
-Depende inteiramente do seu destino — não há padrão global, é por isso que muitas famílias são apanhadas de surpresa.
+Depende dos países envolvidos — não há padrão global, é por isso que muitas famílias são apanhadas de surpresa.
 
-Uma carta é comummente necessária nessas situações:
+Uma carta pode ser necessária nestas situações:
 
 - **Uma criança viaja apenas com um progenitor.** Os agentes de imigração querem provas de que o progenitor ausente não se opôs à viagem.
 - **Uma criança viaja com nenhum dos progenitores.** A carta autoriza um avô, tia, tio, ou outro tutor a viajar com a criança. Alguns países pedem o consentimento de ambos os progenitores neste cenário.
 - **Uma criança viaja com um progenitor cujo apelido é diferente do da criança.** Isto levanta bandeiras em algumas fronteiras, particularmente para crianças mais pequenas.
 - **Uma criança é adoptada ou está em acolhimento familiar.** Documentos de tutela legal e consentimento podem ser necessários juntamente com a carta.
 
-**Aviso crítico:** as regras variam muito. O Canadá não exige legalmente uma carta de consentimento, mas o [Governo do Canadá](https://travel.gc.ca/travelling/children/consent-letter) recomenda vivamente uma e nota que "a falha em produzir uma carta mediante solicitação pode resultar em atrasos ou recusa de entrada ou saída de um país." A África do Sul pede uma declaração juramentada de consentimento parental quando um dos progenitores não viaja. Alguns países aplicam requisitos apenas para crianças abaixo de uma certa idade. Não há padrão global.
+**Aviso crítico:** as regras variam muito. O Canadá não exige legalmente uma carta de consentimento, mas o [Governo do Canadá](https://travel.gc.ca/travelling/children/consent-letter) recomenda vivamente uma e nota que "a falha em produzir uma carta mediante solicitação pode resultar em atrasos ou recusa de entrada ou saída de um país." A Embaixada da África do Sul indica que as crianças estrangeiras isentas de visto que viajam com um adulto geralmente não precisam de uma carta de consentimento parental. Alguns países aplicam requisitos apenas para crianças abaixo de uma certa idade. Não há padrão global.
 
 Verifique sempre os requisitos directamente com a autoridade de imigração do seu país de destino específico antes de viajar. Use o IATA Travel Centre para verificar requisitos de entrada, ou contacte a embaixada do seu país de destino. Se estiver incerto, ter a carta é melhor do que a alternativa: ser parado no check-in ou na fronteira.
 
@@ -62,10 +62,10 @@ Quando se pede ou recomenda uma carta com assinatura reconhecida, isso geralment
 O que alguns países dizem sobre a autenticação:
 
 - **Canadá.** Uma carta de consentimento não é legalmente necessária, mas o [Governo do Canadá](https://travel.gc.ca/travelling/children/documents) recomenda vivamente uma e recomenda que um notário público testemunhe a assinatura. O pessoal fronteiriço e de companhias aéreas pode solicitá-la na entrada ou saída.
-- **África do Sul.** Quando um dos progenitores não viaja, o [Departamento de Assuntos Domésticos](https://www.gov.za/news/speeches/director-general-mkuseli-apleni-media-briefing-new-requirements-travelling-children) pede uma declaração juramentada de consentimento parental, que não pode ter mais de 4 meses quando é apresentada. Consulte a página atual do departamento.
-- **Austrália.** O Smartraveller publica orientações sobre viagens com crianças, e as companhias aéreas podem pedir uma carta. Consulte as orientações para o país de saída e para o país de entrada.
-- **Reino Unido.** Não legalmente necessária para viagens de saída, mas agentes de companhias aéreas e agentes fronteiriços de destino podem solicitar uma quando uma criança viaja com um progenitor ou com um adulto não-progenitor. Consulte as orientações do GOV.UK para o seu percurso.
-- **Estados Unidos.** Não mandatório a nível federal mas recomendado. Alguns estados reconhecem a autenticação explicitamente.
+- **África do Sul.** A Embaixada da África do Sul indica que as crianças estrangeiras isentas de visto que viajam com um adulto geralmente não precisam de uma carta de consentimento parental. [Comunicado do Departamento de Assuntos Domésticos](https://www.gov.za/news/speeches/director-general-mkuseli-apleni-media-briefing-new-requirements-travelling-children).
+- **Austrália.** Pergunte à companhia aérea sobre cartas de consentimento para crianças que viajam sem um ou ambos os progenitores.
+- **Reino Unido.** O GOV.UK indica que, para levar uma criança do Reino Unido para o estrangeiro, geralmente é necessária a autorização de todas as pessoas com responsabilidade parental ou de um tribunal. Uma carta costuma ser suficiente para comprovar a autorização; há exceções.
+- **Estados Unidos.** O USAGov indica que uma carta de consentimento pode ser necessária quando uma criança viaja sozinha ou com apenas um progenitor ou tutor legal.
 
 As taxas notariais variam consoante o país e o notário, e a rapidez com que precisa de uma marcação, por isso pergunte quanto vai custar e com que antecedência precisa de marcar, especialmente durante as férias escolares. Confirme sempre os requisitos do seu destino em primeiro lugar. As regras do país de destino determinam se a autenticação é necessária ou não, não as do seu país de origem.
 
@@ -77,7 +77,7 @@ Mesmo as famílias bem preparadas cometem erros que levam à rejeição na front
 2. **Datas de viagem vagas.** Frases como "verão de 2026" são muito genéricas. Use datas exactas de partida e retorno.
 3. **Não assinada pelo progenitor ausente.** Uma carta assinada apenas pelo progenitor viajante é inútil. Ambos os progenitores (ou tutores legais) devem assinar se ambos têm custódia legal.
 4. **Falta de autenticação quando necessária.** Quando se pede uma carta com assinatura reconhecida, uma carta sem esse reconhecimento pode ser recusada.
-5. **Assinatura desatualizada.** Não há um prazo de validade comum, e algumas autoridades fixam limites curtos (4 meses para a declaração sul-africana), por isso uma assinatura recente é mais segura.
+5. **Assinatura desatualizada.** Levaríamos uma carta assinada recentemente.
 6. **Número de passaporte errado ou nome da criança.** Até pequenas discrepâncias levantam bandeiras e causam atrasos.
 7. **Lista de destinos incompleta.** Se a carta diz "Europa" mas não nomeia países específicos, pode ser rejeitada.
 8. **Sem declaração de permissão explícita.** A carta deve claramente afirmar que o progenitor ausente consente nesta viagem.
@@ -87,22 +87,22 @@ Mesmo as famílias bem preparadas cometem erros que levam à rejeição na front
 | País | Requisito | Autenticação | Fonte oficial |
 |---|---|---|---|
 | **Canadá** | Fortemente recomendada (não legalmente necessária) | Recomendada (notário público) | travel.gc.ca |
-| **África do Sul** | Declaração juramentada de consentimento parental pedida quando um dos progenitores não viaja | Declaração juramentada certificada (o departamento menciona as suas embaixadas) | Departamento de Assuntos Domésticos |
-| **Austrália** | As companhias aéreas podem pedir uma | Consulte as orientações atuais | Smart Traveller |
-| **Reino Unido** | Não legalmente necessária; companhias aéreas e fronteiras de destino podem solicitar | Consulte as orientações atuais | GOV.UK |
-| **Estados Unidos** | Não necessária a nível federal; varia por estado | Consulte as orientações atuais | travel.state.gov |
-| **União Europeia** | Varia por país | Varia por país | IATA Travel Centre |
-| **Nova Zelândia** | Recomendada | Geralmente assinada pelos pais e com assinatura reconhecida por um funcionário público | [SafeTravel](https://www.safetravel.govt.nz/before-you-go/who-is-travelling/travelling-with-children) (Governo da Nova Zelândia) |
+| **África do Sul** | As crianças estrangeiras isentas de visto que viajam com um adulto geralmente não precisam de uma carta de consentimento parental | Pergunte quem deve testemunhar a assinatura para a viagem da criança | Embaixada da África do Sul: serviços consulares |
+| **Austrália** | Pergunte à companhia aérea sobre cartas de consentimento | Consulte as orientações atuais | Orientações do Governo australiano |
+| **Reino Unido** | Para viajar do Reino Unido para o estrangeiro, geralmente é necessária a autorização de todas as pessoas com responsabilidade parental ou de um tribunal; uma carta costuma ser suficiente; há exceções | Consulte as orientações atuais | GOV.UK |
+| **Estados Unidos** | O USAGov indica que uma carta de consentimento pode ser necessária quando a criança viaja sozinha ou com apenas um progenitor ou tutor legal | Pergunte quem deve testemunhar a assinatura | USAGov: documentos para viagens internacionais de crianças |
+| **União Europeia** | Varia por país | Pergunte quem deve assinar a carta e testemunhar a assinatura | A sua Europa: documentos para menores que viajam na UE |
+| **Nova Zelândia** | Orientações para viagens ao estrangeiro a partir da Nova Zelândia: uma carta de consentimento pode ser necessária sem um ou ambos os progenitores | Orientações para viagens ao estrangeiro a partir da Nova Zelândia: geralmente assinada pelos pais, com um funcionário público a testemunhar a assinatura | [SafeTravel](https://www.safetravel.govt.nz/before-you-go/who-is-travelling/travelling-with-children) (Governo da Nova Zelândia) |
 
 Encare esta tabela como um ponto de partida, não como a palavra final. As regras mudam frequentemente, e a própria autoridade de imigração do destino é a sua fonte mais fiável. Blogues de viagem e páginas de companhias aéreas são úteis para contexto, mas podem ficar atrás dos requisitos mais recentes.
 
-## Leve uma Cópia Impressa e Guarde uma Cópia Digital de Segurança
+## Leve o original e guarde uma cópia digital de segurança
 
 Uma vez que a carta é assinada e autenticada, o próximo desafio é mantê-la segura e acessível durante a viagem. Mantenha três versões:
 
-1. **Cópia original autenticada**, guardada em casa numa localização segura (cofre, caixa de depósito de segurança, ou ficheiro familiar).
-2. **Cópia impressa de viagem**, transportada na sua carteira de passaporte ou pasta de documentos de viagem.
-3. **Cópia de segurança digital encriptada**, para que possa reimprimir se a cópia de viagem se perder ou danificar.
+1. **Carta original assinada**, transportada na sua carteira de passaporte ou pasta de documentos de viagem.
+2. **Cópia impressa adicional**, guardada em separado caso o original se perca.
+3. **Cópia de segurança digital encriptada**, para que possa reimprimir se uma cópia em papel se perder ou danificar.
 
 O Governo do Canadá diz que é preferível levar cartas originais assinadas e que os agentes podem não aceitar fotocópias ou versões digitais. Leve o original em papel e guarde a cópia digital como segurança.
 
@@ -137,11 +137,11 @@ Fontes oficiais
 
 ### Preciso de uma carta de consentimento de viagem para crianças?
 
-Depende do seu destino. Os requisitos variam significativamente por país. Tipicamente necessita de uma quando uma criança viaja com um progenitor, com nenhum dos progenitores, ou com um tutor. Alguns países exigem-na para quase todos os cenários de viagem internacional; outros não têm qualquer requisito formal. Verifique sempre com a autoridade de imigração do seu destino específico.
+Depende do seu destino. Os requisitos variam por país. Uma carta de consentimento pode ser necessária quando uma criança viaja com apenas um dos progenitores, sem nenhum dos progenitores ou com um tutor.
 
 ### Precisa uma carta de consentimento de viagem para crianças de ser autenticada?
 
-Depende do destino. O Canadá recomenda vivamente a autenticação mas não exige legalmente uma carta de consentimento. A África do Sul pede uma declaração juramentada de consentimento parental quando um dos progenitores não viaja. A Austrália, o Reino Unido e os EUA publicam as suas próprias orientações, e as companhias aéreas podem pedir uma carta. Verifique sempre com a autoridade de imigração do país de destino antes de assinar.
+Depende do destino. O Canadá recomenda vivamente a autenticação, mas a carta de consentimento não é legalmente obrigatória no Canadá. A Embaixada da África do Sul indica que as crianças estrangeiras isentas de visto que viajam com um adulto geralmente não precisam de uma carta de consentimento parental.
 
 ### O que acontece se uma carta de consentimento de viagem para crianças for rejeitada na fronteira?
 
@@ -149,7 +149,7 @@ Os agentes fronteiriços podem recusar entrada ou impedir a criança de viajar. 
 
 ### Quanto tempo é válida uma carta de consentimento de viagem para crianças?
 
-Não há um prazo de validade único. As orientações do Canadá não indicam nenhum, e a África do Sul diz que a declaração não pode ter mais de 4 meses. Levaríamos uma carta assinada recentemente, de preferência nos últimos meses, e confirmaríamos as regras do destino. Se o passaporte da criança for renovado, obtenha uma nova carta, porque a antiga terá o número do passaporte anterior.
+Não há um prazo de validade único. As orientações do Canadá não indicam nenhum. Levaríamos uma carta assinada recentemente, de preferência nos últimos meses, e confirmaríamos as regras do destino. Se o passaporte da criança for renovado, obtenha uma nova carta, porque a antiga terá o número do passaporte anterior.
 
 ### Pode guardar uma carta de consentimento de viagem para crianças digitalmente?
 

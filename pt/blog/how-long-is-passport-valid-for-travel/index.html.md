@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/pt/blog/how-long-is-passport-valid-for-t
 
 ## Pontos-Chave
 
-- **Muitos passaportes de adultos são válidos por até 10 anos** a partir da data de emissão. Os passaportes de crianças normalmente expiram após 5 anos.
+- **Os novos passaportes comuns do Reino Unido para adultos são geralmente válidos por 10 anos**. Os passaportes de crianças normalmente expiram após 5 anos.
 - O seu passaporte não precisa estar expirado para ser rejeitado. **Pode ser-lhe recusado o embarque ou a entrada** quando a validade restante fica aquém do requisito do destino.
 - Destinos populares, incluindo Tailândia, Vietname e Indonésia, geralmente requerem **pelo menos 6 meses de validade no dia em que chega** para titulares de passaporte britânico — e os países Schengen contam a partir do dia em que planeia sair, por isso verifique cada destino.
 - Os passaportes de crianças expiram mais rápido do que os dos pais — **verifique o passaporte de cada membro do grupo individualmente** antes de marcar, não apenas o seu.
@@ -22,16 +22,15 @@ Sete meses no seu passaporte parece bastante tempo. Marca os voos, verifica a ba
 
 ## Os Passaportes de Adultos Duram Muito Mais do Que os das Crianças
 
-O período de validade padrão para um passaporte de adulto é 10 anos a partir da data de emissão na maioria dos países. Os passaportes de crianças expiram mais cedo — [normalmente 5 anos](https://www.gov.uk/get-a-child-passport). Verificaríamos o passaporte da criança antes do de qualquer outra pessoa, por ser aquele que todos assumem estar em ordem.
+Os novos passaportes comuns do Reino Unido para adultos são geralmente válidos por 10 anos. Os passaportes de crianças expiram mais cedo — [normalmente 5 anos](https://www.gov.uk/get-a-child-passport). Verificaríamos o passaporte da criança antes do de qualquer outra pessoa, por ser aquele que todos assumem estar em ordem.
 
 | País | Validade de adulto | Validade de criança |
 |---|---|---|
 | Reino Unido | 10 anos | 5 anos (menores de 16) |
 | Estados Unidos | 10 anos | 5 anos (menores de 16) |
-| Austrália | 10 anos | 5 anos (menores de 16) |
-| Canadá | 10 anos | 5 anos |
+| Austrália | Geralmente 10 anos; opção de 5 anos a partir dos 75 anos | 5 anos (menores de 16) |
+| Canadá | Geralmente 5 ou 10 anos, conforme a opção escolhida no pedido | 5 anos |
 | Irlanda | 10 anos | 5 anos (menores de 18) |
-| Nova Zelândia | 10 anos | 5 anos (menores de 16) |
 
 A data exata de expiração está impressa na página de dados ao lado da sua fotografia. Essa data é o limite absoluto — o seu passaporte deixa de ser um documento de viagem válido em qualquer lugar do mundo após essa data.
 
@@ -61,7 +60,7 @@ Para tudo o resto, verifique antes de marcar. A companhia aérea ou a página of
 
 ## Os Passaportes de Crianças Expiram Mais Cedo, e as Famílias Esquecem-se de Verificar
 
-Isto é onde as famílias são apanhadas todos os verões. Os passaportes de adultos são válidos por 10 anos. Os passaportes de crianças expiram após 5. Essa diferença cria um problema específico.
+Isto é onde as famílias são apanhadas todos os verões. Os novos passaportes comuns do Reino Unido para adultos são geralmente válidos por 10 anos. Os passaportes de crianças expiram após 5. Essa diferença cria um problema específico.
 
 Uma criança de 3 anos que obteve o seu primeiro passaporte em 2023 tem um documento que expira em 2028. Quando tem 7 anos e a família marca uma viagem para a Tailândia, esse passaporte pode ter apenas alguns meses de validade — muito aquém do requisito de 6 meses. Ambos os pais podem estar com 4 anos de validade cada e nunca pensar em verificar o documento da criança.
 
@@ -93,7 +92,7 @@ Fontes oficiais
 
 ### Quanto tempo é que um passaporte do Reino Unido é válido?
 
-Os passaportes de adultos são válidos por 10 anos a partir da data de emissão. Os passaportes de crianças (menores de 16 anos) são válidos por 5 anos. A data exata de expiração está impressa na página de dados ao lado da sua fotografia.
+Os novos passaportes comuns do Reino Unido para adultos são geralmente válidos por 10 anos. Os passaportes de crianças (menores de 16 anos) são válidos por 5 anos. A data exata de expiração está impressa na página de dados ao lado da sua fotografia.
 
 ### Posso viajar com 6 meses no meu passaporte?
 

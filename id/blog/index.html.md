@@ -80,7 +80,7 @@ Source: https://traveldocumentvault.com/id/blog/
 
 ##
 
-[Perjalanan Keluarga Aturan Paspor Schengen untuk Perjalanan Keluarga: Kesalahan yang Sering Dilakukan Orang Tua Schengen membutuhkan masa berlaku 3 bulan setelah keberangkatan, bukan 6, dan paspor anak berlaku hanya 5 tahun. Ini yang harus diperiksa keluarga pada hari mereka memesan. 10 Juli 20266 mnt baca](https://traveldocumentvault.com/id/blog/schengen-passport-rules-family-trips/)
+[Perjalanan Keluarga Aturan Paspor Schengen untuk Perjalanan Keluarga: Kesalahan yang Sering Dilakukan Orang Tua Schengen membutuhkan masa berlaku 3 bulan setelah keberangkatan, bukan 6, dan paspor anak Inggris berlaku 5 tahun. Ini yang harus diperiksa keluarga pada hari mereka memesan. 10 Juli 20266 mnt baca](https://traveldocumentvault.com/id/blog/schengen-passport-rules-family-trips/)
 
 ##
 
@@ -156,7 +156,7 @@ Source: https://traveldocumentvault.com/id/blog/
 
 ##
 
-[Pembaruan Berapa Lama Perpanjangan Paspor? (AS, Inggris, Australia, Kanada) Berapa lama perpanjangan paspor berlangsung? Ini lebih bergantung pada situasi Anda daripada negara Anda. Berikut yang sebenarnya memperlambat prosesnya, dan di mana mengecek waktu terkini. 10 Februari 20267 mnt baca](https://traveldocumentvault.com/id/blog/how-long-does-passport-renewal-take/)
+[Pembaruan Berapa Lama Perpanjangan Paspor? (AS, Inggris, Australia, Kanada) Waktu perpanjangan tergantung tempat pengajuan dan layanan pilihan. Apa yang bisa menghambat proses dan di mana mengecek waktu terkini di negara Anda. 10 Februari 20267 mnt baca](https://traveldocumentvault.com/id/blog/how-long-does-passport-renewal-take/)
 
 ##
 

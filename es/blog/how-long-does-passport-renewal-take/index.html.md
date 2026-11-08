@@ -1,6 +1,6 @@
 # ¿Cuánto tiempo tarda la renovación de pasaporte? (EE.UU., Reino Unido, Australia, Canadá)
 
-> ¿Cuánto tarda renovar el pasaporte? Depende más de tu situación que de tu país. Qué frena el trámite y dónde consultar los plazos actuales.
+> El plazo de renovación depende de dónde lo solicites y del servicio elegido. Qué puede retrasar el trámite y dónde ver los plazos actuales de tu país.
 
 Source: https://traveldocumentvault.com/es/blog/how-long-does-passport-renewal-take/
 
@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/es/blog/how-long-does-passport-renewal-t
 ## Puntos clave
 
 - Cuánto tiempo tarda la renovación de pasaporte depende de tu país, tu situación y la temporada en la que solicites —no hay una única cifra que se mantenga exacta durante mucho tiempo, así que deliberadamente no incluimos ninguna en esta guía.
-- La mayoría de los países tienen una cola estándar más una o varias rutas de pago más rápidas. Las rutas más rápidas te compran una posición anterior o una cita reservable —no se saltan ninguna verificación.
+- La tramitación estándar y los servicios más rápidos tienen plazos distintos. Las vías más rápidas dependen de dónde presentes la solicitud y de los requisitos que cumplas para cada servicio.
 - Un puñado de situaciones ralentiza de forma fiable la tramitación: un cambio de nombre, un primer pasaporte de adulto, una solicitud infantil, un pasaporte perdido o dañado, comprobaciones de seguridad adicionales, la temporada alta y solicitar desde el extranjero.
 - El enfoque más seguro es solicitar en cuanto la validez restante de tu pasaporte empiece a quedarse justa, calculando hacia atrás desde tu fecha real de viaje en lugar de adivinar.
 - Para la cifra que importa ahora mismo, acude a tu propia autoridad de pasaportes —HM Passport Office, el Departamento de Estado de EE.UU., la Oficina de Pasaportes Australiana o tu equivalente nacional— no a un artículo de blog.
@@ -20,33 +20,33 @@ Has reservado vuelos para un viaje cinco meses desde ahora. Sacas los pasaportes
 
 No hay una única cifra, y cualquier artículo que te dé una está apostando en silencio a que nunca notarás cuándo queda desactualizada.
 
-Los tiempos de procesamiento se mueven con la plantilla, el volumen de solicitudes y la temporada, así que una cifra correcta hoy puede estar fácilmente equivocada en unos meses. Lo que apenas cambia es la forma de la decisión en sí: cada autoridad de pasaportes gestiona una cola estándar y al menos una vía de pago para ir más rápido, y un conjunto concreto de situaciones ralentiza de forma fiable una solicitud, sea cual sea el país que la emita. De eso trata esta guía, junto con dónde consultar exactamente la cifra que te aplica ahora mismo.
+Los tiempos de procesamiento varían, así que una cifra correcta hoy puede estar fácilmente equivocada en unos meses. Lo que apenas cambia es la forma de la decisión en sí: las vías estándar y más rápidas dependen de dónde presentes la solicitud y de los requisitos que cumplas para cada servicio, y un conjunto concreto de situaciones ralentiza de forma fiable una solicitud, sea cual sea el país que la emita. De eso trata esta guía, junto con dónde consultar exactamente la cifra que te aplica ahora mismo.
 
-**Ten en cuenta:** Aquí no citamos tiempos de procesamiento a propósito. Cambian con la temporada y con la plantilla, y una cifra correcta hoy puede estar equivocada en unos meses. Tu propia autoridad de pasaportes publica la cifra actual —HM Passport Office, el Departamento de Estado de EE.UU., la Oficina de Pasaportes Australiana o tu equivalente nacional— y es la única fuente que merece la pena confiar.
+**Ten en cuenta:** Aquí no citamos tiempos de procesamiento a propósito. Varían, y una cifra correcta hoy puede estar equivocada en unos meses. Tu propia autoridad de pasaportes publica la cifra actual —HM Passport Office, el Departamento de Estado de EE.UU., la Oficina de Pasaportes Australiana o tu equivalente nacional— y es la única fuente que merece la pena confiar.
 
-## ¿Cuánto tiempo tarda la renovación de pasaporte en Estados Unidos?
+## Vías de renovación estándar y más rápidas
 
-El Departamento de Estado de EE.UU. publica sus tiempos de procesamiento actuales en travel.state.gov, y cambian durante todo el año con la demanda y la plantilla. Hay tres vías:
+Empieza por consultar el plazo de tramitación estándar de tu autoridad de pasaportes y comprueba si hay un servicio más rápido para tu situación:
 
-- **Rutinaria:** la cola estándar, sin prioridad.
-- **Acelerada:** te adelanta en la cola por una tarifa adicional, sin saltarse ninguna verificación.
-- **Cita urgente (en persona):** para viajes genuinamente inminentes, con prueba de la fecha de viaje —reservable en una agencia de pasaportes regional.
+- **Estándar:** tramitación con el plazo actual publicado por tu autoridad de pasaportes.
+- **Acelerada:** un servicio más rápido, donde esté disponible. Los requisitos dependen de la autoridad y del servicio.
+- **Cita urgente (en persona):** para una solicitud urgente que cumpla los requisitos. Los justificantes de viaje necesarios dependen de la autoridad y del servicio.
 
-Las citas urgentes están disponibles para viajes documentados e inminentes. Reserva en travel.state.gov y lleva prueba de viaje —no te verán sin ella.
+El Reino Unido ofrece el servicio 1 Week Fast Track, con entrega 1 semana después de la cita, y el servicio 1 Day Premium, solo para renovaciones de adultos. Las opciones y los requisitos para usarlas varían según el país.
 
 EE.UU. ofrece un programa de renovación en línea para adultos elegibles. Verifica travel.state.gov para ver si eres elegible y si el programa está aceptando actualmente solicitudes.
 
-**Una salvedad importante: los tiempos publicados son promedios, no garantías.** Consulta travel.state.gov para la cifra actual antes de aplicar, porque durante la temporada alta el procesamiento rutinario regularmente se extiende bien más allá de las estimaciones publicadas. Si tu viaje está cerca, la tarifa adicional por procesamiento acelerado suele compensarse de sobra con la certeza y la tranquilidad de planificación que ofrece.
+Conviene saber qué estás pagando cuando eliges un servicio más rápido. Cada servicio tiene su propio plazo y sus requisitos de documentación, fotografía e identificación. Pagar más no soluciona un formulario incorrecto o una foto que no cumpla los requisitos.
 
 | Vía | Qué estás pagando en realidad |
 |---|---|
-| Estándar | Se tramita más o menos por orden de llegada, sin prioridad. La opción por defecto para quien no tenga un viaje cerca. |
-| Acelerada, vía rápida o prioritaria de pago | Una posición anterior en la cola o una cita reservable por delante del atraso estándar. Se aplican los mismos requisitos de elegibilidad y las mismas verificaciones de documentos. |
-| Cita urgente en persona | Acceso directo a una oficina o agencia de pasaportes cuando el viaje es genuinamente inminente. Requiere prueba de las fechas de viaje y, por norma general, solo se ofrece cuando está claro que las vías estándar y de pago no llegan a tiempo. |
+| Estándar | Tramitación estándar, con el plazo actual publicado por tu autoridad de pasaportes. |
+| Acelerada, vía rápida o prioritaria de pago | Un servicio más rápido, donde esté disponible. Quién puede usarlo y qué documentos debes enviar dependen de la autoridad y del servicio. |
+| Cita urgente en persona | Una cita para una solicitud urgente que cumpla los requisitos. Los justificantes de viaje necesarios dependen de la autoridad y del servicio. |
 
 Qué significa esto en la práctica
 
-Si viajas durante la temporada alta de un país y tu pasaporte se queda justo, pagar por la vía más rápida te compra certeza: una posición anterior en la cola, sin importar cuánto haya crecido el atraso estándar ese mes. Si en cambio te quedas con el procesamiento estándar durante un periodo de mucha demanda, estás apostando a que la estimación publicada todavía refleje la realidad —justo la suposición que sorprende a la gente.
+Si viajas durante la temporada alta de un país y tu pasaporte se queda justo, una vía más rápida puede ayudarte si cumples los requisitos y su plazo encaja con tu viaje. Comprueba cuándo empieza a contar ese plazo y ten en cuenta el tiempo de entrega antes de elegir un servicio.
 
 ## ¿Cuánto tiempo tarda la renovación de pasaporte en el Reino Unido?
 
@@ -54,21 +54,21 @@ HM Passport Office publica su propio tiempo de procesamiento actual en GOV.UK, y
 
 ![Diagrama de una solicitud que avanza hacia un pasaporte terminado pasando seis posibles retrasos: cambio de nombre, primer pasaporte de adulto, solicitud infantil, perdido o dañado, comprobaciones extra o entrevista, y solicitar desde el extranjero](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/passport-renewal-timeline-es.jpg) Seis situaciones sacan una solicitud del carril rápido. Una renovación sencilla las evita todas.
 
-El Reino Unido ofrece un servicio de renovación digital para adultos elegibles solicitando desde **dentro del Reino Unido**. Si calificas, no necesitas enviar tu pasaporte anterior, aunque sigues necesitando una foto que cumpla los requisitos oficiales. La solicitud se completa en línea. **Si eres ciudadano británico viviendo en el extranjero** (un expatriado), el servicio digital no está disponible para ti. Debes usar el servicio de pasaporte de ultramar en GOV.UK. Para casos urgentes, HM Passport Office ofrece un servicio 1 Week Fast Track y, solo para renovaciones de adultos, un servicio [1 Day Premium](https://www.gov.uk/get-a-passport-urgently) con la cita más próxima 2 días después de solicitarlo. Consulta GOV.UK para el servicio correcto y la cifra actual para tu situación, que pregunta tu ubicación al inicio de la solicitud.
+El Reino Unido ofrece un servicio de renovación digital para adultos elegibles solicitando desde **dentro del Reino Unido**. Si cumples los requisitos, tendrás que enviar tu pasaporte anterior y aportar una foto que cumpla los requisitos oficiales. La solicitud se completa en línea. **Si eres ciudadano británico viviendo en el extranjero** (un expatriado), el servicio digital no está disponible para ti. Debes usar el servicio de pasaporte de ultramar en GOV.UK. Para casos urgentes, HM Passport Office ofrece un servicio 1 Week Fast Track, con entrega 1 semana después de la cita, y, solo para renovaciones de adultos, un servicio [1 Day Premium](https://www.gov.uk/get-a-passport-urgently) con la cita más próxima 2 días después de solicitarlo. Consulta GOV.UK para el servicio correcto y la cifra actual para tu situación, que pregunta tu ubicación al inicio de la solicitud.
 
-Un cambio de nombre, un primer pasaporte de adulto, o cualquier solicitud que requiera verificaciones extra tomará más tiempo. Los pasaportes de niños no pueden usar el servicio digital en absoluto —pasan únicamente por el proceso estándar. Antes de solicitar, consulta GOV.UK para la cifra actual relevante para tu situación.
+Un cambio de nombre, un primer pasaporte de adulto, o cualquier solicitud que requiera verificaciones extra tomará más tiempo. Consulta los requisitos de cada servicio para las solicitudes infantiles. Antes de solicitar, consulta GOV.UK para la cifra actual relevante para tu situación.
 
 ## ¿Cuánto tiempo tarda la renovación de pasaporte en Australia?
 
-La Oficina de Pasaportes Australiana es la única fuente fiable de tiempos actuales, porque se mueven con el volumen de solicitudes y la época del año. Australia puede ofrecer opciones más rápidas por una tarifa; consulta passports.gov.au para saber cuáles están disponibles.
+La Oficina de Pasaportes Australiana es la única fuente fiable de los plazos actuales. Las opciones más rápidas dependen de dónde presentes la solicitud. La Alta Comisión de Australia en Londres indica que no hay servicio prioritario ni de tramitación rápida para las solicitudes presentadas fuera de Australia.
 
-Los tiempos de procesamiento estándar de Australia son generalmente mejores que los de EE.UU. y el Reino Unido, pero pueden estirarse durante los periodos de mayor demanda. Solicita tan pronto como razonablemente puedas antes de tu viaje, y consulta passports.gov.au para el tiempo actual antes de presentar la solicitud.
+Los tiempos de procesamiento estándar de Australia varían. Solicita tan pronto como razonablemente puedas antes de tu viaje, y consulta passports.gov.au para el tiempo actual antes de presentar la solicitud.
 
 Las solicitudes de pasaporte infantil son una historia diferente. Son más complejas y tardan más que las renovaciones de adultos, especialmente cuando intervienen requisitos de consentimiento de los padres.
 
 ## ¿Cuánto tiempo tarda la renovación de pasaporte en Canadá?
 
-Immigration, Refugees and Citizenship Canada (IRCC) tramita las renovaciones de pasaporte. [Canadá ofrece renovación en línea](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html) si necesitas el pasaporte dentro de 20 días laborables o más; el resto debe presentar la solicitud en papel. Para viajes urgentes, consulta las opciones disponibles con la autoridad de pasaportes.
+Immigration, Refugees and Citizenship Canada (IRCC) tramita las renovaciones de pasaporte. [Canadá ofrece renovación en línea](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html) a quienes cumplen los requisitos y no van a viajar en los próximos 20 días laborables, pero esa es solo una de las condiciones para solicitarla en línea. Para viajes urgentes, consulta las opciones disponibles con la autoridad de pasaportes.
 
 Eso hace el proceso más exigente logísticamente, especialmente si vives en algún lugar rural y la oficina de pasaportes más cercana está lejos. Consulta la página de IRCC para los tiempos de procesamiento actuales antes de solicitar, y suma el tiempo de envío en ambas direcciones si aplicas por correo.
 
@@ -83,7 +83,7 @@ Sin importar qué país estés renovando a través de, los mismos errores consis
 
 ## ¿Puedes viajar mientras tu pasaporte está siendo renovado?
 
-A veces puedes viajar mientras la renovación está pendiente, siempre que tu pasaporte actual siga siendo válido y no lo hayas entregado con la solicitud. Algunas autoridades lo piden al solicitar la renovación, así que comprueba las normas de la tuya antes de reservar; una vez enviado, tendrás que esperar.
+A veces puedes viajar mientras la renovación está pendiente, siempre que tu pasaporte actual siga siendo válido y no lo hayas entregado con la solicitud. Algunas autoridades lo piden al solicitar la renovación; otras te permiten seguir usándolo mientras la tramitan y lo cancelan una vez emitido el nuevo. Comprueba las normas de la tuya antes de reservar o viajar; una vez enviado, tendrás que esperar.
 
 Las reglas varían según el país:
 
@@ -100,8 +100,8 @@ Las reglas varían según el país:
 
 Tienes viaje reservado en las próximas pocas semanas y tu pasaporte está a punto de vencer. No entres en pánico —pero sí muévete rápido:
 
-1. **Llama a tu autoridad de pasaportes —no solo navegues el sitio web.** La mayoría de las autoridades ofrecen vías urgentes con requisitos de elegibilidad —las del Reino Unido no están disponibles si solicitas desde el extranjero—. Una llamada telefónica te lleva a una persona real que puede decirte exactamente qué está disponible.
-2. **Junta tus documentos antes de que llames.** Necesitarás prueba de viaje inminente (confirmaciones de reserva mostrando fechas), tu pasaporte actual, fotos, y formularios completados. Ten todo listo —las citas urgentes se mueven rápidamente.
+1. **Consulta el servicio urgente de tu autoridad de pasaportes.** En el Reino Unido, las citas urgentes para quienes cumplen los requisitos se reservan en línea; si estás fuera del Reino Unido, solicita en su lugar un documento de viaje de emergencia.
+2. **Junta tus documentos antes de la cita.** Consulta qué necesitas llevar: justificantes de viaje, si se exigen, tu pasaporte actual, fotos y formularios completados. Ten todo listo —las citas urgentes se mueven rápidamente.
 3. **Verifica tu póliza de seguro de viaje.** Algunas pólizas cubren costos extras de renovación de pasaporte urgente. La mayoría excluye situaciones donde la renovación era previsible —pero vale la pena mirar antes de gastar el dinero.
 4. **Pregunta sobre reprogramar tu viaje.** Aerolíneas y hoteles varían, pero muchos waivearán tarifas de cambio para emergencias de pasaporte documentadas. No está garantizado, pero no cuesta nada preguntar.
 
@@ -120,27 +120,27 @@ Fuentes oficiales
 
 ### ¿Cuánto tiempo tarda la renovación de pasaporte en EE.UU.?
 
-No podemos darte aquí una cifra fija, porque los tiempos de procesamiento del Departamento de Estado de EE.UU. cambian con la demanda y la plantilla durante todo el año. El procesamiento rutinario es la cola por defecto; pagar por el servicio acelerado te adelanta en esa cola sin saltarse ninguna verificación. Si tu viaje es genuinamente inminente, podrías calificar para una cita en persona en una agencia de pasaportes regional, pero necesitarás llevar prueba de viaje. Consulta travel.state.gov para la cifra actual antes de aplicar.
+No podemos darte aquí una cifra fija, porque los tiempos de procesamiento de pasaportes de EE.UU. varían. Puede haber un servicio de procesamiento acelerado. Si tu viaje es inminente, consulta los criterios actuales del Departamento de Estado para las citas urgentes y de emergencia y qué justificantes necesitarás. Consulta travel.state.gov para la cifra actual antes de presentar la solicitud.
 
 ### ¿Cuánto tiempo tarda la renovación de pasaporte en el Reino Unido?
 
-HM Passport Office publica su propio tiempo de procesamiento actual, y cambia con la frecuencia suficiente como para que citar una cifra aquí probablemente esté equivocada cuando la leas. Los adultos elegibles que solicitan desde dentro del Reino Unido pueden usar el servicio de renovación digital, que evita enviar el pasaporte pero sigue necesitando una foto que cumpla los requisitos oficiales. Si solicitas desde fuera del Reino Unido, usarás en su lugar el servicio de ultramar. Para casos urgentes, HM Passport Office ofrece un servicio 1 Week Fast Track y, solo para renovaciones de adultos, un servicio [1 Day Premium](https://www.gov.uk/get-a-passport-urgently) con la cita más próxima 2 días después de solicitarlo. Consulta GOV.UK para la cifra que aplica a tu situación.
+HM Passport Office publica su propio tiempo de procesamiento actual, y cambia con la frecuencia suficiente como para que citar una cifra aquí probablemente esté equivocada cuando la leas. Los adultos elegibles que solicitan desde dentro del Reino Unido pueden usar el servicio de renovación digital, con una foto que cumpla los requisitos oficiales. Aun así, tendrás que enviar tu pasaporte anterior. Si solicitas desde fuera del Reino Unido, usarás en su lugar el servicio de ultramar. Para casos urgentes, HM Passport Office ofrece un servicio 1 Week Fast Track, con entrega 1 semana después de la cita, y, solo para renovaciones de adultos, un servicio [1 Day Premium](https://www.gov.uk/get-a-passport-urgently) con la cita más próxima 2 días después de solicitarlo. Consulta GOV.UK para la cifra que aplica a tu situación.
 
 ### ¿Cuánto tiempo tarda la renovación de pasaporte en Australia?
 
-La Oficina de Pasaportes Australiana es la única fuente fiable de tiempos actuales, porque se mueven con el volumen de solicitudes y la época del año. Australia puede ofrecer opciones más rápidas por una tarifa; consulta passports.gov.au para saber cuáles están disponibles. Solicita tan pronto como razonablemente puedas, sea cual sea la vía que uses —los periodos de mayor demanda alargan la cola estándar más de lo que suele reflejar la orientación publicada. Consulta passports.gov.au antes de solicitar.
+La Oficina de Pasaportes Australiana es la única fuente fiable de los plazos actuales. Las opciones más rápidas dependen de dónde presentes la solicitud. La Alta Comisión de Australia en Londres indica que no hay servicio prioritario ni de tramitación rápida para las solicitudes presentadas fuera de Australia. Solicita tan pronto como razonablemente puedas, sea cual sea la vía que uses. Consulta passports.gov.au antes de solicitar.
 
 ### ¿Puedo renovar mi pasaporte en línea?
 
-EE.UU. ofrece renovación en línea a adultos elegibles —consulta travel.state.gov para conocer los requisitos actuales—. El Reino Unido ofrece un servicio digital para adultos elegibles que solicitan desde el propio país; quienes solicitan desde el extranjero deben usar un servicio separado. [Canadá ofrece renovación en línea](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html) si necesitas el pasaporte dentro de 20 días laborables o más; el resto debe presentar la solicitud en papel. Para Australia, consulta passports.gov.au para saber cómo solicitarlo. Las normas de elegibilidad cambian, así que consulta el sitio oficial de tu país antes de dar por hecho que cumples los requisitos.
+EE.UU. ofrece renovación en línea a adultos elegibles —consulta travel.state.gov para conocer los requisitos actuales—. El Reino Unido ofrece un servicio digital para adultos elegibles que solicitan desde el propio país; quienes solicitan desde el extranjero deben usar un servicio separado. [Canadá ofrece renovación en línea](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html) a quienes cumplen los requisitos y no van a viajar en los próximos 20 días laborables, pero esa es solo una de las condiciones para solicitarla en línea. Para Australia, consulta passports.gov.au para saber cómo solicitarlo. Las normas de elegibilidad cambian, así que consulta el sitio oficial de tu país antes de dar por hecho que cumples los requisitos.
 
 ### ¿Qué debo hacer si mi pasaporte está venciendo y tengo viaje reservado?
 
-Solicita en cuanto sepas que hay un problema, y paga por la vía más rápida que ofrezca tu autoridad. Si tu viaje está lo bastante cerca como para preocuparte de que el plazo estándar no llegue a tiempo, llama directamente a tu autoridad de pasaportes en lugar de fiarte del sitio web —la mayoría de las autoridades ofrecen citas urgentes sujetas a requisitos de elegibilidad —las del Reino Unido no están disponibles desde el extranjero—, y normalmente hay que pedirlas por teléfono. No esperes a ver si el proceso estándar se pone al día por sí solo.
+Solicita en cuanto sepas que hay un problema, y paga por la vía más rápida que ofrezca tu autoridad. Si tu viaje está lo bastante cerca como para preocuparte de que el plazo estándar no llegue a tiempo, consulta el servicio urgente de tu autoridad de pasaportes. En el Reino Unido, las citas urgentes para quienes cumplen los requisitos se reservan en línea; si estás fuera del Reino Unido, solicita en su lugar un documento de viaje de emergencia. No esperes a ver si el proceso estándar se pone al día por sí solo.
 
 ### ¿Puedo viajar mientras mi renovación de pasaporte está pendiente?
 
-A veces, siempre que tu pasaporte actual siga siendo válido y no lo hayas entregado como parte de la renovación. Algunas autoridades piden que lo envíes con la solicitud, así que consulta las normas de la tuya antes de reservar. Una vez entregado, tendrás que esperar al nuevo. Comprueba siempre los requisitos de tu autoridad de pasaportes y las posibles implicaciones para tus visados antes de viajar con el pasaporte actual.
+A veces, siempre que tu pasaporte actual siga siendo válido y no lo hayas entregado como parte de la renovación. Algunas autoridades piden que lo envíes con la solicitud; otras te permiten seguir usándolo mientras la tramitan y lo cancelan una vez emitido el nuevo. Consulta las normas de la tuya antes de reservar o viajar. Una vez entregado, tendrás que esperar al nuevo. Comprueba siempre los requisitos de tu autoridad de pasaportes y las posibles implicaciones para tus visados antes de viajar con el pasaporte actual.
 
 ## Artículos relacionados
 

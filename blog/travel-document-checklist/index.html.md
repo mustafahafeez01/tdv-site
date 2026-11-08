@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/blog/travel-document-checklist/
 - Business travellers often carry multiple passports and work visas - these need their own tracking, separate from personal documents.
 - A digital backup of every document (encrypted, not in your photo library) could get you home faster if something goes wrong abroad.
 
-Most travel document checklists are just a flat list: passport, visa, insurance. They tell you what to bring, but not when to check it, which is where people get caught out. The family who realise at check-in that one passport expires in five months, the solo traveller who booked without noticing their visa requirement, or the business traveller who forgot which passport their corporate visa is tied to - these aren't edge cases, they're the norm.
+Most travel document checklists are just a flat list: passport, visa, insurance. They tell you what to bring, but not when to check it, which is where people get caught out. The family who realise at check-in that one passport expires in five months, the solo traveller who booked without noticing their visa requirement, or the business traveller who forgot which passport their visa is tied to - these aren't edge cases, they're the norm.
 
 This checklist is organised by trip stage instead. Starting from the moment you book and working through to security, each stage has a specific set of actions that need doing. Following them in order is how the usual last-minute scrambles don't happen.
 
@@ -24,9 +24,9 @@ This checklist is organised by trip stage instead. Starting from the moment you 
 
 The biggest mistake travellers make is treating the booking moment as administrative and document checks as something to do later. These need to happen at exactly the same time.
 
-**Check your passports before you pay**
+**Check your travel documents before you pay**
 
-Before you confirm any booking, check every traveller's passport against three criteria: validity, name match, and blank pages. Validity means meeting the destination's requirement: many countries want [six months of validity left on the day you arrive](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), and a few count from departure, so check your destination, as explained in our [guide to the 6-month passport rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/). The name on the passport must exactly match the booking name, and some countries require [at least two blank visa pages](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements) for entry stamps.
+Before you confirm any booking, check each passport you'll use against three criteria: validity, name match, and blank pages. Validity means meeting the destination's requirement: many countries want [six months of validity left on the day you arrive](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), and a few count from departure, so check your destination, as explained in our [guide to the 6-month passport rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/). The name on the passport must exactly match the booking name, and some countries require [at least two blank visa pages](https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements) for entry stamps.
 
 **Check your visa requirements**
 
@@ -46,7 +46,7 @@ We'd renew any passport expiring within 12 months now, because children's passpo
 
 Submit any visa applications that need lead time, and check the issuing authority for how long it currently takes. Prepare supporting documents: bank statements, accommodation confirmations, onward travel proof. Book a biometrics appointment in advance if the visa requires it.
 
-For families: if a child is travelling with only one parent or another adult, prepare a child travel consent letter now. Include the child's full name and date of birth, both parents' contact details, travel dates, destinations, and the absent parent's signature. Some destinations also ask for the letter to be notarised, so check the entry rules.
+For families: if a child is travelling with only one parent or another adult, we'd prepare a child travel consent letter now. Include the child's full name and date of birth, both parents' contact details, travel dates, destinations, and the absent parent's signature. Some destinations also ask for the letter to be notarised, so check the entry rules.
 
 ## One Month Before: Confirm and Consolidate
 
@@ -54,7 +54,7 @@ By one month before travel, all your documents should be in hand. This stage is 
 
 ### Identity Documents
 
-- Passports confirmed valid and in travel wallet
+- Passports or accepted national ID cards confirmed valid and in travel wallet
 - Visas confirmed (check validity dates, entry counts, any conditions)
 - National ID card if accepted at destination (EU travel within Schengen)
 
@@ -67,11 +67,11 @@ By one month before travel, all your documents should be in hand. This stage is 
 
 ### Family and Special Documents
 
-- Parental consent letter prepared and signed
+- Parental consent letter prepared and signed if applicable
 - Birth certificates accessible if required by destination country
 - Medical records or prescriptions for ongoing conditions
 
-For business travellers: if you hold two passports, confirm which passport your corporate visa is attached to and which you need to enter and exit each country. **Some countries require you to enter and exit on the same document**, so getting this wrong can turn a minor mistake into a border delay.
+For business travellers: if you hold two passports, confirm which passport your visa is attached to and which you need to enter and exit each country. **Some countries require you to enter and exit on the same document**, so getting this wrong can turn a minor mistake into a border delay.
 
 ## The Night Before: Final Confirmation
 
@@ -81,12 +81,12 @@ If something's missing now, you've got hours to sort it out, not weeks.
 
 ### Night Before
 
-- Passports out and accounted for - one per person
+- Passports or accepted national ID cards out and accounted for - one per person
 - Boarding passes downloaded to phone or printed
 - Travel insurance certificate accessible on phone
 - Hotel and transfer confirmations downloaded offline
 - Any required vaccination or health certificates
-- Parental consent letter in bag, not in suitcase
+- Parental consent letter, if applicable, in bag, not in suitcase
 - Emergency contact numbers written down somewhere offline
 
 ## At the Airport: Keep These With You
@@ -101,13 +101,13 @@ Different trips need different document sets, as the table below shows for solo,
 
 | Document | Solo | Family | Business | Notes |
 |---|---|---|---|---|
-| Passport | | each member | | Check validity against destination, not just expiry date |
-| Visa (if required) | | each member | corporate | Business: confirm visa is in the correct passport |
+| Passport or accepted national ID card | Generally | generally, each member | Generally | Check validity against destination, not just expiry date |
+| Visa (if required) | | each member | check visa or travel authorisation for planned activities | Business: confirm visa is in the correct passport |
 | Travel insurance | | all covered | check employer covers you | Confirm coverage before each trip, not just at purchase |
 | Booking confirmations | | | | Offline copy (don't rely on email access at borders) |
 | Child consent letter | N/A | if applicable | N/A | Asked for in some countries if one parent is absent |
 | Birth certificates | N/A | if required | N/A | Some countries ask for this for children under 18 (for example, [Mexico](https://www.gov.uk/foreign-travel-advice/mexico/entry-requirements) can ask for evidence of your relationship) |
-| Work authorisation letter | N/A | N/A | if required | Some destinations require employer letters for business travellers |
+| Employer or business invitation letter | N/A | N/A | if required | Some destinations require employer letters for business travellers |
 
 If a trip is already booked, the one thing worth doing today is pulling out every passport involved and checking its expiry against the destination's requirement, not just against your travel dates.
 
@@ -126,7 +126,7 @@ Official sources
 
 ### What documents do I need for international travel?
 
-The core documents for international travel are a valid passport, any required visa, travel insurance, and booking confirmations. For family travel, add each child's passport (checked individually), birth certificates if required by the destination, and a parental consent letter if one parent is not travelling. Business travellers should confirm which passport their work visa is attached to.
+The core documents to check for international travel are a valid passport or accepted national ID card, any required visa, travel insurance, and booking confirmations. For family travel, add each child's accepted travel document (checked individually), birth certificates if required by the destination, and a parental consent letter if needed. Business travellers should confirm which passport their work visa is attached to.
 
 ### How far in advance should I check my travel documents?
 
@@ -138,7 +138,7 @@ Yes. Each person's passport expiry, visa requirements, and insurance coverage is
 
 ### What is a child travel consent letter and do I need one?
 
-A child travel consent letter is a signed document from the absent parent giving permission for the child to travel. Some countries, including [South Africa](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements), set extra requirements for children travelling with one parent, and [Canadian authorities](https://travel.gc.ca/travelling/children/consent-letter) recommend a signed consent letter. Without one you may face extra questions or delays. The letter should include the child's details, both parents' contact information, travel dates, destinations, and the absent parent's signature.
+A child travel consent letter is a signed document from the absent parent giving permission for the child to travel. [South Africa](https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements) generally exempts accompanied foreign visa-exempt children from extra supporting documents, and [Canadian authorities](https://travel.gc.ca/travelling/children/consent-letter) recommend a signed consent letter. Without one you may face extra questions or delays. The letter should include the child's details, both parents' contact information, travel dates, destinations, and the absent parent's signature.
 
 ### What documents should I keep accessible at the airport and not in checked luggage?
 

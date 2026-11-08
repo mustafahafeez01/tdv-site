@@ -80,7 +80,7 @@ Source: https://traveldocumentvault.com/de/blog/
 
 ##
 
-[FamilienreisenSchengen-Reisepassregeln für Familienreisen: Was Eltern falsch machen Schengen erfordert 3 Monate Gültigkeit nach Abreise, nicht 6 – und Kinderreisepässe verfallen nach 5 Jahren. Was Familien beim Buchen überprüfen sollten. 10. Juli 20266 Min. Lesezeit](https://traveldocumentvault.com/de/blog/schengen-passport-rules-family-trips/)
+[FamilienreisenSchengen-Reisepassregeln für Familienreisen: Was Eltern falsch machen Schengen erfordert 3 Monate Gültigkeit nach Abreise, nicht 6 – und britische Kinderpässe gelten 5 Jahre. Was Familien beim Buchen überprüfen sollten. 10. Juli 20266 Min. Lesezeit](https://traveldocumentvault.com/de/blog/schengen-passport-rules-family-trips/)
 
 ##
 

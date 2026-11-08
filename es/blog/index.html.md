@@ -80,7 +80,7 @@ Source: https://traveldocumentvault.com/es/blog/
 
 ##
 
-[Viajes en familiaNormas de Pasaporte Schengen para Viajes en Familia: Qué Cometen Mal los Padres Schengen necesita 3 meses de validez más allá de la salida, no 6, y los pasaportes de los niños se vencen en 5 años. Qué deben verificar las familias el día que reservan. 10 de julio de 20266 min de lectura](https://traveldocumentvault.com/es/blog/schengen-passport-rules-family-trips/)
+[Viajes en familiaNormas de Pasaporte Schengen para Viajes en Familia: Qué Cometen Mal los Padres Schengen necesita 3 meses de validez más allá de la salida, no 6, y los pasaportes infantiles británicos duran 5 años. Qué deben verificar las familias el día que reservan. 10 de julio de 20266 min de lectura](https://traveldocumentvault.com/es/blog/schengen-passport-rules-family-trips/)
 
 ##
 

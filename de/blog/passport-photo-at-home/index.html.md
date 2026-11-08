@@ -1,6 +1,6 @@
 # Passfoto-Regeln: Größe, Brille und wie Sie es zu Hause machen
 
-> Die Passfoto-Regeln, an denen Fotos scheitern: Größe, Brille, Hintergrund und Licht. So gelingt zu Hause ein vorschriftsmäßiges Foto.
+> Die Passfoto-Regeln, an denen Fotos scheitern: Größe, Brille, Hintergrund und Licht. So machen Sie Ihr Foto zu Hause, sofern Ihr Land das erlaubt.
 
 Source: https://traveldocumentvault.com/de/blog/passport-photo-at-home/
 
@@ -10,25 +10,25 @@ Source: https://traveldocumentvault.com/de/blog/passport-photo-at-home/
 
 ## Wichtigste Erkenntnisse
 
-- Verwenden Sie einen einfarbigen, hellen Hintergrund in dem von Ihrer Behörde verlangten Farbton, neutralen Ausdruck, Augen offen und gerade nach vorne schauend
+- Verwenden Sie einen einfarbigen, hellen Hintergrund in dem von Ihrer Behörde verlangten Farbton. Schauen Sie mit neutralem Ausdruck und offenen Augen geradeaus – für kleine Kinder gelten Ausnahmen
 - Größenanforderungen unterscheiden sich von Land zu Land und werden streng durchgesetzt. Einige Behörden geben Millimeter an, andere Zoll. Entnehmen Sie die genauen Messwerte Ihrer eigenen Passbehörde anstelle einer Zusammenfassung
 - Natürliches Fensterlich funktioniert am besten – vermeiden Sie harte Schatten und vermeiden Sie Kamerablitz
 - Viele Behörden, darunter die britische, bitten Sie, keine Brille zu tragen, außer es ist nötig – überprüfen Sie aktuelle Anforderungen
-- Häufige Ablehnungsgründe sind Schatten, falsche Größe, Lächeln, unscharfe Fotos und ungeeigneter Hintergrund
+- Fotos können abgelehnt werden, wenn sie die Vorgaben Ihrer Behörde zu Beleuchtung, Größe, Gesichtsausdruck, Schärfe oder Hintergrund nicht erfüllen
 
-Ein zu Hause aufgenommenes Foto wird genauso zuverlässig akzeptiert wie eines aus dem Fotoautomaten, solange es dieselbe kurze Liste von Regeln erfüllt. Die meisten Ablehnungen laufen auf drei Dinge hinaus: Schatten im Gesicht oder im Hintergrund, ein falsch proportionierter Kopf im Bild, und die Brille. Stimmen diese drei, ist der Rest einfach.
+Laut GOV.UK werden Fotos aus einem Fotoautomaten oder Geschäft eher akzeptiert als Fotos mit dem eigenen Gerät. Fotos können abgelehnt werden, wenn sie die Vorgaben Ihrer Behörde zu Beleuchtung, Größe, Gesichtsausdruck, Schärfe oder Hintergrund nicht erfüllen.
 
-## Die meisten Länder teilen dieselben grundlegenden Fotoanforderungen
+## Fotoanforderungen unterscheiden sich je nach Behörde
 
-Obwohl spezifische Regeln je nach Passbehörde unterschiedlich sind, teilen die meisten Länder grundlegende Anforderungen für Passfotos. Das Verständnis dieser Grundlagen bringt Sie auf sicheren Boden, unabhängig davon, welches Land Ihren Pass ausstellt.
+Fotoanforderungen unterscheiden sich je nach Passbehörde, Antragsformat und Altersgruppe.
 
 ### Hintergrund und Komposition
 
-Sie benötigen einen einfarbigen, hellen Hintergrund, dessen genauer Farbton von Ihrer Behörde abhängt: [GOV.UK](https://www.gov.uk/photos-for-passports) verlangt ein einfarbiges Creme oder Hellgrau, während die [kanadische Regierung](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/photos.html) ein einfarbiges Weiß oder Hellfarbiges verlangt. Keine Muster, Schatten, unscharfe Hintergründe oder kräftigen Farben. Der Grund ist einfach: Beamte benötigen einen sauberen, unverbauten Blick auf Ihr Gesicht, um es gegen zukünftige Dokumente zu vergleichen. Verwenden Sie ein einfarbiges Laken oder einen Fotokarton in dem von Ihrer Behörde verlangten Farbton – für das Vereinigte Königreich Creme oder Hellgrau – oder streichen Sie einen kleinen Wandbereich passend. Der Schlüssel ist, es hell und durchgehend zu halten.
+Sie benötigen einen einfarbigen, hellen Hintergrund, dessen genauer Farbton von Ihrer Behörde abhängt: [GOV.UK](https://www.gov.uk/photos-for-passports) verlangt für gedruckte Fotos in der Regel einen einfarbigen cremefarbenen oder hellgrauen Hintergrund, während die [kanadische Regierung](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/photos.html) ein einfarbiges Weiß oder Hellfarbiges verlangt. Keine Muster, Schatten, unscharfe Hintergründe oder kräftigen Farben. Der Grund ist einfach: Beamte benötigen einen sauberen, unverbauten Blick auf Ihr Gesicht, um es gegen zukünftige Dokumente zu vergleichen. Verwenden Sie ein einfarbiges Laken oder einen Fotokarton in dem von Ihrer Behörde verlangten Farbton – für gedruckte Fotos im Vereinigten Königreich Creme oder Hellgrau – oder streichen Sie einen kleinen Wandbereich passend. Der Schlüssel ist, es hell und durchgehend zu halten.
 
 ### Ausdruck und Pose
 
-Ihr Gesicht muss das Bild im von Ihrer Passbehörde angegebenen Verhältnis ausfüllen, mit offenen und deutlich sichtbaren Augen – die meisten Länder verbieten Lächeln, und Blinzeln wird das Foto disqualifizieren. Schauen Sie geradeaus in die Kamera mit neutralem Ausdruck, neigen Sie den Kopf leicht, wenn das natürlicher wirkt, halten Sie Ihren Kopf aber allgemein quadratisch zur Linse. Ihre Ohren sollten idealerweise auf beiden Seiten Ihres Gesichts sichtbar sein.
+Ihr Gesicht muss das Bild in der Regel im von Ihrer Passbehörde angegebenen Verhältnis ausfüllen, mit offenen und deutlich sichtbaren Augen. GOV.UK erlaubt für Kinder unter 6 Ausnahmen beim Gesichtsausdruck und für Kinder unter einem Jahr bei der Vorgabe, die Augen offen zu halten. Schauen Sie geradeaus in die Kamera mit neutralem Ausdruck, neigen Sie den Kopf leicht, wenn das natürlicher wirkt, halten Sie Ihren Kopf aber allgemein quadratisch zur Linse. Ihre Ohren sollten idealerweise auf beiden Seiten Ihres Gesichts sichtbar sein.
 
 ## Darf man auf dem Passfoto eine Brille tragen?
 
@@ -44,7 +44,7 @@ Bei digitalen Einreichungen treten Pixel an die Stelle von Millimetern, und jede
 
 ### Wo Sie die Größenanforderungen Ihres Landes finden
 
-Die Größe ist das, woran die meisten Menschen scheitern – wenn Ihr Foto nicht den Vorgaben Ihres Landes entspricht, ist eine Ablehnung fast sicher. Jedes Land legt seine eigenen Abmessungen fest, und diese Regeln werden von Zeit zu Zeit überarbeitet, daher sind die einzigen Zahlen, denen zu vertrauen ist, die auf der Website Ihrer eigenen Passbehörde am Tag der Einreichung.
+Die Größe ist wichtig: Wenn Ihr Foto nicht den Vorgaben Ihres Landes entspricht, kann es abgelehnt werden. Jedes Land legt seine eigenen Abmessungen fest, und diese Regeln werden von Zeit zu Zeit überarbeitet, daher sind die einzigen Zahlen, denen zu vertrauen ist, die auf der Website Ihrer eigenen Passbehörde am Tag der Einreichung.
 
 Die Anforderungen unterscheiden sich von Land zu Land, und einige werden in Zoll statt Millimetern angegeben. Wir drucken die Zahlen hier absichtlich nicht nach – eine Zahl, die in einen Blog-Artikel kopiert wird, ist eine Zahl, die leise veraltet sein kann. Gehen Sie stattdessen direkt zu Ihrer Behörde.
 
@@ -55,7 +55,7 @@ Die Anforderungen unterscheiden sich von Land zu Land, und einige werden in Zoll
 | Australien | Australisches Passamtsleitfaden für Fotos |
 | Kanada | Regierung von Kanada Passfoto |
 
-Diese Spezifikationen sind genau – selbst wenige Millimeter bedeuten Ablehnung. Ihr Smartphone-Rohfoto wird normalerweise viel größer als das sein, was Sie einreichen müssen, weshalb es Zuschneidungs-Apps gibt. Kostenlose oder kostengünstige Tools wie die auf iOS und Android verfügbaren ermöglichen es Ihnen, Ihr Land auszuwählen und automatisch auf die genaue Spezifikation zu ändern.
+GOV.UK weist Antragstellende an, mit dem eigenen Gerät aufgenommene digitale Fotos nicht zuzuschneiden; gedruckte Fotos für das Vereinigte Königreich dürfen in der Regel kein Ausschnitt aus einem größeren Bild sein.
 
 ### Fotoeinreichungsmethoden Vergleich
 
@@ -63,21 +63,21 @@ Sie haben mehrere Optionen, um Ihr Passfoto in die Hände der Passbehörde zu be
 
 | Methode | Kosten | Akzeptanzrisiko | Bequemlichkeit | Offizielle Anleitung |
 |---|---|---|---|---|
-| Zu Hause DIY (Smartphone + Zuschneidungs-App) | Kostenlos oder nahezu kostenlos | Höher, wenn Sie Beleuchtungs- oder Größenangaben übersehen | Sehr hoch - sofort | Prüfen Sie die Website Ihrer Behörde |
-| Lokale Apotheke oder Drogerie | Bescheidene Gebühr | Niedrig - ausgebildete Fachleute überprüfen | Mittel - normalerweise Same-Day-Service | Weit verbreitet und generell zuverlässig - überprüfen Sie Ihrer eigenen Behörde Fotovoraussetzungen trotzdem |
-| Post (Vereinigtes Königreich und andere) | Bescheidene Gebühr | Niedrig - in-house genommen, überprüft | Mittel - erfordert Besuch und Termin | Offizieller Postdienst |
-| Online-Services (z.B. Passport Photo Online) | Bescheidene Gebühr | Mittel - digitale Einreichung, Feedback bereitgestellt | Hoch - von zu Hause, digitale Lieferung | Nicht offiziell, aber weit verbreitet - überprüfen Sie, ob Ihr Land vorab zugeschnittene Uploads akzeptiert |
-| Professionelles Fotostudio | Die teuerste Option | Niedrig - professionelle Beleuchtung und Komposition | Niedrig - erfordert Termin | Geringstes Risiko – das Foto muss dennoch die Vorgaben Ihrer Behörde erfüllen |
+| Foto zu Hause, sofern Ihre Behörde es erlaubt | Planen Sie Ausrüstung und Druck ein | GOV.UK erlaubt in der Regel digitale Fotos mit dem eigenen Gerät; Kanada verlangt in der Regel einen gewerblichen Fotografen | Zu Hause, wo erlaubt | Prüfen Sie die Website Ihrer Behörde |
+| Lokale Apotheke oder Drogerie | Fragen Sie den Anbieter nach den Kosten | Fragen Sie, ob das Personal die Fotovorgaben Ihrer Behörde beachtet | Fragen Sie nach Öffnungszeiten und Bearbeitungsdauer | Bitten Sie den Anbieter, die Fotovorgaben Ihrer Passbehörde einzuhalten |
+| Digitaler Check-and-Send-Service der britischen Post Office | Fragen Sie den Anbieter nach den Kosten | Laut GOV.UK garantiert Check and Send keinen erfolgreichen Passantrag | Besuch einer teilnehmenden Filiale; fragen Sie nach den Abläufen vor Ort | GOV.UK: Der digitale Check-and-Send-Service umfasst die Fotoaufnahme |
+| Gewerblicher Online-Fotodienst, sofern Ihre Behörde ihn erlaubt | Fragen Sie den Anbieter nach den Kosten | Das Foto muss in der Regel die Vorgaben Ihrer Behörde erfüllen | Fragen Sie nach Lieferformat und Bearbeitungsdauer | GOV.UK weist Antragstellende an, mit dem eigenen Gerät aufgenommene digitale Fotos nicht zuzuschneiden |
+| Professionelles Fotostudio | Fragen Sie das Studio nach den Kosten | Bitten Sie um Fotos, die den Vorgaben Ihrer Behörde entsprechen | Fragen Sie, ob ein Termin nötig ist | Das Foto muss in der Regel die Vorgaben Ihrer Behörde erfüllen |
 
 ## Beleuchtung und Bildqualität
 
-Wenn Sie die Beleuchtung falsch machen, ist eine Ablehnung fast sicher. Schatten über Ihrem Gesicht, ungleichmäßige Beleuchtung oder übersteuerte Bereiche um das Gesicht disqualifizieren das Foto.
+Beleuchtungsprobleme können zu einer Ablehnung führen. Schatten über Ihrem Gesicht, ungleichmäßige Beleuchtung oder überbelichtete Bereiche um das Gesicht können das Foto unbrauchbar machen.
 
 ### Best Practice Beleuchtung
 
 Fensterlich ist Ihre beste Wahl. Positionieren Sie sich senkrecht zum Fenster für gleichmäßige Beleuchtung über Ihr Gesicht und um harte Schatten unter den Augen oder an einer Seite zu vermeiden. Bewölkte Tage funktionieren besonders gut, weil Wolken das Licht gleichmäßig diffundieren, ohne die Härte der direkten Sonne. Vermeiden Sie die Aufnahme mittags in voller Sonne, was zu ungünstigen Schatten neigt und Sie zum Blinzeln bringt.
 
-Verwenden Sie niemals den Kamerablitz Ihres Telefons. Blitz neigt dazu, harte Schatten zu erzeugen, die Hautfarbe zu waschen und verursacht oft Rote-Augen-Effekt. Wenn Ihr Raum dunkel ist, bewegen Sie sich näher zum Fenster oder wählen Sie eine andere Tageszeit. Es ist besser, das Foto bei guter Beleuchtung neu aufzunehmen, als ein mit Blitz beleuchtetes Foto einzureichen, das abgelehnt wird.
+Verwenden Sie niemals den Kamerablitz Ihres Telefons. Blitz neigt dazu, harte Schatten zu erzeugen, die Hautfarbe zu waschen und verursacht oft Rote-Augen-Effekt. Wenn Ihr Raum dunkel ist, bewegen Sie sich näher zum Fenster oder wählen Sie eine andere Tageszeit. Wir würden das Foto vor dem Einreichen bei guter Beleuchtung neu aufnehmen.
 
 Verwenden Sie ein Stativ oder lehnen Sie Ihr Telefon gegen ein stabiles Objekt, damit Sie beide Hände haben, um Ihr Gesicht richtig zu positionieren. Dies stellt auch sicher, dass die Kamera eben ist und auf Ihr Gesicht fokussiert. Wenn Sie das Telefon halten müssen, lassen Sie jemand anderen das Foto machen, um Kameraverwacklungen und ungleichmäßige Rahmung zu vermeiden.
 
@@ -85,25 +85,25 @@ Verwenden Sie ein Stativ oder lehnen Sie Ihr Telefon gegen ein stabiles Objekt, 
 
 Die Kameras der meisten modernen Smartphones bieten für ein Passfoto ausreichend Auflösung. Bevor Sie aufnehmen, stellen Sie sicher, dass Ihr Telefon im Fokusmodus ist – tippen Sie auf Ihrem Gesicht auf dem Bildschirm, und die meisten Telefone sperren den Fokus dort. Ihr endgültiges Bild sollte scharf und klar sein.
 
-## Häufige Ablehnungsgründe und wie Sie diese vermeiden
+## Probleme mit Passfotos und wie Sie diese vermeiden
 
 ![Diagramm mit sechs abgelehnten Passfotos, Schatten hinter dem Kopf, Lächeln, Reflexion auf der Brille, Haare über den Augen, gemusterter Hintergrund und zu nah aufgenommen, neben einem akzeptierten Foto mit einfarbigem Hintergrund, neutralem Gesichtsausdruck und gleichmäßigem Licht](https://traveldocumentvault.com/blog/passport-photo-at-home/passport-photo-figure-de.jpg) Sechs Arten, wie ein Foto zurückgeschickt wird, und das eine Setup, das durchkommt.
 
 - **Schatten im Gesicht:** Verursacht durch Seitenlicht oder harte Lichtquellen. Positionieren Sie sich senkrecht zum Fenster für gleichmäßige Beleuchtung, und überprüfen Sie, dass Ihre Ohren und Wangenknochen gleichmäßig beleuchtet sind.
-- **Falsche Fotodimensionen:** Das Foto entspricht nicht den Spezifikationen Ihres Landes (Anforderungen unterscheiden sich je nach Land). Verwenden Sie eine Passfoto-Zuschneidungs-App und überprüfen Sie die Abmessungen doppelt gegen die offizielle Spezifikation Ihrer Behörde vor dem Drucken oder Hochladen – nicht die Standards eines anderen Landes.
-- **Lächeln oder ungewöhnlicher Ausdruck:** Die meisten Länder erfordern einen neutralen Ausdruck. Üben Sie einen ruhigen, geradeaus gerichteten Blick in einem Spiegel – zielen Sie auf ernst, nicht streng.
+- **Falsche Fotodimensionen:** Das Foto entspricht nicht den Spezifikationen Ihres Landes (Anforderungen unterscheiden sich je nach Land). GOV.UK weist Antragstellende an, mit dem eigenen Gerät aufgenommene digitale Fotos für britische Pässe nicht zuzuschneiden.
+- **Lächeln oder ungewöhnlicher Ausdruck:** GOV.UK verlangt in der Regel einen neutralen Ausdruck, mit einer Ausnahme für Kinder unter 6. Wir würden vorher einen ruhigen, geradeaus gerichteten Blick im Spiegel üben – ernst, nicht streng.
 - **Brille mit Glanz:** Glanz auf den Gläsern verdeckt Ihre Augen. Entweder entfernen Sie Ihre Brille oder passen Sie den Winkel an, um die Reflexion zu beseitigen. Einige Behörden, darunter die britische, bitten Sie, keine Brille zu tragen, außer es ist nötig, daher überprüfen Sie zuerst die aktuellen Regeln Ihrer Behörde.
 - **Unscharfes oder unfokussiertes Bild:** Bewegungs- oder Fokussprobleme während der Aufnahme. Verwenden Sie ein Stativ oder ein stabiles Objekt, um Ihr Telefon zu stützen, tippen Sie auf den Bildschirm, um auf Ihrem Gesicht zu fokussieren, und vermeiden Sie jede Bewegung während der Aufnahme.
 - **Falscher Hintergrund:** Farbiger Hintergrund, Muster oder ungleichmäßiger heller Hintergrund. Eine einfache, helle Plakatwand oder ein Bettlaken in dem von Ihrer Behörde verlangten Farbton funktioniert am besten – stellen Sie sicher, dass keine sichtbare Textur oder Schatten vorhanden sind.
 - **Übermäßiger Kopfplatz oder Beschnitt:** Gesicht zu klein oder falsch im Rahmen positioniert. Die Regeln Ihres Landes geben genau an, wie viel des Rahmens Ihr Gesicht ausfüllen sollte, normalerweise als Messung vom Kinn bis zur Scheitelkante, nicht als Prozentsatz – arbeiten Sie nach dieser Zahl, nicht nach dem, was richtig aussieht.
 
-## Smartphone-Foto zuschneiden, dann drucken oder hochladen
+## Smartphone-Foto für die Einreichung vorbereiten
 
-Ihr Smartphone-Foto hat die richtige Größe selten sofort. Nach der Aufnahme müssen Sie es auf die genauen Spezifikationen Ihres Landes zuschneiden, dann entscheiden, ob Sie es drucken oder digital hochladen möchten.
+GOV.UK weist Antragstellende an, mit dem eigenen Gerät aufgenommene digitale Fotos nicht zuzuschneiden; gedruckte Fotos für das Vereinigte Königreich dürfen in der Regel kein Ausschnitt aus einem größeren Bild sein.
 
 ### Zuschneidungs-Tools
 
-Zuschneidungs-Apps nehmen die Vermutung aus dem Neugrößen heraus. Suchen Sie nach Tools wie Passport Photo Online oder ID Photo Studio auf iOS und Android – sie ermöglichen es Ihnen, Ihr Land auszuwählen und automatisch nach Spezifikation zuzuschneiden, während überprüft wird, dass Ihre Gesichtsdimensionen korrekt sind. Viele Apps gehen weiter, indem sie Feedback geben, wenn Ihre Beleuchtung oder Ihr Hintergrund zu kurz kommt.
+Wir würden uns vor dem Einsatz eines Zuschneidewerkzeugs nach den Formatvorgaben der Behörde richten. GOV.UK weist Antragstellende an, mit dem eigenen Gerät aufgenommene digitale Fotos nicht zuzuschneiden.
 
 ### Drucken vs. digitale Einreichung
 
@@ -111,17 +111,17 @@ Einige Länder akzeptieren digitale Uploads des biometrischen Passfotos, die onl
 
 ## Vorbereitung Checkliste
 
-Bevor Sie Ihr Foto machen, stellen Sie sicher, dass Sie Folgendes zur Hand haben:
+Wenn Ihre Behörde ein Foto zu Hause erlaubt, stellen Sie sicher, dass Sie Folgendes zur Hand haben:
 
 - Einfarbiges, helles Hintergrundmaterial in dem von Ihrer Behörde verlangten Farbton, bereit und positioniert
 - Gute natürliche Lichtquelle (bevorzugt ein Fenster)
 - Smartphone mit funktionierender Kamera
 - Stativ oder stabiles Objekt zum Stützen Ihres Telefons
 - Kenntnis der genauen Fotoangaben Ihres Landes
-- Eine Zuschneidungs-App heruntergeladen und bereit
+- Die Vorgaben Ihrer Behörde zum Zuschneiden
 - Plan zum Drucken oder digitalen Einreichen basierend auf den Anforderungen Ihres Landes
 
-Wenn Sie gutes Fensterlicht haben und ein paar Minuten Zeit, machen Sie das Foto heute selbst: Es ist kostenlos und sofort fertig. Wenn Sie sich bei Ihrem Aufbau nicht sicher sind oder unter Zeitdruck stehen, senkt eine Drogerie oder Postfiliale dieses Risiko gegen eine geringe Gebühr auf fast null. Prüfen Sie nur zuerst die aktuellen Vorgaben Ihres eigenen Landes, nicht eine Zahl, die Sie irgendwo anders gesehen haben.
+Wenn Ihre Behörde Fotos zu Hause erlaubt und Sie gutes Fensterlicht haben, würden wir es zu Hause versuchen. Wenn Sie sich bei Ihrem Aufbau nicht sicher sind oder unter Zeitdruck stehen, würden wir einen Fotoanbieter nach der Bearbeitungsdauer fragen und danach, ob er die Fotovorgaben Ihrer Behörde einhält.
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 
@@ -134,7 +134,7 @@ Offizielle Quellen
 
 ### Kann ich ein Passfoto mit meinem Smartphone machen
 
-Ja, Sie können ein Passfoto mit einem Smartphone machen. Positionieren Sie sich vor einem einfarbigen, hellen Hintergrund in dem von Ihrer Passbehörde verlangten Farbton, mit guter natürlicher Beleuchtung, und stellen Sie sicher, dass das Foto die Größen- und Qualitätsanforderungen Ihres Landes erfüllt. Viele Menschen verwenden dann eine Zuschneide-App, um das digitale Foto auf die offiziellen Abmessungen zu ändern und es entweder auszudrucken oder digital hochzuladen, je nach Einreichungsprozess ihres Landes.
+GOV.UK erlaubt in der Regel digitale Passfotos mit dem eigenen Gerät, während Kanada in der Regel einen gewerblichen Fotografen verlangt. Positionieren Sie sich vor einem einfarbigen, hellen Hintergrund in dem von Ihrer Passbehörde verlangten Farbton, mit guter natürlicher Beleuchtung, und stellen Sie sicher, dass das Foto die Größen- und Qualitätsanforderungen Ihres Landes erfüllt. GOV.UK weist Antragstellende an, mit dem eigenen Gerät aufgenommene digitale Fotos nicht zuzuschneiden.
 
 ### Wie groß sollte ein Passfoto sein
 
@@ -142,7 +142,7 @@ Die Maße gedruckter Passfotos unterscheiden sich je nach Behörde. Im Vereinigt
 
 ### Warum wurde mein Passfoto abgelehnt
 
-Häufige Ablehnungsgründe sind Schatten im Gesicht, falsche Größe, Lächeln oder ungewöhnliche Gesichtsausdrücke, Brille, unscharfe Bilder oder ungeeigneter Hintergrund. Stellen Sie sicher, dass Ihr Foto alle offiziellen Anforderungen erfüllt, bevor Sie es einreichen. Überprüfen Sie das spezifische Feedback Ihrer Passbehörde und erstellen Sie das Foto erneut und beheben Sie dabei jedes erwähnte Problem.
+Fotos können abgelehnt werden, wenn sie die Vorgaben Ihrer Behörde zu Beleuchtung, Größe, Gesichtsausdruck, Schärfe oder Hintergrund nicht erfüllen. Die Regeln für Brillen hängen von der Behörde ab. Stellen Sie sicher, dass Ihr Foto alle offiziellen Anforderungen erfüllt, bevor Sie es einreichen. Überprüfen Sie das spezifische Feedback Ihrer Passbehörde und erstellen Sie das Foto erneut und beheben Sie dabei jedes erwähnte Problem.
 
 ### Benötige ich spezielle Beleuchtung für ein Passfoto
 
@@ -154,7 +154,7 @@ Das hängt von der Behörde ab. GOV.UK bittet britische Antragstellende, keine B
 
 ### Welche Regeln gelten für ein Passfoto?
 
-Die Grundregeln sind in den meisten Ländern ähnlich: ein einfarbiger, heller Hintergrund, ein neutraler Ausdruck mit geschlossenem Mund, beide Augen offen und gut sichtbar, kein Glanz oder Tönung auf der Brille, falls Ihre Behörde das Tragen erlaubt, gleichmäßige Beleuchtung ohne Schatten, und ein aktuelles Foto in der von Ihrem Land verlangten Größe. Jede Behörde veröffentlicht ihre eigene vollständige Liste, und die Details unterscheiden sich, prüfen Sie also Ihre eigene, bevor Sie fotografieren.
+Die Regeln unterscheiden sich je nach Behörde, Antragsformat und Altersgruppe. GOV.UK verlangt für gedruckte Fotos in der Regel einen einfarbigen cremefarbenen oder hellgrauen Hintergrund. Für Kinder unter 6 gelten Ausnahmen beim Gesichtsausdruck, für Kinder unter einem Jahr auch bei der Vorgabe, die Augen offen zu halten.
 
 ## Verwandte Artikel
 

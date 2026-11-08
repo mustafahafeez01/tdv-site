@@ -1,6 +1,6 @@
 # Regels voor een paspoortfoto: afmetingen, bril en hem thuis maken
 
-> De pasfoto-regels die vaak worden gemist: afmetingen, bril, achtergrond en licht. Zo maak je thuis met je telefoon een geldige foto.
+> Pasfotoregels over afmetingen, bril, achtergrond en licht die tot afwijzing kunnen leiden, en hoe je thuis een foto maakt als je land dat toestaat.
 
 Source: https://traveldocumentvault.com/nl/blog/passport-photo-at-home/
 
@@ -10,25 +10,25 @@ Source: https://traveldocumentvault.com/nl/blog/passport-photo-at-home/
 
 ## Belangrijkste punten
 
-- Gebruik een effen, lichte achtergrond in de kleur die je instantie voorschrijft, een neutrale gezichtsuitdrukking, en ogen open en recht vooruit kijkend
+- Gebruik een effen, lichte achtergrond in de kleur die je instantie voorschrijft, een neutrale gezichtsuitdrukking, en ogen open en recht vooruit kijkend, met uitzonderingen voor jonge kinderen
 - De afmetingen verschillen per land en worden strikt gehandhaafd, dus neem de maten over van je eigen paspoortinstantie in plaats van een samenvatting
 - Natuurlijk raamlicht werkt het best – vermijd harde schaduwen en gebruik geen cameraflits
 - Veel instanties, waaronder de Britse, vragen je geen bril te dragen tenzij het niet anders kan – controleer de actuele eisen
-- Veelvoorkomende afwijzingsredenen zijn schaduwen, onjuiste afmetingen, glimlachen, wazige foto's en een verkeerde achtergrond
+- Foto's kunnen worden afgewezen als ze niet voldoen aan de regels van je instantie voor belichting, afmetingen, gezichtsuitdrukking, scherpte of achtergrond
 
-Een foto die je thuis maakt wordt net zo makkelijk geaccepteerd als een uit een fotohokje, mits hij aan dezelfde korte lijst met regels voldoet. De meeste afwijzingen komen neer op drie dingen: schaduw op het gezicht of de achtergrond, een verkeerde grootte van het hoofd in het kader, en een bril. Krijg je die goed, dan is de rest eenvoudig.
+Volgens GOV.UK hebben foto's uit een fotohokje of winkel meer kans op goedkeuring dan foto's die je met je eigen toestel maakt. Foto's kunnen worden afgewezen als ze niet voldoen aan de regels van je instantie voor belichting, afmetingen, gezichtsuitdrukking, scherpte of achtergrond.
 
-## De meeste landen delen dezelfde kerneisen voor de foto
+## De foto-eisen verschillen per instantie
 
-Hoewel de specifieke regels per paspoortinstantie verschillen, delen de meeste landen dezelfde kerneisen voor paspoortfoto's. Als je deze basisprincipes begrijpt, sta je stevig in je schoenen, ongeacht welk land je paspoort uitgeeft.
+De foto-eisen verschillen per paspoortinstantie, aanvraagvorm en leeftijdsgroep.
 
 ### Achtergrond en compositie
 
-Je hebt een effen, lichte achtergrond nodig, en de exacte kleur hangt af van je instantie: [GOV.UK](https://www.gov.uk/photos-for-passports) vraagt om effen crème of lichtgrijs, terwijl [de Canadese overheid](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/photos.html) om effen wit of lichtgekleurd vraagt. Geen patronen, schaduwen, wazige achtergronden of felle kleuren. De reden is simpel: ambtenaren hebben een schoon, ongestoord beeld van je gezicht nodig om te vergelijken met toekomstige documenten. Gebruik een effen laken of posterbord in de kleur die je instantie voorschrijft (crème of lichtgrijs voor het VK), of schilder een klein stukje muur. Het belangrijkste is dat het licht en gelijkmatig blijft, over de hele achtergrond.
+Je hebt een effen, lichte achtergrond nodig, en de exacte kleur hangt af van je instantie: [GOV.UK](https://www.gov.uk/photos-for-passports) vraagt voor afgedrukte foto's doorgaans om effen crème of lichtgrijs, terwijl [de Canadese overheid](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/photos.html) om effen wit of lichtgekleurd vraagt. Geen patronen, schaduwen, wazige achtergronden of felle kleuren. De reden is simpel: ambtenaren hebben een schoon, ongestoord beeld van je gezicht nodig om te vergelijken met toekomstige documenten. Gebruik een effen laken of posterbord in de kleur die je instantie voorschrijft (crème of lichtgrijs voor afgedrukte foto's voor het VK), of schilder een klein stukje muur. Het belangrijkste is dat het licht en gelijkmatig blijft, over de hele achtergrond.
 
 ### Uitdrukking en houding
 
-Je gezicht moet het kader vullen tot de verhouding die je paspoortinstantie voorschrijft, met open en duidelijk zichtbare ogen – de meeste landen verbieden glimlachen, en samengeknepen ogen diskwalificeren de foto. Kijk recht in de camera met een neutrale gezichtsuitdrukking, kantel je hoofd licht als dat natuurlijker voelt, maar houd je hoofd over het algemeen recht ten opzichte van de lens. Je oren zijn idealiter aan beide kanten van je gezicht zichtbaar.
+Je gezicht moet doorgaans het kader vullen tot de verhouding die je paspoortinstantie voorschrijft, met open en duidelijk zichtbare ogen. GOV.UK maakt uitzonderingen voor de gezichtsuitdrukking van kinderen jonger dan 6 jaar en voor open ogen bij kinderen jonger dan één jaar. Kijk recht in de camera met een neutrale gezichtsuitdrukking, kantel je hoofd licht als dat natuurlijker voelt, maar houd je hoofd over het algemeen recht ten opzichte van de lens. Je oren zijn idealiter aan beide kanten van je gezicht zichtbaar.
 
 ## Mag je een bril dragen op een paspoortfoto?
 
@@ -44,7 +44,7 @@ Digitale indieningen wisselen millimeters in voor pixels, en elke instantie publ
 
 ### Waar je de afmetingseisen van je land controleert
 
-Afmeting is waar de meeste mensen struikelen – komt je foto niet overeen met de eisen van je land, dan is afwijzing vrijwel zeker. Elk land stelt zijn eigen maten vast, sommige in inches en sommige in millimeters, en deze worden van tijd tot tijd herzien.
+De afmetingen zijn belangrijk: je foto kan worden afgewezen als hij niet aan de eisen van je land voldoet. Elk land stelt zijn eigen maten vast, sommige in inches en sommige in millimeters, en deze worden van tijd tot tijd herzien.
 
 We herhalen die cijfers hier bewust niet. Een getal dat in een blogpost wordt overgenomen, is een getal dat stilletjes verouderd kan raken, en deze post is daar niet de autoriteit voor. Controleer rechtstreeks bij je eigen paspoortkantoor.
 
@@ -55,7 +55,7 @@ We herhalen die cijfers hier bewust niet. Een getal dat in een blogpost wordt ov
 | Australië | fotorichtlijnen van Australian Passport Office |
 | Canada | pagina over paspoortfoto's van de Canadese overheid |
 
-Wat je land ook voorschrijft, het is exact – zelfs een paar millimeter afwijking betekent afwijzing. De ruwe foto van je smartphone is meestal veel groter dan wat je moet indienen, wat de reden is dat bijsnij-apps bestaan. Gratis of goedkope tools voor iOS en Android laten je je land invoeren en passen de foto automatisch aan de exacte specificatie aan.
+GOV.UK zegt dat je digitale foto's die je met je eigen toestel maakt niet mag bijsnijden; afgedrukte foto's voor het VK mogen doorgaans geen uitsnede van een grotere foto zijn.
 
 ### Vergelijking van manieren om een paspoortfoto in te dienen
 
@@ -63,21 +63,21 @@ Je hebt verschillende opties om je paspoortfoto bij de paspoortinstantie te krij
 
 | Methode | Kosten | Risico op afwijzing | Gemak | Officiële richtlijnen |
 |---|---|---|---|---|
-| Zelf thuis (smartphone + bijsnij-app) | Gratis of bijna gratis | Hoger als je licht of afmeting mist | Zeer hoog - direct | Controleer de site van je instantie |
-| Plaatselijke drogist of apotheek | Een bescheiden vergoeding | Laag - getraind personeel controleert | Gemiddeld - meestal dezelfde dag | Veel gebruikt en over het algemeen betrouwbaar - controleer sowieso de eisen van je eigen instantie |
-| Postkantoor (VK en andere landen) | Een bescheiden vergoeding | Laag - ter plekke gemaakt, gecontroleerd | Gemiddeld - vereist bezoek en afspraak | Officiële service van het postkantoor |
-| Online diensten (bijv. Passport Photo Online) | Een bescheiden vergoeding | Gemiddeld - digitale indiening, feedback gegeven | Hoog - vanuit huis, digitale levering | Niet officieel maar veel gebruikt - controleer of je land voorgesneden uploads accepteert |
-| Professionele fotostudio | De duurste optie | Laag - deskundige belichting en compositie | Laag - vereist afspraak | Laagste risico, maar de foto moet nog steeds aan de eisen van je instantie voldoen |
+| Thuisfoto, als je instantie dat toestaat | Houd rekening met apparatuur en afdrukken | GOV.UK staat digitale foto's met je eigen toestel doorgaans toe; Canada vereist doorgaans een beroepsfotograaf | Thuis, waar dat is toegestaan | Controleer de site van je instantie |
+| Plaatselijke drogist of apotheek | Vraag de aanbieder naar de kosten | Vraag of het personeel de fotoregels van je instantie volgt | Vraag naar openingstijden en levertijd | Vraag de aanbieder de fotoregels van je paspoortinstantie te volgen |
+| Digitale Check and Send van de Britse Post Office | Vraag de aanbieder naar de kosten | Volgens GOV.UK garandeert Check and Send niet dat je aanvraag wordt goedgekeurd | Bezoek een deelnemend filiaal; vraag naar de lokale werkwijze | GOV.UK: bij digitale Check and Send wordt je foto gemaakt |
+| Commerciële online fotoservice, als je instantie dat toestaat | Vraag de aanbieder naar de kosten | De foto moet doorgaans aan de regels van je instantie voldoen | Vraag hoe en wanneer de foto's worden geleverd | GOV.UK zegt dat je digitale foto's die je met je eigen toestel maakt niet mag bijsnijden |
+| Professionele fotostudio | Vraag de studio naar de kosten | Vraag om foto's die aan de regels van je instantie voldoen | Vraag of een afspraak nodig is | De foto moet doorgaans aan de regels van je instantie voldoen |
 
 ## Belichting en beeldkwaliteit
 
-Zit de belichting fout, dan is afwijzing bijna zeker. Schaduwen op het gezicht, ongelijke belichting of overbelichte gebieden rond het gezicht diskwalificeren allemaal de foto.
+Problemen met de belichting kunnen tot afwijzing leiden. Schaduwen op het gezicht, ongelijke belichting of overbelichte gebieden rond het gezicht kunnen de foto ongeschikt maken.
 
 ### Beste praktijken voor belichting
 
 Raamlicht is je beste optie. Ga loodrecht op het raam staan voor een gelijkmatige belichting van je gezicht en om harde schaduwen onder je ogen of aan één kant te voorkomen. Bewolkte dagen werken bijzonder goed omdat de wolken het licht gelijkmatig verstrooien zonder de felheid van direct zonlicht. Vermijd fotograferen rond het middaguur in fel zonlicht, wat vaak onflatteuze schaduwen creëert en je doet knijpen met je ogen.
 
-Gebruik nooit de flitser van je telefoon. Flits creëert vaak harde schaduwen, wast de huidtint uit en veroorzaakt vaak rode ogen. Is je kamer donker, kom dan dichter bij het raam of kies een ander moment van de dag. Beter om de foto opnieuw te maken in goed licht dan een foto met flits in te dienen die wordt afgewezen.
+Gebruik nooit de flitser van je telefoon. Flits creëert vaak harde schaduwen, wast de huidtint uit en veroorzaakt vaak rode ogen. Is je kamer donker, kom dan dichter bij het raam of kies een ander moment van de dag. Wij zouden de foto opnieuw maken bij goed licht voordat we hem indienen.
 
 Gebruik een statief of zet je telefoon tegen een stabiel voorwerp, zodat je beide handen vrij hebt om je gezicht correct te positioneren. Dit zorgt er ook voor dat de camera recht staat en op je gezicht is scherpgesteld. Moet je de telefoon zelf vasthouden, laat dan iemand anders de foto nemen om cameratrilling en een scheve uitsnede te voorkomen.
 
@@ -85,25 +85,25 @@ Gebruik een statief of zet je telefoon tegen een stabiel voorwerp, zodat je beid
 
 De meeste moderne smartphonecamera's hebben ruim voldoende resolutie voor een paspoortfoto. Zorg dat je telefoon in scherpstelmodus staat voordat je fotografeert – tik op je gezicht op het scherm, dan vergrendelen de meeste telefoons daar de scherpstelling. Je uiteindelijke foto moet scherp en duidelijk zijn.
 
-## Veelvoorkomende afwijzingsredenen en hoe je ze voorkomt
+## Problemen met pasfoto's en hoe je ze voorkomt
 
 ![Diagram van zes afgewezen paspoortfoto's - schaduw achter het hoofd, glimlachen, reflectie in de bril, haar over de ogen, achtergrond met patroon en foto te dichtbij genomen - naast één geaccepteerde foto op een effen achtergrond met neutrale gezichtsuitdrukking en gelijkmatig licht](https://traveldocumentvault.com/blog/passport-photo-at-home/passport-photo-figure-nl.jpg) Zes manieren waarop een foto wordt teruggestuurd, en de ene opstelling die slaagt.
 
 - **Schaduwen op het gezicht:** Veroorzaakt door zijlicht of felle lichtbronnen. Ga loodrecht op een raam staan voor gelijkmatige belichting, en controleer of je oren en jukbeenderen gelijkmatig belicht zijn.
-- **Onjuiste fotoafmetingen:** De foto komt niet overeen met de specificatie van je land (eisen verschillen per land). Gebruik een bijsnij-app voor paspoortfoto's en controleer de afmetingen dubbel aan de officiële specificatie van je eigen instantie voordat je print of upload – niet aan de norm van een ander land.
-- **Glimlachen of een ongebruikelijke uitdrukking:** De meeste landen vereisen een neutrale gezichtsuitdrukking. Oefen vooraf een rustige, rechte blik voor een spiegel – streef naar serieus, niet streng.
+- **Onjuiste fotoafmetingen:** De foto komt niet overeen met de specificatie van je land (eisen verschillen per land). GOV.UK zegt dat je digitale foto's voor het VK die je met je eigen toestel maakt niet mag bijsnijden.
+- **Glimlachen of een ongebruikelijke uitdrukking:** GOV.UK vereist doorgaans een neutrale gezichtsuitdrukking, met een uitzondering voor kinderen jonger dan 6 jaar. Wij zouden vooraf een rustige, rechte blik oefenen voor een spiegel – streef naar serieus, niet streng.
 - **Bril met glans:** Glans op de glazen verbergt je ogen. Doe je bril af of pas de hoek aan om reflectie te voorkomen. Sommige instanties, waaronder de Britse, vragen je geen bril te dragen tenzij het niet anders kan, dus controleer eerst de actuele regels van je instantie.
 - **Wazige of onscherpe foto:** Beweging of scherpstelproblemen tijdens het maken van de foto. Gebruik een statief of stabiel voorwerp om je telefoon te ondersteunen, tik op het scherm om op je gezicht scherp te stellen, en vermijd elke beweging tijdens de opname.
 - **Verkeerde achtergrond:** Gekleurde achtergrond, patroon of ongelijke witte achtergrond. Een effen, licht posterbord of laken in de kleur die je instantie voorschrijft werkt het best – zorg dat er geen zichtbare textuur of schaduwen zijn.
 - **Te veel of te weinig ruimte rond het hoofd:** Gezicht te klein of verkeerd gepositioneerd in het kader. De regels van je land geven precies aan hoeveel van het kader je gezicht moet vullen, meestal als een maat van kin tot kruin in plaats van een percentage – werk naar dat cijfer toe, niet naar wat er "goed uitziet".
 
-## Snijd je smartphonefoto bij en print of upload hem daarna
+## Maak je smartphonefoto klaar voor indiening
 
-Je smartphonefoto heeft zelden meteen de juiste afmeting. Na het fotograferen moet je hem bijsnijden naar de exacte specificaties van je land en vervolgens beslissen of je hem print of digitaal uploadt.
+GOV.UK zegt dat je digitale foto's die je met je eigen toestel maakt niet mag bijsnijden; afgedrukte foto's voor het VK mogen doorgaans geen uitsnede van een grotere foto zijn.
 
 ### Bijsnijtools
 
-Bijsnij-apps nemen het giswerk uit het aanpassen van de afmeting. Kijk naar tools zoals Passport Photo Online of ID Photo Studio voor iOS en Android – hiermee selecteer je je land en wordt de foto automatisch op maat bijgesneden, terwijl wordt gecontroleerd of je gezichtsafmetingen correct zijn. Veel apps geven ook feedback als je belichting of achtergrond tekortschiet.
+Wij zouden de instructies van de instantie over het formaat volgen voordat we een bijsnijtool gebruiken. GOV.UK zegt dat je digitale foto's die je met je eigen toestel maakt niet mag bijsnijden.
 
 ### Printen versus digitaal indienen
 
@@ -111,17 +111,17 @@ Sommige landen accepteren digitale uploads van de biometrische paspoortfoto die 
 
 ## Checklist ter voorbereiding
 
-Voordat je je foto neemt, zorg dat je het volgende klaar hebt staan:
+Als je instantie thuisfoto's toestaat, zorg dan dat je het volgende klaar hebt staan:
 
 - Effen, licht achtergrondmateriaal in de kleur die je instantie voorschrijft, klaar en op zijn plek
 - Een goede bron van natuurlijk licht (bij voorkeur een raam)
 - Smartphone met een werkende camera
 - Statief of stabiel voorwerp om je telefoon tegen te zetten
 - Kennis van de exacte fotospecificaties van je land
-- Een gedownloade en klaargezette bijsnij-app
+- De instructies van je instantie over bijsnijden
 - Een plan voor printen of digitaal indienen op basis van de eisen van je land
 
-Heb je goed daglicht bij een raam en een paar minuten over, maak de foto dan vandaag nog zelf: het is gratis en direct klaar. Ben je niet zeker van je opstelling, of zit je krap in de tijd, dan brengt de drogist of apotheek dat risico tegen een bescheiden bedrag terug tot bijna nul. Controleer wel eerst de actuele eisen van je eigen land, en niet een getal dat je ergens anders zag.
+Als je instantie thuisfoto's toestaat en je goed daglicht bij een raam hebt, zouden we het thuis proberen. Ben je niet zeker van je opstelling, of zit je krap in de tijd, dan zouden we een fotoaanbieder vragen naar de levertijd en of die de fotoregels van je instantie volgt.
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 
@@ -134,7 +134,7 @@ Officiële bronnen
 
 ### Kan ik een paspoortfoto met mijn smartphone maken?
 
-Ja, je kunt een paspoortfoto met je smartphone maken. Ga voor een effen, lichte achtergrond staan in de kleur die je paspoortinstantie voorschrijft, met goed daglicht, en zorg dat de foto voldoet aan de grootte- en kwaliteitseisen van je land. Veel mensen gebruiken daarna een bijsnij-app om de digitale foto aan te passen aan de officiële afmetingen en printen hem of uploaden hem digitaal, afhankelijk van het aanvraagproces in hun land.
+GOV.UK staat digitale paspoortfoto's met je eigen toestel doorgaans toe, terwijl Canada doorgaans een beroepsfotograaf vereist. Ga voor een effen, lichte achtergrond staan in de kleur die je paspoortinstantie voorschrijft, met goed daglicht, en zorg dat de foto voldoet aan de grootte- en kwaliteitseisen van je land. GOV.UK zegt dat je digitale foto's die je met je eigen toestel maakt niet mag bijsnijden.
 
 ### Welke afmetingen moet een paspoortfoto hebben?
 
@@ -142,7 +142,7 @@ Het formaat voor afgedrukte pasfoto's verschilt per instantie. Het VK gebruikt 3
 
 ### Waarom werd mijn paspoortfoto afgewezen?
 
-Veelvoorkomende afwijzingsredenen zijn schaduwen op het gezicht, onjuiste afmetingen, glimlachen of een ongebruikelijke gezichtsuitdrukking, een bril, een wazige foto of een verkeerde achtergrond. Zorg dat je foto aan alle officiële eisen voldoet voordat je hem indient. Bekijk de specifieke feedback van je paspoortinstantie en maak de foto opnieuw, waarbij je elk genoemd punt aanpakt.
+Foto's kunnen worden afgewezen als ze niet voldoen aan de regels van je instantie voor belichting, afmetingen, gezichtsuitdrukking, scherpte of achtergrond. De regels voor brillen verschillen per instantie. Zorg dat je foto aan alle officiële eisen voldoet voordat je hem indient. Bekijk de specifieke feedback van je paspoortinstantie en maak de foto opnieuw, waarbij je elk genoemd punt aanpakt.
 
 ### Heb ik speciale verlichting nodig voor een paspoortfoto?
 
@@ -154,7 +154,7 @@ Dat hangt af van de instantie. GOV.UK zegt dat Britse aanvragers geen bril mogen
 
 ### Wat zijn de regels voor een paspoortfoto?
 
-De kernregels zijn in de meeste landen vergelijkbaar: een effen lichte achtergrond, een neutrale gezichtsuitdrukking met gesloten mond, beide ogen open en duidelijk zichtbaar, geen glans of tint op je bril als je instantie toestaat dat je hem ophoudt, gelijkmatige belichting zonder schaduwen, en een recente foto die voldoet aan de afmetingseisen van je land. Elke instantie publiceert haar eigen volledige lijst en de details verschillen, dus controleer die van jou voordat je de foto neemt.
+De regels verschillen per instantie, aanvraagvorm en leeftijdsgroep. GOV.UK vraagt voor afgedrukte foto's doorgaans om een effen crème of lichtgrijze achtergrond, maar maakt uitzonderingen op de regels voor gezichtsuitdrukking voor kinderen jonger dan 6 jaar en op de regels voor open ogen voor kinderen jonger dan één jaar.
 
 ## Gerelateerde artikelen
 

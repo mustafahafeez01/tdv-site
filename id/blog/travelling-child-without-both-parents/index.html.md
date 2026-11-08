@@ -12,11 +12,11 @@ Source: https://traveldocumentvault.com/id/blog/travelling-child-without-both-pa
 
 - **Petugas check-in dan petugas imigrasi memeriksa hal yang berbeda.** Memenuhi syarat salah satu tidak mengikat yang lain, baik saat kedatangan maupun keberangkatan.
 - Satu orang tua bepergian: bawa **surat izin dan akta kelahiran anak**.
-- Hak asuh tunggal: **surat penetapan hak asuh atau putusan pengadilan** sering kali lebih berguna di perbatasan daripada surat izin.
-- Orang tua lainnya telah meninggal: bawa **salinan resmi akta kematian**, bukan surat izin.
-- Beda nama keluarga: **akta kelahiran lengkap anak** biasanya cukup menjelaskan, ditambah akta nikah atau cerai jika nama Anda sendiri pernah berubah.
+- Hak asuh tunggal: bawa **surat penetapan hak asuh atau putusan pengadilan** serta persetujuan yang diperlukan dari pihak lain yang memiliki tanggung jawab orang tua.
+- Orang tua lainnya telah meninggal: jika Anda memiliki tanggung jawab tunggal dalam pengambilan keputusan, panduan Kanada menyarankan membawa **salinan akta kematian**.
+- Beda nama keluarga: **akta kelahiran lengkap anak** menunjukkan hubungan Anda dengan anak, ditambah akta nikah atau cerai jika nama Anda sendiri pernah berubah.
 
-Petugas check-in maskapai dan petugas imigrasi biasanya melihat lebih cermat saat seorang anak bepergian tanpa kedua orang tuanya, dan perhatian ekstra ini adalah bagian dari pemeriksaan perlindungan anak yang rutin, bukan kecurigaan terhadap siapa pun secara khusus. Perhatian itu berhenti begitu dokumen yang dibawa sesuai dengan situasinya. Dokumen mana yang dibutuhkan tergantung pada alasan orang tua lainnya tidak hadir: masih di rumah, sudah tidak lagi berbagi hak asuh, atau sudah meninggal dunia. Masing-masing situasi membutuhkan dokumen yang berbeda, dan surat izin yang paling banyak dibahas dalam panduan lain hanya mencakup situasi pertama.
+Petugas check-in maskapai dan petugas imigrasi biasanya melihat lebih cermat saat seorang anak bepergian tanpa kedua orang tuanya, dan perhatian ekstra ini adalah bagian dari pemeriksaan perlindungan anak yang rutin, bukan kecurigaan terhadap siapa pun secara khusus. Dokumen mana yang dibutuhkan tergantung pada alasan orang tua lainnya tidak hadir: masih di rumah, sudah tidak lagi berbagi hak asuh, atau sudah meninggal dunia. Masing-masing situasi bisa memerlukan dokumen pendukung, dan surat izin mungkin tetap disarankan untuk dibawa bersama putusan hak asuh.
 
 ## Loket Maskapai dan Imigrasi Memeriksa Hal yang Berbeda
 
@@ -32,41 +32,41 @@ Jika Anda satu-satunya orang tua yang bepergian dan orang tua lainnya hidup, seh
 
 Ada dua hal lagi di luar surat itu yang layak dibawa bersamanya. Bawa akta kelahiran anak Anda, karena surat izin mencantumkan nama anak dan orang tua, dan akta kelahiranlah yang sejak awal menjadi bukti hubungan antara keduanya. Beberapa negara juga mengharapkan surat izin mencerminkan [semua orang yang memegang tanggung jawab orang tua](https://www.gov.uk/permission-take-child-abroad), bukan hanya orang tua yang tercantum di paspor, yang bisa mencakup orang tua tiri atau wali tergantung situasi hukum keluarga Anda. Apakah ini berlaku untuk Anda sebaiknya dipastikan langsung ke otoritas imigrasi negara tujuan, bukan diasumsikan sendiri, karena ini berbeda-beda menurut negara dan keadaan.
 
-## Hak Asuh Tunggal: Saat Putusan Pengadilan Menjadi Dokumen Utama
+## Hak Asuh Tunggal: Bawa Juga Putusan Pengadilan
 
-Hak asuh tunggal mengubah dokumen mana yang penting, bukan menghilangkan kebutuhan akan dokumen itu sendiri. Ketika pengadilan telah memberikan Anda hak asuh tunggal atau tanggung jawab orang tua tunggal, dokumen yang lebih berguna di perbatasan sering kali adalah putusan hak asuh itu sendiri, atau salinan resminya, dibandingkan surat dari orang tua lainnya. Banyak otoritas perbatasan menerima putusan ini sebagai pengganti surat izin dari orang tua lain, dan beberapa tetap meminta untuk melihat keduanya. Jika putusan tersebut masih memberikan hak kontak atau akses kepada orang tua lainnya, surat izin dari mereka tetap layak untuk dibawa.
+Hak asuh tunggal tidak otomatis menghilangkan kebutuhan akan persetujuan. Panduan Kanada menyarankan surat izin jika memungkinkan atau aman, bahkan ketika putusan pengasuhan mengizinkan satu orang tua mengambil keputusan perjalanan sendiri. Jika putusan tersebut masih memberikan hak kontak atau akses kepada orang tua lainnya, surat izin dari mereka tetap layak untuk dibawa.
 
-Bawalah putusan itu, atau salinan resminya, saat bepergian. Dokumen itu tidak berguna kalau tersimpan di lemari arsip di rumah. Petugas yang bertanya biasanya hanya mencari jawaban sederhana untuk satu pertanyaan: apakah orang dewasa ini punya kedudukan hukum untuk membuat keputusan ini bagi anak tersebut. Salinan resmi biasanya cepat diperiksa, dan jika pengaturan hak asuh Anda baru saja berubah, ada baiknya memeriksa apakah negara tujuan mengharapkan salinan yang lebih baru daripada yang sudah Anda bawa selama bertahun-tahun.
+Bawalah putusan itu, atau salinan resminya, saat bepergian. Dokumen itu tidak berguna kalau tersimpan di lemari arsip di rumah. Petugas yang bertanya biasanya hanya mencari jawaban sederhana untuk satu pertanyaan: apakah orang dewasa ini punya kedudukan hukum untuk membuat keputusan ini bagi anak tersebut. Jika pengaturan hak asuh Anda baru saja berubah, kami sarankan membawa putusan terbaru.
 
-## Jika Orang Tua Lainnya Telah Meninggal Dunia: Akta Kematian Menggantikan Surat Izin
+## Jika Orang Tua Lainnya Telah Meninggal Dunia: Bawa Akta Kematian
 
-Tidak ada surat izin yang perlu dibuat ketika orang tua lainnya sudah meninggal dunia, dan sebagian besar petugas imigrasi tidak akan mengharapkannya. Yang Anda bawa sebagai gantinya adalah salinan resmi akta kematian, yang menjawab pertanyaan yang biasanya dijawab oleh surat izin: mengapa hanya satu orang tua yang hadir.
+Jika orang tua lainnya telah meninggal dan Anda memiliki tanggung jawab tunggal dalam pengambilan keputusan, panduan Kanada menyarankan membawa salinan akta kematiannya saat mendampingi anak Anda.
 
-Simpan salinan resmi itu bersama paspor Anda, bukan di berkas terpisah di rumah, karena ini dokumen yang bisa memakan waktu untuk diganti jika hilang di tengah perjalanan. Salinan cetak ditambah cadangan digital terenkripsi mengatasi baik tas yang hilang maupun ponsel yang tidak bisa dinyalakan. Jika nama keluarga anak Anda berbeda dari nama Anda, akta kelahiran berfungsi sama seperti di bagian lain artikel ini, yaitu menunjukkan bahwa anak ini memang anak Anda, apa pun nama yang tertera di paspor.
+Simpan salinan resmi itu bersama paspor Anda, bukan di berkas terpisah di rumah, karena ini dokumen yang bisa memakan waktu untuk diganti jika hilang di tengah perjalanan. Salinan cetak ditambah cadangan digital terenkripsi mengatasi baik tas yang hilang maupun ponsel yang tidak bisa dinyalakan. Jika nama keluarga anak Anda berbeda dari nama Anda, akta kelahiran berfungsi sama seperti di bagian lain artikel ini, yaitu menunjukkan hubungan Anda dengan anak, apa pun nama yang tertera di paspor.
 
-Jawaban praktisnya tetap singkat: satu dokumen, disimpan dekat dengan Anda, dan sebuah proses yang umumnya berjalan cepat begitu dokumen itu ditunjukkan.
+Jawaban praktisnya tetap singkat: simpan salinannya di tempat yang mudah dijangkau.
 
 ![Diagram pohon keputusan tentang dokumen yang harus dibawa sesuai siapa yang tidak ikut bepergian: surat izin untuk orang tua lainnya, putusan hak asuh atau pengadilan untuk mantan tanpa kontak, salinan akta kematian untuk orang tua yang telah meninggal, atau persetujuan dari keduanya ditambah akta kelahiran saat kedua orang tua tidak ikut bepergian, dengan catatan untuk tetap membawa akta kelahiran anak dalam kasus apa pun](https://traveldocumentvault.com/blog/travelling-child-without-both-parents/who-is-missing-figure-id.jpg) Empat situasi, empat dokumen, dan satu akta kelahiran yang membantu dalam semuanya. Ini adalah pembacaan kami atas apa yang paling sering diminta maskapai dan petugas perbatasan, bukan daftar hukum resmi. Persyaratan berbeda menurut destinasi dan maskapai, jadi periksa otoritas imigrasi destinasi Anda dan maskapai Anda sebelum bepergian.
 
 Ini adalah pandangan kami tentang apa yang paling sering diminta maskapai dan petugas imigrasi, bukan daftar persyaratan hukum. Ketentuannya berbeda-beda menurut negara tujuan dan maskapai, jadi periksa dulu ke otoritas imigrasi negara tujuan dan maskapai Anda sebelum berangkat.
 
-## Nama Keluarga yang Berbeda dari Anak Anda: Akta Kelahiran Biasanya Menjawabnya
+## Nama Keluarga yang Berbeda dari Anak Anda: Akta Kelahiran Menunjukkan Hubungan Anda
 
-Nama keluarga yang tidak cocok dengan anak Anda adalah hal yang umum dan jarang menimbulkan masalah begitu Anda memiliki dokumen yang tepat di tangan, meski tetap lebih baik membawa dokumen itu daripada berharap tidak ada yang bertanya. Pernikahan, perceraian, pernikahan kembali, dan sekadar memilih untuk tidak berbagi nama keluarga sejak lahir adalah alasan-alasan wajar untuk ketidakcocokan ini, dan petugas yang menanyakannya biasanya hanya menjalankan daftar periksa mental singkat yang sama, bukan mencurigai sesuatu yang khusus.
+Nama keluarga yang berbeda dari anak Anda bisa memicu pertanyaan, jadi lebih baik membawa bukti hubungan Anda dengan anak daripada berharap tidak ada yang bertanya. Pernikahan, perceraian, pernikahan kembali, dan sekadar memilih untuk tidak berbagi nama keluarga sejak lahir adalah alasan-alasan wajar untuk ketidakcocokan ini, dan petugas yang menanyakannya biasanya hanya menjalankan daftar periksa mental singkat yang sama, bukan mencurigai sesuatu yang khusus.
 
-Akta kelahiran lengkap anak Anda, yang mencantumkan nama Anda sebagai orang tua, paling cepat menjawab pertanyaan ini. Jika nama Anda sendiri berubah sejak akta itu diterbitkan, akta nikah atau cerai menjembatani perbedaan antara nama di paspor Anda dan nama di akta anak Anda. Bawa keduanya bahkan untuk perjalanan rutin ke tempat yang pernah Anda kunjungi sebelumnya, karena ketidakcocokan yang sama yang dilewatkan begitu saja pada satu kunjungan bisa memicu percakapan yang lebih panjang pada kunjungan berikutnya, tergantung petugas mana yang kebetulan bertugas hari itu.
+Akta kelahiran lengkap anak Anda, yang mencantumkan nama Anda sebagai orang tua, menunjukkan hubungan Anda dengan anak. Jika nama Anda sendiri berubah sejak akta itu diterbitkan, akta nikah atau cerai menjembatani perbedaan antara nama di paspor Anda dan nama di akta anak Anda. Bawa keduanya bahkan untuk perjalanan rutin ke tempat yang pernah Anda kunjungi sebelumnya, karena ketidakcocokan yang sama yang dilewatkan begitu saja pada satu kunjungan bisa memicu percakapan yang lebih panjang pada kunjungan berikutnya, tergantung petugas mana yang kebetulan bertugas hari itu.
 
-## Kakek-Nenek, Kerabat, dan Wali: Kedua Orang Tua Biasanya Perlu Memberi Izin
+## Kakek-Nenek, Kerabat, dan Wali: Siapa yang Perlu Menandatangani Surat Izin
 
-Ketika kakek-nenek, bibi, paman, atau teman keluarga bepergian bersama anak dan tidak ada orang tua yang ikut, dokumen yang dibutuhkan menjadi lebih banyak, karena banyak negara mengharapkan bukti bahwa kedua orang tua, atau kedua wali hukum, telah menyetujui perjalanan tersebut, bukan hanya satu. Formatnya sama seperti surat izin yang kami bahas lengkap di bagian lain, tetapi di sini biasanya dibutuhkan tanda tangan kedua orang tua, bukan hanya satu, beserta detail kontak masing-masing.
+Ketika kakek-nenek, bibi, paman, atau teman keluarga bepergian bersama anak dan tidak ada orang tua yang ikut, panduan Kanada menyarankan persetujuan dari setiap orang yang memiliki tanggung jawab pengambilan keputusan dan tidak ikut bepergian. Formatnya sama seperti surat izin yang kami bahas lengkap di bagian lain, tetapi tanda tangan yang diperlukan umumnya bergantung pada siapa yang memiliki tanggung jawab orang tua atau pengambilan keputusan, beserta detail kontak masing-masing.
 
-Orang dewasa yang mendampingi juga sebaiknya membawa akta kelahiran anak dan siap menjelaskan hubungan mereka secara sederhana jika ditanya, karena istilah "teman keluarga" cenderung mengundang lebih banyak pertanyaan dibanding "kakek-nenek", bahkan ketika keduanya membawa dokumen yang sama persis. Maskapai dapat menolak memberangkatkan anak jika orang dewasa tidak bisa menunjukkan dokumen ini saat check-in, karena alasan tanggung jawab maskapai yang sama seperti dibahas sebelumnya: maskapai melindungi dirinya dari penolakan masuk di tujuan, bahkan sebelum pesawat lepas landas.
+Orang dewasa yang mendampingi juga sebaiknya membawa akta kelahiran anak dan siap menjelaskan hubungan mereka secara sederhana jika ditanya, karena istilah "teman keluarga" cenderung mengundang lebih banyak pertanyaan dibanding "kakek-nenek", bahkan ketika keduanya membawa dokumen yang sama persis. Kami sarankan juga menyiapkan dokumen yang diminta maskapai untuk check-in.
 
 ## Jika Tetap Ada Pertanyaan
 
 Bahkan dengan semua dokumen lengkap, petugas imigrasi atau petugas check-in mungkin tetap menanyakan beberapa hal, dan akan membantu jika Anda memahami bahwa percakapan itu sebenarnya adalah: verifikasi singkat, bukan tuduhan. Pertanyaannya bisa sederhana: di mana keluarga tinggal, bagaimana perjalanan ini direncanakan, dan bagaimana hubungan anak dengan orang dewasa di sampingnya. Anak yang bisa menjawab singkat dengan kata-katanya sendiri cenderung membuat proses berjalan lebih cepat dibanding orang dewasa yang gugup menjawab untuknya.
 
-Jika ada nomor telepon tercantum di surat izin atau putusan hak asuh, petugas dapat menggunakannya untuk memeriksa dokumen tersebut. Membawa semua yang dibahas di sini tidak menjamin nol pertanyaan, tetapi artinya ketika pertanyaan muncul, Anda sudah punya jawaban siap untuk masing-masing, dan itu umumnya cukup untuk menuntaskan percakapan di loket.
+Jika ada nomor telepon tercantum di surat izin atau putusan hak asuh, petugas dapat menggunakannya untuk memeriksa dokumen tersebut. Membawa semua yang dibahas di sini tidak menjamin nol pertanyaan, tetapi saat pertanyaan muncul, dokumen pendukungnya sudah siap.
 
 ## Satu Bundel Dokumen untuk Setiap Situasi
 
@@ -75,10 +75,10 @@ Setiap situasi di atas membutuhkan bundel dokumennya sendiri yang kecil, dan mud
 | Situasi | Dokumen yang harus dibawa |
 |---|---|
 | Satu orang tua bepergian, orang tua lainnya tidak hadir | Surat izin, akta kelahiran anak |
-| Hak asuh tunggal atau utama | Salinan resmi putusan hak asuh, akta kelahiran anak |
+| Hak asuh tunggal atau utama | Salinan resmi putusan hak asuh atau pengaturan pengasuhan, akta kelahiran anak, persetujuan yang diperlukan dari pihak lain yang memiliki tanggung jawab orang tua |
 | Orang tua lainnya telah meninggal | Salinan resmi akta kematian, akta kelahiran anak |
 | Nama keluarga berbeda dari anak Anda | Akta kelahiran lengkap anak, akta nikah atau cerai jika berlaku |
-| Kakek-nenek, kerabat, atau wali bepergian, tanpa kedua orang tua | Surat izin yang ditandatangani kedua orang tua atau wali, akta kelahiran anak |
+| Kakek-nenek, kerabat, atau wali bepergian, tanpa kedua orang tua | Surat izin yang ditandatangani setiap orang yang memiliki tanggung jawab orang tua atau pengambilan keputusan dan tidak ikut bepergian, akta kelahiran anak, putusan pengadilan yang relevan |
 
 [Daftar periksa dokumen perjalanan](https://traveldocumentvault.com/id/blog/travel-document-checklist/) kami yang lebih lengkap membahas apa saja yang perlu dibawa di luar situasi khusus ini, dan panduan kami tentang [mengatur dokumen perjalanan keluarga](https://traveldocumentvault.com/id/blog/how-to-organise-family-travel-documents/) menjelaskan cara menjaga dokumen setiap anggota keluarga tetap rapi di antara perjalanan, bukan hanya untuk perjalanan yang sedang Anda siapkan sekarang. Apa pun bundel yang berlaku untuk keluarga Anda, kumpulkan hari ini: cocokkan setiap dokumen dalam tabel di atas dengan akta kelahiran anak Anda, dan simpan seluruh set itu di satu tempat sebelum perjalanan berikutnya dipesan.
 
@@ -93,19 +93,19 @@ Sumber resmi
 
 ### Apakah Saya Perlu Surat Izin Jika Memiliki Hak Asuh Tunggal atas Anak Saya?
 
-Dokumen yang sering kali lebih berguna adalah surat penetapan hak asuh atau putusan pengadilan itu sendiri. Banyak otoritas perbatasan menerimanya sebagai pengganti surat izin dari orang tua lainnya, dan beberapa meminta untuk melihatnya bersamaan dengan surat izin. Bawa surat penetapan itu atau salinan resminya, dan periksa apa yang diharapkan oleh negara tujuan Anda sebelum bepergian.
+Bawa surat penetapan hak asuh atau putusan pengadilan, atau salinan resminya. Panduan Kanada menyarankan surat izin jika memungkinkan atau aman, bahkan ketika putusan pengasuhan mengizinkan satu orang tua mengambil keputusan perjalanan sendiri.
 
 ### Apa yang Saya Perlukan untuk Bepergian dengan Anak Saya Jika Orang Tua Lainnya Telah Meninggal?
 
-Surat izin tidak mungkin dibuat, jadi bawalah salinan akta kematian sebagai gantinya. Salinan resmi akta kematian adalah dokumen yang paling mungkin menjawab pertanyaan tersebut, tetapi periksa panduan negara tujuan Anda. Simpan salinan cetak bersama paspor Anda dan cadangan digital terenkripsi, dan periksa panduan negara tujuan Anda sebelum keberangkatan.
+Jika orang tua lainnya telah meninggal dan Anda memiliki tanggung jawab tunggal dalam pengambilan keputusan, panduan Kanada menyarankan membawa salinan akta kematiannya saat mendampingi anak Anda. Simpan salinan cetak bersama paspor Anda dan cadangan digital terenkripsi.
 
 ### Bisakah Anak Saya Bepergian ke Luar Negeri dengan Kakek-Nenek atau Kerabat Lain?
 
-Bisa, tetapi banyak negara mengharapkan persetujuan tertulis dari kedua orang tua atau wali hukum, bukan hanya satu. Orang dewasa yang mendampingi juga harus membawa detail kontak kedua orang tua dan salinan akta kelahiran anak. Maskapai dapat menolak memberangkatkan anak jika orang dewasa tidak dapat menunjukkan ini saat diminta.
+Bisa, sesuai aturan yang berlaku. Panduan Kanada menyarankan persetujuan dari setiap orang yang memiliki tanggung jawab pengambilan keputusan dan tidak ikut bepergian. Orang dewasa yang mendampingi juga sebaiknya membawa detail kontak masing-masing dan salinan akta kelahiran anak. Kami sarankan juga menyiapkan dokumen yang diminta maskapai.
 
 ### Apakah Nama Keluarga yang Berbeda dari Anak Saya Akan Menimbulkan Masalah di Bandara?
 
-Ini bisa memicu pertanyaan tambahan, terutama untuk anak yang lebih kecil. Salinan akta kelahiran lengkap anak, yang mencantumkan nama Anda sebagai orang tua, biasanya menyelesaikannya dengan cepat. Akta nikah atau cerai membantu jika nama Anda berubah sejak akta kelahiran diterbitkan. Bawa keduanya bahkan untuk perjalanan rutin.
+Ini bisa memicu pertanyaan tambahan. Salinan akta kelahiran lengkap anak, yang mencantumkan nama Anda sebagai orang tua, menunjukkan hubungan Anda dengan anak. Akta nikah atau cerai membantu jika nama Anda berubah sejak akta kelahiran diterbitkan. Bawa keduanya bahkan untuk perjalanan rutin.
 
 ### Siapa yang Memeriksa Dokumen, Maskapai atau Imigrasi?
 

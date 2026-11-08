@@ -1,6 +1,6 @@
 # Quanto Tempo Demora a Renovação de Passaporte? (EUA, UK, Austrália, Canadá)
 
-> Os prazos de renovação do passaporte nos EUA, Reino Unido, Austrália e Canadá, e quando deve entregar o pedido.
+> O prazo de renovação depende de onde faz o pedido e do serviço escolhido. O que pode atrasar o processo e onde ver os prazos atuais do seu país.
 
 Source: https://traveldocumentvault.com/pt/blog/how-long-does-passport-renewal-take/
 
@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/pt/blog/how-long-does-passport-renewal-t
 ## Pontos-chave
 
 - O tempo de renovação de passaporte depende do seu país, da sua situação e da época do ano em que se candidata — não existe um número único que se mantenha exato por muito tempo, por isso omitimos deliberadamente um neste guia.
-- Cada país gere uma fila padrão mais uma ou mais vias pagas mais rápidas. As vias mais rápidas compram-lhe uma posição anterior ou uma marcação reservável — não saltam quaisquer verificações.
+- O processamento padrão e os serviços mais rápidos têm prazos diferentes. As vias mais rápidas dependem de onde apresenta o pedido e do serviço para o qual é elegível.
 - Um punhado de situações atrasa de forma fiável o processo: uma mudança de nome, um primeiro passaporte de adulto, uma candidatura para uma criança, um passaporte perdido ou danificado, verificações de segurança extra, a época de pico e candidatar-se do estrangeiro.
 - A abordagem mais segura é candidatar-se assim que a validade restante do seu passaporte começar a ficar apertada, calculando para trás a partir da sua data de viagem real em vez de adivinhar.
 - Para o número que importa agora, procure a sua própria autoridade de passaportes — HM Passport Office, o Departamento de Estado dos EUA, o Serviço de Passaportes Australiano ou o equivalente nacional — não um artigo de blog.
@@ -20,29 +20,33 @@ Marcou voos para uma viagem cinco meses a partir de agora. Tira os passaportes d
 
 Não existe um número único, e qualquer artigo que lhe dê um está silenciosamente a apostar que nunca reparará quando este ficar desatualizado.
 
-Os tempos de processamento mudam com o pessoal, o volume de candidaturas e a época do ano, por isso um número correto hoje pode facilmente estar errado dentro de alguns meses. O que quase não muda é a forma da decisão em si: cada autoridade de passaportes gere uma fila padrão e pelo menos uma via paga para avançar mais depressa, e um conjunto específico de situações atrasa de forma fiável uma candidatura, seja qual for o país que a emite. É isso que este guia aborda, juntamente com onde exatamente consultar o número que se aplica a si neste momento.
+Os tempos de processamento variam, por isso um número correto hoje pode facilmente estar errado dentro de alguns meses. O que quase não muda é a forma da decisão em si: as vias padrão e mais rápidas dependem de onde apresenta o pedido e do serviço para o qual é elegível, e um conjunto específico de situações atrasa de forma fiável uma candidatura, seja qual for o país que a emite. É isso que este guia aborda, juntamente com onde exatamente consultar o número que se aplica a si neste momento.
 
-**Aviso importante:** Não citamos aqui tempos de processamento, propositadamente. Mudam com a época do ano e com o pessoal, e um número correto hoje pode estar errado dentro de alguns meses. A sua própria autoridade de passaportes publica o número atual — HM Passport Office, o Departamento de Estado dos EUA, o Serviço de Passaportes Australiano ou o equivalente nacional — e é a única fonte que vale a pena consultar.
+**Aviso importante:** Não citamos aqui tempos de processamento, propositadamente. Podem mudar, e um número correto hoje pode estar errado dentro de alguns meses. A sua própria autoridade de passaportes publica o número atual — HM Passport Office, o Departamento de Estado dos EUA, o Serviço de Passaportes Australiano ou o equivalente nacional — e é a única fonte que vale a pena consultar.
 
-## Quanto Tempo Demora a Renovação de Passaporte nos Estados Unidos?
+## Vias de renovação padrão e mais rápidas
 
-O Departamento de Estado dos EUA publica os seus tempos de processamento atuais em travel.state.gov, e mudam ao longo do ano com a procura e o pessoal. Existem três vias:
+Comece pelo prazo de processamento padrão da sua autoridade de passaportes e verifique se existe um serviço mais rápido para a sua situação.
+
+O Reino Unido tem um serviço 1 Week Fast Track, com entrega 1 semana após a marcação, e, apenas para renovações de adultos, um serviço 1 Day Premium. As opções variam de país para país, incluindo quem pode usá-las.
+
+Convém saber exatamente o que está a pagar quando escolhe um serviço mais rápido. Cada serviço tem os seus próprios prazos e requisitos de documentos, fotografia e verificação de identidade. Se o formulário estiver incorreto ou a fotografia não cumprir os requisitos, pagar mais não resolve o problema.
 
 | Via | O que está realmente a pagar |
 |---|---|
-| Rotina | Processada aproximadamente por ordem de chegada, sem prioridade. A escolha predefinida para quem não tem uma viagem próxima. |
-| Acelerada, mediante taxa | Uma posição mais avançada na fila ou uma marcação reservável à frente da fila padrão. Aplicam-se as mesmas regras de elegibilidade e as mesmas verificações de documentos. |
-| Marcação urgente presencial | Acesso direto a uma agência de passaportes quando a viagem é genuinamente iminente. Exige prova das datas de viagem e normalmente só é oferecida quando as vias rotina e paga claramente não chegam a tempo. |
+| Rotina | Processamento padrão, com o prazo atual publicado pela sua autoridade de passaportes. |
+| Acelerada, mediante taxa | Um serviço mais rápido, quando disponível. A elegibilidade e os documentos necessários dependem da autoridade e do serviço. |
+| Marcação urgente presencial | Uma marcação para um pedido urgente elegível. Os comprovativos de viagem necessários dependem da autoridade e do serviço. |
 
-As marcações urgentes estão disponíveis para viagens documentadas e iminentes. Marque em travel.state.gov e traga prova de viagem — não o verão sem ela.
+Se a sua viagem for iminente, consulte em travel.state.gov os critérios atuais do Departamento de Estado para marcações urgentes e de emergência e os comprovativos necessários.
 
 Os EUA oferecem um programa de renovação online para adultos elegíveis. Para se qualificar, deve estar a renovar um livro de passaporte dos EUA que foi emitido quando tinha 16 anos ou mais. Verifique em travel.state.gov se é elegível e se o programa está atualmente a aceitar candidaturas.
 
-**Uma ressalva importante: os tempos publicados são médias, não garantias.** Verifique em travel.state.gov o número atual antes de se candidatar porque, durante a época de pico, o processamento de rotina regularmente estende-se bem além das estimativas publicadas. Se a sua viagem estiver próxima, a taxa adicional pelo processamento acelerado é normalmente muito compensada pela certeza e tranquilidade de planeamento que proporciona.
+Verifique em travel.state.gov o prazo atual antes de se candidatar. Se a sua viagem estiver próxima, confirme se é elegível para um serviço mais rápido e se o prazo se adequa à sua viagem.
 
 O que isto significa na prática
 
-Se está a viajar durante a época de pico de um país e o seu passaporte está a ficar apertado, pagar pela via mais rápida compra-lhe certeza: uma posição anterior na fila, independentemente de quanto o atraso padrão tenha crescido nesse mês. Se em vez disso mantiver o processamento padrão durante um período de grande procura, está a apostar que a estimativa publicada ainda reflete a realidade — exatamente a suposição que apanha as pessoas de surpresa.
+Se está a viajar durante a época de pico de um país e a validade do seu passaporte está a ficar apertada, uma via mais rápida pode ajudar, se for elegível e o prazo se adequar à sua viagem. Verifique quando começa a contar esse prazo e tenha em conta o tempo de entrega antes de escolher um serviço.
 
 ## Quanto Tempo Demora a Renovação de Passaporte no Reino Unido?
 
@@ -50,21 +54,21 @@ O HM Passport Office publica o seu próprio tempo de processamento atual em GOV.
 
 ![Diagrama de um pedido a percorrer o caminho até um passaporte emitido, passando por seis atrasos possíveis: mudança de nome, primeiro passaporte de adulto, pedido de uma criança, perdido ou danificado, verificações extra ou entrevista, e pedido feito no estrangeiro](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/passport-renewal-timeline-pt.jpg) Seis situações tiram um pedido da via rápida. Uma renovação simples evita todas elas.
 
-O Reino Unido oferece um serviço de renovação digital para adultos elegíveis que se candidatam a partir de **dentro do Reino Unido**. Se se qualifica, não precisa enviar o seu passaporte antigo, mas ainda precisa de uma fotografia que cumpra os requisitos oficiais. A candidatura é completada online. **Se é cidadão do Reino Unido que vive no estrangeiro** (um expatriado), o serviço digital não está disponível para si. Deve usar o serviço de passaporte para o exterior em GOV.UK. Para casos urgentes dentro do Reino Unido, o HM Passport Office tem um serviço 1 Week Fast Track e, apenas para renovações de adultos, um [serviço 1 Day Premium](https://www.gov.uk/get-a-passport-urgently) com marcação a partir de 2 dias depois do pedido. Estes serviços não estão disponíveis para pedidos feitos do estrangeiro. Consulte GOV.UK para o serviço correto e o número atual para a sua situação, que pergunta pela sua localização no início da candidatura.
+O Reino Unido oferece um serviço de renovação digital para adultos elegíveis que se candidatam a partir de **dentro do Reino Unido**. Se for elegível, ainda terá de enviar o seu passaporte antigo e precisa de uma fotografia que cumpra os requisitos oficiais. A candidatura é completada online. **Se é cidadão do Reino Unido que vive no estrangeiro** (um expatriado), o serviço digital não está disponível para si. Deve usar o serviço de passaporte para o exterior em GOV.UK. Para casos urgentes dentro do Reino Unido, o HM Passport Office tem um serviço 1 Week Fast Track, com entrega 1 semana após a marcação, e, apenas para renovações de adultos, um [serviço 1 Day Premium](https://www.gov.uk/get-a-passport-urgently) com marcação a partir de 2 dias depois do pedido. Estas marcações são feitas online. Estes serviços não estão disponíveis para pedidos feitos do estrangeiro; nesse caso, peça antes um documento de viagem de emergência. Consulte GOV.UK para o serviço correto e o número atual para a sua situação, que pergunta pela sua localização no início da candidatura.
 
 Uma mudança de nome, um primeiro passaporte de adulto ou qualquer candidatura que requeira verificações extras levará mais tempo. Os passaportes de menores não podem usar o serviço digital — passam apenas pelo processo padrão. Antes de se candidatar, consulte GOV.UK para o número atual relevante para a sua situação.
 
 ## Quanto Tempo Demora a Renovação de Passaporte na Austrália?
 
-O Serviço de Passaportes Australiano é a única fonte fiável para tempos atuais, porque estes mudam com o volume de candidaturas e a época do ano. A Austrália pode disponibilizar opções mais rápidas mediante uma taxa; consulte passports.gov.au para saber o que está disponível.
+O Serviço de Passaportes Australiano é a única fonte fiável para os prazos atuais, que podem mudar. As opções mais rápidas dependem de onde apresenta o pedido. Segundo o Alto Comissariado da Austrália em Londres, não há serviço prioritário nem processamento acelerado para pedidos apresentados fora da Austrália.
 
-Os tempos de processamento padrão da Austrália são geralmente melhores do que os EUA e Reino Unido, mas ainda podem esticar-se durante períodos de pico. Candidate-se com a maior antecedência razoável antes da sua viagem, e consulte passports.gov.au para o tempo atual antes de submeter.
+Candidate-se com a maior antecedência razoável antes da sua viagem, e consulte passports.gov.au para o tempo atual antes de submeter.
 
 As candidaturas de passaporte para menores são uma história diferente. São mais complexas e levam mais tempo do que renovações de adultos, especialmente quando requisitos de consentimento parental estão envolvidos.
 
 ## Quanto Tempo Demora a Renovação de Passaporte no Canadá?
 
-Immigration, Refugees and Citizenship Canada (IRCC) [oferece renovação online](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html) se precisar do passaporte daqui a 20 dias úteis ou mais; nos restantes casos, o pedido é feito em papel. Para viagens urgentes existem opções de marcação urgente e serviço expresso presencial mediante uma taxa adicional.
+Immigration, Refugees and Citizenship Canada (IRCC) [oferece renovação online](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html) a requerentes elegíveis que não vão viajar nos próximos 20 dias úteis, mas essa é apenas uma das condições para apresentar o pedido online. Para viagens urgentes existem opções de marcação urgente e serviço expresso presencial mediante uma taxa adicional.
 
 Isto torna o processo mais exigente logisticamente, especialmente se vive algures rural e o escritório de passaportes mais próximo fica longe. Consulte a página do IRCC para tempos de processamento atuais antes de se candidatar, e some o tempo de envio em cada sentido se se candidatar por correio.
 
@@ -79,16 +83,16 @@ Não importa qual país está a renovar, os mesmos erros consistentemente causam
 
 ## Pode Viajar Enquanto o Seu Passaporte Está Sendo Renovado?
 
-Por vezes, pode viajar enquanto a renovação está pendente — desde que o passaporte atual ainda seja válido e não o tenha entregue como parte do pedido. Algumas autoridades pedem que o envie com o pedido, por isso confirme antes de reservar; depois de o enviar, terá de esperar.
+Por vezes, pode viajar enquanto a renovação está pendente — desde que o passaporte atual ainda seja válido e não o tenha entregue como parte do pedido. Algumas autoridades pedem que o envie com o pedido; outras permitem que continue a usá-lo durante o processamento e cancelam-no depois de emitirem o novo. Confirme as regras da sua autoridade antes de reservar ou viajar; depois de o enviar, terá de esperar.
 
 As regras variam por país:
 
-- **Estados Unidos:** Pode viajar com um passaporte válido enquanto a sua candidatura de renovação está pendente. Se submeteu o seu passaporte com a candidatura de renovação (obrigatório em alguns casos), não pode viajar até o receber de volta. Pergunte sobre a opção "acelerar devido a viagem" se tiver viagem iminente.
-- **Reino Unido:** Pode viajar usando o seu passaporte antigo enquanto um novo está em progresso — desde que o antigo ainda seja válido. Assim que o enviar para HMPO, não pode usá-lo. Não envie o seu passaporte enquanto a viagem está iminente.
-- **Austrália:** Princípio semelhante — o seu passaporte atual permanece válido e utilizável enquanto a renovação está processada, a menos que o tenha submetido fisicamente.
-- **Canadá:** Pode viajar com um passaporte válido enquanto uma candidatura de renovação está pendente, desde que não tenha entregue o seu passaporte atual como parte do processo.
-- **Nova Zelândia:** As candidaturas podem ser feitas sem entregar o seu passaporte atual na maioria dos casos — verifique a orientação do Department of Internal Affairs para a sua situação específica.
-- **Irlanda:** Os serviços de renovação Passport Online e An Post não requerem que entregue o seu passaporte atual até o novo estar pronto. Verifique a orientação atual do Serviço de Passaporte antes de se candidatar.
+- **Estados Unidos:** Confirme com o Departamento de Estado se pode usar o passaporte atual durante a renovação e quando será cancelado. Se o entregou com o pedido, terá de esperar pelo novo. Se a viagem for iminente, consulte os critérios atuais para serviços urgentes.
+- **Reino Unido:** A renovação digital também exige que envie o passaporte antigo para o HM Passport Office. Depois de o enviar, terá de esperar pelo novo. Confirme as regras antes de reservar ou viajar.
+- **Austrália:** Pode continuar a usar o passaporte atual durante o processamento, mas este será cancelado depois de emitirem o novo. Confirme com a autoridade competente as regras de entrega e cancelamento antes de reservar ou viajar.
+- **Canadá:** Confirme com o IRCC se pode usar o passaporte atual durante a renovação e quando será cancelado. Se o entregou com o pedido, terá de esperar pelo novo.
+- **Nova Zelândia:** Verifique a orientação do Department of Internal Affairs sobre a entrega e o cancelamento do passaporte atual para a sua situação específica, antes de reservar ou viajar.
+- **Irlanda:** Verifique a orientação atual do Serviço de Passaporte sobre a entrega e o cancelamento do passaporte atual nos serviços de renovação Passport Online e An Post, antes de reservar ou viajar.
 
 Um visto está associado ao passaporte onde foi colocado, por isso confirme as regras do destino antes de viajar.
 
@@ -96,8 +100,8 @@ Um visto está associado ao passaporte onde foi colocado, por isso confirme as r
 
 Tem viagem marcada nas próximas semanas e o seu passaporte está prestes a expirar. Não entre em pânico — mas mova-se depressa:
 
-1. **Contacte a sua autoridade de passaportes — não apenas veja o website.** A maioria das autoridades tem vias urgentes com regras de elegibilidade (as do Reino Unido não estão disponíveis para pedidos feitos do estrangeiro). Uma chamada telefónica coloca-o em contacto com uma pessoa real que pode dizer-lhe exatamente o que está disponível.
-2. **Reúna os seus documentos antes de contactar.** Precisará de prova de viagem iminente (confirmações de reserva mostrando datas), o seu passaporte atual, fotos e formulários preenchidos. Tenha tudo pronto — marcações urgentes movem-se rapidamente.
+1. **Consulte o serviço urgente da sua autoridade de passaportes.** No Reino Unido, as marcações urgentes para quem cumpre os critérios de elegibilidade são feitas online; se estiver fora do Reino Unido, peça antes um documento de viagem de emergência.
+2. **Reúna os seus documentos antes de apresentar o pedido.** Confirme os documentos necessários, incluindo eventuais comprovativos de viagem, o seu passaporte atual, fotos e formulários preenchidos. Tenha tudo pronto — marcações urgentes movem-se rapidamente.
 3. **Verifique a sua política de seguro de viagem.** Algumas políticas cobrem custos extras de renovação urgente de passaporte. A maioria exclui situações em que a renovação era previsível — mas vale a pena verificar antes de gastar o dinheiro.
 4. **Pergunte sobre reagendar a sua viagem.** Companhias aéreas e hotéis variam, mas muitos dispensarão taxas de alteração para emergências documentadas de passaporte. Não é garantido, mas não custa nada perguntar.
 
@@ -116,27 +120,27 @@ Fontes oficiais
 
 ### Quanto tempo demora a renovação de passaporte nos EUA?
 
-Não podemos dar-lhe aqui um número fixo, porque os tempos de processamento do Departamento de Estado dos EUA mudam com a procura e o pessoal ao longo do ano. O processamento de rotina é a fila padrão; pagar pelo serviço acelerado avança-o nessa fila sem saltar quaisquer verificações. Se a sua viagem for genuinamente iminente, pode qualificar-se para uma marcação presencial numa agência regional de passaportes, mas precisará de trazer prova de viagem. Verifique em travel.state.gov o número atual antes de se candidatar.
+Não podemos dar-lhe aqui um número fixo, porque os tempos de processamento dos passaportes dos EUA variam. Pode haver processamento acelerado disponível. Se a sua viagem for iminente, consulte os critérios atuais do Departamento de Estado para marcações urgentes e de emergência e os comprovativos necessários. Verifique em travel.state.gov o número atual antes de se candidatar.
 
 ### Quanto tempo demora a renovação de passaporte no Reino Unido?
 
-O HM Passport Office publica o seu próprio tempo de processamento atual, e muda com frequência suficiente para que um número citado aqui provavelmente já estivesse desatualizado quando o lesse. Adultos elegíveis que se candidatam dentro do Reino Unido podem usar o serviço de renovação digital, que evita enviar o passaporte mas ainda requer uma fotografia que cumpra os requisitos oficiais. Se se candidata de fora do Reino Unido, usará antes o serviço exterior. Para casos urgentes, o HM Passport Office tem um serviço 1 Week Fast Track e, apenas para renovações de adultos, um serviço 1 Day Premium com marcação a partir de 2 dias depois do pedido. Consulte GOV.UK para o número que se aplica à sua situação.
+O HM Passport Office publica o seu próprio tempo de processamento atual, e muda com frequência suficiente para que um número citado aqui provavelmente já estivesse desatualizado quando o lesse. Adultos elegíveis que se candidatam dentro do Reino Unido podem usar o serviço de renovação digital com uma fotografia que cumpra os requisitos oficiais. Ainda terá de enviar o passaporte antigo. Se se candidata de fora do Reino Unido, usará antes o serviço exterior. Para casos urgentes, o HM Passport Office tem um serviço 1 Week Fast Track, com entrega 1 semana após a marcação, e, apenas para renovações de adultos, um serviço 1 Day Premium com marcação a partir de 2 dias depois do pedido. Consulte GOV.UK para o número que se aplica à sua situação.
 
 ### Quanto tempo demora a renovação de passaporte na Austrália?
 
-O Serviço de Passaportes Australiano é a única fonte fiável para tempos atuais, porque estes mudam com o volume de candidaturas e a época do ano. A Austrália pode disponibilizar opções mais rápidas mediante uma taxa; consulte passports.gov.au para saber o que está disponível. Candidate-se com a maior antecedência razoável, seja qual for a via que usar — os períodos de pico alongam a fila padrão frequentemente mais do que refletem as orientações publicadas. Consulte passports.gov.au antes de se candidatar.
+O Serviço de Passaportes Australiano é a única fonte fiável para os prazos atuais, que podem mudar. As opções mais rápidas dependem de onde apresenta o pedido. Segundo o Alto Comissariado da Austrália em Londres, não há serviço prioritário nem processamento acelerado para pedidos apresentados fora da Austrália. Candidate-se com a maior antecedência razoável, seja qual for a via que usar. Consulte passports.gov.au antes de se candidatar.
 
 ### Posso renovar o meu passaporte online?
 
-Os EUA oferecem renovação online a adultos elegíveis — verifique em travel.state.gov a elegibilidade atual. O Reino Unido oferece um serviço digital para adultos elegíveis que se candidatam dentro do Reino Unido; os pedidos feitos do estrangeiro usam um serviço separado. O Canadá oferece renovação online se precisar do passaporte daqui a 20 dias úteis ou mais; nos restantes casos, o pedido é feito em papel. Para a Austrália, consulte passports.gov.au para saber como apresentar o pedido. As regras de elegibilidade mudam, por isso consulte o site oficial do seu país antes de assumir que se qualifica.
+Os EUA oferecem renovação online a adultos elegíveis — verifique em travel.state.gov a elegibilidade atual. O Reino Unido oferece um serviço digital para adultos elegíveis que se candidatam dentro do Reino Unido; os pedidos feitos do estrangeiro usam um serviço separado. O Canadá oferece renovação online a requerentes elegíveis que não vão viajar nos próximos 20 dias úteis, mas essa é apenas uma das condições para apresentar o pedido online. Para a Austrália, consulte passports.gov.au para saber como apresentar o pedido. As regras de elegibilidade mudam, por isso consulte o site oficial do seu país antes de assumir que se qualifica.
 
 ### O que devo fazer se o meu passaporte está a expirar e tenho viagem marcada?
 
-Candidate-se assim que souber que há um problema, e pague pela via mais rápida que a sua autoridade oferecer. Se a sua viagem estiver suficientemente próxima para se preocupar que o prazo padrão não chegue a tempo, contacte a sua autoridade de passaportes diretamente em vez de confiar no website — a maioria das autoridades tem opções de marcação urgente com regras de elegibilidade (as do Reino Unido não estão disponíveis para pedidos feitos do estrangeiro), e normalmente é preciso pedi-las por telefone. Não espere para ver se o processo padrão acaba por recuperar o atraso.
+Candidate-se assim que souber que há um problema, e pague pela via mais rápida que a sua autoridade oferecer. Se a sua viagem estiver suficientemente próxima para se preocupar que o prazo padrão não chegue a tempo, consulte o serviço urgente da sua autoridade de passaportes. No Reino Unido, as marcações urgentes para quem cumpre os critérios de elegibilidade são feitas online; se estiver fora do Reino Unido, peça antes um documento de viagem de emergência. Não espere para ver se o processo padrão acaba por recuperar o atraso.
 
 ### Posso viajar enquanto a renovação do meu passaporte está pendente?
 
-Por vezes — desde que o seu passaporte atual ainda seja válido e não o tenha entregue fisicamente como parte do processo de renovação. Algumas autoridades pedem que envie o passaporte atual com o pedido, por isso confirme antes de reservar. Depois de o entregar, terá de esperar pelo novo. Verifique sempre com a sua autoridade de passaportes e considere quaisquer implicações de visto antes de viajar com o passaporte atual.
+Por vezes — desde que o seu passaporte atual ainda seja válido e não o tenha entregue fisicamente como parte do processo de renovação. Algumas autoridades pedem que envie o passaporte atual com o pedido; outras permitem que continue a usá-lo durante o processamento e cancelam-no depois de emitirem o novo. Confirme as regras da sua autoridade antes de reservar ou viajar. Depois de o entregar, terá de esperar pelo novo. Verifique sempre com a sua autoridade de passaportes e considere quaisquer implicações de visto antes de viajar com o passaporte atual.
 
 ## Artigos Relacionados
 

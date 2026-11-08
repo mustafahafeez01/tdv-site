@@ -11,14 +11,14 @@ Source: https://traveldocumentvault.com/de/blog/international-driving-permit-val
 ## Wichtigste Erkenntnisse
 
 - Ein Internationaler Führerschein ist **eine Übersetzung des Führerscheins, den Sie bereits besitzen**, Sie führen also beide mit sich. Nur den Führerschein vorzuzeigen, beweist nichts.
-- Es gibt drei Arten aus drei Abkommen, wobei zwei fast überall gelten. Ein **Führerschein nach dem Genfer Abkommen von 1949 gilt ein Jahr**, ein **Führerschein nach dem Wiener Übereinkommen von 1968 bis zu drei**.
+- Es gibt drei Arten aus drei Abkommen. Ein **Führerschein nach dem Genfer Abkommen von 1949 gilt ein Jahr**, ein **Führerschein nach dem Wiener Übereinkommen von 1968 bis zu drei**.
 - Der Wiener Führerschein ist **an Ihren Führerschein gebunden**. Läuft dieser zuerst ab, verliert der Internationale Führerschein an diesem Datum seine Gültigkeit, unabhängig vom aufgedruckten Datum.
 - Länder haben unterschiedliche Abkommen ratifiziert, daher kann **ein in einem Land akzeptierter Führerschein im nächsten abgelehnt werden**.
 - Reisepass, Führerschein und Internationaler Führerschein laufen nach **drei getrennten Uhren**, die fast nie übereinstimmen.
 
 Ein Internationaler Führerschein ist eine Übersetzung des Führerscheins und kein eigenständiger Führerschein, und er läuft nach seinem eigenen Zeitplan. Viele gelten zwölf Monate ab Ausstellungsdatum, keiner länger als drei Jahre, sodass der vor drei Sommern für eine Reise gekaufte mit ziemlicher Sicherheit abgelaufen ist. Mietwagenschalter in mehreren Ländern verlangen ihn, bevor sie ein Fahrzeug herausgeben.
 
-Ein Internationaler Führerschein trägt sein eigenes Ablaufdatum, und dieses Datum verhält sich unterschiedlich, je nachdem, nach welchem internationalen Abkommen Ihr Führerschein ausgestellt wurde. Die meisten Fahrer erfahren erst, dass es zwei Arten gibt, wenn eine davon abgelehnt wird.
+Ein Internationaler Führerschein trägt sein eigenes Ablaufdatum, und dieses Datum verhält sich unterschiedlich, je nachdem, nach welchem internationalen Abkommen Ihr Führerschein ausgestellt wurde. Die meisten Fahrer erfahren erst, dass es drei Arten gibt, wenn eine davon abgelehnt wird.
 
 ## Ein Internationaler Führerschein übersetzt Ihren Führerschein, er ersetzt ihn nicht
 
@@ -28,9 +28,9 @@ Er funktioniert also als Paar. Sie führen den nationalen Führerschein und den 
 
 Das bringt Menschen häufiger in Schwierigkeiten als die Ablaufdaten selbst. Der Internationale Führerschein wirkt mit all seinen Stempeln und Sprachen wie das ernsthaftere Dokument, sodass er sich wie das wichtigere anfühlt.
 
-## Zwei Abkommen entscheiden, wie lange er gilt und wo er funktioniert
+## Drei Abkommen entscheiden, wie lange er gilt und wo er funktioniert
 
-Hinter Internationalen Führerscheinen stehen [drei internationale Abkommen](https://www.gov.uk/driving-abroad/international-driving-permit), und Länder sind einem davon oder mehreren beigetreten. Zwei davon leisten fast die gesamte Arbeit: das Genfer Abkommen von 1949 und das Wiener Übereinkommen von 1968. Ein älterer Führerschein nach dem Pariser Abkommen von 1926 existiert ebenfalls, und einige Reiseziele führen ihn noch auf. Prüfen Sie das aufgedruckte Ablaufdatum.
+Hinter Internationalen Führerscheinen stehen [drei internationale Abkommen](https://www.gov.uk/driving-abroad/international-driving-permit), und Länder sind einem davon oder mehreren beigetreten. Dazu gehören das Genfer Abkommen von 1949 und das Wiener Übereinkommen von 1968. Ein älterer Führerschein nach dem Pariser Abkommen von 1926 existiert ebenfalls, und einige Reiseziele führen ihn noch auf. Prüfen Sie das aufgedruckte Ablaufdatum.
 
 Ein nach dem Genfer Abkommen von 1949 ausgestellter Führerschein ist [ein Jahr gültig](https://travel.gc.ca/travelling/documents/international-driving-permit). Ein nach dem Wiener Übereinkommen von 1968 ausgestellter Führerschein kann bis zu drei Jahre laufen.
 
@@ -40,7 +40,7 @@ Dieser Unterschied zählt doppelt. Er legt fest, wie lange Ihr Führerschein gil
 
 | Art des Führerscheins | Gültigkeitsdauer | Was sie begrenzt |
 |---|---|---|
-| **Pariser Abkommen von 1926** | Siehe aufgedrucktes Ablaufdatum | Das Ausstellungsdatum. Heute selten benötigt |
+| **Pariser Abkommen von 1926** | Siehe aufgedrucktes Ablaufdatum | Das Ausstellungsdatum. |
 | **Genfer Abkommen von 1949** | Siehe aufgedrucktes Ablaufdatum | Das Ausstellungsdatum |
 | **Wiener Übereinkommen von 1968** | Bis zu drei Jahre | Ihr nationaler Führerschein, falls dieser früher abläuft |
 
@@ -129,7 +129,7 @@ Ja, wenn es sich um einen Führerschein nach dem Wiener Übereinkommen von 1968 
 
 ### Warum gibt es mehr als eine Art von Internationalem Führerschein?
 
-Sie stammen aus unterschiedlichen internationalen Abkommen. Die meisten Reisen sind durch das Genfer Abkommen von 1949 und das Wiener Übereinkommen von 1968 abgedeckt, und ein älterer Führerschein nach dem Pariser Abkommen von 1926 existiert ebenfalls und wird von einigen Reisezielen noch aufgeführt. Länder haben unterschiedliche Abkommen ratifiziert, weshalb ein in einem Land akzeptierter Führerschein in einem anderen abgelehnt werden kann.
+Sie stammen aus unterschiedlichen internationalen Abkommen. Es gibt Führerscheine nach dem Genfer Abkommen von 1949 und dem Wiener Übereinkommen von 1968; ein älterer Führerschein nach dem Pariser Abkommen von 1926 existiert ebenfalls und wird von einigen Reisezielen noch aufgeführt. Länder haben unterschiedliche Abkommen ratifiziert, weshalb ein in einem Land akzeptierter Führerschein in einem anderen abgelehnt werden kann.
 
 ## Verwandte Artikel
 
