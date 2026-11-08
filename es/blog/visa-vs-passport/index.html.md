@@ -10,47 +10,47 @@ Source: https://traveldocumentvault.com/es/blog/visa-vs-passport/
 
 ## Conclusiones Principales
 
-- **Un pasaporte es emitido por tu país** y prueba tu ciudadanía e identidad.
-- **Una visa es emitida por un país de destino** y te concede permiso para entrar en él.
-- Necesitas **ambos documentos para la mayoría de viajes internacionales**, aunque algunos destinos requieren solo un pasaporte.
+- **El pasaporte acredita tu identidad y nacionalidad**. Normalmente lo emite el país del que eres nacional.
+- **Una visa suele permitirte viajar y solicitar la entrada**; la decisión final la toma el agente de fronteras.
+- Necesitas **un pasaporte para la mayoría de los viajes internacionales**. Comprueba si tu viaje también requiere una visa, una autorización de viaje u otros documentos justificativos.
 - Los requisitos de visa **varían según tu nacionalidad y destino**, así que verifica siempre los requisitos antes de viajar.
 - **Realizar un seguimiento de las fechas de vencimiento de las visas por separado de tu pasaporte** te ayuda a prevenir interrupciones en los viajes.
 
-Pasaporte y visa suenan casi intercambiables, pero cumplen funciones distintas: uno te identifica, la otra te da permiso para entrar, y la mayoría de los viajes internacionales requieren ambos. Los viajeros primerizos suelen asumir que tener uno cubre al otro, y esa suposición puede causar problemas reales en el check-in o en la frontera, cuando ya no queda tiempo para resolverlo.
+Tu pasaporte acredita tu identidad y nacionalidad. Una visa suele permitirte viajar y solicitar la entrada con un propósito determinado; la decisión final la toma el agente de fronteras. Que necesites una depende de tu viaje. Quienes viajan al extranjero por primera vez suelen pensar que un documento sustituye al otro y descubren el error al facturar o en la frontera, cuando ya no hay tiempo para resolverlo. Comprueba qué necesitas antes de reservar.
 
 ## Qué es un Pasaporte
 
-Tu pasaporte contiene tu nombre, fecha de nacimiento, foto, y un número de pasaporte único —emitido por tu gobierno y reconocido mundialmente como prueba de tu ciudadanía.
+Tu pasaporte contiene tu nombre, fecha de nacimiento, foto y un número de pasaporte único que permiten acreditar tu identidad y nacionalidad. Normalmente lo emite el país del que eres nacional, que puede ser distinto de aquel en el que resides.
 
 Funciona como tu identificación oficial para viajar internacionalmente. Para la mayoría de los viajes internacionales lo necesitas para salir de tu país y para que te admitan en el extranjero, aunque algunas regiones aceptan otros documentos, como los documentos nacionales de identidad dentro de Europa o la [tarjeta de pasaporte estadounidense](https://www.cbp.gov/travel/us-citizens/western-hemisphere-travel-initiative) en cruces terrestres y marítimos. Los oficiales de inmigración lo examinan en las fronteras, las aerolíneas lo requieren para vuelos internacionales, y los aduaneros lo comprueban cuando llegas.
 
-Los pasaportes suelen ser válidos durante varios años (a menudo 10 años para adultos, 5 años para niños), aunque los períodos de validez varían según el país. Cuando tu pasaporte caduca, no puedes viajar internacionalmente y debes solicitar una renovación. Es crucial mantener un registro de tu fecha de vencimiento de pasaporte ya que muchos países requieren [al menos 6 meses de validez restante](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements) antes de permitirte entrar.
+La validez de los pasaportes varía según la autoridad emisora. Por ejemplo, en el Reino Unido, HM Passport Office expide los pasaportes ordinarios para adultos con una validez de 10 años y los infantiles con una validez de 5 años. Cuando tu pasaporte caduca, no puedes viajar internacionalmente y debes solicitar una renovación. Es crucial mantener un registro de tu fecha de vencimiento de pasaporte ya que muchos países requieren [al menos 6 meses de validez restante](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements) antes de permitirte entrar.
 
 ## Qué es una Visa
 
-Una visa es un permiso oficial emitido por un país de destino que te permite entrar y permanecer allí durante un propósito y duración específicos. A diferencia de tu pasaporte —que emite tu propio país— una visa viene del país que deseas visitar.
+Una visa suele permitirte viajar a un destino y solicitar la entrada con un propósito determinado. La expiden las autoridades del destino, y el agente de fronteras decide si puedes entrar. Lee las condiciones con atención: el período durante el que puedes utilizar la visa es distinto del tiempo que puedes permanecer en el destino.
 
-Tener un pasaporte válido no significa automáticamente que puedas entrar en cualquier país. Un pasaporte prueba que eres ciudadano de algún país; una visa prueba que un país específico te ha concedido permiso para estar allí. Algunos países pueden rechazar tu entrada incluso si tu pasaporte es válido.
+Un pasaporte válido acredita tu identidad y nacionalidad, pero no te garantiza la entrada en otro país. Una visa suele permitirte viajar para solicitar la entrada, aunque el agente de fronteras puede denegártela.
 
 Los requisitos de visa dependen de tu nacionalidad. Un ciudadano de un país podría necesitar una visa para visitar el País A, mientras que un ciudadano de otro país podría visitarlo sin visa. Existen acuerdos de viaje sin visa entre muchos países, lo que significa que los ciudadanos de esas naciones pueden cruzar la frontera sin obtener una visa por adelantado.
 
-## Por Qué Necesitas Ambos
+## Cuándo necesitas ambos
 
-Tu pasaporte responde una pregunta: "Quién eres tú, y qué país emitió este documento?" Tu visa responde otra: "¿Te permite el país de destino visitarlo?" Juntos, funcionan como una llave de dos partes —tu pasaporte te permite salir de casa, y tu visa te concede entrada en tu destino.
+Tu pasaporte indica al agente quién eres y cuál es tu nacionalidad. Una visa suele permitirte viajar y solicitar la entrada para el propósito que especifica; el agente toma la decisión final.
 
-La mayoría de los viajes internacionales requieren un pasaporte válido y una visa apropiada (o confirmación de que una visa no es necesaria para tu destino). En la mayoría de los viajes internacionales, no puedes salir sin pasaporte. Sin una visa requerida, no puedes entrar en tu destino, sin importar cuán válido sea tu pasaporte. Muchas interrupciones en viajes suceden porque los viajeros tienen pasaportes válidos pero olvidan comprobar los requisitos de visa antes de reservar.
+Para la mayoría de los viajes internacionales necesitarás un pasaporte válido. Que también necesites una visa depende de tu nacionalidad, destino, ruta y motivo del viaje. Incluso si no necesitas visa, pueden exigirte una autorización de viaje u otros documentos justificativos. Consulta todos los requisitos antes de reservar.
 
 ## ¿Es lo mismo un pasaporte que una visa?
 
-No, y un pasaporte nunca cuenta como visa. Vienen de gobiernos distintos y responden preguntas distintas, así que uno no puede sustituir al otro por muy válido que sea.
+No, un pasaporte no puede sustituir a una visa cuando esta es obligatoria, porque cumplen funciones distintas. Comprueba qué documentos necesitas para tu viaje.
 
-Dos cosas mantienen viva esta confusión. La primera es física: la visa suele ser una etiqueta o un sello colocado dentro del pasaporte, así que lo que tienes en la mano parece un solo documento con algunas páginas extra rellenadas. En realidad son dos permisos en un mismo cuadernillo, expedidos por dos países distintos.
+Dos cosas mantienen viva esta confusión. La primera es física: la visa suele ser una etiqueta o un sello colocado dentro del pasaporte, así que lo que tienes en la mano parece un solo documento con algunas páginas extra rellenadas. El pasaporte acredita tu identidad y nacionalidad; la visa que contiene suele permitirte viajar y solicitar la entrada.
 
 La segunda es la exención de visado. Cuando un destino deja entrar a tu nacionalidad sin visa, da la sensación de que el pasaporte hizo todo el trabajo por sí solo. Lo que ocurrió en realidad es que el país eliminó ese requisito para quienes tienen ese pasaporte. La visa no fue sustituida por el pasaporte; simplemente no se pidió, y ese mismo país puede exigírsela a un vecino tuyo que viaje con un pasaporte distinto.
 
-Así que el pasaporte es tuyo y te acompaña a todas partes. El permiso lo concede cada destino por separado, y puede denegarse aunque tu pasaporte esté en perfecto estado.
+Una misma visa puede abarcar varios países: según la Comisión Europea, una visa Schengen suele ser válida en todo el espacio Schengen. Aun con un pasaporte y una visa válidos, las autoridades fronterizas deben autorizar tu entrada.
 
-![Diagrama comparativo de un pasaporte y una visa: tu propio país emite el pasaporte, que demuestra quién eres y te permite salir de tu país, mientras que el país de destino emite la visa, que te da permiso para entrar y solo sirve para ese país, con una nota de que la mayoría de los viajes necesitan ambos](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure-es.jpg) Dos documentos, dos funciones: un pasaporte válido, por sí solo, no es permiso para entrar.
+![Ilustraciones de un pasaporte y una visa](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure-es.jpg) Dos documentos, dos funciones: un pasaporte válido, por sí solo, no es permiso para entrar.
 
 ## Los Tipos de Visa Varían según el Propósito y la Duración
 
@@ -63,17 +63,17 @@ La mayoría de los países emiten visas en estas categorías:
 - **Visa electrónica:** Una visa electrónica solicitada en línea y normalmente almacenada en el sistema del país de destino, vinculada a tu número de pasaporte. Común en el Sudeste Asiático y cada vez más en otros lugares.
 - **Visa de llegada:** Emitida en tu aeropuerto de destino o frontera cuando llegas. El procesamiento es generalmente rápido, aunque las colas pueden ser largas, y no todos los países ofrecen esta opción.
 
-Los requisitos de visa dentro de cada categoría varían dramáticamente. Una visa de turista a un país podría ser válida por 30 días; otra podría permitir 90 días. Algunas son de entrada única (puedes entrar solo una vez), mientras que otras permiten múltiples entradas.
+Los detalles varían incluso dentro de una misma categoría: el período de validez de una visa de turista puede ser distinto del tiempo de estancia permitido en cada visita. Comprueba también el número de entradas, ya que algunas visas permiten una sola entrada y otras varias.
 
 | Aspecto | Pasaporte | Visa |
 |---|---|---|
-| **Emitido por** | Tu país de origen | País de destino |
-| **Propósito** | Prueba ciudadanía e identidad | Concede permiso para entrar en un país específico |
+| **Emitido por** | Normalmente, el país del que eres nacional | País de destino |
+| **Propósito** | Por lo general, acredita identidad y nacionalidad | Por lo general, permite viajar para solicitar la entrada |
 | **Requerido para** | La mayoría de los viajes internacionales | Viajes a muchos (no todos) países |
-| **Período de validez** | Generalmente 5-10 años | Varía: días a años según el tipo |
-| **Lugar de solicitud** | Oficina de gobierno en tu país | Embajada o consulado del país de destino |
-| **Tiempo de procesamiento** | Semanas a meses según el país | Días a meses según el destino y tipo |
-| **Costo** | Tarifa fija del gobierno | Varía ampliamente según el país y tipo de visa |
+| **Período de validez** | Ejemplo del Reino Unido: niños, 5 años; adultos, 10 | Varía: días a años según el tipo |
+| **Lugar de solicitud** | Autoridad emisora: por internet, por correo postal o en persona | Por internet, en un centro de solicitud de visas, una embajada o un consulado |
+| **Tiempo de procesamiento** | Varía según la autoridad y el servicio | Días a meses según el destino y tipo |
+| **Costo** | Varía según la autoridad, el solicitante y el servicio | Varía ampliamente según el país y tipo de visa |
 
 ## Los Sellos de Visa y las Visas Electrónicas Cumplen la Misma Función
 
@@ -81,7 +81,7 @@ Una fuente de confusión involucra la diferencia entre un sello de visa tradicio
 
 En lugar de ser impresa en tu pasaporte, una visa electrónica normalmente se almacena en el sistema electrónico del país de destino y se vincula a tu número de pasaporte. Cuando llegas, los oficiales de frontera la buscan en su sistema para confirmar tu visa. Ambos tipos son igualmente válidos y vinculantes legalmente.
 
-Un escenario común: obtienes un nuevo pasaporte antes de que tu visa expire. En la mayoría de los países, tu visa sigue siendo válida aunque tu pasaporte haya cambiado. Simplemente lleva tanto tu pasaporte antiguo (caducado) que contiene la visa como tu nuevo pasaporte cuando viajes —los oficiales de inmigración los examinarán juntos.
+La vinculación con tu número de pasaporte importa si lo sustituyes. Consulta las instrucciones de la autoridad emisora antes de viajar: quizá tengas que actualizar los datos del pasaporte o llevar también el antiguo.
 
 ## Cómo Comprobar Si Necesitas una Visa
 
@@ -97,13 +97,13 @@ Si los requisitos no están claros o si tienes nacionalidad dual, ponte en conta
 
 ## La Trampa del Pasaporte Caducado: Validez de Visa vs Validez de Pasaporte
 
-Una idea falsa común es que una visa caduca cuando tu pasaporte caduca, pero así no es como funciona. La validez de una visa es completamente independiente de la validez de tu pasaporte. Si tu pasaporte caduca antes de que tu visa lo haga, tu visa sigue siendo válida.
+La fecha de caducidad de una visa puede ser distinta de la de tu pasaporte. Que puedas seguir utilizándola después de que caduque el pasaporte depende del destino y de la visa, así que compruébalo antes de viajar.
 
-Imagina que tu pasaporte caduca, así que solicitas uno nuevo, sin embargo aún tienes una visa de turista válida para un destino —tal vez válida por otros seis meses— sellada en tu pasaporte caducado. Aún puedes viajar con esta visa. Simplemente lleva tanto tu pasaporte antiguo (caducado) que contiene la visa como tu nuevo pasaporte, y los oficiales de inmigración examinarán ambos documentos cuando entres.
+El Gobierno del Reino Unido ofrece un ejemplo concreto: puedes utilizar una visa británica vigente en forma de etiqueta (vignette) en un pasaporte caducado para viajar hacia y desde el Reino Unido, llevando tanto el pasaporte caducado como el nuevo. Esa norma no indica qué aceptará otro destino.
 
-Algunos países requieren que la visa sea transferida a tu nuevo pasaporte. Esto debe hacerse en la embajada o consulado del país que la emitió antes de viajar. Los requisitos difieren según el destino, por lo que debes verificar con el sitio web de la embajada oficial del país específico o ponerte en contacto directamente con ellos.
+Antes de viajar, sigue el procedimiento de la autoridad emisora, ya sea llevar ambos pasaportes, actualizar un registro electrónico o solicitar una visa de sustitución.
 
-La confusión está en que tu pasaporte antiguo ha caducado como documento de viaje, mientras que la visa que lleva dentro es un permiso aparte del país de destino, con su propia fecha de vencimiento.
+Guarda ambas fechas de caducidad donde puedas consultarlas con facilidad. Aunque tu visa aún no haya caducado, puede que tengas que hacer algún trámite al sustituir el pasaporte. Sigue las instrucciones vigentes de la autoridad emisora.
 
 ## Viajar sin Visa Sigue Teniendo Límites
 
@@ -127,19 +127,19 @@ Fuentes oficiales
 
 ### Cuál es la diferencia entre una visa y un pasaporte
 
-Tu pasaporte lo emite tu propio país y demuestra quién eres y a qué país perteneces. La visa la emite el país que quieres visitar y te concede permiso para entrar. Uno te identifica, la otra te admite, y la mayoría de los viajes internacionales necesitan ambos.
+Tu pasaporte acredita tu identidad y nacionalidad. Una visa suele permitirte viajar y solicitar la entrada con un propósito determinado; el agente de fronteras toma la decisión final. Que necesites una visa depende de tu nacionalidad, destino y viaje.
 
 ### Es lo mismo una visa que un pasaporte
 
-No. Vienen de gobiernos distintos y cumplen funciones distintas. Tu pasaporte viene de tu propio país y te acompaña a todas partes. La visa viene de un único país de destino y solo sirve para ese país, con un propósito y un plazo determinados.
+No, cumplen funciones distintas: un pasaporte acredita tu identidad y nacionalidad, mientras que una visa suele permitirte viajar para solicitar la entrada con un propósito determinado. Algunas visas abarcan varios países. Una visa Schengen, por ejemplo, suele ser válida en todo el espacio Schengen, así que comprueba sus fechas y condiciones antes de viajar.
 
 ### Por qué necesito una visa si tengo pasaporte
 
-El pasaporte prueba tu identidad y tu nacionalidad, pero no obliga a ningún país a dejarte entrar. Cada destino decide por su cuenta quién puede entrar, y la visa es como registra esa decisión. Un pasaporte válido es lo que te permite salir de casa, no lo que te hace cruzar la frontera al llegar.
+Acreditar tu identidad y nacionalidad es solo una parte del control. Tu destino también puede exigirte una visa o una autorización de viaje. Una visa suele permitirte viajar para solicitar la entrada con el propósito que especifica. El agente de fronteras sigue siendo quien decide si puedes entrar.
 
 ### Un pasaporte cuenta como visa
 
-No, y los dos nunca son intercambiables. Si tu destino exige visa para tu nacionalidad, el pasaporte por sí solo no te dejará entrar, y una aerolínea puede negarte el embarque antes de que llegues siquiera a la frontera. Donde no se exige visa, el pasaporte basta por sí mismo.
+No, un pasaporte no sustituye a una visa obligatoria. Incluso en un viaje sin visa, puedes necesitar una autorización electrónica de viaje y otros documentos justificativos. Consulta los requisitos para tu nacionalidad, ruta y motivo del viaje.
 
 ### Qué es una visa en el pasaporte
 
@@ -155,7 +155,7 @@ No, y el nombre compartido es una coincidencia más que una conexión. Visa, la 
 
 ### Se puede usar una visa de un pasaporte vencido
 
-A menudo, sí. La validez de la visa es independiente de la del pasaporte, así que una visa aún vigente en un pasaporte vencido suele poder usarse si llevas ambas libretas juntas. Algunos países sí exigen trasladar la visa al pasaporte nuevo, así que confirma la norma de tu destino con su embajada antes de viajar.
+Depende del destino y de la visa. Según las instrucciones del Gobierno del Reino Unido, puedes utilizar una visa británica vigente en forma de etiqueta (vignette) en un pasaporte caducado para viajar hacia y desde el Reino Unido, llevando tanto el pasaporte caducado como el nuevo. Antes de contar con una visa vinculada a un pasaporte caducado, consulta las normas vigentes de tu destino.
 
 ## Artículos Relacionados
 

@@ -10,21 +10,21 @@ Source: https://traveldocumentvault.com/sv/blog/travel-insurance-documents/
 
 ## Viktiga punkter
 
-- **Spara ditt fullständiga försäkringsdokument, försäkringsnummer och 24-timmarsnumret för nödsituationer** (inte försäljningsnumret).
-- Lagra kopior offline och där de är lätt att nå – enbart mejl hjälper inte när du är strandsatt eller på sjukhus.
-- **Många försäkringar kräver att du kontaktar försäkringsbolaget före medicinsk behandling**; att hoppa över det kan minska eller ogiltiga gör din skada.
-- En vanlig orsak till att skador avslås är saknade handlingar: polisrapport för stöld, originalkvitton, signerade skadeformulär.
-- Läs din försäkrings nyckeldelar snabbt genom att fokusera på försäkringsgränser, undantag och villkor.
+- **Spara dina fullständiga försäkringshandlingar, ditt försäkringsnummer och numret till försäkringsbolagets larmcentral** (inte försäljningsnumret).
+- Spara kopior offline, prova att öppna dem och ha en papperskopia separat från både passet och telefonen.
+- **Ta reda på när försäkringsbolaget kräver kontakt före behandling**; sök akut vård först och kontakta sedan bolaget så snart som möjligt.
+- Spara kvitton och rapporter och fråga försäkringsbolaget vilka handlingar det behöver för en skadeanmälan.
+- Börja med försäkringens ersättningsgränser, undantag och villkor för att få en överblick.
 
-Reseförsäkringen betyder som mest i det ögonblick den är som svårast att nå: en sjukhusdisk utomlands, en polisstation, en flygbolagsdisk efter en inställd avgång. Det som räknas då är inte försäkringen i sig utan om numret, bolagets dygnetruntlinje och beviset på vad som ingår finns inom räckhåll. Den här artikeln går igenom vad som bör sparas före avresan, var det ska ligga för att öppnas utan internet, och vilka anmälningsmisstag som oftast sänker en ersättning.
+Vi skulle spara reseförsäkringens handlingar offline och packa en papperskopia före avresan, med försäkringsnummer, försäkringsbevis och numret till larmcentralen samlade. Här går vi igenom vad du bör spara, hur du testar åtkomsten utan internet och hur du läser anvisningarna för skadeanmälan, inklusive hur du tar reda på larmcentralens öppettider.
 
 ## Vad som faktiskt händer när du behöver din försäkring
 
-Det är klockan två på natten i Bangkok och du mår illa med feber. Hotellets reception rekommenderar en privat klinik, så du ringer för att fråga om kostnader, men de frågar om dina försäkringsuppgifter i stället. Du scramlar genom din telefon efter försäkringsnumret. Sen minns du: det ligger i ett mejl du inte kan öppna för att telefonen inte kan ansluta till WiFi. Klinikpersonalen säger att de behöver det numret innan de kan börja behandla dig och få förhandsbekräftelse från din försäkringsbolag.
+Tänk dig att du sitter på en klinik utomlands och letar efter ditt försäkringsnummer. Det finns i ett mejl, men du har inte sparat bilagan offline och saknar internetanslutning. Med en lokalt sparad kopia och en papperskopia slipper du leta där och då.
 
-Några saknade handlingar är inte bara opraktiska här. De avgör om behandlingen börjar direkt, om du betalar ur egen ficka och gör anspråk senare, eller om anspråket avslås helt och hållet.
+Försäkringsuppgifterna är en utgångspunkt, ingen garanti för behandling eller betalning. Fråga försäkringsbolaget och vårdgivaren vad de behöver, även när det gäller underlag för en skadeanmälan.
 
-Reseförsäkring fungerar bara om du kan nå den när du behöver den. De flesta lagrar den i mejl och kan inte hitta den när krisen slår till – vanligtvis under stress, tidspress eller en medicinsk nödsituation.
+Förvara handlingarna där du kan hitta dem även under stress. Att en kopia saknas innebär inte i sig att försäkringen slutar gälla, men du behöver fortfarande kontakta bolaget och samla in det underlag det begär.
 
 ## Hittar du inte dina försäkringshandlingar? Börja hos den som sålde dig försäkringen
 
@@ -32,47 +32,47 @@ Dina försäkringshandlingar finns hos den som sålde dig försäkringen, så b�
 
 - **Försäkringsvillkoren:** de fullständiga villkoren, inklusive undantag och hur du gör anspråk
 - **Försäkringsbeskedet eller certifikatet:** ditt namn, försäkringsnummer, resedatum och omfattning
-- **Numret för akut hjälp dygnet runt**, det du ringer från ett sjukhus eller en polisstation utomlands
+- **Numret till försäkringsbolagets larmcentral**, inklusive ett nummer som fungerar från utlandet och dess öppettider
 
 Om du inte alls minns att du köpt en försäkring, kontrollera ditt bankkonto. Den brittiska finansombudsmannen (Financial Ombudsman Service) beskriver ett paketkonto som ett vanligt konto som tar ut en månadsavgift i utbyte mot extra förmåner, reseförsäkring bland dem. I så fall är banken oftast det första stället att fråga, så prova dess app, webbplats eller kundtjänst.
 
-När du har dem rekommenderar brittiska utrikesdepartementet ([Foreign, Commonwealth and Development Office](https://www.gov.uk/guidance/foreign-travel-insurance)) att du tar med dig försäkringsuppgifterna, inklusive försäkringsnumret och försäkringsbolagets akutnummer. De föreslår också att du delar dem med dina medresenärer och familjen hemma. Hittar du fortfarande ingenting, ring försäkringsbolaget, eller banken för paketförsäkring, och be dem skicka handlingarna igen innan du flyger i stället för efter att något har gått fel.
+Som ett brittiskt exempel rekommenderar utrikesdepartementet ([Foreign, Commonwealth and Development Office](https://www.gov.uk/guidance/foreign-travel-insurance)) att du tar med dig försäkringsuppgifterna, inklusive försäkringsnumret och försäkringsbolagets akutnummer. De föreslår också att du delar dem med dina medresenärer och familjen hemma. Hittar du fortfarande ingenting, ring försäkringsbolaget, eller banken för paketförsäkring, och be dem skicka handlingarna igen innan du flyger i stället för efter att något har gått fel.
 
 ## De fem dokument du måste spara före du flyger
 
-Din reseförsäkring är vanligtvis en PDF. Den en filen innehåller allt du behöver, men du bör extrahera och spara dessa fem saker separat så du kan hitta dem direkt:
+Samla de här fem sakerna så att du snabbt hittar dem. Förvara de fullständiga försäkringsvillkoren tillsammans med försäkringsbeskedet eller försäkringsbeviset och eventuella separata villkor eller hälsodeklarationer:
 
 - Fullständigt försäkringsdokument (PDF-filen)
 - Försäkringsnummer (extrahera det – skriv ned det separat också)
-- 24-timmarslinje för nödsituationer (annorlunda från försäljnings- eller kundservicenumret)
-- Vad som är försäkrat avsnitt (försäkringsgränser för medicinsk, bagage, avbokad, etc.)
+- Numret till larmcentralen, dess öppettider och eventuellt särskilt nummer för samtal från utlandet
+- Avsnittet om vad försäkringen omfattar (ersättningsgränser för bland annat vård, bagage och avbeställning)
 - Viktiga undantag och villkor (inklusive krav på förhandsbekräftelse)
 
-Försäkringsnumret är kritiskt. Ha försäkringsnumret redo, eftersom försäkringsbolaget oftast frågar efter det först. Om du inte kan ge det kommer du att slösa tid på att söka efter handlingar medan klockan tickar.
+Ha försäkringsnumret nära till hands tillsammans med ditt namn och dina resedatum. Ring gärna försäkringsbolaget före avresan och fråga vilken legitimation och vilka handlingar det behöver om du tappar bort försäkringshandlingarna.
 
-Nödlinjen är annorlunda från kundservicelinjen, som vanligtvis bara öppet under affärstimmar, medan nödlinjen är öppen 24/7. Spara båda, men vet vilken du ska ringa mitt på natten när du är skadad.
+Märk numren till larmcentralen och kundtjänsten tydligt och ta reda på deras öppettider och om de fungerar från utlandet. Utgå inte från att alla försäkringar erbjuder hjälp dygnet runt.
 
 ## Var du lagrar dem så du faktiskt kan nå dem
 
-Mejl är inte ett lagringssystem för resehandlingar. Det är beroende av en anslutning, och en kris kommer sällan med en. Strandsatt, skadad eller sittande på sjukhus har du ofta ingen WiFi och ingen fungerande data. Din telefons batteri kan vara lågt. Du kan befinna dig i ett land där din dataplan inte fungerar.
+Mejl kan fungera offline om du har sparat både meddelandet och bilagan i förväg och din mejlapp stöder det. Prova att öppna hela filen utan internetanslutning i stället för att förlita dig på en bilaga som du bara har tittat på online.
 
-Lagra dina handlingar i stället på tre ställen för redundans.
+Spara handlingarna på tre ställen så att du har reservkopior.
 
 ### Offline på din telefon
 
-Ladda ner PDF direkt till din telefon och spara skärmbilder av kritisk information (försäkringsnummer, nödlinje). Många säkerhetsfokuserade anteckningsprogram eller dokumentlagringsappar låter dig spara filer offline så de är tillgängliga även utan internet. Din telefons inbyggda Filer-app eller Foton-app fungerar båda bra för detta.
+Ladda ner PDF-filen direkt till telefonen så att hela försäkringsdokumentet finns sparat där. Ta skärmbilder av viktig information, som försäkringsnumret och numret till larmcentralen. Vi skulle testa båda innan vi packar: stäng av WiFi och mobildata och öppna hela dokumentet och skärmbilderna i de appar du tänker använda.
 
-Många resenärer tar också skärmbilder av sin försäkrings första sida (med försäkringsnumret) och sin nödkontaktsida, sparar sedan dessa bilder i en dedikerad mapp. När kris slår till kan du hitta denna mapp på 5 sekunder.
+Vi skulle döpa mappen till Försäkring – den här resan och öva på att hitta den före avresan.
 
-### Molnlagring med offline åtkomst
+### Molnlagring med offlineåtkomst
 
-Som säkerhetskopia sparar du dina försäkringsdokument på en lösenordsskyddad molnenhet (iCloud, Google Drive, OneDrive), men laddar ner dem för offline visning. Det ger dig en säkerhetskopia om din telefon försvinner.
+När du sparar en säkerhetskopia i molnet ska du uttryckligen markera filerna för offlineåtkomst på telefonen och testa dem utan internetanslutning. För att hämta molnkopian på en annan enhet behöver du internet och ett sätt att återställa åtkomsten till kontot eller verifiera din identitet utan den förlorade telefonen.
 
-### Fysisk kopia tillsammans med dina resehandlingar
+### Papperskopia separat från telefonen
 
-Lagra en fysisk kopia – eller ett högkvalitativt foto av de kritiska sidorna – tillsammans med ditt pass, visumhandlingar och andra resehandlingar. Om din telefon tar slut är det din säkerhetslösning.
+Ha en papperskopia av försäkringshandlingarna separat från både passet och telefonen. Ett foto som bara finns på en telefon du inte kan använda hjälper inte. Ta reda på om digitala kopior uppfyller dokumentkraven på resmålet, hos försäkringsbolaget och hos vårdgivaren.
 
-Ett handskrivet kort fungerar lika bra som en utskrift: försäkringsnummer, försäkringsbolags namn, nödlinje. Stoppa in det i passhållaren och det överlevnad ett tömt batteri, en förlorad telefon och en hotellsafe du inte kan öppna.
+Ett handskrivet kort med försäkringsnummer, försäkringsbolagets namn och numret till larmcentralen är ett praktiskt komplement för snabb åtkomst. Det ersätter däremot inte de handlingar du behöver ha med dig.
 
 ![Diagram med två identiska telefoner sida vid sida: den vänstra lyser med försäkringsdokumentet sparat på enheten, den högra är grå med en laddningssnurra och ingen signal](https://traveldocumentvault.com/blog/travel-insurance-documents/saved-vs-searching-figure.jpg) Nedladdat och nära till hands, eller fortfarande kvar i en inkorg du inte kan nå. Skillnaden visar sig i det värsta ögonblicket.
 
@@ -80,69 +80,69 @@ Ett handskrivet kort fungerar lika bra som en utskrift: försäkringsnummer, fö
 
 | Lagringsplats | Åtkomst utan internet | I en nödsituation | Säkerhetskopia om telefon försvinner |
 |---|---|---|---|
-| **Telefon (offline nedladdning)** | Direkt, ingen WiFi behövs | Tillgänglig direkt – snabbaste alternativet | Förlorad med telefon om inte säkerhetskopierad |
-| **Molnenhet med offline åtkomst** | Ja, om nedladdad tidigare | Beror på lokal cache; fungerar om telefon har cachad filen | Åtgärdsbar på ersättningstelefon med inloggning |
-| **Mejl** | Kräver internetanslutning | Opålitligt – du kanske inte har signal eller data | Fortfarande tillgängligt men tidsödande att söka |
-| **Fysisk kopia (laminerat kort eller utskrift)** | Ja, alltid tillgängligt | Snabbast om din telefon är tom eller förlorad | Förlorad om passet försvinner; förvara i separat ficka |
-| **Krypterad app (t.ex. Travel Document Vault)** | Ja, lagrat lokalt på telefon | Direkt åtkomst, utformad för det här scenariot | Krypterad och privat; molnsäkerhetskopia valfri |
+| **Telefon (lokalt nedladdad fil)** | Fungerar offline när filen sparats lokalt | Prova att öppna filen före resan | Förlorad med telefon om inte säkerhetskopierad |
+| **Molnlagring med offlineåtkomst** | Ja, om filen sparats för offlineåtkomst | Markera för offlineåtkomst och testa före resan | Kräver internet och kontoverifiering utan den förlorade telefonen |
+| **Mejl** | Offline om appen stöder det och mejl och bilaga sparats i förväg | Kräver anslutning om ingen offlinekopia sparats | Kräver åtkomst till mejlkontot |
+| **Fysisk kopia (laminerat kort eller utskrift)** | Ja, om du har kopian med dig | Användbar när telefonen inte är tillgänglig | Förvara separat från både passet och telefonen |
+| **Krypterad app (t.ex. Travel Document Vault)** | Ja, lagrat lokalt på telefon | Testa åtkomsten före resan | Krypterad och privat; molnsäkerhetskopia valfri |
 
 ## Vanliga skaderegleringsmisstag och hur du undviker dem
 
-Även om du har dina handlingar tillgängliga kan du fortfarande förlora ditt anspråk om du hanterar processen felaktigt. De vanligaste avslagsorsakerna är:
+Utöver att spara handlingarna är det bra att före resan läsa anvisningarna för skadeanmälan i de här situationerna:
 
-### Medicinska anspråk: Du fick inte förhandsbekräftelse
+### Ersättning för vård: du saknar förhandsgodkännande
 
-Många reseförsäkringar kräver att du kontaktar försäkringsbolaget före behandling, så kontrollera dina villkor. Det innebär oftast att ringa din försäkring och få godkännande före du besöker ett sjukhus eller klinik. Kraven varierar efter försäkringsbolag och försäkringstyp – kontrollera avsnittet om medicinsk behandling i din specifika försäkring. Om du hoppar över det här steget och betalar själv kan vissa försäkringsbolag minska eller avslå anspråket, även om behandlingen var nödvändig och försäkrad.
+Försäkringsvillkoren anger när du behöver kontakta bolaget och få behandling godkänd i förväg. Läs de reglerna före resan. Att missa ett obligatoriskt godkännande kan påverka ersättningen. Vid en medicinsk nödsituation ska du först kontakta den lokala akutsjukvården och därefter försäkringsbolaget så snart som möjligt.
 
-Säg att du blir inlagd med blindtarmsinflammation i Mumbai. Sjukhuset kräver betalning i förväg eller en garanti från din försäkring, och du har ett två timmars fönster före operation. Utan din försäkrings förhandsbekräftelse nummer kräver sjukhuset kontanter. Det lämnar två dåliga alternativ: betala nu och riskera ett avslaget anspråk månader senare, eller fördröja operation medan du jagar din försäkring. Ett samtal undviker allt. Med ett bekräftelsenummer i hand fakturerar sjukhuset din försäkring direkt.
+Även med ett godkännandenummer kan du behöva betala i förskott i stället för att sjukhuset fakturerar försäkringsbolaget direkt. Fråga hur betalningen ska hanteras och spara läkarutlåtanden, fakturor och kvitton.
 
-Åtgärd: Före någon behandling ringer du nödlinjen på din försäkring och ger dem sjukhus eller klinik detaljer. De kommer antingen säga att det är försäkrat och förhandsbekräfta det, eller säga vilka anläggningar de arbetar med i det landet. Det är tio minuter på telefon, mot en sjukhusräkning du annars kan hamna på.
+Spara numret till försäkringsbolagets larmcentral före avresan. När du ringer, lämna uppgifter om sjukhuset eller kliniken och fråga vilka godkännanden och handlingar som behövs. Om du inte kan ringa själv kan du be en medresenär kontakta bolaget åt dig.
 
-### Bagageanspråk: Du har ingen polisrapport
+### Ersättning för bagage: du missar anmälningskraven
 
-Om din väska blir stulen, förlorad eller skadad ber många försäkringar om en polisrapport från flygplatsen eller lokal station. Försäkrare använder denna som bevis. Kontrollera din försäkrings "Hur man gör ett anspråk" sektion för exakta krav, eftersom dessa varierar efter försäkringsbolag. Om du hoppar över att anmäla till polisen och bara ansöker hos flygplatsen kan vissa försäkringsbolag avslå anspråk eftersom det finns ingen officiell brottsrapport. För stöld eller förlust (inte enkel skada) ber många försäkringar om en polisrapport, så kontrollera din.
+Läs försäkringens anvisningar för stöld, förlust och skada var för sig. En polisanmälan och en bagagerapport från flygbolaget är inte nödvändigtvis utbytbara. Fråga vilka rapporter och andra underlag du behöver, vem som ska utfärda dem och vilka tidsfrister som gäller.
 
-Åtgärd: Om din väska försvinner, rapportera det till flygplatsens hittegodsexpedition. Om det är stöld, gör en polisanmälan samma dag och skaffa en kopia att skicka med ditt anspråk.
+Om väskan försvinner skulle vi anmäla det till flygplatsens hittegodsexpedition. Vid stöld skulle vi göra en polisanmälan så snart som möjligt och spara en kopia. Följ också försäkringens krav på anmälan och tidsfrister.
 
-### Alla anspråk: Du har ingen kvitton eller bevis
+### Alla skadeanmälningar: du saknar kvitton eller andra underlag
 
 Försäkring ersätter baserat på vad du kan bevisa. Om du köper en ersättningstelefon efter att din blir skadad, spara kvittot. Det samma gäller ett sista minutshotell efter ett inställt flyg (spara bokningsbekräftelse och betalnings kvitton) eller medicinsk behandling (spara faktura och recept).
 
 Spara alla kvitton, både fysiska original och digitala kopior. Fotografera pappersversionerna som säkerhetskopia och se till att du fortfarande kan hämta ett mejlat kvitto månader senare.
 
-### Avbokningsanspråk: Du läste inte det fina trycket
+### Ersättning vid avbeställning: du har inte läst villkoren
 
-Reseförsäkring täcker avbokning av resa bara om du avbokar för en specifik täckt anledning, som varierar efter försäkring. Det innebär vanligtvis sjukdom, skada eller dödsfall av en familjemedlem, men kontrollera listan i din försäkring. Det betyder sällan kalla fötter, ändrade planer eller dåligt väder, om inte vädret sätter stopp för din transport helt. Om du avbokar för priset på flyg sjunkit kommer de flesta försäkringarna inte täcka dig. Hur generös din försäkring är om detta varierar mycket, så det är värt att läsa "avbokning av resa" sektion noga före du antar du är täckt.
+Om försäkringen innehåller avbeställningsskydd ska du läsa vilka skäl som omfattas, vilka undantag som finns och vilka underlag som krävs innan du förlitar dig på det. Om sjukdom, ändrade planer eller dåligt väder omfattas beror på villkoren. Fråga därför försäkringsbolaget hur de gäller i din situation innan du avbeställer.
 
-Åtgärd: Före avbokning kontrollera din försäkrings täckningsdetaljer. Om du tror din anledning är kvalificerad, ring din försäkring före avbokning av ditt flyg. Få skriftlig bekräftelse av täckning från dem före du fortsätter.
+Innan du avbeställer skulle vi läsa villkoren för avbeställningsskyddet. Om ditt skäl verkar omfattas, ring försäkringsbolaget före avbokningen av flyget och be om en skriftlig bekräftelse på vad som gäller.
 
 ## Hur du läser din försäkring och hittar vad som spelar roll
 
-Reseförsäkringar kan gå till dussintals sidor beroende på din försäkring och försäkringstyp. Du behöver inte läsa allt. Varje försäkring bör innehålla avsnitten nedan, även om var de sitter varierar efter försäkring.
+Ämnena nedan är en bra utgångspunkt, men rubrikerna varierar och vissa uppgifter kan finnas i separata försäkringsbesked eller tillägg. Läs de fullständiga villkoren innan du förlitar dig på försäkringen. Fråga bolaget om sådant du inte hittar, inklusive tidsfrister för skadeanmälan och larmcentralens öppettider.
 
 | Avsnitt | Vad det säger till dig | Varför det spelar roll |
 |---|---|---|
-| **Försäkringsöversikt eller schema** | Ersättningsgränser för medicinsk vård, bagage, avbokning och resten | Vet ditt maximala ersättningsbelopp för varje typ av förlust |
-| **Undantag** | Vad som inte är försäkrat (tidigare tillstånd, högrisk sport, etc.) | Undvik att göra anspråk som definitivt blir avslagna |
-| **Medicinska tillstånd** | Eventuella begränsningar på täckning för hälsofrågor | Kontrollera om dina tillstånd är täckta |
-| **Hur man gör ett anspråk** | Process, tidslinje, obligatoriska handlingar, kontaktuppgifter | Vet exakt vad du ska göra när du behöver göra ett anspråk |
-| **Nödhjälp** | Hur du får hjälp 24/7, vad som ingår (hemförflyttning, tolkning, etc.) | Vet vem du ska ringa i en kris och vad de kommer att göra |
+| **Försäkringsöversikt eller försäkringsbesked** | Ersättningsgränser för de delar som ingår, som vård, bagage och avbeställning | Se högsta ersättningsbeloppet för varje typ av skada |
+| **Undantag** | Vad som inte omfattas (till exempel befintliga sjukdomar eller riskfyllda sporter) | Läs undantagen och fråga om något är oklart |
+| **Medicinska tillstånd** | Eventuella begränsningar vid sjukdomar och andra medicinska tillstånd | Ta reda på om dina medicinska tillstånd omfattas |
+| **Så gör du en skadeanmälan** | Steg för skadeanmälan; bekräfta tidsfrister och underlag | Lär dig stegen för att anmäla en skada |
+| **Nödhjälp** | Ta reda på öppettider, tjänster och skydd för hemtransport | Ta reda på vem du ska ringa i en kris och vilken hjälp som erbjuds |
 
-Använd innehållsförteckningen för att hitta dessa avsnitt utan att läsa varje sida. Markera försäkringsgränserna och undantagen, ta sedan skärmbilder av dessa sidor för snabb referens.
+Använd innehållsförteckningen för att hitta rätt avsnitt. Markera ersättningsgränserna och undantagen och ta skärmbilder av sidorna för att snabbt hitta dem igen. Läs också de fullständiga villkoren.
 
-## Före du lämnar: En enkel förberedande checklista
+## Före avresan: en enkel checklista
 
 Här är vad du ska göra före ditt flyg:
 
 - Ladda ner din försäkrings PDF till din telefon
 - Ta skärmbilder på försäkringens omslagssida (med försäkringsnummer) och nödkontaktsida
-- Spara båda i en mapp på din telefon med en etikett du kommer att känna igen direkt (något som "Försäkring - denna resa")
-- Skriv ned eller memorera ditt 24-timmarsnummer för nödsituationer
-- Läs "Hur man gör ett anspråk" sektion så du vet processen om behövs
-- Lagra en fysisk säkerhetskopia (utskriven kopia eller handskriven anteckning med försäkringsnummer och nödlinje)
-- Spara en kopia till en molnenhet (OneDrive, Google Drive, iCloud) med offline åtkomst aktiverat
+- Spara båda i en mapp på telefonen med ett namn du känner igen direkt, till exempel "Försäkring – den här resan"
+- Skriv ner numret till larmcentralen och ta reda på dess öppettider
+- Läs avsnittet om skadeanmälan så att du vet hur du ska göra om det behövs
+- Ha en utskriven kopia av försäkringshandlingarna separat från både passet och telefonen
+- Spara en säkerhetskopia i molnet, markera den för offlineåtkomst, testa den och förbered kontoverifiering som fungerar utan telefonen
 
-Tjugo minuter nu, och du kommer inte letar efter något av det i en kris.
+Prova att hitta varje kopia innan du packar. Stäng av WiFi och mobildata en gång till och öppna de sparade filerna så att du vet att de fungerar offline.
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 
@@ -154,23 +154,23 @@ Officiella källor
 
 ### Behöver jag bära med mig mitt fysiska försäkringsdokument när jag reser?
 
-Nej, du behöver inte ha pappersdokumentet med dig. En digital kopia på telefonen eller ett foto är tillräckligt. Försäkringsbolag och sjukhus brukar be om ditt försäkringsnummer, och en digital kopia hjälper oftast. En fysisk säkerhetskopia (fotokopia eller utskrift) är dock klokt för säkerhetens skull om telefonen tar slut. Ännu enklare: skriv ditt försäkringsnummer och nödnumret på ett kort tillsammans med passet.
+En kopia på telefonen räcker inte alltid för att uppfylla dokumentkraven på resmålet, hos försäkringsbolaget och hos vårdgivaren. Ta reda på vad de behöver före avresan. Ha försäkringsuppgifterna tillgängliga offline och en papperskopia separat från både passet och telefonen. Ha också försäkringsnumret och numret till larmcentralen nära till hands.
 
 ### Vad ska jag göra om jag inte kan nå försäkringsbolagets nödlinje utomlands?
 
-Kontrollera i din försäkring vilket nummer som fungerar från utlandet, eftersom gratisnummer ofta inte gör det. Många försäkringar anger ett alternativt nummer för samtal från utanför försäkringsbolagets hemland. Om du inte kan nå dem kan du fortsätta med behandling och spara alla kvitton och handlingar. Ring dem så fort du kan och kontrollera din försäkring för skadereglerings fristen. Var medveten om att fortsätta utan förgodkännande kan minska eller avslå din skada, så försök alltid nå dem först.
+Vid en medicinsk nödsituation ska du först kontakta den lokala akutsjukvården. Leta i försäkringshandlingarna efter ett nummer som fungerar från utlandet och be en medresenär hjälpa till att kontakta försäkringsbolaget. Spara kvitton och läkarutlåtanden, kontakta bolaget så snart som möjligt och ta reda på tidsfristen för skadeanmälan. Vid vård som inte är akut ska du läsa försäkringens krav på godkännande innan behandlingen påbörjas. Att missa ett obligatoriskt godkännande kan påverka ersättningen.
 
 ### Vad ska jag göra om jag förlorar min försäkring under resan?
 
-Om du har ditt försäkringsnummer och kan ringa försäkringsbolagets nödlinje är det allt du behöver. Ge ditt försäkringsnummer och personuppgifter per telefon och de bekräftar din försäkring. Om du har sparat säkerhetskopior (digitala foton, molnkopior eller anteckningar) kan du använda dem. Försäkringsbolag kan i regel bekräfta din täckning utifrån försäkringsnumret och skicka handlingarna igen.
+Försäkringsnumret och numret till larmcentralen är en bra utgångspunkt. Använd de säkerhetskopior du har sparat och be sedan försäkringsbolaget bekräfta vad försäkringen omfattar och förklara hur du får nya handlingar. Fråga vilken legitimation och vilka underlag det behöver för att hjälpa dig eller hantera en skadeanmälan, eftersom enbart försäkringsnumret kanske inte räcker.
 
 ### Vilka avsnitt i en reseförsäkring behöver jag faktiskt läsa?
 
-Fokusera på: försäkringsöversikt eller schema (dina ersättningsgränser), undantag (vad som inte är försäkrat), begränsningar för medicinska tillstånd, hur du lämnar in en skada (process och deadline) och nödhjälp (24/7 kontakt och vad som ingår). Använd innehållsförteckningen för att hitta dessa avsnitt utan att läsa varje sida. Markera försäkringsgränser och undantag och ta sedan skärmbilder på dessa sidor för snabb referens.
+Börja med vad försäkringen omfattar, ersättningsgränser, självrisker, undantag, medicinska tillstånd och anvisningar för skadeanmälan. Använd innehållsförteckningen för att hitta rätt. Rubriker och dokumentens upplägg varierar. Du behöver också veta tidsfristerna för skadeanmälan, numret till larmcentralen, dess öppettider och vilka tjänster som ingår. Läs de fullständiga villkoren och fråga försäkringsbolaget om något är oklart.
 
 ### Fungerar reseförsäkring i alla länder jag reser till?
 
-Reseförsäkring skyddar dig i de flesta länder i världen under din resa, men vissa försäkringar utesluter vissa destinationer, regioner eller aktiviteter. Kontrollera din försäkrings geografiska täckningsavsnitt för eventuella undantag. Täckningen varierar mellan försäkringar, så kontrollera avsnittet om geografisk täckning för destinationer som är undantagna. Högrisk aktiviteter (klättring, professionell sport) kan ha separata undantag.
+Försäkringen gäller inte automatiskt i hela världen. Fråga försäkringsbolaget om den omfattar alla länder i din resplan, även transitländer, samt dina resedatum och planerade aktiviteter. Riskfyllda aktiviteter, som bergsbestigning och professionell idrott, kan ha särskilda undantag.
 
 ## Relaterade artiklar
 

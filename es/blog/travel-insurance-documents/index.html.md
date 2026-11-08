@@ -10,21 +10,21 @@ Source: https://traveldocumentvault.com/es/blog/travel-insurance-documents/
 
 ## Conclusiones Principales
 
-- **Guarda tu documento de póliza completo, número de póliza y línea de contacto de emergencia 24 horas** (no el número de ventas).
-- Almacena copias sin conexión y accesibles —solo el correo electrónico no te ayudará cuando estés varado o en un hospital.
-- **Muchas pólizas piden contactar con la aseguradora antes de un tratamiento médico**; omitirla puede reducir o anular tu reclamación.
-- Un motivo habitual por el que fallan las reclamaciones es la documentación que falta: informe policial por robo, recibos originales, formularios de reclamación firmados.
+- **Guarda los documentos completos de tu póliza, el número de póliza y el teléfono de asistencia de emergencia** (no el número de ventas).
+- Guarda copias sin conexión, prueba que se abren y lleva una copia en papel separada del pasaporte y del teléfono.
+- **Averigua cuándo exige tu aseguradora que contactes con ella antes del tratamiento**; en una emergencia, busca ayuda médica primero y avisa a la aseguradora lo antes posible.
+- Conserva los recibos e informes y pregunta a tu aseguradora qué documentos necesita para una reclamación.
 - Lee rápidamente las secciones clave de tu póliza enfocándote en límites de cobertura, exclusiones y condiciones.
 
-El seguro de viaje importa más justo cuando resulta más difícil de consultar: el mostrador de un hospital en el extranjero, una comisaría, el mostrador de la aerolínea tras una cancelación. Lo que cuenta entonces no es la póliza en sí, sino si el número, la línea 24 horas de la aseguradora y el justificante de cobertura están a mano. Este artículo explica qué guardar antes de salir, dónde conservarlo para que se abra sin conexión y los errores de tramitación que más a menudo hunden un reembolso.
+Nosotros guardaríamos los documentos del seguro de viaje sin conexión y prepararíamos una copia en papel antes de salir, con el número de póliza, el justificante de cobertura y el teléfono de asistencia de emergencia juntos. Aquí te contamos qué guardar, cómo probar el acceso sin conexión y cómo entender las instrucciones para reclamar y cómo averiguar el horario de la línea de asistencia.
 
 ## Qué Sucede Realmente Cuando Necesitas Tu Seguro
 
-Son las 2 de la mañana en Bangkok y tienes intoxicación alimentaria y fiebre. La recepción del hotel recomienda una clínica privada, así que llamas para preguntar sobre costos, pero en su lugar te piden tus datos de seguros. Te apresuras por tu teléfono buscando el número de póliza. Luego recuerdas: está en un correo que no puedes abrir, porque el teléfono no se conecta al WiFi. El personal de la clínica dice que necesita ese número antes de poder iniciar el tratamiento y obtener preautorización de tu asegurador.
+Imagínate en una clínica en el extranjero, buscando tu número de póliza. Está en un correo, pero no has guardado el archivo adjunto sin conexión y no tienes internet. Una copia guardada en el teléfono y otra en papel te ahorran esa búsqueda.
 
-Unos pocos documentos faltantes no son solo un inconveniente aquí. Deciden si el tratamiento comienza de inmediato, si pagas de tu bolsillo y reclamas más tarde, o si la reclamación se rechaza completamente.
+Los datos de tu póliza son un punto de partida, pero no garantizan ni el tratamiento ni el pago. Pregunta a la aseguradora y al centro médico qué necesitan, incluidas las pruebas para una reclamación.
 
-El seguro de viaje solo funciona si puedes acceder a él cuando lo necesitas. La mayoría de las personas lo almacenan en correo electrónico y no pueden encontrarlo cuando surge la crisis —típicamente durante estrés, presión de tiempo, o una emergencia médica.
+Guarda los documentos donde puedas encontrarlos incluso bajo presión. Perder una copia no anula por sí solo tu cobertura, pero tendrás que contactar con la aseguradora y reunir las pruebas que te pida.
 
 ## ¿No encuentras los documentos de tu póliza? Empieza por quien te la vendió
 
@@ -32,47 +32,47 @@ Los documentos de tu póliza están en manos de quien te vendió la cobertura, a
 
 - **Las condiciones de la póliza:** los términos completos, incluidas las exclusiones y cómo reclamar
 - **El certificado o anexo:** tu nombre, número de póliza, fechas de viaje y nivel de cobertura
-- **El número de asistencia de emergencia 24 horas**, el que llamas desde un hospital o comisaría en el extranjero
+- **El número de asistencia de emergencia**, incluido uno que funcione desde el extranjero y su horario de atención
 
 Si ni siquiera recuerdas haber comprado una póliza, revisa tu cuenta bancaria. El Financial Ombudsman Service describe una cuenta bancaria con paquete como una cuenta corriente que cobra una cuota mensual a cambio de beneficios adicionales, el seguro de viaje entre ellos. En ese caso el banco suele ser el primer sitio donde preguntar, así que prueba con su app, web o línea de atención.
 
-Una vez que los tengas, la [Foreign, Commonwealth and Development Office del Reino Unido](https://www.gov.uk/guidance/foreign-travel-insurance) recomienda llevar contigo los datos de tu póliza, incluyendo el número de póliza y el número de asistencia de emergencia de tu asegurador. También sugiere compartirlos con quienes viajan contigo y con tu familia en casa. Si aun así no encuentras nada, llama al asegurador, o al banco si se trata de una cuenta con paquete, y pídeles que te envíen de nuevo los documentos antes de volar, no después de que algo salga mal.
+Como ejemplo del Reino Unido, la [Foreign, Commonwealth and Development Office](https://www.gov.uk/guidance/foreign-travel-insurance) recomienda llevar contigo los datos de tu póliza, incluidos el número de póliza y el teléfono de asistencia de emergencia de tu aseguradora. También sugiere compartirlos con quienes viajan contigo y con tu familia en casa. Si aun así no encuentras nada, llama a la aseguradora, o al banco si se trata de una cuenta con paquete, y pide que te envíen de nuevo los documentos antes de volar, en lugar de esperar a que surja un problema.
 
 ## Los Cinco Documentos Que Debes Guardar Antes de Viajar
 
-Tu póliza de seguro de viaje es típicamente un PDF. Ese único archivo contiene todo lo que necesitas, pero deberías extraer y guardar estas cinco cosas por separado para poder encontrarlas al instante:
+Para tenerlos a mano, reúne estos cinco elementos junto con las condiciones de la póliza, el certificado o anexo y cualquier condición adicional o declaración médica:
 
 - Documento de póliza completo (el PDF)
 - Número de póliza (extráelo —escríbelo por separado también)
-- Línea de contacto de emergencia 24 horas (diferente del número de ventas o atención al cliente)
+- Número de asistencia de emergencia, su horario de atención y cualquier número para llamadas desde el extranjero
 - Sección de qué está cubierto (límites de cobertura para médicos, equipaje, cancelación, etc.)
 - Exclusiones clave y condiciones (incluyendo requisitos de preautorización)
 
-El número de póliza es crítico. Ten el número de póliza a mano, porque la aseguradora normalmente lo pedirá en primer lugar. Si no puedes proporcionarlo, perderás tiempo buscando entre documentos mientras el reloj corre.
+Ten a mano el número de póliza, junto con tu nombre y las fechas de viaje. Antes de salir, merece la pena llamar a tu aseguradora para preguntar qué identificación y documentos necesita si pierdes la póliza.
 
-La línea de emergencia es diferente de la línea de atención al cliente, que típicamente solo atiende durante horas de negocio, mientras que la línea de emergencia funciona 24/7. Guarda ambas, pero sabe cuál llamar en medio de la noche cuando estés lesionado.
+Identifica claramente los números de asistencia de emergencia y atención al cliente, y averigua sus horarios y si funcionan desde el extranjero. No des por hecho que todas las pólizas ofrecen atención a cualquier hora.
 
 ## Dónde Almacenarlos Para Que Realmente Puedas Acceder
 
-El correo electrónico no es un sistema de almacenamiento para documentos de viaje. Depende de una conexión, y una crisis raramente viene con una. Varado, lesionado, o sentado en un hospital, a menudo no tienes WiFi ni datos que funcionen. La batería de tu teléfono podría estar baja. Podrías estar en un país donde tu plan de datos no funciona.
+El correo electrónico puede funcionar sin conexión si has guardado de antemano tanto el mensaje como el archivo adjunto y tu aplicación lo permite. En vez de confiar en un adjunto que solo has visto con internet, prueba a abrir el archivo completo sin conexión.
 
-En su lugar, almacena tus documentos en tres lugares para redundancia.
+Guarda los documentos en tres lugares para tener copias de respaldo.
 
 ### Sin Conexión en Tu Teléfono
 
-Descarga el PDF directamente a tu teléfono y captura pantallas de información crítica (número de póliza, línea de emergencia). Muchas aplicaciones de notas enfocadas en seguridad o almacenamiento de documentos te permiten guardar archivos sin conexión para que sean accesibles incluso sin internet. La aplicación nativa de Archivos o Fotos de tu teléfono funcionan bien para esto.
+Descarga el PDF directamente al teléfono para guardar la póliza completa. Haz capturas de pantalla con los datos clave, como el número de póliza y el teléfono de asistencia de emergencia. Nosotros probaríamos ambas cosas antes de hacer la maleta: con el WiFi y los datos móviles desactivados, abre el documento completo y las capturas en las aplicaciones que hayas elegido.
 
-Muchos viajeros también capturan pantallas de la primera página de su póliza (con el número de póliza) y la página de contactos de emergencia, luego mantienen estas imágenes en una carpeta dedicada. Cuando surge la crisis, puedes encontrar esta carpeta en 5 segundos.
+Nosotros llamaríamos a esa carpeta «Seguros: este viaje» y practicaríamos cómo encontrarla antes de salir.
 
 ### Nube con Acceso Sin Conexión
 
-Como respaldo, guarda tus documentos de seguros en un almacenamiento en nube protegido con contraseña (iCloud, Google Drive, OneDrive), pero descárgalos para visualización sin conexión. Esto te da un respaldo si pierdes tu teléfono.
+Cuando guardes una copia de seguridad en la nube, marca expresamente los archivos para usarlos sin conexión en tu teléfono y prueba a abrirlos sin internet. Para recuperar la copia en otro dispositivo, necesitarás conexión y una forma de verificar el acceso a tu cuenta sin depender del teléfono perdido.
 
-### Copia Física con Tus Documentos de Viaje
+### Copia en papel separada del teléfono
 
-Almacena una copia física —o una foto de alta calidad de las páginas críticas— junto con tu pasaporte, documentos de visa y otros papeles de viaje. Si tu teléfono se muere, este es tu respaldo.
+Lleva una copia en papel de los documentos del seguro separada del pasaporte y del teléfono: una foto guardada solo en un teléfono al que no puedes acceder no te servirá de respaldo. Averigua si las copias digitales cumplen los requisitos de documentación de tu destino, tu aseguradora y el centro médico.
 
-Una tarjeta escrita a mano funciona tan bien como una impresión: número de póliza, nombre del asegurador, línea de emergencia. Métela en la cartera del pasaporte y sobrevivirá a una batería agotada, un teléfono perdido y una caja fuerte del hotel que no puedes abrir.
+Una tarjeta escrita a mano con el número de póliza, el nombre de la aseguradora y el teléfono de asistencia de emergencia resulta útil para una consulta rápida, aunque no sustituye los documentos que te pidan llevar.
 
 ![Dos teléfonos idénticos uno junto al otro: el de la izquierda se ilumina con la póliza de seguro guardada en el dispositivo, el de la derecha está en gris con una rueda de carga y sin señal](https://traveldocumentvault.com/blog/travel-insurance-documents/saved-vs-searching-figure.jpg) Descargada y a mano, o todavía esperando en una bandeja de entrada a la que no puedes acceder. La diferencia se nota en el peor momento.
 
@@ -80,27 +80,27 @@ Una tarjeta escrita a mano funciona tan bien como una impresión: número de pó
 
 | Ubicación de Almacenamiento | Acceso Sin Internet | En una Emergencia | Respaldo si Pierdes el Teléfono |
 |---|---|---|---|
-| **Teléfono (descarga sin conexión)** | Al instante, no se necesita WiFi | Disponible inmediatamente —opción más rápida | Se pierde con el teléfono a menos que esté respaldado |
-| **Almacenamiento en nube con acceso sin conexión** | Sí, si se descargó previamente | Depende del caché local; funciona si el teléfono tiene el archivo en caché | Recuperable en un teléfono de reemplazo con inicio de sesión |
-| **Correo Electrónico** | Requiere conexión a internet | Poco confiable —podrías no tener señal o datos | Aún accesible pero tiempo y problemático de buscar |
-| **Copia física (tarjeta laminada o impresión)** | Sí, siempre accesible | La más rápida si tu teléfono está muerto o perdido | Se pierde si el pasaporte se pierde; guarda en bolsillo separado |
-| **Aplicación cifrada (ej. Travel Document Vault)** | Sí, almacenado localmente en teléfono | Acceso al instante, diseñado para este escenario | Cifrado y privado; respaldo en nube opcional |
+| **Teléfono (descarga sin conexión)** | Sin conexión una vez descargado en el teléfono | Prueba a abrirlo antes de viajar | Se pierde con el teléfono a menos que esté respaldado |
+| **Almacenamiento en nube con acceso sin conexión** | Sí, si lo has guardado para usarlo sin conexión | Guárdalo sin conexión y pruébalo antes de viajar | Necesita internet y verificación de la cuenta sin el teléfono perdido |
+| **Correo Electrónico** | Puede funcionar si la app lo permite y has guardado el mensaje y el adjunto | Necesita conexión salvo que hayas guardado el mensaje y el adjunto sin conexión | Necesitas poder acceder a tu cuenta de correo |
+| **Copia física (tarjeta laminada o impresión)** | Sí, si llevas la copia contigo | Útil cuando no puedes usar el teléfono | Guárdala separada del pasaporte y del teléfono |
+| **Aplicación cifrada (ej. Travel Document Vault)** | Sí, almacenado localmente en teléfono | Prueba el acceso antes de viajar | Cifrado y privado; respaldo en nube opcional |
 
 ## Errores Comunes de Reclamación y Cómo Evitarlos
 
-Incluso si tienes tus documentos accesibles, aún puedes perder tu reclamación si manejas el proceso incorrectamente. Las razones de rechazo más comunes son:
+Además de guardar los documentos, dedica un rato antes de viajar a leer las instrucciones para reclamar en cada una de estas situaciones:
 
 ### Reclamaciones Médicas: No Obtuviste Preautorización
 
-Muchas pólizas de seguros de viaje piden contactar con la aseguradora antes del tratamiento, así que revisa el condicionado de tu póliza. Esto suele significar llamar a tu asegurador y obtener aprobación antes de visitar un hospital o clínica. Los requisitos varían según el asegurador y el tipo de póliza —verifica la sección de tratamiento médico de tu póliza específica. Si omites este paso y pagas de tu bolsillo, algunas aseguradoras pueden reducir o rechazar la reclamación, incluso si el tratamiento era necesario y estaba cubierto.
+Tu póliza indica cuándo debes contactar con la aseguradora y obtener autorización para un tratamiento médico, así que lee esas condiciones antes de salir. Omitir una autorización obligatoria puede afectar a la reclamación. En una emergencia médica, llama primero a los servicios de emergencia locales y contacta con la aseguradora lo antes posible.
 
-Digamos que estás hospitalizado con apendicitis en Mumbai. El hospital necesita pago por adelantado o una garantía de tu asegurador, y tienes una ventana de dos horas antes de la cirugía. Sin el número de preautorización de tu asegurador, el hospital exige efectivo. Eso te deja dos malas opciones: pagar ahora y arriesgar una reclamación rechazada meses después, o retrasar la cirugía mientras persigues a tu asegurador. Una llamada evita todo esto. Con un número de confirmación en la mano, el hospital factura directamente a tu asegurador.
+Incluso con un número de autorización, puede que tengas que pagar por adelantado en lugar de que el hospital facture directamente a la aseguradora. Pregunta cómo se gestionará el pago y conserva los informes médicos, las facturas y los recibos.
 
-Acción: Antes de cualquier tratamiento, llama a la línea de emergencia en tu póliza y proporciona los detalles del hospital o clínica. Te dirán si está cubierto y lo preautorizarán, o te dirán qué centros trabajan en ese país. Son diez minutos al teléfono, contra una factura de hospital con la que de otro modo podrías quedarte.
+Guarda el teléfono de asistencia de emergencia de la aseguradora antes de salir. Cuando llames, facilita los datos del hospital o la clínica y pregunta qué autorización y documentación necesitas. Si no puedes llamar, pide a alguien que viaje contigo que contacte con la aseguradora en tu nombre.
 
-### Reclamaciones de Equipaje: No Tienes Informe Policial
+### Reclamaciones de equipaje: requisitos para comunicar lo ocurrido
 
-Si tu bolsa es robada, perdida o dañada, muchas pólizas piden un informe policial del aeropuerto o estación local. Los aseguradores lo usan como prueba. Verifica la sección "Cómo Hacer una Reclamación" de tu póliza para requisitos exactos, ya que estos varían según el asegurador. Si omites reportar a la policía y solo reportas al aeropuerto, algunas aseguradoras pueden rechazar reclamaciones porque no hay informe oficial de crimen. Para robo o pérdida (no daño simple), muchas pólizas piden un informe policial, así que revisa la tuya.
+Lee las instrucciones de tu póliza para comunicar robos, pérdidas y daños por separado; un informe policial y uno de incidencias de equipaje de la aerolínea no son necesariamente intercambiables. Pregunta qué informes y justificantes necesitas, quién debe emitirlos y qué plazos se aplican.
 
 Acción: Si tu bolsa desaparece, repórtala al mostrador de artículos perdidos del aeropuerto. Si es robo, presenta un informe policial el mismo día y obtén una copia para enviar con tu reclamación.
 
@@ -112,23 +112,23 @@ Guarda cada recibo, originales físicos y copias digitales ambos. Fotografía lo
 
 ### Reclamaciones de Cancelación: No Leíste la Letra Pequeña
 
-El seguro de viaje cubre cancelación de viaje solo si cancelas por una razón cubierta específica, que varía según el asegurador. Eso típicamente significa enfermedad, lesión, o muerte de un familiar, pero revisa la lista en tu póliza. Rara vez significa cambio de idea, falta de ganas, o mal tiempo, a menos que el clima interrumpa tu transporte. Si cancelas porque el precio del vuelo bajó, la mayoría de pólizas no te cubrirán. Qué tan generoso es tu asegurador sobre esto varía mucho, así que vale la pena leer la sección "cancelación de viaje" cuidadosamente antes de asumir que estás cubierto.
+Si tu póliza incluye cobertura de cancelación, lee los motivos cubiertos, las exclusiones y los justificantes necesarios antes de contar con ella. Que una enfermedad, un cambio de opinión o el mal tiempo den derecho a reclamar depende de las condiciones, así que pregunta a tu aseguradora cómo se aplican a tu caso antes de cancelar.
 
 Acción: Antes de cancelar, verifica los detalles de cobertura de tu póliza. Si crees que tu razón califica, llama a tu asegurador antes de cancelar tu vuelo. Obtén confirmación escrita de cobertura antes de proceder.
 
 ## Cómo Leer Tu Póliza y Encontrar Lo Que Importa
 
-Las pólizas de seguro de viaje pueden ocupar docenas de páginas dependiendo de tu asegurador y tipo de póliza. No necesitas leer todo. Cada póliza debería contener las secciones de abajo, aunque dónde se ubican varía según el asegurador.
+Los temas de abajo te sirven como punto de partida, aunque los títulos de las secciones varían y algunos detalles pueden figurar en anexos o cláusulas adicionales. Lee todas las condiciones antes de contar con la cobertura y pregunta a la aseguradora por lo que no encuentres, incluidos los plazos para reclamar y los horarios de asistencia.
 
 | Sección | Qué Te Dice | Por Qué Importa |
 |---|---|---|
 | **Resumen de Cobertura o Anexo** | Límites de pago para médicos, equipaje, cancelación y el resto | Conoce tu cantidad de reclamación máxima para cada tipo de pérdida |
-| **Exclusiones** | Qué no está cubierto (condiciones preexistentes, deportes de alto riesgo, etc.) | Evita hacer reclamaciones que definitivamente serán rechazadas |
+| **Exclusiones** | Qué no está cubierto (condiciones preexistentes, deportes de alto riesgo, etc.) | Lee las exclusiones y pregunta si tienes dudas |
 | **Condiciones Médicas** | Cualquier restricción de cobertura para problemas de salud | Verifica si tus condiciones están cubiertas |
-| **Cómo Hacer una Reclamación** | Proceso, cronograma, documentos requeridos, detalles de contacto | Sabe exactamente qué hacer cuando necesites reclamar |
-| **Asistencia de Emergencia** | Cómo obtener ayuda 24/7, qué está incluido (repatriación, traducción, etc.) | Sabe a quién llamar en una crisis y qué harán |
+| **Cómo Hacer una Reclamación** | Pasos para reclamar; confirma los plazos y las pruebas necesarias | Sabe exactamente qué hacer cuando necesites reclamar |
+| **Asistencia de Emergencia** | Confirma horarios, servicios y cobertura de repatriación | Sabe a quién llamar en una crisis y qué harán |
 
-Usa la tabla de contenidos para encontrar estas secciones sin leer cada página. Resalta los límites de cobertura y las exclusiones, luego captura una pantalla de esas páginas para referencia rápida.
+Usa el índice para localizar estas secciones mientras lees las condiciones completas. Resalta los límites de cobertura y las exclusiones y haz capturas de esas páginas para tenerlas a mano.
 
 ## Antes de Partir: Una Simple Lista de Verificación de Preparación
 
@@ -137,12 +137,12 @@ Aquí está lo que debes hacer antes de tu vuelo:
 - Descarga tu PDF de póliza de seguros a tu teléfono
 - Captura una pantalla de la portada de la póliza (con número de póliza) y página de contactos de emergencia
 - Guarda ambas en una carpeta en tu teléfono con una etiqueta que reconocerás de un vistazo (algo como "Seguros - este viaje")
-- Escribe o memoriza tu número de contacto de emergencia 24 horas
+- Anota el teléfono de asistencia de emergencia y averigua su horario de atención
 - Lee la sección "Cómo Hacer una Reclamación" para que sepas el proceso si es necesario
-- Almacena un respaldo físico (copia impresa o nota manuscrita con número de póliza y línea de emergencia)
-- Guarda una copia en una unidad en nube (OneDrive, Google Drive, iCloud) con acceso sin conexión habilitado
+- Lleva una copia impresa de la póliza separada del pasaporte y del teléfono
+- Guarda una copia en la nube, prueba el acceso sin conexión y prepara una forma de verificar el acceso a tu cuenta sin depender del teléfono
 
-Veinte minutos ahora, y no estarás buscando nada de esto en una crisis.
+Antes de hacer la maleta, prueba a encontrar cada copia. Desactiva de nuevo el WiFi y los datos móviles y abre los archivos guardados para asegurarte de que puedes consultarlos sin conexión.
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 
@@ -154,23 +154,23 @@ Fuentes oficiales
 
 ### ¿Necesito llevar mi póliza de seguros física cuando viajo?
 
-No, no necesitas el documento físico en papel. Una copia digital en tu teléfono o una foto es suficiente. Las aseguradoras y los hospitales suelen pedir tu número de póliza, y una copia digital normalmente ayuda. Sin embargo, una copia física de seguridad (fotocopia o impresión) es prudente en caso de que tu teléfono se agote. Incluso más simple: escribe tu número de póliza y línea de emergencia en una tarjeta con tu pasaporte.
+Una copia en el teléfono puede no bastar para cumplir los requisitos de documentación de tu destino, tu aseguradora y el centro médico, así que averigua qué necesitan antes de salir. Guarda los datos de la póliza sin conexión y lleva una copia en papel separada del pasaporte y del teléfono. Ten también a mano el número de póliza y el teléfono de asistencia de emergencia.
 
 ### ¿Qué debo hacer si no puedo comunicarme con la línea de emergencia de mi aseguradora en el extranjero?
 
-Comprueba en tu póliza que el número funcione desde el extranjero, porque los números gratuitos a menudo no lo hacen. Muchas pólizas indican un número alternativo para llamadas desde fuera del país de origen del asegurador. Si no puedes comunicarte con ellos, procede con el tratamiento y guarda cada recibo y documentación. Llama en cuanto puedas y verifica tu póliza para el plazo de reclamación. Ten en cuenta que proceder sin preautorización puede reducir tu reclamación o causar denegación, así que siempre intenta comunicarte primero.
+En una emergencia médica, llama primero a los servicios de emergencia locales. Busca en la póliza un número que funcione desde el extranjero y pide a alguien que viaje contigo que te ayude a contactar con la aseguradora. Conserva los recibos y los informes médicos, avisa a la aseguradora lo antes posible y averigua el plazo para reclamar. Para un tratamiento que no sea de emergencia, lee los requisitos de autorización de la póliza antes de proceder; omitir una autorización obligatoria puede afectar al resultado.
 
 ### ¿Qué debo hacer si pierdo mi póliza de seguros mientras viajo?
 
-Si tienes tu número de póliza y puedes llamar a la línea de emergencia de tu aseguradora, eso es todo lo que necesitas. Da tu número de póliza y tus datos personales por teléfono y te confirmarán la cobertura. Si has guardado copias de seguridad (fotos digitales, copias en la nube o notas escritas), úsalas. Las aseguradoras suelen poder confirmar tu cobertura a partir del número de póliza y reenviarte los documentos.
+El número de póliza y el teléfono de asistencia de emergencia son un buen punto de partida. Utiliza las copias de respaldo que hayas guardado y pide a tu aseguradora que confirme la cobertura y te explique cómo obtener de nuevo los documentos. Pregunta qué identificación y pruebas necesita para prestarte asistencia o tramitar una reclamación, ya que el número de póliza por sí solo puede no bastar.
 
 ### ¿Qué secciones de una póliza de seguros de viaje realmente necesito leer?
 
-Enfócate en: resumen de cobertura o anexo (tus límites de pago), exclusiones (qué no está cubierto), restricciones por condiciones médicas, cómo hacer una reclamación (proceso y plazo) y asistencia de emergencia (contacto 24/7 y qué se incluye). Usa la tabla de contenidos para encontrar estas secciones sin leer cada página. Resalta los límites de cobertura y exclusiones, luego captura una pantalla de esas páginas para referencia rápida.
+Empieza por las coberturas, los límites, las franquicias, las exclusiones, las condiciones médicas y las instrucciones para reclamar; el índice te ayudará a encontrarlos. Los títulos y la organización de los documentos varían. También necesitarás los plazos para reclamar, el teléfono de asistencia de emergencia, su horario de atención y los servicios incluidos. Lee todas las condiciones y pregunta a tu aseguradora si algo no te queda claro.
 
 ### ¿Funcionan los seguros de viaje en todos los países a los que viajo?
 
-Los seguros de viaje te protegen en la mayoría de países mundiales durante tu viaje, pero algunas pólizas excluyen ciertos destinos, regiones o actividades. Verifica la sección de cobertura geográfica de tu póliza para cualquier exclusión. La cobertura varía según la póliza, así que revisa la sección de cobertura geográfica para ver qué destinos excluye. Las actividades de alto riesgo (montañismo, deportes profesionales) pueden tener exclusiones separadas.
+La cobertura no es automáticamente mundial, así que pregunta a tu aseguradora si la póliza cubre todos los países de tu itinerario, incluidas las escalas, las fechas del viaje y las actividades previstas. Las actividades de alto riesgo, como el montañismo o los deportes profesionales, pueden tener exclusiones específicas.
 
 ## Artículos Relacionados
 

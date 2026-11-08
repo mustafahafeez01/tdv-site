@@ -10,47 +10,47 @@ Source: https://traveldocumentvault.com/fr/blog/visa-vs-passport/
 
 ## Points clés à retenir
 
-- **Un passeport est délivré par votre pays** et prouve votre citoyenneté et identité.
-- **Un visa est délivré par un pays de destination** et vous accorde la permission d'y entrer.
-- Vous avez besoin des **deux documents pour la plupart des voyages internationaux**, bien que certaines destinations n'exigent que le passeport.
+- **Un passeport indique votre identité et votre nationalité**. Il est généralement délivré par le pays dont vous avez la nationalité.
+- **Un visa permet généralement de voyager et de demander à entrer sur le territoire**, mais la décision finale revient à l'agent à la frontière.
+- Vous avez besoin d'un **passeport pour la plupart des voyages internationaux**. Vérifiez si votre voyage exige aussi un visa, une autorisation de voyage ou des justificatifs.
 - Les exigences de visa **varient selon la nationalité et la destination**, alors vérifiez toujours avant de voyager.
 - **Suivre les dates d'expiration des visas séparément de votre passeport** aide à prévenir les perturbations de voyage.
 
-Passeport et visa semblent presque interchangeables, mais ils ne jouent pas le même rôle : l'un vous identifie, l'autre vous admet, et la plupart des voyages internationaux exigent les deux. Les voyageurs novices pensent souvent que détenir l'un dispense de l'autre, et cette idée peut causer de vrais problèmes à l'enregistrement ou à la frontière, quand il ne reste plus de temps pour y remédier.
+Votre passeport indique votre identité et votre nationalité. Un visa permet généralement de voyager et de demander à entrer sur le territoire pour un motif précis, mais la décision finale revient à l'agent à la frontière. La nécessité d'un visa dépend de votre voyage. Les voyageurs novices pensent souvent qu'un document remplace l'autre et ne découvrent leur erreur qu'à l'enregistrement ou à la frontière, quand il est trop tard pour y remédier. Vérifiez les deux avant de réserver.
 
 ## Qu'est-ce qu'un passeport
 
-Votre passeport contient votre nom, votre date de naissance, votre photo et un numéro de passeport unique — délivré par votre gouvernement et reconnu mondialement comme preuve de votre citoyenneté.
+Votre passeport contient votre nom, votre date de naissance, votre photo et un numéro de passeport unique qui permettent d'établir votre identité et votre nationalité. Il est généralement délivré par le pays dont vous avez la nationalité, qui peut être différent de votre pays de résidence.
 
 Il fait office de pièce d'identité officielle pour les voyages internationaux. Pour la plupart des voyages internationaux, il est nécessaire pour quitter votre pays et être admis à l'étranger, bien que certaines régions acceptent d'autres documents, comme les cartes nationales d'identité en Europe ou [la carte-passeport américaine](https://www.cbp.gov/travel/us-citizens/western-hemisphere-travel-initiative) aux passages terrestres et maritimes. Les agents d'immigration l'examinent aux frontières, les compagnies aériennes l'exigent pour les vols internationaux, et les douaniers le vérifient à votre arrivée.
 
-Les passeports sont généralement valides pendant plusieurs années (souvent 10 ans pour les adultes, 5 ans pour les enfants), bien que les périodes de validité varient selon le pays. Lorsque votre passeport expire, vous ne pouvez pas voyager à l'international et devez demander un renouvellement. Garder une trace de la date d'expiration de votre passeport est essentiel car de nombreux pays exigent [au moins 6 mois de validité restante](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements) avant de vous permettre d'entrer.
+La durée de validité d'un passeport varie selon l'autorité qui le délivre. Au Royaume-Uni, par exemple, HM Passport Office délivre des passeports ordinaires valables 10 ans pour les adultes et 5 ans pour les enfants. Lorsque votre passeport expire, vous ne pouvez pas voyager à l'international et devez demander un renouvellement. Garder une trace de la date d'expiration de votre passeport est essentiel car de nombreux pays exigent [au moins 6 mois de validité restante](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements) avant de vous permettre d'entrer.
 
 ## Qu'est-ce qu'un visa
 
-Un visa est l'autorisation officielle délivrée par un pays de destination qui vous permet d'y entrer et d'y rester pour un objectif et une durée spécifiques. Contrairement à votre passeport — que votre propre pays délivre — un visa provient du pays que vous souhaitez visiter.
+Un visa permet généralement de se rendre à destination et de demander à entrer sur le territoire pour un motif précis. Les autorités de destination le délivrent, et l'agent à la frontière décide si vous pouvez entrer. Lisez attentivement les conditions : les dates de validité du visa sont distinctes de la durée de séjour autorisée.
 
-Avoir un passeport valide ne signifie pas automatiquement que vous pouvez entrer dans n'importe quel pays. Un passeport prouve que vous êtes citoyen d'un pays ; un visa prouve qu'un pays spécifique vous a accordé la permission d'y être. Certains pays peuvent refuser l'entrée même si votre passeport est valide.
+Un passeport valide établit votre identité et votre nationalité, mais ne vous donne pas automatiquement accès à un autre pays. Un visa permet généralement de voyager pour demander à entrer sur le territoire, mais l'agent à la frontière peut toujours vous refuser l'entrée.
 
 Les exigences de visa dépendent de votre nationalité. Un citoyen d'un pays peut avoir besoin d'un visa pour visiter le pays A, tandis qu'un citoyen d'un autre pays peut visiter le même pays sans visa. Des accords de voyage sans visa existent entre de nombreux pays, permettant aux citoyens de ces nations de franchir la frontière sans obtenir un visa au préalable.
 
-## Pourquoi vous avez besoin des deux
+## Quand avez-vous besoin des deux
 
-Votre passeport répond à une question : « Qui êtes-vous et quel pays a délivré ce document ? » Votre visa répond à une autre : « Le pays de destination vous permet-il de visiter ? » Ensemble, ils fonctionnent comme une clé à deux parties — votre passeport vous permet de quitter la maison, et votre visa vous accorde l'accès à votre destination.
+Votre passeport indique à l'agent votre identité et votre nationalité. Un visa permet généralement de faire le voyage et de demander à entrer sur le territoire pour le motif indiqué ; l'agent prend la décision finale.
 
-La plupart des voyages internationaux exigent un passeport valide et un visa approprié (ou la confirmation qu'un visa n'est pas nécessaire pour votre destination). Pour la plupart des voyages internationaux, vous ne pouvez pas partir sans passeport. Sans un visa requis, vous ne pouvez pas entrer dans votre destination, quel que soit le statut de votre passeport. De nombreuses perturbations de voyage se produisent parce que les voyageurs ont des passeports valides mais oublient de vérifier les exigences de visa avant de réserver.
+Pour la plupart des voyages internationaux, il vous faut un passeport valide. La nécessité d'un visa dépend de votre nationalité, de votre destination, de votre itinéraire et du motif du voyage. Même sans visa, vous pouvez avoir besoin d'une autorisation de voyage ou de justificatifs. Vérifiez toutes les exigences avant de réserver.
 
 ## Un passeport est-il la même chose qu'un visa ?
 
-Non, et un passeport ne compte jamais comme un visa. Ils proviennent de gouvernements différents et répondent à des questions différentes, si bien que l'un ne peut jamais remplacer l'autre, aussi valide soit-il.
+Non, un passeport ne remplace pas un visa exigé, car les deux remplissent des fonctions différentes. Vérifiez les documents nécessaires pour votre voyage.
 
-Deux choses entretiennent cette confusion. La première est physique : un visa est souvent une vignette ou un tampon apposé à l'intérieur du passeport, si bien que ce que vous tenez en main ressemble à un seul document avec quelques pages supplémentaires remplies. Ce sont en réalité deux autorisations réunies dans un même carnet, délivrées par deux pays différents.
+Deux choses entretiennent cette confusion. La première est physique : un visa est souvent une vignette ou un tampon apposé à l'intérieur du passeport, si bien que ce que vous tenez en main ressemble à un seul document avec quelques pages supplémentaires remplies. Le livret établit votre identité et votre nationalité ; le visa qu'il contient permet généralement de voyager et de demander à entrer sur le territoire.
 
 La seconde est le voyage sans visa. Quand une destination laisse entrer votre nationalité sans visa, on a l'impression que le passeport a tout fait tout seul. En réalité, le pays a simplement renoncé à cette exigence pour les détenteurs de ce passeport. Le visa n'a pas été remplacé par le passeport ; il n'a tout simplement pas été demandé, et ce même pays peut l'exiger d'un de vos voisins voyageant avec un passeport différent.
 
-Le passeport est donc le vôtre et vous accompagne partout. L'autorisation, elle, est accordée séparément par chaque destination, et elle peut être refusée même si votre passeport est en parfaite règle.
+Un seul visa peut couvrir plusieurs pays : selon la Commission européenne, un visa Schengen est généralement valable dans l'ensemble de l'espace Schengen. Même avec un passeport et un visa valides, votre admission reste soumise à la décision des autorités frontalières.
 
-![Diagramme comparatif d'un passeport et d'un visa : votre propre pays délivre le passeport, qui prouve qui vous êtes et vous permet de quitter votre pays, tandis que la destination délivre le visa, qui accorde la permission d'entrer et ne vaut que pour ce pays, avec une note que la plupart des voyages exigent les deux](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure-fr.jpg) Deux documents, deux rôles — et un passeport valide, à lui seul, n'est pas une permission d'entrer.
+![Illustrations d'un passeport et d'un visa](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure-fr.jpg) Deux documents, deux rôles — et un passeport valide, à lui seul, n'est pas une permission d'entrer.
 
 ## Les types de visas varient selon l'objet et la durée
 
@@ -63,17 +63,17 @@ La plupart des pays délivrent des visas dans ces catégories :
 - **Visa électronique :** Un visa électronique demandé en ligne et généralement stocké dans le système du pays de destination, lié à votre numéro de passeport. Courant en Asie du Sud-Est et de plus en plus courant ailleurs.
 - **Visa à l'arrivée :** Délivré à l'aéroport de destination ou à la frontière quand vous atterrissez. Le traitement est généralement rapide, bien que les files d'attente puissent être longues, et tous les pays ne proposent pas cette option.
 
-Les exigences de visa au sein de chaque catégorie varient considérablement. Un visa touristique pour un pays peut être valable 30 jours ; un autre peut permettre 90 jours. Certains ne permettent qu'une entrée (vous ne pouvez entrer qu'une seule fois), tandis que d'autres permettent plusieurs entrées.
+Les modalités varient même au sein d'une catégorie de visas : les dates de validité d'un visa touristique peuvent couvrir une période différente de la durée de séjour autorisée à chaque visite. Vérifiez aussi le nombre d'entrées : certains visas n'en autorisent qu'une, d'autres plusieurs.
 
 | Aspect | Passeport | Visa |
 |---|---|---|
-| **Délivré par** | Votre pays d'origine | Pays de destination |
-| **Objectif** | Prouve la citoyenneté et l'identité | Accorde la permission d'entrer dans un pays spécifique |
+| **Délivré par** | Généralement le pays dont vous avez la nationalité | Pays de destination |
+| **Objectif** | Établit généralement l'identité et la nationalité | Permet généralement de voyager pour demander à entrer sur le territoire |
 | **Requis pour** | La plupart des voyages internationaux | Voyages vers de nombreux pays (mais pas tous) |
-| **Période de validité** | Généralement 5-10 ans | Varie : de jours à ans selon le type |
-| **Lieu de demande** | Bureau gouvernemental de votre pays | Ambassade ou consulat du pays de destination |
-| **Délai de traitement** | Semaines à mois selon le pays | Jours à mois selon la destination et le type |
-| **Coût** | Frais gouvernementaux fixes | Varie considérablement selon le pays et le type de visa |
+| **Période de validité** | Exemple britannique : 5 ans pour les enfants, 10 ans pour les adultes | Varie de quelques jours à plusieurs années selon le type |
+| **Lieu de demande** | Auprès de l'autorité émettrice : en ligne, par courrier ou en personne | En ligne, dans un centre de demande de visa, à l'ambassade ou au consulat |
+| **Délai de traitement** | Varie selon l'autorité et le service | Jours à mois selon la destination et le type |
+| **Coût** | Varie selon l'autorité, le demandeur et le service | Varie considérablement selon le pays et le type de visa |
 
 ## Visas tamponnés et visas électroniques remplissent le même rôle
 
@@ -81,7 +81,7 @@ Une source de confusion concerne la différence entre un timbre de visa traditio
 
 Au lieu d'être imprimé dans votre passeport, un visa électronique est généralement stocké dans le système électronique du pays de destination et lié à votre numéro de passeport. À votre arrivée, les agents frontaliers le consultent dans leur système pour confirmer votre visa. Les deux types sont également valides et juridiquement contraignants.
 
-Un scénario courant : vous obtenez un nouveau passeport avant l'expiration de votre visa. Dans la plupart des pays, votre visa reste valide même si votre passeport a changé. Portez simplement l'ancien passeport expiré contenant le visa et votre nouveau passeport lors du voyage — les agents d'immigration les examineront ensemble.
+Le lien avec votre numéro de passeport compte lorsque vous remplacez ce dernier. Consultez les instructions de l'autorité émettrice avant de voyager : vous devrez peut-être mettre à jour les données de votre passeport ou emporter aussi l'ancien.
 
 ## Comment vérifier si vous avez besoin d'un visa
 
@@ -97,13 +97,13 @@ Si les exigences ne sont pas claires ou si vous avez une double nationalité, co
 
 ## Le piège du passeport expiré : validité du visa vs validité du passeport
 
-Une idée fausse courante est qu'un visa expire quand votre passeport expire, mais ce n'est pas ainsi que cela fonctionne. La validité d'un visa est complètement indépendante de la validité de votre passeport. Si votre passeport expire avant votre visa, votre visa reste valide.
+La date d'expiration d'un visa peut différer de celle de votre passeport. La possibilité de l'utiliser après l'expiration du passeport dépend de la destination et du visa. Vérifiez les règles avant de voyager.
 
-Imaginons que votre passeport expire, vous demandez donc un nouveau, mais vous tenez toujours un visa touristique valide pour une destination — peut-être valable pour encore six mois — tamponné dans votre ancien passeport. Vous pouvez toujours voyager avec ce visa. Portez simplement l'ancien passeport expiré contenant le visa et votre nouveau passeport, et les agents d'immigration examineront les deux documents quand vous entrerez.
+Le gouvernement britannique donne un exemple précis : pour voyager à destination ou au départ du Royaume-Uni, vous pouvez utiliser une vignette de visa britannique encore valide dans un passeport périmé, à condition d'emporter l'ancien passeport et le nouveau. Cette règle ne permet pas de savoir ce qu'une autre destination acceptera.
 
-Certains pays exigent que le visa soit transféré à votre nouveau passeport. Cela doit être fait à l'ambassade ou au consulat du pays émetteur avant le voyage. Les exigences diffèrent selon la destination, c'est pourquoi vous devez vérifier auprès du site Web officiel de l'ambassade du pays spécifique ou les contacter directement.
+Avant de voyager, suivez la procédure de l'autorité émettrice : emporter les deux passeports, mettre à jour un dossier électronique ou demander un visa de remplacement, selon ses instructions.
 
-La confusion vient de ce que votre ancien passeport a expiré en tant que document de voyage, alors que le visa qu'il contient est une autorisation distincte du pays de destination, qui suit sa propre date d'expiration.
+Gardez les deux dates d'expiration à portée de main. Même si votre visa n'a pas encore expiré, le remplacement de votre passeport peut nécessiter une démarche. Suivez les consignes en vigueur de l'autorité émettrice.
 
 ## Les voyages sans visa ont toujours des limites
 
@@ -127,19 +127,19 @@ Sources officielles
 
 ### Quelle est la différence entre un visa et un passeport
 
-Votre passeport est délivré par votre propre pays et prouve qui vous êtes et à quel pays vous appartenez. Le visa est délivré par le pays que vous voulez visiter et vous autorise à y entrer. L'un vous identifie, l'autre vous admet, et la plupart des voyages internationaux exigent les deux.
+Votre passeport indique votre identité et votre nationalité. Un visa permet généralement de voyager et de demander à entrer sur le territoire pour un motif précis ; l'agent à la frontière prend la décision finale. La nécessité d'un visa dépend de votre nationalité, de votre destination et de votre voyage.
 
 ### Un visa est-il la même chose qu'un passeport
 
-Non. Ils viennent de gouvernements différents et remplissent des fonctions différentes. Votre passeport vient de votre pays et vous suit partout. Un visa vient d'un seul pays de destination et ne vaut que pour ce pays, pour un motif et une durée déterminés.
+Non, ils remplissent des fonctions différentes : un passeport établit votre identité et votre nationalité, tandis qu'un visa permet généralement de voyager pour demander à entrer sur le territoire pour un motif précis. Certains visas couvrent plusieurs pays. Un visa Schengen, par exemple, est généralement valable dans l'ensemble de l'espace Schengen. Vérifiez donc ses dates et ses conditions avant de voyager.
 
 ### Pourquoi ai-je besoin d'un visa si j'ai un passeport
 
-Le passeport prouve votre identité et votre nationalité, mais il n'oblige aucun pays à vous laisser entrer. Chaque destination décide elle-même qui peut entrer, et le visa est la façon dont elle consigne cette décision. Un passeport valide vous permet de quitter votre pays, pas de franchir la frontière à l'arrivée.
+Établir votre identité et votre nationalité n'est qu'une partie du contrôle. Votre destination peut aussi exiger un visa ou une autorisation de voyage. Un visa permet généralement de voyager pour demander à entrer sur le territoire pour le motif indiqué, mais l'agent à la frontière décide toujours de votre admission.
 
 ### Un passeport compte-t-il comme un visa
 
-Non, et les deux ne sont jamais interchangeables. Si votre destination exige un visa pour votre nationalité, le passeport seul ne suffira pas, et une compagnie aérienne peut refuser de vous embarquer avant même que vous n'atteigniez la frontière. Là où aucun visa n'est exigé, le passeport suffit.
+Non, un passeport ne remplace pas un visa exigé. Même pour un voyage sans visa, vous pouvez avoir besoin d'une autorisation de voyage électronique et d'autres justificatifs. Vérifiez donc les règles applicables à votre nationalité, à votre itinéraire et au motif de votre voyage.
 
 ### Qu'est-ce qu'un visa sur un passeport
 
@@ -155,7 +155,7 @@ Non, et ce nom partagé est une coïncidence plutôt qu'un lien. Visa, le résea
 
 ### Peut-on utiliser un visa figurant dans un passeport périmé
 
-Souvent, oui. La validité du visa est distincte de celle du passeport : un visa encore valide dans un passeport périmé reste généralement utilisable si vous présentez les deux livrets ensemble. Certains pays exigent toutefois le transfert du visa sur le nouveau passeport, alors confirmez la règle de votre destination auprès de son ambassade avant de partir.
+Cela dépend de la destination et du visa. Selon les consignes du gouvernement britannique, pour voyager à destination ou au départ du Royaume-Uni, vous pouvez utiliser une vignette de visa britannique encore valide dans un passeport périmé, à condition d'emporter l'ancien passeport et le nouveau. Avant de compter sur un visa lié à un passeport périmé, vérifiez les règles en vigueur de votre destination.
 
 ## Articles connexes
 

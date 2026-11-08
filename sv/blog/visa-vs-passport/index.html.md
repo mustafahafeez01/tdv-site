@@ -10,47 +10,47 @@ Source: https://traveldocumentvault.com/sv/blog/visa-vs-passport/
 
 ## Viktiga punkter
 
-- **Ett pass utfärdas av ditt land** och bevisar ditt medborgarskap och din identitet.
-- **Ett visum utfärdas av ett resmålsland** och ger dig tillstånd att resa in i det.
-- Du behöver **båda handlingarna för de flesta internationella resor**, även om vissa resmål bara kräver pass.
-- Visumkraven **varierar beroende på medborgarskap och resmål**, så kontrollera alltid kraven innan du reser.
+- **Ett pass visar vem du är och din nationalitet**. Det utfärdas vanligtvis av ditt nationalitetsland.
+- **Ett visum låter dig i regel resa till ett resmål och begära inresa**. Det slutliga beslutet fattas vid gränskontrollen.
+- Du behöver **pass för de flesta internationella resor**. Kontrollera om resan också kräver visum, resetillstånd eller andra styrkande handlingar.
+- Visumkraven **varierar beroende på nationalitet och resmål**, så kontrollera alltid kraven innan du reser.
 - **Att hålla koll på visumets utgångsdatum separat från passet** hjälper dig att undvika reseavbrott.
 
-Pass och visum låter nästan som samma sak, men de gör olika jobb: det ena identifierar dig, det andra släpper in dig, och de flesta internationella resor kräver båda. Förstagångsresenärer antar ofta att det ena täcker det andra, och det antagandet kan skapa riktiga problem vid incheckningen eller i gränskontrollen, när det inte längre finns tid att reda ut det.
+Ditt pass visar vem du är och din nationalitet. Ett visum låter dig i regel resa till ett resmål och begära inresa för ett bestämt syfte, men det slutliga beslutet fattas vid gränskontrollen. Om du behöver visum beror på din resa. Förstagångsresenärer antar ofta att den ena handlingen ersätter den andra och upptäcker misstaget först vid incheckningen eller gränsen, när det inte längre finns tid att reda ut det. Kontrollera båda innan du bokar.
 
 ## Vad är ett pass
 
-Ditt pass innehåller ditt namn, födelsedatum, foto och ett unikt passnummer – utfärdat av ditt hemland och erkänt över hela världen som bevis på ditt medborgarskap.
+Ditt pass innehåller ditt namn, födelsedatum, foto och ett unikt passnummer som identifierar dig och din nationalitet. Det utfärdas vanligtvis av ditt nationalitetsland, vilket kan vara ett annat land än det du bor i.
 
 Det fungerar som din officiella legitimation för internationella resor. För de flesta internationella resor behöver du det för att lämna ditt land och för att släppas in utomlands, även om vissa regioner godtar andra dokument, som nationella ID-kort inom Europa eller ett [amerikanskt passkort](https://www.cbp.gov/travel/us-citizens/western-hemisphere-travel-initiative) vid land- och sjöövergångar. Gränspoliser granskar det vid gränsen, flygbolag kräver det för internationella flygningar, och tullpersonal kontrollerar det när du anländer.
 
-Pass gäller vanligtvis i flera år (ofta 10 år för vuxna, 5 år för barn), men giltighetstiden varierar mellan länder. När passet går ut kan du inte resa internationellt och måste ansöka om förnyelse. Att hålla koll på det datumet spelar större roll än de flesta tror, eftersom många länder kräver [minst 6 månaders återstående giltighet](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements) för att släppa in dig – så ett pass som inte har gått ut kan ändå nekas vid gränsen. Resmålslandets ambassad bekräftar den exakta regeln som gäller där.
+Passets giltighetstid varierar beroende på utfärdande myndighet. Ett exempel är Storbritannien, där HM Passport Office utfärdar vanliga vuxenpass med 10 års giltighet och barnpass med 5 års giltighet. När passet går ut kan du inte resa internationellt och måste ansöka om förnyelse. Att hålla koll på det datumet spelar större roll än de flesta tror, eftersom många länder kräver [minst 6 månaders återstående giltighet](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements) för att släppa in dig – så ett pass som inte har gått ut kan ändå nekas vid gränsen. Resmålslandets ambassad bekräftar den exakta regeln som gäller där.
 
 ## Vad är ett visum
 
-Ett visum är ett officiellt tillstånd som utfärdas av ett resmålsland och som låter dig resa in och stanna där för ett bestämt syfte och en bestämd tid. Till skillnad från passet – som utfärdas av ditt eget land – kommer visumet från det land du vill besöka.
+Ett visum låter dig i regel resa till ett resmål och begära inresa för ett bestämt syfte. Det utfärdas av resmålets myndigheter, och den som kontrollerar dig vid gränsen avgör om du får resa in. Läs villkoren noga. Datumen då du kan använda visumet är inte samma sak som hur länge du får stanna.
 
-Att ha ett giltigt pass innebär inte automatiskt att du får resa in i vilket land som helst. Ett pass bevisar att du är medborgare i ett visst land; ett visum bevisar att ett specifikt land har gett dig tillstånd att vistas där. Vissa länder kan neka inresa även om passet är giltigt.
+Ett giltigt pass visar din identitet och nationalitet, men ger dig inte automatiskt rätt att resa in i ett annat land. Ett visum låter dig i regel resa dit för att begära inresa, men du kan fortfarande nekas vid gränskontrollen.
 
-Visumkraven beror på ditt medborgarskap. En medborgare i ett land kan behöva visum för att besöka ett visst land, medan en medborgare i ett annat land kan besöka samma land visumfritt. Visumfria avtal finns mellan många länder, vilket innebär att medborgare i dessa länder kan passera gränsen utan att skaffa visum i förväg.
+Visumkraven beror på din nationalitet. En medborgare i ett land kan behöva visum för att besöka ett visst land, medan en medborgare i ett annat land kan besöka samma land visumfritt. Visumfria avtal finns mellan många länder, vilket innebär att medborgare i dessa länder kan passera gränsen utan att skaffa visum i förväg.
 
-## Varför du behöver båda
+## När du behöver båda
 
-Ditt pass svarar på en fråga: "Vem är du, och vilket land har utfärdat handlingen?" Visumet svarar på en annan: "Tillåter resmålslandet att du besöker det?" Tillsammans fungerar de som en tvådelad nyckel – passet låter dig lämna hemlandet, och visumet ger dig inresa vid resmålet.
+Ditt pass visar vem du är och din nationalitet för den som kontrollerar dig vid gränsen. Ett visum låter dig i regel göra resan och begära inresa för det angivna syftet. Det slutliga beslutet fattas vid gränskontrollen.
 
-De flesta internationella resor kräver både ett giltigt pass och ett lämpligt visum (eller bekräftelse på att inget visum krävs för ditt resmål). För de flesta internationella resor kan du inte lämna landet utan pass. Saknar du ett visum som krävs, kan du inte resa in i ditt resmål, oavsett hur giltigt ditt pass är. Många resestörningar uppstår för att resenärer har giltiga pass men glömmer att kontrollera visumkraven innan de bokar.
+För de flesta internationella resor behöver du ett giltigt pass. Om du också behöver visum beror på din nationalitet, ditt resmål, din resväg och resans syfte. Även om du inte behöver visum kan du behöva ett resetillstånd eller andra styrkande handlingar. Kontrollera alla krav innan du bokar.
 
 ## Är ett pass samma sak som ett visum?
 
-Nej, och ett pass räknas aldrig som visum. De utfärdas av olika myndigheter och svarar på olika frågor, så det ena kan aldrig ersätta det andra, hur giltigt det än är.
+Nej, ett pass kan inte ersätta ett visum som krävs, eftersom handlingarna fyller olika funktioner. Kontrollera vilka handlingar din resa kräver.
 
-Två saker håller förvirringen vid liv. Den första är fysisk: ett visum är ofta ett klistermärke eller en stämpel inuti passet, så det du håller i handen ser ut som en enda handling med några extra sidor ifyllda. I själva verket är det två separata tillstånd i samma häfte, utfärdade av två olika länder.
+Två saker håller förvirringen vid liv. Den första är fysisk: ett visum är ofta ett klistermärke eller en stämpel inuti passet, så det du håller i handen ser ut som en enda handling med några extra sidor ifyllda. Passet visar din identitet och nationalitet, medan visumet i det vanligtvis låter dig resa till resmålet och begära inresa.
 
 Den andra är visumfria resor. När ett resmål släpper in ditt medborgarskap utan visum känns det som om passet klarade jobbet helt på egen hand. Det som egentligen hände är att landet avstod från kravet för innehavare av just det passet. Visumet ersattes aldrig av passet – det efterfrågades bara inte, och samma land kan mycket väl kräva ett av en granne som reser på ett annat pass.
 
-Passet är alltså ditt och följer med dig överallt. Tillståndet ges separat av varje resmål, och det kan nekas även när passet är i perfekt skick.
+Ett och samma visum kan gälla i flera länder. Enligt EU-kommissionen gäller ett Schengenvisum i regel i hela Schengenområdet. Även med giltigt pass och visum behöver du godkännas för inresa av gränsmyndigheterna.
 
-![Jämförelsediagram över ett pass och ett visum: ditt eget land utfärdar passet, det bevisar vem du är och låter dig lämna hemlandet, medan resmålet utfärdar visumet, som ger tillstånd att resa in och bara gäller det landet, med en notering om att de flesta resor behöver båda](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure-sv.jpg) Två handlingar, två uppgifter - och ett giltigt pass ensamt är inte tillstånd att resa in.
+![Illustrationer av ett pass och ett visum](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure-sv.jpg) Två handlingar, två uppgifter - och ett giltigt pass ensamt är inte tillstånd att resa in.
 
 ## Visumtyper varierar efter syfte och längd
 
@@ -63,17 +63,17 @@ De flesta länder utfärdar visum i följande kategorier:
 - **E-visum:** Ett elektroniskt visum som du ansöker om online och som vanligtvis lagras i resmålslandets system, kopplat till ditt passnummer. Vanligt i Sydostasien och allt vanligare på andra håll.
 - **Visum vid ankomst:** Utfärdas vid resmålets flygplats eller gräns när du landar. Handläggningen går oftast snabbt, men köerna kan vara långa, och alla länder erbjuder inte det här alternativet.
 
-Visumkraven inom varje kategori varierar kraftigt. Ett turistvisum till ett land kan gälla i 30 dagar; ett annat kan tillåta 90 dagar. Vissa är enkelinresa (du får bara resa in en gång), medan andra tillåter flera inresor.
+Även inom samma visumkategori varierar villkoren. Ett turistvisums giltighetstid kan skilja sig från hur länge du får stanna vid varje besök. Kontrollera också antalet tillåtna inresor: vissa visum tillåter en inresa, andra flera.
 
 | Aspekt | Pass | Visum |
 |---|---|---|
-| **Utfärdas av** | Ditt hemland | Resmålslandet |
-| **Syfte** | Bevisar medborgarskap och identitet | Ger tillstånd att resa in i ett specifikt land |
+| **Utfärdas av** | Vanligtvis ditt nationalitetsland | Resmålslandet |
+| **Syfte** | Styrker i regel identitet och nationalitet | Låter dig i regel resa till resmålet och begära inresa |
 | **Krävs för** | De flesta internationella resor | Resor till många (inte alla) länder |
-| **Giltighetstid** | Vanligtvis 5-10 år | Varierar: dagar till år beroende på typ |
-| **Ansökningsplats** | Myndighetskontor i ditt land | Resmålslandets ambassad eller konsulat |
-| **Handläggningstid** | Veckor till månader beroende på land | Dagar till månader beroende på resmål och typ |
-| **Kostnad** | Fast myndighetsavgift | Varierar kraftigt beroende på land och visumtyp |
+| **Giltighetstid** | Exempel från Storbritannien: barn 5 år, vuxna 10 år | Varierar: dagar till år beroende på typ |
+| **Ansökningsplats** | Via utfärdande myndighet: online, per post eller personligen | Online, på ett visumcenter, en ambassad eller ett konsulat |
+| **Handläggningstid** | Varierar beroende på myndighet och tjänst | Dagar till månader beroende på resmål och typ |
+| **Kostnad** | Varierar beroende på myndighet, sökande och tjänst | Varierar kraftigt beroende på land och visumtyp |
 
 ## Visumstämplar och e-visum fyller samma funktion
 
@@ -81,11 +81,11 @@ En vanlig källa till förvirring är skillnaden mellan en traditionell visumst�
 
 I stället för att tryckas i passet lagras ett e-visum vanligtvis i resmålslandets elektroniska system och kopplas till ditt passnummer. När du anländer slår gränspoliser upp det i sitt system för att bekräfta visumet. Båda typerna är lika giltiga och juridiskt bindande.
 
-Den kopplingen till ditt passnummer spelar roll om du byter pass. Ett e-visum kopplat till ett nummer du inte längre bär med dig kan vara omöjligt att slå upp vid gränsen, så informera den utfärdande myndigheten innan du reser i stället för att upptäcka det vid disken.
+Kopplingen till ditt passnummer spelar roll om du byter pass. Kontrollera den utfärdande myndighetens anvisningar innan du reser: du kan behöva uppdatera dina passuppgifter eller ta med det gamla passet också.
 
 ## Hur du kontrollerar om du behöver visum
 
-Det avgörande är ditt medborgarskap och ditt resmål. En resenär kan behöva visum för en resa som en annan kan göra visumfritt, helt beroende på vilket pass de har. Det är därför en väns erfarenhet inte säger något om din egen resa.
+Kraven beror på din nationalitet, ditt resmål, din resväg och resans syfte. En resenär kan behöva visum för en resa som en annan kan göra visumfritt, helt beroende på vilket pass de har. Det är därför en väns erfarenhet inte säger något om din egen resa.
 
 Tre källor talar om vad du faktiskt behöver, och det är värt att kontrollera alla tre i stället för att välja en:
 
@@ -101,21 +101,21 @@ Vi skulle börja ansökan 2-3 månader innan du reser om ett visum verkar kräva
 
 ## Fällan med utgånget pass: visumets giltighet kontra passets giltighet
 
-En vanlig missuppfattning är att visumet går ut samtidigt som passet, men så fungerar det inte. Visumets giltighet är helt skild från passets giltighet. Går passet ut innan visumet gör det förblir visumet giltigt.
+Visumets utgångsdatum kan skilja sig från passets. Om du kan fortsätta använda visumet när passet har gått ut beror på resmålet och visumet, så kontrollera det innan du reser.
 
-Säg att passet går ut, så du ansöker om ett nytt, men du har fortfarande ett giltigt turistvisum till ett resmål – kanske giltigt i ytterligare sex månader – stämplat i det utgångna passet. Du kan fortfarande resa med det visumet. Bär helt enkelt med dig både ditt gamla (utgångna) pass med visumet och ditt nya pass, så granskar gränspoliserna båda handlingarna vid inresan.
+Den brittiska regeringen ger ett konkret exempel. Ett giltigt brittiskt visummärke, en så kallad vignette, i ett utgånget pass kan användas vid resor till och från Storbritannien om du tar med både det utgångna och det nya passet. Den regeln säger inget om vad andra resmål godtar.
 
-Vissa länder kräver att visumet överförs till det nya passet. Det måste göras hos det utfärdande landets ambassad eller konsulat innan du reser. Kraven skiljer sig mellan resmål, så du måste kontrollera med det specifika landets officiella ambassadwebbplats eller kontakta dem direkt.
+Följ den utfärdande myndighetens anvisningar innan du reser, oavsett om det innebär att ta med båda passen, uppdatera en elektronisk registrering eller ansöka om ett ersättningsvisum.
 
-Förvirringen beror på att ditt gamla pass har gått ut som resehandling, medan visumet i det är ett separat tillstånd från resmålslandet som gäller enligt sitt eget utgångsdatum.
+Spara båda utgångsdatumen så att du lätt kan kontrollera dem. Även ett visum som fortfarande gäller kan behöva åtgärdas när du byter pass. Följ därför den utfärdande myndighetens aktuella anvisningar.
 
 ## Visumfria resor har fortfarande begränsningar
 
 Många länder har visumundantag eller visumfria avtal med varandra, vilket gör att deras medborgare kan passera gränser utan att skaffa visum i förväg. Schengenområdet i Europa är det mest kända exemplet – resenärer kan i regel passera mellan dess 29 medlemsstater utan rutinmässiga gränskontroller, även om vissa länder inför tillfälliga kontroller igen. Medlemskapet ändras dock, så [EU-kommissionens egna Schengensidor](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en) är rätt plats för att bekräfta vilka länder som ingår just nu. Sydostasien, Karibien och delar av Afrika har liknande system.
 
-Visumfria resor har dock sina begränsningar. De gäller vanligtvis bara turism eller korta besök, inte arbete eller studier. Visumfria perioder är också begränsade, ofta [30 till 90 dagar](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en) beroende på land. Om du överskrider den tillåtna tiden blir din vistelse olaglig, och du riskerar påföljder som böter, utvisning eller framtida inreseförbud.
+Visumfria resor har dock sina begränsningar. Även en visumfri resa kan kräva ett elektroniskt resetillstånd och andra styrkande handlingar. Visumfrihet gäller vanligtvis bara för turism eller korta besök, inte arbete eller studier. Visumfria perioder är också begränsade, ofta [30 till 90 dagar](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en) beroende på land. Om du överskrider den tillåtna tiden blir din vistelse olaglig, och du riskerar påföljder som böter, utvisning eller framtida inreseförbud.
 
-Visumfritt tillträde beror också helt på ditt medborgarskap. Två personer som reser tillsammans kan ha helt olika krav beroende på sina pass, där den ena reser visumfritt medan den andra måste ansöka, så det är ditt eget medborgarskap som gäller här, inte en reskamrats erfarenhet.
+Om du kan resa visumfritt beror också på din nationalitet, din resväg och resans syfte. Två personer som reser tillsammans kan ha helt olika krav beroende på sina pass, där den ena reser visumfritt medan den andra måste ansöka, så det är ditt eget medborgarskap som gäller här, inte en reskamrats erfarenhet.
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 
@@ -131,19 +131,19 @@ Officiella källor
 
 ### Vad är skillnaden mellan ett visum och ett pass
 
-Ditt pass utfärdas av ditt eget land och bevisar vem du är och vilket land du tillhör. Ett visum utfärdas av det land du vill besöka och ger dig tillstånd att resa in. Det ena identifierar dig, det andra släpper in dig, och de flesta internationella resor kräver båda.
+Ditt pass visar vem du är och din nationalitet. Ett visum låter dig i regel resa till resmålet och begära inresa för ett bestämt syfte. Det slutliga beslutet fattas vid gränskontrollen. Om du behöver visum beror på din nationalitet, ditt resmål och din resa.
 
 ### Är ett visum samma sak som ett pass
 
-Nej. De kommer från olika myndigheter och gör olika saker. Ditt pass kommer från ditt eget land och följer med dig överallt. Ett visum kommer från ett enda resmålsland och gäller bara för det landet, för ett bestämt syfte och en bestämd period.
+Nej, de fyller olika funktioner. Ett pass visar din identitet och nationalitet, medan ett visum i regel låter dig resa till resmålet och begära inresa för ett bestämt syfte. Vissa visum gäller i flera länder. Ett Schengenvisum gäller till exempel i regel i hela Schengenområdet, så kontrollera dess datum och villkor innan du reser.
 
 ### Varför behöver jag visum om jag har pass
 
-Ett pass bevisar din identitet och ditt medborgarskap, men det tvingar inget land att släppa in dig. Varje resmål bestämmer själv vem som får resa in, och ett visum är hur det landet dokumenterar det beslutet. Att ha ett giltigt pass är det som låter dig lämna hemlandet, inte det som tar dig genom gränskontrollen på andra sidan.
+Att visa din identitet och nationalitet är bara en del av kontrollen. Ditt resmål kan också kräva visum eller resetillstånd för din resa. Ett visum låter dig i regel resa dit och begära inresa för det angivna syftet, men den som kontrollerar dig vid gränsen avgör fortfarande om du får resa in.
 
 ### Räknas ett pass som visum
 
-Nej, och de två går aldrig att byta ut mot varandra. Kräver ditt resmål visum för ditt medborgarskap räcker inte passet ensamt för att släppa in dig, och flygbolag kan neka dig ombordstigning långt innan du ens når gränsen. Där inget visum krävs räcker passet på egen hand.
+Nej, ett pass ersätter inte ett visum som krävs. Även på en visumfri resa kan du behöva ett elektroniskt resetillstånd och andra styrkande handlingar. Kontrollera därför reglerna för din nationalitet, din resväg och resans syfte.
 
 ### Vad är ett visum i ett pass
 
@@ -159,7 +159,7 @@ Nej, och det gemensamma namnet är en slump snarare än ett samband. Betalnätve
 
 ### Kan du använda ett visum från ett utgånget pass
 
-Ofta, ja. Visumets giltighet är skild från passets giltighet, så ett fortfarande giltigt visum i ett utgånget pass går oftast att använda om du bär med dig båda passen tillsammans. Vissa länder kräver att visumet först överförs till det nya passet, så bekräfta resmålets regel med ambassaden innan du reser.
+Det beror på resmålet och visumet. Enligt den brittiska regeringens anvisningar kan ett giltigt brittiskt visummärke, en så kallad vignette, i ett utgånget pass användas vid resor till och från Storbritannien om du tar med både det utgångna och det nya passet. Kontrollera resmålets aktuella regler innan du förlitar dig på ett visum som är kopplat till ett utgånget pass.
 
 ## Relaterade artiklar
 

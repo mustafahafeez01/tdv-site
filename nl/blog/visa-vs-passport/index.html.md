@@ -10,47 +10,47 @@ Source: https://traveldocumentvault.com/nl/blog/visa-vs-passport/
 
 ## Belangrijkste punten
 
-- **Een paspoort wordt uitgegeven door je land** en bewijst je nationaliteit en identiteit.
-- **Een visum wordt uitgegeven door een bestemmingsland** en geeft je toestemming om er binnen te komen.
-- Voor de meeste internationale reizen heb je **beide documenten nodig**, al vragen sommige bestemmingen alleen een paspoort.
+- **Een paspoort laat zien wie je bent en welke nationaliteit je hebt**. Het wordt doorgaans uitgegeven door het land waarvan je de nationaliteit hebt.
+- **Met een visum mag je doorgaans reizen en om toegang vragen**. De grensbeambte neemt de uiteindelijke beslissing.
+- Voor de meeste internationale reizen heb je **een paspoort nodig**. Controleer of je voor jouw reis ook een visum, reistoestemming of aanvullende documenten nodig hebt.
 - Visumvereisten **verschillen per nationaliteit en bestemming**, dus controleer de vereisten altijd voordat je vertrekt.
 - **De vervaldatum van je visum apart bijhouden van je paspoort** helpt reisonderbrekingen te voorkomen.
 
-Paspoort en visum klinken bijna inwisselbaar, maar ze doen een ander werk: het ene identificeert jou, het andere geeft je toegang, en de meeste internationale reizen vragen om allebei. Wie voor het eerst internationaal reist, gaat er vaak van uit dat het ene het andere dekt, en die aanname kan bij het inchecken of aan de grens echt voor problemen zorgen, op een moment dat er geen tijd meer is om het recht te zetten.
+Je paspoort laat zien wie je bent en welke nationaliteit je hebt. Met een visum mag je doorgaans reizen en voor een bepaald doel om toegang vragen. De grensbeambte neemt de uiteindelijke beslissing. Of je een visum nodig hebt, hangt af van je reis. Wie voor het eerst internationaal reist, denkt vaak dat het ene document het andere vervangt en ontdekt pas bij het inchecken of aan de grens dat dit niet zo is, wanneer er geen tijd meer is om het op te lossen. Controleer beide voordat je boekt, niet pas bij het inchecken.
 
 ## Wat is een paspoort
 
-Je paspoort bevat je naam, geboortedatum, foto en een uniek paspoortnummer – uitgegeven door je overheid en wereldwijd erkend als bewijs van je nationaliteit.
+Je paspoort bevat je naam, geboortedatum, foto en een uniek paspoortnummer om je identiteit en nationaliteit vast te stellen. Het wordt doorgaans uitgegeven door het land waarvan je de nationaliteit hebt. Dat kan een ander land zijn dan het land waar je woont.
 
 Het werkt als je officiële identiteitsbewijs voor internationale reizen. Voor de meeste internationale reizen heb je het nodig om je land te verlaten en in het buitenland te worden toegelaten, al accepteren sommige regio's andere documenten, zoals nationale identiteitskaarten binnen Europa of een [Amerikaanse paspoortkaart](https://www.cbp.gov/travel/us-citizens/western-hemisphere-travel-initiative) bij land- en zeegrenzen. Grensbeambten controleren het aan de grens, luchtvaartmaatschappijen vragen het voor internationale vluchten, en douanebeambten controleren het bij aankomst.
 
-Paspoorten zijn doorgaans meerdere jaren geldig (vaak 10 jaar voor volwassenen, 5 jaar voor kinderen), al verschilt de geldigheidsduur per land. Zodra je paspoort is verlopen, kun je niet internationaal reizen en moet je een vernieuwing aanvragen. Die datum in de gaten houden is belangrijker dan de meeste mensen denken: veel landen eisen bij binnenkomst [nog minstens 6 maanden geldigheid](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), dus een paspoort dat nog niet is verlopen, kan je alsnog aan de grens worden geweigerd. De ambassade van je bestemming bevestigt de exacte regel die daar geldt.
+De geldigheidsduur van een paspoort verschilt per uitgevende instantie. Een voorbeeld uit het Verenigd Koninkrijk: HM Passport Office geeft standaardpaspoorten voor volwassenen uit met een geldigheidsduur van 10 jaar en kinderpaspoorten met een geldigheidsduur van 5 jaar. Zodra je paspoort is verlopen, kun je niet internationaal reizen en moet je een vernieuwing aanvragen. Die datum in de gaten houden is belangrijker dan de meeste mensen denken: veel landen eisen bij binnenkomst [nog minstens 6 maanden geldigheid](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), dus een paspoort dat nog niet is verlopen, kan je alsnog aan de grens worden geweigerd. De ambassade van je bestemming bevestigt de exacte regel die daar geldt.
 
 ## Wat is een visum
 
-Een visum is officiële toestemming van een bestemmingsland waarmee je er voor een specifiek doel en een specifieke duur mag binnenkomen en verblijven. In tegenstelling tot je paspoort – dat je eigen land uitgeeft – komt een visum van het land dat je wilt bezoeken.
+Met een visum mag je doorgaans naar een bestemming reizen en daar voor een bepaald doel om toegang vragen. De autoriteiten van de bestemming geven het af, en de grensbeambte beslist of je wordt toegelaten. Lees de voorwaarden goed. De periode waarin je het visum kunt gebruiken, staat los van hoelang je mag blijven.
 
-Een geldig paspoort betekent niet automatisch dat je elk land kunt binnenkomen. Een paspoort bewijst dat je burger bent van een bepaald land; een visum bewijst dat een specifiek land je toestemming heeft gegeven om er te zijn. Sommige landen kunnen je de toegang weigeren, ook als je paspoort geldig is.
+Een geldig paspoort toont je identiteit en nationaliteit aan, maar geeft je niet automatisch toegang tot een ander land. Met een visum mag je doorgaans reizen om toegang te vragen, maar de grensbeambte kan je nog steeds weigeren.
 
 Visumvereisten hangen af van je nationaliteit. Een burger van het ene land heeft misschien een visum nodig om land A te bezoeken, terwijl een burger van een ander land datzelfde land visumvrij kan bezoeken. Tussen veel landen bestaan visumvrije reisafspraken, waardoor burgers van die landen de grens kunnen oversteken zonder vooraf een visum aan te vragen.
 
-## Waarom je beide nodig hebt
+## Wanneer je beide nodig hebt
 
-Je paspoort beantwoordt één vraag: "Wie ben je, en welk land heeft dit document uitgegeven?" Je visum beantwoordt een andere: "Mag je van het bestemmingsland op bezoek komen?" Samen werken ze als een tweedelige sleutel – je paspoort laat je thuis vertrekken, en je visum geeft je toegang op je bestemming.
+Je paspoort laat de grensbeambte zien wie je bent en welke nationaliteit je hebt. Met een visum mag je doorgaans reizen en om toegang vragen voor het doel dat erop vermeld staat. De grensbeambte neemt de uiteindelijke beslissing.
 
-De meeste internationale reizen vereisen zowel een geldig paspoort als een passend visum (of de bevestiging dat voor die bestemming geen visum nodig is). Voor de meeste internationale reizen kun je niet vertrekken zonder paspoort. Zonder een vereist visum kun je je bestemming niet binnenkomen, hoe geldig je paspoort ook is. Veel reisonderbrekingen ontstaan doordat reizigers wel een geldig paspoort hebben, maar vergeten de visumvereisten te checken voordat ze boeken.
+Voor de meeste internationale reizen heb je een geldig paspoort nodig. Of je daarnaast een visum nodig hebt, hangt af van je nationaliteit, bestemming, route en reisdoel. Ook als je geen visum nodig hebt, kan een reistoestemming of aanvullende documentatie vereist zijn. Controleer alle vereisten voordat je boekt.
 
 ## Is een paspoort hetzelfde als een visum?
 
-Nee, en een paspoort telt nooit als visum. Ze komen van verschillende overheden en beantwoorden verschillende vragen, dus het ene kan het andere niet vervangen, hoe geldig het ook is.
+Nee, een paspoort kan een vereist visum niet vervangen: ze hebben elk een andere functie. Controleer welke documenten je voor jouw reis nodig hebt.
 
-Twee dingen houden deze verwarring in stand. Het eerste is fysiek: een visum is vaak een sticker of stempel die in het paspoort wordt geplaatst, waardoor wat je in handen hebt eruitziet als één document met een paar extra ingevulde pagina's. Het zijn in werkelijkheid twee toestemmingen in één boekje, uitgegeven door twee verschillende landen.
+Twee dingen houden deze verwarring in stand. Het eerste is fysiek: een visum is vaak een sticker of stempel die in het paspoort wordt geplaatst, waardoor wat je in handen hebt eruitziet als één document met een paar extra ingevulde pagina's. Het boekje toont je identiteit en nationaliteit aan. Met het visum erin mag je doorgaans reizen en om toegang vragen.
 
 Het tweede is visumvrij reizen. Wanneer een bestemming jouw nationaliteit zonder visum toelaat, lijkt het alsof het paspoort dat werk alleen heeft gedaan. Wat er eigenlijk gebeurde, is dat het land de eis liet vallen voor houders van dat paspoort. Het visum werd niet vervangen door het paspoort; het werd simpelweg niet gevraagd, en datzelfde land kan het wel eisen van een buurman die met een ander paspoort reist.
 
-Het paspoort is dus van jou en reist overal met je mee. De toestemming wordt door elke bestemming apart verleend, en kan worden geweigerd zelfs als je paspoort volledig in orde is.
+Eén visum kan voor meerdere landen gelden: volgens de Europese Commissie is een Schengenvisum over het algemeen geldig in het hele Schengengebied. Ook met een geldig paspoort en visum beslissen de grensautoriteiten nog of je wordt toegelaten.
 
-![Vergelijkingsdiagram van een paspoort en een visum: je eigen land geeft het paspoort uit, het bewijst wie je bent en laat je vertrekken uit eigen land, terwijl de bestemming het visum uitgeeft, dat toestemming geeft om binnen te komen en alleen voor dat ene land geldt, met de aantekening dat de meeste reizen beide nodig hebben](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure-nl.jpg) Twee documenten, twee functies - en een geldig paspoort alleen is geen toestemming om binnen te komen.
+![Illustraties van een paspoort en een visum](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure-nl.jpg) Twee documenten, twee functies - en een geldig paspoort alleen is geen toestemming om binnen te komen.
 
 ## Visa verschillen naar doel en duur
 
@@ -63,17 +63,17 @@ De meeste landen geven visa uit in deze categorieën:
 - **E-visum:** Een elektronisch visum dat je online aanvraagt en dat doorgaans wordt opgeslagen in het systeem van het bestemmingsland, gekoppeld aan je paspoortnummer. Gebruikelijk in Zuidoost-Azië en steeds vaker elders.
 - **Visum bij aankomst:** Uitgegeven op het vliegveld of aan de grens van je bestemming zodra je aankomt. De verwerking gaat meestal snel, al kunnen de rijen lang zijn, en niet elk land biedt deze optie.
 
-Visumvereisten binnen elke categorie lopen sterk uiteen. Een toeristenvisum voor het ene land is misschien 30 dagen geldig; voor een ander land 90 dagen. Sommige zijn eenmalig (je mag maar één keer binnenkomen), terwijl andere meerdere binnenkomsten toestaan.
+Ook binnen dezelfde visumcategorie verschillen de voorwaarden: de geldigheidsduur van een toeristenvisum kan afwijken van de toegestane verblijfsduur per bezoek. Controleer ook het aantal toegestane binnenkomsten, want sommige visa staan één binnenkomst toe en andere meerdere.
 
 | Aspect | Paspoort | Visum |
 |---|---|---|
-| **Uitgegeven door** | Je eigen land | Bestemmingsland |
-| **Doel** | Bewijst nationaliteit en identiteit | Geeft toestemming om een specifiek land binnen te komen |
+| **Uitgegeven door** | Doorgaans het land waarvan je de nationaliteit hebt | Bestemmingsland |
+| **Doel** | Toont doorgaans identiteit en nationaliteit aan | Laat je doorgaans reizen om toegang te vragen |
 | **Vereist voor** | De meeste internationale reizen | Reizen naar veel (niet alle) landen |
-| **Geldigheidsduur** | Meestal 5-10 jaar | Varieert: dagen tot jaren, afhankelijk van het type |
-| **Aanvraaglocatie** | Overheidsinstantie in je eigen land | Ambassade of consulaat van het bestemmingsland |
-| **Verwerkingstijd** | Weken tot maanden, afhankelijk van het land | Dagen tot maanden, afhankelijk van bestemming en type |
-| **Kosten** | Vaste overheidsvergoeding | Verschilt sterk per land en visumtype |
+| **Geldigheidsduur** | Voorbeeld uit het VK: kinderen 5 jaar, volwassenen 10 jaar | Varieert: dagen tot jaren, afhankelijk van het type |
+| **Aanvraaglocatie** | Via de uitgevende instantie: online, per post of persoonlijk | Online, via een visumcentrum, ambassade of consulaat |
+| **Verwerkingstijd** | Verschilt per instantie en dienst | Dagen tot maanden, afhankelijk van bestemming en type |
+| **Kosten** | Verschilt per instantie, aanvrager en dienst | Verschilt sterk per land en visumtype |
 
 ## Visumstempels en e-visa's doen hetzelfde werk
 
@@ -81,7 +81,7 @@ Een bron van verwarring is het verschil tussen een traditioneel visumstempel en 
 
 In plaats van in je paspoort te worden gedrukt, wordt een e-visum doorgaans opgeslagen in het elektronische systeem van het bestemmingsland en gekoppeld aan je paspoortnummer. Bij aankomst zoeken grensbeambten het op in hun systeem om je visum te bevestigen. Beide vormen zijn even geldig en juridisch bindend.
 
-Die koppeling aan je paspoortnummer is belangrijk als je je paspoort vervangt. Een e-visum gekoppeld aan een nummer dat je niet meer bij je draagt, kan bij de grenscontrole niet worden teruggevonden, dus laat het de uitgevende instantie weten voordat je vertrekt in plaats van er pas bij de balie achter te komen.
+Die koppeling aan je paspoortnummer is belangrijk als je je paspoort vervangt. Controleer vóór vertrek de instructies van de uitgevende instantie: mogelijk moet je je paspoortgegevens bijwerken of ook je oude paspoort meenemen.
 
 ## Hoe je nagaat of je een visum nodig hebt
 
@@ -90,7 +90,7 @@ De sleutel is je nationaliteit en je bestemming. De ene reiziger heeft voor een 
 Drie bronnen vertellen je wat je daadwerkelijk nodig hebt, en het loont om alle drie te checken in plaats van er maar één te kiezen:
 
 - **Het IATA Travel Centre.** Het put uit dezelfde documentendatabase die luchtvaartmaatschappijen bij het inchecken raadplegen, dus het antwoord komt meestal overeen met wat er in de praktijk van je wordt gevraagd. Je zoekt op paspoortland en bestemming, en het geeft de paspoort-, visum- en gezondheidsvereisten voor die combinatie.
-- **De ambassade of het consulaat van het bestemmingsland in jouw woonland.** Dit is de instantie die het visum daadwerkelijk uitgeeft, dus haar bewoordingen wegen zwaarder dan elke samenvatting ervan. Zoek de vestiging die is geaccrediteerd voor je woonland, niet het land van waaruit je vertrekt.
+- **De ambassade of het consulaat van het bestemmingsland in jouw woonland.** Controleer daar de officiële instructies van de uitgevende autoriteit. De aanvraagprocedure kan online of via een visumcentrum, ambassade of consulaat verlopen. Zoek de vestiging die is geaccrediteerd voor je woonland, niet het land van waaruit je vertrekt.
 - **De reisadviesdienst van je eigen overheid.** Voor Nederlandse reizigers publiceert Nederland Wereldwijd, de dienst van het ministerie van Buitenlandse Zaken, het reisadvies per land. Woon je in België, dan doet de FOD Buitenlandse Zaken hetzelfde. Beide melden ook recente wijzigingen, en dat is precies waar je op moet letten.
 
 We hebben bewust geen van deze bronnen gelinkt. Inreisregels veranderen vaak genoeg dat een link die je vandaag bewaart, tegen de tijd dat je hem leest naar verouderde informatie kan verwijzen, dus ga rechtstreeks naar de instantie en lees wat er nu staat.
@@ -101,13 +101,13 @@ Wij zouden de aanvraag 2-3 maanden voor vertrek starten als een visum waarschijn
 
 ## De valkuil van een verlopen paspoort: visumgeldigheid versus paspoortgeldigheid
 
-Een veelvoorkomend misverstand is dat een visum verloopt zodra je paspoort verloopt, maar zo werkt het niet. De geldigheid van een visum staat volledig los van de geldigheid van je paspoort. Verloopt je paspoort voordat je visum dat doet, dan blijft je visum geldig.
+De vervaldatum van een visum kan verschillen van die van je paspoort. Of je het visum nog kunt gebruiken nadat je paspoort is verlopen, hangt af van de bestemming en het visum. Controleer dit vóór vertrek.
 
-Stel dat je paspoort verloopt en je een nieuw paspoort aanvraagt, maar je nog een geldig toeristenvisum voor een bestemming hebt – misschien nog zes maanden geldig – gestempeld in je verlopen paspoort. Je kunt nog steeds met dit visum reizen. Neem gewoon zowel je oude (verlopen) paspoort met het visum als je nieuwe paspoort mee; grensbeambten controleren bij binnenkomst beide documenten.
+De Britse overheid geeft een specifiek voorbeeld. Je kunt een geldige Britse visumsticker in een verlopen paspoort gebruiken voor reizen van en naar het Verenigd Koninkrijk, als je zowel het verlopen als het nieuwe paspoort meeneemt. Die regel zegt niets over wat een andere bestemming accepteert.
 
-Sommige landen eisen dat het visum wordt overgezet naar je nieuwe paspoort. Dit moet gebeuren bij de ambassade of het consulaat van het uitgevende land, voordat je vertrekt. De vereisten verschillen per bestemming, dus controleer dit bij de officiële ambassadewebsite van dat specifieke land of neem rechtstreeks contact op.
+Volg vóór vertrek de procedure van de uitgevende instantie. Dat kan betekenen dat je beide paspoorten moet meenemen, een elektronisch dossier moet bijwerken of een vervangend visum moet aanvragen.
 
-De verwarring is dat je oude paspoort als reisdocument is verlopen, terwijl het visum erin een aparte toestemming van het bestemmingsland is, met een eigen vervaldatum.
+Bewaar beide vervaldatums op een plek waar je ze gemakkelijk kunt controleren. Ook een visum dat nog niet is verlopen, kan aandacht vragen als je je paspoort vervangt. Volg daarom de actuele instructies van de uitgevende instantie.
 
 ## Visumvrij reizen kent nog steeds grenzen
 
@@ -131,19 +131,19 @@ Officiële bronnen
 
 ### Wat is het verschil tussen een visum en een paspoort?
 
-Je paspoort wordt uitgegeven door je eigen land en bewijst wie je bent en tot welk land je behoort. Een visum wordt uitgegeven door het land dat je wilt bezoeken en geeft je toestemming om er binnen te komen. Het ene identificeert je, het andere laat je toe, en voor de meeste internationale reizen heb je beide nodig.
+Je paspoort laat zien wie je bent en welke nationaliteit je hebt. Met een visum mag je doorgaans reizen en voor een bepaald doel om toegang vragen. De grensbeambte neemt de uiteindelijke beslissing. Of je een visum nodig hebt, hangt af van je nationaliteit, bestemming en reis.
 
 ### Is een visum hetzelfde als een paspoort?
 
-Nee. Ze komen van verschillende overheden en hebben elk een andere functie. Je paspoort komt van je eigen land en reist overal met je mee. Een visum komt van één specifiek bestemmingsland en is alleen geldig voor dat land, voor een vastgesteld doel en een vastgestelde periode.
+Nee, ze hebben elk een andere functie: een paspoort toont je identiteit en nationaliteit aan, terwijl je met een visum doorgaans mag reizen om voor een bepaald doel toegang te vragen. Sommige visa gelden voor meerdere landen. Een Schengenvisum is bijvoorbeeld over het algemeen geldig in het hele Schengengebied. Controleer daarom vóór vertrek de geldigheidsdata en voorwaarden.
 
 ### Waarom heb ik een visum nodig als ik al een paspoort heb?
 
-Een paspoort bewijst je identiteit en nationaliteit, maar verplicht geen enkel land om je toe te laten. Elke bestemming beslist zelf wie er mag binnenkomen, en een visum is hoe dat besluit wordt vastgelegd. Een geldig paspoort zorgt ervoor dat je thuis kunt vertrekken, niet dat je aan de andere kant de grens oversteekt.
+Je identiteit en nationaliteit aantonen is maar een deel van de controle. Voor jouw reis kan de bestemming ook een visum of reistoestemming vereisen. Met een visum mag je doorgaans reizen om toegang te vragen voor het doel dat erop vermeld staat. De grensbeambte beslist nog steeds of je wordt toegelaten.
 
 ### Telt een paspoort ook als visum?
 
-Nee, en de twee zijn nooit onderling verwisselbaar. Als je bestemming een visum vereist voor jouw nationaliteit, kom je met alleen een paspoort niet binnen, en luchtvaartmaatschappijen kunnen je al weigeren in te stappen voordat je de grens ooit bereikt. Waar geen visum vereist is, volstaat je paspoort op zichzelf.
+Nee, een paspoort vervangt een vereist visum niet. Ook voor een visumvrije reis kun je een elektronische reistoestemming en aanvullende documenten nodig hebben. Controleer daarom de regels voor jouw nationaliteit, route en reisdoel.
 
 ### Wat is een visum op een paspoort?
 
@@ -159,7 +159,7 @@ Nee, en de gedeelde naam is toeval, geen verband. Visa, het betaalnetwerk, heeft
 
 ### Kun je een visum uit een verlopen paspoort gebruiken?
 
-Vaak wel. De geldigheid van je visum staat los van de geldigheid van je paspoort, dus een nog geldig visum in een verlopen paspoort blijft doorgaans bruikbaar als je beide boekjes samen bij je draagt. Sommige landen vereisen wel dat het visum eerst wordt overgezet naar het nieuwe paspoort, dus controleer de regel van jouw bestemming bij de ambassade voordat je vertrekt.
+Dat hangt af van de bestemming en het visum. Volgens de Britse overheid kun je een geldige Britse visumsticker in een verlopen paspoort gebruiken voor reizen van en naar het Verenigd Koninkrijk, als je zowel het verlopen als het nieuwe paspoort meeneemt. Controleer de actuele regels van je bestemming voordat je vertrouwt op een visum dat aan een verlopen paspoort is gekoppeld.
 
 ## Gerelateerde artikelen
 

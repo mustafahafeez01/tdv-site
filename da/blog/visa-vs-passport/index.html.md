@@ -10,47 +10,47 @@ Source: https://traveldocumentvault.com/da/blog/visa-vs-passport/
 
 ## Vigtigste punkter
 
-- **Et pas udstedes af dit land** og beviser dit statsborgerskab og din identitet.
-- **Et visum udstedes af et destinationsland** og giver dig tilladelse til at rejse ind.
-- Du skal bruge **begge dokumenter til de fleste internationale rejser**, selvom nogle destinationer kun kræver et pas.
-- Visumkrav **varierer efter statsborgerskab og destination**, så tjek altid kravene, før du rejser.
+- **Et pas viser, hvem du er, og din nationalitet**. Det udstedes som regel af dit nationalitetsland.
+- **Et visum giver dig som regel mulighed for at rejse og anmode om indrejse**. Grænsemyndighederne træffer den endelige afgørelse.
+- Du skal bruge **et pas til de fleste internationale rejser**. Tjek, om rejsen også kræver visum, rejsetilladelse eller anden dokumentation.
+- Visumkrav **varierer efter nationalitet og destination**, så tjek altid kravene, før du rejser.
 - **Hold styr på visummets udløbsdato adskilt fra dit pas'** – det er med til at forhindre rejseforstyrrelser.
 
-Pas og visum lyder næsten som det samme, men de gør hver sit arbejde: det ene identificerer dig, det andet lukker dig ind, og de fleste internationale rejser kræver begge dele. Førstegangsrejsende går ofte ud fra, at det ene dækker det andet, og den antagelse kan give reelle problemer ved check-in eller i grænsekontrollen, når der ikke er tid tilbage til at rette op på det.
+Dit pas viser, hvem du er, og din nationalitet. Et visum giver dig som regel mulighed for at rejse og anmode om indrejse til et bestemt formål, men grænsemyndighederne træffer den endelige afgørelse. Om du skal bruge visum, afhænger af din rejse. Førstegangsrejsende går ofte ud fra, at det ene dokument dækker det andet, og opdager først fejlen ved check-in eller grænsen, når der ikke er tid til at få det ordnet. Tjek begge dele, før du booker.
 
 ## Hvad er et pas
 
-Dit pas indeholder dit navn, din fødselsdato, dit foto og et unikt pasnummer – udstedt af din regering og anerkendt verden over som bevis på dit statsborgerskab.
+Dit pas indeholder dit navn, din fødselsdato, dit foto og et unikt pasnummer og dokumenterer din identitet og nationalitet. Det udstedes som regel af dit nationalitetsland, som kan være et andet land end det, du bor i.
 
 Det fungerer som din officielle legitimation til international rejse. På de fleste internationale rejser har du brug for det for at forlade dit land og blive lukket ind i udlandet, selvom nogle regioner accepterer andre dokumenter, såsom nationale id-kort inden for Europa eller et [amerikansk pasbevis (passport card)](https://www.cbp.gov/travel/us-citizens/western-hemisphere-travel-initiative) ved land- og søgrænser. Grænsevagter undersøger det ved grænserne, luftfartsselskaber kræver det til internationale flyvninger, og toldmyndighederne kontrollerer det, når du ankommer.
 
-Pas er typisk gyldige i flere år (ofte 10 år for voksne, 5 år for børn), selvom gyldighedsperioden varierer efter land. Når dit pas udløber, kan du ikke rejse internationalt og skal søge om fornyelse. At holde styr på den dato betyder mere, end de fleste forventer, for mange lande kræver [mindst 6 måneders resterende gyldighed](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), før de lader dig komme ind – så et pas, der ikke er udløbet endnu, kan stadig blive afvist ved grænsen. Din destinations ambassade kan bekræfte den præcise regel, den anvender.
+Passets gyldighedsperiode afhænger af den udstedende myndighed. Storbritannien er et eksempel: HM Passport Office udsteder almindelige voksenpas med 10 års gyldighed og børnepas med 5 års gyldighed. Når dit pas udløber, kan du ikke rejse internationalt og skal søge om fornyelse. At holde styr på den dato betyder mere, end de fleste forventer, for mange lande kræver [mindst 6 måneders resterende gyldighed](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), før de lader dig komme ind – så et pas, der ikke er udløbet endnu, kan stadig blive afvist ved grænsen. Din destinations ambassade kan bekræfte den præcise regel, den anvender.
 
 ## Hvad er et visum
 
-Et visum er en officiel tilladelse udstedt af et destinationsland, som giver dig ret til at rejse ind og opholde dig der til et bestemt formål og i en bestemt periode. I modsætning til dit pas – som dit eget land udsteder – kommer et visum fra det land, du vil besøge.
+Et visum giver dig som regel mulighed for at rejse til en destination og anmode om indrejse til et bestemt formål. Det udstedes af destinationens myndigheder, og grænsemyndighederne afgør, om du må rejse ind. Læs betingelserne grundigt. Perioden, hvor du kan bruge visummet, er ikke det samme som den tid, du må opholde dig der.
 
-At have et gyldigt pas betyder ikke automatisk, at du kan rejse ind i et hvilket som helst land. Et pas beviser, at du er statsborger i et land; et visum beviser, at et specifikt land har givet dig tilladelse til at opholde dig der. Nogle lande kan afvise indrejse, selvom dit pas er gyldigt.
+Et gyldigt pas dokumenterer din identitet og nationalitet, men giver dig ikke automatisk adgang til et andet land. Et visum giver dig som regel mulighed for at rejse og anmode om indrejse, men grænsemyndighederne kan stadig afvise dig.
 
-Visumkrav afhænger af dit statsborgerskab. En statsborger i ét land skal måske bruge visum for at besøge land A, mens en statsborger i et andet land kan besøge det samme land visumfrit. Der findes visumfrie rejseaftaler mellem mange lande, hvilket betyder, at borgere fra de lande kan krydse grænsen uden at skaffe visum på forhånd.
+Visumkrav afhænger af din nationalitet. En statsborger i ét land skal måske bruge visum for at besøge land A, mens en statsborger i et andet land kan besøge det samme land visumfrit. Der findes visumfrie rejseaftaler mellem mange lande, hvilket betyder, at borgere fra de lande kan krydse grænsen uden at skaffe visum på forhånd.
 
-## Hvorfor du skal bruge begge dele
+## Hvornår du skal bruge begge dele
 
-Dit pas besvarer ét spørgsmål: "Hvem er du, og hvilket land har udstedt dette dokument?" Dit visum besvarer et andet: "Tillader destinationslandet dig at besøge det?" Tilsammen fungerer de som en nøgle i to dele – dit pas lader dig forlade hjemlandet, og dit visum giver dig adgang ved din destination.
+Dit pas viser grænsemyndighederne, hvem du er, og din nationalitet. Et visum giver dig som regel mulighed for at rejse og anmode om indrejse til det angivne formål. Grænsemyndighederne træffer den endelige afgørelse.
 
-De fleste internationale rejser kræver både et gyldigt pas og et relevant visum (eller bekræftelse på, at der ikke kræves visum til din destination). På de fleste internationale rejser kan du ikke rejse uden et pas. Uden et påkrævet visum kan du ikke rejse ind i din destination, uanset hvor gyldigt dit pas er. Mange rejseforstyrrelser opstår, fordi rejsende har et gyldigt pas, men glemmer at tjekke visumkravene, før de booker.
+På de fleste internationale rejser skal du bruge et gyldigt pas. Om du også skal bruge visum, afhænger af din nationalitet, destination, rejserute og rejsens formål. Selv hvis du ikke behøver visum, kan der stadig være krav om en rejsetilladelse eller anden dokumentation. Tjek alle kravene, før du booker.
 
 ## Er et pas det samme som et visum?
 
-Nej, og et pas tæller aldrig som visum. De kommer fra forskellige myndigheder og besvarer forskellige spørgsmål, så det ene kan aldrig træde i stedet for det andet, uanset hvor gyldigt det er.
+Nej, et pas kan ikke erstatte et påkrævet visum, fordi de to dokumenter har forskellige funktioner. Tjek, hvilke dokumenter din rejse kræver.
 
-To ting holder forvirringen i live. Den første er fysisk: et visum er ofte en mærkat eller et stempel placeret inde i paset, så det, du sidder med, ligner ét dokument med nogle ekstra udfyldte sider. I virkeligheden er det to separate tilladelser i samme hæfte, udstedt af to forskellige lande.
+To ting holder forvirringen i live. Den første er fysisk: et visum er ofte en mærkat eller et stempel placeret inde i paset, så det, du sidder med, ligner ét dokument med nogle ekstra udfyldte sider. Passet dokumenterer din identitet og nationalitet, mens visummet i det som regel giver dig mulighed for at rejse og anmode om indrejse.
 
-Den anden er visumfri rejse. Når en destination lader dit statsborgerskab komme ind uden visum, føles det, som om paset klarede opgaven helt alene. Det, der faktisk skete, er, at landet frafaldt kravet for indehavere af netop det pas. Visummet blev ikke erstattet af paset – det blev bare ikke krævet, og det samme land kan sagtens kræve ét af en nabo, der rejser på et andet pas.
+Den anden er visumfri rejse. Når en destination lader rejsende med din nationalitet komme ind uden visum, føles det, som om paset klarede opgaven helt alene. Det, der faktisk skete, er, at landet frafaldt kravet for indehavere af netop det pas. Visummet blev ikke erstattet af paset – det blev bare ikke krævet, og det samme land kan sagtens kræve ét af en nabo, der rejser på et andet pas.
 
-Paset er altså dit og følger dig overalt. Tilladelsen gives separat af hver destination og kan nægtes, selv når dit pas er i perfekt stand.
+Et enkelt visum kan gælde for flere lande: Ifølge Europa-Kommissionen gælder et Schengenvisum som regel i hele Schengenområdet. Du skal stadig have grænsemyndighedernes tilladelse til at rejse ind, selv med et gyldigt pas og visum.
 
-![Sammenligningsdiagram af et pas og et visum: dit eget land udsteder passet, det beviser, hvem du er, og lader dig rejse ud fra dit hjemland, mens destinationen udsteder visummet, som giver tilladelse til indrejse og kun gælder for det ene land, med en note om, at de fleste rejser kræver begge](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure-da.jpg) To dokumenter, to opgaver – og et gyldigt pas alene er ikke tilladelse til indrejse.
+![Illustrationer af et pas og et visum](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure-da.jpg) To dokumenter, to opgaver – og et gyldigt pas alene er ikke tilladelse til indrejse.
 
 ## Visumtyper varierer efter formål og varighed
 
@@ -63,17 +63,17 @@ De fleste lande udsteder visum i disse kategorier:
 - **E-visum:** Et elektronisk visum, du ansøger om online, og som typisk gemmes i destinationslandets system, koblet til dit pasnummer. Almindeligt i Sydøstasien og i stigende grad andre steder.
 - **Visum ved ankomst:** Udstedes i lufthavnen eller ved grænsen på din destination, når du lander. Sagsbehandlingen er som regel hurtig, selvom køerne kan være lange, og ikke alle lande tilbyder denne mulighed.
 
-Kravene inden for hver kategori varierer meget. Et turistvisum til ét land kan være gyldigt i 30 dage; et andet kan tillade 90 dage. Nogle er enkeltindrejse (du kan kun rejse ind én gang), mens andre tillader flere indrejser.
+Detaljerne varierer selv inden for samme visumkategori: Et turistvisums gyldighedsperiode kan være en anden end den tid, du må opholde dig der ved hvert besøg. Tjek også antallet af indrejser, da nogle visa kun tillader én indrejse, mens andre tillader flere.
 
 | Aspekt | Pas | Visum |
 |---|---|---|
-| **Udstedes af** | Dit hjemland | Destinationsland |
-| **Formål** | Beviser statsborgerskab og identitet | Giver tilladelse til at rejse ind i et bestemt land |
+| **Udstedes af** | Som regel dit nationalitetsland | Destinationsland |
+| **Formål** | Dokumenterer som regel identitet og nationalitet | Giver som regel mulighed for at rejse og anmode om indrejse |
 | **Kræves til** | De fleste internationale rejser | Rejse til mange (ikke alle) lande |
-| **Gyldighedsperiode** | Normalt 5-10 år | Varierer: fra dage til år afhængigt af type |
-| **Ansøgningssted** | Offentligt kontor i dit land | Ambassade eller konsulat for destinationslandet |
-| **Sagsbehandlingstid** | Uger til måneder afhængigt af land | Dage til måneder afhængigt af destination og type |
-| **Pris** | Fast offentligt gebyr | Varierer meget efter land og visumtype |
+| **Gyldighedsperiode** | Eksempel fra Storbritannien: børn 5 år, voksne 10 år | Varierer: fra dage til år afhængigt af type |
+| **Ansøgningssted** | Hos den udstedende myndighed: online, med posten eller ved personligt fremmøde | Online, på et visumcenter, en ambassade eller et konsulat |
+| **Sagsbehandlingstid** | Varierer efter myndighed og service | Dage til måneder afhængigt af destination og type |
+| **Pris** | Varierer efter myndighed, ansøger og service | Varierer meget efter land og visumtype |
 
 ## Visumstempler og e-visum gør det samme arbejde
 
@@ -81,33 +81,33 @@ En kilde til forvirring er forskellen mellem et traditionelt visumstempel og et 
 
 I stedet for at blive trykt i dit pas gemmes et e-visum typisk i destinationslandets elektroniske system og kobles til dit pasnummer. Når du ankommer, slår grænsemyndighederne det op i deres system for at bekræfte dit visum. Begge typer er lige gyldige og juridisk bindende.
 
-Den kobling til dit pasnummer betyder noget, hvis du skifter pas. Et e-visum knyttet til et nummer, du ikke længere bærer på dig, kan betyde, at opslaget ved grænsen slår fejl, så giv den udstedende myndighed besked, før du rejser, i stedet for at opdage det ved skranken.
+Koblingen til dit pasnummer har betydning, hvis du skifter pas. Tjek den udstedende myndigheds vejledning, før du rejser: Du kan blive nødt til at opdatere dine pasoplysninger eller også medbringe det gamle pas.
 
 ## Sådan tjekker du, om du skal bruge visum
 
-Det afgørende er dit statsborgerskab og din destination. Én rejsende skal måske bruge visum til en rute, som en anden kan tage visumfrit, alt efter hvilket pas de har. Derfor er en vens oplevelse ikke bevis for, hvad der gælder for din egen rejse.
+Det afgørende er din nationalitet og din destination. Én rejsende skal måske bruge visum til en rute, som en anden kan tage visumfrit, alt efter hvilket pas de har. Derfor er en vens oplevelse ikke bevis for, hvad der gælder for din egen rejse.
 
 Tre steder kan fortælle dig, hvad du reelt skal bruge, og det er værd at tjekke alle tre i stedet for kun at vælge ét:
 
 - **IATA Travel Centre.** Det trækker på den samme dokumentdatabase, som luftfartsselskaberne bruger ved check-in, så svaret som regel matcher det, du rent faktisk bliver holdt op på. Du søger efter pasland og destination, og det viser pas-, visum- og sundhedskravene for netop den kombination.
-- **Destinationslandets ambassade eller konsulat for det sted, hvor du bor.** Det er myndigheden, der reelt udsteder visummet, så dens formulering vejer tungere end enhver opsummering af den. Find den, der er akkrediteret til dit bopælsland, ikke det land, du flyver fra.
+- **Destinationslandets ambassade eller konsulat for det sted, hvor du bor.** Her kan du få vejledning om myndighedens ansøgningsprocedure, som kan foregå online eller gennem et visumcenter, en ambassade eller et konsulat. Find den, der er akkrediteret til dit bopælsland, ikke det land, du flyver fra.
 - **Din egen regerings rejsevejledning.** Udenrigsministeriets rejsevejledninger dækker indrejsekrav for danske statsborgere, land for land, og bliver opdateret, når noget ændrer sig.
 
 Vi har bevidst ikke linket til nogen af dem. Indrejsereglerne ændrer sig ofte nok til, at et link gemt i dag kan pege på forældet vejledning, når du læser det, så gå direkte til myndigheden og læs, hvad den siger lige nu.
 
-Ét ærligt forbehold ved denne artikel: den forklarer, hvordan pas og visum adskiller sig i generelle vendinger, og generelle vendinger er alt, hvad nogen blog kan tilbyde – denne inklusive. Intet her erstatter det, den udstedende myndighed fortæller dig om dit statsborgerskab, din destination og dine rejsedatoer. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Betragt dette som baggrundsviden, der hjælper dig med at stille bedre spørgsmål, og bekræft derefter svarene hos ambassaden eller din regerings rejsevejledning.
+Ét ærligt forbehold ved denne artikel: den forklarer, hvordan pas og visum adskiller sig i generelle vendinger, og generelle vendinger er alt, hvad nogen blog kan tilbyde – denne inklusive. Intet her erstatter det, den udstedende myndighed fortæller dig om din nationalitet, din destination og dine rejsedatoer. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Betragt dette som baggrundsviden, der hjælper dig med at stille bedre spørgsmål, og bekræft derefter svarene hos ambassaden eller din regerings rejsevejledning.
 
 Vi ville starte ansøgningen 2-3 måneder før din rejse, hvis det ser ud til, at du skal bruge visum, så der er plads, hvis det går langsomt. Og er noget uklart, eller har du dobbelt statsborgerskab, så kontakt destinationslandets ambassade direkte i stedet for at gætte, hvilket pas du skal bruge.
 
 ## Faldgruben med udløbet pas: visumgyldighed vs. pasgyldighed
 
-En almindelig misforståelse er, at et visum udløber, når dit pas udløber, men sådan fungerer det ikke. Et visums gyldighed er helt adskilt fra dit pas' gyldighed. Udløber dit pas, før dit visum gør, forbliver visummet gyldigt.
+Et visums udløbsdato kan være en anden end passets. Om du stadig kan bruge visummet, efter at passet er udløbet, afhænger af destinationen og visummet, så tjek det, før du rejser.
 
-Sig, at dit pas udløber, så du søger om et nyt, men du har stadig et gyldigt turistvisum til en destination – måske med seks måneders gyldighed tilbage – stemplet i dit udløbne pas. Du kan stadig rejse med dette visum. Medbring blot både dit gamle (udløbne) pas med visummet og dit nye pas, så vil grænsemyndighederne undersøge begge dokumenter, når du rejser ind.
+De britiske myndigheder giver et konkret eksempel. Du kan bruge en gyldig britisk visummærkat (vignette) i et udløbet pas på rejser til og fra Storbritannien, hvis du medbringer både det udløbne og det nye pas. Den regel siger ikke noget om, hvad andre destinationer accepterer.
 
-Nogle lande kræver, at visummet overføres til dit nye pas. Det skal ske hos det udstedende lands ambassade eller konsulat, før du rejser. Kravene varierer efter destination, og derfor skal du bekræfte dem på det pågældende lands officielle ambassadehjemmeside eller ved at kontakte dem direkte.
+Følg den udstedende myndigheds procedure, før du rejser, uanset om du skal medbringe begge pas, opdatere en elektronisk registrering eller søge om et nyt visum.
 
-Forvirringen er, at dit gamle pas er udløbet som rejsedokument, mens visummet i det er en separat tilladelse fra destinationslandet, der løber efter sin egen udløbsdato.
+Gem begge udløbsdatoer et sted, hvor du nemt kan tjekke dem. Selv et visum, der endnu ikke er udløbet, kan kræve, at du gør noget, når du skifter pas. Følg derfor den udstedende myndigheds aktuelle vejledning.
 
 ## Visumfri rejse har stadig grænser
 
@@ -115,7 +115,7 @@ Mange lande har visumfritagelses- eller visumfri aftaler med hinanden, som lader
 
 Visumfri rejse har dog sine grænser. Det gælder som regel kun turisme eller korte ophold, ikke arbejde eller studier. Visumfri perioder er også begrænsede, [ofte 30 til 90 dage](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en) afhængigt af landet. Overskrider du den tilladte periode, bliver du ulovligt opholdende og risikerer sanktioner som bøder, udvisning eller fremtidige indrejseforbud.
 
-Visumfri adgang afhænger også udelukkende af dit statsborgerskab. To personer, der rejser sammen, kan have helt forskellige krav afhængigt af deres pas, hvor den ene krydser grænsen visumfrit, mens den anden skal søge om visum, så det er dit eget statsborgerskab, der tæller her, ikke en rejsekammerats erfaring.
+Visumfri adgang afhænger blandt andet af din nationalitet. Selv på en visumfri rejse kan du have brug for en elektronisk rejsetilladelse og anden dokumentation. To personer, der rejser sammen, kan have helt forskellige krav afhængigt af deres pas, hvor den ene krydser grænsen visumfrit, mens den anden skal søge om visum, så det er din egen nationalitet, der tæller her, ikke en rejsekammerats erfaring.
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 
@@ -131,19 +131,19 @@ Officielle kilder
 
 ### Hvad er forskellen på et visum og et pas
 
-Dit pas udstedes af dit eget land og beviser, hvem du er, og hvilket land du tilhører. Et visum udstedes af det land, du vil besøge, og giver dig tilladelse til at rejse ind. Det ene identificerer dig, det andet lukker dig ind, og de fleste internationale rejser kræver begge dele.
+Dit pas dokumenterer din identitet og nationalitet. Et visum giver dig som regel mulighed for at rejse og anmode om indrejse til et bestemt formål. Grænsemyndighederne træffer den endelige afgørelse. Om du skal bruge visum, afhænger af din nationalitet, destination og rejse.
 
 ### Er et visum det samme som et pas
 
-Nej. De kommer fra forskellige myndigheder og har forskellige funktioner. Dit pas kommer fra dit eget land og følger dig overalt. Et visum kommer fra ét bestemt destinationsland og gælder kun der, til et bestemt formål og i en bestemt periode.
+Nej, de har forskellige funktioner: Et pas dokumenterer din identitet og nationalitet, mens et visum som regel giver dig mulighed for at rejse og anmode om indrejse til et bestemt formål. Nogle visa gælder for flere lande. Et Schengenvisum gælder for eksempel som regel i hele Schengenområdet, så tjek dets datoer og betingelser, før du rejser.
 
 ### Hvorfor skal jeg bruge visum, når jeg har et pas
 
-Et pas beviser din identitet og dit statsborgerskab, men det forpligter ikke noget land til at lade dig komme ind. Hver destination beslutter selv, hvem der må rejse ind, og et visum er den måde, beslutningen registreres på. Et gyldigt pas er det, der lader dig forlade hjemlandet – ikke det, der lukker dig gennem grænsen i den anden ende.
+Din identitet og nationalitet er kun en del af kontrollen. Din destination kan også kræve visum eller rejsetilladelse til din rejse, og et visum giver dig som regel mulighed for at rejse og anmode om indrejse til det angivne formål. Grænsemyndighederne afgør stadig, om du må rejse ind.
 
 ### Tæller et pas som visum
 
-Nej, og de to kan aldrig erstatte hinanden. Kræver din destination visum for dit statsborgerskab, kommer du ikke ind på pas alene, og luftfartsselskaber kan nægte dig boarding, allerede før du når grænsen. Hvor der ikke kræves visum, er dit pas nok i sig selv.
+Nej, et pas erstatter ikke et påkrævet visum. Selv på en visumfri rejse kan du have brug for en elektronisk rejsetilladelse og anden dokumentation, så tjek reglerne for din nationalitet, rejserute og rejsens formål.
 
 ### Hvad er et visum i et pas
 
@@ -159,7 +159,7 @@ Nej, og det fælles navn er en tilfældighed snarere end en sammenhæng. Betalin
 
 ### Kan du bruge et visum fra et udløbet pas
 
-Ofte, ja. Dit visums gyldighed er adskilt fra dit pas' gyldighed, så et stadig gyldigt visum i et udløbet pas som regel kan bruges, hvis du medbringer begge pas sammen. Nogle lande kræver, at visummet først overføres til det nye pas, så bekræft din destinations regel hos ambassaden, før du rejser.
+Det afhænger af destinationen og visummet. Ifølge de britiske myndigheders vejledning kan du bruge en gyldig britisk visummærkat (vignette) i et udløbet pas på rejser til og fra Storbritannien, hvis du medbringer både det udløbne og det nye pas. Tjek destinationens aktuelle regler, før du regner med at kunne bruge et visum knyttet til et udløbet pas.
 
 ## Relaterede artikler
 

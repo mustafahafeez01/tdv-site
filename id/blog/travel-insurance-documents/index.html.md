@@ -10,21 +10,21 @@ Source: https://traveldocumentvault.com/id/blog/travel-insurance-documents/
 
 ## Poin Penting
 
-- **Simpan dokumen polis lengkap, nomor polis, dan nomor kontak darurat 24 jam** (bukan nomor penjualan).
-- Simpan salinan secara offline dan dapat diakses, email saja tidak akan membantu saat Anda terdampar atau di rumah sakit.
-- **Banyak polis meminta Anda menghubungi perusahaan asuransi sebelum perawatan medis**, melewatkannya dapat mengurangi atau membatalkan klaim Anda.
-- Salah satu penyebab klaim gagal yang umum adalah dokumentasi yang hilang: laporan polisi untuk pencurian, kwitansi asli, formulir klaim yang ditandatangani.
-- Baca bagian utama polis Anda dengan cepat dengan fokus pada batas cakupan, pengecualian, dan kondisi.
+- **Simpan dokumen polis lengkap, nomor polis, dan nomor bantuan darurat** (bukan nomor penjualan).
+- Simpan salinan secara offline, coba buka filenya, dan bawa salinan kertas yang disimpan terpisah dari paspor dan ponsel.
+- **Pelajari kapan perusahaan asuransi mewajibkan Anda menghubungi mereka sebelum perawatan**; dalam keadaan darurat medis, cari pertolongan terlebih dahulu, lalu hubungi perusahaan asuransi sesegera mungkin.
+- Simpan kuitansi dan laporan, lalu tanyakan kepada perusahaan asuransi dokumen apa saja yang diperlukan untuk klaim.
+- Mulailah dari batas pertanggungan, pengecualian, dan syarat polis, lalu baca seluruh ketentuannya.
 
-Asuransi perjalanan paling berarti justru pada saat paling sulit dijangkau: meja pendaftaran rumah sakit di luar negeri, kantor polisi, konter maskapai setelah penerbangan dibatalkan. Yang menentukan saat itu bukan polisnya, melainkan apakah nomor polis, saluran 24 jam penanggung, dan bukti cakupan pertanggungan ada dalam jangkauan. Artikel ini membahas apa yang perlu disimpan sebelum berangkat, di mana menyimpannya agar bisa dibuka tanpa internet, dan kesalahan pengajuan yang paling sering menggagalkan pembayaran.
+Saran kami, simpan dokumen asuransi perjalanan secara offline dan siapkan salinan kertas sebelum berangkat. Kumpulkan nomor polis, bukti pertanggungan, dan nomor bantuan darurat agar mudah ditemukan. Di sini kita akan membahas apa yang perlu disimpan, cara mencoba akses offline, serta petunjuk klaim yang perlu dibaca, termasuk jam layanan bantuan darurat.
 
 ## Apa yang Sebenarnya Terjadi Saat Anda Membutuhkan Asuransi Anda
 
-Pukul 2 pagi di Bangkok dan Anda keracunan makanan serta demam. Meja resepsi hotel merekomendasikan klinik swasta, jadi Anda menelepon untuk menanyakan biaya, tetapi mereka malah meminta detail asuransi Anda. Anda panik mencari nomor polis di ponsel. Kemudian Anda ingat: nomor itu ada di email yang tidak bisa Anda buka, karena ponsel tidak bisa terhubung ke WiFi. Staf klinik mengatakan mereka membutuhkan nomor itu sebelum bisa memulai perawatan dan mendapatkan pra-persetujuan dari perusahaan asuransi Anda.
+Bayangkan Anda sedang di klinik di luar negeri dan mencari nomor polis. Nomornya ada di email, tetapi lampirannya belum disimpan secara offline dan tidak ada koneksi internet. Salinan yang tersimpan di perangkat dan cadangan kertas membantu Anda menghindari pencarian itu.
 
-Beberapa dokumen yang hilang bukan hanya tidak nyaman di sini. Mereka menentukan apakah perawatan dimulai segera, apakah Anda membayar dari saku sendiri dan mengajukan klaim nanti, atau apakah klaim ditolak sepenuhnya.
+Rincian polis adalah titik awal, bukan jaminan bahwa Anda akan mendapat perawatan atau biaya akan dibayar. Tanyakan kepada perusahaan asuransi dan penyedia layanan medis apa saja yang mereka perlukan, termasuk bukti untuk klaim.
 
-Asuransi perjalanan hanya bekerja jika Anda bisa mengaksesnya saat Anda membutuhkannya. Sebagian besar orang menyimpannya di email dan tidak bisa menemukannya saat krisis terjadi — biasanya saat stres, tekanan waktu, atau keadaan darurat medis.
+Simpan dokumen di tempat yang mudah Anda temukan saat sedang tertekan. Kehilangan salinan dokumen tidak serta-merta membatalkan pertanggungan, tetapi Anda tetap perlu menghubungi perusahaan asuransi dan mengumpulkan bukti yang diminta.
 
 ## Tidak Bisa Menemukan Dokumen Polis Anda? Mulai dari yang Menjual Asuransinya
 
@@ -32,47 +32,47 @@ Dokumen polis Anda ada di pihak yang menjual asuransi tersebut kepada Anda, jadi
 
 - Ketentuan polis: syarat lengkap, termasuk pengecualian dan cara mengajukan klaim
 - Lembar rincian atau sertifikat: nama Anda, nomor polis, tanggal perjalanan, dan tingkat perlindungan
-- Nomor bantuan darurat 24 jam, nomor yang dihubungi dari rumah sakit atau kantor polisi di luar negeri
+- **Nomor bantuan darurat**, termasuk nomor yang bisa dihubungi dari luar negeri dan jam layanannya
 
 Jika Anda sama sekali tidak ingat pernah membeli polis, periksa rekening bank Anda. Financial Ombudsman Service Inggris menjelaskan rekening bank paket sebagai rekening giro yang mengenakan biaya bulanan, dengan imbalan manfaat tambahan, salah satunya asuransi perjalanan. Dalam kasus ini, bank biasanya menjadi tempat pertama untuk bertanya, jadi coba cek aplikasi, situs web, atau layanan bantuannya.
 
-Setelah Anda mendapatkannya, [Foreign, Commonwealth and Development Office Inggris](https://www.gov.uk/guidance/foreign-travel-insurance) menyarankan untuk membawa rincian polis Anda, termasuk nomor polis dan nomor bantuan darurat perusahaan asuransi. Mereka juga menyarankan untuk membagikannya kepada orang yang bepergian bersama Anda dan keluarga di rumah. Jika Anda masih tidak menemukan apa pun, hubungi perusahaan asuransi, atau bank untuk asuransi paket, dan minta mereka mengirim ulang dokumennya sebelum Anda terbang, bukan setelah terjadi masalah.
+Sebagai contoh dari Inggris, [Foreign, Commonwealth and Development Office](https://www.gov.uk/guidance/foreign-travel-insurance) menyarankan untuk membawa rincian polis Anda, termasuk nomor polis dan nomor bantuan darurat perusahaan asuransi. Mereka juga menyarankan untuk membagikannya kepada orang yang bepergian bersama Anda dan keluarga di rumah. Jika Anda masih tidak menemukan apa pun, hubungi perusahaan asuransi, atau bank untuk asuransi paket, dan minta mereka mengirim ulang dokumennya sebelum Anda terbang, bukan setelah terjadi masalah.
 
 ## Lima Dokumen yang Harus Disimpan Sebelum Anda Terbang
 
-Polis asuransi perjalanan Anda biasanya berupa PDF. Satu file itu berisi semua yang Anda butuhkan, tetapi Anda harus mengekstrak dan menyimpan lima hal ini secara terpisah agar Anda bisa menemukannya secara instan:
+Agar mudah dirujuk, kumpulkan lima hal berikut. Simpan ketentuan polis bersama lembar rincian atau sertifikat, serta ketentuan tambahan atau deklarasi medis yang terpisah:
 
 - Dokumen polis lengkap (PDF)
 - Nomor polis (ekstrak, tulis juga secara terpisah)
-- Nomor kontak darurat 24 jam (berbeda dari nomor penjualan atau layanan pelanggan)
+- Nomor bantuan darurat, jam layanannya, dan nomor untuk panggilan dari luar negeri jika ada
 - Bagian apa yang ditanggung (batas pembayaran untuk medis, bagasi, pembatalan, dll.)
 - Pengecualian utama dan kondisi (termasuk persyaratan pra-persetujuan)
 
-Nomor polis sangat penting. Siapkan nomor polis Anda, karena perusahaan asuransi biasanya menanyakannya lebih dulu. Jika Anda tidak bisa memberikannya, Anda akan membuang waktu mencari dokumen sementara jam terus berjalan.
+Siapkan nomor polis beserta nama dan tanggal perjalanan Anda agar mudah dirujuk. Sebelum berangkat, ada baiknya menelepon perusahaan asuransi untuk menanyakan identitas dan dokumen apa yang diperlukan jika polis Anda hilang.
 
-Lini darurat berbeda dari lini layanan pelanggan, yang biasanya hanya menjawab selama jam kerja, sementara lini darurat beroperasi 24/7. Simpan keduanya, tetapi tahu nomor mana yang harus ditelepon di tengah malam saat Anda terluka.
+Beri label yang jelas pada nomor bantuan darurat dan layanan pelanggan. Cari tahu jam layanan masing-masing dan apakah nomornya bisa dihubungi dari luar negeri. Jangan menganggap setiap polis menyediakan layanan sepanjang waktu.
 
 ## Di Mana Menyimpannya Agar Anda Benar-benar Bisa Mengaksesnya
 
-Email bukan sistem penyimpanan untuk dokumen perjalanan. Email bergantung pada koneksi, dan krisis jarang datang dengan satu. Terdampar, terluka, atau duduk di rumah sakit, Anda sering tidak memiliki WiFi dan tidak ada data yang bekerja. Baterai ponsel Anda mungkin rendah. Anda mungkin berada di negara tempat paket data Anda tidak bekerja.
+Email bisa dibuka secara offline jika pesan dan lampirannya sudah disimpan sebelumnya dan aplikasi email Anda mendukungnya. Coba buka file lengkap tanpa koneksi, alih-alih mengandalkan lampiran yang baru pernah dilihat secara online.
 
-Sebagai gantinya, simpan dokumen Anda di tiga tempat untuk redundansi.
+Simpan dokumen di tiga tempat agar Anda punya cadangan.
 
 ### Offline di Ponsel Anda
 
-Unduh PDF langsung ke ponsel Anda dan simpan tangkapan layar informasi penting (nomor polis, lini darurat). Banyak aplikasi catatan yang berfokus pada keamanan atau aplikasi penyimpanan dokumen memungkinkan Anda menyimpan file secara offline sehingga dapat diakses bahkan tanpa internet. Aplikasi File asli atau aplikasi Photos ponsel Anda berdua beroperasi dengan baik untuk ini.
+Unduh PDF langsung ke ponsel agar seluruh polis tersimpan di sana. Ambil tangkapan layar informasi penting, termasuk nomor polis dan nomor bantuan darurat. Saran kami, coba buka keduanya sebelum berkemas: matikan WiFi dan data seluler, lalu buka dokumen lengkap serta tangkapan layar di aplikasi yang Anda pilih.
 
-Banyak pelancong juga mengambil tangkapan layar halaman pertama polis mereka (dengan nomor polis) dan halaman kontak darurat mereka, kemudian menyimpan gambar ini dalam folder terpisah. Saat krisis terjadi, Anda bisa menemukan folder ini dalam 5 detik.
+Untuk foldernya, kami sarankan nama "Asuransi - perjalanan ini". Coba temukan folder itu sebelum berangkat.
 
 ### Cloud dengan Akses Offline
 
-Untuk cadangan, simpan dokumen asuransi Anda ke drive cloud yang dilindungi kata sandi (iCloud, Google Drive, OneDrive), tetapi unduh untuk tampilan offline. Ini memberi Anda cadangan jika ponsel Anda hilang.
+Saat menyimpan cadangan di cloud, tandai file secara khusus agar tersedia offline di ponsel, lalu coba buka tanpa koneksi. Untuk mengambil salinan cloud di perangkat lain, Anda memerlukan internet dan cara menyelesaikan verifikasi akun tanpa ponsel yang hilang.
 
-### Salinan Fisik dengan Dokumen Perjalanan Anda
+### Cadangan Kertas yang Terpisah dari Ponsel
 
-Simpan salinan fisik, atau foto berkualitas tinggi dari halaman penting, bersama paspor, dokumen visa, dan dokumen perjalanan lainnya. Jika ponsel Anda mati, ini adalah cadangan Anda.
+Bawa salinan kertas dokumen asuransi dan simpan terpisah dari paspor serta ponsel. Foto yang hanya tersimpan di ponsel tidak membantu saat ponselnya tidak bisa digunakan. Cari tahu apakah salinan digital memenuhi persyaratan dokumen yang berlaku di tujuan Anda serta yang ditetapkan perusahaan asuransi dan penyedia layanan medis.
 
-Kartu tertulis tangan berhasil sama baiknya dengan cetakan: nomor polis, nama perusahaan asuransi, lini darurat. Masukkan ke dalam dompet paspor dan itu akan bertahan dari baterai yang habis, ponsel yang hilang, dan brankas hotel yang tidak bisa Anda buka.
+Kartu tulisan tangan berisi nomor polis, nama perusahaan asuransi, dan nomor bantuan darurat berguna sebagai referensi cepat. Namun, kartu itu tidak menggantikan dokumen yang wajib Anda bawa.
 
 ![Dua ponsel identik berdampingan: yang kiri menyala dengan polis asuransi yang sudah tersimpan di perangkat, yang kanan tampak abu-abu dengan indikator memuat dan tanpa sinyal](https://traveldocumentvault.com/blog/travel-insurance-documents/saved-vs-searching-figure.jpg) Sudah diunduh dan siap dipakai, atau masih tersimpan di kotak masuk yang tidak bisa Anda akses. Perbedaannya muncul di saat yang paling buruk.
 
@@ -80,27 +80,27 @@ Kartu tertulis tangan berhasil sama baiknya dengan cetakan: nomor polis, nama pe
 
 | Lokasi Penyimpanan | Akses Tanpa Internet | Saat Darurat | Cadangan jika Ponsel Hilang |
 |---|---|---|---|
-| **Ponsel (unduhan offline)** | Instan, tidak perlu WiFi | Tersedia segera - opsi tercepat | Hilang dengan ponsel kecuali dicadangkan |
-| **Drive cloud dengan akses offline** | Ya, jika sudah diunduh sebelumnya | Tergantung cache lokal; bekerja jika ponsel telah menyimpan file | Dapat dipulihkan di ponsel pengganti dengan login |
-| **Email** | Memerlukan koneksi internet | Tidak dapat diandalkan, Anda mungkin tidak memiliki sinyal atau data | Masih dapat diakses tetapi memakan waktu untuk dicari |
-| **Salinan fisik (kartu terlaminasi atau cetakan)** | Ya, selalu dapat diakses | Tercepat jika ponsel Anda mati atau hilang | Hilang jika paspor hilang; simpan di saku terpisah |
-| **Aplikasi terenkripsi (misal Travel Document Vault)** | Ya, disimpan secara lokal di ponsel | Akses instan, dirancang untuk skenario ini | Terenkripsi dan pribadi; cadangan cloud opsional |
+| **Ponsel (unduhan offline)** | Bisa dibuka offline setelah diunduh ke perangkat | Coba buka sebelum bepergian | Hilang dengan ponsel kecuali dicadangkan |
+| **Drive cloud dengan akses offline** | Ya, jika sudah disimpan untuk akses offline | Simpan untuk akses offline; coba buka sebelum bepergian | Memerlukan internet dan verifikasi akun |
+| **Email** | Bisa offline jika didukung dan pesan serta lampiran sudah disimpan | Perlu koneksi kecuali pesan dan lampiran sudah disimpan offline | Memerlukan akses ke akun email |
+| **Salinan fisik (kartu terlaminasi atau cetakan)** | Ya, jika salinannya Anda bawa | Berguna saat ponsel tidak bisa digunakan | Simpan terpisah dari paspor dan ponsel |
+| **Aplikasi terenkripsi (misal Travel Document Vault)** | Ya, disimpan secara lokal di ponsel | Coba akses sebelum bepergian | Terenkripsi dan pribadi; cadangan cloud opsional |
 
 ## Kesalahan Klaim Umum dan Cara Menghindarinya
 
-Bahkan jika Anda memiliki dokumen yang dapat diakses, Anda masih bisa kehilangan klaim jika Anda menangani proses dengan tidak benar. Alasan penolakan yang paling umum adalah:
+Selain menyimpan dokumen, luangkan waktu sebelum berangkat untuk membaca petunjuk klaim untuk masing-masing situasi berikut:
 
 ### Klaim Medis: Anda Tidak Mendapatkan Pra-persetujuan
 
-Banyak polis asuransi perjalanan meminta Anda menghubungi perusahaan asuransi sebelum perawatan, jadi periksa isi polis Anda. Ini biasanya berarti menelepon perusahaan asuransi Anda dan mendapatkan persetujuan sebelum Anda mengunjungi rumah sakit atau klinik. Persyaratan bervariasi menurut perusahaan asuransi dan jenis polis, periksa bagian perawatan medis polis spesifik Anda. Jika Anda lewati langkah ini dan membayar dari saku sendiri, sebagian perusahaan asuransi dapat mengurangi atau menolak klaim, bahkan jika perawatan diperlukan dan ditanggung.
+Polis Anda mengatur kapan Anda perlu menghubungi perusahaan asuransi dan mendapat persetujuan untuk perawatan medis. Baca aturan itu sebelum berangkat. Tidak memperoleh persetujuan yang diwajibkan dapat memengaruhi klaim. Dalam keadaan darurat medis, hubungi layanan darurat setempat terlebih dahulu, lalu perusahaan asuransi sesegera mungkin.
 
-Katakanlah Anda dirawat dengan radang usus buntu di Mumbai. Rumah sakit memerlukan pembayaran di muka atau jaminan dari perusahaan asuransi Anda, dan Anda memiliki jendela dua jam sebelum operasi. Tanpa nomor pra-persetujuan perusahaan asuransi Anda, rumah sakit meminta uang tunai. Itu menyisakan dua pilihan buruk: bayar sekarang dan menanggung risiko klaim ditolak berbulan-bulan kemudian, atau menunda operasi sambil mengejar perusahaan asuransi. Satu panggilan menghindari semuanya. Dengan nomor konfirmasi di tangan, rumah sakit menagih perusahaan asuransi Anda langsung.
+Meski sudah mendapat nomor persetujuan, Anda mungkin tetap perlu membayar di muka alih-alih rumah sakit menagih langsung ke perusahaan asuransi. Tanyakan bagaimana pembayaran akan ditangani, lalu simpan laporan medis, faktur, dan kuitansi.
 
-Tindakan: Sebelum perawatan apa pun, hubungi lini darurat di polis Anda dan berikan detail rumah sakit atau klinik. Mereka akan memberi tahu Anda apakah itu ditanggung dan memberikan pra-persetujuan, atau memberi tahu Anda dengan fasilitas mana mereka bekerja sama di negara itu. Ini hanya sepuluh menit di telepon, dibandingkan dengan tagihan rumah sakit yang mungkin harus Anda tanggung sendiri.
+Simpan nomor bantuan darurat perusahaan asuransi sebelum berangkat. Saat menelepon, berikan rincian rumah sakit atau klinik dan tanyakan persetujuan serta dokumen apa yang diperlukan. Jika Anda tidak bisa menelepon, minta teman seperjalanan menghubungi perusahaan asuransi atas nama Anda.
 
-### Klaim Bagasi: Anda Tidak Memiliki Laporan Polisi
+### Klaim Bagasi: Persyaratan Pelaporan yang Terlewat
 
-Jika tas Anda dicuri, hilang, atau rusak, banyak polis meminta laporan polisi dari bandara atau kantor polisi setempat. Perusahaan asuransi menggunakan ini sebagai bukti. Periksa bagian "Cara Mengajukan Klaim" polis Anda untuk persyaratan yang tepat, karena ini bervariasi menurut perusahaan asuransi. Jika Anda melewati pelaporan ke polisi dan hanya mengajukan ke bandara, sebagian perusahaan asuransi dapat menolak klaim karena tidak ada laporan kejahatan resmi. Untuk pencurian atau kehilangan (bukan kerusakan sederhana), banyak polis meminta laporan polisi, jadi periksa polis Anda.
+Baca petunjuk pelaporan dalam polis untuk pencurian, kehilangan, dan kerusakan secara terpisah. Laporan polisi dan laporan bagasi maskapai belum tentu bisa saling menggantikan. Tanyakan laporan dan dokumen pendukung apa yang diperlukan, siapa yang harus menerbitkannya, serta tenggat yang berlaku.
 
 Tindakan: Jika tas Anda hilang, laporkan ke meja barang hilang bandara. Jika pencurian, ajukan laporan polisi pada hari yang sama, dan dapatkan salinan untuk dikirim dengan klaim Anda.
 
@@ -112,23 +112,23 @@ Simpan setiap kwitansi, baik yang asli fisik maupun salinan digitalnya. Fotokan 
 
 ### Klaim Pembatalan: Anda Tidak Membaca Cetakan Kecil
 
-Asuransi perjalanan mencakup pembatalan perjalanan hanya jika Anda membatalkan karena alasan khusus yang ditanggung, yang bervariasi menurut perusahaan asuransi. Itu biasanya berarti penyakit, cedera, atau kematian anggota keluarga, tetapi periksa daftar di polis Anda. Jarang berarti rasa takut, perubahan pikiran, atau cuaca buruk, kecuali cuaca melumpuhkan transportasi Anda. Jika Anda membatalkan karena harga penerbangan turun, sebagian besar polis tidak akan menutup Anda. Seberapa murah hati perusahaan asuransi Anda tentang ini bervariasi banyak, jadi layak membaca bagian "pembatalan perjalanan" dengan cermat sebelum berasumsi Anda ditanggung.
+Jika polis Anda mencakup pembatalan perjalanan, baca alasan yang ditanggung, pengecualian, dan persyaratan buktinya sebelum mengandalkan perlindungan tersebut. Apakah sakit, berubah pikiran, atau cuaca buruk memenuhi syarat bergantung pada ketentuan polis. Sebelum membatalkan, tanyakan kepada perusahaan asuransi bagaimana ketentuan itu berlaku untuk situasi Anda.
 
 Tindakan: Sebelum membatalkan, periksa detail cakupan polis Anda. Jika Anda berpikir alasan Anda memenuhi syarat, hubungi perusahaan asuransi Anda sebelum membatalkan penerbangan. Dapatkan konfirmasi tertulis dari mereka tentang cakupan sebelum melanjutkan.
 
 ## Cara Membaca Polis dan Menemukan Apa yang Penting
 
-Polis asuransi perjalanan bisa berjumlah puluhan halaman tergantung perusahaan asuransi dan jenis polis Anda. Anda tidak perlu membaca segalanya. Setiap polis harus memuat bagian di bawah, meskipun letaknya bervariasi menurut perusahaan asuransi.
+Topik di bawah ini bisa menjadi titik awal. Judul bagian bisa berbeda, dan rinciannya mungkin ada di lembar rincian atau ketentuan tambahan yang terpisah. Baca seluruh ketentuan sebelum mengandalkan pertanggungan Anda. Tanyakan kepada perusahaan asuransi tentang hal yang tidak Anda temukan, termasuk tenggat klaim dan jam layanan bantuan.
 
 | Bagian | Apa yang Diberitahukannya | Mengapa Penting |
 |---|---|---|
 | **Ringkasan Cakupan atau Jadwal** | Batas pembayaran untuk medis, bagasi, pembatalan, dan sisanya | Ketahui jumlah klaim maksimal Anda untuk setiap jenis kerugian |
-| **Pengecualian** | Apa yang tidak ditanggung (kondisi yang sudah ada sebelumnya, olahraga berisiko tinggi, dll.) | Hindari mengajukan klaim yang pasti ditolak |
+| **Pengecualian** | Apa yang tidak ditanggung (kondisi yang sudah ada sebelumnya, olahraga berisiko tinggi, dll.) | Baca pengecualian; tanyakan jika ragu |
 | **Kondisi Medis** | Batasan apa pun pada cakupan masalah kesehatan | Periksa apakah kondisi Anda ditanggung |
-| **Cara Mengajukan Klaim** | Proses, garis waktu, dokumen yang diperlukan, detail kontak | Tahu persis apa yang harus dilakukan saat Anda perlu mengajukan klaim |
-| **Bantuan Darurat** | Cara mendapatkan bantuan 24/7, apa yang disertakan (repatriasi, terjemahan, dll.) | Ketahui siapa yang harus dihubungi dalam krisis dan apa yang akan mereka lakukan |
+| **Cara Mengajukan Klaim** | Langkah pengajuan klaim; pastikan tenggat dan bukti yang diperlukan | Tahu persis apa yang harus dilakukan saat Anda perlu mengajukan klaim |
+| **Bantuan Darurat** | Pastikan jam layanan, jenis bantuan, dan pertanggungan repatriasi | Ketahui siapa yang harus dihubungi dalam krisis dan apa yang akan mereka lakukan |
 
-Gunakan daftar isi untuk menemukan bagian ini tanpa membaca setiap halaman. Sorot batas cakupan dan pengecualian, kemudian ambil tangkapan layar halaman itu untuk referensi cepat.
+Gunakan daftar isi untuk menemukan bagian-bagian ini saat membaca seluruh ketentuan. Tandai batas pertanggungan dan pengecualian, lalu ambil tangkapan layar halaman tersebut agar mudah dirujuk.
 
 ## Sebelum Anda Pergi: Daftar Periksa Persiapan Sederhana
 
@@ -137,12 +137,12 @@ Inilah yang harus dilakukan sebelum penerbangan Anda:
 - Unduh PDF polis asuransi Anda ke ponsel
 - Ambil tangkapan layar halaman sampul polis (dengan nomor polis) dan halaman kontak darurat
 - Simpan keduanya ke folder di ponsel Anda dengan label yang akan Anda kenal sekilas (seperti "Asuransi - perjalanan ini")
-- Tulis atau hafalkan nomor kontak darurat 24 jam Anda
+- Catat nomor bantuan darurat dan cari tahu jam layanannya
 - Baca bagian "Cara Mengajukan Klaim" sehingga Anda tahu prosesnya jika diperlukan
-- Simpan cadangan fisik (salinan cetak atau catatan tertulis tangan dengan nomor polis dan lini darurat)
-- Simpan salinan ke drive cloud (OneDrive, Google Drive, iCloud) dengan akses offline diaktifkan
+- Bawa salinan cetak polis dan simpan terpisah dari paspor serta ponsel
+- Simpan cadangan di cloud, coba akses offline, dan siapkan cara verifikasi akun yang tidak bergantung pada ponsel Anda
 
-Dua puluh menit sekarang, dan Anda tidak akan mencari apa pun saat krisis terjadi.
+Sebelum berkemas, coba temukan setiap salinan. Matikan lagi WiFi dan data seluler, lalu buka file yang tersimpan untuk memastikan semuanya tersedia offline.
 
 **Sebelum Anda mengandalkan ini:** ini blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 
@@ -154,23 +154,23 @@ Sumber resmi
 
 ### Apakah saya perlu membawa polis asuransi fisik saat bepergian?
 
-Tidak, Anda tidak perlu membawa dokumen fisik dalam bentuk kertas. Salinan digital di ponsel Anda atau foto sudah cukup. Perusahaan asuransi dan rumah sakit umumnya meminta nomor polis Anda, dan salinan digital biasanya membantu. Namun, salinan cadangan fisik (fotokopi atau cetak) bijaksana jika ponsel Anda mati. Bahkan lebih sederhana: tulis nomor polis dan nomor darurat Anda di kartu dengan paspor Anda.
+Salinan di ponsel saja mungkin belum memenuhi persyaratan dokumen yang berlaku di tujuan Anda atau yang ditetapkan perusahaan asuransi dan penyedia layanan medis. Cari tahu apa yang mereka perlukan sebelum berangkat. Simpan rincian polis agar bisa diakses offline, dengan cadangan kertas yang terpisah dari paspor dan ponsel. Siapkan juga nomor polis dan nomor bantuan darurat agar mudah ditemukan.
 
 ### Apa yang harus saya lakukan jika tidak bisa menghubungi lini darurat perusahaan asuransi saya di luar negeri?
 
-Periksa polis Anda untuk mencari nomor yang bisa dihubungi dari luar negeri, karena nomor bebas pulsa sering kali tidak bisa. Banyak polis mencantumkan nomor alternatif untuk panggilan dari luar negara asal perusahaan asuransi. Jika tidak bisa menghubungi mereka, lanjutkan dengan perawatan dan simpan setiap kwitansi dan dokumen. Hubungi mereka sesegera mungkin, dan periksa polis Anda untuk batas waktu klaim. Ketahuilah bahwa melanjutkan tanpa pra-persetujuan dapat mengurangi atau membatalkan klaim Anda, jadi selalu coba hubungi mereka terlebih dahulu.
+Dalam keadaan darurat medis, hubungi layanan darurat setempat terlebih dahulu. Cari nomor dalam polis yang bisa dihubungi dari luar negeri, lalu minta teman seperjalanan membantu menghubungi perusahaan asuransi. Simpan kuitansi dan laporan medis, hubungi perusahaan asuransi sesegera mungkin, dan cari tahu tenggat klaimnya. Untuk perawatan yang bukan darurat, baca persyaratan persetujuan dalam polis sebelum melanjutkan; tidak memperoleh persetujuan yang diwajibkan dapat memengaruhi hasil klaim.
 
 ### Apa yang harus saya lakukan jika saya kehilangan polis asuransi saat bepergian?
 
-Jika Anda memiliki nomor polis dan dapat menghubungi lini darurat perusahaan asuransi Anda, itulah semua yang Anda butuhkan. Berikan nomor polis dan detail pribadi Anda melalui telepon dan mereka akan mengonfirmasi cakupan Anda. Jika Anda telah menyimpan cadangan (foto digital, salinan cloud, atau catatan tertulis), gunakan itu. Perusahaan asuransi umumnya dapat mengonfirmasi cakupan Anda dari nomor polis dan mengirim ulang dokumennya.
+Nomor polis dan nomor bantuan darurat berguna sebagai titik awal. Gunakan cadangan yang sudah Anda simpan, lalu minta perusahaan asuransi mengonfirmasi pertanggungan Anda dan menjelaskan cara mendapatkan dokumen pengganti. Tanyakan identitas dan bukti apa yang diperlukan untuk bantuan atau klaim, karena nomor polis saja mungkin belum cukup.
 
 ### Bagian apa dari polis asuransi perjalanan yang benar-benar perlu saya baca?
 
-Fokus pada: ringkasan cakupan atau jadwal (batas pembayaran Anda), pengecualian (apa yang tidak ditanggung), pembatasan kondisi medis, cara mengajukan klaim (proses dan batas waktu), dan bantuan darurat (kontak 24/7 dan apa yang disertakan). Gunakan daftar isi untuk menemukan bagian ini tanpa membaca setiap halaman. Sorot batas cakupan dan pengecualian, lalu ambil tangkapan layar halaman itu untuk referensi cepat.
+Mulailah dari manfaat, batas pertanggungan, bagian biaya yang harus Anda tanggung sendiri, pengecualian, kondisi medis, dan petunjuk klaim. Gunakan daftar isi untuk menemukannya. Judul bagian dan susunan dokumen bisa berbeda. Anda juga perlu mengetahui tenggat klaim, nomor bantuan darurat, jam layanannya, dan layanan yang termasuk dalam polis. Baca seluruh ketentuan dan tanyakan kepada perusahaan asuransi jika ada yang belum jelas.
 
 ### Apakah asuransi perjalanan bekerja di setiap negara tempat saya bepergian?
 
-Asuransi perjalanan melindungi Anda di sebagian besar negara di seluruh dunia selama perjalanan, tetapi beberapa polis mengecualikan tujuan, wilayah, atau aktivitas tertentu. Periksa bagian cakupan geografis polis Anda untuk pengecualian apa pun. Cakupan berbeda-beda di setiap polis, jadi periksa bagian cakupan geografis untuk melihat tujuan yang dikecualikan. Aktivitas berisiko tinggi (panjat tebing, olahraga profesional) mungkin memiliki pengecualian terpisah.
+Pertanggungan tidak otomatis berlaku di seluruh dunia. Tanyakan kepada perusahaan asuransi apakah polis Anda mencakup setiap negara dalam rencana perjalanan, termasuk tempat transit, tanggal perjalanan, dan aktivitas yang direncanakan. Aktivitas berisiko tinggi, seperti mendaki gunung dan olahraga profesional, mungkin memiliki pengecualian tersendiri.
 
 ## Artikel Terkait
 

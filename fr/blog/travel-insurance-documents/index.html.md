@@ -10,69 +10,69 @@ Source: https://traveldocumentvault.com/fr/blog/travel-insurance-documents/
 
 ## Points clés à retenir
 
-- **Conservez votre document de police complet, le numéro de police et la ligne d'urgence 24 h/24** (et non le numéro commercial).
-- Stockez les copies hors ligne et d'accès facile — l'e-mail seul ne vous aidera pas si vous êtes bloqué ou à l'hôpital.
-- **De nombreuses polices demandent de contacter l'assureur avant un traitement médical** ; l'ignorer peut réduire ou annuler votre réclamation.
-- Une cause fréquente de réclamations refusées est l'absence de documents : rapport de police pour vol, reçus originaux, formulaires de réclamation signés.
+- **Conservez l'ensemble des documents de votre contrat, votre numéro de police et le numéro d'assistance d'urgence** (et non le numéro commercial).
+- Enregistrez des copies hors ligne, testez leur ouverture et emportez une copie papier séparément de votre passeport et de votre téléphone.
+- **Renseignez-vous sur les situations où votre assureur exige un contact avant les soins** ; en cas d'urgence médicale, faites d'abord appel aux secours, puis contactez l'assureur dès que possible.
+- Conservez les reçus et les rapports, et demandez à votre assureur quels documents fournir pour une demande d'indemnisation.
 - Lisez rapidement les sections clés de votre police en vous concentrant sur les limites de couverture, les exclusions et les conditions.
 
-L'assurance voyage compte le plus au moment où elle est la plus difficile à joindre : un guichet d'hôpital à l'étranger, un commissariat, un comptoir de compagnie aérienne après une annulation. Ce qui importe alors n'est pas le contrat lui-même, mais de savoir si le numéro, la ligne 24 heures de l'assureur et le justificatif de garanties sont à portée de main. Cet article détaille ce qu'il faut enregistrer avant le départ, où le conserver pour qu'il s'ouvre sans connexion, et les erreurs de déclaration qui font le plus souvent capoter un remboursement.
+Nous vous conseillerions d'enregistrer vos documents d'assurance voyage hors ligne et de prévoir une copie papier avant de partir, en regroupant votre numéro de police, votre justificatif de garanties et le numéro d'assistance d'urgence. Nous verrons ici quoi conserver, comment tester l'accès hors ligne et comment lire les consignes de déclaration, notamment pour connaître les horaires du service d'assistance.
 
 ## Ce qui se passe réellement quand vous avez besoin de votre assurance
 
-Il est 2 heures du matin à Bangkok et vous avez une intoxication alimentaire et de la fièvre. La réception de l'hôtel vous recommande une clinique privée, alors vous appelez pour demander les tarifs, mais on vous demande plutôt vos coordonnées d'assurance. Vous farfouillez dans votre téléphone pour trouver le numéro de police. Puis vous vous souvenez : il est dans un e-mail que vous ne pouvez pas ouvrir, car le téléphone n'arrive pas à se connecter au WiFi. Le personnel de la clinique dit qu'il a besoin de ce numéro avant de pouvoir commencer le traitement et obtenir une préautorisation de votre assureur.
+Imaginez-vous dans une clinique à l'étranger, à la recherche de votre numéro de police. Il est dans un e-mail, mais vous n'avez pas enregistré la pièce jointe hors ligne et vous n'avez pas de connexion. Une copie sur votre téléphone et une copie papier vous évitent cette recherche.
 
-Quelques documents manquants ne sont pas simplement gênants ici. Ils décident si le traitement commence immédiatement, si vous payez de votre poche et réclamez plus tard, ou si la réclamation est refusée purement et simplement.
+Les informations de votre contrat constituent un point de départ, sans garantir les soins ni leur prise en charge. Demandez donc à l'assureur et à l'établissement de soins ce dont ils ont besoin, y compris les justificatifs à fournir pour une demande d'indemnisation.
 
-L'assurance voyage ne fonctionne que si vous pouvez y accéder quand vous en avez besoin. La plupart des gens la stockent par e-mail et ne peuvent pas la trouver en cas de crise — généralement lors du stress, de la pression du temps, ou d'une urgence médicale.
+Gardez vos documents à un endroit où vous pourrez les retrouver même sous pression. L'absence d'une copie n'annule pas à elle seule vos garanties, mais vous devrez tout de même contacter l'assureur et réunir les justificatifs qu'il demande.
 
 ## Vous ne trouvez plus votre police d'assurance ? Commencez par celui qui vous l'a vendue
 
 Les documents de votre police d'assurance sont chez celui qui vous l'a vendue, alors commencez par là. Cherchez dans votre boîte de réception le nom de l'assureur, du courtier ou du comparateur par lequel vous avez acheté, avec le mot « police ». Si vous avez créé un compte à l'achat, connectez-vous aussi au site ou à l'application de l'assureur. Vous recherchez trois choses :
 
 - **Les conditions générales :** les termes complets, y compris les exclusions et la procédure de réclamation
-- **Le certificat ou l'avenant :** votre nom, votre numéro de police, vos dates de voyage et votre niveau de couverture
-- **Le numéro d'assistance d'urgence 24 heures sur 24**, celui à appeler depuis un hôpital ou un commissariat à l'étranger
+- **Les conditions particulières ou le certificat :** votre nom, votre numéro de police, vos dates de voyage et votre niveau de couverture
+- **Le numéro d'assistance d'urgence**, avec un numéro joignable depuis l'étranger et ses horaires
 
 Si vous ne vous souvenez même pas avoir acheté une police, vérifiez votre compte bancaire. Le Financial Ombudsman Service décrit un compte bancaire avec forfait comme un compte courant facturant des frais mensuels en échange d'avantages supplémentaires, dont l'assurance voyage. Dans ce cas, la banque est généralement le premier endroit où demander, alors essayez son application, son site ou sa ligne d'assistance.
 
-Une fois que vous les avez, le [Foreign, Commonwealth and Development Office](https://www.gov.uk/guidance/foreign-travel-insurance) britannique conseille d'emporter les détails de votre police avec vous, y compris le numéro de police et le numéro d'assistance d'urgence de votre assureur. Il suggère aussi de les partager avec les personnes avec qui vous voyagez et votre famille restée chez vous. Si vous ne trouvez toujours rien, appelez l'assureur, ou la banque pour une couverture groupée, et demandez-leur de renvoyer les documents avant votre départ plutôt qu'après qu'un problème survienne.
+À titre d’exemple au Royaume-Uni, le [Foreign, Commonwealth and Development Office](https://www.gov.uk/guidance/foreign-travel-insurance) conseille d’emporter les informations de votre contrat, notamment le numéro de police et le numéro d’assistance d’urgence de votre assureur. Il suggère aussi de les partager avec vos compagnons de voyage et votre famille restée chez vous. Si vous ne retrouvez toujours rien, appelez l’assureur, ou la banque si l’assurance est incluse dans votre offre bancaire, et demandez un nouvel envoi des documents avant le départ.
 
 ## Les cinq documents que vous devez conserver avant de partir
 
-Votre police d'assurance voyage est généralement un PDF. Ce seul fichier contient tout ce dont vous avez besoin, mais vous devriez extraire et conserver ces cinq choses séparément pour pouvoir les trouver instantanément :
+Pour les retrouver facilement, regroupez ces cinq éléments avec les conditions générales, vos conditions particulières ou votre certificat d'assurance, ainsi que toute condition complémentaire ou déclaration médicale distincte :
 
 - Document de police complet (le PDF)
 - Numéro de police (extrayez-le — écrivez-le aussi séparément)
-- Ligne d'urgence 24 h/24 (différente du numéro de vente ou de service client)
+- Numéro d'assistance d'urgence, ses horaires et tout numéro prévu pour les appels depuis l'étranger
 - Section de couverture (limites de versement pour médical, bagages, annulation, etc.)
 - Exclusions et conditions clés (y compris les exigences de préautorisation)
 
-Le numéro de police est critique. Ayez-le à portée de main, car l'assureur vous le demandera généralement en premier. Si vous ne pouvez pas le fournir, vous gaspillerez du temps à chercher dans des documents tandis que l'horloge tourne.
+Gardez votre numéro de police à portée de main, avec votre nom et vos dates de voyage. Avant de partir, un appel à l'assureur peut être utile : demandez quels justificatifs d'identité et documents il lui faudra si vous perdez votre contrat.
 
-La ligne d'urgence est différente de la ligne de service client, qui répond généralement pendant les heures de bureau, alors que la ligne d'urgence fonctionne 24 h/24. Conservez les deux, mais sachez lequel appeler au milieu de la nuit quand vous êtes blessé.
+Identifiez clairement les numéros d'assistance d'urgence et du service client, puis renseignez-vous sur leurs horaires et leur accessibilité depuis l'étranger. Ne partez pas du principe que tous les contrats prévoient un service disponible jour et nuit.
 
 ## Où les stocker pour y accéder réellement
 
-L'e-mail n'est pas un système de stockage pour les documents de voyage. Il dépend d'une connexion, et une crise ne vient rarement avec une. Bloqué, blessé, ou assis à l'hôpital, vous n'avez souvent ni WiFi ni données qui fonctionnent. La batterie de votre téléphone pourrait être faible. Vous pourriez être dans un pays où votre forfait de données ne fonctionne pas.
+Un e-mail peut être accessible hors ligne si vous avez enregistré le message et sa pièce jointe à l'avance et si votre application de messagerie le permet. Plutôt que de compter sur une pièce jointe simplement consultée en ligne, essayez d'ouvrir le fichier complet sans connexion.
 
-Stockez plutôt vos documents à trois endroits pour la redondance.
+Pour disposer de solutions de secours, conservez vos documents à trois endroits.
 
 ### Hors ligne sur votre téléphone
 
-Téléchargez le PDF directement sur votre téléphone et enregistrez des captures d'écran des informations critiques (numéro de police, ligne d'urgence). De nombreuses applications de prise de notes axées sur la sécurité ou de stockage de documents vous permettent d'enregistrer des fichiers hors ligne pour y accéder même sans internet. L'application Files native de votre téléphone ou l'application Photos fonctionnent toutes les deux bien.
+Téléchargez le PDF directement sur votre téléphone pour y conserver l'intégralité du contrat. Faites aussi des captures d'écran des informations essentielles, notamment le numéro de police et le numéro d'assistance d'urgence. Nous testerions les deux avant de faire les bagages : coupez le WiFi et les données mobiles, puis ouvrez le document complet et les captures dans les applications choisies.
 
-De nombreux voyageurs prennent également des captures d'écran de la première page de leur police (avec le numéro de police) et de la page des contacts d'urgence, puis gardent ces images dans un dossier dédié. Quand la crise arrive, vous pouvez trouver ce dossier en 5 secondes.
+Nous choisirions un nom comme « Assurance - ce voyage » pour ce dossier, puis nous nous entraînerions à le retrouver avant le départ.
 
 ### Cloud avec accès hors ligne
 
-Pour la sauvegarde, enregistrez vos documents d'assurance dans un lecteur cloud protégé par mot de passe (iCloud, Google Drive, OneDrive), mais téléchargez-les pour la consultation hors ligne. Cela vous donne une sauvegarde si votre téléphone se perd.
+Si vous conservez une sauvegarde dans le cloud, sélectionnez explicitement l'option d'accès hors ligne pour ces fichiers sur votre téléphone, puis testez-les sans connexion. Pour récupérer la copie dans le cloud sur un autre appareil, il vous faudra un accès à internet et un moyen de valider votre connexion au compte sans le téléphone perdu.
 
-### Copie physique avec vos documents de voyage
+### Copie papier séparée de votre téléphone
 
-Stockez une copie physique — ou une photo de bonne qualité des pages critiques — aux côtés de votre passeport, documents de visa et autres documents de voyage. Si votre téléphone meurt, c'est votre plan de secours.
+Emportez une copie papier de vos documents d'assurance, rangée séparément de votre passeport et de votre téléphone : une photo conservée uniquement sur un téléphone inaccessible ne vous sera d'aucune aide. Renseignez-vous sur les documents exigés par votre destination, votre assureur et l'établissement de soins pour savoir si les copies numériques conviennent.
 
-Une carte manuscrite fait le même travail qu'une impression : numéro de police, nom de l'assureur, ligne d'urgence. Glissez-la dans le portefeuille du passeport et elle survivra à une batterie déchargée, un téléphone perdu et un coffre-fort de l'hôtel que vous ne pouvez pas ouvrir.
+Une carte manuscrite indiquant votre numéro de police, le nom de l'assureur et le numéro d'assistance d'urgence constitue un complément pratique. Elle ne remplace toutefois pas les documents que l'on vous demande d'emporter.
 
 ![Deux téléphones identiques côte à côte : celui de gauche affiche la police d'assurance enregistrée sur l'appareil, celui de droite reste gris avec une roue de chargement et aucun signal](https://traveldocumentvault.com/blog/travel-insurance-documents/saved-vs-searching-figure.jpg) Téléchargée et à portée de main, ou encore coincée dans une boîte de réception inaccessible. La différence se voit au pire moment.
 
@@ -80,55 +80,55 @@ Une carte manuscrite fait le même travail qu'une impression : numéro de police
 
 | Lieu de stockage | Accès sans internet | En cas d'urgence | Sauvegarde si téléphone perdu |
 |---|---|---|---|
-| **Téléphone (téléchargement hors ligne)** | Instantané, pas de WiFi requis | Disponible immédiatement - option la plus rapide | Perdu avec le téléphone sauf sauvegarde |
-| **Lecteur cloud avec accès hors ligne** | Oui, si téléchargé auparavant | Dépend du cache local ; fonctionne si le téléphone a le fichier en cache | Récupérable sur un téléphone de remplacement avec connexion |
-| **E-mail** | Demande une connexion internet | Peu fiable - vous n'avez peut-être pas de signal ou de données | Toujours accessible mais long à chercher |
-| **Copie physique (carte laminée ou impression)** | Oui, toujours accessible | Le plus rapide si votre téléphone est mort ou perdu | Perdu si le passeport est perdu ; conserver dans poche distincte |
-| **Application chiffrée (p. ex. Travel Document Vault)** | Oui, stocké localement sur téléphone | Accès instantané, conçu pour ce scénario | Chiffré et privé ; sauvegarde cloud facultative |
+| **Téléphone (téléchargement hors ligne)** | Hors ligne une fois le fichier téléchargé sur le téléphone | Testez l'ouverture avant le départ | Perdu avec le téléphone sauf sauvegarde |
+| **Stockage cloud avec accès hors ligne** | Oui, si le fichier a été enregistré pour un accès hors ligne | Enregistrez hors ligne et testez avant le départ | Nécessite internet et la validation de l'accès au compte |
+| **E-mail** | Hors ligne si l'application le permet et si le message et la pièce jointe ont été enregistrés à l'avance | Nécessite une connexion sauf si enregistré hors ligne | Nécessite l'accès au compte de messagerie |
+| **Copie papier (carte plastifiée ou document imprimé)** | Oui, si vous l'avez avec vous | Utile sans votre téléphone | À garder séparément du passeport et du téléphone |
+| **Application chiffrée (p. ex. Travel Document Vault)** | Oui, stocké localement sur téléphone | Testez l'accès avant le départ | Chiffré et privé ; sauvegarde cloud facultative |
 
 ## Erreurs de réclamation courantes et comment les éviter
 
-Même si vous avez vos documents accessibles, vous pouvez toujours perdre votre réclamation si vous gérez mal le processus. Les raisons de refus les plus courantes sont :
+En plus d'enregistrer vos documents, prenez le temps de lire les consignes de déclaration pour chacune de ces situations avant de partir :
 
 ### Réclamations médicales : vous n'avez pas obtenu de préautorisation
 
-De nombreuses polices d'assurance voyage demandent de contacter l'assureur avant un traitement, alors vérifiez les conditions de votre police. Cela signifie généralement appeler votre assureur et obtenir l'approbation avant de visiter un hôpital ou une clinique. Les exigences varient selon l'assureur et le type de police — vérifiez la section traitement médical de votre police spécifique. Si vous sautez cette étape et payez de votre poche, certains assureurs peuvent réduire ou refuser la réclamation, même si le traitement était nécessaire et couvert.
+Votre contrat précise quand vous devez contacter l'assureur et obtenir son accord pour des soins médicaux. Lisez ces règles avant de partir : l'absence d'une autorisation requise peut avoir une incidence sur l'indemnisation. En cas d'urgence médicale, appelez d'abord les services de secours locaux, puis contactez l'assureur dès que possible.
 
-Disons que vous êtes hospitalisé pour appendicite à Mumbai. L'hôpital exige un paiement d'avance ou une garantie de votre assureur, et vous avez une fenêtre de deux heures avant la chirurgie. Sans le numéro de préautorisation de votre assureur, l'hôpital exige l'argent comptant. Cela vous laisse deux mauvaises options : payer maintenant et risquer une réclamation refusée des mois plus tard, ou retarder la chirurgie pendant que vous poursuivez votre assureur. Un appel évite tout. Avec un numéro de confirmation en main, l'hôpital facture votre assureur directement.
+Même avec un numéro d'autorisation, vous pouvez avoir à avancer les frais au lieu de bénéficier d'une facturation directe à l'assureur par l'hôpital. Demandez comment le paiement sera organisé et conservez les comptes rendus médicaux, les factures et les reçus.
 
-Action : Avant tout traitement, appelez la ligne d'urgence de votre police et donnez-leur les détails de l'hôpital ou de la clinique. Ils vous diront soit que c'est couvert et le préautoriseront, soit vous indiqueront avec quels établissements ils travaillent dans ce pays. C'est dix minutes au téléphone, contre une facture d'hôpital dont vous pourriez autrement être coincé.
+Enregistrez le numéro d'assistance d'urgence de l'assureur avant le départ. Lors de votre appel, donnez les coordonnées de l'hôpital ou de la clinique et demandez quelles autorisations et quels documents sont nécessaires. Si vous ne pouvez pas appeler, demandez à un compagnon de voyage de contacter l'assureur pour vous.
 
-### Réclamations de bagages : vous n'avez pas de rapport de police
+### Bagages : respecter les consignes de signalement
 
-Si votre sac est volé, perdu ou endommagé, de nombreuses polices demandent un rapport de police de l'aéroport ou du poste local. Les assureurs utilisent cela comme preuve. Vérifiez la section « Comment déposer une réclamation » de votre police pour les exigences exactes, car celles-ci varient selon l'assureur. Si vous sautez le signalement à la police et déposez uniquement auprès de l'aéroport, certains assureurs peuvent refuser les réclamations car il n'y a pas de rapport de crime officiel. Pour vol ou perte (non dommages simples), de nombreuses polices demandent un rapport de police, alors vérifiez la vôtre.
+Le vol, la perte et les dommages peuvent relever de consignes de déclaration différentes dans votre contrat. Un rapport de police et un rapport de la compagnie aérienne concernant les bagages ne sont pas nécessairement interchangeables. Demandez quels rapports et justificatifs fournir, qui doit les établir et quels délais respecter.
 
-Action : Si votre sac disparaît, signalez-le au comptoir des objets perdus de l'aéroport. S'il s'agit d'un vol, déposez plainte auprès de la police le même jour et obtenez une copie à envoyer avec votre réclamation.
+En pratique : si votre bagage disparaît, signalez-le au service des objets perdus de l'aéroport. En cas de vol, suivez les consignes de votre contrat pour le signalement à la police et les délais à respecter, puis conservez une copie du rapport pour votre demande d'indemnisation.
 
 ### Toutes les réclamations : vous n'avez pas de reçus ou de preuve
 
-L'assurance rembourse sur la base de ce que vous pouvez prouver. Si vous achetez un téléphone de remplacement après que le vôtre soit endommagé, conservez le reçu. Il en va de même pour un hôtel de dernière minute après une annulation de vol (conservez la confirmation de réservation et le reçu de paiement) ou pour un traitement médical (conservez la facture et l'ordonnance).
+Conservez les justificatifs nécessaires pour étayer votre demande d'indemnisation. Si vous achetez un téléphone de remplacement après que le vôtre soit endommagé, conservez le reçu. Il en va de même pour un hôtel de dernière minute après une annulation de vol (conservez la confirmation de réservation et le reçu de paiement) ou pour un traitement médical (conservez la facture et l'ordonnance).
 
 Conservez tous les reçus, originaux physiques et copies numériques. Prenez une photo des reçus papier en sauvegarde, et assurez-vous que vous pouvez récupérer un reçu par e-mail des mois plus tard.
 
 ### Réclamations d'annulation : vous n'avez pas lu les petits caractères
 
-L'assurance voyage couvre l'annulation de voyage uniquement si vous annulez pour une raison couverte spécifique, qui varie selon l'assureur. Cela signifie généralement maladie, blessure ou décès d'un membre de la famille, mais vérifiez la liste dans votre police. Cela signifie rarement manque de courage, changement d'avis ou mauvais temps, sauf si le mauvais temps immobilise votre transport. Si vous annulez parce que le prix du vol a baissé, la plupart des polices ne vous couvriront pas. La générosité de votre assureur sur ce point varie beaucoup, donc cela vaut la peine de lire la section « annulation de voyage » attentivement avant de supposer que vous êtes couvert.
+Si votre contrat comprend une garantie annulation, lisez les motifs couverts, les exclusions et les justificatifs exigés avant de vous y fier. La prise en charge d'une maladie, d'un changement d'avis ou du mauvais temps dépend des conditions du contrat. Avant d'annuler, demandez à votre assureur comment elles s'appliquent à votre situation.
 
 Action : Avant d'annuler, vérifiez les détails de couverture de votre police. Si vous pensez que votre raison est admissible, appelez votre assureur avant d'annuler votre vol. Obtenez une confirmation écrite de couverture avant de continuer.
 
 ## Comment lire votre police et trouver ce qui compte
 
-Les polices d'assurance voyage peuvent compter des dizaines de pages selon votre assureur et le type de police. Vous n'avez pas besoin de tout lire. Chaque police doit contenir les sections ci-dessous, bien qu'où elles se trouvent varie selon l'assureur.
+Les thèmes ci-dessous vous donnent un point de départ. Les intitulés varient et certaines précisions peuvent figurer dans les conditions particulières ou des avenants distincts. Lisez l'ensemble des conditions avant de vous fier à vos garanties et interrogez l'assureur sur les points que vous ne trouvez pas, notamment les délais de déclaration et les horaires d'assistance.
 
 | Section | Ce qu'elle vous dit | Pourquoi c'est important |
 |---|---|---|
-| **Résumé de couverture ou barème** | Limites de versement pour médical, bagages, annulation et autres | Connaître le montant maximum de réclamation pour chaque type de perte |
-| **Exclusions** | Ce qui n'est pas couvert (conditions préexistantes, sports à haut risque, etc.) | Éviter de déposer des réclamations qui sont définitivement refusées |
-| **Conditions médicales** | Toute restriction de couverture pour les problèmes de santé | Vérifier si vos conditions sont couvertes |
-| **Comment déposer une réclamation** | Processus, délai, documents requis, coordonnées | Savoir exactement quoi faire quand vous avez besoin de réclamer |
-| **Assistance d'urgence** | Comment obtenir de l'aide 24 h/24, ce qui est inclus (rapatriement, traduction, etc.) | Savoir qui appeler en cas de crise et ce qu'ils feront |
+| **Résumé de couverture ou barème** | Plafonds d'indemnisation pour les soins, les bagages, l'annulation et les autres garanties incluses | Connaître le montant maximum de réclamation pour chaque type de perte |
+| **Exclusions** | Ce qui n'est pas couvert (affections préexistantes, sports à haut risque, etc.) | Lisez les exclusions et interrogez l'assureur en cas de doute |
+| **Problèmes de santé** | Toute restriction de couverture pour les problèmes de santé | Savoir si vos problèmes de santé sont couverts |
+| **Comment déposer une réclamation** | Démarches à suivre ; délais et justificatifs à confirmer | Savoir exactement quoi faire quand vous avez besoin de réclamer |
+| **Assistance d'urgence** | Horaires, services et garantie rapatriement à confirmer | Savoir qui appeler en cas de crise et ce qu'ils feront |
 
-Utilisez la table des matières pour trouver ces sections sans lire chaque page. Mettez en évidence les limites de couverture et les exclusions, puis prenez une photo de ces pages pour une consultation rapide.
+Utilisez la table des matières pour repérer ces rubriques, puis lisez l'ensemble des conditions. Surlignez les plafonds de garantie et les exclusions, et photographiez ces pages pour les retrouver facilement.
 
 ## Avant de partir : une simple liste de contrôle de préparation
 
@@ -136,13 +136,13 @@ Voici ce qu'il faut faire avant votre vol :
 
 - Téléchargez votre PDF de police d'assurance sur votre téléphone
 - Prenez une capture d'écran de la couverture de la police (avec le numéro de police) et de la page des contacts d'urgence
-- Enregistrez les deux dans un dossier de votre téléphone avec un label que vous reconnaîtrez en un coup d'œil (quelque chose comme « Assurance - ce voyage »)
-- Écrivez ou mémorisez votre numéro de contact d'urgence 24 h/24
+- Enregistrez les deux dans un dossier de votre téléphone avec un nom que vous reconnaîtrez en un coup d'œil (quelque chose comme « Assurance - ce voyage »)
+- Notez le numéro d'assistance d'urgence et renseignez-vous sur ses horaires
 - Lisez la section « Comment déposer une réclamation » pour connaître le processus si nécessaire
-- Stockez une sauvegarde physique (copie imprimée ou note manuscrite avec numéro de police et ligne d'urgence)
-- Enregistrez une copie sur un lecteur cloud (OneDrive, Google Drive, iCloud) avec accès hors ligne activé
+- Emportez une copie imprimée de votre contrat, séparément de votre passeport et de votre téléphone
+- Conservez une sauvegarde dans le cloud, testez l'accès hors ligne et prévoyez un moyen de valider l'accès au compte sans votre téléphone
 
-Vingt minutes maintenant, et vous ne chercherez rien en cas de crise.
+Avant de faire vos bagages, essayez de retrouver chaque copie. Coupez à nouveau le WiFi et les données mobiles, puis ouvrez les fichiers enregistrés pour vous assurer qu'ils sont disponibles hors ligne.
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
@@ -154,23 +154,23 @@ Sources officielles
 
 ### Dois-je apporter ma police d'assurance physique en voyage ?
 
-Non, vous n'avez pas besoin du document physique sous forme de papier. Une copie numérique sur votre téléphone ou une photo suffit. Les assureurs et les hôpitaux demandent généralement votre numéro de police, et une copie numérique aide habituellement. Cependant, une sauvegarde physique (photocopie ou impression) est judicieuse en cas de décharge de votre téléphone. Le plus simple : écrivez votre numéro de police et la ligne d'urgence sur une carte avec votre passeport.
+Une copie sur téléphone peut ne pas répondre aux exigences de votre destination, de votre assureur ou de l'établissement de soins. Renseignez-vous avant le départ sur les documents nécessaires. Gardez les informations de votre contrat accessibles hors ligne et une copie papier séparément de votre passeport et de votre téléphone. Conservez aussi votre numéro de police et le numéro d'assistance d'urgence à portée de main.
 
 ### Que faire si je ne peux pas joindre la ligne d'urgence de mon assureur à l'étranger ?
 
-Vérifiez dans votre police un numéro qui fonctionne depuis l'étranger, car les numéros gratuits n'y fonctionnent souvent pas. De nombreuses polices indiquent un numéro alternatif pour les appels depuis l'extérieur du pays de l'assureur. Si vous ne pouvez pas les joindre, continuez votre traitement et conservez chaque reçu et document. Appelez dès que vous le pouvez, et vérifiez dans votre police le délai de réclamation. Sachez qu'un traitement sans préautorisation peut réduire ou annuler votre réclamation, essayez donc toujours de les joindre en premier.
+En cas d'urgence médicale, appelez d'abord les services de secours locaux. Cherchez dans votre contrat un numéro joignable depuis l'étranger et demandez à un compagnon de voyage de vous aider à contacter l'assureur. Conservez les reçus et les comptes rendus médicaux, contactez l'assureur dès que possible et renseignez-vous sur le délai de déclaration. Pour des soins non urgents, lisez les conditions d'autorisation du contrat avant de les entreprendre : l'absence d'un accord requis peut avoir une incidence sur l'indemnisation.
 
 ### Que faire si je perds ma police d'assurance en voyageant ?
 
-Si vous avez votre numéro de police et pouvez appeler la ligne d'urgence de votre assureur, c'est tout ce qu'il vous faut. Donnez votre numéro de police et vos données personnelles par téléphone et ils confirmeront votre couverture. Si vous avez conservé des sauvegardes (photos numériques, copies dans le cloud ou notes écrites), utilisez-les. Les assureurs peuvent généralement confirmer votre couverture à partir de votre numéro de police et vous renvoyer les documents.
+Votre numéro de police et le numéro d'assistance d'urgence constituent un bon point de départ. Utilisez les copies de secours que vous avez conservées, puis demandez à votre assureur de confirmer vos garanties et de vous expliquer comment obtenir de nouveaux exemplaires des documents. Demandez quels justificatifs d'identité et autres pièces fournir pour une assistance ou une demande d'indemnisation : le numéro de police seul peut ne pas suffire.
 
 ### Quelles sections de ma police d'assurance voyage dois-je vraiment lire ?
 
-Concentrez-vous sur : le résumé de couverture ou le barème (vos limites de versement), les exclusions (ce qui n'est pas couvert), les restrictions liées aux conditions médicales, la marche à suivre pour une réclamation (processus et délai), et l'assistance d'urgence (contact 24 h/24 et ce qui est inclus). Utilisez la table des matières pour trouver ces sections sans lire chaque page. Mettez en évidence les limites de couverture et les exclusions, puis prenez une photo de ces pages pour une consultation rapide.
+Commencez par les garanties, les plafonds, les franchises, les exclusions, les dispositions concernant les problèmes de santé et les consignes de déclaration, en vous aidant de la table des matières. Les intitulés et la présentation des documents varient. Il vous faut aussi connaître les délais de déclaration, le numéro d'assistance d'urgence, ses horaires et les services inclus. Lisez l'ensemble des conditions et interrogez votre assureur sur les points peu clairs.
 
 ### L'assurance voyage fonctionne-t-elle dans tous les pays que je visite ?
 
-L'assurance voyage vous protège dans la plupart des pays du monde pendant votre voyage, mais certaines polices excluent certaines destinations, régions ou activités. Vérifiez la section géographique de votre police pour les exclusions. La couverture varie selon la police, alors vérifiez la section sur la couverture géographique pour connaître les destinations exclues. Les activités à haut risque (alpinisme, sports professionnels) peuvent avoir des exclusions distinctes.
+La couverture n'est pas automatiquement mondiale. Demandez à votre assureur si votre contrat couvre chaque pays de votre itinéraire, y compris les escales, ainsi que vos dates de voyage et les activités prévues. Les activités à haut risque, comme l'alpinisme ou les sports professionnels, peuvent faire l'objet d'exclusions spécifiques.
 
 ## Articles connexes
 

@@ -10,21 +10,21 @@ Source: https://traveldocumentvault.com/da/blog/travel-insurance-documents/
 
 ## Vigtigste punkter
 
-- **Gem din fulde forsikringspolice, policenummer og 24-timers nødtelefonnummer** (ikke salgsnummeret).
-- Opbevar kopier offline og tilgængeligt – kun email nytter ikke, når du sidder strandet eller på hospitalet.
-- **Mange policer beder dig kontakte forsikringsselskabet før lægelig behandling** – hvis du springer det over, kan det reducere eller annullere dit krav.
-- En almindelig grund til, at skadesanmeldelser afvises, er manglende dokumentation: politirapport for tyveri, originalkvitteringer, underskrevne skadeskemaer.
+- **Gem alle dine forsikringsdokumenter, policenummeret og nummeret til akut assistance** (ikke salgsnummeret).
+- Gem kopier offline, afprøv, at de kan åbnes, og hav en papirkopi adskilt fra både pas og telefon.
+- **Undersøg, hvornår dit forsikringsselskab kræver kontakt før behandling** – få akut lægehjælp først, og kontakt selskabet hurtigst muligt.
+- Gem kvitteringer og rapporter, og spørg dit forsikringsselskab, hvilke dokumenter det kræver ved en skadesanmeldelse.
 - Læs nøgledele af din police hurtigt ved at fokusere på dækningsgrænser, udelukkelser og vilkår.
 
-Rejseforsikringen betyder mest i det øjeblik, den er sværest at nå: en hospitalsskranke i udlandet, en politistation, en skranke i lufthavnen efter en aflysning. Det, der tæller da, er ikke policen i sig selv, men om nummeret, selskabets døgnlinje og dokumentationen for dækningen er inden for rækkevidde. Denne artikel gennemgår, hvad der bør gemmes før afrejsen, hvor det skal ligge for at kunne åbnes uden internet, og hvilke anmeldelsesfejl der oftest sænker en udbetaling.
+Vi ville gemme rejseforsikringsdokumenterne offline og pakke en papirkopi før afrejsen, med policenummer, dokumentation for dækning og nummeret til akut assistance samlet. Her gennemgår vi, hvad du bør gemme, hvordan du afprøver adgang uden internet, og hvad du skal læse om skadesanmeldelser, herunder alarmcentralens åbningstider.
 
 ## Hvad der reelt sker, når du har brug for din forsikring
 
-Det er klokken 2 om natten i Bangkok, og du har dårlig mave og feber. Hotelreceptionisten anbefaler en privat klinik, så du ringer for at spørge om priser, men de spørger i stedet om dine forsikringsoplysninger. Du gennemsøger din telefon i panik efter policenummeret. Så husker du det: det ligger i en mail, du ikke kan åbne, fordi telefonen ikke kan oprette forbindelse til WiFi. Klinikpersonalet siger, at de skal have det tal, før de kan starte behandlingen og få forhåndsgodkendelse fra dit forsikringsselskab.
+Forestil dig, at du står på en klinik i udlandet og leder efter dit policenummer. Det ligger i en mail, men du har ikke gemt den vedhæftede fil offline, og der er ingen forbindelse. En lokalt gemt kopi og en papirkopi sparer dig for at lede.
 
-Et par manglende dokumenter er ikke bare ubelejligt her. De afgør, om behandlingen starter øjeblikkeligt, om du betaler kontant og kræver det tilbage senere, eller om skadesanmeldelsen afvises helt.
+Dine policeoplysninger er et udgangspunkt, men ingen garanti for behandling eller betaling. Spørg derfor forsikringsselskabet og behandlingsstedet, hvad de skal bruge, herunder dokumentation til en skadesanmeldelse.
 
-Rejseforsikring virker kun, hvis du kan få adgang til den, når du har brug for det. De fleste mennesker opbevarer det i email og kan ikke finde det, når krisen rammer – normalt under stress, tidspres eller en medicinsk nødsituation.
+Opbevar dine dokumenter et sted, hvor du kan finde dem under pres. En manglende kopi ophæver ikke i sig selv din dækning, men du skal stadig kontakte forsikringsselskabet og samle den dokumentation, det beder om.
 
 ## Kan du ikke finde dine forsikringsdokumenter? Start hos den, der solgte dig forsikringen
 
@@ -32,77 +32,77 @@ Dine forsikringsdokumenter ligger hos den, der solgte dig forsikringen, så star
 
 - **Policevilkårene:** de fulde betingelser, inklusive undtagelser og hvordan du anmelder en skade
 - **Oversigten eller certifikatet:** dit navn, policenummer, rejsedatoer og dækningsniveau
-- **Nummeret til akut hjælp døgnet rundt**, det du ringer til fra et hospital eller en politistation i udlandet
+- **Nummeret til akut assistance**, herunder et nummer, der virker fra udlandet, og dets åbningstider
 
 Kan du ikke huske overhovedet at have købt en police, så tjek din bankkonto. Det britiske finansombudsmandsinstitut (Financial Ombudsman Service) beskriver en pakkebankkonto som en almindelig konto, der opkræver et månedligt gebyr mod ekstra fordele, heriblandt rejseforsikring. I så fald er banken som regel det første sted at spørge, så prøv dens app, hjemmeside eller kundeservice.
 
-Når du har dem, råder [det britiske udenrigsministerium (Foreign, Commonwealth and Development Office)](https://www.gov.uk/guidance/foreign-travel-insurance) dig til at tage policeoplysningerne med dig, inklusive policenummeret og forsikringsselskabets akutnummer. Det foreslår også, at du deler dem med dem, du rejser med, og familien hjemme. Finder du stadig ingenting, så ring til forsikringsselskabet, eller banken ved pakkeforsikring, og bed dem sende dokumenterne igen, før du flyver, i stedet for efter noget er gået skævt.
+Et eksempel fra Storbritannien: [det britiske udenrigsministerium (Foreign, Commonwealth and Development Office)](https://www.gov.uk/guidance/foreign-travel-insurance) anbefaler at tage policeoplysningerne med, inklusive policenummeret og forsikringsselskabets nummer til akut assistance. Det foreslår også at dele dem med rejsefæller og familien derhjemme. Finder du stadig ingenting, så ring til forsikringsselskabet, eller banken ved forsikring gennem en bankkonto, og bed dem sende dokumenterne igen før afrejsen.
 
 ## De fem dokumenter, du skal gemme før du flyver
 
-Din rejseforsikringspolice er typisk en PDF. Den ene fil indeholder alt, hvad du har brug for, men du bør trække disse fem ting ud og gemme dem hver for sig, så du kan finde dem øjeblikkeligt:
+Saml disse fem ting, så de er nemme at finde, og gem de fulde forsikringsvilkår sammen med policeoversigten eller forsikringsbeviset samt eventuelle særvilkår og helbredserklæringer:
 
 - Fulde forsikringspolicedokument (PDF'en)
 - Policenummer (udpeg det – skriv det ned særskilt også)
-- 24-timers nødtelefonnummer (forskelligt fra salgs- eller kundeservicenummeret)
+- Nummeret til akut assistance, dets åbningstider og eventuelle numre til opkald fra udlandet
 - Hvad er dækket-sektion (dækningsgrænser for medicinsk, bagage, aflysning osv.)
 - Vigtige udelukkelser og vilkår (inkluderet forhåndsgodkendelseskrav)
 
-Policenummeret er kritisk. Hav policenummeret klar, da forsikringsselskabet som regel spørger efter det først. Hvis du ikke kan give det, spilder du tid på at lede gennem dokumenter, mens klokken tikker.
+Hav dit policenummer ved hånden sammen med dit navn og dine rejsedatoer. Ring gerne til forsikringsselskabet før afrejsen, og spørg, hvilken legitimation og hvilke dokumenter det kræver, hvis du mister policen.
 
-Nødtelefonnummeret er forskelligt fra kundeservicenummeret, som typisk kun tager opkald i arbejdstiden, mens nødtelefonnummeret kører 24/7. Gem begge numre, men vid hvilket du skal ringe til midt på natten, når du er kommet til skade.
+Mærk numrene til akut assistance og kundeservice tydeligt, og find ud af, hvornår de er åbne, og om de virker fra udlandet. Gå ikke ud fra, at alle policer omfatter hjælp døgnet rundt.
 
 ## Hvor du skal opbevare dem, så du kan få adgang til dem
 
-Email er ikke et opbevaringssystem for rejsedokumenter. Det afhænger af forbindelsen, og en krise kommer sjældent med en. Strandet, skadet eller sidder på hospitalet, har du ofte ingen WiFi og ingen fungerende data. Din telefons batteri kan være lavt. Du kan være i et land, hvor din datapakke ikke virker.
+Mail kan fungere offline, hvis du har gemt både beskeden og den vedhæftede fil på forhånd, og din mailapp understøtter det. Prøv at åbne hele filen uden forbindelse i stedet for at stole på en vedhæftet fil, du kun har set online.
 
-Opbevar i stedet dine dokumenter tre steder for redundans.
+Gem dine dokumenter tre steder, så du har flere kopier at falde tilbage på.
 
 ### Offline på din telefon
 
-Download PDF'en direkte til din telefon, og gem skærmbilleder af vigtige oplysninger (policenummer, nødtelefonnummer). Mange sikkerhedsfokuserede noteringapps eller dokumentopbevaringapps lader dig opbevare filer offline, så de er tilgængelige selv uden internet. Din telefons native Files-app eller Photos-app virker begge fint til dette.
+Download PDF'en direkte til din telefon, så hele policen er gemt lokalt. Gem skærmbilleder af vigtige oplysninger, herunder policenummeret og nummeret til akut assistance. Vi ville afprøve begge dele, før vi pakkede: Slå WiFi og mobildata fra, og åbn hele dokumentet og skærmbillederne i de apps, du vil bruge.
 
-Mange rejsende tager også skærmbilleder af deres policens første side (med policenummeret) og deres nødkontaktside, og holder disse billeder derefter i en dedikeret mappe. Når krisen rammer, kan du finde denne mappe på 5 sekunder.
+Vi ville kalde mappen »Forsikring – denne rejse« og øve os i at finde den før afrejsen.
 
 ### Sky med offline-adgang
 
-Som sikkerhedskopi skal du gemme dine forsikringsdokumenter i en adgangskodebeskyttet sky (iCloud, Google Drive, OneDrive), men download dem også til offline visning. Det giver dig en sikkerhedskopi, hvis din telefon går tabt.
+Når du gemmer en sikkerhedskopi i skyen, skal du markere filerne til offlinebrug på telefonen og afprøve dem uden forbindelse. Skal du hente kopien på en anden enhed, kræver det internet og en måde at bekræfte din identitet på uden den mistede telefon.
 
-### Fysisk kopi sammen med dine rejsedokumenter
+### Papirkopi adskilt fra din telefon
 
-Opbevar en fysisk kopi – eller et højkvalitets-foto af vigtige sider – sammen med dit pas, visumdokumenter og andre rejsedokumenter. Hvis din telefon dør, er dette dit fallback.
+Tag en papirkopi af forsikringsdokumenterne med, og opbevar den adskilt fra både pas og telefon. Et foto, der kun ligger på en telefon, du ikke har adgang til, hjælper ikke. Undersøg, om digitale kopier opfylder dokumentkravene på rejsemålet, hos forsikringsselskabet og på behandlingsstedet.
 
-Et håndskrevet kort gør samme nytte som et udprint: policenummer, forsikringsselskabets navn, nødtelefonnummer. Stik det ind i paslommen, og det overlever et fladt batteri, en mistet telefon og en hotelsafe, du ikke kan åbne.
+Et håndskrevet kort med policenummer, forsikringsselskabets navn og nummeret til akut assistance er et nyttigt supplement, når du hurtigt skal finde oplysningerne. Det erstatter dog ikke dokumenter, du bliver bedt om at medbringe.
 
-![To identiske telefoner side om side: den venstre lyser med forsikringspolicen gemt på enheden, den højre står grå med en loading-spinner og intet signal](https://traveldocumentvault.com/blog/travel-insurance-documents/saved-vs-searching-figure.jpg) Downloadet og lige ved hånden, eller stadig liggende i en indbakke, du ikke kan tilgå. Forskellen viser sig i det værst tænkelige øjeblik.
+![To identiske telefoner side om side: den venstre lyser med forsikringspolicen gemt på enheden, den højre står grå med en loading-spinner og intet signal](https://traveldocumentvault.com/blog/travel-insurance-documents/saved-vs-searching-figure.jpg) Gem både mail og vedhæftet fil offline, eller download dokumentet. Afprøv før afrejsen, at du kan åbne det uden forbindelse.
 
 ### Sammenligning af dokumentopbevaring
 
 | Opbevaringssted | Adgang uden internet | I en nødsituation | Sikkerhedskopi hvis telefon går tabt |
 |---|---|---|---|
-| **Telefon (offline download)** | Øjeblikkeligt, intet WiFi påkrævet | Tilgængeligt med det samme – hurtigeste mulighed | Tabt med telefonen, medmindre der er sikkerhedskopi |
-| **Sky med offline-adgang** | Ja, hvis det er downloadet tidligere | Afhænger af lokal cache; virker hvis telefonen har cachet filen | Kan gendannes på en udskifttet telefon med login |
-| **Email** | Kræver internetforbindelse | Upålidelig – du kan ikke have signal eller data | Stadig tilgængelig, men tidskrævende at søge i |
-| **Fysisk kopi (lamineret kort eller udprint)** | Ja, altid tilgængeligt | Hurtigste hvis din telefon er død eller tabt | Tabt hvis pas går tabt; bevar i anden lomme |
-| **Krypteret app (f.eks. Travel Document Vault)** | Ja, opbevaret lokalt på telefonen | Øjeblikkeligt adgang, designet til dette scenarie | Krypteret og privat; skylagring valgfrit |
+| **Telefon (offline download)** | Offline, når filen er downloadet lokalt | Afprøv, at filen kan åbnes før afrejsen | Tabt med telefonen, medmindre der er sikkerhedskopi |
+| **Sky med offline-adgang** | Ja, hvis det er downloadet tidligere | Gem offline, og afprøv før afrejsen | Kræver internet og bekræftelse af kontoadgang |
+| **Email** | Offline, hvis appen understøtter det, og mail og vedhæftet fil er gemt | Kræver forbindelse, medmindre indholdet er gemt offline | Kræver adgang til mailkontoen |
+| **Fysisk kopi (lamineret kort eller udprint)** | Ja, hvis du har kopien med dig | Nyttig, når du ikke kan bruge telefonen | Opbevar adskilt fra både pas og telefon |
+| **Krypteret app (f.eks. Travel Document Vault)** | Ja, opbevaret lokalt på telefonen | Afprøv adgangen før afrejsen | Krypteret og privat; skylagring valgfrit |
 
 ## Almindelige fejl ved skadesanmeldelser, og hvordan du undgår dem
 
-Selv hvis du har dine dokumenter tilgængelig, kan du stadig miste dit krav, hvis du mishandler processen. De mest almindelige afvisningsårsager er:
+Ud over at gemme dokumenterne ville vi sætte tid af før rejsen til at læse vejledningen om skadesanmeldelse for hver af disse situationer:
 
 ### Medicinske krav: Du har ikke fået forhåndsgodkendelse
 
-Mange rejseforsikringspolicer beder dig kontakte forsikringsselskabet før behandling, så tjek din polices vilkår. Det betyder typisk at ringe til dit forsikringsselskab og få godkendelse før du besøger et hospital eller klinik. Krav varierer efter forsikringsselskab og policetype – tjek din specifikke polices medicinske behandlingssektion. Hvis du springer dette trin over og betaler ud af egen lommebog, kan nogle forsikringsselskaber reducere eller afvise kravet, selv hvis behandlingen var nødvendig og dækket.
+Din police angiver, hvornår du skal kontakte forsikringsselskabet og få godkendt lægebehandling, så læs reglerne før afrejsen. Manglende påkrævet godkendelse kan påvirke en skadesanmeldelse. Ved akut sygdom eller tilskadekomst skal du først kontakte den lokale akuttjeneste og derefter forsikringsselskabet hurtigst muligt.
 
-Forestil dig, at du bliver indlagt med blindtarmsbetændelse i Mumbai. Hospitalet kræver forudbetaling eller en garanti fra dit forsikringsselskab, og du har to timer, før operationen skal i gang. Uden dit forsikringsselskabs forhåndsgodkendelsesnummer kræver hospitalet kontanter. Det efterlader dig med to dårlige muligheder: betal nu og risikér et afvist krav måneder senere, eller udskyd operationen, mens du forsøger at få fat i dit forsikringsselskab. Ét opkald undgår det hele. Med et bekræftelsesnummer i hånden fakturerer hospitalet dit forsikringsselskab direkte.
+Selv med et godkendelsesnummer kan du blive nødt til at betale på forhånd, frem for at hospitalet afregner direkte med forsikringsselskabet. Spørg, hvordan betalingen skal foregå, og gem lægerapporter, fakturaer og kvitteringer.
 
-Handling: Før enhver behandling skal du ringe til nødtelefonnummeret på din police og give dem hospital- eller klinikoplysninger. De vil enten fortælle dig, at det er dækket, og forhåndsgodkende det, eller fortælle dig, hvilke faciliteter de samarbejder med i det pågældende land. Det er ti minutter i telefonen mod en hospitalsregning, du ellers kan risikere at hænge på.
+Gem forsikringsselskabets nummer til akut assistance før afrejsen. Når du ringer, skal du oplyse hospitalets eller klinikkens detaljer og spørge, hvilken godkendelse og dokumentation der kræves. Kan du ikke selv ringe, så bed en rejsefælle kontakte selskabet på dine vegne.
 
-### Bagagekrav: Du har ingen politirapport
+### Bagageskader: Du overså kravene til anmeldelse
 
-Hvis din taske bliver stjålet, mistet eller beskadiget, beder mange policer om en politirapport fra lufthavnen eller lokal station. Forsikringsselskaber bruger dette som bevis. Tjek din polices "Sådan indgiver du krav"-sektion for nøjagtige krav, da disse varierer efter forsikringsselskab. Hvis du springer anmeldelse til politi over og kun indgiver til lufthavnen, kan nogle forsikringsselskaber afvise kravet, fordi der ikke er nogen officiel forbrydelsesrapport. For tyveri eller tab (ikke simpel skade) beder mange policer om en politirapport, så tjek din.
+Læs policens anvisninger for tyveri, bortkomst og beskadigelse hver for sig. En politirapport og en bagagerapport fra flyselskabet kan ikke nødvendigvis erstatte hinanden. Spørg, hvilke rapporter og bilag du skal bruge, hvem der skal udstede dem, og hvilke frister der gælder.
 
-Handling: Hvis din taske forsvinder, så anmeld det til lufthavnens hittegodskontor. Hvis det er tyveri, så indgiv en politianmeldelse samme dag, og få en kopi til at sende med dit krav.
+Hvis din taske forsvinder, så anmeld det til lufthavnens hittegodskontor. Ved tyveri skal du anmelde det til politiet og bede om en kopi til skadesanmeldelsen. Følg policens frister og krav til rapporter.
 
 ### Alle krav: Du har ikke kvitteringer eller bevis
 
@@ -112,21 +112,21 @@ Bevar alle kvitteringer, både fysiske originaler og digitale kopier. Fotografer
 
 ### Aflysningskrav: Du læste ikke det fine print
 
-Rejseforsikring dækker kun afbestilling af rejsen, hvis du aflyser af en specifik dækket grund, som varierer efter forsikringsselskab. Det betyder typisk sygdom, skade eller dødsfald i familien, men tjek din police for listen. Det betyder sjældent kolde fødder, ombestemmelse eller dårligt vejr, medmindre vejret sætter din transport helt i stå. Hvis du aflyser, fordi flypriserne er faldet, dækker de fleste policer dig ikke. Hvor generøst dit forsikringsselskab er omkring dette, varierer en del, så det er værd at læse afsnittet om "afbestilling af rejsen" nøje, før du går ud fra, at du er dækket.
+Hvis din police omfatter afbestillingsdækning, så læs, hvilke årsager der er dækket, hvilke undtagelser der gælder, og hvilken dokumentation der kræves, før du regner med dækningen. Om sygdom, ændrede planer eller dårligt vejr er dækket, afhænger af vilkårene. Spørg derfor forsikringsselskabet, hvordan de gælder i din situation, før du afbestiller.
 
 Handling: Før du aflyser, tjek din polices dækningsdetaljer. Hvis du mener, din grund kvalificerer, ring til dit forsikringsselskab før du aflyser din flyvning. Få skriftlig bekræftelse af dækning fra dem før du fortsætter.
 
 ## Sådan læser du din police og finder hvad der betyder noget
 
-Rejseforsikringspolicer kan løbe op til dusin sider afhængigt af dit forsikringsselskab og policetype. Du skal ikke læse alt. Hver police skal indeholde nedenstående afsnit, selvom hvor de sidder varierer efter forsikringsselskab.
+Emnerne nedenfor er et godt sted at begynde, men overskrifterne varierer, og detaljer kan stå i særskilte policeoversigter eller tillæg. Læs de fulde vilkår, før du regner med dækningen, og spørg selskabet om det, du ikke kan finde, herunder anmeldelsesfrister og alarmcentralens åbningstider.
 
 | Afsnit | Hvad det fortæller dig | Hvorfor det betyder noget |
 |---|---|---|
 | **Dækningsoversigt eller tabel** | Maksimumgrænser for medicin, bagage, aflysning og resten | Kend dit maksimale erstatningsbeløb for hver type tab |
-| **Udelukkelser** | Hvad der ikke er dækket (tidligere tilstande, højrisikoidrætter osv.) | Undgå at indgive krav, der helt sikkert bliver afvist |
+| **Udelukkelser** | Hvad der ikke er dækket (tidligere tilstande, højrisikoidrætter osv.) | Læs undtagelserne, og spørg, hvis du er i tvivl |
 | **Medicinske tilstande** | Eventuelle begrænsninger i dækning for sundhedsproblemer | Tjek om dine tilstande er dækket |
-| **Sådan indgiver du krav** | Proces, tidslinje, påkrævede dokumenter, kontaktoplysninger | Kend præcis hvad du skal gøre, når du har brug for at indgive krav |
-| **Nødhjælp** | Sådan får du hjælp 24/7, hvad der er inkluderet (tilbagepatrulring, oversættelse osv.) | Kend hvem du skal ringe til i en krise og hvad de vil gøre |
+| **Sådan indgiver du krav** | Sådan anmelder du en skade; få frister og dokumentationskrav bekræftet | Kend præcis hvad du skal gøre, når du har brug for at indgive krav |
+| **Nødhjælp** | Få åbningstider, hjælpemuligheder og dækning af hjemtransport bekræftet | Kend hvem du skal ringe til i en krise og hvad de vil gøre |
 
 Brug indholdsfortegnelsen til at finde disse afsnit uden at læse hver side. Fremhæv dækningsgrænserne og udelukkelserne, og tag derefter et skærmbillede af siderne som hurtig reference.
 
@@ -137,12 +137,12 @@ Her er hvad du skal gøre før din flyvning:
 - Download din forsikringspolice PDF til din telefon
 - Tag skærmbillede af policens forside (med policenummer) og nødkontaktside
 - Gem begge til en mappe på din telefon med en label, du genkender med det samme (noget som "Forsikring - denne rejse")
-- Skriv ned eller lær dit 24-timers nødtelefonnummer udenad
+- Skriv nummeret til akut assistance ned, og find ud af, hvornår linjen er åben
 - Læs afsnittet "Sådan indgiver du krav", så du kender processen, hvis det bliver nødvendigt
-- Opbevar en fysisk sikkerhedskopi (udprint eller håndskrevet note med policenummer og nødlinje)
-- Gem en kopi til en skyenhed (OneDrive, Google Drive, iCloud) med offline-adgang aktiveret
+- Medbring en udskrevet kopi af policen adskilt fra både pas og telefon
+- Gem en sikkerhedskopi i skyen, afprøv offlineadgangen, og forbered en måde at bekræfte kontoadgangen på, som ikke afhænger af din telefon
 
-Tyve minutter nu, og du leder ikke efter noget af det i en krise.
+Prøv at finde hver kopi, før du pakker. Slå WiFi og mobildata fra endnu en gang, og åbn de gemte filer for at sikre dig, at de er tilgængelige offline.
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 
@@ -154,23 +154,23 @@ Officielle kilder
 
 ### Skal jeg tage min fysiske forsikringspolice med på rejse?
 
-Nej, du behøver ikke det fysiske dokument på papir. En digital kopi på din telefon eller et foto er tilstrækkeligt. Forsikringsselskaber og hospitaler spørger som regel efter dit policenummer, og en digital kopi hjælper typisk. Alligevel er det klogt at have en fysisk sikkerhedskopi (fotokopi eller udprint), hvis din telefon dør. Endog enklere: skriv dit policenummer og nødtelefonnummer på et kort sammen med dit pas.
+En kopi på telefonen alene opfylder måske ikke dokumentkravene på rejsemålet, hos forsikringsselskabet og på behandlingsstedet. Find derfor ud af, hvad de kræver, før du rejser. Gem dine policeoplysninger, så de er tilgængelige offline, og opbevar en papirkopi adskilt fra både pas og telefon. Hav også policenummeret og nummeret til akut assistance ved hånden.
 
 ### Hvad skal jeg gøre, hvis jeg ikke kan nå mit forsikringsselskabs nødtelefonnummer i udlandet?
 
-Tjek din police for et nummer, der virker fra udlandet, da gratisnumre ofte ikke gør det. Mange policer angiver et alternativt nummer til opkald udenfor forsikringsselskabets hjemland. Hvis du ikke kan nå dem, gennemfør behandlingen og gem hver kvittering og papir. Ring til dem så snart du kan, og tjek din police for fristen for skadesanmeldelse. Vær opmærksom på, at hvis du gennemfører behandlingen uden forhåndsgodkendelse, kan det reducere dit krav eller føre til afvisning, så prøv altid at nå dem først.
+Ved akut sygdom eller tilskadekomst skal du først kontakte den lokale akuttjeneste. Find et nummer i policen, der virker fra udlandet, og bed en rejsefælle hjælpe med at kontakte forsikringsselskabet. Gem kvitteringer og lægerapporter, kontakt selskabet hurtigst muligt, og få oplyst fristen for skadesanmeldelse. Ved behandling, der ikke er akut, skal du læse policens godkendelseskrav, før du går videre. Manglende påkrævet godkendelse kan påvirke udfaldet.
 
 ### Hvad skal jeg gøre, hvis jeg mister min forsikringspolice under rejsen?
 
-Hvis du har dit policenummer og kan ringe til dit forsikringsselskabs nødtelefonnummer, er det alt, hvad du har brug for. Giv dit policenummer og personlige oplysninger via telefon, og de bekræfter din dækning. Hvis du har gemt sikkerhedskopier (digitale fotos, skylagrede kopier eller skriftlige noter), skal du bruge disse. Forsikringsselskaber kan som regel bekræfte din dækning ud fra policenummeret og sende dokumenterne igen.
+Dit policenummer og nummeret til akut assistance er gode udgangspunkter. Brug de sikkerhedskopier, du har gemt, og bed derefter forsikringsselskabet bekræfte din dækning og forklare, hvordan du får nye dokumenter. Spørg, hvilken legitimation og dokumentation det kræver for at yde hjælp eller behandle en skadesanmeldelse. Policenummeret alene er måske ikke nok.
 
 ### Hvilke dele af en rejseforsikringspolice skal jeg egentlig læse?
 
-Fokuser på: dækningsoversigt eller tabel (dine maksimale erstatningsbeløb), udelukkelser (hvad der ikke er dækket), begrænsninger for medicinske tilstande, hvordan du indgiver krav (proces og deadline), og nødhjælp (24/7 kontakt og hvad der er inkluderet). Brug indholdsfortegnelsen til at finde disse afsnit uden at læse hver side. Fremhæv dækningsgrænser og udelukkelser, og tag derefter et skærmbillede af disse sider som hurtig reference.
+Begynd med ydelser, dækningsgrænser, selvrisici, undtagelser, helbredsforhold og vejledningen til skadesanmeldelse. Brug indholdsfortegnelsen til at finde dem. Overskrifter og dokumenternes opbygning varierer. Du skal også kende anmeldelsesfristerne, nummeret til akut assistance, dets åbningstider og de ydelser, der er inkluderet. Læs de fulde vilkår, og spørg forsikringsselskabet, hvis noget er uklart.
 
 ### Virker rejseforsikring i alle lande, som jeg rejser til?
 
-Rejseforsikring beskytter dig i de fleste lande verden over under din rejse, men nogle policer udelukker visse destinationer, regioner eller aktiviteter. Tjek dit policedækningens geografiske område for eventuelle udelukkelser. Dækningen varierer fra police til police, så tjek afsnittet om geografisk dækning for de destinationer, den udelukker. Højrisiko-aktiviteter (bjergbestigning, professionel sport) kan have særskilte udelukkelser.
+Dækningen gælder ikke automatisk i hele verden. Spørg forsikringsselskabet, om policen dækker alle lande på din rejserute, inklusive transitlande, dine rejsedatoer og planlagte aktiviteter. Højrisikoaktiviteter som bjergbestigning og professionel sport kan have særskilte undtagelser.
 
 ## Relaterede artikler
 

@@ -10,21 +10,21 @@ Source: https://traveldocumentvault.com/pt/blog/travel-insurance-documents/
 
 ## Pontos-Chave
 
-- **Guarde o documento da apólice completo, número da apólice e a linha de contacto de emergência 24 horas** (não o número de vendas).
-- Armazene cópias offline e acessivelmente — o email sozinho não ajuda quando está preso ou num hospital.
-- **Muitas apólices pedem que contacte a seguradora antes de receber tratamento médico**; ignorá-la pode reduzir ou anular a reclamação.
-- Uma causa comum de rejeição de pedidos de reembolso é a falta de documentação: relatório policial para roubo, recibos originais, formulários de reclamação assinados.
+- **Guarde os documentos completos da apólice, o número da apólice e o número de assistência de emergência** (não o número de vendas).
+- Guarde cópias offline, teste se abrem e leve uma cópia de segurança em papel, separada do passaporte e do telemóvel.
+- **Saiba em que situações a seguradora exige contacto antes do tratamento**; numa emergência médica, procure primeiro ajuda médica e contacte a seguradora assim que possível.
+- Guarde recibos e relatórios e pergunte à seguradora quais os documentos necessários para um pedido de reembolso.
 - Leia as secções-chave da sua apólice concentrando-se nos limites de cobertura, exclusões e condições.
 
-O seguro de viagem conta mais no momento em que é mais difícil de alcançar: o balcão de um hospital no estrangeiro, uma esquadra, o balcão da companhia aérea após um cancelamento. O que importa então não é a apólice em si, mas se o número, a linha 24 horas da seguradora e o comprovativo de cobertura estão à mão. Este artigo explica o que guardar antes da partida, onde o manter para que abra sem internet e os erros de participação que mais vezes afundam um reembolso.
+Guardaríamos os documentos do seguro de viagem offline e prepararíamos uma cópia de segurança em papel antes de partir, reunindo o número da apólice, o comprovativo de cobertura e o número de assistência de emergência. Aqui explicamos o que guardar, como testar o acesso offline e como ler as instruções para pedir um reembolso, incluindo onde encontrar o horário da linha de assistência.
 
 ## O Que Realmente Acontece Quando Precisa do Seu Seguro
 
-São 2 da manhã em Bangkok e tem intoxicação alimentar e febre. A receção do hotel recomenda uma clínica privada, por isso liga para perguntar sobre custos, mas pedem-lhe os dados do seguro em vez disso. Começa a procurar no telemóvel pelo número da apólice. Depois lembra-se: está num email que não consegue abrir, porque o telemóvel não se liga ao WiFi. O pessoal da clínica diz que precisam desse número antes de poderem começar o tratamento e obter pré-aprovação da sua seguradora.
+Imagine que está numa clínica no estrangeiro, à procura do número da apólice. Está num email, mas não guardou o anexo offline e não tem ligação à internet. Ter uma cópia no telemóvel e outra em papel poupa-lhe essa procura.
 
-Alguns documentos em falta não são apenas inconvenientes aqui. Decidem se o tratamento começa de imediato, se paga do seu bolso e reclama depois, ou se a reclamação é rejeitada completamente.
+Os dados da apólice são um ponto de partida, não uma garantia de tratamento ou de pagamento. Pergunte à seguradora e ao prestador de cuidados de saúde o que precisam, incluindo os comprovativos para um pedido de reembolso.
 
-O seguro de viagem só funciona se conseguir acedê-lo quando precisa. A maioria das pessoas guarda-o em email e não consegue encontrá-lo em crise — normalmente durante stress, pressão de tempo, ou uma emergência médica.
+Guarde os documentos num local onde os consiga encontrar mesmo sob pressão. A falta de uma cópia não anula, por si só, a cobertura, mas continua a precisar de contactar a seguradora e reunir os comprovativos que esta pedir.
 
 ## Não encontra os documentos da sua apólice? Comece por quem lhe vendeu a cobertura
 
@@ -32,47 +32,47 @@ Os documentos da sua apólice estão nas mãos de quem lhe vendeu a cobertura, p
 
 - **As condições da apólice:** os termos completos, incluindo exclusões e como reclamar
 - **O certificado ou aditamento:** o seu nome, número de apólice, datas de viagem e nível de cobertura
-- **O número de assistência de emergência 24 horas**, aquele que liga a partir de um hospital ou esquadra no estrangeiro
+- **O número de assistência de emergência**, incluindo um número que funcione a partir do estrangeiro e o respetivo horário de funcionamento
 
 Se nem se lembra de ter comprado uma apólice, verifique a sua conta bancária. O Financial Ombudsman Service descreve uma conta bancária com pacote como uma conta à ordem que cobra uma taxa mensal em troca de benefícios extra, incluindo seguro de viagem. Nesse caso, o banco é geralmente o primeiro sítio onde deve perguntar, por isso experimente a app, o site ou a linha de apoio.
 
-Depois de os ter, o [Foreign, Commonwealth and Development Office do Reino Unido](https://www.gov.uk/guidance/foreign-travel-insurance) recomenda levar consigo os dados da sua apólice, incluindo o número de apólice e o número de assistência de emergência da sua seguradora. Sugere também partilhá-los com quem viaja consigo e com a família em casa. Se ainda assim não encontrar nada, ligue para a seguradora, ou para o banco no caso de uma conta com pacote, e peça que lhe enviem novamente os documentos antes de voar, não depois de algo correr mal.
+Como exemplo do Reino Unido, o [Foreign, Commonwealth and Development Office do Reino Unido](https://www.gov.uk/guidance/foreign-travel-insurance) recomenda levar consigo os dados da sua apólice, incluindo o número de apólice e o número de assistência de emergência da sua seguradora. Sugere também partilhá-los com quem viaja consigo e com a família em casa. Se ainda assim não encontrar nada, ligue para a seguradora, ou para o banco no caso de uma conta com pacote, e peça que lhe enviem novamente os documentos antes de voar, não depois de algo correr mal.
 
 ## Os Cinco Documentos Que Deve Guardar Antes de Partir
 
-A sua apólice de seguro de viagem é normalmente um PDF. Esse ficheiro único contém tudo o que precisa, mas deve extrair e guardar estas cinco coisas separadamente para conseguir encontrá-las instantaneamente:
+Para consulta rápida, reúna estes cinco elementos e guarde as condições da apólice junto do certificado ou das condições particulares e de quaisquer condições adicionais ou declarações médicas:
 
 - Documento da apólice completo (o PDF)
 - Número da apólice (extraia-o — escreva-o separadamente também)
-- Linha de contacto de emergência 24 horas (diferente do número de vendas ou de atendimento ao cliente)
+- Número de assistência de emergência, horário de funcionamento e eventual número para chamadas do estrangeiro
 - Secção do que está coberto (limites de cobertura para médico, bagagem, cancelamento, etc.)
 - Exclusões e condições principais (incluindo requisitos de pré-aprovação)
 
-O número da apólice é crítico. Tenha o número da apólice à mão, pois a seguradora geralmente pede-o primeiro. Se não conseguir fornecê-lo, perderá tempo a procurar documentos enquanto o tempo passa.
+Tenha o número da apólice à mão, juntamente com o seu nome e as datas da viagem. Antes de partir, vale a pena ligar à seguradora e perguntar que identificação e documentos exige se perder a apólice.
 
-A linha de emergência é diferente da linha de atendimento ao cliente, que normalmente só funciona durante horário comercial, enquanto a linha de emergência funciona 24/7. Guarde ambas, mas saiba qual ligar no meio da noite quando está ferido.
+Identifique claramente os números de assistência de emergência e de apoio ao cliente e informe-se sobre os horários e se funcionam a partir do estrangeiro. Não assuma que todas as apólices incluem assistência a qualquer hora.
 
 ## Onde Guardar Para que Realmente Consiga Aceder
 
-Email não é um sistema de armazenamento para documentos de viagem. Depende de uma conexão, e uma crise raramente vem com uma. Preso, ferido, ou sentado numa sala de espera de hospital, muitas vezes não tem WiFi nem dados que funcionem. A bateria do telemóvel pode estar fraca. Pode estar num país onde o seu plano de dados não funciona.
+O email pode funcionar offline se tiver guardado previamente a mensagem e o anexo e se a aplicação de email o permitir. Em vez de depender de um anexo que apenas abriu online, experimente abrir o ficheiro completo sem ligação à internet.
 
-Em vez disso, guarde os seus documentos em três lugares para redundância.
+Para ter alternativas, guarde os documentos em três locais.
 
 ### Offline no Seu Telemóvel
 
-Descarregue o PDF diretamente para o seu telemóvel e guarde fotografias das informações críticas (número da apólice, linha de emergência). Muitas aplicações de notas focadas em segurança ou armazenamento de documentos permitem guardar ficheiros offline para que fiquem acessíveis mesmo sem internet. A aplicação nativa de Ficheiros ou Fotos do seu telemóvel funcionam bem para isto.
+Descarregue o PDF diretamente para o telemóvel para que a apólice completa fique guardada no dispositivo. Guarde capturas de ecrã das informações essenciais, incluindo o número da apólice e a linha de emergência. Testaríamos ambos antes de fazer as malas, com o WiFi e os dados móveis desligados, abrindo o documento completo e as capturas nas aplicações escolhidas.
 
-Muitos viajantes também tiram fotografias da primeira página da sua apólice (com o número da apólice) e da página de contactos de emergência, depois guardam estas imagens numa pasta dedicada. Quando a crise chega, consegue encontrar essa pasta em 5 segundos.
+Daríamos à pasta o nome «Seguro - esta viagem» e experimentaríamos encontrá-la antes de partir.
 
 ### Cloud com Acesso Offline
 
-Para cópia de segurança, guarde os seus documentos de seguro num disco na cloud protegido por palavra-passe (iCloud, Google Drive, OneDrive), mas descarregue-os para visualização offline. Isto dá-lhe uma cópia de segurança se o seu telemóvel se perder.
+Ao guardar uma cópia de segurança na cloud, marque explicitamente os ficheiros para utilização offline no telemóvel e teste-os sem ligação à internet. Para recuperar a cópia noutro dispositivo, precisa de acesso à internet e de uma forma de verificar ou recuperar a conta sem depender do telemóvel perdido.
 
-### Cópia Física com os Seus Documentos de Viagem
+### Cópia de segurança em papel, separada do telemóvel
 
-Guarde uma cópia física — ou uma fotografia de alta qualidade das páginas críticas — junto do seu passaporte, documentos de visto e outros papéis de viagem. Se o telemóvel morrer, isto é a sua rede de segurança.
+Leve uma cópia em papel dos documentos do seguro, separada do passaporte e do telemóvel, pois uma fotografia guardada apenas num telemóvel indisponível não ajuda. Saiba se as cópias digitais cumprem os requisitos do destino, da seguradora e do prestador de cuidados de saúde.
 
-Um cartão escrito à mão funciona tão bem como uma impressão: número da apólice, nome da seguradora, linha de emergência. Coloque-o na carteira do passaporte e sobrevive a uma bateria fraca, um telemóvel perdido e um cofre do hotel que não consegue abrir.
+Um cartão escrito à mão com o número da apólice, o nome da seguradora e o número de assistência de emergência é um complemento útil para consulta rápida, mas não substitui os documentos que lhe sejam exigidos.
 
 ![Dois telemóveis idênticos lado a lado: o da esquerda brilha com a apólice de seguro guardada no dispositivo, o da direita está cinzento, com um indicador de carregamento e sem sinal](https://traveldocumentvault.com/blog/travel-insurance-documents/saved-vs-searching-figure.jpg) Descarregada e à mão, ou ainda à espera numa caixa de entrada a que não consegue aceder. A diferença aparece no pior momento.
 
@@ -80,27 +80,27 @@ Um cartão escrito à mão funciona tão bem como uma impressão: número da ap�
 
 | Local de Armazenamento | Acesso Sem Internet | Numa Emergência | Cópia de Segurança se Telemóvel Perdido |
 |---|---|---|---|
-| **Telemóvel (descarregamento offline)** | Instantâneo, nenhum WiFi necessário | Disponível imediatamente - opção mais rápida | Perdido com telemóvel a menos que tenha cópia de segurança |
-| **Disco na cloud com acesso offline** | Sim, se descarregado anteriormente | Depende da cache local; funciona se o telemóvel tiver em cache o ficheiro | Recuperável num telemóvel de substituição com login |
-| **Email** | Requer conexão internet | Não fiável - pode não ter sinal ou dados | Ainda acessível mas demorado para procurar |
-| **Cópia física (cartão laminado ou impressão)** | Sim, sempre acessível | Mais rápido se o telemóvel está morto ou perdido | Perdido se o passaporte se perder; guarde num bolso separado |
-| **Aplicação encriptada (p.ex. Travel Document Vault)** | Sim, armazenado localmente no telemóvel | Acesso instantâneo, criada para este cenário | Encriptada e privada; cópia de segurança na cloud opcional |
+| **Telemóvel (descarregamento offline)** | Acesso offline após descarregar para o dispositivo | Teste a abertura antes de viajar | Perdido com telemóvel a menos que tenha cópia de segurança |
+| **Disco na cloud com acesso offline** | Sim, se guardado para utilização offline | Guarde offline e teste antes de viajar | Exige internet e verificação da conta sem o telemóvel perdido |
+| **Email** | Pode funcionar offline se a aplicação o permitir e a mensagem e o anexo estiverem guardados | Exige ligação, salvo se a mensagem e o anexo estiverem guardados offline | Depende do acesso à conta de email |
+| **Cópia física (cartão laminado ou impressão)** | Sim, se tiver a cópia consigo | Útil quando o telemóvel não está disponível | Guarde separadamente do passaporte e do telemóvel |
+| **Aplicação encriptada (p.ex. Travel Document Vault)** | Sim, armazenado localmente no telemóvel | Teste o acesso antes de viajar | Encriptada e privada; cópia de segurança na cloud opcional |
 
 ## Erros Comuns em Reclamações e Como Evitá-los
 
-Mesmo que tenha os seus documentos acessíveis, ainda pode perder a reclamação se lidar mal com o processo. As razões de rejeição mais comuns são:
+Além de guardar os documentos, reserve algum tempo antes da viagem para ler as instruções de pedido de reembolso para cada uma destas situações:
 
 ### Reclamações Médicas: Não Obteve Pré-Aprovação
 
-Muitas apólices de seguro de viagem pedem que contacte a seguradora antes do tratamento, por isso consulte as condições da sua. Isto geralmente significa ligar à sua seguradora e obter aprovação antes de visitar um hospital ou clínica. Os requisitos variam por seguradora e tipo de apólice — verifique a secção de tratamento médico da sua apólice específica. Se ignorar este passo e pagar do seu bolso, algumas seguradoras podem reduzir ou recusar o reembolso, mesmo que o tratamento fosse necessário e estivesse coberto.
+A apólice indica quando precisa de contactar a seguradora e obter autorização para tratamento médico, por isso leia essas regras antes de partir. A falta de uma autorização exigida pode afetar o pedido de reembolso. Numa emergência médica, ligue primeiro para os serviços de emergência locais e contacte depois a seguradora assim que possível.
 
-Digamos que é hospitalizado com apendicite em Mumbai. O hospital precisa de pagamento antecipado ou uma garantia da sua seguradora, e tem uma janela de duas horas antes da cirurgia. Sem o número de pré-aprovação da sua seguradora, o hospital exige dinheiro. Isso deixa duas opções más: pagar agora e arriscar uma reclamação rejeitada meses depois, ou atrasar a cirurgia enquanto persegue a sua seguradora. Uma chamada evita tudo isto. Com um número de confirmação à mão, o hospital cobra a sua seguradora diretamente.
+Mesmo com um número de autorização, pode ter de pagar antecipadamente, em vez de o hospital faturar diretamente à seguradora. Pergunte como será feito o pagamento e guarde os relatórios médicos, faturas e recibos.
 
-Ação: Antes de qualquer tratamento, ligue à linha de emergência na sua apólice e dê-lhes os detalhes do hospital ou clínica. Eles dirão se está coberto e o pré-autorizam, ou dizem-lhe quais as instalações com as quais trabalham nesse país. São dez minutos ao telefone, contra uma fatura de hospital que, de outra forma, poderia ter de pagar do próprio bolso.
+Guarde o número de assistência de emergência da seguradora antes de partir. Quando ligar, forneça os dados do hospital ou da clínica e pergunte que autorização e documentação são necessárias. Se não conseguir ligar, peça a alguém que viaje consigo que contacte a seguradora em seu nome.
 
-### Reclamações de Bagagem: Não Tem Relatório Policial
+### Pedidos de reembolso de bagagem: requisitos de participação por cumprir
 
-Se a sua mala é roubada, perdida ou danificada, muitas apólices pedem um relatório policial do aeroporto ou delegação local. As seguradoras usam isto como prova. Verifique a secção "Como Fazer uma Reclamação" da sua apólice para requisitos exatos, pois estes variam por seguradora. Se ignorar denunciar à polícia e apenas apresentar reclamação ao aeroporto, algumas seguradoras podem recusar o reembolso por não haver um relatório policial. Para roubo ou perda (não simples dano), muitas apólices pedem um relatório policial, por isso confirme a sua.
+Leia as instruções de participação da apólice para cada situação: furto ou roubo, perda e danos. Um auto policial e um relatório de irregularidade de bagagem da companhia aérea não são necessariamente equivalentes. Pergunte quais os relatórios e documentos de apoio necessários, quem os deve emitir e quais os prazos aplicáveis.
 
 Ação: Se a sua mala desapareceu, denuncie ao balcão de achados do aeroporto. Se for roubo, apresente queixa junto da polícia no mesmo dia e obtenha uma cópia para enviar com a reclamação.
 
@@ -112,23 +112,23 @@ Guarde todos os recibos, originais físicos e cópias digitais. Tire fotografias
 
 ### Reclamações de Cancelamento: Não Leu a Letra Miúda
 
-O seguro de viagem cobre cancelamento de viagem apenas se cancelar por uma razão coberta específica, que varia por seguradora. Isto normalmente significa doença, lesão ou morte de um familiar, mas consulte a lista na sua apólice. Raramente significa mudança de ideias, falta de vontade, ou mau tempo, a menos que o mau tempo incapacite o seu transporte. Se cancelar porque o preço do voo caiu, a maioria das apólices não o cobre. A generosidade da sua seguradora nesta matéria varia muito, por isso vale a pena ler atentamente a secção "cancelamento de viagem" antes de assumir que está coberto.
+Se a apólice incluir cobertura de cancelamento, leia os motivos abrangidos, as exclusões e os comprovativos exigidos antes de contar com ela. Saber se doença, mudança de ideias ou mau tempo dão direito a reembolso depende das condições, por isso pergunte à seguradora como se aplicam à sua situação antes de cancelar.
 
 Ação: Antes de cancelar, verifique os detalhes de cobertura da sua apólice. Se acha que a sua razão é elegível, ligue à sua seguradora antes de cancelar o voo. Obtenha confirmação escrita de cobertura antes de prosseguir.
 
 ## Como Ler a Sua Apólice e Encontrar O que Importa
 
-As apólices de seguro de viagem podem ter dezenas de páginas dependendo da sua seguradora e tipo de apólice. Não precisa ler tudo. Cada apólice deve conter as secções abaixo, embora onde ficam varie por seguradora.
+Os temas abaixo são um ponto de partida, mas os títulos das secções variam e alguns detalhes podem constar de condições particulares ou aditamentos separados. Leia todas as condições antes de contar com a cobertura e pergunte à seguradora pelo que não encontrar, incluindo prazos para pedidos de reembolso e horários de assistência.
 
 | Secção | O Que Lhe Diz | Por Que Importa |
 |---|---|---|
 | **Resumo de Cobertura ou Mapa** | Limites de pagamento para médico, bagagem, cancelamento e resto | Saiba o valor máximo da reclamação para cada tipo de perda |
-| **Exclusões** | O que não está coberto (condições pré-existentes, desportos de risco alto, etc.) | Evite fazer reclamações que serão definitivamente rejeitadas |
+| **Exclusões** | O que não está coberto (condições pré-existentes, desportos de risco alto, etc.) | Leia as exclusões e esclareça dúvidas com a seguradora |
 | **Condições Médicas** | Quaisquer restrições de cobertura para problemas de saúde | Verifique se as suas condições estão cobertas |
-| **Como Fazer uma Reclamação** | Processo, prazo, documentos necessários, detalhes de contacto | Saiba exatamente o que fazer quando precisa de reclamar |
-| **Assistência de Emergência** | Como obter ajuda 24/7, o que está incluído (repatriação, tradução, etc.) | Saiba quem ligar numa crise e o que farão |
+| **Como Fazer uma Reclamação** | Passos para pedir um reembolso; confirme prazos e comprovativos | Saiba exatamente o que fazer quando precisa de reclamar |
+| **Assistência de Emergência** | Confirme horários, serviços e cobertura de repatriamento | Saiba quem ligar numa crise e o que farão |
 
-Use o índice para encontrar estas secções sem ler cada página. Destaque os limites de cobertura e exclusões, depois tire fotografias para consulta rápida.
+Use o índice para localizar estas secções e leia também as condições completas. Destaque os limites de cobertura e as exclusões e guarde capturas de ecrã para consulta rápida.
 
 ## Antes de Partir: Uma Simples Lista de Verificação
 
@@ -137,12 +137,12 @@ Eis o que fazer antes do seu voo:
 - Descarregue o PDF da apólice de seguro para o seu telemóvel
 - Tire fotografias à capa da apólice (com número da apólice) e à página de contactos de emergência
 - Guarde ambas numa pasta no seu telemóvel com um nome que reconhecerá à primeira vista (algo como "Seguro - esta viagem")
-- Escreva ou decore o seu número de contacto de emergência 24 horas
+- Anote o número de assistência de emergência e informe-se sobre o horário de funcionamento
 - Leia a secção "Como Fazer uma Reclamação" para saber o processo se necessário
-- Guarde uma cópia de segurança física (impressão ou nota escrita com número da apólice e linha de emergência)
-- Guarde uma cópia num disco na cloud (OneDrive, Google Drive, iCloud) com acesso offline ativado
+- Leve uma cópia impressa da apólice, separada do passaporte e do telemóvel
+- Guarde uma cópia de segurança na cloud, teste o acesso offline e prepare uma forma de verificar ou recuperar a conta sem depender do telemóvel
 
-Vinte minutos agora e não estará à procura de nada numa crise.
+Antes de fazer as malas, experimente encontrar cada cópia. Volte a desligar o WiFi e os dados móveis e abra os ficheiros guardados para garantir que estão disponíveis offline.
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 
@@ -154,23 +154,23 @@ Fontes oficiais
 
 ### Preciso de transportar a minha apólice de seguro física quando viajo?
 
-Não, não precisa do documento em formato papel. Uma cópia digital no seu telemóvel ou uma fotografia é suficiente. As seguradoras e os hospitais geralmente pedem o número da apólice, e uma cópia digital costuma ajudar. No entanto, uma cópia de segurança em papel (fotocópia ou impressão) é sensata caso o telemóvel se descarregue. Ainda mais simples: escreva o número da apólice e a linha de emergência num cartão junto do seu passaporte.
+Uma cópia no telemóvel pode não cumprir os requisitos de documentação do destino, da seguradora e do prestador de cuidados de saúde, por isso informe-se sobre o que exigem antes de partir. Mantenha os dados da apólice acessíveis offline e leve uma cópia de segurança em papel, separada do passaporte e do telemóvel. Tenha também à mão o número da apólice e o número de assistência de emergência.
 
 ### O que devo fazer se não conseguir contactar a linha de emergência da minha seguradora no estrangeiro?
 
-Procure na apólice um número que funcione a partir do estrangeiro, pois os números gratuitos muitas vezes não funcionam. Muitas apólices indicam um número alternativo para chamadas de fora do país da seguradora. Se não conseguir contactá-los, prossiga com o tratamento e guarde todos os recibos e documentação. Contacte-os assim que conseguir e verifique o prazo de reclamação na sua apólice. Tenha em atenção que prosseguir sem pré-aprovação pode reduzir ou negar a sua reclamação, portanto sempre tente contactá-los primeiro.
+Numa emergência médica, ligue primeiro para os serviços de emergência locais. Procure na apólice um número que funcione a partir do estrangeiro e peça a alguém que viaje consigo que ajude a contactar a seguradora. Guarde os recibos e relatórios médicos, contacte a seguradora assim que possível e informe-se sobre o prazo para apresentar o pedido de reembolso. Para tratamentos não urgentes, leia os requisitos de autorização da apólice antes de avançar; a falta de uma autorização exigida pode afetar o resultado do pedido.
 
 ### O que devo fazer se perder a minha apólice de seguro enquanto viajo?
 
-Se tiver o número da sua apólice e conseguir contactar a linha de emergência da sua seguradora, é tudo o que precisa. Forneça o número da apólice e dados pessoais por telefone e eles confirmarão a sua cobertura. Se guardou cópias de segurança (fotografias digitais, cópias na cloud ou notas escritas), use-as. As seguradoras geralmente conseguem confirmar a cobertura pelo número da apólice e reenviar os documentos.
+O número da apólice e o número de assistência de emergência são um bom ponto de partida. Use as cópias de segurança que guardou e peça à seguradora que confirme a cobertura e explique como obter novos exemplares dos documentos. Pergunte que identificação e comprovativos exige para prestar assistência ou analisar um pedido de reembolso, pois o número da apólice, por si só, pode não bastar.
 
 ### Quais as secções de uma apólice de seguro de viagem que realmente preciso de ler?
 
-Concentre-se em: resumo de cobertura ou mapa (os seus limites de pagamento), exclusões (o que não está coberto), restrições de condições médicas, como fazer uma reclamação (processo e prazo) e assistência de emergência (contacto 24/7 e o que está incluído). Use o índice para encontrar estas secções sem ler cada página. Destaque os limites de cobertura e exclusões, depois tire fotografias para consulta rápida.
+Comece pelas coberturas, limites, franquias, exclusões, condições relativas a problemas de saúde e instruções para pedir um reembolso, usando o índice para os encontrar. Os títulos das secções e a organização dos documentos variam. Também precisa de saber os prazos para apresentar pedidos de reembolso, o número de assistência de emergência, o seu horário de funcionamento e os serviços incluídos. Leia todas as condições e esclareça qualquer dúvida com a seguradora.
 
 ### O seguro de viagem funciona em todos os países para os quais viajo?
 
-O seguro de viagem protege-o na maioria dos países do mundo durante a sua viagem, mas algumas apólices excluem certos destinos, regiões ou atividades. Verifique a secção de cobertura geográfica da sua apólice para quaisquer exclusões. A cobertura varia consoante a apólice, por isso consulte a secção de cobertura geográfica para saber que destinos exclui. As atividades de alto risco (montanhismo, desportos profissionais) podem ter exclusões separadas.
+A cobertura não é automaticamente mundial, por isso pergunte à seguradora se a apólice abrange todos os países do itinerário, incluindo escalas, as datas da viagem e as atividades previstas. As atividades de alto risco (montanhismo, desportos profissionais) podem ter exclusões específicas.
 
 ## Artigos Relacionados
 

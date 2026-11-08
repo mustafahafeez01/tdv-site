@@ -10,47 +10,47 @@ Source: https://traveldocumentvault.com/de/blog/visa-vs-passport/
 
 ## Wichtigste Erkenntnisse
 
-- **Ein Reisepass wird von Ihrem Land ausgestellt** und beweist Ihre Staatsangehörigkeit und Identität.
-- **Ein Visum wird vom Bestimmungsland ausgestellt** und gibt Ihnen die Erlaubnis einzureisen.
-- Sie brauchen **beide Dokumente für die meisten internationalen Reisen**, obwohl einige Ziele nur einen Reisepass verlangen.
+- **Ein Reisepass weist Ihre Identität und Nationalität aus**. In der Regel stellt ihn das Land aus, dessen Nationalität Sie besitzen.
+- **Ein Visum ermöglicht in der Regel die Reise und das Ersuchen um Einreise**. Die endgültige Entscheidung trifft die Grenzbeamtin oder der Grenzbeamte.
+- Für die meisten internationalen Reisen brauchen Sie **einen Reisepass**. Prüfen Sie, ob Sie zusätzlich ein Visum, eine Reisegenehmigung oder weitere Nachweise benötigen.
 - Die Visabestimmungen **unterscheiden sich je nach Nationalität und Bestimmungsland**, überprüfen Sie daher immer die Anforderungen vor einer Reise.
 - **Die Ablaufdaten von Visa separat von Ihrem Reisepass zu verfolgen** hilft, Reiseunterbrechungen zu vermeiden.
 
-Reisepass und Visum klingen fast austauschbar, erfüllen aber unterschiedliche Aufgaben: Das eine weist Sie aus, das andere lässt Sie einreisen, und die meisten internationalen Reisen erfordern beides. Erstreisende nehmen oft an, dass das eine das andere abdeckt, und diese Annahme kann beim Check-in oder an der Grenze echte Probleme verursachen, wenn keine Zeit mehr bleibt, es zu klären.
+Ihr Reisepass weist Ihre Identität und Nationalität aus. Mit einem Visum können Sie in der Regel reisen und an der Grenze für einen bestimmten Zweck um Einreise ersuchen; die endgültige Entscheidung trifft die Grenzbeamtin oder der Grenzbeamte. Ob Sie ein Visum benötigen, hängt von Ihrer Reise ab. Gerade vor der ersten Auslandsreise liegt die Annahme nahe, ein Dokument ersetze das andere. Prüfen Sie deshalb vor der Buchung, welche Dokumente Sie brauchen, denn beim Check-in oder an der Grenze bleibt oft keine Zeit mehr, fehlende Unterlagen zu beschaffen.
 
 ## Was ist ein Reisepass
 
-Ihr Reisepass enthält Ihren Namen, Ihr Geburtsdatum, ein Foto und eine eindeutige Passnummer – ausgestellt von Ihrer Regierung und weltweit anerkannt als Beweis Ihrer Staatsangehörigkeit.
+Ihr Reisepass enthält Ihren Namen, Ihr Geburtsdatum, ein Foto und eine eindeutige Passnummer und weist damit Ihre Identität und Nationalität aus. In der Regel stellt ihn das Land aus, dessen Nationalität Sie besitzen. Das kann ein anderes Land sein als das, in dem Sie wohnen.
 
 Er dient als Ihr offizielles Ausweisdokument für internationale Reisen. Für die meisten internationalen Reisen brauchen Sie ihn, um Ihr Land zu verlassen und im Ausland eingelassen zu werden, auch wenn manche Regionen andere Dokumente akzeptieren, etwa nationale Ausweiskarten innerhalb Europas oder eine [US-Passkarte](https://www.cbp.gov/travel/us-citizens/western-hemisphere-travel-initiative) bei Land- und Seegrenzübergängen. Beamte an der Grenze überprüfen ihn, Fluggesellschaften verlangen ihn für internationale Flüge, und Zollbeamte kontrollieren ihn bei der Ankunft.
 
-Reisepässe sind normalerweise mehrere Jahre gültig (oft 10 Jahre für Erwachsene, 5 Jahre für Kinder), obwohl die Gültigkeitszeiträume je nach Land unterschiedlich sind. Wenn Ihr Reisepass abläuft, können Sie nicht international reisen und müssen eine Verlängerung beantragen. Das Verfallsdatum Ihres Reisepasses zu verfolgen ist kritisch, da viele Länder [mindestens 6 Monate Gültigkeit](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements) verlangen, bevor sie Ihnen einreisen erlauben.
+Wie lange ein Reisepass gültig ist, hängt von der ausstellenden Behörde ab. Ein Beispiel aus dem Vereinigten Königreich: HM Passport Office stellt reguläre Reisepässe für Erwachsene mit 10 Jahren und für Kinder mit 5 Jahren Gültigkeit aus. Wenn Ihr Reisepass abläuft, können Sie nicht international reisen und müssen eine Verlängerung beantragen. Das Verfallsdatum Ihres Reisepasses zu verfolgen ist kritisch, da viele Länder [mindestens 6 Monate Gültigkeit](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements) verlangen, bevor sie Ihnen einreisen erlauben.
 
 ## Was ist ein Visum
 
-Ein Visum ist eine offizielle Erlaubnis, die von einem Bestimmungsland ausgestellt wird und Ihnen erlaubt, dort für einen bestimmten Zweck und eine bestimmte Dauer einzureisen und zu bleiben. Anders als Ihr Reisepass – den Ihr eigenes Land ausstellt – kommt ein Visum vom Land, das Sie besuchen möchten.
+Ein Visum ermöglicht Ihnen in der Regel, zu einem Reiseziel zu reisen und dort für einen bestimmten Zweck um Einreise zu ersuchen. Die Behörden des Ziellandes stellen es aus; die Grenzbeamtin oder der Grenzbeamte entscheidet, ob Sie einreisen dürfen. Lesen Sie die Bedingungen sorgfältig. Der Zeitraum, in dem Sie das Visum nutzen können, ist von der erlaubten Aufenthaltsdauer zu unterscheiden.
 
-Ein gültiger Reisepass zu haben bedeutet nicht automatisch, dass Sie in jedes Land einreisen können. Ein Reisepass beweist, dass Sie Bürger eines Landes sind; ein Visum beweist, dass ein bestimmtes Land Ihnen die Erlaubnis gegeben hat, dort zu sein. Einige Länder könnten Ihnen den Eintritt verweigern, auch wenn Ihr Reisepass gültig ist.
+Ein gültiger Reisepass weist Ihre Identität und Nationalität aus, berechtigt Sie aber nicht automatisch zur Einreise in ein anderes Land. Ein Visum ermöglicht in der Regel die Reise, um dort um Einreise zu ersuchen. Die Grenzbeamtin oder der Grenzbeamte kann Ihnen die Einreise dennoch verweigern.
 
 Die Visabestimmungen hängen von Ihrer Nationalität ab. Ein Bürger eines Landes könnte ein Visum brauchen, um Land A zu besuchen, während ein Bürger eines anderen Landes dasselbe Land visafrei besuchen könnte. Visafreiheitsabkommen bestehen zwischen vielen Ländern, was bedeutet, dass Bürger dieser Länder die Grenze ohne vorheriges Visum überqueren können.
 
-## Warum Sie beide brauchen
+## Wann Sie beides brauchen
 
-Ihr Reisepass beantwortet eine Frage: "Wer sind Sie und welches Land hat dieses Dokument ausgestellt?" Ihr Visum beantwortet eine andere: "Erlaubt das Bestimmungsland Ihnen zu besuchen?" Zusammen funktionieren sie wie einen Schlüssel aus zwei Teilen – Ihr Reisepass lässt Sie nach Hause gehen, und Ihr Visum gewährt Eintritt an Ihrem Bestimmungsort.
+Ihr Reisepass zeigt bei der Grenzkontrolle, wer Sie sind und welche Nationalität Sie besitzen. Ein Visum ermöglicht in der Regel die Reise, um für den angegebenen Zweck um Einreise zu ersuchen. Die endgültige Entscheidung trifft die Grenzbeamtin oder der Grenzbeamte.
 
-Die meisten internationalen Reisen erfordern einen gültigen Reisepass und ein passendes Visum (oder eine Bestätigung, dass ein Visum für Ihr Bestimmungsland nicht erforderlich ist). Für die meisten internationalen Reisen können Sie ohne Reisepass nicht ausreisen. Ohne ein erforderliches Visum können Sie Ihr Bestimmungsland nicht betreten, egal wie gültig Ihr Reisepass ist. Viele Reiseunterbrechungen passieren, weil Reisende gültige Reisepässe haben, aber vergessen haben, die Visabestimmungen vor der Buchung zu überprüfen.
+Für die meisten internationalen Reisen benötigen Sie einen gültigen Reisepass. Ob Sie auch ein Visum brauchen, hängt von Ihrer Nationalität, dem Reiseziel, der Route und dem Reisezweck ab. Selbst bei visafreien Reisen können eine Reisegenehmigung oder weitere Nachweise erforderlich sein. Prüfen Sie vor der Buchung alle Anforderungen.
 
 ## Ist ein Reisepass dasselbe wie ein Visum?
 
-Nein, und ein Reisepass gilt nie als Visum. Beide stammen von unterschiedlichen Regierungen und beantworten unterschiedliche Fragen, sodass der eine den anderen nie ersetzen kann, so gültig er auch ist.
+Nein, ein Reisepass ersetzt ein erforderliches Visum nicht, denn beide erfüllen unterschiedliche Aufgaben. Prüfen Sie, welche Dokumente Sie für Ihre Reise brauchen.
 
-Zwei Dinge halten diese Verwechslung am Leben. Das erste ist rein äußerlich: Ein Visum ist oft ein Aufkleber oder Stempel im Reisepass, sodass das, was Sie in der Hand halten, wie ein einziges Dokument mit ein paar zusätzlich ausgefüllten Seiten aussieht. Tatsächlich sind es zwei Genehmigungen in einem Heft, ausgestellt von zwei verschiedenen Ländern.
+Zwei Dinge halten diese Verwechslung am Leben. Das erste ist rein äußerlich: Ein Visum ist oft ein Aufkleber oder Stempel im Reisepass, sodass das, was Sie in der Hand halten, wie ein einziges Dokument mit ein paar zusätzlich ausgefüllten Seiten aussieht. Das Passheft weist Ihre Identität und Nationalität aus; das darin enthaltene Visum ermöglicht in der Regel die Reise und das Ersuchen um Einreise.
 
 Das zweite ist visumfreies Reisen. Wenn ein Zielland Ihre Staatsangehörigkeit ohne Visum einreisen lässt, wirkt es, als hätte der Reisepass das allein geschafft. Tatsächlich hat das Land lediglich auf diese Voraussetzung für Inhaber dieses Reisepasses verzichtet. Das Visum wurde nicht durch den Reisepass ersetzt, es wurde schlicht nicht verlangt, und dasselbe Land kann es von einem Nachbarn verlangen, der mit einem anderen Reisepass reist.
 
-Der Reisepass gehört also Ihnen und begleitet Sie überallhin. Die Erlaubnis wird von jedem Zielland gesondert erteilt, und sie kann verweigert werden, selbst wenn Ihr Reisepass völlig in Ordnung ist.
+Ein einziges Visum kann für mehrere Länder gelten: Nach Angaben der Europäischen Kommission ist ein Schengen-Visum grundsätzlich im gesamten Schengen-Raum gültig. Auch mit gültigem Reisepass und Visum entscheiden die Grenzbehörden, ob Sie einreisen dürfen.
 
-![Vergleichsdiagramm von Reisepass und Visum: Ihr eigenes Land stellt den Reisepass aus, er belegt, wer Sie sind, und lässt Sie Ihr Land verlassen, während das Zielland das Visum ausstellt, das die Einreiseerlaubnis gewährt und nur für dieses eine Land gilt, mit dem Hinweis, dass die meisten Reisen beides brauchen](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure-de.jpg) Zwei Dokumente, zwei Aufgaben – und ein gültiger Reisepass allein ist keine Einreiseerlaubnis.
+![Handgezeichnete Illustrationen eines Reisepasses und eines Visums](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure-de.jpg) Zwei Dokumente, zwei Aufgaben – und ein gültiger Reisepass allein ist keine Einreiseerlaubnis.
 
 ## Visaarten unterscheiden sich nach Zweck und Dauer
 
@@ -63,17 +63,17 @@ Die meisten Länder stellen Visa in diesen Kategorien aus:
 - **E-Visum:** Ein elektronisches Visum, das online beantragt und in der Regel im System des Bestimmungslandes gespeichert wird, verbunden mit Ihrer Passnummer. Verbreitet in Südostasien und zunehmend anderswo.
 - **Visum bei Ankunft:** Ausgestellt an Ihrem Bestimmungsflughafen oder an der Grenze, wenn Sie landen. Die Bearbeitung ist normalerweise schnell, obwohl Warteschlangen lang sein können, und nicht alle Länder bieten diese Option an.
 
-Die Visabestimmungen innerhalb jeder Kategorie unterscheiden sich dramatisch. Ein Touristenvisum zu einem Land könnte 30 Tage gültig sein; ein anderes könnte 90 Tage erlauben. Einige sind Einzeleinreisungen (Sie können nur einmal einreisen), während andere mehrfache Einreisungen erlauben.
+Die Einzelheiten unterscheiden sich auch innerhalb derselben Visumkategorie: Der Gültigkeitszeitraum eines Touristenvisums kann von der erlaubten Aufenthaltsdauer pro Besuch abweichen. Prüfen Sie auch die Zahl der erlaubten Einreisen. Manche Visa erlauben eine einmalige Einreise, andere mehrere.
 
 | Aspekt | Reisepass | Visum |
 |---|---|---|
-| **Ausgestellt von** | Ihr Heimatland | Bestimmungsland |
-| **Zweck** | Beweist Staatsangehörigkeit und Identität | Gewährt die Erlaubnis, in ein bestimmtes Land einzureisen |
+| **Ausgestellt von** | In der Regel das Land, dessen Nationalität Sie besitzen | Bestimmungsland |
+| **Zweck** | Weist in der Regel Identität und Nationalität aus | Ermöglicht in der Regel die Reise und das Ersuchen um Einreise |
 | **Erforderlich für** | Die meisten internationalen Reisen | Reisen zu vielen (nicht allen) Ländern |
-| **Gültigkeitszeitraum** | Normalerweise 5-10 Jahre | Unterschiedlich: Tage bis Jahre, je nach Typ |
-| **Beantragungsort** | Regierungsstelle in Ihrem Land | Botschaft oder Konsulat des Bestimmungslandes |
-| **Bearbeitungszeit** | Wochen bis Monate, je nach Land | Tage bis Monate, je nach Bestimmung und Typ |
-| **Kosten** | Feste staatliche Gebühr | Unterschiedlich stark nach Land und Visumstyp |
+| **Gültigkeitszeitraum** | Beispiel Vereinigtes Königreich: Kinder 5 Jahre, Erwachsene 10 Jahre | Unterschiedlich: Tage bis Jahre, je nach Typ |
+| **Beantragungsort** | Bei der ausstellenden Behörde: online, per Post oder persönlich | Online, im Visumzentrum, bei der Botschaft oder dem Konsulat |
+| **Bearbeitungszeit** | Je nach Behörde und gewähltem Verfahren unterschiedlich | Tage bis Monate, je nach Bestimmung und Typ |
+| **Kosten** | Je nach Behörde, antragstellender Person und gewähltem Verfahren unterschiedlich | Unterschiedlich stark nach Land und Visumstyp |
 
 ## Visastempel und E-Visa erfüllen denselben Zweck
 
@@ -81,7 +81,7 @@ Eine Verwirrungsquelle beinhaltet den Unterschied zwischen einem traditionellen 
 
 Statt in Ihren Reisepass gedruckt zu werden, wird ein e-Visum in der Regel im elektronischen System des Bestimmungslandes gespeichert und mit Ihrer Passnummer verlinkt. Wenn Sie ankommen, schlagen Grenzbeamte es in ihrem System nach, um Ihr Visum zu bestätigen. Beide Arten sind gleichermaßen gültig und rechtlich bindend.
 
-Ein häufiges Szenario: Sie bekommen einen neuen Reisepass, bevor Ihr Visum abläuft. In den meisten Ländern bleibt Ihr Visum gültig, obwohl sich Ihr Reisepass geändert hat. Tragen Sie einfach sowohl den alten (abgelaufenen) Reisepass mit dem Visum als auch Ihren neuen Reisepass bei sich – Beamte werden beide zusammen überprüfen.
+Die Verknüpfung mit Ihrer Passnummer ist wichtig, wenn Sie einen neuen Reisepass erhalten. Prüfen Sie vor der Reise die Vorgaben der ausstellenden Behörde: Möglicherweise müssen Sie Ihre Passdaten aktualisieren oder zusätzlich den alten Reisepass mitführen.
 
 ## Wie Sie überprüfen, ob Sie ein Visum brauchen
 
@@ -97,13 +97,13 @@ Wenn die Anforderungen unklar sind oder Sie doppelte Nationalität halten, konta
 
 ## Die abgelaufene Pass-Falle: Visa-Gültigkeit vs. Reisepass-Gültigkeit
 
-Ein häufiger Trugschluss ist, dass ein Visum abläuft, wenn Ihr Reisepass abläuft, aber so funktioniert es nicht. Die Gültigkeit eines Visums ist völlig getrennt von der Gültigkeit Ihres Reisepasses. Wenn Ihr Reisepass vor Ihrem Visum abläuft, bleibt Ihr Visum gültig.
+Das Ablaufdatum eines Visums kann vom Ablaufdatum Ihres Reisepasses abweichen. Ob Sie das Visum nach Ablauf des Passes noch nutzen können, hängt vom Reiseziel und vom Visum ab. Prüfen Sie das vor der Reise.
 
-Angenommen, Ihr Reisepass läuft ab, also beantragen Sie einen neuen, doch Sie halten immer noch ein gültiges Touristenvisum für ein Bestimmungsland – vielleicht noch sechs Monate gültig – mit Stempel in Ihrem abgelaufenen Reisepass. Sie können immer noch mit diesem Visum reisen. Tragen Sie einfach sowohl Ihren alten (abgelaufenen) Reisepass mit dem Visum als auch Ihren neuen Reisepass bei sich, und Einwanderungsbeamte werden beide Dokumente überprüfen, wenn Sie einreisen.
+Die britische Regierung nennt ein konkretes Beispiel: Ein noch gültiges britisches Visum in Form einer Vignette (eines Aufklebers) in einem abgelaufenen Reisepass können Sie für Reisen ins Vereinigte Königreich und aus dem Vereinigten Königreich nutzen, wenn Sie sowohl den abgelaufenen als auch den neuen Reisepass mitführen. Daraus lässt sich nicht ableiten, was andere Reiseziele akzeptieren.
 
-Einige Länder verlangen, dass das Visum auf Ihren neuen Reisepass übertragen wird. Dies muss vor der Reise bei der Botschaft oder dem Konsulat des ausstellenden Landes geschehen. Die Anforderungen unterscheiden sich je nach Bestimmungsland, daher müssen Sie mit der speziellen Botschaft überprüfen oder sie direkt kontaktieren.
+Befolgen Sie vor der Reise das Verfahren der ausstellenden Behörde. Je nach Vorgabe müssen Sie etwa beide Reisepässe mitführen, einen elektronischen Datensatz aktualisieren oder ein Ersatzvisum beantragen.
 
-Die Verwirrung entsteht dadurch, dass Ihr alter Reisepass als Reisedokument abgelaufen ist, während das Visum darin eine eigene Erlaubnis des Bestimmungslandes ist und nach seinem eigenen Ablaufdatum läuft.
+Bewahren Sie beide Ablaufdaten so auf, dass Sie sie leicht prüfen können. Auch ein noch nicht abgelaufenes Visum kann Handlungsbedarf auslösen, wenn Sie Ihren Reisepass ersetzen. Halten Sie sich deshalb an die aktuellen Vorgaben der ausstellenden Behörde.
 
 ## Visafreies Reisen hat weiterhin Grenzen
 
@@ -127,19 +127,19 @@ Offizielle Quellen
 
 ### Was ist der Unterschied zwischen Visum und Reisepass
 
-Ihren Reisepass stellt Ihr eigenes Land aus, und er belegt, wer Sie sind und welchem Land Sie angehören. Das Visum stellt das Land aus, das Sie besuchen wollen, und es erlaubt Ihnen die Einreise. Das eine weist Sie aus, das andere lässt Sie herein, und die meisten Auslandsreisen brauchen beides.
+Ihr Reisepass zeigt, wer Sie sind und welche Nationalität Sie besitzen. Ein Visum ermöglicht in der Regel die Reise, um für einen bestimmten Zweck um Einreise zu ersuchen; die endgültige Entscheidung trifft die Grenzbeamtin oder der Grenzbeamte. Ob Sie ein Visum benötigen, hängt von Ihrer Nationalität, dem Reiseziel und Ihrer Reise ab.
 
 ### Ist ein Visum dasselbe wie ein Reisepass
 
-Nein. Sie kommen von verschiedenen Regierungen und erfüllen verschiedene Aufgaben. Ihr Reisepass kommt aus Ihrem eigenen Land und begleitet Sie überallhin. Ein Visum kommt von einem einzigen Zielland und gilt nur für dieses Land, für einen bestimmten Zweck und einen bestimmten Zeitraum.
+Nein, beide erfüllen unterschiedliche Aufgaben: Ein Reisepass weist Ihre Identität und Nationalität aus. Ein Visum ermöglicht in der Regel die Reise, um für einen bestimmten Zweck um Einreise zu ersuchen. Manche Visa gelten für mehrere Länder. Ein Schengen-Visum ist beispielsweise grundsätzlich im gesamten Schengen-Raum gültig. Prüfen Sie daher vor der Reise seinen Gültigkeitszeitraum und seine Bedingungen.
 
 ### Warum brauche ich ein Visum, wenn ich einen Reisepass habe
 
-Der Reisepass belegt Ihre Identität und Staatsangehörigkeit, verpflichtet aber kein Land, Sie einreisen zu lassen. Jedes Zielland entscheidet selbst, wer einreisen darf, und das Visum ist die Form, in der es diese Entscheidung festhält. Ein gültiger Reisepass lässt Sie ausreisen, bringt Sie aber nicht durch die Grenzkontrolle am Ziel.
+Ihre Identität und Nationalität nachzuweisen ist nur ein Teil der Prüfung. Für Ihre Reise kann das Zielland zusätzlich ein Visum oder eine Reisegenehmigung verlangen. Ein Visum ermöglicht in der Regel die Reise, um für den angegebenen Zweck um Einreise zu ersuchen. Ob Sie einreisen dürfen, entscheidet weiterhin die Grenzbeamtin oder der Grenzbeamte.
 
 ### Gilt ein Reisepass als Visum
 
-Nein, und die beiden sind nie austauschbar. Verlangt Ihr Zielland für Ihre Staatsangehörigkeit ein Visum, kommen Sie mit dem Reisepass allein nicht hinein, und eine Fluggesellschaft kann Ihnen die Beförderung verweigern, bevor Sie die Grenze überhaupt erreichen. Wo kein Visum verlangt wird, genügt der Reisepass für sich.
+Nein, ein Reisepass ersetzt ein erforderliches Visum nicht. Auch bei einer visafreien Reise können eine elektronische Reisegenehmigung und weitere Nachweise nötig sein. Prüfen Sie daher die Anforderungen für Ihre Nationalität, Ihre Route und Ihren Reisezweck.
 
 ### Was ist ein Visum im Reisepass
 
@@ -155,7 +155,7 @@ Nein, und der gemeinsame Name ist Zufall, keine Verbindung. Visa, das Zahlungsne
 
 ### Kann man ein Visum aus einem abgelaufenen Reisepass nutzen
 
-Oft ja. Die Gültigkeit des Visums ist von der des Passes getrennt, ein noch gültiges Visum in einem abgelaufenen Pass bleibt also in der Regel nutzbar, wenn Sie beide Hefte zusammen mitführen. Manche Länder verlangen allerdings, das Visum in den neuen Pass zu übertragen, klären Sie die Regel Ihres Ziellandes daher vor der Reise mit dessen Botschaft.
+Das hängt vom Reiseziel und vom Visum ab. Nach Angaben der britischen Regierung können Sie ein noch gültiges britisches Visum in Form einer Vignette (eines Aufklebers) in einem abgelaufenen Reisepass für Reisen ins Vereinigte Königreich und aus dem Vereinigten Königreich nutzen, wenn Sie sowohl den abgelaufenen als auch den neuen Reisepass mitführen. Prüfen Sie die aktuellen Regeln Ihres Reiseziels, bevor Sie sich auf ein Visum verlassen, das mit einem abgelaufenen Reisepass verknüpft ist.
 
 ## Verwandte Artikel
 
