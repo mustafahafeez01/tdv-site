@@ -50,7 +50,7 @@ Source: https://traveldocumentvault.com/ko/blog/visa-vs-passport/
 
 비자 하나가 여러 국가에서 유효할 수도 있습니다. 유럽연합 집행위원회에 따르면 셴겐 비자는 일반적으로 셴겐 지역 전체에서 유효합니다. 여권과 비자가 모두 유효하더라도 실제 입국 여부는 국경 당국의 심사를 거쳐 결정됩니다.
 
-![여권과 비자를 그린 그림](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure-ko.jpg) 두 서류, 두 가지 역할. 유효한 여권만으로는 입국이 허가되지 않습니다.
+![비교 도표: 여권은 신원과 국적을 증명하며 본국에서 발급합니다. 비자가 있으면 여행하고 입국을 요청할 수 있습니다. 비자는 목적지에서 발급하며 일부는 여러 국가에 적용됩니다. 출입국 심사관이 결정합니다. 무비자 여행에도 여행허가가 필요할 수 있습니다](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure-ko.jpg) 두 서류는 역할이 다르며, 최종 결정은 출입국 심사관이 내립니다.
 
 ## 비자 종류는 목적과 기간에 따라 다릅니다
 

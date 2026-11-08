@@ -50,7 +50,7 @@ La seconde est le voyage sans visa. Quand une destination laisse entrer votre na
 
 Un seul visa peut couvrir plusieurs pays : selon la Commission européenne, un visa Schengen est généralement valable dans l'ensemble de l'espace Schengen. Même avec un passeport et un visa valides, votre admission reste soumise à la décision des autorités frontalières.
 
-![Illustrations d'un passeport et d'un visa](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure-fr.jpg) Deux documents, deux rôles — et un passeport valide, à lui seul, n'est pas une permission d'entrer.
+![Schéma comparatif : le passeport indique votre identité et votre nationalité et est délivré par votre pays ; le visa permet de voyager et de demander l'entrée, est délivré par la destination et peut couvrir plusieurs pays. L'agent à la frontière décide. Même sans visa, une autorisation de voyage peut être nécessaire](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure-fr.jpg) Deux documents, deux rôles. La décision finale revient à l'agent à la frontière.
 
 ## Les types de visas varient selon l'objet et la durée
 

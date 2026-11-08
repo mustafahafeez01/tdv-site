@@ -50,7 +50,7 @@ A segunda é a viagem sem visto. Quando um destino deixa a sua nacionalidade ent
 
 Um único visto pode abranger vários países: segundo a Comissão Europeia, um visto Schengen é geralmente válido em todo o espaço Schengen. Mesmo com passaporte e visto válidos, a entrada continua a depender da decisão das autoridades de fronteira.
 
-![Ilustrações de um passaporte e de um visto](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure-pt.jpg) Dois documentos, duas funções - e um passaporte válido por si só não é permissão para entrar.
+![Diagrama comparativo: o passaporte identifica quem é, indica a sua nacionalidade e é emitido pelo seu país; o visto permite viajar e pedir entrada, é emitido pelo destino e alguns abrangem vários países. O agente de fronteira decide. Mesmo sem visto, pode ser necessária uma autorização de viagem](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure-pt.jpg) Dois documentos, duas funções. A decisão final cabe ao agente de fronteira.
 
 ## Os tipos de visto variam consoante o fim e a duração
 

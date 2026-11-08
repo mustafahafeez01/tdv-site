@@ -24,7 +24,7 @@ International travel generally requires a valid passport physically in your poss
 
 Whether you can use your current passport depends on your renewal method, where you apply and whether it remains valid.
 
-![Passport renewal decision diagram, hidden because its country-specific labels are inaccurate](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure.jpg) Travel during renewal depends on the application route and whether your passport remains valid and available.
+![Hand-drawn decision flow: did you send your passport in? Yes - wait for the new one before travelling abroad. No - is it still valid for your trip? Then check your destination's entry rules. Renew early to take the pressure off](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure.jpg) Travel during renewal depends on the application route and whether your passport remains valid and available.
 
 ## United States: Mail-In Renewal
 

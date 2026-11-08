@@ -50,7 +50,7 @@ The second is visa-free travel. When a destination lets your nationality in with
 
 A single visa can cover several countries: the European Commission says a Schengen visa is generally valid across the Schengen area. You'll still need the border authorities to let you in, even with a valid passport and visa.
 
-![Hand-drawn illustrations of a passport and a visa](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure.jpg) Two documents, two jobs - and a valid passport on its own is not permission to enter.
+![Hand-drawn comparison: a passport shows who you are and your nationality and is issued by your country; a visa lets you travel and ask to enter, is issued by the destination, and some cover several countries. The border officer decides. Visa-free trips may still need a travel authorisation](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure.jpg) Two documents, two jobs - and the border officer makes the final call.
 
 ## Visa Types Vary by Purpose and Length
 

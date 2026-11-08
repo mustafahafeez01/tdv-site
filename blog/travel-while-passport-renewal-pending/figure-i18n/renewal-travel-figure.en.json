@@ -1,46 +1,30 @@
 {
  "en": {
   "template": "tree",
-  "title": "Renewing: can you still travel?",
+  "title": "Travelling while your renewal is pending",
   "root": {
-   "heading": "Is the passport still in your hands?"
+   "heading": "Did you send your passport in?"
   },
   "branches": [
    {
     "edge": "Yes",
-    "edge_mark": "tick",
-    "heading": "Travel on it while it stays valid",
-    "tone": "good",
-    "items": [
-     {
-      "text": "US mail-in renewal"
-     },
-     {
-      "text": "UK digital renewal"
-     }
-    ]
+    "heading": "Wait for the new one before travelling abroad",
+    "tone": "warn"
    },
    {
     "edge": "No",
-    "edge_mark": "cross",
-    "heading": "Surrendered: you wait for the new one",
-    "tone": "warn",
+    "heading": "Is it still valid for your trip?",
+    "tone": "good",
     "items": [
      {
-      "text": "UK postal renewal"
-     },
-     {
-      "text": "Australia"
-     },
-     {
-      "text": "Canada"
+      "text": "Check your destination's entry rules"
      }
     ]
    }
   ],
-  "focal": "No country lets you fly internationally without a passport in hand",
-  "alt": "Hand-drawn decision tree: is the passport still in your hands? Yes - travel on it while it stays valid (US mail-in renewal, UK digital renewal). No - surrendered, you wait for the new one (UK postal renewal, Australia, Canada). No country lets you fly internationally without a passport in hand",
-  "caption": "One question decides everything: whether your old passport is still in your possession.",
+  "focal": "Renew early to take the pressure off",
+  "alt": "Decision diagram: did you send your passport in? Yes - wait for the new one before travelling abroad. No - is it still valid for your trip? Then check your destination's entry rules. Renew early to take the pressure off",
+  "caption": "Travel during renewal depends on the application route and whether your passport remains valid and available.",
   "placement": {
    "h2": 2,
    "para": 2

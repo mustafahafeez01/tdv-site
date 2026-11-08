@@ -24,7 +24,7 @@ Perjalanan internasional umumnya memerlukan paspor yang masih berlaku dan secara
 
 Bisa tidaknya Anda menggunakan paspor saat ini bergantung pada metode perpanjangan, tempat pengajuan, dan apakah paspor tersebut masih berlaku.
 
-![Diagram keputusan perpanjangan paspor, disembunyikan karena keterangan khusus tiap negara di dalamnya tidak akurat](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-id.jpg) Perjalanan selama perpanjangan bergantung pada cara pengajuan serta apakah paspor Anda masih berlaku dan tersedia untuk digunakan.
+![Diagram keputusan: sudah mengirimkan paspor Anda? Ya: tunggu paspor baru sebelum bepergian ke luar negeri. Tidak: apakah masih berlaku untuk perjalanan Anda? Lalu periksa aturan masuk negara tujuan. Perpanjang lebih awal agar tak terburu-buru](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-id.jpg) Bisa tidaknya bepergian selama perpanjangan bergantung pada prosedur pengajuan serta apakah paspor Anda masih berlaku dan tersedia.
 
 ## Amerika Serikat: Perpanjangan Lewat Pos
 

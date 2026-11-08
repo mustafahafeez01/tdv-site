@@ -50,7 +50,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/visa-vs-passport/
 
 一份签证也可能适用于多个国家：欧盟委员会说明，申根签证一般在整个申根区内有效。即使护照和签证都有效，仍须由边境主管机关决定是否准许入境。
 
-![护照和签证的手绘插图](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure-zh-Hans.jpg) 两份证件，两种作用——单凭有效护照并不等于获得入境许可。
+![对比图：护照证明您的身份和国籍，由本国签发；签证用于前往目的地并请求入境，由目的地签发，部分签证适用于多个国家。边检官员决定能否入境。免签旅行仍可能需要旅行授权](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure-zh-Hans.jpg) 两种证件，各有用途。能否入境，最终由边检官员决定。
 
 ## 签证类型因目的和时长而异
 

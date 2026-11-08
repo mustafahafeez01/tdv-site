@@ -24,7 +24,7 @@ Los viajes internacionales generalmente requieren que lleves contigo un pasaport
 
 Que puedas usar tu pasaporte actual depende del método de renovación, de dónde presentes la solicitud y de que siga siendo válido.
 
-![Diagrama sobre la renovación del pasaporte, oculto porque contiene indicaciones incorrectas para determinados países](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-es.jpg) Viajar durante la renovación depende del tipo de trámite y de que tu pasaporte siga siendo válido y esté disponible.
+![Diagrama de decisión: ¿has enviado tu pasaporte? Sí: espera al nuevo antes de viajar al extranjero. No: ¿sigue siendo válido para tu viaje? Después, consulta los requisitos de entrada del destino. Renuévalo con tiempo para evitar agobios](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-es.jpg) Viajar durante la renovación depende del trámite y de que tu pasaporte siga siendo válido y esté disponible.
 
 ## Estados Unidos: Renovación por correo
 

@@ -1,45 +1,45 @@
 {
- "sv": {
-  "template": "cards",
-  "title": "Det ena identifierar dig, det andra släpper in dig",
-  "cards": [
-   {
-    "heading": "Pass",
-    "items": [
-     {
-      "text": "Ditt eget land utfärdar det"
-     },
-     {
-      "text": "Bevisar vem du är"
-     },
-     {
-      "text": "Låter dig lämna hemlandet"
-     }
-    ]
-   },
-   {
-    "heading": "Visum",
-    "items": [
-     {
-      "text": "Resmålet utfärdar det"
-     },
-     {
-      "text": "Ger tillstånd att resa in"
-     },
-     {
-      "text": "Bara för det landet"
-     }
-    ]
-   }
-  ],
-  "link": "vs",
-  "note": "De flesta resor behöver båda",
-  "focal": "Ett giltigt pass är inte tillstånd att resa in",
-  "alt": "Jämförelsediagram över ett pass och ett visum: ditt eget land utfärdar passet, det bevisar vem du är och låter dig lämna hemlandet, medan resmålet utfärdar visumet, som ger tillstånd att resa in och bara gäller det landet, med en notering om att de flesta resor behöver båda",
-  "caption": "Två handlingar, två uppgifter - och ett giltigt pass ensamt är inte tillstånd att resa in.",
-  "placement": {
-   "h2": 5,
-   "para": 4
+  "sv": {
+    "template": "cards",
+    "title": "Två dokument, två uppgifter",
+    "cards": [
+      {
+        "heading": "Pass",
+        "items": [
+          {
+            "text": "Visar vem du är"
+          },
+          {
+            "text": "Visar ditt medborgarskap"
+          },
+          {
+            "text": "Utfärdas av ditt land"
+          }
+        ]
+      },
+      {
+        "heading": "Visum",
+        "items": [
+          {
+            "text": "Låter dig resa och begära inresa"
+          },
+          {
+            "text": "Utfärdas av resmålet"
+          },
+          {
+            "text": "Vissa gäller i flera länder"
+          }
+        ]
+      }
+    ],
+    "link": "mot",
+    "note": "Visumfritt? Du kan ändå behöva ett resetillstånd",
+    "focal": "Gränskontrollanten avgör",
+    "alt": "Jämförelse: ett pass visar vem du är och ditt medborgarskap och utfärdas av ditt land. Ett visum låter dig resa och begära inresa, utfärdas av resmålet och kan gälla i flera länder. Gränskontrollanten avgör. Även visumfria resor kan kräva resetillstånd",
+    "caption": "Två dokument, två uppgifter. Gränskontrollanten fattar det slutliga beslutet.",
+    "placement": {
+      "h2": 5,
+      "para": 4
+    }
   }
- }
 }

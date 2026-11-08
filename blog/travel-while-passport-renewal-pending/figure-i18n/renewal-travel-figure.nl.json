@@ -1,49 +1,33 @@
 {
- "nl": {
-  "template": "tree",
-  "title": "Verlengen: kun je nog reizen?",
-  "root": {
-   "heading": "Heb je het paspoort nog in handen?"
-  },
-  "branches": [
-   {
-    "edge": "Ja",
-    "edge_mark": "tick",
-    "heading": "Reis erop zolang het geldig blijft",
-    "tone": "good",
-    "items": [
-     {
-      "text": "Amerikaanse verlenging per post"
-     },
-     {
-      "text": "Britse digitale verlenging"
-     }
-    ]
-   },
-   {
-    "edge": "Nee",
-    "edge_mark": "cross",
-    "heading": "Ingeleverd: je wacht op het nieuwe",
-    "tone": "warn",
-    "items": [
-     {
-      "text": "Britse postale verlenging"
-     },
-     {
-      "text": "Australië"
-     },
-     {
-      "text": "Canada"
-     }
-    ]
-   }
-  ],
-  "focal": "Geen land laat je internationaal vliegen zonder paspoort in handen",
-  "alt": "Beslisboom: heb je het paspoort nog in handen? Ja - reis erop zolang het geldig blijft (Amerikaanse verlenging per post, Britse digitale verlenging). Nee - ingeleverd, je wacht op het nieuwe (Britse postale verlenging, Australië, Canada). Geen land laat je internationaal vliegen zonder paspoort in handen",
-  "caption": "Eén vraag beslist alles: of je oude paspoort nog in je bezit is.",
-  "placement": {
-   "h2": 2,
-   "para": 2
+  "nl": {
+    "template": "tree",
+    "title": "Reizen tijdens je paspoortvernieuwing",
+    "root": {
+      "heading": "Heb je je paspoort opgestuurd?"
+    },
+    "branches": [
+      {
+        "edge": "Ja",
+        "heading": "Wacht op het nieuwe vóór je naar het buitenland gaat",
+        "tone": "warn"
+      },
+      {
+        "edge": "Nee",
+        "heading": "Is het nog geldig voor je reis?",
+        "tone": "good",
+        "items": [
+          {
+            "text": "Controleer de inreisregels van je bestemming"
+          }
+        ]
+      }
+    ],
+    "focal": "Vernieuw op tijd om tijdsdruk te voorkomen",
+    "alt": "Beslisboom: heb je je paspoort opgestuurd? Ja: wacht op het nieuwe voordat je naar het buitenland reist. Nee: is het nog geldig voor je reis? Controleer daarna de inreisregels van je bestemming. Vernieuw op tijd om tijdsdruk te voorkomen",
+    "caption": "Of je tijdens de vernieuwing kunt reizen, hangt af van de aanvraagprocedure en of je paspoort geldig en beschikbaar blijft.",
+    "placement": {
+      "h2": 2,
+      "para": 2
+    }
   }
- }
 }

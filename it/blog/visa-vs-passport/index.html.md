@@ -50,7 +50,7 @@ La seconda è il viaggio senza visto. Quando una destinazione lascia entrare la 
 
 Un singolo visto può essere valido in più paesi: secondo la Commissione europea, un visto Schengen è generalmente valido in tutta l'area Schengen. Anche con passaporto e visto validi, l'ingresso resta soggetto alla decisione delle autorità di frontiera.
 
-![Illustrazioni di un passaporto e di un visto](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure-it.jpg) Due documenti, due compiti - e un passaporto valido da solo non è un permesso di ingresso.
+![Schema comparativo: il passaporto indica chi sei e la tua cittadinanza ed è rilasciato dal tuo Paese; il visto consente di viaggiare e chiedere l'ingresso, è rilasciato dalla destinazione e alcuni valgono per più Paesi. Decide l'agente di frontiera. Anche senza visto può servire un'autorizzazione di viaggio](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure-it.jpg) Due documenti, due funzioni. La decisione finale spetta all'agente di frontiera.
 
 ## I Tipi di Visto Variano per Scopo e Durata
 

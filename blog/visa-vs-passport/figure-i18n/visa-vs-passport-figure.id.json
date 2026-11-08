@@ -1,45 +1,45 @@
 {
- "id": {
-  "template": "cards",
-  "title": "Satu mengidentifikasi Anda, yang lain mengizinkan Anda masuk",
-  "cards": [
-   {
-    "heading": "Paspor",
-    "items": [
-     {
-      "text": "Diterbitkan oleh negara Anda sendiri"
-     },
-     {
-      "text": "Membuktikan identitas Anda"
-     },
-     {
-      "text": "Memungkinkan Anda meninggalkan negara sendiri"
-     }
-    ]
-   },
-   {
-    "heading": "Visa",
-    "items": [
-     {
-      "text": "Diterbitkan oleh negara tujuan"
-     },
-     {
-      "text": "Memberikan izin untuk masuk"
-     },
-     {
-      "text": "Hanya untuk satu negara itu"
-     }
-    ]
-   }
-  ],
-  "link": "vs",
-  "note": "Sebagian besar perjalanan memerlukan keduanya",
-  "focal": "Paspor yang berlaku bukan izin untuk masuk",
-  "alt": "Diagram perbandingan paspor dan visa: negara Anda sendiri menerbitkan paspor, yang membuktikan identitas Anda dan memungkinkan Anda meninggalkan negara sendiri, sementara negara tujuan menerbitkan visa, yang memberikan izin untuk masuk dan hanya berlaku untuk satu negara itu, dengan catatan bahwa sebagian besar perjalanan memerlukan keduanya",
-  "caption": "Dua dokumen, dua fungsi - dan paspor yang berlaku saja bukan izin untuk masuk.",
-  "placement": {
-   "h2": 5,
-   "para": 4
+  "id": {
+    "template": "cards",
+    "title": "Dua dokumen, dua fungsi",
+    "cards": [
+      {
+        "heading": "Paspor",
+        "items": [
+          {
+            "text": "Menunjukkan identitas Anda"
+          },
+          {
+            "text": "Menunjukkan kewarganegaraan Anda"
+          },
+          {
+            "text": "Diterbitkan oleh negara Anda"
+          }
+        ]
+      },
+      {
+        "heading": "Visa",
+        "items": [
+          {
+            "text": "Untuk bepergian dan memohon masuk"
+          },
+          {
+            "text": "Diterbitkan oleh negara tujuan"
+          },
+          {
+            "text": "Sebagian berlaku di beberapa negara"
+          }
+        ]
+      }
+    ],
+    "link": "dibanding",
+    "note": "Bebas visa? Otorisasi perjalanan mungkin tetap diperlukan",
+    "focal": "Petugas perbatasan yang memutuskan",
+    "alt": "Diagram perbandingan: paspor menunjukkan identitas dan kewarganegaraan Anda serta diterbitkan oleh negara Anda; visa memungkinkan Anda bepergian dan memohon masuk, diterbitkan oleh negara tujuan, dan sebagian berlaku di beberapa negara. Petugas perbatasan yang memutuskan. Perjalanan bebas visa mungkin tetap memerlukan otorisasi perjalanan",
+    "caption": "Dua dokumen, dua fungsi. Keputusan akhir ada pada petugas perbatasan.",
+    "placement": {
+      "h2": 5,
+      "para": 4
+    }
   }
- }
 }

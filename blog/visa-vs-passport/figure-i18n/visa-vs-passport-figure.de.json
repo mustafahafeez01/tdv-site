@@ -1,45 +1,45 @@
 {
- "de": {
-  "template": "cards",
-  "title": "Das eine weist Sie aus, das andere lässt Sie ein",
-  "cards": [
-   {
-    "heading": "Reisepass",
-    "items": [
-     {
-      "text": "Ihr eigenes Land stellt ihn aus"
-     },
-     {
-      "text": "Belegt, wer Sie sind"
-     },
-     {
-      "text": "Lässt Sie Ihr Land verlassen"
-     }
-    ]
-   },
-   {
-    "heading": "Visum",
-    "items": [
-     {
-      "text": "Das Zielland stellt es aus"
-     },
-     {
-      "text": "Gewährt die Einreiseerlaubnis"
-     },
-     {
-      "text": "Nur für dieses eine Land"
-     }
-    ]
-   }
-  ],
-  "link": "vs",
-  "note": "Die meisten Reisen brauchen beides",
-  "focal": "Ein gültiger Reisepass ist keine Einreiseerlaubnis",
-  "alt": "Vergleichsdiagramm von Reisepass und Visum: Ihr eigenes Land stellt den Reisepass aus, er belegt, wer Sie sind, und lässt Sie Ihr Land verlassen, während das Zielland das Visum ausstellt, das die Einreiseerlaubnis gewährt und nur für dieses eine Land gilt, mit dem Hinweis, dass die meisten Reisen beides brauchen",
-  "caption": "Zwei Dokumente, zwei Aufgaben – und ein gültiger Reisepass allein ist keine Einreiseerlaubnis.",
-  "placement": {
-   "h2": 5,
-   "para": 4
+  "de": {
+    "template": "cards",
+    "title": "Zwei Dokumente, zwei Aufgaben",
+    "cards": [
+      {
+        "heading": "Reisepass",
+        "items": [
+          {
+            "text": "Zeigt Ihre Identität"
+          },
+          {
+            "text": "Zeigt Ihre Staatsangehörigkeit"
+          },
+          {
+            "text": "Von Ihrem Land ausgestellt"
+          }
+        ]
+      },
+      {
+        "heading": "Visum",
+        "items": [
+          {
+            "text": "Ermöglicht Reise und Einreisegesuch"
+          },
+          {
+            "text": "Vom Reiseziel ausgestellt"
+          },
+          {
+            "text": "Manche gelten für mehrere Länder"
+          }
+        ]
+      }
+    ],
+    "link": "vs.",
+    "note": "Visumfrei? Eine Reisegenehmigung kann nötig sein",
+    "focal": "Der Grenzbeamte entscheidet",
+    "alt": "Vergleich: Der Reisepass zeigt Ihre Identität und Staatsangehörigkeit und wird von Ihrem Land ausgestellt. Ein Visum ermöglicht es, zu reisen und um Einreise zu ersuchen. Es wird vom Reiseziel ausgestellt; manche Visa gelten für mehrere Länder. Der Grenzbeamte entscheidet. Auch visumfreie Reisen können eine Reisegenehmigung erfordern",
+    "caption": "Zwei Dokumente, zwei Aufgaben. Die endgültige Entscheidung trifft der Grenzbeamte.",
+    "placement": {
+      "h2": 5,
+      "para": 4
+    }
   }
- }
 }

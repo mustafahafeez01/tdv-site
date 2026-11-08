@@ -1,49 +1,33 @@
 {
- "sv": {
-  "template": "tree",
-  "title": "Förnyelse: kan du fortfarande resa?",
-  "root": {
-   "heading": "Är passet fortfarande i din hand?"
-  },
-  "branches": [
-   {
-    "edge": "Ja",
-    "edge_mark": "tick",
-    "heading": "Res på det medan det är giltigt",
-    "tone": "good",
-    "items": [
-     {
-      "text": "USA:s postförnyelse"
-     },
-     {
-      "text": "Storbritanniens digitala förnyelse"
-     }
-    ]
-   },
-   {
-    "edge": "Nej",
-    "edge_mark": "cross",
-    "heading": "Inlämnat: du väntar på det nya",
-    "tone": "warn",
-    "items": [
-     {
-      "text": "Storbritanniens postförnyelse"
-     },
-     {
-      "text": "Australien"
-     },
-     {
-      "text": "Kanada"
-     }
-    ]
-   }
-  ],
-  "focal": "Inget land låter dig flyga internationellt utan ett pass i handen",
-  "alt": "Beslutsträd: är passet fortfarande i din hand? Ja - res på det medan det är giltigt (USA:s postförnyelse, Storbritanniens digitala förnyelse). Nej - inlämnat, du väntar på det nya (Storbritanniens postförnyelse, Australien, Kanada). Inget land låter dig flyga internationellt utan ett pass i handen",
-  "caption": "En fråga avgör allt: om ditt gamla pass fortfarande är i din ägo.",
-  "placement": {
-   "h2": 2,
-   "para": 2
+  "sv": {
+    "template": "tree",
+    "title": "Resa medan passet förnyas",
+    "root": {
+      "heading": "Har du skickat in ditt pass?"
+    },
+    "branches": [
+      {
+        "edge": "Ja",
+        "heading": "Vänta på det nya innan du reser utomlands",
+        "tone": "warn"
+      },
+      {
+        "edge": "Nej",
+        "heading": "Är det fortfarande giltigt för resan?",
+        "tone": "good",
+        "items": [
+          {
+            "text": "Kontrollera resmålets inreseregler"
+          }
+        ]
+      }
+    ],
+    "focal": "Förnya i god tid för att slippa stress",
+    "alt": "Beslutsträd: har du skickat in ditt pass? Ja: vänta på det nya innan du reser utomlands. Nej: är det fortfarande giltigt för resan? Kontrollera sedan resmålets inreseregler. Förnya i god tid för att slippa stress",
+    "caption": "Om du kan resa under förnyelsen beror på hur du ansöker och om ditt pass fortfarande är giltigt och tillgängligt.",
+    "placement": {
+      "h2": 2,
+      "para": 2
+    }
   }
- }
 }

@@ -50,7 +50,7 @@ Source: https://traveldocumentvault.com/ja/blog/visa-vs-passport/
 
 一つのビザが複数の国で使えることもあります。欧州委員会によると、シェンゲンビザは原則としてシェンゲン圏全域で有効です。ただし、有効なパスポートとビザを持っていても、入国には国境当局の判断が必要です。
 
-![パスポートとビザの手描きイラスト](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure-ja.jpg) 二つの書類、二つの役割。有効なパスポートだけでは入国を認められない
+![比較図：パスポートは身元と国籍を示し、自国が発行します。ビザは渡航して入国を求めるためのもので、渡航先が発行し、複数の国で有効なものもあります。入国審査官が判断します。ビザ免除の旅行でも渡航認証が必要な場合があります](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure-ja.jpg) 2つの書類にはそれぞれの役割があり、最終的な判断は入国審査官が行います。
 
 ## ビザの種類は、目的と期間によって異なります
 

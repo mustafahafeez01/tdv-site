@@ -24,7 +24,7 @@ Für internationale Reisen benötigen Sie in der Regel einen gültigen Pass, den
 
 Ob Sie Ihren aktuellen Pass nutzen können, hängt vom Erneuerungsverfahren, vom Ort der Antragstellung und davon ab, ob er gültig bleibt.
 
-![Entscheidungsdiagramm zur Passerneuerung, ausgeblendet wegen fehlerhafter länderspezifischer Beschriftungen](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-de.jpg) Reisen während der Passerneuerung hängen vom Antragsverfahren ab und davon, ob Ihr Pass gültig und verfügbar bleibt.
+![Entscheidungsbaum: Haben Sie Ihren Pass eingeschickt? Ja: Warten Sie vor Auslandsreisen auf den neuen Pass. Nein: Ist er für Ihre Reise noch gültig? Prüfen Sie dann die Einreiseregeln am Reiseziel. Erneuern Sie frühzeitig, um Zeitdruck zu vermeiden](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-de.jpg) Ob Sie während der Erneuerung reisen können, hängt vom Antragsverfahren ab und davon, ob Ihr Pass gültig und verfügbar bleibt.
 
 ## Vereinigte Staaten: Erneuerung per Post
 

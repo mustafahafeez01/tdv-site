@@ -1,45 +1,45 @@
 {
- "da": {
-  "template": "cards",
-  "title": "Ét viser hvem du er, det andet lader dig ind",
-  "cards": [
-   {
-    "heading": "Pas",
-    "items": [
-     {
-      "text": "Dit eget land udsteder det"
-     },
-     {
-      "text": "Beviser, hvem du er"
-     },
-     {
-      "text": "Lader dig rejse ud fra dit hjemland"
-     }
-    ]
-   },
-   {
-    "heading": "Visum",
-    "items": [
-     {
-      "text": "Destinationen udsteder det"
-     },
-     {
-      "text": "Giver tilladelse til at rejse ind"
-     },
-     {
-      "text": "Kun gyldigt for det ene land"
-     }
-    ]
-   }
-  ],
-  "link": "vs",
-  "note": "De fleste rejser kræver begge",
-  "focal": "Et gyldigt pas er ikke tilladelse til indrejse",
-  "alt": "Sammenligningsdiagram af et pas og et visum: dit eget land udsteder passet, det beviser, hvem du er, og lader dig rejse ud fra dit hjemland, mens destinationen udsteder visummet, som giver tilladelse til indrejse og kun gælder for det ene land, med en note om, at de fleste rejser kræver begge",
-  "caption": "To dokumenter, to opgaver – og et gyldigt pas alene er ikke tilladelse til indrejse.",
-  "placement": {
-   "h2": 5,
-   "para": 4
+  "da": {
+    "template": "cards",
+    "title": "To dokumenter, to opgaver",
+    "cards": [
+      {
+        "heading": "Pas",
+        "items": [
+          {
+            "text": "Viser, hvem du er"
+          },
+          {
+            "text": "Viser dit statsborgerskab"
+          },
+          {
+            "text": "Udstedt af dit land"
+          }
+        ]
+      },
+      {
+        "heading": "Visum",
+        "items": [
+          {
+            "text": "Lader dig rejse og anmode om indrejse"
+          },
+          {
+            "text": "Udstedt af rejsemålet"
+          },
+          {
+            "text": "Nogle gælder i flere lande"
+          }
+        ]
+      }
+    ],
+    "link": "over for",
+    "note": "Visumfri? Du kan stadig få brug for en rejsetilladelse",
+    "focal": "Grænsebetjenten afgør det",
+    "alt": "Sammenligning: et pas viser, hvem du er, og dit statsborgerskab og udstedes af dit land. Et visum lader dig rejse og anmode om indrejse, udstedes af rejsemålet, og nogle gælder i flere lande. Grænsebetjenten afgør det. Visumfri rejser kan stadig kræve en rejsetilladelse",
+    "caption": "To dokumenter, to opgaver. Grænsebetjenten træffer den endelige afgørelse.",
+    "placement": {
+      "h2": 5,
+      "para": 4
+    }
   }
- }
 }

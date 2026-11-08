@@ -24,7 +24,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/travel-while-passport-renew
 
 能否使用现有护照，取决于换发方式、申请地点，以及护照是否仍然有效。
 
-![护照换发决策图，因图中各国换发流程的标注不准确而隐藏](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-zh-Hans.jpg) 换发期间能否出行，取决于申请方式，以及护照是否仍然有效并可供使用。
+![决策图：您是否已交出护照？是：收到新护照后再出国。否：护照有效期仍符合本次旅行要求吗？随后核查目的地的入境规定。提前换发，出行更从容](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-zh-Hans.jpg) 换发期间能否出行，取决于申请方式，以及护照是否仍然有效且可供使用。
 
 ## 美国：邮件更新
 

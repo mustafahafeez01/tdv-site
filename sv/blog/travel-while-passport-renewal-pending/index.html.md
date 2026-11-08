@@ -24,7 +24,7 @@ Utrikesresor kräver i regel att du har ett giltigt pass med dig. En förnyelsea
 
 Om du kan använda ditt nuvarande pass beror på hur och var du ansöker och om passet fortfarande är giltigt.
 
-![Beslutsdiagram för passförnyelse, dolt eftersom uppgifterna om förnyelse i olika länder är felaktiga](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-sv.jpg) Resor under förnyelsen beror på hur du ansöker och om passet fortfarande är giltigt och finns till hands.
+![Beslutsträd: har du skickat in ditt pass? Ja: vänta på det nya innan du reser utomlands. Nej: är det fortfarande giltigt för resan? Kontrollera sedan resmålets inreseregler. Förnya i god tid för att slippa stress](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-sv.jpg) Om du kan resa under förnyelsen beror på hur du ansöker och om ditt pass fortfarande är giltigt och tillgängligt.
 
 ## USA: Förnyelse per post
 

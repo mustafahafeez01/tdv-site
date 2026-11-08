@@ -1,49 +1,33 @@
 {
- "pt": {
-  "template": "tree",
-  "title": "Renovação: ainda pode viajar?",
-  "root": {
-   "heading": "O passaporte ainda está consigo?"
-  },
-  "branches": [
-   {
-    "edge": "Sim",
-    "edge_mark": "tick",
-    "heading": "Viaje com ele enquanto for válido",
-    "tone": "good",
-    "items": [
-     {
-      "text": "Renovação por correio nos EUA"
-     },
-     {
-      "text": "Renovação digital no Reino Unido"
-     }
-    ]
-   },
-   {
-    "edge": "Não",
-    "edge_mark": "cross",
-    "heading": "Entregue: espera pelo novo",
-    "tone": "warn",
-    "items": [
-     {
-      "text": "Renovação por correio no Reino Unido"
-     },
-     {
-      "text": "Austrália"
-     },
-     {
-      "text": "Canadá"
-     }
-    ]
-   }
-  ],
-  "focal": "Nenhum país permite voar sem passaporte em mãos",
-  "alt": "Árvore de decisão: o passaporte ainda está consigo? Sim - viaje com ele enquanto for válido (renovação por correio nos EUA, renovação digital no Reino Unido). Não - entregue, espera pelo novo (renovação por correio no Reino Unido, Austrália, Canadá). Nenhum país permite voar internacionalmente sem um passaporte em mãos",
-  "caption": "Uma pergunta decide tudo: se o seu passaporte antigo ainda está na sua posse.",
-  "placement": {
-   "h2": 2,
-   "para": 2
+  "pt": {
+    "template": "tree",
+    "title": "Viajar durante a renovação",
+    "root": {
+      "heading": "Enviou o seu passaporte?"
+    },
+    "branches": [
+      {
+        "edge": "Sim",
+        "heading": "Espere pelo novo antes de viajar para o estrangeiro",
+        "tone": "warn"
+      },
+      {
+        "edge": "Não",
+        "heading": "Ainda é válido para a sua viagem?",
+        "tone": "good",
+        "items": [
+          {
+            "text": "Consulte as regras de entrada no destino"
+          }
+        ]
+      }
+    ],
+    "focal": "Renove com antecedência para evitar preocupações",
+    "alt": "Diagrama de decisão: enviou o seu passaporte? Sim: espere pelo novo antes de viajar para o estrangeiro. Não: ainda é válido para a sua viagem? Depois, consulte as regras de entrada no destino. Renove com antecedência para evitar preocupações",
+    "caption": "Viajar durante a renovação depende do processo de pedido e de o seu passaporte continuar válido e disponível.",
+    "placement": {
+      "h2": 2,
+      "para": 2
+    }
   }
- }
 }

@@ -24,7 +24,7 @@ Voor internationale reizen heb je doorgaans een geldig paspoort nodig dat je fys
 
 Of je je huidige paspoort kunt gebruiken, hangt af van je aanvraagmethode, waar je de aanvraag indient en of het paspoort geldig blijft.
 
-![Beslisdiagram over paspoortverlenging, verborgen omdat de landspecifieke teksten onjuist zijn](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-nl.jpg) Reizen tijdens de verlenging hangt af van je aanvraagmethode en of je paspoort geldig en beschikbaar blijft.
+![Beslisboom: heb je je paspoort opgestuurd? Ja: wacht op het nieuwe voordat je naar het buitenland reist. Nee: is het nog geldig voor je reis? Controleer daarna de inreisregels van je bestemming. Vernieuw op tijd om tijdsdruk te voorkomen](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-nl.jpg) Of je tijdens de vernieuwing kunt reizen, hangt af van de aanvraagprocedure en of je paspoort geldig en beschikbaar blijft.
 
 ## Verenigde Staten: verlenging per post
 

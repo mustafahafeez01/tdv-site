@@ -24,7 +24,7 @@ As viagens internacionais geralmente exigem um passaporte válido fisicamente na
 
 A possibilidade de usar o passaporte atual depende do método de renovação, do local onde apresenta o pedido e de o passaporte continuar válido.
 
-![Diagrama de decisão sobre a renovação do passaporte, oculto porque as indicações por país estão incorretas](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-pt.jpg) Viajar durante a renovação depende do tipo de pedido e de o passaporte continuar válido e disponível.
+![Diagrama de decisão: enviou o seu passaporte? Sim: espere pelo novo antes de viajar para o estrangeiro. Não: ainda é válido para a sua viagem? Depois, consulte as regras de entrada no destino. Renove com antecedência para evitar preocupações](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-pt.jpg) Viajar durante a renovação depende do processo de pedido e de o seu passaporte continuar válido e disponível.
 
 ## Estados Unidos: Renovação por Correio
 

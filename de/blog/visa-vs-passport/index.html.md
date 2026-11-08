@@ -50,7 +50,7 @@ Das zweite ist visumfreies Reisen. Wenn ein Zielland Ihre Staatsangehörigkeit o
 
 Ein einziges Visum kann für mehrere Länder gelten: Nach Angaben der Europäischen Kommission ist ein Schengen-Visum grundsätzlich im gesamten Schengen-Raum gültig. Auch mit gültigem Reisepass und Visum entscheiden die Grenzbehörden, ob Sie einreisen dürfen.
 
-![Handgezeichnete Illustrationen eines Reisepasses und eines Visums](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure-de.jpg) Zwei Dokumente, zwei Aufgaben – und ein gültiger Reisepass allein ist keine Einreiseerlaubnis.
+![Vergleich: Der Reisepass zeigt Ihre Identität und Staatsangehörigkeit und wird von Ihrem Land ausgestellt. Ein Visum ermöglicht es, zu reisen und um Einreise zu ersuchen. Es wird vom Reiseziel ausgestellt; manche Visa gelten für mehrere Länder. Der Grenzbeamte entscheidet. Auch visumfreie Reisen können eine Reisegenehmigung erfordern](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure-de.jpg) Zwei Dokumente, zwei Aufgaben. Die endgültige Entscheidung trifft der Grenzbeamte.
 
 ## Visaarten unterscheiden sich nach Zweck und Dauer
 

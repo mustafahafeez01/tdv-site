@@ -50,7 +50,7 @@ La segunda es la exención de visado. Cuando un destino deja entrar a tu naciona
 
 Una misma visa puede abarcar varios países: según la Comisión Europea, una visa Schengen suele ser válida en todo el espacio Schengen. Aun con un pasaporte y una visa válidos, las autoridades fronterizas deben autorizar tu entrada.
 
-![Ilustraciones de un pasaporte y una visa](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure-es.jpg) Dos documentos, dos funciones: un pasaporte válido, por sí solo, no es permiso para entrar.
+![Diagrama comparativo: el pasaporte indica quién eres y tu nacionalidad, y lo expide tu país; el visado permite viajar y solicitar la entrada, lo expide el destino y algunos cubren varios países. Decide el agente fronterizo. Los viajes sin visado pueden requerir una autorización de viaje](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure-es.jpg) Dos documentos, dos funciones. El agente fronterizo toma la decisión final.
 
 ## Los Tipos de Visa Varían según el Propósito y la Duración
 

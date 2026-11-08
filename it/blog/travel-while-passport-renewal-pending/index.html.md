@@ -24,7 +24,7 @@ Per i viaggi internazionali serve generalmente un passaporto valido da portare c
 
 La possibilità di usare il passaporto attuale dipende dalla modalità di rinnovo, dal luogo in cui fai domanda e dal fatto che resti valido.
 
-![Schema sul rinnovo del passaporto, nascosto perché le indicazioni sul rinnovo nei singoli paesi sono inesatte](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-it.jpg) La possibilità di viaggiare durante il rinnovo dipende dalla procedura e dal fatto che il passaporto resti valido e disponibile.
+![Diagramma decisionale: hai inviato il passaporto? Sì: aspetta quello nuovo prima di viaggiare all'estero. No: è ancora valido per il tuo viaggio? Poi verifica i requisiti d'ingresso a destinazione. Rinnovalo per tempo per evitare lo stress](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-it.jpg) Viaggiare durante il rinnovo dipende dalla procedura di richiesta e dal fatto che il passaporto resti valido e disponibile.
 
 ## Stati Uniti: rinnovo per posta
 

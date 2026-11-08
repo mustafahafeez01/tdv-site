@@ -24,7 +24,7 @@ Udenrigsrejser kræver som regel, at du har et gyldigt pas fysisk i din besiddel
 
 Om du kan bruge dit nuværende pas, afhænger af, hvordan du fornyer det, hvor du ansøger, og om det stadig er gyldigt.
 
-![Beslutningsdiagram om pasfornyelse, skjult fordi de landespecifikke oplysninger er forkerte](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-da.jpg) Rejser under fornyelsen afhænger af, hvordan du ansøger, og om passet stadig er gyldigt og til rådighed.
+![Beslutningstræ: har du sendt dit pas ind? Ja: vent på det nye, før du rejser til udlandet. Nej: er det stadig gyldigt til din rejse? Tjek derefter indrejsereglerne på rejsemålet. Forny i god tid og undgå tidspres](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-da.jpg) Om du kan rejse under fornyelsen, afhænger af ansøgningsmåden, og om dit pas stadig er gyldigt og tilgængeligt.
 
 ## USA: Fornyelse med post
 

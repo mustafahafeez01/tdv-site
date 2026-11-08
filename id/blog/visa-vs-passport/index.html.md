@@ -50,7 +50,7 @@ Kedua adalah perjalanan bebas visa. Ketika negara tujuan mengizinkan kewarganega
 
 Satu visa bisa mencakup beberapa negara: menurut Komisi Eropa, visa Schengen umumnya berlaku di seluruh wilayah Schengen. Anda tetap memerlukan persetujuan petugas perbatasan untuk masuk, meskipun paspor dan visa Anda masih berlaku.
 
-![Ilustrasi paspor dan visa](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure-id.jpg) Dua dokumen, dua fungsi - dan paspor yang berlaku saja bukan izin untuk masuk.
+![Diagram perbandingan: paspor menunjukkan identitas dan kewarganegaraan Anda serta diterbitkan oleh negara Anda; visa memungkinkan Anda bepergian dan memohon masuk, diterbitkan oleh negara tujuan, dan sebagian berlaku di beberapa negara. Petugas perbatasan yang memutuskan. Perjalanan bebas visa mungkin tetap memerlukan otorisasi perjalanan](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure-id.jpg) Dua dokumen, dua fungsi. Keputusan akhir ada pada petugas perbatasan.
 
 ## Jenis Visa Berbeda-beda menurut Tujuan dan Lama Tinggal
 

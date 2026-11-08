@@ -50,7 +50,7 @@ Den andra är visumfria resor. När ett resmål släpper in ditt medborgarskap u
 
 Ett och samma visum kan gälla i flera länder. Enligt EU-kommissionen gäller ett Schengenvisum i regel i hela Schengenområdet. Även med giltigt pass och visum behöver du godkännas för inresa av gränsmyndigheterna.
 
-![Illustrationer av ett pass och ett visum](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure-sv.jpg) Två handlingar, två uppgifter - och ett giltigt pass ensamt är inte tillstånd att resa in.
+![Jämförelse: ett pass visar vem du är och ditt medborgarskap och utfärdas av ditt land. Ett visum låter dig resa och begära inresa, utfärdas av resmålet och kan gälla i flera länder. Gränskontrollanten avgör. Även visumfria resor kan kräva resetillstånd](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure-sv.jpg) Två dokument, två uppgifter. Gränskontrollanten fattar det slutliga beslutet.
 
 ## Visumtyper varierar efter syfte och längd
 

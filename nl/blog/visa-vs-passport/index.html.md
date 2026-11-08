@@ -50,7 +50,7 @@ Het tweede is visumvrij reizen. Wanneer een bestemming jouw nationaliteit zonder
 
 Eén visum kan voor meerdere landen gelden: volgens de Europese Commissie is een Schengenvisum over het algemeen geldig in het hele Schengengebied. Ook met een geldig paspoort en visum beslissen de grensautoriteiten nog of je wordt toegelaten.
 
-![Illustraties van een paspoort en een visum](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure-nl.jpg) Twee documenten, twee functies - en een geldig paspoort alleen is geen toestemming om binnen te komen.
+![Vergelijking: een paspoort toont wie je bent en je nationaliteit en wordt afgegeven door je eigen land. Met een visum kun je reizen en om toegang vragen. Het wordt afgegeven door je bestemming en sommige visa gelden voor meerdere landen. De grensbeambte beslist. Ook voor visumvrije reizen kan een reistoestemming nodig zijn](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure-nl.jpg) Twee documenten, twee functies. De grensbeambte neemt de uiteindelijke beslissing.
 
 ## Visa verschillen naar doel en duur
 

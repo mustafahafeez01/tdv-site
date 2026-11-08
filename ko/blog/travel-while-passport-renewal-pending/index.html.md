@@ -24,7 +24,7 @@ Source: https://traveldocumentvault.com/ko/blog/travel-while-passport-renewal-pe
 
 현재 여권을 사용할 수 있는지는 갱신 방법과 신청 장소, 여권이 여전히 유효한지에 따라 달라집니다.
 
-![국가별 갱신 안내에 오류가 있어 숨김 처리한 여권 갱신 의사결정 도표](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-ko.jpg) 갱신 중 여행 가능 여부는 신청 방법과 여권의 유효성, 보유 여부에 따라 달라집니다.
+![의사결정 도표: 여권을 제출하셨습니까? 예: 새 여권을 받은 뒤 출국하십시오. 아니요: 이번 여행에 필요한 유효기간이 남아 있습니까? 이어서 목적지의 입국 요건을 확인하십시오. 미리 갱신해 여유롭게 준비하십시오](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-ko.jpg) 갱신 중 여행 가능 여부는 신청 방식과 여권이 계속 유효하며 사용 가능한지에 따라 달라집니다.
 
 ## 미국: 우편 갱신
 

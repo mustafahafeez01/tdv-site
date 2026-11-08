@@ -1,19 +1,19 @@
 {
  "en": {
   "template": "cards",
-  "title": "One identifies you, the other admits you",
+  "title": "Two documents, two jobs",
   "cards": [
    {
     "heading": "Passport",
     "items": [
      {
-      "text": "Your own country issues it"
+      "text": "Shows who you are"
      },
      {
-      "text": "Proves who you are"
+      "text": "Shows your nationality"
      },
      {
-      "text": "Lets you leave home"
+      "text": "Issued by your country"
      }
     ]
    },
@@ -21,22 +21,22 @@
     "heading": "Visa",
     "items": [
      {
-      "text": "The destination issues it"
+      "text": "Lets you travel and ask to enter"
      },
      {
-      "text": "Grants permission to enter"
+      "text": "Issued by the destination"
      },
      {
-      "text": "Only for that one country"
+      "text": "Some cover several countries"
      }
     ]
    }
   ],
   "link": "vs",
-  "note": "Most trips need both",
-  "focal": "A valid passport is not permission to enter",
-  "alt": "Comparison diagram of a passport and a visa: your own country issues the passport, it proves who you are and lets you leave home, while the destination issues the visa, which grants permission to enter and covers only that one country, with a note that most trips need both",
-  "caption": "Two documents, two jobs - and a valid passport on its own is not permission to enter.",
+  "note": "Visa-free? You may still need a travel authorisation",
+  "focal": "The border officer decides",
+  "alt": "Comparison diagram: a passport shows who you are and your nationality and is issued by your country; a visa lets you travel and ask to enter, is issued by the destination, and some cover several countries. The border officer decides. Visa-free trips may still need a travel authorisation",
+  "caption": "Two documents, two jobs - and the border officer makes the final call.",
   "placement": {
    "h2": 5,
    "para": 4

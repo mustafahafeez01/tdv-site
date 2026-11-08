@@ -50,7 +50,7 @@ Den anden er visumfri rejse. Når en destination lader rejsende med din national
 
 Et enkelt visum kan gælde for flere lande: Ifølge Europa-Kommissionen gælder et Schengenvisum som regel i hele Schengenområdet. Du skal stadig have grænsemyndighedernes tilladelse til at rejse ind, selv med et gyldigt pas og visum.
 
-![Illustrationer af et pas og et visum](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure-da.jpg) To dokumenter, to opgaver – og et gyldigt pas alene er ikke tilladelse til indrejse.
+![Sammenligning: et pas viser, hvem du er, og dit statsborgerskab og udstedes af dit land. Et visum lader dig rejse og anmode om indrejse, udstedes af rejsemålet, og nogle gælder i flere lande. Grænsebetjenten afgør det. Visumfri rejser kan stadig kræve en rejsetilladelse](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure-da.jpg) To dokumenter, to opgaver. Grænsebetjenten træffer den endelige afgørelse.
 
 ## Visumtyper varierer efter formål og varighed
 

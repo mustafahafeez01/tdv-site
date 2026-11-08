@@ -24,7 +24,7 @@ Source: https://traveldocumentvault.com/ja/blog/travel-while-passport-renewal-pe
 
 現在のパスポートを使えるかどうかは、更新方法、申請する場所、パスポートが引き続き有効かどうかによって異なります。
 
-![パスポート更新中の渡航可否を示す判断図。国別の更新手続きに関する記載が不正確なため非表示](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-ja.jpg) 更新中に渡航できるかは、申請方法と、パスポートが引き続き有効で手元にあるかによって異なります。
+![判断フロー：パスポートを提出しましたか？ はい：新しいパスポートを受け取ってから海外へ。いいえ：旅行に必要な有効期間は残っていますか？ そのうえで渡航先の入国要件を確認してください。早めの更新で余裕を持って準備しましょう](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-ja.jpg) 更新中に旅行できるかどうかは、申請方法と、パスポートが引き続き有効で手元にあるかによって異なります。
 
 ## アメリカ合衆国の郵送更新
 

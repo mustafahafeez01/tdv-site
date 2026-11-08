@@ -24,7 +24,7 @@ Un voyage international nécessite généralement un passeport valide que vous a
 
 La possibilité d'utiliser votre passeport actuel dépend de la démarche de renouvellement, du lieu où vous déposez votre demande et de sa validité.
 
-![Schéma de décision sur le renouvellement du passeport, masqué car les indications propres à chaque pays sont inexactes](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-fr.jpg) Voyager pendant le renouvellement dépend de la démarche suivie et de la validité de votre passeport, qui doit rester à votre disposition.
+![Arbre de décision : avez-vous envoyé votre passeport ? Oui : attendez le nouveau avant de partir à l'étranger. Non : est-il encore valable pour ce voyage ? Vérifiez ensuite les règles d'entrée à destination. Renouvelez-le tôt pour partir l'esprit tranquille](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-fr.jpg) Voyager pendant le renouvellement dépend de la procédure suivie et de la validité et de la disponibilité de votre passeport.
 
 ## États-Unis : Renouvellement par courrier
 
