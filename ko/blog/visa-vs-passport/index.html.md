@@ -22,7 +22,7 @@ Source: https://traveldocumentvault.com/ko/blog/visa-vs-passport/
 
 여권에는 이름, 생년월일, 사진, 고유한 여권 번호가 기재되어 있으며, 신원과 국적을 확인하는 데 사용됩니다. 일반적으로 본인이 국적을 보유한 국가에서 발급하며, 그 국가는 현재 거주하는 국가와 다를 수 있습니다.
 
-여권은 국제 여행을 위한 공식 신분증 역할을 합니다. 대부분의 국제 여행에서는 출국하고 외국에서 입국이 허용되려면 여권이 필요합니다. 다만 유럽 내 국가 신분증이나 육로·해상 국경에서의 [미국 여권 카드](https://www.cbp.gov/travel/us-citizens/western-hemisphere-travel-initiative)처럼 다른 서류를 받아주는 지역도 있습니다. 입국 심사관은 국경에서 여권을 검사하고, 항공사는 국제선 탑승을 위해 요구하며, 세관 담당자는 입국 시 확인합니다.
+여권은 국제 여행을 위한 공식 신분증 역할을 합니다. 대부분의 국제 여행에서는 출국하고 외국에서 입국이 허용되려면 여권이 필요합니다. 다만 [유럽 내 국가 신분증](https://traveldocumentvault.com/ko/blog/national-id-card-travel-europe/)이나 육로·해상 국경에서의 [미국 여권 카드](https://www.cbp.gov/travel/us-citizens/western-hemisphere-travel-initiative)처럼 다른 서류를 받아주는 지역도 있습니다. 입국 심사관은 국경에서 여권을 검사하고, 항공사는 국제선 탑승을 위해 요구하며, 세관 담당자는 입국 시 확인합니다.
 
 여권의 유효 기간은 발급 기관에 따라 다릅니다. 영국을 예로 들면, 영국 여권청(HM Passport Office)이 발급하는 일반 여권의 유효 기간은 성인 10년, 어린이 5년입니다. 여권이 만료되면 국제 여행을 할 수 없으며 갱신을 신청해야 합니다. 많은 국가에서 입국 전 [최소 6개월의 유효 기간이 남아 있어야](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements) 하므로 여권 만료일을 추적하는 것은 중요합니다.
 

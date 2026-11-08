@@ -54,7 +54,7 @@ Las fronteras quieren documentos originales, pero si esos originales desaparecen
 
 ### Lleva estos originales en tu equipaje de mano
 
-- Pasaporte (nunca en equipaje facturado)
+- Pasaporte (nunca en equipaje facturado) o, dentro de Europa, un [documento de identidad nacional del EEE](https://traveldocumentvault.com/es/blog/national-id-card-travel-europe/) donde se acepte
 - Documentos de visa o autorización de entrada
 - Pases de abordar (impresos o en tu teléfono)
 - Certificado de seguro de viaje (si tienes una copia física)

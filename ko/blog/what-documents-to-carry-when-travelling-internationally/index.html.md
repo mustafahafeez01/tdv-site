@@ -54,7 +54,7 @@ Source: https://traveldocumentvault.com/ko/blog/what-documents-to-carry-when-tra
 
 ### 이 원본들을 손수하물에 휴대하세요
 
-- 여권 (수하물에 절대 넣지 마세요)
+- 여권 (수하물에 절대 넣지 마세요) 또는 유럽 내에서 인정되는 경우 [EEA 국민 ID 카드](https://traveldocumentvault.com/ko/blog/national-id-card-travel-europe/)
 - 비자 또는 입국 허가 서류
 - 탑승권 (인쇄본 또는 휴대폰)
 - 여행 보험 증명서 (물리적 사본이 있는 경우)

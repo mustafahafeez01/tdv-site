@@ -54,7 +54,7 @@ Grenzen erfordern Original-Dokumente, aber wenn diese verschwinden, helfen siche
 
 ### Mitnehmen Sie diese Originale im Handgepäck
 
-- Reisepass (nie im aufgegebenen Gepäck)
+- Reisepass (nie im aufgegebenen Gepäck) – oder innerhalb Europas ein [EWR-Personalausweis](https://traveldocumentvault.com/de/blog/national-id-card-travel-europe/), wo er akzeptiert wird
 - Visum oder Einreisegenehmigungsdokumente
 - Bordkarten (gedruckt oder auf Ihrem Telefon)
 - Reiseversicherungszertifikat (falls Sie eine physische Kopie haben)

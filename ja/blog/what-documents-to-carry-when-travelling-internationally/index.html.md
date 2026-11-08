@@ -54,7 +54,7 @@ Source: https://traveldocumentvault.com/ja/blog/what-documents-to-carry-when-tra
 
 ### これらのオリジナルを機内持ち込み荷物に携帯してください
 
-- パスポート（預け荷物にはもう入れないでください）
+- パスポート（預け荷物にはもう入れないでください）、またはヨーロッパ域内で認められる場合は[EEA国民IDカード](https://traveldocumentvault.com/ja/blog/national-id-card-travel-europe/)
 - ビザまたは入国許可書
 - 搭乗券（印刷またはスマートフォン上）
 - 旅行保険証（物理的なコピーがある場合）

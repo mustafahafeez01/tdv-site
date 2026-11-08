@@ -54,7 +54,7 @@ Grænserne vil se originaldokumenter, men forsvinder de originaler, er det sikre
 
 ### Hav disse originaler i håndbagagen
 
-- Pas (aldrig i den indcheckede bagage)
+- Pas (aldrig i den indcheckede bagage) – eller, inden for Europa, et [nationalt EØS-ID-kort](https://traveldocumentvault.com/da/blog/national-id-card-travel-europe/) hvor det accepteres
 - Visum eller indrejsetilladelser
 - Boardingpas (printet eller på telefonen)
 - Rejseforsikringsbevis (hvis I har en fysisk kopi)

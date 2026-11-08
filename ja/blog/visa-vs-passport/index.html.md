@@ -22,7 +22,7 @@ Source: https://traveldocumentvault.com/ja/blog/visa-vs-passport/
 
 パスポートには氏名、生年月日、顔写真、固有のパスポート番号が記載され、本人の身元と国籍を示します。通常は国籍を持つ国が発行するため、住んでいる国と発行国が異なることもあります。
 
-パスポートは国際旅行における公式の身分証明書として機能します。ほとんどの国際旅行では、出国と外国での入国許可のためにパスポートが必要です。ただし、ヨーロッパ域内の国民IDカードや、陸路・海路での[アメリカのパスポートカード](https://www.cbp.gov/travel/us-citizens/western-hemisphere-travel-initiative)など、他の書類を認める地域もあります。移民官は国境でそれを確認し、航空会社は国際線に必要とし、税関職員は到着時にそれをチェックします。
+パスポートは国際旅行における公式の身分証明書として機能します。ほとんどの国際旅行では、出国と外国での入国許可のためにパスポートが必要です。ただし、[ヨーロッパ域内の国民IDカード](https://traveldocumentvault.com/ja/blog/national-id-card-travel-europe/)や、陸路・海路での[アメリカのパスポートカード](https://www.cbp.gov/travel/us-citizens/western-hemisphere-travel-initiative)など、他の書類を認める地域もあります。移民官は国境でそれを確認し、航空会社は国際線に必要とし、税関職員は到着時にそれをチェックします。
 
 パスポートの有効期間は発行機関によって異なります。英国の例では、HM Passport Officeが発行する通常のパスポートは成人用が10年、子ども用が5年です。パスポートの有効期限が切れると、海外渡航はできず、更新の申請が必要になります。有効期限の確認が大切なのは、入国時に[少なくとも6か月の残存有効期間を求める](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)国が多いためです。期限が切れていなくても、入国を断られることがあります。渡航先の大使館で、適用される条件を確認してください。
 

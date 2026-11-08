@@ -32,7 +32,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/schengen-passport-rules-fam
 
 大多数旅行者会认为护照需要六个月的有效期才能去任何地方。这个规则是真实的，[泰国要求6个月的有效期](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)，许多其他国家也使用类似的规则。但申根不要求。申根通常要求离开后仍有三个月有效期，这更宽松，但这两个规则却被混在了一起，变成了一个模糊的"从某处开始的6个月"，既产生了错误的警报，也产生了错误的信心。
 
-我们的[6个月规则指南](https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rule/)涵盖了哪些国家实际执行它。我们的[护照有效期解释器](https://traveldocumentvault.com/zh-Hans/blog/how-long-is-passport-valid-for-travel/)处理一般情况。我们在这里坚持申根，因为这是家庭最容易在数学上出错的地方。
+我们的[6个月规则指南](https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rule/)涵盖了哪些国家实际执行它。我们的[护照有效期解释器](https://traveldocumentvault.com/zh-Hans/blog/how-long-is-passport-valid-for-travel/)处理一般情况。如果您的家人拥有欧盟或欧洲经济区国家的国籍，我们关于[何时只需欧洲经济区国民身份证](https://traveldocumentvault.com/zh-Hans/blog/national-id-card-travel-europe/)的指南介绍了不使用护照在欧洲境内旅行的情况。我们在这里坚持申根，因为这是家庭最容易在数学上出错的地方。
 
 ![一个家庭四本护照到期日示意图，按顺序排列：孩子2有效期至2027年，孩子1至2028年，妈妈至2030年，爸爸至2032年；最早的到期日决定整个行程，儿童护照有效期5年不是10年，申根要求离境后还剩3个月有效期](https://traveldocumentvault.com/blog/schengen-passport-rules-family-trips/family-expiry-dates-figure-zh-Hans.jpg) 四本护照，四个时钟——最短的那个才是全家的真正截止日期。
 

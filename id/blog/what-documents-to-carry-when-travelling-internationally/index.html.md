@@ -54,7 +54,7 @@ Perbatasan ingin melihat dokumen asli, tapi jika dokumen asli itu hilang, cadang
 
 ### Bawa dokumen asli ini di tas jinjing Anda
 
-- Paspor (jangan pernah di bagasi tercatat)
+- Paspor (jangan pernah di bagasi tercatat) — atau, di dalam Eropa, [kartu identitas nasional EEA](https://traveldocumentvault.com/id/blog/national-id-card-travel-europe/) jika diterima
 - Dokumen visa atau izin masuk
 - Boarding pass (dicetak atau di ponsel)
 - Sertifikat asuransi perjalanan (jika Anda punya salinan fisik)

@@ -54,7 +54,7 @@ Grenzen willen originele documenten zien, maar als die originelen kwijtraken, zi
 
 ### Neem deze originelen mee in je handbagage
 
-- Paspoort (nooit in de ruimbagage)
+- Paspoort (nooit in de ruimbagage) – of, binnen Europa, een [nationale EER-identiteitskaart](https://traveldocumentvault.com/nl/blog/national-id-card-travel-europe/) waar die wordt geaccepteerd
 - Visum- of inreisdocumenten
 - Instapkaarten (geprint of op je telefoon)
 - Reisverzekeringsbewijs (als je een fysieke kopie hebt)

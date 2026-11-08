@@ -54,7 +54,7 @@ Gränskontrollen vill se originalhandlingar, men om de originalen försvinner ä
 
 ### Bär dessa original i handbagaget
 
-- Pass (aldrig i det incheckade bagaget)
+- Pass (aldrig i det incheckade bagaget) – eller, inom Europa, ett [nationellt EES-ID-kort](https://traveldocumentvault.com/sv/blog/national-id-card-travel-europe/) där det godtas
 - Visum eller inresetillstånd
 - Boardingkort (utskrivna eller i telefonen)
 - Reseförsäkringsbevis (om ni har en fysisk kopia)

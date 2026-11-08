@@ -54,7 +54,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/what-documents-to-carry-whe
 
 ### 在随身行李中携带这些原件
 
-- 护照（永远不要放在行李箱中）
+- 护照（永远不要放在行李箱中），或在欧洲境内携带[欧洲经济区国民身份证](https://traveldocumentvault.com/zh-Hans/blog/national-id-card-travel-europe/)（限接受该证件的地区）
 - 签证或入境授权文件
 - 登机牌（打印或在手机上）
 - 旅行保险证书（如果您有纸质副本）

@@ -54,7 +54,7 @@ Les frontières veulent des documents originaux, mais si ces originaux disparais
 
 ### Conservez ces originaux dans votre bagage à main
 
-- Passeport (jamais dans les bagages en soute)
+- Passeport (jamais dans les bagages en soute) — ou, en Europe, une [carte d'identité EEE](https://traveldocumentvault.com/fr/blog/national-id-card-travel-europe/) là où elle est acceptée
 - Documents de visa ou d'autorisation d'entrée
 - Cartes d'embarquement (imprimées ou sur votre téléphone)
 - Certificat d'assurance voyage (si vous avez une copie physique)

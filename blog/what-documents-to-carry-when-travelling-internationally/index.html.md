@@ -54,7 +54,7 @@ Borders care about originals; backups get you home once those vanish.
 
 ### Carry these originals in your hand baggage
 
-- Passport (never in checked luggage)
+- Passport (never in checked luggage) - or, inside Europe, an [EEA national ID card](https://traveldocumentvault.com/blog/national-id-card-travel-europe/) where it's accepted
 - Visa or entry authorisation documents
 - Boarding passes (printed or on your phone)
 - Travel insurance certificate (if you have a physical copy)

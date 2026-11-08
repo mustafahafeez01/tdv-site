@@ -54,7 +54,7 @@ Alla frontiera vogliono gli originali, ma se spariscono sono i backup digitali s
 
 ### Porta questi originali nel bagaglio a mano
 
-- Passaporto (mai nel bagaglio registrato)
+- Passaporto (mai nel bagaglio registrato) — oppure, in Europa, una [carta d'identità nazionale SEE](https://traveldocumentvault.com/it/blog/national-id-card-travel-europe/) dove è accettata
 - Documenti di visto o autorizzazione di ingresso
 - Carte d'imbarco (stampate o sul telefono)
 - Certificato di assicurazione di viaggio (se ne hai una copia fisica)

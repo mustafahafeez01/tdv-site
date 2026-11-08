@@ -22,7 +22,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/visa-vs-passport/
 
 护照载有你的姓名、出生日期、照片和唯一的护照号码，用来证明你的身份和国籍。护照通常由你的国籍国签发，这个国家可能与你的居住国不同。
 
-它就是你国际旅行的官方身份证明。对于大多数国际旅行，你需要护照才能离开你的国家并获准入境国外，不过有些地区也接受其他证件，例如欧洲境内的国民身份证，或陆路和海路口岸的[美国护照卡](https://www.cbp.gov/travel/us-citizens/western-hemisphere-travel-initiative)。移民官员在边境检查护照，航空公司要求国际航班必须出示护照，海关官员在你入境时检查护照。
+它就是你国际旅行的官方身份证明。对于大多数国际旅行，你需要护照才能离开你的国家并获准入境国外，不过有些地区也接受其他证件，例如[欧洲境内的国民身份证](https://traveldocumentvault.com/zh-Hans/blog/national-id-card-travel-europe/)，或陆路和海路口岸的[美国护照卡](https://www.cbp.gov/travel/us-citizens/western-hemisphere-travel-initiative)。移民官员在边境检查护照，航空公司要求国际航班必须出示护照，海关官员在你入境时检查护照。
 
 护照的有效期因签发机关而异。以英国为例，英国护照署签发的标准成人护照有效期为 10 年，儿童护照为 5 年。护照过期后，你无法用它进行国际旅行，需要申请换发。跟踪护照的到期日期很关键，因为许多国家在允许你入境前要求护照有[至少 6 个月的有效期](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)。
 

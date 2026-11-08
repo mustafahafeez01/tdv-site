@@ -54,7 +54,7 @@ As fronteiras querem documentos originais, mas se esses originais desaparecerem,
 
 ### Transporte estes originais na sua bagagem de mão
 
-- Passaporte (nunca em bagagem registada)
+- Passaporte (nunca em bagagem registada) — ou, dentro da Europa, um [cartão de identidade do EEE](https://traveldocumentvault.com/pt/blog/national-id-card-travel-europe/) onde for aceite
 - Documentos de visto ou autorização de entrada
 - Cartões de embarque (impressos ou no seu telemóvel)
 - Certificado de seguro de viagem (se tiver uma cópia física)
