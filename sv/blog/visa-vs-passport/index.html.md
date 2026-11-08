@@ -1,6 +1,6 @@
 # Är ett visum samma sak som ett pass? Skillnaden förklarad
 
-> Nej, och det ena räknas aldrig som det andra. Passet bevisar vem du är, visumet är landets tillstånd att resa in. Varför de flesta resor kräver båda.
+> Nej, och det ena räknas aldrig som det andra. Passet bevisar vem du är, visumet låter dig resa och be om inresa. När du behöver båda.
 
 Source: https://traveldocumentvault.com/sv/blog/visa-vs-passport/
 

@@ -1,6 +1,6 @@
 # Do You Need to Print Travel Insurance Documents?
 
-> Usually not. Hospitals and insurers generally ask for your policy number and 24-hour line. What to save offline, and what to do if you can't find yours.
+> Sometimes. A paper backup kept apart from your phone is a sensible habit. What to save offline, and what to do if you can't find yours.
 
 Source: https://traveldocumentvault.com/blog/travel-insurance-documents/
 
