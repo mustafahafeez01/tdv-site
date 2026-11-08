@@ -49,8 +49,7 @@ EU-kommissionen tillhandahåller en [officiell kalkylator för Schengenvistelser
 
 Konsekvenserna av en overstay på visumet varierar mellan länder men är genomgående allvarliga. Utöver USA:s förbud som beskrivs ovan:
 
-- **Storbritannien:** Overstays registreras och påverkar framtida visumansökningar. Brittiska inrikesministeriet (Home Office) beaktar overstays vid bedömning av trovärdighet och kan avslå senare ansökningar.
-- **Australien:** En overstay kan leda till begränsningar för framtida visumansökningar och avlägsnande från landet. Enligt Migration Act 1958 registreras overstays och påverkar framtida visumansökningar och möjligheten till återinresa.
+- **Australien:** En overstay kan leda till begränsningar för framtida visumansökningar och avlägsnande från landet. Overstays registreras och kan påverka framtida visumansökningar och möjligheten till återinresa.
 - **Schengenområdet:** Vistelser registreras vid gränsen, och ett inreseförbud utfärdat av ett Schengenland delas i regel med de andra via [Schengens informationssystem](https://home-affairs.ec.europa.eu/policies/schengen/schengen-information-system/what-sis-and-how-does-it-work_en) (SIS), så det gäller i hela Schengenområdet, [som EU-kommissionen för närvarande listar till 29 länder](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en).
 - **Thailand:** Overstays medför en daglig avgift fastställd av thailändska migrationsmyndigheten, upp till ett tak, och en overstay på mer än 90 dagar kan leda till utvisning och förbud mot att återvända.
 
@@ -70,7 +69,7 @@ Med all denna komplexitet i åtanke behöver en bra app för visumbevakning hant
 
 ## Praktiska steg för att bevaka ditt visum ordentligt
 
-1. **Notera ditt inresedatum samma dag du anländer.** Klockan för din maximala vistelsetid börjar räkna direkt vid inresan, inte när visumet utfärdades eller när giltighetsperioden för inresa började.
+1. **Notera ditt inresedatum samma dag du anländer.** I de flesta fall börjar din maximala vistelsetid räknas den dag du reser in, inte när visumet utfärdades eller när giltighetsperioden för inresa började.
 2. **Räkna ut och notera ditt sista tillåtna utresedatum.** Lägg din maximala vistelsetid till ditt inresedatum. Det är det datum du måste lämna landet senast, tidigare om du behöver tid för att ta dig till en avreseort.
 3. **Håll koll på om det är enkel eller multipel inresa.** Om ditt visum gäller enkel inresa är det i regel förbrukat när du lämnar landet, så kontrollera om en dagsutflykt är tillåten innan du korsar en gräns.
 4. **För resor i Schengen, för en logg över in- och utresedatum.** Använd EU-kommissionens officiella kalkylator för att kontrollera dina återstående dagar innan varje resa som följer på tidigare Schengenresor.

@@ -49,8 +49,7 @@ La Comisión Europea proporciona una [calculadora oficial de estancia en Schenge
 
 Las consecuencias de un exceso de visado varían según el país pero son consistentemente graves. Más allá de las prohibiciones de EE.UU. descritas anteriormente:
 
-- **Reino Unido:** Los excesos se registran y afectarán futuras solicitudes de visado. La Oficina de Interior del Reino Unido considera los excesos al evaluar credibilidad y puede rechazar futuras solicitudes.
-- **Australia:** Excederse en tu visado puede resultar en restricciones en futuras solicitudes de visado y expulsión del país. Bajo la Ley de Migración de 1958, los registros de exceso se rastrean y afectarán futuras solicitudes de visado y elegibilidad de reentrada.
+- **Australia:** Excederse en tu visado puede resultar en restricciones en futuras solicitudes de visado y expulsión del país. Los excesos de estancia quedan registrados y pueden afectar a futuras solicitudes de visado y a la posibilidad de volver a entrar.
 - **Área de Schengen:** Las estancias se registran en la frontera, y una prohibición de entrada emitida por un país de Schengen suele compartirse con los demás a través del [Sistema de Información de Schengen (SIS)](https://home-affairs.ec.europa.eu/policies/schengen/schengen-information-system/what-sis-and-how-does-it-work_en), por lo que se aplica en toda el Área de Schengen, [que la Comisión Europea sitúa actualmente en 29 países](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en).
 - **Tailandia:** Los excesos incurren una multa diaria fijada por inmigración tailandesa, hasta un máximo establecido, y un exceso de más de 90 días puede acarrear la deportación y la prohibición de volver.
 
@@ -70,7 +69,7 @@ Dada la complejidad anterior, una buena aplicación rastreadora de visados neces
 
 ## Pasos Prácticos para Rastrear Tu Visado Correctamente
 
-1. **Registra tu fecha de entrada el día que llegues.** Tu reloj de estancia máxima comienza inmediatamente en la entrada, no desde cuando se emitió el visado o cuando comenzó el período de validez de entrada.
+1. **Registra tu fecha de entrada el día que llegues.** En la mayoría de los casos, el cómputo de tu estancia máxima empieza el día que entras, no cuando se emitió el visado ni cuando empezó su período de validez para entrar.
 2. **Calcula y anota tu última fecha de salida permitida.** Suma tu duración máxima de estancia a tu fecha de entrada. Esta es la fecha en que debes partir —anterior si necesitas tiempo para alcanzar un punto de partida.
 3. **Rastrea el estado de entrada simple vs. múltiple.** Si tu visado es de entrada única, salir del país suele agotarlo, así que comprueba si se permite una excursión de un día antes de cruzar una frontera.
 4. **Para viajes a Schengen, mantén un registro de fechas de entrada y salida.** Usa la calculadora oficial de la Comisión Europea para verificar tus días restantes antes de cualquier viaje que siga a viajes recientes a Schengen.

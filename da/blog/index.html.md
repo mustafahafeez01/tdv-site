@@ -100,7 +100,7 @@ Source: https://traveldocumentvault.com/da/blog/
 
 ##
 
-[Visa og indrejse ETIAS: hvilke dokumenter du skal bruge, og hvordan du ansøger Besøgende fra Storbritannien, USA og Canada skal bruge ETIAS fra 2026. Pas gyldigt i mindst 3 måneder, e-mailadresse, valgfrit indkomstbevis. Tjek EU's officielle hjemmeside for det aktuelle gebyr og tidsplanen. 8. maj 20268 min læsning](https://traveldocumentvault.com/da/blog/etias-documents-2026/)
+[Visa og indrejse ETIAS: hvilke dokumenter du skal bruge, og hvordan du ansøger Besøgende fra Storbritannien, USA og Canada skal bruge ETIAS fra 2026. Pas gyldigt i mindst 3 måneder, e-mailadresse. Tjek EU's officielle hjemmeside for det aktuelle gebyr og tidsplanen. 8. maj 20268 min læsning](https://traveldocumentvault.com/da/blog/etias-documents-2026/)
 
 ##
 

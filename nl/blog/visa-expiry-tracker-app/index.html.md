@@ -49,8 +49,7 @@ De Europese Commissie biedt een [officiële Schengen-verblijfscalculator](https:
 
 De gevolgen van een visumoverstay verschillen per land, maar zijn doorgaans ernstig. Naast de hierboven beschreven Amerikaanse verboden:
 
-- **VK:** Overstays worden geregistreerd en beïnvloeden toekomstige visumaanvragen. Het Britse Home Office weegt overstays mee bij het beoordelen van geloofwaardigheid en kan latere aanvragen afwijzen.
-- **Australië:** Een overstay kan leiden tot beperkingen bij toekomstige visumaanvragen en uitzetting uit het land. Onder de Migration Act 1958 worden overstays geregistreerd en beïnvloeden ze toekomstige visumaanvragen en de mogelijkheid om weer in te reizen.
+- **Australië:** Een overstay kan leiden tot beperkingen bij toekomstige visumaanvragen en uitzetting uit het land. Overstays worden geregistreerd en kunnen toekomstige visumaanvragen en de mogelijkheid om weer in te reizen beïnvloeden.
 - **Schengengebied:** Verblijven worden bij de grens geregistreerd, en een inreisverbod van één Schengenland wordt doorgaans via het [Schengen Informatiesysteem](https://home-affairs.ec.europa.eu/policies/schengen/schengen-information-system/what-sis-and-how-does-it-work_en) met de andere gedeeld, zodat het in het hele Schengengebied geldt, [dat de Europese Commissie momenteel op 29 landen stelt](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en).
 - **Thailand:** Overstays leiden tot een dagelijkse boete die door de Thaise immigratiedienst wordt vastgesteld, tot een maximum, en een overstay van meer dan 90 dagen kan leiden tot uitzetting en een verbod om terug te keren.
 
@@ -70,7 +69,7 @@ Met al deze complexiteit in gedachten moet een goede app voor visumvervaldatums 
 
 ## Praktische stappen om je visum goed bij te houden
 
-1. **Noteer je inreisdatum op de dag dat je aankomt.** De klok voor je maximale verblijfsduur begint direct te lopen bij inreis, niet vanaf de afgifte van het visum of het begin van de geldigheidsperiode voor inreis.
+1. **Noteer je inreisdatum op de dag dat je aankomt.** In de meeste gevallen begint je maximale verblijfsduur te tellen op de dag dat je inreist, niet vanaf de afgifte van het visum of het begin van de geldigheidsperiode voor inreis.
 2. **Bereken en noteer je laatst toegestane vertrekdatum.** Tel je maximale verblijfsduur op bij je inreisdatum. Dit is de datum waarop je uiterlijk moet vertrekken – eerder als je tijd nodig hebt om een vertrekpunt te bereiken.
 3. **Houd bij of het gaat om enkele of meervoudige inreis.** Als je visum voor enkele inreis geldt, is het doorgaans verbruikt zodra je het land verlaat, dus check of een dagtrip is toegestaan voordat je een grens oversteekt.
 4. **Houd voor Schengenreizen een logboek bij van in- en uitreisdatums.** Gebruik de officiële calculator van de Europese Commissie om je resterende dagen te controleren vóór elke reis die volgt op recente Schengenreizen.

@@ -1,6 +1,6 @@
 # ETIAS: Welche Dokumente Sie benötigen und wie Sie sich anmelden
 
-> Was ETIAS verlangt: Reisepass mindestens 3 Monate gültig, E-Mail-Adresse und mitunter ein Einkommensnachweis. Für UK, USA und Kanada.
+> Was ETIAS verlangt: Reisepass mindestens 3 Monate gültig, E-Mail-Adresse. Für UK, USA und Kanada.
 
 Source: https://traveldocumentvault.com/de/blog/etias-documents-2026/
 
@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/de/blog/etias-documents-2026/
 ## Wichtigste Erkenntnisse
 
 - **ETIAS ist eine digitale Reisegenehmigung** für britische, US-amerikanische und kanadische Reisende – erforderlich für die visumfreie Einreise in den Schengen-Raum, sobald sie verpflichtend wird
-- **Sie benötigen einen Reisepass, der mehr als 3 Monate** über Ihr Abreisedatum hinaus gültig ist, und eine E-Mail-Adresse zum Beantragen
+- **Sie benötigen einen Reisepass, der mehr als 3 Monate** über Ihr Abreisedatum hinaus gültig ist, und eine E-Mail-Adresse zum Beantragen. Der Reisepass muss außerdem innerhalb der letzten zehn Jahre ausgestellt worden sein.
 - Die Bearbeitungszeit variiert, besonders kurz nach dem Start; **beantragen Sie rechtzeitig vor Ihrer Reise** und prüfen Sie die offizielle EU-Website für aktuelle Hinweise
 - Prüfen Sie die aktuelle Gebühr auf [der offiziellen EU-Website](https://home-affairs.ec.europa.eu/news/european-travel-authorisation-etias-will-cost-eur-20-2025-07-17_en); **unter 18-Jährige und über 70-Jährige zahlen nicht**, benötigen aber dennoch eine Genehmigung
 - **Zweifel an der Verlässlichkeit Ihrer Angaben können zur Ablehnung führen – legen Sie deshalb alles offen, auch wenn es lange zurückliegt**
@@ -40,19 +40,17 @@ Im Antrag werden **frühere Strafverurteilungen, Reisen in Kriegs- oder Konflikt
 
 ETIAS fordert Sie auf, **Sicherheits- und persönliche Informationen** anzugeben – Ihren vollständigen Namen, Geburtsdatum, Geburtsort, Nationalität und Kontaktdaten – zusammen mit Fragen zu etwaigen Strafverurteilungen oder Rückkehrentscheidungen. Ehrlichkeit ist wichtig: Fehler oder falsche Angaben können zur Ablehnung, zum Widerruf oder zur Annullierung einer Genehmigung führen.
 
-Obwohl optional, ist die Einreichung von **Einkommensnachweis** – wie aktuelle Gehaltsabrechnungen, Kontoauszüge oder Steuererklärungen – eine Überlegung wert, da die Europäische Kommission sie nicht universell vorschreibt, aber die Vorlage von Nachweisen der finanziellen Stabilität grenzwertige Anträge stärken kann und das Ablehnungsrisiko sinnvoll reduziert. Wir würden ihn trotzdem beilegen, wenn irgendetwas anderes im Antrag unsicher wirkt.
+Die EU nennt in ihrer Liste der Formularangaben Ihren Bildungsstand und Ihre derzeitige berufliche Tätigkeit, keinen Einkommensnachweis.
 
 Viele Antragsteller nehmen fälschlicherweise an, dass sie Impfnachweise, Hotelbuchungen oder Rückflugbestätigungen benötigen. ETIAS erfordert diese in der Antragsfase nicht. Sie benötigen sie möglicherweise bei der Grenzprüfung, aber die ETIAS-Genehmigung hängt nicht davon ab.
 
 ## Nennen Sie im Formular jedes Land, das Sie besuchen wollen
 
-Nachdem Sie Ihre Informationen gesammelt haben, ist das Online-Anmeldeformular selbst unkompliziert – besuchen Sie das offizielle ETIAS-Portal und starten Sie einen neuen Antrag – kein vollständiges Konto nötig, nur eine E-Mail-Adresse und ein temporäres Passwort.
+Nachdem Sie Ihre Informationen gesammelt haben, ist das Online-Anmeldeformular selbst unkompliziert – besuchen Sie das offizielle ETIAS-Portal und starten Sie einen neuen Antrag.
 
 Das Formular fragt nach Ihren persönlichen Daten (Name, Geburtsdatum, Nationalität), Reisepassinformationen (Nummer und Gültigkeitsdatum) und Ihren Reiseplänen (beabsichtigtes Ziel und Aufenthaltsdauer). Seien Sie präzise: Wenn Sie planen, drei Länder zu besuchen, listen Sie alle drei auf. Wenn Sie sich über genaue Daten nicht sicher sind, verwenden Sie ungefähre Monatsbereiche – Inkonsistenz ist das, was Ablehnungen auslöst, nicht ungefähre Daten.
 
-Als Nächstes beantworten Sie Sicherheitsfragen, die Strafgeschichte, frühere Deportationen, Visumsüberziehungen und Verwicklungen in Terrorismus oder Extremismus abdecken – Fragen, die speziell darauf ausgelegt sind, Sicherheitsrisiken zu erkennen. Wenn Sie eine dieser Fragen mit ja beantworten müssen, ist der optionale Notizbereich der Ort, wo eine gute Erklärung helfen kann; wenn Sie beispielsweise zuvor ein Visum aufgrund eines Missverständnisses verweigert wurde, kann eine kurze Klarstellung das Ergebnis ändern.
-
-Gesundheitserklärungen sind unkompliziert – Sie werden gefragt, ob Sie Infektionskrankheiten oder schwerwiegende Zustände haben, die ein öffentliches Gesundheitsrisiko darstellen, was sich von den medizinischen Anforderungen der Reiseversicherung unterscheidet, da ETIAS sich speziell auf die Seuchenkontrolle konzentriert statt auf den persönlichen Gesundheitsstatus.
+Beantworten Sie jede Frage korrekt.
 
 Am Ende überprüfen Sie Ihre Informationen, zahlen die an der Kasse angezeigte Gebühr (kostenlos wenn unter 18 oder über 70) und reichen ein – woraufhin sofort eine Bestätigungsnummer generiert wird und Ihr Antrag die Verarbeitungswarteschlange betritt.
 
@@ -68,29 +66,21 @@ Eine **Nachforderung von Informationen** kann auf unvollständige oder widerspr�
 
 Bei einer **Ablehnung** erhalten Sie eine Begründung und haben das Recht, bei den Behörden des ablehnenden Landes Rechtsmittel einzulegen. Sie können auch einen neuen Antrag stellen: Laut EU führt eine frühere Ablehnung nicht automatisch zur Ablehnung eines neuen Antrags.
 
-## Die meisten Ablehnungen beruhen auf Inkonsistenz, nicht auf Pech
+## Geben Sie alles an, auch alte Verurteilungen
 
-Die häufigsten ETIAS-Ablehnungen entstehen durch Inkonsistenzen in der Reisegeschichte und unvollständige Informationen. Hier sind die wichtigsten Fallstricke.
+Auf einen Punkt sollten Sie vor dem Absenden besonders achten.
 
 **Nicht offengelegte Strafverurteilungen:** Wenn Sie eine Vorstrafe haben und diese nicht offenlegen, aber ETIAS sie während einer Hintergrundprüfung findet, kann Ihr Antrag abgelehnt werden. Offenbaren Sie immer, auch wenn die Verurteilung alt ist oder in Ihrem Heimatland tilgt, denn europäische Behörden behalten möglicherweise Aufzeichnungen. Zweifel an der Verlässlichkeit Ihrer Angaben sind ein ausdrücklicher Ablehnungsgrund – legen Sie deshalb alles offen.
 
-**Frühere Überziehungen:** Wenn Sie ein Visum in Europa oder anderswo überzogen haben, wird ETIAS es sicherlich kennzeichnen, also bereiten Sie sich mit einer kurzen Erklärung im optionalen Notizenfeld vor – etwas wie "Notfall in der Familie verzögerte Abfahrt; mit Behörden gelöst" kann helfen, aber einige Überziehungen führen unabhängig von Rechtfertigung zu Verweigerung.
-
-**Widersprüchliche Reisegeschichte:** ETIAS wird Inkonsistenzen erkennen, wie die Behauptung einer 10-tägigen Reise nach Frankreich, wenn Ihre Ein- und Ausreisedaten einen 20-tägigen Aufenthalt suggerieren, also wenn Sie sich an genaue Daten nicht erinnern, ist es besser, konservativ zu schätzen oder explizit anzumerken, dass Sie annähern, statt das Risiko einer Widerspruch einzugehen.
-
-**Unklar Beschäftigung oder Einkommen:** Markieren Sie Lücken oder Inkonsistenzen – zum Beispiel, wenn Sie Beschäftigung behaupten, aber Ihre Reisedaten suggerieren, dass Sie im Ausland arbeiten ohne dies zu sagen, oder wenn Ihre Beschäftigungsgeschichte unerklärte Lücken hat – indem Sie den optionalen Notizenbereich zum Klären verwenden. ETIAS wird Sie nicht wegen Arbeitslosigkeit ablehnen, aber unerklärte Inkonsistenzen erregen Verdacht.
-
-Um Ablehnung zu vermeiden, überprüfen Sie Ihre Informationen sorgfältig dreimal vor dem Einreichen, und wenn etwas unsicher ist, verwenden Sie das optionale Notizenfeld zum Erklären.
-
-Eine kurze, ehrliche Erklärung verhindert Ablehnungen viel effektiver als der Versuch, Informationen zu verbergen.
+Prüfen Sie Ihre Angaben vor dem Absenden sorgfältig und beantworten Sie jede Frage korrekt.
 
 ## Auch Kinder sollten einen Antrag stellen, obwohl keine Gebühr anfällt
 
-Kinder unter 18 Jahren zahlen die ETIAS-Gebühr nicht, sollten aber dennoch eine Genehmigung beantragen, wobei Eltern im Namen ihres Kindes einen Antrag stellen – obwohl als zukünftige Erweiterung, biometrische Prüfungen an der Grenze möglicherweise irgendwann erfordern, dass Kinder persönlich anwesend sind.
+Kinder unter 18 Jahren zahlen die ETIAS-Gebühr nicht, sollten aber dennoch eine Genehmigung beantragen, wobei Eltern im Namen ihres Kindes einen Antrag stellen.
 
-Familiengruppen müssen jeden Antrag separat einreichen statt als eine einzelne "Familien"einheit, obwohl Sie in der Reisedetailabschnitt angeben können, dass Sie als Familie reisen – dieser Vermerk kann helfen, wenn der Antrag eines Mitglieds zur Überprüfung gekennzeichnet wird. Wir würden die Formulare aller Familienmitglieder in einer Sitzung ausfüllen, denn der Familienvermerk hilft nur, wenn die Angaben zusammenpassen.
+Familien müssen für jede Person einen eigenen Antrag stellen, nicht einen gemeinsamen Familienantrag.
 
-Wird Ihr Antrag abgelehnt und müssen Sie dennoch reisen, können Sie Rechtsmittel einlegen oder erneut einen Antrag stellen. Eine weitere Möglichkeit ist ein Langzeitvisum über die zuständige Botschaft oder das Konsulat, das normalerweise mehrere Einreisen und längere Aufenthalte als visumfreie Reisen ermöglicht. Da sich die Anforderungen je nach Ziel und Nationalität erheblich unterscheiden, kontaktieren Sie die Botschaft direkt, um zu verstehen, was Sie benötigen.
+Wird Ihr Antrag abgelehnt und müssen Sie dennoch reisen, können Sie Rechtsmittel einlegen oder erneut einen Antrag stellen.
 
 ![Diagramm, das EES und ETIAS vergleicht: EES erfolgt an der Grenze mit Fingerabdrücken und Foto, keine Anmeldung, und wird schrittweise an Grenzübergängen eingeführt; ETIAS erfolgt vor dem Flug, online beantragt mit geringer Gebühr, ohne bestätigtes Pflichtdatum; beides werden Sie irgendwann benötigen, und keines von beiden ist ein Visum](https://traveldocumentvault.com/blog/etias-documents-2026/ees-vs-etias-figure-de.jpg) Zwei verschiedene Tore: EES registriert Sie bei der Einreise, ETIAS gibt vorab grünes Licht.
 
@@ -128,7 +118,7 @@ ETIAS ist erforderlich für visumfreie Nicht-EU-Bürger, die für Kurzaufenthalt
 
 ### Welche Dokumente benötige ich für die ETIAS-Anmeldung?
 
-Sie benötigen einen Reisepass, der mehr als drei Monate über Ihr geplantes Abreisedatum hinaus gültig ist und innerhalb der letzten zehn Jahre ausgestellt wurde. Sie benötigen auch eine E-Mail-Adresse. Optional wird ein Einkommensnachweis (Gehaltsabrechnung, Kontoauszug oder Steuererklärung) empfohlen, aber nicht immer erforderlich. Es werden keine physischen Dokumente eingereicht – alles wird digital hochgeladen oder in das Online-Formular eingegeben.
+Sie benötigen einen Reisepass, der mehr als drei Monate über Ihr geplantes Abreisedatum hinaus gültig ist und innerhalb der letzten zehn Jahre ausgestellt wurde. Sie benötigen auch eine E-Mail-Adresse.
 
 ### Wie viel kostet ETIAS und wie lange dauert es?
 
@@ -136,7 +126,7 @@ Die Europäische Kommission veröffentlicht die aktuelle ETIAS-Gebühr auf ihrer
 
 ### Was passiert, wenn mein ETIAS-Antrag abgelehnt wird?
 
-Wird Ihr Antrag abgelehnt, erhalten Sie eine Benachrichtigung mit den Gründen und haben das Recht, bei den Behörden des ablehnenden Landes Rechtsmittel einzulegen. Sie können auch erneut einen Antrag stellen: Laut EU führt eine frühere Ablehnung nicht automatisch zur Ablehnung eines neuen Antrags. Lässt sich die Ursache beheben, etwa durch aktualisierte Reiseinformationen, korrigieren Sie die Angaben und stellen Sie einen neuen Antrag. Ein Langzeitvisum über eine Botschaft ist eine weitere Möglichkeit.
+Wird Ihr Antrag abgelehnt, erhalten Sie eine Benachrichtigung mit den Gründen und haben das Recht, bei den Behörden des ablehnenden Landes Rechtsmittel einzulegen. Sie können auch erneut einen Antrag stellen: Laut EU führt eine frühere Ablehnung nicht automatisch zur Ablehnung eines neuen Antrags.
 
 ### Kann ich nach Europa reisen, bevor ETIAS startet?
 

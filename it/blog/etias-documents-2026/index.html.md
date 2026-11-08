@@ -1,6 +1,6 @@
 # ETIAS: Quali documenti ti servono e come richiedere
 
-> Cosa serve per l'ETIAS: passaporto valido almeno 3 mesi, indirizzo email e, a volte, una prova di reddito. Per UK, USA e Canada.
+> Cosa serve per l'ETIAS: passaporto valido almeno 3 mesi, indirizzo email. Per UK, USA e Canada.
 
 Source: https://traveldocumentvault.com/it/blog/etias-documents-2026/
 
@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/it/blog/etias-documents-2026/
 ## Punti chiave
 
 - **ETIAS è un'autorizzazione di viaggio digitale** per i viaggiatori del Regno Unito, USA e Canada — necessaria per l'ingresso senza visto nell'area Schengen una volta diventata obbligatoria
-- **Ti serve un passaporto valido per più di 3 mesi** oltre la data di partenza e un indirizzo email per richiedere
+- **Ti serve un passaporto valido per più di 3 mesi** oltre la data di partenza e un indirizzo email per richiedere. Il passaporto deve anche essere stato rilasciato negli ultimi dieci anni.
 - Il tempo di elaborazione varia, specialmente subito dopo il lancio; **richiedi con largo anticipo rispetto al tuo viaggio** e consulta il sito ufficiale dell'UE per le indicazioni attuali
 - Consulta la tariffa attuale sul [sito ufficiale dell'UE](https://home-affairs.ec.europa.eu/news/european-travel-authorisation-etias-will-cost-eur-20-2025-07-17_en); **i minori di 18 anni e i maggiori di 70 non pagano** ma hanno comunque bisogno di un'autorizzazione
 - **I dubbi sull’affidabilità delle risposte possono portare al rifiuto, quindi dichiara tutto, anche se è datato**
@@ -40,19 +40,17 @@ Durante la domanda il modulo chiede informazioni sulle **condanne penali pregres
 
 ETIAS ti chiederà **informazioni personali e di sicurezza**: nome completo, data di nascita, luogo di nascita, nazionalità e dati di contatto, più domande su eventuali condanne penali o decisioni di rimpatrio. Essere onesti conta: errori o informazioni false possono portare al rifiuto, alla revoca o all’annullamento di un’autorizzazione.
 
-La **prova di reddito** è facoltativa (buste paga recenti, estratti conto bancari o dichiarazioni fiscali), ma vale la pena considerarla: la Commissione europea non la rende obbligatoria per tutti, però dimostrare stabilità finanziaria può rafforzare le domande al limite e ridurre significativamente il rischio di rifiuto. Noi la includeremmo comunque se qualcos'altro nella domanda ti sembra incerto.
+L'elenco dell'UE delle informazioni richieste nel modulo comprende il tuo livello di istruzione e la tua occupazione attuale, non una prova di reddito.
 
 Molti pensano per errore di aver bisogno di certificati di vaccinazione, prenotazioni d'albergo o conferme di voli di ritorno. ETIAS non li richiede in fase di domanda. Possono servirti al controllo di frontiera, ma l'approvazione di ETIAS non dipende da loro.
 
 ## Elenca nel modulo ogni paese che intendi visitare
 
-Una volta raccolte le informazioni, la domanda online è semplice: vai sul portale ufficiale di ETIAS e avvia una nuova domanda. Non serve un account completo, solo un indirizzo email e una password temporanea.
+Una volta raccolte le informazioni, la domanda online è semplice: vai sul portale ufficiale di ETIAS e avvia una nuova domanda.
 
 Il modulo chiede i tuoi dettagli personali (nome, data di nascita, nazionalità), informazioni sul passaporto (numero e data di scadenza) e i tuoi piani di viaggio (destinazione prevista e durata del soggiorno). Sii preciso: se prevedi di visitare tre paesi, elencali tutti e tre. Se non sei sicuro delle date esatte, usa intervalli di mesi approssimativi: a far scattare i rifiuti sono le incoerenze, non le date approssimative.
 
-Poi rispondi a domande di sicurezza su precedenti penali, rimpatri passati, soggiorni oltre la scadenza del visto e coinvolgimento in terrorismo o estremismo: sono pensate proprio per individuare i rischi per la sicurezza. Se devi rispondere "sì" a una di queste, la sezione delle note facoltative è il posto giusto per una buona spiegazione; ad esempio, se in passato ti è stato rifiutato un visto per un malinteso, un breve chiarimento può cambiare l'esito.
-
-Le domande sulla salute sono dirette: ti viene chiesto se hai malattie infettive o condizioni gravi che rappresentano un rischio per la salute pubblica. Non c'entra l'assicurazione di viaggio, perché ETIAS si concentra specificamente sul controllo delle malattie e non sullo stato di salute individuale.
+Rispondi a ogni domanda con precisione.
 
 Alla fine rivedi i tuoi dati, paga la tariffa mostrata al momento del pagamento (gratuita se hai meno di 18 anni o più di 70) e invia. Ricevi subito un numero di conferma e la domanda entra nella coda di elaborazione.
 
@@ -68,29 +66,21 @@ Una **richiesta di ulteriori informazioni** può arrivare dopo risposte incomple
 
 Un **rifiuto** riporta le motivazioni e il diritto di ricorso, gestito dalle autorità del paese che ha rifiutato la domanda. Puoi anche presentare una nuova domanda: l’UE precisa che un rifiuto precedente non comporta il rifiuto automatico di una nuova domanda.
 
-## La maggior parte dei rifiuti dipende da incoerenze, non dalla sfortuna
+## Dichiara tutto, anche le vecchie condanne
 
-I rifiuti ETIAS più frequenti derivano da incoerenze nella storia dei viaggi e informazioni incomplete. Ecco i principali tranelli.
+C’è un aspetto da curare prima di inviare la domanda.
 
 **Condanne penali non dichiarate:** Se hai precedenti penali e non li dichiari, ma ETIAS li trova durante un controllo dei precedenti, la tua domanda può essere rifiutata. Dichiara sempre, anche se la condanna è vecchia o è stata cancellata nel tuo paese di origine, perché le autorità europee potrebbero comunque conservarne traccia. I dubbi sull’affidabilità delle informazioni fornite sono un motivo esplicito di rifiuto, quindi dichiara tutto.
 
-**Soggiorni oltre la scadenza in passato:** Se hai superato la durata consentita dal visto in Europa o altrove, ETIAS lo segnalerà certamente, quindi preparati con una breve spiegazione nel campo delle note facoltative. Qualcosa come "Un'emergenza familiare ha ritardato la partenza; risolto con le autorità" può aiutare il tuo caso, anche se alcuni soggiorni oltre la scadenza portano al rifiuto a prescindere dalla giustificazione.
-
-**Storia di viaggio incoerente:** ETIAS rileverà le incoerenze, per esempio dichiarare un viaggio di 10 giorni in Francia quando le tue date di ingresso e uscita indicano un soggiorno di 20 giorni. Se non ricordi le date esatte, è meglio stimare con prudenza o scrivere esplicitamente che stai approssimando, piuttosto che rischiare una contraddizione.
-
-**Occupazione o reddito poco chiaro:** Segnala eventuali lacune o incoerenze usando la sezione delle note facoltative per chiarire: ad esempio se dichiari un impiego ma le tue date di viaggio suggeriscono che eri all'estero senza dirlo, o se il tuo percorso lavorativo ha vuoti inspiegabili. ETIAS non ti rifiuterà perché sei disoccupato, ma le incoerenze senza spiegazione destano sospetti.
-
-Per evitare il rifiuto, ricontrolla i tuoi dati con attenzione tre volte prima di inviare e, se c'è qualcosa di incerto, usa il campo delle note facoltative per spiegare.
-
-Una breve spiegazione onesta previene i rifiuti molto meglio che nascondere informazioni.
+Controlla attentamente i dati prima di inviare la domanda e rispondi a ogni domanda con precisione.
 
 ## Anche i bambini devono richiedere l'autorizzazione, pur senza tassa
 
-I bambini sotto i 18 anni non pagano la tariffa ETIAS ma dovrebbero comunque richiedere l'autorizzazione, e a farlo sono i genitori per loro conto. In futuro, i controlli biometrici al confine potrebbero richiedere che i bambini siano presenti di persona.
+I bambini sotto i 18 anni non pagano la tariffa ETIAS ma dovrebbero comunque richiedere l'autorizzazione, e a farlo sono i genitori per loro conto.
 
-In famiglia ogni domanda va inviata separatamente, non come un'unica domanda "familiare". Puoi però indicare nei dettagli di viaggio che viaggi con la famiglia: la nota potrebbe aiutare se la domanda di un familiare viene segnalata per revisione. Compileremmo i moduli di tutti nella stessa sessione, perché la nota sulla famiglia aiuta solo se i dettagli coincidono.
+Le famiglie devono presentare una domanda per ogni persona, non una sola domanda per tutta la famiglia.
 
-Se la domanda viene rifiutata e hai ancora bisogno di viaggiare, puoi fare ricorso o presentare una nuova domanda. Un visto di lungo soggiorno tramite l’ambasciata o il consolato pertinente è un’altra possibilità, che generalmente consente più ingressi e soggiorni più lunghi rispetto ai viaggi senza visto. Poiché i requisiti variano significativamente in base alla destinazione e alla tua nazionalità, contatta direttamente l'ambasciata per capire di cosa avrai bisogno.
+Se la domanda viene rifiutata e hai ancora bisogno di viaggiare, puoi fare ricorso o presentare una nuova domanda.
 
 ![Diagramma che confronta EES e ETIAS: EES accade alla frontiera con impronte e foto, nessuna domanda, in fase di introduzione nei punti di ingresso; ETIAS accade prima di volare, si richiede online con una piccola tassa, senza data ancora fissata per l'obbligatorietà; alla fine serviranno entrambi, e nessuno dei due è un visto](https://traveldocumentvault.com/blog/etias-documents-2026/ees-vs-etias-figure-it.jpg) Due porte diverse: EES ti registra all'arrivo, ETIAS ti autorizza prima della partenza.
 
@@ -128,7 +118,7 @@ ETIAS serve ai cittadini non UE esenti da visto che viaggiano per soggiorni brev
 
 ### Quali documenti mi servono per richiedere ETIAS?
 
-Devi avere un passaporto valido per più di tre mesi oltre la data prevista di partenza, rilasciato negli ultimi dieci anni. Ti servirà anche un indirizzo email. Facoltativamente, la prova di reddito (busta paga, estratto conto bancario o dichiarazione fiscale) è consigliata ma non sempre richiesta. Non si presentano documenti fisici: tutto si carica in digitale o si inserisce nella domanda online.
+Devi avere un passaporto valido per più di tre mesi oltre la data prevista di partenza, rilasciato negli ultimi dieci anni. Ti servirà anche un indirizzo email.
 
 ### Quanto costa ETIAS e quanto tempo occorre?
 
@@ -136,7 +126,7 @@ La Commissione europea pubblica la tariffa ETIAS attuale sul suo sito ufficiale.
 
 ### Cosa succede se la mia domanda ETIAS viene rifiutata?
 
-Se la domanda viene rifiutata, riceverai una notifica con le motivazioni e avrai diritto di ricorso, gestito dalle autorità del paese che ha rifiutato la domanda. Puoi anche presentare una nuova domanda: l’UE precisa che un rifiuto precedente non comporta il rifiuto automatico di una nuova domanda. Se il problema si può risolvere (ad esempio aggiornando i dati di viaggio), correggilo e ripresenta la domanda. Un visto di lungo soggiorno tramite un’ambasciata è un’altra possibilità.
+Se la domanda viene rifiutata, riceverai una notifica con le motivazioni e avrai diritto di ricorso, gestito dalle autorità del paese che ha rifiutato la domanda. Puoi anche presentare una nuova domanda: l’UE precisa che un rifiuto precedente non comporta il rifiuto automatico di una nuova domanda.
 
 ### Posso viaggiare in Europa prima del lancio di ETIAS?
 

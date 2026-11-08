@@ -49,8 +49,7 @@ Komisi Eropa menyediakan [kalkulator lama tinggal Schengen resmi](https://home-a
 
 Konsekuensi overstay visa berbeda-beda tergantung negara tetapi secara konsisten serius. Selain larangan AS yang dijelaskan di atas:
 
-- **Inggris:** Overstay tercatat dan akan memengaruhi permohonan visa di masa depan. Kementerian Dalam Negeri Inggris (Home Office) mempertimbangkan riwayat overstay saat menilai kredibilitas dan dapat menolak permohonan berikutnya.
-- **Australia:** Overstay visa dapat mengakibatkan pembatasan permohonan visa di masa depan dan pemulangan paksa dari negara tersebut. Berdasarkan Migration Act 1958, catatan overstay dilacak dan akan memengaruhi permohonan visa dan kelayakan masuk kembali di masa depan.
+- **Australia:** Overstay visa dapat mengakibatkan pembatasan permohonan visa di masa depan dan pemulangan paksa dari negara tersebut. Catatan overstay dilacak dan dapat memengaruhi permohonan visa serta kelayakan masuk kembali di masa depan.
 - **Wilayah Schengen:** Masa tinggal dicatat di perbatasan, dan larangan masuk yang dikeluarkan oleh satu negara Schengen umumnya dibagikan ke negara lain melalui [Sistem Informasi Schengen](https://home-affairs.ec.europa.eu/policies/schengen/schengen-information-system/what-sis-and-how-does-it-work_en) (SIS), sehingga berlaku di seluruh Wilayah Schengen, [yang saat ini tercatat oleh Komisi Eropa sebagai 29 negara](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en).
 - **Thailand:** Overstay dikenai denda harian yang ditetapkan oleh imigrasi Thailand, hingga batas maksimum tertentu, dan overstay lebih dari 90 hari dapat berujung pada deportasi serta larangan kembali.
 
@@ -70,7 +69,7 @@ Dengan semua kompleksitas ini, aplikasi pelacak kedaluwarsa visa yang baik perlu
 
 ## Langkah Praktis untuk Melacak Visa Anda dengan Benar
 
-1. **Catat tanggal masuk Anda pada hari kedatangan.** Hitungan batas maksimal lama tinggal Anda langsung dimulai sejak masuk, bukan sejak visa diterbitkan atau sejak masa berlaku izin masuk dimulai.
+1. **Catat tanggal masuk Anda pada hari kedatangan.** Dalam kebanyakan kasus, hitungan batas maksimal lama tinggal Anda dimulai pada hari Anda masuk, bukan sejak visa diterbitkan atau sejak masa berlaku izin masuk dimulai.
 2. **Hitung dan catat tanggal keberangkatan terakhir yang diizinkan.** Tambahkan batas maksimal lama tinggal Anda ke tanggal masuk Anda. Ini adalah tanggal terakhir Anda harus keluar, lebih awal jika Anda memerlukan waktu untuk mencapai titik keberangkatan.
 3. **Pantau status kunjungan tunggal atau berkali-kali.** Jika visa Anda kunjungan tunggal, keluar dari negara itu umumnya akan menghabiskannya, jadi periksa apakah perjalanan sehari diperbolehkan sebelum Anda menyeberangi perbatasan.
 4. **Untuk perjalanan Schengen, catat log tanggal masuk dan keluar.** Gunakan kalkulator resmi Komisi Eropa untuk memverifikasi hari tersisa Anda sebelum perjalanan mana pun yang mengikuti perjalanan Schengen terbaru.

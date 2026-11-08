@@ -49,8 +49,7 @@ La Commission européenne fournit un [calculateur officiel de séjour Schengen](
 
 Les conséquences d'un dépassement de visa varient selon le pays mais sont constamment graves. Au-delà des interdictions américaines décrites ci-dessus:
 
-- **Royaume-Uni:** Les dépassements sont enregistrés et affecteront les futures demandes de visa. Le Bureau de l'immigration du Royaume-Uni considère les dépassements lors de l'évaluation de la crédibilité et peut refuser les demandes ultérieures.
-- **Australie:** Le dépassement de votre visa peut entraîner des restrictions sur les futures demandes de visa et votre expulsion du pays. En vertu de la loi sur la migration de 1958, les dossiers de dépassement sont suivis et affecteront les futures demandes de visa et l'admissibilité à la réentrée.
+- **Australie:** Le dépassement de votre visa peut entraîner des restrictions sur les futures demandes de visa et votre expulsion du pays. Les dépassements sont enregistrés et peuvent affecter les futures demandes de visa et la possibilité de revenir dans le pays.
 - **Espace Schengen:** Les séjours sont enregistrés à la frontière, et une interdiction d'entrée émise par un pays Schengen est généralement partagée avec les autres via le [Système d'information Schengen (SIS)](https://home-affairs.ec.europa.eu/policies/schengen/schengen-information-system/what-sis-and-how-does-it-work_en), si bien qu'elle s'applique à l'ensemble de l'espace Schengen, que [la Commission européenne recense actuellement à 29 pays](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en).
 - **Thaïlande:** Les dépassements entraînent une amende journalière fixée par les autorités d'immigration thaïlandaises, jusqu'à un plafond, et un dépassement de plus de 90 jours peut entraîner une expulsion et une interdiction de retour.
 
@@ -70,7 +69,7 @@ Compte tenu de la complexité ci-dessus, une bonne application de suivi des visa
 
 ## Étapes pratiques pour suivre correctement votre visa
 
-1. **Enregistrez votre date d'arrivée le jour où vous arrivez.** Votre compte à rebours de séjour maximal commence immédiatement à l'arrivée, pas à partir de quand le visa a été délivré ou quand la période de validité d'entrée a commencé.
+1. **Enregistrez votre date d'arrivée le jour où vous arrivez.** Dans la plupart des cas, le décompte de votre séjour maximal commence le jour de votre entrée, pas à la date de délivrance du visa ni au début de sa période de validité pour l'entrée.
 2. **Calculez et notez votre dernière date de sortie autorisée.** Ajoutez votre durée maximale de séjour à votre date d'arrivée. C'est la date à laquelle vous devez partir — plus tôt si vous avez besoin de temps pour atteindre un point de départ.
 3. **Suivez le statut d'entrée simple vs. multiple.** Si votre visa est à entrée simple, quitter le pays l'épuise généralement : vérifiez si une excursion d'une journée est permise avant de franchir une frontière.
 4. **Pour les voyages Schengen, tenez un registre des dates d'entrée et de sortie.** Utilisez le calculateur officiel de la Commission européenne pour vérifier vos jours restants avant de voyager après d'autres voyages à Schengen.

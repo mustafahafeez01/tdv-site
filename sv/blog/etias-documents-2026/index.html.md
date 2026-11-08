@@ -1,6 +1,6 @@
 # ETIAS: vilka handlingar du behöver och hur du ansöker
 
-> Besökare från Storbritannien, USA och Kanada behöver ETIAS för resor i Europa. Pass giltigt minst 3 månader, e-postadress och valfritt inkomstbevis.
+> Besökare från Storbritannien, USA och Kanada behöver ETIAS för resor i Europa. Pass giltigt minst 3 månader och e-postadress.
 
 Source: https://traveldocumentvault.com/sv/blog/etias-documents-2026/
 
@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/sv/blog/etias-documents-2026/
 ## Viktiga punkter
 
 - **ETIAS är ett digitalt resetillstånd** för resenärer från Storbritannien, USA och Kanada – som krävs för viseringsfri inresa till Schengenområdet när det blir obligatoriskt
-- **Du behöver ett pass som är giltigt i mer än 3 månader** efter avresedatumet och en e-postadress för att ansöka
+- **Du behöver ett pass som är giltigt i mer än 3 månader** efter avresedatumet och en e-postadress för att ansöka. Passet måste också ha utfärdats under de senaste tio åren.
 - Handläggningstiden varierar, särskilt strax efter lanseringen; **ansök god tid före resan** och kontrollera EU:s officiella webbplats för aktuell information
 - Kontrollera [EU:s officiella webbplats](https://home-affairs.ec.europa.eu/news/european-travel-authorisation-etias-will-cost-eur-20-2025-07-17_en) för aktuell avgift; **personer under 18 och över 70 år betalar inget** men behöver ändå tillstånd
 - **Tveksamheter kring hur tillförlitliga dina svar är kan leda till avslag, så uppge allt, även om det är gammalt**
@@ -40,19 +40,17 @@ I ansökan får du frågor om **tidigare brottmålsdomar**, resor till krigs- el
 
 ETIAS frågar även efter **säkerhets- och personuppgifter** – fullständigt namn, födelsedatum, födelseort, medborgarskap och kontaktuppgifter – samt frågor om eventuella brottmålsdomar eller beslut om återvändande. Ärlighet är viktigt här: misstag eller falska uppgifter kan leda till avslag, återkallande eller ogiltigförklaring av ett tillstånd.
 
-**Inkomstbevis** är valfritt – senaste lönebesked, kontoutdrag eller deklaration räknas alla. Europeiska kommissionen kräver det inte, men att bifoga det kan stärka en gränsfallsansökan och minska risken för avslag. Vi skulle ta med det ändå om något annat i ansökan känns osäkert.
+EU:s lista över vad formuläret frågar efter omfattar din utbildningsnivå och nuvarande sysselsättning, inte inkomstbevis.
 
 Många sökande antar felaktigt att de behöver vaccinationsbevis, hotellbokningar eller returbiljetter. ETIAS kräver inte detta i ansökningsskedet. Du kan behöva det vid gränskontroll, men ETIAS-godkännandet är inte beroende av det.
 
 ## Ange varje land du planerar att besöka i formuläret
 
-När du har samlat ihop din information är själva ansökan enkel. Besök den officiella ETIAS-portalen och starta en ny ansökan – inget fullständigt konto behövs, bara en e-postadress och ett tillfälligt lösenord.
+När du har samlat ihop din information är själva ansökan enkel. Besök den officiella ETIAS-portalen och starta en ny ansökan.
 
 Formuläret frågar efter dina personuppgifter (namn, födelsedatum, medborgarskap), passuppgifter (nummer och giltighetsdatum) och dina reseplaner (planerat resmål och vistelsens längd). Var noggrann: planerar du att besöka tre länder, lista alla tre. Är du osäker på exakta datum, använd ungefärliga månadsintervall – det är motstridiga uppgifter som utlöser avslag, inte ungefärliga datum.
 
-Därefter besvarar du säkerhetsfrågor om brottshistorik, tidigare utvisningar, överträdelser av vistelsetiden och koppling till terrorism eller extremism – frågor som är utformade för att upptäcka säkerhetsrisker. Måste du svara "ja" på någon av dem är det anteckningsfältet, som är valfritt, där en bra förklaring kan hjälpa. Om du till exempel tidigare nekats visum på grund av ett missförstånd kan en kort förklaring påverka utfallet.
-
-Hur är det med hälsan? Du får frågan om du har en smittsam sjukdom eller annat tillstånd som utgör en risk för folkhälsan. Det skiljer sig från reseförsäkringens medicinska krav – ETIAS fokuserar på smittskydd, inte ditt individuella hälsotillstånd.
+Besvara varje fråga korrekt.
 
 Till sist granskar du dina uppgifter, betalar avgiften som visas i kassan (kostnadsfritt om du är under 18 eller över 70), och skickar in ansökan. Ett bekräftelsenummer genereras direkt, och din ansökan går in i handläggningskön.
 
@@ -68,29 +66,21 @@ En **begäran om mer information** kan följa på ofullständiga eller motstridi
 
 Ett **avslag** kommer med en motivering och rätt att överklaga hos myndigheterna i det land som avslog ansökan. Du kan också ansöka igen: enligt EU leder ett tidigare avslag inte automatiskt till avslag på en ny ansökan.
 
-## De flesta avslag beror på inkonsekvens, inte otur
+## Uppge allt, även gamla domar
 
-De vanligaste ETIAS-avslagen beror på motstridigheter i resehistoriken och ofullständig information – här är de värt att hålla ett öga på.
+En sak är värd att få rätt innan du skickar in ansökan.
 
 **Odeklarerade brottsregister:** Har du ett brottsregister och inte uppger det, men ETIAS upptäcker det vid en bakgrundskontroll, kan ansökan avslås. Uppge alltid detta, även om domen är gammal eller strukits i ditt hemland, eftersom europeiska myndigheter ändå kan ha kvar uppgifterna. Tveksamheter kring de lämnade uppgifternas tillförlitlighet är ett uttryckligt skäl för avslag, så uppge allt.
 
-**Tidigare överträdelser av vistelsetiden:** Har du tidigare överskridit ett visum i Europa eller på annat håll flaggar ETIAS för det. Var förberedd med en kort förklaring i det valfria anteckningsfältet – något i stil med "akut familjeangelägenhet försenade avresan; löst med myndigheterna" kan stärka ditt ärende, även om vissa överträdelser leder till nekande oavsett förklaring.
-
-**Motstridig resehistorik:** ETIAS upptäcker inkonsekvenser, som att uppge en kort resa till Frankrike när in- och utresedatum tyder på en betydligt längre vistelse. Kommer du inte ihåg exakta datum är det bättre att uppskatta försiktigt, eller ange tydligt att du gör en uppskattning, i stället för att riskera en motsägelse.
-
-**Otydlig anställning eller inkomst:** flagga eventuella luckor eller inkonsekvenser, som resedatum som antyder att du arbetade utomlands utan att uppge det, eller oförklarade luckor i anställningshistoriken. Använd det valfria anteckningsfältet för att förtydliga. ETIAS avslår dig inte för att du är arbetslös, men oförklarade inkonsekvenser väcker misstankar.
-
-För att undvika avslag, granska din information noggrant innan du skickar in den. Är något osäkert, använd det valfria anteckningsfältet för att förklara.
-
-En kort, ärlig förklaring förhindrar betydligt fler avslag än att försöka dölja information.
+Granska dina uppgifter noggrant innan du skickar in ansökan och besvara varje fråga korrekt.
 
 ## Barn bör ändå ansöka, även utan avgift
 
-Barn under 18 år betalar inte ETIAS-avgiften men bör ändå ansöka om tillstånd, med föräldrar som ansöker för deras räkning. En framtida förändring värd att bevaka: biometriska kontroller vid gränsen kan så småningom kräva att barn är fysiskt närvarande.
+Barn under 18 år betalar inte ETIAS-avgiften men bör ändå ansöka om tillstånd, med föräldrar som ansöker för deras räkning.
 
-Familjegrupper måste skicka in varje ansökan separat i stället för som en gemensam "familj"-enhet. Du kan dock notera att ni reser som familj i avsnittet om resedetaljer, och den anteckningen kan hjälpa om en medlems ansökan flaggas för granskning. Vi skulle fylla i varje familjemedlems formulär vid samma tillfälle, eftersom familjenoteringen bara hjälper om uppgifterna stämmer överens.
+Familjer måste skicka in en separat ansökan för varje person, inte en gemensam familjeansökan.
 
-Blir du nekad och behöver ändå resa kan du överklaga eller ansöka på nytt. Ett långtidsvisum via relevant ambassad eller konsulat är en annan väg, vilket vanligtvis tillåter fler inresor och längre vistelser än viseringsfri resa. Eftersom kraven varierar efter resmål och medborgarskap bör du kontakta ambassaden direkt för att ta reda på vad som krävs.
+Blir du nekad och behöver ändå resa kan du överklaga eller ansöka på nytt.
 
 ![Diagram som jämför EES och ETIAS: EES sker vid gränsen med fingeravtryck och foto, ingen ansökan, och rullas ut vid fler gränsövergångar; ETIAS sker innan du flyger, ansöks online mot en liten avgift, inget obligatoriskt datum bekräftat än; du kommer till slut behöva båda, och ingen av dem är ett visum](https://traveldocumentvault.com/blog/etias-documents-2026/ees-vs-etias-figure-sv.jpg) Två olika grindar: EES registrerar dig vid ankomst, ETIAS klarerar dig före avresa.
 
@@ -128,7 +118,7 @@ ETIAS krävs för viseringsfria medborgare utanför EU som reser för korta vist
 
 ### Vilka handlingar behöver jag för att ansöka om ETIAS?
 
-Du måste ha ett giltigt pass med mer än tre månaders giltighet efter ditt planerade avresedatum, utfärdat under de senaste tio åren. Du behöver också en e-postadress. Inkomstbevis (lönebesked, kontoutdrag eller deklaration) rekommenderas men krävs inte alltid. Inga fysiska handlingar skickas in – allt laddas upp digitalt eller fylls i via den elektroniska ansökan.
+Du måste ha ett giltigt pass med mer än tre månaders giltighet efter ditt planerade avresedatum, utfärdat under de senaste tio åren. Du behöver också en e-postadress.
 
 ### Vad kostar ETIAS och hur lång tid tar det?
 
@@ -136,7 +126,7 @@ Europeiska kommissionen publicerar den aktuella ETIAS-avgiften på sin officiell
 
 ### Vad händer om min ETIAS-ansökan avslås?
 
-Om ansökan avslås får du ett meddelande med skälen och har rätt att överklaga hos myndigheterna i det land som avslog ansökan. Du kan också ansöka igen: enligt EU leder ett tidigare avslag inte automatiskt till avslag på en ny ansökan. Går orsaken att åtgärda (till exempel genom uppdaterad reseinformation) gör du det och ansöker på nytt. Ett långtidsvisum via en ambassad är en annan väg.
+Om ansökan avslås får du ett meddelande med skälen och har rätt att överklaga hos myndigheterna i det land som avslog ansökan. Du kan också ansöka igen: enligt EU leder ett tidigare avslag inte automatiskt till avslag på en ny ansökan.
 
 ### Kan jag resa till Europa innan ETIAS lanseras?
 

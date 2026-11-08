@@ -49,8 +49,7 @@ Die Europäische Kommission bietet einen offiziellen Schengen-Aufenthaltsrechner
 
 Die Folgen einer Visumsüberschreitung sind je nach Land unterschiedlich, aber durchweg ernst. Jenseits der oben beschriebenen US-Sperren:
 
-- **Vereinigtes Königreich:** Überschreitungen werden aufgezeichnet und beeinflussen zukünftige Visamanträge. Das UK Home Office berücksichtigt Überschreitungen bei der Beurteilung der Glaubwürdigkeit und kann nachfolgende Anträge ablehnen.
-- **Australien:** Visumsüberschreitung kann zu Einschränkungen bei zukünftigen Visaanträgen und Entfernung aus dem Land führen. Gemäß Migration Act 1958 werden Überschreitungsaufzeichnungen nachverfolgt und beeinflussen zukünftige Visaanträge und die Wiedereinreiseberechtigung.
+- **Australien:** Visumsüberschreitung kann zu Einschränkungen bei zukünftigen Visaanträgen und Entfernung aus dem Land führen. Überschreitungen werden erfasst und können zukünftige Visumanträge und die Berechtigung zur Wiedereinreise beeinflussen.
 - **Schengen-Raum:** Aufenthalte werden an der Grenze erfasst, und ein von einem Schengen-Land erlassenes Einreiseverbot wird in der Regel über das [Schengen-Informationssystem](https://home-affairs.ec.europa.eu/policies/schengen/schengen-information-system/what-sis-and-how-does-it-work_en) mit den anderen geteilt und gilt daher im gesamten Schengen-Raum, den [die Europäische Kommission derzeit mit 29 Ländern angibt](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en).
 - **Thailand:** Überschreitungen ziehen eine von der thailändischen Einwanderungsbehörde festgelegte Tagesstrafe bis zu einer gedeckelten Obergrenze nach sich und eine Überschreitung von mehr als 90 Tagen kann zu Abschiebung und einem Einreiseverbot führen.
 
@@ -70,7 +69,7 @@ Angesichts der oben genannten Komplexität braucht eine gute Visa-Ablauf-Tracker
 
 ## Praktische Schritte zur korrekten Visumverfolgung
 
-1. **Notieren Sie Ihr Einreisedatum am Ankunftstag.** Ihre maximale Aufenthaltsuhr startet sofort bei der Einreise, nicht ab Visumausstellung oder Beginn des Einreisegültigkeitszeitraums.
+1. **Notieren Sie Ihr Einreisedatum am Ankunftstag.** In den meisten Fällen beginnt die maximale Aufenthaltsdauer am Tag Ihrer Einreise, nicht mit der Visumausstellung oder dem Beginn des Gültigkeitszeitraums für die Einreise.
 2. **Berechnen Sie und notieren Sie Ihr letztes zulässiges Abreisedatum.** Addieren Sie Ihre maximale Aufenthaltsdauer zu Ihrem Einreisedatum. Dies ist das Datum, bis zu dem Sie abreisen müssen – früher, wenn Sie Zeit zum Erreichen eines Abflugpunkts benötigen.
 3. **Verfolgen Sie den Status Einfach- vs. Mehrfacheinreise.** Wenn Ihr Visum einfach ist, ist es in der Regel verbraucht, sobald Sie das Land verlassen. Klären Sie deshalb vor einem Grenzübertritt, ob ein Tagesausflug möglich ist.
 4. **Für Schengen-Reisen führen Sie ein Protokoll der Ein- und Ausreisedaten.** Verwenden Sie den offiziellen Rechner der Europäischen Kommission, um Ihre verbleibenden Tage vor einer Reise, die auf kürzliche Schengen-Reisen folgt, zu überprüfen.

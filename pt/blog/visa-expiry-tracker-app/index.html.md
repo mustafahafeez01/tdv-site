@@ -49,8 +49,7 @@ A Comissão Europeia fornece uma [calculadora oficial de permanência em Schenge
 
 As consequências de uma ultrapassagem de visto variam consoante o país mas são consistentemente sérias. Para além das barras dos EUA descritas acima:
 
-- **Reino Unido:** As ultrapassagens são registadas e afetarão futuras candidaturas de visto. O Gabinete do Ministério do Interior do Reino Unido considera as ultrapassagens ao avaliar credibilidade e pode recusar candidaturas subsequentes.
-- **Austrália:** Ultrapassar o seu visto pode resultar em restrições às futuras candidaturas de visto e remoção do país. Sob a Migration Act 1958, os registos de ultrapassagem são rastreados e afetarão futuras candidaturas de visto e elegibilidade de reentrada.
+- **Austrália:** Ultrapassar o seu visto pode resultar em restrições às futuras candidaturas de visto e remoção do país. Os registos de permanência além do prazo são acompanhados e podem afetar futuras candidaturas de visto e a possibilidade de reentrada.
 - **Área de Schengen:** As estadias são registadas na fronteira, e uma proibição de entrada emitida por um país Schengen é geralmente partilhada com os outros através do [Sistema de Informações Schengen (SIS)](https://home-affairs.ec.europa.eu/policies/schengen/schengen-information-system/what-sis-and-how-does-it-work_en), pelo que se aplica a toda a Área Schengen, [que a Comissão Europeia lista atualmente como 29 países](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en).
 - **Tailândia:** As ultrapassagens incorrem numa multa diária fixada pela imigração tailandesa, até um limite máximo, e uma ultrapassagem de mais de 90 dias pode levar a deportação e a uma proibição de regresso.
 
@@ -70,7 +69,7 @@ Dada a complexidade acima, uma boa aplicação de rastreamento de visto precisa 
 
 ## Passos Práticos para Rastrear o Seu Visto Corretamente
 
-1. **Registe a sua data de entrada no dia em que chega.** O seu relógio de permanência máxima começa imediatamente na entrada, não a partir de quando o visto foi emitido ou quando o período de validade de entrada começou.
+1. **Registe a sua data de entrada no dia em que chega.** Na maioria dos casos, a contagem da sua permanência máxima começa no dia em que entra, não na data de emissão do visto nem no início do período de validade para entrada.
 2. **Calcule e note a sua data de saída permitida mais recente.** Adicione a sua duração máxima de permanência à sua data de entrada. Esta é a data em que deve partir — mais cedo se precisar de tempo para atingir um ponto de partida.
 3. **Rastreie o estatuto de entrada simples vs. múltipla.** Se o seu visto é de entrada única, sair do país esgota-o geralmente, por isso confirme se uma excursão de um dia é permitida antes de atravessar uma fronteira.
 4. **Para viagem Schengen, mantenha um registo de datas de entrada e saída.** Utilize a calculadora oficial da Comissão Europeia para verificar os seus dias restantes antes de qualquer viagem que se siga a viagem recente em Schengen.

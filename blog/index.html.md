@@ -100,7 +100,7 @@ Source: https://traveldocumentvault.com/blog/
 
 ##
 
-[Visas & Entry ETIAS: What Documents You Need and How to Apply ETIAS is launching for visa-exempt travellers heading to Europe. Here is who needs it, what to submit, common rejection reasons, and how to handle a refusal. May 8, 20268 min read](https://traveldocumentvault.com/blog/etias-documents-2026/)
+[Visas & Entry ETIAS: What Documents You Need and How to Apply UK, US and Canadian visitors will need ETIAS for Europe. What to have ready: a passport valid 3+ months and an email address. May 8, 20268 min read](https://traveldocumentvault.com/blog/etias-documents-2026/)
 
 ##
 

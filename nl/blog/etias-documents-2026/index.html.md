@@ -1,6 +1,6 @@
 # ETIAS: welke documenten je nodig hebt en hoe je aanvraagt
 
-> Wat ETIAS vraagt: paspoort minstens 3 maanden geldig, een e-mailadres en soms een inkomensbewijs. Voor het VK, de VS en Canada.
+> Wat ETIAS vraagt: paspoort minstens 3 maanden geldig, een e-mailadres. Voor het VK, de VS en Canada.
 
 Source: https://traveldocumentvault.com/nl/blog/etias-documents-2026/
 
@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/nl/blog/etias-documents-2026/
 ## Belangrijkste punten
 
 - **ETIAS is een digitale reistoestemming** voor reizigers uit het VK, de VS en Canada – nodig voor visumvrije toegang tot het Schengengebied zodra het verplicht wordt
-- **Je hebt een paspoort nodig dat nog meer dan 3 maanden geldig is** na je vertrekdatum, plus een e-mailadres om aan te vragen
+- **Je hebt een paspoort nodig dat nog meer dan 3 maanden geldig is** na je vertrekdatum, plus een e-mailadres om aan te vragen. Het paspoort moet ook in de afgelopen tien jaar zijn afgegeven.
 - De verwerkingstijd varieert, zeker vlak na de lancering; **vraag ruim op tijd aan** en raadpleeg de officiële EU-website voor actuele informatie
 - Check de [officiële EU-website](https://home-affairs.ec.europa.eu/news/european-travel-authorisation-etias-will-cost-eur-20-2025-07-17_en) voor de actuele kosten; **onder de 18 en boven de 70 betaal je niets**, maar je hebt nog steeds een goedkeuring nodig
 - **Twijfels over de betrouwbaarheid van je antwoorden kunnen tot weigering leiden, dus vermeld alles, ook als het al lang geleden is**
@@ -40,19 +40,17 @@ Tijdens de aanvraag wordt gevraagd naar **eerdere strafrechtelijke veroordelinge
 
 ETIAS vraagt ook naar **veiligheids- en persoonsgegevens** – je volledige naam, geboortedatum, geboorteplaats, nationaliteit en contactgegevens – naast vragen over eventuele strafrechtelijke veroordelingen of een terugkeerbesluit. Eerlijkheid is hier belangrijk: fouten of onjuiste informatie kunnen leiden tot weigering, intrekking of nietigverklaring van een toestemming.
 
-**Inkomensbewijs** is optioneel – recente loonstroken, bankafschriften of belastingaangiftes tellen allemaal mee. De Europese Commissie verplicht het niet, maar het meesturen kan een twijfelgeval versterken en het risico op afwijzing verkleinen. Wij zouden het hoe dan ook meesturen als er in de aanvraag iets anders onzeker lijkt.
+De EU noemt in de lijst met gevraagde formuliergegevens je opleidingsniveau en huidige beroep, geen inkomensbewijs.
 
 Veel aanvragers denken ten onrechte dat ze vaccinatiebewijzen, hotelboekingen of retourvluchten nodig hebben. ETIAS vereist dit niet in de aanvraagfase. Bij grenscontrole kun je ze nodig hebben, maar ETIAS-goedkeuring hangt er niet van af.
 
 ## Vermeld elk land dat je wilt bezoeken op het formulier
 
-Zodra je je gegevens hebt verzameld, is de aanvraag zelf eenvoudig. Bezoek het officiële ETIAS-portaal en start een nieuwe aanvraag – je hebt geen volledig account nodig, alleen een e-mailadres en een tijdelijk wachtwoord.
+Zodra je je gegevens hebt verzameld, is de aanvraag zelf eenvoudig. Bezoek het officiële ETIAS-portaal en start een nieuwe aanvraag.
 
 Het formulier vraagt naar je persoonsgegevens (naam, geboortedatum, nationaliteit), paspoortgegevens (nummer en geldigheidsdatum) en je reisplannen (beoogde bestemming en verblijfsduur). Wees precies: ga je drie landen bezoeken, vermeld dan alle drie. Weet je de exacte data niet, gebruik dan een geschatte maandperiode – het is inconsistentie die tot afwijzing leidt, niet een schatting.
 
-Daarna beantwoord je veiligheidsvragen over strafrechtelijk verleden, eerdere uitzettingen, overschrijding van de visumtermijn en betrokkenheid bij terrorisme of extremisme – vragen bedoeld om veiligheidsrisico's op te sporen. Moet je op een van deze "ja" antwoorden, dan is het optionele opmerkingenveld de plek waar een goede toelichting kan helpen. Ben je bijvoorbeeld eerder een visum geweigerd door een misverstand, dan kan een korte toelichting de uitkomst beïnvloeden.
-
-En de gezondheid dan? Je krijgt de vraag of je een besmettelijke ziekte hebt of een andere aandoening die een risico voor de volksgezondheid vormt. Dat is iets anders dan de medische eisen van een reisverzekering – ETIAS richt zich op infectiebestrijding, niet op je individuele gezondheidstoestand.
+Beantwoord elke vraag nauwkeurig.
 
 Tot slot controleer je je gegevens, betaal je de kosten die bij het afrekenen worden getoond (gratis als je onder de 18 of boven de 70 bent) en verstuur je de aanvraag. Er wordt meteen een bevestigingsnummer aangemaakt, en je aanvraag komt in de verwerkingswachtrij.
 
@@ -68,29 +66,21 @@ Een **verzoek om meer informatie** kan volgen op onvolledige of tegenstrijdige a
 
 Bij een **weigering** ontvang je de redenen en heb je recht op bezwaar, dat wordt behandeld door de autoriteiten van het land dat de aanvraag heeft geweigerd. Je kunt ook opnieuw aanvragen: volgens de EU leidt een eerdere weigering niet automatisch tot weigering van een nieuwe aanvraag.
 
-## De meeste afwijzingen komen door inconsistentie, niet door pech
+## Vermeld alles, ook oude veroordelingen
 
-De meest voorkomende ETIAS-afwijzingen komen neer op inconsistenties in de reisgeschiedenis en onvolledige informatie – dit zijn de dingen om op te letten.
+Eén punt verdient aandacht voordat je de aanvraag indient.
 
 **Niet-vermeld strafblad:** heb je een strafblad en vermeld je dit niet, maar ontdekt ETIAS dit bij een achtergrondcontrole, dan kan je aanvraag worden geweigerd. Vermeld het altijd, ook als de veroordeling oud is of in je thuisland is uitgewist, want Europese autoriteiten kunnen de gegevens nog steeds bewaren. Twijfels over de betrouwbaarheid van je gegevens zijn een genoemde weigeringsgrond, dus vermeld alles.
 
-**Eerdere overschrijding van de verblijfsduur:** heb je eerder een visum overschreden in Europa of elders, dan zal ETIAS dit signaleren. Kom voorbereid met een korte toelichting in het optionele opmerkingenveld – iets als "acute familieomstandigheid vertraagde het vertrek; opgelost met de autoriteiten" kan je zaak helpen, al leiden sommige overschrijdingen ongeacht de toelichting tot een weigering.
-
-**Tegenstrijdige reisgeschiedenis:** ETIAS ontdekt inconsistenties, zoals een korte reis naar Frankrijk opgeven terwijl je in- en uitreisdata op een veel langer verblijf wijzen. Weet je de exacte data niet meer, dan is het beter om voorzichtig te schatten of duidelijk aan te geven dat je een schatting geeft, in plaats van een tegenstrijdigheid te riskeren.
-
-**Onduidelijke arbeids- of inkomenssituatie:** markeer eventuele hiaten of tegenstrijdigheden, zoals reisdata die suggereren dat je in het buitenland werkte zonder dit te vermelden, of onverklaarde hiaten in je arbeidsverleden. Gebruik het optionele opmerkingenveld om dit toe te lichten. ETIAS wijst je niet af omdat je werkloos bent, maar onverklaarde inconsistenties wekken argwaan.
-
-Controleer je gegevens zorgvuldig voordat je verzendt om afwijzing te voorkomen. Is iets onzeker, gebruik dan het optionele opmerkingenveld om het toe te lichten.
-
-Een korte, eerlijke toelichting voorkomt veel meer afwijzingen dan proberen informatie te verbergen.
+Controleer je gegevens zorgvuldig voordat je de aanvraag verstuurt en beantwoord elke vraag nauwkeurig.
 
 ## Kinderen moeten ook aanvragen, ook zonder kosten
 
-Kinderen onder de 18 betalen de ETIAS-kosten niet, maar moeten wel toestemming aanvragen, waarbij ouders namens hen aanvragen. Een toekomstige verandering om in de gaten te houden: biometrische controles aan de grens kunnen op termijn vereisen dat kinderen persoonlijk aanwezig zijn.
+Kinderen onder de 18 betalen de ETIAS-kosten niet, maar moeten wel toestemming aanvragen, waarbij ouders namens hen aanvragen.
 
-Gezinsgroepen moeten elke aanvraag apart indienen in plaats van als één gezamenlijke "gezins"-eenheid. Je kunt in het onderdeel reisgegevens wel vermelden dat je als gezin reist, en die vermelding kan helpen als de aanvraag van één lid wordt uitgelicht voor beoordeling. Wij zouden de formulieren van alle gezinsleden in dezelfde sessie invullen, omdat die gezinsvermelding alleen helpt als de gegevens op elkaar aansluiten.
+Gezinnen moeten voor elke persoon een aparte aanvraag indienen, niet één gezamenlijke gezinsaanvraag.
 
-Word je geweigerd en moet je toch reizen, dan kun je bezwaar maken of opnieuw aanvragen. Een langverblijfvisum via de betreffende ambassade of het consulaat is een andere mogelijkheid, die doorgaans meer inreizen en langer verblijf toestaat dan visumvrij reizen. Omdat de vereisten per bestemming en nationaliteit verschillen, neem je het beste rechtstreeks contact op met de ambassade om te weten wat je nodig hebt.
+Word je geweigerd en moet je toch reizen, dan kun je bezwaar maken of opnieuw aanvragen.
 
 ![Diagram dat EES en ETIAS vergelijkt: EES gebeurt aan de grens met vingerafdrukken en foto, zonder aanvraag, en wordt stap voor stap ingevoerd; ETIAS gebeurt voordat je vliegt, wordt online aangevraagd tegen een klein bedrag, en is nog niet verplicht zonder vastgestelde datum; je hebt uiteindelijk beide nodig, en geen van beide is een visum](https://traveldocumentvault.com/blog/etias-documents-2026/ees-vs-etias-figure-nl.jpg) Twee verschillende poorten: EES registreert je bij aankomst, ETIAS geeft je vooraf toestemming voor vertrek.
 
@@ -128,7 +118,7 @@ ETIAS is verplicht voor visumvrije niet-EU-burgers die een kort verblijf plannen
 
 ### Welke documenten heb ik nodig om ETIAS aan te vragen?
 
-Je moet een geldig paspoort hebben dat nog meer dan drie maanden geldig is na je beoogde vertrekdatum en in de afgelopen tien jaar is afgegeven. Je hebt ook een e-mailadres nodig. Inkomensbewijs (loonstrook, bankafschrift of belastingaangifte) wordt aanbevolen maar is niet altijd verplicht. Er worden geen fysieke documenten ingediend – alles wordt digitaal geüpload of ingevuld in de online aanvraag.
+Je moet een geldig paspoort hebben dat nog meer dan drie maanden geldig is na je beoogde vertrekdatum en in de afgelopen tien jaar is afgegeven. Je hebt ook een e-mailadres nodig.
 
 ### Wat kost ETIAS en hoelang duurt het?
 
@@ -136,7 +126,7 @@ De Europese Commissie publiceert de actuele ETIAS-kosten op haar officiële webs
 
 ### Wat gebeurt er als mijn ETIAS-aanvraag wordt afgewezen?
 
-Wordt je aanvraag geweigerd, dan ontvang je een melding met de redenen en heb je recht op bezwaar, dat wordt behandeld door de autoriteiten van het land dat de aanvraag heeft geweigerd. Je kunt ook opnieuw aanvragen: volgens de EU leidt een eerdere weigering niet automatisch tot weigering van een nieuwe aanvraag. Is het probleem oplosbaar (bijvoorbeeld bijgewerkte reisinformatie), los het dan op en vraag opnieuw aan. Een langverblijfvisum via een ambassade is een andere mogelijkheid.
+Wordt je aanvraag geweigerd, dan ontvang je een melding met de redenen en heb je recht op bezwaar, dat wordt behandeld door de autoriteiten van het land dat de aanvraag heeft geweigerd. Je kunt ook opnieuw aanvragen: volgens de EU leidt een eerdere weigering niet automatisch tot weigering van een nieuwe aanvraag.
 
 ### Kan ik naar Europa reizen voordat ETIAS wordt gelanceerd?
 

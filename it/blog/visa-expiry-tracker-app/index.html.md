@@ -49,8 +49,7 @@ La Commissione Europea fornisce un [calcolatore ufficiale di soggiorno Schengen]
 
 Le conseguenze variano da paese a paese, ma sono sempre serie. Oltre ai divieti statunitensi visti sopra:
 
-- **Regno Unito:** I soggiorni oltre il limite vengono registrati e pesano sulle domande di visto future. L'Ufficio per l'Immigrazione del Regno Unito li considera nel valutare la tua credibilità e può rifiutare le richieste successive.
-- **Australia:** Restare oltre la durata del tuo visto può portare a restrizioni sulle domande future e all'allontanamento dal paese. Secondo il Migration Act 1958, questi casi vengono registrati e incidono sulle domande di visto future e sulla possibilità di rientrare.
+- **Australia:** Restare oltre la durata del tuo visto può portare a restrizioni sulle domande future e all'allontanamento dal paese. Questi casi vengono registrati e possono incidere sulle domande di visto future e sulla possibilità di rientrare.
 - **Area Schengen:** I soggiorni vengono registrati alla frontiera, e un divieto d'ingresso emesso da un paese Schengen è in genere condiviso con gli altri tramite il [Sistema d'Informazione Schengen](https://home-affairs.ec.europa.eu/policies/schengen/schengen-information-system/what-sis-and-how-does-it-work_en), quindi si applica a tutta l'Area Schengen, [che la Commissione Europea elenca attualmente come composta da 29 paesi](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en).
 - **Tailandia:** Si paga una multa giornaliera stabilita dall'immigrazione thailandese, fino a un tetto massimo, e oltre i 90 giorni si può essere espulsi e non poter rientrare.
 
@@ -70,7 +69,7 @@ Visto quanto sopra, una buona app per la scadenza dei visti deve fare più di un
 
 ## Passi Pratici per Tracciare Bene il Tuo Visto
 
-1. **Segna la data di ingresso il giorno dell'arrivo.** Il conteggio della durata massima di soggiorno parte subito all'ingresso, non da quando il visto è stato rilasciato o da quando è iniziato il periodo di validità.
+1. **Segna la data di ingresso il giorno dell'arrivo.** Nella maggior parte dei casi il conteggio della durata massima di soggiorno parte dal giorno di ingresso, non da quando il visto è stato rilasciato o da quando è iniziato il periodo di validità.
 2. **Calcola e annota l'ultima data di uscita consentita.** Aggiungi la durata massima di soggiorno alla data di ingresso. È la data entro cui devi partire, o prima se ti serve tempo per raggiungere il punto di partenza.
 3. **Tieni traccia degli ingressi, singoli o multipli.** Se il tuo visto è a ingresso singolo, uscire dal paese di solito lo esaurisce, quindi verifica se una gita di un giorno è consentita prima di attraversare un confine.
 4. **Per Schengen, tieni un registro delle date di ingresso e di uscita.** Usa il calcolatore ufficiale della Commissione Europea per controllare i giorni che ti restano prima di ogni viaggio che segue di poco uno precedente a Schengen.

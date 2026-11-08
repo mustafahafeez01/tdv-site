@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/es/blog/etias-documents-2026/
 ## Puntos Clave
 
 - **ETIAS es una autorización de viaje digital** para viajeros del Reino Unido, EE.UU. y Canadá —necesaria para la entrada sin visado al espacio Schengen una vez que sea obligatoria
-- **Necesitas un pasaporte válido durante más de 3 meses** después de tu fecha de salida y una dirección de correo electrónico para solicitar
+- **Necesitas un pasaporte válido durante más de 3 meses** después de tu fecha de salida y una dirección de correo electrónico para solicitar. Además, debe haberse expedido en los últimos diez años.
 - El tiempo de procesamiento varía, especialmente poco después del lanzamiento; **solicita con suficiente antelación a tu viaje** y consulta el sitio oficial de la UE para la orientación actual
 - Consulta la tarifa actual en el [sitio oficial de la UE](https://home-affairs.ec.europa.eu/news/european-travel-authorisation-etias-will-cost-eur-20-2025-07-17_en); **los menores de 18 y mayores de 70 no pagan** pero igualmente necesitan autorización
 - **Las dudas sobre la fiabilidad de tus respuestas pueden dar lugar a una denegación, así que declara todo, aunque sea antiguo**
@@ -40,19 +40,17 @@ Durante la solicitud, el formulario pregunta por **condenas penales anteriores, 
 
 ETIAS te preguntará por **información de seguridad y personal** —tu nombre completo, fecha de nacimiento, lugar de nacimiento, nacionalidad y datos de contacto—, junto con preguntas sobre condenas penales o decisiones de retorno. Es importante responder con sinceridad: los errores o la información falsa pueden dar lugar a una denegación, revocación o anulación de la autorización.
 
-Aunque es opcional, enviar **comprobante de ingresos** —como nóminas recientes, extractos bancarios o declaraciones de impuestos— vale la pena considerar, ya que la Comisión Europea no lo exige universalmente pero proporcionar prueba de estabilidad financiera puede fortalecer aplicaciones dudosas y reducir significativamente el riesgo de rechazo. Nosotros lo incluiríamos de todos modos si algo más de la solicitud te parece dudoso.
+La lista de la UE de lo que pide el formulario incluye tu nivel de estudios y tu ocupación actual, no un comprobante de ingresos.
 
 Muchos solicitantes erróneamente asumen que necesitan registros de vacunación, reservas de hotel o confirmaciones de vuelos de regreso. ETIAS no requiere estos en la etapa de solicitud. Es posible que los necesites para inspección fronteriza, pero la aprobación de ETIAS no depende de ellos.
 
 ## Indica en el formulario todos los países que piensas visitar
 
-Una vez que hayas recopilado tu información, la solicitud en línea es sencilla —visita el portal oficial de ETIAS e inicia una nueva solicitud— no necesitas una cuenta completa, solo una dirección de correo electrónico y una contraseña temporal.
+Una vez que hayas recopilado tu información, la solicitud en línea es sencilla —visita el portal oficial de ETIAS e inicia una nueva solicitud.
 
 El formulario solicita tus datos personales (nombre, fecha de nacimiento, nacionalidad), información del pasaporte (número y fecha de validez) y tus planes de viaje (destino previsto y duración de la estancia). Sé preciso: si planeas visitar tres países, enumera los tres. Si no estás seguro de fechas exactas, usa rangos de meses aproximados —la inconsistencia es lo que desencadena rechazos, no las fechas aproximadas.
 
-A continuación, responderás preguntas de seguridad que cubren historial criminal, deportaciones anteriores, estadías excesivas de visado e implicación en terrorismo o extremismo —preguntas diseñadas explícitamente para atrapar riesgos de seguridad. Si necesitas responder "sí" a cualquiera de estas, la sección de notas opcional es donde una buena explicación puede ayudar; por ejemplo, si anteriormente se te rechazó un visado debido a un malentendido, una breve aclaración puede cambiar el resultado.
-
-Las declaraciones de salud son sencillas —se te preguntará si tienes enfermedades infecciosas o condiciones graves que representen un riesgo para la salud pública, lo que difiere de los requisitos médicos del seguro de viaje ya que ETIAS se enfoca específicamente en control de enfermedades en lugar del estado de salud individual.
+Responde a todas las preguntas con exactitud.
 
 Al final, revisas tu información, pagas la tarifa que se muestra al finalizar (gratuita si tienes menos de 18 o más de 70), y envías —en ese momento se genera un número de confirmación inmediatamente y tu solicitud entra en la cola de procesamiento.
 
@@ -68,29 +66,21 @@ Una **petición de información adicional** puede deberse a respuestas incomplet
 
 Una **denegación** incluye sus motivos y el derecho a recurrir ante las autoridades del país que la haya emitido. También puedes presentar otra solicitud: la UE indica que una denegación anterior no implica la denegación automática de una nueva solicitud.
 
-## La mayoría de los rechazos se deben a incoherencias, no a mala suerte
+## Declara todo, incluso las condenas antiguas
 
-Los rechazos más frecuentes de ETIAS provienen de inconsistencias en el historial de viajes e información incompleta. Aquí están los principales escollos.
+Hay algo que conviene hacer bien antes de enviar la solicitud.
 
 **Antecedentes penales no divulgados:** Si tienes antecedentes y no los declaras, pero ETIAS los detecta al comprobarlos, pueden denegar tu solicitud. Decláralos siempre, aunque la condena sea antigua o se haya cancelado en tu país de origen, porque las autoridades europeas aún pueden conservar registros. Las dudas sobre la fiabilidad de la información que facilitas son un motivo expreso de denegación, así que declara todo.
 
-**Estadías excesivas anteriores:** Si has excedido un visado en Europa o en otro lugar, ETIAS definitivamente lo señalará, así que ven preparado con una breve explicación en el campo de notas opcional —algo como "Asunto familiar de emergencia retrasó la salida; resuelto con autoridades" puede ayudar tu caso, aunque algunas estadías excesivas desencadenan rechazo independientemente de la justificación.
-
-**Historial de viajes conflictivo:** ETIAS detectará inconsistencias como afirmar un viaje de 10 días a Francia cuando tus fechas de entrada y salida sugieren una estancia de 20 días, así que si no recuerdas fechas exactas, es mejor estimar conservadoramente o notar explícitamente que estás aproximando en lugar de arriesgar una contradicción.
-
-**Empleo o ingresos poco claros:** Señala cualquier brecha o inconsistencia —por ejemplo, si afirmas empleo pero tus fechas de viaje sugieren que estabas trabajando en el extranjero sin decirlo, o si tu historial de empleo tiene brechas inexplicables— usando la sección de notas opcional para aclarar. ETIAS no te rechazará por estar desempleado, pero las inconsistencias inexplicables despertarán sospecha.
-
-Para evitar rechazo, revisa tu información cuidadosamente tres veces antes de enviar, y si algo es incierto, usa el campo de notas opcional para explicar.
-
-Una explicación breve y honesta previene muchos más rechazos que intentar ocultar información.
+Revisa la información con cuidado antes de enviarla y responde a todas las preguntas con exactitud.
 
 ## Los niños también deben solicitarlo, aunque no paguen tarifa
 
-Los menores de 18 años no pagan la tarifa de ETIAS pero aún deben solicitar autorización, con los padres solicitando en su nombre —aunque como mejora futura, las verificaciones biométricas en la frontera pueden eventualmente requerir que los niños estén presentes en persona.
+Los menores de 18 años no pagan la tarifa de ETIAS pero aún deben solicitar autorización, con los padres solicitando en su nombre.
 
-Los grupos familiares deben enviar cada solicitud por separado en lugar de como una unidad "familiar" única, aunque puedes señalar que viajas como familia en la sección de detalles de viaje —esta notación puede ayudar si la solicitud de un miembro es marcada para revisión. Nosotros rellenaríamos los formularios de todos los miembros de la familia en la misma sesión, porque la nota familiar solo ayuda si los datos coinciden.
+Las familias deben presentar una solicitud por persona, no una única solicitud familiar.
 
-Si te deniegan la autorización y aún necesitas viajar, puedes recurrir o presentar otra solicitud. Otra vía es un visado de larga duración a través de la embajada o consulado correspondiente, que típicamente permite múltiples entradas y estancias más largas que viajes sin visado. Dado que los requisitos varían significativamente según el destino y tu nacionalidad, contacta la embajada directamente para entender qué necesitarás.
+Si te deniegan la autorización y aún necesitas viajar, puedes recurrir o presentar otra solicitud.
 
 ![Diagrama que compara EES y ETIAS: EES ocurre en la frontera, con huellas y foto y sin solicitud previa, y se despliega progresivamente en los puntos de entrada; ETIAS ocurre antes de volar, se solicita en línea con una tarifa, y aún no es obligatorio sin fecha fijada; con el tiempo necesitarás los dos, y ninguno de los dos es un visado](https://traveldocumentvault.com/blog/etias-documents-2026/ees-vs-etias-figure-es.jpg) Dos controles distintos: EES te registra al llegar; ETIAS te autoriza antes de salir.
 
@@ -128,7 +118,7 @@ ETIAS es obligatorio para ciudadanos no comunitarios exentos de visado que viaje
 
 ### ¿Qué documentos necesito para solicitar ETIAS?
 
-Debes tener un pasaporte válido durante más de tres meses después de tu fecha de salida prevista, expedido en los últimos diez años. También necesitarás una dirección de correo electrónico. Opcionalmente, se recomienda un comprobante de ingresos (nómina, extracto bancario o declaración de impuestos) pero no siempre es obligatorio. No se envían documentos físicos —todo se carga digitalmente o se introduce en la solicitud en línea.
+Debes tener un pasaporte válido durante más de tres meses después de tu fecha de salida prevista, expedido en los últimos diez años. También necesitarás una dirección de correo electrónico.
 
 ### ¿Cuánto cuesta ETIAS y cuánto tiempo toma?
 
@@ -136,7 +126,7 @@ La Comisión Europea publica la tarifa actual de ETIAS en su sitio oficial. Los 
 
 ### ¿Qué sucede si se rechaza mi solicitud de ETIAS?
 
-Si te deniegan la solicitud, recibirás una notificación con los motivos y tendrás derecho a recurrir ante las autoridades del país que la haya denegado. También puedes presentar otra solicitud: la UE indica que una denegación anterior no implica la denegación automática de una nueva solicitud. Si la causa tiene solución —por ejemplo, actualizar información de viaje—, corrígela y vuelve a solicitar. Otra vía es un visado de larga duración a través de una embajada.
+Si te deniegan la solicitud, recibirás una notificación con los motivos y tendrás derecho a recurrir ante las autoridades del país que la haya denegado. También puedes presentar otra solicitud: la UE indica que una denegación anterior no implica la denegación automática de una nueva solicitud.
 
 ### ¿Puedo viajar a Europa antes de que se lance ETIAS?
 

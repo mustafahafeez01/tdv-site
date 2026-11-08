@@ -49,8 +49,7 @@ EU-Kommissionen tilbyder en officiel [Schengen-opholdsberegner](https://home-aff
 
 Konsekvenserne af en visumoverstay varierer fra land til land, men er konsekvent alvorlige. Ud over USA's forbud beskrevet ovenfor:
 
-- **Storbritannien:** Overstays registreres og påvirker fremtidige visumansøgninger. Det britiske indenrigsministerium (Home Office) inddrager overstays, når det vurderer troværdighed, og kan afvise senere ansøgninger.
-- **Australien:** En overstay kan medføre begrænsninger på fremtidige visumansøgninger og udsendelse af landet. Efter Migration Act 1958 registreres overstays og påvirker fremtidige visumansøgninger og mulighed for genindrejse.
+- **Australien:** En overstay kan medføre begrænsninger på fremtidige visumansøgninger og udsendelse af landet. Overstays registreres og kan påvirke fremtidige visumansøgninger og muligheden for genindrejse.
 - **Schengenområdet:** Ophold registreres ved grænsen, og et indrejseforbud udstedt af ét Schengenland deles som regel med de andre gennem [Schengen-informationssystemet](https://home-affairs.ec.europa.eu/policies/schengen/schengen-information-system/what-sis-and-how-does-it-work_en) (SIS), så det gælder i hele Schengenområdet, som [EU-Kommissionen i øjeblikket opregner til 29 lande](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en).
 - **Thailand:** Overstays medfører en daglig bøde fastsat af de thailandske indvandringsmyndigheder, op til et maksimum, og en overstay på mere end 90 dage kan medføre udvisning og forbud mod at vende tilbage.
 
@@ -70,7 +69,7 @@ Med al denne kompleksitet in mente skal en god app til visumovervågning kunne m
 
 ## Praktiske skridt til at overvåge dit visum ordentligt
 
-1. **Noter din indrejsedato den dag, du ankommer.** Uret for din maksimale opholdstid starter straks ved indrejsen, ikke fra hvornår visummet blev udstedt, eller hvornår gyldighedsperioden for indrejse begyndte.
+1. **Noter din indrejsedato den dag, du ankommer.** I de fleste tilfælde regnes din maksimale opholdstid fra den dag, du rejser ind, ikke fra da visummet blev udstedt, eller gyldighedsperioden for indrejse begyndte.
 2. **Beregn og noter din seneste tilladte udrejsedato.** Læg din maksimale opholdstid til din indrejsedato. Det er den dato, du senest skal forlade landet – tidligere, hvis du har brug for tid til at nå et afrejsested.
 3. **Hold styr på, om det er enkelt- eller flerindrejse.** Er dit visum enkeltindrejse, bliver det som regel brugt op, når du forlader landet, så tjek, om en dagstur er tilladt, før du krydser en grænse.
 4. **Ved Schengen-rejser, før en logbog over ind- og udrejsedatoer.** Brug EU-Kommissionens officielle beregner til at bekræfte dine resterende dage før enhver rejse, der følger efter nylig Schengen-rejse.

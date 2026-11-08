@@ -100,7 +100,7 @@ Source: https://traveldocumentvault.com/sv/blog/
 
 ##
 
-[Visum & Inresa ETIAS: vilka handlingar du behöver och hur du ansöker Besökare från Storbritannien, USA och Kanada behöver ETIAS från 2026. Pass giltigt i minst 3 månader, e-postadress, valfritt inkomstbevis. Kontrollera EU:s officiella webbplats för aktuell avgift och tidplan. 8 maj 20268 min läsning](https://traveldocumentvault.com/sv/blog/etias-documents-2026/)
+[Visum & Inresa ETIAS: vilka handlingar du behöver och hur du ansöker Besökare från Storbritannien, USA och Kanada behöver ETIAS från 2026. Pass giltigt i minst 3 månader, e-postadress. Kontrollera EU:s officiella webbplats för aktuell avgift och tidplan. 8 maj 20268 min läsning](https://traveldocumentvault.com/sv/blog/etias-documents-2026/)
 
 ##
 

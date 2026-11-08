@@ -51,8 +51,7 @@ The European Commission provides an official [Schengen stay calculator](https://
 
 The consequences of a visa overstay vary by country but are consistently serious. Beyond the US bars described above:
 
-- **UK:** Overstays are recorded and will affect future visa applications. The UK Home Office considers overstays when assessing credibility and may refuse subsequent applications.
-- **Australia:** Overstaying your visa may result in restrictions on future visa applications and removal from the country. Under the Migration Act 1958, overstay records are tracked and will affect future visa applications and re-entry eligibility.
+- **Australia:** Overstaying your visa may result in restrictions on future visa applications and removal from the country. Overstay records are tracked and may affect future visa applications and re-entry eligibility.
 - **Schengen Area:** Stays are recorded at the border, and an entry ban issued by one Schengen country is generally shared with the others through the [Schengen Information System](https://home-affairs.ec.europa.eu/policies/schengen/schengen-information-system/what-sis-and-how-does-it-work_en), so it applies across the Schengen area, [which the European Commission currently lists as 29 countries](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en).
 - **Thailand:** Overstays incur a daily fine set by Thai immigration, up to a capped maximum, and an overstay of more than 90 days can lead to deportation and a ban on returning.
 
@@ -72,7 +71,7 @@ With all that complexity in mind, a good visa expiry tracker app needs to handle
 
 ## Practical Steps to Track Your Visa Properly
 
-1. **Record your entry date the day you arrive.** Your maximum stay clock starts immediately on entry, not from when the visa was issued or when the entry validity period began.
+1. **Record your entry date the day you arrive.** In most cases, your maximum stay clock starts on the day you enter, not from when the visa was issued or when the entry validity period began.
 2. **Calculate and note your latest permitted exit date.** Add your maximum stay duration to your entry date. This is the date you must leave by - earlier if you need time to reach a departure point.
 3. **Track single vs. multiple entry status.** If your visa is single-entry, leaving the country will generally use it up, so check whether a day trip is allowed before you cross a border.
 4. **For Schengen travel, keep a log of entry and exit dates.** Use the European Commission's official calculator to verify your remaining days before any trip that follows recent Schengen travel.

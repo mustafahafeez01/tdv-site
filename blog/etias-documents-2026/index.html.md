@@ -1,6 +1,6 @@
 # ETIAS: What Documents You Need and How to Apply
 
-> UK, US and Canadian visitors will need ETIAS for Europe. What to have ready: a passport valid 3+ months, an email, and optional income proof.
+> UK, US and Canadian visitors will need ETIAS for Europe. What to have ready: a passport valid 3+ months and an email address.
 
 Source: https://traveldocumentvault.com/blog/etias-documents-2026/
 
@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/blog/etias-documents-2026/
 ## Key Takeaways
 
 - **ETIAS is a digital travel authorisation** for UK, US, and Canadian travellers, required for visa-exempt entry to the Schengen area once it becomes mandatory
-- **You need a passport valid for more than 3 months** beyond your departure date and an email address to apply
+- **You need a passport valid for more than 3 months** beyond your departure date and an email address to apply. It must also have been issued within the last ten years.
 - Processing time varies, especially soon after launch; **apply well ahead of your trip** and check the official EU site for current guidance
 - Check [the official EU site](https://home-affairs.ec.europa.eu/news/european-travel-authorisation-etias-will-cost-eur-20-2025-07-17_en) for the current fee; **under-18s and over-70s don't pay** but still need authorisation
 - **Doubts about the reliability of your answers can lead to refusal**, so disclose everything, even if it's old
@@ -40,19 +40,17 @@ During the application the form asks about **past criminal convictions**, travel
 
 ETIAS will ask for **security and personal information**: your full name, date of birth, place of birth, nationality, and contact details, alongside questions about any criminal convictions or a return decision. Honesty matters here: mistakes or false information can lead to refusal, revocation or annulment of an authorisation.
 
-**Proof of income** is optional. Recent pay slips, bank statements, or tax returns all count. The European Commission doesn't mandate it, but including it can strengthen a borderline application and reduce the risk of rejection. We'd include it anyway if anything else in the application looks uncertain.
+The EU's list of what the form asks for includes your level of education and current occupation, not proof of income.
 
 Many applicants mistakenly assume they need vaccination records, hotel bookings, or return flight confirmations. ETIAS does not require these at the application stage. You may need them for border inspection, but ETIAS approval does not depend on them.
 
 ## List Every Country You Plan to Visit on the Form
 
-Once you've gathered your information, the application itself is straightforward. Visit the official ETIAS portal and start a new application; no full account is needed, just an email address and a temporary password.
+Once you've gathered your information, the application itself is straightforward. Visit the official ETIAS portal and start a new application.
 
 The form asks for your personal details (name, date of birth, nationality), passport information (number and validity date), and your travel plans (intended destination and stay duration). Be precise: if you plan to visit three countries, list all three. If you're unsure about exact dates, use approximate month ranges, because inconsistency is what triggers rejections, not approximate dates.
 
-Next, you'll answer security questions covering criminal history, previous deportations, visa overstays, and involvement in terrorism or extremism, all designed to catch security risks. If you need to answer "yes" to any of these, the optional notes section is where a good explanation can help. For instance, if you were previously refused a visa because of a misunderstanding, a brief clarification can shift the outcome.
-
-On health, you'll be asked whether you have an infectious disease or another condition that poses a public health risk. That's different from travel insurance's medical requirements; ETIAS is focused on disease control, not your individual health status.
+Answer every question accurately.
 
 At the end, you review your information, pay the fee shown at checkout (free if under 18 or over 70), and submit. A confirmation number is generated immediately, and your application enters the processing queue.
 
@@ -68,29 +66,21 @@ A **request for more information** can follow incomplete or inconsistent answers
 
 A **refusal** comes with its reasons and the right to appeal, handled by the authorities of the refusing country. You can also apply again: the EU says a previous refusal does not lead to the automatic refusal of a new application.
 
-## Most Rejections Come Down to Inconsistency, Not Bad Luck
+## Disclose Everything, Even Old Convictions
 
-A handful of recurring patterns account for most ETIAS rejections, and they're worth watching for before you submit.
+One thing is worth getting right before you submit.
 
 **Undisclosed criminal convictions:** If you have a criminal record and don't disclose it but ETIAS finds it during a background check, your application can be refused. Always disclose, even if the conviction is old or has been expunged in your home country, because European authorities may still retain records. Doubts about the reliability of the information you give are a stated ground for refusal, so disclose everything.
 
-**Previous overstays:** if you've overstayed a visa in Europe or elsewhere, ETIAS will flag it. Come prepared with a brief explanation in the optional notes field: something like "Emergency family matter delayed departure; resolved with authorities" can help your case, though some overstays trigger refusal regardless of justification.
-
-**Conflicting travel history:** ETIAS will detect inconsistencies, like claiming a short trip to France when your entry and exit dates suggest a much longer stay. If you don't remember exact dates, it's better to estimate conservatively, or say plainly that you're approximating, rather than risk a contradiction.
-
-**Unclear employment or income:** flag any gaps or inconsistencies, such as travel dates that suggest you were working abroad without saying so, or unexplained gaps in your employment history. Use the optional notes section to clarify. ETIAS won't reject you for being unemployed, but unexplained inconsistencies will raise suspicion.
-
-To avoid rejection, review your information carefully before submitting. If anything is uncertain, use the optional notes field to explain.
-
-A brief, honest explanation prevents far more rejections than trying to hide information.
+Review your information carefully before submitting and answer every question accurately.
 
 ## Children Should Still Apply, Even Without a Fee
 
-Children under 18 don't pay the ETIAS fee but should still apply for authorisation, with parents applying on their behalf. One future change worth watching: biometric checks at the border may eventually require children to be present in person.
+Children under 18 don't pay the ETIAS fee but should still apply for authorisation, with parents applying on their behalf.
 
-Family groups must submit each application separately rather than as a single "family" unit. You can note that you're travelling as a family in the travel details section, and that note may help if one member's application is flagged for review. We'd fill out every family member's form in the same sitting, because the family note only helps if the details line up.
+Family groups must submit each application separately rather than as a single "family" unit.
 
-If you're refused and still need to travel, you can appeal or apply again. A long-stay visa through the relevant embassy or consulate is another route, which typically allows multiple entries and longer stays than visa-exempt travel. Since requirements vary by destination and nationality, contact the embassy directly to find out what you'll need.
+If you're refused and still need to travel, you can appeal or apply again.
 
 ![Hand-drawn comparison: EES happens at the border with fingerprints and photo, no application, and is rolling out across entry points; ETIAS happens before you fly, applied for online with a small fee, with no mandatory date confirmed yet. You will eventually need both, and neither one is a visa](https://traveldocumentvault.com/blog/etias-documents-2026/ees-vs-etias-figure.jpg) Two different gates: EES registers you on arrival; ETIAS clears you before departure.
 
@@ -134,7 +124,7 @@ ETIAS is required for visa-exempt non-EU citizens travelling for short-stay visi
 
 ### What documents do I need to apply for ETIAS?
 
-You must have a valid passport with more than three months validity beyond your intended departure date, issued within the last ten years. You will also need an email address. Optionally, proof of income (pay slip, bank statement, or tax return) is recommended but not always required. No physical documents are submitted - everything is uploaded digitally or entered into the online application.
+You must have a valid passport with more than three months validity beyond your intended departure date, issued within the last ten years. You will also need an email address.
 
 ### How much does ETIAS cost and how long does it take?
 
@@ -142,7 +132,7 @@ The European Commission publishes the current ETIAS fee on its official site. Ch
 
 ### What happens if my ETIAS application is rejected?
 
-If your application is refused, you will receive a notification explaining the reasons, and you have the right to appeal, handled by the authorities of the refusing country. You can also apply again: the EU says a previous refusal does not lead to the automatic refusal of a new application. If the cause is resolvable (such as updated travel information), address it and reapply. A long-stay visa through an embassy is another route.
+If your application is refused, you will receive a notification explaining the reasons, and you have the right to appeal, handled by the authorities of the refusing country. You can also apply again: the EU says a previous refusal does not lead to the automatic refusal of a new application.
 
 ### Can I travel to Europe before ETIAS launches?
 
