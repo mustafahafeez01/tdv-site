@@ -1,30 +1,30 @@
 # Posso Viajar Enquanto o Meu Passaporte Está Sendo Renovado?
 
-> Pode viajar enquanto a renovação do passaporte está pendente? As regras variam consoante o país e o método utilizado.
+> Viajar durante a renovação depende do tipo de pedido e de o passaporte continuar válido e disponível. Compare as regras dos EUA, Reino Unido, Austrália e Canadá.
 
 Source: https://traveldocumentvault.com/pt/blog/travel-while-passport-renewal-pending/
 
 ---
 
-![Dois passaportes lado a lado num fundo azul-marinho real ligados por uma linha dourada suave, um mais antigo e outro novo, sugerindo que as viagens estão cobertas durante a renovação](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/cover.jpg)
+![Dois passaportes lado a lado num fundo azul-marinho real ligados por uma linha dourada suave, um mais antigo e outro novo](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/cover.jpg)
 
 ## Principais Pontos
 
-- A resposta depende de um facto: ainda tem o seu passaporte em sua posse, ou já o entregou. Este único detalhe determina o que viagens são possíveis.
+- Viajar durante a renovação depende do tipo de pedido, do local onde o apresenta e de o passaporte continuar válido e na sua posse.
 - **Estados Unidos:** A renovação por correio exige que envie o passaporte atual com o pedido. As viagens domésticas são aceitáveis. As viagens internacionais requerem que o seu passaporte renovado chegue primeiro.
-- **Reino Unido (renovação postal):** O seu passaporte está em poder do Serviço de Passaportes do Reino Unido. Não pode viajar internacionalmente até que seja devolvido. **Reino Unido (renovação digital):** Mantém o seu passaporte durante todo o processo e pode viajar com ele enquanto o novo está a ser processado.
-- **Austrália e Canadá:** Ambos exigem que entregue o seu passaporte aquando da candidatura. As viagens internacionais não são possíveis até que o novo passaporte seja emitido.
-- Opções de renovação expedida e urgente existem em todos os países aqui abordados, mas a regra básica mantém-se: não pode viajar internacionalmente sem um passaporte válido na sua mão.
+- **Reino Unido:** As renovações por correio e as renovações normais pela Internet geralmente exigem que envie o passaporte antigo ao HM Passport Office. Apresentar o pedido por via digital não lhe permite continuar a viajar com ele. Espere até receber o novo passaporte antes de reservar viagens.
+- **Austrália e Canadá:** Os requisitos dependem de onde e como apresenta o pedido. Algumas renovações australianas no estrangeiro permitem continuar a usar um passaporte válido. As instruções canadianas para renovações em papel apresentadas fora do Canadá e dos Estados Unidos geralmente exigem o original ainda válido. Confirme junto do serviço de passaportes competente.
+- Se a viagem for urgente, pergunte ao serviço de passaportes quais as opções a que pode recorrer. As viagens internacionais geralmente exigem um passaporte válido ou outro documento de viagem aceite para o seu itinerário.
 
-Viajar enquanto uma renovação está a decorrer depende de um único facto: se o passaporte antigo continua em mão ou já foi entregue às autoridades. Essa única diferença decide se a viagem pode avançar. Varia também consoante o país e, no caso do Reino Unido, consoante o método de renovação utilizado.
+Pode ser possível viajar durante a renovação se o passaporte continuar válido e na sua posse. A resposta depende do método de renovação e do local onde apresenta o pedido. A renovação pela Internet no Reino Unido não constitui uma exceção que lhe permita continuar a viajar com o passaporte antigo.
 
 ## Uma renovação em curso não o leva através do controlo de fronteira
 
-Não pode viajar internacionalmente sem um passaporte válido fisicamente em sua posse. Uma candidatura de renovação em curso não conta, e uma carta de confirmação do seu serviço de passaportes também não. O único documento que o coloca através de check-in e controlo de fronteira é um passaporte válido que pode entregar quando solicitado.
+As viagens internacionais geralmente exigem um passaporte válido fisicamente na sua posse. Um pedido de renovação ou uma carta de confirmação não o substituem. Verifique os requisitos de documentação para o seu itinerário, incluindo se um documento de viagem de emergência seria aceite, caso reúna as condições para o obter.
 
-Se ainda tem esse passaporte depende inteiramente do seu país e do seu método de renovação.
+A possibilidade de usar o passaporte atual depende do método de renovação, do local onde apresenta o pedido e de o passaporte continuar válido.
 
-![Árvore de decisão: o passaporte ainda está consigo? Sim - viaje com ele enquanto for válido (renovação por correio nos EUA, renovação digital no Reino Unido). Não - entregue, espera pelo novo (renovação por correio no Reino Unido, Austrália, Canadá). Nenhum país permite voar internacionalmente sem um passaporte em mãos](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-pt.jpg) Uma pergunta decide tudo: se o seu passaporte antigo ainda está na sua posse.
+![Diagrama de decisão sobre a renovação do passaporte, oculto porque as indicações por país estão incorretas](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-pt.jpg) Viajar durante a renovação depende do tipo de pedido e de o passaporte continuar válido e disponível.
 
 ## Estados Unidos: Renovação por Correio
 
@@ -34,51 +34,51 @@ Isto significa que as viagens domésticas nos Estados Unidos não são afectadas
 
 O tempo de processamento padrão muda, e o Departamento de Estado publica a cifra atual em travel.state.gov, por isso verifique-a antes de planear. Se a sua viagem estiver marcada antes da data em que espera receber o novo passaporte, o processamento expedido está disponível por uma taxa adicional e reduz a espera de forma notável. Para viagens genuinamente urgentes, estão disponíveis consultas presenciais nas agências regionais de passaportes — verifique a elegibilidade atual em travel.state.gov.
 
-## Reino Unido: Dois Processos com Resultados Opostos
+## Reino Unido: envie o passaporte antigo ao HMPO
 
-O Reino Unido tem dois caminhos de renovação, e têm implicações completamente diferentes para as viagens. O processo que utilizou determina o que é possível.
+As renovações por correio e as renovações normais pela Internet no Reino Unido geralmente exigem que envie o passaporte antigo ao HM Passport Office. Apresentar o pedido pela Internet não lhe permite ficar com ele para viajar durante todo o processamento.
 
-**Renovação postal:** Envia o seu passaporte atual para o [Serviço de Passaportes do Reino Unido](https://www.gov.uk/renew-adult-passport/renew) juntamente com a sua candidatura. O seu passaporte está em poder do Serviço durante todo esse período, portanto não pode viajar internacionalmente. O Serviço de Passaportes do Reino Unido publica o seu tempo de processamento atual no seu site e [aconselha a não marcar viagens](https://www.gov.uk/renew-adult-passport) até o novo passaporte chegar. Um serviço de via rápida premium está disponível por uma taxa adicional se a sua viagem estiver próxima.
+**Renovação por correio:** Envia o passaporte atual ao [HM Passport Office](https://www.gov.uk/renew-adult-passport/renew) juntamente com o pedido. Depois de o enviar, não pode usar esse passaporte para viagens internacionais. O HM Passport Office publica os prazos de processamento atuais no seu site e [aconselha a não reservar viagens](https://www.gov.uk/renew-adult-passport) até receber o novo passaporte. Se a viagem estiver próxima, verifique a que serviços urgentes pode recorrer.
 
-**Renovação digital** está atualmente disponível para adultos elegíveis que se candidatam de dentro do Reino Unido. Mantém o seu passaporte atual durante todo o processo, e o governo emite o seu novo passaporte separadamente e o envia para si por correio. Como o seu passaporte existente nunca sai da sua posse, pode geralmente continuar a usá-lo para viagens enquanto o novo está a ser processado. A elegibilidade varia de acordo com as circunstâncias individuais, portanto verifique o site do Serviço de Passaportes do Reino Unido para os critérios completos e tempos actuais antes de se candidatar.
+**Renovações pela Internet e através do serviço Digital Check and Send:** Siga as instruções do HM Passport Office para enviar o passaporte antigo. No serviço Digital Check and Send, o Post Office envia-o ao HMPO por si. Não pode viajar com um passaporte que enviou para renovação, e o HMPO aconselha a esperar até receber o novo antes de reservar viagens.
 
-## Austrália: Entrega e Espera
+## Austrália: confirme as regras do local onde apresenta o pedido
 
-A renovação de passaporte australiano requer que entregue o seu passaporte atual no ponto de candidatura. A partir desse momento, não tem nenhum documento de viagem válido até que o novo passaporte seja emitido e entregue.
+As condições de renovação do passaporte australiano dependem do local onde apresenta o pedido. Segundo a Embaixada da Austrália na Alemanha, quem apresenta o pedido nessa missão fica com o passaporte atual e geralmente pode usá-lo durante o processamento enquanto continuar válido. Esse procedimento no estrangeiro não determina as regras para pedidos apresentados na Austrália. Antes de planear viagens, confirme junto do Australian Passport Office ou da missão diplomática que trata do seu pedido.
 
-Não pode viajar internacionalmente durante este período. As viagens aéreas domésticas dentro da Austrália também podem ser afectadas se não tiver outro documento de identificação com foto válido, pois as companhias aéreas exigem verificação de identidade no check-in.
+Consulte os prazos de processamento e as instruções atuais do Australian Passport Office em passports.gov.au. Se a viagem for urgente, pergunte ao serviço que trata do seu pedido quais as opções disponíveis para a sua situação e quando será cancelado o passaporte atual.
 
-O Serviço de Passaportes Australiano publica os seus tempos de processamento atuais e recomenda candidatar-se com boa antecedência a qualquer data de viagem. Se tem viagens genuínas e iminentes, estão disponíveis opções de processamento mais rápido por taxas adicionais, incluindo via rápida e prioritário. Opções de emergência existem para viagens verdadeiramente iminentes. Verifique os tempos actuais e candidature-se em passports.gov.au.
+## Canadá: confirme as regras do seu método de renovação
 
-## Canadá: Entregue Aquando da Candidatura
+Os requisitos canadianos dependem de onde e como apresenta o pedido. As instruções oficiais para renovações em papel apresentadas fora do Canadá e dos Estados Unidos geralmente exigem o passaporte original se ainda estiver válido. Não pode viajar com um passaporte que entregou para renovação. Para pedidos apresentados no Canadá ou por outros métodos, [consulte as instruções do Governo do Canadá](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html) e confirme junto do serviço de passaportes se tem de entregar o passaporte e quando este deixa de ser válido.
 
-O Canadá requer que [entregue o seu passaporte existente quando se candidata à renovação](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html). O seu antigo passaporte é mantido até que o novo esteja pronto, portanto não pode viajar internacionalmente durante este período — embora as viagens domésticas dentro do Canadá não requeiram passaporte.
-
-O Service Canada publica os seus padrões de processamento atuais, que variam consoante se candidata presencialmente, por correio ou num Centro de Serviços Canada, mais o tempo de correio. Para viagens urgentes existem opções de serviço expresso e levantamento urgente por taxas adicionais. Verifique os tempos de processamento actuais e candidature-se em canada.ca.
+Consulte em canada.ca os prazos de processamento atuais para o seu tipo de pedido. Se tiver uma viagem urgente, pergunte ao serviço de passaportes a que serviços pode recorrer antes de contar com um determinado prazo.
 
 ## Comparação entre Países
 
+A coluna sobre viagens refere-se ao uso do passaporte que está a ser renovado. Não avalia a possibilidade de viajar com outro passaporte válido ou com um documento alternativo aceite.
+
 | País / Método | Mantém passaporte? | Viagens internacionais durante renovação? |
 |---|---|---|
-| EUA (correio) | Sim (devolvido cancelado) | Não |
+| EUA (correio) | Não durante o processamento (devolvido em separado, cancelado) | Não |
 | Reino Unido (postal) | Não (mantido pelo Serviço de Passaportes) | Não |
-| Reino Unido (digital) | Sim (mantém-o) | Sim (no antigo passaporte) |
-| Austrália | Não (deve entregar) | Não |
-| Canadá | Não (deve entregar) | Não |
+| Reino Unido (digital) | Geralmente não (envia-o ao HMPO) | Não, depois de o enviar ao HMPO |
+| Austrália | Depende do local onde apresenta o pedido; confirme junto do Australian Passport Office | Pode ser possível no estrangeiro enquanto estiver válido; confirme junto da missão que trata do pedido |
+| Canadá | Geralmente não, se ainda estiver válido e o pedido de renovação em papel for apresentado fora do Canadá e dos EUA; confirme as regras do seu método | Não pode usar um passaporte entregue para renovação; confirme as regras de viagem e cancelamento aplicáveis ao seu método |
 
 ## Pode viajar com o seu passaporte antigo durante a renovação?
 
 Esta é a pergunta que a maioria das pessoas está mesmo a fazer, e a resposta é mais restrita do que parece. Ter o passaporte antigo na mão não é o mesmo que poder voar com ele.
 
-Duas condições têm de ser verdadeiras ao mesmo tempo. O passaporte tem de continuar na sua posse e tem de continuar válido. Na maioria dos países, a renovação quebra uma delas, por vezes as duas.
+Duas condições têm de se verificar ao mesmo tempo. O passaporte tem de continuar na sua posse e válido para a viagem. Confirme ambas junto do serviço que trata da renovação.
 
-A renovação digital do Reino Unido é o caso mais claro em que a resposta é sim. O passaporte nunca sai das suas mãos, mantém-se válido até à sua própria data de validade e, regra geral, pode continuar a viajar com ele enquanto o novo é produzido.
+A renovação pela Internet no Reino Unido não lhe permite continuar a viajar com o passaporte antigo durante todo o processamento. Geralmente tem de o enviar ao HMPO, por isso planeie a viagem tendo em conta a chegada do novo passaporte.
 
-A renovação norte-americana por correio é o caso que mais gente interpreta mal. Envia o passaporte atual com o pedido, por isso não o tem durante o processamento. A USAGov diz que volta pelo correio em separado, geralmente cerca de quatro semanas depois do novo. Um passaporte cancelado não o deixa passar no check-in, mesmo sendo seu e estando na sua mão.
+A renovação norte-americana por correio é o caso que mais gente interpreta mal. Envia o passaporte atual com o pedido, por isso não o tem consigo durante o processamento. Segundo a USAGov, é devolvido em separado após o envio do novo passaporte e geralmente chega cerca de quatro semanas depois de receber o novo. Um passaporte cancelado não lhe permite passar no check-in, mesmo sendo seu e estando na sua mão.
 
-A renovação postal do Reino Unido, a Austrália e o Canadá ficam todos com o passaporte no momento do pedido. Não sobra nada com que viajar até chegar o substituto.
+Para a Austrália e o Canadá, consulte as instruções aplicáveis ao tipo de pedido e ao local onde o apresenta. A missão australiana na Alemanha permite continuar a usar o passaporte atual enquanto estiver válido. As instruções canadianas para renovações em papel apresentadas fora do Canadá e dos Estados Unidos geralmente exigem a entrega de um passaporte ainda válido.
 
-O teste prático é simples. Se o passaporte está cancelado, caducado ou num serviço do Estado, não é um documento de viagem. Os voos domésticos que aceitam outra identificação com fotografia são a única exceção, e nada disto os afeta.
+Um passaporte cancelado ou caducado geralmente não serve para viagens internacionais, e não pode usar um que esteja num serviço do Estado. Para voos domésticos, confirme quais os outros documentos de identificação aceites pela companhia aérea e pela autoridade de transportes competente.
 
 ## Se a Sua Viagem For Mais Cedo do Que a Sua Cronologia de Renovação
 
@@ -110,11 +110,11 @@ Na maioria dos casos, sim. As viagens domésticas dentro do seu próprio país n
 
 ### Posso viajar internacionalmente enquanto o meu passaporte está sendo renovado?
 
-Geralmente não. A exceção é a renovação digital do Reino Unido: como mantém o seu antigo passaporte durante esse processo, pode continuar a usá-lo para viagens internacionais enquanto aguarda o novo. Em todos os outros casos aqui abordados, as viagens internacionais requerem que o seu novo passaporte esteja na sua mão.
+Depende do método de renovação, do local onde apresenta o pedido e de o passaporte continuar válido e na sua posse. A renovação por correio nos EUA exige que o envie, e as renovações por correio e as renovações normais pela Internet no Reino Unido geralmente também. Algumas renovações australianas no estrangeiro permitem continuar a usar um passaporte válido. Confirme junto do serviço de passaportes que trata do seu pedido antes de planear viagens.
 
 ### Posso viajar com o meu passaporte antigo durante a renovação?
 
-Apenas se continuar na sua posse e continuar válido. A renovação digital do Reino Unido permite manter o passaporte e continuar a viajar com ele. A renovação norte-americana por correio devolve-o cancelado, e um passaporte cancelado não é válido para viajar mesmo que o tenha na mão. A renovação postal do Reino Unido, a Austrália e o Canadá ficam com ele até o novo ser emitido.
+Geralmente, só se continuar válido para a viagem e na sua posse. A renovação pela Internet no Reino Unido não lhe permite continuar a viajar com o passaporte antigo durante todo o processamento. A renovação por correio nos EUA exige que o envie, e um passaporte cancelado não é válido para viajar. Os requisitos australianos e canadianos dependem de onde e como apresenta o pedido, por isso consulte as instruções do serviço de passaportes competente.
 
 ### O que devo fazer se o meu voo está marcado mas o passaporte não chegará a tempo?
 
@@ -122,11 +122,11 @@ Contacte imediatamente o seu serviço de passaportes e pergunte sobre processame
 
 ### Mantenho o meu passaporte durante o processo de renovação?
 
-Depende. Na renovação dos EUA por correio, envia o passaporte antigo com o pedido, e a USAGov diz que este é devolvido em separado, geralmente cerca de quatro semanas depois do novo. A renovação digital do Reino Unido permite-lhe mantê-lo durante. A renovação postal do Reino Unido, Austrália e Canadá todos exigem que entregue o seu passaporte aquando da candidatura.
+Depende de onde e como apresenta o pedido. A renovação por correio nos EUA exige que envie o passaporte antigo; segundo a USAGov, geralmente é devolvido em separado cerca de quatro semanas depois de receber o novo. As renovações por correio e as renovações normais pela Internet no Reino Unido geralmente exigem que o envie ao HMPO. A missão australiana na Alemanha permite ficar com ele, enquanto as renovações canadianas em papel apresentadas fora do Canadá e dos Estados Unidos geralmente exigem o original ainda válido. Consulte as instruções do seu serviço de passaportes.
 
 ### O que é um documento de viagem de emergência?
 
-Um documento de viagem de emergência é um documento temporário emitido pelo seu governo para emergências genuínas, como uma crise médica ou uma morte na família que exija viagem imediata ao estrangeiro. É válido para uma única viagem. Requer prova de emergência genuína e não é uma alternativa à renovação padrão para viagens planeadas. O processamento é rápido porque estes documentos são pensados para situações urgentes, mas confirme o tempo atual com a sua autoridade de passaportes ao candidatar-se.
+Um documento de viagem de emergência ou um passaporte de emergência pode estar disponível quando precisa de viajar com urgência. As condições de acesso, a validade, as viagens permitidas e os prazos de processamento dependem da autoridade emissora e das suas circunstâncias. Alguns países podem não o aceitar. Antes de contar com esse documento, confirme junto da autoridade responsável pelo seu passaporte e das autoridades dos países de destino e de trânsito.
 
 ## Artigos Relacionados
 

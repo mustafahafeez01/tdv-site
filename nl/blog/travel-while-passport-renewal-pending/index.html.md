@@ -1,30 +1,30 @@
 # Kun je reizen terwijl je paspoort wordt verlengd?
 
-> Kom te weten of je kunt reizen terwijl je paspoortverlenging loopt. De regels verschillen per land en per aanvraagmethode. Dit is wat je moet weten.
+> Reizen tijdens je paspoortverlenging hangt af van je aanvraagmethode en of je paspoort geldig en beschikbaar blijft. Vergelijk de VS, het VK, Australië en Canada.
 
 Source: https://traveldocumentvault.com/nl/blog/travel-while-passport-renewal-pending/
 
 ---
 
-![Twee paspoorten naast elkaar op een koningsblauwe achtergrond, verbonden door een dunne gouden lijn, één ouder en één nieuw, wat aangeeft dat reizen tijdens de verlenging gewoon door kan gaan](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/cover.jpg)
+![Twee paspoorten naast elkaar op een koningsblauwe achtergrond, verbonden door een dunne gouden lijn, één ouder en één nieuw](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/cover.jpg)
 
 ## Belangrijkste punten
 
-- Alles hieronder komt neer op één ding: heb je je paspoort nog in bezit, of heb je het al ingeleverd voor verlenging.
+- Of je tijdens de verlenging kunt reizen, hangt af van hoe en waar je de aanvraag indient en of je paspoort geldig en in je bezit blijft.
 - **Verenigde Staten:** Bij verlenging per post stuur je je huidige paspoort mee met de aanvraag. Binnenlandse reizen zijn geen probleem. Voor internationale reizen moet je verlengde paspoort eerst zijn aangekomen.
-- **Verenigd Koninkrijk (postale verlenging):** Je paspoort wordt vastgehouden door HM Passport Office. Je kunt niet internationaal reizen totdat het is teruggestuurd. **Verenigd Koninkrijk (digitale verlenging):** Je houdt je paspoort de hele tijd bij je en kunt ermee reizen terwijl het nieuwe wordt verwerkt.
-- **Australië en Canada:** Beide vereisen dat je je paspoort inlevert bij de aanvraag. Internationale reizen zijn niet mogelijk totdat het nieuwe paspoort is uitgegeven.
-- Versnelde en spoedopties voor verlenging bestaan in elk land dat hier wordt besproken, maar de basisregel blijft gelden: je kunt niet internationaal reizen zonder een geldig paspoort in handen.
+- **Verenigd Koninkrijk:** Bij verlenging per post en de standaard onlineprocedure moet je je oude paspoort doorgaans naar HM Passport Office sturen. Een digitale aanvraag betekent dus niet dat je ermee kunt blijven reizen. Wacht met het boeken van een reis tot je nieuwe paspoort is aangekomen.
+- **Australië en Canada:** De vereisten hangen af van waar en hoe je de aanvraag indient. Bij sommige Australische verlengingen vanuit het buitenland kun je een geldig paspoort blijven gebruiken. Volgens de Canadese instructies voor papieren verlengingsaanvragen van buiten Canada en de Verenigde Staten moet je het nog geldige origineel doorgaans meesturen. Vraag het na bij de paspoortinstantie die je aanvraag behandelt.
+- Moet je dringend reizen, vraag dan je paspoortinstantie voor welke opties je in aanmerking komt. Voor internationale reizen heb je doorgaans een geldig paspoort nodig of een ander reisdocument dat voor jouw route wordt geaccepteerd.
 
-Reizen terwijl een verlenging loopt, hangt af van één feit: is het oude paspoort nog in bezit of al ingeleverd bij de autoriteiten. Dat ene verschil bepaalt of de reis door kan gaan. Het verschilt daarnaast per land en, in het geval van het Verenigd Koninkrijk, per gebruikte verlengingsmethode.
+Reizen tijdens de verlenging kan mogelijk zijn als je paspoort geldig en in je bezit blijft. Dat hangt af van je aanvraagmethode en de plaats waar je de aanvraag indient. De Britse onlineprocedure vormt geen uitzondering waarmee je op je oude paspoort kunt blijven reizen.
 
 ## Een lopende verlenging brengt je niet door de grenscontrole
 
-Je kunt niet internationaal reizen zonder een geldig paspoort fysiek in je bezit. Een lopende verlengingsaanvraag telt niet mee, en een ontvangstbevestiging van je paspoortinstantie ook niet. Het enige document waarmee je door de incheckbalie en grenscontrole komt, is een geldig paspoort dat je kunt overhandigen wanneer daarom wordt gevraagd.
+Voor internationale reizen heb je doorgaans een geldig paspoort nodig dat je fysiek bij je hebt. Een verlengingsaanvraag of ontvangstbevestiging vervangt dat niet. Controleer de documentvereisten voor je route, waaronder of een noodreisdocument wordt geaccepteerd als je daarvoor in aanmerking komt.
 
-Of je dat paspoort nog hebt, hangt volledig af van je land en je verlengingsmethode.
+Of je je huidige paspoort kunt gebruiken, hangt af van je aanvraagmethode, waar je de aanvraag indient en of het paspoort geldig blijft.
 
-![Beslisboom: heb je het paspoort nog in handen? Ja - reis erop zolang het geldig blijft (Amerikaanse verlenging per post, Britse digitale verlenging). Nee - ingeleverd, je wacht op het nieuwe (Britse postale verlenging, Australië, Canada). Geen land laat je internationaal vliegen zonder paspoort in handen](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-nl.jpg) Eén vraag beslist alles: of je oude paspoort nog in je bezit is.
+![Beslisdiagram over paspoortverlenging, verborgen omdat de landspecifieke teksten onjuist zijn](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-nl.jpg) Reizen tijdens de verlenging hangt af van je aanvraagmethode en of je paspoort geldig en beschikbaar blijft.
 
 ## Verenigde Staten: verlenging per post
 
@@ -34,51 +34,53 @@ Dat betekent dat binnenlandse reizen binnen de Verenigde Staten gedurende het he
 
 Standaard verwerkingstijden veranderen, en het State Department publiceert het actuele cijfer op travel.state.gov, dus controleer dat voordat je erop plant. Als je reis al geboekt is voordat je het nieuwe paspoort verwacht, is versnelde verwerking beschikbaar tegen een extra vergoeding en verkort dit de wachttijd aanzienlijk. Voor werkelijk urgente reizen zijn persoonlijke afspraken mogelijk bij regionale paspoortkantoren – controleer de actuele voorwaarden op travel.state.gov.
 
-## Verenigd Koninkrijk: twee processen met tegenovergestelde uitkomsten
+## Verenigd Koninkrijk: stuur je oude paspoort naar HMPO
 
-Het Verenigd Koninkrijk kent twee verlengingsroutes, en die hebben totaal verschillende gevolgen voor reizen. De methode die je gebruikte, bepaalt wat mogelijk is.
+Bij Britse verlengingen per post en de standaard onlineprocedure moet je je oude paspoort doorgaans naar HM Passport Office sturen. Een onlineaanvraag betekent niet dat je het tijdens de hele behandeling kunt houden om ermee te reizen.
 
-**Postale verlenging:** je stuurt je huidige paspoort samen met je aanvraag naar [HM Passport Office](https://www.gov.uk/renew-adult-passport/renew). Je paspoort is voor de hele duur in hun bezit, dus je kunt niet internationaal reizen. HM Passport Office publiceert de actuele verwerkingstijd op de eigen website en [raadt af om te reizen te boeken](https://www.gov.uk/renew-adult-passport) voordat je nieuwe paspoort is aangekomen. Een premium spoedservice is beschikbaar tegen een extra vergoeding als je reis dichtbij is.
+**Verlenging per post:** Je stuurt je huidige paspoort samen met je aanvraag naar [HM Passport Office](https://www.gov.uk/renew-adult-passport/renew). Zodra je het hebt opgestuurd, kun je dat paspoort niet meer gebruiken voor internationale reizen. HM Passport Office publiceert de actuele verwerkingstijd op de eigen website en [raadt af om een reis te boeken](https://www.gov.uk/renew-adult-passport) voordat je nieuwe paspoort is aangekomen. Vertrek je binnenkort, controleer dan voor welke spoedprocedures je in aanmerking komt.
 
-**Digitale verlenging** is momenteel beschikbaar voor in aanmerking komende volwassenen die vanuit het Verenigd Koninkrijk aanvragen. Je houdt je huidige paspoort gedurende het hele proces bij je, en de overheid geeft je nieuwe paspoort apart uit en stuurt het naar je op. Omdat je bestaande paspoort nooit uit je bezit gaat, kun je het in de regel gewoon blijven gebruiken om te reizen terwijl het nieuwe wordt verwerkt. De voorwaarden verschillen per individuele situatie, dus controleer de website van HM Passport Office voor de volledige criteria en actuele tijden voordat je een aanvraag indient.
+**Online verlengen en Digital Check and Send:** Volg de instructies van HM Passport Office voor het opsturen van je oude paspoort. Bij Digital Check and Send stuurt het postkantoor het voor je naar HMPO. Je kunt niet reizen op een paspoort dat je hebt opgestuurd. HMPO raadt aan met het boeken van een reis te wachten tot je je nieuwe paspoort hebt ontvangen.
 
-## Australië: inleveren en wachten
+## Australië: controleer waar je de aanvraag indient
 
-Voor een Australische paspoortverlenging moet je je huidige paspoort inleveren op het moment van aanvragen. Vanaf dat moment heb je geen geldig reisdocument totdat het nieuwe paspoort is uitgegeven en bezorgd.
+De Australische verlengingsprocedure hangt af van waar je de aanvraag indient. Volgens de Australische ambassade in Duitsland houden aanvragers daar hun huidige paspoort en kunnen ze het tijdens de behandeling doorgaans blijven gebruiken zolang het geldig is.
 
-Je kunt in die periode niet internationaal reizen. Binnenlandse vluchten binnen Australië kunnen ook worden beïnvloed als je geen andere geldige foto-ID hebt, omdat luchtvaartmaatschappijen identiteitsverificatie bij het inchecken vereisen.
+Die procedure in het buitenland bepaalt niet welke regels gelden voor aanvragen binnen Australië. Vraag het Australian Passport Office of de ambassade of het consulaat dat je aanvraag behandelt om advies voordat je een reis plant.
 
-Het Australian Passport Office publiceert de actuele verwerkingstijden en raadt aan ruim voor een reisdatum een aanvraag in te dienen. Bij een oprechte en op korte termijn geplande reis zijn snellere verwerkingsopties beschikbaar tegen extra kosten, waaronder spoed- en prioriteitsservices. Voor werkelijk dringende reizen bestaan noodopties. Controleer de actuele tijden en vraag aan via passports.gov.au.
+Controleer de actuele verwerkingstijden en aanvraaginstructies van het Australian Passport Office op passports.gov.au. Moet je dringend reizen, vraag dan de instantie die je aanvraag behandelt welke opties voor jou gelden en wanneer je huidige paspoort ongeldig wordt gemaakt.
 
-## Canada: ingeleverd bij aanvraag
+## Canada: controleer je aanvraagmethode
 
-Canada vereist dat je [je bestaande paspoort inlevert wanneer je een verlenging aanvraagt](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html). Je oude paspoort wordt bewaard totdat het nieuwe klaar is, dus je kunt in die periode niet internationaal reizen – al is voor binnenlandse reizen binnen Canada geen paspoort nodig.
+De Canadese vereisten hangen af van waar en hoe je de aanvraag indient. Volgens de overheidsinstructies voor papieren verlengingsaanvragen van buiten Canada en de Verenigde Staten moet je het originele paspoort doorgaans meesturen als het nog geldig is. Je kunt niet reizen op een paspoort dat je hebt ingeleverd. Voor aanvragen binnen Canada of andere aanvraagmethoden: [raadpleeg de instructies van de Canadese overheid](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html) en vraag de paspoortinstantie of je je paspoort moet inleveren en wanneer het ongeldig wordt.
 
-Service Canada publiceert de actuele verwerkingsnormen, die verschillen afhankelijk van of je persoonlijk, per post of bij een Service Canada Centre aanvraagt, plus verzendtijd in elk geval. Voor dringende reizen bestaan express-service en spoedafhaalopties tegen extra kosten. Controleer de actuele verwerkingstijden en vraag aan via canada.ca.
+Controleer op canada.ca de actuele verwerkingstijden voor jouw aanvraagmethode. Moet je dringend reizen, vraag dan de paspoortinstantie voor welke diensten je in aanmerking komt voordat je van een bepaalde doorlooptijd uitgaat.
 
 ## Vergelijking per land
 
+De kolom over reizen gaat over het gebruik van het paspoort dat je laat verlengen. Reizen met een ander geldig paspoort of een geaccepteerd alternatief document valt buiten deze vergelijking.
+
 | Land / methode | Behoud je je paspoort? | Internationaal reizen tijdens verlenging? |
 |---|---|---|
-| VS (per post) | Ja (teruggestuurd, ongeldig gemaakt) | Nee |
+| VS (per post) | Nee, niet tijdens de behandeling (apart teruggestuurd, ongeldig gemaakt) | Nee |
 | VK (postaal) | Nee (bij HMPO) | Nee |
-| VK (digitaal) | Ja (je houdt het) | Ja (op het oude paspoort) |
-| Australië | Nee (moet worden ingeleverd) | Nee |
-| Canada | Nee (moet worden ingeleverd) | Nee |
+| VK (digitaal) | Doorgaans niet (opsturen naar HMPO) | Nee, zodra het naar HMPO is opgestuurd |
+| Australië | Hangt af van waar je de aanvraag indient; vraag het Australian Passport Office | Kan bij aanvragen vanuit het buitenland mogelijk zijn zolang het geldig is; vraag de ambassade of het consulaat dat je aanvraag behandelt |
+| Canada | Doorgaans niet bij papieren verlengingsaanvragen van buiten Canada en de VS als het paspoort nog geldig is; controleer je aanvraagmethode | Een ingeleverd paspoort kun je niet gebruiken; controleer de reisregels en het moment van ongeldigverklaring voor jouw aanvraagmethode |
 
 ## Kun je op je oude paspoort reizen tijdens de verlenging?
 
 Dit is de vraag die de meeste mensen eigenlijk stellen, en het antwoord is smaller dan het lijkt. Je oude paspoort in handen hebben is niet hetzelfde als ermee mogen vliegen.
 
-Er moeten twee dingen tegelijk kloppen. Het paspoort moet nog in jouw bezit zijn, en het moet nog geldig zijn. In de meeste landen breekt de verlenging een van beide, soms allebei.
+Er moeten twee dingen tegelijk kloppen: het paspoort moet nog in je bezit zijn en geldig zijn voor je reis. Vraag beide na bij de instantie die je verlenging behandelt.
 
-De digitale verlenging in het Verenigd Koninkrijk is het duidelijkste geval waarin het antwoord ja is. Je paspoort verlaat je nooit, het blijft geldig tot de eigen vervaldatum, en je kunt er meestal mee blijven reizen terwijl het nieuwe wordt gemaakt.
+Bij een Britse onlineverlenging kun je niet tijdens de hele behandeling op je oude paspoort blijven reizen. Je moet het doorgaans naar HMPO sturen, dus houd er bij je planning rekening mee dat je op je nieuwe paspoort moet wachten.
 
-De Amerikaanse verlenging per post wordt het vaakst verkeerd begrepen. Je stuurt je huidige paspoort mee met de aanvraag, dus tijdens de behandeling heb je het niet. Het komt geannuleerd terug, meestal met een gaatje, tegelijk met het nieuwe. Een geannuleerd paspoort krijgt je niet door de incheck, ook al is het van jou en heb je het in handen.
+De Amerikaanse verlenging per post wordt het vaakst verkeerd begrepen. Je stuurt je huidige paspoort mee met de aanvraag, dus tijdens de behandeling heb je het niet. Volgens USAGov wordt het apart teruggestuurd nadat je nieuwe paspoort is verzonden en komt het doorgaans ongeveer vier weken na ontvangst van het nieuwe aan. Met een ongeldig gemaakt paspoort kun je niet inchecken, ook al is het van jou en heb je het in handen.
 
-De postale verlenging in het Verenigd Koninkrijk, Australië en Canada nemen het paspoort allemaal in op het moment van de aanvraag. Er blijft niets over om mee te reizen tot de vervanging binnen is.
+Controleer voor Australië en Canada de instructies voor jouw aanvraagmethode en de plaats waar je de aanvraag indient. De Australische ambassade in Duitsland staat toe dat je je huidige paspoort blijft gebruiken zolang het geldig is. Volgens de Canadese instructies voor papieren verlengingsaanvragen van buiten Canada en de Verenigde Staten moet je een nog geldig paspoort doorgaans meesturen.
 
-De praktische toets is simpel. Als je paspoort geannuleerd of verlopen is, of bij een overheidsinstantie ligt, is het geen reisdocument. Binnenlandse vluchten die een ander identiteitsbewijs met foto accepteren zijn de enige uitzondering, en daar verandert dit niets aan.
+Een ongeldig gemaakt of verlopen paspoort is doorgaans niet geschikt voor internationale reizen. Een paspoort dat bij een overheidsinstantie ligt, kun je niet gebruiken. Controleer voor binnenlandse vluchten welke andere identiteitsbewijzen je luchtvaartmaatschappij en de bevoegde vervoersautoriteit accepteren.
 
 ## Als je reis eerder is dan je verlengingstermijn
 
@@ -110,11 +112,11 @@ In de meeste gevallen wel. Voor binnenlandse reizen binnen je eigen land is geen
 
 ### Kan ik internationaal reizen terwijl mijn paspoort wordt verlengd?
 
-Over het algemeen niet. De uitzondering is de Britse digitale verlenging: omdat je je oude paspoort gedurende het hele proces behoudt, kun je het blijven gebruiken voor internationale reizen terwijl je op het nieuwe wacht. In alle andere hier besproken gevallen moet je nieuwe paspoort in handen zijn voor internationale reizen.
+Dat hangt af van je aanvraagmethode, waar je de aanvraag indient en of je paspoort geldig en in je bezit blijft. Bij Amerikaanse verlenging per post moet je het opsturen; bij Britse verlengingen per post en de standaard onlineprocedure doorgaans ook. Bij sommige Australische verlengingen vanuit het buitenland kun je een geldig paspoort blijven gebruiken. Vraag het na bij de paspoortinstantie die je aanvraag behandelt voordat je een reis plant.
 
 ### Kan ik op mijn oude paspoort reizen tijdens de verlenging?
 
-Alleen als het nog in jouw bezit is en nog geldig. Bij de digitale verlenging in het Verenigd Koninkrijk houd je je paspoort en kun je ermee blijven reizen. De Amerikaanse verlenging per post stuurt het geannuleerd terug, en een geannuleerd paspoort is niet geldig om mee te reizen, ook al heb je het in handen. De postale verlenging in het Verenigd Koninkrijk, Australië en Canada houden het tot het nieuwe is afgegeven.
+Doorgaans alleen als het geldig blijft voor je reis en je het in je bezit houdt. Bij een Britse onlineverlenging kun je niet tijdens de hele behandeling op je oude paspoort blijven reizen. Bij Amerikaanse verlenging per post moet je het opsturen, en een ongeldig gemaakt paspoort is niet geldig om mee te reizen. De Australische en Canadese vereisten hangen af van waar en hoe je de aanvraag indient, dus raadpleeg de instructies van de betreffende paspoortinstantie.
 
 ### Wat gebeurt er als mijn vlucht geboekt is, maar mijn paspoort niet op tijd aankomt?
 
@@ -122,11 +124,11 @@ Neem onmiddellijk contact op met je paspoortinstantie en vraag naar versnelde of
 
 ### Behoud ik mijn paspoort tijdens het verlengingsproces?
 
-Dat hangt ervan af. Bij Amerikaanse verlenging per post stuur je je oude paspoort op, en volgens USAGov wordt het apart teruggestuurd, meestal ongeveer vier weken nadat je het nieuwe hebt gekregen. Bij Britse digitale verlenging houd je het de hele tijd bij je. Britse postale verlenging, Australië en Canada vereisen allemaal dat je je paspoort inlevert bij de aanvraag.
+Dat hangt af van waar en hoe je de aanvraag indient. Bij Amerikaanse verlenging per post moet je je oude paspoort opsturen; volgens USAGov ontvang je het doorgaans apart terug, ongeveer vier weken nadat je het nieuwe hebt gekregen. Bij Britse verlengingen per post en de standaard onlineprocedure moet je het doorgaans naar HMPO sturen. De Australische ambassade in Duitsland laat aanvragers hun paspoort houden, terwijl je bij Canadese papieren verlengingsaanvragen van buiten Canada en de Verenigde Staten doorgaans het nog geldige origineel moet meesturen. Raadpleeg de instructies van je paspoortinstantie.
 
 ### Wat is een noodreisdocument?
 
-Een noodreisdocument is een tijdelijk document dat door je overheid wordt uitgegeven voor echte noodgevallen, zoals een medische crisis of een sterfgeval in de familie waarvoor onmiddellijk naar het buitenland moet worden gereisd. Het is geldig voor één enkele reis. Er is bewijs van een echt noodgeval voor nodig en het is geen alternatief voor standaardverlenging bij geplande reizen. De verwerking gaat snel omdat deze documenten bedoeld zijn voor urgente situaties, maar bevestig de actuele doorlooptijd bij je paspoortinstantie op het moment van aanvragen.
+Een noodreisdocument of noodpaspoort kan een optie zijn als je dringend moet reizen. Of je ervoor in aanmerking komt, hoelang het geldig is, welke reizen je ermee mag maken en wat de verwerkingstijd is, hangt af van de uitgevende instantie en je omstandigheden. Sommige landen accepteren het mogelijk niet. Vraag het na bij je paspoortinstantie en bij de autoriteiten van je bestemming en eventuele doorreislanden voordat je erop vertrouwt.
 
 ## Gerelateerde artikelen
 

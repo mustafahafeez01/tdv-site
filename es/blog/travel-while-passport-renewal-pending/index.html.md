@@ -1,30 +1,30 @@
 # ¿Puedes viajar mientras tu pasaporte se está renovando?
 
-> ¿Puedes viajar mientras se renueva tu pasaporte? Depende del país y del método de renovación que usaste. Esto es lo que conviene saber.
+> Viajar durante la renovación depende del trámite y de que tu pasaporte siga siendo válido y esté disponible. Comparamos EE. UU., Reino Unido, Australia y Canadá.
 
 Source: https://traveldocumentvault.com/es/blog/travel-while-passport-renewal-pending/
 
 ---
 
-![Dos pasaportes uno al lado del otro sobre un fondo azul marino real conectados por una línea dorada suave, uno antiguo y otro nuevo, sugiriendo que los viajes están cubiertos durante la renovación](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/cover.jpg)
+![Dos pasaportes uno al lado del otro sobre un fondo azul marino, conectados por una suave línea dorada, uno antiguo y otro nuevo](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/cover.jpg)
 
 ## Puntos clave
 
-- La respuesta depende de un hecho: aún tienes tu pasaporte en tu posesión, o ya lo has entregado. Este único detalle determina qué viajes son posibles.
+- Viajar durante la renovación depende del tipo de trámite, de dónde presentes la solicitud y de que tu pasaporte siga siendo válido y esté en tu poder.
 - **Estados Unidos:** La renovación por correo implica enviar tu pasaporte actual junto con la solicitud. Los viajes nacionales están bien. Los viajes internacionales requieren que tu nuevo pasaporte llegue primero.
-- **Reino Unido (renovación postal):** Tu pasaporte está en manos de HM Passport Office. No puedes viajar internacionalmente hasta que sea devuelto. **Reino Unido (renovación digital):** Conservas tu pasaporte durante todo el proceso y puedes viajar con él mientras se procesa el nuevo.
-- **Australia y Canadá:** Ambos requieren que entregues tu pasaporte en la solicitud. Los viajes internacionales no son posibles hasta que se emita el nuevo pasaporte.
-- Existen opciones de renovación expedida y urgente en cada país cubierto aquí, pero la regla básica se mantiene: no puedes viajar internacionalmente sin un pasaporte válido en tu mano.
+- **Reino Unido:** Las renovaciones por correo y en línea por la vía ordinaria generalmente exigen enviar el pasaporte antiguo a HM Passport Office. Hacer el trámite por vía digital no te permite seguir viajando con él. Espera a recibir el nuevo antes de reservar un viaje.
+- **Australia y Canadá:** Los requisitos dependen de dónde y cómo presentes la solicitud. Algunas renovaciones australianas tramitadas en el extranjero permiten seguir usando un pasaporte válido. Las instrucciones canadienses para renovar en papel desde fuera de Canadá y Estados Unidos generalmente exigen presentar el original si aún es válido. Consulta con la oficina de pasaportes correspondiente.
+- Si necesitas viajar con urgencia, pregunta a tu oficina de pasaportes qué opciones tienes según tu situación. Los viajes internacionales generalmente requieren un pasaporte válido u otro documento de viaje aceptado para tu ruta.
 
-Viajar mientras una renovación está en curso depende de un solo hecho: si el pasaporte antiguo sigue en mano o ya se ha entregado a las autoridades. Esa única diferencia decide si el viaje puede seguir adelante. También varía según el país y, en el caso del Reino Unido, según el método de renovación empleado.
+Puede ser posible viajar durante la renovación si tu pasaporte sigue siendo válido y está en tu poder. La respuesta depende del método de renovación y de dónde presentes la solicitud. La renovación en línea del Reino Unido no supone una excepción que te permita seguir viajando con el pasaporte antiguo.
 
 ## Una renovación en curso no te hará pasar el control fronterizo
 
-No puedes viajar internacionalmente sin un pasaporte válido físicamente en tu posesión. Una solicitud de renovación en curso no cuenta, y una carta de reconocimiento de tu oficina de pasaportes tampoco. El único documento que te permite pasar el mostrador de facturación y el control fronterizo es un pasaporte válido que puedas entregar cuando te lo pidan.
+Los viajes internacionales generalmente requieren que lleves contigo un pasaporte válido. Una solicitud de renovación o un acuse de recibo no lo sustituyen. Comprueba los requisitos documentales de tu ruta, incluida la aceptación de un documento de viaje de emergencia si cumples las condiciones para solicitarlo.
 
-Si aún tienes ese pasaporte depende enteramente de tu país y tu método de renovación.
+Que puedas usar tu pasaporte actual depende del método de renovación, de dónde presentes la solicitud y de que siga siendo válido.
 
-![Árbol de decisión: ¿tienes el pasaporte en tu poder? Sí: viaja con él mientras siga siendo válido (renovación por correo en EE.UU., renovación digital del Reino Unido). No: entregado, esperas el nuevo (renovación postal del Reino Unido, Australia, Canadá). Ningún país te deja volar internacionalmente sin el pasaporte en mano](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-es.jpg) Una sola pregunta lo decide todo: si tu pasaporte antiguo sigue en tu poder.
+![Diagrama sobre la renovación del pasaporte, oculto porque contiene indicaciones incorrectas para determinados países](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-es.jpg) Viajar durante la renovación depende del tipo de trámite y de que tu pasaporte siga siendo válido y esté disponible.
 
 ## Estados Unidos: Renovación por correo
 
@@ -34,51 +34,53 @@ Esto significa que los viajes nacionales dentro de Estados Unidos no se ven afec
 
 El tiempo de procesamiento estándar cambia, y el Departamento de Estado publica la cifra actual en travel.state.gov, así que consúltala antes de hacer planes. Si tu viaje está reservado antes de la fecha en que esperas recibir el nuevo pasaporte, el procesamiento acelerado está disponible por una tarifa adicional y reduce la espera de forma notable. Para viajes genuinamente urgentes, hay citas presenciales disponibles en agencias de pasaportes regionales —consulta la elegibilidad actual en travel.state.gov.
 
-## Reino Unido: Dos procesos con resultados opuestos
+## Reino Unido: envía tu pasaporte antiguo a HMPO
 
-Reino Unido tiene dos caminos de renovación, y tienen implicaciones completamente diferentes para viajar. El proceso que hayas utilizado determina qué es posible.
+Las renovaciones por correo y en línea por la vía ordinaria del Reino Unido generalmente exigen enviar el pasaporte antiguo a HM Passport Office. Presentar la solicitud en línea no te permite conservarlo para viajar durante toda la tramitación.
 
-**Renovación postal:** Envías tu pasaporte actual a [HM Passport Office](https://www.gov.uk/renew-adult-passport/renew) junto con tu solicitud. Tu pasaporte está en sus manos durante todo el proceso, así que no puedes viajar internacionalmente. HM Passport Office publica su tiempo de procesamiento actual en su sitio web y [desaconseja reservar viajes](https://www.gov.uk/renew-adult-passport) hasta que llegue el nuevo pasaporte. Hay un servicio premium de vía rápida disponible por una tarifa adicional si tu viaje está cerca.
+**Renovación por correo:** Envías tu pasaporte actual a [HM Passport Office](https://www.gov.uk/renew-adult-passport/renew) junto con la solicitud. Una vez enviado, no puedes usar ese pasaporte para viajar al extranjero. HM Passport Office publica sus plazos de tramitación actuales en su web y [desaconseja reservar viajes](https://www.gov.uk/renew-adult-passport) hasta que llegue el nuevo pasaporte. Si tu viaje está próximo, consulta qué servicios urgentes puedes solicitar según tu situación.
 
-**Renovación digital** está actualmente disponible para adultos elegibles que solicitan desde dentro de Reino Unido. Conservas tu pasaporte actual durante todo el proceso, y el gobierno emite tu nuevo pasaporte por separado y te lo envía por correo. Debido a que tu pasaporte existente nunca deja tu posesión, generalmente puedes seguir usándolo para viajar mientras se procesa el nuevo. La elegibilidad varía según las circunstancias individuales, así que consulta el sitio web de HM Passport Office para los criterios completos y los tiempos actuales antes de solicitar.
+**Renovación en línea y servicio Digital Check and Send:** Sigue las instrucciones de HM Passport Office para enviar tu pasaporte antiguo. Con Digital Check and Send, el Post Office lo envía a HMPO por ti. No puedes viajar con un pasaporte que has enviado, y HMPO recomienda esperar a recibir el nuevo antes de reservar un viaje.
 
-## Australia: Entregar y esperar
+## Australia: comprueba dónde presentas la solicitud
 
-La renovación de pasaporte australiano requiere que entregues tu pasaporte actual en el momento de la solicitud. A partir de ese momento, no tienes documento de viaje válido hasta que se emita y entregue el nuevo pasaporte.
+El proceso de renovación del pasaporte australiano depende de dónde presentes la solicitud. La Embajada de Australia en Alemania indica que quienes la presentan allí conservan su pasaporte actual y, por lo general, pueden usarlo durante la tramitación mientras siga siendo válido.
 
-No puedes viajar internacionalmente durante este período. Los viajes aéreos nacionales dentro de Australia también pueden verse afectados si no tienes otro documento de identidad fotográfico válido, ya que las aerolíneas requieren verificación de identidad en el mostrador de facturación.
+Ese procedimiento en el extranjero no determina las normas para las solicitudes presentadas en Australia. Antes de planificar un viaje, consulta con la Oficina de Pasaportes de Australia o con la representación diplomática que tramite tu solicitud.
 
-La Oficina de Pasaportes Australiana publica sus tiempos de procesamiento actuales y recomienda solicitar con amplia antelación a cualquier fecha de viaje. Si tienes viajes genuinos e inminentes, hay opciones de procesamiento más rápido disponibles por tarifas adicionales, incluyendo servicio rápido y prioritario. Existen opciones de emergencia para viajes verdaderamente inminentes. Consulta los tiempos actuales y solicita en passports.gov.au.
+Consulta los plazos de tramitación actuales y las instrucciones de la Oficina de Pasaportes de Australia en passports.gov.au. Si necesitas viajar con urgencia, pregunta a la oficina que tramita tu solicitud qué opciones tienes y cuándo se anulará tu pasaporte actual.
 
-## Canadá: Entregado en la solicitud
+## Canadá: comprueba tu método de renovación
 
-Canadá requiere que [entregues tu pasaporte existente cuando solicites la renovación](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html). Tu pasaporte antiguo se mantiene hasta que esté listo el nuevo, así que no puedes viajar internacionalmente durante este período —aunque los viajes nacionales dentro de Canadá no requieren pasaporte.
+Los requisitos de Canadá dependen de dónde y cómo presentes la solicitud. Las instrucciones oficiales para renovar en papel desde fuera de Canadá y Estados Unidos generalmente exigen presentar el pasaporte original si aún es válido. No puedes viajar con un pasaporte que has entregado. Para solicitudes presentadas en Canadá u otros métodos de renovación, [consulta las instrucciones del Gobierno de Canadá](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html) y confirma con la oficina de pasaportes si debes entregar el tuyo y cuándo deja de ser válido.
 
-Service Canada publica sus estándares de procesamiento actuales, que varían según si solicitas en persona, por correo o en un Service Canada Centre, más el tiempo de envío. Para viajes urgentes existen opciones de servicio express y retiro urgente por tarifas adicionales. Consulta los tiempos de procesamiento actuales y solicita en canada.ca.
+Consulta en canada.ca los plazos de tramitación actuales para tu tipo de solicitud. Si necesitas viajar con urgencia, pregunta a la oficina de pasaportes qué servicios puedes solicitar antes de contar con un plazo concreto.
 
 ## Comparación de países
 
+La columna sobre viajes se refiere al uso del pasaporte que estás renovando. No evalúa si puedes viajar con otro pasaporte válido o con un documento alternativo aceptado.
+
 | País / Método | ¿Conservar pasaporte? | ¿Viaje internacional durante la renovación? |
 |---|---|---|
-| EE.UU. (correo) | Sí (devuelto cancelado) | No |
+| EE.UU. (correo) | No durante la tramitación (se devuelve por separado, anulado) | No |
 | Reino Unido (postal) | No (en manos de HMPO) | No |
-| Reino Unido (digital) | Sí (lo conservas) | Sí (en pasaporte antiguo) |
-| Australia | No (debe entregarse) | No |
-| Canadá | No (debe entregarse) | No |
+| Reino Unido (digital) | Por lo general, no (debes enviarlo a HMPO) | No una vez enviado a HMPO |
+| Australia | Depende de dónde presentes la solicitud; consulta con la Oficina de Pasaportes de Australia | Puede ser posible si tramitas la renovación en el extranjero y sigue siendo válido; consulta con la representación que la gestiona |
+| Canadá | Por lo general, no si aún es válido y renuevas en papel desde fuera de Canadá y EE. UU.; comprueba tu tipo de trámite | No puedes usar un pasaporte que has entregado; consulta las normas de viaje y anulación de tu trámite |
 
 ## ¿Puedes viajar con tu pasaporte antiguo mientras lo renuevas?
 
 Esta es la pregunta que en realidad se hace la mayoría, y la respuesta es más estrecha de lo que parece. Tener tu pasaporte antiguo en la mano no es lo mismo que poder volar con él.
 
-Deben cumplirse dos condiciones a la vez. El pasaporte tiene que seguir en tu poder, y tiene que seguir siendo válido. En la mayoría de los países la renovación rompe una de las dos, y a veces las dos.
+Deben cumplirse dos condiciones a la vez: el pasaporte tiene que seguir en tu poder y ser válido para tu viaje. Confirma ambas con la oficina que tramita la renovación.
 
-La renovación digital británica es el caso más claro en el que la respuesta es sí. Tu pasaporte nunca sale de tus manos, sigue siendo válido hasta su propia fecha de caducidad y por lo general puedes seguir viajando con él mientras se produce el nuevo.
+La renovación en línea del Reino Unido no te permite seguir viajando con el pasaporte antiguo durante toda la tramitación. Por lo general, tienes que enviarlo a HMPO, así que organiza tus planes en función de cuándo recibas el nuevo.
 
-La renovación estadounidense por correo es el caso que más gente entiende mal. Envías tu pasaporte actual junto con la solicitud, así que no lo tienes durante la tramitación. Te vuelve anulado, normalmente perforado, al mismo tiempo que el nuevo. Un pasaporte anulado no te deja pasar la facturación, aunque sea tuyo y lo tengas en la mano.
+La renovación por correo en Estados Unidos suele generar confusión. Envías tu pasaporte actual con la solicitud, así que no lo tienes durante la tramitación. Según USAGov, se devuelve por correo por separado después de que se envíe el nuevo y, por lo general, llega unas cuatro semanas después de recibirlo. Un pasaporte anulado no sirve para pasar la facturación, aunque sea tuyo y lo tengas en la mano.
 
-La renovación postal británica, Australia y Canadá se quedan con tu pasaporte en el momento de la solicitud. No queda nada con lo que viajar hasta que llega el sustituto.
+En Australia y Canadá, consulta las instrucciones para tu tipo de solicitud y el lugar donde la presentes. La representación australiana en Alemania permite seguir usando el pasaporte actual mientras sea válido. Las instrucciones canadienses para renovar en papel desde fuera de Canadá y Estados Unidos generalmente exigen presentar el pasaporte si aún es válido.
 
-La prueba práctica es sencilla. Si tu pasaporte está anulado, caducado o en una oficina del gobierno, no es un documento de viaje. Los vuelos nacionales que aceptan otra identificación con fotografía son la única excepción, y nada de esto les afecta.
+Un pasaporte anulado o caducado generalmente no sirve para viajar al extranjero, y no puedes usar uno que está en una oficina del gobierno. Para los vuelos nacionales, comprueba qué otros documentos de identidad aceptan tu aerolínea y la autoridad de transporte correspondiente.
 
 ## Si tu viaje es más pronto que tu plazo de renovación
 
@@ -110,11 +112,11 @@ En la mayoría de los casos, sí. Viajar dentro de tu país no requiere un pasap
 
 ### ¿Puedo viajar al extranjero mientras se renueva mi pasaporte?
 
-Generalmente, no. La excepción es la renovación digital de Reino Unido: como conservas tu pasaporte antiguo durante todo ese proceso, puedes seguir usándolo para viajes internacionales mientras esperas el nuevo. En todos los otros casos cubiertos aquí, los viajes internacionales requieren que tu nuevo pasaporte esté en tu mano.
+Depende del método de renovación, de dónde presentes la solicitud y de que tu pasaporte siga siendo válido y esté en tu poder. La renovación por correo en Estados Unidos exige enviarlo, y las renovaciones por correo y en línea por la vía ordinaria del Reino Unido generalmente también. Algunas renovaciones australianas tramitadas en el extranjero permiten seguir usando un pasaporte válido. Consulta con la oficina que tramita tu solicitud antes de planificar un viaje.
 
 ### ¿Puedo viajar con mi pasaporte antiguo mientras lo renuevo?
 
-Solo si sigue en tu poder y sigue siendo válido. La renovación digital británica te permite conservar el pasaporte y seguir viajando con él. La renovación estadounidense por correo te lo devuelve anulado, y un pasaporte anulado no sirve para viajar aunque lo tengas en la mano. La renovación postal británica, Australia y Canadá lo conservan hasta que se expide el nuevo.
+Por lo general, solo si sigue siendo válido para tu viaje y está en tu poder. La renovación en línea del Reino Unido no te permite seguir viajando con el pasaporte antiguo durante toda la tramitación. La renovación por correo en Estados Unidos exige enviarlo, y un pasaporte anulado no es válido para viajar. Los requisitos australianos y canadienses dependen de dónde y cómo presentes la solicitud, así que consulta las instrucciones de la oficina de pasaportes correspondiente.
 
 ### ¿Qué hago si mi vuelo está reservado pero mi pasaporte no llegará a tiempo?
 
@@ -122,11 +124,11 @@ Contacta inmediatamente a tu servicio de pasaportes y pregunta sobre procesamien
 
 ### ¿Conservo mi pasaporte durante el proceso de renovación?
 
-Depende. La renovación por correo de EE.UU. implica enviar tu pasaporte antiguo, y según USAGov se devuelve por separado, normalmente unas cuatro semanas después del nuevo. La renovación digital de Reino Unido te permite conservarlo durante todo el proceso. La renovación postal de Reino Unido, Australia y Canadá todos requieren que entregues tu pasaporte en la solicitud.
+Depende de dónde y cómo presentes la solicitud. La renovación por correo en Estados Unidos exige enviar el pasaporte antiguo; según USAGov, por lo general se devuelve por separado unas cuatro semanas después de recibir el nuevo. Las renovaciones por correo y en línea por la vía ordinaria del Reino Unido generalmente exigen enviarlo a HMPO. La representación australiana en Alemania permite conservarlo, mientras que las renovaciones canadienses en papel desde fuera de Canadá y Estados Unidos generalmente exigen presentar el original si aún es válido. Consulta las instrucciones de tu oficina de pasaportes.
 
 ### ¿Qué es un documento de viaje de emergencia?
 
-Un documento de viaje de emergencia es un documento temporal emitido por tu gobierno para emergencias genuinas como una crisis médica o una muerte en la familia que requiere viaje inmediato al extranjero. Es válido para un único viaje. Requiere prueba de una emergencia genuina y no es una alternativa a la renovación estándar para viajes planificados. El procesamiento es rápido porque estos documentos están pensados para situaciones urgentes, pero confirma el tiempo actual con tu autoridad de pasaportes al solicitarlo.
+Si necesitas viajar con urgencia, quizá puedas solicitar un documento de viaje de emergencia o un pasaporte de emergencia. Los requisitos, la validez, los trayectos permitidos y los plazos de tramitación dependen de la autoridad emisora y de tus circunstancias. Algunos países pueden no aceptarlo. Antes de contar con uno, consulta con la autoridad que expide tu pasaporte y con las autoridades de los países de destino y de tránsito.
 
 ## Artículos relacionados
 

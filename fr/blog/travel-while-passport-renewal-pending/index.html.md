@@ -1,30 +1,30 @@
 # Pouvez-vous voyager pendant que votre passeport est renouvelé ?
 
-> Pouvez-vous voyager pendant que votre renouvellement de passeport est en cours ? Les règles varient selon le pays et le mode de demande.
+> Voyager pendant le renouvellement dépend de la démarche suivie et de la validité et de la disponibilité du passeport. Comparaison : États-Unis, Royaume-Uni, Australie et Canada.
 
 Source: https://traveldocumentvault.com/fr/blog/travel-while-passport-renewal-pending/
 
 ---
 
-![Deux passeports côte à côte sur un fond bleu marine royal reliés par une fine ligne dorée, l'un ancien et l'autre nouveau, suggérant que les voyages sont couverts pendant le renouvellement](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/cover.jpg)
+![Deux passeports côte à côte sur un fond bleu marine royal reliés par une fine ligne dorée, l'un ancien et l'autre nouveau](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/cover.jpg)
 
 ## Éléments clés
 
-- La réponse dépend d'un seul fait : conservez-vous toujours votre passeport en votre possession ou l'avez-vous déjà remis aux autorités. Ce détail unique détermine quel type de voyage est possible.
+- Voyager pendant le renouvellement dépend de la démarche suivie, du lieu où vous déposez votre demande et de la validité de votre passeport, qui doit aussi rester en votre possession.
 - **États-Unis :** Le renouvellement par courrier implique d'envoyer votre passeport actuel avec la demande. Les voyages intérieurs sont autorisés. Les voyages internationaux nécessitent que votre passeport renouvelé arrive en premier.
-- **Royaume-Uni (renouvellement postal) :** Votre passeport est en attente au Bureau des passeports de Sa Majesté. Vous ne pouvez pas voyager à l'étranger jusqu'à ce qu'il soit retourné. **Royaume-Uni (renouvellement numérique) :** Vous conservez votre passeport tout au long du processus et pouvez voyager avec lui pendant que le nouveau est traité.
-- **Australie et Canada :** Les deux vous demandent de remettre votre passeport lors de la demande. Les voyages internationaux ne sont pas possibles jusqu'à ce que le nouveau passeport soit émis.
-- Des options de renouvellement accéléré et urgent existent dans tous les pays couverts ici, mais la règle fondamentale s'applique : vous ne pouvez pas voyager à l'étranger sans un passeport valide en main.
+- **Royaume-Uni :** Les demandes par courrier et les demandes classiques en ligne nécessitent généralement d'envoyer votre ancien passeport à HM Passport Office. Une demande numérique ne vous permet pas de continuer à voyager avec ce passeport. Attendez de recevoir le nouveau avant de réserver un voyage.
+- **Australie et Canada :** Les exigences dépendent du lieu et du mode de dépôt de votre demande. Certaines démarches australiennes à l'étranger permettent de continuer à utiliser un passeport valide. Pour les demandes canadiennes sur formulaire papier déposées hors du Canada et des États-Unis, les consignes prévoient généralement de fournir l'original s'il est encore valide. Renseignez-vous auprès du service des passeports concerné.
+- Si votre voyage est urgent, demandez à votre service des passeports quelles options sont accessibles dans votre situation. Un voyage international nécessite généralement un passeport valide ou un autre document de voyage accepté pour votre itinéraire.
 
-Voyager pendant qu'un renouvellement est en cours tient à un seul fait : l'ancien passeport est-il toujours en main, ou a-t-il déjà été remis aux autorités. Cette seule différence décide si le voyage peut avoir lieu. Cela varie aussi selon les pays et, au Royaume-Uni, selon la méthode de renouvellement utilisée.
+Voyager pendant le renouvellement peut être possible si votre passeport reste valide et en votre possession. La réponse dépend de la démarche suivie et du lieu où vous déposez votre demande. Au Royaume-Uni, le renouvellement en ligne ne constitue pas une exception permettant de continuer à voyager avec l'ancien passeport.
 
 ## Un renouvellement en cours ne vous fera pas passer le contrôle aux frontières
 
-Vous ne pouvez pas voyager à l'étranger sans un passeport valide en votre possession. Une demande de renouvellement en cours ne compte pas, et une lettre d'accusé de réception de votre bureau des passeports non plus. Le seul document qui vous permet de passer l'enregistrement et le contrôle des frontières est un passeport valide que vous pouvez présenter quand on vous le demande.
+Un voyage international nécessite généralement un passeport valide que vous avez physiquement en votre possession. Une demande de renouvellement ou un accusé de réception ne le remplace pas. Vérifiez les documents exigés pour votre itinéraire, notamment si un document de voyage d'urgence serait accepté et si vous remplissez les conditions pour en obtenir un.
 
-Si vous conservez toujours ce passeport dépend entièrement de votre pays et de votre méthode de renouvellement.
+La possibilité d'utiliser votre passeport actuel dépend de la démarche de renouvellement, du lieu où vous déposez votre demande et de sa validité.
 
-![Arbre de décision : avez-vous toujours votre passeport en main ? Oui - voyagez avec tant qu'il reste valide (renouvellement postal aux États-Unis, renouvellement numérique au Royaume-Uni). Non - remis, vous attendez le nouveau (renouvellement postal au Royaume-Uni, Australie, Canada). Aucun pays n'autorise un vol international sans passeport en main](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-fr.jpg) Une seule question décide de tout : si vous avez toujours votre ancien passeport en main.
+![Schéma de décision sur le renouvellement du passeport, masqué car les indications propres à chaque pays sont inexactes](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-fr.jpg) Voyager pendant le renouvellement dépend de la démarche suivie et de la validité de votre passeport, qui doit rester à votre disposition.
 
 ## États-Unis : Renouvellement par courrier
 
@@ -34,51 +34,53 @@ Cela signifie que les voyages intérieurs aux États-Unis ne sont pas affectés 
 
 Le délai de traitement standard change, et le Département d'État publie le chiffre actuel sur travel.state.gov, consultez-le donc avant de planifier. Si votre voyage est réservé avant la date où vous attendez le nouveau passeport, un traitement accéléré est disponible moyennant des frais supplémentaires et réduit sensiblement l'attente. Pour les voyages véritablement urgents, des rendez-vous en personne sont disponibles aux agences régionales des passeports — consultez l'admissibilité actuelle sur travel.state.gov.
 
-## Royaume-Uni : Deux processus avec des résultats opposés
+## Royaume-Uni : envoyez votre ancien passeport à HMPO
 
-Le Royaume-Uni propose deux voies de renouvellement avec des implications complètement différentes pour les voyages. Le processus utilisé détermine ce qui est possible.
+Au Royaume-Uni, les demandes par courrier et les demandes classiques en ligne nécessitent généralement d'envoyer votre ancien passeport à HM Passport Office. Une demande en ligne ne vous permet pas de le conserver pour voyager pendant toute la durée du traitement.
 
-**Renouvellement postal :** Vous envoyez votre passeport actuel au [Bureau des passeports de Sa Majesté](https://www.gov.uk/renew-adult-passport/renew) avec votre demande. Votre passeport est en leur possession pendant toute la durée, donc vous ne pouvez pas voyager à l'étranger. Le Bureau des passeports de Sa Majesté publie son délai de traitement actuel sur son site web et [déconseille de réserver un voyage](https://www.gov.uk/renew-adult-passport) avant l'arrivée du nouveau passeport. Un service de fast-track premium est disponible moyennant des frais supplémentaires si votre voyage est proche.
+**Renouvellement par courrier :** Vous envoyez votre passeport actuel au [Bureau des passeports de Sa Majesté](https://www.gov.uk/renew-adult-passport/renew) avec votre demande. Une fois envoyé, vous ne pouvez plus utiliser ce passeport pour voyager à l'étranger. Le Bureau des passeports de Sa Majesté publie ses délais de traitement actuels sur son site et [déconseille de réserver un voyage](https://www.gov.uk/renew-adult-passport) avant la réception du nouveau passeport. Si votre départ approche, vérifiez quels services de délivrance urgente sont accessibles dans votre situation.
 
-**Le renouvellement numérique** est actuellement disponible pour les adultes admissibles postulant du Royaume-Uni. Vous conservez votre passeport actuel tout au long du processus, et le gouvernement émet votre nouveau passeport séparément et l'envoie par la poste. Comme votre passeport existant ne quitte jamais votre possession, vous pouvez généralement continuer à l'utiliser pour les voyages en attendant le nouveau. L'admissibilité varie selon la situation individuelle, donc vérifiez le site Web du Bureau des passeports de Sa Majesté pour connaître les critères complets et les délais actuels avant de postuler.
+**Renouvellement en ligne et service Digital Check and Send :** Suivez les consignes de HM Passport Office pour envoyer votre ancien passeport. Avec le service Digital Check and Send, le Post Office l'envoie à HMPO pour vous. Vous ne pouvez pas voyager avec un passeport que vous avez envoyé, et HMPO recommande d'attendre la réception du nouveau avant de réserver un voyage.
 
-## Australie : Remettre et attendre
+## Australie : vérifiez les règles du lieu de dépôt
 
-Le renouvellement du passeport australien vous oblige à remettre votre passeport actuel au moment de la demande. À partir de ce moment, vous n'avez aucun document de voyage valide jusqu'à ce que le nouveau passeport soit émis et livré.
+En Australie, les modalités de renouvellement dépendent du lieu où vous déposez votre demande. L'ambassade d'Australie en Allemagne indique que les demandeurs y conservent leur passeport actuel et peuvent généralement continuer à l'utiliser pendant le traitement, tant qu'il reste valide. Cette procédure à l'étranger ne permet pas de déduire les règles applicables aux demandes déposées en Australie.
 
-Vous ne pouvez pas voyager à l'étranger pendant cette période. Les voyages aériens intérieurs en Australie peuvent également être affectés si vous n'avez pas d'autre pièce d'identité avec photo valide, car les compagnies aériennes exigent une vérification d'identité à l'enregistrement.
+Avant de prévoir un voyage, renseignez-vous auprès du Bureau australien des passeports ou de la mission diplomatique qui traite votre demande.
 
-Le Bureau australien des passeports publie ses délais de traitement actuels et recommande de présenter la demande bien avant toute date de voyage. Si vous avez un voyage véritablement urgent et immédiat, des options de traitement plus rapide sont disponibles moyennant des frais supplémentaires, notamment fast-track et prioritaire. Des options d'urgence existent pour les voyages véritablement imminents. Vérifiez les délais actuels et postulez sur passports.gov.au.
+Consultez les délais actuels et les consignes de dépôt auprès du Bureau australien des passeports sur passports.gov.au. Si votre voyage est urgent, demandez au service qui traite votre dossier quelles options sont possibles et à quel moment votre passeport actuel sera annulé.
 
-## Canada : Remis lors de la demande
+## Canada : vérifiez les modalités de renouvellement
 
-Le Canada vous oblige à [remettre votre passeport existant lorsque vous demandez un renouvellement](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html). Votre ancien passeport est conservé jusqu'à ce que le nouveau soit prêt, donc vous ne pouvez pas voyager à l'étranger pendant cette période — bien que les voyages intérieurs au Canada ne nécessitent pas de passeport.
+Au Canada, les exigences dépendent du lieu et du mode de dépôt de votre demande. Pour les renouvellements sur formulaire papier depuis l'extérieur du Canada et des États-Unis, les consignes gouvernementales exigent généralement l'original du passeport s'il est encore valide. Vous ne pouvez pas voyager avec un passeport que vous avez remis aux autorités. Pour les demandes déposées au Canada ou selon une autre procédure, [consultez les consignes du gouvernement du Canada](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html) et confirmez auprès du service des passeports si vous devez remettre le vôtre et à quel moment il devient invalide.
 
-Service Canada publie ses normes de traitement actuelles, qui varient selon que vous postulez en personne, par courrier ou à un Centre de services Canada, plus le temps d'envoi. Pour les voyages urgents, des options de service express et de retrait urgent existent moyennant des frais supplémentaires. Vérifiez les délais de traitement actuels et postulez sur canada.ca.
+Consultez les délais de traitement actuels sur canada.ca pour la démarche que vous avez choisie. Si votre voyage est urgent, demandez au service des passeports quelles options sont accessibles dans votre situation avant de compter sur un délai précis.
 
 ## Comparaison des pays
 
+La colonne sur les voyages concerne l'utilisation du passeport en cours de renouvellement. Elle ne traite pas des voyages avec un autre passeport valide ou un autre document accepté.
+
 | Pays / Méthode | Conserver passeport ? | Voyages internationaux pendant le renouvellement ? |
 |---|---|---|
-| États-Unis (par courrier) | Oui (retourné annulé) | Non |
+| États-Unis (par courrier) | Non pendant le traitement (renvoyé séparément, annulé) | Non |
 | Royaume-Uni (postal) | Non (en attente au HMPO) | Non |
-| Royaume-Uni (numérique) | Oui (vous le conservez) | Oui (sur ancien passeport) |
-| Australie | Non (doit être remis) | Non |
-| Canada | Non (doit être remis) | Non |
+| Royaume-Uni (numérique) | Généralement non (à envoyer à HMPO) | Non une fois envoyé à HMPO |
+| Australie | Cela dépend du lieu de dépôt ; renseignez-vous auprès du Bureau australien des passeports | Parfois possible pour les demandes à l'étranger si le passeport reste valide ; à confirmer auprès de la mission qui traite la demande |
+| Canada | Généralement non si le passeport est encore valide, pour les demandes sur formulaire papier déposées hors du Canada et des États-Unis ; vérifiez votre procédure | Impossible avec un passeport remis aux autorités ; vérifiez les règles de voyage et d'annulation propres à votre procédure |
 
 ## Pouvez-vous voyager avec votre ancien passeport pendant le renouvellement ?
 
 C'est la vraie question que se posent la plupart des gens, et la réponse est plus étroite qu'il n'y paraît. Avoir votre ancien passeport en main ne signifie pas que vous pouvez voler avec.
 
-Deux conditions doivent être réunies en même temps. Le passeport doit toujours être en votre possession, et il doit toujours être valide. Dans la plupart des pays, le renouvellement rompt l'une de ces conditions, parfois les deux.
+Deux conditions doivent être réunies : le passeport doit rester en votre possession et être valide pour votre voyage. Vérifiez ces deux points auprès du service qui traite votre renouvellement.
 
-Le renouvellement numérique britannique est le cas le plus clair où la réponse est oui. Votre passeport ne vous quitte jamais, il reste valide jusqu'à sa propre date d'expiration, et vous pouvez généralement continuer à voyager avec pendant la production du nouveau.
+Au Royaume-Uni, une demande de renouvellement en ligne ne vous permet pas de continuer à voyager avec l'ancien passeport pendant toute la durée du traitement. Vous devez généralement l'envoyer à HMPO : prévoyez donc vos voyages en fonction de la réception du nouveau.
 
-Le renouvellement américain par courrier est le cas que les gens comprennent le plus souvent de travers. Vous envoyez votre passeport actuel avec votre demande, vous ne l'avez donc pas pendant le traitement. Il vous revient annulé, généralement perforé, en même temps que le nouveau. Un passeport annulé ne vous fera pas passer l'enregistrement, même s'il est à vous et entre vos mains.
+Le renouvellement américain par courrier prête souvent à confusion. Vous envoyez votre passeport actuel avec la demande et ne l'avez donc pas pendant le traitement. Selon USAGov, l'ancien passeport est renvoyé séparément après l'envoi du nouveau et arrive généralement environ quatre semaines après la réception de celui-ci. Un passeport annulé ne permet pas de passer l'enregistrement, même s'il vous appartient et que vous l'avez en main.
 
-Le renouvellement postal britannique, l'Australie et le Canada prennent tous votre passeport au moment de la demande. Il ne reste rien avec quoi voyager jusqu'à l'arrivée du remplacement.
+Pour l'Australie et le Canada, consultez les consignes propres à votre démarche et au lieu de dépôt. La mission australienne en Allemagne permet de continuer à utiliser le passeport actuel tant qu'il reste valide. Pour les demandes canadiennes sur formulaire papier déposées hors du Canada et des États-Unis, les consignes prévoient généralement de fournir le passeport s'il est encore valide.
 
-Le test pratique est simple. Si votre passeport est annulé, expiré ou dans un bureau gouvernemental, ce n'est pas un document de voyage. Les vols intérieurs qui acceptent une autre pièce d'identité avec photo sont la seule exception, et rien de tout cela ne les concerne.
+Un passeport annulé ou expiré ne convient généralement pas aux voyages internationaux, et vous ne pouvez pas utiliser un passeport qui se trouve dans un service administratif. Pour les vols intérieurs, vérifiez quelles autres pièces d'identité votre compagnie aérienne et l'autorité compétente en matière de transport acceptent.
 
 ## Si votre voyage est plus proche que votre délai de renouvellement
 
@@ -110,23 +112,23 @@ Dans la plupart des cas, oui. Les voyages intérieurs dans votre propre pays ne 
 
 ### Puis-je voyager à l'étranger pendant que mon passeport est renouvelé ?
 
-Généralement non. L'exception est le renouvellement numérique au Royaume-Uni : puisque vous conservez votre ancien passeport tout au long de ce processus, vous pouvez continuer à l'utiliser pour les voyages internationaux en attendant le nouveau. Dans tous les autres cas couverts ici, les voyages internationaux nécessitent que votre nouveau passeport soit en main.
+Cela dépend de la démarche de renouvellement, du lieu où vous déposez votre demande et de la validité de votre passeport, qui doit aussi rester en votre possession. Aux États-Unis, le renouvellement par courrier impose de l'envoyer avec la demande ; au Royaume-Uni, c'est généralement aussi le cas pour les demandes par courrier et les demandes classiques en ligne. Certaines démarches australiennes à l'étranger permettent de continuer à utiliser un passeport valide. Avant de prévoir un voyage, renseignez-vous auprès du service des passeports qui traite votre demande.
 
 ### Puis-je voyager avec mon ancien passeport pendant le renouvellement ?
 
-Uniquement s'il est toujours en votre possession et toujours valide. Le renouvellement numérique britannique vous permet de garder votre passeport et de continuer à voyager avec. Le renouvellement américain par courrier vous le renvoie annulé, et un passeport annulé n'est pas valide pour voyager même si vous l'avez en main. Le renouvellement postal britannique, l'Australie et le Canada le conservent jusqu'à la délivrance du nouveau.
+En règle générale, seulement s'il reste valide pour votre voyage et en votre possession. Au Royaume-Uni, une demande de renouvellement en ligne ne vous permet pas de continuer à voyager avec l'ancien passeport tout au long du traitement. Aux États-Unis, le renouvellement par courrier impose de l'envoyer, et un passeport annulé n'est pas valable pour voyager. En Australie et au Canada, les exigences dépendent du lieu et du mode de dépôt de la demande : consultez les consignes du service des passeports concerné.
 
 ### Que se passe-t-il si mon vol est réservé mais mon passeport n'arrivera pas à temps ?
 
 Contactez immédiatement votre service des passeports et renseignez-vous sur le traitement accéléré ou urgent. La plupart des pays proposent des options plus rapides moyennant des frais. Si ces délais ne correspondent toujours pas, vous devrez peut-être reporter votre vol ou demander un document de voyage d'urgence si votre situation le justifie.
 
-### Conserve-je mon passeport pendant le processus de renouvellement ?
+### Puis-je conserver mon passeport pendant le renouvellement ?
 
-Cela dépend. Pour le renouvellement par courrier aux États-Unis, vous envoyez votre ancien passeport, et selon USAGov il est renvoyé séparément, en général environ quatre semaines après le nouveau. Le renouvellement numérique au Royaume-Uni vous permet de le conserver tout au long. Le renouvellement postal au Royaume-Uni, l'Australie et le Canada vous demandent tous de remettre votre passeport lors de la demande.
+Cela dépend du lieu et du mode de dépôt de votre demande. Aux États-Unis, le renouvellement par courrier impose d'envoyer votre ancien passeport ; selon USAGov, il revient séparément, généralement environ quatre semaines après la réception du nouveau. Au Royaume-Uni, les demandes par courrier et les demandes classiques en ligne nécessitent généralement de l'envoyer à HMPO. La mission australienne en Allemagne permet aux demandeurs de le conserver. Pour les demandes canadiennes sur formulaire papier déposées hors du Canada et des États-Unis, il faut généralement fournir l'original s'il est encore valide. Consultez les consignes de votre service des passeports.
 
 ### Qu'est-ce qu'un document de voyage d'urgence ?
 
-Un document de voyage d'urgence est un document temporaire délivré par votre gouvernement pour les urgences véritables, comme une crise médicale ou un décès dans la famille nécessitant un voyage immédiat à l'étranger. Il est valide pour un seul voyage. Il nécessite une preuve d'urgence véritable et n'est pas une alternative au renouvellement standard pour les voyages planifiés. Le traitement est rapide car ces documents sont conçus pour les situations urgentes, mais confirmez le délai actuel auprès de votre autorité de passeport au moment de la demande.
+Un document de voyage d'urgence ou un passeport d'urgence peut être proposé si vous devez voyager rapidement. Les conditions d'obtention, la durée de validité, les trajets autorisés et les délais de délivrance dépendent de l'autorité émettrice et de votre situation. Certains pays peuvent ne pas l'accepter. Avant de compter sur ce document, renseignez-vous auprès du service qui délivre votre passeport et des autorités des pays de destination et de transit.
 
 ## Articles connexes
 

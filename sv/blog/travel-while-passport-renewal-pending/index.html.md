@@ -1,30 +1,30 @@
 # Kan du resa medan ditt pass förnyas?
 
-> Ta reda på om du kan resa medan din passförnyelse pågår. Reglerna skiljer sig mellan länder och beroende på hur du ansökte. Här är vad du behöver veta.
+> Resor under passförnyelsen beror på hur du ansöker och om passet är giltigt och tillgängligt. Jämför USA, Storbritannien, Australien och Kanada.
 
 Source: https://traveldocumentvault.com/sv/blog/travel-while-passport-renewal-pending/
 
 ---
 
-![Två pass sida vid sida mot en marinblå bakgrund, sammanlänkade av en tunn guldlinje, ett äldre och ett nytt, som antyder att resor fortsätter fungera under förnyelsen](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/cover.jpg)
+![Två pass sida vid sida mot en marinblå bakgrund, sammanlänkade av en tunn guldlinje, ett äldre och ett nytt](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/cover.jpg)
 
 ## Viktiga punkter
 
-- Allt nedan handlar om en enda sak: om du fortfarande har ditt pass i handen, eller redan har lämnat in det för förnyelse.
+- Om du kan resa under förnyelsen beror på hur och var du ansöker och om passet fortfarande är giltigt och finns hos dig.
 - **USA:** Vid förnyelse per post skickar du in ditt nuvarande pass tillsammans med ansökan. Inrikesresor fungerar utan problem. Utrikesresor kräver att ditt förnyade pass har kommit.
-- **Storbritannien (postal förnyelse):** Ditt pass förvaras av HM Passport Office. Du kan inte resa utomlands förrän det har returnerats. **Storbritannien (digital förnyelse):** Du behåller ditt pass hela tiden och kan resa på det medan det nya behandlas.
-- **Australien och Kanada:** Båda kräver att du lämnar in ditt pass vid ansökan. Utrikesresor är inte möjliga förrän det nya passet har utfärdats.
-- Expedierade och brådskande förnyelsealternativ finns i alla länder som tas upp här, men grundregeln gäller ändå: du kan inte resa utomlands utan ett giltigt pass i handen.
+- **Storbritannien:** Vid förnyelse per post och vanlig förnyelse på nätet behöver du i regel skicka ditt gamla pass till HM Passport Office. En digital ansökan innebär inte att du kan fortsätta resa på det. Vänta med att boka resor tills det nya passet har kommit.
+- **Australien och Kanada:** Kraven beror på var och hur du ansöker. Vid vissa australiska förnyelser utomlands kan du fortsätta använda ett giltigt pass. Enligt Kanadas anvisningar för pappersansökningar från länder utanför Kanada och USA behöver du i regel lämna in originalpasset om det fortfarande är giltigt. Kontrollera med ansvarig passmyndighet.
+- Om resan är brådskande, fråga passmyndigheten vilka alternativ du kan använda. Utrikesresor kräver i regel ett giltigt pass eller en annan resehandling som godtas längs din resväg.
 
-Att resa medan en förnyelse pågår hänger på ett enda faktum: finns det gamla passet kvar i handen eller har det redan lämnats in till myndigheterna. Den enda skillnaden avgör om resan kan bli av. Det varierar dessutom mellan länder och, i Storbritanniens fall, med vilken förnyelsemetod som användes.
+Det kan gå att resa medan passet förnyas om det fortfarande är giltigt och finns hos dig. Svaret beror på hur och var du ansöker. Förnyelse på nätet i Storbritannien är inget undantag som låter dig fortsätta resa på det gamla passet.
 
 ## En pågående förnyelse tar dig inte förbi gränskontrollen
 
-Du kan inte resa utomlands utan ett giltigt pass fysiskt i din besittning. En pågående förnyelseansökan räknas inte, och ett mottagningsbevis från din passmyndighet gör det inte heller. Det enda dokument som tar dig igenom incheckning och gränskontroll är ett giltigt pass som du kan lämna över när du blir ombedd.
+Utrikesresor kräver i regel att du har ett giltigt pass med dig. En förnyelseansökan eller ett mottagningsbevis ersätter inte passet. Kontrollera dokumentkraven för din resväg. Om du uppfyller villkoren för att få en provisorisk resehandling, kontrollera också om den skulle godtas.
 
-Om du fortfarande har det passet beror helt på ditt land och din förnyelsemetod.
+Om du kan använda ditt nuvarande pass beror på hur och var du ansöker och om passet fortfarande är giltigt.
 
-![Beslutsträd: är passet fortfarande i din hand? Ja - res på det medan det är giltigt (USA:s postförnyelse, Storbritanniens digitala förnyelse). Nej - inlämnat, du väntar på det nya (Storbritanniens postförnyelse, Australien, Kanada). Inget land låter dig flyga internationellt utan ett pass i handen](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-sv.jpg) En fråga avgör allt: om ditt gamla pass fortfarande är i din ägo.
+![Beslutsdiagram för passförnyelse, dolt eftersom uppgifterna om förnyelse i olika länder är felaktiga](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-sv.jpg) Resor under förnyelsen beror på hur du ansöker och om passet fortfarande är giltigt och finns till hands.
 
 ## USA: Förnyelse per post
 
@@ -34,51 +34,53 @@ Det innebär att inrikesresor inom USA inte påverkas under hela förnyelseproce
 
 Standardhandläggningstiderna ändras, och utrikesdepartementet publicerar den aktuella siffran på travel.state.gov, så kontrollera där innan du planerar utifrån den. Om din resa är bokad innan du väntar dig att det nya passet ska komma finns expedierad handläggning tillgänglig mot en extra avgift och förkortar väntan avsevärt. Vid genuint brådskande resor finns personliga besök tillgängliga hos regionala passmyndigheter – kontrollera aktuell behörighet på travel.state.gov.
 
-## Storbritannien: Två processer med motsatta utfall
+## Storbritannien: skicka ditt gamla pass till HMPO
 
-Storbritannien har två förnyelsevägar, och de har helt olika konsekvenser för resande. Metoden du använde avgör vad som är möjligt.
+Vid brittisk förnyelse per post och vanlig förnyelse på nätet behöver du i regel skicka ditt gamla pass till HM Passport Office. Att ansöka på nätet innebär inte att du får behålla passet för resor under hela handläggningen.
 
-**Postal förnyelse:** Du skickar ditt nuvarande pass till [HM Passport Office](https://www.gov.uk/renew-adult-passport/renew) tillsammans med din ansökan. Ditt pass är i deras händer under hela tiden, så du kan inte resa utomlands. HM Passport Office publicerar sin aktuella handläggningstid på sin webbplats och [avråder från att boka resor](https://www.gov.uk/renew-adult-passport) innan ditt nya pass har kommit. En premiumtjänst med snabbare handläggning finns tillgänglig mot en extra avgift om din resa ligger nära i tiden.
+**Förnyelse per post:** Du skickar ditt nuvarande pass till [HM Passport Office](https://www.gov.uk/renew-adult-passport/renew) tillsammans med din ansökan. När du har skickat iväg det kan du inte använda det passet för utrikesresor. HM Passport Office publicerar sin aktuella handläggningstid på sin webbplats och [avråder från att boka resor](https://www.gov.uk/renew-adult-passport) innan ditt nya pass har kommit. Om resan närmar sig, kontrollera vilka tjänster för brådskande passärenden du uppfyller villkoren för.
 
-**Digital förnyelse** är för närvarande tillgänglig för behöriga vuxna som ansöker inifrån Storbritannien. Du behåller ditt nuvarande pass under hela processen, och myndigheten utfärdar ditt nya pass separat och skickar det till dig. Eftersom ditt befintliga pass aldrig lämnar din besittning kan du i regel fortsätta använda det för resor medan det nya behandlas. Behörigheten varierar beroende på individuella omständigheter, så kontrollera HM Passport Offices webbplats för fullständiga kriterier och aktuella tider innan du ansöker.
+**Förnyelse på nätet och via Digital Check and Send:** Följ HM Passport Offices anvisningar om hur du skickar in ditt gamla pass. Med Digital Check and Send skickar Post Office det till HMPO åt dig. Du kan inte resa på ett pass som du har skickat iväg, och HMPO rekommenderar att du väntar med att boka resor tills du har fått ditt nya pass.
 
-## Australien: Lämna in och vänta
+## Australien: kontrollera vad som gäller där du ansöker
 
-Australiensisk passförnyelse kräver att du lämnar in ditt nuvarande pass vid ansökningstillfället. Från den stunden har du inget giltigt resedokument förrän det nya passet har utfärdats och levererats.
+Vad som gäller vid australisk passförnyelse beror på var du ansöker. Australiens ambassad i Tyskland uppger att sökande där får behålla sitt nuvarande pass och i regel kan använda det under handläggningen så länge det är giltigt.
 
-Du kan inte resa utomlands under den här perioden. Inrikes flygresor inom Australien kan också påverkas om du inte har någon annan giltig foto-ID, eftersom flygbolag kräver identitetsverifiering vid incheckning.
+Det här förfarandet vid ansökan utomlands visar inte vad som gäller för ansökningar inom Australien. Kontrollera med Australian Passport Office eller den ambassad eller det konsulat som handlägger din ansökan innan du planerar en resa.
 
-Australian Passport Office publicerar sina aktuella handläggningstider och rekommenderar att du ansöker god tid före ett resedatum. Om du har en genuin och nära förestående resa finns snabbare handläggningsalternativ tillgängliga mot extra avgifter, inklusive express- och prioritetstjänster. Nödalternativ finns för verkligt nära förestående resor. Kontrollera aktuella tider och ansök på passports.gov.au.
+Kontrollera aktuella handläggningstider och ansökningsanvisningar hos Australian Passport Office på passports.gov.au. Om resan är brådskande, fråga det kontor som handlägger din ansökan vilka alternativ du kan använda och när ditt nuvarande pass kommer att makuleras.
 
-## Kanada: Inlämnat vid ansökan
+## Kanada: kontrollera vad som gäller för ditt sätt att förnya
 
-Kanada kräver att du [lämnar in ditt befintliga pass när du ansöker om förnyelse](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html). Ditt gamla pass förvaras tills det nya är klart, så du kan inte resa utomlands under den här perioden – även om inrikesresor inom Kanada inte kräver ett pass.
+Kanadas krav beror på var och hur du ansöker. Enligt myndigheternas anvisningar för förnyelse med pappersansökan från länder utanför Kanada och USA behöver du i regel lämna in originalpasset om det fortfarande är giltigt. Du kan inte resa på ett pass som du har lämnat in. För ansökningar inom Kanada eller andra sätt att förnya, [läs de kanadensiska myndigheternas anvisningar](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html) och kontrollera med passmyndigheten om du måste lämna in passet och när det blir ogiltigt.
 
-Service Canada publicerar sina aktuella handläggningsstandarder, som skiljer sig beroende på om du ansöker personligen, per post eller på ett Service Canada Centre, plus posttid oavsett metod. Vid brådskande resor finns expresstjänst och brådskande upphämtning tillgängliga mot extra avgifter. Kontrollera aktuella handläggningstider och ansök på canada.ca.
+Kontrollera aktuella handläggningstider på canada.ca för det sätt du ansöker på. Om du behöver resa snart, fråga passmyndigheten vilka tjänster du uppfyller villkoren för innan du räknar med en viss handläggningstid.
 
 ## Jämförelse mellan länder
 
+Resekolumnen gäller resor med det pass som förnyas. Den bedömer inte möjligheten att resa med ett annat giltigt pass eller en annan resehandling som godtas.
+
 | Land / metod | Behåller du passet? | Utrikesresor under förnyelsen? |
 |---|---|---|
-| USA (per post) | Ja (returneras makulerat) | Nej |
+| USA (per post) | Nej, inte under handläggningen (returneras separat och makulerat) | Nej |
 | Storbritannien (postal) | Nej (förvaras av HMPO) | Nej |
-| Storbritannien (digital) | Ja (du behåller det) | Ja (på det gamla passet) |
-| Australien | Nej (måste lämnas in) | Nej |
-| Kanada | Nej (måste lämnas in) | Nej |
+| Storbritannien (digital) | I regel inte (skickas till HMPO) | Nej, inte när det har skickats till HMPO |
+| Australien | Beror på var du ansöker; kontrollera med Australian Passport Office | Kan vara möjligt vid ansökan utomlands så länge passet är giltigt; kontrollera med ansvarig ambassad eller konsulat |
+| Kanada | I regel inte om passet fortfarande är giltigt vid förnyelse med pappersansökan från länder utanför Kanada och USA; kontrollera vad som gäller för ditt sätt att ansöka | Ett inlämnat pass kan inte användas; kontrollera reglerna för resor och makulering för ditt sätt att ansöka |
 
 ## Kan du resa på ditt gamla pass under förnyelsen?
 
 Det här är frågan de flesta egentligen ställer, och svaret är snävare än det ser ut. Att ha sitt gamla pass i handen är inte samma sak som att få flyga på det.
 
-Två saker måste stämma samtidigt. Passet måste fortfarande vara i din ägo, och det måste fortfarande vara giltigt. I de flesta länder bryter förnyelsen det ena eller båda.
+Två saker måste stämma samtidigt. Du måste fortfarande ha passet hos dig, och det måste vara giltigt för din resa. Kontrollera båda delarna med det kontor som handlägger förnyelsen.
 
-Storbritanniens digitala förnyelse är det tydligaste fallet där svaret är ja. Passet lämnar dig aldrig, det förblir giltigt fram till sitt eget utgångsdatum och du kan i regel fortsätta resa på det medan det nya tillverkas.
+Förnyelse på nätet i Storbritannien innebär inte att du kan fortsätta resa på det gamla passet under hela handläggningen. Du behöver i regel skicka det till HMPO, så planera utifrån att det nya passet behöver komma först.
 
-Den amerikanska förnyelsen per post är det fall som flest missförstår. Du skickar in ditt nuvarande pass med ansökan och har det därför inte under handläggningen. Det kommer tillbaka makulerat, oftast hålslaget, samtidigt som det nya. Ett makulerat pass tar dig inte genom incheckningen, även om det är ditt och ligger i din hand.
+Förnyelse per post i USA är det fall som flest missförstår. Du skickar in ditt nuvarande pass med ansökan och har det därför inte under handläggningen. Enligt USAGov skickas det tillbaka separat efter att det nya passet har skickats och kommer vanligtvis omkring fyra veckor efter att du har fått det nya. Ett makulerat pass går inte att använda vid incheckningen, även om det är ditt och du har det i handen.
 
-Storbritanniens postförnyelse, Australien och Kanada tar alla passet av dig när ansökan lämnas in. Det finns ingenting kvar att resa på förrän ersättningen kommer.
+För Australien och Kanada behöver du kontrollera anvisningarna för hur och var du ansöker. Australiens ambassad i Tyskland tillåter fortsatt användning så länge det nuvarande passet är giltigt. Enligt Kanadas anvisningar för förnyelse med pappersansökan från länder utanför Kanada och USA behöver du i regel lämna in passet om det fortfarande är giltigt.
 
-Det praktiska testet är enkelt. Om passet är makulerat, utgånget eller ligger hos en myndighet är det inte en resehandling. Inrikesflyg som godtar annan fotolegitimation är det enda undantaget, och inget av detta påverkar dem.
+Ett makulerat pass eller ett pass som har gått ut går i regel inte att använda för utrikesresor, och du kan inte använda ett pass som ligger hos en myndighet. För inrikesflyg behöver du kontrollera vilka andra ID-handlingar flygbolaget och ansvarig transportmyndighet godtar.
 
 ## Om din resa ligger tidigare än din förnyelsetidslinje
 
@@ -110,23 +112,23 @@ I de flesta fall, ja. Inrikesresor inom ditt eget land kräver inte ett giltigt 
 
 ### Kan jag resa utomlands medan mitt pass förnyas?
 
-I allmänhet nej. Undantaget är Storbritanniens digitala förnyelse: eftersom du behåller ditt gamla pass under hela processen kan du fortsätta använda det för utrikesresor medan du väntar på det nya. I alla andra fall som tas upp här krävs att ditt nya pass finns i din hand för utrikesresor.
+Det beror på hur och var du ansöker och om ditt pass fortfarande är giltigt och finns hos dig. Vid förnyelse per post i USA måste du skicka in passet, och det gäller i regel även vid brittisk förnyelse per post och vanlig förnyelse på nätet. Vid vissa australiska förnyelser utomlands kan du fortsätta använda ett giltigt pass. Kontrollera med den passmyndighet som handlägger din ansökan innan du planerar en resa.
 
 ### Kan jag resa på mitt gamla pass under förnyelsen?
 
-Bara om det fortfarande är i din ägo och fortfarande giltigt. Storbritanniens digitala förnyelse låter dig behålla passet och fortsätta resa på det. Den amerikanska förnyelsen per post lämnar tillbaka det makulerat, och ett makulerat pass är inte giltigt för resa även om du har det i handen. Storbritanniens postförnyelse, Australien och Kanada behåller det tills det nya är utfärdat.
+I regel bara om passet fortfarande är giltigt för din resa och finns hos dig. Förnyelse på nätet i Storbritannien innebär inte att du kan fortsätta resa på det gamla passet under hela handläggningen. Vid förnyelse per post i USA måste du skicka in passet, och ett makulerat pass är inte giltigt för resor. Kraven i Australien och Kanada beror på var och hur du ansöker, så kontrollera ansvarig passmyndighets anvisningar.
 
 ### Vad händer om min flygning är bokad men mitt pass inte hinner komma i tid?
 
-Kontakta din passmyndighet omedelbart och fråga om expedierad eller brådskande handläggning. De flesta länder erbjuder snabbare alternativ mot en avgift. Om de tidsramarna inte fungerar kan du behöva boka om din flygning eller ansöka om ett nödreseddokument om dina omständigheter kvalificerar.
+Kontakta din passmyndighet omedelbart och fråga om expedierad eller brådskande handläggning. De flesta länder erbjuder snabbare alternativ mot en avgift. Om de tidsramarna inte fungerar kan du behöva boka om din flygning eller ansöka om en provisorisk resehandling om du uppfyller villkoren.
 
 ### Behåller jag mitt pass under förnyelseprocessen?
 
-Det beror på. Vid amerikansk förnyelse per post skickar du in ditt gamla pass, och enligt USAGov skickas det tillbaka separat, vanligtvis omkring fyra veckor efter det nya. Storbritanniens digitala förnyelse låter dig behålla det hela tiden. Storbritanniens postala förnyelse, Australien och Kanada kräver alla att du lämnar in ditt pass vid ansökan.
+Det beror på var och hur du ansöker. Vid förnyelse per post i USA måste du skicka in ditt gamla pass. Enligt USAGov kommer det vanligtvis tillbaka separat omkring fyra veckor efter att du har fått det nya. Vid brittisk förnyelse per post och vanlig förnyelse på nätet behöver du i regel skicka passet till HMPO. Australiens ambassad i Tyskland låter sökande behålla passet, medan Kanada i regel kräver originalpasset om det fortfarande är giltigt vid förnyelse med pappersansökan från länder utanför Kanada och USA. Kontrollera din passmyndighets anvisningar.
 
-### Vad är ett nödreseddokument?
+### Vad är en provisorisk resehandling?
 
-Ett nödreseddokument är ett tillfälligt dokument som utfärdas av din regering för genuina nödsituationer, till exempel en medicinsk kris eller ett dödsfall i familjen som kräver omedelbar resa utomlands. Det gäller för en enda resa. Det kräver bevis på en genuin nödsituation och är inget alternativ till standardförnyelse för planerade resor. Handläggningen går snabbt eftersom dessa dokument är avsedda för brådskande situationer, men bekräfta aktuell handläggningstid med din passmyndighet när du ansöker.
+En provisorisk resehandling eller ett provisoriskt pass kan vara ett alternativ om du behöver resa brådskande. Villkoren för att få handlingen, giltighetstiden, vilka resor den får användas för och handläggningstiden beror på den utfärdande myndigheten och din situation. Vissa länder godtar inte handlingen. Kontrollera med din passmyndighet och myndigheterna i destinations- och transitländerna innan du förlitar dig på den.
 
 ## Relaterade artiklar
 

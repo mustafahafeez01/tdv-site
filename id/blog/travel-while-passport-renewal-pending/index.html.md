@@ -1,30 +1,30 @@
 # Bisakah Anda Bepergian Saat Paspor Sedang Diperpanjang?
 
-> Bisakah Anda bepergian saat perpanjangan paspor masih diproses? Aturannya berbeda tiap negara dan tergantung cara pengajuan.
+> Perjalanan saat perpanjangan paspor bergantung pada cara pengajuan, keabsahan dan ketersediaan paspor. Bandingkan AS, Inggris, Australia dan Kanada.
 
 Source: https://traveldocumentvault.com/id/blog/travel-while-passport-renewal-pending/
 
 ---
 
-![Dua paspor berdampingan dengan latar biru laut, terhubung oleh garis emas tipis, satu lama dan satu baru, menandakan perjalanan tetap bisa dilakukan selama proses perpanjangan](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/cover.jpg)
+![Dua paspor berdampingan dengan latar biru laut, terhubung oleh garis emas tipis, satu lama dan satu baru](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/cover.jpg)
 
 ## Poin Penting
 
-- Semua di bawah ini bergantung pada satu hal: apakah paspor Anda masih di tangan Anda, atau sudah diserahkan untuk diperpanjang.
+- Kemungkinan bepergian saat perpanjangan paspor bergantung pada cara dan tempat pengajuan, serta apakah paspor masih berlaku dan ada di tangan Anda.
 - **Amerika Serikat:** Perpanjangan lewat pos berarti Anda mengirimkan paspor saat ini bersama permohonan. Perjalanan domestik tidak masalah. Perjalanan internasional membutuhkan paspor baru yang sudah tiba.
-- **Inggris (perpanjangan pos):** Paspor Anda disimpan oleh HM Passport Office. Anda tidak bisa bepergian internasional sampai paspor itu dikembalikan. **Inggris (perpanjangan digital):** Anda tetap memegang paspor sepanjang proses dan bisa memakainya untuk bepergian selama paspor baru diproses.
-- **Australia dan Kanada:** Keduanya mengharuskan Anda menyerahkan paspor saat mengajukan permohonan. Perjalanan internasional tidak memungkinkan sampai paspor baru diterbitkan.
-- Opsi perpanjangan cepat dan mendesak tersedia di setiap negara yang dibahas di sini, tapi aturan dasarnya tetap sama: Anda tidak bisa bepergian internasional tanpa paspor yang sah di tangan.
+- **Inggris:** Perpanjangan lewat pos maupun layanan daring standar umumnya mengharuskan Anda mengirimkan paspor lama ke HM Passport Office. Mengajukan secara digital tidak berarti Anda bisa terus bepergian dengan paspor itu. Tunggu sampai paspor baru tiba sebelum memesan perjalanan.
+- **Australia dan Kanada:** Persyaratannya bergantung pada tempat dan cara pengajuan. Sebagian layanan perpanjangan Australia di luar negeri mengizinkan penggunaan paspor yang masih berlaku selama pemrosesan. Panduan Kanada untuk perpanjangan dengan formulir kertas dari luar Kanada dan Amerika Serikat umumnya mewajibkan penyerahan paspor asli yang masih berlaku. Konfirmasikan dengan kantor paspor terkait.
+- Jika perjalanan mendesak, tanyakan kepada kantor paspor opsi apa yang bisa Anda gunakan sesuai persyaratan. Perjalanan internasional umumnya memerlukan paspor yang masih berlaku atau dokumen perjalanan lain yang diterima untuk rute Anda.
 
-Bepergian saat perpanjangan sedang berjalan bergantung pada satu hal: apakah paspor lama masih dipegang atau sudah diserahkan kepada pihak berwenang. Perbedaan tunggal itulah yang menentukan apakah perjalanan bisa tetap dilakukan. Ketentuannya juga berbeda antarnegara dan, khusus Inggris, tergantung metode perpanjangan yang dipakai.
+Bepergian saat perpanjangan paspor masih diproses mungkin bisa dilakukan jika paspor masih berlaku dan ada di tangan Anda. Jawabannya bergantung pada metode perpanjangan dan tempat pengajuan. Perpanjangan daring di Inggris tidak memberikan pengecualian yang memungkinkan Anda terus bepergian dengan paspor lama.
 
 ## Perpanjangan yang Sedang Berjalan Tidak Akan Meloloskan Anda di Imigrasi
 
-Anda tidak bisa bepergian internasional tanpa paspor yang sah secara fisik ada di tangan Anda. Permohonan perpanjangan yang masih diproses tidak dihitung, begitu juga surat tanda terima dari kantor paspor Anda. Satu-satunya dokumen yang membawa Anda melewati check-in dan pemeriksaan imigrasi adalah paspor sah yang bisa Anda serahkan ketika diminta.
+Perjalanan internasional umumnya memerlukan paspor yang masih berlaku dan secara fisik ada di tangan Anda. Permohonan perpanjangan atau surat tanda terima tidak bisa menggantikannya. Periksa persyaratan dokumen untuk rute Anda, termasuk apakah dokumen perjalanan darurat dapat diterima jika Anda memenuhi syarat untuk mendapatkannya.
 
-Apakah Anda masih memegang paspor itu sepenuhnya bergantung pada negara dan metode perpanjangan Anda.
+Bisa tidaknya Anda menggunakan paspor saat ini bergantung pada metode perpanjangan, tempat pengajuan, dan apakah paspor tersebut masih berlaku.
 
-![Diagram pohon keputusan: apakah paspor masih ada di tangan Anda? Ya - bepergian dengannya selama masih berlaku (perpanjangan lewat pos AS, perpanjangan digital Inggris). Tidak - diserahkan, Anda menunggu yang baru (perpanjangan pos Inggris, Australia, Kanada). Tidak ada negara yang mengizinkan Anda terbang internasional tanpa paspor di tangan](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-id.jpg) Satu pertanyaan yang menentukan segalanya: apakah paspor lama Anda masih Anda pegang.
+![Diagram keputusan perpanjangan paspor, disembunyikan karena keterangan khusus tiap negara di dalamnya tidak akurat](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-id.jpg) Perjalanan selama perpanjangan bergantung pada cara pengajuan serta apakah paspor Anda masih berlaku dan tersedia untuk digunakan.
 
 ## Amerika Serikat: Perpanjangan Lewat Pos
 
@@ -34,51 +34,53 @@ Artinya perjalanan domestik di dalam Amerika Serikat tidak terpengaruh selama pr
 
 Waktu pemrosesan standar bisa berubah, dan Departemen Luar Negeri AS menerbitkan angka terkininya di travel.state.gov, jadi periksa di sana sebelum merencanakan berdasarkan itu. Jika perjalanan Anda sudah dipesan sebelum paspor baru diperkirakan tiba, pemrosesan cepat tersedia dengan biaya tambahan dan bisa memangkas waktu tunggu secara signifikan. Untuk perjalanan yang benar-benar mendesak, janji temu langsung tersedia di kantor paspor regional, periksa kelayakan terkini di travel.state.gov.
 
-## Inggris: Dua Proses dengan Hasil yang Berlawanan
+## Inggris: Kirimkan paspor lama ke HMPO
 
-Inggris punya dua jalur perpanjangan, dan keduanya berimplikasi sangat berbeda terhadap perjalanan. Metode yang Anda pakai menentukan apa yang mungkin dilakukan.
+Perpanjangan lewat pos maupun layanan daring standar di Inggris umumnya mengharuskan Anda mengirimkan paspor lama ke HM Passport Office. Mengajukan secara daring tidak berarti Anda bisa menyimpannya untuk bepergian sepanjang proses.
 
-**Perpanjangan pos:** Anda mengirim paspor Anda saat ini ke [HM Passport Office](https://www.gov.uk/renew-adult-passport/renew) bersama permohonan Anda. Paspor Anda berada di tangan mereka sepanjang proses, jadi Anda tidak bisa bepergian internasional. HM Passport Office menerbitkan waktu pemrosesan terkininya di situs webnya dan [menyarankan untuk tidak memesan perjalanan](https://www.gov.uk/renew-adult-passport) sampai paspor baru Anda tiba. Layanan premium yang lebih cepat tersedia dengan biaya tambahan jika perjalanan Anda sudah dekat.
+**Perpanjangan lewat pos:** Anda mengirimkan paspor saat ini ke [HM Passport Office](https://www.gov.uk/renew-adult-passport/renew) bersama permohonan. Setelah dikirim, paspor itu tidak bisa Anda gunakan untuk perjalanan internasional. HM Passport Office menerbitkan waktu pemrosesan terkini di situsnya dan [menyarankan untuk tidak memesan perjalanan](https://www.gov.uk/renew-adult-passport) sampai paspor baru tiba. Jika jadwal perjalanan sudah dekat, periksa layanan paspor mendesak mana yang bisa Anda gunakan sesuai persyaratan.
 
-**Perpanjangan digital** saat ini tersedia untuk orang dewasa yang memenuhi syarat dan mengajukan dari dalam Inggris. Anda tetap memegang paspor Anda saat ini sepanjang proses, dan pemerintah menerbitkan paspor baru Anda secara terpisah lalu mengirimkannya kepada Anda. Karena paspor Anda yang ada tidak pernah lepas dari tangan Anda, Anda umumnya bisa tetap memakainya untuk bepergian selama paspor baru diproses. Kelayakan berbeda-beda tergantung kondisi masing-masing, jadi periksa situs web HM Passport Office untuk kriteria lengkap dan waktu terkini sebelum mengajukan.
+**Perpanjangan daring dan Digital Check and Send:** Ikuti petunjuk HM Passport Office untuk mengirimkan paspor lama. Melalui Digital Check and Send, Post Office mengirimkannya ke HMPO untuk Anda. Paspor yang sudah dikirim tidak bisa Anda gunakan untuk bepergian, dan HMPO menyarankan menunggu sampai paspor baru diterima sebelum memesan perjalanan.
 
-## Australia: Serahkan dan Tunggu
+## Australia: Periksa ketentuan di tempat Anda mengajukan
 
-Perpanjangan paspor Australia mengharuskan Anda menyerahkan paspor Anda saat ini pada saat mengajukan permohonan. Sejak saat itu, Anda tidak memiliki dokumen perjalanan yang sah sampai paspor baru diterbitkan dan dikirimkan.
+Ketentuan perpanjangan paspor Australia bergantung pada tempat pengajuan. Menurut Kedutaan Besar Australia di Jerman, pemohon di sana tetap memegang paspor saat ini dan umumnya bisa menggunakannya selama masih berlaku ketika permohonan diproses. Prosedur di luar negeri itu tidak menentukan aturan untuk pengajuan di dalam Australia. Konfirmasikan dengan Australian Passport Office atau perwakilan Australia yang menangani permohonan Anda sebelum merencanakan perjalanan.
 
-Anda tidak bisa bepergian internasional selama periode ini. Penerbangan domestik di dalam Australia juga bisa terpengaruh jika Anda tidak punya identitas berfoto lain yang sah, karena maskapai mengharuskan verifikasi identitas saat check-in.
+Jika Anda mengajukan dari lokasi lain, periksa apakah paspor tetap di tangan Anda dan masih berlaku selama pemrosesan. Jangan menganggap prosedur di Jerman juga berlaku di tempat Anda mengajukan.
 
-Kantor Paspor Australia menerbitkan waktu pemrosesan terkininya dan menyarankan untuk mengajukan jauh sebelum tanggal perjalanan mana pun. Jika perjalanan Anda benar-benar mendesak dan sudah dekat, opsi pemrosesan yang lebih cepat tersedia dengan biaya tambahan, termasuk layanan express dan prioritas. Opsi darurat tersedia untuk perjalanan yang benar-benar sangat mendesak. Periksa waktu terkini dan ajukan di passports.gov.au.
+Periksa waktu pemrosesan terkini dan petunjuk pengajuan dari Australian Passport Office di passports.gov.au. Jika perjalanan mendesak, tanyakan kepada kantor yang menangani permohonan opsi apa yang tersedia untuk Anda dan kapan paspor saat ini akan dibatalkan.
 
-## Kanada: Diserahkan Saat Mengajukan
+## Kanada: Periksa metode perpanjangan Anda
 
-Kanada mengharuskan Anda [menyerahkan paspor Anda yang berlaku saat mengajukan perpanjangan](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html). Paspor lama Anda ditahan sampai paspor baru siap, jadi Anda tidak bisa bepergian internasional selama periode ini, meskipun perjalanan domestik di dalam Kanada tidak memerlukan paspor.
+Persyaratan Kanada bergantung pada tempat dan cara pengajuan. Panduan pemerintah untuk perpanjangan dengan formulir kertas dari luar Kanada dan Amerika Serikat umumnya mewajibkan penyerahan paspor asli jika masih berlaku. Paspor yang sudah diserahkan tidak bisa Anda gunakan untuk bepergian. Untuk pengajuan di dalam Kanada atau metode perpanjangan lainnya, [periksa petunjuk Pemerintah Kanada](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html) dan konfirmasikan kepada kantor paspor apakah Anda harus menyerahkan paspor serta kapan paspor itu tidak lagi berlaku.
 
-Service Canada menerbitkan standar pemrosesan terkininya, yang berbeda-beda tergantung apakah Anda mengajukan langsung, lewat pos, atau di Service Canada Centre, ditambah waktu pengiriman pos di kedua cara tersebut. Untuk perjalanan mendesak, layanan ekspres dan pengambilan mendesak tersedia dengan biaya tambahan. Periksa waktu pemrosesan terkini dan ajukan di canada.ca.
+Periksa waktu pemrosesan terkini di canada.ca sesuai cara pengajuan Anda. Jika perjalanan mendesak, tanyakan kepada kantor paspor layanan apa yang bisa Anda gunakan sesuai persyaratan sebelum mengandalkan perkiraan waktu tertentu.
 
 ## Perbandingan Antarnegara
 
+Kolom perjalanan merujuk pada penggunaan paspor yang sedang diperpanjang. Kolom ini tidak membahas perjalanan dengan paspor lain yang masih berlaku atau dokumen pengganti yang diterima.
+
 | Negara / Metode | Tetap pegang paspor? | Perjalanan internasional selama perpanjangan? |
 |---|---|---|
-| AS (lewat pos) | Ya (dikembalikan, dibatalkan) | Tidak |
+| AS (lewat pos) | Tidak selama pemrosesan (dikembalikan secara terpisah dalam keadaan dibatalkan) | Tidak |
 | Inggris (pos) | Tidak (ditahan HMPO) | Tidak |
-| Inggris (digital) | Ya (tetap dipegang) | Ya (pakai paspor lama) |
-| Australia | Tidak (harus diserahkan) | Tidak |
-| Kanada | Tidak (harus diserahkan) | Tidak |
+| Inggris (digital) | Umumnya tidak (dikirim ke HMPO) | Tidak setelah dikirim ke HMPO |
+| Australia | Bergantung pada tempat pengajuan; konfirmasikan dengan Australian Passport Office | Mungkin bisa untuk pengajuan di luar negeri selama paspor masih berlaku; konfirmasikan dengan perwakilan yang menangani |
+| Kanada | Umumnya tidak untuk paspor yang masih berlaku pada perpanjangan dengan formulir kertas dari luar Kanada dan AS; periksa metode Anda | Paspor yang sudah diserahkan tidak bisa digunakan; periksa aturan perjalanan dan pembatalan paspor sesuai metode Anda |
 
 ## Bisakah Anda bepergian dengan paspor lama saat perpanjangan berlangsung?
 
 Inilah pertanyaan yang sebenarnya ada di benak kebanyakan orang, dan jawabannya lebih sempit daripada yang terlihat. Memegang paspor lama tidak sama dengan boleh terbang menggunakannya.
 
-Dua hal harus benar sekaligus. Paspor harus masih ada pada Anda, dan paspor itu harus masih berlaku. Di sebagian besar negara, proses perpanjangan mematahkan salah satunya, kadang keduanya.
+Dua syarat harus terpenuhi sekaligus: paspor masih ada di tangan Anda dan masih berlaku untuk perjalanan Anda. Konfirmasikan keduanya dengan kantor yang menangani perpanjangan.
 
-Perpanjangan digital Inggris adalah kasus paling jelas ketika jawabannya ya. Paspor tidak pernah lepas dari Anda, tetap berlaku sampai tanggal kedaluwarsanya sendiri, dan umumnya Anda bisa terus bepergian dengannya selama paspor baru dibuat.
+Perpanjangan daring di Inggris tidak memungkinkan Anda terus bepergian dengan paspor lama sepanjang pemrosesan. Anda umumnya harus mengirimkannya ke HMPO, jadi rencanakan perjalanan dengan memperhitungkan kedatangan paspor baru.
 
-Perpanjangan lewat pos di Amerika Serikat adalah kasus yang paling sering disalahpahami. Anda mengirimkan paspor yang ada bersama permohonan, jadi paspor itu tidak ada pada Anda selama proses berlangsung. Paspor kembali dalam keadaan dibatalkan, biasanya dilubangi, bersamaan dengan paspor baru. Paspor yang dibatalkan tidak akan meloloskan Anda di check-in, meskipun itu milik Anda dan ada di tangan Anda.
+Perpanjangan lewat pos di Amerika Serikat adalah kasus yang paling sering disalahpahami. Anda mengirimkan paspor saat ini bersama permohonan, sehingga paspor itu tidak ada di tangan Anda selama pemrosesan. Menurut USAGov, paspor lama dikirim kembali secara terpisah setelah paspor baru dikirim, dan umumnya tiba sekitar empat minggu setelah Anda menerima paspor baru. Paspor yang sudah dibatalkan tidak bisa digunakan untuk check-in, meskipun itu milik Anda dan ada di tangan Anda.
 
-Perpanjangan lewat pos di Inggris, Australia dan Kanada sama-sama mengambil paspor Anda saat permohonan diajukan. Tidak ada yang tersisa untuk dipakai bepergian sampai penggantinya datang.
+Untuk Australia dan Kanada, periksa petunjuk sesuai cara dan tempat pengajuan Anda. Perwakilan Australia di Jerman mengizinkan penggunaan paspor saat ini selama masih berlaku. Panduan Kanada untuk perpanjangan dengan formulir kertas dari luar Kanada dan Amerika Serikat umumnya mewajibkan penyerahan paspor yang masih berlaku.
 
-Ujian praktisnya sederhana. Jika paspor Anda dibatalkan, kedaluwarsa, atau berada di kantor pemerintah, itu bukan dokumen perjalanan. Penerbangan domestik yang menerima identitas berfoto lain adalah satu-satunya pengecualian, dan tidak ada di sini yang memengaruhinya.
+Paspor yang sudah dibatalkan atau kedaluwarsa umumnya tidak bisa digunakan untuk perjalanan internasional, dan Anda tidak bisa menggunakan paspor yang berada di kantor pemerintah. Untuk penerbangan domestik, periksa identitas lain yang diterima maskapai dan otoritas transportasi terkait.
 
 ## Jika Perjalanan Anda Lebih Cepat dari Jadwal Perpanjangan
 
@@ -110,11 +112,11 @@ Dalam kebanyakan kasus, bisa. Perjalanan domestik di dalam negara Anda sendiri t
 
 ### Bisakah saya bepergian internasional selama paspor saya sedang diperpanjang?
 
-Umumnya tidak bisa. Pengecualiannya adalah perpanjangan digital Inggris: karena Anda tetap memegang paspor lama sepanjang proses, Anda bisa terus memakainya untuk bepergian internasional sambil menunggu paspor baru. Untuk semua kasus lain yang dibahas di sini, perjalanan internasional mengharuskan paspor baru Anda sudah di tangan.
+Bergantung pada metode perpanjangan, tempat pengajuan, serta apakah paspor masih berlaku dan ada di tangan Anda. Perpanjangan lewat pos di AS mengharuskan Anda mengirimkan paspor, begitu pula perpanjangan lewat pos dan layanan daring standar di Inggris pada umumnya. Sebagian layanan perpanjangan Australia di luar negeri mengizinkan penggunaan paspor yang masih berlaku selama pemrosesan. Konfirmasikan dengan kantor paspor yang menangani permohonan Anda sebelum merencanakan perjalanan.
 
 ### Bisakah saya bepergian dengan paspor lama saat perpanjangan berlangsung?
 
-Hanya jika paspor masih ada pada Anda dan masih berlaku. Perpanjangan digital Inggris membuat Anda tetap memegang paspor dan bisa terus bepergian dengannya. Perpanjangan lewat pos di Amerika Serikat mengembalikannya dalam keadaan dibatalkan, dan paspor yang dibatalkan tidak berlaku untuk bepergian meskipun ada di tangan Anda. Perpanjangan lewat pos di Inggris, Australia dan Kanada menahannya sampai paspor baru diterbitkan.
+Umumnya hanya jika paspor masih berlaku untuk perjalanan Anda dan ada di tangan Anda. Perpanjangan daring di Inggris tidak memungkinkan Anda terus bepergian dengan paspor lama sepanjang pemrosesan. Perpanjangan lewat pos di AS mengharuskan Anda mengirimkannya, dan paspor yang sudah dibatalkan tidak berlaku untuk bepergian. Persyaratan Australia dan Kanada bergantung pada tempat dan cara pengajuan, jadi periksa petunjuk kantor paspor terkait.
 
 ### Apa yang terjadi jika penerbangan saya sudah dipesan tapi paspor saya tidak akan tiba tepat waktu?
 
@@ -122,11 +124,11 @@ Segera hubungi layanan paspor Anda dan tanyakan soal pemrosesan cepat atau mende
 
 ### Apakah saya tetap memegang paspor saya selama proses perpanjangan?
 
-Tergantung. Perpanjangan lewat pos di AS berarti Anda mengirimkan paspor lama, dan menurut USAGov paspor itu dikirim kembali secara terpisah, biasanya sekitar empat minggu setelah paspor baru. Perpanjangan digital Inggris memungkinkan Anda tetap memegangnya sepanjang proses. Perpanjangan pos Inggris, Australia, dan Kanada semuanya mengharuskan Anda menyerahkan paspor saat mengajukan permohonan.
+Bergantung pada tempat dan cara pengajuan. Perpanjangan lewat pos di AS mengharuskan Anda mengirimkan paspor lama; menurut USAGov, paspor itu umumnya tiba kembali secara terpisah sekitar empat minggu setelah Anda menerima paspor baru. Perpanjangan lewat pos dan layanan daring standar di Inggris umumnya mengharuskan Anda mengirimkannya ke HMPO. Perwakilan Australia di Jerman mengizinkan pemohon tetap memegang paspor, sedangkan perpanjangan Kanada dengan formulir kertas dari luar Kanada dan Amerika Serikat umumnya mewajibkan penyerahan paspor asli yang masih berlaku. Periksa petunjuk kantor paspor Anda.
 
 ### Apa itu dokumen perjalanan darurat?
 
-Dokumen perjalanan darurat adalah dokumen sementara yang diterbitkan pemerintah Anda untuk keadaan darurat yang sungguhan, seperti krisis medis atau kematian anggota keluarga yang mengharuskan perjalanan segera ke luar negeri. Dokumen ini berlaku untuk satu kali perjalanan saja. Diperlukan bukti keadaan darurat yang sungguhan, dan ini bukan alternatif untuk perpanjangan standar bagi perjalanan yang sudah direncanakan. Pemrosesannya cepat karena dokumen ini dirancang untuk situasi mendesak, tapi konfirmasikan waktu pemrosesan terkini dengan otoritas paspor Anda saat mengajukan.
+Dokumen perjalanan darurat atau paspor darurat mungkin tersedia jika Anda perlu segera bepergian. Syarat penerbitan, masa berlaku, perjalanan yang diizinkan, dan waktu pemrosesan bergantung pada otoritas penerbit serta situasi Anda. Sebagian negara mungkin tidak menerimanya. Konfirmasikan dengan otoritas paspor Anda serta pihak berwenang di negara tujuan dan transit sebelum mengandalkan dokumen tersebut.
 
 ## Artikel Terkait
 
