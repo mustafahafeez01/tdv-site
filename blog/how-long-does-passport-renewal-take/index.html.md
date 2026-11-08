@@ -82,6 +82,12 @@ You've got travel booked soon and your passport is about to expire. Don't panic,
 
 Pull out your own passport today and check how many months it's actually got left against your next trip. If that gap looks tight, treat it as your sign to start the renewal now rather than closer to departure.
 
+Keep your own passport and visa dates on your phone, with reminders before they expire.
+
+![Download on the App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Get it on Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
+
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
 Official sources

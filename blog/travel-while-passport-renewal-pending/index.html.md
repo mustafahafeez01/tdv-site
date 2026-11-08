@@ -92,6 +92,12 @@ The straightforward answer is to renew your passport well before you need it for
 
 The reason people end up in this situation is not ignorance of the rules. Passports expire quietly with no automatic reminder, so people tend to remember only that their passport is valid, not when it expires. Setting a reminder 12 months before your expiry date gives you time to renew at your own pace, on standard processing, without pressure.
 
+Keep your own passport and visa dates on your phone, with reminders before they expire.
+
+![Download on the App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Get it on Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
+
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
 Official sources

@@ -123,6 +123,12 @@ If your authority allows a home photo, ensure you have the following in place:
 
 If your authority allows home photos and you've got decent window light, we'd try taking yours at home. If you're not confident in your setup, or you're racing a deadline, we'd ask a photo provider about turnaround and whether they follow your authority's photo rules.
 
+Keep your own passport and visa dates on your phone, with reminders before they expire.
+
+![Download on the App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Get it on Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
+
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
 Official sources

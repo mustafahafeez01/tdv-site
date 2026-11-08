@@ -85,6 +85,12 @@ A clear digital photo of your passport helps here. Keep the data page, the front
 
 Store your digital copies somewhere encrypted and offline, not Google Photos or iCloud shared with others. Travel Document Vault stores passport photos encrypted on your device for offline viewing. You can share or export copies, or use encrypted cloud backup with Pro. Scan your passport today, before you need it.
 
+Keep your own passport and visa dates on your phone, with reminders before they expire.
+
+![Download on the App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Get it on Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
+
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
 Official sources

@@ -107,6 +107,12 @@ When your embassy needs to issue an emergency travel document, a secure backup g
 
 Pick the one document from this list you haven't backed up yet, whether that's your consent letter, your insurance policy number, or your passport's details page, and save an encrypted, offline copy on your phone before your next trip.
 
+Keep your own passport and visa dates on your phone, with reminders before they expire.
+
+![Download on the App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Get it on Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
+
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
 Official sources

@@ -117,6 +117,12 @@ However, visa-free travel has limits. It typically applies only to tourism or sh
 
 Visa-free access also depends entirely on your nationality. Two people travelling together might have completely different requirements based on their passports, with one crossing visa-free while the other has to apply, so it's your own nationality that matters here, not a travel companion's experience.
 
+Keep your own passport and visa dates on your phone, with reminders before they expire.
+
+![Download on the App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Get it on Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
+
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
 Official sources

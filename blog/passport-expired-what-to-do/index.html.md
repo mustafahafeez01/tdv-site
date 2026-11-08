@@ -108,6 +108,12 @@ The root cause is usually the same: no reminder in place. Set an expiry reminder
 
 Do this for every passport in your household separately. Children's passports expire faster (often 5 years versus 10 for adults) and are the ones most often missed. Pull every passport out today and check the expiry date, not just the photo page.
 
+Keep your own passport and visa dates on your phone, with reminders before they expire.
+
+![Download on the App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Get it on Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
+
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
 Official sources

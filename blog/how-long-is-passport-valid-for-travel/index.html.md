@@ -78,6 +78,12 @@ The most common mistake is setting a reminder on the expiry date itself. By that
 
 If you also read our guide on [how long passport renewal takes](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/), you will see exactly how tight the timelines can get during busy periods, which is another reason to start early. If your own passport already has less than twelve months of validity, renew it before you book anything else.
 
+Keep your own passport and visa dates on your phone, with reminders before they expire.
+
+![Download on the App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Get it on Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
+
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
 Official sources

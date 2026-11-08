@@ -94,6 +94,12 @@ Once the passport is issued and delivered to you, spend five minutes checking it
 
 If anything is wrong, contact your passport office as soon as you spot it. Whether a correction is free depends on who made the error, and it gets harder to sort out the longer you leave it. Once everything checks out, put the passport straight into your documents folder with a note of the expiry date, so renewal doesn't catch you by surprise.
 
+Keep your own passport and visa dates on your phone, with reminders before they expire.
+
+![Download on the App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Get it on Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
+
 Official sources
 
 - [UK Government: Get a passport photo, Digital photos](https://www.gov.uk/photos-for-passports)

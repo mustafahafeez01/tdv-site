@@ -82,6 +82,12 @@ If you lose a passport in Thailand that contains a valid multi-entry visa for an
 
 Once you have your emergency travel document, confirm exit requirements with local immigration if needed, then rebook or confirm your journey home. Once you're back, apply for a full replacement passport through your official passport authority, and scan it, together with the rest of your travel documents, into an encrypted backup the same day it arrives.
 
+Keep your own passport and visa dates on your phone, with reminders before they expire.
+
+![Download on the App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Get it on Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
+
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
 Official sources

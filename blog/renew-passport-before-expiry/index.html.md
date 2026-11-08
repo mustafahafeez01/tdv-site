@@ -69,6 +69,12 @@ The other half is choosing when inside that window. Look for a few weeks with no
 
 If a family trip is on the horizon, line up every passport in the household at the same time. In the UK, HM Passport Office issues child passports for five years rather than ten, so the one that needs renewing first often isn't the one you'd expect. If anyone is heading somewhere that asks for extra validity on arrival, check our guide to [the 6-month passport rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/) for how that shifts your date.
 
+Keep your own passport and visa dates on your phone, with reminders before they expire.
+
+![Download on the App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Get it on Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
+
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
 Official sources

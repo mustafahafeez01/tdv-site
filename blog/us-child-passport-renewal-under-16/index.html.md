@@ -69,6 +69,12 @@ With more than one child, the dates drift apart. Passports issued a couple of ye
 
 What makes the difference is starting early. We'd begin about nine months before a child's passport expires: long enough to find an appointment both parents can make, get any notarised statement signed, and still have time if something needs redoing. Our guide on [when to renew a passport before it expires](https://traveldocumentvault.com/blog/renew-passport-before-expiry/) walks through the timing in more detail.
 
+Keep your own passport and visa dates on your phone, with reminders before they expire.
+
+![Download on the App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Get it on Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
+
 Official sources
 
 - [US eCFR: 22 CFR Part 51 (passports)](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-F/part-51)

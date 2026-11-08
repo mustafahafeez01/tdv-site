@@ -80,6 +80,12 @@ With all that complexity in mind, a good visa expiry tracker app needs to handle
 
 Check your passport's expiry against your visa dates today: even a valid visa will not get you through if your passport expires too soon after your planned departure, which is exactly the mismatch our guide to the [6-month passport rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/) walks through.
 
+Keep your own passport and visa dates on your phone, with reminders before they expire.
+
+![Download on the App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Get it on Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
+
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
 Official sources

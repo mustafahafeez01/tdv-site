@@ -100,6 +100,12 @@ Do not assume you can travel "because you're coming back before it expires": you
 
 The simplest way to avoid all of this: pull out your passport today and check the date against your next trip, not the other way round. If it's cutting things close, start the renewal now rather than waiting.
 
+Keep your own passport and visa dates on your phone, with reminders before they expire.
+
+![Download on the App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Get it on Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
+
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
 Official sources

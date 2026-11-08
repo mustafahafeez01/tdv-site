@@ -64,6 +64,12 @@ Applying early still makes sense for some couples. If the trip is months away, n
 
 If your surname will differ from your children's after the wedding, that's common at borders and usually easy to explain. Our guide to [travelling with a child without both parents](https://traveldocumentvault.com/blog/travelling-child-without-both-parents/) covers what to carry.
 
+Keep your own passport and visa dates on your phone, with reminders before they expire.
+
+![Download on the App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Get it on Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
+
 Official sources
 
 - [GOV.UK: Change your name on your passport after marriage or civil partnership](https://www.gov.uk/changing-passport-information/name-marriage-and-civil-partnership)

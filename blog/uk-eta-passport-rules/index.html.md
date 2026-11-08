@@ -87,6 +87,12 @@ The EU plans its own digital travel permission, [ETIAS](https://traveldocumentva
 
 If you already have a trip booked, do this today: check your passport's expiry date against your travel dates, and confirm your current ETA is tied to the passport you'll actually be travelling on. If either one falls short, start the renewal or the reapplication now, not the week before you fly.
 
+Keep your own passport and visa dates on your phone, with reminders before they expire.
+
+![Download on the App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Get it on Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
+
 Official sources
 
 - [UK Government: Get an electronic travel authorisation (ETA) to visit the UK](https://www.gov.uk/eta)

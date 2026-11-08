@@ -112,6 +112,12 @@ Travel Document Vault doesn't read your EES record. With Pro, it counts saved tr
 
 The digital border is thorough, automatic and unsentimental, but staying inside the 90/180 rule was never about the border - it's about knowing your own dates before you book. Keep your trip history somewhere reliable, run the numbers before committing to travel, and treat the counting as part of planning rather than something to reconstruct at the gate. EES will do the enforcing. The planning is still yours, and it's the cheaper half to get right.
 
+Keep your own passport and visa dates on your phone, with reminders before they expire.
+
+![Download on the App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Get it on Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
+
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
 Official sources

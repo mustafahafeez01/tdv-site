@@ -106,6 +106,12 @@ One last note on expectations. Backup is a safety layer, and it doesn't guarante
 
 None of this is dramatic, and that's rather the idea. The families who cope well with a stolen phone abroad are almost never the ones who reacted brilliantly. They're the ones who spent twenty unremarkable minutes at the kitchen table a fortnight earlier. If you haven't done that yet, set up your backup today and write down where the recovery code lives.
 
+Keep your own passport and visa dates on your phone, with reminders before they expire.
+
+![Download on the App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Get it on Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
+
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
 Official sources

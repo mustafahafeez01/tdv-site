@@ -84,6 +84,12 @@ Keep all of these in one accessible location. The panic of rummaging through you
 
 If you haven't set this up yet, start today: scan the photo page of every passport in the house, even the ones with years left on them, and put the copies in one encrypted place before you book the next trip.
 
+Keep your own passport and visa dates on your phone, with reminders before they expire.
+
+![Download on the App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Get it on Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
+
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
 Official sources

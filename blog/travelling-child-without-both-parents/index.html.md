@@ -80,6 +80,12 @@ Every situation above needs its own small bundle of paper, and it is easy to los
 
 Our broader [travel document checklist](https://traveldocumentvault.com/blog/travel-document-checklist/) covers what to pack beyond this specific situation, and our guide to [organising family travel documents](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/) walks through keeping every family member's paperwork sorted between trips, not only the one you are packing for now. Whichever bundle applies to your family, pull it together today: match each document in the table above with your child's birth certificate, and put the full set in one place before your next trip gets booked.
 
+Keep your own passport and visa dates on your phone, with reminders before they expire.
+
+![Download on the App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Get it on Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
+
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
 Official sources

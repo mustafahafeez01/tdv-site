@@ -118,6 +118,12 @@ Many people use a hybrid approach: keeping a copy in iCloud or Google Photos for
 
 Whatever method you choose, remember that a digital copy of your passport is as sensitive as the physical document itself - protect it with the same care and attention.
 
+Keep your own passport and visa dates on your phone, with reminders before they expire.
+
+![Download on the App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Get it on Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
+
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
 ## Frequently Asked Questions
