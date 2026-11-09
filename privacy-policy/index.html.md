@@ -6,7 +6,7 @@ Source: https://traveldocumentvault.com/privacy-policy/
 
 ---
 
-Last updated: 27 July 2026
+Last updated: 9 November 2026
 
 Travel Document Vault (provided by Mustafa Hafeez) ("we" or "us" or "our") respects the privacy of our users ("user" or "you"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our mobile application, Travel Document Vault (the "Application"). Please read this Privacy Policy carefully. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS THE APPLICATION.
 
@@ -90,6 +90,8 @@ Your data persists on your device for as long as you choose to keep the Applicat
 - We cannot access, recover, or delete your data remotely
 - You have full control over your data at all times
 
+**Website analytics** (only if you accepted the cookie banner on traveldocumentvault.com): Google Analytics keeps event-level data for 2 months and user-level data, tied to the random identifier in its cookie, for 14 months. Each new visit restarts that 14-month period. Google deletes data that reaches the end of its period in a monthly clean-up. Summary reports that contain no identifiers, such as total page views, are not affected by these settings. If you decline the banner, or withdraw later through Cookie settings, no new analytics data is collected.
+
 ## Data Sharing
 
 Data export or sharing is strictly user-initiated. Information leaves the Application only when you explicitly interact with the system share sheet, or through optional features you have enabled: Cloud Backup (which syncs your encrypted vault to your own cloud account) and opt-in crash reporting. Beyond those, the Application performs no background transmission of data.
@@ -98,7 +100,7 @@ Data export or sharing is strictly user-initiated. Information leaves the Applic
 
 The Application (App) minimizes reliance on external services to preserve privacy. We do not use advertising networks or third-party analytics within the **Application (App)** to track user behavior.
 
-**Website Analytics:** When you visit our public website (traveldocumentvault.com), we use anonymous analytics (Google Analytics) to understand site traffic and improve our marketing. **This website analytics data is ONLY collected if you consent via our cookie banner.** This data is aggregate only and is never linked to your personal data or your activity within the App. Website analytics events include which store button you tapped and the page you were on.
+**Website Analytics:** When you visit our public website (traveldocumentvault.com), we use Google Analytics to understand site traffic and improve our marketing. **This website analytics data is ONLY collected if you consent via our cookie banner.** We read it as summary reports. Google Analytics recognises a returning browser by a random identifier stored in its cookie, not by your name or email, and this data is never linked to your personal data or your activity within the App. Website analytics events include which store button you tapped and the page you were on.
 
 ### Software Update Check (first-party)
 
@@ -187,7 +189,7 @@ Because the Application stores all document data exclusively on your device and 
 
 The Application sets no cookies. It has no browser, no web view for your documents, and no advertising code.
 
-**On this website:** nothing is loaded until you answer the banner. If you decline, no analytics script runs and no analytics cookies are created. If you accept, Google Analytics loads and sets its own cookies so we can see which pages people read. We enable IP anonymisation, and we record the page language so we can tell which translations are worth maintaining.
+**On this website:** nothing is loaded until you answer the banner. If you decline, no analytics script runs and no analytics cookies are created. If you accept, Google Analytics loads and sets its own cookies so we can see which pages people read. Google Analytics 4 does not log or store IP addresses, and we record the page language so we can tell which translations are worth maintaining.
 
 **Remembering your choice:** your answer is stored in your browser's local storage under `cookie_consent_status`, so we stop asking. That is not a cookie and is never sent to us or to anyone else. To change your mind at any time, use the Cookie settings link in the footer of any page. It clears your stored choice and brings the banner back, so withdrawing is exactly as easy as giving.
 
