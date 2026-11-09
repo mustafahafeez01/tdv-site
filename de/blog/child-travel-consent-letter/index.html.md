@@ -13,7 +13,7 @@ Source: https://traveldocumentvault.com/de/blog/child-travel-consent-letter/
 - Die Anforderungen unterscheiden sich erheblich je nach Land. **Ein Brief, der für ein Ziel funktioniert, kann anderswo nicht akzeptiert werden.**
 - Kanada **empfiehlt nachdrücklich, die Unterschrift von einem Notar bezeugen zu lassen**.
 - Ein solcher Brief enthält üblicherweise den vollständigen Namen des Kindes, Geburtsdatum, Passnummer, genaue Reisedaten, Ziele und Kontaktdaten des abwesenden Elternteils enthalten.
-- Häufige Ablehnungen resultieren aus fehlenden Informationen, mangelnder notarieller Beglaubigung, veralteten Unterschriften oder nicht überprüfbaren Kontaktnummern.
+- Häufige Ablehnungen resultieren aus fehlenden Informationen, mangelnder notarieller Beglaubigung oder veralteten Unterschriften.
 - Führen Sie eine gedruckte Kopie als Hauptdokument mit und bewahren Sie eine verschlüsselte digitale Sicherung für Notfälle auf.
 
 Eine Einverständniserklärung erfüllt am Abfertigungsschalter genau eine Aufgabe: Sie belegt, dass die mitreisende erwachsene Person das Einverständnis des abwesenden Elternteils hat. Die meisten werden kommentarlos akzeptiert.
@@ -73,7 +73,7 @@ Notargebühren variieren je nach Land und Notar sowie danach, wie schnell Sie ei
 
 Selbst gut vorbereitete Familien machen Fehler, die zu Ablehnungen an der Grenze führen. Die häufigsten:
 
-1. **Falsche oder nicht überprüfbare Kontaktnummer.** Wenn die Nummer nicht verbunden wird oder die Person, die antwortet, die Zustimmung nicht bestätigen kann, verliert der Brief an Glaubwürdigkeit.
+1. **Eine Kontaktnummer, unter der niemand antwortet.** Ein Grenzbeamter oder eine Fluggesellschaft möchte möglicherweise den abwesenden Elternteil erreichen, geben Sie daher eine Nummer an, unter der jemand antwortet.
 2. **Vage Reisedaten.** Formulierungen wie "Sommer 2026" sind zu breit. Verwenden Sie genaue Abreise- und Rückflugdaten.
 3. **Nicht vom abwesenden Elternteil unterzeichnet.** Ein Brief, der nur vom reisenden Elternteil unterzeichnet ist, ist nutzlos. Beide Elternteile (oder rechtliche Vormunde) müssen unterzeichnen, wenn beide die rechtliche Sorge haben.
 4. **Fehlende notarielle Beglaubigung, wenn erforderlich.** Wird ein Schreiben mit bezeugter Unterschrift verlangt, kann eines ohne diese Bestätigung abgelehnt werden.
@@ -116,7 +116,7 @@ Gehen Sie in den Tagen vor der Abreise diese Checkliste durch:
 - Bestätigen Sie, dass alle Namen (einschließlich Mittelnamen), Reisepass-Nummern und Daten in den Dokumenten übereinstimmen.
 - Überprüfen Sie, dass alle erforderlichen Unterschriften vorhanden, datiert und mit dem benannten Elternteil übereinstimmen.
 - Wenn notariell beglaubigt, überprüfen Sie, dass das Siegel, der Stempel, die Unterschrift und das Datum klar sind.
-- Bestätigen Sie, dass die Telefonnummer des abwesenden Elternteils korrekt ist und er für Überprüfungsanrufe verfügbar ist.
+- Bestätigen Sie, dass die Telefonnummer des abwesenden Elternteils korrekt ist und er während Ihrer Reise erreichbar sein wird.
 - Tragen Sie eine gedruckte Kopie in einer Schutzhülle in Ihrem Reisedokumentenordner mit.
 - Speichern Sie eine verschlüsselte gescannte Kopie als digitale Sicherung.
 - Wenn der Reisepass Ihres Kindes vor der Reise erneuert wird, erhalten Sie einen neuen Brief mit der neuen Reisepass-Nummer.

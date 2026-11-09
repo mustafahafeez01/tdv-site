@@ -150,7 +150,7 @@ Vous n'êtes pas forcément tenu d'en avoir une, mais elle est vivement recomman
 
 ### Combien de temps à l'avance dois-je vérifier les documents de voyage?
 
-Vérifiez avant de réserver les vols — et au minimum trois mois avant de voyager. Les renouvellements de passeport prennent plusieurs semaines — actuellement 4 à 6 semaines en routine aux États-Unis et généralement autour de 3 semaines au Royaume-Uni — donc attendre jusqu'à ce que vous soyez proche de votre date de départ est un pari que vous ne voulez pas faire. Vérifiez auprès de votre autorité officielle responsable des passeports pour les délais actuels. Vérifier au moment de la réservation est l'habitude la plus sûre à adopter.
+Vérifiez avant de réserver les vols — et au minimum trois mois avant de voyager. Les renouvellements de passeport prennent du temps, et ce délai varie. Les autorités comme le HM Passport Office publient leur délai actuel — donc attendre jusqu'à ce que vous soyez proche de votre date de départ est un pari que vous ne voulez pas faire. Vérifiez auprès de votre autorité officielle responsable des passeports pour les délais actuels. Vérifier au moment de la réservation est l'habitude la plus sûre à adopter.
 
 ### Ai-je besoin d'une lettre de consentement si je voyage seul avec mon enfant?
 

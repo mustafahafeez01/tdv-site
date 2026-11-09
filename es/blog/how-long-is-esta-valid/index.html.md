@@ -33,9 +33,9 @@ La única excepción es Brunéi, para el que la CBP ha reducido el periodo de va
 
 ## Solo tiene que ser válida el día en que aterrizas
 
-La CBP dice que una ESTA tiene que ser válida al llegar a Estados Unidos, no durante toda tu estancia. Si caduca mientras estás allí, eso no afecta a tu salida. El siguiente viaje es otra cuestión, y necesitarás una nueva aprobación antes de volver a volar.
+La CBP dice que una ESTA tiene que ser válida al llegar a Estados Unidos, no durante toda tu estancia. Si caduca mientras estás allí, no necesitas una nueva antes de salir. El siguiente viaje es otra cuestión, y necesitarás una nueva aprobación antes de volver a volar.
 
-Así es como funciona en la práctica. Supongamos que tu ESTA caduca el día 10 de un mes y llegas el día 3 para quince días. Es válida cuando llegas, y la CBP dice que el que caduque a mitad de las vacaciones no afecta a tu salida. Si reservas el siguiente viaje después del día 10, en cambio, necesitarás una nueva antes.
+Así es como funciona en la práctica. Supongamos que tu ESTA caduca el día 10 de un mes y llegas el día 3 para quince días. Es válida cuando llegas, y la CBP dice que no necesitas una nueva solo porque caduque a mitad de las vacaciones. Si reservas el siguiente viaje después del día 10, en cambio, necesitarás una nueva antes.
 
 ## No puedes prorrogar una ESTA, pero puedes volver a solicitarla con antelación
 
@@ -56,7 +56,7 @@ Una vez aprobada la solicitud, la CBP solo te permite actualizar dos cosas: tu d
 
 ## Cada viajero necesita la suya, bebés incluidos
 
-Los niños de cualquier edad necesitan su propia aprobación de ESTA, dice la CBP, incluidos los bebés que no tienen billete propio. Cada niño también necesita su propio pasaporte sin caducar, porque un niño que solo figura en el pasaporte de un progenitor no cumple los requisitos.
+Los niños de cualquier edad necesitan su propia aprobación de ESTA, dice la CBP, incluidos los bebés que no tienen billete propio. Cada niño también necesita su propio pasaporte electrónico, porque la CBP dice que debes tener un pasaporte electrónico para utilizar el Programa de Exención de Visado.
 
 Nadie espera que un niño pequeño rellene un formulario. Un progenitor, o cualquier otra persona, puede solicitarla en nombre de un viajero, y la web de la ESTA tiene una comprobación de estado de grupo para las familias que la solicitaron juntas. Aun así, merece la pena comprobar cada fecha de caducidad por separado, ya que cada ESTA está vinculada a un pasaporte distinto y cada pasaporte tiene su propia fecha de caducidad.
 
@@ -115,7 +115,7 @@ Sí. La CBP solo concede una ESTA hasta la fecha de caducidad del pasaporte con 
 
 ### ¿Mi ESTA tiene que ser válida durante toda mi estancia?
 
-No. La CBP dice que solo tiene que ser válida cuando llegas a Estados Unidos. Si caduca durante tu estancia, eso no afecta a tu salida.
+No. La CBP dice que solo tiene que ser válida cuando llegas a Estados Unidos. Si caduca durante tu estancia, no necesitas una nueva antes de salir.
 
 ### ¿Los niños necesitan su propia ESTA?
 

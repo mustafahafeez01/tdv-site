@@ -13,7 +13,7 @@ Source: https://traveldocumentvault.com/it/blog/child-travel-consent-letter/
 - I requisiti cambiano molto da un paese all'altro. **Una lettera che va bene per una destinazione potrebbe non essere accettata altrove.**
 - Il Canada **raccomanda caldamente che un notaio assista alla firma**.
 - La lettera di solito include il nome completo del minore, la data di nascita, il numero di passaporto, le date esatte di viaggio, le destinazioni e i dettagli di contatto del genitore assente.
-- I rifiuti più comuni dipendono da dati mancanti, autenticazione assente, firme troppo vecchie o numeri di telefono che non si riescono a verificare.
+- I rifiuti più comuni dipendono da dati mancanti, autenticazione assente o firme troppo vecchie.
 - Porta con te una copia stampata e tieni un backup digitale cifrato per le emergenze.
 
 Al banco della compagnia aerea, una lettera di consenso serve a una cosa sola: dimostrare che l'adulto che viaggia con un minore ha l'accordo del genitore che non c'è. La maggior parte viene accettata senza problemi.
@@ -73,7 +73,7 @@ Le tariffe notarili cambiano secondo il paese, il notaio e la rapidità con cui 
 
 Anche le famiglie più attente sbagliano, e a volte vengono respinte alla frontiera. Gli errori più frequenti:
 
-1. **Numero di contatto errato o non verificabile.** Se il telefono non si collega, o chi risponde non può confermare il consenso, la lettera perde credibilità.
+1. **Un numero di contatto a cui nessuno risponde.** Un agente di frontiera o una compagnia aerea potrebbe voler contattare il genitore assente, quindi indica un numero a cui qualcuno risponderà.
 2. **Date di viaggio vaghe.** Frasi come "estate 2026" sono troppo ampie. Usa date di partenza e ritorno esatte.
 3. **Non firmato dal genitore assente.** Una lettera firmata solo dal genitore che viaggia è inutile. Se entrambi hanno la custodia legale, devono firmare entrambi i genitori (o tutori legali).
 4. **Autenticazione mancante quando serve.** Se è richiesta una firma autenticata, una lettera senza autenticazione potrebbe essere rifiutata.
@@ -116,7 +116,7 @@ Nei giorni prima di partire, ripassa questa lista:
 - Controlla che tutti i nomi (compresi i secondi nomi), i numeri di passaporto e le date corrispondano ai documenti.
 - Controlla che ci siano tutte le firme richieste, con la data, e che siano quelle del genitore indicato.
 - Se la lettera è autenticata, controlla che sigillo, timbro, firma e data siano leggibili.
-- Controlla che il numero del genitore assente sia giusto e che quel genitore sia raggiungibile per le chiamate di verifica.
+- Controlla che il numero del genitore assente sia giusto e che quel genitore sia raggiungibile durante il viaggio.
 - Metti una copia stampata in una busta protettiva, nella cartella dei documenti di viaggio.
 - Tieni una copia digitale cifrata come backup.
 - Se il passaporto di tuo figlio viene rinnovato prima del viaggio, fai una lettera nuova con il nuovo numero di passaporto.

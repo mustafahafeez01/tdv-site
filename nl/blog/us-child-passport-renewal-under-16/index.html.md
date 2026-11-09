@@ -57,7 +57,7 @@ De regels staan toe dat een paspoort wordt afgegeven wanneer maar één ouder de
 
 Een paspoort dat werd afgegeven voordat het kind 16 werd, kan nog steeds niet worden verlengd op 16 of 17. De tiener vraagt persoonlijk een nieuw paspoort aan, en het verschil is nu dat die de eigen aanvraag kan tekenen.
 
-Een ouder speelt nog steeds een rol. Het State Department vraagt een ouder over het algemeen om een verklaring te ondertekenen dat die op de hoogte is dat de tiener aanvraagt, of om bij de afspraak aanwezig te zijn, dus bekijk de tienerpagina van het State Department voor de actuele eis voordat je gaat. De regels staan de paspoortambtenaar ook toe op elk moment notarieel verklaarde toestemming van een ouder te vragen, dus loont het om een ouder die dag bereikbaar te houden.
+Een ouder speelt nog steeds een rol. Op de tienerpagina van het State Department staat wat er momenteel van ouders wordt gevraagd, dus bekijk die voordat je gaat. De regels staan de paspoortambtenaar ook toe op elk moment notarieel verklaarde toestemming van een ouder te vragen, dus loont het om een ouder die dag bereikbaar te houden.
 
 Het paspoort afgegeven op 16 of 17 is tien jaar geldig. Loopt het af, dan kan de jongere, nu volwassen, het meestal per post of online verlengen, mits aan de gewone voorwaarden voor volwassenen wordt voldaan. De persoonlijke nieuwe aanvragen stoppen daar.
 
@@ -89,7 +89,7 @@ Federale paspoortregels vereisen dat beide ouders of voogden de aanvraag onderte
 
 ### Wat verandert er als een kind 16 wordt?
 
-Een paspoort dat vóór de 16e verjaardag is afgegeven, kan nog steeds niet worden verlengd wanneer het kind 16 of 17 wordt. De jongere vraagt persoonlijk een nieuw paspoort aan en kan de eigen aanvraag ondertekenen. Van een ouder kan worden gevraagd een ondertekende verklaring te geven dat die op de hoogte is van de aanvraag, of bij de afspraak aanwezig te zijn. De ambtenaar kan nog steeds een notarieel verklaarde toestemming van een ouder vereisen. Een paspoort dat op 16 of 17 is afgegeven, is tien jaar geldig en kan na afloop meestal worden verlengd zoals dat van een volwassene.
+Een paspoort dat vóór de 16e verjaardag is afgegeven, kan nog steeds niet worden verlengd wanneer het kind 16 of 17 wordt. De jongere vraagt persoonlijk een nieuw paspoort aan en kan de eigen aanvraag ondertekenen. Bekijk op de tienerpagina van het State Department wat er momenteel van een ouder wordt gevraagd. De ambtenaar kan nog steeds een notarieel verklaarde toestemming van een ouder vereisen. Een paspoort dat op 16 of 17 is afgegeven, is tien jaar geldig en kan na afloop meestal worden verlengd zoals dat van een volwassene.
 
 ### Wat als één ouder exclusief wettelijk gezag heeft?
 

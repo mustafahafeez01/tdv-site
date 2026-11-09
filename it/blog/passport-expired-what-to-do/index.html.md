@@ -92,7 +92,7 @@ La maggior parte dei passaporti ha un pannello di firma. Un passaporto non firma
 
 ### 4. Validità insufficiente per la tua destinazione
 
-La data di scadenza non è l'unica soglia che conta. Molti Paesi richiedono che il passaporto resti valido per un periodo minimo oltre la data di arrivo prevista: tipicamente sei mesi, anche se alcuni chiedono solo tre mesi o semplicemente la durata del soggiorno. Se arrivi con un passaporto tecnicamente valido che non rispetta questo requisito, ti respingono alla frontiera, proprio come con un passaporto scaduto.
+La data di scadenza non è l'unica soglia che conta. Alcuni Paesi richiedono che il passaporto resti valido per un periodo minimo, che non viene calcolato allo stesso modo ovunque: la Thailandia chiede sei mesi dopo l'arrivo, mentre lo spazio Schengen chiede generalmente tre mesi dopo la partenza. Se arrivi con un passaporto tecnicamente valido che non rispetta questo requisito, puoi essere respinto alla frontiera, proprio come con un passaporto scaduto.
 
 Questa regola non viene applicata allo stesso modo in tutte le destinazioni, ed è facile non accorgersene. [La regola dei sei mesi del passaporto](https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/) spiega quali Paesi la applicano e quali no, con un esempio pratico di come si calcola.
 
@@ -145,7 +145,7 @@ Sì. Un passaporto che non è scaduto può comunque essere rifiutato se è danne
 
 ### Qual è la regola dei sei mesi del passaporto?
 
-Molti Paesi richiedono che il tuo passaporto resti valido per almeno sei mesi oltre la data di arrivo prevista. Se scade prima, anche se tecnicamente è ancora valido, possono negarti l'imbarco o l'ingresso. Non tutti i Paesi applicano questa regola e la soglia varia. Controlla i requisiti della tua destinazione prima di partire.
+Alcuni Paesi richiedono che il tuo passaporto resti valido per un periodo determinato oltre il viaggio. La Thailandia, per esempio, chiede sei mesi dopo la data di arrivo, mentre lo spazio Schengen chiede generalmente tre mesi dopo la data di partenza. Se il passaporto scade prima di quanto consenta la destinazione, anche se tecnicamente è ancora valido, possono negarti l'imbarco o l'ingresso. Controlla i requisiti della tua destinazione prima di partire.
 
 ### Si può rinnovare un passaporto scaduto?
 

@@ -33,9 +33,9 @@ Det enda undantaget är Brunei, där CBP har kortat giltighetstiden för landets
 
 ## Det behöver bara vara giltigt den dag du landar
 
-CBP säger att ett ESTA behöver vara giltigt vid ankomst till USA, inte under hela vistelsen. Om det går ut medan du är där påverkar det inte din avresa. Nästa resa är en annan sak, och du behöver ett nytt godkännande innan du flyger igen.
+CBP säger att ett ESTA behöver vara giltigt vid ankomst till USA, inte under hela vistelsen. Om det går ut medan du är där behöver du inget nytt innan du reser därifrån. Nästa resa är en annan sak, och du behöver ett nytt godkännande innan du flyger igen.
 
-Så här fungerar det i praktiken. Säg att ditt ESTA går ut den 10:e i en månad och att du landar den 3:e för en tvåveckorsresa. Det är giltigt när du anländer, och CBP säger att om det går ut mitt i semestern påverkar det inte din avresa. Bokar du nästa resa efter den 10:e behöver du dock ett nytt först.
+Så här fungerar det i praktiken. Säg att ditt ESTA går ut den 10:e i en månad och att du landar den 3:e för en tvåveckorsresa. Det är giltigt när du anländer, och CBP säger att du inte behöver ett nytt bara för att det går ut mitt i semestern. Bokar du nästa resa efter den 10:e behöver du dock ett nytt först.
 
 ## Du kan inte förlänga ett ESTA, men du kan ansöka igen i förtid
 
@@ -56,7 +56,7 @@ När en ansökan är godkänd låter CBP dig bara uppdatera två saker: din e-po
 
 ## Varje resenär behöver sitt eget, bebisar också
 
-Barn i alla åldrar behöver sitt eget ESTA-godkännande, säger CBP, inklusive spädbarn som inte har en egen biljett. Varje barn behöver också sitt eget giltiga pass, eftersom ett barn som bara står med i en förälders pass inte uppfyller kraven.
+Barn i alla åldrar behöver sitt eget ESTA-godkännande, säger CBP, inklusive spädbarn som inte har en egen biljett. Varje barn behöver också sitt eget e-pass, eftersom CBP säger att du måste ha ett e-pass för att använda Visa Waiver Program.
 
 Ingen förväntar sig att ett litet barn fyller i ett formulär. En förälder eller någon annan kan ansöka för en resenärs räkning, och ESTA-webbplatsen har en gruppstatuskontroll för familjer som ansökte tillsammans. Ändå är det värt att kontrollera varje utgångsdatum separat, eftersom varje ESTA är kopplat till ett annat pass och varje pass har sitt eget utgångsdatum.
 
@@ -115,7 +115,7 @@ Ja. CBP beviljar bara ett ESTA upp till utgångsdatumet för det pass du ansökt
 
 ### Behöver mitt ESTA vara giltigt under hela min vistelse?
 
-Nej. CBP säger att det bara behöver vara giltigt när du anländer till USA. Om det går ut under din vistelse påverkar det inte din avresa.
+Nej. CBP säger att det bara behöver vara giltigt när du anländer till USA. Om det går ut under din vistelse behöver du inget nytt innan du reser därifrån.
 
 ### Behöver barn sitt eget ESTA?
 

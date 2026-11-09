@@ -150,7 +150,7 @@ Conserva tutti i passaporti insieme in un portafoglio dedicato ai documenti di v
 
 ### Quanto tempo prima devo verificare i documenti di viaggio?
 
-Controlla prima di prenotare i voli e almeno tre mesi prima di partire. I rinnovi dei passaporti impiegano diverse settimane — attualmente 4-6 settimane di routine negli USA e solitamente circa 3 settimane nel Regno Unito — quindi aspettare di essere vicino alla partenza è un rischio che non conviene correre. Controlla i tempi ufficiali presso l'ufficio passaporti del tuo paese. Verificare al momento della prenotazione è l'abitudine più sicura.
+Controlla prima di prenotare i voli e almeno tre mesi prima di partire. I rinnovi dei passaporti richiedono tempo, e quanto cambia. Autorità come l'HM Passport Office pubblicano i tempi attuali, quindi aspettare di essere vicino alla partenza è un rischio che non conviene correre. Controlla i tempi ufficiali presso l'ufficio passaporti del tuo paese. Verificare al momento della prenotazione è l'abitudine più sicura.
 
 ### Ho bisogno di una lettera di consenso quando viaggio da solo con il mio bambino?
 

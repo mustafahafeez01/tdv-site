@@ -33,9 +33,9 @@ La seule exception est le Brunei, pour lequel la CBP a réduit la durée de vali
 
 ## Elle ne doit être valable que le jour où vous atterrissez
 
-La CBP indique qu'une ESTA doit être valable à l'arrivée aux États-Unis, pas pendant tout votre séjour. Si elle expire pendant que vous y êtes, cela n'affecte pas votre départ. Le prochain voyage est une autre affaire, et il vous faudra une nouvelle approbation avant de reprendre l'avion.
+La CBP indique qu'une ESTA doit être valable à l'arrivée aux États-Unis, pas pendant tout votre séjour. Si elle expire pendant que vous y êtes, vous n'avez pas besoin d'en obtenir une nouvelle avant de partir. Le prochain voyage est une autre affaire, et il vous faudra une nouvelle approbation avant de reprendre l'avion.
 
-Voici comment cela se passe en pratique. Supposons que votre ESTA expire le 10 d'un mois et que vous arriviez le 3 pour un séjour de deux semaines. Elle est valable à votre arrivée, et la CBP indique que son expiration en plein milieu du séjour n'affecte pas votre départ. Si vous réservez le prochain voyage après le 10, en revanche, il vous en faudra une nouvelle au préalable.
+Voici comment cela se passe en pratique. Supposons que votre ESTA expire le 10 d'un mois et que vous arriviez le 3 pour un séjour de deux semaines. Elle est valable à votre arrivée, et la CBP indique que vous n'avez pas besoin d'en obtenir une nouvelle simplement parce qu'elle expire en plein milieu du séjour. Si vous réservez le prochain voyage après le 10, en revanche, il vous en faudra une nouvelle au préalable.
 
 ## Vous ne pouvez pas prolonger une ESTA, mais vous pouvez refaire une demande en avance
 
@@ -56,7 +56,7 @@ Une fois la demande approuvée, la CBP ne permet de mettre à jour que deux él�
 
 ## Chaque voyageur a besoin de la sienne, bébés compris
 
-Les enfants de tout âge ont besoin de leur propre approbation ESTA, indique la CBP, y compris les bébés qui n'ont pas leur propre billet. Chaque enfant a aussi besoin de son propre passeport non expiré, car un enfant simplement inscrit sur le passeport d'un parent n'est pas éligible.
+Les enfants de tout âge ont besoin de leur propre approbation ESTA, indique la CBP, y compris les bébés qui n'ont pas leur propre billet. Chaque enfant a aussi besoin de son propre passeport électronique, car la CBP indique qu'un passeport électronique est obligatoire pour utiliser le programme d'exemption de visa.
 
 Personne ne s'attend à ce qu'un tout-petit remplisse un formulaire. Un parent, ou toute autre personne, peut faire la demande au nom d'un voyageur, et le site de l'ESTA propose une vérification de statut de groupe pour les familles ayant fait leur demande ensemble. Chaque date d'expiration vaut quand même la peine d'être vérifiée séparément, puisque chaque ESTA est liée à un passeport différent et que chaque passeport a sa propre date d'expiration.
 
@@ -115,7 +115,7 @@ Oui. La CBP n'accorde une ESTA que jusqu'à la date d'expiration du passeport av
 
 ### Mon ESTA doit-elle être valable pendant tout mon séjour ?
 
-Non. La CBP indique qu'elle doit seulement être valable à votre arrivée aux États-Unis. Si elle expire pendant votre séjour, cela n'affecte pas votre départ.
+Non. La CBP indique qu'elle doit seulement être valable à votre arrivée aux États-Unis. Si elle expire pendant votre séjour, vous n'avez pas besoin d'en obtenir une nouvelle avant de partir.
 
 ### Les enfants ont-ils besoin de leur propre ESTA ?
 

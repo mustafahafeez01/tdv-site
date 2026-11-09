@@ -92,7 +92,7 @@ Die meisten Reisepässe haben ein Unterschriftsfeld. Ein nicht unterschriebener 
 
 ### 4. Unzureichende Restgültigkeit für Ihr Ziel
 
-Das Ablaufdatum Ihres Reisepasses ist nicht die einzige Schwelle, die wichtig ist. Viele Länder verlangen, dass es mindestens um einen bestimmten Zeitraum über Ihrem geplanten Ankunftsdatum gültig bleibt – typischerweise sechs Monate, obwohl einige nur drei Monate oder nur die Dauer Ihres Aufenthalts verlangen. Mit einem technisch gültigen Reisepass anzukommen, der diese Anforderung nicht erfüllt, führt zum Abweisen an der Grenze, genauso wie ein abgelaufener Reisepass.
+Das Ablaufdatum Ihres Reisepasses ist nicht die einzige Schwelle, die wichtig ist. Einige Länder verlangen eine Mindestgültigkeitsdauer, die nicht überall gleich berechnet wird: Thailand verlangt sechs Monate nach Ihrer Ankunft, während der Schengen-Raum in der Regel drei Monate nach Ihrer Ausreise verlangt. Mit einem formal gültigen Reisepass anzukommen, der diese Anforderung nicht erfüllt, kann zur Zurückweisung an der Grenze führen, genauso wie mit einem abgelaufenen Reisepass.
 
 Diese Regel wird nicht konsistent über alle Ziele angewendet, was sie leicht zu übersehen macht. [Die Sechs-Monats-Reisepass-Regel](https://traveldocumentvault.com/de/blog/passport-expiry-6-month-rule/) erklärt, welche Länder sie durchsetzen und welche nicht, mit einem praktischen Beispiel, wie sie berechnet wird.
 
@@ -145,7 +145,7 @@ Ja. Ein Reisepass, der nicht abgelaufen ist, kann trotzdem abgelehnt werden, wen
 
 ### Was ist die Sechs-Monats-Reisepass-Regel?
 
-Viele Länder verlangen, dass Ihr Reisepass mindestens sechs Monate über Ihrem geplanten Ankunftsdatum hinaus gültig bleibt. Läuft er früher ab – auch wenn er formal noch gültig ist – kann Ihnen die Beförderung oder die Einreise verweigert werden. Nicht jedes Land wendet diese Regel an, und der Schwellenwert variiert. Prüfen Sie vor der Reise die Anforderungen Ihres konkreten Reiseziels.
+Einige Länder verlangen, dass Ihr Reisepass für einen bestimmten Zeitraum über Ihre Reise hinaus gültig bleibt. Thailand verlangt zum Beispiel sechs Monate nach dem Datum Ihrer Ankunft, während der Schengen-Raum in der Regel drei Monate nach dem Datum Ihrer Ausreise verlangt. Läuft Ihr Reisepass früher ab, als Ihr Reiseziel erlaubt – auch wenn er formal noch gültig ist – kann Ihnen die Beförderung oder die Einreise verweigert werden. Prüfen Sie vor der Reise die Anforderungen Ihres konkreten Reiseziels.
 
 ### Kann man einen abgelaufenen Reisepass verlängern?
 

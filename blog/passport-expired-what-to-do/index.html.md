@@ -92,7 +92,7 @@ Most passports have a signature panel. Many passports have a signature panel, an
 
 ### 4. Insufficient validity for your destination
 
-Your passport's expiry date is not the only threshold that matters. Many countries require it to remain valid for a minimum period beyond your arrival date, typically six months, though some require only three months or simply the duration of your stay. Arriving with a technically valid passport that doesn't meet this requirement will get you turned away at the border, just like an expired passport would.
+Your passport's expiry date is not the only threshold that matters. Some countries require it to remain valid for a minimum period, and it isn't measured the same way everywhere: Thailand asks for six months after you arrive, while the Schengen area generally asks for three months after you leave. Arriving with a technically valid passport that doesn't meet this requirement can get you turned away at the border, just like an expired passport would.
 
 This rule is not applied consistently across all destinations, which makes it easy to miss. [The six-month passport rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/) explains which countries enforce it and which do not, with a worked example of how it is calculated.
 
@@ -151,7 +151,7 @@ Yes. A passport that has not expired can still be refused if it is damaged, if t
 
 ### What is the six-month passport rule?
 
-Many countries require your passport to remain valid for at least six months beyond your planned arrival date. If your passport expires sooner than that - even if it is technically still valid - you may be denied boarding or entry. Not every country enforces this rule, and the threshold varies. Check the requirements for your specific destination before you travel.
+Some countries require your passport to remain valid for a set period beyond your trip. Thailand, for example, asks for six months after the date you arrive, while the Schengen area generally asks for three months after the date you leave. If your passport expires sooner than your destination allows - even if it is technically still valid - you may be denied boarding or entry. Check the requirements for your specific destination before you travel.
 
 ### Can you renew an out-of-date passport?
 

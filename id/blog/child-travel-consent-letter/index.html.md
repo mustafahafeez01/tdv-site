@@ -13,7 +13,7 @@ Source: https://traveldocumentvault.com/id/blog/child-travel-consent-letter/
 - Persyaratan sangat berbeda tiap negara. **Surat yang berlaku untuk satu tujuan mungkin tidak diterima di tempat lain.**
 - Kanada **sangat menganjurkan agar notaris menyaksikan penandatanganan surat**.
 - Surat biasanya mencantumkan nama lengkap anak, tanggal lahir, nomor paspor, tanggal perjalanan pasti, tujuan, dan detail kontak orang tua yang tidak ikut serta.
-- Penolakan yang umum terjadi karena informasi yang hilang, tidak adanya notarisasi, tanda tangan usang, atau nomor kontak yang tidak dapat diverifikasi.
+- Penolakan yang umum terjadi karena informasi yang hilang, tidak adanya notarisasi, atau tanda tangan usang.
 - Bawa salinan cetak sebagai dokumen utama, dan simpan cadangan digital terenkripsi untuk keadaan darurat.
 
 Surat persetujuan hanya punya satu tugas di konter maskapai: menunjukkan bahwa orang dewasa yang menemani anak telah mendapat persetujuan orang tua yang tidak ikut. Sebagian besar diterima tanpa pertanyaan. Surat yang menyebabkan keterlambatan jarang gagal karena isinya.
@@ -73,7 +73,7 @@ Biaya notaris berbeda-beda tiap negara dan tiap notaris, serta tergantung sebera
 
 Bahkan keluarga yang sudah siap dengan baik pun membuat kesalahan yang menyebabkan penolakan di perbatasan. Yang paling sering:
 
-1. **Nomor kontak salah atau tidak dapat diverifikasi.** Jika telepon tidak tersambung, atau orang yang menjawab tidak dapat memverifikasi persetujuan, surat kehilangan kredibilitasnya.
+1. **Nomor kontak yang tidak dijawab siapa pun.** Petugas perbatasan atau maskapai mungkin ingin menghubungi orang tua yang tidak ikut serta, jadi berikan nomor yang akan dijawab.
 2. **Tanggal perjalanan yang samar.** Frasa seperti "musim panas 2026" terlalu luas. Gunakan tanggal keberangkatan dan kembali yang pasti.
 3. **Tidak ditandatangani oleh orang tua yang tidak ikut serta.** Surat yang hanya ditandatangani oleh orang tua yang bepergian tidak berguna. Kedua orang tua (atau wali hukum) harus menandatangani jika keduanya memiliki hak asuh hukum.
 4. **Notarisasi yang hilang saat diperlukan.** Jika surat dengan tanda tangan yang disaksikan diminta, surat tanpa saksi mungkin ditolak.
@@ -116,7 +116,7 @@ Pada hari-hari sebelum keberangkatan, lakukan daftar periksa ini:
 - Konfirmasi semua nama (termasuk nama tengah), nomor paspor, dan tanggal cocok di semua dokumen.
 - Periksa bahwa semua tanda tangan yang diperlukan ada, bertanggal, dan cocok dengan orang tua yang disebutkan.
 - Jika dinotariskan, verifikasi bahwa segel, cap, tanda tangan, dan tanggal jelas terlihat.
-- Konfirmasi nomor kontak orang tua yang tidak ikut serta benar dan orang tersebut akan tersedia untuk menerima panggilan verifikasi.
+- Konfirmasi nomor kontak orang tua yang tidak ikut serta benar dan orang tersebut dapat dihubungi selama Anda bepergian.
 - Bawa salinan cetak dalam sampul pelindung di map dokumen perjalanan Anda.
 - Simpan salinan hasil pindai terenkripsi sebagai cadangan digital.
 - Jika paspor anak Anda diperbarui sebelum perjalanan, dapatkan surat baru yang menunjukkan nomor paspor baru.

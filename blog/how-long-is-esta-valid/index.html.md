@@ -33,9 +33,9 @@ The one exception is Brunei, where CBP has cut the validity period for citizens 
 
 ## It only has to be valid on the day you land
 
-CBP says an ESTA needs to be valid on arrival in the United States, not for your whole stay. If it expires while you're there, that won't affect your departure. The next trip is a different matter, and you'll need a fresh approval before you fly again.
+CBP says an ESTA needs to be valid on arrival in the United States, not for your whole stay. If it expires while you're there, you don't need a new one before you leave. The next trip is a different matter, and you'll need a fresh approval before you fly again.
 
-Here's how that plays out. Say your ESTA expires on the 10th of a month and you land on the 3rd for a fortnight. It's valid when you arrive, and CBP says it running out halfway through the holiday won't affect your departure. Book the next trip after the 10th, though, and you'll need a new one first.
+Here's how that plays out. Say your ESTA expires on the 10th of a month and you land on the 3rd for a fortnight. It's valid when you arrive, and CBP says you don't need a new one just because it runs out halfway through the holiday. Book the next trip after the 10th, though, and you'll need a new one first.
 
 ## You can't extend an ESTA, but you can reapply early
 
@@ -56,7 +56,7 @@ Once an application is approved, CBP lets you update only two things: your email
 
 ## Every traveller needs their own, including babies
 
-Children of any age need their own ESTA approval, CBP says, including infants who don't have a ticket of their own. Each child also needs their own unexpired passport, because a child who's only listed on a parent's passport doesn't qualify.
+Children of any age need their own ESTA approval, CBP says, including infants who don't have a ticket of their own. Each child also needs their own e-passport, because CBP says you must have an e-passport to use the Visa Waiver Program.
 
 Nobody expects a toddler to fill in a form. A parent or anyone else can apply on a traveller's behalf, and the ESTA website has a group status check for families who applied together. Still, each expiry date is worth checking separately, since each ESTA is tied to a different passport and every passport has its own expiry date.
 
@@ -121,7 +121,7 @@ Yes. CBP only grants an ESTA up to the expiry date of the passport you applied w
 
 ### Does my ESTA need to be valid for my whole stay?
 
-No. CBP says it only needs to be valid when you arrive in the United States. If it expires during your stay, that won't affect your departure.
+No. CBP says it only needs to be valid when you arrive in the United States. If it expires during your stay, you don't need a new one before you leave.
 
 ### Do children need their own ESTA?
 

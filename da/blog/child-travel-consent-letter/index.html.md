@@ -13,7 +13,7 @@ Source: https://traveldocumentvault.com/da/blog/child-travel-consent-letter/
 - Kravene varierer betydeligt fra land til land. **Et brev, der fungerer til én destination, accepteres muligvis ikke et andet sted.**
 - Canada **anbefaler kraftigt, at en notar er vidne til underskriften**.
 - Brevet indeholder som regel barnets fulde navn, fødselsdato, pasnummer, præcise rejsedatoer, destinationer og kontaktoplysninger på den fraværende forælder.
-- Almindelige afvisninger skyldes manglende oplysninger, manglende notarbekræftelse, forældede underskrifter eller kontaktnumre, der ikke kan verificeres.
+- Almindelige afvisninger skyldes manglende oplysninger, manglende notarbekræftelse eller forældede underskrifter.
 - Medbring en printet kopi som hoveddokument, og opbevar en krypteret digital sikkerhedskopi til nødstilfælde.
 
 Et samtykkebrev har én opgave ved check-in-skranken: det viser, at den voksne, der rejser med barnet, har den fraværende forælders accept. De fleste bliver accepteret uden kommentarer. De, der giver forsinkelser, fejler sjældent på indholdet.
@@ -73,7 +73,7 @@ Notargebyrer varierer fra land til land og fra notar til notar, og afhængigt af
 
 Selv velforberedte familier laver fejl, der fører til afvisning ved grænsen. De hyppigste:
 
-1. **Forkert eller ikke-verificerbart kontaktnummer.** Hvis telefonen ikke stiller om, eller personen, der svarer, ikke kan bekræfte samtykket, mister brevet sin troværdighed.
+1. **Et kontaktnummer, som ingen besvarer.** En grænsebetjent eller et flyselskab vil måske kontakte den fraværende forælder, så opgiv et nummer, der bliver besvaret.
 2. **Vage rejsedatoer.** Vendinger som "sommeren 2026" er for brede. Brug præcise afrejse- og hjemkomstdatoer.
 3. **Ikke underskrevet af den fraværende forælder.** Et brev underskrevet kun af den rejsende forælder er værdiløst. Begge forældre (eller værger) skal underskrive, hvis begge har forældremyndighed.
 4. **Manglende notarbekræftelse, når det kræves.** Hvor der kræves et bevidnet brev, kan et brev uden vidnebekræftelse blive afvist.
@@ -116,7 +116,7 @@ I dagene før afrejse, gennemgå denne tjekliste:
 - Bekræft, at alle navne (inklusive mellemnavne), pasnumre og datoer stemmer overens på tværs af dokumenterne.
 - Tjek, at alle nødvendige underskrifter er til stede, daterede og stemmer med den nævnte forælder.
 - Hvis notarbekræftet, tjek at segl, stempel, underskrift og dato er tydelige.
-- Bekræft, at den fraværende forælders kontaktnummer er korrekt, og at personen vil være tilgængelig til at tage imod verificeringsopkald.
+- Bekræft, at den fraværende forælders kontaktnummer er korrekt, og at personen vil være tilgængelig under rejsen.
 - Medbring en printet kopi i en beskyttende lomme i din rejsedokumentmappe.
 - Opbevar en krypteret scannet kopi som digital sikkerhedskopi.
 - Hvis dit barns pas fornyes før rejsen, skal du skaffe et nyt brev med det nye pasnummer.

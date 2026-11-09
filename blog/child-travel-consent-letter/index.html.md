@@ -13,7 +13,7 @@ Source: https://traveldocumentvault.com/blog/child-travel-consent-letter/
 - Requirements vary significantly by country. **A letter that works for one destination may not be accepted elsewhere.**
 - Canada **strongly recommends a notary public witness the signature**.
 - A letter usually includes the child's full name, date of birth, passport number, exact travel dates, destinations, and contact details for the absent parent.
-- Common rejections come from missing information, lack of notarisation, outdated signatures, or unverifiable contact numbers.
+- Common rejections come from missing information, lack of notarisation or outdated signatures.
 - Carry a printed copy as the primary document, and keep an encrypted digital backup for emergencies.
 
 A consent letter does one job at the airline desk: it shows that the adult travelling with a child has the absent parent's agreement. Most are accepted without comment.
@@ -75,7 +75,7 @@ Notary fees vary by country and by notary, and by how quickly you need an appoin
 
 Even well-prepared families trip up in predictable ways. These are the most frequent:
 
-1. **Wrong or unverifiable contact number.** If the phone does not connect, or the person who answers cannot verify consent, the letter loses credibility.
+1. **A contact number no one answers.** A border officer or airline may want to reach the absent parent, so give a number that will be answered.
 2. **Vague travel dates.** Phrases like "summer 2026" are too broad. Use exact departure and return dates.
 3. **Unsigned by the absent parent.** A letter signed only by the travelling parent is worthless. Both parents (or legal guardians) must sign if both have legal custody.
 4. **Missing notarisation when required.** Where a witnessed letter is asked for, an unwitnessed one may be refused.
@@ -116,7 +116,7 @@ In the days before departure, run through this checklist:
 - Confirm all names (including middle names), passport numbers, and dates match across documents.
 - Check that all required signatures are present, dated, and match the named parent.
 - If notarised, verify the seal, stamp, signature, and date are clear.
-- Confirm the absent parent's contact number is correct and they will be available to take verification calls.
+- Confirm the absent parent's contact number is correct and they will be reachable while you travel.
 - Carry a printed copy in a protective sleeve in your travel documents folder.
 - Store an encrypted scanned copy as a digital backup.
 - If your child's passport is renewed before travel, obtain a fresh letter showing the new passport number.

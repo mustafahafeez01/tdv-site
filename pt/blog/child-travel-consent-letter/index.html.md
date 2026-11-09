@@ -13,7 +13,7 @@ Source: https://traveldocumentvault.com/pt/blog/child-travel-consent-letter/
 - Os requisitos variam significativamente por país. **Uma carta que funciona para um destino pode não ser aceite noutro.**
 - O Canadá **recomenda vivamente que um notário público testemunhe a assinatura**.
 - A carta costuma incluir o nome completo da criança, data de nascimento, número de passaporte, datas exatas de viagem, destinos e detalhes de contacto do progenitor ausente.
-- As rejeições comuns resultam de informações em falta, falta de autenticação, assinaturas desatualizadas, ou números não verificáveis.
+- As rejeições comuns resultam de informações em falta, falta de autenticação ou assinaturas desatualizadas.
 - Transporte uma cópia impressa como documento principal, e guarde uma cópia de segurança digital encriptada para emergências.
 
 Uma carta de consentimento cumpre uma única função no balcão da companhia aérea: mostra que o adulto que viaja com a criança tem o acordo do progenitor ausente. A maioria é aceite sem comentários. As que causam atrasos raramente falham no essencial.
@@ -73,7 +73,7 @@ As taxas notariais variam consoante o país e o notário, e a rapidez com que pr
 
 Mesmo as famílias bem preparadas cometem erros que levam à rejeição na fronteira. Os mais frequentes:
 
-1. **Número de contacto errado ou não verificável.** Se o telefone não conecta, ou a pessoa que atende não pode verificar o consentimento, a carta perde credibilidade.
+1. **Um número de contacto que ninguém atende.** Um agente de fronteira ou uma companhia aérea pode querer contactar o progenitor ausente, por isso indique um número que será atendido.
 2. **Datas de viagem vagas.** Frases como "verão de 2026" são muito genéricas. Use datas exactas de partida e retorno.
 3. **Não assinada pelo progenitor ausente.** Uma carta assinada apenas pelo progenitor viajante é inútil. Ambos os progenitores (ou tutores legais) devem assinar se ambos têm custódia legal.
 4. **Falta de autenticação quando necessária.** Quando se pede uma carta com assinatura reconhecida, uma carta sem esse reconhecimento pode ser recusada.
@@ -116,7 +116,7 @@ Nos dias antes da partida, passe por esta lista de verificação:
 - Confirme que todos os nomes (incluindo nomes do meio), números de passaporte, e datas correspondem nos documentos.
 - Verifique que todas as assinaturas necessárias estão presentes, datadas, e correspondem ao progenitor nomeado.
 - Se autenticada, verifique que o selo, carimbo, assinatura, e data são claros.
-- Confirme que o número de contacto do progenitor ausente está correcto e que estarão disponíveis para receber chamadas de verificação.
+- Confirme que o número de contacto do progenitor ausente está correcto e que estará contactável durante a viagem.
 - Transporte uma cópia impressa numa capa protectora na sua pasta de documentos de viagem.
 - Guarde uma cópia digitalizada encriptada como cópia de segurança digital.
 - Se o passaporte da sua criança for renovado antes de viajar, obtenha uma carta nova mostrando o novo número de passaporte.

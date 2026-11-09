@@ -150,7 +150,7 @@ Guarda todos los pasaportes juntos en una cartera de viaje dedicada o funda de d
 
 ### ¿Con cuánta anticipación debo revisar los documentos de viaje?
 
-Revísalos antes de reservar vuelos —y como mínimo tres meses antes de viajar. Las renovaciones de pasaporte generalmente tardan varias semanas —actualmente entre 4-6 semanas de rutina en EE.UU. y alrededor de 3 semanas en el Reino Unido— así que esperar hasta que estés cerca de tu fecha de partida es una apuesta que no quieres hacer. Verifica la autoridad oficial de pasaportes de tu país para los tiempos actuales. Revisar en el momento de la reserva es el hábito más seguro para desarrollar.
+Revísalos antes de reservar vuelos —y como mínimo tres meses antes de viajar. Las renovaciones de pasaporte llevan tiempo, y cuánto varía. Autoridades como la HM Passport Office publican su plazo actual, así que esperar hasta que estés cerca de tu fecha de partida es una apuesta que no quieres hacer. Verifica la autoridad oficial de pasaportes de tu país para los tiempos actuales. Revisar en el momento de la reserva es el hábito más seguro para desarrollar.
 
 ### ¿Necesito una carta de consentimiento cuando viajo solo con mi hijo?
 

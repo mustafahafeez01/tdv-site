@@ -32,7 +32,7 @@ Den andra är gränstjänstemannen när du landar. Dennes uppgift är att avgör
 
 En bekräftad biljett ut ur landet är den form de flesta känner igen. Det kan vara en returflygning eller en flygning vidare till ett tredje land. Det som är avgörande är att den avgår innan din tillåtna vistelse upphör och går till ett land du har rätt att resa in i.
 
-Immigration New Zealands vägledning för besökare ger en bra bild av spannet. Den listar bekräftade biljetter eller biljetter med öppet datum ut ur landet, eller skriftlig bekräftelse från ett flygbolag eller en resebyrå att vidare resa är bokad och betald. Myndigheten godtar också allt som visar en bekräftad avresa, till exempel att en segelbåt eller ett privatflygplan lämnar landet. Andra resmål har sina egna listor, och de stämmer inte alltid med varandra.
+Immigration New Zealands vägledning för besökare ger en bra bild av spannet. För resenärer som reser utan visum kräver den en biljett ut ur Nya Zeeland som betalats före resan, och för dem som lämnar landet med en privat farkost eller ett kryssningsfartyg godtar den ett brev från farkostens ägare eller en kryssningsresplan. För ett besöksvisum godtar den en flygbiljett, bevis på att du har pengar att köpa en eller en sponsors åtagande att betala. Andra resmål har sina egna listor, och de stämmer inte alltid med varandra.
 
 En **hotellbokning** och ett **kontoutdrag** dyker också ofta upp, men de besvarar andra frågor. Den ena visar var du ska bo, och den andra visar att du kan försörja dig. En gränstjänsteman kan be om endera, men ingen av dem ersätter i allmänhet en biljett ut.
 

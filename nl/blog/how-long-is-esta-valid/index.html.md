@@ -33,9 +33,9 @@ De enige uitzondering is Brunei, waar CBP de geldigheidsduur voor burgers van Br
 
 ## Hij moet alleen geldig zijn op de dag dat je landt
 
-CBP zegt dat een ESTA geldig moet zijn bij aankomst in de Verenigde Staten, niet voor je hele verblijf. Verloopt hij terwijl je er bent, dan heeft dat geen invloed op je vertrek. De volgende reis is een ander verhaal, en dan heb je een nieuwe goedkeuring nodig voordat je weer vliegt.
+CBP zegt dat een ESTA geldig moet zijn bij aankomst in de Verenigde Staten, niet voor je hele verblijf. Verloopt hij terwijl je er bent, dan heb je voor je vertrek geen nieuwe nodig. De volgende reis is een ander verhaal, en dan heb je een nieuwe goedkeuring nodig voordat je weer vliegt.
 
-Zo werkt dat in de praktijk. Stel dat je ESTA op de 10e van een maand verloopt en dat je op de 3e landt voor een verblijf van twee weken. Hij is geldig bij aankomst, en CBP zegt dat het geen invloed heeft op je vertrek als hij halverwege de vakantie verloopt. Boek je de volgende reis echter na de 10e, dan heb je eerst een nieuwe nodig.
+Zo werkt dat in de praktijk. Stel dat je ESTA op de 10e van een maand verloopt en dat je op de 3e landt voor een verblijf van twee weken. Hij is geldig bij aankomst, en CBP zegt dat je geen nieuwe nodig hebt alleen omdat hij halverwege de vakantie verloopt. Boek je de volgende reis echter na de 10e, dan heb je eerst een nieuwe nodig.
 
 ## Je kunt een ESTA niet verlengen, maar wel vroeg opnieuw aanvragen
 
@@ -56,7 +56,7 @@ Zodra een aanvraag is goedgekeurd, laat CBP je maar twee dingen bijwerken: je e-
 
 ## Elke reiziger heeft zijn eigen ESTA nodig, baby's ook
 
-Kinderen van elke leeftijd hebben hun eigen ESTA-goedkeuring nodig, zegt CBP, inclusief baby's die geen eigen ticket hebben. Elk kind heeft ook zijn eigen geldige paspoort nodig, want een kind dat alleen in het paspoort van een ouder staat vermeld, komt niet in aanmerking.
+Kinderen van elke leeftijd hebben hun eigen ESTA-goedkeuring nodig, zegt CBP, inclusief baby's die geen eigen ticket hebben. Elk kind heeft ook zijn eigen e-paspoort nodig, want volgens CBP moet je een e-paspoort hebben om het Visa Waiver Program te gebruiken.
 
 Niemand verwacht dat een peuter een formulier invult. Een ouder of iemand anders kan namens een reiziger aanvragen, en de ESTA-website heeft een groepsstatuscontrole voor gezinnen die samen hebben aangevraagd. Toch is het de moeite waard elke vervaldatum apart te checken, omdat elke ESTA aan een ander paspoort gekoppeld is en elk paspoort zijn eigen vervaldatum heeft.
 
@@ -115,7 +115,7 @@ Ja. CBP geeft een ESTA alleen tot de vervaldatum van het paspoort waarmee je heb
 
 ### Moet mijn ESTA geldig zijn voor mijn hele verblijf?
 
-Nee. CBP zegt dat hij alleen geldig moet zijn wanneer je in de VS aankomt. Verloopt hij tijdens je verblijf, dan heeft dat geen invloed op je vertrek.
+Nee. CBP zegt dat hij alleen geldig moet zijn wanneer je in de VS aankomt. Verloopt hij tijdens je verblijf, dan heb je voor je vertrek geen nieuwe nodig.
 
 ### Hebben kinderen hun eigen ESTA nodig?
 

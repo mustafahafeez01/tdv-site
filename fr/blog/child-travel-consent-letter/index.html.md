@@ -13,7 +13,7 @@ Source: https://traveldocumentvault.com/fr/blog/child-travel-consent-letter/
 - Les exigences varient considérablement selon le pays. **Une lettre qui fonctionne pour une destination peut ne pas être acceptée ailleurs.**
 - Le Canada **recommande fortement que la signature se fasse devant un notaire public**.
 - La lettre inclut généralement le nom complet de l'enfant, sa date de naissance, son numéro de passeport, les dates exactes du voyage, les destinations et les coordonnées du parent absent.
-- Les rejets courants proviennent d'informations manquantes, du manque de notarisation, de signatures dépassées ou de numéros de contact non vérifiables.
+- Les rejets courants proviennent d'informations manquantes, du manque de notarisation ou de signatures dépassées.
 - Portez une copie imprimée comme document principal et conservez une sauvegarde numérique chiffrée pour les urgences.
 
 Une lettre de consentement remplit une seule fonction au comptoir d'enregistrement : elle montre que l'adulte qui voyage avec un enfant a l'accord du parent absent. La plupart sont acceptées sans commentaire.
@@ -73,7 +73,7 @@ Les frais de notarisation varient selon le pays et le notaire, ainsi que selon l
 
 Même les familles bien préparées commettent des erreurs qui conduisent au rejet à la frontière. Les plus fréquentes :
 
-1. **Numéro de contact incorrect ou non vérifiable.** Si le téléphone ne se connecte pas ou que la personne qui répond ne peut pas vérifier le consentement, la lettre perd de la crédibilité.
+1. **Un numéro de contact auquel personne ne répond.** Un agent frontalier ou une compagnie aérienne peut vouloir joindre le parent absent, alors donnez un numéro auquel quelqu'un répondra.
 2. **Dates de voyage vagues.** Des expressions comme « été 2026 » sont trop larges. Utilisez les dates exactes de départ et de retour.
 3. **Non signé par le parent absent.** Une lettre signée uniquement par le parent voyageur est inutile. Les deux parents (ou tuteurs légaux) doivent signer si les deux ont la garde légale.
 4. **Absence de notarisation quand requise.** Lorsqu'une signature devant témoin est demandée, une lettre sans témoin peut être refusée.
@@ -116,7 +116,7 @@ Dans les jours avant le départ, passez en revue cette liste de vérification :
 - Confirmez que tous les noms (y compris les seconds prénoms), les numéros de passeport et les dates correspondent dans tous les documents.
 - Vérifiez que toutes les signatures requises sont présentes, datées et correspondent au parent nommé.
 - Si notariée, vérifiez que le sceau, le tampon, la signature et la date sont clairs.
-- Confirmez que le numéro de contact du parent absent est correct et qu'il sera disponible pour répondre aux appels de vérification.
+- Confirmez que le numéro de contact du parent absent est correct et qu'il sera joignable pendant votre voyage.
 - Portez une copie imprimée dans une pochette de protection dans votre dossier de documents de voyage.
 - Stockez une copie numérisée chiffrée comme sauvegarde numérique.
 - Si le passeport de votre enfant est renouvelé avant le voyage, obtenez une nouvelle lettre montrant le nouveau numéro de passeport.

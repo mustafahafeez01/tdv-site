@@ -57,7 +57,7 @@ La normativa permite emitir un pasaporte cuando solo un progenitor firma la soli
 
 Un pasaporte emitido antes de que el menor cumpliera 16 años sigue sin poder renovarse a los 16 o 17 años. El adolescente solicita un pasaporte nuevo en persona, y la diferencia ahora es que puede firmar su propia solicitud.
 
-Un progenitor todavía tiene un papel que cumplir. El Departamento de Estado por lo general pide a un progenitor que firme una **declaración en la que indique que tiene conocimiento** de que el adolescente está solicitando el pasaporte, o que asista a la cita, así que consulta su página para adolescentes y comprueba el requisito vigente antes de ir. La normativa también permite que el funcionario de pasaportes pida en cualquier momento el consentimiento notariado de un progenitor, así que conviene tener a uno localizable ese día.
+Un progenitor todavía tiene un papel que cumplir. La página del Departamento de Estado para adolescentes detalla **lo que se exige actualmente a los progenitores**, así que consúltala antes de ir. La normativa también permite que el funcionario de pasaportes pida en cualquier momento el consentimiento notariado de un progenitor, así que conviene tener a uno localizable ese día.
 
 El pasaporte emitido a los 16 o 17 años es válido durante diez años. Cuando caduca, el joven, ya adulto, por lo general puede renovarlo por correo o en línea, siempre que cumpla las condiciones habituales de un adulto. Ahí terminan las solicitudes en persona.
 
@@ -89,7 +89,7 @@ La normativa federal de pasaportes exige que ambos progenitores o tutores firmen
 
 ### ¿Qué ocurre cuando un menor cumple 16 años?
 
-Un pasaporte emitido antes de los 16 años sigue sin poder renovarse cuando el menor cumple 16 o 17 años. El joven solicita un pasaporte nuevo en persona y puede firmar su propia solicitud. Es posible que se le pida a un progenitor presentar una declaración firmada en la que indique que tiene conocimiento de la solicitud, o asistir a la cita. El funcionario puede seguir exigiendo una declaración notariada de consentimiento parental. Un pasaporte emitido a los 16 o 17 años es válido durante diez años y por lo general puede renovarse como el de un adulto una vez que caduca.
+Un pasaporte emitido antes de los 16 años sigue sin poder renovarse cuando el menor cumple 16 o 17 años. El joven solicita un pasaporte nuevo en persona y puede firmar su propia solicitud. Consulta la página del Departamento de Estado para adolescentes para saber lo que se exige actualmente a un progenitor. El funcionario puede seguir exigiendo una declaración notariada de consentimiento parental. Un pasaporte emitido a los 16 o 17 años es válido durante diez años y por lo general puede renovarse como el de un adulto una vez que caduca.
 
 ### ¿Qué pasa si un progenitor tiene la custodia legal exclusiva?
 

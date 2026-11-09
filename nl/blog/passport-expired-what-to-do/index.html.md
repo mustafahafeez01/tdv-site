@@ -92,7 +92,7 @@ De meeste paspoorten hebben een handtekeningveld. Een niet-ondertekend paspoort 
 
 ### 4. Onvoldoende geldigheid voor je bestemming
 
-De vervaldatum van je paspoort is niet de enige grens die telt. Veel landen eisen dat het nog een minimale periode na je aankomstdatum geldig blijft – meestal zes maanden, al eisen sommige landen slechts drie maanden of enkel de duur van je verblijf. Aankomen met een technisch geldig paspoort dat niet aan deze eis voldoet, zorgt ervoor dat je aan de grens geweigerd wordt, net als bij een verlopen paspoort.
+De vervaldatum van je paspoort is niet de enige grens die telt. Sommige landen eisen dat het nog een minimale periode geldig blijft, en die wordt niet overal op dezelfde manier berekend: Thailand vraagt zes maanden na je aankomst, terwijl het Schengengebied doorgaans drie maanden na je vertrek vraagt. Aankomen met een technisch geldig paspoort dat niet aan deze eis voldoet, kan ertoe leiden dat je aan de grens geweigerd wordt, net als bij een verlopen paspoort.
 
 Deze regel wordt niet consistent toegepast bij alle bestemmingen, waardoor hij makkelijk over het hoofd te zien is. [De 6 maanden-paspoortregel](https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/) legt uit welke landen deze regel hanteren en welke niet, met een uitgewerkt voorbeeld van hoe hij berekend wordt.
 
@@ -145,7 +145,7 @@ Ja. Een paspoort dat nog niet is verlopen, kan alsnog geweigerd worden als het b
 
 ### Wat is de 6 maanden-paspoortregel?
 
-Veel landen eisen dat je paspoort nog minstens zes maanden geldig is na je geplande aankomstdatum. Als je paspoort eerder verloopt dan dat – zelfs als het technisch nog geldig is – kan je de toegang of instap geweigerd worden. Niet elk land handhaaft deze regel, en de drempel verschilt. Controleer de vereisten voor jouw specifieke bestemming voordat je vertrekt.
+Sommige landen eisen dat je paspoort nog een bepaalde periode na je reis geldig blijft. Thailand vraagt bijvoorbeeld zes maanden na de datum van je aankomst, terwijl het Schengengebied doorgaans drie maanden na de datum van je vertrek vraagt. Als je paspoort eerder verloopt dan je bestemming toestaat – zelfs als het technisch nog geldig is – kan je de toegang of instap geweigerd worden. Controleer de vereisten voor jouw specifieke bestemming voordat je vertrekt.
 
 ### Kun je een verlopen paspoort verlengen?
 

@@ -92,7 +92,7 @@ De flesta pass har ett fält för namnteckning. Ett pass utan namnteckning kan o
 
 ### 4. Otillräcklig giltighetstid för resmålet
 
-Passets utgångsdatum är inte den enda tidsgränsen som spelar roll. Många länder kräver att det förblir giltigt under en minsta period efter ankomstdatumet – vanligtvis sex månader, även om vissa bara kräver tre månader eller enbart längden på vistelsen. Att anlända med ett tekniskt giltigt pass som inte uppfyller det här kravet leder till att du nekas vid gränsen, precis som med ett utgånget pass.
+Passets utgångsdatum är inte den enda tidsgränsen som spelar roll. Vissa länder kräver att det förblir giltigt under en minsta period, och den beräknas inte på samma sätt överallt: Thailand kräver sex månader efter att du anländer, medan Schengenområdet i regel kräver tre månader efter att du reser därifrån. Att anlända med ett tekniskt giltigt pass som inte uppfyller det här kravet kan leda till att du nekas vid gränsen, precis som med ett utgånget pass.
 
 Den här regeln tillämpas inte konsekvent på alla resmål, vilket gör den lätt att missa. [Sexmånadersregeln för pass](https://traveldocumentvault.com/sv/blog/passport-expiry-6-month-rule/) förklarar vilka länder som tillämpar den och vilka som inte gör det, med ett räkneexempel på hur den beräknas.
 
@@ -145,7 +145,7 @@ Ja. Ett pass som inte har gått ut kan ändå nekas om det är skadat, om namnet
 
 ### Vad är sexmånadersregeln för pass?
 
-Många länder kräver att passet förblir giltigt minst sex månader efter det planerade ankomstdatumet. Om passet går ut tidigare än så – även om det tekniskt sett fortfarande är giltigt – kan du nekas ombordstigning eller inresa. Inte alla länder tillämpar regeln, och tröskeln varierar. Kontrollera kraven för ditt specifika resmål innan du reser.
+Vissa länder kräver att passet förblir giltigt under en bestämd period utöver resan. Thailand kräver till exempel sex månader efter ankomstdagen, medan Schengenområdet i regel kräver tre månader efter avresedagen. Om passet går ut tidigare än ditt resmål tillåter – även om det tekniskt sett fortfarande är giltigt – kan du nekas ombordstigning eller inresa. Kontrollera kraven för ditt specifika resmål innan du reser.
 
 ### Kan man förnya ett pass som har gått ut?
 

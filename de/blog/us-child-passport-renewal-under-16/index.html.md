@@ -57,7 +57,7 @@ Die Vorschriften erlauben die Ausstellung eines Passes, wenn nur ein Elternteil 
 
 Ein vor dem 16. Geburtstag des Kindes ausgestellter Pass kann mit 16 oder 17 Jahren weiterhin nicht verlängert werden. Der Jugendliche beantragt persönlich einen neuen Pass, und der Unterschied ist nun, dass er seinen eigenen Antrag unterschreiben kann.
 
-Ein Elternteil spielt weiterhin eine Rolle. Das Außenministerium bittet in der Regel einen Elternteil, entweder eine **Erklärung zu unterschreiben, dass er weiß**, dass der Jugendliche einen Pass beantragt, oder den Termin zu begleiten. Prüfen Sie vor dem Termin die Seite des Ministeriums für Jugendliche auf die aktuelle Anforderung. Die Vorschriften erlauben dem Passbeamten außerdem, jederzeit eine notariell beglaubigte Zustimmung eines Elternteils zu verlangen, daher lohnt es sich, am Tag ein Elternteil erreichbar zu haben.
+Ein Elternteil spielt weiterhin eine Rolle. Auf der Seite des Außenministeriums für Jugendliche steht, **was derzeit von Eltern verlangt wird**; prüfen Sie sie vor Ihrem Termin. Die Vorschriften erlauben dem Passbeamten außerdem, jederzeit eine notariell beglaubigte Zustimmung eines Elternteils zu verlangen, daher lohnt es sich, am Tag ein Elternteil erreichbar zu haben.
 
 Der mit 16 oder 17 Jahren ausgestellte Pass ist zehn Jahre gültig. Läuft er ab, kann der inzwischen erwachsene junge Mensch ihn meist per Post oder online verlängern, sofern die üblichen Bedingungen für Erwachsene erfüllt sind. Die persönlichen Neuanträge enden hier.
 
@@ -89,7 +89,7 @@ Die Bundesvorschriften für Reisepässe verlangen, dass beide Eltern oder Erzieh
 
 ### Was passiert, wenn ein Kind 16 wird?
 
-Ein vor dem 16. Geburtstag ausgestellter Pass kann auch mit 16 oder 17 Jahren nicht verlängert werden. Der Jugendliche beantragt persönlich einen neuen Pass und kann seinen eigenen Antrag unterschreiben. Ein Elternteil wird möglicherweise gebeten, eine unterschriebene Erklärung abzugeben, dass er von dem Antrag weiß, oder den Termin zu begleiten. Der Beamte kann weiterhin eine notariell beglaubigte Zustimmungserklärung der Eltern verlangen. Ein mit 16 oder 17 Jahren ausgestellter Pass ist zehn Jahre gültig und kann nach Ablauf meist wie der eines Erwachsenen verlängert werden.
+Ein vor dem 16. Geburtstag ausgestellter Pass kann auch mit 16 oder 17 Jahren nicht verlängert werden. Prüfen Sie auf der Seite des Außenministeriums für Jugendliche, was derzeit von einem Elternteil verlangt wird. Ein Elternteil wird möglicherweise gebeten, eine unterschriebene Erklärung abzugeben, dass er von dem Antrag weiß, oder den Termin zu begleiten. Der Beamte kann weiterhin eine notariell beglaubigte Zustimmungserklärung der Eltern verlangen. Ein mit 16 oder 17 Jahren ausgestellter Pass ist zehn Jahre gültig und kann nach Ablauf meist wie der eines Erwachsenen verlängert werden.
 
 ### Was gilt, wenn ein Elternteil das alleinige Sorgerecht hat?
 

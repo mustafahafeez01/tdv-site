@@ -57,7 +57,7 @@ Le normative permettono che un passaporto venga rilasciato quando solo un genito
 
 Un passaporto rilasciato prima dei 16 anni non può comunque essere rinnovato a 16 o 17 anni. L'adolescente fa domanda di persona per un nuovo passaporto, e la differenza ora è che può firmare la propria domanda.
 
-Un genitore ha ancora un ruolo da svolgere. Il Dipartimento di Stato di norma chiede a un genitore di firmare una **dichiarazione in cui dichiara di essere al corrente** che l'adolescente sta facendo domanda, oppure di presentarsi all'appuntamento, quindi prima di andare controlla sulla sua pagina dedicata agli adolescenti qual è il requisito attuale. Le normative permettono inoltre al funzionario dei passaporti di richiedere in qualsiasi momento il consenso autenticato di un genitore, quindi vale la pena avere un genitore raggiungibile quel giorno.
+Un genitore ha ancora un ruolo da svolgere. La pagina del Dipartimento di Stato dedicata agli adolescenti spiega **cosa viene attualmente richiesto ai genitori**, quindi controllala prima di andare. Le normative permettono inoltre al funzionario dei passaporti di richiedere in qualsiasi momento il consenso autenticato di un genitore, quindi vale la pena avere un genitore raggiungibile quel giorno.
 
 Il passaporto rilasciato a 16 o 17 anni è valido dieci anni. Quando scade, il giovane, ormai adulto, può in genere rinnovarlo per posta o online, a condizione che rispetti le normali condizioni per adulti. Le nuove domande di persona finiscono lì.
 
@@ -89,7 +89,7 @@ Le normative federali sui passaporti richiedono che entrambi i genitori o tutori
 
 ### Cosa cambia quando un figlio compie 16 anni?
 
-Un passaporto rilasciato prima dei 16 anni non può comunque essere rinnovato quando il figlio compie 16 o 17 anni. Il giovane fa domanda di persona per un nuovo passaporto e può firmare la propria domanda. A un genitore può essere chiesto di fornire una dichiarazione firmata in cui dichiara di essere al corrente della domanda, oppure di presentarsi all'appuntamento. Il funzionario può comunque richiedere una dichiarazione di consenso autenticata dei genitori. Un passaporto rilasciato a 16 o 17 anni è valido dieci anni e in genere può essere rinnovato come quello di un adulto una volta scaduto.
+Un passaporto rilasciato prima dei 16 anni non può comunque essere rinnovato quando il figlio compie 16 o 17 anni. Il giovane fa domanda di persona per un nuovo passaporto e può firmare la propria domanda. Controlla la pagina del Dipartimento di Stato dedicata agli adolescenti per sapere cosa viene attualmente richiesto a un genitore. Il funzionario può comunque richiedere una dichiarazione di consenso autenticata dei genitori. Un passaporto rilasciato a 16 o 17 anni è valido dieci anni e in genere può essere rinnovato come quello di un adulto una volta scaduto.
 
 ### Cosa succede se un genitore ha l'affidamento legale esclusivo?
 

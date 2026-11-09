@@ -34,7 +34,7 @@ Cari tahu apakah kewarganegaraan Anda memerlukan visa untuk masuk, transit, atau
 
 **Pesan asuransi perjalanan Anda lebih awal**
 
-Pesan asuransi perjalanan saat Anda memesan penerbangan, bukan seminggu sebelum keberangkatan. Asuransi yang diambil setelah Anda mengetahui suatu risiko tertentu bisa mengecualikan masalah spesifik itu. Pastikan polis mencakup semua pelancong, semua destinasi, dan aktivitas yang Anda rencanakan.
+Pesan asuransi perjalanan saat Anda memesan penerbangan, bukan seminggu sebelum keberangkatan. Pastikan polis mencakup semua pelancong, semua destinasi, dan aktivitas yang Anda rencanakan.
 
 ![Diagram garis waktu pemeriksaan dokumen perjalanan: periksa tanggal kedaluwarsa saat pemesanan, perpanjang jika perlu tiga bulan sebelumnya, konfirmasi dan konsolidasi satu bulan sebelumnya, pemeriksaan terakhir malam sebelumnya](https://traveldocumentvault.com/blog/travel-document-checklist/checklist-timeline-id.jpg) Empat titik pemeriksaan antara pemesanan dan naik pesawat - masing-masing kecil kalau Anda mulai lebih awal.
 

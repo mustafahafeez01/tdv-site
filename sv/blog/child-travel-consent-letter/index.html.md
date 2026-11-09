@@ -13,7 +13,7 @@ Source: https://traveldocumentvault.com/sv/blog/child-travel-consent-letter/
 - Kraven varierar kraftigt mellan länder. **Ett brev som fungerar för ett resmål accepteras kanske inte på ett annat.**
 - Kanada **rekommenderar starkt att en notarius publicus bevittnar underskriften**.
 - Brevet innehåller vanligtvis barnets fullständiga namn, födelsedatum, passnummer, exakta resdatum, resmål och kontaktuppgifter till den frånvarande föräldern.
-- Vanliga avslag beror på saknad information, avsaknad av bestyrkning, föråldrade underskrifter eller kontaktnummer som inte går att verifiera.
+- Vanliga avslag beror på saknad information, avsaknad av bestyrkning eller föråldrade underskrifter.
 - Ha med en utskriven kopia som huvuddokument, och behåll en krypterad digital säkerhetskopia för nödsituationer.
 
 Ett medgivandebrev fyller en enda funktion vid incheckningsdisken: det visar att den vuxna som reser med barnet har den frånvarande förälderns samtycke. De flesta godtas utan kommentar.
@@ -73,7 +73,7 @@ Avgifter för bestyrkning varierar mellan länder och mellan olika jurister, och
 
 Även välförberedda familjer gör misstag som leder till avslag vid gränsen. De vanligaste:
 
-1. **Fel eller overifierbart kontaktnummer.** Går telefonen inte fram, eller kan personen som svarar inte bekräfta samtycket, förlorar brevet sin trovärdighet.
+1. **Ett kontaktnummer som ingen svarar på.** En gränstjänsteman eller ett flygbolag kan vilja nå den frånvarande föräldern, så ange ett nummer som någon kommer att svara på.
 2. **Vaga resdatum.** Fraser som "sommaren 2026" är för generella. Använd exakta avrese- och hemresedatum.
 3. **Inte undertecknat av den frånvarande föräldern.** Ett brev undertecknat bara av den resande föräldern är värdelöst. Båda föräldrarna (eller vårdnadshavarna) måste skriva under om båda har vårdnad.
 4. **Saknad bestyrkning när det krävs.** När ett bevittnat brev krävs kan ett obevittnat brev underkännas.
@@ -116,7 +116,7 @@ Under dagarna innan avresa, gå igenom den här checklistan:
 - Bekräfta att alla namn (inklusive mellannamn), passnummer och datum stämmer mellan handlingarna.
 - Kontrollera att alla nödvändiga underskrifter finns, är daterade och stämmer med den namngivna föräldern.
 - Om bestyrkt, kontrollera att stämpel, sigill, underskrift och datum är tydliga.
-- Bekräfta att den frånvarande förälderns kontaktnummer stämmer och att personen kommer att kunna ta emot verifieringssamtal.
+- Bekräfta att den frånvarande förälderns kontaktnummer stämmer och att personen kommer att vara nåbar under resan.
 - Ha med en utskriven kopia i en skyddande ficka i reseplånboken.
 - Spara en krypterad skannad kopia som digital säkerhetskopia.
 - Om barnets pass förnyas innan resan, skaffa ett nytt brev med det nya passnumret.

@@ -34,7 +34,7 @@ Découvrez si votre nationalité de passeport nécessite un visa pour l'entrée,
 
 **Réservez votre assurance voyage dès le départ**
 
-Réservez une assurance voyage quand vous réservez les vols, pas une semaine avant le départ. L'assurance contractée après avoir déjà identifié un risque peut exclure ce problème spécifique. Assurez-vous que la police couvre tous les voyageurs, toutes les destinations et les activités que vous envisagez de faire.
+Réservez une assurance voyage quand vous réservez les vols, pas une semaine avant le départ. Assurez-vous que la police couvre tous les voyageurs, toutes les destinations et les activités que vous envisagez de faire.
 
 ![Diagramme des vérifications de documents de voyage : vérifier les dates d'expiration à la réservation, renouveler si nécessaire trois mois avant, confirmer et regrouper un mois avant, dernière vérification la veille](https://traveldocumentvault.com/blog/travel-document-checklist/checklist-timeline-fr.jpg) Quatre points de contrôle entre la réservation et l'embarquement — chacun léger si on s'y prend tôt.
 

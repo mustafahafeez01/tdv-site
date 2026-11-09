@@ -33,9 +33,9 @@ Die einzige Ausnahme ist Brunei, für dessen Bürger und Staatsangehörige die C
 
 ## Es muss nur am Tag Ihrer Einreise gültig sein
 
-Die CBP sagt, dass ein ESTA bei der Einreise in die Vereinigten Staaten gültig sein muss, nicht während Ihres gesamten Aufenthalts. Läuft es während Ihres Aufenthalts ab, hat das keinen Einfluss auf Ihre Ausreise. Die nächste Reise ist eine andere Sache, und Sie benötigen eine neue Genehmigung, bevor Sie wieder fliegen.
+Die CBP sagt, dass ein ESTA bei der Einreise in die Vereinigten Staaten gültig sein muss, nicht während Ihres gesamten Aufenthalts. Läuft es während Ihres Aufenthalts ab, brauchen Sie vor Ihrer Ausreise kein neues. Die nächste Reise ist eine andere Sache, und Sie benötigen eine neue Genehmigung, bevor Sie wieder fliegen.
 
-So sieht das in der Praxis aus. Angenommen, Ihr ESTA läuft am 10. eines Monats ab und Sie landen am 3. für zwei Wochen. Es ist bei Ihrer Ankunft gültig, und die CBP sagt, dass sein Auslaufen mitten im Urlaub Ihre Ausreise nicht beeinträchtigt. Buchen Sie die nächste Reise jedoch nach dem 10., brauchen Sie vorher ein neues.
+So sieht das in der Praxis aus. Angenommen, Ihr ESTA läuft am 10. eines Monats ab und Sie landen am 3. für zwei Wochen. Es ist bei Ihrer Ankunft gültig, und die CBP sagt, dass Sie kein neues brauchen, nur weil es mitten im Urlaub abläuft. Buchen Sie die nächste Reise jedoch nach dem 10., brauchen Sie vorher ein neues.
 
 ## Sie können ein ESTA nicht verlängern, aber früh neu beantragen
 
@@ -56,7 +56,7 @@ Nach der Genehmigung des Antrags erlaubt die CBP die Aktualisierung von nur zwei
 
 ## Jeder Reisende braucht ein eigenes, auch Babys
 
-Kinder jeden Alters brauchen eine eigene ESTA-Genehmigung, sagt die CBP, auch Säuglinge ohne eigenes Ticket. Jedes Kind braucht außerdem einen eigenen, nicht abgelaufenen Pass, denn ein Kind, das nur im Pass eines Elternteils eingetragen ist, erfüllt die Voraussetzungen nicht.
+Kinder jeden Alters brauchen eine eigene ESTA-Genehmigung, sagt die CBP, auch Säuglinge ohne eigenes Ticket. Jedes Kind braucht außerdem einen eigenen elektronischen Reisepass, denn laut CBP ist ein elektronischer Reisepass erforderlich, um das Visa Waiver Program zu nutzen.
 
 Niemand erwartet, dass ein Kleinkind ein Formular ausfüllt. Ein Elternteil oder jede andere Person kann den Antrag stellvertretend für einen Reisenden stellen, und die ESTA-Website bietet eine Gruppenstatusabfrage für Familien, die gemeinsam beantragt haben. Trotzdem lohnt es sich, jedes Ablaufdatum einzeln zu prüfen, da jedes ESTA an einen anderen Pass gebunden ist und jeder Pass sein eigenes Ablaufdatum hat.
 
@@ -115,7 +115,7 @@ Ja. Die CBP gewährt ein ESTA nur bis zum Ablaufdatum des Passes, mit dem Sie de
 
 ### Muss mein ESTA für meinen gesamten Aufenthalt gültig sein?
 
-Nein. Die CBP sagt, es muss nur bei Ihrer Einreise in die Vereinigten Staaten gültig sein. Läuft es während Ihres Aufenthalts ab, hat das keinen Einfluss auf Ihre Ausreise.
+Nein. Die CBP sagt, es muss nur bei Ihrer Einreise in die Vereinigten Staaten gültig sein. Läuft es während Ihres Aufenthalts ab, brauchen Sie vor Ihrer Ausreise kein neues.
 
 ### Brauchen Kinder ihr eigenes ESTA?
 

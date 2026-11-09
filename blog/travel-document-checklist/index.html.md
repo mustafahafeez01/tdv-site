@@ -34,7 +34,7 @@ Find out whether your passport nationality requires a visa for entry, transit, o
 
 **Book your travel insurance early**
 
-Book travel insurance when you book flights, not a week before departure. Insurance taken out after you've already identified a risk may exclude that specific issue. Make sure the policy covers all travellers, all destinations, and the activities you plan to do.
+Book travel insurance when you book flights, not a week before departure. Make sure the policy covers all travellers, all destinations, and the activities you plan to do.
 
 ![Hand-drawn timeline of travel document checks: check expiry dates at booking, renew if needed three months before, confirm and consolidate one month before, final check the night before](https://traveldocumentvault.com/blog/travel-document-checklist/checklist-timeline.jpg) Four checkpoints between booking and boarding - each one small if you start early.
 

@@ -150,7 +150,7 @@ Bewahren Sie alle Reisepässe zusammen in einer spezialisierten Reisedokumenttas
 
 ### Wie weit im Voraus sollte ich meine Reisedokumente überprüfen?
 
-Überprüfen Sie, bevor Sie Flüge buchen – und mindestens drei Monate vor Ihrer Reise. Reisepassverlängerungen dauern mehrere Wochen – derzeit 4-6 Wochen Routinebearbeitung in den USA und etwa 3 Wochen im Vereinigten Königreich – daher ist das Warten bis kurz vor Ihrer Abreise ein Risiko, das Sie nicht eingehen wollen. Überprüfen Sie die aktuellen Zeiträume bei Ihrer offiziellen Reisepassbehörde. Eine Überprüfung zum Zeitpunkt der Buchung ist die sicherste Gewohnheit, die Sie entwickeln können.
+Überprüfen Sie, bevor Sie Flüge buchen – und mindestens drei Monate vor Ihrer Reise. Reisepassverlängerungen brauchen Zeit, und wie lange, ändert sich. Behörden wie das britische HM Passport Office veröffentlichen ihre aktuelle Bearbeitungszeit – daher ist das Warten bis kurz vor Ihrer Abreise ein Risiko, das Sie nicht eingehen wollen. Überprüfen Sie die aktuellen Zeiträume bei Ihrer offiziellen Reisepassbehörde. Eine Überprüfung zum Zeitpunkt der Buchung ist die sicherste Gewohnheit, die Sie entwickeln können.
 
 ### Benötige ich ein Zustimmungsschreiben, wenn ich allein mit meinem Kind reise?
 

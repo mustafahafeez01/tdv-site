@@ -33,9 +33,9 @@ Satu-satunya pengecualian adalah Brunei: CBP memangkas masa berlaku ESTA bagi wa
 
 ## ESTA Hanya Perlu Berlaku pada Hari Anda Mendarat
 
-CBP menyatakan ESTA perlu berlaku saat tiba di Amerika Serikat, bukan selama seluruh masa tinggal Anda. Jika kedaluwarsa saat Anda masih di sana, hal itu tidak memengaruhi keberangkatan Anda. Perjalanan berikutnya adalah soal lain, dan Anda perlu persetujuan baru sebelum terbang lagi.
+CBP menyatakan ESTA perlu berlaku saat tiba di Amerika Serikat, bukan selama seluruh masa tinggal Anda. Jika kedaluwarsa saat Anda masih di sana, Anda tidak perlu ESTA baru sebelum meninggalkan negara itu. Perjalanan berikutnya adalah soal lain, dan Anda perlu persetujuan baru sebelum terbang lagi.
 
-Begini cara kerjanya. Katakanlah ESTA Anda kedaluwarsa tanggal 10 suatu bulan, dan Anda mendarat tanggal 3 untuk menginap dua minggu. ESTA berlaku saat Anda tiba, dan CBP menyatakan bahwa kedaluwarsa di tengah liburan tidak memengaruhi keberangkatan Anda. Namun jika Anda memesan perjalanan berikutnya setelah tanggal 10, Anda memerlukan ESTA baru terlebih dahulu.
+Begini cara kerjanya. Katakanlah ESTA Anda kedaluwarsa tanggal 10 suatu bulan, dan Anda mendarat tanggal 3 untuk menginap dua minggu. ESTA berlaku saat Anda tiba, dan CBP menyatakan bahwa Anda tidak perlu ESTA baru hanya karena masa berlakunya habis di tengah liburan. Namun jika Anda memesan perjalanan berikutnya setelah tanggal 10, Anda memerlukan ESTA baru terlebih dahulu.
 
 ## ESTA Tidak Bisa Diperpanjang, tapi Anda Bisa Mengajukan Lagi Lebih Awal
 
@@ -56,7 +56,7 @@ Setelah permohonan disetujui, CBP hanya mengizinkan Anda memperbarui dua hal: al
 
 ## Setiap Pelancong Perlu ESTA Sendiri, Termasuk Bayi
 
-Menurut CBP, anak-anak berapa pun usianya perlu persetujuan ESTA sendiri, termasuk bayi yang tidak memiliki tiket sendiri. Setiap anak juga perlu paspor sendiri yang belum kedaluwarsa, karena anak yang hanya tercantum di paspor orang tua tidak memenuhi syarat.
+Menurut CBP, anak-anak berapa pun usianya perlu persetujuan ESTA sendiri, termasuk bayi yang tidak memiliki tiket sendiri. Setiap anak juga perlu paspor elektronik sendiri, karena CBP menyatakan bahwa Anda harus memiliki paspor elektronik untuk menggunakan Visa Waiver Program.
 
 Tidak ada yang mengharapkan anak kecil mengisi formulir sendiri. Orang tua atau siapa pun bisa mengajukan permohonan atas nama pelancong, dan situs web ESTA memiliki pemeriksaan status kelompok untuk keluarga yang mengajukan bersama. Meski begitu, setiap tanggal kedaluwarsa layak diperiksa satu per satu, karena setiap ESTA terkait dengan paspor yang berbeda dan setiap paspor memiliki tanggal kedaluwarsanya sendiri.
 
@@ -115,7 +115,7 @@ Ya. CBP hanya memberikan ESTA sampai tanggal kedaluwarsa paspor yang Anda gunaka
 
 ### Apakah ESTA saya harus berlaku selama seluruh masa tinggal saya?
 
-Tidak. CBP menyatakan ESTA hanya perlu berlaku saat Anda tiba di Amerika Serikat. Jika kedaluwarsa selama masa tinggal Anda, itu tidak memengaruhi keberangkatan Anda.
+Tidak. CBP menyatakan ESTA hanya perlu berlaku saat Anda tiba di Amerika Serikat. Jika kedaluwarsa selama masa tinggal Anda, Anda tidak perlu ESTA baru sebelum meninggalkan negara itu.
 
 ### Apakah anak-anak perlu ESTA sendiri?
 

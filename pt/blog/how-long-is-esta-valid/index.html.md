@@ -33,9 +33,9 @@ A única exceção é o Brunei, para o qual a CBP reduziu o período de validade
 
 ## Só precisa de ser válida no dia em que aterra
 
-A CBP diz que uma ESTA precisa de ser válida na chegada aos Estados Unidos, não durante toda a estadia. Se expirar enquanto está lá, isso não afeta a sua partida. A próxima viagem é outra questão, e vai precisar de uma nova aprovação antes de voar novamente.
+A CBP diz que uma ESTA precisa de ser válida na chegada aos Estados Unidos, não durante toda a estadia. Se expirar enquanto está lá, não precisa de uma nova antes de partir. A próxima viagem é outra questão, e vai precisar de uma nova aprovação antes de voar novamente.
 
-Eis como isso funciona na prática. Suponhamos que a sua ESTA expira no dia 10 de um mês e chega no dia 3 para ficar duas semanas. É válida quando chega, e a CBP diz que expirar a meio das férias não afeta a sua partida. Se reservar a viagem seguinte depois do dia 10, no entanto, vai precisar de uma nova primeiro.
+Eis como isso funciona na prática. Suponhamos que a sua ESTA expira no dia 10 de um mês e chega no dia 3 para ficar duas semanas. É válida quando chega, e a CBP diz que não precisa de uma nova só porque expira a meio das férias. Se reservar a viagem seguinte depois do dia 10, no entanto, vai precisar de uma nova primeiro.
 
 ## Não pode prorrogar uma ESTA, mas pode voltar a pedi-la com antecedência
 
@@ -56,7 +56,7 @@ Depois de o pedido ser aprovado, a CBP só permite atualizar duas coisas: o seu 
 
 ## Cada viajante precisa da sua própria, bebés incluídos
 
-As crianças de qualquer idade precisam da sua própria aprovação de ESTA, diz a CBP, incluindo bebés sem bilhete próprio. Cada criança também precisa do seu próprio passaporte não expirado, porque uma criança apenas inscrita no passaporte de um progenitor não é elegível.
+As crianças de qualquer idade precisam da sua própria aprovação de ESTA, diz a CBP, incluindo bebés sem bilhete próprio. Cada criança também precisa do seu próprio passaporte eletrónico, porque a CBP diz que é necessário ter um passaporte eletrónico para usar o Programa de Isenção de Vistos.
 
 Ninguém espera que uma criança pequena preencha um formulário. Um progenitor, ou qualquer outra pessoa, pode fazer o pedido em nome de um viajante, e o site da ESTA tem uma verificação de estado de grupo para famílias que fizeram o pedido juntas. Ainda assim, vale a pena verificar cada data de validade em separado, já que cada ESTA está associada a um passaporte diferente e cada passaporte tem a sua própria data de validade.
 
@@ -115,7 +115,7 @@ Sim. A CBP só concede uma ESTA até à data de validade do passaporte com que f
 
 ### A minha ESTA tem de ser válida durante toda a minha estadia?
 
-Não. A CBP diz que só precisa de ser válida quando chega aos Estados Unidos. Se expirar durante a sua estadia, isso não afeta a sua partida.
+Não. A CBP diz que só precisa de ser válida quando chega aos Estados Unidos. Se expirar durante a sua estadia, não precisa de uma nova antes de partir.
 
 ### As crianças precisam da sua própria ESTA?
 

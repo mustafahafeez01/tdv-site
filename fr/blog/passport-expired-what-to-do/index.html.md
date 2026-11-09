@@ -92,7 +92,7 @@ La plupart des passeports ont une zone de signature. Un passeport non signé peu
 
 ### 4. Validité insuffisante pour votre destination
 
-La date d'expiration de votre passeport n'est pas le seul seuil qui compte. De nombreux pays exigent qu'il reste valide pendant une période minimale au-delà de votre date d'arrivée prévue — généralement six mois, bien que certains n'exigent que trois mois ou simplement la durée de votre séjour. Arriver avec un passeport techniquement valide qui ne respecte pas cette exigence vous fera refuser l'accès à la frontière, tout comme un passeport expiré le ferait.
+La date d'expiration de votre passeport n'est pas le seul seuil qui compte. Certains pays exigent qu'il reste valide pendant une période minimale, qui n'est pas calculée partout de la même façon : la Thaïlande demande six mois après votre arrivée, tandis que l'espace Schengen demande généralement trois mois après votre départ. Arriver avec un passeport techniquement valide qui ne respecte pas cette exigence peut vous faire refuser l'accès à la frontière, tout comme un passeport expiré.
 
 Cette règle n'est pas appliquée de manière cohérente dans toutes les destinations, ce qui la rend facile à manquer. [La règle des six mois de validité du passeport](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/) explique quels pays l'appliquent et lesquels ne le font pas, avec un exemple travaillé de la façon dont elle est calculée.
 
@@ -145,7 +145,7 @@ Oui. Un passeport qui n'a pas expiré peut toujours être refusé s'il est endom
 
 ### Quelle est la règle des six mois de validité du passeport ?
 
-De nombreux pays exigent que votre passeport reste valide pendant au moins six mois au-delà de votre date d'arrivée prévue. Si votre passeport expire avant cela — même s'il est techniquement toujours valide — vous pouvez être refusé à l'embarquement ou à l'entrée. Tous les pays n'appliquent pas cette règle et le seuil varie. Vérifiez les exigences d'entrée pour votre destination spécifique avant de voyager.
+Certains pays exigent que votre passeport reste valide pendant une période déterminée au-delà de votre voyage. La Thaïlande, par exemple, demande six mois après la date de votre arrivée, tandis que l'espace Schengen demande généralement trois mois après la date de votre départ. Si votre passeport expire avant la limite autorisée par votre destination — même s'il est techniquement toujours valide — vous pouvez être refusé à l'embarquement ou à l'entrée. Vérifiez les exigences d'entrée pour votre destination spécifique avant de voyager.
 
 ### Peut-on renouveler un passeport périmé ?
 

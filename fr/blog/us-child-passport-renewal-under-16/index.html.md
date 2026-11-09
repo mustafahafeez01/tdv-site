@@ -57,7 +57,7 @@ La réglementation permet de délivrer un passeport quand un seul parent signe l
 
 Un passeport délivré avant les 16 ans de l'enfant ne peut toujours pas être renouvelé à 16 ou 17 ans. L'adolescent fait une nouvelle demande de passeport en personne, et la différence est qu'il peut désormais signer sa propre demande.
 
-Un parent a tout de même un rôle à jouer. Le département d'État demande généralement à un parent soit de signer une **déclaration indiquant qu'il a connaissance** de la demande de l'adolescent, soit d'assister au rendez-vous, alors consultez sa page pour les adolescents afin de connaître l'exigence actuelle avant d'y aller. La réglementation permet aussi à l'agent des passeports de demander à tout moment un consentement parental notarié, donc il est utile qu'un parent soit joignable ce jour-là.
+Un parent a tout de même un rôle à jouer. La page du département d'État consacrée aux adolescents précise **ce qui est actuellement demandé aux parents**, alors consultez-la avant d'y aller. La réglementation permet aussi à l'agent des passeports de demander à tout moment un consentement parental notarié, donc il est utile qu'un parent soit joignable ce jour-là.
 
 Le passeport délivré à 16 ou 17 ans est valable dix ans. À son expiration, le jeune, devenu adulte, peut généralement le renouveler par courrier ou en ligne, à condition de remplir les conditions habituelles pour un adulte. Les demandes en personne s'arrêtent là.
 
@@ -89,7 +89,7 @@ La réglementation fédérale sur les passeports exige que les deux parents ou t
 
 ### Que se passe-t-il quand un enfant atteint 16 ans ?
 
-Un passeport délivré avant 16 ans ne peut toujours pas être renouvelé à 16 ou 17 ans. Le jeune fait une nouvelle demande en personne et peut signer sa propre demande. Un parent peut être invité à fournir une déclaration signée indiquant qu'il a connaissance de la demande, ou à assister au rendez-vous. L'agent peut tout de même exiger une déclaration de consentement parental notariée. Un passeport délivré à 16 ou 17 ans est valable dix ans et peut généralement être renouvelé comme celui d'un adulte une fois arrivé à expiration.
+Un passeport délivré avant 16 ans ne peut toujours pas être renouvelé à 16 ou 17 ans. Le jeune fait une nouvelle demande en personne et peut signer sa propre demande. Consultez la page du département d'État consacrée aux adolescents pour savoir ce qui est actuellement demandé à un parent. L'agent peut tout de même exiger une déclaration de consentement parental notariée. Un passeport délivré à 16 ou 17 ans est valable dix ans et peut généralement être renouvelé comme celui d'un adulte une fois arrivé à expiration.
 
 ### Que faire si un parent a la garde exclusive ?
 

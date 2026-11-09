@@ -32,7 +32,7 @@ Den anden er grænsebetjenten, når du lander. Betjentens opgave er at afgøre, 
 
 En bekræftet billet ud af landet er den mest udbredte form. Det kan være en returflyvning eller en flyvning videre til et tredjeland. Det afgørende er, at den afgår, før dit tilladte ophold udløber, og at den går til et sted, du må indrejse i.
 
-Immigration New Zealands vejledning for besøgende giver et godt billede af spændet. Den nævner bekræftede billetter eller billetter med åben dato ud af landet, eller skriftlig bekræftelse fra et flyselskab eller rejsebureau på, at den videre rejse er booket og betalt. Den accepterer også alt, der dokumenterer en bekræftet afrejse, for eksempel at en yacht eller et privatfly forlader landet. Andre rejsemål har deres egne lister, og de stemmer ikke altid overens.
+Immigration New Zealands vejledning for besøgende giver et godt billede af spændet. For visumfri rejsende kræver den en billet ud af New Zealand, som er betalt før rejsen, og for dem, der rejser ud med et privat fartøj eller et krydstogtskib, accepterer den et brev fra fartøjets ejer eller en krydstogtrejseplan. Til et besøgsvisum accepterer den en flybillet, dokumentation for, at du har penge til at købe en, eller en sponsors tilsagn om at betale. Andre rejsemål har deres egne lister, og de stemmer ikke altid overens.
 
 En **hotelbooking** og et **kontoudtog** kommer også ofte på tale, men de besvarer forskellige spørgsmål. Den ene viser, hvor du skal bo, og den anden viser, at du kan betale for dig selv. En grænsebetjent kan bede om det ene eller det andet, men ingen af dem erstatter normalt en billet ud.
 

@@ -30,7 +30,7 @@ The issued-within-10-years condition catches UK families in a specific way. Olde
 
 ## Why This Is Not the 6-Month Rule
 
-Most travellers absorb the idea that passports need six months of validity to go anywhere. That rule is real: [Thailand asks for six months of validity](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), and many other countries apply a version of it. But Schengen doesn't. Schengen generally asks for three months beyond departure, which is gentler, and yet the two get blended into a vague "six months from somewhere" that produces both false alarm and false confidence.
+Most travellers absorb the idea that passports need six months of validity to go anywhere. That rule is real: [Thailand asks for six months of validity](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), and some other countries apply a version of it. But Schengen doesn't. Schengen generally asks for three months beyond departure, which is gentler, and yet the two get blended into a vague "six months from somewhere" that produces both false alarm and false confidence.
 
 Our guide to [the 6-month rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/) covers which countries actually enforce it. Our [passport validity explainer](https://traveldocumentvault.com/blog/how-long-is-passport-valid-for-travel/) handles the general case. If your family holds EU or EEA nationality, our guide to [when an EEA national ID card is enough](https://traveldocumentvault.com/blog/national-id-card-travel-europe/) covers trips inside Europe without a passport. We're staying with Schengen here because that's where families most often get the maths subtly wrong.
 

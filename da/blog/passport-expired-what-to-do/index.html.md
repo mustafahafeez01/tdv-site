@@ -92,7 +92,7 @@ De fleste pas har et underskriftsfelt. Et usigneret pas kan skabe problemer ved 
 
 ### 4. Utilstrækkelig gyldighed for din destination
 
-Dit pas' udløbsdato er ikke den eneste grænse, der betyder noget. Mange lande kræver, at det forbliver gyldigt i en minimumsperiode ud over din ankomstdato – typisk seks måneder, selvom nogle kun kræver tre måneder eller blot varigheden af dit ophold. At ankomme med et teknisk gyldigt pas, der ikke opfylder dette krav, får dig afvist ved grænsen, ligesom et udløbet pas ville.
+Dit pas' udløbsdato er ikke den eneste grænse, der betyder noget. Nogle lande kræver, at det forbliver gyldigt i en minimumsperiode, og den beregnes ikke ens overalt: Thailand kræver seks måneder efter din ankomst, mens Schengenområdet generelt kræver tre måneder efter din afrejse. At ankomme med et teknisk gyldigt pas, der ikke opfylder dette krav, kan føre til afvisning ved grænsen, ligesom med et udløbet pas.
 
 Denne regel anvendes ikke ensartet på tværs af alle destinationer, hvilket gør den let at overse. [6-måneders-reglen for pas](https://traveldocumentvault.com/da/blog/passport-expiry-6-month-rule/) forklarer, hvilke lande der håndhæver den, og hvilke der ikke gør, med et gennemregnet eksempel på, hvordan den beregnes.
 
@@ -145,7 +145,7 @@ Ja. Et pas, der ikke er udløbet, kan stadig blive afvist, hvis det er beskadige
 
 ### Hvad er 6-måneders-reglen for pas?
 
-Mange lande kræver, at dit pas forbliver gyldigt i mindst seks måneder efter din planlagte ankomstdato. Hvis dit pas udløber tidligere end det – selvom det teknisk set stadig er gyldigt – kan du blive nægtet boarding eller indrejse. Ikke alle lande håndhæver reglen, og grænsen varierer. Tjek kravene for din specifikke destination, før du rejser.
+Nogle lande kræver, at dit pas forbliver gyldigt i en bestemt periode ud over din rejse. Thailand kræver for eksempel seks måneder efter ankomstdatoen, mens Schengenområdet generelt kræver tre måneder efter afrejsedatoen. Hvis dit pas udløber tidligere, end din destination tillader – selvom det teknisk set stadig er gyldigt – kan du blive nægtet boarding eller indrejse. Tjek kravene for din specifikke destination, før du rejser.
 
 ### Kan man fornye et udløbet pas?
 

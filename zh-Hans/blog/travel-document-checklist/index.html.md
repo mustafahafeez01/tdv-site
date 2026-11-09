@@ -34,7 +34,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/travel-document-checklist/
 
 **尽早预订旅行保险**
 
-在预订航班时预订旅行保险，而不是提前一周。在您已经识别出风险后购买的保险可能不包括该特定问题。确保该政策涵盖所有旅客、所有目的地以及您计划进行的活动。
+在预订航班时预订旅行保险，而不是提前一周。确保该政策涵盖所有旅客、所有目的地以及您计划进行的活动。
 
 ![旅行文件检查时间线示意图：预订时检查到期日期，出发前3个月需要则续签，出发前1个月确认并整理文件，出发前一晚进行最后检查](https://traveldocumentvault.com/blog/travel-document-checklist/checklist-timeline-zh-Hans.jpg) 预订到登机之间的四个检查点——提前开始，每一步都很轻松。
 

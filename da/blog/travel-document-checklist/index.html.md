@@ -34,7 +34,7 @@ Find ud af, om dit statsborgerskab kræver visum til indrejse, transit, eller be
 
 **Book jeres rejseforsikring tidligt**
 
-Book rejseforsikring, når du booker flyrejser, ikke en uge før afrejse. Forsikring tegnet efter du allerede har identificeret en risiko, kan udelukke netop det problem. Sørg for, at policen dækker alle rejsende, alle destinationer, og de aktiviteter, I planlægger at lave.
+Book rejseforsikring, når du booker flyrejser, ikke en uge før afrejse. Sørg for, at policen dækker alle rejsende, alle destinationer, og de aktiviteter, I planlægger at lave.
 
 ![Tidslinjediagram over tjek af rejsedokumenter: tjek udløbsdatoer ved booking, forny hvis nødvendigt tre måneder før, bekræft og saml alt en måned før, sidste tjek aftenen før](https://traveldocumentvault.com/blog/travel-document-checklist/checklist-timeline-da.jpg) Fire kontrolpunkter mellem booking og boarding – hver af dem lille, hvis du starter i god tid.
 

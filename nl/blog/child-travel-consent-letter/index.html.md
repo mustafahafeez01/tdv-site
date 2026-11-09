@@ -13,7 +13,7 @@ Source: https://traveldocumentvault.com/nl/blog/child-travel-consent-letter/
 - De eisen verschillen sterk per land. **Een brief die werkt voor de ene bestemming, wordt elders mogelijk niet geaccepteerd.**
 - Canada **raadt sterk aan dat een notaris getuige is van de ondertekening**.
 - Een brief bevat doorgaans de volledige naam van het kind, geboortedatum, paspoortnummer, exacte reisdata, bestemmingen en contactgegevens van de afwezige ouder.
-- Veelvoorkomende afwijzingen komen door ontbrekende informatie, geen notarisatie, verouderde handtekeningen of onverifieerbare contactnummers.
+- Veelvoorkomende afwijzingen komen door ontbrekende informatie, geen notarisatie of verouderde handtekeningen.
 - Neem het ondertekende origineel mee als hoofddocument, en bewaar een versleutelde digitale back-up voor noodgevallen.
 
 Een toestemmingsbrief heeft aan de incheckbalie één taak: laten zien dat de volwassene die met het kind reist de instemming heeft van de afwezige ouder. De meeste worden zonder opmerking geaccepteerd.
@@ -73,7 +73,7 @@ Notariskosten verschillen per land en per notaris, en afhankelijk van hoe snel j
 
 Zelfs goed voorbereide gezinnen maken fouten die tot afwijzing aan de grens leiden. De meest voorkomende:
 
-1. **Verkeerd of onverifieerbaar contactnummer.** Als de telefoon geen verbinding maakt, of de persoon die opneemt de toestemming niet kan bevestigen, verliest de brief zijn geloofwaardigheid.
+1. **Een contactnummer waarop niemand opneemt.** Een grensbeambte of luchtvaartmaatschappij wil misschien de afwezige ouder bereiken, dus geef een nummer op waarop iemand zal opnemen.
 2. **Vage reisdata.** Uitdrukkingen als "zomer 2026" zijn te vaag. Gebruik exacte vertrek- en terugkeerdata.
 3. **Niet ondertekend door de afwezige ouder.** Een brief die alleen door de reizende ouder is ondertekend, is waardeloos. Beide ouders (of voogden) moeten ondertekenen als beiden ouderlijk gezag hebben.
 4. **Ontbrekende notarisatie wanneer vereist.** Wordt een brief met een getuige bij de ondertekening gevraagd, dan kan een brief zonder getuige worden geweigerd.
@@ -116,7 +116,7 @@ Loop in de dagen voor vertrek deze checklist door:
 - Bevestig dat alle namen (inclusief tweede voornamen), paspoortnummers en data overeenkomen tussen de documenten.
 - Controleer of alle vereiste handtekeningen aanwezig, gedateerd zijn en overeenkomen met de genoemde ouder.
 - Controleer bij notarisatie of het zegel, de stempel, handtekening en datum duidelijk zijn.
-- Bevestig dat het contactnummer van de afwezige ouder klopt en dat diegene bereikbaar is voor verificatiegesprekken.
+- Bevestig dat het contactnummer van de afwezige ouder klopt en dat diegene tijdens je reis bereikbaar is.
 - Neem het ondertekende origineel mee in een beschermhoes in je reisdocumentenmap.
 - Bewaar een versleutelde gescande kopie als digitale back-up.
 - Als het paspoort van je kind vóór de reis wordt vernieuwd, vraag dan een nieuwe brief aan met het nieuwe paspoortnummer.

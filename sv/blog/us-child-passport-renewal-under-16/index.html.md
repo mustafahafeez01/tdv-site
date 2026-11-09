@@ -57,7 +57,7 @@ Bestämmelserna tillåter att ett pass utfärdas när bara en förälder underte
 
 Ett pass som utfärdades innan barnet fyllde 16 kan fortfarande inte förnyas vid 16 eller 17 år. Tonåringen ansöker om ett nytt pass personligen, och skillnaden nu är att de själva får underteckna sin egen ansökan.
 
-En förälder har fortfarande en roll att spela. State Department ber i regel en förälder antingen skriva under en **förklaring om att de är medvetna** om att tonåringen ansöker, eller följa med till mötet, så kontrollera dess sida för tonåringar för aktuella krav innan du går. Bestämmelserna låter också passtjänstemannen begära en förälders bevittnade samtycke när som helst, så det är värt att ha en förälder nåbar den dagen.
+En förälder har fortfarande en roll att spela. State Departments sida för tonåringar beskriver **vad som för närvarande krävs av föräldrar**, så kontrollera den innan du går. Bestämmelserna låter också passtjänstemannen begära en förälders bevittnade samtycke när som helst, så det är värt att ha en förälder nåbar den dagen.
 
 Passet som utfärdas vid 16 eller 17 år är giltigt i tio år. När det går ut kan den unga personen, nu vuxen, oftast förnya det per post eller online, förutsatt att de uppfyller de vanliga vuxenvillkoren. De personliga ansökningarna slutar där.
 
@@ -89,7 +89,7 @@ Federala passbestämmelser kräver att båda föräldrarna eller vårdnadshavarn
 
 ### Vad händer när ett barn fyller 16?
 
-Ett pass som utfärdades före 16 år kan fortfarande inte förnyas när barnet fyller 16 eller 17. Den unga personen ansöker personligen om ett nytt pass och kan skriva under sin egen ansökan. En förälder kan bli ombedd att lämna en undertecknad förklaring om att de är medvetna om ansökan, eller att följa med till mötet. Tjänstemannen kan fortfarande kräva en bevittnad förklaring om föräldrasamtycke. Ett pass som utfärdas vid 16 eller 17 år är giltigt i tio år och kan oftast förnyas som en vuxens när det går ut.
+Ett pass som utfärdades före 16 år kan fortfarande inte förnyas när barnet fyller 16 eller 17. Den unga personen ansöker personligen om ett nytt pass och kan skriva under sin egen ansökan. Kontrollera State Departments sida för tonåringar för att se vad som för närvarande krävs av en förälder. Tjänstemannen kan fortfarande kräva en bevittnad förklaring om föräldrasamtycke. Ett pass som utfärdas vid 16 eller 17 år är giltigt i tio år och kan oftast förnyas som en vuxens när det går ut.
 
 ### Vad gäller om en förälder har ensam juridisk vårdnad?
 

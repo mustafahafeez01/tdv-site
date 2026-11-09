@@ -13,7 +13,7 @@ Source: https://traveldocumentvault.com/es/blog/child-travel-consent-letter/
 - Los requisitos varían significativamente según el país. **Una carta que funciona en un destino puede no ser aceptada en otro.**
 - Canadá **recomienda encarecidamente que un notario público presencie la firma**.
 - La carta suele incluir el nombre completo del menor, fecha de nacimiento, número de pasaporte, fechas exactas de viaje, destinos y datos de contacto del progenitor ausente.
-- Los rechazos frecuentes provienen de información faltante, falta de autenticación notarial, firmas desactualizadas o números de contacto no verificables.
+- Los rechazos frecuentes provienen de información faltante, falta de autenticación notarial o firmas desactualizadas.
 - Lleva una copia impresa como documento principal y mantén una copia de seguridad digital cifrada para emergencias.
 
 Una carta de consentimiento cumple una sola función en el mostrador de la aerolínea: demuestra que el adulto que viaja con un menor cuenta con el acuerdo del progenitor ausente. La mayoría se aceptan sin comentarios.
@@ -73,7 +73,7 @@ Las tarifas notariales varían según el país y el notario, y según la rapidez
 
 Incluso familias bien preparadas cometen errores que llevan al rechazo en la frontera. Los más frecuentes:
 
-1. **Número de contacto incorrecto o no verificable.** Si el teléfono no conecta, o la persona que responde no puede verificar el consentimiento, la carta pierde credibilidad.
+1. **Un número de contacto al que nadie responde.** Un agente fronterizo o una aerolínea puede querer contactar con el progenitor ausente, así que facilita un número en el que alguien vaya a responder.
 2. **Fechas de viaje vagas.** Frases como "verano de 2026" son demasiado amplias. Usa fechas exactas de salida y regreso.
 3. **No firmada por el progenitor ausente.** Una carta firmada solo por el progenitor que viaja es inútil. Ambos progenitores (o tutores legales) deben firmar si ambos tienen custodia legal.
 4. **Falta de autenticación notarial cuando sea requerida.** Si se pide una carta firmada ante testigo, pueden rechazar una que no lo esté.
@@ -116,7 +116,7 @@ En los días antes de la salida, repasa esta lista de verificación:
 - Comprueba que todos los nombres, números de pasaporte y fechas coincidan exactamente.
 - Asegúrate de que todas las firmas están presentes, fechadas y son del progenitor correcto.
 - Si está legalizada, verifica que el sello y firma del notario sean claros y legibles.
-- Confirma que el número de contacto sea correcto y que estén disponibles para una verificación por teléfono.
+- Confirma que el número de contacto del progenitor ausente sea correcto y que esté localizable mientras viajas.
 - Lleva una copia impresa protegida en tu carpeta de documentos de viaje.
 - Guarda una copia digital cifrada como respaldo.
 - Si renuevan el pasaporte antes de viajar, obtén una carta nueva con el número nuevo.

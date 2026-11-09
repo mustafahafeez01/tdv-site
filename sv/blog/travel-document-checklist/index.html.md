@@ -34,7 +34,7 @@ Ta reda på om ditt medborgarskap kräver visum för inresa, transit, eller båd
 
 **Boka reseförsäkringen tidigt**
 
-Boka reseförsäkring samtidigt som du bokar flyget, inte en vecka innan avresa. Försäkring som tecknas efter att du redan har identifierat en risk kan undanta just den frågan. Se till att försäkringen täcker alla resenärer, alla destinationer, och de aktiviteter du planerar att göra.
+Boka reseförsäkring samtidigt som du bokar flyget, inte en vecka innan avresa. Se till att försäkringen täcker alla resenärer, alla destinationer, och de aktiviteter du planerar att göra.
 
 ![Tidslinjediagram över kontroller av resehandlingar: kontrollera utgångsdatum vid bokning, förnya om det behövs tre månader innan, bekräfta och samla ihop en månad innan, sista kontroll kvällen innan](https://traveldocumentvault.com/blog/travel-document-checklist/checklist-timeline-sv.jpg) Fyra kontrollpunkter mellan bokning och ombordstigning - var och en liten om du börjar tidigt.
 

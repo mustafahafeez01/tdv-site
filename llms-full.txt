@@ -314,7 +314,7 @@ Source: https://traveldocumentvault.com/blog/child-travel-consent-letter/
 - Requirements vary significantly by country. **A letter that works for one destination may not be accepted elsewhere.**
 - Canada **strongly recommends a notary public witness the signature**.
 - A letter usually includes the child's full name, date of birth, passport number, exact travel dates, destinations, and contact details for the absent parent.
-- Common rejections come from missing information, lack of notarisation, outdated signatures, or unverifiable contact numbers.
+- Common rejections come from missing information, lack of notarisation or outdated signatures.
 - Carry a printed copy as the primary document, and keep an encrypted digital backup for emergencies.
 
 A consent letter does one job at the airline desk: it shows that the adult travelling with a child has the absent parent's agreement. Most are accepted without comment.
@@ -376,7 +376,7 @@ Notary fees vary by country and by notary, and by how quickly you need an appoin
 
 Even well-prepared families trip up in predictable ways. These are the most frequent:
 
-1. **Wrong or unverifiable contact number.** If the phone does not connect, or the person who answers cannot verify consent, the letter loses credibility.
+1. **A contact number no one answers.** A border officer or airline may want to reach the absent parent, so give a number that will be answered.
 2. **Vague travel dates.** Phrases like "summer 2026" are too broad. Use exact departure and return dates.
 3. **Unsigned by the absent parent.** A letter signed only by the travelling parent is worthless. Both parents (or legal guardians) must sign if both have legal custody.
 4. **Missing notarisation when required.** Where a witnessed letter is asked for, an unwitnessed one may be refused.
@@ -417,7 +417,7 @@ In the days before departure, run through this checklist:
 - Confirm all names (including middle names), passport numbers, and dates match across documents.
 - Check that all required signatures are present, dated, and match the named parent.
 - If notarised, verify the seal, stamp, signature, and date are clear.
-- Confirm the absent parent's contact number is correct and they will be available to take verification calls.
+- Confirm the absent parent's contact number is correct and they will be reachable while you travel.
 - Carry a printed copy in a protective sleeve in your travel documents folder.
 - Store an encrypted scanned copy as a digital backup.
 - If your child's passport is renewed before travel, obtain a fresh letter showing the new passport number.
@@ -1361,9 +1361,9 @@ The one exception is Brunei, where CBP has cut the validity period for citizens 
 
 ## It only has to be valid on the day you land
 
-CBP says an ESTA needs to be valid on arrival in the United States, not for your whole stay. If it expires while you're there, that won't affect your departure. The next trip is a different matter, and you'll need a fresh approval before you fly again.
+CBP says an ESTA needs to be valid on arrival in the United States, not for your whole stay. If it expires while you're there, you don't need a new one before you leave. The next trip is a different matter, and you'll need a fresh approval before you fly again.
 
-Here's how that plays out. Say your ESTA expires on the 10th of a month and you land on the 3rd for a fortnight. It's valid when you arrive, and CBP says it running out halfway through the holiday won't affect your departure. Book the next trip after the 10th, though, and you'll need a new one first.
+Here's how that plays out. Say your ESTA expires on the 10th of a month and you land on the 3rd for a fortnight. It's valid when you arrive, and CBP says you don't need a new one just because it runs out halfway through the holiday. Book the next trip after the 10th, though, and you'll need a new one first.
 
 ## You can't extend an ESTA, but you can reapply early
 
@@ -1384,7 +1384,7 @@ Once an application is approved, CBP lets you update only two things: your email
 
 ## Every traveller needs their own, including babies
 
-Children of any age need their own ESTA approval, CBP says, including infants who don't have a ticket of their own. Each child also needs their own unexpired passport, because a child who's only listed on a parent's passport doesn't qualify.
+Children of any age need their own ESTA approval, CBP says, including infants who don't have a ticket of their own. Each child also needs their own e-passport, because CBP says you must have an e-passport to use the Visa Waiver Program.
 
 Nobody expects a toddler to fill in a form. A parent or anyone else can apply on a traveller's behalf, and the ESTA website has a group status check for families who applied together. Still, each expiry date is worth checking separately, since each ESTA is tied to a different passport and every passport has its own expiry date.
 
@@ -1449,7 +1449,7 @@ Yes. CBP only grants an ESTA up to the expiry date of the passport you applied w
 
 ### Does my ESTA need to be valid for my whole stay?
 
-No. CBP says it only needs to be valid when you arrive in the United States. If it expires during your stay, that won't affect your departure.
+No. CBP says it only needs to be valid when you arrive in the United States. If it expires during your stay, you don't need a new one before you leave.
 
 ### Do children need their own ESTA?
 
@@ -1761,7 +1761,7 @@ Keep all passports together in a dedicated travel wallet or document pouch, in t
 
 ### How far in advance should I check travel documents?
 
-Check before you book flights - and at minimum three months before you travel. Passport renewals take time, and how much changes. The US State Department and HM Passport Office each publish their current figure - so leaving it until you're close to your departure date is a gamble you don't want to take. Check your official passport authority for current times. Checking at booking time is the safest habit to build.
+Check before you book flights - and at minimum three months before you travel. Passport renewals take time, and how much changes. Passport authorities such as HM Passport Office publish their current figure - so leaving it until you're close to your departure date is a gamble you don't want to take. Check your official passport authority for current times. Checking at booking time is the safest habit to build.
 
 ### Do I need a consent letter when travelling alone with my child?
 
@@ -2575,7 +2575,7 @@ Most passports have a signature panel. Many passports have a signature panel, an
 
 ### 4. Insufficient validity for your destination
 
-Your passport's expiry date is not the only threshold that matters. Many countries require it to remain valid for a minimum period beyond your arrival date, typically six months, though some require only three months or simply the duration of your stay. Arriving with a technically valid passport that doesn't meet this requirement will get you turned away at the border, just like an expired passport would.
+Your passport's expiry date is not the only threshold that matters. Some countries require it to remain valid for a minimum period, and it isn't measured the same way everywhere: Thailand asks for six months after you arrive, while the Schengen area generally asks for three months after you leave. Arriving with a technically valid passport that doesn't meet this requirement can get you turned away at the border, just like an expired passport would.
 
 This rule is not applied consistently across all destinations, which makes it easy to miss. [The six-month passport rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/) explains which countries enforce it and which do not, with a worked example of how it is calculated.
 
@@ -2634,7 +2634,7 @@ Yes. A passport that has not expired can still be refused if it is damaged, if t
 
 ### What is the six-month passport rule?
 
-Many countries require your passport to remain valid for at least six months beyond your planned arrival date. If your passport expires sooner than that - even if it is technically still valid - you may be denied boarding or entry. Not every country enforces this rule, and the threshold varies. Check the requirements for your specific destination before you travel.
+Some countries require your passport to remain valid for a set period beyond your trip. Thailand, for example, asks for six months after the date you arrive, while the Schengen area generally asks for three months after the date you leave. If your passport expires sooner than your destination allows - even if it is technically still valid - you may be denied boarding or entry. Check the requirements for your specific destination before you travel.
 
 ### Can you renew an out-of-date passport?
 
@@ -3174,7 +3174,7 @@ The other is the border officer when you land. Their job is to decide whether to
 
 A confirmed ticket out of the country is the form most widely understood. It can be a return flight or a flight on to a third country. What matters is that it leaves before your permitted stay ends and goes somewhere you're allowed to enter.
 
-Immigration New Zealand's guidance for visitors gives a useful picture of the range. It lists confirmed or open-dated tickets out of the country, or written confirmation from an airline or travel agency that onward travel is booked and paid for. It also accepts anything that shows a confirmed departure, such as a yacht or private aircraft leaving. Other destinations set their own lists, and they don't all match.
+Immigration New Zealand's guidance for visitors gives a useful picture of the range. For visa waiver travellers it asks for a ticket out of New Zealand, paid for before you travel, and for those leaving on a private craft or cruise ship it accepts a letter from the craft owner or a cruise itinerary. For a visitor visa it accepts a plane ticket, proof you have the money to buy one, or a sponsor's agreement to pay. Other destinations set their own lists, and they don't all match.
 
 A **hotel booking** and a **bank statement** come up often too, but they answer different questions. One shows where you'll stay, and the other shows you can pay your way. A border officer may ask for either, though neither typically stands in for a ticket out.
 
@@ -3750,7 +3750,7 @@ The issued-within-10-years condition catches UK families in a specific way. Olde
 
 ## Why This Is Not the 6-Month Rule
 
-Most travellers absorb the idea that passports need six months of validity to go anywhere. That rule is real: [Thailand asks for six months of validity](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), and many other countries apply a version of it. But Schengen doesn't. Schengen generally asks for three months beyond departure, which is gentler, and yet the two get blended into a vague "six months from somewhere" that produces both false alarm and false confidence.
+Most travellers absorb the idea that passports need six months of validity to go anywhere. That rule is real: [Thailand asks for six months of validity](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), and some other countries apply a version of it. But Schengen doesn't. Schengen generally asks for three months beyond departure, which is gentler, and yet the two get blended into a vague "six months from somewhere" that produces both false alarm and false confidence.
 
 Our guide to [the 6-month rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/) covers which countries actually enforce it. Our [passport validity explainer](https://traveldocumentvault.com/blog/how-long-is-passport-valid-for-travel/) handles the general case. If your family holds EU or EEA nationality, our guide to [when an EEA national ID card is enough](https://traveldocumentvault.com/blog/national-id-card-travel-europe/) covers trips inside Europe without a passport. We're staying with Schengen here because that's where families most often get the maths subtly wrong.
 
@@ -3999,7 +3999,7 @@ Find out whether your passport nationality requires a visa for entry, transit, o
 
 **Book your travel insurance early**
 
-Book travel insurance when you book flights, not a week before departure. Insurance taken out after you've already identified a risk may exclude that specific issue. Make sure the policy covers all travellers, all destinations, and the activities you plan to do.
+Book travel insurance when you book flights, not a week before departure. Make sure the policy covers all travellers, all destinations, and the activities you plan to do.
 
 ![Hand-drawn timeline of travel document checks: check expiry dates at booking, renew if needed three months before, confirm and consolidate one month before, final check the night before](https://traveldocumentvault.com/blog/travel-document-checklist/checklist-timeline.jpg) Four checkpoints between booking and boarding - each one small if you start early.
 
@@ -5188,7 +5188,7 @@ The regulations allow a passport to be issued when only one parent executes the 
 
 A passport issued before the child turned 16 still can't be renewed at 16 or 17. The teenager applies for a new passport in person, and the difference now is that they can execute, or sign, their own application.
 
-A parent still has a part to play. The State Department generally asks a parent to either sign a **statement saying they are aware** the teenager is applying, or attend the appointment, so check its teen page for the current requirement before you go. The regulations also let the passport officer ask for a parent's notarised consent at any time, so it's worth having a parent reachable on the day.
+A parent still has a part to play. The State Department's teen page sets out **what it currently asks of parents**, so check it before you go. The regulations also let the passport officer ask for a parent's notarised consent at any time, so it's worth having a parent reachable on the day.
 
 The passport issued at 16 or 17 is valid for ten years. When it runs out, the young person, now an adult, can generally renew it by mail or online, provided they meet the usual adult conditions. The in-person reapplications end there.
 
@@ -5226,7 +5226,7 @@ Federal passport regulations require both parents or guardians to execute the ap
 
 ### What happens when a child turns 16?
 
-A passport issued before age 16 still cannot be renewed when the child turns 16 or 17. The young person applies in person for a new passport and can sign their own application. A parent may be asked to provide a signed statement saying they are aware of the application, or to attend the appointment. The officer may still require a notarised statement of parental consent. A passport issued at 16 or 17 is valid for ten years and can generally be renewed like an adult's once it runs out.
+A passport issued before age 16 still cannot be renewed when the child turns 16 or 17. The young person applies in person for a new passport and can sign their own application. Check the State Department's teen page for what it currently asks of a parent. The officer may still require a notarised statement of parental consent. A passport issued at 16 or 17 is valid for ten years and can generally be renewed like an adult's once it runs out.
 
 ### What if one parent has sole legal custody?
 

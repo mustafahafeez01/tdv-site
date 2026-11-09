@@ -156,7 +156,7 @@ Keep all passports together in a dedicated travel wallet or document pouch, in t
 
 ### How far in advance should I check travel documents?
 
-Check before you book flights - and at minimum three months before you travel. Passport renewals take time, and how much changes. The US State Department and HM Passport Office each publish their current figure - so leaving it until you're close to your departure date is a gamble you don't want to take. Check your official passport authority for current times. Checking at booking time is the safest habit to build.
+Check before you book flights - and at minimum three months before you travel. Passport renewals take time, and how much changes. Passport authorities such as HM Passport Office publish their current figure - so leaving it until you're close to your departure date is a gamble you don't want to take. Check your official passport authority for current times. Checking at booking time is the safest habit to build.
 
 ### Do I need a consent letter when travelling alone with my child?
 

@@ -33,9 +33,9 @@ Den ene undtagelse er Brunei, hvor CBP har skåret gyldighedsperioden for landet
 
 ## Det skal kun være gyldigt den dag, du lander
 
-CBP siger, at et ESTA skal være gyldigt ved ankomst til USA, ikke for hele dit ophold. Udløber det, mens du er der, påvirker det ikke din afrejse. Den næste rejse er en anden sag, og du får brug for en ny godkendelse, før du flyver igen.
+CBP siger, at et ESTA skal være gyldigt ved ankomst til USA, ikke for hele dit ophold. Udløber det, mens du er der, behøver du ikke at få et nyt inden din afrejse. Den næste rejse er en anden sag, og du får brug for en ny godkendelse, før du flyver igen.
 
-Sådan ser det ud i praksis. Sig, at dit ESTA udløber den 10. i en måned, og at du lander den 3. og bliver i to uger. Det er gyldigt, når du ankommer, og CBP siger, at hvis det udløber midt i ferien, påvirker det ikke din afrejse. Booker du derimod den næste rejse efter den 10., skal du have et nyt først.
+Sådan ser det ud i praksis. Sig, at dit ESTA udløber den 10. i en måned, og at du lander den 3. og bliver i to uger. Det er gyldigt, når du ankommer, og CBP siger, at du ikke behøver et nyt, bare fordi det udløber midt i ferien. Booker du derimod den næste rejse efter den 10., skal du have et nyt først.
 
 ## Du kan ikke forlænge et ESTA, men du kan ansøge igen tidligt
 
@@ -56,7 +56,7 @@ Når en ansøgning er godkendt, lader CBP dig kun opdatere to ting: din mailadre
 
 ## Hver rejsende skal have sit eget, også babyer
 
-Børn i alle aldre skal have deres egen ESTA-godkendelse, siger CBP, inklusive babyer uden egen billet. Hvert barn skal også have sit eget gyldige pas, fordi et barn, der kun er opført i en forælders pas, ikke opfylder kravene.
+Børn i alle aldre skal have deres egen ESTA-godkendelse, siger CBP, inklusive babyer uden egen billet. Hvert barn skal også have sit eget e-pas, fordi CBP siger, at man skal have et e-pas for at bruge Visa Waiver Program.
 
 Ingen forventer, at et lille barn udfylder en formular. En forælder eller enhver anden kan ansøge på en rejsendes vegne, og ESTA-hjemmesiden har et gruppestatus-tjek for familier, der ansøgte sammen. Alligevel er det værd at tjekke hver udløbsdato separat, da hvert ESTA er knyttet til et andet pas, og hvert pas har sin egen udløbsdato.
 
@@ -115,7 +115,7 @@ Ja. CBP giver kun et ESTA op til udløbsdatoen for det pas, du ansøgte med. Nå
 
 ### Skal mit ESTA være gyldigt i hele mit ophold?
 
-Nej. CBP siger, at det kun skal være gyldigt, når du ankommer til USA. Udløber det under dit ophold, påvirker det ikke din afrejse.
+Nej. CBP siger, at det kun skal være gyldigt, når du ankommer til USA. Udløber det under dit ophold, behøver du ikke at få et nyt inden din afrejse.
 
 ### Skal børn have deres eget ESTA?
 

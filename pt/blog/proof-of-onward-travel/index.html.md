@@ -32,7 +32,7 @@ A outra é o agente de fronteira, quando aterra. O trabalho dele é decidir se o
 
 Um bilhete confirmado de saída do país é a forma mais amplamente reconhecida. Pode ser um voo de regresso ou um voo para um terceiro país. O que importa é que parta antes de a estadia permitida terminar e vá para um sítio onde pode entrar.
 
-As orientações da Immigration New Zealand para visitantes dão uma boa ideia do leque de opções. Incluem bilhetes confirmados ou com data aberta de saída do país, ou confirmação escrita de uma companhia aérea ou agência de viagens de que a continuação de viagem está reservada e paga. Também aceitam qualquer prova de uma partida confirmada, como a saída de um iate ou avião privado. Outros destinos têm as suas próprias listas, e nem todas coincidem.
+As orientações da Immigration New Zealand para visitantes dão uma boa ideia do leque de opções. Para viajantes isentos de visto, exigem um bilhete de saída da Nova Zelândia pago antes da viagem e, para quem sai numa embarcação privada ou num navio de cruzeiro, aceitam uma carta do proprietário da embarcação ou um itinerário de cruzeiro. Para um visto de visitante, aceitam um bilhete de avião, prova de que tem dinheiro para o comprar ou o compromisso de um patrocinador de o pagar. Outros destinos têm as suas próprias listas, e nem todas coincidem.
 
 Uma **reserva de hotel** e um **extrato bancário** também surgem com frequência, mas respondem a perguntas diferentes. Uma mostra onde vai ficar, e o outro mostra que tem como se sustentar. Um agente de fronteira pode pedir qualquer um dos dois, embora normalmente nenhum substitua um bilhete de saída.
 

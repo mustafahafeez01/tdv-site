@@ -92,7 +92,7 @@ Banyak paspor memiliki kolom tanda tangan, dan paspor yang belum ditandatangani 
 
 ### 4. Sisa masa berlaku yang tidak cukup untuk negara tujuan
 
-Tanggal kedaluwarsa paspor Anda bukan satu-satunya batas yang penting. Banyak negara mewajibkan paspor tetap berlaku selama periode minimum setelah tanggal kedatangan — biasanya enam bulan, meskipun beberapa negara hanya mensyaratkan tiga bulan atau sekadar durasi masa tinggal Anda. Tiba dengan paspor yang secara teknis masih berlaku tetapi tidak memenuhi syarat ini akan membuat Anda ditolak di perbatasan, sama seperti paspor yang benar-benar kedaluwarsa.
+Tanggal kedaluwarsa paspor Anda bukan satu-satunya batas yang penting. Beberapa negara mewajibkan paspor tetap berlaku selama periode minimum, dan cara menghitungnya tidak sama di semua negara: Thailand meminta enam bulan setelah Anda tiba, sedangkan wilayah Schengen umumnya meminta tiga bulan setelah Anda meninggalkan wilayah tersebut. Tiba dengan paspor yang secara teknis masih berlaku tetapi tidak memenuhi syarat ini dapat membuat Anda ditolak di perbatasan, sama seperti paspor yang benar-benar kedaluwarsa.
 
 Aturan ini tidak diterapkan secara konsisten di semua negara tujuan, sehingga mudah terlewat. [Aturan paspor 6 bulan](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/) menjelaskan negara mana yang menerapkannya dan mana yang tidak, lengkap dengan contoh perhitungan cara kerjanya.
 
@@ -145,7 +145,7 @@ Bisa. Paspor yang belum kedaluwarsa tetap bisa ditolak jika rusak, jika nama tid
 
 ### Apa itu aturan paspor enam bulan?
 
-Banyak negara mensyaratkan paspor Anda tetap berlaku setidaknya enam bulan setelah tanggal kedatangan yang direncanakan. Jika paspor Anda kedaluwarsa lebih cepat dari itu, meskipun secara teknis masih berlaku, Anda bisa ditolak naik pesawat atau ditolak masuk. Tidak semua negara menerapkan aturan ini, dan batasannya bervariasi. Periksa persyaratan untuk negara tujuan spesifik Anda sebelum bepergian.
+Beberapa negara mensyaratkan paspor Anda tetap berlaku selama periode tertentu setelah perjalanan Anda. Thailand, misalnya, meminta enam bulan setelah tanggal kedatangan Anda, sedangkan wilayah Schengen umumnya meminta tiga bulan setelah tanggal Anda meninggalkan wilayah tersebut. Jika paspor Anda kedaluwarsa lebih cepat daripada yang diizinkan negara tujuan, meskipun secara teknis masih berlaku, Anda bisa ditolak naik pesawat atau ditolak masuk. Periksa persyaratan untuk negara tujuan spesifik Anda sebelum bepergian.
 
 ### Bisakah paspor yang sudah kedaluwarsa diperpanjang?
 

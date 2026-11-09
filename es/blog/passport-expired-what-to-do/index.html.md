@@ -92,7 +92,7 @@ La mayoría de los pasaportes tienen un panel de firma. Muchos pasaportes tienen
 
 ### 4. Validez insuficiente para tu destino
 
-La fecha de caducidad de tu pasaporte no es el único umbral que importa. Muchos países requieren que siga siendo válido por un período mínimo más allá de tu fecha de llegada prevista —típicamente seis meses, aunque algunos requieren solo tres meses o simplemente la duración de tu estadía. Llegar con un pasaporte técnicamente válido que no cumple con este requisito te hará ser rechazado en la frontera, al igual que un pasaporte caducado.
+La fecha de caducidad de tu pasaporte no es el único umbral que importa. Algunos países requieren que siga siendo válido durante un período mínimo, y no se calcula de la misma manera en todas partes: Tailandia pide seis meses después de tu llegada, mientras que el espacio Schengen generalmente pide tres meses después de tu salida. Llegar con un pasaporte técnicamente válido que no cumple este requisito puede hacer que te rechacen en la frontera, al igual que con un pasaporte caducado.
 
 Esta regla no se aplica consistentemente en todos los destinos, lo que la hace fácil de pasar por alto. [La regla de los seis meses del pasaporte](https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/) explica qué países la aplican y cuáles no, con un ejemplo trabajado de cómo se calcula.
 
@@ -145,7 +145,7 @@ Sí. Un pasaporte que no ha caducado puede ser rechazado si está dañado, si el
 
 ### ¿Cuál es la regla de los seis meses del pasaporte?
 
-Muchos países exigen que tu pasaporte siga siendo válido al menos seis meses más allá de tu fecha de llegada prevista. Si caduca antes de eso —aunque técnicamente siga siendo válido— se te puede denegar el embarque o la entrada. No todos los países aplican esta regla, y el umbral varía. Comprueba los requisitos de tu destino concreto antes de viajar.
+Algunos países exigen que tu pasaporte siga siendo válido durante un período determinado más allá de tu viaje. Tailandia, por ejemplo, pide seis meses después de la fecha de tu llegada, mientras que el espacio Schengen generalmente pide tres meses después de la fecha de tu salida. Si tu pasaporte caduca antes de lo que permite tu destino —aunque técnicamente siga siendo válido— se te puede denegar el embarque o la entrada. Comprueba los requisitos de tu destino concreto antes de viajar.
 
 ### ¿Se puede renovar un pasaporte caducado?
 

@@ -92,7 +92,7 @@ A maioria dos passaportes tem um painel de assinatura. Muitos passaportes têm u
 
 ### 4. Validade insuficiente para o seu destino
 
-A data de expiração do seu passaporte não é o único limiar que importa. Muitos países exigem que se mantenha válido por um período mínimo após a sua data de chegada — normalmente seis meses, embora alguns exijam apenas três meses ou simplesmente a duração da sua estada. Chegar com um passaporte tecnicamente válido que não cumpre este requisito o afastará na fronteira, como um passaporte expirado faria.
+A data de expiração do seu passaporte não é o único limiar que importa. Alguns países exigem que se mantenha válido por um período mínimo, que não é calculado da mesma forma em todo o lado: a Tailândia pede seis meses após a chegada, enquanto o espaço Schengen geralmente pede três meses após a saída. Chegar com um passaporte tecnicamente válido que não cumpre este requisito pode levar à recusa de entrada na fronteira, tal como com um passaporte expirado.
 
 Esta regra não é aplicada consistentemente em todos os destinos, o que a torna fácil de perder. [A regra dos seis meses de passaporte](https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/) explica quais países a aplicam e quais não, com um exemplo trabalhado de como é calculada.
 
@@ -145,7 +145,7 @@ Sim. Um passaporte que ainda não expirou pode ser recusado se estiver danificad
 
 ### O que é a regra dos seis meses do passaporte?
 
-Muitos países exigem que o seu passaporte se mantenha válido durante pelo menos seis meses após a data de chegada prevista. Se expirar antes disso — mesmo que ainda seja tecnicamente válido — podem recusar-lhe o embarque ou a entrada. Nem todos os países aplicam esta regra, e o limiar varia. Verifique os requisitos do seu destino concreto antes de viajar.
+Alguns países exigem que o seu passaporte se mantenha válido durante um período definido para além da viagem. A Tailândia, por exemplo, pede seis meses após a data de chegada, enquanto o espaço Schengen geralmente pede três meses após a data de saída. Se o passaporte expirar antes do que o destino permite — mesmo que ainda seja tecnicamente válido — podem recusar-lhe o embarque ou a entrada. Verifique os requisitos do seu destino concreto antes de viajar.
 
 ### É possível renovar um passaporte fora de validade?
 

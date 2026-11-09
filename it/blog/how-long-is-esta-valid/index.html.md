@@ -33,9 +33,9 @@ L'unica eccezione è il Brunei: per i suoi cittadini e nazionali la CBP ha ridot
 
 ## Deve essere valido solo il giorno in cui atterri
 
-La CBP afferma che un ESTA deve essere valido all'arrivo negli Stati Uniti, non per tutta la durata del soggiorno. Se scade mentre sei lì, questo non influisce sulla partenza. Il prossimo viaggio è un'altra questione, e ti servirà una nuova approvazione prima di volare di nuovo.
+La CBP afferma che un ESTA deve essere valido all'arrivo negli Stati Uniti, non per tutta la durata del soggiorno. Se scade mentre sei lì, non ne serve uno nuovo prima di partire. Il prossimo viaggio è un'altra questione, e ti servirà una nuova approvazione prima di volare di nuovo.
 
-Ecco come funziona in pratica. Supponiamo che il tuo ESTA scada il 10 di un mese e che tu arrivi il 3 per restare due settimane. È valido quando arrivi, e la CBP afferma che la sua scadenza a metà vacanza non influisce sulla partenza. Se però prenoti il prossimo viaggio dopo il 10, dovrai prima richiederne uno nuovo.
+Ecco come funziona in pratica. Supponiamo che il tuo ESTA scada il 10 di un mese e che tu arrivi il 3 per restare due settimane. È valido quando arrivi, e la CBP afferma che non ne serve uno nuovo solo perché scade a metà vacanza. Se però prenoti il prossimo viaggio dopo il 10, dovrai prima richiederne uno nuovo.
 
 ## Non puoi prorogare un ESTA, ma puoi richiederne uno nuovo in anticipo
 
@@ -56,7 +56,7 @@ Una volta approvata la domanda, la CBP consente di aggiornare solo due cose: l'i
 
 ## Ogni viaggiatore ha bisogno del proprio, compresi i neonati
 
-I bambini di qualsiasi età hanno bisogno della propria approvazione ESTA, afferma la CBP, compresi i neonati senza un biglietto proprio. Ogni bambino ha anche bisogno del proprio passaporto non scaduto, perché un bambino soltanto indicato sul passaporto di un genitore non può ottenere l'ESTA.
+I bambini di qualsiasi età hanno bisogno della propria approvazione ESTA, afferma la CBP, compresi i neonati senza un biglietto proprio. Ogni bambino ha anche bisogno del proprio passaporto elettronico, perché la CBP afferma che è necessario un passaporto elettronico per utilizzare il Visa Waiver Program.
 
 Nessuno si aspetta che un bambino piccolo compili un modulo. Un genitore, o chiunque altro, può fare domanda per conto di un viaggiatore, e il sito web dell'ESTA offre una verifica dello stato di gruppo per le famiglie che hanno fatto domanda insieme. Vale comunque la pena controllare ogni data di scadenza separatamente, perché ogni ESTA è legato a un passaporto diverso e ogni passaporto ha la propria scadenza.
 
@@ -115,7 +115,7 @@ Sì. La CBP concede un ESTA solo fino alla data di scadenza del passaporto con c
 
 ### Il mio ESTA deve essere valido per tutto il soggiorno?
 
-No. La CBP afferma che deve essere valido solo al momento dell'arrivo negli Stati Uniti. Se scade durante il soggiorno, questo non influisce sulla partenza.
+No. La CBP afferma che deve essere valido solo al momento dell'arrivo negli Stati Uniti. Se scade durante il soggiorno, non ne serve uno nuovo prima di partire.
 
 ### I bambini hanno bisogno del proprio ESTA?
 

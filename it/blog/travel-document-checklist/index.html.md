@@ -34,7 +34,7 @@ Scopri se, con la nazionalità del tuo passaporto, ti serve un visto per l'ingre
 
 **Prenota l'assicurazione di viaggio presto**
 
-Prenota l'assicurazione di viaggio quando prenoti i voli, non una settimana prima della partenza. Un'assicurazione stipulata dopo che il rischio è già noto potrebbe escludere proprio quel problema. Assicurati che la polizza copra tutti i viaggiatori, tutte le destinazioni e le attività che hai in programma.
+Prenota l'assicurazione di viaggio quando prenoti i voli, non una settimana prima della partenza. Assicurati che la polizza copra tutti i viaggiatori, tutte le destinazioni e le attività che hai in programma.
 
 ![Diagramma a linea temporale dei controlli sui documenti di viaggio: controllare le date di scadenza alla prenotazione, rinnovare se necessario tre mesi prima, confermare e raccogliere tutto un mese prima, controllo finale la notte prima](https://traveldocumentvault.com/blog/travel-document-checklist/checklist-timeline-it.jpg) Quattro controlli tra la prenotazione e l'imbarco, piccoli se inizi per tempo.
 

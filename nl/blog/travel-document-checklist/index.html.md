@@ -34,7 +34,7 @@ Zoek uit of je nationaliteit een visum nodig heeft voor inreis, transit, of beid
 
 **Boek je reisverzekering vroeg**
 
-Boek je reisverzekering wanneer je je vluchten boekt, niet een week voor vertrek. Een verzekering die je afsluit nadat je al een risico hebt geïdentificeerd, kan precies dat probleem uitsluiten. Zorg dat de polis alle reizigers, alle bestemmingen, en de activiteiten die je van plan bent te doen, dekt.
+Boek je reisverzekering wanneer je je vluchten boekt, niet een week voor vertrek. Zorg dat de polis alle reizigers, alle bestemmingen, en de activiteiten die je van plan bent te doen, dekt.
 
 ![Tijdlijndiagram van reisdocumentcontroles: controleer vervaldatums bij het boeken, verleng indien nodig drie maanden vooraf, bevestig en verzamel alles één maand vooraf, laatste controle de avond ervoor](https://traveldocumentvault.com/blog/travel-document-checklist/checklist-timeline-nl.jpg) Vier controlemomenten tussen boeken en instappen - elk klein als je op tijd begint.
 
