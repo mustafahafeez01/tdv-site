@@ -1,6 +1,6 @@
 # UK ETA는 어느 여권에 연결되나요?
 
-> UK ETA는 신청할 때 사용한 특정 여권에 연결됩니다. 그 여권을 갱신하면 새 ETA가 필요한 이유를 설명합니다.
+> UK ETA는 신청할 때 사용한 특정 여권에 연결됩니다. 그 여권을 갱신하면 새 ETA가 필요한 이유를 설명합니다. 아기를 포함한 자녀의 신청과 여권 정보 확인, 여행 허가와 입국 허가의 차이도 살펴봅니다.
 
 Source: https://traveldocumentvault.com/ko/blog/uk-eta-passport-rules/
 

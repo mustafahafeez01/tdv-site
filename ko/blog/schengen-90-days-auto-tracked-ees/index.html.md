@@ -1,6 +1,6 @@
 # 당신의 90일 Schengen 윈도우: EES 시대의 일수 계산
 
-> 셰겐 체류 가능일이 며칠 남았을까요? EU의 EES 온라인 도구가 이제 알려줍니다. 확인 방법과 90/180일 계산법을 알아봅니다.
+> 셰겐 체류 가능일이 며칠 남았을까요? EU의 EES 온라인 도구가 이제 알려줍니다. 확인 방법과 90/180일 계산법을 알아봅니다. 여권 정보와 조회 날짜를 입력하는 방법, 계산 불가 안내의 의미도 설명합니다.
 
 Source: https://traveldocumentvault.com/ko/blog/schengen-90-days-auto-tracked-ees/
 

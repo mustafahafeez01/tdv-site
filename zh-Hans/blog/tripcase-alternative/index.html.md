@@ -1,6 +1,6 @@
 # TripCase 替代方案：离线旅行文件存储
 
-> TripCase 于 2025 年关闭。了解用什么来代替它存储行程和旅行文件，以及为什么离线存储更安全。
+> TripCase 于 2025 年关闭。了解用什么来代替它存储行程和旅行文件，以及为什么离线存储更安全。区分行程管理与证件保存的不同需要，查看服务停止后数据访问的风险，并了解如何为护照、签证和登机牌建立可离线取用的备份。
 
 Source: https://traveldocumentvault.com/zh-Hans/blog/tripcase-alternative/
 

@@ -1,6 +1,6 @@
 # 博客 | Travel Document Vault
 
-> 关于护照规则、续签时间和保管好旅行文件的实用指南，来自 Travel Document Vault 团队。
+> 关于护照规则、换发时间和保管旅行文件的实用指南，来自 Travel Document Vault 团队。涵盖儿童护照申请、旅行同意信、证件遗失后的处理和离线备份，帮助您按家庭成员整理材料，在预订和出发前逐项核对。
 
 Source: https://traveldocumentvault.com/zh-Hans/blog/
 
@@ -12,19 +12,19 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/
 
 ##
 
-[更新婚后更改护照姓名：英国护照何时申请结婚本身不需要换新护照，改用新姓名才需要。本文说明 HM Passport Office 要求提交什么、婚前申请的延后生效护照，以及如何配合蜜月安排时间。2026年11月7日6 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/passport-name-change-after-marriage/)
+[更新婚后更改护照姓名：英国护照何时申请结婚本身不需要换新护照，改用新姓名才需要。本文说明 HM Passport Office 要求提交什么、婚前申请的延后生效护照，以及如何配合蜜月安排时间。还涵盖机票姓名与护照的核对，以及旧护照里签证的处理，帮助您安排申请和出行。2026年11月7日6 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/passport-name-change-after-marriage/)
 
 ##
 
-[护照规则美国儿童护照可以更新吗？不行，要重新申请16岁前签发的美国护照不能更新，只能由本人到现场重新申请，并由父母双方共同办理。本文说明五年有效期、同意规则，以及16岁时的变化。2026年11月3日5 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/us-child-passport-renewal-under-16/)
+[护照规则美国儿童护照可以更新吗？不行，要重新申请16岁前签发的美国护照不能更新，只能由本人到现场重新申请，并由父母双方共同办理。本文说明五年有效期、同意规则，以及16岁时的变化。还介绍单独监护权与特殊家庭情况的证明材料，以及家长如何提前整理文件、规划下一次申请。2026年11月3日5 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/us-child-passport-renewal-under-16/)
 
 ##
 
-[护照规则BRP已过期？请在截止日期前设置你的UKVI账户GOV.UK表示，过期的BRP在印制到期日后的24个月内，或至2026年12月31日（以较早者为准）仍可能可用。本文说明如何设置你的UKVI账户。2026年10月30日5 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/uk-brp-expired-evisa-deadline/)
+[护照规则BRP已过期？请在截止日期前设置你的UKVI账户GOV.UK表示，过期的BRP在印制到期日后的24个月内，或至2026年12月31日（以较早者为准）仍可能可用。本文说明如何设置你的UKVI账户，以及如何添加出行所用的护照、更换护照后更新账户，并为孩子分别准备账户。2026年10月30日5 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/uk-brp-expired-evisa-deadline/)
 
 ##
 
-[护照规则ESTA的有效期是多久？ESTA的有效期为两年，或至护照到期为止，以较早者为准。本文说明哪些情况会让它提前失效、谁需要单独申请，以及费用调整意味着什么。2026年10月25日6 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/how-long-is-esta-valid/)
+[护照规则ESTA的有效期是多久？ESTA的有效期为两年，或至护照到期为止，以较早者为准。本文说明哪些情况会让它提前失效、谁需要单独申请，以及费用调整意味着什么。还介绍如何查看批准记录、在更换护照后重新申请，以及预订美国行程时核对全家人的授权到期日。2026年10月25日6 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/how-long-is-esta-valid/)
 
 ##
 
@@ -36,11 +36,11 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/
 
 ##
 
-[旅行证件欧洲经济区国民身份证：它是什么，什么时候够用什么样的证件算欧洲经济区国民身份证，在欧洲哪些地方可以代替护照使用，哪些情况下仍需随身携带护照。2026年10月5日6 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/national-id-card-travel-europe/)
+[旅行证件欧洲经济区国民身份证：它是什么，什么时候够用什么样的证件算欧洲经济区国民身份证，在欧洲哪些地方可以代替护照使用，哪些情况下仍需随身携带护照。本文还说明如何核对卡片的有效期和状态、留意儿童证件的到期日，以及在值机或边境被拒收时如何处理，出发前把身份证与护照一起检查。2026年10月5日6 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/national-id-card-travel-europe/)
 
 ##
 
-[签证要求转机需要办理过境签证吗？并非所有转机都需要办理过境签证。了解哪些中转需要签证、国籍如何影响这一规则，以及如果订票后才发现需要签证该怎么办。2026年9月28日7 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/transit-visa-connecting-flights/)
+[签证要求转机需要办理过境签证吗？并非所有转机都需要办理过境签证。了解哪些中转需要签证、国籍如何影响这一规则，以及如果订票后才发现需要签证该怎么办。区分机场内与机场外中转，核对更换机场、提取行李和航站楼之间通行的情况，并在订票前查清中转安排与所需证件。2026年9月28日7 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/transit-visa-connecting-flights/)
 
 ##
 
@@ -48,19 +48,19 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/
 
 ##
 
-[旅行规定UK ETA与哪本护照绑定？UK ETA与您申请时使用的特定护照绑定。更换护照后您将需要重新申请ETA，原因在此。2026年9月8日6分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/uk-eta-passport-rules/)
+[旅行规定UK ETA与哪本护照绑定？UK ETA与您申请时使用的特定护照绑定。更换护照后您将需要重新申请ETA，原因在此。本文说明如何核对申请所用的护照号码、为包括婴儿在内的家庭成员分别准备许可，以及出发前需要留意的申请安排和其他证件，避免把旅行许可误当入境保证。2026年9月8日6分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/uk-eta-passport-rules/)
 
 ##
 
-[家庭旅行带孩子出行却没有父母双方同行：该带哪些证件单独监护权、祖父母带娃出行、姓氏不同——每种情况所需的证件都不一样。值机柜台和边检官员各自关注的是什么。2026年8月30日8分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/travelling-child-without-both-parents/)
+[家庭旅行带孩子出行却没有父母双方同行：该带哪些证件单独监护权、祖父母带娃出行、姓氏不同——每种情况所需的证件都不一样。值机柜台和边检官员各自关注的是什么。按家庭情况整理父母同意书、出生证明、法院令或死亡证明，核对签署人和行程信息，并了解被询问时怎样出示能说明关系的材料。2026年8月30日8分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/travelling-child-without-both-parents/)
 
 ##
 
-[护照规则如何读懂护照：到底该看哪个日期护照资料页上印着两个日期，很多人说的却是错的那一个。签发日期、有效期和签发国分别决定什么，本文一次讲清楚。2026年8月24日6 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/how-to-read-your-passport-dates/)
+[护照规则如何读懂护照：到底该看哪个日期护照资料页上印着两个日期，很多人说的却是错的那一个。签发日期、有效期和签发国分别决定什么，本文一次讲清楚。还说明表格中的日期用语、签发国与签发机关的区别，以及换发后护照号码改变时，需要重新核对哪些与旧号码关联的资料。2026年8月24日6 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/how-to-read-your-passport-dates/)
 
 ##
 
-[护照规则国际驾驶许可证：你的那张到底还能用多久国际驾驶许可证按自己的时钟走，到期时间可能比与之搭配的驾照早了好几年。两类条约签发的许可证有何不同，又该关注哪些日期。2026年8月17日6 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/international-driving-permit-validity/)
+[护照规则国际驾驶许可证：你的那张到底还能用多久国际驾驶许可证按自己的时钟走，到期时间可能比与之搭配的驾照早了好几年。两类条约签发的许可证有何不同，又该关注哪些日期。本文说明如何同时核对本国驾照和许可证、确认目的地认可的类型，并在出发前备齐租车时要一并出示的证件。2026年8月17日6 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/international-driving-permit-validity/)
 
 ##
 
@@ -68,15 +68,15 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/
 
 ##
 
-[旅行准备旅行保险文件：出发前该保存什么了解出发前应该保存哪些旅行保险文件、如何离线存储它们，以及如何避免可能导致索赔被拒的常见错误。2026年8月3日9 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/travel-insurance-documents/)
+[旅行准备旅行保险文件：出发前该保存什么了解出发前应该保存哪些旅行保险文件、如何离线存储它们，以及如何避免可能导致索赔被拒的常见错误。将保单、保障摘要、紧急援助电话和理赔所需资料整理到一起，另备与手机分开放置的纸质副本，并了解找不到保单时应联系谁。2026年8月3日9 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/travel-insurance-documents/)
 
 ##
 
-[旅行紧急情况护照损坏还能出行吗？护照损坏的规定因国家和航空公司而异。了解哪些情况算损坏、在出发前或机场发现损坏该怎么办，以及紧急换发护照所需的时间。2026年7月27日7 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/damaged-passport-travel/)
+[旅行紧急情况护照损坏还能出行吗？护照损坏的规定因国家和航空公司而异。了解哪些情况算损坏、在出发前或机场发现损坏该怎么办，以及紧急换发护照所需的时间。区分封面磨损与资料页、机读区受损，了解联系签发机构时该问什么，以及如何准备有助于换发的护照副本。2026年7月27日7 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/damaged-passport-travel/)
 
 ##
 
-[家庭旅行家庭护照管理：安全存储多本护照将全家的护照整理在一个加密的地方。通过 Pro 添加家庭档案，并利用到期日和提醒规划换发。2026年7月16日7 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/family-passport-management/)
+[家庭旅行家庭护照管理：安全存储多本护照将全家的护照整理在一个加密的地方。通过 Pro 添加家庭档案，并利用到期日和提醒规划换发。了解如何为每位家庭成员分别归档、指定负责更新资料的人，把纸质备份与原件分开存放，并在预订前一起检查孩子的护照、签证及其他旅行文件。2026年7月16日7 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/family-passport-management/)
 
 ##
 
@@ -164,7 +164,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/
 
 ##
 
-[护照规则护照6个月规则：有效期不足也能出行吗？ 护照有效期不足六个月？本文说明哪些国家执行6个月规则，哪些国家只要求有效期覆盖您的停留时间，以及预订前该如何检查。 2026 年 2 月 1 日7 分钟读完](https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rule/)
+[护照规则护照6个月规则：有效期不足也能出行吗？ 护照有效期不足六个月？本文说明哪些国家执行6个月规则，哪些国家只要求有效期覆盖您的停留时间，以及预订前该如何检查。还解释航空公司如何核验旅行证件、为什么要按国籍和目的地核对要求，以及剩余有效期不足时怎样安排护照换发。 2026 年 2 月 1 日7 分钟读完](https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rule/)
 
 ## 将护照信息放在一起
 

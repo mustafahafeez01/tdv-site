@@ -1,6 +1,6 @@
 # 备份说明：本地备份、保险库导出和云备份 | Travel Document Vault
 
-> 清晰对比 Travel Document Vault 保护您数据的三种方式：自动本地备份、保险库导出（.tdvault），以及可选的 Pro 云备份到 iCloud 或 Google Drive。
+> 清晰对比 Travel Document Vault 保护您数据的三种方式：自动本地备份、保险库导出（.tdvault），以及可选的 Pro 云备份到 iCloud 或 Google Drive。了解各自用途，选择适合换机或日常保护的方式。
 
 Source: https://traveldocumentvault.com/zh-Hans/faq/backup-explained/
 

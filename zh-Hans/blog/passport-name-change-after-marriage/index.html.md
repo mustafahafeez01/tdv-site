@@ -1,6 +1,6 @@
 # 婚后更改护照姓名：英国护照何时申请
 
-> 结婚本身不需要换新护照，改用新姓名才需要。本文说明 HM Passport Office 要求提交什么、婚前申请的延后生效护照，以及如何配合蜜月安排时间。
+> 结婚本身不需要换新护照，改用新姓名才需要。本文说明 HM Passport Office 要求提交什么、婚前申请的延后生效护照，以及如何配合蜜月安排时间。还涵盖机票姓名与护照的核对，以及旧护照里签证的处理，帮助您安排申请和出行。
 
 Source: https://traveldocumentvault.com/zh-Hans/blog/passport-name-change-after-marriage/
 

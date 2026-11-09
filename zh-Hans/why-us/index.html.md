@@ -1,6 +1,6 @@
 # 为什么选择 Travel Document Vault？隐私离线护照应用
 
-> 把家人的护照、签证和身份证件放在一个应用里。离线运行，无需账户，我们的服务器不会保留任何内容。还可选择将端到端加密备份保存到您自己的 iCloud 或 Google Drive。
+> 把家人的护照、签证和身份证件放在一个应用里。离线运行，无需账户，我们的服务器不会保留任何内容。还可选择将端到端加密备份保存到您自己的 iCloud 或 Google Drive。了解如何整理全家证件，并提前留意到期提醒。
 
 Source: https://traveldocumentvault.com/zh-Hans/why-us/
 

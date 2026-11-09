@@ -1,6 +1,6 @@
 # iCloud vs Google Photos vs 加密保险库：安全存储护照的最佳方法
 
-> 对三种主要的数字护照副本存储方式的诚实比较。了解 iCloud 照片、Google 照片和专用加密保险库在保护您数据方面的安全权衡。
+> 对三种主要的数字护照副本存储方式的诚实比较。了解 iCloud 照片、Google 照片和专用加密保险库在保护您数据方面的安全权衡。分别查看账户访问、加密设置、离线可用性和备份方式，在方便取用与敏感证件的保护之间作出选择。
 
 Source: https://traveldocumentvault.com/zh-Hans/blog/safest-way-to-store-passport-digitally/
 

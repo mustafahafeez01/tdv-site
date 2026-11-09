@@ -1,6 +1,6 @@
 # BRP已过期？请在截止日期前设置你的UKVI账户
 
-> GOV.UK表示，过期的BRP在印制到期日后的24个月内，或至2026年12月31日（以较早者为准）仍可能可用。本文说明如何设置你的UKVI账户。
+> GOV.UK表示，过期的BRP在印制到期日后的24个月内，或至2026年12月31日（以较早者为准）仍可能可用。本文说明如何设置你的UKVI账户，以及如何添加出行所用的护照、更换护照后更新账户，并为孩子分别准备账户。
 
 Source: https://traveldocumentvault.com/zh-Hans/blog/uk-brp-expired-evisa-deadline/
 

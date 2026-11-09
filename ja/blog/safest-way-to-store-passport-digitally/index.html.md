@@ -1,6 +1,6 @@
 # iCloudとGoogle PhotosとEncrypted Vault：パスポートを安全に保管する最適な方法
 
-> デジタルパスポートコピーを保管する3つの主な方法の誠実な比較です。iCloud Photos、Google Photos、専用暗号化ボルトのセキュリティ上のトレードオフについて学びます。
+> パスポートのデジタルコピーを保存する3つの主な方法を比較します。iCloud Photos、Google Photos、専用の暗号化アプリについて、便利さと安全性のバランスを解説します。オフラインでの閲覧やバックアップも確認します。
 
 Source: https://traveldocumentvault.com/ja/blog/safest-way-to-store-passport-digitally/
 

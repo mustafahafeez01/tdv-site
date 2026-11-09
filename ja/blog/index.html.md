@@ -1,6 +1,6 @@
 # ブログ | Travel Document Vault
 
-> パスポートのルール、更新にかかる期間、旅行書類を整理しておく方法についての実践的なガイド。Travel Document Vault のチームがお届けします。
+> パスポートのルール、更新にかかる期間、旅行書類を整理しておく方法についての実践的なガイド。Travel Document Vault のチームがお届けします。子どもの申請や同意書、紛失時の対応、書類の備え方も扱います。
 
 Source: https://traveldocumentvault.com/ja/blog/
 
@@ -12,19 +12,19 @@ Source: https://traveldocumentvault.com/ja/blog/
 
 ##
 
-[更新結婚後のパスポート名義変更：英国でいつ申請するか結婚しただけでは新しいパスポートは必要ありません。必要になるのは、使う名前を変えるときです。HMPOが求める書類、先日付のパスポートという選択肢、新婚旅行との兼ね合いを解説します。2026年11月7日読了時間 6分](https://traveldocumentvault.com/ja/blog/passport-name-change-after-marriage/)
+[更新結婚後のパスポート名義変更：英国でいつ申請するか結婚しただけでは新しいパスポートは必要ありません。必要になるのは、使う名前を変えるときです。HMPOが求める書類、挙式日から有効になるパスポート、新婚旅行との兼ね合いを解説します。航空券の氏名と旧旅券のビザも確認します。2026年11月7日読了時間 6分](https://traveldocumentvault.com/ja/blog/passport-name-change-after-marriage/)
 
 ##
 
-[旅行書類子どもの米国パスポートは更新できる？いいえ、申請し直します16歳未満で発行された米国パスポートは更新できません。本人が窓口で両親とともに再度申請します。5年間の有効期間、同意のルール、16歳での変化を解説します。2026年11月3日読了時間 5分](https://traveldocumentvault.com/ja/blog/us-child-passport-renewal-under-16/)
+[旅行書類子どもの米国パスポートは更新できる？いいえ、申請し直します16歳未満で発行された米国パスポートは更新できません。本人が窓口で両親とともに再度申請します。5年間の有効期間、同意のルール、16歳での変化を解説します。単独親権の証明や、特別な家庭事情がある場合の準備も紹介します。2026年11月3日読了時間 5分](https://traveldocumentvault.com/ja/blog/us-child-passport-renewal-under-16/)
 
 ##
 
-[旅行書類BRPが期限切れ？期限までにUKVIアカウントを作成しましょうGOV.UKによると、期限切れのBRPは印字された期限日から24か月間、または2026年12月31日までのいずれか早い方まで使える場合があります。UKVIアカウントの作成方法を解説します。2026年10月30日読了時間 5分](https://traveldocumentvault.com/ja/blog/uk-brp-expired-evisa-deadline/)
+[旅行書類BRPが期限切れ？期限までにUKVIアカウントを作成しましょうGOV.UKによると、期限切れのBRPは印字された期限日から24か月間、または2026年12月31日までのいずれか早い方まで使える場合があります。UKVIアカウントの作成方法を解説します。渡航用のパスポート登録も確認できます。2026年10月30日読了時間 5分](https://traveldocumentvault.com/ja/blog/uk-brp-expired-evisa-deadline/)
 
 ##
 
-[パスポート規則ESTAの有効期限はどのくらいですか？ESTAは承認から2年、またはパスポートの期限が切れるまでのいずれか早い方まで有効です。早く失効するケース、誰に必要か、料金改定の影響を解説します。2026年10月25日読了時間 6分](https://traveldocumentvault.com/ja/blog/how-long-is-esta-valid/)
+[パスポート規則ESTAの有効期限はどのくらいですか？ESTAは承認から2年、またはパスポートの期限が切れるまでのいずれか早い方まで有効です。早く失効するケース、誰に必要か、料金改定の影響を解説します。承認記録の確認方法と、家族それぞれの期限を予約時に確かめる手順も紹介します。2026年10月25日読了時間 6分](https://traveldocumentvault.com/ja/blog/how-long-is-esta-valid/)
 
 ##
 
@@ -36,11 +36,11 @@ Source: https://traveldocumentvault.com/ja/blog/
 
 ##
 
-[旅行書類EEA国民IDカードとは：それだけで足りる場面EEA国民IDカードとして認められるものは何か、ヨーロッパでパスポートの代わりに使える場面、そしてそれでもパスポートが必要な場面を解説します。2026年10月5日読了時間 6分](https://traveldocumentvault.com/ja/blog/national-id-card-travel-europe/)
+[旅行書類EEA国民IDカードとは：それだけで足りる場面EEA国民IDカードとして認められるものは何か、ヨーロッパでパスポートの代わりに使える場面、そしてそれでもパスポートが必要な場面を解説します。出発前のカードの状態や期限の確認、チェックインで拒否された場合の対応も紹介します。2026年10月5日読了時間 6分](https://traveldocumentvault.com/ja/blog/national-id-card-travel-europe/)
 
 ##
 
-[ビザ要件乗り継ぎにトランジットビザは必要かすべての乗り継ぎ便にトランジットビザが必要なわけではありません。どのレイオーバーでビザが必要になるか、国籍によってルールがどう変わるか、予約後に必要だと気づいた場合の対処法を解説します。2026年9月28日読了時間 7分](https://traveldocumentvault.com/ja/blog/transit-visa-connecting-flights/)
+[ビザ要件乗り継ぎにトランジットビザは必要かすべての乗り継ぎ便にトランジットビザが必要なわけではありません。どのレイオーバーでビザが必要になるか、国籍によってルールがどう変わるか、予約後に必要だと気づいた場合の対処法を解説します。空港内と空港外の乗り継ぎの違いも確認します。2026年9月28日読了時間 7分](https://traveldocumentvault.com/ja/blog/transit-visa-connecting-flights/)
 
 ##
 
@@ -48,7 +48,7 @@ Source: https://traveldocumentvault.com/ja/blog/
 
 ##
 
-[渡航ルールUK ETA: どのパスポートに紐づいている？UK ETAは申請時のパスポート番号に紐づいています。パスポートを更新すると新しいETAの申請が必要になる理由を解説します。2026年9月8日読了時間 6分](https://traveldocumentvault.com/ja/blog/uk-eta-passport-rules/)
+[渡航ルールUK ETA: どのパスポートに紐づいている？UK ETAは申請時のパスポート番号に紐づいています。パスポートを更新すると新しいETAの申請が必要になる理由を解説します。子どもや赤ちゃんの申請、渡航前に照合する旅券情報、旅行許可と入国許可の違いも説明します。2026年9月8日読了時間 6分](https://traveldocumentvault.com/ja/blog/uk-eta-passport-rules/)
 
 ##
 
@@ -56,11 +56,11 @@ Source: https://traveldocumentvault.com/ja/blog/
 
 ##
 
-[パスポート規則パスポートの読み方:本当に重要なのはどちらの日付かパスポートの写真ページには二つの日付が並んでいますが、多くの人はそのうち間違った方を答えてしまいます。発行日、有効期限、発行国がそれぞれ何を左右するのかを解説します。2026年8月24日読了時間 6分](https://traveldocumentvault.com/ja/blog/how-to-read-your-passport-dates/)
+[パスポート規則パスポートの読み方:本当に重要なのはどちらの日付かパスポートの写真ページには二つの日付が並んでいますが、多くの人はそのうち間違った方を答えてしまいます。発行日、有効期限、発行国がそれぞれ何を左右するのかを解説します。更新で番号が変わった際に、紐づく情報を確認する手順も扱います。2026年8月24日読了時間 6分](https://traveldocumentvault.com/ja/blog/how-to-read-your-passport-dates/)
 
 ##
 
-[パスポート規則国際運転免許証の有効期限:実際はいつまで使えるか国際運転免許証(IDP)は独自の期限で動き、隣にある運転免許証より何年も早く失効することがあります。二つの条約の違いと、確認すべき日付を解説します。2026年8月17日読了時間 6分](https://traveldocumentvault.com/ja/blog/international-driving-permit-validity/)
+[パスポート規則国際運転免許証の有効期限:実際はいつまで使えるか国際運転免許証(IDP)は有効期限が別にあり、本国の運転免許証より何年も早く失効することがあります。二つの条約の違いと、確認すべき日付を解説します。本国の免許証と一緒に期限を確かめ、渡航先で使える種類を確認する手順も紹介します。2026年8月17日読了時間 6分](https://traveldocumentvault.com/ja/blog/international-driving-permit-validity/)
 
 ##
 
@@ -68,15 +68,15 @@ Source: https://traveldocumentvault.com/ja/blog/
 
 ##
 
-[旅行準備旅行保険の書類: 出発前に保管すべきもの旅行保険の書類で何を保管すべきか、インターネットなしでアクセスできるように保存する場所、そして請求が却下される原因になるよくある間違いを避ける方法を学びましょう。2026年8月3日読了時間 9分](https://traveldocumentvault.com/ja/blog/travel-insurance-documents/)
+[旅行準備旅行保険の書類: 出発前に保管すべきもの旅行保険の書類で何を保管すべきか、インターネットなしでアクセスできるように保存する場所、そして請求が却下される原因になるよくある間違いを避ける方法を学びましょう。保険証券、緊急連絡先、請求用の記録と紙の控えも整理できます。2026年8月3日読了時間 9分](https://traveldocumentvault.com/ja/blog/travel-insurance-documents/)
 
 ##
 
-[緊急旅行破損したパスポートで搭乗できる？ルールと対処法パスポートの破損に関するルールは、国や航空会社によって異なります。何が破損とみなされるか、出発前や空港で見つかった場合の対処法、緊急再発給にかかる期間を解説します。2026年7月27日読了時間 7分](https://traveldocumentvault.com/ja/blog/damaged-passport-travel/)
+[緊急旅行破損したパスポートで搭乗できる？ルールと対処法パスポートの破損に関するルールは、国や航空会社によって異なります。何が破損とみなされるか、出発前や空港で見つかった場合の対処法、緊急再発給にかかる期間を解説します。表紙の傷みと、顔写真ページや機械読取部分の損傷を区別します。2026年7月27日読了時間 7分](https://traveldocumentvault.com/ja/blog/damaged-passport-travel/)
 
 ##
 
-[家族旅行ファミリーパスポート管理：複数のパスポートを安全に保管する方法家族のパスポートを一つの暗号化された場所に整理して保管。Proで家族プロフィールを追加し、有効期限とリマインダーを使って更新の計画を立てられます。2026年7月16日読了時間 7分](https://traveldocumentvault.com/ja/blog/family-passport-management/)
+[家族旅行ファミリーパスポート管理：複数のパスポートを安全に保管する方法家族のパスポートを一つの暗号化された場所に整理して保管。Proで家族プロフィールを追加し、有効期限とリマインダーを使って更新の計画を立てられます。紙の控えの保管場所や、家族の情報を最新に保つ担当の決め方も紹介します。2026年7月16日読了時間 7分](https://traveldocumentvault.com/ja/blog/family-passport-management/)
 
 ##
 
@@ -164,7 +164,7 @@ Source: https://traveldocumentvault.com/ja/blog/
 
 ##
 
-[パスポート規則パスポート6ヶ月ルール：残り期間が少なくても渡航できる？ パスポートの有効期限が残り6ヶ月を切っていませんか。6ヶ月ルールを適用する国、滞在期間分の有効期間だけで足りる国、そして予約前の確認方法を解説します。 2026年2月1日7 分読み](https://traveldocumentvault.com/ja/blog/passport-expiry-6-month-rule/)
+[パスポート規則パスポート6ヶ月ルール：残り期間が少なくても渡航できる？ パスポートの有効期限が残り6ヶ月を切っていませんか。6ヶ月ルールを適用する国、滞在期間分の有効期間だけで足りる国、そして予約前の確認方法を解説します。航空会社による書類確認と、残存期間が足りない場合の更新の進め方も紹介します。 2026年2月1日7 分読み](https://traveldocumentvault.com/ja/blog/passport-expiry-6-month-rule/)
 
 ## パスポートの情報をまとめて保管
 

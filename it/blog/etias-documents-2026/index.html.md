@@ -1,6 +1,6 @@
 # ETIAS: Quali documenti ti servono e come richiedere
 
-> Cosa serve per l'ETIAS: passaporto valido almeno 3 mesi, indirizzo email. Per UK, USA e Canada.
+> Cosa serve per l'ETIAS: passaporto valido più di 3 mesi, indirizzo email. Per UK, USA e Canada. Come preparare la domanda e indicare i paesi da visitare.
 
 Source: https://traveldocumentvault.com/it/blog/etias-documents-2026/
 

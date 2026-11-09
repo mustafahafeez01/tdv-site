@@ -1,6 +1,6 @@
 # 暗号化クラウドバックアップ | ご自身のクラウド。ご自身の鍵。| Travel Document Vault
 
-> ご自身のiCloudまたはGoogle Driveへの暗号化バックアップ（Pro）。当社が保有しない回復コードを使って復元します。保存した金庫はオフラインで使えます。
+> ご自身のiCloudまたはGoogle Driveへの暗号化バックアップ（Pro）。当社が保有しない回復コードを使って復元します。保存した書類はオフラインで使えます。新しい端末での復元と、回復コードの保管も確認できます。
 
 Source: https://traveldocumentvault.com/ja/cloud-backup/
 

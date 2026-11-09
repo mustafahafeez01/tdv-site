@@ -1,6 +1,6 @@
 # TripCase 대체 서비스: 오프라인 여행 서류 저장소
 
-> TripCase가 2025년에 폐지되었습니다. 일정과 여행 서류를 저장할 대체 서비스는 무엇인지, 그리고 오프라인 저장소가 더 안전한 이유를 알아봅시다.
+> TripCase가 2025년에 폐지되었습니다. 일정과 여행 서류를 저장할 대체 서비스는 무엇인지, 그리고 오프라인 저장소가 더 안전한 이유를 알아봅시다. 일정 관리와 여권 사본 보관의 차이도 살펴봅니다.
 
 Source: https://traveldocumentvault.com/ko/blog/tripcase-alternative/
 

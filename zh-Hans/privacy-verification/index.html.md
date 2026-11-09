@@ -1,6 +1,6 @@
 # 隐私验证 | Travel Document Vault
 
-> Travel Document Vault 的可验证隐私声明。零追踪器，零数据收集。默认情况下在设备上存储 - 无 TDV 云，无需账户。查看我们请求的每项权限及其原因。
+> Travel Document Vault 的可验证隐私声明。零追踪器，零数据收集。默认情况下在设备上存储 - 无 TDV 云，无需账户。查看我们请求的每项权限及其原因，以及如何通过网络流量、系统隐私报告和应用商店标签自行核实。
 
 Source: https://traveldocumentvault.com/zh-Hans/privacy-verification/
 

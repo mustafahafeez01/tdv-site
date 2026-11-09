@@ -1,6 +1,6 @@
 # ETIAS: Welche Dokumente Sie benötigen und wie Sie sich anmelden
 
-> Was ETIAS verlangt: Reisepass mindestens 3 Monate gültig, E-Mail-Adresse. Für UK, USA und Kanada.
+> Was ETIAS verlangt: Reisepass mehr als 3 Monate gültig, E-Mail-Adresse. Für UK, USA und Kanada. So bereiten Sie den Antrag und Ihre Reiseziele vor.
 
 Source: https://traveldocumentvault.com/de/blog/etias-documents-2026/
 

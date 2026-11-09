@@ -1,6 +1,6 @@
 # Paspoort verlopen? Dit moet je precies doen, stap voor stap
 
-> Paspoort verlopen: wat je eerst doet, hoe je de verlenging versnelt en de fouten die weken kosten.
+> Paspoort verlopen: wat je eerst doet, hoe je de verlenging versnelt en de fouten die weken kosten. Met stappen voor thuis en op het vliegveld.
 
 Source: https://traveldocumentvault.com/nl/blog/passport-expired-what-to-do/
 

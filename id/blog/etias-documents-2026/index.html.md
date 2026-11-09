@@ -1,6 +1,6 @@
 # ETIAS: Dokumen yang Anda Butuhkan dan Cara Mengajukan Permohonan
 
-> Syarat ETIAS: paspor berlaku minimal 3 bulan, alamat email. Untuk Inggris, AS, dan Kanada.
+> Syarat ETIAS: paspor berlaku lebih dari 3 bulan, alamat email. Untuk Inggris, AS, dan Kanada. Siapkan permohonan dan daftar negara tujuan sebelum mengajukan.
 
 Source: https://traveldocumentvault.com/id/blog/etias-documents-2026/
 

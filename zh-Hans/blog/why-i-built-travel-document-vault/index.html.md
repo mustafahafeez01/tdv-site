@@ -1,6 +1,6 @@
 # 为什么我开发了 Travel Document Vault：献给记住一切的父母
 
-> 为什么我在一次家庭旅行前凌晨三点检查护照之后，开发了 Travel Document Vault，以及为什么它默认将文档保存在您自己的设备上。
+> 为什么我在一次家庭旅行中检查女儿的护照后，开发了 Travel Document Vault，以及为什么它默认将文档保存在您自己的设备上。从家长记住全家证件到期日的负担，到我试过的云端存储和日历提醒，讲述这个应用的由来。
 
 Source: https://traveldocumentvault.com/zh-Hans/blog/why-i-built-travel-document-vault/
 

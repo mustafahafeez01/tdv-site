@@ -1,6 +1,6 @@
 # 常见问题 | Travel Document Vault
 
-> 少一件担心的事。关于 Travel Document Vault 的答案，您的离线家庭护照组织者，具有智能有效期提醒。无账户。无云。无订阅。
+> 少一件担心的事。了解 Travel Document Vault 这款离线家庭护照管理应用的到期提醒、隐私和使用方式。无需账户，Pro 一次性购买，无需订阅。按主题查找设置、设备兼容、导出导入、恢复码及可选云备份的常见问题解答。
 
 Source: https://traveldocumentvault.com/zh-Hans/faq/
 

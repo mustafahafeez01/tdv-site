@@ -1,6 +1,6 @@
 # iCloud vs Google Photos vs Encrypted Vault: 안전한 여권 저장 방법
 
-> 디지털 여권 사본을 저장하는 세 가지 주요 방법의 정직한 비교입니다. iCloud Photos, Google Photos, 전용 암호화 보관함의 보안 상충을 알아보세요.
+> 디지털 여권 사본을 저장하는 세 가지 주요 방법을 비교합니다. iCloud Photos, Google Photos, 전용 암호화 보관함의 편의성과 보안 차이를 살펴보세요. 오프라인 열람과 백업도 확인합니다.
 
 Source: https://traveldocumentvault.com/ko/blog/safest-way-to-store-passport-digitally/
 

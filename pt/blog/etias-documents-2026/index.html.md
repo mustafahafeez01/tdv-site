@@ -1,6 +1,6 @@
 # ETIAS: Que Documentos Precisa e Como Candidatar-se
 
-> O que a ETIAS exige: passaporte válido pelo menos 3 meses, email. Reino Unido, EUA e Canadá.
+> O que o ETIAS exige: passaporte válido pelo menos 3 meses, email. Reino Unido, EUA e Canadá. Saiba como preparar o pedido e indicar os países a visitar.
 
 Source: https://traveldocumentvault.com/pt/blog/etias-documents-2026/
 

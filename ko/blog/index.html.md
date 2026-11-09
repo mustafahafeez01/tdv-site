@@ -1,6 +1,6 @@
 # 블로그 | Travel Document Vault
 
-> 여권 규칙, 갱신 기간, 여행 서류를 안전하게 관리하는 방법에 관한 실용적인 가이드입니다. Travel Document Vault 팀이 전해드립니다.
+> 여권 규칙, 갱신 기간, 여행 서류를 안전하게 관리하는 방법에 관한 실용적인 가이드입니다. Travel Document Vault 팀이 전해드립니다. 자녀의 여권 신청과 여행 동의서 준비도 다룹니다.
 
 Source: https://traveldocumentvault.com/ko/blog/
 
@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/ko/blog/
 
 ##
 
-[갱신결혼 후 여권 이름 변경: 영국에서는 언제 신청할까결혼했다고 새 여권이 필요한 것은 아니고, 쓰는 이름이 바뀔 때 필요합니다. HMPO가 요구하는 서류, 결혼식 날짜부터 유효한 여권, 신혼여행에 맞춘 신청 시기를 정리했습니다.2026년 11월 7일6분 읽기](https://traveldocumentvault.com/ko/blog/passport-name-change-after-marriage/)
+[갱신결혼 후 여권 이름 변경: 영국에서는 언제 신청할까결혼했다고 새 여권이 필요한 것은 아니고, 쓰는 이름이 바뀔 때 필요합니다. HMPO가 요구하는 서류, 결혼식 날짜부터 유효한 여권, 신혼여행에 맞춘 신청 시기를 정리했습니다. 항공권 이름도 확인합니다.2026년 11월 7일6분 읽기](https://traveldocumentvault.com/ko/blog/passport-name-change-after-marriage/)
 
 ##
 
@@ -36,7 +36,7 @@ Source: https://traveldocumentvault.com/ko/blog/
 
 ##
 
-[여행 서류EEA 국민 ID 카드란: 카드만으로 충분한 경우EEA 국민 ID 카드로 인정되는 것은 무엇인지, 유럽 전역에서 여권 대신 쓸 수 있는 경우, 그리고 그래도 여권을 챙겨야 하는 경우를 정리했습니다.2026년 10월 5일6분 읽기](https://traveldocumentvault.com/ko/blog/national-id-card-travel-europe/)
+[여행 서류EEA 국민 ID 카드란: 카드만으로 충분한 경우EEA 국민 ID 카드로 인정되는 것은 무엇인지, 유럽 전역에서 여권 대신 쓸 수 있는 경우, 그리고 그래도 여권을 챙겨야 하는 경우를 정리했습니다. 카드의 상태와 유효기간 확인도 다룹니다.2026년 10월 5일6분 읽기](https://traveldocumentvault.com/ko/blog/national-id-card-travel-europe/)
 
 ##
 
@@ -48,7 +48,7 @@ Source: https://traveldocumentvault.com/ko/blog/
 
 ##
 
-[여행 규정UK ETA는 어느 여권에 연결되나요?UK ETA는 신청할 때 사용한 특정 여권에 연결됩니다. 그 여권을 갱신하면 새 ETA가 필요한 이유를 설명합니다.2026년 9월 8일6분 읽기](https://traveldocumentvault.com/ko/blog/uk-eta-passport-rules/)
+[여행 규정UK ETA는 어느 여권에 연결되나요?UK ETA는 신청할 때 사용한 특정 여권에 연결됩니다. 그 여권을 갱신하면 새 ETA가 필요한 이유를 설명합니다. 아기를 포함한 자녀의 신청과 여권 정보 확인, 여행 허가와 입국 허가의 차이도 살펴봅니다.2026년 9월 8일6분 읽기](https://traveldocumentvault.com/ko/blog/uk-eta-passport-rules/)
 
 ##
 
@@ -56,11 +56,11 @@ Source: https://traveldocumentvault.com/ko/blog/
 
 ##
 
-[여권 규칙여권 읽는 법: 실제로 중요한 날짜는 어느 쪽일까요여권 사진 면에는 날짜가 두 개 나와 있는데, 대부분 그중 잘못된 쪽을 말합니다. 발급일, 만료일, 발급국이 각각 무엇을 좌우하는지 알아보세요.2026년 8월 24일6분 읽기](https://traveldocumentvault.com/ko/blog/how-to-read-your-passport-dates/)
+[여권 규칙여권 읽는 법: 실제로 중요한 날짜는 어느 쪽일까요여권 사진 면에는 날짜가 두 개 나와 있는데, 대부분 그중 잘못된 쪽을 말합니다. 발급일, 만료일, 발급국이 각각 무엇을 좌우하는지 알아보세요. 갱신 후 번호에 연결된 정보의 확인도 다룹니다.2026년 8월 24일6분 읽기](https://traveldocumentvault.com/ko/blog/how-to-read-your-passport-dates/)
 
 ##
 
-[여권 규칙국제운전면허증(IDP), 실제 유효기간은 얼마나 될까요국제운전면허증은 독자적인 만료일을 가지며, 함께 소지한 운전면허증보다 몇 년 먼저 만료될 수 있습니다. 두 협약 유형이 어떻게 다른지, 어떤 날짜를 확인해야 하는지 알아보세요.2026년 8월 17일6분 읽기](https://traveldocumentvault.com/ko/blog/international-driving-permit-validity/)
+[여권 규칙국제운전면허증(IDP), 실제 유효기간은 얼마나 될까요국제운전면허증은 독자적인 만료일을 가지며, 함께 소지한 운전면허증보다 몇 년 먼저 만료될 수 있습니다. 두 협약 유형이 어떻게 다른지, 어떤 날짜를 확인해야 하는지 알아보세요. 본국 면허증의 날짜도 살펴봅니다.2026년 8월 17일6분 읽기](https://traveldocumentvault.com/ko/blog/international-driving-permit-validity/)
 
 ##
 
@@ -68,15 +68,15 @@ Source: https://traveldocumentvault.com/ko/blog/
 
 ##
 
-[여행 준비여행 보험 서류: 떠나기 전에 준비할 사항여행 보험 서류를 미리 준비하고 보관하는 방법을 알아보세요. 오프라인에서 접근하는 법과 청구 실패를 초래하는 흔한 실수를 피하는 법을 배웁니다.2026년 8월 3일9분 읽기](https://traveldocumentvault.com/ko/blog/travel-insurance-documents/)
+[여행 준비여행 보험 서류: 떠나기 전에 준비할 사항여행 보험 서류를 미리 준비하고 보관하는 방법을 알아보세요. 오프라인에서 접근하는 법과 청구 실패를 초래하는 흔한 실수를 피하는 법을 배웁니다. 보험증서와 긴급 연락처, 종이 사본도 정리합니다.2026년 8월 3일9분 읽기](https://traveldocumentvault.com/ko/blog/travel-insurance-documents/)
 
 ##
 
-[여행 비상 상황손상된 여권으로 여행할 수 있을까요?여권 손상 규정은 국가와 항공사마다 다릅니다. 무엇이 손상으로 간주되는지, 출발 전이나 공항에서 발견했을 때 대처법, 긴급 재발급 소요 기간을 알아보세요.2026년 7월 27일7분 읽기](https://traveldocumentvault.com/ko/blog/damaged-passport-travel/)
+[여행 비상 상황손상된 여권으로 여행할 수 있을까요?여권 손상 규정은 국가와 항공사마다 다릅니다. 무엇이 손상으로 간주되는지, 출발 전이나 공항에서 발견했을 때 대처법, 긴급 재발급 소요 기간을 알아보세요. 사진 면과 기계 판독 영역도 확인합니다.2026년 7월 27일7분 읽기](https://traveldocumentvault.com/ko/blog/damaged-passport-travel/)
 
 ##
 
-[가족 여행가족 여권 관리: 여러 여권을 안전하게 보관하기가족의 여권을 한곳에 암호화하여 보관하십시오. Pro로 가족 프로필을 추가하고 만료일과 알림을 활용하여 갱신을 계획하십시오.2026년 7월 16일7분 읽기](https://traveldocumentvault.com/ko/blog/family-passport-management/)
+[가족 여행가족 여권 관리: 여러 여권을 안전하게 보관하기가족의 여권을 한곳에 암호화하여 보관하십시오. Pro로 가족 프로필을 추가하고 만료일과 알림을 활용하여 갱신을 계획하십시오. 자료를 최신 상태로 유지할 담당자와 종이 사본의 보관 위치도 정리합니다.2026년 7월 16일7분 읽기](https://traveldocumentvault.com/ko/blog/family-passport-management/)
 
 ##
 
@@ -164,7 +164,7 @@ Source: https://traveldocumentvault.com/ko/blog/
 
 ##
 
-[여권 규칙여권 6개월 규칙: 유효기간이 적게 남아도 여행할 수 있을까? 여권 유효기간이 6개월 미만으로 남았나요? 6개월 규칙을 시행하는 국가, 체류 기간만큼의 유효기간만 요구하는 국가, 그리고 예약 전 확인 방법을 정리했습니다. 2026년 2월 1일7분 읽기](https://traveldocumentvault.com/ko/blog/passport-expiry-6-month-rule/)
+[여권 규칙여권 6개월 규칙: 유효기간이 적게 남아도 여행할 수 있을까? 여권 유효기간이 6개월 미만으로 남았나요? 6개월 규칙을 시행하는 국가, 체류 기간만큼의 유효기간만 요구하는 국가, 그리고 예약 전 확인 방법을 정리했습니다. 항공사의 서류 심사와 갱신 준비도 다룹니다. 2026년 2월 1일7분 읽기](https://traveldocumentvault.com/ko/blog/passport-expiry-6-month-rule/)
 
 ## 여권 정보를 한곳에서 관리하십시오
 

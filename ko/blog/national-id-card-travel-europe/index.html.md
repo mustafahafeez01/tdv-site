@@ -1,6 +1,6 @@
 # EEA 국민 ID 카드란: 카드만으로 충분한 경우
 
-> EEA 국민 ID 카드로 인정되는 것은 무엇인지, 유럽 전역에서 여권 대신 쓸 수 있는 경우, 그리고 그래도 여권을 챙겨야 하는 경우를 정리했습니다.
+> EEA 국민 ID 카드로 인정되는 것은 무엇인지, 유럽 전역에서 여권 대신 쓸 수 있는 경우, 그리고 그래도 여권을 챙겨야 하는 경우를 정리했습니다. 카드의 상태와 유효기간 확인도 다룹니다.
 
 Source: https://traveldocumentvault.com/ko/blog/national-id-card-travel-europe/
 

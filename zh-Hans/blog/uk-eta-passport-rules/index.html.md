@@ -1,6 +1,6 @@
 # UK ETA与哪本护照绑定？
 
-> UK ETA与您申请时使用的特定护照绑定。更换护照后您将需要重新申请ETA，原因在此。
+> UK ETA与您申请时使用的特定护照绑定。更换护照后您将需要重新申请ETA，原因在此。本文说明如何核对申请所用的护照号码、为包括婴儿在内的家庭成员分别准备许可，以及出发前需要留意的申请安排和其他证件，避免把旅行许可误当入境保证。
 
 Source: https://traveldocumentvault.com/zh-Hans/blog/uk-eta-passport-rules/
 

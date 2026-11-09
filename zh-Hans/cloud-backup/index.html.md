@@ -1,6 +1,6 @@
 # 加密云备份 | 您的云。您的密钥。| Travel Document Vault
 
-> 将加密备份（Pro）保存到您自己的 iCloud 或 Google Drive。使用恢复码恢复，我们不持有该恢复码。已保存的保险库可离线使用。
+> 将加密备份（Pro）保存到您自己的 iCloud 或 Google Drive。使用恢复码恢复，我们不持有该恢复码。已保存的保险库可离线使用。了解备份如何在设备上加密、怎样在新设备上恢复，以及为什么要把恢复码和独立副本妥善保存。
 
 Source: https://traveldocumentvault.com/zh-Hans/cloud-backup/
 
