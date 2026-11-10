@@ -1,4 +1,4 @@
-# Is a Visa the Same as a Passport? The Difference Explained
+# Visa vs Passport: What Is the Difference?
 
 > A passport proves who you are; a visa lets you travel and ask to enter. Holding one never counts as the other. When you need both.
 
