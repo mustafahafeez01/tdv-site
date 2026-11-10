@@ -1,4 +1,4 @@
-# Kan du förnya ett pass innan det går ut?
+# Kan du förnya passet i förväg, innan det går ut?
 
 > Ja, du kan förnya passet i förtid. Vad det kostar dig i oanvända månader, vad ett nytt passnummer ändrar, och när vi själva skulle ansöka.
 

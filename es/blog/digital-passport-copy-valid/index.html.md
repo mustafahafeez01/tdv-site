@@ -36,7 +36,7 @@ La aceptación de copias digitales del pasaporte para el check-in depende del al
 
 ### Una copia digital no sirve como documento de embarque
 
-Para vuelos internacionales, por lo general necesitarás presentar el pasaporte original u otro documento de viaje aceptado en la puerta de embarque. La copia digital no sirve como documento de embarque.
+Para vuelos internacionales, por lo general necesitarás presentar el pasaporte original u otro documento de viaje aceptado en la puerta de embarque. La copia digital no sirve como documento de embarque. Si viajas al espacio Schengen, conviene saber [contar tus días Schengen con EES](https://traveldocumentvault.com/es/blog/schengen-90-days-auto-tracked-ees/) antes de salir.
 
 ### Pregunta qué documentos necesita la empresa de alquiler de coches
 
@@ -81,7 +81,7 @@ Las copias del pasaporte contienen información de identidad sensible: tu nombre
 - **Nunca compartas innecesariamente**. Solo proporciona tu copia del pasaporte a empresas legítimas con las que estés transaccionando activamente.
 - **Mantén las copias separadas de tu pasaporte físico**. Si tu bolsa es robada, deseas que la copia de seguridad esté en otro lugar.
 
-Si solo vas a corregir un hábito, cambia el PDF enviado por correo o la foto del carrete por una aplicación cifrada: esa copia improvisada es la que más probabilidades tiene de acabar en manos equivocadas si alguien accede a tu teléfono o a tu bandeja de entrada.
+Si solo vas a corregir un hábito, cambia el PDF enviado por correo o la foto del carrete por una aplicación cifrada: esa copia improvisada es la que más probabilidades tiene de acabar en manos equivocadas si alguien accede a tu teléfono o a tu bandeja de entrada. Aquí tienes qué buscar en [una app para organizar pasaportes](https://traveldocumentvault.com/es/blog/best-passport-organizer-app/).
 
 Si te preguntas si el almacenamiento en nube es seguro para copias del pasaporte, consulta nuestra guía sobre [almacenar pasaportes en Google Photos](https://traveldocumentvault.com/es/blog/is-it-safe-to-store-passport-in-google-photos/). Explica por qué una aplicación cifrada dedicada ofrece una protección más fuerte.
 

@@ -1,4 +1,4 @@
-# Passaporto scaduto nel Regno Unito: può viaggiare o prenotare una vacanza?
+# Passaporto britannico scaduto: si può prenotare una vacanza o viaggiare?
 
 > Prenotare un viaggio non è imbarcarsi. Cosa controlla la compagnia aerea, quando un rinnovo lascia ancora tempo e le poche eccezioni.
 

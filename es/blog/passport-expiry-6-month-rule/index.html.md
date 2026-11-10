@@ -1,4 +1,4 @@
-# Regla de los 6 Meses del Pasaporte: ¿Puedes Viajar?
+# Pasaporte con Menos de 6 Meses de Vigencia: ¿Puedes Viajar?
 
 > ¿Pasaporte caduca en menos de 6 meses? Países que aplican la regla, cuáles solo exigen validez para la estancia, y cómo comprobarlo antes de reservar.
 

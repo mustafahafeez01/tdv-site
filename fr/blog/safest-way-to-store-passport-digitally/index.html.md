@@ -85,7 +85,7 @@ Lorsque vous ajoutez votre scan de passeport à l'application, il est chiffré �
 
 Travel Document Vault conserve vos documents sur votre téléphone par défaut. Le partage et l’exportation sont facultatifs, tout comme la sauvegarde chiffrée sur votre propre iCloud ou Google Drive avec Pro.
 
-Avec Pro, vous pouvez synchroniser les documents entre les appareils configurés sur la même plateforme. Si vous perdez votre téléphone, restaurez une sauvegarde enregistrée. La restauration cloud nécessite votre code de récupération. Pour la plupart des familles voyageant ensemble, stocker les documents sur le téléphone d'un parent est suffisant, et de nombreuses applications prennent en charge la synchronisation manuelle via sauvegarde, ce qui ajoute un niveau de flexibilité sans nécessiter un téléchargement cloud automatique.
+Avec Pro, vous pouvez synchroniser les documents entre les appareils configurés sur la même plateforme. Si vous perdez votre téléphone, restaurez une sauvegarde enregistrée. La restauration cloud nécessite votre code de récupération. Pour la plupart des familles voyageant ensemble, stocker les documents sur le téléphone d'un parent est suffisant, et de nombreuses applications prennent en charge la synchronisation manuelle via sauvegarde, ce qui ajoute un niveau de flexibilité sans nécessiter un téléchargement cloud automatique. Si vous partez en famille dans l'espace Schengen, voici comment [compter vos jours Schengen avec le EES](https://traveldocumentvault.com/fr/blog/schengen-90-days-auto-tracked-ees/).
 
 ## Chiffrement, compte et coût en un coup d'œil
 
@@ -110,7 +110,7 @@ La réponse dépend de votre tolérance personnelle au risque et de votre cas d'
 
 **Évitez Google Photos pour le stockage de passeports.** L'absence de chiffrement de bout en bout par défaut associée à l'analyse de contenu la rend moins appropriée que les alternatives pour les documents d'identité sensibles. Si vous utilisez Google Photos, envisagez de conserver une sauvegarde ailleurs.
 
-**Choisissez une application chiffrée dédiée si :** La sécurité est votre préoccupation principale, vous souhaitez réduire le nombre de tiers détenant vos données et vous êtes à l'aise avec la sauvegarde manuelle et un accès multi-appareils moins pratique. Cette approche offre une meilleure isolation et est spécifiquement conçue pour les documents de voyage. Pour les familles, les applications qui prennent en charge plusieurs membres de la famille sous une seule application (sans téléchargement cloud) offrent un bon équilibre. Si nous choisissions uniquement pour un passeport, nous pencherions de ce côté, même si vos photos de tous les jours restaient dans le cloud.
+**Choisissez une application chiffrée dédiée si :** La sécurité est votre préoccupation principale, vous souhaitez réduire le nombre de tiers détenant vos données et vous êtes à l'aise avec la sauvegarde manuelle et un accès multi-appareils moins pratique. Cette approche offre une meilleure isolation et est spécifiquement conçue pour les documents de voyage. Pour les familles, les applications qui prennent en charge plusieurs membres de la famille sous une seule application (sans téléchargement cloud) offrent un bon équilibre. Si nous choisissions uniquement pour un passeport, nous pencherions de ce côté, même si vos photos de tous les jours restaient dans le cloud. Si c'est votre cas, voici les critères pour choisir [une application d’organisation de passeports](https://traveldocumentvault.com/fr/blog/best-passport-organizer-app/).
 
 ## Vous n'avez pas à en choisir une seule
 

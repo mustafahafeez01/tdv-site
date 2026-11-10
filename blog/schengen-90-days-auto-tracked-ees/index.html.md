@@ -68,7 +68,7 @@ If your dates are within the rule, entry carries on as normal. If they show you'
 
 EES currently exempts children under 12 from fingerprint collection. When a parent or guardian brings a child to the border, the officer still captures a facial image for the EES record - the system needs to know that this child crossed and when. The officer skips the fingerprints. At 12 years old, the rules shift; from that point forward, a child's biometric registration includes fingerprints.
 
-## Checking Your EES Days Left Takes Your Passport and One Date
+## How to Check How Long You Have Left Under EES
 
 The quickest official check is the EU's "Check how long you can stay" tool on the Travel to Europe website. It tells you whether your entry is allowed, shown as OK or not OK, and **how many days you're still allowed to stay** in the countries that use EES. Equipment at some external borders runs the same check, and passport control officers can tell you too.
 

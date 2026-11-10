@@ -36,7 +36,7 @@ Penerimaan salinan digital paspor untuk check-in bergantung pada akomodasi dan a
 
 ### Salinan Digital Bukan Dokumen untuk Naik Pesawat
 
-Untuk penerbangan internasional, Anda umumnya perlu menunjukkan paspor asli atau dokumen perjalanan lain yang diterima di gerbang keberangkatan. Salinan digital bukan dokumen untuk naik pesawat.
+Untuk penerbangan internasional, Anda umumnya perlu menunjukkan paspor asli atau dokumen perjalanan lain yang diterima di gerbang keberangkatan. Salinan digital bukan dokumen untuk naik pesawat. Jika Anda bepergian ke kawasan Schengen, ada baiknya tahu cara [menghitung hari Schengen Anda di bawah EES](https://traveldocumentvault.com/id/blog/schengen-90-days-auto-tracked-ees/) sebelum berangkat.
 
 ### Tanyakan Dokumen Apa yang Diperlukan Perusahaan Sewa Mobil
 
@@ -81,7 +81,7 @@ Salinan paspor berisi informasi identitas yang sensitif, termasuk nama lengkap, 
 - **Jangan pernah membagikannya tanpa keperluan jelas**. Berikan salinan paspor Anda hanya kepada bisnis sah yang sedang benar-benar Anda ajak bertransaksi.
 - **Simpan salinan terpisah dari paspor fisik Anda**. Jika tas Anda dicuri, Anda ingin cadangannya ada di tempat lain.
 
-Kalau Anda hanya mau memperbaiki satu kebiasaan, ganti PDF yang dikirim lewat email atau foto di galeri ponsel dengan aplikasi terenkripsi. Salinan yang disimpan sembarangan itulah yang paling mungkin jatuh ke tangan yang salah jika ponsel atau kotak masuk email Anda diretas.
+Kalau Anda hanya mau memperbaiki satu kebiasaan, ganti PDF yang dikirim lewat email atau foto di galeri ponsel dengan aplikasi terenkripsi. Salinan yang disimpan sembarangan itulah yang paling mungkin jatuh ke tangan yang salah jika ponsel atau kotak masuk email Anda diretas. Berikut hal yang perlu dicari dalam [aplikasi pengelola paspor](https://traveldocumentvault.com/id/blog/best-passport-organizer-app/).
 
 Jika Anda bertanya-tanya apakah penyimpanan cloud aman untuk salinan paspor, lihat panduan kami tentang [menyimpan paspor di Google Foto](https://traveldocumentvault.com/id/blog/is-it-safe-to-store-passport-in-google-photos/). Panduan ini menjelaskan mengapa aplikasi terenkripsi khusus memberikan perlindungan yang lebih kuat. Untuk perbandingan berdampingan antara iCloud, Google Foto, dan aplikasi terenkripsi, baca [cara teraman menyimpan paspor secara digital](https://traveldocumentvault.com/id/blog/safest-way-to-store-passport-digitally/).
 

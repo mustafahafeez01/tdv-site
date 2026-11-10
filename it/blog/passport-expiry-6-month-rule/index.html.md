@@ -1,4 +1,4 @@
-# Regola dei 6 Mesi del Passaporto: Si Può Viaggiare con Meno?
+# Regola dei 6 Mesi: Si Può Viaggiare se il Passaporto Scade tra 6 Mesi?
 
 > Passaporto in scadenza entro 6 mesi? Quali paesi applicano la regola, quali chiedono solo validità per il soggiorno e come controllare prima di prenotare.
 

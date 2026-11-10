@@ -1,4 +1,4 @@
-# Paspor Kedaluwarsa di Inggris: Bisakah Anda Bepergian atau Memesan Liburan?
+# Paspor Inggris Kedaluwarsa: Bisakah Memesan Liburan atau Bepergian?
 
 > Memesan perjalanan tidak sama dengan naik pesawat. Apa yang diperiksa maskapai, kapan perpanjangan masih sempat, dan pengecualiannya.
 

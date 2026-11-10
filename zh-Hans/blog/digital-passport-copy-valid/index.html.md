@@ -36,7 +36,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/digital-passport-copy-valid
 
 ### 数字副本不能用来登机
 
-乘坐国际航班，通常需要在登机口出示护照原件或其他认可的旅行证件。数字副本不能作为登机证件。
+乘坐国际航班，通常需要在登机口出示护照原件或其他认可的旅行证件。数字副本不能作为登机证件。如果您要前往申根区，出发前最好了解[如何在EES下计算申根停留天数](https://traveldocumentvault.com/zh-Hans/blog/schengen-90-days-auto-tracked-ees/)。
 
 ### 向租车公司询问需要哪些证件
 
@@ -81,7 +81,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/digital-passport-copy-valid
 - **不要不必要地共享**。仅将您的护照副本提供给您正在积极进行交易的合法企业。
 - **将副本与您的实体护照分开保管**。如果您的包被盗，您希望备份在其他地方。
 
-如果只能改掉一个习惯，我们建议用加密应用取代通过电子邮件发送的 PDF 或相册里的照片，因为一旦手机或邮箱被攻破，这类随手存放的副本最容易落入他人之手。
+如果只能改掉一个习惯，我们建议用加密应用取代通过电子邮件发送的 PDF 或相册里的照片，因为一旦手机或邮箱被攻破，这类随手存放的副本最容易落入他人之手。这里介绍了如何挑选[护照管理应用](https://traveldocumentvault.com/zh-Hans/blog/best-passport-organizer-app/)。
 
 如果您想知道云存储对护照副本是否安全，请查看我们关于[在 Google Photos 中存储护照](https://traveldocumentvault.com/zh-Hans/blog/is-it-safe-to-store-passport-in-google-photos/)的指南。它解释了为什么专用加密应用程序提供更强的保护。
 

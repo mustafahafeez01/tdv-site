@@ -1,4 +1,4 @@
-# 6-månadersregeln för pass: kan du resa med mindre kvar?
+# 6-månadersregeln för pass: kan du resa med 6 månader kvar?
 
 > Passet går ut om under sex månader? Vilka länder tillämpar 6-månadersregeln, vilka bara kräver giltighet för vistelsen, och hur du kollar före bokning.
 

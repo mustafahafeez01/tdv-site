@@ -1,4 +1,4 @@
-# 6-Monats-Regel beim Reisepass: Reisen mit weniger?
+# 6-Monats-Regel beim Reisepass: Reisen mit 6 Monaten Restgültigkeit?
 
 > Reisepass läuft in weniger als 6 Monaten ab? Länder mit der 6-Monats-Regel, Länder die nur Gültigkeit für den Aufenthalt brauchen, und wie Sie das prüfen.
 

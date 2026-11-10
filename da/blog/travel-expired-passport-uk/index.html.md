@@ -1,4 +1,4 @@
-# Udløbet pas i Storbritannien: kan du rejse eller booke en ferie?
+# Udløbet britisk pas: kan du booke en ferie eller rejse?
 
 > At booke er ikke det samme som at gå om bord. Hvad flyselskabet tjekker, hvornår fornyelsen når at blive klar, og undtagelserne i Storbritannien.
 

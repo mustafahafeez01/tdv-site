@@ -1,4 +1,4 @@
-# Abgelaufener Pass UK: Können Sie reisen oder einen Urlaub buchen?
+# Abgelaufener britischer Reisepass: Können Sie Urlaub buchen oder reisen?
 
 > Eine Reise buchen ist nicht dasselbe wie boarden. Was die Fluggesellschaft prüft, wann eine Erneuerung noch reicht, und die engen Ausnahmen.
 

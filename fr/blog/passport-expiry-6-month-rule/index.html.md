@@ -1,4 +1,4 @@
-# Règle des 6 mois du passeport : peut-on voyager avec moins ?
+# Règle des 6 mois du passeport : peut-on voyager s'il reste 6 mois ?
 
 > Passeport expirant dans moins de 6 mois ? Pays appliquant la règle, pays exigeant seulement la durée du séjour, et comment vérifier avant de réserver.
 

@@ -1,4 +1,4 @@
-# 6-måneders-reglen for pas: kan du rejse med mindre tilbage?
+# 6-måneders-reglen for pas: kan du rejse med 6 måneder tilbage?
 
 > Udløber dit pas inden et halvt år? Hvilke lande håndhæver 6-måneders-reglen, hvilke kun kræver gyldighed på rejsen, og hvordan du tjekker før du booker.
 

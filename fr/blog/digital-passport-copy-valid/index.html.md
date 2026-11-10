@@ -36,7 +36,7 @@ L'acceptation d'une copie numérique de passeport pour l'enregistrement dépend 
 
 ### Une copie numérique n'est pas un document d'embarquement
 
-Pour les vols internationaux, vous devrez généralement présenter le passeport original ou un autre document de voyage accepté à la porte d'embarquement. Une copie numérique n'est pas un document d'embarquement.
+Pour les vols internationaux, vous devrez généralement présenter le passeport original ou un autre document de voyage accepté à la porte d'embarquement. Une copie numérique n'est pas un document d'embarquement. Si vous partez dans l'espace Schengen, mieux vaut savoir [compter vos jours Schengen avec le EES](https://traveldocumentvault.com/fr/blog/schengen-90-days-auto-tracked-ees/) avant le départ.
 
 ### Demandez quels documents le loueur exige
 
@@ -81,7 +81,7 @@ Les copies de passeport contiennent des informations d'identité sensibles : vot
 - **Ne partagez jamais inutilement**. Fournissez votre copie de passeport uniquement aux entreprises légitimes avec lesquelles vous effectuez activement des transactions.
 - **Gardez les copies séparées de votre passeport physique**. Si votre sac est volé, vous voulez que la sauvegarde soit ailleurs.
 
-Si vous ne deviez changer qu'une seule habitude, remplacez le PDF envoyé par email ou la photo dans la pellicule par une application chiffrée : cette copie improvisée est celle qui a le plus de chances de tomber entre de mauvaises mains si votre téléphone ou votre messagerie est un jour compromis.
+Si vous ne deviez changer qu'une seule habitude, remplacez le PDF envoyé par email ou la photo dans la pellicule par une application chiffrée : cette copie improvisée est celle qui a le plus de chances de tomber entre de mauvaises mains si votre téléphone ou votre messagerie est un jour compromis. Voici les critères pour choisir [une application d’organisation de passeports](https://traveldocumentvault.com/fr/blog/best-passport-organizer-app/).
 
 Si vous vous demandez si le stockage en nuage est sûr pour les copies de passeport, consultez notre guide pour [stocker les passeports dans Google Photos](https://traveldocumentvault.com/fr/blog/is-it-safe-to-store-passport-in-google-photos/). Il explique pourquoi une application chiffrée dédiée offre une protection plus forte.
 

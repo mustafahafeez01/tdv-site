@@ -62,7 +62,7 @@ Se as suas datas estiverem dentro da regra, a entrada decorre normalmente. Se mo
 
 O EES isenta atualmente as crianças com menos de 12 anos da recolha de impressões digitais. Quando um pai, mãe ou tutor leva uma criança à fronteira, o agente capta na mesma uma imagem facial para o registo do EES - o sistema precisa de saber que essa criança passou, e quando. O agente dispensa as impressões digitais. Aos 12 anos as regras mudam; a partir daí, o registo biométrico de uma criança passa a incluir impressões digitais.
 
-## Consultar os seus dias EES restantes: passaporte e uma data
+## Como verificar quanto tempo lhe resta no EES
 
 A verificação oficial mais rápida é a ferramenta "Quanto tempo pode ficar" no site Travel to Europe. Indica se a sua entrada é permitida, com uma resposta OK ou NOT OK, e **quantos dias ainda pode permanecer** nos países que utilizam o EES. O equipamento em algumas fronteiras externas realiza a mesma verificação, e os agentes de controlo de passaportes também podem informá-lo.
 

@@ -36,7 +36,7 @@ Digital passport copy acceptance for check-in depends on the property and local 
 
 ### A Digital Copy Isn't Boarding Documentation
 
-For international flights, you'll generally need to present the original passport or another accepted travel document at the gate. The digital copy isn't boarding documentation.
+For international flights, you'll generally need to present the original passport or another accepted travel document at the gate. The digital copy isn't boarding documentation. If your trip is to the Schengen area, it's worth knowing how to [count your Schengen days under EES](https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/) before you go.
 
 ### Ask Which Documents the Car Hire Company Needs
 
@@ -81,7 +81,7 @@ Passport copies contain sensitive identity information, including your full name
 - **Never share unnecessarily**. Only provide your passport copy to legitimate businesses with whom you are actively transacting.
 - **Keep copies separate from your physical passport**. If your bag is stolen, you want the backup somewhere else.
 
-If you only fix one habit, swap the emailed PDF or camera-roll photo for an encrypted app, since that casual copy is the one most likely to end up in the wrong hands if your phone or inbox is ever compromised.
+If you only fix one habit, swap the emailed PDF or camera-roll photo for an encrypted app, since that casual copy is the one most likely to end up in the wrong hands if your phone or inbox is ever compromised. Here's what to look for in [a passport organiser app](https://traveldocumentvault.com/blog/best-passport-organizer-app/).
 
 If you're wondering whether cloud storage is safe for passport copies, see our guide to [storing passports in Google Photos](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/). It explains why a dedicated encrypted app offers stronger protection. For a side-by-side comparison of iCloud, Google Photos and encrypted apps, read [the safest way to store a passport digitally](https://traveldocumentvault.com/blog/safest-way-to-store-passport-digitally/).
 

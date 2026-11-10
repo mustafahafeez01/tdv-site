@@ -1,4 +1,4 @@
-# Verlopen paspoort VK: kun je reizen of een vakantie boeken?
+# Verlopen Brits paspoort: kun je een vakantie boeken of reizen?
 
 > Een reis boeken is niet aan boord gaan. Wat de luchtvaartmaatschappij controleert, wanneer een verlenging nog op tijd is, en de uitzonderingen.
 

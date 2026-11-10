@@ -36,7 +36,7 @@ L'accettazione di una copia digitale del passaporto al check-in dipende dalla st
 
 ### Una copia digitale non è un documento per l'imbarco
 
-Per i voli internazionali generalmente devi mostrare al gate il passaporto originale o un altro documento di viaggio accettato. La copia digitale non è un documento per l'imbarco.
+Per i voli internazionali generalmente devi mostrare al gate il passaporto originale o un altro documento di viaggio accettato. La copia digitale non è un documento per l'imbarco. Se il viaggio è nell'area Schengen, conviene sapere come [contare i tuoi giorni Schengen con EES](https://traveldocumentvault.com/it/blog/schengen-90-days-auto-tracked-ees/) prima di partire.
 
 ### Chiedi quali documenti servono all'agenzia di autonoleggio
 
@@ -81,7 +81,7 @@ Le copie del passaporto contengono informazioni di identità sensibili: nome com
 - **Non condividerla mai senza motivo**. Dai la copia del passaporto solo ad aziende legittime con cui hai davvero a che fare.
 - **Tieni le copie separate dal passaporto fisico**. Se ti rubano la borsa, il backup ti serve da un'altra parte.
 
-Se devi correggere una sola abitudine, sostituisci il PDF mandato per email o la foto nel rullino con un'app crittografata: è proprio quella copia lasciata in giro a rischiare di più, se il telefono o la posta vengono compromessi.
+Se devi correggere una sola abitudine, sostituisci il PDF mandato per email o la foto nel rullino con un'app crittografata: è proprio quella copia lasciata in giro a rischiare di più, se il telefono o la posta vengono compromessi. Ecco cosa cercare in [un’app per organizzare i passaporti](https://traveldocumentvault.com/it/blog/best-passport-organizer-app/).
 
 Se ti chiedi se il cloud sia sicuro per le copie del passaporto, leggi la nostra guida su [l'archiviazione dei passaporti in Google Foto](https://traveldocumentvault.com/it/blog/is-it-safe-to-store-passport-in-google-photos/). Spiega perché un'app crittografata dedicata offre una protezione più forte.
 

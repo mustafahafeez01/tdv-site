@@ -1,4 +1,4 @@
-# Kan du forny dit pas, før det udløber?
+# Kan du forny dit pas i god tid, før det udløber?
 
 > Ja, du kan forny dit pas i god tid. Her er, hvad det koster dig i ubrugte måneder, hvad et nyt pasnummer ændrer, og hvornår vi selv ville ansøge.
 

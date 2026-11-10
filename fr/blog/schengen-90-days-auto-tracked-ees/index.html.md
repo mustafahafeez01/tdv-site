@@ -62,7 +62,7 @@ Si vos dates respectent la règle, l'entrée se déroule normalement. Si elles m
 
 Le EES exempte actuellement les enfants de moins de 12 ans du relevé d'empreintes digitales. Lorsqu'un parent ou un tuteur amène un enfant à la frontière, l'agent capture tout de même une image faciale pour le dossier EES - le système doit savoir que cet enfant a franchi la frontière, et quand. L'agent se dispense des empreintes. À 12 ans, les règles changent; à partir de cet âge, l'enregistrement biométrique d'un enfant inclut les empreintes digitales.
 
-## Vérifier vos jours EES restants : votre passeport et une date suffisent
+## Comment vérifier combien de temps il vous reste sous le EES
 
 La vérification officielle la plus rapide est l'outil « Combien de temps pouvez-vous rester » sur le site Travel to Europe. Il vous indique si votre entrée est autorisée, avec une réponse OK ou NOT OK, et **combien de jours il vous reste** dans les pays qui utilisent le EES. Certains postes-frontières extérieurs proposent le même contrôle sur leurs équipements, et les agents de contrôle des passeports peuvent aussi vous renseigner.
 

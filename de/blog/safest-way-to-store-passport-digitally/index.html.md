@@ -85,7 +85,7 @@ Wenn Sie einen Reisepass-Scan zur App hinzufügen, wird er mit AES-256 verschlü
 
 Travel Document Vault bewahrt Ihre Dokumente standardmäßig auf Ihrem Telefon auf. Teilen und Export sind optional, ebenso wie verschlüsselte Backups in Ihrem eigenen iCloud oder Google Drive mit Pro.
 
-Mit Pro können Sie Dokumente zwischen eingerichteten Geräten derselben Plattform synchronisieren. Wenn Sie Ihr Telefon verlieren, stellen Sie ein gespeichertes Backup wieder her. Für die Cloud-Wiederherstellung benötigen Sie Ihren Wiederherstellungscode. Für die meisten Familien, die zusammen reisen, ist das Speichern von Dokumenten auf dem Telefon eines Elternteils ausreichend, und viele Apps unterstützen manuelles Syncing über Sicherung, was eine Ebene der Flexibilität hinzufügt, ohne dass automatischer Cloud-Upload erforderlich ist.
+Mit Pro können Sie Dokumente zwischen eingerichteten Geräten derselben Plattform synchronisieren. Wenn Sie Ihr Telefon verlieren, stellen Sie ein gespeichertes Backup wieder her. Für die Cloud-Wiederherstellung benötigen Sie Ihren Wiederherstellungscode. Für die meisten Familien, die zusammen reisen, ist das Speichern von Dokumenten auf dem Telefon eines Elternteils ausreichend, und viele Apps unterstützen manuelles Syncing über Sicherung, was eine Ebene der Flexibilität hinzufügt, ohne dass automatischer Cloud-Upload erforderlich ist. Wenn Sie als Familie in den Schengen-Raum reisen, erfahren Sie hier, wie Sie [Ihre Schengen-Tage unter dem EES zählen](https://traveldocumentvault.com/de/blog/schengen-90-days-auto-tracked-ees/).
 
 ## Verschlüsselung, Konto und Kosten auf einen Blick
 
@@ -110,7 +110,7 @@ Die Antwort hängt von Ihrer persönlichen Risikotoleranz und Ihrem Anwendungsfa
 
 **Vermeiden Sie Google Fotos für die Reisepass-Speicherung.** Das Fehlen der Standard-Ende-zu-Ende-Verschlüsselung in Verbindung mit der Inhaltsanalyse macht es weniger geeignet für sensible Identitätsdokumente als Alternativen. Wenn Sie Google Fotos verwenden, sollten Sie eine Sicherung an anderer Stelle führen.
 
-**Wählen Sie eine dedizierte verschlüsselte App, wenn:** Sicherheit Ihre Hauptanliegen ist, Sie die Anzahl der Drittparteien, die Ihre Daten halten, reduzieren möchten und Sie mit manueller Sicherung und weniger bequemem Geräteübergreifenden Zugriff zufrieden sind. Dieser Ansatz bietet stärkere Isolation und ist speziell für Reisedokumente konzipiert. Für Familien bieten Apps, die mehrere Familienmitglieder unter einer App unterstützen (ohne Cloud-Upload), einen guten Ausgleich. Wenn wir nur für einen Reisepass wählen müssten, würden wir zu diesem Ansatz tendieren, selbst wenn Ihre Alltagsfotos weiterhin in der Cloud bleiben.
+**Wählen Sie eine dedizierte verschlüsselte App, wenn:** Sicherheit Ihre Hauptanliegen ist, Sie die Anzahl der Drittparteien, die Ihre Daten halten, reduzieren möchten und Sie mit manueller Sicherung und weniger bequemem Geräteübergreifenden Zugriff zufrieden sind. Dieser Ansatz bietet stärkere Isolation und ist speziell für Reisedokumente konzipiert. Für Familien bieten Apps, die mehrere Familienmitglieder unter einer App unterstützen (ohne Cloud-Upload), einen guten Ausgleich. Wenn wir nur für einen Reisepass wählen müssten, würden wir zu diesem Ansatz tendieren, selbst wenn Ihre Alltagsfotos weiterhin in der Cloud bleiben. Wenn das auf Sie zutrifft, lesen Sie hier, worauf es bei [einer App zum Organisieren von Reisepässen](https://traveldocumentvault.com/de/blog/best-passport-organizer-app/) ankommt.
 
 ## Sie müssen sich nicht für nur eine Möglichkeit entscheiden
 

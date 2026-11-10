@@ -85,7 +85,7 @@ When you add your passport scan to the app, it's encrypted using AES-256 and sto
 
 Travel Document Vault keeps your documents on your phone by default. Sharing and export are optional, as is encrypted backup to your own iCloud or Google Drive with Pro.
 
-With Pro, you can sync documents across configured devices on the same platform. If you lose your phone, restore a saved backup. Cloud restore needs your recovery code. For most families travelling together, storing documents on one parent's phone is sufficient anyway, and many apps support manual syncing via backup, which adds a layer of flexibility without requiring automatic cloud upload.
+With Pro, you can sync documents across configured devices on the same platform. If you lose your phone, restore a saved backup. Cloud restore needs your recovery code. For most families travelling together, storing documents on one parent's phone is sufficient anyway, and many apps support manual syncing via backup, which adds a layer of flexibility without requiring automatic cloud upload. If you're heading to the Schengen area together, here's how to [count your Schengen days under EES](https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/).
 
 ## Encryption, Account and Cost at a Glance
 
@@ -110,7 +110,7 @@ The answer depends on your personal risk tolerance and use case.
 
 **Avoid Google Photos for passport storage.** The lack of default end-to-end encryption combined with content scanning makes it less suitable for sensitive identity documents than alternatives. If you use Google Photos, consider keeping a backup elsewhere.
 
-**Choose a dedicated encrypted app if:** Security is your primary concern, you want to reduce the number of third parties holding your data, and you are comfortable with manual backup and less convenient cross-device access. This approach offers stronger isolation and is specifically designed for travel documents. For families, apps that support multiple family members under one app (with no cloud upload) offer good balance. If we were choosing just for a passport, we'd lean this way, even if our everyday photos stayed in the cloud.
+**Choose a dedicated encrypted app if:** Security is your primary concern, you want to reduce the number of third parties holding your data, and you are comfortable with manual backup and less convenient cross-device access. This approach offers stronger isolation and is specifically designed for travel documents. For families, apps that support multiple family members under one app (with no cloud upload) offer good balance. If we were choosing just for a passport, we'd lean this way, even if our everyday photos stayed in the cloud. If that sounds like you, here's what to look for in [a passport organiser app](https://traveldocumentvault.com/blog/best-passport-organizer-app/).
 
 ## You Don't Have to Choose Just One
 

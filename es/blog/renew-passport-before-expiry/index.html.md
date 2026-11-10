@@ -1,4 +1,4 @@
-# ¿Se puede renovar el pasaporte antes de que caduque?
+# ¿Se puede renovar el pasaporte con antelación, antes de que caduque?
 
 > Sí, puedes renovar el pasaporte con antelación. Esto es lo que cuesta en meses sin usar, qué cambia el nuevo número de pasaporte y cuándo lo haríamos.
 

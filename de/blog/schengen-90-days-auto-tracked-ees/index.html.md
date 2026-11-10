@@ -62,7 +62,7 @@ Liegen Ihre Daten innerhalb der Regel, läuft die Einreise wie gewohnt ab. Zeige
 
 Das EES nimmt Kinder unter 12 Jahren derzeit von der Fingerabdruckerfassung aus. Wenn ein Elternteil oder Erziehungsberechtigter ein Kind zur Grenze bringt, erfasst der Beamte trotzdem ein Gesichtsbild für die EES-Akte - das System muss wissen, dass dieses Kind die Grenze überquert hat und wann. Der Beamte lässt die Fingerabdrücke aus. Mit 12 Jahren ändern sich die Regeln; ab diesem Zeitpunkt umfasst die biometrische Registrierung eines Kindes auch Fingerabdrücke.
 
-## EES-Resttage prüfen: Reisepass und ein Datum genügen
+## So prüfen Sie, wie lange Sie unter dem EES noch bleiben dürfen
 
 Die schnellste offizielle Prüfung ist das Tool „Wie lange dürfen Sie bleiben“ auf der Website Travel to Europe. Es zeigt Ihnen, ob Ihre Einreise erlaubt ist, mit der Antwort OK oder NOT OK, und **wie viele Tage Sie noch bleiben dürfen** in den Ländern, die das EES nutzen. An manchen Außengrenzübergängen führt die gleiche Prüfung ein Gerät durch, und auch Grenzbeamte können es Ihnen sagen.
 

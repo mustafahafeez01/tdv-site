@@ -1,4 +1,4 @@
-# 6-Month Passport Rule: Can You Travel With Less Left?
+# 6-Month Passport Rule: Can You Travel With 6 Months Left?
 
 > Passport expires in under six months? Which countries enforce the 6-month rule, which only need validity for your stay, and how to check before you book.
 

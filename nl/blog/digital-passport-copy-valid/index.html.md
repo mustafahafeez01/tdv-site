@@ -36,7 +36,7 @@ Of een hotel een digitale paspoortkopie accepteert bij het inchecken, hangt af v
 
 ### Een digitale kopie is geen reisdocument om aan boord te gaan
 
-Bij internationale vluchten moet je doorgaans het originele paspoort of een ander geaccepteerd reisdocument tonen bij de gate. Een digitale kopie volstaat niet om aan boord te gaan.
+Bij internationale vluchten moet je doorgaans het originele paspoort of een ander geaccepteerd reisdocument tonen bij de gate. Een digitale kopie volstaat niet om aan boord te gaan. Ga je naar het Schengengebied, dan is het handig om vooraf te weten hoe je [je Schengendagen telt onder EES](https://traveldocumentvault.com/nl/blog/schengen-90-days-auto-tracked-ees/).
 
 ### Vraag welke documenten het autoverhuurbedrijf nodig heeft
 
@@ -81,7 +81,7 @@ Paspoortkopieën bevatten gevoelige identiteitsinformatie, waaronder je volledig
 - **Deel nooit onnodig**. Verstrek je paspoortkopie alleen aan legitieme bedrijven waarmee je daadwerkelijk zaken doet.
 - **Bewaar kopieën gescheiden van je fysieke paspoort**. Wordt je tas gestolen, dan wil je dat de back-up ergens anders is.
 
-Als je maar één gewoonte aanpast: vervang de gemailde pdf of de foto in je fotorol door een versleutelde app. Juist die losse kopie komt het eerst in verkeerde handen als je telefoon of inbox ooit wordt gecompromitteerd.
+Als je maar één gewoonte aanpast: vervang de gemailde pdf of de foto in je fotorol door een versleutelde app. Juist die losse kopie komt het eerst in verkeerde handen als je telefoon of inbox ooit wordt gecompromitteerd. Hier lees je waar je op let bij [een app om je paspoorten te ordenen](https://traveldocumentvault.com/nl/blog/best-passport-organizer-app/).
 
 Vraag je je af of cloudopslag veilig is voor paspoortkopieën, bekijk dan onze gids over [het bewaren van paspoorten in Google Foto's](https://traveldocumentvault.com/nl/blog/is-it-safe-to-store-passport-in-google-photos/). Die legt uit waarom een speciale versleutelde app sterkere bescherming biedt. Voor een vergelijking naast elkaar van iCloud, Google Foto's en versleutelde apps, lees [de veiligste manier om een paspoort digitaal te bewaren](https://traveldocumentvault.com/nl/blog/safest-way-to-store-passport-digitally/).
 

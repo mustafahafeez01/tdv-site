@@ -62,7 +62,7 @@ Er dine datoer inden for reglen, forløber indrejsen som normalt. Viser de, at d
 
 EES undtager i øjeblikket børn under 12 år fra fingeraftryksindsamling. Når en forælder eller værge tager et barn med til grænsen, tager betjenten alligevel et ansigtsbillede til EES-registreringen - systemet skal vide, at dette barn krydsede grænsen, og hvornår. Betjenten springer fingeraftrykkene over. Ved 12 år skifter reglerne; fra det tidspunkt omfatter et barns biometriske registrering også fingeraftryk.
 
-## At tjekke dine resterende EES-dage kræver kun dit pas og én dato
+## Sådan tjekker du, hvor længe du har tilbage under EES
 
 Den hurtigste officielle måde at tjekke det på er EU's værktøj "Check how long you can stay" på hjemmesiden Travel to Europe. Det viser, om din indrejse er tilladt, vist som OK eller ikke OK, og **hvor mange dage du stadig må blive** i de lande, der bruger EES. Udstyr ved nogle ydre grænser laver samme tjek, og grænsekontrollører kan også oplyse dig om det.
 

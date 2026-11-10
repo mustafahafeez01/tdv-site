@@ -62,7 +62,7 @@ Se le tue date rientrano nella regola, l'ingresso procede normalmente. Se mostra
 
 EES esenta attualmente i bambini sotto i 12 anni dalla raccolta delle impronte digitali. Quando un genitore o tutore porta un bambino alla frontiera, il funzionario acquisisce comunque un'immagine facciale per il profilo EES - il sistema deve sapere che quel bambino ha attraversato, e quando. Il funzionario salta le impronte. A 12 anni le regole cambiano; da quel momento in poi, la registrazione biometrica di un bambino include le impronte digitali.
 
-## Controllare i giorni EES rimasti: bastano il passaporto e una data
+## Come controllare quanto tempo ti resta con EES
 
 Il controllo ufficiale più rapido è lo strumento "Quanto tempo può restare" sul sito Travel to Europe. Ti dice se il tuo ingresso è consentito, con una risposta OK o NOT OK, e **quanti giorni ti restano** nei paesi che usano EES. Alcuni valichi di frontiera esterni offrono lo stesso controllo tramite apparecchiature dedicate, e possono dirtelo anche i funzionari del controllo passaporti.
 

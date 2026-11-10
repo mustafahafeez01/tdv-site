@@ -85,7 +85,7 @@ Cuando añades tu copia de pasaporte a la aplicación, se encripta usando AES-25
 
 Travel Document Vault guarda tus documentos en tu teléfono por defecto. Compartir y exportar son opcionales, al igual que la copia de seguridad cifrada en tu propio iCloud o Google Drive con Pro.
 
-Con Pro, puedes sincronizar documentos entre dispositivos configurados de la misma plataforma. Si pierdes tu teléfono, restaura una copia de seguridad guardada. La restauración desde la nube requiere tu código de recuperación. Para la mayoría de las familias que viajan juntas, almacenar documentos en el teléfono de un padre es suficiente, y muchas aplicaciones soportan sincronización manual vía copia de seguridad, lo que añade una capa de flexibilidad sin requerir carga automática a la nube.
+Con Pro, puedes sincronizar documentos entre dispositivos configurados de la misma plataforma. Si pierdes tu teléfono, restaura una copia de seguridad guardada. La restauración desde la nube requiere tu código de recuperación. Para la mayoría de las familias que viajan juntas, almacenar documentos en el teléfono de un padre es suficiente, y muchas aplicaciones soportan sincronización manual vía copia de seguridad, lo que añade una capa de flexibilidad sin requerir carga automática a la nube. Si vas en familia al espacio Schengen, aquí tienes cómo [contar tus días Schengen con EES](https://traveldocumentvault.com/es/blog/schengen-90-days-auto-tracked-ees/).
 
 ## Cifrado, Cuenta y Coste de un Vistazo
 
@@ -110,7 +110,7 @@ La respuesta depende de tu tolerancia personal al riesgo y caso de uso.
 
 **Evita Google Photos para almacenamiento de pasaporte.** La falta de cifrado de extremo a extremo por defecto combinada con escaneo de contenido la hace menos adecuada para documentos de identidad sensibles que alternativas. Si usas Google Photos, considera mantener una copia de seguridad en otro lugar.
 
-**Elige una aplicación cifrada dedicada si:** La seguridad es tu preocupación principal, deseas reducir el número de terceros que tienen tus datos y estás cómodo con respaldo manual y acceso menos conveniente entre dispositivos. Este enfoque ofrece aislamiento más fuerte y está diseñado específicamente para documentos de viaje. Para familias, las aplicaciones que soportan múltiples miembros de la familia bajo una aplicación (sin carga a la nube) ofrecen buen equilibrio. Si eligiéramos solo para un pasaporte, nos inclinaríamos por esta opción, aunque tus fotos de siempre siguieran en la nube.
+**Elige una aplicación cifrada dedicada si:** La seguridad es tu preocupación principal, deseas reducir el número de terceros que tienen tus datos y estás cómodo con respaldo manual y acceso menos conveniente entre dispositivos. Este enfoque ofrece aislamiento más fuerte y está diseñado específicamente para documentos de viaje. Para familias, las aplicaciones que soportan múltiples miembros de la familia bajo una aplicación (sin carga a la nube) ofrecen buen equilibrio. Si eligiéramos solo para un pasaporte, nos inclinaríamos por esta opción, aunque tus fotos de siempre siguieran en la nube. Si es tu caso, aquí tienes qué buscar en [una app para organizar pasaportes](https://traveldocumentvault.com/es/blog/best-passport-organizer-app/).
 
 ## No Tienes que Elegir Solo Uno
 

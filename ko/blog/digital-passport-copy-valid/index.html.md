@@ -36,7 +36,7 @@ Source: https://traveldocumentvault.com/ko/blog/digital-passport-copy-valid/
 
 ### 디지털 사본은 탑승 서류가 아닙니다
 
-국제 항공편에서는 일반적으로 탑승구에서 원본 여권이나 그 밖에 인정되는 여행 서류를 제시해야 합니다. 디지털 사본은 탑승 서류가 아닙니다.
+국제 항공편에서는 일반적으로 탑승구에서 원본 여권이나 그 밖에 인정되는 여행 서류를 제시해야 합니다. 디지털 사본은 탑승 서류가 아닙니다. 솅겐 지역으로 여행한다면 출발 전에 [EES에서 솅겐 체류 일수를 세는 방법](https://traveldocumentvault.com/ko/blog/schengen-90-days-auto-tracked-ees/)을 알아 두면 좋습니다.
 
 ### 필요한 서류를 자동차 렌탈 회사에 문의하십시오
 
@@ -81,7 +81,7 @@ Source: https://traveldocumentvault.com/ko/blog/digital-passport-copy-valid/
 - **불필요하게 공유하지 마십시오**. 실제로 거래 중인 정당한 업체에만 여권 사본을 제공하십시오.
 - **사본을 물리 여권과 분리하여 보관하십시오**. 가방을 도난당한 경우, 백업이 다른 곳에 있기를 원합니다.
 
-습관 하나만 고친다면, 이메일로 보낸 PDF나 사진첩에 있는 사진 대신 암호화된 앱을 쓰시길 권합니다. 휴대폰이나 메일함이 뚫렸을 때 가장 먼저 엉뚱한 사람 손에 들어가는 것이 바로 그런 무심한 사본이기 때문입니다.
+습관 하나만 고친다면, 이메일로 보낸 PDF나 사진첩에 있는 사진 대신 암호화된 앱을 쓰시길 권합니다. 휴대폰이나 메일함이 뚫렸을 때 가장 먼저 엉뚱한 사람 손에 들어가는 것이 바로 그런 무심한 사본이기 때문입니다. [여권 관리 앱](https://traveldocumentvault.com/ko/blog/best-passport-organizer-app/)을 고를 때 살펴볼 점도 정리해 두었습니다.
 
 클라우드 스토리지가 여권 사본에 안전한지 궁금하다면, [Google Photos에 여권 저장에 대한 가이드](https://traveldocumentvault.com/ko/blog/is-it-safe-to-store-passport-in-google-photos/)를 참조하세요. 이는 전용 암호화 앱이 더 강력한 보호를 제공하는 이유를 설명합니다.
 

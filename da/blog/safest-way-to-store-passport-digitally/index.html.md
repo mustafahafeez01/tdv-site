@@ -85,7 +85,7 @@ Når du tilføjer din paskopi i appen, krypteres den med AES-256 og gemmes udelu
 
 Travel Document Vault gemmer som standard dine dokumenter på din telefon. Deling og eksport er valgfrie, ligesom krypteret backup til din egen iCloud eller Google Drive med Pro.
 
-Med Pro kan du synkronisere dokumenter mellem konfigurerede enheder på samme platform. Hvis du mister telefonen, kan du gendanne en gemt backup. Gendannelse fra skyen kræver din gendannelseskode. For de fleste familier, der rejser sammen, er det alligevel tilstrækkeligt at opbevare dokumenter på én forælders telefon, og mange apps understøtter manuel synkronisering via backup, hvilket giver ekstra fleksibilitet uden at kræve automatisk cloud-upload.
+Med Pro kan du synkronisere dokumenter mellem konfigurerede enheder på samme platform. Hvis du mister telefonen, kan du gendanne en gemt backup. Gendannelse fra skyen kræver din gendannelseskode. For de fleste familier, der rejser sammen, er det alligevel tilstrækkeligt at opbevare dokumenter på én forælders telefon, og mange apps understøtter manuel synkronisering via backup, hvilket giver ekstra fleksibilitet uden at kræve automatisk cloud-upload. Rejser I som familie til Schengenområdet? Sådan [tæller du dine Schengen-dage under EES](https://traveldocumentvault.com/da/blog/schengen-90-days-auto-tracked-ees/).
 
 ## Kryptering, konto og pris i overblik
 
@@ -110,7 +110,7 @@ Svaret afhænger af din personlige risikotolerance og brugssituation.
 
 **Undgå Google Photos til opbevaring af pas.** Manglen på ende-til-ende-kryptering som standard, kombineret med indholdsscanning, gør det mindre velegnet til følsomme identitetsdokumenter end alternativerne. Hvis du bruger Google Photos, kan du overveje at holde en backup et andet sted.
 
-**Vælg en dedikeret krypteret app, hvis:** sikkerhed er din primære bekymring, du ønsker at reducere antallet af tredjeparter, der har dine data, og du er tryg ved manuel backup og mindre bekvem adgang på tværs af enheder. Denne tilgang giver stærkere isolation og er specifikt designet til rejsedokumenter. For familier tilbyder apps, der understøtter flere familiemedlemmer i én app (uden cloud-upload), en god balance. Skulle vi vælge udelukkende til et pas, ville vi læne os mod denne løsning, selv hvis vores hverdagsbilleder blev i skyen.
+**Vælg en dedikeret krypteret app, hvis:** sikkerhed er din primære bekymring, du ønsker at reducere antallet af tredjeparter, der har dine data, og du er tryg ved manuel backup og mindre bekvem adgang på tværs af enheder. Denne tilgang giver stærkere isolation og er specifikt designet til rejsedokumenter. For familier tilbyder apps, der understøtter flere familiemedlemmer i én app (uden cloud-upload), en god balance. Skulle vi vælge udelukkende til et pas, ville vi læne os mod denne løsning, selv hvis vores hverdagsbilleder blev i skyen. Hvis det passer på dig, kan du her se, hvordan du vælger [en app til at organisere pas](https://traveldocumentvault.com/da/blog/best-passport-organizer-app/).
 
 ## Du behøver ikke vælge kun én
 

@@ -85,7 +85,7 @@ Quando adiciona a sua digitalização de passaporte à aplicação, é encriptad
 
 Travel Document Vault mantém os documentos no telemóvel por predefinição. A partilha e a exportação são opcionais, tal como a cópia de segurança encriptada para o seu próprio iCloud ou Google Drive com Pro.
 
-Com Pro, pode sincronizar documentos entre dispositivos configurados na mesma plataforma. Se perder o telemóvel, restaure uma cópia de segurança guardada. A restauração na nuvem exige o código de recuperação. Para a maioria das famílias a viajar juntas, guardar documentos no telemóvel de um progenitor é suficiente, e muitas aplicações suportam sincronização manual via cópia de segurança, o que adiciona uma camada de flexibilidade sem exigir envio automático para a cloud.
+Com Pro, pode sincronizar documentos entre dispositivos configurados na mesma plataforma. Se perder o telemóvel, restaure uma cópia de segurança guardada. A restauração na nuvem exige o código de recuperação. Para a maioria das famílias a viajar juntas, guardar documentos no telemóvel de um progenitor é suficiente, e muitas aplicações suportam sincronização manual via cópia de segurança, o que adiciona uma camada de flexibilidade sem exigir envio automático para a cloud. Se viajar em família para o espaço Schengen, veja como [contar os seus dias Schengen com o EES](https://traveldocumentvault.com/pt/blog/schengen-90-days-auto-tracked-ees/).
 
 ## Encriptação, conta e custo num relance
 
@@ -110,7 +110,7 @@ A resposta depende da sua tolerância de risco pessoal e do caso de uso.
 
 **Evite Google Photos para armazenamento de passaportes.** A falta de encriptação de ponta a ponta padrão combinada com análise de conteúdo o torna menos adequado para documentos de identidade sensíveis do que alternativas. Se usa Google Photos, considere guardar uma cópia de segurança noutro lugar.
 
-**Escolha uma aplicação encriptada dedicada se:** A segurança é a sua preocupação principal, deseja reduzir o número de terceiros a manter os seus dados, e está confortável com cópia de segurança manual e acesso menos conveniente entre dispositivos. Esta abordagem oferece isolamento mais forte e é especificamente concebida para documentos de viagem. Para famílias, aplicações que suportam múltiplos membros da família sob uma aplicação (sem envio para a cloud) oferecem bom equilíbrio. Se estivéssemos a escolher apenas para um passaporte, inclinar-nos-íamos para este lado, mesmo que as fotografias do dia a dia continuassem na cloud.
+**Escolha uma aplicação encriptada dedicada se:** A segurança é a sua preocupação principal, deseja reduzir o número de terceiros a manter os seus dados, e está confortável com cópia de segurança manual e acesso menos conveniente entre dispositivos. Esta abordagem oferece isolamento mais forte e é especificamente concebida para documentos de viagem. Para famílias, aplicações que suportam múltiplos membros da família sob uma aplicação (sem envio para a cloud) oferecem bom equilíbrio. Se estivéssemos a escolher apenas para um passaporte, inclinar-nos-íamos para este lado, mesmo que as fotografias do dia a dia continuassem na cloud. Se for o seu caso, veja o que procurar numa [aplicação para organizar passaportes](https://traveldocumentvault.com/pt/blog/best-passport-organizer-app/).
 
 ## Não tem de escolher apenas uma
 

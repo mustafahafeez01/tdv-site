@@ -76,7 +76,10 @@
         const script = document.createElement('script');
         script.async = true;
         script.src = `https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`;
-        document.head.appendChild(script);
+        // Re-accepting after a withdrawal must not load the library twice.
+        if (!document.querySelector('script[src*="googletagmanager.com/gtag/js"]')) {
+            document.head.appendChild(script);
+        }
 
         // Initialize DataLayer
         window.dataLayer = window.dataLayer || [];
@@ -226,9 +229,16 @@
 
         document.getElementById('cb-decline').addEventListener('click', () => {
             localStorage.setItem(CONSENT_KEY, 'denied');
+            stopAnalytics();
             banner.classList.remove('visible');
             setTimeout(() => banner.remove(), 500);
         });
+    }
+
+    // Without consent no event may be sent. Every tracked link calls
+    // `window.gtag && gtag(...)`, so removing gtag stops them all at once.
+    function stopAnalytics() {
+        window.gtag = undefined;
     }
 
     // GDPR Article 7(3): withdrawing consent has to be as easy as giving it.
@@ -236,6 +246,7 @@
     // link clears the stored choice and puts the banner back.
     window.tdvCookieSettings = function () {
         localStorage.removeItem(CONSENT_KEY);
+        stopAnalytics();
         var existing = document.getElementById('cookie-banner');
         if (existing) { existing.remove(); }
         showConsentBanner();

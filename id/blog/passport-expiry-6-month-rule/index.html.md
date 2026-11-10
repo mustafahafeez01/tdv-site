@@ -1,4 +1,4 @@
-# Aturan Paspor 6 Bulan: Bisakah Bepergian dengan Sisa Kurang?
+# Aturan Paspor 6 Bulan: Bisakah Bepergian dengan Sisa 6 Bulan?
 
 > Paspor tersisa kurang dari enam bulan? Negara yang menerapkan aturan 6 bulan, yang cukup berlaku selama kunjungan, dan cara memeriksanya sebelum memesan.
 

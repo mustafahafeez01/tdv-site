@@ -643,7 +643,7 @@ Digital passport copy acceptance for check-in depends on the property and local 
 
 ### A Digital Copy Isn't Boarding Documentation
 
-For international flights, you'll generally need to present the original passport or another accepted travel document at the gate. The digital copy isn't boarding documentation.
+For international flights, you'll generally need to present the original passport or another accepted travel document at the gate. The digital copy isn't boarding documentation. If your trip is to the Schengen area, it's worth knowing how to [count your Schengen days under EES](https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/) before you go.
 
 ### Ask Which Documents the Car Hire Company Needs
 
@@ -688,7 +688,7 @@ Passport copies contain sensitive identity information, including your full name
 - **Never share unnecessarily**. Only provide your passport copy to legitimate businesses with whom you are actively transacting.
 - **Keep copies separate from your physical passport**. If your bag is stolen, you want the backup somewhere else.
 
-If you only fix one habit, swap the emailed PDF or camera-roll photo for an encrypted app, since that casual copy is the one most likely to end up in the wrong hands if your phone or inbox is ever compromised.
+If you only fix one habit, swap the emailed PDF or camera-roll photo for an encrypted app, since that casual copy is the one most likely to end up in the wrong hands if your phone or inbox is ever compromised. Here's what to look for in [a passport organiser app](https://traveldocumentvault.com/blog/best-passport-organizer-app/).
 
 If you're wondering whether cloud storage is safe for passport copies, see our guide to [storing passports in Google Photos](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/). It explains why a dedicated encrypted app offers stronger protection. For a side-by-side comparison of iCloud, Google Photos and encrypted apps, read [the safest way to store a passport digitally](https://traveldocumentvault.com/blog/safest-way-to-store-passport-digitally/).
 
@@ -2652,7 +2652,7 @@ Usually, yes. In the UK, GOV.UK says you must renew before you travel if your pa
 
 ---
 
-# 6-Month Passport Rule: Can You Travel With Less Left?
+# 6-Month Passport Rule: Can You Travel With 6 Months Left?
 
 > Passport expires in under six months? Which countries enforce the 6-month rule, which only need validity for your stay, and how to check before you book.
 
@@ -3258,7 +3258,7 @@ Sometimes, because some destinations include it in their entry conditions for vi
 
 ---
 
-# Can You Renew a Passport Before It Expires?
+# Can You Renew Your Passport Early, Before It Expires?
 
 > Yes, you can renew a passport early. Here's what it costs you in unused months, what a new passport number changes, and when we'd apply.
 
@@ -3473,7 +3473,7 @@ When you add your passport scan to the app, it's encrypted using AES-256 and sto
 
 Travel Document Vault keeps your documents on your phone by default. Sharing and export are optional, as is encrypted backup to your own iCloud or Google Drive with Pro.
 
-With Pro, you can sync documents across configured devices on the same platform. If you lose your phone, restore a saved backup. Cloud restore needs your recovery code. For most families travelling together, storing documents on one parent's phone is sufficient anyway, and many apps support manual syncing via backup, which adds a layer of flexibility without requiring automatic cloud upload.
+With Pro, you can sync documents across configured devices on the same platform. If you lose your phone, restore a saved backup. Cloud restore needs your recovery code. For most families travelling together, storing documents on one parent's phone is sufficient anyway, and many apps support manual syncing via backup, which adds a layer of flexibility without requiring automatic cloud upload. If you're heading to the Schengen area together, here's how to [count your Schengen days under EES](https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/).
 
 ## Encryption, Account and Cost at a Glance
 
@@ -3498,7 +3498,7 @@ The answer depends on your personal risk tolerance and use case.
 
 **Avoid Google Photos for passport storage.** The lack of default end-to-end encryption combined with content scanning makes it less suitable for sensitive identity documents than alternatives. If you use Google Photos, consider keeping a backup elsewhere.
 
-**Choose a dedicated encrypted app if:** Security is your primary concern, you want to reduce the number of third parties holding your data, and you are comfortable with manual backup and less convenient cross-device access. This approach offers stronger isolation and is specifically designed for travel documents. For families, apps that support multiple family members under one app (with no cloud upload) offer good balance. If we were choosing just for a passport, we'd lean this way, even if our everyday photos stayed in the cloud.
+**Choose a dedicated encrypted app if:** Security is your primary concern, you want to reduce the number of third parties holding your data, and you are comfortable with manual backup and less convenient cross-device access. This approach offers stronger isolation and is specifically designed for travel documents. For families, apps that support multiple family members under one app (with no cloud upload) offer good balance. If we were choosing just for a passport, we'd lean this way, even if our everyday photos stayed in the cloud. If that sounds like you, here's what to look for in [a passport organiser app](https://traveldocumentvault.com/blog/best-passport-organizer-app/).
 
 ## You Don't Have to Choose Just One
 
@@ -3618,7 +3618,7 @@ If your dates are within the rule, entry carries on as normal. If they show you'
 
 EES currently exempts children under 12 from fingerprint collection. When a parent or guardian brings a child to the border, the officer still captures a facial image for the EES record - the system needs to know that this child crossed and when. The officer skips the fingerprints. At 12 years old, the rules shift; from that point forward, a child's biometric registration includes fingerprints.
 
-## Checking Your EES Days Left Takes Your Passport and One Date
+## How to Check How Long You Have Left Under EES
 
 The quickest official check is the EU's "Check how long you can stay" tool on the Travel to Europe website. It tells you whether your entry is allowed, shown as OK or not OK, and **how many days you're still allowed to stay** in the countries that use EES. Equipment at some external borders runs the same check, and passport control officers can tell you too.
 
@@ -4133,7 +4133,7 @@ Keep these with you at all times: passports, boarding passes, travel insurance c
 
 ---
 
-# Expired Passport UK: Can You Travel or Book a Holiday?
+# Can You Book a Holiday or Travel on an Expired UK Passport?
 
 > Booking a trip is not the same as boarding one. What the airline checks, when a renewal still leaves time, and the narrow UK domestic exceptions.
 

@@ -36,7 +36,7 @@ Om en digital passkopia godtas vid incheckning beror på boendet och lokala regl
 
 ### En digital kopia är ingen handling för ombordstigning
 
-Vid internationella flygningar behöver du i regel visa upp originalpasset eller en annan godkänd resehandling vid gaten. Den digitala kopian är ingen handling för ombordstigning.
+Vid internationella flygningar behöver du i regel visa upp originalpasset eller en annan godkänd resehandling vid gaten. Den digitala kopian är ingen handling för ombordstigning. Ska du resa inom Schengenområdet är det bra att veta hur du [räknar dina Schengendagar med EES](https://traveldocumentvault.com/sv/blog/schengen-90-days-auto-tracked-ees/) innan du åker.
 
 ### Fråga vilka handlingar biluthyrningsföretaget behöver
 
@@ -81,7 +81,7 @@ Passkopior innehåller känslig identitetsinformation, inklusive fullständigt n
 - **Dela aldrig i onödan**. Lämna bara ut din passkopia till legitima verksamheter du faktiskt gör affärer med.
 - **Håll kopior separata från ditt fysiska pass**. Blir väskan stulen vill du att backupen finns någon annanstans.
 
-Om du bara ändrar en vana: byt ut den e-postade PDF:en eller kamerarullens foto mot en krypterad app, eftersom just den vardagliga kopian är den som oftast hamnar i orätta händer om telefonen eller inkorgen skulle komprometteras.
+Om du bara ändrar en vana: byt ut den e-postade PDF:en eller kamerarullens foto mot en krypterad app, eftersom just den vardagliga kopian är den som oftast hamnar i orätta händer om telefonen eller inkorgen skulle komprometteras. Så här väljer du [en app för att organisera pass](https://traveldocumentvault.com/sv/blog/best-passport-organizer-app/).
 
 Undrar du om molnlagring är säkert för passkopior, se vår guide om [att spara pass i Google Foto](https://traveldocumentvault.com/sv/blog/is-it-safe-to-store-passport-in-google-photos/). Den förklarar varför en dedikerad krypterad app ger starkare skydd. För en jämförelse sida vid sida av iCloud, Google Foto och krypterade appar, läs [det säkraste sättet att spara ett pass digitalt](https://traveldocumentvault.com/sv/blog/safest-way-to-store-passport-digitally/).
 

@@ -36,7 +36,7 @@ A aceitação de cópias digitais de passaporte no check-in depende do alojament
 
 ### Uma cópia digital não é um documento de embarque
 
-Para voos internacionais, geralmente precisará de apresentar o passaporte original ou outro documento de viagem aceite na porta de embarque. A cópia digital não é um documento de embarque.
+Para voos internacionais, geralmente precisará de apresentar o passaporte original ou outro documento de viagem aceite na porta de embarque. A cópia digital não é um documento de embarque. Se a viagem for para o espaço Schengen, vale a pena saber [contar os seus dias Schengen com o EES](https://traveldocumentvault.com/pt/blog/schengen-90-days-auto-tracked-ees/) antes de partir.
 
 ### Pergunte de que documentos precisa a empresa de aluguer
 
@@ -81,7 +81,7 @@ As cópias de passaporte contêm informações sensíveis de identidade: o seu n
 - **Nunca partilhe desnecessariamente**. Apenas forneça a cópia do seu passaporte a negócios legítimos com os quais está ativamente a transacionar.
 - **Mantenha as cópias separadas do seu passaporte físico**. Se a sua mala for roubada, quer que a cópia de segurança esteja noutro lugar.
 
-Se só corrigir um hábito, troque o PDF enviado por email ou a foto no rolo da câmara por uma aplicação encriptada, já que essa cópia casual é a que mais facilmente acaba em mãos erradas se o telemóvel ou a caixa de correio forem comprometidos.
+Se só corrigir um hábito, troque o PDF enviado por email ou a foto no rolo da câmara por uma aplicação encriptada, já que essa cópia casual é a que mais facilmente acaba em mãos erradas se o telemóvel ou a caixa de correio forem comprometidos. Veja o que procurar numa [aplicação para organizar passaportes](https://traveldocumentvault.com/pt/blog/best-passport-organizer-app/).
 
 Se está a questionar se o armazenamento em nuvem é seguro para cópias de passaporte, consulte o nosso guia sobre [armazenar passaportes no Google Photos](https://traveldocumentvault.com/pt/blog/is-it-safe-to-store-passport-in-google-photos/). Explica por que uma aplicação encriptada dedicada oferece proteção mais forte.
 

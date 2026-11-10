@@ -62,7 +62,7 @@ Si tus fechas están dentro de lo permitido, la entrada se desarrolla con normal
 
 EES exime actualmente a los menores de 12 años de la toma de huellas dactilares. Cuando un padre, madre o tutor lleva a un niño a la frontera, el agente igualmente capta una imagen facial para el registro EES - el sistema necesita saber que ese niño cruzó y cuándo. El agente omite las huellas. A los 12 años las reglas cambian; a partir de ese momento, el registro biométrico de un menor incluye las huellas dactilares.
 
-## Consultar los días EES que te quedan: pasaporte y una fecha
+## Cómo comprobar cuánto tiempo te queda con EES
 
 La comprobación oficial más rápida es la herramienta "¿Cuánto tiempo puedes permanecer?" en la web Travel to Europe. Te dice si tu entrada está permitida, con una respuesta OK o NOT OK, y **cuántos días te quedan** en los países que usan EES. El equipamiento de algunos pasos fronterizos exteriores ofrece la misma comprobación, y los agentes de control de pasaportes también pueden decírtelo.
 

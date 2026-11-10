@@ -62,7 +62,7 @@ Vallen je data binnen de regel, dan verloopt je inreis zoals gewoonlijk. Blijkt 
 
 EES stelt kinderen onder de 12 jaar momenteel vrij van het afnemen van vingerafdrukken. Wanneer een ouder of voogd een kind naar de grens brengt, legt de ambtenaar toch een gezichtsopname vast voor het EES-dossier - het systeem moet weten dat dit kind is overgestoken, en wanneer. De vingerafdrukken slaat de ambtenaar over. Vanaf 12 jaar veranderen de regels; vanaf dat moment omvat de biometrische registratie van een kind ook vingerafdrukken.
 
-## Je resterende EES-dagen controleren kost alleen je paspoort en één datum
+## Zo controleer je hoe lang je nog mag blijven onder EES
 
 De snelste officiële check is de EU-tool "Check how long you can stay" op de website Travel to Europe. Die laat zien of je inreis is toegestaan, als OK of niet OK, en **hoeveel dagen je nog mag blijven** in de landen die EES gebruiken. Apparatuur bij sommige buitengrenzen doet dezelfde check, en de grenswachters kunnen het je ook vertellen.
 

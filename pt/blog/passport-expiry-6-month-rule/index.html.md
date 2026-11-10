@@ -1,4 +1,4 @@
-# Regra dos 6 Meses do Passaporte: Pode Viajar com Menos?
+# Passaporte com Menos de 6 Meses de Validade: Pode Viajar?
 
 > O seu passaporte expira em menos de 6 meses? Países que aplicam a regra, países que só exigem validade para a estadia, e como verificar antes de reservar.
 

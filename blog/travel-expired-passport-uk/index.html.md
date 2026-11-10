@@ -1,4 +1,4 @@
-# Expired Passport UK: Can You Travel or Book a Holiday?
+# Can You Book a Holiday or Travel on an Expired UK Passport?
 
 > Booking a trip is not the same as boarding one. What the airline checks, when a renewal still leaves time, and the narrow UK domestic exceptions.
 

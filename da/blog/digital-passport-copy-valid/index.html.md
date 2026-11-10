@@ -36,7 +36,7 @@ Om en digital paskopi accepteres ved indtjekning, afhænger af overnatningsstede
 
 ### En digital kopi er ikke boardingdokumentation
 
-Ved internationale flyvninger skal du som regel fremvise det originale pas eller et andet accepteret rejsedokument ved gaten. Den digitale kopi er ikke boardingdokumentation.
+Ved internationale flyvninger skal du som regel fremvise det originale pas eller et andet accepteret rejsedokument ved gaten. Den digitale kopi er ikke boardingdokumentation. Skal du til Schengenområdet, er det godt at vide, hvordan du [tæller dine Schengen-dage under EES](https://traveldocumentvault.com/da/blog/schengen-90-days-auto-tracked-ees/), før du rejser.
 
 ### Spørg biludlejningsselskabet, hvilke dokumenter det kræver
 
@@ -81,7 +81,7 @@ Paskopier indeholder følsomme identitetsoplysninger, herunder dit fulde navn, f
 - **Del aldrig unødvendigt**. Giv kun din paskopi til legitime virksomheder, som du aktivt handler med.
 - **Hold kopier adskilt fra dit fysiske pas**. Bliver din taske stjålet, vil du gerne have backuppen et andet sted.
 
-Hvis du kun ændrer én vane, så byt den mailede PDF eller billedet i kamerarullen ud med en krypteret app, for netop den uformelle kopi er den, der oftest ender de forkerte steder, hvis din telefon eller indbakke bliver kompromitteret.
+Hvis du kun ændrer én vane, så byt den mailede PDF eller billedet i kamerarullen ud med en krypteret app, for netop den uformelle kopi er den, der oftest ender de forkerte steder, hvis din telefon eller indbakke bliver kompromitteret. Sådan vælger du [en app til at organisere pas](https://traveldocumentvault.com/da/blog/best-passport-organizer-app/).
 
 Er du i tvivl om, hvorvidt cloud-lagring er sikkert til paskopier, så se vores guide til [opbevaring af pas i Google Fotos](https://traveldocumentvault.com/da/blog/is-it-safe-to-store-passport-in-google-photos/). Den forklarer, hvorfor en dedikeret krypteret app giver stærkere beskyttelse. For en sammenligning af iCloud, Google Fotos og krypterede apps side om side, læs [den sikreste måde at opbevare et pas digitalt på](https://traveldocumentvault.com/da/blog/safest-way-to-store-passport-digitally/).
 

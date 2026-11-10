@@ -62,7 +62,7 @@ Jika tanggal Anda masih sesuai aturan, proses masuk berjalan seperti biasa. Jika
 
 EES saat ini mengecualikan anak-anak di bawah 12 tahun dari pengambilan sidik jari. Ketika orang tua atau wali membawa anak ke perbatasan, petugas tetap merekam gambar wajah untuk catatan EES, karena sistem perlu tahu bahwa anak ini melintas dan kapan. Petugas melewati pengambilan sidik jari. Pada usia 12 tahun, aturannya berubah; sejak saat itu, pendaftaran biometrik anak mencakup sidik jari.
 
-## Memeriksa Sisa Hari EES Hanya Butuh Paspor dan Satu Tanggal
+## Cara Memeriksa Berapa Lama Sisa Waktu Anda di Bawah EES
 
 Cara resmi tercepat adalah alat "Check how long you can stay" (periksa berapa lama Anda masih boleh tinggal) di situs resmi Travel to Europe. Alat ini memberi tahu apakah Anda boleh masuk, ditampilkan sebagai OK atau not OK, serta **berapa hari lagi Anda boleh tinggal** di negara-negara yang menggunakan EES. Perangkat di beberapa pos perbatasan eksternal melakukan pemeriksaan yang sama, dan petugas imigrasi juga bisa memberitahu Anda.
 

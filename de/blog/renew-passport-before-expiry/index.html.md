@@ -1,4 +1,4 @@
-# Kann man einen Reisepass vor Ablauf erneuern?
+# Kann man den Reisepass vorzeitig erneuern, bevor er abläuft?
 
 > Ja, Sie können Ihren Reisepass vorzeitig erneuern. Was es an ungenutzten Monaten kostet, was eine neue Passnummer ändert, und wann wir es tun würden.
 

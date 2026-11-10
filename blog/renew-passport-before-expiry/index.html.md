@@ -1,4 +1,4 @@
-# Can You Renew a Passport Before It Expires?
+# Can You Renew Your Passport Early, Before It Expires?
 
 > Yes, you can renew a passport early. Here's what it costs you in unused months, what a new passport number changes, and when we'd apply.
 

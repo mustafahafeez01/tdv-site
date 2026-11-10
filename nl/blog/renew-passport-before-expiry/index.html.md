@@ -1,4 +1,4 @@
-# Kun je een paspoort verlengen voordat het verloopt?
+# Kun je je paspoort eerder verlengen, voordat het verloopt?
 
 > Ja, je kunt een paspoort vroeg verlengen. Wat het je kost aan onbenutte maanden, wat een nieuw paspoortnummer verandert, en wanneer wij zouden aanvragen.
 

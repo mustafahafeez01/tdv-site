@@ -85,7 +85,7 @@ Quando aggiungi la scansione del tuo passaporto all'app, viene crittografata uti
 
 Travel Document Vault conserva i documenti sul telefono per impostazione predefinita. Condivisione ed esportazione sono facoltative, come il backup crittografato sul tuo iCloud o Google Drive con Pro.
 
-Con Pro puoi sincronizzare i documenti tra dispositivi configurati sulla stessa piattaforma. Se perdi il telefono, ripristina un backup salvato. Per il ripristino dal cloud serve il codice di recupero. Per la maggior parte delle famiglie che viaggiano insieme, l'archiviazione dei documenti sul telefono di un genitore basta, e molte app permettono la sincronizzazione manuale tramite backup: più flessibilità, senza caricamento automatico nel cloud.
+Con Pro puoi sincronizzare i documenti tra dispositivi configurati sulla stessa piattaforma. Se perdi il telefono, ripristina un backup salvato. Per il ripristino dal cloud serve il codice di recupero. Per la maggior parte delle famiglie che viaggiano insieme, l'archiviazione dei documenti sul telefono di un genitore basta, e molte app permettono la sincronizzazione manuale tramite backup: più flessibilità, senza caricamento automatico nel cloud. Se viaggi in famiglia nell'area Schengen, ecco come [contare i tuoi giorni Schengen con EES](https://traveldocumentvault.com/it/blog/schengen-90-days-auto-tracked-ees/).
 
 ## Crittografia, Account e Costo in Sintesi
 
@@ -110,7 +110,7 @@ La risposta dipende da quanto rischio sei disposto ad accettare e da come usi il
 
 **Evita Google Photos per l'archiviazione del passaporto.** Senza crittografia end-to-end predefinita e con la scansione dei contenuti, è meno adatta ai documenti di identità sensibili rispetto alle alternative. Se usi Google Photos, tieni un backup altrove.
 
-**Scegli un'app crittografata dedicata se:** La sicurezza viene prima di tutto, vuoi ridurre le terze parti che hanno i tuoi dati e ti va bene il backup manuale con un accesso da più dispositivi meno comodo. Isola meglio i dati ed è fatta apposta per i documenti di viaggio. Per le famiglie, le app che supportano più membri della famiglia in un'unica app (senza caricamento nel cloud) offrono un buon equilibrio. Se dovessimo scegliere solo per un passaporto, noi sceglieremmo questa strada, anche se le foto di tutti i giorni restassero nel cloud.
+**Scegli un'app crittografata dedicata se:** La sicurezza viene prima di tutto, vuoi ridurre le terze parti che hanno i tuoi dati e ti va bene il backup manuale con un accesso da più dispositivi meno comodo. Isola meglio i dati ed è fatta apposta per i documenti di viaggio. Per le famiglie, le app che supportano più membri della famiglia in un'unica app (senza caricamento nel cloud) offrono un buon equilibrio. Se dovessimo scegliere solo per un passaporto, noi sceglieremmo questa strada, anche se le foto di tutti i giorni restassero nel cloud. Se ti ritrovi in questa descrizione, ecco cosa cercare in [un’app per organizzare i passaporti](https://traveldocumentvault.com/it/blog/best-passport-organizer-app/).
 
 ## Non Devi Sceglierne Solo Uno
 

@@ -62,7 +62,7 @@ Visar dina datum att du håller dig inom regeln går inresan som vanligt. Visar 
 
 EES undantar för närvarande barn under 12 år från fingeravtrycksinsamling. När en förälder eller vårdnadshavare tar med ett barn till gränsen tar tjänstemannen ändå en ansiktsbild för EES-registret - systemet behöver veta att barnet har passerat, och när. Tjänstemannen hoppar över fingeravtrycken. Vid 12 års ålder ändras reglerna; från den punkten omfattar ett barns biometriska registrering även fingeravtryck.
 
-## Att kontrollera dina kvarvarande EES-dagar kräver bara passet och ett datum
+## Så kontrollerar du hur länge du har kvar enligt EES
 
 Den snabbaste officiella kontrollen är EU:s verktyg "Check how long you can stay" på webbplatsen Travel to Europe. Det visar om din inresa är tillåten, som OK eller inte OK, och **hur många dagar du fortfarande får stanna** i länderna som använder EES. Utrustning vid vissa yttre gränser gör samma kontroll, och gränstjänstemännen kan också berätta det för dig.
 

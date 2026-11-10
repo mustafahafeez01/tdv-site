@@ -36,7 +36,7 @@ Ob eine digitale Reisepasskopie beim Check-in akzeptiert wird, hängt von der Un
 
 ### Eine digitale Kopie ist kein Reisedokument fürs Boarding
 
-Bei internationalen Flügen müssen Sie am Gate in der Regel den Originalreisepass oder ein anderes anerkanntes Reisedokument vorlegen. Eine digitale Kopie gilt nicht als Reisedokument fürs Boarding.
+Bei internationalen Flügen müssen Sie am Gate in der Regel den Originalreisepass oder ein anderes anerkanntes Reisedokument vorlegen. Eine digitale Kopie gilt nicht als Reisedokument fürs Boarding. Wenn Ihre Reise in den Schengen-Raum geht, sollten Sie vorher wissen, wie Sie [Ihre Schengen-Tage unter dem EES zählen](https://traveldocumentvault.com/de/blog/schengen-90-days-auto-tracked-ees/).
 
 ### Fragen Sie, welche Dokumente die Autovermietung benötigt
 
@@ -81,7 +81,7 @@ Reisepasskopien enthalten sensible Identitätsinformationen: Ihren vollständige
 - **Teilen Sie niemals unnötigerweise**. Stellen Sie Ihre Reisepasskopie nur legitimen Unternehmen zur Verfügung, mit denen Sie aktiv Geschäfte tätigen.
 - **Halten Sie Kopien separat von Ihrem physischen Reisepass**. Wenn Ihre Tasche gestohlen wird, möchten Sie die Sicherung woanders haben.
 
-Wenn Sie nur eine Gewohnheit ändern, dann diese: Ersetzen Sie das per E-Mail verschickte PDF oder das Foto in der Kamerarolle durch eine verschlüsselte App. Gerade diese beiläufige Kopie landet am ehesten in falschen Händen, wenn Ihr Telefon oder Ihr Postfach einmal kompromittiert wird.
+Wenn Sie nur eine Gewohnheit ändern, dann diese: Ersetzen Sie das per E-Mail verschickte PDF oder das Foto in der Kamerarolle durch eine verschlüsselte App. Gerade diese beiläufige Kopie landet am ehesten in falschen Händen, wenn Ihr Telefon oder Ihr Postfach einmal kompromittiert wird. Hier lesen Sie, worauf es bei [einer App zum Organisieren von Reisepässen](https://traveldocumentvault.com/de/blog/best-passport-organizer-app/) ankommt.
 
 Wenn Sie sich fragen, ob Cloud-Speicher sicher für Reisepasskopien ist, lesen Sie unseren Leitfaden zum [Speichern von Reisepässen in Google Fotos](https://traveldocumentvault.com/de/blog/is-it-safe-to-store-passport-in-google-photos/). Er erläutert, warum eine dedizierte verschlüsselte App einen stärkeren Schutz bietet.
 

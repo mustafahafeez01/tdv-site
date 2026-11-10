@@ -85,7 +85,7 @@ Saat Anda menambahkan hasil pindaian paspor ke aplikasi, data tersebut dienkrips
 
 Travel Document Vault menyimpan dokumen di ponsel Anda secara default. Berbagi dan ekspor bersifat opsional, begitu juga dengan cadangan terenkripsi ke iCloud atau Google Drive Anda sendiri dengan Pro.
 
-Dengan Pro, Anda bisa menyinkronkan dokumen antarperangkat yang sudah dikonfigurasi pada platform yang sama. Jika ponsel Anda hilang, pulihkan cadangan yang tersimpan. Pemulihan dari cloud memerlukan kode pemulihan Anda. Bagi kebanyakan keluarga yang bepergian bersama, menyimpan dokumen di ponsel salah satu orang tua sudah cukup, dan banyak aplikasi mendukung sinkronisasi manual melalui cadangan, yang memberi fleksibilitas tambahan tanpa mengharuskan unggahan otomatis ke cloud.
+Dengan Pro, Anda bisa menyinkronkan dokumen antarperangkat yang sudah dikonfigurasi pada platform yang sama. Jika ponsel Anda hilang, pulihkan cadangan yang tersimpan. Pemulihan dari cloud memerlukan kode pemulihan Anda. Bagi kebanyakan keluarga yang bepergian bersama, menyimpan dokumen di ponsel salah satu orang tua sudah cukup, dan banyak aplikasi mendukung sinkronisasi manual melalui cadangan, yang memberi fleksibilitas tambahan tanpa mengharuskan unggahan otomatis ke cloud. Jika Anda bepergian bersama keluarga ke kawasan Schengen, berikut cara [menghitung hari Schengen Anda di bawah EES](https://traveldocumentvault.com/id/blog/schengen-90-days-auto-tracked-ees/).
 
 ## Enkripsi, Akun, dan Biaya dalam Sekilas
 
@@ -110,7 +110,7 @@ Jawabannya bergantung pada toleransi risiko pribadi dan kebutuhan Anda.
 
 **Hindari Google Photos untuk menyimpan paspor.** Tidak adanya enkripsi ujung ke ujung secara bawaan, dikombinasikan dengan pemindaian konten, membuatnya kurang cocok untuk dokumen identitas sensitif dibandingkan alternatif lain. Jika Anda tetap menggunakan Google Photos, pertimbangkan untuk menyimpan cadangan di tempat lain.
 
-**Pilih aplikasi terenkripsi khusus jika:** keamanan adalah prioritas utama Anda, Anda ingin mengurangi jumlah pihak ketiga yang menyimpan data Anda, dan Anda tidak keberatan dengan pencadangan manual serta akses lintas perangkat yang kurang praktis. Pendekatan ini memberikan isolasi yang lebih kuat dan dirancang khusus untuk dokumen perjalanan. Bagi keluarga, aplikasi yang mendukung beberapa anggota keluarga dalam satu aplikasi (tanpa unggahan ke cloud) menawarkan keseimbangan yang baik. Kalau kami memilih hanya untuk paspor, kami condong ke arah ini, meskipun foto sehari-hari tetap disimpan di cloud.
+**Pilih aplikasi terenkripsi khusus jika:** keamanan adalah prioritas utama Anda, Anda ingin mengurangi jumlah pihak ketiga yang menyimpan data Anda, dan Anda tidak keberatan dengan pencadangan manual serta akses lintas perangkat yang kurang praktis. Pendekatan ini memberikan isolasi yang lebih kuat dan dirancang khusus untuk dokumen perjalanan. Bagi keluarga, aplikasi yang mendukung beberapa anggota keluarga dalam satu aplikasi (tanpa unggahan ke cloud) menawarkan keseimbangan yang baik. Kalau kami memilih hanya untuk paspor, kami condong ke arah ini, meskipun foto sehari-hari tetap disimpan di cloud. Jika itu sesuai dengan Anda, berikut hal yang perlu dicari dalam [aplikasi pengelola paspor](https://traveldocumentvault.com/id/blog/best-passport-organizer-app/).
 
 ## Anda Tidak Harus Memilih Salah Satu Saja
 

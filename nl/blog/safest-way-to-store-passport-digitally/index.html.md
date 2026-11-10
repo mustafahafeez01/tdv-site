@@ -85,7 +85,7 @@ Wanneer je je paspoortscan toevoegt aan de app, wordt deze versleuteld met AES-2
 
 Travel Document Vault bewaart je documenten standaard op je telefoon. Delen en exporteren zijn optioneel, net als een versleutelde back-up naar je eigen iCloud of Google Drive met Pro.
 
-Met Pro kun je documenten synchroniseren tussen ingestelde apparaten op hetzelfde platform. Als je je telefoon kwijtraakt, herstel je een opgeslagen back-up. Voor cloudherstel heb je je herstelcode nodig. Voor de meeste gezinnen die samen reizen, is het bewaren van documenten op de telefoon van één ouder sowieso voldoende, en veel apps ondersteunen handmatige synchronisatie via back-up, wat extra flexibiliteit biedt zonder automatische cloud-upload te vereisen.
+Met Pro kun je documenten synchroniseren tussen ingestelde apparaten op hetzelfde platform. Als je je telefoon kwijtraakt, herstel je een opgeslagen back-up. Voor cloudherstel heb je je herstelcode nodig. Voor de meeste gezinnen die samen reizen, is het bewaren van documenten op de telefoon van één ouder sowieso voldoende, en veel apps ondersteunen handmatige synchronisatie via back-up, wat extra flexibiliteit biedt zonder automatische cloud-upload te vereisen. Reis je als gezin naar het Schengengebied? Zo [tel je je Schengendagen onder EES](https://traveldocumentvault.com/nl/blog/schengen-90-days-auto-tracked-ees/).
 
 ## Versleuteling, account en kosten in één oogopslag
 
@@ -110,7 +110,7 @@ Het antwoord hangt af van je persoonlijke risicotolerantie en gebruikssituatie.
 
 **Vermijd Google Photos voor het bewaren van paspoorten.** Het ontbreken van standaard end-to-end versleuteling in combinatie met contentscanning maakt het minder geschikt voor gevoelige identiteitsdocumenten dan de alternatieven. Als je Google Photos gebruikt, overweeg dan om ergens anders een back-up te bewaren.
 
-**Kies een speciale versleutelde app als:** veiligheid je belangrijkste zorg is, je het aantal derde partijen dat je gegevens heeft wilt beperken, en je comfortabel bent met handmatige back-up en minder gemakkelijke toegang op meerdere apparaten. Deze aanpak biedt sterkere isolatie en is specifiek ontworpen voor reisdocumenten. Voor gezinnen bieden apps die meerdere gezinsleden binnen één app ondersteunen (zonder cloud-upload) een goede balans. Als wij alleen voor een paspoort moesten kiezen, zouden wij deze kant op leunen, ook als onze alledaagse foto's in de cloud bleven staan.
+**Kies een speciale versleutelde app als:** veiligheid je belangrijkste zorg is, je het aantal derde partijen dat je gegevens heeft wilt beperken, en je comfortabel bent met handmatige back-up en minder gemakkelijke toegang op meerdere apparaten. Deze aanpak biedt sterkere isolatie en is specifiek ontworpen voor reisdocumenten. Voor gezinnen bieden apps die meerdere gezinsleden binnen één app ondersteunen (zonder cloud-upload) een goede balans. Als wij alleen voor een paspoort moesten kiezen, zouden wij deze kant op leunen, ook als onze alledaagse foto's in de cloud bleven staan. Herken je jezelf hierin, lees dan waar je op let bij [een app om je paspoorten te ordenen](https://traveldocumentvault.com/nl/blog/best-passport-organizer-app/).
 
 ## Je hoeft niet maar één optie te kiezen
 

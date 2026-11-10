@@ -1,4 +1,4 @@
-# Pasaporte expirado en el Reino Unido: ¿puedes viajar o reservar unas vacaciones?
+# ¿Puedes reservar unas vacaciones o viajar con un pasaporte británico caducado?
 
 > Reservar no es lo mismo que embarcar. Qué comprueba la aerolínea, cuándo llegas a tiempo con la renovación y las excepciones dentro del Reino Unido.
 

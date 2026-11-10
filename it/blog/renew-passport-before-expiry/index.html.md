@@ -1,4 +1,4 @@
-# Puoi rinnovare il passaporto prima che scada?
+# Puoi rinnovare il passaporto in anticipo, prima che scada?
 
 > Sì, puoi rinnovare il passaporto in anticipo. Cosa perdi in mesi non usati, cosa cambia con il nuovo numero, e quando lo faremmo noi.
 

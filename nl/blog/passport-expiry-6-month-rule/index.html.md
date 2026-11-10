@@ -1,4 +1,4 @@
-# 6 maanden-paspoortregel: kun je reizen met minder over?
+# 6 maanden-paspoortregel: kun je reizen met nog 6 maanden geldigheid?
 
 > Paspoort verloopt binnen 6 maanden? Check welke landen de 6-maandenregel toepassen, en welke alleen geldigheid tijdens je reis eisen.
 

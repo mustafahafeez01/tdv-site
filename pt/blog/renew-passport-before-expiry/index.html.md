@@ -1,4 +1,4 @@
-# Pode renovar o passaporte antes de expirar?
+# Pode renovar o passaporte com antecedência, antes de expirar?
 
 > Sim, pode renovar o passaporte antecipadamente. O que isso custa em meses não usados, o que muda com um novo número, e quando faríamos o pedido.
 

@@ -1,4 +1,4 @@
-# Peut-on renouveler un passeport avant son expiration ?
+# Peut-on renouveler son passeport en avance, avant son expiration ?
 
 > Oui, vous pouvez renouveler un passeport à l'avance. Ce que cela vous coûte en mois non utilisés, ce qu'un nouveau numéro change, et quand nous le ferions.
 

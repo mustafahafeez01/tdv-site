@@ -1,4 +1,4 @@
-# Bisakah Anda Memperpanjang Paspor Sebelum Kedaluwarsa?
+# Bisakah Anda Memperpanjang Paspor Lebih Awal, Sebelum Kedaluwarsa?
 
 > Ya, paspor bisa diperpanjang lebih awal. Apa yang hilang dari bulan belum terpakai, apa yang berubah dengan nomor baru, dan kapan kami mengajukan.
 
