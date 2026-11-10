@@ -1,7 +1,8 @@
 /* Why-us screenshot carousel: gentle autoplay (owner 2026-11-10).
  * Advances every 5 s while the carousel is on screen. WCAG 2.2.2 (Pause, Stop, Hide):
  * a visible Pause/Play button. Pauses while hovered or focused, stops for good once the
- * visitor uses the arrows, dots, swipe or keys, and never starts under reduced motion.
+ * visitor uses the arrows, dots, swipe or keys, and never starts under reduced motion
+ * or on touch devices (2026-11-10).
  * Drives the page's own carousel by clicking its dots, so the inline carousel code is unchanged. */
 (function () {
   'use strict';
@@ -38,7 +39,11 @@
     var text = LABELS[lang] || LABELS.en;
     var reduced = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
-    var playing = !reduced;   // the visitor's choice (Pause/Play button or taking control)
+    // Touch phones/tablets: no auto-advance (NN/g: people scroll past, the change happens
+    // out of sight). The Play button still lets a visitor start it.
+    var touch = window.matchMedia && window.matchMedia('(hover: none) and (pointer: coarse)').matches;
+
+    var playing = !reduced && !touch;   // the visitor's choice (Pause/Play button or taking control)
     var held = false;         // hovered or focused
     var visible = false;      // on screen
     var timer = null;
