@@ -23,9 +23,9 @@ Source: https://traveldocumentvault.com/zh-Hans/why-us/
 
 开发这款应用的人，自己家里就需要它。没有风投，没有股东，没有广告网络。我只对一个人负责：您。
 
-MH
+![Mustafa Hafeez](https://traveldocumentvault.com/assets/images/mustafa-hafeez-128.webp)
 
-Mustafa Hafeez
+[Mustafa Hafeez](https://mustafahafeez.com/)
 
 为自己的家人打造了 Travel Document Vault
 

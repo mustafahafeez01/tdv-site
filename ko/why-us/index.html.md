@@ -23,9 +23,9 @@ Source: https://traveldocumentvault.com/ko/why-us/
 
 제 가족에게 꼭 필요해서 직접 만들었습니다. 벤처 투자도, 주주도, 광고 네트워크도 없습니다. 제가 책임질 사람은 단 한 명, 바로 사용자입니다.
 
-MH
+![Mustafa Hafeez](https://traveldocumentvault.com/assets/images/mustafa-hafeez-128.webp)
 
-Mustafa Hafeez
+[Mustafa Hafeez](https://mustafahafeez.com/)
 
 가족을 위해 Travel Document Vault를 만들었습니다
 

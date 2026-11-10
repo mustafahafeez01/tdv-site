@@ -23,9 +23,9 @@ Téléchargement gratuit. Aucun compte. Aucun abonnement.
 
 Créée par quelqu’un qui en avait besoin pour sa propre famille. Pas d’investisseurs, pas d’actionnaires, pas de régies publicitaires. Je ne rends de comptes qu’à une seule personne : vous.
 
-MH
+![Mustafa Hafeez](https://traveldocumentvault.com/assets/images/mustafa-hafeez-128.webp)
 
-Mustafa Hafeez
+[Mustafa Hafeez](https://mustafahafeez.com/)
 
 A créé Travel Document Vault pour sa famille
 

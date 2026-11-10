@@ -23,9 +23,9 @@ Download free. No account. No subscription.
 
 Built by a person who needed this for his own family. No VCs, no shareholders, no ad networks. I answer to one person: you.
 
-MH
+![Mustafa Hafeez](https://traveldocumentvault.com/assets/images/mustafa-hafeez-128.webp)
 
-Mustafa Hafeez
+[Mustafa Hafeez](https://mustafahafeez.com/)
 
 Built Travel Document Vault for my family
 

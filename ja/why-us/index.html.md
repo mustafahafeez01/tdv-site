@@ -23,9 +23,9 @@ Source: https://traveldocumentvault.com/ja/why-us/
 
 自分の家族のためにこれを必要としていた一人の人間が作りました。ベンチャーキャピタルも株主も広告ネットワークもいません。私が向き合うのは、あなた一人だけです。
 
-MH
+![Mustafa Hafeez](https://traveldocumentvault.com/assets/images/mustafa-hafeez-128.webp)
 
-Mustafa Hafeez
+[Mustafa Hafeez](https://mustafahafeez.com/)
 
 家族のためにTravel Document Vaultを作りました
 
