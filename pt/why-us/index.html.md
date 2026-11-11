@@ -23,8 +23,6 @@ Descarregue grátis. Sem conta. Sem subscrição.
 
 Criada por alguém que precisava dela para a própria família. Sem capital de risco, sem acionistas, sem redes de publicidade. Só presto contas a uma pessoa: a si.
 
-![Mustafa Hafeez](https://traveldocumentvault.com/assets/images/mustafa-hafeez-128.webp)
-
 [Mustafa Hafeez](https://mustafahafeez.com/)
 
 Criei o Travel Document Vault para a minha família

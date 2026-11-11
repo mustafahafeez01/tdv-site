@@ -23,8 +23,6 @@ Hent gratis. Ingen konto. Intet abonnement.
 
 Bygget af en, der selv havde brug for det til sin familie. Ingen investorer, ingen aktionærer, ingen annoncenetværk. Jeg står kun til ansvar over for én: dig.
 
-![Mustafa Hafeez](https://traveldocumentvault.com/assets/images/mustafa-hafeez-128.webp)
-
 [Mustafa Hafeez](https://mustafahafeez.com/)
 
 Byggede Travel Document Vault til min familie

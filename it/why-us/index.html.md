@@ -23,8 +23,6 @@ Scarica gratis. Nessun account. Nessun abbonamento.
 
 Creata da una persona che ne aveva bisogno per la propria famiglia. Niente venture capital, niente azionisti, niente reti pubblicitarie. Rispondo a una sola persona: te.
 
-![Mustafa Hafeez](https://traveldocumentvault.com/assets/images/mustafa-hafeez-128.webp)
-
 [Mustafa Hafeez](https://mustafahafeez.com/)
 
 Ho creato Travel Document Vault per la mia famiglia

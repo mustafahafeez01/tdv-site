@@ -23,8 +23,6 @@ Source: https://traveldocumentvault.com/uk/why-us/
 
 Створено людиною, якій це було потрібно для власної родини. Без венчурних інвесторів, без акціонерів, без рекламних мереж. Я відповідаю лише перед однією людиною: перед Вами.
 
-![Mustafa Hafeez](https://traveldocumentvault.com/assets/images/mustafa-hafeez-128.webp)
-
 [Mustafa Hafeez](https://mustafahafeez.com/)
 
 Створив Travel Document Vault для своєї родини

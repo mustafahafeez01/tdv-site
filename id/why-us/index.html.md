@@ -23,8 +23,6 @@ Unduh gratis. Tanpa akun. Tanpa langganan.
 
 Dibuat oleh seseorang yang membutuhkannya untuk keluarganya sendiri. Tanpa investor modal ventura, tanpa pemegang saham, tanpa jaringan iklan. Saya hanya bertanggung jawab kepada satu orang: Anda.
 
-![Mustafa Hafeez](https://traveldocumentvault.com/assets/images/mustafa-hafeez-128.webp)
-
 [Mustafa Hafeez](https://mustafahafeez.com/)
 
 Membuat Travel Document Vault untuk keluarga saya

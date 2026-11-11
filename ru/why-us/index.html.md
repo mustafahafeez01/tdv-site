@@ -23,8 +23,6 @@ Source: https://traveldocumentvault.com/ru/why-us/
 
 Приложение создал человек, которому оно было нужно для собственной семьи. Без венчурных инвесторов, без акционеров, без рекламных сетей. Я отвечаю только перед одним человеком — перед вами.
 
-![Mustafa Hafeez](https://traveldocumentvault.com/assets/images/mustafa-hafeez-128.webp)
-
 [Mustafa Hafeez](https://mustafahafeez.com/)
 
 Создал Travel Document Vault для своей семьи

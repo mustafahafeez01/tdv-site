@@ -23,8 +23,6 @@ Gratis downloaden. Geen account. Geen abonnement.
 
 Gemaakt door iemand die dit voor zijn eigen gezin nodig had. Geen durfkapitaal, geen aandeelhouders, geen advertentienetwerken. Ik leg verantwoording af aan één persoon: u.
 
-![Mustafa Hafeez](https://traveldocumentvault.com/assets/images/mustafa-hafeez-128.webp)
-
 [Mustafa Hafeez](https://mustafahafeez.com/)
 
 Bouwde Travel Document Vault voor mijn gezin

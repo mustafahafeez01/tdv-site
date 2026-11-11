@@ -23,8 +23,6 @@ Source: https://traveldocumentvault.com/ar/why-us/
 
 أنشأه شخص احتاج إليه لعائلته. بلا مستثمرين، ولا مساهمين، ولا شبكات إعلانية. أنا مسؤول أمام شخص واحد فقط: أنت.
 
-![Mustafa Hafeez](https://traveldocumentvault.com/assets/images/mustafa-hafeez-128.webp)
-
 [Mustafa Hafeez](https://mustafahafeez.com/)
 
 أنشأت Travel Document Vault من أجل عائلتي
