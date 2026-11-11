@@ -50,8 +50,6 @@ Mehrere Schutzebenen stehen zwischen einem versehentlichen Antippen und Datenver
 
 **„Für immer löschen“ erfordert eine Bestätigung.** Eine separate Aufforderung warnt Sie, dass das Dokument auch aus Ihrer Cloud-Sicherung entfernt wird.
 
-****
-
 **Verlaufszeitraum wählen.** Legen Sie fest, wie weit Ihr täglicher Sicherungsverlauf zurückreicht: 7, 30, 90 oder 180 Tage. Stellen Sie Ihren Tresor auf einen früheren Tag innerhalb dieses Zeitraums wieder her. Ältere Momentaufnahmen werden automatisch gelöscht.
 
 **Schutz bei leerem Tresor.** Ein Schutzmechanismus überspringt einige Sicherungsversuche bei leerem Tresor; für erste Backups sowie Wiederherstellungs- und Synchronisierungsabläufe gibt es Ausnahmen. Durch Massenlöschung entfernte Dokumente bleiben bei aktivierter Cloud-Sicherung in „Kürzlich gelöscht“, bis Sie sie endgültig löschen.

@@ -50,8 +50,6 @@ Beberapa lapisan keamanan berdiri di antara ketukan yang tidak disengaja dan dat
 
 **Penghapusan Selamanya memerlukan konfirmasi.** Prompt terpisah memperingatkan Anda bahwa dokumen juga akan dihapus dari cadangan cloud Anda.
 
-****
-
 **Pilih rentang riwayat Anda.** Tentukan seberapa jauh riwayat cadangan harian Anda menjangkau: 7, 30, 90, atau 180 hari. Pulihkan vault Anda ke hari sebelumnya dalam rentang tersebut. Snapshot yang lebih lama dihapus secara otomatis.
 
 **Perlindungan sinkronisasi vault kosong.** Perlindungan ini melewati sebagian upaya pencadangan vault kosong; cadangan pertama dan alur pemulihan atau sinkronisasi memiliki pengecualian. Dokumen yang dihapus secara massal tetap berada di Dihapus Baru-baru Ini selama cadangan cloud aktif, hingga Anda menghapusnya secara permanen.

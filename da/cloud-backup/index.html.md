@@ -50,8 +50,6 @@ Flere sikkerhedslag står mellem et utilsigtet tryk og tabt data.
 
 **Permanent sletning kræver bekræftelse.** Et separat prompt advarer dig om, at dokumentet også bliver fjernet fra din cloud backup.
 
-****
-
 **Vælg dit historikvindue.** Vælg, hvor langt tilbage din daglige backuphistorik rækker: 7, 30, 90 eller 180 dage. Gendan dit vault til en tidligere dag inden for det vindue. Ældre snapshots slettes automatisk.
 
 **Beskyttelse mod synkronisering af en tom hvælving.** En beskyttelse springer nogle backupforsøg med en tom hvælving over; førstegangsbackup og gendannelses- og synkroniseringsforløb har undtagelser. Masseslettede dokumenter bliver i Nylig slettet, mens cloud-backup er slået til, indtil du sletter dem permanent.

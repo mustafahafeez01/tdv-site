@@ -50,8 +50,6 @@ Várias camadas de segurança estão entre um toque acidental e dados perdidos.
 
 **Eliminação permanente requer confirmação.** Um aviso separado alerta-o de que o documento também será removido da sua cópia de segurança nuvem.
 
-****
-
 **Escolha a sua janela de historial.** Defina até onde remonta o historial das suas cópias de segurança diárias: 7, 30, 90 ou 180 dias. Restaure o seu cofre para um dia anterior dentro dessa janela. Os instantâneos mais antigos são eliminados automaticamente.
 
 **Proteção contra cópias de segurança de um cofre vazio.** Uma proteção impede algumas tentativas de cópia de segurança de um cofre vazio; as primeiras cópias de segurança e os processos de restauração e sincronização têm exceções. Os documentos eliminados em massa ficam em Eliminado Recentemente enquanto a cópia de segurança na nuvem estiver ativa, até os eliminar permanentemente.

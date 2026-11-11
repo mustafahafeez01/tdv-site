@@ -82,6 +82,6 @@ Every page listed below is also available as clean markdown: append `index.html.
 - [Available on Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault)
 - [Full blog corpus in one file](https://traveldocumentvault.com/llms-full.txt)
 
-Core pages, blog posts and FAQ articles are also published in 15 more languages under https://traveldocumentvault.com/{lang}/ (fr, es, de, pt, sv, da, it, ja, zh-Hans, id, ru, uk, nl, ko, th). Each has its own markdown twin.
+Core pages, blog posts and FAQ articles are also published in 16 more languages under https://traveldocumentvault.com/{lang}/ (fr, es, de, pt, sv, da, it, ja, zh-Hans, id, ru, uk, nl, ko, th, ar). Each has its own markdown twin.
 
 Contact: support@traveldocumentvault.com

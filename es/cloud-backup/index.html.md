@@ -50,8 +50,6 @@ Múltiples capas de seguridad se interponen entre un toque accidental y la pérd
 
 **Eliminar Para Siempre requiere confirmación.** Un aviso separado te advierte que el documento también se eliminará de tu copia de seguridad en la nube.
 
-****
-
 **Elige tu ventana de historial.** Elige hasta dónde llega tu historial de copia de seguridad diaria: 7, 30, 90 o 180 días. Restaura tu bóveda a un día anterior dentro de esa ventana. Las instantáneas más antiguas se eliminan automáticamente.
 
 **Protección al sincronizar una bóveda vacía.** Una protección omite algunos intentos de copia de seguridad de bóvedas vacías; las primeras copias y los procesos de restauración y sincronización tienen excepciones. Los documentos eliminados en masa se quedan en Eliminado Recientemente mientras la copia de seguridad en la nube esté activada, hasta que los elimines permanentemente.

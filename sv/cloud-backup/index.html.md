@@ -50,8 +50,6 @@ Flera säkerhetslager står mellan en oavsiktlig tryckning och förlorad data.
 
 **Permanent borttagning kräver bekräftelse.** En separat prompt varnar dig om att dokumentet också kommer att tas bort från din molnsäkerhetskopia.
 
-****
-
 **Välj ditt historikfönster.** Bestäm hur långt tillbaka din dagliga säkerhetskopieringshistorik sträcker sig: 7, 30, 90 eller 180 dagar. Återställ ditt valv till en tidigare dag inom det fönstret. Äldre ögonblicksbilder rensas automatiskt.
 
 **Skydd vid säkerhetskopiering av tomt valv.** Ett skydd hoppar över vissa försök att säkerhetskopiera ett tomt valv; första säkerhetskopieringen och återställnings- och synkroniseringsflöden har undantag. Dokument som raderas i grupp stannar i Nyligen raderad medan molnsäkerhetskopiering är på, tills du raderar dem permanent.

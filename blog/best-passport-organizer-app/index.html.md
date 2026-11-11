@@ -98,7 +98,7 @@ When evaluating any passport organizer app, ask yourself these nine questions:
 - Is the pricing model one-time or subscription?
 - Is the data encrypted at rest on the device?
 
-If nine of these answers are "yes", you've got a genuinely trustworthy app. For each "no", weigh whether that trade-off matters to you. For more on document organisation, see our [blog](https://traveldocumentvault.com/) for tips on what to store and when.
+If nine of these answers are "yes", you've got a genuinely trustworthy app. For each "no", weigh whether that trade-off matters to you. For more on document organisation, see our [blog](https://traveldocumentvault.com/blog/) for tips on what to store and when.
 
 Pull up the app you're actually considering and run it against this list before you scan in a single passport page.
 

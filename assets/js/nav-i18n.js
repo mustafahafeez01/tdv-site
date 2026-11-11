@@ -77,6 +77,10 @@
       home: 'หน้าแรก', features: 'ฟีเจอร์', whyUs: 'ทำไมต้องเรา', blog: 'บล็อก',
       whyIBuilt: 'ทำไมฉันถึงสร้างสิ่งนี้', pricing: 'ราคา', faq: 'คำถามที่พบบ่อย', privacy: 'ความเป็นส่วนตัว'
     },
+    ar: {
+      home: 'الرئيسية', features: 'الميزات', whyUs: 'لماذا نحن', blog: 'المدونة',
+      whyIBuilt: 'لماذا أنشأته', pricing: 'الأسعار', faq: 'الأسئلة الشائعة', privacy: 'الخصوصية'
+    },
     vi: {
       home: 'Trang Chủ', features: 'Tính Năng', whyUs: 'Tại Sao Chọn Chúng Tôi', blog: 'Blog',
       whyIBuilt: 'Tại Sao Tôi Xây Dựng Điều Này', pricing: 'Giá Cả', faq: 'Câu Hỏi Thường Gặp', privacy: 'Quyền Riêng Tư'

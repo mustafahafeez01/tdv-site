@@ -50,8 +50,6 @@ Più livelli di sicurezza stanno tra un tocco sbagliato e i dati persi.
 
 **L'eliminazione permanente richiede conferma.** Una richiesta a parte ti avvisa che il documento verrà rimosso anche dal tuo backup cloud.
 
-****
-
 **Scegli la finestra di cronologia.** Decidi per quanti giorni tenere la cronologia dei backup giornalieri: 7, 30, 90 o 180 giorni. Puoi riportare il tuo vault a un giorno qualsiasi dentro quella finestra. Le copie più vecchie vengono eliminate automaticamente.
 
 **Protezione per il backup di un vault vuoto.** Una protezione salta alcuni tentativi di backup di un vault vuoto; ci sono eccezioni per il primo backup e per le procedure di ripristino e sincronizzazione. I documenti eliminati in blocco restano in Eliminati di recente mentre il backup cloud è attivo, finché non li elimini definitivamente.

@@ -50,8 +50,6 @@ Meerdere beveiligingslagen staan tussen een onopzettelijke tap en verloren gegev
 
 **Permanente verwijdering vereist bevestiging.** Een afzonderlijke prompt waarschuwt u dat het document ook uit uw cloud-back-up wordt verwijderd.
 
-****
-
 **Kies uw geschiedenisvenster.** Bepaal hoe ver uw dagelijkse back-upgeschiedenis teruggaat: 7, 30, 90 of 180 dagen. Herstel uw kluis naar een eerdere dag binnen dat venster. Oudere momentopnamen worden automatisch verwijderd.
 
 **Beveiliging bij een lege kluis.** Een controle slaat sommige back-uppogingen met een lege kluis over; voor eerste back-ups en herstel- en synchronisatieprocedures gelden uitzonderingen. In bulk verwijderde documenten blijven in Recent verwijderd terwijl cloudback-up aan staat, totdat u ze permanent verwijdert.

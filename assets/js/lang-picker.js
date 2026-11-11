@@ -18,7 +18,7 @@
   //   2. Deep linguistic audit passes (see docs/translations/DEEP_LINGUISTIC_AUDIT_PROMPT.md)
   //
   // Status last updated: 2026-03-29
-  // Live (16): en, fr, de, pt, sv, da, th, zh-Hans, es, it, ru, uk, nl, id, ko, ja
+  // Live (17): en, fr, de, pt, sv, da, th, ar, zh-Hans, es, it, ru, uk, nl, id, ko, ja
   // Pending audit: no, fi, tr, pl, zh-Hant, vi
   const LANGUAGES = [
     { code: 'en',      flag: '🇬🇧', name: 'English' },
@@ -28,6 +28,7 @@
     { code: 'sv',      flag: '🇸🇪', name: 'Svenska' },
     { code: 'da',      flag: '🇩🇰', name: 'Dansk' },
     { code: 'th',      flag: '🇹🇭', name: 'ภาษาไทย' },
+    { code: 'ar',      flag: '🇸🇦', name: 'العربية' },
     { code: 'zh-Hans', flag: '🇨🇳', name: '简体中文' },
     { code: 'es',      flag: '🇪🇸', name: 'Español' },
     { code: 'it',      flag: '🇮🇹', name: 'Italiano' },
@@ -329,7 +330,7 @@
 
     btn.innerHTML = '<span aria-hidden="true">' + lang.flag + '</span>'
       + '<span>' + lang.name + '</span>'
-      + (isActive ? '<span class="ml-auto text-brand-gold text-xs" aria-hidden="true">✓</span>' : '');
+      + (isActive ? '<span class="text-brand-gold text-xs" style="margin-inline-start:auto" aria-hidden="true">✓</span>' : '');
 
     btn.addEventListener('click', function () {
       switchLang(lang.code);
@@ -403,9 +404,16 @@
   function positionDropdown(btn, dropdown) {
     var rect = btn.getBoundingClientRect();
     dropdown.style.top = (rect.bottom + 6) + 'px';
-    // Align right edge of dropdown to right edge of button
-    dropdown.style.left = 'auto';
-    dropdown.style.right = (window.innerWidth - rect.right) + 'px';
+    // Align the dropdown's inline-end edge with the button's: right edge in LTR,
+    // left edge in RTL (the button sits at the far left there, so a right anchor
+    // would push the list off screen).
+    if (document.documentElement.dir === 'rtl') {
+      dropdown.style.right = 'auto';
+      dropdown.style.left = rect.left + 'px';
+    } else {
+      dropdown.style.left = 'auto';
+      dropdown.style.right = (window.innerWidth - rect.right) + 'px';
+    }
   }
 
   /**

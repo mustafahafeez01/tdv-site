@@ -1,0 +1,58 @@
+{
+ "ar": {
+  "template": "tree",
+  "title": "تطبيق واحد صار أربع مهام",
+  "root": {
+   "heading": "TripCase",
+   "text": "توقف في 1 أبريل 2025"
+  },
+  "branches": [
+   {
+    "heading": "تنبيهات الرحلات",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Flighty",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "خط سير الرحلة",
+    "tone": "good",
+    "items": [
+     {
+      "text": "TripIt",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "الوثائق",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Travel Document Vault",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "مشاركة الرحلة",
+    "tone": "good",
+    "items": [
+     {
+      "text": "مجلد مشترك",
+      "mark": "none"
+     }
+    ]
+   }
+  ],
+  "alt": "مخطط لمهام TripCase الأربع بعد توقفه في 1 أبريل 2025: تنبيهات الرحلات إلى Flighty، وخط سير الرحلة إلى TripIt، والوثائق إلى Travel Document Vault، ومشاركة الرحلة إلى مجلد مشترك",
+  "caption": "خريطة البدائل في لمحة: أربع مهام وأربع أدوات، كل منها تؤدي مهمة واحدة جيدًا.",
+  "placement": {
+   "h2": 5,
+   "para": 1
+  }
+ }
+}

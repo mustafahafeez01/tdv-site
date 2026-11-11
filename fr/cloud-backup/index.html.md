@@ -50,8 +50,6 @@ Plusieurs couches de sécurité se dressent entre un appui accidentel et la pert
 
 **Suppression définitive nécessite une confirmation.** Une invite distincte vous avertit que le document sera également supprimé de votre sauvegarde dans le cloud.
 
-****
-
 **Choisissez votre fenêtre d'historique.** Définissez jusqu'où remonte votre historique de sauvegardes quotidiennes : 7, 30, 90 ou 180 jours. Restaurez votre coffre à un jour antérieur dans cette fenêtre. Les instantanés plus anciens sont supprimés automatiquement.
 
 **Protection contre la synchronisation d’un coffre vide.** Une protection empêche certaines tentatives de sauvegarde d’un coffre vide ; les premières sauvegardes et les opérations de restauration et de synchronisation ont des exceptions. Les documents supprimés en masse restent dans Récemment supprimé tant que la sauvegarde cloud est activée, jusqu’à leur suppression définitive.
