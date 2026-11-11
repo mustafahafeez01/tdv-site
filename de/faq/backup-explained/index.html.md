@@ -82,6 +82,6 @@ Welche Sicherungsoptionen bietet Travel Document Vault? Travel Document Vault bi
 
 Kostenloser Download. Tresor-Export und lokale Sicherungen sind für alle enthalten. Pro fügt Cloud-Sicherung, unbegrenzte Profile, kombinierten PDF-Export und mehr hinzu. Einmaliger Kauf, kein Abonnement.
 
-[App Store](https://apps.apple.com/app/apple-store/id6757014877?pt=128401792&ct=website&mt=8)
+![Im App Store laden](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 
-![Bei Google Play herunterladen](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
+![Bei Google Play erhältlich](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

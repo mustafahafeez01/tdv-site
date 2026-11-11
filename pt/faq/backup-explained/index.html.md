@@ -82,6 +82,6 @@ Que opções de cópia de segurança oferece Travel Document Vault? Travel Docum
 
 Transferência gratuita. A exportação do cofre e as cópias de segurança locais estão incluídas para todos. Pro adiciona cópia de segurança na nuvem, perfis ilimitados, exportação PDF combinada e muito mais. Compra única, sem subscrição.
 
-[App Store](https://apps.apple.com/app/apple-store/id6757014877?pt=128401792&ct=website&mt=8)
+![Descarregue na App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 
-![Obter no Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
+![Obtenha no Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

@@ -82,6 +82,6 @@ Vilka säkerhetskopieringsalternativ erbjuder Travel Document Vault? Travel Docu
 
 Gratis nedladdning. Valvexport och lokala säkerhetskopior ingår för alla. Pro lägger till molnsäkerhetskopia, obegränsat antal profiler, kombinerad PDF-export och mer. Engångsköp, ingen prenumeration.
 
-[App Store](https://apps.apple.com/app/apple-store/id6757014877?pt=128401792&ct=website&mt=8)
+![Ladda ned på App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 
 ![Hämta på Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

@@ -1,6 +1,6 @@
 # Pouvez-vous voyager pendant que votre passeport est renouvelé ?
 
-> Voyager pendant le renouvellement dépend de la démarche suivie et de la validité et de la disponibilité du passeport. Comparaison : États-Unis, Royaume-Uni, Australie et Canada.
+> Voyager pendant le renouvellement dépend de la démarche et de la validité et disponibilité du passeport. États-Unis, Royaume-Uni, Australie et Canada.
 
 Source: https://traveldocumentvault.com/fr/blog/travel-while-passport-renewal-pending/
 

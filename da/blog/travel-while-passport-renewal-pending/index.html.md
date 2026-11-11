@@ -1,6 +1,6 @@
 # Kan du rejse, mens dit pas bliver fornyet?
 
-> Rejser under pasfornyelsen afhænger af, hvordan du ansøger, og om passet stadig er gyldigt og til rådighed. Se reglerne for USA, Storbritannien, Australien og Canada.
+> Rejser under pasfornyelsen afhænger af, hvordan du ansøger, og om passet er gyldigt og til rådighed. Regler for USA, Storbritannien, Australien og Canada.
 
 Source: https://traveldocumentvault.com/da/blog/travel-while-passport-renewal-pending/
 

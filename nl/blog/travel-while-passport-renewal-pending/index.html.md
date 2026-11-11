@@ -1,6 +1,6 @@
 # Kun je reizen terwijl je paspoort wordt verlengd?
 
-> Reizen tijdens je paspoortverlenging hangt af van je aanvraagmethode en of je paspoort geldig en beschikbaar blijft. Vergelijk de VS, het VK, Australië en Canada.
+> Reizen tijdens je paspoortverlenging hangt af van je aanvraagmethode en of je paspoort geldig en beschikbaar blijft. Vergelijk VS, VK, Australië en Canada.
 
 Source: https://traveldocumentvault.com/nl/blog/travel-while-passport-renewal-pending/
 

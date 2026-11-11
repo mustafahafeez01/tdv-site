@@ -82,6 +82,6 @@ What backup options does Travel Document Vault offer? Travel Document Vault offe
 
 Free download. Vault export and local backups are included for everyone. Pro adds cloud backup, unlimited profiles, combined PDF export, and more. One-time purchase, no subscription.
 
-[App Store](https://apps.apple.com/app/apple-store/id6757014877?pt=128401792&ct=website&mt=8)
+![Download on the App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 
 ![Get it on Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

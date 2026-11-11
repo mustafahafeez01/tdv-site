@@ -82,6 +82,6 @@ Travel Document Vault предлагает три уровня защиты: (1)
 
 Бесплатная загрузка. Экспорт хранилища и локальные резервные копии включены для всех. Pro добавляет облачное резервное копирование, неограниченное количество профилей, объединённый экспорт в PDF и многое другое. Разовая покупка, без подписки.
 
-[App Store](https://apps.apple.com/app/apple-store/id6757014877?pt=128401792&ct=website&mt=8)
+![Скачайте в App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 
-![Доступно в Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
+![Получите в Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

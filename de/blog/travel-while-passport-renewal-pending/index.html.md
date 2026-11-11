@@ -1,6 +1,6 @@
 # Können Sie während der Passerneuerung reisen?
 
-> Reisen während der Passerneuerung hängen vom Antragsverfahren ab und davon, ob Ihr Pass gültig und verfügbar bleibt. USA, UK, Australien und Kanada im Vergleich.
+> Reisen während der Passerneuerung hängen vom Verfahren ab und davon, ob Ihr Pass gültig und verfügbar bleibt. USA, UK, Australien und Kanada im Vergleich.
 
 Source: https://traveldocumentvault.com/de/blog/travel-while-passport-renewal-pending/
 

@@ -82,6 +82,6 @@ Source: https://traveldocumentvault.com/ar/faq/backup-explained/
 
 التنزيل مجاني. تصدير الخزنة والنسخ الاحتياطية المحلية متاحان للجميع. ويضيف Pro النسخ الاحتياطي السحابي وعددًا غير محدود من الملفات الشخصية وتصدير PDF مجمّعًا وغير ذلك. شراء لمرة واحدة، بدون اشتراك.
 
-[App Store](https://apps.apple.com/app/apple-store/id6757014877?pt=128401792&ct=website&mt=8)
+![نزّله من App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 
 ![احصل عليه من Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

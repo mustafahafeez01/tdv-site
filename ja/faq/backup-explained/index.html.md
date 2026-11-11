@@ -82,6 +82,6 @@ Travel Document Vaultではどのようなバックアップオプションが�
 
 無料ダウンロード。金庫のエクスポートとローカルバックアップはすべてのユーザーに含まれています。Proはクラウドバックアップ、無制限のプロフィール、結合PDF エクスポート、および詳細を追加します。一度の購入、サブスクリプションなし。
 
-[App Store](https://apps.apple.com/app/apple-store/id6757014877?pt=128401792&ct=website&mt=8)
+![App Storeでダウンロード](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 
-![Google Play で手に入れよう](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
+![Google Playで入手](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

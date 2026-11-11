@@ -1,6 +1,6 @@
 # Potete viaggiare mentre il vostro passaporto viene rinnovato?
 
-> Viaggiare durante il rinnovo dipende dalla procedura e dalla validità e disponibilità del passaporto. Confronto tra Stati Uniti, Regno Unito, Australia e Canada.
+> Viaggiare durante il rinnovo dipende dalla procedura e dalla validità e disponibilità del passaporto. Confronto tra USA, Regno Unito, Australia e Canada.
 
 Source: https://traveldocumentvault.com/it/blog/travel-while-passport-renewal-pending/
 

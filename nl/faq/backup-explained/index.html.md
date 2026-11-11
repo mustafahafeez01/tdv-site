@@ -82,6 +82,6 @@ Welke back-upopties biedt Travel Document Vault? Travel Document Vault biedt dri
 
 Gratis download. Kluisexport en lokale back-ups zijn voor iedereen inbegrepen. Pro voegt Cloudback-up, onbeperkte profielen, gecombineerde PDF-export en meer toe. Eenmalige aankoop, geen abonnement.
 
-[App Store](https://apps.apple.com/app/apple-store/id6757014877?pt=128401792&ct=website&mt=8)
+![Download van de App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 
 ![Download van Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

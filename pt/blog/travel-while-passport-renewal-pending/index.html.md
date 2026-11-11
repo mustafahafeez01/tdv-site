@@ -1,6 +1,6 @@
 # Posso Viajar Enquanto o Meu Passaporte Está Sendo Renovado?
 
-> Viajar durante a renovação depende do tipo de pedido e de o passaporte continuar válido e disponível. Compare as regras dos EUA, Reino Unido, Austrália e Canadá.
+> Viajar durante a renovação depende do tipo de pedido e de o passaporte continuar válido e disponível. Regras dos EUA, Reino Unido, Austrália e Canadá.
 
 Source: https://traveldocumentvault.com/pt/blog/travel-while-passport-renewal-pending/
 

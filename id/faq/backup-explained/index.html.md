@@ -82,6 +82,6 @@ Opsi cadangan apa saja yang ditawarkan Travel Document Vault? Travel Document Va
 
 Unduh gratis. Ekspor brankas dan cadangan lokal disertakan untuk semua orang. Pro menambahkan cadangan cloud, profil tak terbatas, ekspor PDF gabungan, dan lainnya. Pembelian satu kali, tanpa langganan.
 
-[App Store](https://apps.apple.com/app/apple-store/id6757014877?pt=128401792&ct=website&mt=8)
+![Unduh di App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 
 ![Dapatkan di Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

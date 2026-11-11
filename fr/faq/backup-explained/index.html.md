@@ -82,6 +82,6 @@ Quelles options de sauvegarde Travel Document Vault offre-t-il ? Travel Document
 
 Téléchargement gratuit. L’exportation du coffre et les sauvegardes locales sont incluses pour tous. Pro ajoute la sauvegarde cloud, les profils illimités, l'export PDF combiné et plus. Achat unique, pas d'abonnement.
 
-[App Store](https://apps.apple.com/app/apple-store/id6757014877?pt=128401792&ct=website&mt=8)
+![Télécharger sur l'App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 
 ![Télécharger sur Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

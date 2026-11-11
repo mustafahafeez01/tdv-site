@@ -1,6 +1,6 @@
 # ¿Puedes viajar mientras tu pasaporte se está renovando?
 
-> Viajar durante la renovación depende del trámite y de que tu pasaporte siga siendo válido y esté disponible. Comparamos EE. UU., Reino Unido, Australia y Canadá.
+> Viajar durante la renovación depende del trámite y de que tu pasaporte siga siendo válido y esté disponible. EE. UU., Reino Unido, Australia y Canadá.
 
 Source: https://traveldocumentvault.com/es/blog/travel-while-passport-renewal-pending/
 

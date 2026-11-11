@@ -82,6 +82,6 @@ Ninguna es suficiente sola. Las cuentas en la nube pueden desaparecer, los códi
 
 Descarga gratuita. La exportación de la bóveda y las copias de seguridad locales están incluidas para todos. Pro añade copia de seguridad en la nube, perfiles ilimitados, exportación de PDF combinada, y más. Compra única, sin suscripción.
 
-[App Store](https://apps.apple.com/app/apple-store/id6757014877?pt=128401792&ct=website&mt=8)
+![Descargar en App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 
-![Descárgalo en Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
+![Obtenerlo en Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
