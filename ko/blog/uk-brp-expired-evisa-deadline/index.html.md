@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/ko/blog/uk-brp-expired-evisa-deadline/
 
 ---
 
-![햇살이 비치는 창가에 선 부모와 두 아이, 그녀의 손이 창턱 위 작은 여권 더미에 얹혀 있다](https://traveldocumentvault.com/blog/uk-brp-expired-evisa-deadline/cover.jpg)
-
 ## 주요 내용 요약
 
 - 만료된 BRP를 가진 대부분의 사람은 **UKVI 계정만 만들면** 되고, 카드는 한동안 그 과정에 계속 쓸 수 있습니다.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/ko/blog/uk-brp-expired-evisa-deadline/
 - 카드를 쓸 수 없다면? 유효한 여권과 비자 신청 번호, 또는 여권과 BRP 번호만 있어도 계정을 만들 수 있습니다.
 - 아이마다 **각자의 계정**이 필요하며, 부모가 자신의 휴대폰과 이메일로 관리할 수 있습니다.
 - 여행하려면 탑승할 여권이 UKVI 계정에 등록되어 있어야 하고, 정보가 예약 내용과 일치해야 합니다.
+
+![햇살이 비치는 창가에 선 부모와 두 아이, 그녀의 손이 창턱 위 작은 여권 더미에 얹혀 있다](https://traveldocumentvault.com/blog/uk-brp-expired-evisa-deadline/cover.jpg)
 
 만료된 생체인식 거주허가증(BRP, Biometric Residence Permit)을 가지고 있고 아직 체류 허가가 남아 있다면, GOV.UK는 카드로 본인 확인을 하고 UK Visas and Immigration(UKVI) 계정을 만들라고 안내합니다. 한 번 앉아서 끝낼 수 있는 일이고, 만료된 카드는 적어도 한동안은 이 용도로 여전히 쓸 수 있습니다. 체류 자격이 달라진 것은 아닙니다. 달라진 것은 그 자격이 어디에 보관되는가입니다.
 

@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/fr/blog/travel-insurance-documents/
 
 ---
 
-![un parent et un enfant assoupis sont assis dans une salle d'attente tranquille d'une clinique la nuit, le parent lisant calmement sa police d'assurance sur l'écran lumineux de son téléphone](https://traveldocumentvault.com/blog/travel-insurance-documents/cover.jpg)
-
 ## Points clés à retenir
 
 - **Conservez l'ensemble des documents de votre contrat, votre numéro de police et le numéro d'assistance d'urgence** (et non le numéro commercial).
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/fr/blog/travel-insurance-documents/
 - **Renseignez-vous sur les situations où votre assureur exige un contact avant les soins** ; en cas d'urgence médicale, faites d'abord appel aux secours, puis contactez l'assureur dès que possible.
 - Conservez les reçus et les rapports, et demandez à votre assureur quels documents fournir pour une demande d'indemnisation.
 - Lisez rapidement les sections clés de votre police en vous concentrant sur les limites de couverture, les exclusions et les conditions.
+
+![un parent et un enfant assoupis sont assis dans une salle d'attente tranquille d'une clinique la nuit, le parent lisant calmement sa police d'assurance sur l'écran lumineux de son téléphone](https://traveldocumentvault.com/blog/travel-insurance-documents/cover.jpg)
 
 Nous vous conseillerions d'enregistrer vos documents d'assurance voyage hors ligne et de prévoir une copie papier avant de partir, en regroupant votre numéro de police, votre justificatif de garanties et le numéro d'assistance d'urgence. Nous verrons ici quoi conserver, comment tester l'accès hors ligne et comment lire les consignes de déclaration, notamment pour connaître les horaires du service d'assistance.
 

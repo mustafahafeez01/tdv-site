@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/da/blog/encrypted-cloud-backup-travel-do
 
 ---
 
-![En forælder og et barn sidder sammen i sofaen i skumringen og kigger på en telefon og en lille guldnøgle, der ligger på bordet ved siden af et pas, mens en sky ovenover kun indeholder ukendelige tegn bag en hængelås](https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/cover.jpg)
-
 ## Vigtigste punkter
 
 - **"Krypteret backup" betyder kun noget, når du ved, hvem der har nøglen.** Hvis virksomheden kan læse dine dokumenter, beskytter krypteringen dem mod fremmede – ikke mod virksomheden.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/da/blog/encrypted-cloud-backup-travel-do
 - **Ingen konto betyder ingen nulstilling af adgangskode.** Hvis du mister gendannelseskoden og adgang til alle enheder, der stadig kan åbne boksen, kan vi ikke gendanne den krypterede backup. Det er den bevidste afvejning.
 - Skriv koden ned, før du er afhængig af backuppen, opbevar den væk fra telefonen, og læs den igennem én gang for at tjekke, at den er læselig.
 - En systembackup af enheden geninstallerer appen, men kan ikke bringe dine dokumenter tilbage, fordi systembackups ikke overfører den enhedsbundne krypteringsnøgle.
+
+![En forælder og et barn sidder sammen i sofaen i skumringen og kigger på en telefon og en lille guldnøgle, der ligger på bordet ved siden af et pas, mens en sky ovenover kun indeholder ukendelige tegn bag en hængelås](https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/cover.jpg)
 
 Du har scannet fire pas, to visa og børnenes fødselsattester ind i en app, der opbevarer alting på din telefon. Godt. Så dukker den oplagte bekymring op: hvad sker der, hvis telefonen ryger i havet, eller bliver stjålet fra et cafébord i Lissabon.
 

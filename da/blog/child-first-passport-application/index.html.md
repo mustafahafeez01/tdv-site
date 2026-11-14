@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/da/blog/child-first-passport-application
 
 ---
 
-![En forælder set bagfra ved et lyst vindue med en baby på skulderen, som holder et enkelt guldfarvet pas op](https://traveldocumentvault.com/blog/child-first-passport-application/cover.jpg)
-
 ## Vigtigste punkter
 
 - **Samtykke til at ansøge er ikke det samme som samtykke til at rejse.** Reglerne varierer fra land til land: I Storbritannien underskriver [en person med forældreansvar](https://www.gov.uk/get-a-child-passport/first-child-passport) for eksempel formularen, og du oplyser begge forældres oplysninger, mens andre lande kræver begge forældres samtykke. Tjek hos dit pasudstedende kontor.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/da/blog/child-first-passport-application
 - **Babyfotos til pas har specifikke regler.** De fleste myndigheder vil have øjnene åbne og vendt mod kameraet (GOV.UK lemper dette for børn under 1 år og under 6 år), uden sut, legetøj eller andre hænder synlige – og baggrunden bag barnets hoved skal være ensfarvet og tydelig.
 - **Tjek alt, i det øjeblik det ankommer.** Stavning, forældrenavne hvor de forekommer, udløbsdato – især fordi børnepas ofte udløber tidligere end voksenpas ([et britisk børnepas gælder i 5 år](https://www.gov.uk/get-a-child-passport)).
 - **I lande, der kræver begge forældres samtykke, kan én forælder som regel ikke underskrive alene, medmindre der er en retsafgørelse, eneforældremyndighed, eller den anden forælder er død.** Er det din situation, har dit pasudstedende kontor en specifik proces at følge.
+
+![En forælder set bagfra ved et lyst vindue med en baby på skulderen, som holder et enkelt guldfarvet pas op](https://traveldocumentvault.com/blog/child-first-passport-application/cover.jpg)
 
 Dit barns første pas er noget, du kun gør én gang – hvilket betyder, at du kan lære reglerne, før det sker, i stedet for at opdage dem ved skranken. Selve ansøgningen er ligetil, men samtykkeregler og fotokrav varierer fra land til land, og en lille fejl i starten betyder en afvist ansøgning og en forsinket rejse.
 

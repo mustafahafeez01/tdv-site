@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/nl/blog/how-long-is-esta-valid/
 
 ---
 
-![Handgetekende schets van een ouder en twee kinderen van achteren gezien thuis, kijkend uit een raam, met een Amerikaans paspoort en reisdocumenten, een kind wijst naar voren, goudaccent op de rug van het paspoort](https://traveldocumentvault.com/blog/how-long-is-esta-valid/cover.jpg)
-
 ## Belangrijkste punten
 
 - **Een ESTA is doorgaans twee jaar geldig vanaf goedkeuring, of tot je paspoort verloopt**, wat het eerst komt.
@@ -16,6 +14,8 @@ Source: https://traveldocumentvault.com/nl/blog/how-long-is-esta-valid/
 - Een nieuw paspoort, een nieuwe naam, een nieuwe nationaliteit of een gewijzigd antwoord op een geschiktheidsvraag betekent dat je opnieuw moet aanvragen.
 - **Elke reiziger heeft zijn eigen ESTA nodig**, inclusief kinderen van elke leeftijd en baby's zonder eigen ticket.
 - Het tarief steeg van US $40.27 naar US $40.62 op 16 oktober 2026. Een al goedgekeurde ESTA hoeft niet opnieuw te worden aangevraagd.
+
+![Handgetekende schets van een ouder en twee kinderen van achteren gezien thuis, kijkend uit een raam, met een Amerikaans paspoort en reisdocumenten, een kind wijst naar voren, goudaccent op de rug van het paspoort](https://traveldocumentvault.com/blog/how-long-is-esta-valid/cover.jpg)
 
 Een ESTA is doorgaans twee jaar geldig vanaf de dag van goedkeuring, of tot het paspoort waaraan hij gekoppeld is verloopt, wat het eerst komt. Heb je er al een, dan raakt de tariefwijziging van 16 oktober 2026 je goedkeuring niet, en betaal je het nieuwe bedrag pas bij je volgende aanvraag. Wat wij vandaag als eerste zouden doen, is de vervaldatum van elke ESTA in het gezin opzoeken, want iedere ESTA heeft zijn eigen klok.
 

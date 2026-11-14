@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/es/blog/uk-eta-passport-rules/
 
 ---
 
-![Un padre y su hija vistos de espaldas ante un ventanal luminoso del aeropuerto, sosteniendo dos pasaportes con el delantero perfilado en dorado y un avión en la puerta de embarque al fondo](https://traveldocumentvault.com/blog/uk-eta-passport-rules/cover.jpg)
-
 ## Puntos Clave
 
 - **Una ETA del Reino Unido está vinculada a tu número de pasaporte.** Cuando renuevas tu pasaporte y obtienes un número nuevo, tu ETA anterior deja de ser válida.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/es/blog/uk-eta-passport-rules/
 - **Cada persona necesita su propia ETA** —incluidos los niños y los bebés. No existe una ETA familiar. Cada persona necesita la suya, aunque puedes solicitarla en nombre de tus familiares.
 - El Home Office recomienda solicitarla **con al menos 3 días hábiles de antelación.** Es una recomendación, no una garantía de plazo de tramitación.
 - Una ETA es **un permiso para viajar, no un permiso de entrada.** Los agentes fronterizos pueden denegar la entrada incluso con una ETA válida.
+
+![Un padre y su hija vistos de espaldas ante un ventanal luminoso del aeropuerto, sosteniendo dos pasaportes con el delantero perfilado en dorado y un avión en la puerta de embarque al fondo](https://traveldocumentvault.com/blog/uk-eta-passport-rules/cover.jpg)
 
 El sistema de ETA del Reino Unido parece sencillo en la superficie: solicitas, pagas, viajas. Pero hay una regla de fondo que no resulta obvia hasta que se vuelve un problema: tu ETA está vinculada al número de pasaporte concreto que figura en tu solicitud. Cuando renuevas ese pasaporte y recibes un número nuevo, tu ETA deja de ser válida. Tendrás que volver a solicitarla con tu nuevo pasaporte antes del viaje.
 

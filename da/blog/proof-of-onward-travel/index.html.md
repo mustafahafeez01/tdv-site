@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/da/blog/proof-of-onward-travel/
 
 ---
 
-![En forælder og et barn ved et vindue i lufthavnen med et pas, hvor en rejsebillet stikker ud, mens de kigger ud på et fly før en rejse](https://traveldocumentvault.com/blog/proof-of-onward-travel/cover.jpg)
-
 ## Vigtigste punkter
 
 - **Bevis for videre rejse betyder som regel en booket billet ud af det land, du flyver til,** enten hjem eller videre til et land, du må indrejse i.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/da/blog/proof-of-onward-travel/
 - Nogle rejsemål skriver videre rejse ind i deres indrejseregler for besøgende, så når flyselskabet spørger, anvender det ofte bare rejsemålets regel lidt tidligere.
 - En hotelbooking eller et kontoudtog besvarer andre spørgsmål – hvor du skal bo, og hvordan du forsørger dig selv – og erstatter normalt ikke en billet ud.
 - Opbevar bekræftelsen et sted, hvor du kan åbne den ved skranken uden mobilsignal eller login.
+
+![En forælder og et barn ved et vindue i lufthavnen med et pas, hvor en rejsebillet stikker ud, mens de kigger ud på et fly før en rejse](https://traveldocumentvault.com/blog/proof-of-onward-travel/cover.jpg)
 
 I de fleste tilfælde er bevis for videre rejse en booket billet ud af det land, du flyver til. En returflyvning hjem tæller, og det samme gør en billet videre til et tredjeland, du må indrejse i. Har du allerede en af dem, har du det, der som regel bliver bedt om.
 

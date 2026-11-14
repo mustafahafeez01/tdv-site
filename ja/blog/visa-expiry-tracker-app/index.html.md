@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/ja/blog/visa-expiry-tracker-app/
 
 ---
 
-![王立紺色の背景上のビザ文書と、有効期限ウィンドウを追跡するソフトゴールドアーク](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/cover.jpg)
-
 ## 重要なポイント
 
 - ビザ有効期限追跡はパスポート追跡より**複雑です**。ビザには入国有効期限、最大滞在期間、時に入国回数制限があり、これらすべてを個別に監視する必要があります。
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/ja/blog/visa-expiry-tracker-app/
 - 最高のビザ有効期限追跡アプリはオフラインで機能し、複数のビザタイプに対応し、ドキュメントごとにカスタムリマインダータイミングを設定できます。
 - シェンゲン地域の訪問者は単一の有効期限ではなく、ローリング90/180日ウィンドウを追跡する必要があります。日数のカウントは、暦ではなく実際の旅行履歴に応じて動くためです。
 - ビザとパスポートを1つの場所で一緒に追跡すると、有効なビザで入国したがパスポートが予定滞在中に失効するという不一致のリスクが低減されます。
+
+![王立紺色の背景上のビザ文書と、有効期限ウィンドウを追跡するソフトゴールドアーク](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/cover.jpg)
 
 ビザのオーバーステイは、人が犯す可能性のある最も重大な旅行ミスの1つです。搭乗者の乗り遅れと異なり、ストレスはありますが最終的には解決可能ですが、オーバーステイは正式な移民記録を作成し、数年間あなたの後を追いかけます。米国では、[移民国籍法(INA)](https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chap12-subchapII-partII-sec1182.htm)第212条(a)(9)(B)に基づき、180日を超え1年未満の不法滞在をして出国した人は原則として3年間、1年以上の不法滞在は原則として10年間、再入国が禁止されます。これらの結果は広く知られていません。
 

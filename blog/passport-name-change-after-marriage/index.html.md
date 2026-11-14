@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/blog/passport-name-change-after-marriage
 
 ---
 
-![Watercolour sketch of a family of three seen from behind at an airport window in morning light, one adult holding a gold passport](https://traveldocumentvault.com/blog/passport-name-change-after-marriage/cover.jpg)
-
 ## Key Takeaways
 
 - **Marrying alone changes nothing.** You need a new passport only if you start using a different name.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/blog/passport-name-change-after-marriage
 - After the ceremony, send your **marriage or civil partnership certificate** with the application.
 - Applying before the ceremony gets you a **post-dated passport**, cancels your old one, and can complicate visas.
 - With a honeymoon close to the wedding, we'd travel in your current name and apply once you're home.
+
+![Watercolour sketch of a family of three seen from behind at an airport window in morning light, one adult holding a gold passport](https://traveldocumentvault.com/blog/passport-name-change-after-marriage/cover.jpg)
 
 Getting married changes nothing on a British passport by itself. HM Passport Office's own [caseworker guidance on name changes](https://www.gov.uk/government/publications/change-of-name-passport-applications-caseworker-guidance/names-change-of-name-passport-applications-accessible) says there is no legal basis for anyone to change their name because they've married, so the passport only needs to change when the name you use does. That leaves you a choice about when, and the timing turns out to matter more than the paperwork.
 
@@ -36,7 +36,7 @@ When the two don't line up, the trouble shows up at check-in rather than at the 
 
 Applying once you're married is the simpler route. [GOV.UK's marriage and civil partnership page](https://www.gov.uk/changing-passport-information/name-marriage-and-civil-partnership) asks you to send your marriage or civil partnership certificate when you apply for a passport in your new name, and says this includes double-barrelled names. Fill in and sign the application in the name you want printed on the passport, not the one you're replacing.
 
-HMPO defines a double-barrelled surname as two existing surnames joined with a space or a hyphen. Two surnames run together into a single word falls outside that definition, so if that's your plan, read the caseworker guidance before you send anything.
+HMPO defines a double-barrelled surname as two existing surnames joined with a space or a hyphen. Two surnames run together into a single word fall outside that definition, so if that's your plan, read the caseworker guidance before you send anything.
 
 The new passport is a different document in more ways than the name. It won't have the same number as your old one, and GOV.UK says time left on your old passport is not added to the new one. If your current passport has years left on it, that's the cost of switching now rather than at your next renewal.
 

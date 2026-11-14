@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/it/blog/child-travel-consent-letter/
 
 ---
 
-![Una lettera di consenso color crema e un piccolo passaporto di un minore legati insieme con un nastro dorato su uno sfondo blu scuro](https://traveldocumentvault.com/blog/child-travel-consent-letter/cover.jpg)
-
 ## Punti Chiave
 
 - I requisiti cambiano molto da un paese all'altro. **Una lettera che va bene per una destinazione potrebbe non essere accettata altrove.**
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/it/blog/child-travel-consent-letter/
 - La lettera di solito include il nome completo del minore, la data di nascita, il numero di passaporto, le date esatte di viaggio, le destinazioni e i dettagli di contatto del genitore assente.
 - I rifiuti più comuni dipendono da dati mancanti, autenticazione assente o firme troppo vecchie.
 - Porta con te una copia stampata e tieni un backup digitale cifrato per le emergenze.
+
+![Una lettera di consenso color crema e un piccolo passaporto di un minore legati insieme con un nastro dorato su uno sfondo blu scuro](https://traveldocumentvault.com/blog/child-travel-consent-letter/cover.jpg)
 
 Al banco della compagnia aerea, una lettera di consenso serve a una cosa sola: dimostrare che l'adulto che viaggia con un minore ha l'accordo del genitore che non c'è. La maggior parte viene accettata senza problemi.
 

@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/fr/blog/damaged-passport-travel/
 
 ---
 
-![parent et enfant à un comptoir d'enregistrement de compagnie aérienne pendant que l'agent examine un passeport doré ouvert aux pages abîmées par l'eau](https://traveldocumentvault.com/blog/damaged-passport-travel/cover.jpg)
-
 ## Points clés à retenir
 
 - **Toute usure n'est pas un dommage.** Une couverture pliée ne pose pas de problème. Des dégâts des eaux, des pages déchirées ou des dispositifs de sécurité maculés, si.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/fr/blog/damaged-passport-travel/
 - Repérer un dommage **plusieurs jours ou semaines avant** votre voyage vous laisse le temps d'un renouvellement d'urgence. La veille, c'est la crise.
 - Si l'on vous refuse l'embarquement, **renseignez-vous auprès de votre ambassade sur un document de voyage d'urgence**.
 - Une copie numérique **vaut le plus quand vous êtes à l'étranger** — un agent consulaire peut établir votre identité à partir d'un scan bien plus vite qu'à partir de votre récit. Scannez votre passeport avant de voyager.
+
+![parent et enfant à un comptoir d'enregistrement de compagnie aérienne pendant que l'agent examine un passeport doré ouvert aux pages abîmées par l'eau](https://traveldocumentvault.com/blog/damaged-passport-travel/cover.jpg)
 
 La plupart des dommages sur un passeport sont purement esthétiques. Une couverture éraflée, un coin ramolli, une tranche élimée le long de la reliure — rien de tout cela n'empêche d'embarquer. Ce que le personnel frontalier et les agents des compagnies aériennes vérifient réellement est plus restreint qu'on ne l'imagine : la page d'identité, les deux lignes imprimées en bas de cette page, et si le livret tient encore en un seul document.
 

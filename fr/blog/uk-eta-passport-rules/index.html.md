@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/fr/blog/uk-eta-passport-rules/
 
 ---
 
-![Un parent et son enfant vus de dos devant une grande baie vitrée d'aéroport, le parent tenant deux passeports dont celui de devant est souligné d'un liseré doré, un avion à la porte d'embarquement au loin](https://traveldocumentvault.com/blog/uk-eta-passport-rules/cover.jpg)
-
 ## Points clés à retenir
 
 - **Une ETA britannique est liée à votre numéro de passeport.** Quand vous renouvelez votre passeport et recevez un nouveau numéro, votre ancienne ETA devient invalide.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/fr/blog/uk-eta-passport-rules/
 - **Chaque personne a besoin de sa propre ETA** — y compris les enfants et les bébés. Il n'existe pas d'ETA familiale. Chacun a besoin de la sienne, même si vous pouvez faire la demande au nom des membres de votre famille.
 - Le Home Office recommande de faire la demande **au moins 3 jours ouvrés à l'avance.** C'est une recommandation, pas une garantie de délai de traitement.
 - Une ETA est une **autorisation de voyager, pas une garantie d'entrée.** Les agents frontaliers peuvent refuser l'entrée même avec une ETA valide.
+
+![Un parent et son enfant vus de dos devant une grande baie vitrée d'aéroport, le parent tenant deux passeports dont celui de devant est souligné d'un liseré doré, un avion à la porte d'embarquement au loin](https://traveldocumentvault.com/blog/uk-eta-passport-rules/cover.jpg)
 
 Le système ETA britannique paraît simple en surface : vous faites la demande, vous payez, vous voyagez. Il y a toutefois une règle sous-jacente, qui ne saute pas aux yeux tant qu'elle ne pose pas problème : votre ETA est liée au numéro de passeport précis indiqué sur votre demande. Quand vous renouvelez ce passeport et recevez un nouveau numéro, votre ETA cesse d'être valide. Vous devrez refaire une demande sur votre nouveau passeport avant votre voyage.
 

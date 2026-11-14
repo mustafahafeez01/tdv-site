@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/da/blog/child-travel-consent-letter/
 
 ---
 
-![Et cremefarvet samtykkebrev og et barns pas bundet sammen med et guldbånd på en kongeblå baggrund](https://traveldocumentvault.com/blog/child-travel-consent-letter/cover.jpg)
-
 ## Vigtigste punkter
 
 - Kravene varierer betydeligt fra land til land. **Et brev, der fungerer til én destination, accepteres muligvis ikke et andet sted.**
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/da/blog/child-travel-consent-letter/
 - Brevet indeholder som regel barnets fulde navn, fødselsdato, pasnummer, præcise rejsedatoer, destinationer og kontaktoplysninger på den fraværende forælder.
 - Almindelige afvisninger skyldes manglende oplysninger, manglende notarbekræftelse eller forældede underskrifter.
 - Medbring en printet kopi som hoveddokument, og opbevar en krypteret digital sikkerhedskopi til nødstilfælde.
+
+![Et cremefarvet samtykkebrev og et barns pas bundet sammen med et guldbånd på en kongeblå baggrund](https://traveldocumentvault.com/blog/child-travel-consent-letter/cover.jpg)
 
 Et samtykkebrev har én opgave ved check-in-skranken: det viser, at den voksne, der rejser med barnet, har den fraværende forælders accept. De fleste bliver accepteret uden kommentarer. De, der giver forsinkelser, fejler sjældent på indholdet.
 

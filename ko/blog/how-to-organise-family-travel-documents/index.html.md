@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/ko/blog/how-to-organise-family-travel-do
 
 ---
 
-![진한 남색 배경에 나란히 배치된 여행 서류들 - 여권, 신분증, 비자 페이지, 탑승권](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/cover.jpg)
-
 ## 핵심 요점
 
 - 가족 여행 서류 체크리스트에는 여권, 비자, 여행 보험, 예방 접종 기록이 필요합니다. 아이들과 여행할 때는 더 많은 서류가 필요합니다.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/ko/blog/how-to-organise-family-travel-do
 - 디지털 백업으로는 입국심사를 통과할 수 없지만, 뭔가 없어졌을 때 대사관에서 시간을 절약해줄 것입니다. 암호화되어 저장하고, 사진 라이브러리에는 저장하지 않으세요.
 - 비행 일주일 전이 아니라 예약 시점에 만료 날짜를 추적하는 것이 대부분의 여행 서류 재앙을 방지하는 유일한 습관입니다.
 - 예약 시점에 진행하는 출발 전 체크리스트는 문제가 비싼 문제가 되기 전에 해결할 충분한 시간을 제공합니다.
+
+![진한 남색 배경에 나란히 배치된 여행 서류들 - 여권, 신분증, 비자 페이지, 탑승권](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/cover.jpg)
 
 비행 전날 밤 11시, 여권이 나왔고 보험 서류는 어디론가 가고, 목적지가 실제로 요구하는 예방 접종 인증서는 집 어딘가로 사라졌습니다. 가족 여행 서류를 위한 체계가 없을 때의 문제입니다. 매번 다른 검색을 하다 보면 결국 중요한 것이 나타나지 않습니다.
 

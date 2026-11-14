@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/it/blog/lost-passport-abroad/
 
 ---
 
-![Un passaporto su sfondo blu navy reale con sottili linee di rotta dorate e un piccolo perno locatore dorato nelle vicinanze, che suggerisce aiuto per trovare la via di casa](https://traveldocumentvault.com/blog/lost-passport-abroad/cover.jpg)
-
 ## Punti chiave
 
 - Presenta subito la denuncia alla polizia: in genere l'assicuratore la vuole, e alcune ambasciate la chiedono.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/it/blog/lost-passport-abroad/
 - Una copia dei dati del passaporto può velocizzare la procedura, ma non vale come documento d’identità.
 - Alcune polizze di viaggio coprono i costi di sostituzione del passaporto. Controlla la tua e tieni la denuncia alla polizia, che gli assicuratori spesso richiedono.
 - Il momento per prepararsi è adesso, prima che qualcosa vada storto. Una scansione di cinque minuti oggi può farti risparmiare giorni di stress all'estero.
+
+![Un passaporto su sfondo blu navy reale con sottili linee di rotta dorate e un piccolo perno locatore dorato nelle vicinanze, che suggerisce aiuto per trovare la via di casa](https://traveldocumentvault.com/blog/lost-passport-abroad/cover.jpg)
 
 Ogni giorno c'è chi sostituisce un passaporto perso all'estero, e le ambasciate lo trattano come una pratica di routine, non come un'emergenza. Il processo ha un suo ordine: se lo segui, un pomeriggio complicato resta un semplice ritardo e non diventa un viaggio annullato. Ecco cosa fare, passo dopo passo.
 

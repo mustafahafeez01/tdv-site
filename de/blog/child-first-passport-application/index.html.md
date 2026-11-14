@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/de/blog/child-first-passport-application
 
 ---
 
-![Ein Elternteil von hinten an einem hellen Fenster, das Baby auf einer Schulter, hält einen einzelnen goldenen Reisepass hoch](https://traveldocumentvault.com/blog/child-first-passport-application/cover.jpg)
-
 ## Wichtigste Erkenntnisse
 
 - **Die Zustimmung zur Beantragung ist etwas anderes als die Zustimmung zur Reise.** Die Regeln unterscheiden sich je nach Land: Im Vereinigten Königreich unterschreibt beispielsweise eine sorgeberechtigte Person das Formular, und Sie geben die Daten beider Elternteile an. Andere Länder verlangen die Zustimmung beider Eltern. Fragen Sie bei Ihrer Passbehörde nach.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/de/blog/child-first-passport-application
 - **Für Babyfotos im Reisepass gelten besondere Regeln.** Die meisten Behörden wollen offene Augen, die in die Kamera schauen (GOV.UK lockert dies für Kinder unter 1 und unter 6 Jahren), ohne sichtbaren Schnuller, Spielzeug oder fremde Hände – und der Hintergrund hinter dem Kopf des Kindes muss einfarbig und frei sein.
 - **Prüfen Sie alles, sobald der Reisepass ankommt.** Schreibweise, die Namen der Eltern, sofern sie aufgeführt sind, das Ablaufdatum – besonders wichtig, weil Kinderreisepässe oft früher ablaufen als die von Erwachsenen ([ein britischer Kinderreisepass ist 5 Jahre gültig](https://www.gov.uk/get-a-child-passport)).
 - **In Ländern, die die Zustimmung beider Eltern verlangen, kann ein Elternteil in der Regel nicht allein unterschreiben, es sei denn, es liegt eine gerichtliche Verfügung oder das alleinige Sorgerecht vor, oder der andere Elternteil ist verstorben.** Trifft das auf Sie zu, hat Ihre Passbehörde ein festgelegtes Verfahren dafür.
+
+![Ein Elternteil von hinten an einem hellen Fenster, das Baby auf einer Schulter, hält einen einzelnen goldenen Reisepass hoch](https://traveldocumentvault.com/blog/child-first-passport-application/cover.jpg)
 
 Den ersten Reisepass Ihres Kindes beantragen Sie nur einmal – das heißt, Sie können die Regeln vorher lernen, statt sie am Schalter zu entdecken. Der Antrag selbst ist unkompliziert, aber Zustimmungsregeln und Fotoanforderungen unterscheiden sich je nach Land, und ein kleiner Fehler am Anfang bedeutet einen abgelehnten Antrag und eine verzögerte Reise.
 

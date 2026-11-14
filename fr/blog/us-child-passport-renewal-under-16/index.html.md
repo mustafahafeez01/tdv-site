@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/fr/blog/us-child-passport-renewal-under-
 
 ---
 
-![Deux parents et un enfant vus de dos, marchant main dans la main vers une porte ouverte, un parent tenant le passeport de l'enfant](https://traveldocumentvault.com/blog/us-child-passport-renewal-under-16/cover.jpg)
-
 ## Points clés à retenir
 
 - Un passeport d'enfant américain délivré avant 16 ans **ne peut pas être renouvelé** - il faut en demander un nouveau.
@@ -16,6 +14,8 @@ Source: https://traveldocumentvault.com/fr/blog/us-child-passport-renewal-under-
 - Les deux parents doivent participer, sauf si l'un donne son **consentement écrit notarié** ou en cas de preuve d'autorité exclusive.
 - À 16 ou 17 ans, l'adolescent fait la demande en personne et peut signer sa propre demande, mais un parent peut tout de même devoir donner son consentement.
 - Un passeport délivré à 16 ans ou plus est valable dix ans et peut généralement être renouvelé comme celui d'un adulte.
+
+![Deux parents et un enfant vus de dos, marchant main dans la main vers une porte ouverte, un parent tenant le passeport de l'enfant](https://traveldocumentvault.com/blog/us-child-passport-renewal-under-16/cover.jpg)
 
 Un passeport américain délivré à un enfant de moins de 16 ans ne peut pas être renouvelé. Une fois expiré, il faut demander un nouveau passeport en personne, de la même façon que la première fois, avec les deux parents présents à nouveau. C'est un peu plus de démarches qu'un renouvellement d'adulte, mais rien de nouveau si on l'a déjà fait une fois.
 

@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/pt/blog/child-travel-consent-letter/
 
 ---
 
-![Uma carta de consentimento bege e um pequeno passaporte infantil atados com uma fita dourada num fundo azul-marinho real](https://traveldocumentvault.com/blog/child-travel-consent-letter/cover.jpg)
-
 ## Pontos-Chave
 
 - Os requisitos variam significativamente por país. **Uma carta que funciona para um destino pode não ser aceite noutro.**
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/pt/blog/child-travel-consent-letter/
 - A carta costuma incluir o nome completo da criança, data de nascimento, número de passaporte, datas exatas de viagem, destinos e detalhes de contacto do progenitor ausente.
 - As rejeições comuns resultam de informações em falta, falta de autenticação ou assinaturas desatualizadas.
 - Transporte uma cópia impressa como documento principal, e guarde uma cópia de segurança digital encriptada para emergências.
+
+![Uma carta de consentimento bege e um pequeno passaporte infantil atados com uma fita dourada num fundo azul-marinho real](https://traveldocumentvault.com/blog/child-travel-consent-letter/cover.jpg)
 
 Uma carta de consentimento cumpre uma única função no balcão da companhia aérea: mostra que o adulto que viaja com a criança tem o acordo do progenitor ausente. A maioria é aceite sem comentários. As que causam atrasos raramente falham no essencial.
 

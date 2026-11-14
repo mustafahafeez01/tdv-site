@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/sv/blog/travel-insurance-documents/
 
 ---
 
-![förälder och trött barn sitter i ett stillsamt väntrumsstöd på en klinik på natten, föräldern läser lugnt sin försäkring på telefonen](https://traveldocumentvault.com/blog/travel-insurance-documents/cover.jpg)
-
 ## Viktiga punkter
 
 - **Spara dina fullständiga försäkringshandlingar, ditt försäkringsnummer och numret till försäkringsbolagets larmcentral** (inte försäljningsnumret).
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/sv/blog/travel-insurance-documents/
 - **Ta reda på när försäkringsbolaget kräver kontakt före behandling**; sök akut vård först och kontakta sedan bolaget så snart som möjligt.
 - Spara kvitton och rapporter och fråga försäkringsbolaget vilka handlingar det behöver för en skadeanmälan.
 - Börja med försäkringens ersättningsgränser, undantag och villkor för att få en överblick.
+
+![förälder och trött barn sitter i ett stillsamt väntrumsstöd på en klinik på natten, föräldern läser lugnt sin försäkring på telefonen](https://traveldocumentvault.com/blog/travel-insurance-documents/cover.jpg)
 
 Vi skulle spara reseförsäkringens handlingar offline och packa en papperskopia före avresan, med försäkringsnummer, försäkringsbevis och numret till larmcentralen samlade. Här går vi igenom vad du bör spara, hur du testar åtkomsten utan internet och hur du läser anvisningarna för skadeanmälan, inklusive hur du tar reda på larmcentralens öppettider.
 

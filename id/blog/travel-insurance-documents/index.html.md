@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/id/blog/travel-insurance-documents/
 
 ---
 
-![orang tua dan anak yang tertidur duduk di ruang tunggu klinik yang tenang pada malam hari, orang tua tenang membaca polis asuransi mereka di layar ponsel yang bersinar](https://traveldocumentvault.com/blog/travel-insurance-documents/cover.jpg)
-
 ## Poin Penting
 
 - **Simpan dokumen polis lengkap, nomor polis, dan nomor bantuan darurat** (bukan nomor penjualan).
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/id/blog/travel-insurance-documents/
 - **Pelajari kapan perusahaan asuransi mewajibkan Anda menghubungi mereka sebelum perawatan**; dalam keadaan darurat medis, cari pertolongan terlebih dahulu, lalu hubungi perusahaan asuransi sesegera mungkin.
 - Simpan kuitansi dan laporan, lalu tanyakan kepada perusahaan asuransi dokumen apa saja yang diperlukan untuk klaim.
 - Mulailah dari batas pertanggungan, pengecualian, dan syarat polis, lalu baca seluruh ketentuannya.
+
+![orang tua dan anak yang tertidur duduk di ruang tunggu klinik yang tenang pada malam hari, orang tua tenang membaca polis asuransi mereka di layar ponsel yang bersinar](https://traveldocumentvault.com/blog/travel-insurance-documents/cover.jpg)
 
 Saran kami, simpan dokumen asuransi perjalanan secara offline dan siapkan salinan kertas sebelum berangkat. Kumpulkan nomor polis, bukti pertanggungan, dan nomor bantuan darurat agar mudah ditemukan. Di sini kita akan membahas apa yang perlu disimpan, cara mencoba akses offline, serta petunjuk klaim yang perlu dibaca, termasuk jam layanan bantuan darurat.
 

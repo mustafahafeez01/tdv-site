@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/da/blog/how-long-does-passport-renewal-t
 
 ---
 
-![Et pas, der glider halvvejs ud af en almindelig cremefarvet kuvert på en mørkeblå baggrund, hvilket antyder en fornyelse i gang](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/cover.jpg)
-
 ## Vigtigste punkter
 
 - Hvor lang tid en fornyelse tager, afhænger af dit land, din situation og den årstid, du ansøger i – der findes ikke ét tal, der forbliver præcist ret længe, så vi har bevidst udeladt et fra denne guide.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/da/blog/how-long-does-passport-renewal-t
 - En håndfuld situationer bremser typisk processen: navneskift, et første voksenpas, en ansøgning for et barn, et bortkommet eller beskadiget pas, ekstra sikkerhedstjek, højsæson og ansøgning fra udlandet.
 - Den sikreste fremgangsmåde er at ansøge, så snart dit pas' resterende gyldighed begynder at føles knap, og regne baglæns fra din faktiske rejsedato i stedet for at gætte.
 - For det tal, der betyder noget lige nu, skal du gå til din egen pasmyndighed – HM Passport Office, det amerikanske udenrigsministerium, det australske paskontor, eller din nationale modpart – ikke et blogindlæg.
+
+![Et pas, der glider halvvejs ud af en almindelig cremefarvet kuvert på en mørkeblå baggrund, hvilket antyder en fornyelse i gang](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/cover.jpg)
 
 Du har booket fly til en tur om fem måneder. Du tager alles pas frem for at dobbelttjekke, og der er det: ét udløber om fem måneder og tre uger. Nu vil du have et præcist tal for, hvor lang tid en fornyelse tager, så du kan regne ud, om du reelt har tid.
 

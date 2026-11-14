@@ -22,7 +22,7 @@ That pit-in-your-stomach moment - realising you nearly wrecked a family trip wit
 
 If you're the person in your family who manages documents, you already know this feeling.
 
-You're not just storing files. You carry an invisible checklist in your head: which passports expire when, who needs what for school enrolment, which countries have the six-month rule, whether the travel insurance actually got renewed or just meant to be.
+You're not just storing files. You carry an invisible checklist in your head: which passports expire when, who needs what for school enrolment, which countries have the six-month rule, whether the travel insurance actually got renewed or you just meant to renew it.
 
 No single check takes that long. Finding a passport scan, reading the expiry date, checking it clears your trip by six months - maybe two or three minutes. But multiply that by four family members, add the insurance policy buried in email, the driver's licence you're not sure is still current, and you've burned fifteen or twenty minutes at 11pm the night before a flight.
 
@@ -36,7 +36,7 @@ I didn't want to build a travel app. I wanted to stop carrying this in my head.
 
 I tried everything before building this.
 
-I tried cloud storage - great for files, useless for tracking expiry dates, because I still had to open every document and do the mental math myself.
+I tried cloud storage - great for files, useless for tracking expiry dates, because I still had to open every document and do the mental maths myself.
 
 I tried calendar reminders too - set a notification six months before each passport expired, but the scans lived in one place and the reminders in another, so when I needed to check something at 11pm before booking a flight, I was bouncing between three apps trying to piece it all together.
 

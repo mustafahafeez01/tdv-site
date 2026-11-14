@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/child-first-passport-applic
 
 ---
 
-![一位家长背对镜头站在明亮的窗前，肩上抱着婴儿，手中举着一本金色护照](https://traveldocumentvault.com/blog/child-first-passport-application/cover.jpg)
-
 ## 关键要点
 
 - **申请同意与出行同意并不相同。**各国要求不同：例如，英国由一位拥有监护责任的人签署表格，并填写双方父母的信息；有些国家则要求双方父母同意。请向您所在国家的护照办公室核实。
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/child-first-passport-applic
 - **婴儿护照照片有特定规则。**大多数机构要求眼睛睁开并看向镜头（GOV.UK对一岁以下和六岁以下的孩子放宽此规定），画面中不能有奶嘴、玩具或他人的手，孩子头部后方的背景必须是纯色且清晰可见。
 - **护照一送达就要全部检查一遍：**拼写、父母姓名（如有标注）、到期日。儿童护照通常比成人护照更早到期（例如，英国儿童护照有效期为5年），因此这一点尤为重要。
 - **在要求双方父母同意的国家，除非有法院命令、单独法定监护权，或另一方父母已故，否则通常不能仅由一位家长签字。**如果您的情况属于这几类，护照办公室会有专门的处理流程。
+
+![一位家长背对镜头站在明亮的窗前，肩上抱着婴儿，手中举着一本金色护照](https://traveldocumentvault.com/blog/child-first-passport-application/cover.jpg)
 
 孩子的第一本护照，这件事一生只会经历一次，也就是说，您可以提前了解规则，而不必等到柜台前才第一次接触。申请手续本身并不复杂，但同意规则和照片要求因国家而异，起步阶段的一个小失误就可能导致申请被拒、行程延误。
 

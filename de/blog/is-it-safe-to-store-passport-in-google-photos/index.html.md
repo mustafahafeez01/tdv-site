@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/de/blog/is-it-safe-to-store-passport-in-
 
 ---
 
-![Ein Reisepass auf einem dunkelblauem Hintergrund, geschützt durch einen weichen goldenen Schild, der privaten und sicheren Dokumentenspeicher andeutet](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/cover.jpg)
-
 ## Wichtige Erkenntnisse
 
 - Das Speichern eines Reisepass-Scans in Google Photos bedeutet, dass sich Ihr Identitätsdokument auf Googles Servern befindet, von deren Systemen verarbeitet wird und nur durch Ihre Kontosicherheit geschützt ist.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/de/blog/is-it-safe-to-store-passport-in-
 - Laut Googles Datenschutzrichtlinie analysieren automatisierte Systeme Ihre Inhalte, um Dienste bereitzustellen und zu verbessern. Ein Passscan wird wie jedes andere Foto gespeichert.
 - Bessere Optionen gibt es: verschlüsselte Passwort-Manager, lokal verschlüsselte Apps oder clientseitig verschlüsselter Cloud-Speicher – keiner davon speichert Ihren Reisepass in einer allgemeinen Fotobibliothek.
 - Für die meisten Menschen ist das echte Risiko nicht Google – es ist schwache Kontosicherheit und wer sonst noch auf das Konto zugreifen kann.
+
+![Ein Reisepass auf einem dunkelblauem Hintergrund, geschützt durch einen weichen goldenen Schild, der privaten und sicheren Dokumentenspeicher andeutet](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/cover.jpg)
 
 Viele Menschen speichern Reisepass-Scans in Google Photos, ohne zweimal zu überlegen. Sie brauchen eine Kopie, machen ein Foto, es wird automatisch gesichert. Fertig. Die Frage, ob das tatsächlich eine intelligente Entscheidung für Ihr sensibelstes Identitätsdokument ist, kommt selten auf – bis etwas schiefgeht.
 

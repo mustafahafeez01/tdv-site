@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/id/blog/international-driving-permit-val
 
 ---
 
-![Sebuah keluarga memuat barang ke mobil sewaan di awal perjalanan darat, SIM dan Izin Mengemudi Internasional diletakkan di atas peta yang terbuka di sampingnya](https://traveldocumentvault.com/blog/international-driving-permit-validity/cover.jpg)
-
 ## Poin Penting
 
 - IDP adalah **terjemahan resmi dari SIM yang sudah Anda miliki**, jadi Anda membawa keduanya. Menyerahkan izin ini saja tidak membuktikan apa pun.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/id/blog/international-driving-permit-val
 - Izin Wina **dibatasi oleh masa berlaku SIM Anda**. Jika SIM lebih dulu kedaluwarsa, izin tersebut berhenti berguna sejak tanggal itu, berapa pun tanggal yang tercetak di dokumennya.
 - Setiap negara meratifikasi konvensi yang berbeda-beda, sehingga **izin yang diterima di satu negara bisa ditolak di negara berikutnya**.
 - Paspor, SIM, dan izin mengemudi internasional berjalan pada **tiga jam yang terpisah** dan hampir tidak pernah sejalan.
+
+![Sebuah keluarga memuat barang ke mobil sewaan di awal perjalanan darat, SIM dan Izin Mengemudi Internasional diletakkan di atas peta yang terbuka di sampingnya](https://traveldocumentvault.com/blog/international-driving-permit-validity/cover.jpg)
 
 Surat Izin Mengemudi Internasional adalah terjemahan dari SIM, bukan SIM tersendiri, dan masa berlakunya berjalan menurut hitungannya sendiri. Banyak yang berlaku dua belas bulan sejak tanggal terbit dan tidak ada yang berlaku lebih dari tiga tahun, sehingga yang dibuat untuk perjalanan tiga musim panas lalu hampir pasti sudah habis masa berlakunya. Konter penyewaan di sejumlah negara memintanya sebelum menyerahkan mobil.
 

@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/fr/blog/how-long-is-esta-valid/
 
 ---
 
-![Un parent et deux enfants vus de dos à la maison regardant par une fenêtre, tenant un passeport américain et des documents de voyage, un enfant pointant du doigt, détail doré sur le dos du passeport](https://traveldocumentvault.com/blog/how-long-is-esta-valid/cover.jpg)
-
 ## Points clés à retenir
 
 - **Une ESTA est généralement valable deux ans à partir de son approbation, ou jusqu'à l'expiration du passeport**, selon ce qui arrive en premier.
@@ -16,6 +14,8 @@ Source: https://traveldocumentvault.com/fr/blog/how-long-is-esta-valid/
 - Un nouveau passeport, un nouveau nom, une nouvelle nationalité ou une réponse d'éligibilité modifiée signifient refaire une demande.
 - **Chaque voyageur a besoin de sa propre ESTA**, y compris les enfants de tout âge et les bébés qui n'ont pas leur propre billet.
 - Le tarif est passé de US $40.27 à US $40.62 le 16 octobre 2026. Une ESTA déjà approuvée n'a pas besoin d'être redemandée.
+
+![Un parent et deux enfants vus de dos à la maison regardant par une fenêtre, tenant un passeport américain et des documents de voyage, un enfant pointant du doigt, détail doré sur le dos du passeport](https://traveldocumentvault.com/blog/how-long-is-esta-valid/cover.jpg)
 
 Une ESTA est généralement valable deux ans à partir du jour de son approbation, ou jusqu'à l'expiration du passeport auquel elle est liée, selon ce qui arrive en premier. Si vous en avez déjà une, le changement de tarif du 16 octobre 2026 ne la concerne pas, et vous ne paierez le nouveau montant qu'à votre prochaine demande. Ce que nous ferions aujourd'hui, c'est vérifier la date d'expiration de chaque ESTA de la famille, car l'horloge de chacun tourne séparément.
 

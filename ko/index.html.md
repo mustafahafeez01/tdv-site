@@ -6,7 +6,9 @@ Source: https://traveldocumentvault.com/ko/
 
 ---
 
-09:41
+앱은 휴대폰에서 문서를 암호화합니다. Pro에는 필요에 따라 켤 수 있는 암호화된 클라우드 백업 기능이 포함되어 있습니다.
+
+[문서 보호 방식](https://traveldocumentvault.com/ko/privacy-verification/) 09:41
 
 ## 진짜 여행 전에 떠나는 여행
 

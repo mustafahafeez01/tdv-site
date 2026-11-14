@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/fr/blog/visa-expiry-tracker-app/
 
 ---
 
-![Un document visa sur un fond bleu marine royal avec un arc doré doux suivant sa fenêtre de validité](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/cover.jpg)
-
 ## Points clés à retenir
 
 - Le suivi de l'expiration des visas est **plus complexe** que le suivi des passeports — un visa a une date de validité d'entrée, une durée maximale de séjour, et parfois des limites de nombre d'entrées, tous nécessitant un suivi séparé.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/fr/blog/visa-expiry-tracker-app/
 - Les meilleures applications de suivi des visas fonctionnent hors ligne, prennent en charge plusieurs types de visas, et permettent des rappels personnalisés par document.
 - Les visiteurs de l'espace Schengen doivent suivre une fenêtre glissante de 90/180 jours, pas seulement une seule date d'expiration, car le compte avance avec votre historique de voyage réel, pas avec le calendrier.
 - Suivre les visas et les passeports ensemble au même endroit réduit le risque d'une incohérence: entrer avec un visa valide mais avec un passeport qui expire avant la fin de votre séjour prévu.
+
+![Un document visa sur un fond bleu marine royal avec un arc doré doux suivant sa fenêtre de validité](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/cover.jpg)
 
 Un dépassement de visa est l'une des erreurs de voyage les plus graves qu'une personne puisse commettre. Contrairement à un vol manqué — stressant mais finalement réparable — un dépassement crée un dossier formel d'immigration qui peut vous suivre pendant des années. Aux États-Unis, en vertu de la section 212(a)(9)(B) de l'[Immigration and Nationality Act](https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chap12-subchapII-partII-sec1182.htm), une personne en situation irrégulière pendant plus de 180 jours mais moins d'un an, puis qui quitte le pays, se voit généralement interdire le retour pendant trois ans, et un an ou plus de présence irrégulière entraîne généralement une interdiction de dix ans. Ces conséquences ne sont pas largement connues.
 

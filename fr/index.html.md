@@ -6,7 +6,9 @@ Source: https://traveldocumentvault.com/fr/
 
 ---
 
-09:41
+L'application chiffre vos documents sur votre téléphone. Pro inclut une sauvegarde chiffrée dans le cloud, que vous pouvez activer si vous le souhaitez.
+
+[Comment vos documents sont protégés](https://traveldocumentvault.com/fr/privacy-verification/) 09:41
 
 ## Le voyage que vous faites avant le voyage
 

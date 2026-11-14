@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/travel-document-checklist/
 
 ---
 
-![护照和旅行卡用纤细的金色带子绑在一起，放在深蓝色背景上，为旅行准备的所有物品](https://traveldocumentvault.com/blog/travel-document-checklist/cover.jpg)
-
 ## 关键要点
 
 - 最有用的旅行文件检查清单按照**何时需要采取行动**组织——而不是按文件类型。按阶段分类意味着您可以在还有时间修复问题时抓住问题。
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/travel-document-checklist/
 - 家庭旅行增加了一个独立的层面：每个孩子都需要单独检查其文件，如果一位家长不同行，可能需要父母同意信。
 - 商务旅客经常携带多本护照和工作签证——这些需要单独跟踪，与个人文件分开。
 - 每个文件的数字备份（加密的，不是在您的照片库中）可以在国外出错时帮助您更快地回家。
+
+![护照和旅行卡用纤细的金色带子绑在一起，放在深蓝色背景上，为旅行准备的所有物品](https://traveldocumentvault.com/blog/travel-document-checklist/cover.jpg)
 
 大多数旅行文件检查清单就是一个平铺的列表：护照、签证、保险。它们告诉您要带什么，但不告诉您何时检查，这就是人们陷入困境的地方。在登机口发现护照在五个月内过期的家庭，预订时没有注意到签证要求的独自旅客，或者忘记了签证绑定在哪本护照上的商务旅客——这些不是边缘情况，它们是常规现象。
 

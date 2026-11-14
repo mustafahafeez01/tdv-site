@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/da/blog/visa-expiry-tracker-app/
 
 ---
 
-![Et visumdokument på en kongeblå baggrund med en blød guldfarvet bue, der markerer gyldighedsperioden](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/cover.jpg)
-
 ## Vigtigste punkter
 
 - Visumovervågning er **mere kompleks** end pasovervågning – et visum har en indrejse-gyldighedsdato, en maksimal opholdstid og nogle gange en grænse for antal indrejser, som alle skal overvåges hver for sig.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/da/blog/visa-expiry-tracker-app/
 - De bedste apps til visumovervågning virker offline, understøtter flere visumtyper og lader dig indstille tilpassede påmindelsestidspunkter pr. dokument.
 - Rejsende i Schengenområdet skal overvåge et glidende 90/180-dages-vindue, ikke bare én enkelt udløbsdato, fordi optællingen glider med din faktiske rejsehistorik, ikke med kalenderen.
 - At overvåge visa og pas samlet ét sted mindsker risikoen for en fejlmatch: at rejse ind på et gyldigt visum, men med et pas, der udløber, før det planlagte ophold er slut.
+
+![Et visumdokument på en kongeblå baggrund med en blød guldfarvet bue, der markerer gyldighedsperioden](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/cover.jpg)
 
 En overstay på et visum er en af de mest vidtrækkende rejsefejl, man kan begå. I modsætning til et missed fly – stressende, men i sidste ende til at rette op på – efterlader en overstay et formelt indvandringsregister, der kan følge dig i årevis. I USA er den, der opholder sig ulovligt i mere end 180 dage, men under et år, og derefter forlader landet, som regel udelukket fra at vende tilbage i tre år, jf. afsnit 212(a)(9)(B) i den amerikanske [Immigration and Nationality Act](https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chap12-subchapII-partII-sec1182.htm), og et års ulovligt ophold eller mere betyder som regel et ti-årigt forbud. Disse konsekvenser er ikke bredt kendte.
 

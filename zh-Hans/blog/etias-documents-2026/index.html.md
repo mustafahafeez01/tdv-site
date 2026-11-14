@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/etias-documents-2026/
 
 ---
 
-![皇家海军蓝背景上的护照，配有松散的金色星弧和淡点虚线，唤起欧洲旅游](https://traveldocumentvault.com/blog/etias-documents-2026/cover.jpg)
-
 ## 关键要点
 
 - **ETIAS是数字旅行授权**——面向英国、美国和加拿大旅客，一旦成为强制要求，将用于免签进入申根区
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/etias-documents-2026/
 - 处理时间会有所变动，尤其是在系统刚上线之后；**请提前充分申请**，并查看欧盟官方网站获取最新指引
 - 最新费用请查看[欧盟官方网站](https://home-affairs.ec.europa.eu/news/european-travel-authorisation-etias-will-cost-eur-20-2025-07-17_en)；**18岁以下和70岁以上无需付费**，但仍需获得授权
 - **所填信息的可靠性受到质疑可能导致申请被拒**，所以请如实披露一切，即使是陈年旧事
+
+![皇家海军蓝背景上的护照，配有松散的金色星弧和淡点虚线，唤起欧洲旅游](https://traveldocumentvault.com/blog/etias-documents-2026/cover.jpg)
 
 您已预订了一次全家赴意大利的旅行，随后听说ETIAS即将推出——这是一项针对免签证前往欧洲游客的新数字授权要求。本指南将说明ETIAS是什么、您需要哪些文件，以及申请流程如何运作，让您在填写申请表之前做好准备。
 

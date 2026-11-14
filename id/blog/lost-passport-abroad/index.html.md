@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/id/blog/lost-passport-abroad/
 
 ---
 
-![Sebuah paspor dengan latar belakang biru laut tua, garis rute berwarna emas yang samar, dan pin penanda lokasi emas kecil di dekatnya, menyiratkan bantuan untuk menemukan jalan pulang](https://traveldocumentvault.com/blog/lost-passport-abroad/cover.jpg)
-
 ## Poin Penting
 
 - Buat laporan polisi lebih awal, perusahaan asuransi Anda biasanya akan memintanya, dan sebagian kedutaan juga memintanya.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/id/blog/lost-passport-abroad/
 - Salinan data paspor Anda dapat membantu mempercepat proses, meski tidak bisa digunakan sebagai identitas.
 - Sebagian polis asuransi perjalanan menanggung biaya penggantian paspor. Periksa polis Anda dan simpan laporan polisi, yang sering diminta perusahaan asuransi.
 - Waktu terbaik untuk bersiap adalah sekarang, sebelum sesuatu terjadi. Pindaian lima menit hari ini bisa menghemat berhari-hari stres di luar negeri.
+
+![Sebuah paspor dengan latar belakang biru laut tua, garis rute berwarna emas yang samar, dan pin penanda lokasi emas kecil di dekatnya, menyiratkan bantuan untuk menemukan jalan pulang](https://traveldocumentvault.com/blog/lost-passport-abroad/cover.jpg)
 
 Setiap hari, banyak orang mengurus penggantian paspor yang hilang di luar negeri, dan kedutaan menanganinya sebagai pekerjaan rutin, bukan keadaan darurat. Prosesnya memiliki urutan tertentu, dan mengikuti urutan itulah yang membuat sore hari yang buruk berubah menjadi sekadar penundaan, bukan pembatalan perjalanan. Berikut yang harus dilakukan, langkah demi langkah.
 

@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/id/blog/uk-eta-passport-rules/
 
 ---
 
-![Orang tua dan anak dilihat dari belakang di jendela bandara yang terang, memegang dua paspor dengan yang depan bergaris emas, dan sebuah pesawat di gerbang keberangkatan](https://traveldocumentvault.com/blog/uk-eta-passport-rules/cover.jpg)
-
 ## Poin Penting
 
 - **ETA Inggris terikat dengan nomor paspor Anda.** Saat Anda memperpanjang paspor dan mendapat nomor baru, ETA lama otomatis tidak berlaku.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/id/blog/uk-eta-passport-rules/
 - **Setiap orang memerlukan ETA sendiri,** termasuk anak-anak dan bayi. Tidak ada ETA keluarga. Setiap orang memerlukan ETA sendiri, meskipun Anda bisa mengajukan atas nama anggota keluarga.
 - Home Office menyarankan mengajukan permohonan **setidaknya 3 hari kerja sebelumnya**. Ini hanya saran, bukan jaminan waktu pemrosesan.
 - ETA adalah **izin untuk bepergian, bukan izin masuk**. Petugas perbatasan tetap bisa menolak masuk meskipun ETA Anda masih berlaku.
+
+![Orang tua dan anak dilihat dari belakang di jendela bandara yang terang, memegang dua paspor dengan yang depan bergaris emas, dan sebuah pesawat di gerbang keberangkatan](https://traveldocumentvault.com/blog/uk-eta-passport-rules/cover.jpg)
 
 Sistem ETA Inggris terlihat sederhana di permukaan: Anda mengajukan, membayar, lalu berangkat. Namun ada satu aturan yang tersembunyi di baliknya, dan tidak terlihat jelas sampai benar-benar penting: ETA Anda terikat dengan nomor paspor spesifik yang tercantum pada permohonan Anda. Saat Anda memperpanjang paspor tersebut dan menerima nomor paspor baru, ETA Anda berhenti berlaku. Anda harus mengajukan permohonan lagi dengan paspor baru sebelum perjalanan.
 

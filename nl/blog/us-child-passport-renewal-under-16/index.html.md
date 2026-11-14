@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/nl/blog/us-child-passport-renewal-under-
 
 ---
 
-![Twee ouders en een kind van achteren gezien, hand in hand lopend naar een open deur, een ouder houdt het paspoort van het kind vast](https://traveldocumentvault.com/blog/us-child-passport-renewal-under-16/cover.jpg)
-
 ## Belangrijkste punten
 
 - Een Amerikaans kinderpaspoort dat vóór de 16e is afgegeven, **kan niet worden verlengd** - je vraagt in plaats daarvan een nieuw paspoort aan.
@@ -16,6 +14,8 @@ Source: https://traveldocumentvault.com/nl/blog/us-child-passport-renewal-under-
 - Beide ouders moeten deelnemen, tenzij een van hen **notarieel verklaarde schriftelijke toestemming** geeft of er bewijs van exclusief gezag is.
 - Op 16 of 17 vraagt een tiener persoonlijk aan en kan die de eigen aanvraag tekenen, maar een ouder moet mogelijk nog toestemming geven.
 - Een paspoort afgegeven op 16-jarige leeftijd of ouder is tien jaar geldig en kan meestal worden verlengd zoals dat van een volwassene.
+
+![Twee ouders en een kind van achteren gezien, hand in hand lopend naar een open deur, een ouder houdt het paspoort van het kind vast](https://traveldocumentvault.com/blog/us-child-passport-renewal-under-16/cover.jpg)
 
 Een Amerikaans paspoort dat aan een kind onder de 16 is afgegeven, kun je niet verlengen. Loopt het af, dan vraag je persoonlijk een nieuw paspoort aan, op dezelfde manier als de eerste keer, en nemen beide ouders weer deel. Er komt meer papierwerk bij kijken dan bij een volwassen verlenging, maar niets is nieuw als je het al eens hebt gedaan.
 

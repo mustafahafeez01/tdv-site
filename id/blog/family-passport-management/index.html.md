@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/id/blog/family-passport-management/
 
 ---
 
-![keluarga beranggotakan empat orang berjalan menuju jendela bandara yang diterangi cahaya fajar, salah satu orang tua memegang empat paspor emas yang terbentang seperti kipas](https://traveldocumentvault.com/blog/family-passport-management/cover.jpg)
-
 ## Poin Penting
 
 - **Paspor anak sering kali kedaluwarsa lebih cepat daripada paspor dewasa.** Di Inggris, paspor anak berlaku 5 tahun, sehingga tanggal kedaluwarsa anggota keluarga termuda sering kali menjadi batas waktu untuk perjalanan berikutnya.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/id/blog/family-passport-management/
 - **Simpan salinan digital di satu lokasi terenkripsi,** dengan satu cadangan fisik di tempat aman yang bisa Anda akses dengan cepat jika diperlukan.
 - Buat sistem bersama untuk melacak tanggal kedaluwarsa setiap anggota keluarga. **Satu orang yang menanganinya mencegah perpanjangan terlewat.**
 - Untuk keluarga dengan dwikewarganegaraan, **simpan salinan semua paspor** dan pahami paspor mana yang digunakan untuk tiap destinasi.
+
+![keluarga beranggotakan empat orang berjalan menuju jendela bandara yang diterangi cahaya fajar, salah satu orang tua memegang empat paspor emas yang terbentang seperti kipas](https://traveldocumentvault.com/blog/family-passport-management/cover.jpg)
 
 Saat bepergian bersama anak-anak, melacak lima paspor sekaligus memenuhi persyaratan dua negara adalah jenis masalah yang bisa membuat Anda terjaga tengah malam. Satu orang tua masih punya 8 tahun masa berlaku, yang satu lagi 7 tahun, anak sulung Anda 6 tahun. Tapi paspor si bungsu, yang bahkan tidak bisa diam cukup lama untuk foto yang layak, kedaluwarsa hanya dalam 18 bulan lagi. Ini sistem yang tidak pernah dijelaskan siapa pun sampai Anda berdiri di meja check-in dan petugas gerbang bertanya paspor mana yang harus digunakan anak Anda yang berusia 12 tahun. Membangun sistem yang bisa bertahan dari kekacauan seperti ini dimulai dengan memahami mengapa banyak keluarga sering salah mengelolanya.
 

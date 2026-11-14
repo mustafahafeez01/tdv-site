@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/sv/blog/travel-document-checklist/
 
 ---
 
-![Ett pass och resekort samlade med ett smalt guldband mot en marinblå bakgrund, allt förberett inför resan](https://traveldocumentvault.com/blog/travel-document-checklist/cover.jpg)
-
 ## Viktiga punkter
 
 - Den mest användbara checklistan för resehandlingar är organiserad efter **när du behöver agera**, inte efter dokumenttyp. Att sortera efter stadium betyder att du fångar problem medan det fortfarande finns tid att lösa dem.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/sv/blog/travel-document-checklist/
 - Familjeresor lägger till ett eget lager: varje barn behöver sina handlingar kontrollerade individuellt, och ett samtyckesbrev kan behövas om en förälder inte reser med.
 - Affärsresenärer har ofta flera pass och arbetsvisum, dessa behöver egen uppföljning, separat från personliga handlingar.
 - En digital säkerhetskopia av varje handling (krypterad, inte i din bildkamera) kan hjälpa dig hem snabbare om något går fel utomlands.
+
+![Ett pass och resekort samlade med ett smalt guldband mot en marinblå bakgrund, allt förberett inför resan](https://traveldocumentvault.com/blog/travel-document-checklist/cover.jpg)
 
 De flesta checklistor för resehandlingar är bara en enkel lista: pass, visum, försäkring. De talar om vad du ska ta med dig, men inte när du ska kontrollera det, och det är där folk blir tagna på sängen. Familjen som inser vid incheckningen att ett pass går ut om fem månader, ensamresenären som bokade utan att märka sitt visumkrav, eller affärsresenären som glömde vilket pass visumet sitter i, är inte undantag. De är regel.
 

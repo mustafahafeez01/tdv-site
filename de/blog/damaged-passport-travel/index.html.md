@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/de/blog/damaged-passport-travel/
 
 ---
 
-![Elternteil und Kind an einem Check-in-Schalter, während der Mitarbeiter einen aufgeschlagenen goldenen Pass mit wassergeschädigten Seiten prüft](https://traveldocumentvault.com/blog/damaged-passport-travel/cover.jpg)
-
 ## Wichtigste Erkenntnisse
 
 - **Nicht jede Abnutzung ist ein Schaden.** Ein geknickter Einband ist unproblematisch. Wasserschäden, eingerissene Seiten oder verschmierte Sicherheitsmerkmale sind es nicht.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/de/blog/damaged-passport-travel/
 - Wer den Schaden **Tage oder Wochen vorher** entdeckt, hat Zeit für eine Eilerneuerung. Am Tag davor wird es zur Krise.
 - Werden Sie am Gate abgewiesen, **fragen Sie Ihre Botschaft nach einem Notreisedokument**.
 - Eine digitale Kopie ist **im Ausland am wertvollsten** – ein Konsularbeamter kann Ihre Identität anhand eines Scans weit schneller feststellen als anhand Ihrer Schilderung. Scannen Sie Ihren Pass, bevor Sie reisen.
+
+![Elternteil und Kind an einem Check-in-Schalter, während der Mitarbeiter einen aufgeschlagenen goldenen Pass mit wassergeschädigten Seiten prüft](https://traveldocumentvault.com/blog/damaged-passport-travel/cover.jpg)
 
 Die meisten Passschäden sind rein kosmetisch. Ein zerkratzter Einband, eine weich gewordene Ecke, eine ausgefranste Kante am Buchrücken – nichts davon hindert Sie am Einsteigen. Was Grenzbeamte und Fluggesellschaften tatsächlich prüfen, ist enger gefasst, als die meisten Reisenden erwarten: die Datenseite, die beiden gedruckten Zeilen darunter, und ob das Heft noch als ein zusammenhängendes Dokument zusammenhält.
 

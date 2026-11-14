@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/tripcase-alternative/
 
 ---
 
-![一堆整齐的乳白色旅行文件，护照在顶部，用细金色丝线绑扎，放在深蓝色背景上](https://traveldocumentvault.com/blog/tripcase-alternative/cover.jpg)
-
 ## 关键要点
 
 - **TripCase 于 2025 年 4 月 1 日关闭**，Sabre 的通知给了用户到 2025 年 6 月 30 日下载行程的时间，之后剩余数据将被移除。
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/tripcase-alternative/
 - **没有单个应用可以完全替代 TripCase。**航班提醒、行程解析和文件存储现在分布在不同的工具中。
 - 真正的教训是：免费云服务意味着**您的数据始终处于被收回的风险**。它可能在几个月的通知后就会消失。
 - 旅行文件应该**离线存储，放在您的设备上**——一个任何公司决定都无法触及的地方。
+
+![一堆整齐的乳白色旅行文件，护照在顶部，用细金色丝线绑扎，放在深蓝色背景上](https://traveldocumentvault.com/blog/tripcase-alternative/cover.jpg)
 
 TripCase 作为旅行应用的幕后功臣风光了多年。转发一封确认电子邮件，您的行程就会自动生成；该应用会在某些航空公司之前向您发出登机口变更通知；它的文件保险柜将护照、签证和登机牌保存在一个地方。然后，在 2025 年 4 月 1 日，Sabre 关闭了它，据当时报道，Sabre 的通知给了用户到 2025 年 6 月 30 日下载行程的时间，之后剩余数据将被移除。
 

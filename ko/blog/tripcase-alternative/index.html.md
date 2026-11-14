@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/ko/blog/tripcase-alternative/
 
 ---
 
-![크림색 여행 서류가 깔끔하게 쌓여 있고 맨 위에 여권이 있으며 금색 실로 묶여 있고, 로얄 네이비 배경 위에 있는 모습](https://traveldocumentvault.com/blog/tripcase-alternative/cover.jpg)
-
 ## 핵심 정리
 
 - **TripCase는 2025년 4월 1일에 폐지되었습니다.** Sabre의 공지에 따르면 사용자는 2025년 6월 30일까지 여행 정보를 내려받을 수 있었고, 그 후 남은 데이터는 삭제되었습니다.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/ko/blog/tripcase-alternative/
 - **TripCase를 완전히 대체하는 단일 앱은 없습니다.** 비행 알림, 일정 파싱, 서류 저장 기능이 이제 여러 도구로 나뉘었습니다.
 - 진짜 교훈: 무료 클라우드 서비스는 **빌린 시간에 데이터를 보관합니다.** 몇 달 정도의 공지로 사라질 수 있습니다.
 - 여행 서류는 **오프라인으로 기기에 보관해야 합니다.** 회사 결정, 서비스 중단, 또는 폐지가 닿을 수 없는 곳이어야 합니다.
+
+![크림색 여행 서류가 깔끔하게 쌓여 있고 맨 위에 여권이 있으며 금색 실로 묶여 있고, 로얄 네이비 배경 위에 있는 모습](https://traveldocumentvault.com/blog/tripcase-alternative/cover.jpg)
 
 TripCase는 수년 동안 여행 앱의 조용한 일꾼으로 활동했습니다. 확인 이메일을 전달하면 여행이 자동으로 등록되었습니다. 앱은 일부 항공사보다 먼저 게이트 변경을 알려주었습니다. 그 Document Vault는 여권, 비자, 탑승권을 한곳에 저장했습니다. 그러던 2025년 4월 1일 Sabre가 서비스를 폐지했고, 당시 보도된 Sabre의 공지에 따르면 사용자는 2025년 6월 30일까지 여행 정보를 내려받을 수 있었으며 그 후 남은 데이터는 삭제되었습니다.
 

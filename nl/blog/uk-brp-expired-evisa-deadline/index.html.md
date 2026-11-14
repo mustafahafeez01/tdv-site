@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/nl/blog/uk-brp-expired-evisa-deadline/
 
 ---
 
-![Een ouder en twee kinderen bij een door de zon verlicht raam, haar hand rust op een klein stapeltje paspoorten op de vensterbank](https://traveldocumentvault.com/blog/uk-brp-expired-evisa-deadline/cover.jpg)
-
 ## Belangrijkste punten
 
 - De meeste mensen met een verlopen BRP hoeven maar één ding te doen: **een UKVI-account aanmaken**, en de kaart kan daarbij nog een tijdje helpen.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/nl/blog/uk-brp-expired-evisa-deadline/
 - Geen bruikbare kaart? Een geldig paspoort plus je visumaanvraagnummer of BRP-nummer werkt ook.
 - Elk kind heeft **zijn eigen account** nodig, dat een ouder kan beheren met zijn eigen telefoon en e-mail.
 - Om te reizen moet het paspoort waarmee je vliegt op je UKVI-account staan, met gegevens die overeenkomen met je boeking.
+
+![Een ouder en twee kinderen bij een door de zon verlicht raam, haar hand rust op een klein stapeltje paspoorten op de vensterbank](https://traveldocumentvault.com/blog/uk-brp-expired-evisa-deadline/cover.jpg)
 
 Heb je een verlopen Biometric Residence Permit (BRP) en nog toestemming om te blijven, dan vraagt GOV.UK je een UK Visas and Immigration (UKVI)-account aan te maken, waarbij je de kaart gebruikt om te bewijzen wie je bent. Het is in één keer gedaan, en de verlopen kaart werkt daar nog steeds voor, in ieder geval voor een tijdje. Je immigratiestatus is niet veranderd. Wat wel is veranderd, is waar die staat.
 

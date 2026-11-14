@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/ko/blog/how-long-is-esta-valid/
 
 ---
 
-![집 안 햇살이 비치는 창가에서 뒤돌아 선 부모와 두 아이, 부모는 미국 여권과 여행 서류를 들고 있고 아이 한 명이 앞쪽을 가리키고 있으며, 여권 가장자리는 금빛으로 강조되어 있다](https://traveldocumentvault.com/blog/how-long-is-esta-valid/cover.jpg)
-
 ## 주요 내용 요약
 
 - **ESTA는 일반적으로 승인일로부터 2년간, 또는 여권 만료일까지 중 더 이른 시점까지 유효합니다.**
@@ -16,6 +14,8 @@ Source: https://traveldocumentvault.com/ko/blog/how-long-is-esta-valid/
 - 새 여권, 새 이름, 새 국적, 또는 자격 질문의 답변 변경이 있으면 다시 신청해야 합니다.
 - **모든 여행자에게 각자의 ESTA가 필요합니다.** 나이와 관계없이 아이도, 본인 항공권이 없는 영아도 포함됩니다.
 - 수수료는 2026년 10월 16일에 US $40.27에서 US $40.62로 올랐습니다. 이미 승인된 ESTA는 다시 신청할 필요가 없습니다.
+
+![집 안 햇살이 비치는 창가에서 뒤돌아 선 부모와 두 아이, 부모는 미국 여권과 여행 서류를 들고 있고 아이 한 명이 앞쪽을 가리키고 있으며, 여권 가장자리는 금빛으로 강조되어 있다](https://traveldocumentvault.com/blog/how-long-is-esta-valid/cover.jpg)
 
 ESTA는 일반적으로 승인된 날로부터 2년간, 또는 연결된 여권의 만료일까지 중 더 이른 시점까지 유효합니다. 이미 ESTA를 가지고 있다면 2026년 10월 16일의 수수료 인상은 영향을 주지 않으며, 다음에 신청할 때만 새 수수료를 내면 됩니다. 오늘 가장 먼저 해볼 만한 일은 가족 모두의 ESTA 만료일을 확인하는 것입니다. 사람마다 시계가 따로 돌아가기 때문입니다.
 

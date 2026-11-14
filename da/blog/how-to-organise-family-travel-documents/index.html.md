@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/da/blog/how-to-organise-family-travel-do
 
 ---
 
-![En pæn, jævnt fordelt række af forskellige rejsedokumenter - et pas, et ID-kort, en visumside og et boardingkort - på en mørk marineblå baggrund](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/cover.jpg)
-
 ## Vigtigste punkter
 
 - Familiens tjekliste for rejsedokumenter kræver pas, visa, rejseforsikring og vaccinationsbeviser – og det er før I regner børnespecifikke dokumenter med.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/da/blog/how-to-organise-family-travel-do
 - Digitale backups kan ikke tage jer gennem grænsekontrol, men de sparer timer på en ambassade, hvis noget forsvinder. Gem dem krypteret, ikke i kamerarullen.
 - At holde styr på udløbsdatoer, før I booker – ikke ugen før afrejse – er den vane, der forhindrer de fleste dokumentkatastrofer på rejsen.
 - En tjekliste før afrejse, som I kører igennem ved booking, giver jer tid nok til at løse problemer, før de bliver dyre.
+
+![En pæn, jævnt fordelt række af forskellige rejsedokumenter - et pas, et ID-kort, en visumside og et boardingkort - på en mørk marineblå baggrund](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/cover.jpg)
 
 Klokken er 23 aftenen før en flyafgang, passene ligger fremme, forsikringsudskriften er et sted, men vaccinationsattesten – den destinationen faktisk kræver – er forsvundet et sted i huset. Det er problemet, når I ikke har et system for familiens rejsedokumenter: I leder på en ny måde hver gang, og til sidst dukker noget vigtigt ikke op.
 

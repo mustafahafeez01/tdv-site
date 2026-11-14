@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/visa-expiry-tracker-app/
 
 ---
 
-![王家蓝色背景上的签证文件，带有柔和的金色弧线，追踪其有效期窗口](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/cover.jpg)
-
 ## 关键要点
 
 - 签证过期追踪**比护照追踪更复杂**——签证有入境有效期、最长逗留时间，有时还有入境次数限制，每一项都需要单独监控。
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/visa-expiry-tracker-app/
 - 最好的签证过期追踪应用离线工作，支持多种签证类型，并允许为每份文件设置自定义提醒时间。
 - 申根区访客必须跟踪 90/180 天滚动窗口，而不仅仅是单个过期日期，因为计数是随你的实际出行记录滚动的，而不是按日历。
 - 在同一个地方同时追踪签证和护照可减少不匹配的风险：用有效签证进入但护照在计划停留结束前过期。
+
+![王家蓝色背景上的签证文件，带有柔和的金色弧线，追踪其有效期窗口](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/cover.jpg)
 
 签证逾期居留是一个人可能犯的最严重的旅游错误之一。不像错过航班——令人紧张但最终可以解决——逾期居留会创建一条正式的移民记录，可能会在数年内跟随你。在美国，根据[《移民国籍法》](https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chap12-subchapII-partII-sec1182.htm)第 212(a)(9)(B) 条，非法停留超过 180 天但不满一年并离境的人，通常会被禁止返回 3 年；非法停留一年或以上，通常意味着 10 年禁令。这些后果并不广为人知。
 

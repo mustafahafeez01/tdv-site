@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/fr/blog/proof-of-onward-travel/
 
 ---
 
-![Un parent et un enfant à la fenêtre d'un aéroport tenant un passeport avec un billet de voyage glissé à l'intérieur, regardant un avion avant un départ](https://traveldocumentvault.com/blog/proof-of-onward-travel/cover.jpg)
-
 ## Points clés à retenir
 
 - **La preuve de continuation de voyage, c'est généralement un billet réservé de sortie du pays où vous atterrissez,** soit vers votre domicile, soit vers un pays où vous êtes autorisé à entrer.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/fr/blog/proof-of-onward-travel/
 - Certaines destinations inscrivent la continuation de voyage dans leurs règles d'entrée pour les visiteurs, donc une compagnie qui la demande applique souvent la règle de la destination un peu plus tôt.
 - Une réservation d'hôtel ou un relevé bancaire répondent à d'autres questions, où vous logerez et comment vous subviendrez à vos besoins, et ne remplacent généralement pas un billet de sortie.
 - Gardez la confirmation là où vous pourrez l'ouvrir au comptoir, sans réseau ni connexion à un compte.
+
+![Un parent et un enfant à la fenêtre d'un aéroport tenant un passeport avec un billet de voyage glissé à l'intérieur, regardant un avion avant un départ](https://traveldocumentvault.com/blog/proof-of-onward-travel/cover.jpg)
 
 Dans la plupart des cas, la preuve de continuation de voyage est un billet réservé de sortie du pays où vous atterrissez. Un vol retour vers votre domicile compte, tout comme un billet vers un pays tiers où vous êtes autorisé à entrer. Si vous en avez déjà un, vous disposez de ce qui est généralement demandé.
 

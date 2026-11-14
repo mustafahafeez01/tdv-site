@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/it/blog/encrypted-cloud-backup-travel-do
 
 ---
 
-![Un genitore e un bambino seduti insieme su un divano al crepuscolo, che guardano un telefono e una piccola chiave dorata appoggiata sul tavolo accanto a un passaporto, mentre sopra di loro una nuvola contiene solo segni indecifrabili dietro un lucchetto](https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/cover.jpg)
-
 ## Punti Chiave
 
 - **"Backup crittografato" ha senso solo quando sai chi ha la chiave.** Se l'azienda può leggere i tuoi documenti, la cifratura li protegge dagli estranei, non dall'azienda.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/it/blog/encrypted-cloud-backup-travel-do
 - **Nessun account significa nessun reset della password.** Perdi il codice di recupero e l’accesso a tutti i dispositivi che possono ancora aprire il vault e non possiamo recuperare il backup crittografato. È un compromesso voluto.
 - Scrivi il codice prima di dipendere dal backup, tienilo lontano dal telefono, e rileggilo una volta per verificare che sia leggibile.
 - Un backup di sistema del dispositivo reinstalla l'app ma non può riportare indietro i tuoi documenti, perché i backup di sistema non trasferiscono la chiave di cifratura legata al dispositivo.
+
+![Un genitore e un bambino seduti insieme su un divano al crepuscolo, che guardano un telefono e una piccola chiave dorata appoggiata sul tavolo accanto a un passaporto, mentre sopra di loro una nuvola contiene solo segni indecifrabili dietro un lucchetto](https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/cover.jpg)
 
 Hai scansionato quattro passaporti, due visti e i certificati di nascita dei bambini in un'app che conserva tutto sul tuo telefono. Bene. Poi arriva la preoccupazione ovvia: cosa succede se il telefono finisce in mare, o viene sfilato da un tavolino di un caffè a Lisbona.
 

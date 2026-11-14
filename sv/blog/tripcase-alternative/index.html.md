@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/sv/blog/tripcase-alternative/
 
 ---
 
-![En prydlig hög krämfärgade resehandlingar med ett pass överst, sammanhållna av en enda tunn guldtråd, mot en kungsblå bakgrund](https://traveldocumentvault.com/blog/tripcase-alternative/cover.jpg)
-
 ## Viktiga punkter
 
 - **TripCase stängde ner den 1 april 2025** och Sabres meddelande gav användarna fram till den 30 juni 2025 att ladda ner sina resor innan kvarvarande data togs bort.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/sv/blog/tripcase-alternative/
 - **Ingen enskild app ersätter TripCase.** Flygaviseringar, resplansparsning och dokumentförvaring lever nu i olika verktyg.
 - Den egentliga läxan: en gratis molntjänst håller **din data på lånad tid**. Den kan försvinna med några månaders varsel.
 - Resehandlingar hör hemma **offline, på din egen enhet** – någonstans inget företagsbeslut, driftstopp eller nedstängning kan nå dem.
+
+![En prydlig hög krämfärgade resehandlingar med ett pass överst, sammanhållna av en enda tunn guldtråd, mot en kungsblå bakgrund](https://traveldocumentvault.com/blog/tripcase-alternative/cover.jpg)
 
 TripCase var i flera år resevärldens tysta arbetshäst. Vidarebefordra ett bokningsmejl så byggde appen din resa åt dig; appen pingade dig om gateändringar innan vissa flygbolag ens hann meddela det; och funktionen Document Vault höll pass, visum och boardingkort samlade på ett ställe. Sedan, den 1 april 2025, stängde Sabre ner tjänsten, och enligt Sabres meddelande, som det rapporterades vid tiden, hade användarna fram till den 30 juni 2025 på sig att ladda ner sina resor innan kvarvarande data togs bort.
 

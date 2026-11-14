@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/nl/blog/transit-visa-connecting-flights/
 
 ---
 
-![Een gezin in een luchthaventerminal dat reisdocumenten controleert voor het instappen op een aansluitende vlucht](https://traveldocumentvault.com/blog/transit-visa-connecting-flights/cover.jpg)
-
 ## Belangrijkste punten
 
 - **Niet elke aansluitende vlucht vereist een transitvisum.** Het hangt vooral af van of je airside blijft (in de internationale transitzone) of de luchthaven verlaat.
@@ -16,6 +14,8 @@ Source: https://traveldocumentvault.com/nl/blog/transit-visa-connecting-flights/
 - **Tussenlandingen die volledig airside verlopen zijn vaak visumvrij**, terwijl tussenlandingen waarbij je de luchthaven verlaat of door de grenscontrole gaat vaak een visum vereisen, afhankelijk van je nationaliteit.
 - Kom je er pas na het boeken achter dat je een transitvisum nodig hebt, neem dan direct contact op met je luchtvaartmaatschappij - verwerkingstijden lopen sterk uiteen en je moet je vlucht mogelijk omboeken.
 - **Bewaar en volg elk document** - je transitvisum heeft een eigen vervaldatum, los van je paspoort en je hoofdinreisvisum.
+
+![Een gezin in een luchthaventerminal dat reisdocumenten controleert voor het instappen op een aansluitende vlucht](https://traveldocumentvault.com/blog/transit-visa-connecting-flights/cover.jpg)
 
 Of een aansluitende vlucht een transitvisum vereist, hangt af van drie dingen: welk paspoort je hebt, in welk land je vliegtuig landt, en of je de luchthaven verlaat of in de internationale transitzone blijft. Voor de meeste tussenlandingen is helemaal geen transitvisum nodig. Maar waar de eis wel geldt, is die streng - en luchtvaartmaatschappijen controleren dit doorgaans voordat je instapt.
 

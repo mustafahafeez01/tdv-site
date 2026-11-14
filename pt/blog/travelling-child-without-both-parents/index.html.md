@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/pt/blog/travelling-child-without-both-pa
 
 ---
 
-![Desenho à mão de um pai e um filho vistos de costas num terminal de aeroporto, o pai a segurar um pequeno leque de dois passaportes e um documento dobrado à altura do peito](https://traveldocumentvault.com/blog/travelling-child-without-both-parents/cover.jpg)
-
 ## Pontos-Chave
 
 - **O pessoal do check-in e os agentes de fronteira não verificam a mesma coisa.** Satisfazer um não vincula o outro, nem à chegada nem à partida.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/pt/blog/travelling-child-without-both-pa
 - Guarda exclusiva: leve a **decisão de guarda ou a decisão judicial** e qualquer consentimento necessário de outras pessoas com responsabilidade parental.
 - O outro progenitor faleceu: se só a si cabe tomar as decisões relativas à criança, as orientações canadianas recomendam uma **cópia da certidão de óbito**.
 - Apelido diferente: a **certidão de nascimento completa** da criança comprova a relação entre ambos, com uma certidão de casamento ou divórcio se o seu próprio apelido tiver mudado.
+
+![Desenho à mão de um pai e um filho vistos de costas num terminal de aeroporto, o pai a segurar um pequeno leque de dois passaportes e um documento dobrado à altura do peito](https://traveldocumentvault.com/blog/travelling-child-without-both-parents/cover.jpg)
 
 O pessoal de check-in das companhias aéreas e os agentes de fronteira reparam duas vezes numa criança que viaja sem os dois pais, e esse segundo olhar faz parte de um controlo de rotina de proteção infantil, não de uma suspeita sobre ninguém em particular. Que documentos são esses depende do motivo da ausência do outro progenitor: ainda em casa, já sem a guarda, ou já falecido. Cada uma dessas situações pode exigir documentos de apoio, e uma carta de consentimento pode continuar a ser recomendada a par de uma decisão de guarda.
 

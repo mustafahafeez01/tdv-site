@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/sv/blog/family-passport-management/
 
 ---
 
-![familj på fyra personer som går mot ett gryningsbelyste flygfönster, förälder håller ett utbud med fyra guldpass](https://traveldocumentvault.com/blog/family-passport-management/cover.jpg)
-
 ## Viktiga punkter
 
 - **Barnpass upphör ofta att gälla tidigare än vuxenpass.** I Storbritannien gäller ett barnpass i 5 år, så utgångsdatum för den yngsta familjemedlemmen avgör ofta deadline för nästa resa.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/sv/blog/family-passport-management/
 - **Förvara digitala kopior på en krypterad plats,** med en fysisk säkerhetskopiering på en säker plats som du snabbt kan nå vid behov.
 - Skapa ett delat system för spårning av utgångsdatum för alla familjemedlemmar. **En person som hanterar detta förhindrar missade förnyelser.**
 - För familjer med dubbel medborgarskap, **behåll kopior av alla pass** och förstå vilken som ska användas för varje destination.
+
+![familj på fyra personer som går mot ett gryningsbelyste flygfönster, förälder håller ett utbud med fyra guldpass](https://traveldocumentvault.com/blog/family-passport-management/cover.jpg)
 
 När du reser med barn blir det att hålla ordning på fem pass över två länders krav den typ av problem som väcker dig mitt i natten. En förälder har 8 år kvar på sitt, den andra har 7, och din äldsta barn har 6 år återstående. Men din yngstas – den som inte kan sitta still tillräckligt länge för ett anständigt foto – upphör att gälla om bara 18 månader. Det är ett system som ingen förklarar förrän du står vid grässtransaktionen och grinddödsmannen frågar dig vilket pass din 12-åring ska resa på. Att sätta upp ett system som klarar av detta kaos börjar med att förstå varför familjer ofta får det fel.
 

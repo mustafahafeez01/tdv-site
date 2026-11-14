@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/fr/blog/is-it-safe-to-store-passport-in-
 
 ---
 
-![Un passeport sur un fond bleu marine profond protégé par un bouclier doré doux, suggérant un stockage de documents privé et sécurisé](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/cover.jpg)
-
 ## Points clés
 
 - Stocker un scan de passeport dans Google Photos signifie que votre document d'identité vit sur les serveurs de Google, traité par leurs systèmes et gardé uniquement par la sécurité de votre compte.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/fr/blog/is-it-safe-to-store-passport-in-
 - La politique de confidentialité de Google indique que ses systèmes automatisés analysent votre contenu pour fournir et améliorer ses services. Un scan de passeport est stocké comme toute autre photo.
 - De meilleures options existent : gestionnaires de mots de passe chiffrés, applications chiffrées sur l'appareil ou stockage cloud chiffré côté client — aucun d'entre eux ne met votre passeport dans une bibliothèque de photos générale.
 - Pour la plupart des gens, le vrai risque n'est pas Google — c'est une sécurité de compte faible et qui d'autre peut accéder à ce compte.
+
+![Un passeport sur un fond bleu marine profond protégé par un bouclier doré doux, suggérant un stockage de documents privé et sécurisé](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/cover.jpg)
 
 Beaucoup de gens stockent des scans de passeport dans Google Photos sans y réfléchir à deux fois. Vous avez besoin d'une copie, vous prenez une photo, elle sauvegarde automatiquement. C'est fait. La question de savoir si c'est réellement une décision intelligente pour votre document d'identité le plus sensible surgit rarement — jusqu'à ce que quelque chose se passe mal.
 

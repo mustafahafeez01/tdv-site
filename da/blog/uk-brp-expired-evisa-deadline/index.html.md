@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/da/blog/uk-brp-expired-evisa-deadline/
 
 ---
 
-![En forælder og to børn ved et solbeskinnet vindue, hendes hånd hviler på en lille stak pas på vindueskarmen](https://traveldocumentvault.com/blog/uk-brp-expired-evisa-deadline/cover.jpg)
-
 ## Vigtigste punkter
 
 - De fleste med et udløbet BRP skal bare **oprette en UKVI-konto**, og kortet kan stadig hjælpe dig med det et stykke tid.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/da/blog/uk-brp-expired-evisa-deadline/
 - Intet brugbart kort? Et gyldigt pas plus dit visumansøgningsnummer eller BRP-nummer giver dig også adgang.
 - Hvert barn skal have **sin egen konto**, som en forælder kan administrere med sit eget telefonnummer og sin egen mail.
 - For at rejse skal det pas, du flyver på, være på din UKVI-konto, med oplysninger der matcher din booking.
+
+![En forælder og to børn ved et solbeskinnet vindue, hendes hånd hviler på en lille stak pas på vindueskarmen](https://traveldocumentvault.com/blog/uk-brp-expired-evisa-deadline/cover.jpg)
 
 Hvis du har et udløbet Biometric Residence Permit (BRP, biometrisk opholdstilladelse) og stadig har tilladelse til at blive, beder GOV.UK dig oprette en konto hos UK Visas and Immigration (UKVI, det britiske udlændinge- og indvandringskontor) og bruge kortet til at bekræfte din identitet. Det er klaret i én omgang, og det udløbne kort fungerer stadig til det, i hvert fald et stykke tid. Din opholdsstatus er ikke ændret. Det, der er ændret, er hvor den findes.
 

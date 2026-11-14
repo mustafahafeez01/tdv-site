@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/sv/blog/child-first-passport-application
 
 ---
 
-![En förälder sedd bakifrån vid ett ljust fönster, med en baby på axeln och ett guldfärgat passhäfte i handen](https://traveldocumentvault.com/blog/child-first-passport-application/cover.jpg)
-
 ## Viktiga punkter
 
 - **Samtycke att ansöka skiljer sig från samtycke att resa.** Reglerna skiljer sig mellan länder: i Storbritannien skriver till exempel någon med föräldraansvar under och båda föräldrarnas uppgifter anges, medan andra länder kräver båda föräldrarnas samtycke. Kontrollera med din passmyndighet.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/sv/blog/child-first-passport-application
 - **Babyfoton för pass har specifika regler.** De flesta myndigheter vill att ögonen ska vara öppna och rikta sig mot kameran (GOV.UK lättar på detta för barn under 1 år och under 6 år), utan napp, leksaker eller andra händer synliga – och bakgrunden bakom barnets huvud måste vara enfärgad och tydlig.
 - **Kontrollera allt så snart det kommer.** Stavning, föräldrarnas namn där de förekommer, utgångsdatum – särskilt eftersom barnpass ofta går ut tidigare än vuxenpass ([ett brittiskt barnpass gäller i 5 år](https://www.gov.uk/get-a-child-passport)).
 - **I länder som kräver båda föräldrarnas samtycke kan en förälder i regel inte skriva under ensam om det inte finns ett domstolsbeslut, ensam vårdnad eller om den andra föräldern har avlidit.** Gäller detta dig har din passmyndighet en specifik process att följa.
+
+![En förälder sedd bakifrån vid ett ljust fönster, med en baby på axeln och ett guldfärgat passhäfte i handen](https://traveldocumentvault.com/blog/child-first-passport-application/cover.jpg)
 
 Ditt barns första pass är något du bara gör en gång – vilket betyder att du kan lära dig reglerna innan det händer, i stället för att upptäcka dem vid disken. Själva ansökan är okomplicerad, men samtyckesregler och fotokrav varierar mellan länder, och ett litet misstag i början innebär en avvisad ansökan och en försenad resa.
 

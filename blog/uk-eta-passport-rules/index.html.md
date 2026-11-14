@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/blog/uk-eta-passport-rules/
 
 ---
 
-![A parent and child seen from behind at a bright airport window, the parent holding up two passport booklets with the front one edge-lit in gold, an aircraft at the gate beyond](https://traveldocumentvault.com/blog/uk-eta-passport-rules/cover.jpg)
-
 ## Key Takeaways
 
 - **A UK ETA is tied to your passport number.** When you renew your passport and get a new number, your old ETA becomes invalid.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/blog/uk-eta-passport-rules/
 - **Every person needs their own ETA** - including children and babies. There is no family ETA. Each person needs their own, though you can apply on behalf of family members.
 - The Home Office recommends applying **at least 3 working days ahead.** This is a recommendation, not a processing guarantee.
 - An ETA is **permission to travel, not entry.** Border officers can refuse entry even with a valid ETA.
+
+![A parent and child seen from behind at a bright airport window, the parent holding up two passport booklets with the front one edge-lit in gold, an aircraft at the gate beyond](https://traveldocumentvault.com/blog/uk-eta-passport-rules/cover.jpg)
 
 The UK ETA system is straightforward on the surface: you apply, you pay, you travel. There's one rule underneath that, though, and it isn't obvious until it matters: your ETA is tied to the specific passport number on your application. When you renew that passport and receive a new passport number, your ETA stops being valid. You will need to apply again on your new passport before your trip.
 

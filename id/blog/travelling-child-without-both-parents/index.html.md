@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/id/blog/travelling-child-without-both-pa
 
 ---
 
-![Sketsa gambar tangan seorang orang tua dan anak dilihat dari belakang di area terminal bandara, orang tua memegang dua paspor terbuka seperti kipas kecil dan selembar dokumen terlipat setinggi dada](https://traveldocumentvault.com/blog/travelling-child-without-both-parents/cover.jpg)
-
 ## Poin Penting
 
 - **Petugas check-in dan petugas imigrasi memeriksa hal yang berbeda.** Memenuhi syarat salah satu tidak mengikat yang lain, baik saat kedatangan maupun keberangkatan.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/id/blog/travelling-child-without-both-pa
 - Hak asuh tunggal: bawa **surat penetapan hak asuh atau putusan pengadilan** serta persetujuan yang diperlukan dari pihak lain yang memiliki tanggung jawab orang tua.
 - Orang tua lainnya telah meninggal: jika Anda memiliki tanggung jawab tunggal dalam pengambilan keputusan, panduan Kanada menyarankan membawa **salinan akta kematian**.
 - Beda nama keluarga: **akta kelahiran lengkap anak** menunjukkan hubungan Anda dengan anak, ditambah akta nikah atau cerai jika nama Anda sendiri pernah berubah.
+
+![Sketsa gambar tangan seorang orang tua dan anak dilihat dari belakang di area terminal bandara, orang tua memegang dua paspor terbuka seperti kipas kecil dan selembar dokumen terlipat setinggi dada](https://traveldocumentvault.com/blog/travelling-child-without-both-parents/cover.jpg)
 
 Petugas check-in maskapai dan petugas imigrasi biasanya melihat lebih cermat saat seorang anak bepergian tanpa kedua orang tuanya, dan perhatian ekstra ini adalah bagian dari pemeriksaan perlindungan anak yang rutin, bukan kecurigaan terhadap siapa pun secara khusus. Dokumen mana yang dibutuhkan tergantung pada alasan orang tua lainnya tidak hadir: masih di rumah, sudah tidak lagi berbagi hak asuh, atau sudah meninggal dunia. Masing-masing situasi bisa memerlukan dokumen pendukung, dan surat izin mungkin tetap disarankan untuk dibawa bersama putusan hak asuh.
 

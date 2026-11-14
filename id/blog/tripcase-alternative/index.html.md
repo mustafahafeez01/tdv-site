@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/id/blog/tripcase-alternative/
 
 ---
 
-![Tumpukan rapi dokumen perjalanan berwarna krem dengan paspor di bagian atas, diikat oleh seutas benang emas tipis, dengan latar belakang biru laut](https://traveldocumentvault.com/blog/tripcase-alternative/cover.jpg)
-
 ## Poin Penting
 
 - **TripCase berhenti beroperasi pada 1 April 2025** dan pemberitahuan Sabre memberi pengguna waktu hingga 30 Juni 2025 untuk mengunduh perjalanan mereka sebelum sisa data dihapus.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/id/blog/tripcase-alternative/
 - **Tidak ada satu aplikasi pun yang menggantikan TripCase sepenuhnya.** Notifikasi penerbangan, parsing itinerary, dan penyimpanan dokumen kini tersebar di berbagai alat berbeda.
 - Pelajaran sesungguhnya: layanan cloud gratis membuat **data Anda berada dalam waktu pinjaman**. Layanan itu bisa lenyap dengan pemberitahuan beberapa bulan.
 - Dokumen perjalanan sebaiknya **luring, di perangkat Anda sendiri** — di tempat yang tidak bisa dijangkau oleh keputusan perusahaan, gangguan, atau penutupan layanan.
+
+![Tumpukan rapi dokumen perjalanan berwarna krem dengan paspor di bagian atas, diikat oleh seutas benang emas tipis, dengan latar belakang biru laut](https://traveldocumentvault.com/blog/tripcase-alternative/cover.jpg)
 
 TripCase menghabiskan bertahun-tahun sebagai kuda pekerja diam-diam dunia aplikasi perjalanan. Teruskan satu email konfirmasi, dan itinerary Anda langsung tersusun sendiri; aplikasi ini mengabari Anda tentang perubahan gerbang bahkan sebelum sebagian maskapai melakukannya; dan Document Vault-nya menyimpan paspor, visa, serta boarding pass di satu tempat. Kemudian, pada 1 April 2025, Sabre menghentikan layanan tersebut, dan menurut pemberitahuan Sabre yang dilaporkan saat itu, pengguna diberi waktu hingga 30 Juni 2025 untuk mengunduh perjalanan mereka sebelum sisa data dihapus.
 

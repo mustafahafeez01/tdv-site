@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/ko/blog/visa-expiry-tracker-app/
 
 ---
 
-![짙은 파란 배경에 금색 호로 표시된 유효 기간이 있는 비자 서류](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/cover.jpg)
-
 ## 주요 포인트
 
 - 비자 만료 추적은 여권 추적보다 **훨씬 복잡합니다**. 비자에는 입국 유효 기간, 최대 체류 기간, 때로는 입국 횟수 제한이 있으며 모두 따로 모니터링해야 합니다.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/ko/blog/visa-expiry-tracker-app/
 - 최고의 비자 만료 추적 앱은 오프라인으로 작동하고, 여러 비자 유형을 지원하며, 문서별로 맞춤형 알림 시간을 허용합니다.
 - 셍겐 지역 방문자는 단일 만료일이 아닌 rolling 90/180일 기간을 추적해야 합니다. 이 일수는 달력이 아니라 실제 여행 이력에 따라 계산되기 때문입니다.
 - 비자와 여권을 한 곳에서 함께 추적하면 불일치 위험을 줄입니다. 유효한 비자로 입국했지만 계획된 체류 기간이 끝나기 전에 여권이 만료되는 경우를 방지합니다.
+
+![짙은 파란 배경에 금색 호로 표시된 유효 기간이 있는 비자 서류](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/cover.jpg)
 
 비자 초과 체류는 여행 중 할 수 있는 가장 심각한 실수 중 하나입니다. 비행기 탈취처럼 스트레스가 많지만 결국 해결할 수 있는 것과 달리 초과 체류는 수년간 따라다닐 수 있는 공식적인 이민 기록을 남깁니다. 미국에서는 [이민국적법(INA)](https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chap12-subchapII-partII-sec1182.htm) 212(a)(9)(B)항에 따라, 180일을 넘고 1년 미만으로 불법 체류한 뒤 출국한 사람은 일반적으로 3년간 재입국이 금지되며, 불법 체류가 1년 이상이면 일반적으로 10년간 금지됩니다. 이러한 결과는 널리 알려지지 않았습니다.
 

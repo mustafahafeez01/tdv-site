@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/id/blog/child-travel-consent-letter/
 
 ---
 
-![Surat izin berwarna krem dan paspor anak kecil diikat bersama dengan pita emas di atas latar belakang biru laut](https://traveldocumentvault.com/blog/child-travel-consent-letter/cover.jpg)
-
 ## Poin Penting
 
 - Persyaratan sangat berbeda tiap negara. **Surat yang berlaku untuk satu tujuan mungkin tidak diterima di tempat lain.**
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/id/blog/child-travel-consent-letter/
 - Surat biasanya mencantumkan nama lengkap anak, tanggal lahir, nomor paspor, tanggal perjalanan pasti, tujuan, dan detail kontak orang tua yang tidak ikut serta.
 - Penolakan yang umum terjadi karena informasi yang hilang, tidak adanya notarisasi, atau tanda tangan usang.
 - Bawa salinan cetak sebagai dokumen utama, dan simpan cadangan digital terenkripsi untuk keadaan darurat.
+
+![Surat izin berwarna krem dan paspor anak kecil diikat bersama dengan pita emas di atas latar belakang biru laut](https://traveldocumentvault.com/blog/child-travel-consent-letter/cover.jpg)
 
 Surat persetujuan hanya punya satu tugas di konter maskapai: menunjukkan bahwa orang dewasa yang menemani anak telah mendapat persetujuan orang tua yang tidak ikut. Sebagian besar diterima tanpa pertanyaan. Surat yang menyebabkan keterlambatan jarang gagal karena isinya.
 

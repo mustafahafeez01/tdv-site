@@ -24,7 +24,7 @@ We operate with a strict privacy-first policy:
 
 - **No accounts:** You do not create an account to use the Application.
 - **No tracking:** We do not track your location, usage patterns, or document contents.
-- **No analytics by default:** We do not collect behavioral analytics or usage data.
+- **No analytics by default:** We do not collect behavioural analytics or usage data.
 
 ## Information We Do NOT Collect
 
@@ -35,7 +35,7 @@ To be clear about our privacy-first approach, the Application does **not** colle
 - Passport numbers, visa numbers, or other document identifiers
 - Travel plans or itineraries
 - Location data
-- Usage analytics or behavioral data
+- Usage analytics or behavioural data
 - Advertising identifiers
 
 The only technical data flows are described under Third-Party Services below: optional, opt-in crash reports (Sentry), consent-gated analytics on our public website, and on-device purchase verification handled directly by Apple or Google. None of these include your documents or anything in your vault.
@@ -98,7 +98,7 @@ Data export or sharing is strictly user-initiated. Information leaves the Applic
 
 ## Third-Party Services
 
-The Application (App) minimizes reliance on external services to preserve privacy. We do not use advertising networks or third-party analytics within the **Application (App)** to track user behavior.
+The Application (App) minimises reliance on external services to preserve privacy. We do not use advertising networks or third-party analytics within the **Application (App)** to track user behaviour.
 
 **Website Analytics:** When you visit our public website (traveldocumentvault.com), we use Google Analytics to understand site traffic and improve our marketing. **This website analytics data is ONLY collected if you consent via our cookie banner.** We read it as summary reports. Google Analytics recognises a returning browser by a random identifier stored in its cookie, not by your name or email, and this data is never linked to your personal data or your activity within the App. Website analytics events include which store button you tapped and the page you were on.
 
@@ -119,7 +119,7 @@ The Application uses **Sentry** (sentry.io) for optional crash reporting to help
 - Device type and model
 - Operating system version
 - Application version
-- Anonymized crash stack traces
+- Anonymised crash stack traces
 
 **Crash reports never include:**
 

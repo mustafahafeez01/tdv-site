@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/ja/blog/child-travel-consent-letter/
 
 ---
 
-![クリーム色の同意書と子どもの小さなパスポートが金色のリボンで結ばれていて、濃紺の背景の上に置かれている](https://traveldocumentvault.com/blog/child-travel-consent-letter/cover.jpg)
-
 ## 重要なポイント
 
 - 要件は国によって大きく異なります。**ある行き先で有効な手紙が他の行き先では受け入れられない可能性があります。**
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/ja/blog/child-travel-consent-letter/
 - 同意書には通常、子どもの氏名(フルネーム)、生年月日、パスポート番号、旅行日程、渡航先、同行しない親の連絡先を記載します。
 - 却下される一般的な理由は、情報の不足、公証がないこと、または署名が古いことです。
 - 署名入りの原本を主要な書類として携帯し、緊急時に備えて暗号化されたデジタルバックアップを保持してください。
+
+![クリーム色の同意書と子どもの小さなパスポートが金色のリボンで結ばれていて、濃紺の背景の上に置かれている](https://traveldocumentvault.com/blog/child-travel-consent-letter/cover.jpg)
 
 同意書がチェックインカウンターで果たす役割は一つです。子どもに同行する大人が、同行しない親の同意を得ていることを示すことです。ほとんどは何も言われずに受理されます。
 

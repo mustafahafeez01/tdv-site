@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/blog/child-travel-consent-letter/
 
 ---
 
-![A cream consent letter and a small child's passport tied together with a gold ribbon on a royal navy background](https://traveldocumentvault.com/blog/child-travel-consent-letter/cover.jpg)
-
 ## Key Takeaways
 
 - Requirements vary significantly by country. **A letter that works for one destination may not be accepted elsewhere.**
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/blog/child-travel-consent-letter/
 - A letter usually includes the child's full name, date of birth, passport number, exact travel dates, destinations, and contact details for the absent parent.
 - Common rejections come from missing information, lack of notarisation or outdated signatures.
 - Carry a printed copy as the primary document, and keep an encrypted digital backup for emergencies.
+
+![A cream consent letter and a small child's passport tied together with a gold ribbon on a royal navy background](https://traveldocumentvault.com/blog/child-travel-consent-letter/cover.jpg)
 
 A consent letter does one job at the airline desk: it shows that the adult travelling with a child has the absent parent's agreement. Most are accepted without comment.
 

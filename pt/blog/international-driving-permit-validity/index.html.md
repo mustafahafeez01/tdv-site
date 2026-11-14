@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/pt/blog/international-driving-permit-val
 
 ---
 
-![Uma família a carregar um carro de aluguer no início de uma viagem de carro, com uma carta de condução e uma Carta de Condução Internacional sobre o mapa aberto ao lado deles](https://traveldocumentvault.com/blog/international-driving-permit-validity/cover.jpg)
-
 ## Pontos-Chave
 
 - Uma Carta de Condução Internacional é **uma tradução da carta que já tem**, por isso leva as duas consigo. Entregar apenas a carta internacional não prova nada.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/pt/blog/international-driving-permit-val
 - A carta de Viena está **limitada pela sua carta de condução nacional**. Se esta caducar primeiro, a carta internacional deixa de ser útil nessa data, seja qual for a data impressa nela.
 - Os países ratificaram convenções diferentes, por isso **uma carta aceite num país pode ser recusada no seguinte**.
 - Passaporte, carta de condução e carta internacional seguem **três calendários distintos** que quase nunca coincidem.
+
+![Uma família a carregar um carro de aluguer no início de uma viagem de carro, com uma carta de condução e uma Carta de Condução Internacional sobre o mapa aberto ao lado deles](https://traveldocumentvault.com/blog/international-driving-permit-validity/cover.jpg)
 
 Uma carta de condução internacional é uma tradução da carta, não uma carta por direito próprio, e corre segundo o seu próprio calendário. Muitas são válidas por doze meses a contar da data de emissão, e nenhuma ultrapassa três anos, pelo que a comprada para uma viagem há três verões está quase de certeza caducada. Os balcões de aluguer de vários países pedem-na antes de entregar o carro.
 

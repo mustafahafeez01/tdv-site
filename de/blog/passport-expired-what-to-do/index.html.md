@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/de/blog/passport-expired-what-to-do/
 
 ---
 
-![Ein einzelner Reisepass liegt flach auf königsblauem Hintergrund mit einem sanften goldfarbenen Pfeil, der nach vorne zeigt und den klaren nächsten Schritt andeutet](https://traveldocumentvault.com/blog/passport-expired-what-to-do/cover.jpg)
-
 ## Wichtige Erkenntnisse
 
 - Es gibt zwei unterschiedliche Szenarien: Sie stellen fest, dass Ihr Reisepass zu Hause abgelaufen ist, oder Sie stellen es am Flughafen fest. Die Schritte unterscheiden sich für beide.
@@ -16,6 +14,8 @@ Source: https://traveldocumentvault.com/de/blog/passport-expired-what-to-do/
 - Am Flughafen wenden Sie sich zunächst an Ihre Airline – fragen Sie, ob eine Umbuchung ohne Änderungsgebühr möglich ist.
 - Die langfristige Lösung ist eine 12-Monats-Ablauferinnerung, nicht eine 6-Monats-Erinnerung. Das gibt Ihnen genug Zeit, um mit standardmäßiger Bearbeitung zu erneuern.
 - Ablauf ist nicht das einzige Reisepassproblem, das Reisende am Flughafen abweist. Beschädigungen, Namensfehler, fehlende Unterschriften und unzureichende Restgültigkeit an Ihrem Zielort führen zum gleichen Ergebnis.
+
+![Ein einzelner Reisepass liegt flach auf königsblauem Hintergrund mit einem sanften goldfarbenen Pfeil, der nach vorne zeigt und den klaren nächsten Schritt andeutet](https://traveldocumentvault.com/blog/passport-expired-what-to-do/cover.jpg)
 
 Wenn Sie feststellen, dass Ihr Reisepass abgelaufen ist, ist das einer dieser Momente, in denen die Zeit plötzlich sehr real wird. Egal ob Sie es drei Monate vor einer Reise entdeckten oder ob Sie gerade am Flughafenschalter stehen – was als nächstes kommt, hängt ganz davon ab, in welcher Situation Sie sich befinden.
 

@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/fr/blog/passport-name-change-after-marri
 
 ---
 
-![Aquarelle d'une famille de trois personnes vue de dos devant une baie vitrée d'aéroport, dans la lumière du matin, un adulte tenant un passeport doré](https://traveldocumentvault.com/blog/passport-name-change-after-marriage/cover.jpg)
-
 ## Points clés à retenir
 
 - **Se marier ne change rien en soi.** Un nouveau passeport n'est nécessaire que si l'on commence à utiliser un autre nom.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/fr/blog/passport-name-change-after-marri
 - Après la cérémonie, joignez à la demande votre **certificat de mariage ou de partenariat civil**.
 - Une demande faite avant la cérémonie donne un **passeport postdaté**, annule l'ancien et peut compliquer les visas.
 - Si la lune de miel suit de près le mariage, nous voyagerions sous votre nom actuel et ferions la demande une fois rentrés.
+
+![Aquarelle d'une famille de trois personnes vue de dos devant une baie vitrée d'aéroport, dans la lumière du matin, un adulte tenant un passeport doré](https://traveldocumentvault.com/blog/passport-name-change-after-marriage/cover.jpg)
 
 Se marier ne modifie rien, en soi, sur un passeport britannique. Les [consignes aux agents sur les changements de nom](https://www.gov.uk/government/publications/change-of-name-passport-applications-caseworker-guidance/names-change-of-name-passport-applications-accessible) de HM Passport Office précisent que rien, en droit, n'oblige quiconque à changer de nom parce qu'il se marie : le passeport ne doit donc changer que lorsque le nom que vous utilisez change. Reste à choisir le moment, et le calendrier compte en pratique plus que les papiers.
 

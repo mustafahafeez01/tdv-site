@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/sv/blog/transit-visa-connecting-flights/
 
 ---
 
-![En familjegrupp i en flygplatsterminal som går igenom resehandlingar innan ombordstigning på ett anslutningsflyg](https://traveldocumentvault.com/blog/transit-visa-connecting-flights/cover.jpg)
-
 ## Viktiga punkter
 
 - **Inte alla anslutningsflyg kräver transitvisum.** Det beror ofta på om du stannar airside (i den internationella transitzonen) eller lämnar flygplatsen.
@@ -16,6 +14,8 @@ Source: https://traveldocumentvault.com/sv/blog/transit-visa-connecting-flights/
 - **Ren airside-mellanlandning är ofta visumfri**, medan mellanlandningar där du lämnar flygplatsen eller passerar gränskontroll ofta kräver visum, beroende på din nationalitet.
 - Inser du att du behöver transitvisum efter bokning, kontakta ditt flygbolag omedelbart – handläggningstiderna varierar kraftigt och du kan behöva boka om.
 - **Förvara och håll koll på varje handling** – ditt transitvisum har eget utgångsdatum, skilt från ditt pass och huvudinresevisum.
+
+![En familjegrupp i en flygplatsterminal som går igenom resehandlingar innan ombordstigning på ett anslutningsflyg](https://traveldocumentvault.com/blog/transit-visa-connecting-flights/cover.jpg)
 
 Om ett anslutningsflyg kräver transitvisum eller inte beror på tre saker: vilket pass du har, vilket land ditt plan landar i, och om du lämnar flygplatsen eller stannar i den internationella transitzonen. De flesta mellanlandningar kräver inget transitvisum alls. Men där kravet finns är det strikt – och flygbolagen kontrollerar i regel det innan du går ombord.
 

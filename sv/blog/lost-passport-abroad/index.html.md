@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/sv/blog/lost-passport-abroad/
 
 ---
 
-![Ett pass mot en marinblå bakgrund med svaga guldfärgade ruttlinjer och en liten guldfärgad positionsnål intill, som antyder hjälp att hitta hem](https://traveldocumentvault.com/blog/lost-passport-abroad/cover.jpg)
-
 ## Viktiga punkter
 
 - Gör en polisanmälan tidigt – ditt försäkringsbolag vill vanligtvis ha den, och en del ambassader begär den också.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/sv/blog/lost-passport-abroad/
 - En kopia av dina passuppgifter kan hjälpa till att skynda på processen, men den kan inte användas som legitimation.
 - Vissa reseförsäkringar täcker kostnaden för att ersätta passet. Kontrollera din försäkring och spara polisanmälan, som försäkringsbolag ofta begär.
 - Rätt tid att förbereda sig är nu, innan något går fel. En fem minuter lång skanning i dag kan spara dig dagar av stress utomlands.
+
+![Ett pass mot en marinblå bakgrund med svaga guldfärgade ruttlinjer och en liten guldfärgad positionsnål intill, som antyder hjälp att hitta hem](https://traveldocumentvault.com/blog/lost-passport-abroad/cover.jpg)
 
 Människor ersätter förlorade pass utomlands varje dag, och ambassader behandlar det som ett rutinärende snarare än en nödsituation. Processen har en given ordning, och att följa den är det som gör en dålig eftermiddag till en försening i stället för en inställd resa. Så här gör du, steg för steg.
 

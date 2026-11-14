@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/es/blog/child-travel-consent-letter/
 
 ---
 
-![Una carta de consentimiento color crema y un pasaporte de un menor atados juntos con una cinta dorada sobre fondo azul marino](https://traveldocumentvault.com/blog/child-travel-consent-letter/cover.jpg)
-
 ## Puntos Clave
 
 - Los requisitos varían significativamente según el país. **Una carta que funciona en un destino puede no ser aceptada en otro.**
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/es/blog/child-travel-consent-letter/
 - La carta suele incluir el nombre completo del menor, fecha de nacimiento, número de pasaporte, fechas exactas de viaje, destinos y datos de contacto del progenitor ausente.
 - Los rechazos frecuentes provienen de información faltante, falta de autenticación notarial o firmas desactualizadas.
 - Lleva una copia impresa como documento principal y mantén una copia de seguridad digital cifrada para emergencias.
+
+![Una carta de consentimiento color crema y un pasaporte de un menor atados juntos con una cinta dorada sobre fondo azul marino](https://traveldocumentvault.com/blog/child-travel-consent-letter/cover.jpg)
 
 Una carta de consentimiento cumple una sola función en el mostrador de la aerolínea: demuestra que el adulto que viaja con un menor cuenta con el acuerdo del progenitor ausente. La mayoría se aceptan sin comentarios.
 

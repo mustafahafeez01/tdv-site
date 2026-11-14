@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/nl/blog/family-passport-management/
 
 ---
 
-![familie van vier personen die naar een ochtendverlicht vliegtuigraam loopt, ouder houdt een waaier van vier gouden paspoorten vast](https://traveldocumentvault.com/blog/family-passport-management/cover.jpg)
-
 ## Belangrijkste punten
 
 - **Kinderpaspoorten verlopen vaak eerder dan paspoorten van volwassenen.** In het VK is [een kinderpaspoort 5 jaar geldig](https://www.gov.uk/get-a-child-passport), dus de vervaldatum van het jongste gezinslid bepaalt vaak de deadline voor je volgende reis.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/nl/blog/family-passport-management/
 - **Bewaar digitale kopieën op één versleutelde plaats,** met één fysieke back-up op een veilige locatie die je snel kunt bereiken als dat nodig is.
 - Maak een gedeeld systeem om vervaldatums van alle gezinsleden bij te houden. **Als één persoon dit doet, voorkomt dat gemiste vernieuwingen.**
 - Voor gezinnen met dubbele nationaliteit: **bewaar kopieën van alle paspoorten** en weet welke je voor welke bestemming gebruikt.
+
+![familie van vier personen die naar een ochtendverlicht vliegtuigraam loopt, ouder houdt een waaier van vier gouden paspoorten vast](https://traveldocumentvault.com/blog/family-passport-management/cover.jpg)
 
 Als je met kinderen reist en je moet vijf paspoorten bijhouden in twee verschillende landen – dat is het soort probleem dat je midden in de nacht wakker houdt. Een ouder heeft nog 8 jaar geldig, de ander 7, je oudste heeft nog 6 jaar. Maar je jongste – diegene die niet lang genoeg stilzit voor een fatsoenlijke foto – vervalt over slechts 18 maanden. Het is een systeem dat niemand uitlegt tot je bij de incheckbalie staat en de gate agent vraagt welk paspoort je 12-jarige zou moeten hebben. Een systeem dat deze chaos overleeft beginnen te bouwen, start met begrijpen waarom gezinnen dit zo vaak verkeerd doen.
 

@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/es/blog/encrypted-cloud-backup-travel-do
 
 ---
 
-![Un padre y su hijo sentados juntos en un sofá al anochecer, mirando un teléfono y una pequeña llave dorada sobre la mesa junto a un pasaporte, mientras una nube arriba solo contiene marcas revueltas tras un candado](https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/cover.jpg)
-
 ## Conclusiones Principales
 
 - **«Copia de seguridad cifrada» solo significa algo cuando sabes quién tiene la clave.** Si la empresa puede leer tus documentos, el cifrado los protege de terceros, no de la empresa.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/es/blog/encrypted-cloud-backup-travel-do
 - **Sin cuenta no hay restablecimiento de contraseña.** Si pierdes el código de recuperación y el acceso a todos los dispositivos que aún pueden abrir la bóveda, no podemos recuperar la copia de seguridad cifrada. Es la contrapartida deliberada.
 - Anota el código antes de depender de la copia de seguridad, guárdalo lejos del teléfono y léelo una vez para comprobar que es legible.
 - Una copia de seguridad del sistema del dispositivo reinstala la app, pero no puede recuperar tus documentos, porque las copias del sistema no transfieren la clave de cifrado vinculada al dispositivo.
+
+![Un padre y su hijo sentados juntos en un sofá al anochecer, mirando un teléfono y una pequeña llave dorada sobre la mesa junto a un pasaporte, mientras una nube arriba solo contiene marcas revueltas tras un candado](https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/cover.jpg)
 
 Has escaneado cuatro pasaportes, dos visados y los certificados de nacimiento de los niños en una app que guarda todo en tu teléfono. Bien. Entonces llega la preocupación obvia: qué pasa si el teléfono cae al mar, o desaparece de la mesa de una cafetería en Lisboa.
 

@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/blog/travelling-child-without-both-paren
 
 ---
 
-![Hand-drawn sketch of a parent and child seen from behind at an airport concourse, the parent holding a small fan of two passports and a folded document at chest height](https://traveldocumentvault.com/blog/travelling-child-without-both-parents/cover.jpg)
-
 ## Key Takeaways
 
 - **Check-in staff and border officers check different things.** Satisfying one does not bind the other, at arrival or on the way out.
@@ -16,7 +14,9 @@ Source: https://traveldocumentvault.com/blog/travelling-child-without-both-paren
 - Other parent has died: if you have sole decision-making responsibility, Canadian guidance recommends a **copy of the death certificate**.
 - Different surname: the child's **full birth certificate** shows your relationship, plus a marriage or divorce certificate if your own name has changed.
 
-Airline check-in staff and border officers look twice at a child travelling without both parents, and that second look is routine child-protection screening, not suspicion of anyone in particular. Which paperwork that is depends on why the other parent is absent: still at home, no longer sharing custody, or no longer alive. Each can call for supporting documents, and a consent letter may still be recommended alongside a custody order.
+![Hand-drawn sketch of a parent and child seen from behind at an airport concourse, the parent holding a small fan of two passports and a folded document at chest height](https://traveldocumentvault.com/blog/travelling-child-without-both-parents/cover.jpg)
+
+Airline check-in staff and border officers look twice at a child travelling without both parents, and that second look is routine child-protection screening, not suspicion of anyone in particular. The paperwork you need depends on why the other parent is absent: still at home, no longer sharing custody, or no longer alive. Each can call for supporting documents, and a consent letter may still be recommended alongside a custody order.
 
 ## The Airline Desk and the Border Check Different Things
 
@@ -36,7 +36,7 @@ Two things sit outside that letter and are worth carrying alongside it. Pack you
 
 Sole custody does not automatically remove the need for consent. Canadian guidance recommends a consent letter whenever possible or safe, even when a parenting order lets one parent make travel decisions alone. If the order leaves the other parent with contact or access rights, a letter from them is still worth carrying.
 
-Travel with the order, or a certified copy of it, since it does no good in a filing cabinet at home. Officers who ask are usually looking for a plain answer to one question: does this adult have the legal standing to make this decision for this child. If your custody arrangement changed recently, we'd carry the latest order.
+Travel with the order, or a certified copy of it, since it does no good in a filing cabinet at home. Officers who ask are usually looking for a plain answer to one question: does this adult have the legal standing to make this decision for this child? If your custody arrangement changed recently, we'd carry the latest order.
 
 ## When the Other Parent Has Died: Carry the Death Certificate
 

@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/es/blog/proof-of-onward-travel/
 
 ---
 
-![Un padre y su hijo junto a una ventana del aeropuerto sujetando un pasaporte con un billete de avión guardado dentro, mirando un avión antes de un viaje](https://traveldocumentvault.com/blog/proof-of-onward-travel/cover.jpg)
-
 ## Puntos clave
 
 - **La prueba de viaje de continuación suele ser un billete reservado para salir del país al que vuelas,** ya sea de vuelta a casa o hacia un país al que puedas entrar.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/es/blog/proof-of-onward-travel/
 - Algunos destinos incluyen el viaje de continuación en sus normas de entrada para visitantes, así que cuando la aerolínea lo pide, a menudo solo está aplicando antes la norma del destino.
 - Una reserva de hotel o un extracto bancario responden a preguntas distintas, dónde te vas a alojar y cómo vas a mantenerte, y normalmente no sustituyen a un billete de salida.
 - Guarda la confirmación en un sitio donde puedas abrirla en el mostrador sin cobertura ni tener que iniciar sesión.
+
+![Un padre y su hijo junto a una ventana del aeropuerto sujetando un pasaporte con un billete de avión guardado dentro, mirando un avión antes de un viaje](https://traveldocumentvault.com/blog/proof-of-onward-travel/cover.jpg)
 
 En la mayoría de los casos, la prueba de viaje de continuación es un billete reservado para salir del país al que vuelas. Cuenta un vuelo de vuelta a casa, y también un billete hacia un tercer país al que puedas entrar. Si ya tienes alguno de los dos, tienes lo que normalmente se pide.
 

@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/nl/blog/travelling-child-without-both-pa
 
 ---
 
-![Met de hand getekende schets van een ouder en kind gezien van achteren in een vertrekhal van een luchthaven, de ouder houdt een kleine waaier van twee paspoorten en een gevouwen document ter hoogte van de borst vast](https://traveldocumentvault.com/blog/travelling-child-without-both-parents/cover.jpg)
-
 ## Belangrijkste punten
 
 - **Incheckpersoneel en grensbeambten controleren verschillende dingen.** Aan de ene eis voldoen bindt de andere niet, niet bij aankomst en niet bij vertrek.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/nl/blog/travelling-child-without-both-pa
 - Eenhoofdig gezag: neem de **voogdij- of gezagsbeschikking** mee en eventuele toestemming van anderen met ouderlijk gezag.
 - De andere ouder is overleden: als alleen jij beslissingsbevoegd bent, raden de Canadese richtlijnen een **kopie van de overlijdensakte** aan.
 - Andere achternaam: de **volledige geboorteakte** van het kind toont jullie verwantschap aan, samen met een huwelijks- of echtscheidingsakte als jouw naam is veranderd.
+
+![Met de hand getekende schets van een ouder en kind gezien van achteren in een vertrekhal van een luchthaven, de ouder houdt een kleine waaier van twee paspoorten en een gevouwen document ter hoogte van de borst vast](https://traveldocumentvault.com/blog/travelling-child-without-both-parents/cover.jpg)
 
 Incheckpersoneel en grensbeambten kijken twee keer naar een kind dat zonder beide ouders reist, en die tweede blik is routinematige kinderbeschermingscontrole, geen argwaan jegens iemand in het bijzonder. Welke papieren dat zijn, hangt af van waarom de andere ouder afwezig is: nog thuis, niet langer met gedeeld gezag, of niet meer in leven. Elke situatie kan om ondersteunende documenten vragen, en ook naast een gezagsbeschikking kan een toestemmingsbrief worden aangeraden.
 

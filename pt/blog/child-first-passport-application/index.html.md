@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/pt/blog/child-first-passport-application
 
 ---
 
-![Um pai visto de costas junto a uma janela luminosa, com um bebé ao ombro, a segurar um único passaporte dourado](https://traveldocumentvault.com/blog/child-first-passport-application/cover.jpg)
-
 ## Pontos-Chave
 
 - **O consentimento para pedir o passaporte é diferente do consentimento para viajar.** As regras variam por país: no Reino Unido, por exemplo, uma pessoa com responsabilidade parental assina o formulário e são fornecidos os dados de ambos os pais, enquanto outros países pedem o consentimento de ambos. Confirme junto do serviço de passaportes do seu país.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/pt/blog/child-first-passport-application
 - **As fotos de passaporte de bebés têm regras específicas.** A maioria das autoridades quer os olhos abertos e a olhar para a câmara (o GOV.UK flexibiliza isto para menores de 1 ano e de 6 anos), sem chupetas, brinquedos ou mãos de outras pessoas visíveis — e o fundo atrás da cabeça da criança tem de ser liso e sem obstruções.
 - **Verifique tudo assim que o passaporte chegar.** Ortografia, nomes dos pais quando aparecem, data de validade — sobretudo porque os passaportes de crianças muitas vezes expiram mais cedo do que os de adultos (no Reino Unido, [são válidos por 5 anos](https://www.gov.uk/get-a-child-passport)).
 - **Nos países que exigem o consentimento de ambos os pais, um progenitor geralmente não pode assinar sozinho, exceto havendo uma decisão judicial, guarda legal exclusiva, ou falecimento do outro progenitor.** Se for essa a sua situação, o serviço de passaportes tem um procedimento específico a seguir.
+
+![Um pai visto de costas junto a uma janela luminosa, com um bebé ao ombro, a segurar um único passaporte dourado](https://traveldocumentvault.com/blog/child-first-passport-application/cover.jpg)
 
 O primeiro passaporte do seu filho é algo que só faz uma vez — o que significa que pode aprender as regras antes de o fazer, em vez de as descobrir ao balcão. O pedido em si é simples, mas as regras de consentimento e os requisitos da fotografia variam de país para país, e um pequeno erro no início pode significar um pedido recusado e uma viagem adiada.
 

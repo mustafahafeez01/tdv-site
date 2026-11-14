@@ -163,8 +163,6 @@ Source: https://traveldocumentvault.com/blog/child-first-passport-application/
 
 ---
 
-![A parent seen from behind at a bright window, baby on one shoulder, holding up a single gold passport booklet](https://traveldocumentvault.com/blog/child-first-passport-application/cover.jpg)
-
 ## Key Takeaways
 
 - **Consent to apply is different from consent to travel.** Rules differ by country: in the UK, for example, someone with parental responsibility signs the form and you give both parents' details, while other countries ask for both parents to consent. Check your own passport office.
@@ -172,6 +170,8 @@ Source: https://traveldocumentvault.com/blog/child-first-passport-application/
 - **Baby passport photos have specific rules.** Most authorities want eyes open and looking at the camera (GOV.UK relaxes this for under-1s and under-6s), with no dummies, toys, or other hands visible - and the background behind the child's head must be plain and clear.
 - **Check everything the moment it arrives.** Spelling, parent names where they appear, expiry date - especially since child passports often expire sooner than adult ones ([a UK child passport is valid for 5 years](https://www.gov.uk/get-a-child-passport)).
 - **In countries that ask for both parents' consent, one parent generally cannot sign alone unless there is a court order, sole legal guardianship, or the other parent is deceased.** If this is your situation, your passport office has a specific process to follow.
+
+![A parent seen from behind at a bright window, baby on one shoulder, holding up a single gold passport booklet](https://traveldocumentvault.com/blog/child-first-passport-application/cover.jpg)
 
 Your child's first passport is something you only do once, which means you get to learn the rules before it happens rather than discovering them at the counter. The application itself is straightforward, but consent rules and photo requirements vary by country, and a small mistake at the start means a rejected application and a delayed trip.
 
@@ -215,7 +215,7 @@ This is where many first-time applications fail. A baby or small child cannot fo
 
 **For a child aged one to two:** you can seat them on an adult's lap, but the adult's body and hands must not appear in the photo at all. The baby is on their own in the picture, with the plain background behind them and nothing else visible. A white wall works, and so does a plain sheet hung behind them. Angle the shot so the baby's eyes are looking toward the camera, but because babies this age move constantly, you will probably take 20 photos to get one where the eyes are open and looking in the right direction.
 
-**For toddlers 2 years and older:** seat them in front of the plain background on a chair or standing if they can stand. The eyes should be looking straight at the camera, which is harder than it sounds because toddlers do not take instructions. Sing a song, make a funny noise, or ask them to look at a point just above the camera lens. You want them to be looking up slightly, which reads better in photos anyway. Again, take many shots - you only need one where they are looking at the camera with both eyes clearly open.
+**For toddlers 2 years and older:** have them sit on a chair or stand in front of the plain background. The eyes should be looking straight at the camera, which is harder than it sounds because toddlers do not take instructions. Sing a song, make a funny noise, or ask them to look at a point just above the camera lens. You want them to be looking up slightly, which reads better in photos anyway. Again, take many shots - you only need one where they are looking at the camera with both eyes clearly open.
 
 **The most common mistakes** all come down to something creeping into a frame that is supposed to hold only the baby:
 
@@ -245,7 +245,7 @@ Once the passport is issued and delivered to you, spend five minutes checking it
 
 **Check that your child's name is spelled exactly as it appears** on the birth certificate or the identity document you used to apply. If it is wrong, the passport office will generally [replace it free if the mistake was theirs](https://www.gov.uk/government/publications/preventing-and-resolving-errors-on-passports/how-to-correct-errors-on-passports-accessible), and you may pay a fee if it came from the application you submitted. If you do not notice until you are at the airport, the airline may refuse to board because the name on the ticket will not match the passport.
 
-**Look at the parent names where they appear.** Some countries print the names of the parents or guardians on the inside of a child's passport. If these names are misspelled or wrong, contact the office to have it corrected.
+**Look at the parent names where they appear.** Some countries print the names of the parents or guardians on the inside of a child's passport. If these names are misspelled or wrong, contact the office to have them corrected.
 
 **Then check the expiry date.** This is critical for children because [child passports often expire sooner than adult passports](https://traveldocumentvault.com/blog/family-passport-management/). When you book travel, you need to know exactly when this document stops being valid. Write it down and set a reminder the day the passport arrives, not whenever a trip happens to come up; that's the one habit we'd always recommend to parents. A child's passport expiring unnoticed is an easy way to lose a trip.
 
@@ -307,8 +307,6 @@ Source: https://traveldocumentvault.com/blog/child-travel-consent-letter/
 
 ---
 
-![A cream consent letter and a small child's passport tied together with a gold ribbon on a royal navy background](https://traveldocumentvault.com/blog/child-travel-consent-letter/cover.jpg)
-
 ## Key Takeaways
 
 - Requirements vary significantly by country. **A letter that works for one destination may not be accepted elsewhere.**
@@ -316,6 +314,8 @@ Source: https://traveldocumentvault.com/blog/child-travel-consent-letter/
 - A letter usually includes the child's full name, date of birth, passport number, exact travel dates, destinations, and contact details for the absent parent.
 - Common rejections come from missing information, lack of notarisation or outdated signatures.
 - Carry a printed copy as the primary document, and keep an encrypted digital backup for emergencies.
+
+![A cream consent letter and a small child's passport tied together with a gold ribbon on a royal navy background](https://traveldocumentvault.com/blog/child-travel-consent-letter/cover.jpg)
 
 A consent letter does one job at the airline desk: it shows that the adult travelling with a child has the absent parent's agreement. Most are accepted without comment.
 
@@ -481,17 +481,17 @@ Source: https://traveldocumentvault.com/blog/damaged-passport-travel/
 
 ---
 
-![parent and child at an airline check-in desk while the agent studies an open gold passport with water-damaged pages](https://traveldocumentvault.com/blog/damaged-passport-travel/cover.jpg)
-
 ## Key Takeaways
 
 - **Not all wear is damage.** A creased cover is fine. Water damage, torn pages, or smudged security features are not.
 - Airlines refuse boarding if **they think a passport is damaged** - they are liable for boarding an invalid document and will err on the side of caution.
-- Spot damage **days or weeks before** your trip gives you time for emergency renewal. The day before is a crisis.
+- Spotting damage **days or weeks before** your trip gives you time for emergency renewal. The day before is a crisis.
 - If you are turned away at the gate, **ask your embassy about an emergency travel document**.
 - A digital copy is **worth most when you are abroad** - a consular officer can establish who you are from a scan far faster than from your account of it. Scan your passport before you travel.
 
-Most passport damage is cosmetic. A scuffed cover, a softened corner, a frayed edge along the spine; none of that stops anyone boarding. What border staff and airline agents actually check is narrower than most travellers expect: the photo page, the two printed lines beneath it, and whether the booklet still holds together as one document.
+![parent and child at an airline check-in desk while the agent studies an open gold passport with water-damaged pages](https://traveldocumentvault.com/blog/damaged-passport-travel/cover.jpg)
+
+Most passport damage is cosmetic. A scuffed cover, a softened corner, a frayed edge along the spine: none of that stops anyone boarding. What border staff and airline agents actually check is narrower than most travellers expect: the photo page, the two printed lines beneath it, and whether the booklet still holds together as one document.
 
 Where that line falls is worth knowing before you travel, because a passport can be technically valid and still be refused. This covers what counts as damage, what officials generally accept, and what to do if yours is already in poor shape.
 
@@ -753,8 +753,6 @@ Source: https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-docum
 
 ---
 
-![A parent and child sit together on a sofa at dusk, looking at a phone and a small gold key resting on the table beside a passport, while a cloud above holds only scrambled marks behind a padlock](https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/cover.jpg)
-
 ## Key Takeaways
 
 - **"Encrypted backup" only means something once you know who holds the key.** If the company can read your documents, the encryption is guarding them from strangers, not from the company.
@@ -763,7 +761,9 @@ Source: https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-docum
 - Write the code down before you depend on the backup, keep it away from the phone, and read it back once to check it is legible.
 - A system device backup reinstalls the app but cannot bring your documents back, because system backups do not transfer the device-bound encryption key.
 
-You've scanned four passports, two visas and the children's birth certificates into an app that keeps everything on your phone. Good. Then the obvious worry arrives: what happens when the phone goes in the sea, or gets lifted from a café table in Lisbon.
+![A parent and child sit together on a sofa at dusk, looking at a phone and a small gold key resting on the table beside a passport, while a cloud above holds only scrambled marks behind a padlock](https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/cover.jpg)
+
+You've scanned four passports, two visas and the children's birth certificates into an app that keeps everything on your phone. Good. Then the obvious worry arrives: what happens when the phone goes in the sea, or gets lifted from a café table in Lisbon?
 
 The answer is a backup. The awkward part is that almost every app uses the phrase "encrypted backup" and almost none of them mean the same thing by it. This article explains what the words actually mean and what you take on when a company genuinely cannot read your data. It ends with a short routine for the week before a trip, so a lost phone stays an inconvenience rather than a disaster.
 
@@ -796,7 +796,7 @@ So treat the code as the one thing to get right:
 - Save it before you rely on the backup, not afterwards.
 - Keep it somewhere the phone's loss doesn't reach. A password manager on another device works. So does paper in the drawer where the birth certificates live.
 - Read it back once from wherever you stored it. Handwriting that made sense at the time has a habit of becoming ambiguous in an emergency.
-- Two copies in two places beats one perfect copy.
+- Two copies in two places beat one perfect copy.
 
 ## Is Cloud Backup Safe for Passport Scans?
 
@@ -889,7 +889,7 @@ Cloud backup stays on one platform: your own iCloud on iPhone and iPad, or your 
 
 ### What is stored in the backup and what stays on the device?
 
-The backup includes profiles, readable scans and attachments, expiry dates, notes and portable reminder history, encrypted before upload. Your recovery code is not uploaded with the backup. Neither does your app lock, so Face ID, Touch ID or your PIN protects the app while the encryption protects the file. Automatic local snapshots also stay on the device only, which is why they cannot bring your vault back on a replacement phone.
+The backup includes profiles, readable scans and attachments, expiry dates, notes and portable reminder history, encrypted before upload. Your recovery code is not uploaded with the backup. Nor is your app lock, so Face ID, Touch ID or your PIN protects the app while the encryption protects the file. Automatic local snapshots also stay on the device only, which is why they cannot bring your vault back on a replacement phone.
 
 ## Related Articles
 
@@ -907,8 +907,6 @@ Source: https://traveldocumentvault.com/blog/etias-documents-2026/
 
 ---
 
-![A passport on a royal navy background with a loose arc of gold stars and faint dotted route lines, evoking European travel](https://traveldocumentvault.com/blog/etias-documents-2026/cover.jpg)
-
 ## Key Takeaways
 
 - **ETIAS is a digital travel authorisation** for UK, US, and Canadian travellers, required for visa-exempt entry to the Schengen area once it becomes mandatory
@@ -916,6 +914,8 @@ Source: https://traveldocumentvault.com/blog/etias-documents-2026/
 - Processing time varies, especially soon after launch; **apply well ahead of your trip** and check the official EU site for current guidance
 - Check [the official EU site](https://home-affairs.ec.europa.eu/news/european-travel-authorisation-etias-will-cost-eur-20-2025-07-17_en) for the current fee; **under-18s and over-70s don't pay** but still need authorisation
 - **Doubts about the reliability of your answers can lead to refusal**, so disclose everything, even if it's old
+
+![A passport on a royal navy background with a loose arc of gold stars and faint dotted route lines, evoking European travel](https://traveldocumentvault.com/blog/etias-documents-2026/cover.jpg)
 
 You've booked a family trip to Italy and you've heard that ETIAS is on its way, a new digital authorisation requirement for visa-exempt visitors to Europe. This guide covers what ETIAS is, what documents you need, and how the application works, so you're prepared before you reach the form.
 
@@ -959,7 +959,7 @@ At the end, you review your information, pay the fee shown at checkout (free if 
 
 The European Commission publishes current processing time guidance on its official site, and it's worth checking that before you assume you have time. Early demand after launch, background check delays, and any need to fix a rejection can all add to the wait, so apply as early as you reasonably can before your trip. Apply the moment your travel dates are locked in, not the week before departure.
 
-An application is granted, refused, or the authorities ask for more information.
+The authorities grant or refuse an application, or ask for more information.
 
 An **approval** means you're granted a digital ETIAS linked to your passport number. There's nothing to print or carry, as the system will recognise you automatically at the border. Your approval remains valid for three years, or until your passport expires, whichever comes first.
 
@@ -989,7 +989,7 @@ If you're refused and still need to travel, you can appeal or apply again.
 
 ETIAS approval does not replace your passport, travel insurance, or [passport validity requirements](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/), so you still need:
 
-- A valid passport (3+ months validity)
+- A valid passport (3+ months of validity)
 - Travel insurance (advisable; border officers may ask about your funds and accommodation)
 - Proof of onward travel (return flight or onward ticket)
 - Proof of accommodation or travel itinerary
@@ -1025,7 +1025,7 @@ ETIAS is required for visa-exempt non-EU citizens travelling for short-stay visi
 
 ### What documents do I need to apply for ETIAS?
 
-You must have a valid passport with more than three months validity beyond your intended departure date, issued within the last ten years. You will also need an email address.
+You must have a valid passport with more than three months of validity beyond your intended departure date, issued within the last ten years. You will also need an email address.
 
 ### How much does ETIAS cost and how long does it take?
 
@@ -1063,8 +1063,6 @@ Source: https://traveldocumentvault.com/blog/family-passport-management/
 
 ---
 
-![family of four walking toward a dawn-lit airport window, parent holding a fan of four gold passports](https://traveldocumentvault.com/blog/family-passport-management/cover.jpg)
-
 ## Key Takeaways
 
 - **Children's passports often expire sooner than adults'.** In the UK a child passport is valid for 5 years, so the youngest family member's expiry date often sets the deadline for your next trip.
@@ -1073,7 +1071,9 @@ Source: https://traveldocumentvault.com/blog/family-passport-management/
 - Create a shared system for tracking expiry dates across every family member. **One person handling this prevents missed renewals.**
 - For families with dual nationality, **keep copies of all passports** and understand which one to use for each destination.
 
-When you're travelling with kids, keeping track of five passports across two countries' requirements is the kind of problem that wakes you up in the middle of the night. One parent has 8 years left on theirs, the other has 7, your eldest's has 6 years remaining. But your youngest's, the one who won't sit still long enough for a decent photo, expires in just 18 months. It's a system that nobody explains until you're standing at the check-in desk and the gate agent asks you which passport your 12-year-old should travel on. Setting up a system that survives this chaos starts with understanding why families so often get it wrong.
+![family of four walking toward a dawn-lit airport window, parent holding a fan of four gold passports](https://traveldocumentvault.com/blog/family-passport-management/cover.jpg)
+
+When you're travelling with kids, keeping track of five passports across two countries' requirements is the kind of problem that wakes you up in the middle of the night. One parent has 8 years left on theirs, the other has 7, and your eldest's has 6 years remaining. But your youngest's, the one who won't sit still long enough for a decent photo, expires in just 18 months. It's a system that nobody explains until you're standing at the check-in desk and the gate agent asks you which passport your 12-year-old should travel on. Setting up a system that survives this chaos starts with understanding why families so often get it wrong.
 
 ## Why Families Get Passport Management Wrong
 
@@ -1083,7 +1083,7 @@ One person usually ends up handling it all, often whoever's already managing the
 
 Child passports often expire sooner than adult ones. In the UK, a [child passport is valid for 5 years](https://www.gov.uk/get-a-child-passport), and many other countries issue children's passports with a shorter validity than adult ones. This means your youngest child's passport often becomes the limiting factor for family trips. You could have a parent with 8 years of validity remaining, but if your youngest's passport expires in 18 months, that's your planning horizon.
 
-Most families don't realise this until they're already booked a trip. A parent finds the passports a week before departure, scanning them hastily while packing, and discovers that one child's document won't meet the validity rule some destinations apply, often six months. The trip is now at risk, or needs a rushed and expensive passport renewal.
+Most families don't realise this until they've already booked a trip. A parent finds the passports a week before departure, scanning them hastily while packing, and discovers that one child's document won't meet the validity rule some destinations apply, often six months. The trip is now at risk, or needs a rushed and expensive passport renewal.
 
 ## The Foundation: One Secure Place for All Family Passports
 
@@ -1163,7 +1163,7 @@ Store encrypted digital copies in one centralised location (an app or password-p
 
 Use a dedicated app that tracks multiple people's expiry dates with automatic reminders, or create a shared family spreadsheet updated by one designated person. The most reliable approach is an app that sends notifications before a passport expires - catching renewals months in advance rather than days before a booked trip.
 
-### Do children's passports expire at the same rate as adults?
+### Do children's passports expire at the same rate as adults' passports?
 
 Often not. Children's passports usually have a shorter validity than adult ones (a UK child passport is valid for 5 years), so check each expiry date before booking. Always check each family member's expiry date individually before booking travel - the youngest child's document often becomes the planning deadline.
 
@@ -1195,8 +1195,6 @@ Source: https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take
 
 ---
 
-![A passport sliding halfway out of a plain cream envelope on a deep navy background, suggesting a renewal in progress](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/cover.jpg)
-
 ## Key Takeaways
 
 - How long renewal takes depends on your country, your situation, and the season you apply in - there's no single figure that stays accurate for long, so we've deliberately left one out of this guide.
@@ -1204,6 +1202,8 @@ Source: https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take
 - A handful of situations reliably slow things down: a name change, a first adult passport, a child's application, a lost or damaged passport, extra security checks, peak season, and applying from abroad.
 - The safest approach is to apply the moment your passport's remaining validity starts to look tight, working backwards from your actual travel date rather than guessing.
 - For the number that matters right now, go to your own passport authority - HM Passport Office, the US State Department, the Australian Passport Office, or your national equivalent - not a blog post.
+
+![A passport sliding halfway out of a plain cream envelope on a deep navy background, suggesting a renewal in progress](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/cover.jpg)
 
 You've booked flights for a trip five months from now. You pull out everyone's passports to double-check, and there it is: one expires in five months and three weeks. Now you want a straight number for how long renewal takes, so you can work out whether you've actually got time.
 
@@ -1334,8 +1334,6 @@ Source: https://traveldocumentvault.com/blog/how-long-is-esta-valid/
 
 ---
 
-![A parent and two children seen from behind at home looking out a window, holding a US passport and travel documents, one child pointing ahead, gold accent on the passport spine](https://traveldocumentvault.com/blog/how-long-is-esta-valid/cover.jpg)
-
 ## Key Takeaways
 
 - **An ESTA is typically valid for two years from approval, or until your passport expires**, whichever comes first.
@@ -1343,7 +1341,9 @@ Source: https://traveldocumentvault.com/blog/how-long-is-esta-valid/
 - It can't be extended, but you can reapply at any time. A new application replaces the old one.
 - A new passport, a new name, a new citizenship or a changed eligibility answer means applying again.
 - **Every traveller needs their own ESTA**, including children of any age and infants without a ticket.
-- The fee rose from US $40.27 to US $40.62 on 16 October 2026. An existing approved ESTA doesn't need reapplying.
+- The fee rose from US $40.27 to US $40.62 on 16 October 2026. You don't need to reapply for an existing approved ESTA.
+
+![A parent and two children seen from behind at home looking out a window, holding a US passport and travel documents, one child pointing ahead, gold accent on the passport spine](https://traveldocumentvault.com/blog/how-long-is-esta-valid/cover.jpg)
 
 An ESTA typically lasts two years from the day it's approved, or until the passport it's linked to expires, whichever comes first. If you already hold one, the fee change on 16 October 2026 doesn't touch it, and you only pay the new amount when you next apply. The one thing we'd do today is look up the expiry date on every ESTA in the family, because each person's clock runs on its own.
 
@@ -1461,7 +1461,7 @@ No. You can reapply at any time instead, and the new application replaces the ol
 
 ### What is the ESTA fee now?
 
-From 16 October 2026 the fee is US $40.62, up from US $40.27, according to the Federal Register notice. It's adjusted for inflation every year, and an already-approved ESTA doesn't need reapplying.
+From 16 October 2026 the fee is US $40.62, up from US $40.27, according to the Federal Register notice. It's adjusted for inflation every year, and you don't need to reapply for an already-approved ESTA.
 
 ## Related Articles
 
@@ -1611,8 +1611,6 @@ Source: https://traveldocumentvault.com/blog/how-to-organise-family-travel-docum
 
 ---
 
-![A tidy, evenly spaced row of different travel documents - a passport, an ID card, a visa page and a boarding pass - on a deep navy background](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/cover.jpg)
-
 ## Key Takeaways
 
 - Your family travel document checklist needs passports, visas, travel insurance, and vaccination records - and that's before you factor in documents specific to travelling with kids.
@@ -1620,6 +1618,8 @@ Source: https://traveldocumentvault.com/blog/how-to-organise-family-travel-docum
 - Digital backups won't get you through immigration, but they will save you hours at an embassy if something goes missing. Store them encrypted, not in your camera roll.
 - Tracking expiry dates before you book - not the week before you fly - is the single habit that prevents most travel document disasters.
 - A pre-trip checklist you run at booking time gives you enough runway to fix any problems before they become expensive ones.
+
+![A tidy, evenly spaced row of different travel documents - a passport, an ID card, a visa page and a boarding pass - on a deep navy background](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/cover.jpg)
 
 It's 11pm the night before a flight, and passports are out, the insurance printout is somewhere, but the vaccination certificate the destination actually requires has vanished into the house. That's the problem when you don't have a system for family travel documents: you run a different search every single time, and eventually something important doesn't turn up.
 
@@ -1654,7 +1654,7 @@ A child travel consent letter is a signed document from the absent parent (or le
 
 South Africa has its own rules for travelling with children, including an unabridged birth certificate, so check its Home Affairs guidance before you go.
 
-A valid consent letter should include: the child's full name and date of birth, both parents' names and contact details, the travelling parent's details, destination(s) and travel dates, and the signature of the absent parent (notarised copies are more convincing, though not always required). Keep a copy digital as well as physical.
+A valid consent letter should include: the child's full name and date of birth, both parents' names and contact details, the travelling parent's details, destination(s) and travel dates, and the signature of the absent parent (notarised copies are more convincing, though not always required). Keep a digital copy as well as a paper copy.
 
 **Other documents worth keeping accessible**
 
@@ -1927,8 +1927,6 @@ Source: https://traveldocumentvault.com/blog/international-driving-permit-validi
 
 ---
 
-![A family loading a hire car at the start of a road trip, a driving licence and International Driving Permit resting on the open map beside them](https://traveldocumentvault.com/blog/international-driving-permit-validity/cover.jpg)
-
 ## Key Takeaways
 
 - An IDP is **a translation of the licence you already hold**, so you carry both. Handing over the permit on its own proves nothing.
@@ -1937,11 +1935,13 @@ Source: https://traveldocumentvault.com/blog/international-driving-permit-validi
 - Countries ratified different conventions, so **a permit accepted in one country can be refused in the next**.
 - Passport, licence and permit run on **three separate clocks** that almost never line up.
 
+![A family loading a hire car at the start of a road trip, a driving licence and International Driving Permit resting on the open map beside them](https://traveldocumentvault.com/blog/international-driving-permit-validity/cover.jpg)
+
 An International Driving Permit is a translation of a licence, not a licence in its own right, and it runs on its own clock. Many are valid for twelve months from the date of issue, and none run longer than three years, so the one bought for a trip three summers ago has almost certainly run out. Hire desks in several countries ask for it before releasing a car.
 
 An IDP carries its own expiry date, and that date behaves differently depending on which international treaty your permit was issued under. Most drivers never discover there is more than one kind until theirs is turned down.
 
-## An IDP Translates Your Licence, It Doesn't Replace It
+## An IDP Translates Your Licence; It Doesn't Replace It
 
 An International Driving Permit is an official translation of the licence you already hold. It sets out your details in several languages so an officer who can't read your national licence can still work out what you're entitled to drive.
 
@@ -2042,7 +2042,7 @@ Official sources
 
 ### Do I need an International Driving Permit?
 
-It depends where you're driving and which licence you hold. Some countries accept your domestic licence on its own, others want an IDP alongside it. The country you're driving in sets the requirement, not the one that issued your licence, so check for your specific destination and nationality before you travel.
+It depends where you're driving and which licence you hold. Some countries accept your domestic licence on its own; others want an IDP alongside it. The country you're driving in sets the requirement, not the one that issued your licence, so check for your specific destination and nationality before you travel.
 
 ### How long is an International Driving Permit valid for?
 
@@ -2078,8 +2078,6 @@ Source: https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-goo
 
 ---
 
-![A passport on a deep navy background protected by a soft gold shield, suggesting private and secure document storage](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/cover.jpg)
-
 ## Key Takeaways
 
 - Storing a passport scan in Google Photos means your identity document lives on Google's servers, processed by their systems, and guarded only by your account security.
@@ -2087,6 +2085,8 @@ Source: https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-goo
 - Google's privacy policy says it uses automated systems to analyse your content to provide and improve its services, and a passport scan is stored like any other photo.
 - Better options exist: encrypted password managers, on-device encrypted apps, or client-side encrypted cloud storage, none of which dump your passport into a general photo library.
 - For most people, the real risk is weak account security, not Google itself: a reused password, a shared login, or someone else who already knows how to get in.
+
+![A passport on a deep navy background protected by a soft gold shield, suggesting private and secure document storage](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/cover.jpg)
 
 Plenty of people store passport scans in Google Photos without thinking twice: you need a copy, you take one, and it backs up automatically. The question of whether that's actually a smart move for your most sensitive identity document rarely comes up until something goes wrong.
 
@@ -2141,7 +2141,7 @@ The attacker now has your full legal name, date of birth, nationality, passport 
 
 ### iCloud Photos vs Google Photos: Is Apple Any Safer?
 
-iOS users often assume iCloud is meaningfully safer than Google Photos for storing passport scans. At a structural level, they're very similar. Both store your photos on cloud servers managed by the provider, both encrypt data in transit and at rest using their own managed keys. In both cases the provider holds the keys by default.
+iOS users often assume iCloud is meaningfully safer than Google Photos for storing passport scans. At a structural level, they're very similar. Both store your photos on cloud servers managed by the provider, and both encrypt data in transit and at rest using their own managed keys. In both cases the provider holds the keys by default.
 
 Apple's Advanced Data Protection (available in iOS 16.2+) does raise the bar: when enabled, it extends end-to-end encryption to iCloud Photos, meaning even Apple can't read your content. Still, it's not on by default, and most users don't know it exists.
 
@@ -2225,8 +2225,6 @@ Source: https://traveldocumentvault.com/blog/lost-passport-abroad/
 
 ---
 
-![A passport on a royal navy background with faint gold route lines and a small gold locator pin nearby, suggesting help finding your way home](https://traveldocumentvault.com/blog/lost-passport-abroad/cover.jpg)
-
 ## Key Takeaways
 
 - File a police report early - your insurer will usually want it, and some embassies ask for it too.
@@ -2234,6 +2232,8 @@ Source: https://traveldocumentvault.com/blog/lost-passport-abroad/
 - A copy of your passport details can help speed things up, though it can't be used as identification.
 - Some travel insurance policies cover passport replacement costs. Check yours, and keep the police report, which insurers often ask for.
 - The time to prepare is now, before anything goes wrong. A five-minute scan today could save days of stress abroad.
+
+![A passport on a royal navy background with faint gold route lines and a small gold locator pin nearby, suggesting help finding your way home](https://traveldocumentvault.com/blog/lost-passport-abroad/cover.jpg)
 
 People replace lost passports abroad every day, and embassies treat it as routine work rather than an emergency. The process has an order to it, and following that order is what turns a bad afternoon into a delay rather than a cancelled trip. Here is what to do, step by step.
 
@@ -2866,8 +2866,6 @@ Source: https://traveldocumentvault.com/blog/passport-name-change-after-marriage
 
 ---
 
-![Watercolour sketch of a family of three seen from behind at an airport window in morning light, one adult holding a gold passport](https://traveldocumentvault.com/blog/passport-name-change-after-marriage/cover.jpg)
-
 ## Key Takeaways
 
 - **Marrying alone changes nothing.** You need a new passport only if you start using a different name.
@@ -2875,6 +2873,8 @@ Source: https://traveldocumentvault.com/blog/passport-name-change-after-marriage
 - After the ceremony, send your **marriage or civil partnership certificate** with the application.
 - Applying before the ceremony gets you a **post-dated passport**, cancels your old one, and can complicate visas.
 - With a honeymoon close to the wedding, we'd travel in your current name and apply once you're home.
+
+![Watercolour sketch of a family of three seen from behind at an airport window in morning light, one adult holding a gold passport](https://traveldocumentvault.com/blog/passport-name-change-after-marriage/cover.jpg)
 
 Getting married changes nothing on a British passport by itself. HM Passport Office's own [caseworker guidance on name changes](https://www.gov.uk/government/publications/change-of-name-passport-applications-caseworker-guidance/names-change-of-name-passport-applications-accessible) says there is no legal basis for anyone to change their name because they've married, so the passport only needs to change when the name you use does. That leaves you a choice about when, and the timing turns out to matter more than the paperwork.
 
@@ -2896,7 +2896,7 @@ When the two don't line up, the trouble shows up at check-in rather than at the 
 
 Applying once you're married is the simpler route. [GOV.UK's marriage and civil partnership page](https://www.gov.uk/changing-passport-information/name-marriage-and-civil-partnership) asks you to send your marriage or civil partnership certificate when you apply for a passport in your new name, and says this includes double-barrelled names. Fill in and sign the application in the name you want printed on the passport, not the one you're replacing.
 
-HMPO defines a double-barrelled surname as two existing surnames joined with a space or a hyphen. Two surnames run together into a single word falls outside that definition, so if that's your plan, read the caseworker guidance before you send anything.
+HMPO defines a double-barrelled surname as two existing surnames joined with a space or a hyphen. Two surnames run together into a single word fall outside that definition, so if that's your plan, read the caseworker guidance before you send anything.
 
 The new passport is a different document in more ways than the name. It won't have the same number as your old one, and GOV.UK says time left on your old passport is not added to the new one. If your current passport has years left on it, that's the cost of switching now rather than at your next renewal.
 
@@ -2976,8 +2976,6 @@ Source: https://traveldocumentvault.com/blog/passport-photo-at-home/
 
 ---
 
-![father photographing his young son against a plain wall in window light, a printed sheet of passport photos on the table in front of them](https://traveldocumentvault.com/blog/passport-photo-at-home/cover.jpg)
-
 ## Key Takeaways
 
 - Use a plain, light background in your authority's required shade, neutral expression, and eyes open and looking straight ahead, with exceptions for young children
@@ -2985,6 +2983,8 @@ Source: https://traveldocumentvault.com/blog/passport-photo-at-home/
 - Natural window light works best - avoid harsh shadows and avoid using camera flash
 - Many authorities, including the UK's, ask you not to wear glasses unless you have to - check current requirements
 - Photos can be rejected for failing your authority's rules on lighting, size, expression, clarity or background
+
+![father photographing his young son against a plain wall in window light, a printed sheet of passport photos on the table in front of them](https://traveldocumentvault.com/blog/passport-photo-at-home/cover.jpg)
 
 GOV.UK says booth or shop photos are more likely to be approved than own-device photos. Photos can be rejected for failing your authority's rules on lighting, size, expression, clarity or background.
 
@@ -3108,23 +3108,23 @@ Official sources
 
 ## Frequently Asked Questions
 
-### Can I take a passport photo on my smartphone
+### Can I take a passport photo on my smartphone?
 
 GOV.UK generally allows own-device digital passport photos, while Canada generally requires a commercial photographer. Position yourself in front of a plain, light background in the shade your passport authority asks for, with good natural light, and ensure the photo meets your country's size and quality requirements. GOV.UK tells applicants not to crop own-device digital photos.
 
-### What size should a passport photo be
+### What size should a passport photo be?
 
 Printed sizes vary by authority. The UK uses 35mm x 45mm and the Government of Canada uses 50mm x 70mm. Other countries set their own sizes, so take yours from your own passport authority. Digital submissions have separate pixel minimums. Requirements are enforced strictly and get revised, so confirm the exact spec with your own passport authority before you print or upload.
 
-### Why was my passport photo rejected
+### Why was my passport photo rejected?
 
 Photos can be rejected for failing your authority's rules on lighting, size, expression, clarity or background. Glasses rules depend on the authority. Ensure your photo meets all official requirements before submission. Review the specific feedback from your passport authority and retake the photo addressing each issue mentioned.
 
-### Do I need special lighting for a passport photo
+### Do I need special lighting for a passport photo?
 
 Natural light from a window is ideal for passport photos. Avoid harsh shadows on your face and do not use harsh camera flash. Position yourself facing the light source directly or perpendicular to a window so the light falls evenly across your face. Overcast days provide ideal diffused light without harsh shadows.
 
-### Can I wear glasses in a passport photo
+### Can I wear glasses in a passport photo?
 
 It depends on the authority. GOV.UK tells UK applicants not to wear glasses unless they have to, while the Government of Canada accepts them if your eyes are clearly visible and there's no glare on the lenses. Sunglasses and tinted lenses are generally refused. Check your country's current requirements before taking your photo, as rules have evolved in recent years. When in doubt, take both a photo with and without glasses to have options.
 
@@ -3148,8 +3148,6 @@ Source: https://traveldocumentvault.com/blog/proof-of-onward-travel/
 
 ---
 
-![A parent and child at an airport window holding a passport with a travel ticket tucked inside, looking out at an aircraft before a trip](https://traveldocumentvault.com/blog/proof-of-onward-travel/cover.jpg)
-
 ## Key Takeaways
 
 - **Proof of onward travel usually means a booked ticket out of the country you're flying to,** either home or on to a country you're allowed to enter.
@@ -3157,6 +3155,8 @@ Source: https://traveldocumentvault.com/blog/proof-of-onward-travel/
 - Some destinations write onward travel into their entry rules for visitors, so an airline asking is often applying the destination's rule early.
 - A hotel booking or a bank statement answers different questions, where you'll stay and how you'll support yourself, and typically doesn't stand in for a ticket out.
 - Keep the confirmation somewhere you can open it at the desk without signal or a login.
+
+![A parent and child at an airport window holding a passport with a travel ticket tucked inside, looking out at an aircraft before a trip](https://traveldocumentvault.com/blog/proof-of-onward-travel/cover.jpg)
 
 In most cases, proof of onward travel is a booked ticket out of the country you're flying to. A return flight home counts, and so does a ticket on to a third country you're allowed to enter. If you already hold one of those, you have what's usually being asked for.
 
@@ -3844,8 +3844,6 @@ Source: https://traveldocumentvault.com/blog/transit-visa-connecting-flights/
 
 ---
 
-![A family group in an airport terminal reviewing travel documents before boarding a connecting flight](https://traveldocumentvault.com/blog/transit-visa-connecting-flights/cover.jpg)
-
 ## Key Takeaways
 
 - **Not every connecting flight requires a transit visa.** Many depend on whether you stay airside (in the international transit zone) or leave the airport.
@@ -3854,6 +3852,8 @@ Source: https://traveldocumentvault.com/blog/transit-visa-connecting-flights/
 - **Airside-only layovers are often visa-free**, while layovers where you leave the airport or pass through immigration often need a visa, depending on your nationality.
 - If you realise you need a transit visa after booking, contact your airline immediately - processing times vary widely and you may need to rebook.
 - **Store and track every document** - your transit visa has its own expiry date separate from your passport and main entry visa.
+
+![A family group in an airport terminal reviewing travel documents before boarding a connecting flight](https://traveldocumentvault.com/blog/transit-visa-connecting-flights/cover.jpg)
 
 Whether a connecting flight requires a transit visa depends on three things: which passport you hold, which country your plane lands in, and whether you leave the airport or stay in the international transit zone. Most layovers need no transit visa at all. But the requirement, where it exists, is firm - and airlines generally check before you board.
 
@@ -3897,7 +3897,7 @@ It happens more often than you would think: you book the flights, then realise t
 
 Start with your airline, since they may know about processing times and sometimes have experience with common routes. Then contact the nearest embassy or consulate of the transit country to find out how long the visa itself will take. Some consulates offer expedited processing, so ask.
 
-If processing time is impossible before your departure date, you have three options: rebook your flights to avoid the transit country entirely, rebook through a different hub, or delay your trip. Trying to board without the required visa will result in missed flights and potential complications with your airline, so book the new routing the moment you spot the problem, rather than wait and hope the paperwork clears in time.
+If the visa cannot be processed before your departure date, you have three options: rebook your flights to avoid the transit country entirely, rebook through a different hub, or delay your trip. Trying to board without the required visa will result in missed flights and potential complications with your airline, so book the new routing the moment you spot the problem, rather than wait and hope the paperwork clears in time.
 
 ## How to Check Before You Book
 
@@ -3971,8 +3971,6 @@ Source: https://traveldocumentvault.com/blog/travel-document-checklist/
 
 ---
 
-![A passport and travel cards bound together by a slim gold band on a royal navy background, everything gathered for the trip](https://traveldocumentvault.com/blog/travel-document-checklist/cover.jpg)
-
 ## Key Takeaways
 
 - The most useful travel document checklist is organised by **when you need to act** - not by document type. Sorting by stage means you catch problems while there's still time to fix them.
@@ -3980,6 +3978,8 @@ Source: https://traveldocumentvault.com/blog/travel-document-checklist/
 - Family travel adds a separate layer: every child needs their documents checked individually, and a parental consent letter may be needed if one parent isn't travelling.
 - Business travellers often carry multiple passports and work visas - these need their own tracking, separate from personal documents.
 - A digital backup of every document (encrypted, not in your photo library) could get you home faster if something goes wrong abroad.
+
+![A passport and travel cards bound together by a slim gold band on a royal navy background, everything gathered for the trip](https://traveldocumentvault.com/blog/travel-document-checklist/cover.jpg)
 
 Most travel document checklists are just a flat list: passport, visa, insurance. They tell you what to bring, but not when to check it, which is where people get caught out. The family who realise at check-in that one passport expires in five months, the solo traveller who booked without noticing their visa requirement, or the business traveller who forgot which passport their visa is tied to - these aren't edge cases, they're the norm.
 
@@ -4105,7 +4105,7 @@ Check at booking time - before you pay. Passport validity, visa requirements, an
 
 ### Does every family member need their own travel document checklist?
 
-Yes. Each person's passport expiry, visa requirements, and insurance coverage is assessed individually. One family member's documents can be in perfect order while another's fall short. Run the checklist for each person separately - this is where families most often get caught out.
+Yes. Each person's passport expiry, visa requirements, and insurance coverage are assessed individually. One family member's documents can be in perfect order while another's fall short. Run the checklist for each person separately - this is where families most often get caught out.
 
 ### What is a child travel consent letter and do I need one?
 
@@ -4300,8 +4300,6 @@ Source: https://traveldocumentvault.com/blog/travel-insurance-documents/
 
 ---
 
-![a parent and sleepy child sit in a quiet clinic waiting room at night, the parent calmly reading their insurance policy on a glowing phone screen](https://traveldocumentvault.com/blog/travel-insurance-documents/cover.jpg)
-
 ## Key Takeaways
 
 - **Save your full policy documents, policy number and emergency assistance number** (not the sales number).
@@ -4309,6 +4307,8 @@ Source: https://traveldocumentvault.com/blog/travel-insurance-documents/
 - **Check when your insurer requires contact before treatment**; get emergency medical help first and contact the insurer as soon as possible.
 - Keep receipts and reports, and ask your insurer which documents it needs for a claim.
 - Read your policy's key sections quickly by focusing on coverage limits, exclusions, and conditions.
+
+![a parent and sleepy child sit in a quiet clinic waiting room at night, the parent calmly reading their insurance policy on a glowing phone screen](https://traveldocumentvault.com/blog/travel-insurance-documents/cover.jpg)
 
 We'd save your travel insurance documents offline and pack a paper backup before leaving, with your policy number, proof of cover and emergency assistance number together. Here we'll cover what to save, testing offline access and reading claim instructions, including finding out when the assistance line is open.
 
@@ -4638,8 +4638,6 @@ Source: https://traveldocumentvault.com/blog/travelling-child-without-both-paren
 
 ---
 
-![Hand-drawn sketch of a parent and child seen from behind at an airport concourse, the parent holding a small fan of two passports and a folded document at chest height](https://traveldocumentvault.com/blog/travelling-child-without-both-parents/cover.jpg)
-
 ## Key Takeaways
 
 - **Check-in staff and border officers check different things.** Satisfying one does not bind the other, at arrival or on the way out.
@@ -4648,7 +4646,9 @@ Source: https://traveldocumentvault.com/blog/travelling-child-without-both-paren
 - Other parent has died: if you have sole decision-making responsibility, Canadian guidance recommends a **copy of the death certificate**.
 - Different surname: the child's **full birth certificate** shows your relationship, plus a marriage or divorce certificate if your own name has changed.
 
-Airline check-in staff and border officers look twice at a child travelling without both parents, and that second look is routine child-protection screening, not suspicion of anyone in particular. Which paperwork that is depends on why the other parent is absent: still at home, no longer sharing custody, or no longer alive. Each can call for supporting documents, and a consent letter may still be recommended alongside a custody order.
+![Hand-drawn sketch of a parent and child seen from behind at an airport concourse, the parent holding a small fan of two passports and a folded document at chest height](https://traveldocumentvault.com/blog/travelling-child-without-both-parents/cover.jpg)
+
+Airline check-in staff and border officers look twice at a child travelling without both parents, and that second look is routine child-protection screening, not suspicion of anyone in particular. The paperwork you need depends on why the other parent is absent: still at home, no longer sharing custody, or no longer alive. Each can call for supporting documents, and a consent letter may still be recommended alongside a custody order.
 
 ## The Airline Desk and the Border Check Different Things
 
@@ -4668,7 +4668,7 @@ Two things sit outside that letter and are worth carrying alongside it. Pack you
 
 Sole custody does not automatically remove the need for consent. Canadian guidance recommends a consent letter whenever possible or safe, even when a parenting order lets one parent make travel decisions alone. If the order leaves the other parent with contact or access rights, a letter from them is still worth carrying.
 
-Travel with the order, or a certified copy of it, since it does no good in a filing cabinet at home. Officers who ask are usually looking for a plain answer to one question: does this adult have the legal standing to make this decision for this child. If your custody arrangement changed recently, we'd carry the latest order.
+Travel with the order, or a certified copy of it, since it does no good in a filing cabinet at home. Officers who ask are usually looking for a plain answer to one question: does this adult have the legal standing to make this decision for this child? If your custody arrangement changed recently, we'd carry the latest order.
 
 ## When the Other Parent Has Died: Carry the Death Certificate
 
@@ -4767,8 +4767,6 @@ Source: https://traveldocumentvault.com/blog/tripcase-alternative/
 
 ---
 
-![A neat stack of cream travel documents with a passport on top, bound by a single thin gold thread, on a royal navy background](https://traveldocumentvault.com/blog/tripcase-alternative/cover.jpg)
-
 ## Key Takeaways
 
 - **TripCase shut down on 1 April 2025** and Sabre's notice gave users until 30 June 2025 to download their trips before the remaining data was removed.
@@ -4776,6 +4774,8 @@ Source: https://traveldocumentvault.com/blog/tripcase-alternative/
 - **No single app replaces TripCase.** Flight alerts, itinerary parsing, and document storage now live in different tools.
 - The real lesson: a free cloud service keeps **your data on borrowed time**. It can vanish with a few months' notice.
 - Travel documents belong **offline, on your device** - somewhere no company decision, outage, or shutdown can reach them.
+
+![A neat stack of cream travel documents with a passport on top, bound by a single thin gold thread, on a royal navy background](https://traveldocumentvault.com/blog/tripcase-alternative/cover.jpg)
 
 TripCase spent years as the quiet workhorse of travel apps. Forward a confirmation email and your trip built itself; the app pinged you about gate changes before some airlines did; and its Document Vault kept passports, visas and boarding passes in one place. Then, on 1 April 2025, Sabre shut it down, and Sabre's notice, as reported at the time, gave users until 30 June 2025 to download their trips before the remaining data was removed.
 
@@ -4885,8 +4885,6 @@ Source: https://traveldocumentvault.com/blog/uk-brp-expired-evisa-deadline/
 
 ---
 
-![A parent and two children at a sunlit window, her hand resting on a small stack of passports on the window sill](https://traveldocumentvault.com/blog/uk-brp-expired-evisa-deadline/cover.jpg)
-
 ## Key Takeaways
 
 - Most people with an expired BRP only need to **create a UKVI account**, and the card can still help you do it for a while.
@@ -4894,6 +4892,8 @@ Source: https://traveldocumentvault.com/blog/uk-brp-expired-evisa-deadline/
 - No usable card? A valid passport plus your visa application number or BRP number also gets you in.
 - Each child needs **their own account**, which a parent can run with their own phone and email.
 - To travel, the passport you fly on has to be on your UKVI account, with details that match your booking.
+
+![A parent and two children at a sunlit window, her hand resting on a small stack of passports on the window sill](https://traveldocumentvault.com/blog/uk-brp-expired-evisa-deadline/cover.jpg)
 
 If you hold an expired Biometric Residence Permit and still have permission to stay, GOV.UK asks you to create a UK Visas and Immigration (UKVI) account, using the card to prove who you are. It's a single sitting, and the expired card still works for that, at least for a while. Your immigration status hasn't changed. What has changed is where it lives.
 
@@ -4999,8 +4999,6 @@ Source: https://traveldocumentvault.com/blog/uk-eta-passport-rules/
 
 ---
 
-![A parent and child seen from behind at a bright airport window, the parent holding up two passport booklets with the front one edge-lit in gold, an aircraft at the gate beyond](https://traveldocumentvault.com/blog/uk-eta-passport-rules/cover.jpg)
-
 ## Key Takeaways
 
 - **A UK ETA is tied to your passport number.** When you renew your passport and get a new number, your old ETA becomes invalid.
@@ -5008,6 +5006,8 @@ Source: https://traveldocumentvault.com/blog/uk-eta-passport-rules/
 - **Every person needs their own ETA** - including children and babies. There is no family ETA. Each person needs their own, though you can apply on behalf of family members.
 - The Home Office recommends applying **at least 3 working days ahead.** This is a recommendation, not a processing guarantee.
 - An ETA is **permission to travel, not entry.** Border officers can refuse entry even with a valid ETA.
+
+![A parent and child seen from behind at a bright airport window, the parent holding up two passport booklets with the front one edge-lit in gold, an aircraft at the gate beyond](https://traveldocumentvault.com/blog/uk-eta-passport-rules/cover.jpg)
 
 The UK ETA system is straightforward on the surface: you apply, you pay, you travel. There's one rule underneath that, though, and it isn't obvious until it matters: your ETA is tied to the specific passport number on your application. When you renew that passport and receive a new passport number, your ETA stops being valid. You will need to apply again on your new passport before your trip.
 
@@ -5137,8 +5137,6 @@ Source: https://traveldocumentvault.com/blog/us-child-passport-renewal-under-16/
 
 ---
 
-![Two parents and a child seen from behind, walking hand in hand toward an open doorway, one parent holding the child's passport](https://traveldocumentvault.com/blog/us-child-passport-renewal-under-16/cover.jpg)
-
 ## Key Takeaways
 
 - A US child's passport issued before age 16 **cannot be renewed** - you apply for a new one instead.
@@ -5147,6 +5145,8 @@ Source: https://traveldocumentvault.com/blog/us-child-passport-renewal-under-16/
 - Both parents must take part unless one gives **notarised written consent** or there's proof of sole authority.
 - At age 16 or 17, a teen applies in person and can sign their own application, but a parent may still need to provide consent.
 - A passport issued at 16 or older is valid for ten years and can generally be renewed like an adult's.
+
+![Two parents and a child seen from behind, walking hand in hand toward an open doorway, one parent holding the child's passport](https://traveldocumentvault.com/blog/us-child-passport-renewal-under-16/cover.jpg)
 
 A US passport issued to a child under 16 can't be renewed. When it runs out, you apply for a new one in person, the same way you did the first time, and both parents take part again. It's more paperwork than an adult renewal, but none of it is new if you've done it once.
 
@@ -5248,8 +5248,6 @@ Source: https://traveldocumentvault.com/blog/visa-expiry-tracker-app/
 
 ---
 
-![A visa document on a royal navy background with a soft gold arc tracking its validity window](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/cover.jpg)
-
 ## Key Takeaways
 
 - Visa expiry tracking is **more complex** than passport tracking - a visa has an entry validity date, a maximum stay duration, and sometimes entry count limits, all of which need separate monitoring.
@@ -5257,6 +5255,8 @@ Source: https://traveldocumentvault.com/blog/visa-expiry-tracker-app/
 - The best visa expiry tracker apps work offline, support multiple visa types, and allow custom reminder timings per document.
 - Schengen Area visitors must track a rolling 90/180-day window, not just a single expiry date, because the count rolls with your actual travel history, not the calendar.
 - Tracking visas and passports together in one place reduces the risk of a mismatch: entering on a valid visa but with a passport that expires before your planned stay ends.
+
+![A visa document on a royal navy background with a soft gold arc tracking its validity window](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/cover.jpg)
 
 A visa overstay is one of the most consequential travel mistakes a person can make. Unlike a missed flight, which is stressful but ultimately fixable, an overstay creates a formal immigration record that can follow you for years. In the United States, under section 212(a)(9)(B) of the [US Immigration and Nationality Act](https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chap12-subchapII-partII-sec1182.htm), someone who is unlawfully present for more than 180 days but less than a year and then leaves is generally barred from returning for three years, and one year or more of unlawful presence generally means a ten-year bar. These consequences are not widely known.
 
@@ -5737,7 +5737,7 @@ That pit-in-your-stomach moment - realising you nearly wrecked a family trip wit
 
 If you're the person in your family who manages documents, you already know this feeling.
 
-You're not just storing files. You carry an invisible checklist in your head: which passports expire when, who needs what for school enrolment, which countries have the six-month rule, whether the travel insurance actually got renewed or just meant to be.
+You're not just storing files. You carry an invisible checklist in your head: which passports expire when, who needs what for school enrolment, which countries have the six-month rule, whether the travel insurance actually got renewed or you just meant to renew it.
 
 No single check takes that long. Finding a passport scan, reading the expiry date, checking it clears your trip by six months - maybe two or three minutes. But multiply that by four family members, add the insurance policy buried in email, the driver's licence you're not sure is still current, and you've burned fifteen or twenty minutes at 11pm the night before a flight.
 
@@ -5751,7 +5751,7 @@ I didn't want to build a travel app. I wanted to stop carrying this in my head.
 
 I tried everything before building this.
 
-I tried cloud storage - great for files, useless for tracking expiry dates, because I still had to open every document and do the mental math myself.
+I tried cloud storage - great for files, useless for tracking expiry dates, because I still had to open every document and do the mental maths myself.
 
 I tried calendar reminders too - set a notification six months before each passport expired, but the scans lived in one place and the reminders in another, so when I needed to check something at 11pm before booking a flight, I was bouncing between three apps trying to piece it all together.
 

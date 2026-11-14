@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/de/blog/travelling-child-without-both-pa
 
 ---
 
-![Handgezeichnete Skizze eines Elternteils und eines Kindes von hinten in einer Flughafenhalle, der Elternteil hält einen kleinen Fächer aus zwei Reisepässen und ein gefaltetes Dokument in Brusthöhe](https://traveldocumentvault.com/blog/travelling-child-without-both-parents/cover.jpg)
-
 ## Wichtigste Erkenntnisse
 
 - **Check-in-Personal und Grenzbeamte prüfen unterschiedliche Dinge.** Die Erfüllung der einen Prüfung bindet die andere nicht, weder bei der Einreise noch bei der Ausreise.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/de/blog/travelling-child-without-both-pa
 - Alleiniges Sorgerecht: Nehmen Sie den **Sorgerechtsbeschluss oder Gerichtsbeschluss** und gegebenenfalls nötige Zustimmungen weiterer Sorgeberechtigter mit.
 - Der andere Elternteil ist verstorben: Wenn Sie allein entscheidungsbefugt sind, empfehlen die kanadischen Hinweise eine **Kopie der Sterbeurkunde**.
 - Unterschiedlicher Nachname: Die **vollständige Geburtsurkunde** des Kindes belegt Ihre Beziehung zum Kind, plus eine Heirats- oder Scheidungsurkunde, falls sich Ihr eigener Name geändert hat.
+
+![Handgezeichnete Skizze eines Elternteils und eines Kindes von hinten in einer Flughafenhalle, der Elternteil hält einen kleinen Fächer aus zwei Reisepässen und ein gefaltetes Dokument in Brusthöhe](https://traveldocumentvault.com/blog/travelling-child-without-both-parents/cover.jpg)
 
 Check-in-Personal von Fluggesellschaften und Grenzbeamte schauen bei einem Kind, das ohne beide Elternteile reist, zweimal hin, und dieser zweite Blick ist routinemäßiger Kinderschutz, keine Verdächtigung gegen irgendjemanden im Besonderen. Welche Unterlagen das sind, hängt davon ab, warum der andere Elternteil fehlt: noch zu Hause, nicht mehr sorgeberechtigt, oder nicht mehr am Leben. Jede dieser Situationen kann zusätzliche Unterlagen erfordern, und eine Einverständniserklärung kann auch neben einem Sorgerechtsbeschluss empfohlen sein.
 

@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/da/blog/transit-visa-connecting-flights/
 
 ---
 
-![En familie i en lufthavnsterminal, der tjekker rejsedokumenter, før de går ombord på deres næste fly](https://traveldocumentvault.com/blog/transit-visa-connecting-flights/cover.jpg)
-
 ## Vigtigste punkter
 
 - **Ikke alle mellemlandinger kræver transitvisum.** Det afhænger ofte af, om du holder dig airside (i den internationale transitzone) eller forlader lufthavnen.
@@ -16,6 +14,8 @@ Source: https://traveldocumentvault.com/da/blog/transit-visa-connecting-flights/
 - **Rene airside-mellemlandinger er ofte visumfri**, mens mellemlandinger, hvor du forlader lufthavnen eller passerer paskontrol, ofte kræver visum, afhængigt af din nationalitet.
 - Opdager du efter booking, at du mangler et transitvisum, skal du kontakte dit flyselskab med det samme – behandlingstiderne varierer meget, og du kan blive nødt til at omlægge rejsen.
 - **Opbevar og hold styr på alle dokumenter** – dit transitvisum har sin egen udløbsdato, adskilt fra dit pas og dit primære indrejsevisum.
+
+![En familie i en lufthavnsterminal, der tjekker rejsedokumenter, før de går ombord på deres næste fly](https://traveldocumentvault.com/blog/transit-visa-connecting-flights/cover.jpg)
 
 Om en mellemlanding kræver transitvisum, afhænger af tre ting: hvilket pas du har, hvilket land flyet lander i, og om du forlader lufthavnen eller bliver i den internationale transitzone. De fleste mellemlandinger kræver slet ikke transitvisum. Men findes kravet, er det ufravigeligt – og flyselskaberne tjekker det som regel, før du går om bord.
 

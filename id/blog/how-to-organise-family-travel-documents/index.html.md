@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/id/blog/how-to-organise-family-travel-do
 
 ---
 
-![Deretan rapi berbagai dokumen perjalanan - paspor, kartu identitas, halaman visa, dan boarding pass - tersusun merata dengan latar belakang biru laut tua](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/cover.jpg)
-
 ## Poin Penting
 
 - Daftar periksa dokumen perjalanan keluarga membutuhkan paspor, visa, asuransi perjalanan, dan catatan vaksinasi, dan itu belum termasuk dokumen khusus untuk perjalanan bersama anak.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/id/blog/how-to-organise-family-travel-do
 - Cadangan digital tidak akan membawa Anda melewati imigrasi, tapi bisa menghemat waktu berjam-jam di kedutaan jika sesuatu hilang. Simpan dalam bentuk terenkripsi, bukan di galeri kamera.
 - Melacak tanggal kedaluwarsa sebelum memesan, bukan seminggu sebelum berangkat, adalah satu kebiasaan yang mencegah sebagian besar bencana dokumen perjalanan.
 - Daftar periksa sebelum perjalanan yang Anda jalankan saat memesan memberi cukup waktu untuk memperbaiki masalah sebelum menjadi mahal.
+
+![Deretan rapi berbagai dokumen perjalanan - paspor, kartu identitas, halaman visa, dan boarding pass - tersusun merata dengan latar belakang biru laut tua](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/cover.jpg)
 
 Pukul 11 malam sebelum penerbangan, paspor sudah dikeluarkan, cetakan bukti asuransi ada di suatu tempat, tapi sertifikat vaksinasi, yang benar-benar disyaratkan destinasi, hilang entah di mana di dalam rumah. Itulah masalahnya jika Anda tidak punya sistem untuk dokumen perjalanan keluarga: Anda mencari dengan cara berbeda setiap kali, dan akhirnya ada sesuatu yang penting tidak ditemukan.
 

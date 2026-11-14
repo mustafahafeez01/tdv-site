@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/pt/blog/tripcase-alternative/
 
 ---
 
-![Uma pilha organizada de documentos de viagem cor creme com um passaporte no topo, presos por um único fio dourado fino, num fundo azul-marinho real](https://traveldocumentvault.com/blog/tripcase-alternative/cover.jpg)
-
 ## Principais Conclusões
 
 - **O TripCase encerrou em 1 de abril de 2025** e o aviso da Sabre deu aos utilizadores até 30 de junho de 2025 para descarregar as viagens antes da remoção dos dados restantes.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/pt/blog/tripcase-alternative/
 - **Nenhuma app única substitui o TripCase.** Alertas de voos, análise de itinerários e armazenamento de documentos vivem agora em ferramentas diferentes.
 - A lição verdadeira: um serviço de nuvem gratuito mantém **os seus dados em tempo emprestado**. Pode desaparecer com alguns meses de aviso.
 - Os documentos de viagem devem estar **offline, no seu dispositivo** — num local onde nenhuma decisão da empresa, falha ou encerramento consegue chegar.
+
+![Uma pilha organizada de documentos de viagem cor creme com um passaporte no topo, presos por um único fio dourado fino, num fundo azul-marinho real](https://traveldocumentvault.com/blog/tripcase-alternative/cover.jpg)
 
 O TripCase passou anos como o cavalo de trabalho silencioso das apps de viagem. Encaminhe um email de confirmação e a sua viagem construía-se a si própria; a app avisava-o sobre mudanças de porta de embarque antes de algumas companhias aéreas; e o seu Document Vault guardava passaportes, vistos e cartões de embarque num só lugar. Depois, em 1 de abril de 2025, a Sabre encerrou, e o aviso da Sabre, segundo as notícias da altura, deu aos utilizadores até 30 de junho de 2025 para descarregar as viagens antes da remoção dos dados restantes.
 

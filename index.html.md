@@ -6,7 +6,9 @@ Source: https://traveldocumentvault.com/
 
 ---
 
-09:41
+The app encrypts your documents on your phone. Pro includes optional encrypted cloud backup.
+
+[How your documents are protected](https://traveldocumentvault.com/privacy-verification/) 09:41
 
 ## The trip you take before the trip
 
@@ -262,7 +264,7 @@ Restore purchases anytime with the App Store or Google Play account you bought w
 
 Is it really private? Yes. By default, everything is stored on your device only. We have no servers that store your documents and no access to them. If you turn on optional backup (Pro), your encrypted vault is stored in your own iCloud or Google Drive, sealed with a recovery code only you hold. We still cannot read it. Neither can Apple or Google. Don't take our word for it - [verify it yourself](https://traveldocumentvault.com/privacy-verification/). What if I lose my phone? Your vault is encrypted on your device. The local key stays in secure storage and is excluded from ordinary phone backups. A vault export includes a password-encrypted copy of that key. A regular phone backup reinstalls the app but cannot restore your documents. Pro cloud backup restores with your recovery code on a supported phone on the same platform, using the same cloud account. Or use the free vault export and import. Restoring or importing replaces the local vault. Can I sync between devices? Yes, between devices on the same platform. With Pro, turn on Cloud Backup to sync your encrypted vault through your own iCloud (iPhone) or Google Drive (Android). Moving between iPhone and Android? Use the free vault export and import. You hold the recovery code. We never access your data. What is the trip planner? The trip planner (Pro) groups family documents by trip and shows a readiness traffic light - green when configured document checks pass, amber when a linked document needs review. Plan trips together with confidence. [See all privacy and data answers](https://traveldocumentvault.com/faq/)
 
-**Important:** Travel Document Vault is a personal organization tool for storing digital copies of your documents. **Digital copies stored in this app are NOT valid for travel.** It does not verify document authenticity or provide legal or travel advice. Always carry original documents and verify all travel requirements with official government sources.
+**Important:** Travel Document Vault is a personal organisation tool for storing digital copies of your documents. **Digital copies stored in this app are NOT valid for travel.** It does not verify document authenticity or provide legal or travel advice. Always carry original documents and verify all travel requirements with official government sources.
 
 ## Set It Up Tonight
 

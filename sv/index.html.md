@@ -6,7 +6,9 @@ Source: https://traveldocumentvault.com/sv/
 
 ---
 
-09:41
+Appen krypterar dina dokument på din telefon. Pro inkluderar krypterad säkerhetskopiering i molnet som du kan aktivera om du vill.
+
+[Så skyddas dina dokument](https://traveldocumentvault.com/sv/privacy-verification/) 09:41
 
 ## Resan du gör innan resan
 

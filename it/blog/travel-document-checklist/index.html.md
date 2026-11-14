@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/it/blog/travel-document-checklist/
 
 ---
 
-![Un passaporto e carte di viaggio legati insieme da una sottile banda d'oro su uno sfondo blu navy, tutto pronto per il viaggio](https://traveldocumentvault.com/blog/travel-document-checklist/cover.jpg)
-
 ## Punti Chiave
 
 - L'elenco di controllo dei documenti di viaggio più utile è organizzato per **quando devi agire**, non per tipo di documento. Ordinarlo per fase ti fa scoprire i problemi quando c'è ancora tempo per risolverli.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/it/blog/travel-document-checklist/
 - I viaggi in famiglia aggiungono un livello separato: i documenti di ogni figlio vanno controllati uno per uno, e può servire una lettera di consenso dei genitori se uno dei due non viaggia.
 - I viaggiatori d'affari spesso portano più passaporti e visti di lavoro — vanno seguiti a parte, separati dai documenti personali.
 - Una copia di backup digitale di ogni documento (crittografata, non nella tua libreria fotografica) potrebbe farti tornare a casa più in fretta se qualcosa va storto all'estero.
+
+![Un passaporto e carte di viaggio legati insieme da una sottile banda d'oro su uno sfondo blu navy, tutto pronto per il viaggio](https://traveldocumentvault.com/blog/travel-document-checklist/cover.jpg)
 
 La maggior parte degli elenchi dei documenti di viaggio è solo una lista piatta: passaporto, visto, assicurazione. Ti dicono cosa portare, ma non quando controllarlo, ed è qui che le persone restano sorprese. La famiglia che al check-in si accorge che un passaporto scade tra cinque mesi, chi viaggia da solo e ha prenotato senza notare il requisito di visto, il viaggiatore d'affari che ha dimenticato a quale passaporto è legato il visto: non sono casi limite, sono la norma.
 

@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/es/blog/visa-expiry-tracker-app/
 
 ---
 
-![Un documento de visado sobre un fondo azul marino real con un arco dorado suave que rastrea su ventana de validez](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/cover.jpg)
-
 ## Puntos Clave
 
 - El seguimiento de visados es **más complejo** que el seguimiento de pasaportes —un visado tiene una fecha de validez de entrada, una duración máxima de estancia, y a veces límites de número de entradas, todo lo cual necesita supervisión separada.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/es/blog/visa-expiry-tracker-app/
 - Las mejores aplicaciones rastreadoras de visados funcionan sin conexión, admiten múltiples tipos de visados, y permiten tiempos de recordatorio personalizados por documento.
 - Los visitantes del Área de Schengen deben rastrear una ventana móvil de 90/180 días, no solo una única fecha de vencimiento, porque el cómputo avanza con tu historial real de viajes, no con el calendario.
 - Rastrear visados y pasaportes juntos en un mismo lugar reduce el riesgo de un desajuste: entrar con un visado válido pero con un pasaporte que vence antes de que termine tu estancia planeada.
+
+![Un documento de visado sobre un fondo azul marino real con un arco dorado suave que rastrea su ventana de validez](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/cover.jpg)
 
 Excederse en el tiempo permitido de un visado es uno de los errores de viaje más significativos que una persona puede cometer. A diferencia de un vuelo perdido —estresante pero en última instancia soluciona— un exceso crea un registro formal de inmigración que puede seguirte durante años. En Estados Unidos, según la sección 212(a)(9)(B) de la [Immigration and Nationality Act](https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chap12-subchapII-partII-sec1182.htm), quien permanece de forma ilegal más de 180 días pero menos de un año y luego sale del país suele tener prohibido volver durante tres años, y un año o más de presencia ilegal suele implicar una prohibición de diez años. Estas consecuencias no son ampliamente conocidas.
 

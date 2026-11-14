@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/sv/blog/etias-documents-2026/
 
 ---
 
-![Ett pass mot en marinblå bakgrund med en lös båge av guldstjärnor och svaga prickade ruttlinjer, som för tankarna till Europaresor](https://traveldocumentvault.com/blog/etias-documents-2026/cover.jpg)
-
 ## Viktiga punkter
 
 - **ETIAS är ett digitalt resetillstånd** för resenärer från Storbritannien, USA och Kanada – som krävs för viseringsfri inresa till Schengenområdet när det blir obligatoriskt
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/sv/blog/etias-documents-2026/
 - Handläggningstiden varierar, särskilt strax efter lanseringen; **ansök god tid före resan** och kontrollera EU:s officiella webbplats för aktuell information
 - Kontrollera [EU:s officiella webbplats](https://home-affairs.ec.europa.eu/news/european-travel-authorisation-etias-will-cost-eur-20-2025-07-17_en) för aktuell avgift; **personer under 18 och över 70 år betalar inget** men behöver ändå tillstånd
 - **Tveksamheter kring hur tillförlitliga dina svar är kan leda till avslag, så uppge allt, även om det är gammalt**
+
+![Ett pass mot en marinblå bakgrund med en lös båge av guldstjärnor och svaga prickade ruttlinjer, som för tankarna till Europaresor](https://traveldocumentvault.com/blog/etias-documents-2026/cover.jpg)
 
 Du har bokat en familjeresa till Italien och har hört att ETIAS är på väg – ett nytt krav på digitalt tillstånd för viseringsfria besökare som reser till Europa. Den här guiden går igenom vad ETIAS är, vilka handlingar du behöver och hur ansökan fungerar, så att du är förberedd innan du når formuläret.
 

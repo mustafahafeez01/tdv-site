@@ -6,7 +6,9 @@ Source: https://traveldocumentvault.com/de/
 
 ---
 
-09:41
+Die App verschlüsselt Ihre Dokumente auf Ihrem Telefon. Pro enthält ein verschlüsseltes Cloud-Backup, das Sie auf Wunsch aktivieren können.
+
+[So werden Ihre Dokumente geschützt](https://traveldocumentvault.com/de/privacy-verification/) 09:41
 
 ## Die Reise vor der Reise
 

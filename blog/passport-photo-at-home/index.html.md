@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/blog/passport-photo-at-home/
 
 ---
 
-![father photographing his young son against a plain wall in window light, a printed sheet of passport photos on the table in front of them](https://traveldocumentvault.com/blog/passport-photo-at-home/cover.jpg)
-
 ## Key Takeaways
 
 - Use a plain, light background in your authority's required shade, neutral expression, and eyes open and looking straight ahead, with exceptions for young children
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/blog/passport-photo-at-home/
 - Natural window light works best - avoid harsh shadows and avoid using camera flash
 - Many authorities, including the UK's, ask you not to wear glasses unless you have to - check current requirements
 - Photos can be rejected for failing your authority's rules on lighting, size, expression, clarity or background
+
+![father photographing his young son against a plain wall in window light, a printed sheet of passport photos on the table in front of them](https://traveldocumentvault.com/blog/passport-photo-at-home/cover.jpg)
 
 GOV.UK says booth or shop photos are more likely to be approved than own-device photos. Photos can be rejected for failing your authority's rules on lighting, size, expression, clarity or background.
 
@@ -138,23 +138,23 @@ Official sources
 
 ## Frequently Asked Questions
 
-### Can I take a passport photo on my smartphone
+### Can I take a passport photo on my smartphone?
 
 GOV.UK generally allows own-device digital passport photos, while Canada generally requires a commercial photographer. Position yourself in front of a plain, light background in the shade your passport authority asks for, with good natural light, and ensure the photo meets your country's size and quality requirements. GOV.UK tells applicants not to crop own-device digital photos.
 
-### What size should a passport photo be
+### What size should a passport photo be?
 
 Printed sizes vary by authority. The UK uses 35mm x 45mm and the Government of Canada uses 50mm x 70mm. Other countries set their own sizes, so take yours from your own passport authority. Digital submissions have separate pixel minimums. Requirements are enforced strictly and get revised, so confirm the exact spec with your own passport authority before you print or upload.
 
-### Why was my passport photo rejected
+### Why was my passport photo rejected?
 
 Photos can be rejected for failing your authority's rules on lighting, size, expression, clarity or background. Glasses rules depend on the authority. Ensure your photo meets all official requirements before submission. Review the specific feedback from your passport authority and retake the photo addressing each issue mentioned.
 
-### Do I need special lighting for a passport photo
+### Do I need special lighting for a passport photo?
 
 Natural light from a window is ideal for passport photos. Avoid harsh shadows on your face and do not use harsh camera flash. Position yourself facing the light source directly or perpendicular to a window so the light falls evenly across your face. Overcast days provide ideal diffused light without harsh shadows.
 
-### Can I wear glasses in a passport photo
+### Can I wear glasses in a passport photo?
 
 It depends on the authority. GOV.UK tells UK applicants not to wear glasses unless they have to, while the Government of Canada accepts them if your eyes are clearly visible and there's no glare on the lenses. Sunglasses and tinted lenses are generally refused. Check your country's current requirements before taking your photo, as rules have evolved in recent years. When in doubt, take both a photo with and without glasses to have options.
 

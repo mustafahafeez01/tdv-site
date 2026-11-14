@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/it/blog/passport-photo-at-home/
 
 ---
 
-![padre che fotografa suo figlio piccolo davanti a un muro liscio in luce naturale, un foglio stampato di foto passaporto sul tavolo davanti a loro](https://traveldocumentvault.com/blog/passport-photo-at-home/cover.jpg)
-
 ## Punti Chiave
 
 - Usa uno sfondo chiaro e uniforme nella tonalità richiesta dalla tua autorità, un'espressione neutra, con occhi aperti e sguardo dritto davanti, con eccezioni per i bambini piccoli
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/it/blog/passport-photo-at-home/
 - La luce naturale delle finestre funziona meglio — evita le ombre dure e non usare il flash
 - Molte autorità, inclusa quella britannica, chiedono di non indossare occhiali a meno che non sia necessario — controlla i requisiti attuali
 - Le foto possono essere rifiutate se non rispettano le regole della tua autorità su illuminazione, dimensioni, espressione, nitidezza o sfondo
+
+![padre che fotografa suo figlio piccolo davanti a un muro liscio in luce naturale, un foglio stampato di foto passaporto sul tavolo davanti a loro](https://traveldocumentvault.com/blog/passport-photo-at-home/cover.jpg)
 
 Secondo GOV.UK, le foto scattate in cabina o in negozio hanno maggiori probabilità di essere approvate rispetto a quelle scattate con il proprio dispositivo. Le foto possono essere rifiutate se non rispettano le regole della tua autorità su illuminazione, dimensioni, espressione, nitidezza o sfondo.
 

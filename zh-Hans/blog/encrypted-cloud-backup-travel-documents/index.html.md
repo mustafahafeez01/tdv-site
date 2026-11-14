@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/encrypted-cloud-backup-trav
 
 ---
 
-![傍晚时分，一位家长和孩子并肩坐在沙发上看着手机，桌上护照旁放着一把小小的金色钥匙，头顶的云朵图案后面，挂锁挡住的只是一堆杂乱无章的符号](https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/cover.jpg)
-
 ## 关键要点
 
 - **只有当您知道密钥掌握在谁手中，“加密备份”这个说法才有意义。**如果开发这款应用的公司能读取您的文件，那么加密保护的是您免受外人窥探，而不是免受这家公司窥探。
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/encrypted-cloud-backup-trav
 - **没有账户，就没有密码重置。**如果您丢失恢复码，也无法再访问任何能够打开保险库的设备，我们就无法恢复加密备份。这是刻意做出的取舍。
 - 在您依赖这份备份之前，先把恢复码写下来，放在手机以外的地方保管，并且回头核对一遍，确认自己写得清楚。
 - 系统级的设备备份只能重新安装应用，无法找回您的文件，因为系统备份不会传输绑定设备的加密密钥。
+
+![傍晚时分，一位家长和孩子并肩坐在沙发上看着手机，桌上护照旁放着一把小小的金色钥匙，头顶的云朵图案后面，挂锁挡住的只是一堆杂乱无章的符号](https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/cover.jpg)
 
 您已经把四本护照、两份签证和孩子们的出生证明都扫描进了一款把一切都存在手机本地的应用里。很好。接下来，那个显而易见的担忧就来了：万一手机掉进海里，或者在里斯本的咖啡馆桌上被人顺走了，该怎么办。
 

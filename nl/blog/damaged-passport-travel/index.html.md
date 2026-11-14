@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/nl/blog/damaged-passport-travel/
 
 ---
 
-![ouder en kind bij een incheckbalie terwijl de medewerker een geopend goud paspoort met waterschade bekijkt](https://traveldocumentvault.com/blog/damaged-passport-travel/cover.jpg)
-
 ## Belangrijkste punten
 
 - **Niet elke slijtageplek is schade.** Een gekreukte kaft is prima. Waterschade, gescheurde pagina's of vervaagde beveiligingskenmerken zijn dat niet.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/nl/blog/damaged-passport-travel/
 - Schade ontdekken **dagen of weken van tevoren** geeft je tijd voor een spoedvernieuwing. De dag ervoor is een crisis.
 - Word je bij de gate geweigerd, **vraag je ambassade dan naar een nooddocument**.
 - Een digitale kopie is **het meest waard als je in het buitenland bent** – een consulaire medewerker kan sneller vaststellen wie je bent aan de hand van een scan dan aan de hand van jouw verhaal. Scan je paspoort dus voordat je vertrekt.
+
+![ouder en kind bij een incheckbalie terwijl de medewerker een geopend goud paspoort met waterschade bekijkt](https://traveldocumentvault.com/blog/damaged-passport-travel/cover.jpg)
 
 De meeste paspoortschade is cosmetisch. Een versleten kaft, een verzachte hoek, een rafelige rand langs de rug – niets daarvan houdt iemand tegen bij het instappen. Wat grenspersoneel en gate agents daadwerkelijk controleren is beperkter dan de meeste reizigers denken: de gegevenspagina, de twee gedrukte regels daaronder, en of het boekje nog als één geheel document aan elkaar hangt.
 

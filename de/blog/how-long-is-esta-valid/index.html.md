@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/de/blog/how-long-is-esta-valid/
 
 ---
 
-![Ein Elternteil mit zwei Kindern von hinten zu Hause gesehen, die aus einem Fenster schauen, mit einem US-Pass und Reisedokumenten in der Hand, ein Kind zeigt nach vorn, goldenes Detail am Passrücken](https://traveldocumentvault.com/blog/how-long-is-esta-valid/cover.jpg)
-
 ## Wichtigste Erkenntnisse
 
 - **Ein ESTA ist in der Regel zwei Jahre ab der Genehmigung gültig, oder bis der Pass abläuft**, je nachdem, was früher eintritt.
@@ -16,6 +14,8 @@ Source: https://traveldocumentvault.com/de/blog/how-long-is-esta-valid/
 - Ein neuer Pass, ein neuer Name, eine neue Staatsangehörigkeit oder eine geänderte Antwort bei den Zulassungsfragen bedeuten, dass Sie neu beantragen müssen.
 - **Jeder Reisende braucht ein eigenes ESTA**, auch Kinder jeden Alters und Babys ohne eigenes Ticket.
 - Die Gebühr stieg am 16. Oktober 2026 von US $40.27 auf US $40.62. Ein bereits genehmigtes ESTA muss nicht neu beantragt werden.
+
+![Ein Elternteil mit zwei Kindern von hinten zu Hause gesehen, die aus einem Fenster schauen, mit einem US-Pass und Reisedokumenten in der Hand, ein Kind zeigt nach vorn, goldenes Detail am Passrücken](https://traveldocumentvault.com/blog/how-long-is-esta-valid/cover.jpg)
 
 Ein ESTA gilt in der Regel zwei Jahre ab dem Tag der Genehmigung, oder bis der Pass abläuft, mit dem es verknüpft ist, je nachdem, was früher eintritt. Wenn Sie bereits eines haben, betrifft Sie die Gebührenänderung vom 16. Oktober 2026 nicht, und Sie zahlen den neuen Betrag erst bei Ihrem nächsten Antrag. Was wir heute tun würden: das Ablaufdatum jedes ESTA in der Familie nachschlagen, denn die Uhr jeder Person läuft für sich.
 

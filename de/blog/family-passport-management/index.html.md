@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/de/blog/family-passport-management/
 
 ---
 
-![Familie von vier Personen, die auf ein goldbeleuchtetes Flughafenfenster zu gehen, Elternteil hält einen Fächer aus vier goldenen Pässen](https://traveldocumentvault.com/blog/family-passport-management/cover.jpg)
-
 ## Wichtigste Erkenntnisse
 
 - **Kinderreisepässe laufen oft früher ab als Erwachsenenpässe.** Im Vereinigten Königreich ist ein Kinderreisepass 5 Jahre gültig, daher bestimmt das Ablaufdatum des jüngsten Familienmitglieds oft die Deadline für Ihre nächste Reise.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/de/blog/family-passport-management/
 - **Speichern Sie digitale Kopien an einem verschlüsselten Ort**, mit einer physischen Sicherung an einem sicheren Ort, auf den Sie schnell zugreifen können, wenn nötig.
 - Erstellen Sie ein gemeinsames System zum Verfolgen von Ablaufdaten für jedes Familienmitglied. **Eine Person, die sich darum kümmert, verhindert verpasste Erneuerungen.**
 - Für Familien mit doppelter Nationalität, **bewahren Sie Kopien aller Pässe auf** und verstehen Sie, welchen für jedes Ziel zu nutzen ist.
+
+![Familie von vier Personen, die auf ein goldbeleuchtetes Flughafenfenster zu gehen, Elternteil hält einen Fächer aus vier goldenen Pässen](https://traveldocumentvault.com/blog/family-passport-management/cover.jpg)
 
 Wenn Sie mit Kindern verreisen, ist das Verfolgung von fünf Pässen über die Anforderungen zweier Länder die Art von Problem, das Sie mitten in der Nacht aufwachen lässt. Ein Elternteil hat noch 8 Jahre Gültigkeit, der andere 7, Ihr Ältester hat noch 6 Jahre. Aber der Jüngste – derjenige, der nicht lange genug stillsitzen kann für ein anständiges Foto – läuft in gerade einmal 18 Monaten ab. Es ist ein System, das niemand erklärt, bis Sie am Check-in-Schalter stehen und der Gate-Agent Sie fragt, welchen Pass Ihr 12-Jähriger mitbringen sollte. Ein System zu etablieren, das dieses Chaos übersteht, beginnt damit, zu verstehen, warum Familien es so oft falsch machen.
 

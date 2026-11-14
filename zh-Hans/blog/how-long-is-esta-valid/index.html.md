@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/how-long-is-esta-valid/
 
 ---
 
-![一位家长和两个孩子背对镜头站在家中窗边，手里拿着美国护照和旅行证件，其中一个孩子指向前方，护照边缘以金色勾边](https://traveldocumentvault.com/blog/how-long-is-esta-valid/cover.jpg)
-
 ## 关键要点
 
 - **ESTA通常从获批起两年内有效，或在护照到期时失效**，以较早者为准。
@@ -16,6 +14,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/how-long-is-esta-valid/
 - 更换新护照、改名、变更国籍，或资格问题的答案发生变化，都意味着需要重新申请。
 - **每位旅客都需要自己的ESTA**，包括任何年龄的儿童和没有机票的婴儿。
 - 费用已于2026年10月16日由US $40.27上调至US $40.62。已获批的ESTA不需要重新申请。
+
+![一位家长和两个孩子背对镜头站在家中窗边，手里拿着美国护照和旅行证件，其中一个孩子指向前方，护照边缘以金色勾边](https://traveldocumentvault.com/blog/how-long-is-esta-valid/cover.jpg)
 
 ESTA的有效期通常为两年，从获批当天算起，或在与之关联的护照到期时失效，以较早者为准。如果你已经持有ESTA，2026年10月16日的费用调整不会影响你，你只需要在下次申请时支付新的金额。今天最值得做的一件事，就是查一查家里每个人ESTA的到期日，因为每个人的时钟都是各自独立运行的。
 

@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/da/blog/is-it-safe-to-store-passport-in-
 
 ---
 
-![Et pas på en dyb marineblå baggrund beskyttet af et blødt guldskjold, der antyder privat og sikker dokumentopbevaring](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/cover.jpg)
-
 ## Vigtigste punkter
 
 - At gemme en passcanning i Google Fotos betyder, at dit identitetsdokument ligger på Googles servere, bliver behandlet af deres systemer og kun beskyttet af den sikkerhed, din Google-konto tilfældigvis har.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/da/blog/is-it-safe-to-store-passport-in-
 - Googles privatlivspolitik siger, at automatiserede systemer analyserer dit indhold for at levere og forbedre tjenesterne, og en passcanning gemmes som ethvert andet foto.
 - Der findes bedre alternativer: krypterede kodeordshåndteringer, krypterede apps på enheden eller cloud-lagring med klientsidig kryptering – ingen af dem smider dit pas ind i et almindeligt fotobibliotek.
 - For de fleste er den reelle risiko svag kontosikkerhed, ikke Google i sig selv: et genbrugt kodeord, et delt login, eller nogen der allerede ved, hvordan man kommer ind.
+
+![Et pas på en dyb marineblå baggrund beskyttet af et blødt guldskjold, der antyder privat og sikker dokumentopbevaring](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/cover.jpg)
 
 Mange mennesker gemmer passcanninger i Google Fotos uden at tænke sig om: du skal bruge en kopi, du tager et billede, og det bliver sikkerhedskopieret automatisk. Spørgsmålet om, hvorvidt det faktisk er et klogt valg for dit mest følsomme identitetsdokument, dukker sjældent op, før noget går galt.
 

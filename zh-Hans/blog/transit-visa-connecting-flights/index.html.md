@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/transit-visa-connecting-fli
 
 ---
 
-![一家人在机场航站楼内登机前查看旅行证件](https://traveldocumentvault.com/blog/transit-visa-connecting-flights/cover.jpg)
-
 ## 关键要点
 
 - **并非每一次转机都需要办理过境签证。**是否需要，很大程度上取决于您是留在机场内（国际中转区），还是离开了机场。
@@ -16,6 +14,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/transit-visa-connecting-fli
 - **仅在机场内中转通常无需签证**，而需要离开机场或经过入境检查的中转往往需要签证，具体取决于您的国籍。
 - 如果订票后才发现需要办理过境签证，请立即联系航空公司——处理时间差异很大，您可能需要改签。
 - **妥善保存并追踪每一份证件**——过境签证有自己独立的到期日，与护照和主要入境签证的有效期不同。
+
+![一家人在机场航站楼内登机前查看旅行证件](https://traveldocumentvault.com/blog/transit-visa-connecting-flights/cover.jpg)
 
 转机航班是否需要过境签证，取决于三件事：您持有哪本护照、飞机降落在哪个国家，以及您是留在国际中转区内，还是离开了机场。大多数转机根本不需要过境签证。但如果确实需要，这项要求是硬性的——航空公司通常会在登机前核查。
 

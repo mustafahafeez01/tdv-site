@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/fr/blog/encrypted-cloud-backup-travel-do
 
 ---
 
-![Un parent et un enfant assis ensemble sur un canapé au crépuscule, regardant un téléphone et une petite clé dorée posée sur la table à côté d'un passeport, tandis qu'un nuage au-dessus ne contient que des symboles brouillés derrière un cadenas](https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/cover.jpg)
-
 ## Points clés à retenir
 
 - **Une « sauvegarde chiffrée » ne veut dire quelque chose que si vous savez qui détient la clé.** Si l'entreprise peut lire vos documents, le chiffrement les protège des inconnus, pas de l'entreprise.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/fr/blog/encrypted-cloud-backup-travel-do
 - **Pas de compte signifie pas de réinitialisation de mot de passe.** Perdez le code de récupération et l’accès à tous les appareils capables d’ouvrir encore le coffre, et nous ne pouvons pas récupérer la sauvegarde chiffrée. C'est un compromis voulu.
 - Notez le code avant de dépendre de la sauvegarde, gardez-le loin du téléphone, et relisez-le une fois pour vérifier qu'il est lisible.
 - Une sauvegarde système de l'appareil réinstalle l'application, mais ne peut pas récupérer vos documents, car les sauvegardes système ne transfèrent pas la clé de chiffrement liée à l’appareil.
+
+![Un parent et un enfant assis ensemble sur un canapé au crépuscule, regardant un téléphone et une petite clé dorée posée sur la table à côté d'un passeport, tandis qu'un nuage au-dessus ne contient que des symboles brouillés derrière un cadenas](https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/cover.jpg)
 
 Vous avez scanné quatre passeports, deux visas et les actes de naissance des enfants dans une application qui garde tout sur votre téléphone. Bien. Puis l'inquiétude évidente arrive : que se passe-t-il si le téléphone tombe à l'eau, ou disparaît d'une table de café à Lisbonne.
 

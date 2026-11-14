@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/id/blog/visa-expiry-tracker-app/
 
 ---
 
-![Dokumen visa dengan latar belakang biru laut dan lengkungan emas lembut yang menandai jangka waktu masa berlakunya](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/cover.jpg)
-
 ## Poin Penting
 
 - Pelacakan visa **lebih kompleks** dibanding pelacakan paspor — visa memiliki tanggal masa berlaku izin masuk, batas maksimal lama tinggal, dan terkadang batas jumlah kunjungan, yang semuanya perlu dipantau secara terpisah.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/id/blog/visa-expiry-tracker-app/
 - Aplikasi pelacak kedaluwarsa visa terbaik bekerja secara luring, mendukung berbagai jenis visa, dan memungkinkan pengaturan waktu pengingat khusus per dokumen.
 - Pengunjung Wilayah Schengen harus melacak jendela bergulir 90/180 hari, bukan sekadar satu tanggal kedaluwarsa saja, karena hitungannya bergulir mengikuti riwayat perjalanan Anda yang sebenarnya, bukan kalender.
 - Melacak visa dan paspor bersamaan di satu tempat mengurangi risiko ketidaksesuaian: masuk dengan visa yang masih berlaku namun paspor yang kedaluwarsa sebelum masa tinggal yang direncanakan berakhir.
+
+![Dokumen visa dengan latar belakang biru laut dan lengkungan emas lembut yang menandai jangka waktu masa berlakunya](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/cover.jpg)
 
 Overstay pada visa adalah salah satu kesalahan perjalanan paling berdampak yang bisa dilakukan seseorang. Berbeda dengan ketinggalan pesawat yang membuat stres tetapi pada akhirnya masih bisa diselesaikan, overstay meninggalkan catatan imigrasi resmi yang bisa terus membayangi Anda selama bertahun-tahun. Di Amerika Serikat, berdasarkan bagian 212(a)(9)(B) dari [Immigration and Nationality Act AS](https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chap12-subchapII-partII-sec1182.htm), orang yang berada secara tidak sah lebih dari 180 hari tetapi kurang dari satu tahun lalu pergi umumnya dilarang kembali selama tiga tahun, dan berada secara tidak sah satu tahun atau lebih umumnya berarti larangan sepuluh tahun. Konsekuensi ini tidak banyak diketahui.
 

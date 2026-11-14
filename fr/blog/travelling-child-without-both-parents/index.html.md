@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/fr/blog/travelling-child-without-both-pa
 
 ---
 
-![Croquis dessiné à la main d'un parent et d'un enfant vus de dos dans un hall d'aéroport, le parent tenant un petit éventail de deux passeports et un document plié à hauteur de poitrine](https://traveldocumentvault.com/blog/travelling-child-without-both-parents/cover.jpg)
-
 ## Points clés à retenir
 
 - **Le personnel d'enregistrement et les agents frontaliers ne vérifient pas la même chose.** Satisfaire l'un ne lie pas l'autre, à l'arrivée comme au départ.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/fr/blog/travelling-child-without-both-pa
 - Garde exclusive : emportez l'**ordonnance de garde ou la décision de justice** et tout consentement nécessaire des autres personnes détenant l'autorité parentale.
 - L'autre parent est décédé : si vous assumez seul la responsabilité des décisions concernant votre enfant, les autorités canadiennes recommandent une **copie de l'acte de décès**.
 - Nom de famille différent : l'**acte de naissance intégral** de l'enfant établit votre lien de parenté, avec un certificat de mariage ou de divorce si votre propre nom a changé.
+
+![Croquis dessiné à la main d'un parent et d'un enfant vus de dos dans un hall d'aéroport, le parent tenant un petit éventail de deux passeports et un document plié à hauteur de poitrine](https://traveldocumentvault.com/blog/travelling-child-without-both-parents/cover.jpg)
 
 Le personnel d'enregistrement des compagnies aériennes et les agents frontaliers regardent à deux fois un enfant qui voyage sans ses deux parents, et ce second regard relève d'un contrôle de routine en matière de protection de l'enfance, non d'une suspicion envers qui que ce soit en particulier. Les documents en question dépendent de la raison de l'absence de l'autre parent : encore à la maison, n'ayant plus la garde, ou n'étant plus en vie. Chacune de ces situations peut nécessiter des justificatifs, et une lettre de consentement peut rester recommandée en complément d'une ordonnance de garde.
 

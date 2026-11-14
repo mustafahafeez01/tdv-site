@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/ja/blog/passport-name-change-after-marri
 
 ---
 
-![朝の光が差す空港の窓辺に立つ三人家族を後ろから描いた水彩スケッチ。大人の一人が金色のパスポートを手にしている](https://traveldocumentvault.com/blog/passport-name-change-after-marriage/cover.jpg)
-
 ## 重要ポイント
 
 - **結婚しただけでは、何も変わりません。**新しいパスポートが必要になるのは、使う名前を変えるときだけです。
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/ja/blog/passport-name-change-after-marri
 - 挙式後に申請する場合は、申請書に**結婚証明書またはシビルパートナーシップの証明書**を添えて送ります。
 - 挙式前に申請すると、**先日付のパスポート**（日付が挙式日以降になるパスポート）が届き、古いパスポートは取り消され、ビザの手続きが複雑になることもあります。
 - 挙式の直後に新婚旅行があるなら、今の名前のまま旅行し、帰ってから申請するのがおすすめです。
+
+![朝の光が差す空港の窓辺に立つ三人家族を後ろから描いた水彩スケッチ。大人の一人が金色のパスポートを手にしている](https://traveldocumentvault.com/blog/passport-name-change-after-marriage/cover.jpg)
 
 英国のパスポートは、結婚しただけでは何も変わりません。HM Passport Officeの[名前変更に関する担当官向けガイダンス](https://www.gov.uk/government/publications/change-of-name-passport-applications-caseworker-guidance/names-change-of-name-passport-applications-accessible)にも、結婚を理由に名前を変える法的な根拠は誰にもないと書かれています。パスポートを変えるのは、使う名前が変わったときだけです。つまり、いつ変えるかは自分で選べます。そして、手続きの書類よりタイミングのほうが大事になります。
 

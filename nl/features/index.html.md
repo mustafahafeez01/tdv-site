@@ -244,7 +244,7 @@ Privacy en beveiliging
 
 ## Uw gegevens, uw apparaat
 
-Geen servers die uw documenten bewaren, geen accounts, geen tracking. Gebouwd door Mustafa Hafeez, met privacy als uitgangspunt. Link naar het [privacybeleid](https://traveldocumentvault.com/privacy-policy/) en de [verificatie](https://traveldocumentvault.com/privacy-policy/).
+Geen servers die uw documenten bewaren, geen accounts, geen tracking. Gebouwd door Mustafa Hafeez, met privacy als uitgangspunt. Link naar het [privacybeleid](https://traveldocumentvault.com/privacy-policy/) en de [verificatie](https://traveldocumentvault.com/nl/privacy-verification/).
 
 ### Uw gegevens blijven van u
 

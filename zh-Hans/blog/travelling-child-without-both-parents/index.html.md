@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/travelling-child-without-bo
 
 ---
 
-![手绘风格插画：机场航站楼内，一对父母与孩子的背影，家长在胸前展开两本护照和一份折叠好的文件](https://traveldocumentvault.com/blog/travelling-child-without-both-parents/cover.jpg)
-
 ## 关键要点
 
 - **值机人员和边检官员核查的是两件不同的事。**满足了其中一方，并不代表另一方也会认可，入境和出境时都是如此。
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/travelling-child-without-bo
 - 单独监护权：携带**监护令或法院令**，以及其他承担父母责任的人按规定需提供的同意。
 - 另一位家长已过世：如果您独自承担孩子的决策责任，加拿大的指引建议携带**死亡证明副本**。
 - 姓氏不同：孩子的**完整版出生证明**能证明您与孩子的关系，如果您自己的姓名有变更，再加上结婚证或离婚证。
+
+![手绘风格插画：机场航站楼内，一对父母与孩子的背影，家长在胸前展开两本护照和一份折叠好的文件](https://traveldocumentvault.com/blog/travelling-child-without-both-parents/cover.jpg)
 
 航空公司值机人员和边检官员看到孩子在没有父母双方陪同的情况下出行时，通常会多看一眼，这第二眼只是常规的儿童保护筛查，并非针对任何人的怀疑。需要哪种证件，取决于另一位家长缺席的原因：仍在家中、已不再共享监护权，或已经过世。这三种情况都可能需要相关证明文件，即使带了监护令，也可能仍建议携带同意书。
 

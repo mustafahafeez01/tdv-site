@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/blog/family-passport-management/
 
 ---
 
-![family of four walking toward a dawn-lit airport window, parent holding a fan of four gold passports](https://traveldocumentvault.com/blog/family-passport-management/cover.jpg)
-
 ## Key Takeaways
 
 - **Children's passports often expire sooner than adults'.** In the UK a child passport is valid for 5 years, so the youngest family member's expiry date often sets the deadline for your next trip.
@@ -16,7 +14,9 @@ Source: https://traveldocumentvault.com/blog/family-passport-management/
 - Create a shared system for tracking expiry dates across every family member. **One person handling this prevents missed renewals.**
 - For families with dual nationality, **keep copies of all passports** and understand which one to use for each destination.
 
-When you're travelling with kids, keeping track of five passports across two countries' requirements is the kind of problem that wakes you up in the middle of the night. One parent has 8 years left on theirs, the other has 7, your eldest's has 6 years remaining. But your youngest's, the one who won't sit still long enough for a decent photo, expires in just 18 months. It's a system that nobody explains until you're standing at the check-in desk and the gate agent asks you which passport your 12-year-old should travel on. Setting up a system that survives this chaos starts with understanding why families so often get it wrong.
+![family of four walking toward a dawn-lit airport window, parent holding a fan of four gold passports](https://traveldocumentvault.com/blog/family-passport-management/cover.jpg)
+
+When you're travelling with kids, keeping track of five passports across two countries' requirements is the kind of problem that wakes you up in the middle of the night. One parent has 8 years left on theirs, the other has 7, and your eldest's has 6 years remaining. But your youngest's, the one who won't sit still long enough for a decent photo, expires in just 18 months. It's a system that nobody explains until you're standing at the check-in desk and the gate agent asks you which passport your 12-year-old should travel on. Setting up a system that survives this chaos starts with understanding why families so often get it wrong.
 
 ## Why Families Get Passport Management Wrong
 
@@ -26,7 +26,7 @@ One person usually ends up handling it all, often whoever's already managing the
 
 Child passports often expire sooner than adult ones. In the UK, a [child passport is valid for 5 years](https://www.gov.uk/get-a-child-passport), and many other countries issue children's passports with a shorter validity than adult ones. This means your youngest child's passport often becomes the limiting factor for family trips. You could have a parent with 8 years of validity remaining, but if your youngest's passport expires in 18 months, that's your planning horizon.
 
-Most families don't realise this until they're already booked a trip. A parent finds the passports a week before departure, scanning them hastily while packing, and discovers that one child's document won't meet the validity rule some destinations apply, often six months. The trip is now at risk, or needs a rushed and expensive passport renewal.
+Most families don't realise this until they've already booked a trip. A parent finds the passports a week before departure, scanning them hastily while packing, and discovers that one child's document won't meet the validity rule some destinations apply, often six months. The trip is now at risk, or needs a rushed and expensive passport renewal.
 
 ## The Foundation: One Secure Place for All Family Passports
 
@@ -106,7 +106,7 @@ Store encrypted digital copies in one centralised location (an app or password-p
 
 Use a dedicated app that tracks multiple people's expiry dates with automatic reminders, or create a shared family spreadsheet updated by one designated person. The most reliable approach is an app that sends notifications before a passport expires - catching renewals months in advance rather than days before a booked trip.
 
-### Do children's passports expire at the same rate as adults?
+### Do children's passports expire at the same rate as adults' passports?
 
 Often not. Children's passports usually have a shorter validity than adult ones (a UK child passport is valid for 5 years), so check each expiry date before booking. Always check each family member's expiry date individually before booking travel - the youngest child's document often becomes the planning deadline.
 

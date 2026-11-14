@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/sv/blog/how-long-is-esta-valid/
 
 ---
 
-![Handritad skiss av en förälder och två barn sedda bakifrån hemma som tittar ut genom ett fönster, håller ett amerikanskt pass och resedokument, ett barn pekar framåt, guldaccent på passryggen](https://traveldocumentvault.com/blog/how-long-is-esta-valid/cover.jpg)
-
 ## Viktiga punkter
 
 - **Ett ESTA gäller vanligtvis i två år från godkännandet, eller tills passet går ut**, beroende på vad som inträffar först.
@@ -16,6 +14,8 @@ Source: https://traveldocumentvault.com/sv/blog/how-long-is-esta-valid/
 - Ett nytt pass, ett nytt namn, ett nytt medborgarskap eller ett ändrat behörighetssvar innebär att du måste ansöka igen.
 - **Alla resenärer behöver sitt eget ESTA**, inklusive barn i alla åldrar och spädbarn utan egen biljett.
 - Avgiften steg från US $40.27 till US $40.62 den 16 oktober 2026. Ett redan godkänt ESTA behöver inte ansökas om igen.
+
+![Handritad skiss av en förälder och två barn sedda bakifrån hemma som tittar ut genom ett fönster, håller ett amerikanskt pass och resedokument, ett barn pekar framåt, guldaccent på passryggen](https://traveldocumentvault.com/blog/how-long-is-esta-valid/cover.jpg)
 
 Ett ESTA gäller vanligtvis i två år från den dag det godkänns, eller tills det pass det är kopplat till går ut, beroende på vad som inträffar först. Har du redan ett påverkas det inte av avgiftsändringen den 16 oktober 2026, och du betalar det nya beloppet först nästa gång du ansöker. Det första vi skulle göra i dag är att slå upp utgångsdatumet för varje ESTA i familjen, eftersom varje persons klocka tickar för sig.
 

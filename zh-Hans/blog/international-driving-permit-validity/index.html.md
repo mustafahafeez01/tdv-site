@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/international-driving-permi
 
 ---
 
-![一家人在自驾游出发前把行李装进租车，驾照和国际驾驶许可证放在一旁摊开的地图上](https://traveldocumentvault.com/blog/international-driving-permit-validity/cover.jpg)
-
 ## 关键要点
 
 - 国际驾驶许可证是**您现有驾照的官方翻译件**，因此两者都要随身携带。只出示许可证本身，不能证明任何事。
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/international-driving-permi
 - 维也纳许可证的有效期**以您的驾照为上限**。如果驾照先到期，许可证就在那一天失效，无论证件上印的是哪个日期。
 - 各国批准的条约并不相同，因此**同一张许可证在一个国家被接受，到了下一个国家却可能被拒绝**。
 - 护照、驾照和许可证**各按各的时钟走**，几乎不会同步到期。
+
+![一家人在自驾游出发前把行李装进租车，驾照和国际驾驶许可证放在一旁摊开的地图上](https://traveldocumentvault.com/blog/international-driving-permit-validity/cover.jpg)
 
 国际驾照是驾照的译本，本身并不是一份驾照，其有效期也自成一套。许多自签发之日起十二个月内有效，而且都不会超过三年，因此三年前夏天为某次旅行办理的那本，几乎可以肯定已经过期。若干国家的租车柜台会在交车前要求出示。
 

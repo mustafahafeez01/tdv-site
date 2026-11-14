@@ -244,7 +244,7 @@ Privasi & Keamanan
 
 ## Data Anda, Perangkat Anda
 
-Tidak ada server yang menyimpan dokumen Anda, tanpa akun, tanpa pelacakan. Dibuat oleh Mustafa Hafeez dengan arsitektur yang mengutamakan privasi. Tautan [Kebijakan Privasi](https://traveldocumentvault.com/privacy-policy/) dan [Verifikasi](https://traveldocumentvault.com/privacy-policy/).
+Tidak ada server yang menyimpan dokumen Anda, tanpa akun, tanpa pelacakan. Dibuat oleh Mustafa Hafeez dengan arsitektur yang mengutamakan privasi. Tautan [Kebijakan Privasi](https://traveldocumentvault.com/privacy-policy/) dan [Verifikasi](https://traveldocumentvault.com/id/privacy-verification/).
 
 ### Data Anda Tetap Milik Anda
 

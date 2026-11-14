@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/ko/blog/uk-eta-passport-rules/
 
 ---
 
-![밝은 공항 창가에서 뒷모습으로 선 부모와 아이, 부모가 여권 두 권을 들고 있으며 앞쪽 여권에 금빛 테두리가 있고 뒤편 게이트에는 비행기가 있다](https://traveldocumentvault.com/blog/uk-eta-passport-rules/cover.jpg)
-
 ## 주요 내용 요약
 
 - **UK ETA는 여권 번호에 연결됩니다.** 여권을 갱신해 새 번호를 받으면 기존 ETA는 무효가 됩니다.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/ko/blog/uk-eta-passport-rules/
 - 자녀와 아기를 포함해 **모든 사람이 자신의 ETA가 필요합니다.** 가족 단위 ETA는 없습니다. 각자 자신의 ETA가 필요하지만, 가족을 대신해 신청할 수는 있습니다.
 - 내무부는 **최소 3영업일 전에 신청할 것을 권장합니다.** 이는 권장 사항이지 처리 기간을 보장하는 것은 아닙니다.
 - ETA는 **여행 허가이지 입국 허가가 아닙니다.** ETA가 유효해도 출입국 심사관은 입국을 거부할 수 있습니다.
+
+![밝은 공항 창가에서 뒷모습으로 선 부모와 아이, 부모가 여권 두 권을 들고 있으며 앞쪽 여권에 금빛 테두리가 있고 뒤편 게이트에는 비행기가 있다](https://traveldocumentvault.com/blog/uk-eta-passport-rules/cover.jpg)
 
 UK ETA 제도는 표면적으로는 단순합니다. 신청하고, 비용을 내고, 여행합니다. 다만 그 아래에는 실제로 문제가 되기 전까지는 잘 드러나지 않는 규정이 하나 있습니다. ETA는 신청서에 적힌 특정 여권 번호에 연결된다는 점입니다. 그 여권을 갱신해 새 여권 번호를 받으면 ETA는 더 이상 유효하지 않습니다. 여행 전에 새 여권으로 다시 신청해야 합니다.
 

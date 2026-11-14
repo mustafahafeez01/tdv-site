@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/de/blog/uk-brp-expired-evisa-deadline/
 
 ---
 
-![Ein Elternteil und zwei Kinder vor einem sonnendurchfluteten Fenster, ihre Hand liegt auf einem kleinen Stapel Pässe auf dem Fensterbrett](https://traveldocumentvault.com/blog/uk-brp-expired-evisa-deadline/cover.jpg)
-
 ## Wichtigste Erkenntnisse
 
 - Die meisten Menschen mit abgelaufenem BRP müssen nur **ein UKVI-Konto einrichten**, und die Karte kann dabei noch eine Weile helfen.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/de/blog/uk-brp-expired-evisa-deadline/
 - Keine brauchbare Karte? Ein gültiger Reisepass plus Ihre Visumantragsnummer oder Ihre BRP-Nummer verschafft Ihnen ebenfalls Zugang.
 - Jedes Kind braucht **sein eigenes Konto**, das ein Elternteil mit eigener Telefonnummer und E-Mail-Adresse führen kann.
 - Zum Reisen muss der Pass, mit dem Sie fliegen, in Ihrem UKVI-Konto stehen, mit Angaben, die zu Ihrer Buchung passen.
+
+![Ein Elternteil und zwei Kinder vor einem sonnendurchfluteten Fenster, ihre Hand liegt auf einem kleinen Stapel Pässe auf dem Fensterbrett](https://traveldocumentvault.com/blog/uk-brp-expired-evisa-deadline/cover.jpg)
 
 Wenn Sie ein abgelaufenes Biometric Residence Permit (BRP, biometrischer Aufenthaltstitel) besitzen und weiterhin aufenthaltsberechtigt sind, bittet GOV.UK Sie, ein UKVI-Konto (UK Visas and Immigration) einzurichten und dabei die Karte zum Nachweis Ihrer Identität zu nutzen. Das ist in einem Durchgang erledigt, und die abgelaufene Karte funktioniert dafür noch, zumindest für eine Weile. Ihr Aufenthaltsstatus hat sich nicht geändert. Was sich geändert hat, ist, wo er abgelegt ist.
 

@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/nl/blog/travel-insurance-documents/
 
 ---
 
-![ouder en slaperig kind zitten 's nachts in een stille kliniekwachtkamer terwijl de ouder rustig hun verzekeringspolis op een gloeiend telefoonscherm leest](https://traveldocumentvault.com/blog/travel-insurance-documents/cover.jpg)
-
 ## Belangrijkste punten
 
 - **Bewaar je volledige polisdocumenten, polisnummer en het nummer van de alarmcentrale** (niet het verkoopnummer).
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/nl/blog/travel-insurance-documents/
 - **Zoek uit wanneer je vóór een behandeling contact moet opnemen met de verzekeraar**; schakel bij een medisch noodgeval eerst hulp in en neem zo snel mogelijk contact op met de verzekeraar.
 - Bewaar bonnen en rapporten en vraag je verzekeraar welke documenten nodig zijn voor een claim.
 - Lees de belangrijkste secties van je polis snel door je op dekkingslimieten, uitsluitingen en voorwaarden te richten.
+
+![ouder en slaperig kind zitten 's nachts in een stille kliniekwachtkamer terwijl de ouder rustig hun verzekeringspolis op een gloeiend telefoonscherm leest](https://traveldocumentvault.com/blog/travel-insurance-documents/cover.jpg)
 
 Wij zouden vóór vertrek je reisverzekeringsdocumenten offline opslaan en een papieren back-up meenemen, met je polisnummer, bewijs van dekking en het nummer van de alarmcentrale bij elkaar. Hier lees je wat je bewaart, hoe je offline toegang test en waar je de instructies voor claims vindt, inclusief de openingstijden van de alarmcentrale.
 

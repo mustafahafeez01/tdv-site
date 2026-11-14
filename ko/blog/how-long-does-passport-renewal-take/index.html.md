@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/ko/blog/how-long-does-passport-renewal-t
 
 ---
 
-![짙은 네이비 배경 위, 아무 무늬 없는 크림색 봉투에서 여권이 반쯤 나와 있어 갱신이 진행 중임을 보여 주는 모습](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/cover.jpg)
-
 ## 주요 포인트
 
 - 여권 갱신에 걸리는 시간은 거주 국가, 상황, 신청 시기에 따라 달라집니다. 오래 유효한 정확한 숫자는 없으므로, 이 가이드에서는 의도적으로 숫자를 제시하지 않습니다.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/ko/blog/how-long-does-passport-renewal-t
 - 이름 변경, 첫 성인 여권, 자녀 신청, 분실·손상된 여권, 추가 보안 심사, 성수기, 해외에서의 신청 등 몇 가지 상황은 어김없이 처리를 늦춥니다.
 - 가장 안전한 방법은 여권의 남은 유효 기간이 빠듯해지기 시작하는 시점에, 실제 여행 날짜로부터 거꾸로 계산해 최대한 일찍 신청하는 것입니다.
 - 지금 확인해야 할 숫자는 HM Passport Office, 미국 국무부, 호주 여권청 등 여러분 자신의 여권 관청이 제공하는 숫자입니다. 블로그 게시물이 아닙니다.
+
+![짙은 네이비 배경 위, 아무 무늬 없는 크림색 봉투에서 여권이 반쯤 나와 있어 갱신이 진행 중임을 보여 주는 모습](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/cover.jpg)
 
 5개월 뒤의 여행을 위해 항공편을 예약했습니다. 가족 모두의 여권을 꺼내 다시 확인해 보는데, 거기 있습니다. 한 권이 5개월 3주 뒤에 만료됩니다. 이제 갱신에 얼마나 걸리는지 분명한 숫자가 필요합니다. 시간이 실제로 있는지 계산해야 하니까요.
 

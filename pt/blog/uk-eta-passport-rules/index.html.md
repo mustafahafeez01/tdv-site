@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/pt/blog/uk-eta-passport-rules/
 
 ---
 
-![Um pai e uma filha vistos de costas junto a uma janela luminosa do aeroporto, segurando dois passaportes com o da frente contornado a dourado e um avião na porta de embarque ao fundo](https://traveldocumentvault.com/blog/uk-eta-passport-rules/cover.jpg)
-
 ## Pontos-Chave
 
 - **A ETA do Reino Unido está associada ao número do seu passaporte.** Quando renova o passaporte e recebe um novo número, a sua ETA anterior deixa de ser válida.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/pt/blog/uk-eta-passport-rules/
 - **Cada pessoa precisa da sua própria ETA** — incluindo crianças e bebés. Não existe uma ETA familiar. Cada pessoa precisa da sua, embora possa candidatar-se em nome de familiares.
 - O Home Office recomenda candidatar-se **com pelo menos 3 dias úteis de antecedência.** Isto é uma recomendação, não uma garantia de processamento.
 - Uma ETA é **uma autorização para viajar, não uma garantia de entrada.** Os agentes de fronteira podem recusar a entrada mesmo com uma ETA válida.
+
+![Um pai e uma filha vistos de costas junto a uma janela luminosa do aeroporto, segurando dois passaportes com o da frente contornado a dourado e um avião na porta de embarque ao fundo](https://traveldocumentvault.com/blog/uk-eta-passport-rules/cover.jpg)
 
 O sistema de ETA do Reino Unido parece simples à superfície: candidata-se, paga, viaja. Mas há uma regra por baixo disso que só se torna óbvia quando passa a fazer diferença: a sua ETA está associada ao número de passaporte específico indicado na candidatura. Quando renova esse passaporte e recebe um novo número, a sua ETA deixa de ser válida. Vai ter de se candidatar novamente com o novo passaporte antes da viagem.
 

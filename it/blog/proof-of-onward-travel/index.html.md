@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/it/blog/proof-of-onward-travel/
 
 ---
 
-![Un genitore e un bambino davanti a una vetrata dell'aeroporto, con in mano un passaporto e un biglietto di viaggio, mentre guardano un aereo prima della partenza](https://traveldocumentvault.com/blog/proof-of-onward-travel/cover.jpg)
-
 ## Punti chiave
 
 - **La prova di prosecuzione del viaggio di solito significa un biglietto prenotato per uscire dal paese di destinazione,** verso casa o verso un paese in cui sei autorizzato a entrare.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/it/blog/proof-of-onward-travel/
 - Alcune destinazioni inseriscono la prosecuzione del viaggio tra le regole d'ingresso per i visitatori, quindi quando la compagnia aerea la chiede sta spesso applicando in anticipo la regola della destinazione.
 - Una prenotazione d'albergo o un estratto conto rispondono a domande diverse, dove alloggerai e come ti manterrai, e in genere non sostituiscono un biglietto per uscire.
 - Conserva la conferma in un posto che puoi aprire al banco anche senza segnale o accesso a un account.
+
+![Un genitore e un bambino davanti a una vetrata dell'aeroporto, con in mano un passaporto e un biglietto di viaggio, mentre guardano un aereo prima della partenza](https://traveldocumentvault.com/blog/proof-of-onward-travel/cover.jpg)
 
 Nella maggior parte dei casi, la prova di prosecuzione del viaggio è un biglietto prenotato per uscire dal paese di destinazione. Un volo di ritorno verso casa è valido, così come un biglietto verso un paese terzo in cui sei autorizzato a entrare. Se ne hai già uno, di solito sei a posto.
 

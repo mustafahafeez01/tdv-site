@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/es/blog/international-driving-permit-val
 
 ---
 
-![Una familia cargando un coche de alquiler al principio de un viaje por carretera, con un carné de conducir y un permiso internacional de conducir sobre el mapa abierto a su lado](https://traveldocumentvault.com/blog/international-driving-permit-validity/cover.jpg)
-
 ## Conclusiones Principales
 
 - El permiso internacional de conducir es **una traducción del carné que ya tienes**, así que llevas los dos. Entregar solo el permiso no demuestra nada.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/es/blog/international-driving-permit-val
 - El permiso de Viena queda **limitado por tu carné de conducir**. Si el carné caduca antes, el permiso deja de servir en esa fecha, sea cual sea la que aparezca impresa en él.
 - Cada país ratificó tratados distintos, así que **un permiso aceptado en un país puede ser rechazado en el siguiente**.
 - Pasaporte, carné y permiso funcionan con **tres calendarios distintos** que casi nunca coinciden.
+
+![Una familia cargando un coche de alquiler al principio de un viaje por carretera, con un carné de conducir y un permiso internacional de conducir sobre el mapa abierto a su lado](https://traveldocumentvault.com/blog/international-driving-permit-validity/cover.jpg)
 
 Un permiso de conducir internacional es una traducción del carné, no un carné por derecho propio, y corre según su propio calendario. Muchos son válidos doce meses desde la fecha de expedición y ninguno supera los tres años, así que el que se compró para un viaje hace tres veranos casi con certeza ha caducado. Los mostradores de alquiler de varios países lo piden antes de entregar el coche.
 

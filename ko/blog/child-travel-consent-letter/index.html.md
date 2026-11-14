@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/ko/blog/child-travel-consent-letter/
 
 ---
 
-![크림색 동의서와 금색 리본으로 묶인 어린 아이의 여권이 진한 파란색 배경 위에 놓여 있습니다](https://traveldocumentvault.com/blog/child-travel-consent-letter/cover.jpg)
-
 ## 핵심 내용
 
 - 요구 사항은 국가에 따라 크게 다릅니다. **한 목적지에 효과적인 동의서가 다른 곳에서는 인정되지 않을 수 있습니다.**
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/ko/blog/child-travel-consent-letter/
 - 동의서에는 보통 아동의 전체 이름, 생년월일, 여권 번호, 정확한 여행 날짜, 목적지, 동행하지 않는 부모의 연락처가 포함됩니다.
 - 일반적인 거부 이유에는 누락된 정보, 공증 부재 또는 오래된 서명이 포함됩니다.
 - 인쇄된 사본을 주 문서로 소지하고 긴급 상황을 대비하여 암호화된 디지털 백업을 유지하세요.
+
+![크림색 동의서와 금색 리본으로 묶인 어린 아이의 여권이 진한 파란색 배경 위에 놓여 있습니다](https://traveldocumentvault.com/blog/child-travel-consent-letter/cover.jpg)
 
 동의서가 항공사 카운터에서 하는 일은 하나입니다. 아이와 함께 여행하는 어른이 동행하지 않는 부모의 동의를 받았음을 보여 주는 것입니다. 대부분은 별말 없이 받아들여집니다.
 

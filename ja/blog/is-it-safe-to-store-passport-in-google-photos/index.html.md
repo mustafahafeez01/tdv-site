@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/ja/blog/is-it-safe-to-store-passport-in-
 
 ---
 
-![深い紺色の背景にパスポートがあり、柔らかい金色のシールドで保護されている画像。プライベートでセキュアなドキュメント保存を示唆している](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/cover.jpg)
-
 ## 主なポイント
 
 - Googleフォトにパスポートスキャンを保存すると、身分証明書がGoogleのサーバー上に保存され、彼らのシステムで処理され、あなたのアカウントセキュリティだけで保護されることになります。
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/ja/blog/is-it-safe-to-store-passport-in-
 - Googleのプライバシーポリシーには、サービスの提供と改善のために自動化されたシステムでコンテンツを分析すると記載されており、パスポートスキャンも他の写真と同じように保存されます。
 - より良いオプションが存在します：暗号化パスワードマネージャー、オンデバイス暗号化アプリ、またはクライアント側暗号化クラウドストレージなど、パスポートを一般的な写真ライブラリに置かないもの。
 - ほとんどの人にとって、実際のリスクはGoogle自体ではなく、弱いアカウントセキュリティと、そのアカウントにアクセスできる他のユーザーです。
+
+![深い紺色の背景にパスポートがあり、柔らかい金色のシールドで保護されている画像。プライベートでセキュアなドキュメント保存を示唆している](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/cover.jpg)
 
 多くの人がGoogleフォトにパスポートスキャンを保存しており、それについて考えることはありません。必要なコピーをスマートフォンで撮って、自動的にバックアップされるだけです。完了。最も機密性の高い身分証明書のためにそれが実際に賢い選択肢かどうかという質問は、何か問題が起こるまで浮かばないことがほとんどです。
 

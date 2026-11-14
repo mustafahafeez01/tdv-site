@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/pt/blog/passport-expired-what-to-do/
 
 ---
 
-![Um único passaporte deitado sobre um fundo azul-marinho real com uma seta dourada suave a curvar-se para a frente, sugerindo o próximo passo claro](https://traveldocumentvault.com/blog/passport-expired-what-to-do/cover.jpg)
-
 ## Pontos-Chave
 
 - Existem dois cenários distintos: descobrir que o seu passaporte expirou **em casa antes de uma viagem** e descobrir no **aeroporto**. Os passos são diferentes para cada um.
@@ -16,6 +14,8 @@ Source: https://traveldocumentvault.com/pt/blog/passport-expired-what-to-do/
 - No aeroporto, contacte primeiro a sua companhia aérea — pergunte se pode remarcar sem taxa de alteração.
 - A solução daqui em diante é um lembrete de expiração de 12 meses, não 6 meses. Isto dá-lhe tempo suficiente para renovar no processamento padrão.
 - A expiração não é o único problema de passaporte que afasta os viajantes. Danos, incompatibilidades de nomes, assinaturas em falta e validade insuficiente no seu destino causam o mesmo resultado.
+
+![Um único passaporte deitado sobre um fundo azul-marinho real com uma seta dourada suave a curvar-se para a frente, sugerindo o próximo passo claro](https://traveldocumentvault.com/blog/passport-expired-what-to-do/cover.jpg)
 
 Descobrir que o seu passaporte expirou é um daqueles momentos em que o tempo de repente se torna muito real. Quer o tenha visto três meses antes de uma viagem ou esteja de pé no balcão de check-in do aeroporto neste momento, o que acontece a seguir depende inteiramente de qual cenário se encontra.
 

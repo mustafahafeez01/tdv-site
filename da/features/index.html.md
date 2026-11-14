@@ -244,7 +244,7 @@ Privatliv og sikkerhed
 
 ## Dine data, din enhed
 
-Ingen servere, der opbevarer dine dokumenter, ingen konti, ingen sporing. Bygget af Mustafa Hafeez med privatliv som fundament. Link til [privatlivspolitik](https://traveldocumentvault.com/privacy-policy/) og [verifikation](https://traveldocumentvault.com/privacy-policy/).
+Ingen servere, der opbevarer dine dokumenter, ingen konti, ingen sporing. Bygget af Mustafa Hafeez med privatliv som fundament. Link til [privatlivspolitik](https://traveldocumentvault.com/privacy-policy/) og [verifikation](https://traveldocumentvault.com/da/privacy-verification/).
 
 ### Dine data forbliver dine
 

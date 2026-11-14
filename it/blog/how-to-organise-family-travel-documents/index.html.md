@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/it/blog/how-to-organise-family-travel-do
 
 ---
 
-![Una fila ordinata e spaziata di diversi documenti di viaggio - un passaporto, una carta d'identità, una pagina di visto e una carta d'imbarco - su uno sfondo blu scuro profondo](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/cover.jpg)
-
 ## Punti chiave
 
 - Per la famiglia servono passaporti, visti, assicurazione viaggio e certificati di vaccinazione, più i documenti in più se viaggi con bambini.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/it/blog/how-to-organise-family-travel-do
 - Le copie digitali non ti fanno passare l'immigrazione, ma ti fanno risparmiare ore in ambasciata se qualcosa si perde. Tienile crittografate, non nel rullino fotografico.
 - Controllare le scadenze prima di prenotare, non la settimana prima di partire, è l'abitudine che evita la maggior parte dei guai con i documenti.
 - Una lista da ripassare quando prenoti ti lascia il tempo di risolvere ogni problema prima che diventi costoso.
+
+![Una fila ordinata e spaziata di diversi documenti di viaggio - un passaporto, una carta d'identità, una pagina di visto e una carta d'imbarco - su uno sfondo blu scuro profondo](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/cover.jpg)
 
 Sono le 23 la sera prima di un volo e i passaporti sono fuori, la ricevuta di assicurazione è da qualche parte, ma il certificato di vaccinazione — quello che la destinazione richiede effettivamente — è scomparso in casa. Succede quando non hai un sistema per i documenti di viaggio della famiglia: ogni volta cerchi in un posto diverso e prima o poi qualcosa di importante non si trova.
 

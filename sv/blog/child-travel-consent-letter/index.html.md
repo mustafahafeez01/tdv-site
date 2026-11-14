@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/sv/blog/child-travel-consent-letter/
 
 ---
 
-![Ett krämfärgat samtyckesbrev och ett barns pass sammanbundna med ett guldfärgat band mot en marinblå bakgrund](https://traveldocumentvault.com/blog/child-travel-consent-letter/cover.jpg)
-
 ## Viktiga punkter
 
 - Kraven varierar kraftigt mellan länder. **Ett brev som fungerar för ett resmål accepteras kanske inte på ett annat.**
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/sv/blog/child-travel-consent-letter/
 - Brevet innehåller vanligtvis barnets fullständiga namn, födelsedatum, passnummer, exakta resdatum, resmål och kontaktuppgifter till den frånvarande föräldern.
 - Vanliga avslag beror på saknad information, avsaknad av bestyrkning eller föråldrade underskrifter.
 - Ha med en utskriven kopia som huvuddokument, och behåll en krypterad digital säkerhetskopia för nödsituationer.
+
+![Ett krämfärgat samtyckesbrev och ett barns pass sammanbundna med ett guldfärgat band mot en marinblå bakgrund](https://traveldocumentvault.com/blog/child-travel-consent-letter/cover.jpg)
 
 Ett medgivandebrev fyller en enda funktion vid incheckningsdisken: det visar att den vuxna som reser med barnet har den frånvarande förälderns samtycke. De flesta godtas utan kommentar.
 

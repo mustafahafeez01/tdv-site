@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/it/blog/visa-expiry-tracker-app/
 
 ---
 
-![Un documento di visto su uno sfondo blu navy reale con un arco dorato morbido che traccia la sua finestra di validità](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/cover.jpg)
-
 ## Punti Chiave
 
 - Tracciare un visto è **più complesso** che tracciare un passaporto: un visto ha una data di validità dell'ingresso, una durata massima di soggiorno e a volte un limite di ingressi, e ognuno va seguito a parte.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/it/blog/visa-expiry-tracker-app/
 - Le migliori app per la scadenza dei visti funzionano offline, gestiscono più tipi di visto e permettono promemoria personalizzati per ogni documento.
 - Se visiti l'Area Schengen devi tracciare una finestra mobile di 90/180 giorni, non solo una singola data di scadenza, perché il conteggio scorre con la tua reale cronologia di viaggio, non con il calendario.
 - Tenere visti e passaporti nello stesso posto riduce il rischio di una mancata corrispondenza: entrare con un visto valido ma con un passaporto che scade prima della fine del soggiorno che hai pianificato.
+
+![Un documento di visto su uno sfondo blu navy reale con un arco dorato morbido che traccia la sua finestra di validità](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/cover.jpg)
 
 Restare oltre la durata consentita dal visto è uno degli errori di viaggio più gravi che si possano fare. Un volo perso è stressante, ma si risolve. Un soggiorno oltre il limite lascia invece una registrazione formale nei dati dell'immigrazione che può seguirti per anni. Negli Stati Uniti, ai sensi della sezione 212(a)(9)(B) dell'[Immigration and Nationality Act](https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chap12-subchapII-partII-sec1182.htm), chi è presente illegalmente per più di 180 giorni ma meno di un anno e poi parte non può in genere rientrare per tre anni, mentre un anno o più di presenza illegale comporta in genere un divieto di dieci anni. Poche persone lo sanno.
 

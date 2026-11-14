@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/fr/blog/child-first-passport-application
 
 ---
 
-![Un parent vu de dos devant une fenêtre lumineuse, un bébé sur l'épaule, tenant un seul passeport doré](https://traveldocumentvault.com/blog/child-first-passport-application/cover.jpg)
-
 ## Points clés à retenir
 
 - **Le consentement à la demande est différent du consentement à voyager.** Les règles varient selon le pays : au Royaume-Uni, une personne ayant l'autorité parentale signe le formulaire et vous indiquez les coordonnées des deux parents ; d'autres pays demandent le consentement des deux parents. Vérifiez auprès de votre bureau des passeports.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/fr/blog/child-first-passport-application
 - **Les photos de passeport pour bébé obéissent à des règles précises.** La plupart des autorités demandent les yeux ouverts et tournés vers l'objectif (GOV.UK assouplit cette règle pour les moins d'un an et les moins de 6 ans), sans tétine, jouet ni main visible — et l'arrière-plan derrière la tête de l'enfant doit être uni et dégagé.
 - **Vérifiez tout dès la réception.** L'orthographe, les noms des parents lorsqu'ils figurent sur le document, la date d'expiration — d'autant plus que les passeports d'enfants expirent souvent plus vite que ceux des adultes ([un passeport britannique pour enfant est valable 5 ans](https://www.gov.uk/get-a-child-passport)).
 - **Dans les pays qui demandent le consentement des deux parents, un parent ne peut généralement pas signer seul, sauf en cas de décision de justice, de garde légale exclusive ou de décès de l'autre parent.** Si c'est votre situation, votre bureau des passeports applique une procédure spécifique.
+
+![Un parent vu de dos devant une fenêtre lumineuse, un bébé sur l'épaule, tenant un seul passeport doré](https://traveldocumentvault.com/blog/child-first-passport-application/cover.jpg)
 
 Le premier passeport de votre enfant, on ne le demande qu'une fois — ce qui veut dire que vous pouvez apprendre les règles avant, plutôt que de les découvrir au guichet. La demande elle-même est simple, mais les règles de consentement et les exigences photo varient selon les pays, et une petite erreur au départ peut entraîner un refus de dossier et un voyage retardé.
 

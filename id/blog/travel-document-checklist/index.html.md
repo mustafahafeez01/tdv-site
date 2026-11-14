@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/id/blog/travel-document-checklist/
 
 ---
 
-![Sebuah paspor dan kartu perjalanan diikat dengan pita emas tipis di atas latar belakang biru laut, semua siap untuk perjalanan](https://traveldocumentvault.com/blog/travel-document-checklist/cover.jpg)
-
 ## Poin Penting
 
 - Daftar periksa dokumen perjalanan yang paling berguna disusun berdasarkan **kapan Anda perlu bertindak**, bukan berdasarkan jenis dokumen. Menyortir berdasarkan tahap berarti Anda menangkap masalah selagi masih ada waktu untuk memperbaikinya.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/id/blog/travel-document-checklist/
 - Perjalanan keluarga menambah satu lapisan tersendiri: dokumen setiap anak perlu diperiksa satu per satu, dan surat izin orang tua mungkin diperlukan jika salah satu orang tua tidak ikut bepergian.
 - Pelancong bisnis sering membawa beberapa paspor dan visa kerja, ini perlu dilacak tersendiri, terpisah dari dokumen pribadi.
 - Cadangan digital setiap dokumen (terenkripsi, bukan di galeri foto Anda) bisa membantu Anda pulang lebih cepat jika terjadi masalah di luar negeri.
+
+![Sebuah paspor dan kartu perjalanan diikat dengan pita emas tipis di atas latar belakang biru laut, semua siap untuk perjalanan](https://traveldocumentvault.com/blog/travel-document-checklist/cover.jpg)
 
 Kebanyakan daftar periksa dokumen perjalanan hanyalah daftar datar: paspor, visa, asuransi. Daftar itu memberi tahu Anda apa yang harus dibawa, tetapi tidak kapan harus memeriksanya, dan di situlah orang sering terjebak. Keluarga yang baru sadar saat check-in bahwa satu paspor akan kedaluwarsa dalam lima bulan, pelancong solo yang memesan tanpa menyadari persyaratan visanya, atau pelancong bisnis yang lupa paspor mana yang terpasang visanya, ini bukan kasus langka. Ini yang biasa terjadi.
 

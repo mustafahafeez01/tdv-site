@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/id/blog/passport-name-change-after-marri
 
 ---
 
-![Sketsa cat air sebuah keluarga beranggotakan tiga orang dilihat dari belakang di jendela bandara pada cahaya pagi, salah satu orang dewasa memegang paspor emas](https://traveldocumentvault.com/blog/passport-name-change-after-marriage/cover.jpg)
-
 ## Poin Penting
 
 - **Menikah saja tidak mengubah apa pun.** Anda memerlukan paspor baru hanya jika mulai memakai nama yang berbeda.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/id/blog/passport-name-change-after-marri
 - Setelah upacara, kirim **akta nikah atau akta kemitraan sipil** bersama permohonan.
 - Mengajukan sebelum upacara menghasilkan **paspor post-dated**, membatalkan paspor lama, dan bisa merumitkan urusan visa.
 - Jika bulan madu dekat dengan hari pernikahan, kami menyarankan bepergian dengan nama Anda saat ini dan mengajukan setelah Anda pulang.
+
+![Sketsa cat air sebuah keluarga beranggotakan tiga orang dilihat dari belakang di jendela bandara pada cahaya pagi, salah satu orang dewasa memegang paspor emas](https://traveldocumentvault.com/blog/passport-name-change-after-marriage/cover.jpg)
 
 Menikah saja tidak mengubah apa pun pada paspor Inggris. [Panduan petugas HM Passport Office tentang perubahan nama](https://www.gov.uk/government/publications/change-of-name-passport-applications-caseworker-guidance/names-change-of-name-passport-applications-accessible) menyatakan tidak ada dasar hukum bagi siapa pun untuk mengganti nama karena menikah, jadi paspor hanya perlu diubah ketika nama yang Anda pakai berubah. Artinya Anda punya pilihan soal kapan melakukannya, dan waktunya ternyata lebih penting daripada urusan berkas.
 

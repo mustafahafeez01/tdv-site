@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/is-it-safe-to-store-passpor
 
 ---
 
-![一本护照在深海军蓝色背景上，受到柔和金色盾牌保护，提示私密和安全的文件存储](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/cover.jpg)
-
 ## 关键要点
 
 - 在 Google Photos 中存储护照扫描件意味着您的身份证件存储在 Google 的服务器上，由其系统处理，仅受您的账户安全保护。
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/is-it-safe-to-store-passpor
 - Google 的隐私政策称，它会使用自动化系统分析您的内容，以提供和改进其服务，而护照扫描件和其他照片一样存储。
 - 存在更好的选择：加密密码管理器、设备端加密应用或客户端加密云存储——都不会将您的护照转储到通用照片库中。
 - 对于大多数人而言，真正的风险不是 Google——而是账户安全薄弱以及谁能进入该账户。
+
+![一本护照在深海军蓝色背景上，受到柔和金色盾牌保护，提示私密和安全的文件存储](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/cover.jpg)
 
 不少人在 Google Photos 中存储护照扫描件而不多想。您需要一份副本，拍一张照片，它自动备份。完成。关于对您最敏感的身份证件这样做是否真正明智的问题很少被提起——直到出现问题。
 

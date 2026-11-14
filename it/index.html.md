@@ -6,7 +6,9 @@ Source: https://traveldocumentvault.com/it/
 
 ---
 
-09:41
+L'app crittografa i tuoi documenti sul tuo telefono. Pro include un backup crittografato nel cloud che puoi attivare se lo desideri.
+
+[Come vengono protetti i tuoi documenti](https://traveldocumentvault.com/it/privacy-verification/) 09:41
 
 ## Il Viaggio che si Fa Prima del Viaggio
 

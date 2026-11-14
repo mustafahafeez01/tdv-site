@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/da/blog/international-driving-permit-val
 
 ---
 
-![En familie, der læsser en lejebil ved starten af en bilferie, med kørekort og internationalt kørekort liggende på det åbne kort ved siden af](https://traveldocumentvault.com/blog/international-driving-permit-validity/cover.jpg)
-
 ## Vigtigste punkter
 
 - Et internationalt kørekort er **en oversættelse af det kørekort, du allerede har**, så du medbringer begge dele. At aflevere kun kortet beviser ingenting.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/da/blog/international-driving-permit-val
 - Wien-kortet er **begrænset af dit kørekort**. Udløber kørekortet først, stopper kortet med at være gyldigt på den dato – uanset hvad der står trykt på det.
 - Landene har ratificeret forskellige konventioner, så **et kort, der accepteres i ét land, kan blive afvist i det næste**.
 - Pas, kørekort og internationalt kørekort kører efter **tre forskellige ure**, der næsten aldrig stemmer overens.
+
+![En familie, der læsser en lejebil ved starten af en bilferie, med kørekort og internationalt kørekort liggende på det åbne kort ved siden af](https://traveldocumentvault.com/blog/international-driving-permit-validity/cover.jpg)
 
 Et internationalt kørekort er en oversættelse af kørekortet, ikke et kørekort i sig selv, og det løber efter sin egen kalender. Mange gælder tolv måneder fra udstedelsesdatoen, og ingen gælder længere end tre år, så det, der blev købt til en rejse for tre somre siden, er næsten med sikkerhed udløbet. Udlejningsskranker i flere lande beder om det, før de udleverer en bil.
 

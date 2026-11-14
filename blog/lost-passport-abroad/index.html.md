@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/blog/lost-passport-abroad/
 
 ---
 
-![A passport on a royal navy background with faint gold route lines and a small gold locator pin nearby, suggesting help finding your way home](https://traveldocumentvault.com/blog/lost-passport-abroad/cover.jpg)
-
 ## Key Takeaways
 
 - File a police report early - your insurer will usually want it, and some embassies ask for it too.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/blog/lost-passport-abroad/
 - A copy of your passport details can help speed things up, though it can't be used as identification.
 - Some travel insurance policies cover passport replacement costs. Check yours, and keep the police report, which insurers often ask for.
 - The time to prepare is now, before anything goes wrong. A five-minute scan today could save days of stress abroad.
+
+![A passport on a royal navy background with faint gold route lines and a small gold locator pin nearby, suggesting help finding your way home](https://traveldocumentvault.com/blog/lost-passport-abroad/cover.jpg)
 
 People replace lost passports abroad every day, and embassies treat it as routine work rather than an emergency. The process has an order to it, and following that order is what turns a bad afternoon into a delay rather than a cancelled trip. Here is what to do, step by step.
 

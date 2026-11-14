@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/nl/blog/travel-document-checklist/
 
 ---
 
-![Een paspoort en reispasjes samengebonden met een smal gouden lint op een koningsblauwe achtergrond, alles klaar voor de reis](https://traveldocumentvault.com/blog/travel-document-checklist/cover.jpg)
-
 ## Belangrijkste punten
 
 - De handigste checklist voor reisdocumenten is georganiseerd naar **wanneer je moet handelen**, niet naar documenttype. Sorteren op fase betekent dat je problemen opmerkt terwijl er nog tijd is om ze op te lossen.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/nl/blog/travel-document-checklist/
 - Gezinsreizen voegen een extra laag toe: de documenten van elk kind moeten afzonderlijk worden gecontroleerd, en een toestemmingsverklaring kan nodig zijn als een van de ouders niet meereist.
 - Zakenreizigers hebben vaak meerdere paspoorten en werkvisa, deze moeten apart worden bijgehouden, los van persoonlijke documenten.
 - Een digitale back-up van elk document (versleuteld, niet in je fotobibliotheek) kan je sneller thuis krijgen als er in het buitenland iets misgaat.
+
+![Een paspoort en reispasjes samengebonden met een smal gouden lint op een koningsblauwe achtergrond, alles klaar voor de reis](https://traveldocumentvault.com/blog/travel-document-checklist/cover.jpg)
 
 De meeste checklists voor reisdocumenten zijn gewoon een platte lijst: paspoort, visum, verzekering. Ze vertellen je wat je moet meenemen, maar niet wanneer je het moet controleren, en juist daar gaat het mis. Het gezin dat bij de incheckbalie ontdekt dat een paspoort over vijf maanden verloopt, de soloreiziger die boekte zonder de visumplicht op te merken, of de zakenreiziger die vergat in welk paspoort het visum zat, zijn geen uitzonderingen. Het is de norm.
 

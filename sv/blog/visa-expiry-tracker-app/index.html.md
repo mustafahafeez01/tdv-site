@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/sv/blog/visa-expiry-tracker-app/
 
 ---
 
-![Ett visumdokument mot en kungsblå bakgrund med en mjuk guldfärgad båge som markerar giltighetstiden](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/cover.jpg)
-
 ## Viktiga punkter
 
 - Visumbevakning är **mer komplext** än passbevakning – ett visum har ett inresedatum, en maximal vistelsetid och ibland en gräns för antal inresor, och allt detta måste bevakas separat.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/sv/blog/visa-expiry-tracker-app/
 - De bästa apparna för visumbevakning fungerar offline, stödjer flera visumtyper och låter dig ställa in egna påminnelsetider per dokument.
 - Besökare i Schengenområdet måste bevaka ett rullande 90/180-dagarsfönster, inte bara ett enda utgångsdatum, eftersom räkningen följer din faktiska reshistorik och inte kalendern.
 - Att bevaka visum och pass tillsammans på samma ställe minskar risken för en krock: att resa in på ett giltigt visum men med ett pass som går ut innan den planerade vistelsen är slut.
+
+![Ett visumdokument mot en kungsblå bakgrund med en mjuk guldfärgad båge som markerar giltighetstiden](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/cover.jpg)
 
 En overstay på visumet är ett av de mest konsekvensrika misstag en resenär kan göra. Till skillnad från ett missat flyg, stressande men i grunden lösbart, skapar en overstay ett formellt register hos migrationsmyndigheterna som kan följa dig i flera år. I USA gäller enligt avsnitt 212(a)(9)(B) i den [amerikanska Immigration and Nationality Act](https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chap12-subchapII-partII-sec1182.htm) att den som vistats olagligt i mer än 180 dagar men under ett år och sedan lämnar landet i regel utestängs från återinresa i tre år, och ett år eller mer av olaglig vistelse innebär i regel ett tioårigt förbud. Dessa konsekvenser är inte allmänt kända.
 

@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/da/blog/lost-passport-abroad/
 
 ---
 
-![Et pas på en marineblå baggrund med svage guldfarvede rutelinjer og en lille guldfarvet lokaliseringsnål i nærheden, der antyder hjælp til at finde vej hjem](https://traveldocumentvault.com/blog/lost-passport-abroad/cover.jpg)
-
 ## Vigtigste punkter
 
 - Indgiv en politianmeldelse hurtigt – dit forsikringsselskab vil som regel bede om den, og nogle ambassader spørger også om den.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/da/blog/lost-passport-abroad/
 - En kopi af dine pasoplysninger kan hjælpe processen på vej, men kan ikke bruges som legitimation.
 - Nogle rejseforsikringer dækker udgifterne til et nyt pas. Tjek din police, og gem politianmeldelsen, som forsikringsselskaber ofte beder om.
 - Det rette tidspunkt at forberede sig på er nu, før noget går galt. En scanning, der tager fem minutter i dag, kan spare dig for dage med stress i udlandet.
+
+![Et pas på en marineblå baggrund med svage guldfarvede rutelinjer og en lille guldfarvet lokaliseringsnål i nærheden, der antyder hjælp til at finde vej hjem](https://traveldocumentvault.com/blog/lost-passport-abroad/cover.jpg)
 
 Folk får erstattet mistede pas i udlandet hver eneste dag, og ambassader behandler det som en rutinesag frem for en nødsituation. Processen har en bestemt rækkefølge, og at følge den er det, der gør en dårlig eftermiddag til en forsinkelse i stedet for en aflyst rejse. Sådan gør du, trin for trin.
 

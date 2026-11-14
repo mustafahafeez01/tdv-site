@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/sv/blog/travelling-child-without-both-pa
 
 ---
 
-![Handritad skiss av en förälder och ett barn sedda bakifrån i en avgångshall på en flygplats, föräldern håller en liten solfjäder av två pass och ett vikt dokument i brösthöjd](https://traveldocumentvault.com/blog/travelling-child-without-both-parents/cover.jpg)
-
 ## Viktiga punkter
 
 - **Incheckningspersonal och gränskontrollanter kontrollerar olika saker.** Att uppfylla ett krav binder inte det andra, varken vid ankomst eller utresa.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/sv/blog/travelling-child-without-both-pa
 - Ensam vårdnad: ta med **vårdnadsbeslutet eller domstolsbeslutet** och eventuellt samtycke som behövs från andra med föräldraansvar.
 - Den andra föräldern har avlidit: om du har ensam rätt att fatta beslut för barnet rekommenderar Kanadas riktlinjer en **kopia av dödsattesten**.
 - Annat efternamn: barnets **fullständiga födelsebevis** visar er relation, tillsammans med ett vigsel- eller skilsmässobevis om ditt namn har ändrats.
+
+![Handritad skiss av en förälder och ett barn sedda bakifrån i en avgångshall på en flygplats, föräldern håller en liten solfjäder av två pass och ett vikt dokument i brösthöjd](https://traveldocumentvault.com/blog/travelling-child-without-both-parents/cover.jpg)
 
 Incheckningspersonal och gränskontrollanter tittar två gånger på ett barn som reser utan båda föräldrarna, och den andra blicken är rutinmässig barnskyddskontroll, inte misstanke mot någon i synnerhet. Vilka papper det handlar om beror på varför den andra föräldern saknas: fortfarande hemma, inte längre delad vårdnad, eller inte längre i livet. Var och en av de situationerna kan kräva styrkande handlingar, och ett samtyckesbrev kan fortfarande rekommenderas tillsammans med ett vårdnadsbeslut.
 

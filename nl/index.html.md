@@ -6,7 +6,9 @@ Source: https://traveldocumentvault.com/nl/
 
 ---
 
-09:41
+De app versleutelt uw documenten op uw telefoon. Pro bevat versleutelde back-ups in de cloud, die u naar wens kunt inschakelen.
+
+[Hoe uw documenten worden beschermd](https://traveldocumentvault.com/nl/privacy-verification/) 09:41
 
 ## De reis vóór de reis
 

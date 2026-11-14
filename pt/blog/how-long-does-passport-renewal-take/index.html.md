@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/pt/blog/how-long-does-passport-renewal-t
 
 ---
 
-![Um passaporte a sair parcialmente de um envelope creme simples num fundo azul-marinho profundo, sugerindo uma renovação em progresso](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/cover.jpg)
-
 ## Pontos-chave
 
 - O tempo de renovação de passaporte depende do seu país, da sua situação e da época do ano em que se candidata — não existe um número único que se mantenha exato por muito tempo, por isso omitimos deliberadamente um neste guia.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/pt/blog/how-long-does-passport-renewal-t
 - Um punhado de situações atrasa de forma fiável o processo: uma mudança de nome, um primeiro passaporte de adulto, uma candidatura para uma criança, um passaporte perdido ou danificado, verificações de segurança extra, a época de pico e candidatar-se do estrangeiro.
 - A abordagem mais segura é candidatar-se assim que a validade restante do seu passaporte começar a ficar apertada, calculando para trás a partir da sua data de viagem real em vez de adivinhar.
 - Para o número que importa agora, procure a sua própria autoridade de passaportes — HM Passport Office, o Departamento de Estado dos EUA, o Serviço de Passaportes Australiano ou o equivalente nacional — não um artigo de blog.
+
+![Um passaporte a sair parcialmente de um envelope creme simples num fundo azul-marinho profundo, sugerindo uma renovação em progresso](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/cover.jpg)
 
 Marcou voos para uma viagem cinco meses a partir de agora. Tira os passaportes de toda a gente para verificar novamente e lá está: um expira em cinco meses e três semanas. Agora precisa saber exatamente quanto tempo demora a renovação de passaporte — porque a matemática de repente importa.
 

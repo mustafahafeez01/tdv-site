@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/blog/travel-insurance-documents/
 
 ---
 
-![a parent and sleepy child sit in a quiet clinic waiting room at night, the parent calmly reading their insurance policy on a glowing phone screen](https://traveldocumentvault.com/blog/travel-insurance-documents/cover.jpg)
-
 ## Key Takeaways
 
 - **Save your full policy documents, policy number and emergency assistance number** (not the sales number).
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/blog/travel-insurance-documents/
 - **Check when your insurer requires contact before treatment**; get emergency medical help first and contact the insurer as soon as possible.
 - Keep receipts and reports, and ask your insurer which documents it needs for a claim.
 - Read your policy's key sections quickly by focusing on coverage limits, exclusions, and conditions.
+
+![a parent and sleepy child sit in a quiet clinic waiting room at night, the parent calmly reading their insurance policy on a glowing phone screen](https://traveldocumentvault.com/blog/travel-insurance-documents/cover.jpg)
 
 We'd save your travel insurance documents offline and pack a paper backup before leaving, with your policy number, proof of cover and emergency assistance number together. Here we'll cover what to save, testing offline access and reading claim instructions, including finding out when the assistance line is open.
 

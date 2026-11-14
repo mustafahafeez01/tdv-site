@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/de/blog/passport-photo-at-home/
 
 ---
 
-![Vater fotografiert seinen jungen Sohn gegen eine einfache Wand im Fensterlich, ein ausgedrucktes Blatt mit Passfotos liegt auf dem Tisch vor ihnen](https://traveldocumentvault.com/blog/passport-photo-at-home/cover.jpg)
-
 ## Wichtigste Erkenntnisse
 
 - Verwenden Sie einen einfarbigen, hellen Hintergrund in dem von Ihrer Behörde verlangten Farbton. Schauen Sie mit neutralem Ausdruck und offenen Augen geradeaus – für kleine Kinder gelten Ausnahmen
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/de/blog/passport-photo-at-home/
 - Natürliches Fensterlich funktioniert am besten – vermeiden Sie harte Schatten und vermeiden Sie Kamerablitz
 - Viele Behörden, darunter die britische, bitten Sie, keine Brille zu tragen, außer es ist nötig – überprüfen Sie aktuelle Anforderungen
 - Fotos können abgelehnt werden, wenn sie die Vorgaben Ihrer Behörde zu Beleuchtung, Größe, Gesichtsausdruck, Schärfe oder Hintergrund nicht erfüllen
+
+![Vater fotografiert seinen jungen Sohn gegen eine einfache Wand im Fensterlich, ein ausgedrucktes Blatt mit Passfotos liegt auf dem Tisch vor ihnen](https://traveldocumentvault.com/blog/passport-photo-at-home/cover.jpg)
 
 Laut GOV.UK werden Fotos aus einem Fotoautomaten oder Geschäft eher akzeptiert als Fotos mit dem eigenen Gerät. Fotos können abgelehnt werden, wenn sie die Vorgaben Ihrer Behörde zu Beleuchtung, Größe, Gesichtsausdruck, Schärfe oder Hintergrund nicht erfüllen.
 

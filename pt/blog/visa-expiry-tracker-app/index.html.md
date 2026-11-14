@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/pt/blog/visa-expiry-tracker-app/
 
 ---
 
-![Um documento de visto numa base azul-marinho real com um arco dourado suave a acompanhar a sua janela de validade](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/cover.jpg)
-
 ## Pontos-Chave
 
 - O rastreamento de visto é **mais complexo** do que o rastreamento de passaporte — um visto tem uma data de validade de entrada, uma duração máxima de permanência, e por vezes limites de contagem de entrada, todos os quais precisam de monitorização separada.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/pt/blog/visa-expiry-tracker-app/
 - As melhores aplicações de rastreamento de visto funcionam sem ligação à internet, suportam múltiplos tipos de visto, e permitem lembretes personalizados por documento.
 - Os visitantes da Área de Schengen devem rastrear uma janela móvel de 90/180 dias, não apenas uma única data de validade, porque a contagem acompanha o seu histórico real de viagens, não o calendário.
 - O rastreamento de vistos e passaportes juntos num só local reduz o risco de uma discrepância: entrar com um visto válido mas com um passaporte que expira antes do final da sua permanência planeada.
+
+![Um documento de visto numa base azul-marinho real com um arco dourado suave a acompanhar a sua janela de validade](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/cover.jpg)
 
 Uma ultrapassagem de visto é um dos erros de viagem mais consequentes que uma pessoa pode cometer. Ao contrário de um voo perdido — stressante mas fundamentalmente reparável — uma ultrapassagem cria um registo formal de imigração que pode segui-lo durante anos. Nos Estados Unidos, ao abrigo da secção 212(a)(9)(B) da [Immigration and Nationality Act](https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chap12-subchapII-partII-sec1182.htm), quem esteja em situação ilegal durante mais de 180 dias mas menos de um ano e depois saia fica geralmente impedido de regressar durante três anos, e um ano ou mais de presença ilegal significa geralmente uma proibição de dez anos. Estas consequências não são amplamente conhecidas.
 

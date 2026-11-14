@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/da/blog/travel-document-checklist/
 
 ---
 
-![Et pas og rejsekort samlet med et smalt guldbånd på en kongeblå baggrund, alt klar til rejsen](https://traveldocumentvault.com/blog/travel-document-checklist/cover.jpg)
-
 ## Vigtigste punkter
 
 - Den mest nyttige tjekliste til rejsedokumenter er organiseret efter **hvornår du skal handle**, ikke efter dokumenttype. At sortere efter stadie betyder, at du opdager problemer, mens der stadig er tid til at løse dem.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/da/blog/travel-document-checklist/
 - Familierejser tilføjer et ekstra lag: hvert barns dokumenter skal tjekkes individuelt, og et samtykkebrev kan være nødvendigt, hvis den ene forælder ikke rejser med.
 - Forretningsrejsende har ofte flere pas og arbejdsvisa, disse skal spores separat fra personlige dokumenter.
 - En digital sikkerhedskopi af hvert dokument (krypteret, ikke i dit fotobibliotek) kan bringe dig hjem hurtigere, hvis noget går galt i udlandet.
+
+![Et pas og rejsekort samlet med et smalt guldbånd på en kongeblå baggrund, alt klar til rejsen](https://traveldocumentvault.com/blog/travel-document-checklist/cover.jpg)
 
 De fleste tjeklister til rejsedokumenter er bare en flad liste: pas, visum, forsikring. De fortæller dig, hvad du skal have med, men ikke hvornår du skal tjekke det, og det er dér, folk bliver taget på sengen. Familien, der opdager ved indcheckningen, at et pas udløber om fem måneder, soloresenæren, der bookede uden at bemærke visumkravet, eller forretningsrejsende, der glemte, hvilket pas visummet sad i, er ikke undtagelser. De er reglen.
 

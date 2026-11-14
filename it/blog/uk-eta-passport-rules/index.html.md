@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/it/blog/uk-eta-passport-rules/
 
 ---
 
-![Un genitore e una bambina visti di spalle davanti a un'ampia vetrata dell'aeroporto, con due passaporti in mano di cui quello davanti bordato d'oro e un aereo al gate sullo sfondo](https://traveldocumentvault.com/blog/uk-eta-passport-rules/cover.jpg)
-
 ## Punti chiave
 
 - **L'ETA del Regno Unito è legata al numero del tuo passaporto.** Quando rinnovi il passaporto e ricevi un nuovo numero, la vecchia ETA non è più valida.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/it/blog/uk-eta-passport-rules/
 - **Ogni persona ha bisogno della propria ETA** — inclusi bambini e neonati. Non esiste un'ETA familiare. Ogni persona ha bisogno della propria, anche se puoi fare domanda per conto dei familiari.
 - L'Home Office consiglia di fare domanda **con almeno 3 giorni lavorativi di anticipo.** È un consiglio, non una garanzia sui tempi di elaborazione.
 - Un'ETA è **un permesso per viaggiare, non per entrare.** Gli agenti di frontiera possono rifiutare l'ingresso anche con un'ETA valida.
+
+![Un genitore e una bambina visti di spalle davanti a un'ampia vetrata dell'aeroporto, con due passaporti in mano di cui quello davanti bordato d'oro e un aereo al gate sullo sfondo](https://traveldocumentvault.com/blog/uk-eta-passport-rules/cover.jpg)
 
 Il sistema dell'ETA del Regno Unito sembra semplice in superficie: fai domanda, paghi, viaggi. C'è però una regola sotto la superficie, che non è ovvia finché non conta davvero: la tua ETA è legata al numero di passaporto specifico indicato nella domanda. Quando rinnovi quel passaporto e ricevi un nuovo numero, la tua ETA smette di essere valida. Dovrai fare di nuovo domanda con il nuovo passaporto prima del viaggio.
 

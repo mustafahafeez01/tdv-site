@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/da/blog/damaged-passport-travel/
 
 ---
 
-![forælder og barn ved en check-in-skranke, mens medarbejderen studerer et åbent, guldfarvet pas med vandskadede sider](https://traveldocumentvault.com/blog/damaged-passport-travel/cover.jpg)
-
 ## Vigtigste punkter
 
 - **Ikke al slitage er skade.** En krøllet forside er fint. Vandskade, iturevne sider eller udviskede sikkerhedselementer er det ikke.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/da/blog/damaged-passport-travel/
 - Opdager du skaden **dage eller uger før** din rejse, har du tid til en hasteudstedelse. Opdager du den dagen før, er det en krise.
 - Bliver du afvist ved gaten, **så spørg din ambassade om et nødrejsedokument**.
 - En digital kopi er **mest værd, når du er i udlandet** – en konsulær medarbejder kan bekræfte din identitet ud fra en scanning langt hurtigere end ud fra din egen forklaring. Scan dit pas, før du rejser.
+
+![forælder og barn ved en check-in-skranke, mens medarbejderen studerer et åbent, guldfarvet pas med vandskadede sider](https://traveldocumentvault.com/blog/damaged-passport-travel/cover.jpg)
 
 De fleste pasbeskadigelser er kosmetiske. Et slidt omslag, et blødt hjørne, en flosset kant langs ryggen – intet af det forhindrer nogen i at boarde. Det, grænsepersonale og luftfartsselskabernes medarbejdere reelt tjekker, er mere snævert, end de fleste rejsende regner med: datasiden, de to trykte linjer nedenunder, og om hæftet stadig hænger sammen som ét dokument.
 

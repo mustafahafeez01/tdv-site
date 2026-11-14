@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/id/blog/proof-of-onward-travel/
 
 ---
 
-![Seorang orang tua dan anak di jendela bandara memegang paspor dengan tiket perjalanan terselip di dalamnya, memandang pesawat sebelum perjalanan](https://traveldocumentvault.com/blog/proof-of-onward-travel/cover.jpg)
-
 ## Poin Penting
 
 - **Bukti perjalanan lanjutan umumnya berarti tiket yang sudah dipesan keluar dari negara tujuan Anda,** baik pulang ke rumah atau menuju negara lain yang boleh Anda masuki.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/id/blog/proof-of-onward-travel/
 - Beberapa negara tujuan mencantumkan perjalanan lanjutan dalam aturan masuk mereka untuk pengunjung, sehingga maskapai yang menanyakannya sering kali hanya menerapkan aturan tujuan itu lebih awal.
 - Reservasi hotel atau rekening koran menjawab pertanyaan yang berbeda - di mana Anda akan menginap dan bagaimana Anda membiayai diri - dan biasanya tidak dapat menggantikan tiket keluar.
 - Simpan konfirmasinya di tempat yang dapat Anda buka di meja check-in tanpa sinyal atau login.
+
+![Seorang orang tua dan anak di jendela bandara memegang paspor dengan tiket perjalanan terselip di dalamnya, memandang pesawat sebelum perjalanan](https://traveldocumentvault.com/blog/proof-of-onward-travel/cover.jpg)
 
 Dalam kebanyakan kasus, bukti perjalanan lanjutan adalah tiket yang sudah dipesan keluar dari negara tujuan Anda. Penerbangan pulang ke rumah termasuk, begitu juga tiket menuju negara ketiga yang boleh Anda masuki. Jika Anda sudah memiliki salah satunya, Anda sudah memiliki apa yang biasanya diminta.
 

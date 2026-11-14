@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/de/blog/us-child-passport-renewal-under-
 
 ---
 
-![Zwei Eltern und ein Kind von hinten gesehen, Hand in Hand auf eine offene Tür zugehend, ein Elternteil hält den Reisepass des Kindes](https://traveldocumentvault.com/blog/us-child-passport-renewal-under-16/cover.jpg)
-
 ## Wichtigste Erkenntnisse
 
 - Ein US-Kinderreisepass, der vor dem 16. Geburtstag ausgestellt wurde, **kann nicht verlängert werden** - Sie beantragen stattdessen einen neuen.
@@ -16,6 +14,8 @@ Source: https://traveldocumentvault.com/de/blog/us-child-passport-renewal-under-
 - Beide Eltern müssen teilnehmen, außer einer gibt eine **notariell beglaubigte schriftliche Zustimmung** oder es gibt einen Nachweis der alleinigen Befugnis.
 - Mit 16 oder 17 Jahren beantragt der Jugendliche persönlich und kann seinen eigenen Antrag unterschreiben, aber ein Elternteil muss möglicherweise trotzdem zustimmen.
 - Ein ab 16 Jahren ausgestellter Pass ist zehn Jahre gültig und kann meist wie der eines Erwachsenen verlängert werden.
+
+![Zwei Eltern und ein Kind von hinten gesehen, Hand in Hand auf eine offene Tür zugehend, ein Elternteil hält den Reisepass des Kindes](https://traveldocumentvault.com/blog/us-child-passport-renewal-under-16/cover.jpg)
 
 Ein US-Reisepass, der einem Kind unter 16 Jahren ausgestellt wird, kann nicht verlängert werden. Läuft er ab, beantragen Sie persönlich einen neuen, genauso wie beim ersten Mal, und beide Eltern nehmen wieder teil. Es ist etwas mehr Papierkram als eine Erwachsenenverlängerung, aber nichts Neues, wenn Sie es schon einmal gemacht haben.
 

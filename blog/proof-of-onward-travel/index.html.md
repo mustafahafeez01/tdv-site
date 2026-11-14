@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/blog/proof-of-onward-travel/
 
 ---
 
-![A parent and child at an airport window holding a passport with a travel ticket tucked inside, looking out at an aircraft before a trip](https://traveldocumentvault.com/blog/proof-of-onward-travel/cover.jpg)
-
 ## Key Takeaways
 
 - **Proof of onward travel usually means a booked ticket out of the country you're flying to,** either home or on to a country you're allowed to enter.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/blog/proof-of-onward-travel/
 - Some destinations write onward travel into their entry rules for visitors, so an airline asking is often applying the destination's rule early.
 - A hotel booking or a bank statement answers different questions, where you'll stay and how you'll support yourself, and typically doesn't stand in for a ticket out.
 - Keep the confirmation somewhere you can open it at the desk without signal or a login.
+
+![A parent and child at an airport window holding a passport with a travel ticket tucked inside, looking out at an aircraft before a trip](https://traveldocumentvault.com/blog/proof-of-onward-travel/cover.jpg)
 
 In most cases, proof of onward travel is a booked ticket out of the country you're flying to. A return flight home counts, and so does a ticket on to a third country you're allowed to enter. If you already hold one of those, you have what's usually being asked for.
 

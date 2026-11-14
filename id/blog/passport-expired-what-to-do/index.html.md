@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/id/blog/passport-expired-what-to-do/
 
 ---
 
-![Sebuah paspor tergeletak rata di atas latar belakang biru laut, dengan panah emas lembut yang melengkung ke depan, menandakan langkah selanjutnya yang jelas](https://traveldocumentvault.com/blog/passport-expired-what-to-do/cover.jpg)
-
 ## Poin Penting
 
 - Ada dua situasi berbeda: mengetahui paspor Anda kedaluwarsa **di rumah sebelum bepergian**, dan mengetahuinya **di bandara**. Langkah-langkahnya berbeda untuk setiap situasi.
@@ -16,6 +14,8 @@ Source: https://traveldocumentvault.com/id/blog/passport-expired-what-to-do/
 - Di bandara: hubungi maskapai Anda terlebih dahulu dan tanyakan apakah mereka bisa menjadwalkan ulang tanpa biaya perubahan.
 - Solusi jangka panjangnya adalah pengingat kedaluwarsa 12 bulan sebelumnya, bukan 6 bulan. Ini memberi Anda cukup waktu untuk memperpanjang dengan proses standar.
 - Kedaluwarsa bukan satu-satunya masalah paspor yang membuat pelancong ditolak. Kerusakan, nama yang tidak sesuai, tanda tangan yang hilang, dan sisa masa berlaku yang tidak cukup di negara tujuan semuanya berujung pada hasil yang sama.
+
+![Sebuah paspor tergeletak rata di atas latar belakang biru laut, dengan panah emas lembut yang melengkung ke depan, menandakan langkah selanjutnya yang jelas](https://traveldocumentvault.com/blog/passport-expired-what-to-do/cover.jpg)
 
 Menemukan bahwa paspor Anda sudah kedaluwarsa adalah salah satu momen ketika waktu tiba-tiba terasa sangat nyata. Baik Anda menyadarinya tiga bulan sebelum keberangkatan atau justru sedang berdiri di meja check-in bandara sekarang, langkah selanjutnya bergantung sepenuhnya pada situasi yang Anda hadapi.
 

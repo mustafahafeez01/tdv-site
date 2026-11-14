@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/sv/blog/passport-name-change-after-marri
 
 ---
 
-![Akvarellskiss av en familj på tre sedd bakifrån vid ett flygplatsfönster i morgonljus, en vuxen håller ett guldfärgat pass](https://traveldocumentvault.com/blog/passport-name-change-after-marriage/cover.jpg)
-
 ## Viktiga punkter
 
 - **Själva giftermålet ändrar ingenting.** Du behöver ett nytt pass först när du börjar använda ett annat namn.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/sv/blog/passport-name-change-after-marri
 - Efter ceremonin skickar du med ditt **vigselbevis eller intyg om registrerat partnerskap** i ansökan.
 - Ansöker du före ceremonin får du ett **efterdaterat pass**, ditt gamla pass annulleras och det kan krångla till visum.
 - Om smekmånaden ligger nära bröllopet skulle vi resa under ditt nuvarande namn och ansöka när du är hemma igen.
+
+![Akvarellskiss av en familj på tre sedd bakifrån vid ett flygplatsfönster i morgonljus, en vuxen håller ett guldfärgat pass](https://traveldocumentvault.com/blog/passport-name-change-after-marriage/cover.jpg)
 
 Att gifta sig ändrar ingenting i ett brittiskt pass i sig. HM Passport Offices egna [handläggarriktlinjer om namnbyte](https://www.gov.uk/government/publications/change-of-name-passport-applications-caseworker-guidance/names-change-of-name-passport-applications-accessible) säger att det inte finns någon rättslig grund för att byta namn bara för att man har gift sig, så passet behöver bara ändras när det namn du använder ändras. Då återstår ett val om när, och tidpunkten visar sig betyda mer än pappersarbetet.
 

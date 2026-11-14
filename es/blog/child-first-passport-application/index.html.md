@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/es/blog/child-first-passport-application
 
 ---
 
-![Madre o padre de espaldas junto a una ventana luminosa, con un bebé en un hombro, sosteniendo en alto una libreta de pasaporte dorada](https://traveldocumentvault.com/blog/child-first-passport-application/cover.jpg)
-
 ## Puntos Clave
 
 - **El consentimiento para solicitar el pasaporte es distinto del consentimiento para viajar.** Las normas varían según el país: en el Reino Unido, por ejemplo, firma alguien con responsabilidad parental y se facilitan los datos de ambos progenitores, mientras que otros países piden el consentimiento de los dos. Consulta tu oficina de pasaportes.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/es/blog/child-first-passport-application
 - **Las fotos de pasaporte de bebés tienen normas específicas.** La mayoría de las autoridades quieren los ojos abiertos y mirando a la cámara (GOV.UK relaja esto para menores de 1 y de 6 años), sin chupetes, juguetes ni manos visibles —y el fondo detrás de la cabeza del niño debe ser liso y despejado.
 - **Revísalo todo en cuanto llegue.** La ortografía, los nombres de los padres donde aparezcan, la fecha de caducidad —sobre todo porque los pasaportes infantiles suelen caducar antes que los de los adultos ([los británicos tienen una validez de 5 años](https://www.gov.uk/get-a-child-passport)).
 - **En los países que piden el consentimiento de ambos progenitores, por lo general uno no puede firmar solo, salvo que exista una orden judicial, la guarda y custodia legal exclusiva, o que el otro progenitor haya fallecido.** Si es tu caso, tu oficina de pasaportes sigue un procedimiento específico.
+
+![Madre o padre de espaldas junto a una ventana luminosa, con un bebé en un hombro, sosteniendo en alto una libreta de pasaporte dorada](https://traveldocumentvault.com/blog/child-first-passport-application/cover.jpg)
 
 El primer pasaporte de tu hijo es algo que solo tramitas una vez —lo que significa que puedes aprender las reglas antes de necesitarlas, en lugar de descubrirlas en la ventanilla. La solicitud en sí es sencilla, pero las normas de consentimiento y los requisitos de la foto varían según el país, y un pequeño error al principio puede significar una solicitud rechazada y un viaje retrasado.
 

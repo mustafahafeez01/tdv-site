@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/ko/blog/international-driving-permit-val
 
 ---
 
-![가족이 로드트립을 떠나기 전 렌터카에 짐을 싣고 있고, 옆에 펼쳐진 지도 위에 운전면허증과 국제운전면허증이 놓여 있는 모습](https://traveldocumentvault.com/blog/international-driving-permit-validity/cover.jpg)
-
 ## 주요 내용 요약
 
 - **국제운전면허증은 이미 소지한 운전면허증을 번역한 서류**이므로 두 가지를 함께 가지고 다녀야 합니다. 국제운전면허증만 제시하는 것은 아무것도 증명하지 못합니다.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/ko/blog/international-driving-permit-val
 - 비엔나협약 허가증은 **운전면허증 만료일에 의해 제한**됩니다. 면허증이 먼저 만료되면, 서류에 인쇄된 날짜와 상관없이 그 시점부터 허가증도 쓸모가 없어집니다.
 - 국가마다 비준한 협약이 다르기 때문에 **한 나라에서 인정된 허가증이 다른 나라에서는 거부될 수 있습니다.**
 - 여권, 운전면허증, 국제운전면허증은 **서로 거의 맞아떨어지지 않는 세 개의 시계**로 각각 돌아갑니다.
+
+![가족이 로드트립을 떠나기 전 렌터카에 짐을 싣고 있고, 옆에 펼쳐진 지도 위에 운전면허증과 국제운전면허증이 놓여 있는 모습](https://traveldocumentvault.com/blog/international-driving-permit-validity/cover.jpg)
 
 국제운전면허증은 운전면허의 번역본이며 그 자체로 면허는 아니고, 유효 기간도 따로 흘러갑니다. 발급일로부터 열두 달 동안 유효한 경우가 많으며, 어느 것도 3년을 넘지 않으므로, 세 해 전 여름 여행을 위해 발급받은 것은 거의 틀림없이 기간이 지났습니다. 여러 나라의 렌터카 창구는 차를 내주기 전에 이를 요구합니다.
 

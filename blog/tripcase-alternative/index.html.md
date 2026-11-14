@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/blog/tripcase-alternative/
 
 ---
 
-![A neat stack of cream travel documents with a passport on top, bound by a single thin gold thread, on a royal navy background](https://traveldocumentvault.com/blog/tripcase-alternative/cover.jpg)
-
 ## Key Takeaways
 
 - **TripCase shut down on 1 April 2025** and Sabre's notice gave users until 30 June 2025 to download their trips before the remaining data was removed.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/blog/tripcase-alternative/
 - **No single app replaces TripCase.** Flight alerts, itinerary parsing, and document storage now live in different tools.
 - The real lesson: a free cloud service keeps **your data on borrowed time**. It can vanish with a few months' notice.
 - Travel documents belong **offline, on your device** - somewhere no company decision, outage, or shutdown can reach them.
+
+![A neat stack of cream travel documents with a passport on top, bound by a single thin gold thread, on a royal navy background](https://traveldocumentvault.com/blog/tripcase-alternative/cover.jpg)
 
 TripCase spent years as the quiet workhorse of travel apps. Forward a confirmation email and your trip built itself; the app pinged you about gate changes before some airlines did; and its Document Vault kept passports, visas and boarding passes in one place. Then, on 1 April 2025, Sabre shut it down, and Sabre's notice, as reported at the time, gave users until 30 June 2025 to download their trips before the remaining data was removed.
 

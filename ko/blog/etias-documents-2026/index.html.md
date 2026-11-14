@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/ko/blog/etias-documents-2026/
 
 ---
 
-![로얄 네이비 배경 위의 여권과 금색 별들의 느슨한 호, 흐릿한 점선 경로, 유럽 여행을 연상케 함](https://traveldocumentvault.com/blog/etias-documents-2026/cover.jpg)
-
 ## 핵심 요점
 
 - **ETIAS는 디지털 여행 인증입니다** 영국, 미국, 캐나다 여행객을 위한 것으로, 의무화되면 솅겐 지역 무비자 입국에 필요합니다
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/ko/blog/etias-documents-2026/
 - 처리 시간은 변동이 있습니다. 특히 출범 직후에는 변동이 크므로 **여행 전에 충분한 여유를 두고 신청하고**, 최신 안내는 유럽 위원회 공식 사이트에서 확인하세요
 - 최신 수수료는 [유럽 위원회 공식 사이트](https://home-affairs.ec.europa.eu/news/european-travel-authorisation-etias-will-cost-eur-20-2025-07-17_en)에서 확인하세요. **18세 미만과 70세 이상은 무료**이지만 인증은 필요합니다
 - **답변의 신뢰성이 의심되면 거부될 수 있으므로 빠짐없이 공개하세요**. 오래된 일이라도 모두 공개하세요
+
+![로얄 네이비 배경 위의 여권과 금색 별들의 느슨한 호, 흐릿한 점선 경로, 유럽 여행을 연상케 함](https://traveldocumentvault.com/blog/etias-documents-2026/cover.jpg)
 
 이탈리아로 가족 여행을 예약했는데, ETIAS가 곧 도입된다는 소식을 들었습니다. 비자면제로 유럽을 방문하는 사람들을 위한 새로운 디지털 인증 요건입니다. 이 가이드는 ETIAS가 무엇인지, 어떤 문서가 필요한지, 신청 절차는 어떻게 진행되는지 설명하여 신청 양식에 도달하기 전에 준비할 수 있도록 돕습니다.
 

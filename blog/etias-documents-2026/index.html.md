@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/blog/etias-documents-2026/
 
 ---
 
-![A passport on a royal navy background with a loose arc of gold stars and faint dotted route lines, evoking European travel](https://traveldocumentvault.com/blog/etias-documents-2026/cover.jpg)
-
 ## Key Takeaways
 
 - **ETIAS is a digital travel authorisation** for UK, US, and Canadian travellers, required for visa-exempt entry to the Schengen area once it becomes mandatory
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/blog/etias-documents-2026/
 - Processing time varies, especially soon after launch; **apply well ahead of your trip** and check the official EU site for current guidance
 - Check [the official EU site](https://home-affairs.ec.europa.eu/news/european-travel-authorisation-etias-will-cost-eur-20-2025-07-17_en) for the current fee; **under-18s and over-70s don't pay** but still need authorisation
 - **Doubts about the reliability of your answers can lead to refusal**, so disclose everything, even if it's old
+
+![A passport on a royal navy background with a loose arc of gold stars and faint dotted route lines, evoking European travel](https://traveldocumentvault.com/blog/etias-documents-2026/cover.jpg)
 
 You've booked a family trip to Italy and you've heard that ETIAS is on its way, a new digital authorisation requirement for visa-exempt visitors to Europe. This guide covers what ETIAS is, what documents you need, and how the application works, so you're prepared before you reach the form.
 
@@ -58,7 +58,7 @@ At the end, you review your information, pay the fee shown at checkout (free if 
 
 The European Commission publishes current processing time guidance on its official site, and it's worth checking that before you assume you have time. Early demand after launch, background check delays, and any need to fix a rejection can all add to the wait, so apply as early as you reasonably can before your trip. Apply the moment your travel dates are locked in, not the week before departure.
 
-An application is granted, refused, or the authorities ask for more information.
+The authorities grant or refuse an application, or ask for more information.
 
 An **approval** means you're granted a digital ETIAS linked to your passport number. There's nothing to print or carry, as the system will recognise you automatically at the border. Your approval remains valid for three years, or until your passport expires, whichever comes first.
 
@@ -88,7 +88,7 @@ If you're refused and still need to travel, you can appeal or apply again.
 
 ETIAS approval does not replace your passport, travel insurance, or [passport validity requirements](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/), so you still need:
 
-- A valid passport (3+ months validity)
+- A valid passport (3+ months of validity)
 - Travel insurance (advisable; border officers may ask about your funds and accommodation)
 - Proof of onward travel (return flight or onward ticket)
 - Proof of accommodation or travel itinerary
@@ -124,7 +124,7 @@ ETIAS is required for visa-exempt non-EU citizens travelling for short-stay visi
 
 ### What documents do I need to apply for ETIAS?
 
-You must have a valid passport with more than three months validity beyond your intended departure date, issued within the last ten years. You will also need an email address.
+You must have a valid passport with more than three months of validity beyond your intended departure date, issued within the last ten years. You will also need an email address.
 
 ### How much does ETIAS cost and how long does it take?
 

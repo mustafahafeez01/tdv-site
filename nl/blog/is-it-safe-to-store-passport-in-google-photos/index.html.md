@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/nl/blog/is-it-safe-to-store-passport-in-
 
 ---
 
-![Een paspoort op een diepblauwe achtergrond, beschermd door een zacht gouden schild, als symbool voor privé en veilige documentopslag](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/cover.jpg)
-
 ## Belangrijkste punten
 
 - Een paspoortscan bewaren in Google Foto's betekent dat je identiteitsdocument op Google's servers staat, door hun systemen wordt verwerkt en alleen beschermd wordt door de beveiliging die je Google-account toevallig heeft.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/nl/blog/is-it-safe-to-store-passport-in-
 - Volgens Googles privacybeleid gebruikt het bedrijf geautomatiseerde systemen om je inhoud te analyseren en zijn diensten te leveren en verbeteren. Een paspoortscan wordt net als elke andere foto opgeslagen.
 - Er zijn betere opties: versleutelde wachtwoordmanagers, versleutelde apps op je toestel, of cloudopslag met encryptie aan de clientzijde – geen daarvan dumpt je paspoort in een algemene fotobibliotheek.
 - Voor de meeste mensen is het echte risico een zwakke accountbeveiliging, niet Google zelf: een hergebruikt wachtwoord, een gedeelde login, of iemand die al weet hoe binnen te komen.
+
+![Een paspoort op een diepblauwe achtergrond, beschermd door een zacht gouden schild, als symbool voor privé en veilige documentopslag](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/cover.jpg)
 
 Veel mensen bewaren paspoortscans in Google Foto's zonder erbij na te denken: je hebt een kopie nodig, je maakt een foto, en die wordt automatisch geback-upt. De vraag of dat eigenlijk wel een slimme keuze is voor je gevoeligste identiteitsdocument komt zelden ter sprake totdat er iets misgaat.
 

@@ -6,7 +6,9 @@ Source: https://traveldocumentvault.com/es/
 
 ---
 
-09:41
+La aplicación cifra tus documentos en tu teléfono. Pro incluye una copia de seguridad cifrada en la nube que puedes activar si lo deseas.
+
+[Cómo se protegen tus documentos](https://traveldocumentvault.com/es/privacy-verification/) 09:41
 
 ## El viaje que haces antes del viaje
 

@@ -244,7 +244,7 @@ Confidentialité et sécurité
 
 ## Vos données, votre appareil
 
-Aucun serveur ne détient vos documents, aucun compte, aucun pistage. L’application a été créée par Mustafa Hafeez, sur une architecture pensée pour la confidentialité. Consultez la [politique de confidentialité](https://traveldocumentvault.com/privacy-policy/) et la [page de vérification](https://traveldocumentvault.com/privacy-policy/).
+Aucun serveur ne détient vos documents, aucun compte, aucun pistage. L’application a été créée par Mustafa Hafeez, sur une architecture pensée pour la confidentialité. Consultez la [politique de confidentialité](https://traveldocumentvault.com/privacy-policy/) et la [page de vérification](https://traveldocumentvault.com/fr/privacy-verification/).
 
 ### Vos données restent les vôtres
 

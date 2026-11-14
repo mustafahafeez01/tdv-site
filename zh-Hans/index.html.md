@@ -6,7 +6,9 @@ Source: https://traveldocumentvault.com/zh-Hans/
 
 ---
 
-09:41
+应用会在您的手机上加密您的文档。Pro 包含加密云备份功能，您可以按需开启。
+
+[您的文档如何受到保护](https://traveldocumentvault.com/zh-Hans/privacy-verification/) 09:41
 
 ## 出发前，脑海里的那趟旅程
 

@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/child-travel-consent-letter
 
 ---
 
-![奶油色同意信和小孩护照用金丝带绑在一起放在深蓝色背景上](https://traveldocumentvault.com/blog/child-travel-consent-letter/cover.jpg)
-
 ## 关键要点
 
 - 要求因国家而异。**适用于一个目的地的信件可能不被其他地方接受。**
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/child-travel-consent-letter
 - 信件通常包含儿童的全名、出生日期、护照号码、具体旅行日期、目的地和不在场家长的联系方式。
 - 常见的拒绝原因包括信息不完整、缺少公证或签名过期。
 - 携带签字原件作为主要文件，并保留加密数字备份以应对紧急情况。
+
+![奶油色同意信和小孩护照用金丝带绑在一起放在深蓝色背景上](https://traveldocumentvault.com/blog/child-travel-consent-letter/cover.jpg)
 
 同意书在值机柜台只承担一项任务：证明与孩子同行的成年人已获得未同行一方家长的同意。多数情况下会被直接接受。
 

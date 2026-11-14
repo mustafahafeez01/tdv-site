@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/da/blog/passport-name-change-after-marri
 
 ---
 
-![Akvarelskitse af en familie på tre set bagfra ved et vindue i lufthavnen i morgenlys, hvor en voksen holder et guldfarvet pas](https://traveldocumentvault.com/blog/passport-name-change-after-marriage/cover.jpg)
-
 ## Vigtigste punkter
 
 - **Et bryllup alene ændrer ingenting.** Du har kun brug for et nyt pas, hvis du begynder at bruge et andet navn.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/da/blog/passport-name-change-after-marri
 - Efter ceremonien sender du din **vielsesattest eller attest for registreret partnerskab** med ansøgningen.
 - Søger du før ceremonien, får du et **pas med senere startdato**, dit gamle pas bliver annulleret, og det kan give besvær med visa.
 - Ligger bryllupsrejsen tæt på brylluppet, ville vi rejse i dit nuværende navn og søge, når du er hjemme igen.
+
+![Akvarelskitse af en familie på tre set bagfra ved et vindue i lufthavnen i morgenlys, hvor en voksen holder et guldfarvet pas](https://traveldocumentvault.com/blog/passport-name-change-after-marriage/cover.jpg)
 
 Et bryllup ændrer ikke i sig selv noget på et britisk pas. HM Passport Offices egen [vejledning til sagsbehandlere om navneændringer](https://www.gov.uk/government/publications/change-of-name-passport-applications-caseworker-guidance/names-change-of-name-passport-applications-accessible) siger, at ingen har et retligt grundlag for at skifte navn, fordi de er blevet gift, så passet skal først ændres, når det navn, du bruger, ændres. Du har altså et valg om, hvornår det skal ske, og timingen viser sig at betyde mere end papirerne.
 

@@ -6,7 +6,9 @@ Source: https://traveldocumentvault.com/pt/
 
 ---
 
-09:41
+A aplicação encripta os seus documentos no seu telemóvel. Pro inclui uma cópia de segurança encriptada na nuvem, que pode ativar se quiser.
+
+[Como os seus documentos são protegidos](https://traveldocumentvault.com/pt/privacy-verification/) 09:41
 
 ## A viagem que faz antes da viagem
 

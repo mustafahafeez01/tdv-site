@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/ja/blog/passport-photo-at-home/
 
 ---
 
-![父親がプレーンな壁の前で窓光の中で息子のパスポート写真を撮影している、印刷されたパスポート写真のシートが机の前に置いてある](https://traveldocumentvault.com/blog/passport-photo-at-home/cover.jpg)
-
 ## 重要なポイント
 
 - 自分の当局が指定する明るい色合いの無地の背景、自然な表情、目を開いて真正面を見ていることが基本ですが、幼い子どもには例外があります
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/ja/blog/passport-photo-at-home/
 - 自然な窓光がベストです。厳しい影を避け、カメラフラッシュは使用しないでください
 - 英国をはじめ多くの当局は、必要な場合を除き眼鏡をかけないよう求めています。現在の要件を確認してください
 - 照明、サイズ、表情、鮮明さ、背景が発行機関の規定に合わないと、写真が却下されることがあります
+
+![父親がプレーンな壁の前で窓光の中で息子のパスポート写真を撮影している、印刷されたパスポート写真のシートが机の前に置いてある](https://traveldocumentvault.com/blog/passport-photo-at-home/cover.jpg)
 
 GOV.UKによると、自分の端末で撮影した写真より、写真ブースや店舗で撮影した写真の方が承認されやすいとされています。照明、サイズ、表情、鮮明さ、背景が発行機関の規定に合わないと、写真が却下されることがあります。
 

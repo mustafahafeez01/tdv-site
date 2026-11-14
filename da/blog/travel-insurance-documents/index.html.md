@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/da/blog/travel-insurance-documents/
 
 ---
 
-![en forælder læser deres forsikringspolice på en lysende telefonskærm, mens de sidder stille på en klinik, med et træt barn ved siden af](https://traveldocumentvault.com/blog/travel-insurance-documents/cover.jpg)
-
 ## Vigtigste punkter
 
 - **Gem alle dine forsikringsdokumenter, policenummeret og nummeret til akut assistance** (ikke salgsnummeret).
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/da/blog/travel-insurance-documents/
 - **Undersøg, hvornår dit forsikringsselskab kræver kontakt før behandling** – få akut lægehjælp først, og kontakt selskabet hurtigst muligt.
 - Gem kvitteringer og rapporter, og spørg dit forsikringsselskab, hvilke dokumenter det kræver ved en skadesanmeldelse.
 - Læs nøgledele af din police hurtigt ved at fokusere på dækningsgrænser, udelukkelser og vilkår.
+
+![en forælder læser deres forsikringspolice på en lysende telefonskærm, mens de sidder stille på en klinik, med et træt barn ved siden af](https://traveldocumentvault.com/blog/travel-insurance-documents/cover.jpg)
 
 Vi ville gemme rejseforsikringsdokumenterne offline og pakke en papirkopi før afrejsen, med policenummer, dokumentation for dækning og nummeret til akut assistance samlet. Her gennemgår vi, hvad du bør gemme, hvordan du afprøver adgang uden internet, og hvad du skal læse om skadesanmeldelser, herunder alarmcentralens åbningstider.
 

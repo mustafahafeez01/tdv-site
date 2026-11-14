@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/id/blog/how-long-is-esta-valid/
 
 ---
 
-![Sketsa tangan seorang orang tua dan dua anak dilihat dari belakang di jendela yang disinari matahari di rumah, orang tua memegang paspor AS dan dokumen perjalanan, satu anak menunjuk ke depan, tepi paspor diberi sentuhan warna emas](https://traveldocumentvault.com/blog/how-long-is-esta-valid/cover.jpg)
-
 ## Poin Penting
 
 - **ESTA biasanya berlaku selama dua tahun dari persetujuan, atau sampai paspor Anda kedaluwarsa**, mana yang lebih dulu.
@@ -16,6 +14,8 @@ Source: https://traveldocumentvault.com/id/blog/how-long-is-esta-valid/
 - Paspor baru, nama baru, kewarganegaraan baru, atau jawaban kelayakan yang berubah berarti harus mengajukan lagi.
 - **Setiap pelancong perlu ESTA sendiri**, termasuk anak-anak berapa pun usianya dan bayi tanpa tiket.
 - Biaya naik dari US $40.27 menjadi US $40.62 pada 16 Oktober 2026. ESTA yang sudah disetujui tidak perlu diajukan ulang.
+
+![Sketsa tangan seorang orang tua dan dua anak dilihat dari belakang di jendela yang disinari matahari di rumah, orang tua memegang paspor AS dan dokumen perjalanan, satu anak menunjuk ke depan, tepi paspor diberi sentuhan warna emas](https://traveldocumentvault.com/blog/how-long-is-esta-valid/cover.jpg)
 
 ESTA biasanya berlaku selama dua tahun dari hari disetujui, atau sampai paspor yang terkait dengannya kedaluwarsa, mana yang lebih dulu. Jika Anda sudah memiliki ESTA, perubahan biaya pada 16 Oktober 2026 tidak memengaruhi Anda, dan Anda hanya membayar jumlah baru saat mengajukan permohonan berikutnya. Satu hal yang perlu dilakukan hari ini adalah memeriksa tanggal kedaluwarsa setiap ESTA dalam keluarga, karena hitungan waktu tiap orang berjalan sendiri-sendiri.
 

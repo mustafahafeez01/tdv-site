@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/sv/blog/encrypted-cloud-backup-travel-do
 
 ---
 
-![En förälder och ett barn sitter tillsammans i en soffa i skymningen och tittar på en telefon och en liten guldnyckel som ligger på bordet bredvid ett pass, medan ett moln ovanför bara håller kaotiska tecken bakom ett hänglås](https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/cover.jpg)
-
 ## Viktiga punkter
 
 - **"Krypterad säkerhetskopiering" betyder bara något när du vet vem som har nyckeln.** Om företaget kan läsa dina handlingar skyddar krypteringen dem från främlingar, inte från företaget.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/sv/blog/encrypted-cloud-backup-travel-do
 - **Inget konto betyder ingen lösenordsåterställning.** Förlorar du återställningskoden och tillgången till alla enheter som fortfarande kan öppna valvet kan vi inte återställa den krypterade säkerhetskopian. Det är den medvetna avvägningen.
 - Skriv ner koden innan du förlitar dig på säkerhetskopian, förvara den borta från telefonen, och läs upp den en gång för att kontrollera att den går att läsa.
 - En systembaserad enhetssäkerhetskopia installerar om appen men kan inte få tillbaka dina handlingar, eftersom systemsäkerhetskopior inte överför den enhetsbundna krypteringsnyckeln.
+
+![En förälder och ett barn sitter tillsammans i en soffa i skymningen och tittar på en telefon och en liten guldnyckel som ligger på bordet bredvid ett pass, medan ett moln ovanför bara håller kaotiska tecken bakom ett hänglås](https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/cover.jpg)
 
 Du har skannat in fyra pass, två visum och barnens födelsebevis i en app som sparar allt på din telefon. Bra. Sedan dyker den självklara oron upp: vad händer när telefonen hamnar i havet eller blir stulen från ett kafébord i Lissabon.
 

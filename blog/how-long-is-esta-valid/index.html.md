@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/blog/how-long-is-esta-valid/
 
 ---
 
-![A parent and two children seen from behind at home looking out a window, holding a US passport and travel documents, one child pointing ahead, gold accent on the passport spine](https://traveldocumentvault.com/blog/how-long-is-esta-valid/cover.jpg)
-
 ## Key Takeaways
 
 - **An ESTA is typically valid for two years from approval, or until your passport expires**, whichever comes first.
@@ -15,7 +13,9 @@ Source: https://traveldocumentvault.com/blog/how-long-is-esta-valid/
 - It can't be extended, but you can reapply at any time. A new application replaces the old one.
 - A new passport, a new name, a new citizenship or a changed eligibility answer means applying again.
 - **Every traveller needs their own ESTA**, including children of any age and infants without a ticket.
-- The fee rose from US $40.27 to US $40.62 on 16 October 2026. An existing approved ESTA doesn't need reapplying.
+- The fee rose from US $40.27 to US $40.62 on 16 October 2026. You don't need to reapply for an existing approved ESTA.
+
+![A parent and two children seen from behind at home looking out a window, holding a US passport and travel documents, one child pointing ahead, gold accent on the passport spine](https://traveldocumentvault.com/blog/how-long-is-esta-valid/cover.jpg)
 
 An ESTA typically lasts two years from the day it's approved, or until the passport it's linked to expires, whichever comes first. If you already hold one, the fee change on 16 October 2026 doesn't touch it, and you only pay the new amount when you next apply. The one thing we'd do today is look up the expiry date on every ESTA in the family, because each person's clock runs on its own.
 
@@ -133,7 +133,7 @@ No. You can reapply at any time instead, and the new application replaces the ol
 
 ### What is the ESTA fee now?
 
-From 16 October 2026 the fee is US $40.62, up from US $40.27, according to the Federal Register notice. It's adjusted for inflation every year, and an already-approved ESTA doesn't need reapplying.
+From 16 October 2026 the fee is US $40.62, up from US $40.27, according to the Federal Register notice. It's adjusted for inflation every year, and you don't need to reapply for an already-approved ESTA.
 
 ## Related Articles
 

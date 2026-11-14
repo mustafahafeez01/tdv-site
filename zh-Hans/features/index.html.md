@@ -244,7 +244,7 @@ Pro
 
 ## 您的数据，您的设备
 
-没有存放您文档的服务器，无需账户，没有追踪。由 Mustafa Hafeez 以隐私优先架构打造。详见[隐私政策](https://traveldocumentvault.com/privacy-policy/)和[验证](https://traveldocumentvault.com/privacy-policy/)。
+没有存放您文档的服务器，无需账户，没有追踪。由 Mustafa Hafeez 以隐私优先架构打造。详见[隐私政策](https://traveldocumentvault.com/privacy-policy/)和[验证](https://traveldocumentvault.com/zh-Hans/privacy-verification/)。
 
 ### 您的数据始终属于您
 

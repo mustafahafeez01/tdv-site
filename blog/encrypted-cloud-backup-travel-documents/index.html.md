@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-docum
 
 ---
 
-![A parent and child sit together on a sofa at dusk, looking at a phone and a small gold key resting on the table beside a passport, while a cloud above holds only scrambled marks behind a padlock](https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/cover.jpg)
-
 ## Key Takeaways
 
 - **"Encrypted backup" only means something once you know who holds the key.** If the company can read your documents, the encryption is guarding them from strangers, not from the company.
@@ -16,7 +14,9 @@ Source: https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-docum
 - Write the code down before you depend on the backup, keep it away from the phone, and read it back once to check it is legible.
 - A system device backup reinstalls the app but cannot bring your documents back, because system backups do not transfer the device-bound encryption key.
 
-You've scanned four passports, two visas and the children's birth certificates into an app that keeps everything on your phone. Good. Then the obvious worry arrives: what happens when the phone goes in the sea, or gets lifted from a café table in Lisbon.
+![A parent and child sit together on a sofa at dusk, looking at a phone and a small gold key resting on the table beside a passport, while a cloud above holds only scrambled marks behind a padlock](https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/cover.jpg)
+
+You've scanned four passports, two visas and the children's birth certificates into an app that keeps everything on your phone. Good. Then the obvious worry arrives: what happens when the phone goes in the sea, or gets lifted from a café table in Lisbon?
 
 The answer is a backup. The awkward part is that almost every app uses the phrase "encrypted backup" and almost none of them mean the same thing by it. This article explains what the words actually mean and what you take on when a company genuinely cannot read your data. It ends with a short routine for the week before a trip, so a lost phone stays an inconvenience rather than a disaster.
 
@@ -49,7 +49,7 @@ So treat the code as the one thing to get right:
 - Save it before you rely on the backup, not afterwards.
 - Keep it somewhere the phone's loss doesn't reach. A password manager on another device works. So does paper in the drawer where the birth certificates live.
 - Read it back once from wherever you stored it. Handwriting that made sense at the time has a habit of becoming ambiguous in an emergency.
-- Two copies in two places beats one perfect copy.
+- Two copies in two places beat one perfect copy.
 
 ## Is Cloud Backup Safe for Passport Scans?
 
@@ -142,7 +142,7 @@ Cloud backup stays on one platform: your own iCloud on iPhone and iPad, or your 
 
 ### What is stored in the backup and what stays on the device?
 
-The backup includes profiles, readable scans and attachments, expiry dates, notes and portable reminder history, encrypted before upload. Your recovery code is not uploaded with the backup. Neither does your app lock, so Face ID, Touch ID or your PIN protects the app while the encryption protects the file. Automatic local snapshots also stay on the device only, which is why they cannot bring your vault back on a replacement phone.
+The backup includes profiles, readable scans and attachments, expiry dates, notes and portable reminder history, encrypted before upload. Your recovery code is not uploaded with the backup. Nor is your app lock, so Face ID, Touch ID or your PIN protects the app while the encryption protects the file. Automatic local snapshots also stay on the device only, which is why they cannot bring your vault back on a replacement phone.
 
 ## Related Articles
 

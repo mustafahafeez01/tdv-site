@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/nl/blog/how-to-organise-family-travel-do
 
 ---
 
-![Een nette, gelijkmatig verdeelde rij verschillende reisdocumenten - een paspoort, een ID-kaart, een visumpagina en een instapkaart - op een diepblauwe achtergrond](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/cover.jpg)
-
 ## Belangrijkste punten
 
 - De checklist voor de reisdocumenten van je gezin vraagt om paspoorten, visa, reisverzekering en vaccinatiebewijzen – en dat is nog voordat je documenten specifiek voor reizen met kinderen meerekent.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/nl/blog/how-to-organise-family-travel-do
 - Digitale back-ups komen je niet door de grenscontrole, maar ze besparen je uren bij een ambassade als er iets kwijtraakt. Bewaar ze versleuteld, niet in je cameraroll.
 - Vervaldatums bijhouden voordat je boekt – niet de week voor vertrek – is de ene gewoonte die de meeste rampen met reisdocumenten voorkomt.
 - Een checklist voor vertrek die je bij het boeken doorloopt, geeft je genoeg tijd om problemen op te lossen voordat ze duur worden.
+
+![Een nette, gelijkmatig verdeelde rij verschillende reisdocumenten - een paspoort, een ID-kaart, een visumpagina en een instapkaart - op een diepblauwe achtergrond](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/cover.jpg)
 
 Het is elf uur 's avonds, de avond voor een vlucht, de paspoorten liggen klaar, het verzekeringsuittreksel ligt ergens, maar het vaccinatiebewijs – het bewijs dat de bestemming daadwerkelijk vereist – is spoorloos in huis. Dat is het probleem als je geen systeem hebt voor de reisdocumenten van je gezin: je zoekt elke keer op een andere manier, en uiteindelijk duikt iets belangrijks niet op.
 

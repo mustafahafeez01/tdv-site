@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/nl/blog/etias-documents-2026/
 
 ---
 
-![Een paspoort op een koningsblauwe achtergrond met een losse boog van gouden sterren en vage gestippelde routelijnen, die aan reizen door Europa doen denken](https://traveldocumentvault.com/blog/etias-documents-2026/cover.jpg)
-
 ## Belangrijkste punten
 
 - **ETIAS is een digitale reistoestemming** voor reizigers uit het VK, de VS en Canada – nodig voor visumvrije toegang tot het Schengengebied zodra het verplicht wordt
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/nl/blog/etias-documents-2026/
 - De verwerkingstijd varieert, zeker vlak na de lancering; **vraag ruim op tijd aan** en raadpleeg de officiële EU-website voor actuele informatie
 - Check de [officiële EU-website](https://home-affairs.ec.europa.eu/news/european-travel-authorisation-etias-will-cost-eur-20-2025-07-17_en) voor de actuele kosten; **onder de 18 en boven de 70 betaal je niets**, maar je hebt nog steeds een goedkeuring nodig
 - **Twijfels over de betrouwbaarheid van je antwoorden kunnen tot weigering leiden, dus vermeld alles, ook als het al lang geleden is**
+
+![Een paspoort op een koningsblauwe achtergrond met een losse boog van gouden sterren en vage gestippelde routelijnen, die aan reizen door Europa doen denken](https://traveldocumentvault.com/blog/etias-documents-2026/cover.jpg)
 
 Je hebt een gezinsreis naar Italië geboekt en hoort dat ETIAS eraan komt – een nieuwe digitale toestemmingsplicht voor visumvrije bezoekers die naar Europa reizen. Deze gids legt uit wat ETIAS is, welke documenten je nodig hebt en hoe de aanvraag werkt, zodat je voorbereid bent voordat je bij het formulier komt.
 

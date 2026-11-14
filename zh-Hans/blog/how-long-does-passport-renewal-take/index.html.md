@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/how-long-does-passport-rene
 
 ---
 
-![一本护照从纯奶油色信封的一半滑出，深海军蓝背景，暗示正在进行的更新](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/cover.jpg)
-
 ## 关键要点
 
 - 护照更新所需的时间取决于您所在的国家、您的具体情况和申请的时节——没有一个能长期准确的数字，因此本指南有意不给出具体数字。
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/how-long-does-passport-rene
 - 申请前请查看护照机构公布的最新处理时间。
 - 最安全的做法是，从您实际的出行日期倒推，在护照剩余有效期开始收紧的那一刻就申请。
 - 要了解现在真正适用的数字，请咨询您自己的护照机构——英国护照办公室、美国国务院、澳大利亚护照办公室，或您所在国家的对应机构——而不是一篇博客文章。
+
+![一本护照从纯奶油色信封的一半滑出，深海军蓝背景，暗示正在进行的更新](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/cover.jpg)
 
 您已预订了五个月后的一次旅行的航班。您拿出所有人的护照再检查一遍，然后您发现了：一个护照在五个月三周后过期。现在您需要准确了解护照更新需要多长时间——因为数学突然变得重要了。
 

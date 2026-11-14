@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/de/blog/visa-expiry-tracker-app/
 
 ---
 
-![Ein Visadokument auf einem königsblauen Hintergrund mit einem sanften goldenen Bogen, der sein Gültigkeitsfenster nachverfolgt](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/cover.jpg)
-
 ## Wichtige Erkenntnisse
 
 - Visa-Tracking ist **komplexer** als Passtracking – ein Visum hat ein Gültigkeitsdatum für die Einreise, eine maximale Aufenthaltsdauer und manchmal Einreisezahlbegrenzungen, die alle separat überwacht werden müssen.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/de/blog/visa-expiry-tracker-app/
 - Die besten Visa-Ablauf-Tracker-Apps funktionieren offline, unterstützen mehrere Visumtypen und ermöglichen benutzerdefinierte Erinnerungszeiten pro Dokument.
 - Schengen-Besucher müssen ein rollierendes 90/180-Tage-Fenster verfolgen, nicht nur ein einzelnes Ablaufdatum, weil die Zählung mit Ihrer tatsächlichen Reisehistorie mitläuft, nicht mit dem Kalender.
 - Die gemeinsame Nachverfolgung von Visummen und Pässen an einem Ort reduziert das Risiko eines Mismatchs: Einreise mit gültigem Visum, aber mit einem Passstatus, der vor Ende Ihres geplanten Aufenthalts abläuft.
+
+![Ein Visadokument auf einem königsblauen Hintergrund mit einem sanften goldenen Bogen, der sein Gültigkeitsfenster nachverfolgt](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/cover.jpg)
 
 Eine Visumsüberschreitung ist einer der folgenreichsten Reisefehler, den eine Person machen kann. Im Gegensatz zu einem verpassten Flug – stressig, aber letztendlich behebbar – erzeugt eine Überschreitung einen offiziellen Einwanderungsdatensatz, der Sie jahrelang verfolgen kann. In den Vereinigten Staaten darf, wer sich nach Abschnitt 212(a)(9)(B) des [US Immigration and Nationality Act](https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chap12-subchapII-partII-sec1182.htm) mehr als 180 Tage, aber weniger als ein Jahr unrechtmäßig aufgehalten hat und dann ausreist, in der Regel drei Jahre nicht zurückkehren; bei einem Jahr oder mehr unrechtmäßigem Aufenthalt gilt in der Regel eine zehnjährige Sperre. Diese Konsequenzen sind nicht weit verbreitet.
 

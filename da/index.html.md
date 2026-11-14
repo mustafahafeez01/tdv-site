@@ -6,7 +6,9 @@ Source: https://traveldocumentvault.com/da/
 
 ---
 
-09:41
+Appen krypterer dine dokumenter på din telefon. Pro inkluderer krypteret sikkerhedskopiering i skyen, som du kan aktivere, hvis du ønsker det.
+
+[Sådan beskyttes dine dokumenter](https://traveldocumentvault.com/da/privacy-verification/) 09:41
 
 ## Rejsen du tager før rejsen
 

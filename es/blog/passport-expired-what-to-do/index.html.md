@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/es/blog/passport-expired-what-to-do/
 
 ---
 
-![Un único pasaporte tendido sobre un fondo azul marino con una flecha dorada curva que apunta hacia adelante, sugiriendo el próximo paso claro](https://traveldocumentvault.com/blog/passport-expired-what-to-do/cover.jpg)
-
 ## Puntos Clave
 
 - Hay dos escenarios distintos: descubrir que tu pasaporte está caducado **en casa antes de un viaje**, y descubrirlo **en el aeropuerto**. Los pasos son diferentes para cada uno.
@@ -16,6 +14,8 @@ Source: https://traveldocumentvault.com/es/blog/passport-expired-what-to-do/
 - En el aeropuerto, contacta primero a tu aerolínea —pregunta si pueden cambiarte el vuelo sin cobrar una tarifa de cambio.
 - La solución para el futuro es un recordatorio de caducidad a 12 meses, no a 6 meses. Eso te da suficiente tiempo para renovar con procesamiento estándar.
 - La caducidad no es el único problema de pasaporte que hace que los viajeros sean rechazados. El daño, falta de concordancia de nombres, firmas faltantes, y validez insuficiente restante en tu destino causan el mismo resultado.
+
+![Un único pasaporte tendido sobre un fondo azul marino con una flecha dorada curva que apunta hacia adelante, sugiriendo el próximo paso claro](https://traveldocumentvault.com/blog/passport-expired-what-to-do/cover.jpg)
 
 Descubrir que tu pasaporte está caducado es uno de esos momentos en los que el tiempo se vuelve repentinamente muy real. Ya sea que lo hayas visto tres meses antes de un viaje o que estés de pie en el mostrador de facturación del aeropuerto en este momento, lo que sucede después depende completamente de en cuál situación te encuentres.
 

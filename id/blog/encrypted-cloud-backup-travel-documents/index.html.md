@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/id/blog/encrypted-cloud-backup-travel-do
 
 ---
 
-![Orang tua dan anak duduk bersama di sofa saat senja, memandangi ponsel dan kunci emas kecil yang tergeletak di meja di samping paspor, sementara awan di atasnya hanya berisi coretan acak di balik gembok](https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/cover.jpg)
-
 ## Poin Penting
 
 - **"Cadangan terenkripsi" baru berarti sesuatu setelah Anda tahu siapa yang memegang kuncinya.** Jika perusahaan bisa membaca dokumen Anda, enkripsi itu hanya menjaga dokumen dari orang asing, bukan dari perusahaan itu sendiri.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/id/blog/encrypted-cloud-backup-travel-do
 - **Tanpa akun berarti tanpa reset kata sandi.** Jika Anda kehilangan kode pemulihan dan akses ke semua perangkat yang masih bisa membuka vault, kami tidak bisa memulihkan cadangan terenkripsi. Itu adalah kompromi yang memang disengaja.
 - Tulis kode itu sebelum Anda bergantung pada cadangan, simpan jauh dari ponsel, dan baca ulang sekali untuk memastikan tulisannya masih jelas terbaca.
 - Cadangan bawaan sistem ponsel memasang ulang aplikasi tetapi tidak bisa mengembalikan dokumen Anda, karena cadangan sistem tidak memindahkan kunci enkripsi yang terikat pada perangkat.
+
+![Orang tua dan anak duduk bersama di sofa saat senja, memandangi ponsel dan kunci emas kecil yang tergeletak di meja di samping paspor, sementara awan di atasnya hanya berisi coretan acak di balik gembok](https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/cover.jpg)
 
 Anda sudah memindai empat paspor, dua visa, dan akta lahir anak-anak ke dalam aplikasi yang menyimpan semuanya di ponsel Anda. Bagus. Lalu muncul kekhawatiran yang jelas: bagaimana kalau ponsel itu tercebur ke laut, atau diambil orang dari meja kafe di Lisbon.
 

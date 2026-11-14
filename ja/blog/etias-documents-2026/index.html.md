@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/ja/blog/etias-documents-2026/
 
 ---
 
-![イギリスの紺の背景に置かれたパスポートで、ゴールドの星が優雅にプリントされ、ヨーロッパ旅行を連想させるページ風ラインが描かれている](https://traveldocumentvault.com/blog/etias-documents-2026/cover.jpg)
-
 ## 重要なポイント
 
 - **ETIASはデジタル旅行認可**です。イギリス、アメリカ、カナダの旅行者向けで、義務化された後はビザ免除でシェンゲン地域に入国するために必要になります。
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/ja/blog/etias-documents-2026/
 - 処理時間は変動します。特に開始直後は変動が大きいため、**旅行に十分な余裕を持って申請し**、最新情報は欧州委員会の公式サイトでご確認ください。
 - 最新の手数料は[欧州委員会の公式サイト](https://home-affairs.ec.europa.eu/news/european-travel-authorisation-etias-will-cost-eur-20-2025-07-17_en)でご確認ください。**18歳未満と70歳以上は無料**ですが、認可は必要です。
 - **回答の信頼性に疑いがあると認可が拒否される場合があります**。ですから、古い記録でもすべて開示してください。
+
+![イギリスの紺の背景に置かれたパスポートで、ゴールドの星が優雅にプリントされ、ヨーロッパ旅行を連想させるページ風ラインが描かれている](https://traveldocumentvault.com/blog/etias-documents-2026/cover.jpg)
 
 イタリアへの家族旅行を予約したところ、ETIASがまもなく導入されると聞いた。ビザ免除でヨーロッパを訪れる人向けの、新しいデジタル認可の義務だ。このガイドでは、ETIASとは何か、どんな書類が必要か、申請の流れはどうなっているかを説明し、フォームにたどり着く前に準備を整えられるようにする。
 

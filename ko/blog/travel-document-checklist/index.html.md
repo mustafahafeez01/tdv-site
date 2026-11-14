@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/ko/blog/travel-document-checklist/
 
 ---
 
-![금색 밴드로 묶인 여권과 여행 카드가 로열 네이비 배경 위에 모두 준비되어 있는 모습](https://traveldocumentvault.com/blog/travel-document-checklist/cover.jpg)
-
 ## 주요 포인트
 
 - 가장 유용한 여행 문서 체크리스트는 문서 유형이 아니라 **조치가 필요한 시기**별로 정리됩니다. 단계별로 분류하면 문제를 수정할 수 있는 충분한 시간이 있을 때 문제를 포착합니다.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/ko/blog/travel-document-checklist/
 - 가족 여행은 별도의 레이어를 추가합니다. 모든 자녀는 문서를 개별적으로 확인해야 하며, 한 부모가 여행하지 않는 경우 자녀 동의서가 필요할 수 있습니다.
 - 사업 여행자는 여러 여권과 직장 비자를 소지하는 경우가 많으며 이는 개인 문서와 별도로 추적해야 합니다.
 - 모든 문서의 디지털 백업(암호화된, 사진 라이브러리에 없는)은 해외에서 문제가 발생할 경우 더 빨리 집에 도착하도록 도와줍니다.
+
+![금색 밴드로 묶인 여권과 여행 카드가 로열 네이비 배경 위에 모두 준비되어 있는 모습](https://traveldocumentvault.com/blog/travel-document-checklist/cover.jpg)
 
 대부분의 여행 문서 체크리스트는 단순한 목록입니다. 여권, 비자, 보험. 무엇을 가져갈지는 알려주지만 언제 확인할지는 알려주지 않으며, 사람들이 문제를 겪는 부분이 바로 여기입니다. 탑승구에서 여권이 5개월 안에 만료된다는 것을 깨닫는 가족, 비자 요건을 알지 못하고 예약한 독행 여행자, 또는 비자가 어느 여권에 붙어 있는지 잊어버린 사업 여행자는 특이한 경우가 아니라 규범입니다.
 

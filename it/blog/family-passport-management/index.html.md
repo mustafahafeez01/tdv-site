@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/it/blog/family-passport-management/
 
 ---
 
-![una famiglia di quattro persone che cammina verso una finestra dell'aeroporto illuminata dall'alba, il genitore tiene un ventaglio di quattro passaporti dorati](https://traveldocumentvault.com/blog/family-passport-management/cover.jpg)
-
 ## Punti Chiave
 
 - **I passaporti dei bambini scadono spesso prima di quelli degli adulti.** Nel Regno Unito il passaporto di un bambino è valido per 5 anni, quindi la scadenza del più piccolo di casa spesso decide la data limite per il prossimo viaggio.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/it/blog/family-passport-management/
 - **Conserva copie digitali in un'unica posizione crittografata,** con un backup su carta in un luogo sicuro a cui puoi accedere in fretta se serve.
 - Crea un sistema condiviso per tenere d'occhio le scadenze di tutta la famiglia. **Una sola persona che se ne occupa evita i rinnovi dimenticati.**
 - Per le famiglie con doppia nazionalità, **conserva copie di tutti i passaporti** e capisci quale usare per ogni destinazione.
+
+![una famiglia di quattro persone che cammina verso una finestra dell'aeroporto illuminata dall'alba, il genitore tiene un ventaglio di quattro passaporti dorati](https://traveldocumentvault.com/blog/family-passport-management/cover.jpg)
 
 Quando viaggi con i figli, tenere d'occhio cinque passaporti e i requisiti di due paesi è il tipo di problema che ti toglie il sonno. Un genitore ha ancora 8 anni di validità, l'altro 7, il tuo figlio maggiore 6. Ma il passaporto del più piccolo — quello che non sta fermo abbastanza per una foto decente — scade tra soli 18 mesi. Nessuno ti spiega come funziona finché non sei al banco del check-in e l'addetto ti chiede quale passaporto deve usare tuo figlio di dodici anni. Per avere un sistema che regge anche nel caos, parti da capire perché le famiglie sbagliano.
 

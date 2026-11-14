@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/es/blog/how-to-organise-family-travel-do
 
 ---
 
-![Una fila ordenada y uniformemente espaciada de diferentes documentos de viaje - un pasaporte, una tarjeta de identidad, una página de visado y una tarjeta de embarque - sobre un fondo azul marino profundo](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/cover.jpg)
-
 ## Puntos clave
 
 - Tu lista de verificación de documentos de viaje en familia necesita pasaportes, visados, seguro de viaje, y registros de vacunación —y eso es solo el comienzo si viajas con niños.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/es/blog/how-to-organise-family-travel-do
 - Los respaldos digitales no te permitirán pasar inmigración, pero te ahorrarán horas en una embajada si algo se pierde. Almacénalos cifrados, no en tu galería de fotos.
 - Realizar un seguimiento de las fechas de vencimiento antes de reservar —no la semana antes de volar— es el único hábito que previene la mayoría de desastres con documentos de viaje.
 - Una lista de verificación previa al viaje que ejecutas en el momento de la reserva te da suficiente tiempo para solucionar cualquier problema antes de que se conviertan en costosos.
+
+![Una fila ordenada y uniformemente espaciada de diferentes documentos de viaje - un pasaporte, una tarjeta de identidad, una página de visado y una tarjeta de embarque - sobre un fondo azul marino profundo](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/cover.jpg)
 
 Son las 23:00 la noche anterior a un vuelo, y los pasaportes están fuera, la impresión del seguro está en algún lugar, pero el certificado de vacunación —el que el destino realmente requiere— ha desaparecido en la casa. Ese es el problema cuando no tienes un sistema para los documentos de viaje en familia: haces una búsqueda diferente cada vez, y eventualmente algo importante no aparece.
 

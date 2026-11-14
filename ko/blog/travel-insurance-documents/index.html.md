@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/ko/blog/travel-insurance-documents/
 
 ---
 
-![부모와 아이가 조용한 진료소 대기실에서 앉아 있고, 부모가 빛나는 휴대폰 화면에서 보험증권을 차분히 읽고 있는 모습](https://traveldocumentvault.com/blog/travel-insurance-documents/cover.jpg)
-
 ## 주요 내용 요약
 
 - **전체 보험 서류, 보험증권번호, 긴급 지원 번호**를 저장하세요. 판매 상담 번호와 구분해 두세요.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/ko/blog/travel-insurance-documents/
 - **치료 전에 보험사에 연락해야 하는 경우를 알아두세요.** 응급 상황에서는 의료 지원을 먼저 받고, 가능한 한 빨리 보험사에 연락하세요.
 - 영수증과 신고·진료 기록을 보관하고, 청구에 어떤 서류가 필요한지 보험사에 문의하세요.
 - 보험증권의 핵심 섹션을 빨리 읽을 수 있게 정리하세요. 보장 한도, 보장되지 않는 사항, 조건을 중심으로 봅니다.
+
+![부모와 아이가 조용한 진료소 대기실에서 앉아 있고, 부모가 빛나는 휴대폰 화면에서 보험증권을 차분히 읽고 있는 모습](https://traveldocumentvault.com/blog/travel-insurance-documents/cover.jpg)
 
 저희라면 출발 전에 여행 보험 서류를 오프라인으로 저장하고 종이 백업도 챙기겠습니다. 보험증권번호, 보장 증명서, 긴급 지원 번호를 한데 모아 두세요. 이 글에서는 저장할 서류, 오프라인으로 열어보는 방법, 청구 안내를 읽는 요령과 긴급 지원 전화의 운영 시간을 알아두는 방법을 다룹니다.
 

@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/nl/blog/lost-passport-abroad/
 
 ---
 
-![Een paspoort op een marineblauwe achtergrond met vage gouden routelijnen en een kleine gouden locatiepin ernaast, die hulp suggereert om de weg naar huis te vinden](https://traveldocumentvault.com/blog/lost-passport-abroad/cover.jpg)
-
 ## Belangrijkste punten
 
 - Doe vroeg aangifte bij de politie – je verzekeraar zal er meestal om vragen, en sommige ambassades ook.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/nl/blog/lost-passport-abroad/
 - Een kopie van je paspoortgegevens kan helpen het proces te versnellen, maar is geen identiteitsbewijs.
 - Sommige reisverzekeringen dekken de kosten van een vervangend paspoort. Controleer je polis en bewaar het proces-verbaal, waar verzekeraars vaak om vragen.
 - Het juiste moment om je voor te bereiden is nu, voordat er iets misgaat. Een scan van vijf minuten vandaag kan je dagen stress in het buitenland besparen.
+
+![Een paspoort op een marineblauwe achtergrond met vage gouden routelijnen en een kleine gouden locatiepin ernaast, die hulp suggereert om de weg naar huis te vinden](https://traveldocumentvault.com/blog/lost-passport-abroad/cover.jpg)
 
 Mensen laten elke dag hun verloren paspoort in het buitenland vervangen, en ambassades behandelen het als routinewerk in plaats van een noodgeval. Het proces heeft een vaste volgorde, en die aanhouden is wat een rotmiddag verandert in een vertraging in plaats van een geannuleerde reis. Dit is wat je moet doen, stap voor stap.
 

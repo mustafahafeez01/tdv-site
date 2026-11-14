@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/passport-name-change-after-
 
 ---
 
-![水彩速写：一家三口背对镜头，站在机场窗前，晨光洒落，其中一位大人手里拿着一本金色护照](https://traveldocumentvault.com/blog/passport-name-change-after-marriage/cover.jpg)
-
 ## 关键要点
 
 - **光是结婚，什么都不会变。**只有开始使用不同的姓名时，才需要换新护照。
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/passport-name-change-after-
 - 婚礼之后，申请时附上你的**结婚证或民事伴侣关系证书**。
 - 婚礼之前申请，拿到的是**延后生效的护照**，旧护照会被注销，还可能让签证变得麻烦。
 - 如果蜜月紧接着婚礼，我们建议先用现在的姓名出行，回家之后再申请。
+
+![水彩速写：一家三口背对镜头，站在机场窗前，晨光洒落，其中一位大人手里拿着一本金色护照](https://traveldocumentvault.com/blog/passport-name-change-after-marriage/cover.jpg)
 
 对英国护照来说，结婚本身不会带来任何改变。HM Passport Office 自己的[更改姓名审核指引](https://www.gov.uk/government/publications/change-of-name-passport-applications-caseworker-guidance/names-change-of-name-passport-applications-accessible)写明，没有任何法律依据要求任何人因为结婚而更改姓名，所以只有当你使用的姓名变了，护照才需要跟着变。这就给你留下了一个选择：什么时候换。比起手续本身，时机其实更要紧。
 

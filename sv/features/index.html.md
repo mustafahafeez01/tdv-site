@@ -244,7 +244,7 @@ Integritet och säkerhet
 
 ## Din data, din enhet
 
-Inga servrar som lagrar dina dokument, inga konton, ingen spårning. Byggd av Mustafa Hafeez med integriteten i fokus från grunden. Länk till [integritetspolicyn](https://traveldocumentvault.com/privacy-policy/) och [verifieringen](https://traveldocumentvault.com/privacy-policy/).
+Inga servrar som lagrar dina dokument, inga konton, ingen spårning. Byggd av Mustafa Hafeez med integriteten i fokus från grunden. Länk till [integritetspolicyn](https://traveldocumentvault.com/privacy-policy/) och [verifieringen](https://traveldocumentvault.com/sv/privacy-verification/).
 
 ### Din data förblir din
 

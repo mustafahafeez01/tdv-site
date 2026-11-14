@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/es/blog/how-long-does-passport-renewal-t
 
 ---
 
-![Un pasaporte deslizándose medio fuera de un sobre color crema plano sobre fondo azul marino oscuro, sugiriendo una renovación en progreso](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/cover.jpg)
-
 ## Puntos clave
 
 - Cuánto tiempo tarda la renovación de pasaporte depende de tu país, tu situación y la temporada en la que solicites —no hay una única cifra que se mantenga exacta durante mucho tiempo, así que deliberadamente no incluimos ninguna en esta guía.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/es/blog/how-long-does-passport-renewal-t
 - Un puñado de situaciones ralentiza de forma fiable la tramitación: un cambio de nombre, un primer pasaporte de adulto, una solicitud infantil, un pasaporte perdido o dañado, comprobaciones de seguridad adicionales, la temporada alta y solicitar desde el extranjero.
 - El enfoque más seguro es solicitar en cuanto la validez restante de tu pasaporte empiece a quedarse justa, calculando hacia atrás desde tu fecha real de viaje en lugar de adivinar.
 - Para la cifra que importa ahora mismo, acude a tu propia autoridad de pasaportes —HM Passport Office, el Departamento de Estado de EE.UU., la Oficina de Pasaportes Australiana o tu equivalente nacional— no a un artículo de blog.
+
+![Un pasaporte deslizándose medio fuera de un sobre color crema plano sobre fondo azul marino oscuro, sugiriendo una renovación en progreso](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/cover.jpg)
 
 Has reservado vuelos para un viaje cinco meses desde ahora. Sacas los pasaportes de todos para verificar, y ahí está: uno vence en cinco meses y tres semanas. Ahora necesitas saber exactamente cuánto tiempo tarda la renovación de pasaporte —porque las matemáticas de repente importan.
 

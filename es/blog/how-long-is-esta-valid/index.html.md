@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/es/blog/how-long-is-esta-valid/
 
 ---
 
-![Un padre o madre y dos hijos vistos de espaldas en casa mirando por una ventana, sujetando un pasaporte estadounidense y documentos de viaje, un niño señalando hacia delante, detalle dorado en el lomo del pasaporte](https://traveldocumentvault.com/blog/how-long-is-esta-valid/cover.jpg)
-
 ## Puntos clave
 
 - **Una ESTA suele ser válida durante dos años desde su aprobación, o hasta que caduca el pasaporte**, lo que ocurra antes.
@@ -16,6 +14,8 @@ Source: https://traveldocumentvault.com/es/blog/how-long-is-esta-valid/
 - Un pasaporte nuevo, un nombre nuevo, una nacionalidad nueva o una respuesta de elegibilidad distinta significan volver a solicitarla.
 - **Cada viajero necesita su propia ESTA**, incluidos los niños de cualquier edad y los bebés sin billete propio.
 - La tarifa subió de US $40.27 a US $40.62 el 16 de octubre de 2026. Una ESTA ya aprobada no necesita volver a solicitarse.
+
+![Un padre o madre y dos hijos vistos de espaldas en casa mirando por una ventana, sujetando un pasaporte estadounidense y documentos de viaje, un niño señalando hacia delante, detalle dorado en el lomo del pasaporte](https://traveldocumentvault.com/blog/how-long-is-esta-valid/cover.jpg)
 
 Una ESTA suele durar dos años desde el día en que se aprueba, o hasta que caduca el pasaporte al que está vinculada, lo que ocurra antes. Si ya tienes una, el cambio de tarifa del 16 de octubre de 2026 no te afecta, y solo pagarás el nuevo importe la próxima vez que la solicites. Lo que haríamos hoy es comprobar la fecha de caducidad de cada ESTA de la familia, porque el reloj de cada persona corre por su cuenta.
 

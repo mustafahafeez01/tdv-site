@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-goo
 
 ---
 
-![A passport on a deep navy background protected by a soft gold shield, suggesting private and secure document storage](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/cover.jpg)
-
 ## Key Takeaways
 
 - Storing a passport scan in Google Photos means your identity document lives on Google's servers, processed by their systems, and guarded only by your account security.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-goo
 - Google's privacy policy says it uses automated systems to analyse your content to provide and improve its services, and a passport scan is stored like any other photo.
 - Better options exist: encrypted password managers, on-device encrypted apps, or client-side encrypted cloud storage, none of which dump your passport into a general photo library.
 - For most people, the real risk is weak account security, not Google itself: a reused password, a shared login, or someone else who already knows how to get in.
+
+![A passport on a deep navy background protected by a soft gold shield, suggesting private and secure document storage](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/cover.jpg)
 
 Plenty of people store passport scans in Google Photos without thinking twice: you need a copy, you take one, and it backs up automatically. The question of whether that's actually a smart move for your most sensitive identity document rarely comes up until something goes wrong.
 
@@ -69,7 +69,7 @@ The attacker now has your full legal name, date of birth, nationality, passport 
 
 ### iCloud Photos vs Google Photos: Is Apple Any Safer?
 
-iOS users often assume iCloud is meaningfully safer than Google Photos for storing passport scans. At a structural level, they're very similar. Both store your photos on cloud servers managed by the provider, both encrypt data in transit and at rest using their own managed keys. In both cases the provider holds the keys by default.
+iOS users often assume iCloud is meaningfully safer than Google Photos for storing passport scans. At a structural level, they're very similar. Both store your photos on cloud servers managed by the provider, and both encrypt data in transit and at rest using their own managed keys. In both cases the provider holds the keys by default.
 
 Apple's Advanced Data Protection (available in iOS 16.2+) does raise the bar: when enabled, it extends end-to-end encryption to iCloud Photos, meaning even Apple can't read your content. Still, it's not on by default, and most users don't know it exists.
 

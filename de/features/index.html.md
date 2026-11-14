@@ -244,7 +244,7 @@ Datenschutz & Sicherheit
 
 ## Ihre Daten, Ihr Gerät
 
-Keine Server, die Ihre Dokumente speichern, kein Konto, kein Tracking. Entwickelt von Mustafa Hafeez mit einer Architektur, bei der Datenschutz an erster Stelle steht. Link zur [Datenschutzerklärung](https://traveldocumentvault.com/privacy-policy/) und zur [Überprüfung](https://traveldocumentvault.com/privacy-policy/).
+Keine Server, die Ihre Dokumente speichern, kein Konto, kein Tracking. Entwickelt von Mustafa Hafeez mit einer Architektur, bei der Datenschutz an erster Stelle steht. Link zur [Datenschutzerklärung](https://traveldocumentvault.com/privacy-policy/) und zur [Überprüfung](https://traveldocumentvault.com/de/privacy-verification/).
 
 ### Ihre Daten bleiben Ihre Daten
 

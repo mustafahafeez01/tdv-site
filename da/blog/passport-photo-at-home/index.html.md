@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/da/blog/passport-photo-at-home/
 
 ---
 
-![en far fotograferer sin unge søn foran en ensfarvet væg i vinduslys, med et printet ark pasfotos på bordet foran dem](https://traveldocumentvault.com/blog/passport-photo-at-home/cover.jpg)
-
 ## Vigtigste punkter
 
 - Brug en ensfarvet, lys baggrund i den nuance, din myndighed kræver, neutralt udtryk, og øjnene åbne og rettet lige frem, med undtagelser for små børn
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/da/blog/passport-photo-at-home/
 - Naturligt vinduslys fungerer bedst – undgå hårde skygger, og brug ikke kamerablitz
 - Mange myndigheder, heriblandt Storbritanniens, beder dig om ikke at have briller på, medmindre det er nødvendigt – tjek de aktuelle krav
 - Fotos kan blive afvist, hvis de ikke opfylder din myndigheds krav til lys, størrelse, udtryk, skarphed eller baggrund
+
+![en far fotograferer sin unge søn foran en ensfarvet væg i vinduslys, med et printet ark pasfotos på bordet foran dem](https://traveldocumentvault.com/blog/passport-photo-at-home/cover.jpg)
 
 Ifølge GOV.UK har fotos fra en fotoboks eller butik større chance for at blive godkendt end fotos taget med eget udstyr. Fotos kan blive afvist, hvis de ikke opfylder din myndigheds krav til lys, størrelse, udtryk, skarphed eller baggrund.
 

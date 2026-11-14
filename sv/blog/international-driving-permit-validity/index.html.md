@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/sv/blog/international-driving-permit-val
 
 ---
 
-![En familj lastar en hyrbil inför en bilresa, med körkort och internationellt körkort liggande på den öppna kartan bredvid dem](https://traveldocumentvault.com/blog/international-driving-permit-validity/cover.jpg)
-
 ## Viktiga punkter
 
 - Ett internationellt körkort är **en översättning av körkortet du redan har**, så du bär båda. Att bara visa upp tillståndet bevisar ingenting.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/sv/blog/international-driving-permit-val
 - Wienkonventionens tillstånd **begränsas av ditt körkort**. Går körkortet ut först slutar tillståndet att gälla samma dag, oavsett vilket datum som står tryckt på det.
 - Länder har ratificerat olika konventioner, så **ett tillstånd som godtas i ett land kan nekas i nästa**.
 - Pass, körkort och tillstånd går efter **tre separata klockor** som nästan aldrig stämmer överens.
+
+![En familj lastar en hyrbil inför en bilresa, med körkort och internationellt körkort liggande på den öppna kartan bredvid dem](https://traveldocumentvault.com/blog/international-driving-permit-validity/cover.jpg)
 
 Ett internationellt körkort är en översättning av körkortet, inte ett körkort i egen rätt, och det löper efter sin egen tidtabell. Många gäller tolv månader från utfärdandedatumet och inget gäller längre än tre år, så det som köptes inför en resa för tre somrar sedan har nästan säkert gått ut. Hyrbilsdiskar i flera länder begär det innan de lämnar ut en bil.
 

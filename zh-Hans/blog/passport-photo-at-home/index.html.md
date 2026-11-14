@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/passport-photo-at-home/
 
 ---
 
-![父亲在窗户光线下为他的小儿子拍照，对着一面白色的墙壁，打印好的护照照片板放在他们前面的桌子上](https://traveldocumentvault.com/blog/passport-photo-at-home/cover.jpg)
-
 ## 关键要点
 
 - 使用符合您所在机构要求色调的纯色浅色背景、中性表情、眼睛睁开并直视镜头，幼儿可有例外
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/passport-photo-at-home/
 - 自然窗户光线效果最佳——避免刺眼阴影并避免使用相机闪光灯
 - 包括英国在内的许多机构要求除非必须否则不要戴眼镜——检查当前要求
 - 照片可能因光线、尺寸、表情、清晰度或背景不符合您所在机构的规定而被拒
+
+![父亲在窗户光线下为他的小儿子拍照，对着一面白色的墙壁，打印好的护照照片板放在他们前面的桌子上](https://traveldocumentvault.com/blog/passport-photo-at-home/cover.jpg)
 
 GOV.UK表示，照相亭或店内拍摄的照片比用自己设备拍摄的照片更有可能获批。照片可能因光线、尺寸、表情、清晰度或背景不符合您所在机构的规定而被拒。
 

@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/de/blog/proof-of-onward-travel/
 
 ---
 
-![Ein Elternteil und ein Kind an einem Flughafenfenster halten einen Reisepass mit einem eingelegten Flugticket und schauen auf ein Flugzeug vor einer Reise](https://traveldocumentvault.com/blog/proof-of-onward-travel/cover.jpg)
-
 ## Wichtigste Erkenntnisse
 
 - **Der Nachweis der Weiterreise bedeutet meist ein gebuchtes Ticket aus dem Land, in das Sie fliegen,** entweder nach Hause oder weiter in ein Land, in das Sie einreisen dürfen.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/de/blog/proof-of-onward-travel/
 - Manche Ziele verankern die Weiterreise in ihren Einreisebestimmungen für Besucher, sodass eine Fluggesellschaft, die danach fragt, oft nur die Regel des Ziellands früher anwendet.
 - Eine Hotelbuchung oder ein Kontoauszug beantwortet andere Fragen – wo Sie übernachten und wie Sie sich finanzieren – und ersetzt in der Regel kein Ausreiseticket.
 - Bewahren Sie die Bestätigung so auf, dass Sie sie am Schalter auch ohne Empfang oder Login öffnen können.
+
+![Ein Elternteil und ein Kind an einem Flughafenfenster halten einen Reisepass mit einem eingelegten Flugticket und schauen auf ein Flugzeug vor einer Reise](https://traveldocumentvault.com/blog/proof-of-onward-travel/cover.jpg)
 
 In den meisten Fällen ist der Nachweis der Weiterreise ein gebuchtes Ticket aus dem Land heraus, in das Sie fliegen. Ein Rückflug nach Hause zählt, ebenso ein Ticket weiter in ein drittes Land, in das Sie einreisen dürfen. Haben Sie bereits eines davon, besitzen Sie meist genau das, wonach gefragt wird.
 

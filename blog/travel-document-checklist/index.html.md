@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/blog/travel-document-checklist/
 
 ---
 
-![A passport and travel cards bound together by a slim gold band on a royal navy background, everything gathered for the trip](https://traveldocumentvault.com/blog/travel-document-checklist/cover.jpg)
-
 ## Key Takeaways
 
 - The most useful travel document checklist is organised by **when you need to act** - not by document type. Sorting by stage means you catch problems while there's still time to fix them.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/blog/travel-document-checklist/
 - Family travel adds a separate layer: every child needs their documents checked individually, and a parental consent letter may be needed if one parent isn't travelling.
 - Business travellers often carry multiple passports and work visas - these need their own tracking, separate from personal documents.
 - A digital backup of every document (encrypted, not in your photo library) could get you home faster if something goes wrong abroad.
+
+![A passport and travel cards bound together by a slim gold band on a royal navy background, everything gathered for the trip](https://traveldocumentvault.com/blog/travel-document-checklist/cover.jpg)
 
 Most travel document checklists are just a flat list: passport, visa, insurance. They tell you what to bring, but not when to check it, which is where people get caught out. The family who realise at check-in that one passport expires in five months, the solo traveller who booked without noticing their visa requirement, or the business traveller who forgot which passport their visa is tied to - these aren't edge cases, they're the norm.
 
@@ -140,7 +140,7 @@ Check at booking time - before you pay. Passport validity, visa requirements, an
 
 ### Does every family member need their own travel document checklist?
 
-Yes. Each person's passport expiry, visa requirements, and insurance coverage is assessed individually. One family member's documents can be in perfect order while another's fall short. Run the checklist for each person separately - this is where families most often get caught out.
+Yes. Each person's passport expiry, visa requirements, and insurance coverage are assessed individually. One family member's documents can be in perfect order while another's fall short. Run the checklist for each person separately - this is where families most often get caught out.
 
 ### What is a child travel consent letter and do I need one?
 

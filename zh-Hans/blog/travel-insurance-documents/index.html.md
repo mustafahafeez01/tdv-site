@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/travel-insurance-documents/
 
 ---
 
-![一对父母和孩子坐在诊所等待室里，父母在昏暗的光线下冷静地用手机查看保险保单](https://traveldocumentvault.com/blog/travel-insurance-documents/cover.jpg)
-
 ## 关键要点
 
 - **保存完整保单文件、保单号码和紧急救援电话**（不是销售电话）。
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/travel-insurance-documents/
 - **弄清保险公司要求何时在治疗前联系并获得批准**；遇到医疗急症，先联系当地急救服务，再尽快联系保险公司。
 - 保留收据和报告，并向保险公司了解理赔需要哪些文件。
 - 通过关注保障限额、除外条款和条件，快速阅读您保单的关键部分。
+
+![一对父母和孩子坐在诊所等待室里，父母在昏暗的光线下冷静地用手机查看保险保单](https://traveldocumentvault.com/blog/travel-insurance-documents/cover.jpg)
 
 我们建议您在出发前将旅行保险文件保存为离线可用，再带上一份纸质备份，把保单号码、承保证明和紧急救援电话整理在一起。本文会介绍该保存哪些内容、如何测试离线访问，以及怎样读懂理赔指引，包括了解救援热线的服务时间。
 

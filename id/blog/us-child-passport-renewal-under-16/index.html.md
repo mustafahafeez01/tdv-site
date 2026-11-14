@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/id/blog/us-child-passport-renewal-under-
 
 ---
 
-![Dua orang tua dan seorang anak dilihat dari belakang, berjalan bergandengan tangan menuju pintu terbuka, salah satu orang tua memegang paspor anak](https://traveldocumentvault.com/blog/us-child-passport-renewal-under-16/cover.jpg)
-
 ## Poin Penting
 
 - Paspor anak AS yang diterbitkan sebelum usia 16 tahun **tidak bisa diperpanjang** - Anda mengajukan paspor baru sebagai gantinya.
@@ -16,6 +14,8 @@ Source: https://traveldocumentvault.com/id/blog/us-child-passport-renewal-under-
 - Kedua orang tua harus ikut serta, kecuali salah satu memberikan **surat persetujuan tertulis yang dinotariskan** atau ada bukti hak asuh tunggal.
 - Di usia 16 atau 17 tahun, remaja mengajukan secara langsung dan bisa menandatangani permohonannya sendiri, tapi orang tua mungkin masih perlu memberikan persetujuan.
 - Paspor yang diterbitkan pada usia 16 tahun atau lebih berlaku sepuluh tahun dan umumnya bisa diperpanjang seperti paspor orang dewasa.
+
+![Dua orang tua dan seorang anak dilihat dari belakang, berjalan bergandengan tangan menuju pintu terbuka, salah satu orang tua memegang paspor anak](https://traveldocumentvault.com/blog/us-child-passport-renewal-under-16/cover.jpg)
 
 Paspor AS yang diterbitkan untuk anak di bawah 16 tahun tidak bisa diperpanjang. Saat habis masa berlakunya, Anda mengajukan paspor baru secara langsung, dengan cara yang sama seperti pertama kali, dan kedua orang tua ikut serta lagi. Ada lebih banyak dokumen dibanding perpanjangan paspor orang dewasa, tapi tidak ada yang baru jika Anda pernah melaluinya sekali.
 

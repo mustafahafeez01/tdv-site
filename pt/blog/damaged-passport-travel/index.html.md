@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/pt/blog/damaged-passport-travel/
 
 ---
 
-![pai e filho num balcão de check-in de uma companhia aérea enquanto o agente examina um passaporte dourado aberto com páginas danificadas pela água](https://traveldocumentvault.com/blog/damaged-passport-travel/cover.jpg)
-
 ## Pontos-Chave
 
 - **Nem todo o desgaste é dano.** Uma capa vincada não é problema. Danos causados pela água, páginas rasgadas ou elementos de segurança esborratados, sim.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/pt/blog/damaged-passport-travel/
 - Detetar danos **dias ou semanas antes** da viagem dá-lhe tempo para uma renovação de emergência. No dia anterior, já é uma crise.
 - Se for impedido de embarcar no portão, **pergunte à sua embaixada sobre um documento de viagem de emergência**.
 - Uma cópia digital **vale mais quando está no estrangeiro** — um funcionário consular consegue confirmar a sua identidade a partir de uma digitalização muito mais depressa do que a partir do seu relato. Digitalize o seu passaporte antes de viajar.
+
+![pai e filho num balcão de check-in de uma companhia aérea enquanto o agente examina um passaporte dourado aberto com páginas danificadas pela água](https://traveldocumentvault.com/blog/damaged-passport-travel/cover.jpg)
 
 A maioria dos danos num passaporte é apenas estética. Uma capa riscada, um canto amolecido, uma aresta puída ao longo da lombada — nada disto impede alguém de embarcar. O que o pessoal de fronteira e os agentes das companhias aéreas verificam de facto é mais restrito do que a maioria dos viajantes imagina: a página de identificação, as duas linhas impressas por baixo dela, e se o livrete ainda se mantém como um único documento.
 

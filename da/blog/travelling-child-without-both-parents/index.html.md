@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/da/blog/travelling-child-without-both-pa
 
 ---
 
-![Håndtegnet skitse af en forælder og et barn set bagfra i en afgangshal i en lufthavn, forælderen holder en lille vifte af to pas og et sammenfoldet dokument i brysthøjde](https://traveldocumentvault.com/blog/travelling-child-without-both-parents/cover.jpg)
-
 ## Vigtigste punkter
 
 - **Indtjekningspersonale og grænsevagter tjekker forskellige ting.** At opfylde det ene krav binder ikke det andet, hverken ved ankomst eller udrejse.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/da/blog/travelling-child-without-both-pa
 - Eneforældremyndighed: medbring **afgørelsen om forældremyndighed** og eventuelt nødvendigt samtykke fra andre med forældreansvar.
 - Den anden forælder er død: hvis du alene har retten til at træffe beslutninger for barnet, anbefaler de canadiske myndigheder en **kopi af dødsattesten**.
 - Andet efternavn: barnets **fulde fødselsattest** viser jeres slægtskab, sammen med en vielses- eller skilsmisseattest, hvis dit navn er ændret.
+
+![Håndtegnet skitse af en forælder og et barn set bagfra i en afgangshal i en lufthavn, forælderen holder en lille vifte af to pas og et sammenfoldet dokument i brysthøjde](https://traveldocumentvault.com/blog/travelling-child-without-both-parents/cover.jpg)
 
 Indtjekningspersonale i lufthavne og grænsevagter kigger to gange på et barn, der rejser uden begge forældre, og det andet blik er rutinemæssig børnebeskyttelseskontrol, ikke mistanke mod nogen bestemt. Hvilke papirer det er, afhænger af, hvorfor den anden forælder er fraværende: stadig hjemme, ikke længere delt forældremyndighed, eller ikke længere i live. Hver af disse situationer kan kræve supplerende dokumenter, og et samtykkebrev kan stadig være anbefalet sammen med en afgørelse om forældremyndighed.
 

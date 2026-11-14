@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/nl/blog/encrypted-cloud-backup-travel-do
 
 ---
 
-![Een ouder en kind zitten samen op de bank in de schemering, kijken naar een telefoon en een klein gouden sleuteltje dat naast een paspoort op tafel ligt, terwijl een wolk erboven alleen door elkaar gehusselde tekens achter een hangslot bevat](https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/cover.jpg)
-
 ## Belangrijkste punten
 
 - **"Versleutelde back-up" betekent pas iets zodra je weet wie de sleutel heeft.** Kan het bedrijf je documenten lezen, dan beschermt de versleuteling ze tegen vreemden, niet tegen het bedrijf.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/nl/blog/encrypted-cloud-backup-travel-do
 - **Geen account betekent geen wachtwoord resetten.** Verlies je de herstelcode en toegang tot elk apparaat dat de kluis nog kan openen, dan kunnen wij de versleutelde back-up niet herstellen. Dat is de bewuste afweging.
 - Schrijf de code op voordat je op de back-up vertrouwt, bewaar hem los van je telefoon, en lees hem één keer terug om te controleren of hij leesbaar is.
 - Een systeemback-up van je toestel herinstalleert de app, maar kan je documenten niet terugzetten, omdat systeemback-ups de apparaatgebonden versleutelingssleutel niet overzetten.
+
+![Een ouder en kind zitten samen op de bank in de schemering, kijken naar een telefoon en een klein gouden sleuteltje dat naast een paspoort op tafel ligt, terwijl een wolk erboven alleen door elkaar gehusselde tekens achter een hangslot bevat](https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/cover.jpg)
 
 Je hebt vier paspoorten, twee visa en de geboorteaktes van de kinderen ingescand in een app die alles op je telefoon bewaart. Mooi zo. Dan komt de voor de hand liggende zorg: wat gebeurt er als de telefoon in zee valt, of van een caféterras in Lissabon wordt gejat.
 

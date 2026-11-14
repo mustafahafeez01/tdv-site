@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/ja/blog/travel-insurance-documents/
 
 ---
 
-![親と眠い子どもが、親が光るスマートフォン画面で保険証券を静かに読んでいる夜間の診療室の待合室に座っている](https://traveldocumentvault.com/blog/travel-insurance-documents/cover.jpg)
-
 ## 重要ポイント
 
 - **保険の契約書類一式、証券番号、緊急アシスタンス番号を保存する**（営業窓口の番号と区別する）。
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/ja/blog/travel-insurance-documents/
 - **治療前に保険会社への連絡が必要になる条件を把握する**。救急の際は医療上の対応を優先し、できるだけ早く保険会社に連絡する。
 - 領収書や報告書を保管し、請求に必要な書類を保険会社に尋ねる。
 - 補償限度額、除外事項、条件を手がかりに、契約書類の重要な項目を読む。
+
+![親と眠い子どもが、親が光るスマートフォン画面で保険証券を静かに読んでいる夜間の診療室の待合室に座っている](https://traveldocumentvault.com/blog/travel-insurance-documents/cover.jpg)
 
 私たちなら、出発前に旅行保険の書類をオフラインで保存し、紙の控えも用意します。証券番号、補償内容を示す書類、緊急アシスタンス番号をまとめておくと便利です。この記事では、保存しておくもの、通信なしで開けるか試す方法、請求手続きの読み方を取り上げます。アシスタンス窓口の受付時間も把握しておきましょう。
 

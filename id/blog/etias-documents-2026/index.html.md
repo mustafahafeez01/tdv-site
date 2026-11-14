@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/id/blog/etias-documents-2026/
 
 ---
 
-![Sebuah paspor dengan latar belakang biru laut, dihiasi lengkungan bintang emas yang longgar dan garis rute putus-putus samar, menghadirkan kesan perjalanan Eropa](https://traveldocumentvault.com/blog/etias-documents-2026/cover.jpg)
-
 ## Poin Penting
 
 - **ETIAS adalah izin perjalanan digital** bagi pelancong dari Inggris, AS, dan Kanada, diperlukan untuk masuk bebas visa ke kawasan Schengen setelah menjadi wajib
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/id/blog/etias-documents-2026/
 - Waktu pemrosesan bervariasi, terutama segera setelah peluncuran; **ajukan jauh-jauh hari sebelum perjalanan** dan periksa situs resmi UE untuk panduan terkini
 - Periksa [situs resmi UE](https://home-affairs.ec.europa.eu/news/european-travel-authorisation-etias-will-cost-eur-20-2025-07-17_en) untuk biaya terkini; **anak di bawah 18 tahun dan dewasa di atas 70 tahun tidak membayar** tetapi tetap memerlukan izin
 - **Keraguan terhadap keandalan jawaban Anda dapat menyebabkan penolakan, jadi ungkapkan semuanya, bahkan yang sudah lama**
+
+![Sebuah paspor dengan latar belakang biru laut, dihiasi lengkungan bintang emas yang longgar dan garis rute putus-putus samar, menghadirkan kesan perjalanan Eropa](https://traveldocumentvault.com/blog/etias-documents-2026/cover.jpg)
 
 Anda sudah memesan perjalanan keluarga ke Italia dan mendengar bahwa ETIAS akan segera hadir, persyaratan izin digital baru bagi pengunjung bebas visa yang menuju Eropa. Panduan ini menjelaskan apa itu ETIAS, dokumen apa yang Anda perlukan, dan bagaimana proses permohonannya berjalan, sehingga Anda siap sebelum sampai ke formulir.
 

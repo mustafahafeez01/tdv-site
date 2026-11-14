@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take
 
 ---
 
-![A passport sliding halfway out of a plain cream envelope on a deep navy background, suggesting a renewal in progress](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/cover.jpg)
-
 ## Key Takeaways
 
 - How long renewal takes depends on your country, your situation, and the season you apply in - there's no single figure that stays accurate for long, so we've deliberately left one out of this guide.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take
 - A handful of situations reliably slow things down: a name change, a first adult passport, a child's application, a lost or damaged passport, extra security checks, peak season, and applying from abroad.
 - The safest approach is to apply the moment your passport's remaining validity starts to look tight, working backwards from your actual travel date rather than guessing.
 - For the number that matters right now, go to your own passport authority - HM Passport Office, the US State Department, the Australian Passport Office, or your national equivalent - not a blog post.
+
+![A passport sliding halfway out of a plain cream envelope on a deep navy background, suggesting a renewal in progress](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/cover.jpg)
 
 You've booked flights for a trip five months from now. You pull out everyone's passports to double-check, and there it is: one expires in five months and three weeks. Now you want a straight number for how long renewal takes, so you can work out whether you've actually got time.
 

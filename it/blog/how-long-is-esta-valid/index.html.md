@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/it/blog/how-long-is-esta-valid/
 
 ---
 
-![Un genitore e due bambini visti di spalle a casa mentre guardano fuori da una finestra, con in mano un passaporto statunitense e documenti di viaggio, un bambino che indica avanti, dettaglio dorato sul dorso del passaporto](https://traveldocumentvault.com/blog/how-long-is-esta-valid/cover.jpg)
-
 ## Punti chiave
 
 - **Un ESTA è generalmente valido per due anni dall'approvazione, o fino alla scadenza del passaporto**, a seconda di cosa avviene prima.
@@ -16,6 +14,8 @@ Source: https://traveldocumentvault.com/it/blog/how-long-is-esta-valid/
 - Un nuovo passaporto, un nuovo nome, una nuova cittadinanza o una risposta di idoneità cambiata significano doverlo richiedere di nuovo.
 - **Ogni viaggiatore ha bisogno del proprio ESTA**, compresi i bambini di qualsiasi età e i neonati senza biglietto proprio.
 - La tariffa è salita da US $40.27 a US $40.62 il 16 ottobre 2026. Chi ha già un ESTA approvato non deve richiederlo di nuovo.
+
+![Un genitore e due bambini visti di spalle a casa mentre guardano fuori da una finestra, con in mano un passaporto statunitense e documenti di viaggio, un bambino che indica avanti, dettaglio dorato sul dorso del passaporto](https://traveldocumentvault.com/blog/how-long-is-esta-valid/cover.jpg)
 
 Un ESTA dura generalmente due anni dal giorno dell'approvazione, oppure fino alla scadenza del passaporto a cui è collegato, a seconda di cosa avviene prima. Se ne hai già uno, l'aumento della tariffa del 16 ottobre 2026 non lo riguarda, e pagherai il nuovo importo solo alla prossima domanda. Oggi controlleremmo la data di scadenza di ogni ESTA della famiglia, perché la scadenza di ciascuno corre per conto suo.
 

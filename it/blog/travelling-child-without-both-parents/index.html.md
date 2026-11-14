@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/it/blog/travelling-child-without-both-pa
 
 ---
 
-![Schizzo disegnato a mano di un genitore e un bambino visti di spalle in un'area partenze aeroportuale, il genitore che tiene un piccolo ventaglio di due passaporti e un documento piegato all'altezza del petto](https://traveldocumentvault.com/blog/travelling-child-without-both-parents/cover.jpg)
-
 ## Punti chiave
 
 - **Il personale del check-in e gli ufficiali di frontiera controllano cose diverse.** Soddisfare uno non vale per l'altro, né all'arrivo né in uscita.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/it/blog/travelling-child-without-both-pa
 - Custodia esclusiva: porta il **provvedimento di affidamento o l'ordinanza del tribunale** e gli eventuali consensi necessari di altre persone con responsabilità genitoriale.
 - L'altro genitore è deceduto: se hai la responsabilità decisionale esclusiva, le indicazioni canadesi raccomandano una **copia del certificato di morte**.
 - Cognome diverso: il **certificato di nascita completo** del bambino dimostra il vostro legame di parentela, insieme a un certificato di matrimonio o divorzio se il tuo nome è cambiato.
+
+![Schizzo disegnato a mano di un genitore e un bambino visti di spalle in un'area partenze aeroportuale, il genitore che tiene un piccolo ventaglio di due passaporti e un documento piegato all'altezza del petto](https://traveldocumentvault.com/blog/travelling-child-without-both-parents/cover.jpg)
 
 Al check-in e alla frontiera, un bambino che viaggia senza entrambi i genitori viene guardato due volte. Quel secondo sguardo è un normale controllo di protezione dell'infanzia, non un sospetto verso qualcuno in particolare. Quali documenti servano dipende da perché l'altro genitore non c'è: è rimasto a casa, non condivide più la custodia, oppure non è più in vita. Ogni caso può richiedere documenti di supporto, e una lettera di consenso può essere raccomandata anche insieme a un provvedimento di affidamento.
 

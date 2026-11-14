@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/blog/international-driving-permit-validi
 
 ---
 
-![A family loading a hire car at the start of a road trip, a driving licence and International Driving Permit resting on the open map beside them](https://traveldocumentvault.com/blog/international-driving-permit-validity/cover.jpg)
-
 ## Key Takeaways
 
 - An IDP is **a translation of the licence you already hold**, so you carry both. Handing over the permit on its own proves nothing.
@@ -16,11 +14,13 @@ Source: https://traveldocumentvault.com/blog/international-driving-permit-validi
 - Countries ratified different conventions, so **a permit accepted in one country can be refused in the next**.
 - Passport, licence and permit run on **three separate clocks** that almost never line up.
 
+![A family loading a hire car at the start of a road trip, a driving licence and International Driving Permit resting on the open map beside them](https://traveldocumentvault.com/blog/international-driving-permit-validity/cover.jpg)
+
 An International Driving Permit is a translation of a licence, not a licence in its own right, and it runs on its own clock. Many are valid for twelve months from the date of issue, and none run longer than three years, so the one bought for a trip three summers ago has almost certainly run out. Hire desks in several countries ask for it before releasing a car.
 
 An IDP carries its own expiry date, and that date behaves differently depending on which international treaty your permit was issued under. Most drivers never discover there is more than one kind until theirs is turned down.
 
-## An IDP Translates Your Licence, It Doesn't Replace It
+## An IDP Translates Your Licence; It Doesn't Replace It
 
 An International Driving Permit is an official translation of the licence you already hold. It sets out your details in several languages so an officer who can't read your national licence can still work out what you're entitled to drive.
 
@@ -121,7 +121,7 @@ Official sources
 
 ### Do I need an International Driving Permit?
 
-It depends where you're driving and which licence you hold. Some countries accept your domestic licence on its own, others want an IDP alongside it. The country you're driving in sets the requirement, not the one that issued your licence, so check for your specific destination and nationality before you travel.
+It depends where you're driving and which licence you hold. Some countries accept your domestic licence on its own; others want an IDP alongside it. The country you're driving in sets the requirement, not the one that issued your licence, so check for your specific destination and nationality before you travel.
 
 ### How long is an International Driving Permit valid for?
 

@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/nl/blog/how-long-does-passport-renewal-t
 
 ---
 
-![Een paspoort dat half uit een gewone crèmekleurige envelop glijdt op een diepblauwe achtergrond, wat een lopende verlenging suggereert](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/cover.jpg)
-
 ## Belangrijkste punten
 
 - Hoe lang een verlenging duurt hangt af van je land, je situatie en het seizoen waarin je aanvraagt – er bestaat geen enkel getal dat lang accuraat blijft, dus we hebben er bewust een weggelaten uit deze gids.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/nl/blog/how-long-does-passport-renewal-t
 - Een handvol situaties vertraagt de aanvraag betrouwbaar: een naamswijziging, een eerste volwassen paspoort, een aanvraag voor een kind, een verloren of beschadigd paspoort, extra controles, hoogseizoen en aanvragen vanuit het buitenland.
 - De veiligste aanpak is aanvragen zodra de resterende geldigheid van je paspoort krap begint te worden, en terugrekenen vanaf je werkelijke reisdatum in plaats van te gokken.
 - Voor het getal dat er nu toe doet, ga je naar je eigen paspoortinstantie – HM Passport Office, het Amerikaanse ministerie van Buitenlandse Zaken, het Australische paspoortkantoor, of je nationale tegenhanger – niet naar een blogartikel.
+
+![Een paspoort dat half uit een gewone crèmekleurige envelop glijdt op een diepblauwe achtergrond, wat een lopende verlenging suggereert](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/cover.jpg)
 
 Je hebt vluchten geboekt voor een reis over vijf maanden. Je haalt ieders paspoort tevoorschijn om dubbel te checken, en daar is het: één verloopt over vijf maanden en drie weken. Nu wil je een precies getal voor hoe lang een verlenging duurt, zodat je kunt uitrekenen of je daadwerkelijk tijd hebt.
 

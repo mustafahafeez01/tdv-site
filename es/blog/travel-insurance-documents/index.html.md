@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/es/blog/travel-insurance-documents/
 
 ---
 
-![un progenitor y su hijo dormido se sientan en una tranquila sala de espera clínica por la noche, el progenitor leyendo calmadamente su póliza de seguros en la pantalla brillante de su teléfono](https://traveldocumentvault.com/blog/travel-insurance-documents/cover.jpg)
-
 ## Conclusiones Principales
 
 - **Guarda los documentos completos de tu póliza, el número de póliza y el teléfono de asistencia de emergencia** (no el número de ventas).
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/es/blog/travel-insurance-documents/
 - **Averigua cuándo exige tu aseguradora que contactes con ella antes del tratamiento**; en una emergencia, busca ayuda médica primero y avisa a la aseguradora lo antes posible.
 - Conserva los recibos e informes y pregunta a tu aseguradora qué documentos necesita para una reclamación.
 - Lee rápidamente las secciones clave de tu póliza enfocándote en límites de cobertura, exclusiones y condiciones.
+
+![un progenitor y su hijo dormido se sientan en una tranquila sala de espera clínica por la noche, el progenitor leyendo calmadamente su póliza de seguros en la pantalla brillante de su teléfono](https://traveldocumentvault.com/blog/travel-insurance-documents/cover.jpg)
 
 Nosotros guardaríamos los documentos del seguro de viaje sin conexión y prepararíamos una copia en papel antes de salir, con el número de póliza, el justificante de cobertura y el teléfono de asistencia de emergencia juntos. Aquí te contamos qué guardar, cómo probar el acceso sin conexión y cómo entender las instrucciones para reclamar y cómo averiguar el horario de la línea de asistencia.
 

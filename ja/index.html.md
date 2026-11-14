@@ -6,7 +6,9 @@ Source: https://traveldocumentvault.com/ja/
 
 ---
 
-09:41
+アプリはスマートフォン上で書類を暗号化します。Proには、必要に応じて有効にできる暗号化クラウドバックアップが含まれています。
+
+[書類を保護する仕組み](https://traveldocumentvault.com/ja/privacy-verification/) 09:41
 
 ## 本番の旅の前に、もうひとつの旅がある
 

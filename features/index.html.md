@@ -137,7 +137,7 @@ Smart Capture
 On-screen guides help you align your documents precisely. Different templates for different document types:
 
 - **Passport**: with centre divider line for open spreads
-- **ID card**: credit card sized frame
+- **ID card**: credit-card-sized frame
 - **Visa / Permit**: A5 / half-page guide for stamps & stickers
 - **Full Page**: A4 guide for e-visas, insurance, & tickets
 
@@ -244,7 +244,7 @@ Privacy & Security
 
 ## Your Data, Your Device
 
-No servers that hold your documents, no accounts, no tracking. Built by Mustafa Hafeez with privacy-first architecture. [Privacy Policy](https://traveldocumentvault.com/privacy-policy/) and [Verification](https://traveldocumentvault.com/privacy-policy/) link.
+No servers that hold your documents, no accounts, no tracking. Built by Mustafa Hafeez with privacy-first architecture. Read the [Privacy Policy](https://traveldocumentvault.com/privacy-policy/) and [Verification](https://traveldocumentvault.com/privacy-verification/) pages.
 
 ### Your Data Stays Yours
 

@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/de/blog/encrypted-cloud-backup-travel-do
 
 ---
 
-![Ein Elternteil und ein Kind sitzen in der Abenddämmerung zusammen auf einem Sofa und schauen auf ein Telefon und einen kleinen goldenen Schlüssel, der neben einem Pass auf dem Tisch liegt, während eine Wolke darüber nur verwürfelte Zeichen hinter einem Vorhängeschloss zeigt](https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/cover.jpg)
-
 ## Die wichtigsten Punkte
 
 - **„Verschlüsseltes Backup" bedeutet erst dann etwas, wenn Sie wissen, wer den Schlüssel hält.** Kann das Unternehmen Ihre Dokumente lesen, schützt die Verschlüsselung sie vor Fremden, nicht vor dem Unternehmen.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/de/blog/encrypted-cloud-backup-travel-do
 - **Kein Konto bedeutet kein Zurücksetzen des Passworts.** Verlieren Sie den Wiederherstellungscode und den Zugang zu allen Geräten, die den Tresor noch öffnen können, können wir das verschlüsselte Backup nicht wiederherstellen. Das ist der bewusste Tausch.
 - Schreiben Sie den Code auf, bevor Sie sich auf das Backup verlassen, bewahren Sie ihn getrennt vom Telefon auf und lesen Sie ihn einmal vor, um zu prüfen, ob er lesbar ist.
 - Ein System-Gerätebackup installiert die App neu, kann Ihre Dokumente aber nicht zurückbringen, weil Systemsicherungen den an das Gerät gebundenen Verschlüsselungsschlüssel nicht übertragen.
+
+![Ein Elternteil und ein Kind sitzen in der Abenddämmerung zusammen auf einem Sofa und schauen auf ein Telefon und einen kleinen goldenen Schlüssel, der neben einem Pass auf dem Tisch liegt, während eine Wolke darüber nur verwürfelte Zeichen hinter einem Vorhängeschloss zeigt](https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/cover.jpg)
 
 Sie haben vier Pässe, zwei Visa und die Geburtsurkunden der Kinder in eine App gescannt, die alles auf Ihrem Telefon behält. Gut so. Dann kommt die naheliegende Sorge: Was passiert, wenn das Telefon im Meer landet oder von einem Café-Tisch in Lissabon gestohlen wird.
 

@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/sv/blog/how-to-organise-family-travel-do
 
 ---
 
-![En prydlig, jämnt utplacerad rad med olika resehandlingar - ett pass, ett ID-kort, en visumsida och ett boardingkort - mot en djup marinblå bakgrund](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/cover.jpg)
-
 ## Viktiga punkter
 
 - Familjens checklista för resehandlingar behöver pass, visum, reseförsäkring och vaccinationsbevis – och det är innan ni räknar in handlingar som gäller specifikt för barn.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/sv/blog/how-to-organise-family-travel-do
 - Digitala säkerhetskopior tar er inte igenom gränskontrollen, men de sparar timmar på en ambassad om något försvinner. Förvara dem krypterade, inte i kamerarullen.
 - Att hålla koll på utgångsdatum innan ni bokar – inte veckan innan avresa – är den enskilda vana som förhindrar de flesta katastrofer med resehandlingar.
 - En checklista inför resan som ni kör igenom vid bokningstillfället ger tillräckligt med marginal för att lösa eventuella problem innan de blir dyra.
+
+![En prydlig, jämnt utplacerad rad med olika resehandlingar - ett pass, ett ID-kort, en visumsida och ett boardingkort - mot en djup marinblå bakgrund](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/cover.jpg)
 
 Klockan är elva kvällen innan en flygresa, passen ligger framme, försäkringsutskriften finns någonstans, men vaccinationsintyget – det som destinationen faktiskt kräver – har försvunnit någonstans i huset. Det är problemet när ni saknar ett system för familjens resehandlingar: ni letar på nytt sätt varje gång, och förr eller senare dyker något viktigt inte upp.
 

@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/nl/blog/proof-of-onward-travel/
 
 ---
 
-![Een ouder en kind bij een raam op het vliegveld, met een paspoort met een reisticket erin gestoken, kijkend naar een vliegtuig voor een reis](https://traveldocumentvault.com/blog/proof-of-onward-travel/cover.jpg)
-
 ## Belangrijkste punten
 
 - **Bewijs van verder reizen betekent meestal een geboekt ticket uit het land waar je naartoe vliegt,** naar huis of door naar een land waar je mag inreizen.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/nl/blog/proof-of-onward-travel/
 - Sommige bestemmingen nemen verder reizen op in hun toelatingsregels voor bezoekers, dus als een luchtvaartmaatschappij hiernaar vraagt, past ze vaak alleen de regel van de bestemming iets eerder toe.
 - Een hotelboeking of een bankafschrift beantwoordt andere vragen, waar je verblijft en hoe je jezelf onderhoudt, en vervangt doorgaans geen ticket om het land te verlaten.
 - Bewaar de bevestiging ergens waar je die aan de balie kunt openen, ook zonder bereik of inlog.
+
+![Een ouder en kind bij een raam op het vliegveld, met een paspoort met een reisticket erin gestoken, kijkend naar een vliegtuig voor een reis](https://traveldocumentvault.com/blog/proof-of-onward-travel/cover.jpg)
 
 In de meeste gevallen is bewijs van verder reizen een geboekt ticket uit het land waar je naartoe vliegt. Een retourvlucht naar huis telt, en een ticket door naar een derde land waar je mag inreizen ook. Heb je al een van die twee, dan heb je wat er meestal wordt gevraagd.
 

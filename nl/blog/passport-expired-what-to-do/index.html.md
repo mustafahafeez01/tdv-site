@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/nl/blog/passport-expired-what-to-do/
 
 ---
 
-![Eén paspoort dat plat ligt op een koningsblauwe achtergrond, met een zachte gouden pijl die naar voren buigt en de duidelijke volgende stap suggereert](https://traveldocumentvault.com/blog/passport-expired-what-to-do/cover.jpg)
-
 ## Belangrijkste punten
 
 - Er zijn twee verschillende situaties: ontdekken dat je paspoort verlopen is **thuis, voor een reis**, en het ontdekken **op het vliegveld**. De stappen verschillen per situatie.
@@ -16,6 +14,8 @@ Source: https://traveldocumentvault.com/nl/blog/passport-expired-what-to-do/
 - Op het vliegveld: neem eerst contact op met je luchtvaartmaatschappij – vraag of ze je zonder omboekingskosten kunnen omboeken.
 - De oplossing voor de toekomst is een vervalherinnering op 12 maanden, niet 6. Dat geeft je genoeg tijd om te vernieuwen met standaardbehandeling.
 - Verval is niet het enige paspoortprobleem waardoor reizigers geweigerd worden. Schade, naamverschillen, ontbrekende handtekeningen en onvoldoende resterende geldigheid op de bestemming leiden tot hetzelfde resultaat.
+
+![Eén paspoort dat plat ligt op een koningsblauwe achtergrond, met een zachte gouden pijl die naar voren buigt en de duidelijke volgende stap suggereert](https://traveldocumentvault.com/blog/passport-expired-what-to-do/cover.jpg)
 
 Ontdekken dat je paspoort is verlopen, is een van die momenten waarop de tijd plotseling heel echt aanvoelt. Of je het nu drie maanden voor een reis ontdekte of nu op dit moment bij de incheckbalie op het vliegveld staat, wat er hierna gebeurt hangt volledig af van je situatie.
 

@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/es/blog/passport-name-change-after-marri
 
 ---
 
-![Boceto a la acuarela de una familia de tres vista de espaldas junto a la ventana de un aeropuerto con luz de mañana, con un adulto sosteniendo un pasaporte dorado](https://traveldocumentvault.com/blog/passport-name-change-after-marriage/cover.jpg)
-
 ## Puntos clave
 
 - **Casarse, por sí solo, no cambia nada.** Solo necesitas un pasaporte nuevo si empiezas a usar otro nombre.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/es/blog/passport-name-change-after-marri
 - Después de la ceremonia, envía con la solicitud tu **certificado de matrimonio o de unión civil**.
 - Si solicitas antes de la ceremonia, recibes un **pasaporte con fecha posterior**, se cancela el anterior y los visados pueden complicarse.
 - Si la luna de miel va pegada a la boda, viajaríamos con tu nombre actual y solicitaríamos el cambio al volver a casa.
+
+![Boceto a la acuarela de una familia de tres vista de espaldas junto a la ventana de un aeropuerto con luz de mañana, con un adulto sosteniendo un pasaporte dorado](https://traveldocumentvault.com/blog/passport-name-change-after-marriage/cover.jpg)
 
 Casarse, por sí solo, no cambia nada en un pasaporte británico. La propia [guía para tramitadores sobre cambios de nombre](https://www.gov.uk/government/publications/change-of-name-passport-applications-caseworker-guidance/names-change-of-name-passport-applications-accessible) de HM Passport Office señala que nadie tiene base legal para cambiarse el nombre por haberse casado, de modo que el pasaporte solo tiene que cambiar cuando cambia el nombre que usas. Eso te deja elegir cuándo hacerlo, y el momento acaba importando más que el papeleo.
 

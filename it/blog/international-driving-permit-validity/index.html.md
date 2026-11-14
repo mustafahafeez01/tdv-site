@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/it/blog/international-driving-permit-val
 
 ---
 
-![Una famiglia carica un'auto a noleggio all'inizio di un viaggio su strada, con patente di guida e patente internazionale appoggiate sulla mappa aperta accanto a loro](https://traveldocumentvault.com/blog/international-driving-permit-validity/cover.jpg)
-
 ## Punti Chiave
 
 - Un IDP è **la traduzione della patente che hai già**, quindi porti con te tutte e due. Mostrare solo il permesso non dimostra nulla.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/it/blog/international-driving-permit-val
 - Il permesso di Vienna **dipende dalla tua patente di guida**. Se la patente scade prima, da quel giorno il permesso non serve più, qualunque data ci sia stampata sopra.
 - Ogni paese ha aderito a convenzioni diverse, quindi **un permesso accettato in un paese può essere rifiutato in quello dopo**.
 - Passaporto, patente e permesso seguono **tre scadenze separate** che quasi mai coincidono.
+
+![Una famiglia carica un'auto a noleggio all'inizio di un viaggio su strada, con patente di guida e patente internazionale appoggiate sulla mappa aperta accanto a loro](https://traveldocumentvault.com/blog/international-driving-permit-validity/cover.jpg)
 
 Un permesso di guida internazionale è la traduzione della tua patente, non una patente a sé, e ha una scadenza tutta sua. Molti valgono dodici mesi dal rilascio e nessuno supera i tre anni, quindi quello comprato per un viaggio tre estati fa è quasi certamente scaduto. Gli sportelli di noleggio di diversi paesi lo chiedono prima di consegnarti l'auto.
 

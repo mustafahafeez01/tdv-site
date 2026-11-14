@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/de/blog/how-to-organise-family-travel-do
 
 ---
 
-![Eine ordentlich angeordnete Reihe verschiedener Reisedokumente - ein Reisepass, eine Ausweiskarte, eine Visaseite und ein Bordschein - auf dunkelblauem Hintergrund](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/cover.jpg)
-
 ## Wichtigste Erkenntnisse
 
 - Ihre Checkliste für Familienreisedokumente muss Reisepässe, Visa, Reiseversicherung und Impfnachweise enthalten – und das ist nur der Anfang, wenn Sie mit Kindern reisen.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/de/blog/how-to-organise-family-travel-do
 - Digitale Sicherungen bringen Sie nicht durch die Einwanderung, aber sie sparen Ihnen Stunden bei einer Botschaft, wenn etwas verloren geht. Speichern Sie sie verschlüsselt, nicht in Ihrer Fotobibliothek.
 - Das Überprüfen von Ablaufdaten, bevor Sie buchen – nicht eine Woche vor Ihrer Abreise –, ist die einzige Gewohnheit, die die meisten Reisedokument-Katastrophen verhindert.
 - Eine Checkliste vor der Reise, die Sie zum Zeitpunkt der Buchung durchführen, gibt Ihnen genug Zeit, um Probleme zu beheben, bevor sie teuer werden.
+
+![Eine ordentlich angeordnete Reihe verschiedener Reisedokumente - ein Reisepass, eine Ausweiskarte, eine Visaseite und ein Bordschein - auf dunkelblauem Hintergrund](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/cover.jpg)
 
 Es ist 23 Uhr am Vorabend eines Fluges, Reisepässe liegen bereit, der Versicherungsausdruck ist irgendwo, aber das Impfzertifikat – das, das das Reiseziel tatsächlich verlangt – ist im Haus verschwunden. Das ist das Problem, wenn Sie kein System für Familienreisedokumente haben: Sie führen jedes Mal eine andere Suche durch, und irgendwann taucht etwas Wichtiges nicht auf.
 

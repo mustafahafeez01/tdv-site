@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/id/blog/passport-photo-at-home/
 
 ---
 
-![seorang ayah memotret anak laki-lakinya yang masih kecil di depan dinding polos dengan cahaya jendela, dengan selembar kertas cetak foto paspor di atas meja di depan mereka](https://traveldocumentvault.com/blog/passport-photo-at-home/cover.jpg)
-
 ## Poin Penting
 
 - Gunakan latar belakang polos berwarna terang sesuai ketentuan otoritas Anda, ekspresi netral, dan mata terbuka menatap lurus ke depan, dengan pengecualian untuk anak kecil
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/id/blog/passport-photo-at-home/
 - Cahaya jendela alami paling baik, hindari bayangan tajam dan jangan gunakan lampu kilat kamera
 - GOV.UK meminta pemohon di Inggris untuk tidak memakai kacamata kecuali benar-benar diperlukan; Pemerintah Kanada mengizinkannya jika mata Anda terlihat jelas tanpa kilau pada lensa, periksa persyaratan terbaru
 - Foto bisa ditolak jika tidak memenuhi aturan otoritas Anda tentang pencahayaan, ukuran, ekspresi, ketajaman, atau latar belakang
+
+![seorang ayah memotret anak laki-lakinya yang masih kecil di depan dinding polos dengan cahaya jendela, dengan selembar kertas cetak foto paspor di atas meja di depan mereka](https://traveldocumentvault.com/blog/passport-photo-at-home/cover.jpg)
 
 Menurut GOV.UK, foto dari bilik foto atau toko foto lebih mungkin disetujui daripada foto yang diambil dengan perangkat sendiri. Foto bisa ditolak jika tidak memenuhi aturan otoritas Anda tentang pencahayaan, ukuran, ekspresi, ketajaman, atau latar belakang.
 

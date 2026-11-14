@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/blog/us-child-passport-renewal-under-16/
 
 ---
 
-![Two parents and a child seen from behind, walking hand in hand toward an open doorway, one parent holding the child's passport](https://traveldocumentvault.com/blog/us-child-passport-renewal-under-16/cover.jpg)
-
 ## Key Takeaways
 
 - A US child's passport issued before age 16 **cannot be renewed** - you apply for a new one instead.
@@ -16,6 +14,8 @@ Source: https://traveldocumentvault.com/blog/us-child-passport-renewal-under-16/
 - Both parents must take part unless one gives **notarised written consent** or there's proof of sole authority.
 - At age 16 or 17, a teen applies in person and can sign their own application, but a parent may still need to provide consent.
 - A passport issued at 16 or older is valid for ten years and can generally be renewed like an adult's.
+
+![Two parents and a child seen from behind, walking hand in hand toward an open doorway, one parent holding the child's passport](https://traveldocumentvault.com/blog/us-child-passport-renewal-under-16/cover.jpg)
 
 A US passport issued to a child under 16 can't be renewed. When it runs out, you apply for a new one in person, the same way you did the first time, and both parents take part again. It's more paperwork than an adult renewal, but none of it is new if you've done it once.
 

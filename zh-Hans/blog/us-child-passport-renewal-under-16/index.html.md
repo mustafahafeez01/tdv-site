@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/us-child-passport-renewal-u
 
 ---
 
-![两位家长和一个孩子背对镜头，手牵着手朝一扇敞开的门走去，其中一位家长手里拿着孩子的护照](https://traveldocumentvault.com/blog/us-child-passport-renewal-under-16/cover.jpg)
-
 ## 关键要点
 
 - 16岁前签发的美国儿童护照**不能更新**，只能改为重新申请一本新护照。
@@ -16,6 +14,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/us-child-passport-renewal-u
 - 除非一方父母提供**经公证的同意书**，或能证明拥有单独监护权，否则父母双方都必须共同参与。
 - 到16岁或17岁时，孩子本人到场申请，并可以自己在申请表上签字，但有时仍需要父母提供同意。
 - 16岁或以后签发的护照**有效期为十年**，一般可以像成人护照一样更新。
+
+![两位家长和一个孩子背对镜头，手牵着手朝一扇敞开的门走去，其中一位家长手里拿着孩子的护照](https://traveldocumentvault.com/blog/us-child-passport-renewal-under-16/cover.jpg)
 
 16岁以下儿童获发的美国护照不能更新。护照到期后，你需要像第一次一样让孩子本人到场重新申请一本新护照，父母双方再次共同参与。这比成人更新多一些手续，但如果你已经经历过一次，这些手续都不会陌生。
 

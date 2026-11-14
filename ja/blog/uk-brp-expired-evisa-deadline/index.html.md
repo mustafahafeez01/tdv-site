@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/ja/blog/uk-brp-expired-evisa-deadline/
 
 ---
 
-![日当たりのよい窓辺にいる親と二人の子ども。彼女の手は、窓辺に置かれた数冊のパスポートの束にそっと添えられている](https://traveldocumentvault.com/blog/uk-brp-expired-evisa-deadline/cover.jpg)
-
 ## 重要ポイント
 
 - 期限切れのBRPをお持ちの方の多くは、**UKVIアカウントを作成するだけ**で済み、カードはしばらくの間その作成に使えます。
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/ja/blog/uk-brp-expired-evisa-deadline/
 - カードが使えない場合でも、有効なパスポートとビザ申請番号、またはBRP番号があれば作成できます。
 - 子どもにもそれぞれ**自分のアカウント**が必要ですが、保護者が自分の電話番号とメールアドレスで管理できます。
 - 渡航するには、実際に使うパスポートをUKVIアカウントに登録し、その情報が予約内容と一致している必要があります。
+
+![日当たりのよい窓辺にいる親と二人の子ども。彼女の手は、窓辺に置かれた数冊のパスポートの束にそっと添えられている](https://traveldocumentvault.com/blog/uk-brp-expired-evisa-deadline/cover.jpg)
 
 期限切れのBRP（Biometric Residence Permit、生体認証居住許可証）をお持ちで、引き続き在留許可がある方は、GOV.UKの案内に従い、UKVIアカウント（UK Visas and Immigration）を作成することになります。カードを本人確認に使います。一度で完了する作業で、期限切れのカードでも、少なくとも当面はその用途に使えます。在留資格そのものは変わっていません。変わったのは、その情報がどこに保存されているかです。
 

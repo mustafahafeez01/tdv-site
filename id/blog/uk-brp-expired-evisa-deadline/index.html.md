@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/id/blog/uk-brp-expired-evisa-deadline/
 
 ---
 
-![Seorang orang tua dan dua anak di jendela yang disinari matahari, tangannya bersandar pada setumpuk kecil paspor di ambang jendela](https://traveldocumentvault.com/blog/uk-brp-expired-evisa-deadline/cover.jpg)
-
 ## Poin Penting
 
 - Sebagian besar pemegang BRP yang kedaluwarsa hanya perlu **membuat akun UKVI**, dan kartunya masih bisa membantu untuk sementara waktu.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/id/blog/uk-brp-expired-evisa-deadline/
 - Tidak punya kartu yang masih bisa dipakai? Paspor yang masih berlaku ditambah nomor permohonan visa atau nomor BRP juga bisa membawa Anda masuk.
 - Setiap anak memerlukan **akun sendiri**, yang bisa dikelola orang tua dengan nomor telepon dan email mereka sendiri.
 - Untuk bepergian, paspor yang Anda gunakan harus tercantum di akun UKVI Anda, dengan detail yang sesuai dengan pemesanan Anda.
+
+![Seorang orang tua dan dua anak di jendela yang disinari matahari, tangannya bersandar pada setumpuk kecil paspor di ambang jendela](https://traveldocumentvault.com/blog/uk-brp-expired-evisa-deadline/cover.jpg)
 
 Jika Anda memegang Biometric Residence Permit (BRP, Izin Tinggal Biometrik Inggris) yang kedaluwarsa dan masih memiliki izin tinggal, GOV.UK meminta Anda membuat akun UK Visas and Immigration (UKVI), menggunakan kartu tersebut untuk membuktikan identitas Anda. Ini cukup sekali duduk, dan kartu yang kedaluwarsa masih berfungsi untuk itu, setidaknya untuk sementara waktu. Status imigrasi Anda tidak berubah. Yang berubah adalah tempat status itu disimpan.
 

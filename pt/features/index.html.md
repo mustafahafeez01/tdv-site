@@ -244,7 +244,7 @@ Privacidade e segurança
 
 ## Os seus dados, o seu dispositivo
 
-Nenhum servidor que guarde os seus documentos, nenhuma conta, nenhum rastreio. Criada por Mustafa Hafeez com uma arquitetura que põe a privacidade em primeiro lugar. Ligações para a [Política de Privacidade](https://traveldocumentvault.com/privacy-policy/) e a [Verificação](https://traveldocumentvault.com/privacy-policy/).
+Nenhum servidor que guarde os seus documentos, nenhuma conta, nenhum rastreio. Criada por Mustafa Hafeez com uma arquitetura que põe a privacidade em primeiro lugar. Ligações para a [Política de Privacidade](https://traveldocumentvault.com/privacy-policy/) e a [Verificação](https://traveldocumentvault.com/pt/privacy-verification/).
 
 ### Os seus dados continuam seus
 

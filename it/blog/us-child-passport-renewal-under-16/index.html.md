@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/it/blog/us-child-passport-renewal-under-
 
 ---
 
-![Due genitori e un figlio visti di spalle, che camminano mano nella mano verso una porta aperta, un genitore che tiene il passaporto del figlio](https://traveldocumentvault.com/blog/us-child-passport-renewal-under-16/cover.jpg)
-
 ## Punti chiave
 
 - Il passaporto USA di un minore rilasciato prima dei 16 anni **non può essere rinnovato**: devi fare domanda per uno nuovo.
@@ -16,6 +14,8 @@ Source: https://traveldocumentvault.com/it/blog/us-child-passport-renewal-under-
 - Entrambi i genitori devono partecipare, a meno che uno non fornisca **un consenso scritto autenticato** o ci sia prova di autorità esclusiva.
 - A 16 o 17 anni, l'adolescente fa domanda di persona e può firmare la propria domanda, ma un genitore potrebbe comunque dover fornire il consenso.
 - Un passaporto rilasciato a 16 anni o più è valido dieci anni e in genere può essere rinnovato come quello di un adulto.
+
+![Due genitori e un figlio visti di spalle, che camminano mano nella mano verso una porta aperta, un genitore che tiene il passaporto del figlio](https://traveldocumentvault.com/blog/us-child-passport-renewal-under-16/cover.jpg)
 
 Un passaporto USA rilasciato a un minore di 16 anni non può essere rinnovato. Quando scade, devi richiederne uno nuovo di persona, come la prima volta, di nuovo con entrambi i genitori. Servono più documenti rispetto al rinnovo di un adulto, ma se l'hai già fatto una volta non troverai niente di nuovo.
 

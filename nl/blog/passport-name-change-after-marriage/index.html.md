@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/nl/blog/passport-name-change-after-marri
 
 ---
 
-![Aquarelschets van een gezin van drie van achteren gezien bij een luchthavenraam in het ochtendlicht, een volwassene houdt een gouden paspoort vast](https://traveldocumentvault.com/blog/passport-name-change-after-marriage/cover.jpg)
-
 ## Belangrijkste punten
 
 - **Alleen trouwen verandert niets.** Je hebt pas een nieuw paspoort nodig als je een andere naam gaat gebruiken.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/nl/blog/passport-name-change-after-marri
 - Stuur na de plechtigheid je **huwelijksakte of akte van geregistreerd partnerschap** mee met de aanvraag.
 - Aanvragen vóór de plechtigheid levert een **vooruitgedateerd paspoort** op, annuleert je oude paspoort en kan visa ingewikkelder maken.
 - Ligt de huwelijksreis vlak na de bruiloft, dan zouden wij op je huidige naam reizen en pas aanvragen als je weer thuis bent.
+
+![Aquarelschets van een gezin van drie van achteren gezien bij een luchthavenraam in het ochtendlicht, een volwassene houdt een gouden paspoort vast](https://traveldocumentvault.com/blog/passport-name-change-after-marriage/cover.jpg)
 
 Trouwen verandert op zichzelf niets aan een Brits paspoort. In de eigen [richtlijnen voor medewerkers over naamswijzigingen](https://www.gov.uk/government/publications/change-of-name-passport-applications-caseworker-guidance/names-change-of-name-passport-applications-accessible) van HM Passport Office staat dat niemand een wettelijke grond heeft om van naam te veranderen omdat hij of zij is getrouwd. Het paspoort hoeft dus pas te veranderen als de naam verandert die je gebruikt. Dan rest alleen de keuze wanneer je dat doet, en de timing blijkt belangrijker dan de papierwinkel.
 

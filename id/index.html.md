@@ -6,7 +6,9 @@ Source: https://traveldocumentvault.com/id/
 
 ---
 
-09:41
+Aplikasi mengenkripsi dokumen Anda di ponsel Anda. Pro mencakup pencadangan terenkripsi ke cloud yang dapat Anda aktifkan jika diinginkan.
+
+[Cara dokumen Anda dilindungi](https://traveldocumentvault.com/id/privacy-verification/) 09:41
 
 ## Perjalanan sebelum perjalanan sesungguhnya
 

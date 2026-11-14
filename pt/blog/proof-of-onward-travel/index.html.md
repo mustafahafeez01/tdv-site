@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/pt/blog/proof-of-onward-travel/
 
 ---
 
-![Um pai e um filho junto a uma janela do aeroporto, a segurar um passaporte com um bilhete de viagem dentro, a olhar para um avião antes de uma viagem](https://traveldocumentvault.com/blog/proof-of-onward-travel/cover.jpg)
-
 ## Pontos-chave
 
 - **A prova de continuação de viagem costuma ser um bilhete reservado para saída do país onde vai aterrar,** seja de regresso a casa seja para um país onde pode entrar.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/pt/blog/proof-of-onward-travel/
 - Alguns destinos incluem a continuação de viagem nas suas regras de entrada para visitantes, por isso a companhia aérea, ao perguntar, está muitas vezes a aplicar a regra do destino mais cedo.
 - Uma reserva de hotel ou um extrato bancário respondem a perguntas diferentes — onde vai ficar e como se vai sustentar — e normalmente não substituem um bilhete de saída.
 - Guarde a confirmação num sítio onde a consiga abrir sem rede ou sem precisar de iniciar sessão.
+
+![Um pai e um filho junto a uma janela do aeroporto, a segurar um passaporte com um bilhete de viagem dentro, a olhar para um avião antes de uma viagem](https://traveldocumentvault.com/blog/proof-of-onward-travel/cover.jpg)
 
 Na maioria dos casos, a prova de continuação de viagem é um bilhete reservado para saída do país onde vai aterrar. Um voo de regresso a casa conta, assim como um bilhete para um terceiro país onde pode entrar. Se já tiver um destes, tem o que normalmente lhe é pedido.
 

@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/id/blog/how-long-does-passport-renewal-t
 
 ---
 
-![Sebuah paspor yang meluncur setengah keluar dari amplop krem polos dengan latar belakang biru laut tua, menyiratkan perpanjangan yang sedang berlangsung](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/cover.jpg)
-
 ## Poin Penting
 
 - Berapa lama perpanjangan berlangsung bergantung pada negara Anda, situasi Anda, dan musim saat Anda mengajukan — tidak ada satu angka pun yang tetap akurat cukup lama, jadi kami sengaja tidak mencantumkannya dalam panduan ini.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/id/blog/how-long-does-passport-renewal-t
 - Ada sejumlah situasi yang secara konsisten memperlambat prosesnya: perubahan nama, paspor dewasa pertama, permohonan untuk anak, paspor hilang atau rusak, pemeriksaan tambahan, musim puncak, dan pengajuan dari luar negeri.
 - Pendekatan paling aman adalah mengajukan begitu masa berlaku paspor Anda mulai terasa mepet, dengan menghitung mundur dari tanggal keberangkatan sebenarnya, bukan menebak-nebak.
 - Untuk angka yang penting saat ini, kunjungi otoritas paspor Anda sendiri — HM Passport Office, Departemen Luar Negeri AS, Kantor Paspor Australia, atau lembaga setara di negara Anda — bukan sebuah artikel blog.
+
+![Sebuah paspor yang meluncur setengah keluar dari amplop krem polos dengan latar belakang biru laut tua, menyiratkan perpanjangan yang sedang berlangsung](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/cover.jpg)
 
 Anda sudah memesan tiket pesawat untuk perjalanan lima bulan lagi. Anda mengeluarkan paspor semua orang untuk memeriksa ulang, dan ternyata ada satu yang kedaluwarsa dalam lima bulan tiga minggu lagi. Sekarang Anda ingin angka pasti untuk berapa lama perpanjangan berlangsung, supaya bisa menghitung apakah Anda benar-benar punya waktu.
 

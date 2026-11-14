@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/sv/blog/passport-photo-at-home/
 
 ---
 
-![en pappa fotograferar sin unga son mot en enfärgad vägg i fönsterljus, med ett utskrivet ark med passfoton på bordet framför dem](https://traveldocumentvault.com/blog/passport-photo-at-home/cover.jpg)
-
 ## Viktiga punkter
 
 - Använd en enfärgad, ljus bakgrund i den nyans din myndighet begär, neutralt ansiktsuttryck och ögonen öppna och riktade rakt fram, med undantag för små barn
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/sv/blog/passport-photo-at-home/
 - Naturligt fönsterljus fungerar bäst – undvik hårda skuggor och använd inte kamerans blixt
 - För svenska pass är vanliga glasögon tillåtna, men inte mörka glas eller reflexer – andra länders regler varierar mer än man kan tro, så kontrollera kraven om du ansöker utomlands
 - Foton kan nekas om de inte uppfyller din myndighets regler för belysning, storlek, ansiktsuttryck, skärpa eller bakgrund
+
+![en pappa fotograferar sin unga son mot en enfärgad vägg i fönsterljus, med ett utskrivet ark med passfoton på bordet framför dem](https://traveldocumentvault.com/blog/passport-photo-at-home/cover.jpg)
 
 Enligt GOV.UK är det större chans att foton från en fotoautomat eller butik godkänns än foton tagna med egen kamera eller mobil. Foton kan nekas om de inte uppfyller din myndighets regler för belysning, storlek, ansiktsuttryck, skärpa eller bakgrund.
 

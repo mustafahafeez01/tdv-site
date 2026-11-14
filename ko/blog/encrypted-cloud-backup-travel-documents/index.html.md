@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/ko/blog/encrypted-cloud-backup-travel-do
 
 ---
 
-![부모와 아이가 해 질 녘 소파에 앉아 휴대폰과, 여권 옆 테이블에 놓인 작은 금빛 열쇠를 바라보고 있으며, 위쪽의 구름은 자물쇠 뒤로 뒤섞인 표시만 담고 있다](https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/cover.jpg)
-
 ## 주요 내용 요약
 
 - **"암호화 백업"이라는 말은 그 열쇠를 누가 쥐고 있는지 알아야 비로소 의미를 갖습니다.** 회사가 서류를 읽을 수 있다면, 그 암호화는 낯선 사람들로부터는 지켜주지만 회사 자신으로부터는 지켜주지 못합니다.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/ko/blog/encrypted-cloud-backup-travel-do
 - **계정이 없다는 것은 비밀번호 재설정도 없다는 뜻입니다.** 복구 코드를 잃고 보관함을 열 수 있는 모든 기기에 대한 접근까지 잃으면 저희는 암호화된 백업을 복구할 수 없습니다. 이는 의도적으로 감수하는 대가입니다.
 - 백업에 의존하기 전에 코드를 적어 두고, 휴대폰과 떨어진 곳에 보관하며, 한 번은 다시 읽어 보아 알아볼 수 있는지 확인하세요.
 - 시스템 기기 백업은 앱을 다시 설치하지만 서류를 되돌려주지는 못합니다. 시스템 백업은 기기에 묶인 암호화 키를 이전하지 않기 때문입니다.
+
+![부모와 아이가 해 질 녘 소파에 앉아 휴대폰과, 여권 옆 테이블에 놓인 작은 금빛 열쇠를 바라보고 있으며, 위쪽의 구름은 자물쇠 뒤로 뒤섞인 표시만 담고 있다](https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/cover.jpg)
 
 여권 네 개, 비자 두 개, 아이들의 출생증명서까지, 모든 것을 휴대폰에만 보관하는 앱에 스캔해 두었습니다. 잘하셨습니다. 그다음 당연한 걱정이 찾아옵니다. 휴대폰이 바다에 빠지거나 리스본의 카페 테이블에서 누군가 슬쩍 가져가면 어떻게 될까요.
 

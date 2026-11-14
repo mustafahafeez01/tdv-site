@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/id/blog/child-first-passport-application
 
 ---
 
-![Seorang orang tua terlihat dari belakang di depan jendela yang terang, bayi di satu bahu, memegang sebuah buku paspor berwarna emas](https://traveldocumentvault.com/blog/child-first-passport-application/cover.jpg)
-
 ## Poin Penting
 
 - **Persetujuan untuk mengajukan berbeda dari persetujuan untuk bepergian.** Aturannya berbeda menurut negara: di Inggris, misalnya, seseorang yang memiliki tanggung jawab orang tua menandatangani formulir dan Anda memberikan detail kedua orang tua, sedangkan negara lain meminta persetujuan keduanya. Periksa ketentuan kantor paspor Anda.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/id/blog/child-first-passport-application
 - **Foto paspor bayi memiliki aturan khusus.** Sebagian besar otoritas menginginkan mata terbuka dan menghadap kamera (GOV.UK melonggarkan ini untuk anak di bawah 1 dan di bawah 6 tahun), tanpa empeng, mainan, atau tangan orang lain yang terlihat, dan latar belakang di belakang kepala anak harus polos dan jelas.
 - **Periksa semuanya begitu paspor tiba.** Ejaan nama, nama orang tua di bagian yang mencantumkannya, dan tanggal kedaluwarsa, terutama karena paspor anak sering kali kedaluwarsa lebih cepat daripada paspor dewasa ([paspor anak Inggris berlaku selama 5 tahun](https://www.gov.uk/get-a-child-passport)).
 - **Di negara yang meminta persetujuan kedua orang tua, satu orang tua umumnya tidak bisa menandatangani sendirian,** kecuali ada putusan pengadilan, hak asuh tunggal secara hukum, atau orang tua lainnya sudah meninggal. Jika ini situasi Anda, kantor paspor Anda memiliki prosedur khusus yang harus diikuti.
+
+![Seorang orang tua terlihat dari belakang di depan jendela yang terang, bayi di satu bahu, memegang sebuah buku paspor berwarna emas](https://traveldocumentvault.com/blog/child-first-passport-application/cover.jpg)
 
 Paspor pertama anak Anda adalah sesuatu yang hanya Anda urus sekali, artinya Anda punya kesempatan mempelajari aturannya lebih dulu, bukan mengetahuinya saat sudah berada di loket. Proses pengajuannya sendiri sederhana, tetapi aturan persetujuan dan persyaratan foto berbeda-beda menurut negara, dan kesalahan kecil di awal bisa membuat permohonan ditolak dan perjalanan tertunda.
 

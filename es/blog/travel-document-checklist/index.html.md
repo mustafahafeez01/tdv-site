@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/es/blog/travel-document-checklist/
 
 ---
 
-![Un pasaporte y tarjetas de viaje atadas juntas por una delgada banda dorada sobre un fondo azul marino royal, todo reunido para el viaje](https://traveldocumentvault.com/blog/travel-document-checklist/cover.jpg)
-
 ## Puntos clave
 
 - La lista de verificación de documentos de viaje más útil se organiza por **cuándo necesitas actuar** —no por tipo de documento. Ordenar por etapa significa que detectas problemas mientras aún hay tiempo para solucionarlos.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/es/blog/travel-document-checklist/
 - Los viajes en familia añaden una capa extra: cada hijo necesita que se verifiquen sus documentos individualmente, y puede ser necesaria una carta de consentimiento de los padres si uno de ellos no viaja.
 - Los viajeros de negocio a menudo llevan múltiples pasaportes y visados de trabajo —estos necesitan seguimiento propio, separado de los documentos personales.
 - Una copia de seguridad digital de cada documento (cifrada, no en tu biblioteca de fotos) podría hacerte llegar a casa más rápido si algo sale mal en el extranjero.
+
+![Un pasaporte y tarjetas de viaje atadas juntas por una delgada banda dorada sobre un fondo azul marino royal, todo reunido para el viaje](https://traveldocumentvault.com/blog/travel-document-checklist/cover.jpg)
 
 La mayoría de las listas de verificación de documentos de viaje son solo una lista plana: pasaporte, visado, seguro. Te dicen qué llevar, pero no cuándo verificarlo, que es donde la gente queda sorprendida. La familia que se da cuenta en el mostrador de facturación de que un pasaporte caduca en cinco meses, el viajero solitario que reservó sin notar su requisito de visado, o el viajero de negocio que olvidó a qué pasaporte está vinculado su visado —estos no son casos extremos, son la norma.
 

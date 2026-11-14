@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/de/blog/tripcase-alternative/
 
 ---
 
-![Ein ordentlicher Stapel cremefarbener Reisedokumente mit einem Reisepass oben, zusammengefasst mit einem dünnen goldenen Faden, auf einem königlich blauen Hintergrund](https://traveldocumentvault.com/blog/tripcase-alternative/cover.jpg)
-
 ## Wichtigste Erkenntnisse
 
 - **TripCase wurde am 1. April 2025 eingestellt**, und laut Sabres Mitteilung hatten Nutzer bis zum 30. Juni 2025 Zeit, ihre Reisen herunterzuladen, bevor die verbleibenden Daten entfernt wurden.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/de/blog/tripcase-alternative/
 - **Keine einzelne App ersetzt TripCase vollständig.** Flugwarnungen, Reiseplan-Analyse und Dokumentspeicherung verteilen sich jetzt auf verschiedene Apps.
 - Die eigentliche Lektion: Ein kostenloser Cloud-Dienst speichert **Ihre Daten auf ausgeliehene Zeit**. Er kann mit wenigen Monaten Vorankündigung verschwinden.
 - Reisedokumente gehören **offline, auf Ihr Gerät** – an einen Ort, den keine Unternehmensentscheidung, kein Ausfall oder keine Einstellung erreichen kann.
+
+![Ein ordentlicher Stapel cremefarbener Reisedokumente mit einem Reisepass oben, zusammengefasst mit einem dünnen goldenen Faden, auf einem königlich blauen Hintergrund](https://traveldocumentvault.com/blog/tripcase-alternative/cover.jpg)
 
 TripCase war jahrelang das stille Arbeitstier unter den Reiseapps. Leiten Sie eine Bestätigungsemail weiter und Ihre Reise baute sich selbst auf. Die App benachrichtigte Sie über Torwechsel früher als manche Fluggesellschaften. Und das Document Vault behielt Reisepässe, Visa und Bordkarten an einem Ort. Dann, am 1. April 2025, stellte Sabre es ein, und laut Sabres damals berichteter Mitteilung hatten Nutzer bis zum 30. Juni 2025 Zeit, ihre Reisen herunterzuladen, bevor die verbleibenden Daten entfernt wurden.
 

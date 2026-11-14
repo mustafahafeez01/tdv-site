@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/pt/blog/family-passport-management/
 
 ---
 
-![família de quatro pessoas a caminhar em direção a uma janela do aeroporto iluminada ao amanhecer, pai a segurar um leque de quatro passaportes dourados](https://traveldocumentvault.com/blog/family-passport-management/cover.jpg)
-
 ## Pontos-Chave
 
 - **Os passaportes de crianças muitas vezes expiram mais cedo do que os de adultos.** No Reino Unido, um passaporte de criança é válido por 5 anos, pelo que a data de expiração do membro mais jovem da família geralmente define o prazo para a sua próxima viagem.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/pt/blog/family-passport-management/
 - **Guarde cópias digitais num local encriptado,** com uma cópia de segurança física num local seguro a que possa aceder rapidamente se necessário.
 - Crie um sistema partilhado para acompanhar datas de expiração de cada membro da família. **Uma pessoa tratando disto evita renovações perdidas.**
 - Para famílias com dupla nacionalidade, **mantenha cópias de todos os passaportes** e compreenda qual usar para cada destino.
+
+![família de quatro pessoas a caminhar em direção a uma janela do aeroporto iluminada ao amanhecer, pai a segurar um leque de quatro passaportes dourados](https://traveldocumentvault.com/blog/family-passport-management/cover.jpg)
 
 Quando viaja com crianças, acompanhar cinco passaportes através de dois países com diferentes requisitos é o tipo de problema que o acorda no meio da noite. Um progenitor tem 8 anos de validade restante, o outro tem 7, o seu filho mais velho tem 6 anos restantes. Mas o do seu filho mais jovem — o que não consegue estar quieto o tempo suficiente para uma foto decente — expira em apenas 18 meses. É um sistema que ninguém explica até estar na fila de check-in e o agente do portão lhe perguntar qual passaporte o seu filho de 12 anos deve usar para viajar. Configurar um sistema que sobreviva a este caos começa por compreender por que as famílias muitas vezes o fazem mal.
 

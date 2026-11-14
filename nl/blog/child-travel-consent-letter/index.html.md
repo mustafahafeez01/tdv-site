@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/nl/blog/child-travel-consent-letter/
 
 ---
 
-![Een crèmekleurige toestemmingsbrief en het paspoort van een kind samen vastgebonden met een gouden lint op een koningsblauwe achtergrond](https://traveldocumentvault.com/blog/child-travel-consent-letter/cover.jpg)
-
 ## Belangrijkste punten
 
 - De eisen verschillen sterk per land. **Een brief die werkt voor de ene bestemming, wordt elders mogelijk niet geaccepteerd.**
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/nl/blog/child-travel-consent-letter/
 - Een brief bevat doorgaans de volledige naam van het kind, geboortedatum, paspoortnummer, exacte reisdata, bestemmingen en contactgegevens van de afwezige ouder.
 - Veelvoorkomende afwijzingen komen door ontbrekende informatie, geen notarisatie of verouderde handtekeningen.
 - Neem het ondertekende origineel mee als hoofddocument, en bewaar een versleutelde digitale back-up voor noodgevallen.
+
+![Een crèmekleurige toestemmingsbrief en het paspoort van een kind samen vastgebonden met een gouden lint op een koningsblauwe achtergrond](https://traveldocumentvault.com/blog/child-travel-consent-letter/cover.jpg)
 
 Een toestemmingsbrief heeft aan de incheckbalie één taak: laten zien dat de volwassene die met het kind reist de instemming heeft van de afwezige ouder. De meeste worden zonder opmerking geaccepteerd.
 

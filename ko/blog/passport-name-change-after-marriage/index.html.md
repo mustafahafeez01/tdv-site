@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/ko/blog/passport-name-change-after-marri
 
 ---
 
-![아침 햇살이 드는 공항 창가에 선 세 식구의 뒷모습을 그린 수채 스케치, 한 어른이 금색 여권을 들고 있다](https://traveldocumentvault.com/blog/passport-name-change-after-marriage/cover.jpg)
-
 ## 주요 내용 요약
 
 - **결혼만으로는 아무것도 바뀌지 않습니다.** 다른 이름을 쓰기 시작할 때만 새 여권이 필요합니다.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/ko/blog/passport-name-change-after-marri
 - 결혼식 후에는 신청서와 함께 **혼인증명서 또는 시민결합 증명서**를 보내세요.
 - 결혼식 전에 신청하면 **결혼식 날짜부터 유효한 여권**을 받고, 예전 여권은 취소되며, 비자가 복잡해질 수 있습니다.
 - 신혼여행이 결혼식 직후라면 지금 이름으로 여행하고, 집에 돌아온 뒤에 신청하시길 권합니다.
+
+![아침 햇살이 드는 공항 창가에 선 세 식구의 뒷모습을 그린 수채 스케치, 한 어른이 금색 여권을 들고 있다](https://traveldocumentvault.com/blog/passport-name-change-after-marriage/cover.jpg)
 
 결혼만으로는 영국 여권에서 바뀌는 것이 없습니다. HM Passport Office(HMPO)가 직접 낸 [이름 변경 담당관 지침](https://www.gov.uk/government/publications/change-of-name-passport-applications-caseworker-guidance/names-change-of-name-passport-applications-accessible)도 결혼했다는 이유로 이름을 바꿔야 할 법적 근거는 없다고 밝히고 있으므로, 여권은 쓰는 이름이 바뀔 때만 바꾸면 됩니다. 그러니 언제 바꿀지는 선택의 문제이고, 서류 작업보다 시기가 더 중요합니다.
 

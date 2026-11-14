@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/sv/blog/passport-expired-what-to-do/
 
 ---
 
-![Ett enda pass som ligger platt mot en marinblå bakgrund, med en mjuk guldfärgad pil som böjer sig framåt och antyder nästa tydliga steg](https://traveldocumentvault.com/blog/passport-expired-what-to-do/cover.jpg)
-
 ## Viktiga punkter
 
 - Det finns två olika situationer: att upptäcka att passet har gått ut **hemma innan en resa**, och att upptäcka det **på flygplatsen**. Stegen skiljer sig åt för respektive situation.
@@ -16,6 +14,8 @@ Source: https://traveldocumentvault.com/sv/blog/passport-expired-what-to-do/
 - På flygplatsen: kontakta flygbolaget först – fråga om de kan boka om dig utan ombokningsavgift.
 - Lösningen framåt är en påminnelse 12 månader före utgångsdatum, inte 6. Det ger dig tillräckligt med tid att förnya med standardhandläggning.
 - Utgångsdatum är inte det enda passproblemet som gör att resenärer nekas ombordstigning. Skador, namn som inte stämmer, saknad namnteckning och otillräcklig återstående giltighetstid på resmålet ger samma resultat.
+
+![Ett enda pass som ligger platt mot en marinblå bakgrund, med en mjuk guldfärgad pil som böjer sig framåt och antyder nästa tydliga steg](https://traveldocumentvault.com/blog/passport-expired-what-to-do/cover.jpg)
 
 Att upptäcka att passet har gått ut är ett av de ögonblick då tiden plötsligt känns väldigt verklig. Oavsett om du upptäckte det tre månader före en resa eller står vid incheckningsdisken på flygplatsen just nu, beror nästa steg helt på vilken situation du befinner dig i.
 

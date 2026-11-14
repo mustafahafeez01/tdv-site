@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/nl/blog/visa-expiry-tracker-app/
 
 ---
 
-![Een visumdocument op een koningsblauwe achtergrond met een zachte gouden boog die de geldigheidsperiode aangeeft](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/cover.jpg)
-
 ## Belangrijkste punten
 
 - Visumbeheer is **complexer** dan paspoortbeheer – een visum heeft een geldigheidsdatum voor inreis, een maximale verblijfsduur en soms een limiet op het aantal inreizen, en dat moet allemaal apart worden bijgehouden.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/nl/blog/visa-expiry-tracker-app/
 - De beste apps voor visumvervaldatums werken offline, ondersteunen meerdere visumtypen en laten je zelf herinneringstijden per document instellen.
 - Bezoekers van het Schengengebied moeten een voortschrijdend venster van 90/180 dagen bijhouden, niet slechts één enkele vervaldatum, omdat de telling meeloopt met je werkelijke reisgeschiedenis, niet met de kalender.
 - Visa en paspoorten samen op één plek bijhouden verkleint het risico op een mismatch: inreizen op een geldig visum maar met een paspoort dat verloopt voordat het geplande verblijf eindigt.
+
+![Een visumdocument op een koningsblauwe achtergrond met een zachte gouden boog die de geldigheidsperiode aangeeft](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/cover.jpg)
 
 Een visumoverstay is een van de meest verstrekkende reisfouten die iemand kan maken. In tegenstelling tot een gemiste vlucht – stressvol maar uiteindelijk oplosbaar – laat een overstay een formeel immigratiedossier achter dat je jarenlang kan achtervolgen. In de Verenigde Staten geldt volgens sectie 212(a)(9)(B) van de [Amerikaanse Immigration and Nationality Act](https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chap12-subchapII-partII-sec1182.htm): wie meer dan 180 dagen, maar minder dan een jaar, onrechtmatig verblijft en dan vertrekt, krijgt doorgaans een inreisverbod van drie jaar, en een jaar of langer onrechtmatig verblijf betekent doorgaans een verbod van tien jaar. Deze gevolgen zijn niet algemeen bekend.
 

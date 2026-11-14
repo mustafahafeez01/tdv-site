@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/proof-of-onward-travel/
 
 ---
 
-![一位家长和孩子站在机场窗边，手里拿着夹着机票的护照，望向窗外停着的飞机，准备出发旅行](https://traveldocumentvault.com/blog/proof-of-onward-travel/cover.jpg)
-
 ## 关键要点
 
 - **后续行程证明通常是指一张预订好的机票，**它会带你离开所飞往的目的地——可以是返程回家，也可以是前往你被允许入境的另一个国家。
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/proof-of-onward-travel/
 - 有些目的地把后续行程写进了针对访客的入境规定里，所以航空公司在值机时提出这个要求，往往只是提前执行目的地自己的规定。
 - 酒店预订或银行流水回答的是不同的问题——分别是你会住在哪里，以及你如何维持开支——通常都不能替代一张离境机票。
 - 把确认信息存放在一个不需要信号、也不需要重新登录，就能在柜台打开的地方。
+
+![一位家长和孩子站在机场窗边，手里拿着夹着机票的护照，望向窗外停着的飞机，准备出发旅行](https://traveldocumentvault.com/blog/proof-of-onward-travel/cover.jpg)
 
 大多数情况下，后续行程证明就是一张离开你所飞往国家的预订机票。回家的返程机票算数，飞往你被允许入境的第三国的机票同样算数。如果你已经持有其中一种，那你手上就已经有了通常被要求出示的东西。
 

@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/de/blog/etias-documents-2026/
 
 ---
 
-![Ein Reisepass auf königsblauem Hintergrund mit lockeren Goldsternen und schwachen punktierten Flugrouten, die europäische Reisen evozieren](https://traveldocumentvault.com/blog/etias-documents-2026/cover.jpg)
-
 ## Wichtigste Erkenntnisse
 
 - **ETIAS ist eine digitale Reisegenehmigung** für britische, US-amerikanische und kanadische Reisende – erforderlich für die visumfreie Einreise in den Schengen-Raum, sobald sie verpflichtend wird
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/de/blog/etias-documents-2026/
 - Die Bearbeitungszeit variiert, besonders kurz nach dem Start; **beantragen Sie rechtzeitig vor Ihrer Reise** und prüfen Sie die offizielle EU-Website für aktuelle Hinweise
 - Prüfen Sie die aktuelle Gebühr auf [der offiziellen EU-Website](https://home-affairs.ec.europa.eu/news/european-travel-authorisation-etias-will-cost-eur-20-2025-07-17_en); **unter 18-Jährige und über 70-Jährige zahlen nicht**, benötigen aber dennoch eine Genehmigung
 - **Zweifel an der Verlässlichkeit Ihrer Angaben können zur Ablehnung führen – legen Sie deshalb alles offen, auch wenn es lange zurückliegt**
+
+![Ein Reisepass auf königsblauem Hintergrund mit lockeren Goldsternen und schwachen punktierten Flugrouten, die europäische Reisen evozieren](https://traveldocumentvault.com/blog/etias-documents-2026/cover.jpg)
 
 Sie haben eine Familienreise nach Italien gebucht und gehört, dass ETIAS unterwegs ist – eine neue digitale Genehmigungspflicht für visumfreie Besucher Europas. Dieser Leitfaden erklärt, was ETIAS ist, welche Dokumente Sie benötigen und wie der Antrag funktioniert, damit Sie vorbereitet sind, bevor Sie das Formular erreichen.
 

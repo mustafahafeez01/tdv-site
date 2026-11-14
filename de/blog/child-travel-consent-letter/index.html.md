@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/de/blog/child-travel-consent-letter/
 
 ---
 
-![Ein cremefarbenes Zustimmungsschreiben und der Reisepass eines kleinen Kindes, zusammengebunden mit einem goldenen Band auf königsblauem Hintergrund](https://traveldocumentvault.com/blog/child-travel-consent-letter/cover.jpg)
-
 ## Wichtigste Erkenntnisse
 
 - Die Anforderungen unterscheiden sich erheblich je nach Land. **Ein Brief, der für ein Ziel funktioniert, kann anderswo nicht akzeptiert werden.**
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/de/blog/child-travel-consent-letter/
 - Ein solcher Brief enthält üblicherweise den vollständigen Namen des Kindes, Geburtsdatum, Passnummer, genaue Reisedaten, Ziele und Kontaktdaten des abwesenden Elternteils enthalten.
 - Häufige Ablehnungen resultieren aus fehlenden Informationen, mangelnder notarieller Beglaubigung oder veralteten Unterschriften.
 - Führen Sie eine gedruckte Kopie als Hauptdokument mit und bewahren Sie eine verschlüsselte digitale Sicherung für Notfälle auf.
+
+![Ein cremefarbenes Zustimmungsschreiben und der Reisepass eines kleinen Kindes, zusammengebunden mit einem goldenen Band auf königsblauem Hintergrund](https://traveldocumentvault.com/blog/child-travel-consent-letter/cover.jpg)
 
 Eine Einverständniserklärung erfüllt am Abfertigungsschalter genau eine Aufgabe: Sie belegt, dass die mitreisende erwachsene Person das Einverständnis des abwesenden Elternteils hat. Die meisten werden kommentarlos akzeptiert.
 

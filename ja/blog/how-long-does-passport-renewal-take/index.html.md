@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/ja/blog/how-long-does-passport-renewal-t
 
 ---
 
-![深紺の背景に、白いクリーム色の封筒からパスポートが半分滑り出ている。更新が進行中であることを示唆しています](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/cover.jpg)
-
 ## 主な要点
 
 - パスポート更新にかかる期間は、住んでいる国、状況、申請する時期によって変わります。長く正確な数字はなく、このガイドでは意図的に数字を挙げていません。
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/ja/blog/how-long-does-passport-renewal-t
 - 繁忙期に旅行する場合も、利用条件と処理期間を確認し、配送にかかる時間を見込んでサービスを選んでください。
 - 最も安全な方法は、パスポートの残存有効期間が短くなってきたと感じた時点で、実際の旅行日から逆算して早めに申請することです。
 - 今すぐ確認すべき数字は、HM Passport Office、米国国務省、オーストラリアパスポートオフィスなど、あなた自身のパスポート当局のものです。ブログ記事ではありません。
+
+![深紺の背景に、白いクリーム色の封筒からパスポートが半分滑り出ている。更新が進行中であることを示唆しています](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/cover.jpg)
 
 旅行を5ヶ月先に予約しました。全員のパスポートをダブルチェックするために取り出すと、5ヶ月3週間で有効期限が切れるものがあります。これでパスポート更新にかかる期間が正確に必要になります。計算が重要だからです。
 

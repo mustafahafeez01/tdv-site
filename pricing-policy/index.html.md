@@ -85,15 +85,15 @@ If we release a major new version (e.g., Travel Document Vault 2.0) with signifi
 **How major version upgrades work:**
 
 - Major versions (v2.0, v3.0) are released as **regular app updates** through the same App Store listing
-- When you update, your **v1.x Pro features continue to work**-you're not forced to upgrade
+- When you update, your **v1.x Pro features continue to work** - you're not forced to upgrade
 - New v2.0 features are offered as an **optional in-app upgrade**
-- You can choose to stay on v1.x Pro or upgrade to v2.0 Pro-entirely your choice
+- You can choose to stay on v1.x Pro or upgrade to v2.0 Pro - entirely your choice
 
 **Our commitment to existing customers:**
 
-- Your v1.x Pro access **never expires**-use it for as long as you want
+- Your v1.x Pro access **never expires** - use it for as long as you want
 - if a future major version is ever offered as a separate purchase, existing v1.x Pro users **will always get preferential upgrade pricing** compared to new customers, as a thank you for your support. The exact discount will be announced at release
-- No pressure, no "your version is outdated" nags-just an optional upgrade when you're ready
+- No pressure, no "your version is outdated" nags - just an optional upgrade when you're ready
 - Major version announcements will be posted on our website and in App Store release notes
 
 **Industry Standard:** Many premium apps use similar versioning models. This approach lets us keep the initial purchase to a single, modest payment while still funding the work of improving the app for the long term.
@@ -149,13 +149,13 @@ We reserve the right to adjust pricing for **new purchases** at any time. Price 
 - Features already purchased - no retroactive price increases
 - Free tier users - free features remain free
 
-If you purchase Pro at $9.99, that's your price forever (for v1.x). Even if we raise the price for new users tomorrow, your purchase is honored.
+If you purchase Pro at $9.99, that's your price forever (for v1.x). Even if we raise the price for new users tomorrow, your purchase is honoured.
 
 ## Regional Pricing
 
 Pricing may vary by region based on:
 
-- Local currency conversion rates (set by Apple/Google)
+- Country-specific prices set locally, rather than converted from US dollars
 - Regional taxes and fees
 - App store policies in your country
 

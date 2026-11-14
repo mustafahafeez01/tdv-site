@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/blog/child-first-passport-application/
 
 ---
 
-![A parent seen from behind at a bright window, baby on one shoulder, holding up a single gold passport booklet](https://traveldocumentvault.com/blog/child-first-passport-application/cover.jpg)
-
 ## Key Takeaways
 
 - **Consent to apply is different from consent to travel.** Rules differ by country: in the UK, for example, someone with parental responsibility signs the form and you give both parents' details, while other countries ask for both parents to consent. Check your own passport office.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/blog/child-first-passport-application/
 - **Baby passport photos have specific rules.** Most authorities want eyes open and looking at the camera (GOV.UK relaxes this for under-1s and under-6s), with no dummies, toys, or other hands visible - and the background behind the child's head must be plain and clear.
 - **Check everything the moment it arrives.** Spelling, parent names where they appear, expiry date - especially since child passports often expire sooner than adult ones ([a UK child passport is valid for 5 years](https://www.gov.uk/get-a-child-passport)).
 - **In countries that ask for both parents' consent, one parent generally cannot sign alone unless there is a court order, sole legal guardianship, or the other parent is deceased.** If this is your situation, your passport office has a specific process to follow.
+
+![A parent seen from behind at a bright window, baby on one shoulder, holding up a single gold passport booklet](https://traveldocumentvault.com/blog/child-first-passport-application/cover.jpg)
 
 Your child's first passport is something you only do once, which means you get to learn the rules before it happens rather than discovering them at the counter. The application itself is straightforward, but consent rules and photo requirements vary by country, and a small mistake at the start means a rejected application and a delayed trip.
 
@@ -58,7 +58,7 @@ This is where many first-time applications fail. A baby or small child cannot fo
 
 **For a child aged one to two:** you can seat them on an adult's lap, but the adult's body and hands must not appear in the photo at all. The baby is on their own in the picture, with the plain background behind them and nothing else visible. A white wall works, and so does a plain sheet hung behind them. Angle the shot so the baby's eyes are looking toward the camera, but because babies this age move constantly, you will probably take 20 photos to get one where the eyes are open and looking in the right direction.
 
-**For toddlers 2 years and older:** seat them in front of the plain background on a chair or standing if they can stand. The eyes should be looking straight at the camera, which is harder than it sounds because toddlers do not take instructions. Sing a song, make a funny noise, or ask them to look at a point just above the camera lens. You want them to be looking up slightly, which reads better in photos anyway. Again, take many shots - you only need one where they are looking at the camera with both eyes clearly open.
+**For toddlers 2 years and older:** have them sit on a chair or stand in front of the plain background. The eyes should be looking straight at the camera, which is harder than it sounds because toddlers do not take instructions. Sing a song, make a funny noise, or ask them to look at a point just above the camera lens. You want them to be looking up slightly, which reads better in photos anyway. Again, take many shots - you only need one where they are looking at the camera with both eyes clearly open.
 
 **The most common mistakes** all come down to something creeping into a frame that is supposed to hold only the baby:
 
@@ -88,7 +88,7 @@ Once the passport is issued and delivered to you, spend five minutes checking it
 
 **Check that your child's name is spelled exactly as it appears** on the birth certificate or the identity document you used to apply. If it is wrong, the passport office will generally [replace it free if the mistake was theirs](https://www.gov.uk/government/publications/preventing-and-resolving-errors-on-passports/how-to-correct-errors-on-passports-accessible), and you may pay a fee if it came from the application you submitted. If you do not notice until you are at the airport, the airline may refuse to board because the name on the ticket will not match the passport.
 
-**Look at the parent names where they appear.** Some countries print the names of the parents or guardians on the inside of a child's passport. If these names are misspelled or wrong, contact the office to have it corrected.
+**Look at the parent names where they appear.** Some countries print the names of the parents or guardians on the inside of a child's passport. If these names are misspelled or wrong, contact the office to have them corrected.
 
 **Then check the expiry date.** This is critical for children because [child passports often expire sooner than adult passports](https://traveldocumentvault.com/blog/family-passport-management/). When you book travel, you need to know exactly when this document stops being valid. Write it down and set a reminder the day the passport arrives, not whenever a trip happens to come up; that's the one habit we'd always recommend to parents. A child's passport expiring unnoticed is an easy way to lose a trip.
 

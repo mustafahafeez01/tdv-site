@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/nl/blog/uk-eta-passport-rules/
 
 ---
 
-![Een ouder en kind van achteren bij een licht luchthavenraam, de ouder houdt twee paspoorten omhoog waarvan het voorste een gouden rand heeft, met een vliegtuig bij de gate erachter](https://traveldocumentvault.com/blog/uk-eta-passport-rules/cover.jpg)
-
 ## Belangrijkste punten
 
 - **Een UK ETA is gekoppeld aan je paspoortnummer.** Als je je paspoort vernieuwt en een nieuw nummer krijgt, wordt je oude ETA ongeldig.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/nl/blog/uk-eta-passport-rules/
 - **Iedereen heeft een eigen ETA nodig** – ook kinderen en baby's. Er bestaat geen gezins-ETA. Iedereen heeft een eigen ETA nodig, maar je kunt wel namens gezinsleden aanvragen.
 - De Home Office adviseert **minstens 3 werkdagen van tevoren** aan te vragen. Dit is een advies, geen garantie voor de verwerkingstijd.
 - Een ETA is **toestemming om te reizen, geen garantie voor binnenkomst.** Grensbeambten kunnen de toegang weigeren, ook met een geldige ETA.
+
+![Een ouder en kind van achteren bij een licht luchthavenraam, de ouder houdt twee paspoorten omhoog waarvan het voorste een gouden rand heeft, met een vliegtuig bij de gate erachter](https://traveldocumentvault.com/blog/uk-eta-passport-rules/cover.jpg)
 
 Het UK ETA-systeem lijkt op het eerste gezicht simpel: je vraagt aan, je betaalt, je reist. Er zit echter één regel onder de oppervlakte die pas duidelijk wordt als het er echt toe doet: je ETA is gekoppeld aan het specifieke paspoortnummer op je aanvraag. Vernieuw je dat paspoort en krijg je een nieuw paspoortnummer, dan is je ETA niet meer geldig. Je moet dan opnieuw aanvragen met je nieuwe paspoort voordat je vertrekt.
 

@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/ja/blog/how-to-organise-family-travel-do
 
 ---
 
-![パスポート、IDカード、ビザページ、搭乗券など、異なる旅行書類が紺色の背景に整然と並べられている様子](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/cover.jpg)
-
 ## 重要なポイント
 
 - 家族の旅行書類チェックリストには、パスポート、ビザ、旅行保険、ワクチン接種記録が必要です。子どもとの旅行に特有な書類も考慮する必要があります。
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/ja/blog/how-to-organise-family-travel-do
 - デジタルバックアップは出入国管理では使用できませんが、元の書類が失われた場合は大使館で数時間節約できます。カメラロールではなく、暗号化して保管してください。
 - 飛行数週間前ではなく、予約時に有効期限を追跡することが、旅行書類の災害を防ぐ最も重要な習慣です。
 - 予約時に実行する旅行前チェックリストは、問題が高額になる前に修正するのに十分な準備期間を与えます。
+
+![パスポート、IDカード、ビザページ、搭乗券など、異なる旅行書類が紺色の背景に整然と並べられている様子](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/cover.jpg)
 
 飛行の前の晩、夜11時。パスポートは取り出され、保険の印刷物はどこかにあり、目的地が実際に要求するワクチン接種証明書は家の中のどこかに消えてしまった。これが家族の旅行書類システムがない問題です。毎回同じものを探し直すことになり、最終的に何か重要なものが見つからなくなります。
 

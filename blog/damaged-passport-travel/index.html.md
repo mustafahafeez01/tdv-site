@@ -6,17 +6,17 @@ Source: https://traveldocumentvault.com/blog/damaged-passport-travel/
 
 ---
 
-![parent and child at an airline check-in desk while the agent studies an open gold passport with water-damaged pages](https://traveldocumentvault.com/blog/damaged-passport-travel/cover.jpg)
-
 ## Key Takeaways
 
 - **Not all wear is damage.** A creased cover is fine. Water damage, torn pages, or smudged security features are not.
 - Airlines refuse boarding if **they think a passport is damaged** - they are liable for boarding an invalid document and will err on the side of caution.
-- Spot damage **days or weeks before** your trip gives you time for emergency renewal. The day before is a crisis.
+- Spotting damage **days or weeks before** your trip gives you time for emergency renewal. The day before is a crisis.
 - If you are turned away at the gate, **ask your embassy about an emergency travel document**.
 - A digital copy is **worth most when you are abroad** - a consular officer can establish who you are from a scan far faster than from your account of it. Scan your passport before you travel.
 
-Most passport damage is cosmetic. A scuffed cover, a softened corner, a frayed edge along the spine; none of that stops anyone boarding. What border staff and airline agents actually check is narrower than most travellers expect: the photo page, the two printed lines beneath it, and whether the booklet still holds together as one document.
+![parent and child at an airline check-in desk while the agent studies an open gold passport with water-damaged pages](https://traveldocumentvault.com/blog/damaged-passport-travel/cover.jpg)
+
+Most passport damage is cosmetic. A scuffed cover, a softened corner, a frayed edge along the spine: none of that stops anyone boarding. What border staff and airline agents actually check is narrower than most travellers expect: the photo page, the two printed lines beneath it, and whether the booklet still holds together as one document.
 
 Where that line falls is worth knowing before you travel, because a passport can be technically valid and still be refused. This covers what counts as damage, what officials generally accept, and what to do if yours is already in poor shape.
 

@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/sv/blog/damaged-passport-travel/
 
 ---
 
-![förälder och barn vid en incheckningsdisk medan personalen studerar ett öppet guldfärgat pass med vattenskadade sidor](https://traveldocumentvault.com/blog/damaged-passport-travel/cover.jpg)
-
 ## Viktiga punkter
 
 - **Allt slitage är inte skada.** Ett skrynkligt omslag är inget problem. Vattenskador, rivna sidor eller suddiga säkerhetsdetaljer är det.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/sv/blog/damaged-passport-travel/
 - Upptäcker du skadan **dagar eller veckor före** resan hinner du med en akut förnyelse. Dagen innan är det en kris.
 - Blir du nekad vid gaten, **fråga din ambassad om ett nödresedokument**.
 - En digital kopia är **som mest värdefull när du är utomlands** – en konsulär tjänsteman kan fastställa vem du är utifrån en skanning mycket snabbare än utifrån din egen berättelse. Skanna passet innan du reser.
+
+![förälder och barn vid en incheckningsdisk medan personalen studerar ett öppet guldfärgat pass med vattenskadade sidor](https://traveldocumentvault.com/blog/damaged-passport-travel/cover.jpg)
 
 De flesta passskador är kosmetiska. Ett nött omslag, ett mjuknat hörn, en fransig kant längs ryggen – inget av det hindrar någon från att gå ombord. Det gränspersonal och flygbolagens personal faktiskt kontrollerar är snävare än de flesta resenärer tror: datasidan, de två tryckta raderna under den, och om häftet fortfarande håller ihop som en sammanhängande handling.
 

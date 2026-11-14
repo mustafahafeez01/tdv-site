@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/it/blog/damaged-passport-travel/
 
 ---
 
-![genitore e figlio al banco del check-in di una compagnia aerea mentre l'agente osserva un passaporto dorato aperto con pagine danneggiate dall'acqua](https://traveldocumentvault.com/blog/damaged-passport-travel/cover.jpg)
-
 ## Punti Chiave
 
 - **Non tutta l'usura è un danno.** Una copertina piegata va bene. I danni da acqua, le pagine strappate o gli elementi di sicurezza sbavati no.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/it/blog/damaged-passport-travel/
 - Notare un danno **giorni o settimane prima** del viaggio ti dà il tempo per un rinnovo d'emergenza. Il giorno prima è una crisi.
 - Se ti respingono al gate, **chiedi alla tua ambasciata un documento di viaggio d'emergenza**
 - Una copia digitale **vale di più quando sei all'estero** — un funzionario consolare può stabilire chi sei da una scansione molto più in fretta che dal tuo racconto. Scansiona il passaporto prima di partire.
+
+![genitore e figlio al banco del check-in di una compagnia aerea mentre l'agente osserva un passaporto dorato aperto con pagine danneggiate dall'acqua](https://traveldocumentvault.com/blog/damaged-passport-travel/cover.jpg)
 
 La maggior parte dei danni a un passaporto è solo estetica. Una copertina graffiata, un angolo ammorbidito, un bordo consumato lungo il dorso — niente di tutto questo impedisce l'imbarco a nessuno. Ciò che il personale di frontiera e gli agenti delle compagnie aeree controllano davvero è più limitato di quanto la maggior parte dei viaggiatori pensi: la pagina con la foto, le due righe stampate sotto di essa, e se il libretto tiene ancora insieme come un unico documento.
 

@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/ja/blog/us-child-passport-renewal-under-
 
 ---
 
-![後ろ姿の両親と子どもが手をつなぎ、開いたドアに向かって歩いている。片方の親が子どものパスポートを手にしている](https://traveldocumentvault.com/blog/us-child-passport-renewal-under-16/cover.jpg)
-
 ## 重要ポイント
 
 - 16歳未満で発行された米国の子どものパスポートは**更新できません**。代わりに新規の申請を行います。
@@ -16,6 +14,8 @@ Source: https://traveldocumentvault.com/ja/blog/us-child-passport-renewal-under-
 - 一方の親が**公証された同意書**を提出するか、単独の親権を証明できない限り、両親ともそろって手続きに加わる必要があります。
 - 16歳または17歳になると、本人が窓口で申請し、自分で署名できますが、親の同意が必要な場合もあります。
 - 16歳以上で発行されたパスポートは**10年間有効**で、成人と同様に更新できるのが一般的です。
+
+![後ろ姿の両親と子どもが手をつなぎ、開いたドアに向かって歩いている。片方の親が子どものパスポートを手にしている](https://traveldocumentvault.com/blog/us-child-passport-renewal-under-16/cover.jpg)
 
 16歳未満の子どもに発行された米国パスポートは更新できません。期限が切れたら、最初のときと同じように本人が窓口に出向いて新規に申請し、両親も再び手続きに加わります。成人の更新より手続きは多くなりますが、一度経験していれば初めてのことはありません。
 

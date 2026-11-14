@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/how-to-organise-family-trav
 
 ---
 
-![整齐排列的不同旅行文件 - 护照、身份证、签证页和登机牌 - 在深蓝色背景上](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/cover.jpg)
-
 ## 关键要点
 
 - 你的家庭旅行文件清单需要护照、签证、旅行保险和疫苗接种记录——这还没有考虑到与孩子一起旅行的特定文件。
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/how-to-organise-family-trav
 - 数字备份不会让你通过移民检查，但如果原件丢失，它将为你节省数小时的大使馆时间。将它们加密存储，而不是在你的相机胶卷中。
 - 在预订之前跟踪过期日期——而不是在飞行前一周——是防止大多数旅行文件灾难的单一习惯。
 - 在预订时运行的行前检查清单为你提供足够的时间来在问题变成昂贵的问题之前解决它们。
+
+![整齐排列的不同旅行文件 - 护照、身份证、签证页和登机牌 - 在深蓝色背景上](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/cover.jpg)
 
 这是航班前一晚的11点，护照已取出，保险打印件在某处，但疫苗接种证明——目的地实际需要的那个——已经消失在房子里。这就是当你没有家庭旅行文件系统时的问题：你每次都进行不同的搜索，最终重要的东西找不到。
 

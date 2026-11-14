@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/blog/how-to-organise-family-travel-docum
 
 ---
 
-![A tidy, evenly spaced row of different travel documents - a passport, an ID card, a visa page and a boarding pass - on a deep navy background](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/cover.jpg)
-
 ## Key Takeaways
 
 - Your family travel document checklist needs passports, visas, travel insurance, and vaccination records - and that's before you factor in documents specific to travelling with kids.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/blog/how-to-organise-family-travel-docum
 - Digital backups won't get you through immigration, but they will save you hours at an embassy if something goes missing. Store them encrypted, not in your camera roll.
 - Tracking expiry dates before you book - not the week before you fly - is the single habit that prevents most travel document disasters.
 - A pre-trip checklist you run at booking time gives you enough runway to fix any problems before they become expensive ones.
+
+![A tidy, evenly spaced row of different travel documents - a passport, an ID card, a visa page and a boarding pass - on a deep navy background](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/cover.jpg)
 
 It's 11pm the night before a flight, and passports are out, the insurance printout is somewhere, but the vaccination certificate the destination actually requires has vanished into the house. That's the problem when you don't have a system for family travel documents: you run a different search every single time, and eventually something important doesn't turn up.
 
@@ -49,7 +49,7 @@ A child travel consent letter is a signed document from the absent parent (or le
 
 South Africa has its own rules for travelling with children, including an unabridged birth certificate, so check its Home Affairs guidance before you go.
 
-A valid consent letter should include: the child's full name and date of birth, both parents' names and contact details, the travelling parent's details, destination(s) and travel dates, and the signature of the absent parent (notarised copies are more convincing, though not always required). Keep a copy digital as well as physical.
+A valid consent letter should include: the child's full name and date of birth, both parents' names and contact details, the travelling parent's details, destination(s) and travel dates, and the signature of the absent parent (notarised copies are more convincing, though not always required). Keep a digital copy as well as a paper copy.
 
 **Other documents worth keeping accessible**
 

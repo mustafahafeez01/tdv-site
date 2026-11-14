@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/de/blog/passport-name-change-after-marri
 
 ---
 
-![Aquarellskizze einer dreiköpfigen Familie von hinten am Flughafenfenster im Morgenlicht, ein Erwachsener hält einen goldenen Reisepass](https://traveldocumentvault.com/blog/passport-name-change-after-marriage/cover.jpg)
-
 ## Wichtigste Erkenntnisse
 
 - **Heiraten allein ändert nichts.** Einen neuen Reisepass brauchen Sie nur, wenn Sie künftig einen anderen Namen verwenden.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/de/blog/passport-name-change-after-marri
 - Nach der Trauung schicken Sie Ihre **Heiratsurkunde oder die Urkunde über die eingetragene Partnerschaft** mit dem Antrag.
 - Beantragen Sie vor der Trauung, erhalten Sie einen **vordatierten Reisepass**, Ihr alter wird entwertet, und bei Visa kann es kompliziert werden.
 - Liegen die Flitterwochen kurz nach der Hochzeit, würden wir unter Ihrem aktuellen Namen reisen und erst nach der Rückkehr beantragen.
+
+![Aquarellskizze einer dreiköpfigen Familie von hinten am Flughafenfenster im Morgenlicht, ein Erwachsener hält einen goldenen Reisepass](https://traveldocumentvault.com/blog/passport-name-change-after-marriage/cover.jpg)
 
 Eine Heirat allein ändert an einem britischen Reisepass nichts. Die eigenen [Hinweise des HM Passport Office für Sachbearbeiter zu Namensänderungen](https://www.gov.uk/government/publications/change-of-name-passport-applications-caseworker-guidance/names-change-of-name-passport-applications-accessible) besagen, dass es keine Rechtsgrundlage dafür gibt, wegen einer Heirat den Namen zu ändern. Der Reisepass muss sich also nur ändern, wenn sich der Name ändert, den Sie verwenden. Damit haben Sie die Wahl, wann Sie das tun, und der Zeitpunkt erweist sich als wichtiger als der Papierkram.
 

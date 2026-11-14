@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/pt/blog/transit-visa-connecting-flights/
 
 ---
 
-![Uma família num terminal de aeroporto a rever documentos de viagem antes de embarcar num voo de ligação](https://traveldocumentvault.com/blog/transit-visa-connecting-flights/cover.jpg)
-
 ## Pontos-Chave
 
 - **Nem todos os voos de ligação exigem visto de trânsito.** Em muitos casos, depende de ficar airside (na área internacional de trânsito) ou de sair do aeroporto.
@@ -16,6 +14,8 @@ Source: https://traveldocumentvault.com/pt/blog/transit-visa-connecting-flights/
 - **As escalas exclusivamente airside costumam ser isentas de visto**, enquanto as escalas em que sai do aeroporto ou passa pela imigração muitas vezes exigem um visto, dependendo da sua nacionalidade.
 - Se perceber que precisa de um visto de trânsito depois de reservar, contacte a companhia aérea de imediato - os tempos de processamento variam muito e pode ter de remarcar.
 - **Guarde e acompanhe cada documento** - o seu visto de trânsito tem uma data de validade própria, separada do passaporte e do visto de entrada principal.
+
+![Uma família num terminal de aeroporto a rever documentos de viagem antes de embarcar num voo de ligação](https://traveldocumentvault.com/blog/transit-visa-connecting-flights/cover.jpg)
 
 Se um voo de ligação exige visto de trânsito depende de três coisas: que passaporte tem, em que país o avião aterra e se sai do aeroporto ou fica na zona internacional de trânsito. A maioria das escalas não exige nenhum visto de trânsito. Mas, quando a exigência existe, é rigorosa - e as companhias aéreas geralmente verificam antes do embarque.
 

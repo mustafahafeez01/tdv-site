@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/da/blog/uk-eta-passport-rules/
 
 ---
 
-![En forælder og et barn set bagfra ved et lyst lufthavnsvindue, forælderen holder to pas op, det forreste med en gylden kant, og et fly ved gaten bagved](https://traveldocumentvault.com/blog/uk-eta-passport-rules/cover.jpg)
-
 ## Vigtigste punkter
 
 - **Et britisk ETA er bundet til dit pasnummer.** Fornyer du passet og får et nyt nummer, bliver dit gamle ETA ugyldigt.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/da/blog/uk-eta-passport-rules/
 - **Alle personer skal have deres eget ETA** – også børn og babyer. Der findes ikke et familie-ETA. Hver person skal have sit eget, men du kan ansøge på vegne af familiemedlemmer.
 - Indenrigsministeriet anbefaler at søge **mindst 3 hverdage i forvejen.** Det er en anbefaling, ikke en garanteret behandlingstid.
 - Et ETA er **tilladelse til at rejse, ikke til indrejse.** Grænsevagter kan afvise indrejse selv med et gyldigt ETA.
+
+![En forælder og et barn set bagfra ved et lyst lufthavnsvindue, forælderen holder to pas op, det forreste med en gylden kant, og et fly ved gaten bagved](https://traveldocumentvault.com/blog/uk-eta-passport-rules/cover.jpg)
 
 Det britiske ETA-system er enkelt på overfladen: du søger, du betaler, du rejser. Men der er en regel under overfladen, som ikke er indlysende, før den får betydning: dit ETA er bundet til det specifikke pasnummer i din ansøgning. Fornyer du det pas og får et nyt pasnummer, holder dit ETA op med at være gyldigt. Du skal søge igen på dit nye pas, før din tur.
 

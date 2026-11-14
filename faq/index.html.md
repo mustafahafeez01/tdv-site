@@ -164,7 +164,7 @@ To enable App Lock, go to **Settings → Security** in the app:
 
 **Best practice:** Enable App Lock + set your device to auto-lock after 30 seconds. This creates multiple layers of protection: device lock, then app lock, then encrypted files.
 
-**Forgotten PIN?** Save your recovery code when you set up App Lock. Enter it in the PIN screen to unlock the app without deleting your documents. See "What is a recovery code?" below for full details.
+**Forgotten PIN?** Save your recovery code when you set up App Lock. Enter it in the PIN screen to unlock the app without deleting your documents. See "What is a recovery code, and why do I need one?" above for full details.
 
 Does the app create automatic backups?
 
@@ -194,7 +194,7 @@ Why did the app create a backup before updating?
 
 Before a major data-format upgrade the app automatically snapshots your vault. If a valid, readable pre-upgrade snapshot is available, you can try restoring it from Settings. The process is automatic and free for everyone.
 
-Can I customize reminder timing?
+Can I customise reminder timing?
 
 **Free users:** Get smart defaults chosen by document type. Passports start 8 months out, visas and IDs 3 months out, tickets and bookings a week out, and each one cascades down to the expiry date on its own.
 
@@ -208,7 +208,7 @@ Open the document list's overflow menu and tap **"Select documents"** to enter s
 
 Can I undo a bulk delete?
 
-**Yes - you have two layers of protection.** After deleting documents (single or bulk), you'll see a short undo window at the bottom of the screen. Tap **"Undo"** to restore them immediately. If you miss the undo window, deleted documents move to **Recently Deleted** in Settings, where they stay for 30 days before permanently deleting. Pro users with cloud backup enabled keep items in Recently Deleted indefinitely until they tap Delete Forever.
+**Yes - you have two layers of protection.** After deleting documents (single or bulk), you'll see a short undo window at the bottom of the screen. Tap **"Undo"** to restore them immediately. If you miss the undo window, deleted documents move to **Recently Deleted** in Settings, where they stay for 30 days before being permanently deleted. Pro users with cloud backup enabled keep items in Recently Deleted indefinitely until they tap Delete Forever.
 
 What is the long-press context menu?
 
@@ -346,7 +346,7 @@ Without cloud backup, deleted items go to the trash for 30 days and are then per
 
 What happens when I delete a document with cloud backup enabled?
 
-Deleting moves it to **Recently Deleted** (trash). It stays there indefinitely, there is no automatic purge when cloud backup is on. The trashed document is still backed up to your cloud. To permanently remove it, go to Recently Deleted and tap **Delete Forever** on each item. You will see a warning that this also removes it from your cloud backup.
+Deleting moves it to **Recently Deleted** (trash). It stays there indefinitely. There is no automatic purge when cloud backup is on. The trashed document is still backed up to your cloud. To permanently remove it, go to Recently Deleted and tap **Delete Forever** on each item. You will see a warning that this also removes it from your cloud backup.
 
 What happens if I delete all my documents?
 

@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/da/blog/family-passport-management/
 
 ---
 
-![famille på fire personer går mod et morgenlyst flypentvindue, forælder holder en vifte af fire guldpas](https://traveldocumentvault.com/blog/family-passport-management/cover.jpg)
-
 ## Vigtigste punkter
 
 - **Børnepas udløber ofte tidligere end voksenpas.** I Storbritannien gælder et børnepas i 5 år, så det yngste familiemedlemmes udløbsdato sætter ofte tidsfristen for din næste rejse.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/da/blog/family-passport-management/
 - **Opbevar digitale kopier på ét krypteret sted,** med én fysisk backup på et sikkert sted, du kan få adgang til hurtigt, hvis det bliver nødvendigt.
 - Opret et delt system til at spore udløbsdatoer for alle familiemedlemmer. **Én person, der håndterer dette, forhindrer oversete fornyelser.**
 - For familier med dobbelt statsborgerskab skal du **opbevare kopier af alle pas** og forstå hvilket, du skal bruge til hver destination.
+
+![famille på fire personer går mod et morgenlyst flypentvindue, forælder holder en vifte af fire guldpas](https://traveldocumentvault.com/blog/family-passport-management/cover.jpg)
 
 Når du rejser med børn, og skal holde styr på fem pas på tværs af to landes krav, er det det slags problem, der vækker dig midt på natten. En forælder har 8 år tilbage på sit, den anden har 7, dit ældste barn har 6 år tilbage. Men dit yngste barn – det der ikke kan sidde stille længe nok til et ordentligt foto – udløber om blot 18 måneder. Det er et system, som ingen forklarer, før du står ved check-in-skranken, og gateopvarteren spørger, hvilket pas dit 12-årige barn skal rejse på. At opstille et system, der overlever dette kaos, starter med at forstå, hvorfor familier så ofte får det galt.
 

@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/nl/blog/tripcase-alternative/
 
 ---
 
-![Een nette stapel crèmekleurige reisdocumenten met een paspoort bovenop, samengebonden met één dunne gouden draad, op een koningsblauwe achtergrond](https://traveldocumentvault.com/blog/tripcase-alternative/cover.jpg)
-
 ## Belangrijkste punten
 
 - **TripCase ging op 1 april 2025 offline** en de melding van Sabre gaf gebruikers tot 30 juni 2025 om hun reizen te downloaden voordat de resterende gegevens werden verwijderd.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/nl/blog/tripcase-alternative/
 - **Geen enkele app vervangt TripCase volledig.** Vluchtmeldingen, reisplanverwerking en documentopslag leven nu in verschillende tools.
 - De echte les: een gratis clouddienst houdt **je gegevens op geleende tijd**. Ze kan verdwijnen met een paar maanden kennisgeving.
 - Reisdocumenten horen **offline, op je eigen toestel** – ergens waar geen bedrijfsbeslissing, storing of sluiting ze kan bereiken.
+
+![Een nette stapel crèmekleurige reisdocumenten met een paspoort bovenop, samengebonden met één dunne gouden draad, op een koningsblauwe achtergrond](https://traveldocumentvault.com/blog/tripcase-alternative/cover.jpg)
 
 TripCase was jarenlang het stille werkpaard onder de reisapps. Stuur een bevestigingsmail door en je reis bouwde zichzelf op; de app waarschuwde je voor gatewijzigingen nog vóór sommige luchtvaartmaatschappijen dat zelf deden; en de Document Vault hield paspoorten, visa en instapkaarten op één plek. Toen, op 1 april 2025, sloot Sabre de dienst, en de melding van Sabre, zoals destijds gemeld, gaf gebruikers tot 30 juni 2025 om hun reizen te downloaden voordat de resterende gegevens werden verwijderd.
 

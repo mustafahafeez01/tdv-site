@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/fr/blog/family-passport-management/
 
 ---
 
-![famille de quatre personnes marchant vers une fenêtre d'aéroport éclairée à l'aube, un parent tenant un éventail de quatre passeports dorés](https://traveldocumentvault.com/blog/family-passport-management/cover.jpg)
-
 ## Points clés à retenir
 
 - **Les passeports des enfants expirent souvent plus tôt que ceux des adultes.** Au Royaume-Uni, un passeport pour enfant est valable 5 ans : la date d'expiration du plus jeune fixe donc souvent l'échéance pour votre prochain voyage.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/fr/blog/family-passport-management/
 - **Stockez les copies numériques dans un seul endroit chiffré,** avec une sauvegarde physique dans un endroit sûr que vous pouvez accéder rapidement si nécessaire.
 - Créez un système partagé pour suivre les dates d'expiration de chaque membre de la famille. **Une personne gérant cela prévient les renouvellements manqués.**
 - Pour les familles ayant une double nationalité, **gardez des copies de tous les passeports** et comprenez lequel utiliser pour chaque destination.
+
+![famille de quatre personnes marchant vers une fenêtre d'aéroport éclairée à l'aube, un parent tenant un éventail de quatre passeports dorés](https://traveldocumentvault.com/blog/family-passport-management/cover.jpg)
 
 Quand vous voyagez avec des enfants, suivre cinq passeports à travers les exigences de deux pays, c'est le genre de problème qui vous réveille au milieu de la nuit. Un parent a 8 ans de validité restante, l'autre a 7, votre aîné en a 6 ans. Mais celui de votre plus jeune — celui qui ne reste pas assis assez longtemps pour une photo décente — expire dans seulement 18 mois. C'est un système que personne n'explique jusqu'à ce que vous soyez au guichet d'enregistrement et que l'agent à la porte vous demande sur quel passeport votre enfant de 12 ans devrait voyager. Mettre en place un système qui survit à ce chaos commence par comprendre pourquoi les familles se trompent si souvent.
 

@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/id/blog/transit-visa-connecting-flights/
 
 ---
 
-![Sebuah keluarga di terminal bandara sedang memeriksa dokumen perjalanan sebelum naik penerbangan lanjutan](https://traveldocumentvault.com/blog/transit-visa-connecting-flights/cover.jpg)
-
 ## Poin Penting
 
 - **Tidak setiap penerbangan lanjutan memerlukan visa transit.** Banyak di antaranya bergantung pada apakah Anda tetap berada di area airside (zona transit internasional) atau meninggalkan bandara.
@@ -16,6 +14,8 @@ Source: https://traveldocumentvault.com/id/blog/transit-visa-connecting-flights/
 - **Layover yang hanya berlangsung di area airside sering kali bebas visa**, sementara layover yang mengharuskan Anda meninggalkan bandara atau melewati imigrasi sering kali memerlukan visa, tergantung kewarganegaraan Anda.
 - Jika Anda baru menyadari membutuhkan visa transit setelah memesan tiket, segera hubungi maskapai Anda - waktu pemrosesan sangat bervariasi dan Anda mungkin perlu memesan ulang.
 - **Simpan dan lacak setiap dokumen** - visa transit Anda memiliki tanggal kedaluwarsa sendiri, terpisah dari paspor dan visa masuk utama Anda.
+
+![Sebuah keluarga di terminal bandara sedang memeriksa dokumen perjalanan sebelum naik penerbangan lanjutan](https://traveldocumentvault.com/blog/transit-visa-connecting-flights/cover.jpg)
 
 Apakah penerbangan lanjutan Anda memerlukan visa transit atau tidak bergantung pada tiga hal: paspor apa yang Anda miliki, negara mana tempat pesawat Anda mendarat, dan apakah Anda meninggalkan bandara atau tetap berada di zona transit internasional. Sebagian besar layover sama sekali tidak memerlukan visa transit. Namun jika persyaratan itu berlaku, sifatnya tegas - dan maskapai umumnya memeriksanya sebelum Anda naik pesawat.
 

@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/pt/blog/etias-documents-2026/
 
 ---
 
-![Um passaporte num fundo azul-marinho royal com um arco solto de estrelas douradas e linhas de rota pontilhadas ténues, evocando viagens na Europa](https://traveldocumentvault.com/blog/etias-documents-2026/cover.jpg)
-
 ## Pontos-Chave
 
 - **ETIAS é uma autorização de viagem digital** para viajantes do Reino Unido, EUA e Canadá — necessária para a entrada sem visto no espaço Schengen assim que se tornar obrigatória
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/pt/blog/etias-documents-2026/
 - O tempo de processamento varia, especialmente logo após o lançamento; **candidate-se com boa antecedência à sua viagem** e consulte o site oficial da UE para orientações atuais
 - Consulte a taxa atual no [site oficial da UE](https://home-affairs.ec.europa.eu/news/european-travel-authorisation-etias-will-cost-eur-20-2025-07-17_en); **menores de 18 e maiores de 70 não pagam** mas ainda precisam de autorização
 - **Dúvidas sobre a fiabilidade das suas respostas podem levar à recusa**, por isso divulgue tudo, mesmo que seja antigo
+
+![Um passaporte num fundo azul-marinho royal com um arco solto de estrelas douradas e linhas de rota pontilhadas ténues, evocando viagens na Europa](https://traveldocumentvault.com/blog/etias-documents-2026/cover.jpg)
 
 Reservou uma viagem em família para Itália e ouviu dizer que o ETIAS está a caminho — um novo requisito de autorização digital para visitantes isentos de visto que se dirigem à Europa. Este guia explica o que é o ETIAS, que documentos precisa e como funciona a candidatura, para que esteja preparado antes de chegar ao formulário.
 

@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/damaged-passport-travel/
 
 ---
 
-![父母和孩子站在值机柜台前，工作人员正查看一本打开的金色护照，内页有水渍痕迹](https://traveldocumentvault.com/blog/damaged-passport-travel/cover.jpg)
-
 ## 关键要点
 
 - **并非所有磨损都算损坏。** 封面有些褶皱没关系，但水渍、撕页或安全防伪特征模糊就是问题。
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/damaged-passport-travel/
 - **提前数天或数周发现损坏**，能为您争取紧急换发的时间。出发前一天才发现就是危机。
 - 如果在登机口被拒绝登机，**向使领馆咨询紧急旅行证件**。
 - **数字副本在您身处海外时最有价值**——领事官员通过扫描件确认您的身份，远比听您口述更快。出发前先扫描好您的护照。
+
+![父母和孩子站在值机柜台前，工作人员正查看一本打开的金色护照，内页有水渍痕迹](https://traveldocumentvault.com/blog/damaged-passport-travel/cover.jpg)
 
 护照的大部分损坏都只是外观问题。封面有点磨损，边角变软，书脊边缘起了毛边——这些都不会让您登不了机。边检人员和地勤真正会检查的范围比大多数旅行者想的要窄：资料页、下方两行打印字符,以及整本护照是否还完整成册。
 

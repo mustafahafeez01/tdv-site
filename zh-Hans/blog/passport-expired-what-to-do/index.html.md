@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/passport-expired-what-to-do
 
 ---
 
-![一本护照平放在皇家海军蓝色背景上，一条柔和的金色箭头向前弯曲，表示明确的下一步](https://traveldocumentvault.com/blog/passport-expired-what-to-do/cover.jpg)
-
 ## 关键要点
 
 - 有两种不同的场景：在家中旅行前发现护照过期，以及在机场发现护照过期。每种情况的步骤都不同。
@@ -16,6 +14,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/passport-expired-what-to-do
 - 在机场，先联系你的航空公司——询问他们能否免改签费为你改订。
 - 根本的解决方案是12个月的过期提醒，而不是6个月。这给了你足够的时间以标准处理方式更新护照。
 - 过期不是让旅行者被拒绝的唯一护照问题。损坏、名字不匹配、缺少签名和目的地的剩余有效期不足都会导致相同的结果。
+
+![一本护照平放在皇家海军蓝色背景上，一条柔和的金色箭头向前弯曲，表示明确的下一步](https://traveldocumentvault.com/blog/passport-expired-what-to-do/cover.jpg)
 
 发现护照已过期是时间突然变得非常真实的时刻之一。无论你是在旅行前三个月发现它，还是现在就站在机场值机台前，接下来发生的完全取决于你所处的情况。
 

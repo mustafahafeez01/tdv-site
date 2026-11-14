@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/ko/blog/lost-passport-abroad/
 
 ---
 
-![왕실 해군색 배경에 여권이 있고, 희미한 금색 경로선과 근처에 작은 금색 위치 핀이 있어 귀국 도움을 나타냅니다](https://traveldocumentvault.com/blog/lost-passport-abroad/cover.jpg)
-
 ## 주요 요점
 
 - 경찰 신고는 가능한 한 빨리 하세요. 보험사는 대부분 이를 요구하고, 일부 대사관도 요구합니다.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/ko/blog/lost-passport-abroad/
 - 여권 정보 사본은 절차를 빠르게 진행하는 데 도움이 될 수 있지만 신분증으로 사용할 수는 없습니다.
 - 일부 여행 보험은 여권 재발급 비용을 보장합니다. 본인의 약관을 확인하고, 보험사가 흔히 요청하는 경찰 신고서를 보관하세요.
 - 준비할 시간은 지금입니다. 아무것도 잘못되기 전에 5분 정도 스캔하면 해외에서 며칠의 스트레스를 줄일 수 있습니다.
+
+![왕실 해군색 배경에 여권이 있고, 희미한 금색 경로선과 근처에 작은 금색 위치 핀이 있어 귀국 도움을 나타냅니다](https://traveldocumentvault.com/blog/lost-passport-abroad/cover.jpg)
 
 해외에서 여권을 잃어버려 재발급받는 사람은 매일 있습니다. 대사관에게 이는 긴급 상황이 아니라 일상적인 업무일 뿐입니다. 이 절차에는 정해진 순서가 있고, 그 순서를 따르는 것이 최악의 하루를 '여행 취소'가 아니라 '일시적인 지연'으로 바꿔줍니다. 지금부터 그 단계를 하나씩 설명합니다.
 

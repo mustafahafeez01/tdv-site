@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/ko/blog/passport-photo-at-home/
 
 ---
 
-![아버지가 순백색 벽을 배경으로 어린 아들을 촬영하고 있으며, 테이블 앞에 여권 사진 인쇄물이 놓여 있는 모습](https://traveldocumentvault.com/blog/passport-photo-at-home/cover.jpg)
-
 ## 주요 내용
 
 - 소속 당국이 요구하는 밝은 톤의 무지 배경, 자연스러운 무표정, 눈을 뜨고 카메라를 정면으로 보기. 어린아이에게는 예외가 적용될 수 있음
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/ko/blog/passport-photo-at-home/
 - 자연 창 채광이 가장 좋음, 거친 그림자와 카메라 플래시 피하기
 - 영국 등 많은 기관이 꼭 필요한 경우가 아니면 안경을 쓰지 말라고 요구합니다, 현재 요구 사항 확인
 - 조명, 크기, 표정, 선명도 또는 배경이 해당 여권 당국의 규정에 맞지 않으면 사진이 반려될 수 있음
+
+![아버지가 순백색 벽을 배경으로 어린 아들을 촬영하고 있으며, 테이블 앞에 여권 사진 인쇄물이 놓여 있는 모습](https://traveldocumentvault.com/blog/passport-photo-at-home/cover.jpg)
 
 GOV.UK는 개인 기기로 찍은 사진보다 사진 부스나 매장에서 찍은 사진의 승인 가능성이 더 높다고 안내합니다. 조명, 크기, 표정, 선명도 또는 배경이 해당 여권 당국의 규정에 맞지 않으면 사진이 반려될 수 있습니다.
 

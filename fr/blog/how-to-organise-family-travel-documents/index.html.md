@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/fr/blog/how-to-organise-family-travel-do
 
 ---
 
-![Une rangée nette et régulièrement espacée de différents documents de voyage - un passeport, une carte d'identité, une page de visa et une carte d'embarquement - sur un fond bleu marine profond](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/cover.jpg)
-
 ## Points clés à retenir
 
 - Votre liste de contrôle des documents de voyage en famille doit inclure les passeports, les visas, l'assurance voyage et les dossiers de vaccination — et c'est avant de prendre en compte les documents spécifiques aux voyages avec des enfants.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/fr/blog/how-to-organise-family-travel-do
 - Les sauvegardes numériques ne vous aideront pas à passer l'immigration, mais elles vous sauveront des heures à l'ambassade si quelque chose disparaît. Stockez-les de manière chiffrée, pas dans votre galerie de photos.
 - Suivre les dates d'expiration avant de réserver — pas la semaine avant de voler — est l'habitude qui prévient la plupart des désastres documentaires.
 - Une liste de contrôle pré-voyage que vous exécutez au moment de la réservation vous donne suffisamment de temps pour corriger tout problème avant qu'il ne devienne coûteux.
+
+![Une rangée nette et régulièrement espacée de différents documents de voyage - un passeport, une carte d'identité, une page de visa et une carte d'embarquement - sur un fond bleu marine profond](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/cover.jpg)
 
 Il est 23h la nuit avant un vol, les passeports sont dehors, l'impression d'assurance est quelque part, mais le certificat de vaccination — celui que la destination exige réellement — a disparu de la maison. C'est le problème lorsque vous n'avez pas de système pour les documents de voyage en famille: vous faites une recherche différente à chaque fois, et finalement quelque chose d'important ne réapparaît pas.
 

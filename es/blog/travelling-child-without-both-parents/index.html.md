@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/es/blog/travelling-child-without-both-pa
 
 ---
 
-![Boceto dibujado a mano de un padre y un hijo vistos de espaldas en la terminal de un aeropuerto, el padre sosteniendo un pequeño abanico de dos pasaportes y un documento doblado a la altura del pecho](https://traveldocumentvault.com/blog/travelling-child-without-both-parents/cover.jpg)
-
 ## Conclusiones Principales
 
 - **El personal de facturación y los agentes de fronteras no comprueban lo mismo.** Satisfacer a uno no vincula al otro, ni a la llegada ni a la salida.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/es/blog/travelling-child-without-both-pa
 - Custodia exclusiva: lleva la **orden de custodia o la resolución judicial** y cualquier consentimiento necesario de otras personas con responsabilidad parental.
 - El otro progenitor ha fallecido: si solo tú tienes la responsabilidad de tomar decisiones sobre el niño, las autoridades canadienses recomiendan una **copia del certificado de defunción**.
 - Apellido diferente: el **certificado de nacimiento completo** del niño demuestra vuestro parentesco, junto con un certificado de matrimonio o divorcio si tu propio apellido ha cambiado.
+
+![Boceto dibujado a mano de un padre y un hijo vistos de espaldas en la terminal de un aeropuerto, el padre sosteniendo un pequeño abanico de dos pasaportes y un documento doblado a la altura del pecho](https://traveldocumentvault.com/blog/travelling-child-without-both-parents/cover.jpg)
 
 El personal de facturación de las aerolíneas y los agentes de fronteras se fijan dos veces en un niño que viaja sin ambos progenitores, y esa segunda mirada forma parte de un control rutinario de protección infantil, no de una sospecha hacia nadie en particular. Qué documentos son esos depende de por qué falta el otro progenitor: sigue en casa, ya no comparte la custodia, o ha fallecido. Cada una de esas situaciones puede requerir documentos de apoyo, y puede seguir siendo recomendable llevar una carta de consentimiento junto con la orden de custodia.
 

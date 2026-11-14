@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/de/blog/international-driving-permit-val
 
 ---
 
-![Eine Familie belädt einen Mietwagen zu Beginn eines Roadtrips, ein Führerschein und ein Internationaler Führerschein liegen auf der aufgeschlagenen Karte daneben](https://traveldocumentvault.com/blog/international-driving-permit-validity/cover.jpg)
-
 ## Wichtigste Erkenntnisse
 
 - Ein Internationaler Führerschein ist **eine Übersetzung des Führerscheins, den Sie bereits besitzen**, Sie führen also beide mit sich. Nur den Führerschein vorzuzeigen, beweist nichts.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/de/blog/international-driving-permit-val
 - Der Wiener Führerschein ist **an Ihren Führerschein gebunden**. Läuft dieser zuerst ab, verliert der Internationale Führerschein an diesem Datum seine Gültigkeit, unabhängig vom aufgedruckten Datum.
 - Länder haben unterschiedliche Abkommen ratifiziert, daher kann **ein in einem Land akzeptierter Führerschein im nächsten abgelehnt werden**.
 - Reisepass, Führerschein und Internationaler Führerschein laufen nach **drei getrennten Uhren**, die fast nie übereinstimmen.
+
+![Eine Familie belädt einen Mietwagen zu Beginn eines Roadtrips, ein Führerschein und ein Internationaler Führerschein liegen auf der aufgeschlagenen Karte daneben](https://traveldocumentvault.com/blog/international-driving-permit-validity/cover.jpg)
 
 Ein Internationaler Führerschein ist eine Übersetzung des Führerscheins und kein eigenständiger Führerschein, und er läuft nach seinem eigenen Zeitplan. Viele gelten zwölf Monate ab Ausstellungsdatum, keiner länger als drei Jahre, sodass der vor drei Sommern für eine Reise gekaufte mit ziemlicher Sicherheit abgelaufen ist. Mietwagenschalter in mehreren Ländern verlangen ihn, bevor sie ein Fahrzeug herausgeben.
 

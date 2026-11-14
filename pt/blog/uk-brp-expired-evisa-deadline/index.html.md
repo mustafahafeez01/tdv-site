@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/pt/blog/uk-brp-expired-evisa-deadline/
 
 ---
 
-![Um progenitor e dois filhos junto de uma janela iluminada pelo sol, a sua mão repousando sobre um pequeno maço de passaportes no parapeito da janela](https://traveldocumentvault.com/blog/uk-brp-expired-evisa-deadline/cover.jpg)
-
 ## Pontos-chave
 
 - A maioria das pessoas com um BRP expirado só precisa de **criar uma conta UKVI**, e o cartão ainda pode ajudar a fazê-lo durante algum tempo.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/pt/blog/uk-brp-expired-evisa-deadline/
 - Sem cartão utilizável? Um passaporte válido mais o número do seu pedido de visto ou o número do BRP também servem para entrar.
 - Cada filho precisa da **sua própria conta**, que um progenitor pode gerir com o seu próprio telefone e e-mail.
 - Para viajar, o passaporte com que voa tem de estar na sua conta UKVI, com dados que correspondam à sua reserva.
+
+![Um progenitor e dois filhos junto de uma janela iluminada pelo sol, a sua mão repousando sobre um pequeno maço de passaportes no parapeito da janela](https://traveldocumentvault.com/blog/uk-brp-expired-evisa-deadline/cover.jpg)
 
 Se tem um Biometric Residence Permit (BRP, título de residência biométrico) expirado e ainda tem autorização para permanecer, o GOV.UK pede-lhe que crie uma conta UK Visas and Immigration (UKVI), usando o cartão para provar quem é. É uma única etapa, e o cartão expirado ainda serve para isso, pelo menos durante algum tempo. O seu estatuto de imigração não mudou. O que mudou é onde ele está guardado.
 

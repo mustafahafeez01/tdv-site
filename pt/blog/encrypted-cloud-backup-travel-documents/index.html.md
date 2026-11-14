@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/pt/blog/encrypted-cloud-backup-travel-do
 
 ---
 
-![Um pai e uma criança sentados juntos num sofá ao entardecer, a olhar para um telemóvel e uma pequena chave dourada pousada na mesa junto a um passaporte, enquanto uma nuvem por cima só guarda marcas embaralhadas atrás de um cadeado](https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/cover.jpg)
-
 ## Pontos-Chave
 
 - **"Cópia de segurança encriptada" só significa alguma coisa quando sabe quem tem a chave.** Se a empresa conseguir ler os seus documentos, a encriptação está a protegê-los de estranhos, não da empresa.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/pt/blog/encrypted-cloud-backup-travel-do
 - **Sem conta significa sem reposição de palavra-passe.** Se perder o código de recuperação e o acesso a todos os dispositivos que ainda conseguem abrir o cofre, não podemos recuperar a cópia de segurança encriptada. Essa é a troca deliberada.
 - Escreva o código antes de depender da cópia de segurança, guarde-o longe do telemóvel, e releia-o uma vez para confirmar que está legível.
 - Uma cópia de segurança do sistema do dispositivo reinstala a aplicação mas não consegue trazer de volta os seus documentos, porque as cópias de segurança do sistema não transferem a chave de encriptação vinculada ao dispositivo.
+
+![Um pai e uma criança sentados juntos num sofá ao entardecer, a olhar para um telemóvel e uma pequena chave dourada pousada na mesa junto a um passaporte, enquanto uma nuvem por cima só guarda marcas embaralhadas atrás de um cadeado](https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/cover.jpg)
 
 Digitalizou quatro passaportes, dois vistos e as certidões de nascimento dos filhos numa aplicação que guarda tudo no seu telemóvel. Ótimo. Depois surge a preocupação óbvia: o que acontece quando o telemóvel cai ao mar, ou desaparece da mesa de um café em Lisboa.
 

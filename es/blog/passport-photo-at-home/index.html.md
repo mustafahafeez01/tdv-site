@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/es/blog/passport-photo-at-home/
 
 ---
 
-![padre fotografiando a su hijo pequeño contra una pared plana con luz de ventana, una hoja impresa de fotos de pasaporte sobre la mesa frente a ellos](https://traveldocumentvault.com/blog/passport-photo-at-home/cover.jpg)
-
 ## Conclusiones Principales
 
 - Usa un fondo claro y uniforme en el tono que exija tu autoridad, expresión neutral, y ojos abiertos mirando directamente a la cámara, con excepciones para niños pequeños
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/es/blog/passport-photo-at-home/
 - La luz natural de una ventana funciona mejor, evita sombras duras y no uses flash de cámara
 - Muchas autoridades, incluida la del Reino Unido, piden no llevar gafas salvo que sea estrictamente necesario; verifica los requisitos actuales
 - Las fotos pueden rechazarse si no cumplen las reglas de tu autoridad sobre iluminación, tamaño, expresión, nitidez o fondo
+
+![padre fotografiando a su hijo pequeño contra una pared plana con luz de ventana, una hoja impresa de fotos de pasaporte sobre la mesa frente a ellos](https://traveldocumentvault.com/blog/passport-photo-at-home/cover.jpg)
 
 GOV.UK señala que las fotos de fotomatón o tienda tienen más probabilidades de aceptación que las tomadas con tu propio dispositivo. Las fotos pueden rechazarse si no cumplen las reglas de tu autoridad sobre iluminación, tamaño, expresión, nitidez o fondo.
 

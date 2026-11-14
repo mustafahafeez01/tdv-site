@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/family-passport-management/
 
 ---
 
-![一个四人家庭走向黎明时分的机场窗户，父母拿着四本金色护照](https://traveldocumentvault.com/blog/family-passport-management/cover.jpg)
-
 ## 关键要点
 
 - **儿童护照通常比成人护照更早到期。** 英国儿童护照有效期为5年，因此家庭最年轻成员的到期日期往往决定了您下次旅行的截止日期。
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/family-passport-management/
 - **在一个加密位置存储数字副本，**在您可以快速访问的安全位置保留一份物理备份。
 - 为每个家庭成员的到期日期创建共享跟踪系统。**由一个人处理这个问题可以防止错过续期。**
 - 对于拥有双重国籍的家庭，**保留所有护照的副本**，并了解为每个目的地使用哪本护照。
+
+![一个四人家庭走向黎明时分的机场窗户，父母拿着四本金色护照](https://traveldocumentvault.com/blog/family-passport-management/cover.jpg)
 
 当您和孩子们一起旅行时，在两个国家的要求中跟踪五本护照是一个会在午夜时分让您惊醒的问题。一个父母还有8年，另一个父母还有7年，您的长子还有6年。但您最年幼的孩子的护照——那个坐不住的小家伙——仅在18个月后就过期了。建立一个经得起这种混乱的系统首先要从理解为什么家庭经常在这方面出问题开始。
 

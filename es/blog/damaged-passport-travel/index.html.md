@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/es/blog/damaged-passport-travel/
 
 ---
 
-![un progenitor y su hijo en el mostrador de facturación de una aerolínea mientras el agente examina un pasaporte dorado abierto con páginas dañadas por el agua](https://traveldocumentvault.com/blog/damaged-passport-travel/cover.jpg)
-
 ## Conclusiones Principales
 
 - **No todo el desgaste es daño.** Una portada arrugada no es problema. El daño por agua, las páginas rotas o las medidas de seguridad borrosas sí lo son.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/es/blog/damaged-passport-travel/
 - Detectar el daño **días o semanas antes** de tu viaje te da tiempo para una renovación de emergencia. El día antes es una crisis.
 - Si te rechazan en la puerta, **pregunta a tu embajada por un documento de viaje de emergencia**.
 - Una copia digital **vale más cuando estás en el extranjero** —un funcionario consular puede confirmar tu identidad a partir de un escaneo mucho más rápido que a partir de tu relato. Escanea tu pasaporte antes de viajar.
+
+![un progenitor y su hijo en el mostrador de facturación de una aerolínea mientras el agente examina un pasaporte dorado abierto con páginas dañadas por el agua](https://traveldocumentvault.com/blog/damaged-passport-travel/cover.jpg)
 
 La mayoría de los daños en un pasaporte son puramente estéticos. Una portada rayada, una esquina reblandecida, un borde deshilachado a lo largo del lomo —nada de eso te impide embarcar. Lo que el personal de fronteras y los agentes de la aerolínea comprueban en realidad es más concreto de lo que la mayoría de los viajeros cree: la página de identidad, las dos líneas impresas debajo de ella, y si el cuadernillo se mantiene entero como un solo documento.
 

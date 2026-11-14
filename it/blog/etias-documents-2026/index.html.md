@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/it/blog/etias-documents-2026/
 
 ---
 
-![Un passaporto su uno sfondo blu navy con un arco di stelle dorate e linee di rotta tratteggiate sfumate, che evocano i viaggi europei](https://traveldocumentvault.com/blog/etias-documents-2026/cover.jpg)
-
 ## Punti chiave
 
 - **ETIAS è un'autorizzazione di viaggio digitale** per i viaggiatori del Regno Unito, USA e Canada — necessaria per l'ingresso senza visto nell'area Schengen una volta diventata obbligatoria
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/it/blog/etias-documents-2026/
 - Il tempo di elaborazione varia, specialmente subito dopo il lancio; **richiedi con largo anticipo rispetto al tuo viaggio** e consulta il sito ufficiale dell'UE per le indicazioni attuali
 - Consulta la tariffa attuale sul [sito ufficiale dell'UE](https://home-affairs.ec.europa.eu/news/european-travel-authorisation-etias-will-cost-eur-20-2025-07-17_en); **i minori di 18 anni e i maggiori di 70 non pagano** ma hanno comunque bisogno di un'autorizzazione
 - **I dubbi sull’affidabilità delle risposte possono portare al rifiuto, quindi dichiara tutto, anche se è datato**
+
+![Un passaporto su uno sfondo blu navy con un arco di stelle dorate e linee di rotta tratteggiate sfumate, che evocano i viaggi europei](https://traveldocumentvault.com/blog/etias-documents-2026/cover.jpg)
 
 Hai prenotato un viaggio in famiglia in Italia e hai sentito che sta per arrivare ETIAS, un nuovo requisito di autorizzazione digitale per chi viaggia in Europa senza visto. Qui trovi cos'è ETIAS, quali documenti ti servono e come funziona la domanda, così arrivi al modulo già preparato.
 

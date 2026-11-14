@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/ko/blog/is-it-safe-to-store-passport-in-
 
 ---
 
-![깊은 남색 배경에 있는 여권으로 부드러운 금색 방패로 보호되고 있으며 개인 및 안전한 문서 저장소를 시사합니다](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/cover.jpg)
-
 ## 핵심 요점
 
 - Google Photos에 여권 스캔본을 저장하는 것은 신원 문서가 Google의 서버에 있고 이들 시스템으로 처리되며 계정 보안으로만 보호된다는 의미입니다.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/ko/blog/is-it-safe-to-store-passport-in-
 - Google은 개인정보 보호 정책에서 서비스 제공과 개선을 위해 자동화된 시스템으로 콘텐츠를 분석한다고 설명합니다. 여권 스캔본도 다른 사진처럼 저장됩니다.
 - 더 나은 선택지가 있습니다. 암호화 비밀번호 관리자, 온디바이스 암호화 앱, 클라이언트 측 암호화 클라우드 저장소. 여권을 일반 사진 라이브러리에 던지지 않습니다.
 - 대부분의 사람들에게 실제 위험은 Google이 아닙니다. 약한 계정 보안과 누가 그 계정에 접근할 수 있는지입니다.
+
+![깊은 남색 배경에 있는 여권으로 부드러운 금색 방패로 보호되고 있으며 개인 및 안전한 문서 저장소를 시사합니다](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/cover.jpg)
 
 많은 사람이 Google Photos에 여권 스캔본을 저장하고 있습니다. 사본이 필요하면 사진을 찍고 자동으로 백업됩니다. 끝. 가장 민감한 신원 문서에 대해 이것이 실제로 현명한 움직임인지에 대한 질문은 무언가 문제가 될 때까지 나타나지 않습니다.
 

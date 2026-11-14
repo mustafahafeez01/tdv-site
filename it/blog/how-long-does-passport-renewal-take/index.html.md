@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/it/blog/how-long-does-passport-renewal-t
 
 ---
 
-![Un passaporto che scivola a metà fuori da una busta color crema semplice su uno sfondo blu scuro, suggerendo un rinnovo in corso](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/cover.jpg)
-
 ## Punti Chiave
 
 - Quanto tempo richiede il rinnovo del passaporto dipende dal tuo paese, dalla tua situazione e dalla stagione in cui fai domanda — non esiste una cifra unica che resti esatta a lungo, quindi in questa guida non ne diamo nessuna, di proposito.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/it/blog/how-long-does-passport-renewal-t
 - Poche situazioni rallentano l'elaborazione quasi sempre: un cambio di nome, un primo passaporto da adulto, una domanda per un bambino, un passaporto perso o danneggiato, controlli di sicurezza extra, la stagione di punta e una domanda dall'estero.
 - Il modo più sicuro è fare domanda appena la validità residua del tuo passaporto inizia a ridursi, calcolando a ritroso dalla data reale del viaggio invece di tirare a indovinare.
 - Per la cifra che conta adesso, rivolgiti alla tua autorità passaporti — HM Passport Office, il Dipartimento di Stato USA, l'Ufficio Passaporti Australiano o l'equivalente nazionale — non a un articolo di blog.
+
+![Un passaporto che scivola a metà fuori da una busta color crema semplice su uno sfondo blu scuro, suggerendo un rinnovo in corso](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/cover.jpg)
 
 Hai prenotato i voli per un viaggio tra cinque mesi. Tiri fuori i passaporti di tutti per un ultimo controllo, ed ecco il problema: uno scade tra cinque mesi e tre settimane. Ora ti serve sapere quanto tempo richiede il rinnovo del passaporto — perché a questo punto i conti contano.
 

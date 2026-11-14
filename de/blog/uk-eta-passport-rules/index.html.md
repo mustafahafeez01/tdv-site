@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/de/blog/uk-eta-passport-rules/
 
 ---
 
-![Ein Elternteil und ein Kind von hinten an einem hellen Flughafenfenster, der Elternteil hält zwei Reisepässe hoch, der vordere golden umrandet, dahinter ein Flugzeug am Gate](https://traveldocumentvault.com/blog/uk-eta-passport-rules/cover.jpg)
-
 ## Wichtigste Erkenntnisse
 
 - **Eine britische ETA ist an Ihre Reisepassnummer gebunden.** Wenn Sie Ihren Reisepass erneuern und eine neue Nummer erhalten, wird Ihre alte ETA ungültig.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/de/blog/uk-eta-passport-rules/
 - **Jede Person braucht ihre eigene ETA** – auch Kinder und Babys. Es gibt keine Familien-ETA. Jede Person braucht ihre eigene, Sie können den Antrag aber im Namen von Familienmitgliedern stellen.
 - Das Home Office empfiehlt, **mindestens 3 Werktage im Voraus zu beantragen.** Das ist eine Empfehlung, keine Bearbeitungsgarantie.
 - Eine ETA ist eine **Reiseerlaubnis, keine Einreisegarantie.** Grenzbeamte können die Einreise auch mit gültiger ETA verweigern.
+
+![Ein Elternteil und ein Kind von hinten an einem hellen Flughafenfenster, der Elternteil hält zwei Reisepässe hoch, der vordere golden umrandet, dahinter ein Flugzeug am Gate](https://traveldocumentvault.com/blog/uk-eta-passport-rules/cover.jpg)
 
 Das britische ETA-System wirkt auf den ersten Blick einfach: Sie beantragen, Sie zahlen, Sie reisen. Es gibt jedoch eine Regel im Hintergrund, die erst auffällt, wenn sie zum Problem wird: Ihre ETA ist [an die konkrete Reisepassnummer aus Ihrem Antrag gebunden](https://www.gov.uk/check-eta). Erneuern Sie diesen Reisepass und erhalten eine neue Reisepassnummer, verliert Ihre ETA ihre Gültigkeit. Sie müssen vor Ihrer Reise mit dem neuen Reisepass erneut einen Antrag stellen.
 

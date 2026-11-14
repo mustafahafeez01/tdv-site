@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/ja/blog/international-driving-permit-val
 
 ---
 
-![ロードトリップの出発時にレンタカーへ荷物を積み込む家族。開いた地図の横には運転免許証と国際運転免許証が置かれている](https://traveldocumentvault.com/blog/international-driving-permit-validity/cover.jpg)
-
 ## 重要ポイント
 
 - IDPは**すでに持っている運転免許証の翻訳**であり、両方を携帯します。IDPだけを提示しても、それだけでは何も証明できません。
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/ja/blog/international-driving-permit-val
 - ウィーン条約の許可証は**運転免許証によって上限が定められます**。免許証が先に失効すれば、許可証に印字された日付にかかわらず、その時点で許可証は使えなくなります。
 - 各国が批准した条約は異なるため、**ある国で受け入れられた許可証が、次の国では拒否される**ことがあります。
 - パスポート、運転免許証、許可証は**それぞれ別々の期限**で動いており、ほとんど一致することはありません。
+
+![ロードトリップの出発時にレンタカーへ荷物を積み込む家族。開いた地図の横には運転免許証と国際運転免許証が置かれている](https://traveldocumentvault.com/blog/international-driving-permit-validity/cover.jpg)
 
 国際運転免許証は運転免許の翻訳であって、それ自体が免許なのではなく、有効期間も独自に進みます。多くは発給日から十二か月間有効で、いずれも最長3年間なので、三年前の夏の旅行のために取得したものは、まず間違いなく期限が切れています。国によっては、レンタカーの窓口が車を渡す前にこれを求めます。
 

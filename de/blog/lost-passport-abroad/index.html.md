@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/de/blog/lost-passport-abroad/
 
 ---
 
-![Ein Pass auf königsblauem Hintergrund mit feinen goldenen Flugstreckenlinien und einem kleinen goldenen Ortungsstift in der Nähe, der andeutet, dass man auf dem Weg nach Hause ist](https://traveldocumentvault.com/blog/lost-passport-abroad/cover.jpg)
-
 ## Wichtigste Erkenntnisse
 
 - Erstatten Sie früh eine Polizeianzeige – Ihr Versicherer wird sie meist verlangen, und manche Botschaften fragen auch danach.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/de/blog/lost-passport-abroad/
 - Eine Kopie Ihrer Passdaten kann die Bearbeitung erleichtern, lässt sich aber nicht als Ausweis verwenden.
 - Manche Reiseversicherungen decken die Kosten für einen Passersatz. Prüfen Sie Ihre Police und bewahren Sie den Polizeibericht auf, den Versicherer häufig verlangen.
 - Der richtige Zeitpunkt zur Vorbereitung ist jetzt, bevor etwas schief läuft. Ein fünfminütiger Scan heute könnte Tage Stress im Ausland ersparen.
+
+![Ein Pass auf königsblauem Hintergrund mit feinen goldenen Flugstreckenlinien und einem kleinen goldenen Ortungsstift in der Nähe, der andeutet, dass man auf dem Weg nach Hause ist](https://traveldocumentvault.com/blog/lost-passport-abroad/cover.jpg)
 
 Jeden Tag lassen sich verloren gegangene Pässe im Ausland ersetzen, und Botschaften behandeln das als Routinevorgang, nicht als Notfall. Der Ablauf folgt einer festen Reihenfolge, und genau die einzuhalten macht aus einem schlechten Nachmittag eine Verzögerung statt einer abgesagten Reise. So gehen Sie Schritt für Schritt vor.
 

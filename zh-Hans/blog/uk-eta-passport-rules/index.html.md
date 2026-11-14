@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/uk-eta-passport-rules/
 
 ---
 
-![明亮的机场窗前，父女背影。家长举着两本护照，前面一本镶着金色光边，远处登机口停着飞机](https://traveldocumentvault.com/blog/uk-eta-passport-rules/cover.jpg)
-
 ## 关键要点
 
 - **UK ETA与您的护照号码绑定。**更换护照并获得新号码后，原有的ETA将失效。
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/uk-eta-passport-rules/
 - **每个人都需要自己的ETA**，儿童和婴儿也不例外。没有家庭ETA。每个人都需要各自的ETA，不过你可以代家人提交申请。
 - 内政部建议**至少提前3个工作日申请**。这是一项建议，而不是处理时限的保证。
 - ETA是**旅行许可，不是入境许可**。即使ETA有效，边检官员仍可拒绝入境。
+
+![明亮的机场窗前，父女背影。家长举着两本护照，前面一本镶着金色光边，远处登机口停着飞机](https://traveldocumentvault.com/blog/uk-eta-passport-rules/cover.jpg)
 
 UK ETA制度表面上很简单：申请、付费、出行。但背后有一条容易被忽视的规则，往往要等到真正遇到问题才会发现——您的ETA与申请时所用的特定护照号码绑定。一旦您更换护照并获得新的护照号码，ETA就会失效。您需要在出行前用新护照重新申请。
 

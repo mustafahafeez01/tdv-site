@@ -244,7 +244,7 @@ Pro
 
 ## ข้อมูลของคุณ อุปกรณ์ของคุณ
 
-ไม่มีเซิร์ฟเวอร์ที่เก็บเอกสารของคุณ ไม่มีบัญชี ไม่มีการติดตาม สร้างโดย Mustafa Hafeez ด้วยสถาปัตยกรรมที่ให้ความเป็นส่วนตัวมาก่อน ดูลิงก์[นโยบายความเป็นส่วนตัว](https://traveldocumentvault.com/privacy-policy/)และ[การตรวจสอบ](https://traveldocumentvault.com/privacy-policy/)
+ไม่มีเซิร์ฟเวอร์ที่เก็บเอกสารของคุณ ไม่มีบัญชี ไม่มีการติดตาม สร้างโดย Mustafa Hafeez ด้วยสถาปัตยกรรมที่ให้ความเป็นส่วนตัวมาก่อน ดูลิงก์[นโยบายความเป็นส่วนตัว](https://traveldocumentvault.com/privacy-policy/)และ[การตรวจสอบ](https://traveldocumentvault.com/th/privacy-verification/)
 
 ### ข้อมูลของคุณเป็นของคุณ
 

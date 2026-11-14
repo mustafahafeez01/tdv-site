@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/blog/visa-expiry-tracker-app/
 
 ---
 
-![A visa document on a royal navy background with a soft gold arc tracking its validity window](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/cover.jpg)
-
 ## Key Takeaways
 
 - Visa expiry tracking is **more complex** than passport tracking - a visa has an entry validity date, a maximum stay duration, and sometimes entry count limits, all of which need separate monitoring.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/blog/visa-expiry-tracker-app/
 - The best visa expiry tracker apps work offline, support multiple visa types, and allow custom reminder timings per document.
 - Schengen Area visitors must track a rolling 90/180-day window, not just a single expiry date, because the count rolls with your actual travel history, not the calendar.
 - Tracking visas and passports together in one place reduces the risk of a mismatch: entering on a valid visa but with a passport that expires before your planned stay ends.
+
+![A visa document on a royal navy background with a soft gold arc tracking its validity window](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/cover.jpg)
 
 A visa overstay is one of the most consequential travel mistakes a person can make. Unlike a missed flight, which is stressful but ultimately fixable, an overstay creates a formal immigration record that can follow you for years. In the United States, under section 212(a)(9)(B) of the [US Immigration and Nationality Act](https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chap12-subchapII-partII-sec1182.htm), someone who is unlawfully present for more than 180 days but less than a year and then leaves is generally barred from returning for three years, and one year or more of unlawful presence generally means a ten-year bar. These consequences are not widely known.
 

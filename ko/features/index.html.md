@@ -244,7 +244,7 @@ Pro에서는 특정 프로필 안에서 문서 종류의 기본 색상을 바꿀
 
 ## 내 데이터, 내 기기
 
-문서를 보관하는 서버도, 계정도, 추적도 없습니다. Mustafa Hafeez가 개인정보 우선 구조로 만들었습니다. [개인정보 처리방침](https://traveldocumentvault.com/privacy-policy/)과 [검증](https://traveldocumentvault.com/privacy-policy/) 링크를 확인하세요.
+문서를 보관하는 서버도, 계정도, 추적도 없습니다. Mustafa Hafeez가 개인정보 우선 구조로 만들었습니다. [개인정보 처리방침](https://traveldocumentvault.com/privacy-policy/)과 [검증](https://traveldocumentvault.com/ko/privacy-verification/) 링크를 확인하세요.
 
 ### 내 데이터는 나의 것
 

@@ -244,7 +244,7 @@ Proなら、特定のプロフィール内で、書類の種類ごとの色を�
 
 ## あなたのデータは、あなたの端末に
 
-書類を保管するサーバーなし、アカウントなし、トラッキングなし。Mustafa Hafeezがプライバシーを最優先した設計で開発しました。[プライバシーポリシー](https://traveldocumentvault.com/privacy-policy/)と[検証](https://traveldocumentvault.com/privacy-policy/)のリンクもご覧ください。
+書類を保管するサーバーなし、アカウントなし、トラッキングなし。Mustafa Hafeezがプライバシーを最優先した設計で開発しました。[プライバシーポリシー](https://traveldocumentvault.com/privacy-policy/)と[検証](https://traveldocumentvault.com/ja/privacy-verification/)のリンクもご覧ください。
 
 ### データはあなただけのもの
 

@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/nl/blog/international-driving-permit-val
 
 ---
 
-![Een gezin dat een huurauto inlaadt bij het begin van een roadtrip, met een rijbewijs en internationaal rijbewijs op de opengeslagen kaart ernaast](https://traveldocumentvault.com/blog/international-driving-permit-validity/cover.jpg)
-
 ## Belangrijkste punten
 
 - Een internationaal rijbewijs is **een vertaling van het rijbewijs dat je al hebt**, dus je draagt beide bij je. Alleen het internationale rijbewijs tonen bewijst niets.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/nl/blog/international-driving-permit-val
 - Het Weense internationale rijbewijs wordt **begrensd door je eigen rijbewijs**. Verloopt dat eerder, dan stopt het internationale rijbewijs op die datum, wat er ook op gedrukt staat.
 - Landen hebben verschillende verdragen geratificeerd, dus **een rijbewijs dat in het ene land wordt geaccepteerd, kan in het volgende worden geweigerd**.
 - Paspoort, rijbewijs en internationaal rijbewijs lopen op **drie aparte klokken** die vrijwel nooit gelijk lopen.
+
+![Een gezin dat een huurauto inlaadt bij het begin van een roadtrip, met een rijbewijs en internationaal rijbewijs op de opengeslagen kaart ernaast](https://traveldocumentvault.com/blog/international-driving-permit-validity/cover.jpg)
 
 Een internationaal rijbewijs is een vertaling van het rijbewijs, geen rijbewijs op zichzelf, en het loopt volgens zijn eigen termijn. Veel ervan zijn twaalf maanden geldig vanaf de afgiftedatum, en geen enkel is langer dan drie jaar geldig, dus het exemplaar dat drie zomers geleden voor een reis werd gekocht, is vrijwel zeker verlopen. Verhuurbalies in verschillende landen vragen erom voordat ze een auto meegeven.
 

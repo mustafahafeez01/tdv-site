@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/id/blog/damaged-passport-travel/
 
 ---
 
-![orang tua dan anak di meja check-in maskapai sementara petugas memeriksa paspor emas terbuka dengan halaman yang rusak akibat air](https://traveldocumentvault.com/blog/damaged-passport-travel/cover.jpg)
-
 ## Poin Penting
 
 - **Tidak semua keausan berarti kerusakan.** Sampul yang sedikit lecek masih wajar. Kerusakan akibat air, halaman robek, atau fitur keamanan yang pudar tidak wajar.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/id/blog/damaged-passport-travel/
 - Menemukan kerusakan **beberapa hari atau minggu sebelum** perjalanan memberi Anda waktu untuk mengurus penggantian darurat. Menemukannya sehari sebelum keberangkatan adalah krisis.
 - Jika Anda ditolak di gerbang keberangkatan, **tanyakan kepada kedutaan Anda tentang dokumen perjalanan darurat**.
 - Salinan digital **paling berharga saat Anda berada di luar negeri**, petugas konsuler bisa memastikan identitas Anda dari hasil scan jauh lebih cepat daripada dari penjelasan lisan Anda. Scan paspor Anda sebelum bepergian.
+
+![orang tua dan anak di meja check-in maskapai sementara petugas memeriksa paspor emas terbuka dengan halaman yang rusak akibat air](https://traveldocumentvault.com/blog/damaged-passport-travel/cover.jpg)
 
 Sebagian besar kerusakan paspor hanya bersifat kosmetik. Sampul yang tergores, sudut yang melembek, atau tepi yang sedikit terkelupas di bagian punggung buku — semua itu tidak akan menghalangi siapa pun untuk naik pesawat. Yang benar-benar diperiksa oleh petugas imigrasi dan maskapai jauh lebih sempit dari yang dibayangkan kebanyakan wisatawan: halaman foto, dua baris cetak di bawahnya, dan apakah buku paspor masih utuh sebagai satu dokumen.
 

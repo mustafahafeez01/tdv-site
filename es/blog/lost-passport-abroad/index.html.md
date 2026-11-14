@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/es/blog/lost-passport-abroad/
 
 ---
 
-![Un pasaporte sobre un fondo azul marino real con líneas de ruta de oro tenue y un pequeño alfiler localizador de oro cerca, sugiriendo ayuda para encontrar tu camino a casa](https://traveldocumentvault.com/blog/lost-passport-abroad/cover.jpg)
-
 ## Puntos Clave
 
 - Presenta una denuncia policial pronto —tu asegurador normalmente la pedirá, y algunas embajadas también.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/es/blog/lost-passport-abroad/
 - Una copia de los datos de tu pasaporte puede ayudar a agilizar los trámites, aunque no sirve como identificación.
 - Algunas pólizas de seguro de viaje cubren los costos de reemplazo del pasaporte. Comprueba la tuya y conserva la denuncia policial, que las aseguradoras suelen pedir.
 - El momento para prepararse es ahora, antes de que algo salga mal. Un escaneo de cinco minutos hoy podría ahorrar días de estrés en el extranjero.
+
+![Un pasaporte sobre un fondo azul marino real con líneas de ruta de oro tenue y un pequeño alfiler localizador de oro cerca, sugiriendo ayuda para encontrar tu camino a casa](https://traveldocumentvault.com/blog/lost-passport-abroad/cover.jpg)
 
 Cada día, viajeros de todo el mundo sustituyen su pasaporte perdido en el extranjero, y las embajadas lo tratan como un trámite habitual, no como una emergencia. El proceso sigue un orden concreto, y seguirlo es lo que convierte una mala tarde en un simple retraso en lugar de un viaje cancelado. Esto es lo que hay que hacer, paso a paso.
 

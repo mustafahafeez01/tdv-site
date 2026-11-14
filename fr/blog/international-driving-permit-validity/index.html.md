@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/fr/blog/international-driving-permit-val
 
 ---
 
-![Une famille chargeant une voiture de location au début d'un road trip, un permis de conduire et un permis de conduire international posés sur la carte ouverte à côté d'eux](https://traveldocumentvault.com/blog/international-driving-permit-validity/cover.jpg)
-
 ## Points clés à retenir
 
 - Un PCI est **une traduction du permis que vous possédez déjà**, vous portez donc les deux. Remettre le permis international seul ne prouve rien.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/fr/blog/international-driving-permit-val
 - Le permis de Vienne est **plafonné par votre permis de conduire**. Si celui-ci expire en premier, le PCI cesse d'être utile à cette date, quoi qu'il soit imprimé dessus.
 - Les pays ont ratifié des conventions différentes, donc **un permis accepté dans un pays peut être refusé dans le suivant**.
 - Passeport, permis et PCI suivent **trois horloges distinctes** qui coïncident presque jamais.
+
+![Une famille chargeant une voiture de location au début d'un road trip, un permis de conduire et un permis de conduire international posés sur la carte ouverte à côté d'eux](https://traveldocumentvault.com/blog/international-driving-permit-validity/cover.jpg)
 
 Un permis de conduire international est une traduction du permis, et non un permis à part entière, et il court sur son propre calendrier. Beaucoup sont valables douze mois à compter de la date de délivrance, et aucun ne dépasse trois ans, si bien que celui acheté pour un voyage il y a trois étés est presque certainement périmé. Les comptoirs de location de plusieurs pays le réclament avant de remettre les clés.
 

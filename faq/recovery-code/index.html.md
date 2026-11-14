@@ -36,7 +36,7 @@ If you forget your recovery code, what you can do depends on whether you still h
 Your recovery code is as sensitive as your master password. Store it in one of these ways:
 
 - **Password manager:** Use a password manager you trust.
-- **Physical backup:** Write it on paper and store in a safe, safety deposit box, or secure location at home.
+- **Physical backup:** Write it on paper and store it in a safe, safety deposit box, or secure location at home.
 - **Offline document:** Save to an encrypted external drive or USB (never cloud-synced).
 - **Avoid:** Email, Notes app, unencrypted cloud services, or screenshots.
 

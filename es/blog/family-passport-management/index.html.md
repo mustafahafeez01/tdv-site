@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/es/blog/family-passport-management/
 
 ---
 
-![familia de cuatro caminando hacia una ventana del aeropuerto iluminada por el amanecer, un progenitor sosteniendo un abanico de cuatro pasaportes dorados](https://traveldocumentvault.com/blog/family-passport-management/cover.jpg)
-
 ## Conclusiones Principales
 
 - **Los pasaportes de los niños suelen vencer antes que los de los adultos.** En el Reino Unido tienen una validez de 5 años, así que la fecha de vencimiento del miembro más joven de la familia a menudo marca el límite para tu próximo viaje.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/es/blog/family-passport-management/
 - **Guarda copias digitales en un único lugar cifrado,** con una copia de seguridad física en un lugar seguro al que puedas acceder rápidamente si es necesario.
 - Crea un sistema compartido para realizar un seguimiento de las fechas de vencimiento de todos los miembros de la familia. **Una persona gestionando esto previene renovaciones perdidas.**
 - Para familias con nacionalidad dual, **guarda copias de todos los pasaportes** y entiende cuál usar para cada destino.
+
+![familia de cuatro caminando hacia una ventana del aeropuerto iluminada por el amanecer, un progenitor sosteniendo un abanico de cuatro pasaportes dorados](https://traveldocumentvault.com/blog/family-passport-management/cover.jpg)
 
 Cuando viajas con niños, realizar un seguimiento de cinco pasaportes entre los requisitos de dos países es el tipo de problema que te despierta en medio de la noche. Un progenitor tiene 8 años restantes en el suyo, el otro tiene 7, tu hijo mayor tiene 6 años restantes. Pero el de tu hijo más joven —el que no se quedará quieto el tiempo suficiente para una foto decente— vence en solo 18 meses. Es un sistema que nadie explica hasta que estás de pie en el mostrador de check-in y el agente de la puerta te pregunta en qué pasaporte debe viajar tu hijo de 12 años. Configurar un sistema que sobreviva a este caos comienza con entender por qué las familias a menudo lo hacen mal.
 

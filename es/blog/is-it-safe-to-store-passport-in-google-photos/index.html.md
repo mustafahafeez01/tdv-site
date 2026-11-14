@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/es/blog/is-it-safe-to-store-passport-in-
 
 ---
 
-![Un pasaporte en un fondo azul marino profundo protegido por un escudo suave de oro, sugiriendo almacenamiento de documentos privado y seguro](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/cover.jpg)
-
 ## Puntos clave
 
 - Almacenar una foto del pasaporte en Google Photos significa que tu documento de identidad vive en los servidores de Google, se procesa por sus sistemas, y está protegido solo por tu seguridad de cuenta.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/es/blog/is-it-safe-to-store-passport-in-
 - La política de privacidad de Google indica que utiliza sistemas automatizados para analizar tu contenido y ofrecer y mejorar sus servicios, y un escaneo del pasaporte se almacena como cualquier otra foto.
 - Existen mejores opciones: gestores de contraseñas cifrados, aplicaciones cifradas en el dispositivo, o almacenamiento en la nube cifrado del lado del cliente —ninguno de los cuales pone tu pasaporte en una biblioteca de fotos general.
 - Para la mayoría de las personas, el riesgo real no es Google —es la seguridad débil de la cuenta y quién más puede acceder a esa cuenta.
+
+![Un pasaporte en un fondo azul marino profundo protegido por un escudo suave de oro, sugiriendo almacenamiento de documentos privado y seguro](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/cover.jpg)
 
 Mucha gente almacena fotos del pasaporte en Google Photos sin pensarlo dos veces. Necesitas una copia, tomas una foto, se crea automáticamente una copia de seguridad. Listo. La pregunta de si eso es realmente una decisión inteligente para tu documento de identidad más sensible rara vez surge —hasta que algo sale mal.
 

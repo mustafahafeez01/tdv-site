@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/it/blog/transit-visa-connecting-flights/
 
 ---
 
-![Una famiglia in un terminal aeroportuale che controlla i documenti di viaggio prima di imbarcarsi su un volo in coincidenza](https://traveldocumentvault.com/blog/transit-visa-connecting-flights/cover.jpg)
-
 ## Punti chiave
 
 - **Non tutti i voli in coincidenza richiedono un visto di transito.** Molto dipende dal fatto che tu resti airside (nella zona di transito internazionale) o lasci l'aeroporto.
@@ -16,6 +14,8 @@ Source: https://traveldocumentvault.com/it/blog/transit-visa-connecting-flights/
 - **Gli scali solo airside sono spesso senza obbligo di visto**, mentre gli scali in cui esci dall'aeroporto o passi per l'immigrazione spesso richiedono un visto, a seconda della tua nazionalità.
 - Se ti accorgi di aver bisogno di un visto di transito dopo aver prenotato, contatta subito la tua compagnia aerea — i tempi di elaborazione variano molto e potresti dover riprenotare.
 - **Conserva e tieni traccia di ogni documento** — il tuo visto di transito ha una propria data di scadenza, separata da quella del passaporto e del visto di ingresso principale.
+
+![Una famiglia in un terminal aeroportuale che controlla i documenti di viaggio prima di imbarcarsi su un volo in coincidenza](https://traveldocumentvault.com/blog/transit-visa-connecting-flights/cover.jpg)
 
 Se un volo in coincidenza richiede un visto di transito dipende da tre cose: quale passaporto possiedi, in quale paese atterra il tuo aereo, e se lasci l'aeroporto oppure rimani nella zona di transito internazionale. La maggior parte degli scali non richiede alcun visto di transito. Ma dove il requisito esiste, è rigido — e le compagnie aeree generalmente lo controllano prima dell’imbarco.
 

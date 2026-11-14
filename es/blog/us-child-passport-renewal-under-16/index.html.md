@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/es/blog/us-child-passport-renewal-under-
 
 ---
 
-![Dos progenitores y un menor vistos de espaldas, caminando de la mano hacia una puerta abierta, uno de ellos sujetando el pasaporte del menor](https://traveldocumentvault.com/blog/us-child-passport-renewal-under-16/cover.jpg)
-
 ## Puntos clave
 
 - El pasaporte de un menor estadounidense emitido antes de los 16 años **no se puede renovar**: hay que solicitar uno nuevo.
@@ -16,6 +14,8 @@ Source: https://traveldocumentvault.com/es/blog/us-child-passport-renewal-under-
 - Deben participar ambos progenitores, salvo que uno presente un **consentimiento escrito notariado** o haya prueba de autoridad exclusiva.
 - A los 16 o 17 años, el adolescente solicita el pasaporte en persona y puede firmar su propia solicitud, aunque un progenitor puede seguir teniendo que dar su consentimiento.
 - Un pasaporte emitido a los 16 años o más es válido durante diez años y por lo general puede renovarse como el de un adulto.
+
+![Dos progenitores y un menor vistos de espaldas, caminando de la mano hacia una puerta abierta, uno de ellos sujetando el pasaporte del menor](https://traveldocumentvault.com/blog/us-child-passport-renewal-under-16/cover.jpg)
 
 El pasaporte estadounidense emitido a un menor de 16 años no se puede renovar. Cuando caduca, se solicita uno nuevo en persona, igual que la primera vez, y ambos progenitores vuelven a participar. Supone algo más de papeleo que la renovación de un adulto, pero nada nuevo si ya se ha hecho antes.
 

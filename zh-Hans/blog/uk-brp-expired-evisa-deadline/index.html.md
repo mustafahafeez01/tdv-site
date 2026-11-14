@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/uk-brp-expired-evisa-deadli
 
 ---
 
-![一位家长和两个孩子站在阳光洒落的窗边，她的手轻轻放在窗台上一小叠护照上](https://traveldocumentvault.com/blog/uk-brp-expired-evisa-deadline/cover.jpg)
-
 ## 关键要点
 
 - 大多数BRP已过期的人只需要**创建一个UKVI账户**，而这张卡片在一段时间内仍可以帮你完成这一步。
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/uk-brp-expired-evisa-deadli
 - 没有可用的卡片？有效护照加签证申请编号或BRP编号，同样可以帮你完成创建。
 - 每个孩子都需要**自己的账户**，父母可以用自己的电话和邮箱来管理它。
 - 要旅行，你搭乘航班所用的护照必须已添加到UKVI账户中，且信息要与预订信息一致。
+
+![一位家长和两个孩子站在阳光洒落的窗边，她的手轻轻放在窗台上一小叠护照上](https://traveldocumentvault.com/blog/uk-brp-expired-evisa-deadline/cover.jpg)
 
 如果你持有已过期的生物特征居留许可（BRP, Biometric Residence Permit）且仍有居留许可，GOV.UK 要求你创建一个UK Visas and Immigration（UKVI）账户，并用这张卡片证明身份。这件事一次就能办完，而过期的卡片至少在一段时间内仍然可以用来做这件事。你的移民身份并没有改变，改变的只是它现在存放的位置。
 

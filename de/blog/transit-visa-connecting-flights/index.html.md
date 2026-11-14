@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/de/blog/transit-visa-connecting-flights/
 
 ---
 
-![Eine Familie im Flughafenterminal prüft ihre Reisedokumente vor dem Anschlussflug](https://traveldocumentvault.com/blog/transit-visa-connecting-flights/cover.jpg)
-
 ## Wichtigste Erkenntnisse
 
 - **Nicht jeder Anschlussflug erfordert ein Transitvisum.** Vieles hängt davon ab, ob Sie im Airside-Bereich bleiben (in der internationalen Transitzone) oder den Flughafen verlassen.
@@ -16,6 +14,8 @@ Source: https://traveldocumentvault.com/de/blog/transit-visa-connecting-flights/
 - **Reine Airside-Zwischenstopps sind oft visumfrei**, während Zwischenstopps, bei denen Sie den Flughafen verlassen oder durch die Einreisekontrolle gehen, je nach Ihrer Staatsangehörigkeit häufig ein Visum erfordern.
 - Wenn Sie erst nach der Buchung merken, dass Sie ein Transitvisum brauchen, wenden Sie sich sofort an Ihre Fluggesellschaft - die Bearbeitungszeiten variieren stark, und eine Umbuchung kann nötig sein.
 - **Speichern und verfolgen Sie jedes Dokument** - Ihr Transitvisum hat ein eigenes Ablaufdatum, unabhängig von Ihrem Reisepass und Ihrem Hauptvisum.
+
+![Eine Familie im Flughafenterminal prüft ihre Reisedokumente vor dem Anschlussflug](https://traveldocumentvault.com/blog/transit-visa-connecting-flights/cover.jpg)
 
 Ob ein Anschlussflug ein Transitvisum erfordert, hängt von drei Dingen ab: welchen Reisepass Sie besitzen, in welchem Land Ihr Flugzeug landet, und ob Sie den Flughafen verlassen oder im internationalen Transitbereich bleiben. Für die meisten Zwischenstopps ist überhaupt kein Transitvisum erforderlich. Doch wo eine Pflicht besteht, gilt sie strikt - und Fluggesellschaften prüfen das in der Regel vor dem Boarding.
 

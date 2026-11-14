@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/nl/blog/passport-photo-at-home/
 
 ---
 
-![een vader fotografeert zijn jonge zoon tegen een effen muur in raamlicht, met een uitgeprint vel paspoortfoto's op tafel voor hen](https://traveldocumentvault.com/blog/passport-photo-at-home/cover.jpg)
-
 ## Belangrijkste punten
 
 - Gebruik een effen, lichte achtergrond in de kleur die je instantie voorschrijft, een neutrale gezichtsuitdrukking, en ogen open en recht vooruit kijkend, met uitzonderingen voor jonge kinderen
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/nl/blog/passport-photo-at-home/
 - Natuurlijk raamlicht werkt het best – vermijd harde schaduwen en gebruik geen cameraflits
 - Veel instanties, waaronder de Britse, vragen je geen bril te dragen tenzij het niet anders kan – controleer de actuele eisen
 - Foto's kunnen worden afgewezen als ze niet voldoen aan de regels van je instantie voor belichting, afmetingen, gezichtsuitdrukking, scherpte of achtergrond
+
+![een vader fotografeert zijn jonge zoon tegen een effen muur in raamlicht, met een uitgeprint vel paspoortfoto's op tafel voor hen](https://traveldocumentvault.com/blog/passport-photo-at-home/cover.jpg)
 
 Volgens GOV.UK hebben foto's uit een fotohokje of winkel meer kans op goedkeuring dan foto's die je met je eigen toestel maakt. Foto's kunnen worden afgewezen als ze niet voldoen aan de regels van je instantie voor belichting, afmetingen, gezichtsuitdrukking, scherpte of achtergrond.
 

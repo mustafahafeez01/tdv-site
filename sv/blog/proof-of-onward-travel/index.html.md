@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/sv/blog/proof-of-onward-travel/
 
 ---
 
-![En förälder och ett barn vid ett flygplatsfönster håller i ett pass med en resebiljett instoppad, och blickar ut mot ett flygplan inför en resa](https://traveldocumentvault.com/blog/proof-of-onward-travel/cover.jpg)
-
 ## Viktiga punkter
 
 - **Bevis på vidare resa betyder oftast en bokad biljett ut ur landet du reser till,** antingen hem eller vidare till ett land du har rätt att resa in i.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/sv/blog/proof-of-onward-travel/
 - Vissa resmål skriver in krav på vidare resa i sina inresebestämmelser för besökare, så när flygbolaget frågar tillämpar det ofta resmålets regel i förväg.
 - En hotellbokning eller ett kontoutdrag besvarar andra frågor, var du ska bo och hur du ska klara dig ekonomiskt, och ersätter i allmänhet inte en biljett ut.
 - Förvara bekräftelsen någonstans du kan öppna den vid disken utan signal eller inloggning.
+
+![En förälder och ett barn vid ett flygplatsfönster håller i ett pass med en resebiljett instoppad, och blickar ut mot ett flygplan inför en resa](https://traveldocumentvault.com/blog/proof-of-onward-travel/cover.jpg)
 
 I de flesta fall är bevis på vidare resa en bokad biljett ut ur landet du reser till. En returflygning hem räknas, och det gör även en biljett vidare till ett tredje land du har rätt att resa in i. Har du redan en av dessa har du vanligtvis det som efterfrågas.
 

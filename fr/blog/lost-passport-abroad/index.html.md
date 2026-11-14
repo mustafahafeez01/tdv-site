@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/fr/blog/lost-passport-abroad/
 
 ---
 
-![Un passeport sur un fond bleu marine avec de légères routes dorées et une petite épingle de localisateur dorée à proximité, suggérant l'aide pour trouver votre chemin vers la maison](https://traveldocumentvault.com/blog/lost-passport-abroad/cover.jpg)
-
 ## Points clés
 
 - Déposez un rapport de police dès que possible — votre assureur le demandera généralement, et certaines ambassades aussi.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/fr/blog/lost-passport-abroad/
 - Une copie des informations de votre passeport peut faciliter les démarches, mais elle ne peut pas servir de pièce d'identité.
 - Certaines assurances voyage couvrent les frais de remplacement du passeport. Vérifiez votre contrat et conservez le rapport de police, souvent demandé par les assureurs.
 - Le moment de vous préparer, c'est maintenant, avant que quelque chose n'aille mal. Une numérisation de cinq minutes aujourd'hui pourrait vous économiser des jours de stress à l'étranger.
+
+![Un passeport sur un fond bleu marine avec de légères routes dorées et une petite épingle de localisateur dorée à proximité, suggérant l'aide pour trouver votre chemin vers la maison](https://traveldocumentvault.com/blog/lost-passport-abroad/cover.jpg)
 
 Chaque jour, des voyageurs font remplacer leur passeport perdu à l'étranger, et les ambassades traitent cela comme une démarche courante plutôt que comme une urgence. La procédure suit un ordre précis, et le respecter est ce qui transforme un mauvais après-midi en simple retard plutôt qu'en voyage annulé. Voici la marche à suivre, étape par étape.
 

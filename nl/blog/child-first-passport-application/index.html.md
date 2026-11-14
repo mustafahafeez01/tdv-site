@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/nl/blog/child-first-passport-application
 
 ---
 
-![Een ouder van achteren gezien bij een licht raam, met een baby op één schouder, die één goudkleurig paspoortboekje omhooghoudt](https://traveldocumentvault.com/blog/child-first-passport-application/cover.jpg)
-
 ## Belangrijkste punten
 
 - **Toestemming om aan te vragen is iets anders dan toestemming om te reizen.** De regels verschillen per land: in het VK tekent bijvoorbeeld iemand met ouderlijk gezag het formulier en geef je de gegevens van beide ouders op, terwijl andere landen toestemming van beide ouders vragen. Controleer dit bij je eigen paspoortinstantie.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/nl/blog/child-first-passport-application
 - **Voor babyfoto's op een paspoort gelden specifieke regels.** De meeste instanties willen open ogen die naar de camera kijken (GOV.UK verzacht dit voor kinderen onder één jaar en onder zes jaar), zonder speen, speelgoed of handen van anderen in beeld – en de achtergrond achter het hoofd van het kind moet effen en onbelemmerd zijn.
 - **Controleer alles zodra het paspoort binnenkomt.** Spelling, namen van de ouders waar die vermeld staan, vervaldatum – vooral omdat paspoorten van kinderen vaak eerder verlopen dan die van volwassenen ([een Brits kinderpaspoort is 5 jaar geldig](https://www.gov.uk/get-a-child-passport)).
 - **In landen die toestemming van beide ouders vragen, kan één ouder doorgaans niet alleen tekenen, tenzij er een gerechtelijk bevel is, sprake is van exclusief ouderlijk gezag, of de andere ouder is overleden.** Is dit jouw situatie, dan heeft je paspoortinstantie hiervoor een specifieke procedure.
+
+![Een ouder van achteren gezien bij een licht raam, met een baby op één schouder, die één goudkleurig paspoortboekje omhooghoudt](https://traveldocumentvault.com/blog/child-first-passport-application/cover.jpg)
 
 Je regelt het eerste paspoort van je kind maar één keer – dat betekent dat je de regels kunt leren kennen voordat het zover is, in plaats van ze pas aan de balie te ontdekken. De aanvraag zelf is eenvoudig, maar de toestemmingsregels en de fotovereisten verschillen per land, en een kleine fout aan het begin betekent een afgewezen aanvraag en een uitgestelde reis.
 

@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/sv/blog/us-child-passport-renewal-under-
 
 ---
 
-![Två föräldrar och ett barn sedda bakifrån, går hand i hand mot en öppen dörr, en förälder håller barnets pass](https://traveldocumentvault.com/blog/us-child-passport-renewal-under-16/cover.jpg)
-
 ## Viktiga punkter
 
 - Ett amerikanskt barnpass utfärdat före 16 år **kan inte förnyas** - du ansöker om ett nytt istället.
@@ -16,6 +14,8 @@ Source: https://traveldocumentvault.com/sv/blog/us-child-passport-renewal-under-
 - Båda föräldrarna måste delta, om inte en ger **skriftligt samtycke med bevittnad underskrift** eller det finns bevis på ensam vårdnad.
 - Vid 16 eller 17 år ansöker tonåringen personligen och kan skriva under sin egen ansökan, men en förälder kan fortfarande behöva ge sitt samtycke.
 - Ett pass utfärdat vid 16 år eller äldre är giltigt i tio år och kan oftast förnyas som en vuxens.
+
+![Två föräldrar och ett barn sedda bakifrån, går hand i hand mot en öppen dörr, en förälder håller barnets pass](https://traveldocumentvault.com/blog/us-child-passport-renewal-under-16/cover.jpg)
 
 Ett amerikanskt pass som utfärdas till ett barn under 16 år kan inte förnyas. När det går ut ansöker du om ett nytt personligen, på samma sätt som första gången, och båda föräldrarna deltar igen. Det är mer pappersarbete än en vuxenförnyelse, men inget av det är nytt om du har gjort det en gång förut.
 

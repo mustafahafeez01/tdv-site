@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/it/blog/travel-insurance-documents/
 
 ---
 
-![genitore e figlio stanco seduti in una tranquilla sala d'attesa della clinica di notte, il genitore legge serenamente la polizza assicurativa sullo schermo luminoso del telefono](https://traveldocumentvault.com/blog/travel-insurance-documents/cover.jpg)
-
 ## Punti chiave
 
 - **Salva tutti i documenti della polizza, il numero di polizza e il numero di assistenza di emergenza** (non il numero commerciale).
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/it/blog/travel-insurance-documents/
 - **Informati su quando la compagnia richiede di essere contattata prima delle cure**; in un’emergenza medica, chiama prima i soccorsi e contatta l’assicuratore appena possibile.
 - Conserva ricevute e verbali e chiedi alla compagnia quali documenti servono per una richiesta di rimborso.
 - Dai una lettura veloce alle sezioni chiave della tua polizza: limiti di copertura, esclusioni e condizioni.
+
+![genitore e figlio stanco seduti in una tranquilla sala d'attesa della clinica di notte, il genitore legge serenamente la polizza assicurativa sullo schermo luminoso del telefono](https://traveldocumentvault.com/blog/travel-insurance-documents/cover.jpg)
 
 Noi salveremmo i documenti dell’assicurazione di viaggio offline e prepareremmo una copia cartacea prima di partire, tenendo insieme il numero di polizza, il certificato di copertura e il numero di assistenza di emergenza. Qui vediamo cosa salvare, come provare l’accesso offline e come leggere le istruzioni per il rimborso, senza dimenticare gli orari del servizio di assistenza.
 

@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/ko/blog/transit-visa-connecting-flights/
 
 ---
 
-![공항 터미널에서 연결 항공편 탑승 전 여행 서류를 확인하는 가족](https://traveldocumentvault.com/blog/transit-visa-connecting-flights/cover.jpg)
-
 ## 주요 내용 요약
 
 - **모든 경유편에 환승 비자가 필요한 것은 아닙니다.** 대부분 에어사이드(국제 환승 구역)에 머무르는지, 아니면 공항을 벗어나는지에 달려 있습니다.
@@ -16,6 +14,8 @@ Source: https://traveldocumentvault.com/ko/blog/transit-visa-connecting-flights/
 - **에어사이드로만 이루어지는 경유는 대부분 비자가 필요 없지만**, 공항을 벗어나거나 출입국 심사를 거치는 경유는 국적에 따라 비자가 필요한 경우가 많습니다.
 - 예약 후 환승 비자가 필요하다는 것을 알게 되면 즉시 항공사에 연락하세요. 처리 기간은 크게 다르며 재예약이 필요할 수 있습니다.
 - **모든 서류를 저장하고 추적하세요.** 환승 비자는 여권 및 주 목적지 입국 비자와는 별개의 만료일을 가집니다.
+
+![공항 터미널에서 연결 항공편 탑승 전 여행 서류를 확인하는 가족](https://traveldocumentvault.com/blog/transit-visa-connecting-flights/cover.jpg)
 
 경유편에 환승 비자가 필요한지는 세 가지에 달려 있습니다. 어떤 여권을 가지고 있는지, 비행기가 어느 국가에 착륙하는지, 그리고 공항을 벗어나는지 아니면 국제 환승 구역에 머무르는지입니다. 대부분의 경유는 환승 비자가 전혀 필요하지 않습니다. 하지만 요건이 존재하는 경우에는 엄격하게 적용되며, 항공사는 대체로 탑승 전에 이를 확인합니다.
 

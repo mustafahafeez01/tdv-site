@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/de/blog/travel-insurance-documents/
 
 ---
 
-![Elternteil und verschlafenes Kind sitzen in einem stillen Wartezimmer der Klinik, das Elternteil liest ruhig die Versicherungspolice auf dem leuchtenden Bildschirm des Telefons](https://traveldocumentvault.com/blog/travel-insurance-documents/cover.jpg)
-
 ## Wichtigste Erkenntnisse
 
 - **Speichern Sie Ihre vollständigen Versicherungsunterlagen, Ihre Versicherungsnummer und die Nummer der Notfallassistenz** (nicht die Vertriebsnummer).
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/de/blog/travel-insurance-documents/
 - **Klären Sie, wann Ihr Versicherer vor einer Behandlung kontaktiert werden muss**; holen Sie in einem medizinischen Notfall zuerst Hilfe und kontaktieren Sie den Versicherer so bald wie möglich.
 - Bewahren Sie Belege und Berichte auf und fragen Sie Ihren Versicherer, welche Unterlagen er für eine Schadenmeldung benötigt.
 - Lesen Sie die wichtigsten Abschnitte Ihrer Versicherung schnell durch, indem Sie sich auf Deckungsgrenzen, Ausschlüsse und Bedingungen konzentrieren.
+
+![Elternteil und verschlafenes Kind sitzen in einem stillen Wartezimmer der Klinik, das Elternteil liest ruhig die Versicherungspolice auf dem leuchtenden Bildschirm des Telefons](https://traveldocumentvault.com/blog/travel-insurance-documents/cover.jpg)
 
 Wir würden vor der Abreise die Reiseversicherungsunterlagen offline speichern und eine Papierkopie einpacken. Halten Sie Versicherungsnummer, Versicherungsnachweis und die Nummer der Notfallassistenz zusammen bereit. Hier geht es darum, was Sie speichern sollten, wie Sie den Offline-Zugriff testen und die Hinweise zur Schadenmeldung lesen – einschließlich der Erreichbarkeitszeiten der Notfallassistenz.
 

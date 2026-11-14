@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/ko/blog/proof-of-onward-travel/
 
 ---
 
-![여행을 떠나기 전 공항 창가에서 여권과 그 사이에 끼운 항공권을 들고 비행기를 바라보는 부모와 아이](https://traveldocumentvault.com/blog/proof-of-onward-travel/cover.jpg)
-
 ## 주요 내용 요약
 
 - **출국 예정 증빙은 대개 목적지에서 나가는, 이미 예약된 티켓을 의미합니다.** 본국으로 돌아가는 티켓이든, 입국이 허용되는 나라로 향하는 티켓이든 상관없습니다.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/ko/blog/proof-of-onward-travel/
 - 일부 목적지는 출국 예정 증빙을 방문객 입국 규정에 포함시켜 두므로, 항공사가 이를 묻는 것은 흔히 목적지의 규정을 미리 적용하는 것일 뿐입니다.
 - 호텔 예약이나 은행 거래 내역서는 어디에 머무를지, 비용을 어떻게 감당할지와 같은 다른 질문에 답하는 자료이며, 보통 출국 티켓을 대신하지는 못합니다.
 - 확인서는 신호나 로그인 없이도 카운터에서 바로 열어볼 수 있는 곳에 보관하세요.
+
+![여행을 떠나기 전 공항 창가에서 여권과 그 사이에 끼운 항공권을 들고 비행기를 바라보는 부모와 아이](https://traveldocumentvault.com/blog/proof-of-onward-travel/cover.jpg)
 
 출국 예정 증빙은 대부분의 경우 목적지에서 나가는, 이미 예약된 티켓을 의미합니다. 본국으로 돌아가는 귀국 항공권도 해당되고, 입국이 허용되는 제3국으로 향하는 티켓도 마찬가지입니다. 이미 그런 티켓을 가지고 있다면, 보통 요구받는 것을 이미 충족한 셈입니다.
 

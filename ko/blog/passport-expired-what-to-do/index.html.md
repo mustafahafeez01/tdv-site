@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/ko/blog/passport-expired-what-to-do/
 
 ---
 
-![로열 네이비 배경에 평평하게 누워있는 단일 여권과 명확한 다음 단계를 시사하는 부드러운 금색 화살표가 앞으로 구부러져 있음](https://traveldocumentvault.com/blog/passport-expired-what-to-do/cover.jpg)
-
 ## 핵심 요점
 
 - 두 가지 서로 다른 시나리오가 있습니다: **여행 전 집에서** 여권이 만료되었음을 발견하는 것과 **공항에서** 발견하는 것. 각 상황의 단계는 다릅니다.
@@ -16,6 +14,8 @@ Source: https://traveldocumentvault.com/ko/blog/passport-expired-what-to-do/
 - 공항에서는 먼저 항공사에 연락하세요. 변경 수수료 없이 다시 예약해 줄 수 있는지 물어보세요.
 - 앞으로의 해결책은 6개월 알림이 아니라 12개월 만료 알림입니다. 이것이 신속 처리 비용을 지불하지 않고 표준 처리로 갱신할 충분한 시간을 제공합니다.
 - 만료는 여행자를 거부당하게 하는 유일한 여권 문제가 아닙니다. 손상, 이름 불일치, 서명 누락, 목적지의 유효성 부족도 모두 같은 결과를 초래합니다.
+
+![로열 네이비 배경에 평평하게 누워있는 단일 여권과 명확한 다음 단계를 시사하는 부드러운 금색 화살표가 앞으로 구부러져 있음](https://traveldocumentvault.com/blog/passport-expired-what-to-do/cover.jpg)
 
 여권이 만료되었음을 알게 되는 것은 시간이 갑자기 현실이 되는 순간입니다. 여행 3개월 전에 발견하든 지금 공항 체크인 데스크에 있든 그 다음에 일어나는 일은 전적으로 어떤 상황에 있는지에 달려 있습니다.
 

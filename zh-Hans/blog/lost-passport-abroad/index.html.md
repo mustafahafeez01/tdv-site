@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/lost-passport-abroad/
 
 ---
 
-![皇家海军蓝色背景上的护照，配有淡金色路线线和附近的小金色定位针，暗示帮助您找到回家的路](https://traveldocumentvault.com/blog/lost-passport-abroad/cover.jpg)
-
 ## 关键要点
 
 - 尽早提交警方报告——您的保险公司通常会需要它，一些使领馆也会要求。
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/lost-passport-abroad/
 - 一份护照信息的副本有助于加快办理，但它不能当作身份证明使用。
 - 有些旅行保险单涵盖护照更换费用。请查看您的保单，并保留警方报告，保险公司通常会要求提供。
 - 现在是做准备的时候，在任何问题发生之前。今天五分钟的扫描可以在国外节省数天的压力。
+
+![皇家海军蓝色背景上的护照，配有淡金色路线线和附近的小金色定位针，暗示帮助您找到回家的路](https://traveldocumentvault.com/blog/lost-passport-abroad/cover.jpg)
 
 每天都有人在国外丢失护照后重新补办，使领馆把这当作常规工作来处理，而不是紧急事件。整个流程有固定的先后顺序，按这个顺序走，能让一个糟糕的下午变成一次延误，而不是行程取消。下面就是具体该怎么做，一步一步来。
 

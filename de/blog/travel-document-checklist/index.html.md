@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/de/blog/travel-document-checklist/
 
 ---
 
-![Ein Reisepass und Reisekarten zusammengehalten mit einem schmalen Goldband auf königsblauem Hintergrund, alles gesammelt für die Reise](https://traveldocumentvault.com/blog/travel-document-checklist/cover.jpg)
-
 ## Wichtigste Erkenntnisse
 
 - Die nützlichste Reisedokument-Checkliste ist nach **Zeitpunkt der Handlung** organisiert – nicht nach Dokumenttyp. Die Sortierung nach Reisestadien bedeutet, dass Sie Probleme fangen, während noch Zeit bleibt, sie zu beheben.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/de/blog/travel-document-checklist/
 - Familienreisen bringen eine zusätzliche Ebene: Jedes Kind braucht eine individuelle Überprüfung, und eine elterliche Zustimmungserklärung kann erforderlich sein, wenn ein Elternteil nicht mitreist.
 - Geschäftsreisende tragen oft mehrere Pässe und Visa – diese benötigen separate Verfolgung, getrennt von persönlichen Dokumenten.
 - Eine digitale Sicherung jedes Dokuments (verschlüsselt, nicht in Ihrer Fotobibliothek) könnte Sie schneller nach Hause bringen, falls etwas im Ausland schiefgeht.
+
+![Ein Reisepass und Reisekarten zusammengehalten mit einem schmalen Goldband auf königsblauem Hintergrund, alles gesammelt für die Reise](https://traveldocumentvault.com/blog/travel-document-checklist/cover.jpg)
 
 Die meisten Reisedokument-Checklisten sind nur eine flache Liste: Reisepass, Visum, Versicherung. Sie sagen Ihnen, was Sie mitnehmen, aber nicht, wann Sie es überprüfen – und genau da werden Menschen überrascht. Die Familie, die beim Check-in feststellt, dass ein Pass in fünf Monaten abläuft, der Solo-Reisende, der buchte, ohne die Visaanforderung zu beachten, oder der Geschäftsreisende, der vergaß, an welchen Pass sein Visum gebunden ist – dies sind keine Sonderfälle, sondern die Regel.
 

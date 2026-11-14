@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/sv/blog/is-it-safe-to-store-passport-in-
 
 ---
 
-![Ett pass mot en djupt marinblå bakgrund, skyddat av en mjuk guldsköld, som symboliserar privat och säker dokumentförvaring](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/cover.jpg)
-
 ## Viktiga punkter
 
 - Att spara en passkopia i Google Foto innebär att din identitetshandling ligger på Googles servrar, bearbetas av deras system och skyddas enbart av din kontosäkerhet.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/sv/blog/is-it-safe-to-store-passport-in-
 - Googles integritetspolicy säger att automatiserade system används för att analysera ditt innehåll för att tillhandahålla och förbättra tjänsterna, och en passkopia lagras som vilket annat foto som helst.
 - Det finns bättre alternativ: krypterade lösenordshanterare, krypterade appar på enheten eller molnlagring med klientsidig kryptering – inget av dem dumpar passet i ett vanligt fotobibliotek.
 - För de flesta är den verkliga risken en svag kontosäkerhet, inte Google i sig: ett återanvänt lösenord, ett delat konto, eller någon annan som redan vet hur man kommer in.
+
+![Ett pass mot en djupt marinblå bakgrund, skyddat av en mjuk guldsköld, som symboliserar privat och säker dokumentförvaring](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/cover.jpg)
 
 Många människor sparar passkopior i Google Foto utan att tänka efter: du behöver en kopia, du tar en bild, och den säkerhetskopieras automatiskt. Frågan om det verkligen är ett smart val för din känsligaste identitetshandling dyker sällan upp förrän något går fel.
 

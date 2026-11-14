@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/fr/blog/transit-visa-connecting-flights/
 
 ---
 
-![Un groupe familial dans un terminal d'aéroport consultant ses documents de voyage avant d'embarquer sur un vol de correspondance](https://traveldocumentvault.com/blog/transit-visa-connecting-flights/cover.jpg)
-
 ## Points clés à retenir
 
 - **Toutes les correspondances n'exigent pas de visa de transit.** Cela dépend souvent du fait que vous restiez en zone internationale ou que vous sortiez de l'aéroport.
@@ -16,6 +14,8 @@ Source: https://traveldocumentvault.com/fr/blog/transit-visa-connecting-flights/
 - **Les escales limitées à la zone internationale ne nécessitent souvent aucun visa**, tandis que celles où vous quittez l'aéroport ou passez par l'immigration en exigent souvent un, selon votre nationalité.
 - Si vous découvrez après réservation que vous avez besoin d'un visa de transit, contactez votre compagnie aérienne sans attendre - les délais de traitement varient énormément et vous devrez peut-être changer vos vols.
 - **Conservez et suivez chaque document** - votre visa de transit a sa propre date d'expiration, distincte de celle de votre passeport et de votre visa d'entrée principal.
+
+![Un groupe familial dans un terminal d'aéroport consultant ses documents de voyage avant d'embarquer sur un vol de correspondance](https://traveldocumentvault.com/blog/transit-visa-connecting-flights/cover.jpg)
 
 Le besoin ou non d'un visa de transit pour une correspondance dépend de trois éléments : le passeport que vous détenez, le pays où votre avion atterrit, et le fait que vous quittiez l'aéroport ou restiez dans la zone de transit international. La plupart des escales ne nécessitent aucun visa de transit. Mais lorsque l'exigence existe, elle est ferme - et les compagnies aériennes la vérifient généralement avant l'embarquement.
 

@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/es/blog/transit-visa-connecting-flights/
 
 ---
 
-![Un grupo familiar en una terminal de aeropuerto revisando sus documentos de viaje antes de embarcar en un vuelo de conexión](https://traveldocumentvault.com/blog/transit-visa-connecting-flights/cover.jpg)
-
 ## Puntos Clave
 
 - **No todos los vuelos de conexión requieren visado de tránsito.** Muchos dependen de si te quedas en el lado aire (la zona de tránsito internacional) o sales del aeropuerto.
@@ -16,6 +14,8 @@ Source: https://traveldocumentvault.com/es/blog/transit-visa-connecting-flights/
 - **Las escalas que no salen del lado aire suelen no requerir visado**, mientras que las escalas en las que sales del aeropuerto o pasas por inmigración a menudo lo exigen, según tu nacionalidad.
 - Si te das cuenta de que necesitas un visado de tránsito después de reservar, contacta con tu aerolínea de inmediato —los plazos de tramitación varían mucho y puede que tengas que cambiar tus vuelos.
 - **Guarda y controla cada documento** —tu visado de tránsito tiene su propia fecha de caducidad, independiente de tu pasaporte y tu visado de entrada principal.
+
+![Un grupo familiar en una terminal de aeropuerto revisando sus documentos de viaje antes de embarcar en un vuelo de conexión](https://traveldocumentvault.com/blog/transit-visa-connecting-flights/cover.jpg)
 
 Que un vuelo de conexión necesite visado de tránsito depende de tres cosas: qué pasaporte tienes, en qué país aterriza tu avión, y si sales del aeropuerto o te quedas en la zona de tránsito internacional. La mayoría de las escalas no necesitan ningún visado de tránsito. Pero donde el requisito existe, es firme —y las aerolíneas por lo general lo comprueban antes de embarcar.
 

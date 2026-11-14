@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/fr/blog/child-travel-consent-letter/
 
 ---
 
-![Une lettre de consentement couleur crème et le passeport d'un petit enfant attachés ensemble avec un ruban doré sur un fond bleu marine royal](https://traveldocumentvault.com/blog/child-travel-consent-letter/cover.jpg)
-
 ## Points clés
 
 - Les exigences varient considérablement selon le pays. **Une lettre qui fonctionne pour une destination peut ne pas être acceptée ailleurs.**
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/fr/blog/child-travel-consent-letter/
 - La lettre inclut généralement le nom complet de l'enfant, sa date de naissance, son numéro de passeport, les dates exactes du voyage, les destinations et les coordonnées du parent absent.
 - Les rejets courants proviennent d'informations manquantes, du manque de notarisation ou de signatures dépassées.
 - Portez une copie imprimée comme document principal et conservez une sauvegarde numérique chiffrée pour les urgences.
+
+![Une lettre de consentement couleur crème et le passeport d'un petit enfant attachés ensemble avec un ruban doré sur un fond bleu marine royal](https://traveldocumentvault.com/blog/child-travel-consent-letter/cover.jpg)
 
 Une lettre de consentement remplit une seule fonction au comptoir d'enregistrement : elle montre que l'adulte qui voyage avec un enfant a l'accord du parent absent. La plupart sont acceptées sans commentaire.
 

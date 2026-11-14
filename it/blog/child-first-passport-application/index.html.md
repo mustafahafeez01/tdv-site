@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/it/blog/child-first-passport-application
 
 ---
 
-![Un genitore ripreso di spalle davanti a una finestra luminosa, con il neonato appoggiato su una spalla, che tiene in alto un libretto del passaporto dorato](https://traveldocumentvault.com/blog/child-first-passport-application/cover.jpg)
-
 ## Punti Chiave
 
 - **Il consenso per fare domanda è diverso dal consenso per viaggiare.** Le regole cambiano da paese a paese: nel Regno Unito, ad esempio, firma una persona con responsabilità genitoriale e si indicano i dati di entrambi i genitori; altri paesi chiedono il consenso di entrambi. Controlla con il tuo ufficio passaporti.
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/it/blog/child-first-passport-application
 - **Le foto passaporto dei neonati hanno regole specifiche.** La maggior parte delle autorità chiede occhi aperti e rivolti verso la fotocamera (GOV.UK fa eccezione per i bambini sotto un anno e sotto i 6 anni), senza ciucci, giocattoli o mani di altre persone in vista. Lo sfondo dietro la testa del bambino deve essere semplice e libero.
 - **Controlla tutto appena arriva.** Ortografia, nomi dei genitori dove compaiono, data di scadenza: soprattutto perché i passaporti dei bambini scadono spesso prima di quelli degli adulti ([quello britannico è valido per 5 anni](https://www.gov.uk/get-a-child-passport)).
 - **Nei paesi che chiedono il consenso di entrambi i genitori, un genitore generalmente non può firmare da solo, a meno che non ci sia un provvedimento del tribunale, l'affido esclusivo, o il decesso dell'altro genitore.** Se è il tuo caso, il tuo ufficio passaporti ha una procedura apposita.
+
+![Un genitore ripreso di spalle davanti a una finestra luminosa, con il neonato appoggiato su una spalla, che tiene in alto un libretto del passaporto dorato](https://traveldocumentvault.com/blog/child-first-passport-application/cover.jpg)
 
 Il primo passaporto di tuo figlio lo fai una volta sola, quindi conviene conoscere le regole prima, invece di scoprirle allo sportello. La domanda in sé è semplice, ma le regole sul consenso e sulla foto cambiano da paese a paese, e un piccolo errore all'inizio può voler dire una domanda respinta e un viaggio rimandato.
 

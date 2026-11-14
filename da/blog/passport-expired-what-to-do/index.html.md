@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/da/blog/passport-expired-what-to-do/
 
 ---
 
-![Et enkelt pas liggende fladt på en kongeblå baggrund med en blød guldfarvet pil, der bøjer sig fremad og antyder det tydelige næste skridt](https://traveldocumentvault.com/blog/passport-expired-what-to-do/cover.jpg)
-
 ## Vigtigste punkter
 
 - Der findes to forskellige situationer: at opdage, at dit pas er udløbet **hjemme før en rejse**, og at opdage det **i lufthavnen**. Trinnene er forskellige for hver situation.
@@ -16,6 +14,8 @@ Source: https://traveldocumentvault.com/da/blog/passport-expired-what-to-do/
 - I lufthavnen: kontakt flyselskabet først – spørg, om de kan ombooke dig uden ombookningsgebyr.
 - Løsningen fremadrettet er en påmindelse 12 måneder før udløb, ikke 6. Det giver dig god tid til at forny med standardbehandling.
 - Udløb er ikke det eneste pasproblem, der får rejsende afvist. Skader, navne der ikke matcher, manglende underskrift og utilstrækkelig resterende gyldighed ved destinationen giver samme resultat.
+
+![Et enkelt pas liggende fladt på en kongeblå baggrund med en blød guldfarvet pil, der bøjer sig fremad og antyder det tydelige næste skridt](https://traveldocumentvault.com/blog/passport-expired-what-to-do/cover.jpg)
 
 At opdage, at dit pas er udløbet, er et af de øjeblikke, hvor tiden pludselig føles meget virkelig. Uanset om du opdagede det tre måneder før en rejse, eller du står ved check-in-skranken i lufthavnen lige nu, afhænger det næste skridt helt af, hvilken situation du befinder dig i.
 

@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/blog/transit-visa-connecting-flights/
 
 ---
 
-![A family group in an airport terminal reviewing travel documents before boarding a connecting flight](https://traveldocumentvault.com/blog/transit-visa-connecting-flights/cover.jpg)
-
 ## Key Takeaways
 
 - **Not every connecting flight requires a transit visa.** Many depend on whether you stay airside (in the international transit zone) or leave the airport.
@@ -16,6 +14,8 @@ Source: https://traveldocumentvault.com/blog/transit-visa-connecting-flights/
 - **Airside-only layovers are often visa-free**, while layovers where you leave the airport or pass through immigration often need a visa, depending on your nationality.
 - If you realise you need a transit visa after booking, contact your airline immediately - processing times vary widely and you may need to rebook.
 - **Store and track every document** - your transit visa has its own expiry date separate from your passport and main entry visa.
+
+![A family group in an airport terminal reviewing travel documents before boarding a connecting flight](https://traveldocumentvault.com/blog/transit-visa-connecting-flights/cover.jpg)
 
 Whether a connecting flight requires a transit visa depends on three things: which passport you hold, which country your plane lands in, and whether you leave the airport or stay in the international transit zone. Most layovers need no transit visa at all. But the requirement, where it exists, is firm - and airlines generally check before you board.
 
@@ -59,7 +59,7 @@ It happens more often than you would think: you book the flights, then realise t
 
 Start with your airline, since they may know about processing times and sometimes have experience with common routes. Then contact the nearest embassy or consulate of the transit country to find out how long the visa itself will take. Some consulates offer expedited processing, so ask.
 
-If processing time is impossible before your departure date, you have three options: rebook your flights to avoid the transit country entirely, rebook through a different hub, or delay your trip. Trying to board without the required visa will result in missed flights and potential complications with your airline, so book the new routing the moment you spot the problem, rather than wait and hope the paperwork clears in time.
+If the visa cannot be processed before your departure date, you have three options: rebook your flights to avoid the transit country entirely, rebook through a different hub, or delay your trip. Trying to board without the required visa will result in missed flights and potential complications with your airline, so book the new routing the moment you spot the problem, rather than wait and hope the paperwork clears in time.
 
 ## How to Check Before You Book
 

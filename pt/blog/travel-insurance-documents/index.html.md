@@ -6,8 +6,6 @@ Source: https://traveldocumentvault.com/pt/blog/travel-insurance-documents/
 
 ---
 
-![um pai e uma criança sonolenta sentados à noite numa sala de espera de uma clínica tranquila, o pai a ler calmamente a sua apólice de seguro num telemóvel iluminado](https://traveldocumentvault.com/blog/travel-insurance-documents/cover.jpg)
-
 ## Pontos-Chave
 
 - **Guarde os documentos completos da apólice, o número da apólice e o número de assistência de emergência** (não o número de vendas).
@@ -15,6 +13,8 @@ Source: https://traveldocumentvault.com/pt/blog/travel-insurance-documents/
 - **Saiba em que situações a seguradora exige contacto antes do tratamento**; numa emergência médica, procure primeiro ajuda médica e contacte a seguradora assim que possível.
 - Guarde recibos e relatórios e pergunte à seguradora quais os documentos necessários para um pedido de reembolso.
 - Leia as secções-chave da sua apólice concentrando-se nos limites de cobertura, exclusões e condições.
+
+![um pai e uma criança sonolenta sentados à noite numa sala de espera de uma clínica tranquila, o pai a ler calmamente a sua apólice de seguro num telemóvel iluminado](https://traveldocumentvault.com/blog/travel-insurance-documents/cover.jpg)
 
 Guardaríamos os documentos do seguro de viagem offline e prepararíamos uma cópia de segurança em papel antes de partir, reunindo o número da apólice, o comprovativo de cobertura e o número de assistência de emergência. Aqui explicamos o que guardar, como testar o acesso offline e como ler as instruções para pedir um reembolso, incluindo onde encontrar o horário da linha de assistência.
 
