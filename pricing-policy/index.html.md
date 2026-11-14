@@ -153,7 +153,7 @@ Your Pro purchase includes all v1.x updates. If the price changes later, what yo
 
 ## Regional Pricing
 
-Pricing may vary by region based on:
+Check the App Store or Google Play for your local price before purchasing Pro. Pricing may vary by region based on:
 
 - Country-specific prices shown in the App Store or Google Play
 - Regional taxes and fees

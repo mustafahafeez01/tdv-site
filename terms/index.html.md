@@ -6,7 +6,7 @@ Source: https://traveldocumentvault.com/terms/
 
 ---
 
-Last updated: 14 July 2026
+Last updated: 14 November 2026
 
 LEGAL NOTICE - PLEASE READ CAREFULLY
 
@@ -92,7 +92,7 @@ While the app uses system protections provided by your device’s operating syst
 
 ## 7. Purchases, Updates, and Refunds
 
-The Application offers optional in-app purchases ("Pro" features). All purchases are processed through the respective app store (Apple App Store or Google Play Store). You acknowledge that:
+The Application is free to download and use within its free tier. Pro is an optional paid upgrade. Check the App Store or Google Play for your local price before purchasing. All purchases are processed through the respective app store (Apple App Store or Google Play Store). You acknowledge that:
 
 - Pro purchases grant permanent access to all premium features in the purchased version
 - All bug fixes, security updates, and feature improvements within the current major version (v1.x) are included at no additional cost

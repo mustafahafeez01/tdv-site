@@ -6,7 +6,7 @@ Source: https://traveldocumentvault.com/privacy-policy/
 
 ---
 
-Last updated: 9 November 2026
+Last updated: 14 November 2026
 
 Travel Document Vault (provided by Mustafa Hafeez) ("we" or "us" or "our") respects the privacy of our users ("user" or "you"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our mobile application, Travel Document Vault (the "Application"). Please read this Privacy Policy carefully. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS THE APPLICATION.
 
@@ -108,7 +108,7 @@ Settings includes a **Check for Updates** button. It runs only when you tap it -
 
 ### Purchase Verification
 
-Pro purchases are processed and verified directly between your device and the Apple App Store or Google Play Billing. We operate no server in this flow and never receive your payment details or identity. Your app store's own privacy policy governs that transaction.
+Pro purchases are processed and verified directly between your device and the Apple App Store or Google Play Billing. Your local Pro price is shown by the store before you confirm a purchase. We operate no server in this flow and never receive your payment details or identity. Your app store's own privacy policy governs that transaction.
 
 ### Crash Reporting (Sentry)
 
