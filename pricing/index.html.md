@@ -6,9 +6,9 @@ Source: https://traveldocumentvault.com/pricing/
 
 ---
 
-$9.99, once. No subscription, no hidden fees, no data harvesting.
+Download and use the app free. Upgrade to lifetime Pro with one payment. No subscription.
 
-Priced in US dollars. We set each country’s price locally rather than converting from dollars, and the App Store or Google Play shows yours before you pay.
+Check the App Store or Google Play for your local price.
 
 ## Choose Your Plan
 
@@ -31,11 +31,11 @@ Best Value
 
 ### Pro
 
-$9.99 one-time
+One payment
 
 For your whole family. Pay once. All v1.x updates included, forever.
 
-USD. Your country’s price is set locally rather than converted from dollars, and the store shows it before you pay.
+No subscription. Check the App Store or Google Play for your local price.
 
 [About our version policy →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -74,9 +74,9 @@ For families
 
 Unlock the full vault for your family
 
-$9.99 one-time
+One payment for lifetime Pro
 
-USD. Your country’s price is set locally rather than converted from dollars, and the App Store or Google Play shows it before you pay.
+No subscription. Check the App Store or Google Play for your local price.
 
 For your whole family. Pay once. All v1.x updates included, forever.
 

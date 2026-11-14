@@ -4,7 +4,7 @@
 
 Every page listed below is also available as clean markdown: append `index.html.md` to any URL. The whole blog is in one file at https://traveldocumentvault.com/llms-full.txt.
 
-- Pro: one-time purchase, no subscription. Priced at $9.99 USD; each country's price is set locally rather than converted from dollars, and the App Store or Google Play shows it before you pay; includes all v1.x updates. Free tier: 1 profile, up to 5 documents, expiry reminders, biometric lock
+- Free to download and use: 1 profile, up to 5 documents, expiry reminders, biometric lock. Pro: optional lifetime upgrade, one payment, no subscription, includes all v1.x updates. Check the App Store or Google Play for your local price.
 - AES-256-GCM on-device encryption
 - Your Own Cloud backup (Pro feature): encrypted in iCloud (iOS) or Google Drive (Android), sealed with PBKDF2 600,000 iterations + AES-256-GCM, with one-tap restore on a new device using your recovery code, which never leaves your original device. No Travel Document Vault servers involved
 - Free vault export (.tdvault) for everyone, via Settings, Export vault and Import backup: export an encrypted backup file and import it on any device. A regular phone or system backup (iCloud Backup, Google Backup) reinstalls the app but cannot restore your documents, because the encryption key never leaves your original device

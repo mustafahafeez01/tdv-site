@@ -189,11 +189,11 @@ Nilai Terbaik
 
 ### Pro
 
-$9.99 satu kali
+Bayar sekali
 
 Untuk seluruh keluarga Anda. Bayar sekali. Semua pembaruan v1.x disertakan, selamanya.
 
-Harga dalam dolar AS. Kami menetapkan harga masing-masing negara secara lokal, bukan dengan mengonversi dari dolar, dan App Store atau Google Play akan menampilkan harga Anda sebelum Anda membayar.
+Tanpa langganan. Lihat harga untuk wilayah Anda di App Store atau Google Play.
 
 [Tentang kebijakan versi kami →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -228,9 +228,9 @@ Untuk keluarga
 
 Buka brankas lengkap untuk keluarga Anda
 
-$9.99 satu kali
+Bayar sekali untuk Pro seumur hidup
 
-Harga dalam dolar AS. Kami menetapkan harga masing-masing negara secara lokal, bukan dengan mengonversi dari dolar, dan App Store atau Google Play akan menampilkan harga Anda sebelum Anda membayar.
+Tanpa langganan. Lihat harga untuk wilayah Anda di App Store atau Google Play.
 
 Untuk seluruh keluarga Anda. Bayar sekali. Semua pembaruan v1.x disertakan, selamanya.
 

@@ -41,7 +41,7 @@ Recommended
 
 ### Pro
 
-$9.99 one-time*
+One payment*
 
 Everything in Free, plus:
 
@@ -149,13 +149,13 @@ We reserve the right to adjust pricing for **new purchases** at any time. Price 
 - Features already purchased - no retroactive price increases
 - Free tier users - free features remain free
 
-If you purchase Pro at $9.99, that's your price forever (for v1.x). Even if we raise the price for new users tomorrow, your purchase is honoured.
+Your Pro purchase includes all v1.x updates. If the price changes later, what you bought stays the same.
 
 ## Regional Pricing
 
 Pricing may vary by region based on:
 
-- Country-specific prices set locally, rather than converted from US dollars
+- Country-specific prices shown in the App Store or Google Play
 - Regional taxes and fees
 - App store policies in your country
 

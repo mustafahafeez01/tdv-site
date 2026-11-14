@@ -6,9 +6,9 @@ Source: https://traveldocumentvault.com/sv/pricing/
 
 ---
 
-$9.99, engångsköp. Inga prenumerationer, inga dolda avgifter, ingen datainsamling.
+Ladda ner och använd appen gratis. Uppgradera till Pro för alltid med en engångsbetalning, utan prenumeration.
 
-Priset anges i amerikanska dollar. Vi fastställer priset för varje land lokalt istället för att räkna om det från dollar, och App Store eller Google Play visar ditt pris innan du betalar.
+Se priset i ditt land i App Store eller på Google Play.
 
 ## Välj ditt abonnemang
 
@@ -31,11 +31,11 @@ Bäst värde
 
 ### Pro
 
-$9.99 engångsköp
+Betala en gång
 
 För hela familjen. Betala en gång. Alla v1.x-uppdateringar ingår för alltid.
 
-USD. Priset för ditt land fastställs lokalt istället för att räknas om från dollar, och App Store eller Google Play visar det innan du betalar.
+Ingen prenumeration. Se priset i ditt land i App Store eller på Google Play.
 
 [Om vår versionspolicy →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -74,9 +74,9 @@ För familjer
 
 Lås upp hela familjens valv
 
-$9.99 engångsköp
+Betala en gång och behåll Pro
 
-USD. Priset för ditt land fastställs lokalt istället för att räknas om från dollar, och App Store eller Google Play visar det innan du betalar.
+Ingen prenumeration. Se priset i ditt land i App Store eller på Google Play.
 
 För hela familjen. Betala en gång. Alla v1.x-uppdateringar ingår för alltid.
 

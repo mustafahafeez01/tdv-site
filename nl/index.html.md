@@ -197,11 +197,11 @@ Beste Waarde
 
 ### Pro
 
-$9.99 eenmalig
+Eén keer betalen
 
 Voor uw hele gezin. Eenmalig betalen. Alle v1.x-updates inbegrepen, voor altijd.
 
-USD. De prijs voor uw land wordt lokaal vastgesteld in plaats van omgerekend vanuit dollars, en de App Store of Google Play toont deze voordat u betaalt.
+Geen abonnement. Bekijk de prijs voor uw land in de App Store of Google Play.
 
 [Over ons versiebeleid →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -240,9 +240,9 @@ Voor gezinnen
 
 Ontgrendel de volledige kluis voor uw gezin
 
-$9.99 eenmalig
+Eén keer betalen voor blijvende toegang tot Pro
 
-USD. De prijs voor uw land wordt lokaal vastgesteld in plaats van omgerekend vanuit dollars, en de App Store of Google Play toont deze voordat u betaalt.
+Geen abonnement. Bekijk de prijs voor uw land in de App Store of Google Play.
 
 Voor uw hele gezin. Eenmalig betalen. Alle v1.x-updates inbegrepen, voor altijd.
 

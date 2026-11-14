@@ -186,11 +186,11 @@ Bedste værdi
 
 ### Pro
 
-$9.99 engangskøb
+Betal én gang
 
 Til hele din familie. Betal én gang. Alle v1.x-opdateringer inkluderet for evigt.
 
-USD. Prisen for dit land fastsættes lokalt i stedet for at blive omregnet fra dollar, og App Store eller Google Play viser den, før du betaler.
+Intet abonnement. Se prisen i dit land i App Store eller på Google Play.
 
 [Om vores versionspolitik →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -229,9 +229,9 @@ Til familier
 
 Lås det fulde pengeskab op til din familie
 
-$9.99 engangskøb
+Betal én gang og behold Pro
 
-USD. Prisen for dit land fastsættes lokalt i stedet for at blive omregnet fra dollar, og App Store eller Google Play viser den, før du betaler.
+Intet abonnement. Se prisen i dit land i App Store eller på Google Play.
 
 Til hele din familie. Betal én gang. Alle v1.x-opdateringer inkluderet for evigt.
 

@@ -224,7 +224,7 @@ Documents saved locally are available offline. Local document viewing and remind
 
 Pro is a **one-time purchase**, no subscription. Unlimited profiles and documents, no recurring charges, and no renewal date to forget.
 
-Priced in US dollars. We set each country’s price locally rather than converting from dollars, and the App Store or Google Play shows yours before you pay.
+Check the App Store or Google Play for your local price.
 
 [About our version policy →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 

@@ -189,11 +189,11 @@ Pro 专享
 
 ### 专业版
 
-$9.99 一次性
+一次付费
 
 为您的整个家庭。一次性付款。永久包含所有 v1.x 更新。
 
-价格以美元计价。我们按各国当地情况单独定价，而非按汇率换算，App Store 或 Google Play 会在您付款前显示您所在地区的价格。
+无需订阅。 请在 App Store 或 Google Play 查看您所在地区的价格。
 
 [关于我们的版本政策 →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -232,9 +232,9 @@ $0
 
 为您的家庭解锁完整保险库
 
-$9.99 一次性
+一次付费 终身使用 Pro
 
-价格以美元计价。我们按各国当地情况单独定价，而非按汇率换算，App Store 或 Google Play 会在您付款前显示您所在地区的价格。
+无需订阅。 请在 App Store 或 Google Play 查看您所在地区的价格。
 
 为您的整个家庭。一次性付款。永久包含所有 v1.x 更新。
 

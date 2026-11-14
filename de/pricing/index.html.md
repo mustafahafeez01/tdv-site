@@ -6,9 +6,9 @@ Source: https://traveldocumentvault.com/de/pricing/
 
 ---
 
-$9.99, einmalig. Keine Abos, keine versteckten Gebühren, keine Datenernte.
+Laden Sie die App herunter und nutzen Sie sie kostenlos. Pro dauerhaft freischalten: einmal zahlen, kein Abo.
 
-Der Preis ist in US-Dollar angegeben. Wir legen den Preis für jedes Land lokal fest, statt ihn aus Dollar umzurechnen, und der App Store oder Google Play zeigt Ihnen Ihren Preis, bevor Sie bezahlen.
+Den Preis für Ihr Land finden Sie im App Store oder bei Google Play.
 
 ## Wählen Sie Ihren Plan
 
@@ -31,11 +31,11 @@ Beste Wahl
 
 ### Pro
 
-$9.99 einmalig
+Einmalzahlung
 
 Für Ihre ganze Familie. Zahlen Sie einmal. Alle v1.x-Updates enthalten, für immer.
 
-USD. Der Preis für Ihr Land wird lokal festgelegt, statt aus Dollar umgerechnet, und der App Store oder Google Play zeigt ihn Ihnen, bevor Sie bezahlen.
+Kein Abo. Den Preis für Ihr Land finden Sie im App Store oder bei Google Play.
 
 [Weitere Informationen zu unserer Versionierungsrichtlinie →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -74,9 +74,9 @@ Für Familien
 
 Entsperren Sie den vollständigen Tresor für Ihre Familie
 
-$9.99 einmalig
+Einmalzahlung für dauerhaften Pro-Zugang
 
-USD. Der Preis für Ihr Land wird lokal festgelegt, statt aus Dollar umgerechnet, und der App Store oder Google Play zeigt ihn Ihnen, bevor Sie bezahlen.
+Kein Abo. Den Preis für Ihr Land finden Sie im App Store oder bei Google Play.
 
 Für Ihre ganze Familie. Zahlen Sie einmal. Alle v1.x-Updates enthalten, für immer.
 

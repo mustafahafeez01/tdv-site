@@ -189,11 +189,11 @@ Meilleure Valeur
 
 ### Pro
 
-$9.99, achat unique
+Un seul paiement
 
 Pour toute la famille. Un paiement. Mises à jour v1.x incluses à jamais.
 
-USD. Le prix de votre pays est fixé localement plutôt que converti depuis le dollar, et l'App Store ou Google Play l'affiche avant que vous ne payiez.
+Sans abonnement. Consultez le prix dans votre pays sur l’App Store ou Google Play.
 
 [Notre politique de version →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -232,9 +232,9 @@ Pour les familles
 
 Déverrouillez le coffre-fort complet pour votre famille
 
-$9.99 une seule fois
+Un seul paiement pour la version Pro à vie
 
-USD. Le prix de votre pays est fixé localement plutôt que converti depuis le dollar, et l'App Store ou Google Play l'affiche avant que vous ne payiez.
+Sans abonnement. Consultez le prix dans votre pays sur l’App Store ou Google Play.
 
 Pour toute la famille. Un paiement. Mises à jour v1.x incluses à jamais.
 

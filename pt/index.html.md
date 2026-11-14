@@ -188,11 +188,11 @@ Melhor Valor
 
 ### Pro
 
-$9.99, compra única
+Pagamento único
 
 Para toda a sua família. Pague uma vez. Todas as atualizações v1.x incluídas, para sempre.
 
-USD. O preço do seu país é definido localmente em vez de convertido a partir do dólar, e a App Store ou a Google Play mostra-o antes de pagar.
+Sem subscrição. Consulte o preço no seu país na App Store ou no Google Play.
 
 [Sobre a nossa política de versão →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -226,9 +226,9 @@ Para famílias
 
 Desbloqueie o cofre completo para a sua família
 
-$9.99 compra única
+Pagamento único pelo Pro vitalício
 
-USD. O preço do seu país é definido localmente em vez de convertido a partir do dólar, e a App Store ou a Google Play mostra-o antes de pagar.
+Sem subscrição. Consulte o preço no seu país na App Store ou no Google Play.
 
 Para toda a sua família. Pague uma vez. Todas as atualizações v1.x incluídas, para sempre.
 

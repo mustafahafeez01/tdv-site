@@ -189,11 +189,11 @@ Miglior Valore
 
 ### Pro
 
-$9.99, pagamento unico
+Un solo pagamento
 
 Per tutta la tua famiglia. Pagamento unico. Tutti gli aggiornamenti v1.x inclusi, per sempre.
 
-USD. Il prezzo del tuo paese è fissato a livello locale anziché convertito dal dollaro, e l'App Store o Google Play lo mostra prima dell'acquisto.
+Nessun abbonamento. Controlla il prezzo per il tuo paese su App Store o Google Play.
 
 [Informazioni sulla nostra politica di versione →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -232,9 +232,9 @@ Per le famiglie
 
 Sblocca il caveau completo per la tua famiglia
 
-$9.99 una volta
+Un solo pagamento per Pro a vita
 
-USD. Il prezzo del tuo paese è fissato a livello locale anziché convertito dal dollaro, e l'App Store o Google Play lo mostra prima dell'acquisto.
+Nessun abbonamento. Controlla il prezzo per il tuo paese su App Store o Google Play.
 
 Per tutta la tua famiglia. Pagamento unico. Tutti gli aggiornamenti v1.x inclusi, per sempre.
 

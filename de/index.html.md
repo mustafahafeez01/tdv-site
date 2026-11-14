@@ -189,11 +189,11 @@ Bester Wert
 
 ### Pro
 
-$9.99 einmalig
+Einmalzahlung
 
 Für Ihre ganze Familie. Bezahlen Sie einmal. Alle v1.x-Updates für immer enthalten.
 
-USD. Der Preis für Ihr Land wird lokal festgelegt, statt aus Dollar umgerechnet, und der App Store oder Google Play zeigt ihn Ihnen, bevor Sie bezahlen.
+Kein Abo. Den Preis für Ihr Land finden Sie im App Store oder bei Google Play.
 
 [Über unsere Versionierungsrichtlinie →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -232,9 +232,9 @@ Für Familien
 
 Entsperren Sie den vollen Tresor für Ihre Familie
 
-$9.99 einmalig
+Einmalzahlung für dauerhaften Pro-Zugang
 
-USD. Der Preis für Ihr Land wird lokal festgelegt, statt aus Dollar umgerechnet, und der App Store oder Google Play zeigt ihn Ihnen, bevor Sie bezahlen.
+Kein Abo. Den Preis für Ihr Land finden Sie im App Store oder bei Google Play.
 
 Für Ihre ganze Familie. Bezahlen Sie einmal. Alle v1.x-Updates für immer enthalten.
 

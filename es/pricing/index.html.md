@@ -6,9 +6,9 @@ Source: https://traveldocumentvault.com/es/pricing/
 
 ---
 
-$9.99, una sola vez. Sin suscripción, sin cargos ocultos, sin recopilación de datos.
+Descarga y usa la app gratis. Pásate a Pro de por vida con un solo pago, sin suscripción.
 
-Precio en dólares estadounidenses. Fijamos el precio de cada país de forma local en lugar de convertirlo desde el dólar, y la App Store o Google Play muestra el tuyo antes de que pagues.
+Consulta el precio para tu país en App Store o Google Play.
 
 ## Elige Tu Plan
 
@@ -31,11 +31,11 @@ Mejor Valor
 
 ### Pro
 
-$9.99, compra única
+Un solo pago
 
 Para toda tu familia. Paga una sola vez. Todas las actualizaciones v1.x incluidas, para siempre.
 
-USD. El precio de tu país se fija de forma local en lugar de convertirlo desde el dólar, y la App Store o Google Play lo muestra antes de que pagues.
+Sin suscripción. Consulta el precio para tu país en App Store o Google Play.
 
 [Sobre nuestra política de versiones →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -74,9 +74,9 @@ Para familias
 
 Desbloquea la bóveda completa para tu familia
 
-$9.99 una sola vez
+Un solo pago por Pro de por vida
 
-USD. El precio de tu país se fija de forma local en lugar de convertirlo desde el dólar, y la App Store o Google Play lo muestra antes de que pagues.
+Sin suscripción. Consulta el precio para tu país en App Store o Google Play.
 
 Para toda tu familia. Paga una sola vez. Todas las actualizaciones v1.x incluidas, para siempre.
 

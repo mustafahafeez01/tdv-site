@@ -189,11 +189,11 @@ Bäst värde
 
 ### Pro
 
-$9.99 engångsköp
+Betala en gång
 
 För hela din familj. Betala en gång. Alla v1.x-uppdateringar ingår för alltid.
 
-USD. Priset för ditt land fastställs lokalt istället för att räknas om från dollar, och App Store eller Google Play visar det innan du betalar.
+Ingen prenumeration. Se priset i ditt land i App Store eller på Google Play.
 
 [Om vår versionspolicy →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -228,9 +228,9 @@ För familjer
 
 Lås upp hela valvet för din familj
 
-$9.99 engångsköp
+Betala en gång och behåll Pro
 
-USD. Priset för ditt land fastställs lokalt istället för att räknas om från dollar, och App Store eller Google Play visar det innan du betalar.
+Ingen prenumeration. Se priset i ditt land i App Store eller på Google Play.
 
 För hela din familj. Betala en gång. Alla v1.x-uppdateringar ingår för alltid.
 
