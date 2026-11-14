@@ -8,6 +8,8 @@
     'use strict';
 
     const GA_MEASUREMENT_ID = 'G-NDB2TZPVDS';
+    const GA_DISABLE_KEY = 'ga-disable-' + GA_MEASUREMENT_ID;
+    window[GA_DISABLE_KEY] = true;
     const CONSENT_KEY = 'cookie_consent_status'; // 'granted' or 'denied'
 
     // Translated cookie banner strings keyed by BCP-47 language code.
@@ -71,6 +73,7 @@
     function loadAnalytics() {
         // Live site only: local previews (localhost, 127.0.0.1) must not count as visits.
         if (!/(^|\.)traveldocumentvault\.com$/.test(location.hostname)) return;
+        window[GA_DISABLE_KEY] = false;
 
         // Load the gtag.js script
         const script = document.createElement('script');
@@ -83,7 +86,10 @@
 
         // Initialize DataLayer
         window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
+        function gtag(){
+            if (window[GA_DISABLE_KEY]) return;
+            dataLayer.push(arguments);
+        }
         window.gtag = gtag; // Make globally available
         gtag('js', new Date());
         gtag('config', GA_MEASUREMENT_ID, { 'anonymize_ip': true });
@@ -235,9 +241,10 @@
         });
     }
 
-    // Without consent no event may be sent. Every tracked link calls
-    // `window.gtag && gtag(...)`, so removing gtag stops them all at once.
+    // Disable the loaded Google tag as well as our event facade. A retained
+    // callback must not be able to queue events after withdrawal.
     function stopAnalytics() {
+        window[GA_DISABLE_KEY] = true;
         window.gtag = undefined;
     }
 
@@ -251,6 +258,15 @@
         if (existing) { existing.remove(); }
         showConsentBanner();
     };
+
+    // Revocation in another tab or while this page was in the back/forward cache.
+    window.addEventListener('storage', function (e) {
+        if ((e.key === CONSENT_KEY && e.newValue !== 'granted') ||
+            (e.key === null && localStorage.getItem(CONSENT_KEY) !== 'granted')) stopAnalytics();
+    });
+    window.addEventListener('pageshow', function () {
+        if (localStorage.getItem(CONSENT_KEY) !== 'granted') stopAnalytics();
+    });
 
     document.addEventListener('click', function (e) {
         var trigger = e.target.closest ? e.target.closest('[data-cookie-settings]') : null;
