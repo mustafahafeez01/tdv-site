@@ -14,7 +14,7 @@ I built this app because I was tired of subscription fatigue. You pay once, you 
 
 - **No subscriptions** - Pay once, own it
 - **No recurring fees** - No monthly or annual charges
-- **No hidden costs** - Price you see is the price you pay
+- **No hidden costs** - your store shows the final amount before you confirm
 - **No vendor lock-in** - Your documents stay on your device, accessible anytime
 
 ## Free vs Pro
@@ -48,7 +48,7 @@ Everything in Free, plus:
 - **Unlimited profiles** - Add your whole family
 - **Unlimited documents** - Store everything
 - Trip planner with family readiness traffic light
-- Cloud Backup (iCloud or Google Drive, end-to-end encrypted)
+- Cloud Backup (encrypted vault contents in your own iCloud or Google Drive; some readable operational metadata)
 - Days-abroad tracker for visa and tax day limits
 - Combined PDF export
 - Batch backup & restore
@@ -115,20 +115,20 @@ The free tier will always remain **genuinely useful**, not a crippled trial. It'
 
 All purchases are processed through:
 
-- **Apple App Store** (iOS, iPadOS, macOS)
+- **Apple App Store** (on supported Apple devices)
 - **Google Play Store** (Android). [available now](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_campaign%3Dwebsite%26utm_content%3Dpricing)
 
 We do not:
 
 - Process payments directly
-- Store your payment information
-- Have access to your credit card or billing details
+- Receive your full payment-card credentials through store checkout
+- Operate the app stores’ payment-card processing
 
-Your payment information is handled exclusively by Apple or Google according to their security standards.
+Apple or Google handles checkout payment. Purchase or order information may be available to us for support and refunds; the Privacy Policy describes these separate flows.
 
 ## Refund Policy
 
-Refund requests must be directed to the App Store (Apple or Google) through their standard refund process:
+Refund requests can be made through the relevant App Store or Google Play process. For a purchase on either store, you can also contact support@traveldocumentvault.com about a purchase or defect complaint:
 
 - **Apple:** Request refund at [reportaproblem.apple.com](https://reportaproblem.apple.com)
 - **Google:** Request refund through Google Play Store app or [play.google.com](https://play.google.com/store/account/orderhistory)
@@ -139,7 +139,7 @@ App store refund policies typically allow:
 - · Refunds for accidental purchases
 - · Refunds if app doesn't work as described
 
-Note: We (Travel Document Vault) do not control or process refunds. All refund decisions are made by Apple or Google according to their policies.
+Store refund procedures do not remove our developer responsibilities or remedies required by applicable law and platform obligations. A rejected store request does not itself remove a statutory remedy against the responsible provider. Any additional refund commitment applicable to your purchase remains protected; no automatic approval or universal refund deadline is added here.
 
 ## Price Changes
 
@@ -159,7 +159,7 @@ Check the App Store or Google Play for your local price before purchasing Pro. P
 - Regional taxes and fees
 - App store policies in your country
 
-The price you see in your local App Store is the final price you'll pay (including any applicable taxes).
+Review your local store checkout for the final amount and any taxes shown before confirming a new purchase. Display and tax treatment can vary by store and location. This clarification does not increase the amount owed for an existing purchase or remove a right or remedy arising from an earlier price representation.
 
 ## No Hidden Fees
 

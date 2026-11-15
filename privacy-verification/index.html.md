@@ -8,11 +8,11 @@ Source: https://traveldocumentvault.com/privacy-verification/
 
 ## The short version
 
-![Diagram of where your data lives: documents, scans, expiry dates and reminders stay on your phone and work offline; data leaves only if you turn on Cloud Backup (Pro), which sends an encrypted file to your own iCloud or Google Drive, or opt in to crash reports. There is no account, no document server and no database of your data](https://traveldocumentvault.com/assets/figures/privacy-boundary-en.jpg)
+![Summary of default vault storage: document files stay on your device unless you choose backup, export or sharing. Cloud Backup sends encrypted vault content and some readable operational metadata to your own cloud account. Technical services are described below.](https://traveldocumentvault.com/assets/figures/privacy-boundary-en.jpg) This diagram summarises vault storage, not every network request. No TDV account is needed; store and cloud-provider accounts may be used. Update checks, purchases and restores, support, and optional diagnostic reports have separate data flows described below and in the [Privacy Policy](https://traveldocumentvault.com/privacy-policy/). The diagram’s crash-report label includes non-fatal error reports.
 
 ### No advertising trackers
 
-No ad networks, no behavioural analytics, and no tracking pixels inside the app. Optional crash reporting is separate and stays off unless you turn it on.
+No ad networks, no behavioural analytics, and no tracking pixels inside the app. Optional diagnostic reporting is separate and stays off unless you turn it on.
 
 ### No document data collection
 
@@ -24,7 +24,7 @@ Documents stay on your device by default. There is no Travel Document Vault clou
 
 ### AES-256-GCM encryption
 
-The app encrypts document data before saving it to local app storage. Pro users can optionally back up an encrypted vault file to their own iCloud or Google Drive account - only they hold the recovery key.
+The app encrypts document files before saving them to local app storage. Pro users can optionally back up encrypted vault content, with some readable operational metadata, to their own iCloud or Google Drive. Cloud Backup does not send the recovery code or decryption keys to us.
 
 ## Verification
 
@@ -32,9 +32,9 @@ You do not need to take this on trust. These checks show the important parts: wh
 
 ### 1. Network traffic test
 
-Install a network monitor such as **mitmproxy** (free, open source), **Wireshark** (free, open source), or **Charles Proxy**. Open Travel Document Vault, scan a document, browse your vault, and set a reminder. You should not see your documents, scans, expiry dates, or vault contents sent to Travel Document Vault. Network traffic should be limited to specific features: optional Sentry crash reporting, App Store or Google Play purchase checks, optional cloud backup to your own iCloud or Google Drive account, and a bug-fix check explained below.
+Install a network monitor such as **mitmproxy** (free, open source), **Wireshark** (free, open source), or **Charles Proxy**. Open Travel Document Vault, scan a document, browse your vault, and set a reminder. You should not see your documents, scans, expiry dates, or vault contents sent to Travel Document Vault. Network traffic should be limited to specific features: optional Sentry diagnostic (crash and error) reporting, App Store or Google Play purchase checks, optional cloud backup to your own iCloud or Google Drive account, and a bug-fix check explained below.
 
-Settings has a **Check for Updates** button. This check is off by default: it runs when you tap it, or once per app launch if you turn on Check for updates on open. An in-progress download may continue after the app moves to the background. The check contacts **updates.traveldocumentvault.com** - our own update server, run by us on Google Cloud, which serves cryptographically signed update files from a storage bucket. The update handler does not write application request logs. Every update is signed with a key only we hold, and the app refuses anything whose signature does not match the certificate built into it. The same tap also checks the **App Store** or **Google Play** for a newer version of the app. It exists so that certain bug fixes can reach you faster than waiting for a whole new App Store or Google Play release, useful for urgent fixes, depending on the nature of the fix. Document storage needs no network; store purchase checks and enabled optional features can make automatic network calls.
+Settings has a **Check for Updates** button. In the current released version, this check runs when you tap the button; it does not run automatically when you open the app. An in-progress download may continue after the app moves to the background. The check contacts **updates.traveldocumentvault.com** - our own update server, run by us on Google Cloud, which serves cryptographically signed update files from a storage bucket. The update handler does not write application request logs. Every update is signed with a key only we hold, and the app refuses anything whose signature does not match the certificate built into it. The same tap also checks the **App Store** or **Google Play** for a newer version of the app. It exists so that certain bug fixes can reach you faster than waiting for a whole new App Store or Google Play release, useful for urgent fixes, depending on the nature of the fix. Document storage needs no network; store purchase checks and enabled optional features can make automatic network calls.
 
 ### 2. iOS App Privacy Report
 
@@ -42,9 +42,9 @@ On iPhone, go to **Settings > Privacy & Security > App Privacy Report**. This bu
 
 ### 3. Android - checking your privacy
 
-Android does not have a single built-in privacy report like iPhone. Two simple ways to check for yourself: look at this app's own **Data Safety** section on its Google Play page (it plainly states what is collected, what is shared, that your data is encrypted in transit, and that it cannot be deleted) - or use a network monitor as described in step 1 above.
+Android does not have a single built-in privacy report like iPhone. Two simple ways to check for yourself: look at this app's own **Data Safety** section on its Google Play page for the developer’s store disclosures - or use a network monitor as described in step 1 above.
 
-If you have turned on Cloud Backup, you may notice some activity going to Google's servers (web addresses ending in **googleapis.com**). These connections carry your encrypted vault files, sign-in checks and unencrypted backup metadata such as device name, counts and timestamps to **your own** Google Drive account - the same one you already use for photos or Gmail. We never see it, receive it, or keep a copy anywhere. Only you hold the recovery code that can unlock it.
+If you have turned on Cloud Backup, you may notice some activity going to Google's servers (web addresses ending in **googleapis.com**). These connections carry your encrypted vault files, sign-in checks and unencrypted backup metadata such as device name, counts and timestamps to **your own** Google Drive account - the same one you already use for photos or Gmail. Cloud Backup does not send these files, your recovery code or decryption keys to us.
 
 ### 4. App Store and Play Store privacy labels
 
@@ -114,7 +114,7 @@ Android
 
 Android
 
-**Why these appear:** These are required for network-aware features: **Sentry crash reporting** (opt-in, disabled by default), **App Store or Google Play billing** for the Pro upgrade purchase, **Pro cloud backup** (optional) which syncs your encrypted vault to your own iCloud or Google Drive, and the **Check for Updates** button in Settings (runs only when you tap it, or on opening if you turn that on). ACCESS_NETWORK_STATE and ACCESS_WIFI_STATE let these features check whether a connection is available before attempting to send.
+**Why these appear:** These are required for network-aware features: **Sentry diagnostic (crash and error) reporting** (opt-in, disabled by default), **App Store or Google Play billing** for the Pro upgrade purchase, **Pro cloud backup** (optional) which syncs your encrypted vault to your own iCloud or Google Drive, and the **Check for Updates** button in Settings (in the current released version, runs only when you tap it). ACCESS_NETWORK_STATE and ACCESS_WIFI_STATE let these features check whether a connection is available before attempting to send.
 
 **What we do not do:** The app does not upload your documents, scans, expiry dates, photos, or vault contents to Travel Document Vault. It works fully offline for normal document storage and reminders.
 
