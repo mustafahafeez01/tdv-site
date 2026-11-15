@@ -8,7 +8,23 @@ Source: https://traveldocumentvault.com/privacy-verification/
 
 ## The short version
 
-![Summary of default vault storage: document files stay on your device unless you choose backup, export or sharing. Cloud Backup sends encrypted vault content and some readable operational metadata to your own cloud account. Technical services are described below.](https://traveldocumentvault.com/assets/figures/privacy-boundary-en.jpg) This diagram summarises vault storage, not every network request. No TDV account is needed; store and cloud-provider accounts may be used. Update checks, purchases and restores, support, and optional diagnostic reports have separate data flows described below and in the [Privacy Policy](https://traveldocumentvault.com/privacy-policy/). The diagram’s crash-report label includes non-fatal error reports.
+![Vault storage summary: documents, scans, expiry dates and reminders stay on your device by default and work offline. Optional Pro backup encrypts vault content before upload to your own iCloud or Google Drive; some backup metadata remains readable. No TDV account is needed.](https://traveldocumentvault.com/assets/figures/privacy-storage-summary-v2-1200.webp)
+
+### On your device by default
+
+- Documents and scans
+- Expiry dates and reminders
+- Works offline
+
+### Optional cloud backup · Pro
+
+- Vault content encrypted before upload
+- Your own iCloud or Google Drive
+- Some backup metadata remains readable
+
+No TDV account needed.
+
+This summary covers vault storage. Store and cloud-provider accounts may be needed. Update checks, store purchases and restores, support and optional diagnostic reports involve separate data flows described below and in the [Privacy Policy](https://traveldocumentvault.com/privacy-policy/).
 
 ### No advertising trackers
 
@@ -28,7 +44,7 @@ The app encrypts document files before saving them to local app storage. Pro use
 
 ## Verification
 
-You do not need to take this on trust. These checks show the important parts: whether your vault data leaves the app, which domains appear, and which permissions Android reports.
+The steps below help you inspect the app’s behaviour on your own iPhone or Android device, including network connections and permissions. Each check shows only the behaviour visible during your test. These checks are not an independent security audit or a guarantee that every security issue has been found.
 
 ### 1. Network traffic test
 
