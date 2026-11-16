@@ -1,0 +1,38 @@
+{
+  "pt": {
+    "template": "cards",
+    "title": "Planeie para cada pessoa, em cada viagem",
+    "cards": [
+      {
+        "heading": "Orientações do país",
+        "items": [
+          {
+            "text": "Verifique os requisitos oficiais",
+            "mark": "none"
+          }
+        ]
+      },
+      {
+        "heading": "Dados da companhia aérea",
+        "items": [
+          {
+            "text": "Confirme cada trajeto de voo",
+            "mark": "none"
+          }
+        ]
+      },
+      {
+        "heading": "Lista da família",
+        "items": [
+          {
+            "text": "Ida e regresso, para todos",
+            "mark": "none"
+          }
+        ]
+      }
+    ],
+    "note": "As suas notas organizam as verificações. As autoridades determinam os requisitos.",
+    "alt": "Três verificações para viajar com dois passaportes: orientações do país, dados da companhia aérea e uma lista para a família",
+    "caption": "Mantenha os requisitos oficiais, as instruções da transportadora e as notas da família juntos para cada viagem."
+  }
+}

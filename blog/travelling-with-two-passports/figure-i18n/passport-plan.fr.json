@@ -1,0 +1,38 @@
+{
+  "fr": {
+    "template": "cards",
+    "title": "Un plan par personne et par trajet",
+    "cards": [
+      {
+        "heading": "Consignes du pays",
+        "items": [
+          {
+            "text": "Vérifiez les exigences officielles",
+            "mark": "none"
+          }
+        ]
+      },
+      {
+        "heading": "Données de la compagnie",
+        "items": [
+          {
+            "text": "Confirmez chaque trajet aérien",
+            "mark": "none"
+          }
+        ]
+      },
+      {
+        "heading": "Liste familiale",
+        "items": [
+          {
+            "text": "Aller et retour, pour chacun",
+            "mark": "none"
+          }
+        ]
+      }
+    ],
+    "note": "Vos notes organisent les vérifications. Les autorités fixent les exigences.",
+    "alt": "Trois vérifications pour voyager avec deux passeports : consignes des pays, informations de la compagnie et liste familiale",
+    "caption": "Regroupez les exigences officielles, les instructions du transporteur et les notes familiales pour chaque voyage."
+  }
+}

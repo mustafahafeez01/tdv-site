@@ -1,0 +1,38 @@
+{
+  "it": {
+    "template": "cards",
+    "title": "Un piano per ogni persona e tratta",
+    "cards": [
+      {
+        "heading": "Indicazioni del Paese",
+        "items": [
+          {
+            "text": "Verifica i requisiti ufficiali",
+            "mark": "none"
+          }
+        ]
+      },
+      {
+        "heading": "Dati della compagnia",
+        "items": [
+          {
+            "text": "Conferma ogni tratta aerea",
+            "mark": "none"
+          }
+        ]
+      },
+      {
+        "heading": "Lista familiare",
+        "items": [
+          {
+            "text": "Andata e ritorno, per tutti",
+            "mark": "none"
+          }
+        ]
+      }
+    ],
+    "note": "I tuoi appunti organizzano i controlli. Le autorità stabiliscono i requisiti.",
+    "alt": "Tre controlli per viaggiare con due passaporti: indicazioni dei Paesi, dati per la compagnia e lista familiare",
+    "caption": "Tieni insieme i requisiti ufficiali, le istruzioni del vettore e gli appunti della famiglia per ogni viaggio."
+  }
+}

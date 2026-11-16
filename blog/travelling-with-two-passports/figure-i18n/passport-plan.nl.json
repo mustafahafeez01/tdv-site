@@ -1,0 +1,38 @@
+{
+  "nl": {
+    "template": "cards",
+    "title": "Plan voor elke persoon, elke reis",
+    "cards": [
+      {
+        "heading": "Overheidsinformatie",
+        "items": [
+          {
+            "text": "Controleer de officiële vereisten",
+            "mark": "none"
+          }
+        ]
+      },
+      {
+        "heading": "Gegevens voor de luchtvaartmaatschappij",
+        "items": [
+          {
+            "text": "Bevestig elk deel van de vliegreis",
+            "mark": "none"
+          }
+        ]
+      },
+      {
+        "heading": "Gezinschecklist",
+        "items": [
+          {
+            "text": "Heen en terug, voor iedereen",
+            "mark": "none"
+          }
+        ]
+      }
+    ],
+    "note": "Je notities ordenen de controles. Instanties bepalen de vereisten.",
+    "alt": "Drie voorbereidingscontroles voor reizen met twee paspoorten: overheidsinformatie, gegevens voor de luchtvaartmaatschappij en een gezinschecklist",
+    "caption": "Bewaar de officiële vereisten, instructies van de luchtvaartmaatschappij en gezinsnotities samen voor elke reis."
+  }
+}

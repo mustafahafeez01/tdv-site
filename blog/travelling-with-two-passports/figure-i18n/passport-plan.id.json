@@ -1,0 +1,38 @@
+{
+  "id": {
+    "template": "cards",
+    "title": "Buat rencana untuk setiap orang dan setiap perjalanan",
+    "cards": [
+      {
+        "heading": "Panduan negara",
+        "items": [
+          {
+            "text": "Periksa persyaratan resmi",
+            "mark": "none"
+          }
+        ]
+      },
+      {
+        "heading": "Informasi maskapai",
+        "items": [
+          {
+            "text": "Pastikan setiap tahap penerbangan",
+            "mark": "none"
+          }
+        ]
+      },
+      {
+        "heading": "Daftar periksa keluarga",
+        "items": [
+          {
+            "text": "Pergi dan pulang, untuk semua orang",
+            "mark": "none"
+          }
+        ]
+      }
+    ],
+    "note": "Catatan membantu Anda menata hal-hal yang perlu diperiksa. Instansi berwenang menetapkan persyaratan.",
+    "alt": "Tiga pemeriksaan persiapan bepergian dengan dua paspor: panduan negara, informasi maskapai, dan daftar periksa keluarga",
+    "caption": "Simpan persyaratan resmi, petunjuk maskapai, dan catatan keluarga bersama-sama untuk setiap perjalanan."
+  }
+}

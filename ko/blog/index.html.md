@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/ko/blog/
 
 ##
 
+[가족 여행 서류여권 두 개로 여행할 때 어떤 여권을 제시해야 할까요?이중국적 여행의 각 구간에서 어떤 여권을 제시할지 계획하십시오. 영국·미국·캐나다의 안내와 가족 서류 체크리스트를 확인할 수 있습니다.2026년 11월 16일읽는 데 6분](https://traveldocumentvault.com/ko/blog/travelling-with-two-passports/)
+
+##
+
 [갱신결혼 후 여권 이름 변경: 영국에서는 언제 신청할까결혼했다고 새 여권이 필요한 것은 아니고, 쓰는 이름이 바뀔 때 필요합니다. HMPO가 요구하는 서류, 결혼식 날짜부터 유효한 여권, 신혼여행에 맞춘 신청 시기를 정리했습니다. 항공권 이름도 확인합니다.2026년 11월 7일6분 읽기](https://traveldocumentvault.com/ko/blog/passport-name-change-after-marriage/)
 
 ##

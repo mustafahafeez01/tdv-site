@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/de/blog/
 
 ##
 
+[Reisedokumente für FamilienMit zwei Reisepässen reisen: Welchen zeigen Sie vor?Planen Sie bei doppelter Staatsangehörigkeit den Pass für jede Reiseetappe: Hinweise für Großbritannien, die USA und Kanada sowie eine Familiencheckliste.16. November 20266 Min. Lesezeit](https://traveldocumentvault.com/de/blog/travelling-with-two-passports/)
+
+##
+
 [VerlängerungNamensänderung im Reisepass nach der Heirat: Wann beantragen (UK)Heiraten bedeutet keinen neuen Reisepass, ein geänderter Name schon. Was HMPO verlangt, der vordatierte Reisepass und das Timing rund um die Flitterwochen.7. November 20266 Min. Lesezeit](https://traveldocumentvault.com/de/blog/passport-name-change-after-marriage/)
 
 ##

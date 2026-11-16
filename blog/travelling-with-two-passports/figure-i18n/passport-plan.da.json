@@ -1,0 +1,38 @@
+{
+  "da": {
+    "template": "cards",
+    "title": "Planlæg for hver person, hver rejse",
+    "cards": [
+      {
+        "heading": "Landets vejledning",
+        "items": [
+          {
+            "text": "Kontrollér de officielle krav",
+            "mark": "none"
+          }
+        ]
+      },
+      {
+        "heading": "Flyselskabets oplysninger",
+        "items": [
+          {
+            "text": "Bekræft hver flyveetape",
+            "mark": "none"
+          }
+        ]
+      },
+      {
+        "heading": "Familiens tjekliste",
+        "items": [
+          {
+            "text": "Ud- og hjemrejse, for alle",
+            "mark": "none"
+          }
+        ]
+      }
+    ],
+    "note": "Dine noter organiserer kontrollerne. Myndighederne fastsætter kravene.",
+    "alt": "Tre forberedende kontroller ved rejser med to pas: landets vejledning, flyselskabets oplysninger og familiens tjekliste",
+    "caption": "Saml officielle krav, flyselskabets instruktioner og familiens noter for hver rejse."
+  }
+}

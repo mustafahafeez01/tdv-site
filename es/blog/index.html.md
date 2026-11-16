@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/es/blog/
 
 ##
 
+[Documentos para viajar en familiaViajar con dos pasaportes: ¿cuál debes presentar?Prepara qué pasaporte presentar en cada trayecto si tienes doble nacionalidad, con orientación británica, estadounidense y canadiense y una lista familiar.16 de noviembre de 20266 min de lectura](https://traveldocumentvault.com/es/blog/travelling-with-two-passports/)
+
+##
+
 [RenovaciónCambio de nombre en el pasaporte tras el matrimonio: cuándo solicitarlo en el Reino UnidoCasarse no implica un pasaporte nuevo; cambiar el nombre que usas, sí. Qué pide HMPO, la opción de fecha posterior y cómo ajustarlo a la luna de miel.7 de noviembre de 20266 min de lectura](https://traveldocumentvault.com/es/blog/passport-name-change-after-marriage/)
 
 ##

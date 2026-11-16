@@ -1,0 +1,38 @@
+{
+  "de": {
+    "template": "cards",
+    "title": "Jede Person, jede Reiseetappe planen",
+    "cards": [
+      {
+        "heading": "Hinweise des Landes",
+        "items": [
+          {
+            "text": "Offizielle Anforderungen prüfen",
+            "mark": "none"
+          }
+        ]
+      },
+      {
+        "heading": "Angaben der Fluggesellschaft",
+        "items": [
+          {
+            "text": "Jede Flugetappe bestätigen",
+            "mark": "none"
+          }
+        ]
+      },
+      {
+        "heading": "Familiencheckliste",
+        "items": [
+          {
+            "text": "Hin und zurück, für alle",
+            "mark": "none"
+          }
+        ]
+      }
+    ],
+    "note": "Ihre Notizen ordnen die Prüfungen. Die Behörden legen die Anforderungen fest.",
+    "alt": "Drei Vorbereitungsschritte für Reisen mit zwei Pässen: Länderhinweise, Angaben für die Fluggesellschaft und Familiencheckliste",
+    "caption": "Bewahren Sie offizielle Anforderungen, Anweisungen der Fluggesellschaft und Familiennotizen für jede Reise zusammen auf."
+  }
+}

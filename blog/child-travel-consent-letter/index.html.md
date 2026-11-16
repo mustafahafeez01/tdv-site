@@ -169,3 +169,5 @@ Don't rely on a digital copy alone. Canada, for one, says original signed letter
 [Travel Prep9 min read · March 2026International Travel Document Checklist for Every Trip](https://traveldocumentvault.com/blog/travel-document-checklist/)
 
 [Travel Prep7 min read · Jul 4, 2026The Travel Documents People Forget (and Where to Keep Each One)](https://traveldocumentvault.com/blog/what-documents-to-carry-when-travelling-internationally/)
+
+[Family Travel6 min read · November 2026Travelling with Two Passports: Which One Do You Show?](https://traveldocumentvault.com/blog/travelling-with-two-passports/)

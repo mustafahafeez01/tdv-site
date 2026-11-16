@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/
 
 ##
 
+[家庭旅行证件持两本护照旅行：该出示哪一本？规划双重国籍旅途中每段行程该出示哪本护照，参考英国、美国和加拿大的指引，并使用家庭证件核查表。2026年11月16日阅读约需6分钟](https://traveldocumentvault.com/zh-Hans/blog/travelling-with-two-passports/)
+
+##
+
 [更新婚后更改护照姓名：英国护照何时申请结婚本身不需要换新护照，改用新姓名才需要。本文说明 HM Passport Office 要求提交什么、婚前申请的延后生效护照，以及如何配合蜜月安排时间。还涵盖机票姓名与护照的核对，以及旧护照里签证的处理，帮助您安排申请和出行。2026年11月7日6 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/passport-name-change-after-marriage/)
 
 ##

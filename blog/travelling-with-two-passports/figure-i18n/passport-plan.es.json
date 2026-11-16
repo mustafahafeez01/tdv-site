@@ -1,0 +1,38 @@
+{
+  "es": {
+    "template": "cards",
+    "title": "Un plan por persona y por trayecto",
+    "cards": [
+      {
+        "heading": "Indicaciones del país",
+        "items": [
+          {
+            "text": "Comprueba los requisitos oficiales",
+            "mark": "none"
+          }
+        ]
+      },
+      {
+        "heading": "Datos de la aerolínea",
+        "items": [
+          {
+            "text": "Confirma cada trayecto aéreo",
+            "mark": "none"
+          }
+        ]
+      },
+      {
+        "heading": "Lista familiar",
+        "items": [
+          {
+            "text": "Ida y vuelta, para todos",
+            "mark": "none"
+          }
+        ]
+      }
+    ],
+    "note": "Tus notas organizan las comprobaciones. Las autoridades fijan los requisitos.",
+    "alt": "Tres comprobaciones para viajar con dos pasaportes: indicaciones de cada país, datos de la aerolínea y lista familiar",
+    "caption": "Guarda juntos los requisitos oficiales, las instrucciones del transportista y las notas familiares de cada viaje."
+  }
+}

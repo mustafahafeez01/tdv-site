@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/pt/blog/
 
 ##
 
+[Documentos de viagem da famíliaViajar com dois passaportes: qual deve apresentar?Que passaporte apresentar em cada trajeto? Exemplos do Reino Unido, EUA e Canadá, com uma ficha para planear os documentos da família.16 de novembro de 20266 min de leitura](https://traveldocumentvault.com/pt/blog/travelling-with-two-passports/)
+
+##
+
 [RenovaçãoMudar o nome no passaporte após o casamento: quando pedir no Reino UnidoCasar não obriga a um passaporte novo; mudar o nome que usa, sim. O que o HMPO pede, a opção com data posterior e como acertar os prazos com a lua de mel.7 de novembro de 20266 min de leitura](https://traveldocumentvault.com/pt/blog/passport-name-change-after-marriage/)
 
 ##

@@ -1,0 +1,38 @@
+{
+  "sv": {
+    "template": "cards",
+    "title": "Planera för varje person, varje resa",
+    "cards": [
+      {
+        "heading": "Landets anvisningar",
+        "items": [
+          {
+            "text": "Kontrollera myndigheternas krav",
+            "mark": "none"
+          }
+        ]
+      },
+      {
+        "heading": "Flygbolagets uppgifter",
+        "items": [
+          {
+            "text": "Bekräfta varje flygsträcka",
+            "mark": "none"
+          }
+        ]
+      },
+      {
+        "heading": "Familjens checklista",
+        "items": [
+          {
+            "text": "Utresa och hemresa, för alla",
+            "mark": "none"
+          }
+        ]
+      }
+    ],
+    "note": "Dina anteckningar hjälper dig att hålla ordning på kontrollerna. Myndigheterna bestämmer kraven.",
+    "alt": "Tre förberedande kontroller för resor med två pass: landets anvisningar, flygbolagets uppgifter och familjens checklista",
+    "caption": "Samla myndighetskrav, flygbolagets instruktioner och familjens anteckningar för varje resa."
+  }
+}

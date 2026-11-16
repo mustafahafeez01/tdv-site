@@ -29,6 +29,8 @@ Every page listed below is also available as clean markdown: append `index.html.
 
 ## Blog posts
 
+- [Travelling with Two Passports: Which One Do You Show?](https://traveldocumentvault.com/blog/travelling-with-two-passports/index.html.md)
+
 - [Passport Name Change After Marriage: When to Apply in the UK](https://traveldocumentvault.com/blog/passport-name-change-after-marriage/index.html.md)
 - [Passport Dates Explained: Issue, Expiry and Date of Expedition](https://traveldocumentvault.com/blog/how-to-read-your-passport-dates/index.html.md)
 - [International Driving Permit: How Long Yours Actually Lasts](https://traveldocumentvault.com/blog/international-driving-permit-validity/index.html.md)
