@@ -26,6 +26,10 @@ For a family, add a separate line for each person, even when everyone shares the
 
 **Write the document's issuing country beside its number** so a note labelled only "passport" doesn't leave you guessing between two booklets. Use the same labels on your preparation sheet and document copies. When you contact the airline, those labels will also help you describe which document you mean. Keep its answer with the relevant flight.
 
+Prefer to listen? Our short video explains the outward and return document plan. The country-specific guidance follows below.
+
+![Preview of our short video: plan the journey home too, with a separate outward and return document plan for each person](https://traveldocumentvault.com/blog/travelling-with-two-passports/short-poster.jpg) Advertisement. The short version, in under a minute. Voices are AI-generated. The video plays from YouTube and loads only when you press play, at which point YouTube may set cookies.
+
 ## The US, UK and Canada have different dual-national rules
 
 ### United States
