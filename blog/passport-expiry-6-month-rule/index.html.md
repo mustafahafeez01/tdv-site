@@ -22,6 +22,10 @@ The immigration officer looked at my daughter's passport, paused, and then looke
 
 It's one of the most misunderstood requirements in international travel: it catches out experienced travellers as often as first-timers, and if this is your first big trip abroad, it's the rule nobody warns you about at booking. Your passport can be technically valid - not expired - and still get you turned away at the gate.
 
+How to track your family’s passport expiry dates · 16 seconds
+
+![Travel Document Vault preview showing linked passports for a family trip](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/family-passports-poster.jpg) Advertisement. Family profiles require Pro. Voices are AI-generated. YouTube loads when you press play and may set cookies.
+
 ## What Is the Passport Expiry 6 Month Rule?
 
 The rule requires six months of passport validity for your trip. Most countries count that from the day you arrive, and some from the day you leave, so counting from your departure date covers both. In practice, this means:
