@@ -53,6 +53,16 @@ Source: https://traveldocumentvault.com/ko/blog/family-passport-management/
 
 여행을 예약할 때 첫 번째 단계는 자동화됩니다: 시스템에 로그인하고 각 가족 구성원의 프로필을 가져와서 목적지의 유효성 기한과 비교하세요. 항공권 비용을 지불하기 전에 이를 수행하세요. 여행을 예약하고 나면 만료된 서류를 정리할 시간이 없기 때문입니다. 누군구의 여권이 만료 12개월 이내라면 나중에 짜낼 시간이 있다는 것을 바라기보다 즉시 갱신 절차를 시작하세요.
 
+가족 여권은 각각 언제 만료되나요?
+
+![Travel Document Vault에 표시된 가족 여권](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/family-passports-poster.jpg) 광고. 가족 프로필을 추가하려면 Pro가 필요합니다. 음성은 AI로 생성했습니다. 영상 음성은 영어입니다. 재생하면 YouTube가 로드되며 쿠키를 설정할 수 있습니다.
+
+![App Store에서 다운로드](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Google Play에서 받기](https://traveldocumentvault.com/assets/images/google-play-badge.svg) 영상 대본
+
+여행 예약은 끝났어. 아이들 여권은 언제 만료되지? 잠깐, 여기 날짜가 있어. Travel Document Vault가 만료 전에 알려줘. 무료로 시작하세요. Pro를 한 번 구매하면 온 가족을 추가할 수 있습니다.
+
 ## 물리적 백업은 원본과 떨어진 곳에 보관하세요
 
 디지털 저장소는 편리하지만 기기는 고장 나고 앱에 문제가 생길 수 있습니다. 모든 가족은 필수 여권 페이지의 물리적 백업 한 개를 보관해야 하며, 원본과 다른 위치에 보관하세요.

@@ -53,6 +53,16 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/family-passport-management/
 
 当您预订旅行时，第一步变成自动化的：登录您的系统，查看每个家庭成员的档案，并根据您目的地的要求检查有效期。请在支付机票前完成这一步，因为一旦旅行订好，您就没有时间再处理过期文件了。如果任何人的护照在到期前12个月内，立即开始续期流程，而不是希望在稍后挤出时间。
 
+每本护照什么时候到期？
+
+![Travel Document Vault 中的家庭护照](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/family-passports-poster.jpg) 广告。家庭成员档案需要 Pro。语音由 AI 生成。视频使用英语配音。播放时会加载 YouTube，可能会设置 Cookie。
+
+![在 App Store 下载](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![在 Google Play 上获取](https://traveldocumentvault.com/assets/images/google-play-badge.svg) 视频文字稿
+
+行程订好了。孩子们的护照什么时候到期？等一下，日期就在这儿。Travel Document Vault 会在到期前提醒我。可免费开始使用。一次性升级到 Pro，即可添加全家人的档案。
+
 ## 把纸质备份放在远离原件的地方
 
 数字存储很方便，但设备会失败，应用程序可能会出现问题。每个家庭也应该保留一份重要护照页的物理备份——在与原件不同的位置保留一份。

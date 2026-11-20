@@ -87,6 +87,8 @@ Bewaar je digitale kopieën ergens versleuteld en offline – niet in Google Fot
 
 Scan je paspoort vandaag, voordat je het nodig hebt.
 
+Zodra je je nieuwe paspoort hebt, kun je [de vervaldatum bijhouden samen met die van de andere paspoorten in je gezin](https://traveldocumentvault.com/nl/blog/family-passport-management/).
+
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 
 Officiële bronnen

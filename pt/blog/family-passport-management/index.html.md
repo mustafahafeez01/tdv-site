@@ -53,6 +53,16 @@ Geralmente uma pessoa — o planeador da viagem — atua como custodiante do sis
 
 Ao reservar uma viagem, o primeiro passo torna-se automático: aceda ao seu sistema, puxe o perfil de cada membro da família, e verifique a data de validade contra os requisitos do seu destino. Faça isto antes de pagar pelos voos, porque não terá tempo para resolver documentos expirados depois de a viagem estar reservada. Se o passaporte de alguém estiver dentro de 12 meses de expiração, comece o processo de renovação imediatamente em vez de esperar poder enquadrá-lo depois.
 
+Quando expira cada passaporte?
+
+![Passaportes da família no Travel Document Vault](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/family-passports-poster.jpg) Publicidade. Os perfis familiares requerem Pro. Vozes geradas por IA. O vídeo está em inglês. O YouTube é carregado ao reproduzir o vídeo e pode usar cookies.
+
+![Descarregar na App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Obter no Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg) Transcrição do vídeo
+
+A viagem está reservada. Quando expiram os passaportes dos miúdos? Espera, tenho aqui as datas. O Travel Document Vault avisa-me antes de expirarem. Comece gratuitamente. Adicione toda a família com uma única compra de Pro.
+
 ## Guarde Uma Cópia Física Longe Dos Originais
 
 O armazenamento digital é conveniente, mas os dispositivos falham e as aplicações podem ter problemas. Cada família deve também manter uma cópia de segurança física de páginas de passaporte essenciais — guarde uma num local diferente dos originais.

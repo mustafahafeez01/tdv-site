@@ -89,6 +89,8 @@ Guarda tus copias digitales en un lugar cifrado y sin conexión —no en Google 
 
 Escanea tu pasaporte hoy, antes de necesitarlo.
 
+Cuando recibas tu nuevo pasaporte, puedes [llevar el control de su fecha de caducidad junto con las de los demás pasaportes de la familia](https://traveldocumentvault.com/es/blog/family-passport-management/).
+
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 
 Fuentes oficiales

@@ -87,6 +87,8 @@ Förvara dina digitala kopior någonstans krypterat och offline – inte i Googl
 
 Skanna ditt pass i dag, innan du behöver det.
 
+När du får ditt nya pass kan du [hålla koll på utgångsdatumet tillsammans med datumen för familjens övriga pass](https://traveldocumentvault.com/sv/blog/family-passport-management/).
+
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 
 Officiella källor

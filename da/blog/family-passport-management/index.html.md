@@ -53,6 +53,16 @@ Normalt fungerer én person – rejseplanlæggeren – som systemets vogter, sæ
 
 Når du booker en rejse, bliver det første skridt automatisk: log ind i dit system, træk hver familiemedlems profil op, og kontroller gyldighedsdatoen mod dit destinationskravs. Gør dette, før du betaler for fly, for du får ikke tid til at sortere udløbne dokumenter, når rejsen først er booket. Hvis nogen har pas, der udløber inden for 12 måneder, start fornyelsesprocessen med det samme i stedet for at håbe på at nå det senere.
 
+Hvornår udløber hvert pas?
+
+![Familiens pas i Travel Document Vault](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/family-passports-poster.jpg) Annonce. Familieprofiler kræver Pro. AI-genererede stemmer. Videoen er på engelsk. YouTube indlæses ved afspilning og kan sætte cookies.
+
+![Hent fra App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Hent fra Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg) Transskription af videoen
+
+Rejsen er booket. Hvornår udløber børnenes pas? Vent, jeg har datoerne lige her. Travel Document Vault minder mig om det, inden passene udløber. Kom gratis i gang. Tilføj hele familien med et engangskøb af Pro.
+
 ## Opbevar en fysisk backup væk fra originalerne
 
 Digital opbevaring er praktisk, men enheder fejler, og apps kan få problemer. Hver familie bør også opbevare én fysisk backup af vigtige passider – opbevar én på et andet sted end originalerne.

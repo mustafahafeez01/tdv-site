@@ -53,6 +53,16 @@ Biasanya satu orang, yang merencanakan perjalanan, berperan sebagai penanggung j
 
 Saat memesan perjalanan, langkah pertama pun jadi otomatis: masuk ke sistem Anda, buka profil setiap anggota keluarga, dan periksa tanggal masa berlaku terhadap persyaratan negara tujuan. Lakukan ini sebelum membayar tiket pesawat, karena Anda tidak akan sempat mengurus dokumen yang kedaluwarsa setelah perjalanan dipesan. Jika paspor siapa pun akan kedaluwarsa dalam 12 bulan ke depan, mulai proses perpanjangan segera, jangan berharap bisa menyisipkannya nanti.
 
+Kapan masa berlaku masing-masing paspor habis?
+
+![Paspor keluarga di Travel Document Vault](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/family-passports-poster.jpg) Iklan. Profil keluarga memerlukan Pro. Suara dibuat dengan AI. Video ini berbahasa Inggris. YouTube dimuat saat Anda memutar video dan dapat menyetel kuki.
+
+![Unduh di App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Dapatkan di Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg) Transkrip video
+
+Perjalanannya sudah dipesan. Kapan paspor anak-anak kedaluwarsa? Tunggu, tanggalnya ada di sini. Travel Document Vault mengingatkan saya sebelum paspornya kedaluwarsa. Mulai gratis. Tambahkan seluruh anggota keluarga dengan sekali membeli Pro.
+
 ## Simpan Cadangan Fisik Terpisah dari Dokumen Asli Anda
 
 Penyimpanan digital memang praktis, tapi perangkat bisa rusak dan aplikasi bisa bermasalah. Setiap keluarga sebaiknya juga menyimpan satu cadangan fisik dari halaman-halaman penting paspor, simpan di lokasi yang berbeda dari dokumen aslinya.

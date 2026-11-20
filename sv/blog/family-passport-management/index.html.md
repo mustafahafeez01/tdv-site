@@ -53,6 +53,16 @@ Vanligtvis en person – reseplaneringen – fungerar som systemets förvaltare,
 
 När du bokar en resa blir det första steget automatiskt: logga in i ditt system, ta fram varje familjemedlems profil, och kontrollera gültighetsdatumet mot ditt destinations krav. Gör detta innan du betalar för flyg, eftersom du inte hinner ordna utgångna handlingar när resan väl är bokad. Om någons pass är inom 12 månader från utgång när du bokar en resa, börja förnyelseprocessen omedelbar snarare än att hoppas kunna pressa in det senare.
 
+När går varje pass ut?
+
+![Familjens pass i Travel Document Vault](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/family-passports-poster.jpg) Annons. Familjeprofiler kräver Pro. AI-genererade röster. Videon är på engelska. YouTube laddas när du spelar upp videon och kan använda cookies.
+
+![Ladda ner från App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Ladda ner från Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg) Textversion av videon
+
+Resan är bokad. När går barnens pass ut? Vänta, jag har datumen här. Travel Document Vault påminner mig innan passen går ut. Börja gratis. Lägg till hela familjen med ett engångsköp av Pro.
+
 ## Förvara en fysisk säkerhetskopia på en annan plats än originalen
 
 Digitala lagring är bekväm, men enheter går sönder och appar kan ha problem. Varje familj bör också behålla en fysisk säkerhetskopiering av väsentliga passidor – behåll en på en annan plats än originalen.

@@ -53,6 +53,16 @@ Generalmente una persona —el planificador del viaje— actúa como custodio de
 
 Cuando estás reservando un viaje, el primer paso se vuelve automático: inicia sesión en tu sistema, accede al perfil de cada miembro de la familia y verifica la fecha de validez contra los requisitos de tu destino. Haz esto antes de pagar los vuelos, porque no tendrás tiempo para resolver documentos caducados una vez reservado el viaje. Si el pasaporte de alguien está dentro de 12 meses del vencimiento, comienza el proceso de renovación inmediatamente en lugar de esperar poder apretujarlo después.
 
+¿Cuándo caduca cada pasaporte?
+
+![Pasaportes de la familia en Travel Document Vault](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/family-passports-poster.jpg) Publicidad. Los perfiles familiares requieren Pro. Voces generadas con IA. El vídeo está en inglés. YouTube se carga al reproducirlo y puede instalar cookies.
+
+![Descargar en la App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Obtén en Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg) Transcripción del vídeo
+
+El viaje ya está reservado. ¿Cuándo caducan los pasaportes de los niños? Un momento, tengo aquí las fechas. Travel Document Vault me avisa antes de que caduquen. Empieza gratis. Añade a toda la familia con un único pago por Pro.
+
 ## Guarda una copia física lejos de los originales
 
 El almacenamiento digital es conveniente, pero los dispositivos fallan y las apps pueden tener problemas. Cada familia debe mantener también una copia de seguridad física de las páginas de pasaporte esenciales —guarda una en una ubicación diferente de los originales.

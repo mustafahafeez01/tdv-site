@@ -87,6 +87,8 @@ Opbevar dine digitale kopier et krypteret og offline sted – ikke i Google Phot
 
 Scan dit pas i dag, før du får brug for det.
 
+Når du har fået dit nye pas, kan du [holde styr på udløbsdatoen sammen med udløbsdatoerne for familiens øvrige pas](https://traveldocumentvault.com/da/blog/family-passport-management/).
+
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 
 Officielle kilder

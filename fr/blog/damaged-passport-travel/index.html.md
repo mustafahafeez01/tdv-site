@@ -87,6 +87,8 @@ Stockez vos copies numériques quelque part de chiffré et hors ligne — pas da
 
 Numérisez votre passeport dès aujourd'hui, avant d'en avoir besoin.
 
+Une fois votre nouveau passeport reçu, vous pouvez [suivre sa date d’expiration avec celles des autres passeports de la famille](https://traveldocumentvault.com/fr/blog/family-passport-management/).
+
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
 Sources officielles

@@ -87,6 +87,8 @@ Guarde as suas cópias digitais num local encriptado e offline — não no Googl
 
 Digitalize o seu passaporte hoje, antes de precisar dele.
 
+Quando receber o novo passaporte, pode [acompanhar a data de validade juntamente com as dos restantes passaportes da família](https://traveldocumentvault.com/pt/blog/family-passport-management/).
+
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 
 Fontes oficiais

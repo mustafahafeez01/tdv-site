@@ -53,6 +53,16 @@ Di solito è una persona sola, chi organizza i viaggi, a configurare il sistema 
 
 Quando prenoti un viaggio, il primo passo diventa un automatismo: apri il tuo sistema, guarda il profilo di ognuno e confronta la data di validità con i requisiti della destinazione. Fallo prima di pagare i voli, perché dopo non avrai il tempo di sistemare un documento scaduto. Se il passaporto di qualcuno scade entro 12 mesi da quando prenoti, avvia subito il rinnovo invece di sperare di trovare il tempo più avanti.
 
+Quando scade ciascun passaporto?
+
+![Passaporti della famiglia in Travel Document Vault](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/family-passports-poster.jpg) Pubblicità. I profili familiari richiedono Pro. Voci generate con l’IA. Il video è in inglese. YouTube si carica all’avvio del video e può impostare cookie.
+
+![Scarica dall'App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Scarica da Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg) Trascrizione del video
+
+Il viaggio è prenotato. Quando scadono i passaporti dei bambini? Aspetta, ho qui le date. Travel Document Vault mi avvisa prima che scadano. Inizia gratis. Aggiungi tutta la famiglia con un unico acquisto di Pro.
+
 ## Tieni un backup fisico lontano dagli originali
 
 L'archiviazione digitale è comoda, ma i dispositivi si rompono e le app possono dare problemi. Ogni famiglia dovrebbe avere anche un backup su carta delle pagine essenziali del passaporto, da tenere in un posto diverso dagli originali.

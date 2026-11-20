@@ -53,6 +53,16 @@ Habituellement, une personne — le planificateur du voyage — agit comme le ga
 
 Quand vous réservez un voyage, la première étape devient automatique : connectez-vous à votre système, consultez le profil de chaque membre de la famille, et vérifiez la date de validité par rapport aux exigences de votre destination. Faites-le avant de payer les vols, car vous n'aurez pas le temps de régler des documents expirés une fois le voyage réservé. Si le passeport de quelqu'un expire dans les 12 prochains mois, commencez le processus de renouvellement immédiatement plutôt que d'espérer pouvoir le faire plus tard.
 
+Quand expire chaque passeport ?
+
+![Passeports de la famille dans Travel Document Vault](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/family-passports-poster.jpg) Publicité. Les profils familiaux nécessitent Pro. Voix générées par IA. La vidéo est en anglais. YouTube se charge à la lecture et peut déposer des cookies.
+
+![Télécharger sur l'App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Télécharger sur Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg) Transcription de la vidéo
+
+Le voyage est réservé. Quand expirent les passeports des enfants ? Attends, j’ai les dates sous les yeux. Travel Document Vault me prévient avant qu’ils expirent. Commencez gratuitement. Ajoutez toute la famille avec un achat unique de Pro.
+
 ## Gardez une sauvegarde physique à l'écart de vos originaux
 
 Le stockage numérique est pratique, mais les appareils défaillent et les applications peuvent avoir des problèmes. Chaque famille devrait également garder une sauvegarde physique des pages essentielles du passeport — gardez-en une dans un endroit différent des originaux.

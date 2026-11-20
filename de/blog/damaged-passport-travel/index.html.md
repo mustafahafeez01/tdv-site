@@ -89,6 +89,8 @@ Bewahren Sie Ihre digitalen Kopien verschlüsselt und offline auf – nicht in G
 
 Scannen Sie Ihren Pass heute, bevor Sie ihn brauchen.
 
+Sobald Sie Ihren neuen Reisepass erhalten, können Sie [sein Ablaufdatum zusammen mit denen der übrigen Reisepässe Ihrer Familie im Blick behalten](https://traveldocumentvault.com/de/blog/family-passport-management/).
+
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 
 Offizielle Quellen

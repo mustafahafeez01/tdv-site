@@ -53,6 +53,16 @@ Usually one person, the trip planner, acts as the system's custodian, setting it
 
 When you're booking a trip, the first step becomes automatic: log into your system, pull up each family member's profile, and check the validity date against your destination's requirements. Do this before you pay for flights, because you won't have time to sort expired documents once the trip is booked. If anyone's passport is within 12 months of expiry, start the renewal process immediately rather than hoping to squeeze it in later.
 
+When does each passport expire?
+
+![Family passports in Travel Document Vault](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/family-passports-poster.jpg) Advertisement. Family profiles require Pro. AI-generated voices. YouTube loads on play and may set cookies.
+
+![Download on the App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Get it on Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg) Video transcript
+
+The trip’s booked. When do the kids’ passports expire? Hang on, I’ve got their dates right here. Travel Document Vault reminds me before they expire. Start free. Add the whole family with a one-time Pro upgrade.
+
 ## Keep a Physical Backup Away From Your Originals
 
 Digital storage is convenient, but devices fail and apps can have problems. Every family should also keep one physical backup of essential passport pages, stored in a different location from the originals.

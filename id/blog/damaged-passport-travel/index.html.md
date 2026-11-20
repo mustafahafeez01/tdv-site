@@ -87,6 +87,8 @@ Simpan salinan digital Anda di tempat yang terenkripsi dan offline, bukan di Goo
 
 Pindai paspor Anda hari ini, sebelum Anda membutuhkannya.
 
+Setelah paspor baru Anda tiba, Anda dapat [memantau tanggal kedaluwarsanya bersama tanggal kedaluwarsa paspor anggota keluarga yang lain](https://traveldocumentvault.com/id/blog/family-passport-management/).
+
 **Sebelum Anda mengandalkan ini:** ini blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 
 Sumber resmi

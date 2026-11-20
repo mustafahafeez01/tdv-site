@@ -53,6 +53,16 @@ Gewoonlijk fungeert één persoon – de reisplanner – als beheerder van het s
 
 Als je een reis boekt, wordt de eerste stap automatisch: log in op je systeem, pull het profiel van elk gezinslid en controleer de geldigheidsdatum tegen de vereisten van je bestemming. Doe dit voordat je voor vluchten betaalt, want je hebt geen tijd meer om verlopen documenten in orde te brengen als de reis eenmaal is geboekt. Als iemands paspoort binnen 12 maanden vervalt, start het vernieuwingsproces onmiddellijk in plaats van hopen dat je het er later nog in kunt persen.
 
+Wanneer verloopt elk paspoort?
+
+![Paspoorten van het gezin in Travel Document Vault](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/family-passports-poster.jpg) Advertentie. Voor gezinsprofielen is Pro vereist. De stemmen zijn gegenereerd met AI. De video is in het Engels. YouTube wordt geladen zodra je de video afspeelt en kan cookies plaatsen.
+
+![Download van de App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Download van Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg) Transcript van de video
+
+De reis is geboekt. Wanneer verlopen de paspoorten van de kinderen? Wacht even, ik heb de datums hier. Travel Document Vault herinnert me eraan voordat ze verlopen. Begin gratis. Voeg het hele gezin toe met een eenmalige upgrade naar Pro.
+
 ## Bewaar een fysieke back-up uit de buurt van je originelen
 
 Digitale opslag is handig, maar apparaten vallen uit en apps kunnen problemen hebben. Elk gezin moet ook één fysieke back-up van essentiële paspoortkopieën houden – bewaar deze op een andere locatie dan de originals.

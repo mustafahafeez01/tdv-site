@@ -53,6 +53,16 @@ Normalerweise übernimmt eine Person – der Reiseplaner – die Rolle des Syste
 
 Wenn Sie eine Reise buchen, wird der erste Schritt automatisch: Melden Sie sich in Ihrem System an, rufen Sie das Profil jedes Familienmitglieds auf, und überprüfen Sie das Gültigkeitsdatum gegen die Anforderungen Ihres Ziels. Tun Sie dies, bevor Sie für Flüge zahlen, denn sobald die Reise gebucht ist, bleibt Ihnen keine Zeit mehr, abgelaufene Dokumente in Ordnung zu bringen. Wenn der Pass einer Person innerhalb von 12 Monaten abläuft, starten Sie den Erneuerungsprozess sofort, statt zu hoffen, dass Sie es später noch schaffen.
 
+Wann läuft welcher Reisepass ab?
+
+![Reisepässe der Familie in Travel Document Vault](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/family-passports-poster.jpg) Werbung. Für Familienprofile ist Pro erforderlich. KI-generierte Stimmen. Das Video ist auf Englisch. Beim Abspielen wird YouTube geladen und kann Cookies setzen.
+
+![Im App Store laden](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Auf Google Play herunterladen](https://traveldocumentvault.com/assets/images/google-play-badge.svg) Transkript des Videos
+
+Die Reise ist gebucht. Wann laufen die Reisepässe der Kinder ab? Warte mal, ich habe die Daten gleich hier. Travel Document Vault erinnert mich rechtzeitig daran. Starten Sie kostenlos. Mit einem einmaligen Upgrade auf Pro können Sie die ganze Familie hinzufügen.
+
 ## Bewahren Sie eine physische Sicherung getrennt von den Originalen auf
 
 Digitale Speicherung ist praktisch, aber Geräte können ausfallen und Apps können Probleme haben. Jede Familie sollte auch eine physische Sicherung wesentlicher Pass-Seiten behalten – behalten Sie eine an einem anderen Ort als die Originale.

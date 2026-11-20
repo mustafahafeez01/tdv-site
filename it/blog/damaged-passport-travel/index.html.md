@@ -89,6 +89,8 @@ Conserva le tue copie digitali in un posto crittografato e offline — non su Go
 
 Scansiona il passaporto oggi, prima di averne bisogno.
 
+Una volta ricevuto il nuovo passaporto, puoi [tenere sotto controllo la sua scadenza insieme a quelle degli altri passaporti della famiglia](https://traveldocumentvault.com/it/blog/family-passport-management/).
+
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 
 Fonti ufficiali

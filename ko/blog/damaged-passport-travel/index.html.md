@@ -87,6 +87,8 @@ Source: https://traveldocumentvault.com/ko/blog/damaged-passport-travel/
 
 필요해지기 전에, 오늘 여권을 스캔해 두세요.
 
+새 여권을 받으면 [가족 구성원들의 여권 만료일을 한곳에서 관리](https://traveldocumentvault.com/ko/blog/family-passport-management/)할 수 있습니다.
+
 **이 글에 의존하기 전에:** 이 글은 블로그이며 공식 자료가 아닙니다. 규정과 세부 사항은 바뀌고, 여러분의 상황은 다를 수 있습니다. 저희는 게시하는 내용을 확인하지만 그래도 틀리거나 오래된 정보일 수 있습니다. 여기 적힌 내용이 계획에 중요하다면, 움직이기 전에 담당 기관에 확인하시기 바랍니다.
 
 공식 출처

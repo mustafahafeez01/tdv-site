@@ -53,6 +53,16 @@ Source: https://traveldocumentvault.com/ja/blog/family-passport-management/
 
 旅行を予約するとき、最初のステップは自動になります。システムにログインして、各ご家族メンバーのプロフィールを引き出して、有効期限を目的地の要件と確認します。これは飛行機に支払う前にしてください。旅行を予約してしまうと、期限切れの書類を整理する時間は残っていないからです。有効期限が12ヶ月以内の人がいる場合、後でそれを絞るのを望むのではなく、すぐに更新プロセスを開始してください。
 
+家族それぞれのパスポートは、いつまで有効？
+
+![Travel Document Vaultに表示された家族のパスポート](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/family-passports-poster.jpg) 広告。家族のプロフィールを追加するにはProが必要です。音声はAIで生成しています。動画の音声は英語です。再生するとYouTubeが読み込まれ、Cookieが使用される場合があります。
+
+![App Storeでダウンロード](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Google Playで入手](https://traveldocumentvault.com/assets/images/google-play-badge.svg) 動画の文字起こし
+
+旅行の予約が取れたよ。子どもたちのパスポートはいつまで有効だっけ？ ちょっと待って。ここに日付があるよ。Travel Document Vaultが期限前に知らせてくれる。まずは無料で。家族全員分を追加するには、買い切りのProにアップグレード。
+
 ## 物理的なバックアップは、原本から離れた場所に保管しましょう
 
 デジタルストレージは便利ですが、デバイスは故障し、アプリに問題が発生することがあります。すべてのご家族は、必須のパスポートページの物理的なバックアップを1つ保管する必要があります。元のパスポートとは異なる場所に1つを保管します。

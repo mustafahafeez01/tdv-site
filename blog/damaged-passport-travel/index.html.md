@@ -85,6 +85,8 @@ A clear digital photo of your passport helps here. Keep the data page, the front
 
 Store your digital copies somewhere encrypted and offline, not Google Photos or iCloud shared with others. Travel Document Vault stores passport photos encrypted on your device for offline viewing. You can share or export copies, or use encrypted cloud backup with Pro. Scan your passport today, before you need it.
 
+Once your replacement arrives, you can [track its expiry date alongside the rest of your family’s passports](https://traveldocumentvault.com/blog/family-passport-management/).
+
 Keep your own passport and visa dates on your phone, with reminders before they expire.
 
 ![Download on the App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
