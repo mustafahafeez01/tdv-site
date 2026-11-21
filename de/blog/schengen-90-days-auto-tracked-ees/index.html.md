@@ -10,61 +10,61 @@ Source: https://traveldocumentvault.com/de/blog/schengen-90-days-auto-tracked-ee
 
 ## Wichtigste Erkenntnisse
 
-- **Reisepassstempel gehören der Vergangenheit an.** Seit 10. April 2026 erfasst das Einreise-/Ausreisesystem (EES) der EU jeden Schengen-Ein- und Ausreisedatensatz von Nicht-EU-Reisenden digital, mit Gesichtsbild und, bei den meisten Reisenden, Fingerabdrücken.
-- Das EES **erkennt Überschreitungen automatisch.** Erwarten Sie bei Ihrer nächsten Einreise eine Verweigerung, möglicherweise sogar ein Einreiseverbot, in der Regel von bis zu fünf Jahren.
-- **Das EES erzwingt, es plant nicht.** Das EES-Online-Tool der EU zeigt Ihre verbleibenden Tage an, aber ob eine zukünftige Reise in Ihr rollierendes 90/180-Fenster passt, müssen Sie weiterhin selbst herausfinden.
-- Der offizielle **Kurzaufenthaltsrechner der EU** funktioniert, aber er ist manuell – eine Person, ein Fenster, eine Berechnung nach der anderen.
+- **Bei erfassten Kurzaufenthalten ersetzt das EES den routinemäßigen Passstempel.** Seit dem 10. April 2026 erfasst es Ein- und Ausreisen, ein Gesichtsbild und bei visumbefreiten Reisenden ab 12 Jahren vier Fingerabdrücke.
+- **Das EES kann Überschreitungen der Aufenthaltsdauer erkennen.** Die Folgen hängen vom Land und den Umständen ab. Möglich sind Sanktionen oder ein Einreiseverbot.
+- **Die EES-Abfrage beruht auf gespeicherten Aufenthalten.** Sie nimmt auch künftige Reisedaten an. Führen Sie eigene Aufzeichnungen, falls Daten fehlen.
+- Der **offizielle Kurzaufenthaltsrechner** bietet einen Prüf- und einen Planungsmodus. Geben Sie Ihre Reisedaten ein. Erlaubt Ihr Kurzaufenthaltsvisum weniger als 90 Tage, ist die darin angegebene Dauer maßgeblich.
 - Familien verwalten **ein separates Fenster pro Person.** Hier kommt eine Tracking-App zur Hilfe.
 
-Bei Ihrer letzten Europareise bekamen Sie wahrscheinlich einen Stempel an der Grenze. Dieser Stempel ist weg. Seit 10. April 2026 ist das Einreise-/Ausreisesystem (EES) der EU [vollständig im gesamten Schengen-Raum in Betrieb](https://home-affairs.ec.europa.eu/news/entryexit-system-will-become-fully-operational-10-april-2026-2026-03-30_en), und die verwaschene Tinte, die einst Ihre Reisen erfasste, wurde durch eine digitale Aufzeichnung ersetzt, die im Moment Ihrer Einreise beginnt.
+Seit dem 10. April 2026 ist das Einreise-/Ausreisesystem der EU (EES) an den Schengen-Außengrenzen [vollständig in Betrieb](https://home-affairs.ec.europa.eu/news/entryexit-system-will-become-fully-operational-10-april-2026-2026-03-30_en). Für erfasste Reisende ersetzt eine digitale Aufzeichnung den routinemäßigen Passstempel.
 
-Für alle, die Schengen-Tage zählen – und jeder Nicht-EU-Besucher sollte das tun – ändert sich dadurch einiges. Hier erfahren Sie, was das neue System wirklich tut, was es bewusst nicht tut, und wie Sie Ihren eigenen Überblick behalten, damit Sie an der Grenze nie überrascht werden.
+Wenn Sie die Tage eines Kurzaufenthalts im Schengen-Raum zählen müssen, können Sie die gespeicherten Angaben mit Ihren eigenen Reisedaten abgleichen.
 
 ## Was sich an Europas Grenzen geändert hat
 
-Das EES erfasst Fingerabdrücke, Gesichtsbild, Reisedokument sowie genaue Ein- und Ausreisedaten jedes Nicht-EU-Reisenden. In ihrer Mitteilung vom Juli berichtete die [Europäische Kommission](https://home-affairs.ec.europa.eu/news/entry-exit-system-fully-operational-10-april-2026-who-exempt-2026-07-27_en), dass das EES seit seinem Start über 145 Millionen Ein- und Ausreisen registriert hatte. Die Erstregistrierung dauert an den Schaltern einige Minuten, und an Flughäfen wurden mehrstündige Warteschlangen während der Spitzenzeiten dieses Sommers berichtet, während sich alle ans System gewöhnen.
+Das EES speichert Reisedokumentdaten, ein Gesichtsbild sowie die Ein- und Ausreisedaten erfasster Reisender von außerhalb der EU. Bei Visumbefreiten ab 12 Jahren kommen vier Fingerabdrücke hinzu. Bei einem Kurzaufenthaltsvisum dient im EES nur das Gesichtsbild als biometrisches Merkmal; für das Visum erhobene Fingerabdrücke werden gegebenenfalls im Visa-Informationssystem gespeichert. Im Juli meldete die [Europäische Kommission](https://home-affairs.ec.europa.eu/news/entry-exit-system-fully-operational-10-april-2026-who-exempt-2026-07-27_en) über 145 Millionen erfasste Ein- und Ausreisen seit dem Start.
 
-Nicht alle sind registriert. EU-Bürger, Bewohner von Schengen-Ländern und Inhaber von Langaufenthaltsvisas sind befreit. Wenn Sie im Rahmen der visumfreien Kurzaufenthaltsberechtigung reisen – dies trifft beispielsweise auf die meisten britischen, amerikanischen, kanadischen und australischen Reisenden zu – gilt das EES für Sie.
+Staatsangehörige der EU, des EWR und der Schweiz sind ausgenommen. Das gilt auch für Aufenthaltstitel und Visa für längerfristige Aufenthalte aus einem EES-Staat. Für bestimmte Familien- und Aufenthaltssituationen gelten weitere Ausnahmen. Die Staatsangehörigkeit allein entscheidet nicht.
 
 ## Die 90/180-Regel unter einem System, das nicht blinzelt
 
-Die Regel selbst hat sich nicht geändert: Sie dürfen sich maximal 90 Tage innerhalb des Schengen-Raums während eines beliebigen rollierenden 180-Tage-Fensters aufhalten. Das sind nicht 90 Tage pro Kalenderjahr, und das Fenster setzt sich nicht zurück, wenn Sie abreisen. Für jeden Tag, an dem Sie anwesend sind, dürfen die vorherigen 180 Tage nicht mehr als 90 Tage Aufenthalt enthalten.
+Üblicherweise sind bis zu 90 Tage Kurzaufenthalt je gleitendem Zeitraum von 180 Tagen erlaubt. Eine kürzere Aufenthaltsdauer auf Ihrem Visum bleibt maßgeblich. Zählen Sie für jeden Aufenthaltstag den Tag selbst und die 179 Tage davor. Die Ausreise setzt den Zeitraum nicht zurück.
 
-![Zeitstrahl-Diagramm zum rollierenden 90/180-Schengen-Fenster: von vor 180 Tagen bis heute verbrauchen zwei Reisen von 30 und 45 Tagen 75 der 90 Tage, es bleiben 15; das Fenster verschiebt sich jeden Tag, und An- und Abreisetag zählen beide](https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/90-180-window-de.jpg) Das Fenster setzt sich nie zurück: für jeden einzelnen Tag dürfen die vorherigen 180 Tage höchstens 90 Aufenthaltstage enthalten.
+![Zum Zeitraum gehören der Prüftag und die 179 Tage davor. Die linke Markierung liegt genau einen Tag außerhalb des Fensters.](https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/90-180-window-de.jpg) Zum Zeitraum gehören der Prüftag und die 179 Tage davor. Die linke Markierung liegt genau einen Tag außerhalb des Fensters.
 
-Was sich geändert hat, ist die Kontrolle. Unter Reisepassstempeln bedeutete der Nachweis einer Überschreitung, verwischte Tinte zu entziffern, und Grenzbeamte hatten einen gewissen Spielraum. Jetzt sind die Daten exakt, und das System flaggt eine Überschreitung in dem Moment, in dem sie passiert. Erwarten Sie Verweigerung bei Ihrer nächsten Einreise, und in manchen Fällen ein [Einreiseverbot](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32008L0115), in der Regel von bis zu fünf Jahren, das Beamte ins Schengen-Informationssystem eintragen. Der Spielraum für Fehler ist von unklar zu null gesunken.
+Das EES kann Überschreitungen erkennen und erfassen. Je nach nationalem Recht und Umständen sind eine Rückkehrentscheidung, ein Bußgeld oder Einreisebeschränkungen möglich. Belege für unvorhersehbare oder mildernde Umstände können Sie den Behörden mit einem Antrag auf Berichtigung vorlegen.
 
-## Der Haken: Das EES erzwingt, es plant nicht
+## Reisen mit der EES-Abfrage vorbereiten
 
-Das EES erfasst Ihre Tage zur Kontrolle, und die EU lässt Sie jetzt sehen, wo Sie stehen. Ihr EES-Online-Tool, auf der offiziellen [Website Travel to Europe](https://travel-europe.europa.eu/en/ees), zeigt an, wie viele Tage Sie noch bleiben dürfen, und an manchen Außengrenzübergängen wird dieselbe Prüfung angeboten. Was es zeigt, ist Ihre bisherige Aufzeichnung. Ob eine Reise, die Sie noch nicht angetreten haben, hineinpasst, müssen Sie weiterhin selbst herausfinden.
+Die [offizielle EES-Abfrage](https://travel-europe.europa.eu/ees/check-how-long-you-can-stay) ermittelt die verbleibenden Tage anhand Ihres Reisedokuments und gespeicherter Aufenthalte. Sie akzeptiert auch geplante Ein- und Ausreisedaten. „OK“ oder „nicht OK“ ist keine Einreiseentscheidung.
 
-Die EU veröffentlicht einen offiziellen Kurzaufenthaltsrechner, den Sie sich gerne merken können. Sie geben Ihre bisherigen Ein- und Ausreisedaten ein, und das Tool sagt Ihnen, ob ein geplanter Aufenthalt in Ihr Fenster passt. Es funktioniert gut für einen Reisenden, der gute Aufzeichnungen führt. Die Hürde kommt, wenn die Daten in Ihrer Erinnerung leben oder wenn Sie die Übung für vier Personen gleichzeitig durchführen.
+Der [offizielle Kurzaufenthaltsrechner der Europäischen Kommission](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en) prüft oder plant Aufenthalte anhand selbst eingegebener Daten. Stehen auf Ihrem Kurzaufenthaltsvisum weniger als 90 Tage, richten Sie sich nach der dort erlaubten Dauer.
 
 ## Für wen das EES gilt und wer ausgenommen ist
 
-Das EES gilt nicht für alle. Das System registriert Nicht-EU-Besucher, die mit der visumfreien Kurzaufenthaltsberechtigung einreisen, sowie Inhaber von Kurzaufenthaltsvisa. Wenn Sie die Staatsangehörigkeit der USA, Großbritanniens, Kanadas, Australiens oder eines von Dutzenden anderer Länder besitzen, gilt das EES für Sie in dem Moment, in dem Sie den Schengen-Raum betreten.
+Das EES erfasst in der Regel Drittstaatsangehörige bei Kurzaufenthalten mit oder ohne Visum, sofern keine Ausnahme gilt. Der Pass muss üblicherweise noch mindestens drei Monate nach der geplanten Ausreise gültig sein und in den zehn Jahren vor der Einreise ausgestellt worden sein. Unser [Ratgeber zur Passgültigkeit](https://traveldocumentvault.com/de/blog/passport-expiry-6-month-rule/) erläutert die Regeln je nach Ziel.
 
 Wenn Sie EU-, EWR- oder Schweizer Bürger sind, sind Sie ausgenommen - Ihr Reisepass durchläuft kein besonderes Einreiseverfahren, und das EES erfasst Ihre Ein- und Ausreisen nicht. Die [offizielle Liste der Ausnahmen](https://home-affairs.ec.europa.eu/news/entry-exit-system-fully-operational-10-april-2026-who-exempt-2026-07-27_en) ist länger und umfasst auch Nicht-EU-Familienangehörige von EU-Bürgern, die eine Aufenthaltskarte besitzen. Von der EES-Erfassung ausgenommen zu sein, ist jedoch nicht dasselbe wie von der 90/180-Regel ausgenommen zu sein. Wenn Sie als Nicht-EU-Besucher einen Kurzaufenthalt machen, gilt die Regel unabhängig davon, ob eine Grenze Sie bereits erfasst hat. Zeit, die Sie in einem Schengen-Land mit einem Aufenthaltstitel oder einem Langzeitvisum (Typ D) dieses Landes verbringen, zählt nicht dazu, aber Kurzbesuche in anderen Schengen-Ländern tun das in der Regel weiterhin, prüfen Sie daher bei der Behörde, die Ihren Titel ausgestellt hat.
 
 ## Was bei Ihrer ersten EES-Grenzkontrolle passiert
 
-Das System legt Ihre Akte bei Ihrer ersten Einreise in den Schengen-Raum an. Sie stellen sich an einem biometrischen Kiosk an der Grenze an - Flughafen, Hafen oder Landgrenzübergang. Ein Beamter scannt Ihren Reisepass oder Ihr Reisedokument, um Ihre Identität zu prüfen. Das System erfasst Ihr Gesichtsbild. Brauchen Sie kein Visum, nimmt es zusätzlich [vier Fingerabdrücke](https://travel-europe.europa.eu/en/ees/faq); reisen Sie mit einem Kurzaufenthaltsvisum, speichert es nur Ihr Gesichtsbild, da Ihre Fingerabdrücke bereits bei der Antragstellung genommen wurden. Das dauert länger als der Stempel, den es ersetzt, und Sie tun es nur einmal.
+Beim ersten erfassten Grenzübertritt kontrollieren Grenzbeamte Ihr Reisedokument und erfassen ein Gesichtsbild. An manchen Übergängen gibt es Geräte zur Selbsterfassung vor der Prüfung. Visumbefreite Reisende ab 12 Jahren geben im Regelfall [vier Fingerabdrücke](https://travel-europe.europa.eu/en/ees/faq) ab. Bei einem Kurzaufenthaltsvisum verwendet das EES das Gesichtsbild. Bei späteren Übertritten wird der Datensatz meist überprüft; die Behörden können Daten erneut erheben.
 
-Nach der Registrierung erfasst das System das genaue Datum und die Uhrzeit Ihrer Einreise. Überschreiten Sie später Ihre 90 von 180 Tagen, wird dieser Zeitstempel zum Referenzpunkt, den das EES zur Berechnung Ihres rollierenden Fensters verwendet.
+Das System speichert Datum und Uhrzeit der Ein- und Ausreise. Einreise- und Ausreisetag zählen nach dem [Schengener Grenzkodex](https://eur-lex.europa.eu/eli/reg/2016/399) als Aufenthaltstage.
 
 ## Was sich bei späteren Grenzübertritten ändert
 
-Ihre zweite und weitere Einreisen laufen schneller ab. Statt einer vollständigen Registrierung gleicht das System Ihre Daten mit Ihrer Erstregistrierung ab - es vergleicht Ihr Gesichtsbild mit dem gespeicherten und bestätigt, dass Sie dieselbe Person sind. Das System erfasst erneut Ihre Einreisezeit. Weil jede Ein- und Ausreise erfasst wird, können Grenzbeamte bei jedem Übertritt Ihre jüngsten Reisen gegen die 90/180-Regel prüfen.
+Bei späteren Übertritten können Grenzbeamte das Gesichtsbild mit dem vorhandenen Datensatz abgleichen und gespeicherte Ein- und Ausreisen zur Prüfung der 90/180-Regel heranziehen.
 
-Liegen Ihre Daten innerhalb der Regel, läuft die Einreise wie gewohnt ab. Zeigen sie, dass Sie länger als erlaubt geblieben sind, macht das System dies für den Beamten leicht erkennbar, und eine Verweigerung ist wahrscheinlich. Die Entscheidung liegt weiterhin beim Grenzbeamten.
+Die zulässige Aufenthaltsdauer ist nur eine Einreisevoraussetzung. Das EES kann eine Überschreitung anzeigen. Welche Folgen sie hat, hängt vom Land und den Umständen ab. Über die Einreise entscheidet der Grenzbeamte.
 
 ## Kinder und die biometrische Registrierung
 
-Das EES nimmt Kinder unter 12 Jahren derzeit von der Fingerabdruckerfassung aus. Wenn ein Elternteil oder Erziehungsberechtigter ein Kind zur Grenze bringt, erfasst der Beamte trotzdem ein Gesichtsbild für die EES-Akte - das System muss wissen, dass dieses Kind die Grenze überquert hat und wann. Der Beamte lässt die Fingerabdrücke aus. Mit 12 Jahren ändern sich die Regeln; ab diesem Zeitpunkt umfasst die biometrische Registrierung eines Kindes auch Fingerabdrücke.
+Bei Kindern unter 12 Jahren wird ein Gesichtsbild erfasst, aber es werden keine Fingerabdrücke genommen. Visumbefreite Kinder ab 12 Jahren geben in der Regel vier Fingerabdrücke ab. Bei einem Kurzaufenthaltsvisum dient dem EES nur das Gesichtsbild als biometrisches Merkmal.
 
 ## So prüfen Sie, wie lange Sie unter dem EES noch bleiben dürfen
 
-Die schnellste offizielle Prüfung ist das Tool „Wie lange dürfen Sie bleiben“ auf der Website Travel to Europe. Es zeigt Ihnen, ob Ihre Einreise erlaubt ist, mit der Antwort OK oder NOT OK, und **wie viele Tage Sie noch bleiben dürfen** in den Ländern, die das EES nutzen. An manchen Außengrenzübergängen führt die gleiche Prüfung ein Gerät durch, und auch Grenzbeamte können es Ihnen sagen.
+Das EU-Tool „Prüfen Sie, wie lange Sie sich aufhalten dürfen“ zeigt „OK“ oder „nicht OK“ sowie **die verbleibenden Aufenthaltstage** für die EES-Staaten. An manchen Außengrenzen gibt es dieselbe Abfrage; dort können auch die Beamten Auskunft geben.
 
 Halten Sie Folgendes bereit, bevor Sie beginnen:
 
@@ -72,9 +72,9 @@ Halten Sie Folgendes bereit, bevor Sie beginnen:
 - Art und Nummer Ihres Reisedokuments sowie den Dreibuchstabencode des ausstellenden Landes (CAN für Kanada, zum Beispiel)
 - ein oder zwei Daten, je nach Ihrer Frage: Ihr Ankunftsdatum für eine künftige Reise, Ihr Abreisedatum, falls Sie schon dort sind, oder beides, wenn Sie wissen möchten, was nach einer geplanten Reise übrig bleibt
 
-Zwei Grenzen sollten Sie kennen, bevor Sie der Zahl vertrauen. Die EU erklärt im Tool selbst, dass die Antwort OK oder NOT OK keine Entscheidung über die Gewährung oder Verweigerung der Einreise ist, denn diese Entscheidung trifft weiterhin der Grenzbeamte. Die Zählung lässt außerdem jeden Aufenthalt aus, der begann, bevor das EES am 10. April die Passstempel ersetzte - fällt eine dieser Reisen noch in Ihre letzten 180 Tage, müssen Sie sie selbst hinzurechnen.
+Die Antwort ist keine Einreiseentscheidung. Die Abfrage lässt Aufenthalte unberücksichtigt, die vor dem 10. April 2026 begonnen haben, selbst wenn sie danach andauerten. Rechnen Sie davon nur Tage ein, die in Ihr gleitendes Fenster fallen.
 
-Für eine Reise, die Sie noch planen, empfehlen wir, das Tool mit dem Kurzaufenthaltsrechner der Europäischen Kommission zu kombinieren, der mit von Ihnen eingegebenen Ein- und Ausreisedaten arbeitet und einen Planungsmodus für zukünftige Daten bietet. Die Kommission bezeichnet ihn ausdrücklich nur als Hilfsmittel. Führen Sie die Prüfung für jede reisende Person einzeln mit ihrem eigenen Reisepass durch, denn jeder Reisende hat eine eigene Zählung.
+Für geplante Reisen können Sie die Daten im Planungsmodus des Kurzaufenthaltsrechners eingeben. Stehen auf Ihrem Visum weniger als 90 Tage, richten Sie sich stattdessen nach dieser Dauer. Prüfen Sie jede mitreisende Person einzeln. Keines der Tools garantiert die Einreise.
 
 ## Die Meldung „kann derzeit nicht berechnet werden“
 
@@ -82,11 +82,11 @@ Das EU-Tool „Wie lange dürfen Sie bleiben“ kann diese Antwort geben: „Ihr
 
 Wir würden die Meldung als Datenlücke lesen, nicht als Urteil über Ihren Aufenthalt, denn so formuliert es auch die EU. Wie die anderen beiden Antworten des Tools ist sie keine Einreiseentscheidung. Solange das Tool Ihnen keine Zahl nennen kann, zählen Sie Ihre Tage selbst und halten Sie jeden Tag fest, den Sie im Schengen-Raum verbringen.
 
-Falls die Meldung bei einer Online-Prüfung immer wieder erscheint, oder die angezeigte Zahl falsch wirkt, rät die EU, sich an die Behörden des Landes zu wenden, in dem Sie zuletzt in den Schengen-Raum eingereist oder aus ihm ausgereist sind. Wenn Sie den Schengen-Raum seit der Ablösung der Passstempel durch das EES nicht besucht haben, wenden Sie sich stattdessen an das Land, das Sie besuchen möchten. Die Website Travel to Europe listet für jedes Land die passende Kontaktstelle auf.
+Bleibt die Meldung bestehen oder scheint die Zahl falsch, fragen Sie die Behörden des Landes, über das Sie zuletzt in den Schengen-Raum ein- oder ausgereist sind. Waren Sie seit dem 10. April 2026 nicht im Schengen-Raum, wenden Sie sich an Ihr geplantes Zielland.
 
 ## Ihr Fenster in der Praxis nachverfolgen
 
-Wenn Sie bereits unter dem EES gereist sind, ist die schnellste Prüfung das EES-Online-Tool der EU, das anhand Ihrer Aufzeichnung zeigt, wie viele Tage Sie noch bleiben dürfen. Um eine Reise zu planen oder diese Aufzeichnung mit Ihrer eigenen abzugleichen, zählen Sie von Hand: Nehmen Sie das heutige Datum und blicken Sie 180 Tage zurück. Zählen Sie jeden Tag, an dem Sie sich in dieser Zeit physisch in einem Schengen-Land aufgehalten haben – Ein- und Ausreisetage zählen beide, Tage in Zypern oder Irland jedoch nicht. Subtrahieren Sie die Gesamtzahl von 90; das ist, was Sie heute noch haben. Weil ältere Tage herausfallen, sobald sich das Fenster weiterdreht, kann eine längere zukünftige Reise manchmal trotzdem hineinpassen, weshalb der Kurzaufenthaltsrechner der EU einen geplanten Aufenthalt gegen Ihre vollständige Reisegeschichte prüft und nicht nur gegen eine Einzelzahl.
+Nehmen Sie den Prüftag und die 179 Tage davor. Zählen Sie Ihre Kurzaufenthaltstage im Schengen-Raum einschließlich Ein- und Ausreisetag. Tage in Zypern und Irland zählen hier nicht. Ziehen Sie bei der üblichen visumfreien Regel die Summe von 90 ab. Beachten Sie bei einem Kurzaufenthaltsvisum auch dessen zugelassene Dauer.
 
 Für eine Person, die ein- oder zweimal pro Jahr reist, ist das völlig machbar. Es wird schwieriger, wenn Reisen sich überschneiden und die Anzahl der Personen wächst: ein Geschäftsreisender mit monatlichen Kurzflügen, oder eine Familie, in der ein Kind einen Schüleraustausch macht, ein anderes zu Sommerlagerdaten reist, und ein Partner früher nach Hause fliegt. Jede Person hat ihr eigenes rollierendes Fenster, und die Fenster stimmen nicht überein. Dies ist die Situation, in der ein Tracking-Tool aufhört, ein Gadget zu sein, und anfängt, wie Sie einen teuren Fehler vermeiden – unser [Leitfaden zum Visa- und Einreise-Tracking](https://traveldocumentvault.com/de/blog/visa-expiry-tracker-app/) deckt das breitere Problem ab.
 
@@ -96,9 +96,9 @@ Travel Document Vault liest Ihren EES-Datensatz nicht aus. Mit Pro zählt die Ap
 
 **EES ist kein Visumsystem.** Sie beantragen das EES nicht und es gibt keine Genehmigung, auf die Sie warten – es passiert automatisch an der Grenze statt. Ob Sie überhaupt ein Visum benötigen, hängt wie zuvor von Ihrer Nationalität ab.
 
-**Sie benötigen wegen des EES keine Versicherung oder Kontoauszüge.** Einige frühe Berichterstattung schuf Verwirrung zu diesem Punkt, aber das EES erfasst Ein- und Ausreisen – sonst nichts. Versicherungsanforderungen gehören zu spezifischen Visumtypen, nicht zum Grenzsystem.
+**Die üblichen Einreisevoraussetzungen gelten weiterhin.** Grenzbeamte können Nachweise verlangen, etwa ausreichende Mittel oder ein Rückflugticket. Prüfen Sie die Vorschriften für Ihre Staatsangehörigkeit, Ihr Visum und Ihr Reiseziel.
 
-**ETIAS ist ein vollständig separates System.** Es ist eine Vorabreisegenehmigung für visumfreie Reisende, die später startet – das genaue Datum wurde noch nicht angekündigt. Wenn es ankommt, beantragen Sie online vor dem Flug, ähnlich wie beim US ESTA. Unser [ETIAS-Leitfaden](https://traveldocumentvault.com/de/blog/etias-documents-2026/) erklärt, wie Sie sich vorbereiten. Für jetzt ist das EES das System, das Sie tatsächlich an der Grenze treffen.
+**ETIAS ist ein separates System.** Es wird eine vorherige Reisegenehmigung für visumbefreite Reisende sein. Ein genauer Starttermin wurde noch nicht angekündigt. Unser [ETIAS-Ratgeber](https://traveldocumentvault.com/de/blog/etias-documents-2026/) erklärt die Vorbereitung vor der Reise.
 
 ## Einen Schritt voraus der Grenze
 
@@ -114,21 +114,20 @@ Offizielle Quellen
 - [European Commission: Entry/Exit System (EES) is fully operational](https://home-affairs.ec.europa.eu/news/entryexit-system-ees-fully-operational-2026-04-10_en)
 - [European Commission: Commission report shows Schengen area continues to be resilient and ready for future challenges](https://home-affairs.ec.europa.eu/news/commission-report-shows-schengen-area-continues-be-resilient-and-ready-future-challenges-2026-05-18_en)
 - [European Commission: The Entry Exit System is fully operational since 10 April 2026. Who is exempt?](https://home-affairs.ec.europa.eu/news/entry-exit-system-fully-operational-10-april-2026-who-exempt-2026-07-27_en)
-- [EU law: Return Directive (2008/115/EC)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32008L0115)
 
 ## Häufig gestellte Fragen
 
 ### Was passiert, wenn ich die Schengen-90/180-Regel um einen Tag überschreite?
 
-Das EES erfasst jeden Ein- und Ausreisedatensatz digital, sodass selbst eine kurze Überschreitung automatisch registriert wird. Sie müssen bei Ihrer nächsten Einreise in den Schengen-Raum mit einer Verweigerung rechnen, und je nach den Umständen ist auch ein Einreiseverbot möglich, das nach EU-Recht in der Regel fünf Jahre nicht überschreitet. Genaues Tageszählen ist wichtiger denn je.
+Das EES kann auch eine kurze Überschreitung erkennen und erfassen. Je nach Land und Umständen sind Sanktionen oder ein Einreiseverbot möglich. Eine frühere Überschreitung führt nicht automatisch zur nächsten Einreiseverweigerung. Bewahren Sie Reisedaten und Belege für unvorhersehbare oder mildernde Umstände auf.
 
 ### Kann ich nach der Einreise überprüfen, wie viele Schengen-Tage mir noch bleiben?
 
-Ja. Das EES-Online-Tool der EU, auf der offiziellen Website Travel to Europe, zeigt an, wie viele Tage Sie noch bleiben dürfen, und an manchen Außengrenzübergängen wird dieselbe Prüfung angeboten. Um eine zukünftige Reise zu planen, nutzen Sie den Kurzaufenthaltsrechner der EU mit Ihrer vollständigen Reisegeschichte, und führen Sie selbst Aufzeichnungen über Ihre Ein- und Ausreisedaten, falls die Daten des Systems unvollständig sind.
+Ja. Das EES-Tool auf der offiziellen Website Travel to Europe zeigt die verbleibenden Tage an und berücksichtigt geplante Reisedaten. Manche Außengrenzübergänge bieten dieselbe Abfrage. Im separaten Kurzaufenthaltsrechner geben Sie die Daten selbst ein. Bei einem Visum für weniger als 90 Tage gilt die aufgedruckte Dauer. Führen Sie eigene Aufzeichnungen, falls Daten fehlen.
 
 ### Gibt es einen offiziellen EES-Tagesrechner?
 
-Ja, die EU betreibt zwei. Ihr Tool „Wie lange dürfen Sie bleiben“ auf der Website Travel to Europe nutzt die Angaben Ihres Reisedokuments, um die Tage zu zeigen, die Sie noch bleiben dürfen, mit der Antwort OK oder NOT OK. Der Kurzaufenthaltsrechner der Europäischen Kommission arbeitet mit von Ihnen eingegebenen Ein- und Ausreisedaten, und die Kommission bezeichnet ihn nur als Hilfsmittel. Keine der beiden Antworten ist eine Entscheidung über die Einreise, denn diese trifft weiterhin der Grenzbeamte.
+Ja. Die EES-Abfrage nutzt Ihre Reisedokumentdaten und zeigt mit „OK“ oder „nicht OK“ die verbleibenden Tage an. Der Kurzaufenthaltsrechner der Kommission bietet einen Prüf- und Planungsmodus mit eigenen Eingaben. Erlaubt Ihr Visum weniger als 90 Tage, gilt diese Dauer. Über die Einreise entscheidet der Grenzbeamte.
 
 ### Benötige ich wegen EES ein Visum oder eine Reiseversicherung?
 

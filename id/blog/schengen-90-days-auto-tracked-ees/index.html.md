@@ -10,61 +10,61 @@ Source: https://traveldocumentvault.com/id/blog/schengen-90-days-auto-tracked-ee
 
 ## Poin Penting
 
-- **Stempel paspor sudah tidak ada lagi.** Sejak 10 April 2026, Sistem Masuk/Keluar (EES) Uni Eropa mencatat setiap masuk dan keluar Schengen pelancong non-UE secara digital, lengkap dengan gambar wajah dan, untuk sebagian besar pelancong, sidik jari.
-- EES kini **mendeteksi kelebihan tinggal secara otomatis**. Bersiaplah menghadapi penolakan pada kunjungan berikutnya, dan kemungkinan larangan masuk, umumnya hingga lima tahun.
-- **EES menegakkan aturan, bukan merencanakan.** Alat daring EES dari UE menampilkan sisa hari Anda, tapi memastikan apakah perjalanan mendatang muat dalam jendela 90/180 bergulir Anda tetap menjadi tugas Anda sendiri.
-- **Kalkulator resmi tinggal singkat** dari UE berfungsi, tapi manual — satu orang, satu jendela, satu perhitungan setiap kali.
+- **EES menggantikan pemberian cap paspor rutin untuk kunjungan singkat yang tercakup.** Sejak 10 April 2026, sistem mencatat kedatangan, keberangkatan, dan foto wajah. Pelancong bebas visa berusia 12 tahun ke atas juga menyerahkan empat sidik jari.
+- **EES dapat mendeteksi pelampauan masa tinggal.** Akibatnya bergantung pada negara dan keadaan, dan bisa berupa sanksi atau larangan masuk.
+- **Pemeriksaan EES memakai riwayat kunjungan yang tercatat.** Anda bisa memasukkan tanggal perjalanan mendatang. Simpan tanggal perjalanan sendiri jika ada data yang belum lengkap.
+- **Kalkulator resmi kunjungan singkat** menyediakan mode pemeriksaan dan perencanaan. Masukkan sendiri tanggal Anda. Jika visa mengizinkan kurang dari 90 hari, ikuti durasi yang tercantum pada visa.
 - Keluarga harus mengelola **jendela terpisah untuk setiap anggota**. Di sinilah pelacakan batas hari dalam sebuah aplikasi benar-benar berguna.
 
-Pada perjalanan terakhir Anda ke Eropa, Anda mungkin mendapat stempel di perbatasan. Stempel itu kini tidak ada lagi. Sejak 10 April 2026, Sistem Masuk/Keluar (EES) Uni Eropa telah [beroperasi penuh](https://home-affairs.ec.europa.eu/news/entryexit-system-will-become-fully-operational-10-april-2026-2026-03-30_en) di seluruh kawasan Schengen, dan tinta pudar yang dulu mencatat perjalanan Anda kini digantikan oleh catatan digital yang dimulai pada saat Anda melintasi perbatasan.
+Sejak 10 April 2026, Sistem Masuk/Keluar Uni Eropa (EES) [beroperasi penuh](https://home-affairs.ec.europa.eu/news/entryexit-system-will-become-fully-operational-10-april-2026-2026-03-30_en) di perbatasan luar Schengen. Bagi pelancong yang tercakup, catatan digital menggantikan cap paspor rutin.
 
-Bagi siapa pun yang menghitung hari Schengen, dan setiap pengunjung non-UE seharusnya melakukannya, ini mengubah taruhannya secara signifikan. Berikut adalah apa yang sebenarnya dilakukan sistem baru ini, apa yang sengaja tidak dilakukannya, dan bagaimana cara menjaga hitungan Anda sendiri agar perbatasan tidak pernah mengejutkan Anda.
+Jika perlu menghitung hari kunjungan singkat di Schengen, pahami apa yang dicatat EES dan cocokkan dengan tanggal perjalanan Anda.
 
 ## Apa yang Berubah di Perbatasan Eropa
 
-EES mencatat sidik jari, gambar wajah, dokumen perjalanan, serta tanggal masuk dan keluar yang tepat dari setiap pelancong non-UE. Dalam pembaruan pada Juli, [Komisi Eropa](https://home-affairs.ec.europa.eu/news/entry-exit-system-fully-operational-10-april-2026-who-exempt-2026-07-27_en) melaporkan bahwa EES telah mencatat lebih dari 145 juta peristiwa masuk dan keluar sejak diluncurkan. Registrasi pertama kali memakan waktu beberapa menit di kios, dan bandara melaporkan antrean berjam-jam pada jam sibuk musim panas ini sementara semua orang masih menyesuaikan diri.
+EES menyimpan data dokumen perjalanan, foto wajah, serta tanggal masuk dan keluar pelancong non-UE yang tercakup. Pelancong bebas visa berusia 12 tahun ke atas juga menyerahkan empat sidik jari. Untuk pemegang visa kunjungan singkat, EES hanya menggunakan foto wajah sebagai pengenal biometrik. Jika sidik jari diambil untuk visa, datanya disimpan di Sistem Informasi Visa yang terpisah. Pada Juli, [Komisi Eropa](https://home-affairs.ec.europa.eu/news/entry-exit-system-fully-operational-10-april-2026-who-exempt-2026-07-27_en) melaporkan lebih dari 145 juta catatan masuk dan keluar sejak peluncuran.
 
-Tidak semua orang didaftarkan. Warga negara UE, penduduk negara Schengen, dan pemegang visa tinggal lama dikecualikan. Jika Anda berkunjung dengan fasilitas tinggal singkat bebas visa — misalnya sebagian besar pelancong Inggris, Amerika, Kanada, dan Australia — EES berlaku bagi Anda.
+Warga negara UE, Wilayah Ekonomi Eropa, dan Swiss dikecualikan. Begitu pula pemegang izin tinggal atau visa jangka panjang dari negara pengguna EES. Terdapat pengecualian lain untuk keadaan keluarga dan izin tinggal tertentu. Kewarganegaraan saja tidak menentukan apakah Anda tercakup.
 
 ## Aturan 90/180 di Bawah Sistem yang Tidak Pernah Lengah
 
-Aturannya sendiri tidak berubah: Anda boleh berada di kawasan Schengen paling lama 90 hari dalam jendela bergulir 180 hari mana pun. Itu bukan 90 hari per tahun kalender, dan jendelanya tidak direset saat Anda keluar. Untuk setiap hari Anda berada di sana, 180 hari sebelumnya tidak boleh berisi lebih dari 90 hari masa tinggal.
+Aturan kunjungan singkat biasanya mengizinkan 90 hari dalam setiap periode berjalan 180 hari. Jika visa memberi durasi lebih singkat, durasi itu tetap berlaku. Untuk setiap hari kunjungan, hitung hari tersebut dan 179 hari sebelumnya. Keluar dari Schengen tidak mengatur ulang hitungan.
 
-![Diagram garis waktu jendela bergulir 90/180 Schengen: dari 180 hari lalu sampai hari ini, dua perjalanan 30 dan 45 hari memakai 75 dari 90 hari, menyisakan 15; jendelanya bergeser setiap hari dan hari kedatangan serta keberangkatan sama-sama dihitung](https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/90-180-window-id.jpg) Jendelanya tidak pernah direset: untuk setiap hari, 180 hari sebelumnya paling banyak boleh berisi 90 hari masa tinggal.
+![Periode ini meliputi hari yang diperiksa dan 179 hari sebelumnya. Tanda paling kiri menunjukkan tanggal yang tepat berada di luar periode.](https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/90-180-window-id.jpg) Periode ini meliputi hari yang diperiksa dan 179 hari sebelumnya. Tanda paling kiri menunjukkan tanggal yang tepat berada di luar periode.
 
-Yang berubah adalah penegakannya. Dengan stempel paspor, membuktikan kelebihan tinggal berarti menerjemahkan tinta yang memudar, dan petugas perbatasan punya keleluasaan. Sekarang tanggalnya tepat, dan sistem menandai kelebihan tinggal pada saat itu juga terjadi. Bersiaplah menghadapi penolakan pada kunjungan berikutnya, dan dalam beberapa kasus [larangan masuk](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32008L0115), umumnya hingga lima tahun, yang dicatat pihak berwenang dalam Sistem Informasi Schengen. Margin kesalahan telah berubah dari kabur menjadi nol.
+EES dapat mendeteksi dan mencatat pelampauan masa tinggal. Bergantung pada aturan negara dan keadaan, akibatnya bisa berupa pemulangan, denda, atau pembatasan masuk di kemudian hari. Anda dapat menunjukkan bukti keadaan tak terduga atau yang meringankan kepada pihak berwenang untuk meminta koreksi catatan.
 
-## Masalahnya: EES Menegakkan Aturan, Bukan Merencanakan
+## Merencanakan perjalanan dengan pemeriksaan EES
 
-EES mencatat hari Anda untuk penegakan aturan, dan kini UE membiarkan Anda melihat posisi Anda. Alat daring EES-nya, di [situs resmi Travel to Europe](https://travel-europe.europa.eu/en/ees), menampilkan jumlah hari yang masih boleh Anda habiskan, dan beberapa pos pelintasan perbatasan eksternal menawarkan pemeriksaan serupa. Yang ditampilkan adalah catatan Anda sampai sejauh ini. Memastikan apakah perjalanan yang belum Anda ambil akan muat, itu tetap urusan Anda sendiri.
+[Alat resmi EES](https://travel-europe.europa.eu/ees/check-how-long-you-can-stay) menggunakan dokumen perjalanan dan kunjungan yang tercatat untuk menampilkan sisa hari yang diizinkan. Alat ini juga menerima rencana tanggal masuk dan keluar. Hasil “OK” atau “not OK” bukan keputusan izin masuk.
 
-UE menerbitkan kalkulator resmi tinggal singkat yang sangat layak untuk disimpan. Anda memasukkan tanggal masuk dan keluar sebelumnya, dan kalkulator akan memberi tahu apakah rencana tinggal Anda muat dalam jendela Anda. Ini bekerja baik untuk satu pelancong yang mencatat dengan rapi. Kesulitannya muncul saat catatan hanya ada di ingatan Anda, atau saat Anda melakukan perhitungan yang sama untuk empat orang sekaligus.
+[Kalkulator resmi kunjungan singkat Komisi Eropa](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en) menyediakan mode pemeriksaan dan perencanaan berdasarkan tanggal yang Anda masukkan. Jika visa mengizinkan kurang dari 90 hari, ikuti durasi yang tertulis pada visa.
 
 ## Siapa yang Berlaku untuk EES, dan Siapa yang Dikecualikan
 
-Tidak semua orang tunduk pada EES. Sistem ini mendaftarkan pengunjung non-UE yang masuk dengan fasilitas tinggal singkat bebas visa, serta mereka yang memegang visa tinggal singkat. Jika Anda memegang kewarganegaraan AS, Inggris, Kanada, Australia, atau puluhan negara lainnya, EES berlaku untuk Anda begitu Anda memasuki wilayah Schengen.
+EES umumnya mencakup warga non-UE untuk kunjungan singkat, dengan atau tanpa visa, kecuali jika ada pengecualian. Paspor umumnya harus masih berlaku setidaknya tiga bulan setelah rencana keluar dan diterbitkan dalam sepuluh tahun sebelum masuk. Lihat [panduan masa berlaku paspor](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/) untuk aturan tujuan Anda.
 
 Jika Anda warga negara UE, EEA, atau Swiss, Anda dikecualikan. Paspor Anda tidak melalui proses masuk khusus, dan EES tidak mencatat kedatangan maupun keberangkatan Anda. [Daftar resmi pengecualiannya](https://home-affairs.ec.europa.eu/news/entry-exit-system-fully-operational-10-april-2026-who-exempt-2026-07-27_en) lebih panjang dari itu, dan mencakup anggota keluarga non-UE dari warga negara UE yang memegang kartu izin tinggal. Namun, dikecualikan dari EES tidak sama dengan dikecualikan dari aturan 90/180. Jika Anda pengunjung non-UE yang tinggal singkat, aturan ini tetap berlaku, terlepas dari apakah perbatasan sudah mencatat Anda atau belum. Waktu yang dihabiskan di suatu negara Schengen dengan izin tinggal atau visa tinggal lama (tipe D) dari negara itu tidak dihitung dalam aturan tersebut, tetapi kunjungan singkat ke negara Schengen lain umumnya tetap dihitung, jadi periksa dengan otoritas yang menerbitkan izin Anda.
 
 ## Yang Terjadi pada Pelintasan EES Pertama Anda
 
-Sistem membuat catatan Anda pada pelintasan pertama ke wilayah Schengen. Anda akan mengantre di kios biometrik di perbatasan, baik itu bandara, pelabuhan, maupun perlintasan darat. Petugas memindai paspor atau dokumen perjalanan Anda untuk memeriksa identitas. Sistem merekam gambar wajah Anda. Jika Anda tidak memerlukan visa, sistem juga mengambil [empat sidik jari](https://travel-europe.europa.eu/en/ees/faq); jika Anda bepergian dengan visa tinggal singkat, sistem hanya menyimpan gambar wajah Anda, karena sidik jari Anda sudah diambil saat Anda mengajukan visa. Prosesnya memakan waktu lebih lama daripada cap paspor yang digantikannya, tetapi Anda hanya melakukannya sekali.
+Saat pertama kali melintasi perbatasan yang tercakup, petugas memeriksa dokumen perjalanan dan mengambil foto wajah. Di beberapa titik tersedia peralatan pendaftaran mandiri. Pelancong bebas visa berusia 12 tahun ke atas biasanya memberikan [empat sidik jari](https://travel-europe.europa.eu/en/ees/faq), sedangkan EES menggunakan foto wajah untuk pemegang visa kunjungan singkat. Pada perjalanan berikutnya petugas biasanya memeriksa catatan yang ada, tetapi dapat mengambil ulang data.
 
-Setelah terdaftar, sistem mencatat tanggal dan waktu masuk Anda secara tepat. Jika kemudian Anda melebihi 90 hari dari 180 hari, catatan waktu ini menjadi titik acuan yang digunakan EES untuk menghitung jendela bergulir Anda.
+Sistem mencatat tanggal dan waktu masuk dan keluar. Kedua tanggal itu dihitung sebagai hari kunjungan menurut [Kode Perbatasan Schengen](https://eur-lex.europa.eu/eli/reg/2016/399).
 
 ## Yang Berubah pada Pelintasan Berikutnya
 
-Kedatangan kedua dan seterusnya berjalan lebih cepat. Alih-alih pendaftaran penuh, sistem memverifikasi data Anda terhadap catatan pertama Anda, membandingkan gambar wajah Anda dengan yang tersimpan dan memastikan Anda orang yang sama. Sistem mencatat waktu masuk Anda lagi. Karena setiap masuk dan keluar sudah tercatat, petugas perbatasan bisa memeriksa perjalanan terbaru Anda terhadap aturan 90/180 pada setiap pelintasan.
+Pada perjalanan berikutnya petugas dapat mencocokkan foto wajah dengan catatan yang ada dan menggunakan catatan masuk dan keluar untuk memeriksa aturan 90/180.
 
-Jika tanggal Anda masih sesuai aturan, proses masuk berjalan seperti biasa. Jika tanggal itu menunjukkan Anda telah tinggal lebih lama dari yang diizinkan, sistem membuatnya mudah terlihat oleh petugas, dan penolakan masuk kemungkinan besar terjadi. Keputusan akhirnya tetap ada di tangan petugas perbatasan.
+Mematuhi batas masa tinggal hanya salah satu syarat masuk. EES dapat menunjukkan pelampauan batas, tetapi akibatnya bergantung pada negara dan keadaan. Keputusan masuk tetap di tangan petugas perbatasan.
 
 ## Anak-Anak dan Pendaftaran Biometrik
 
-EES saat ini mengecualikan anak-anak di bawah 12 tahun dari pengambilan sidik jari. Ketika orang tua atau wali membawa anak ke perbatasan, petugas tetap merekam gambar wajah untuk catatan EES, karena sistem perlu tahu bahwa anak ini melintas dan kapan. Petugas melewati pengambilan sidik jari. Pada usia 12 tahun, aturannya berubah; sejak saat itu, pendaftaran biometrik anak mencakup sidik jari.
+Anak di bawah 12 tahun difoto, tetapi sidik jarinya tidak diambil. Anak berusia 12 tahun ke atas yang bepergian tanpa visa biasanya memberikan empat sidik jari. Untuk anak pemegang visa kunjungan singkat, EES hanya menggunakan foto wajah sebagai pengenal biometrik.
 
 ## Cara Memeriksa Berapa Lama Sisa Waktu Anda di Bawah EES
 
-Cara resmi tercepat adalah alat "Check how long you can stay" (periksa berapa lama Anda masih boleh tinggal) di situs resmi Travel to Europe. Alat ini memberi tahu apakah Anda boleh masuk, ditampilkan sebagai OK atau not OK, serta **berapa hari lagi Anda boleh tinggal** di negara-negara yang menggunakan EES. Perangkat di beberapa pos perbatasan eksternal melakukan pemeriksaan yang sama, dan petugas imigrasi juga bisa memberitahu Anda.
+Alat resmi UE menampilkan “OK” atau “not OK” dan **sisa hari yang diizinkan** di negara pengguna EES. Pemeriksaan yang sama tersedia di sejumlah titik perbatasan luar. Anda juga dapat bertanya kepada petugas.
 
 Siapkan hal-hal ini sebelum mulai:
 
@@ -72,9 +72,9 @@ Siapkan hal-hal ini sebelum mulai:
 - jenis dan nomor dokumen perjalanan Anda, beserta kode tiga huruf negara penerbitnya (misalnya "CAN" untuk Kanada)
 - satu atau dua tanggal, sesuai pertanyaan Anda: tanggal kedatangan untuk perjalanan mendatang, tanggal keberangkatan jika Anda sudah berada di sana, atau kedua tanggal jika ingin tahu sisa hari setelah perjalanan yang direncanakan berakhir
 
-Ada dua batasan yang patut diketahui sebelum mempercayai angka ini. UE menyatakan langsung di alat tersebut bahwa jawaban OK atau not OK bukan keputusan untuk mengizinkan atau menolak masuk, karena keputusan itu tetap ada di tangan petugas perbatasan. Hitungan ini juga tidak memasukkan masa tinggal mana pun yang dimulai sebelum EES mengganti cap paspor pada 10 April, jadi jika salah satu perjalanan itu masih masuk dalam 180 hari terakhir Anda, Anda harus menambahkannya sendiri.
+Hasil pemeriksaan tidak memutuskan izin masuk. Sistem mengecualikan kunjungan yang dimulai sebelum 10 April 2026 meski berlanjut setelah tanggal itu. Saat menghitung sendiri, masukkan hanya hari kunjungan tersebut yang jatuh dalam periode berjalan yang diperiksa.
 
-Untuk perjalanan yang masih Anda susun, sebaiknya gunakan alat ini bersama kalkulator tinggal singkat Komisi Eropa, yang menghitung berdasarkan tanggal masuk dan keluar yang Anda ketik sendiri dan punya mode Planning untuk tanggal mendatang. Komisi sendiri menyebutnya hanya sebagai alat bantu. Lakukan pemeriksaan satu per satu untuk setiap orang yang bepergian, menggunakan paspor masing-masing, karena setiap pelancong memiliki hitungan tersendiri.
+Untuk perjalanan mendatang, masukkan tanggal di mode perencanaan kalkulator. Jika visa memberi kurang dari 90 hari, ikuti durasi visa. Periksa setiap pelancong secara terpisah. Kedua alat tidak menjamin izin masuk.
 
 ## Pesan "Tidak Dapat Dihitung Saat Ini"
 
@@ -82,9 +82,11 @@ Alat "Check how long you can stay" (periksa berapa lama Anda masih boleh tinggal
 
 Kami membacanya sebagai celah pada data, bukan vonis atas masa tinggal Anda, karena begitulah UE merumuskannya. Seperti jawaban OK dan not OK pada alat tersebut, pesan ini bukan keputusan izin masuk. Selama alat belum bisa memberi angka, hitung sendiri hari Anda dan catat setiap hari yang Anda lalui di wilayah Schengen.
 
+Jika pesan terus muncul atau hasilnya terlihat keliru, hubungi otoritas negara tempat Anda terakhir masuk atau keluar dari Schengen. Jika belum berkunjung ke Schengen sejak 10 April 2026, hubungi pihak berwenang di negara tujuan Anda.
+
 ## Cara Melacak Jendela Anda dalam Praktik
 
-Jika Anda sudah pernah bepergian di bawah EES, cara tercepat untuk memeriksa adalah alat daring EES, yang menampilkan sisa hari yang masih boleh Anda habiskan berdasarkan catatan Anda. Untuk merencanakan perjalanan, atau untuk memeriksa catatan itu dibandingkan catatan Anda sendiri, hitung secara manual: ambil tanggal hari ini dan lihat 180 hari ke belakang. Hitung setiap hari Anda secara fisik berada di negara Schengen mana pun selama periode itu, hari kedatangan dan keberangkatan sama-sama dihitung, dan hari di Siprus atau Irlandia tidak dihitung. Kurangi totalnya dari 90; itulah sisa hari Anda hari ini. Karena hari-hari lama keluar dari jendela saat jendelanya bergulir, perjalanan panjang di masa depan terkadang tetap bisa muat, itulah sebabnya kalkulator resmi tinggal singkat dari UE memeriksa rencana tinggal Anda terhadap seluruh riwayat perjalanan Anda, bukan hanya satu angka.
+Gunakan hari yang diperiksa dan 179 hari sebelumnya. Jumlahkan hari kunjungan singkat di Schengen, termasuk hari masuk dan keluar. Hari di Siprus dan Irlandia tidak masuk hitungan. Untuk izin bebas visa yang umum, kurangi jumlah itu dari 90 hari. Jika memiliki visa kunjungan singkat, ikuti juga durasi yang diizinkannya.
 
 Bagi satu orang yang berlibur satu atau dua kali setahun, ini sepenuhnya bisa dikelola. Ini menjadi lebih sulit ketika perjalanan tumpang tindih dan orangnya bertambah: pelancong bisnis yang melakukan perjalanan singkat setiap bulan, atau keluarga di mana satu anak mengikuti pertukaran pelajar, yang lain punya jadwal kemah musim panas, dan pasangan pulang lebih awal. Setiap orang punya jendela bergulirnya sendiri, dan jendela-jendela itu tidak sejajar. Inilah situasi di mana alat pelacak berhenti menjadi sekadar gadget dan mulai menjadi cara Anda menghindari kesalahan mahal, [panduan kami tentang pelacakan visa dan masuk](https://traveldocumentvault.com/id/blog/visa-expiry-tracker-app/) membahas masalah yang lebih luas ini.
 
@@ -94,9 +96,9 @@ Travel Document Vault tidak membaca catatan EES Anda. Dengan Pro, aplikasi ini m
 
 **EES bukan sistem visa.** Anda tidak mengajukan permohonan EES dan tidak ada persetujuan yang perlu ditunggu, sebaliknya, semuanya terjadi otomatis di perbatasan. Apakah Anda perlu visa sama sekali masih bergantung pada kewarganegaraan Anda, persis seperti sebelumnya.
 
-**Anda tidak memerlukan asuransi atau rekening koran karena EES.** Sebagian pemberitaan awal menimbulkan kebingungan soal ini, tapi EES hanya mencatat masuk dan keluar, tidak lebih dan tidak lain. Persyaratan asuransi terkait jenis visa tertentu, bukan terkait sistem perbatasan.
+**Persyaratan masuk biasa tetap berlaku.** Petugas dapat meminta dokumen pendukung, misalnya bukti dana yang cukup atau tiket pulang. Periksa aturan menurut kewarganegaraan, visa, dan tujuan Anda.
 
-**ETIAS adalah sistem yang sama sekali berbeda.** Ini adalah otorisasi pra-perjalanan untuk pelancong bebas visa yang akan diluncurkan kemudian, tanggal pastinya belum diumumkan. Saat sudah tersedia, Anda akan mengajukan permohonan secara daring sebelum terbang, mirip dengan ESTA Amerika Serikat. [Panduan ETIAS](https://traveldocumentvault.com/id/blog/etias-documents-2026/) kami menjelaskan apa yang perlu Anda persiapkan. Untuk saat ini, EES adalah sistem yang benar-benar akan Anda hadapi di perbatasan.
+**ETIAS adalah sistem tersendiri.** Sistem ini akan memberikan izin sebelum perjalanan bagi pelancong bebas visa. Tanggal mulai pastinya belum diumumkan. Lihat [panduan ETIAS](https://traveldocumentvault.com/id/blog/etias-documents-2026/) untuk persiapan sebelum bepergian.
 
 ## Selangkah Lebih Maju dari Perbatasan
 
@@ -112,21 +114,20 @@ Sumber resmi
 - [European Commission: Entry/Exit System (EES) is fully operational](https://home-affairs.ec.europa.eu/news/entryexit-system-ees-fully-operational-2026-04-10_en)
 - [European Commission: Commission report shows Schengen area continues to be resilient and ready for future challenges](https://home-affairs.ec.europa.eu/news/commission-report-shows-schengen-area-continues-be-resilient-and-ready-future-challenges-2026-05-18_en)
 - [European Commission: The Entry Exit System is fully operational since 10 April 2026. Who is exempt?](https://home-affairs.ec.europa.eu/news/entry-exit-system-fully-operational-10-april-2026-who-exempt-2026-07-27_en)
-- [EU law: Return Directive (2008/115/EC)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32008L0115)
 
 ## Pertanyaan yang Sering Diajukan
 
 ### Apa yang terjadi jika saya melebihi aturan 90/180 Schengen satu hari saja?
 
-EES mencatat setiap masuk dan keluar secara digital, sehingga bahkan kelebihan tinggal singkat pun ditandai secara otomatis. Anda bisa mengharapkan penolakan pada saat berikutnya mencoba masuk ke kawasan Schengen, dan tergantung pada situasinya, larangan masuk juga mungkin terjadi, yang menurut aturan UE umumnya tidak melebihi lima tahun. Penghitungan hari yang akurat kini lebih penting dari sebelumnya.
+EES dapat mendeteksi dan mencatat pelampauan masa tinggal, meski singkat. Sanksi atau larangan masuk mungkin berlaku, tergantung negara dan keadaan. Pelampauan sebelumnya tidak otomatis membuat Anda ditolak pada kunjungan berikutnya. Simpan tanggal perjalanan dan bukti keadaan tak terduga atau yang meringankan.
 
 ### Bisakah saya memeriksa berapa hari Schengen tersisa setelah saya masuk?
 
-Bisa. Alat daring EES dari UE, di situs resmi Travel to Europe, menampilkan jumlah hari yang masih boleh Anda habiskan, dan beberapa pos pelintasan perbatasan eksternal menawarkan pemeriksaan serupa. Untuk merencanakan perjalanan berikutnya, gunakan kalkulator resmi tinggal singkat dari UE dengan seluruh riwayat perjalanan Anda, dan tetap simpan catatan tanggal masuk serta keluar Anda sendiri, untuk mengantisipasi jika data sistem belum lengkap.
+Ya. Alat EES di situs resmi Travel to Europe memberikan sisa hari dan menerima tanggal mendatang. Beberapa titik perbatasan luar menyediakan pemeriksaan serupa. Untuk kalkulator yang terpisah, Anda memasukkan tanggal sendiri. Jika visa memberi kurang dari 90 hari, ikuti durasi visa. Simpan catatan sendiri jika data sistem tidak lengkap.
 
 ### Apakah ada kalkulator resmi untuk hari EES?
 
-Ya, Uni Eropa mengoperasikan dua alat. Alat “Check how long you can stay” (periksa berapa lama Anda masih boleh tinggal) di situs resmi Travel to Europe menggunakan data dokumen perjalanan Anda untuk menunjukkan berapa hari lagi Anda boleh tinggal, dengan jawaban OK atau not OK. Kalkulator tinggal singkat Komisi Eropa menghitung dari tanggal masuk dan keluar yang Anda ketik sendiri, dan Komisi menyebutnya hanya sebagai alat bantu. Baik jawaban OK atau not OK, keduanya bukan keputusan masuk, karena petugas perbatasan tetap yang memutuskan.
+Ya. Alat EES memakai dokumen perjalanan untuk menunjukkan sisa hari dan hasil “OK” atau “not OK”. Kalkulator Komisi Eropa memiliki mode pemeriksaan dan perencanaan dengan tanggal yang dimasukkan sendiri. Jika visa memberi kurang dari 90 hari, ikuti durasi visa. Petugas perbatasan memutuskan izin masuk.
 
 ### Apakah saya memerlukan visa atau asuransi perjalanan karena EES?
 

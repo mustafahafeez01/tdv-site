@@ -10,61 +10,61 @@ Source: https://traveldocumentvault.com/pt/blog/schengen-90-days-auto-tracked-ee
 
 ## Pontos Principais
 
-- **Os carimbos do passaporte desapareceram.** Desde 10 de abril de 2026 o Sistema de Entrada/Saída (EES) da UE regista digitalmente cada entrada e saída de viajantes não-UE no Espaço Schengen, com imagem facial e, para a maioria dos viajantes, impressões digitais.
-- O EES agora **detecta ultrapassagens automaticamente**. Espere uma recusa na sua próxima entrada, e possivelmente uma proibição de entrada, geralmente até cinco anos.
-- **O EES faz cumprir, não planeia.** A ferramenta online do EES da UE mostra os dias que lhe restam, mas calcular se uma futura viagem se encaixa na sua janela móvel de 90/180 continua a ser da sua responsabilidade.
-- A UE publica uma **calculadora oficial de estadas curtas** que funciona bem, mas é manual — uma pessoa, uma janela, um cálculo de cada vez.
+- **O EES substitui o carimbo de rotina nas estadias de curta duração abrangidas pelo sistema.** Desde 10 de abril de 2026, regista entradas, saídas e uma imagem facial, bem como quatro impressões digitais para viajantes isentos de visto a partir dos 12 anos.
+- **O EES pode detetar estadias além do prazo.** As consequências dependem do país e das circunstâncias e podem incluir sanções ou uma proibição de entrada.
+- **A consulta do EES baseia-se nas estadias registadas.** A ferramenta também aceita datas futuras. Guarde o seu próprio registo de viagens caso faltem dados.
+- A **calculadora oficial de estadias de curta duração** tem modos de verificação e planeamento. Introduza as datas. Se o visto autorizar menos de 90 dias, respeite a duração indicada no visto.
 - As famílias têm de lidar com **uma janela separada por pessoa**. É aí que o acompanhamento de limites de dias numa aplicação se torna importante.
 
-Na sua última viagem para a Europa provavelmente recebeu um carimbo na fronteira. Esse carimbo desapareceu. Desde 10 de abril de 2026, o Sistema de Entrada/Saída da UE (EES) está [totalmente operacional](https://home-affairs.ec.europa.eu/news/entryexit-system-will-become-fully-operational-10-april-2026-2026-03-30_en) em todo o Espaço Schengen, e a tinta desbotada que outrora registava as suas viagens foi substituída por um registo digital que começa no momento em que atravessa.
+Desde 10 de abril de 2026, o Sistema de Entrada/Saída (EES) da UE está [plenamente operacional](https://home-affairs.ec.europa.eu/news/entryexit-system-will-become-fully-operational-10-april-2026-2026-03-30_en) nas fronteiras externas de Schengen. Para os viajantes abrangidos, o registo digital substitui o carimbo de rotina no passaporte.
 
-Para qualquer um que conte dias do Schengen — e cada visitante não-UE deveria fazê-lo — isto muda consideravelmente as apostas. Eis o que o novo sistema realmente faz, o que deliberadamente não faz, e como manter a sua própria contagem para que uma fronteira nunca o surpreenda.
+Se precisa de contar os dias de uma estadia curta no espaço Schengen, saiba o que o EES regista e como confrontar o resultado com as suas próprias datas.
 
 ## O Que Mudou nas Fronteiras Europeias
 
-O EES regista as impressões digitais de cada viajante não-UE, imagem facial, documento de viagem e datas exatas de entrada e saída. Na sua atualização de julho, a [Comissão Europeia](https://home-affairs.ec.europa.eu/news/entry-exit-system-fully-operational-10-april-2026-who-exempt-2026-07-27_en) informou que o EES tinha registado mais de 145 milhões de entradas e saídas desde o seu lançamento. O registo pela primeira vez demora alguns minutos no quiosque, e os aeroportos tiveram filas de várias horas em horários de ponta este verão enquanto toda a gente se habitua.
+O EES regista dados do documento de viagem, uma imagem facial e as datas de entrada e saída dos viajantes de fora da UE abrangidos. Para viajantes isentos de visto a partir dos 12 anos, também regista quatro impressões digitais. Para titulares de vistos de curta duração, a imagem facial é o único identificador biométrico no EES; eventuais impressões recolhidas para o visto ficam no Sistema de Informação sobre Vistos. Em julho, a [Comissão Europeia](https://home-affairs.ec.europa.eu/news/entry-exit-system-fully-operational-10-april-2026-who-exempt-2026-07-27_en) anunciou mais de 145 milhões de entradas e saídas registadas desde o lançamento.
 
-Nem toda a gente está registada. Cidadãos da UE, residentes de países Schengen e titulares de vistos de longa duração estão isentos. Se está em visita com a autorização de estada curta isenta de visto — por exemplo, a maioria dos viajantes britânicos, americanos, canadianos e australianos — o EES aplica-se a si.
+Estão isentos os cidadãos da UE, do EEE e da Suíça e os titulares de autorizações de residência ou vistos de longa duração emitidos por países que usam o EES. Há outras exceções ligadas à situação familiar ou de residência. A nacionalidade, por si só, não determina se o sistema se aplica.
 
 ## A Regra 90/180 Sob um Sistema Que Nunca Pisca
 
-A regra em si não mudou: pode passar no máximo 90 dias dentro do Espaço Schengen em qualquer janela móvel de 180 dias. Isto não é 90 dias por ano de calendário, e a janela não reseta quando sai. Para cada dia que está presente, os 180 dias anteriores não devem conter mais de 90 dias de estada.
+A regra habitual permite até 90 dias de estadia curta em qualquer período móvel de 180 dias. Se o seu visto autoriza menos tempo, vale a duração indicada. Para cada dia de estadia, conte esse dia e os 179 anteriores. A saída não reinicia o período.
 
-![Diagrama cronológico da janela móvel Schengen 90/180: de há 180 dias até hoje, duas viagens de 30 e 45 dias usam 75 dos 90 dias disponíveis, restando 15; a janela desliza todos os dias e os dias de chegada e de partida contam ambos](https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/90-180-window-pt.jpg) A janela nunca reinicia: para cada dia, os 180 dias anteriores não podem conter mais de 90 dias de estadia.
+![O período inclui o dia da verificação e os 179 anteriores. A marca à esquerda assinala o dia imediatamente fora da contagem.](https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/90-180-window-pt.jpg) O período inclui o dia da verificação e os 179 anteriores. A marca à esquerda assinala o dia imediatamente fora da contagem.
 
-O que mudou é a aplicação. Com carimbos no passaporte, provar uma ultrapassagem significava descodificar tinta desbotada, e os oficiais de fronteira tinham discrição. Agora as datas são exatas, e o sistema sinaliza uma ultrapassagem no momento em que acontece. Espere recusa na sua próxima entrada, e em alguns casos uma [proibição de entrada](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32008L0115), geralmente até cinco anos, que os oficiais registam no Sistema de Informações Schengen. A margem para erro passou de confusa para zero.
+O EES pode identificar e registar uma estadia além do prazo. Consoante a lei nacional e as circunstâncias, pode haver afastamento, coimas ou restrições à entrada. Pode apresentar provas de circunstâncias imprevisíveis ou atenuantes e pedir às autoridades a retificação do registo.
 
-## A Pegadinha: O EES Faz Cumprir, Não Planeia
+## Planear uma viagem com a consulta do EES
 
-O EES regista os seus dias para aplicação, e a UE agora permite-lhe ver a sua situação. A ferramenta online do EES, no site oficial [Travel to Europe](https://travel-europe.europa.eu/en/ees), mostra o número de dias que ainda pode permanecer, e algumas fronteiras externas oferecem a mesma verificação. O que mostra é o seu registo até agora. Calcular se uma viagem que ainda não fez vai encaixar continua a ser da sua responsabilidade.
+A [ferramenta oficial do EES](https://travel-europe.europa.eu/ees/check-how-long-you-can-stay) usa o documento e as estadias registadas para mostrar os dias restantes. Também aceita datas previstas de chegada e partida. O resultado «OK» ou «não OK» não decide a entrada.
 
-A UE publica uma calculadora oficial de estadas curtas que vale a pena marcar como favorita. Introduz as suas datas anteriores de entrada e saída, e ela diz-lhe se uma estada planeada se encaixa dentro da sua janela. Funciona bem para um viajante que mantém bons registos. O atrito aparece quando os registos vivem na sua memória, ou quando está a fazer o exercício para quatro pessoas ao mesmo tempo.
+A [calculadora de estadias de curta duração da Comissão Europeia](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en) permite verificar ou planear, com datas introduzidas manualmente. Se o visto permite menos de 90 dias, respeite a duração que nele consta.
 
 ## A quem o EES se aplica, e quem está isento
 
-Nem todos estão sujeitos ao EES. O sistema regista os visitantes não-UE que chegam com a autorização de estada curta isenta de visto, e aqueles com vistos de curta duração. Se tem a nacionalidade dos Estados Unidos, Reino Unido, Canadá, Austrália, ou de dezenas de outros países, o EES aplica-se a si no momento em que entra no Espaço Schengen.
+Em geral, o EES regista viajantes de fora da UE em estadias curtas, com ou sem visto, salvo isenção. Normalmente, o passaporte deve manter-se válido três meses após a saída prevista e ter sido emitido nos dez anos anteriores à entrada. Consulte o nosso [guia de validade do passaporte](https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/) para regras por destino.
 
 Se é cidadão da UE, do EEE ou da Suíça, está isento - o seu passaporte não passa por nenhum processo especial de entrada, e o EES não regista as suas entradas e saídas. A [lista oficial de isenções](https://home-affairs.ec.europa.eu/news/entry-exit-system-fully-operational-10-april-2026-who-exempt-2026-07-27_en) é mais longa, e inclui familiares não-UE de cidadãos da UE titulares de um cartão de residência. No entanto, estar isento do EES não é o mesmo que estar isento da regra 90/180. Se é um visitante não-UE em estada curta, a regra aplica-se quer uma fronteira já o tenha registado ou não. O tempo passado num país Schengen com uma autorização de residência ou um visto de longa duração (tipo D) desse país não conta para a regra, mas visitas curtas a outros países Schengen geralmente continuam a contar, por isso confirme com a autoridade que emitiu a sua autorização.
 
 ## O que acontece na sua primeira passagem pelo EES
 
-O sistema cria o seu registo na sua primeira entrada no Espaço Schengen. Vai fazer fila num quiosque biométrico na fronteira - aeroporto, porto ou fronteira terrestre. Um agente digitaliza o seu passaporte ou documento de viagem para verificar a sua identidade. O sistema capta a sua imagem facial. Se não precisar de visto, recolhe também [quatro impressões digitais](https://travel-europe.europa.eu/en/ees/faq); se viajar com um visto de curta duração, guarda apenas a imagem facial, uma vez que as impressões digitais foram recolhidas quando pediu o visto. Demora mais tempo do que o carimbo que substitui, e só o faz uma vez.
+Na primeira passagem abrangida pelo EES, os agentes verificam o documento de viagem e recolhem uma imagem facial. Alguns postos têm equipamento de autosserviço. Os viajantes isentos de visto a partir dos 12 anos geralmente dão [quatro impressões digitais](https://travel-europe.europa.eu/en/ees/faq); com visto de curta duração, o EES usa a imagem facial. Em passagens posteriores, costuma verificar-se o registo existente, mas os agentes podem recolher os dados de novo.
 
-Depois de registado, o sistema guarda a data e hora exatas da sua entrada. Se mais tarde ultrapassar os 90 dias em 180, esse registo de hora torna-se o ponto de referência que o EES usa para calcular a sua janela móvel.
+O sistema regista data e hora de entrada e saída. Tanto o dia de entrada como o de saída contam como dias de estadia, segundo o [Código das Fronteiras Schengen](https://eur-lex.europa.eu/eli/reg/2016/399).
 
 ## O que muda nas passagens seguintes
 
-A sua segunda entrada e as seguintes são mais rápidas. Em vez de um registo completo, o sistema verifica os seus dados face ao seu registo inicial - comparando a sua imagem facial com a guardada e confirmando que é a mesma pessoa. O sistema regista novamente a hora da sua entrada. Como cada entrada e saída fica registada, os agentes de fronteira podem verificar as suas viagens recentes em relação à regra 90/180 em cada passagem.
+Nas passagens seguintes, os agentes podem comparar a imagem facial com o registo existente e verificar os movimentos registados à luz da regra 90/180.
 
-Se as suas datas estiverem dentro da regra, a entrada decorre normalmente. Se mostrarem que ficou mais tempo do que o permitido, o sistema torna isso fácil de ver para o agente, e uma recusa é provável. A decisão continua a caber ao agente de fronteira.
+Cumprir o limite de dias é apenas uma das condições de entrada. O EES pode sinalizar uma estadia além do prazo. As consequências dependem do país e das circunstâncias. A decisão cabe ao agente de fronteira.
 
 ## As crianças e o registo biométrico
 
-O EES isenta atualmente as crianças com menos de 12 anos da recolha de impressões digitais. Quando um pai, mãe ou tutor leva uma criança à fronteira, o agente capta na mesma uma imagem facial para o registo do EES - o sistema precisa de saber que essa criança passou, e quando. O agente dispensa as impressões digitais. Aos 12 anos as regras mudam; a partir daí, o registo biométrico de uma criança passa a incluir impressões digitais.
+É recolhida uma imagem facial das crianças com menos de 12 anos, mas não as impressões digitais. A partir dos 12 anos, os menores isentos de visto geralmente dão quatro impressões. Se viajarem com visto de curta duração, o EES usa apenas a imagem facial como identificador biométrico.
 
 ## Como verificar quanto tempo lhe resta no EES
 
-A verificação oficial mais rápida é a ferramenta "Quanto tempo pode ficar" no site Travel to Europe. Indica se a sua entrada é permitida, com uma resposta OK ou NOT OK, e **quantos dias ainda pode permanecer** nos países que utilizam o EES. O equipamento em algumas fronteiras externas realiza a mesma verificação, e os agentes de controlo de passaportes também podem informá-lo.
+A ferramenta oficial da UE devolve «OK» ou «não OK» e indica **os dias restantes** nos países que usam o EES. A mesma consulta está disponível em alguns postos externos, e os agentes podem dar essa informação.
 
 Tenha isto à mão antes de começar:
 
@@ -72,9 +72,9 @@ Tenha isto à mão antes de começar:
 - o tipo e número do seu documento de viagem, mais o código de três letras do país que o emitiu (CAN para o Canadá, por exemplo)
 - uma ou duas datas, dependendo da sua pergunta: a data de chegada para uma viagem futura, a data de partida se já estiver lá, ou ambas se quiser saber quantos dias terá restantes depois de uma viagem planeada
 
-Vale a pena conhecer dois limites antes de confiar no número apresentado. A UE indica na própria ferramenta que a resposta OK ou NOT OK não é uma decisão de conceder ou recusar a entrada, porque o agente de fronteira continua a decidir. A contagem também exclui qualquer estadia que tenha começado antes de o EES substituir os carimbos de passaporte a 10 de abril, por isso, se uma dessas viagens ainda cair dentro dos seus últimos 180 dias, deve somá-la você mesmo.
+A resposta não é uma decisão de entrada. A ferramenta exclui estadias iniciadas antes de 10 de abril de 2026, mesmo que tenham continuado depois. No seu cálculo, só inclua os dias dessas estadias que ficam dentro do período móvel.
 
-Para uma viagem que ainda está a planear, aconselhamos combinar esta ferramenta com a calculadora de estadas curtas da Comissão Europeia, que funciona com as datas de entrada e saída que introduzir e tem um modo de Planeamento para datas futuras. A Comissão apresenta-a apenas como uma ferramenta de apoio. Faça a verificação uma vez por cada pessoa que viaja, com o seu próprio passaporte, pois cada viajante tem a sua própria contagem.
+Para uma viagem futura, pode introduzir datas no modo de planeamento da calculadora. Se o visto autoriza menos de 90 dias, siga a duração indicada. Faça a verificação por viajante. Nenhuma ferramenta garante a entrada.
 
 ## A mensagem "não é possível calcular atualmente"
 
@@ -82,11 +82,11 @@ A ferramenta "Quanto tempo pode ficar" da UE pode dar esta resposta: "A sua esta
 
 Lemos esta mensagem como uma lacuna nos dados e não como um veredicto sobre a sua estada, pois é assim que a UE a formula. Tal como as respostas OK e NOT OK da ferramenta, não é uma decisão de entrada. Enquanto a ferramenta não lhe der um número, conte você mesmo os seus dias e mantenha um registo de cada dia que passar no Espaço Schengen.
 
-Se a mensagem continuar a aparecer quando verificar online, ou se o número obtido parecer incorreto, a recomendação da UE é contactar as autoridades do país onde entrou ou saiu pela última vez do Espaço Schengen. Se não visitou o Espaço Schengen desde que o EES substituiu os carimbos de passaporte, contacte antes o país que planeia visitar. O site Travel to Europe indica quem contactar em cada país.
+Se a mensagem persistir ou o resultado parecer incorreto, contacte as autoridades do país por onde entrou ou saiu do espaço Schengen da última vez. Se não esteve no espaço Schengen desde 10 de abril de 2026, contacte as autoridades do país que pretende visitar.
 
 ## Como Acompanhar a Sua Janela na Prática
 
-Se já viajou sob o EES, a verificação mais rápida é a ferramenta online do EES da UE, que mostra os dias que ainda tem disponíveis a partir do seu registo. Para planear uma viagem, ou para confrontar esse registo com o seu próprio, conte à mão: pegue na data de hoje e olhe para trás 180 dias. Some cada dia que esteve fisicamente dentro de qualquer país Schengen durante esse período - os dias de chegada e partida contam ambos, e os dias em Cipre ou na Irlanda não contam. Subtraia o total a 90; é o que tem restante hoje. Como os dias mais antigos saem da contagem à medida que a janela avança, uma viagem futura mais longa pode por vezes encaixar, razão pela qual a calculadora de estadas curtas da UE confronta uma estada planeada com o seu histórico de viagem completo em vez de um único número.
+Use o dia que está a verificar e os 179 anteriores. Some os dias de estadia curta no espaço Schengen, incluindo chegada e partida. Os dias em Chipre e na Irlanda ficam de fora. Para a isenção de visto habitual, subtraia o total de 90. Se tem um visto de curta duração, respeite também o prazo autorizado.
 
 Para uma pessoa que passa férias uma ou duas vezes por ano, isto é inteiramente geável. Fica mais complicado quando as viagens se sobrepõem e as pessoas se multiplicam: um viajante de negócios fazendo pequenos saltos cada mês, ou uma família onde um filho está num intercâmbio escolar, outro tem datas de acampamento de verão, e um parceiro voa para casa mais cedo. Cada pessoa tem a sua própria janela móvel, e as janelas não alinham. Esta é a situação em que uma ferramenta de acompanhamento deixa de ser um gadget e passa a ser a forma de evitar um erro dispendioso — o nosso [guia para acompanhamento de vistos e entrada](https://traveldocumentvault.com/pt/blog/visa-expiry-tracker-app/) cobre o problema mais amplo.
 
@@ -96,9 +96,9 @@ Travel Document Vault não lê o seu registo EES. Com Pro, conta as viagens guar
 
 **O EES não é um sistema de visto.** Não se candidata ao EES e não há aprovação para esperar — acontece automaticamente na fronteira. Se precisa de visto depende da sua nacionalidade, exatamente como antes.
 
-**Não precisa de seguro ou extratos bancários por causa do EES.** Alguns relatos iniciais criaram confusão neste ponto, mas o EES regista entradas e saídas — nada mais e nada menos. Os requisitos de seguro pertencem a tipos específicos de visto, não ao sistema de fronteira.
+**O EES não substitui os requisitos habituais de entrada.** Os agentes podem pedir documentos, como prova de meios suficientes ou um bilhete de regresso. Consulte as condições aplicáveis à sua nacionalidade, ao visto e ao destino.
 
-**O ETIAS é um sistema completamente separado.** É uma autorização de pré-viagem para viajantes isentos de visto que será lançada mais tarde — a data exata ainda não foi anunciada. Quando chegar vai candidatar-se online antes de voar, muito como o ESTA dos EUA. O nosso [guia ETIAS](https://traveldocumentvault.com/pt/blog/etias-documents-2026/) explica o que preparar. Por enquanto, o EES é o sistema que realmente vai encontrar na fronteira.
+**O ETIAS é um sistema separado.** Será uma autorização prévia para viajantes isentos de visto. Ainda não foi anunciada uma data exata. O nosso [guia ETIAS](https://traveldocumentvault.com/pt/blog/etias-documents-2026/) explica o que preparar antes da viagem.
 
 ## Um Passo à Frente da Fronteira
 
@@ -114,21 +114,20 @@ Fontes oficiais
 - [European Commission: Entry/Exit System (EES) is fully operational](https://home-affairs.ec.europa.eu/news/entryexit-system-ees-fully-operational-2026-04-10_en)
 - [European Commission: Commission report shows Schengen area continues to be resilient and ready for future challenges](https://home-affairs.ec.europa.eu/news/commission-report-shows-schengen-area-continues-be-resilient-and-ready-future-challenges-2026-05-18_en)
 - [European Commission: The Entry Exit System is fully operational since 10 April 2026. Who is exempt?](https://home-affairs.ec.europa.eu/news/entry-exit-system-fully-operational-10-april-2026-who-exempt-2026-07-27_en)
-- [EU law: Return Directive (2008/115/EC)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32008L0115)
 
 ## Perguntas Frequentes
 
 ### O que acontece se ultrapassar a regra Schengen 90/180 por um dia?
 
-O EES regista cada entrada e saída digitalmente, portanto até uma pequena ultrapassagem é sinalizada automaticamente. Pode esperar uma recusa na próxima vez que tentar entrar no Espaço Schengen. Dependendo das circunstâncias, é também possível uma proibição de entrada, que segundo as regras da UE geralmente não excede cinco anos. A contagem precisa de dias importa mais do que nunca.
+O EES pode detetar e registar mesmo um pequeno excesso de estadia. Conforme o país e as circunstâncias, podem aplicar-se sanções ou uma proibição de entrada. Uma estadia anterior além do prazo não implica recusa automática na próxima viagem. Guarde as datas e as provas de circunstâncias imprevisíveis ou atenuantes.
 
 ### Posso verificar quantos dias Schengen me restam após entrar?
 
-Sim. A ferramenta online do EES, no site oficial Travel to Europe, mostra o número de dias que ainda pode permanecer, e algumas fronteiras externas oferecem a mesma verificação. Para planear uma futura viagem, utilize a calculadora de estadas curtas da UE com o seu histórico de viagem completo, e mantenha o seu próprio registo das datas de entrada e saída, para o caso de os dados do sistema estarem incompletos.
+Sim. A ferramenta no site oficial Travel to Europe mostra quantos dias restam e aceita datas futuras. Alguns postos externos oferecem a mesma consulta. A calculadora separada usa datas introduzidas manualmente. Se o visto autoriza menos de 90 dias, siga a duração indicada. Guarde as suas próprias datas caso faltem dados.
 
 ### Existe uma calculadora oficial de dias do EES?
 
-Sim, a UE gere duas. A sua ferramenta "Quanto tempo pode ficar", no site Travel to Europe, utiliza os dados do seu documento de viagem para mostrar os dias que ainda lhe restam, com uma resposta OK ou NOT OK. A calculadora de estadas curtas da Comissão Europeia funciona com as datas de entrada e saída que introduzir, e a Comissão apresenta-a apenas como uma ferramenta de apoio. Nenhuma das duas respostas é uma decisão sobre a entrada, porque o agente de fronteira continua a decidir.
+Sim. O EES usa o documento de viagem para mostrar os dias restantes e «OK» ou «não OK». A calculadora da Comissão tem modos de verificação e planeamento e usa datas introduzidas por si. Se o visto autoriza menos de 90 dias, respeite esse prazo. A entrada é decidida pelo agente.
 
 ### Preciso de visto ou seguro de viagem por causa do EES?
 
