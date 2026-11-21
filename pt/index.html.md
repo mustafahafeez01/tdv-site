@@ -26,15 +26,15 @@ Uma preocupação a menos.
 
 ## Os Seus Documentos Ficam Consigo
 
-Os documentos guardados ficam encriptados no dispositivo. Cópia de segurança encriptada opcional vai para o seu iCloud ou Google Drive, selada com um código de recuperação que apenas o utilizador tem.
+Por predefinição, os documentos ficam encriptados no seu telemóvel.
 
 ### Construída por um Pai
 
-Construí esta aplicação porque precisava para a minha própria família. Tem lembretes automáticos de validade com meses de antecedência em relação à renovação e, com Pro, perfis separados para cada membro da família. Não há financiamento de capital de risco a pressionar-me para vender os seus dados e não há um roteiro ditado por métricas de crescimento; é simplesmente uma ferramenta que resolve um problema, propriamente.
+Criei esta aplicação quando percebi como era fácil perder de vista a validade do passaporte da minha filha. Queria ter um só lugar para verificar os documentos da família antes de viajar.
 
 ### Offline por Conceção
 
-O servidor mais seguro para cópias de passaporte é não ter servidor nenhum, e é por isso que a app guarda os documentos no seu dispositivo e funciona totalmente offline por padrão. Se ativar a cópia de segurança, o seu cofre encriptado vai para o seu próprio iCloud ou Google Drive, selado com um código de recuperação que apenas o utilizador detém.
+Consulte os documentos guardados e receba lembretes de validade mesmo em modo de avião.
 
 ### Encriptação no Dispositivo
 
@@ -84,7 +84,7 @@ Nenhum servidor Travel Document Vault guarda os seus documentos. Não há nada p
 
 Com Pro
 
-## Planeie viagens, controle limites, sincronize para a sua própria nuvem
+## Planeie viagens, registe estadias e faça uma cópia de segurança do cofre
 
 Construída para famílias que viajam para todo o lado.
 
@@ -92,9 +92,9 @@ Construída para famílias que viajam para todo o lado.
 
 Semáforo de preparação familiar. Veja quais os documentos associados que precisam de atenção face às datas de viagem guardadas.
 
-### A Sua Nuvem, A Sua Chave
+### Cópia de segurança encriptada na cloud
 
-Cópia de segurança criptografada no seu iCloud ou Google Drive. Você guarda o código de recuperação. Nunca o vemos.
+Ative a cópia de segurança se quiser recuperar o cofre quando mudar de telemóvel.
 
 ### Rastreamento de Dias no Estrangeiro
 
@@ -106,7 +106,7 @@ Adicione um perfil para cada membro da família. A versão gratuita inclui 1 per
 
 ## Para Viagens. Para a Vida. Para Tudo o Que É Importante.
 
-Construída para famílias que viajam. Essencial para acompanhar cada documento vital, desde políticas de seguro até crachás de trabalho.
+Guarde uma cópia dos documentos que usa no dia a dia, das apólices de seguro aos cartões de trabalho.
 
 ### Lembretes Inteligentes
 

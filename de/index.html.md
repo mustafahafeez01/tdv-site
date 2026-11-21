@@ -26,15 +26,15 @@ Eine Sorge weniger.
 
 ## Ihre Dokumente bleiben bei Ihnen
 
-Ihre gespeicherten Dokumente werden auf Ihrem Gerät verschlüsselt. Ein optionales verschlüsseltes Backup geht in Ihre eigene iCloud oder Google Drive, versiegelt mit einem Wiederherstellungscode, den nur Sie kennen.
+Ihre Dokumente bleiben standardmäßig verschlüsselt auf Ihrem Handy.
 
 ### Gebaut von einem Elternteil
 
-Ich habe diese App gebaut, weil ich sie für meine eigene Familie brauchte. Sie hat automatische Ablauf-Benachrichtigungen Monate bevor die Verlängerung dringend wird und mit Pro separate Profile für jedes Familienmitglied. Es gibt keine VC-Finanzierung, die mich dazu drängt, Ihre Daten zu verkaufen, und keine Roadmap getrieben durch Wachstumsmetriken; es ist einfach ein Werkzeug, das ein Problem richtig löst.
+Mir wurde klar, wie leicht ich das Ablaufdatum im Reisepass meiner Tochter aus dem Blick verlieren konnte. Deshalb habe ich diese App entwickelt: Ich wollte vor einer Reise die Unterlagen meiner Familie an einem Ort prüfen können.
 
 ### Von Grund auf offline
 
-Der sicherste Server für Passscans ist kein Server – deshalb speichert die App Dokumente auf Ihrem Gerät und läuft standardmäßig vollständig offline. Wenn Sie Sicherung aktivieren, geht Ihr verschlüsselter Tresor zu Ihrer eigenen iCloud oder Google Drive, versiegelt mit einem Wiederherstellungscode, den nur Sie halten.
+Öffnen Sie gespeicherte Dokumente und erhalten Sie Erinnerungen an Ablaufdaten auch im Flugmodus.
 
 ### Verschlüsselung auf dem Gerät
 
@@ -84,7 +84,7 @@ Kein Travel Document Vault-Server speichert Ihre Dokumente. Es gibt nichts zu fi
 
 Mit Pro
 
-## Reisen planen, Kontingente nachverfolgung, mit Ihrer Cloud synchronisieren
+## Reisen planen, Aufenthalte erfassen und den Tresor sichern
 
 Gebaut für Familien, die überall reisen.
 
@@ -92,9 +92,9 @@ Gebaut für Familien, die überall reisen.
 
 Ampel der Familienbereitschaft. Sehen Sie, welche verknüpften Dokumente anhand Ihrer gespeicherten Reisedaten Aufmerksamkeit brauchen.
 
-### Ihre Cloud, Ihr Schlüssel
+### Verschlüsselte Cloud-Sicherung
 
-Verschlüsselte Sicherung in Ihrer iCloud oder Google Drive. Sie halten den Wiederherstellungscode. Wir sehen ihn nie.
+Richten Sie bei Bedarf eine Sicherung für den Wechsel auf ein neues Handy ein.
 
 ### Tage im Ausland Nachverfolgung
 
@@ -106,7 +106,7 @@ Fügen Sie für jedes Familienmitglied ein Profil hinzu. Die kostenlose Version 
 
 ## Zum Reisen. Zum Leben. Zum Wichtigsten.
 
-Gebaut für Familien, die reisen. Unverzichtbar, um alle wichtigen Dokumente im Auge zu behalten, von Versicherungspolicen bis hin zu Arbeitsbadges.
+Bewahren Sie Kopien Ihrer Unterlagen für den Alltag auf, von Versicherungspolicen bis zu Mitarbeiterausweisen.
 
 ### Intelligente Erinnerungen
 

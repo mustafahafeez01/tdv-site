@@ -26,15 +26,15 @@ Una cosa in meno di cui preoccuparsi.
 
 ## I Tuoi Documenti Restano con Te
 
-I documenti salvati sono crittografati sul tuo dispositivo. Il backup facoltativo va sul tuo iCloud o Google Drive, protetto da un codice di recupero che possiedi solo tu.
+Per impostazione predefinita, i documenti restano cifrati sul telefono.
 
 ### Costruito da un Genitore
 
-Ho costruito questa app perché ne avevo bisogno per la mia famiglia. I promemoria di scadenza partono in automatico mesi prima che il rinnovo sia urgente e, con Pro, profili separati per ogni familiare. Non c'è finanziamento VC che mi spinga a vendere i tuoi dati e nessuna roadmap guidata da metriche di crescita; è semplicemente uno strumento che risolve un problema, bene.
+Ho creato questa app quando mi sono reso conto di quanto fosse facile perdere di vista la scadenza del passaporto di mia figlia. Volevo un unico posto in cui controllare i documenti di famiglia prima di partire.
 
 ### Offline per Progettazione
 
-Il server più sicuro per le scansioni dei passaporti è nessun server, ecco perché l'app conserva i documenti sul tuo dispositivo e funziona completamente offline per impostazione predefinita. Se attivi il backup, il tuo caveau crittografato va al tuo iCloud o Google Drive, sigillato con un codice di recupero che possiedi solo tu.
+Apri i documenti salvati e ricevi i promemoria delle scadenze anche in modalità aereo.
 
 ### Crittografia Su Dispositivo
 
@@ -84,7 +84,7 @@ Nessun server Travel Document Vault conserva i tuoi documenti. Non c’è niente
 
 Con Pro
 
-## Pianifica i viaggi, tieni d'occhio le franchigie, sincronizza sul tuo cloud
+## Organizza i viaggi, registra i soggiorni e fai una copia del tuo archivio
 
 Realizzato per le famiglie che viaggiano ovunque.
 
@@ -92,9 +92,9 @@ Realizzato per le famiglie che viaggiano ovunque.
 
 Semaforo della prontezza familiare. Vedi quali documenti collegati richiedono attenzione rispetto alle date di viaggio salvate.
 
-### Tuo Cloud, Tua Chiave
+### Backup cifrato nel cloud
 
-Backup crittografato nel tuo iCloud o Google Drive. Il codice di ripristino ce l'hai tu. Non lo vediamo mai.
+Attiva il backup se vuoi recuperare l’archivio quando cambi telefono.
 
 ### Traccia Giorni all'Estero
 
@@ -106,7 +106,7 @@ Aggiungi un profilo per ogni membro della famiglia. Piano gratuito: 1 profilo; P
 
 ## Per Viaggi. Per la Vita. Per Tutto Ciò che è Importante.
 
-Costruito per famiglie che viaggiano. Essenziale per tracciare ogni documento vitale, dalle polizze assicurative ai badge di lavoro.
+Tieni una copia dei documenti che usi ogni giorno, dalle polizze assicurative ai tesserini di lavoro.
 
 ### Promemoria Intelligenti
 

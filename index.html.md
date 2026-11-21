@@ -26,15 +26,15 @@ One less thing to worry about.
 
 ## Your Documents Stay With You
 
-Your saved documents are encrypted on your device. Optional backup goes to your own iCloud or Google Drive, sealed with a recovery code only you hold.
+Your documents stay encrypted on your phone by default.
 
 ### Built by a Parent
 
-I built this app because I needed it for my own family. It has automatic expiry reminders months before renewal becomes urgent and, with Pro, separate profiles for every family member. There's no VC funding pushing me to sell your data and no roadmap driven by growth metrics; it's simply a tool that solves one problem, properly.
+I built this app after realising how easy it was to lose track of my daughter's passport expiry. I wanted one place to check our family's documents before a trip.
 
 ### Offline by Design
 
-The safest server for passport scans is no server at all, which is why the app keeps documents on your device and works fully offline by default. If you turn on backup, your encrypted vault goes to your own iCloud or Google Drive, sealed with a recovery code only you hold.
+Open saved documents and get expiry reminders even in airplane mode.
 
 ### On-Device Encryption
 
@@ -76,7 +76,7 @@ No Travel Document Vault server stores your documents. There's nothing to find.
 
 [Read the founder's story: Why I built an app to carry one less thing in my head →](https://traveldocumentvault.com/blog/why-i-built-travel-document-vault/) With Pro
 
-## Plan trips, track allowances, sync to your own cloud
+## Plan trips, track stays and back up your vault
 
 Built for families who travel everywhere.
 
@@ -84,9 +84,9 @@ Built for families who travel everywhere.
 
 Family readiness traffic light. See which linked documents need attention against your saved trip dates.
 
-### Your Cloud, Your Key
+### Encrypted Cloud Backup
 
-Encrypted backup to your iCloud or Google Drive. You hold the recovery code. We never see it.
+Set up an optional backup for when you change phones.
 
 ### Track Days Out of Country
 
@@ -104,7 +104,7 @@ Add a profile for every family member. Free includes 1 profile. Pro adds unlimit
 
 ## For Travel. For Life. For Everything Important.
 
-Built for families who travel. Essential for keeping track of every vital document, from insurance policies to work badges.
+Keep a copy of the documents you reach for between trips, from insurance policies to work badges.
 
 ### Smart Reminders
 

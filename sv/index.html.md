@@ -26,15 +26,15 @@ En sak mindre att oroa sig för.
 
 ## Dina dokument stannar hos dig
 
-Dina sparade dokument är krypterade på din enhet. Valfri krypterad säkerhetskopia går till ditt eget iCloud eller Google Drive, förseglat med en återställningskod endast du har.
+Som standard ligger dina dokument krypterade i mobilen.
 
 ### Byggd av en förälder
 
-Jag byggde den här appen för att jag behövde den för min egen familj. Den har automatiska utgångspåminnelser månader innan förnyelse är brådskande och, med Pro, separata profiler för varje familjemedlem. Det finns ingen VC-finansiering som pressar mig att sälja dina data och ingen väg framåt driven av tillväxtmått – det är helt enkelt ett verktyg som löser ett problem på rätt sätt.
+Jag byggde appen när jag insåg hur lätt det var att tappa koll på när min dotters pass skulle gå ut. Jag ville ha ett ställe där jag kunde gå igenom familjens handlingar inför en resa.
 
 ### Offline av design
 
-Den säkeraste servern för passkanningar finns inte alls – vilket är varför appen behåller dokument på din enhet och fungerar helt offline som standard. Om du aktiverar säkerhetskopia går ditt krypterade valv till ditt eget iCloud eller Google Drive, förseglat med en återställningskod som endast du har.
+Öppna sparade dokument och få påminnelser om utgångsdatum även i flygplansläge.
 
 ### Kryptering på enheten
 
@@ -84,7 +84,7 @@ Ingen Travel Document Vault-server lagrar dina dokument. Det finns ingenting att
 
 Med Pro
 
-## Planera resor, spåra kvoter, synkronisera till ditt eget moln
+## Planera resor, håll koll på vistelser och säkerhetskopiera ditt valv
 
 Byggd för familjer som reser överallt.
 
@@ -92,9 +92,9 @@ Byggd för familjer som reser överallt.
 
 Beredskapstrafikljus för familjen. Se vilka länkade dokument som behöver ses över mot dina sparade resdatum.
 
-### Din molnlagring, din nyckel
+### Krypterad säkerhetskopia i molnet
 
-Krypterad säkerhetskopia i ditt iCloud eller Google Drive. Du håller återställningskoden. Vi ser den aldrig.
+Aktivera säkerhetskopiering om du vill kunna återställa valvet när du byter mobil.
 
 ### Spåra Dagar Utomlands
 
@@ -106,7 +106,7 @@ Lägg till en profil för varje familjemedlem. Gratisversionen har 1 profil. Med
 
 ## För resa. För livet. För allt som är viktigt.
 
-Byggd för familjer som reser. Väsentlig för att hålla reda på alla vitala dokument, från försäkringsbrev till arbetsmärken.
+Spara en kopia av handlingarna du behöver i vardagen, från försäkringsbrev till passerkort på jobbet.
 
 ### Smarta påminnelser
 

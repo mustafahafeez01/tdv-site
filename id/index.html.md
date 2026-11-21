@@ -26,15 +26,15 @@ Satu hal lagi yang tidak perlu dikhawatirkan.
 
 ## Dokumen Anda Tetap Bersama Anda
 
-Dokumen yang tersimpan terenkripsi di perangkat Anda. Cadangan terenkripsi opsional ke iCloud atau Google Drive Anda sendiri, disegel dengan kode pemulihan yang hanya Anda pegang.
+Secara default, dokumen Anda tetap terenkripsi di ponsel.
 
 ### Dibangun oleh Orang Tua
 
-Saya membangun aplikasi ini karena saya membutuhkannya untuk keluarga saya. Aplikasi ini memiliki pengingat kedaluwarsa otomatis berbulan-bulan sebelum perpanjangan menjadi mendesak dan, dengan Pro, profil terpisah untuk setiap anggota keluarga. Tidak ada pendanaan VC yang mendorong saya untuk menjual data Anda dan tidak ada peta jalan yang didorong oleh metrik pertumbuhan; ini semata-mata alat yang menyelesaikan satu masalah dengan baik.
+Saya membuat aplikasi ini setelah sadar betapa mudahnya lupa kapan paspor putri saya kedaluwarsa. Saya ingin bisa memeriksa dokumen seluruh keluarga di satu tempat sebelum bepergian.
 
 ### Offline Secara Desain
 
-Server teraman untuk pemindaian paspor adalah tanpa server sama sekali, itulah mengapa aplikasi menyimpan dokumen di perangkat Anda dan berfungsi sepenuhnya secara offline secara default. Jika Anda mengaktifkan cadangan, vault terenkripsi Anda pergi ke iCloud atau Google Drive Anda sendiri, disegel dengan kode pemulihan yang hanya Anda pegang.
+Buka dokumen tersimpan dan terima pengingat masa berlaku, bahkan dalam mode pesawat.
 
 ### Enkripsi Di Perangkat
 
@@ -84,7 +84,7 @@ Tidak ada server Travel Document Vault yang menyimpan dokumen Anda. Tidak ada ya
 
 Dengan Pro
 
-## Rencanakan perjalanan, lacak kuota, sinkronkan ke cloud Anda sendiri
+## Rencanakan perjalanan, catat lama tinggal, dan cadangkan brankas Anda
 
 Dibangun untuk keluarga yang bepergian di mana saja.
 
@@ -92,9 +92,9 @@ Dibangun untuk keluarga yang bepergian di mana saja.
 
 Lampu lalu lintas kesiapan keluarga. Lihat dokumen tertaut yang perlu diperhatikan berdasarkan tanggal perjalanan yang tersimpan.
 
-### Cloud Anda, Kunci Anda
+### Cadangan terenkripsi di cloud
 
-Cadangan terenkripsi di iCloud atau Google Drive Anda. Anda memegang kode pemulihan. Kami tidak pernah melihatnya.
+Aktifkan pencadangan jika ingin memulihkan brankas saat berganti ponsel.
 
 ### Pelacakan Hari di Luar Negeri
 
@@ -106,7 +106,7 @@ Tambahkan profil untuk setiap anggota keluarga. Versi gratis mencakup 1 profil. 
 
 ## Untuk Perjalanan. Untuk Kehidupan. Untuk Segala Hal Penting.
 
-Dibangun untuk keluarga yang bepergian. Penting untuk melacak setiap dokumen penting, mulai dari polis asuransi hingga lencana kerja.
+Simpan salinan dokumen yang dipakai sehari-hari, mulai dari polis asuransi hingga kartu identitas karyawan.
 
 ### Pengingat Pintar
 

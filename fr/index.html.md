@@ -26,15 +26,15 @@ Un souci de moins.
 
 ## Vos Documents Restent Avec Vous
 
-Vos documents enregistrés sont chiffrés sur votre appareil. Une sauvegarde optionnelle va vers votre propre iCloud ou Google Drive, scellée par un code de récupération que vous seul avez.
+Par défaut, vos documents restent chiffrés sur votre téléphone.
 
 ### Créé par un Parent
 
-Il n'y a pas de financement par capital-risque qui me pousse à vendre vos données et aucune feuille de route motivée par des métriques de croissance. C'est simplement un outil qui résout un problème, correctement.
+J’ai créé cette application quand j’ai réalisé à quel point il était facile d’oublier la date d’expiration du passeport de ma fille. Je voulais pouvoir vérifier les papiers de toute la famille au même endroit avant de partir.
 
 ### Conception Hors Ligne
 
-Le serveur le plus sûr pour les scans de passeport n'existe pas du tout. C'est pourquoi l'application conserve les documents sur votre appareil et fonctionne complètement hors ligne par défaut. Si vous activez une sauvegarde, votre coffre-fort chiffré va vers votre propre iCloud ou Google Drive, scellé avec un code de récupération que vous seul avez.
+Consultez vos documents enregistrés et recevez vos rappels d’expiration même en mode avion.
 
 ### Chiffrement sur l'Appareil
 
@@ -84,7 +84,7 @@ Aucun serveur Travel Document Vault ne stocke vos documents. Il n'y a rien à tr
 
 Avec Pro
 
-## Planifiez les voyages, suivez les franchises, synchronisez vers votre propre cloud
+## Préparez vos voyages, suivez vos séjours et sauvegardez votre coffre
 
 Conçu pour les familles qui voyagent partout.
 
@@ -92,9 +92,9 @@ Conçu pour les familles qui voyagent partout.
 
 Feu tricolore de disponibilité familiale. Voyez quels documents associés nécessitent votre attention en fonction des dates de voyage enregistrées.
 
-### Votre Cloud, Votre Clé
+### Sauvegarde cloud chiffrée
 
-Sauvegarde chiffrée dans votre iCloud ou Google Drive. Vous détenez le code de récupération. Nous ne le voyons jamais.
+Activez la sauvegarde si vous souhaitez retrouver votre coffre en changeant de téléphone.
 
 ### Suivez les Jours Hors du Pays
 
@@ -106,7 +106,7 @@ Ajoutez un profil pour chaque membre de la famille. La version gratuite inclut 1
 
 ## Pour les Voyages. Pour la Vie. Pour Tout Ce Qui Est Important.
 
-Conçu pour les familles qui voyagent. Essentiel pour suivre tous les documents vitaux, des polices d'assurance aux insignes professionnels.
+Gardez une copie des documents utiles au quotidien, de vos contrats d’assurance à vos badges professionnels.
 
 ### Rappels Intelligents
 

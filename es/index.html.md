@@ -26,15 +26,15 @@ Una cosa menos de la que preocuparse.
 
 ## Tus Documentos Se Quedan Contigo
 
-Tus documentos guardados se cifran en tu dispositivo. La copia de seguridad opcional va a tu propio iCloud o Google Drive, sellada con un código de recuperación que solo tú tienes.
+Tus documentos se guardan cifrados en tu móvil de forma predeterminada.
 
 ### Construido por un Padre
 
-No hay inversión de capital presionándome para vender tus datos y sin una hoja de ruta impulsada por métricas de crecimiento. Es simplemente una herramienta que resuelve un problema, correctamente.
+Creé esta aplicación al darme cuenta de lo fácil que era olvidar cuándo caducaba el pasaporte de mi hija. Quería un solo lugar donde revisar los documentos de toda la familia antes de viajar.
 
 ### Diseño Sin Conexión
 
-El servidor más seguro para escaneos de pasaporte es ningún servidor. Por eso la aplicación mantiene documentos en tu dispositivo y funciona completamente sin conexión de forma predeterminada. Si activas copia de seguridad, tu bóveda cifrada va a tu propio iCloud o Google Drive, sellada con un código de recuperación que solo tú tienes.
+Consulta tus documentos guardados y recibe avisos de caducidad incluso en modo avión.
 
 ### Cifrado en el Dispositivo
 
@@ -76,7 +76,7 @@ Ningún servidor de Travel Document Vault guarda tus documentos. No hay nada que
 
 [Lee la historia del fundador: Por qué construí una app para tener una preocupación menos →](https://traveldocumentvault.com/es/blog/why-i-built-travel-document-vault/) Con Pro
 
-## Planifica viajes, controla días permitidos y sincroniza a tu propia nube
+## Planifica viajes, registra tus estancias y guarda una copia de tu bóveda
 
 Construido para familias que viajan por todo el mundo.
 
@@ -84,9 +84,9 @@ Construido para familias que viajan por todo el mundo.
 
 Semáforo de preparación familiar. Mira qué documentos vinculados necesitan atención frente a tus fechas de viaje guardadas.
 
-### Tu Nube, Tu Clave
+### Copia de seguridad cifrada en la nube
 
-Copia de seguridad cifrada en tu iCloud o Google Drive. Tú tienes el código de recuperación. Nunca lo vemos.
+Activa la copia de seguridad si quieres recuperar tu bóveda al cambiar de móvil.
 
 ### Seguimiento de Días Fuera del País
 
@@ -104,7 +104,7 @@ Añade un perfil para cada miembro de la familia. La versión gratuita incluye 1
 
 ## Para Viajes. Para la Vida. Para Todo lo Importante.
 
-Construido para familias que viajan. Esencial para mantener un seguimiento de cada documento vital, desde pólizas de seguros hasta insignias de trabajo.
+Guarda una copia de los documentos que usas entre viajes, desde pólizas de seguro hasta credenciales del trabajo.
 
 ### Recordatorios Inteligentes
 

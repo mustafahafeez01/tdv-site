@@ -26,15 +26,15 @@ Ingen ser dette arbejde. Nu har det et sted at høre til, denne rejse og alle de
 
 ## Dine Dokumenter Forbliver Hos Dig
 
-Dine gemte dokumenter er krypteret på din enhed. Valgfri krypteret sikkerhedskopi til din iCloud eller Google Drive er forseglede med en gendannelseskode som kun du har.
+Som standard ligger dine dokumenter krypteret på din telefon.
 
 ### Bygget af en forælder
 
-Jeg byggede denne app fordi jeg havde brug for den til min egen familie. Den har automatiske udløbspåmindelser måneder før fornyelse bliver presserende og med Pro separate profiler for hvert familiemedlem. Der er ingen VC-finansiering der presser mig til at sælge dine data, og ingen køreplan styret af væksthyg; det er simpelthen et værktøj der løser ét problem rigtigt.
+Jeg lavede appen, da det gik op for mig, hvor let det var at miste overblikket over, hvornår min datters pas udløb. Jeg ville kunne tjekke familiens dokumenter ét sted, inden vi rejste.
 
 ### Offline efter design
 
-Den sikreste server til paskopiering er slet ingen server, og det er grunden til, at appen holder dokumenter på din enhed og fungerer helt offline som standard. Hvis du slår sikkerhedskopi på, går dit krypterede lager til din egen iCloud eller Google Drive, forseglede med en gendannelseskode som kun du har.
+Åbn gemte dokumenter, og få påmindelser om udløb, selv i flytilstand.
 
 ### Kryptering på enheden
 
@@ -76,7 +76,7 @@ Ingen Travel Document Vault-server opbevarer dine dokumenter. Der er ikke noget 
 
 [Læs stifterens historie: Hvorfor jeg byggede en app til at bære en ting mindre i mit hoved →](https://traveldocumentvault.com/da/blog/why-i-built-travel-document-vault/) Med Pro
 
-## Planlæg ture, spor tillader, synkroniser til din egen sky
+## Planlæg rejser, hold styr på ophold, og sikkerhedskopiér din boks
 
 Bygget til familier der rejser overalt.
 
@@ -84,9 +84,9 @@ Bygget til familier der rejser overalt.
 
 Trafiklys for familiens rejseberedskab. Se, hvilke tilknyttede dokumenter der kræver opmærksomhed i forhold til dine gemte rejsedatoer.
 
-### Din Sky, Din Nøgle
+### Krypteret sikkerhedskopi i skyen
 
-Krypteret sikkerhedskopi til din iCloud eller Google Drive. Du holder gendannelseskoden. Vi ser den aldrig.
+Slå sikkerhedskopiering til, hvis du vil kunne gendanne boksen, når du skifter telefon.
 
 ### Spor Dage Uden for Landet
 
@@ -104,7 +104,7 @@ Tilføj en profil for hvert familiemedlem. Gratisversionen har 1 profil. Pro giv
 
 ## Til rejser. Til livet. Til alt der er vigtigt.
 
-Bygget til familier der rejser. Essentiel for at holde styr på hvert vigtig dokument, fra forsikringspolicer til arbejdsmærker.
+Gem en kopi af de dokumenter, du bruger i hverdagen, fra forsikringspolicer til adgangskort på arbejdet.
 
 ### Smarte påmindelser
 

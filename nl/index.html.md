@@ -26,15 +26,15 @@ Een zorg minder.
 
 ## Uw Documenten Blijven Bij U
 
-Uw opgeslagen documenten staan versleuteld op uw apparaat. Een optionele back-up gaat naar uw eigen iCloud of Google Drive, beveiligd met een herstelcode die alleen u hebt.
+Uw documenten blijven standaard versleuteld op uw telefoon staan.
 
 ### Gebouwd door een Ouder
 
-Ik heb deze app gemaakt omdat ik het voor mijn eigen gezin nodig had. Het biedt automatische vervalherinneringen maanden voordat verlenging nodig is en, met Pro, aparte profielen voor elk gezinslid. Er is geen VC-financiering die mij duwt uw gegevens te verkopen en geen roadmap gedreven door groeimetriek; het is gewoon een tool die één probleem goed oplost.
+Ik maakte deze app toen ik besefte hoe makkelijk ik de vervaldatum van het paspoort van mijn dochter uit het oog kon verliezen. Ik wilde vóór een reis alle gezinsdocumenten op één plek kunnen controleren.
 
 ### Offline van Nature
 
-De veiligste server voor paspoortscannen is geen server. Daarom bewaart de app documenten op uw apparaat en werkt volledig offline. Als u back-up inschakelt, gaat uw versleutelde kluis naar uw eigen iCloud of Google Drive, verzegeld met een herstelcode die alleen u hebt.
+Open uw opgeslagen documenten en ontvang herinneringen voordat ze verlopen, zelfs in vliegtuigmodus.
 
 ### Versleuteling op het Apparaat
 
@@ -84,7 +84,7 @@ Geen Travel Document Vault-server slaat uw documenten op. Er is niets om te vind
 
 Met Pro
 
-## Plan reizen, volg toleranties, synchroniseer naar uw eigen cloud
+## Plan reizen, houd uw verblijfsdagen bij en maak een back-up van uw kluis
 
 Gebouwd voor gezinnen die overal reizen.
 
@@ -96,9 +96,9 @@ Familiebereidschapsampel. Zie welke gekoppelde documenten aandacht nodig hebben 
 
 Pro
 
-### Uw cloud, uw sleutel
+### Versleutelde back-up in de cloud
 
-Versleutelde back-up naar uw iCloud of Google Drive. U houdt de herstelcode. We zien het nooit.
+Schakel back-ups in om uw kluis te kunnen herstellen als u van telefoon wisselt.
 
 Pro
 
@@ -114,7 +114,7 @@ Voeg een profiel toe voor elk gezinslid. De gratis versie bevat 1 profiel. Pro v
 
 ## Voor Reizen. Voor Het Leven. Voor Alles Wat Belangrijk Is.
 
-Gebouwd voor gezinnen die reizen. Essentieel voor het bijhouden van elk vitaal document, van verzekeringspolicies tot werkinsignea.
+Bewaar een kopie van de documenten die u dagelijks nodig hebt, van verzekeringspolissen tot uw werkpas.
 
 ### Slimme Herinneringen
 
