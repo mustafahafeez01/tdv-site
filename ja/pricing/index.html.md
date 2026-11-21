@@ -55,7 +55,7 @@ Source: https://traveldocumentvault.com/ja/pricing/
 
 ソロ旅行に必要なすべてのもの
 
-$0
+無料
 
 - パスポート、ビザ、ID など
 - 書類をスキャンし、検出された有効期限を確認

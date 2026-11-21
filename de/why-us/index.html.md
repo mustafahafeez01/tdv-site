@@ -25,7 +25,7 @@ Entwickelt von jemandem, der das für seine eigene Familie brauchte. Keine Inves
 
 [Mustafa Hafeez](https://mustafahafeez.com/)
 
-Hat Travel Document Vault für seine Familie entwickelt
+Ich bin Mustafa, Softwareentwickler bei Visokio, und habe Travel Document Vault entwickelt, damit wir in meiner Familie unsere Reisedokumente besser organisieren können.
 
 > „Jede Familienreise wurde zur Schnitzeljagd durch Fotos, E-Mails und Drive. Ich habe die App gebaut, damit es bei der nächsten Reise anders läuft.“
 

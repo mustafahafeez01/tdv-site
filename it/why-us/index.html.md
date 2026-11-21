@@ -25,7 +25,7 @@ Creata da una persona che ne aveva bisogno per la propria famiglia. Niente ventu
 
 [Mustafa Hafeez](https://mustafahafeez.com/)
 
-Ho creato Travel Document Vault per la mia famiglia
+Sono Mustafa, lavoro come sviluppatore software in Visokio e ho creato Travel Document Vault per aiutare la mia famiglia a tenere in ordine i nostri documenti di viaggio.
 
 > «Ogni viaggio in famiglia diventava una caccia al tesoro tra Foto, email e Drive. L’ho creata perché il prossimo viaggio non lo fosse.»
 

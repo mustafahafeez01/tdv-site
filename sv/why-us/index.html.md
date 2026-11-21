@@ -25,7 +25,7 @@ Byggd av någon som behövde den för sin egen familj. Inga riskkapitalister, in
 
 [Mustafa Hafeez](https://mustafahafeez.com/)
 
-Byggde Travel Document Vault för min familj
+Jag heter Mustafa och jobbar som mjukvaruutvecklare på Visokio, och jag skapade Travel Document Vault för att hjälpa min familj att hålla ordning på våra resehandlingar.
 
 > ”Varje familjeresa blev en skattjakt genom Bilder, e-post och Drive. Jag byggde det här för att nästa resa inte skulle bli det.”
 

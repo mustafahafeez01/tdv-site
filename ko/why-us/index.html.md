@@ -25,7 +25,7 @@ Source: https://traveldocumentvault.com/ko/why-us/
 
 [Mustafa Hafeez](https://mustafahafeez.com/)
 
-가족을 위해 Travel Document Vault를 만들었습니다
+저는 Visokio에서 일하는 소프트웨어 개발자 Mustafa이고, 우리 가족이 여행 서류를 잘 정리할 수 있도록 Travel Document Vault를 만들었습니다.
 
 > "가족 여행 때마다 사진, 이메일, Drive를 뒤지는 보물찾기가 벌어졌습니다. 다음 여행은 그러지 않도록 이 앱을 만들었습니다."
 

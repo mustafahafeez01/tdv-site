@@ -25,7 +25,7 @@ Gemaakt door iemand die dit voor zijn eigen gezin nodig had. Geen durfkapitaal, 
 
 [Mustafa Hafeez](https://mustafahafeez.com/)
 
-Bouwde Travel Document Vault voor mijn gezin
+Ik ben Mustafa, softwareontwikkelaar bij Visokio, en ik heb Travel Document Vault gemaakt om mijn gezin te helpen onze reisdocumenten op orde te houden.
 
 > "Elke gezinsreis werd een speurtocht door Foto's, e-mail en Drive. Ik heb dit gemaakt zodat dat bij de volgende reis niet meer zo zou zijn."
 

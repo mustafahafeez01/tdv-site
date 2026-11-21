@@ -209,7 +209,7 @@ Ingen prenumeration. Se priset i ditt land i App Store eller på Google Play.
 
 Allt du behöver för ensamresor
 
-$0
+Kostnadsfritt
 
 - Pass, visum, ID och mer
 - Skanna dokument och bekräfta avlästa utgångsdatum

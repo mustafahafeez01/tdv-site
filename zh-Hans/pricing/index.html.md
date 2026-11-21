@@ -55,7 +55,7 @@ Source: https://traveldocumentvault.com/zh-Hans/pricing/
 
 单独旅行所需的一切
 
-$0
+免费
 
 - 护照、签证、身份证等
 - 扫描文档并确认检测到的到期日

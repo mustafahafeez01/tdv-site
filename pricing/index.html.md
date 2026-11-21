@@ -55,7 +55,7 @@ No subscription. Check the App Store or Google Play for your local price.
 
 Everything you need for solo travel
 
-$0
+Free
 
 - Passports, visas, IDs & more
 - Scan documents and confirm detected expiry dates

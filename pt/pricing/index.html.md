@@ -55,7 +55,7 @@ Sem subscrição. Consulte o preço no seu país na App Store ou no Google Play.
 
 Tudo o que precisa para viajar sozinho
 
-$0
+Gratuito
 
 - Passaportes, vistos, cartões de identidade e muito mais
 - Digitalize documentos e confirme as datas de validade detetadas

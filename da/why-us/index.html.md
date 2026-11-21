@@ -25,7 +25,7 @@ Bygget af en, der selv havde brug for det til sin familie. Ingen investorer, ing
 
 [Mustafa Hafeez](https://mustafahafeez.com/)
 
-Byggede Travel Document Vault til min familie
+Jeg hedder Mustafa og arbejder som softwareudvikler hos Visokio, og jeg byggede Travel Document Vault for at hjælpe min familie med at holde styr på vores rejsedokumenter.
 
 > »Hver familietur endte i en skattejagt på tværs af Fotos, e-mail og Drive. Jeg byggede det her, så den næste tur ikke gjorde.«
 

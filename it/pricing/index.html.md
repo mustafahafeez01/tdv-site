@@ -55,7 +55,7 @@ Nessun abbonamento. Controlla il prezzo per il tuo paese su App Store o Google P
 
 Tutto ciò che ti serve per viaggiare da solo
 
-$0
+Gratuito
 
 - Passaporti, visti, ID e altro
 - Scansiona documenti e conferma le date di scadenza rilevate

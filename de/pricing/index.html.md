@@ -55,7 +55,7 @@ Kein Abo. Den Preis für Ihr Land finden Sie im App Store oder bei Google Play.
 
 Alles, was Sie für Einzelreisen brauchen
 
-$0
+Kostenlos
 
 - Reisepässe, Visa, Ausweise und mehr
 - Dokumente scannen und erkannte Ablaufdaten bestätigen

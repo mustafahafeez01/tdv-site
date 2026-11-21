@@ -211,7 +211,7 @@ Sin suscripción. Consulta el precio para tu país en App Store o Google Play.
 
 Todo lo que necesitas para viajes en solitario
 
-$0
+Gratuito
 
 - Pasaportes, visas, IDs y más
 - Escanea documentos y confirma las fechas de vencimiento detectadas

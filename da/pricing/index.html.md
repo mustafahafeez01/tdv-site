@@ -55,7 +55,7 @@ Intet abonnement. Se prisen i dit land i App Store eller på Google Play.
 
 Alt hvad du behøver til solo-rejse
 
-$0
+Gratis
 
 - Pas, visa, id-kort og mere
 - Scan dokumenter, og bekræft registrerede udløbsdatoer

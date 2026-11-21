@@ -209,7 +209,7 @@ Tanpa langganan. Lihat harga untuk wilayah Anda di App Store atau Google Play.
 
 Semua yang Anda butuhkan untuk perjalanan solo
 
-$0
+Gratis
 
 - Paspor, visa, KTP & lainnya
 - Pindai dokumen dan konfirmasi tanggal kedaluwarsa yang terdeteksi

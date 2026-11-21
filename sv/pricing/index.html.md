@@ -55,7 +55,7 @@ Ingen prenumeration. Se priset i ditt land i App Store eller på Google Play.
 
 Allt för soloresan
 
-$0
+Gratis
 
 - Pass, visum, ID och mer
 - Skanna dokument, bekräfta avlästa utgångsdatum

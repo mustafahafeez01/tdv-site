@@ -25,7 +25,7 @@ Source: https://traveldocumentvault.com/zh-Hans/why-us/
 
 [Mustafa Hafeez](https://mustafahafeez.com/)
 
-为自己的家人打造了 Travel Document Vault
+我是 Mustafa，在 Visokio 做软件开发，我做了 Travel Document Vault，方便家里整理旅行证件。
 
 > “每次全家出行，都要在相册、邮箱和网盘里翻箱倒柜。我做这个应用，就是为了下一次不再这样。”
 

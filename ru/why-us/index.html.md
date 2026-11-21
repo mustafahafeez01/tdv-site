@@ -25,7 +25,7 @@ Source: https://traveldocumentvault.com/ru/why-us/
 
 [Mustafa Hafeez](https://mustafahafeez.com/)
 
-Создал Travel Document Vault для своей семьи
+Я Мустафа, разработчик в Visokio, и я создал Travel Document Vault, чтобы моей семье было проще хранить в порядке документы для поездок.
 
 > «Каждая семейная поездка превращалась в поиски по фотографиям, почте и облаку. Я сделал это приложение, чтобы со следующей поездкой так не было».
 

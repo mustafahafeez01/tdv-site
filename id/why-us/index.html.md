@@ -25,7 +25,7 @@ Dibuat oleh seseorang yang membutuhkannya untuk keluarganya sendiri. Tanpa inves
 
 [Mustafa Hafeez](https://mustafahafeez.com/)
 
-Membuat Travel Document Vault untuk keluarga saya
+Saya Mustafa, pengembang perangkat lunak di Visokio, dan saya membuat Travel Document Vault agar keluarga saya lebih mudah menata dokumen perjalanan kami.
 
 > "Setiap perjalanan keluarga berubah jadi perburuan harta karun di Foto, email, dan Drive. Saya membuat ini agar perjalanan berikutnya tidak begitu lagi."
 

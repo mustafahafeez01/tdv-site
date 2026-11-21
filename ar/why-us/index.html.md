@@ -25,7 +25,7 @@ Source: https://traveldocumentvault.com/ar/why-us/
 
 [Mustafa Hafeez](https://mustafahafeez.com/)
 
-أنشأت Travel Document Vault من أجل عائلتي
+أنا مصطفى، مطوّر برمجيات في Visokio، وقد أنشأت Travel Document Vault لمساعدة عائلتي على تنظيم وثائق سفرنا.
 
 > «تحوّلت كل رحلة عائلية إلى رحلة بحث بين الصور والبريد وDrive. أنشأت هذا التطبيق كي لا تكون الرحلة القادمة كذلك.»
 

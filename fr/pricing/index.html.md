@@ -55,7 +55,7 @@ Sans abonnement. Consultez le prix dans votre pays sur l’App Store ou Google P
 
 Tout le nécessaire pour voyager seul
 
-$0
+Gratuit
 
 - Passeports, visas, pièces d'identité et plus
 - Scannez les documents et confirmez les dates d’expiration lues

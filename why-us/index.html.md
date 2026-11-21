@@ -25,7 +25,7 @@ Built by a person who needed this for his own family. No VCs, no shareholders, n
 
 [Mustafa Hafeez](https://mustafahafeez.com/)
 
-Built Travel Document Vault for my family
+I’m Mustafa, a software developer at Visokio, and I built Travel Document Vault to help my family keep our travel documents organised.
 
 > "Every family trip turned into a scavenger hunt across Photos, email, and Drive. I built this so the next trip wouldn't."
 
