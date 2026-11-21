@@ -46,7 +46,7 @@ Demandez au loueur s'il a besoin d'une copie de passeport pour la réservation o
 
 Si votre passeport est perdu ou volé en voyage, une copie de la page avec photo peut aider votre ambassade ou votre consulat à confirmer vos informations lors d'une demande de remplacement. Vous devez tout de même demander un nouveau passeport ou [un document de voyage d'urgence](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport). C'est l'une des bonnes raisons de toujours avoir une sauvegarde numérique.
 
-![Diagramme des usages d'une copie numérique de passeport : généralement accepté pour l'enregistrement à l'hôtel, la réservation de vol et la location de voiture ; original exigé au contrôle aux frontières et à l'embarquement](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-where-fr.jpg) En bref : une copie ouvre des portes, seul l'original traverse les frontières.
+![Vérifiez ce qui est accepté (Enregistrement à l'hôtel, Réservation de vol, Location de voiture). Présentez un original accepté (Contrôle aux frontières, Embarquement sur un vol international). Une copie permet de garder vos informations à portée de main.](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-travel-checks-fr.jpg)
 
 ## Où les documents de voyage originaux sont généralement requis
 

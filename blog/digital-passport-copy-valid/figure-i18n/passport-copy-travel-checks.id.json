@@ -1,0 +1,44 @@
+{
+  "id": {
+    "template": "cards",
+    "title": "Menggunakan salinan paspor",
+    "cards": [
+      {
+        "heading": "Periksa dokumen yang diterima",
+        "items": [
+          {
+            "text": "Check-in hotel",
+            "mark": "dot"
+          },
+          {
+            "text": "Pemesanan penerbangan",
+            "mark": "dot"
+          },
+          {
+            "text": "Sewa mobil",
+            "mark": "dot"
+          }
+        ]
+      },
+      {
+        "heading": "Tunjukkan dokumen asli yang diterima",
+        "items": [
+          {
+            "text": "Kontrol perbatasan",
+            "mark": "dot"
+          },
+          {
+            "text": "Naik pesawat untuk penerbangan internasional",
+            "mark": "dot"
+          }
+        ]
+      }
+    ],
+    "focal": "Salinan berguna sebagai cadangan data Anda.",
+    "alt": "Periksa dokumen yang diterima (Check-in hotel, Pemesanan penerbangan, Sewa mobil). Tunjukkan dokumen asli yang diterima (Kontrol perbatasan, Naik pesawat untuk penerbangan internasional). Salinan berguna sebagai cadangan data Anda.",
+    "placement": {
+      "h2": 2,
+      "para": 4
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "pt": {
+    "template": "cards",
+    "title": "Usar uma cópia do passaporte",
+    "cards": [
+      {
+        "heading": "Confirme o que é aceite",
+        "items": [
+          {
+            "text": "Check-in no hotel",
+            "mark": "dot"
+          },
+          {
+            "text": "Reserva de voo",
+            "mark": "dot"
+          },
+          {
+            "text": "Aluguer de carro",
+            "mark": "dot"
+          }
+        ]
+      },
+      {
+        "heading": "Apresente um original aceite",
+        "items": [
+          {
+            "text": "Controlo de fronteira",
+            "mark": "dot"
+          },
+          {
+            "text": "Embarque em voos internacionais",
+            "mark": "dot"
+          }
+        ]
+      }
+    ],
+    "focal": "Uma cópia serve de reserva dos seus dados.",
+    "alt": "Confirme o que é aceite (Check-in no hotel, Reserva de voo, Aluguer de carro). Apresente um original aceite (Controlo de fronteira, Embarque em voos internacionais). Uma cópia serve de reserva dos seus dados.",
+    "placement": {
+      "h2": 2,
+      "para": 4
+    }
+  }
+}

@@ -46,7 +46,7 @@ Source: https://traveldocumentvault.com/ja/blog/digital-passport-copy-valid/
 
 旅行中にパスポートを紛失したり盗まれたりした場合、写真ページのコピーが、再発行の申請時に大使館や領事館が本人情報を確認する助けになります。新しいパスポートや[緊急渡航書類](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport)の申請は別途必要です。これはデジタルバックアップを常に携帯する最強の理由の1つです。
 
-![デジタルパスポートコピーが使える場所を示す図。ホテルのチェックイン、フライトの予約、レンタカーでは通常問題ないが、出入国審査と搭乗手続きには原本が必要](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-where-ja.jpg) 端的に言えば、コピーは扉を開けるが、国境を越えられるのは原本だけ
+![使える書類を事前に確認 (ホテルのチェックイン、フライトの予約、レンタカー)。認められている原本を提示 (出入国審査、国際線の搭乗)。コピーは記載情報の控えです。](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-travel-checks-ja.jpg)
 
 ## 通常、渡航書類の原本が必要な場面
 

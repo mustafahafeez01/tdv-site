@@ -46,7 +46,7 @@ Chiedi all'agenzia di autonoleggio se serve una copia del passaporto per la pren
 
 Se il tuo passaporto viene perso o rubato durante il viaggio, una copia della pagina con la foto può aiutare la tua ambasciata o il consolato a confermare i tuoi dati quando chiedi un documento sostitutivo. Devi comunque richiedere un nuovo passaporto o un [documento di viaggio di emergenza](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport). È uno dei motivi più forti per avere sempre con te un backup digitale.
 
-![Diagramma di dove funziona una copia digitale del passaporto: di solito va bene per il check-in in hotel, la prenotazione del volo e l'autonoleggio; serve l'originale al controllo di frontiera e per l'imbarco aereo](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-where-it.jpg) In breve: la copia apre le porte, solo l'originale attraversa le frontiere.
+![Verifica quali documenti accettano (Check-in in hotel, Prenotazione del volo, Autonoleggio). Presenta un originale accettato (Controllo di frontiera, Imbarco sui voli internazionali). Una copia serve come riserva dei tuoi dati.](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-travel-checks-it.jpg)
 
 ## Dove generalmente servono i documenti di viaggio originali
 

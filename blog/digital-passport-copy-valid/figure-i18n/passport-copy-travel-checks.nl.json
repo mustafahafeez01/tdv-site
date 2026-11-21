@@ -1,0 +1,44 @@
+{
+  "nl": {
+    "template": "cards",
+    "title": "Een paspoortkopie gebruiken",
+    "cards": [
+      {
+        "heading": "Controleer wat wordt geaccepteerd",
+        "items": [
+          {
+            "text": "Inchecken in het hotel",
+            "mark": "dot"
+          },
+          {
+            "text": "Vluchtboeking",
+            "mark": "dot"
+          },
+          {
+            "text": "Autoverhuur",
+            "mark": "dot"
+          }
+        ]
+      },
+      {
+        "heading": "Toon een geaccepteerd origineel",
+        "items": [
+          {
+            "text": "Grenscontrole",
+            "mark": "dot"
+          },
+          {
+            "text": "Instappen bij internationale vluchten",
+            "mark": "dot"
+          }
+        ]
+      }
+    ],
+    "focal": "Een kopie is een reserve voor je gegevens.",
+    "alt": "Controleer wat wordt geaccepteerd (Inchecken in het hotel, Vluchtboeking, Autoverhuur). Toon een geaccepteerd origineel (Grenscontrole, Instappen bij internationale vluchten). Een kopie is een reserve voor je gegevens.",
+    "placement": {
+      "h2": 2,
+      "para": 4
+    }
+  }
+}

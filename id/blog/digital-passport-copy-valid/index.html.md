@@ -46,7 +46,7 @@ Tanyakan kepada perusahaan sewa mobil apakah salinan paspor diperlukan untuk pem
 
 Jika paspor Anda hilang atau dicuri saat bepergian, salinan halaman foto dapat membantu kedutaan atau konsulat memastikan data Anda saat mengajukan penggantian. Anda tetap perlu mengajukan paspor baru atau [dokumen perjalanan darurat](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport). Ini salah satu alasan terkuat untuk selalu membawa cadangan digital.
 
-![Diagram tentang di mana salinan digital paspor berlaku: biasanya diterima untuk check-in hotel, pemesanan penerbangan, dan sewa mobil; dokumen asli diperlukan di kontrol perbatasan dan saat naik pesawat](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-where-id.jpg) Singkatnya - salinan membuka pintu, hanya yang asli yang melintasi perbatasan.
+![Periksa dokumen yang diterima (Check-in hotel, Pemesanan penerbangan, Sewa mobil). Tunjukkan dokumen asli yang diterima (Kontrol perbatasan, Naik pesawat untuk penerbangan internasional). Salinan berguna sebagai cadangan data Anda.](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-travel-checks-id.jpg)
 
 ## Di Mana Dokumen Perjalanan Asli Umumnya Diperlukan
 

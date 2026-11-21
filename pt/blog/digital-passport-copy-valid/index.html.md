@@ -46,7 +46,7 @@ Pergunte à empresa de aluguer se precisa de uma cópia do passaporte para a res
 
 Se o seu passaporte for perdido ou roubado durante a viagem, uma cópia da página de identificação pode ajudar a embaixada ou o consulado a confirmar os seus dados quando pedir uma substituição. Continua a ter de pedir um novo passaporte ou [um documento de viagem de emergência](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport). Esta é uma das razões mais fortes para sempre levar uma cópia de segurança digital.
 
-![Diagrama de onde funciona uma cópia digital do passaporte: geralmente aceite para check-in no hotel, reserva de voo e aluguer de carro; original exigido no controlo de fronteira e no embarque na companhia aérea](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-where-pt.jpg) Resumindo - uma cópia abre portas, só o original atravessa fronteiras.
+![Confirme o que é aceite (Check-in no hotel, Reserva de voo, Aluguer de carro). Apresente um original aceite (Controlo de fronteira, Embarque em voos internacionais). Uma cópia serve de reserva dos seus dados.](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-travel-checks-pt.jpg)
 
 ## Onde geralmente são exigidos documentos de viagem originais
 

@@ -46,7 +46,7 @@ Pregunta a la empresa de alquiler de coches si necesita una copia del pasaporte 
 
 Si tu pasaporte se pierde o es robado mientras viajas, una copia de la página de datos puede ayudar a tu embajada o consulado a confirmar tus datos al solicitar un reemplazo. Aun así, tienes que solicitar un pasaporte nuevo o [un documento de viaje de emergencia](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport). Esta es una de las razones más sólidas para llevar siempre una copia de seguridad digital.
 
-![Diagrama de dónde funciona una copia digital del pasaporte: normalmente vale para el check-in de hotel, la reserva de vuelo y el alquiler de coches; se exige el original en el control de fronteras y para el embarque en el avión](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-where-es.jpg) La versión corta: una copia abre puertas, solo el original cruza fronteras.
+![Consulta qué documentos aceptan (Check-in de hotel, Reserva de vuelo, Alquiler de coches). Presenta un original admitido (Control de fronteras, Embarque en vuelos internacionales). Una copia sirve como respaldo de tus datos.](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-travel-checks-es.jpg)
 
 ## Dónde suelen exigirse documentos de viaje originales
 

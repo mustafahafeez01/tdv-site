@@ -1,0 +1,44 @@
+{
+  "da": {
+    "template": "cards",
+    "title": "Brug af en paskopi",
+    "cards": [
+      {
+        "heading": "Tjek, hvad de accepterer",
+        "items": [
+          {
+            "text": "Indtjekning på hotel",
+            "mark": "dot"
+          },
+          {
+            "text": "Flybooking",
+            "mark": "dot"
+          },
+          {
+            "text": "Biludlejning",
+            "mark": "dot"
+          }
+        ]
+      },
+      {
+        "heading": "Vis et godkendt originaldokument",
+        "items": [
+          {
+            "text": "Grænsekontrol",
+            "mark": "dot"
+          },
+          {
+            "text": "Ombordstigning på internationale fly",
+            "mark": "dot"
+          }
+        ]
+      }
+    ],
+    "focal": "En kopi er en sikkerhedskopi af dine oplysninger.",
+    "alt": "Tjek, hvad de accepterer (Indtjekning på hotel, Flybooking, Biludlejning). Vis et godkendt originaldokument (Grænsekontrol, Ombordstigning på internationale fly). En kopi er en sikkerhedskopi af dine oplysninger.",
+    "placement": {
+      "h2": 2,
+      "para": 4
+    }
+  }
+}

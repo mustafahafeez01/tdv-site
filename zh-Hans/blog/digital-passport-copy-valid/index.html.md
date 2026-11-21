@@ -46,7 +46,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/digital-passport-copy-valid
 
 如果您的护照在旅行时丢失或被盗，照片页副本可以帮助大使馆或领事馆在您申请补发时核实资料。您仍需要申请新护照或[紧急旅行证件](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport)。这是始终携带数字备份的最强理由之一。
 
-![数字护照副本适用范围示意图：酒店入住、机票预订和租车通常可以使用，边境过境和航空公司登机则需要原件](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-where-zh-Hans.jpg) 简单说：副本能开门，只有原件能过境。
+![先确认接受哪些证件 (酒店入住、机票预订、租车)。出示认可的证件原件 (边境过境、国际航班登机)。复印件可用于备份证件信息。](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-travel-checks-zh-Hans.jpg)
 
 ## 通常需要旅行证件原件的场合
 

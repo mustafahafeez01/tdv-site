@@ -1,0 +1,44 @@
+{
+  "it": {
+    "template": "cards",
+    "title": "Usare una copia del passaporto",
+    "cards": [
+      {
+        "heading": "Verifica quali documenti accettano",
+        "items": [
+          {
+            "text": "Check-in in hotel",
+            "mark": "dot"
+          },
+          {
+            "text": "Prenotazione del volo",
+            "mark": "dot"
+          },
+          {
+            "text": "Autonoleggio",
+            "mark": "dot"
+          }
+        ]
+      },
+      {
+        "heading": "Presenta un originale accettato",
+        "items": [
+          {
+            "text": "Controllo di frontiera",
+            "mark": "dot"
+          },
+          {
+            "text": "Imbarco sui voli internazionali",
+            "mark": "dot"
+          }
+        ]
+      }
+    ],
+    "focal": "Una copia serve come riserva dei tuoi dati.",
+    "alt": "Verifica quali documenti accettano (Check-in in hotel, Prenotazione del volo, Autonoleggio). Presenta un originale accettato (Controllo di frontiera, Imbarco sui voli internazionali). Una copia serve come riserva dei tuoi dati.",
+    "placement": {
+      "h2": 2,
+      "para": 4
+    }
+  }
+}

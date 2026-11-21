@@ -46,7 +46,7 @@ Fråga biluthyrningsföretaget om det behöver en passkopia för bokning eller d
 
 Tappar du passet eller blir det stulet under resan kan en kopia av fotosidan hjälpa din ambassad eller ditt konsulat att bekräfta dina uppgifter när du ansöker om en ersättningshandling. Du måste fortfarande ansöka om ett nytt pass eller ett provisoriskt resedokument. Det här är ett av de starkaste skälen till att alltid bära en digital backup.
 
-![Diagram över var en digital passkopia fungerar: vanligtvis okej för hotellincheckning, flygbokning och biluthyrning, original krävs vid gränskontroll och ombordstigning](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-where-sv.jpg) Kortversionen - en kopia öppnar dörrar, bara originalet passerar gränser.
+![Kontrollera vad som godtas (Hotellincheckning, Flygbokning, Biluthyrning). Visa upp en godkänd originalhandling (Gränskontroll, Ombordstigning på utrikesflyg). En kopia är en säkerhetskopia av dina uppgifter.](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-travel-checks-sv.jpg)
 
 ## Här krävs i regel resehandlingar i original
 

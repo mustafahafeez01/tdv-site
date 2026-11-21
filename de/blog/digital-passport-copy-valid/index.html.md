@@ -46,7 +46,7 @@ Fragen Sie die Autovermietung, ob sie für die Buchung oder zur Prüfung der Kau
 
 Wenn Ihr Reisepass während einer Reise verloren geht oder gestohlen wird, kann eine Kopie der Fotoseite Ihrer Botschaft oder Ihrem Konsulat helfen, Ihre Angaben beim Antrag auf Ersatz zu bestätigen. Einen neuen Reisepass oder ein [Notfall-Reisedokument](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport) müssen Sie trotzdem beantragen. Dies ist einer der stärksten Gründe, immer eine digitale Sicherung mitzuführen.
 
-![Diagramm dazu, wo eine digitale Reisepasskopie funktioniert: in der Regel kein Problem bei Hotel-Check-in, Flugbuchung und Mietwagen, Original erforderlich bei Grenzkontrolle und Boarding](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-where-de.jpg) Kurz gesagt – eine Kopie öffnet Türen, nur das Original überquert Grenzen.
+![Vorher nachfragen, was akzeptiert wird (Hotel-Check-in, Flugbuchung, Mietwagen). Ein anerkanntes Original vorlegen (Grenzkontrolle, Boarding bei internationalen Flügen). Eine Kopie dient als Sicherung deiner Angaben.](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-travel-checks-de.jpg)
 
 ## Wo Reisedokumente in der Regel im Original erforderlich sind
 

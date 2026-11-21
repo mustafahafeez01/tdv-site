@@ -1,0 +1,44 @@
+{
+  "sv": {
+    "template": "cards",
+    "title": "Använda en passkopia",
+    "cards": [
+      {
+        "heading": "Kontrollera vad som godtas",
+        "items": [
+          {
+            "text": "Hotellincheckning",
+            "mark": "dot"
+          },
+          {
+            "text": "Flygbokning",
+            "mark": "dot"
+          },
+          {
+            "text": "Biluthyrning",
+            "mark": "dot"
+          }
+        ]
+      },
+      {
+        "heading": "Visa upp en godkänd originalhandling",
+        "items": [
+          {
+            "text": "Gränskontroll",
+            "mark": "dot"
+          },
+          {
+            "text": "Ombordstigning på utrikesflyg",
+            "mark": "dot"
+          }
+        ]
+      }
+    ],
+    "focal": "En kopia är en säkerhetskopia av dina uppgifter.",
+    "alt": "Kontrollera vad som godtas (Hotellincheckning, Flygbokning, Biluthyrning). Visa upp en godkänd originalhandling (Gränskontroll, Ombordstigning på utrikesflyg). En kopia är en säkerhetskopia av dina uppgifter.",
+    "placement": {
+      "h2": 2,
+      "para": 4
+    }
+  }
+}

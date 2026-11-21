@@ -1,0 +1,44 @@
+{
+  "de": {
+    "template": "cards",
+    "title": "Eine Passkopie verwenden",
+    "cards": [
+      {
+        "heading": "Vorher nachfragen, was akzeptiert wird",
+        "items": [
+          {
+            "text": "Hotel-Check-in",
+            "mark": "dot"
+          },
+          {
+            "text": "Flugbuchung",
+            "mark": "dot"
+          },
+          {
+            "text": "Mietwagen",
+            "mark": "dot"
+          }
+        ]
+      },
+      {
+        "heading": "Ein anerkanntes Original vorlegen",
+        "items": [
+          {
+            "text": "Grenzkontrolle",
+            "mark": "dot"
+          },
+          {
+            "text": "Boarding bei internationalen Flügen",
+            "mark": "dot"
+          }
+        ]
+      }
+    ],
+    "focal": "Eine Kopie dient als Sicherung deiner Angaben.",
+    "alt": "Vorher nachfragen, was akzeptiert wird (Hotel-Check-in, Flugbuchung, Mietwagen). Ein anerkanntes Original vorlegen (Grenzkontrolle, Boarding bei internationalen Flügen). Eine Kopie dient als Sicherung deiner Angaben.",
+    "placement": {
+      "h2": 2,
+      "para": 4
+    }
+  }
+}

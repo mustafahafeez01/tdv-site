@@ -46,7 +46,7 @@ Ask the car hire company whether it needs a passport copy for booking or deposit
 
 If your passport is lost or stolen while travelling, a copy of your photo page can help your embassy or consulate confirm your details when you apply for a replacement. You still need to apply for a new passport or [an emergency travel document](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport). This is one of the strongest reasons to always carry a digital backup.
 
-![Hand-drawn chart of where a digital passport copy works: usually fine for hotel check-in, flight booking and car rental; original required at border control and airline boarding - the copy supports, the passport travels](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-where.jpg) The short version - a copy opens doors, only the original crosses borders.
+![Check what they accept (Hotel check-in, Flight booking, Car rental). Use an accepted original (Border control, International boarding). A copy is a backup for your details.](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-travel-checks-en.jpg)
 
 ## Where Original Travel Documents Are Generally Required
 

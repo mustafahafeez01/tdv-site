@@ -46,7 +46,7 @@ Vraag het autoverhuurbedrijf of het een paspoortkopie nodig heeft voor de boekin
 
 Raakt je paspoort kwijt of wordt het gestolen tijdens je reis, dan kan een kopie van je fotopagina je ambassade of consulaat helpen je gegevens te bevestigen als je een vervangend document aanvraagt. Je moet nog steeds een nieuw paspoort of [noodreisdocument](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport) aanvragen. Dit is een van de sterkste redenen om altijd een digitale back-up bij je te hebben.
 
-![Diagram van waar een digitale paspoortkopie werkt: meestal geen probleem bij inchecken in het hotel, vluchtboeking en autoverhuur; origineel vereist bij grenscontrole en instappen bij de luchtvaartmaatschappij](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-where-nl.jpg) Kort gezegd: een kopie opent deuren, alleen het origineel steekt de grens over.
+![Controleer wat wordt geaccepteerd (Inchecken in het hotel, Vluchtboeking, Autoverhuur). Toon een geaccepteerd origineel (Grenscontrole, Instappen bij internationale vluchten). Een kopie is een reserve voor je gegevens.](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-travel-checks-nl.jpg)
 
 ## Waar originele reisdocumenten doorgaans vereist zijn
 

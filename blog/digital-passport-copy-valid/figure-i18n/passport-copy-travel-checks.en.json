@@ -1,0 +1,44 @@
+{
+  "en": {
+    "template": "cards",
+    "title": "Using a passport copy",
+    "cards": [
+      {
+        "heading": "Check what they accept",
+        "items": [
+          {
+            "text": "Hotel check-in",
+            "mark": "dot"
+          },
+          {
+            "text": "Flight booking",
+            "mark": "dot"
+          },
+          {
+            "text": "Car rental",
+            "mark": "dot"
+          }
+        ]
+      },
+      {
+        "heading": "Use an accepted original",
+        "items": [
+          {
+            "text": "Border control",
+            "mark": "dot"
+          },
+          {
+            "text": "International boarding",
+            "mark": "dot"
+          }
+        ]
+      }
+    ],
+    "focal": "A copy is a backup for your details.",
+    "alt": "Check what they accept (Hotel check-in, Flight booking, Car rental). Use an accepted original (Border control, International boarding). A copy is a backup for your details.",
+    "placement": {
+      "h2": 2,
+      "para": 4
+    }
+  }
+}

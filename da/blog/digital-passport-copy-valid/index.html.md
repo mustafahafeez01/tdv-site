@@ -46,7 +46,7 @@ Spørg biludlejningsselskabet, om det kræver en paskopi til booking eller verif
 
 Bliver dit pas væk eller stjålet under rejsen, kan en kopi af fotosiden hjælpe ambassaden eller konsulatet med at bekræfte dine oplysninger, når du søger om et nyt. Du skal stadig ansøge om et nyt pas eller [et nødrejsedokument](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport). Det er en af de stærkeste grunde til altid at have en digital backup med.
 
-![Diagram over, hvor en digital paskopi virker: normalt fint til indtjekning på hotel, flybooking og biludlejning, men original er påkrævet ved grænsekontrol og boarding hos flyselskabet](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-where-da.jpg) Kort fortalt – en kopi åbner døre, kun originalen passerer grænser.
+![Tjek, hvad de accepterer (Indtjekning på hotel, Flybooking, Biludlejning). Vis et godkendt originaldokument (Grænsekontrol, Ombordstigning på internationale fly). En kopi er en sikkerhedskopi af dine oplysninger.](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-travel-checks-da.jpg)
 
 ## Hvor originale rejsedokumenter som regel kræves
 

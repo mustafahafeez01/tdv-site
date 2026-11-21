@@ -1,0 +1,44 @@
+{
+  "fr": {
+    "template": "cards",
+    "title": "Utiliser une copie de passeport",
+    "cards": [
+      {
+        "heading": "Vérifiez ce qui est accepté",
+        "items": [
+          {
+            "text": "Enregistrement à l'hôtel",
+            "mark": "dot"
+          },
+          {
+            "text": "Réservation de vol",
+            "mark": "dot"
+          },
+          {
+            "text": "Location de voiture",
+            "mark": "dot"
+          }
+        ]
+      },
+      {
+        "heading": "Présentez un original accepté",
+        "items": [
+          {
+            "text": "Contrôle aux frontières",
+            "mark": "dot"
+          },
+          {
+            "text": "Embarquement sur un vol international",
+            "mark": "dot"
+          }
+        ]
+      }
+    ],
+    "focal": "Une copie permet de garder vos informations à portée de main.",
+    "alt": "Vérifiez ce qui est accepté (Enregistrement à l'hôtel, Réservation de vol, Location de voiture). Présentez un original accepté (Contrôle aux frontières, Embarquement sur un vol international). Une copie permet de garder vos informations à portée de main.",
+    "placement": {
+      "h2": 2,
+      "para": 4
+    }
+  }
+}

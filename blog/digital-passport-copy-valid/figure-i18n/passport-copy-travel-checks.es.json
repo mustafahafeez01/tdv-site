@@ -1,0 +1,44 @@
+{
+  "es": {
+    "template": "cards",
+    "title": "Usar una copia del pasaporte",
+    "cards": [
+      {
+        "heading": "Consulta qué documentos aceptan",
+        "items": [
+          {
+            "text": "Check-in de hotel",
+            "mark": "dot"
+          },
+          {
+            "text": "Reserva de vuelo",
+            "mark": "dot"
+          },
+          {
+            "text": "Alquiler de coches",
+            "mark": "dot"
+          }
+        ]
+      },
+      {
+        "heading": "Presenta un original admitido",
+        "items": [
+          {
+            "text": "Control de fronteras",
+            "mark": "dot"
+          },
+          {
+            "text": "Embarque en vuelos internacionales",
+            "mark": "dot"
+          }
+        ]
+      }
+    ],
+    "focal": "Una copia sirve como respaldo de tus datos.",
+    "alt": "Consulta qué documentos aceptan (Check-in de hotel, Reserva de vuelo, Alquiler de coches). Presenta un original admitido (Control de fronteras, Embarque en vuelos internacionales). Una copia sirve como respaldo de tus datos.",
+    "placement": {
+      "h2": 2,
+      "para": 4
+    }
+  }
+}

@@ -46,7 +46,7 @@ Source: https://traveldocumentvault.com/ko/blog/digital-passport-copy-valid/
 
 여행 중 여권을 분실하거나 도난당한 경우, 사진 페이지 사본은 재발급을 신청할 때 대사관이나 영사관이 본인 정보를 확인하는 데 도움이 될 수 있습니다. 새 여권이나 [긴급 여행 서류](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport)는 별도로 신청해야 합니다. 이것은 항상 디지털 백업을 유지해야 하는 가장 강력한 이유 중 하나입니다.
 
-![디지털 여권 사본이 통하는 곳을 보여주는 다이어그램: 호텔 체크인, 항공편 예약, 렌터카는 대체로 괜찮지만, 출입국 심사와 항공기 탑승에는 원본이 필요하다](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-where-ko.jpg) 요약하면, 사본은 문을 열어주고 국경은 원본만 통과시킵니다.
+![어떤 서류를 받는지 확인하세요 (호텔 체크인, 항공편 예약, 렌터카). 인정되는 원본 서류를 제시하세요 (출입국 심사, 국제선 탑승). 사본은 여권 정보를 보관하는 예비 자료입니다.](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-travel-checks-ko.jpg)
 
 ## 일반적으로 원본 여행 서류가 필요한 곳
 
