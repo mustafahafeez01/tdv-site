@@ -100,3 +100,5 @@ Source: https://traveldocumentvault.com/th/blog/us-child-passport-renewal-under-
 [เดินทางกับครอบครัวอ่าน 6 นาที · กันยายน 2026การขอพาสปอร์ตเล่มแรกให้ลูก](https://traveldocumentvault.com/th/blog/child-first-passport-application/)
 
 [การต่ออายุอ่าน 7 นาที · ตุลาคม 2026ต่ออายุพาสปอร์ตก่อนหมดอายุได้หรือไม่](https://traveldocumentvault.com/th/blog/renew-passport-before-expiry/)
+
+[บัตรหนังสือเดินทางสหรัฐฯ เทียบกับหนังสือเดินทางแบบเล่ม: ครอบครัวของคุณต้องใช้แบบไหน?](https://traveldocumentvault.com/th/blog/passport-card-vs-book/)

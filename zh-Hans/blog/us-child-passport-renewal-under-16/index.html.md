@@ -100,3 +100,5 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/us-child-passport-renewal-u
 [家庭旅行6 分钟阅读 · 2026年9月为孩子申请第一本护照](https://traveldocumentvault.com/zh-Hans/blog/child-first-passport-application/)
 
 [更新7 分钟阅读 · 2026年10月护照可以在到期前更新吗？](https://traveldocumentvault.com/zh-Hans/blog/renew-passport-before-expiry/)
+
+[美国护照卡与护照本对比：您的家庭需要哪一种？](https://traveldocumentvault.com/zh-Hans/blog/passport-card-vs-book/)

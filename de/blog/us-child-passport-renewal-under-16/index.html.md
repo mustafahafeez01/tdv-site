@@ -100,3 +100,5 @@ Hat ein Elternteil das alleinige rechtliche Sorgerecht oder die alleinige Befugn
 [Familienreisen6 Min. Lesezeit · September 2026Den ersten Reisepass für Ihr Kind beantragen](https://traveldocumentvault.com/de/blog/child-first-passport-application/)
 
 [Verlängerung7 Min. Lesezeit · Oktober 2026Kann man einen Reisepass vor Ablauf erneuern?](https://traveldocumentvault.com/de/blog/renew-passport-before-expiry/)
+
+[US-Reisepasskarte vs. Reisepassheft: Was braucht Ihre Familie?](https://traveldocumentvault.com/de/blog/passport-card-vs-book/)

@@ -100,3 +100,5 @@ Si un progenitor tiene la custodia legal exclusiva o la autoridad exclusiva, pue
 [Viajes en Familia6 min de lectura · septiembre de 2026Solicitar el primer pasaporte de tu hijo](https://traveldocumentvault.com/es/blog/child-first-passport-application/)
 
 [Renovación7 min de lectura · octubre de 2026¿Se puede renovar el pasaporte antes de que caduque?](https://traveldocumentvault.com/es/blog/renew-passport-before-expiry/)
+
+[Tarjeta de pasaporte frente a libreta de pasaporte de EE. UU.: ¿cuál necesita tu familia?](https://traveldocumentvault.com/es/blog/passport-card-vs-book/)

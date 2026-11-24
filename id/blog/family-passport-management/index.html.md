@@ -131,3 +131,5 @@ Anda perlu memperpanjang paspor orang tersebut sebelum berangkat. Jika masa berl
 [Organisasi8 menit baca · Juni 2026Cara Mengatur Dokumen Perjalanan Keluarga Sebelum Setiap Perjalanan](https://traveldocumentvault.com/id/blog/how-to-organise-family-travel-documents/)
 
 [Privasi & Keamanan7 menit baca · Mei 2026Cara Teraman Menyimpan Paspor Secara Digital: Terenkripsi vs Cloud Publik](https://traveldocumentvault.com/id/blog/safest-way-to-store-passport-digitally/)
+
+[Kartu paspor AS vs. buku paspor: Mana yang dibutuhkan keluarga Anda?](https://traveldocumentvault.com/id/blog/passport-card-vs-book/)

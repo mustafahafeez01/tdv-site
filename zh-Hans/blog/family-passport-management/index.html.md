@@ -131,3 +131,5 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/family-passport-management/
 [组织8 分钟阅读·2026年6月如何在每次旅行前组织家庭旅行文件](https://traveldocumentvault.com/zh-Hans/blog/how-to-organise-family-travel-documents/)
 
 [隐私与安全7 分钟阅读·2026年5月存储护照数字副本的最安全方式：加密与公共云](https://traveldocumentvault.com/zh-Hans/blog/safest-way-to-store-passport-digitally/)
+
+[美国护照卡与护照本对比：您的家庭需要哪一种？](https://traveldocumentvault.com/zh-Hans/blog/passport-card-vs-book/)

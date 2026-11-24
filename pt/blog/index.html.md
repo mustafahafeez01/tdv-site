@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/pt/blog/
 
 ##
 
+[Documentos de viagem em famíliaCartão de passaporte vs. caderneta de passaporte dos EUA: de qual precisa a sua família?Compare a caderneta e o cartão de passaporte dos EUA para voos, viagens de carro ao Canadá e cruzeiros, com uma lista de documentos para a família.24 de novembro de 20267 min de leitura](https://traveldocumentvault.com/pt/blog/passport-card-vs-book/)
+
+##
+
 [Documentos de viagem da famíliaViajar com dois passaportes: qual deve apresentar?Que passaporte apresentar em cada trajeto? Exemplos do Reino Unido, EUA e Canadá, com uma ficha para planear os documentos da família.16 de novembro de 20266 min de leitura](https://traveldocumentvault.com/pt/blog/travelling-with-two-passports/)
 
 ##

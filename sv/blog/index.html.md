@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/sv/blog/
 
 ##
 
+[Resehandlingar för familjerAmerikanskt passkort eller passbok: vad behöver din familj?Jämför amerikanska passböcker och passkort för flygresor, bilresor till Kanada och kryssningar, med en praktisk dokumentchecklista för familjen.24 november 20267 min läsning](https://traveldocumentvault.com/sv/blog/passport-card-vs-book/)
+
+##
+
 [Familjens resehandlingarResa med två pass: vilket ska du visa?Vilket pass ska du visa på varje etapp? Exempel från Storbritannien, USA och Kanada, med ett tomt planeringsblad för familjen.16 november 20266 min läsning](https://traveldocumentvault.com/sv/blog/travelling-with-two-passports/)
 
 ##

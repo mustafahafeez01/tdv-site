@@ -139,3 +139,5 @@ You'll need to renew that person's passport before travel. If you're within 12 m
 [Privacy & Security7 min read · May 2026Safest Way to Store Your Passport Digitally: Encrypted vs Public Cloud](https://traveldocumentvault.com/blog/safest-way-to-store-passport-digitally/)
 
 [Family Travel6 min read · November 2026Travelling with Two Passports: Which One Do You Show?](https://traveldocumentvault.com/blog/travelling-with-two-passports/)
+
+[U.S. Passport Card vs. Passport Book: Which Does Your Family Need?](https://traveldocumentvault.com/blog/passport-card-vs-book/)

@@ -100,3 +100,5 @@ Source: https://traveldocumentvault.com/ru/blog/us-child-passport-renewal-under-
 [Путешествия с семьёй6 мин чтения · сентябрь 2026Оформление первого паспорта ребёнка](https://traveldocumentvault.com/ru/blog/child-first-passport-application/)
 
 [Продление7 мин чтения · октябрь 2026Можно ли продлить паспорт досрочно?](https://traveldocumentvault.com/ru/blog/renew-passport-before-expiry/)
+
+[Паспортная карта или паспортная книжка США: что нужно вашей семье?](https://traveldocumentvault.com/ru/blog/passport-card-vs-book/)

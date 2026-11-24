@@ -100,3 +100,5 @@ Hvis en forælder har eneforældremyndighed eller eksklusiv myndighed, kan de s�
 [Familierejser6 min læsning · september 2026Ansøgning om barnets første pas](https://traveldocumentvault.com/da/blog/child-first-passport-application/)
 
 [Fornyelse7 min læsning · oktober 2026Kan du forny dit pas, før det udløber?](https://traveldocumentvault.com/da/blog/renew-passport-before-expiry/)
+
+[Paskort eller pasbog fra USA: hvad har din familie brug for?](https://traveldocumentvault.com/da/blog/passport-card-vs-book/)

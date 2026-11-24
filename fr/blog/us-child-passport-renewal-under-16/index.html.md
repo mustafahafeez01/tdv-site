@@ -100,3 +100,5 @@ Si un parent a la garde légale exclusive ou l'autorité exclusive, il peut fair
 [Voyage en famille6 min de lecture · septembre 2026Demander le premier passeport de son enfant](https://traveldocumentvault.com/fr/blog/child-first-passport-application/)
 
 [Renouvellement7 min de lecture · octobre 2026Peut-on renouveler un passeport avant son expiration ?](https://traveldocumentvault.com/fr/blog/renew-passport-before-expiry/)
+
+[Carte de passeport ou livret de passeport américain : lequel faut-il à votre famille ?](https://traveldocumentvault.com/fr/blog/passport-card-vs-book/)

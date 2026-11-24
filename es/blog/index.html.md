@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/es/blog/
 
 ##
 
+[Documentos de viaje en familiaTarjeta de pasaporte frente a libreta de pasaporte de EE. UU.: ¿cuál necesita tu familia?Compara la libreta y la tarjeta de pasaporte de EE. UU. para vuelos, viajes en coche a Canadá y cruceros, con una lista familiar de documentos.24 de noviembre de 20267 min de lectura](https://traveldocumentvault.com/es/blog/passport-card-vs-book/)
+
+##
+
 [Documentos para viajar en familiaViajar con dos pasaportes: ¿cuál debes presentar?Prepara qué pasaporte presentar en cada trayecto si tienes doble nacionalidad, con orientación británica, estadounidense y canadiense y una lista familiar.16 de noviembre de 20266 min de lectura](https://traveldocumentvault.com/es/blog/travelling-with-two-passports/)
 
 ##

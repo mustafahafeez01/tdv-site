@@ -100,3 +100,5 @@ Heeft één ouder exclusief wettelijk gezag of exclusieve bevoegdheid, dan kan d
 [Gezinsreizen6 min leestijd · september 2026Het eerste paspoort van je kind aanvragen](https://traveldocumentvault.com/nl/blog/child-first-passport-application/)
 
 [Verlenging7 min leestijd · oktober 2026Kun je een paspoort verlengen voordat het verloopt?](https://traveldocumentvault.com/nl/blog/renew-passport-before-expiry/)
+
+[Amerikaanse paspoortkaart vs. paspoortboekje: wat heeft uw gezin nodig?](https://traveldocumentvault.com/nl/blog/passport-card-vs-book/)

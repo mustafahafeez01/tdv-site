@@ -131,3 +131,5 @@ Vous devrez renouveler le passeport de cette personne avant le voyage. Si vous �
 [Organisation8 min de lecture - juin 2026Comment organiser les documents de voyage familiaux avant chaque voyage](https://traveldocumentvault.com/fr/blog/how-to-organise-family-travel-documents/)
 
 [Confidentialité et sécurité7 min de lecture - mai 2026Façon la plus sûre de stocker votre passeport numériquement : chiffré vs cloud public](https://traveldocumentvault.com/fr/blog/safest-way-to-store-passport-digitally/)
+
+[Carte de passeport ou livret de passeport américain : lequel faut-il à votre famille ?](https://traveldocumentvault.com/fr/blog/passport-card-vs-book/)

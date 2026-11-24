@@ -106,3 +106,5 @@ If one parent has sole legal custody or exclusive authority, they can apply alon
 [Family Travel6 min read · September 2026Applying for a Child's First Passport](https://traveldocumentvault.com/blog/child-first-passport-application/)
 
 [Renewal7 min read · October 2026Can You Renew a Passport Before It Expires?](https://traveldocumentvault.com/blog/renew-passport-before-expiry/)
+
+[U.S. Passport Card vs. Passport Book: Which Does Your Family Need?](https://traveldocumentvault.com/blog/passport-card-vs-book/)

@@ -131,3 +131,5 @@ Du måste förnya den personens pass före resor. Om du är inom 12 månader fr�
 [Organisation8 min läsning - juni 2026Hur du organiserar familjereshandlingar före varje resa](https://traveldocumentvault.com/sv/blog/how-to-organise-family-travel-documents/)
 
 [Integritet och säkerhet7 min läsning - maj 2026Säkraste sättet att förvara ditt pass digitalt: Krypterad kontra offentlig moln](https://traveldocumentvault.com/sv/blog/safest-way-to-store-passport-digitally/)
+
+[Amerikanskt passkort eller passbok: vad behöver din familj?](https://traveldocumentvault.com/sv/blog/passport-card-vs-book/)

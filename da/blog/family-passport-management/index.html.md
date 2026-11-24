@@ -131,3 +131,5 @@ Du skal fornye det familiemedlems pas før rejsen. Hvis du er inden for 12 måne
 [Organisering8 min læsning · juni 2026Sådan organiserer du familierejsedokumenter før hver rejse](https://traveldocumentvault.com/da/blog/how-to-organise-family-travel-documents/)
 
 [Privatliv og sikkerhed7 min læsning · maj 2026Sikreste måde at opbevare dit pas digitalt: Krypteret vs offentlig cloud](https://traveldocumentvault.com/da/blog/safest-way-to-store-passport-digitally/)
+
+[Paskort eller pasbog fra USA: hvad har din familie brug for?](https://traveldocumentvault.com/da/blog/passport-card-vs-book/)

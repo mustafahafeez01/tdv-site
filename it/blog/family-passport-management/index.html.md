@@ -131,3 +131,5 @@ Dovrai rinnovare il passaporto di quella persona prima di partire. Se scade entr
 [Organizzazione8 min di lettura · giugno 2026Come Organizzare i Documenti di Viaggio Familiari Prima di Ogni Viaggio](https://traveldocumentvault.com/it/blog/how-to-organise-family-travel-documents/)
 
 [Privacy e Sicurezza7 min di lettura · maggio 2026Il Modo Più Sicuro per Conservare Il Tuo Passaporto Digitalmente: Cloud Crittografato vs Cloud Pubblico](https://traveldocumentvault.com/it/blog/safest-way-to-store-passport-digitally/)
+
+[Carta passaporto o libretto di passaporto statunitense: quale serve alla tua famiglia?](https://traveldocumentvault.com/it/blog/passport-card-vs-book/)

@@ -131,3 +131,5 @@ Sie müssen den Pass dieser Person vor der Reise erneuern. Wenn Sie innerhalb vo
 [Organisation8 Min. Lesedauer · Juni 2026Wie Sie Familien-Reisedokumente vor jeder Reise organisieren](https://traveldocumentvault.com/de/blog/how-to-organise-family-travel-documents/)
 
 [Datenschutz & Sicherheit7 Min. Lesedauer · Mai 2026Sicherster Weg, Ihren Pass digital zu speichern: Verschlüsselt vs. öffentliche Cloud](https://traveldocumentvault.com/de/blog/safest-way-to-store-passport-digitally/)
+
+[US-Reisepasskarte vs. Reisepassheft: Was braucht Ihre Familie?](https://traveldocumentvault.com/de/blog/passport-card-vs-book/)

@@ -131,3 +131,5 @@ Source: https://traveldocumentvault.com/ja/blog/family-passport-management/
 [整理読了時間 8分・2026年6月毎回の旅行の前にファミリー旅行書類を整理する方法](https://traveldocumentvault.com/ja/blog/how-to-organise-family-travel-documents/)
 
 [プライバシーとセキュリティ読了時間 7分・2026年5月パスポートをデジタルに安全に保管する最良の方法：暗号化対公開クラウド](https://traveldocumentvault.com/ja/blog/safest-way-to-store-passport-digitally/)
+
+[米国パスポートカードと冊子型パスポートの比較：ご家族に必要なのはどちら？](https://traveldocumentvault.com/ja/blog/passport-card-vs-book/)

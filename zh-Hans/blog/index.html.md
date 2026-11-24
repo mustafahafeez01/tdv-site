@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/
 
 ##
 
+[家庭旅行证件美国护照卡与护照本对比：您的家庭需要哪一种？对比美国护照本与护照卡在航班、加拿大自驾游和邮轮出行中的适用规则，并附实用家庭证件核对清单。2026年11月24日阅读约 7 分钟](https://traveldocumentvault.com/zh-Hans/blog/passport-card-vs-book/)
+
+##
+
 [家庭旅行证件持两本护照旅行：该出示哪一本？规划双重国籍旅途中每段行程该出示哪本护照，参考英国、美国和加拿大的指引，并使用家庭证件核查表。2026年11月16日阅读约需6分钟](https://traveldocumentvault.com/zh-Hans/blog/travelling-with-two-passports/)
 
 ##

@@ -100,3 +100,5 @@ Source: https://traveldocumentvault.com/ja/blog/us-child-passport-renewal-under-
 [家族旅行読了時間 6分 · 2026年9月子どもの最初のパスポート申請](https://traveldocumentvault.com/ja/blog/child-first-passport-application/)
 
 [更新読了時間 7分 · 2026年10月パスポートは期限切れ前に更新できますか？](https://traveldocumentvault.com/ja/blog/renew-passport-before-expiry/)
+
+[米国パスポートカードと冊子型パスポートの比較：ご家族に必要なのはどちら？](https://traveldocumentvault.com/ja/blog/passport-card-vs-book/)

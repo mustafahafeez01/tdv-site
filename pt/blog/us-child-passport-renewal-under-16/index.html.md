@@ -100,3 +100,5 @@ Se um dos pais tiver custódia legal exclusiva ou autoridade exclusiva, pode ped
 [Viagem em Família6 min de leitura · setembro de 2026Como pedir o primeiro passaporte do seu filho](https://traveldocumentvault.com/pt/blog/child-first-passport-application/)
 
 [Renovação7 min de leitura · outubro de 2026Pode renovar o passaporte antes de expirar?](https://traveldocumentvault.com/pt/blog/renew-passport-before-expiry/)
+
+[Cartão de passaporte vs. caderneta de passaporte dos EUA: de qual precisa a sua família?](https://traveldocumentvault.com/pt/blog/passport-card-vs-book/)

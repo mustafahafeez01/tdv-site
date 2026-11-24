@@ -100,3 +100,5 @@ Source: https://traveldocumentvault.com/ar/blog/us-child-passport-renewal-under-
 [السفر العائلي6 دقائق للقراءة · سبتمبر 2026التقدم بطلب أول جواز سفر لطفلك](https://traveldocumentvault.com/ar/blog/child-first-passport-application/)
 
 [التجديد7 دقائق للقراءة · أكتوبر 2026هل يمكن تجديد جواز السفر قبل انتهاء صلاحيته؟](https://traveldocumentvault.com/ar/blog/renew-passport-before-expiry/)
+
+[بطاقة جواز السفر الأمريكي مقابل دفتر جواز السفر: أيهما تحتاج عائلتك؟](https://traveldocumentvault.com/ar/blog/passport-card-vs-book/)

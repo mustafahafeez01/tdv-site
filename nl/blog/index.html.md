@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/nl/blog/
 
 ##
 
+[Reisdocumenten voor gezinnenAmerikaanse paspoortkaart vs. paspoortboekje: wat heeft uw gezin nodig?Vergelijk Amerikaanse paspoortboekjes en -kaarten voor vluchten, autoreizen naar Canada en cruises, met een documentenlijst voor uw gezin.24 november 20267 min leestijd](https://traveldocumentvault.com/nl/blog/passport-card-vs-book/)
+
+##
+
 [Reisdocumenten voor het gezinReizen met twee paspoorten: welk paspoort laat je zien?Welk paspoort toon je per reisetappe? Met voorbeelden uit het VK, de VS en Canada en een invulbaar paspoortplan voor je gezin.16 november 20266 min leestijd](https://traveldocumentvault.com/nl/blog/travelling-with-two-passports/)
 
 ##

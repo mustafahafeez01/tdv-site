@@ -131,3 +131,5 @@ Precisará renovar o passaporte dessa pessoa antes de viajar. Se estiver dentro 
 [Organização8 min de leitura · junho de 2026Como Organizar Documentos De Viagem Familiar Antes De Cada Viagem](https://traveldocumentvault.com/pt/blog/how-to-organise-family-travel-documents/)
 
 [Privacidade e Segurança7 min de leitura · maio de 2026Forma Mais Segura De Guardar O Seu Passaporte Digitalmente: Encriptado vs Nuvem Pública](https://traveldocumentvault.com/pt/blog/safest-way-to-store-passport-digitally/)
+
+[Cartão de passaporte vs. caderneta de passaporte dos EUA: de qual precisa a sua família?](https://traveldocumentvault.com/pt/blog/passport-card-vs-book/)

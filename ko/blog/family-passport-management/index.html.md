@@ -131,3 +131,5 @@ Source: https://traveldocumentvault.com/ko/blog/family-passport-management/
 [정리8분 읽기 · 2026년 6월모든 여행 전에 가족 여행 서류를 정리하는 방법](https://traveldocumentvault.com/ko/blog/how-to-organise-family-travel-documents/)
 
 [개인정보 보호 및 보안7분 읽기 · 2026년 5월여권을 디지털로 안전하게 저장하는 방법: 암호화 대 공용 클라우드](https://traveldocumentvault.com/ko/blog/safest-way-to-store-passport-digitally/)
+
+[미국 여권 카드와 여권 책자 비교: 가족에게 어떤 서류가 필요합니까?](https://traveldocumentvault.com/ko/blog/passport-card-vs-book/)

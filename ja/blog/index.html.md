@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/ja/blog/
 
 ##
 
+[家族の渡航書類米国パスポートカードと冊子型パスポートの比較：ご家族に必要なのはどちら？空路での渡航、カナダへのドライブ旅行、クルーズごとに米国の冊子型パスポートとパスポートカードを比較し、ご家族で使える実用的な書類チェックリストをご紹介します。2026年11月24日読了目安7分](https://traveldocumentvault.com/ja/blog/passport-card-vs-book/)
+
+##
+
 [家族の渡航書類2冊のパスポートで旅行するとき、どちらを提示する？二重国籍での旅行に向け、往路と復路で提示するパスポートを計画しましょう。英国・米国・カナダの案内と家族用の書類チェック表を紹介します。2026年11月16日6分で読める](https://traveldocumentvault.com/ja/blog/travelling-with-two-passports/)
 
 ##

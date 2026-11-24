@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/blog/
 
 ##
 
+[Family Travel DocumentsU.S. Passport Card vs. Passport Book: Which Does Your Family Need?Compare US passport books and cards for flights, Canada road trips and cruises, with a practical document checklist for your family.November 24, 20267 min read](https://traveldocumentvault.com/blog/passport-card-vs-book/)
+
+##
+
 [Family Travel DocumentsTravelling with Two Passports: Which One Do You Show?Plan which passport to show on each leg of a dual-national trip, with UK, US and Canadian guidance and a family document checklist.November 16, 20266 min read](https://traveldocumentvault.com/blog/travelling-with-two-passports/)
 
 ##

@@ -100,3 +100,5 @@ Jika salah satu orang tua memiliki hak asuh tunggal atau otoritas eksklusif, mer
 [Perjalanan Keluarga6 menit baca · September 2026Mengurus Paspor Pertama Anak Anda](https://traveldocumentvault.com/id/blog/child-first-passport-application/)
 
 [Perpanjangan7 menit baca · Oktober 2026Bisakah Anda Memperpanjang Paspor Sebelum Kedaluwarsa?](https://traveldocumentvault.com/id/blog/renew-passport-before-expiry/)
+
+[Kartu paspor AS vs. buku paspor: Mana yang dibutuhkan keluarga Anda?](https://traveldocumentvault.com/id/blog/passport-card-vs-book/)

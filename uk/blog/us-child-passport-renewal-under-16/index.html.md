@@ -100,3 +100,5 @@ Source: https://traveldocumentvault.com/uk/blog/us-child-passport-renewal-under-
 [Сімейні подорожі6 хв читання · вересень 2026Оформлення першого паспорта дитини](https://traveldocumentvault.com/uk/blog/child-first-passport-application/)
 
 [Поновлення7 хв читання · жовтень 2026Чи можна поновити паспорт до закінчення строку дії?](https://traveldocumentvault.com/uk/blog/renew-passport-before-expiry/)
+
+[Паспортна картка чи паспортна книжка США: що потрібно Вашій родині?](https://traveldocumentvault.com/uk/blog/passport-card-vs-book/)

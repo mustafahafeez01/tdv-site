@@ -131,3 +131,5 @@ Je moet dat paspoort van die persoon voor de reis vernieuwen. Als je binnen 12 m
 [Organisatie8 min leestijd · juni 2026Hoe je familiereisgidsen vooraf organiseert](https://traveldocumentvault.com/nl/blog/how-to-organise-family-travel-documents/)
 
 [Privacy en beveiliging7 min leestijd · mei 2026Veiligste manier om je paspoort digitaal op te slaan: versleuteld vs openbare cloud](https://traveldocumentvault.com/nl/blog/safest-way-to-store-passport-digitally/)
+
+[Amerikaanse paspoortkaart vs. paspoortboekje: wat heeft uw gezin nodig?](https://traveldocumentvault.com/nl/blog/passport-card-vs-book/)

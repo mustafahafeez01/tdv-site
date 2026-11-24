@@ -100,3 +100,5 @@ Source: https://traveldocumentvault.com/ko/blog/us-child-passport-renewal-under-
 [가족 여행6분 읽기 · 2026년 9월아이의 첫 여권 신청하기](https://traveldocumentvault.com/ko/blog/child-first-passport-application/)
 
 [갱신7분 읽기 · 2026년 10월여권, 만료 전에 갱신해도 될까요?](https://traveldocumentvault.com/ko/blog/renew-passport-before-expiry/)
+
+[미국 여권 카드와 여권 책자 비교: 가족에게 어떤 서류가 필요합니까?](https://traveldocumentvault.com/ko/blog/passport-card-vs-book/)

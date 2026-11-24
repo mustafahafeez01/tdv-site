@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/it/blog/
 
 ##
 
+[Documenti di viaggio per famiglieCarta passaporto o libretto di passaporto statunitense: quale serve alla tua famiglia?Confronta libretto e carta passaporto statunitensi per voli, viaggi in auto in Canada e crociere, con una lista pratica dei documenti per la tua famiglia.24 novembre 20267 min di lettura](https://traveldocumentvault.com/it/blog/passport-card-vs-book/)
+
+##
+
 [Documenti per viaggiare in famigliaViaggiare con due passaporti: quale presentare?Quale passaporto mostrare per ogni tratta? Esempi da Regno Unito, Stati Uniti e Canada, con una scheda da compilare per la famiglia.16 novembre 20266 min di lettura](https://traveldocumentvault.com/it/blog/travelling-with-two-passports/)
 
 ##

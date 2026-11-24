@@ -131,3 +131,5 @@ Source: https://traveldocumentvault.com/uk/blog/family-passport-management/
 [Організація8 хв читання · червень 2026Як організувати документи для сімейної подорожі перед кожною поїздкою](https://traveldocumentvault.com/uk/blog/how-to-organise-family-travel-documents/)
 
 [Конфіденційність та безпека7 хв читання · травень 2026Найбезпечніший спосіб зберігання паспорта у цифровому форматі: зашифровано проти громадської хмари](https://traveldocumentvault.com/uk/blog/safest-way-to-store-passport-digitally/)
+
+[Паспортна картка чи паспортна книжка США: що потрібно Вашій родині?](https://traveldocumentvault.com/uk/blog/passport-card-vs-book/)

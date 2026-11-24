@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/ko/blog/
 
 ##
 
+[가족 여행 문서미국 여권 카드와 여권 책자 비교: 가족에게 어떤 서류가 필요합니까?항공편, 캐나다 자동차 여행 및 크루즈 일정별로 미국 여권 책자와 여권 카드를 비교하고, 실용적인 가족 문서 체크리스트를 확인하십시오.2026년 11월 24일읽는 시간 7분](https://traveldocumentvault.com/ko/blog/passport-card-vs-book/)
+
+##
+
 [가족 여행 서류여권 두 개로 여행할 때 어떤 여권을 제시해야 할까요?이중국적 여행의 각 구간에서 어떤 여권을 제시할지 계획하십시오. 영국·미국·캐나다의 안내와 가족 서류 체크리스트를 확인할 수 있습니다.2026년 11월 16일읽는 데 6분](https://traveldocumentvault.com/ko/blog/travelling-with-two-passports/)
 
 ##

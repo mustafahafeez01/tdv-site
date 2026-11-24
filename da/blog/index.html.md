@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/da/blog/
 
 ##
 
+[Familiens rejsedokumenterPaskort eller pasbog fra USA: hvad har din familie brug for?Sammenlign amerikanske pasbøger og paskort til flyrejser, bilture til Canada og krydstogter, med en praktisk dokumenttjekliste til familien.24. november 20267 min. læsetid](https://traveldocumentvault.com/da/blog/passport-card-vs-book/)
+
+##
+
 [Familiens rejsedokumenterRejse med to pas: hvilket skal du vise?Hvilket pas skal du vise på hver etape? Se eksempler fra Storbritannien, USA og Canada, og lav familiens egen dokumentplan.16. november 20266 min. læsetid](https://traveldocumentvault.com/da/blog/travelling-with-two-passports/)
 
 ##

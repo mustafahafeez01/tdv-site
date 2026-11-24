@@ -100,3 +100,5 @@ Se un genitore ha l'affidamento legale esclusivo o l'autorità esclusiva, può f
 [Viaggio in Famiglia6 min di lettura · settembre 2026Come richiedere il primo passaporto per tuo figlio](https://traveldocumentvault.com/it/blog/child-first-passport-application/)
 
 [Rinnovo7 min di lettura · ottobre 2026Puoi rinnovare il passaporto prima che scada?](https://traveldocumentvault.com/it/blog/renew-passport-before-expiry/)
+
+[Carta passaporto o libretto di passaporto statunitense: quale serve alla tua famiglia?](https://traveldocumentvault.com/it/blog/passport-card-vs-book/)

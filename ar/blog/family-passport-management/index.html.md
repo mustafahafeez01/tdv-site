@@ -121,3 +121,5 @@ Source: https://traveldocumentvault.com/ar/blog/family-passport-management/
 [التنظيم8 دقائق للقراءة · يونيو 2026كيف تنظّم وثائق السفر لعائلتك (قبل رحلتك القادمة)](https://traveldocumentvault.com/ar/blog/how-to-organise-family-travel-documents/)
 
 [الخصوصية والأمان7 دقائق للقراءة · مايو 2026iCloud أم Google Photos أم خزنة مشفّرة: أكثر الطرق أمانًا لتخزين جواز سفرك](https://traveldocumentvault.com/ar/blog/safest-way-to-store-passport-digitally/)
+
+[بطاقة جواز السفر الأمريكي مقابل دفتر جواز السفر: أيهما تحتاج عائلتك؟](https://traveldocumentvault.com/ar/blog/passport-card-vs-book/)

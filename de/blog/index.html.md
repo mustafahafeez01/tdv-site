@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/de/blog/
 
 ##
 
+[Reisedokumente für FamilienUS-Reisepasskarte vs. Reisepassheft: Was braucht Ihre Familie?Vergleichen Sie US-Passhefte und US-Passkarten für Flüge, Autoreisen nach Kanada und Kreuzfahrten – mit einer praktischen Dokumentenliste für Ihre Familie.24. November 20267 Min. Lesezeit](https://traveldocumentvault.com/de/blog/passport-card-vs-book/)
+
+##
+
 [Reisedokumente für FamilienMit zwei Reisepässen reisen: Welchen zeigen Sie vor?Planen Sie bei doppelter Staatsangehörigkeit den Pass für jede Reiseetappe: Hinweise für Großbritannien, die USA und Kanada sowie eine Familiencheckliste.16. November 20266 Min. Lesezeit](https://traveldocumentvault.com/de/blog/travelling-with-two-passports/)
 
 ##

@@ -100,3 +100,5 @@ Om en förälder har ensam juridisk vårdnad eller ensam beslutanderätt kan de 
 [Familjeresor6 min läsning · september 2026Ansöka om barnets första pass](https://traveldocumentvault.com/sv/blog/child-first-passport-application/)
 
 [Förnyelse7 min läsning · oktober 2026Kan du förnya ett pass innan det går ut?](https://traveldocumentvault.com/sv/blog/renew-passport-before-expiry/)
+
+[Amerikanskt passkort eller passbok: vad behöver din familj?](https://traveldocumentvault.com/sv/blog/passport-card-vs-book/)

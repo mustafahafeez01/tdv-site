@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/id/blog/
 
 ##
 
+[Dokumen perjalanan keluargaKartu paspor AS vs. buku paspor: Mana yang dibutuhkan keluarga Anda?Bandingkan buku dan kartu paspor AS untuk penerbangan, perjalanan darat ke Kanada, dan wisata kapal pesiar, beserta daftar dokumen keluarga.24 November 20267 menit baca](https://traveldocumentvault.com/id/blog/passport-card-vs-book/)
+
+##
+
 [Dokumen perjalanan keluargaBepergian dengan Dua Paspor: Mana yang Harus Ditunjukkan?Paspor mana untuk tiap tahap perjalanan? Panduan dengan contoh Britania Raya, AS, dan Kanada serta lembar rencana paspor keluarga.16 November 20266 menit baca](https://traveldocumentvault.com/id/blog/travelling-with-two-passports/)
 
 ##

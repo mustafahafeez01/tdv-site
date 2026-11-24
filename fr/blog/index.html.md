@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/fr/blog/
 
 ##
 
+[Documents de voyage en familleCarte de passeport ou livret de passeport américain : lequel faut-il à votre famille ?Comparez livret et carte de passeport américains pour les vols, les trajets routiers au Canada et les croisières, avec une liste de documents par voyageur.24 novembre 20267 min de lecture](https://traveldocumentvault.com/fr/blog/passport-card-vs-book/)
+
+##
+
 [Documents de voyage en familleVoyager avec deux passeports : lequel présenter ?Quel passeport présenter à chaque étape ? Des exemples britanniques, américains et canadiens et une fiche à remplir pour la famille.16 novembre 20266 min de lecture](https://traveldocumentvault.com/fr/blog/travelling-with-two-passports/)
 
 ##

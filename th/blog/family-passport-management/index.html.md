@@ -131,3 +131,5 @@ Source: https://traveldocumentvault.com/th/blog/family-passport-management/
 [จัดระเบียบอ่าน 8 นาที · มิถุนายน 2026วิธีจัดระเบียบเอกสารการเดินทางของครอบครัวก่อนทุกทริป](https://traveldocumentvault.com/th/blog/how-to-organise-family-travel-documents/)
 
 [ความเป็นส่วนตัวและความปลอดภัยอ่าน 7 นาที · 15 เม.ย. 2026วิธีเก็บพาสปอร์ตดิจิทัลที่ปลอดภัยที่สุด: ออฟไลน์ชนะ](https://traveldocumentvault.com/th/blog/safest-way-to-store-passport-digitally/)
+
+[บัตรหนังสือเดินทางสหรัฐฯ เทียบกับหนังสือเดินทางแบบเล่ม: ครอบครัวของคุณต้องใช้แบบไหน?](https://traveldocumentvault.com/th/blog/passport-card-vs-book/)
