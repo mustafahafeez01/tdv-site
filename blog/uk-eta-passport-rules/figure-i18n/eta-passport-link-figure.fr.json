@@ -31,9 +31,9 @@
   ],
   "link": "arrow",
   "note": "Renouveler rompt le lien",
-  "focal": "Chaque voyageur a besoin de sa propre ETA, enfants compris",
-  "alt": "Diagramme comparatif : le passeport utilisé pour la demande garde l'ETA liée à ce carnet, donc vous voyagez normalement, tandis qu'un passeport nouveau ou renouvelé ne conserve pas ce lien et nécessite une nouvelle ETA avant le départ, chaque voyageur ayant besoin de sa propre ETA, enfants compris",
-  "caption": "L'autorisation est liée au carnet, pas à vous — et chaque voyageur porte la sienne.",
+  "focal": "Toute personne qui a besoin d’une ETA doit avoir la sienne.",
+  "alt": "L’ETA britannique est liée au passeport utilisé pour la demande. Un passeport nouveau ou renouvelé. Le lien ne se transfère pas. Toute personne qui a besoin d’une ETA doit avoir la sienne.",
+  "caption": "L’ETA britannique est liée au passeport utilisé pour la demande.",
   "placement": {
    "h2": 4,
    "para": 3

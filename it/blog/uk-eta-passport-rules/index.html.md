@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/it/blog/uk-eta-passport-rules/
 
 - **L'ETA del Regno Unito è legata al numero del tuo passaporto.** Quando rinnovi il passaporto e ricevi un nuovo numero, la vecchia ETA non è più valida.
 - Devi viaggiare con **lo stesso identico passaporto con cui hai fatto domanda.** Un nuovo passaporto significa che serve una nuova ETA prima di partire.
-- **Ogni persona ha bisogno della propria ETA** — inclusi bambini e neonati. Non esiste un'ETA familiare. Ogni persona ha bisogno della propria, anche se puoi fare domanda per conto dei familiari.
+- **Ogni viaggiatore che ha bisogno di un’ETA deve avere la propria, compresi i bambini e i neonati.**
 - L'Home Office consiglia di fare domanda **con almeno 3 giorni lavorativi di anticipo.** È un consiglio, non una garanzia sui tempi di elaborazione.
 - Un'ETA è **un permesso per viaggiare, non per entrare.** Gli agenti di frontiera possono rifiutare l'ingresso anche con un'ETA valida.
 
@@ -44,7 +44,7 @@ Quando rinnovi il passaporto, l'autorità che lo rilascia ti dà un nuovo docume
 
 Ecco la sequenza da pianificare:
 
-![Diagramma di confronto: il passaporto con cui hai fatto domanda mantiene l'ETA collegata a quel libretto, così viaggi normalmente, mentre un passaporto nuovo o rinnovato non trasferisce il collegamento e serve una nuova ETA prima di volare, e ogni persona in viaggio ne ha bisogno di una propria, bambini compresi](https://traveldocumentvault.com/blog/uk-eta-passport-rules/eta-passport-link-figure-it.jpg) L'autorizzazione è legata al libretto, non a te - e ogni viaggiatore porta la propria.
+![L’ETA per il Regno Unito è legata al passaporto usato per la domanda. Un passaporto nuovo o rinnovato. Il collegamento non si trasferisce. Chi ha bisogno di un’ETA deve avere la propria.](https://traveldocumentvault.com/blog/uk-eta-passport-rules/eta-passport-link-figure-it.jpg) L’ETA per il Regno Unito è legata al passaporto usato per la domanda.
 
 1. La data di scadenza del tuo passaporto si avvicina.
 2. Fai domanda per rinnovare il passaporto nel tuo paese di origine.
@@ -55,15 +55,15 @@ Ecco la sequenza da pianificare:
 
 Il rischio sta nel passaggio 5. Se il tuo viaggio è tra 10 giorni e il nuovo passaporto arriva oggi, hai una finestra molto stretta per rinnovare e ottenere l'approvazione dell'ETA. Se inizi il rinnovo meno di 2-3 settimane prima del viaggio, i tempi diventano davvero stretti.
 
-## Ogni bambino ha bisogno della propria ETA, neonati compresi
+## Ai bambini e ai neonati serve un’ETA per il Regno Unito?
 
-Ogni persona, compresi i neonati, ha bisogno della propria ETA del Regno Unito. Non esiste un'ETA familiare. Ogni persona ha bisogno della propria, anche se puoi fare domanda per conto dei familiari.
+[Ogni viaggiatore che ha bisogno di un’ETA deve avere la propria, compresi i bambini e i neonati.](https://www.gov.uk/eta/when-not-need-eta)
 
-Questo significa che per una famiglia di quattro persone si presentano quattro domande separate e si pagano quattro tariffe separate. Ancora più importante, si devono tenere sotto controllo quattro stati di approvazione, quattro scadenze e quattro numeri di passaporto, tutti separatamente.
+Se tutti e quattro i membri della tua famiglia hanno bisogno di un’ETA, dovrai presentare quattro domande separate e pagare quattro tariffe. Puoi fare domanda per conto dei tuoi familiari.
 
-In molti paesi il passaporto di un bambino ha una validità più breve di quello di un adulto, spesso 5 anni, quindi controlla il tuo. Il passaporto di un bambino rilasciato nel 2023 per 5 anni andrebbe sostituito entro il 2028, il che significa una nuova domanda di ETA prima di allora. Se un viaggio in famiglia è previsto quando quel bambino ha 5 anni, sia il passaporto sia l'ETA potrebbero essere a uno o due anni dalla scadenza.
+In molti paesi il passaporto di un bambino ha una validità più breve di quello di un adulto, spesso 5 anni, quindi controlla il tuo.
 
-**Prima di prenotare un viaggio in famiglia nel Regno Unito, controlla la data di scadenza del passaporto e lo stato dell'ETA di ogni membro della famiglia.** Una sola persona con validità insufficiente o senza ETA potrebbe non essere ammessa all'imbarco, e questo può compromettere il viaggio di tutta la famiglia.
+**Prima di prenotare, controlla quando scade il passaporto di ciascun familiare e se quella persona ha bisogno di un’ETA.**
 
 ## Fai domanda da due a tre settimane prima del viaggio
 
@@ -73,7 +73,7 @@ Pianifica come se 3 giorni lavorativi fossero il minimo, non l'obiettivo.
 
 Fare domanda una settimana prima, trovandoti fuori dal Regno Unito, ti dà un margine ragionevole, mentre farla 48 ore prima del volo significa contare sul miglior scenario possibile di elaborazione, senza alcun margine se qualcosa va storto.
 
-Se la tua domanda di ETA viene rifiutata, l'Home Office dice che puoi fare di nuovo domanda — ma farlo nei giorni prima del volo non è un'alternativa pratica. Fai domanda con largo anticipo e considera i 3 giorni lavorativi come il margine minimo, non come l'obiettivo.
+[Se l’Home Office ti nega l’ETA e vuoi comunque andare nel Regno Unito, devi richiedere un visto.](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-electronic-travel-authorisation) [Se l’Home Office respinge la tua domanda durante la verifica dell’identità, puoi presentare una nuova domanda di ETA.](https://www.gov.uk/government/publications/electronic-travel-authorisation-caseworker-guidance/electronic-travel-authorisation-caseworker-guidance-accessible)
 
 L'approccio più sicuro: fai domanda non appena hai il passaporto definitivo — idealmente 2-3 settimane prima di partire. Così hai tutto il margine che serve e il tempo di risolvere eventuali problemi se l'Home Office chiede chiarimenti.
 
@@ -116,7 +116,7 @@ La tua ETA del Regno Unito è legata al numero di passaporto specifico con cui h
 
 ### I bambini hanno bisogno della propria ETA del Regno Unito?
 
-Sì, ogni persona ha bisogno della propria ETA, compresi neonati e bambini piccoli. Ogni persona che viaggia deve avere la propria ETA approvata, legata al proprio numero di passaporto. Non è possibile aggiungere familiari a un'unica domanda di ETA.
+Ogni viaggiatore che ha bisogno di un’ETA deve avere la propria, compresi i bambini e i neonati.
 
 ### Un'ETA del Regno Unito è una garanzia di ingresso?
 

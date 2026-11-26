@@ -31,9 +31,9 @@
   ],
   "link": "arrow",
   "note": "En förnyelse bryter kopplingen",
-  "focal": "Alla som reser behöver sitt eget, barn inkluderat",
-  "alt": "Jämförelsediagram: passet du ansökte med håller ETA:et kopplat till det passet så att du reser som vanligt, medan ett nytt eller förnyat pass inte för över kopplingen och behöver ett nytt ETA innan du flyger, och alla som reser behöver sitt eget, barn inkluderat",
-  "caption": "Godkännandet är knutet till passet, inte till dig - och varje resenär har sitt eget.",
+  "focal": "Den som behöver ett ETA måste ha ett eget.",
+  "alt": "Ditt brittiska ETA är kopplat till passet du använde i ansökan. Ett nytt eller förnyat pass. Kopplingen förs inte över. Den som behöver ett ETA måste ha ett eget.",
+  "caption": "Ditt brittiska ETA är kopplat till passet du använde i ansökan.",
   "placement": {
    "h2": 4,
    "para": 3

@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/da/blog/uk-eta-passport-rules/
 
 - **Et britisk ETA er bundet til dit pasnummer.** Fornyer du passet og får et nyt nummer, bliver dit gamle ETA ugyldigt.
 - Du skal rejse på **præcis det pas, du søgte med.** Et nyt pas betyder, at du skal have et nyt ETA, før du rejser.
-- **Alle personer skal have deres eget ETA** – også børn og babyer. Der findes ikke et familie-ETA. Hver person skal have sit eget, men du kan ansøge på vegne af familiemedlemmer.
+- **Alle, der skal have et ETA, skal have deres eget. Det gælder også børn og spædbørn.**
 - Indenrigsministeriet anbefaler at søge **mindst 3 hverdage i forvejen.** Det er en anbefaling, ikke en garanteret behandlingstid.
 - Et ETA er **tilladelse til at rejse, ikke til indrejse.** Grænsevagter kan afvise indrejse selv med et gyldigt ETA.
 
@@ -44,7 +44,7 @@ Når du fornyer dit pas, udsteder din pasmyndighed et nyt dokument med et nyt pa
 
 Her er den tidslinje, du skal planlægge efter:
 
-![Sammenligningsdiagram: det pas, du søgte med, holder ETA'et bundet til dette pas, så du rejser som normalt, mens et nyt eller fornyet pas ikke fører bindingen med og kræver et nyt ETA, før du flyver, og alle, der rejser, skal have deres eget, børn inklusive](https://traveldocumentvault.com/blog/uk-eta-passport-rules/eta-passport-link-figure-da.jpg) Godkendelsen er bundet til passet, ikke til dig – og hver rejsende har sit eget.
+![Dit britiske ETA er knyttet til det pas, du brugte i ansøgningen. Et nyt eller fornyet pas. Bindingen følger ikke med. Den, der skal have et ETA, skal have sit eget.](https://traveldocumentvault.com/blog/uk-eta-passport-rules/eta-passport-link-figure-da.jpg) Dit britiske ETA er knyttet til det pas, du brugte i ansøgningen.
 
 1. Dit pas' udløbsdato nærmer sig.
 2. Du søger om at forny dit pas i dit hjemland.
@@ -55,15 +55,15 @@ Her er den tidslinje, du skal planlægge efter:
 
 Risikoen ligger i trin 5. Er din tur om 10 dage, og dit nye pas ankommer i dag, har du et smalt vindue til at forny og få ETA-godkendelse. At starte fornyelsesprocessen med mindre end 2-3 uger til din tur skaber reelt tidspres.
 
-## Alle børn skal have deres eget ETA, babyer inklusive
+## Skal børn og spædbørn have et britisk ETA?
 
-Alle personer, også spædbørn, skal have deres eget britiske ETA. Der findes ikke et familie-ETA. Hver person skal have sit eget, men du kan ansøge på vegne af familiemedlemmer.
+[Alle, der skal have et ETA, skal have deres eget. Det gælder også børn og spædbørn.](https://www.gov.uk/eta/when-not-need-eta)
 
-Det betyder, at en familie på fire indsender fire separate ansøgninger og betaler fire separate gebyrer. Endnu vigtigere er, at I holder styr på fire godkendelsesstatusser, fire udløbsdatoer og fire pasnumre, hver for sig.
+Hvis alle fire i familien skal have et ETA, skal du indsende fire separate ansøgninger og betale fire gebyrer. Du kan ansøge på vegne af dine familiemedlemmer.
 
-I mange lande er et barns pas gyldigt i kortere tid end et voksenpas, ofte 5 år, så tjek dit eget. Et børnepas udstedt for 5 år i 2023 skal skiftes senest i 2028, hvilket betyder en ny ETA-ansøgning inden da. Planlægges en familietur, når det barn er 5 år, kan både passet og ETA'et udløbe inden for et eller to år.
+I mange lande er et barns pas gyldigt i kortere tid end et voksenpas, ofte 5 år, så tjek dit eget.
 
-**Tjek hvert enkelt familiemedlems pas' udløbsdato og ETA-status, før du booker en familietur til Storbritannien.** Én person med kort gyldighed eller uden ETA kan blive afvist ved boarding, og det kan ødelægge hele familiens rejse.
+**Tjek, hvornår hvert familiemedlems pas udløber, og hvem der skal have et ETA, før du booker.**
 
 ## Søg to til tre uger, før du rejser
 
@@ -73,7 +73,7 @@ Planlæg, som om 3 hverdage er minimum, ikke målet.
 
 At søge en uge i forvejen fra udlandet giver dig en rimelig margen, mens det at søge 48 timer før din flyafgang betyder at gå ud fra bedst mulig sagsbehandling uden reserve, hvis noget går galt.
 
-Bliver din ETA-ansøgning afvist, oplyser indenrigsministeriet, at du kan søge igen – men at gøre det i dagene før din flyafgang er ikke en praktisk løsning. Søg i god tid, og betragt 3 hverdage som minimumsmargenen, ikke målet.
+[Hvis det britiske indenrigsministerium giver afslag på dit ETA, skal du søge om visum, hvis du stadig vil rejse til Storbritannien.](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-electronic-travel-authorisation) [Hvis din ansøgning bliver afvist ved identitetskontrollen, kan du indsende en ny ETA-ansøgning.](https://www.gov.uk/government/publications/electronic-travel-authorisation-caseworker-guidance/electronic-travel-authorisation-caseworker-guidance-accessible)
 
 Den sikrere fremgangsmåde: søg, så snart du har dit endelige pas – helst 2-3 uger før du rejser. Det giver dig en fuld arbejdsmargen og tid til at løse eventuelle problemer, hvis indenrigsministeriet beder om afklaring.
 
@@ -116,7 +116,7 @@ Dit britiske ETA er bundet til det specifikke pasnummer, du søgte med. Fornyer 
 
 ### Skal børn have deres eget britiske ETA?
 
-Ja, alle personer skal have deres eget ETA, herunder babyer og små børn. Hver person, der skal rejse, skal have sit eget godkendte ETA bundet til sit eget pasnummer. Du kan ansøge på vegne af familiemedlemmer, men hver person skal have sin egen godkendelse.
+Alle, der skal have et ETA, skal have deres eget. Det gælder også børn og spædbørn.
 
 ### Er et britisk ETA en garanti for indrejse?
 

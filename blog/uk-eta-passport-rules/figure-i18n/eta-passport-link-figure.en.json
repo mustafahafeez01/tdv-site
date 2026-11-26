@@ -31,9 +31,9 @@
   ],
   "link": "arrow",
   "note": "Renewing breaks the link",
-  "focal": "Everyone travelling needs their own, children included",
-  "alt": "Comparison diagram: the passport you applied with keeps the ETA linked to that booklet so you travel as normal, while a new or renewed passport does not carry the link over and needs a new ETA before you fly, and everyone travelling needs their own, children included",
-  "caption": "The approval is tied to the booklet, not to you - and each traveller carries their own.",
+  "focal": "If you need an ETA, you need your own.",
+  "alt": "A UK ETA is linked to the passport you used to apply. A new or renewed passport. The link does not carry over. If you need an ETA, you need your own.",
+  "caption": "A UK ETA is linked to the passport you used to apply.",
   "placement": {
    "h2": 4,
    "para": 3

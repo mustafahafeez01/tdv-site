@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/fr/blog/uk-eta-passport-rules/
 
 - **Une ETA britannique est liée à votre numéro de passeport.** Quand vous renouvelez votre passeport et recevez un nouveau numéro, votre ancienne ETA devient invalide.
 - Vous devez voyager avec **le passeport exact utilisé pour la demande.** Un nouveau passeport signifie qu'il vous faut une nouvelle ETA avant de partir.
-- **Chaque personne a besoin de sa propre ETA** — y compris les enfants et les bébés. Il n'existe pas d'ETA familiale. Chacun a besoin de la sienne, même si vous pouvez faire la demande au nom des membres de votre famille.
+- **Chaque voyageur qui a besoin d’une ETA doit avoir la sienne, y compris les enfants et les bébés.**
 - Le Home Office recommande de faire la demande **au moins 3 jours ouvrés à l'avance.** C'est une recommandation, pas une garantie de délai de traitement.
 - Une ETA est une **autorisation de voyager, pas une garantie d'entrée.** Les agents frontaliers peuvent refuser l'entrée même avec une ETA valide.
 
@@ -44,7 +44,7 @@ Quand vous renouvelez votre passeport, l'autorité compétente de votre pays vou
 
 Voici le calendrier à prévoir :
 
-![Diagramme comparatif : le passeport utilisé pour la demande garde l'ETA liée à ce carnet, donc vous voyagez normalement, tandis qu'un passeport nouveau ou renouvelé ne conserve pas ce lien et nécessite une nouvelle ETA avant le départ, chaque voyageur ayant besoin de sa propre ETA, enfants compris](https://traveldocumentvault.com/blog/uk-eta-passport-rules/eta-passport-link-figure-fr.jpg) L'autorisation est liée au carnet, pas à vous — et chaque voyageur porte la sienne.
+![L’ETA britannique est liée au passeport utilisé pour la demande. Un passeport nouveau ou renouvelé. Le lien ne se transfère pas. Toute personne qui a besoin d’une ETA doit avoir la sienne.](https://traveldocumentvault.com/blog/uk-eta-passport-rules/eta-passport-link-figure-fr.jpg) L’ETA britannique est liée au passeport utilisé pour la demande.
 
 1. La date d'expiration de votre passeport approche.
 2. Vous faites une demande de renouvellement de passeport dans votre pays.
@@ -55,15 +55,15 @@ Voici le calendrier à prévoir :
 
 Le risque se situe à l'étape 5. Si votre voyage est dans 10 jours et que votre nouveau passeport arrive aujourd'hui, vous disposez d'une fenêtre étroite pour le renouvellement et l'approbation de l'ETA. Démarrer la démarche de renouvellement à moins de 2-3 semaines de votre voyage crée une réelle pression temporelle.
 
-## Chaque enfant a besoin de sa propre ETA, bébés compris
+## Les enfants et les bébés ont-ils besoin d’une ETA britannique ?
 
-Chaque personne, y compris les nourrissons, a besoin de sa propre ETA britannique. Il n'existe pas d'ETA familiale. Chacun a besoin de la sienne, même si vous pouvez faire la demande au nom des membres de votre famille.
+[Chaque voyageur qui a besoin d’une ETA doit avoir la sienne, y compris les enfants et les bébés.](https://www.gov.uk/eta/when-not-need-eta)
 
-Pour une famille de quatre personnes, cela signifie déposer quatre demandes distinctes et payer quatre frais distincts. Plus important encore, vous devez suivre quatre statuts d'approbation, quatre dates d'expiration et quatre numéros de passeport, chacun séparément.
+Si les quatre membres de votre famille ont besoin d’une ETA, vous devrez déposer quatre demandes distinctes et payer les frais pour chacune. Vous pouvez faire la demande pour vos proches.
 
-Dans de nombreux pays, le passeport d'un enfant est valable moins longtemps que celui d'un adulte, souvent 5 ans, alors vérifiez le vôtre. Un passeport d'enfant délivré pour 5 ans en 2023 devra être remplacé d'ici 2028, ce qui implique une nouvelle demande d'ETA avant cette échéance. Si un voyage en famille est prévu quand cet enfant a 5 ans, le passeport et l'ETA peuvent tous deux arriver à expiration dans un délai d'un ou deux ans.
+Dans de nombreux pays, le passeport d'un enfant est valable moins longtemps que celui d'un adulte, souvent 5 ans, alors vérifiez le vôtre.
 
-**Avant de réserver un voyage en famille au Royaume-Uni, vérifiez la date d'expiration du passeport et le statut de l'ETA de chaque membre de la famille.** Une seule personne dont la validité est insuffisante ou qui n'a pas d'ETA peut se voir refuser l'embarquement, ce qui peut perturber le voyage de toute la famille.
+**Avant de réserver, vérifiez la date d’expiration du passeport de chaque membre de votre famille et si cette personne a besoin d’une ETA.**
 
 ## Faites votre demande deux à trois semaines avant le départ
 
@@ -73,7 +73,7 @@ Considérez les 3 jours ouvrés comme un minimum, pas comme un objectif.
 
 Faire la demande une semaine à l'avance depuis l'étranger vous laisse une marge raisonnable, tandis que la faire 48 heures avant votre vol revient à parier sur le meilleur scénario possible, sans filet en cas de problème.
 
-Si votre demande d'ETA est refusée, le Home Office indique que vous pouvez refaire une demande — mais le faire dans les derniers jours avant votre vol n'est pas une solution de secours réaliste. Faites votre demande bien à l'avance, et considérez les 3 jours ouvrés comme la marge minimale, pas comme l'objectif.
+[Si le Home Office vous refuse une ETA, vous devrez demander un visa si vous souhaitez toujours vous rendre au Royaume-Uni.](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-electronic-travel-authorisation) [Si le Home Office rejette votre demande lors de la vérification de votre identité, vous pouvez déposer une nouvelle demande d’ETA.](https://www.gov.uk/government/publications/electronic-travel-authorisation-caseworker-guidance/electronic-travel-authorisation-caseworker-guidance-accessible)
 
 L'approche la plus sûre : faites votre demande dès que vous avez votre passeport définitif en main — idéalement 2 à 3 semaines avant le départ. Cela vous laisse une véritable marge de manœuvre et le temps de résoudre tout problème si le Home Office demande des précisions.
 
@@ -116,7 +116,7 @@ Votre ETA britannique est liée au numéro de passeport précis utilisé pour la
 
 ### Les enfants ont-ils besoin de leur propre ETA britannique ?
 
-Oui, chaque personne a besoin de sa propre ETA, y compris les bébés et les jeunes enfants. Chaque personne qui voyage doit avoir sa propre ETA approuvée, liée à son propre numéro de passeport. Vous ne pouvez pas ajouter des membres de la famille à une seule demande d'ETA.
+Chaque voyageur qui a besoin d’une ETA doit avoir la sienne, y compris les enfants et les bébés.
 
 ### Une ETA britannique garantit-elle l'entrée sur le territoire ?
 

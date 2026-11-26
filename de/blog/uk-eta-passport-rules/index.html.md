@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/de/blog/uk-eta-passport-rules/
 
 - **Eine britische ETA ist an Ihre Reisepassnummer gebunden.** Wenn Sie Ihren Reisepass erneuern und eine neue Nummer erhalten, wird Ihre alte ETA ungültig.
 - Sie müssen mit **genau dem Reisepass reisen, mit dem Sie beantragt haben.** Ein neuer Reisepass bedeutet, dass Sie vor der Reise eine neue ETA benötigen.
-- **Jede Person braucht ihre eigene ETA** – auch Kinder und Babys. Es gibt keine Familien-ETA. Jede Person braucht ihre eigene, Sie können den Antrag aber im Namen von Familienmitgliedern stellen.
+- **Wer eine ETA benötigt, braucht eine eigene. Das gilt auch für Kinder und Babys.**
 - Das Home Office empfiehlt, **mindestens 3 Werktage im Voraus zu beantragen.** Das ist eine Empfehlung, keine Bearbeitungsgarantie.
 - Eine ETA ist eine **Reiseerlaubnis, keine Einreisegarantie.** Grenzbeamte können die Einreise auch mit gültiger ETA verweigern.
 
@@ -44,7 +44,7 @@ Wenn Sie Ihren Reisepass erneuern, stellt Ihre Passbehörde Ihnen ein neues Doku
 
 So sieht der Zeitplan aus, den Sie einplanen sollten:
 
-![Vergleichsdiagramm: Der Reisepass, mit dem Sie beantragt haben, hält die ETA an dieses Heft gebunden, sodass Sie wie gewohnt reisen, während ein neuer oder erneuerter Reisepass die Bindung nicht übernimmt und vor dem Flug eine neue ETA braucht, und jeder Reisende seine eigene benötigt, auch Kinder](https://traveldocumentvault.com/blog/uk-eta-passport-rules/eta-passport-link-figure-de.jpg) Die Genehmigung ist an das Heft gebunden, nicht an Sie – und jeder Reisende trägt seine eigene.
+![Die britische ETA ist an den beim Antrag verwendeten Reisepass gebunden. Ein neuer oder erneuerter Reisepass. Die Bindung geht nicht über. Wer eine ETA benötigt, braucht eine eigene.](https://traveldocumentvault.com/blog/uk-eta-passport-rules/eta-passport-link-figure-de.jpg) Die britische ETA ist an den beim Antrag verwendeten Reisepass gebunden.
 
 1. Das Ablaufdatum Ihres Reisepasses rückt näher.
 2. Sie beantragen die Erneuerung Ihres Reisepasses in Ihrem Heimatland.
@@ -55,15 +55,15 @@ So sieht der Zeitplan aus, den Sie einplanen sollten:
 
 Das Risiko liegt in Schritt 5. Liegt Ihre Reise in 10 Tagen und Ihr neuer Reisepass trifft heute ein, bleibt nur ein enges Zeitfenster für Erneuerung und ETA-Genehmigung. Beginnen Sie die Erneuerung weniger als 2-3 Wochen vor der Reise, entsteht echter Zeitdruck.
 
-## Jedes Kind braucht seine eigene ETA, Babys eingeschlossen
+## Brauchen Kinder und Babys eine britische ETA?
 
-Jede Person, auch Säuglinge, benötigt ihre eigene britische ETA. Es gibt keine Familien-ETA. Jede Person braucht ihre eigene, Sie können den Antrag aber im Namen von Familienmitgliedern stellen.
+[Wer eine ETA benötigt, braucht eine eigene. Das gilt auch für Kinder und Babys.](https://www.gov.uk/eta/when-not-need-eta)
 
-Das bedeutet für eine vierköpfige Familie vier separate Anträge und vier separate Gebühren. Wichtiger noch: Sie müssen vier Genehmigungsstatus, vier Ablaufdaten und vier Reisepassnummern verfolgen – jeweils getrennt.
+Wenn alle vier Personen in Ihrer Familie eine ETA benötigen, müssen Sie vier einzelne Anträge stellen und vier Gebühren zahlen. Sie können die Anträge für Ihre Familienmitglieder stellen.
 
-In vielen Ländern ist der Reisepass eines Kindes kürzer gültig als der eines Erwachsenen, oft 5 Jahre, prüfen Sie also Ihren. Ein Kinderreisepass, der 2023 für 5 Jahre ausgestellt wurde, müsste bis 2028 ersetzt werden, was einen neuen ETA-Antrag vor diesem Zeitpunkt erfordert. Ist eine Familienreise geplant, wenn das Kind 5 Jahre alt ist, können Reisepass und ETA beide innerhalb von ein bis zwei Jahren ablaufen.
+In vielen Ländern ist der Reisepass eines Kindes kürzer gültig als der eines Erwachsenen, oft 5 Jahre, prüfen Sie also Ihren.
 
-**Prüfen Sie vor jeder Buchung einer Familienreise ins Vereinigte Königreich das Ablaufdatum des Reisepasses und den ETA-Status jedes Familienmitglieds.** Reicht die Gültigkeit bei einer Person nicht aus oder fehlt ihr die ETA, darf sie womöglich nicht an Bord, was die Reise der ganzen Familie durcheinanderbringen kann.
+**Prüfen Sie vor der Buchung, wann die Reisepässe Ihrer Familienmitglieder ablaufen und wer eine ETA benötigt.**
 
 ## Beantragen Sie zwei bis drei Wochen vor der Reise
 
@@ -73,7 +73,7 @@ Planen Sie so, als wären 3 Werktage das Minimum, nicht das Ziel.
 
 Eine Woche im Voraus aus dem Ausland zu beantragen, verschafft Ihnen einen angemessenen Puffer, während 48 Stunden vor dem Flug bedeutet, auf den besten Fall zu setzen – ohne Absicherung, falls etwas schiefgeht.
 
-Wird Ihr ETA-Antrag abgelehnt, können Sie laut Home Office erneut einen Antrag stellen – das in den letzten Tagen vor Ihrem Flug zu tun, ist jedoch keine praktikable Rückfalloption. Beantragen Sie rechtzeitig, und betrachten Sie 3 Werktage als Mindestpuffer, nicht als Ziel.
+[Wenn das britische Innenministerium (Home Office) Ihre ETA verweigert, müssen Sie ein Visum beantragen, falls Sie weiterhin ins Vereinigte Königreich reisen möchten.](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-electronic-travel-authorisation) [Wird Ihr Antrag bei der Identitätsprüfung zurückgewiesen, können Sie einen neuen ETA-Antrag stellen.](https://www.gov.uk/government/publications/electronic-travel-authorisation-caseworker-guidance/electronic-travel-authorisation-caseworker-guidance-accessible)
 
 Der sicherere Weg: Beantragen Sie die ETA, sobald Sie Ihren endgültigen Reisepass haben – idealerweise 2-3 Wochen vor der Reise. So haben Sie einen vollen Arbeitspuffer und Zeit, etwaige Probleme zu klären, falls das Home Office Rückfragen stellt.
 
@@ -116,7 +116,7 @@ Ihre britische ETA ist an die konkrete Reisepassnummer gebunden, mit der Sie sie
 
 ### Brauchen Kinder eine eigene britische ETA?
 
-Ja, jede Person benötigt ihre eigene ETA, auch Babys und Kleinkinder. Jede reisende Person muss eine eigene genehmigte ETA haben, die an ihre eigene Reisepassnummer gebunden ist. Sie können Familienmitglieder nicht zu einem einzigen ETA-Antrag hinzufügen.
+Wer eine ETA benötigt, braucht eine eigene. Das gilt auch für Kinder und Babys.
 
 ### Ist eine britische ETA eine Einreisegarantie?
 

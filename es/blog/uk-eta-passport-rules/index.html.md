@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/es/blog/uk-eta-passport-rules/
 
 - **Una ETA del Reino Unido está vinculada a tu número de pasaporte.** Cuando renuevas tu pasaporte y obtienes un número nuevo, tu ETA anterior deja de ser válida.
 - Debes viajar con **el pasaporte exacto con el que la solicitaste.** Un pasaporte nuevo significa que necesitas una ETA nueva antes de viajar.
-- **Cada persona necesita su propia ETA** —incluidos los niños y los bebés. No existe una ETA familiar. Cada persona necesita la suya, aunque puedes solicitarla en nombre de tus familiares.
+- **Cada viajero que necesite una ETA debe tener la suya, incluidos los niños y los bebés.**
 - El Home Office recomienda solicitarla **con al menos 3 días hábiles de antelación.** Es una recomendación, no una garantía de plazo de tramitación.
 - Una ETA es **un permiso para viajar, no un permiso de entrada.** Los agentes fronterizos pueden denegar la entrada incluso con una ETA válida.
 
@@ -44,7 +44,7 @@ Cuando renuevas tu pasaporte, la autoridad de pasaportes de tu país te expide u
 
 Este es el calendario a tener en cuenta:
 
-![Diagrama comparativo: el pasaporte con el que solicitaste la ETA la mantiene vinculada a ese documento, así que viajas con normalidad; un pasaporte nuevo o renovado no mantiene el vínculo y necesita una ETA nueva antes de volar, y cada viajero necesita la suya, niños incluidos](https://traveldocumentvault.com/blog/uk-eta-passport-rules/eta-passport-link-figure-es.jpg) La aprobación está vinculada al pasaporte, no a la persona, y cada viajero lleva la suya.
+![La ETA del Reino Unido está vinculada al pasaporte que usaste para solicitarla. Un pasaporte nuevo o renovado. El vínculo no se mantiene. Cada viajero que necesite una ETA debe tener la suya.](https://traveldocumentvault.com/blog/uk-eta-passport-rules/eta-passport-link-figure-es.jpg) La ETA del Reino Unido está vinculada al pasaporte que usaste para solicitarla.
 
 1. Se acerca la fecha de caducidad de tu pasaporte.
 2. Solicitas la renovación de tu pasaporte en tu país.
@@ -55,15 +55,15 @@ Este es el calendario a tener en cuenta:
 
 El riesgo está en el paso 5. Si tu viaje es dentro de 10 días y tu nuevo pasaporte llega hoy, tienes un margen muy estrecho para renovarlo y conseguir la aprobación de la ETA. Empezar el proceso de renovación con menos de 2-3 semanas antes del viaje genera una presión de tiempo real.
 
-## Cada niño necesita su propia ETA, bebés incluidos
+## ¿Necesitan los niños y los bebés una ETA del Reino Unido?
 
-Cada persona, incluidos los bebés, necesita su propia ETA del Reino Unido. No existe una ETA familiar. Cada persona necesita la suya, aunque puedes solicitarla en nombre de tus familiares.
+[Cada viajero que necesite una ETA debe tener la suya, incluidos los niños y los bebés.](https://www.gov.uk/eta/when-not-need-eta)
 
-Esto significa que, para una familia de cuatro, presentas cuatro solicitudes independientes y pagas cuatro tasas independientes. Más importante aún, tienes que hacer seguimiento de cuatro estados de aprobación, cuatro fechas de caducidad y cuatro números de pasaporte, todo por separado.
+Si los cuatro miembros de tu familia necesitan una ETA, tendrás que presentar cuatro solicitudes y pagar la tasa de cada una. Puedes solicitarla en nombre de tus familiares.
 
-En muchos países el pasaporte de un niño tiene una validez menor que el de un adulto, a menudo de 5 años, así que comprueba el tuyo. Un pasaporte infantil expedido por 5 años en 2023 habría que sustituirlo antes de 2028, lo que implica una nueva solicitud de ETA antes de esa fecha. Si se planea un viaje familiar cuando ese niño tenga 5 años, tanto el pasaporte como la ETA podrían caducar en uno o dos años.
+En muchos países el pasaporte de un niño tiene una validez menor que el de un adulto, a menudo de 5 años, así que comprueba el tuyo.
 
-**Antes de reservar cualquier viaje familiar al Reino Unido, comprueba la fecha de caducidad del pasaporte y el estado de la ETA de cada miembro de la familia.** Una sola persona con la validez justa o sin ETA puede que no pueda embarcar, lo que puede trastocar el viaje de toda la familia.
+**Antes de reservar, comprueba cuándo caduca el pasaporte de cada familiar y si necesita una ETA.**
 
 ## Solicítala entre dos y tres semanas antes de viajar
 
@@ -73,7 +73,7 @@ Trata los 3 días hábiles como un mínimo, no como el objetivo.
 
 Solicitarla con una semana de antelación desde fuera del Reino Unido te da un margen razonable, mientras que hacerlo 48 horas antes de tu vuelo supone dar por hecho el mejor escenario posible, sin ningún respaldo si algo sale mal.
 
-Si te deniegan la solicitud de ETA, el Home Office indica que puedes volver a solicitarla —pero hacerlo en los días previos a tu vuelo no es una alternativa práctica. Solicítala con bastante antelación, y trata los 3 días hábiles como el margen mínimo, no como el objetivo.
+[Si el Home Office te deniega la ETA, tendrás que solicitar un visado si aún quieres viajar al Reino Unido.](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-electronic-travel-authorisation) [Si el Home Office rechaza tu solicitud durante la verificación de tu identidad, puedes presentar una nueva solicitud de ETA.](https://www.gov.uk/government/publications/electronic-travel-authorisation-caseworker-guidance/electronic-travel-authorisation-caseworker-guidance-accessible)
 
 El planteamiento más seguro: solicítala en cuanto tengas tu pasaporte definitivo —idealmente 2-3 semanas antes de viajar. Esto te da un margen de trabajo completo y tiempo para resolver cualquier problema si el Home Office pide aclaraciones.
 
@@ -116,7 +116,7 @@ Tu ETA del Reino Unido está vinculada al número de pasaporte concreto con el q
 
 ### ¿Necesitan los niños su propia ETA del Reino Unido?
 
-Sí, cada persona necesita su propia ETA, incluidos los bebés y los niños pequeños. Cada persona que vaya a viajar debe tener su propia ETA aprobada, vinculada a su propio número de pasaporte. No puedes añadir a familiares en una única solicitud de ETA.
+Cada viajero que necesite una ETA debe tener la suya, incluidos los niños y los bebés.
 
 ### ¿Una ETA del Reino Unido garantiza la entrada?
 

@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/id/blog/uk-eta-passport-rules/
 
 - **ETA Inggris terikat dengan nomor paspor Anda.** Saat Anda memperpanjang paspor dan mendapat nomor baru, ETA lama otomatis tidak berlaku.
 - Anda harus bepergian dengan **paspor yang sama persis dengan yang digunakan saat mengajukan ETA**. Paspor baru berarti Anda memerlukan ETA baru sebelum berangkat.
-- **Setiap orang memerlukan ETA sendiri,** termasuk anak-anak dan bayi. Tidak ada ETA keluarga. Setiap orang memerlukan ETA sendiri, meskipun Anda bisa mengajukan atas nama anggota keluarga.
+- **Setiap pelancong yang memerlukan ETA harus memiliki ETA sendiri, termasuk anak dan bayi.**
 - Home Office menyarankan mengajukan permohonan **setidaknya 3 hari kerja sebelumnya**. Ini hanya saran, bukan jaminan waktu pemrosesan.
 - ETA adalah **izin untuk bepergian, bukan izin masuk**. Petugas perbatasan tetap bisa menolak masuk meskipun ETA Anda masih berlaku.
 
@@ -44,7 +44,7 @@ Saat Anda memperpanjang paspor, otoritas paspor Anda sendiri menerbitkan dokumen
 
 Berikut ini garis waktu yang perlu direncanakan:
 
-![Diagram perbandingan: paspor yang Anda gunakan saat mengajukan tetap menjaga tautan ETA ke buku paspor itu sehingga Anda bisa bepergian seperti biasa, sementara paspor baru atau yang diperpanjang tidak membawa tautan itu dan memerlukan ETA baru sebelum Anda terbang, dan setiap orang yang bepergian memerlukan ETA sendiri, termasuk anak-anak](https://traveldocumentvault.com/blog/uk-eta-passport-rules/eta-passport-link-figure-id.jpg) Persetujuannya terikat pada buku paspor, bukan pada diri Anda - dan setiap pelancong membawa miliknya sendiri.
+![ETA Inggris terkait dengan paspor yang Anda gunakan saat mengajukan permohonan. Paspor baru atau yang diperpanjang. Tautannya tidak ikut berpindah. Pelancong yang memerlukan ETA harus memiliki ETA sendiri.](https://traveldocumentvault.com/blog/uk-eta-passport-rules/eta-passport-link-figure-id.jpg) ETA Inggris terkait dengan paspor yang Anda gunakan saat mengajukan permohonan.
 
 1. Tanggal kedaluwarsa paspor Anda sudah dekat.
 2. Anda mengajukan perpanjangan paspor di negara asal Anda.
@@ -55,15 +55,15 @@ Berikut ini garis waktu yang perlu direncanakan:
 
 Risiko terbesar ada di langkah 5. Jika perjalanan Anda tinggal 10 hari lagi dan paspor baru Anda tiba hari ini, Anda hanya punya jendela waktu yang sempit untuk memperpanjang dan mendapat persetujuan ETA. Memulai proses perpanjangan dengan sisa waktu kurang dari 2-3 minggu sebelum keberangkatan menciptakan tekanan waktu yang nyata.
 
-## Setiap Anak Memerlukan ETA Sendiri, Termasuk Bayi
+## Apakah anak dan bayi memerlukan ETA Inggris?
 
-Setiap orang, termasuk bayi, memerlukan ETA Inggris sendiri. Tidak ada ETA keluarga. Setiap orang memerlukan ETA sendiri, meskipun Anda bisa mengajukan atas nama anggota keluarga.
+[Setiap pelancong yang memerlukan ETA harus memiliki ETA sendiri, termasuk anak dan bayi.](https://www.gov.uk/eta/when-not-need-eta)
 
-Artinya, untuk keluarga beranggotakan empat orang, Anda mengajukan empat permohonan terpisah dan membayar empat biaya terpisah. Yang lebih penting, Anda harus melacak empat status persetujuan, empat tanggal kedaluwarsa, dan empat nomor paspor, semuanya secara terpisah.
+Jika keempat anggota keluarga Anda memerlukan ETA, ajukan empat permohonan terpisah dan bayar biaya masing-masing. Anda bisa mengajukan permohonan atas nama anggota keluarga.
 
-Di banyak negara paspor anak berlaku lebih singkat daripada paspor dewasa, sering kali 5 tahun, jadi periksa paspor Anda. Paspor anak yang diterbitkan untuk 5 tahun pada 2023 perlu diganti paling lambat 2028, yang berarti diperlukan permohonan ETA baru sebelum tanggal tersebut. Jika perjalanan keluarga direncanakan saat anak berusia 5 tahun, paspor dan ETA-nya bisa jadi sama-sama akan kedaluwarsa dalam satu hingga dua tahun ke depan.
+Di banyak negara paspor anak berlaku lebih singkat daripada paspor dewasa, sering kali 5 tahun, jadi periksa paspor Anda.
 
-**Sebelum memesan perjalanan keluarga ke Inggris, periksa tanggal kedaluwarsa paspor dan status ETA setiap anggota keluarga.** Satu orang yang masa berlaku paspornya kurang atau tidak punya ETA mungkin tidak diizinkan naik pesawat, dan itu bisa mengganggu perjalanan seluruh keluarga.
+**Sebelum memesan perjalanan, periksa kapan paspor setiap anggota keluarga kedaluwarsa dan apakah mereka memerlukan ETA.**
 
 ## Ajukan Permohonan Dua hingga Tiga Minggu Sebelum Bepergian
 
@@ -75,7 +75,7 @@ Mengajukan
 
 permohonan seminggu sebelumnya dari luar Inggris memberi Anda jeda waktu yang wajar, sementara mengajukan 48 jam sebelum penerbangan berarti Anda berharap pada skenario terbaik tanpa cadangan jika terjadi masalah.
 
-Jika permohonan ETA Anda ditolak, Home Office menyatakan Anda bisa mengajukan lagi, tetapi melakukannya di hari-hari menjelang penerbangan bukan solusi cadangan yang praktis. Ajukan permohonan jauh-jauh hari, dan anggap 3 hari kerja sebagai jeda minimum, bukan target.
+[Jika Home Office menolak memberikan ETA, Anda perlu mengajukan visa jika masih ingin bepergian ke Inggris.](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-electronic-travel-authorisation) [Jika Home Office menolak permohonan pada tahap verifikasi identitas, Anda dapat mengajukan permohonan ETA baru.](https://www.gov.uk/government/publications/electronic-travel-authorisation-caseworker-guidance/electronic-travel-authorisation-caseworker-guidance-accessible)
 
 Pendekatan yang lebih aman adalah mengajukan permohonan begitu paspor final Anda di tangan, idealnya 2-3 minggu sebelum bepergian. Ini memberi Anda jeda kerja penuh dan waktu untuk menyelesaikan masalah jika Home Office meminta klarifikasi.
 
@@ -118,7 +118,7 @@ ETA Inggris Anda terikat dengan nomor paspor spesifik yang Anda gunakan saat men
 
 ### Apakah anak-anak memerlukan ETA Inggris sendiri?
 
-Ya, setiap orang memerlukan ETA sendiri, termasuk bayi dan anak kecil. Setiap orang yang akan bepergian harus memiliki ETA yang disetujui dan terikat dengan nomor paspornya sendiri. Anda tidak bisa menambahkan anggota keluarga ke satu permohonan ETA yang sama.
+Setiap pelancong yang memerlukan ETA harus memiliki ETA sendiri, termasuk anak dan bayi.
 
 ### Apakah ETA Inggris menjamin saya bisa masuk?
 

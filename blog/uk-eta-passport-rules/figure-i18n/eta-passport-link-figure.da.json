@@ -31,9 +31,9 @@
   ],
   "link": "arrow",
   "note": "Fornyelse bryder bindingen",
-  "focal": "Alle, der rejser, skal have deres eget, børn inklusive",
-  "alt": "Sammenligningsdiagram: det pas, du søgte med, holder ETA'et bundet til dette pas, så du rejser som normalt, mens et nyt eller fornyet pas ikke fører bindingen med og kræver et nyt ETA, før du flyver, og alle, der rejser, skal have deres eget, børn inklusive",
-  "caption": "Godkendelsen er bundet til passet, ikke til dig – og hver rejsende har sit eget.",
+  "focal": "Den, der skal have et ETA, skal have sit eget.",
+  "alt": "Dit britiske ETA er knyttet til det pas, du brugte i ansøgningen. Et nyt eller fornyet pas. Bindingen følger ikke med. Den, der skal have et ETA, skal have sit eget.",
+  "caption": "Dit britiske ETA er knyttet til det pas, du brugte i ansøgningen.",
   "placement": {
    "h2": 4,
    "para": 3

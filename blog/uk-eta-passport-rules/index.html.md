@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/blog/uk-eta-passport-rules/
 
 - **A UK ETA is tied to your passport number.** When you renew your passport and get a new number, your old ETA becomes invalid.
 - You must travel on **the exact passport you applied with.** A new passport means you need a new ETA before travelling.
-- **Every person needs their own ETA** - including children and babies. There is no family ETA. Each person needs their own, though you can apply on behalf of family members.
+- **Every traveller who needs an ETA must have their own, including children and babies.**
 - The Home Office recommends applying **at least 3 working days ahead.** This is a recommendation, not a processing guarantee.
 - An ETA is **permission to travel, not entry.** Border officers can refuse entry even with a valid ETA.
 
@@ -49,17 +49,17 @@ Here is the timeline to plan:
 
 The risk is in step 5. If your trip is in 10 days and your new passport arrives today, you have a narrow window to renew and get ETA approval. Starting the renewal process with less than 2-3 weeks before your trip creates real time pressure.
 
-![Hand-drawn comparison: the passport you applied with keeps the ETA linked to that booklet so you travel as normal, while a new or renewed passport does not carry the link over and needs a new ETA before you fly. Everyone travelling needs their own, children included](https://traveldocumentvault.com/blog/uk-eta-passport-rules/eta-passport-link-figure.jpg) The approval is tied to the booklet, not to you - and each traveller carries their own.
+![A UK ETA is linked to the passport you used to apply. A new or renewed passport. The link does not carry over. If you need an ETA, you need your own.](https://traveldocumentvault.com/blog/uk-eta-passport-rules/eta-passport-link-figure.jpg) A UK ETA is linked to the passport you used to apply.
 
-## Every Child Needs Their Own ETA, Babies Included
+## Do children and babies need a UK ETA?
 
-Every person, including infants, needs their own UK ETA. There is no family ETA. Each person needs their own, though you can apply on behalf of family members.
+[Every traveller who needs an ETA must have their own, including children and babies.](https://www.gov.uk/eta/when-not-need-eta)
 
-This means for a family of four, you are submitting four separate applications and paying four separate fees. More importantly, you are tracking four approval statuses, four expiry dates and four passport numbers, all of them separately.
+If all four people in your family need an ETA, you’ll submit four separate applications and pay four fees. You can apply on behalf of family members.
 
-In many countries a child's passport is valid for less time than an adult's, often 5 years, so check yours. A child's passport issued for 5 years in 2023 would need replacing by 2028, which means a new ETA application before then. If a family trip is planned when that child is 5, the passport and ETA may both be within a year or two of expiry.
+In many countries a child's passport is valid for less time than an adult's, often 5 years, so check yours.
 
-Before booking any family trip to the UK, check every family member's passport expiry date and ETA status. One person short on validity or without an ETA may not be allowed to board, which can disrupt the whole family's trip.
+Before you book, check each family member’s passport expiry date and whether they need an ETA.
 
 ## Apply Two to Three Weeks Before You Travel
 
@@ -69,7 +69,7 @@ Plan as if 3 working days is the minimum, not the target.
 
 Applying a week ahead from outside the UK gives you a reasonable cushion, while applying 48 hours before your flight means assuming best-case processing with no backup if anything goes wrong.
 
-If your ETA application is refused, the Home Office says you can apply again, but doing so in the days before your flight isn't a practical fallback. Apply well ahead, so you still have those 3 working days in hand if the Home Office comes back asking for more information.
+[If the Home Office refuses your ETA, you’ll need to apply for a visa if you still want to travel to the UK.](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-electronic-travel-authorisation) [If the Home Office rejects your application at identity verification, you can submit a new ETA application.](https://www.gov.uk/government/publications/electronic-travel-authorisation-caseworker-guidance/electronic-travel-authorisation-caseworker-guidance-accessible)
 
 The safer approach: apply as soon as you have your final passport, ideally 2-3 weeks before you travel. This gives you a full working buffer and time to solve any issues if the Home Office asks for clarification.
 
@@ -116,7 +116,7 @@ Your UK ETA is tied to the specific passport number you apply with. If you renew
 
 ### Do children need their own UK ETA?
 
-Yes, every person needs their own ETA, including babies and young children. Each person who will be travelling must have their own approved ETA tied to their own passport number. You cannot add family members to a single ETA application.
+Every traveller who needs an ETA must have their own, including children and babies.
 
 ### Is a UK ETA a guarantee of entry?
 

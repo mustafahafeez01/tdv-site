@@ -31,9 +31,9 @@
   ],
   "link": "arrow",
   "note": "Il rinnovo rompe il collegamento",
-  "focal": "Ogni persona in viaggio ne ha bisogno di una propria, bambini compresi",
-  "alt": "Diagramma di confronto: il passaporto con cui hai fatto domanda mantiene l'ETA collegata a quel libretto, così viaggi normalmente, mentre un passaporto nuovo o rinnovato non trasferisce il collegamento e serve una nuova ETA prima di volare, e ogni persona in viaggio ne ha bisogno di una propria, bambini compresi",
-  "caption": "L'autorizzazione è legata al libretto, non a te - e ogni viaggiatore porta la propria.",
+  "focal": "Chi ha bisogno di un’ETA deve avere la propria.",
+  "alt": "L’ETA per il Regno Unito è legata al passaporto usato per la domanda. Un passaporto nuovo o rinnovato. Il collegamento non si trasferisce. Chi ha bisogno di un’ETA deve avere la propria.",
+  "caption": "L’ETA per il Regno Unito è legata al passaporto usato per la domanda.",
   "placement": {
    "h2": 4,
    "para": 3

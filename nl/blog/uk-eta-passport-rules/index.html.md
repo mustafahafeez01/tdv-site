@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/nl/blog/uk-eta-passport-rules/
 
 - **Een UK ETA is gekoppeld aan je paspoortnummer.** Als je je paspoort vernieuwt en een nieuw nummer krijgt, wordt je oude ETA ongeldig.
 - Je moet reizen met **exact het paspoort waarmee je hebt aangevraagd.** Een nieuw paspoort betekent dat je een nieuwe ETA nodig hebt voordat je vertrekt.
-- **Iedereen heeft een eigen ETA nodig** – ook kinderen en baby's. Er bestaat geen gezins-ETA. Iedereen heeft een eigen ETA nodig, maar je kunt wel namens gezinsleden aanvragen.
+- **Iedereen die een ETA nodig heeft, moet een eigen ETA hebben. Dat geldt ook voor kinderen en baby’s.**
 - De Home Office adviseert **minstens 3 werkdagen van tevoren** aan te vragen. Dit is een advies, geen garantie voor de verwerkingstijd.
 - Een ETA is **toestemming om te reizen, geen garantie voor binnenkomst.** Grensbeambten kunnen de toegang weigeren, ook met een geldige ETA.
 
@@ -44,7 +44,7 @@ Wanneer je je paspoort vernieuwt, krijg je van de paspoortautoriteit in je eigen
 
 Dit is de tijdlijn om rekening mee te houden:
 
-![Vergelijkingsdiagram: het paspoort waarmee je hebt aangevraagd houdt de ETA gekoppeld aan dit paspoort, zodat je gewoon kunt reizen, terwijl een nieuw of vernieuwd paspoort de koppeling niet meeneemt en een nieuwe ETA nodig heeft voor je vliegt, en iedereen die reist een eigen ETA nodig heeft, kinderen inbegrepen](https://traveldocumentvault.com/blog/uk-eta-passport-rules/eta-passport-link-figure-nl.jpg) De goedkeuring is gekoppeld aan het paspoort, niet aan jou - en elke reiziger heeft zijn eigen ETA.
+![Je Britse ETA is gekoppeld aan het paspoort waarmee je de aanvraag hebt gedaan. Een nieuw of vernieuwd paspoort. De koppeling gaat niet mee. Iedereen die een ETA nodig heeft, moet er zelf een hebben.](https://traveldocumentvault.com/blog/uk-eta-passport-rules/eta-passport-link-figure-nl.jpg) Je Britse ETA is gekoppeld aan het paspoort waarmee je de aanvraag hebt gedaan.
 
 1. De vervaldatum van je paspoort komt dichterbij.
 2. Je vraagt in je thuisland een nieuw paspoort aan.
@@ -55,15 +55,15 @@ Dit is de tijdlijn om rekening mee te houden:
 
 Het risico zit in stap 5. Ligt je reis over 10 dagen en komt je nieuwe paspoort vandaag aan, dan heb je een heel smal venster om te vernieuwen en de ETA-goedkeuring te krijgen. Begin je met minder dan 2 tot 3 weken voor vertrek aan het vernieuwingsproces, dan ontstaat er echte tijdsdruk.
 
-## Elk kind heeft een eigen ETA nodig, baby's inbegrepen
+## Hebben kinderen en baby’s een Britse ETA nodig?
 
-Iedereen, ook baby's, heeft een eigen UK ETA nodig. Er bestaat geen gezins-ETA. Iedereen heeft een eigen ETA nodig, maar je kunt wel namens gezinsleden aanvragen.
+[Iedereen die een ETA nodig heeft, moet een eigen ETA hebben. Dat geldt ook voor kinderen en baby’s.](https://www.gov.uk/eta/when-not-need-eta)
 
-Dit betekent dat je voor een gezin van vier personen vier aparte aanvragen indient en vier aparte kosten betaalt. Belangrijker nog: je houdt vier goedkeuringsstatussen, vier vervaldata en vier paspoortnummers bij, allemaal apart.
+Als alle vier de gezinsleden een ETA nodig hebben, dien je vier aparte aanvragen in en betaal je voor elke aanvraag. Je kunt namens je gezinsleden een aanvraag indienen.
 
-In veel landen is het paspoort van een kind korter geldig dan dat van een volwassene, vaak 5 jaar, dus controleer het paspoort van je eigen kind. Een kinderpaspoort dat in 2023 voor 5 jaar is afgegeven, moet tegen 2028 vervangen zijn, wat vóór die tijd een nieuwe ETA-aanvraag betekent. Wordt er een gezinsreis gepland als dat kind 5 is, dan kunnen zowel het paspoort als de ETA binnen een jaar of twee van hun vervaldatum zitten.
+In veel landen is het paspoort van een kind korter geldig dan dat van een volwassene, vaak 5 jaar, dus controleer het paspoort van je eigen kind.
 
-**Controleer voordat je een gezinsreis naar het VK boekt de vervaldatum van het paspoort en de ETA-status van elk gezinslid.** Wie te weinig geldigheid heeft of geen ETA, mag mogelijk niet aan boord, en dat kan de reis van het hele gezin ontregelen.
+**Controleer vóór het boeken wanneer het paspoort van elk gezinslid verloopt en wie een ETA nodig heeft.**
 
 ## Vraag twee tot drie weken voor vertrek aan
 
@@ -73,7 +73,7 @@ Plan alsof 3 werkdagen het minimum is, niet het streefdoel.
 
 Een week van tevoren aanvragen vanuit het buitenland geeft je een redelijke marge, terwijl 48 uur voor je vlucht aanvragen betekent dat je uitgaat van het beste scenario, zonder enige marge als er iets misgaat.
 
-Wordt je ETA-aanvraag geweigerd, dan zegt de Home Office dat je opnieuw kunt aanvragen – maar dat in de dagen voor je vlucht doen is geen praktisch vangnet. Vraag ruim op tijd aan en behandel 3 werkdagen als de minimale marge, niet als het streefdoel.
+[Als het Britse ministerie van Binnenlandse Zaken je een ETA weigert, moet je een visum aanvragen als je toch naar het VK wilt reizen.](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-electronic-travel-authorisation) [Wordt je aanvraag bij de identiteitscontrole afgewezen, dan kun je een nieuwe ETA-aanvraag indienen.](https://www.gov.uk/government/publications/electronic-travel-authorisation-caseworker-guidance/electronic-travel-authorisation-caseworker-guidance-accessible)
 
 De veiligere aanpak: vraag aan zodra je je definitieve paspoort hebt – idealiter 2 tot 3 weken voor vertrek. Dit geeft je een volledige werkmarge en tijd om eventuele problemen op te lossen als de Home Office om verduidelijking vraagt.
 
@@ -116,7 +116,7 @@ Je UK ETA is gekoppeld aan het specifieke paspoortnummer waarmee je hebt aangevr
 
 ### Hebben kinderen hun eigen UK ETA nodig?
 
-Ja, iedereen heeft een eigen ETA nodig, ook baby's en jonge kinderen. Elke persoon die gaat reizen moet een eigen goedgekeurde ETA hebben, gekoppeld aan het eigen paspoortnummer. Er bestaat geen gezins-ETA, maar je kunt wel namens gezinsleden aanvragen.
+Iedereen die een ETA nodig heeft, moet een eigen ETA hebben. Dat geldt ook voor kinderen en baby’s.
 
 ### Is een UK ETA een garantie voor binnenkomst?
 
